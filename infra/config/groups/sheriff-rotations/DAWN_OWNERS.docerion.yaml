@@ -1,0 +1,4 @@
+# Docerion header of DAWN_OWNERS.
+type: config
+title: Dawn sheriff rotation owners
+summary: Lists the chromium.org email addresses serving as owners for the Dawn sheriff rotation.

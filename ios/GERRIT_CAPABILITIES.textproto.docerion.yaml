@@ -1,0 +1,4 @@
+# Docerion header of GERRIT_CAPABILITIES.textproto.
+type: config
+title: Gerrit AI review agent configuration
+summary: Configures an AI reviewer for iOS code changes with style guide context links and manual autoreview mode.

@@ -1,0 +1,4 @@
+# Docerion header of post-migrate-targets.py.
+type: script
+title: Post-migration cleanup of unreferenced suites and mixins
+summary: Script that finishes a starlark migration by removing test suites, mixins and variants left unreferenced after migrated builders are dropped from waterfalls.pyl, using buildozer edits.

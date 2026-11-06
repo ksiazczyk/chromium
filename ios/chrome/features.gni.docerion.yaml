@@ -1,0 +1,4 @@
+# Docerion header of features.gni.
+type: config
+title: Build feature flags for Chrome on iOS
+summary: Declares GN build arguments controlling Lottie framework linking, sandbox dumping, and profile altering tests.

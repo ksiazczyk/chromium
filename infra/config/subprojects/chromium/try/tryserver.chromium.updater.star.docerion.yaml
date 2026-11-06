@@ -1,0 +1,4 @@
+# Docerion header of tryserver.chromium.updater.star.
+type: ci
+title: tryserver.chromium.updater builder definitions
+summary: Defines the tryserver.chromium.updater builder group with debug and release try builders for the Chrome updater and enterprise companion on Linux, Mac and Windows.

@@ -1,0 +1,4 @@
+# Docerion header of lint-luci-milo.py.
+type: script
+title: luci-milo console consistency checker
+summary: Script that verifies builders on the main Milo waterfall match the corresponding standalone subwaterfall consoles.

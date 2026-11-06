@@ -1,0 +1,4 @@
+# Docerion header of linux-archive-rel.json.
+type: config
+title: Linux x64 archive configuration
+summary: Configures archiving of Linux x64 builds, including Chrome, chromedriver, content shell, DevTools frontend and headless shell, to the chromium-browser-snapshots GCS bucket.

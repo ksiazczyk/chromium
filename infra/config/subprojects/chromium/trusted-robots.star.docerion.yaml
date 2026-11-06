@@ -1,0 +1,4 @@
+# Docerion header of trusted-robots.star.
+type: ci
+title: Trusted robots bucket and pool
+summary: Defines the trusted.robots bucket, swarming pool realm, ACLs, console view and CI defaults for builders running as trusted robots.

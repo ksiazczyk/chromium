@@ -1,0 +1,4 @@
+# Docerion header of chromium.updater.star.
+type: ci
+title: Chromium updater CI builder definitions
+summary: Starlark definitions of the chromium.updater builder group, including Linux debug and release updater builders and the chromium.updater console view.

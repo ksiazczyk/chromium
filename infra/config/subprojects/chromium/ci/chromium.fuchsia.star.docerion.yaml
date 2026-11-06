@@ -1,0 +1,4 @@
+# Docerion header of chromium.fuchsia.star.
+type: ci
+title: Chromium Fuchsia CI builder definitions
+summary: Defines LUCI CI builders for the chromium.fuchsia group, including deterministic build checks and Fuchsia release and debug builds with tree closing.

@@ -1,0 +1,4 @@
+# Docerion header of console-header.star.
+type: config
+title: LUCI console header definition
+summary: Defines the oncall rotations and link groups displayed in the header of Chromium LUCI console views.

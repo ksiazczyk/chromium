@@ -1,0 +1,4 @@
+# Docerion header of .style.mdformat.
+type: config
+title: Empty mdformat style marker
+summary: Empty marker file that likely signals mdformat Markdown formatting settings for the ios directory.

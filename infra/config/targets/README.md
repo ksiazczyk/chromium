@@ -1,3 +1,13 @@
+---
+type: readme
+title: Targets definitions overview
+summary: Documents the lucicfg package, the role of each Starlark file and how to set tests for builders in Starlark.
+relations:
+  - documents /infra/config/targets/basic_suites.star
+  - documents /infra/config/targets/binaries.star
+  - documents /infra/config/targets/bundles.star
+---
+
 # Targets definitions
 
 This directory contains target definitions used for configuring the targets and

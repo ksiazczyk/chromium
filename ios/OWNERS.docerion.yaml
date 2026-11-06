@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the ios directory
+summary: Lists the directory owners and grants autorollers per-file ownership of README.chromium revision updates.

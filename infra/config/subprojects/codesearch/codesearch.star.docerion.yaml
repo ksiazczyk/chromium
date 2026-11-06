@@ -1,0 +1,4 @@
+# Docerion header of codesearch.star.
+type: config
+title: Codesearch LUCI try builder definitions
+summary: Defines the codesearch LUCI bucket, defaults, and try builders that generate Code Search Kythe index packs for Android, ChromiumOS, Fuchsia, iOS, and Linux.

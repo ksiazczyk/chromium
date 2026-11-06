@@ -1,0 +1,4 @@
+# Docerion header of webrtc.star.
+type: config
+title: LUCI configuration for the webrtc bucket
+summary: Defines the webrtc LUCI bucket, builder defaults, and builders testing WebRTC inside Chromium, including Android builder and tester pairs.

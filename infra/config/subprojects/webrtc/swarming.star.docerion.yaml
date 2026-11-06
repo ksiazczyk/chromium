@@ -1,0 +1,4 @@
+# Docerion header of swarming.star.
+type: config
+title: Swarming pool configuration for webrtc
+summary: Defines the webrtc Swarming pool realm with extended ACLs and task triggerer permissions for project-webrtc-admins.

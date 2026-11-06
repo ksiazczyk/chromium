@@ -1,3 +1,9 @@
+---
+type: readme
+title: Archive configuration directory README
+summary: Explains that this directory holds per-builder archive configurations controlling which Chromium binaries get archived and where they are stored, and links to the archive recipe module schema.
+---
+
 This directory contains the configurations of which binaries get archived on
 Chromium builders, and controls how and where they're stored. This applies
 mostly to the `*-archive-*` builders on this

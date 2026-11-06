@@ -1,0 +1,4 @@
+# Docerion header of chromium.angle.star.
+type: ci
+title: ANGLE CI builder definitions
+summary: Defines CI builders for the chromium.angle group that build and test Chromium with ANGLE across Android, Fuchsia, Linux, Mac, iOS and Windows.

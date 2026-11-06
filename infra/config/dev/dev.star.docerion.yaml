@@ -1,0 +1,4 @@
+# Docerion header of dev.star.
+type: config
+title: Chromium dev LUCI project definition
+summary: Starlark configuration that declares the Chromium dev LUCI project, its services, ACLs, and realms, and loads swarming, recipes, and subproject configs.

@@ -1,0 +1,4 @@
+# Docerion header of tryserver.chromium.mac.star.
+type: ci
+title: tryserver.chromium.mac builder definitions
+summary: Defines the tryserver.chromium.mac builder group with macOS and iOS try builders, including clobber release, arm64, field trial and iOS builders.

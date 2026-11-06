@@ -1,6 +1,13 @@
 # Copyright 2024 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Presubmit checks for migration lib scripts
+# summary: Depot_tools presubmit definition that runs the *_test.py unit tests when Python or JSON files in the migration lib change.
+# ---
+
 """PRESUBMIT for scripts.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

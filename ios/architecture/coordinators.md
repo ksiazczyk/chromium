@@ -1,3 +1,12 @@
+---
+type: reference
+title: Coordinators
+summary: Architecture document describing the coordinator pattern for encapsulating UI features, covering lifecycle, hierarchy, presentation mechanics, and command integration.
+relations:
+  - references /ios/architecture/coordinator_triad.svg
+  - references /ios/architecture/mediators.md
+---
+
 # Coordinators
 
 > **Core Principle:** To **decompose** the user interface into **encapsulated**

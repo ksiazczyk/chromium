@@ -1,0 +1,4 @@
+# Docerion header of cq-usage.star.
+type: source
+title: CQ usage generator for blocking builders
+summary: Lucicfg generator that trims commit-queue.cfg into cq-usage configs listing builders that block the CQ, enabling limited owners.

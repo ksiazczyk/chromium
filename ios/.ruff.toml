@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Ruff configuration for iOS Python code
+# summary: Sets line length, exclusions, and lint and format rules for Ruff when checking Python files under ios.
+# ---
+
 line-length = 80
 indent-width = 4
 extend-exclude = [

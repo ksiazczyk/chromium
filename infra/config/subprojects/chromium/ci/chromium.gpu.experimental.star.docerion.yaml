@@ -1,0 +1,4 @@
+# Docerion header of chromium.gpu.experimental.star.
+type: ci
+title: Chromium GPU experimental CI list view
+summary: Defines a LUCI list view named chromium.gpu.experimental used to park inactive experimental GPU testers away from chromium.gpu.fyi.

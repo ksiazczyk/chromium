@@ -1,0 +1,4 @@
+# Docerion header of tryserver.chromium.prompt_eval.star.
+type: ci
+title: tryserver.chromium.prompt_eval builder definitions
+summary: Defines the tryserver.chromium.prompt_eval builder group, mirroring the CI linux-prompt-evals builder to evaluate prompt changes on Linux.

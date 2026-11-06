@@ -1,0 +1,4 @@
+# Docerion header of FUCHSIA_OWNERS.
+type: config
+title: Fuchsia sheriff rotation owners
+summary: Lists the email addresses of the owners assigned to the Fuchsia sheriff rotation group.

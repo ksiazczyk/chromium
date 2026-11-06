@@ -1,0 +1,4 @@
+# Docerion header of migrate-targets.py.
+type: script
+title: Migrate builder tests from testing/buildbot to starlark
+summary: Command-line script that migrates test settings for a builder group from waterfalls.pyl and test_suite_exceptions.pyl into the group's starlark file, then regenerates configs for comparison.

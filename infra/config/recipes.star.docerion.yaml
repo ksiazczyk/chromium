@@ -1,0 +1,4 @@
+# Docerion header of recipes.star.
+type: script
+title: Recipe declarations for Chromium builders
+summary: Starlark helpers and declarations registering Chromium recipes with CIPD packages, bootstrappability, and experiments.

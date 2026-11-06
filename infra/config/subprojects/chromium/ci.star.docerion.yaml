@@ -1,0 +1,4 @@
+# Docerion header of ci.star.
+type: ci
+title: CI bucket and post-submit builders
+summary: Sets up the ci bucket with ACLs, a gitiles poller, shadow bucket and console views for post-submit testing of the chromium main branch.

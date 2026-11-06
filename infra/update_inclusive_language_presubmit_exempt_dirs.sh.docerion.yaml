@@ -1,0 +1,4 @@
+# Docerion header of update_inclusive_language_presubmit_exempt_dirs.sh.
+type: script
+title: Update inclusive language presubmit exempt dirs
+summary: Shell script that greps for non-inclusive terms and produces the sorted directory list to regenerate the exempt dirs file for the PRESUBMIT check.

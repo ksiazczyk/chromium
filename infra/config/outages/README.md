@@ -1,3 +1,12 @@
+---
+type: readme
+title: Outages configuration directory
+summary: Explains the outages configuration directory, how to modify config.star parameters such as disable_cq_experiments, and the presubmit rules and footers for landing changes during an outage.
+relations:
+  - documents /infra/config/outages/config.star
+  - documents /infra/config/outages/outages.star
+---
+
 This directory contains configuration for dealing with outages.
 
 In response to outages, it is occasionally necessary to disable or alter the

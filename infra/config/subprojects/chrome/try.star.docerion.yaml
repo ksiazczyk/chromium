@@ -1,0 +1,4 @@
+# Docerion header of try.star.
+type: ci
+title: Chrome internal trybot definitions for Chromium's commit queue
+summary: Registers internal Chrome trybots in Chromium's commit queue, defining mandatory and optional builders with their CQ verifier settings

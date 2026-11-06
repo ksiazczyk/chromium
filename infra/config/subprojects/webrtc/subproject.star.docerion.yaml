@@ -1,0 +1,4 @@
+# Docerion header of subproject.star.
+type: config
+title: webrtc subproject entry point
+summary: Starlark entry point that pulls in the swarming, webrtc, webrtc.fyi, and console definitions for the webrtc subproject.

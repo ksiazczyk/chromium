@@ -1,0 +1,4 @@
+# Docerion header of crossbench.star.
+type: ci
+title: Crossbench CI builder definitions
+summary: Starlark definitions of the crossbench builder group, running Crossbench smoke tests on Linux with a dedicated console view.

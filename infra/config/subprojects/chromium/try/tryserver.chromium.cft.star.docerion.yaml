@@ -1,0 +1,4 @@
+# Docerion header of tryserver.chromium.cft.star.
+type: ci
+title: tryserver.chromium.cft try builder definitions
+summary: Defines Chrome for Testing try builders for Linux, Mac, and Windows release builds, triggered by chrome_for_testing path changes.

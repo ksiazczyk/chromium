@@ -1,0 +1,4 @@
+# Docerion header of branch.py.
+type: script
+title: Chromium branch settings initializer
+summary: Initializes settings.json for a new Chromium branch and enables builders for additional platforms.

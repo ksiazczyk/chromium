@@ -1,0 +1,4 @@
+# Docerion header of chromium.star.
+type: ci
+title: Chromium CI builder definitions
+summary: Starlark definitions of LUCI builders and console views for the main chromium builder group, covering Android, desktop and Fuchsia archive and test builders.

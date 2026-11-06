@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Ruff lint and format configuration
+# summary: Configures the Ruff linter and formatter for Python files, setting line length, indentation, exclusions and lint rules.
+# ---
+
 line-length = 80
 indent-width = 2
 extend-exclude = [

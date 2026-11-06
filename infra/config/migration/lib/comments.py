@@ -1,6 +1,13 @@
 # Copyright 2025 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Comment attachment helpers for pyl conversion
+# summary: Attaches comments from parsed pyl values onto converted values and asserts when comments are unexpected.
+# ---
+
 """Utilities for adding comments from pyl values to converted values."""
 
 import typing

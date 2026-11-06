@@ -1,0 +1,4 @@
+# Docerion header of tryserver.chromium.fuzz.star.
+type: ci
+title: tryserver.chromium.fuzz builder definitions
+summary: Defines the tryserver.chromium.fuzz builder group of sanitizer and fuzzing try builders (ASan, MSan, TSan, UBSan, libFuzzer) that mirror corresponding CI builders.

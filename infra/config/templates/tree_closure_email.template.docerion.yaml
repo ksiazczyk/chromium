@@ -1,0 +1,4 @@
+# Docerion header of tree_closure_email.template.
+type: config
+title: Chromium tree closure email template
+summary: Go template that renders the Chromium tree closure email, listing failed steps, status changes, and a note to gardeners about automated culprit reverts.

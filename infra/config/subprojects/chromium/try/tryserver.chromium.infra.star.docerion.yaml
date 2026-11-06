@@ -1,0 +1,4 @@
+# Docerion header of tryserver.chromium.infra.star.
+type: ci
+title: tryserver.chromium.infra builder definitions
+summary: Defines the tryserver.chromium.infra builder group, including 3PP packagers for Linux, Mac and Windows, the Mega CQ launcher, and the Universal Test Runner tester.

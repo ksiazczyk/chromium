@@ -1,0 +1,4 @@
+# Docerion header of subproject.star.
+type: config
+title: Codesearch subproject entry point
+summary: Starlark entry point that loads the codesearch LUCI configuration for this subproject.

@@ -1,3 +1,12 @@
+---
+type: reference
+title: UI Commands and Disintermediated Dispatch
+summary: Architecture document explaining how Chrome on iOS uses UI command protocols and a browser-scoped command dispatcher to trigger UI changes across coordinators without coupling components.
+relations:
+  - references /ios/architecture/coordinators.md
+  - references /ios/architecture/mediators.md
+---
+
 # UI Commands and Disintermediated Dispatch
 
 > **Core Principle:** In order for encapsulated coordinators to trigger UI

@@ -1,0 +1,4 @@
+# Docerion header of swangle.try.star.
+type: ci
+title: SwANGLE try builder definitions
+summary: Defines LUCI try builders for SwANGLE (SwiftShader ANGLE) testing in the tryserver.chromium.swangle group on Linux, Mac and Windows.

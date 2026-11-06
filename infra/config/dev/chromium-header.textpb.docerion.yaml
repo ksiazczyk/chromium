@@ -1,0 +1,4 @@
+# Docerion header of chromium-header.textpb.
+type: config
+title: Chromium dev console header
+summary: Text protobuf defining the oncall contact, navigation links, and tree status settings shown in the header of the Chromium dev Milo console.

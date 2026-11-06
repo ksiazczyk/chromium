@@ -1,0 +1,4 @@
+# Docerion header of try_constants.star.
+type: config
+title: Default constants for try builders
+summary: Defines shared trybot defaults such as recipe, execution timeout, pool and service account.

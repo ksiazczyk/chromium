@@ -1,0 +1,4 @@
+# Docerion header of blink.infra.star.
+type: ci
+title: Blink infra CI builder definitions
+summary: Defines LUCI CI builders for the blink.infra group, including the scheduled blink flake suppressor and web test analyzer jobs.

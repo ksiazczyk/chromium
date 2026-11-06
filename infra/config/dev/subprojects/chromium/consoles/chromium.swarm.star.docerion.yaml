@@ -1,0 +1,4 @@
+# Docerion header of chromium.swarm.star.
+type: ci
+title: Chromium dev LUCI console view definition
+summary: Defines the chromium.dev LUCI console view, listing the dev CI builders for Android, Linux, Mac, and Windows.

@@ -1,0 +1,4 @@
+# Docerion header of convert_pyls_test.py.
+type: test
+title: Unit tests for gn_isolate_map.pyl conversion
+summary: Checks that converted gn_isolate_map.pyl input produces the expected binaries and compile target Starlark files.

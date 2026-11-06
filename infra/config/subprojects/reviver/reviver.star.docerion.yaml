@@ -1,0 +1,4 @@
+# Docerion header of reviver.star.
+type: ci
+title: Test Reviver LUCI bucket and launchers
+summary: Defines the reviver LUCI bucket, ACLs, console, and scheduled polymorphic launchers that run tests to find disabled tests worth re-enabling.

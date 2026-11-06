@@ -1,0 +1,4 @@
+# Docerion header of checks.star.
+type: ci
+title: Presubmit CI builder definitions
+summary: Defines the Linux and Windows presubmit builders that run presubmit checks and appear in the checks console view.

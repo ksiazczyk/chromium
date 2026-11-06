@@ -1,0 +1,4 @@
+# Docerion header of subproject.star.
+type: ci
+title: Chromium subproject entry point
+summary: Sets console defaults for chromium/src and executes the CI, try, trusted-robots, GPU, ANGLE and SwANGLE builder definition files.

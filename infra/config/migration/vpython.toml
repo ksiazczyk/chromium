@@ -1,1 +1,7 @@
+# ---docerion
+# type: config
+# title: vpython Python version requirement
+# summary: vpython configuration pinning the Python interpreter for the migration scripts to version 3.11.
+# ---
+
 requires-python = '>=3.11,<3.12'

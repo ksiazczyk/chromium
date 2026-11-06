@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: CQ usage owners delegation
+summary: Delegates approval for this directory to the CQ_USAGE_OWNERS file and disables inheritance from parent OWNERS.

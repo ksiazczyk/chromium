@@ -1,0 +1,4 @@
+# Docerion header of mac-arm64-archive-rel.json.
+type: config
+title: Mac arm64 archive configuration
+summary: Configures archiving of Mac arm64 builds, including Chromium.app, chromedriver, content shell, DevTools frontend and updater zips, to the chromium-browser-snapshots GCS bucket.

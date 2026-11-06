@@ -1,0 +1,4 @@
+# Docerion header of chromium.bedrock.star.
+type: ci
+title: Bedrock CI builder definitions
+summary: Defines the chromium.bedrock CI builder that collects browser metrics for the bedrock project on Linux.

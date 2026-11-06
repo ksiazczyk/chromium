@@ -1,0 +1,4 @@
+# Docerion header of fallback-cq.star.
+type: ci
+title: Fallback CQ group generator
+summary: Lucicfg generator that marks the fallback CQ group so CLs on canary or unmanaged branches can be submitted through the CQ.

@@ -1,0 +1,4 @@
+# Docerion header of sync-pyl-files.py.
+type: script
+title: mixins.pyl sync script
+summary: Copies the generated mixins.pyl to //testing/buildbot, or with --check verifies the copies match.

@@ -1,0 +1,4 @@
+# Docerion header of builder-owners.star.
+type: source
+title: Builder owner alias generator library
+summary: Lucicfg generator library that maps builder contact team emails to the builders they own and writes builder-owners alias files.

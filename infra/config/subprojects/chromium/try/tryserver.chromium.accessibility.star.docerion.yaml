@@ -1,0 +1,4 @@
+# Docerion header of tryserver.chromium.accessibility.star.
+type: ci
+title: tryserver.chromium.accessibility try builder definitions
+summary: Defines accessibility try builders that mirror CI builders and trigger on accessibility-related code paths.

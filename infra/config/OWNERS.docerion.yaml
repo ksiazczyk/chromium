@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Per-file owners for infra config
+summary: Assigns per-file owners for LUCI service configs, builder definitions and generated files across platform and tooling areas.

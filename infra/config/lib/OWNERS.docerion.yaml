@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for builder exemption deletions
+summary: Grants everyone ownership of builder_exemptions.star so stale exemption entries can be deleted without extra review, while forbidding new additions.

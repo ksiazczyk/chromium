@@ -1,0 +1,4 @@
+# Docerion header of chromium.win.star.
+type: ci
+title: Chromium Windows CI builder definitions
+summary: Starlark definitions of the chromium.win builder group, setting Windows defaults, tree closing, and builders such as Win Builder and WebKit Win10 testers.

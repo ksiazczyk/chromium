@@ -1,0 +1,4 @@
+# Docerion header of matrix_compound_suites.star.
+type: config
+title: Matrix compound suite declarations
+summary: Declares matrix compound suites that group basic suites with variants so builders can expand tests into multiple instances, also exposing them as bundles.

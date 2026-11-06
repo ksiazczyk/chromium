@@ -1,0 +1,4 @@
+# Docerion header of chromium.memory.star.
+type: ci
+title: Chromium memory CI builder definitions
+summary: Starlark definitions of LUCI builders and console views for the chromium.memory builder group, covering sanitizer builds such as ASan, LSan, MSan and TSan.

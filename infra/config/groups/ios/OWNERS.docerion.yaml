@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: iOS OWNERS
+summary: Lists the email addresses of code owners for iOS reviews, noting that cameronhiggins@ and wyeager@ are preferred while yueshe@ is emeritus.

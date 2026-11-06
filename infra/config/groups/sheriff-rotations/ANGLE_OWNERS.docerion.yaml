@@ -1,0 +1,4 @@
+# Docerion header of ANGLE_OWNERS.
+type: config
+title: ANGLE sheriff rotation owners
+summary: Lists ANGLE team members by chromium.org and google.com address as owners for the ANGLE sheriff rotation.

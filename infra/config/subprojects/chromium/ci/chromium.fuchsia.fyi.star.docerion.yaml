@@ -1,0 +1,4 @@
+# Docerion header of chromium.fuchsia.fyi.star.
+type: ci
+title: Chromium Fuchsia FYI CI builder definitions
+summary: Defines LUCI FYI CI builders for the chromium.fuchsia.fyi group, running Fuchsia ARM64 and x64 debug and release tests.

@@ -1,0 +1,4 @@
+# Docerion header of xcode.star.
+type: config
+title: Xcode versions for iOS bots
+summary: Defines the default and beta Xcode versions used by iOS builders, kept in sync with the bots in //ios/build/bots/.

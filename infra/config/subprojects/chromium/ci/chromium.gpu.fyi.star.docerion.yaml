@@ -1,0 +1,4 @@
+# Docerion header of chromium.gpu.fyi.star.
+type: ci
+title: Chromium GPU FYI CI builder definitions
+summary: Starlark definitions of LUCI builders, console views and defaults for the chromium.gpu.fyi builder group, covering GPU FYI builders across Windows, Mac, Linux and Android.

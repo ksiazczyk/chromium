@@ -1,0 +1,4 @@
+# Docerion header of features.gni.
+type: config
+title: iOS build feature arguments
+summary: GN build configuration declaring iOS-specific arguments such as WebKit-only builds, Chrome target inclusion, and universal link and context menu behavior.

@@ -1,0 +1,4 @@
+# Docerion header of tryserver.chromium.android.star.
+type: ci
+title: tryserver.chromium.android try builder definitions
+summary: Defines the Android try builder group with GN args, Siso settings, and CQ location filters for many device and emulator configurations.

@@ -1,0 +1,4 @@
+# Docerion header of branch_integration_test.py.
+type: test
+title: Integration tests for branch.py initialize
+summary: Executes branch.py as a subprocess to verify argument validation and that initialize writes the expected settings.json for milestone branches.

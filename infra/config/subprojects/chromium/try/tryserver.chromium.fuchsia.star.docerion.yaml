@@ -1,0 +1,4 @@
+# Docerion header of tryserver.chromium.fuchsia.star.
+type: ci
+title: tryserver.chromium.fuchsia builder definitions
+summary: Defines the tryserver.chromium.fuchsia builder group, including Fuchsia ARM64 and x64 cast receiver, binary size, and compile-only try builders that mirror CI configurations.

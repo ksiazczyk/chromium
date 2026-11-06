@@ -1,0 +1,4 @@
+# Docerion header of chromium.enterprise_companion.star.
+type: ci
+title: Chromium Enterprise Companion CI builder definitions
+summary: Defines LUCI CI builders for the Chrome Enterprise Companion app, with Linux debug and release builds plus thin testers.

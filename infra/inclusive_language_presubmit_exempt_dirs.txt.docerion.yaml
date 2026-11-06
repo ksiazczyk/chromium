@@ -1,0 +1,4 @@
+# Docerion header of inclusive_language_presubmit_exempt_dirs.txt.
+type: config
+title: Inclusive language presubmit exempt directories
+summary: List of directories whose files are exempt from the inclusive language PRESUBMIT check, consumed by the CheckInclusiveLanguage function.

@@ -1,0 +1,4 @@
+# Docerion header of .lucicfgfmtrc.
+type: config
+title: lucicfg formatter rules
+summary: Defines argument ordering and formatting rules used by the lucicfg formatter for Starlark configuration files.

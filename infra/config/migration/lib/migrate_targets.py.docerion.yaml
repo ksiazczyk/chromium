@@ -1,0 +1,4 @@
+# Docerion header of migrate_targets.py.
+type: source
+title: Library for migrating builder targets from waterfalls.pyl
+summary: Migrates builder test suites and per-test modifications from waterfalls.pyl into Starlark target declarations.

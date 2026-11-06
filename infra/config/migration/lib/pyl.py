@@ -1,6 +1,13 @@
 # Copyright 2025 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Parser for pyl files preserving comments
+# summary: Parses pyl files (a single Python literal with comments) into node objects that retain comment placement, enabling comment-preserving rewrites and conversions.
+# ---
+
 """Module for parsing pyl files, retaining comments.
 
 pyl files are files containing a single python literal value with

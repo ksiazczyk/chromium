@@ -1,0 +1,4 @@
+# Docerion header of ci_constants.star.
+type: config
+title: Default constants for CI builders
+summary: Defines shared CI defaults including recipe, execution timeout, priority, pool, service accounts and tree closing notifiers.

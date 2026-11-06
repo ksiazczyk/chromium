@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for iOS
+summary: Groups the executables, tests, and support targets that are built by default as part of gn_all on iOS.

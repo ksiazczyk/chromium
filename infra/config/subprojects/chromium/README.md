@@ -1,3 +1,13 @@
+---
+type: readme
+title: Chromium subproject LUCI configuration
+summary: Explains the LUCI entity definitions that test chromium/src, listing the CI, try, GPU, ANGLE, SwANGLE and fallback CQ star files.
+relations:
+  - documents /infra/config/subprojects/chromium/ci.star
+  - documents /infra/config/subprojects/chromium/try.star
+  - documents /infra/config/subprojects/chromium/swangle.try.star
+---
+
 Definitions of LUCI entities that test the chromium/src codebase.
 
 * ci.star - builders that do post-submit testing against the main branch

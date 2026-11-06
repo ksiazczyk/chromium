@@ -1,0 +1,4 @@
+# Docerion header of chromium.gpu.star.
+type: ci
+title: Chromium GPU CI builder definitions
+summary: Starlark definitions of LUCI builders, console views and defaults for the chromium.gpu builder group, running release GPU tests on supported platforms.

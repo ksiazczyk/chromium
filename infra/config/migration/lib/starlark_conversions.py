@@ -1,6 +1,13 @@
 # Copyright 2025 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Conversion of pyl values to starlark values
+# summary: Converts pyl values to starlark text, mapping magic substitution argument strings to targets.magic_args structs and converting swarming, resultdb and skylab dicts.
+# ---
+
 """Utilities for converting python values to starlark values."""
 
 import typing

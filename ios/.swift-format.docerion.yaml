@@ -1,0 +1,4 @@
+# Docerion header of .swift-format.
+type: config
+title: Swift formatting rules
+summary: Defines Swift style settings such as indentation, line length, and enabled formatting rules for iOS code.

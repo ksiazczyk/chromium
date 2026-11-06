@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Presubmit checks for bundle order and lucicfg lint
+# summary: Runs presubmit checks that keep bundle names sorted in bundles.star and lint the Starlark files in this directory.
+# ---
+
 PRESUBMIT_VERSION = '2.0.0'
 
 import os  # noqa: E402

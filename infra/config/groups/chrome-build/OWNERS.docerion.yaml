@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Chrome build OWNERS
+summary: Lists the build team members pledged to perform timely, technically rigorous code reviews for the chrome-build group.

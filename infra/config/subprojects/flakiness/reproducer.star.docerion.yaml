@@ -1,0 +1,4 @@
+# Docerion header of reproducer.star.
+type: config
+title: Flaky reproducer LUCI configuration
+summary: Defines the chromium.flakiness console view, the flaky-reproducer bucket, and the runner builder that executes the flakiness/reproducer recipe to reproduce flaky tests.

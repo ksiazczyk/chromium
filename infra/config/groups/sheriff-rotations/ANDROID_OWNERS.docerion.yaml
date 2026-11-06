@@ -1,0 +1,4 @@
+# Docerion header of ANDROID_OWNERS.
+type: config
+title: Android sheriff rotation owners
+summary: Lists the chromium.org email addresses serving as owners for the Android sheriff rotation.

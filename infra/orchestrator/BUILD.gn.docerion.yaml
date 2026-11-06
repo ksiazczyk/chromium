@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Orchestrator GN build targets
+summary: GN build file defining the Orchestrator's runtime dependencies and Python library targets for the merge scripts it uses to combine Chromium CI test results and coverage data.

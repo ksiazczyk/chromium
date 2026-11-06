@@ -1,0 +1,4 @@
+# Docerion header of post_migrate_targets_test.py.
+type: test
+title: Tests for post-migration test suite conversion
+summary: Unit tests verifying that basic and compound suite definitions convert to the expected starlark bundle output, including unhandled key error cases.

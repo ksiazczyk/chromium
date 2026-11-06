@@ -1,0 +1,4 @@
+# Docerion header of buildozer-tables.json.
+type: config
+title: Empty buildozer tables override
+summary: Empty tables file passed to buildozer to prevent unintended changes such as sorting lists in existing files.

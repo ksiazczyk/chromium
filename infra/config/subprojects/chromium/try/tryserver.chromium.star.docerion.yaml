@@ -1,0 +1,4 @@
+# Docerion header of tryserver.chromium.star.
+type: ci
+title: tryserver.chromium builder definitions
+summary: Defines the tryserver.chromium builder group of official build try builders for Android, Linux, Mac and Windows that mirror corresponding CI builders.

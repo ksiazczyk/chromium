@@ -1,0 +1,4 @@
+# Docerion header of tryserver.chromium.enterprise_companion.star.
+type: ci
+title: tryserver.chromium.enterprise_companion try builder definitions
+summary: Defines enterprise companion try builders for Linux, Mac, and Windows, triggered by changes under chrome/enterprise_companion.

@@ -1,0 +1,4 @@
+# Docerion header of linux-chromiumos-full.json.
+type: config
+title: Linux ChromiumOS full archive configuration
+summary: Configures archiving of the Linux ChromiumOS full build as chrome-chromeos.zip to the chromium-browser-snapshots GCS bucket.

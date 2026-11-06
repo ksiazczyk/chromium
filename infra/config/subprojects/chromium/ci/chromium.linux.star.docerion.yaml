@@ -1,0 +1,4 @@
+# Docerion header of chromium.linux.star.
+type: ci
+title: Chromium Linux CI builder definitions
+summary: Starlark definitions of LUCI builders and console views for the chromium.linux builder group, covering Linux and Cast builds and tests.

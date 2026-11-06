@@ -1,0 +1,4 @@
+# Docerion header of CHROMIUM_CLANG_OWNERS.
+type: config
+title: Chromium Clang sheriff rotation owners
+summary: Lists the chromium.org email addresses serving as owners for the Chromium Clang sheriff rotation.

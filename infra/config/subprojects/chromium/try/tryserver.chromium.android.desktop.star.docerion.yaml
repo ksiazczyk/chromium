@@ -1,0 +1,4 @@
+# Docerion header of tryserver.chromium.android.desktop.star.
+type: ci
+title: tryserver.chromium.android.desktop try builder definitions
+summary: Defines Android desktop try builders for clobber, compile, and coverage runs mirroring the corresponding CI builders.

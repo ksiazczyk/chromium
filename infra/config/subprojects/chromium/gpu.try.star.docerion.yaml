@@ -1,0 +1,4 @@
+# Docerion header of gpu.try.star.
+type: ci
+title: GPU try builder definitions
+summary: Defines LUCI GPU try builders across Android, ChromeOS, Linux, Mac and Windows groups that mirror the corresponding CI builders.

@@ -1,0 +1,4 @@
+# Docerion header of toolchains.star.
+type: ci
+title: Trusted-robots toolchain builder definitions
+summary: Defines production and staging LUCI CI builders for Clang toolchain packaging in the chromium.trusted-robots builder group.

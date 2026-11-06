@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for iOS code
+summary: Disallows cross-subdirectory includes within ios and allows specific testing and OCMock includes for unit tests.

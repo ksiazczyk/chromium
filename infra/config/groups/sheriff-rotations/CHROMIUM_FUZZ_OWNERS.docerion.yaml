@@ -1,0 +1,4 @@
+# Docerion header of CHROMIUM_FUZZ_OWNERS.
+type: config
+title: Chromium fuzzing sheriff rotation owners
+summary: Lists Chrome Security Smithy team members as temporary owners for the Chromium fuzzing sheriff rotation.

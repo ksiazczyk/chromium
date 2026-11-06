@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for infra
+summary: Lists default reviewers for chrome-infra changes plus specific owners for Mac, GPU, Clang ToT and reclient/siso bots and the inclusive language files.

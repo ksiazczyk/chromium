@@ -1,0 +1,4 @@
+# Docerion header of basic_suites.star.
+type: config
+title: Basic test suite definitions
+summary: Defines basic test suites that builders, compound suites and bundles can reference, each suite also exposing a matching bundle.

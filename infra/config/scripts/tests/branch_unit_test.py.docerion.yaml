@@ -1,0 +1,4 @@
+# Docerion header of branch_unit_test.py.
+type: test
+title: Unit tests for branch.py parsing and settings
+summary: Exercises branch.py argument parsing and initial_settings output directly, including required-argument errors and the generated settings JSON.

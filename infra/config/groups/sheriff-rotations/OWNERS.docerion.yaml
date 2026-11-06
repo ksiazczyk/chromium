@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Sheriff rotations owners aggregation
+summary: Aggregates the sheriff rotation owner lists by including the Android, Clang, GPU, and Chromium OWNERS files with no parent inheritance.

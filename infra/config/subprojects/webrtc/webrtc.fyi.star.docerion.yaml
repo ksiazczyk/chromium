@@ -1,0 +1,4 @@
+# Docerion header of webrtc.fyi.star.
+type: config
+title: LUCI configuration for the webrtc.fyi bucket
+summary: Defines the webrtc.fyi LUCI bucket, its shadow bucket, gitiles poller, builder defaults, and builders testing WebRTC integration with Chromium.
