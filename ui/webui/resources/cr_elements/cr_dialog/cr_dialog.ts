@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-dialog element implementation
+// summary: Lit element implementing the cr-dialog modal component, managing open state, cancel and close events, keydown handling and the optional close button.
+// ---
+
 /**
  * @fileoverview 'cr-dialog' is a component for showing a modal dialog. If the
  * dialog is closed via close(), a 'close' event is fired. If the dialog is

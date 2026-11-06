@@ -8,6 +8,12 @@
  * #import=../cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared cr-radio-button Material Design styles
+summary: Common Material Design styling for cr-radio-button elements, covering disc, ripple, label, disabled, dark mode, and forced colors states.
+*/
+
 /* Common radio-button styling for Material Design WebUI. */
 :host {
   --cr-radio-button-checked-color:

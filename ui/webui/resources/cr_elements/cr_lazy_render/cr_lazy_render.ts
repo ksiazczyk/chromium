@@ -16,6 +16,12 @@
  *   this.$.menu.get().show();
  */
 
+// ---docerion
+// type: source
+// title: cr-lazy-render Polymer element for lazy template rendering
+// summary: Defines the cr-lazy-render Polymer custom element that stamps a template into the DOM only when its get() method is first called, returning the rendered child element.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 import type {TemplateInstanceBase} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import {html, PolymerElement, templatize} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';

@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the cr-view-manager element
+summary: Defines CSS rules that show, hide, and position slotted views inside the cr-view-manager element, including active and closing states.
+*/
+
 :host ::slotted([slot=view]) {
   bottom: 0;
   display: none;

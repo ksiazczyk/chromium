@@ -1,3 +1,9 @@
+---
+type: readme
+title: cr-tab-box element documentation
+summary: Documents the cr-tab-box custom element, its example usage with tab and panel slots, and how it differs from the Polymer-based cr-tabs.
+---
+
 # cr-tab-box
 
 cr-tab-box is a non-Polymer custom element that can be used to create a simple

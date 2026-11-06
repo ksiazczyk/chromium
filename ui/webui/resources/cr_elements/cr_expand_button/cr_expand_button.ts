@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-expand-button Lit element
+// summary: Defines the cr-expand-button custom element, a Lit-based button that toggles between expanded and collapsed states and manages its icon and ARIA labels.
+// ---
+
 /**
  * @fileoverview
  * 'cr-expand-button' is a chrome-specific wrapper around a button that toggles

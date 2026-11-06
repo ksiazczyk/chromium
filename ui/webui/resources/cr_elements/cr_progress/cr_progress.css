@@ -10,6 +10,12 @@
  * #include=cr-hidden-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the cr-progress element
+summary: Lit CSS defining the cr-progress bar's layout, colors, and determinate and indeterminate progress animations.
+*/
+
 :host {
   display: block;
   width: 200px;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-toolbar search field Lit template
+// summary: Lit HTML template for the toolbar search field with search icon, text input, clear button, optional spinner, and suffix slot.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CrToolbarSearchFieldElement} from './cr_toolbar_search_field.js';

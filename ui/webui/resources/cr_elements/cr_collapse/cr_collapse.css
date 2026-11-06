@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the cr-collapse element
+summary: Defines the CSS for the cr-collapse element, including the max-height collapse transition, no-animation state, and open/closed host styling.
+*/
+
 :host {
   --collapse-duration: var(--iron-collapse-transition-duration, 300ms);
   display: block;

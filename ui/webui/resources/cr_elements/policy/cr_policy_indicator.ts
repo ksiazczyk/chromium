@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrPolicyIndicatorElement
+// summary: Defines the cr-policy-indicator Lit element that picks icons and tooltip strings for policy, extension, owner, and other controlled-setting states.
+// ---
+
 /** @fileoverview Lit element for indicating policies by type. */
 import './cr_tooltip_icon.js';
 

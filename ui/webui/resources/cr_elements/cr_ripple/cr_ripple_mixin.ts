@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrRippleMixin for on-demand ripples
+// summary: Mixin that lets Lit elements create and manage a cr-ripple effect on demand, exposing noink, rippleContainer and ripple helper methods.
+// ---
+
 import './cr_ripple.js';
 
 import {assert} from '//resources/js/assert.js';

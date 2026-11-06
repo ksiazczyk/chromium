@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Lit styles for the spinner
+summary: Defines the .spinner CSS class that renders a throbber via a mask image with configurable size and color, including dark mode support.
+*/
+
 .spinner {
   --cr-spinner-size: 28px;
   mask-image: url(//resources/images/throbber_small.svg);

@@ -13,6 +13,12 @@
  * tab-traversal.
  */
 
+// ---docerion
+// type: source
+// title: cr-toolbar selection overlay element
+// summary: Lit element that overlays cr-toolbar to show the number of selected items, announces selection changes, and fires a clear-selected-items event.
+// ---
+
 import '../cr_icon_button/cr_icon_button.js';
 import '../icons.html.js';
 

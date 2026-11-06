@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA
+summary: Directory metadata file that documents the DIR_METADATA format and applies the ChromeOS settings COMMON_METADATA mixin to this directory.

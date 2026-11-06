@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrCheckboxElement implementation
+// summary: Implements the cr-checkbox Lit element, a native-checkbox-like component that fires change events only on user interaction and supports ripple, keyboard handling, tab index and ARIA customization.
+// ---
+
 /**
  * @fileoverview 'cr-checkbox' is a component similar to native checkbox. It
  * fires a 'change' event *only* when its state changes as a result of a user

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus row mixin for Lit list items
+// summary: Lit mixin that manages mouse and keyboard focus for iron-list or infinite-list row items, tracking last-focused elements and list blur state.
+// ---
+
 // clang-format off
 import type {CrLitElement, PropertyValues} from '//resources/lit/v3_0/lit.rollup.js';
 import {assert} from '//resources/js/assert.js';

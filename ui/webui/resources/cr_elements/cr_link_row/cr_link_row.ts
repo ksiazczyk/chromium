@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrLinkRowElement custom element implementation
+// summary: Defines the cr-link-row custom element, a row-shaped link button with label, sublabel, icon, and accessibility properties.
+// ---
+
 /**
  * @fileoverview
  * A link row is a UI element similar to a button, though usually wider than a

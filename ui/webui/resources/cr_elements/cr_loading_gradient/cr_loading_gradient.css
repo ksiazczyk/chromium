@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: cr-loading-gradient element styles
+summary: Defines the animated linear gradient colors, dark mode variants, and keyframe animation used by the cr-loading-gradient WebUI element.
+*/
+
 
 :host {
   --cr-loading-gradient-color-start: var(--color-loading-gradient-start,

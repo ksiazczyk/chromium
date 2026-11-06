@@ -9,6 +9,12 @@
  * #include=cr-hidden-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the cr-tooltip element
+summary: Defines the Lit CSS styles for the cr-tooltip element, covering positioning, fade-in and fade-out animations, and an offset filler that keeps the tooltip reachable while moving the pointer.
+*/
+
 :host {
   display: block;
   position: absolute;

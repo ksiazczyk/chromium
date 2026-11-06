@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-toolbar search field element
+// summary: Lit element implementing the toolbar search input with show and focus behavior, Escape clearing, spinner state, and accessibility labels.
+// ---
+
 import '../cr_icon_button/cr_icon_button.js';
 import '../icons.html.js';
 

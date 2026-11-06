@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-tree element implementation
+// summary: TypeScript implementation of the CrTreeElement custom element that manages a tree structure with item selection, keyboard navigation, and visible-item traversal helpers.
+// ---
+
 import {assert, assertNotReached} from '//resources/js/assert.js';
 import {isMac} from '//resources/js/platform.js';
 

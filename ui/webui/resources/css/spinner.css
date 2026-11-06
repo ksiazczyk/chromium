@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Spinner styles
+summary: Styles spinner and inline spinner elements as sized blocks using the throbber_small.svg background image.
+*/
+
 .inline-spinner,
 .spinner {
   background-image: url(../images/throbber_small.svg);

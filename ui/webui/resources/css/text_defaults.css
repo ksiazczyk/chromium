@@ -15,6 +15,12 @@
  * to an HTML string.
  * Otherwise its placeholders won't be expanded. */
 
+/*docerion
+type: source
+title: Default text styles with i18n placeholders
+summary: Sets body and button font family and size via i18n placeholders expanded by a C++ data source handler to reduce page flicker.
+*/
+
 body {
   font-family: $i18nRaw{fontfamily};
   font-size: $i18n{fontsize};

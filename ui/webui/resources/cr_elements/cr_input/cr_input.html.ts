@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-input Lit HTML template
+// summary: Lit template that renders the cr-input label, input field with ARIA attributes, inline-prefix and inline-suffix slots, underline, suffix slot, and error message.
+// ---
+
 import {html, nothing} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CrInputElement} from './cr_input.js';

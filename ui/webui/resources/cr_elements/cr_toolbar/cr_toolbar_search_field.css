@@ -12,6 +12,12 @@
  * #include=cr-shared-style-lit cr-icons-lit cr-spinner-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: cr-toolbar search field styles
+summary: Lit CSS for the toolbar search field, styling the icon, prompt, input, spinner, and wide versus narrow layouts with dark mode support.
+*/
+
 :host {
   display: block;
   height: 40px;

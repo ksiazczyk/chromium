@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrMenuSelectorElement web component
+// summary: TypeScript source for the cr-menu-selector WebUI element, adding selectable menu behavior, keyboard navigation, focus management, and aria-current updates.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 import {FocusOutlineManager} from '//resources/js/focus_outline_manager.js';
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';

@@ -4,6 +4,12 @@
 
 /** @fileoverview Element which shows toasts with optional undo button. */
 
+// ---docerion
+// type: source
+// title: cr_toast_manager.ts
+// summary: Defines the cr-toast-manager singleton element that shows toasts with a plain label, collapsible string pieces, or slotted content such as an undo button.
+// ---
+
 import './cr_toast.js';
 
 import {assert} from '//resources/js/assert.js';

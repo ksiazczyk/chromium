@@ -8,6 +8,12 @@
  * mouse events too.
  */
 
+// ---docerion
+// type: source
+// title: Mouse hoverable mixin for Lit elements
+// summary: Mixin for Lit elements that toggles a hovered CSS class on pointer enter and removes it on pointer leave, only for mouse pointer devices.
+// ---
+
 import type {CrLitElement, PropertyValues} from '//resources/lit/v3_0/lit.rollup.js';
 
 const HOVERED_STYLE: string = 'hovered';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared WebUI SVG icon set definitions
+// summary: Defines the commonly used cr20 and cr24 SVG icon sets and registers them as cr-iconsets to prevent icon duplication across WebUI.
+// ---
+
 import './cr_icon/cr_iconset.js';
 
 import {getTrustedHTML} from '//resources/js/static_types.js';

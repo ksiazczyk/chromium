@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: cr-toolbar selection overlay styles
+summary: Lit CSS for the selection overlay displayed over cr-toolbar, including show and hide transitions and dark mode colors.
+*/
+
 :host {
   background-color: white;
   border-bottom: 1px solid var(--google-grey-300);

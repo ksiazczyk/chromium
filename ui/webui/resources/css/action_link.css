@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Action link styles
+summary: Styles the [is='action-link'] element with pointer cursor, hover and active underline, and disabled and no-outline states.
+*/
+
 [is='action-link'] {
   cursor: pointer;
   display: inline-block;

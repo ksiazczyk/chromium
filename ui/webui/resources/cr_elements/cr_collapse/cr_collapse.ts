@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrCollapseElement custom element implementation
+// summary: Implements the cr-collapse Lit custom element with opened state, toggle, show and hide methods, animated height transitions, and aria-hidden updates.
+// ---
+
 import type {PropertyValues} from '//resources/lit/v3_0/lit.rollup.js';
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 

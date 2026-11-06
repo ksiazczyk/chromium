@@ -13,6 +13,12 @@
  * and bottom elements show either a border or a shadow when the cr-scrollable
  * element is scrollable in their respective directions. */
 
+/*docerion
+type: source
+title: Lit styles for scrollable containers
+summary: Provides CSS classes that make an element scrollable and show anchored top and bottom borders or shadows using scroll-state container queries and anchor positioning.
+*/
+
 .cr-scrollable {
   anchor-name: --cr-scrollable;
   anchor-scope: --cr-scrollable;

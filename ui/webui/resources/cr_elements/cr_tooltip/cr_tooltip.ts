@@ -7,6 +7,12 @@
  * from Polymer's paper-tooltip.
  */
 
+// ---docerion
+// type: source
+// title: cr-tooltip web component implementation
+// summary: Implements the CrTooltipElement Lit component, a tooltip with fade animations forked from Polymer's paper-tooltip, supporting anchoring, positioning, manual mode, offsets and delays.
+// ---
+
 import {assertNotReachedCase} from '//resources/js/assert.js';
 import {EventTracker} from '//resources/js/event_tracker.js';
 import type {PropertyValues} from '//resources/lit/v3_0/lit.rollup.js';

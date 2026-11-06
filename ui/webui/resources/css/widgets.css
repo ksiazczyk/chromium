@@ -6,6 +6,12 @@
  * important as there are some rules with equal specificity that rely on order
  * as a tiebreaker. These are marked with OVERRIDE. */
 
+/*docerion
+type: source
+title: Form control widget styles
+summary: Defines appearance for buttons, selects, checkboxes, radios, and text inputs, with platform-conditional padding and forced-colors handling.
+*/
+
 @import url(action_link.css);
 
 /* Default state **************************************************************/

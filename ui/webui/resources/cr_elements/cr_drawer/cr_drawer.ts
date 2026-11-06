@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrDrawerElement implementation
+// summary: Defines the cr-drawer custom element, a Lit-based drawer with open, close, cancel, and toggle behavior plus transition and event handling.
+// ---
+
 import '../cr_shared_vars.css.js';
 
 import {assertNotReached} from '//resources/js/assert.js';

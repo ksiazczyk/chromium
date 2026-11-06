@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: cr-iconset element styles
+summary: Lit CSS for the cr-iconset element that keeps its host hidden so only cloned SVG icons are shown.
+*/
+
 :host {
   display: none;
 }

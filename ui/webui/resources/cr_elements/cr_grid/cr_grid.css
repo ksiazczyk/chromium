@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: cr_grid.css
+summary: Lit CSS for the cr-grid element, defining grid layout, gap, column width, and centering of slotted children via custom properties.
+*/
+
 :host {
   --cr-grid-gap: 0px;
   --cr-column-width: auto;

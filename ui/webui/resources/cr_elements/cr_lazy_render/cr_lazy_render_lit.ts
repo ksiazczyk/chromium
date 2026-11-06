@@ -21,6 +21,12 @@
  *   this.$.menu.get().show();
  */
 
+// ---docerion
+// type: source
+// title: cr-lazy-render-lit Lit element for lazy template rendering
+// summary: Defines the cr-lazy-render-lit Lit custom element that renders a caller-provided template into the parent DOM on first get() call, placing the child before itself for styling and bindings.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 import {CrLitElement, html, render} from '//resources/lit/v3_0/lit.rollup.js';
 import type {TemplateResult} from '//resources/lit/v3_0/lit.rollup.js';

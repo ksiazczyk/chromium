@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: cr-input base styles and CSS variables
+summary: Base stylesheet declaring cr-input CSS custom properties for colors, padding, focus, hover, and underline styling of the filled text field.
+*/
+
 :host {
   --cr-input-background-color: var(--color-textfield-filled-background,
       var(--cr-fallback-color-surface-variant));

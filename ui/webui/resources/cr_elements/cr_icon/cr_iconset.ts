@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrIconsetElement iconset implementation
+// summary: Defines the cr-iconset element that registers itself by name in the IconsetMap and clones, applies, or removes SVG icons in target elements' shadow roots.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 import type {PropertyValues} from '//resources/lit/v3_0/lit.rollup.js';
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';

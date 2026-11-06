@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-toolbar element
+// summary: Lit element implementing the cr-toolbar WebUI component with page name, menu button, logo, search field, and narrow mode via a media query.
+// ---
+
 import '../cr_icon_button/cr_icon_button.js';
 import '../icons.html.js';
 import './cr_toolbar_search_field.js';

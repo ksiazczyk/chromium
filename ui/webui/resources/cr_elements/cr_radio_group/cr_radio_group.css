@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: cr-radio-group element styles
+summary: Lit CSS styles for the cr-radio-group element, defining host display, slotted item padding and disabled-state appearance.
+*/
+
 :host {
   display: inline-block;
 }

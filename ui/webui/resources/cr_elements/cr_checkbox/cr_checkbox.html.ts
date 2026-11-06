@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr_checkbox.html.ts Lit template for cr-checkbox
+// summary: Exports the Lit HTML template for the cr-checkbox element, rendering the checkbox box, inline SVG checkmark, hover layer, label slot and ARIA attributes.
+// ---
+
 import {html, nothing} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CrCheckboxElement} from './cr_checkbox.js';

@@ -5,6 +5,12 @@
 /* This file holds CSS that should be shared, in theory, by all user-visible
  * chrome:// pages. */
 
+/*docerion
+type: source
+title: Shared stylesheet for Chrome WebUI pages
+summary: Common stylesheet providing base typography, link colors, hidden-element handling, and weak RTL rules shared by user-visible Chrome WebUI pages.
+*/
+
 @import url(chrome://resources/css/text_defaults.css);
 @import url(widgets.css);
 

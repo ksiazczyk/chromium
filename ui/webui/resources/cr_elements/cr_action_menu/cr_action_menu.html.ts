@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-action-menu Lit HTML template
+// summary: Lit template for the cr-action-menu element that renders a native dialog containing a menu wrapper and a slot for dropdown items.
+// ---
+
 import {html, nothing} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CrActionMenuElement} from './cr_action_menu.js';

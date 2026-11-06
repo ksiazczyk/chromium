@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Roboto font-face declarations
+summary: Declares Roboto font faces at weights 400, 500, and 700, preferring local fonts and falling back to bundled woff2 resources.
+*/
+
 @font-face {
   font-family: 'Roboto';
   font-style: normal;

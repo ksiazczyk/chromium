@@ -42,6 +42,12 @@
  * may be transcoded to PNG.
  */
 
+// ---docerion
+// type: source
+// title: cr-auto-img WebUI image element implementation
+// summary: Implements the cr-auto-img custom image element that loads local images directly and routes external images through the chrome image data source, with options for Google Photos auth, static encoding, and clearing while loading.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 
 const AUTO_SRC: string = 'auto-src';

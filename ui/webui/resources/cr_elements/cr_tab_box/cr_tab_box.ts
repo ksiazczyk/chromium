@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrTabBoxElement implementation
+// summary: TypeScript implementation of the cr-tab-box custom element handling tab selection, keyboard navigation, accessibility attributes, and selected-index-change events.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 import {CustomElement} from '//resources/js/custom_element.js';
 import {FocusOutlineManager} from '//resources/js/focus_outline_manager.js';

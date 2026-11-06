@@ -1,3 +1,9 @@
+---
+type: readme
+title: cr_elements README
+summary: Explains that this directory holds simple web components shared across WebUIs, with requirements on usage, testing, i18n, and API restrictions.
+---
+
 This directory contains simple web components for Web UI. These components may
 be shared across any WebUI. Non-Polymer/Lit components should be compatible
 across all platforms (including ios). Polymer/Lit components currently are not

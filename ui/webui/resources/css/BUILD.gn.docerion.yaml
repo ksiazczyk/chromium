@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for WebUI CSS resources
+summary: GN build file that preprocesses the folder's CSS files and packages them into a webui_css resources.grdp bundle, with platform-conditional file lists.

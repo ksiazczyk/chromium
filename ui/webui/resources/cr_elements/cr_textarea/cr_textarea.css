@@ -12,6 +12,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: cr_textarea.css
+summary: Lit CSS styles for the cr-textarea component, covering layout, error and invalid states, footer display, and autogrow sizing.
+*/
+
 textarea {
   display: block;
   resize: none;

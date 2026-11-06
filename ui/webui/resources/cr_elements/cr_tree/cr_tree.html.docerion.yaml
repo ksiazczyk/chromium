@@ -1,0 +1,4 @@
+# Docerion header of cr_tree.html.
+type: source
+title: cr-tree element HTML template
+summary: HTML template providing the base host styling for the cr-tree container element, making it a block-level, focusable, scrollable region.

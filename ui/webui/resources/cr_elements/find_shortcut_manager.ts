@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Find keyboard shortcut manager for WebUI
+// summary: Listens for find keyboard shortcuts (Ctrl/Cmd+F or /) and notifies the top listener on a stack, while tracking open cr-dialog and cr-drawer modal contexts.
+// ---
+
 import {KeyboardShortcutList} from '//resources/js/keyboard_shortcut_list.js';
 import {isMac} from '//resources/js/platform.js';
 

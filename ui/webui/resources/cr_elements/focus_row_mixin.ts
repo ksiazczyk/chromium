@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus row mixin for Polymer list items
+// summary: Polymer mixin that manages mouse and keyboard focus for iron-list row items, tracking last-focused elements and list blur state.
+// ---
+
 // clang-format off
 import type { PolymerElement} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import {afterNextRender, dedupingMixin} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';

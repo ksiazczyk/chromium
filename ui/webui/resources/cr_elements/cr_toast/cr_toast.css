@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: cr_toast.css
+summary: Stylesheet for the cr-toast element, defining its fixed bottom placement, open/close transitions, color variables, and slotted cr-button styling.
+*/
+
 :host {
   --cr-toast-background: var(--color-toast-background,
       var(--cr-fallback-color-inverse-surface));

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-card-radio-button Lit template
+// summary: Lit HTML template for cr-card-radio-button rendering the radio button with a check icon and slotted content.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CrCardRadioButtonElement} from './cr_card_radio_button.js';

@@ -8,6 +8,12 @@
  * #import=./cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Lit styles for the cr-nav-menu-item element
+summary: Provides Lit CSS styles for the cr-nav-menu-item element, covering colors, hover and selected states, focus outlines, dark mode and forced colors support.
+*/
+
 .cr-nav-menu-item {
   /* cr-nav-menu-item CSS inputs */
   --cr-nav-menu-item-color: var(--google-grey-900);

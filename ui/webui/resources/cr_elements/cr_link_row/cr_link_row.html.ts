@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML template for the cr-link-row element
+// summary: Lit HTML template rendering the start icon, label and sublabel slots, and the link-role icon button of the cr-link-row element.
+// ---
+
 import {html, nothing} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CrLinkRowElement} from './cr_link_row.js';

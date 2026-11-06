@@ -7,6 +7,12 @@
  * automatically remove WebUI listeners when detached.
  */
 
+// ---docerion
+// type: source
+// title: WebUI listener mixin for Lit elements
+// summary: Mixin for CrLitElement subclasses that adds WebUI listeners and removes them automatically when the element is detached.
+// ---
+
 import type {WebUiListener} from '//resources/js/cr.js';
 import {addWebUiListener, removeWebUiListener} from '//resources/js/cr.js';
 import type {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';

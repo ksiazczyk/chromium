@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit HTML template for the cr-slider component
+// summary: Exports the Lit HTML template that renders the slider's container, bar, tick markers, knob, and value label.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CrSliderElement} from './cr_slider.js';

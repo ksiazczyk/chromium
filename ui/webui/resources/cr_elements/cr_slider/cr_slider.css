@@ -10,6 +10,12 @@
  * #include=cr-hidden-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the cr-slider web component
+summary: Defines the styling for the cr-slider element, including color variables, dark mode and webui-refresh-2026 theming, layout of bar, markers, knob and label, and touch handling.
+*/
+
 :host {
   --cr-slider-active-color: var(--google-blue-600);
   --cr-slider-active-text-color: white;

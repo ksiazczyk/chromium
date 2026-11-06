@@ -9,6 +9,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the cr-feedback-buttons component
+summary: Defines the CSS for the cr-feedback-buttons element, laying out thumbs up and thumbs down icon buttons in a grid with shared icon sizing variables.
+*/
+
 .buttons {
   --cr-feedback-buttons-icon-size_: 16px;
   display: grid;

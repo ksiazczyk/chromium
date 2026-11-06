@@ -12,6 +12,12 @@
  * #include=cr-actionable-row-style-lit cr-shared-style-lit cr-hidden-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the cr-link-row element
+summary: Lit style sheet defining the layout, icon, label, and dark-mode styling of the cr-link-row WebUI element.
+*/
+
 :host {
   box-sizing: border-box;
   flex: 1;

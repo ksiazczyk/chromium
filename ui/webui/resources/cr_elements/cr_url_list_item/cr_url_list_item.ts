@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrUrlListItemElement web component implementation
+// summary: Defines the CrUrlListItemElement Lit custom element that renders a URL list row with favicon or folder imagery, title, description, badges, size variants and anchor or button behavior.
+// ---
+
 import '../cr_auto_img/cr_auto_img.js';
 
 import {assert} from '//resources/js/assert.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML template for the cr-tooltip element
+// summary: Supplies the Lit HTML template for the cr-tooltip element, rendering the hidden tooltip slot and the offset filler div used by the component.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CrTooltipElement} from './cr_tooltip.js';

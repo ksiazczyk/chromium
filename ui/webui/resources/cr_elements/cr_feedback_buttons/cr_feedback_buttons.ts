@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-feedback-buttons Lit element implementation
+// summary: Implements the cr-feedback-buttons custom element with a selected feedback option enum, toggle behavior for thumbs up and down, and a selected-option-changed event.
+// ---
+
 import '../cr_icon_button/cr_icon_button.js';
 
 import {loadTimeData} from '//resources/js/load_time_data.js';

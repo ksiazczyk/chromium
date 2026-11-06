@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-slider web component implementation
+// summary: Implements the cr-slider custom element for selecting values from continuous or discrete ranges, with tick labels, keyboard increments, dragging, and ARIA value support.
+// ---
+
 /**
  * @fileoverview 'cr-slider' is a slider component used to select a number from
  * a continuous or discrete range of numbers.

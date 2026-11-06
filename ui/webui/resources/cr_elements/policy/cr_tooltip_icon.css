@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Tooltip icon styles
+summary: Styles for the cr-tooltip-icon element, setting flex layout and icon fill colors with a dark mode variant.
+*/
+
 :host {
   display: flex;  /* Position independently from the line-height. */
 }

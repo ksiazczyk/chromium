@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: cr-page-selector element styles
+summary: Lit style sheet for the cr-page-selector element that hides slotted children unless they are selected or the show-all attribute is set.
+*/
+
 :host {
   display: block;
 }

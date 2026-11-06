@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr_a11y_announcer.ts
+// summary: Defines CrA11yAnnouncerElement, a visually hidden Lit element that queues messages and reads them out to screen readers.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 

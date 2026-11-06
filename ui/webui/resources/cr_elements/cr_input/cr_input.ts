@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrInputElement Lit element for cr-input
+// summary: Defines the CrInputElement Lit element implementing the cr-input WebUI component, including supported input types, properties, validation, and value handling.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 import type {PropertyValues} from '//resources/lit/v3_0/lit.rollup.js';
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';

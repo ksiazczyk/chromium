@@ -8,6 +8,12 @@
  *     |noRipple| to true before the element is connected to the DOM.
  */
 
+// ---docerion
+// type: source
+// title: cr-radio-button Lit mixin
+// summary: Lit mixin for cr-radio-button-like elements providing checked, disabled, focusable, label, and ARIA behavior plus ripple handling.
+// ---
+
 // clang-format off
 import type {CrLitElement, PropertyValues} from '//resources/lit/v3_0/lit.rollup.js';
 

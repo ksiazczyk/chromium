@@ -10,6 +10,12 @@
  * #include=cr-hidden-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: cr-tabs element styles
+summary: Lit stylesheet for the cr-tabs WebUI element, defining tab layout, the animated selection indicator, and light, dark, and forced-colors theming.
+*/
+
 :host {
   cursor: pointer;
   display: flex;

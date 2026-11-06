@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file delegating cr_auto_img ownership
+summary: Delegates code ownership of the cr_auto_img directory to the owners of the Chrome new tab page.
