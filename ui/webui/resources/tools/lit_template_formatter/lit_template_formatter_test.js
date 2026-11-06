@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Node unit tests for the Lit template formatter
+// summary: Runs Node-based unit tests covering template extraction, HTML AST preparation, restricted tag handling, expression formatting, and serialization.
+// ---
+
 import assert from 'node:assert';
 import {unlinkSync, writeFileSync} from 'node:fs';
 import {tmpdir} from 'node:os';

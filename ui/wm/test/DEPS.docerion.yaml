@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the wm test directory
+summary: Defines include rules for the wm test directory, permitting aura, ui base, gl, platform window and views headers, plus a specific rule letting run_all_unittests.cc use mojo core embedder.

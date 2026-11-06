@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WMState implementation
+// summary: Implements WMState, installing the transient window stacking client, transient window client, and capture controller for the window manager.
+// ---
+
 #include "ui/wm/core/wm_state.h"
 
 #include "ui/events/platform/platform_event_source.h"

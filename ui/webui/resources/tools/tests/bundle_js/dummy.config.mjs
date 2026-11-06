@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dummy test config with module resolution plugin
+// summary: Test configuration exporting a plugin that resolves the dummy module id bar/bar.js to a local source file for bundle_js tests.
+// ---
+
 import * as path from 'path';
 import * as url from 'url';
 

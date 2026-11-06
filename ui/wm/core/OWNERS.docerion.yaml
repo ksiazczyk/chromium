@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for ui/wm/core
+summary: Sets a per-file ownership rule delegating cursor-related files to the ui/base/cursor/OWNERS reviewers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Child element fixture for lit element bindings violations test
+// summary: Defines a hello-world-child CrLitElement extending a mixin, used as a child element in the lit element bindings violations ESLint test.
+// ---
+
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {MyTestMixin} from './with_webui_plugin_lit_element_bindings_violations_mixin.js';

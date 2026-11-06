@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Templatized DOM nodes violations template fixture
+// summary: Lit HTML template fixture binding generic list elements to trigger templatized DOM nodes lint violations in tests.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {GenericListElement} from './with_webui_plugin_lit_element_bindings_templatized_dom_nodes_child.js';

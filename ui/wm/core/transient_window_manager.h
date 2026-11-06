@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TransientWindowManager class declaration
+// summary: Declares TransientWindowManager, which tracks transient children and parents per aura window and controls their stacking, visibility, and lifetime behavior.
+// ---
+
 #ifndef UI_WM_CORE_TRANSIENT_WINDOW_MANAGER_H_
 #define UI_WM_CORE_TRANSIENT_WINDOW_MANAGER_H_
 

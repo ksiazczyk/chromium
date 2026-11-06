@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visibility controller implementation
+// summary: Implements VisibilityController, animating window visibility changes and managing properties that enable or suspend child window visibility animations.
+// ---
+
 #include "ui/wm/core/visibility_controller.h"
 
 #include "ui/aura/window.h"

@@ -1,0 +1,4 @@
+# Docerion header of expected_grd.grd.
+type: test
+title: Expected GRD fixture with preprocessed includes
+summary: Expected grit resource file listing preprocessed webui includes that the generate_grd tool should produce.

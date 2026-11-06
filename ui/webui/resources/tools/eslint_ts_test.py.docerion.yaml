@@ -1,0 +1,4 @@
+# Docerion header of eslint_ts_test.py.
+type: test
+title: Unit tests for the ESLint TypeScript runner
+summary: Unittest suite that runs eslint_ts on sample files to verify generated configs, expected lint errors, and WebUI ESLint plugin rule behavior.

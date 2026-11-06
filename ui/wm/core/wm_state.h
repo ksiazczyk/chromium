@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WMState class declaration
+// summary: Declares the WMState class that installs the aura client state needed by the window manager and owns its supporting clients.
+// ---
+
 #ifndef UI_WM_CORE_WM_STATE_H_
 #define UI_WM_CORE_WM_STATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit template extraction via TypeScript AST
+// summary: Uses the TypeScript compiler API to extract the getHtml template payload and replace embedded expressions with placeholder tags and a code map.
+// ---
+
 import assert from 'node:assert';
 // Disable no-restricted-syntax to allow NodeJS imports which are extensionless.
 // eslint-disable-next-line no-restricted-syntax

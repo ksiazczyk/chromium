@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DefaultScreenPositionClient class declaration
+// summary: Declares a ScreenPositionClient that offsets points by the top-level root window origin when converting between window and screen coordinates.
+// ---
+
 #ifndef UI_WM_CORE_DEFAULT_SCREEN_POSITION_CLIENT_H_
 #define UI_WM_CORE_DEFAULT_SCREEN_POSITION_CLIENT_H_
 

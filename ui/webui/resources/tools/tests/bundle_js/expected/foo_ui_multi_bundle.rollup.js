@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Expected multi-bundle output foo_ui_multi_bundle.rollup.js
+// summary: Expected output for a multi-bundle foo UI build that imports the shared chunk and inlines the remaining module alerts.
+// ---
+
 import './shared.rollup.js';
 
 // Copyright 2023 The Chromium Authors

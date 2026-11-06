@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InteractionTestUtilSimulatorWebUI implementation
+// summary: Implements the InteractionTestUtil simulator that clicks, selects tabs and dropdown items, and enters text on tracked WebUI elements.
+// ---
+
 #include "ui/webui/tracked_element/interaction_test_util_web_ui.h"
 
 #include "base/types/pass_key.h"

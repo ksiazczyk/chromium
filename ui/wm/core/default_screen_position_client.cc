@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DefaultScreenPositionClient implementation
+// summary: Implements a ScreenPositionClient that converts points between window and screen coordinates using the root window origin and sets window bounds directly.
+// ---
+
 #include "ui/wm/core/default_screen_position_client.h"
 
 #include "ui/aura/window_tree_host.h"

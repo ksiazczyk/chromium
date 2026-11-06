@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ESLint rule validating Lit template bindings
+// summary: ESLint rule that checks template expressions against Lit element property types, flagging attribute, boolean and property binding mismatches and unknown properties.
+// ---
+
 import {AST_NODE_TYPES as Node, ESLintUtils} from '/third_party/node/node_modules/@typescript-eslint/utils/dist/index.js';
 import type {TSESTree} from '/third_party/node/node_modules/@typescript-eslint/utils/dist/index.js';
 import ts from '/third_party/node/node_modules/typescript/lib/typescript.js';

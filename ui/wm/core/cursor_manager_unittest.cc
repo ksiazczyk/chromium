@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CursorManager
+// summary: Unit tests covering CursorManager cursor visibility, locking, size, color and mouse event behavior using a stub NativeCursorManager and test observers.
+// ---
+
 #include "ui/wm/core/cursor_manager.h"
 
 #include "base/memory/ptr_util.h"

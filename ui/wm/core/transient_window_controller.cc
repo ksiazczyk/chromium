@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transient window controller implementation
+// summary: Implements the TransientWindowClient interface by delegating transient child tracking to TransientWindowManager and notifying registered observers.
+// ---
+
 #include "ui/wm/core/transient_window_controller.h"
 #include "base/memory/raw_ptr.h"
 

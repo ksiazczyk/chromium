@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ternary template structure violations test fixture
+// summary: ESLint test fixture with ternary expressions in a Lit template that violate the @webui-eslint template structure rules for lit-element.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {TernaryDummyElement} from './with_webui_plugin_lit_element_template_structure_ternary_violations.js';

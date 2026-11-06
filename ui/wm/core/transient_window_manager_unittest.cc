@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TransientWindowManager unit tests
+// summary: Unit tests for TransientWindowManager covering transient child add and remove, stacking, visibility, lifetime, and transient cycle detection behavior.
+// ---
+
 #include "ui/wm/core/transient_window_manager.h"
 
 #include <array>

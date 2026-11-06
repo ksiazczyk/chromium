@@ -1,0 +1,4 @@
+# Docerion header of run_webui_resources_tools_tests.py.
+type: test
+title: Test runner for WebUI resources tools
+summary: Runs all *_test.py suites in the WebUI resources tools directory using the typ test framework.

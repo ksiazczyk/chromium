@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Expected shared chunk shared.rollup.js
+// summary: Expected shared chunk output for the bundle_js tests, containing alerts from the shared resource and src modules.
+// ---
+
 alert('Hello from resources/foo_untrusted.js');
 
 // Copyright 2023 The Chromium Authors

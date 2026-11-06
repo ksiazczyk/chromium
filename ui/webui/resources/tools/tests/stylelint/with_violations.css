@@ -2,5 +2,11 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: test
+title: with_violations.css
+summary: CSS test fixture containing an empty rule block that intentionally triggers stylelint violations.
+*/
+
 div {
 }

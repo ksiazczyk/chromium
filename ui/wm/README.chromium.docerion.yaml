@@ -1,0 +1,4 @@
+# Docerion header of README.chromium.
+type: readme
+title: Window Management for Aura
+summary: Describes the window management functionality for Aura apps and the roles of the public, core, and test directories.

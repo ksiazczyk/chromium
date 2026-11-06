@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window modality controller API
+// summary: Declares WindowModalityController and helpers for setting modal parents and finding modal transient children of aura windows.
+// ---
+
 #ifndef UI_WM_CORE_WINDOW_MODALITY_CONTROLLER_H_
 #define UI_WM_CORE_WINDOW_MODALITY_CONTROLLER_H_
 

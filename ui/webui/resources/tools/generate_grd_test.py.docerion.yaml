@@ -1,0 +1,4 @@
+# Docerion header of generate_grd_test.py.
+type: test
+title: Unit tests for grd file generation
+summary: Unittest suite comparing generated grd and grdp output against expected files, covering manifests, extra input files, and resource path rewrites.

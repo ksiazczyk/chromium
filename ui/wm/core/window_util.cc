@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window utility function implementation
+// summary: Implements helpers for window activation, fullscreen and show-state changes, toplevel lookup, and layer tree recreation or mirroring.
+// ---
+
 #include "ui/wm/core/window_util.h"
 
 #include "base/functional/bind.h"

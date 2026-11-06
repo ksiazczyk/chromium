@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cursor utility function declarations
+// summary: Declares helpers that return cursor data for a cursor type with scaling, rotate and scale cursor bitmaps and hotpoints, recolor bitmaps, and clear the cursor animation cache.
+// ---
+
 #ifndef UI_WM_CORE_CURSOR_UTIL_H_
 #define UI_WM_CORE_CURSOR_UTIL_H_
 

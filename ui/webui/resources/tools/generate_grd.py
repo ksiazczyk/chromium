@@ -38,6 +38,12 @@
 #     The base directory for the paths in |input_files|. |input_files| and
 #     |input_files_base_dir| must either both be provided or both be omitted.
 
+# ---docerion
+# type: script
+# title: Grit grd file generator
+# summary: Python script that builds grit grd and grdp files from JSON manifest files, generating grit IDs, resource paths, and pak output declarations.
+# ---
+
 import argparse
 import json
 import os

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TransientWindowObserver interface
+// summary: Defines the TransientWindowObserver interface with callbacks for transient child additions, removals, and transient parent changes.
+// ---
+
 #ifndef UI_WM_CORE_TRANSIENT_WINDOW_OBSERVER_H_
 #define UI_WM_CORE_TRANSIENT_WINDOW_OBSERVER_H_
 

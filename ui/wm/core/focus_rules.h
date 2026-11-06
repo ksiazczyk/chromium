@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FocusRules interface for window focus and activation
+// summary: Declares the FocusRules interface that defines which windows are toplevel, can be activated or focused, and how the next activatable window is chosen.
+// ---
+
 #ifndef UI_WM_CORE_FOCUS_RULES_H_
 #define UI_WM_CORE_FOCUS_RULES_H_
 

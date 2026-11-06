@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrackedElementWebUI implementation
+// summary: Implements TrackedElementWebUI and TrackedElementVisibilityLock, including highlight handles, visibility locking, and screen bounds calculation.
+// ---
+
 #include "ui/webui/tracked_element/tracked_element_web_ui.h"
 
 #include <sstream>

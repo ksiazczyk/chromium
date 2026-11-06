@@ -1,0 +1,4 @@
+# Docerion header of minify_js.py.
+type: source
+title: Python driver for Terser-based JS minification
+summary: Invokes the minify_js Node script to minify the given files in a single Node run and writes a JSON manifest of the outputs.

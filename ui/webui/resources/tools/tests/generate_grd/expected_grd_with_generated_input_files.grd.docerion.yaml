@@ -1,0 +1,4 @@
+# Docerion header of expected_grd_with_generated_input_files.grd.
+type: test
+title: Expected GRD fixture with generated input files
+summary: Expected grit resource file verifying generate_grd output when the inputs are generated files.

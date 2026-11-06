@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shadow types implementation
+// summary: Implements shadow elevation helpers, including default elevations per window type and conversion of the default elevation value for a window.
+// ---
+
 #include "ui/wm/core/shadow_types.h"
 
 #include "ui/base/class_property.h"

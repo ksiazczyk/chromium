@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for ui/wm
+summary: Restricts includes in the ui/wm directory to ui/base, ui/aura, ui/events, ui/display, and ui/gfx.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for WebUI resources tools tests
+summary: GN build file defining the script test target that runs the Python unit tests for the WebUI resources tools, with the required test data and dependencies.

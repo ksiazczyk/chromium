@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window and screen coordinate conversion implementation
+// summary: Implements helpers that convert points and rectangles between window and screen coordinates via the root window's screen position client.
+// ---
+
 #include "ui/wm/core/coordinate_conversion.h"
 
 #include "ui/aura/client/screen_position_client.h"

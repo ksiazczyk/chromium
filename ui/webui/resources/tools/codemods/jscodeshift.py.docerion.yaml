@@ -1,0 +1,4 @@
+# Docerion header of jscodeshift.py.
+type: script
+title: Helper script to run jscodeshift codemods over files
+summary: Command-line helper that runs jscodeshift codemods over a set of TypeScript files through the repository's Node wrapper, with local setup instructions.

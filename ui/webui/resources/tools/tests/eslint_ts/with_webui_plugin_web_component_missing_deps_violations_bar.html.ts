@@ -4,6 +4,12 @@
 
 // Test file for @webui-eslint/web-component-missing-deps
 
+// ---docerion
+// type: test
+// title: ESLint test fixture for web-component-missing-deps bar template
+// summary: Deliberately violating HTML template fixture for the @webui-eslint/web-component-missing-deps rule, rendering a cr-input and a my-bar element with bound properties.
+// ---
+
 import type {MyDummyElement} from './with_webui_plugin_web_component_missing_deps_violations.js';
 
 export function getHtml(this: MyDummyElement) {

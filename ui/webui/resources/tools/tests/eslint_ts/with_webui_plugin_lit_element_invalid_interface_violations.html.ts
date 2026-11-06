@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HTML template fixture for invalid interface violations test
+// summary: Lit html template fixture with conditional markup used to test the lit-element-incorrect-interface rule against a mismatched element interface.
+// ---
+
 // Test file for @webui-eslint/lit-element-incorrect-interface
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 

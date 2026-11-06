@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CursorLoader class declaration
+// summary: Declares the CursorLoader class, a cursor shape client that loads platform or asset cursors with configurable scale, rotation, size, and color.
+// ---
+
 #ifndef UI_WM_CORE_CURSOR_LOADER_H_
 #define UI_WM_CORE_CURSOR_LOADER_H_
 

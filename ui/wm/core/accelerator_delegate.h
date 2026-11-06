@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AcceleratorDelegate interface
+// summary: Declares the AcceleratorDelegate interface for processing keyboard accelerator events in the window manager.
+// ---
+
 #ifndef UI_WM_CORE_ACCELERATOR_DELEGATE_H_
 #define UI_WM_CORE_ACCELERATOR_DELEGATE_H_
 

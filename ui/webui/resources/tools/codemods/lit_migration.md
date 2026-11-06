@@ -1,3 +1,9 @@
+---
+type: guide
+title: Polymer to Lit migration steps
+summary: Step-by-step guide to migrating WebUI elements from Polymer to Lit, marking which steps are automated by the codemods and which are manual.
+---
+
 # Polymer to Lit migration steps
 
 ## Imports

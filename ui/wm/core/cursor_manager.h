@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CursorManager class declaration for cursor state handling
+// summary: Declares wm::CursorManager, a CursorClient implementation that queues and commits cursor property changes such as visibility, size, color and locking through a NativeCursorManager delegate.
+// ---
+
 #ifndef UI_WM_CORE_CURSOR_MANAGER_H_
 #define UI_WM_CORE_CURSOR_MANAGER_H_
 

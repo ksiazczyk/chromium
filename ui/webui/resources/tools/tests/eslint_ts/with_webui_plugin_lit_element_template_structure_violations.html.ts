@@ -4,6 +4,12 @@
 
 // Test file for @webui-eslint/logic-in-template-file
 
+// ---docerion
+// type: test
+// title: Template structure violations test fixture
+// summary: ESLint test fixture for the @webui-eslint/logic-in-template-file rule, containing functions, variables, loops and other logic that must not live in template files.
+// ---
+
 import {html, nothing} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {MyDummyElement} from './with_webui_plugin_lit_element_template_structure_violations.js';

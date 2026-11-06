@@ -1,0 +1,4 @@
+# Docerion header of minify_js.gni.
+type: config
+title: GN template for JavaScript minification
+summary: GN template that wraps minify_js.py to minify WebUI JS files through Node, declaring inputs, outputs, and an optional manifest file.

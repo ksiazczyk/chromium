@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ESLint rule against assertEquals with boolean literals
+// summary: ESLint rule that flags assertEquals with true or false literals on boolean-typed expressions and suggests assertTrue or assertFalse instead.
+// ---
+
 import type {TSESTree} from '/third_party/node/node_modules/@typescript-eslint/utils/dist/index.js';
 import {ESLintUtils} from '/third_party/node/node_modules/@typescript-eslint/utils/dist/index.js';
 import * as ts from '/third_party/node/node_modules/typescript/lib/typescript.js';

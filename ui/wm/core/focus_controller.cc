@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FocusController implementation for focus and activation
+// summary: Implements the FocusController that manages window focus and activation across root windows, applies focus rules, and notifies activation and focus observers.
+// ---
+
 #include "ui/wm/core/focus_controller.h"
 
 #include <string_view>

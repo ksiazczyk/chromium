@@ -1,0 +1,4 @@
+# Docerion header of bundle_js_excludes.gni.
+type: config
+title: Bundle JS excludes for WebUI builds
+summary: Defines a reusable list of WebUI resource paths excluded from most bundle_js() invocations, generated in both the chrome-scheme and scheme-relative forms.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rollup plugin for WebUI resource resolution
+// summary: Rollup plugin that maps WebUI URL imports to source paths, enforcing excludes and external path mappings during bundling.
+// ---
+
 /**
  * @fileoverview Plugin for rollup to correctly resolve resources.
  */

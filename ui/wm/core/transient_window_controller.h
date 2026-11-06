@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transient window controller header
+// summary: Declares TransientWindowController, the TransientWindowClient implementation that manages transient parent and child relationships for windows.
+// ---
+
 #ifndef UI_WM_CORE_TRANSIENT_WINDOW_CONTROLLER_H_
 #define UI_WM_CORE_TRANSIENT_WINDOW_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lit property accessor violations test fixture
+// summary: ESLint test fixture for the @webui-eslint/lit-property-accessor rule, covering accessor keyword usage and property type mismatches across two elements.
+// ---
+
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 
 // Test file for @webui-eslint/lit-property-accessor

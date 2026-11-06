@@ -1,3 +1,13 @@
+---
+type: readme
+title: WebUI Lit Template Formatter
+summary: Documents the Node.js formatter for Chromium WebUI Lit template files, covering usage, pipeline architecture, known limitations, opt-out comments, and testing.
+relations:
+  - documents /ui/webui/resources/tools/lit_template_formatter/main.js
+  - documents /ui/webui/resources/tools/lit_template_formatter/process_lit_template_ts.js
+  - documents /ui/webui/resources/tools/lit_template_formatter/format_html.js
+---
+
 # WebUI Lit Template Formatter
 
 A Node.js-based formatter built specifically for Chromium

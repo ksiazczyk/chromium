@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS IME window avoidance declarations
+// summary: Declares the virtual keyboard restore bounds window property and helper functions for keeping windows clear of a rect and restoring their bounds.
+// ---
+
 #ifndef UI_WM_CORE_IME_UTIL_CHROMEOS_H_
 #define UI_WM_CORE_IME_UTIL_CHROMEOS_H_
 

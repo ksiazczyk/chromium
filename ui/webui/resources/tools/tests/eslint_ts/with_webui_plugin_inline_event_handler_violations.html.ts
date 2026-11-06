@@ -4,6 +4,12 @@
 
 // Test file for @webui-eslint/inline-event-handler
 
+// ---docerion
+// type: test
+// title: Inline event handler rule test fixture
+// summary: Lit template fixture exercising the @webui-eslint/inline-event-handler rule with various event handler bindings on WebUI elements.
+// ---
+
 import type {MyDummyElement} from './with_webui_plugin_web_component_missing_deps_violations.html.js';
 
 export function getHtml(this: MyDummyElement) {

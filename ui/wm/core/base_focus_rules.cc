@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseFocusRules implementation
+// summary: Implements default focus and activation rules for aura windows, including toplevel, activatable, and focusable window lookup.
+// ---
+
 #include "ui/wm/core/base_focus_rules.h"
 
 #include <ranges>

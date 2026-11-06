@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Implementation of the testing cursor client observer
+// summary: Implements the testing cursor client observer, recording cursor visibility and size change notifications so tests can inspect them.
+// ---
+
 #include "ui/wm/test/testing_cursor_client_observer.h"
 
 namespace wm {

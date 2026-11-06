@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Generic list child element fixture
+// summary: CrLitElement subclass defining a generic list component used as a child element in the templatized DOM nodes rule tests.
+// ---
+
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 
 export class GenericListElement<T> extends CrLitElement {

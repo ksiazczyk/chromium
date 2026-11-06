@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of ui/wm
+summary: Lists the code owners responsible for reviewing changes in the ui/wm directory.

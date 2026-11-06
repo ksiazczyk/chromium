@@ -1,0 +1,4 @@
+# Docerion header of minify_js_test.py.
+type: test
+title: Unit tests for the JS minification tool
+summary: Verifies that minify_js produces the expected minified files and manifest for simple, complex and multiple input files.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window utility unit tests
+// summary: Unit tests verifying RecreateLayers and RecreateLayersWithClosure behavior when cloning aura window layer trees.
+// ---
+
 #include "ui/wm/core/window_util.h"
 
 #include <memory>

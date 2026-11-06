@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrackedElementHandlerDocumentSingleton class header
+// summary: Declares a singleton wrapper that registers and retrieves a TrackedElementHandler for a given WebUI document, with synchronous and asynchronous lookup.
+// ---
+
 #ifndef UI_WEBUI_TRACKED_ELEMENT_TRACKED_ELEMENT_HANDLER_DOCUMENT_SINGLETON_H_
 #define UI_WEBUI_TRACKED_ELEMENT_TRACKED_ELEMENT_HANDLER_DOCUMENT_SINGLETON_H_
 

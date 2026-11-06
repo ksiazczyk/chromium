@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CompoundEventFilter unit tests
+// summary: Unit tests covering cursor visibility changes on key and mouse events, event filtering order, and gesture event consumption for the compound event filter.
+// ---
+
 #include "ui/wm/core/compound_event_filter.h"
 
 #include "build/build_config.h"

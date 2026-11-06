@@ -1,0 +1,4 @@
+# Docerion header of stylelint.gni.
+type: config
+title: GN template for Stylelint checks on CSS files
+summary: GN template that runs Stylelint on the given CSS files through stylelint.py and writes a success marker file.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ui/wm/core
+summary: Defines the allowed include dependencies for the ui/wm/core window manager core directory.

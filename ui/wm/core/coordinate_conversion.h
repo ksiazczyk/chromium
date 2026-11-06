@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window and screen coordinate conversion declarations
+// summary: Declares functions for converting points and rectangles between a window's coordinates and virtual screen coordinates.
+// ---
+
 #ifndef UI_WM_CORE_COORDINATE_CONVERSION_H_
 #define UI_WM_CORE_COORDINATE_CONVERSION_H_
 

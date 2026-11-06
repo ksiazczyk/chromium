@@ -4,6 +4,12 @@
 
 /** @fileoverview Test file for @webui-eslint/no-assert-equals-boolean */
 
+// ---docerion
+// type: test
+// title: No-assert-equals-boolean violations test fixture
+// summary: ESLint test fixture for the @webui-eslint/no-assert-equals-boolean rule, comparing strict boolean, boolean|undefined and any values with assertEquals.
+// ---
+
 declare function assertEquals(a: any, b: any): void;
 
 const bool: boolean = true;

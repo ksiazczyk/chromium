@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window visibility animation API
+// summary: Declares animation types, per-window animation property setters and helpers for aura window visibility transitions, plus ScopedHidingAnimationSettings.
+// ---
+
 #ifndef UI_WM_CORE_WINDOW_ANIMATIONS_H_
 #define UI_WM_CORE_WINDOW_ANIMATIONS_H_
 

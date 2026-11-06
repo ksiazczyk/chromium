@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VisibilityController unit tests
+// summary: Unit tests for VisibilityController checking hide animations, opacity transitions, and that animated hiding does not alter window bounds.
+// ---
+
 #include "ui/wm/core/visibility_controller.h"
 
 #include "base/test/run_until.h"

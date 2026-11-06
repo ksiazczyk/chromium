@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for the ui/wm window management component
+summary: Defines the ui_wm component, a test support library, and the wm_unittests target with their sources and dependencies.

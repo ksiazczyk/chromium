@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FocusController class declaration
+// summary: Declares the FocusController class, which handles focus and activation changes via the ActivationClient, FocusClient, event handler, and window observer interfaces.
+// ---
+
 #ifndef UI_WM_CORE_FOCUS_CONTROLLER_H_
 #define UI_WM_CORE_FOCUS_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cursor utility implementation for loading and transforming cursor bitmaps
+// summary: Implements cursor data loading from resources, lottie animation caching, color adjustment, and scaling or rotation of cursor bitmaps and hotpoints for display changes.
+// ---
+
 #include "ui/wm/core/cursor_util.h"
 
 #include <algorithm>

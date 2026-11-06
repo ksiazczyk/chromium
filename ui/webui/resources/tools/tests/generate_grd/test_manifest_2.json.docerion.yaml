@@ -1,0 +1,4 @@
+# Docerion header of test_manifest_2.json.
+type: test
+title: Second test manifest listing preprocessed files
+summary: Test input manifest listing additional files and a base directory for a generate_grd test case.

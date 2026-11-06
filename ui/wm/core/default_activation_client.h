@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DefaultActivationClient class declaration
+// summary: Declares a simple ActivationClient for tests and basic targets that tracks active windows, restacks on activation, and notifies ActivationChangeObserver instances.
+// ---
+
 #ifndef UI_WM_CORE_DEFAULT_ACTIVATION_CLIENT_H_
 #define UI_WM_CORE_DEFAULT_ACTIVATION_CLIENT_H_
 

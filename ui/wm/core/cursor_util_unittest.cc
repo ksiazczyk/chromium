@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for cursor utility functions
+// summary: Parameterized unit tests verifying scaling and rotation of cursor bitmaps and hotpoints, and expected cursor data sizes and hotspots across scales and cursor sizes.
+// ---
+
 #include "ui/wm/core/cursor_util.h"
 
 #include <array>

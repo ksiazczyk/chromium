@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transient window stacking client implementation
+// summary: Implements window stacking adjustments so transient windows stack as a unit and one transient group is not inserted in the middle of another.
+// ---
+
 #include "ui/wm/core/transient_window_stacking_client.h"
 
 #include <stddef.h>

@@ -1,0 +1,4 @@
+# Docerion header of build_webui.gni.
+type: config
+title: build_webui.gni GN template
+summary: Defines the build_webui GN template that wires preprocessing, TypeScript compilation, bundling, minification, source maps and grd/grdp generation for WebUI targets.

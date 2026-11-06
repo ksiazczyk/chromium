@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ElementHighlighterWebUI implementation
+// summary: Implements the ElementHighlighter backend that adds and removes highlights for tracked WebUI elements.
+// ---
+
 #include "ui/webui/tracked_element/element_highlighter_webui.h"
 
 #include <memory>

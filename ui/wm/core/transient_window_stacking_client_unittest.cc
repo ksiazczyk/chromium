@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Transient window stacking client unit tests
+// summary: Unit tests verifying that transient children are stacked as a group when stacking windows above or at the top in various transient hierarchies.
+// ---
+
 #include "ui/wm/core/transient_window_stacking_client.h"
 
 #include <memory>

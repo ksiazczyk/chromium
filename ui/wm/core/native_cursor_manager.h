@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeCursorManager interface for platform cursor control
+// summary: Declares the NativeCursorManager interface through which platforms receive requests to change cursor state and report actual changes via a delegate.
+// ---
+
 #ifndef UI_WM_CORE_NATIVE_CURSOR_MANAGER_H_
 #define UI_WM_CORE_NATIVE_CURSOR_MANAGER_H_
 

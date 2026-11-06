@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: script
+// title: Formatter entrypoint and pipeline driver
+// summary: Entry point that orchestrates template extraction, HTML formatting, expression formatting, serialization, and clang-format reconstruction for the given files.
+// ---
+
 import assert from 'node:assert';
 // Disable no-restricted-syntax to allow NodeJS imports which are extensionless.
 // eslint-disable-next-line no-restricted-syntax

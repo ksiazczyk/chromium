@@ -1,0 +1,4 @@
+# Docerion header of bundle_js.gni.
+type: config
+title: bundle_js.gni GN template
+summary: GN template that invokes bundle_js.py to bundle JS modules with rollup, computing outputs, depfiles and external path mappings.

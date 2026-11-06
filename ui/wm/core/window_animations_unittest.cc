@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window animations unit tests
+// summary: Unit tests verifying layer target visibility, opacity and transform behavior of window show and hide animations.
+// ---
+
 #include "ui/wm/core/window_animations.h"
 
 #include <algorithm>
