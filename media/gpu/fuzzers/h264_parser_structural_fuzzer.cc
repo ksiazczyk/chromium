@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H264 parser structural fuzzer
+// summary: Fuzzer harness that builds H.264 SPS/PPS/slice bitstreams from random input and runs them through the H264 parser and decoder with a mock accelerator to exercise parsing and error handling.
+// ---
+
 #include <fuzzer/FuzzedDataProvider.h>
 #include <stddef.h>
 #include <stdint.h>

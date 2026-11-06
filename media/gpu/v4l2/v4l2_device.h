@@ -6,6 +6,12 @@
 // V4L2DecodeAccelerator class to delegate/pass the device specific
 // handling of any of the functionalities.
 
+// ---docerion
+// type: source
+// title: V4L2 device interface
+// summary: Declares the V4L2Device interface used by accelerators for device-specific V4L2 handling and format utilities.
+// ---
+
 #ifndef MEDIA_GPU_V4L2_V4L2_DEVICE_H_
 #define MEDIA_GPU_V4L2_V4L2_DEVICE_H_
 

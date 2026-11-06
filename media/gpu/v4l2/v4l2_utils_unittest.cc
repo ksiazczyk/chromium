@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V4L2 utils unit tests
+// summary: Unit tests for converting V4L2 formats to VideoFrameLayout, covering NV12 and multi-planar variants.
+// ---
+
 #include "media/gpu/v4l2/v4l2_utils.h"
 
 #include <cstring>

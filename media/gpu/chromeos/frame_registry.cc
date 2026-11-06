@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameRegistry implementation
+// summary: Implements the thread-safe registry that stores, accesses and unregisters FrameResource frames keyed by unguessable tracking tokens.
+// ---
+
 #include "media/gpu/chromeos/frame_registry.h"
 
 namespace media {

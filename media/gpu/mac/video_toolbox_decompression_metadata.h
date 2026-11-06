@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoToolbox decompression metadata structs
+// summary: Declares session and per-frame metadata structs carrying pixel format, color, timestamp and HDR information for VideoToolbox decoding.
+// ---
+
 #ifndef MEDIA_GPU_MAC_VIDEO_TOOLBOX_DECOMPRESSION_METADATA_H_
 #define MEDIA_GPU_MAC_VIDEO_TOOLBOX_DECOMPRESSION_METADATA_H_
 

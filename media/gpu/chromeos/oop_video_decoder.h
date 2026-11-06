@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOPVideoDecoder header
+// summary: Declares OOPVideoDecoder, a VideoDecoderMixin proxy to an out-of-process video decoder via Mojo, including cached supported configuration queries.
+// ---
+
 #ifndef MEDIA_GPU_CHROMEOS_OOP_VIDEO_DECODER_H_
 #define MEDIA_GPU_CHROMEOS_OOP_VIDEO_DECODER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video test helper declarations
+// summary: Declares IVF writer, encoded data helpers, and client state notification utilities shared by video accelerator tests.
+// ---
+
 #ifndef MEDIA_GPU_TEST_VIDEO_TEST_HELPERS_H_
 #define MEDIA_GPU_TEST_VIDEO_TEST_HELPERS_H_
 

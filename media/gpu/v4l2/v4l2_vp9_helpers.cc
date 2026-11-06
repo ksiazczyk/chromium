@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 VP9 helpers implementation
+// summary: Implements AppendVP9SuperFrameIndex, which builds a VP9 superframe index from DecoderBuffer side data and overwrites show_frame so only the top spatial layer is shown.
+// ---
+
 #include "media/gpu/v4l2/v4l2_vp9_helpers.h"
 
 #include "base/compiler_specific.h"

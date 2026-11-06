@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video Toolbox H264 accelerator header
+// summary: Declares VideoToolboxH264Accelerator, the H264 accelerator that feeds frames to VideoToolbox decompression sessions.
+// ---
+
 #ifndef MEDIA_GPU_MAC_VIDEO_TOOLBOX_H264_ACCELERATOR_H_
 #define MEDIA_GPU_MAC_VIDEO_TOOLBOX_H264_ACCELERATOR_H_
 

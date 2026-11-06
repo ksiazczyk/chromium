@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform video frame pool class declaration
+// summary: Declares PlatformVideoFramePool, a frame pool that reuses DMABUF frame memory and supports custom allocators.
+// ---
+
 #ifndef MEDIA_GPU_CHROMEOS_PLATFORM_VIDEO_FRAME_POOL_H_
 #define MEDIA_GPU_CHROMEOS_PLATFORM_VIDEO_FRAME_POOL_H_
 

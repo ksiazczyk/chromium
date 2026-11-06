@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for media GPU IPC service
+summary: Routes review of media_gpu_channel.cc to the IPC security owners for security review.

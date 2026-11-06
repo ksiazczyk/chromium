@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video decoder test event listener implementation
+// summary: Implements the DecoderListener that drives video playback and lets tests wait for decoder events such as initialization, flush, reset and frame decoded.
+// ---
+
 
 #include "media/gpu/test/video_player/decoder_listener.h"
 

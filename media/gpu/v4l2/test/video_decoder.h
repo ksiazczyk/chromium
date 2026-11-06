@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video decoder base class header
+// summary: Declares the VideoDecoder base class and the interface codec decoders implement to decode frames via V4L2 ioctl calls.
+// ---
+
 #ifndef MEDIA_GPU_V4L2_TEST_VIDEO_DECODER_H_
 #define MEDIA_GPU_V4L2_TEST_VIDEO_DECODER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoToolbox decompression session manager declaration
+// summary: Declares a manager that creates and reconfigures decompression sessions, queues pending decodes, and reports errors via callbacks.
+// ---
+
 #ifndef MEDIA_GPU_MAC_VIDEO_TOOLBOX_DECOMPRESSION_SESSION_MANAGER_H_
 #define MEDIA_GPU_MAC_VIDEO_TOOLBOX_DECOMPRESSION_SESSION_MANAGER_H_
 

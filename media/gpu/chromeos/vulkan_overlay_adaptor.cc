@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VulkanOverlayAdaptor implementation
+// summary: Implements the Vulkan-based image processor internals, including render passes, shaders, pipelines, descriptor pools, and command buffers for tiled image conversion.
+// ---
+
 #include "media/gpu/chromeos/vulkan_overlay_adaptor.h"
 
 #include "base/bits.h"

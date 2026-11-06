@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageProcessor implementation
+// summary: Implements ImageProcessor, which wraps an ImageProcessorBackend to convert and scale video frames across client and backend task runners.
+// ---
+
 #include "media/gpu/chromeos/image_processor.h"
 
 #include <memory>

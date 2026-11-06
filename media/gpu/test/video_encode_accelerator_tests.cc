@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video encode accelerator tests
+// summary: Runs functional video encode accelerator tests with configurable codec, bitrate mode, SVC scalability and frame output options.
+// ---
+
 #include <algorithm>
 #include <limits>
 #include <optional>

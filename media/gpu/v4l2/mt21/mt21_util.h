@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MT21 SIMD decompression utilities
+// summary: Provides a high-performance NEON-based implementation of the MT21 decompression algorithm with aggressively inlined helpers targeting about 156 megapixels per second.
+// ---
+
 
 #ifndef MEDIA_GPU_V4L2_MT21_MT21_UTIL_H_
 #define MEDIA_GPU_V4L2_MT21_MT21_UTIL_H_

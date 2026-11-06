@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 stateful video decoder interface
+// summary: Declares V4L2StatefulVideoDecoder, a VideoDecoderMixin for stateful V4L2 decoding drivers such as Qualcomm and MediaTek devices.
+// ---
+
 #ifndef MEDIA_GPU_V4L2_V4L2_STATEFUL_VIDEO_DECODER_H_
 #define MEDIA_GPU_V4L2_V4L2_STATEFUL_VIDEO_DECODER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 device poller implementation
+// summary: Implements V4L2DevicePoller, which polls a V4L2 device on a dedicated thread and posts event and error callbacks to the client's sequence.
+// ---
+
 #include "media/gpu/v4l2/v4l2_device_poller.h"
 
 #include <string>

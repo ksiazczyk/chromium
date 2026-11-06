@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video encoder client implementation
+// summary: Implements VideoEncoderClient, its configuration struct and statistics, driving the video encode accelerator and handling bitstream buffers and callbacks.
+// ---
+
 #include "media/gpu/test/video_encoder/video_encoder_client.h"
 
 #include <algorithm>

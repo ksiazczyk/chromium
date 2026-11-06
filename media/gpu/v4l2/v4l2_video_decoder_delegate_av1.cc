@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 AV1 video decoder delegate implementation
+// summary: Implements the AV1 accelerator delegate for stateless V4L2 decoding, translating libgav1 parsed OBU data into V4L2 controls and decode surfaces.
+// ---
+
 
 #include "media/gpu/v4l2/v4l2_video_decoder_delegate_av1.h"
 

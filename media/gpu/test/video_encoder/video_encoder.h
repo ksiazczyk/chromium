@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video encoder test framework header
+// summary: Declares the VideoEncoder class, a framework for building video encode accelerator tests with event waiting, statistics, bitrate updates and key frame control.
+// ---
+
 #ifndef MEDIA_GPU_TEST_VIDEO_ENCODER_VIDEO_ENCODER_H_
 #define MEDIA_GPU_TEST_VIDEO_ENCODER_VIDEO_ENCODER_H_
 

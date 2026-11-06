@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DMABUF video frame converter implementation
+// summary: Implements conversion of a NativePixmapFrameResource into a STORAGE_DMABUFS VideoFrame and reports errors when conversion fails.
+// ---
+
 #include "media/gpu/chromeos/dmabuf_video_frame_converter.h"
 
 #include <memory>

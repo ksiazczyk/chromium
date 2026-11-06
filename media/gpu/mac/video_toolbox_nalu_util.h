@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: VideoToolbox NALU utility header
+// summary: Declares a parameter set tracker for VPS, SPS and PPS NALUs and a helper that packs NALUs into a CMSampleBuffer for macOS VideoToolbox decoding.
+// ---
+
 #include <string_view>
 // Copyright 2026 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be

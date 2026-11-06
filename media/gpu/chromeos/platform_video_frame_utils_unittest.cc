@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Platform video frame utilities unit tests
+// summary: Unit tests for platform video frame creation helpers and the UniqueTrackingTokenHelper token management.
+// ---
+
 #include "media/gpu/chromeos/platform_video_frame_utils.h"
 
 #include <linux/memfd.h>

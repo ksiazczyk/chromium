@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 decode surface class
+// summary: Declares V4L2DecodeSurface, which tracks input and output buffers, metadata, reference surfaces and release callbacks.
+// ---
+
 #ifndef MEDIA_GPU_V4L2_V4L2_DECODE_SURFACE_H_
 #define MEDIA_GPU_V4L2_V4L2_DECODE_SURFACE_H_
 

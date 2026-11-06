@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS media GPU status codes
+// summary: Defines the ChromeosStatusCode enum and the CroStatus typed status used for error reporting across the ChromeOS media GPU code.
+// ---
+
 #ifndef MEDIA_GPU_CHROMEOS_CHROMEOS_STATUS_H_
 #define MEDIA_GPU_CHROMEOS_CHROMEOS_STATUS_H_
 

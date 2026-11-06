@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VdVideoDecodeAccelerator class declaration
+// summary: Declares a temporary adapter that implements VideoDecodeAccelerator on top of a VideoDecoder while GpuArcVideoDecodeAccelerator is ported to the new VD interface.
+// ---
+
 #ifndef MEDIA_GPU_CHROMEOS_VD_VIDEO_DECODE_ACCELERATOR_H_
 #define MEDIA_GPU_CHROMEOS_VD_VIDEO_DECODE_ACCELERATOR_H_
 

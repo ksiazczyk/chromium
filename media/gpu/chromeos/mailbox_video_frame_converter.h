@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mailbox video frame converter header
+// summary: Declares MailboxVideoFrameConverter, which converts DMA-buffer frames to gpu::Mailbox-backed video frames using SharedImages.
+// ---
+
 #ifndef MEDIA_GPU_CHROMEOS_MAILBOX_VIDEO_FRAME_CONVERTER_H_
 #define MEDIA_GPU_CHROMEOS_MAILBOX_VIDEO_FRAME_CONVERTER_H_
 

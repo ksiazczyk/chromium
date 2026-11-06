@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VP9 boolean decoder class declaration
+// summary: Declares Vp9BoolDecoder, which provides boolean and literal bit reading for VP9 compressed data with validity tracking and end-of-buffer detection.
+// ---
+
 #ifndef MEDIA_GPU_V4L2_VP9_VP9_BOOL_DECODER_H_
 #define MEDIA_GPU_V4L2_VP9_VP9_BOOL_DECODER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 H.264 video decoder delegate implementation
+// summary: Implements the H.264 accelerator delegate for the V4L2 video decoder, submitting decode parameters, slices and encrypted slice header parsing to the V4L2 device.
+// ---
+
 #include "media/gpu/v4l2/v4l2_video_decoder_delegate_h264.h"
 
 #include <linux/v4l2-controls.h>

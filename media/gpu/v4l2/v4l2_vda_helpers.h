@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 video decode accelerator helpers declarations
+// summary: Declares shared helper methods for V4L2 video decode accelerators, covering image processor setup, native pixmap size computation, and input buffer fragment splitting.
+// ---
+
 #ifndef MEDIA_GPU_V4L2_V4L2_VDA_HELPERS_H_
 #define MEDIA_GPU_V4L2_V4L2_VDA_HELPERS_H_
 

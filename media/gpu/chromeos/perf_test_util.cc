@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance test utility implementation
+// summary: Implements helpers for video performance tests, including writing collected metrics to a JSON output file.
+// ---
+
 #include "media/gpu/chromeos/perf_test_util.h"
 
 #include "base/containers/span.h"

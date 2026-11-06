@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 device poller header
+// summary: Declares V4L2DevicePoller, a helper that polls a V4L2 device on a dedicated thread and notifies the client sequence when buffers or V4L2 events are ready.
+// ---
+
 #ifndef MEDIA_GPU_V4L2_V4L2_DEVICE_POLLER_H_
 #define MEDIA_GPU_V4L2_V4L2_DEVICE_POLLER_H_
 

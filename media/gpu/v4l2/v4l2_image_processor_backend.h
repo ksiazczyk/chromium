@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 image processor backend header
+// summary: Declares V4L2ImageProcessorBackend, which handles image processing accelerators exposing a V4L2 memory-to-memory interface, plus factory and format helpers.
+// ---
+
 #ifndef MEDIA_GPU_V4L2_V4L2_IMAGE_PROCESSOR_BACKEND_H_
 #define MEDIA_GPU_V4L2_V4L2_IMAGE_PROCESSOR_BACKEND_H_
 

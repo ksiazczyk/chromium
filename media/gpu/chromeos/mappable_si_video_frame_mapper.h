@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MappableSIVideoFrameMapper header
+// summary: Declares MappableSIVideoFrameMapper, a VideoFrameMapper that maps MappableSharedImage-based video frames into memory.
+// ---
+
 #ifndef MEDIA_GPU_CHROMEOS_MAPPABLE_SI_VIDEO_FRAME_MAPPER_H_
 #define MEDIA_GPU_CHROMEOS_MAPPABLE_SI_VIDEO_FRAME_MAPPER_H_
 

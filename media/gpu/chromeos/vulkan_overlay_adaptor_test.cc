@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VulkanOverlayAdaptor performance and quality tests
+// summary: Standalone test binary exercising the Vulkan overlay adaptor with MM21 and MT2T detiling, scaling, and rotation, measuring performance and image quality metrics.
+// ---
+
 #include "media/gpu/chromeos/vulkan_overlay_adaptor.h"
 
 #include <linux/videodev2.h>

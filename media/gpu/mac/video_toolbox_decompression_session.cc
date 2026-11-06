@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoToolbox decompression session implementation
+// summary: Implements the standard decompression session wrapper around VTDecompressionSession APIs, hopping outputs to a sequenced task runner.
+// ---
+
 #include "media/gpu/mac/video_toolbox_decompression_session.h"
 
 #include "base/logging.h"

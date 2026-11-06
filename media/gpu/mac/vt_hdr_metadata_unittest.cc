@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VideoToolbox HDR metadata unit tests
+// summary: Unit tests that feed mdcv and clli payloads through sample buffers and verify the generated H.264 and HEVC SEI NAL units parse correctly.
+// ---
+
 #include "media/gpu/mac/vt_hdr_metadata.h"
 
 #include <CoreFoundation/CoreFoundation.h>

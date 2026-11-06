@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definitions for GPU video accelerator test targets
+summary: Defines GN build targets for video decode and encode accelerator tests plus the helper source sets they depend on.

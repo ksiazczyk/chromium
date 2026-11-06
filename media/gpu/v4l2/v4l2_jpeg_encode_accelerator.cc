@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 JPEG encode accelerator implementation
+// summary: Implements V4L2JpegEncodeAccelerator, which encodes I420 video frames to JPEG using a V4L2 hardware encoder with shared memory and DMA-buf input.
+// ---
+
 #include "media/gpu/v4l2/v4l2_jpeg_encode_accelerator.h"
 
 #include <errno.h>

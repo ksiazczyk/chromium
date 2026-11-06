@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video encoder test framework implementation
+// summary: Implements the VideoEncoder test framework class, controlling encoding, tracking encoder events, and providing waits for events, flush completion and idle state.
+// ---
+
 
 #include "media/gpu/test/video_encoder/video_encoder.h"
 

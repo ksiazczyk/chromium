@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video Toolbox frame converter implementation
+// summary: Implements VideoToolboxFrameConverter, which converts IOSurface-backed CVImageBuffers into VideoFrames backed by GPU shared images on macOS.
+// ---
+
 #include "media/gpu/mac/video_toolbox_frame_converter.h"
 
 #include <optional>

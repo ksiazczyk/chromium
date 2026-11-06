@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for media/gpu/ipc
+summary: Defines directory-level include rules allowing gpu/ipc/common, ipc, and mojo public C++ dependencies while blocking media/base/media_export.h.

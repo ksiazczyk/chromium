@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Registered frame converter class declaration
+// summary: Declares RegisteredFrameConverter, which produces tracking-token VideoFrames backed by a FrameRegistry.
+// ---
+
 #ifndef MEDIA_GPU_CHROMEOS_REGISTERED_FRAME_CONVERTER_H_
 #define MEDIA_GPU_CHROMEOS_REGISTERED_FRAME_CONVERTER_H_
 

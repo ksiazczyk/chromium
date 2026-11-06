@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 video decode accelerator helpers implementation
+// summary: Implements helper functions shared by V4L2 video decode accelerators, such as finding image processor formats, creating image processors, and splitting input buffers into frames.
+// ---
+
 
 #include "media/gpu/v4l2/v4l2_vda_helpers.h"
 

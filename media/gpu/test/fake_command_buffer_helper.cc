@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake command buffer helper implementation
+// summary: Implements a fake command buffer helper that records sync token waits and simulates GPU state for tests.
+// ---
+
 #include "media/gpu/test/fake_command_buffer_helper.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 MJPEG decode accelerator implementation
+// summary: Implements V4L2MjpegDecodeAccelerator, which decodes MJPEG bitstreams to video frames using a V4L2 hardware decoder and libyuv output conversion.
+// ---
+
 #include "media/gpu/v4l2/v4l2_mjpeg_decode_accelerator.h"
 
 #include <errno.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Upstream V4L2 pixel format definitions
+// summary: Defines V4L2 pixel format macros such as AV1, AV1_FRAME and MT2T that are not yet available in the Chromium sysroots.
+// ---
+
 #ifndef MEDIA_GPU_V4L2_TEST_UPSTREAM_PIX_FMT_H_
 #define MEDIA_GPU_V4L2_TEST_UPSTREAM_PIX_FMT_H_
 

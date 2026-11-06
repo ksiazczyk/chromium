@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image processor with frame pool implementation
+// summary: Implements ImageProcessorWithPool, a client wrapper that feeds frames to an image processor and allocates output frames from a DMA-BUF frame pool.
+// ---
+
 #include "media/gpu/chromeos/image_processor_with_pool.h"
 
 #include "base/functional/bind.h"

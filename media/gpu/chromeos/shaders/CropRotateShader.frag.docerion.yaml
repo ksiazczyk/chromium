@@ -1,0 +1,4 @@
+# Docerion header of CropRotateShader.frag.
+type: source
+title: CropRotate fragment shader
+summary: Fragment shader that samples the input texture to produce output for the scaling, rotation, and crop pass.

@@ -1,0 +1,4 @@
+# Docerion header of MT2TShader.frag.
+type: source
+title: MT2T to AR30 fragment shader
+summary: Fragment shader that detiles MT2T luma and chroma data, recombines MSB and LSB bits, and converts to AR30 via BT.601 conversion.

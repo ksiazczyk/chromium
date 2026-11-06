@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 stateless video decoder backend implementation
+// summary: Implements the stateless V4L2 video decoder backend, submitting decode surfaces and requests per codec and managing output requests, flushes, and resolution changes.
+// ---
+
 
 #include "media/gpu/v4l2/v4l2_video_decoder_backend_stateless.h"
 

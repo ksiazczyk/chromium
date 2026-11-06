@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video Toolbox H264 accelerator implementation
+// summary: Implements the H264Decoder accelerator that tracks SPS/PPS parameter sets and builds CMSampleBuffers for VideoToolbox decoding on macOS.
+// ---
+
 #include "media/gpu/mac/video_toolbox_h264_accelerator.h"
 
 #include <array>

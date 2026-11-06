@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: ChromeOS media GPU build targets (BUILD.gn)
+summary: Defines GN build targets for the ChromeOS media GPU video acceleration code, including the chromeos and common source sets with their platform-conditional dependencies.

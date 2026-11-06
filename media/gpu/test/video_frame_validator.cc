@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video frame validator implementation
+// summary: Implements video frame content validation via MD5 checksums and quality metrics, tracking and reporting mismatched frames.
+// ---
+
 #include "media/gpu/test/video_frame_validator.h"
 
 #include <string_view>

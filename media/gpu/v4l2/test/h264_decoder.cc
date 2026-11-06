@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H.264 decoder implementation for V4L2 stateless decoding
+// summary: Implements the H264Decoder class, translating H.264 SPS, PPS, and slice data into V4L2 controls and decoding slices through V4L2 ioctl calls.
+// ---
+
 
 #include "media/gpu/v4l2/test/h264_decoder.h"
 

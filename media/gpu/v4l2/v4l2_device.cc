@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 device implementation
+// summary: Implements V4L2Device, covering device opening, queue creation, ioctl, polling and pixel format conversion.
+// ---
+
 #include "media/gpu/v4l2/v4l2_device.h"
 
 #include <errno.h>

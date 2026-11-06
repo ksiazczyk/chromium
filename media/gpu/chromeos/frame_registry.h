@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameRegistry class declaration
+// summary: Declares a reference-counted, thread-safe FrameRegistry that maps unguessable tokens to retained FrameResource frames for the video decoder pipeline.
+// ---
+
 #ifndef MEDIA_GPU_CHROMEOS_FRAME_REGISTRY_H_
 #define MEDIA_GPU_CHROMEOS_FRAME_REGISTRY_H_
 

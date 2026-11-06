@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NativePixmapFrameResource unit tests
+// summary: Parameterized tests for the NativePixmapFrameResource factories, checking size validation when creating frames from DMABuf FDs and NativePixmapDmaBuf objects.
+// ---
+
 #include "media/gpu/chromeos/native_pixmap_frame_resource.h"
 
 #include <stddef.h>

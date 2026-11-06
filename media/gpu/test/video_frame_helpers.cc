@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video frame helpers implementation
+// summary: Implements conversion, scaling, cloning and dmabuf/shared-image creation utilities for video frames used by media GPU tests.
+// ---
+
 #include "media/gpu/test/video_frame_helpers.h"
 
 #include <utility>

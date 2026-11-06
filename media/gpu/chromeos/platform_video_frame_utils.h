@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform video frame utilities header
+// summary: Declares functions to create platform and shared image video frames plus the UniqueTrackingTokenHelper class.
+// ---
+
 #ifndef MEDIA_GPU_CHROMEOS_PLATFORM_VIDEO_FRAME_UTILS_H_
 #define MEDIA_GPU_CHROMEOS_PLATFORM_VIDEO_FRAME_UTILS_H_
 

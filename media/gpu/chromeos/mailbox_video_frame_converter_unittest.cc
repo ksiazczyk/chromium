@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MailboxVideoFrameConverter unit tests
+// summary: Unit tests for MailboxVideoFrameConverter, exercising shared image creation, GPU memory buffer handles, and frame conversion with a mock SharedImageInterface.
+// ---
+
 #include "media/gpu/chromeos/mailbox_video_frame_converter.h"
 
 #include <fcntl.h>

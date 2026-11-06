@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VP9 compressed header parser class declaration
+// summary: Declares Vp9CompressedHeaderParser, which parses the VP9 compressed header into a result struct while storing delta probabilities instead of updating existing ones.
+// ---
+
 #ifndef MEDIA_GPU_V4L2_VP9_VP9_COMPRESSED_HEADER_PARSER_H_
 #define MEDIA_GPU_V4L2_VP9_VP9_COMPRESSED_HEADER_PARSER_H_
 

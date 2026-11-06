@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bitstream processor interface for video tests
+// summary: Defines the abstract BitstreamProcessor interface for validating and processing encoded bitstreams in tests.
+// ---
+
 #ifndef MEDIA_GPU_TEST_BITSTREAM_HELPERS_H_
 #define MEDIA_GPU_TEST_BITSTREAM_HELPERS_H_
 

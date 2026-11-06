@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VideoBitstream class for compressed test video
+// summary: Declares the VideoBitstream class that owns compressed video data and exposes codec, bit depth, frame rate, resolution and frame checksums.
+// ---
+
 #ifndef MEDIA_GPU_TEST_VIDEO_BITSTREAM_H_
 #define MEDIA_GPU_TEST_VIDEO_BITSTREAM_H_
 

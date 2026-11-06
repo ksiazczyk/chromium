@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoDecoderPipeline and VideoDecoderMixin declarations
+// summary: Declares VideoDecoderMixin and its client interface for output format negotiation, frame pools, image processing and resolution changes on ChromeOS.
+// ---
+
 #ifndef MEDIA_GPU_CHROMEOS_VIDEO_DECODER_PIPELINE_H_
 #define MEDIA_GPU_CHROMEOS_VIDEO_DECODER_PIPELINE_H_
 

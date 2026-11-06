@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VideoToolbox VP9 accelerator unit tests
+// summary: Unit tests verifying raw frame and superframe decoding and the resulting sample buffer contents of VideoToolboxVP9Accelerator.
+// ---
+
 #include <memory>
 
 #include "media/base/media_util.h"

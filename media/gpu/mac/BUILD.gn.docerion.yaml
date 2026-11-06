@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for Mac VideoToolbox GPU sources
+summary: GN build file defining the mac source set with its sources, frameworks and dependencies, plus the unit_tests target.

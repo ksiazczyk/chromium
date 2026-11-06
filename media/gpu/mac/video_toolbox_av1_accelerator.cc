@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoToolbox AV1 accelerator implementation
+// summary: Implements the AV1Decoder accelerator that wraps AV1 streams into CMSampleBuffers and configures formats for VideoToolbox decoding on macOS.
+// ---
+
 #include "media/gpu/mac/video_toolbox_av1_accelerator.h"
 
 #include "base/compiler_specific.h"

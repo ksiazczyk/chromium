@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoToolbox output queue header
+// summary: Declares VideoToolboxOutputQueue, which handles frame reordering for VideoToolboxVideoDecoder by scheduling and fulfilling codec pictures.
+// ---
+
 #ifndef MEDIA_GPU_MAC_VIDEO_TOOLBOX_OUTPUT_QUEUE_H_
 #define MEDIA_GPU_MAC_VIDEO_TOOLBOX_OUTPUT_QUEUE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 video decoder backend interface
+// summary: Defines the abstract V4L2VideoDecoderBackend interface and its client callbacks for low-level V4L2 decoding tasks in stateful or stateless modes.
+// ---
+
 #ifndef MEDIA_GPU_V4L2_V4L2_VIDEO_DECODER_BACKEND_H_
 #define MEDIA_GPU_V4L2_V4L2_VIDEO_DECODER_BACKEND_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the media GPU test directory
+summary: Allows the media GPU test directory to include headers from mojo/public.

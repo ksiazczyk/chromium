@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image processor factory implementation
+// summary: Factory implementation that selects and creates the most suitable image processor backend, such as VAAPI, V4L2, LibYUV or GL, for the current platform.
+// ---
+
 #include "media/gpu/chromeos/image_processor_factory.h"
 
 #include <stddef.h>

@@ -1,0 +1,4 @@
+# Docerion header of video_toolbox_decompression_session_manager.mm.
+type: source
+title: VideoToolbox decompression session manager implementation
+summary: Implements decode queuing, session creation and reconfiguration on format changes, reset handling, and error notification for VideoToolbox decoding.

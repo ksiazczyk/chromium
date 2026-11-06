@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Platform video frame pool unit tests
+// summary: Unit tests covering initialization, frame allocation, layout checks, and recycling in PlatformVideoFramePool.
+// ---
+
 #include "media/gpu/chromeos/platform_video_frame_pool.h"
 
 #include <stddef.h>

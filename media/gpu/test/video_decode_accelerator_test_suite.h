@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video decode accelerator test suite class
+// summary: Declares VideoDecodeAcceleratorTestSuite, a base::TestSuite configuring video input, validator, decoder implementation and frame output options.
+// ---
+
 #ifndef MEDIA_GPU_TEST_VIDEO_DECODE_ACCELERATOR_TEST_SUITE_H_
 #define MEDIA_GPU_TEST_VIDEO_DECODE_ACCELERATOR_TEST_SUITE_H_
 

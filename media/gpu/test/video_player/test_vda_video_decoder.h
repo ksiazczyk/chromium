@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test VDA video decoder header
+// summary: Declares the TestVDAVideoDecoder class, a test adapter bridging the media VideoDecoder and VideoDecodeAccelerator interfaces for decoder testing.
+// ---
+
 #ifndef MEDIA_GPU_TEST_VIDEO_PLAYER_TEST_VDA_VIDEO_DECODER_H_
 #define MEDIA_GPU_TEST_VIDEO_PLAYER_TEST_VDA_VIDEO_DECODER_H_
 

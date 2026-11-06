@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameResourceConverter interface
+// summary: Declares the FrameResourceConverter interface used by VideoDecoderPipeline to convert FrameResources into VideoFrames asynchronously.
+// ---
+
 #ifndef MEDIA_GPU_CHROMEOS_FRAME_RESOURCE_CONVERTER_H_
 #define MEDIA_GPU_CHROMEOS_FRAME_RESOURCE_CONVERTER_H_
 

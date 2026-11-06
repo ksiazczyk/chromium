@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 video decoder implementation
+// summary: Implements the V4L2VideoDecoder hardware decoder, managing stateful and stateless backends, format setup, secure buffers, and frame output through V4L2 devices.
+// ---
+
 #include "media/gpu/v4l2/v4l2_video_decoder.h"
 
 #include <drm_fourcc.h>

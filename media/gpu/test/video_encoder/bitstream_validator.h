@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bitstream validator header
+// summary: Declares BitstreamValidator, a BitstreamProcessor that validates encoded streams by software decoding and running optional VideoFrameProcessors such as SSIM comparison.
+// ---
+
 #ifndef MEDIA_GPU_TEST_VIDEO_ENCODER_BITSTREAM_VALIDATOR_H_
 #define MEDIA_GPU_TEST_VIDEO_ENCODER_BITSTREAM_VALIDATOR_H_
 

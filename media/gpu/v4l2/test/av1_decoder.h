@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AV1 decoder class for V4L2 stateless decoding
+// summary: Declares the Av1Decoder class that decodes AV1-encoded IVF streams using V4L2 ioctl calls, including frame reading, frame data copying, and reference slot management.
+// ---
+
 #ifndef MEDIA_GPU_V4L2_TEST_AV1_DECODER_H_
 #define MEDIA_GPU_V4L2_TEST_AV1_DECODER_H_
 

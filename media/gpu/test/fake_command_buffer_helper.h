@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake command buffer helper for GPU video tests
+// summary: Declares a fake CommandBufferHelper that simulates sync token waits, stub loss and context loss in tests.
+// ---
+
 #ifndef MEDIA_GPU_TEST_FAKE_COMMAND_BUFFER_HELPER_H_
 #define MEDIA_GPU_TEST_FAKE_COMMAND_BUFFER_HELPER_H_
 

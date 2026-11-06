@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners rules requiring security review for IPC files
+summary: Assigns per-file ownership so that changes to param traits and mojom files require approval from the IPC security owners to avoid sandbox escapes.

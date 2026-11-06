@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 utility functions
+// summary: Implements helpers that convert V4L2 formats, buffers and profiles to Chromium media types and enumerate device capabilities.
+// ---
+
 #include "media/gpu/v4l2/v4l2_utils.h"
 
 #include <fcntl.h>

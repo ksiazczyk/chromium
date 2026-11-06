@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video test helpers implementation
+// summary: Implements IVF file header parsing and writing plus encoded stream helpers that feed video frames to video accelerator tests.
+// ---
+
 #include "media/gpu/test/video_test_helpers.h"
 
 #include <array>

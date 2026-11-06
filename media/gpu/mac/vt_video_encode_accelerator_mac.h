@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoToolbox video encode accelerator header
+// summary: Declares VTVideoEncodeAccelerator, the VideoToolbox-based VideoEncodeAccelerator implementation for macOS, pinned to its construction thread.
+// ---
+
 #ifndef MEDIA_GPU_MAC_VT_VIDEO_ENCODE_ACCELERATOR_MAC_H_
 #define MEDIA_GPU_MAC_VT_VIDEO_ENCODE_ACCELERATOR_MAC_H_
 

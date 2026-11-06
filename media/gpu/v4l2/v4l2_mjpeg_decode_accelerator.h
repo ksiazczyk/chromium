@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 MJPEG decode accelerator header
+// summary: Declares V4L2MjpegDecodeAccelerator, a chromeos_camera::MjpegDecodeAccelerator that decodes MJPEG streams via V4L2 hardware into I420, YV12, or NV12 frames.
+// ---
+
 #ifndef MEDIA_GPU_V4L2_V4L2_MJPEG_DECODE_ACCELERATOR_H_
 #define MEDIA_GPU_V4L2_V4L2_MJPEG_DECODE_ACCELERATOR_H_
 

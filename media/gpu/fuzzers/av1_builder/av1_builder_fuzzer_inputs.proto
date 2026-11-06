@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protobuf input definitions for the av1_builder fuzzer
+// summary: Defines protobuf messages describing AV1 sequence headers, frame headers, and frame OBU lists used as structured input for the fuzzer.
+// ---
+
 syntax = "proto2";
 
 package media.fuzzing;

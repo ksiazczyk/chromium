@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video Toolbox H265 accelerator header
+// summary: Declares VideoToolboxH265Accelerator, the HEVC accelerator that feeds frames to VideoToolbox decompression sessions and reports supported chroma sampling and alpha layers.
+// ---
+
 #ifndef MEDIA_GPU_MAC_VIDEO_TOOLBOX_H265_ACCELERATOR_H_
 #define MEDIA_GPU_MAC_VIDEO_TOOLBOX_H265_ACCELERATOR_H_
 

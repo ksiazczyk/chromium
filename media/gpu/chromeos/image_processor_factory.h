@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image processor factory header
+// summary: Declares the ImageProcessorFactory class with factory methods for creating image processors from port configs or input candidate lists.
+// ---
+
 #ifndef MEDIA_GPU_CHROMEOS_IMAGE_PROCESSOR_FACTORY_H_
 #define MEDIA_GPU_CHROMEOS_IMAGE_PROCESSOR_FACTORY_H_
 

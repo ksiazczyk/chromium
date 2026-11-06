@@ -1,0 +1,4 @@
+# Docerion header of vt_video_encode_accelerator_mac.mm.
+type: source
+title: VideoToolbox video encode accelerator implementation
+summary: Implements hardware video encoding on macOS via VideoToolbox compression sessions, including bitrate control, shared image input, flush and HDR metadata configuration.

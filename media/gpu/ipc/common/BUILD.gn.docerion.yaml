@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for media GPU IPC common
+summary: Defines the common source_set that builds the media GPU IPC parameter traits together with their base, GPU, IPC, media, and gfx dependencies.

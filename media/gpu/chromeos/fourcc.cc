@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fourcc pixel format mapping
+// summary: Implements the Fourcc class converting between uint32 fourcc codes, VideoPixelFormat values, and platform-specific formats for V4L2 and Vaapi.
+// ---
+
 #include "media/gpu/chromeos/fourcc.h"
 
 #include "base/logging.h"

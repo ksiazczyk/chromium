@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 VP9 compressed header parsing entry point
+// summary: Implements ParseVp9CompressedHeaderForV4L2, which validates the compressed header range and parses the VP9 compressed header for V4L2 stateless decoding.
+// ---
+
 #include "media/gpu/v4l2/vp9/v4l2_vp9_compressed_header.h"
 
 #include "base/check.h"

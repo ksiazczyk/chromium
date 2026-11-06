@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mappable shared image video frame converter implementation
+// summary: Implements conversion of NativePixmapFrameResource frames into MappableSharedImage-backed video frames for use in decoder tests.
+// ---
+
 #include "media/gpu/test/video_player/mappable_si_video_frame_converter.h"
 
 #include <memory>

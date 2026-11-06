@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mailbox video frame converter implementation
+// summary: Implements conversion of DMA-buffer-backed FrameResources into SharedImage mailbox-backed video frames for rendering in the GPU process.
+// ---
+
 #include "media/gpu/chromeos/mailbox_video_frame_converter.h"
 
 #include "base/functional/bind.h"

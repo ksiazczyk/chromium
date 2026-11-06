@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 VP9 compressed header parser declaration
+// summary: Declares ParseVp9CompressedHeaderForV4L2, the entry point that parses VP9 compressed headers for V4L2 stateless decoding and reports failures via std::optional.
+// ---
+
 #ifndef MEDIA_GPU_V4L2_VP9_V4L2_VP9_COMPRESSED_HEADER_H_
 #define MEDIA_GPU_V4L2_VP9_V4L2_VP9_COMPRESSED_HEADER_H_
 

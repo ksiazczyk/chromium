@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FrameRegistry unit tests
+// summary: Tests registering, accessing and unregistering frames in FrameRegistry, including reference counting and frame lifecycle behavior.
+// ---
+
 #include "media/gpu/chromeos/frame_registry.h"
 
 #include "gpu/command_buffer/common/mailbox.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fourcc pixel format enum and converters
+// summary: Defines the Fourcc class that composes FourCC video pixel format codes and converts between V4L2, VA and Chromium VideoPixelFormat values.
+// ---
+
 #ifndef MEDIA_GPU_CHROMEOS_FOURCC_H_
 #define MEDIA_GPU_CHROMEOS_FOURCC_H_
 

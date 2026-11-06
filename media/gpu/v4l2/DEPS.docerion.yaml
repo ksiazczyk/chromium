@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: V4L2 directory include rules (DEPS)
+summary: Defines the additional include paths allowed for code in the media/gpu/v4l2 directory.

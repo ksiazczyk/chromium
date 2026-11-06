@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VP9 stateless decoder implementation
+// summary: Implements VP9 decoding by filling V4L2 quantization, loop filter and segmentation parameters from parsed VP9 frame headers.
+// ---
+
 #include "media/gpu/v4l2/test/vp9_decoder.h"
 
 #include <linux/v4l2-controls.h>

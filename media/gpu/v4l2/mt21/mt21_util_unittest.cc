@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MT21 utility unit tests
+// summary: Unit tests for the MT21 utility helpers covering bitstream reading, Golomb-Rice symbol decoding, prediction methods and subblock decompression.
+// ---
+
 #include "base/compiler_specific.h"
 #include "build/build_config.h"
 

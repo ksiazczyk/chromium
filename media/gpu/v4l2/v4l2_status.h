@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 status codes
+// summary: Defines the V4L2Status typed status and its status codes for reporting V4L2 device and queue errors.
+// ---
+
 #ifndef MEDIA_GPU_V4L2_V4L2_STATUS_H_
 #define MEDIA_GPU_V4L2_V4L2_STATUS_H_
 

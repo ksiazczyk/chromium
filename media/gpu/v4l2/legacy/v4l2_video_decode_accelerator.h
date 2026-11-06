@@ -6,6 +6,12 @@
 // that utilizes hardware video decoders, which expose Video4Linux 2 API
 // (http://linuxtv.org/downloads/v4l-dvb-apis/).
 
+// ---docerion
+// type: source
+// title: V4L2 video decode accelerator class declaration
+// summary: Declares the V4L2VideoDecodeAccelerator class, documenting its threading model and interfaces for hardware video decoding via a V4L2 device.
+// ---
+
 #ifndef MEDIA_GPU_V4L2_LEGACY_V4L2_VIDEO_DECODE_ACCELERATOR_H_
 #define MEDIA_GPU_V4L2_LEGACY_V4L2_VIDEO_DECODE_ACCELERATOR_H_
 

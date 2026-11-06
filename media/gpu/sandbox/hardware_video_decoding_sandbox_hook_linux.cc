@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hardware video decoding pre-sandbox hook for Linux
+// summary: Implements the pre-sandbox hook that grants broker file permissions and commands for render nodes and sysfs device files needed by VA-API and V4L2 hardware video decoding.
+// ---
+
 #include "media/gpu/sandbox/hardware_video_decoding_sandbox_hook_linux.h"
 
 #include <dlfcn.h>

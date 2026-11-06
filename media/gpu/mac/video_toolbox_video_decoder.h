@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoToolbox video decoder header
+// summary: Declares VideoToolboxVideoDecoder, a VideoDecoder that dispatches H264, H265, VP9 and AV1 bitstreams to VideoToolbox hardware decoding on macOS.
+// ---
+
 #ifndef MEDIA_GPU_MAC_VIDEO_TOOLBOX_VIDEO_DECODER_H_
 #define MEDIA_GPU_MAC_VIDEO_TOOLBOX_VIDEO_DECODER_H_
 

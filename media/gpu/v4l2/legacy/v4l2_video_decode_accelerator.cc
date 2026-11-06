@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 video decode accelerator implementation
+// summary: Implements the V4L2VideoDecodeAccelerator, driving hardware video decoding through the Video4Linux 2 API with support for H.264, VP8 and VP9 input streams.
+// ---
+
 #include "media/gpu/v4l2/legacy/v4l2_video_decode_accelerator.h"
 
 #include <dlfcn.h>

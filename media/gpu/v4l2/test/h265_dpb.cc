@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H.265 decoded picture buffer implementation
+// summary: Implements H265DPB and H265Picture methods for storing, marking, retrieving, and deleting decoded HEVC pictures and tracking capture buffer IDs in use.
+// ---
+
 #include "media/gpu/v4l2/test/h265_dpb.h"
 
 #include <algorithm>

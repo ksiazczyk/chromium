@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 image processor backend implementation
+// summary: Implements V4L2ImageProcessorBackend, a memory-to-memory image processor that converts video frames through V4L2 queues using DMA-buf buffers.
+// ---
+
 
 #include "media/gpu/v4l2/v4l2_image_processor_backend.h"
 

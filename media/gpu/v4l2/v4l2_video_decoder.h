@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V4L2 video decoder class declarations
+// summary: Declares the V4L2VideoDecoder class, a VideoDecoderMixin that drives V4L2 decoding backends and handles initialization, decoding, resolution changes, and secure buffers.
+// ---
+
 #ifndef MEDIA_GPU_V4L2_V4L2_VIDEO_DECODER_H_
 #define MEDIA_GPU_V4L2_V4L2_VIDEO_DECODER_H_
 

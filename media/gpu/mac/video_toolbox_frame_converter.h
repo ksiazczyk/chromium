@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video Toolbox frame converter header
+// summary: Declares VideoToolboxFrameConverter, which converts IOSurface-backed CVImageBuffers to VideoFrames via the GPU command buffer stub.
+// ---
+
 #ifndef MEDIA_GPU_MAC_VIDEO_TOOLBOX_FRAME_CONVERTER_H_
 #define MEDIA_GPU_MAC_VIDEO_TOOLBOX_FRAME_CONVERTER_H_
 

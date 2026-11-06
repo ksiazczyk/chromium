@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V4L2 ioctl shim class declarations
+// summary: Declares the MmappedBuffer, V4L2Queue and V4L2IoctlShim classes used to manage buffers, queues and ioctl calls during decoding.
+// ---
+
 #ifndef MEDIA_GPU_V4L2_TEST_V4L2_IOCTL_SHIM_H_
 #define MEDIA_GPU_V4L2_TEST_V4L2_IOCTL_SHIM_H_
 

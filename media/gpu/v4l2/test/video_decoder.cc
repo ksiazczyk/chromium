@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video decoder base implementation
+// summary: Implements shared decoder logic including CAPTURE format negotiation, OUTPUT queue creation and YUV to PNG conversion for decoded frames.
+// ---
+
 #include "media/gpu/v4l2/test/video_decoder.h"
 
 #include <linux/videodev2.h>

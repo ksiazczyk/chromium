@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video encoder client header
+// summary: Declares VideoEncoderClientConfig, VideoEncoderStats and VideoEncoderClient, which configure and drive encoding of raw video through the encode accelerator.
+// ---
+
 #ifndef MEDIA_GPU_TEST_VIDEO_ENCODER_VIDEO_ENCODER_CLIENT_H_
 #define MEDIA_GPU_TEST_VIDEO_ENCODER_VIDEO_ENCODER_CLIENT_H_
 

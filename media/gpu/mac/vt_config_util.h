@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoToolbox format extensions utility header
+// summary: Declares CreateFormatExtensions, which builds a CFDictionary of format extensions for a codec type, profile, bit depth and color space.
+// ---
+
 #ifndef MEDIA_GPU_MAC_VT_CONFIG_UTIL_H_
 #define MEDIA_GPU_MAC_VT_CONFIG_UTIL_H_
 

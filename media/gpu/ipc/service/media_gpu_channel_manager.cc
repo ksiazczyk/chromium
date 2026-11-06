@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaGpuChannelManager implementation
+// summary: Implements management of media GPU channels, mapping client IDs to channel tokens and exposing overlay factory and shared context state access.
+// ---
+
 #include "media/gpu/ipc/service/media_gpu_channel_manager.h"
 
 #include <memory>

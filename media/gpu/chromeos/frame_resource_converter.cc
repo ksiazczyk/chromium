@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameResourceConverter implementation
+// summary: Implements the base FrameResourceConverter that converts FrameResources to VideoFrames, handling initialization, errors and output callbacks.
+// ---
+
 #include "media/gpu/chromeos/frame_resource_converter.h"
 
 #include "base/location.h"

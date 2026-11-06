@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V4L2 ioctl shim implementation
+// summary: Implements the V4L2 ioctl wrapper that opens decoder devices, logs ioctl results and maps request codes to names for the stateless decoder test tool.
+// ---
+
 
 #include "media/gpu/v4l2/test/v4l2_ioctl_shim.h"
 

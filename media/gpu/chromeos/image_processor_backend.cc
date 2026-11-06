@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageProcessorBackend implementation
+// summary: Implements the ImageProcessorBackend base class, including PortConfig, callback adapters from FrameResource to VideoFrame, and default Process behavior.
+// ---
+
 #include "media/gpu/chromeos/image_processor_backend.h"
 
 #include <memory>

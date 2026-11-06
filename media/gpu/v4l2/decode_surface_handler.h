@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Decode surface handler interface
+// summary: Template interface for creating decode surfaces and reporting when they are ready for output in order.
+// ---
+
 #ifndef MEDIA_GPU_V4L2_DECODE_SURFACE_HANDLER_H_
 #define MEDIA_GPU_V4L2_DECODE_SURFACE_HANDLER_H_
 

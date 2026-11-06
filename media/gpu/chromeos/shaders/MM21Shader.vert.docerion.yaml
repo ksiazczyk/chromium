@@ -1,0 +1,4 @@
+# Docerion header of MM21Shader.vert.
+type: source
+title: MM21 to ARGB vertex shader
+summary: Vertex shader that computes tile addresses and intra-tile coordinates for the MM21 to ARGB conversion, avoiding costly integer division.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Image quality metrics for video frame comparison
+// summary: Computes PSNR and SSIM similarity metrics between video frames to validate decode and encode quality.
+// ---
+
 #include <math.h>
 
 #include <algorithm>

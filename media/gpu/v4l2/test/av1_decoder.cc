@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AV1 decoder implementation for V4L2 stateless decoding
+// summary: Implements the Av1Decoder class, which parses AV1 IVF streams with libgav1 and decodes frames via V4L2 stateless ioctl calls, filling sequence and frame control parameters.
+// ---
+
 
 #include "media/gpu/v4l2/test/av1_decoder.h"
 

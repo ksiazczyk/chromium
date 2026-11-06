@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stateful V4L2 video decoder backend class declaration
+// summary: Declares the V4L2StatefulVideoDecoderBackend class, the stateful backend interface for decode tasks, resolution changes and output buffer reuse.
+// ---
+
 #ifndef MEDIA_GPU_V4L2_LEGACY_V4L2_VIDEO_DECODER_BACKEND_STATEFUL_H_
 #define MEDIA_GPU_V4L2_LEGACY_V4L2_VIDEO_DECODER_BACKEND_STATEFUL_H_
 

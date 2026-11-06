@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V4L2 stateless decoder tool entry point
+// summary: Command-line tool that decodes IVF videos through V4L2 stateless decoding, with options for frame counts, YUV or PNG output and MD5 checksums.
+// ---
+
 #include <iostream>
 #include <sstream>
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock NativePixmapDmaBuf helper
+// summary: Test helper that creates a NativePixmapDmaBuf with valid strides and metadata but file descriptors pointing to /dev/null instead of a real DMABuf.
+// ---
+
 #include "media/gpu/chromeos/mock_native_pixmap_dmabuf.h"
 
 #include <stddef.h>

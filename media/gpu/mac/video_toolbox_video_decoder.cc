@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoToolbox video decoder implementation
+// summary: Implements the macOS VideoToolbox video decoder, wiring codec accelerators, the decompression session manager, frame conversion and output queuing.
+// ---
+
 #include "media/gpu/mac/video_toolbox_video_decoder.h"
 
 #include <CoreMedia/CoreMedia.h>

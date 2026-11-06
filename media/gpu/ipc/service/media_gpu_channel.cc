@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaGpuChannel implementation
+// summary: Implements the MediaGpuChannel class that pairs a GPU channel with an Android overlay Mojo factory callback.
+// ---
+
 #include "media/gpu/ipc/service/media_gpu_channel.h"
 
 #include <memory>

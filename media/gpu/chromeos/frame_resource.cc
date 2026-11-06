@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameResource base implementation
+// summary: Implements FrameResource basics, generating unique per-process frame IDs and providing default downcasting accessors for frame backing types.
+// ---
+
 #include "media/gpu/chromeos/frame_resource.h"
 
 namespace media {

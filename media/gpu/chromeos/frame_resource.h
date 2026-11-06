@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameResource base class declaration
+// summary: Declares the abstract FrameResource base class for frame-like objects backed by VideoFrame or NativePixmap, with data and DmaBuf accessors.
+// ---
+
 #ifndef MEDIA_GPU_CHROMEOS_FRAME_RESOURCE_H_
 #define MEDIA_GPU_CHROMEOS_FRAME_RESOURCE_H_
 

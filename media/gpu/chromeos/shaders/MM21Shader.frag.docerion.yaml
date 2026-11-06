@@ -1,0 +1,4 @@
+# Docerion header of MM21Shader.frag.
+type: source
+title: MM21 to ARGB fragment shader
+summary: Fragment shader that detiles MM21 luma and chroma textures and converts them to ARGB with BT.601 YUV to RGB conversion.

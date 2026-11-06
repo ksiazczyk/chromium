@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance test utility header
+// summary: Declares helpers for performance tests, such as output and source directory accessors and JSON metric writing.
+// ---
+
 #ifndef MEDIA_GPU_CHROMEOS_PERF_TEST_UTIL_H_
 #define MEDIA_GPU_CHROMEOS_PERF_TEST_UTIL_H_
 

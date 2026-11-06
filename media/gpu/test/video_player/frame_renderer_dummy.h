@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dummy frame renderer header
+// summary: Declares the FrameRendererDummy class used when decoded frames need not be rendered to screen or file, with optional simulated rendering delays.
+// ---
+
 #ifndef MEDIA_GPU_TEST_VIDEO_PLAYER_FRAME_RENDERER_DUMMY_H_
 #define MEDIA_GPU_TEST_VIDEO_PLAYER_FRAME_RENDERER_DUMMY_H_
 

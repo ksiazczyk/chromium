@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for media GPU IPC service
+summary: Defines the service build target that compiles the media GPU channel sources and links against base, gpu, IPC and media dependencies.

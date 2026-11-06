@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GL image processor backend declaration
+// summary: Declares GLImageProcessorBackend, an ImageProcessorBackend that uses OpenGL surfaces, contexts, and framebuffer objects to process frames.
+// ---
+
 #ifndef MEDIA_GPU_CHROMEOS_GL_IMAGE_PROCESSOR_BACKEND_H_
 #define MEDIA_GPU_CHROMEOS_GL_IMAGE_PROCESSOR_BACKEND_H_
 

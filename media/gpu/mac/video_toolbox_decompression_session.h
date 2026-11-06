@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoToolbox decompression session interface
+// summary: Declares the VideoToolboxDecompressionSession interface, swappable for testing, and its standard implementation class.
+// ---
+
 #ifndef MEDIA_GPU_MAC_VIDEO_TOOLBOX_DECOMPRESSION_SESSION_H_
 #define MEDIA_GPU_MAC_VIDEO_TOOLBOX_DECOMPRESSION_SESSION_H_
 
