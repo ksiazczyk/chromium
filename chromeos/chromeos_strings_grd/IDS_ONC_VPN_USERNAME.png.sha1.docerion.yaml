@@ -1,0 +1,4 @@
+# Docerion header of IDS_ONC_VPN_USERNAME.png.sha1.
+type: asset
+title: IDS_ONC_VPN_USERNAME image hash
+summary: Stores the SHA-1 checksum of the PNG image for the IDS_ONC_VPN_USERNAME string in the ChromeOS strings resources.

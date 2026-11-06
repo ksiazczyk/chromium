@@ -1,0 +1,4 @@
+# Docerion header of IDS_ONC_CELLULAR_FAMILY.png.sha1.
+type: data
+title: SHA-1 hash for the cellular family string screenshot
+summary: Stores the SHA-1 checksum of the PNG screenshot verifying rendering of the cellular family label in ChromeOS.

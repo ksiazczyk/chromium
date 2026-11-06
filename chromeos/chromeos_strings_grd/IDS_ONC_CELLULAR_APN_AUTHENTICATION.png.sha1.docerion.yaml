@@ -1,0 +1,4 @@
+# Docerion header of IDS_ONC_CELLULAR_APN_AUTHENTICATION.png.sha1.
+type: data
+title: SHA-1 hash for the cellular APN authentication string screenshot
+summary: Stores the SHA-1 checksum of the PNG screenshot verifying rendering of the cellular APN authentication label in ChromeOS.
