@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JWT signer browser test with WebCrypto verification
+// summary: Browser test that creates an SD-JWT+KB presentation and verifies it via WebCrypto in a test page, expecting the disclosed name field.
+// ---
+
 #include "content/browser/webid/delegation/jwt_signer.h"
 
 #include "base/functional/callback.h"

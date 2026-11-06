@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UserInfoRequest unit tests
+// summary: Unit tests for the FedCM user-info request covering permission checks, IdP sign-in status, config and accounts fetch outcomes, and returning-account filtering.
+// ---
+
 #include "content/browser/webid/user_info_request.h"
 
 #include <memory>

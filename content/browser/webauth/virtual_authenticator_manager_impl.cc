@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VirtualAuthenticatorManagerImpl implementation
+// summary: Implements the manager that adds, removes and lists virtual authenticators for testing, the DevTools WebAuthn pane and WebDriver.
+// ---
+
 #include "content/browser/webauth/virtual_authenticator_manager_impl.h"
 
 #include <utility>

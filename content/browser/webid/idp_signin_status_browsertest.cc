@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IdP sign-in status browser tests
+// summary: Browser tests verifying IdP sign-in status handling, including that cross-origin Early Hints preloads cannot set the sign-in status.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "build/build_config.h"
 #include "content/browser/webid/webid_utils.h"

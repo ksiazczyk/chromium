@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Email verifier network request manager implementation
+// summary: Fetches and parses the email-verification well-known file and token endpoints, validating issuer identity and endpoint fields.
+// ---
+
 #include "content/browser/webid/delegation/email_verifier_network_request_manager.h"
 
 #include <optional>

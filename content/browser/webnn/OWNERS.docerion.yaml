@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the WebNN browser directory
+summary: Points to the services/webnn OWNERS file, delegating code ownership review for the WebNN browser code.

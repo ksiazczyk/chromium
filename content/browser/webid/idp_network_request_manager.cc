@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdpNetworkRequestManager implementation
+// summary: Implements the browser-side network requests to the identity provider during FedCM transactions, including well-known file checks, config, accounts, token, and disconnect endpoints.
+// ---
+
 #include "content/browser/webid/idp_network_request_manager.h"
 
 #include <optional>

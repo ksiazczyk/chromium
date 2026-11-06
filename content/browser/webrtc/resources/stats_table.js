@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stats table view for WebRTC internals
+// summary: Maintains and renders per-report RTC stats tables with type filtering in the WebRTC internals UI.
+// ---
+
 import {$} from 'chrome://resources/js/util.js';
 
 import {generateStatsLabel} from './stats_helper.js';

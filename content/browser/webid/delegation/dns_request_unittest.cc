@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DnsRequest unit tests
+// summary: Unit tests for DnsRequest that verify query URL construction and DNS response parsing using a mocked network request manager.
+// ---
+
 #include "content/browser/webid/delegation/dns_request.h"
 
 #include <optional>

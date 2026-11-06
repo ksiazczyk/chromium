@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC internals WebUI controller implementation
+// summary: Implements the WebUI controller for the WebRTC internals page, adding the message handler and registering the HTML data source and resources.
+// ---
+
 #include "content/browser/webrtc/webrtc_internals_ui.h"
 
 #include "content/browser/webrtc/resources/grit/webrtc_internals_resources.h"

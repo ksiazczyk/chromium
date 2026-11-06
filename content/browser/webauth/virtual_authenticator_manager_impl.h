@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VirtualAuthenticatorManagerImpl class declaration
+// summary: Declares the manager that sets up and configures virtual authenticator devices for testing, the DevTools WebAuthn pane and WebDriver.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBAUTH_VIRTUAL_AUTHENTICATOR_MANAGER_IMPL_H_
 #define CONTENT_BROWSER_WEBAUTH_VIRTUAL_AUTHENTICATOR_MANAGER_IMPL_H_
 

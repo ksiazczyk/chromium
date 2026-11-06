@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn request security checker implementation
+// summary: Implements security validation for WebAuthn requests, including ancestor origin checks, relying party ID validation and app ID extension handling.
+// ---
+
 #include "content/browser/webauth/webauth_request_security_checker_impl.h"
 
 #include <optional>

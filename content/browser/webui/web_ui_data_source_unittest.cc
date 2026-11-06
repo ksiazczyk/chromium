@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI data source unit tests
+// summary: Unit tests for WebUIDataSourceImpl covering strings.js generation, resource paths, MIME types, request filters, and CSP-related behavior.
+// ---
+
 #include "base/containers/span.h"
 #include "base/functional/bind.h"
 #include "base/memory/ref_counted_memory.h"

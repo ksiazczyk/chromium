@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConfigFetcher class header
+// summary: Declares the ConfigFetcher class that fetches config and well-known files for a list of identity providers and validates the returned information.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBID_CONFIG_FETCHER_H_
 #define CONTENT_BROWSER_WEBID_CONFIG_FETCHER_H_
 

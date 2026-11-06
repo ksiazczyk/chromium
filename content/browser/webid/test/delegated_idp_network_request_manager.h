@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Delegated IdP network request manager for tests
+// summary: Declares a mock IdP network request manager subclass that forwards calls to a delegate so it can be queried after the request destroys the wrapper.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBID_TEST_DELEGATED_IDP_NETWORK_REQUEST_MANAGER_H_
 #define CONTENT_BROWSER_WEBID_TEST_DELEGATED_IDP_NETWORK_REQUEST_MANAGER_H_
 

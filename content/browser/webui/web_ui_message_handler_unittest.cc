@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUIMessageHandler unit tests
+// summary: Unit tests verifying that AllowJavascript and DisallowJavascript trigger OnJavascriptAllowed and OnJavascriptDisallowed exactly once.
+// ---
+
 #include "content/public/browser/web_ui_message_handler.h"
 
 #include <string>

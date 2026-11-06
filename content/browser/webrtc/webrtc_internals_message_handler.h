@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC internals message handler header
+// summary: Header declaring the WebUI message handler that forwards commands from the WebRTC internals page to the WebRTCInternals backend and observes its updates.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBRTC_WEBRTC_INTERNALS_MESSAGE_HANDLER_H_
 #define CONTENT_BROWSER_WEBRTC_WEBRTC_INTERNALS_MESSAGE_HANDLER_H_
 

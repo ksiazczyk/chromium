@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: WebTransport directory metadata
+summary: Chromium metadata file assigning the directory to the Blink>Network>WebTransport monorail and Buganizer components with the net-dev team email.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SD-JWT implementation
+// summary: Implements the SD-JWT holder library, including JWK parsing and serialization, disclosure handling and base64url helpers for selective disclosure tokens.
+// ---
+
 #include "sd_jwt.h"
 
 #include "base/base64.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUIManagedInterface template header
+// summary: Declares the WebUIManagedInterface template that automates Mojo endpoint binding and lifetime management for WebUI controller classes.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBUI_WEB_UI_MANAGED_INTERFACE_H_
 #define CONTENT_BROWSER_WEBUI_WEB_UI_MANAGED_INTERFACE_H_
 

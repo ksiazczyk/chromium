@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Email verification request implementation
+// summary: Implements the Email Verification Protocol with DNS TXT issuer discovery, well-known and account fetches, HTTP message signatures, and SD JWT token issuance.
+// ---
+
 #include "content/browser/webid/delegation/email_verification_request.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: getUserMedia browser tests
+// summary: Browser tests exercising getUserMedia constraints, source selection, track rendering and cloning, and media stream failure cases in the content layer.
+// ---
+
 #include <stddef.h>
 
 #include "base/command_line.h"

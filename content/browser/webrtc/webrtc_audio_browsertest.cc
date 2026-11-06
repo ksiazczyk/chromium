@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC audio browser tests
+// summary: Browser tests verifying audio and video peer connection calls and audio playback when mic and camera permissions are granted.
+// ---
+
 #include "base/command_line.h"
 #include "base/test/scoped_feature_list.h"
 #include "base/threading/platform_thread.h"

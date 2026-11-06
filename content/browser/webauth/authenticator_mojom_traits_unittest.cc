@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Authenticator mojo traits unit tests
+// summary: Unit tests verifying serialization and deserialization of WebAuthn mojo types such as credential parameters, descriptors, and selection criteria.
+// ---
+
 #include "third_party/blink/public/mojom/authenticator_mojom_traits.h"
 
 #include <vector>

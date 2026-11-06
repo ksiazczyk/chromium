@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RequestPageData implementation
+// summary: Implements per-page user data that stores the pending FedCM request handler so only one web identity request runs per page.
+// ---
+
 #include "content/browser/webid/request_page_data.h"
 
 namespace content::webid {

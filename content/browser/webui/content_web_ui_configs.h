@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declaration of RegisterContentWebUIConfigs
+// summary: Declares the exported function that adds content's WebUI configs to the WebUIConfigMap.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBUI_CONTENT_WEB_UI_CONFIGS_H_
 #define CONTENT_BROWSER_WEBUI_CONTENT_WEB_UI_CONFIGS_H_
 

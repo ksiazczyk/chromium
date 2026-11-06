@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebTransport throttle context implementation
+// summary: Implements WebTransport handshake throttling, including failure penalties per IP or subnet, pending session limits, and a developer-mode switch that suppresses penalties.
+// ---
+
 #include "content/browser/webtransport/web_transport_throttle_context.h"
 
 #include "base/check.h"

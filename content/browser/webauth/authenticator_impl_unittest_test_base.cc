@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AuthenticatorImpl test base implementation
+// summary: Implements shared helpers for AuthenticatorImpl unit tests, such as test challenge bytes, response parsing, and large blob compression.
+// ---
+
 #include "content/browser/webauth/authenticator_impl_unittest_test_base.h"
 
 #include "base/check.h"

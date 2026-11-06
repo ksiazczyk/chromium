@@ -1,3 +1,12 @@
+---
+type: readme
+title: FedCM Browser side
+summary: Explains the browser-side FedCM implementation, covering the anatomy of a FedCM request, network fetches, permission grants, UI and key classes.
+relations:
+  - references /content/browser/webid/idp_network_request_manager.h
+  - references /third_party/blink/public/mojom/webid/federated_request.mojom
+---
+
 # FedCM Browser side
 
 This folder contains the implementation of the browser side logic for the

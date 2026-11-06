@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC video capture service browser test
+// summary: Browser test that exercises shared-memory and texture virtual capture devices against the video capture service, pushing frames and verifying rendering.
+// ---
+
 #include "base/command_line.h"
 #include "base/compiler_specific.h"
 #include "base/functional/bind.h"

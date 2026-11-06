@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL data manager implementation
+// summary: Implements URLDataManager, which registers, updates and deletes URL data sources per BrowserContext and schedules their deletion on the UI thread.
+// ---
+
 #include "content/browser/webui/url_data_manager.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IdentityRegistry unit tests
+// summary: Unit tests verifying that the FedCM modal dialog closes only when the notifier origin and the identity registry origin are same-origin.
+// ---
+
 #include "content/browser/webid/identity_registry.h"
 
 #include "content/browser/webid/test/mock_modal_dialog_view_delegate.h"

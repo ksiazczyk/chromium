@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DnsRequest class header
+// summary: Declares the DnsRequest class that performs DNS TXT lookups for a hostname and returns the retrieved text records via callback.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBID_DELEGATION_DNS_REQUEST_H_
 #define CONTENT_BROWSER_WEBID_DELEGATION_DNS_REQUEST_H_
 

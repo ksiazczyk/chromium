@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUIManagedInterface browser tests
+// summary: Browser tests verifying that WebUIManagedInterface binds Mojo endpoints and destroys interface implementations when the WebUI document navigates away.
+// ---
+
 #include "content/browser/webui/web_ui_managed_interface.h"
 
 #include <memory>

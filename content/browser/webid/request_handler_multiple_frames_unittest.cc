@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Request handler multiple frames unit tests
+// summary: Unit tests for the FedCM request handler covering token requests across multiple frames, including UKM metrics, permission delegates, and dialog controller behavior.
+// ---
+
 #include <memory>
 #include <optional>
 #include <ostream>

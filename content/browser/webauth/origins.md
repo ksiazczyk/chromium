@@ -1,3 +1,9 @@
+---
+type: reference
+title: Origins that support WebAuthn
+summary: Lists the secure-context origins that may use WebAuthn, covering valid HTTPS pages, localhost, extension schemes, and isolated-app VDI restrictions.
+---
+
 # Origins that support WebAuthn
 
 WebAuthn is [only available](https://www.w3.org/TR/webauthn-2/#sctn-api) to pages which are in a [secure context](https://w3c.github.io/webappsec-secure-contexts/#intro). Specifically, pages served from the following origins can use WebAuthn:

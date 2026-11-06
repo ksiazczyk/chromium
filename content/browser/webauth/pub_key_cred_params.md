@@ -1,3 +1,9 @@
+---
+type: reference
+title: Advice on pubKeyCredParams algorithm choices
+summary: Advises relying parties on pubKeyCredParams defaults ES256 and RS256 and warns that omitting them causes registration failures with incompatible authenticators.
+---
+
 # Advice to sites regarding `PublicKeyCredentialCreationOptions.pubKeyCredParams`
 
 In the options for a [Web Authentication](https://www.w3.org/TR/webauthn/) [credential registration request](https://www.w3.org/TR/webauthn/#createCredential), the caller can specify a list of [cryptographic algorithm identifiers](https://www.w3.org/TR/webauthn-2/#typedefdef-cosealgorithmidentifier) in the [`pubKeyCredParams`](https://www.w3.org/TR/webauthn-2/#dictdef-publickeycredentialparameters) field.

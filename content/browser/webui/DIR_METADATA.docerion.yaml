@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for WebUI browser code
+summary: Points the directory to the shared ui/webui COMMON_METADATA mixin so common WebUI metadata applies to these files.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EmailVerifierImpl unit tests
+// summary: Unit tests for EmailVerifierImpl that use mocked verification requests to exercise verifiability checks and verification completion.
+// ---
+
 #include "content/browser/webid/delegation/email_verifier_impl.h"
 
 #include <optional>

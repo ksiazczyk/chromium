@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FedCM metrics unit tests
+// summary: Unit tests verifying FedCM UKM entries and histogram samples such as HasNonce and well-known validation errors.
+// ---
+
 #include "content/browser/webid/metrics.h"
 
 #include "base/test/metrics/histogram_tester.h"

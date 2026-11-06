@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: FedCM request handler implementation
+// summary: Implements browser-side handling of FedCM token requests, including account fetching, permission checks, dialogs, and token responses.
+// ---
+
 #include "content/browser/webid/request_handler.h"
 
 #include <algorithm>

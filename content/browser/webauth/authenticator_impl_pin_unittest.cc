@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AuthenticatorImpl PIN unit tests
+// summary: Unit tests for PIN collection, PIN length rules, and soft/hard PIN blocking in the WebAuthn authenticator implementation using virtual FIDO devices.
+// ---
+
 #include <array>
 #include <list>
 #include <string>

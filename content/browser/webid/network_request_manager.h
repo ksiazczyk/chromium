@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network request manager base class for WebID APIs
+// summary: Declares the base class and helpers for creating and parsing network fetches used by WebID and FedCM APIs, including fetch status types.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBID_NETWORK_REQUEST_MANAGER_H_
 #define CONTENT_BROWSER_WEBID_NETWORK_REQUEST_MANAGER_H_
 

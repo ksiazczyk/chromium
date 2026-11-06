@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock digital identity provider for WebID tests
+// summary: Declares MockDigitalIdentityProvider, a GMock stub of DigitalIdentityProvider that fakes interstitials and digital identity get/create requests in browser tests.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBID_TEST_MOCK_DIGITAL_IDENTITY_PROVIDER_H_
 #define CONTENT_BROWSER_WEBID_TEST_MOCK_DIGITAL_IDENTITY_PROVIDER_H_
 

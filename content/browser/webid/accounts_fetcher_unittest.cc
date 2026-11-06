@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccountsFetcher unit tests
+// summary: Unit tests for AccountsFetcher covering cached IDP handling, endpoint fetching and account requests using mocked network and permission delegates.
+// ---
+
 #include "content/browser/webid/accounts_fetcher.h"
 
 #include <memory>

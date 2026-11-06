@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn client data JSON builder header
+// summary: Declares functions that build and serialize the WebAuthn CollectedClientData JSON, including a variant that embeds payment data.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBAUTH_CLIENT_DATA_JSON_H_
 #define CONTENT_BROWSER_WEBAUTH_CLIENT_DATA_JSON_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FedCM utility functions implementation
+// summary: Implements shared FedCM helpers for ancestor origin checks, IdP sign-in status updates, console error messages, endpoint validation, and URL formatting.
+// ---
+
 #include "content/browser/webid/webid_utils.h"
 
 #include "base/strings/stringprintf.h"

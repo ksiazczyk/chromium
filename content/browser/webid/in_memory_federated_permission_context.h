@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory federated permission context header
+// summary: Declares the in-memory FedCM permission context class implementing the API permission, auto-reauthn, and identity permission delegates.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBID_IN_MEMORY_FEDERATED_PERMISSION_CONTEXT_H_
 #define CONTENT_BROWSER_WEBID_IN_MEMORY_FEDERATED_PERMISSION_CONTEXT_H_
 

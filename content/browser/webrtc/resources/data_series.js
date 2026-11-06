@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Timeline data series for WebRTC stats graphs
+// summary: Implements TimelineDataSeries, a buffered series of time-value pairs with color and visibility state used for the stats timeline graphs.
+// ---
+
 // The maximum number of data points buffered for each stats. Old data points
 // will be shifted out when the buffer is full.
 export const MAX_STATS_DATA_POINT_BUFFER_SIZE = 1000;

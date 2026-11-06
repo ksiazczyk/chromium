@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConfigFetcher implementation
+// summary: Implements fetching and validating the well-known and config files for the identity providers requested in a FedCM flow.
+// ---
+
 #include "content/browser/webid/config_fetcher.h"
 
 #include "base/check.h"

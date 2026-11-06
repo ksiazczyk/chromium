@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC diagnostics implementation
+// summary: Implements per-profile WebRTC diagnostics capture, recording peer connections, media, logs and stats with origin filtering and bounded entry counts.
+// ---
+
 #include "content/browser/webrtc/webrtc_diagnostics_impl.h"
 
 #include <algorithm>

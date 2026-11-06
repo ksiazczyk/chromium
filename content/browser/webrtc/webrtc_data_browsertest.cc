@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC SCTP data browser test
+// summary: Browser test running peer connection calls with SCTP data only and with data combined with media, with some variants disabled on certain platforms.
+// ---
+
 #include "base/command_line.h"
 #include "base/threading/platform_thread.h"
 #include "build/build_config.h"

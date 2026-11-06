@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FedCM feature flag checks implementation
+// summary: Implements helper functions that report whether individual FedCM and Web Identity features such as delegation, autofill, and digital credentials are enabled.
+// ---
+
 #include "flags.h"
 
 #include <optional>

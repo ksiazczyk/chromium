@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUIMainFrameObserver class header
+// summary: Declares WebUIMainFrameObserver, a WebContentsObserver that relays notifications to WebUIImpl and enables JavaScript error reporting on WebUI surfaces.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBUI_WEB_UI_MAIN_FRAME_OBSERVER_H_
 #define CONTENT_BROWSER_WEBUI_WEB_UI_MAIN_FRAME_OBSERVER_H_
 

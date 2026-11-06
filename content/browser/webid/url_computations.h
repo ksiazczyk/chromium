@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FedCM URL computations header
+// summary: Declares functions computing FedCM URLs, including token endpoint POST data, error URL resolution and classification, and login URL query parameters.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBID_URL_COMPUTATIONS_H_
 #define CONTENT_BROWSER_WEBID_URL_COMPUTATIONS_H_
 

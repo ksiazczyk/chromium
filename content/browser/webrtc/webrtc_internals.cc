@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTCInternals browser-side backend
+// summary: Browser-side singleton that tracks PeerConnections and getUserMedia requests, manages event and audio debug recordings, and controls stats polling for the WebRTC internals page.
+// ---
+
 #include "content/browser/webrtc/webrtc_internals.h"
 
 #include <algorithm>

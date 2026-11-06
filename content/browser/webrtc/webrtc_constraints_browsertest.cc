@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC getUserMedia constraints browser test
+// summary: Parameterized browser test calling getUserMedia with varying video width, height and frame rate constraints, disabled on some platforms.
+// ---
+
 #include <stddef.h>
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn request security checker class declaration
+// summary: Declares the security checker that validates domains, relying party IDs, ancestor origins, app IDs and cross-device fallback URLs for WebAuthn.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBAUTH_WEBAUTH_REQUEST_SECURITY_CHECKER_IMPL_H_
 #define CONTENT_BROWSER_WEBAUTH_WEBAUTH_REQUEST_SECURITY_CHECKER_IMPL_H_
 

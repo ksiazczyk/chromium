@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountsFetcher implementation
+// summary: Implements fetching accounts and IDP information for FedCM requests, including response validation, console error reporting and metrics.
+// ---
+
 #include "content/browser/webid/accounts_fetcher.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DocumentMetadata implementation
+// summary: Parses schema.org LoginAction entities from a document's JSON-LD metadata into FedCM IdentityProviderGetParameters for federated login.
+// ---
+
 #include "content/browser/webid/document_metadata.h"
 
 #include <optional>

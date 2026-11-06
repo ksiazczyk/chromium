@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the WebID network request manager
+// summary: Tests creation of credentialed and uncredentialed resource requests and URL download behavior of the network request manager.
+// ---
+
 #include "content/browser/webid/network_request_manager.h"
 
 #include <utility>

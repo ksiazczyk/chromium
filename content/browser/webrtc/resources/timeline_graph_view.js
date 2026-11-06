@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Timeline graph view for WebRTC internals
+// summary: Draws timeline graphs of stats data series on a canvas with scrolling, scaling and date range support.
+// ---
+
 // Maximum number of labels placed vertically along the sides of the graph.
 const MAX_VERTICAL_LABELS = 6;
 

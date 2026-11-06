@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdentityCredentialSourceImpl header
+// summary: Declares the DocumentUserData-backed IdentityCredentialSourceImpl class with suggestion, account selection, and embedder login request APIs plus test injection hooks.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBID_IDENTITY_CREDENTIAL_SOURCE_IMPL_H_
 #define CONTENT_BROWSER_WEBID_IDENTITY_CREDENTIAL_SOURCE_IMPL_H_
 

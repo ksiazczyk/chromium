@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FedCM mappers header
+// summary: Declares FedCM type conversion functions, disclosure field constants, and the metrics endpoint error code enum.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBID_MAPPERS_H_
 #define CONTENT_BROWSER_WEBID_MAPPERS_H_
 

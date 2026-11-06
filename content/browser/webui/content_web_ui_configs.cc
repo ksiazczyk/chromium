@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Registration of content's built-in WebUI configs
+// summary: Registers WebUI configs for content's internal pages such as GPU, IndexedDB, media, network errors, quota, service worker and WebRTC internals in the WebUIConfigMap.
+// ---
+
 #include "content/browser/webui/content_web_ui_configs.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI data source implementation
+// summary: Implements WebUIDataSourceImpl, serving WebUI resources with load-time data, localized strings, CSP and cross-origin policy overrides, and optional resource loading from disk.
+// ---
+
 #include "content/browser/webui/web_ui_data_source_impl.h"
 
 #include <stddef.h>

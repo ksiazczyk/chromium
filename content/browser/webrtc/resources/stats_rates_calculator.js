@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RTC stats rate and metric calculators
+// summary: Calculates derived metrics such as rates and human-readable timestamps from accumulative RTCStats counters for display in graphs and tables.
+// ---
+
 // The number of milliseconds between 1 January 1900 and 1 January 1970.
 const kNtpToUnixTimeOffsetMs = -2208988800000;
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock camera device class declaration
+// summary: Declares MockCameraDevice and MockCameraConfig for a sequence-affine mock camera that pushes frames via Mojo endpoints.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBRTC_MOCK_CAMERA_DEVICE_H_
 #define CONTENT_BROWSER_WEBRTC_MOCK_CAMERA_DEVICE_H_
 

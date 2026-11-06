@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC resolution switch stress browser tests
+// summary: Manual stress browser test switching video resolution repeatedly during peer connection calls.
+// ---
+
 #include "base/command_line.h"
 #include "base/strings/stringprintf.h"
 #include "base/threading/platform_thread.h"

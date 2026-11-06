@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock IdP network request manager implementation
+// summary: Implements the constructor and destructor of MockIdpNetworkRequestManager, initializing the base IdpNetworkRequestManager with default origins and state.
+// ---
+
 #include "content/browser/webid/test/mock_idp_network_request_manager.h"
 
 #include "content/public/browser/weak_document_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EmailVerificationRequest unit tests
+// summary: Unit tests for the email verification flow, checking Content-Digest and Signature-Key headers, message signatures, and token issuance behavior.
+// ---
+
 #include "content/browser/webid/delegation/email_verification_request.h"
 
 #include "base/functional/callback_helpers.h"

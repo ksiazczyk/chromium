@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IdpNetworkRequestManager unit tests
+// summary: Extensive unit tests for IDP network request handling in FedCM, covering well-known files, config and accounts endpoints, tokens, icons, and error cases.
+// ---
+
 #include "content/browser/webid/idp_network_request_manager.h"
 
 #include <array>

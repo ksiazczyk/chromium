@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Styles for the WebRTC internals page
+summary: Defines the layout and appearance of peer connection tables, tabs, graphs and dump controls.
+*/
+
 
 .peer-connection-dump-root {
   font-size: 0.8em;

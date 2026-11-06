@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EmailVerifierImpl class header
+// summary: Declares EmailVerifierImpl, an EmailVerifier following the Email Verification Protocol and tied to a live RenderFrameHost.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBID_DELEGATION_EMAIL_VERIFIER_IMPL_H_
 #define CONTENT_BROWSER_WEBID_DELEGATION_EMAIL_VERIFIER_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default authenticator request client delegate header
+// summary: Declares the default AuthenticatorRequestClientDelegate used by embedders such as content_shell, offering minimal functionality with no UI.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBAUTH_DEFAULT_AUTHENTICATOR_REQUEST_CLIENT_DELEGATE_H_
 #define CONTENT_BROWSER_WEBAUTH_DEFAULT_AUTHENTICATOR_REQUEST_CLIENT_DELEGATE_H_
 

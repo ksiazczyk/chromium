@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stub digital identity provider implementation for WebID tests
+// summary: Implements a no-op stub of DigitalIdentityProvider that returns default values for interstitial, Get and Create calls during WebID tests.
+// ---
+
 #include "content/browser/webid/test/stub_digital_identity_provider.h"
 
 #include "content/public/browser/digital_identity_provider.h"

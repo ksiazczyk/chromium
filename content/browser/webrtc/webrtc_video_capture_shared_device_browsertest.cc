@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC video capture shared device browser test
+// summary: Browser test that opens a single fake capture device from two clients, the video capture service directly and the browser via JavaScript.
+// ---
+
 #include "base/command_line.h"
 #include "base/run_loop.h"
 #include "base/strings/stringprintf.h"

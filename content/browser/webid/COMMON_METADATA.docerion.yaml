@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: COMMON_METADATA for the FedCM browser directory
+summary: Defines the Monorail component, team email and Buganizer component used for tracking issues in this FedCM browser code directory.

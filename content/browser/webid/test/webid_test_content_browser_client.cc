@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebID test content browser client implementation
+// summary: Implements WebIdTestContentBrowserClient, supplying test dialog controllers, digital identity providers and identity registry setup for WebID browser tests.
+// ---
+
 #include "content/browser/webid/test/webid_test_content_browser_client.h"
 
 #include "content/browser/webid/test/mock_modal_dialog_view_delegate.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock permission delegate for WebID tests
+// summary: gMock-based mock of the FederatedIdentityPermissionContextDelegate interface used to fake IDP signin status and sharing permissions in WebID tests.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBID_TEST_MOCK_PERMISSION_DELEGATE_H_
 #define CONTENT_BROWSER_WEBID_TEST_MOCK_PERMISSION_DELEGATE_H_
 

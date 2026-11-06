@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User media request table for WebRTC internals
+// summary: Displays and filters getUserMedia and getDisplayMedia requests together with their results and errors.
+// ---
+
 import {$} from 'chrome://resources/js/util.js';
 const USER_MEDIA_TAB_ID = 'user-media-tab-id';
 

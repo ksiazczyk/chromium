@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DocumentMetadata browser test
+// summary: Browser test verifying that federated LoginAction providers are retrieved from a page's JSON-LD with configURL, clientId, nonce, and fields intact.
+// ---
+
 #include "content/browser/webid/document_metadata.h"
 
 #include "base/run_loop.h"

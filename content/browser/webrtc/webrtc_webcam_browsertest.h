@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC webcam browser test fixture header
+// summary: Header declaring the UsingRealWebcam_WebRtcWebcamBrowserTest fixture, which removes the fake device flag so tests can use a real webcam.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBRTC_WEBRTC_WEBCAM_BROWSERTEST_H_
 #define CONTENT_BROWSER_WEBRTC_WEBRTC_WEBCAM_BROWSERTEST_H_
 

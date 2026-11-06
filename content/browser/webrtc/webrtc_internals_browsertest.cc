@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC internals browser tests
+// summary: Browser tests that verify the WebRTC internals page, covering PeerConnection updates, stats graph data, and user media request logging.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

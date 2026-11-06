@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserInfoRequest class declaration
+// summary: Declares the UserInfoRequest class that fetches config, well-known and accounts data to answer FedCM user-info requests from a renderer.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBID_USER_INFO_REQUEST_H_
 #define CONTENT_BROWSER_WEBID_USER_INFO_REQUEST_H_
 

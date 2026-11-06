@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RequestService implementation
+// summary: Implements the document-scoped FederatedRequestService Mojo service coordinating FedCM token, user info, IDP registration, disconnect, and sign-in status requests.
+// ---
+
 #include "content/browser/webid/request_service.h"
 
 #include "base/command_line.h"

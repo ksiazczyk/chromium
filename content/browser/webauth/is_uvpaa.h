@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IsUVPAA platform interface header
+// summary: Declares the platform-specific IsUserVerifyingPlatformAuthenticatorAvailable functions and their callback type for Mac, Windows, and ChromeOS builds.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBAUTH_IS_UVPAA_H_
 #define CONTENT_BROWSER_WEBAUTH_IS_UVPAA_H_
 

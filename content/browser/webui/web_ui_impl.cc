@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI implementation
+// summary: Implements WebUIImpl, managing WebUI controllers, message handlers, bindings, Mojo connections, and local resource loader configuration for WebUI pages.
+// ---
+
 #include "content/browser/webui/web_ui_impl.h"
 
 #include <stddef.h>

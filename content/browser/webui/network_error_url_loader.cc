@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL loader that completes requests with network errors
+// summary: Starts a URL loader that completes requests with a network error code, supporting the offline dinosaur host and valid error codes in the URL path.
+// ---
+
 #include "content/browser/webui/network_error_url_loader.h"
 
 #include "base/strings/string_number_conversions.h"

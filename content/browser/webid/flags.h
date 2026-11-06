@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FedCM feature flag check declarations
+// summary: Declares boolean helpers in content::webid that report the enabled state of FedCM features like delegation, well-known enforcement, ambient UI, and native IdPs.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBID_FLAGS_H_
 #define CONTENT_BROWSER_WEBID_FLAGS_H_
 

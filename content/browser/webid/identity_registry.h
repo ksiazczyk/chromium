@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdentityRegistry header
+// summary: Declares IdentityRegistry, a WebContentsUserData storing a modal dialog delegate and IdP config URL, with NotifyClose and NotifyResolve methods.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBID_IDENTITY_REGISTRY_H_
 #define CONTENT_BROWSER_WEBID_IDENTITY_REGISTRY_H_
 

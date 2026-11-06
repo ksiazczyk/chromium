@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC internals unit tests
+// summary: Unit tests for the WebRTCInternals class covering event updates, wake lock behavior, and connection count observation.
+// ---
+
 #include "content/browser/webrtc/webrtc_internals.h"
 
 #include <array>

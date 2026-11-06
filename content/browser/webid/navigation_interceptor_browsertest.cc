@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for FedCM navigation interception
+// summary: Browser tests exercising navigation interception against an embedded test identity provider serving FedCM endpoints and interception headers.
+// ---
+
 #include <map>
 #include <memory>
 #include <string>

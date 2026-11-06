@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the FedCM navigation interceptor
+// summary: Unit tests covering request and response building, structured header parsing, and interception behavior of the navigation interceptor.
+// ---
+
 #include "content/browser/webid/navigation_interceptor.h"
 
 #include <variant>

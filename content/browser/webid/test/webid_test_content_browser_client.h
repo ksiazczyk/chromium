@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebID test content browser client stubbing Chrome-layer calls
+// summary: Declares a ContentBrowserClient subclass that stubs Chrome-layer calls such as the identity request dialog controller and digital identity provider for WebID tests.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBID_TEST_WEBID_TEST_CONTENT_BROWSER_CLIENT_H_
 #define CONTENT_BROWSER_WEBID_TEST_WEBID_TEST_CONTENT_BROWSER_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FedCM navigation interceptor implementation
+// summary: Navigation throttle that intercepts navigations to start FedCM token requests or embedder-initiated login flows.
+// ---
+
 #include "content/browser/webid/navigation_interceptor.h"
 
 #include "base/auto_reset.h"

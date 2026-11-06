@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC internals UI observer interface
+// summary: Declares the observer interface used to receive WebRTCInternals update events on the browser UI thread.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBRTC_WEBRTC_INTERNALS_UI_OBSERVER_H_
 #define CONTENT_BROWSER_WEBRTC_WEBRTC_INTERNALS_UI_OBSERVER_H_
 

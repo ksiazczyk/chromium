@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Federated SD-JWT handler header
+// summary: Declares FederatedSdJwtHandler, which manages holder keys and parsed disclosures when processing SD-JWT token responses for WebID delegation.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBID_DELEGATION_FEDERATED_SD_JWT_HANDLER_H_
 #define CONTENT_BROWSER_WEBID_DELEGATION_FEDERATED_SD_JWT_HANDLER_H_
 

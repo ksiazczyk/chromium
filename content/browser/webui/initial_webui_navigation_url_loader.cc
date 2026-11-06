@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Loader implementation for initial WebUI navigations
+// summary: Implements the navigation URL loader for initial WebUI URLs, building the response head from the URL data source and skipping browser-side body loading.
+// ---
+
 #include "content/browser/webui/initial_webui_navigation_url_loader.h"
 
 #include "base/feature_list.h"

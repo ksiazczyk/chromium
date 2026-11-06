@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the WebUI browser directory
+summary: Chromium DEPS file restricting which headers the content browser WebUI code may include, such as Ash resources and crash error reporting.

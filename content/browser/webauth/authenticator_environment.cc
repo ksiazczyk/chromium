@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthenticatorEnvironment implementation
+// summary: Implements the singleton that enables per-frame virtual authenticator environments and test discovery factory overrides.
+// ---
+
 #include "content/browser/webauth/authenticator_environment.h"
 
 #include <algorithm>

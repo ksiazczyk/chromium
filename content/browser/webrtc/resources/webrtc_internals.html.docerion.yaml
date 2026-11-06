@@ -1,0 +1,4 @@
+# Docerion header of webrtc_internals.html.
+type: source
+title: WebRTC internals page
+summary: Main HTML page of the WebRTC internals WebUI with dump creation and diagnostic recording controls.

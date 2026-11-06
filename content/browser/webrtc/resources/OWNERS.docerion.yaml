@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for WebRTC internals resources
+summary: Lists the code owners for the WebRTC internals resources directory and points to platform owners for trivial or mechanical JS, CSS and HTML changes.

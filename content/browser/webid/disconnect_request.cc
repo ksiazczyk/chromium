@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisconnectRequest implementation
+// summary: Implements the FedCM disconnect request flow, checking trustworthiness and API permissions before fetching IdP disconnect endpoints and recording metrics.
+// ---
+
 #include "content/browser/webid/disconnect_request.h"
 
 #include "base/notreached.h"

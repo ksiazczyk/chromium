@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC pause and play stress browser tests
+// summary: Manual stress browser test running repeated pause and play iterations over multiple peer connections for audio and video.
+// ---
+
 #include "base/command_line.h"
 #include "base/strings/stringprintf.h"
 #include "base/threading/platform_thread.h"

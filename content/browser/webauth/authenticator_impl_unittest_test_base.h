@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AuthenticatorImpl test base header
+// summary: Declares the AuthenticatorImplTest base class with shared constants, futures, and helper methods used by AuthenticatorImpl unit tests.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBAUTH_AUTHENTICATOR_IMPL_UNITTEST_TEST_BASE_H_
 #define CONTENT_BROWSER_WEBAUTH_AUTHENTICATOR_IMPL_UNITTEST_TEST_BASE_H_
 

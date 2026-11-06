@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI data source class declaration
+// summary: Declares WebUIDataSourceImpl, the URLDataSourceImpl subclass backing WebUIDataSource with resource path maps, template replacements, and security policy overrides.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBUI_WEB_UI_DATA_SOURCE_IMPL_H_
 #define CONTENT_BROWSER_WEBUI_WEB_UI_DATA_SOURCE_IMPL_H_
 

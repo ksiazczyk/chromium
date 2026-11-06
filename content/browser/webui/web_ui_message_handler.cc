@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUIMessageHandler implementation
+// summary: Implements JavaScript permission handling and callback resolution or rejection for WebUI message handlers via the cr.webUIResponse function.
+// ---
+
 #include "content/public/browser/web_ui_message_handler.h"
 
 #include "base/check.h"

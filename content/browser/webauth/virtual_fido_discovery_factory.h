@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VirtualFidoDiscoveryFactory class declaration
+// summary: Declares the factory that produces FIDO discoveries instantiating a virtual device for each authenticator configured in the manager.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBAUTH_VIRTUAL_FIDO_DISCOVERY_FACTORY_H_
 #define CONTENT_BROWSER_WEBAUTH_VIRTUAL_FIDO_DISCOVERY_FACTORY_H_
 

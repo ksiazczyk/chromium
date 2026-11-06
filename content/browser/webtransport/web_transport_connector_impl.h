@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebTransportConnectorImpl class declaration
+// summary: Declares WebTransportConnectorImpl, the content-layer implementation of blink::mojom::WebTransportConnector handling connect requests and throttle callbacks.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBTRANSPORT_WEB_TRANSPORT_CONNECTOR_IMPL_H_
 #define CONTENT_BROWSER_WEBTRANSPORT_WEB_TRANSPORT_CONNECTOR_IMPL_H_
 

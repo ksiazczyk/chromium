@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdpRegistrationHandler implementation
+// summary: Implements fetching of the IDP configuration for FedCM IDP registration, skipping well-known file enforcement when requesting the configuration.
+// ---
+
 #include "content/browser/webid/idp_registration_handler.h"
 
 #include "content/browser/webid/config_fetcher.h"

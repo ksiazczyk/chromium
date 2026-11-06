@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock modal dialog view delegate for WebID tests
+// summary: Declares MockModalDialogViewDelegate, a GMock IdentityRegistryDelegate that mocks OnClose and OnResolve for WebID modal dialog tests.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBID_TEST_MOCK_MODAL_DIALOG_VIEW_DELEGATE_H_
 #define CONTENT_BROWSER_WEBID_TEST_MOCK_MODAL_DIALOG_VIEW_DELEGATE_H_
 

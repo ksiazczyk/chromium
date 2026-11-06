@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DocumentMetadata class declaration
+// summary: Declares DocumentMetadata, which provides access to a document's structured login metadata and returns federated LoginAction parameters via callback.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBID_DOCUMENT_METADATA_H_
 #define CONTENT_BROWSER_WEBID_DOCUMENT_METADATA_H_
 

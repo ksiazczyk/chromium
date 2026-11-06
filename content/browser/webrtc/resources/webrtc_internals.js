@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC internals main script
+// summary: Entry point that wires WebUI listeners and components to render peer connections, stats and updates.
+// ---
+
 import {addWebUiListener, sendWithPromise} from 'chrome://resources/js/cr.js';
 import {$} from 'chrome://resources/js/util.js';
 

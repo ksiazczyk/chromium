@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stub digital identity provider for WebID tests
+// summary: Declares a no-op stub of the DigitalIdentityProvider interface used in place of real digital identity handling during WebID tests.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBID_TEST_STUB_DIGITAL_IDENTITY_PROVIDER_H_
 #define CONTENT_BROWSER_WEBID_TEST_STUB_DIGITAL_IDENTITY_PROVIDER_H_
 

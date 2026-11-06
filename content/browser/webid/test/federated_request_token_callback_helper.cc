@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Federated request token callback helper implementation
+// summary: Implements a helper that blocks on a RunLoop until the federated token request callback delivers its success or failure result.
+// ---
+
 #include "content/browser/webid/test/federated_request_token_callback_helper.h"
 
 namespace content {

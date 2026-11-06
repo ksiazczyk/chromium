@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock capture device controller class declaration
+// summary: Declares MockCaptureDeviceController, which manages mock capture devices backed by the video capture service's virtual device support.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBRTC_MOCK_CAPTURE_DEVICE_CONTROLLER_H_
 #define CONTENT_BROWSER_WEBRTC_MOCK_CAPTURE_DEVICE_CONTROLLER_H_
 

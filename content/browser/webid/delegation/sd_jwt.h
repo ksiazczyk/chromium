@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SD-JWT library header
+// summary: Declares Jwk, Jwt, SdJwt and key binding types for parsing, selective disclosure and holder key binding in the WebID delegation flow.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBID_DELEGATION_SD_JWT_H_
 #define CONTENT_BROWSER_WEBID_DELEGATION_SD_JWT_H_
 

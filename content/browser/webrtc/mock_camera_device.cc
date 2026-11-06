@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock camera device implementation
+// summary: Implements a shared-memory-backed mock camera that produces I420 video frames through the video capture virtual device API.
+// ---
+
 #include "content/browser/webrtc/mock_camera_device.h"
 
 #include <algorithm>

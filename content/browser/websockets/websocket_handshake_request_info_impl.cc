@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket handshake request info implementation
+// summary: Implements attaching child process and render frame identifiers to a net::URLRequest as user data for WebSocket handshake requests.
+// ---
+
 #include "content/browser/websockets/websocket_handshake_request_info_impl.h"
 
 #include "base/memory/ptr_util.h"

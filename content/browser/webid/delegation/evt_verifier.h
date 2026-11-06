@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Email Verification Token verifier header
+// summary: Declares the EvtVerifier class and its result codes for verifying the combined EVT and KB-JWT token as described in the EVP spec.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBID_DELEGATION_EVT_VERIFIER_H_
 #define CONTENT_BROWSER_WEBID_DELEGATION_EVT_VERIFIER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI controller factory registry header
+// summary: Declares the WebUIControllerFactoryRegistry singleton that aggregates registered WebUIControllerFactory instances for controller creation and URL handling queries.
+// ---
+
 #ifndef CONTENT_BROWSER_WEBUI_WEB_UI_CONTROLLER_FACTORY_REGISTRY_H_
 #define CONTENT_BROWSER_WEBUI_WEB_UI_CONTROLLER_FACTORY_REGISTRY_H_
 

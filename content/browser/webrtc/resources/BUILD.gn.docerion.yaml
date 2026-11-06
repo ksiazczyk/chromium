@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for WebRTC internals WebUI resources
+summary: Defines the GN build target that bundles the WebRTC internals CSS, HTML and JavaScript files into the WebUI resources build.

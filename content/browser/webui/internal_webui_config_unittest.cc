@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for internal WebUI config detection
+// summary: Unit tests checking that IsInternalWebUI returns true for internal WebUI hosts and false for user-facing ones.
+// ---
+
 #include "content/public/browser/internal_webui_config.h"
 
 #include "content/public/browser/web_contents.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthenticatorCommonImpl implementation
+// summary: Implements shared browser-side WebAuthn logic for make credential, get credential, client capabilities, and request proxying.
+// ---
+
 #include "content/browser/webauth/authenticator_common_impl.h"
 
 #include <algorithm>
