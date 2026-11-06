@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake browsing data model implementation
+// summary: Implements an in-memory-only fake BrowsingDataModel that skips disk population and removal for use in tests.
+// ---
+
 #include "components/browsing_data/content/fake_browsing_data_model.h"
 
 FakeBrowsingDataModel::FakeBrowsingDataModel()

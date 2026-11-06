@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark counter class declaration (bookmark_counter.h)
+// summary: Declares BookmarkCounter, a browsing data counter that counts bookmarks in the selected time range and maps to UI elements via a fake preference name.
+// ---
+
 #ifndef COMPONENTS_BROWSING_DATA_CORE_COUNTERS_BOOKMARK_COUNTER_H_
 #define COMPONENTS_BROWSING_DATA_CORE_COUNTERS_BOOKMARK_COUNTER_H_
 

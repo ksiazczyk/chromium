@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Captive portal detector test support implementation
+// summary: Implements test base helpers that set test time, check fetch state, and complete URL fetches for captive portal detector tests.
+// ---
+
 #include "components/captive_portal/core/captive_portal_testing_utils.h"
 
 #include <string_view>

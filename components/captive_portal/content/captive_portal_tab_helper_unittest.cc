@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Captive portal tab helper unit tests
+// summary: Unit tests for CaptivePortalTabHelper using navigation simulators and a mock tab reloader to verify navigation event handling and captive portal result behavior.
+// ---
+
 #include "components/captive_portal/content/captive_portal_tab_helper.h"
 
 #include <memory>

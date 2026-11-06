@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform message port pair creation implementation
+// summary: Dispatches CreatePlatformMessagePortPair to the Cast Core, Fuchsia, or Cast implementation based on build flags and target platform.
+// ---
+
 #include "components/cast/message_port/platform_message_port.h"
 
 #include "build/build_config.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Named message port connector dependency rules
+summary: Declares the allowed include paths for Blink messaging and UI resource code within this component.

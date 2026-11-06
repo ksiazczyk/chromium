@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clear Browsing Data preference names
+// summary: Defines preference name constants for the Clear Browsing Data UI, including data type toggles, time period, and policy-related prefs.
+// ---
+
 #ifndef COMPONENTS_BROWSING_DATA_CORE_PREF_NAMES_H_
 #define COMPONENTS_BROWSING_DATA_CORE_PREF_NAMES_H_
 

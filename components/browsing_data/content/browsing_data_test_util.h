@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browsing data test utility header
+// summary: Declares helpers to set and check browsing data of a given type in web contents and render frame hosts during tests.
+// ---
+
 #ifndef COMPONENTS_BROWSING_DATA_CONTENT_BROWSING_DATA_TEST_UTIL_H_
 #define COMPONENTS_BROWSING_DATA_CONTENT_BROWSING_DATA_TEST_UTIL_H_
 

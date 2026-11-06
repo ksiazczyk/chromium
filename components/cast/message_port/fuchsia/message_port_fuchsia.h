@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessagePortFuchsia class declaration
+// summary: Declares MessagePortFuchsia, which adapts the cast_api_bindings MessagePort abstraction to the fuchsia.web.WebMessagePort FIDL interface, including pair creation and resource take methods.
+// ---
+
 #ifndef COMPONENTS_CAST_MESSAGE_PORT_FUCHSIA_MESSAGE_PORT_FUCHSIA_H_
 #define COMPONENTS_CAST_MESSAGE_PORT_FUCHSIA_MESSAGE_PORT_FUCHSIA_H_
 

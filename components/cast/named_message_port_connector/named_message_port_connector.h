@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NamedMessagePortConnector class declaration
+// summary: Declares the connector class that establishes MessagePort connections between native bindings and web content frames.
+// ---
+
 #ifndef COMPONENTS_CAST_NAMED_MESSAGE_PORT_CONNECTOR_NAMED_MESSAGE_PORT_CONNECTOR_H_
 #define COMPONENTS_CAST_NAMED_MESSAGE_PORT_CONNECTOR_NAMED_MESSAGE_PORT_CONNECTOR_H_
 

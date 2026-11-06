@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Conditional cache counting helper implementation
+// summary: Implements counting HTTP cache size for a time range by delegating to the network context of a StoragePartition.
+// ---
+
 #include "components/browsing_data/content/conditional_cache_counting_helper.h"
 
 #include "content/public/browser/storage_partition.h"

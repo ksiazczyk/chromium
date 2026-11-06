@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowsingDataInfo
+// summary: Serializable Java class holding per-origin browsing data details such as origin, cookie count, storage size, and an important-domain flag.
+// ---
+
 package org.chromium.components.browsing_data.content;
 
 import androidx.annotation.VisibleForTesting;

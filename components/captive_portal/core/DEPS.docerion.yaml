@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Captive portal core include rules
+summary: Defines allowed include paths for the captive portal core component, covering ChromeOS Ash network, network services, net, and url dependencies.

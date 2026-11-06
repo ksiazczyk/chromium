@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Captive portal tab reloader header
+// summary: Declares the CaptivePortalTabReloader class, its states for tracking tabs possibly broken by a captive portal, and the callbacks used to trigger checks and reloads.
+// ---
+
 #ifndef COMPONENTS_CAPTIVE_PORTAL_CONTENT_CAPTIVE_PORTAL_TAB_RELOADER_H_
 #define COMPONENTS_CAPTIVE_PORTAL_CONTENT_CAPTIVE_PORTAL_TAB_RELOADER_H_
 

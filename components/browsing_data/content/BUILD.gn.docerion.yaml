@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for browsing data content
+summary: Defines the GN build targets for the browsing data content component, including the static library, unit tests, and test support sources.

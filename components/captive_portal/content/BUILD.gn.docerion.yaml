@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Captive portal content build configuration
+summary: Defines GN source sets for the captive portal content component and its unit tests, with sources gated by the enable_captive_portal_detection flag.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestBrowsingDataModelDelegate implementation
+// summary: Implements a fake BrowsingDataModel delegate that returns test data keys and storage types so browsing data code can be exercised in tests.
+// ---
+
 #include "components/browsing_data/content/test_browsing_data_model_delegate.h"
 
 #include <variant>

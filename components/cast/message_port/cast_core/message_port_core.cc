@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessagePortCore implementation
+// summary: Implements core message port behavior including message queuing, transferable ports, receiver dispatch, and peer error and start handling.
+// ---
+
 #include "components/cast/message_port/cast_core/message_port_core.h"
 
 #include <string_view>

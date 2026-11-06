@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioCapturer unit tests
+// summary: Tests AudioCapturer with a fake stream factory backed by a real shared-memory data pipe, covering safe destruction during realtime capture.
+// ---
+
 #include "components/capture_mode/audio_capturer.h"
 
 #include <algorithm>

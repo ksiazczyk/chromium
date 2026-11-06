@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cookie helper unit tests
+// summary: Unit tests for CookieHelper and CannedCookieHelper covering cookie fetching, deletion, and canned cookie expectations.
+// ---
+
 #include "components/browsing_data/content/cookie_helper.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the browsing_data component
+summary: Directory metadata that points to the common metadata mixins defined in content/browser/browsing_data for this component.

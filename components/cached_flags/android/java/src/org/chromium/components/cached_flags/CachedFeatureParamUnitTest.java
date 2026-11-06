@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CachedFeatureParamUnitTest
+// summary: Robolectric unit tests for CachedFeatureParam and its typed subclasses, verifying caching and value resolution for string, boolean, int, and double parameters.
+// ---
+
 package org.chromium.components.cached_flags;
 
 import static org.junit.Assert.assertEquals;

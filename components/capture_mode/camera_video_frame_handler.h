@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CameraVideoFrameHandler class declaration
+// summary: Declares BufferHandleHolder and CameraVideoFrameHandler, which subscribe to a camera video source and pass received frames to a delegate.
+// ---
+
 #ifndef COMPONENTS_CAPTURE_MODE_CAMERA_VIDEO_FRAME_HANDLER_H_
 #define COMPONENTS_CAPTURE_MODE_CAMERA_VIDEO_FRAME_HANDLER_H_
 

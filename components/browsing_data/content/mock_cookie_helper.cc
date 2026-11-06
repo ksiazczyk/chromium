@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock cookie helper implementation
+// summary: Implements MockCookieHelper, a test fake that creates cookie samples, reports them via the fetch callback, and tracks deletions.
+// ---
+
 #include "components/browsing_data/content/mock_cookie_helper.h"
 
 #include <memory>

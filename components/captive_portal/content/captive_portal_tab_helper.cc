@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Captive portal tab helper implementation
+// summary: Implements the tab helper that observes main-frame navigations, forwards events to the tab reloader and login detector, and reacts to captive portal results.
+// ---
+
 #include "components/captive_portal/content/captive_portal_tab_helper.h"
 
 #include "base/debug/dump_without_crashing.h"

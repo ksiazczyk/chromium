@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Captive portal feature flag declaration
+// summary: Declares the kCaptivePortalUpdatedOrigin feature that gates switching the captive portal detection probe origin.
+// ---
+
 #ifndef COMPONENTS_CAPTIVE_PORTAL_CORE_FEATURES_H_
 #define COMPONENTS_CAPTIVE_PORTAL_CORE_FEATURES_H_
 

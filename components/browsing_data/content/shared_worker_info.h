@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedWorkerInfo struct header
+// summary: Defines the SharedWorkerInfo struct that holds a shared worker's URL, name, storage key and same-site cookie setting for browsing data handling.
+// ---
+
 #ifndef COMPONENTS_BROWSING_DATA_CONTENT_SHARED_WORKER_INFO_H_
 #define COMPONENTS_BROWSING_DATA_CONTENT_SHARED_WORKER_INFO_H_
 

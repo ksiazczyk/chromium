@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Captive portal URL loader throttle implementation
+// summary: Implements the throttle that disables secure DNS on requests issued from windows created for captive portal resolution.
+// ---
+
 #include "components/captive_portal/content/captive_portal_url_loader_throttle.h"
 
 #include "components/captive_portal/content/captive_portal_tab_helper.h"

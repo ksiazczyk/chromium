@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History notice utilities declarations
+// summary: Declares functions that determine whether the Clear Browsing Data UI should notify users about other forms of browsing history stored in their account.
+// ---
+
 #ifndef COMPONENTS_BROWSING_DATA_CORE_HISTORY_NOTICE_UTILS_H_
 #define COMPONENTS_BROWSING_DATA_CORE_HISTORY_NOTICE_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for cast message port implementations
+// summary: Exercises message posting, transferables, and adapter pairs across platform, Blink, Cast, Fuchsia, and Cast Core message port implementations.
+// ---
+
 #include <memory>
 
 #include "base/run_loop.h"

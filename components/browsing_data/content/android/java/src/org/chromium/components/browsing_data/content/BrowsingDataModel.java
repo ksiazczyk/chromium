@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowsingDataModel
+// summary: Java model backed by a native C++ object via JNI that fetches browsing data per origin and removes browsing data for a given host.
+// ---
+
 package org.chromium.components.browsing_data.content;
 
 import org.jni_zero.CalledByNative;

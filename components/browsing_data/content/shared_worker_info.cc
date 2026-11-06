@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Shared worker info value type
+// summary: Implements the SharedWorkerInfo value type with equality and ordering comparisons over worker URL, name, storage key, and same-site cookie mode.
+// ---
+
 #include "components/browsing_data/content/shared_worker_info.h"
 
 namespace browsing_data {

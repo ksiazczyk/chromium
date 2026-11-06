@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for browsing data content
+summary: Specifies the allowed include dependencies for the browsing data content directory, with an extra rule permitting extension buildflags in test files.

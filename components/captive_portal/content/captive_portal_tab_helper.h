@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Captive portal tab helper class declaration
+// summary: Declares CaptivePortalTabHelper, a WebContentsObserver and WebContentsUserData that detects page loads broken by captive portals and manages login tab state.
+// ---
+
 #ifndef COMPONENTS_CAPTIVE_PORTAL_CONTENT_CAPTIVE_PORTAL_TAB_HELPER_H_
 #define COMPONENTS_CAPTIVE_PORTAL_CONTENT_CAPTIVE_PORTAL_TAB_HELPER_H_
 

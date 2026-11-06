@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local storage helper implementation
+// summary: Implements fetching per-origin local storage usage from the DOM storage context, filtering to websafe storage schemes.
+// ---
+
 #include "components/browsing_data/content/local_storage_helper.h"
 
 #include <algorithm>

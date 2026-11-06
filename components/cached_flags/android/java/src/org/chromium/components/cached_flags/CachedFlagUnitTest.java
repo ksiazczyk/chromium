@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CachedFlagUnitTest
+// summary: Robolectric unit tests for CachedFlag covering duplicate detection, native initialization, default values, and cached preference values across runs.
+// ---
+
 package org.chromium.components.cached_flags;
 
 import static org.junit.Assert.assertFalse;

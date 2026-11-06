@@ -4,6 +4,12 @@
 
 // Defines methods relevant to all code that wants to work with browsing data.
 
+// ---docerion
+// type: source
+// title: Browsing data helper declarations
+// summary: Declares shared browsing data functions for web scheme checks, website settings filtering, and removal of prerender, site isolation, site settings, and embedder cookie data.
+// ---
+
 #ifndef COMPONENTS_BROWSING_DATA_CONTENT_BROWSING_DATA_HELPER_H_
 #define COMPONENTS_BROWSING_DATA_CONTENT_BROWSING_DATA_HELPER_H_
 

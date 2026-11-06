@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the Android browsing data component
+summary: GN build file defining the native static library, the Java android_library target, and JNI header generation for the browsing data Android component.

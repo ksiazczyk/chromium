@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Cached flags DIR_METADATA
+summary: Declares directory metadata for cached_flags, mapping it to the Internals>Flags Monorail component, the clank-commons team email, Android OS, and a Buganizer component.

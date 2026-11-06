@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedApiBinding class and Delegate interface
+// summary: Declares ScopedApiBinding, which manages binding script registration and channel teardown with RAII semantics, plus its Delegate interface for message I/O.
+// ---
+
 #ifndef COMPONENTS_CAST_API_BINDINGS_SCOPED_API_BINDING_H_
 #define COMPONENTS_CAST_API_BINDINGS_SCOPED_API_BINDING_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie helper
+// summary: Declares CookieHelper for fetching and deleting cookies and CannedCookieHelper, an in-memory container of canonical cookies.
+// ---
+
 #ifndef COMPONENTS_BROWSING_DATA_CONTENT_COOKIE_HELPER_H_
 #define COMPONENTS_BROWSING_DATA_CONTENT_COOKIE_HELPER_H_
 

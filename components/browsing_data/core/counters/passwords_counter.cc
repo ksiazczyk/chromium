@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passwords counter implementation (passwords_counter.cc)
+// summary: Implements PasswordsCounter with a PasswordStoreFetcher that counts saved passwords and collects domain examples from the profile and account password stores.
+// ---
+
 #include "components/browsing_data/core/counters/passwords_counter.h"
 
 #include <algorithm>

@@ -6,6 +6,12 @@
 // Two cookies are considered equal if their names, domains, and paths are
 // equivalent.
 
+// ---docerion
+// type: source
+// title: Canonical cookie hash utilities
+// summary: Declares a fast hash, equality comparer, and hash set for CanonicalCookies keyed by name, domain, and path.
+// ---
+
 #ifndef COMPONENTS_BROWSING_DATA_CONTENT_CANONICAL_COOKIE_HASH_H_
 #define COMPONENTS_BROWSING_DATA_CONTENT_CANONICAL_COOKIE_HASH_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Captive portal tab reloader implementation
+// summary: Implements CaptivePortalTabReloader, which detects navigation errors likely caused by captive portals and reloads affected tabs or opens a login tab.
+// ---
+
 #include "components/captive_portal/content/captive_portal_tab_reloader.h"
 
 #include "base/functional/bind.h"

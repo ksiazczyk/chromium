@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browsing data model implementation
+// summary: Implements the BrowsingDataModel that aggregates browsing data such as cookies, storage, and trust tokens into a uniform view grouped by data owner.
+// ---
+
 #include "components/browsing_data/content/browsing_data_model.h"
 
 #include <algorithm>

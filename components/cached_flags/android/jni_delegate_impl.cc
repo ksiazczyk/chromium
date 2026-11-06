@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI delegate implementation calling Java CachedFlagUtils
+// summary: Implements JniDelegate by attaching the current thread and forwarding flag caching and erasure requests to the Java CachedFlagUtils methods over JNI.
+// ---
+
 #include "jni_delegate_impl.h"
 
 #include "base/android/jni_android.h"

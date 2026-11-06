@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestBrowsingDataModelDelegate class declaration
+// summary: Declares TestBrowsingDataModelDelegate, a test double of BrowsingDataModel::Delegate with extra test storage types for browsing data tests.
+// ---
+
 #ifndef COMPONENTS_BROWSING_DATA_CONTENT_TEST_BROWSING_DATA_MODEL_DELEGATE_H_
 #define COMPONENTS_BROWSING_DATA_CONTENT_TEST_BROWSING_DATA_MODEL_DELEGATE_H_
 

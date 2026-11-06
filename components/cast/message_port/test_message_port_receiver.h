@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestMessagePortReceiver test helper header
+// summary: Declares a MessagePort::Receiver test double that buffers incoming messages and transferred ports and supports RunLoop-based waits for cast API bindings tests.
+// ---
+
 #ifndef COMPONENTS_CAST_MESSAGE_PORT_TEST_MESSAGE_PORT_RECEIVER_H_
 #define COMPONENTS_CAST_MESSAGE_PORT_TEST_MESSAGE_PORT_RECEIVER_H_
 

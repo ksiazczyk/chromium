@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioCapturer class declaration
+// summary: Declares the AudioCapturer class that captures an audio input device by ID and repeatedly delivers audio buses and capture times through a callback.
+// ---
+
 #ifndef COMPONENTS_CAPTURE_MODE_AUDIO_CAPTURER_H_
 #define COMPONENTS_CAPTURE_MODE_AUDIO_CAPTURER_H_
 

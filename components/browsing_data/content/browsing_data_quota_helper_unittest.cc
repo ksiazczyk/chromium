@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browsing data quota helper unit tests
+// summary: Unit tests for BrowsingDataQuotaHelperImpl using a mock quota client, temporary quota manager, and sample storage key usage data.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

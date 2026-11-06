@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History notice utilities implementation
+// summary: Implements helpers that decide whether the Clear Browsing Data UI should show a notice or dialog about other forms of browsing history in the user's Google account.
+// ---
+
 #include "components/browsing_data/core/history_notice_utils.h"
 
 #include "base/functional/bind.h"

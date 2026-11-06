@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CreateWebMessage utility declaration
+// summary: Declares the CreateWebMessage function that creates a fuchsia.web.WebMessage with a payload and an optional transferred message port.
+// ---
+
 #ifndef COMPONENTS_CAST_MESSAGE_PORT_FUCHSIA_CREATE_WEB_MESSAGE_H_
 #define COMPONENTS_CAST_MESSAGE_PORT_FUCHSIA_CREATE_WEB_MESSAGE_H_
 

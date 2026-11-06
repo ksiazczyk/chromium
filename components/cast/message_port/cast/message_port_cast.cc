@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessagePortCast implementation for the Cast platform
+// summary: Implements the Cast-platform MessagePort, wrapping blink::WebMessagePort to create port pairs, post messages with transferables, and forward incoming messages and pipe errors to a receiver.
+// ---
+
 #include "components/cast/message_port/cast/message_port_cast.h"
 
 #include <string_view>

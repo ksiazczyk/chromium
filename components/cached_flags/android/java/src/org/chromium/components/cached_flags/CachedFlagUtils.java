@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CachedFlagUtils
+// summary: Utility methods that batch-cache native flag and feature parameter values into SharedPreferences and look up specific cached flags or parameters.
+// ---
+
 package org.chromium.components.cached_flags;
 
 import android.content.SharedPreferences;

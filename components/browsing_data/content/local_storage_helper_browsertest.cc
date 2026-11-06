@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local Storage Helper Browser Test
+// summary: Browser test that creates local storage entries for several origins and verifies the browsing data helper lists only web-storage origins with correct usage information.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "base/memory/scoped_refptr.h"
 #include "components/browsing_data/content/local_storage_helper.h"

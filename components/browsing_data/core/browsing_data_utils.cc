@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browsing data utils implementation
+// summary: Implements display strings and helpers for clear browsing data counters, including password domain examples and history counter text that accounts for synced visits.
+// ---
+
 #include "components/browsing_data/core/browsing_data_utils.h"
 
 #include <optional>

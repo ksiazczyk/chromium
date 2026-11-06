@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browsing data quota helper implementation
+// summary: Implements QuotaInfo constructors and thread-safe deletion for the BrowsingDataQuotaHelper base class.
+// ---
+
 #include "components/browsing_data/content/browsing_data_quota_helper.h"
 
 #include "base/location.h"

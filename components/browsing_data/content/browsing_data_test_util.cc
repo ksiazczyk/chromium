@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browsing data test utilities
+// summary: Helpers that set and check browsing data of a given type in browser tests by evaluating has and set JavaScript functions in web contents.
+// ---
+
 #include "components/browsing_data/content/browsing_data_test_util.h"
 
 #include <string>

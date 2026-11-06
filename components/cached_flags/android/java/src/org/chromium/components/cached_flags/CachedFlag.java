@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CachedFlag
+// summary: Flag that can be queried before native is loaded, returning values cached in SharedPreferences from a previous run according to documented priority rules.
+// ---
+
 package org.chromium.components.cached_flags;
 
 import android.content.SharedPreferences;

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules permitting blink messaging headers
+summary: Grants this directory access to third_party/blink/public/common/messaging headers for message port integration.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Debug string utilities for browsing data model tests
+// summary: Provides debug string visitors for BrowsingDataModel data keys such as origins, storage keys, cookies, and session keys, for use in tests.
+// ---
+
 #include "components/browsing_data/content/browsing_data_model_test_util.h"
 
 #include <variant>

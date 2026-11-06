@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Component metadata for the browsing data strings directory
+summary: Declares the Privacy monorail component and Buganizer component ID for triaging issues in this directory.

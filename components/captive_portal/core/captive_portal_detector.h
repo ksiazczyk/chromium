@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Captive portal detector class declaration
+// summary: Declares the CaptivePortalDetector class, its Results struct, and the API for starting, cancelling, and receiving captive portal detection results.
+// ---
+
 #ifndef COMPONENTS_CAPTIVE_PORTAL_CORE_CAPTIVE_PORTAL_DETECTOR_H_
 #define COMPONENTS_CAPTIVE_PORTAL_CORE_CAPTIVE_PORTAL_DETECTOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CachedFlagsSafeMode
+// summary: Singleton controlling Safe Mode for cached flags, which prevents crash loops by engaging safe values after repeated crash streaks and records behavior histograms.
+// ---
+
 package org.chromium.components.cached_flags;
 
 import android.content.Context;

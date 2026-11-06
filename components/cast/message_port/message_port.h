@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML5 MessagePort abstraction interface
+// summary: Defines the cast_api_bindings MessagePort interface for posting messages, transferring ports, setting receivers, and closing ports.
+// ---
+
 #ifndef COMPONENTS_CAST_MESSAGE_PORT_MESSAGE_PORT_H_
 #define COMPONENTS_CAST_MESSAGE_PORT_MESSAGE_PORT_H_
 

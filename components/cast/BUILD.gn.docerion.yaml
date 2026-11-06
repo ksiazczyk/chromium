@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Cast component build targets
+summary: GN build file defining an export source set for the cast component and a test-only unit_tests target depending on the message port unittests.

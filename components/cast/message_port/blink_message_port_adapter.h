@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blink message port adapter declarations
+// summary: Declares static conversions between blink::WebMessagePort and the platform MessagePort type used by Cast bindings.
+// ---
+
 #ifndef COMPONENTS_CAST_MESSAGE_PORT_BLINK_MESSAGE_PORT_ADAPTER_H_
 #define COMPONENTS_CAST_MESSAGE_PORT_BLINK_MESSAGE_PORT_ADAPTER_H_
 

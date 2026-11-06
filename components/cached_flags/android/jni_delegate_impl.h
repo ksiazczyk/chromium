@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the JniDelegateImpl class
+// summary: Declares JniDelegateImpl, the JniDelegate subclass that performs the actual JNI calls for caching and erasing native flags and feature parameters.
+// ---
+
 #ifndef COMPONENTS_CACHED_FLAGS_ANDROID_JNI_DELEGATE_IMPL_H_
 #define COMPONENTS_CACHED_FLAGS_ANDROID_JNI_DELEGATE_IMPL_H_
 

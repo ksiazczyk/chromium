@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local storage helper
+// summary: Declares LocalStorageHelper, which fetches local storage usage information through a callback on the UI thread.
+// ---
+
 #ifndef COMPONENTS_BROWSING_DATA_CONTENT_LOCAL_STORAGE_HELPER_H_
 #define COMPONENTS_BROWSING_DATA_CONTENT_LOCAL_STORAGE_HELPER_H_
 

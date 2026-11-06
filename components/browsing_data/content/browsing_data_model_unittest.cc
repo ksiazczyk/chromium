@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowsingDataModel unit tests
+// summary: Unit tests for BrowsingDataModel covering cookies, trust tokens, and shared dictionaries using a mock network context and test storage partition.
+// ---
+
 #include "components/browsing_data/content/browsing_data_model.h"
 
 #include <variant>

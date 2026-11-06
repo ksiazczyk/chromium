@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture mode export macros
+// summary: Defines the CAPTURE_MODE_EXPORT macro controlling symbol visibility for component builds.
+// ---
+
 #ifndef COMPONENTS_CAPTURE_MODE_CAPTURE_MODE_EXPORT_H_
 #define COMPONENTS_CAPTURE_MODE_CAPTURE_MODE_EXPORT_H_
 

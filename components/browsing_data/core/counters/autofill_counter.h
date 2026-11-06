@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill counter class declaration (autofill_counter.h)
+// summary: Declares the AutofillCounter class and its AutofillResult, which reports counts of credit cards, addresses, entities and suppressions along with the autofill sync state.
+// ---
+
 #ifndef COMPONENTS_BROWSING_DATA_CORE_COUNTERS_AUTOFILL_COUNTER_H_
 #define COMPONENTS_BROWSING_DATA_CORE_COUNTERS_AUTOFILL_COUNTER_H_
 

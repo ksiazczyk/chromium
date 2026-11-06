@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CreateMessagePortCore factory declarations
+// summary: Declares factory functions for creating a MessagePortCore assigned to a channel ID and for manually creating a pair of connected MessagePortCore instances.
+// ---
+
 #ifndef COMPONENTS_CAST_MESSAGE_PORT_CAST_CORE_CREATE_MESSAGE_PORT_CORE_H_
 #define COMPONENTS_CAST_MESSAGE_PORT_CAST_CORE_CREATE_MESSAGE_PORT_CORE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browsing data model test utilities
+// summary: Declares a copyable BrowsingDataEntry struct and helpers that validate browsing data model entries against expected lists in tests.
+// ---
+
 #ifndef COMPONENTS_BROWSING_DATA_CONTENT_BROWSING_DATA_MODEL_TEST_UTIL_H_
 #define COMPONENTS_BROWSING_DATA_CONTENT_BROWSING_DATA_MODEL_TEST_UTIL_H_
 
