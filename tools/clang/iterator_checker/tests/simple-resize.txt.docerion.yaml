@@ -1,0 +1,4 @@
+# Docerion header of simple-resize.txt.
+type: test
+title: Expected diagnostics for simple-resize
+summary: Expected iterator-checker error output for the simple-resize test case, reporting one potentially invalid iterator use.

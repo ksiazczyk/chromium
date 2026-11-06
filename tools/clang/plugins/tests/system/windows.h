@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows.h test header for Clang plugin system tests
+// summary: Test fixture header defining Windows-style macros such as STDMETHOD, END_COM_MAP, and redundant virtual specifiers used as input for the Clang plugin system tests.
+// ---
+
 #ifndef TOOLS_CLANG_PLUGINS_TESTS_SYSTEM_WINDOWS_H_
 #define TOOLS_CLANG_PLUGINS_TESTS_SYSTEM_WINDOWS_H_
 

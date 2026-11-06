@@ -1,0 +1,4 @@
+# Docerion header of base_refcounted.flags.
+type: test
+title: Base refcounted plugin flags
+summary: Flags file passing the check-base-classes plugin argument to the Clang plugin when running the base refcounted test.

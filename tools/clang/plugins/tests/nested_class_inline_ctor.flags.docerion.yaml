@@ -1,0 +1,4 @@
+# Docerion header of nested_class_inline_ctor.flags.
+type: test
+title: Nested class inline constructor plugin flags
+summary: Plugin flags for the nested class inline constructor test, relaxing constructor checks for aggregates.

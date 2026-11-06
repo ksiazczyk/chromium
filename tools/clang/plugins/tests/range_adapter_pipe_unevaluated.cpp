@@ -5,6 +5,12 @@
 // The only call of a std::ranges::operator| in this file is in an unevaluated
 // operand, to a function that is only declared.
 
+// ---docerion
+// type: test
+// title: Range adapter pipe unevaluated operand test
+// summary: Test input checking that a std::ranges operator| call in an unevaluated operand is still banned by the plugin.
+// ---
+
 namespace std::ranges {
 struct closure {};
 int operator|(int, closure);

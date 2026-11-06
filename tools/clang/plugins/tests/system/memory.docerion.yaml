@@ -1,0 +1,4 @@
+# Docerion header of memory.
+type: test
+title: Faux std::memory system header test fixture
+summary: Mock std::memory header defining shared_ptr, atomic<shared_ptr> and a fake unique_ptr for the clang plugin's system-header and unsafe-buffers tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StrictDepsPlugin implementation
+// summary: Implements a clang plugin that enforces strict dependencies by intercepting module and private header diagnostics and recreating them as include errors.
+// ---
+
 #include <algorithm>
 #include <array>
 #include <memory>

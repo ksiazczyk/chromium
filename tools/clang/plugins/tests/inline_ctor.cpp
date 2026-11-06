@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Inline constructor plugin test
+// summary: Test source verifying the plugin warns about inline constructors and destructors in headers but not in cpp files or behind macros there.
+// ---
+
 #define MACRO_FROM_CPP INLINE_CTORS_IN_A_MACRO(InlineCtorsInvolvingCppAreOK)
 
 #include "inline_ctor.h"

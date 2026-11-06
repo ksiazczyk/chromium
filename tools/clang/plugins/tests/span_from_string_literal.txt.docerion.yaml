@@ -1,0 +1,4 @@
+# Docerion header of span_from_string_literal.txt.
+type: test
+title: Span from string literal expected warnings
+summary: Expected compiler output for the span_from_string_literal test, including notes on span_from_cstring alternatives.

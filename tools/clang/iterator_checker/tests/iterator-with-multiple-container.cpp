@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Iterator used with multiple containers test
+// summary: C++ test case exercising an iterator assigned from several containers across branches, checking validity after clear and end checks.
+// ---
+
 #include <algorithm>
 #include <vector>
 

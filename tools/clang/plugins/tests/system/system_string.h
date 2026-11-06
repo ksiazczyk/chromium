@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock string.h memcpy declaration for plugin tests
+// summary: Mock string.h declaring memcpy for plugin tests on bots that cannot find the real system header or stddef.h.
+// ---
+
 #ifndef TOOLS_CLANG_PLUGINS_TESTS_SYSTEM_SYSTEM_STRING_H_
 #define TOOLS_CLANG_PLUGINS_TESTS_SYSTEM_SYSTEM_STRING_H_
 

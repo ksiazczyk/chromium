@@ -2,6 +2,12 @@
 # library, so it is not built inside /tools/clang/plugin/, but uses its own
 # directory. This is similar to the blink_gc_plugin.
 
+# ---docerion
+# type: config
+# title: CMake build rules for the IteratorChecker plugin
+# summary: CMake configuration that compiles IteratorChecker.cpp directly into clang, links the FlowSensitive libraries, and registers the plugin's test.
+# ---
+
 # Clang doesn't support loadable modules on Windows. Unfortunately, building
 # the plugin as a static library and linking clang against it doesn't work.
 # Since clang doesn't reference any symbols in our static library, the linker

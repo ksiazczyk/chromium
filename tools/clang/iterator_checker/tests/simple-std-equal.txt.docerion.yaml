@@ -1,0 +1,4 @@
+# Docerion header of simple-std-equal.txt.
+type: test
+title: Expected diagnostics for simple-std-equal
+summary: Expected iterator-checker error output for the simple-std-equal test case, reporting two iterator mismatch errors.

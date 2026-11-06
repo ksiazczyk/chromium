@@ -1,0 +1,4 @@
+# Docerion header of missing_ctor.txt.
+type: test
+title: Missing constructor expected warnings
+summary: Expected plugin warning output listing complex constructor and destructor diagnostics for the missing_ctor test.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Clang plugins OWNERS file
+summary: Lists dcheng@chromium.org as the owner of the clang plugins directory.

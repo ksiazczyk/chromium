@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Range adaptor pipe test source
+// summary: Test source checking the plugin warning for piping into std::ranges range adaptor closures such as std::ranges::to.
+// ---
+
 #include <vector>
 
 namespace std::ranges {

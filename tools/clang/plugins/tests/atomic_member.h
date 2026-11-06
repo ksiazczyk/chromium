@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Atomic member test header
+// summary: Header with classes holding nine or ten atomic members to verify which atomic types count as trivial in the complex constructor check.
+// ---
+
 #ifndef TOOLS_CLANG_PLUGINS_TESTS_ATOMIC_MEMBER_H_
 #define TOOLS_CLANG_PLUGINS_TESTS_ATOMIC_MEMBER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Inline copy constructor test header
+// summary: Header defining a struct with an inline static factory function, used by the inline copy constructor plugin test.
+// ---
+
 #ifndef INLINE_COPY_CTOR_H_
 #define INLINE_COPY_CTOR_H_
 

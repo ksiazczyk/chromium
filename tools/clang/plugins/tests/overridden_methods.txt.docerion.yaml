@@ -1,0 +1,4 @@
+# Docerion header of overridden_methods.txt.
+type: test
+title: Overridden methods expected warnings
+summary: Expected warnings listing missing override or final markers and redundant virtual keywords for the overridden methods test.

@@ -6,6 +6,12 @@
 // CheckIsNotDestroyed() so that LayoutObject instances are not accessed after
 // they gets destroyed.
 
+// ---docerion
+// type: source
+// title: CheckLayoutObjectMethodsVisitor header
+// summary: Declares the visitor ensuring every LayoutObject method begins with CheckIsNotDestroyed() to prevent use after destruction.
+// ---
+
 #ifndef TOOLS_CLANG_PLUGINS_CHECKLAYOUTOBJECTMETHODSVISITOR_H_
 #define TOOLS_CLANG_PLUGINS_CHECKLAYOUTOBJECTMETHODSVISITOR_H_
 

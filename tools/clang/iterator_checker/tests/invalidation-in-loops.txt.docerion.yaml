@@ -1,0 +1,4 @@
+# Docerion header of invalidation-in-loops.txt.
+type: test
+title: Expected diagnostics for the invalidation-in-loops test
+summary: Expected iterator-checker diagnostics for the invalidation-in-loops test, with three errors for iterators used after erase in loops.

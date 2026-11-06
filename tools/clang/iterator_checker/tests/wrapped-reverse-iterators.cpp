@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: wrapped-reverse-iterators.cpp
+// summary: Test case checking reverse iterators wrapped by adapters such as Chromium's base::ReversedAdapter for valid and invalid use.
+// ---
+
 #include <iterator>
 #include <utility>
 #include <vector>

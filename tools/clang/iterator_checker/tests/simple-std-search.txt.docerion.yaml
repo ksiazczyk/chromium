@@ -1,0 +1,4 @@
+# Docerion header of simple-std-search.txt.
+type: test
+title: Expected diagnostics for simple-std-search.cpp
+summary: Expected iterator-checker errors for the simple-std-search test, covering invalid iterator use and iterator mismatch in std::search.

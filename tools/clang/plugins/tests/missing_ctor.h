@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Missing constructor plugin test header
+// summary: Header defining classes and templates that exercise chromium-style constructor and destructor warnings.
+// ---
+
 #ifndef MISSING_CTOR_H_
 #define MISSING_CTOR_H_
 

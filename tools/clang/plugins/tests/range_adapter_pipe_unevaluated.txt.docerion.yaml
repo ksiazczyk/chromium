@@ -1,0 +1,4 @@
+# Docerion header of range_adapter_pipe_unevaluated.txt.
+type: test
+title: Range adapter pipe unevaluated expected warnings
+summary: Expected compiler output for the range_adapter_pipe_unevaluated test with a single banned operator| warning.

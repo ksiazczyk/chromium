@@ -1,0 +1,4 @@
+# Docerion header of auto_raw_pointer.txt.
+type: test
+title: Expected warnings for auto raw pointer test
+summary: Expected plugin diagnostic output listing auto raw pointer warnings with suggested auto* replacements for the auto raw pointer test.

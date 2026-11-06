@@ -1,0 +1,4 @@
+# Docerion header of inline_ctor.txt.
+type: test
+title: Expected warnings for inline constructor test
+summary: Expected plugin warnings about complex inline constructors and destructors declared in the inline constructor test header.

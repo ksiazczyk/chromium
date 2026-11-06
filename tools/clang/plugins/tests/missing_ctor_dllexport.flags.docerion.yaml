@@ -1,0 +1,4 @@
+# Docerion header of missing_ctor_dllexport.flags.
+type: test
+title: Missing constructor dllexport test flags
+summary: Flags targeting i386-pc-win32 and relaxing aggregate constructor checks for the dllexport missing_ctor test.

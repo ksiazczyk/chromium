@@ -5,6 +5,12 @@
 // Like range_adapter_pipe.cpp, but every operator| is a hidden friend, and
 // one of them is only called in an unevaluated operand.
 
+// ---docerion
+// type: test
+// title: Range adapter pipe hidden friend operator test
+// summary: Test input exercising the Chromium style plugin's ban on operator| with range adaptors when the operator is a hidden friend.
+// ---
+
 namespace std::ranges {
 
 struct closure {

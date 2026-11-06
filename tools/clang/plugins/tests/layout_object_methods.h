@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Layout object methods test header
+// summary: Header defining blink LayoutObject subclasses with methods that should pass or fail the requirement to call CheckIsNotDestroyed() first.
+// ---
+
 #ifndef TOOLS_CLANG_PLUGINS_TESTS_LAYOUT_OBJECT_METHODS_H_
 #define TOOLS_CLANG_PLUGINS_TESTS_LAYOUT_OBJECT_METHODS_H_
 

@@ -17,6 +17,12 @@
 // - Enum types with a xxxx_LAST or xxxxLast const actually have that constant
 //   have the maximal value for that type.
 
+// ---docerion
+// type: source
+// title: FindBadConstructsConsumer header
+// summary: Declares the RecursiveASTVisitor that applies checks for recurring problematic patterns in the Chromium code base and lists the implemented checks.
+// ---
+
 #ifndef TOOLS_CLANG_PLUGINS_FINDBADCONSTRUCTSCONSUMER_H_
 #define TOOLS_CLANG_PLUGINS_FINDBADCONSTRUCTSCONSUMER_H_
 

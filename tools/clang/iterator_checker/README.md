@@ -1,3 +1,13 @@
+---
+type: readme
+title: Clang IteratorChecker
+summary: Describes the iterator use-after-invalidation clang plugin and how to build it, run its tests, and enable it via GN cflags.
+relations:
+  - references /tools/clang/scripts/build.py
+  - references /tools/clang/iterator_checker/tests/test.py
+  - references /build/config/clang/BUILD.gn
+---
+
 # Clang IteratorChecker
 
 > Note for developers:

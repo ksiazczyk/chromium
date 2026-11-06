@@ -1,0 +1,4 @@
+# Docerion header of invalidate-all-iterators.txt.
+type: test
+title: Expected errors for invalidate-all-iterators
+summary: Expected iterator-checker diagnostics for the invalidate-all-iterators test, reporting three potentially invalid iterator uses after clear.

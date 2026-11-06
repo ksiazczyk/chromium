@@ -1,0 +1,4 @@
+# Docerion header of weak_ptr_factory.txt.
+type: test
+title: weak_ptr_factory expected plugin warnings
+summary: Expected diagnostic output for the weak_ptr_factory test, listing chromium-style warnings for WeakPtrFactory members that are not the last member of their class.

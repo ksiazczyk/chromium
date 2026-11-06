@@ -1,0 +1,4 @@
+# Docerion header of aggregate_ctor.txt.
+type: test
+title: Expected warnings for aggregate constructor test
+summary: Expected plugin diagnostic output listing complex constructor and destructor warnings for the aggregate constructor test cases.

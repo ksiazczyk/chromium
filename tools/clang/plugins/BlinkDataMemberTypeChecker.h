@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlinkDataMemberTypeChecker header
+// summary: Declares the BlinkDataMemberTypeChecker class, its discouraged type map, and the filename include and exclude regexes used for the check.
+// ---
+
 #ifndef TOOLS_CLANG_PLUGINS_BLINKDATAMEMBERTYPECHECKER_H_
 #define TOOLS_CLANG_PLUGINS_BLINKDATAMEMBERTYPECHECKER_H_
 

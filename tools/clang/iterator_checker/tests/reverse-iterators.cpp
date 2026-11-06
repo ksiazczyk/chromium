@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Reverse iterators iterator checker test
+// summary: C++ test case covering reverse iterators, which the checker does not yet support according to the included TODO.
+// ---
+
 #include <vector>
 
 void ReverseIteratorInvalid(std::vector<int>& v) {

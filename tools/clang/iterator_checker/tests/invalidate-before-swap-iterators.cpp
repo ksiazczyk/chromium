@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Iterator invalidation before swapping iterators test
+// summary: C++ test case verifying that the iterator checker flags uses of an iterator invalidated by clearing a vector before and after swapping two iterators.
+// ---
+
 #include <algorithm>
 #include <vector>
 

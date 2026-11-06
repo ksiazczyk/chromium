@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual bodies test header
+// summary: Header with virtual method classes and macros exercising checks on inline bodies, missing override, and testing namespace exemptions.
+// ---
+
 #ifndef VIRTUAL_METHODS_H_
 #define VIRTUAL_METHODS_H_
 

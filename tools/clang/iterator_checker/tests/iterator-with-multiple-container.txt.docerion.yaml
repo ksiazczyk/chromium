@@ -1,0 +1,4 @@
+# Docerion header of iterator-with-multiple-container.txt.
+type: test
+title: Expected diagnostics for the iterator-with-multiple-container test
+summary: Expected iterator-checker diagnostics for the iterator-with-multiple-container test, with three potentially invalid iterator uses.

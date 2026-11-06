@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Clang plugin detecting invalid iterator usage
+// summary: Clang plugin that uses the FlowSensitive dataflow framework and annotations to detect iterator use-after-invalidation, mismatch, and comparison bugs.
+// ---
+
 #include <cstdint>
 #include <memory>
 

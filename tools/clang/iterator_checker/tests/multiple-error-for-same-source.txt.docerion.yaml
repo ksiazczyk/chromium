@@ -1,0 +1,4 @@
+# Docerion header of multiple-error-for-same-source.txt.
+type: test
+title: Multiple error for same source expected output
+summary: Expected iterator-checker diagnostics showing two errors reported for the same source line in the multiple-error-for-same-source test.

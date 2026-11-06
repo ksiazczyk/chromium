@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: 'Iterator checker test: annotated function'
+// summary: C++ test case checking iterator validity diagnostics when an annotated function returns a container iterator.
+// ---
+
 #include <algorithm>
 #include <vector>
 

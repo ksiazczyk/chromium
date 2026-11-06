@@ -1,0 +1,4 @@
+# Docerion header of check-model.txt.
+type: test
+title: Expected output for check-model
+summary: Empty expected output file indicating the CHECK model test case should produce no iterator checker diagnostics.

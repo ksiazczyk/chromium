@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual bodies test source
+// summary: C++ test case verifying virtual method body checks in implementation files and concrete overrides of abstract methods.
+// ---
+
 #include "virtual_bodies.h"
 
 // Shouldn't warn about method usage in the implementation file.

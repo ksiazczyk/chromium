@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Overloaded operators iterator checker test
+// summary: C++ test case verifying the iterator checker's handling of overloaded operator+, ++ and += on vector iterators.
+// ---
+
 #include <algorithm>
 #include <vector>
 

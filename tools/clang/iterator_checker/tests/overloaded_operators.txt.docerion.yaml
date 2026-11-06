@@ -1,0 +1,4 @@
+# Docerion header of overloaded_operators.txt.
+type: test
+title: Overloaded operators expected errors
+summary: Expected iterator-checker error output listing the invalid iterator uses produced by the overloaded operators test case.

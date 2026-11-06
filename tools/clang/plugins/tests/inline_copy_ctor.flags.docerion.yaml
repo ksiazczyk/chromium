@@ -1,0 +1,4 @@
+# Docerion header of inline_copy_ctor.flags.
+type: test
+title: Plugin flags for inline copy constructor test
+summary: Clang plugin arguments that relax constructor checks for aggregates when running the inline copy constructor test.

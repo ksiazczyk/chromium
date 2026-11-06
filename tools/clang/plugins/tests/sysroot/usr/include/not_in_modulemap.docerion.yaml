@@ -1,0 +1,4 @@
+# Docerion header of not_in_modulemap.
+type: test
+title: not_in_modulemap test fixture header
+summary: Empty test fixture header in the plugin test sysroot representing an include path that is not listed in a module map.

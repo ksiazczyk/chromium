@@ -1,0 +1,4 @@
+# Docerion header of comparison-check-after-swap.txt.
+type: test
+title: Expected errors for comparison-check-after-swap
+summary: Expected iterator-checker diagnostic output for the comparison-check-after-swap test, listing two potentially invalid iterator comparison errors after swapping containers.

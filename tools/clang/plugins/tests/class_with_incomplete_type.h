@@ -5,6 +5,12 @@
 // Make sure that the plugin doesn't crash when trying to calculate the weight
 // of a class that has fields of incomplete type.
 
+// ---docerion
+// type: test
+// title: Class with incomplete type fixture header
+// summary: Header declaring a struct with an incomplete-type field to ensure the plugin does not crash computing class weight.
+// ---
+
 #ifndef CLASS_WITH_INCOMPLETE_TYPE_H_
 #define CLASS_WITH_INCOMPLETE_TYPE_H_
 

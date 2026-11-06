@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Auto raw pointer test source
+// summary: Test source covering cases where auto deduces to raw pointer types, including aliases, templates, specializations and concepts, for the Chromium style plugin.
+// ---
+
 class Iterable {
  public:
   using const_iterator = int* const*;

@@ -1,0 +1,4 @@
+# Docerion header of strict_deps_test.flags.
+type: test
+title: Strict deps test compiler flags
+summary: Compiler and plugin flags used to run the strict deps test, including modulemap, sysroot and include settings.

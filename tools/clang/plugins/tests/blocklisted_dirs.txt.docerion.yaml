@@ -1,0 +1,4 @@
+# Docerion header of blocklisted_dirs.txt.
+type: test
+title: Blocklisted directories expected warnings
+summary: Expected compiler output showing override warnings only for files outside blocklisted directories.

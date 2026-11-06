@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Inline constructor test header
+// summary: Header with classes covering inline constructors, macro-generated classes, deleted members, and trivial member count thresholds for the plugin test.
+// ---
+
 #ifndef INLINE_CTOR_H_
 #define INLINE_CTOR_H_
 

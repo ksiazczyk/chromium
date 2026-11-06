@@ -1,0 +1,4 @@
+# Docerion header of missing_ctor.flags.
+type: test
+title: Missing constructor plugin test flags
+summary: Clang plugin flags that relax constructor checks for aggregates when running the missing_ctor test.

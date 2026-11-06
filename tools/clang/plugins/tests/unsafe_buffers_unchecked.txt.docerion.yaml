@@ -1,0 +1,4 @@
+# Docerion header of unsafe_buffers_unchecked.txt.
+type: test
+title: Unsafe buffers unchecked expected warnings
+summary: Expected compiler warning output for the unsafe_buffers_unchecked test, listing unsafe buffer usage diagnostics raised in clean headers.

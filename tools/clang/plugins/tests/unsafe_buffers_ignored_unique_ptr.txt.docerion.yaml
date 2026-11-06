@@ -1,0 +1,4 @@
+# Docerion header of unsafe_buffers_ignored_unique_ptr.txt.
+type: test
+title: Expected output for the unsafe_buffers ignored unique_ptr test
+summary: Empty expected-diagnostics file asserting the unique_ptr test case produces no plugin warnings.

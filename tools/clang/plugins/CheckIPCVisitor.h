@@ -24,6 +24,12 @@
 // 2. IPC::CheckedTuple<> specializations
 //
 
+// ---docerion
+// type: source
+// title: CheckIPCVisitor header
+// summary: Declares the visitor that detects blocklisted unstable typedefs and types used in IPC serialization, with rationale comments.
+// ---
+
 #ifndef TOOLS_CLANG_PLUGINS_CHECKIPC_VISITOR_H_
 #define TOOLS_CLANG_PLUGINS_CHECKIPC_VISITOR_H_
 

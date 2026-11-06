@@ -1,0 +1,4 @@
+# Docerion header of ipc.txt.
+type: test
+title: IPC test expected diagnostics
+summary: Expected compiler diagnostics for the ipc.cpp test, listing errors for WriteParam calls and IPC tuples that reference blocklisted types.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unsafe libc calls opt-out header test
+// summary: Header test case confirming the allow_unsafe_libc_calls pragma suppresses libc warnings but not unsafe buffer access warnings.
+// ---
+
 #ifndef TOOLS_CLANG_PLUGINS_TESTS_UNSAFE_LIBC_CALLS_OPT_OUT_H_
 #define TOOLS_CLANG_PLUGINS_TESTS_UNSAFE_LIBC_CALLS_OPT_OUT_H_
 

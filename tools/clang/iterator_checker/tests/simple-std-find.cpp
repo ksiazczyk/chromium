@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Iterator validity checks for std::find
+// summary: Test case checking iterator use after std::find, including dereferencing an iterator that a possible erase may have invalidated.
+// ---
+
 #include <algorithm>
 #include <vector>
 

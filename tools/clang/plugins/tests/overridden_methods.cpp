@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overridden methods test source
+// summary: Test source exercising overridden method warnings for virtual methods, override markers, and blink-origin methods.
+// ---
+
 #include "overridden_methods.h"
 
 // Fill in the implementations

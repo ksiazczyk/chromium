@@ -1,0 +1,4 @@
+# Docerion header of unsafe_buffers_unchecked.flags.
+type: test
+title: Unsafe buffers unchecked plugin flags
+summary: Compiler flags passing unsafe_buffers_paths.txt to the unsafe-buffers plugin for the unchecked buffers test case.

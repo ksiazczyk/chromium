@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Minimal raw_ptr and raw_ref stub header for plugin tests
+// summary: Minimal stub of base::raw_ptr and base::raw_ref class templates used as a fixture for Clang plugin tests.
+// ---
+
 #ifndef TOOLS_CLANG_PLUGINS_TESTS_BASE_ALLOCATOR_PARTITION_ALLOCATOR_SRC_PARTITION_ALLOC_POINTERS_RAW_PTR_H_
 #define TOOLS_CLANG_PLUGINS_TESTS_BASE_ALLOCATOR_PARTITION_ALLOCATOR_SRC_PARTITION_ALLOC_POINTERS_RAW_PTR_H_
 

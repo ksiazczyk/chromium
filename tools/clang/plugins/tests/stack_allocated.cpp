@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stack allocated field test
+// summary: Test input covering stack-allocated type fields, pointers, references, templates and containers in non-stack-allocated classes.
+// ---
+
 #include <memory>
 #include <vector>
 

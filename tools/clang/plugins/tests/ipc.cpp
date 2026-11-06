@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IPC plugin check test source
+// summary: C++ test exercising the Chromium IPC plugin check on WriteParam calls and IPC tuples, covering blocklisted types, templates, and specializations with expected errors marked inline.
+// ---
+
 // Blocklisted typedefs
 typedef __INTMAX_TYPE__ intmax_t;
 typedef __UINTMAX_TYPE__ uintmax_t;

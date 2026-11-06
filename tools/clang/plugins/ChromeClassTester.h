@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeClassTester header
+// summary: Declares the base class that classifies source locations and forwards Chromium C++ class declarations to plugin check subclasses.
+// ---
+
 #ifndef TOOLS_CLANG_PLUGINS_CHROMECLASSTESTER_H_
 #define TOOLS_CLANG_PLUGINS_CHROMECLASSTESTER_H_
 

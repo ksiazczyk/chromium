@@ -1,0 +1,4 @@
+# Docerion header of compile_db_test.py.
+type: test
+title: Unit tests for compile_db
+summary: Unit tests covering compile database processing, including rewrapper removal, Windows target handling, and flag filtering.

@@ -1,0 +1,4 @@
+# Docerion header of private.
+type: test
+title: private test fixture header
+summary: Empty test fixture header in the plugin test sysroot representing a private include path for plugin rule checks.

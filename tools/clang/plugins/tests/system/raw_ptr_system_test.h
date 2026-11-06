@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Raw ptr system header macro test fixture
+// summary: Test header exercising raw_ptr field checks on system headers, using SYS, CMD, USR and third-party macros to verify how macro-expanded pointer fields are treated.
+// ---
+
 #ifndef TOOLS_CLANG_PLUGINS_TESTS_SYSTEM_RAW_PTR_SYSTEM_TEST_H_
 #define TOOLS_CLANG_PLUGINS_TESTS_SYSTEM_RAW_PTR_SYSTEM_TEST_H_
 #line 7 "/src/tools/clang/plugins/tests/system/raw_ptr_system_test.h"

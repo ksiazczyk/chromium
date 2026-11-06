@@ -1,0 +1,4 @@
+# Docerion header of unsafe_buffers_paths.txt.
+type: test
+title: Unsafe buffers paths list used by plugin tests
+summary: Path and diagnostics list configuring which files the unsafe-buffers plugin checks in the test suite.

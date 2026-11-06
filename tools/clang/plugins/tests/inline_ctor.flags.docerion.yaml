@@ -1,0 +1,4 @@
+# Docerion header of inline_ctor.flags.
+type: test
+title: Plugin flags for inline constructor test
+summary: Clang plugin arguments that relax constructor checks for aggregates when running the inline constructor test.

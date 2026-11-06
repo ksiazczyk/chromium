@@ -1,0 +1,4 @@
+# Docerion header of annotated-function.txt.
+type: test
+title: Expected output for annotated-function
+summary: Expected iterator checker diagnostics for the annotated function test case.

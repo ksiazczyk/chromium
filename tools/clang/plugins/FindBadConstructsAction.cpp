@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FindBadConstructsAction plugin entry point
+// summary: Registers the find-bad-constructs clang plugin and parses its command-line options such as check-ipc, check-stack-allocated, and exclude-fields.
+// ---
+
 #include "FindBadConstructsAction.h"
 
 #include "clang/AST/ASTConsumer.h"

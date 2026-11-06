@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Missing constructor ignored base test header
+// summary: Test header defining classes derived from the ignored base IPC::NoParams to exercise missing constructor checks in the Chromium Clang plugin.
+// ---
+
 #ifndef MISSING_CTOR_IGNORED_BASE_H_
 #define MISSING_CTOR_IGNORED_BASE_H_
 

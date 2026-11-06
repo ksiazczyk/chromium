@@ -1,0 +1,4 @@
+# Docerion header of blink_discouraged_type.txt.
+type: test
+title: Blink discouraged type expected warnings
+summary: Expected compiler output with blink-style warnings against std::vector data members in Blink renderer code.

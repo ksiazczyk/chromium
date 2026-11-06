@@ -1,0 +1,4 @@
+# Docerion header of simple-std-insert.txt.
+type: test
+title: Expected diagnostics for simple-std-insert
+summary: Expected iterator-checker error output for the simple-std-insert test case, reporting one potentially invalid iterator use.

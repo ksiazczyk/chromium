@@ -1,0 +1,4 @@
+# Docerion header of compile_db.py.
+type: source
+title: Compilation database processing for clang tooling
+summary: Cleans compile databases for clang tools by stripping rewrapper wrappers and filtering flags that confuse clang tooling such as clangd.

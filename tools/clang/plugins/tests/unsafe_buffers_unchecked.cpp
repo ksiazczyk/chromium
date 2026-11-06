@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unsafe buffers unchecked test source
+// summary: C++ test case verifying the unsafe buffers plugin emits no errors in known-bad cc files and for macros from checked or unchecked headers.
+// ---
+
 #define UNSAFE_FN [[clang::unsafe_buffer_usage]]
 
 // clang-format off
