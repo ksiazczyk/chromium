@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Two screens sign-in coordinator interface
+// summary: Declares the coordinator that presents the sign-in and sync first run screens, with its designated initializer and metrics parameters.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_TWO_SCREENS_SIGNIN_COORDINATOR_TWO_SCREENS_SIGNIN_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_TWO_SCREENS_SIGNIN_COORDINATOR_TWO_SCREENS_SIGNIN_COORDINATOR_H_
 

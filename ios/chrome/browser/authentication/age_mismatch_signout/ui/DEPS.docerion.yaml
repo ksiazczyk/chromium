@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS for Age Mismatch Signout UI
+summary: Grants include access to signin constants and identity view headers used by the age mismatch signout UI.

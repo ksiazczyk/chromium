@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for two screens sign-in Earl Grey tests
+summary: Defines the eg2_tests source set, its sources and dependencies for the two screens sign-in Earl Grey tests.

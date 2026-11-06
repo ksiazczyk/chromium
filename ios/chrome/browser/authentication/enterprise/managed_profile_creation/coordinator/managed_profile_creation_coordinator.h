@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManagedProfileCreationCoordinator interface
+// summary: Declares the coordinator that presents the managed profile creation UI, its delegate protocol, and the initializer taking identity, hosted domain, browser, and sign-in mode.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_ENTERPRISE_MANAGED_PROFILE_CREATION_COORDINATOR_MANAGED_PROFILE_CREATION_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_ENTERPRISE_MANAGED_PROFILE_CREATION_COORDINATOR_MANAGED_PROFILE_CREATION_COORDINATOR_H_
 

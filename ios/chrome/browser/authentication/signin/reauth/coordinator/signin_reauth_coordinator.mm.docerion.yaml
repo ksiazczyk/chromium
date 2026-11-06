@@ -1,0 +1,4 @@
+# Docerion header of signin_reauth_coordinator.mm.
+type: source
+title: SigninReauthCoordinator implementation
+summary: Implements the reauth flow by starting an auth activity through the system identity interaction manager, recording metrics, and reporting the result to the delegate.

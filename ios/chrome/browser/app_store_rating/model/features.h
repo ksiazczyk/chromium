@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Store rating feature declarations
+// summary: Declares the kAppStoreRating feature flag and helpers for feature state and countries excluded from the default browser condition.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_APP_STORE_RATING_MODEL_FEATURES_H_
 #define IOS_CHROME_BROWSER_APP_STORE_RATING_MODEL_FEATURES_H_
 

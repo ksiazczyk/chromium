@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build target for history sync coordinator
+summary: Defines the GN source_set for the history sync coordinator sources and lists its build dependencies.

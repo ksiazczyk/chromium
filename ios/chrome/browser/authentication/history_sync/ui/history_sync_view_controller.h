@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistorySyncViewController interface header
+// summary: Declares HistorySyncViewController, a promo style view controller for the history sync screen, initialized with a signin context style.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_HISTORY_SYNC_UI_HISTORY_SYNC_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_HISTORY_SYNC_UI_HISTORY_SYNC_VIEW_CONTROLLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of account_menu_view_controller.mm.
+type: source
+title: AccountMenuViewController implementation
+summary: Implements the account menu table view with sync error, account list and sign-out sections, presented as a bottom sheet.

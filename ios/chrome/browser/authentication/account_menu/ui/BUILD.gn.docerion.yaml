@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the account menu UI
+summary: Defines the ui source set and unit_tests target with their sources and dependencies for the iOS account menu UI.

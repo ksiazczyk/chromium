@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: App Store rating model build targets
+summary: Defines GN source sets for the App Store rating scene agent, its feature helpers and the unit tests, with their dependencies.

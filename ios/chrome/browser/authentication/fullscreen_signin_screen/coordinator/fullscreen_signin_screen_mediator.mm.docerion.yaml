@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_signin_screen_mediator.mm.
+type: source
+title: Fullscreen sign-in screen mediator implementation
+summary: Implements sign-in flow handling, sign-in logging and first-run state tracking for the fullscreen sign-in screen.

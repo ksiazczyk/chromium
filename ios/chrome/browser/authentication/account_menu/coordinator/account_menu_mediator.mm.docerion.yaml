@@ -1,0 +1,4 @@
+# Docerion header of account_menu_mediator.mm.
+type: source
+title: Account menu mediator implementation
+summary: Implements the account menu data source and mutator, observing signin, sync and subscription eligibility services.

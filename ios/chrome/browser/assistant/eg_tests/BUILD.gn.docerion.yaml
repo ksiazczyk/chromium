@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for assistant Earl Grey tests
+summary: Defines the testonly eg2_tests source_set for the assistant Earl Grey tests, listing its sources, dependencies and frameworks.

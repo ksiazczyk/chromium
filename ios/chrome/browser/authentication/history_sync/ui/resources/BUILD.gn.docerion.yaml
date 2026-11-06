@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for history sync UI resources
+summary: GN build target bundling the Assets.xcassets catalog with sync and history sync opt-in background images for the iOS Chrome authentication UI.

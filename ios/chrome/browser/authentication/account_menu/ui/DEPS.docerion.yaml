@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the account menu UI directory
+summary: Restricts which headers and directories files in the account menu UI directory may include.

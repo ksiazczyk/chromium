@@ -1,0 +1,4 @@
+# Docerion header of app_switcher_metrics.mm.
+type: source
+title: App switcher metrics implementation
+summary: Implements the App Switcher metrics functions using user metrics actions and UMA boolean and timing histograms.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for history sync model
+summary: Defines GN source sets for history sync utils, the capabilities fetcher, and their unit tests with their dependencies.

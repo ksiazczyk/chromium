@@ -1,0 +1,4 @@
+# Docerion header of age_mismatch_learn_more_coordinator_unittest.mm.
+type: test
+title: Age mismatch learn more coordinator unit tests
+summary: Unit tests verifying that navigation and provisional navigation failures trigger the coordinator's failure handling.

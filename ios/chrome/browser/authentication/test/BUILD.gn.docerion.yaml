@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for authentication tests
+summary: Defines Earl Grey app and test support source sets for the iOS sign-in authentication tests, listing their sources and dependencies.

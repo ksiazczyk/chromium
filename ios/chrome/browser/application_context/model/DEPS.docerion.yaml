@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for application context model
+summary: Lists the directories that files in this folder are allowed to include from, covering iOS Chrome model components.

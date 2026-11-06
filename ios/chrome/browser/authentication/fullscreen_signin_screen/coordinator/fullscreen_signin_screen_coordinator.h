@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fullscreen sign-in screen coordinator interface
+// summary: Declares the coordinator that presents the fullscreen sign-in UI as a child coordinator of the sign-in flow.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_FULLSCREEN_SIGNIN_SCREEN_COORDINATOR_FULLSCREEN_SIGNIN_SCREEN_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_FULLSCREEN_SIGNIN_SCREEN_COORDINATOR_FULLSCREEN_SIGNIN_SCREEN_COORDINATOR_H_
 

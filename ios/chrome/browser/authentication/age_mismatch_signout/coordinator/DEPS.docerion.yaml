@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for age mismatch signout coordinator
+summary: Lists the allowed header includes for code in the age mismatch signout coordinator directory.

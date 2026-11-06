@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SigninEarlGrey test helper interface
+// summary: Declares SigninEarlGreyImpl, the test-side helper API for adding fake identities, simulating auth and MDM errors, and checking sign-in state in Earl Grey tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_TEST_SIGNIN_EARL_GREY_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_TEST_SIGNIN_EARL_GREY_H_
 

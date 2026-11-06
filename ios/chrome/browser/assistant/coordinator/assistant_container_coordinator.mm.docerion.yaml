@@ -1,0 +1,4 @@
+# Docerion header of assistant_container_coordinator.mm.
+type: source
+title: Assistant container coordinator implementation
+summary: Implements presenting and dismissing the assistant container, detent handling, and observation of fullscreen and tab grid state changes.

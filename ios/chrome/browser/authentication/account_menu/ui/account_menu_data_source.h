@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountMenuDataSource protocol for identity data
+// summary: Declares the data source protocol supplying primary and secondary account details, avatars, error info and management state to the account menu.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_ACCOUNT_MENU_UI_ACCOUNT_MENU_DATA_SOURCE_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_ACCOUNT_MENU_UI_ACCOUNT_MENU_DATA_SOURCE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for app switcher metrics
+summary: Defines the metrics source_set listing the app switcher metrics sources and its dependency on //base.

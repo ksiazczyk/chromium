@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Separate profiles Earl Grey test utilities header
+// summary: Declares Earl Grey matchers and helper functions for driving account menu, sign-out, and separate profile onboarding flows in tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_TEST_SEPARATE_PROFILES_UTIL_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_TEST_SEPARATE_PROFILES_UTIL_H_
 

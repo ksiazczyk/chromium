@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_signin_screen_coordinator.mm.
+type: source
+title: Fullscreen sign-in screen coordinator implementation
+summary: Implements presentation of the fullscreen sign-in screen, including TOS, UMA and identity chooser coordinators and metrics logging.

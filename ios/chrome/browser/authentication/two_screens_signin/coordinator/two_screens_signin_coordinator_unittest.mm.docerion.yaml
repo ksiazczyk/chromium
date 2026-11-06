@@ -1,0 +1,4 @@
+# Docerion header of two_screens_signin_coordinator_unittest.mm.
+type: test
+title: Two screens sign-in coordinator unit tests
+summary: Unit tests for the two screens sign-in coordinator, using fake identities, test sync service, and metrics testers to verify sign-in behavior.

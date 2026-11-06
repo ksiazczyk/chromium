@@ -1,0 +1,4 @@
+# Docerion header of signin_earl_grey_app_interface.mm.
+type: test
+title: SigninEarlGreyAppInterface app-side test interface implementation
+summary: Implements the app-side helpers for adding fake identities, signing in and out, and configuring errors and preferences during authentication Earl Grey tests.

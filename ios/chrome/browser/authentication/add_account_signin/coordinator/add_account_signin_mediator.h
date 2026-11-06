@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AddAccountSigninMediator header
+// summary: Declares a mediator initialized with the authentication service that observes its status and can be disconnected.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_ADD_ACCOUNT_SIGNIN_COORDINATOR_ADD_ACCOUNT_SIGNIN_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_ADD_ACCOUNT_SIGNIN_COORDINATOR_ADD_ACCOUNT_SIGNIN_MEDIATOR_H_
 

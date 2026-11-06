@@ -1,0 +1,4 @@
+# Docerion header of managed_profile_creation_mediator.mm.
+type: source
+title: ManagedProfileCreationMediator implementation
+summary: Implements sign-in handling, switching between separate and merged browsing data modes, and observing identity and account manager changes to stop the flow when needed.

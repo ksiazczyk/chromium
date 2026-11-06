@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Add account signin DEPS include rules
+summary: Defines the allowed include dependencies for the add_account_signin directory, permitting signin model and sync service factory headers.

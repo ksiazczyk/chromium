@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the coordinator directory
+summary: Specifies the allowed header includes for the trusted vault reauthentication coordinator directory.

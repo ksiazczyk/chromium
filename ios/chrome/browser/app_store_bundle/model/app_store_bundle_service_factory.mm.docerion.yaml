@@ -1,0 +1,4 @@
+# Docerion header of app_store_bundle_service_factory.mm.
+type: source
+title: AppStoreBundleServiceFactory implementation
+summary: Implements the factory, creating App Store bundle services through the iOS provider layer and redirecting incognito profiles.

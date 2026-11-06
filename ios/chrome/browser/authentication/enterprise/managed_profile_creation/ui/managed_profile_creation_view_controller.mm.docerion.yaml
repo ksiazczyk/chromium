@@ -1,0 +1,4 @@
+# Docerion header of managed_profile_creation_view_controller.mm.
+type: source
+title: Managed profile creation view controller implementation
+summary: Implements the managed profile creation promo screen with an enterprise signin banner and subtitles adapted to the managed account signin mode.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConsistencyPromoSigninMediator interface header
+// summary: Declares the ConsistencyPromoSigninMediator class, its sign-in error enum, and delegate protocol for handling sign-in progress, success, cancellation, and errors.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_CONSISTENCY_PROMO_SIGNIN_COORDINATOR_CONSISTENCY_PROMO_SIGNIN_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_CONSISTENCY_PROMO_SIGNIN_COORDINATOR_CONSISTENCY_PROMO_SIGNIN_MEDIATOR_H_
 

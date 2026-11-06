@@ -1,0 +1,4 @@
+# Docerion header of separate_profiles_util.mm.
+type: test
+title: Separate profiles Earl Grey test utilities implementation
+summary: Implements helpers that tap the identity disc, open the account menu, sign out, and wait for separate profile onboarding screens in Earl Grey tests.

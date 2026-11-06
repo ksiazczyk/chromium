@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the two screens sign-in coordinator
+summary: Restricts which headers and directories this coordinator directory may include during dependency checks.

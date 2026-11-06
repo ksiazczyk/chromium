@@ -1,0 +1,4 @@
+# Docerion header of assistant_container_layout_utils.mm.
+type: source
+title: Assistant container layout utilities implementation
+summary: Implements layout constants, side panel aesthetics, rubber banding, interpolation helpers, and morphing constraint calculations for the Assistant Container.

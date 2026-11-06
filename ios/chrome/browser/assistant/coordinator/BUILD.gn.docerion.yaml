@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Assistant coordinator build targets
+summary: Defines GN source sets and dependencies for the assistant container coordinator, its commands header, and the unit tests.

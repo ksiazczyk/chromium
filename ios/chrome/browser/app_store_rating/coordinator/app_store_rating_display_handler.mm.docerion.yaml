@@ -1,0 +1,4 @@
+# Docerion header of app_store_rating_display_handler.mm.
+type: source
+title: App Store Rating display handler implementation
+summary: Implements the handler so it shows the App Store review prompt when the App Store Rating policy preference is enabled.

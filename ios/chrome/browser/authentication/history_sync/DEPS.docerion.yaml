@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: History sync DEPS include rules
+summary: Defines the allowed include dependencies for the history_sync directory, permitting first_run, signin, and sync model headers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Switcher Params Request Status enum
+// summary: Declares the AppSwitcherParamsRequestStatus enum that represents the status of a request to fetch App Switcher parameters.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_APP_SWITCHER_MODEL_APP_SWITCHER_PARAMS_REQUEST_STATUS_H_
 #define IOS_CHROME_BROWSER_APP_SWITCHER_MODEL_APP_SWITCHER_PARAMS_REQUEST_STATUS_H_
 

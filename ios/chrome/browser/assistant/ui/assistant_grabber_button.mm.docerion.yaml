@@ -1,0 +1,4 @@
+# Docerion header of assistant_grabber_button.mm.
+type: source
+title: Assistant grabber button implementation
+summary: Implements accessibility increment and decrement actions that forward to the grabber button's accessibility delegate.

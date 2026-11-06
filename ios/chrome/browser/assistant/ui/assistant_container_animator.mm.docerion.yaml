@@ -1,0 +1,4 @@
+# Docerion header of assistant_container_animator.mm.
+type: source
+title: Assistant container animator implementation
+summary: Implements bottom sheet and side panel presentation and dismissal animations driven by the scene layout state.

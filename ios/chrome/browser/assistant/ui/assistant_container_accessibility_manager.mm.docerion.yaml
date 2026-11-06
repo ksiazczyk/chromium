@@ -1,0 +1,4 @@
+# Docerion header of assistant_container_accessibility_manager.mm.
+type: source
+title: Assistant container accessibility manager implementation
+summary: Implements accessibility values and custom actions that move the assistant container between detents via the grabber button.

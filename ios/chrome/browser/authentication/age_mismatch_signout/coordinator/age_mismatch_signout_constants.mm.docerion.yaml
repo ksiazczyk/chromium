@@ -1,0 +1,4 @@
+# Docerion header of age_mismatch_signout_constants.mm.
+type: source
+title: Age mismatch signout histogram name definitions
+summary: Defines the histogram and user action name strings used for age mismatch signout metrics.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Assistant container animator header
+// summary: Declares the animator that handles presentation, dismissal, side panel, and fullscreen progress animations for the assistant container.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ASSISTANT_UI_ASSISTANT_CONTAINER_ANIMATOR_H_
 #define IOS_CHROME_BROWSER_ASSISTANT_UI_ASSISTANT_CONTAINER_ANIMATOR_H_
 

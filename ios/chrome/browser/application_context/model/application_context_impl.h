@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ApplicationContextImpl class declaration
+// summary: Declares the iOS application context implementation that provides access to browser-wide services such as prefs, metrics, network and GCM.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_APPLICATION_CONTEXT_MODEL_APPLICATION_CONTEXT_IMPL_H_
 #define IOS_CHROME_BROWSER_APPLICATION_CONTEXT_MODEL_APPLICATION_CONTEXT_IMPL_H_
 

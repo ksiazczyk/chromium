@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Age Mismatch Prompt Mode enum
+// summary: Defines the AgeMismatchPromptMode enum distinguishing standard and sign-in flow prompt variations, linked to histograms metadata.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_AGE_MISMATCH_SIGNOUT_UI_AGE_MISMATCH_PROMPT_MODE_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_AGE_MISMATCH_SIGNOUT_UI_AGE_MISMATCH_PROMPT_MODE_H_
 

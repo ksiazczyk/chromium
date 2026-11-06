@@ -1,0 +1,4 @@
+# Docerion header of non_modal_signin_promo_mediator.mm.
+type: source
+title: Non-modal sign-in promo mediator implementation
+summary: Implements promo display delay and timeout timers, observes authentication and identity changes, and decides when to show or dismiss the promo.

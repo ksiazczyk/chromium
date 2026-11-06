@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountMenuConsumer protocol for account menu updates
+// summary: Declares the consumer protocol used to update the account menu's error section, account list, primary account and interaction state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_ACCOUNT_MENU_UI_ACCOUNT_MENU_CONSUMER_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_ACCOUNT_MENU_UI_ACCOUNT_MENU_CONSUMER_H_
 

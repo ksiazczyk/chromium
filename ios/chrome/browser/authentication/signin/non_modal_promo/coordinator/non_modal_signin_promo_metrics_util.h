@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Non-modal sign-in promo metrics utility header
+// summary: Declares the NonModalSignInPromoAction enum and the function that logs promo actions such as accept, appear, dismiss, and timeout.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_SIGNIN_NON_MODAL_PROMO_COORDINATOR_NON_MODAL_SIGNIN_PROMO_METRICS_UTIL_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_SIGNIN_NON_MODAL_PROMO_COORDINATOR_NON_MODAL_SIGNIN_PROMO_METRICS_UTIL_H_
 

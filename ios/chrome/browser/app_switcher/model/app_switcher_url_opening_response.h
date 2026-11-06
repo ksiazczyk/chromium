@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Switcher URL Opening Response struct
+// summary: Declares the AppSwitcherUrlOpeningResponse struct holding App Switcher URL opening response parameters such as incognito and AI summarization flags, hashed user ID, timing, and error.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_APP_SWITCHER_MODEL_APP_SWITCHER_URL_OPENING_RESPONSE_H_
 #define IOS_CHROME_BROWSER_APP_SWITCHER_MODEL_APP_SWITCHER_URL_OPENING_RESPONSE_H_
 

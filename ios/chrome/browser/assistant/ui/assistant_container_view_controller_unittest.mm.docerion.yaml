@@ -1,0 +1,4 @@
+# Docerion header of assistant_container_view_controller_unittest.mm.
+type: test
+title: Assistant container view controller unit tests
+summary: Unit tests for the assistant container view controller covering detent heights, pan gestures, grabber interactions, and layout constraints.

@@ -1,0 +1,4 @@
+# Docerion header of assistant_container_layout_utils_unittest.mm.
+type: test
+title: Assistant container layout utilities unit tests
+summary: Unit tests verifying CalculateMorphingConstraints output across detent heights, margins, corner radii, and background dimming values.

@@ -1,0 +1,4 @@
+# Docerion header of account_menu_mediator_unittest.mm.
+type: test
+title: Account menu mediator unit tests
+summary: Unit tests for the account menu mediator using a test sync service and fake identity manager.

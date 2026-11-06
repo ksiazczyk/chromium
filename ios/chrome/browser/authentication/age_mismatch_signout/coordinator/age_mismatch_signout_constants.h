@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Age mismatch signout constants and histogram names
+// summary: Declares enums and histogram and action name constants for tracking age mismatch signout prompt behavior.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_AGE_MISMATCH_SIGNOUT_COORDINATOR_AGE_MISMATCH_SIGNOUT_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_AGE_MISMATCH_SIGNOUT_COORDINATOR_AGE_MISMATCH_SIGNOUT_CONSTANTS_H_
 

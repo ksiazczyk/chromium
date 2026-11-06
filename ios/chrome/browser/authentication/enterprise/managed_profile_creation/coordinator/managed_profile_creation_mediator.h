@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManagedProfileCreationMediator interface
+// summary: Declares the mediator that handles the managed account sign-in operation, its delegate protocol, and its role as data source and mutator for the creation UI.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_ENTERPRISE_MANAGED_PROFILE_CREATION_COORDINATOR_MANAGED_PROFILE_CREATION_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_ENTERPRISE_MANAGED_PROFILE_CREATION_COORDINATOR_MANAGED_PROFILE_CREATION_MEDIATOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for fullscreen signin screen resources
+summary: GN build file that declares a bundle_data_xcassets target packaging the collaboration sign-in background imageset from Assets.xcassets for the fullscreen sign-in screen UI.

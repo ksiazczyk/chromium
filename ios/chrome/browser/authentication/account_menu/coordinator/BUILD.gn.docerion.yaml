@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for the account menu coordinator
+summary: Defines the coordinator source set and unit test targets with their sources and dependencies.

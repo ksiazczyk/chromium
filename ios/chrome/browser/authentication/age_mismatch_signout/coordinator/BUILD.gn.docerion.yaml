@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Age mismatch signout coordinator BUILD.gn build targets
+summary: Defines GN source sets for the scene agent, coordinator, and unit tests of the age mismatch signout feature with their dependencies.

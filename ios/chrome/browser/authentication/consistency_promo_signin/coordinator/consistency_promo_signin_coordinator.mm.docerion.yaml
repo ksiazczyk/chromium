@@ -1,0 +1,4 @@
+# Docerion header of consistency_promo_signin_coordinator.mm.
+type: source
+title: ConsistencyPromoSigninCoordinator implementation
+summary: Implements the consistency promo sign-in coordinator, managing the consistency sheet, account chooser, reauth, and authentication flow during sign-in.

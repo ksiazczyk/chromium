@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Store Rating display handler interface
+// summary: Declares the AppStoreRatingDisplayHandler class that the Promos Manager calls to present the App Store Rating prompt to eligible users.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_APP_STORE_RATING_COORDINATOR_APP_STORE_RATING_DISPLAY_HANDLER_H_
 #define IOS_CHROME_BROWSER_APP_STORE_RATING_COORDINATOR_APP_STORE_RATING_DISPLAY_HANDLER_H_
 

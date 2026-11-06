@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for fullscreen signin promo model
+summary: Restricts the directories that files in the fullscreen signin promo model folder may include from.

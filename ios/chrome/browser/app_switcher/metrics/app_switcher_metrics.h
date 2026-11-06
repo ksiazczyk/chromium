@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App switcher metrics header
+// summary: Declares functions to record the AI summarization entrypoint via App Switcher and the outcome and duration of fetching App Switcher params.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_APP_SWITCHER_METRICS_APP_SWITCHER_METRICS_H_
 #define IOS_CHROME_BROWSER_APP_SWITCHER_METRICS_APP_SWITCHER_METRICS_H_
 

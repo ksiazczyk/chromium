@@ -1,0 +1,4 @@
+# Docerion header of trusted_vault_reauthentication_coordinator_unittest.mm.
+type: test
+title: TrustedVaultReauthenticationCoordinator unit tests
+summary: Unit tests for the trusted vault reauthentication coordinator, covering dialog presentation and user cancellation with fake identities and sync services.

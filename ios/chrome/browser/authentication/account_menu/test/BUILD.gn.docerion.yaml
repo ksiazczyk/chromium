@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Account menu Earl Grey tests build file
+summary: GN build configuration defining the eg2_tests source set and its dependencies for the account menu Earl Grey tests.

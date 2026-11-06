@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for consistency promo sign-in coordinator
+summary: Defines the GN source_set targets and dependencies for the consistency promo sign-in coordinator and its unit tests.

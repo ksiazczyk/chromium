@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FullscreenSigninPromoSceneAgent interface
+// summary: Declares the scene agent that registers the fullscreen signin promo, initialized with promos manager, auth service, identity manager, sync service, and prefs.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_SIGNIN_FULLSCREEN_PROMO_MODEL_FULLSCREEN_SIGNIN_PROMO_SCENE_AGENT_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_SIGNIN_FULLSCREEN_PROMO_MODEL_FULLSCREEN_SIGNIN_PROMO_SCENE_AGENT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of age_mismatch_learn_more_coordinator.mm.
+type: source
+title: Age mismatch learn more coordinator implementation
+summary: Implements the coordinator that loads the age mismatch learn more URL in a web view and shows an alert when the page fails to load.

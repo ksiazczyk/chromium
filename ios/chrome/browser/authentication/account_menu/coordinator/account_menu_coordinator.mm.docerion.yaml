@@ -1,0 +1,4 @@
+# Docerion header of account_menu_coordinator.mm.
+type: source
+title: Account menu coordinator implementation
+summary: Implements presentation of the account menu, handling signin, reauth, signout and profile switching flows.

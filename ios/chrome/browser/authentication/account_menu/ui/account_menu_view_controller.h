@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountMenuViewController interface
+// summary: Declares the account menu view controller with its mutator and data source properties and bottom sheet presentation setup.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_ACCOUNT_MENU_UI_ACCOUNT_MENU_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_ACCOUNT_MENU_UI_ACCOUNT_MENU_VIEW_CONTROLLER_H_
 

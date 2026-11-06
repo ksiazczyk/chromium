@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS for fullscreen signin promo coordinator
+summary: Specifies allowed include rules for the directory, permitting dependencies on the promos manager coordinator and model plus the signin model.

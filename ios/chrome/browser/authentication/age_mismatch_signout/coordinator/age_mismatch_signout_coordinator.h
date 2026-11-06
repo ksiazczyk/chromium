@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Age mismatch signout coordinator interface
+// summary: Declares the AgeMismatchSignoutCoordinator class and its delegate protocol for presenting the age mismatch prompt.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_AGE_MISMATCH_SIGNOUT_COORDINATOR_AGE_MISMATCH_SIGNOUT_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_AGE_MISMATCH_SIGNOUT_COORDINATOR_AGE_MISMATCH_SIGNOUT_COORDINATOR_H_
 

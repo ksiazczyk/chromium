@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for authentication tests
+summary: Specifies allowed include rules for the authentication test directory, with per-file exceptions for signin Earl Grey helpers and EG tests.

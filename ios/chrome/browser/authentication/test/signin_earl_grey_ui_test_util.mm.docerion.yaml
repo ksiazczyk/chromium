@@ -1,0 +1,4 @@
+# Docerion header of signin_earl_grey_ui_test_util.mm.
+type: test
+title: Sign-in Earl Grey UI test utility implementation
+summary: Implements SigninEarlGreyUI helpers that drive sign-in, sign-out, sync settings and account removal flows in Earl Grey tests.

@@ -1,0 +1,4 @@
+# Docerion header of non_modal_signin_promo_coordinator.mm.
+type: source
+title: Non-modal sign-in promo coordinator implementation
+summary: Implements the promo coordinator, creating the mediator, showing the infobar banner, and launching sign-in when the promo is accepted.

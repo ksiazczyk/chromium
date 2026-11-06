@@ -1,0 +1,4 @@
+# Docerion header of age_mismatch_signout_coordinator_unittest.mm.
+type: test
+title: Age mismatch signout coordinator unit tests
+summary: Unit tests verifying histogram and user action logging for the coordinator's primary and secondary button actions.

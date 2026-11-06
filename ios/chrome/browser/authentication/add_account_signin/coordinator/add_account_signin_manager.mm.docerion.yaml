@@ -1,0 +1,4 @@
+# Docerion header of add_account_signin_manager.mm.
+type: source
+title: AddAccountSigninManager implementation
+summary: Implements the add account sign-in manager, including histogram and user action logging for add account results and durations.

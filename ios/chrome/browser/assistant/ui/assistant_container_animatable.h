@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Assistant container animatable protocol
+// summary: Declares a protocol exposing container view properties needed for custom transition animations such as dimming and sheet translation.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ASSISTANT_UI_ASSISTANT_CONTAINER_ANIMATABLE_H_
 #define IOS_CHROME_BROWSER_ASSISTANT_UI_ASSISTANT_CONTAINER_ANIMATABLE_H_
 

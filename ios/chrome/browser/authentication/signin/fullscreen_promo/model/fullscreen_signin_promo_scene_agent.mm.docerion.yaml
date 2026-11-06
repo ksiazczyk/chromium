@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_signin_promo_scene_agent.mm.
+type: source
+title: FullscreenSigninPromoSceneAgent implementation
+summary: Implements the scene agent that registers or deregisters the fullscreen signin promo based on profile init stage and scene activation, cleaning up on UI disable.

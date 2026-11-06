@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Age mismatch learn more coordinator header
+// summary: Declares the coordinator interface and delegate protocol for presenting the age mismatch learn more content in a web view.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_AGE_MISMATCH_SIGNOUT_AGE_MISMATCH_LEARN_MORE_COORDINATOR_AGE_MISMATCH_LEARN_MORE_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_AGE_MISMATCH_SIGNOUT_AGE_MISMATCH_LEARN_MORE_COORDINATOR_AGE_MISMATCH_LEARN_MORE_COORDINATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Assistant grabber button interface
+// summary: Declares the grabber button for the assistant sheet with a delegate protocol for VoiceOver adjustable increment and decrement actions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ASSISTANT_UI_ASSISTANT_GRABBER_BUTTON_H_
 #define IOS_CHROME_BROWSER_ASSISTANT_UI_ASSISTANT_GRABBER_BUTTON_H_
 

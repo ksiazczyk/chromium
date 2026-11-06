@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Assistant coordinator include rules
+summary: Restricts includes in the assistant coordinator directory to a sorted list of allowed fullscreen model and UI headers.

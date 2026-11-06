@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Assistant UI build targets
+summary: Defines the source sets, unit test target, and dependencies for the Assistant container UI in the GN build system.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for App Store bundle model
+summary: Defines the source sets, dependencies and UIKit framework linkage for the App Store bundle service and its profile keyed service factory.

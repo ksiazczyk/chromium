@@ -1,0 +1,4 @@
+# Docerion header of application_context_impl.mm.
+type: source
+title: ApplicationContextImpl implementation
+summary: Implements the application context lifecycle and wires up services including metrics, network, component updater, policy and profile management.

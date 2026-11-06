@@ -1,0 +1,4 @@
+# Docerion header of account_menu_view_controller_unittest.mm.
+type: test
+title: Unit tests for AccountMenuViewController
+summary: Tests the account menu view controller's account display, error handling and user actions using fake identities and OCMock.

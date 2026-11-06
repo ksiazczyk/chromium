@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed profile creation view controller interface
+// summary: Declares the managed profile creation screen view controller with its presentation delegate and data source exposing the managed account signin mode.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_ENTERPRISE_MANAGED_PROFILE_CREATION_UI_MANAGED_PROFILE_CREATION_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_ENTERPRISE_MANAGED_PROFILE_CREATION_UI_MANAGED_PROFILE_CREATION_VIEW_CONTROLLER_H_
 

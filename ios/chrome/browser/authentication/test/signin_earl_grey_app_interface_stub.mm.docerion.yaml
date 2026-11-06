@@ -1,0 +1,4 @@
+# Docerion header of signin_earl_grey_app_interface_stub.mm.
+type: test
+title: Sign-in Earl Grey app interface stub
+summary: Stub implementation of SigninEarlGreyAppInterface for the Earl Grey test application's main queue.

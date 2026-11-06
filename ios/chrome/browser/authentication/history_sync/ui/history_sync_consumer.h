@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistorySyncConsumer protocol header
+// summary: Declares the HistorySyncConsumer protocol with methods for updating the history sync UI, such as avatar image, footer text, and button visibility.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_HISTORY_SYNC_UI_HISTORY_SYNC_CONSUMER_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_HISTORY_SYNC_UI_HISTORY_SYNC_CONSUMER_H_
 

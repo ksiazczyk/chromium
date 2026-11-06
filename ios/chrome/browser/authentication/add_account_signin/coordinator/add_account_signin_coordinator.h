@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AddAccountSigninCoordinator header
+// summary: Declares the coordinator that drives add account and reauthentication sign-in flows with configurable intent, access point, and prefilled email.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_ADD_ACCOUNT_SIGNIN_COORDINATOR_ADD_ACCOUNT_SIGNIN_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_ADD_ACCOUNT_SIGNIN_COORDINATOR_ADD_ACCOUNT_SIGNIN_COORDINATOR_H_
 

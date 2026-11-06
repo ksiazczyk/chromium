@@ -1,0 +1,4 @@
+# Docerion header of history_sync_view_controller.mm.
+type: source
+title: HistorySyncViewController implementation
+summary: Implements the history sync view controller, setting titles, header images, and action buttons based on the signin context style and recording metrics.

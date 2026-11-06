@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build file for history sync UI
+summary: Defines the ui source set listing the history sync UI sources and their build dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Assistant container delegate protocol
+// summary: Declares optional delegate callbacks for lifecycle, detent sizing, context changes, gesture handling, and dismissal of the assistant container.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ASSISTANT_UI_ASSISTANT_CONTAINER_DELEGATE_H_
 #define IOS_CHROME_BROWSER_ASSISTANT_UI_ASSISTANT_CONTAINER_DELEGATE_H_
 

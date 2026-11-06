@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: App Store rating model DEPS include rules
+summary: Restricts includes in this directory to default browser model utils and the promos manager model.

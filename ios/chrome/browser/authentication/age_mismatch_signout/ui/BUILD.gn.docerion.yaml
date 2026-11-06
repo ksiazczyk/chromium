@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Age Mismatch Signout UI
+summary: Defines GN source sets for the age mismatch signout UI, constants, prompt mode, and unit tests along with their dependencies.

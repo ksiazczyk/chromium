@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Non-modal sign-in promo coordinator header
+// summary: Declares NonModalSignInPromoCoordinator, an infobar coordinator that manages the non-modal sign-in promo, plus its delegate protocol.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_SIGNIN_NON_MODAL_PROMO_COORDINATOR_NON_MODAL_SIGNIN_PROMO_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_SIGNIN_NON_MODAL_PROMO_COORDINATOR_NON_MODAL_SIGNIN_PROMO_COORDINATOR_H_
 

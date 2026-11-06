@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Assistant container presentation context enum
+// summary: Defines the AssistantPresentationContext enum distinguishing bottom sheet and side panel presentations of the Assistant Container.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ASSISTANT_UI_ASSISTANT_CONTAINER_PRESENTATION_CONTEXT_H_
 #define IOS_CHROME_BROWSER_ASSISTANT_UI_ASSISTANT_CONTAINER_PRESENTATION_CONTEXT_H_
 

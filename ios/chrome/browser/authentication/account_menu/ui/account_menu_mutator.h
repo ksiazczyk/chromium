@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountMenuMutator protocol for account menu actions
+// summary: Declares the mutator protocol handling user actions such as closing the menu, signing out, switching accounts and managing accounts.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_ACCOUNT_MENU_UI_ACCOUNT_MENU_MUTATOR_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_ACCOUNT_MENU_UI_ACCOUNT_MENU_MUTATOR_H_
 

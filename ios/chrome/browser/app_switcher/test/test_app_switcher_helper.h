@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test app switcher helper header
+// summary: Declares the TestAppSwitcherProviderTestHelper interface and test URL constants used for app switcher unit testing.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_APP_SWITCHER_TEST_TEST_APP_SWITCHER_HELPER_H_
 #define IOS_CHROME_BROWSER_APP_SWITCHER_TEST_TEST_APP_SWITCHER_HELPER_H_
 

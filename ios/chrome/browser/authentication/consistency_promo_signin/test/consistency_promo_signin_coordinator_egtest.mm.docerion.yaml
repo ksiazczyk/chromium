@@ -1,0 +1,4 @@
+# Docerion header of consistency_promo_signin_coordinator_egtest.mm.
+type: test
+title: ConsistencyPromoSigninCoordinator EarlGrey tests
+summary: EarlGrey UI tests verifying when the web sign-in consistency promo dialog is shown or skipped, its behavior with no signed-in accounts, and preferred account selection with fake identities.

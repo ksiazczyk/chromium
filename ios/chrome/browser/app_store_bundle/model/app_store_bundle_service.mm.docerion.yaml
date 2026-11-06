@@ -1,0 +1,4 @@
+# Docerion header of app_store_bundle_service.mm.
+type: source
+title: AppStoreBundleService default constructor and destructor
+summary: Implements the default constructor and destructor of the AppStoreBundleService class.

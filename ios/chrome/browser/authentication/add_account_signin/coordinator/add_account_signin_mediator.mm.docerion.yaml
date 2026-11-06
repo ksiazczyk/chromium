@@ -1,0 +1,4 @@
+# Docerion header of add_account_signin_mediator.mm.
+type: source
+title: AddAccountSigninMediator implementation
+summary: Implements the mediator observing authentication service status changes so it asks its delegate to stop it when sign-in is disabled.

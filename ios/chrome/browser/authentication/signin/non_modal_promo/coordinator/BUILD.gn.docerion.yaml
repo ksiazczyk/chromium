@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the non-modal sign-in promo coordinator
+summary: Defines GN source sets for the coordinator, mediator, metrics utility, promo types, and their unit tests together with their dependencies.

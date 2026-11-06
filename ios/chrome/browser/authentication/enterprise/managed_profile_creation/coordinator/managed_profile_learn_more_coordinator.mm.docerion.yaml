@@ -1,0 +1,4 @@
+# Docerion header of managed_profile_learn_more_coordinator.mm.
+type: source
+title: ManagedProfileLearnMoreCoordinator implementation
+summary: Presents the Learn More view controller in a sheet with medium and large detents and notifies the delegate when the dialog is dismissed.

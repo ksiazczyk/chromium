@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_signin_promo_scene_agent_unittest.mm.
+type: test
+title: FullscreenSigninPromoSceneAgent unit tests
+summary: Unit tests for the fullscreen signin promo scene agent using fake profile, scene state, test sync service, and a mock promos manager.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History sync popup coordinator interface
+// summary: Declares the HistorySyncPopupCoordinator that presents the History Sync Opt-In screen as a popup, along with its delegate protocol.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTHENTICATION_HISTORY_SYNC_COORDINATOR_HISTORY_SYNC_POPUP_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_AUTHENTICATION_HISTORY_SYNC_COORDINATOR_HISTORY_SYNC_POPUP_COORDINATOR_H_
 

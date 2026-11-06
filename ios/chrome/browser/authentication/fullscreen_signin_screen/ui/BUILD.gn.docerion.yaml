@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the fullscreen sign-in screen UI
+summary: Defines the GN source_set for the fullscreen sign-in screen UI, listing its source files and build dependencies.

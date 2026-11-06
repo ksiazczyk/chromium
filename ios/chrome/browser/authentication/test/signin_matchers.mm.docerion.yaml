@@ -1,0 +1,4 @@
+# Docerion header of signin_matchers.mm.
+type: test
+title: Sign-in Earl Grey matcher implementations
+summary: Implements the sign-in Earl Grey matchers using accessibility identifiers, labels and localized strings.
