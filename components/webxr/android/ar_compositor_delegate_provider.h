@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AR compositor delegate provider class declaration
+// summary: Declares a device::CompositorDelegateProvider subclass that wraps the Java ArCompositorDelegateProvider object for AR sessions.
+// ---
+
 #ifndef COMPONENTS_WEBXR_ANDROID_AR_COMPOSITOR_DELEGATE_PROVIDER_H_
 #define COMPONENTS_WEBXR_ANDROID_AR_COMPOSITOR_DELEGATE_PROVIDER_H_
 

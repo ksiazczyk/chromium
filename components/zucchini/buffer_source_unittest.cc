@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BufferSource
+// summary: Tests BufferSource construction with offsets, skipping, byte checking and consumption, value reads, and LEB128 decoding edge cases.
+// ---
+
 #include "components/zucchini/buffer_source.h"
 
 #include <stddef.h>

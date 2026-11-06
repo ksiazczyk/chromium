@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebXrAndroidFeatureMap JNI feature checks
+// summary: Java-side feature map that queries native code on whether OpenXR, hand tracking, and the OpenXR Android system keyboard are enabled.
+// ---
+
 package org.chromium.components.webxr;
 
 import org.jni_zero.JNINamespace;

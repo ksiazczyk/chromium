@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: WebXR strings directory metadata
+summary: Records the monorail component and Buganizer component ID used for issues in the WebXR strings directory.

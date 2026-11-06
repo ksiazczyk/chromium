@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZTF disassembler implementation
+// summary: Implements the disassembler for Zucchini Text Format files, parsing and writing absolute and relative line-column references.
+// ---
+
 #include "components/zucchini/disassembler_ztf.h"
 
 #include <algorithm>

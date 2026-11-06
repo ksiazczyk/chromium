@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Heuristic ensemble matcher implementation
+// summary: Implements a heuristic ensemble matching strategy that detects embedded executables and matches old and new elements while logging matching details.
+// ---
+
 #include "components/zucchini/heuristic_ensemble_matcher.h"
 
 #include <algorithm>

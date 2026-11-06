@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZoomEventManager implementation
+// summary: Implements the per-BrowserContext ZoomEventManager, forwarding zoom level changes to registered callbacks and observers and supporting observer add/remove.
+// ---
+
 #include "components/zoom/zoom_event_manager.h"
 
 #include <memory>

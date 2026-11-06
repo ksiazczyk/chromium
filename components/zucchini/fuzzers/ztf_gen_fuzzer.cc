@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZTF patch generation fuzzer
+// summary: libFuzzer proto target that fuzzes Zucchini patch generation on Zucchini Text Format inputs, serializing the resulting patch into memory.
+// ---
+
 #include <stdint.h>
 
 #include <iostream>

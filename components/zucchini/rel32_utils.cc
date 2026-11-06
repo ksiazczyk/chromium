@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rel32 readers and writers for x86 and ARM
+// summary: Implements x86 rel32 reference readers and writers plus ARM displacement copy helpers used by Zucchini's executable patching.
+// ---
+
 #include "components/zucchini/rel32_utils.h"
 
 #include <algorithm>

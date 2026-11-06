@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'XrSessionCoordinator: manages active XR sessions and JNI bridge'
+// summary: Java-side coordinator called via JNI that creates overlays and surface views, forwards events, and ensures only one immersive AR or VR session is active at a time.
+// ---
+
 package org.chromium.components.webxr;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

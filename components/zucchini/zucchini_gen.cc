@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zucchini patch generation implementation
+// summary: Implements ensemble patch generation, including equivalence map construction, raw delta encoding, and reference delta generation.
+// ---
+
 #include "components/zucchini/zucchini_gen.h"
 
 #include <stddef.h>

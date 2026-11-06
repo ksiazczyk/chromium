@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DEX disassembler class definitions
+// summary: Declares DisassemblerDex with its DEX reference pools and types and readers for extracting references from Android DEX images.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_DISASSEMBLER_DEX_H_
 #define COMPONENTS_ZUCCHINI_DISASSEMBLER_DEX_H_
 

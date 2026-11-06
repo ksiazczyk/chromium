@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZTF disassembler header
+// summary: Declares the Zucchini Text Format disassembler and documents the ZTF file format, including header, footer, and reference syntax.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_DISASSEMBLER_ZTF_H_
 #define COMPONENTS_ZUCCHINI_DISASSEMBLER_ZTF_H_
 

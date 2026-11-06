@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Ruff lint and format settings for content
+# summary: Configures Ruff line length, indentation, exclusions and lint rules for Python code in the content module.
+# ---
+
 line-length = 80
 indent-width = 2
 extend-exclude = [

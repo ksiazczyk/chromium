@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rel32 Finder
+// summary: Declares Abs32GapFinder and the Rel32Finder base class with architecture-specific subclasses for scanning image regions to find rel32 references.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_REL32_FINDER_H_
 #define COMPONENTS_ZUCCHINI_REL32_FINDER_H_
 

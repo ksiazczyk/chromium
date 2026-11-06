@@ -1,0 +1,4 @@
+# Docerion header of create_seed_file_pair_test.py.
+type: test
+title: Unit tests for the seed file pair creation script
+summary: Unit tests verifying protobuf escaping, FilePair text building, and binary seed encoding in create_seed_file_pair.py.

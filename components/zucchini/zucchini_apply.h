@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zucchini patch application interface
+// summary: Header declaring functions to apply patch elements, equivalences and extra data, raw deltas, and reference corrections.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_ZUCCHINI_APPLY_H_
 #define COMPONENTS_ZUCCHINI_ZUCCHINI_APPLY_H_
 

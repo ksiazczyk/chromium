@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrDelegateImpl session state coordinator
+// summary: Implementation of XrDelegate that tracks the active AR or VR session type, reports session state, and ends sessions on back press.
+// ---
+
 package org.chromium.components.webxr;
 
 import org.chromium.base.supplier.NonNullObservableSupplier;

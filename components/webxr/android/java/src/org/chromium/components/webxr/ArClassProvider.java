@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArClassProvider
+// summary: Real implementation of ArClassProvider that is compiled only when ARCore is enabled and creates the ArOverlayDelegate for WebXR immersive AR.
+// ---
+
 package org.chromium.components.webxr;
 
 import org.chromium.build.annotations.NullMarked;

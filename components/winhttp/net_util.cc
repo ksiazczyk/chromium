@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WinHTTP utility function implementations
+// summary: Implements helpers that convert the last error to an HRESULT, query HTTP response headers as strings or integers and print proxy info for logging.
+// ---
+
 #include "components/winhttp/net_util.h"
 
 #include <stdint.h>

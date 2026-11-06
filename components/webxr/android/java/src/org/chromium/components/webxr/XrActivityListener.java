@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrActivityListener for activity resume notifications
+// summary: Activity lifecycle listener that registers callbacks on the activity owning a WebContents and notifies native observers when it resumes.
+// ---
+
 package org.chromium.components.webxr;
 
 import android.app.Activity;

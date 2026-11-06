@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CardboardClassProvider
+// summary: Real implementation of CardboardClassProvider compiled only when Cardboard is enabled, creating the CardboardOverlayDelegate for VR sessions.
+// ---
+
 package org.chromium.components.webxr;
 
 import android.app.Activity;

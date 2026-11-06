@@ -4,6 +4,13 @@ Copyright 2023 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: WebXR Cardboard UI dimension resources
+summary: Defines Android dimension resources for the WebXR Cardboard UI, including align marker sizes, UI button dimensions, and popup menu margins.
+-->
+
 <resources>
     <!-- Approximately 24mm height. -->
     <dimen name="align_marker_height">150dp</dimen>

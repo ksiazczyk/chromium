@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Zucchini I/O utilities
+// summary: Verifies behavior of LimitedOutputStream, AsHex, PrefixSep, EatChar, and StrictUInt via GoogleTest cases.
+// ---
+
 #include "components/zucchini/io_utils.h"
 
 #include <stdint.h>

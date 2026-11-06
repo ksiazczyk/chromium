@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: WiFi component owners
+summary: Delegates code ownership of the wifi directory to the owners of the net directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrHostProxyInputView invisible IME proxy view
+// summary: Invisible 1x1 view inside XrHostActivity that overrides input connection creation to delegate text entry to the browser's ImeAdapter.
+// ---
+
 package org.chromium.components.webxr;
 
 import android.content.Context;

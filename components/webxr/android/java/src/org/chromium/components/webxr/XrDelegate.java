@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrDelegate interface for AR and VR build-time integration
+// summary: Interface used by ChromeActivity to communicate with AR and VR code that is only compiled in when enable_arcore or enable_cardboard is set.
+// ---
+
 package org.chromium.components.webxr;
 
 import org.chromium.build.annotations.NullMarked;

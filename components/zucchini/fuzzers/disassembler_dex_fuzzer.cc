@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer for the DEX disassembler
+// summary: libFuzzer target that parses fuzzed input as a DEX image and reads and rewrites all of its references via the Zucchini DEX disassembler.
+// ---
+
 #include "components/zucchini/disassembler_dex.h"
 
 #include <stddef.h>

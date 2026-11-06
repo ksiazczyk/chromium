@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkFetcher implementation
+// summary: Implements WinHTTP-based network fetching with URL cracking, request handling, streaming downloads to file and completion callbacks.
+// ---
+
 #include "components/winhttp/network_fetcher.h"
 
 #include <stddef.h>

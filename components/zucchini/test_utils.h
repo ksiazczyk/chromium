@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test utility helpers for byte vectors
+// summary: Declares ParseHexString plus Cat and Sub template helpers for concatenating and slicing vectors in unit tests.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_TEST_UTILS_H_
 #define COMPONENTS_ZUCCHINI_TEST_UTILS_H_
 

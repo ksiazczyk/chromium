@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Command-line test tool for WiFiService
+// summary: Command-line utility that exercises WiFiService operations such as listing networks, getting properties, connecting, disconnecting and scanning.
+// ---
+
 #include <stdio.h>
 
 #include <memory>

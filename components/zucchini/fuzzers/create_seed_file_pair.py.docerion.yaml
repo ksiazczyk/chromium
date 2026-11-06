@@ -1,0 +1,4 @@
+# Docerion header of create_seed_file_pair.py.
+type: script
+title: Script to create binary protobuf seed file pairs
+summary: Command-line script that encodes old and new file pairs into binary protobuf seeds for the Zucchini gen and apply fuzzers.

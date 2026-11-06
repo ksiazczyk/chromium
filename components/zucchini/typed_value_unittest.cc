@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TypedValue unit tests
+// summary: Unit tests verifying TypedValue value access, comparison operators, and that distinct typed values are not convertible.
+// ---
+
 #include "components/zucchini/typed_value.h"
 
 #include <type_traits>

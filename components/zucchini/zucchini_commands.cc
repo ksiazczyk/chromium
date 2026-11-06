@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zucchini command-line command implementations
+// summary: Implements command-line entry points for generating, applying, verifying, and inspecting patches and detecting executables.
+// ---
+
 #include "components/zucchini/zucchini_commands.h"
 
 #include <stddef.h>

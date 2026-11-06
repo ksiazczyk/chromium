@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for Zucchini seed scripts
+# summary: Presubmit script that runs unit tests and lint checks for the Zucchini seed scripts when Python files or their inputs change.
+# ---
+
 """Runs tests and lint checks for the Zucchini seed scripts."""
 
 PRESUBMIT_VERSION = '2.0.0'

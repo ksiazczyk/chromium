@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zucchini fuzzer utility header
+// summary: Declares ReadAndWriteReferences, a helper that uses a disassembler to read all references from mutable data and write them back, shared by Zucchini fuzzers.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_FUZZERS_FUZZ_UTILS_H_
 #define COMPONENTS_ZUCCHINI_FUZZERS_FUZZ_UTILS_H_
 

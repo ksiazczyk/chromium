@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Zoom test utilities declarations
+// summary: Declares the ZoomChangedWatcher test helper and the equality operator for ZoomController zoom change event data.
+// ---
+
 #ifndef COMPONENTS_ZOOM_TEST_ZOOM_TEST_UTILS_H_
 #define COMPONENTS_ZOOM_TEST_ZOOM_TEST_UTILS_H_
 

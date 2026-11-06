@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia stub of the WiFiService interface
+// summary: Stub WiFiService implementation for Fuchsia whose methods log not-implemented and return errors for all operations.
+// ---
+
 #include "components/wifi/wifi_service.h"
 
 #include "base/notimplemented.h"

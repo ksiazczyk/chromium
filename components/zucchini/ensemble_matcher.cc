@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnsembleMatcher implementation
+// summary: Implements EnsembleMatcher's Trim step, which discards all DEX matches when multiple DEX files are found because MultiDex is not yet supported.
+// ---
+
 #include "components/zucchini/ensemble_matcher.h"
 
 #include <algorithm>

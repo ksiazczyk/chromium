@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Zoom component bug tracking metadata
+summary: Maps the zoom component to the UI>Browser>Zoom monorail component and a public Buganizer component ID.

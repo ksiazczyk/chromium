@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Zoom component build definition (BUILD.gn)
+summary: Defines the zoom static library, test support and unit test build targets with their sources and dependencies.

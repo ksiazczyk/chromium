@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address translator implementation
+// summary: Implements offset-to-RVA and RVA-to-offset translation with caching, validation, and merging of translation units.
+// ---
+
 #include "components/zucchini/address_translator.h"
 
 #include <algorithm>

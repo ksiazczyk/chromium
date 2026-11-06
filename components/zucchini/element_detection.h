@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Element detection header
+// summary: Declares disassembler factory functions, the ElementDetector callback, and ElementFinder for scanning images for executable elements.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_ELEMENT_DETECTION_H_
 #define COMPONENTS_ZUCCHINI_ELEMENT_DETECTION_H_
 

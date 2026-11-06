@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake WiFi service implementation
+// summary: Implements FakeWiFiService with stub networks and error responses so tests can exercise the WiFiService interface without real hardware.
+// ---
+
 #include "components/wifi/fake_wifi_service.h"
 
 #include <memory>

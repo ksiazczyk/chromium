@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VrCompositorDelegate interface for VR compositor control
+// summary: Interface used by ArOverlayDelegate to talk to the underlying VR compositor, toggling immersive VR mode and opening new tabs for WebXR DOM Overlay.
+// ---
+
 package org.chromium.components.webxr;
 
 import org.chromium.build.annotations.NullMarked;

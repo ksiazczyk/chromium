@@ -1,3 +1,9 @@
+---
+type: readme
+title: Overview of the winhttp component
+summary: Describes the component as a minimal-dependency wrapper around the Windows WinHTTP API for contexts like the Chrome updater and installer.
+---
+
 //components/winhttp
 
 This component is a wrapper around the Microsoft Windows WinHTTP API.  This

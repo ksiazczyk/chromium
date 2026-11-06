@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArCompositorDelegateProvider
+// summary: Interface for creating ArCompositorDelegate instances needed by ArOverlayDelegate for WebXR DOM Overlay support.
+// ---
+
 package org.chromium.components.webxr;
 
 import org.chromium.build.annotations.NullMarked;

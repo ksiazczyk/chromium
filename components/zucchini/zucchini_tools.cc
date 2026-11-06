@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zucchini diagnostic tool implementations
+// summary: Implements diagnostic commands that print reference statistics, detect executable regions in an image, and show matched regions between old and new images.
+// ---
+
 #include "components/zucchini/zucchini_tools.h"
 
 #include <stddef.h>

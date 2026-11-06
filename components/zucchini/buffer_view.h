@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Buffer view classes for read-only and mutable regions
+// summary: Defines BufferRegion and the BufferViewBase template behind ConstBufferView and MutableBufferView, span-backed views over raw buffer regions with bounds-checked access.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_BUFFER_VIEW_H_
 #define COMPONENTS_ZUCCHINI_BUFFER_VIEW_H_
 

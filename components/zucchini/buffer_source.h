@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BufferSource input stream for parsing raw buffers
+// summary: Declares BufferSource, a ConstBufferView-based input stream with methods to read values, pointers, spans, and LEB128 integers from raw data.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_BUFFER_SOURCE_H_
 #define COMPONENTS_ZUCCHINI_BUFFER_SOURCE_H_
 

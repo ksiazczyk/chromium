@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilePair protobuf definition for fuzzer seeds
+// summary: Proto2 definition of the FilePair message holding an old file, a new or patch file, and optional imposed matches for Zucchini fuzzer seeds.
+// ---
+
 syntax = "proto2";
 
 package zucchini.fuzzers;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZoomObserver interface
+// summary: Defines the observer interface for ZoomController events, including controller destruction and zoom percentage changes.
+// ---
+
 #ifndef COMPONENTS_ZOOM_ZOOM_OBSERVER_H_
 #define COMPONENTS_ZOOM_ZOOM_OBSERVER_H_
 

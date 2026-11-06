@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ELF disassembler implementation
+// summary: Implements ELF disassemblers for x86, x64, ARM, and AArch64, including section validation heuristics and reference extraction logic.
+// ---
+
 #include "components/zucchini/disassembler_elf.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrActivityListener native implementation
+// summary: Implements the native XrActivityListener and its factory, using JNI to create a Java counterpart that forwards Android activity lifecycle events such as resume to registered handlers.
+// ---
+
 #include "components/webxr/android/xr_activity_listener.h"
 
 #include <memory>

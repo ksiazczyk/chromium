@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrSessionCoordinator native implementation
+// summary: Implements the native XrSessionCoordinator, forwarding AR, VR and XR session requests to a Java coordinator and relaying drawing surface, touch, shutdown and activity-ready callbacks back to Chromium.
+// ---
+
 #include "components/webxr/android/xr_session_coordinator.h"
 
 #include <memory>

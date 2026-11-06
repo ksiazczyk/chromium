@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkFetcher class declaration
+// summary: Declares a ref-counted, single-use WinHTTP network fetcher supporting POST requests, file downloads and progress and completion callbacks.
+// ---
+
 #ifndef COMPONENTS_WINHTTP_NETWORK_FETCHER_H_
 #define COMPONENTS_WINHTTP_NETWORK_FETCHER_H_
 

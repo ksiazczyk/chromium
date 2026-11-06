@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zucchini I/O utilities header
+// summary: Declares stream helpers including LimitedOutputStream, AsHex, PrefixSep, EatChar, and StrictUInt.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_IO_UTILS_H_
 #define COMPONENTS_ZUCCHINI_IO_UTILS_H_
 

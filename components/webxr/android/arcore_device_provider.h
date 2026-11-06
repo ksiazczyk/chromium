@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARCore device provider class declaration
+// summary: Declares the device::VRDeviceProvider that initializes and owns the ARCore device for WebXR on Android.
+// ---
+
 #ifndef COMPONENTS_WEBXR_ANDROID_ARCORE_DEVICE_PROVIDER_H_
 #define COMPONENTS_WEBXR_ANDROID_ARCORE_DEVICE_PROVIDER_H_
 

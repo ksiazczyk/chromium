@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Binary data histogram header
+// summary: Declares OutlierDetector, which flags outlier similarity scores using Chauvenet's criterion, and BinaryDataHistogram, which scores binary data similarity.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_BINARY_DATA_HISTOGRAM_H_
 #define COMPONENTS_ZUCCHINI_BINARY_DATA_HISTOGRAM_H_
 

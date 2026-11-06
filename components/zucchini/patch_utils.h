@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zucchini Patch Utilities
+// summary: Defines the packed Zucchini patch and element headers plus varint encoding and decoding helpers shared by patch reading and writing.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_PATCH_UTILS_H_
 #define COMPONENTS_ZUCCHINI_PATCH_UTILS_H_
 

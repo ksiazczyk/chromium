@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: WebXR component owners
+summary: OWNERS file naming the code owners for the WebXR component, including a dedicated owner for WebXR test related changes.

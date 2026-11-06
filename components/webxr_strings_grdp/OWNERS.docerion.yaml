@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for WebXR strings directory
+summary: Delegates ownership and review of this directory to the components/webxr OWNERS file.

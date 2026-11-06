@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zucchini file I/O integration implementation
+// summary: Implements file-based patch generation, application, and verification by wrapping the core Zucchini library with memory-mapped file I/O and error handling.
+// ---
+
 #include "components/zucchini/zucchini_integration.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Encoded view header
+// summary: Declares EncodedView, an iterator adapter over ImageIndex that projects references and raw bytes for equivalence matching.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_ENCODED_VIEW_H_
 #define COMPONENTS_ZUCCHINI_ENCODED_VIEW_H_
 

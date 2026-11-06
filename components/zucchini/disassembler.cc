@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zucchini disassembler base implementation
+// summary: Implements the Disassembler base class plus empty reference reader and writer helpers and ReferenceGroup factory methods for readers, writers, and mixers.
+// ---
+
 #include "components/zucchini/disassembler.h"
 
 #include "base/check_op.h"

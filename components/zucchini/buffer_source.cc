@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BufferSource parsing implementation
+// summary: Implements BufferSource methods for skipping bytes, checking and consuming byte sequences, extracting regions, and decoding ULEB128 and SLEB128 integers.
+// ---
+
 #include "components/zucchini/buffer_source.h"
 
 #include <algorithm>

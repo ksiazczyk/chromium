@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Android OpenXR platform helper implementation
+// summary: Android implementation of OpenXrPlatformHelper that initializes the OpenXR loader, creates graphics bindings, requests XR sessions and activities, and checks hardware and AR blend mode support.
+// ---
+
 #include "components/webxr/android/openxr_platform_helper_android.h"
 
 #include <vector>

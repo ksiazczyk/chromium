@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MailboxToSurfaceBridgeImpl implementation
+// summary: Implements the mailbox-to-surface bridge, creating and binding a viz context provider on a GL thread and managing sync tokens, GPU fences, and shared images.
+// ---
+
 #include "components/webxr/mailbox_to_surface_bridge_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for buffer views
+// summary: Tests size, emptiness, range construction, subscripting, sub-regions, shrinking, and typed read and write operations of ConstBufferView and MutableBufferView.
+// ---
+
 #include "components/zucchini/buffer_view.h"
 
 #include <stddef.h>

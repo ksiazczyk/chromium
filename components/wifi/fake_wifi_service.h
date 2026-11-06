@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake WiFi service header
+// summary: Declares FakeWiFiService, a fake WiFiService implementation used to satisfy networkingPrivateApi browser test expectations.
+// ---
+
 #ifndef COMPONENTS_WIFI_FAKE_WIFI_SERVICE_H_
 #define COMPONENTS_WIFI_FAKE_WIFI_SERVICE_H_
 

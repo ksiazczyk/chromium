@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Absolute address utilities declarations
+// summary: Declares classes for abs32 address handling and for extracting, reading, and writing Win32 abs32 references in binary images.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_ABS32_UTILS_H_
 #define COMPONENTS_ZUCCHINI_ABS32_UTILS_H_
 

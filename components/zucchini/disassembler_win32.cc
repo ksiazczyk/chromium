@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Win32 PE disassembler implementation
+// summary: Implements the Zucchini disassembler for Windows PE x86 and x64 executables, detecting headers and extracting reloc, abs32, and rel32 references.
+// ---
+
 #include "components/zucchini/disassembler_win32.h"
 
 #include <stddef.h>

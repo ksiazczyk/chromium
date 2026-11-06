@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zucchini disassembler base class definitions
+// summary: Declares the Disassembler interface for architecture-specific reference extraction and the ReferenceGroup helper that creates readers, writers, and mixers.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_DISASSEMBLER_H_
 #define COMPONENTS_ZUCCHINI_DISASSEMBLER_H_
 

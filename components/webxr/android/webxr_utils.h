@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebXR Android utilities header
+// summary: Declares the GetWebContents and GetJavaWebContents helpers used by Android WebXR code to obtain WebContents from a render frame host ID.
+// ---
+
 #ifndef COMPONENTS_WEBXR_ANDROID_WEBXR_UTILS_H_
 #define COMPONENTS_WEBXR_ANDROID_WEBXR_UTILS_H_
 

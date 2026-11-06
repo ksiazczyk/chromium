@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WinHTTP network fetcher unit tests
+// summary: Unit tests for the WinHTTP NetworkFetcher covering invalid URLs, null session handles, and gzip-compressed responses using an embedded test server.
+// ---
+
 #include "components/winhttp/network_fetcher.h"
 
 #include <memory>

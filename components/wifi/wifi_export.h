@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WiFi export macro header
+// summary: Defines the WIFI_EXPORT macro controlling symbol visibility and DLL import or export for component builds.
+// ---
+
 #ifndef COMPONENTS_WIFI_WIFI_EXPORT_H_
 #define COMPONENTS_WIFI_WIFI_EXPORT_H_
 

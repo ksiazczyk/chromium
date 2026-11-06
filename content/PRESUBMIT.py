@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for content
+# summary: Runs presubmit checks that warn against new DCHECKs in navigation code and enforce Ruff and formatting rules on upload and commit.
+# ---
+
 """Presubmit script for content/.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

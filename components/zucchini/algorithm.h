@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Low-level algorithm utilities header
+// summary: Header of template utilities for low-level computation, including range checks, clamping, alignment, sort-and-unique, and bit extraction helpers.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_ALGORITHM_H_
 #define COMPONENTS_ZUCCHINI_ALGORITHM_H_
 

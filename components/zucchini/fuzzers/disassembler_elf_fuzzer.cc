@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer for the ELF disassemblers
+// summary: libFuzzer target that treats input as an ELF x86 or x64 image and reads and rewrites its references through the Zucchini ELF disassemblers.
+// ---
+
 #include "components/zucchini/disassembler_elf.h"
 
 #include <stddef.h>

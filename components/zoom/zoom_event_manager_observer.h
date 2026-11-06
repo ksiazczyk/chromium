@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZoomEventManagerObserver interface
+// summary: Defines the observer interface with hooks for zoom level and default zoom level change notifications from the ZoomEventManager.
+// ---
+
 #ifndef COMPONENTS_ZOOM_ZOOM_EVENT_MANAGER_OBSERVER_H_
 #define COMPONENTS_ZOOM_ZOOM_EVENT_MANAGER_OBSERVER_H_
 

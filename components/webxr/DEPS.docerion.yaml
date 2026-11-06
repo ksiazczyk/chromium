@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: WebXR component include rules
+summary: DEPS file listing allowed include paths for the component and disallowing direct use of openxr_platform.h in favor of the device/vr wrapper header.

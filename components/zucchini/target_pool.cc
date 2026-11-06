@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Target pool implementation
+// summary: Implements TargetPool methods for inserting, deduplicating and looking up reference targets by offset or key.
+// ---
+
 #include "components/zucchini/target_pool.h"
 
 #include <algorithm>

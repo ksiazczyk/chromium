@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Executable element detection implementation
+// summary: Creates disassemblers for supported executable formats and detects executable elements within images, gated by build flags.
+// ---
+
 #include "components/zucchini/element_detection.h"
 
 #include <algorithm>

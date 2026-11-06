@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARM branch utilities header
+// summary: Header defining ARM branch instruction terminology and declaring translators for encoding and decoding displacements in ARM, THUMB2, and AArch64 modes.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_ARM_UTILS_H_
 #define COMPONENTS_ZUCCHINI_ARM_UTILS_H_
 

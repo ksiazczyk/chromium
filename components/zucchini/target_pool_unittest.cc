@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Target pool unit tests
+// summary: Unit tests for inserting targets from references and for key lookup by exact and nearest offset.
+// ---
+
 #include "components/zucchini/target_pool.h"
 
 #include <cmath>

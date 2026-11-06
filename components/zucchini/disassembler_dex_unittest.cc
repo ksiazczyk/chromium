@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DEX disassembler unit tests
+// summary: Unit test verifying that DisassemblerDex reference groups cover each reference type exactly once and are grouped by pool in sorted order.
+// ---
+
 #include "components/zucchini/disassembler_dex.h"
 
 #include <stddef.h>

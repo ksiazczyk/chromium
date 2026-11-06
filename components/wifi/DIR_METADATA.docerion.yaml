@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: WiFi component directory metadata
+summary: Declares the issue tracker component, team email and buganizer component ID used for triaging bugs in the wifi directory.

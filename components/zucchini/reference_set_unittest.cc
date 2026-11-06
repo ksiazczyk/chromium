@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reference Set Unit Tests
+// summary: Unit tests for ReferenceSet covering initialization from a reader and offset-based lookup of references spanning fixed widths.
+// ---
+
 #include "components/zucchini/reference_set.h"
 
 #include <vector>

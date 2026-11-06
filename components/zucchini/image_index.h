@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image Index header
+// summary: Declares ImageIndex, a class holding per-byte annotations of an image for quick access to raw and reference content during patch generation.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_IMAGE_INDEX_H_
 #define COMPONENTS_ZUCCHINI_IMAGE_INDEX_H_
 

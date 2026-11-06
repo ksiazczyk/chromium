@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARCore install helper class declaration
+// summary: Declares the content::XrInstallHelper that ensures ARCore is installed from the store, plus the ArCoreAvailability enum mirroring the Java API.
+// ---
+
 #ifndef COMPONENTS_WEBXR_ANDROID_ARCORE_INSTALL_HELPER_H_
 #define COMPONENTS_WEBXR_ANDROID_ARCORE_INSTALL_HELPER_H_
 

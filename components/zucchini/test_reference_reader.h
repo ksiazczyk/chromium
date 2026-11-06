@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestReferenceReader class declaration
+// summary: Declares TestReferenceReader, a trivial ReferenceReader that reads a vector of injected references for tests.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_TEST_REFERENCE_READER_H_
 #define COMPONENTS_ZUCCHINI_TEST_REFERENCE_READER_H_
 

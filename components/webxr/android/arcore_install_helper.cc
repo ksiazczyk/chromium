@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARCore install helper implementation
+// summary: Checks ARCore availability via Java install utils and shows install or update messages to the user before reporting the install result.
+// ---
+
 #include "components/webxr/android/arcore_install_helper.h"
 
 #include <memory>

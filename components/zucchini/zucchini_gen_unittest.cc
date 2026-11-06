@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ZucchiniGen unit tests
+// summary: Unit tests for Zucchini patch generation helpers, covering FindExtraTargets and GenerateReferencesDelta with reference sets, target pools, and equivalence maps.
+// ---
+
 #include "components/zucchini/zucchini_gen.h"
 
 #include <stdint.h>

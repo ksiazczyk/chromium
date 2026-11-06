@@ -1,0 +1,4 @@
+# Docerion header of wifi_service_mac_unittest.mm.
+type: test
+title: Unit test for macOS WiFiService notification safety
+summary: Verifies that a CoreWLAN SSID-change notification delivered after the macOS WiFiService is destroyed does not touch the freed service.

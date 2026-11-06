@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preset zoom factors JSON helper
+// summary: Implements GetPresetZoomFactorsAsJSON, serializing Blink's preset browser zoom factors into a JSON string.
+// ---
+
 #include "components/zoom/page_zoom_constants.h"
 
 #include "base/json/json_writer.h"

@@ -1,3 +1,8 @@
+---
+type: readme
+title: Zucchini ensemble patch format documentation
+summary: Explains Zucchini's binary patching concepts, interfaces, and ensemble patch format, and includes a format changelog for versions 1.0 and 2.0.
+---
 
 ## Basic Definitions for Patching
 

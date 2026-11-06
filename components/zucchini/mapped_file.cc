@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory-mapped file reader and writer implementation
+// summary: Implements mapping files into memory for reading and writing, including delete-on-close and keep behavior.
+// ---
+
 #include "components/zucchini/mapped_file.h"
 
 #include <utility>

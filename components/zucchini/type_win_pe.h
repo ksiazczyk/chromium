@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows PE file format type definitions
+// summary: Defines PE structures and constants taken from WINNT.h, such as DOS, file, optional, and section headers, for parsing executables.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_TYPE_WIN_PE_H_
 #define COMPONENTS_ZUCCHINI_TYPE_WIN_PE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Imposed Ensemble Matcher implementation
+// summary: Implements ImposedMatchParser for user-specified match strings and ImposedEnsembleMatcher, validating offsets, sizes, overlaps, and executable types of imposed element matches.
+// ---
+
 #include "components/zucchini/imposed_ensemble_matcher.h"
 
 #include <algorithm>

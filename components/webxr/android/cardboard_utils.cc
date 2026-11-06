@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cardboard JNI utilities for testing
+// summary: JNI bridge exposing native test hooks for Cardboard, such as forcing Cardboard V1 device params, enabling the mock Cardboard SDK, and checking that the QR code scanner was launched.
+// ---
+
 #include "base/android/jni_android.h"
 #include "base/logging.h"
 #include "components/webxr/android/cardboard_device_provider.h"

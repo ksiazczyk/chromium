@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArCompositorDelegate
+// summary: Interface used by ArOverlayDelegate to communicate with the compositor for WebXR DOM Overlay, including immersive AR mode toggling and touch dispatch.
+// ---
+
 package org.chromium.components.webxr;
 
 import android.view.MotionEvent;

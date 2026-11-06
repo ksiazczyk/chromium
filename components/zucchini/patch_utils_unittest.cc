@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Patch Utilities Unit Tests
+// summary: Unit tests verifying VarUInt and VarInt encode/decode round trips across boundary values, powers of two, and malformed input handling.
+// ---
+
 #include "components/zucchini/patch_utils.h"
 
 #include <stdint.h>

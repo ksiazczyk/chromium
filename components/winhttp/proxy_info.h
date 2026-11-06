@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyInfo struct for WinHTTP proxy settings
+// summary: Declares the ProxyInfo struct holding auto-detect flags, PAC URL, named proxy, and bypass strings for WinHTTP proxy configuration.
+// ---
+
 #ifndef COMPONENTS_WINHTTP_PROXY_INFO_H_
 #define COMPONENTS_WINHTTP_PROXY_INFO_H_
 

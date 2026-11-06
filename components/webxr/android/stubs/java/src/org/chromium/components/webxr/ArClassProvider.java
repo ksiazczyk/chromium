@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArClassProvider stub for builds without ARCore
+// summary: Stub version of ArClassProvider compiled when enable_arcore is false, returning null for the overlay delegate and mirroring the real class's method signatures.
+// ---
+
 package org.chromium.components.webxr;
 
 import org.chromium.build.annotations.NullMarked;

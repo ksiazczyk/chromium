@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARM utilities unit tests
+// summary: Unit tests for ARM branch instruction encode and decode logic across AArch32 and AArch64 encodings, using bit-pattern based test helpers.
+// ---
+
 #include "components/zucchini/arm_utils.h"
 
 #include <stddef.h>

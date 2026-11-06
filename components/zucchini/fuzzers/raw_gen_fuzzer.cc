@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Raw patch generation fuzzer
+// summary: libFuzzer proto target that fuzzes raw Zucchini patch generation and crashes when the generated patch exceeds twice the maximum image size.
+// ---
+
 #include <stdint.h>
 
 #include <iostream>

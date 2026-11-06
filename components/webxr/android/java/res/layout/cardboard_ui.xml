@@ -4,6 +4,13 @@ Copyright 2023 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Cardboard UI Android layout
+summary: Android layout XML for the WebXR Cardboard UI, holding the surface view, back and settings buttons, and a bottom alignment marker.
+-->
+
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/relLayout"
     android:layout_width="match_parent"

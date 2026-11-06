@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zucchini patch reader implementation
+// summary: Parses patch element headers and decodes equivalence and delta data from Zucchini patch streams.
+// ---
+
 #include "components/zucchini/patch_reader.h"
 
 #include <type_traits>

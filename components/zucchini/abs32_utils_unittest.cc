@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for abs32 utilities
+// summary: Tests AbsoluteAddress read, write, and RVA translation behavior for 32- and 64-bit images, including overflow and boundary cases.
+// ---
+
 #include "components/zucchini/abs32_utils.h"
 
 #include <stdint.h>

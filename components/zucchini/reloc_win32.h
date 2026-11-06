@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Win32 relocation header
+// summary: Declares RelocUnitWin32, RelocRvaReaderWin32, and RelocReaderWin32 for parsing Win32 PE relocation tables into references.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_RELOC_WIN32_H_
 #define COMPONENTS_ZUCCHINI_RELOC_WIN32_H_
 

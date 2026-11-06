@@ -1,3 +1,12 @@
+---
+type: readme
+title: Content module overview
+summary: Explains the purpose of the content module, its separation from chrome, the architectural layering, the Content API and ownership.
+relations:
+  - references /content/architecture.png
+  - references /content/public/README.md
+---
+
 # Content module
 
 ## High-level overview

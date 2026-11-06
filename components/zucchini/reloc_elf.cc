@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ELF relocation reader and writer
+// summary: Implements reading and writing of ELF relocation references, including resolution of overlapping relocation sections for 32- and 64-bit ELF images.
+// ---
+
 #include "components/zucchini/reloc_elf.h"
 
 #include <stddef.h>

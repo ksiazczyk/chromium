@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: WebXR component build definition
+summary: GN build file that defines the Android-only webxr source_set with its sources and dependencies on viz, content, gpu, and device/vr.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Element detection unit tests
+// summary: Unit tests for ElementFinder using a mock archive format to verify detection of executable elements in images.
+// ---
+
 #include "components/zucchini/element_detection.h"
 
 #include <map>
