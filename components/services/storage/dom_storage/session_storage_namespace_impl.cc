@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session storage namespace implementation
+// summary: Implements SessionStorageNamespaceImpl population, cloning and per-storage-key area management for session storage namespaces backed by the DOM storage database.
+// ---
+
 #include "components/services/storage/dom_storage/session_storage_namespace_impl.h"
 
 #include <algorithm>

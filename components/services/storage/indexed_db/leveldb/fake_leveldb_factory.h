@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake LevelDB factory for flaky, breakable, and broken databases
+// summary: Declares FakeLevelDBFactory, which creates flaky, breakable, and broken LevelDB database instances with queued failure points for testing.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_INDEXED_DB_LEVELDB_FAKE_LEVELDB_FACTORY_H_
 #define COMPONENTS_SERVICES_STORAGE_INDEXED_DB_LEVELDB_FAKE_LEVELDB_FACTORY_H_
 

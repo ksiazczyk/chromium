@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the storage service test API
+// summary: Implements the Mojo TestApi interface with a CrashNow hook and forced LevelDB database compaction, and injects the implementation for testing.
+// ---
+
 #include "components/services/storage/test_api/test_api.h"
 
 #include "base/check.h"

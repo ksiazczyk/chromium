@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transactional LevelDB iterator implementation
+// summary: Implements TransactionalLevelDBIterator, an evictable LevelDB iterator that stays current with database changes and skips scopes metadata entries.
+// ---
+
 #include "components/services/storage/indexed_db/transactional_leveldb/transactional_leveldb_iterator.h"
 
 #include <utility>

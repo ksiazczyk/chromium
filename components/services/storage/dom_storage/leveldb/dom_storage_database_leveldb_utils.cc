@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM storage LevelDB database utilities implementation
+// summary: Implements CreatePrefixedKey, which concatenates a prefix and a key into a single DOM storage database key.
+// ---
+
 #include "components/services/storage/dom_storage/leveldb/dom_storage_database_leveldb_utils.h"
 
 namespace storage {

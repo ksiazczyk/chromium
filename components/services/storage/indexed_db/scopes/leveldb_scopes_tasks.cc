@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LevelDB Scopes Task Implementations
+// summary: Implements the base scope task plus cleanup and revert scope tasks that submit write batches, delete ranges and reclaim space in LevelDB.
+// ---
+
 #include "components/services/storage/indexed_db/scopes/leveldb_scopes_tasks.h"
 
 #include <cinttypes>

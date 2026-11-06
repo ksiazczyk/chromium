@@ -1,0 +1,4 @@
+# Docerion header of .clang-tidy.
+type: config
+title: .clang-tidy
+summary: Clang-tidy configuration that inherits the parent directory config and enables the misc-include-cleaner check.

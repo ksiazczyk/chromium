@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ServiceWorkerStorage unit tests
+// summary: Unit tests for ServiceWorkerStorage, covering registration data creation, deletion, resource records, and disk cache interactions in the service worker storage layer.
+// ---
+
 #include "components/services/storage/service_worker/service_worker_storage.h"
 
 #include <stdint.h>

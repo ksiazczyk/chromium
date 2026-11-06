@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceWorkerDiskCache implementation
+// summary: Implements the disk cache wrapper that creates, opens, and dooms cache entries for service worker resources on disk or in memory.
+// ---
+
 #include "components/services/storage/service_worker/service_worker_disk_cache.h"
 
 #include <limits>

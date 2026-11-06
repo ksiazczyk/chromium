@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transactional LevelDB factory implementation
+// summary: Implements DefaultTransactionalLevelDBFactory, creating databases, transactions, direct transactions and iterators for the transactional LevelDB layer.
+// ---
+
 #include "components/services/storage/indexed_db/transactional_leveldb/transactional_leveldb_factory.h"
 
 #include "base/memory/ptr_util.h"

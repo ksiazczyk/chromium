@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Storage service include dependency rules
+summary: Lists the directories whose headers the storage service may include, such as prefs, net, blink, sql, leveldatabase, snappy, and zstd.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session storage area implementation header
+// summary: Declares SessionStorageAreaImpl, which binds renderer StorageArea connections and supports shallow cloning of session storage areas.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_DOM_STORAGE_SESSION_STORAGE_AREA_IMPL_H_
 #define COMPONENTS_SERVICES_STORAGE_DOM_STORAGE_SESSION_STORAGE_AREA_IMPL_H_
 

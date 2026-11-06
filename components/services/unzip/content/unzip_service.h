@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unzipper service launcher header
+// summary: Declares LaunchUnzipper for launching the isolated Unzipper service and SetUnzipperLaunchOverrideForTesting for using in-process instances in tests.
+// ---
+
 #ifndef COMPONENTS_SERVICES_UNZIP_CONTENT_UNZIP_SERVICE_H_
 #define COMPONENTS_SERVICES_UNZIP_CONTENT_UNZIP_SERVICE_H_
 

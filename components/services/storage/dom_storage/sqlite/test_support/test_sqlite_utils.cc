@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQLite test utilities implementation
+// summary: Implements test helpers that corrupt a SQLite database header with zeros and drop the meta table, for exercising DOM Storage recovery paths.
+// ---
+
 #include "components/services/storage/dom_storage/sqlite/test_support/test_sqlite_utils.h"
 
 #include <array>

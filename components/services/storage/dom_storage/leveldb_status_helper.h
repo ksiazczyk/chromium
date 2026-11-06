@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LevelDB status conversion declaration
+// summary: Declares FromLevelDBStatus, which maps a leveldb::Status to a storage::DbStatus with the matching error type.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_DOM_STORAGE_LEVELDB_STATUS_HELPER_H_
 #define COMPONENTS_SERVICES_STORAGE_DOM_STORAGE_LEVELDB_STATUS_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-process unzipper launcher implementation
+// summary: Launches an in-process Unzipper service on a background task runner and binds it as a self-owned Mojo receiver.
+// ---
+
 #include "components/services/unzip/in_process_unzipper.h"
 
 #include <utility>

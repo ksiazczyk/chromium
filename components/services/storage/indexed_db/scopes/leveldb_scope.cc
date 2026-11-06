@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LevelDBScope implementation
+// summary: Implements the LevelDBScope write-only transaction, including the undo log writer that records revert tasks for write batch entries.
+// ---
+
 #include "components/services/storage/indexed_db/scopes/leveldb_scope.h"
 
 #include <limits>

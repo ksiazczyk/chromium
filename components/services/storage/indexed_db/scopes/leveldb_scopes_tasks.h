@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LevelDB Scopes Task Class Declarations
+// summary: Declares the LevelDBScopesTask base class and the CleanupScopeTask and RevertScopeTask classes for undo log and cleanup handling.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_INDEXED_DB_SCOPES_LEVELDB_SCOPES_TASKS_H_
 #define COMPONENTS_SERVICES_STORAGE_INDEXED_DB_SCOPES_LEVELDB_SCOPES_TASKS_H_
 

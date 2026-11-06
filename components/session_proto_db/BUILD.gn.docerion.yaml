@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for session_proto_db
+summary: Defines GN source sets, a unit test target, and a test proto library for the session_proto_db component.

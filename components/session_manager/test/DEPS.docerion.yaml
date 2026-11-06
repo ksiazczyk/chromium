@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for session manager test support
+summary: DEPS file allowing the test support code to include headers from components/user_manager and components/session_manager/core.

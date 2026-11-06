@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the LocalStorageLevelDB database
+// summary: Unit tests verifying local storage LevelDB entries, metadata parsing, and database version handling for the LocalStorageLevelDB implementation.
+// ---
+
 #include "components/services/storage/dom_storage/leveldb/local_storage_leveldb.h"
 
 #include <stdint.h>

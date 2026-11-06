@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Database status code declaration
+// summary: Declares the DbStatus status type with error categories, the StatusOr result alias, and error-handling macros for database operations.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_DOM_STORAGE_DB_STATUS_H_
 #define COMPONENTS_SERVICES_STORAGE_DOM_STORAGE_DB_STATUS_H_
 

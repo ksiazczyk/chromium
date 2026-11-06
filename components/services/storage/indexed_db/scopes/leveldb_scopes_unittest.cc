@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LevelDB Scopes Unit Tests
+// summary: Unit tests covering LevelDBScopes startup, recovery cleanup, scope ID advancement and revert handling with locks.
+// ---
+
 #include "components/services/storage/indexed_db/scopes/leveldb_scopes.h"
 
 #include <limits>

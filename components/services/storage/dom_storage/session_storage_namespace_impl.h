@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session storage namespace header
+// summary: Declares SessionStorageNamespaceImpl, the Blink SessionStorageNamespace implementation supporting copy-on-write shallow cloning and per-storage-key areas.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_DOM_STORAGE_SESSION_STORAGE_NAMESPACE_IMPL_H_
 #define COMPONENTS_SERVICES_STORAGE_DOM_STORAGE_SESSION_STORAGE_NAMESPACE_IMPL_H_
 

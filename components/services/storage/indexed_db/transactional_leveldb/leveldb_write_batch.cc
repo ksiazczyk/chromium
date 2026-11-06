@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LevelDB write batch implementation
+// summary: Implements LevelDBWriteBatch, a wrapper around leveldb::WriteBatch that applies Put, Remove and Clear updates atomically to a database.
+// ---
+
 #include "components/services/storage/indexed_db/transactional_leveldb/leveldb_write_batch.h"
 
 #include "base/memory/ptr_util.h"

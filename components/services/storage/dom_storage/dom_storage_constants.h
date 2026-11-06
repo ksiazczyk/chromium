@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM storage constants
+// summary: Defines DOM storage constants such as per-area quota, stale bucket cutoff, commit error threshold, and the SQLite migration staging extension.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_DOM_STORAGE_DOM_STORAGE_CONSTANTS_H_
 #define COMPONENTS_SERVICES_STORAGE_DOM_STORAGE_DOM_STORAGE_CONSTANTS_H_
 

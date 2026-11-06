@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalStorageSqlite implementation
+// summary: Implements the SQLite-backed DOM storage database for local storage, including schema creation, map metadata handling, and SQL error histograms.
+// ---
+
 #include "components/services/storage/dom_storage/sqlite/local_storage_sqlite.h"
 
 #include "base/byte_size.h"

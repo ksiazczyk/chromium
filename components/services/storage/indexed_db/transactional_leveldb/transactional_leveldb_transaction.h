@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transactional LevelDB transaction header
+// summary: Declares TransactionalLevelDBTransaction, a read-committed atomic transaction over the database backed by the LevelDBScopes system.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_INDEXED_DB_TRANSACTIONAL_LEVELDB_TRANSACTIONAL_LEVELDB_TRANSACTION_H_
 #define COMPONENTS_SERVICES_STORAGE_INDEXED_DB_TRANSACTIONAL_LEVELDB_TRANSACTIONAL_LEVELDB_TRANSACTION_H_
 

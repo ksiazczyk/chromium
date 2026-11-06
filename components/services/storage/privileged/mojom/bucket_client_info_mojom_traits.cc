@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BucketClientInfo Mojo typemap deserialization implementation
+// summary: Implements StructTraits::Read, validating context and document token types when converting Mojo data into storage::BucketClientInfo.
+// ---
+
 #include "components/services/storage/privileged/mojom/bucket_client_info_mojom_traits.h"
 
 #include "third_party/blink/public/common/tokens/tokens_mojom_traits.h"

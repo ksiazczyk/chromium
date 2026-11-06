@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StorageAreaImpl unit tests
+// summary: Unit tests for StorageAreaImpl covering cache modes, session storage maps, commit behavior, rate limiting, and database interactions.
+// ---
+
 #include "components/services/storage/dom_storage/storage_area_impl.h"
 
 #include <list>

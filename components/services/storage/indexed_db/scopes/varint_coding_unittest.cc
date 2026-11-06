@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Varint Coding Unit Tests
+// summary: Unit tests verifying varint encoding and decoding of int64 values, covering size expectations, round trips, unaligned access, embedded zero bytes, and junk bits in the top byte.
+// ---
+
 
 #include "components/services/storage/indexed_db/scopes/varint_coding.h"
 

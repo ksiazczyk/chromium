@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local storage metadata protobuf definitions
+// summary: Defines protobuf messages for local storage area access and write metadata such as last accessed, last modified and size in bytes.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

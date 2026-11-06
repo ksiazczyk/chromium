@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the DOM storage LevelDB component
+summary: GN build file defining the local_storage_proto protobuf library target built from local_storage_database.proto.

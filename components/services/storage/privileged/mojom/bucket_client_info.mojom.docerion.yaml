@@ -1,0 +1,4 @@
+# Docerion header of bucket_client_info.mojom.
+type: source
+title: BucketClientInfo Mojom struct definition
+summary: Defines the Mojo struct describing the browser-process client of a storage bucket, typemapped to storage::BucketClientInfo.

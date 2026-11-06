@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceWorkerDiskCache class declaration
+// summary: Declares ServiceWorkerDiskCache and its entry class, thin wrappers around the net disk cache used to store service worker resources.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_SERVICE_WORKER_SERVICE_WORKER_DISK_CACHE_H_
 #define COMPONENTS_SERVICES_STORAGE_SERVICE_WORKER_SERVICE_WORKER_DISK_CACHE_H_
 

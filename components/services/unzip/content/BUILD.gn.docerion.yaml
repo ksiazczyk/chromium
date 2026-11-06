@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the unzip content source set
+summary: Defines the content source set containing unzip_service sources and its dependencies on base, strings, content, the unzip mojom, and Mojo bindings.

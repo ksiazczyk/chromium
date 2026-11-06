@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MapEntriesTable class declaration
+// summary: Declares the MapEntriesTable helper that creates and manipulates the map_entries table storing key/value pairs for multiple maps.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_DOM_STORAGE_SQLITE_MAP_ENTRIES_TABLE_H_
 #define COMPONENTS_SERVICES_STORAGE_DOM_STORAGE_SQLITE_MAP_ENTRIES_TABLE_H_
 

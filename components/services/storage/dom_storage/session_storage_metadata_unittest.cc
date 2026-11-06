@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session storage metadata unit tests
+// summary: Unit tests for SessionStorageMetadata verifying metadata initialization, map registration, namespace cloning and persistence across database backends.
+// ---
+
 #include "components/services/storage/dom_storage/session_storage_metadata.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LocalStorageSqlite unit tests
+// summary: Unit tests covering LocalStorageSqlite operations such as opening on-disk or in-memory databases, metadata updates, and map key/value handling.
+// ---
+
 #include "components/services/storage/dom_storage/sqlite/local_storage_sqlite.h"
 
 #include "base/files/file_path.h"

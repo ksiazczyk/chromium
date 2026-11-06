@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM storage StorageAreaImpl implementation
+// summary: Implements the StorageArea mojo service that wraps the async DOM storage database with caching modes, size limits, commit throttling, and observer notifications.
+// ---
+
 #include "components/services/storage/dom_storage/storage_area_impl.h"
 
 #include <memory>

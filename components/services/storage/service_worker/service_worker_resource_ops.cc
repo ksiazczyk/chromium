@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker resource operations implementation
+// summary: Implements helpers that create, open, read and write service worker disk cache entries, including conversion of HTTP response info for storage.
+// ---
+
 #include "components/services/storage/service_worker/service_worker_resource_ops.h"
 
 #include "base/containers/span.h"

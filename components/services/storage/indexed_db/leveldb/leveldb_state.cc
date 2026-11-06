@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LevelDBState implementation for disk and in-memory databases
+// summary: Implements LevelDBState factory methods for disk-backed and in-memory databases plus one-time destruction signaling.
+// ---
+
 #include "components/services/storage/indexed_db/leveldb/leveldb_state.h"
 
 #include "base/location.h"

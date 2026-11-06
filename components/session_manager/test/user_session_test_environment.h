@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UserSessionTestEnvironment class declaration
+// summary: Declares the UserSessionTestEnvironment class and its Delegate interface for maintaining UserManager and SessionManager and performing common user session test operations.
+// ---
+
 #ifndef COMPONENTS_SESSION_MANAGER_TEST_USER_SESSION_TEST_ENVIRONMENT_H_
 #define COMPONENTS_SESSION_MANAGER_TEST_USER_SESSION_TEST_ENVIRONMENT_H_
 

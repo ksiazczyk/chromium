@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filesystem proxy factory interface
+// summary: Declares the factory callback and functions to set or create FilesystemProxy instances suited to sandboxed or unsandboxed execution environments.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_FILESYSTEM_PROXY_FACTORY_H_
 #define COMPONENTS_SERVICES_STORAGE_FILESYSTEM_PROXY_FACTORY_H_
 

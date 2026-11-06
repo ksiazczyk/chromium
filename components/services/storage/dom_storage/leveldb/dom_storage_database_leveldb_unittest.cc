@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DomStorageDatabaseLevelDB
+// summary: Tests opening, schema version validation, prefix reads, batch operations and simulated commit failures for the DOM storage LevelDB database.
+// ---
+
 #include "components/services/storage/dom_storage/leveldb/dom_storage_database_leveldb.h"
 
 #include <algorithm>

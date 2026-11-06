@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Async DOM storage database implementation
+// summary: Implements the asynchronous DOM storage database wrapper, including LevelDB-to-SQLite migration disk space checks, metrics recording, and open handling.
+// ---
+
 #include "components/services/storage/dom_storage/async_dom_storage_database.h"
 
 #include "base/files/file_path.h"

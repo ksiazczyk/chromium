@@ -1,3 +1,9 @@
+---
+type: readme
+title: SessionManager
+summary: Explains the directory's role in managing ChromeOS user sessions and how SessionManager and ChromeSessionManager fit into the login flow.
+---
+
 # SessionManager
 
 This directory contains files for managing ChromeOS user sessions. It is

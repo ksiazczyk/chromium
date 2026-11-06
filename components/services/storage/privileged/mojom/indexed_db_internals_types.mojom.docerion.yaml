@@ -1,0 +1,4 @@
+# Docerion header of indexed_db_internals_types.mojom.
+type: source
+title: IndexedDB internals metadata Mojom types
+summary: Defines Mojo structs and enums holding IndexedDB origin, bucket, database, and transaction metadata that is displayed in the IndexedDB internals debugging page.

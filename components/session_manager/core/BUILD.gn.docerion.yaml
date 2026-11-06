@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Session manager core build configuration
+summary: Defines the core component sources and dependencies plus a test_support static library with the fake delegate.

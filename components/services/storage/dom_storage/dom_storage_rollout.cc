@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM storage SQLite rollout helpers implementation
+// summary: Implements checks of the on-disk LevelDB state, metrics type selection, and experimental tag path handling for the SQLite rollout.
+// ---
+
 #include "components/services/storage/dom_storage/dom_storage_rollout.h"
 
 #include <memory>

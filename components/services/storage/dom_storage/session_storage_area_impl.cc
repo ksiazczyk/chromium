@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session storage area implementation
+// summary: Implements the per-namespace StorageArea binding for session storage, delegating to shared data maps and forking on writes for copy-on-write.
+// ---
+
 #include "components/services/storage/dom_storage/session_storage_area_impl.h"
 
 #include "base/check_op.h"

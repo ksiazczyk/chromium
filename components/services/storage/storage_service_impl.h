@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageServiceImpl class declaration
+// summary: Declares StorageServiceImpl, the root owner of storage service state that manages persistent and in-memory local and session storage instances.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_STORAGE_SERVICE_IMPL_H_
 #define COMPONENTS_SERVICES_STORAGE_STORAGE_SERVICE_IMPL_H_
 

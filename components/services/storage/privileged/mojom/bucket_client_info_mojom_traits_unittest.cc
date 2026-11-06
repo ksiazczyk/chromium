@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BucketClientInfo Mojom traits unit tests
+// summary: Unit tests verifying serialization round-trips and rejection of unexpected context or document tokens for BucketClientInfo.
+// ---
+
 #include "components/services/storage/privileged/mojom/bucket_client_info_mojom_traits.h"
 
 #include "base/unguessable_token.h"

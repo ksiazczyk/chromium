@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceWorkerDatabase LevelDB implementation
+// summary: Implements the LevelDB-backed database that persists service worker registrations, resources, user data, and schema versions.
+// ---
+
 #include "components/services/storage/service_worker/service_worker_database.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SessionProtoDB unit tests
+// summary: Unit tests for SessionProtoDB covering load, insert, delete, update, and maintenance operations using a fake database and test protos.
+// ---
+
 #include "components/session_proto_db/session_proto_db.h"
 
 #include <array>

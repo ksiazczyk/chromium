@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the unzip content folder
+summary: Grants code in this folder permission to include headers from content/public/browser.

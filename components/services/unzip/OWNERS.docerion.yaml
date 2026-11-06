@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the unzip service
+summary: Delegates ownership of this directory to the owners listed in components/update_client/OWNERS.

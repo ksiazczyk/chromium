@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test LevelDB utilities implementation
+// summary: Implements the ToBytes helper that copies a byte span into a vector for DOM storage LevelDB tests.
+// ---
+
 #include "components/services/storage/dom_storage/leveldb/test_support/test_leveldb_utils.h"
 
 namespace storage {

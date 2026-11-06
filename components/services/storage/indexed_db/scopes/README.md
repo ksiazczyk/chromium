@@ -1,3 +1,12 @@
+---
+type: readme
+title: LevelDB Scopes Implementation Design
+summary: Design document explaining the LevelDB scopes transaction system, its vocabulary, on-disk key and value formats, and operation flows.
+relations:
+  - documents /components/services/storage/indexed_db/scopes/leveldb_scopes_coding.h
+  - documents /components/services/storage/indexed_db/scopes/scopes_metadata.proto
+---
+
 # LevelDB Scopes Implementation Design
 
 This document is the implementation plan and design for LevelDB Scopes. It serves to both document the current state and the future plans for implementing LevelDB Scopes.

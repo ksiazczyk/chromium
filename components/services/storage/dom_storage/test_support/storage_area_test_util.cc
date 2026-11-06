@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage area test utilities implementation
+// summary: Implements synchronous wrappers for StorageArea mojo operations and a mock StorageAreaObserver used in storage area tests.
+// ---
+
 #include "components/services/storage/dom_storage/test_support/storage_area_test_util.h"
 
 #include "base/functional/bind.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for session_proto_db
+summary: Lists the include dependencies allowed for code in the session_proto_db directory.

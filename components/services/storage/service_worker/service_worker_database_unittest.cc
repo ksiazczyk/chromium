@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ServiceWorkerDatabase unit tests
+// summary: Unit tests covering registration, resource, and user data operations of the ServiceWorkerDatabase LevelDB store.
+// ---
+
 #include "components/services/storage/service_worker/service_worker_database.h"
 
 #include <stddef.h>

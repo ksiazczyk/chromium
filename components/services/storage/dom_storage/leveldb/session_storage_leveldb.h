@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionStorageLevelDB header for the session storage LevelDB schema
+// summary: Declares the SessionStorageLevelDB class and documents the session storage LevelDB schema with map, namespace, next-map-id and version keys.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_DOM_STORAGE_LEVELDB_SESSION_STORAGE_LEVELDB_H_
 #define COMPONENTS_SERVICES_STORAGE_DOM_STORAGE_LEVELDB_SESSION_STORAGE_LEVELDB_H_
 

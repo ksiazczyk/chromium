@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transactional LevelDB transaction implementation
+// summary: Implements TransactionalLevelDBTransaction, backing put, remove, range delete, get, commit and rollback operations with a LevelDBScope.
+// ---
+
 #include "components/services/storage/indexed_db/transactional_leveldb/transactional_leveldb_transaction.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session storage implementation
+// summary: Implements the SessionStorageControl service, managing namespaces, storage areas, cache limits, and the database backing for session storage.
+// ---
+
 #include "components/services/storage/dom_storage/session_storage_impl.h"
 
 #include <inttypes.h>

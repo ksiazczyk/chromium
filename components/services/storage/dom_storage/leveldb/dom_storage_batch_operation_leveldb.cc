@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM storage LevelDB batch operation implementation
+// summary: Implements DomStorageBatchOperationLevelDB, batching LevelDB puts and deletes with prefix delete, prefix copy and map update support.
+// ---
+
 #include "components/services/storage/dom_storage/leveldb/dom_storage_batch_operation_leveldb.h"
 
 #include <cstddef>

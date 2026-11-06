@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM storage SQLite rollout helpers declarations
+// summary: Declares the LevelDB on-disk state enum and helpers for rollout stage metrics and experimental tag paths.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_DOM_STORAGE_DOM_STORAGE_ROLLOUT_H_
 #define COMPONENTS_SERVICES_STORAGE_DOM_STORAGE_DOM_STORAGE_ROLLOUT_H_
 

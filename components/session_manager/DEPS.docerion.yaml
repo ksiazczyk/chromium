@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: SessionManager include rules
+summary: Declares the allowed include dependencies for the session_manager component, permitting components/account_id.

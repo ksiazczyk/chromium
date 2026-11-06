@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-process unzipper launcher header
+// summary: Declares LaunchInProcessUnzipper, which creates an in-process Unzipper service for testing or single-process runtimes such as iOS.
+// ---
+
 #ifndef COMPONENTS_SERVICES_UNZIP_IN_PROCESS_UNZIPPER_H_
 #define COMPONENTS_SERVICES_UNZIP_IN_PROCESS_UNZIPPER_H_
 

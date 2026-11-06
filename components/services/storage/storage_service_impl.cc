@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageServiceImpl implementation
+// summary: Implements the main StorageService Mojo interface, managing local and session storage instances, sandboxed VFS setup, and remote data directory binding.
+// ---
+
 #include "components/services/storage/storage_service_impl.h"
 
 #include "base/functional/bind.h"

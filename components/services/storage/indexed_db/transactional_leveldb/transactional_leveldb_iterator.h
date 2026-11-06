@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transactional LevelDB iterator header
+// summary: Declares TransactionalLevelDBIterator, an evictable iterator that tracks on-disk data for a transaction and can unload itself to save memory.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_INDEXED_DB_TRANSACTIONAL_LEVELDB_TRANSACTIONAL_LEVELDB_ITERATOR_H_
 #define COMPONENTS_SERVICES_STORAGE_INDEXED_DB_TRANSACTIONAL_LEVELDB_TRANSACTIONAL_LEVELDB_ITERATOR_H_
 

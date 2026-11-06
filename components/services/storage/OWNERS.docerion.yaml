@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Storage service code owners
+summary: Points to the storage directory OWNERS file that lists the reviewers responsible for changes here.

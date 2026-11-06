@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionProtoDB class header
+// summary: Defines a templated KeyedService wrapper around leveldb_proto offering per-session, per-proto storage with load, insert, delete, update, and maintenance APIs.
+// ---
+
 #ifndef COMPONENTS_SESSION_PROTO_DB_SESSION_PROTO_DB_H_
 #define COMPONENTS_SESSION_PROTO_DB_SESSION_PROTO_DB_H_
 

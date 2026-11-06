@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM storage recovery histogram implementation
+// summary: Implements histogram logging of DOM storage database recovery outcomes, recovery reasons, and commit error count metrics.
+// ---
+
 #include "components/services/storage/dom_storage/dom_storage_histogram_helper.h"
 
 #include "base/byte_size.h"

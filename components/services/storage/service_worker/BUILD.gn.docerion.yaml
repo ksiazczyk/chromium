@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for service worker storage targets
+summary: Defines the GN build targets for the service worker storage directory, including the proto_library rule that compiles service_worker_database.proto.

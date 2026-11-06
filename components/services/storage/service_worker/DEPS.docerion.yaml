@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for service worker storage
+summary: Specifies allowed include dependencies for the service worker storage directory, with extra rules for unit test files.

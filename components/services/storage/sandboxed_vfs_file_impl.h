@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandboxed VFS file interface
+// summary: Declares the SQLite VFS file class used in sandboxed processes, with a simplified whole-file locking strategy over base::File.
+// ---
+
 #ifndef COMPONENTS_SERVICES_STORAGE_SANDBOXED_VFS_FILE_IMPL_H_
 #define COMPONENTS_SERVICES_STORAGE_SANDBOXED_VFS_FILE_IMPL_H_
 

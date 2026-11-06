@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for session manager core
+summary: Allows the core component to include headers from components/user_manager.

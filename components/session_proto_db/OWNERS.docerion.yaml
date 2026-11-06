@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the session_proto_db folder
+summary: Lists the email addresses of the code owners responsible for the directory.

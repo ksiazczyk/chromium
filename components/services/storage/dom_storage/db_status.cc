@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Database status code implementation
+// summary: Implements the DbStatus class with factory methods for success and error states and histogram logging of status types.
+// ---
+
 #include "components/services/storage/dom_storage/db_status.h"
 
 #include <string>

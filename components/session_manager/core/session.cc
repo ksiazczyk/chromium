@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session class implementation
+// summary: Implements the Session constructor and destructor that store a session ID and account ID.
+// ---
+
 #include "components/session_manager/core/session.h"
 
 namespace session_manager {

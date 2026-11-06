@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session storage area unit tests
+// summary: Unit tests for SessionStorageAreaImpl covering put, delete, cloning, and observer behavior across database backends.
+// ---
+
 #include "components/services/storage/dom_storage/session_storage_area_impl.h"
 
 #include <algorithm>
