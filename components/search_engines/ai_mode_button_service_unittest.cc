@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AI Mode button service unit tests
+// summary: Unit tests verifying the AI Mode button config for Google and non-Google default search engines, change callbacks, and related service behavior.
+// ---
+
 #include "components/search_engines/ai_mode_button_service.h"
 
 #include <memory>

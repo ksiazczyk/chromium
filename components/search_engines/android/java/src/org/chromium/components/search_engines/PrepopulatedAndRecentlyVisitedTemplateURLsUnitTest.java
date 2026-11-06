@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrepopulatedAndRecentlyVisitedTemplateURLs unit tests
+// summary: Robolectric unit tests verifying the constructor and getters of PrepopulatedAndRecentlyVisitedTemplateURLs.
+// ---
+
 package org.chromium.components.search_engines;
 
 import static org.junit.Assert.assertEquals;

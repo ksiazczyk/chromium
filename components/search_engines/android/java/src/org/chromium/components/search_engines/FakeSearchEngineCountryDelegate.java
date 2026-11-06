@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake search engine country delegate
+// summary: Fake SearchEngineCountryDelegate that simulates the device choice backend for debug builds and tests, reporting Ireland as the country and requiring a choice after three seconds.
+// ---
+
 package org.chromium.components.search_engines;
 
 import androidx.annotation.MainThread;

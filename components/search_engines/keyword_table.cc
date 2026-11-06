@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyword table implementation
+// summary: Implements the SQLite keywords table that stores search engine entries, including schema versioning, migration columns, and encrypted URL hash validation.
+// ---
+
 #include "components/search_engines/keyword_table.h"
 
 #include <stddef.h>

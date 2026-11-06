@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Command-line switches for search provider logos
+// summary: Defines switch names that override the Google doodle URL and the logo URLs for default and third-party search providers.
+// ---
+
 #include "components/search_provider_logos/switches.h"
 
 namespace search_provider_logos {

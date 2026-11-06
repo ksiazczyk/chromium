@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search engines test environment declarations
+// summary: Declares a test helper class that creates TemplateURLService and SearchEngineChoiceService without requiring callers to manage their dependencies.
+// ---
+
 #ifndef COMPONENTS_SEARCH_ENGINES_SEARCH_ENGINES_TEST_ENVIRONMENT_H_
 #define COMPONENTS_SEARCH_ENGINES_SEARCH_ENGINES_TEST_ENVIRONMENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine type lookup implementation
+// summary: Implements GetEngineType, matching a URL against prepopulated engines by domain and applying search engine type migration when the feature is enabled.
+// ---
+
 #include "components/search_engines/search_engine_utils.h"
 
 #include "base/not_fatal_until.h"

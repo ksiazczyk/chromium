@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TemplateURLService header
+// summary: Declares the TemplateURLService backend for keywords, which manages local and account search engines, sync, and persistence via KeywordWebDataService.
+// ---
+
 #ifndef COMPONENTS_SEARCH_ENGINES_TEMPLATE_URL_SERVICE_H_
 #define COMPONENTS_SEARCH_ENGINES_TEMPLATE_URL_SERVICE_H_
 

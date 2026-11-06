@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TemplateURLData implementation
+// summary: Implements TemplateURLData, the value type holding a search engine's fields, including deterministic GUID generation for prepopulated engines.
+// ---
+
 #include "components/search_engines/template_url_data.h"
 
 #include <string_view>

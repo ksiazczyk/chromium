@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the fixed logo API
+// summary: Verifies that fixed logo responses parse successfully and carry the expected logo metadata.
+// ---
+
 #include "components/search_provider_logos/fixed_logo_api.h"
 
 #include <string>

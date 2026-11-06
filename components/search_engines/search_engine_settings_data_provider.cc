@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchEngineSettingsDataProvider implementation
+// summary: Implements the provider that supplies categorized prepopulated, recently visited, and picker search engine data to settings UIs, including Android JNI support.
+// ---
+
 #include "components/search_engines/search_engine_settings_data_provider.h"
 
 #include <algorithm>

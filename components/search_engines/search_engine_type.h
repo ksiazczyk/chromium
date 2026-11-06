@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine type enums for UMA
+// summary: Defines persisted enums recording the user's default search engine choice and keyword-mode engine type for UMA, aligned with enums.xml.
+// ---
+
 #ifndef COMPONENTS_SEARCH_ENGINES_SEARCH_ENGINE_TYPE_H_
 #define COMPONENTS_SEARCH_ENGINES_SEARCH_ENGINE_TYPE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test base for the search engine choice service
+// summary: Implements shared test fixtures that set up prefs, policies, country overrides and the search engines environment for choice service tests.
+// ---
+
 #include "components/search_engines/search_engine_choice/search_engine_choice_service_test_base.h"
 
 #include "base/check_deref.h"

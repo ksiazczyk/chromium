@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default search policy handler unit tests
+// summary: Unit tests verifying how the default search policy handler validates and applies default search provider policies.
+// ---
+
 #include "components/search_engines/enterprise/default_search_policy_handler.h"
 
 #include <memory>

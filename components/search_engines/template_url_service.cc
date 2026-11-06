@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TemplateURLService implementation
+// summary: Implements the TemplateURLService backend that stores and syncs local and account search engines, manages the default search provider, and persists TemplateURLs.
+// ---
+
 #include "components/search_engines/template_url_service.h"
 
 #include <algorithm>

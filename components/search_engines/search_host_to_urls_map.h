@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchHostToURLsMap class declaration
+// summary: Declares SearchHostToURLsMap, a host-to-TemplateURL lookup map initialized from a set of search engines and updated as engines change.
+// ---
+
 #ifndef COMPONENTS_SEARCH_ENGINES_SEARCH_HOST_TO_URLS_MAP_H_
 #define COMPONENTS_SEARCH_ENGINES_SEARCH_HOST_TO_URLS_MAP_H_
 

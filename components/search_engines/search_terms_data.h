@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchTermsData class declaration
+// summary: Declares SearchTermsData, the provider of values such as the Google base URL and application locale needed to expand search terms in TemplateURLs.
+// ---
+
 #ifndef COMPONENTS_SEARCH_ENGINES_SEARCH_TERMS_DATA_H_
 #define COMPONENTS_SEARCH_ENGINES_SEARCH_TERMS_DATA_H_
 

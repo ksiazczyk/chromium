@@ -1,0 +1,4 @@
+# Docerion header of ai_mode_button_config_schema.json.
+type: config
+title: AI Mode Button Config Schema
+summary: Schema describing the AiModeButtonConfig fields used by json_to_struct code generation.

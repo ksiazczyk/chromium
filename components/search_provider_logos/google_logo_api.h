@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google doodle API declarations
+// summary: Declares functions to build Google doodle URLs, append fingerprint parameters, and parse doodle logo responses.
+// ---
+
 #ifndef COMPONENTS_SEARCH_PROVIDER_LOGOS_GOOGLE_LOGO_API_H_
 #define COMPONENTS_SEARCH_PROVIDER_LOGOS_GOOGLE_LOGO_API_H_
 

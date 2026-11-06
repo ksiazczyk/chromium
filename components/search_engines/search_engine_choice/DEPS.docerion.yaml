@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for search engine choice
+summary: Grants search_engine_choice_service.cc an include exception to access a regional capabilities country access reason header.

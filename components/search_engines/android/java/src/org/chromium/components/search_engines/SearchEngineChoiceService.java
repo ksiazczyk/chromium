@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Search engine choice service
+// summary: Singleton that exposes device-level properties such as device country and choice requirements for search engine choice screens, bridging Java to the native service.
+// ---
+
 package org.chromium.components.search_engines;
 
 import androidx.annotation.IntDef;

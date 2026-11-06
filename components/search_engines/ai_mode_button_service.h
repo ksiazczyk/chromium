@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI Mode button service class declarations
+// summary: Declares the AI Mode button UI config struct and a keyed service that tracks the default search engine and notifies listeners when the config changes.
+// ---
+
 #ifndef COMPONENTS_SEARCH_ENGINES_AI_MODE_BUTTON_SERVICE_H_
 #define COMPONENTS_SEARCH_ENGINES_AI_MODE_BUTTON_SERVICE_H_
 

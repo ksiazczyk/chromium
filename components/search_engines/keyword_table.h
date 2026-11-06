@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyword table class declaration
+// summary: Declares KeywordTable, which manages the keywords table in the web database, and documents its schema and meta table version keys.
+// ---
+
 #ifndef COMPONENTS_SEARCH_ENGINES_KEYWORD_TABLE_H_
 #define COMPONENTS_SEARCH_ENGINES_KEYWORD_TABLE_H_
 

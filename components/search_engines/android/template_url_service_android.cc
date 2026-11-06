@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI implementation of TemplateUrlService for Android
+// summary: Implements the Java-facing wrapper of TemplateURLService, including Play API search engine creation, default search provider handling, and search URL expansion.
+// ---
+
 #include "components/search_engines/android/template_url_service_android.h"
 
 #include <stddef.h>

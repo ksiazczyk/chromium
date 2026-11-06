@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default search engine choice location enum
+// summary: Defines the enum of locations from which the default search engine was set, such as settings pages, choice screens, and device choice import.
+// ---
+
 #ifndef COMPONENTS_SEARCH_ENGINES_CHOICE_MADE_LOCATION_H_
 #define COMPONENTS_SEARCH_ENGINES_CHOICE_MADE_LOCATION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search engines test environment implementation
+// summary: Implements a test environment that wires up TemplateURLService and SearchEngineChoiceService with fake dependencies and configurable service factories.
+// ---
+
 #include "components/search_engines/search_engines_test_environment.h"
 
 #include <utility>

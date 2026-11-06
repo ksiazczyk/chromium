@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SearchHostToURLsMap unit tests
+// summary: Unit tests covering add, remove, and host lookup behavior of SearchHostToURLsMap, including best-match selection among conflicting engines.
+// ---
+
 #include "components/search_engines/search_host_to_urls_map.h"
 
 #include <stddef.h>

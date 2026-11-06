@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReconcilingTemplateURLDataHolder header
+// summary: Declares a TemplateURLData holder that reconciles supplied search engine definitions with Chrome built-in prepopulated engines, including reconciliation type enums.
+// ---
+
 #ifndef COMPONENTS_SEARCH_ENGINES_RECONCILING_TEMPLATE_URL_DATA_HOLDER_H_
 #define COMPONENTS_SEARCH_ENGINES_RECONCILING_TEMPLATE_URL_DATA_HOLDER_H_
 

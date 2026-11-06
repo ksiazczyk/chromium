@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenSearch description document fetcher implementation
+// summary: Downloads OpenSearch description documents in the background and adds the resulting search providers to the TemplateURLService.
+// ---
+
 #include "components/search_engines/template_url_fetcher.h"
 
 #include <algorithm>

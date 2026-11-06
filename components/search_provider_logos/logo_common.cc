@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common logo struct implementations
+// summary: Defines constructors and the 30-day maximum cache lifetime constant for the shared logo types.
+// ---
+
 #include "components/search_provider_logos/logo_common.h"
 
 #include <stdint.h>

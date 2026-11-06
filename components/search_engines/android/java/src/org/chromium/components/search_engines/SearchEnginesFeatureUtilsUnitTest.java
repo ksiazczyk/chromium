@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SearchEnginesFeatureUtils
+// summary: Robolectric unit tests checking that the choice APIs debug and fake backend command-line switches are detected correctly by the feature utilities.
+// ---
+
 package org.chromium.components.search_engines;
 
 import static org.junit.Assert.assertFalse;

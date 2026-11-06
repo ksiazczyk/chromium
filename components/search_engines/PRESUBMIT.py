@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Search Engines Presubmit Checks
+# summary: Presubmit script warning when prepopulated_engines.json changes without updating kCurrentDataVersion.
+# ---
+
 """Presubmit script for changes affecting components/search_engines/
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

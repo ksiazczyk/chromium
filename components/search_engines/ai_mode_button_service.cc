@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI Mode button service implementation
+// summary: Implements the AI Mode button service that builds the AI Mode entry point UI config from the default search engine and notifies observers when it changes.
+// ---
+
 #include "components/search_engines/ai_mode_button_service.h"
 
 #include <string>

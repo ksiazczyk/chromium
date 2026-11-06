@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Directory Include Rules
+summary: Specifies allowed include dependencies and per-file exceptions for the search engines directory.

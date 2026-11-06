@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine policy field validators implementation
+// summary: Implements validation checks for enterprise search engine policy fields, such as empty names, whitespace or @ symbols in shortcuts, and URLs missing search term replacement, adding policy errors.
+// ---
+
 #include "components/search_engines/enterprise/search_engine_fields_validators.h"
 
 #include "base/feature_list.h"

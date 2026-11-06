@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Search engine country delegate
+// summary: Abstract delegate defining the device APIs behind the search engine choice experiences, such as device country lookup, OS default browser choice state and device choice dialog events.
+// ---
+
 package org.chromium.components.search_engines;
 
 import android.content.Context;

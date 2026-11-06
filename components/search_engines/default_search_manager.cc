@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default search manager implementation
+// summary: Implements loading and writing of the user's default search engine selection to and from preferences, including policy, extension, and fallback sources.
+// ---
+
 #include "components/search_engines/default_search_manager.h"
 
 #include <memory>

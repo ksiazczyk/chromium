@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchHostToURLsMap implementation
+// summary: Implements SearchHostToURLsMap, which maintains a mapping from search provider hosts to TemplateURLs for efficient host-based lookups.
+// ---
+
 #include "components/search_engines/search_host_to_urls_map.h"
 
 #include <algorithm>

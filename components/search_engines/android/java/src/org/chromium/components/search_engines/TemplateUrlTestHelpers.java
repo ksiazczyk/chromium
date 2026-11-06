@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock TemplateUrl test helpers
+// summary: Test helper that builds mock TemplateUrl objects with configurable keyword, prepopulated id, last visited time and native pointer for use in unit tests.
+// ---
+
 package org.chromium.components.search_engines;
 
 import static org.mockito.Mockito.lenient;

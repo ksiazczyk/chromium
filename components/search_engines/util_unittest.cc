@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search engine utility unit tests
+// summary: Unit tests verifying validation of search engine names, keywords and URLs, and fixing up search engine URLs via TemplateURLService.
+// ---
+
 #include "components/search_engines/util.h"
 
 #include <string>

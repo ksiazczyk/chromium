@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TemplateURL implementation
+// summary: Implements TemplateURL and TemplateURLRef, which represent search engines and replace placeholders like {searchTerms} in their URLs.
+// ---
+
 #include "components/search_engines/template_url.h"
 
 #include <algorithm>

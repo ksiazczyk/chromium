@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine utility functions header
+// summary: Declares utilities for default search engine names and URLs, validation of engine names, keywords and URLs, and merging TemplateURL engine data.
+// ---
+
 #ifndef COMPONENTS_SEARCH_ENGINES_UTIL_H_
 #define COMPONENTS_SEARCH_ENGINES_UTIL_H_
 

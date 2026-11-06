@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine choice service implementation
+// summary: Implements the keyed service managing search engine choice state, screen eligibility, policies, country information and related metrics.
+// ---
+
 #include "components/search_engines/search_engine_choice/search_engine_choice_service.h"
 
 #include <inttypes.h>

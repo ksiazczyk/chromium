@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the android search engines folder
+summary: Delegates code review ownership for this directory to the chrome/android OWNERS file.

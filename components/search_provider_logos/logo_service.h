@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Logo service interface
+// summary: Declares a per-profile KeyedService that delivers cached and fresh search provider logos via callbacks or an observer.
+// ---
+
 #ifndef COMPONENTS_SEARCH_PROVIDER_LOGOS_LOGO_SERVICE_H_
 #define COMPONENTS_SEARCH_PROVIDER_LOGOS_LOGO_SERVICE_H_
 

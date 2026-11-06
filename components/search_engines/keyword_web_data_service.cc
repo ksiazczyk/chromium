@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeywordWebDataService implementation
+// summary: Implements the web data service that persists search engine keyword data to the web database, running keyword table operations on a background thread.
+// ---
+
 #include "components/search_engines/keyword_web_data_service.h"
 
 #include "base/functional/bind.h"

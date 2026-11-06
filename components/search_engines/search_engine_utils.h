@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine type lookup declaration
+// summary: Declares GetEngineType, which maps a GURL to the matching well-known search engine type enum and is safe to call on any thread.
+// ---
+
 #ifndef COMPONENTS_SEARCH_ENGINES_SEARCH_ENGINE_UTILS_H_
 #define COMPONENTS_SEARCH_ENGINES_SEARCH_ENGINE_UTILS_H_
 

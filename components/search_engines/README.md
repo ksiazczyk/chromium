@@ -1,3 +1,13 @@
+---
+type: readme
+title: Search Engines Component
+summary: Explains the component's purpose, key classes, directory layout and contacts for the search engines code.
+relations:
+  - documents /components/search_engines/template_url_service.h
+  - documents /components/search_engines/template_url.h
+  - documents /components/search_engines/default_search_manager.h
+---
+
 # Search Engines Component
 
 ## What is the Search Engines Component?

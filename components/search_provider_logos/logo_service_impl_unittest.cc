@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the logo service implementation
+// summary: Unit tests covering logo downloading, parsing, caching and observer callbacks for the logo service.
+// ---
+
 #include "components/search_provider_logos/logo_service_impl.h"
 
 #include <stddef.h>

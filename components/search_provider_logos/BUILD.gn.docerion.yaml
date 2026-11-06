@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the search_provider_logos component
+summary: Defines the static library targets, dependencies, and unit test bundle data for the search provider logos component.

@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Search engine drawable mappings
+summary: Maps search engine identifiers such as Google, Gemini, AI mode, and the default engine to their corresponding drawable icon resources for the Android UI.
+-->
+
 <resources>
     <drawable name="search_engine_google">@drawable/ic_logo_googleg_20dp</drawable>
     <drawable name="search_engine_gemini">@drawable/ic_spark_24dp</drawable>

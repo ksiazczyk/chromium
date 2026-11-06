@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prepopulated search engine resolver implementation
+// summary: Implements the Resolver keyed service that returns prepopulated search engines for the profile's country and computes keyword database update requirements.
+// ---
+
 #include "components/search_engines/template_url_prepopulate_data_resolver.h"
 
 #include <optional>

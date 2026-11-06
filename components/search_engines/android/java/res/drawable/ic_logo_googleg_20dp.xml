@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Google G logo vector drawable (20dp)
+summary: Android vector drawable rendering the four-color Google G logo at 20dp inside a 24dp frame, used as an icon in the search engines UI.
+-->
+
 <!-- 20dp google g in a 24dp frame. -->
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
      android:width="24dp"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenSearch description document parser API
+// summary: Declares TemplateURLParser for reading TemplateURLs from OpenSearch description documents with optional parameter filtering.
+// ---
+
 #ifndef COMPONENTS_SEARCH_ENGINES_TEMPLATE_URL_PARSER_H_
 #define COMPONENTS_SEARCH_ENGINES_TEMPLATE_URL_PARSER_H_
 

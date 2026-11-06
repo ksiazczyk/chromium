@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Testing search terms data declarations
+// summary: Declares TestingSearchTermsData, a test double for SearchTermsData with a configurable Google base URL and search client.
+// ---
+
 #ifndef COMPONENTS_SEARCH_ENGINES_TESTING_SEARCH_TERMS_DATA_H_
 #define COMPONENTS_SEARCH_ENGINES_TESTING_SEARCH_TERMS_DATA_H_
 

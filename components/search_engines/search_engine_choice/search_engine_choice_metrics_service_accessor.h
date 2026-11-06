@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics service accessor for search engine choice
+// summary: Header declaring a class that limits and documents access to metrics service helpers for the search engine choice service and its tests.
+// ---
+
 #ifndef COMPONENTS_SEARCH_ENGINES_SEARCH_ENGINE_CHOICE_SEARCH_ENGINE_CHOICE_METRICS_SERVICE_ACCESSOR_H_
 #define COMPONENTS_SEARCH_ENGINES_SEARCH_ENGINE_CHOICE_SEARCH_ENGINE_CHOICE_METRICS_SERVICE_ACCESSOR_H_
 

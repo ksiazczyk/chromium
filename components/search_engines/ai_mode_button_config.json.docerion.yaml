@@ -1,0 +1,4 @@
+# Docerion header of ai_mode_button_config.json.
+type: config
+title: AI Mode Button Configuration
+summary: Defines the AI mode button config entries aggregated into the kAiModeButtonConfigs array at build time.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prepopulated and recently visited TemplateURLs container
+// summary: Container that pairs the lists of prepopulated and recently visited search engines, created from native code through JNI.
+// ---
+
 package org.chromium.components.search_engines;
 
 import androidx.annotation.VisibleForTesting;

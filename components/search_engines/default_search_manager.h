@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default search manager class declaration
+// summary: Declares DefaultSearchManager, which stores the user's default search engine selection in prefs and defines the data keys and choice sources.
+// ---
+
 #ifndef COMPONENTS_SEARCH_ENGINES_DEFAULT_SEARCH_MANAGER_H_
 #define COMPONENTS_SEARCH_ENGINES_DEFAULT_SEARCH_MANAGER_H_
 

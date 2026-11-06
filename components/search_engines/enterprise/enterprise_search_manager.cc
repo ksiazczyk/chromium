@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise search manager implementation
+// summary: Implements the manager that loads site search and search aggregator engines from enterprise policy preferences and notifies observers of changes.
+// ---
+
 #include "components/search_engines/enterprise/enterprise_search_manager.h"
 
 #include <algorithm>

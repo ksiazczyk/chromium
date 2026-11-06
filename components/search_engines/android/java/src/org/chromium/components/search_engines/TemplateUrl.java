@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TemplateUrl Java wrapper
+// summary: Java wrapper around the native TemplateURL object exposing search engine details such as name, keyword, URL, favicon, starter pack id and prepopulated id.
+// ---
+
 package org.chromium.components.search_engines;
 
 import android.graphics.Bitmap;

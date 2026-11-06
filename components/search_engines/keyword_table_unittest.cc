@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keyword table unit tests
+// summary: Unit tests for KeywordTable covering adding, updating, and removing keywords, database initialization, and encrypted URL hash verification.
+// ---
+
 #include "components/search_engines/keyword_table.h"
 
 #include <array>

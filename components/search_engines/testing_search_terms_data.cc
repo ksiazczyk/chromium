@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Testing search terms data implementation
+// summary: Implements a fake SearchTermsData with a fixed Google base URL and canned RLZ and search client values for use in tests.
+// ---
+
 #include "components/search_engines/testing_search_terms_data.h"
 
 #include "base/strings/utf_string_conversions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engines switches and features implementation
+// summary: Defines command-line switches and feature flags controlling the choice screen, choice invalidation on device restore, and other search engine behaviors.
+// ---
+
 #include "components/search_engines/search_engines_switches.h"
 
 #include "base/check.h"

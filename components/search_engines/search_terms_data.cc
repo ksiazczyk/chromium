@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchTermsData implementation
+// summary: Implements SearchTermsData and a snapshot variant that caches values like the Google base URL and locale for thread-safe search URL building.
+// ---
+
 #include "components/search_engines/search_terms_data.h"
 #include <memory>
 

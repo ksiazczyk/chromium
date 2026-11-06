@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TemplateURL class declarations
+// summary: Declares TemplateURLRef and TemplateURL, the classes modeling search engine URLs with replaceable search term parameters and related metadata.
+// ---
+
 #ifndef COMPONENTS_SEARCH_ENGINES_TEMPLATE_URL_H_
 #define COMPONENTS_SEARCH_ENGINES_TEMPLATE_URL_H_
 

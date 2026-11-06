@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search engine choice utils unit tests
+// summary: Unit tests for search engine choice utilities, verifying display state serialization and helper behaviour with test pref services and histogram checks.
+// ---
+
 #include "components/search_engines/search_engine_choice/search_engine_choice_utils.h"
 
 #include <memory>

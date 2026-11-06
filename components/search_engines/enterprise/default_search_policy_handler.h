@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default search policy handler header
+// summary: Declares the DefaultSearchPolicyHandler class that checks and applies default search provider policies.
+// ---
+
 #ifndef COMPONENTS_SEARCH_ENGINES_ENTERPRISE_DEFAULT_SEARCH_POLICY_HANDLER_H_
 #define COMPONENTS_SEARCH_ENGINES_ENTERPRISE_DEFAULT_SEARCH_POLICY_HANDLER_H_
 
