@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Script size limit browser tests
+// summary: Service worker running chrome.test cases that verify chrome.scripting.registerContentScripts rejects scripts exceeding per-script and per-extension size limits.
+// ---
+
 import {getInjectedElementIds, openTab} from '/_test_resources/test_util/tabs_util.js';
 
 function getFileTooLargeError(fileName) {

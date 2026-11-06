@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: worker.js removeCSS API test service worker
+// summary: Extension service worker that runs insertCSS and removeCSS API tests and verifies colors across frames.
+// ---
+
 'use strict';
 
 // The original color of the page that we're injecting into.

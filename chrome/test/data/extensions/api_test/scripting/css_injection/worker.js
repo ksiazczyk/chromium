@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker tests for scripting API CSS injection
+// summary: Extension service worker running chrome.test cases that inject CSS strings and files via the scripting API and verify resulting body background colors across frames.
+// ---
+
 import {getSingleTab} from '/_test_resources/test_util/tabs_util.js';
 
 const CSS_GREEN = 'body { background-color: green !important }';

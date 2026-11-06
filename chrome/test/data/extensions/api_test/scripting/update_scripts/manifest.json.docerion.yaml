@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Dynamic content script test extension manifest
+summary: Manifest of the test extension used to exercise chrome.scripting.updateContentScripts via a module service worker.

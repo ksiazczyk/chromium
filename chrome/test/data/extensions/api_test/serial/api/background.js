@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.serial API test background script
+// summary: Background script for the chrome.serial end-to-end browser test that connects to a serial port, sends and receives buffers, checks control signals, and verifies disconnect behavior.
+// ---
+
 const serial = chrome.serial;
 
 // TODO(miket): opening Bluetooth ports on OSX is unreliable. Investigate.

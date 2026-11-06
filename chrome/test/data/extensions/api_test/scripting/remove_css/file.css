@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: test
+title: file.css green color injection fixture
+summary: 'CSS file injected by the removeCSS test to set the #main element color to green.'
+*/
+
 #main {
   color: green !important;
 }

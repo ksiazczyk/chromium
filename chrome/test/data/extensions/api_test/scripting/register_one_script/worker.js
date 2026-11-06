@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker registering one content script
+// summary: Extension service worker that registers a persistent content script via chrome.scripting and asserts exactly one script is registered.
+// ---
+
 chrome.test.runTests([
   async function registerOneScript() {
     const scriptsToRegister = [

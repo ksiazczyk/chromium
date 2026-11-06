@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Scripting API test extension manifest
+summary: Manifest for the Scripting API browser test extension, declaring scripting and tabs permissions, a module service worker, and host permissions for example.com.

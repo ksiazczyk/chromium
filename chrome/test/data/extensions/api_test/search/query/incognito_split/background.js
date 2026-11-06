@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search API incognito split test background script
+// summary: Background script of a test extension that runs chrome.test checks verifying search query results load in incognito tabs under split incognito mode.
+// ---
+
 const assertEq = chrome.test.assertEq;
 const assertLastError = chrome.test.assertLastError;
 const assertNoLastError = chrome.test.assertNoLastError;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker test for script injection in PDF frames
+// summary: Service worker that verifies chrome.scripting.executeScript with allFrames targets only the main frame and PDF embed frame, not the PDF extension or inner embed frames.
+// ---
+
 import {getSingleTab} from '/_test_resources/test_util/tabs_util.js';
 
 function injectedFunction() {

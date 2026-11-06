@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for chrome.serial real hardware test app
+summary: Chrome app manifest declaring the background script and the serial permission for the end-to-end real-hardware chrome.serial API test.

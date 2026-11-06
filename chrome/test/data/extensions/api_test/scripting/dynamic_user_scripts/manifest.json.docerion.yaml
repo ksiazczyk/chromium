@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the dynamic user scripts test extension
+summary: Manifest for the test extension that runs dynamic content script tests alongside user scripts, with scripting, tabs and userScripts permissions.

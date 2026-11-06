@@ -2,4 +2,10 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: test
+title: CSS file test fixture for scripting API injection
+summary: CSS fixture injected by the scripting API test that turns the page background yellow.
+*/
+
 body { background-color: yellow !important }

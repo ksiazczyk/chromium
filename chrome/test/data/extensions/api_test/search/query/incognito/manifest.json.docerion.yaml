@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the incognito search query test extension
+summary: Manifest version 3 fixture declaring the search and tabs permissions and the background service worker used by the incognito search API tests.

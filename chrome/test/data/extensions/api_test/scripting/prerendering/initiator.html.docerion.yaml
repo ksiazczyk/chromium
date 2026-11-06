@@ -1,0 +1,4 @@
+# Docerion header of initiator.html.
+type: test
+title: Initiator page that prerenders prerendering.html
+summary: Test page using speculation rules to trigger prerendering of prerendering.html for the scripting API test.

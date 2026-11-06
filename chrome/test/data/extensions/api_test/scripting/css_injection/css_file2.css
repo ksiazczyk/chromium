@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: test
+title: Second CSS file test fixture for scripting API injection
+summary: CSS fixture injected by the scripting API test that sets a purple background and a very large font size.
+*/
+
 body {
   background-color: purple !important;
   font-size: 1337px;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scripting API sub-frame injection tests
+// summary: Service worker running chrome.test cases that verify chrome.scripting.executeScript injection into top frames, disallowed frames, and specific single or multiple sub-frames by frame and document IDs.
+// ---
+
 import {findDocumentIdWithHostname, findFrameIdWithHostname, findFrameWithHostname, getFramesInTab, getSingleTab} from '/_test_resources/test_util/tabs_util.js';
 
 function injectedFunction() {

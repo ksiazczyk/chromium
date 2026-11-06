@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: removeCSS test extension manifest
+summary: Manifest for the removeCSS test extension declaring scripting and webNavigation permissions.

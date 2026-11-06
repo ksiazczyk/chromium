@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Serial getDevices failure test manifest
+summary: Manifest version 2 app manifest for the chrome.serial.getDevices failure test, loading background.js and requesting the serial permission.

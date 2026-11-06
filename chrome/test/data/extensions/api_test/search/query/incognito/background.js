@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Incognito search query API test background script
+// summary: Background service worker running browser tests that verify chrome.search.query displays results in a specified or current incognito tab.
+// ---
+
 const assertEq = chrome.test.assertEq;
 const assertNoLastError = chrome.test.assertNoLastError;
 const assertTrue = chrome.test.assertTrue;

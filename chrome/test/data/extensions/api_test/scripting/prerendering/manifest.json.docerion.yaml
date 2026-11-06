@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Scripting API prerendering test extension manifest
+summary: Manifest for the test extension declaring scripting, tabs, webRequest and storage permissions and worker.js as service worker.

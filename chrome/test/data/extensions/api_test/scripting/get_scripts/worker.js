@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker tests for getRegisteredContentScripts
+// summary: Runs browser tests verifying registration, default value population, id filtering, and unregistration behavior of chrome.scripting.getRegisteredContentScripts.
+// ---
+
 chrome.test.runTests([
   async function getRegisteredScripts() {
     // Calling getRegisteredContentScripts with no scripts registered should
