@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for account manager histograms
+summary: Lists the code owners and metric reviewers responsible for AccountManager histogram changes in this directory, with a backup review address.

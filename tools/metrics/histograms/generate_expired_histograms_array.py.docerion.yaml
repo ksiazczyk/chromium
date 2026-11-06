@@ -1,0 +1,4 @@
+# Docerion header of generate_expired_histograms_array.py.
+type: source
+title: Generator for expired histogram hash arrays
+summary: Builds a C++ header array of hashes for histograms whose expiry date or milestone has passed, applying grace periods.

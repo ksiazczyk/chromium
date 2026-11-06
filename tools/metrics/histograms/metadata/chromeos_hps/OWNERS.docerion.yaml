@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for chromeos_hps histogram metadata
+summary: Lists the code owners who review changes to ChromeOS HPS histogram definitions, with the metrics reviewers list as a per-file backup.

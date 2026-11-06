@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for GPU histogram metadata
+summary: Lists the owners and backup reviewer contact for changes to the GPU histogram metadata files in this directory.

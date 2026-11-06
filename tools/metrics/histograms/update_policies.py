@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Update EnterprisePolicies enum from policies.yaml
+# summary: Script that regenerates the EnterprisePolicies enum in the enterprise metadata enums.xml from policy definitions in policies.yaml, prompting before writing changes.
+# ---
+
 """Updates EnterprisePolicies enum in histograms.xml file with policy
 definitions read from policies.yaml.
 

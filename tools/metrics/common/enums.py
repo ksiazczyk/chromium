@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Enum usage discovery for metric XML files
+# summary: Collects the set of enum names referenced by parsed histograms and by metric files such as ukm.xml and dwa.xml.
+# ---
+
 import logging
 import xml.etree.ElementTree as ET
 

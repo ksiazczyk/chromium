@@ -1,0 +1,4 @@
+# Docerion header of validate_token.py.
+type: script
+title: Validate Histogram Token Variants
+summary: Checks that tokens in a given histograms XML file use variants defined in that file or in the global variants.xml.

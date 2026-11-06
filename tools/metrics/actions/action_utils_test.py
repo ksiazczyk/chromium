@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Tests for action_utils variant expansion
+# summary: Unit tests verifying that token variants in actions.xml expand correctly into user action names, including error cases.
+# ---
+
 import unittest
 import dataclasses
 import re

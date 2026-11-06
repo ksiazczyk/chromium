@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for the metrics metadata directory
+summary: Defines review ownership for the histograms metadata directory, requiring metrics reviewer approval and listing fallback reviewers and bot submitters.

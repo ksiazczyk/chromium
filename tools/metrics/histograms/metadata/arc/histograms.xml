@@ -18,6 +18,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: ARC UMA histogram definitions
+summary: Generates the comprehensive list of ARC histograms with detailed descriptions and variants for the Chromium metrics system.
+-->
+
 <histogram-configuration>
 
 <histograms>

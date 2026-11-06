@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Bruschetta histogram metadata OWNERS
+summary: Delegates ownership of the Bruschetta histogram metadata directory to the shared crostini OWNERS file.

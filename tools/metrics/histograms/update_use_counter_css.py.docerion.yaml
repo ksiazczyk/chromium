@@ -1,0 +1,4 @@
+# Docerion header of update_use_counter_css.py.
+type: script
+title: Update MappedCSSProperties enum from css_property_id.mojom
+summary: Script that scans the UseCounter CSS property ids and updates the MappedCSSProperties enum in the blink metadata enums.xml.

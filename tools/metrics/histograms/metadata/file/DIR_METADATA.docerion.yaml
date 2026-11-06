@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for file histogram metadata
+summary: Points the file histograms metadata directory at the shared file manager COMMON_METADATA mixins.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Cross-device metrics OWNERS
+summary: Lists owners for reviewing changes to cross-device histogram metadata and points metric reviewer requests to the shared METRIC_REVIEWER_OWNERS file.

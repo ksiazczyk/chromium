@@ -1,0 +1,4 @@
+# Docerion header of find_unmapped_histograms.py.
+type: script
+title: Find unmapped histograms in Chromium source
+summary: Heuristically scans C++ source for histogram macros and functions missing from histograms.xml.

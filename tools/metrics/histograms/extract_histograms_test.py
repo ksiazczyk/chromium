@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Tests for histogram XML extraction
+# summary: Unit tests covering extraction of histograms, tokens, and variants from XML definitions.
+# ---
+
 import logging
 import unittest
 import xml.dom.minidom

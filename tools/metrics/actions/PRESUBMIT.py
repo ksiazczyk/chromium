@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for actions.xml
+# summary: Presubmit script that verifies actions.xml is up to date and pretty-printed and checks expanded user action names for hash conflicts.
+# ---
+
 """Presubmit script for actions.xml.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Blink histogram metadata owners
+summary: Lists the owners responsible for reviewing Blink histogram metadata changes, with per-file rules delegating to the central metric reviewer owners list.

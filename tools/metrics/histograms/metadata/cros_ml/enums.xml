@@ -20,6 +20,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: ChromeOS ML Service histogram enums
+summary: Defines the enumerations referenced by the ChromeOS ML Service histogram entries in this directory.
+-->
+
 <histogram-configuration>
 
 <enums>

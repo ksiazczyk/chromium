@@ -1,0 +1,4 @@
+# Docerion header of generate_flag_enums_test.py.
+type: test
+title: Unit tests for generate_flag_enums
+summary: Tests generation of flag enum entries and their insertion and ordering in enums.xml.

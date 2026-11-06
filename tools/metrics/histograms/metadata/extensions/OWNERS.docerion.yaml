@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for extensions histogram metadata
+summary: Lists the metric reviewers responsible for changes to the extensions histograms metadata, with a fallback reviewer mailing list.

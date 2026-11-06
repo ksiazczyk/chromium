@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Tests for the enums model of histogram_configuration_model
+# summary: Verifies pretty-printing, ordering, and formatting rules for enums.xml content in the histogram configuration model.
+# ---
+
 from parameterized import parameterized  # type: ignore
 import unittest
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for feature engagement histogram metadata
+summary: Lists the code owners and backup reviewer address responsible for reviewing changes to feature engagement histogram metadata in this directory.

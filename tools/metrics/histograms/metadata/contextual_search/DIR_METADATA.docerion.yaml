@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Contextual Search metrics directory metadata
+summary: Points the contextual_search metrics directory to the shared COMMON_METADATA mixins under components/contextual_search.

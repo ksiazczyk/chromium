@@ -1,0 +1,4 @@
+# Docerion header of generate_flag_enums.py.
+type: source
+title: Generator for flag enum entries in enums.xml
+summary: Adds missing LoginCustomFlags enum entries for Chrome feature flags to enums.xml, derived from a feature name or unit test output.

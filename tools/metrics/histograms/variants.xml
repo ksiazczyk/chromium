@@ -4,6 +4,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: data
+title: Global Histogram Variants Definitions
+summary: Defines reusable histogram variants such as the ProfileIndex suffixes for aggregation across Chrome profiles, for use in histograms XML files.
+-->
+
 <histogram-configuration>
 
 <!-- LINT.IfChange(ProfileIndex) -->

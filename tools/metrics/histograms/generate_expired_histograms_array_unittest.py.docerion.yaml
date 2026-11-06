@@ -1,0 +1,4 @@
+# Docerion header of generate_expired_histograms_array_unittest.py.
+type: test
+title: Unit tests for generate_expired_histograms_array
+summary: Tests expired histogram filtering, base date parsing, and generated header file content.

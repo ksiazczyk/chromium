@@ -1,0 +1,4 @@
+# Docerion header of validate_histograms_index.py.
+type: script
+title: Validate Histograms Index File
+summary: Checks that the histograms_xml_files.gni index is up-to-date and reports an error prompting a rerun of histogram_paths.py when it is stale.

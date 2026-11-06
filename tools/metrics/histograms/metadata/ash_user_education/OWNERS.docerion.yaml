@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for ash_user_education metrics metadata
+summary: Lists the owners responsible for reviewing metric changes in this directory, with the central metric reviewers file and a Google group as fallbacks.

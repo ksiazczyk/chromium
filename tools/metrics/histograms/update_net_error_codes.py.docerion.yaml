@@ -1,0 +1,4 @@
+# Docerion header of update_net_error_codes.py.
+type: script
+title: Update NetErrorCodes enum from net_error_list.h
+summary: Script that refreshes the NetErrorCodes and CombinedHttpResponseAndNetErrorCode enums in enums.xml with values parsed from net_error_list.h.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for ChromeOS settings metrics metadata
+summary: Defines the code owners for this metrics metadata directory and points to the central metric reviewer owners list as a backup.

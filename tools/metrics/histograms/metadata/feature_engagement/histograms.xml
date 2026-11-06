@@ -18,6 +18,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: Feature engagement histogram definitions
+summary: XML metadata that defines and describes the histograms related to feature engagement, including in-product help feature variants, for generating the histogram documentation.
+-->
+
 <histogram-configuration>
 
 <histograms>

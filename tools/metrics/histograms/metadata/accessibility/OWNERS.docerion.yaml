@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for accessibility histogram metadata
+summary: Lists the code owners for accessibility metrics changes and points reviewers to the shared metric reviewer owners file.

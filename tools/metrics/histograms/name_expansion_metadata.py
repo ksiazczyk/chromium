@@ -1,6 +1,13 @@
 # Copyright 2023 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Patterned Histogram Name Structures
+# summary: Typed data structures describing variant and token tags used to expand patterned and suffixed histogram names.
+# ---
+
 """Data structures to expand patterned/suffixed histogram names.
 
 See here for specifications:

@@ -18,6 +18,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: data
+title: Dev histogram definitions
+summary: Lists the Dev histograms with owners, expiry dates and detailed descriptions used to generate Chrome's metrics documentation.
+-->
+
 <histogram-configuration>
 
 <histograms>

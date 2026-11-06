@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Print histogram names unit tests
+# summary: Unit tests for print_histogram_names.py covering sorted output, single-file opening, and git diff against mocked revisions.
+# ---
+
 import contextlib
 import io
 import pathlib

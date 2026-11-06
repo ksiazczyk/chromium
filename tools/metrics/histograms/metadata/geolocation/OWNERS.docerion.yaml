@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Geolocation metrics OWNERS
+summary: Lists the owners and backup reviewer contact for changes to geolocation histogram metadata files.

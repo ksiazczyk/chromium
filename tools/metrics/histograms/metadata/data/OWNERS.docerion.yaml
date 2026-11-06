@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for data histogram metadata
+summary: Routes reviews of the data histogram metadata to listed owners, with chromium-metrics-reviews@google.com as a backup reviewer address.

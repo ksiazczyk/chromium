@@ -18,6 +18,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: data
+title: Browser actuator histogram definitions
+summary: Defines browser_actuator histograms, payload type variants, owners and expiry dates for Chromium metrics reporting.
+-->
+
 <histogram-configuration>
 
 <histograms>

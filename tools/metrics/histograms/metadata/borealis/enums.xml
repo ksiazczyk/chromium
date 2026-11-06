@@ -20,6 +20,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: Borealis histogram enums
+summary: Defines enum types for Borealis histograms, covering audio path, install result, launch source and startup result values.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

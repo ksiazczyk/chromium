@@ -1,0 +1,4 @@
+# Docerion header of update_protocol_commands_enum.py.
+type: script
+title: Update CDPCommands enum from DevTools protocol PDL files
+summary: Script that hashes CDP commands from PDL protocol files and updates the CDPCommands enum in the dev metadata enums.xml, reporting hash collisions.

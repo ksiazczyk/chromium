@@ -1,0 +1,4 @@
+# Docerion header of merge_xml.py.
+type: script
+title: Merge Histogram XML Files
+summary: Merges multiple histograms XML files into a single sorted configuration, combining enums and optionally expanding owners.

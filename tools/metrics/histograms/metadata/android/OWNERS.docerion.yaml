@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Android metrics metadata OWNERS
+summary: Lists the code owners for Android histogram metadata and routes metric reviews to the central metrics reviewer owners file.

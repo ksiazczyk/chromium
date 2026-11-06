@@ -18,6 +18,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: data
+title: DataUse and DataReductionProxy histogram definitions
+summary: XML definitions of DataUse and DataReductionProxy histograms with owners, expiry dates, and descriptions, used to generate the histogram list.
+-->
+
 <histogram-configuration>
 
 <histograms>

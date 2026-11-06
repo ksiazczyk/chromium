@@ -20,6 +20,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: Download histogram enums
+summary: Defines the enumerations referenced by download histogram entries, with labeled integer values for events, sources, and service actions.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

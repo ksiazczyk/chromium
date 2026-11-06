@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for file histogram metadata
+summary: Lists the reviewers responsible for changes to the file histogram metadata, with the metric reviewer owners file as backup.

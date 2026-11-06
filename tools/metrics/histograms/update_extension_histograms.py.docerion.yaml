@@ -1,0 +1,4 @@
+# Docerion header of update_extension_histograms.py.
+type: source
+title: Update Extension Histogram Enums
+summary: Updates the ExtensionEvents and ExtensionFunctions enums in extensions enums.xml from the extension event and function histogram value headers.

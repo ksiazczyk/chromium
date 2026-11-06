@@ -1,6 +1,13 @@
 # Copyright 2015 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Utilities for parsing actions.xml and action suffixes
+# summary: Utility module that parses actions.xml and expands action tokens, variants, and suffixes into concrete user actions.
+# ---
+
 """A utility module for parsing and applying action suffixes in actions.xml.
 
 Note: There is a copy of this file used internally by the UMA processing

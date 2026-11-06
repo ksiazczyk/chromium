@@ -1,6 +1,13 @@
 # Copyright 2023 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: XML parsing and normalization helpers
+# summary: Helpers to parse XML files, extract tag subtrees, and normalize whitespace and attribute values, supporting both minidom and ElementTree.
+# ---
+
 """Helpers to parse content of xml files."""
 
 from collections.abc import Iterator

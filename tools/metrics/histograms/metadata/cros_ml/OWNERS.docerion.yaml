@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for cros_ml metrics metadata
+summary: Lists the owners and reviewer guidance for changes to the cros_ml metrics metadata, with a shared metric reviewer list as backup.

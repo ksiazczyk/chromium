@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for apps metrics metadata
+summary: Lists the owners responsible for reviewing changes to the apps histogram metadata, with a per-file rule referencing the shared metric reviewer owners.

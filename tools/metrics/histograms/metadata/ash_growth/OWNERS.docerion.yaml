@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Sets the metric reviewers for the ash_growth histograms metadata directory, delegating per-file review to the central metric reviewer owners list.

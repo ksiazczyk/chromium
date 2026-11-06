@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Bookmarks metrics owners
+summary: Lists the owners responsible for reviewing changes to bookmarks histogram metadata and points to the shared metric reviewer list.

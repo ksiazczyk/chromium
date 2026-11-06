@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: FastPair metrics directory metadata
+summary: Directory metadata for the FastPair histogram definitions, inheriting common settings from the ash quick_pair metadata via a mixin.

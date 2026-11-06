@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for Compose histogram metadata
+summary: Defines per-file owners and backup reviewer contacts for changes to the Compose metrics metadata in this directory.

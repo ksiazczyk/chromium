@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for Borealis histogram metadata
+summary: Lists metric reviewers for Borealis histogram metadata changes, with chromium-metrics-reviews@google.com as a backup contact.

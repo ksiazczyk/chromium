@@ -1,6 +1,13 @@
 # Copyright 2015 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Model types for metric description XML files
+# summary: Defines types for building models of the canonical structure of metric XML files, used to extract contents or convert back to canonicalized form.
+# ---
+
 """Types for building models of metric description xml files.
 
 UMA uses several XML files to allow clients to describe the metrics that they

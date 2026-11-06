@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: UTF-8 encoding helpers for metrics tools
+# summary: Provides a helper that reconfigures standard output and error streams to UTF-8 encoding for the printing metrics tools.
+# ---
+
 """Provides helpers to set the output encoding of the printing metrics tools"""
 
 import sys

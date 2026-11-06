@@ -1,0 +1,4 @@
+# Docerion header of codegen_shared_test.py.
+type: test
+title: Unit tests for codegen_shared hash functions
+summary: Verifies HashName and HashFieldTrialName against known hash values that must match Chromium's C++ unit tests.

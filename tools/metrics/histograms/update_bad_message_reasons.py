@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Update Bad Message Reason Enums
+# summary: Updates the BadMessage enum entries in stability enums.xml with values read from the various bad_message.h header files.
+# ---
+
 """Updates the various BadMessage enums in histograms.xml file with values read
 from the corresponding bad_message.h files.
 

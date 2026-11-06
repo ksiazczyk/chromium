@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Histograms tools OWNERS
+summary: Defines code owners and per-file review rules for the histograms metrics tooling directory.

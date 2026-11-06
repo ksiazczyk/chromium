@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for content_extraction histogram metadata
+summary: Sets owners and reviewer routing for changes to content_extraction histogram definitions, pointing to the metric reviewer owners list.

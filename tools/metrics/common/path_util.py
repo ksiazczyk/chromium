@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Path resolution utilities for metrics scripts
+# summary: Resolves input file paths relative to the Chromium source root and the metrics tools directory.
+# ---
+
 """Utility functions for resolving file paths in histograms scripts."""
 
 import pathlib

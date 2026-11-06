@@ -18,6 +18,12 @@ within about 5 minutes. This approach helps the metrics team to load-balance
 incoming reviews. Googlers can read more about this at go/gwsq-gerrit.
 -->
 
+<!--docerion
+type: data
+title: Chrome OS histogram definitions
+summary: Defines the comprehensive list of Chrome OS histograms with descriptions, variants, and owners used to generate metrics documentation.
+-->
+
 <histogram-configuration>
 
 <histograms>

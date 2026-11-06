@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Bluetooth metrics OWNERS
+summary: Lists the approved owners for Bluetooth histogram metadata changes, with the shared metrics reviewers file as a per-file fallback and a backup review address.

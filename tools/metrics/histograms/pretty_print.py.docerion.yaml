@@ -1,0 +1,4 @@
+# Docerion header of pretty_print.py.
+type: script
+title: Pretty-print histograms and enums XML
+summary: Command-line tool that pretty-prints histograms and enums XML files with standardized ordering, indentation, and unit spellings.

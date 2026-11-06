@@ -20,6 +20,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: Enum definitions for families histograms
+summary: Defines the enumerations referenced by the families histograms.xml, covering supervision enrollment states, URL filtering results and family link statuses.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

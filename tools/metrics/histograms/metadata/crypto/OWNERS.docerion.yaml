@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for crypto metrics metadata
+summary: Defines owners and review rules for the crypto histogram metadata, including per-file ownership of enums.xml and reviewer suggestions for TPM-related metrics.

@@ -1,0 +1,4 @@
+# Docerion header of remove_unused_enums.py.
+type: script
+title: Remove unused enums
+summary: Script that removes enum definitions no longer referenced by histograms from all enums.xml files.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Merge XML Tests
+# summary: Tests that multiple XML files merge correctly, including sorting of histograms and population of the UKM event name hash enum.
+# ---
+
 import io
 import unittest
 import xml.dom.minidom

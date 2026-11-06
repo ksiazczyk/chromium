@@ -19,6 +19,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: Content extraction histogram definitions
+summary: Defines content extraction histograms for the size, extraction time and validity of inner HTML and inner text, with owners and expiry dates.
+-->
+
 <histogram-configuration>
 
 <histograms>

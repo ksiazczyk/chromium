@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for Chrome histogram metadata
+summary: Lists the code owners and backup metric reviewers that changes to Chrome histogram metadata files in this directory should be sent to.

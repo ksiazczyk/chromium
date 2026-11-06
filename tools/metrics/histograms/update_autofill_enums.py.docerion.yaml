@@ -1,0 +1,4 @@
+# Docerion header of update_autofill_enums.py.
+type: source
+title: Update Autofill Histogram Enums
+summary: Synchronizes Autofill enums.xml and histograms.xml with FieldTypes defined in field_types.h and enums derived from the Autofill AI schema.

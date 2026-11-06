@@ -1,6 +1,13 @@
 # Copyright 2023 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Histogram metadata JSON format specification
+# summary: Defines TypedDict types for the histogram metadata JSON format, kept in sync with internal protobuf specifications.
+# ---
+
 """Histogram metadata format specification.
 
 This should be kept in sync with the protobuf specs in

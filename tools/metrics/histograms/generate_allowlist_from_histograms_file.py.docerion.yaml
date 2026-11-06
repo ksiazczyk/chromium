@@ -1,0 +1,4 @@
+# Docerion header of generate_allowlist_from_histograms_file.py.
+type: script
+title: Generate C++ allowlist headers from histograms XML
+summary: Generates a C++ header with a constexpr allowlist of enum or variant values from a histograms XML file.

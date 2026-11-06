@@ -20,6 +20,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: reference
+title: Contextual cueing histogram enums
+summary: Defines the enumeration values and labels, such as ContextualCueingDecision, referenced by the contextual cueing histogram definitions.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

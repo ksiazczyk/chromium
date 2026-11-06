@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Buganizer component for the dev metadata directory
+summary: Sets the Buganizer component used for issues in the dev histograms metadata directory.

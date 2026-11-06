@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Fingerprint metrics OWNERS
+summary: Lists the owners and metric reviewers responsible for changes to the fingerprint histogram metadata.

@@ -1,0 +1,4 @@
+# Docerion header of print_action_names.py.
+type: script
+title: Print user action names from actions.xml
+summary: Command-line tool that lists all user action names and can diff added, modified and removed actions against a git revision.

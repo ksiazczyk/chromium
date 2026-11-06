@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for AI metrics metadata
+summary: Lists the code owners and backup reviewer contacts that changes to the AI histogram metadata in this directory should be sent to.

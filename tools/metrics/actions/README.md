@@ -1,3 +1,9 @@
+---
+type: readme
+title: User Action Guidelines
+summary: Best-practice guide for emitting, documenting, testing, revising, and cleaning up Chrome user actions logged to the metrics dashboard.
+---
+
 # User Action Guidelines
 
 [TOC]

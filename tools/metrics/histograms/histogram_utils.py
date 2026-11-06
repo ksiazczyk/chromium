@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Histogram Parsing Utilities
+# summary: Utility functions for parsing histogram XML files, extracting histogram names, and detecting modified variants blocks.
+# ---
+
 """Utility functions for parsing and processing histogram XML files."""
 
 import copy

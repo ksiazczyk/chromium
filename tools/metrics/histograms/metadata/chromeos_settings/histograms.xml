@@ -18,6 +18,12 @@ within about 5 minutes. This approach helps the metrics team to load-balance
 incoming reviews. Googlers can read more about this at go/gwsq-gerrit.
 -->
 
+<!--docerion
+type: data
+title: ChromeOS Settings histogram definitions
+summary: Lists ChromeOS Settings histograms with names, owners, expiry dates and descriptions used to log user setting changes for metrics analysis.
+-->
+
 <histogram-configuration>
 
 <histograms>

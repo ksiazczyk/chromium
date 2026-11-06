@@ -20,6 +20,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: data
+title: Cross-device histogram enum definitions
+summary: Defines the enumerations referenced by cross-device histogram entries, covering CryptAuth, Android SMS and related multi-device metric labels.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

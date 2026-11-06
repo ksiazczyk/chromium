@@ -4,6 +4,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Game Mode histogram definitions
+summary: Defines ChromeOS Game Mode histograms for Borealis, recording game mode entry attempts, failures, and time spent in fullscreen games, with owners and expiry dates.
+-->
+
 <histogram-configuration>
 
 <histograms>

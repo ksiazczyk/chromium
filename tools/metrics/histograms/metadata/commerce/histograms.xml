@@ -12,6 +12,12 @@ For best practices on writing histogram descriptions, see
 https://chromium.googlesource.com/chromium/src.git/+/HEAD/tools/metrics/histograms/README.md
 -->
 
+<!--docerion
+type: data
+title: Commerce histogram definitions
+summary: Declares the Commerce histograms with owners, expiry dates, variants and descriptions used to generate the metrics list.
+-->
+
 <histogram-configuration>
 
 <histograms>

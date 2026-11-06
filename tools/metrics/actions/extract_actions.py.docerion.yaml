@@ -1,0 +1,4 @@
+# Docerion header of extract_actions.py.
+type: script
+title: Extract user actions from Chrome source
+summary: Scans the Chrome source for user metric action calls and regenerates actions.xml, pretty-printing and backing up the file when it changes.

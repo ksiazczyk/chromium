@@ -15,6 +15,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: Critical User Journey histograms.xml
+summary: Defines the CriticalUserJourney histograms with owners, expiry dates, and step-action variants, used to generate the metrics documentation.
+-->
+
 <histogram-configuration>
 
 <histograms>

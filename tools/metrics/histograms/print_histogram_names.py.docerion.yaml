@@ -1,0 +1,4 @@
+# Docerion header of print_histogram_names.py.
+type: script
+title: Print histogram names
+summary: Prints all histogram names, or the names added and removed relative to a git revision when --diff is given.
