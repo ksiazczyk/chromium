@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual sheet presenter protocol
+// summary: Declares the ContextualSheetPresenter protocol for inserting the contextual sheet into the view hierarchy.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTEXTUAL_PANEL_COORDINATOR_CONTEXTUAL_SHEET_PRESENTER_H_
 #define IOS_CHROME_BROWSER_CONTEXTUAL_PANEL_COORDINATOR_CONTEXTUAL_SHEET_PRESENTER_H_
 

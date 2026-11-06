@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential import conflict mutator protocol
+// summary: Declares a protocol through which the mediator continues importing the passwords and passkeys kept after conflict resolution.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DATA_IMPORT_UI_DATA_IMPORT_CREDENTIAL_CONFLICT_MUTATOR_H_
 #define IOS_CHROME_BROWSER_DATA_IMPORT_UI_DATA_IMPORT_CREDENTIAL_CONFLICT_MUTATOR_H_
 

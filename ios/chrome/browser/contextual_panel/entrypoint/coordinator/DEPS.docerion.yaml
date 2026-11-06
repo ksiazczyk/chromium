@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Contextual Panel entrypoint coordinator
+summary: Declares allowed include rules for dependencies such as feature engagement, fullscreen, infobars, and intelligence model directories.

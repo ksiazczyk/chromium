@@ -1,0 +1,4 @@
+# Docerion header of migratable_sync_service_coordinator_factory.mm.
+type: source
+title: Migratable sync service coordinator factory implementation
+summary: Implements the factory, building a MigratableSyncServiceCoordinator per profile while excluding incognito profiles.

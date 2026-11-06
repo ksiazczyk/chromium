@@ -1,0 +1,4 @@
+# Docerion header of crash_helper_unittest.mm.
+type: test
+title: Crash helper unit tests
+summary: Unit tests for crash helper and crash keys helper, verifying crash key values sync to user defaults for MetricKit report parameters.

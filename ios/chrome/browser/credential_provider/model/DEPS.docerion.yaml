@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Credential provider model DEPS include rules
+summary: Lists allowed include paths for this directory, enforced by Chromium's presubmit dependency checks.

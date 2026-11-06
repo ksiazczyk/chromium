@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Contextual panel sample coordinator BUILD.gn
+summary: GN build definition for the sample coordinator source set, listing the modulator sources, its dependencies and the UIKit framework.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for crash report model
+summary: Declares allowed directory dependencies for code in this folder, including breadcrumbs, GWP-ASan, and crashpad access for fuzzers.

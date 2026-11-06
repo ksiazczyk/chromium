@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual sheet display controller protocol
+// summary: Protocol letting users of the contextual sheet view controller control its display, such as setting the content height.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTEXTUAL_PANEL_UI_CONTEXTUAL_SHEET_DISPLAY_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_CONTEXTUAL_PANEL_UI_CONTEXTUAL_SHEET_DISPLAY_CONTROLLER_H_
 

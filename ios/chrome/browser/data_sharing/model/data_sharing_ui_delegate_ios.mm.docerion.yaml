@@ -1,0 +1,4 @@
+# Docerion header of data_sharing_ui_delegate_ios.mm.
+type: source
+title: Data sharing UI delegate for iOS
+summary: Implements the iOS data sharing UI delegate that handles intercepted share URLs by dismissing modal dialogs and presenting the collaboration join flow in the right browser window.

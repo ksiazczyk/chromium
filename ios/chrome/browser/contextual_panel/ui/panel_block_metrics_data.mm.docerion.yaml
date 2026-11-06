@@ -1,0 +1,4 @@
+# Docerion header of panel_block_metrics_data.mm.
+type: source
+title: PanelBlockMetricsData implementation
+summary: Objective-C implementation of the PanelBlockMetricsData class holding metrics data for contextual panel blocks.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declaration of PersonalCollaborationDataServiceFactory
+// summary: Declares the iOS profile-keyed service factory that builds PersonalCollaborationDataService instances for a profile.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DATA_SHARING_MODEL_PERSONAL_COLLABORATION_DATA_PERSONAL_COLLABORATION_DATA_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_DATA_SHARING_MODEL_PERSONAL_COLLABORATION_DATA_PERSONAL_COLLABORATION_DATA_SERVICE_FACTORY_H_
 

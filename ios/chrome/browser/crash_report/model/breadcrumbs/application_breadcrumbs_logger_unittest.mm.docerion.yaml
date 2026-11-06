@@ -1,0 +1,4 @@
+# Docerion header of application_breadcrumbs_logger_unittest.mm.
+type: test
+title: ApplicationBreadcrumbsLogger unit tests
+summary: Tests that device orientation changes are logged once to the BreadcrumbManager by the application breadcrumbs logger.

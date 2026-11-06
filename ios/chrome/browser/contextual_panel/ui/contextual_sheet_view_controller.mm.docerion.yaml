@@ -1,0 +1,4 @@
+# Docerion header of contextual_sheet_view_controller.mm.
+type: source
+title: Contextual sheet view controller implementation
+summary: Implements the contextual panel sheet with pan gesture expand and dismiss, detent heights, corner radius and trait change handling.

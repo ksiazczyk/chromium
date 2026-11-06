@@ -1,0 +1,4 @@
+# Docerion header of application_breadcrumbs_logger.mm.
+type: source
+title: ApplicationBreadcrumbsLogger implementation
+summary: Implements the application breadcrumbs logger, observing device orientation notifications and logging them to the BreadcrumbManager.

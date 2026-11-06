@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CredentialExportFaviconProvider protocol
+// summary: Declares the protocol for objects that fetch favicon images for URLs shown in the credential export list.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CREDENTIAL_EXCHANGE_UI_CREDENTIAL_EXPORT_FAVICON_PROVIDER_H_
 #define IOS_CHROME_BROWSER_CREDENTIAL_EXCHANGE_UI_CREDENTIAL_EXPORT_FAVICON_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash report helper API
+// summary: Declares functions to monitor URLs and tab state of WebStates and WebStateLists so crash reports include the currently loaded URLs.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CRASH_REPORT_MODEL_CRASH_REPORT_HELPER_H_
 #define IOS_CHROME_BROWSER_CRASH_REPORT_MODEL_CRASH_REPORT_HELPER_H_
 

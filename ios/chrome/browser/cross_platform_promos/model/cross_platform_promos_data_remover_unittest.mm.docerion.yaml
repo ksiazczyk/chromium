@@ -1,0 +1,4 @@
+# Docerion header of cross_platform_promos_data_remover_unittest.mm.
+type: test
+title: CrossPlatformPromosDataRemover unit tests
+summary: Verifies that the data remover clears the cross-platform promo prefs using a test profile.

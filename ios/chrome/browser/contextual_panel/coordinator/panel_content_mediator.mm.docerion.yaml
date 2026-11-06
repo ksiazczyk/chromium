@@ -1,0 +1,4 @@
+# Docerion header of panel_content_mediator.mm.
+type: source
+title: Contextual panel content mediator implementation
+summary: Mediates bottom toolbar height updates to the panel content consumer, sourcing them from the Chrome broadcaster, toolbars size observer, or fullscreen browser agent depending on enabled feature flags.

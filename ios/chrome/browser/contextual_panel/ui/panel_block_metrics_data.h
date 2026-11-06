@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Panel block metrics data header
+// summary: Declares PanelBlockMetricsData, which holds metrics-related data such as time visible for a panel block.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTEXTUAL_PANEL_UI_PANEL_BLOCK_METRICS_DATA_H_
 #define IOS_CHROME_BROWSER_CONTEXTUAL_PANEL_UI_PANEL_BLOCK_METRICS_DATA_H_
 

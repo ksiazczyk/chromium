@@ -1,0 +1,4 @@
+# Docerion header of panel_block_data.mm.
+type: source
+title: Panel block data implementation
+summary: Implements PanelBlockData's initializer, checking that the cell registration produces a PanelItemCollectionViewCell subclass.

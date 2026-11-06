@@ -1,0 +1,4 @@
+# Docerion header of personal_collaboration_data_service_factory.mm.
+type: source
+title: Implementation of PersonalCollaborationDataServiceFactory
+summary: Implements the factory, creating PersonalCollaborationDataServiceImpl with a sync data type processor when data sharing features are enabled and no instance in incognito.

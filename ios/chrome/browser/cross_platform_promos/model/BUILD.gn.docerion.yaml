@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Cross-platform promos model build targets
+summary: Defines GN source sets for the cross-platform promos service, data remover, notification client and their unit tests.

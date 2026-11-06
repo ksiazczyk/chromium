@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Import metrics utility declaration
+// summary: Declares LogImportStats, which logs counts of credential types received via credential exchange import.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CREDENTIAL_EXCHANGE_MODEL_METRICS_UTIL_H_
 #define IOS_CHROME_BROWSER_CREDENTIAL_EXCHANGE_MODEL_METRICS_UTIL_H_
 

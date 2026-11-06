@@ -1,0 +1,4 @@
+# Docerion header of cross_platform_promos_data_remover.mm.
+type: source
+title: CrossPlatformPromosDataRemover implementation
+summary: Implements removal of cross-platform promo prefs such as active days and the 16th active day.

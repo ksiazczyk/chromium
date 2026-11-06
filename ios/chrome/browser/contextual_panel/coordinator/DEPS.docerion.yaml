@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Contextual panel coordinator DEPS include rules
+summary: Specifies the allowed include directories for code in the contextual panel coordinator directory.

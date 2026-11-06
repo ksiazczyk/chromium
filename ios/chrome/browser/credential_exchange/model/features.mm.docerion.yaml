@@ -1,0 +1,4 @@
+# Docerion header of features.mm.
+type: source
+title: Credential exchange FIDO extensions feature definition
+summary: Defines the kCredentialExchangeFidoExtensions feature as enabled by default.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash upload list factory declaration
+// summary: Declares CreateCrashUploadList, the factory for the iOS-specific crash upload list implementation.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CRASH_REPORT_MODEL_CRASH_UPLOAD_LIST_H_
 #define IOS_CHROME_BROWSER_CRASH_REPORT_MODEL_CRASH_UPLOAD_LIST_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build file for credential provider promo animation resources
+summary: Declares the credential provider promo animation JSON files as bundle data so they are copied into the iOS app bundle.

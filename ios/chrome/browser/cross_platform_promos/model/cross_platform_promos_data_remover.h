@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrossPlatformPromosDataRemover class declaration
+// summary: Declares a class that clears the profile prefs used by the cross-platform promos service.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CROSS_PLATFORM_PROMOS_MODEL_CROSS_PLATFORM_PROMOS_DATA_REMOVER_H_
 #define IOS_CHROME_BROWSER_CROSS_PLATFORM_PROMOS_MODEL_CROSS_PLATFORM_PROMOS_DATA_REMOVER_H_
 

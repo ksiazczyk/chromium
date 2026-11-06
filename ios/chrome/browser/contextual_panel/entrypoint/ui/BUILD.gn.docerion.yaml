@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Contextual panel entrypoint UI build targets
+summary: Defines the source_set with the entrypoint UI sources and their GN dependencies for the contextual panel entrypoint.

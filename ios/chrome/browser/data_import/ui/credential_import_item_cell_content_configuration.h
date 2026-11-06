@@ -2,6 +2,12 @@
 /// Use of this source code is governed by a BSD-style license that can be
 /// found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential import item cell content configuration interface
+// summary: Declares a UIContentConfiguration class describing cells that display password and passkey import items with URL, username, and message.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DATA_IMPORT_UI_CREDENTIAL_IMPORT_ITEM_CELL_CONTENT_CONFIGURATION_H_
 #define IOS_CHROME_BROWSER_DATA_IMPORT_UI_CREDENTIAL_IMPORT_ITEM_CELL_CONTENT_CONFIGURATION_H_
 

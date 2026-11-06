@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Active contextual panel tab helper observation forwarder interface
+// summary: Declares a class that forwards contextual panel tab helper observer methods for the active web state in a web state list.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTEXTUAL_PANEL_MODEL_ACTIVE_CONTEXTUAL_PANEL_TAB_HELPER_OBSERVATION_FORWARDER_H_
 #define IOS_CHROME_BROWSER_CONTEXTUAL_PANEL_MODEL_ACTIVE_CONTEXTUAL_PANEL_TAB_HELPER_OBSERVATION_FORWARDER_H_
 

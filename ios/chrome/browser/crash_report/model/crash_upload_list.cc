@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash upload list factory
+// summary: Creates the platform-specific crash upload list, using Crashpad when it is running or falling back to a text log upload list.
+// ---
+
 #include "ios/chrome/browser/crash_report/model/crash_upload_list.h"
 
 #include "base/files/file_path.h"

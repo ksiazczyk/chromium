@@ -1,0 +1,4 @@
+# Docerion header of contextual_panel_egtest.mm.
+type: test
+title: Contextual panel Earl Grey UI tests
+summary: Earl Grey test case verifying the contextual panel opens from its entrypoint and IPH, using a long test page for fullscreen and covering orientation behavior.

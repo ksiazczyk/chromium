@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for credential exchange model
+summary: Defines GN source sets, Swift bridges, dependencies and unit test targets for the iOS credential exchange model.

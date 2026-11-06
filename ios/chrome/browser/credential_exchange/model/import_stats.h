@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImportStats credential count interface
+// summary: Declares ImportStats, which holds counts of credential exchange data types received from the exporting password manager app for metrics logging.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CREDENTIAL_EXCHANGE_MODEL_IMPORT_STATS_H_
 #define IOS_CHROME_BROWSER_CREDENTIAL_EXCHANGE_MODEL_IMPORT_STATS_H_
 

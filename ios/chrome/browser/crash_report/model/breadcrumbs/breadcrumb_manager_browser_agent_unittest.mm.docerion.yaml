@@ -1,0 +1,4 @@
+# Docerion header of breadcrumb_manager_browser_agent_unittest.mm.
+type: test
+title: BreadcrumbManagerBrowserAgent unit tests
+summary: Tests that the browser agent logs events for overlays, tab changes, and multiple browser instances to the breadcrumb manager.

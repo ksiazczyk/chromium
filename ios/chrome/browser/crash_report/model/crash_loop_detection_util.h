@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash loop detection utility interface
+// summary: Declares utilities to get, increment, and reset the count of consecutive failed startup attempts used for crash loop detection.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CRASH_REPORT_MODEL_CRASH_LOOP_DETECTION_UTIL_H_
 #define IOS_CHROME_BROWSER_CRASH_REPORT_MODEL_CRASH_LOOP_DETECTION_UTIL_H_
 

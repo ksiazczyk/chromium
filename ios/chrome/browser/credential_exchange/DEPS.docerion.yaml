@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules
+summary: Defines include rules for the credential_exchange directory, allowing dependencies on ios/chrome/browser/data_import.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Panel content coordinator header
+// summary: Declares PanelContentCoordinator, which manages the Contextual Panel contents and presentation swaps.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTEXTUAL_PANEL_COORDINATOR_PANEL_CONTENT_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_CONTEXTUAL_PANEL_COORDINATOR_PANEL_CONTENT_COORDINATOR_H_
 

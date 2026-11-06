@@ -1,0 +1,4 @@
+# Docerion header of contextual_panel_tab_helper_unittest.mm.
+type: test
+title: ContextualPanelTabHelper unit tests
+summary: Unit tests verifying that the ContextualPanelTabHelper notifies observers when it is destroyed and when web navigations start or finish.

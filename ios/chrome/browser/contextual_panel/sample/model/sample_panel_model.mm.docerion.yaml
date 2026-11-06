@@ -1,0 +1,4 @@
+# Docerion header of sample_panel_model.mm.
+type: source
+title: SamplePanelModel implementation
+summary: Implements SamplePanelModel, returning sample item configuration data for web states and nothing on the new tab page.

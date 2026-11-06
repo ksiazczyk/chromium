@@ -1,0 +1,4 @@
+# Docerion header of cross_platform_promos_notification_client_unittest.mm.
+type: test
+title: CrossPlatformPromosNotificationClient unit tests
+summary: Tests notification handling of the cross-platform promos client with a mocked service and OCMock notifications.

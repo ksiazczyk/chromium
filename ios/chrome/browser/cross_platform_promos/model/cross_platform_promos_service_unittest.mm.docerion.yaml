@@ -1,0 +1,4 @@
+# Docerion header of cross_platform_promos_service_unittest.mm.
+type: test
+title: CrossPlatformPromosService unit tests
+summary: Unit tests for CrossPlatformPromosService, exercising cross-device promo behavior with fake device info sync, preferences, feature flags, and histogram checks.

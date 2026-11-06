@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Credential provider promo include rules
+summary: Restricts the headers this directory may include from feature engagement and promos manager code.

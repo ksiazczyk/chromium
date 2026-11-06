@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the iOS data sharing model
+summary: Defines GN source sets and dependencies for the iOS data sharing model, SDK delegate, UI delegate, context, observer bridge, and unit test targets.

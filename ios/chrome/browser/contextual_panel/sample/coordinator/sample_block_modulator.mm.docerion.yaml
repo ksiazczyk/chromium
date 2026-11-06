@@ -1,0 +1,4 @@
+# Docerion header of sample_block_modulator.mm.
+type: source
+title: SampleBlockModulator implementation
+summary: Implements the sample modulator by registering a green PanelItemCollectionViewCell and returning the matching PanelBlockData for the contextual panel.

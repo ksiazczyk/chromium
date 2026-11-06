@@ -1,0 +1,4 @@
+# Docerion header of cross_platform_promos_service.mm.
+type: source
+title: CrossPlatformPromosService implementation
+summary: Implements active-day tracking, pref registration and presentation of cross-platform promos via the tips notification presenter.

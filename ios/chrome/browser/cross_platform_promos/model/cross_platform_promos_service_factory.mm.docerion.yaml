@@ -1,0 +1,4 @@
+# Docerion header of cross_platform_promos_service_factory.mm.
+type: source
+title: CrossPlatformPromosServiceFactory implementation
+summary: Implements the CrossPlatformPromosService factory, building a new CrossPlatformPromosService instance for each iOS Chrome profile.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for credential exchange UI
+summary: Sets the include rules allowing this directory to depend on the iOS password settings UI.

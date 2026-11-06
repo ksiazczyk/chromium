@@ -1,0 +1,4 @@
+# Docerion header of panel_block_modulator.mm.
+type: source
+title: Panel block modulator implementation
+summary: Implements default PanelBlockModulator behavior, including initialization and block type lookup.

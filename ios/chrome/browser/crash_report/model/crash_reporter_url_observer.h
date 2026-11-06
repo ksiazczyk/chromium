@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash reporter URL observer API
+// summary: Declares CrashReporterURLObserver, a WebStateList and WebState observer that records loaded URLs into crash keys, one URL per WebState group.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CRASH_REPORT_MODEL_CRASH_REPORTER_URL_OBSERVER_H_
 #define IOS_CHROME_BROWSER_CRASH_REPORT_MODEL_CRASH_REPORTER_URL_OBSERVER_H_
 

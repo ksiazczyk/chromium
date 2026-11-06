@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Credential exchange UI resources build definition
+summary: Declares the bundle_data_xcassets target that bundles the asset catalog and credential import provider icons (1Password, Apple, Bitwarden, Dashlane, generic, Keeper) for iOS Chrome.

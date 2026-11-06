@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Data sharing migration BUILD.gn build definition
+summary: Defines the migration source_set listing the coordinator factory sources and its Chromium component dependencies.

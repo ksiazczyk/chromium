@@ -1,0 +1,4 @@
+# Docerion header of breadcrumb_manager_browser_agent.mm.
+type: source
+title: BreadcrumbManagerBrowserAgent implementation
+summary: Implements the browser agent that logs overlay, tab activation, and web state list events to the profile's breadcrumb manager service.

@@ -1,0 +1,4 @@
+# Docerion header of cross_platform_promos_notification_client.mm.
+type: source
+title: CrossPlatformPromosNotificationClient implementation
+summary: Handles cross-platform promo push notifications, records interaction metrics and shows the matching promo.
