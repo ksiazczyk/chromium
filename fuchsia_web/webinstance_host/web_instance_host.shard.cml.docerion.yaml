@@ -1,0 +1,4 @@
+# Docerion header of web_instance_host.shard.cml.
+type: config
+title: Component manifest shard for web instances
+summary: Component manifest shard declaring the web_instances collection, its directory capability, and the protocols and directories offered to dynamically created child instances.

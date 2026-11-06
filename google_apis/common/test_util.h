@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test utility header for Google API tests
+// summary: Declares test helpers for local test servers, JSON test data, temporary files, content range parsing and result copy callbacks.
+// ---
+
 #ifndef GOOGLE_APIS_COMMON_TEST_UTIL_H_
 #define GOOGLE_APIS_COMMON_TEST_UTIL_H_
 

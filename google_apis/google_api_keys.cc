@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google API keys implementation
+// summary: Implements retrieval of Google API keys and OAuth client credentials through a lazily created global API key cache.
+// ---
+
 #include "google_apis/google_api_keys.h"
 
 #include <string>

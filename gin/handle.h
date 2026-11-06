@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Handle for wrappable objects
+// summary: Defines a stack-only gin::Handle that retains a wrappable object together with its V8 wrapper.
+// ---
+
 #ifndef GIN_HANDLE_H_
 #define GIN_HANDLE_H_
 

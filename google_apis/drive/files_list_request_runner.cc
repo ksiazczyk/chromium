@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Files list request runner implementation
+// summary: Implements running of Drive file list requests with automatic retry at halved page size when the response is too large.
+// ---
+
 #include "google_apis/drive/files_list_request_runner.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V8Test fixture implementation
+// summary: Implements the V8Test gtest fixture, initializing a V8 isolate, snapshot data, and a context in SetUp and tearing them down after each test.
+// ---
+
 #include "gin/test/v8_test.h"
 
 #include "base/task/single_thread_task_runner.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gin shell main entry point
+// summary: Main program that initializes V8 via gin and runs the JavaScript files passed as command-line arguments, registering the console module and logging unhandled exceptions.
+// ---
+
 #include "base/at_exit.h"
 #include "base/command_line.h"
 #include "base/feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the list students request
+// summary: Tests the list students request against an embedded test server, verifying parsing of student profiles and failure handling.
+// ---
+
 #include "google_apis/classroom/classroom_api_list_students_request.h"
 
 #include <memory>

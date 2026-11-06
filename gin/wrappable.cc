@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wrappable base class implementation
+// summary: Implements WrappableBase, which associates C++ objects with their V8 object wrappers and manages wrapper templates per isolate.
+// ---
+
 #include "gin/wrappable.h"
 
 #include "base/check_op.h"

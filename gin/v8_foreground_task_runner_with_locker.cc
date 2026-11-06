@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8 foreground task runner with locker implementation
+// summary: Implements a foreground task runner that acquires a v8::Locker and isolate scope before running posted tasks and idle tasks.
+// ---
+
 #include "gin/v8_foreground_task_runner_with_locker.h"
 
 #include "base/functional/bind.h"

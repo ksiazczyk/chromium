@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gin Console module header
+// summary: Declares the gin::Console class whose Register method adds a basic console.log API to a V8 object template.
+// ---
+
 #ifndef GIN_MODULES_CONSOLE_H_
 #define GIN_MODULES_CONSOLE_H_
 

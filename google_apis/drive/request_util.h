@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive API request utility declarations
+// summary: Declares constants and helpers for building Drive API requests, such as the If-Match header generator and parent value creation.
+// ---
+
 #ifndef GOOGLE_APIS_DRIVE_REQUEST_UTIL_H_
 #define GOOGLE_APIS_DRIVE_REQUEST_UTIL_H_
 

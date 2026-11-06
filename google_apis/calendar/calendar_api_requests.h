@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Calendar API request declarations
+// summary: Declares the Calendar API request base class plus the calendar list and event list request classes with their callbacks and constants.
+// ---
+
 #ifndef GOOGLE_APIS_CALENDAR_CALENDAR_API_REQUESTS_H_
 #define GOOGLE_APIS_CALENDAR_CALENDAR_API_REQUESTS_H_
 

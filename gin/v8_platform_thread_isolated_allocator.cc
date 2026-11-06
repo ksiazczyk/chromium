@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thread-isolated allocator implementation
+// summary: Implements a thread-isolated allocator using PartitionAlloc with pkey-based thread isolation for V8-related allocations.
+// ---
+
 #include "gin/v8_platform_thread_isolated_allocator.h"
 
 #include "partition_alloc/partition_alloc_public_constants.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Calendar API requests
+// summary: Tests the calendar list and event list requests against an embedded test server, checking generated URLs and parsed responses.
+// ---
+
 #include "google_apis/calendar/calendar_api_requests.h"
 
 #include <string>

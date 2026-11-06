@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thread isolation implementation using memory protection keys
+// summary: Implements ThreadIsolationData initialization, allocating a pkey and write-protecting thread isolation data on supported kernels.
+// ---
+
 #include "gin/thread_isolation.h"
 
 #if PA_BUILDFLAG(ENABLE_THREAD_ISOLATION)

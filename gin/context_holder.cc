@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context holder implementation
+// summary: Implements gin::ContextHolder, which stores a V8 context and creates per-context cppgc data that is detached when the holder is destroyed.
+// ---
+
 #include "gin/public/context_holder.h"
 
 #include "base/check.h"

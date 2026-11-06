@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Classroom API list course work materials request unit tests
+// summary: Unit tests checking ListCourseWorkMaterialRequest URL construction, successful parsing of course work materials responses, and query parameter handling.
+// ---
+
 #include "google_apis/classroom/classroom_api_list_course_work_materials_request.h"
 
 #include <memory>

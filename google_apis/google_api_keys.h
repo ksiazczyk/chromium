@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google API keys interface
+// summary: Declares functions for retrieving Google API keys and OAuth2 client IDs and secrets, documenting preprocessor and runtime override methods.
+// ---
+
 #ifndef GOOGLE_APIS_GOOGLE_API_KEYS_H_
 #define GOOGLE_APIS_GOOGLE_API_KEYS_H_
 

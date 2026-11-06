@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for PerContextData lookup and destruction
+// summary: Verifies PerContextData can be looked up from a context and becomes unavailable after the ContextHolder is destroyed.
+// ---
+
 #include "gin/per_context_data.h"
 
 #include "gin/public/context_holder.h"

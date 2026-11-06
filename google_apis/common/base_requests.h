@@ -5,6 +5,12 @@
 // This file provides base classes used to issue HTTP requests for Google
 // APIs.
 
+// ---docerion
+// type: source
+// title: Base request class declarations for Google API requests
+// summary: Declares base classes, callbacks and enums for authenticated Google API HTTP requests, such as AuthenticatedRequestInterface and URL fetch request bases.
+// ---
+
 #ifndef GOOGLE_APIS_COMMON_BASE_REQUESTS_H_
 #define GOOGLE_APIS_COMMON_BASE_REQUESTS_H_
 

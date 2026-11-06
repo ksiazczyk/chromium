@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8 foreground task runner base header
+// summary: Declares V8ForegroundTaskRunnerBase, a v8::TaskRunner base class that adds the capability to enable idle tasks.
+// ---
+
 #ifndef GIN_V8_FOREGROUND_TASK_RUNNER_BASE_H_
 #define GIN_V8_FOREGROUND_TASK_RUNNER_BASE_H_
 

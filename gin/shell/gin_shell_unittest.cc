@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gin shell unit test
+// summary: GTest that launches the built gin shell binary on hello_world.js and asserts the trimmed program output equals Hello World.
+// ---
+
 #include "base/command_line.h"
 #include "base/files/file_util.h"
 #include "base/path_service.h"

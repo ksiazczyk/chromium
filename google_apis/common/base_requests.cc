@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base request classes for Google API HTTP requests
+// summary: Implements base classes for issuing authenticated HTTP requests to Google APIs, including JSON error mapping and re-authentication handling.
+// ---
+
 #include "google_apis/common/base_requests.h"
 
 #include <stddef.h>

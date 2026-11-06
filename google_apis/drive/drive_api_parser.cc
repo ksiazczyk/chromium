@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive API resource parser implementation
+// summary: Implements JSON parsing of Drive API v2 resources such as About, Team Drive, File, and list entries using base JSON value converters.
+// ---
+
 
 #include "google_apis/drive/drive_api_parser.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FuchsiaWebDebugProxy implementation
+// summary: Implements FuchsiaWebDebugProxy, forwarding DevTools availability notifications from registered web instance Debug implementations out to client listeners.
+// ---
+
 #include "fuchsia_web/webinstance_host/fuchsia_web_debug_proxy.h"
 
 #include <lib/fidl/cpp/binding.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: List student submissions request class declaration
+// summary: Declares ListStudentSubmissionsRequest, a URL fetch request returning student submissions for a given course work with page token based pagination.
+// ---
+
 #ifndef GOOGLE_APIS_CLASSROOM_CLASSROOM_API_LIST_STUDENT_SUBMISSIONS_REQUEST_H_
 #define GOOGLE_APIS_CLASSROOM_CLASSROOM_API_LIST_STUDENT_SUBMISSIONS_REQUEST_H_
 

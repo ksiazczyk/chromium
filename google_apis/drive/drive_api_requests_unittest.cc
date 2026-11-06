@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Drive API requests
+// summary: Tests Drive API request behavior against an embedded test server, covering uploads, downloads, and batch requests.
+// ---
+
 #include "google_apis/drive/drive_api_requests.h"
 
 #include <stddef.h>

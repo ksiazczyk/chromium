@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WrapPersistent helper for cppgc persistent handles
+// summary: Declares a WrapPersistent template that wraps a raw pointer into a cppgc::Persistent without location tracking.
+// ---
+
 #ifndef GIN_PERSISTENT_H_
 #define GIN_PERSISTENT_H_
 

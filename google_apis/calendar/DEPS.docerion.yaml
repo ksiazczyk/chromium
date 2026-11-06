@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the calendar directory
+summary: Grants the calendar directory an include rule that allows the GoogleTest gtest.h header.

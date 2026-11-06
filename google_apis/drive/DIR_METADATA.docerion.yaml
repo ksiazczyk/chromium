@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for google_apis/drive
+summary: Points to the components/drive common metadata mixin for directory metadata and ownership information.

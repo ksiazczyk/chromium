@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of Classroom API students response types
+// summary: Implements JSON conversion for Name, UserProfile, Student, and Students classes used to parse Google Classroom student list responses.
+// ---
+
 #include "google_apis/classroom/classroom_api_students_response_types.h"
 
 #include <memory>

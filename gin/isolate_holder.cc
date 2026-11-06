@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IsolateHolder implementation
+// summary: Implements IsolateHolder constructors that create and configure V8 isolates with array buffer allocator, CppHeap, task runners and histogram callbacks.
+// ---
+
 #include "gin/public/isolate_holder.h"
 
 #include <stddef.h>

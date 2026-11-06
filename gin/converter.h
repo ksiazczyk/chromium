@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Converter template declarations
+// summary: Declares the gin::Converter template and its specializations for converting C++ types to and from V8 values, plus a SetProperty helper.
+// ---
+
 #ifndef GIN_CONVERTER_H_
 #define GIN_CONVERTER_H_
 

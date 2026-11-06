@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for webinstance_host
+summary: Restricts which headers code in webinstance_host may include, with extra allowances for web_instance_host_internal.cc such as cast receiver and Widevine build flags.

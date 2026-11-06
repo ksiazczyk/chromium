@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive API URL generator implementation
+// summary: Implements URL construction for Google Drive API v2 endpoints, covering files, changes, uploads, permissions, thumbnails and team drives.
+// ---
+
 #include "google_apis/drive/drive_api_url_generator.h"
 
 #include "base/check_op.h"

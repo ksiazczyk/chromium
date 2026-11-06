@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8 isolate memory dump provider header
+// summary: Declares a memory dump provider class that reports summarized memory statistics of the V8 isolate to Chromium's tracing infrastructure.
+// ---
+
 #ifndef GIN_V8_ISOLATE_MEMORY_DUMP_PROVIDER_H_
 #define GIN_V8_ISOLATE_MEMORY_DUMP_PROVIDER_H_
 

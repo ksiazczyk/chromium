@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Converter implementation for V8 value conversions
+// summary: Implements gin::Converter specializations that translate C++ types such as booleans, integers, floats, doubles and strings to and from V8 values.
+// ---
+
 #include "gin/converter.h"
 
 #include <stdint.h>

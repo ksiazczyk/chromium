@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TryCatch header
+// summary: Declares TryCatch, a stack-allocated wrapper around v8::TryCatch offering caught-exception checks, stack trace retrieval, and verbose mode.
+// ---
+
 #ifndef GIN_TRY_CATCH_H_
 #define GIN_TRY_CATCH_H_
 

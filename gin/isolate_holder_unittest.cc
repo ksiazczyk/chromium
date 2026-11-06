@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for IsolateHolder in kUseLocker mode
+// summary: Verifies that IsolateHolder can be constructed and torn down in kUseLocker access mode, including teardown of function templates.
+// ---
+
 #include "gin/public/isolate_holder.h"
 
 #include "base/task/single_thread_task_runner.h"

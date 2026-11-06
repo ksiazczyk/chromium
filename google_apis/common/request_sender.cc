@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Request sender implementation with authentication retry
+// summary: Implements RequestSender, which starts authenticated API requests, handles OAuth token fetching, retries and cancellation.
+// ---
+
 #include "google_apis/common/request_sender.h"
 
 #include <utility>

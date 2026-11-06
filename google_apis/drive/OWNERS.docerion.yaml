@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners reference delegating to components/drive
+summary: Delegates code review ownership of this directory to the owners listed in components/drive/OWNERS.

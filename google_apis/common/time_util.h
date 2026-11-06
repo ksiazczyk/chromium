@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Time parsing and formatting utilities
+// summary: Declares functions to parse RFC 3339 date/time and date-only strings into base::Time and format times back to strings.
+// ---
+
 #ifndef GOOGLE_APIS_COMMON_TIME_UTIL_H_
 #define GOOGLE_APIS_COMMON_TIME_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PerIsolateData class header
+// summary: Declares PerIsolateData, which stores per-isolate Gin data such as object templates, dispose observers, and task runners.
+// ---
+
 #ifndef GIN_PER_ISOLATE_DATA_H_
 #define GIN_PER_ISOLATE_DATA_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for webinstance_host
+summary: Defines the webinstance_host source_set with its sources, public headers, dependencies, visibility restrictions, and optional Widevine dependency for Fuchsia builds.

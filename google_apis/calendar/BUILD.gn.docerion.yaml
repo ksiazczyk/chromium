@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Google Calendar API module
+summary: Defines the GN build targets for the calendar static library, its test support source set, and the calendar_unittests target with their sources and dependencies.

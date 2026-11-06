@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Calendar API URL generator implementation
+// summary: Builds Google Calendar API endpoint URLs for calendar lists, colors, and event lists with query parameters such as time range, event types, and limits.
+// ---
+
 #include "google_apis/calendar/calendar_api_url_generator.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DummyAuthService stub implementation
+// summary: Implements a stub AuthServiceInterface that returns preset dummy tokens, used to simplify testing of authenticated requests.
+// ---
+
 #include "google_apis/common/dummy_auth_service.h"
 
 namespace google_apis {

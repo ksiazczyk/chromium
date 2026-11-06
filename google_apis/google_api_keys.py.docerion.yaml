@@ -1,0 +1,4 @@
+# Docerion header of google_api_keys.py.
+type: source
+title: Python API for retrieving API keys
+summary: Python module that reads Google API keys and OAuth client credentials from the environment or the official keys header, falling back to a dummy token.

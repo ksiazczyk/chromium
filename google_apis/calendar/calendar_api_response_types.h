@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Calendar API response type declarations
+// summary: Declares the data classes for Calendar API responses, including SingleCalendar, CalendarList, DateTime, Attachment, CalendarEvent, and EventList.
+// ---
+
 #ifndef GOOGLE_APIS_CALENDAR_CALENDAR_API_RESPONSE_TYPES_H_
 #define GOOGLE_APIS_CALENDAR_CALENDAR_API_RESPONSE_TYPES_H_
 

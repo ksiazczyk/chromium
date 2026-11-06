@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Function template creation from C++ callbacks
+// summary: Defines templates that wrap base::RepeatingCallback into V8 function templates with argument conversion and dispatch.
+// ---
+
 #ifndef GIN_FUNCTION_TEMPLATE_H_
 #define GIN_FUNCTION_TEMPLATE_H_
 

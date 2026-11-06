@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Classroom API courses response types unit tests
+// summary: Unit tests verifying that Courses response types parse Google Classroom API JSON, covering empty responses, course fields, page tokens, and unexpected data.
+// ---
+
 #include "google_apis/classroom/classroom_api_courses_response_types.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Named property interceptor defaults
+// summary: Provides default no-op implementations for the named property interceptor interface.
+// ---
+
 #include "gin/interceptor.h"
 
 #include <stdint.h>

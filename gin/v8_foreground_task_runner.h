@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8 foreground task runner header
+// summary: Declares V8ForegroundTaskRunner, which forwards v8::Platform task posting calls to a base SingleThreadTaskRunner.
+// ---
+
 #ifndef GIN_V8_FOREGROUND_TASK_RUNNER_H_
 #define GIN_V8_FOREGROUND_TASK_RUNNER_H_
 

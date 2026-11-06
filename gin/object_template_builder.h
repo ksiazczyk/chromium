@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ObjectTemplateBuilder interface
+// summary: Declares ObjectTemplateBuilder, a fluent interface for building v8::ObjectTemplate instances with values, methods and properties from C++ functions and callbacks.
+// ---
+
 #ifndef GIN_OBJECT_TEMPLATE_BUILDER_H_
 #define GIN_OBJECT_TEMPLATE_BUILDER_H_
 

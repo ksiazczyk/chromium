@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Material response type declaration
+// summary: Declares the Material class representing a material attached to course work, with its type enum and title, shared by course work response types.
+// ---
+
 #ifndef GOOGLE_APIS_CLASSROOM_CLASSROOM_API_MATERIAL_RESPONSE_TYPES_H_
 #define GOOGLE_APIS_CLASSROOM_CLASSROOM_API_MATERIAL_RESPONSE_TYPES_H_
 

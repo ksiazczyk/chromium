@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Named property interceptor base classes for Gin wrappables
+// summary: Declares NamedPropertyInterceptor and a Wrappable mixin that let C++ wrappable objects intercept getting, setting and enumerating named JavaScript properties.
+// ---
+
 #ifndef GIN_INTERCEPTOR_H_
 #define GIN_INTERCEPTOR_H_
 

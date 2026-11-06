@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V8 shared memory dump provider unit tests
+// summary: Verifies the shared memory dump provider runs without crashing and dumps shared memory and read-only space entries.
+// ---
+
 #include "gin/v8_shared_memory_dump_provider.h"
 
 #include <memory>

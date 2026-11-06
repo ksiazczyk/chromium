@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V8 isolate memory dump provider unit tests
+// summary: Unit tests verifying that the memory dump provider emits isolate, heap, global handle, and context statistics dumps without crashing.
+// ---
+
 #include "gin/v8_isolate_memory_dump_provider.h"
 
 #include <memory>

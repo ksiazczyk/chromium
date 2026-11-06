@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the material response type
+// summary: Parameterized tests verifying Material conversion for each material type plus a malformed drive file failure case.
+// ---
+
 #include "google_apis/classroom/classroom_api_material_response_types.h"
 
 #include <memory>

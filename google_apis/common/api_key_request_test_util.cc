@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test helpers for API keys in requests
+// summary: Implements test helpers that check whether a resource request carries an API key and extract it from the header or URL.
+// ---
+
 #include "google_apis/common/api_key_request_test_util.h"
 
 #include <string>

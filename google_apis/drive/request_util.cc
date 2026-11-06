@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive API request utility implementation
+// summary: Implements helpers for Drive API requests, including If-Match header generation and creation of parent link values for request bodies.
+// ---
+
 #include "google_apis/drive/request_util.h"
 
 #include <string>

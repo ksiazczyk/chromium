@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for Gaia request credentials mode
+// summary: Declares GetOmitCredentialsModeForGaiaRequests, which supplies the credentials mode for uncredentialed requests to Gaia.
+// ---
+
 #ifndef GOOGLE_APIS_CREDENTIALS_MODE_H_
 #define GOOGLE_APIS_CREDENTIALS_MODE_H_
 

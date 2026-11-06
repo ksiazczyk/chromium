@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Gin build configuration (BUILD.gn)
+summary: Defines the GN build for the gin component, listing its sources and dependencies, plus the gin_shell executable and Android V8 snapshot asset targets.

@@ -1,0 +1,4 @@
+# Docerion header of config.gni.
+type: config
+title: GN config for official Google API key usage
+summary: Declares the use_official_google_api_keys build argument that controls whether Google-internal official API keys are used in a build.

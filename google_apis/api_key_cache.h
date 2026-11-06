@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the API key cache class
+// summary: Declares the ApiKeyCache class that caches Google API keys, OAuth client IDs and secrets, with accessors for platform-specific keys.
+// ---
+
 #ifndef GOOGLE_APIS_API_KEY_CACHE_H_
 #define GOOGLE_APIS_API_KEY_CACHE_H_
 

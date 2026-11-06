@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShellRunner implementation
+// summary: Implements ShellRunner, which compiles and runs scripts in a new V8 context, plus default ShellRunnerDelegate behavior.
+// ---
+
 #include "gin/shell_runner.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataObjectBuilder class declaration
+// summary: Declares a stack-allocated builder that creates JavaScript objects with data properties via CreateDataProperty, avoiding prototype setters.
+// ---
+
 #ifndef GIN_DATA_OBJECT_BUILDER_H_
 #define GIN_DATA_OBJECT_BUILDER_H_
 

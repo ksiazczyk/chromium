@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Converter unit tests
+// summary: Unit tests covering gin::Converter conversions for booleans, numbers, strings and other types between C++ and V8 values.
+// ---
+
 #include "gin/converter.h"
 
 #include <limits.h>

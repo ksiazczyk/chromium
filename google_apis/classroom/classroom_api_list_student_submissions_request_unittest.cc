@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the list student submissions request
+// summary: Tests the list student submissions request against an embedded test server, covering successful parsing of submissions and error handling.
+// ---
+
 #include "google_apis/classroom/classroom_api_list_student_submissions_request.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V8Test fixture declaration
+// summary: Declares the V8Test gtest fixture, a simple harness for testing V8 interactions without dependencies on gin's module system.
+// ---
+
 #ifndef GIN_TEST_V8_TEST_H_
 #define GIN_TEST_V8_TEST_H_
 

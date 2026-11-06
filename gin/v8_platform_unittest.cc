@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V8Platform unit tests
+// summary: Tests V8Platform job posting and joining, job task lifetime beyond the handle, and the zero segment size query.
+// ---
+
 #include "gin/public/v8_platform.h"
 
 #include <atomic>

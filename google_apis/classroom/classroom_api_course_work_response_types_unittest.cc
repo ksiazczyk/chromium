@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for course work response types
+// summary: Tests JSON conversion of course work responses, covering work types, due dates and times, page tokens and malformed input.
+// ---
+
 #include "google_apis/classroom/classroom_api_course_work_response_types.h"
 
 #include <memory>

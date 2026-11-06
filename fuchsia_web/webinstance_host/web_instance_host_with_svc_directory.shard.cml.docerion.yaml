@@ -1,0 +1,4 @@
+# Docerion header of web_instance_host_with_svc_directory.shard.cml.
+type: config
+title: Web instance host component manifest shard with svc directory
+summary: Fuchsia CML shard declaring the web_instances collection and routing directories, protocols, and diagnostics capabilities to dynamically created web instances.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: API response kind parser utility
+// summary: Implements IsResourceKindExpected, which checks that a Google API response dictionary carries the expected kind string.
+// ---
+
 #include "google_apis/common/parser_util.h"
 
 namespace google_apis {

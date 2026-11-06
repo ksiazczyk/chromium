@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8 foreground task runner base implementation
+// summary: Implements the V8ForegroundTaskRunnerBase constructor, destructor, and idle task enabling shared by foreground task runner variants.
+// ---
+
 #include "v8_foreground_task_runner_base.h"
 
 namespace gin {

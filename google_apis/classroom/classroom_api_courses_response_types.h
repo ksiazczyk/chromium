@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Courses response types declarations
+// summary: Declares Course and Courses classes that model Classroom courses API responses with state, section and pagination support.
+// ---
+
 #ifndef GOOGLE_APIS_CLASSROOM_CLASSROOM_API_COURSES_RESPONSE_TYPES_H_
 #define GOOGLE_APIS_CLASSROOM_CLASSROOM_API_COURSES_RESPONSE_TYPES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Classroom API list course work materials request implementation
+// summary: Implements ListCourseWorkMaterialRequest, which fetches course work materials for a course from the Google Classroom API and parses the JSON response.
+// ---
+
 #include "google_apis/classroom/classroom_api_list_course_work_materials_request.h"
 
 #include <memory>

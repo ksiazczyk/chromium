@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DataObjectBuilder unit tests
+// summary: Unit tests verifying that DataObjectBuilder creates ordinary data properties, does not invoke prototype setters and is unusable after Build.
+// ---
+
 #include "gin/data_object_builder.h"
 
 #include <string_view>

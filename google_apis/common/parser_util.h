@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parser utility for Google API JSON responses
+// summary: Declares shared JSON key constants for API responses and a helper to check whether a response has the expected resource kind.
+// ---
+
 #ifndef GOOGLE_APIS_COMMON_PARSER_UTIL_H_
 #define GOOGLE_APIS_COMMON_PARSER_UTIL_H_
 

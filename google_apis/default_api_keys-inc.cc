@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default API keys from preprocessor defines
+// summary: Defines GetDefaultApiKeysFromDefinedValues, turning preprocessor defines for API keys and OAuth credentials into a DefaultApiKeys struct; intended to be included repeatedly.
+// ---
+
 #include "build/branding_buildflags.h"
 #include "build/build_config.h"
 #include "google_apis/default_api_keys.h"

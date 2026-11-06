@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Debug implementation for JIT code events
+// summary: Stores the V8 JIT code event handler and forwards Windows unhandled exception callbacks for gin's debug support.
+// ---
+
 #include "gin/debug_impl.h"
 
 #include "build/build_config.h"

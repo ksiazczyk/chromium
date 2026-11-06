@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Request sender class for authenticated API requests
+// summary: Declares RequestSender, a helper that sends authenticated requests and manages retries, cancellation and in-flight request tracking.
+// ---
+
 #ifndef GOOGLE_APIS_COMMON_REQUEST_SENDER_H_
 #define GOOGLE_APIS_COMMON_REQUEST_SENDER_H_
 

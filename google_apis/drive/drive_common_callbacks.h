@@ -5,6 +5,12 @@
 // This file contains callback types used for communicating with the Drive
 // server via WAPI (Documents List API) and Drive API.
 
+// ---docerion
+// type: source
+// title: Drive common callback types
+// summary: Defines shared callback types for Drive server communication, including AboutResourceCallback and cancel callback closures.
+// ---
+
 #ifndef GOOGLE_APIS_DRIVE_DRIVE_COMMON_CALLBACKS_H_
 #define GOOGLE_APIS_DRIVE_DRIVE_COMMON_CALLBACKS_H_
 

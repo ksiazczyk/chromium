@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test utility implementation for Google API tests
+// summary: Implements test helpers for test file paths, JSON loading, embedded test server responses, content range parsing and result copying.
+// ---
+
 #include "google_apis/common/test_util.h"
 
 #include <string_view>

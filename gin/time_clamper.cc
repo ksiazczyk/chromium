@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TimeClamper resolution constants
+// summary: Defines TimeClamper timing resolution constants, with coarser resolution on Android and finer resolution on desktop platforms.
+// ---
+
 #include "gin/time_clamper.h"
 
 #include "build/build_config.h"

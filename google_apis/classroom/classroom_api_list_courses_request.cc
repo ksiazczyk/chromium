@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Classroom API list courses request implementation
+// summary: Implements ListCoursesRequest, which queries the Google Classroom API for courses filtered by student or teacher ID, course state, and page token.
+// ---
+
 #include "google_apis/classroom/classroom_api_list_courses_request.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PerContextData implementation
+// summary: Implements storage and lookup of Gin's per-context data in V8 context embedder fields, including detaching from the ContextHolder.
+// ---
+
 #include "gin/per_context_data.h"
 
 #include "gin/public/context_holder.h"

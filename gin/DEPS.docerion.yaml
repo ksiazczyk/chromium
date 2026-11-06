@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the gin directory
+summary: DEPS file restricting includes in gin to //base, //v8, and the v8_context_snapshot buildflags header.

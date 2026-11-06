@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8 platform page allocator implementation
+// summary: Implements gin's page allocator by mapping V8 page permissions onto PartitionAlloc page configurations, including BTI-protected executable pages.
+// ---
+
 #include "v8_platform_page_allocator.h"
 
 #include "base/check_op.h"

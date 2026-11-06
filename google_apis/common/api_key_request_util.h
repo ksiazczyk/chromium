@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: API key request utilities
+// summary: Declares functions to attach API keys to network requests and internal getters for keys from URL query parameters or headers.
+// ---
+
 #ifndef GOOGLE_APIS_COMMON_API_KEY_REQUEST_UTIL_H_
 #define GOOGLE_APIS_COMMON_API_KEY_REQUEST_UTIL_H_
 

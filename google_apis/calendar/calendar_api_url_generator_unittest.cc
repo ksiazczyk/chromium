@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Calendar API URL generator unit tests
+// summary: Unit tests verifying that CalendarApiUrlGenerator produces the expected Google Calendar API URLs for event, color, and calendar list requests, including default optional parameters.
+// ---
+
 #include "google_apis/calendar/calendar_api_url_generator.h"
 
 #include <optional>

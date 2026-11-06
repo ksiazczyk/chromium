@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web instance host internal helper declarations
+// summary: Declares internal helpers that register web instance product data, append launch arguments, and list dynamically provisioned services for WebEngine contexts.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBINSTANCE_HOST_WEB_INSTANCE_HOST_INTERNAL_H_
 #define FUCHSIA_WEB_WEBINSTANCE_HOST_WEB_INSTANCE_HOST_INTERNAL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of google_api_keys_mac.mm.
+type: source
+title: Mac API key from Info.plist implementation
+summary: Objective-C++ implementation that reads a named Google API key entry from the framework bundle Info.plist on macOS.

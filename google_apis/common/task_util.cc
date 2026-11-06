@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task runner helper implementation
+// summary: Implements RunTaskWithTaskRunner, which posts a closure to a given task runner and asserts the post succeeds.
+// ---
+
 #include "google_apis/common/task_util.h"
 
 #include "base/location.h"

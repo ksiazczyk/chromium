@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: List student submissions request implementation
+// summary: Implements the Google Classroom API request that fetches a page of student submissions for a course work item and parses the JSON response into StudentSubmissions.
+// ---
+
 #include "google_apis/classroom/classroom_api_list_student_submissions_request.h"
 
 #include "base/check.h"

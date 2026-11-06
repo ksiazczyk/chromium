@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Courses response types implementation
+// summary: Implements JSON parsing of Classroom course responses, mapping course fields and converting the active course state.
+// ---
+
 #include "google_apis/classroom/classroom_api_courses_response_types.h"
 
 #include <memory>

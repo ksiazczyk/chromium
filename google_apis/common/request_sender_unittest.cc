@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for RequestSender
+// summary: Unit tests covering RequestSender's authentication retry, token refresh, cancellation and request completion behavior.
+// ---
+
 #include "google_apis/common/request_sender.h"
 
 #include <utility>
