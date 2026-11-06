@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser-side handler for the Translate Internals page
+// summary: Implements the handler that registers translate callbacks, processes JavaScript messages such as pref removal and country override, and sends prefs and details to the front-end.
+// ---
+
 #include "components/translate/translate_internals/translate_internals_handler.h"
 
 #include <map>

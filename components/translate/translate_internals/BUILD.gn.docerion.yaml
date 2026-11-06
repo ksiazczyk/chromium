@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for translate_internals
+summary: Defines the translate_internals source set and the WebUI build target with its static files, TypeScript sources, and dependencies.

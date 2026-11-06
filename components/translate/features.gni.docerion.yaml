@@ -1,0 +1,4 @@
+# Docerion header of features.gni.
+type: config
+title: PDF translation build feature flag
+summary: Declares the enable_pdf_translation GN build argument, enabling PDF translation only where the PDF component is enabled and the platform is not Android, iOS, or Fuchsia.

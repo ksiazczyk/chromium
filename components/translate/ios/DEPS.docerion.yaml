@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the iOS translate component
+summary: Defines include dependency rules for the iOS translate component, permitting includes from ios/web/public and third_party/ocmock.

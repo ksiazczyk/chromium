@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LanguageState class declaration
+// summary: Declares LanguageState, which holds the language state of the current page per tab and determines whether a newly navigated page should be auto-translated.
+// ---
+
 #ifndef COMPONENTS_TRANSLATE_CORE_BROWSER_LANGUAGE_STATE_H_
 #define COMPONENTS_TRANSLATE_CORE_BROWSER_LANGUAGE_STATE_H_
 

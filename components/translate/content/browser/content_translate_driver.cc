@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content implementation of the translate driver
+// summary: Implements the browser-side translate driver that observes WebContents, initiates translation and communicates with the translate agent.
+// ---
+
 #include "components/translate/content/browser/content_translate_driver.h"
 
 #include "pdf/buildflags.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PartialTranslateManager unit tests
+// summary: Unit tests for PartialTranslateManager using a fake contextual search delegate to verify context creation and response building.
+// ---
+
 #include "components/translate/content/browser/partial_translate_manager.h"
 
 #include "base/functional/callback_helpers.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate ranker implementation header
+// summary: Declares TranslateRankerImpl and the TranslateRankerFeatures struct used for model-based translation prompt decisions, event caching, and UKM logging.
+// ---
+
 #ifndef COMPONENTS_TRANSLATE_CORE_BROWSER_TRANSLATE_RANKER_IMPL_H_
 #define COMPONENTS_TRANSLATE_CORE_BROWSER_TRANSLATE_RANKER_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslateController class declaration
+// summary: Declares TranslateController, a WebStateUserData that injects translate scripts, starts and reverts translation, and notifies observers of script readiness and completion.
+// ---
+
 #ifndef COMPONENTS_TRANSLATE_IOS_BROWSER_TRANSLATE_CONTROLLER_H_
 #define COMPONENTS_TRANSLATE_IOS_BROWSER_TRANSLATE_CONTROLLER_H_
 

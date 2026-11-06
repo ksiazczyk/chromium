@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual partial translate network delegate
+// summary: Sends partial translate requests to the Google translate endpoint, honoring data region settings, and handles responses and cancellation.
+// ---
+
 #include "components/translate/content/browser/contextual_translate_delegate.h"
 
 #include "base/check.h"

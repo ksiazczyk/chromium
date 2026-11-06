@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate metrics reporting implementation
+// summary: Implements UMA histogram reporting for the translate component, covering language verification, translation timing, language detection duration, content length, and compact infobar events.
+// ---
+
 #include "components/translate/core/common/translate_metrics.h"
 
 #include <stddef.h>

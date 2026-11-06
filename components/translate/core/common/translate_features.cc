@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate feature flag definitions
+// summary: Defines base::Feature flags for translate features such as PDF translation, language search UI, and translate triggering, with a helper handling benchmarking overrides.
+// ---
+
 #include "components/translate/core/common/translate_features.h"
 
 #include "base/base_switches.h"

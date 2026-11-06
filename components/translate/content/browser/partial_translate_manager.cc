@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartialTranslateManager implementation
+// summary: Implements partial translation of selected text, routing requests to the One Platform API or the contextual search delegate and recording response metrics.
+// ---
+
 #include "components/translate/content/browser/partial_translate_manager.h"
 
 #include "base/feature_list.h"

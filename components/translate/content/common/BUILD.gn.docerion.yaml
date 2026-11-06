@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for translate common Mojo bindings
+summary: Defines the mojom target for translate.mojom with PDF feature gating, public dependencies, and C++ typemaps backed by the translate Mojom traits files.

@@ -4,6 +4,12 @@
 //
 // Experimental Translation Assist Model to allow/suppress translation prompts.
 
+// ---docerion
+// type: source
+// title: Ranker model protobuf definitions
+// summary: Defines the RankerModelProto message with metadata for model source, last modified time, and cache duration, wrapping a TranslateRankerModel.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

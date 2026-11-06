@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Lists code owners for the iOS translate resources directory, delegating trivial or mechanical changes to the WebUI platform owners.

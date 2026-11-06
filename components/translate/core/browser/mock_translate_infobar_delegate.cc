@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockTranslateInfoBarDelegate implementation
+// summary: Implements a mock language model and infobar delegate plus a factory that wires up translate manager dependencies for infobar tests.
+// ---
+
 #include "components/translate/core/browser/mock_translate_infobar_delegate.h"
 
 namespace translate {

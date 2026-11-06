@@ -1,3 +1,9 @@
+---
+type: readme
+title: Translate component overview
+summary: Explains language detection constraints and the planned layered component structure with core, content, and ios drivers for sharing translate code, including on iOS.
+---
+
 - translate/language detection depends on the CLD library and should only be
 used from the renderer to avoid bloating the DLLs on Windows.
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate UI languages manager implementation
+// summary: Implements TranslateUILanguagesManager, which builds a locale-sorted list of supported languages and tracks source and target language indices for the translate UIs.
+// ---
+
 #include "components/translate/core/browser/translate_ui_languages_manager.h"
 
 #include <algorithm>

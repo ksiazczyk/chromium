@@ -8,6 +8,12 @@
  *
  */
 
+// ---docerion
+// type: source
+// title: iOS translate script
+// summary: TypeScript translate script for iOS that installs ready, result, and JavaScript-loading callbacks and exposes translation functions to the native host via WebKit messages.
+// ---
+
 import {CrWebApi, gCrWeb} from '//ios/web/public/js_messaging/resources/gcrweb.js';
 import {sendWebKitMessage} from '//ios/web/public/js_messaging/resources/utils.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the language detection model
+// summary: Tests model language predictions, reliability, and related histogram metrics using a valid test language model.
+// ---
+
 #include "components/translate/core/language_detection/language_detection_model.h"
 
 #include <memory>

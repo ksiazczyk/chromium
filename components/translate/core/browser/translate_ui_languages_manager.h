@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate UI languages manager class declaration
+// summary: Declares the TranslateUILanguagesManager class that manages language list indices and lookup of language codes and display names for the translate UI.
+// ---
+
 #ifndef COMPONENTS_TRANSLATE_CORE_BROWSER_TRANSLATE_UI_LANGUAGES_MANAGER_H_
 #define COMPONENTS_TRANSLATE_CORE_BROWSER_TRANSLATE_UI_LANGUAGES_MANAGER_H_
 

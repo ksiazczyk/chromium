@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate preferences implementation
+// summary: Implements TranslatePrefs, managing translate-related user preferences including language allowlists and blocklists, language matching, and migration of obsolete preferences.
+// ---
+
 #include "components/translate/core/browser/translate_prefs.h"
 
 #include <algorithm>

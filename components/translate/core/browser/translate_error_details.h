@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslateErrorDetails struct
+// summary: Defines the TranslateErrorDetails struct holding the time, URL, and error type of a translation error.
+// ---
+
 #ifndef COMPONENTS_TRANSLATE_CORE_BROWSER_TRANSLATE_ERROR_DETAILS_H_
 #define COMPONENTS_TRANSLATE_CORE_BROWSER_TRANSLATE_ERROR_DETAILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate command-line switch definitions
+// summary: Defines command-line switch names that override the translate script URL, security origin, translate ranker model URL, and forced target translation language.
+// ---
+
 #include "components/translate/core/common/translate_switches.h"
 
 namespace translate {

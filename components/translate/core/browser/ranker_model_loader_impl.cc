@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ranker model loader implementation
+// summary: Implements RankerModelLoaderImpl, which loads a ranker model from a cached file path, falls back to downloading it from a URL, and records UMA metrics for the outcomes.
+// ---
+
 #include "components/translate/core/browser/ranker_model_loader_impl.h"
 
 #include <memory>

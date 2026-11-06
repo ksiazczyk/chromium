@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LanguageState implementation
+// summary: Implements per-tab language state tracking that records source and current languages and decides when a navigation should be auto-translated.
+// ---
+
 #include "components/translate/core/browser/language_state.h"
 
 #include "base/check.h"

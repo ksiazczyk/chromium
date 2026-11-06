@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate Mojom traits implementation
+// summary: Implements Mojo enum and struct traits that map translate::TranslateErrors and LanguageDetectionDetails to and from their Mojom counterparts.
+// ---
+
 #include "components/translate/content/common/translate_mojom_traits.h"
 
 #include "base/notreached.h"

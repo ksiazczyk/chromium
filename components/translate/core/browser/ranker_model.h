@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RankerModel class declarations
+// summary: Declares the RankerModel class wrapping a RankerModelProto with construction from string, expiry checks, and string serialization.
+// ---
+
 #ifndef COMPONENTS_TRANSLATE_CORE_BROWSER_RANKER_MODEL_H_
 #define COMPONENTS_TRANSLATE_CORE_BROWSER_RANKER_MODEL_H_
 

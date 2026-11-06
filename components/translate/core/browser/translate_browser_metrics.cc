@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate browser metrics implementation
+// summary: Implements UMA histogram reporting for translate features, including language detection content length, href hint status, menu translation reasons, and PDF languages.
+// ---
+
 #include "components/translate/core/browser/translate_browser_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

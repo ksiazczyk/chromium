@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockTranslateDriver implementation
+// summary: Implements a fake TranslateDriver that records translate calls and exposes configurable URL, MIME type and incognito state for tests.
+// ---
+
 #include "components/translate/core/browser/mock_translate_driver.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslateMetricsLoggerImpl implementation
+// summary: Implements TranslateMetricsLoggerImpl, which records UMA histograms and UKM entries for translation frequency, UI interactions, page-load states and application start metrics.
+// ---
+
 #include "components/translate/core/browser/translate_metrics_logger_impl.h"
 
 #include "base/metrics/histogram_functions.h"

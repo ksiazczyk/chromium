@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslateAgent implementation
+// summary: Implements the renderer-side TranslateAgent that injects the translate script, detects page language, and drives and monitors page translation.
+// ---
+
 #include "components/translate/content/renderer/translate_agent.h"
 
 #include <stddef.h>

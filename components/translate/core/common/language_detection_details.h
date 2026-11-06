@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language detection details struct declaration
+// summary: Declares the LanguageDetectionDetails struct holding detected languages, URL, reliability scores, and model version, mirroring the translate.mojom definition.
+// ---
+
 #ifndef COMPONENTS_TRANSLATE_CORE_COMMON_LANGUAGE_DETECTION_DETAILS_H_
 #define COMPONENTS_TRANSLATE_CORE_COMMON_LANGUAGE_DETECTION_DETAILS_H_
 

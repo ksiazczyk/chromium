@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Translate browser component build definition
+summary: GN build rules for the browser-side translate library, its unit tests and test support, with optional PDF translation sources.

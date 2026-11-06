@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslateManager implementation
+// summary: Implements TranslateManager, the core component that handles language detection, decides when to show the translate UI, triggers translations and reports translate errors and metrics.
+// ---
+
 #include "components/translate/core/browser/translate_manager.h"
 
 #include <map>

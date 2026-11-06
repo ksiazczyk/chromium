@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate URL utility implementation
+// summary: Implements helpers that append the Translate API key and the host application locale as query parameters to translate-related URLs.
+// ---
+
 #include "components/translate/core/browser/translate_url_util.h"
 
 #include "components/translate/core/browser/translate_download_manager.h"

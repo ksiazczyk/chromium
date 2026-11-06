@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslateJavaScriptFeature class declaration
+// summary: Declares TranslateJavaScriptFeature, a JavaScriptFeature singleton that listens for translate messages and starts, reverts, or injects translation scripts in web frames.
+// ---
+
 #ifndef COMPONENTS_TRANSLATE_IOS_BROWSER_TRANSLATE_JAVA_SCRIPT_FEATURE_H_
 #define COMPONENTS_TRANSLATE_IOS_BROWSER_TRANSLATE_JAVA_SCRIPT_FEATURE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzz test for page language determination
+// summary: Fuzz test that calls DeterminePageLanguage with arbitrary inputs to verify it does not crash.
+// ---
+
 #include <string>
 
 #include "components/translate/core/language_detection/language_detection_util.h"

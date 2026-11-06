@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFTranslationCoordinator class declaration
+// summary: Declares the per-document coordinator that orchestrates the PDF translation lifecycle and asynchronous translatability checks.
+// ---
+
 #ifndef COMPONENTS_TRANSLATE_CONTENT_BROWSER_PDF_PDF_TRANSLATION_COORDINATOR_H_
 #define COMPONENTS_TRANSLATE_CONTENT_BROWSER_PDF_PDF_TRANSLATION_COORDINATOR_H_
 

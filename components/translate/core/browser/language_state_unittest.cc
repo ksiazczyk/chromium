@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LanguageState unit tests
+// summary: Unit tests verifying page translation state, predefined target language handling and driver notifications in LanguageState.
+// ---
+
 #include "components/translate/core/browser/language_state.h"
 
 #include "base/i18n/language_tag.h"

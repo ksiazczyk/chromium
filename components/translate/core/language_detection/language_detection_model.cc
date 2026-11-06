@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TFLite language detection model implementation
+// summary: Implements the LanguageDetectionModel wrapper that runs the TFLite model to determine page language and reports reliability scores and metrics.
+// ---
+
 #include "components/translate/core/language_detection/language_detection_model.h"
 
 #include "base/functional/callback.h"

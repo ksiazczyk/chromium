@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TranslateMessageTest – unit tests for TranslateMessage
+// summary: Robolectric unit tests for TranslateMessage covering creation failure cases, message banner properties, dismissal handling, and interactions with the mocked native JNI bridge.
+// ---
+
 package org.chromium.components.translate;
 
 import static org.mockito.ArgumentMatchers.eq;

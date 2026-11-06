@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the translate core browser component
+summary: GN build file defining the browser static library, translate pref names, ranker protobuf targets and unit tests for the translate core browser component.

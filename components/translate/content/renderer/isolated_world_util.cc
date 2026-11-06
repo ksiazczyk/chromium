@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated world initialization utility
+// summary: Implements EnsureIsolatedWorldInitialized, which sets the translate security origin and an empty content security policy for the isolated world.
+// ---
+
 #include "components/translate/content/renderer/isolated_world_util.h"
 
 #include <optional>

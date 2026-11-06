@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TranslateUIDelegate unit tests
+// summary: Unit tests for TranslateUIDelegate covering content languages, language blocking, and translation actions using mock translate client, driver, and ranker.
+// ---
+
 #include "components/translate/core/browser/translate_ui_delegate.h"
 
 #include "base/command_line.h"

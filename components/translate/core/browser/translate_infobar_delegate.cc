@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslateInfoBarDelegate implementation
+// summary: Implements the TranslateInfoBarDelegate that creates and manages translate infobars, including step changes, language updates, and error handling.
+// ---
+
 #include "components/translate/core/browser/translate_infobar_delegate.h"
 
 #include <algorithm>

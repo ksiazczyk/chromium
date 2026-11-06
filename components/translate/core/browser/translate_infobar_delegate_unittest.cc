@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TranslateInfoBarDelegate unit tests
+// summary: Unit tests for TranslateInfoBarDelegate covering infobar creation, replacement, observer notifications, and language handling.
+// ---
+
 #include "components/translate/core/browser/translate_infobar_delegate.h"
 
 #include <string>

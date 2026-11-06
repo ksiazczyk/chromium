@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDFTranslationCoordinator unit tests
+// summary: Unit tests for PDFTranslationCoordinator using fake PDF listeners to verify translatability checks and status transitions.
+// ---
+
 #include "components/translate/content/browser/pdf_translation_coordinator.h"
 
 #include <memory>

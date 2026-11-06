@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate metrics declarations
+// summary: Declares UMA histogram name constants, the language verification and infobar event enums, and reporting functions for translate timing, verification, and infobar interaction metrics.
+// ---
+
 #ifndef COMPONENTS_TRANSLATE_CORE_COMMON_TRANSLATE_METRICS_H_
 #define COMPONENTS_TRANSLATE_CORE_COMMON_TRANSLATE_METRICS_H_
 

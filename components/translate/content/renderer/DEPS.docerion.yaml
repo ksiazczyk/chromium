@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for translate renderer
+summary: Chromium DEPS file listing the include rules permitted for the translate content renderer directory.

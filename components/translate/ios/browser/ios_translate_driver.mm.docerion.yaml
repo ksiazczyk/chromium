@@ -1,0 +1,4 @@
+# Docerion header of ios_translate_driver.mm.
+type: source
+title: IOSTranslateDriver implementation
+summary: Implements IOSTranslateDriver, handling navigation events, language determination, translation timeouts, and the translation lifecycle for iOS WebStates.

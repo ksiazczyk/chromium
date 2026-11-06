@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ranker model loader unit tests
+// summary: Unit tests for RankerModelLoaderImpl covering loading from local files and remote URLs, model validation, expiry, and callback behavior.
+// ---
+
 #include "components/translate/core/browser/ranker_model_loader_impl.h"
 
 #include <initializer_list>

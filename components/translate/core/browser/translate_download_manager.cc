@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslateDownloadManager implementation
+// summary: Implements the TranslateDownloadManager singleton that manages downloaded translate resources such as the language list and translate script.
+// ---
+
 #include "components/translate/core/browser/translate_download_manager.h"
 
 #include <string_view>

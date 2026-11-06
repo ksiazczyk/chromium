@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ranker URL fetcher implementation
+// summary: Implements RankerURLFetcher, which downloads ranker models via SimpleURLLoader with a retry limit and a network traffic annotation.
+// ---
+
 #include "components/translate/core/browser/ranker_url_fetcher.h"
 
 #include <optional>

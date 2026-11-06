@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslateInitDetails struct header
+// summary: Declares the TranslateInitDetails struct holding creation time, page URL, source and target languages, trigger decision and UI-shown flag for translation initialization.
+// ---
+
 #ifndef COMPONENTS_TRANSLATE_CORE_BROWSER_TRANSLATE_INIT_DETAILS_H_
 #define COMPONENTS_TRANSLATE_CORE_BROWSER_TRANSLATE_INIT_DETAILS_H_
 

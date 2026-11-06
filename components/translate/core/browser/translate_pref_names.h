@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate preference name constants
+// summary: Defines preference name constants for translate settings such as offer-translate, always-translate allowlists, recent targets, blocked languages, and data region.
+// ---
+
 #ifndef COMPONENTS_TRANSLATE_CORE_BROWSER_TRANSLATE_PREF_NAMES_H_
 #define COMPONENTS_TRANSLATE_CORE_BROWSER_TRANSLATE_PREF_NAMES_H_
 

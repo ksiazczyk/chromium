@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextualTranslateDelegate header
+// summary: Declares the delegate that sends user-selected text to the One Platform Google Translate API, builds requests and parses JSON responses.
+// ---
+
 #ifndef COMPONENTS_TRANSLATE_CONTENT_BROWSER_CONTEXTUAL_TRANSLATE_DELEGATE_H_
 #define COMPONENTS_TRANSLATE_CONTENT_BROWSER_CONTEXTUAL_TRANSLATE_DELEGATE_H_
 

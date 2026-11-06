@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Translate utility unit and fuzz tests
+// summary: Tests the translate security origin default and command-line override, plus a fuzz test checking that GetTranslateSecurityOrigin does not crash on fuzzed input.
+// ---
+
 #include "components/translate/core/common/translate_util.h"
 
 #include <string>

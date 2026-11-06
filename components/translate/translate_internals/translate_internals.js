@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Front-end script for the Translate Internals page
+// summary: Initializes the Translate Internals UI, renders preferences and log tables, formats language codes and error types, and exchanges messages with the browser handler.
+// ---
+
 // <if expr="is_ios">
 import 'chrome://resources/js/ios/web_ui.js';
 // </if>

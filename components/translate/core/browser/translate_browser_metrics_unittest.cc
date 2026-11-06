@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Translate browser metrics unit tests
+// summary: Unit tests verifying that translate browser metrics are reported to the expected histograms with correct bucket counts.
+// ---
+
 #include "components/translate/core/browser/translate_browser_metrics.h"
 
 #include <memory>

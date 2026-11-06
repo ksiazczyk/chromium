@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Translate metrics unit tests
+// summary: Unit tests that snapshot translate-related UMA histograms and check recorded counts for language verification types, timing values, and other translate metrics.
+// ---
+
 #include "components/translate/core/common/translate_metrics.h"
 
 #include <memory>

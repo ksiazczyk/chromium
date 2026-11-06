@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for iOS translate browser
+summary: Defines the browser source set, injected JavaScript target, and unit test targets for the iOS translate component along with their dependencies.

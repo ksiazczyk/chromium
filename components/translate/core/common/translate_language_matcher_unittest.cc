@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Translate language matcher unit tests
+// summary: Unit tests verifying that the translate language matcher maps language tags to fallbacks such as nb to no, in to id, and Chinese regional variants to zh-CN or zh-TW.
+// ---
+
 #include "components/translate/core/common/translate_language_matcher.h"
 
 #include <optional>

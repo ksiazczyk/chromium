@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Translate component owners
+summary: Lists code owners and specialized reviewers for the translate component, including per-file reviewers for translate metrics.

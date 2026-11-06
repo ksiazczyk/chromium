@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for language detection
+summary: Lists allowed include paths such as optimization guide, CLD3, TFLite, and fuzztest for this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFTranslationCoordinator implementation
+// summary: Implements per-document PDF translation coordination, running asynchronous checks for meaningful text, JavaScript and password protection to decide translatability.
+// ---
+
 #include "components/translate/content/browser/pdf_translation_coordinator.h"
 
 #include <utility>

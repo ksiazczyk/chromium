@@ -1,0 +1,4 @@
+# Docerion header of ios_translate_driver_unittest.mm.
+type: test
+title: IOSTranslateDriver unit tests
+summary: Unit tests for IOSTranslateDriver covering translation timeout and success behavior using fake web states and mock translate clients.

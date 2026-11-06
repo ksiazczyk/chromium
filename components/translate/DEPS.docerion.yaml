@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Translate component dependency rules
+summary: Defines allowed include dependencies for the translate component and blocks use of the content layer unless subdirectories explicitly enable it.
