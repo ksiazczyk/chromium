@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Android app list model
+// summary: Provides a fake AndroidAppListModel populated from app names for use in unit tests.
+// ---
+
 import {NativeEventTarget as EventTarget} from 'chrome://resources/ash/common/event_target.js';
 
 import type {AndroidAppListModel} from './android_app_list_model.js';

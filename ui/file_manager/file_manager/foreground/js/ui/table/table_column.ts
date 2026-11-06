@@ -6,6 +6,12 @@
  * @fileoverview This is a table column representation
  */
 
+// ---docerion
+// type: source
+// title: Table column representation
+// summary: Defines the TableColumn class wrapping a column's id, name, width, visibility, alignment, sort order, and cell and header render functions.
+// ---
+
 import {dispatchPropertyChange} from 'chrome://resources/ash/common/cr_deprecated.js';
 import {NativeEventTarget as EventTarget} from 'chrome://resources/ash/common/event_target.js';
 

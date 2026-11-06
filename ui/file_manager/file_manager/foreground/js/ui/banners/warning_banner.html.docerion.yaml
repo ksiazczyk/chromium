@@ -1,0 +1,4 @@
+# Docerion header of warning_banner.html.
+type: source
+title: Warning banner HTML template
+summary: HTML template for the warning banner with a warning icon, message slot and dismiss and extra button slots.

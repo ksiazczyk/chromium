@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Files menu item with ripple animation
+// summary: Defines FilesMenuItem, a menu item with start, managed and end icons plus ripple and fade-out animations for Files app menus.
+// ---
+
 import {assertInstanceof} from 'chrome://resources/js/assert.js';
 import type {PaperRippleElement} from 'chrome://resources/polymer/v3_0/paper-ripple/paper-ripple.js';
 

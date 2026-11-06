@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: List thumbnail loader unit tests
+// summary: Unit tests for ListThumbnailLoader using mock thumbnail loaders, models and volume manager to verify thumbnail loading and event behavior.
+// ---
+
 import {NativeEventTarget as EventTarget} from 'chrome://resources/ash/common/event_target.js';
 import {assert} from 'chrome://resources/js/assert.js';
 import {assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chromeos/chai_assert.js';

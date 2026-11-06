@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiMetadataProvider dispatching to metadata providers
+// summary: Implements MultiMetadataProvider, which routes metadata requests to file system, external, content, and DLP providers based on property names and volume type.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import type {VolumeManager} from '../../../background/js/volume_manager.js';

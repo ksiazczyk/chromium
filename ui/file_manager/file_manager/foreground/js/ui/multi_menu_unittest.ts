@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MultiMenu unit tests
+// summary: Unit tests for the Files app multi menu button, setting up menus and commands and exercising mouse events, submenus, and focus behavior.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import {getTrustedHTML} from 'chrome://resources/js/static_types.js';
 import {assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chromeos/chai_assert.js';

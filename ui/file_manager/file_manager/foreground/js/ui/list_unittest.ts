@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: List element unit tests
+// summary: Unit tests for the List element covering pinned item clearing on redraw and lookup of list item ancestors for clicks.
+// ---
+
 import {assertEquals} from 'chrome://webui-test/chromeos/chai_assert.js';
 
 import {ArrayDataModel} from '../../../common/js/array_data_model.js';

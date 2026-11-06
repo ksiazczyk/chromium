@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Naming controller
+// summary: Handles file and folder naming, validating names for creation, rename, and save operations and showing error dialogs when invalid.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import type {VolumeInfo} from '../../background/js/volume_info.js';

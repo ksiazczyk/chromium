@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThumbnailModel for fetching file thumbnail metadata
+// summary: TypeScript class that queries the metadata model for thumbnail URLs, custom icons, and content thumbnail transforms for image and audio entries in the Files app.
+// ---
+
 import {isAudio, isImage} from '../../../common/js/file_type.js';
 import type {FilesAppEntry} from '../../../common/js/files_app_entry_types.js';
 

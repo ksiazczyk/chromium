@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: List control implementation
+// summary: Implements the abstract List element with item caching, measured item sizes, fillers and data and selection model wiring.
+// ---
+
 import {dispatchSimpleEvent} from 'chrome://resources/ash/common/cr_deprecated.js';
 import {assert} from 'chrome://resources/js/assert.js';
 

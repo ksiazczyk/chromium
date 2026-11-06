@@ -6,6 +6,12 @@
  * @fileoverview Start point for Files app.
  */
 
+// ---docerion
+// type: source
+// title: Files app main entry point
+// summary: Entry point that creates the FileManager instance, reads the window number, and initializes core and UI before reporting readiness.
+// ---
+
 import '../../background/js/metrics_start.js';
 import '../../common/js/error_counter.js';
 import './metrics_start.js';

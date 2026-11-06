@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP metadata provider for file restriction status
+// summary: Metadata provider that fetches Data Leak Prevention status such as isDlpRestricted and sourceUrl for entries, filtering out fake entries and handling disabled DLP.
+// ---
+
 import {getDlpMetadata} from '../../../common/js/api.js';
 import {isFakeEntry} from '../../../common/js/entry_utils.js';
 import {isDlpEnabled} from '../../../common/js/flags.js';

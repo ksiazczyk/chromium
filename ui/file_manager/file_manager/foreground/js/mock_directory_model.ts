@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake directory model for unit tests
+// summary: Creates fake directory model and file filter objects used in place of the real DirectoryModel during unit tests.
+// ---
+
 import {NativeEventTarget as EventTarget} from 'chrome://resources/ash/common/event_target.js';
 
 import type {VolumeInfo} from '../../background/js/volume_info.js';

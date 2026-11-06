@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock thumbnail loader
+// summary: Test double for ThumbnailLoader that returns configurable test image data or throws for configured error URLs.
+// ---
+
 import type {LoadTarget} from './thumbnail_loader.js';
 
 /**

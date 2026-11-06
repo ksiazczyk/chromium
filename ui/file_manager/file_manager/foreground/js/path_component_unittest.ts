@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for path component computation
+// summary: Unit tests verifying that PathComponent computes correct breadcrumb components for Drive shared items, Computers, root, and shared drive paths.
+// ---
+
 import {assertEquals} from 'chrome://webui-test/chromeos/chai_assert.js';
 
 import {fakeDriveVolumeId, fakeMyFilesVolumeId, MockVolumeManager} from '../../background/js/mock_volume_manager.js';

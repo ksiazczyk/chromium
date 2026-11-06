@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Empty folder controller
+// summary: Controls the empty folder UI for the file list, covering Recents, Trash, empty search results, and OneDrive account states like reauthentication.
+// ---
+
 import {sanitizeInnerHtml} from 'chrome://resources/js/parse_html_subset.js';
 
 import type {VolumeInfo} from '../../background/js/volume_info.js';

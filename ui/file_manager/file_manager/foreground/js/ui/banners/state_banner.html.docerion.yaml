@@ -1,0 +1,4 @@
+# Docerion header of state_banner.html.
+type: source
+title: State banner template
+summary: HTML template with styles and layout for the state banner element, including icon, message slot, and button slot.

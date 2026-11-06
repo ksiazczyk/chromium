@@ -1,0 +1,4 @@
+# Docerion header of invalid_usb_filesystem_banner.html.
+type: source
+title: Invalid USB filesystem banner template
+summary: HTML template for the state banner warning about an unknown USB filesystem, with a button to format the device.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image header parsers
+// summary: Defines simple image parsers that read dimensions and header information from PNG, BMP, GIF, WebP and ICO files.
+// ---
+
 import type {ByteReader} from './byte_reader.js';
 import {ByteOrder} from './byte_reader.js';
 import type {ParserMetadata} from './metadata_item.js';

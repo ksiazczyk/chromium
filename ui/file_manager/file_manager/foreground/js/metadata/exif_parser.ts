@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Exif parser for JPEG files
+// summary: Image parser that reads JPEG file slices to extract Exif metadata such as orientation, dimensions and thumbnail information for the Files app.
+// ---
+
 import {ByteOrder, ByteReader, SeekOrigin} from './byte_reader.js';
 import {ExifAlign, type ExifEntry, ExifMark, ExifTag} from './exif_constants.js';
 import type {ImageTransformation, ParserMetadata} from './metadata_item.js';

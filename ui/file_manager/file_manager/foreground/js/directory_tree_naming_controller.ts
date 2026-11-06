@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Directory tree naming controller
+// summary: Controller that manages inline renaming of directory tree items, including removable volume roots, with input handling and rename validation.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import type {VolumeInfo} from '../../background/js/volume_info.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Banner controller
+// summary: Decides which warning and educational banners to show per volume, tracking view counts, dismissals, and display time limits in local storage.
+// ---
+
 import {NativeEventTarget as EventTarget} from 'chrome://resources/ash/common/event_target.js';
 
 import type {Crostini} from '../../background/js/crostini.js';

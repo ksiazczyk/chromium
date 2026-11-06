@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metadata update controller
+// summary: Keeps list item metadata current by refreshing cached metadata, reacting to preference changes, and updating modification times daily.
+// ---
+
 import {isFakeEntry, unwrapEntry} from '../../common/js/entry_utils.js';
 import type {FilesAppEntry} from '../../common/js/files_app_entry_types.js';
 import {type EntryMetadata, updateMetadata} from '../../state/ducks/all_entries.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Files app Store singleton and state helpers
+// summary: Implements the Files app Store singleton with all state slices, the empty state, and helpers like waitForState and getFileData.
+// ---
+
 import type {FilesAppEntry} from '../common/js/files_app_entry_types.js';
 import type {VolumeType} from '../common/js/volume_manager_types.js';
 import {BaseStore} from '../lib/base_store.js';

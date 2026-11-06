@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Warning banner web component
+// summary: High-priority banner class for filesystem issues such as low disk space or Drive being offline, hidden for 36 hours after dismissal.
+// ---
+
 import {visitURL} from '../../../../common/js/util.js';
 
 import {type AllowedVolumeOrType, Banner, BannerEvent} from './types.js';

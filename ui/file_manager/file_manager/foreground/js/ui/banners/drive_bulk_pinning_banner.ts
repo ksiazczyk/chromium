@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive bulk pinning banner
+// summary: Custom element shown on the Drive volume that prompts users to bulk pin files and opens the bulk pinning dialog from its action button.
+// ---
+
 import {RootType, VolumeType} from '../../../../common/js/volume_manager_types.js';
 import type {XfBulkPinningDialog} from '../../../../widgets/xf_bulk_pinning_dialog.js';
 

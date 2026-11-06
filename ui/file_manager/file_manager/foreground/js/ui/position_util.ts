@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Popup positioning utilities
+// summary: Utility functions and anchor types for positioning popups around elements or points, flipping placement when available space is insufficient.
+// ---
+
 import {assertNotReachedCase} from 'chrome://resources/js/assert.js';
 
 /**

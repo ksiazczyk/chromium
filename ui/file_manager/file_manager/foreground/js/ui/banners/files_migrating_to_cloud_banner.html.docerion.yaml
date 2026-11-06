@@ -1,0 +1,4 @@
+# Docerion header of files_migrating_to_cloud_banner.html.
+type: source
+title: Files migrating to cloud banner template
+summary: HTML template for the FilesMigratingToCloudBanner, wrapping a warning banner with a text slot.

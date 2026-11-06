@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File manager dialog base
+// summary: Base class for Files app dialogs that manages showing a single dialog at a time within the modal container.
+// ---
+
 import {getFilesAppModalDialogInstance} from '../../../common/js/util.js';
 
 import {BaseDialog} from './dialogs.js';

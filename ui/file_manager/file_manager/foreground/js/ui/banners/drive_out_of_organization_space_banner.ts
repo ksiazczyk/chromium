@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive out of organization space banner custom element
+// summary: Defines the drive-out-of-organization-space-banner custom element that warns the organization's Drive quota is over and fills in the organization name from quota context.
+// ---
+
 import {str, strf} from '../../../../common/js/translations.js';
 import {RootType, VolumeType} from '../../../../common/js/volume_manager_types.js';
 

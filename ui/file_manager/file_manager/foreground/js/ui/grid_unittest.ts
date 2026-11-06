@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Grid column count unit test
+// summary: Unit test verifying Grid column count calculation across item widths, margins, padding and scrollbar scenarios.
+// ---
+
 import {assertEquals} from 'chrome://webui-test/chromeos/chai_assert.js';
 
 import {ArrayDataModel} from '../../../common/js/array_data_model.js';

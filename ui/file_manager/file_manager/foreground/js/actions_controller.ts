@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actions controller for file selection
+// summary: Manages available actions for the current selection or tree item and updates the UI menus when selection, context menus, or metadata change.
+// ---
+
 import type {VolumeManager} from '../../background/js/volume_manager.js';
 import {getFocusedTreeItem} from '../../common/js/dom_utils.js';
 import {getTreeItemEntry} from '../../common/js/entry_utils.js';

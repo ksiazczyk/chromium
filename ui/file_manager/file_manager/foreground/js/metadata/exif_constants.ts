@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Exif marks, alignment and tag constants
+// summary: Defines enums for Exif JPEG marks, endianness markers, Exif tag IDs and the ExifEntry interface used by the Exif parser.
+// ---
+
 /**
  * Exif marks.
  */

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Providers model for file system providers
+// summary: Model that lists installed file system provider extensions and requests new mount points for manually mountable network providers.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import type {VolumeManager} from '../../background/js/volume_manager.js';

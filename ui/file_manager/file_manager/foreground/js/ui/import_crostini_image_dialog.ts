@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini image import dialog
+// summary: Confirm dialog shown for .tini files that triggers Crostini image import through the fileManagerPrivate API.
+// ---
+
 import {unwrapEntry} from '../../../common/js/entry_utils.js';
 import {str} from '../../../common/js/translations.js';
 

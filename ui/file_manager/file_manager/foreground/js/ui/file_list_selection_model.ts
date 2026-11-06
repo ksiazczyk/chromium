@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File list selection model
+// summary: Selection models for the file list supporting check-select mode and independent lead items.
+// ---
+
 import {ListSelectionModel} from './list_selection_model.js';
 import {ListSingleSelectionModel} from './list_single_selection_model.js';
 

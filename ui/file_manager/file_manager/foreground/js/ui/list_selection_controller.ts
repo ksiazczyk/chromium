@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: List selection controller
+// summary: Selection controller mapping pointer and keyboard navigation to selection model index changes for vertical lists.
+// ---
+
 import type {ListSelectionModel} from './list_selection_model.js';
 import type {ListSingleSelectionModel} from './list_single_selection_model.js';
 

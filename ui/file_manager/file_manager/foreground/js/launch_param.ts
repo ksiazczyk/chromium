@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Launch parameters for Files app windows
+// summary: Parses FilesAppState options into typed parameters such as dialog type, URLs and filters used to launch a new Files app window.
+// ---
+
 import type {FilesAppState, TypeList} from '../../common/js/files_app_state.js';
 import {AllowedPaths} from '../../common/js/volume_manager_types.js';
 import {DialogType} from '../../state/state.js';

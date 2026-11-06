@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive welcome banner custom element
+// summary: Defines the drive-welcome-banner custom element that greets users on the Google Drive volume and its children, extending the EducationalBanner base class.
+// ---
+
 import {RootType, VolumeType} from '../../../../common/js/volume_manager_types.js';
 
 import {getTemplate} from './drive_welcome_banner.html.js';

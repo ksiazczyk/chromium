@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local disk low space banner
+// summary: Custom element that warns when the Downloads volume has 1 GB or less of remaining space.
+// ---
+
 import {RootType, VolumeType} from '../../../../common/js/volume_manager_types.js';
 
 import {getTemplate} from './local_disk_low_space_banner.html.js';

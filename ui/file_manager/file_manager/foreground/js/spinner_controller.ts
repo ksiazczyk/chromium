@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spinner controller
+// summary: Controls spinner visibility with stacked show requests, delayed display, and a timed blink, hiding the element only when all requests are released.
+// ---
+
 /**
  * Controller for spinners. Spinner requests can be stacked. Eg. if show()
  * is called 3 times, the hide callback has to be called 3 times to make the

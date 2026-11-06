@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: List selection model test utilities
+// summary: Shared helpers that build index ranges and apply list adjustments to selection models, used by the selection model unit tests.
+// ---
+
 // clang-format off
 import type {ListSelectionModel} from './list_selection_model.js';
 import type {ListSingleSelectionModel} from './list_single_selection_model.js';

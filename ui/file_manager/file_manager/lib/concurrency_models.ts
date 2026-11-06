@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Concurrency models for ActionsProducers
+// summary: Provides keepLatest, keyedKeepFirst and keyedKeepLatest wrappers that cancel or skip ActionsProducer calls according to concurrency rules.
+// ---
+
 import {type ActionsProducer, type ActionsProducerGen, ConcurrentActionInvalidatedError} from './actions_producer.js';
 
 /**

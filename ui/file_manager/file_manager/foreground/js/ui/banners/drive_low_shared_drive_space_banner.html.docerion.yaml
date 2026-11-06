@@ -1,0 +1,4 @@
+# Docerion header of drive_low_shared_drive_space_banner.html.
+type: source
+title: Drive low shared drive space banner template
+summary: HTML template for the warning banner shown when a shared drive's storage runs low, with learn more and dismiss buttons.

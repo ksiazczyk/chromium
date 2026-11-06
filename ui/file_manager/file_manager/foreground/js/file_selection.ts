@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File selection handling
+// summary: Implements FileSelection and FileSelectionHandler to track the current selection, compute metadata like offline and encrypted state, and emit selection change events.
+// ---
+
 import type {VolumeManager} from '../../background/js/volume_manager.js';
 import {isReadOnlyForDelete} from '../../common/js/entry_utils.js';
 import {isEncrypted} from '../../common/js/file_type.js';

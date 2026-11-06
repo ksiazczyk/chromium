@@ -1,0 +1,4 @@
+# Docerion header of educational_banner.html.
+type: source
+title: Educational banner template
+summary: HTML template and styles for the EducationalBanner web component, with slots for title, subtitle, illustration and buttons.

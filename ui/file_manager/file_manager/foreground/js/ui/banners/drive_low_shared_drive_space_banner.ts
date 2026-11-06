@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive low shared drive space banner
+// summary: Custom element that warns users when remaining space on a Google shared drive falls below 20%, displaying quota details from the passed context.
+// ---
+
 import {bytesToString, strf} from '../../../../common/js/translations.js';
 import {RootType, VolumeType} from '../../../../common/js/volume_manager_types.js';
 

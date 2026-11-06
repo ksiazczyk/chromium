@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for file open tasks
+// summary: Unit tests for FileTasks covering task lookup, execution failures, ZIP mounting panels, and password-protected file handling with mocked Chrome APIs.
+// ---
+
 import {loadTimeData} from 'chrome://resources/ash/common/load_time_data.m.js';
 import {assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chromeos/chai_assert.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the UI entries slice
+// summary: Tests adding and removing UI entries, duplicate handling and updating MyFiles children when entries are added.
+// ---
+
 import {assertEquals} from 'chrome://webui-test/chai_assert.js';
 
 import {MockVolumeManager} from '../../background/js/mock_volume_manager.js';

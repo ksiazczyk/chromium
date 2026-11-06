@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Exif parser
+// summary: Unit tests for ExifParser that build synthetic Exif data with a ByteWriter helper and verify parsing of tags, endianness and metadata values.
+// ---
+
 import {assertEquals, assertTrue} from 'chrome://webui-test/chromeos/chai_assert.js';
 
 import {ByteOrder, ByteReader} from './byte_reader.js';

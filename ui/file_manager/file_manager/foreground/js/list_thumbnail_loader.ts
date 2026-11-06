@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: List thumbnail loader
+// summary: Loads thumbnails for the visible list viewport with priority, prefetching and an LRU cache, dispatching thumbnail-loaded events.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import type {VolumeManager} from '../../background/js/volume_manager.js';

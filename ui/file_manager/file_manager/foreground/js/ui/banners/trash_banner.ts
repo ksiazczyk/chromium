@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trash banner web component
+// summary: Banner shown when navigating to the Trash root, warning that files there are automatically removed after 30 days.
+// ---
+
 import {RootType} from '../../../../common/js/volume_manager_types.js';
 
 import {StateBanner} from './state_banner.js';

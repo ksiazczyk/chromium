@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini foreground UI controller
+// summary: Manages the Linux files entry in the UI and shows toasts about folders shared with Crostini and Bruschetta VMs.
+// ---
+
 
 import type {Crostini} from '../../background/js/crostini.js';
 import {FakeEntryImpl} from '../../common/js/files_app_entry_types.js';

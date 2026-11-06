@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OneDrive placeholder UI controller
+// summary: Manages the foreground UI for the OneDrive placeholder root, adding or removing it in the store based on SkyVault policy preferences.
+// ---
+
 import {OneDrivePlaceholder} from '../../common/js/files_app_entry_types.js';
 import {isSkyvaultV2Enabled} from '../../common/js/flags.js';
 import {str} from '../../common/js/translations.js';

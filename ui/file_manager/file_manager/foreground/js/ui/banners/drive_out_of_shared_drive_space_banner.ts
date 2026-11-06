@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive out of shared drive space banner custom element
+// summary: Defines the drive-out-of-shared-drive-space-banner custom element that warns about shared drive quota exhaustion when browsing the shared drive root.
+// ---
+
 import {RootType, VolumeType} from '../../../../common/js/volume_manager_types.js';
 
 import {getTemplate} from './drive_out_of_shared_drive_space_banner.html.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metadata cache set
+// summary: Maps file entry URLs to cached metadata items and manages requests, snapshots and update events for the metadata model.
+// ---
+
 import {NativeEventTarget as EventTarget} from 'chrome://resources/ash/common/event_target.js';
 
 import {entriesToURLs} from '../../../common/js/entry_utils.js';

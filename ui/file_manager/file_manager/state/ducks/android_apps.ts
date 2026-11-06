@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android apps store slice
+// summary: Defines the androidApps slice that stores Android picker apps from fileManagerPrivate, including icon handling, for FilePicker mode.
+// ---
+
 import {iconSetToCSSBackgroundImageValue} from '../../common/js/util.js';
 import {ICON_TYPES} from '../../foreground/js/constants.js';
 import {Slice} from '../../lib/base_store.js';

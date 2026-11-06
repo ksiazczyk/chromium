@@ -7,6 +7,12 @@
  * users when navigating to Drive.
  */
 
+// ---docerion
+// type: source
+// title: Google One offer banner
+// summary: Defines an educational banner offering the Google One storage perk on the Drive volume, recording show, claim and dismiss user actions.
+// ---
+
 import {recordUserAction} from '../../../../common/js/metrics.js';
 import {RootType, VolumeType} from '../../../../common/js/volume_manager_types.js';
 

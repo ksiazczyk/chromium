@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File system metadata provider unit tests
+// summary: Unit tests checking that FileSystemMetadataProvider returns correct modification time, size and availability for basic and partial requests.
+// ---
+
 import {assertEquals, assertTrue} from 'chrome://webui-test/chromeos/chai_assert.js';
 
 import {FileSystemMetadataProvider} from './file_system_metadata_provider.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External metadata provider for file entry properties
+// summary: Metadata provider that maps chrome.fileManagerPrivate entry properties like thumbnails, sizes, sync status and capabilities into MetadataItem objects.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import {getEntryProperties} from '../../../common/js/api.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Folder shortcuts data model
+// summary: Array-like model for Drive folder shortcuts that persists pinned paths in preferences and keeps them resolved against volume and connection changes.
+// ---
+
 import {getPreferences} from '../../common/js/api.js';
 import type {PermutationEvent} from '../../common/js/array_data_model.js';
 import {AsyncQueue, Group} from '../../common/js/async_util.js';

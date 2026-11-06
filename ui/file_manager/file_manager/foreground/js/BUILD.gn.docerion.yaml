@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn
+summary: GN build configuration that bundles the Files app foreground JavaScript modules and the metadata worker into optimized WebUI build targets.

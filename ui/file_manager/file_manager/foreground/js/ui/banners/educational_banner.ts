@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Educational banner base class
+// summary: Defines the EducationalBanner base class, a reusable Files app banner for highlighting features, extended by concrete banners that override allowedVolumes.
+// ---
+
 import 'chrome://resources/cros_components/button/button.js';
 
 import {isCrosComponentsEnabled} from '../../../../common/js/flags.js';

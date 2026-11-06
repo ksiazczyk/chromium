@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File dialog action controller
+// summary: Handles OK, cancel, new folder and file type filter behavior when the Files app is opened as a file or folder selection dialog.
+// ---
+
 import {assert, assertNotReached} from 'chrome://resources/js/assert.js';
 
 import type {VolumeManager} from '../../background/js/volume_manager.js';

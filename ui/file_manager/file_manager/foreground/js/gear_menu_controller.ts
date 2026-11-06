@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gear menu controller
+// summary: Controller that refreshes the gear menu with remaining space info and mountable providers when the menu is shown or the directory changes.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import {getDriveQuotaMetadata, getSizeStats} from '../../common/js/api.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DLP restricted banner unit tests
+// summary: Unit tests verifying that the DLP restricted banner is allowed on every root type.
+// ---
+
 import './dlp_restricted_banner.js';
 
 import {getTrustedHTML} from 'chrome://resources/js/static_types.js';

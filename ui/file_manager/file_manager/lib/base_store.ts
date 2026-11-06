@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseStore and Slice implementation
+// summary: Implements a Redux-like store with slices, reducers, typed action factories and batched dispatch for the Files app.
+// ---
+
 import {type ActionsProducerGen, ConcurrentActionInvalidatedError, isActionsProducer} from './actions_producer.js';
 import {type Selector, SelectorEmitter, SelectorNode} from './selector.js';
 

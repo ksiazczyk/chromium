@@ -1,0 +1,4 @@
+# Docerion header of shared_with_crostini_banner.html.
+type: source
+title: Shared with Crostini banner template
+summary: HTML template for the banner noting the current folder is shared with Crostini, with a link to manage shared paths.

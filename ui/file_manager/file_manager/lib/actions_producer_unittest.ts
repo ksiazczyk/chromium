@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Unit tests for ActionsProducer concurrency
+// summary: Tests ActionsProducer behavior under the keepLatest, keyedKeepFirst and keyedKeepLatest concurrency models, including cancellation via invalidation errors.
+// ---
+
 import {assertEquals, assertNotReached, assertTrue} from 'chrome://webui-test/chromeos/chai_assert.js';
 
 import {installMockChrome} from '../common/js/mock_chrome.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recents file-type filter controller
+// summary: Controller wiring the file-type filter buttons in the Recents view to the directory model, updating filter states and recording filter usage metrics.
+// ---
+
 import type {CrButtonElement} from 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 
 import {createChild} from '../../common/js/dom_utils.js';

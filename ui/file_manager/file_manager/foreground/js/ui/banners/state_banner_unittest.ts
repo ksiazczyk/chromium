@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: State banner unit tests
+// summary: Unit tests verifying state banner button clicks, default configuration and ChromeOS settings subpage link handling.
+// ---
+
 import './state_banner.js';
 
 import type {CrButtonElement} from 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';

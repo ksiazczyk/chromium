@@ -6,6 +6,12 @@
  * @fileoverview This implements a table header.
  */
 
+// ---docerion
+// type: source
+// title: Table header element
+// summary: Implements the table header element that renders sortable column cells, places column splitters, and redraws on column or data model changes.
+// ---
+
 import {dispatchSimpleEvent} from 'chrome://resources/ash/common/cr_deprecated.js';
 import {assert} from 'chrome://resources/js/assert.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bulk pinning store slice unit tests
+// summary: Tests that bulk pin progress updates are written to the store and overwrite existing values on each update.
+// ---
+
 import {assertDeepEquals} from 'chrome://webui-test/chromeos/chai_assert.js';
 
 import {setupStore} from '../for_tests.js';

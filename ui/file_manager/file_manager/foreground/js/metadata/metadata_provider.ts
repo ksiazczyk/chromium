@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetadataProvider abstract base class
+// summary: Defines the abstract MetadataProvider base class that validates requested property names and obtains metadata for requests.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import type {MetadataItem} from './metadata_item.js';

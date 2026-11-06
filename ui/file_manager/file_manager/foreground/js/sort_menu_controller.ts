@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sort menu controller
+// summary: Manages the sort menu by updating checkmarks on the name, size, type, and date options to reflect the current file list sort field.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import {queryRequiredElement} from '../../common/js/dom_utils.js';

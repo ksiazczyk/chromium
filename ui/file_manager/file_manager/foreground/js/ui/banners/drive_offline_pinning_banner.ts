@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive offline pinning banner custom element
+// summary: Defines the drive-offline-pinning-banner custom element that shows an educational banner about pinning Drive files for offline use when browsing the Drive volume.
+// ---
+
 import {str, strf} from '../../../../common/js/translations.js';
 import {RootType, VolumeType} from '../../../../common/js/volume_manager_types.js';
 

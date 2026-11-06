@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: List selection model
+// summary: Selection model tracking selected indexes with lead and anchor indexes and batching change notifications for list views.
+// ---
+
 import {dispatchPropertyChange} from 'chrome://resources/ash/common/cr_deprecated.js';
 import {assert} from 'chrome://resources/js/assert.js';
 

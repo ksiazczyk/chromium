@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared constants for the Files app foreground
+// summary: Defines shared constants including metadata prefetch property names, default Crostini and Bruschetta VM names, OneDrive custom action IDs and icon types.
+// ---
+
 export const ACTIONS_MODEL_METADATA_PREFETCH_PROPERTY_NAMES = [
   'canPin',
   'hosted',

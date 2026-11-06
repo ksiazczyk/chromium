@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the banner controller
+// summary: Tests banner registration, filtering by allowed volumes, show limits, disk thresholds, and dismissal behavior using fake banner components.
+// ---
+
 import {assertDeepEquals, assertEquals} from 'chrome://webui-test/chromeos/chai_assert.js';
 
 import type {Crostini} from '../../background/js/crostini.js';

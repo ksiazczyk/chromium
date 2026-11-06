@@ -1,3 +1,11 @@
+---
+type: readme
+title: Files app state management
+summary: Documents the Files app state architecture, covering the store, slices, the ducks pattern, actions, reducers, selectors, and how to add new state pieces.
+relations:
+  - documents /ui/file_manager/file_manager/state/store.ts
+---
+
 # Files app state management
 
 This folder contains the data model and the APIs to manage the state for the

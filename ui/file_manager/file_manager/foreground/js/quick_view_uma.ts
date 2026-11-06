@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick View UMA metrics exporter
+// summary: Exports UMA metrics for Quick View, including file type, way of opening, volume type, and dialog type histograms.
+// ---
+
 import type {VolumeManager} from '../../background/js/volume_manager.js';
 import {getExtension} from '../../common/js/file_type.js';
 import type {FilesAppEntry} from '../../common/js/files_app_entry_types.js';

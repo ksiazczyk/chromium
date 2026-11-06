@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the external metadata provider
+// summary: Unit tests that mock the fileManagerPrivate getEntryProperties API and verify ExternalMetadataProvider returns modification times, sizes and root flags correctly.
+// ---
+
 import {assertEquals} from 'chrome://webui-test/chromeos/chai_assert.js';
 
 import {installMockChrome} from '../../../common/js/mock_chrome.js';

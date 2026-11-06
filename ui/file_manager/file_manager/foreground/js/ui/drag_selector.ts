@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drag selector
+// summary: Handles mouse drag selection of multiple items on the file list and grid views.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import type {List} from './list.js';

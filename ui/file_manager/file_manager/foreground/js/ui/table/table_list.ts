@@ -6,6 +6,12 @@
  * @fileoverview This extends List for use in the table.
  */
 
+// ---docerion
+// type: source
+// title: Table list element
+// summary: Extends the List element for use inside a table, resizing row cells to column widths and managing vertical and horizontal scrollbar visibility.
+// ---
+
 import {jsSetter} from '../../../../common/js/cr_ui.js';
 import {List} from '../list.js';
 import type {ListItem} from '../list_item.js';

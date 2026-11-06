@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Single selection model for lists
+// summary: Implements ListSingleSelectionModel, an event-target selection model that allows only one selected index in a list.
+// ---
+
 import {dispatchPropertyChange} from 'chrome://resources/ash/common/cr_deprecated.js';
 import {NativeEventTarget as EventTarget} from 'chrome://resources/ash/common/event_target.js';
 

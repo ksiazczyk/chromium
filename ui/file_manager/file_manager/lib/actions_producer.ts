@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActionsProducer types and invalidation error
+// summary: Defines the ActionsProducer generator types, a helper to distinguish producers from actions, and the error used to cancel invalidated producers.
+// ---
+
 import type {Action} from './base_store.js';
 
 /**

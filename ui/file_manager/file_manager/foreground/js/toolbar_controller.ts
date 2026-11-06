@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar controller
+// summary: Wires the Files app toolbar UI to selection and directory state, handling commands such as delete, trash, sharesheet, refresh, and cloud pinning.
+// ---
+
 import type {CrToggleElement} from 'chrome://resources/ash/common/cr_elements/cr_toggle/cr_toggle.js';
 import type {Switch} from 'chrome://resources/cros_components/switch/switch.js';
 import {assertInstanceof} from 'chrome://resources/js/assert.js';

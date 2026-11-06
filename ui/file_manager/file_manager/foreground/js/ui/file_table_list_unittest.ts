@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File table list unit tests
+// summary: Unit tests for FileTableList covering keyboard-driven multiple selection and selection state of list items.
+// ---
+
 import {getTrustedHTML} from 'chrome://resources/js/static_types.js';
 import {assertArrayEquals, assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chromeos/chai_assert.js';
 

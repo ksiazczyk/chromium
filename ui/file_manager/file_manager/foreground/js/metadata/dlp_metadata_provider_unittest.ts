@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the DLP metadata provider
+// summary: Unit tests verifying that DlpMetadataProvider ignores fake entries and returns restriction metadata for real entries using mocked Chrome APIs.
+// ---
+
 import {loadTimeData} from 'chrome://resources/ash/common/load_time_data.m.js';
 import {assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';
 

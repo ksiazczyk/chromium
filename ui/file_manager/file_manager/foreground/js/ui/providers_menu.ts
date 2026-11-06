@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Providers menu
+// summary: Menu that lists mountable file system providers with their icons and requests mounting when a provider item is activated.
+// ---
+
 import {crInjectTypeAndInit} from '../../../common/js/cr_ui.js';
 import {iconSetToCSSBackgroundImageValue} from '../../../common/js/util.js';
 import type {ProvidersModel} from '../providers_model.js';

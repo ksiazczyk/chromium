@@ -8,6 +8,12 @@
  * define the metrics namespace).
  */
 
+// ---docerion
+// type: source
+// title: Script loading metrics start
+// summary: Starts the Load.Total and Load.Script metric intervals to measure script loading and should be included first in main.html.
+// ---
+
 import {startInterval} from '../../common/js/metrics.js';
 
 startInterval('Load.Total');

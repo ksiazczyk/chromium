@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi menu with sub-menus
+// summary: Extends Menu with sub-menu support, overflow item handling and arrow-key navigation between parent and sub-menus.
+// ---
+
 import {Menu} from './menu.js';
 import type {MenuItem} from './menu_item.js';
 import {type MenuItemActivationEvent} from './menu_item.js';

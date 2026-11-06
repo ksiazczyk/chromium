@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetadataModel with caching and provider dispatch
+// summary: Implements MetadataModel, which fetches metadata for entries through a multi-provider setup, caches results, and notifies about entry changes.
+// ---
+
 import type {VolumeManager} from '../../../background/js/volume_manager.js';
 import {entriesToURLs} from '../../../common/js/entry_utils.js';
 import type {FilesAppEntry} from '../../../common/js/files_app_entry_types.js';

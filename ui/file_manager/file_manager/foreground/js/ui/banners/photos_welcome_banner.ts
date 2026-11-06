@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Photos welcome banner
+// summary: Custom element that shows helpful Photos information when the user navigates to the Google Photos documents provider volume.
+// ---
+
 import {PHOTOS_DOCUMENTS_PROVIDER_VOLUME_ID, VolumeType} from '../../../../common/js/volume_manager_types.js';
 
 import {EducationalBanner} from './educational_banner.js';

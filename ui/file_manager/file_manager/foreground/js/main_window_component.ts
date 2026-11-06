@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Main window UI event component
+// summary: Routes UI events from the file list and directory tree to models and controllers, and observes model events to update window components.
+// ---
+
 import {assertInstanceof} from 'chrome://resources/js/assert.js';
 
 import type {VolumeManager} from '../../background/js/volume_manager.js';

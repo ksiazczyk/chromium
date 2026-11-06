@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ID3 parser unit tests
+// summary: Unit tests covering ID3 parsing of empty files, non-ID3 content, ID3v1 tags and ID3v2 frames.
+// ---
+
 import {assertDeepEquals, assertNotReached, assertTrue} from 'chrome://webui-test/chromeos/chai_assert.js';
 
 import {Id3Parser} from './id3_parser.js';

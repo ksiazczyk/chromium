@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File list model unit tests
+// summary: Unit tests for FileListModel covering sorting with folders, size and name comparisons, and group-by behavior.
+// ---
+
 import {assertArrayEquals, assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chromeos/chai_assert.js';
 
 import type {PermutationEvent, SpliceEvent} from '../../common/js/array_data_model.js';

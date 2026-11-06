@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-volume search utility
+// summary: Provides a helper that scans each volume root to find the first directory entry containing files that match a search query.
+// ---
+
 import type {VolumeManager} from '../../background/js/volume_manager.js';
 import type {FilesAppEntry} from '../../common/js/files_app_entry_types.js';
 

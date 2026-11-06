@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Last modified column controller
+// summary: Switches the file table's last modified column to modification-by-me time when the current directory is a Recent root.
+// ---
+
 import {isRecentRootType} from '../../common/js/entry_utils.js';
 
 import type {DirectoryModel} from './directory_model.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actions submenu
+// summary: Implements a submenu that renders file actions such as Manage in Drive, toggle pinned and custom actions as menu items.
+// ---
+
 import {crInjectTypeAndInit} from '../../../common/js/cr_ui.js';
 import {queryDecoratedElement, queryRequiredElement} from '../../../common/js/dom_utils.js';
 import type {Action, ActionsModel} from '../actions_model.js';
