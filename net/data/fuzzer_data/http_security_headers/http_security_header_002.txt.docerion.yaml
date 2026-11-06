@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_002.txt.
+type: data
+title: HTTP security header fuzzer input 002
+summary: Fuzzer input with a single comma to test HTTP security header parsing of malformed separators.

@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_052.txt.
+type: test
+title: 'Fuzzer input: max-age at uint64 maximum'
+summary: Fuzzer test data with max-age set to 18446744073709551615 followed by '####' to test large-value and overflow handling.

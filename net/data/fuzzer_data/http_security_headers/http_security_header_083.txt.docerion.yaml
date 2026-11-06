@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_083.txt.
+type: test
+title: 'Fuzzer input 083: max-age and enforce with comma noise'
+summary: Fuzzing input combining max-age and enforce directives with scattered commas around them.

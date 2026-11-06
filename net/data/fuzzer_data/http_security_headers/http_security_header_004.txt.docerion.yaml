@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_004.txt.
+type: data
+title: HTTP security header fuzzer input 004
+summary: Fuzzer input with a single semicolon to test HTTP security header directive parsing.

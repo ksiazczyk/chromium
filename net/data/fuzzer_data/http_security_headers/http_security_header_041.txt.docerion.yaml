@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_041.txt.
+type: data
+title: HTTP security header fuzzer input 041
+summary: Fuzzer input holding an HTTP security header value with max-age=0 and a mixed-case includeSubdomains directive to exercise case-insensitive parsing.

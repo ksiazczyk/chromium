@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_023.txt.
+type: test
+title: HTTP security header fuzzer input 023
+summary: Fuzzer corpus entry with mixed-case includeSubDomains, leading whitespace, and max-age to test directive parsing.

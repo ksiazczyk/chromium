@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_069.txt.
+type: test
+title: HTTP security header fuzzer input 069
+summary: Fuzzer input combining a decimal max-age value with an includesubdomains directive.

@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_118.txt.
+type: test
+title: 'Fuzzer input: misspelled max-aged directive'
+summary: Fuzzer input using a misspelled max-aged directive instead of max-age.

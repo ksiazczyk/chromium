@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_134.txt.
+type: data
+title: 'Fuzzer input 134: header with duplicate report-uri and max-age 999'
+summary: Fuzzer test input containing an HTTP security header value with duplicate report-uri directives, max-age 999 and enforce.

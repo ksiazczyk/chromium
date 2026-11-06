@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_116.txt.
+type: test
+title: 'Fuzzer input: unquoted report-uri'
+summary: Fuzzer input with an unquoted report-uri URL following max-age.

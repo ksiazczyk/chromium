@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_026.txt.
+type: test
+title: HTTP security header fuzzer input 026
+summary: Fuzzer corpus entry with mixed-case includeSubDomains, extra whitespace, a large max-age value, and trailing semicolons.

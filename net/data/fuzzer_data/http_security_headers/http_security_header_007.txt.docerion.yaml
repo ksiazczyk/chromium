@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_007.txt.
+type: data
+title: HTTP security header fuzzer input 007
+summary: Fuzzer input with leading whitespace before abc to test HTTP security header value trimming.

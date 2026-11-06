@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_098.txt.
+type: test
+title: 'Fuzzer input 098: unterminated quoted max-age value'
+summary: Fuzzer test data with a max-age value opened with a quote but never closed, testing malformed quoting handling.

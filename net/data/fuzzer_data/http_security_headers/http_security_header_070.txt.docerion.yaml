@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_070.txt.
+type: data
+title: 'Fuzzer input: HSTS header with equals sign before includeSubDomains'
+summary: Fuzzer data file with an HSTS header value where an equals sign precedes includeSubDomains, exercising malformed directive parsing.

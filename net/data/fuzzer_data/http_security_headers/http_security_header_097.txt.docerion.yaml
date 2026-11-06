@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_097.txt.
+type: test
+title: 'Fuzzer input 097: max-age at 64-bit limit with junk suffix'
+summary: Fuzzer test data with a max-age value at the signed 64-bit integer limit followed by hash characters to stress numeric parsing.

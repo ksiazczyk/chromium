@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_017.txt.
+type: data
+title: 'Fuzzer case: enforce, quoted report-uri and max-age'
+summary: Fuzzer input for HTTP security header parsing combining enforce, a quoted report-uri and max-age.

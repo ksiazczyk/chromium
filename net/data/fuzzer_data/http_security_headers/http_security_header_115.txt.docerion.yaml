@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_115.txt.
+type: test
+title: 'Fuzzer input: report-uri with semicolon'
+summary: Fuzzer input pairing max-age with a report-uri value that contains a semicolon.

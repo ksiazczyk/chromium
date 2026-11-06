@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_063.txt.
+type: test
+title: HTTP security header fuzzer input 063
+summary: Fuzzer input with a decimal max-age value for an HTTP security header.

@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_082.txt.
+type: test
+title: 'Fuzzer input 082: max-age value with semicolon separators'
+summary: Fuzzing input with an HSTS max-age value surrounded by semicolons to test separator handling.

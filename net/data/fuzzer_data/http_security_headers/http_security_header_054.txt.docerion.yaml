@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_054.txt.
+type: test
+title: 'Fuzzer input: max-age with two quoted pin-sha256 pins'
+summary: Fuzzer test data combining max-age=243 with two quoted pin-sha256 pins for public key pin header parsing.

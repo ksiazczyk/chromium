@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_058.txt.
+type: test
+title: 'Fuzzer input: pins with spaced quoted report-uri'
+summary: Fuzzer test data with max-age, two pin-sha256 pins, and a quoted report-uri URL preceded by whitespace.

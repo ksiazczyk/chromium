@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_034.txt.
+type: data
+title: HTTP security header fuzzer input 034
+summary: Fuzzer input with a max-age directive preceded by leading whitespace.

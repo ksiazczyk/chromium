@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_109.txt.
+type: data
+title: 'Fuzzer input: pins with unterminated report-uri URL'
+summary: Fuzzer input exercising an HTTP security header with two pin-sha256 pins and a report-uri URL containing a semicolon and an unterminated quote.

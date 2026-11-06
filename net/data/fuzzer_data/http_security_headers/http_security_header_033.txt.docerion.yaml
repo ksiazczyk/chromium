@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_033.txt.
+type: data
+title: HTTP security header fuzzer input 033
+summary: Fuzzer input with whitespace around the max-age equals sign and trailing spaces after an empty value.

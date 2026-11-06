@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_114.txt.
+type: test
+title: 'Fuzzer input: empty report-uri value'
+summary: Fuzzer input pairing max-age with an empty quoted report-uri value.

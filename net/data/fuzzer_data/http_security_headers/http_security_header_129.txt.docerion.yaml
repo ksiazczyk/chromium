@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_129.txt.
+type: test
+title: HSTS header fuzzer input with enforce and unknown directive
+summary: Fuzzer input for HTTP security header parsing combining the unknown pumpkin directive with report-uri, enforce and max-age.

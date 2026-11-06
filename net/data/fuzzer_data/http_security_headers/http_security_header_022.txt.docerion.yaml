@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_022.txt.
+type: test
+title: HTTP security header fuzzer input 022
+summary: Fuzzer corpus entry with a lowercase includeSubDomains directive and max-age to test case-insensitive parsing.

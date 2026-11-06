@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_013.txt.
+type: data
+title: 'Fuzzer case: leading whitespace before enforce and max-age'
+summary: Fuzzer input for HTTP security header parsing with leading whitespace before mixed-case enforce and a max-age directive.

@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_064.txt.
+type: test
+title: HTTP security header fuzzer input 064
+summary: Fuzzer input with a trailing semicolon after the max-age directive of an HTTP security header.

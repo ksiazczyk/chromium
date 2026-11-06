@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_110.txt.
+type: test
+title: 'Fuzzer input: HPKP pins with report-uri'
+summary: Fuzzer input combining an HSTS max-age, two pin-sha256 pins and a report-uri directive.

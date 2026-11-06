@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_062.txt.
+type: test
+title: HTTP security header fuzzer input 062
+summary: Fuzzer input with a plus-signed max-age value for an HTTP security header.

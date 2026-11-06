@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_136.txt.
+type: data
+title: 'Fuzzer input 136: header with report-uri and max-age'
+summary: Fuzzer test input containing an HTTP security header value with a report-uri directive and a max-age of 123.

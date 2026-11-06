@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_093.txt.
+type: test
+title: 'Fuzzer input 093: max-age with misspelled includeSubDomains'
+summary: Fuzzer test data with a semicolon-separated max-age value and a case-mangled includeSubDomains directive.

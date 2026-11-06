@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_078.txt.
+type: data
+title: 'Fuzzer input: HSTS header with spaced equals and non-numeric max-age'
+summary: Fuzzer data file with an HSTS header value using whitespace around the equals sign and a non-numeric max-age to test error handling.

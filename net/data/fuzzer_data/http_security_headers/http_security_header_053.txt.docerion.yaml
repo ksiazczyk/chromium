@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_053.txt.
+type: test
+title: 'Fuzzer input: plain max-age directive'
+summary: Fuzzer test data containing a simple max-age=243 security header value as a baseline parsing case.

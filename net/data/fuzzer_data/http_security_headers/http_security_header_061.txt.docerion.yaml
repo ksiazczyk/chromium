@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_061.txt.
+type: test
+title: HTTP security header fuzzer input 061
+summary: Fuzzer input with a negative max-age value for an HTTP security header.

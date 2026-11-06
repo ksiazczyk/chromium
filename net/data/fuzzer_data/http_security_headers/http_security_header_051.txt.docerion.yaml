@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_051.txt.
+type: test
+title: 'Fuzzer input: max-age with trailing hash characters'
+summary: Fuzzer test data with a max-age directive followed by trailing '####' characters to exercise lenient header parsing.

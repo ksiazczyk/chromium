@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_000.txt.
+type: data
+title: HTTP security header fuzzer input 000
+summary: Empty fuzzer input used to test HTTP security header parsing against blank content.

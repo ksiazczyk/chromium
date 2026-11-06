@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_040.txt.
+type: data
+title: HTTP security header fuzzer input 040
+summary: Fuzzer input holding an HTTP security header value with max-age=0 and the enforce directive separated by irregular whitespace and a comma.

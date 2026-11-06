@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_135.txt.
+type: data
+title: 'Fuzzer input 135: header with report-uri, mixed-case enforce and max-age'
+summary: Fuzzer test input containing an HTTP security header value with a report-uri directive, mixed-case enforce and max-age 123.

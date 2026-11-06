@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_106.txt.
+type: data
+title: 'Fuzzer input: max-age with two pin-sha256 pins'
+summary: Fuzzer input exercising an HTTP security header with a max-age value and two pin-sha256 pin directives.

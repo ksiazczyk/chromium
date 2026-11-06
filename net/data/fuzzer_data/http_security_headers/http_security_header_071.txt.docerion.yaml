@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_071.txt.
+type: data
+title: 'Fuzzer input: HSTS header with misspelled includeSubDomains token'
+summary: Fuzzer data file with an HSTS header value containing the misspelled token includesubdomainsx to test unknown directive handling.

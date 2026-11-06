@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_079.txt.
+type: data
+title: 'Fuzzer input: HSTS header with non-numeric max-age'
+summary: Fuzzer data file with an HSTS header value whose max-age contains a non-numeric character to test invalid value handling.

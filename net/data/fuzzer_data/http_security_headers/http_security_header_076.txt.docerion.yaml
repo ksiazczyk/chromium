@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_076.txt.
+type: data
+title: 'Fuzzer input: HSTS header with whitespace and report-uri'
+summary: Fuzzer data file with an HSTS header value using extra whitespace before a report-uri directive to test lenient parsing.

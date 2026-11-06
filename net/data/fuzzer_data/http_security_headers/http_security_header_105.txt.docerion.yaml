@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_105.txt.
+type: data
+title: 'Fuzzer input: comma-separated max-age and enforce=true'
+summary: Fuzzer input exercising an HTTP security header with a comma-separated max-age value and an enforce=true directive.

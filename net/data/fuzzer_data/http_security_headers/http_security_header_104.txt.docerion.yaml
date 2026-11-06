@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_104.txt.
+type: data
+title: 'Fuzzer input: duplicate max-age values separated by commas'
+summary: Fuzzer input exercising an HTTP security header with two comma-separated max-age values and an enforce directive.

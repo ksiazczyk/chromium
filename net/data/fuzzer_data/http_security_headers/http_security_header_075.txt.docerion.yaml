@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_075.txt.
+type: data
+title: 'Fuzzer input: HPKP header with pins and report-uri'
+summary: Fuzzer data file with an HPKP header value containing pin-sha256 entries and a report-uri, testing public key pin parsing.

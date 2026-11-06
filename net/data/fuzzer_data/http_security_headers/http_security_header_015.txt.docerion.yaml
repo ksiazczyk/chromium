@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_015.txt.
+type: data
+title: 'Fuzzer case: trailing spaces, large max-age and empty directive'
+summary: Fuzzer input for HTTP security header parsing with trailing spaces, a large max-age value and an empty directive between commas.

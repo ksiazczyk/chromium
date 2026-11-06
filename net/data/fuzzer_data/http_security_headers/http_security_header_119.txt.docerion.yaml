@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_119.txt.
+type: test
+title: 'Fuzzer input: max-aged with pin-sha256'
+summary: Fuzzer input combining a misspelled max-aged directive with a pin-sha256 pin.

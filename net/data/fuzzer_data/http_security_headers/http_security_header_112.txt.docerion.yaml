@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_112.txt.
+type: test
+title: 'Fuzzer input: HPKP pins with semicolon in report-uri'
+summary: Fuzzer input with two pin-sha256 pins and a report-uri URL holding a semicolon in its query string.

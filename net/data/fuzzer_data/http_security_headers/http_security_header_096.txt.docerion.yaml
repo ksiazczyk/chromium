@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_096.txt.
+type: test
+title: 'Fuzzer input 096: max-age with mixed case and trailing spaces'
+summary: Fuzzer test data with a mixed-case max-age directive, loose spacing, and trailing whitespace to test lenient parsing.

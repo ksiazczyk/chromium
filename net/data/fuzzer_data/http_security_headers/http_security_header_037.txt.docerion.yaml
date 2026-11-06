@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_037.txt.
+type: data
+title: HTTP security header fuzzer input 037
+summary: Fuzzer input with a max-age directive followed by an equals sign and an empty value.

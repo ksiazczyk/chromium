@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_043.txt.
+type: data
+title: HTTP security header fuzzer input 043
+summary: Fuzzer input holding an HTTP security header value with max-age=0 and two pin-sha256 certificate pins.

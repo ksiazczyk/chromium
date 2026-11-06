@@ -1,0 +1,4 @@
+# Docerion header of http_security_header_080.txt.
+type: test
+title: 'Fuzzer input 080: HSTS header with pin-sha256 and includeSubdomains'
+summary: Fuzzing input with an HSTS-style value containing max-age, an unknown cybers directive, includeSubdomains and two quoted pin-sha256 entries.
