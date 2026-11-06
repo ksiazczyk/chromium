@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformContentCaptureController
+// summary: Talks to the Android ContentCaptureManager to verify the service is AiAi, manage the URL allowlist, and decide whether content capture should start.
+// ---
+
 package org.chromium.components.content_capture;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

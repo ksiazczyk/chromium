@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResponseHeaderVerifier class and result enum declaration
+// summary: Declares the ResponseHeaderVerifier class and the ResponseHeaderVerificationResult enum used to check Android package access via the embedder ancestors header.
+// ---
+
 #ifndef COMPONENTS_CONTENT_RELATIONSHIP_VERIFICATION_RESPONSE_HEADER_VERIFIER_H_
 #define COMPONENTS_CONTENT_RELATIONSHIP_VERIFICATION_RESPONSE_HEADER_VERIFIER_H_
 

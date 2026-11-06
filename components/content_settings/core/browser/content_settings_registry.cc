@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentSettingsRegistry implementation
+// summary: Registers all content settings types with their default values, allowed schemes, valid settings, and platform availability.
+// ---
+
 #include "components/content_settings/core/browser/content_settings_registry.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the content capture renderer
+summary: GN build file that defines the renderer source set with the content capture sender sources and its component dependencies.

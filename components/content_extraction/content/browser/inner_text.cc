@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inner text extraction browser-side implementation
+// summary: Implements browser-side retrieval of a frame's inner text over Mojo, combining segments from same-origin iframes and recording timing and size metrics.
+// ---
+
 #include "components/content_extraction/content/browser/inner_text.h"
 
 #include "base/functional/bind.h"

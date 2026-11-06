@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the content settings agent
+// summary: Tests the renderer content settings agent using a mock ContentSettingsManager and delegate, covering storage access and blocked-content notifications.
+// ---
+
 #include "components/content_settings/renderer/content_settings_agent_impl.h"
 
 #include <stddef.h>

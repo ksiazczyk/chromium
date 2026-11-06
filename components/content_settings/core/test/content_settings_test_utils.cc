@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content settings test utilities implementation
+// summary: Implements TestUtils helpers that fetch content settings, permission settings and metadata from providers and override providers in HostContentSettingsMap.
+// ---
+
 #include "components/content_settings/core/test/content_settings_test_utils.h"
 
 #include "base/time/default_clock.h"

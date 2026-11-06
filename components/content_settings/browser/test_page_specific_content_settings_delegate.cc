@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test delegate for page-specific content settings
+// summary: Provides a stub test implementation of the PageSpecificContentSettings delegate with no-op behavior for use in unit tests.
+// ---
+
 #include "components/content_settings/browser/test_page_specific_content_settings_delegate.h"
 #include "base/functional/callback_helpers.h"
 

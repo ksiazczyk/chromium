@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content settings observer interface
+// summary: Declares the Observer interface with OnContentSettingChanged callbacks, including a deprecated per-type variant awaiting migration of remaining clients.
+// ---
+
 #ifndef COMPONENTS_CONTENT_SETTINGS_CORE_BROWSER_CONTENT_SETTINGS_OBSERVER_H_
 #define COMPONENTS_CONTENT_SETTINGS_CORE_BROWSER_CONTENT_SETTINGS_OBSERVER_H_
 

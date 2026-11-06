@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OriginValueMap class declaration for content settings rules
+// summary: Declares the thread-safe OriginValueMap class that stores and provides access to content settings rules with values, metadata, constraints, and locking requirements.
+// ---
+
 #ifndef COMPONENTS_CONTENT_SETTINGS_CORE_BROWSER_CONTENT_SETTINGS_ORIGIN_VALUE_MAP_H_
 #define COMPONENTS_CONTENT_SETTINGS_CORE_BROWSER_CONTENT_SETTINGS_ORIGIN_VALUE_MAP_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentCaptureReceiver implementation
+// summary: Implements the per-frame receiver that forwards renderer capture messages to OnscreenContentProvider and serializes favicon candidates to JSON.
+// ---
+
 #include "components/content_capture/browser/content_capture_receiver.h"
 
 #include <utility>

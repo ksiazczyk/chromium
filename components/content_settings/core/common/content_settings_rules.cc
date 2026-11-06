@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content settings rules implementation
+// summary: Implements SortedPatternPair precedence ordering and ValueEntry move semantics for storing content setting rules.
+// ---
+
 #include "components/content_settings/core/common/content_settings_rules.h"
 
 namespace content_settings {

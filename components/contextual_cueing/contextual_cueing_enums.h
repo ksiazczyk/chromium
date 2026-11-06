@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual cueing decision and interaction enums
+// summary: Defines enums describing contextual cueing decisions and interactions, with comments explaining each reason a cue may or may not be shown.
+// ---
+
 #ifndef COMPONENTS_CONTEXTUAL_CUEING_CONTEXTUAL_CUEING_ENUMS_H_
 #define COMPONENTS_CONTEXTUAL_CUEING_CONTEXTUAL_CUEING_ENUMS_H_
 

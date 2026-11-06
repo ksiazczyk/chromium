@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content settings observer Android header
+// summary: Declares AndroidObserver, which observes host content settings changes and notifies the Java side.
+// ---
+
 #ifndef COMPONENTS_CONTENT_SETTINGS_ANDROID_CONTENT_SETTINGS_OBSERVER_ANDROID_H_
 #define COMPONENTS_CONTENT_SETTINGS_ANDROID_CONTENT_SETTINGS_OBSERVER_ANDROID_H_
 

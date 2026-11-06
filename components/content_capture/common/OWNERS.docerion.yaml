@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for content capture common
+summary: Sets per-file review ownership, requiring IPC security owner approval for changes to mojom and mojom traits files.

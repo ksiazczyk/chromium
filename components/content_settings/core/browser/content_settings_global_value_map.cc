@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Global value map implementation
+// summary: Implements GlobalValueMap, which stores global permission settings applying to all sites and exposes them through a simple rule iterator.
+// ---
+
 #include "components/content_settings/core/browser/content_settings_global_value_map.h"
 
 #include <memory>

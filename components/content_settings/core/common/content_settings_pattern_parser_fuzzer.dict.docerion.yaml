@@ -1,0 +1,4 @@
+# Docerion header of content_settings_pattern_parser_fuzzer.dict.
+type: data
+title: Pattern parser fuzzer dictionary
+summary: Dictionary of pattern strings and tokens used as seed input for the pattern parser fuzzer.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content capture consumer interface
+// summary: Interface that consumers implement to receive captured content events such as flushes, updates, removals, session removal, title and favicon changes, and to decide which URLs to capture.
+// ---
+
 package org.chromium.components.content_capture;
 
 import org.chromium.build.annotations.NullMarked;

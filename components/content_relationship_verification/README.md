@@ -1,3 +1,9 @@
+---
+type: readme
+title: Content Relationship Verification
+summary: Describes the component's utilities for verifying relationships between web content and the embedder, covering Digital Asset Links, response header verification, and the URL loader throttle.
+---
+
 # Content Relationship Verification
 
 This component contains utilities to verify relationships between Web content and the embedder.

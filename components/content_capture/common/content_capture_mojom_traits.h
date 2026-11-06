@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentCaptureData Mojo traits declaration
+// summary: Declares StructTraits mapping content_capture::ContentCaptureData to its Mojo wire representation for serialization.
+// ---
+
 #ifndef COMPONENTS_CONTENT_CAPTURE_COMMON_CONTENT_CAPTURE_MOJOM_TRAITS_H_
 #define COMPONENTS_CONTENT_CAPTURE_COMMON_CONTENT_CAPTURE_MOJOM_TRAITS_H_
 

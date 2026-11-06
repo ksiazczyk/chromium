@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content setting constraints class declaration
+// summary: Declares ContentSettingConstraints, which controls setting lifetime, session model, expiration tracking, and related website set decisions.
+// ---
+
 #ifndef COMPONENTS_CONTENT_SETTINGS_CORE_COMMON_CONTENT_SETTINGS_CONSTRAINTS_H_
 #define COMPONENTS_CONTENT_SETTINGS_CORE_COMMON_CONTENT_SETTINGS_CONSTRAINTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission settings info implementation
+// summary: Implements PermissionSettingsInfo, holding metadata for a permission setting type and retrieving its initial default via the delegate.
+// ---
+
 #include "components/content_settings/core/browser/permission_settings_info.h"
 
 #include "base/notreached.h"

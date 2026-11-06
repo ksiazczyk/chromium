@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ObservableProvider class declaration for content settings
+// summary: Declares the ObservableProvider interface for adding, removing, and notifying content settings observers, with thread checking and a reentrancy-allowing observer list.
+// ---
+
 #ifndef COMPONENTS_CONTENT_SETTINGS_CORE_BROWSER_CONTENT_SETTINGS_OBSERVABLE_PROVIDER_H_
 #define COMPONENTS_CONTENT_SETTINGS_CORE_BROWSER_CONTENT_SETTINGS_OBSERVABLE_PROVIDER_H_
 

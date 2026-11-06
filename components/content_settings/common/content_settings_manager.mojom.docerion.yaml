@@ -1,0 +1,4 @@
+# Docerion header of content_settings_manager.mojom.
+type: source
+title: ContentSettingsManager Mojom interface
+summary: Defines the browser-process content settings manager interface for checking and allowing storage access by storage type and reporting content blocked by user settings.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content capture mojom traits unit test
+// summary: Unit test that round-trips a ContentCaptureData node through the TraitsTestService echo interface to verify mojom struct traits serialization.
+// ---
+
 #include "base/strings/utf_string_conversions.h"
 #include "base/test/task_environment.h"
 #include "components/content_capture/common/traits_test_service.test-mojom.h"

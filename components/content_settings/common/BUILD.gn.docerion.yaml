@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for content settings Mojom bindings
+summary: Defines a mojom target that generates bindings for the content settings agent and manager interfaces, with dependencies on core, network, blink, and URL Mojom targets.

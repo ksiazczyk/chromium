@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content settings utility implementations
+// summary: Implements conversions between base::Value and ContentSetting, pattern-to-origin checks, and mappings between permission options and content settings.
+// ---
+
 #include "components/content_settings/core/common/content_settings_utils.h"
 
 #include <memory>

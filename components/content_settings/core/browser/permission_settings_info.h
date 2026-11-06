@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionSettingsInfo class and delegate interface
+// summary: Declares the PermissionSettingsInfo class and its Delegate interface for validating, inheriting in incognito, parsing, and coalescing permission settings in Chromium's content settings layer.
+// ---
+
 #ifndef COMPONENTS_CONTENT_SETTINGS_CORE_BROWSER_PERMISSION_SETTINGS_INFO_H_
 #define COMPONENTS_CONTENT_SETTINGS_CORE_BROWSER_PERMISSION_SETTINGS_INFO_H_
 

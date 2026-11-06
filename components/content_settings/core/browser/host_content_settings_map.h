@@ -5,6 +5,12 @@
 // Maps hostnames to custom content settings.  Written on the UI thread and read
 // on any thread.  One instance per profile.
 
+// ---docerion
+// type: source
+// title: Host content settings map class declaration
+// summary: Declares HostContentSettingsMap, the refcounted per-profile service mapping hostnames to custom content settings with provider and observer APIs.
+// ---
+
 #ifndef COMPONENTS_CONTENT_SETTINGS_CORE_BROWSER_HOST_CONTENT_SETTINGS_MAP_H_
 #define COMPONENTS_CONTENT_SETTINGS_CORE_BROWSER_HOST_CONTENT_SETTINGS_MAP_H_
 

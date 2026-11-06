@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionSettingsRegistry class declaration
+// summary: Declares the PermissionSettingsRegistry singleton that stores PermissionSettingsInfo objects per permission setting type and provides thread-safe const access and registration.
+// ---
+
 #ifndef COMPONENTS_CONTENT_SETTINGS_CORE_BROWSER_PERMISSION_SETTINGS_REGISTRY_H_
 #define COMPONENTS_CONTENT_SETTINGS_CORE_BROWSER_PERMISSION_SETTINGS_REGISTRY_H_
 

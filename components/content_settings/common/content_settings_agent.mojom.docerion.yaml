@@ -1,0 +1,4 @@
+# Docerion header of content_settings_agent.mojom.
+type: source
+title: ContentSettingsAgent Mojom interface
+summary: Defines the renderer-process content settings agent interface for allowing insecure mixed content and sending per-frame content setting rules to the renderer.

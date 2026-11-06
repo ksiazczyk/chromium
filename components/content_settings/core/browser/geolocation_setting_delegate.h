@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Geolocation setting delegate class declaration
+// summary: Declares the delegate that defines geolocation permission setting behavior for PermissionSettingsInfo, such as validity checks and value conversion.
+// ---
+
 #ifndef COMPONENTS_CONTENT_SETTINGS_CORE_BROWSER_GEOLOCATION_SETTING_DELEGATE_H_
 #define COMPONENTS_CONTENT_SETTINGS_CORE_BROWSER_GEOLOCATION_SETTING_DELEGATE_H_
 

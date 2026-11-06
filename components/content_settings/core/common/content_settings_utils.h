@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content settings utility declarations
+// summary: Declares helpers for converting values to and from content settings and for checking whether a pattern pair applies to a single origin.
+// ---
+
 #ifndef COMPONENTS_CONTENT_SETTINGS_CORE_COMMON_CONTENT_SETTINGS_UTILS_H_
 #define COMPONENTS_CONTENT_SETTINGS_CORE_COMMON_CONTENT_SETTINGS_UTILS_H_
 

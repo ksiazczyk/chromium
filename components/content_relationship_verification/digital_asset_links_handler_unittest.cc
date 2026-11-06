@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DigitalAssetLinksHandler
+// summary: Tests Digital Asset Links relationship checks against simulated network responses, fingerprints, and error conditions.
+// ---
+
 #include "components/content_relationship_verification/digital_asset_links_handler.h"
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for content setting constraints
+// summary: Verifies cloning, move construction, and field behavior of ContentSettingConstraints using mocked time.
+// ---
+
 #include "components/content_settings/core/common/content_settings_constraints.h"
 
 #include "base/test/task_environment.h"

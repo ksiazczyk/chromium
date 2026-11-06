@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the content settings common library
+summary: Defines the static library, unit test set, and Mojom binding targets for the content settings common component.

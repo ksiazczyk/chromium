@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for RuleMetaData
+// summary: Tests RuleMetaData lifetime computation, constraint application, expiration handling, default state and equality comparison.
+// ---
+
 #include "components/content_settings/core/common/content_settings_metadata.h"
 
 #include "base/test/gtest_util.h"

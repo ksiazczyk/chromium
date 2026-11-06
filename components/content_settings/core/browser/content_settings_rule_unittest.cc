@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for content settings rule iterators
+// summary: Unit tests verifying that ConcatenationIterator combines multiple rule iterators and preserves rule patterns, expiration and session model metadata.
+// ---
+
 #include "components/content_settings/core/browser/content_settings_rule.h"
 
 #include <list>

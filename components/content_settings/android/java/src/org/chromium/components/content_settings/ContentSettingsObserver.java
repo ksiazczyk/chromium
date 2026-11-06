@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentSettingsObserver for Android content settings changes
+// summary: Abstract Java observer that attaches to the native content settings provider and forwards content setting change notifications to subclasses via JNI.
+// ---
+
 package org.chromium.components.content_settings;
 
 import org.jni_zero.CalledByNative;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Digital Asset Link origin verifier
+// summary: Checks that an app has a Digital Asset Link relationship with a given origin, sharing a static verification cache and relying on a native counterpart.
+// ---
+
 package org.chromium.components.content_relationship_verification;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the content settings browser component
+summary: GN build file defining the browser, test_support, and unit_tests source sets with their sources and dependencies for the content settings browser component.

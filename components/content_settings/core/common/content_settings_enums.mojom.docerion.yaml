@@ -1,0 +1,4 @@
+# Docerion header of content_settings_enums.mojom.
+type: source
+title: Mojom enums for content settings
+summary: Defines TPCD metadata, SessionModel, and ProviderType enums used to identify and scope content settings across processes.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessContentCaptureDataTask
+// summary: Abstract base task that walks captured content frames and their children to notify the platform of appeared content.
+// ---
+
 package org.chromium.components.content_capture;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

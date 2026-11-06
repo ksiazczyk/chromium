@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cookie settings policy handler unit tests
+// summary: Verifies how the policy handler translates third-party cookie blocking and default cookie content setting policies into the cookie controls mode preference, including override cases.
+// ---
+
 #include "components/content_settings/core/browser/cookie_settings_policy_handler.h"
 
 #include <memory>

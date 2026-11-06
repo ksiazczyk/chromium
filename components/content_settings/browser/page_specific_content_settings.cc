@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page-specific content settings implementation
+// summary: Implements per-page tracking of permissions, content settings, cookies, and site data access, recording which content was accessed or blocked.
+// ---
+
 #include "components/content_settings/browser/page_specific_content_settings.h"
 
 #include <algorithm>

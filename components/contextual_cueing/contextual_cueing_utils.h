@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Homepage URL detection helper header
+// summary: Declares IsHomepageUrl, which reports whether a URL is a root homepage or common landing page path.
+// ---
+
 #ifndef COMPONENTS_CONTEXTUAL_CUEING_CONTEXTUAL_CUEING_UTILS_H_
 #define COMPONENTS_CONTEXTUAL_CUEING_CONTEXTUAL_CUEING_UTILS_H_
 

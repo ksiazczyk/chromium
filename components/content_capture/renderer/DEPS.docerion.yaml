@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the content capture renderer
+summary: DEPS file that allows the directory to include content public renderer and blink public headers.

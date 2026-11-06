@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CookieControlsBridge between native controller and Java UI
+// summary: JNI bridge that communicates between the C++ CookieControlsController and the Java PageInfoView, forwarding cookie controls status and blocking updates.
+// ---
+
 package org.chromium.components.content_settings;
 
 import org.jni_zero.CalledByNative;

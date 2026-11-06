@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the content settings browser component
+summary: DEPS file listing allowed include paths for the component, with specific rules for individual source and test files.

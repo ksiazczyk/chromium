@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content settings UMA histogram value constants
+// summary: Maps ContentSettingsType values to fixed histogram bucket values for UMA logging, matching the ContentType enum in enums.xml.
+// ---
+
 #ifndef COMPONENTS_CONTENT_SETTINGS_CORE_COMMON_CONTENT_SETTINGS_UMA_CONSTANTS_H_
 #define COMPONENTS_CONTENT_SETTINGS_CORE_COMMON_CONTENT_SETTINGS_UMA_CONSTANTS_H_
 

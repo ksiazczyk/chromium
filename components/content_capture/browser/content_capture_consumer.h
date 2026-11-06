@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentCaptureConsumer interface for embedders
+// summary: Declares the interface embedders implement to receive captured onscreen content, updates, removals, title, favicon, sensitivity and language events.
+// ---
+
 #ifndef COMPONENTS_CONTENT_CAPTURE_BROWSER_CONTENT_CAPTURE_CONSUMER_H_
 #define COMPONENTS_CONTENT_CAPTURE_BROWSER_CONTENT_CAPTURE_CONSUMER_H_
 

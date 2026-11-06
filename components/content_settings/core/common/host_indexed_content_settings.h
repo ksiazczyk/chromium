@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostIndexedContentSettings class declaration
+// summary: Declares HostIndexedContentSettings, a class mapping content setting rules by primary or secondary host, with lookup, size and iterator APIs that keep precedence order.
+// ---
+
 #ifndef COMPONENTS_CONTENT_SETTINGS_CORE_COMMON_HOST_INDEXED_CONTENT_SETTINGS_H_
 #define COMPONENTS_CONTENT_SETTINGS_CORE_COMMON_HOST_INDEXED_CONTENT_SETTINGS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content settings provider unit tests
+// summary: Tests provider behavior via a mock provider, verifying setting ownership, returned values, and read-only handling.
+// ---
+
 #include <memory>
 
 #include "base/values.h"

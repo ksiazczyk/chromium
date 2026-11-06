@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata with team email and bug tracker component
+summary: Records the owning team email address and Buganizer component ID for the contextual cueing directory.

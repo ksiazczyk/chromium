@@ -1,0 +1,4 @@
+# Docerion header of content_settings_types.mojom.
+type: source
+title: ContentSettingsType enum definition
+summary: Defines the ContentSettingsType mojom enum listing content setting types such as cookies, images, JavaScript, notifications and geolocation.

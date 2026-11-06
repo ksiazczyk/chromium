@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test helper class declarations
+// summary: Declares fake and helper classes that drive the mojom sender and record captured content for verification in content capture unit tests.
+// ---
+
 #ifndef COMPONENTS_CONTENT_CAPTURE_BROWSER_CONTENT_CAPTURE_TEST_HELPER_H_
 #define COMPONENTS_CONTENT_CAPTURE_BROWSER_CONTENT_CAPTURE_TEST_HELPER_H_
 

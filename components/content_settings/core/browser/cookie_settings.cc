@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie settings implementation
+// summary: Implements CookieSettings, a frontend to HostContentSettingsMap handling cookie-specific logic such as third-party cookie blocking and FedCM sharing permissions.
+// ---
+
 #include "components/content_settings/core/browser/cookie_settings.h"
 
 #include <algorithm>

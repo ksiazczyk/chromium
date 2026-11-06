@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentCaptureFrame implementation
+// summary: Implements constructors, conversion from ContentCaptureData, and equality comparison for the browser-side captured frame struct.
+// ---
+
 #include "components/content_capture/browser/content_capture_frame.h"
 
 namespace content_capture {

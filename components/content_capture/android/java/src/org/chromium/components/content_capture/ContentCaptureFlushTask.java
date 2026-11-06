@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task to flush captured content to the platform
+// summary: Notification task that builds the platform session for a frame and tells the Android platform to flush its captured content.
+// ---
+
 package org.chromium.components.content_capture;
 
 import android.os.Build;

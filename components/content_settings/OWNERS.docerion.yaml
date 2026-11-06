@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Content settings owners
+summary: Lists code owners for the directory and adds per-file owners for cookie settings code.

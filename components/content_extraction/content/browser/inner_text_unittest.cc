@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Inner text unit tests
+// summary: Unit tests covering frame validation and conversion of inner text frames into results, including node offset calculation.
+// ---
+
 #include "components/content_extraction/content/browser/inner_text.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

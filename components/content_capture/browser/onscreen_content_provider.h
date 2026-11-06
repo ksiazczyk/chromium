@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnscreenContentProvider class declaration
+// summary: Declares OnscreenContentProvider, a per-WebContents WebContentsUserData that binds ContentCaptureReceiver mojo interfaces and dispatches capture events to consumers.
+// ---
+
 #ifndef COMPONENTS_CONTENT_CAPTURE_BROWSER_ONSCREEN_CONTENT_PROVIDER_H_
 #define COMPONENTS_CONTENT_CAPTURE_BROWSER_ONSCREEN_CONTENT_PROVIDER_H_
 

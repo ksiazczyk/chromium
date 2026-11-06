@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Java model of captured content data
+// summary: Java representation of the native content_capture_data.h, holding an id, bounds, and text value, with factory creation that attaches the item to its parent.
+// ---
+
 package org.chromium.components.content_capture;
 
 import android.graphics.Rect;

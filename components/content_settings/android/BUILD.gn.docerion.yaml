@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Content settings Android build targets
+summary: GN build file defining JNI header generation, Java libraries and the native Android source set for the content settings component.

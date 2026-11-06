@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock content settings provider header
+// summary: Declares MockProvider, a mock non-default content settings provider based on ObservableProvider for use in tests.
+// ---
+
 #ifndef COMPONENTS_CONTENT_SETTINGS_CORE_TEST_CONTENT_SETTINGS_MOCK_PROVIDER_H_
 #define COMPONENTS_CONTENT_SETTINGS_CORE_TEST_CONTENT_SETTINGS_MOCK_PROVIDER_H_
 

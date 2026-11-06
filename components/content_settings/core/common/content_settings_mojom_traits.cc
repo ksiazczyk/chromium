@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo traits implementation for content settings types
+// summary: Implements mojo serialization and deserialization for content settings patterns, enums and rule metadata.
+// ---
+
 #include "components/content_settings/core/common/content_settings_mojom_traits.h"
 
 #include "base/notreached.h"

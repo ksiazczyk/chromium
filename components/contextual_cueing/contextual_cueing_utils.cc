@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Homepage URL detection helper implementation
+// summary: Implements IsHomepageUrl by matching the URL path against a regex covering root and common landing page paths.
+// ---
+
 #include "components/contextual_cueing/contextual_cueing_utils.h"
 
 #include "base/no_destructor.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unit test support for OriginVerifier
+// summary: Helps unit test code relying on OriginVerifier by registering packages with a valid signature in Robolectric's shadow package manager.
+// ---
+
 package org.chromium.components.content_relationship_verification;
 
 import android.content.pm.PackageInfo;

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Content settings directory metadata
+summary: Applies the common metadata mixins so the directory inherits the shared monorail and Buganizer settings.

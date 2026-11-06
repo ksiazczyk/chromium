@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Content settings dependency rules
+summary: Specifies allowed include rules, permitting dependencies on components/prefs and the device features header.

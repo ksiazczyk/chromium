@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content settings pattern parser fuzzer
+// summary: Fuzzes the pattern parser and checks that canonical patterns stay valid and recanonicalize identically.
+// ---
+
 #include "components/content_settings/core/common/content_settings_pattern_parser.h"
 
 #include <stddef.h>

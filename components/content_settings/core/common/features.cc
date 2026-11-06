@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content settings feature flag definitions
+// summary: Defines base::Feature flags for content settings, including Safety Check unused permissions, content setting expiry, and geolocation options.
+// ---
+
 #include "components/content_settings/core/common/features.h"
 
 #include "base/feature_list.h"

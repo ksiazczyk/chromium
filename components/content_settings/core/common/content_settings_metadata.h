@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RuleMetaData class declaration for content settings
+// summary: Declares the RuleMetaData class that stores metadata for content setting rules such as timestamps, expiration, session model and TPCD metadata.
+// ---
+
 #ifndef COMPONENTS_CONTENT_SETTINGS_CORE_COMMON_CONTENT_SETTINGS_METADATA_H_
 #define COMPONENTS_CONTENT_SETTINGS_CORE_COMMON_CONTENT_SETTINGS_METADATA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CookieControlsObserver callback interface
+// summary: Interface for classes that want to receive cookie blocking status updates, enforcement level, and exception expiration from the CookieControlsBridge.
+// ---
+
 package org.chromium.components.content_settings;
 
 import org.chromium.build.annotations.NullMarked;

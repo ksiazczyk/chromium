@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content settings utility implementation
+// summary: Implements helpers for converting content settings to and from strings, parsing pattern strings, gathering renderer rules and comparing setting permissiveness.
+// ---
+
 #include "components/content_settings/core/browser/content_settings_utils.h"
 
 #include <stddef.h>

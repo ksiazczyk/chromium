@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Digital Asset Links handler interface
+// summary: Declares the DigitalAssetLinksHandler class and the RelationshipCheckResult enum used to verify Digital Asset Links relationships.
+// ---
+
 #ifndef COMPONENTS_CONTENT_RELATIONSHIP_VERIFICATION_DIGITAL_ASSET_LINKS_HANDLER_H_
 #define COMPONENTS_CONTENT_RELATIONSHIP_VERIFICATION_DIGITAL_ASSET_LINKS_HANDLER_H_
 

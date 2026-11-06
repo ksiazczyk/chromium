@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HostIndexedContentSettings unit tests
+// summary: Unit tests verifying creation, sorting, wildcard and domain matching, iteration, and expiration handling of host-indexed content settings.
+// ---
+
 #include "components/content_settings/core/common/host_indexed_content_settings.h"
 
 #include <functional>

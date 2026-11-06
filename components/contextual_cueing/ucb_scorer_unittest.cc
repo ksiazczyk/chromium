@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the UCB scorer
+// summary: Tests the UCB scorer for cold-start smoothing, exploration decay, click and dismissal preferences, NaN prevention with small gamma, and explore bonus capping.
+// ---
+
 #include "components/contextual_cueing/ucb_scorer.h"
 
 #include <cmath>

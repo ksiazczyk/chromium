@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content settings test utilities header
+// summary: Declares the TestUtils class with static helpers for querying content settings from providers and replacing providers for testing.
+// ---
+
 #ifndef COMPONENTS_CONTENT_SETTINGS_CORE_TEST_CONTENT_SETTINGS_TEST_UTILS_H_
 #define COMPONENTS_CONTENT_SETTINGS_CORE_TEST_CONTENT_SETTINGS_TEST_UTILS_H_
 

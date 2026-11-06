@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefProvider implementation for user content settings
+// summary: Implements the preference-based content settings provider, including cleanup of obsolete exception preferences and migration of geolocation and third-party cookie settings.
+// ---
+
 #include "components/content_settings/core/browser/content_settings_pref_provider.h"
 
 #include <stddef.h>

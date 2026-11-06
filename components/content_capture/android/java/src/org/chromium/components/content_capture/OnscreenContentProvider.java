@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnscreenContentProvider
+// summary: Receives captured content from the native layer over JNI and forwards it to registered ContentCaptureConsumer instances.
+// ---
+
 package org.chromium.components.content_capture;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

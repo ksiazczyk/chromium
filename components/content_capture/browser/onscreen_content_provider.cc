@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnscreenContentProvider implementation
+// summary: Implements the browser-side OnscreenContentProvider, which creates a ContentCaptureReceiver per render frame and forwards captured content, titles and favicons to registered consumers.
+// ---
+
 #include "components/content_capture/browser/onscreen_content_provider.h"
 
 #include <utility>

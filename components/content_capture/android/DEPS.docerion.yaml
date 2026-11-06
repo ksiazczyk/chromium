@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Android content capture
+summary: Specifies allowed include rules for the Android content capture directory, granting access to JNI headers, content public APIs, and re2.

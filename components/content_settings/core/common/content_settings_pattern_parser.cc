@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content settings pattern parser implementation
+// summary: Parses content settings pattern specifications into scheme, host, port, and path parts, handling wildcards and IPv6 hosts, and feeds the results to the pattern builder.
+// ---
+
 #include "components/content_settings/core/common/content_settings_pattern_parser.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task to update captured content in the platform
+// summary: Task that notifies the platform of text changes to captured content by creating an AutofillId and calling notifyViewTextChanged.
+// ---
+
 package org.chromium.components.content_capture;
 
 import android.view.autofill.AutofillId;

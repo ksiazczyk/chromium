@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CookieSettingsBase implementation
+// summary: Implements core cookie settings logic including third-party request detection, storage access eligibility, and permissions policy checks.
+// ---
+
 #include "components/content_settings/core/common/cookie_settings_base.h"
 
 #include <functional>

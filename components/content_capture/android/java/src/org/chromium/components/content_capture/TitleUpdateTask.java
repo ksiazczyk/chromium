@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Title update task for content capture
+// summary: Notification task that reports a main frame's title change to the Android platform by building the autofill ID and calling notifyViewTextChanged.
+// ---
+
 package org.chromium.components.content_capture;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

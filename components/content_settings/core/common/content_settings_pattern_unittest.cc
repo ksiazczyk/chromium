@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content settings pattern unit tests
+// summary: Unit tests covering ContentSettingsPattern creation from strings and URLs, matching behavior, and real-world patterns that revealed bugs.
+// ---
+
 #include "components/content_settings/core/common/content_settings_pattern.h"
 
 #include "testing/gmock/include/gmock/gmock.h"

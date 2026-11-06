@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaScript optimizer setting enum
+// summary: Defines the JavascriptOptimizerSetting enum persisted to logs and kept in sync with the WebUI constants.
+// ---
+
 #ifndef COMPONENTS_CONTENT_SETTINGS_BROWSER_UI_JAVASCRIPT_OPTIMIZER_SETTING_H_
 #define COMPONENTS_CONTENT_SETTINGS_BROWSER_UI_JAVASCRIPT_OPTIMIZER_SETTING_H_
 

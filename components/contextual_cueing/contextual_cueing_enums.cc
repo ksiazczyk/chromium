@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: String names for contextual cueing decision and interaction enums
+// summary: Maps ContextualCueingDecision and ContextualCueingInteraction enum values to their string names for use in logging or reporting.
+// ---
+
 #include "components/contextual_cueing/contextual_cueing_enums.h"
 
 namespace contextual_cueing {

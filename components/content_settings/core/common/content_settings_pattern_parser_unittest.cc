@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content settings pattern parser unit tests
+// summary: Unit tests verifying that pattern specifications are parsed into the expected builder calls for schemes, hosts, ports, paths and wildcards.
+// ---
+
 #include "components/content_settings/core/common/content_settings_pattern_parser.h"
 #include "components/content_settings/core/common/content_settings_pattern.h"
 

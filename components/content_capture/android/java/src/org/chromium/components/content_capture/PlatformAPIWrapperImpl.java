@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformAPIWrapperImpl
+// summary: Concrete implementation of PlatformAPIWrapper that delegates calls to the Android ContentCaptureSession and related platform APIs.
+// ---
+
 package org.chromium.components.content_capture;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

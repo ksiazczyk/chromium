@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie controls enforcement enum
+// summary: Defines an enum denoting whether cookie controls are enforced and how, such as by policy, extension, or cookie setting.
+// ---
+
 #ifndef COMPONENTS_CONTENT_SETTINGS_CORE_COMMON_COOKIE_CONTROLS_ENFORCEMENT_H_
 #define COMPONENTS_CONTENT_SETTINGS_CORE_COMMON_COOKIE_CONTROLS_ENFORCEMENT_H_
 

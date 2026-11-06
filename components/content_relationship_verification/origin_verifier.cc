@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OriginVerifier JNI bridge implementation
+// summary: Implements the native side of the OriginVerifier Java class, verifying origins on Android through Digital Asset Links checks.
+// ---
+
 #include "components/content_relationship_verification/origin_verifier.h"
 
 #include <memory>

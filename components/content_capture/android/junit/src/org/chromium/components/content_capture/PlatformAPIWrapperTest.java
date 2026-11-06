@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: PlatformAPIWrapperTest
+// summary: Robolectric unit tests for PlatformAPIWrapper and its notification tasks, checking API call sequences, parameters, and that PlatformAPIException is caught rather than calling ContentCaptureSession directly.
+// ---
+
 package org.chromium.components.content_capture;
 
 import static org.mockito.Mockito.doThrow;

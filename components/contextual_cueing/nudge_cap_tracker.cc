@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nudge cap tracker implementation
+// summary: Implements NudgeCapTracker, which records recent nudge timestamps and decides whether another nudge can be shown within a count cap and time window.
+// ---
+
 #include "components/contextual_cueing/nudge_cap_tracker.h"
 
 namespace contextual_cueing {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OriginValueMap implementation for content settings rules
+// summary: Implements the OriginValueMap that stores content settings rules per origin, providing locked rule iterators and rule lookups by primary and secondary URL.
+// ---
+
 #include "components/content_settings/core/browser/content_settings_origin_value_map.h"
 
 #include <memory>

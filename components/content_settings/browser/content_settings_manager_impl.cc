@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser-side content settings manager implementation
+// summary: Implements the ContentSettingsManager Mojo interface in the browser, evaluating storage access permissions and reporting storage access to page load metrics.
+// ---
+
 #include "components/content_settings/browser/content_settings_manager_impl.h"
 
 #include "base/feature_list.h"

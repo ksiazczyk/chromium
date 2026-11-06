@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cookie controls utility unit tests
+// summary: Unit tests for GetDaysToExpiration using mocked clocks and time zones to verify day counting behavior.
+// ---
+
 #include "components/content_settings/browser/ui/cookie_controls_util.h"
 
 #include "base/test/icu_test_util.h"

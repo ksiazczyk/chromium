@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Response header verifier implementation
+// summary: Implements verification of Android package names against the X-Embedder-Ancestors response header, returning allow, disallow, or missing results.
+// ---
+
 #include "components/content_relationship_verification/response_header_verifier.h"
 
 #include <stdio.h>
