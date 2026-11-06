@@ -1,0 +1,4 @@
+# Docerion header of menu_cocoa_watcher_mac.mm.
+type: source
+title: MenuCocoaWatcherMac implementation
+summary: Implements Cocoa notification observers for menu tracking, window focus, and app activation so Views menus close at the right times on macOS.

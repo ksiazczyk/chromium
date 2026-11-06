@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageBoxView class
+// summary: Declares the MessageBoxView class that displays message box contents with optional message, prompt field, checkbox, and link for use in constrained windows.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_MESSAGE_BOX_VIEW_H_
 #define UI_VIEWS_CONTROLS_MESSAGE_BOX_VIEW_H_
 

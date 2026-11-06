@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FocusableBorder implementation
+// summary: Implements a border that paints a stroked, rounded border around fields such as textfields, with configurable insets, corner radius and disabled-state color blending.
+// ---
+
 #include "ui/views/controls/focusable_border.h"
 
 #include "cc/paint/paint_flags.h"

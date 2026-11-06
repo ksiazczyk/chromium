@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuButton implementation
+// summary: Implements MenuButton, a label button that shows a menu on press, delegating activation and pressed callbacks through its MenuButtonController.
+// ---
+
 #include "ui/views/controls/button/menu_button.h"
 
 #include <memory>

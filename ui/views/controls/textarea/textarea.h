@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Textarea class declaration
+// summary: Declares the Textarea class, a multiline Textfield subclass exposing line count and overriding cursor movement, key handling, and text edit command behavior.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_TEXTAREA_TEXTAREA_H_
 #define UI_VIEWS_CONTROLS_TEXTAREA_TEXTAREA_H_
 

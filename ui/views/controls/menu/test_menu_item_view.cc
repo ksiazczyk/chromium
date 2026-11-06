@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestMenuItemView test helper implementation
+// summary: Implements TestMenuItemView, a MenuItemView subclass with a public destructor so tests can construct and clean up menu items easily.
+// ---
+
 #include "ui/views/controls/menu/test_menu_item_view.h"
 
 namespace views {

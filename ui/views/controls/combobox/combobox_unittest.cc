@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Combobox unit tests
+// summary: Unit tests for the Combobox view covering selection, menu behavior, separators, keyboard interaction, accessibility events, and model changes.
+// ---
+
 #include "ui/views/controls/combobox/combobox.h"
 
 #include <memory>

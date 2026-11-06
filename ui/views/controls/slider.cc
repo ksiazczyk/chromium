@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: slider.cc
+// summary: Implements the views::Slider view, covering value changes, discrete allowed values, thumb painting and highlighting, accessibility actions, and RTL layout.
+// ---
+
 #include "ui/views/controls/slider.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefixSelector implementation
+// summary: Implements PrefixSelector, a TextInputClient that changes the selection in a delegate's list as the user types characters.
+// ---
+
 #include "ui/views/controls/prefix_selector.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: table_view_observer.h
+// summary: Declares the TableViewObserver interface notified of selection changes, double and middle clicks, and key presses.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_TABLE_TABLE_VIEW_OBSERVER_H_
 #define UI_VIEWS_CONTROLS_TABLE_TABLE_VIEW_OBSERVER_H_
 

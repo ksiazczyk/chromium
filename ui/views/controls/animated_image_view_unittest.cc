@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Animated image view unit tests
+// summary: Unit tests for AnimatedImageView that verify painting, additional translation, and playback behavior using a test widget and paint record inspection.
+// ---
+
 #include "ui/views/controls/animated_image_view.h"
 
 #include "base/memory/raw_ptr.h"

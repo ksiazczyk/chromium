@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scroll view unit tests
+// summary: Extensive unit tests for ScrollView covering scrolling behavior, scrollbars, offsets, and overflow indicators via a ScrollViewTestApi.
+// ---
+
 #include "ui/views/controls/scroll_view.h"
 
 #include <algorithm>

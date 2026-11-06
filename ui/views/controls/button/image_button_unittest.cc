@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ImageButton unit tests
+// summary: Unit tests covering ImageButton default and preferred sizes, minimum image size, per-state image setting and painting, and image alignment behavior.
+// ---
+
 #include "ui/views/controls/button/image_button.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

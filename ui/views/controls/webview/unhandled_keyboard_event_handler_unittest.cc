@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unhandled keyboard event handler unit tests
+// summary: Unit tests for the unhandled keyboard event handler, verifying accelerator handling and key event processing in WebView-based widgets.
+// ---
+
 #include "ui/views/controls/webview/unhandled_keyboard_event_handler.h"
 
 #include <memory>

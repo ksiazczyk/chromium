@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageViewBase implementation
+// summary: Implements shared image view behavior covering image size, horizontal and vertical alignment, RTL-aware image origin, accessibility naming and uniform paint scaling.
+// ---
+
 #include "ui/views/controls/image_view_base.h"
 
 #include <utility>

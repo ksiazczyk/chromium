@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FocusRing unit tests
+// summary: Unit tests verifying that FocusRing matches its parent's bounds, paints safely without a parent, and updates its layer based on a custom focus predicate.
+// ---
+
 #include "ui/views/controls/focus_ring.h"
 
 #include <memory>

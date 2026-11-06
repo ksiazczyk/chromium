@@ -1,0 +1,4 @@
+# Docerion header of menu_runner_impl_cocoa.mm.
+type: source
+title: MenuRunnerImplCocoa implementation
+summary: Implements the macOS context menu runner by bridging ui::MenuModel to a Cocoa NSMenu controller and managing run, cancel, and close callbacks.

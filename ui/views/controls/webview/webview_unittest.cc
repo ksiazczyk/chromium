@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebView unit tests
+// summary: Unit tests for the views WebView control, covering WebContents visibility, fullscreen state, and accessibility behavior via test observers and delegates.
+// ---
+
 #include "ui/views/controls/webview/webview.h"
 
 #include <stdint.h>

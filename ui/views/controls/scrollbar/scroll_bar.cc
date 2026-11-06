@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollBar base implementation
+// summary: Implements the base ScrollBar view, providing scrolling by amount or thumb position plus mouse, keyboard, wheel, gesture, and context menu handling.
+// ---
+
 #include "ui/views/controls/scrollbar/scroll_bar.h"
 
 #include <algorithm>

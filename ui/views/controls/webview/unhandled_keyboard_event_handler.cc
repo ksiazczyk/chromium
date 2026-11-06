@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unhandled keyboard event handler implementation
+// summary: Implements handling of unhandled renderer keyboard events, converting them to accelerators and processing them via the focus manager.
+// ---
+
 #include "ui/views/controls/webview/unhandled_keyboard_event_handler.h"
 
 #include "components/input/native_web_keyboard_event.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MessageBoxView unit tests
+// summary: Unit tests for MessageBoxView verifying preferred sizes with message only and optional views, message width changes, and inter-row height changes.
+// ---
+
 #include "ui/views/controls/message_box_view.h"
 
 #include <algorithm>

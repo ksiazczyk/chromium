@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Radio button implementation
+// summary: Implements the views RadioButton control, a native-themed Checkbox subclass handling group selection, focus behavior, accessibility actions, and themed radio icons.
+// ---
+
 #include "ui/views/controls/button/radio_button.h"
 
 #include <algorithm>

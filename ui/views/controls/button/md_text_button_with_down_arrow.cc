@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Material Design text button with down arrow implementation
+// summary: Implements MdTextButtonWithDownArrow, a dropdown-style MdTextButton that shows a themed down arrow icon and adjusts padding and arrow colors on state changes.
+// ---
+
 #include "ui/views/controls/button/md_text_button_with_down_arrow.h"
 
 #include <utility>

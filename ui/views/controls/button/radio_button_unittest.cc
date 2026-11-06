@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Radio button unit tests
+// summary: Unit tests covering RadioButton basics, group checking, tab and arrow-key focus traversal, and click-driven focus behavior inside a test widget.
+// ---
+
 #include "ui/views/controls/button/radio_button.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: table_grouper.h
+// summary: Declares the TableGrouper interface and GroupRange struct that TableView uses to group rows for joint selection and sorting.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_TABLE_TABLE_GROUPER_H_
 #define UI_VIEWS_CONTROLS_TABLE_TABLE_GROUPER_H_
 

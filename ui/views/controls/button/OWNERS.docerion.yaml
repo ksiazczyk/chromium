@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the button controls directory
+summary: Lists code owners for the button directory, including per-file ownership of single animated image container files assigned to estalin@chromium.org.

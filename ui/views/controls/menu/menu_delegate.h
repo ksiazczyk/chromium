@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuDelegate interface for views menus
+// summary: Declares the MenuDelegate class that supplies labels, fonts, tooltips, accelerators, command execution, context menus, and drag-and-drop behavior for views menu items.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_MENU_MENU_DELEGATE_H_
 #define UI_VIEWS_CONTROLS_MENU_MENU_DELEGATE_H_
 

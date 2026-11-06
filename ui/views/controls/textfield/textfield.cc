@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Textfield view implementation
+// summary: Implements the Views Textfield control, handling rendering, input and gesture events, clipboard, context menus, touch selection, and accessibility.
+// ---
+
 #include "ui/views/controls/textfield/textfield.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BulletedLabelListView implementation
+// summary: Implements the bulleted label list view, painting circular bullet dots and arranging each bullet with its label in a table layout.
+// ---
+
 #include "ui/views/controls/bulleted_label_list/bulleted_label_list_view.h"
 
 #include <algorithm>

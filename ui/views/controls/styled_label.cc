@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: styled_label.cc
+// summary: Implements the views::StyledLabel view that lays out multiline text with mixed styles, link fragments, tooltips, and custom child views.
+// ---
+
 #include "ui/views/controls/styled_label.h"
 
 #include <stddef.h>

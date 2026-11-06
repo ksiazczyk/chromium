@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuSeparator class declaration
+// summary: Declares the MenuSeparator view, a menu divider supporting separator types and an optional custom color ID.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_MENU_MENU_SEPARATOR_H_
 #define UI_VIEWS_CONTROLS_MENU_MENU_SEPARATOR_H_
 

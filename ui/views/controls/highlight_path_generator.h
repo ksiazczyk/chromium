@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HighlightPathGenerator class declaration
+// summary: Declares the HighlightPathGenerator base class and concrete generators that supply rounded-rect paths for a view's focus ring and ink-drop effects.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_HIGHLIGHT_PATH_GENERATOR_H_
 #define UI_VIEWS_CONTROLS_HIGHLIGHT_PATH_GENERATOR_H_
 

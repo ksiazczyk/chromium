@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ozone native keyboard event handling
+// summary: Ozone implementation that resends unhandled key events via the focus manager or hands them to the Ozone platform utilities.
+// ---
+
 #include "components/input/native_web_keyboard_event.h"
 #include "ui/events/event.h"
 #include "ui/ozone/public/ozone_platform.h"

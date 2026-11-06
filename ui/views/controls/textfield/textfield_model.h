@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Textfield model class declaration
+// summary: Declares TextfieldModel, the model holding text content, cursor, selection, composition, and edit history state for a Views textfield.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_TEXTFIELD_TEXTFIELD_MODEL_H_
 #define UI_VIEWS_CONTROLS_TEXTFIELD_TEXTFIELD_MODEL_H_
 

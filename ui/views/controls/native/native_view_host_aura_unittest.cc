@@ -7,6 +7,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NativeViewHost Aura unit tests
+// summary: Unit tests for NativeViewHostAura covering attachment across window tree hosts, clipping, event targeting and the ordering of window visibility and bounds operations.
+// ---
+
 #include "ui/views/controls/native/native_view_host_aura.h"
 
 #include <memory>

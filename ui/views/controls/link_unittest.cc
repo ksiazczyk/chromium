@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Link unit tests
+// summary: Unit tests for the views Link control covering click and tap activation, hover underlining behavior, and view metadata.
+// ---
+
 #include "ui/views/controls/link.h"
 
 #include <memory>

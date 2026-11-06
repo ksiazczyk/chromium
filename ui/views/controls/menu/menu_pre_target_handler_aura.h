@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura menu pre-target handler header
+// summary: Declares MenuPreTargetHandlerAura, which observes activation changes, cancel events, and window destruction to shut down menus and provide accelerator support.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_MENU_MENU_PRE_TARGET_HANDLER_AURA_H_
 #define UI_VIEWS_CONTROLS_MENU_MENU_PRE_TARGET_HANDLER_AURA_H_
 

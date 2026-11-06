@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Label button image container implementation
+// summary: Implements SingleImageContainer, which hosts a single ImageView for a LabelButton and updates its image from the button's current visual state.
+// ---
+
 #include "ui/views/controls/button/label_button_image_container.h"
 
 #include "ui/base/models/image_model.h"

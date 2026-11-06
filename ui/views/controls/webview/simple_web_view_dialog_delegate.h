@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleWebViewDialogDelegate callback interface
+// summary: Declares the delegate interface receiving navigation and loading state change callbacks and customizing the widget delegate.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_WEBVIEW_SIMPLE_WEB_VIEW_DIALOG_DELEGATE_H_
 #define UI_VIEWS_CONTROLS_WEBVIEW_SIMPLE_WEB_VIEW_DIALOG_DELEGATE_H_
 

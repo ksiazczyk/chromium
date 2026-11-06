@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LinkFragment unit tests
+// summary: Unit tests for LinkFragment covering metadata, hover-driven underlining and shared styling of connected fragments.
+// ---
+
 #include "ui/views/controls/link_fragment.h"
 
 #include <array>

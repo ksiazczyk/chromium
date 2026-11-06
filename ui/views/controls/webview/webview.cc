@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView implementation
+// summary: Implements the WebView control that hosts and displays a WebContents, including ownership, accessibility, and fullscreen embedding behavior.
+// ---
+
 #include "ui/views/controls/webview/webview.h"
 
 #include <string>

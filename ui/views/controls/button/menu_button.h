@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuButton header
+// summary: Declares MenuButton, a label button that displays a menu when pressed, and explains why SetMenuButtonController must be used instead of the base Button setter.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_BUTTON_MENU_BUTTON_H_
 #define UI_VIEWS_CONTROLS_BUTTON_MENU_BUTTON_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TreeView unit tests
+// summary: Unit tests for TreeView covering selection, editing, keyboard navigation, drawing and consistency between tree state and accessibility data.
+// ---
+
 #include "ui/views/controls/tree/tree_view.h"
 
 #include <numeric>

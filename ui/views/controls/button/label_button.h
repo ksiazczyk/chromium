@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LabelButton class declaration
+// summary: Declares the LabelButton view with text and icon support, per-state image models, text colors and styles, and preferred-size and animation-related helpers.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_BUTTON_LABEL_BUTTON_H_
 #define UI_VIEWS_CONTROLS_BUTTON_LABEL_BUTTON_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resize area control implementation
+// summary: Implements the ResizeArea view that reports horizontal or vertical drag resizes to its delegate, handling mouse and gesture input and RTL directionality.
+// ---
+
 #include "ui/views/controls/resize_area.h"
 
 #include "base/i18n/rtl.h"

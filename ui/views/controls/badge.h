@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Badge class declaration
+// summary: Declares the Badge view class with text accessors, preferred size calculation, painting, and view builder metadata support.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_BADGE_H_
 #define UI_VIEWS_CONTROLS_BADGE_H_
 

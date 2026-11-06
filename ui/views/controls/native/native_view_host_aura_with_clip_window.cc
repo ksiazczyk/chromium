@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura NativeViewHostWrapper with clipping window
+// summary: Implements an Aura NativeViewHostWrapper variant that inserts a clipping window between the native view and its parent to support the fast resize and clipping path.
+// ---
+
 #include "ui/views/controls/native/native_view_host_aura_with_clip_window.h"
 
 #include <algorithm>

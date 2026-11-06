@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Progress ring drawing utilities implementation
+// summary: Implements helpers that draw a partial progress ring or a spinning ring of alternating arcs on a canvas using Skia paths.
+// ---
+
 #include "ui/views/controls/progress_ring_utils.h"
 
 #include <utility>

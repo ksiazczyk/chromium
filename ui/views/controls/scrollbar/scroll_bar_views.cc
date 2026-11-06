@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollBarViews implementation
+// summary: Implements the Views scrollbar, including a NativeTheme-painted thumb and prev/next arrow buttons.
+// ---
+
 #include "ui/views/controls/scrollbar/scroll_bar_views.h"
 
 #include <algorithm>

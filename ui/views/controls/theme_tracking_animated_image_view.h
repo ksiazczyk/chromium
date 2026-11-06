@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThemeTrackingAnimatedImageView class header
+// summary: Declares ThemeTrackingAnimatedImageView, an AnimatedImageView that switches between light and dark Lottie animations based on the current background color.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_THEME_TRACKING_ANIMATED_IMAGE_VIEW_H_
 #define UI_VIEWS_CONTROLS_THEME_TRACKING_ANIMATED_IMAGE_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Animated image container implementation
+// summary: Implements SingleAnimatedImageContainer, which loads and paints Lottie animations for label buttons and manages playback progress, direction, and reset behavior.
+// ---
+
 #include "ui/views/controls/button/single_animated_image_container.h"
 
 #include <utility>

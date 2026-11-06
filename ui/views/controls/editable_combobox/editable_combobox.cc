@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Editable combobox implementation
+// summary: Implements the EditableCombobox view, a textfield with a drop-down suggestion list, including the arrow button, menu handling, and styling.
+// ---
+
 #include "ui/views/controls/editable_combobox/editable_combobox.h"
 
 #include <algorithm>

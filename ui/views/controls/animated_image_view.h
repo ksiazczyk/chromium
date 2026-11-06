@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Animated image view class declaration
+// summary: Declares AnimatedImageView, an ImageViewBase subclass that plays Skia vector animations with configurable playback, size, and additional translation.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_ANIMATED_IMAGE_VIEW_H_
 #define UI_VIEWS_CONTROLS_ANIMATED_IMAGE_VIEW_H_
 

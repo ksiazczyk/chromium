@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Textarea implementation
+// summary: Implements the Textarea multiline text control, configuring multiline rendering and handling mouse wheel scrolling, text edit commands, and key events on top of Textfield.
+// ---
+
 #include "ui/views/controls/textarea/textarea.h"
 
 #include <utility>

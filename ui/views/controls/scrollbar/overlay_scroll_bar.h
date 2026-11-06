@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverlayScrollBar class declaration
+// summary: Declares the transparent overlay scroll bar that overlaps its content, with show, hide, and hide-countdown timers and an internal Thumb class based on BaseScrollBarThumb.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_SCROLLBAR_OVERLAY_SCROLL_BAR_H_
 #define UI_VIEWS_CONTROLS_SCROLLBAR_OVERLAY_SCROLL_BAR_H_
 

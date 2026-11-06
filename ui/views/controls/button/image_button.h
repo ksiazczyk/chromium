@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageButton class declaration
+// summary: Declares the ImageButton and ToggleImageButton views classes with per-state image models, image alignment, minimum image size, and a Material-style icon button creator.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_BUTTON_IMAGE_BUTTON_H_
 #define UI_VIEWS_CONTROLS_BUTTON_IMAGE_BUTTON_H_
 

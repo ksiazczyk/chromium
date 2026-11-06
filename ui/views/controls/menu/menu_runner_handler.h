@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuRunnerHandler interface for running menus
+// summary: Declares MenuRunnerHandler, an internal interface used by MenuRunner to show menus, which tests can replace via MenuRunnerTestApi for mocking.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_MENU_MENU_RUNNER_HANDLER_H_
 #define UI_VIEWS_CONTROLS_MENU_MENU_RUNNER_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuRunnerImpl class declaration
+// summary: Declares MenuRunnerImpl, the internal menu runner implementation that shows menus via views::MenuItemView and tracks run state and sibling menus.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_MENU_MENU_RUNNER_IMPL_H_
 #define UI_VIEWS_CONTROLS_MENU_MENU_RUNNER_IMPL_H_
 

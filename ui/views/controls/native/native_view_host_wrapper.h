@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeViewHostWrapper interface
+// summary: Defines the platform-specific wrapper interface used by NativeViewHost to attach, detach, clip, show, hide and focus native views.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_NATIVE_NATIVE_VIEW_HOST_WRAPPER_H_
 #define UI_VIEWS_CONTROLS_NATIVE_NATIVE_VIEW_HOST_WRAPPER_H_
 

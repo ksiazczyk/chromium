@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuRunnerImplInterface abstract interface
+// summary: Defines the abstract interface for menu runner implementations, covering run, cancel, release, running state, and closing event time.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_MENU_MENU_RUNNER_IMPL_INTERFACE_H_
 #define UI_VIEWS_CONTROLS_MENU_MENU_RUNNER_IMPL_INTERFACE_H_
 

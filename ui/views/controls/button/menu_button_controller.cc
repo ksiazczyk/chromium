@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuButtonController implementation
+// summary: Implements MenuButtonController, which handles mouse, keyboard, and gesture events to trigger menus, plus the PressedLock mechanism that keeps the button in a pressed state.
+// ---
+
 #include "ui/views/controls/button/menu_button_controller.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeViewHost implementation
+// summary: Implements the NativeViewHost view that attaches a native view to the Views hierarchy, managing attach and detach, clipping, corner radii, hit-test insets, accessibility and layer handling.
+// ---
+
 #include "ui/views/controls/native/native_view_host.h"
 
 #include <utility>

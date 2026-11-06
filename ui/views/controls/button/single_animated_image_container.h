@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Animated image container class declaration
+// summary: Declares SingleAnimatedImageContainer, a LabelButtonImageContainer that plays a single Lottie animation with configurable direction, end behavior, and timing.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_BUTTON_SINGLE_ANIMATED_IMAGE_CONTAINER_H_
 #define UI_VIEWS_CONTROLS_BUTTON_SINGLE_ANIMATED_IMAGE_CONTAINER_H_
 

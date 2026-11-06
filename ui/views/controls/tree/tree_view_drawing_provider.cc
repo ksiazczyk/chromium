@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TreeViewDrawingProvider default implementation
+// summary: Implements default TreeViewDrawingProvider behavior, supplying background, text and auxiliary text colors for tree nodes from the color provider.
+// ---
+
 #include "ui/views/controls/tree/tree_view_drawing_provider.h"
 
 #include "ui/color/color_id.h"

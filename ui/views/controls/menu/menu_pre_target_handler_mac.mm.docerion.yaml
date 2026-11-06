@@ -1,0 +1,4 @@
+# Docerion header of menu_pre_target_handler_mac.mm.
+type: source
+title: Mac menu pre-target handler
+summary: Implements the macOS MenuPreTargetHandler using a NativeWidgetMacEventMonitor to route key events through the menu controller before default dispatch.

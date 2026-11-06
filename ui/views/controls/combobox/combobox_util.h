@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Combobox utility constants and functions
+// summary: Declares arrow size constants and shared drawing and ink drop helpers so combobox-like controls can reuse code and keep a consistent visual style.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_COMBOBOX_COMBOBOX_UTIL_H_
 #define UI_VIEWS_CONTROLS_COMBOBOX_COMBOBOX_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Animated image view implementation
+// summary: Implements AnimatedImageView, a view that displays and plays Lottie (Skottie) vector animations, handling play, stop, painting, and compositor observation.
+// ---
+
 #include "ui/views/controls/animated_image_view.h"
 
 #include <utility>

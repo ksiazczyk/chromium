@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Textarea unit tests
+// summary: Unit tests for the Textarea control covering newline insertion and pasting, cursor up/down movement, and selection behavior, extending the Textfield test suite.
+// ---
+
 #include "ui/views/controls/textarea/textarea.h"
 
 #include <memory>

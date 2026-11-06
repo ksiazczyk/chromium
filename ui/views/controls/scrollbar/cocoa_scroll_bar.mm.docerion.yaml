@@ -1,0 +1,4 @@
+# Docerion header of cocoa_scroll_bar.mm.
+type: source
+title: CocoaScrollBar implementation
+summary: Implements the macOS overlay scroll bar and its thumb, defining thickness and opacity constants, NativeTheme-based painting, and show, hide, and expand animations.

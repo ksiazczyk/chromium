@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabbedPane class declaration
+// summary: Declares the TabbedPane view class with orientation and tab strip style enums plus APIs for adding, selecting and scrolling tabs.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_TABBED_PANE_TABBED_PANE_H_
 #define UI_VIEWS_CONTROLS_TABBED_PANE_TABBED_PANE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of menu_runner_impl_mac.mm.
+type: source
+title: MenuRunnerImplMac implementation
+summary: Implements the macOS menu runner that delegates to MenuRunnerImplCocoa or MenuRunnerImplRemoteCocoa based on the window locality of the widget.

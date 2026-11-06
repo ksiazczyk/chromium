@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Link view implementation
+// summary: Implements the Link control, a clickable Label subclass with pressed and disabled colors, focus ring, hand cursor and mouse, keyboard and gesture activation.
+// ---
+
 #include "ui/views/controls/link.h"
 
 #include "base/check.h"

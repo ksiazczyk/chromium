@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NativeViewHost test base class header
+// summary: Declares NativeViewHostTestBase, a shared fixture base for NativeViewHost tests across platforms.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_NATIVE_NATIVE_VIEW_HOST_TEST_BASE_H_
 #define UI_VIEWS_CONTROLS_NATIVE_NATIVE_VIEW_HOST_TEST_BASE_H_
 

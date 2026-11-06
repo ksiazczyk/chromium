@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MdTextButtonWithSpinner unit tests
+// summary: Unit tests for MdTextButtonWithSpinner covering spinner visibility, preferred size, layout alignment, and spinner color updates via a test peer.
+// ---
+
 #include "ui/views/controls/button/md_text_button_with_spinner.h"
 
 #include <algorithm>

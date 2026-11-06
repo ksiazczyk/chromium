@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: separator.h
+// summary: Declares the views::Separator view class with color, preferred length, orientation, and border radius properties, plus view builder metadata for it.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_SEPARATOR_H_
 #define UI_VIEWS_CONTROLS_SEPARATOR_H_
 

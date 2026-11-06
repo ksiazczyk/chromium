@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dot indicator implementation
+// summary: Implements DotIndicator, a small circular status indicator view that draws a colored dot with border and supports show, hide, and color customization.
+// ---
+
 #include "ui/views/controls/dot_indicator.h"
 
 #include <algorithm>

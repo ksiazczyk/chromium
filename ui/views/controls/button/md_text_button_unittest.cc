@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Material Design text button unit tests
+// summary: Unit tests for MdTextButton covering custom padding, background color changes with widget activation, the action view interface, and corner radius behavior.
+// ---
+
 #include "ui/views/controls/button/md_text_button.h"
 
 #include "third_party/skia/include/core/SkBitmap.h"

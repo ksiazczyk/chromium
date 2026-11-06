@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Label view implementation
+// summary: Implements the Label view that displays styled text, including mnemonics, selection, clipboard, context menus, accessibility and multi-line rendering.
+// ---
+
 #include "ui/views/controls/label.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Textfield test API implementation
+// summary: Implements the TextfieldTestApi helper that exposes internal Textfield state such as context menu, cursor, and touch selection for tests.
+// ---
+
 #include "ui/views/controls/textfield/textfield_test_api.h"
 
 #include "ui/gfx/geometry/rect.h"

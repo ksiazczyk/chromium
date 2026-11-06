@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollBar and ScrollBarController declarations
+// summary: Declares the ScrollBar view base class with orientation and scroll amount enums, plus the ScrollBarController interface for receiving scroll position and increment notifications.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_SCROLLBAR_SCROLL_BAR_H_
 #define UI_VIEWS_CONTROLS_SCROLLBAR_SCROLL_BAR_H_
 

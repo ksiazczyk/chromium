@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ImageView unit tests
+// summary: Unit tests for the views ImageView control, checking image origin, alignment, insets and RTL behavior across horizontal and vertical box layouts.
+// ---
+
 #include "ui/views/controls/image_view.h"
 
 #include <memory>

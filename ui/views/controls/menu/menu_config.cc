@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuConfig implementation
+// summary: Implements MenuConfig common initialization and helpers for corner radius, accelerator text, and bubble borders, exposing a global instance.
+// ---
+
 #include "ui/views/controls/menu/menu_config.h"
 
 #include "base/debug/dump_without_crashing.h"

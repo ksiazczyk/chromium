@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuConfig Windows platform initialization
+// summary: Initializes Windows-specific MenuConfig values, including the system menu font, mnemonic and show-delay settings, and separator heights.
+// ---
+
 #include "ui/views/controls/menu/menu_config.h"
 
 #include <windows.h>  // Must come before other Windows system headers.

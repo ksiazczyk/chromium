@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MenuRunner unit tests
+// summary: Unit tests for MenuRunner covering menu running, cancellation, closing event times, accessibility, and platform-specific behavior using Views test utilities.
+// ---
+
 #include "ui/views/controls/menu/menu_runner.h"
 
 #include <stdint.h>

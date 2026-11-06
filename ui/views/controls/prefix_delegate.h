@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefixDelegate interface
+// summary: Interface exposing a list of selectable items with row count, selection, and text access so views can support type-ahead prefix selection.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_PREFIX_DELEGATE_H_
 #define UI_VIEWS_CONTROLS_PREFIX_DELEGATE_H_
 

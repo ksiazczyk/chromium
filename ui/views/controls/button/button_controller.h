@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ButtonController class declaration
+// summary: Declares ButtonController, which handles non-visual button logic such as event handling, state changes, and the notify action for listener clicks.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_BUTTON_BUTTON_CONTROLLER_H_
 #define UI_VIEWS_CONTROLS_BUTTON_BUTTON_CONTROLLER_H_
 

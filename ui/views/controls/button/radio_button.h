@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Radio button class declaration
+// summary: Declares the RadioButton view class, a Checkbox subclass providing native-themed radio buttons with group selection and focus handling, plus its view builder.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_BUTTON_RADIO_BUTTON_H_
 #define UI_VIEWS_CONTROLS_BUTTON_RADIO_BUTTON_H_
 

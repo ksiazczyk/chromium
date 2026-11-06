@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Label button label unit tests
+// summary: Unit tests verifying that LabelButtonLabel uses themed and overridden colors correctly as the label is enabled, disabled, and color schemes change.
+// ---
+
 #include "ui/views/controls/button/label_button_label.h"
 
 #include <map>

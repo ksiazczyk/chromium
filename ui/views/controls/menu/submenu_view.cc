@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubmenuView implementation for views menu submenus
+// summary: Implements SubmenuView, laying out menu item children, forwarding drag, scroll and gesture events to the MenuController, and rendering the drop indicator.
+// ---
+
 #include "ui/views/controls/menu/submenu_view.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MdTextButtonWithDownArrow header
+// summary: Declares MdTextButtonWithDownArrow, a material design text button that displays a drop arrow on its right side and updates it on theme and state changes.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_BUTTON_MD_TEXT_BUTTON_WITH_DOWN_ARROW_H_
 #define UI_VIEWS_CONTROLS_BUTTON_MD_TEXT_BUTTON_WITH_DOWN_ARROW_H_
 

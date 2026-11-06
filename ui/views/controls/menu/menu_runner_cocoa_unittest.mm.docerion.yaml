@@ -1,0 +1,4 @@
+# Docerion header of menu_runner_cocoa_unittest.mm.
+type: test
+title: MenuRunner Cocoa tests
+summary: Parameterized macOS tests running menus through both the native NSMenu and Views implementations to verify MenuRunnerImplCocoa and related behavior.

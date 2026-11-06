@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EditablePasswordCombobox unit tests
+// summary: Unit tests for the password combobox verifying that eye button clicks reveal or obscure passwords and invoke the configured callback.
+// ---
+
 #include "ui/views/controls/editable_combobox/editable_password_combobox.h"
 
 #include <memory>

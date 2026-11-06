@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ThemeTrackingImageView unit tests
+// summary: Unit tests covering light and dark image switching for ThemeTrackingImageView with both ImageSkia and ImageModel inputs.
+// ---
+
 #include "ui/views/controls/theme_tracking_image_view.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac menu pre-target handler header
+// summary: Declares MenuPreTargetHandlerMac, which stops dispatch of key events that are handled by the menu controller on macOS.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_MENU_MENU_PRE_TARGET_HANDLER_MAC_H_
 #define UI_VIEWS_CONTROLS_MENU_MENU_PRE_TARGET_HANDLER_MAC_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ThemeTrackingAnimatedImageView unit tests
+// summary: Unit tests verifying that ThemeTrackingAnimatedImageView swaps between light and dark Lottie animations when the theme changes, using a mocked ResourceBundle.
+// ---
+
 #include "ui/views/controls/theme_tracking_animated_image_view.h"
 
 #include <memory>

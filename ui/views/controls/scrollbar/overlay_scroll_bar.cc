@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverlayScrollBar implementation
+// summary: Implements the transparent overlay scroll bar and its thumb, painting fill and stroke with hover-aware colors, offsets, and layer animation for state changes.
+// ---
+
 #include "ui/views/controls/scrollbar/overlay_scroll_bar.h"
 
 #include <memory>

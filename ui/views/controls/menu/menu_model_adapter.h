@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuModelAdapter header
+// summary: Declares MenuModelAdapter, which adapts a ui::MenuModel to the views MenuDelegate interface so its items can populate and update a MenuItemView menu.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_MENU_MENU_MODEL_ADAPTER_H_
 #define UI_VIEWS_CONTROLS_MENU_MENU_MODEL_ADAPTER_H_
 

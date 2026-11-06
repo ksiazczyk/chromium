@@ -1,0 +1,4 @@
+# Docerion header of menu_closure_animation_mac.mm.
+type: source
+title: MenuClosureAnimationMac implementation
+summary: Implements the macOS menu closure animation, stepping through selection flash and fade stages and supporting disabled animations for testing.

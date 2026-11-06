@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Label button unit tests
+// summary: Extensive unit tests for LabelButton covering text colors, images, layout, ink drop, accessibility, and state behavior using a hosted test widget.
+// ---
+
 #include "ui/views/controls/button/label_button.h"
 
 #include <algorithm>

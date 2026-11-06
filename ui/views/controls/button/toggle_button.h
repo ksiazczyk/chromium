@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toggle button class declaration
+// summary: Declares the ToggleButton view, a text-free two-state switch similar to a checkbox, with animated on/off state and customizable thumb and track colors.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_BUTTON_TOGGLE_BUTTON_H_
 #define UI_VIEWS_CONTROLS_BUTTON_TOGGLE_BUTTON_H_
 

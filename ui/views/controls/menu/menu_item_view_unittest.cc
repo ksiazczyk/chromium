@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MenuItemView unit tests
+// summary: Unit tests covering MenuItemView behavior such as adding and removing children, separators, controller ownership checks, and rendering-related helpers.
+// ---
+
 #include "ui/views/controls/menu/menu_item_view.h"
 
 #include <memory>

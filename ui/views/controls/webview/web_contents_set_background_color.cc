@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsSetBackgroundColor implementation
+// summary: Implements the WebContentsUserData that keeps a WebContents background color set on newly created render frames.
+// ---
+
 #include "ui/views/controls/webview/web_contents_set_background_color.h"
 
 #include "base/memory/ptr_util.h"

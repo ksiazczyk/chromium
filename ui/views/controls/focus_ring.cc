@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus ring implementation
+// summary: Implements FocusRing, a view that paints a highlight halo around a host view using highlight path generators, theme colors, and install or remove helpers.
+// ---
+
 #include "ui/views/controls/focus_ring.h"
 
 #include <algorithm>

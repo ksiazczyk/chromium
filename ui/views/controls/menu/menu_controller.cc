@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuController implementation
+// summary: Implements the MenuController that manages menu showing, selection, drag and drop, and event handling for Views menus.
+// ---
+
 #include "ui/views/controls/menu/menu_controller.h"
 
 #include <algorithm>

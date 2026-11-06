@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LinkFragment implementation
+// summary: Implements LinkFragment, a Link variant whose connected fragments share underline and focus-ring styling when any fragment is hovered or focused.
+// ---
+
 #include "ui/views/controls/link_fragment.h"
 
 #include <string>

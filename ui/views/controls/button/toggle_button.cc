@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toggle button implementation
+// summary: Implements the ToggleButton view, a two-state slider-style switch with thumb rendering, track and thumb colors, hover and press animations, and ink drop effects.
+// ---
+
 #include "ui/views/controls/button/toggle_button.h"
 
 #include <memory>

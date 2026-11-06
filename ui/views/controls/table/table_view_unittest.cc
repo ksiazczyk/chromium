@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: table_view_unittest.cc
+// summary: Unit tests covering TableView selection, sorting, grouping, painting regions, and virtual accessibility views.
+// ---
+
 #include "ui/views/controls/table/table_view.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Textfield test API declaration
+// summary: Declares TextfieldTestApi, a helper giving tests access to internal Textfield state like the model, cursor blink timer, and menus.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_TEXTFIELD_TEXTFIELD_TEST_API_H_
 #define UI_VIEWS_CONTROLS_TEXTFIELD_TEXTFIELD_TEST_API_H_
 

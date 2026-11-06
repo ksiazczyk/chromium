@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: table_utils_unittest.cc
+// summary: Unit tests verifying CalculateTableColumnSizes behavior for fixed, percent, and content-based column widths.
+// ---
+
 #include "ui/views/controls/table/table_utils.h"
 
 #include <stddef.h>

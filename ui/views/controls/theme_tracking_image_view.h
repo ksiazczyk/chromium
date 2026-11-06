@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThemeTrackingImageView class header
+// summary: Declares ThemeTrackingImageView, an ImageView that displays a light or dark image based on the background color and tracks theme changes.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_THEME_TRACKING_IMAGE_VIEW_H_
 #define UI_VIEWS_CONTROLS_THEME_TRACKING_IMAGE_VIEW_H_
 

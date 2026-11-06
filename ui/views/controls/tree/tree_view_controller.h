@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TreeViewController interface declaration
+// summary: Declares the TreeViewController interface for receiving tree view selection changes and controlling whether nodes can be edited.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_TREE_TREE_VIEW_CONTROLLER_H_
 #define UI_VIEWS_CONTROLS_TREE_TREE_VIEW_CONTROLLER_H_
 

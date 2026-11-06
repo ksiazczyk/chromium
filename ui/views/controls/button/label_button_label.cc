@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Label button label implementation
+// summary: Implements LabelButtonLabel, applying requested enabled and disabled color variants or default typography colors as theme and enabled state change.
+// ---
+
 #include "ui/views/controls/button/label_button_label.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Button unit tests
+// summary: Unit tests for views::Button covering click and key event handling, ink drop behavior, context menus, accessibility, and metadata across button subclasses.
+// ---
+
 #include "ui/views/controls/button/button.h"
 
 #include <memory>

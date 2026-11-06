@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Checkbox implementation
+// summary: Implements the native-themed Checkbox label button, including icon colors, square ink drop ripple, focus ring path, and checked-state visuals.
+// ---
+
 #include "ui/views/controls/button/checkbox.h"
 
 #include <stddef.h>

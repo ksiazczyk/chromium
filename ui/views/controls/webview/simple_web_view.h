@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleWebView interface for a dialog with location bar and web contents
+// summary: Declares the SimpleWebView interface exposing a dialog's view, its web contents, widget delegate creation, and URL loading.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_WEBVIEW_SIMPLE_WEB_VIEW_H_
 #define UI_VIEWS_CONTROLS_WEBVIEW_SIMPLE_WEB_VIEW_H_
 

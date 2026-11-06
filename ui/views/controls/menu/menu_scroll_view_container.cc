@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Menu scroll view container implementation
+// summary: Implements the menu scroll view container, including scroll buttons that forward drag events to the MenuController plus border, blur, and rounded corner painting.
+// ---
+
 #include "ui/views/controls/menu/menu_scroll_view_container.h"
 
 #include <algorithm>

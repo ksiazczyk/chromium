@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeViewHost class declaration
+// summary: Declares the NativeViewHost View that hosts a gfx::NativeView, keeping its bounds and visibility in sync through a platform-specific NativeViewHostWrapper implementation.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_NATIVE_NATIVE_VIEW_HOST_H_
 #define UI_VIEWS_CONTROLS_NATIVE_NATIVE_VIEW_HOST_H_
 

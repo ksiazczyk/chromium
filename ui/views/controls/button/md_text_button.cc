@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Material Design text button implementation
+// summary: Implements MdTextButton, a LabelButton following the Material Design text button spec with ink drop effects, style and color overrides, padding, and corner radii.
+// ---
+
 #include "ui/views/controls/button/md_text_button.h"
 
 #include <algorithm>

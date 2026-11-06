@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HighlightPathGenerator implementation
+// summary: Implements highlight path generators, including empty, rectangular, circular, pill and fixed-size circle variants, installed on views for focus rings and ink drops.
+// ---
+
 #include "ui/views/controls/highlight_path_generator.h"
 
 #include <algorithm>

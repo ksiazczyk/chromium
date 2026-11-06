@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scroll view control header
+// summary: Declares the ScrollView class with scrollbar modes, layer scrolling options, contents management, and scroll synchronization helpers.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_SCROLL_VIEW_H_
 #define UI_VIEWS_CONTROLS_SCROLL_VIEW_H_
 

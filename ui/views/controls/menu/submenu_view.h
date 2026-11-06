@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubmenuView class header for views menu submenus
+// summary: Declares SubmenuView, the parent view of all menu items that positions children, forwards events to the MenuController, and shows or hides the menu window.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_MENU_SUBMENU_VIEW_H_
 #define UI_VIEWS_CONTROLS_MENU_SUBMENU_VIEW_H_
 

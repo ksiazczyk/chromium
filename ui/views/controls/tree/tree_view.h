@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TreeView class declaration
+// summary: Declares the TreeView Views control that renders hierarchical TreeModel data with expand, collapse, selection, active-node tracking and node editing capabilities.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_TREE_TREE_VIEW_H_
 #define UI_VIEWS_CONTROLS_TREE_TREE_VIEW_H_
 

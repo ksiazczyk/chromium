@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Combobox utility functions implementation
+// summary: Implements shared helpers for combobox-like controls, including arrow container sizing, manual arrow painting, and ink drop configuration for buttons.
+// ---
+
 #include "ui/views/controls/combobox/combobox_util.h"
 
 #include <memory>

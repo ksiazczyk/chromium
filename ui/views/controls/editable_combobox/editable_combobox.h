@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EditableCombobox class declaration
+// summary: Declares the EditableCombobox view, a textfield that shows a drop-down list of suggestions, with model, filtering, and menu decoration APIs.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_EDITABLE_COMBOBOX_EDITABLE_COMBOBOX_H_
 #define UI_VIEWS_CONTROLS_EDITABLE_COMBOBOX_EDITABLE_COMBOBOX_H_
 

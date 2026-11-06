@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Resize area unit tests
+// summary: Unit tests for ResizeArea using a test delegate and event generator to verify mouse and gesture drag resize reporting.
+// ---
+
 #include "ui/views/controls/resize_area.h"
 
 #include <memory>

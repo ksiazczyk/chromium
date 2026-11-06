@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeMenuWin implementation
+// summary: Implements NativeMenuWin, a Windows HMENU wrapper that rebuilds and updates native menus from a ui::MenuModel with insertion delegate support.
+// ---
+
 #include "ui/views/controls/menu/native_menu_win.h"
 
 #include <utility>

@@ -2,6 +2,13 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 //
+
+// ---docerion
+// type: source
+// title: Image button factory API declaration
+// summary: Declares functions to create and configure vector-icon image and toggle image buttons, including the IconColors struct for themed normal, disabled, and hovered icon colors.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_BUTTON_IMAGE_BUTTON_FACTORY_H_
 #define UI_VIEWS_CONTROLS_BUTTON_IMAGE_BUTTON_FACTORY_H_
 

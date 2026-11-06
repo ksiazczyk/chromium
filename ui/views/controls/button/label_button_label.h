@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Label button label class declaration
+// summary: Declares LabelButtonLabel, an internal Label subclass for LabelButton that supports explicit enabled and disabled colors and view builder properties.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_BUTTON_LABEL_BUTTON_LABEL_H_
 #define UI_VIEWS_CONTROLS_BUTTON_LABEL_BUTTON_LABEL_H_
 

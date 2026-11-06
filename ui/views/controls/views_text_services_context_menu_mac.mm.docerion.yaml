@@ -1,0 +1,4 @@
+# Docerion header of views_text_services_context_menu_mac.mm.
+type: source
+title: Mac views text services context menu implementation
+summary: Implements the macOS text services context menu for textfields, adding items such as Look Up, Speech and BiDi by bridging to the Cocoa TextServicesContextMenu.

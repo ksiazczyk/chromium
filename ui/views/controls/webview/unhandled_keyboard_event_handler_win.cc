@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows unhandled keyboard event handler
+// summary: Windows implementation that forwards unhandled keyboard messages to DefWindowProc so keys like F10 work correctly.
+// ---
+
 #include "ui/views/controls/webview/unhandled_keyboard_event_handler.h"
 
 #include <windows.h>

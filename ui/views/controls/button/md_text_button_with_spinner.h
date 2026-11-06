@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MdTextButtonWithSpinner header
+// summary: Declares MdTextButtonWithSpinner, a material design text button that shows a throbber spinner on the left, with view builder support for spinner visibility.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_BUTTON_MD_TEXT_BUTTON_WITH_SPINNER_H_
 #define UI_VIEWS_CONTROLS_BUTTON_MD_TEXT_BUTTON_WITH_SPINNER_H_
 

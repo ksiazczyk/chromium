@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EmptyComboboxModel class declaration
+// summary: Declares EmptyComboboxModel, an empty ui::ComboboxModel implementation in views::internal for comboboxes with no items.
+// ---
+
 #ifndef UI_VIEWS_CONTROLS_COMBOBOX_EMPTY_COMBOBOX_MODEL_H_
 #define UI_VIEWS_CONTROLS_COMBOBOX_EMPTY_COMBOBOX_MODEL_H_
 
