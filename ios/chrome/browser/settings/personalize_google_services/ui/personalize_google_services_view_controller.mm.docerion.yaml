@@ -1,0 +1,4 @@
+# Docerion header of personalize_google_services_view_controller.mm.
+type: source
+title: Personalize Google Services view controller implementation
+summary: Implements the settings screen that shows a header plus Web & App Activity and Linked Google Services link-out items.

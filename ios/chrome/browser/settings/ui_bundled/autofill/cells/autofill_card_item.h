@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillCardItem interface header
+// summary: Declares the table view item for autofill credit card cells with a deletable flag and the PersonalDataManager card GUID.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_AUTOFILL_CELLS_AUTOFILL_CARD_ITEM_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_AUTOFILL_CELLS_AUTOFILL_CARD_ITEM_H_
 

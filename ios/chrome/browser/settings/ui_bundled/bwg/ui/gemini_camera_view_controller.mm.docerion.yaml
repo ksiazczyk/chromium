@@ -1,0 +1,4 @@
+# Docerion header of gemini_camera_view_controller.mm.
+type: source
+title: Gemini camera settings view controller implementation
+summary: Implements the Gemini camera settings screen with a switch that toggles the camera permission preference and records related metrics.

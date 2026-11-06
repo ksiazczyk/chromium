@@ -1,0 +1,4 @@
+# Docerion header of gemini_suggestions_view_controller.mm.
+type: source
+title: Gemini suggestions settings view controller implementation
+summary: Implements the Gemini suggestions settings table view with sections for the suggestions toggle, usage scope options, and things-to-consider information rows.

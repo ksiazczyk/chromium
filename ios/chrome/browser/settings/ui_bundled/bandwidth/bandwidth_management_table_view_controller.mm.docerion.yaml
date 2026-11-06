@@ -1,0 +1,4 @@
+# Docerion header of bandwidth_management_table_view_controller.mm.
+type: source
+title: Bandwidth management settings controller implementation
+summary: Implements the bandwidth settings screen with the preload webpages item, footer text, and preference change observation.

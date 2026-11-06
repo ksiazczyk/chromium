@@ -1,0 +1,4 @@
+# Docerion header of site_settings_mediator_unittest.mm.
+type: test
+title: Site settings mediator unit tests
+summary: Unit tests using a fake consumer to verify initial setting loads, consumer updates on setting changes, and disconnect cleanup behavior.

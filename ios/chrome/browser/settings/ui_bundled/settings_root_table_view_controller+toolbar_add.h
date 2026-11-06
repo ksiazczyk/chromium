@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar add button category for settings root table view controller
+// summary: Category header adding a method to build the Add toolbar button for settings root table view controllers.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_SETTINGS_ROOT_TABLE_VIEW_CONTROLLER_TOOLBAR_ADD_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_SETTINGS_ROOT_TABLE_VIEW_CONTROLLER_TOOLBAR_ADD_H_
 

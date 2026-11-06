@@ -1,0 +1,4 @@
+# Docerion header of search_engine_table_view_controller_non_eea_unittest.mm.
+type: test
+title: Search engine settings unit tests for non-EEA countries
+summary: Unit tests for the search engine settings controller when the choice screen feature is disabled, covering list display and default engine selection outside the EEA.

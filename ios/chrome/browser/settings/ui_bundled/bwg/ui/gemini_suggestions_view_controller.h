@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini suggestions settings view controller header
+// summary: Declares the GeminiSuggestionsViewController for the Gemini suggestions settings screen, along with its presentation delegate and mutator properties.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_BWG_UI_GEMINI_SUGGESTIONS_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_BWG_UI_GEMINI_SUGGESTIONS_VIEW_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManageAccountsConsumer protocol
+// summary: Defines the consumer protocol for reloading all items, popping the view and updating identity view items.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_MANAGE_ACCOUNTS_UI_MANAGE_ACCOUNTS_CONSUMER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_MANAGE_ACCOUNTS_UI_MANAGE_ACCOUNTS_CONSUMER_H_
 

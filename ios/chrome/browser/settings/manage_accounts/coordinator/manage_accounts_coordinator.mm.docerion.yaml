@@ -1,0 +1,4 @@
+# Docerion header of manage_accounts_coordinator.mm.
+type: source
+title: Manage accounts coordinator implementation
+summary: Implements the accounts settings coordinator, handling sign-out, add account, identity removal alerts and mediator delegation.

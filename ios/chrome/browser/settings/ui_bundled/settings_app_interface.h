@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test app interface for settings Earl Grey tests
+// summary: Declares test helpers used by settings Earl Grey tests, such as restoring clear browsing data prefs, toggling metrics reporting, and overriding the default search engine.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_SETTINGS_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_SETTINGS_APP_INTERFACE_H_
 

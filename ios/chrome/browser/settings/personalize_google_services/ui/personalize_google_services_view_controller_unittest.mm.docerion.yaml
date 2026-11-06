@@ -1,0 +1,4 @@
+# Docerion header of personalize_google_services_view_controller_unittest.mm.
+type: test
+title: Personalize Google Services view controller unit tests
+summary: Verifies with a mocked command handler that selecting the Web & App Activity and Linked Google Services items triggers the expected dialog calls.

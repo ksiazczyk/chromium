@@ -1,0 +1,4 @@
+# Docerion header of site_settings_category_detail_mediator_unittest.mm.
+type: test
+title: Site Settings category detail mediator unit tests
+summary: Tests initial settings delivery to a fake consumer and correct partitioning of site exceptions into allowed and not allowed lists.

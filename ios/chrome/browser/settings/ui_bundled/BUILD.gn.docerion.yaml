@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the iOS Chrome settings UI
+summary: Defines the GN source sets and dependencies for the iOS Chrome settings UI, including the settings root, navigation controller, and main settings targets.

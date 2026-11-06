@@ -1,0 +1,4 @@
+# Docerion header of supervised_user_family_link_app_interface.mm.
+type: source
+title: Supervised user Family Link app interface implementation
+summary: Implements the Family Link app interface, seeding supervised user URL filtering, preferences, and sync state for tests.

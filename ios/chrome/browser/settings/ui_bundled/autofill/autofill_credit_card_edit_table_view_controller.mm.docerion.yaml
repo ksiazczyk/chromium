@@ -1,0 +1,4 @@
+# Docerion header of autofill_credit_card_edit_table_view_controller.mm.
+type: source
+title: Credit card editor table view controller implementation
+summary: Implements the credit card editor form with cardholder, number, expiry, nickname and CVC fields.

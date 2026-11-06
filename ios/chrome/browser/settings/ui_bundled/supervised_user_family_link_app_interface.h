@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user Family Link app interface header
+// summary: Declares an Earl Grey app interface that seeds and manages Family Link settings state for supervised user tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_SUPERVISED_USER_FAMILY_LINK_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_SUPERVISED_USER_FAMILY_LINK_APP_INTERFACE_H_
 

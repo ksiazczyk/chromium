@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini settings consumer protocol
+// summary: Defines the GeminiSettingsConsumer protocol used to push location, camera, suggestions, captioning, microphone and page content states plus dynamic items to the UI.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_BWG_UI_GEMINI_SETTINGS_CONSUMER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_BWG_UI_GEMINI_SETTINGS_CONSUMER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings check item interface
+// summary: Declares a model item for check cells with warning states, leading and trailing icons, activity indicator, info button, and enabled properties.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_CELLS_SETTINGS_CHECK_ITEM_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_CELLS_SETTINGS_CHECK_ITEM_H_
 

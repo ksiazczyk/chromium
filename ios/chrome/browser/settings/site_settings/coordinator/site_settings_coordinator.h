@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site Settings root coordinator header
+// summary: Declares the coordinator for the root Site Settings screen, including its delegate and designated initializer.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_SITE_SETTINGS_COORDINATOR_SITE_SETTINGS_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_SETTINGS_SITE_SETTINGS_COORDINATOR_SITE_SETTINGS_COORDINATOR_H_
 

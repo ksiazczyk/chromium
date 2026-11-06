@@ -1,0 +1,4 @@
+# Docerion header of site_settings_mediator.mm.
+type: source
+title: Site settings mediator implementation
+summary: Implements the mediator that loads default microphone, camera, and geolocation settings and refreshes the consumer when content settings change.

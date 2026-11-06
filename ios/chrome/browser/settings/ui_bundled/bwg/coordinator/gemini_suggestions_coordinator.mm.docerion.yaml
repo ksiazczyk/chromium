@@ -1,0 +1,4 @@
+# Docerion header of gemini_suggestions_coordinator.mm.
+type: source
+title: Gemini suggestions coordinator implementation
+summary: Implements the coordinator that presents the Gemini suggestions settings view and opens the manage sync settings when requested.

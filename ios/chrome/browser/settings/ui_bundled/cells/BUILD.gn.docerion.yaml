@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for iOS settings cells
+summary: Defines the GN source sets for the iOS settings cells, their public constants target, and the unit tests target with their dependencies.

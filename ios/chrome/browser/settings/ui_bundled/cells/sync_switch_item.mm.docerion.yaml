@@ -1,0 +1,4 @@
+# Docerion header of sync_switch_item.mm.
+type: source
+title: SyncSwitchItem implementation
+summary: Implements SyncSwitchItem cell configuration with title, detail text and switch content configuration.

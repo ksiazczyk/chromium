@@ -1,0 +1,4 @@
+# Docerion header of search_engine_table_view_controller_unittest.mm.
+type: test
+title: Search engine settings unit test fixture implementation
+summary: Implements the shared test fixture for search engine settings unit tests, setting up profile services and fabricating prepopulated and custom search engines.

@@ -1,0 +1,4 @@
+# Docerion header of manage_sync_settings_coordinator_unittest.mm.
+type: test
+title: Manage Sync Settings Coordinator Unit Tests
+summary: Unit tests for the manage sync settings coordinator using a mock sync service, fake identities and OCMock.

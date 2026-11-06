@@ -1,0 +1,4 @@
+# Docerion header of site_settings_table_view_controller_unittest.mm.
+type: test
+title: Site settings table view controller unit tests
+summary: Unit tests for the site settings table view controller, covering category setup, dynamic location row insertion, and permission subtitle updates.

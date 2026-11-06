@@ -1,0 +1,4 @@
+# Docerion header of autofill_card_item.mm.
+type: source
+title: AutofillCardItem implementation
+summary: Provides the empty Objective-C implementation of the AutofillCardItem class for credit card table view cells.

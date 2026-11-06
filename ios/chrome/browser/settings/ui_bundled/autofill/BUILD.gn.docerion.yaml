@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn
+summary: GN build rules for the autofill settings UI source set, listing its sources and dependencies.

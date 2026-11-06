@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personalize Google Services coordinator header
+// summary: Declares the coordinator for the Personalize Google Services settings page and its delegate protocol.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_PERSONALIZE_GOOGLE_SERVICES_COORDINATOR_PERSONALIZE_GOOGLE_SERVICES_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_SETTINGS_PERSONALIZE_GOOGLE_SERVICES_COORDINATOR_PERSONALIZE_GOOGLE_SERVICES_COORDINATOR_H_
 

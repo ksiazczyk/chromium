@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for address bar preference cells
+summary: Defines the GN source set for the address bar preference cells and its dependencies on Chrome iOS UI libraries.

@@ -1,0 +1,4 @@
+# Docerion header of about_chrome_table_view_controller.mm.
+type: source
+title: About Chrome settings view controller implementation
+summary: Implements the About Chrome settings screen with links to licenses, terms, and privacy policy, plus the Chrome version footer.

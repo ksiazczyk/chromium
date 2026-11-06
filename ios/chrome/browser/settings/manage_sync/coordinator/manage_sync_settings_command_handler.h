@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manage Sync Settings Command Handler Protocol
+// summary: Declares the protocol used to communicate user actions from the manage sync settings mediator to its coordinator.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_MANAGE_SYNC_COORDINATOR_MANAGE_SYNC_SETTINGS_COMMAND_HANDLER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_MANAGE_SYNC_COORDINATOR_MANAGE_SYNC_SETTINGS_COMMAND_HANDLER_H_
 

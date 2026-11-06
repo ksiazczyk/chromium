@@ -1,0 +1,4 @@
+# Docerion header of inline_promo_cell.mm.
+type: source
+title: InlinePromoCell implementation
+summary: Implements InlinePromoCell, laying out the promo image, new feature badge, text label, more info button, and close button for narrow and wide layouts.

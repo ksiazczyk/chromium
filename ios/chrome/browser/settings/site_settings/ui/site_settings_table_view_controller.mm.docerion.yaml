@@ -1,0 +1,4 @@
+# Docerion header of site_settings_table_view_controller.mm.
+type: source
+title: Site settings table view controller implementation
+summary: Implements the iOS Chrome site settings table view that lists microphone, camera, and location permissions with their current default content settings.

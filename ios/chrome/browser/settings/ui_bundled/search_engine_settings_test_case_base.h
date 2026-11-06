@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search engine settings test case base class
+// summary: Declares the shared base test case for search engine settings tests, with hooks for country, engines and a test HTTP server.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_SEARCH_ENGINE_SETTINGS_TEST_CASE_BASE_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_SEARCH_ENGINE_SETTINGS_TEST_CASE_BASE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings root table constants header
+// summary: Declares accessibility identifiers for the settings root table toolbar buttons such as add, delete, edit, and settings.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_SETTINGS_ROOT_TABLE_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_SETTINGS_ROOT_TABLE_CONSTANTS_H_
 

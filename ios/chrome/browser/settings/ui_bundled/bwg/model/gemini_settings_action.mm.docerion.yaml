@@ -1,0 +1,4 @@
+# Docerion header of gemini_settings_action.mm.
+type: source
+title: GeminiSettingsAction implementation
+summary: Implements GeminiSettingsAction initialization, validating that URL and view controller parameters match the configured action type.

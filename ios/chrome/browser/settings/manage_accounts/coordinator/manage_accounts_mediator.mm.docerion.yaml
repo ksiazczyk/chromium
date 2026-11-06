@@ -1,0 +1,4 @@
+# Docerion header of manage_accounts_mediator.mm.
+type: source
+title: Manage accounts mediator implementation
+summary: Implements the mediator that observes authentication and identity changes and builds the account list items for the settings UI.

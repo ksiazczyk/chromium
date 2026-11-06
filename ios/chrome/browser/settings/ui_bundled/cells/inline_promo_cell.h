@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InlinePromoCell header
+// summary: Declares InlinePromoCell, a table view cell showing a badged promo image, description label, more info button, and close button in narrow or wide layouts.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_CELLS_INLINE_PROMO_CELL_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_CELLS_INLINE_PROMO_CELL_H_
 

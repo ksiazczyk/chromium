@@ -1,0 +1,4 @@
+# Docerion header of settings_table_view_controller.mm.
+type: source
+title: Main settings table view controller implementation
+summary: Implements the main iOS Chrome settings screen, building sections and items for sign-in, search, privacy, autofill, passwords and other preferences.

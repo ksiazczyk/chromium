@@ -1,0 +1,4 @@
+# Docerion header of settings_navigation_controller.mm.
+type: source
+title: Settings navigation controller implementation
+summary: Implements the navigation controller that hosts Chrome iOS settings screens and launches coordinators for autofill, passwords, sync, and other settings features.

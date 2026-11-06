@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings root table view controller base class header
+// summary: Declares SettingsRootTableViewController, the base class for settings table view controllers, handling edit, delete, toolbar and Done button behavior.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_SETTINGS_ROOT_TABLE_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_SETTINGS_ROOT_TABLE_VIEW_CONTROLLER_H_
 

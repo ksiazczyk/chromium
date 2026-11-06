@@ -1,0 +1,4 @@
+# Docerion header of autofill_profile_edit_coordinator.mm.
+type: source
+title: Autofill profile edit coordinator implementation
+summary: Implements the coordinator for viewing and editing autofill profiles, including country selection and migrate-to-account handling.

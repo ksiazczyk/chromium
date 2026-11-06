@@ -1,0 +1,4 @@
+# Docerion header of safe_browsing_header_item.mm.
+type: source
+title: Safe Browsing header item and view implementation
+summary: Implements the Safe Browsing header item and view, including icon sizing, tint color handling, and layout constraints for text with or without an image.

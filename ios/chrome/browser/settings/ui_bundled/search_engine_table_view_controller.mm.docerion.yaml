@@ -1,0 +1,4 @@
+# Docerion header of search_engine_table_view_controller.mm.
+type: source
+title: Search engine settings table view controller implementation
+summary: Implements the search engine settings screen, listing prepopulated and custom engines and handling default engine selection and metrics.

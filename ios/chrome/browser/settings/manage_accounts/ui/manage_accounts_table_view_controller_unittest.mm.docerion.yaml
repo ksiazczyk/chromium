@@ -1,0 +1,4 @@
+# Docerion header of manage_accounts_table_view_controller_unittest.mm.
+type: test
+title: ManageAccountsTableViewController unit tests
+summary: Unit tests for the manage accounts table view controller using fake identity, authentication and sync services.

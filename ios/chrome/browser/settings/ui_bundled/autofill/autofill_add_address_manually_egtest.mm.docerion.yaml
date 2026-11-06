@@ -1,0 +1,4 @@
+# Docerion header of autofill_add_address_manually_egtest.mm.
+type: test
+title: Add address manually Earl Grey tests
+summary: Earl Grey UI tests for manually adding a saved address through the autofill settings flow.

@@ -1,0 +1,4 @@
+# Docerion header of site_settings_category_detail_mediator.mm.
+type: source
+title: Site Settings category detail mediator implementation
+summary: Implements loading content settings, observing settings changes, and recording exception action histograms for the category detail screen.

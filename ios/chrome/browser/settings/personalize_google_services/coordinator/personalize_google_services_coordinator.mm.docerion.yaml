@@ -1,0 +1,4 @@
+# Docerion header of personalize_google_services_coordinator.mm.
+type: source
+title: Personalize Google Services coordinator implementation
+summary: Implements the coordinator, presenting the settings view controller and handling reauthentication and related dialogs.

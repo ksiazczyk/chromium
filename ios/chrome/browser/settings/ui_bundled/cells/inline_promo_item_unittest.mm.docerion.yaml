@@ -1,0 +1,4 @@
+# Docerion header of inline_promo_item_unittest.mm.
+type: test
+title: Inline promo item unit tests
+summary: Unit tests verifying that InlinePromoItem configures InlinePromoCell with the promo image, text, close button visibility, and more info button styling.

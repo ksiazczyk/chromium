@@ -1,0 +1,4 @@
+# Docerion header of identity_error_util.mm.
+type: source
+title: Identity error utility implementation
+summary: Maps sync service user-actionable errors such as passphrase and trusted vault issues to localized AccountErrorUIInfo data.

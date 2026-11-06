@@ -1,0 +1,4 @@
+# Docerion header of manage_accounts_mediator_unittest.mm.
+type: test
+title: Manage accounts mediator unit tests
+summary: Unit tests verifying that the mediator informs its delegate when sign-in becomes disabled on the device.

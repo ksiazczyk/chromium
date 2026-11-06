@@ -1,0 +1,4 @@
+# Docerion header of manage_accounts_table_view_controller.mm.
+type: source
+title: ManageAccountsTableViewController implementation
+summary: Builds the account list table with primary and secondary account sections plus add account, remove account and sign out items.

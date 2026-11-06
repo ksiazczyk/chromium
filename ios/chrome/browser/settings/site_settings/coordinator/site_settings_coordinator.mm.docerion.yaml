@@ -1,0 +1,4 @@
+# Docerion header of site_settings_coordinator.mm.
+type: source
+title: Site Settings root coordinator implementation
+summary: Implements the root Site Settings screen, launching category detail coordinators and recording category opened metrics.

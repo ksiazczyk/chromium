@@ -1,0 +1,4 @@
+# Docerion header of dataplan_usage_table_view_controller.mm.
+type: source
+title: Dataplan usage settings controller implementation
+summary: Implements the three-state preference UI, mapping network prediction settings to table items and checkmarks.

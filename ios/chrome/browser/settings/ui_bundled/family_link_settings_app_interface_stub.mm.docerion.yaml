@@ -1,0 +1,4 @@
+# Docerion header of family_link_settings_app_interface_stub.mm.
+type: test
+title: Family Link settings app interface stub
+summary: Stub that registers FamilyLinkSettingsAppInterface in the app main queue so Earl Grey tests can use Family Link settings helpers.

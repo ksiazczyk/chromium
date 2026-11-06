@@ -1,0 +1,4 @@
+# Docerion header of settings_table_view_controller_unittest.mm.
+type: test
+title: Settings table view controller unit tests
+summary: Unit tests covering the main settings table view, including section and cell visibility, metrics, policies and feature flag behavior.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for sync utils
+summary: Lists code owners for the directory, inheriting owners from components/sync and adding msarda@chromium.org.

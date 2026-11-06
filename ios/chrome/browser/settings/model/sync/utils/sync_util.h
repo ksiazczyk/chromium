@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync error infobar utility declarations
+// summary: Declares helpers that build sync error infobar titles, messages and button labels, decide when to show sync settings, display sync errors, and log infobar dismissal metrics.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_MODEL_SYNC_UTILS_SYNC_UTIL_H_
 #define IOS_CHROME_BROWSER_SETTINGS_MODEL_SYNC_UTILS_SYNC_UTIL_H_
 

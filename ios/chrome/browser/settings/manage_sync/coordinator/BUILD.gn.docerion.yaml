@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Manage Sync Settings Coordinator Build Configuration
+summary: Defines the coordinator and unit test source sets for the manage sync settings with their sources and build dependencies.

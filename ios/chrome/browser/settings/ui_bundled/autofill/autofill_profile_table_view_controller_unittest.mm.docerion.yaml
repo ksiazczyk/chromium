@@ -1,0 +1,4 @@
+# Docerion header of autofill_profile_table_view_controller_unittest.mm.
+type: test
+title: Autofill profile table view controller unit tests
+summary: Unit tests for the autofill profile settings table view controller, covering list behavior, metrics and feature flags.

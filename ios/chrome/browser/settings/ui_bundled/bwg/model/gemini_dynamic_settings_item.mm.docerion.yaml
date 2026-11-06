@@ -1,0 +1,4 @@
+# Docerion header of gemini_dynamic_settings_item.mm.
+type: source
+title: GeminiDynamicSettingsItem implementation
+summary: Implements GeminiDynamicSettingsItem, configuring accessories, accessibility traits and identifiers based on the action type and settings context.

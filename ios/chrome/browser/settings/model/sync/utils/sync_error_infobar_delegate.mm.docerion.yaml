@@ -1,0 +1,4 @@
+# Docerion header of sync_error_infobar_delegate.mm.
+type: source
+title: Sync error infobar delegate implementation
+summary: Creates and manages sync error infobars, observing sync service and identity changes and handling dismissal pauses.

@@ -1,0 +1,4 @@
+# Docerion header of settings_root_table_view_controller+toolbar_add.mm.
+type: source
+title: Toolbar add button category implementation
+summary: Implements creation of the Add toolbar button with a localized title and accessibility identifier.

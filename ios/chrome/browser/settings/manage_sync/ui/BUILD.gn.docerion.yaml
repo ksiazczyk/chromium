@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Manage sync settings UI build configuration
+summary: Defines the source set, dependencies and frameworks for the manage sync settings UI targets in the GN build.

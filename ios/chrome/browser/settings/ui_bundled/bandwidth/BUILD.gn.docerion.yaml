@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for bandwidth settings UI
+summary: Defines the bandwidth source set and its unit tests, listing sources and dependencies for the iOS settings build.

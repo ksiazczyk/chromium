@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for Gemini settings model
+summary: Defines GN source sets for the Gemini settings model classes and their unit tests, with dependencies on shared table view cells and ui/base.

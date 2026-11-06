@@ -1,0 +1,4 @@
+# Docerion header of autofill_credit_card_settings_egtest.mm.
+type: test
+title: Credit card settings Earl Grey tests
+summary: Earl Grey UI tests covering the saved credit cards section of the autofill settings, including mandatory reauth.

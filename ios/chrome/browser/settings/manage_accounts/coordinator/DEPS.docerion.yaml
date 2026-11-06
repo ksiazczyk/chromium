@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the manage accounts coordinator
+summary: Defines the allowed header include rules for code in the manage accounts coordinator directory.

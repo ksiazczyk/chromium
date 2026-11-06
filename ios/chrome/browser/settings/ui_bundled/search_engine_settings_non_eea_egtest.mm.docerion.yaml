@@ -1,0 +1,4 @@
+# Docerion header of search_engine_settings_non_eea_egtest.mm.
+type: test
+title: Non-EEA search engine settings Earl Grey tests
+summary: Earl Grey UI tests verifying search engine settings outside the EEA, including changing the default engine and deleting custom engines.

@@ -1,0 +1,4 @@
+# Docerion header of site_settings_coordinator_unittest.mm.
+type: test
+title: Site settings coordinator unit tests
+summary: Unit tests verifying that the coordinator pushes the site settings table view controller and records IOS.SiteSettings.CategoryOpened histograms when categories are selected.

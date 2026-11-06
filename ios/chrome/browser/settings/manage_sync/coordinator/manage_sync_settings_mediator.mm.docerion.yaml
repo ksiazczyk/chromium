@@ -1,0 +1,4 @@
+# Docerion header of manage_sync_settings_mediator.mm.
+type: source
+title: Manage Sync Settings Mediator Implementation
+summary: Implements the mediator that builds the sync settings model from sync, identity and subscription eligibility services.

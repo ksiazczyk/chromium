@@ -1,0 +1,4 @@
+# Docerion header of byo_textfield_item_unittest.mm.
+type: test
+title: BYOTextFieldItem unit tests
+summary: Unit tests verifying that configuring a BYOTextFieldCell installs the item's text field into the cell's content view.

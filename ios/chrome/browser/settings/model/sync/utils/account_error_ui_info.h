@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account error UI info header
+// summary: Declares the AccountErrorUIInfo class and the AccountErrorUserActionableType enum describing actionable sync account errors.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_MODEL_SYNC_UTILS_ACCOUNT_ERROR_UI_INFO_H_
 #define IOS_CHROME_BROWSER_SETTINGS_MODEL_SYNC_UTILS_ACCOUNT_ERROR_UI_INFO_H_
 

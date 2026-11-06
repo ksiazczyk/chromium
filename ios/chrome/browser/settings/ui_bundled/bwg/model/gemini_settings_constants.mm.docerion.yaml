@@ -1,0 +1,4 @@
+# Docerion header of gemini_settings_constants.mm.
+type: source
+title: Gemini settings accessibility identifier constants implementation
+summary: Defines the NSString values for the Gemini settings accessibility identifier constants declared in the corresponding header.

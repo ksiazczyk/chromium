@@ -1,0 +1,4 @@
+# Docerion header of settings_cells_constants.mm.
+type: source
+title: Settings cells constants implementation
+summary: Defines the default settings cell height constant and the search engine cell accessibility identifier prefix.

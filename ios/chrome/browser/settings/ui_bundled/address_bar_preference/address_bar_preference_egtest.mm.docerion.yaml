@@ -1,0 +1,4 @@
+# Docerion header of address_bar_preference_egtest.mm.
+type: test
+title: Address bar preference Earl Grey tests
+summary: Earl Grey integration tests verifying that selecting the bottom address bar option moves the omnibox and updates the settings page state.

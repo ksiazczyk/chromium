@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini settings metrics header
+// summary: Declares the IOSGeminiSettingsItem enum and functions that record user actions and histogram samples for the Gemini settings pages.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_BWG_UTILS_GEMINI_SETTINGS_METRICS_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_BWG_UTILS_GEMINI_SETTINGS_METRICS_H_
 

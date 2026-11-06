@@ -1,0 +1,4 @@
+# Docerion header of settings_accessibility_egtest.mm.
+type: test
+title: Settings accessibility Earl Grey tests
+summary: Earl Grey tests that verify accessibility of the Chrome iOS settings screens, including navigation between settings menus and cleanup of menus left open by failures.

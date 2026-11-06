@@ -1,0 +1,4 @@
+# Docerion header of settings_check_item_unittest.mm.
+type: test
+title: SettingsCheckItem unit tests
+summary: Unit tests verifying that SettingsCheckItem configures cell text, detail text and info button visibility correctly.

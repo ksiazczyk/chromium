@@ -1,0 +1,4 @@
+# Docerion header of address_bar_preference_coordinator.mm.
+type: source
+title: Address bar preference coordinator implementation
+summary: Starts and stops the address bar preference view controller and mediator and forwards removal events to its delegate.

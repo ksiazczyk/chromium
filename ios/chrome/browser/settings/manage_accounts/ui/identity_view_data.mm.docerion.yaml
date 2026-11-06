@@ -1,0 +1,4 @@
+# Docerion header of identity_view_data.mm.
+type: source
+title: IdentityViewData implementation
+summary: Implements the IdentityViewData class used to exchange identity information within the manage accounts UI.

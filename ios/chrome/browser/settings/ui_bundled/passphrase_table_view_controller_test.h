@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Passphrase table view controller test base class
+// summary: Declares the base test class for passphrase settings tests, setting up a test profile, browser and mock sync service.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSPHRASE_TABLE_VIEW_CONTROLLER_TEST_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSPHRASE_TABLE_VIEW_CONTROLLER_TEST_H_
 

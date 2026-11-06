@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for settings model
+summary: Defines the allowed include dependencies for the iOS Chrome settings model directory, permitting infobars, signin, and sync model headers.

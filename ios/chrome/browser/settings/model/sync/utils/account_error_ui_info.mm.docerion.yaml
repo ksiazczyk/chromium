@@ -1,0 +1,4 @@
+# Docerion header of account_error_ui_info.mm.
+type: source
+title: Account error UI info implementation
+summary: Implements AccountErrorUIInfo, including equality and hashing based on error type, action type, and message IDs.

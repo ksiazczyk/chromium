@@ -1,0 +1,4 @@
+# Docerion header of gemini_settings_metadata.mm.
+type: source
+title: Gemini settings metadata implementation
+summary: Implements the designated initializer of GeminiSettingsMetadata, copying the title and subtitle and storing the settings context.

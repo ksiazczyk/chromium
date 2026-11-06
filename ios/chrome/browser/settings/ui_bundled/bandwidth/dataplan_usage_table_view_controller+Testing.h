@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Testing category for dataplan usage controller
+// summary: Testing category header exposing the private updateSetting method of DataplanUsageTableViewController for use in tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_BANDWIDTH_DATAPLAN_USAGE_TABLE_VIEW_CONTROLLER_TESTING_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_BANDWIDTH_DATAPLAN_USAGE_TABLE_VIEW_CONTROLLER_TESTING_H_
 

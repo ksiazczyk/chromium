@@ -1,0 +1,4 @@
+# Docerion header of address_bar_preference_view_controller.mm.
+type: source
+title: Address bar preference view controller implementation
+summary: Builds the address bar options table with a tip footer, updates the selected option and records settings dismissal user actions.

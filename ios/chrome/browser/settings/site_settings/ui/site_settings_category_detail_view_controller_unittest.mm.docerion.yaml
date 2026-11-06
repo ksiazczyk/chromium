@@ -1,0 +1,4 @@
+# Docerion header of site_settings_category_detail_view_controller_unittest.mm.
+type: test
+title: Site settings category detail view controller unit tests
+summary: Unit tests for the category detail view controller covering model initialization, section layout and mutator interactions.

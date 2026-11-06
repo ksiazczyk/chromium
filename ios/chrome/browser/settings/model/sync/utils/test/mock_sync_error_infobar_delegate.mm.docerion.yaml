@@ -1,0 +1,4 @@
+# Docerion header of mock_sync_error_infobar_delegate.mm.
+type: test
+title: Mock sync error infobar delegate implementation
+summary: Implements MockSyncErrorInfoBarDelegate, setting default gmock return values for title, message, button label, icon tint, and icon image.

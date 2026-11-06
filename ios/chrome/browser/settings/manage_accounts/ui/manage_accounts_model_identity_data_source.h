@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManageAccountsModelIdentityDataSource protocol
+// summary: Declares the data source protocol supplying identities, avatars, primary email and view data to the manage accounts table view controller.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_MANAGE_ACCOUNTS_UI_MANAGE_ACCOUNTS_MODEL_IDENTITY_DATA_SOURCE_H_
 #define IOS_CHROME_BROWSER_SETTINGS_MANAGE_ACCOUNTS_UI_MANAGE_ACCOUNTS_MODEL_IDENTITY_DATA_SOURCE_H_
 

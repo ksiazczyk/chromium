@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for sync settings utils
+summary: Defines source sets and dependencies for the sync error UI utilities, identity error utility, and their unit tests.

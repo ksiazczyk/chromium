@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Site Settings coordinator DEPS include rules
+summary: Restricts allowed includes for the coordinator directory to the favicon and net model paths.

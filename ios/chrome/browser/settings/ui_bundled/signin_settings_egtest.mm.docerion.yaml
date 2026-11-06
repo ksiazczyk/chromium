@@ -1,0 +1,4 @@
+# Docerion header of signin_settings_egtest.mm.
+type: test
+title: Sign-in settings Earl Grey tests
+summary: Earl Grey integration tests for sign-in related settings UI, covering promo visibility, history sync opt-in and policy-driven behavior.

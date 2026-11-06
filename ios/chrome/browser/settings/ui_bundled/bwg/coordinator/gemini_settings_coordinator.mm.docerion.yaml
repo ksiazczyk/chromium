@@ -1,0 +1,4 @@
+# Docerion header of gemini_settings_coordinator.mm.
+type: source
+title: Gemini settings coordinator implementation
+summary: Implements the coordinator that presents the Gemini settings view controller, wires the mediator, and launches the suggestions coordinator.

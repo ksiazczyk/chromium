@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManageAccountsTableViewController interface
+// summary: Declares the settings table view controller that manages the account list for users signed in to Chrome.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_MANAGE_ACCOUNTS_UI_MANAGE_ACCOUNTS_TABLE_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_MANAGE_ACCOUNTS_UI_MANAGE_ACCOUNTS_TABLE_VIEW_CONTROLLER_H_
 

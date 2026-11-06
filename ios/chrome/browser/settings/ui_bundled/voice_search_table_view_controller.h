@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Voice search settings table view controller header
+// summary: Declares the table view controller for the voice search language and text-to-speech settings screen.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_VOICE_SEARCH_TABLE_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_VOICE_SEARCH_TABLE_VIEW_CONTROLLER_H_
 

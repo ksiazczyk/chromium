@@ -1,0 +1,4 @@
+# Docerion header of autofill_profile_item_unittest.mm.
+type: test
+title: AutofillProfileItem unit tests
+summary: Unit tests verifying that configuring the profile cell sets the text and detail labels and controls image view visibility correctly.

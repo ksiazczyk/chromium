@@ -1,0 +1,4 @@
+# Docerion header of site_settings_category_detail_view_controller.mm.
+type: source
+title: Site settings category detail view controller implementation
+summary: Implements the category detail table view with default setting options, allowed and not allowed site sections, and search filtering.

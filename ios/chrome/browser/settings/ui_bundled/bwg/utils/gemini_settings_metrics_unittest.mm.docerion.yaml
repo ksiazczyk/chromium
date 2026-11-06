@@ -1,0 +1,4 @@
+# Docerion header of gemini_settings_metrics_unittest.mm.
+type: test
+title: Unit tests for Gemini settings metrics
+summary: Verifies that the Gemini settings metrics functions record the expected user actions and histogram values using test helpers.

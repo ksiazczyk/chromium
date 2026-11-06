@@ -1,0 +1,4 @@
+# Docerion header of version_item.mm.
+type: source
+title: VersionItem implementation
+summary: Implements the version footer view with label layout, accessibility support and tap handling via its delegate.

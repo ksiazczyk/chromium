@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GeminiDynamicSettingsItem table view item header
+// summary: Declares GeminiDynamicSettingsItem, a table view detail text item that pairs Gemini settings metadata with the action triggered on selection.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_BWG_MODEL_GEMINI_DYNAMIC_SETTINGS_ITEM_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_BWG_MODEL_GEMINI_DYNAMIC_SETTINGS_ITEM_H_
 

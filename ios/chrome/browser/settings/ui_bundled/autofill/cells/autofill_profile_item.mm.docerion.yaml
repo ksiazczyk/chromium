@@ -1,0 +1,4 @@
+# Docerion header of autofill_profile_item.mm.
+type: source
+title: AutofillProfileItem and cell implementation
+summary: Implements the autofill profile item and cell, configuring labels, image view, and stack view layout for address profile rows.

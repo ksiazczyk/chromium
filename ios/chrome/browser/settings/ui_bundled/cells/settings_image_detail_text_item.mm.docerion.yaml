@@ -1,0 +1,4 @@
+# Docerion header of settings_image_detail_text_item.mm.
+type: source
+title: SettingsImageDetailTextItem implementation
+summary: Implements configuration of the legacy table view cell with image, title, detail text, colors and accessibility settings.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site Settings category detail coordinator header
+// summary: Declares the coordinator that manages the Site Settings category detail screen for a selected permission category.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_SITE_SETTINGS_COORDINATOR_SITE_SETTINGS_CATEGORY_DETAIL_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_SETTINGS_SITE_SETTINGS_COORDINATOR_SITE_SETTINGS_CATEGORY_DETAIL_COORDINATOR_H_
 

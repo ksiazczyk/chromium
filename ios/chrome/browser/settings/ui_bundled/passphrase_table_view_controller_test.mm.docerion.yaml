@@ -1,0 +1,4 @@
+# Docerion header of passphrase_table_view_controller_test.mm.
+type: test
+title: Passphrase table view controller test base implementation
+summary: Implements the passphrase settings test base class, building a test profile with mock sync, authentication and preference services.

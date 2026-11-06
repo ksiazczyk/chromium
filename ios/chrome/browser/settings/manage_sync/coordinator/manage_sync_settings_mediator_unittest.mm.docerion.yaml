@@ -1,0 +1,4 @@
+# Docerion header of manage_sync_settings_mediator_unittest.mm.
+type: test
+title: Manage Sync Settings Mediator Unit Tests
+summary: Unit tests for the manage sync settings mediator covering sync state, account handling and the settings UI model.

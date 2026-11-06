@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dataplan usage settings controller header
+// summary: Declares a settings controller for three-state options (Always, Only on WiFi, Never) plus a helper for the current setting label.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_BANDWIDTH_DATAPLAN_USAGE_TABLE_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_BANDWIDTH_DATAPLAN_USAGE_TABLE_VIEW_CONTROLLER_H_
 

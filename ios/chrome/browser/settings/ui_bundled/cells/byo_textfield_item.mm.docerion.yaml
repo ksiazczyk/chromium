@@ -1,0 +1,4 @@
+# Docerion header of byo_textfield_item.mm.
+type: source
+title: BYOTextFieldItem implementation
+summary: Implements BYOTextFieldItem and BYOTextFieldCell, installing and uninstalling the provided text field with layout constraints in the cell's content view.

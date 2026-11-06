@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protocol for settings view controllers
+// summary: Defines the protocol settings view controllers implement to report dismissal and back navigation user actions and to be notified when settings are dismissed.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_SETTINGS_CONTROLLER_PROTOCOL_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_SETTINGS_CONTROLLER_PROTOCOL_H_
 

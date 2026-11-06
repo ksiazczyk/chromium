@@ -1,0 +1,4 @@
+# Docerion header of settings_image_detail_text_item_unittest.mm.
+type: test
+title: SettingsImageDetailTextItem unit tests
+summary: Unit tests checking text, attributed text, image and color handling when SettingsImageDetailTextItem configures a cell.
