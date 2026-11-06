@@ -1,0 +1,4 @@
+# Docerion header of red.html.
+type: test
+title: Red background test page
+summary: Shows a red full-viewport page with a mobile viewport meta tag for navigation and rendering tests.

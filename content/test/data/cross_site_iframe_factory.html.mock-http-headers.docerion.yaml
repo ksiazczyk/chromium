@@ -1,0 +1,4 @@
+# Docerion header of cross_site_iframe_factory.html.mock-http-headers.
+type: test
+title: Cross-site iframe factory mock HTTP headers
+summary: Mock HTTP headers serving the cross-site iframe factory page as HTML with fenced-frame loading mode support.

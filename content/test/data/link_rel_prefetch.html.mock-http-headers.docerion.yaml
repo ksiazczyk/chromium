@@ -1,0 +1,4 @@
+# Docerion header of link_rel_prefetch.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for link_rel_prefetch.html
+summary: 'Mock HTTP response headers that serve the prefetch test page as 200 OK with Supports-Loading-Mode: fenced-frame.'

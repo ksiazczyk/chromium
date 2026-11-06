@@ -1,0 +1,4 @@
+# Docerion header of hello.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for hello.html
+summary: Mock HTTP response headers that serve hello.html with a text/html content type in tests.

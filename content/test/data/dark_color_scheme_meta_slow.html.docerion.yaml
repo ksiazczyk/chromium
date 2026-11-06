@@ -1,0 +1,4 @@
+# Docerion header of dark_color_scheme_meta_slow.html.
+type: test
+title: Dark color scheme meta with slow response
+summary: Test page declaring a dark color-scheme meta tag while loading a slow stylesheet response.

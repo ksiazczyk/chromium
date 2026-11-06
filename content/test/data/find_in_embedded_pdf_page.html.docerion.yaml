@@ -1,0 +1,4 @@
+# Docerion header of find_in_embedded_pdf_page.html.
+type: test
+title: Find-in-page test page with embedded PDFs
+summary: Test page for find-in-page containing two embedded PDF iframes and plain text, expected to yield 13 matches for the word result.

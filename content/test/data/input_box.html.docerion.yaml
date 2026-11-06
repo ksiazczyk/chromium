@@ -1,0 +1,4 @@
+# Docerion header of input_box.html.
+type: test
+title: Input box focus and scroll test page
+summary: Test page with a text input positioned far from the viewport origin that focuses it without scrolling and signals load completion to the browser.

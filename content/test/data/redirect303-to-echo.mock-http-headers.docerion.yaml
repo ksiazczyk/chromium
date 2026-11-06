@@ -1,0 +1,4 @@
+# Docerion header of redirect303-to-echo.mock-http-headers.
+type: test
+title: Mock HTTP headers for 303 redirect to /echo
+summary: Mock HTTP response headers returning HTTP 303 with Location /echo for the redirect303-to-echo test page.

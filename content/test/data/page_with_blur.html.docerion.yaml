@@ -1,0 +1,4 @@
+# Docerion header of page_with_blur.html.
+type: test
+title: Page with blur event handler
+summary: Test page that registers a body onblur handler and reports document-blur through domAutomationController when focus leaves the page.

@@ -1,0 +1,4 @@
+# Docerion header of https_upgrade_cross_site.html.
+type: test
+title: Cross-site HTTPS upgrade test page
+summary: Test page using the upgrade-insecure-requests CSP with a cross-site HTTP iframe to exercise HTTPS upgrades.

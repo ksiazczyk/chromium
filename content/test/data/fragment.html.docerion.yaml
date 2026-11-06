@@ -1,0 +1,4 @@
+# Docerion header of fragment.html.
+type: test
+title: Fragment navigation test page
+summary: 'Test page with an element identified by #fragment for fragment navigation tests.'

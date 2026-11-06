@@ -1,0 +1,4 @@
+# Docerion header of detach_frame_in_copy.html.
+type: test
+title: Detach frame during copy test page
+summary: Test page that removes an iframe while handling its copy event to verify the renderer does not crash.

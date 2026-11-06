@@ -1,0 +1,4 @@
+# Docerion header of pause_schedule_task.html.
+type: test
+title: Pause schedule task page
+summary: Test page that repeatedly updates a text field via a fast setInterval, apparently for testing pausing of scheduled tasks.

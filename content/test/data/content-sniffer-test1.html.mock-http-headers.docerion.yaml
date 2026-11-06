@@ -1,0 +1,4 @@
+# Docerion header of content-sniffer-test1.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for content-sniffer-test1.html
+summary: Serves the sniffer test 1 page with a text/plain content type to prevent HTML sniffing.

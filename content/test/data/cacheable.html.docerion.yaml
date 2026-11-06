@@ -1,0 +1,4 @@
+# Docerion header of cacheable.html.
+type: test
+title: Cacheable HTML test page
+summary: Minimal HTML page stating it is cacheable, used as a cacheable resource in content layer tests.

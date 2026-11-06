@@ -1,0 +1,4 @@
+# Docerion header of mojo_web_test_helper.test-mojom.
+type: test
+title: Mojom helper interface for Mojo web tests
+summary: Defines the MojoWebTestHelper interface with a Reverse method used by Mojo web tests.

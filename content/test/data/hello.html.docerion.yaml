@@ -1,0 +1,4 @@
+# Docerion header of hello.html.
+type: test
+title: Hello world test page
+summary: Minimal HTML page that displays the word hello, used as a simple target in browser tests.

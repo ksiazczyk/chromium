@@ -1,0 +1,4 @@
+# Docerion header of link_rel_prefetch_disable_network.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for link_rel_prefetch_disable_network.html
+summary: 'Mock HTTP response headers that serve the disable-network prefetch test page as 200 OK with Supports-Loading-Mode: fenced-frame.'

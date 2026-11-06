@@ -1,0 +1,4 @@
+# Docerion header of content-disposition-attachment.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for content-disposition-attachment.html
+summary: Serves the attachment test page with a Content-Disposition attachment header so the response is treated as a download.

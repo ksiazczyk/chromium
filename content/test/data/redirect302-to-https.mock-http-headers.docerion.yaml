@@ -1,0 +1,4 @@
+# Docerion header of redirect302-to-https.mock-http-headers.
+type: test
+title: Redirect 302 to HTTPS mock HTTP headers
+summary: Mock HTTP response headers for a content test that answers with a 302 redirect to an HTTPS destination.

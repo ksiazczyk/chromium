@@ -1,0 +1,4 @@
+# Docerion header of changing_color.html.
+type: test
+title: Changing color test page
+summary: Test page with anchored red, green, and blue full-viewport sections used to exercise color changes and hash navigation.

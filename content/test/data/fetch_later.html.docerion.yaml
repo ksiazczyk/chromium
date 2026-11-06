@@ -1,0 +1,4 @@
+# Docerion header of fetch_later.html.
+type: test
+title: fetchLater test page
+summary: Test page that calls fetchLater on /beacon with configurable options and posts the result back to the opener or parent frame.

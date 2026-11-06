@@ -1,0 +1,4 @@
+# Docerion header of accept-header-iframe.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for accept-header-iframe.html
+summary: Mock response headers serving the iframe page with a CSP that blocks scripts and reports violations.

@@ -1,0 +1,4 @@
+# Docerion header of redirect301-csp-to-frame-ancestors-none.mock-http-headers.
+type: test
+title: Mock HTTP headers for redirect301-csp-to-frame-ancestors-none
+summary: Mock 301 response headers redirecting to frame-ancestors-none.html with a CSP frame-ancestors 'none' policy.

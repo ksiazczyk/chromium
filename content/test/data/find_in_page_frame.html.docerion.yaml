@@ -1,0 +1,4 @@
+# Docerion header of find_in_page_frame.html.
+type: test
+title: Find-in-page frame with varied CSS layouts
+summary: Frame content for find-in-page match rect tests placing matches inside transformed, fixed, scrollable, and overflowed elements plus a table and a select.

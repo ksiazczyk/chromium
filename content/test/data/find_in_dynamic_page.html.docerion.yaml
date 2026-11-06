@@ -1,0 +1,4 @@
+# Docerion header of find_in_dynamic_page.html.
+type: test
+title: Find-in-page dynamic text test page
+summary: Find-in-page test page that dynamically adds text content for search testing.

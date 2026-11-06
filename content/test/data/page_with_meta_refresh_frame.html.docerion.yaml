@@ -1,0 +1,4 @@
+# Docerion header of page_with_meta_refresh_frame.html.
+type: test
+title: Page with meta refresh iframe
+summary: Test page that writes an iframe containing a meta refresh tag to test how the refresh in the iframe affects the parent document.

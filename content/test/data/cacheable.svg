@@ -1,3 +1,9 @@
+<!--docerion
+type: test
+title: Cacheable SVG test image
+summary: SVG image showing the text SVG, used as a cacheable image resource in content layer tests.
+-->
+
 <svg version="1.1"
      baseProfile="full"
      width="300" height="200"

@@ -1,0 +1,4 @@
+# Docerion header of mojo_bindings_web_test_types.test-mojom.
+type: test
+title: Mojom test types for Mojo bindings web tests
+summary: Defines the TestStruct and TestUnion types imported by the Mojo bindings web test mojom definitions.

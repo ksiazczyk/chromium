@@ -1,0 +1,4 @@
+# Docerion header of empty404.html.
+type: test
+title: Empty 404 HTML test fixture
+summary: Empty HTML fixture intended to be served with a 404 status through its paired mock headers file.

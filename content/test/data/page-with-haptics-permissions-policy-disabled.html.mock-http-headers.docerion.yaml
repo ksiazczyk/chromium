@@ -1,0 +1,4 @@
+# Docerion header of page-with-haptics-permissions-policy-disabled.html.mock-http-headers.
+type: test
+title: Mock HTTP headers disabling haptics permissions policy
+summary: 'Mock HTTP headers that serve a test page with the haptics permissions policy disabled via Permissions-Policy: haptics=().'

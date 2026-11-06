@@ -1,0 +1,4 @@
+# Docerion header of page_with_subresources.html.
+type: test
+title: Test page loading various subresources
+summary: HTML test fixture loading stylesheets, prefetch, images, scripts, a link ping and a beacon to exercise subresource loading.

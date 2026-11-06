@@ -1,0 +1,4 @@
+# Docerion header of isolated_base_origin_with_subframe.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for origin-isolated subframe page
+summary: Mock HTTP response headers that serve the subframe test page with an Origin-Agent-Cluster header to force origin-keyed isolation.

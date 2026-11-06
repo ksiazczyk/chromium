@@ -1,0 +1,4 @@
+# Docerion header of nested-unload-2.html.
+type: test
+title: Nested unload iframe removal test page
+summary: Test page whose unload handler removes the iframe in the top document, used to exercise nested unload behavior.

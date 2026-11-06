@@ -1,0 +1,4 @@
+# Docerion header of frame-ancestors-none.html.
+type: test
+title: CSP frame-ancestors none test page
+summary: Test page that must not load in an iframe because its CSP sets frame-ancestors to none.

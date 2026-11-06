@@ -1,0 +1,4 @@
+# Docerion header of redirect303-to-echo.
+type: test
+title: 303 redirect test page to /echo
+summary: Test page body served with mock headers that issue a 303 redirect to the /echo endpoint.

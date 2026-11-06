@@ -1,0 +1,4 @@
+# Docerion header of pagehide_handler_force_layout.html.
+type: test
+title: Pagehide handler forcing layout
+summary: Test page that forces a layout during pagehide by resizing, scrolling and reading the scroll position, posting loaded and unloaded messages to its opener.

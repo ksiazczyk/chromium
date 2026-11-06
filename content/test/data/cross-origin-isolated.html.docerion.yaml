@@ -1,0 +1,4 @@
+# Docerion header of cross-origin-isolated.html.
+type: test
+title: Cross-origin isolated test page
+summary: Empty HTML page served as a cross-origin isolated document for COOP and COEP require-corp tests.

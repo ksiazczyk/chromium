@@ -1,0 +1,4 @@
+# Docerion header of page_with_touch_handler.html.
+type: test
+title: Page with touch handler
+summary: Test page that records the last touch event type (touchstart, touchmove, touchend) in a div so browser tests can verify touch handling.

@@ -1,0 +1,4 @@
+# Docerion header of interaction-mq-dynamic-android.html.
+type: test
+title: Dynamic interaction media query test for Android
+summary: Test page that listens for changes to the coarse-pointer, no-hover interaction media query and reports success or failure via the document title.

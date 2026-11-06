@@ -1,0 +1,4 @@
+# Docerion header of iframe_clipped.html.
+type: test
+title: Clipped iframe viewport test page
+summary: Test page with an iframe inside a clipped container plus helpers that notify the browser about load, viewport size, visibility and stability.

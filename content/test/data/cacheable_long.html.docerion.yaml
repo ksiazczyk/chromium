@@ -1,0 +1,4 @@
+# Docerion header of cacheable_long.html.
+type: test
+title: Long cacheable HTML test page with pi digits
+summary: Large cacheable HTML page containing 100,000 digits of pi, sized to exceed buffer limits in tests.

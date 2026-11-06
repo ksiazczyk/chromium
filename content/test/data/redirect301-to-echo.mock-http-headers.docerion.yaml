@@ -1,0 +1,4 @@
+# Docerion header of redirect301-to-echo.mock-http-headers.
+type: test
+title: Mock HTTP headers for redirect301-to-echo
+summary: Mock 301 response headers redirecting requests to the /echo URL.

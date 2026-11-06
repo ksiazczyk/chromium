@@ -1,0 +1,4 @@
+# Docerion header of cacheable.svg.mock-http-headers.
+type: test
+title: Cacheable SVG mock HTTP headers
+summary: Mock HTTP response headers that serve cacheable.svg as cacheable SVG with CORS allowed.

@@ -1,0 +1,4 @@
+# Docerion header of cacheable.js.mock-http-headers.
+type: test
+title: Cacheable JavaScript mock HTTP headers
+summary: Mock HTTP response headers that serve cacheable.js as cacheable JavaScript with CORS allowed.

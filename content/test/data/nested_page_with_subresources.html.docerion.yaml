@@ -1,0 +1,4 @@
+# Docerion header of nested_page_with_subresources.html.
+type: test
+title: Nested page with cross-origin subresources iframe
+summary: Test page that embeds an iframe pointing at page_with_subresources.html on a not-prefixed hostname to load nested subresources.

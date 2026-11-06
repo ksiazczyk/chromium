@@ -1,0 +1,4 @@
+# Docerion header of popstate-has-ua-visual-transition.html.
+type: test
+title: Popstate hasUAVisualTransition test page
+summary: Test page that records the hasUAVisualTransition value of popstate events triggered by fragment link navigation.

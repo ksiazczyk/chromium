@@ -1,0 +1,4 @@
+# Docerion header of blue.html.
+type: test
+title: Blue background test page
+summary: Test page with a plain blue background and mobile viewport settings for visual or navigation checks.

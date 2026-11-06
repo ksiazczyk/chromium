@@ -1,0 +1,4 @@
+# Docerion header of no_vary_search_a.html.mock-http-headers.
+type: test
+title: No-Vary-Search mock HTTP headers
+summary: Mock HTTP headers fixture that responds 200 OK with a No-Vary-Search header excluding parameter a from cache matching.

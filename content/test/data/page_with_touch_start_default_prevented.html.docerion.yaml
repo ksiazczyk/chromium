@@ -1,0 +1,4 @@
+# Docerion header of page_with_touch_start_default_prevented.html.
+type: test
+title: Page with touch start default prevented
+summary: Test page whose body adds a non-passive touchstart listener that calls preventDefault, for testing touch default prevention.

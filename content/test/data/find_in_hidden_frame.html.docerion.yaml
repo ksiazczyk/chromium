@@ -1,0 +1,4 @@
+# Docerion header of find_in_hidden_frame.html.
+type: test
+title: Find-in-page test page with hidden frames
+summary: Test page with visible text and two hidden iframes used to exercise find-in-page behavior in hidden frames.

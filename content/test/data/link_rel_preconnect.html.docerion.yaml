@@ -1,0 +1,4 @@
+# Docerion header of link_rel_preconnect.html.
+type: test
+title: Preconnect link test page
+summary: HTML test page that triggers a preconnect to image.jpg through a link rel=preconnect element.

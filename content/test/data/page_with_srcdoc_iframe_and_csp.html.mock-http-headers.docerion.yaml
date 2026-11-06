@@ -1,0 +1,4 @@
+# Docerion header of page_with_srcdoc_iframe_and_csp.html.mock-http-headers.
+type: test
+title: Mock HTTP headers with CSP for the srcdoc iframe page
+summary: Mock HTTP headers serving the srcdoc iframe page with a Content-Security-Policy of style-src 'none'.

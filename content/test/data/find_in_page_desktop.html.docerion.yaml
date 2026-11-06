@@ -1,0 +1,4 @@
+# Docerion header of find_in_page_desktop.html.
+type: test
+title: Desktop find-in-page match rect test page
+summary: Desktop variant of the match rect test with a large scrollable body and an offset iframe to test scrolling to matches.

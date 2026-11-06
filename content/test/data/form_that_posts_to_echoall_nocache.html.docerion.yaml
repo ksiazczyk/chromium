@@ -1,0 +1,4 @@
+# Docerion header of form_that_posts_to_echoall_nocache.html.
+type: test
+title: POST form test page for echoall nocache
+summary: Test page with a text form that POSTs to the nocache variant of the echoall endpoint.

@@ -1,0 +1,4 @@
+# Docerion header of page500.html.
+type: test
+title: Test page for HTTP 500 server error
+summary: HTML page titled Server Error that is paired with mock headers to test HTTP 500 response handling.

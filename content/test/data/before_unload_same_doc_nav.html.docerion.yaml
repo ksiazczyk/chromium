@@ -1,0 +1,4 @@
+# Docerion header of before_unload_same_doc_nav.html.
+type: test
+title: Beforeunload same-document navigation test page
+summary: Test page whose beforeunload handler pushes a hash state to trigger a same-document navigation.

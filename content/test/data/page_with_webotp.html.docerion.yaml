@@ -1,0 +1,4 @@
+# Docerion header of page_with_webotp.html.
+type: test
+title: Page with WebOTP input
+summary: Test page that requests a one-time SMS code via the WebOTP credentials API and fills it into an autocomplete one-time-code input.

@@ -1,0 +1,4 @@
+# Docerion header of permissions-policy.xml.mock-http-headers.
+type: test
+title: Mock HTTP headers for permissions-policy.xml
+summary: Mock HTTP response headers that serve the XML test page with Permissions-Policy geolocation=self.

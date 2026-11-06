@@ -1,0 +1,4 @@
+# Docerion header of input_in_iframe.html.
+type: test
+title: Input box embedded in an iframe
+summary: Test page that embeds input_box.html in a full-size iframe and reports when the outer frame has finished loading.

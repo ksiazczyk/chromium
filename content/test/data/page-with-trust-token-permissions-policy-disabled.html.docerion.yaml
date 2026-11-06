@@ -1,0 +1,4 @@
+# Docerion header of page-with-trust-token-permissions-policy-disabled.html.
+type: test
+title: Test page with trust token permissions policy disabled
+summary: HTML test page with an iframe used to verify behavior when the private-state-token-redemption feature is disabled by mock headers.

@@ -1,0 +1,4 @@
+# Docerion header of location_equals_about_srcdoc_script.html.
+type: test
+title: Location equals about:srcdoc script test page
+summary: Test page that sets its location to about:srcdoc via a script to exercise navigation behavior.

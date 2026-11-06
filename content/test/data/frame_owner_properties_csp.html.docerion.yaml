@@ -1,0 +1,4 @@
+# Docerion header of frame_owner_properties_csp.html.
+type: test
+title: Frame owner CSP attribute test page
+summary: Test page embedding a cross-site iframe that carries a csp attribute set to object-src 'none'.

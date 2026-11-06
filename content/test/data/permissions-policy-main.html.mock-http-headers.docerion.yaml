@@ -1,0 +1,4 @@
+# Docerion header of permissions-policy-main.html.mock-http-headers.
+type: test
+title: Permissions policy main mock HTTP headers
+summary: Mock HTTP headers fixture that serves permissions-policy-main.html with a Permissions-Policy header for geolocation and payment.

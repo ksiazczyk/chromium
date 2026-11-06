@@ -1,0 +1,4 @@
+# Docerion header of mojo_bindings_web_test.test-mojom.
+type: test
+title: Mojom interfaces for Mojo bindings web tests
+summary: Defines test interfaces and structs exercising lite JS mojom bindings, dependency loading, versioning, and associated interfaces.

@@ -1,0 +1,4 @@
+# Docerion header of font_src_local_matching.html.
+type: test
+title: Font local() source matching test page
+summary: Test page that builds local() @font-face rules for platform-specific fonts to verify font matching, used by DevTools tests.

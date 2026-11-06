@@ -1,0 +1,4 @@
+# Docerion header of find_in_long_page.html.
+type: test
+title: Long find-in-page test page with pi digits
+summary: Long test page listing 100,000 digits of pi to exercise find-in-page over a very large document.

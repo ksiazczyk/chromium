@@ -1,0 +1,4 @@
+# Docerion header of interaction-mq-dynamic.html.
+type: test
+title: Dynamic interaction media query test
+summary: Test page that listens for changes to the coarse-pointer with hover interaction media query and reports success or failure via the document title.

@@ -1,0 +1,4 @@
+# Docerion header of gamepad-permissions-policy-none.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for gamepad-permissions-policy-none.html
+summary: Mock HTTP response headers serving the page with Permissions-Policy gamepad=() to block gamepad access.

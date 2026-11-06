@@ -1,0 +1,4 @@
+# Docerion header of cross-origin-isolated.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for cross-origin-isolated.html
+summary: Mock HTTP headers serving the page with COOP same-origin and COEP require-corp for isolation tests.

@@ -1,0 +1,4 @@
+# Docerion header of lite_js_test.test-mojom.
+type: test
+title: Lite JS mojom bindings test definitions
+summary: Mojom definitions of structs, unions and interfaces used to exercise the lite JS mojom bindings in tests.

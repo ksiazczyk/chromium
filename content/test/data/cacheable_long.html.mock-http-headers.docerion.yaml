@@ -1,0 +1,4 @@
+# Docerion header of cacheable_long.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for cacheable_long.html
+summary: Supplies mock HTTP response headers that serve cacheable_long.html as HTML with a one-hour cache lifetime.

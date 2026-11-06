@@ -1,0 +1,4 @@
+# Docerion header of page500.html.mock-http-headers.
+type: test
+title: Mock HTTP headers returning 500 for page500
+summary: Mock HTTP headers file that makes page500.html respond with HTTP 500 Server Sad and a text/html content type for error-page tests.

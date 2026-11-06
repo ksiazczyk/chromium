@@ -1,0 +1,4 @@
+# Docerion header of find_in_page.html.
+type: test
+title: Find-in-page match rect test page
+summary: Test page for find-in-page match rectangles with matches surrounding an iframe that loads find_in_page_frame.html.

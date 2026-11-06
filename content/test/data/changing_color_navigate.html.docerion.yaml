@@ -1,0 +1,4 @@
+# Docerion header of changing_color_navigate.html.
+type: test
+title: Navigation API color change test page
+summary: Test page that intercepts hash navigations with the navigation API and recolors its content div to red, green, or blue.

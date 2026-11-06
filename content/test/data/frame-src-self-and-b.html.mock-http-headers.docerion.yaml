@@ -1,0 +1,4 @@
+# Docerion header of frame-src-self-and-b.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for frame-src-self-and-b.html
+summary: Mock HTTP response headers serving the frame-src test page with a Content-Security-Policy restricting frames to self and b.com.

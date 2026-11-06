@@ -1,0 +1,4 @@
+# Docerion header of color-scheme-2.html.
+type: test
+title: Color scheme test page 2
+summary: Test page that switches background and text colors based on the prefers-color-scheme media query, labeled as color scheme test 2.

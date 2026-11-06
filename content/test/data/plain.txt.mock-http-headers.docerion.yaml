@@ -1,0 +1,4 @@
+# Docerion header of plain.txt.mock-http-headers.
+type: test
+title: Mock HTTP headers for plain.txt
+summary: Defines the HTTP response headers, including a text/plain content type, served for plain.txt in content tests.

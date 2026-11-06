@@ -1,0 +1,4 @@
+# Docerion header of corp-cross-origin.html.
+type: test
+title: CORP cross-origin test page
+summary: Test resource served with the Cross-Origin-Resource-Policy cross-origin header set.
