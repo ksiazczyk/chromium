@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DawnClientMemoryTransferService declaration
+// summary: Declares the Dawn wire client memory transfer service that allocates shared memory transfer buffers through the mapped memory manager.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_CLIENT_DAWN_CLIENT_MEMORY_TRANSFER_SERVICE_H_
 #define GPU_COMMAND_BUFFER_CLIENT_DAWN_CLIENT_MEMORY_TRANSFER_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ClientDiscardableManager unit tests
+// summary: Tests handle creation, locking, deletion, and reuse with a fake command buffer implementation.
+// ---
+
 #include "gpu/command_buffer/client/client_discardable_manager.h"
 
 #include "base/notreached.h"

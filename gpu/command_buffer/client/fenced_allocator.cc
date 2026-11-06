@@ -4,6 +4,12 @@
 
 // This file contains the implementation of the FencedAllocator class.
 
+// ---docerion
+// type: source
+// title: FencedAllocator implementation
+// summary: Implements the FencedAllocator class that manages block allocations within a fixed memory region, including first-fit allocation, freeing, and token-pending reuse.
+// ---
+
 #include "gpu/command_buffer/client/fenced_allocator.h"
 
 #include <stdint.h>

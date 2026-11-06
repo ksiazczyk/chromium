@@ -4,6 +4,12 @@
 
 // Helper classes for implementing gpu client side unit tests.
 
+// ---docerion
+// type: test
+// title: GPU client test helper header
+// summary: Declares fake and mock classes, including MockClientCommandBuffer and MockClientGpuControl, that support GPU client-side unit tests.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_CLIENT_CLIENT_TEST_HELPER_H_
 #define GPU_COMMAND_BUFFER_CLIENT_CLIENT_TEST_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared command buffer state synchronization
+// summary: Implements a four-slot lock-free SharedState template that lets a writer publish command buffer state which readers can consistently read across threads.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_COMMON_COMMAND_BUFFER_SHARED_H_
 #define GPU_COMMAND_BUFFER_COMMON_COMMAND_BUFFER_SHARED_H_
 

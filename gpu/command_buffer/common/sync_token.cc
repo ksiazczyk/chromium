@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync token implementation
+// summary: Implements SyncToken constructors, debug string output, and ReduceSyncTokens, which trims a token list to the minimal equivalent set of fence waits.
+// ---
+
 #include "gpu/command_buffer/common/sync_token.h"
 
 #include <algorithm>

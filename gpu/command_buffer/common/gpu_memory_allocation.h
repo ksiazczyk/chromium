@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU memory allocation structures
+// summary: Defines the MemoryAllocation struct with byte limits and priority cutoffs assigned by the GpuMemoryManager.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_COMMON_GPU_MEMORY_ALLOCATION_H_
 #define GPU_COMMAND_BUFFER_COMMON_GPU_MEMORY_ALLOCATION_H_
 

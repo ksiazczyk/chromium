@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discardable handle implementation
+// summary: Implements client and service discardable handles backed by shared memory buffers with atomic lock, unlock and delete state transitions.
+// ---
+
 #include "gpu/command_buffer/common/discardable_handle.h"
 
 #include "base/atomicops.h"

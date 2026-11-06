@@ -4,6 +4,12 @@
 
 // Tests for WebGPUImplementation.
 
+// ---docerion
+// type: test
+// title: WebGPU implementation unit tests
+// summary: Unit tests for WebGPUImplementation that verify initialization, command flushing, and teardown using mock command buffers and transfer buffers.
+// ---
+
 #include "gpu/command_buffer/client/webgpu_implementation.h"
 
 #include <memory>

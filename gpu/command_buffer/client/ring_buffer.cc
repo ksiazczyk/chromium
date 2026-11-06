@@ -4,6 +4,12 @@
 
 // This file contains the implementation of the RingBuffer class.
 
+// ---docerion
+// type: source
+// title: RingBuffer implementation
+// summary: Implements the RingBuffer allocator that manages transfer buffer memory as a ring with aligned allocations, token-pending frees, and wrap-around padding.
+// ---
+
 #include "gpu/command_buffer/client/ring_buffer.h"
 
 #include <stdint.h>

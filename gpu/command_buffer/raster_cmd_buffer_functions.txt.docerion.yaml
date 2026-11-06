@@ -1,0 +1,4 @@
+# Docerion header of raster_cmd_buffer_functions.txt.
+type: data
+title: Raster command buffer function definitions
+summary: Declares the raster command function signatures, including CHROMIUM raster transport and shared image commands, parsed by build_raster_cmd_buffer.py.

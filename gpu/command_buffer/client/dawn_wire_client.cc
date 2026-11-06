@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DawnWireClient command handling
+// summary: Implements HandleCommands by reinterpreting a volatile uint8_t span as a volatile byte span before passing commands to the Dawn wire client.
+// ---
+
 #include "gpu/command_buffer/client/dawn_wire_client.h"
 
 #include <span>

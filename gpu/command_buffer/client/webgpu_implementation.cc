@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebGPU implementation with Dawn wire services
+// summary: Implements WebGPUImplementation and DawnWireServices, connecting the Dawn wire client to the command buffer through a serializer, mapped memory, and transfer buffer.
+// ---
+
 #include "gpu/command_buffer/client/webgpu_implementation.h"
 
 #include <dawn/wire/client/webgpu.h>

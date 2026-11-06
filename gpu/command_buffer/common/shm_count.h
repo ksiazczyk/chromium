@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared memory counter class declarations
+// summary: Declares ShmCountBase, GpuProcessShmCount with scoped increments, and GpuProcessHostShmCount for cross-process shared memory counters.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_COMMON_SHM_COUNT_H_
 #define GPU_COMMAND_BUFFER_COMMON_SHM_COUNT_H_
 

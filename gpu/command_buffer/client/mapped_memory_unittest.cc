@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mapped memory unit tests
+// summary: Unit tests for MemoryChunk and MappedMemoryManager covering allocation, free sizes, pending token frees, and memory limits using a mock command buffer.
+// ---
+
 #include "gpu/command_buffer/client/mapped_memory.h"
 
 #include <stddef.h>

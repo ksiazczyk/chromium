@@ -4,6 +4,12 @@
 
 // This file contains the implementation of the command buffer helper class.
 
+// ---docerion
+// type: source
+// title: CommandBufferHelper implementation
+// summary: Implements CommandBufferHelper ring buffer management, automatic flushing, token handling, and memory tracing for the command buffer client.
+// ---
+
 #include "gpu/command_buffer/client/cmd_buffer_helper.h"
 
 #include <stdint.h>

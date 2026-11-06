@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SharedImagePool
+// summary: Tests shared image creation, release and recycling, maximum pool size enforcement, and reclaim behavior of the shared image pool.
+// ---
+
 #include "gpu/command_buffer/client/shared_image_pool.h"
 
 #include "base/test/task_environment.h"

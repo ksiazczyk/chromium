@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync token for command buffer fence synchronization
+// summary: Declares the SyncToken binary blob representing a waitable fence sync on a command buffer namespace and id, plus the ReduceSyncTokens helper.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_COMMON_SYNC_TOKEN_H_
 #define GPU_COMMAND_BUFFER_COMMON_SYNC_TOKEN_H_
 

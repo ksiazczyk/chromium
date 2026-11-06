@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Discardable handle unit tests
+// summary: Tests basic usage, repeated locking and buffer suballocation of client and service discardable handles.
+// ---
+
 #include "gpu/command_buffer/common/discardable_handle.h"
 #include "gpu/command_buffer/common/buffer.h"
 #include "testing/gtest/include/gtest/gtest.h"

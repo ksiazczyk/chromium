@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLES2 library context management implementation
+// summary: Implements initialization and termination of the GLES2 library, thread-local storage of the current GL context, and lookup of GL function pointers by name.
+// ---
+
 #include "gpu/command_buffer/client/gles2_lib.h"
 
 #include <string.h>

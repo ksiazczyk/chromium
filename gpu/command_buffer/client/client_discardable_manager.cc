@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientDiscardableManager implementation
+// summary: Implements allocation and management of discardable handles used by the client side of the transfer cache.
+// ---
+
 #include "gpu/command_buffer/client/client_discardable_manager.h"
 
 #include "base/atomic_sequence_num.h"

@@ -4,6 +4,12 @@
 
 // Tests for RasterImplementation.
 
+// ---docerion
+// type: test
+// title: RasterImplementation unit tests
+// summary: Unit tests for RasterImplementation using mock command buffer, transfer buffer and GPU control to verify raster command behavior.
+// ---
+
 #include "gpu/command_buffer/client/raster_implementation.h"
 
 #include <GLES2/gl2.h>

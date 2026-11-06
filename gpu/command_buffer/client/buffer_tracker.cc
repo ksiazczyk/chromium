@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BufferTracker implementation
+// summary: Implements client-side tracking of GL buffer objects backed by mapped shared memory, including creation, lookup, and freeing.
+// ---
+
 #include "gpu/command_buffer/client/buffer_tracker.h"
 
 #include <stdint.h>

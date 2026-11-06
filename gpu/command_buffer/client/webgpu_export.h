@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebGPU export macro definitions
+// summary: Defines the WEBGPU_EXPORT macro for dllexport, dllimport, or default visibility depending on component build and platform.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_CLIENT_WEBGPU_EXPORT_H_
 #define GPU_COMMAND_BUFFER_CLIENT_WEBGPU_EXPORT_H_
 

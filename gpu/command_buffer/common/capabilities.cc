@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Constructors for GPU capability structs
+// summary: Provides default constructors, copy constructors and destructors for the Capabilities and GLCapabilities structs.
+// ---
+
 #include "gpu/command_buffer/common/capabilities.h"
 
 namespace gpu {

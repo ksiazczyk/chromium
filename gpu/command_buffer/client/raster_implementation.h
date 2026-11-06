@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RasterImplementation class declaration
+// summary: Declares RasterImplementation, which emulates raster over command buffers so clients need not manage shared memory and command buffers directly.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_CLIENT_RASTER_IMPLEMENTATION_H_
 #define GPU_COMMAND_BUFFER_CLIENT_RASTER_IMPLEMENTATION_H_
 

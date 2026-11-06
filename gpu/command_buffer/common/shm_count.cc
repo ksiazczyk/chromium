@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared memory counter implementation
+// summary: Implements atomic increment and decrement of a counter stored in shared memory, used to track GPU process activity from the browser process.
+// ---
+
 #include "gpu/command_buffer/common/shm_count.h"
 
 #include "base/check.h"

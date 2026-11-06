@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSurface-backed MappableBuffer implementation
+// summary: Implements the MappableBuffer interface on macOS and iOS using IOSurfaces, with usage-based lock flags, handle-based creation, and crash-dump throttling.
+// ---
+
 #include "gpu/command_buffer/client/internal/mappable_buffer_io_surface.h"
 
 #include "base/apple/mach_logging.h"

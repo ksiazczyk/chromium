@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for gpu/command_buffer/common
+summary: Restricts includes in this directory to shared image format headers and Skia, with a Mojo embedder exception for unittest_main.cc.

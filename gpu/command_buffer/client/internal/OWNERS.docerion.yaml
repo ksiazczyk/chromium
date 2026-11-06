@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file requiring security review for MappableBuffer changes
+summary: Routes per-file ownership of all mappable buffer files to the IPC security owners so changes get security review to avoid sandbox escapes.

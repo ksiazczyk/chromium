@@ -4,6 +4,12 @@
 
 // Tests for the BufferTracker.
 
+// ---docerion
+// type: test
+// title: BufferTracker unit tests
+// summary: Tests buffer creation, lookup, removal, zero-size buffers, and behavior after context loss using mock command buffers.
+// ---
+
 #include "gpu/command_buffer/client/buffer_tracker.h"
 
 #include <GLES2/gl2.h>

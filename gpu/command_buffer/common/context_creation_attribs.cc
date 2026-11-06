@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context type helper implementations
+// summary: Implements helper functions that classify ContextType values as WebGL or OpenGL ES variants and convert them to string labels.
+// ---
+
 #include "gpu/command_buffer/common/context_creation_attribs.h"
 
 #include "base/notreached.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Export macros for the GLES2 utils component
+// summary: Defines the GLES2_UTILS_EXPORT macro controlling symbol visibility for component builds.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_COMMON_GLES2_UTILS_EXPORT_H_
 #define GPU_COMMAND_BUFFER_COMMON_GLES2_UTILS_EXPORT_H_
 

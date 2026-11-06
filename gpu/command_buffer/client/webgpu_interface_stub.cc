@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebGPU interface stub implementation
+// summary: Implements WebGPUInterfaceStub with no-op methods and a null APIChannel stub so tests can mock the WebGPU client interface.
+// ---
+
 #include "gpu/command_buffer/client/webgpu_interface_stub.h"
 
 namespace gpu {

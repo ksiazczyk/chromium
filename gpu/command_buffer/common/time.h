@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Microseconds since origin of time helper
+// summary: Offers an inline helper returning microseconds elapsed since the base time origin using base::TimeTicks.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_COMMON_TIME_H_
 #define GPU_COMMAND_BUFFER_COMMON_TIME_H_
 

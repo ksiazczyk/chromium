@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MappableBufferDXGI Windows DXGI implementation
+// summary: Implements the Windows DXGI backend of MappableBuffer, mapping D3D11 shared textures into client memory and providing test allocation via ANGLE's D3D11 device.
+// ---
+
 #include "gpu/command_buffer/client/internal/mappable_buffer_dxgi.h"
 
 #include <d3d11.h>

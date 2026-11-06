@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the test template
+summary: Grants the mappable buffer test template header an include exception allowing the viz test GPU service holder header.

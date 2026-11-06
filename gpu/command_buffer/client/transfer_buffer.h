@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transfer buffer interface and class declarations
+// summary: Declares TransferBufferInterface and TransferBuffer, which manage allocation, freeing, and result pointers of the shared-memory transfer buffer used by command buffer helpers.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_CLIENT_TRANSFER_BUFFER_H_
 #define GPU_COMMAND_BUFFER_CLIENT_TRANSFER_BUFFER_H_
 

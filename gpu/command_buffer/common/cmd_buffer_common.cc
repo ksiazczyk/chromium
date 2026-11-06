@@ -6,6 +6,12 @@
 // This file contains the binary format definition of the command buffer and
 // command buffer commands.
 
+// ---docerion
+// type: source
+// title: Command buffer common format implementation
+// summary: Implements command name lookup for common command buffer commands and supports the binary format definition of the command buffer.
+// ---
+
 #include "gpu/command_buffer/common/cmd_buffer_common.h"
 
 #include <stdint.h>

@@ -1,0 +1,4 @@
+# Docerion header of build_gles2_cmd_buffer.py.
+type: script
+title: GLES2 command buffer code generator
+summary: Generates GLES2 command buffer code from gles2_cmd_buffer_functions.txt, defining named type validity rules and per-function generation options.

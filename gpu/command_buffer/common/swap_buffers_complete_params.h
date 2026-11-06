@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Swap buffers completion parameters
+// summary: Declares the SwapBuffersCompleteParams struct carrying swap response, frame damage area, macOS CALayer parameters, released overlays, and swap trace ID.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_COMMON_SWAP_BUFFERS_COMPLETE_PARAMS_H_
 #define GPU_COMMAND_BUFFER_COMMON_SWAP_BUFFERS_COMPLETE_PARAMS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared image pool implementation
+// summary: Implements ClientImage and SharedImagePoolBase for pooling, recycling, and memory-dumping reusable shared images on the client side.
+// ---
+
 #include "gpu/command_buffer/client/shared_image_pool.h"
 
 #include <inttypes.h>

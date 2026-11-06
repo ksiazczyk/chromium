@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShareGroup header managing shared GPU resource IDs
+// summary: Declares ShareGroup and ID handler interfaces that manage shared GL resource IDs and bindings across GLES2 contexts in a share group.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_CLIENT_SHARE_GROUP_H_
 #define GPU_COMMAND_BUFFER_CLIENT_SHARE_GROUP_H_
 

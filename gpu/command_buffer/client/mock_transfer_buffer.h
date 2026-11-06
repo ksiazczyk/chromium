@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockTransferBuffer declarations
+// summary: Declares MockTransferBuffer, a test double for TransferBufferInterface with expected-memory helpers used by GLES2 and Raster implementation tests.
+// ---
+
 
 #ifndef GPU_COMMAND_BUFFER_CLIENT_MOCK_TRANSFER_BUFFER_H_
 #define GPU_COMMAND_BUFFER_CLIENT_MOCK_TRANSFER_BUFFER_H_

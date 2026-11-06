@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientSharedImage header
+// summary: Declares ClientSharedImage and related classes for importing, exporting, and using shared images on the GPU command buffer client side.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_CLIENT_CLIENT_SHARED_IMAGE_H_
 #define GPU_COMMAND_BUFFER_CLIENT_CLIENT_SHARED_IMAGE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommandBufferDirectLocked implementation
+// summary: Implements a direct command buffer whose flushes can be locked and deferred until unlocked or until the client waits for token or get-offset progress.
+// ---
+
 #include "gpu/command_buffer/client/command_buffer_direct_locked.h"
 
 namespace gpu {

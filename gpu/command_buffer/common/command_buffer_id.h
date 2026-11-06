@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Command buffer ID type alias
+// summary: Defines CommandBufferId as a strongly typed 64-bit identifier for command buffers in the gpu namespace.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_COMMON_COMMAND_BUFFER_ID_H_
 #define GPU_COMMAND_BUFFER_COMMON_COMMAND_BUFFER_ID_H_
 

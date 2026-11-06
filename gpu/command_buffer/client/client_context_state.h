@@ -4,6 +4,12 @@
 
 // This file contains the ContextState class.
 
+// ---docerion
+// type: source
+// title: ClientContextState class declaration
+// summary: Declares cached GLES2 capability flags and viewport state for the client side of the command buffer.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_CLIENT_CLIENT_CONTEXT_STATE_H_
 #define GPU_COMMAND_BUFFER_CLIENT_CLIENT_CONTEXT_STATE_H_
 

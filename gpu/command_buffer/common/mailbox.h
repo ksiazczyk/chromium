@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mailbox struct header
+// summary: Defines the Mailbox struct, an unguessable 16-byte name that references a SharedImage and can be passed across processes.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_COMMON_MAILBOX_H_
 #define GPU_COMMAND_BUFFER_COMMON_MAILBOX_H_
 

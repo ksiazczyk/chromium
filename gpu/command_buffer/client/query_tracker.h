@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QueryTracker class declarations
+// summary: Declares QuerySyncManager and QueryTracker for tracking client-side GPU queries and their sync memory in the GLES2 command buffer client.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_CLIENT_QUERY_TRACKER_H_
 #define GPU_COMMAND_BUFFER_CLIENT_QUERY_TRACKER_H_
 

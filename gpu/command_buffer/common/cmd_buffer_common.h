@@ -4,6 +4,12 @@
 
 // This file contains the common parts of command buffer formats.
 
+// ---docerion
+// type: source
+// title: Common command buffer format definitions
+// summary: Defines the command header layout, command buffer entry union, size alignment helpers and immediate-data helpers shared by command buffer commands.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_COMMON_CMD_BUFFER_COMMON_H_
 #define GPU_COMMAND_BUFFER_COMMON_CMD_BUFFER_COMMON_H_
 

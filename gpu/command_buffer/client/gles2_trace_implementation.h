@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracing GLES2 implementation header
+// summary: Declares GLES2TraceImplementation, a GLES2Interface wrapper that adds trace events to every GL call and forwards it to an inner implementation.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_CLIENT_GLES2_TRACE_IMPLEMENTATION_H_
 #define GPU_COMMAND_BUFFER_CLIENT_GLES2_TRACE_IMPLEMENTATION_H_
 

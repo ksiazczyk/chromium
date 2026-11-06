@@ -4,6 +4,12 @@
 
 // Tests for the Command Buffer Helper.
 
+// ---docerion
+// type: test
+// title: Unit tests for the transfer buffer and command buffer helper
+// summary: Tests initialization, allocation, freeing, reallocation, and pending-token behavior of TransferBuffer with a mocked command buffer and helper.
+// ---
+
 #include "gpu/command_buffer/client/transfer_buffer.h"
 
 #include <stddef.h>

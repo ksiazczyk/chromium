@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dawn client serializer implementation
+// summary: Implements serialization of Dawn wire commands into a transfer buffer, flushing, committing them to the WebGPU command helper, and handling disconnection.
+// ---
+
 #include "gpu/command_buffer/client/dawn_client_serializer.h"
 
 #include "base/compiler_specific.h"

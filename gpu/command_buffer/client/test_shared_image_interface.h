@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestSharedImageInterface header with mock methods
+// summary: Declares a test double for SharedImageInterface with gmock mocks and fake shared image creation, update, and destruction for tests.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_CLIENT_TEST_SHARED_IMAGE_INTERFACE_H_
 #define GPU_COMMAND_BUFFER_CLIENT_TEST_SHARED_IMAGE_INTERFACE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RasterImplementation implementation
+// summary: Implements the Raster interface over command buffers, handling paint caches, transfer cache entries, queries and font management for raster clients.
+// ---
+
 #include "gpu/command_buffer/client/raster_implementation.h"
 
 #include <GLES2/gl2.h>

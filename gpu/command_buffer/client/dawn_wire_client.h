@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DawnWireClient wrapper declaration
+// summary: Declares a Dawn wire client wrapper exposing a uint8_t span HandleCommands overload while hiding the base class span-based API from Chromium code.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_CLIENT_DAWN_WIRE_CLIENT_H_
 #define GPU_COMMAND_BUFFER_CLIENT_DAWN_WIRE_CLIENT_H_
 

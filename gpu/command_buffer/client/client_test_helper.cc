@@ -5,6 +5,12 @@
 
 // Tests for GLES2Implementation.
 
+// ---docerion
+// type: test
+// title: GPU client test helper implementation
+// summary: Implements fake and mock command buffer classes, such as FakeCommandBufferServiceBase and MockClientCommandBuffer, used by GPU client-side unit tests.
+// ---
+
 #include "gpu/command_buffer/client/client_test_helper.h"
 
 #include <stddef.h>

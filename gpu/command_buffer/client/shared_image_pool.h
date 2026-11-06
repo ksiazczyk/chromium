@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: SharedImagePool header for reusable shared images
+// summary: Declares ImageInfo, ClientImage, and the SharedImagePool template for creating and recycling pools of shared images with optional expiration.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_CLIENT_SHARED_IMAGE_POOL_H_
 #define GPU_COMMAND_BUFFER_CLIENT_SHARED_IMAGE_POOL_H_
 

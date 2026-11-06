@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracing GLES2 implementation
+// summary: Implements GLES2TraceImplementation, a wrapper that emits TRACE events for every GL call before delegating to the wrapped GLES2Interface.
+// ---
+
 #include "gpu/command_buffer/client/gles2_trace_implementation.h"
 
 #include "base/trace_event/trace_event.h"

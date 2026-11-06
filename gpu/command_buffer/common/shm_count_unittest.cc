@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared memory counter unit tests
+// summary: Unit tests verifying basic increment and decrement of the shared memory counter and safe behavior when uninitialized.
+// ---
+
 #include "gpu/command_buffer/common/shm_count.h"
 
 #include "base/memory/unsafe_shared_memory_region.h"

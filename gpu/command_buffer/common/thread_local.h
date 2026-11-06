@@ -4,6 +4,12 @@
 
 // Functions for allocating and accessing thread local values via key.
 
+// ---docerion
+// type: source
+// title: Cross-platform thread-local storage helpers
+// summary: Provides inline functions to allocate, free, set, and get thread-local values via keys, wrapping Windows TLS and POSIX pthread APIs.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_COMMON_THREAD_LOCAL_H_
 #define GPU_COMMAND_BUFFER_COMMON_THREAD_LOCAL_H_
 

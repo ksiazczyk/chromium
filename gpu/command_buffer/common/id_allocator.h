@@ -4,6 +4,12 @@
 
 // This file contains the definition of the IdAllocator class.
 
+// ---docerion
+// type: source
+// title: IdAllocator resource ID allocator header
+// summary: Declares the IdAllocator class that allocates, marks, frees, and checks GPU resource IDs, including contiguous ranges.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_COMMON_ID_ALLOCATOR_H_
 #define GPU_COMMAND_BUFFER_COMMON_ID_ALLOCATOR_H_
 

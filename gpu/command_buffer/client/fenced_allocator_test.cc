@@ -4,6 +4,12 @@
 
 // This file contains the tests for the FencedAllocator class.
 
+// ---docerion
+// type: test
+// title: FencedAllocator unit tests
+// summary: Unit tests for the FencedAllocator class covering basic alloc and free, zero-size allocations, out-of-memory conditions, and token-pending frees.
+// ---
+
 #include "gpu/command_buffer/client/fenced_allocator.h"
 
 #include <stdint.h>

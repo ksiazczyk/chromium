@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSurface validation implementation
+// summary: Implements ValidateIOSurface, checking an IOSurface's pixel format, size, planes, strides, and CPU access against a shared image format.
+// ---
+
 #include "gpu/command_buffer/common/iosurface_validation.h"
 
 #include <CoreVideo/CoreVideo.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DawnClientSerializer declaration
+// summary: Declares the Dawn wire command serializer that writes commands into a transfer buffer and manages flushing, awaiting flush state, and disconnects.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_CLIENT_DAWN_CLIENT_SERIALIZER_H_
 #define GPU_COMMAND_BUFFER_CLIENT_DAWN_CLIENT_SERIALIZER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProgramInfoManager class declaration
+// summary: Declares ProgramInfoManager, which manages cached OpenGL ES program info for the GLES2 command buffer client implementation.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_CLIENT_PROGRAM_INFO_MANAGER_H_
 #define GPU_COMMAND_BUFFER_CLIENT_PROGRAM_INFO_MANAGER_H_
 

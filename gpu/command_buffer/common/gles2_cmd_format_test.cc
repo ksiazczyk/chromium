@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the GLES2 command format
+// summary: Contains unit tests that verify byte layout and written-size behavior of GLES2 command buffer command structures.
+// ---
+
 #include <array>
 
 // This file contains unit tests for gles2 commmands

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MappableBufferIOSurface class declaration
+// summary: Declares the MappableBufferIOSurface class, an IOSurface-backed MappableBuffer with mapping, stride, handle cloning, and iOS shared memory fallback members.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_CLIENT_INTERNAL_MAPPABLE_BUFFER_IO_SURFACE_H_
 #define GPU_COMMAND_BUFFER_CLIENT_INTERNAL_MAPPABLE_BUFFER_IO_SURFACE_H_
 

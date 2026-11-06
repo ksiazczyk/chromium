@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations for command buffer Buffer and backing classes
+// summary: Declares BufferBacking, MemoryBufferBacking, SharedMemoryBufferBacking and the ref-counted Buffer that owns shared memory for command buffers.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_COMMON_BUFFER_H_
 #define GPU_COMMAND_BUFFER_COMMON_BUFFER_H_
 

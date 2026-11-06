@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MappableBufferSharedMemory class declaration
+// summary: Declares the MappableBufferSharedMemory class, a shared memory-backed MappableBuffer with mapping, stride, handle cloning, and Windows premapping support.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_CLIENT_INTERNAL_MAPPABLE_BUFFER_SHARED_MEMORY_H_
 #define GPU_COMMAND_BUFFER_CLIENT_INTERNAL_MAPPABLE_BUFFER_SHARED_MEMORY_H_
 

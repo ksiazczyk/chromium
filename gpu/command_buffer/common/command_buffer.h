@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommandBuffer interface declaration
+// summary: Declares the common CommandBuffer interface with state, flush, ordering barrier, token and get-offset waiting, and buffer setup methods.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_COMMON_COMMAND_BUFFER_H_
 #define GPU_COMMAND_BUFFER_COMMON_COMMAND_BUFFER_H_
 

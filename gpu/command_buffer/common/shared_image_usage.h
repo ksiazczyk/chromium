@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared image usage enum definitions
+// summary: Defines the SharedImageUsage bit flags enum and SharedImageUsageSet used to describe how shared images are read and written across GLES2, raster, display, WebGPU, and video paths.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_COMMON_SHARED_IMAGE_USAGE_H_
 #define GPU_COMMAND_BUFFER_COMMON_SHARED_IMAGE_USAGE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the GPU command buffer common targets
+summary: Defines GN build targets for the command buffer common component, including common, mailbox, GLES2, raster and WebGPU source sets with their sources and dependencies.

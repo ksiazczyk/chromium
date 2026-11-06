@@ -4,6 +4,12 @@
 
 // A class to Manage a growing transfer buffer.
 
+// ---docerion
+// type: source
+// title: TransferBuffer implementation for growing command buffers
+// summary: Implements allocation, reallocation, shrinking, and freeing of the ring-buffer transfer buffer used to send commands to the GPU service.
+// ---
+
 #include "gpu/command_buffer/client/transfer_buffer.h"
 
 #include <stddef.h>

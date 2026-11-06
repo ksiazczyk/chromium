@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLES2 C library export macros
+// summary: Defines the GLES2_C_LIB_EXPORT macros that control symbol visibility for the GLES2 C library in component and non-component builds.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_CLIENT_GLES2_C_LIB_EXPORT_H_
 #define GPU_COMMAND_BUFFER_CLIENT_GLES2_C_LIB_EXPORT_H_
 

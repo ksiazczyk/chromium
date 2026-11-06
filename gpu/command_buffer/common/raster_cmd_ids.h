@@ -4,6 +4,12 @@
 
 // This file defines the raster command buffer commands.
 
+// ---docerion
+// type: source
+// title: Raster command buffer command ID definitions
+// summary: Defines the command IDs for the raster command buffer and declares a helper that returns the name of a raster command.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_COMMON_RASTER_CMD_IDS_H_
 #define GPU_COMMAND_BUFFER_COMMON_RASTER_CMD_IDS_H_
 

@@ -4,6 +4,12 @@
 
 // This file defines the raster command buffer commands.
 
+// ---docerion
+// type: source
+// title: Raster command format header
+// summary: Defines the raster command buffer commands by including the generated command format structures under fixed alignment.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_COMMON_RASTER_CMD_FORMAT_H_
 #define GPU_COMMAND_BUFFER_COMMON_RASTER_CMD_FORMAT_H_
 

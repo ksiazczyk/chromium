@@ -4,6 +4,12 @@
 
 // This file defines the GLES2 command buffer commands.
 
+// ---docerion
+// type: source
+// title: GLES2 command buffer command format definitions
+// summary: Defines the wire format structures, ID namespaces, and program info layouts for GLES2 command buffer commands.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_COMMON_GLES2_CMD_FORMAT_H_
 #define GPU_COMMAND_BUFFER_COMMON_GLES2_CMD_FORMAT_H_
 

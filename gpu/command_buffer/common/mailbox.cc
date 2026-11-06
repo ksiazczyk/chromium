@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mailbox implementation
+// summary: Implements Mailbox generation with random bytes, live-flag handling, verification, comparison, and debug string output.
+// ---
+
 #include "gpu/command_buffer/common/mailbox.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ClientSharedImage unit tests
+// summary: Unit tests for ClientSharedImage covering import, export, sync tokens, and Mojo serialization of exported shared images.
+// ---
+
 #include "gpu/command_buffer/client/client_shared_image.h"
 
 #include <GLES2/gl2.h>

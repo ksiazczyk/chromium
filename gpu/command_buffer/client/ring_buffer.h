@@ -4,6 +4,12 @@
 
 // This file contains the definition of the RingBuffer class.
 
+// ---docerion
+// type: source
+// title: RingBuffer class declaration
+// summary: Declares the RingBuffer class that manages memory as a ring buffer with aligned allocation, token-pending frees, block discarding, and free size queries.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_CLIENT_RING_BUFFER_H_
 #define GPU_COMMAND_BUFFER_CLIENT_RING_BUFFER_H_
 
