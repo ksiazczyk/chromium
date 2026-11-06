@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows signals collector header
+// summary: Declares the WinSignalsCollector class responsible for collecting Windows-specific device signals such as antivirus state and installed hotfixes.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_WIN_WIN_SIGNALS_COLLECTOR_H_
 #define COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_WIN_WIN_SIGNALS_COLLECTOR_H_
 

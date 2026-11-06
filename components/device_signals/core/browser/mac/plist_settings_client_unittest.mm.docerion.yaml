@@ -1,0 +1,4 @@
+# Docerion header of plist_settings_client_unittest.mm.
+type: test
+title: PlistSettingsClient unit tests
+summary: Unit tests for PlistSettingsClient covering empty options, invalid options, missing plists and empty plists, verifying the returned SettingsItem results.

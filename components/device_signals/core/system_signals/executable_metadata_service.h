@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Executable metadata service interface
+// summary: Declares the ExecutableMetadataService API that gathers executable metadata for requested file paths.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_CORE_SYSTEM_SIGNALS_EXECUTABLE_METADATA_SERVICE_H_
 #define COMPONENTS_DEVICE_SIGNALS_CORE_SYSTEM_SIGNALS_EXECUTABLE_METADATA_SERVICE_H_
 

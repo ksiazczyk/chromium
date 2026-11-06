@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test executable data header
+// summary: Declares base64-encoded constants for signed, multi-signed, metadata-bearing and empty test executables used in Windows device signals tests.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_TEST_WIN_FILES_DATA_H_
 #define COMPONENTS_DEVICE_SIGNALS_TEST_WIN_FILES_DATA_H_
 

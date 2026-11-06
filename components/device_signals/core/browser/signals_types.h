@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device signal types and enums
+// summary: Defines enums and structs for device signals, including Trigger, SignalName, SignalCollectionError, and response types such as antivirus, hotfix and registry settings items.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_SIGNALS_TYPES_H_
 #define COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_SIGNALS_TYPES_H_
 

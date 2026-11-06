@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Device signals test support build definition
+summary: GN build file defining the testonly test_support source set for device signals tests, including Windows-specific sources and dependencies.

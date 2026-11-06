@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock user permission service class
+// summary: Declares a gmock-based UserPermissionService fake used to simulate user permission decisions in tests.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_MOCK_USER_PERMISSION_SERVICE_H_
 #define COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_MOCK_USER_PERMISSION_SERVICE_H_
 

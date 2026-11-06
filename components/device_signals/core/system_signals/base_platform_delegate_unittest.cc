@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BasePlatformDelegate
+// summary: Sanity-checks the base delegate's wrappers for path readability and directory existence using a temporary directory.
+// ---
+
 #include "components/device_signals/core/system_signals/base_platform_delegate.h"
 
 #include "base/files/file_path.h"

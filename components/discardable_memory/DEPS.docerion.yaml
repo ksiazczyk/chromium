@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for discardable_memory
+summary: Defines include rules for the discardable_memory component, allowing crash key headers and Mojo public C++ bindings.

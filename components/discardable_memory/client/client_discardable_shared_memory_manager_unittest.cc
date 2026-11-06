@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the client discardable shared memory manager
+// summary: Unit tests for ClientDiscardableSharedMemoryManager covering allocation, background purging, and memory limit behavior.
+// ---
+
 #include "components/discardable_memory/client/client_discardable_shared_memory_manager.h"
 
 #include "base/memory/discardable_memory.h"

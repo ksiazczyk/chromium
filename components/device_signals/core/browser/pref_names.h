@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device signals preference names
+// summary: Defines preference keys for device signal sharing consent and registers them with the profile pref registry.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_PREF_NAMES_H_
 #define COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_PREF_NAMES_H_
 

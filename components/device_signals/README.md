@@ -1,3 +1,9 @@
+---
+type: readme
+title: Device Signals
+summary: Explains that the component implements device signal collection, aggregating context-aware signals used by Zero Trust access providers to assess device security posture.
+---
+
 # Device Signals
 
 This component contains the implementation of device signals (aka context-aware

@@ -1,0 +1,4 @@
+# Docerion header of plist_settings_client.mm.
+type: source
+title: PlistSettingsClient implementation
+summary: Implements loading and parsing of plist files to resolve requested key paths, including array indexing, into SettingsItem results for the settings client.

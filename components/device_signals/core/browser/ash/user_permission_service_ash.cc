@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS user permission service implementation
+// summary: Implements UserPermissionServiceAsh, deciding when device signal collection and reporting are permitted for ChromeOS users without a consent flow.
+// ---
+
 #include "components/device_signals/core/browser/ash/user_permission_service_ash.h"
 
 #include <utility>

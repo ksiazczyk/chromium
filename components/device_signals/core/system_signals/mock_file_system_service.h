@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock file system service
+// summary: Declares a gmock mock of FileSystemService that stubs GetSignals and ResolveFileSystemItem for use in tests.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_CORE_SYSTEM_SIGNALS_MOCK_FILE_SYSTEM_SERVICE_H_
 #define COMPONENTS_DEVICE_SIGNALS_CORE_SYSTEM_SIGNALS_MOCK_FILE_SYSTEM_SERVICE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for discardable memory service
+summary: Defines the GN build targets for the discardable memory service component and its unit tests, listing sources and dependencies.

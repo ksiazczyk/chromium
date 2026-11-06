@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Agent signals collector unit tests
+// summary: Unit tests for AgentSignalsCollector verifying CrowdStrike identifier collection, detected agents reporting, permission handling, and error outcomes.
+// ---
+
 #include "components/device_signals/core/browser/agent_signals_collector.h"
 
 #include <utility>

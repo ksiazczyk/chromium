@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for device signals browser
+summary: Declares allowed include paths for the device signals browser directory, covering policy, signin, prefs, safe browsing, content, and network dependencies.

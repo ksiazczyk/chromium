@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for Windows device signals browser code
+summary: Defines the GN targets for the Windows device signals browser library and its unit tests, listing public headers, sources, and dependencies.

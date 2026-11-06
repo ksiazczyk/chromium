@@ -1,0 +1,4 @@
+# Docerion header of digital_goods.mojom.
+type: source
+title: Digital Goods Mojom Type Definitions
+summary: Defines stable, versioned Mojom enums and structs for the Digital Goods API, shared between Blink, ARC, and crosapi.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings signals collector class
+// summary: Declares the collector that gathers device signals from OS settings such as the Windows registry and macOS PLISTs.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_SETTINGS_SIGNALS_COLLECTOR_H_
 #define COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_SETTINGS_SIGNALS_COLLECTOR_H_
 

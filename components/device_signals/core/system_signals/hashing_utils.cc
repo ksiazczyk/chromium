@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File hashing utilities implementation
+// summary: Implements HashFile, which streams a file in page-sized chunks to compute and return its SHA256 hash, returning nullopt on failure.
+// ---
+
 #include "components/device_signals/core/system_signals/hashing_utils.h"
 
 #include <array>

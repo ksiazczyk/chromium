@@ -1,0 +1,4 @@
+# Docerion header of platform_utils_mac.mm.
+type: source
+title: macOS platform utilities implementation for device signals
+summary: Implements the macOS variants of platform utility functions used by device signals, including device model, serial number, screenlock and FileVault status, MAC addresses, and the CrowdStrike ZTA file path.

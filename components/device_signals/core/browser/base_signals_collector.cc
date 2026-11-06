@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base signals collector implementation
+// summary: Implements shared collector logic for supported signal lookup, permission gating, pending callback tracking, and system signals service access.
+// ---
+
 #include "components/device_signals/core/browser/base_signals_collector.h"
 
 #include <unordered_set>

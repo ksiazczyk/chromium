@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android device signals collector implementation
+// summary: Implements the Android signals collector that gathers OS and Verify Apps signals for enterprise device signals, including SafetyNet result and latency metrics logging.
+// ---
+
 #include "components/device_signals/core/browser/android/android_signals_collector.h"
 
 #include <string>

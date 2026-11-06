@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Digital Goods Mojom Build Definition
+summary: GN build file that generates Mojom bindings for digital_goods.mojom with Blink and Java output and payments and URL dependencies.

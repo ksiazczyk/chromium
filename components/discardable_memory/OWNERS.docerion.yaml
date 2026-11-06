@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS list for discardable_memory
+summary: Lists the code owners responsible for reviewing changes in the discardable_memory directory.

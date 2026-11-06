@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android device signals collector class declaration
+// summary: Declares the AndroidSignalsCollector class that collects OS and Verify Apps signals on Android within the device signals framework.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_ANDROID_ANDROID_SIGNALS_COLLECTOR_H_
 #define COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_ANDROID_ANDROID_SIGNALS_COLLECTOR_H_
 

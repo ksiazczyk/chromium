@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared types for device signals
+// summary: Declares enums and structs describing device signals such as file system items, executable metadata, certificate options, and CrowdStrike agent data.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_CORE_COMMON_COMMON_TYPES_H_
 #define COMPONENTS_DEVICE_SIGNALS_CORE_COMMON_COMMON_TYPES_H_
 

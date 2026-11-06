@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base platform delegate implementation
+// summary: Implements shared PlatformDelegate behavior such as path readability checks, running executable detection, and product metadata retrieval on Windows and Mac.
+// ---
+
 #include "components/device_signals/core/system_signals/base_platform_delegate.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of shared device signal types
+// summary: Implements equality operators and value conversion for the shared device signals structs, including certificate matching and CrowdStrike signal serialization.
+// ---
+
 #include "components/device_signals/core/common/common_types.h"
 
 #include "components/device_signals/core/common/signals_constants.h"

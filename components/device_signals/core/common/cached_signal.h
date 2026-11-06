@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CachedSignal template class
+// summary: Defines a template class that caches a signal value and invalidates it after a configurable expiry period.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_CORE_COMMON_CACHED_SIGNAL_H_
 #define COMPONENTS_DEVICE_SIGNALS_CORE_COMMON_CACHED_SIGNAL_H_
 

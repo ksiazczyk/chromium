@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the mac system signals library
+summary: GN build file defining the mac static library for the platform delegate and the unit_tests source set, with dependencies and macOS frameworks.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Windows signal data types
+// summary: Verifies that AvProduct and InstalledHotfix serialize to the expected base::Value representations across all antivirus states.
+// ---
+
 #include "components/device_signals/core/common/win/win_types.h"
 
 #include <array>

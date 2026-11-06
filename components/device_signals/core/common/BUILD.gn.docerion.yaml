@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the device signals common library
+summary: Defines the GN targets for the common device signals library, including platform-specific sources, dependencies, and test support.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device signal name and error constants
+// summary: Defines string constants for device signal names and error strings used as keys when storing and retrieving signal values.
+// ---
+
 #include "components/device_signals/core/common/signals_constants.h"
 
 namespace device_signals {

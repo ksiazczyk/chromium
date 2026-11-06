@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discardable memory export macro header
+// summary: Defines the DISCARDABLE_MEMORY_EXPORT macro controlling symbol visibility for component builds on Windows and other platforms.
+// ---
+
 #ifndef COMPONENTS_DISCARDABLE_MEMORY_COMMON_DISCARDABLE_MEMORY_EXPORT_H_
 #define COMPONENTS_DISCARDABLE_MEMORY_COMMON_DISCARDABLE_MEMORY_EXPORT_H_
 

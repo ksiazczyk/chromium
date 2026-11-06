@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockSignalsAggregator implementation
+// summary: Defines the constructor and destructor of the MockSignalsAggregator gmock test double for device signals tests.
+// ---
+
 #include "components/device_signals/core/browser/mock_signals_aggregator.h"
 
 namespace device_signals {

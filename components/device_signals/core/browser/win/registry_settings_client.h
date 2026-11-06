@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows registry settings client header
+// summary: Declares the RegistrySettingsClient class that collects signals from the Windows Registry for use by the settings signals collector on Windows.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_WIN_REGISTRY_SETTINGS_CLIENT_H_
 #define COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_WIN_REGISTRY_SETTINGS_CLIENT_H_
 

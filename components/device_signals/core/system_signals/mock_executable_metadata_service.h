@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock executable metadata service
+// summary: Declares a gmock mock of ExecutableMetadataService that stubs GetAllExecutableMetadata for use in tests.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_CORE_SYSTEM_SIGNALS_MOCK_EXECUTABLE_METADATA_SERVICE_H_
 #define COMPONENTS_DEVICE_SIGNALS_CORE_SYSTEM_SIGNALS_MOCK_EXECUTABLE_METADATA_SERVICE_H_
 

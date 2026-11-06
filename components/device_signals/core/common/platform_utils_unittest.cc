@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for platform utils
+// summary: Tests MAC address normalization behavior and the validation of supported local file paths against network, NT-object, and device paths.
+// ---
+
 #include "components/device_signals/core/common/platform_utils.h"
 
 #include <string>

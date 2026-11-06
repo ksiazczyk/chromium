@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PosixPlatformDelegate implementation
+// summary: Implements PosixPlatformDelegate by resolving file paths through the common platform utils helper.
+// ---
+
 #include "components/device_signals/core/system_signals/posix/posix_platform_delegate.h"
 
 #include "base/files/file_path.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockSystemSignalsServiceHost class
+// summary: Declares gmock mocks of SystemSignalsServiceHost and the Mojo SystemSignalsService, with Windows-only AV and hotfix stubs.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_MOCK_SYSTEM_SIGNALS_SERVICE_HOST_H_
 #define COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_MOCK_SYSTEM_SIGNALS_SERVICE_HOST_H_
 

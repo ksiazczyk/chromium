@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CrowdStrike client unit tests
+// summary: Unit tests for the CrowdStrike client covering JWT parsing of data.zta content and platform-specific fallbacks such as the Windows registry agent values.
+// ---
+
 #include "components/device_signals/core/browser/crowdstrike_client.h"
 
 #include "base/files/file_path.h"

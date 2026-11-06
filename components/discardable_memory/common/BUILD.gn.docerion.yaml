@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for the discardable memory common component
+summary: GN build file defining the discardable_memory_common component and its unit test source set with their sources and dependencies.

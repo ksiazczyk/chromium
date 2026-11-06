@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the ash device signals library
+summary: Defines the ChromeOS ash static library for the user permission service and its unit test target together with their sources and dependencies.

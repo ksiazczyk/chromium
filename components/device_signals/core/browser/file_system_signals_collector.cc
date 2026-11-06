@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File system signals collector implementation
+// summary: Implements the file system signals collector that requests file system item signals from the system signals service and reports permission, parameter, and service errors.
+// ---
+
 #include "components/device_signals/core/browser/file_system_signals_collector.h"
 
 #include <utility>

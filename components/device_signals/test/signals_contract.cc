@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signals contract test support implementation
+// summary: Implements predicates that verify device signal values against expected types and platform-specific contracts, including an unmanaged ChromeOS variant.
+// ---
+
 #include "components/device_signals/test/signals_contract.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File system signals collector unit tests
+// summary: Unit tests for the file system signals collector verifying supported signal names, unsupported signals, missing consent, and collection through a mocked system signals service.
+// ---
+
 #include "components/device_signals/core/browser/file_system_signals_collector.h"
 
 #include <array>

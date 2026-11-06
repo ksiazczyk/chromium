@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows-specific Mojo typemap traits for system signals
+// summary: Implements Windows-specific Mojo typemap conversions for antivirus product states, antivirus signals, and hotfix signals.
+// ---
+
 #include "components/device_signals/core/common/mojom/system_signals_win_mojom_traits.h"
 
 #include "base/notreached.h"

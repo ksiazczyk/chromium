@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the digital_goods component
+summary: Defines allowed include dependencies for the digital_goods component, permitting headers from components/payments and url.

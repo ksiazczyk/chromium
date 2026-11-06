@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows signals collector implementation
+// summary: Implements the Windows signals collector that gathers antivirus and hotfix signals through the system signals service with permission checks.
+// ---
+
 #include "components/device_signals/core/browser/win/win_signals_collector.h"
 
 #include <functional>

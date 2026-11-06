@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS browser utilities for device signals
+// summary: Implements macOS helpers returning the host name, system DNS servers and OS firewall state via resolv state, com.apple.alf preferences or socketfilterfw.
+// ---
+
 #include "components/device_signals/core/browser/browser_utils.h"
 
 #include <CoreFoundation/CoreFoundation.h>

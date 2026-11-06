@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Android signals collector
+// summary: Unit tests for the Android signals collector covering OS signal collection, Verify Apps results, and the associated UMA histogram logging.
+// ---
+
 #include "components/device_signals/core/browser/android/android_signals_collector.h"
 
 #include <array>

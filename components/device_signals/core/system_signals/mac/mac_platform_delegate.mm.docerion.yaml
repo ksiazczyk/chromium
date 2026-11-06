@@ -1,0 +1,4 @@
+# Docerion header of mac_platform_delegate.mm.
+type: source
+title: MacPlatformDelegate implementation
+summary: Implements macOS-specific delegate logic that resolves app bundle paths to binaries, reads bundle product metadata, and extracts code signing certificate keys.

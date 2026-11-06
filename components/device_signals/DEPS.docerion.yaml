@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Device signals dependency rules
+summary: Declares include rules that allow this component to depend on crypto, the Gaia ID header, and net certificate code.

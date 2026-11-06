@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Windows signals collector
+// summary: Tests the Windows signals collector with a mocked system signals service, covering supported signals, permission handling, and error cases.
+// ---
+
 #include "components/device_signals/core/browser/win/win_signals_collector.h"
 
 #include <array>

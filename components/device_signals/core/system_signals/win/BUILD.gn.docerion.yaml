@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for Windows system signals
+summary: Defines the win static library plus test support and unit test targets for the Windows device signals code.

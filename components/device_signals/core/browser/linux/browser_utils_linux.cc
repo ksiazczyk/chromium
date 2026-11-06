@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux browser utils for device signals
+// summary: Implements Linux-specific device signal helpers in Chromium, returning the hostname, system DNS servers from resolv.conf, and the OS firewall state read from the UFW configuration.
+// ---
+
 #include "components/device_signals/core/browser/browser_utils.h"
 
 #include <string>

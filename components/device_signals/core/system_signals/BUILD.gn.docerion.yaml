@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for system_signals
+summary: Defines the system_signals static library, test support mocks, and unit test targets with their platform-specific dependencies.

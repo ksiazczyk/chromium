@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser utility functions for device signals
+// summary: Implements helpers that read Safe Browsing protection level, password protection trigger, URL blocklist state, enrollment domain, and site isolation settings.
+// ---
+
 #include "components/device_signals/core/browser/browser_utils.h"
 
 #include "base/check.h"

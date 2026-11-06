@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device signals metrics utilities header
+// summary: Declares metrics logging functions for device signal collection plus the signals parsing and certificate collection error enums used for histograms.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_METRICS_UTILS_H_
 #define COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_METRICS_UTILS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of system_signals.mojom.
+type: source
+title: SystemSignalsService Mojom interface
+summary: Defines the SystemSignalsService Mojom interface and data types for collecting file system, antivirus, and hotfix signals on the device.

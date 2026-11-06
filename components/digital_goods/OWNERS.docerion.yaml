@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the digital_goods component
+summary: Delegates code ownership of the digital_goods component to the owners of Chrome's browser services Java sources.

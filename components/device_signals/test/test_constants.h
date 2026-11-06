@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test constants header
+// summary: Declares helpers and expected values for locating device signals test data, test bundles, and plist fixtures used by tests.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_TEST_TEST_CONSTANTS_H_
 #define COMPONENTS_DEVICE_SIGNALS_TEST_TEST_CONSTANTS_H_
 

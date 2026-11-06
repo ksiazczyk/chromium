@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate signals collector implementation
+// summary: Implements collection of client certificate signals, matching certificates against issuer and subject patterns and signing challenges for reporting.
+// ---
+
 #include "components/device_signals/core/browser/certificate_signals_collector.h"
 
 #include <algorithm>

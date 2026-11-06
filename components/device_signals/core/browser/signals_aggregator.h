@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signals aggregator service interface
+// summary: Declares the SignalsAggregator KeyedService interface that asynchronously collects requested device signals, with an optional user context for permission checks on Windows, Mac and Linux.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_SIGNALS_AGGREGATOR_H_
 #define COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_SIGNALS_AGGREGATOR_H_
 

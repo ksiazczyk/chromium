@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser utils declarations
+// summary: Declares helpers for browser and OS settings such as hostname, DNS servers, firewall state, Windows user domain, and Android security patch level.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_BROWSER_UTILS_H_
 #define COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_BROWSER_UTILS_H_
 

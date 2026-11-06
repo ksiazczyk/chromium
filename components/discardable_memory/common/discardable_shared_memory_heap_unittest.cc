@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the discardable shared memory heap
+// summary: Verifies heap behavior such as growing, splitting, merging spans, and searching free lists using base and gtest test support.
+// ---
+
 #include "components/discardable_memory/common/discardable_shared_memory_heap.h"
 
 #include <inttypes.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Settings signals collector unit tests
+// summary: Tests the settings signals collector's supported signals, permission gating, and request parameter handling.
+// ---
+
 #include "components/device_signals/core/browser/settings_signals_collector.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock executable metadata service implementation
+// summary: Implements the MockExecutableMetadataService constructor and destructor, wiring the mock to a MockPlatformDelegate.
+// ---
+
 #include "components/device_signals/core/system_signals/mock_executable_metadata_service.h"
 
 #include <memory>

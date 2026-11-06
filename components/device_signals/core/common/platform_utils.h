@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform utility declarations
+// summary: Declares cross-platform helpers for resolving paths, collecting device signals like disk encryption and MAC addresses, and CrowdStrike agent details.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_CORE_COMMON_PLATFORM_UTILS_H_
 #define COMPONENTS_DEVICE_SIGNALS_CORE_COMMON_PLATFORM_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple DevTools protocol client class declaration
+// summary: Declares the SimpleDevToolsProtocolClient API for attaching to DevTools agent hosts, sending commands with response callbacks, and registering event handlers.
+// ---
+
 #ifndef COMPONENTS_DEVTOOLS_SIMPLE_DEVTOOLS_PROTOCOL_CLIENT_SIMPLE_DEVTOOLS_PROTOCOL_CLIENT_H_
 #define COMPONENTS_DEVTOOLS_SIMPLE_DEVTOOLS_PROTOCOL_CLIENT_SIMPLE_DEVTOOLS_PROTOCOL_CLIENT_H_
 

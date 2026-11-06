@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: devtools_pipe BUILD.gn build target
+summary: Defines the devtools_pipe static library target, listing its sources and dependencies on base and content/public/browser.

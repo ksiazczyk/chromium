@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Performance test for free list search
+// summary: Benchmarks the throughput of SearchFreeLists operations on the discardable shared memory heap and reports results via PerfResultReporter.
+// ---
+
 #include "components/discardable_memory/common/discardable_shared_memory_heap.h"
 
 #include <stddef.h>

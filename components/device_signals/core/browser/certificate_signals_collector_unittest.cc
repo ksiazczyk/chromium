@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Certificate signals collector unit tests
+// summary: Unit tests for the certificate signals collector using fake SSL private keys and client cert identities to verify certificate filtering, signing, truncation, and error handling.
+// ---
+
 #include "components/device_signals/core/browser/certificate_signals_collector.h"
 
 #include <memory>

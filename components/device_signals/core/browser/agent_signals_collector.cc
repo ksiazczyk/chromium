@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Agent signals collector implementation
+// summary: Implements collection of agent signals, reporting detected agents and CrowdStrike identifiers based on feature flags and user permission, with metrics logging.
+// ---
+
 #include "components/device_signals/core/browser/agent_signals_collector.h"
 
 #include <utility>

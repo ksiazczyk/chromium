@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for device signals common
+summary: Declares allowed include dependencies for the directory, with a special rule granting glib access to the Linux platform utils.

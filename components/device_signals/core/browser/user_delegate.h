@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserDelegate interface for the current browser user
+// summary: Defines the UserDelegate interface exposing management, affiliation, sign-in context, and consent information about the user currently logged in to the browser.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_USER_DELEGATE_H_
 #define COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_USER_DELEGATE_H_
 

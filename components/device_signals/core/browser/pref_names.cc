@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device signals preference registration
+// summary: Registers profile preferences that track the device signals consent flow and received consent state.
+// ---
+
 #include "components/device_signals/core/browser/pref_names.h"
 
 #include "components/prefs/pref_registry_simple.h"

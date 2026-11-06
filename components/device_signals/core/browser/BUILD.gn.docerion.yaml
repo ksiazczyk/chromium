@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for device signals browser
+summary: Defines GN targets for the device signals browser library, a lightweight pref_names target, and test support, with platform-specific sources and dependencies.

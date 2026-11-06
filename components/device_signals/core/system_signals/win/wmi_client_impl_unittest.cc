@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the WMI client implementation
+// summary: Tests WmiClientImpl hotfix retrieval, covering failed WMI queries and parsing of valid and invalid hotfix items using fake COM objects.
+// ---
+
 #include "components/device_signals/core/system_signals/win/wmi_client_impl.h"
 
 #include <windows.h>

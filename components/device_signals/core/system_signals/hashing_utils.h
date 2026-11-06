@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File hashing utilities header
+// summary: Declares HashFile, which tries to generate the SHA256 byte string of the file at a given path and returns nullopt in invalid cases.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_CORE_SYSTEM_SIGNALS_HASHING_UTILS_H_
 #define COMPONENTS_DEVICE_SIGNALS_CORE_SYSTEM_SIGNALS_HASHING_UTILS_H_
 

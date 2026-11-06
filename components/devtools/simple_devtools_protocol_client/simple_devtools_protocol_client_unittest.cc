@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SimpleDevToolsProtocolClient
+// summary: Exercises command sending with chained response callbacks and event handler registration and dispatch using a mock DevTools agent host.
+// ---
+
 #include "components/devtools/simple_devtools_protocol_client/simple_devtools_protocol_client.h"
 
 #include <string>

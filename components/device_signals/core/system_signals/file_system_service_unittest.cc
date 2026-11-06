@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for FileSystemService
+// summary: Tests signal collection and presence value outcomes for the file system service using mocked platform and metadata services.
+// ---
+
 #include "components/device_signals/core/system_signals/file_system_service.h"
 
 #include <array>

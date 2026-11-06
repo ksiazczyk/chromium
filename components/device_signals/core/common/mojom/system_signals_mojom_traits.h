@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo typemap traits declarations for system signals
+// summary: Declares Mojo typemap traits mapping system signals Mojom types to native C++ structs such as ExecutableMetadata and FileSystemItem.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_CORE_COMMON_MOJOM_SYSTEM_SIGNALS_MOJOM_TRAITS_H_
 #define COMPONENTS_DEVICE_SIGNALS_CORE_COMMON_MOJOM_SYSTEM_SIGNALS_MOJOM_TRAITS_H_
 

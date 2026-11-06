@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple DevTools protocol client implementation
+// summary: Implements a Chrome DevTools Protocol client that attaches to browser or WebContents agent hosts, sends commands, dispatches responses and events, and manages nested sessions.
+// ---
+
 #include "components/devtools/simple_devtools_protocol_client/simple_devtools_protocol_client.h"
 
 #include <algorithm>
