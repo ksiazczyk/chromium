@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Neural stylus palm detection filter utilities implementation
+// summary: Implements helpers that build device info, create touch samples, and resample and track strokes for the neural palm detection filter.
+// ---
+
 #include "ui/events/ozone/evdev/touch_filter/neural_stylus_palm_detection_filter_util.h"
 
 #include <algorithm>

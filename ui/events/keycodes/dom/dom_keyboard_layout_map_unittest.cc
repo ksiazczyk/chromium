@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DOM keyboard layout map unit tests
+// summary: Unit tests for DOM keyboard layout map generation, simulating layouts with varying degrees of ASCII capability.
+// ---
+
 #include <string>
 #include <vector>
 

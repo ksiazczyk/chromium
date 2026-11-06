@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GesturePropertiesService Mojo service implementation
+// summary: Implements the GesturePropertiesService Mojo service that lists input devices and reads or writes gesture properties through the gesture property provider.
+// ---
+
 #include "ui/events/ozone/evdev/libgestures_glue/gesture_properties_service.h"
 
 #include <utility>

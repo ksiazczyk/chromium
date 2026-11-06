@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Microphone mute switch event converter implementation
+// summary: Reads microphone mute switch events from an evdev device and dispatches mute state changes.
+// ---
+
 #include "ui/events/ozone/evdev/microphone_mute_switch_event_converter_evdev.h"
 
 #include <errno.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XkbKeyboardLayoutEngine class declaration
+// summary: Declares the XkbKeyboardLayoutEngine class, which manages xkbcommon keymaps, modifier masks, and DomCode/KeyboardCode lookup for Ozone platforms.
+// ---
+
 #ifndef UI_EVENTS_OZONE_LAYOUT_XKB_XKB_KEYBOARD_LAYOUT_ENGINE_H_
 #define UI_EVENTS_OZONE_LAYOUT_XKB_XKB_KEYBOARD_LAYOUT_ENGINE_H_
 

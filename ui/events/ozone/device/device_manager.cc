@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceManager factory
+// summary: Provides CreateDeviceManager, which returns a udev-based DeviceManager when USE_UDEV is defined and a manual fallback implementation otherwise.
+// ---
+
 #include "ui/events/ozone/device/device_manager.h"
 
 #include "base/trace_event/trace_event.h"

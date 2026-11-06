@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Imposter checker state implementation
+// summary: Implements the ImposterCheckerEvdevState singleton that controls whether the fake keyboard heuristic check is enabled.
+// ---
+
 #include "ui/events/ozone/evdev/imposter_checker_evdev_state.h"
 
 #include "base/check_deref.h"

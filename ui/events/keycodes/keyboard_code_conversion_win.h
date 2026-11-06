@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows keyboard code conversion header
+// summary: Declares functions converting between ui::KeyboardCode, Windows virtual key codes, and Windows scan codes.
+// ---
+
 #ifndef UI_EVENTS_KEYCODES_KEYBOARD_CODE_CONVERSION_WIN_H_
 #define UI_EVENTS_KEYCODES_KEYBOARD_CODE_CONVERSION_WIN_H_
 

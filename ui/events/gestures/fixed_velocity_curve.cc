@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FixedVelocityCurve implementation
+// summary: Implements a GestureCurve that scrolls at a constant velocity, computing offset and velocity from elapsed time.
+// ---
+
 #include "ui/events/gestures/fixed_velocity_curve.h"
 
 namespace ui {

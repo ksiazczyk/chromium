@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Palm detection filter factory unit tests
+// summary: Unit tests for the palm detection filter factory covering radius parsing, command-line switches and filter selection per device.
+// ---
+
 #include "ui/events/ozone/evdev/touch_filter/palm_detection_filter_factory.h"
 
 #include <linux/input.h>

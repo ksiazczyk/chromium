@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OneDevice train palm detection filter model declaration
+// summary: Declares the OneDeviceTrainNeuralStylusPalmDetectionFilterModel class, a neural stylus palm detection model with a selectable model version and an inference entry point.
+// ---
+
 #ifndef UI_EVENTS_OZONE_EVDEV_TOUCH_FILTER_PALM_MODEL_ONEDEVICE_TRAIN_PALM_DETECTION_FILTER_MODEL_H_
 #define UI_EVENTS_OZONE_EVDEV_TOUCH_FILTER_PALM_MODEL_ONEDEVICE_TRAIN_PALM_DETECTION_FILTER_MODEL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CursorController implementation
+// summary: Implements CursorController, transforming cursor movement deltas by the per-window display rotation and scale configured for ChromeOS Ozone.
+// ---
+
 #include "ui/events/ozone/chromeos/cursor_controller.h"
 
 #include "base/check.h"

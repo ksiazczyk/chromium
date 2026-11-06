@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gesture property provider implementation
+// summary: Implements GesturesProp classes and the provider that manages CrOS gesture library properties for input devices, including parsing of xorg-conf style configuration files.
+// ---
+
 #include "ui/events/ozone/evdev/libgestures_glue/gesture_property_provider.h"
 
 #include <fnmatch.h>

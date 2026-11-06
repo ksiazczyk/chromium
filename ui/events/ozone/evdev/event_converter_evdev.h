@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventConverterEvdev base class
+// summary: Declares the base class that reads evdev input events and exposes device type, keyboard and mouse capabilities.
+// ---
+
 #ifndef UI_EVENTS_OZONE_EVDEV_EVENT_CONVERTER_EVDEV_H_
 #define UI_EVENTS_OZONE_EVDEV_EVENT_CONVERTER_EVDEV_H_
 

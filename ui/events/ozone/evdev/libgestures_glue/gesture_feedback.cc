@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gesture feedback log dumping implementation
+// summary: Implements utilities that dump touch device status and touch event logs, compressing them with gzip for inclusion in user feedback reports.
+// ---
+
 #include "ui/events/ozone/evdev/libgestures_glue/gesture_feedback.h"
 
 #include <stddef.h>

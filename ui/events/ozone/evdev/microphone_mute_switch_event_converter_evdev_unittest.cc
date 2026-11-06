@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Microphone mute switch event converter unit tests
+// summary: Unit tests verifying microphone mute switch event conversion and dispatch using test device capabilities.
+// ---
+
 #include "ui/events/ozone/evdev/microphone_mute_switch_event_converter_evdev.h"
 
 #include <errno.h>

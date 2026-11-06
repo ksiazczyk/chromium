@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stylus button event converter implementation
+// summary: Reads evdev stylus button input and dispatches key events for stylus buttons to the device event dispatcher.
+// ---
+
 #include "ui/events/ozone/evdev/stylus_button_event_converter_evdev.h"
 
 #include <errno.h>

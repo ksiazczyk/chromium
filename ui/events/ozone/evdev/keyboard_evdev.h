@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Evdev keyboard processing declaration
+// summary: Declares KeyboardEvdev, which combines all attached keyboards into one logical keyboard with modifiers, layout and auto-repeat support.
+// ---
+
 #ifndef UI_EVENTS_OZONE_EVDEV_KEYBOARD_EVDEV_H_
 #define UI_EVENTS_OZONE_EVDEV_KEYBOARD_EVDEV_H_
 

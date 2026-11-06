@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: gestures_log implementation for libgestures logging
+// summary: Implements the gestures_log function that routes libgestures log messages into Chromium's logging system according to verbosity level.
+// ---
+
 #include "ui/events/ozone/evdev/libgestures_glue/gesture_logging.h"
 
 #include <gestures/gestures.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keycode converter header
+// summary: Declares KeycodeConverter for converting between native platform keycodes and W3C UI Events code and key values.
+// ---
+
 #ifndef UI_EVENTS_KEYCODES_DOM_KEYCODE_CONVERTER_H_
 #define UI_EVENTS_KEYCODES_DOM_KEYCODE_CONVERTER_H_
 

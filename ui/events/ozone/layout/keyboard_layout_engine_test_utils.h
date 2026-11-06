@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for the layout engine readiness test helper
+// summary: Declares WaitUntilLayoutEngineIsReadyForTest for tests that need the keyboard layout to be fully initialised before handling key events.
+// ---
+
 #ifndef UI_EVENTS_OZONE_LAYOUT_KEYBOARD_LAYOUT_ENGINE_TEST_UTILS_H_
 #define UI_EVENTS_OZONE_LAYOUT_KEYBOARD_LAYOUT_ENGINE_TEST_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Neural stylus palm detection filter implementation
+// summary: Implements the neural network based palm detection filter that classifies evdev touch strokes as palm or stylus using a configured model.
+// ---
+
 
 #include "ui/events/ozone/evdev/touch_filter/neural_stylus_palm_detection_filter.h"
 

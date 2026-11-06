@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventReaderLibevdevCros class declaration
+// summary: Declares EventReaderLibevdevCros, a wrapper that drives libevdev-cros from a file descriptor and notifies a delegate of open, event, and stop state updates.
+// ---
+
 #ifndef UI_EVENTS_OZONE_EVDEV_LIBGESTURES_GLUE_EVENT_READER_LIBEVDEV_CROS_H_
 #define UI_EVENTS_OZONE_EVDEV_LIBGESTURES_GLUE_EVENT_READER_LIBEVDEV_CROS_H_
 

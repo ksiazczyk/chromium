@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch event converter class declaration
+// summary: Declares TouchEventConverterEvdev, the evdev touchscreen converter with palm detection, touch logging, and stylus state callbacks.
+// ---
+
 #ifndef UI_EVENTS_OZONE_EVDEV_TOUCH_EVENT_CONVERTER_EVDEV_H_
 #define UI_EVENTS_OZONE_EVDEV_TOUCH_EVENT_CONVERTER_EVDEV_H_
 

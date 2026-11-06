@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stylus button event converter unit tests
+// summary: Unit tests for the evdev stylus button event converter that feed mock input events through a pipe and verify event dispatch.
+// ---
+
 #include "ui/events/ozone/evdev/stylus_button_event_converter_evdev.h"
 
 #include <errno.h>

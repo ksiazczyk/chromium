@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GestureProviderAura implementation
+// summary: Converts Aura touch events and acks into gesture events via FilteredGestureProvider and queues pending gestures for dispatch.
+// ---
+
 #include "ui/events/gestures/gesture_provider_aura.h"
 
 #include <utility>

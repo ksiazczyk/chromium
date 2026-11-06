@@ -1,0 +1,4 @@
+# Docerion header of dom_key_data.inc.
+type: data
+title: DOM Level 3 key value mapping table
+summary: Table of DOM Level 3 KeyboardEvent key values mapping key names to DomKey enum identifiers and encodings, included repeatedly with different macros.

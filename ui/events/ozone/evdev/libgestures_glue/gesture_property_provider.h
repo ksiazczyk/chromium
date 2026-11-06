@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gesture property provider header
+// summary: Declares GesturePropertyProvider and GestureDeviceProperties, the interface for accessing and configuring gesture library properties for evdev input devices.
+// ---
+
 #ifndef UI_EVENTS_OZONE_EVDEV_LIBGESTURES_GLUE_GESTURE_PROPERTY_PROVIDER_H_
 #define UI_EVENTS_OZONE_EVDEV_LIBGESTURES_GLUE_GESTURE_PROPERTY_PROVIDER_H_
 

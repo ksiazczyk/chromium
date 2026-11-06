@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DomKeyboardLayout class header
+// summary: Declares DomKeyboardLayout, a single keyboard layout or layout group, plus the list of writing system key DomCodes.
+// ---
+
 #ifndef UI_EVENTS_KEYCODES_DOM_DOM_KEYBOARD_LAYOUT_H_
 #define UI_EVENTS_KEYCODES_DOM_DOM_KEYBOARD_LAYOUT_H_
 

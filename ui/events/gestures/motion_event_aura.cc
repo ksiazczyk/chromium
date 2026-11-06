@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MotionEventAura implementation
+// summary: Builds MotionEvents from a stream of Aura touch events, mapping pointer properties and maintaining pointer state.
+// ---
+
 #include "ui/events/gestures/motion_event_aura.h"
 
 #include "base/check_op.h"

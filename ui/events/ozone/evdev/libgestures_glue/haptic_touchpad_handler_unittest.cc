@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Haptic touchpad handler unit tests
+// summary: Unit tests for HapticTouchpadHandler covering UI-requested effects, button click effects, and release effect scheduling using a test double.
+// ---
+
 #include "ui/events/ozone/evdev/libgestures_glue/haptic_touchpad_handler.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

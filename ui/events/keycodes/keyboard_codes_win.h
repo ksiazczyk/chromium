@@ -4,6 +4,12 @@
 
 // IWYU pragma: private, include "ui/events/keycodes/keyboard_codes.h"
 
+// ---docerion
+// type: source
+// title: Windows keyboard code definitions
+// summary: Defines the KeyboardCode enum for Windows by mapping each value to Win32 VK_* virtual key constants.
+// ---
+
 #ifndef UI_EVENTS_KEYCODES_KEYBOARD_CODES_WIN_H_
 #define UI_EVENTS_KEYCODES_KEYBOARD_CODES_WIN_H_
 

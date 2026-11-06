@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for blink gesture curves
+summary: GN build file defining the blink source set with the gesture curve sources and dependencies, adding a mobile fling curve define for CastOS.

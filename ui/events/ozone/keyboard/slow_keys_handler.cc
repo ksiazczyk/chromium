@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Slow keys handler implementation
+// summary: Implements the Slow Keys accessibility feature, holding key events until a configurable delay elapses before dispatching them.
+// ---
+
 #include "ui/events/ozone/keyboard/slow_keys_handler.h"
 
 #include "base/containers/map_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC enum traits macros for UI event types
+// summary: Header defining IPC serialization traits for the EventPointerType and ScrollGranularity enums used by the ui_events_ipc component.
+// ---
+
 #ifndef UI_EVENTS_IPC_UI_EVENTS_PARAM_TRAITS_MACROS_H_
 #define UI_EVENTS_IPC_UI_EVENTS_PARAM_TRAITS_MACROS_H_
 

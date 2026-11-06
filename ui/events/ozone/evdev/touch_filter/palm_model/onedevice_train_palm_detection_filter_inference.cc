@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OneDevice train palm detection filter inference (alpha model)
+// summary: Implements inline neural network inference for the alpha OneDevice palm detection model, including a self-contained op library with optional Eigen support and benchmarking hooks.
+// ---
+
 #include "ui/events/ozone/evdev/touch_filter/palm_model/onedevice_train_palm_detection_filter_inference.h"
 
 #include <algorithm>

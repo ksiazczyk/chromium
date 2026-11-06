@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Slow keys handler class declaration
+// summary: Declares the SlowKeysHandler class that gates key event dispatch behind an accessibility delay using per-device, per-key timers.
+// ---
+
 #ifndef UI_EVENTS_OZONE_KEYBOARD_SLOW_KEYS_HANDLER_H_
 #define UI_EVENTS_OZONE_KEYBOARD_SLOW_KEYS_HANDLER_H_
 

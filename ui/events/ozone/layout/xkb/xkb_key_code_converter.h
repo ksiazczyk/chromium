@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XkbKeyCodeConverter interface for DomCode to XKB keycode mapping
+// summary: Declares the abstract XkbKeyCodeConverter interface that maps DomCode values to platform-dependent xkb_keycode_t values for the layout engine.
+// ---
+
 #ifndef UI_EVENTS_OZONE_LAYOUT_XKB_XKB_KEY_CODE_CONVERTER_H_
 #define UI_EVENTS_OZONE_LAYOUT_XKB_XKB_KEY_CODE_CONVERTER_H_
 

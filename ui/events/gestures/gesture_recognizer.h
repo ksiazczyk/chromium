@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GestureRecognizer abstract base class
+// summary: Declares the abstract GestureRecognizer interface that converts touch events into gestures and manages touch targets and cancellation.
+// ---
+
 #ifndef UI_EVENTS_GESTURES_GESTURE_RECOGNIZER_H_
 #define UI_EVENTS_GESTURES_GESTURE_RECOGNIZER_H_
 

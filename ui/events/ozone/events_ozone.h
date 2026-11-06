@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ozone event dispatch and keyboard IME flag declarations
+// summary: Declares the native UI event dispatch helper, test dispatch controls, and keyboard IME flag property constants and accessors.
+// ---
+
 #ifndef UI_EVENTS_OZONE_EVENTS_OZONE_H_
 #define UI_EVENTS_OZONE_EVENTS_OZONE_H_
 

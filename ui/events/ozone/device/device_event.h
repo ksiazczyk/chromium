@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceEvent class
+// summary: Declares the DeviceEvent class describing input or display device add, remove and change events, with a device path and a string property map.
+// ---
+
 #ifndef UI_EVENTS_OZONE_DEVICE_DEVICE_EVENT_H_
 #define UI_EVENTS_OZONE_DEVICE_DEVICE_EVENT_H_
 

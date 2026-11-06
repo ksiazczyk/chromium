@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlingCurve class declaration
+// summary: Declares the GestureCurve subclass used to scroll UI elements for touch screen-based flings, including stateful delta computation.
+// ---
+
 #ifndef UI_EVENTS_GESTURES_FLING_CURVE_H_
 #define UI_EVENTS_GESTURES_FLING_CURVE_H_
 

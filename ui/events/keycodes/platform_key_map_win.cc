@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows platform key map implementation
+// summary: Implements the Windows PlatformKeyMap that converts keyboard codes and modifier flags into DOM keys using the active keyboard layout, including AltGraph handling.
+// ---
+
 #include "ui/events/keycodes/platform_key_map_win.h"
 
 #include <algorithm>

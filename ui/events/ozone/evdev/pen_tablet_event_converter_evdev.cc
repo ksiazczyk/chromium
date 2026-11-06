@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pen tablet event converter implementation
+// summary: Reads evdev events from pen tablets and converts position, tilt, pressure and button data into dispatched UI events.
+// ---
+
 #include "ui/events/ozone/evdev/pen_tablet_event_converter_evdev.h"
 
 #include <errno.h>

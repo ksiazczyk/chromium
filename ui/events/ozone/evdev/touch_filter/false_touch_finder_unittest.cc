@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: False touch finder unit tests
+// summary: Tests that edge taps are delayed and moving edge touches are released through FalseTouchFinder filtering.
+// ---
+
 #include "ui/events/ozone/evdev/touch_filter/false_touch_finder.h"
 
 #include <stddef.h>

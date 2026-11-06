@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake cursor delegate for Ozone evdev testing
+// summary: Header defining FakeCursorDelegateEvdev, a stub CursorDelegateEvdev that records mock cursor locations for use in Ozone evdev tests.
+// ---
+
 #ifndef UI_EVENTS_OZONE_EVDEV_TESTING_FAKE_CURSOR_DELEGATE_EVDEV_H_
 #define UI_EVENTS_OZONE_EVDEV_TESTING_FAKE_CURSOR_DELEGATE_EVDEV_H_
 

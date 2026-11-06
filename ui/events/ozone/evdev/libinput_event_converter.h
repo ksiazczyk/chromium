@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Libinput event converter header
+// summary: Declares LibInputEventConverter and wrappers around libinput event, device, and context structures.
+// ---
+
 #ifndef UI_EVENTS_OZONE_EVDEV_LIBINPUT_EVENT_CONVERTER_H_
 #define UI_EVENTS_OZONE_EVDEV_LIBINPUT_EVENT_CONVERTER_H_
 

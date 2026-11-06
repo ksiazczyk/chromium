@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputDeviceOpenerEvdev implementation
+// summary: Opens evdev device files and selects the matching event converter for touchpads, touchscreens, tablets, gamepads and more.
+// ---
+
 #include "ui/events/ozone/evdev/input_device_opener_evdev.h"
 
 #include <fcntl.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android keycode conversion API header
+// summary: Declares functions converting between Android keycodes and Chromium KeyboardCode and DomKey values.
+// ---
+
 #ifndef UI_EVENTS_KEYCODES_KEYBOARD_CODE_CONVERSION_ANDROID_H_
 #define UI_EVENTS_KEYCODES_KEYBOARD_CODE_CONVERSION_ANDROID_H_
 

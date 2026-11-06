@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ozone DOM keyboard layout map implementation
+// summary: Ozone implementation that generates the DOM keyboard layout map through the Ozone keyboard layout engine.
+// ---
+
 #include <cstdint>
 #include <string>
 

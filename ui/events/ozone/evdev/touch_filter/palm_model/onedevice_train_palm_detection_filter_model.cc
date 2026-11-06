@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OneDevice train palm detection filter model implementation
+// summary: Dispatches palm detection inference between the alpha and beta model versions and initializes feature sizes, thresholds and neighbor configuration for the filter.
+// ---
+
 #include "ui/events/ozone/evdev/touch_filter/palm_model/onedevice_train_palm_detection_filter_model.h"
 
 #include <algorithm>

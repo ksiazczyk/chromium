@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for XkbKeyboardLayoutEngine
+// summary: Unit tests for XkbKeyboardLayoutEngine covering key code lookup, printable character mapping, and layout handling with mock converters.
+// ---
+
 #include "ui/events/ozone/layout/xkb/xkb_keyboard_layout_engine.h"
 
 #include <stddef.h>

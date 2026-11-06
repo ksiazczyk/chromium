@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows keyboard code conversion implementation
+// summary: Converts between Windows virtual key codes and scan codes and Chromium KeyboardCode and DomCode values.
+// ---
+
 #include "ui/events/keycodes/keyboard_code_conversion_win.h"
 #include "ui/events/keycodes/dom/keycode_converter.h"
 

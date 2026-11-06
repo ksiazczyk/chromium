@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Numberpad metrics recorder implementation
+// summary: Records feature usage metrics for internal, external and Elan dynamic numberpads by recognizing numberpad keys and device types.
+// ---
+
 #include "ui/events/ozone/evdev/numberpad_metrics.h"
 
 #include "base/logging.h"

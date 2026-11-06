@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Microphone mute key metrics header
+// summary: Declares the histogram name, device enum, and class for reporting microphone mute toggle metrics.
+// ---
+
 #ifndef UI_EVENTS_OZONE_EVDEV_MICROPHONE_MUTE_KEY_METRICS_H_
 #define UI_EVENTS_OZONE_EVDEV_MICROPHONE_MUTE_KEY_METRICS_H_
 

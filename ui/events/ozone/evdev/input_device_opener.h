@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputDeviceOpener interface header
+// summary: Defines OpenInputDeviceParams and the InputDeviceOpener interface for opening evdev input devices into converters.
+// ---
+
 #ifndef UI_EVENTS_OZONE_EVDEV_INPUT_DEVICE_OPENER_H_
 #define UI_EVENTS_OZONE_EVDEV_INPUT_DEVICE_OPENER_H_
 

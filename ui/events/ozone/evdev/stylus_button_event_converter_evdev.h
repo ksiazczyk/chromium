@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stylus button event converter declarations
+// summary: Declares the StylusButtonEventConverterEvdev class that converts evdev stylus button input into key events.
+// ---
+
 #ifndef UI_EVENTS_OZONE_EVDEV_STYLUS_BUTTON_EVENT_CONVERTER_EVDEV_H_
 #define UI_EVENTS_OZONE_EVDEV_STYLUS_BUTTON_EVENT_CONVERTER_EVDEV_H_
 

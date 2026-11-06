@@ -1,0 +1,4 @@
+# Docerion header of events_ios.mm.
+type: source
+title: iOS native event conversion helpers
+summary: Implements the ui namespace event utilities for iOS, mapping native UIKit events to event type, flags, timestamps, locations, pointer details and keyboard codes, with many functions as NOTIMPLEMENTED stubs.

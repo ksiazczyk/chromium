@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Microphone mute key metrics implementation
+// summary: Records histograms identifying which peripheral vendors and scan codes toggle the microphone mute state.
+// ---
+
 #include "ui/events/ozone/evdev/microphone_mute_key_metrics.h"
 
 #include <linux/input.h>

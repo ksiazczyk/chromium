@@ -1,0 +1,4 @@
+# Docerion header of capture_device_capabilities.py.
+type: script
+title: Input device capabilities capture tool
+summary: Python tool that reads a Linux input device and emits its capabilities as a DeviceCapabilities C++ literal for tests.

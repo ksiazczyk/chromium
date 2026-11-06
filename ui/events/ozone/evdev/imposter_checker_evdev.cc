@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Evdev imposter device checker implementation
+// summary: Implements heuristics that flag evdev input devices as suspected fake keyboards or mice when devices share a standardized phys path.
+// ---
+
 #include "ui/events/ozone/evdev/imposter_checker_evdev.h"
 
 #include <map>

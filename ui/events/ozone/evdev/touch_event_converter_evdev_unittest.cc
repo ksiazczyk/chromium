@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Touch event converter unit tests
+// summary: Unit tests for the touch event converter covering touch processing, palm detection, stylus interaction, and event logging.
+// ---
+
 #include "ui/events/ozone/evdev/touch_event_converter_evdev.h"
 
 #include <errno.h>

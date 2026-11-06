@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mouse button property helpers for UI events
+// summary: Implements getting and setting the Forward/Back mouse button property on UI events to distinguish forward and back buttons on devices.
+// ---
+
 #include "ui/events/ozone/evdev/mouse_button_property.h"
 
 #include <cstdint>

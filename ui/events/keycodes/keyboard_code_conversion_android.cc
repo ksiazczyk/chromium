@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android keycode conversion implementation
+// summary: Converts Android keycodes to DomKey and KeyboardCode values, including definitions for keycodes missing from the Android NDK.
+// ---
+
 #include "ui/events/keycodes/keyboard_code_conversion_android.h"
 
 #include <android/keycodes.h>

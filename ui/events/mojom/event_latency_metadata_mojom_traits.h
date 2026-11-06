@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for event latency metadata Mojo traits
+// summary: Declares StructTraits mapping ui::EventLatencyMetadata to its Mojom representation with accessors for each timestamp.
+// ---
+
 #ifndef UI_EVENTS_MOJOM_EVENT_LATENCY_METADATA_MOJOM_TRAITS_H_
 #define UI_EVENTS_MOJOM_EVENT_LATENCY_METADATA_MOJOM_TRAITS_H_
 

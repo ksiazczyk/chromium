@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ui/events/ozone
+summary: Grants this directory include access to device/udev_linux, mojo public C++ bindings, and ui/ozone/public headers.

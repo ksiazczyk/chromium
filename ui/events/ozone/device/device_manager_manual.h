@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manual device manager header
+// summary: Declares DeviceManagerManual, a DeviceManager that uses a FilePathWatcher and thread pool scans to track input devices and notify observers.
+// ---
+
 #ifndef UI_EVENTS_OZONE_DEVICE_DEVICE_MANAGER_MANUAL_H_
 #define UI_EVENTS_OZONE_DEVICE_DEVICE_MANAGER_MANUAL_H_
 

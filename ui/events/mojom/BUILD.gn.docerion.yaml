@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for UI events Mojom targets
+summary: Defines the Mojom targets, typemaps, and generated bindings for UI event interfaces, including Android and WebUI-specific settings.

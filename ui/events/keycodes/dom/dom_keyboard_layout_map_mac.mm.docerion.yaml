@@ -1,0 +1,4 @@
+# Docerion header of dom_keyboard_layout_map_mac.mm.
+type: source
+title: Mac DOM keyboard layout map implementation
+summary: Mac implementation that generates the DOM keyboard layout map using Carbon and Text Input Services APIs.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device capabilities test data declarations
+// summary: Declares the DeviceCapabilities struct and the captured device profiles shared by evdev device info tests.
+// ---
+
 #ifndef UI_EVENTS_OZONE_EVDEV_EVENT_DEVICE_TEST_UTIL_H_
 #define UI_EVENTS_OZONE_EVDEV_EVENT_DEVICE_TEST_UTIL_H_
 

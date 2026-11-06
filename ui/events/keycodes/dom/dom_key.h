@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DomKey class for KeyboardEvent key values
+// summary: Defines the DomKey class, an integer encoding of UI Events KeyboardEvent.key values including Unicode characters and dead keys.
+// ---
+
 #ifndef UI_EVENTS_KEYCODES_DOM_DOM_KEY_H_
 #define UI_EVENTS_KEYCODES_DOM_DOM_KEY_H_
 

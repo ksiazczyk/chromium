@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web gesture curve implementation
+// summary: Implements WebGestureCurveImpl, which wraps platform fling curves such as fixed velocity, mobile scroller, physics-based and default fling curves for Blink.
+// ---
+
 #include "ui/events/gestures/blink/web_gesture_curve_impl.h"
 
 #include <limits.h>

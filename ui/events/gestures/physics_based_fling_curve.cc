@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Physics-based fling curve implementation
+// summary: Implements PhysicsBasedFlingCurve, computing fling scroll distance and a cubic bezier animation curve from fling velocity, physical deceleration and viewport bounds.
+// ---
+
 #include "ui/events/gestures/physics_based_fling_curve.h"
 
 #include <algorithm>

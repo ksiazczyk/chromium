@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoKeyboardLayoutEngine stub implementation
+// summary: Implements the no-op NoKeyboardLayoutEngine, rejecting layout changes and returning no key lookups for platforms without layout support.
+// ---
+
 #include "ui/events/ozone/layout/no/no_keyboard_layout_engine.h"
 
 namespace ui {

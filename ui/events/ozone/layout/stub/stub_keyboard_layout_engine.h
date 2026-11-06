@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StubKeyboardLayoutEngine class declaration
+// summary: Declares the StubKeyboardLayoutEngine class, a KeyboardLayoutEngine subclass with a custom lookup entry struct for testing overrides.
+// ---
+
 #ifndef UI_EVENTS_OZONE_LAYOUT_STUB_STUB_KEYBOARD_LAYOUT_ENGINE_H_
 #define UI_EVENTS_OZONE_LAYOUT_STUB_STUB_KEYBOARD_LAYOUT_ENGINE_H_
 

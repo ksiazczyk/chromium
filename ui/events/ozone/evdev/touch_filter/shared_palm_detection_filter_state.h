@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedPalmDetectionFilterState struct
+// summary: Defines SharedPalmDetectionFilterState, holding stylus and finger touch timestamps and palm flags shared across filters.
+// ---
+
 #ifndef UI_EVENTS_OZONE_EVDEV_TOUCH_FILTER_SHARED_PALM_DETECTION_FILTER_STATE_H_
 #define UI_EVENTS_OZONE_EVDEV_TOUCH_FILTER_SHARED_PALM_DETECTION_FILTER_STATE_H_
 

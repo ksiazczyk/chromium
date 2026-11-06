@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event auto repeat handler implementation
+// summary: Implements key auto-repeat for Ozone keyboard input, scheduling repeated key events with configurable delay and interval via a delegate.
+// ---
+
 #include "ui/events/ozone/keyboard/event_auto_repeat_handler.h"
 
 #include "base/functional/bind.h"

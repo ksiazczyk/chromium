@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gamepad event converter for evdev
+// summary: Declares GamepadEventConverterEvdev, which converts evdev input events into gamepad events and manages rumble and vibration force feedback effects.
+// ---
+
 #ifndef UI_EVENTS_OZONE_EVDEV_GAMEPAD_EVENT_CONVERTER_EVDEV_H_
 #define UI_EVENTS_OZONE_EVDEV_GAMEPAD_EVENT_CONVERTER_EVDEV_H_
 

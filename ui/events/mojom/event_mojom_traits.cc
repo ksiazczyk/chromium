@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Serialization of UI events for Mojo
+// summary: Implements conversion between ui::Event objects and their Mojom representation, including coordinate sanitizing and enum mapping.
+// ---
+
 #include "ui/events/mojom/event_mojom_traits.h"
 
 #include <cmath>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputDeviceFactoryEvdevProxy class header
+// summary: Declares a thread-safe proxy used on the UI thread to call InputDeviceFactoryEvdev on the device I/O thread.
+// ---
+
 #ifndef UI_EVENTS_OZONE_EVDEV_INPUT_DEVICE_FACTORY_EVDEV_PROXY_H_
 #define UI_EVENTS_OZONE_EVDEV_INPUT_DEVICE_FACTORY_EVDEV_PROXY_H_
 

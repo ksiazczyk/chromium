@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GamepadProviderOzone class
+// summary: Declares the singleton GamepadProviderOzone for adding and removing observers, dispatching gamepad events and listing connected devices on the UI thread.
+// ---
+
 #ifndef UI_EVENTS_OZONE_GAMEPAD_GAMEPAD_PROVIDER_OZONE_H_
 #define UI_EVENTS_OZONE_GAMEPAD_GAMEPAD_PROVIDER_OZONE_H_
 

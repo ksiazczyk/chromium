@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CursorController header
+// summary: Declares the CursorController singleton, which stores per-window rotation and scale settings used to adjust cursor movement on ChromeOS.
+// ---
+
 #ifndef UI_EVENTS_OZONE_CHROMEOS_CURSOR_CONTROLLER_H_
 #define UI_EVENTS_OZONE_CHROMEOS_CURSOR_CONTROLLER_H_
 

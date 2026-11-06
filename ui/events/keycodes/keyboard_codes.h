@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard code umbrella header
+// summary: Selects and includes the platform-specific keyboard code definitions for Windows or POSIX and Fuchsia builds.
+// ---
+
 #ifndef UI_EVENTS_KEYCODES_KEYBOARD_CODES_H_
 #define UI_EVENTS_KEYCODES_KEYBOARD_CODES_H_
 

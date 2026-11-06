@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GamepadEventConverterEvdev implementation
+// summary: Converts evdev gamepad input into gamepad events and handles rumble vibration effects on the device.
+// ---
+
 #include "ui/events/ozone/evdev/gamepad_event_converter_evdev.h"
 
 #include <errno.h>

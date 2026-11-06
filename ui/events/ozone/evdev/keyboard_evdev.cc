@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Evdev keyboard processing implementation
+// summary: Implements KeyboardEvdev, which merges attached keyboards, applies modifiers and layout, and handles key repeat and slow keys.
+// ---
+
 #include "ui/events/ozone/evdev/keyboard_evdev.h"
 
 #include "base/functional/bind.h"

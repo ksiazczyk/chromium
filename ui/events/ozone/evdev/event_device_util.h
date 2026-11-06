@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Evdev bit manipulation helpers
+// summary: Header with inline helpers for setting, clearing and testing bits in evdev bitmask spans used throughout the evdev input code.
+// ---
+
 #ifndef UI_EVENTS_OZONE_EVDEV_EVENT_DEVICE_UTIL_H_
 #define UI_EVENTS_OZONE_EVDEV_EVENT_DEVICE_UTIL_H_
 

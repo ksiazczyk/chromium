@@ -1,0 +1,4 @@
+# Docerion header of keyboard_code_conversion_mac.mm.
+type: source
+title: Mac keyboard code conversion implementation
+summary: Implements mapping of macOS NSEvent key codes and characters to Chromium KeyboardCode, DomKey and DomCode values.

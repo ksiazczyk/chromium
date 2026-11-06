@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GamepadProviderOzone implementation
+// summary: Implements the leaky singleton gamepad provider that dispatches device updates and gamepad events to registered observers.
+// ---
+
 #include "ui/events/ozone/gamepad/gamepad_provider_ozone.h"
 #include "base/memory/singleton.h"
 #include "base/observer_list.h"

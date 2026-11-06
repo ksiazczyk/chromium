@@ -10,6 +10,12 @@
 // that translation units that pull in both headers don't see conflicting
 // definitions.
 
+// ---docerion
+// type: source
+// title: Windows virtual key constant definitions
+// summary: Reproduces the VK_* constants from WinUser.h so Windows keyboard codes compile without including windows.h.
+// ---
+
 #ifndef UI_EVENTS_KEYCODES_KEYBOARD_DEFINES_WIN_H_
 #define UI_EVENTS_KEYCODES_KEYBOARD_DEFINES_WIN_H_
 

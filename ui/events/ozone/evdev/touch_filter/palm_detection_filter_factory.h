@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Palm detection filter factory header
+// summary: Declares factory functions for creating palm detection filters plus helpers for radius polynomial and model version lookup.
+// ---
+
 #ifndef UI_EVENTS_OZONE_EVDEV_TOUCH_FILTER_PALM_DETECTION_FILTER_FACTORY_H_
 #define UI_EVENTS_OZONE_EVDEV_TOUCH_FILTER_PALM_DETECTION_FILTER_FACTORY_H_
 

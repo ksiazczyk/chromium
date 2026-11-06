@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake keyboard heuristic metrics declaration
+// summary: Declares the feature usage metrics delegate for the fake keyboard heuristic.
+// ---
+
 #ifndef UI_EVENTS_OZONE_EVDEV_FAKE_KEYBOARD_HEURISTIC_METRICS_H_
 #define UI_EVENTS_OZONE_EVDEV_FAKE_KEYBOARD_HEURISTIC_METRICS_H_
 

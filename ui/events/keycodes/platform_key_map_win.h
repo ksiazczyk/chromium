@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows platform key map header
+// summary: Declares the PlatformKeyMap class that maps Windows keyboard codes and event flags to DOM keys per keyboard layout, with a per-thread key map cache.
+// ---
+
 #ifndef UI_EVENTS_KEYCODES_PLATFORM_KEY_MAP_WIN_H_
 #define UI_EVENTS_KEYCODES_PLATFORM_KEY_MAP_WIN_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of event_constants.mojom.
+type: source
+title: Mojom enums and constants for event types and flags
+summary: Declares event type enums, event flag constants, and phase and device type enums that mirror the C++ ui::Event constants.

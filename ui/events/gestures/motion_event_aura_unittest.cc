@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MotionEventAura unit tests
+// summary: Unit tests verifying pointer count, ids, positions, tap params, cloning, and touch handling behavior of MotionEventAura.
+// ---
+
 #include "ui/events/gestures/motion_event_aura.h"
 
 #include <array>

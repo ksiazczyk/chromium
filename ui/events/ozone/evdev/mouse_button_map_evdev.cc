@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mouse button map implementation
+// summary: Maps left and right mouse buttons, supporting per-device primary button settings on ChromeOS.
+// ---
+
 #include "ui/events/ozone/evdev/mouse_button_map_evdev.h"
 
 #include <linux/input.h>

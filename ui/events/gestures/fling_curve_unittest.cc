@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FlingCurve unit tests
+// summary: Verifies that FlingCurve computes expected scroll deltas and becomes inactive after the curve duration.
+// ---
+
 #include "ui/events/gestures/fling_curve.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

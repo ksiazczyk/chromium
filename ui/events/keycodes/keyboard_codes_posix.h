@@ -30,6 +30,12 @@
 
 // IWYU pragma: private, include "ui/events/keycodes/keyboard_codes.h"
 
+// ---docerion
+// type: source
+// title: POSIX keyboard code definitions
+// summary: Defines the KeyboardCode enum values used on POSIX and Fuchsia platforms.
+// ---
+
 #ifndef UI_EVENTS_KEYCODES_KEYBOARD_CODES_POSIX_H_
 #define UI_EVENTS_KEYCODES_KEYBOARD_CODES_POSIX_H_
 

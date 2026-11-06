@@ -1,0 +1,4 @@
+# Docerion header of capture_test_events.py.
+type: script
+title: Input event capture tool for log-based tests
+summary: Python tool that records evdev events from a device and writes them out as a mock kernel input_event array for tests.

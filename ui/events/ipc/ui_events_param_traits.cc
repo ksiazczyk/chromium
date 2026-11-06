@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC param traits write and read methods for UI events
+// summary: Generates IPC param traits write and read methods for UI event types by including the shared traits macros inside the IPC namespace.
+// ---
+
 #include "ui/events/ipc/ui_events_param_traits_macros.h"
 
 // Generate param traits write methods.

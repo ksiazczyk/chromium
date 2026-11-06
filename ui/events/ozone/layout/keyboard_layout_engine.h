@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardLayoutEngine interface for platform-independent key mapping
+// summary: Declares the abstract interface that maps physical key presses (DomCode and modifiers) to DomKey, character and KeyboardCode meanings and manages the active layout.
+// ---
+
 #ifndef UI_EVENTS_OZONE_LAYOUT_KEYBOARD_LAYOUT_ENGINE_H_
 #define UI_EVENTS_OZONE_LAYOUT_KEYBOARD_LAYOUT_ENGINE_H_
 

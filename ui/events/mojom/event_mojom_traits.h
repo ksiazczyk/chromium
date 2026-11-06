@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for UI event Mojo type converters and traits
+// summary: Declares TypeConverters and StructTraits for converting ui::Event, PointerDetails, and related enums to and from Mojom types.
+// ---
+
 #ifndef UI_EVENTS_MOJOM_EVENT_MOJOM_TRAITS_H_
 #define UI_EVENTS_MOJOM_EVENT_MOJOM_TRAITS_H_
 

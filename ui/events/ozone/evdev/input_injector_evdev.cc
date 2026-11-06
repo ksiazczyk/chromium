@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input injector implementation for evdev
+// summary: Implements InputInjectorEvdev, which injects synthetic mouse button, wheel, cursor move and key events into the evdev dispatcher.
+// ---
+
 #include "ui/events/ozone/evdev/input_injector_evdev.h"
 
 #include <utility>

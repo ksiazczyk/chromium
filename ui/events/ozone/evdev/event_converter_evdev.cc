@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventConverterEvdev base class implementation
+// summary: Implements the base evdev converter that watches device file descriptors and manages enablement and device state.
+// ---
+
 #include "ui/events/ozone/evdev/event_converter_evdev.h"
 
 #include <errno.h>

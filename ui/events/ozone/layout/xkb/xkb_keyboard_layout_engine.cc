@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XkbKeyboardLayoutEngine implementation
+// summary: Implements the XKB keyboard layout engine, mapping xkb keysyms and modifiers to DomKeys and Windows-style VKEYs and loading keymaps.
+// ---
+
 #include "ui/events/ozone/layout/xkb/xkb_keyboard_layout_engine.h"
 
 #include <stddef.h>

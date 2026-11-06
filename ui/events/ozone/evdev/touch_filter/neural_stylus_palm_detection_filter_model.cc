@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Neural stylus palm detection filter model implementation
+// summary: Implements the neural palm detection filter model config, including conversion of sample counts to equivalent time durations.
+// ---
+
 #include "ui/events/ozone/evdev/touch_filter/neural_stylus_palm_detection_filter_model.h"
 
 #include "base/logging.h"

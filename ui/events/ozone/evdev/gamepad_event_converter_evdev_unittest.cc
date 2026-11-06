@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gamepad event converter unit tests
+// summary: Unit tests for GamepadEventConverterEvdev covering event processing, gamepad state, and force feedback effect upload and playback.
+// ---
+
 
 #include "ui/events/ozone/evdev/gamepad_event_converter_evdev.h"
 
