@@ -9,6 +9,12 @@
 // These markers are read by the test runner script to generate test results.
 // It installs signal handlers to detect crashes.
 
+// ---docerion
+// type: source
+// title: Launcher that runs native gtest suites inside an Android app
+// summary: Sets up the environment for native tests in an Android application, writing START/PASSED/CRASH markers to a fifo and installing crash signal handlers.
+// ---
+
 #include <android/log.h>
 #include <errno.h>
 #include <fcntl.h>

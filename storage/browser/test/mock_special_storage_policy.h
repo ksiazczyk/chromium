@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockSpecialStoragePolicy header
+// summary: Declares a test fake of SpecialStoragePolicy with helpers to add or remove origins and notify policy changes.
+// ---
+
 #ifndef STORAGE_BROWSER_TEST_MOCK_SPECIAL_STORAGE_POLICY_H_
 #define STORAGE_BROWSER_TEST_MOCK_SPECIAL_STORAGE_POLICY_H_
 

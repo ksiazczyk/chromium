@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test file system backend header
+// summary: Declares TestFileSystemBackend, a FileSystemBackend for tests that uses LocalFileUtil and stores data files under a given directory, with observer and validator hooks.
+// ---
+
 #ifndef STORAGE_BROWSER_TEST_TEST_FILE_SYSTEM_BACKEND_H_
 #define STORAGE_BROWSER_TEST_TEST_FILE_SYSTEM_BACKEND_H_
 

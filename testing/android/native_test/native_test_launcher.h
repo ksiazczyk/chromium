@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header declaring crash handler installation for native tests
+// summary: Declares InstallHandlers, which installs the signal handlers used to detect crashes while running native tests on Android.
+// ---
+
 #ifndef TESTING_ANDROID_NATIVE_TEST_NATIVE_TEST_LAUNCHER_H_
 #define TESTING_ANDROID_NATIVE_TEST_NATIVE_TEST_LAUNCHER_H_
 

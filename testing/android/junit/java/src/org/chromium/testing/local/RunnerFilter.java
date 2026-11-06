@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RunnerFilter
+// summary: JUnit filter that selects tests based on the Runner class given in the test class's RunWith annotation.
+// ---
+
 package org.chromium.testing.local;
 
 import org.junit.runner.Description;

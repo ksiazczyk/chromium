@@ -1,0 +1,4 @@
+# Docerion header of gtest_mac.mm.
+type: source
+title: GTest Mac assertion helper implementation
+summary: Implements the Objective-C comparison helpers behind the EXPECT_NSEQ and EXPECT_NSNE GTest macros, compiled for Mac and iOS with or without ARC.

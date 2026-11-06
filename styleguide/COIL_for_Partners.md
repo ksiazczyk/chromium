@@ -1,3 +1,9 @@
+---
+type: guide
+title: Chrome OS Inclusive Language for Partners
+summary: Explains Chrome OS inclusive language expectations for partners, including replacing oppressive terms, schematic net naming, and pre-submit checks.
+---
+
 # Chrome OS Inclusive Language
 
 April 22, 2021

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS coverage utility header
+// summary: Declares coverage_util::ConfigureCoverageReportPath, which sets the coverage file path in iOS debug builds.
+// ---
+
 #ifndef TESTING_COVERAGE_UTIL_IOS_H_
 #define TESTING_COVERAGE_UTIL_IOS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock blink BytesProvider for blob tests
+// summary: Declares a mock blink::mojom::BytesProvider that returns fixed bytes via reply, stream or file and tracks request counts.
+// ---
+
 #ifndef STORAGE_BROWSER_TEST_MOCK_BYTES_PROVIDER_H_
 #define STORAGE_BROWSER_TEST_MOCK_BYTES_PROVIDER_H_
 

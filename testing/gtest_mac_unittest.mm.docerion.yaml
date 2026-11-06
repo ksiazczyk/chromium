@@ -1,0 +1,4 @@
+# Docerion header of gtest_mac_unittest.mm.
+type: test
+title: Unit tests for GTest Mac assertion macros
+summary: Unit tests verifying the NSEQ/NSNE comparators and StringDescription for NSString, NSNumber, NSRect, NSPoint and NSRange, built as part of Chromium's unit_tests.

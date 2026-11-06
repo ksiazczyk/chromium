@@ -9,6 +9,12 @@
 // These markers are read by the test runner script to generate test results.
 // It installs signal handlers to detect crashes.
 
+// ---docerion
+// type: source
+// title: Native support for Android browser test startup and teardown
+// summary: Implements JNI hooks that track Java async startup completion and activity teardown for Android browser tests, used to coordinate test execution.
+// ---
+
 #include "base/android/jni_android.h"
 
 // Must come after all headers that specialize FromJniType() / ToJniType().

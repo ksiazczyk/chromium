@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestFileSystemBackend implementation
+// summary: Implements a test file system backend with a stub file util and quota util that supports a single origin for tests.
+// ---
+
 #include "storage/browser/test/test_file_system_backend.h"
 
 #include <set>

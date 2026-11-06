@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header declaring JNI registration for the main runner
+// summary: Declares RegisterMainRunnerJni, which registers the JNI bindings used to run the native test main function from Java.
+// ---
+
 #ifndef TESTING_ANDROID_NATIVE_TEST_MAIN_RUNNER_H_
 #define TESTING_ANDROID_NATIVE_TEST_MAIN_RUNNER_H_
 

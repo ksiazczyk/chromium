@@ -1,0 +1,4 @@
+# Docerion header of test_env_test_script.py.
+type: test
+title: Signal test helper for test_env unit tests
+summary: Test fixture script that prints received signals and can spawn a leaked child process for test_env unittest scenarios.

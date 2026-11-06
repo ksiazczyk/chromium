@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android native test utility header
+// summary: Declares helpers for running gtest tests inside an APK, including argument parsing functions and a ScopedMainEntryLogger that logs test entry and flushes stdout and stderr.
+// ---
+
 #ifndef TESTING_ANDROID_NATIVE_TEST_NATIVE_TEST_UTIL_H_
 #define TESTING_ANDROID_NATIVE_TEST_NATIVE_TEST_UTIL_H_
 

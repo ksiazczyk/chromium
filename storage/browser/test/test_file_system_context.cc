@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test file system context factory implementations
+// summary: Implements factory functions that build FileSystemContext instances for testing, with additional providers, automounters, and incognito variants.
+// ---
+
 #include "storage/browser/test/test_file_system_context.h"
 
 #include <memory>

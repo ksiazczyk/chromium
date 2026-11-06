@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI runner that invokes the native test main function
+// summary: Implements the JNI MainRunner entry point that converts a Java command line into argv and calls the wrapped test binary's main once per process.
+// ---
+
 #include <vector>
 
 #include "base/android/jni_array.h"

@@ -1,3 +1,12 @@
+---
+type: reference
+title: Null checking with NullAway
+summary: Documents how Chromium enforces null checking with NullAway, including its configuration, nullness annotations, migration progress, and known shortcomings.
+relations:
+  - references /build/android/docs/static_analysis.md
+  - references /tools/android/errorprone_plugin/src/org/chromium/tools/errorprone/plugin/ChromeNullAwayLibraryModel.java
+---
+
 # Null Checking
 
 Chromium uses [NullAway] to enforce [JSpecify]-style `@Nullable` annotations.

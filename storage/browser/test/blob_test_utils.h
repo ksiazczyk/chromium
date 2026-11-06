@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Blob test utilities declaration
+// summary: Declares the BlobToString and RegisterBlobWithContents helpers used to inspect and create blobs in storage tests.
+// ---
+
 #ifndef STORAGE_BROWSER_TEST_BLOB_TEST_UTILS_H_
 #define STORAGE_BROWSER_TEST_BLOB_TEST_UTILS_H_
 

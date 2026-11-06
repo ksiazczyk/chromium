@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake progress client declaration
+// summary: Declares a fake blink::mojom::ProgressClient that tracks total size and call count for verification in tests.
+// ---
+
 #ifndef STORAGE_BROWSER_TEST_FAKE_PROGRESS_CLIENT_H_
 #define STORAGE_BROWSER_TEST_FAKE_PROGRESS_CLIENT_H_
 

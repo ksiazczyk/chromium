@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestListInstrumentationRunListener for Android instrumentation test listing
+// summary: JUnit run listener for Android instrumentation that reports each test with its class and method annotations as JSON bundles, and flags classes not run by the base runner.
+// ---
+
 package org.chromium.testing;
 
 import android.os.Bundle;

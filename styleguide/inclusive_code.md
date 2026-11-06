@@ -1,3 +1,9 @@
+---
+type: guide
+title: Inclusive Chromium code guidelines
+summary: Guidelines for keeping Chromium code gender-neutral and racially neutral, with suggestions, example changelists, and search tools.
+---
+
 # Inclusive Chromium code
 
 ## Why this is important

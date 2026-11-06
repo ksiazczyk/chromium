@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake blob data handle implementation
+// summary: Implements a synchronous BlobDataItem::DataHandle that serves body and side data from stored strings for blob tests.
+// ---
+
 #include "storage/browser/test/fake_blob_data_handle.h"
 
 #include "base/compiler_specific.h"

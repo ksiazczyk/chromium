@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeBrowserTestActivity
+// summary: Abstract FragmentActivity base class for running native browser tests, handling command line flags, user data directory setup, and browser process initialization.
+// ---
+
 package org.chromium.native_test;
 
 import android.os.Bundle;

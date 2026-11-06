@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File system utility declarations
+// summary: Declares VirtualPath helpers and functions to parse filesystem URLs, compute root URIs and file system names for the storage component.
+// ---
+
 #ifndef STORAGE_COMMON_FILE_SYSTEM_FILE_SYSTEM_UTIL_H_
 #define STORAGE_COMMON_FILE_SYSTEM_FILE_SYSTEM_UTIL_H_
 

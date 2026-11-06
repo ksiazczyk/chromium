@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformTest base class for unit tests
+// summary: Defines a PlatformTest GTest base class that hooks platform-specific per-test setup, such as a Mac autorelease pool, falling back to plain testing::Test elsewhere.
+// ---
+
 #ifndef TESTING_PLATFORM_TEST_H_
 #define TESTING_PLATFORM_TEST_H_
 

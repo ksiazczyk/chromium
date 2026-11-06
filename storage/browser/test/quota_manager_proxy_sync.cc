@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QuotaManagerProxySync implementation
+// summary: Implements a helper that wraps QuotaManagerProxy to fetch bucket information synchronously in tests.
+// ---
+
 #include "storage/browser/test/quota_manager_proxy_sync.h"
 
 #include "base/run_loop.h"

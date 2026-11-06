@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock file update observer implementation
+// summary: Implements a mock file update observer that tracks start and end update counts per URL and verifies update pairing in tests.
+// ---
+
 #include "storage/browser/test/mock_file_update_observer.h"
 #include "base/task/single_thread_task_runner.h"
 #include "testing/gtest/include/gtest/gtest.h"

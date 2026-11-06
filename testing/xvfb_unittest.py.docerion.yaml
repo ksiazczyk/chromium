@@ -1,0 +1,4 @@
+# Docerion header of xvfb_unittest.py.
+type: test
+title: Unit tests for the xvfb test runner
+summary: Unit tests that launch xvfb_test_script.py through xvfb.py to verify display setup, environment handling and signal forwarding.

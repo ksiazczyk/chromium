@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileSystemType enum definitions
+// summary: Defines the FileSystemType enum with public and internal file system types shared between Chrome and Blink.
+// ---
+
 #ifndef STORAGE_COMMON_FILE_SYSTEM_FILE_SYSTEM_TYPES_H_
 #define STORAGE_COMMON_FILE_SYSTEM_FILE_SYSTEM_TYPES_H_
 

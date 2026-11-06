@@ -1,0 +1,4 @@
+# Docerion header of run_pytype.py.
+type: script
+title: Run pytype on //testing code
+summary: Helper script that runs the pytype type checker over selected //testing directories such as unexpected_passes_common and flake_suppressor_common.

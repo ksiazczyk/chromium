@@ -1,3 +1,11 @@
+---
+type: reference
+title: CHECK(), DCHECK() and NOTREACHED()
+summary: Explains when to use CHECK, DCHECK, and NOTREACHED to verify invariants and how to handle failures beyond Chromium's control.
+relations:
+  - references /docs/security/mojo.md
+---
+
 # CHECK(), DCHECK() and NOTREACHED()
 
 `CHECK()`, `DCHECK()` and `NOTREACHED()` are all used to ensure that invariants

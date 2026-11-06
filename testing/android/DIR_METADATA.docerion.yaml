@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Android testing directory metadata
+summary: Declares the Monorail and Buganizer components and OS used for tracking issues in the Android testing directory.

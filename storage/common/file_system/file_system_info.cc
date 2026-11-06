@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileSystemInfo implementation
+// summary: Implements the default and parameterized constructors and destructor of the FileSystemInfo struct in the storage namespace.
+// ---
+
 #include "storage/common/file_system/file_system_info.h"
 
 namespace storage {

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA
+summary: Declares the bug tracker components used for issues in the storage database directory.

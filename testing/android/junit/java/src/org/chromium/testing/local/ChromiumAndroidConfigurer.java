@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromiumAndroidConfigurer
+// summary: Robolectric AndroidConfigurer service that excludes packages and classes from instrumentation based on JSON config to avoid per-shadow class loaders.
+// ---
+
 package org.chromium.testing.local;
 
 import org.json.JSONArray;

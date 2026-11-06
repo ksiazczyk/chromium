@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JunitTestArgParser
+// summary: Parses command-line flags such as package, runner and gtest filters, JSON config and output paths for JunitTestMain.
+// ---
+
 package org.chromium.testing.local;
 
 import java.io.IOException;

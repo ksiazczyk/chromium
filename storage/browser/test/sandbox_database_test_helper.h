@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sandbox database test helper header
+// summary: Declares the CorruptDatabase and DeleteDatabaseFile helpers used to damage LevelDB files in storage tests.
+// ---
+
 #ifndef STORAGE_BROWSER_TEST_SANDBOX_DATABASE_TEST_HELPER_H_
 #define STORAGE_BROWSER_TEST_SANDBOX_DATABASE_TEST_HELPER_H_
 

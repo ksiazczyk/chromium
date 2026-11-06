@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RunnerFilterTest
+// summary: Unit tests verifying that RunnerFilter matches tests by their JUnit runner class, including the no-filter and class-not-found cases.
+// ---
+
 package org.chromium.testing.local;
 
 import org.junit.Assert;

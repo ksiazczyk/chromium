@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeBrowserTest
+// summary: Helper for browser tests running inside a Java Activity, providing browser test flags, private data directory cleanup, and startup and teardown signaling to native code.
+// ---
+
 package org.chromium.native_test;
 
 import org.jni_zero.CalledByNative;

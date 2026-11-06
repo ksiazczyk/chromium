@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GtestComputer
+// summary: JUnit Computer that wraps class runners to log the start and end of test suites in googletest style.
+// ---
+
 package org.chromium.testing.local;
 
 import org.junit.runner.Computer;

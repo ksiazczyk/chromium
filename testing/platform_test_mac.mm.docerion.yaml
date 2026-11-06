@@ -1,0 +1,4 @@
+# Docerion header of platform_test_mac.mm.
+type: source
+title: Mac implementation of PlatformTest autorelease pool
+summary: Implements PlatformTest on macOS by pushing and popping an Objective-C autorelease pool around each test case via the runtime interface.

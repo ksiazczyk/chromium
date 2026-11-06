@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestListComputer
+// summary: JUnit Computer that collects test descriptions and computes Robolectric configurations such as shadows, LooperMode and GraphicsMode for test listing and running.
+// ---
+
 package org.chromium.testing.local;
 
 import org.json.JSONArray;

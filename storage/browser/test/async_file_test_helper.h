@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Async file test helper class declaration
+// summary: Declares a helper class that performs asynchronous file system operations synchronously in tests, covering copy, move, remove, directory, file creation and metadata calls.
+// ---
+
 #ifndef STORAGE_BROWSER_TEST_ASYNC_FILE_TEST_HELPER_H_
 #define STORAGE_BROWSER_TEST_ASYNC_FILE_TEST_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeUnitTestNativeActivity
+// summary: NativeActivity that hosts native unit tests, forcing the test to run in a sub thread because NativeActivity processes Looper messages in native code.
+// ---
+
 package org.chromium.native_test;
 
 import android.app.NativeActivity;

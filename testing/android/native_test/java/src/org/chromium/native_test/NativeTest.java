@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeTest
+// summary: Core helper that runs native tests inside an Activity or NativeActivity, parsing intent arguments, reporting test status, and handling environment setup and crashes.
+// ---
+
 package org.chromium.native_test;
 
 import android.app.Activity;

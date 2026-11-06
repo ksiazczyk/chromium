@@ -1,3 +1,11 @@
+---
+type: reference
+title: Using Const Correctly
+summary: Guidance on marking methods const and avoiding returning non-const handles to objects from const methods.
+relations:
+  - references /styleguide/c++/c++-dos-and-donts.md
+---
+
 # Using Const Correctly
 
 The **TLDR**, as stated in [C++ Dos and Don'ts](c++-dos-and-donts.md):

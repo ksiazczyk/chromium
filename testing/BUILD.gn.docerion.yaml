@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the testing directory
+summary: Defines GN targets including empty_main, shared test script data, test_env and xvfb unittests, perf test data, and pytype groups.

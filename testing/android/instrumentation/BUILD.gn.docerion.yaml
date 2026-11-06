@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Instrumentation test runner build targets
+summary: Defines GN targets for the Android test list instrumentation run listener library and its mergeable runner and permissions manifests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quota padding key implementation
+// summary: Implements computation of random and stable padding sizes for opaque response bodies used in storage quota reporting, keyed by URL, site, time, method and side data.
+// ---
+
 #include "storage/common/quota/padding_key.h"
 
 #include <inttypes.h>

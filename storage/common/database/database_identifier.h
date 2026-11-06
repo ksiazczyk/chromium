@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Database identifier API header
+// summary: Declares functions to derive database identifiers from origins and to parse identifiers back into origins.
+// ---
+
 #ifndef STORAGE_COMMON_DATABASE_DATABASE_IDENTIFIER_H_
 #define STORAGE_COMMON_DATABASE_DATABASE_IDENTIFIER_H_
 

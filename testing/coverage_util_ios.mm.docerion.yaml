@@ -1,0 +1,4 @@
+# Docerion header of coverage_util_ios.mm.
+type: source
+title: iOS coverage report path implementation
+summary: Configures the LLVM profraw coverage file location for iOS simulator debug builds and logs the resulting path.

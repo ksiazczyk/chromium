@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Java styleguide directory metadata
+summary: Sets the Monorail component, team email, and Buganizer component for issues filed against the Java styleguide directory.

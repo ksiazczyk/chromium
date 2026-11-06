@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped text blob helper implementation
+// summary: Implements ScopedTextBlob, which registers a finished text blob in a blob storage context and exposes a handle to it.
+// ---
+
 #include "storage/browser/test/mock_blob_util.h"
 
 #include <memory>

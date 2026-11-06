@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unit test entry point for storage/common
+// summary: Main function that initializes Mojo and launches the storage/common unit tests through base::TestSuite and base::LaunchUnitTests.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/test/launcher/unit_test_launcher.h"
 #include "base/test/test_suite.h"

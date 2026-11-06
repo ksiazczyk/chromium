@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test file system options implementations
+// summary: Implements helpers that create FileSystemOptions for incognito mode and for allowing or disallowing file access in tests.
+// ---
+
 #include "storage/browser/test/test_file_system_options.h"
 
 #include <string>

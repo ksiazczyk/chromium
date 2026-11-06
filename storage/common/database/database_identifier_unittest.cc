@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Database identifier unit tests
+// summary: Verifies origin-to-identifier encoding for default ports, file and unique schemes, IPv6 hosts, and per-character hostname handling.
+// ---
+
 #include "storage/common/database/database_identifier.h"
 
 #include <stddef.h>

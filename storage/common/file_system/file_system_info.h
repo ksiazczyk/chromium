@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileSystemInfo struct declaration
+// summary: Declares the FileSystemInfo struct carrying name, root URL and mount type that Blink needs to create a DOMFileSystem.
+// ---
+
 #ifndef STORAGE_COMMON_FILE_SYSTEM_FILE_SYSTEM_INFO_H_
 #define STORAGE_COMMON_FILE_SYSTEM_FILE_SYSTEM_INFO_H_
 

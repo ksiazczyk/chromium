@@ -1,3 +1,12 @@
+---
+type: reference
+title: Chromium Objective-C and Objective-C++ style guide
+summary: 'Style rules for Chromium Objective-C and Objective-C++ code, covering line length, file naming, formatting, #pragma mark grouping, and import and nullability conventions.'
+relations:
+  - references /styleguide/c++/c++.md
+  - references /styleguide/styleguide.md
+---
+
 # Chromium Objective-C and Objective-C++ style guide
 
 *For other languages, please see the

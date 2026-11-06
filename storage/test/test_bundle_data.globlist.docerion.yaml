@@ -1,0 +1,4 @@
+# Docerion header of test_bundle_data.globlist.
+type: config
+title: Glob patterns for regenerating the test bundle file list
+summary: Specifies glob patterns that the update script uses to regenerate test_bundle_data.filelist.

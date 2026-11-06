@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quota padding key header
+// summary: Declares the storage namespace API for deciding which response types need padding and for computing random or stable padding values for quota purposes.
+// ---
+
 #ifndef STORAGE_COMMON_QUOTA_PADDING_KEY_H_
 #define STORAGE_COMMON_QUOTA_PADDING_KEY_H_
 

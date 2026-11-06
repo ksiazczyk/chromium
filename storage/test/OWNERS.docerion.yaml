@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for storage/test
+summary: Allows any contributor to update the test_bundle_data.filelist file.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PackageFilterTest
+// summary: Unit tests verifying that PackageFilter accepts or rejects test descriptions based on their Java package name.
+// ---
+
 package org.chromium.testing.local;
 
 import org.junit.Assert;

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: File system directory metadata
+summary: Declares the Blink>Storage>FileSystem monorail component and Buganizer component ID used for bug tracking in this directory.

@@ -1,0 +1,4 @@
+# Docerion header of shadows-allowlist.txt.
+type: config
+title: Robolectric shadow allowlist
+summary: Allowlist specifying which classes may be shadowed with Robolectric @Shadow, disallowing shadows of Chromium and Chrome-authored code.

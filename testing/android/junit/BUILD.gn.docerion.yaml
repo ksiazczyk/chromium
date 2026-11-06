@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Android JUnit Robolectric build configuration
+summary: GN build file defining the junit_test_support Robolectric library with local test runner classes and the junit_unit_tests binary for Chromium's Android JUnit testing.

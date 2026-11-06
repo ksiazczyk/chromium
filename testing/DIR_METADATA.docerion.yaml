@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for issue tracking
+summary: Maps the testing directory to the Test monorail component, the infra-dev team email, and a Buganizer component.

@@ -1,0 +1,4 @@
+# Docerion header of test_bundle_data.filelist.
+type: data
+title: Generated file list for the iOS test bundle
+summary: Auto-generated list of test data files bundled for iOS tests; regenerate via the update script instead of editing.

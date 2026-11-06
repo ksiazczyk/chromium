@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Quota Database Version 10 Schema
+-- summary: SQL schema and seed data for version 10 of the Quota Database, creating buckets and meta tables with sample rows and indexes for storage tests.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 
 BEGIN TRANSACTION;

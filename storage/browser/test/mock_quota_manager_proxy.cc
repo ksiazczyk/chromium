@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock quota manager proxy implementation
+// summary: Implements a mock QuotaManagerProxy that forwards bucket calls to MockQuotaManager and records access and modification notifications.
+// ---
+
 #include "storage/browser/test/mock_quota_manager_proxy.h"
 
 #include <utility>

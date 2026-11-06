@@ -1,3 +1,11 @@
+---
+type: reference
+title: ECMAScript Features in Chromium
+summary: Extends the Chromium web style guide by listing which ES2015 and later JavaScript features are allowed, banned, or still under discussion.
+relations:
+  - references /styleguide/web/web.md
+---
+
 <!-- Feature template markdown:
 ### Header
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock blob registry delegate implementation
+// summary: Implements the mock blob registry delegate, returning configurable results for file read and origin data access checks.
+// ---
+
 #include "storage/browser/test/mock_blob_registry_delegate.h"
 #include "base/functional/callback_helpers.h"
 
