@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual cueing feature flags header
+// summary: Declares feature flags and parameters for Gemini contextual suggestions cues, including UI mode, classifier options, and frequency cap thresholds.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_CONTEXTUAL_CUEING_FEATURES_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_CONTEXTUAL_CUEING_FEATURES_H_
 

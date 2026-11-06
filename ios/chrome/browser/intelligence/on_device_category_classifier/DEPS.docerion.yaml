@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for on-device category classifier
+summary: Declares the directories and headers that code in the on_device_category_classifier directory is allowed to include.

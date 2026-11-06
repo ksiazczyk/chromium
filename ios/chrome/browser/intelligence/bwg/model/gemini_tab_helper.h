@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini Tab Helper Header
+// summary: Declares GeminiTabHelper, a per-tab helper managing Gemini contextual eligibility, page context generation, and zero-state suggestions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_BWG_MODEL_GEMINI_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_BWG_MODEL_GEMINI_TAB_HELPER_H_
 

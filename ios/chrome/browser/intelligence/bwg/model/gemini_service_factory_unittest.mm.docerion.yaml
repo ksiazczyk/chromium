@@ -1,0 +1,4 @@
+# Docerion header of gemini_service_factory_unittest.mm.
+type: test
+title: Gemini service factory unit tests
+summary: Unit tests verifying service creation with the feature enabled, null results when disabled, and no service for off-the-record profiles.

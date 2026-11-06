@@ -1,0 +1,4 @@
+# Docerion header of gemini_service_observer_bridge.mm.
+type: source
+title: GeminiServiceObserverBridge implementation
+summary: Implements GeminiServiceObserverBridge, forwarding Gemini eligibility change notifications to the owning Objective-C object.

@@ -1,0 +1,4 @@
+# Docerion header of gemini_configuration.mm.
+type: source
+title: Implementation of GeminiConfiguration
+summary: Implements the GeminiConfiguration property for the unique PageContext pointer, moving ownership out on each getter call.

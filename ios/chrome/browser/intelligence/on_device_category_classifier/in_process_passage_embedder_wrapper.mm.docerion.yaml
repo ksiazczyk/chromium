@@ -1,0 +1,4 @@
+# Docerion header of in_process_passage_embedder_wrapper.mm.
+type: source
+title: In-process passage embedder wrapper implementation
+summary: Implements the passage embedder wrapper, binding the embedder service, configuring execution parameters, loading models, and generating passive-priority embeddings.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini tab picker handler interface
+// summary: Declares the handler that configures and presents the Tab Picker UI in response to Gemini tab picker actions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_BWG_MODEL_GEMINI_TAB_PICKER_HANDLER_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_BWG_MODEL_GEMINI_TAB_PICKER_HANDLER_H_
 

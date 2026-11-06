@@ -1,0 +1,4 @@
+# Docerion header of gemini_camera_handler.mm.
+type: source
+title: Gemini camera handler implementation
+summary: Implements camera opening with hardware and permission checks, image picker presentation, first-responder handling, and Gemini camera flow metrics recording.

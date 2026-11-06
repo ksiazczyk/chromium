@@ -1,3 +1,13 @@
+---
+type: readme
+title: Gemini UI Layer
+summary: Documents the shared Gemini (BWG) UI components, helper utilities and test coverage of this directory.
+relations:
+  - documents /ios/chrome/browser/intelligence/bwg/ui/gemini_container_consumer.h
+  - documents /ios/chrome/browser/intelligence/bwg/ui/gemini_container_mutator.h
+  - documents /ios/chrome/browser/intelligence/bwg/ui/gemini_container_view_controller.h
+---
+
 # Gemini UI Layer
 *Last updated: 2026*
 

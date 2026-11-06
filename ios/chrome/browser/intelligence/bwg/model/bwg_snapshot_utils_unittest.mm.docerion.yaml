@@ -1,0 +1,4 @@
+# Docerion header of bwg_snapshot_utils_unittest.mm.
+type: test
+title: Unit tests for BWG snapshot utils
+summary: Tests GetCroppedFullscreenSnapshot behavior for nil views, views without windows or content area guides, and successful snapshot cropping.

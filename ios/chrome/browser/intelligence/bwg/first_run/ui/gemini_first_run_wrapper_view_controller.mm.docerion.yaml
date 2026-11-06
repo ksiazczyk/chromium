@@ -1,0 +1,4 @@
+# Docerion header of gemini_first_run_wrapper_view_controller.mm.
+type: source
+title: Gemini first run wrapper view controller implementation
+summary: Implements the Gemini first run wrapper handling promo and consent presentation, logo animation, and button configuration.

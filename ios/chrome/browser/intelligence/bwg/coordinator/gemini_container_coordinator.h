@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GeminiContainerCoordinator interface
+// summary: Declares the coordinator managing presentation and lifecycle of the Gemini container, including dismissal, minimize and web modal display.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_BWG_COORDINATOR_GEMINI_CONTAINER_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_BWG_COORDINATOR_GEMINI_CONTAINER_COORDINATOR_H_
 

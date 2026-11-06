@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature flag declarations for iOS intelligence features
+// summary: Declares feature flags and accessor functions for Gemini, page action menu, proactive suggestions, smart tab grouping, and related intelligence features.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_FEATURES_FEATURES_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_FEATURES_FEATURES_H_
 

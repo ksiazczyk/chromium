@@ -1,0 +1,4 @@
+# Docerion header of gemini_constants.mm.
+type: source
+title: Gemini constants implementation
+summary: Defines string keys, Lottie animation names, light and dark mode color providers, accessibility identifiers, and consent link URLs for Gemini.

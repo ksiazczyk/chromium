@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini first run coordinator interface
+// summary: Declares the coordinator that manages the Gemini first run experience, including entry point, first run type, and completion handling.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_BWG_FIRST_RUN_COORDINATOR_GEMINI_FIRST_RUN_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_BWG_FIRST_RUN_COORDINATOR_GEMINI_FIRST_RUN_COORDINATOR_H_
 

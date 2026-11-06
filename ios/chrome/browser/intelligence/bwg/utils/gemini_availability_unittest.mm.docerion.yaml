@@ -1,0 +1,4 @@
+# Docerion header of gemini_availability_unittest.mm.
+type: test
+title: Gemini availability unit tests
+summary: Unit tests verifying Gemini entry point visibility and enablement across sign-in states, policies, regions, and quota conditions.

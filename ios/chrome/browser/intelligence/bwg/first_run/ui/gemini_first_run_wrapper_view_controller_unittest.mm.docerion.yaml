@@ -1,0 +1,4 @@
+# Docerion header of gemini_first_run_wrapper_view_controller_unittest.mm.
+type: test
+title: Gemini first run wrapper view controller unit tests
+summary: Unit tests for the wrapper view controller verifying promo and consent flows with a mocked mutator and histogram checks.

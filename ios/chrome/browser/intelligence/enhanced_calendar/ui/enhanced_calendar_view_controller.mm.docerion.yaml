@@ -1,0 +1,4 @@
+# Docerion header of enhanced_calendar_view_controller.mm.
+type: source
+title: Enhanced Calendar view controller implementation
+summary: Implements the bottom sheet with localized title and subtitle, a wand-and-sparkles header symbol, a loading throbber, and cancel actions routed to the mutator.

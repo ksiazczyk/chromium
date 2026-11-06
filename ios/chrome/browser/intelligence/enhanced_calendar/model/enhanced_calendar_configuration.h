@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enhanced Calendar configuration class declarations
+// summary: Declares CalendarEventConfiguration and EnhancedCalendarConfiguration classes holding the data needed to create calendar events via the add-to-calendar feature.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ENHANCED_CALENDAR_MODEL_ENHANCED_CALENDAR_CONFIGURATION_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ENHANCED_CALENDAR_MODEL_ENHANCED_CALENDAR_CONFIGURATION_H_
 

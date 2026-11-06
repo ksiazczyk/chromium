@@ -1,0 +1,4 @@
+# Docerion header of gemini_scroll_observer.mm.
+type: source
+title: Gemini scroll observer implementation
+summary: Implements the scroll observer that invokes its stored callback when the web view scroll view will begin dragging.

@@ -1,0 +1,4 @@
+# Docerion header of gemini_web_modal_coordinator_unittest.mm.
+type: test
+title: Gemini web modal coordinator unit tests
+summary: Unit tests for the web modal coordinator covering URL allowlisting, presentation, dismissal, and link opening behavior.

@@ -1,0 +1,4 @@
+# Docerion header of gemini_first_run_carousel_slide_view.mm.
+type: source
+title: Gemini first run carousel slide view implementation
+summary: Implements the carousel slide model and view, supporting separate light/dark and RTL Lottie assets or dynamic theme coloring with branded title styling.

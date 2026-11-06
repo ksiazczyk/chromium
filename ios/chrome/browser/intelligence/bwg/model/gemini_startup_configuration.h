@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini Startup Configuration Header
+// summary: Declares GeminiStartupConfiguration, a class holding the data needed to configure Gemini at startup, such as the authentication service and feature eligibility flags.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_BWG_MODEL_GEMINI_STARTUP_CONFIGURATION_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_BWG_MODEL_GEMINI_STARTUP_CONFIGURATION_H_
 

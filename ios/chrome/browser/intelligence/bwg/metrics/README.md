@@ -1,3 +1,13 @@
+---
+type: readme
+title: Gemini Metrics & Telemetry Layer
+summary: Documents the telemetry areas of the Gemini metrics layer, covering onboarding consent, prompt statistics, latency, session engagement, camera permissions, and a file index.
+relations:
+  - documents /ios/chrome/browser/intelligence/bwg/metrics/gemini_metrics.h
+  - documents /ios/chrome/browser/intelligence/bwg/metrics/gemini_metrics_unittest.mm
+  - documents /ios/chrome/browser/intelligence/bwg/metrics/BUILD.gn
+---
+
 # Gemini Metrics & Telemetry Layer
 *Last updated: May 2026*
 

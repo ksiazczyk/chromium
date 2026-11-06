@@ -1,0 +1,4 @@
+# Docerion header of gemini_startup_configuration.mm.
+type: source
+title: Gemini Startup Configuration Implementation
+summary: Implements the GeminiStartupConfiguration class that carries the startup settings for Gemini.

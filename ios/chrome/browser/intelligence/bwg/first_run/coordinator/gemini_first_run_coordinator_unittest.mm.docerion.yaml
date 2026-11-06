@@ -1,0 +1,4 @@
+# Docerion header of gemini_first_run_coordinator_unittest.mm.
+type: test
+title: Unit tests for the Gemini first run coordinator
+summary: Tests the coordinator's first run flow behavior, including view controller presentation and Live FRE outcome metrics.

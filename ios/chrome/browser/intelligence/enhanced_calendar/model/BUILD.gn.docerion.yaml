@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for Enhanced Calendar model
+summary: Defines GN source sets for the Enhanced Calendar service, configuration, and unit tests along with their sources and dependencies.

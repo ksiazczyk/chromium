@@ -1,0 +1,4 @@
+# Docerion header of gemini_service_factory.mm.
+type: source
+title: Gemini service factory implementation
+summary: Builds GeminiServiceImpl per profile when the Page Action Menu feature is enabled, depending on authentication, identity, and optimization guide services.

@@ -1,0 +1,4 @@
+# Docerion header of gemini_session_metrics_manager.mm.
+type: source
+title: Gemini session metrics manager implementation
+summary: Implements tracking of session startup latency, minimized duration, dismissal state, and tab switch counts for Gemini session metrics.

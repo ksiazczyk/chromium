@@ -1,0 +1,4 @@
+# Docerion header of gemini_link_opening_handler_unittest.mm.
+type: test
+title: GeminiLinkOpeningHandler unit tests
+summary: Unit tests for GeminiLinkOpeningHandler covering new-tab URL loading, closing presented views, and immersive learning card behavior using fake loaders and mocks.

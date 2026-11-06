@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enhanced Calendar mutator protocol
+// summary: Declares the Objective-C protocol the view controller uses to tell the mediator to cancel in-flight Enhanced Calendar requests and dismiss the bottom sheet.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ENHANCED_CALENDAR_UI_ENHANCED_CALENDAR_MUTATOR_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ENHANCED_CALENDAR_UI_ENHANCED_CALENDAR_MUTATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini consent provider delegate protocol
+// summary: Defines the GeminiSetting enum and a delegate protocol exposing Gemini Live consent, intro, microphone access, and boolean setting state to the Gemini Live SDK.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_BWG_MODEL_GEMINI_CONSENT_PROVIDER_DELEGATE_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_BWG_MODEL_GEMINI_CONSENT_PROVIDER_DELEGATE_H_
 

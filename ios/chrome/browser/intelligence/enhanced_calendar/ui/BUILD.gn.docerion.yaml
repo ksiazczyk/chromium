@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Enhanced Calendar UI build definition
+summary: Defines the GN source_set for the Enhanced Calendar bottom sheet UI, listing its Objective-C sources and dependencies on strings, shared UI, and add-to-calendar provider targets.

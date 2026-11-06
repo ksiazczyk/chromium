@@ -1,0 +1,4 @@
+# Docerion header of enhanced_calendar_service_impl_unittest.mm.
+type: test
+title: Enhanced Calendar service unit tests
+summary: Tests the Enhanced Calendar service implementation using a fake Optimization Guide service, fake web state, and identity test utilities.

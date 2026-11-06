@@ -1,0 +1,4 @@
+# Docerion header of gemini_suggestion_handler_unittest.mm.
+type: test
+title: Gemini Suggestion Handler Unit Tests
+summary: Unit tests for GeminiSuggestionHandler covering missing active web states, cached suggestions, and URL handling.

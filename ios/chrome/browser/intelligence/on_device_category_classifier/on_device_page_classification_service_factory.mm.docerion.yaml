@@ -1,0 +1,4 @@
+# Docerion header of on_device_page_classification_service_factory.mm.
+type: source
+title: On-device page classification service factory implementation
+summary: Implements the profile-keyed factory that builds OnDevicePageClassificationService instances on top of the in-process category classification service.

@@ -1,0 +1,4 @@
+# Docerion header of gemini_actuation_data_types.mm.
+type: source
+title: Gemini actuation data types implementation
+summary: Implements Objective-C data types for Gemini actuation, including yield actions, actuation requests, and responses with protobuf serialization helpers.

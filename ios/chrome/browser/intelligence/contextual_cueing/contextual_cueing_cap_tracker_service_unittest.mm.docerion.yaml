@@ -1,0 +1,4 @@
+# Docerion header of contextual_cueing_cap_tracker_service_unittest.mm.
+type: test
+title: Contextual cueing cap tracker service unit tests
+summary: Unit tests covering nudge eligibility decisions including URL validity, page and time spacing, global and per-origin caps, and backoff cooldowns.

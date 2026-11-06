@@ -1,0 +1,4 @@
+# Docerion header of gemini_consent_provider_handler.mm.
+type: source
+title: Gemini consent provider handler implementation
+summary: Implements consent, intro, microphone, and closed-captioning checks by reading and observing Chrome preferences and AVFoundation microphone authorization status.

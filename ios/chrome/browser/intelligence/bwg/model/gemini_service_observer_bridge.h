@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GeminiServiceObserverBridge header
+// summary: Defines the GeminiServiceObserving Objective-C protocol and the GeminiServiceObserverBridge C++ class that forwards Gemini eligibility changes to Objective-C owners.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_BWG_MODEL_GEMINI_SERVICE_OBSERVER_BRIDGE_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_BWG_MODEL_GEMINI_SERVICE_OBSERVER_BRIDGE_H_
 

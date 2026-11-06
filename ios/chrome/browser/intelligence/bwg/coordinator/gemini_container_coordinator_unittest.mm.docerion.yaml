@@ -1,0 +1,4 @@
+# Docerion header of gemini_container_coordinator_unittest.mm.
+type: test
+title: GeminiContainerCoordinator unit tests
+summary: Unit tests for the Gemini container coordinator covering presentation, dismissal and web modal behavior with mocked command handlers.

@@ -1,0 +1,4 @@
+# Docerion header of contextual_cueing_cap_tracker_service.mm.
+type: source
+title: Contextual cueing cap tracker service implementation
+summary: Implements frequency capping and backoff logic for contextual cues, loading configuration from feature parameters and persisting vertical UI state in preferences.

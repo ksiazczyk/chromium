@@ -1,0 +1,4 @@
+# Docerion header of gemini_web_modal_coordinator.mm.
+type: source
+title: Gemini web modal coordinator implementation
+summary: Implements the modal web sheet using a detached WebState, allowing only HTTPS URLs on Google-owned domains.

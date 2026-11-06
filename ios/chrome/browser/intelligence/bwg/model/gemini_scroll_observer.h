@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini scroll observer interface
+// summary: Declares GeminiScrollObserver, which runs a caller-supplied callback when web view scroll dragging begins.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_BWG_MODEL_GEMINI_SCROLL_OBSERVER_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_BWG_MODEL_GEMINI_SCROLL_OBSERVER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of gemini_consent_configuration_unittest.mm.
+type: test
+title: Unit tests for the Gemini consent configuration
+summary: Tests row counts, managed and non-managed account row content and link actions in the consent configurations.

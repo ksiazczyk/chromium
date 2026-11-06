@@ -1,3 +1,13 @@
+---
+type: readme
+title: Gemini Model Layer
+summary: Overview of the Gemini (BWG) model layer, describing its subsystems, core components, handlers, services, and test suites.
+relations:
+  - documents /ios/chrome/browser/intelligence/bwg/model/gemini_actuation_delegate.h
+  - documents /ios/chrome/browser/intelligence/bwg/model/gemini_actuation_handler.h
+  - documents /ios/chrome/browser/intelligence/bwg/model/gemini_actuation_handler.mm
+---
+
 # Gemini Model Layer
 *Last updated: May 2026*
 

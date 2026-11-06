@@ -1,0 +1,4 @@
+# Docerion header of gemini_actuation_handler.mm.
+type: source
+title: Gemini actuation handler implementation
+summary: Implements dispatching of Gemini actuation requests to the ActorService, building tab observations from page context and constructing success or error responses.

@@ -1,0 +1,4 @@
+# Docerion header of gemini_container_zero_state_background_view.mm.
+type: source
+title: Gemini container zero-state background view
+summary: Implements the zero-state background view for the Gemini container, layering a masked blue halo gradient over the primary background color.

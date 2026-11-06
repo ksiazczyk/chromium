@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini capabilities manager factory header
+// summary: Declares the GeminiCapabilitiesManagerFactory singleton that owns GeminiCapabilitiesManager instances and associates them with iOS profiles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_BWG_MODEL_GEMINI_CAPABILITIES_MANAGER_FACTORY_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_BWG_MODEL_GEMINI_CAPABILITIES_MANAGER_FACTORY_H_
 

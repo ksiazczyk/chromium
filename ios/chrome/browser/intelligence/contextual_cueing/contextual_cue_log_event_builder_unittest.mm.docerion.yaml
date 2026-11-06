@@ -1,0 +1,4 @@
+# Docerion header of contextual_cue_log_event_builder_unittest.mm.
+type: source
+title: Contextual cue log event builder unit tests
+summary: Tests snapshot creation, distinct cue IDs and log event building decoupled from the live WebState.

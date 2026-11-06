@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini shared enums and constants
+// summary: Defines shared enums such as EntryPoint, FloatyUpdateSource, and metric enums, plus SF Symbol names and URL keys used across the Gemini module.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_BWG_UTILS_GEMINI_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_BWG_UTILS_GEMINI_CONSTANTS_H_
 

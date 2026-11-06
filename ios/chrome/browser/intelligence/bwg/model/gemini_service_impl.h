@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GeminiServiceImpl class header
+// summary: Declares GeminiServiceImpl, which implements GeminiService to determine profile eligibility for Gemini based on sign-in, enterprise policy, and account capabilities.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_BWG_MODEL_GEMINI_SERVICE_IMPL_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_BWG_MODEL_GEMINI_SERVICE_IMPL_H_
 

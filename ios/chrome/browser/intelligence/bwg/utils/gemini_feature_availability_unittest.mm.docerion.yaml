@@ -1,0 +1,4 @@
+# Docerion header of gemini_feature_availability_unittest.mm.
+type: test
+title: Gemini feature availability unit tests
+summary: Unit tests verifying Gemini feature availability for Image Remix and Live across account capability and feature flag states.

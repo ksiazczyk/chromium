@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enhanced Calendar mediator delegate protocol
+// summary: Defines the EnhancedCalendarMediatorDelegate protocol for presenting the add-to-calendar UI or cancelling requests and dismissing the bottom sheet.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ENHANCED_CALENDAR_COORDINATOR_ENHANCED_CALENDAR_MEDIATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ENHANCED_CALENDAR_COORDINATOR_ENHANCED_CALENDAR_MEDIATOR_DELEGATE_H_
 

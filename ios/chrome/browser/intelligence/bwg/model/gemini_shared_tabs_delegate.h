@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GeminiSharedTabsDelegate interface
+// summary: Defines the GeminiSharedTabsDelegate interface for managing tabs shared with Gemini, including attachment state updates and tab picker selection.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_BWG_MODEL_GEMINI_SHARED_TABS_DELEGATE_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_BWG_MODEL_GEMINI_SHARED_TABS_DELEGATE_H_
 

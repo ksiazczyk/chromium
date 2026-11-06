@@ -1,0 +1,4 @@
+# Docerion header of error_strings.mm.
+type: source
+title: Enhanced Calendar error strings implementation
+summary: Defines the Enhanced Calendar error message strings and returns the matching string for each EnhancedCalendarError enum value in a switch.

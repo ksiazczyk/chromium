@@ -1,0 +1,4 @@
+# Docerion header of fake_gemini_service.mm.
+type: test
+title: Fake Gemini service implementation
+summary: Implements the fake Gemini service, managing observers and returning the configured eligibility and capability states.

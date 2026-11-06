@@ -1,0 +1,4 @@
+# Docerion header of gemini_capabilities_manager_factory_unittest.mm.
+type: test
+title: Gemini capabilities manager factory unit tests
+summary: Verifies the factory creates the capabilities service with required features enabled and returns null when App Switcher AI summarization is disabled.

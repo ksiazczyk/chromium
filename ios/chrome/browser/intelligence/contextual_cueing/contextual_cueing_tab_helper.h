@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextualCueingTabHelper header
+// summary: Declares the tab helper that orchestrates page classification and contextual cue presentation for a WebState, with delegate and observer interfaces.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_CONTEXTUAL_CUEING_CONTEXTUAL_CUEING_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_CONTEXTUAL_CUEING_CONTEXTUAL_CUEING_TAB_HELPER_H_
 

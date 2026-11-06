@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini container view controller interface
+// summary: Declares the view controller that hosts Gemini features, the actuation worklog and zero-state content inside the container.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_BWG_UI_GEMINI_CONTAINER_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_BWG_UI_GEMINI_CONTAINER_VIEW_CONTROLLER_H_
 

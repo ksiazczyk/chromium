@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enhanced Calendar view controller interface
+// summary: Declares the Enhanced Calendar bottom sheet view controller, based on BottomSheetViewController, with a weak mutator property for mediator communication.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ENHANCED_CALENDAR_UI_ENHANCED_CALENDAR_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ENHANCED_CALENDAR_UI_ENHANCED_CALENDAR_VIEW_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini first run wrapper view controller interface
+// summary: Declares a view controller that owns the Gemini promo and consent steps and manages transitions between them.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_BWG_FIRST_RUN_UI_GEMINI_FIRST_RUN_WRAPPER_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_BWG_FIRST_RUN_UI_GEMINI_FIRST_RUN_WRAPPER_VIEW_CONTROLLER_H_
 

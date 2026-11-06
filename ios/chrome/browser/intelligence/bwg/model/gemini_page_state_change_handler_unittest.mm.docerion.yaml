@@ -1,0 +1,4 @@
+# Docerion header of gemini_page_state_change_handler_unittest.mm.
+type: test
+title: Gemini page state change handler unit tests
+summary: Unit tests covering the immediate callback when sharing is already enabled, alert presentation when disabled, and the accept and deny alert actions.

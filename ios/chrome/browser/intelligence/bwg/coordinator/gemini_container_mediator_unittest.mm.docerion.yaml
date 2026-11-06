@@ -1,0 +1,4 @@
+# Docerion header of gemini_container_mediator_unittest.mm.
+type: test
+title: Gemini container mediator unit tests
+summary: Unit tests for the Gemini container mediator, covering sign-in state, metrics, prefs, and container UI interactions.

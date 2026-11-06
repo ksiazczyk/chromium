@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Classification request tracker header
+// summary: Declares ClassificationRequestTracker, which queues pending classification requests before model load and deduplicates in-flight requests by URL.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ON_DEVICE_CATEGORY_CLASSIFIER_CLASSIFICATION_REQUEST_TRACKER_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ON_DEVICE_CATEGORY_CLASSIFIER_CLASSIFICATION_REQUEST_TRACKER_H_
 

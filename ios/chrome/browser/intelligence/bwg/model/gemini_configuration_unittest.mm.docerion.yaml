@@ -1,0 +1,4 @@
+# Docerion header of gemini_configuration_unittest.mm.
+type: test
+title: GeminiConfiguration unit tests
+summary: Unit tests verifying that the uniquePageContext property transfers ownership on first read and returns null on subsequent reads.

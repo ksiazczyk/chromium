@@ -1,0 +1,4 @@
+# Docerion header of gemini_session_metrics_manager_unittest.mm.
+type: test
+title: Gemini session metrics manager unit tests
+summary: Unit tests for the session metrics manager covering startup latency, dismissal resets, and view state transition timing using mock time.

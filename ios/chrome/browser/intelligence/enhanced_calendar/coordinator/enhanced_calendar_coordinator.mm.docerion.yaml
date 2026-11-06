@@ -1,0 +1,4 @@
+# Docerion header of enhanced_calendar_coordinator.mm.
+type: source
+title: Enhanced Calendar coordinator implementation
+summary: Implements coordinator start and stop, presents the Enhanced Calendar bottom sheet, and forwards mediator callbacks to the add-to-calendar provider.

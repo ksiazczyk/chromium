@@ -1,0 +1,4 @@
+# Docerion header of gemini_session_handler_unittest.mm.
+type: test
+title: GeminiSessionHandler unit tests
+summary: Unit tests for GeminiSessionHandler using mock trackers, OCMock command handlers, and mock time to verify session behavior and metrics.

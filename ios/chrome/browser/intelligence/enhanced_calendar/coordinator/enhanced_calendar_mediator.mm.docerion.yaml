@@ -1,0 +1,4 @@
+# Docerion header of enhanced_calendar_mediator.mm.
+type: source
+title: Enhanced Calendar mediator implementation
+summary: Implements request parameter creation, Mojo binding to the Enhanced Calendar service, and response handling that updates the calendar event configuration.

@@ -1,0 +1,4 @@
+# Docerion header of passage_embedder_model_loader.mm.
+type: source
+title: PassageEmbedderModelLoader implementation
+summary: Implements PassageEmbedderModelLoader, configuring download scheduling for the passage embedder model and loading its model files in-process on iOS.

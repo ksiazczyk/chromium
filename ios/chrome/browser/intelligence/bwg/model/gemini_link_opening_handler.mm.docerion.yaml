@@ -1,0 +1,4 @@
+# Docerion header of gemini_link_opening_handler.mm.
+type: source
+title: GeminiLinkOpeningHandler implementation
+summary: Implements link opening for Gemini, loading URLs in new tabs, optionally closing presented views, and showing immersive learning card web modals.

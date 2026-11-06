@@ -1,0 +1,4 @@
+# Docerion header of gemini_tab_helper.mm.
+type: source
+title: Gemini Tab Helper Implementation
+summary: Implements GeminiTabHelper logic including page context extraction timeouts, eligibility checks, metrics, and suggestion fetching.

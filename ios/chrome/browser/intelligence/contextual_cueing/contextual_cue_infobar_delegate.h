@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual cue infobar delegate header
+// summary: Declares the infobar delegate and config struct for a contextual cue banner recommending Gemini actions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_CONTEXTUAL_CUEING_CONTEXTUAL_CUE_INFOBAR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_CONTEXTUAL_CUEING_CONTEXTUAL_CUE_INFOBAR_DELEGATE_H_
 

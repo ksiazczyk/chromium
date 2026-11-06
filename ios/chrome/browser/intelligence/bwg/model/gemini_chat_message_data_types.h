@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini chat message request and response data types
+// summary: Declares data types representing a user chat message submitted to Gemini and Chrome's decision on whether to consume it, mirroring the Gemini SDK request and response.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_BWG_MODEL_GEMINI_CHAT_MESSAGE_DATA_TYPES_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_BWG_MODEL_GEMINI_CHAT_MESSAGE_DATA_TYPES_H_
 

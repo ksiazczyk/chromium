@@ -1,0 +1,4 @@
+# Docerion header of gemini_prefs.mm.
+type: source
+title: Gemini preferences implementation
+summary: Implements Gemini policy, consent, promo, and Live intro preference handling plus conversation ID session storage and expiry.

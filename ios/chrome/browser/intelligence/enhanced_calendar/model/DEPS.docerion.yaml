@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Enhanced Calendar model
+summary: Restricts allowed includes in this directory to optimization guide, signin, and proto wrapper dependencies.

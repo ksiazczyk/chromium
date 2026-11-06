@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini metrics API declarations
+// summary: Declares UMA histogram keys, metric enums, and recording functions for Gemini onboarding, session, entry point, and feature telemetry.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_BWG_METRICS_GEMINI_METRICS_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_BWG_METRICS_GEMINI_METRICS_H_
 

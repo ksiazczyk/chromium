@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Gemini metrics
+summary: Declares the include rules permitting dependencies on contextual cueing, optimization guide, assistant UI, BWG utils, and the Gemini provider.

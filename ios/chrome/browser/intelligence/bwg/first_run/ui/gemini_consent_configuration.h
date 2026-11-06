@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini consent configuration models
+// summary: Declares models for the consent header, accordion rows and a configuration factory that assembles the consent content.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_BWG_FIRST_RUN_UI_GEMINI_CONSENT_CONFIGURATION_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_BWG_FIRST_RUN_UI_GEMINI_CONSENT_CONFIGURATION_H_
 

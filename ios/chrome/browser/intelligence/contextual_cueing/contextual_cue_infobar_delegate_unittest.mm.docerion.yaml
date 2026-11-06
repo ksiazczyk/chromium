@@ -1,0 +1,4 @@
+# Docerion header of contextual_cue_infobar_delegate_unittest.mm.
+type: source
+title: Contextual cue infobar delegate unit tests
+summary: Unit tests for the contextual cue infobar delegate using fake Gemini, sync and feature engagement services.

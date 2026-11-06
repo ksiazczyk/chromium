@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual cueing cap tracker service header
+// summary: Declares a profile-scoped KeyedService that enforces impression frequency caps, per-origin limits, navigation spacing, dismissal backoff, and Message-to-Omnibox UI transitions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_CONTEXTUAL_CUEING_CONTEXTUAL_CUEING_CAP_TRACKER_SERVICE_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_CONTEXTUAL_CUEING_CONTEXTUAL_CUEING_CAP_TRACKER_SERVICE_H_
 

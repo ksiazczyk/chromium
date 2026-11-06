@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini web modal coordinator interface
+// summary: Declares a coordinator that presents a URL in a modal web view sheet over the Gemini surface, with a dismissal delegate.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_BWG_COORDINATOR_GEMINI_WEB_MODAL_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_BWG_COORDINATOR_GEMINI_WEB_MODAL_COORDINATOR_H_
 

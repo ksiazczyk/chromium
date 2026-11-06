@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Gemini coordinator GN build file
+summary: Defines GN source sets and dependency targets for the Gemini container mediator and coordinator modules.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini entry flow result enum
+// summary: Declares the GeminiEntryFlowResult enum and completion block describing outcomes of starting the Gemini flow, such as success, cancellation, or ineligibility.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_BWG_UTILS_GEMINI_ENTRY_FLOW_RESULT_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_BWG_UTILS_GEMINI_ENTRY_FLOW_RESULT_H_
 

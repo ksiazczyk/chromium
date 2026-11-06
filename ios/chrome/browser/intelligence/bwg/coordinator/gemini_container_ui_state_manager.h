@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini container UI state manager interface
+// summary: Declares the GeminiContainerUIState struct and the manager that drives Gemini container UI state transitions via a delegate.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_BWG_COORDINATOR_GEMINI_CONTAINER_UI_STATE_MANAGER_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_BWG_COORDINATOR_GEMINI_CONTAINER_UI_STATE_MANAGER_H_
 

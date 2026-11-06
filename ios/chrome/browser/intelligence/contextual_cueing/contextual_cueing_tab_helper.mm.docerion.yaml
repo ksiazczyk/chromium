@@ -1,0 +1,4 @@
+# Docerion header of contextual_cueing_tab_helper.mm.
+type: source
+title: ContextualCueingTabHelper implementation
+summary: Implements the tab helper that requests page classification, evaluates eligibility against frequency caps, and presents contextual cues via model execution.

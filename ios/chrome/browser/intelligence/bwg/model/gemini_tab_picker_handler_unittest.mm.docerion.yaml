@@ -1,0 +1,4 @@
+# Docerion header of gemini_tab_picker_handler_unittest.mm.
+type: test
+title: Gemini tab picker handler unit tests
+summary: Unit tests verifying the Gemini tab picker handler's protocol conformance, tab picker presentation, and snackbar error handling.

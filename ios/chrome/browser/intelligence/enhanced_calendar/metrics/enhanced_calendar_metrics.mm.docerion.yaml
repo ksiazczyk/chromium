@@ -1,0 +1,4 @@
+# Docerion header of enhanced_calendar_metrics.mm.
+type: source
+title: Enhanced Calendar metrics implementation
+summary: Defines the kEnhancedCalendarResponseStatusHistogram constant with the IOS.EnhancedCalendar.ResponseStatus histogram name declared in the header.

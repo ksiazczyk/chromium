@@ -1,0 +1,4 @@
+# Docerion header of features_unittest.mm.
+type: test
+title: Unit tests for intelligence feature flags
+summary: Verifies default states and parameter handling of the intelligence features, covering actor tools, page action menu, and timeout overrides.

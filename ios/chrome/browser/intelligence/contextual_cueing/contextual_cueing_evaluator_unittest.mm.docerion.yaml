@@ -1,0 +1,4 @@
+# Docerion header of contextual_cueing_evaluator_unittest.mm.
+type: test
+title: Contextual cueing evaluator unit tests
+summary: Unit tests verifying evaluator decisions for eligible pages, below-threshold scores, empty categories, unsupported MIME types, and rejected search or homepage URLs.

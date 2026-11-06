@@ -1,0 +1,4 @@
+# Docerion header of contextual_cueing_browser_agent_unittest.mm.
+type: test
+title: Contextual cueing browser agent unit tests
+summary: Unit tests verifying that the browser agent propagates Gemini invocation state to the contextual cueing tab helper of active and realized web states.

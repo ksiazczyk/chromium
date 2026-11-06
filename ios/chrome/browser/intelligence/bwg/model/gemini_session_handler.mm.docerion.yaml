@@ -1,0 +1,4 @@
+# Docerion header of gemini_session_handler.mm.
+type: source
+title: GeminiSessionHandler implementation
+summary: Implements GeminiSessionHandler, handling Gemini session events, converting input types to histogram enums, and logging session and prompt metrics.

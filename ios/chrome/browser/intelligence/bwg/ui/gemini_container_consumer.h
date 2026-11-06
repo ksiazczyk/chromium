@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini container consumer protocol
+// summary: Declares the consumer protocol for updating the Gemini container UI state, including zero-state visibility, keyboard dismissal and actuation display.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_BWG_UI_GEMINI_CONTAINER_CONSUMER_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_BWG_UI_GEMINI_CONTAINER_CONSUMER_H_
 

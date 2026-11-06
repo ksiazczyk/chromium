@@ -1,0 +1,4 @@
+# Docerion header of gemini_ui_utils.mm.
+type: source
+title: Gemini UI utilities implementation
+summary: Implements GeminiUIUtils, building gradient layers and images for the Gemini logo and rendering attributed strings with gradient-highlighted words.

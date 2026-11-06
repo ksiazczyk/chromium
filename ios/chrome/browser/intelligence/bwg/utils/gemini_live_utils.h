@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini Live utilities header
+// summary: Declares helpers to update the Gemini Live location bar indicator and to detect when a Gemini Live prompt is submitted.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_BWG_UTILS_GEMINI_LIVE_UTILS_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_BWG_UTILS_GEMINI_LIVE_UTILS_H_
 

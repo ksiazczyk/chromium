@@ -1,0 +1,4 @@
+# Docerion header of gemini_consent_view_controller_unittest.mm.
+type: test
+title: Gemini consent view controller unit tests
+summary: Unit tests verifying consent view controller initialization for managed and non-managed accounts, button actions, metrics recording, and mutator calls.

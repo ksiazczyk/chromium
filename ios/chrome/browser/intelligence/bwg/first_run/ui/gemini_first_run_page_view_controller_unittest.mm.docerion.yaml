@@ -1,0 +1,4 @@
+# Docerion header of gemini_first_run_page_view_controller_unittest.mm.
+type: test
+title: Gemini first run page view controller unit tests
+summary: Unit tests for the Gemini first run page view controller covering step initialization, accessibility, and button actions.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device page classification service header
+// summary: Declares a profile-scoped KeyedService that coordinates on-device page classification for WebStates, including stability checks, DOM text extraction, and metrics logging.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_ON_DEVICE_CATEGORY_CLASSIFIER_ON_DEVICE_PAGE_CLASSIFICATION_SERVICE_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_ON_DEVICE_CATEGORY_CLASSIFIER_ON_DEVICE_PAGE_CLASSIFICATION_SERVICE_H_
 

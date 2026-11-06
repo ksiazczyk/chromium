@@ -1,0 +1,4 @@
+# Docerion header of gemini_metrics_unittest.mm.
+type: test
+title: Gemini metrics unit tests
+summary: Unit tests verifying that Gemini metrics record correct histogram buckets and user actions, including camera flow, feedback, and image remix entry point metrics.

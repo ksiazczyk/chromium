@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini camera handler class header
+// summary: Declares GeminiCameraHandler, the GeminiCameraDelegate implementation that handles camera actions for Gemini using a PrefService.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_BWG_MODEL_GEMINI_CAMERA_HANDLER_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_BWG_MODEL_GEMINI_CAMERA_HANDLER_H_
 

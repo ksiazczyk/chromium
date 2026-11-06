@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini promo view controller interface
+// summary: Declares the Gemini promo view controller for the first run experience, exposing a mutator property and a step delegate for the parent page view controller.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_BWG_FIRST_RUN_UI_GEMINI_PROMO_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_BWG_FIRST_RUN_UI_GEMINI_PROMO_VIEW_CONTROLLER_H_
 

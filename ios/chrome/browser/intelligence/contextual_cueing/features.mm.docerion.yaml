@@ -1,0 +1,4 @@
+# Docerion header of features.mm.
+type: source
+title: Contextual cueing feature flags implementation
+summary: Defines the Gemini contextual suggestions cues feature flags, their parameter defaults, and accessor functions for UI mode and threshold settings.

@@ -1,3 +1,13 @@
+---
+type: readme
+title: Gemini Coordinator Layer
+summary: Describes the coordinator-mediator separation, entry flow and container coordination for the Gemini feature, with a file index.
+relations:
+  - documents /ios/chrome/browser/intelligence/bwg/coordinator/gemini_container_coordinator.h
+  - documents /ios/chrome/browser/intelligence/bwg/coordinator/gemini_container_coordinator.mm
+  - documents /ios/chrome/browser/intelligence/bwg/coordinator/gemini_entry_flow_coordinator.h
+---
+
 # Gemini Coordinator Layer
 *Last updated: 2026*
 

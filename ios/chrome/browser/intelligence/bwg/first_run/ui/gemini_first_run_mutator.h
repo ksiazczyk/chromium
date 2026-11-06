@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini first run mutator protocols
+// summary: Declares mutator protocols for the Gemini promo and consent steps to report user actions and queries to the mediator.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_BWG_FIRST_RUN_UI_GEMINI_FIRST_RUN_MUTATOR_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_BWG_FIRST_RUN_UI_GEMINI_FIRST_RUN_MUTATOR_H_
 

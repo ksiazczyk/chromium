@@ -1,0 +1,4 @@
+# Docerion header of gemini_live_utils.mm.
+type: source
+title: Gemini Live utilities implementation
+summary: Updates the Gemini Live icon visibility for all regular browsers of a profile and detects prompt submission state transitions.

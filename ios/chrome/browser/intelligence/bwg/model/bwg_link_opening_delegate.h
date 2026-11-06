@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BWG link opening delegate protocol
+// summary: Declares a delegate protocol for opening URLs in new tabs, closing presented views first, or showing immersive learning cards in a modal.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_BWG_MODEL_BWG_LINK_OPENING_DELEGATE_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_BWG_MODEL_BWG_LINK_OPENING_DELEGATE_H_
 

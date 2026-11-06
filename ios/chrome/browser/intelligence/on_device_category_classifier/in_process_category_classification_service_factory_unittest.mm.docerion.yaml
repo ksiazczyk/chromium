@@ -1,0 +1,4 @@
+# Docerion header of in_process_category_classification_service_factory_unittest.mm.
+type: test
+title: In-process category classification service factory unit tests
+summary: Unit tests verifying that the factory creates a service for regular profiles, skips off-the-record profiles, and honors the on-device classifier feature flag.

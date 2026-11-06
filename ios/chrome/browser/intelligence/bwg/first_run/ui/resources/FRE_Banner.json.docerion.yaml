@@ -1,0 +1,4 @@
+# Docerion header of FRE_Banner.json.
+type: asset
+title: FRE Banner Lottie animation
+summary: Lottie animation asset for the first run experience banner, defined as vector layers with gradient fills at 450x210 pixels.

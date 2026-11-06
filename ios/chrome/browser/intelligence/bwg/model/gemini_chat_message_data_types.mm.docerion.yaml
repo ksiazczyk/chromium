@@ -1,0 +1,4 @@
+# Docerion header of gemini_chat_message_data_types.mm.
+type: source
+title: Implementation of Gemini chat message data types
+summary: Implements the designated initializers for the Gemini chat message request and response classes declared in the matching header.

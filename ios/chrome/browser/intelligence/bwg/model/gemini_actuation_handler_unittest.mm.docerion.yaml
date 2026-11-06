@@ -1,0 +1,4 @@
+# Docerion header of gemini_actuation_handler_unittest.mm.
+type: test
+title: Gemini actuation handler unit tests
+summary: Unit tests for GeminiActuationHandler covering actuation requests, confirmation yield prompts, and responses using fake browser, profile, and actor services.

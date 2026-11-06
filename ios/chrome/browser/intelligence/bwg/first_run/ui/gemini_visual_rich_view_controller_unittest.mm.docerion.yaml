@@ -1,0 +1,4 @@
+# Docerion header of gemini_visual_rich_view_controller_unittest.mm.
+type: test
+title: Gemini visual rich view controller unit tests
+summary: Unit tests for the visual-rich Gemini first-run view controller, covering initialization, fullscreen presentation, button configuration, and consent metrics.

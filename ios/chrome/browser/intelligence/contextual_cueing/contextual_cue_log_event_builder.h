@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual cue log event builder header
+// summary: Declares the contextual cue snapshot struct and functions that build Private Insights log events.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_CONTEXTUAL_CUEING_CONTEXTUAL_CUE_LOG_EVENT_BUILDER_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_CONTEXTUAL_CUEING_CONTEXTUAL_CUE_LOG_EVENT_BUILDER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the Explain with Gemini coordinator
+summary: Defines the GN source sets and dependencies for the Explain with Gemini coordinator and its unit tests.

@@ -1,0 +1,4 @@
+# Docerion header of gemini_container_coordinator.mm.
+type: source
+title: GeminiContainerCoordinator implementation
+summary: Implements the Gemini container coordinator, wiring the mediator, session metrics, zero-state suggestions and web modal child coordinator.

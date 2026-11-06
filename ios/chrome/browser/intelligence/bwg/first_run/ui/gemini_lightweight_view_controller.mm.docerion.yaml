@@ -1,0 +1,4 @@
+# Docerion header of gemini_lightweight_view_controller.mm.
+type: source
+title: Gemini lightweight first run view controller
+summary: Implements the lightweight Gemini first-run consent step with a title, consent accordion, and footnote, reporting accept or dismiss actions and metrics to the mutator.

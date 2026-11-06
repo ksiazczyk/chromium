@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini container zero-state background view interface
+// summary: Declares the view that renders the zero-state background halo gradient effect for the Gemini container.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_INTELLIGENCE_BWG_UI_GEMINI_CONTAINER_ZERO_STATE_BACKGROUND_VIEW_H_
 #define IOS_CHROME_BROWSER_INTELLIGENCE_BWG_UI_GEMINI_CONTAINER_ZERO_STATE_BACKGROUND_VIEW_H_
 
