@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for manifest fetching and icons
+// summary: Content browser tests exercising manifest fetching, icon downloading, and manifest validation through the manifest manager host.
+// ---
+
 #include "third_party/blink/public/common/manifest/manifest.h"
 
 #include <stdint.h>

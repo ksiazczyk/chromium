@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: COMMON_METADATA
+summary: Shared directory metadata assigning the Blink>Storage monorail component, the storage-dev team email and a Buganizer component to the locks folder.

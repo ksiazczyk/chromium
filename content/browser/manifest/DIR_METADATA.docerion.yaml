@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the manifest module
+summary: DIR_METADATA entry that inherits common metadata mixins from the Blink manifest renderer module.

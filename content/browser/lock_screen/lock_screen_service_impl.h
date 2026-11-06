@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock screen service class declaration
+// summary: Declares the LockScreenServiceImpl DocumentService that binds the blink LockScreenService Mojo interface and exposes GetKeys and SetData with an origin permission check.
+// ---
+
 #ifndef CONTENT_BROWSER_LOCK_SCREEN_LOCK_SCREEN_SERVICE_IMPL_H_
 #define CONTENT_BROWSER_LOCK_SCREEN_LOCK_SCREEN_SERVICE_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lock manager unit tests
+// summary: Unit tests verifying that lock requests and state queries fail gracefully when the lock manager is bound to an invalid storage bucket ID.
+// ---
+
 #include "content/browser/locks/lock_manager.h"
 
 #include <vector>

@@ -1,3 +1,13 @@
+---
+type: readme
+title: Content Manifest Subsystem overview
+summary: Overview of the browser-process manifest subsystem, covering key classes and the security trust boundaries enforced on renderer-supplied manifests.
+relations:
+  - documents /content/browser/manifest/manifest_manager_host.h
+  - documents /content/public/browser/manifest_icon_downloader.h
+  - references /third_party/blink/renderer/modules/manifest/manifest_manager.h
+---
+
 # Content Manifest Subsystem (`content/browser/manifest`)
 
 This directory contains the browser-process coordinator for Web App Manifest

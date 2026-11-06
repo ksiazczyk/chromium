@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock screen service implementation
+// summary: Implements the LockScreenService Mojo interface as a DocumentService, rejecting opaque origins and disallowed browser contexts before delegating GetKeys and SetData to the lock screen storage.
+// ---
+
 #include "content/browser/lock_screen/lock_screen_service_impl.h"
 
 #include <map>

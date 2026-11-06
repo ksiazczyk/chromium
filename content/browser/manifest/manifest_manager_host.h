@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManifestManagerHost class declaration
+// summary: Declares the ManifestManagerHost page user data class that fetches and observes web app manifests via Mojo IPC with the renderer.
+// ---
+
 #ifndef CONTENT_BROWSER_MANIFEST_MANIFEST_MANAGER_HOST_H_
 #define CONTENT_BROWSER_MANIFEST_MANIFEST_MANAGER_HOST_H_
 

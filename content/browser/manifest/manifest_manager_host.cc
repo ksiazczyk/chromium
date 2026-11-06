@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManifestManagerHost implementation
+// summary: Implements the browser-side manifest coordinator, validating renderer-supplied manifests and enforcing same-origin rules over Mojo IPC.
+// ---
+
 #include "content/browser/manifest/manifest_manager_host.h"
 
 #include <stdint.h>
