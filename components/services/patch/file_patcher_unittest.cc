@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File patcher unit tests
+// summary: Tests Zucchini patching through the in-process patcher, covering success, failure, and malformed patch scenarios against test data files.
+// ---
+
 #include <string_view>
 #include <utility>
 

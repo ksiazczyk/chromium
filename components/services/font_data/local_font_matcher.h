@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalFontMatcher interface header
+// summary: 'Declares the platform-agnostic LocalFontMatcher interface for matching local fonts by PostScript or full font name for @font-face src: local(), along with the LocalFontMatchResult struct.'
+// ---
+
 #ifndef COMPONENTS_SERVICES_FONT_DATA_LOCAL_FONT_MATCHER_H_
 #define COMPONENTS_SERVICES_FONT_DATA_LOCAL_FONT_MATCHER_H_
 

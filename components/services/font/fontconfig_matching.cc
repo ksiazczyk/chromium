@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FontConfig lookup by Postscript or full font name
+// summary: Implements FontConfig-based searches that locate sfnt font files by Postscript or full font name for local font matching.
+// ---
+
 #include "components/services/font/fontconfig_matching.h"
 
 #include <fontconfig/fontconfig.h>

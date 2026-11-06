@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: App Service BUILD.gn build definition
+summary: Defines the primary public GN source_set for the App Service component, aggregating public cpp dependencies and adding a ChromeOS-only shortcut dependency.

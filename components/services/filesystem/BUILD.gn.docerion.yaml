@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Filesystem service GN build configuration
+summary: Defines the filesystem service static library, a test support source set, and the filesystem_service_unittests target with their sources and dependencies.

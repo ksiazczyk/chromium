@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Server certificate database implementation
+// summary: Implements the SQLite-backed database that stores user-configured TLS server certificates together with their trust metadata.
+// ---
+
 #include "components/server_certificate_database/server_certificate_database.h"
 
 #include <ranges>

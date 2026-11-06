@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Patch directory metadata
+summary: Directory metadata mapping the component to a Monorail component, the chrome-updates-dev team email, and a Buganizer component ID.

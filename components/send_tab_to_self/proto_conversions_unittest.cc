@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for page context protobuf conversions
+// summary: Tests autofill field type conversion and that form fields with invalid control types are skipped when parsing page context from protobuf.
+// ---
+
 #include "components/send_tab_to_self/proto_conversions.h"
 
 #include <optional>

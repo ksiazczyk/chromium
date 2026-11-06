@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file referencing paint preview owners
+summary: Delegates directory ownership to the OWNERS file of components/paint_preview.

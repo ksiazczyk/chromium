@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracker metadata
+summary: Maps the directory to the UI>Browser>Downloads monorail component and a public Buganizer component ID.

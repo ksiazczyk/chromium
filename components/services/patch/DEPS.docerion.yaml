@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the patch directory
+summary: DEPS file allowing includes from update_client, zucchini, mojo/public, and third_party/puffin within this directory.

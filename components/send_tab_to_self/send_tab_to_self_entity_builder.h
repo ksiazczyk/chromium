@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab to Self test entity builder header
+// summary: Declares a fluent builder for constructing Send Tab to Self FakeServer entities with title, GUID, device name, form fields and text fragments in tests.
+// ---
+
 #ifndef COMPONENTS_SEND_TAB_TO_SELF_SEND_TAB_TO_SELF_ENTITY_BUILDER_H_
 #define COMPONENTS_SEND_TAB_TO_SELF_SEND_TAB_TO_SELF_ENTITY_BUILDER_H_
 

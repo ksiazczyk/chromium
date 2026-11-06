@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-process file patcher header
+// summary: Declares LaunchInProcessFilePatcher, intended for tests and runtimes like iOS where a multiprocess service is infeasible.
+// ---
+
 #ifndef COMPONENTS_SERVICES_PATCH_IN_PROCESS_FILE_PATCHER_H_
 #define COMPONENTS_SERVICES_PATCH_IN_PROCESS_FILE_PATCHER_H_
 

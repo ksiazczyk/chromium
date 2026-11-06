@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the sensitive_content component
+summary: Declares the owning Chrome autofill team email, Android OS, monorail component, and Buganizer component ID for issue routing.

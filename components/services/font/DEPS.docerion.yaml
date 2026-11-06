@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Allowed includes for the font service
+summary: Lists include rules granting the font service access to Mojo, Skia, PDFium, Blink and gfx headers.

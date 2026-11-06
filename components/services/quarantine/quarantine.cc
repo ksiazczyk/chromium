@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default no-op quarantine implementation
+// summary: Provides a no-op QuarantineFile implementation for platforms other than Windows, macOS and ChromeOS.
+// ---
+
 #include "components/services/quarantine/quarantine.h"
 
 #include "build/build_config.h"

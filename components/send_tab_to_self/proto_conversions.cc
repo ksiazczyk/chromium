@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page context protobuf conversion implementation
+// summary: Converts autofill field types and page context data between Chromium in-memory types and the Send Tab to Self sync protobuf representation.
+// ---
+
 #include "components/send_tab_to_self/proto_conversions.h"
 
 #include <optional>

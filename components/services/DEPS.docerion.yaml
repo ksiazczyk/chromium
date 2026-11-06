@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for components/services
+summary: Defines the allowed include paths, such as mojo/public and services/service_manager/public, for code in this directory.

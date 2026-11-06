@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for paint preview compositor
+summary: Declares the include dependencies allowed for code in the paint_preview_compositor directory.

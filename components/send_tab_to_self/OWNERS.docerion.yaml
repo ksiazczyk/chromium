@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file listing code owners
+summary: Specifies primary owners via the sync OWNERS file and a secondary owner for review routing.

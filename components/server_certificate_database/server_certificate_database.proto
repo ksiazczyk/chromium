@@ -4,6 +4,12 @@
 
 // Proto definitions for data stored in ServerCertificateDatabase.
 
+// ---docerion
+// type: source
+// title: Proto definitions for certificate metadata
+// summary: Defines protobuf messages for certificate trust types and name constraints stored in the server certificate database.
+// ---
+
 syntax = "proto3";
 
 package chrome_browser_server_certificate_database;

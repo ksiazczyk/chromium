@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: App Service directory metadata
+summary: Points the directory metadata to the COMMON_METADATA file via a mixin so shared team settings apply here.

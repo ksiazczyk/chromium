@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilePatcherImpl header
+// summary: Declares the FilePatcherImpl class implementing mojom::FilePatcher with constructors for externally owned or bound Mojo receivers.
+// ---
+
 #ifndef COMPONENTS_SERVICES_PATCH_FILE_PATCHER_IMPL_H_
 #define COMPONENTS_SERVICES_PATCH_FILE_PATCHER_IMPL_H_
 

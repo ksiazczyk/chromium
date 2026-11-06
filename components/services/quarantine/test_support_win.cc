@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows quarantine test support
+// summary: Implements Windows test helpers that configure registry zone mappings and verify Zone.Identifier quarantine metadata.
+// ---
+
 #include "components/services/quarantine/test_support.h"
 
 #include <windows.h>

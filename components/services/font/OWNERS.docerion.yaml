@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the font service directory
+summary: Names kojii@chromium.org and tkent@chromium.org as code owners for review approval in this directory.

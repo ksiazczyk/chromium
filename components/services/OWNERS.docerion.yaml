@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for components/services
+summary: Delegates ownership review for this directory to the owners file of the services directory.

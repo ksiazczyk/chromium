@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quarantine test support header
+// summary: Declares QuarantineTestBase and the IsFileQuarantined helper used to verify quarantine metadata on downloaded files in tests.
+// ---
+
 #ifndef COMPONENTS_SERVICES_QUARANTINE_TEST_SUPPORT_H_
 #define COMPONENTS_SERVICES_QUARANTINE_TEST_SUPPORT_H_
 

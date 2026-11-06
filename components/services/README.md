@@ -1,3 +1,9 @@
+---
+type: readme
+title: About the components/services directory
+summary: Explains that this directory holds services used by multiple embedders that do not fit the constraints of the core services tree.
+---
+
 This directory holds [services](/services) that are:
 (a) Not considered part of Chrome's foundation (i.e., //services) or they have dependencies which we don't allow in /services (such as content or Blink), but
 (b) Still used by multiple embedders

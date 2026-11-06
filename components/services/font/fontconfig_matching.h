@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for FontConfig local font matching
+// summary: Declares FontConfigLocalMatching, which finds system fonts by full font name or Postscript name for Blink local font references.
+// ---
+
 #ifndef COMPONENTS_SERVICES_FONT_FONTCONFIG_MATCHING_H_
 #define COMPONENTS_SERVICES_FONT_FONTCONFIG_MATCHING_H_
 

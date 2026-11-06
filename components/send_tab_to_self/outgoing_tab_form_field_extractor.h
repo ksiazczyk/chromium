@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Outgoing tab form field extractor declarations
+// summary: Declares functions that extract outgoing tab form field values from an AutofillManager into PageContext form field info.
+// ---
+
 #ifndef COMPONENTS_SEND_TAB_TO_SELF_OUTGOING_TAB_FORM_FIELD_EXTRACTOR_H_
 #define COMPONENTS_SEND_TAB_TO_SELF_OUTGOING_TAB_FORM_FIELD_EXTRACTOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake send tab to self model for tests
+// summary: Test double implementing the SendTabToSelfModel interface with configurable devices, entries, results, and callbacks for unit tests.
+// ---
+
 #ifndef COMPONENTS_SEND_TAB_TO_SELF_FAKE_SEND_TAB_TO_SELF_MODEL_H_
 #define COMPONENTS_SEND_TAB_TO_SELF_FAKE_SEND_TAB_TO_SELF_MODEL_H_
 

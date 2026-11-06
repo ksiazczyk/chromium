@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Filesystem service include rules
+summary: Specifies the allowed include dependencies for the directory, permitting components/prefs and mojo/public.

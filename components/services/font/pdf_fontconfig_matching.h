@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF Fontconfig font face matching header
+// summary: Declares MatchFontFaceWithFallback in the font_service namespace, which matches a PDF font face against Fontconfig using bold, italic, charset and fallback family parameters.
+// ---
+
 #ifndef COMPONENTS_SERVICES_FONT_PDF_FONTCONFIG_MATCHING_H_
 #define COMPONENTS_SERVICES_FONT_PDF_FONTCONFIG_MATCHING_H_
 

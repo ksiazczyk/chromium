@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Font data service unit tests
+// summary: Unit tests for FontDataServiceImpl covering family matching, style checks, caching, and typeface data handling.
+// ---
+
 #include "components/services/font_data/font_data_service_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print compositor service class declaration
+// summary: Declares the PrintCompositorImpl class implementing the PrintCompositor Mojo interface, including page compositing, document generation, and addon hooks.
+// ---
+
 #ifndef COMPONENTS_SERVICES_PRINT_COMPOSITOR_PRINT_COMPOSITOR_IMPL_H_
 #define COMPONENTS_SERVICES_PRINT_COMPOSITOR_PRINT_COMPOSITOR_IMPL_H_
 

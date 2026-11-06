@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Paint preview compositor implementation unit tests
+// summary: Unit tests for the paint preview compositor implementation, verifying composite responses, frame data and bitmap rendering callbacks.
+// ---
+
 #include "components/services/paint_preview_compositor/paint_preview_compositor_impl.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-process file patcher launcher
+// summary: Launches a self-owned FilePatcherImpl on a background thread pool sequence and returns a Mojo PendingRemote for it.
+// ---
+
 #include "components/services/patch/in_process_file_patcher.h"
 
 #include <utility>

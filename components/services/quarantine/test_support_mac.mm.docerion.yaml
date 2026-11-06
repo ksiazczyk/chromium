@@ -1,0 +1,4 @@
+# Docerion header of test_support_mac.mm.
+type: source
+title: Mac quarantine test support
+summary: Checks macOS LaunchServices quarantine properties on files, matching expected source and referrer URLs in tests.

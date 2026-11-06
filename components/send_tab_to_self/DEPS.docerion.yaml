@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for send_tab_to_self
+summary: Lists the include rules that allow dependencies on autofill, sync, signin, prefs and other components.

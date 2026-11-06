@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Send Tab to Self entry
+// summary: Unit tests verifying SendTabToSelfEntry fields, page context, and navigation history behavior using GMock matchers.
+// ---
+
 #include "components/send_tab_to_self/send_tab_to_self_entry.h"
 
 #include <array>

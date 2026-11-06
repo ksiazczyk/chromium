@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Font data service implementation
+// summary: Implements the FontDataService Mojo interface, serving cached font data to renderers through shared memory or file handles.
+// ---
+
 #include "components/services/font_data/font_data_service_impl.h"
 
 #if BUILDFLAG(IS_WIN)

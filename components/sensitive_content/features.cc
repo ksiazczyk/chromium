@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature flag definitions for sensitive content
+// summary: Defines the kSensitiveContent and kSensitiveContentWhileSwitchingTabs features and the password manager heuristics parameter, all disabled by default.
+// ---
+
 #include "components/sensitive_content/features.h"
 
 namespace sensitive_content::features {

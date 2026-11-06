@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows DirectWrite local font matcher implementation
+// summary: Matches local fonts by unique name using DirectWrite font set filtering and returns the matching font file path and index.
+// ---
+
 #include "components/services/font_data/dwrite_local_font_matcher.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header declaring sensitive content feature flags
+// summary: Declares the sensitive content feature flags and the password manager heuristics parameter for export from the features component.
+// ---
+
 #ifndef COMPONENTS_SENSITIVE_CONTENT_FEATURES_H_
 #define COMPONENTS_SENSITIVE_CONTENT_FEATURES_H_
 

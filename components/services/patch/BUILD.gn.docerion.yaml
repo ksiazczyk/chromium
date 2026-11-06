@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Patch service build targets
+summary: GN build file defining the patcher library, the in-process patcher target, and unit test targets with their dependencies.

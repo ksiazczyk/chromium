@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab to Self sync bridge implementation
+// summary: Implements the sync bridge that stores, syncs and manages Send Tab to Self entries, including metrics, deduplication and history/device-info integration.
+// ---
+
 #include "components/send_tab_to_self/send_tab_to_self_bridge.h"
 
 #include <algorithm>

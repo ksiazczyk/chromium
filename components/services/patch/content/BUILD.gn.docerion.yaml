@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Patch service content BUILD.gn
+summary: GN build file defining the content source set for the patch service, listing patch_service sources and its base, content, mojom and Mojo binding dependencies.

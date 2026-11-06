@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GMock matchers for Send Tab to Self form fields
+// summary: Defines gmock matchers for PageContext form fields and autofill signatures used to compare form data in Send Tab to Self tests.
+// ---
+
 #include "components/send_tab_to_self/test_matchers.h"
 
 namespace send_tab_to_self {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab to Self feature flag definitions
+// summary: Defines base::Feature flags gating Send Tab to Self behaviors such as navigation history propagation, multi-tab share, and platform-specific UI.
+// ---
+
 #include "components/send_tab_to_self/features.h"
 
 #include "base/feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Outgoing tab form field extractor implementation
+// summary: Extracts eligible form field values from a tab's autofill data into page context, filtering cross-origin, empty, and sensitive fields.
+// ---
+
 #include "components/send_tab_to_self/outgoing_tab_form_field_extractor.h"
 
 #include <ostream>

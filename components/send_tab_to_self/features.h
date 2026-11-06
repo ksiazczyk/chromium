@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab to Self feature flag declarations
+// summary: Declares Send Tab to Self feature flags and helpers controlling entry points, tab reminders, and platform-specific sharing behavior.
+// ---
+
 #ifndef COMPONENTS_SEND_TAB_TO_SELF_FEATURES_H_
 #define COMPONENTS_SEND_TAB_TO_SELF_FEATURES_H_
 

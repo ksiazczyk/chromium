@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SensitiveContentManager class declaration
+// summary: Declares the platform-independent manager that observes autofill managers to track sensitive form fields and update content sensitivity.
+// ---
+
 #ifndef COMPONENTS_SENSITIVE_CONTENT_SENSITIVE_CONTENT_MANAGER_H_
 #define COMPONENTS_SENSITIVE_CONTENT_SENSITIVE_CONTENT_MANAGER_H_
 

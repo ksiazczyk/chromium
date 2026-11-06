@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filesystem service utility implementations
+// summary: Implements validation and conversion helpers for the filesystem service, including static asserts that align mojom flags with base::File, Whence and offset checks, file info serialization, and path validation.
+// ---
+
 #include "components/services/filesystem/util.h"
 
 #include <errno.h>

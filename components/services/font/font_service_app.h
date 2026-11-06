@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Font service Mojo application header
+// summary: Declares the FontServiceApp class implementing the FontService Mojo interface with a match cache and enumerated font paths.
+// ---
+
 #ifndef COMPONENTS_SERVICES_FONT_FONT_SERVICE_APP_H_
 #define COMPONENTS_SERVICES_FONT_FONT_SERVICE_APP_H_
 

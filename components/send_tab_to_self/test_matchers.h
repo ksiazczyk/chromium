@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for Send Tab to Self test matchers
+// summary: Declares gmock matcher helpers for matching form field attributes and autofill signatures in Send Tab to Self tests.
+// ---
+
 #ifndef COMPONENTS_SEND_TAB_TO_SELF_TEST_MATCHERS_H_
 #define COMPONENTS_SEND_TAB_TO_SELF_TEST_MATCHERS_H_
 

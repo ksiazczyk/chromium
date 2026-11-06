@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the font service
+summary: Defines the font service source set and the font_service_unittests target, adding PDF-specific sources and dependencies when PDF support is enabled on Linux or ChromeOS.

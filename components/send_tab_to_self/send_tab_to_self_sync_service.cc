@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab to Self sync service implementation
+// summary: Implements the KeyedService that wires the Send Tab to Self bridge into the sync pipeline and exposes the model.
+// ---
+
 #include "components/send_tab_to_self/send_tab_to_self_sync_service.h"
 
 #include <utility>

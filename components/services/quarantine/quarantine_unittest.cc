@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quarantine service unit tests
+// summary: Unit tests for the quarantine service verifying that files remain readable after annotation and can be annotated without a client GUID.
+// ---
+
 #include "components/services/quarantine/quarantine.h"
 
 #include <iterator>

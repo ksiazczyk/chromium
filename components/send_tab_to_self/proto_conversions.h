@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page context protobuf conversion declarations
+// summary: Declares functions that convert PageContext and autofill field types to and from the sync protobuf format.
+// ---
+
 #ifndef COMPONENTS_SEND_TAB_TO_SELF_PROTO_CONVERSIONS_H_
 #define COMPONENTS_SEND_TAB_TO_SELF_PROTO_CONVERSIONS_H_
 

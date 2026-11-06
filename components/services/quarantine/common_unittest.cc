@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL sanitization unit tests
+// summary: Tests SanitizeUrlForQuarantine across credential stripping, blob and filesystem origin reduction, and invalid or data URLs.
+// ---
+
 #include "components/services/quarantine/common.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

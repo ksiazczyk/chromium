@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReceivedTabFormsFiller class declaration
+// summary: Declares a self-managing helper that fills form fields from a received tab's page context across frames using AutofillManagers and deletes itself after completion or timeout.
+// ---
+
 #ifndef COMPONENTS_SEND_TAB_TO_SELF_RECEIVED_TAB_FORMS_FILLER_H_
 #define COMPONENTS_SEND_TAB_TO_SELF_RECEIVED_TAB_FORMS_FILLER_H_
 

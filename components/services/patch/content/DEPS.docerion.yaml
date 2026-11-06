@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Patch service content DEPS
+summary: DEPS file granting the patch service content directory include access to content/public/browser headers.

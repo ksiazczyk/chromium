@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows quarantine implementation
+// summary: Implements file quarantine on Windows via IAttachmentExecute, mapping antivirus, policy and scan outcomes to QuarantineFileResult values.
+// ---
+
 #include "components/services/quarantine/quarantine.h"
 
 #include <objbase.h>

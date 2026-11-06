@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sensitive content manager unit tests
+// summary: Unit tests for the sensitive content manager, verifying sensitivity detection from autofill password predictions, client notifications, and related histogram metrics.
+// ---
+
 #include "components/sensitive_content/sensitive_content_manager.h"
 
 #include "base/base64.h"

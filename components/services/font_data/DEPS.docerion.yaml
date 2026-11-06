@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the font_data directory
+summary: Declares the allowed include paths for mojo, skia, and ui/gfx within this directory.

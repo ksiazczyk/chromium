@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SensitiveContentClient embedder interface
+// summary: Defines the abstract client interface that embedders implement to set content sensitivity and provide an embedder-specific histogram prefix.
+// ---
+
 #ifndef COMPONENTS_SENSITIVE_CONTENT_SENSITIVE_CONTENT_CLIENT_H_
 #define COMPONENTS_SENSITIVE_CONTENT_SENSITIVE_CONTENT_CLIENT_H_
 

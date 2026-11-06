@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab to Self data type controller implementation
+// summary: Implements the sync data type controller for SEND_TAB_TO_SELF, clearing metadata on stop so the feature is no longer offered.
+// ---
+
 #include "components/send_tab_to_self/send_tab_to_self_data_type_controller.h"
 
 #include <utility>

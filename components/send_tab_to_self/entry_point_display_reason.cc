@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Entry point display reason logic
+// summary: Implements checks of signin, sync and model state to decide why or whether the send-tab-to-self entry point is shown.
+// ---
+
 #include "components/send_tab_to_self/entry_point_display_reason.h"
 
 #include "components/prefs/pref_service.h"

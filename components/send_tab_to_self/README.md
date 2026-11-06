@@ -1,3 +1,9 @@
+---
+type: readme
+title: Send Tab To Self component overview
+summary: Describes Send Tab To Self, a component providing APIs for sending tabs between devices in Chrome.
+---
+
 Send Tab To Self
 
 Send Tab To Self is a component providing necessary APIs for sending tabs

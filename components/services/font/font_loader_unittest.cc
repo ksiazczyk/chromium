@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the font loader
+// summary: Tests FontLoader family matching against test fonts, including Postscript name lookup via FreeType when PDF support is enabled.
+// ---
+
 #include "components/services/font/public/cpp/font_loader.h"
 
 #include <utility>

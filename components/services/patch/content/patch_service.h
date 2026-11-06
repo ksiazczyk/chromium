@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Patch service header
+// summary: Declares the patch::LaunchFilePatcher function that starts an isolated FilePatcher service process and returns a Mojo remote tied to the process lifetime.
+// ---
+
 #ifndef COMPONENTS_SERVICES_PATCH_CONTENT_PATCH_SERVICE_H_
 #define COMPONENTS_SERVICES_PATCH_CONTENT_PATCH_SERVICE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of common_mac.mm.
+type: source
+title: Mac quarantine properties implementation
+summary: Reads the NSURL quarantine properties dictionary for a file and logs a warning when the value is missing or has the wrong class.

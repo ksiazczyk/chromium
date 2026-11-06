@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Received tab form filling implementation
+// summary: Implements filling form field values from a received tab's page context into matching fields via the autofill system, with signature matching and a timeout.
+// ---
+
 #include "components/send_tab_to_self/received_tab_forms_filler.h"
 
 #include <algorithm>

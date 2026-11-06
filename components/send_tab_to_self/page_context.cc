@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page context data types implementation
+// summary: Implements page context data types including sensitive field type checks, text fragments, scroll positions, and form field info.
+// ---
+
 #include "components/send_tab_to_self/page_context.h"
 
 #include "base/notreached.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Font data service header
+// summary: Declares FontDataServiceImpl, the browser-process font service that replaces DWriteFontProxyImpl on Windows.
+// ---
+
 #ifndef COMPONENTS_SERVICES_FONT_DATA_FONT_DATA_SERVICE_IMPL_H_
 #define COMPONENTS_SERVICES_FONT_DATA_FONT_DATA_SERVICE_IMPL_H_
 

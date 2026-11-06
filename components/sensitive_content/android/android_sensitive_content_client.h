@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidSensitiveContentClient class declaration
+// summary: Declares the AndroidSensitiveContentClient, a WebContentsUserData that observes the Android view and forwards content sensitivity state to its Java counterpart.
+// ---
+
 #ifndef COMPONENTS_SENSITIVE_CONTENT_ANDROID_ANDROID_SENSITIVE_CONTENT_CLIENT_H_
 #define COMPONENTS_SENSITIVE_CONTENT_ANDROID_ANDROID_SENSITIVE_CONTENT_CLIENT_H_
 
