@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SlideOutControllerDelegate interface
+// summary: Declares the delegate interface for SlideOutController with callbacks for slide start, progress changes, and slide-out.
+// ---
+
 #ifndef UI_VIEWS_ANIMATION_SLIDE_OUT_CONTROLLER_DELEGATE_H_
 #define UI_VIEWS_ANIMATION_SLIDE_OUT_CONTROLLER_DELEGATE_H_
 

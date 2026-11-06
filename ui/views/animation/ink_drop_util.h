@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ink drop utility declarations
+// summary: Declares GetTransformSubpixelCorrection for pixel-aligning transformed layers and UsingPlatformHighContrastInkDrop for forced-colors high-contrast detection.
+// ---
+
 #ifndef UI_VIEWS_ANIMATION_INK_DROP_UTIL_H_
 #define UI_VIEWS_ANIMATION_INK_DROP_UTIL_H_
 

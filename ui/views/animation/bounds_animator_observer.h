@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BoundsAnimatorObserver interface
+// summary: Declares the BoundsAnimatorObserver interface with callbacks for animation progress and completion of a BoundsAnimator.
+// ---
+
 #ifndef UI_VIEWS_ANIMATION_BOUNDS_ANIMATOR_OBSERVER_H_
 #define UI_VIEWS_ANIMATION_BOUNDS_ANIMATOR_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BubbleDialogModelHost implementation
+// summary: Implements the views host that renders a ui::DialogModel as a bubble dialog, mapping model fields to labels, controls, and menu items.
+// ---
+
 #include "ui/views/bubble/bubble_dialog_model_host.h"
 
 #include <utility>

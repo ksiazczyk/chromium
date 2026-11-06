@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimationAbortHandle class declaration
+// summary: Declares AnimationAbortHandle, which aborts associated layer animations on destruction and observes layers for destruction.
+// ---
+
 #ifndef UI_VIEWS_ANIMATION_ANIMATION_ABORT_HANDLE_H_
 #define UI_VIEWS_ANIMATION_ANIMATION_ABORT_HANDLE_H_
 

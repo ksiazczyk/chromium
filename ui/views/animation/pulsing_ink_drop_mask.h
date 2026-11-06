@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PulsingInkDropMask class declaration
+// summary: Declares PulsingInkDropMask, an ink drop mask that animates a pulsing effect via a ThrobAnimation for feature promo highlights.
+// ---
+
 #ifndef UI_VIEWS_ANIMATION_PULSING_INK_DROP_MASK_H_
 #define UI_VIEWS_ANIMATION_PULSING_INK_DROP_MASK_H_
 

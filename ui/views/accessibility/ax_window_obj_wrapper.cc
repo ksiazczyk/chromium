@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXWindowObjWrapper implementation
+// summary: Implements AXWindowObjWrapper, which describes an aura::Window for accessibility, handling focus actions, event firing, and recursive location change notifications.
+// ---
+
 #include "ui/views/accessibility/ax_window_obj_wrapper.h"
 
 #include <stddef.h>

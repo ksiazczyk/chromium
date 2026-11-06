@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimationKey struct
+// summary: Defines a key pairing a target layer with an animatable property, comparable for animation bookkeeping.
+// ---
+
 #ifndef UI_VIEWS_ANIMATION_ANIMATION_KEY_H_
 #define UI_VIEWS_ANIMATION_ANIMATION_KEY_H_
 

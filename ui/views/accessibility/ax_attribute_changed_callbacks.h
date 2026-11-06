@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXAttributeChangedCallbacks class declaration
+// summary: Declares callback lists that let observers subscribe to accessibility role, string, int, bool, state, and int-list attribute changes on a node.
+// ---
+
 #ifndef UI_VIEWS_ACCESSIBILITY_AX_ATTRIBUTE_CHANGED_CALLBACKS_H_
 #define UI_VIEWS_ACCESSIBILITY_AX_ATTRIBUTE_CHANGED_CALLBACKS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXTreeSourceViews implementation
+// summary: Implements the AXTreeSource adapter that exposes the Views widget hierarchy as an accessibility tree, resolving nodes, actions, and tree data via the Aura object cache.
+// ---
+
 #include "ui/views/accessibility/ax_tree_source_views.h"
 
 #include <string>

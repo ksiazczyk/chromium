@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXVirtualViewWrapper implementation
+// summary: Implements AXVirtualViewWrapper, which adapts an AXVirtualView for AXTreeSourceViews by providing parent, children, serialization, and accessible action handling.
+// ---
+
 #include "ui/views/accessibility/ax_virtual_view_wrapper.h"
 
 #include <string>

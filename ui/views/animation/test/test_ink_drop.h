@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestInkDrop test double header
+// summary: Declares an InkDrop test double that tracks requested state changes without automatic state transitions.
+// ---
+
 #ifndef UI_VIEWS_ANIMATION_TEST_TEST_INK_DROP_H_
 #define UI_VIEWS_ANIMATION_TEST_TEST_INK_DROP_H_
 

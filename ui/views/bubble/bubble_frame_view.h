@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BubbleFrameView class declaration
+// summary: Declares BubbleFrameView, the frame view providing title, close and minimize buttons, progress indicator, and footnote support for bubble widgets.
+// ---
+
 #ifndef UI_VIEWS_BUBBLE_BUBBLE_FRAME_VIEW_H_
 #define UI_VIEWS_BUBBLE_BUBBLE_FRAME_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BoundsAnimator implementation
+// summary: Implements BoundsAnimator, which animates child views from their current bounds to target bounds, optionally using transforms, with per-view animations, delegates, and cleanup on destruction.
+// ---
+
 #include "ui/views/animation/bounds_animator.h"
 
 #include <memory>

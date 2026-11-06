@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InkDropHost implementation
+// summary: Implements InkDropHost, which creates and configures ink drop ripples, highlights, and masks for a host View and reacts to events and transform changes.
+// ---
+
 #include "ui/views/animation/ink_drop_host.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BubbleAnchor unit tests
+// summary: Unit tests verifying BubbleAnchor behavior for null, view, and tracked element anchors using the views test framework.
+// ---
+
 #include "ui/views/bubble/bubble_anchor.h"
 
 #include <memory>

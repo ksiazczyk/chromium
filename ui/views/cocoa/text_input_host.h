@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextInputHost class declaration
+// summary: Declares the TextInputHost mojo implementation that forwards text input queries and commands to the active ui::TextInputClient.
+// ---
+
 #ifndef UI_VIEWS_COCOA_TEXT_INPUT_HOST_H_
 #define UI_VIEWS_COCOA_TEXT_INPUT_HOST_H_
 

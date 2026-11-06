@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility paint checks implementation
+// summary: Runs DCHECK-based accessibility checks when views are painted, verifying that focusable views have valid roles and accessible names.
+// ---
+
 #include "ui/views/accessibility/accessibility_paint_checks.h"
 
 #include <string>

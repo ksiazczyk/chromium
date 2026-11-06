@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXAuraObjWrapper interface declaration
+// summary: Declares the interface for accessibility wrappers around Aura views, defining traversal, serialization, unique ID, and accessible action methods.
+// ---
+
 #ifndef UI_VIEWS_ACCESSIBILITY_AX_AURA_OBJ_WRAPPER_H_
 #define UI_VIEWS_ACCESSIBILITY_AX_AURA_OBJ_WRAPPER_H_
 

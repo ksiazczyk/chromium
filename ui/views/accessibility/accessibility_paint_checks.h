@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility paint checks declarations
+// summary: Declares functions that run accessibility paint checks on a view or widget and a property to skip the checks for specific views.
+// ---
+
 #ifndef UI_VIEWS_ACCESSIBILITY_ACCESSIBILITY_PAINT_CHECKS_H_
 #define UI_VIEWS_ACCESSIBILITY_ACCESSIBILITY_PAINT_CHECKS_H_
 

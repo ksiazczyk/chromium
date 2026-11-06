@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DragDropClientMac class header
+// summary: Declares DragDropClientMac, the class bridging Views and native macOS drag-and-drop for MacViews.
+// ---
+
 #ifndef UI_VIEWS_COCOA_DRAG_DROP_CLIENT_MAC_H_
 #define UI_VIEWS_COCOA_DRAG_DROP_CLIENT_MAC_H_
 

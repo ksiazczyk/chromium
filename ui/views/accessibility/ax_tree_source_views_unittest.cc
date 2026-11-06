@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AXTreeSourceViews unit tests
+// summary: Unit tests verifying root, parent, child, and ID relationships in AXTreeSourceViews using a widget containing labels and a text field.
+// ---
+
 #include "ui/views/accessibility/ax_tree_source_views.h"
 
 #include <memory>

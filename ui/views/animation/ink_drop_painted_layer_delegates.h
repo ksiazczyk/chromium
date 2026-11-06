@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ink drop painted layer delegate declarations
+// summary: Declares BasePaintedLayerDelegate and subclasses that paint colored circles, rectangles, rounded rectangles and border shadows as layers.
+// ---
+
 #ifndef UI_VIEWS_ANIMATION_INK_DROP_PAINTED_LAYER_DELEGATES_H_
 #define UI_VIEWS_ANIMATION_INK_DROP_PAINTED_LAYER_DELEGATES_H_
 

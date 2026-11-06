@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test API for the widget accessibility manager
+// summary: Header exposing WidgetAXManager internals such as pending events, tree IDs, and serialization waits to support its unit tests.
+// ---
+
 #ifndef UI_VIEWS_ACCESSIBILITY_TREE_WIDGET_AX_MANAGER_TEST_API_H_
 #define UI_VIEWS_ACCESSIBILITY_TREE_WIDGET_AX_MANAGER_TEST_API_H_
 

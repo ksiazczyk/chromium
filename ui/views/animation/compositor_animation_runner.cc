@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompositorAnimationRunner implementation
+// summary: Implements CompositorAnimationRunner, a gfx::AnimationRunner that steps animations via ui::Compositor animation observations and stops on widget destruction or compositor shutdown.
+// ---
+
 #include "ui/views/animation/compositor_animation_runner.h"
 
 #include "ui/views/widget/widget.h"

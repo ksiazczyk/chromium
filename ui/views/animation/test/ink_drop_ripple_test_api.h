@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ink drop ripple test API header
+// summary: Declares InkDropRippleTestApi, the base test API for InkDropRipple subclasses, exposing current opacity and layer animators to tests.
+// ---
+
 #ifndef UI_VIEWS_ANIMATION_TEST_INK_DROP_RIPPLE_TEST_API_H_
 #define UI_VIEWS_ANIMATION_TEST_INK_DROP_RIPPLE_TEST_API_H_
 

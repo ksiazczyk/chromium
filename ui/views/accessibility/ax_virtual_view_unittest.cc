@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AXVirtualView unit tests
+// summary: Unit tests for AXVirtualView covering child view management, update observer notifications, and accessibility behavior across display scale factors.
+// ---
+
 #include "ui/views/accessibility/ax_virtual_view.h"
 
 #include <algorithm>

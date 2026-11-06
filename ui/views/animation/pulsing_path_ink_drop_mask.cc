@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pulsing path ink drop mask implementation
+// summary: Implements PulsingPathInkDropMask, which pulses a highlight path in and out for feature promos, proportionally adjusting pulse insets for non-square bounds.
+// ---
+
 #include "ui/views/animation/pulsing_path_ink_drop_mask.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimationBuilder class declaration
+// summary: Declares AnimationBuilder, a fluent API for building layer animations with lifecycle callbacks and an abort handle.
+// ---
+
 #ifndef UI_VIEWS_ANIMATION_ANIMATION_BUILDER_H_
 #define UI_VIEWS_ANIMATION_ANIMATION_BUILDER_H_
 

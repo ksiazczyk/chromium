@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SquareInkDropRipple test API header
+// summary: Declares a test API class that provides internal access to a SquareInkDropRipple for unit tests.
+// ---
+
 #ifndef UI_VIEWS_ANIMATION_TEST_SQUARE_INK_DROP_RIPPLE_TEST_API_H_
 #define UI_VIEWS_ANIMATION_TEST_SQUARE_INK_DROP_RIPPLE_TEST_API_H_
 

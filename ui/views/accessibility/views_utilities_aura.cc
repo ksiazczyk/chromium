@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura accessibility utilities implementation
+// summary: Implements Aura accessibility helpers in the views namespace, including transient-aware window parent lookup, word boundary computation, and per-grapheme text offsets for RenderText.
+// ---
+
 #include "ui/views/accessibility/views_utilities_aura.h"
 
 #include "base/i18n/break_iterator.h"

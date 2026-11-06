@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Footnote container view class declaration
+// summary: Declares the FootnoteContainerView class, a container that changes visibility with its contents and draws a rounded bottom background for bubbles.
+// ---
+
 #ifndef UI_VIEWS_BUBBLE_FOOTNOTE_CONTAINER_VIEW_H_
 #define UI_VIEWS_BUBBLE_FOOTNOTE_CONTAINER_VIEW_H_
 

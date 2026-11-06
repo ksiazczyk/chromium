@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ink drop impl test API header
+// summary: Declares InkDropImplTestApi and its AccessFactoryOnExit and SetStateOnExit highlight states for internal access to an InkDropImpl instance.
+// ---
+
 #ifndef UI_VIEWS_ANIMATION_TEST_INK_DROP_IMPL_TEST_API_H_
 #define UI_VIEWS_ANIMATION_TEST_INK_DROP_IMPL_TEST_API_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of WidgetViewAXCache
+// summary: Implements a cache of ViewAccessibility nodes by AXNodeID plus child snapshots that keep the tree stable during serialization.
+// ---
+
 #include "ui/views/accessibility/tree/widget_view_ax_cache.h"
 
 #include <queue>

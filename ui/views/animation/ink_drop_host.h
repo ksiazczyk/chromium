@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InkDropHost class declaration
+// summary: Declares InkDropHost, the per-View manager of the ink drop effect, its mode, and callbacks for creating ripples, highlights, and masks.
+// ---
+
 #ifndef UI_VIEWS_ANIMATION_INK_DROP_HOST_H_
 #define UI_VIEWS_ANIMATION_INK_DROP_HOST_H_
 

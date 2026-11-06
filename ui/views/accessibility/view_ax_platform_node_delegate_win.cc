@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows view accessibility delegate implementation
+// summary: Implements the Windows-specific accessibility delegate, resolving accessible parents through ancestor windows and HWNDs and mapping bounds to screen coordinates.
+// ---
+
 #include "ui/views/accessibility/view_ax_platform_node_delegate_win.h"
 
 #include <memory>

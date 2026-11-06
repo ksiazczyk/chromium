@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXViewObjWrapper class declaration
+// summary: Declares AXViewObjWrapper, an AXAuraObjWrapper that describes a views::View for accessibility, serializing node data, handling accessible actions, and observing view deletion.
+// ---
+
 #ifndef UI_VIEWS_ACCESSIBILITY_AX_VIEW_OBJ_WRAPPER_H_
 #define UI_VIEWS_ACCESSIBILITY_AX_VIEW_OBJ_WRAPPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac view accessibility delegate header
+// summary: Declares the Mac-specific accessibility delegate for Views, exposing NSWindow access, parent resolution, and native window title overrides.
+// ---
+
 #ifndef UI_VIEWS_ACCESSIBILITY_VIEW_AX_PLATFORM_NODE_DELEGATE_MAC_H_
 #define UI_VIEWS_ACCESSIBILITY_VIEW_AX_PLATFORM_NODE_DELEGATE_MAC_H_
 

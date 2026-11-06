@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tooltip icon implementation
+// summary: Implements TooltipIcon, an info icon that shows an InfoBubble on hover, focus, or tap, with timers, mouse watching, and observer notifications.
+// ---
+
 #include "ui/views/bubble/tooltip_icon.h"
 
 #include "base/observer_list.h"

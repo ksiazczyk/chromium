@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PulsingPathInkDropMask class declaration
+// summary: Declares PulsingPathInkDropMask, an ink drop mask that animates a supplied SkPath highlight into a pulsing effect using a ThrobAnimation.
+// ---
+
 #ifndef UI_VIEWS_ANIMATION_PULSING_PATH_INK_DROP_MASK_H_
 #define UI_VIEWS_ANIMATION_PULSING_PATH_INK_DROP_MASK_H_
 

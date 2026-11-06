@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestInkDropHost header
+// summary: Declares a non-functional View test double that tracks hosted ink drop layers and created ripples and highlights.
+// ---
+
 #ifndef UI_VIEWS_ANIMATION_TEST_TEST_INK_DROP_HOST_H_
 #define UI_VIEWS_ANIMATION_TEST_TEST_INK_DROP_HOST_H_
 

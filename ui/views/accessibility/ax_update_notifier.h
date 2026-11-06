@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXUpdateNotifier class declaration
+// summary: Declares the AXUpdateNotifier singleton for observing accessibility updates on views and virtual views and notifying per-widget accessibility managers of changes.
+// ---
+
 #ifndef UI_VIEWS_ACCESSIBILITY_AX_UPDATE_NOTIFIER_H_
 #define UI_VIEWS_ACCESSIBILITY_AX_UPDATE_NOTIFIER_H_
 

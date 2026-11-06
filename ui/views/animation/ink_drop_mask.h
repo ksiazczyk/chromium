@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ink drop mask layer classes
+// summary: Declares the InkDropMask base class that creates a mask layer for ink drop layers, along with PathInkDropMask which paints a specified path.
+// ---
+
 #ifndef UI_VIEWS_ANIMATION_INK_DROP_MASK_H_
 #define UI_VIEWS_ANIMATION_INK_DROP_MASK_H_
 

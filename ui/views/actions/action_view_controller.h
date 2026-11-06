@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Action view controller header
+// summary: Declares ActionViewControllerBase and the templated ActionViewControllerTemplate that links action items to views and syncs changes and invocations.
+// ---
+
 #ifndef UI_VIEWS_ACTIONS_ACTION_VIEW_CONTROLLER_H_
 #define UI_VIEWS_ACTIONS_ACTION_VIEW_CONTROLLER_H_
 

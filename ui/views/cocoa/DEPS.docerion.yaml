@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ui/views/cocoa
+summary: Defines include rules allowing ui/views/cocoa to depend on components/remote_cocoa and ui/accelerated_widget_mac.

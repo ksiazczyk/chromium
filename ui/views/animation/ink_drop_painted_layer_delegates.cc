@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ink drop painted layer delegate implementations
+// summary: Implements layer delegates that paint circles, rectangles, rounded rectangles and border shadows used for ink drop visuals.
+// ---
+
 #include "ui/views/animation/ink_drop_painted_layer_delegates.h"
 
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXVirtualView implementation
+// summary: Implements AXVirtualView, accessibility-only virtual views with child management, platform node creation, and accessibility event notifications for lightweight UI objects.
+// ---
+
 #include "ui/views/accessibility/ax_virtual_view.h"
 
 #include <stdint.h>

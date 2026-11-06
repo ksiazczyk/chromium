@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SlideOutController swipe-to-dismiss implementation
+// summary: Implements gesture-driven slide-out logic that swipes a layer out and closes it, with optional swipe controls and opacity updates.
+// ---
+
 #include "ui/views/animation/slide_out_controller.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InkDropHighlight class declaration
+// summary: Declares the views::InkDropHighlight class, which manages fade in/out animations on a layer to render hover and focus highlight feedback for Views.
+// ---
+
 #ifndef UI_VIEWS_ANIMATION_INK_DROP_HIGHLIGHT_H_
 #define UI_VIEWS_ANIMATION_INK_DROP_HIGHLIGHT_H_
 

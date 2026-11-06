@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ink drop ripple base implementation
+// summary: Implements the InkDropRipple base class, handling state transitions, snapping, visibility and observer callbacks for ink drop ripple animations.
+// ---
+
 #include "ui/views/animation/ink_drop_ripple.h"
 
 #include "base/command_line.h"

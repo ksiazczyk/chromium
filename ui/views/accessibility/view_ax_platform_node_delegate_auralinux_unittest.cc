@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Linux view accessibility delegate
+// summary: Verifies ATK accessibility behavior on Linux, such as textfields as leaf nodes, text insert and remove events, and expanded-state signals.
+// ---
+
 #include "ui/views/accessibility/view_ax_platform_node_delegate_auralinux.h"
 
 #include <atk/atk.h>

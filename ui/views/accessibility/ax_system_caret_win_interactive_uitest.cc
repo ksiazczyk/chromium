@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows system caret accessibility interactive UI test
+// summary: Interactive UI test that verifies Windows accessibility caret events, roles, and states for a focused text field inside a desktop widget.
+// ---
+
 #include <windows.h>  // Must come before other Windows system headers.
 
 #include <oleacc.h>

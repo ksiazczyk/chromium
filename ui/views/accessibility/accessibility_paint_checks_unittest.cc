@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for accessibility paint checks
+// summary: Verifies that the paint checks pass for named or unfocusable views and fail for focusable views lacking an accessible name or valid role.
+// ---
+
 #include "ui/views/accessibility/accessibility_paint_checks.h"
 
 #include <memory>

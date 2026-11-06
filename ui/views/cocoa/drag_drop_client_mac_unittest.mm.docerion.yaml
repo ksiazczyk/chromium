@@ -1,0 +1,4 @@
+# Docerion header of drag_drop_client_mac_unittest.mm.
+type: test
+title: DragDropClientMac unit tests
+summary: Unit tests for DragDropClientMac using mocked NSDraggingInfo and a swizzled fake dragging session.

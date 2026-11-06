@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AtomicViewAXTreeManager unit tests
+// summary: Unit tests verifying node data updates, root and node lookup, and root node ID preservation after widget removal for the atomic view accessibility tree manager.
+// ---
+
 #include "ui/views/accessibility/atomic_view_ax_tree_manager.h"
 
 #include <memory>

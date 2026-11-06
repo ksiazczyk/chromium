@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InkDropStub no-op implementation
+// summary: Implements InkDropStub as a no-op InkDrop used when no visuals should be shown, always reporting a hidden state and ignoring animation, hover, and focus calls.
+// ---
+
 #include "ui/views/animation/ink_drop_stub.h"
 
 namespace views {

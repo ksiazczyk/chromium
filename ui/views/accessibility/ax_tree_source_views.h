@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXTreeSourceViews class declaration
+// summary: Declares AXTreeSourceViews, which exposes the Views hierarchy as an accessibility tree source usable with other accessibility classes and the desktop automation API.
+// ---
+
 #ifndef UI_VIEWS_ACCESSIBILITY_AX_TREE_SOURCE_VIEWS_H_
 #define UI_VIEWS_ACCESSIBILITY_AX_TREE_SOURCE_VIEWS_H_
 

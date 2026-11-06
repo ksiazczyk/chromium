@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ink drop observer interface
+// summary: Observer interface for an InkDrop, notifying when ink drop animations start and when ripple animations end.
+// ---
+
 #ifndef UI_VIEWS_ANIMATION_INK_DROP_OBSERVER_H_
 #define UI_VIEWS_ANIMATION_INK_DROP_OBSERVER_H_
 

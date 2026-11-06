@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BubbleSlideAnimator unit tests
+// summary: Unit tests for BubbleSlideAnimator that verify bubble slide animations between anchor views using widget test fixtures and controlled animation durations.
+// ---
+
 #include "ui/views/animation/bubble_slide_animator.h"
 
 #include <memory>

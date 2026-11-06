@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Flood fill ink drop ripple test API implementation
+// summary: Implements the test API for FloodFillInkDropRipple, exposing layer transforms, drawn center point, corner distances, opacity and animators for tests.
+// ---
+
 #include "ui/views/animation/test/flood_fill_ink_drop_ripple_test_api.h"
 
 #include <vector>

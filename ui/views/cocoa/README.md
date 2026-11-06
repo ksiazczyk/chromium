@@ -1,3 +1,11 @@
+---
+type: readme
+title: Cocoa and Views integration in ui/views/cocoa
+summary: Describes the directory as code directly interfacing Cocoa with Chrome's Views toolkit and points to Remote Cocoa for the broader architecture.
+relations:
+  - references /ui/views/README.md
+---
+
 This directory contains odds and ends that *directly* interface between Cocoa,
 the native macOS UI toolkit and Chrome's [Views toolkit](../README.md).
 

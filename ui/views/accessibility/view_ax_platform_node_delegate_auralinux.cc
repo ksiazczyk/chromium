@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux view accessibility delegate implementation
+// summary: Implements the Linux-specific accessibility delegate for Views, including the ATK application root object that tracks top-level widgets as its children.
+// ---
+
 #include "ui/views/accessibility/view_ax_platform_node_delegate_auralinux.h"
 
 #include <algorithm>

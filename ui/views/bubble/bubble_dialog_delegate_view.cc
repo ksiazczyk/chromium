@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BubbleDialogDelegateView implementation
+// summary: Implements the bubble dialog delegate that manages bubble widgets anchored to views or tracked elements, including anchor bookkeeping and theming.
+// ---
+
 #include "ui/views/bubble/bubble_dialog_delegate_view.h"
 
 #include <algorithm>

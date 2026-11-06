@@ -1,0 +1,4 @@
+# Docerion header of ax_virtual_view_mac.mm.
+type: source
+title: AXVirtualView Mac NSWindow accessor
+summary: Mac-specific implementation of AXVirtualView::GetNSWindow that returns the native accessible object for the owner view's NS window.

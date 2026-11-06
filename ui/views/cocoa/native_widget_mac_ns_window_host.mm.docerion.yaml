@@ -1,0 +1,4 @@
+# Docerion header of native_widget_mac_ns_window_host.mm.
+type: source
+title: NativeWidgetMacNSWindowHost implementation
+summary: Implements the browser-process host for Mac native widgets, bridging Cocoa windows, compositor layers, accessibility, and mojo IPC to remote_cocoa.

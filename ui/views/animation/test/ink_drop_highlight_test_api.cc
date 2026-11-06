@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ink drop highlight test API implementation
+// summary: Implements the test API for InkDropHighlight, exposing its layer animator and transform calculation for animation tests.
+// ---
+
 #include "ui/views/animation/test/ink_drop_highlight_test_api.h"
 
 #include "base/time/time.h"

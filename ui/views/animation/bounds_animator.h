@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BoundsAnimator class declaration
+// summary: Declares the BoundsAnimator API for animating view bounds, including per-view animations, delegates, observers, duration and tween control, and completion or cancellation of all animations.
+// ---
+
 #ifndef UI_VIEWS_ANIMATION_BOUNDS_ANIMATOR_H_
 #define UI_VIEWS_ANIMATION_BOUNDS_ANIMATOR_H_
 

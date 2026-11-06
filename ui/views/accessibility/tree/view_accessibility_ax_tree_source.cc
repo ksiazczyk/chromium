@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewAccessibilityAXTreeSource implementation
+// summary: Implements the AXTreeSource adapter that exposes the Views accessibility hierarchy as an accessibility tree, handling actions, tree data, focus, and node traversal through WidgetViewAXCache.
+// ---
+
 #include "ui/views/accessibility/tree/view_accessibility_ax_tree_source.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollAnimator fling scroll implementation
+// summary: Implements a decelerating fling scroll animation that computes scroll deltas and reports them to a ScrollDelegate.
+// ---
+
 #include "ui/views/animation/scroll_animator.h"
 
 #include <algorithm>

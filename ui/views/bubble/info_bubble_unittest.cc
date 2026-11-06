@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Info bubble unit tests
+// summary: Unit tests for InfoBubble covering creation, preferred width sizing, and visibility behavior when the anchor widget is hidden.
+// ---
+
 #include "ui/views/bubble/info_bubble.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CompositorAnimationRunner unit tests
+// summary: Unit tests for CompositorAnimationRunner verifying compositor-driven animation stepping, call-site location reporting, and compositor metrics reporting on ChromeOS.
+// ---
+
 #include "ui/views/animation/compositor_animation_runner.h"
 
 #include "base/test/bind.h"

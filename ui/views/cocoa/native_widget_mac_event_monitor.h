@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeWidgetMacEventMonitor class declaration
+// summary: Declares a class that installs an NSEvent local monitor for a widget and reports observed events to its client interface.
+// ---
+
 #ifndef UI_VIEWS_COCOA_NATIVE_WIDGET_MAC_EVENT_MONITOR_H_
 #define UI_VIEWS_COCOA_NATIVE_WIDGET_MAC_EVENT_MONITOR_H_
 

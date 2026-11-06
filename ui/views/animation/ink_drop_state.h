@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InkDropState enum for ink drop animation states
+// summary: Defines the InkDropState enum listing the states an ink drop animation can be animated to, with ToString for logging and a PrintTo helper for gtest-based tests.
+// ---
+
 #ifndef UI_VIEWS_ANIMATION_INK_DROP_STATE_H_
 #define UI_VIEWS_ANIMATION_INK_DROP_STATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InkDropHighlight implementation
+// summary: Implements the ink drop highlight visual, setting up painted or solid color layers and animating fade in and fade out transitions.
+// ---
+
 #include "ui/views/animation/ink_drop_highlight.h"
 
 #include <memory>

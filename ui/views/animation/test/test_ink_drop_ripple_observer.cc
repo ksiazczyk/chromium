@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test ink drop ripple observer implementation
+// summary: Implements a test double observer that records ink drop ripple animation started and ended events and captures the ripple's target ink drop state at each event.
+// ---
+
 #include "ui/views/animation/test/test_ink_drop_ripple_observer.h"
 
 #include "ui/views/animation/ink_drop_ripple.h"

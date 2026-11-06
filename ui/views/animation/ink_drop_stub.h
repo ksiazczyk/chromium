@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InkDropStub class declaration
+// summary: Declares InkDropStub, a VIEWS_EXPORT no-op subclass of InkDrop for cases where no ink drop visuals should be rendered.
+// ---
+
 #ifndef UI_VIEWS_ANIMATION_INK_DROP_STUB_H_
 #define UI_VIEWS_ANIMATION_INK_DROP_STUB_H_
 

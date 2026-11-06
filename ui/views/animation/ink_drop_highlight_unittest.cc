@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InkDropHighlight unit tests
+// summary: Unit tests covering InkDropHighlight fade in/out state transitions and observer notifications using a test API and a mock observer.
+// ---
+
 #include "ui/views/animation/ink_drop_highlight.h"
 
 #include <cmath>

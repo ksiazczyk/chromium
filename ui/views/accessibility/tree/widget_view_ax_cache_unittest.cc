@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for WidgetViewAXCache
+// summary: Unit tests verifying WidgetViewAXCache insert, lookup, removal, and stable child snapshot behavior during serialization.
+// ---
+
 #include "ui/views/accessibility/tree/widget_view_ax_cache.h"
 
 #include <memory>

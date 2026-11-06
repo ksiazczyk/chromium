@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXViewObjWrapper implementation
+// summary: Implements the accessibility wrapper for a View, providing parent and child lookup, node serialization, action handling, and cache cleanup on view deletion.
+// ---
+
 #include "ui/views/accessibility/ax_view_obj_wrapper.h"
 
 #include <string>

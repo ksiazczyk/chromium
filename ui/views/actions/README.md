@@ -1,3 +1,9 @@
+---
+type: readme
+title: Integrating Actions and Views
+summary: Explains the MVC-based action/view controller pattern and walks through creating an ActionViewInterface subclass for a new view class.
+---
+
 # Integrating Actions and Views
 
 Actions are essentially model objects. Following MVC principles, a view

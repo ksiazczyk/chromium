@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BubbleFrameView implementation
+// summary: Implements the non-client frame view for bubble-styled widgets, laying out title, header, main image, progress indicator, and footnote areas.
+// ---
+
 #include "ui/views/bubble/bubble_frame_view.h"
 
 #include <algorithm>

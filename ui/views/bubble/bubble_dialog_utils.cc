@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bubble dialog button configuration helper implementation
+// summary: Implements ConfigureBubbleButtonForParams, which applies dialog model button label, style, and enabled state to a bubble dialog delegate.
+// ---
+
 #include "ui/views/bubble/bubble_dialog_utils.h"
 
 #include "ui/base/models/dialog_model.h"

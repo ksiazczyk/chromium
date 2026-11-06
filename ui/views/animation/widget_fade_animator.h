@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WidgetFadeAnimator header
+// summary: Declares the views WidgetFadeAnimator class, which animates a widget's opacity for fade-in/fade-out effects with optional simultaneous slide, including fade callbacks and show-type controls.
+// ---
+
 #ifndef UI_VIEWS_ANIMATION_WIDGET_FADE_ANIMATOR_H_
 #define UI_VIEWS_ANIMATION_WIDGET_FADE_ANIMATOR_H_
 

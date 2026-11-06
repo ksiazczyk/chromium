@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Action view interface header
+// summary: Declares the ActionViewInterface base class with hooks for action item changes, action invocation, and view changes.
+// ---
+
 #ifndef UI_VIEWS_ACTIONS_ACTION_VIEW_INTERFACE_H_
 #define UI_VIEWS_ACTIONS_ACTION_VIEW_INTERFACE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewAccessibilityUtils helper declarations
+// summary: Declares ViewAccessibilityUtils, helper functions for focused child widget lookup, AXNodeData merging, and attribute validation.
+// ---
+
 #ifndef UI_VIEWS_ACCESSIBILITY_VIEW_ACCESSIBILITY_UTILS_H_
 #define UI_VIEWS_ACCESSIBILITY_VIEW_ACCESSIBILITY_UTILS_H_
 

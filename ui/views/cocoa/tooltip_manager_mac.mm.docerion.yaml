@@ -1,0 +1,4 @@
+# Docerion header of tooltip_manager_mac.mm.
+type: source
+title: TooltipManagerMac implementation
+summary: Implements TooltipManagerMac, reporting tooltip updates along with the maximum width and font list used for Cocoa tooltips.

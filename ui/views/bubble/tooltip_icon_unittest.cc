@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tooltip icon unit tests
+// summary: Unit test verifying that TooltipIcon exposes the accessible tooltip role and name for screen readers.
+// ---
+
 #include "ui/views/bubble/tooltip_icon.h"
 
 #include <memory>

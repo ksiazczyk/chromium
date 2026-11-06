@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewAXPlatformNodeDelegate implementation
+// summary: Implements ViewAXPlatformNodeDelegate, which bridges View accessibility to native platform APIs and queues delayed accessibility events.
+// ---
+
 #include "ui/views/accessibility/view_ax_platform_node_delegate.h"
 
 #include <algorithm>

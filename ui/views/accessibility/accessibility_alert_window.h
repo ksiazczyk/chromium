@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility alert window class declaration
+// summary: Declares the AccessibilityAlertWindow class, which raises accessibility alerts through a child aura window without a backing visible view.
+// ---
+
 #ifndef UI_VIEWS_ACCESSIBILITY_ACCESSIBILITY_ALERT_WINDOW_H_
 #define UI_VIEWS_ACCESSIBILITY_ACCESSIBILITY_ALERT_WINDOW_H_
 

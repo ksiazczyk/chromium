@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bubble border arrow utilities implementation
+// summary: Implements helpers that map arrow positions to anchor points, sides, offsets, and insets for placing visible bubble arrows.
+// ---
+
 #include "ui/views/bubble/bubble_border_arrow_utils.h"
 
 namespace views {

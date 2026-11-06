@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXUpdateNotifier implementation
+// summary: Implements the AXUpdateNotifier singleton that broadcasts accessibility events and data changes to observers and directly notifies per-widget accessibility managers.
+// ---
+
 #include "ui/views/accessibility/ax_update_notifier.h"
 
 #include "base/no_destructor.h"

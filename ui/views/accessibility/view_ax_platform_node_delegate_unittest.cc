@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the view AX platform node delegate
+// summary: Extensive unit tests for view accessibility covering names, roles, actions, tables, menus, textfields, and accessibility event observers.
+// ---
+
 #include "ui/views/accessibility/view_ax_platform_node_delegate.h"
 
 #include <memory>

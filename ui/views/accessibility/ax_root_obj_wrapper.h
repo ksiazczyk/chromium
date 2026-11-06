@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXRootObjWrapper class declaration
+// summary: Declares the root accessibility object wrapper for the Views AX tree, which serializes the root node, exposes children, and observes display metrics changes.
+// ---
+
 #ifndef UI_VIEWS_ACCESSIBILITY_AX_ROOT_OBJ_WRAPPER_H_
 #define UI_VIEWS_ACCESSIBILITY_AX_ROOT_OBJ_WRAPPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BubbleBorder implementation
+// summary: Implements painting of the bubble border with rounded corners, optional arrows, and cached shadow values driven by the color provider.
+// ---
+
 #include "ui/views/bubble/bubble_border.h"
 
 #include <algorithm>

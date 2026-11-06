@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InkDropAnimationEndedReason ToString
+// summary: Implements ToString for the InkDropAnimationEndedReason enum, mapping SUCCESS and PRE_EMPTED values to readable strings for logging.
+// ---
+
 #include "ui/views/animation/ink_drop_animation_ended_reason.h"
 
 #include <ostream>

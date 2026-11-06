@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test ink drop highlight observer implementation
+// summary: Implements an InkDropHighlightObserver test double that forwards animation events to the observer helper.
+// ---
+
 #include "ui/views/animation/test/test_ink_drop_highlight_observer.h"
 
 #include "ui/views/animation/ink_drop_highlight.h"

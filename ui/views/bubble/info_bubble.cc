@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Info bubble implementation
+// summary: Implements InfoBubble, a simple anchored bubble for errors or tooltips, with show and hide behavior, frame creation, and preferred width handling.
+// ---
+
 #include "ui/views/bubble/info_bubble.h"
 
 #include <memory>

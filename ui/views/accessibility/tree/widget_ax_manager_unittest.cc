@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for WidgetAXManager
+// summary: Unit tests for the widget accessibility manager, covering enablement, pending events, serialization, and child widget tree handling.
+// ---
+
 #include "ui/views/accessibility/tree/widget_ax_manager.h"
 
 #include <algorithm>

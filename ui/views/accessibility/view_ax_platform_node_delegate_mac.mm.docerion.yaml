@@ -1,0 +1,4 @@
+# Docerion header of view_ax_platform_node_delegate_mac.mm.
+type: source
+title: Mac view accessibility delegate implementation
+summary: Implements the Mac-specific accessibility delegate, creating the platform delegate and wiring root views to NSWindow and NSView accessibility.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InkDropMask implementation
+// summary: Implements InkDropMask and PathInkDropMask, layer delegates that paint masks shaping the ink drop effect.
+// ---
+
 #include "ui/views/animation/ink_drop_mask.h"
 
 #include "cc/paint/paint_flags.h"
