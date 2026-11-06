@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test device identifier header
+// summary: Declares helpers to set and reset a fake device identifier for testing.
+// ---
+
 #ifndef IOS_CHROME_TEST_PROVIDERS_SIGNIN_TEST_DEVICE_IDENTIFIER_H_
 #define IOS_CHROME_TEST_PROVIDERS_SIGNIN_TEST_DEVICE_IDENTIFIER_H_
 

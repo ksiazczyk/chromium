@@ -1,0 +1,4 @@
+# Docerion header of variations_smoke_test_app_interface_stub.mm.
+type: test
+title: Stub for variations smoke test app interface
+summary: Registers a stub of the variations smoke test app interface via GREY_STUB_CLASS_IN_APP_MAIN_QUEUE for Earl Grey test support.

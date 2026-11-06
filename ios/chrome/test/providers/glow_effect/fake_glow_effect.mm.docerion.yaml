@@ -1,0 +1,4 @@
+# Docerion header of fake_glow_effect.mm.
+type: test
+title: Fake GlowEffect view implementation
+summary: Implements FakeGlowEffectView with glow state controls and a CreateGlowEffect factory returning the fake view for tests.

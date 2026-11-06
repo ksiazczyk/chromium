@@ -1,0 +1,4 @@
+# Docerion header of test_choice.mm.
+type: test
+title: Test choice provider
+summary: Disables the default search engine choice screen so it is not shown automatically during unit tests.

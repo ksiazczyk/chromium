@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the add_to_calendar test provider
+summary: GN build file defining the add_to_calendar source set with the test stub and a dependency on the add-to-calendar provider API.

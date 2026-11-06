@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mini map test provider header
+// summary: Declares the MiniMapControllerFactory protocol and a helper to install a global test factory that replaces mini map providers in tests.
+// ---
+
 #ifndef IOS_CHROME_TEST_PROVIDERS_MINI_MAP_TEST_MINI_MAP_H_
 #define IOS_CHROME_TEST_PROVIDERS_MINI_MAP_TEST_MINI_MAP_H_
 

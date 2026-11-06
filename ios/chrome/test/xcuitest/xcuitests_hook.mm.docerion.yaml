@@ -1,0 +1,4 @@
+# Docerion header of xcuitests_hook.mm.
+type: test
+title: Test hooks disabling app features for XCUITests
+summary: Implements Chrome tests_hook overrides that disable first run, promos, feeds, signin and other features while XCUITests run.

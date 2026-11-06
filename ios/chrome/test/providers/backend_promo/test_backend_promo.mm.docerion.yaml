@@ -1,0 +1,4 @@
+# Docerion header of test_backend_promo.mm.
+type: test
+title: Test backend promo service provider
+summary: Supplies a stub TestBackendPromoService and no-op provider functions so iOS code can use the backend promo provider in tests.

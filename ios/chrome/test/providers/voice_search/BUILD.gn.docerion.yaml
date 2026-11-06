@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Voice search test provider build rules
+summary: GN build file defining the testonly voice_search source_set with its test provider sources and dependencies.

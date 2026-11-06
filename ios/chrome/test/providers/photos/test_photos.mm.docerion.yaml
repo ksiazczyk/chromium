@@ -1,0 +1,4 @@
+# Docerion header of test_photos.mm.
+type: test
+title: Photos provider test factory
+summary: Factory function that returns a TestPhotosService instance in place of the real photos provider during tests.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: BUILD.gn for the privacy primitive test provider
+summary: Defines a testonly source_set bundling the fake Privacy Primitive provider sources with dependencies on base and the provider API.

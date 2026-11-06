@@ -1,0 +1,4 @@
+# Docerion header of test_cobalt.mm.
+type: test
+title: No-op Cobalt provider stubs for tests
+summary: Implements empty stubs of the Cobalt provider API, such as tab helper attachers and coordinator factories, returning nil or nothing for test builds.

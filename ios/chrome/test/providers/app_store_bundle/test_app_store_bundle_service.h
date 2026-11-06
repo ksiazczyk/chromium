@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake app store bundle service declaration
+// summary: Declares TestAppStoreBundleService, a fake AppStoreBundleService with a settable installed app count and controllable promo dismissal for unit testing.
+// ---
+
 #ifndef IOS_CHROME_TEST_PROVIDERS_APP_STORE_BUNDLE_TEST_APP_STORE_BUNDLE_SERVICE_H_
 #define IOS_CHROME_TEST_PROVIDERS_APP_STORE_BUNDLE_TEST_APP_STORE_BUNDLE_SERVICE_H_
 

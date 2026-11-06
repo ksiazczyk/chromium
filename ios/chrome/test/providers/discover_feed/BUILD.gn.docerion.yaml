@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for the discover_feed test provider
+summary: Defines the test-only discover_feed source set listing its test provider sources and dependencies on fakes and the Discover Feed provider API.

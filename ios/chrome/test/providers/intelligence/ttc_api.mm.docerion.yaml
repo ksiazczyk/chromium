@@ -1,0 +1,4 @@
+# Docerion header of ttc_api.mm.
+type: source
+title: Mock TTC API implementation
+summary: Implements the TTC provider API with a default mock configuration and hooks to override the config and audio engine in tests.

@@ -1,0 +1,4 @@
+# Docerion header of generate_localizable_strings.mm.
+type: source
+title: Tool that generates localized strings files for iOS app bundles
+summary: Build-time helper that extracts strings from data packs and grit headers to generate localized .strings files for iOS app bundles.

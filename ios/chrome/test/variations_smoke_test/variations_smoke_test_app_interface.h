@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App interface for variations smoke test
+// summary: Declares the app interface used by the variations smoke test to check seed storage, fetch timing, commit prefs, and store seed data.
+// ---
+
 #ifndef IOS_CHROME_TEST_VARIATIONS_SMOKE_TEST_VARIATIONS_SMOKE_TEST_APP_INTERFACE_H_
 #define IOS_CHROME_TEST_VARIATIONS_SMOKE_TEST_VARIATIONS_SMOKE_TEST_APP_INTERFACE_H_
 

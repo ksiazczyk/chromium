@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for passcode_settings test provider
+summary: GN build file defining the passcode_settings source set with the test provider source and a dependency on the passcode settings API.

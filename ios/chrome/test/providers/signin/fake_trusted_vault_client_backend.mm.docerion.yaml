@@ -1,0 +1,4 @@
+# Docerion header of fake_trusted_vault_client_backend.mm.
+type: test
+title: Fake trusted vault client backend implementation
+summary: Implements the fake trusted vault backend, including a stub reauth dialog view controller that tests can cancel.

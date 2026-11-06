@@ -1,0 +1,4 @@
+# Docerion header of test_app_switcher.mm.
+type: test
+title: App Switcher provider test helper implementation
+summary: Implements the test App Switcher provider, forwarding URL responses to the registered test helper or posting a default empty result when none is set.

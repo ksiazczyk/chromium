@@ -1,0 +1,4 @@
+# Docerion header of test_branded_images.mm.
+type: test
+title: Test branded images provider stub
+summary: Implements the branded images provider for tests by returning nil for every requested branded image.

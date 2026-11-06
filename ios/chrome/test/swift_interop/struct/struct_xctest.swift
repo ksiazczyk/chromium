@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Swift XCTest for C++ struct interoperability
+// summary: XCTest case that creates Foolean structs in Swift, calls its static method, and passes them to C++ functions to verify struct interoperability.
+// ---
+
 import CxxImports
 import XCTest
 

@@ -1,0 +1,4 @@
+# Docerion header of test_add_to_calendar.mm.
+type: test
+title: Add to Calendar test provider stub
+summary: Objective-C++ test stub providing an empty PresentAddToCalendar implementation of the iOS add-to-calendar provider API.

@@ -1,0 +1,4 @@
+# Docerion header of test_host.mm.
+type: source
+title: Swift interop test host app source
+summary: Objective-C++ implementation of the app delegate, scene delegate and main entry point that hosts the Swift interop XCUITests.

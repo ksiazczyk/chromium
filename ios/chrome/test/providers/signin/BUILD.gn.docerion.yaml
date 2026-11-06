@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Signin test providers build file (BUILD.gn)
+summary: Defines GN test-only source sets that bundle the fake signin provider implementations for iOS Chrome.

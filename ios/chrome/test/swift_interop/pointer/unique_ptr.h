@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unique_ptr declarations for Swift interop test
+// summary: Declares the Value and ValueReturner classes used to test returning a std::unique_ptr from C++ to Swift.
+// ---
+
 #ifndef IOS_CHROME_TEST_SWIFT_INTEROP_POINTER_UNIQUE_PTR_H_
 #define IOS_CHROME_TEST_SWIFT_INTEROP_POINTER_UNIQUE_PTR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Swift C++ interop class tests
+summary: Defines the test-only source sets and Swift C++ import targets that build the interop test classes and their XCTest suite.

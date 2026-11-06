@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the test push notification provider
+summary: GN build file defining the push_notification source_set that compiles the test push notification provider with dependencies on base, google_apis, and the push notification API.

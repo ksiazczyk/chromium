@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test application mode fetcher provider interface
+// summary: Declares a protocol and a setter for a global test helper that replaces the application mode fetcher provider during tests.
+// ---
+
 #ifndef IOS_CHROME_TEST_PROVIDERS_APPLICATION_MODE_FETCHER_TEST_APPLICATION_MODE_FETCHER_H_
 #define IOS_CHROME_TEST_PROVIDERS_APPLICATION_MODE_FETCHER_TEST_APPLICATION_MODE_FETCHER_H_
 

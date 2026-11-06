@@ -1,0 +1,4 @@
+# Docerion header of test_device_identifier.mm.
+type: test
+title: Test device identifier implementation
+summary: Stores and returns a configurable test device identifier for the iOS signin device identifier API.

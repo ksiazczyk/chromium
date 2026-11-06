@@ -1,0 +1,4 @@
+# Docerion header of ios_strings_tool.py.
+type: script
+title: Python host tool for iOS string generation on non-macOS hosts
+summary: Pure-Python host tool providing generate_localizable_strings and substitute_strings_identifier equivalents for iOS builds on non-macOS hosts.

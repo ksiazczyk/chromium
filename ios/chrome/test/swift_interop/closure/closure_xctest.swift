@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Closure interop XCTest cases
+// summary: XCTest cases that call C++ repeating and once closures from Swift and verify lifetime safety after releasing the provider.
+// ---
+
 import CxxImports
 import XCTest
 

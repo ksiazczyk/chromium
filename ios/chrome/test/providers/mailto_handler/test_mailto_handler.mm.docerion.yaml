@@ -1,0 +1,4 @@
+# Docerion header of test_mailto_handler.mm.
+type: test
+title: Test mailto handler service stub
+summary: Supplies a dummy MailtoHandlerService implementation for tests, returning a test settings title and forwarding mailto URLs to UIApplication.

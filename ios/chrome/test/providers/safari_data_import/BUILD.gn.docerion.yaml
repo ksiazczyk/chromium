@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Safari data import test provider BUILD.gn
+summary: Defines the GN source set for the Safari data import test provider, building test_safari_data_import.mm against the provider API dependency.

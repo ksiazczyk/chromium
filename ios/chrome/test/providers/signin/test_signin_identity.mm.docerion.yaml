@@ -1,0 +1,4 @@
+# Docerion header of test_signin_identity.mm.
+type: test
+title: Test signin identity provider
+summary: Test provider factory that returns a FakeSystemIdentityManager for the signin identity API in iOS Chrome tests.

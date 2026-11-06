@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Device attestation test provider build file
+summary: Defines the testonly source_set that builds the fake device attestation provider for iOS Chrome tests.

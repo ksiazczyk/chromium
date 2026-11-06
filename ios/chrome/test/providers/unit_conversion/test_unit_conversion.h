@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit conversion provider test helper header
+// summary: Declares a protocol and a setter for a global helper that replaces the unit conversion provider in tests.
+// ---
+
 #ifndef IOS_CHROME_TEST_PROVIDERS_UNIT_CONVERSION_TEST_UNIT_CONVERSION_H_
 #define IOS_CHROME_TEST_PROVIDERS_UNIT_CONVERSION_TEST_UNIT_CONVERSION_H_
 

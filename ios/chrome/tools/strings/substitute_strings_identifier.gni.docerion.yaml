@@ -1,0 +1,4 @@
+# Docerion header of substitute_strings_identifier.gni.
+type: config
+title: GN template for substituting string identifiers in plists
+summary: GN template that defines an action converting string identifiers in property list files to their numeric values using grit headers.

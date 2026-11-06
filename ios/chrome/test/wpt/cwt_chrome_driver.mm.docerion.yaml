@@ -1,0 +1,4 @@
+# Docerion header of cwt_chrome_driver.mm.
+type: test
+title: CWTChromeDriver WebDriver host test case
+summary: Hosts a minimal WebDriver HTTP server inside a dummy XCTest case so Web Platform Tests can drive iOS Chrome via EDO.

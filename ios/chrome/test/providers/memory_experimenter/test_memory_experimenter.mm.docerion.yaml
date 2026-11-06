@@ -1,0 +1,4 @@
+# Docerion header of test_memory_experimenter.mm.
+type: test
+title: Memory experimenter test provider stubs
+summary: Provides empty test implementations of the provider functions BeginMemoryExperimentation and StopMemoryExperimentation.

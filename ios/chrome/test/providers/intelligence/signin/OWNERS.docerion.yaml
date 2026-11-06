@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the signin test AI provider
+summary: Lists arthurmilchior@chromium.org as the owner of the signin test provider directory.

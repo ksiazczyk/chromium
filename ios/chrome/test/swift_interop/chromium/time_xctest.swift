@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Swift XCTest for TimeDelta conversion from timespec
+// summary: XCTest case that verifies base.swift.TimeDelta conversions from timespec values across seconds, milliseconds, microseconds, and nanoseconds.
+// ---
+
 import CxxImports
 import XCTest
 

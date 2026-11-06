@@ -1,0 +1,4 @@
+# Docerion header of run_clusterfuzz_test.sh.
+type: script
+title: ClusterFuzz bot runner for iOS fuzz tests
+summary: Shell script used by ClusterFuzz bots to run iOS fuzz tests through run_fuzz_test.py with a fixed simulator device and iOS version.

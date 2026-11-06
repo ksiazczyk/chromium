@@ -1,0 +1,4 @@
+# Docerion header of run_cwt_chromedriver_wrapper.py.
+type: script
+title: vpython3 wrapper for run_cwt_chromedriver
+summary: Wrapper that imports run_cwt_chromedriver so WPT scripts can invoke it within a vpython3 environment.

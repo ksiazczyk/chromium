@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Swift/C++ interop test targets
+summary: GN build file defining the testonly XCTest source set and the SwiftAPI swift_source_set used for Swift and Objective-C/C++ interop testing on iOS.

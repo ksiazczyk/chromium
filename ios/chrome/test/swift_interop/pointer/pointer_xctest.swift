@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XCTest for pointers returned from C++ to Swift
+// summary: Checks that integer and object pointers returned from C++ can be dereferenced and used correctly in Swift.
+// ---
+
 import CxxImports
 import XCTest
 

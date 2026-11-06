@@ -1,0 +1,4 @@
+# Docerion header of test_user_feedback.mm.
+type: test
+title: Test user feedback provider
+summary: Stub implementation of the user feedback provider API for unit tests, reporting support and no-op feedback flows.

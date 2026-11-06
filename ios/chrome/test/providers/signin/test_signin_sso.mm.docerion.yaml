@@ -1,0 +1,4 @@
+# Docerion header of test_signin_sso.mm.
+type: test
+title: Test SSO service provider
+summary: Test provider that creates an empty TestSingleSignOnService implementing the single sign-on API for iOS Chrome tests.

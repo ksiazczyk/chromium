@@ -1,0 +1,4 @@
+# Docerion header of test_mini_map.mm.
+type: test
+title: Mini map test provider implementation
+summary: Implements the mini map provider functions by forwarding calls to the global test factory, returning safe defaults for optional campaign token and preview bypass methods.

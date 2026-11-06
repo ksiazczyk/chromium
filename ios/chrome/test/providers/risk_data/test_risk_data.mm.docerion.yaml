@@ -1,0 +1,4 @@
+# Docerion header of test_risk_data.mm.
+type: test
+title: Test stub for the risk data provider
+summary: Implements a test-only GetRiskData function that returns an empty string for the risk data provider API.

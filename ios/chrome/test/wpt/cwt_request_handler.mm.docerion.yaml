@@ -1,0 +1,4 @@
+# Docerion header of cwt_request_handler.mm.
+type: source
+title: CWTRequestHandler implementation
+summary: Implements WebDriver commands for sessions, navigation, tabs, scripts, and screenshots, plus Chrome-specific crash test and version commands.

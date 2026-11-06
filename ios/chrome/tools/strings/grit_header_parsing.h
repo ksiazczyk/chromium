@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface for grit header resource parsing
+// summary: Declares the ResourceMap type and the function that loads resource identifier mappings from grit-generated headers.
+// ---
+
 #ifndef IOS_CHROME_TOOLS_STRINGS_GRIT_HEADER_PARSING_H_
 #define IOS_CHROME_TOOLS_STRINGS_GRIT_HEADER_PARSING_H_
 

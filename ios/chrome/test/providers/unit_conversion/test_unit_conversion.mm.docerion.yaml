@@ -1,0 +1,4 @@
+# Docerion header of test_unit_conversion.mm.
+type: test
+title: Unit conversion provider test stub implementation
+summary: Implements unit conversion provider functions as test stubs that delegate to a globally set test helper.

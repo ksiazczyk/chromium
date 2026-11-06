@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Swift API helpers for interop testing
+// summary: Swift module source providing public string, array and optional helpers plus a TestStruct, built testonly and exercised by the Objective-C++ interop tests.
+// ---
+
 public func updateSwiftString(str: String) -> String {
   return str + " updated"
 }

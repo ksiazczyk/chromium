@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test app distribution provider header
+// summary: Declares test helpers that report whether app distribution notifications were scheduled or canceled and reset the state tracking those calls.
+// ---
+
 #ifndef IOS_CHROME_TEST_PROVIDERS_APP_DISTRIBUTION_TEST_APP_DISTRIBUTION_H_
 #define IOS_CHROME_TEST_PROVIDERS_APP_DISTRIBUTION_TEST_APP_DISTRIBUTION_H_
 

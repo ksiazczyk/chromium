@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the tools directory
+summary: Declares the Chromium issue-tracker components (Monorail and Buganizer) that apply to the ios/chrome/tools directory.

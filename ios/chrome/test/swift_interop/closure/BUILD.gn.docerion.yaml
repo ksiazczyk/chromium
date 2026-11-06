@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for Swift interop closure tests
+summary: GN build file defining the C++ closure source set, the Swift header import, and the Swift XCTest target for the closure interop tests.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for the risk_data test provider
+summary: Defines the testonly risk_data source set that compiles the test risk data provider against the risk data API.

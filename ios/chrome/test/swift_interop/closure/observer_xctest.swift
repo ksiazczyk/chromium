@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Observer interop XCTest cases
+// summary: XCTest cases comparing plain closures, C++ callbacks, and Combine publishers as ways to notify C++ observers of Swift value changes.
+// ---
+
 import Combine
 import CxxImports
 import XCTest

@@ -1,0 +1,4 @@
+# Docerion header of cwt_stderr_logger.mm.
+type: source
+title: CWTStderrLogger implementation
+summary: Redirects stderr to a file by duplicating and restoring file descriptors around the redirection period.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for the Gemini test provider fake
+summary: GN build file defining the test-only gemini source set that compiles test_gemini.mm against the bwg provider API.

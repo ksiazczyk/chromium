@@ -1,0 +1,4 @@
+# Docerion header of signin_test_ai.mm.
+type: source
+title: Chromium test AI signin provider implementation
+summary: Debug-only provider stub that maps AI tiers to display names and loads the premium disc image, never shown to users since sign-in is not possible on Chromium.

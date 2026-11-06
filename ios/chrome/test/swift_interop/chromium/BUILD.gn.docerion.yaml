@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for Swift interop tests
+summary: Defines a test-only Swift source set that builds the Swift XCTest files for Chromium base C++ interop when Swift/C++ interop is enabled.

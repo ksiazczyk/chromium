@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Polymorphic C++ class hierarchy for Swift interop tests
+// summary: Declares a Shape, Rectangle, Square and Triangle hierarchy used to test Swift interop with C++ inheritance and virtual methods.
+// ---
+
 #ifndef IOS_CHROME_TEST_SWIFT_INTEROP_CLASSES_POLYMORPHISM_H_
 #define IOS_CHROME_TEST_SWIFT_INTEROP_CLASSES_POLYMORPHISM_H_
 

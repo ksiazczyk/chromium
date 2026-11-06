@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XCTest for C++ polymorphism in Swift
+// summary: XCTest case documenting which C++ inheritance and polymorphism scenarios work or fail from Swift, referencing Swift issue 55192.
+// ---
+
 import CxxImports
 import XCTest
 

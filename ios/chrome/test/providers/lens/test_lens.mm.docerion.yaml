@@ -1,0 +1,4 @@
+# Docerion header of test_lens.mm.
+type: test
+title: Test stubs for the iOS Lens provider
+summary: Implements fake Lens provider functions that disable Lens features and return a test overlay controller during tests.

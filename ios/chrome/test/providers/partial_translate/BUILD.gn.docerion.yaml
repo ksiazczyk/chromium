@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Partial translate test provider build file
+summary: GN build definition for the partial translate test provider source set, listing its sources and dependencies.

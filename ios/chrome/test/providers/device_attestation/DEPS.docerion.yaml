@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Device attestation test provider dependency rules
+summary: Allows the test provider to include headers from the iOS device attestation provider API directory.

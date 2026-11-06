@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CWTRequestHandler WebDriver subset header
+// summary: Declares a handler implementing a subset of the WebDriver protocol, covering sessions, navigation, tabs, timeouts, and scripts.
+// ---
+
 #ifndef IOS_CHROME_TEST_WPT_CWT_REQUEST_HANDLER_H_
 #define IOS_CHROME_TEST_WPT_CWT_REQUEST_HANDLER_H_
 

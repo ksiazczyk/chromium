@@ -1,0 +1,4 @@
+# Docerion header of test_push_notification.mm.
+type: test
+title: Test push notification service implementation
+summary: Stub PushNotificationService for unit tests whose operations do nothing and invoke completion handlers with an NSFeatureUnsupportedError.

@@ -1,0 +1,4 @@
+# Docerion header of test_primes.mm.
+type: test
+title: Test stub for the primes provider
+summary: Implements no-op primes provider functions that report primes as unsupported and hit NOTREACHED when used in tests.

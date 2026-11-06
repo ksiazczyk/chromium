@@ -1,0 +1,4 @@
+# Docerion header of test_additional_features.mm.
+type: test
+title: Test stub for the AdditionalFeaturesController provider
+summary: Provides a no-op test implementation of the AdditionalFeaturesController provider used by iOS Chrome tests.

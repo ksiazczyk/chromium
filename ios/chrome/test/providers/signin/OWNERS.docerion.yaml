@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for signin test providers
+summary: Delegates review ownership to the iOS signin OWNERS file.

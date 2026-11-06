@@ -1,0 +1,4 @@
+# Docerion header of test_app_store_bundle.mm.
+type: test
+title: Test app store bundle provider factory
+summary: Provider factory that returns a TestAppStoreBundleService as the iOS app store bundle service during tests.

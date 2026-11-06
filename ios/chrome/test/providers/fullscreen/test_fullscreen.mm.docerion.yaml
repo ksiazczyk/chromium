@@ -1,0 +1,4 @@
+# Docerion header of test_fullscreen.mm.
+type: test
+title: Fullscreen test provider implementation
+summary: Implements the fullscreen provider test stub, reporting smooth scrolling support based on the kSmoothScrollingDefault feature flag.

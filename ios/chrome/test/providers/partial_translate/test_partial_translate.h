@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Partial translate test provider header
+// summary: Declares a PartialTranslateControllerFactory protocol and a helper to set a global test factory that replaces the partial translate provider in tests.
+// ---
+
 #ifndef IOS_CHROME_TEST_PROVIDERS_PARTIAL_TRANSLATE_TEST_PARTIAL_TRANSLATE_H_
 #define IOS_CHROME_TEST_PROVIDERS_PARTIAL_TRANSLATE_TEST_PARTIAL_TRANSLATE_H_
 

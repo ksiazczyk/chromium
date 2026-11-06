@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the screenshot protection test provider
+summary: Defines a testonly source_set target that builds the screenshot protection test provider against the provider API.

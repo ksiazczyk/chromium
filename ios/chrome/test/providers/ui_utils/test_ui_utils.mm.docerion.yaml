@@ -1,0 +1,4 @@
+# Docerion header of test_ui_utils.mm.
+type: test
+title: Test stub for the iOS UI utils provider
+summary: No-op test implementations of the iOS provider UI utils functions, such as InitializeUI and CreateAnimatedImageView, for use in Chrome tests.

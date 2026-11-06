@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ValueReturner implementation returning std::unique_ptr<Value>
+// summary: Implements ValueReturner::Object returning a std::unique_ptr<Value> along with the Value class accessors.
+// ---
+
 #include "ios/chrome/test/swift_interop/pointer/unique_ptr.h"
 
 std::unique_ptr<Value> ValueReturner::Object() {

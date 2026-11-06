@@ -1,0 +1,4 @@
+# Docerion header of test_lens_overlay_controller.mm.
+type: test
+title: TestLensOverlayController no-op implementation
+summary: Implements the fake lens overlay controller with no-op methods so tests can run without Lens functionality.

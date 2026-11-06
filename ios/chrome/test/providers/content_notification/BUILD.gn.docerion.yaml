@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Content notification test provider build file
+summary: GN build file defining the test-only content_notification source_set and its dependencies on the notification service and provider API.

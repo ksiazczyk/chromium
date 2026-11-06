@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: BUILD.gn grouping iOS Chrome test provider targets
+summary: Aggregates the individual test provider API implementations into a single test-only GN group for iOS Chrome.

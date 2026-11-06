@@ -1,0 +1,4 @@
+# Docerion header of test_embedded_reauth.mm.
+type: test
+title: Test embedded reauth provider
+summary: Supplies a test embedded reauth manager that always completes reauthentication with an error.

@@ -1,0 +1,4 @@
+# Docerion header of test_discover_feed.mm.
+type: test
+title: Test Discover Feed provider factories
+summary: Provides test factory functions that create a TestDiscoverFeedService and wire a fake Discover Feed eligibility handler as the visibility provider.

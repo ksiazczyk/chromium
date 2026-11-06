@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PointerReturner implementation returning int and object pointers
+// summary: Implements PointerReturner methods that return a pointer to an integer and a pointer to a child PointerReturner object.
+// ---
+
 #include "ios/chrome/test/swift_interop/pointer/pointer_returner.h"
 
 PointerReturner::PointerReturner() : integer_(17), child_(nullptr) {}

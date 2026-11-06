@@ -1,0 +1,4 @@
+# Docerion header of test_passcode_settings.mm.
+type: test
+title: Test passcode settings provider stubs
+summary: Provides dummy implementations of the iOS passcode settings provider API, reporting no support and no-op settings opening for tests.

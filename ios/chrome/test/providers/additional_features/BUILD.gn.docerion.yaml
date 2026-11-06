@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the additional features test provider
+summary: GN build file defining the additional_features source set that builds the test provider stub against the additional features API.

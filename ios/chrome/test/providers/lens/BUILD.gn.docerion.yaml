@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the lens test provider
+summary: Defines the testonly source_set bundling the fake Lens provider sources and their dependencies.

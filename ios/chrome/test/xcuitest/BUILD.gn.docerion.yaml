@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for iOS Chrome XCUITest
+summary: GN build file defining the XCUITest host app, the device check test module and the test hooks source set for iOS Chrome.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XCTest suite for C++ namespace Swift interop
+// summary: Runs XCTest cases verifying Swift access to namespaced C++ classes and enums, documenting known compile and crash limitations.
+// ---
+
 import CxxImports
 import XCTest
 

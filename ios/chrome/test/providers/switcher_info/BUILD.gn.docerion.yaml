@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: BUILD.gn for the switcher_info test provider
+summary: GN build file defining the testonly switcher_info source_set with its sources and dependencies.

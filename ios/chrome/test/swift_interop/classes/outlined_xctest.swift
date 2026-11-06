@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XCTest for outlined C++ class in Swift
+// summary: XCTest case verifying calls to the outlined C++ class from Swift, including its initial-value constructor.
+// ---
+
 import CxxImports
 import UIKit
 import XCTest
