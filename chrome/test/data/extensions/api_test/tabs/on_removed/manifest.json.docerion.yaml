@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for chrome.tabs onRemoved API test extension
+summary: Manifest version 3 extension manifest that registers test.js as a service worker and requests the tabs permission for the onRemoved API browser test.

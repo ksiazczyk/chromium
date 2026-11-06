@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: chrome.ttsEngine engine error test extension manifest
+summary: Manifest for the chrome.ttsEngine engine error browser test extension, declaring a Zach en-US voice and tts/ttsEngine permissions.

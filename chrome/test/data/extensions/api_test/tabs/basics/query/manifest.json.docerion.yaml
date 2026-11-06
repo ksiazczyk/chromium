@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.tabs query API test extension
+summary: Test extension manifest that grants the tabs permission and registers query.js as the background service worker for the chrome.tabs end-to-end browser test.

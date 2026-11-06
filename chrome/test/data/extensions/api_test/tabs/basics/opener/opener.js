@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.tabs openerTabId browser test
+// summary: Runs browser tests that create tabs with openerTabId, verify opener relationships, and check tab activation after closing or updating the opener.
+// ---
+
 let firstTabId;
 let secondTabId;
 let thirdTabId;

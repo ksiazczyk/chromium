@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the split view tab creation test extension
+summary: Extension manifest that requests the tabs and tabGroups permissions and registers background.js as the service worker for the split view API tests.

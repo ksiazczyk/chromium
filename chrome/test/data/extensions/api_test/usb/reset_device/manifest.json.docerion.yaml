@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: USB Device Handling test extension manifest
+summary: Manifest for the chrome.usb resetDevice API test app, requesting the usb permission and loading test.js as the background script.

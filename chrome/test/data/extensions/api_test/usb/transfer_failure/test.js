@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: USB transfer failure API test script
+// summary: Runs chrome.usb API tests that verify bulk and isochronous transfer result codes and last-error messages for failure cases such as transfer failure and timeout.
+// ---
+
 const usb = chrome.usb;
 
 function createErrorTest(resultCode, errorMessage) {

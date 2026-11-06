@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for relative URLs in chrome.tabs and chrome.windows
+// summary: Service worker running chrome.test suites that create and update tabs and windows with relative URLs to verify extension URL resolution.
+// ---
+
 let firstWindowId;
 let testTabId;
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tabs API tab opener test background script
+// summary: Background service worker script that runs chrome.tabs API tests verifying openerTabId validation rules, such as rejecting openers from other windows or the tab itself.
+// ---
+
 // Add a listener just so we dispatch onUpdated events.
 chrome.tabs.onUpdated.addListener(function(update) {});
 

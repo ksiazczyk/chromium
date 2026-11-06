@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: USB zero-length bulk transfer test
+// summary: Extension API test that finds a USB device and performs a zero-length outbound bulk transfer, expecting the callback to succeed.
+// ---
+
 const usb = chrome.usb;
 
 const tests = [

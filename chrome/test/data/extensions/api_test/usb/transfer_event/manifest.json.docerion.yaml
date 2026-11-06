@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: USB Transfer Events test extension manifest
+summary: Manifest for the USB transfer event API test app, declaring the background test script and usb device permissions.

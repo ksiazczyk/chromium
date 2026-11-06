@@ -5,6 +5,12 @@
 // TTS api test for Chrome on ChromeOS.
 // browser_tests.exe --gtest_filter="TtsApiTest.*"
 
+// ---docerion
+// type: test
+// title: chrome.tts word boundary event callback test
+// summary: Browser test that speaks 'one two three' via chrome.tts and asserts word and end event callbacks fire with the expected character indices.
+// ---
+
 chrome.test.runTests([
   function testWordCallbacks() {
     let callbacks = 0;

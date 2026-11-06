@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.tts speak_error browser test
+summary: Chrome extension manifest that registers test.js as the background script and requests the tts permission for the speak_error browser test.

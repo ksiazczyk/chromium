@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.tabs relative URLs API test extension
+summary: Extension manifest declaring the tabs permission and the relative_urls.js service worker for the end-to-end chrome.tabs API browser test.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for chrome.ttsEngine.onSpeakWithAudioStream
+// summary: Runs chrome.test suites that send audio buffers via sendAudioCallback, verify start, word and end events, and check that error events invalidate the utterance.
+// ---
+
 chrome.test.runTests([
   function testSendAudioData() {
     // Sends a series of audio buffers, and verifies we get events for them.

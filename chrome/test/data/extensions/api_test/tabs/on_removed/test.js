@@ -5,6 +5,12 @@
 // tabs api test: removing windows.
 // browser_tests.exe --gtest_filter=ExtensionApiTest.TabOnRemoved
 
+// ---docerion
+// type: test
+// title: chrome.tabs.onRemoved API browser test script
+// summary: Service worker test script that sets up windows and lettered tabs, then verifies chrome.tabs.onRemoved and related window events fire with the expected details.
+// ---
+
 // We have a bunch of places where we need to remember some state from one
 // test (or setup code) to subsequent tests.
 let firstWindowId = null;

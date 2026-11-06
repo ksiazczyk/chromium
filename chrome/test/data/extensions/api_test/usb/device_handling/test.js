@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.usb device handling API tests
+// summary: Runs chrome.usb API tests that enumerate devices, verify device metadata and configurations, and open and close device handles.
+// ---
+
 const usb = chrome.usb;
 
 function getDevices() {

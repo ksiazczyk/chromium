@@ -4,6 +4,12 @@
 
 // browser_tests --gtest_filter=ExtensionApiTest.TabConnect
 
+// ---docerion
+// type: test
+// title: Browser tests for the chrome.tabs.connect API
+// summary: Runs the ExtensionApiTest.TabConnect browser tests covering repeated connects, port naming, and posted message types against the test tab.
+// ---
+
 // The test tab used for all tests.
 const testTab = null;
 

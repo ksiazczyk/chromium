@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the captureVisibleTab race test extension
+summary: Manifest for the end-to-end browser test extension that registers test_race.js as a service worker and requests tabs and host permissions.

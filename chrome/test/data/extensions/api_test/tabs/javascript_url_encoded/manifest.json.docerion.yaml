@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the javascript encoded URL tabs test
+summary: Manifest for a test extension that runs test.js as a service worker to test navigating a tab to encoded JavaScript URLs, with tabs permission and a.com host access.

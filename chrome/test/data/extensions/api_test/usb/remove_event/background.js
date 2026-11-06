@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: USB onDeviceRemoved test background script
+// summary: Background script for the chrome.usb.onDeviceRemoved API test that records known devices and sends a success or failure message when a device removal event fires.
+// ---
+
 const known_devices = {};
 
 chrome.usb.onDeviceRemoved.addListener(function(device) {

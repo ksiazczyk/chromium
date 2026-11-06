@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: USB Set Configuration test app manifest
+summary: Manifest for the chrome.usb setConfiguration API test app, declaring the background test script and usbDevices permission for vendor and product ID 0.

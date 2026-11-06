@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Manifest for the captureVisibleTab null window test extension
+summary: Manifest v3 configuration for the test extension that runs the captureVisibleTab null window browser test with tabs and host permissions.

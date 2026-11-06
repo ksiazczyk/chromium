@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for chrome.tts service worker speak error test
+summary: Manifest for a Manifest V3 test extension that registers test.js as a service worker with the tts permission to test the chrome.tts API.

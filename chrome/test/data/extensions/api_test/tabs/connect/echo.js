@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Echo content script for the tabs.connect API test
+// summary: Content script that echoes received messages back, reports port names and connection counts, and signals readiness to the test.
+// ---
+
 // Content script that echoes back all messages.
 // Posting a message with "GET" returns the name and # of connections opened.
 let connections = 0;

@@ -4,6 +4,12 @@
 
 // browser_tests.exe --gtest_filter="TtsApiTest.*"
 
+// ---docerion
+// type: test
+// title: Browser test for chrome.tts.speak optional arguments
+// summary: Runs a browser test verifying that chrome.tts.speak succeeds, fails, or silently no-ops for various combinations of text, options, and callback arguments.
+// ---
+
 chrome.test.runTests([
   function testSpeakWithOptionalArgs() {
     // This will fail.

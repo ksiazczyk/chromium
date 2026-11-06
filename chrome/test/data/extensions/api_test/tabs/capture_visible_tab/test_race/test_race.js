@@ -8,6 +8,12 @@
 // are of the expected colors).
 // browser_tests.exe --gtest_filter=ExtensionApiTest.CaptureVisibleTabRace
 
+// ---docerion
+// type: test
+// title: Browser test for concurrent captureVisibleTab requests
+// summary: Opens eight windows with alternating black and white pages and asserts that concurrent captureVisibleTab captures return pixels of the expected colors.
+// ---
+
 const pass = chrome.test.callbackPass;
 const fail = chrome.test.callbackFail;
 const assertEq = chrome.test.assertEq;

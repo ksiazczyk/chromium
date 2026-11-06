@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: End-to-end tests for chrome.tabs.query
+// summary: Runs chrome.test suites that set up windows and tabs and verify chrome.tabs.query filtering by active, highlighted, pinned and window properties, with Android-specific handling.
+// ---
+
 let testWindowId;
 const activeTabs = [];
 const highlightedTabs = [];

@@ -5,6 +5,12 @@
 // API test for chrome.tabs.captureVisibleTab(), when current window is null
 // browser_tests.exe --gtest_filter=ExtensionApiTest.CaptureNullWindow
 
+// ---docerion
+// type: test
+// title: API test for captureVisibleTab with a null window
+// summary: Background script of a browser test extension that verifies chrome.tabs.captureVisibleTab reports an error when given an invalid window ID.
+// ---
+
 chrome.test.runTests([function captureNullWindow() {
   // Window IDs are non-negative, so -1 is invalid.
   const invalidWindowId = -1;

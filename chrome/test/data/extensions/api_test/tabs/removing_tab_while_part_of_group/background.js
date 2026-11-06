@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tabs API test for removing a tab while part of a group
+// summary: Extension API test that opens two tabs, groups them, removes one, and verifies the resulting tabs.onUpdated and tabs.onRemoved events.
+// ---
+
 import {openTab} from '/_test_resources/test_util/tabs_util.js';
 
 // The following test:

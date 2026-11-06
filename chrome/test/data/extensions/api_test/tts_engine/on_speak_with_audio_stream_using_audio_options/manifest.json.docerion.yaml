@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for chrome.ttsEngine audio stream test extension
+summary: Extension manifest for the browser test, declaring the tts_engine with sample rate 48000, buffer size 128, the Zach en-US voice, and the required permissions.

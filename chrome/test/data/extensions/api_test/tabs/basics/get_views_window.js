@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Get views window tests
+// summary: Browser tests checking chrome.extension.getViews for empty normal windows, windows with one or many URLs, and a detached tab.
+// ---
+
 chrome.test.runTests([
   function canGetViewsOfEmptyWindow() {
     testGetNewWindowView({type: 'normal'}, []);

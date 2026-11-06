@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: USB invalid transfer timeout API test
+// summary: Verifies that chrome.usb bulk, control, interrupt, and isochronous transfers fail with an error when given a negative timeout.
+// ---
+
 const usb = chrome.usb;
 
 const genericTransfer = {

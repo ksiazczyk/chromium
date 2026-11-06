@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the tabs.onUpdated API test extension
+summary: Manifest for a test extension that exercises the tabs.onUpdated event, registering the test service worker and web-accessible navigation test resources.

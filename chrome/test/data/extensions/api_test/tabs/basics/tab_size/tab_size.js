@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab size browser test for chrome.tabs API
+// summary: Runs browser tests that create a window, wait for a non-zero tab size, and verify a duplicated tab keeps the original tab's width and height.
+// ---
+
 let firstTabId;
 let firstTab;
 

@@ -5,6 +5,12 @@
 // API test for chrome.tabs.captureVisibleTab(), capturing JPEG images.
 // browser_tests.exe --gtest_filter=ExtensionApiTest.CaptureVisibleTabJpeg
 
+// ---docerion
+// type: test
+// title: Browser test for chrome.tabs.captureVisibleTab JPEG capture
+// summary: Runs browser tests that capture the visible tab as a JPEG data URL and assert the expected pixel colors for white, black, and extension-scheme pages.
+// ---
+
 const pass = chrome.test.callbackPass;
 const fail = chrome.test.callbackFail;
 const assertEq = chrome.test.assertEq;

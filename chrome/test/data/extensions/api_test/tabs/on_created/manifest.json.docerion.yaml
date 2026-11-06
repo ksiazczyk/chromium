@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: tabs/on_created test extension manifest
+summary: Manifest for the chrome.tabs.onCreated API test extension, registering test.js as its background service worker.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.tabs API test extension
+summary: Declares the test extension used by the chrome.tabs browser tests, requesting the tabs permission and registering update.js as its service worker.

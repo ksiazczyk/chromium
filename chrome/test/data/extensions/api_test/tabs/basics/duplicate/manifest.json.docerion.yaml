@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.tabs duplicate test extension
+summary: Manifest v3 extension manifest declaring the tabs permission and registering duplicate.js as the service worker for the API test.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: USB calls after disconnect test background script
+// summary: Background script for the chrome.usb API test that opens a device and expects a bulk transfer to fail with 'No such connection' after the device is removed.
+// ---
+
 let connectionHandle;
 
 chrome.usb.onDeviceRemoved.addListener(() => {

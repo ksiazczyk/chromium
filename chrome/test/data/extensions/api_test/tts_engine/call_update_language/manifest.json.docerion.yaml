@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.ttsEngine.updateLanguage browser test
+summary: Manifest of the test extension used by the browser test, declaring the ttsEngine permission and a non-persistent background script test.js.

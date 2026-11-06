@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest for chrome.tabs
+summary: MV2 manifest for the chrome.tabs end-to-end browser test extension, explicitly using manifest version 2 for deprecated tabs APIs and requesting the tabs permission.

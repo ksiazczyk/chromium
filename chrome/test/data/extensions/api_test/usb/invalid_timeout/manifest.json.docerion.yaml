@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: USB Invalid Transfer Timeout test manifest
+summary: Manifest for the Chrome extension app that loads test.js and requests usb permission for the invalid transfer timeout API test.

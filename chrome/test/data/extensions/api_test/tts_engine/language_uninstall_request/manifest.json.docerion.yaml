@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for chrome.ttsEngine language uninstall test extension
+summary: Manifest for a browser test extension that loads test.js in the background and grants the ttsEngine permission to test the chrome.ttsEngine API.

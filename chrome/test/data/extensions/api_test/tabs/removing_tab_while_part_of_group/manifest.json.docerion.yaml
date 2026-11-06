@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the removing tab while part of group test
+summary: Manifest version 3 extension manifest with the tabs permission and a module service worker background for the tab group removal test.

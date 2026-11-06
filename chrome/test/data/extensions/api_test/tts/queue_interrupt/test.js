@@ -5,6 +5,12 @@
 // TTS api test for Chrome on ChromeOS.
 // browser_tests.exe --gtest_filter="TtsApiTest.*"
 
+// ---docerion
+// type: test
+// title: chrome.tts queue interrupt browser test
+// summary: Browser test that queues two utterances and interrupts them with a third, asserting interrupted, cancelled and end events before reporting success.
+// ---
+
 chrome.test.runTests([
   function testQueueInterrupt() {
     // In this test, two utterances are queued, and then a third

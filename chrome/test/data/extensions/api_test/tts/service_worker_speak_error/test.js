@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test for chrome.tts speak error handling in a service worker
+// summary: Browser test that verifies chrome.tts.speak reports errors for an invalid language code in the async form and an invalid rate in the sync callback form.
+// ---
+
 chrome.test.runTests([testSpeakError = async () => {
   // Async version.
   await chrome.tts

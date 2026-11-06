@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Tabs zoom test extension manifest
+summary: Manifest for the test extension used by the chrome.tabs zoom API browser test, declaring the tabs permission and worker.js as its service worker.

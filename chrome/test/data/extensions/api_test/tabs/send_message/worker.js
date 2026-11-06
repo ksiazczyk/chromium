@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker running chrome.tabs.sendMessage tests
+// summary: Test service worker that opens a test tab and checks chrome.tabs.sendMessage responses using both callback and promise styles.
+// ---
+
 import {openTab} from '/_test_resources/test_util/tabs_util.js';
 
 // A test tab which has the listener we are sending messages to injected as a

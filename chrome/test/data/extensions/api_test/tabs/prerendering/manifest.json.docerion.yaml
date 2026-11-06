@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest for chrome.tabs prerendering
+summary: Manifest for the chrome.tabs prerendering test extension, registering test.js as a service worker with tabs and webRequest permissions.

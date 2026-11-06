@@ -5,6 +5,12 @@
 // API test for chrome.tabs.captureVisibleTab(), capturing PNG images.
 // browser_tests.exe --gtest_filter=ExtensionApiTest.CaptureVisibleTabPng
 
+// ---docerion
+// type: test
+// title: Browser tests for chrome.tabs.captureVisibleTab PNG capture
+// summary: Runs end-to-end browser tests that capture visible tabs as PNG and verify the resulting images have the expected pixel colors.
+// ---
+
 const pass = chrome.test.callbackPass;
 const fail = chrome.test.callbackFail;
 const assertEq = chrome.test.assertEq;

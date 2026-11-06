@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: USB Manual List Interface Test Manifest
+summary: Chrome extension manifest for the manual USB test app, declaring a background test script and usb permissions for a specific vendor and product ID.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for chrome.windows.update on Picture-in-Picture windows
+// summary: Runs tests verifying that fullscreen, maximized and minimized states are rejected for PiP windows while resizing and repositioning are allowed and clamped to size limits.
+// ---
+
 async function createPipWindow() {
   await new Promise((resolve, reject) => {
     chrome.test.runWithUserGesture(() => {

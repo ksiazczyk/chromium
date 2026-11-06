@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for chrome.tts MV3 service worker test
+summary: Extension manifest that registers test.js as a service worker background with the tts permission for the chrome.tts API browser test.

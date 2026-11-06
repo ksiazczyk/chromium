@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Split view createSplit API test background script
+// summary: Background service worker script that runs browser tests for chrome.tabs.createSplit, covering valid split creation and error cases such as duplicate, non-adjacent, or mismatched tab IDs.
+// ---
+
 async function createFreshTab() {
   return await chrome.tabs.create({url: 'about:blank'});
 }

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the USB listInterfaces extension test
+summary: Chrome extension manifest declaring the test app, its background script test.js, and the usb permissions needed for the listInterfaces API test.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: chrome.tabs test extension manifest
+summary: Manifest for the chrome.tabs no-events browser test extension, registering test.js as a service worker and requesting the tabs permission.

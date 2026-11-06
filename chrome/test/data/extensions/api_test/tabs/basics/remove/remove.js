@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for tab removal and unload storage
+// summary: Service worker test script that creates a second tab, removes it via chrome.tabs.remove, and verifies the page's unload handler wrote to storage.
+// ---
+
 function resolveOnStorageChanged(resolve) {
   chrome.storage.local.onChanged.addListener(function local(changes, areaName) {
     assertEq({newValue: 'yes'}, changes['did_run_unload_1']);

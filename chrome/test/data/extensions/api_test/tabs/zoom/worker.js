@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tabs zoom API test service worker
+// summary: Service worker running chrome.test cases that verify getZoom, setZoom and zoom settings on web tabs and that zoom calls on native UI tabs do not crash the browser.
+// ---
+
 // Tests that calling a zoom function on a native UI page does not crash
 // the browser and returns a valid zoom level.
 async function testNoCrashOnNativeUiTab() {

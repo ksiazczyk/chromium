@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.tabs move API browser test
+// summary: Browser test suite that moves and pins tabs across windows via chrome.tabs.move and asserts the resulting tab order, window placement and pinned state.
+// ---
+
 let firstWindowId;
 let secondWindowId;
 const moveTabIds = {};

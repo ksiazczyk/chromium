@@ -1,0 +1,4 @@
+# Docerion header of prerendering.html.
+type: test
+title: Prerender target page loading empty.js
+summary: Prerender target page that loads empty.js so tests can detect the prerendered frame.

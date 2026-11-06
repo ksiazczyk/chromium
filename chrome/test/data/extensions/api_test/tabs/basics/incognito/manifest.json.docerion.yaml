@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.tabs incognito test extension
+summary: Manifest v3 extension manifest declaring the tabs permission and incognito.js service worker used by the chrome.tabs API browser test.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for chrome.tabs.getCurrent
+// summary: Runs chrome.test cases verifying that getCurrent returns no tab in the service worker and returns the opened tab's URL when a.html is loaded.
+// ---
+
 const assertEq = chrome.test.assertEq;
 
 function pageUrl(letter) {

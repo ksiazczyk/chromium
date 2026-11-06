@@ -5,6 +5,12 @@
 // API test for chrome.tabs.captureVisibleTab(), capturing JPEG images.
 // browser_tests.exe --gtest_filter=ExtensionApiTest.CaptureVisibleFile
 
+// ---docerion
+// type: test
+// title: chrome.tabs.captureVisibleTab JPEG capture API test
+// summary: Browser test verifying that captureVisibleTab returns a JPEG data URL when capturing a named window, the null window, and the current window.
+// ---
+
 const pass = chrome.test.callbackPass;
 const fail = chrome.test.callbackFail;
 const assertEq = chrome.test.assertEq;

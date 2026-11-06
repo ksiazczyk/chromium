@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.usb setConfiguration API test
+// summary: Browser test that finds a USB device, checks it is unconfigured, calls setConfiguration, and verifies the configuration is applied without errors.
+// ---
+
 const usb = chrome.usb;
 
 const tests = [

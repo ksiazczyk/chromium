@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.tabs prerendering API tests
+// summary: Service worker tests verifying chrome.tabs.executeScript behavior with prerendered frames, including targeting by frameId and documentId and activation handling.
+// ---
+
 let testServerPort = 0;
 let tabId = 0;
 let prerenderingFrameId = 0;

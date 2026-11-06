@@ -5,6 +5,12 @@
 // TTS api test for Chrome on ChromeOS.
 // browser_tests.exe --gtest_filter="TtsApiTest.*"
 
+// ---docerion
+// type: test
+// title: Browser test for TTS engine registration and voice matching
+// summary: Runs chrome.test browser tests verifying that speech goes to native TTS when no listeners are registered, to the extension engine when listeners are added, and matches manifest voices correctly.
+// ---
+
 chrome.test.runTests([
   function testNoListeners() {
     // This call should go to native speech because we haven't registered

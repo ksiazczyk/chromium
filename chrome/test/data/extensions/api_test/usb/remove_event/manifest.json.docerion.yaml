@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: USB onDeviceRemoved test app manifest
+summary: Manifest for the chrome.usb.onDeviceRemoved browser test app, loading background.js and requesting usb permissions for an emulated test device.

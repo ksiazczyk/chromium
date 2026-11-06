@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: USB Invalid-Length Transfer Test Manifest
+summary: Manifest for the browser test extension that requests the usb permission and runs test.js in the background.

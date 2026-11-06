@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for captureVisibleTab JPEG test extension
+summary: Extension manifest that registers the test service worker and requests tabs and host permissions for the end-to-end captureVisibleTab JPEG browser test.

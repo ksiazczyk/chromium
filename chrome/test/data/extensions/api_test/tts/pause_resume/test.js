@@ -5,6 +5,12 @@
 // TTS api test
 // browser_tests.exe --gtest_filter="TtsApiTest.*"
 
+// ---docerion
+// type: test
+// title: Browser tests for pausing and resuming chrome.tts speech
+// summary: Runs browser tests that verify chrome.tts pause and resume behavior before and during speech, succeeding on the speech end event.
+// ---
+
 chrome.test.runTests([
   function testPauseBeforeSpeak() {
     chrome.tts.pause();

@@ -5,6 +5,12 @@
 // TTS api test for Chrome.
 // browser_tests.exe --gtest_filter="TtsApiTest.*"
 
+// ---docerion
+// type: test
+// title: Browser test for chrome.tts pause with non-enqueued speak
+// summary: Runs a chrome.test case verifying that pausing speech and speaking again without enqueueing cancels the first utterance.
+// ---
+
 chrome.test.runTests([function testPauseCancel() {
   let gotSecondSpeak = false;
   chrome.tts.pause();

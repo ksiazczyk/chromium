@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: chrome.terminalPrivate.apitest extension manifest
+summary: Manifest for the end-to-end test extension that exercises the terminalPrivate API by opening two crosh processes and observing their echoed output.

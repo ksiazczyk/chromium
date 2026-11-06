@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for chrome.tabs tab size API test extension
+summary: Manifest version 3 extension manifest that registers tab_size.js as a service worker for the chrome.tabs end-to-end browser test.

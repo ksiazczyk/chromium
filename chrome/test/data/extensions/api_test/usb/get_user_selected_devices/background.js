@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for the getUserSelectedDevices API test
+// summary: Extension background script that tests chrome.usb.getUserSelectedDevices by opening the user-selected USB device and reporting success or failure on device removal.
+// ---
+
 let device_from_user = undefined;
 
 chrome.test.runWithUserGesture(function() {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: USB transfer event API tests
+// summary: Runs chrome.test cases exercising control, bulk, interrupt, and isochronous USB transfers via the chrome.usb API.
+// ---
+
 const usb = chrome.usb;
 
 const tests = [

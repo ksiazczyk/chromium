@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest for the chrome.tabs highlight test
+summary: Manifest version 3 manifest declaring the test extension named chrome.tabs with the tabs permission and highlight.js as its service worker.

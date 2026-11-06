@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: chrome.tabs opener test extension manifest
+summary: Manifest for the chrome.tabs end-to-end browser test extension, requesting the tabs permission and registering opener.js as the service worker.

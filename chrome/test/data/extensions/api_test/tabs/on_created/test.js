@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.tabs.onCreated API tests
+// summary: Runs tests verifying that tabs created with active true and false fire onCreated with the expected active state, skipping the active case on Android.
+// ---
+
 chrome.test.runTests([
   async function testCreateWithActiveTrue() {
     // TODO(https://crbug.com/511254270): `NavigateParams::tabstrip_add_types`

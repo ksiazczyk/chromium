@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the unsplit split view test extension
+summary: Manifest version 3 extension manifest declaring the tabs and tabGroups permissions and the background service worker used by the split view unsplit API test.
