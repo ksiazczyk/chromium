@@ -1,0 +1,4 @@
+# Docerion header of file_handler_test.bar.
+type: test
+title: File handler test .bar file
+summary: Sample .bar file that serves as test data for the bar_handler.html file handler test.

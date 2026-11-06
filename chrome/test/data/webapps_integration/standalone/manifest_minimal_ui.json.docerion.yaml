@@ -1,0 +1,4 @@
+# Docerion header of manifest_minimal_ui.json.
+type: test
+title: Minimal-ui web app manifest for integration tests
+summary: Web app manifest setting display to minimal-ui, used as test data for Chromium web apps integration tests.

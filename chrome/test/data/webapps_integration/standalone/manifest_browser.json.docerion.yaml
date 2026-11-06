@@ -1,0 +1,4 @@
+# Docerion header of manifest_browser.json.
+type: test
+title: Web app manifest with browser display
+summary: Web app manifest variant for Site A that sets the display mode to browser instead of standalone.

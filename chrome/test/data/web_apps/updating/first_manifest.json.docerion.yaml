@@ -1,0 +1,4 @@
+# Docerion header of first_manifest.json.
+type: test
+title: Initial web app manifest for updating tests
+summary: Web app manifest fixture with basic 48 and 192 pixel icons that starts the updating test app at index.html.

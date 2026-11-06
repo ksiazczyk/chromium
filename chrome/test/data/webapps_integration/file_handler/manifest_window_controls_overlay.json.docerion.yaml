@@ -1,0 +1,4 @@
+# Docerion header of manifest_window_controls_overlay.json.
+type: test
+title: Window controls overlay manifest variant
+summary: Alternative manifest for the file handler test app enabling the window-controls-overlay display override.

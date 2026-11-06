@@ -1,0 +1,4 @@
+# Docerion header of new_icon_page.html.
+type: test
+title: New icon update test page
+summary: Test page for web app updating that links a manifest declaring a new icon and shows a heading announcing the new icon.

@@ -1,0 +1,4 @@
+# Docerion header of get-immediate.html.
+type: test
+title: WebAuthn immediate UI mode test page
+summary: Test page that calls navigator.credentials.get with immediate UI mode across userVerification preferred, discouraged, required, and password-only variants, displaying success or error results.

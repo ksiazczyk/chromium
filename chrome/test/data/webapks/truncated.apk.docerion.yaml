@@ -1,0 +1,4 @@
+# Docerion header of truncated.apk.
+type: test
+title: Truncated APK
+summary: Truncated APK fixture containing only the start of a ZIP header, used to test handling of incomplete archive data.

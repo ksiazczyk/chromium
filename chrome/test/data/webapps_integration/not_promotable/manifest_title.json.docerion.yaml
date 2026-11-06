@@ -1,0 +1,4 @@
+# Docerion header of manifest_title.json.
+type: test
+title: Web app manifest with updated name for Site C
+summary: Web app manifest that gives Site C an updated name, icons, start URL, scope and standalone display for the not-promotable dPWA integration tests.

@@ -1,0 +1,4 @@
+# Docerion header of basic.html.
+type: test
+title: Site With Sub Apps Test Page
+summary: Minimal HTML test fixture that links a web app manifest for Chrome's sub apps integration testing.

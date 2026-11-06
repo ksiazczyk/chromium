@@ -1,0 +1,4 @@
+# Docerion header of basic.json.
+type: test
+title: Site A Foo default web app manifest
+summary: Web app manifest for Site A Foo defining icons, start URL, scope and standalone display for web apps integration tests.

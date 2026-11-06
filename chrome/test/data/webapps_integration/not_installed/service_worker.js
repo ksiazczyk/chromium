@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker caching test assets for offline use
+// summary: Service worker fixture that pre-caches the test page, manifest and icon and serves cached responses so the page works in offline test environments.
+// ---
+
 'use strict';
 
 const urlsToCache = [

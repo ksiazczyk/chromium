@@ -1,0 +1,4 @@
+# Docerion header of manifest_title.json.
+type: test
+title: Web app manifest with updated app name
+summary: Web app manifest with an updated app name, used to test title changes in Chromium web apps integration tests.

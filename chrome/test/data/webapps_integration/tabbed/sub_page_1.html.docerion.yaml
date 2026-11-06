@@ -1,0 +1,4 @@
+# Docerion header of sub_page_1.html.
+type: test
+title: Tabbed sub page one
+summary: Test sub page for tabbed dPWA integration tests; referenced as the new tab button URL in home_tab.json.

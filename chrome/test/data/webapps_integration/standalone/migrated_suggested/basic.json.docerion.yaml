@@ -1,0 +1,4 @@
+# Docerion header of basic.json.
+type: test
+title: Site A Suggested web app manifest
+summary: Web app manifest for the Site A Suggested test page, declaring icons, standalone display, and a migrate_from entry with suggest behavior for migration testing.

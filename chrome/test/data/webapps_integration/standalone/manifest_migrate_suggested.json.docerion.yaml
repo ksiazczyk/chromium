@@ -1,0 +1,4 @@
+# Docerion header of manifest_migrate_suggested.json.
+type: test
+title: Web app manifest for suggested migration
+summary: Web app manifest variant for Site A with a migrate_to entry pointing at a suggested-migration install URL for testing app migration.

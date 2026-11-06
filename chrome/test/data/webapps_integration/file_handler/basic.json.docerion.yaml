@@ -1,0 +1,4 @@
+# Docerion header of basic.json.
+type: test
+title: File handler test app web manifest
+summary: Web app manifest declaring icons and file handlers for text, image, and cross-origin JPEG file launches.

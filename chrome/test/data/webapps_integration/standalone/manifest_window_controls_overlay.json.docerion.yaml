@@ -1,0 +1,4 @@
+# Docerion header of manifest_window_controls_overlay.json.
+type: test
+title: Window controls overlay web app manifest
+summary: Web app manifest with a window-controls-overlay display override, used as test data for web apps integration tests.

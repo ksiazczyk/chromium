@@ -1,0 +1,4 @@
+# Docerion header of basic.html.
+type: test
+title: Sub App 1 test page
+summary: Minimal HTML page for the Sub App 1 test web app that links to its web manifest for Chromium web apps integration tests.

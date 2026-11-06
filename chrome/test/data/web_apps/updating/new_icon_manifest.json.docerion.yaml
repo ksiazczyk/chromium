@@ -1,0 +1,4 @@
+# Docerion header of new_icon_manifest.json.
+type: test
+title: New icon web app manifest for updating tests
+summary: Web app manifest fixture that switches the icon to a blue 192 pixel image and points to new_icon_page.html for icon update tests.

@@ -1,0 +1,4 @@
+# Docerion header of new_name_manifest.json.
+type: test
+title: New name update manifest
+summary: Web app manifest fixture that renames the app to New Name and points to new_name_page.html for testing app name updates.

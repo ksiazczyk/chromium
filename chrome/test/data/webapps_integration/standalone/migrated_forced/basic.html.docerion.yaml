@@ -1,0 +1,4 @@
+# Docerion header of basic.html.
+type: test
+title: Site A Forced web app test page
+summary: HTML test page linking a web app manifest, used by Chromium web apps integration tests to verify forced migration in the standalone migrated_forced scenario.

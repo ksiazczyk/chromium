@@ -1,0 +1,4 @@
+# Docerion header of poster.html.
+type: test
+title: Poster web app test page
+summary: Test web app page for the Poster share target that links its manifest and registers the shared service worker.

@@ -1,0 +1,4 @@
+# Docerion header of basic.html.
+type: test
+title: Not Start URL test page
+summary: Test page for web apps integration tests where the manifest's start_url points to a different page, registering a service worker and injecting the manifest tag.

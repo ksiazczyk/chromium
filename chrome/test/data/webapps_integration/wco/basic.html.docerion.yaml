@@ -1,0 +1,4 @@
+# Docerion header of basic.html.
+type: test
+title: WCO basic test page
+summary: Test page for window controls overlay that links the WCO manifest and registers a service worker on load.

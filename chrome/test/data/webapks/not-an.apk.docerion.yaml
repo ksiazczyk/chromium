@@ -1,0 +1,4 @@
+# Docerion header of not-an.apk.
+type: test
+title: not-an.apk
+summary: Malformed test file containing plain text instead of an APK, used to verify error handling for invalid WebAPK archives.

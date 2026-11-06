@@ -1,0 +1,4 @@
+# Docerion header of new_start_url_manifest.json.
+type: test
+title: New start URL update manifest
+summary: Web app manifest fixture that changes the start URL to new_start_url_page.html for testing start URL updates.

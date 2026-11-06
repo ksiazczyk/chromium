@@ -1,0 +1,4 @@
+# Docerion header of image_handler.html.
+type: test
+title: Site B image file handler test page
+summary: Handler page for image files opened by Site B during file handling integration tests, with a TODO to verify the loaded images.

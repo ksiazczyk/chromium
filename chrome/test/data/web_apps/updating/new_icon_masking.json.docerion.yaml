@@ -1,0 +1,4 @@
+# Docerion header of new_icon_masking.json.
+type: test
+title: Maskable icon web app manifest for updating tests
+summary: Web app manifest fixture with a green 256 pixel maskable icon pointing to new_icon_page_masking.html for icon masking tests.

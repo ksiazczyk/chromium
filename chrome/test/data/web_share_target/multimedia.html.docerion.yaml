@@ -1,0 +1,4 @@
+# Docerion header of multimedia.html.
+type: test
+title: Multimedia web app test page
+summary: Test web app page for the Multimedia share target that links its manifest and registers the shared service worker.

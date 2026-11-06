@@ -1,0 +1,4 @@
+# Docerion header of basic.html.
+type: test
+title: Site A Foo web app test page
+summary: HTML test page for the Site A Foo web app that injects a manifest link from a query argument or basic.json and registers a service worker for offline support.

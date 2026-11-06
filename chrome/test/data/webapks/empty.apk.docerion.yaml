@@ -1,0 +1,4 @@
+# Docerion header of empty.apk.
+type: test
+title: Empty APK
+summary: Empty APK fixture used to test how the WebAPK code handles zero-byte archive inputs.

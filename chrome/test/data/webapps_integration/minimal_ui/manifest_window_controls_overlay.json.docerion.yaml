@@ -1,0 +1,4 @@
+# Docerion header of manifest_window_controls_overlay.json.
+type: test
+title: Window controls overlay manifest for Site B tests
+summary: Alternative web app manifest that runs Site B standalone with the window-controls-overlay display override for integration tests.

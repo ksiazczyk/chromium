@@ -1,0 +1,4 @@
+# Docerion header of basic.html.
+type: test
+title: Site A Bar test page
+summary: HTML test page for the Site A Bar web app that injects a manifest link tag (optionally from a query argument) and registers a service worker so the page works offline.

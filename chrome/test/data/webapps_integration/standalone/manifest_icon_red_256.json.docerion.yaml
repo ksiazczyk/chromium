@@ -1,0 +1,4 @@
+# Docerion header of manifest_icon_red_256.json.
+type: test
+title: Web app manifest with red 256 icon
+summary: Web app manifest variant for Site A that uses a red 256 icon while the 48 and 192 icons remain green.

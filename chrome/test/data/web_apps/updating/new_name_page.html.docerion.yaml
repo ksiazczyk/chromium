@@ -1,0 +1,4 @@
+# Docerion header of new_name_page.html.
+type: test
+title: New name update test page
+summary: Minimal test page titled Web app for updating that links the new name manifest for testing app name updates.

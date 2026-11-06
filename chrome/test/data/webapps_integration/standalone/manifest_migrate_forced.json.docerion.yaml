@@ -1,0 +1,4 @@
+# Docerion header of manifest_migrate_forced.json.
+type: test
+title: Web app manifest for forced migration
+summary: Web app manifest variant for Site A with a migrate_to entry pointing at a forced-migration install URL for testing app migration.

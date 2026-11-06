@@ -1,0 +1,4 @@
+# Docerion header of basic.json.
+type: test
+title: Web app manifest with icons and screenshots
+summary: Web app manifest declaring icons, screenshot images, start URL, scope, and standalone display for the test site.

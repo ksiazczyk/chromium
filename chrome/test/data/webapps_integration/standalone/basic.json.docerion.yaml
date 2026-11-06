@@ -1,0 +1,4 @@
+# Docerion header of basic.json.
+type: test
+title: Basic web app manifest for Site A
+summary: Web app manifest for Site A with green icons in four sizes, standalone display, and basic.html as the start URL, serving as the default manifest for the test page.
