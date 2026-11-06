@@ -1,0 +1,4 @@
+# Docerion header of DevicePowerwashAllowed.json.
+type: test
+title: DevicePowerwashAllowed pref mapping test data
+summary: Test data entry explaining that the DevicePowerwashAllowed policy has no pref mapping test because it maps into CrosSettings.

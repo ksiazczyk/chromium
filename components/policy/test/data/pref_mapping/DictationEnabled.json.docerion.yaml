@@ -1,0 +1,4 @@
+# Docerion header of DictationEnabled.json.
+type: test
+title: DictationEnabled pref mapping test data
+summary: Simple policy pref mapping test data for the DictationEnabled policy and the settings.a11y.dictation accessibility pref on ChromeOS.

@@ -1,0 +1,4 @@
+# Docerion header of EmojiPickerGifSupportEnabled.json.
+type: test
+title: EmojiPickerGifSupportEnabled policy pref mapping test data
+summary: Test data mapping the EmojiPickerGifSupportEnabled policy to the emoji_picker.gif_support_enabled pref on ChromeOS, with a false default for enterprise users.

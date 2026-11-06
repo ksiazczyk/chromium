@@ -1,0 +1,4 @@
+# Docerion header of DeviceRunAutomaticCleanupOnLogin.json.
+type: test
+title: DeviceRunAutomaticCleanupOnLogin pref mapping test data
+summary: Declares no pref mapping test for the DeviceRunAutomaticCleanupOnLogin policy because it is a Chrome OS device policy used only by cryptohome.

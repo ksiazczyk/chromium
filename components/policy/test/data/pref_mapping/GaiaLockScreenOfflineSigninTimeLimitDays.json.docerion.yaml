@@ -1,0 +1,4 @@
+# Docerion header of GaiaLockScreenOfflineSigninTimeLimitDays.json.
+type: test
+title: GaiaLockScreenOfflineSigninTimeLimitDays pref mapping test data
+summary: Test data verifying the GaiaLockScreenOfflineSigninTimeLimitDays policy maps to the gaia.lock_screen_offline_signin_time_limit preference on ChromeOS, including range clamping.

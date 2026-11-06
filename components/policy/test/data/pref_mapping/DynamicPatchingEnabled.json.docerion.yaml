@@ -1,0 +1,4 @@
+# Docerion header of DynamicPatchingEnabled.json.
+type: test
+title: DynamicPatchingEnabled policy pref mapping test data
+summary: Test data mapping the DynamicPatchingEnabled policy to the child_module.dynamic_patching_enabled pref in local state on Windows and Mac.

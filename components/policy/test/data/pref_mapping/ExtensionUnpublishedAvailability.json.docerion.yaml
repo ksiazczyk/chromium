@@ -1,0 +1,4 @@
+# Docerion header of ExtensionUnpublishedAvailability.json.
+type: test
+title: ExtensionUnpublishedAvailability pref mapping test data
+summary: Simple policy pref mapping test data for ExtensionUnpublishedAvailability, checking the extensions.unpublished_availability pref across all supported platforms.

@@ -1,0 +1,4 @@
+# Docerion header of EnterpriseAuthenticationAppLinkPolicy.json.
+type: test
+title: EnterpriseAuthenticationAppLinkPolicy pref mapping test placeholder
+summary: Declares that no pref mapping test exists for this policy because it only applies to Android Webview, which does not support browser tests.

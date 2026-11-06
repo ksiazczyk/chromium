@@ -1,0 +1,4 @@
+# Docerion header of DeviceLoginScreenInputMethods.json.
+type: test
+title: DeviceLoginScreenInputMethods pref mapping test data
+summary: Placeholder noting that the DeviceLoginScreenInputMethods policy has no pref mapping test because it maps into CrosSettings.

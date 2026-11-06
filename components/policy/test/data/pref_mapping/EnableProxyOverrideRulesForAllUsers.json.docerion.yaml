@@ -1,0 +1,4 @@
+# Docerion header of EnableProxyOverrideRulesForAllUsers.json.
+type: test
+title: EnableProxyOverrideRulesForAllUsers pref mapping test
+summary: Test data verifying the EnableProxyOverrideRulesForAllUsers policy maps to the enable_proxy_override_rules_for_users local state preference on Windows, Linux, Mac and Android.

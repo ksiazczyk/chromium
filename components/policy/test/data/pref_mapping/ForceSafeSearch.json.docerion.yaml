@@ -1,0 +1,4 @@
+# Docerion header of ForceSafeSearch.json.
+type: test
+title: ForceSafeSearch pref mapping test data
+summary: Test data verifying that the ForceSafeSearch policy maps to the settings.force_google_safesearch preference across desktop and Android platforms.

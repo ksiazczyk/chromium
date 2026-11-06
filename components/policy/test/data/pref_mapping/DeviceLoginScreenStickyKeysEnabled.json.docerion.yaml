@@ -1,0 +1,4 @@
+# Docerion header of DeviceLoginScreenStickyKeysEnabled.json.
+type: test
+title: DeviceLoginScreenStickyKeysEnabled pref mapping test data
+summary: Test data verifying that the DeviceLoginScreenStickyKeysEnabled policy maps to the settings.a11y.sticky_keys_enabled pref in the ChromeOS sign-in profile.

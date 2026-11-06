@@ -1,0 +1,4 @@
+# Docerion header of GenAILocalFoundationalModelSettings.json.
+type: test
+title: GenAILocalFoundationalModelSettings pref mapping test data
+summary: Test data verifying that the GenAILocalFoundationalModelSettings policy maps to a local state preference across Android, Windows, Linux, Mac and ChromeOS.

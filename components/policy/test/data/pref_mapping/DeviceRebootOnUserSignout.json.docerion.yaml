@@ -1,0 +1,4 @@
+# Docerion header of DeviceRebootOnUserSignout.json.
+type: test
+title: DeviceRebootOnUserSignout pref mapping test data
+summary: Test data explaining that the DeviceRebootOnUserSignout policy has no pref mapping test because it maps into CrosSettings.

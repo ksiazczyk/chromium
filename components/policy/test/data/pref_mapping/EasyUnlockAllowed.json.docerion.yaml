@@ -1,0 +1,4 @@
+# Docerion header of EasyUnlockAllowed.json.
+type: test
+title: EasyUnlockAllowed policy pref mapping test data
+summary: Test data mapping the EasyUnlockAllowed policy to the easy_unlock.allowed pref on ChromeOS, with a false default for enterprise users.

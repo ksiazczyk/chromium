@@ -1,0 +1,4 @@
+# Docerion header of DeviceLoginScreenWebUsbAllowDevicesForUrls.json.
+type: test
+title: DeviceLoginScreenWebUsbAllowDevicesForUrls pref mapping test data
+summary: Test data verifying that DeviceLoginScreenWebUsbAllowDevicesForUrls maps to the profile.managed_web_usb_allow_devices_for_urls pref in the sign-in profile.

@@ -1,0 +1,4 @@
+# Docerion header of ExtensionDOMActivityLoggingEnabled.json.
+type: test
+title: ExtensionDOMActivityLoggingEnabled policy pref mapping test data
+summary: Test data verifying that the ExtensionDOMActivityLoggingEnabled policy maps to the enterprise_reporting.extension_dom_activity_logging_enabled pref with true and false values.

@@ -1,0 +1,4 @@
+# Docerion header of EduCoexistenceToSVersion.json.
+type: test
+title: EduCoexistenceToSVersion policy pref mapping test data
+summary: Test data mapping the EduCoexistenceToSVersion policy to the family_link_user.edu_coexistence_tos_version pref on ChromeOS.

@@ -1,0 +1,4 @@
+# Docerion header of EnableSyncConsent.json.
+type: test
+title: EnableSyncConsent pref mapping test
+summary: Test data verifying the EnableSyncConsent policy maps to the sync_consent.enabled preference with true and false values on ChromeOS.

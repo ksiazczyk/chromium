@@ -1,0 +1,4 @@
+# Docerion header of DeviceLoginScreenKeyboardFocusHighlightEnabled.json.
+type: test
+title: DeviceLoginScreenKeyboardFocusHighlightEnabled pref mapping test data
+summary: Tests mapping of the DeviceLoginScreenKeyboardFocusHighlightEnabled policy to the focus highlight accessibility pref on the sign-in profile.

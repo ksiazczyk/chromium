@@ -1,0 +1,4 @@
+# Docerion header of DnsOverHttpsTemplatesWithIdentifiers.json.
+type: test
+title: DnsOverHttpsTemplatesWithIdentifiers policy pref mapping test data
+summary: ChromeOS test data verifying the DnsOverHttpsTemplatesWithIdentifiers policy maps to the dns_over_https.templates_with_identifiers preference.

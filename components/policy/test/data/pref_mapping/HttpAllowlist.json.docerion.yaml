@@ -1,0 +1,4 @@
+# Docerion header of HttpAllowlist.json.
+type: test
+title: HttpAllowlist policy pref mapping test data
+summary: Defines expected mappings from the HttpAllowlist policy to the https_upgrades.policy.http_allowlist pref, with a sample list of allowed domains and an IP address.

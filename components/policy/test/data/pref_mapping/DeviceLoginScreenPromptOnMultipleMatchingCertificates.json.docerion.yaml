@@ -1,0 +1,4 @@
+# Docerion header of DeviceLoginScreenPromptOnMultipleMatchingCertificates.json.
+type: test
+title: DeviceLoginScreenPromptOnMultipleMatchingCertificates pref mapping test data
+summary: Test data checking that the login screen prompt on multiple matching certificates policy maps to the corresponding pref in the sign-in profile.

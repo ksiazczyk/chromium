@@ -1,0 +1,4 @@
+# Docerion header of DeviceI18nShortcutsEnabled.json.
+type: test
+title: DeviceI18nShortcutsEnabled policy pref mapping test data
+summary: Test data for the simple policy pref mapping test checking that DeviceI18nShortcutsEnabled sets the ash.device_i18n_shortcuts_enabled local state preference on ChromeOS.

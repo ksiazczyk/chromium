@@ -1,0 +1,4 @@
+# Docerion header of DeviceUpdateStagingSchedule.json.
+type: test
+title: DeviceUpdateStagingSchedule pref mapping test data
+summary: Declares no pref mapping test for the DeviceUpdateStagingSchedule policy because it is a Chrome OS device policy used only by update_engine.

@@ -1,0 +1,4 @@
+# Docerion header of DeviceLoginScreenContextAwareAccessSignalsAllowlist.json.
+type: test
+title: DeviceLoginScreenContextAwareAccessSignalsAllowlist pref mapping test data
+summary: Test data for the simple policy pref mapping test of the DeviceLoginScreenContextAwareAccessSignalsAllowlist policy, mapping it to the enterprise_connectors.device_trust_user.origins pref on ChromeOS.

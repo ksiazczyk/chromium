@@ -1,0 +1,4 @@
+# Docerion header of DeviceLoginScreenSecurityKeyPermitAttestation.json.
+type: test
+title: DeviceLoginScreenSecurityKeyPermitAttestation pref mapping test data
+summary: Test data checking that the login screen security key permit attestation policy maps to the securitykey.permit_attestation pref in the sign-in profile.

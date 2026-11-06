@@ -1,0 +1,4 @@
+# Docerion header of ExternalPrintServers.json.
+type: test
+title: ExternalPrintServers pref mapping placeholder
+summary: Placeholder recording that no pref mapping test exists for ExternalPrintServers because external data policies are not yet supported.

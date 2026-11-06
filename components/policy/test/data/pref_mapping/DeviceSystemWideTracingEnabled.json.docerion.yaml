@@ -1,0 +1,4 @@
+# Docerion header of DeviceSystemWideTracingEnabled.json.
+type: test
+title: DeviceSystemWideTracingEnabled pref mapping test data
+summary: Pref mapping test data mapping the policy to the device_system_wide_tracing_enabled local state pref on ChromeOS.

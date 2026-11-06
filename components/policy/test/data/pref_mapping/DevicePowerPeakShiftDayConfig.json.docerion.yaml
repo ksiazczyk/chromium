@@ -1,0 +1,4 @@
+# Docerion header of DevicePowerPeakShiftDayConfig.json.
+type: test
+title: DevicePowerPeakShiftDayConfig pref mapping test data
+summary: Test data mapping the DevicePowerPeakShiftDayConfig policy to the ash.power.peak_shift_day_config pref with sample weekly peak shift schedule entries.

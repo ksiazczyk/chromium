@@ -1,0 +1,4 @@
+# Docerion header of DownloadManagerSaveToDriveSettings.json.
+type: test
+title: DownloadManagerSaveToDriveSettings pref mapping placeholder
+summary: Placeholder test data noting that no pref mapping test exists because the policy maps into an iOS-specific preference.

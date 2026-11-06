@@ -1,0 +1,4 @@
+# Docerion header of DevicePrintersAllowlist.json.
+type: test
+title: DevicePrintersAllowlist pref mapping test data
+summary: Test data entry explaining that the DevicePrintersAllowlist policy has no pref mapping test because it maps into CrosSettings.

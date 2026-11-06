@@ -1,0 +1,4 @@
+# Docerion header of DisabledSchemes.json.
+type: test
+title: DisabledSchemes pref mapping test data
+summary: Test data checking that DisabledSchemes values merge with URLBlocklist entries into the policy.url_blocklist preference on desktop platforms.

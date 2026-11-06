@@ -1,0 +1,4 @@
+# Docerion header of FullRestoreEnabled.json.
+type: test
+title: FullRestoreEnabled pref mapping test data
+summary: Test data verifying that the ChromeOS FullRestoreEnabled policy maps to the settings.restore_apps_enabled preference.

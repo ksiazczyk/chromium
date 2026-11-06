@@ -1,0 +1,4 @@
+# Docerion header of DiskCacheSize.json.
+type: test
+title: DiskCacheSize pref mapping test data
+summary: Test data verifying the DiskCacheSize policy maps to the browser.disk_cache_size preference stored in local state.

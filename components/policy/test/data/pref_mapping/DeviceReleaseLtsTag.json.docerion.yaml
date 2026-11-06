@@ -1,0 +1,4 @@
+# Docerion header of DeviceReleaseLtsTag.json.
+type: test
+title: DeviceReleaseLtsTag pref mapping test data
+summary: Test data explaining that the DeviceReleaseLtsTag policy has no pref mapping test because it maps into CrosSettings.

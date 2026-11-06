@@ -1,0 +1,4 @@
+# Docerion header of F12KeyModifier.json.
+type: test
+title: F12KeyModifier pref mapping test data
+summary: Simple policy pref mapping test for the F12KeyModifier policy and the ash.settings.f12_key_modifier preference on ChromeOS.

@@ -1,0 +1,4 @@
+# Docerion header of DnsOverHttpsIncludedDomains.json.
+type: test
+title: DnsOverHttpsIncludedDomains pref mapping test data
+summary: Test data verifying the DnsOverHttpsIncludedDomains policy maps to the dns_over_https.included_domains preference on ChromeOS.

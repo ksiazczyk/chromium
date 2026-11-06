@@ -1,0 +1,4 @@
+# Docerion header of DirectSocketsBlockedForUrls.json.
+type: test
+title: DirectSocketsBlockedForUrls pref mapping test data
+summary: Simple policy pref mapping test data for the DirectSocketsBlockedForUrls policy and the profile.managed_direct_sockets_blocked_for_urls pref.

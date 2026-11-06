@@ -1,0 +1,4 @@
+# Docerion header of DeviceWebBasedAttestationAllowedUrls.json.
+type: test
+title: DeviceWebBasedAttestationAllowedUrls pref mapping test data
+summary: Declares no pref mapping test for the DeviceWebBasedAttestationAllowedUrls policy because it maps into CrosSettings.

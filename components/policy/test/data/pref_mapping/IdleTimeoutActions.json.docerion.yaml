@@ -1,0 +1,4 @@
+# Docerion header of IdleTimeoutActions.json.
+type: test
+title: IdleTimeoutActions policy pref mapping test data
+summary: Complex mapping test verifying that IdleTimeoutActions policy values translate into the idle_timeout_actions preference values.

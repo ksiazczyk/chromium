@@ -1,0 +1,4 @@
+# Docerion header of DeviceLoginScreenDomainAutoComplete.json.
+type: test
+title: DeviceLoginScreenDomainAutoComplete pref mapping test data
+summary: Placeholder noting that the DeviceLoginScreenDomainAutoComplete policy has no pref mapping test because it maps into CrosSettings.

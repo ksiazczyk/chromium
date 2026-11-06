@@ -1,0 +1,4 @@
+# Docerion header of DeviceWiFiAllowed.json.
+type: test
+title: DeviceWiFiAllowed pref mapping test data
+summary: Declares no pref mapping test for the DeviceWiFiAllowed policy because it maps into CrosSettings instead of a regular pref.

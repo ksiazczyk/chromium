@@ -1,0 +1,4 @@
+# Docerion header of ForceEphemeralProfiles.json.
+type: test
+title: ForceEphemeralProfiles policy pref mapping test data
+summary: Test data verifying that the ForceEphemeralProfiles policy maps to the profile.ephemeral_mode preference on Windows, Linux, Mac and Fuchsia.

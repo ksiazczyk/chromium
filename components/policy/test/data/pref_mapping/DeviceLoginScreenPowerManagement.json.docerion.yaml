@@ -1,0 +1,4 @@
+# Docerion header of DeviceLoginScreenPowerManagement.json.
+type: test
+title: DeviceLoginScreenPowerManagement pref mapping test data
+summary: Test data verifying that the login screen power management policy maps to the expected power delay and idle action prefs in the ChromeOS sign-in profile.

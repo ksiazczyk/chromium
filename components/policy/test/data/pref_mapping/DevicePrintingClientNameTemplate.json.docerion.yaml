@@ -1,0 +1,4 @@
+# Docerion header of DevicePrintingClientNameTemplate.json.
+type: test
+title: DevicePrintingClientNameTemplate pref mapping test data
+summary: Test data entry explaining that the DevicePrintingClientNameTemplate policy has no pref mapping test because it maps into CrosSettings.

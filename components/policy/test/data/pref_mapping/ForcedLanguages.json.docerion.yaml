@@ -1,0 +1,4 @@
+# Docerion header of ForcedLanguages.json.
+type: test
+title: ForcedLanguages pref mapping test data
+summary: Test data verifying that the ForcedLanguages policy maps to the intl.forced_languages preference with a list of language codes.

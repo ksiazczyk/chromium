@@ -1,0 +1,4 @@
+# Docerion header of HelpMeWriteSettings.json.
+type: test
+title: HelpMeWriteSettings policy pref mapping test data
+summary: Test data verifying the HelpMeWriteSettings policy maps to the AI compose enterprise policy preference on desktop platforms and to settings.managed.help_me_write on ChromeOS.

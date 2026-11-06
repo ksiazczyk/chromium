@@ -1,0 +1,4 @@
+# Docerion header of FloatingSsoDomainBlocklist.json.
+type: test
+title: FloatingSsoDomainBlocklist pref mapping test data
+summary: Test data verifying that the FloatingSsoDomainBlocklist policy maps to the floating_sso_domain_blocklist pref on ChromeOS using google.com as a test value.

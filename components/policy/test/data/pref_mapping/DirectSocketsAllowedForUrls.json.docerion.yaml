@@ -1,0 +1,4 @@
+# Docerion header of DirectSocketsAllowedForUrls.json.
+type: test
+title: DirectSocketsAllowedForUrls pref mapping test data
+summary: Simple policy pref mapping test data for the DirectSocketsAllowedForUrls policy and the profile.managed_direct_sockets_allowed_for_urls pref.

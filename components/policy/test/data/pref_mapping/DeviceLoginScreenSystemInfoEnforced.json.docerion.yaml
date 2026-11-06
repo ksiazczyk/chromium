@@ -1,0 +1,4 @@
+# Docerion header of DeviceLoginScreenSystemInfoEnforced.json.
+type: test
+title: DeviceLoginScreenSystemInfoEnforced pref mapping test data
+summary: Records that DeviceLoginScreenSystemInfoEnforced has no pref mapping test because the policy maps into CrosSettings.

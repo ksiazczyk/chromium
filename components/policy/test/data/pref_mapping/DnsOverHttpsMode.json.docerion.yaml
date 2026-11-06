@@ -1,0 +1,4 @@
+# Docerion header of DnsOverHttpsMode.json.
+type: test
+title: DnsOverHttpsMode pref mapping test data
+summary: Test data verifying the DnsOverHttpsMode policy maps to the dns_over_https.mode preference, including the enterprise default of off.

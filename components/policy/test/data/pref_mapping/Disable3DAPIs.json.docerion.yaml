@@ -1,0 +1,4 @@
+# Docerion header of Disable3DAPIs.json.
+type: test
+title: Disable3DAPIs pref mapping test data
+summary: Simple policy pref mapping test data for the Disable3DAPIs policy and the disable_3d_apis pref across desktop platforms and ChromeOS.

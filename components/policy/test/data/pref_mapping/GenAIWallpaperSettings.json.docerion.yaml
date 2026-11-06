@@ -1,0 +1,4 @@
+# Docerion header of GenAIWallpaperSettings.json.
+type: test
+title: GenAIWallpaperSettings pref mapping test data
+summary: Test data verifying that the GenAIWallpaperSettings policy maps to the personalization app wallpaper enterprise settings preference on ChromeOS.

@@ -1,0 +1,4 @@
+# Docerion header of EnableMediaRouter.json.
+type: test
+title: EnableMediaRouter pref mapping test
+summary: Test data verifying the EnableMediaRouter policy maps to the media_router.enable_media_router preference with true and false values across desktop, ChromeOS, Android and Fuchsia.

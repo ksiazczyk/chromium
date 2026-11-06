@@ -1,0 +1,4 @@
+# Docerion header of ExtensionInstallForcelist.json.
+type: test
+title: ExtensionInstallForcelist pref mapping test data
+summary: Policy pref mapping test data for ExtensionInstallForcelist, verifying forced extension installs map to the extensions.install.forcelist pref with default and custom update URLs.

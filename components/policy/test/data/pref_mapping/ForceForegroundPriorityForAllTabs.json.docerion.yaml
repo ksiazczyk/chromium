@@ -1,0 +1,4 @@
+# Docerion header of ForceForegroundPriorityForAllTabs.json.
+type: test
+title: ForceForegroundPriorityForAllTabs policy pref mapping test data
+summary: Test data verifying that the ForceForegroundPriorityForAllTabs policy maps to the local state preference performance_tuning.force_foreground_priority_for_all_tabs.

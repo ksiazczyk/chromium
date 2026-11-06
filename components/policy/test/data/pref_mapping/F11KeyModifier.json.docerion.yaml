@@ -1,0 +1,4 @@
+# Docerion header of F11KeyModifier.json.
+type: test
+title: F11KeyModifier pref mapping test data
+summary: Simple policy pref mapping test for the F11KeyModifier policy and the ash.settings.f11_key_modifier preference on ChromeOS.

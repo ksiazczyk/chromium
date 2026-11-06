@@ -1,0 +1,4 @@
+# Docerion header of DevicePciPeripheralDataAccessEnabled.json.
+type: test
+title: DevicePciPeripheralDataAccessEnabled pref mapping test data
+summary: Declares that no pref mapping test exists for the DevicePciPeripheralDataAccessEnabled policy because it maps into CrosSettings.

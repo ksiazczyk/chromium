@@ -1,0 +1,4 @@
+# Docerion header of FaceGazeEnabled.json.
+type: test
+title: FaceGazeEnabled pref mapping test data
+summary: Simple policy pref mapping test for the FaceGazeEnabled policy and the settings.a11y.face_gaze.enabled preference on ChromeOS.

@@ -1,0 +1,4 @@
+# Docerion header of HSTSPolicyBypassList.json.
+type: test
+title: HSTSPolicyBypassList policy pref mapping test data
+summary: Test data verifying that the HSTSPolicyBypassList policy maps to the hsts.policy.upgrade_bypass_list preference across all supported platforms.

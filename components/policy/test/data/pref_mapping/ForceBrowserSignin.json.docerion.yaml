@@ -1,0 +1,4 @@
+# Docerion header of ForceBrowserSignin.json.
+type: test
+title: ForceBrowserSignin policy pref mapping test data
+summary: Test data verifying that the ForceBrowserSignin policy maps to the local state preference profile.force_browser_signin across desktop and mobile platforms.

@@ -1,0 +1,4 @@
+# Docerion header of DeviceLoginScreenSpokenFeedbackEnabled.json.
+type: test
+title: DeviceLoginScreenSpokenFeedbackEnabled pref mapping test data
+summary: Test data verifying that the DeviceLoginScreenSpokenFeedbackEnabled policy maps to the settings.accessibility pref in the ChromeOS sign-in profile.

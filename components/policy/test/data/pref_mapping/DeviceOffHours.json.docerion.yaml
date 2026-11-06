@@ -1,0 +1,4 @@
+# Docerion header of DeviceOffHours.json.
+type: test
+title: DeviceOffHours pref mapping test data
+summary: Declares that no pref mapping test exists for the DeviceOffHours policy because it maps into CrosSettings.

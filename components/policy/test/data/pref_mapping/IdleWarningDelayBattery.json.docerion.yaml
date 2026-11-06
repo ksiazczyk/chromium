@@ -1,0 +1,4 @@
+# Docerion header of IdleWarningDelayBattery.json.
+type: test
+title: IdleWarningDelay battery pref mapping test data
+summary: Test data mapping a policy to the power.battery_idle_warning_delay_ms preference on ChromeOS.

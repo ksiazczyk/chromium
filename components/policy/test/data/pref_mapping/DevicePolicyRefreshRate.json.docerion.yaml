@@ -1,0 +1,4 @@
+# Docerion header of DevicePolicyRefreshRate.json.
+type: test
+title: DevicePolicyRefreshRate pref mapping test
+summary: Simple pref mapping test for ChromeOS checking the policy.device_refresh_rate local state pref with default 10800000 and test value 300000.

@@ -1,0 +1,4 @@
+# Docerion header of GeminiActOnWebSettings.json.
+type: test
+title: GeminiActOnWebSettings pref mapping test data
+summary: Test data checking that the GeminiActOnWebSettings policy maps to the glic.actuation_on_web preference across platforms.

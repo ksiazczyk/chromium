@@ -1,0 +1,4 @@
+# Docerion header of HeartbeatFrequency.json.
+type: test
+title: HeartbeatFrequency policy pref mapping test data
+summary: Test data explaining that the HeartbeatFrequency policy has no pref mapping test because it maps into CrosSettings.

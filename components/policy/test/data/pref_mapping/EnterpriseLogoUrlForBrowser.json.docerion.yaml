@@ -1,0 +1,4 @@
+# Docerion header of EnterpriseLogoUrlForBrowser.json.
+type: test
+title: EnterpriseLogoUrlForBrowser pref mapping test data
+summary: Policy pref mapping test cases for the EnterpriseLogoUrlForBrowser policy, checking the enterprise_logo.url.for_browser pref in local state and rejection of invalid URLs.

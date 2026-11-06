@@ -1,0 +1,4 @@
+# Docerion header of IdleDelayAC.json.
+type: test
+title: IdleDelayAC policy pref mapping test data
+summary: Defines expected mappings from the IdleDelayAC policy to the ChromeOS power.ac_idle_delay_ms pref with sample delay values in milliseconds.

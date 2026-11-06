@@ -1,0 +1,4 @@
+# Docerion header of EditBookmarksEnabled.json.
+type: test
+title: EditBookmarksEnabled policy pref mapping test data
+summary: Test data mapping the EditBookmarksEnabled policy to the bookmarks.editing_enabled pref across Windows, Linux, Mac, ChromeOS, Android and Fuchsia.

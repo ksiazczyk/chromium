@@ -1,0 +1,4 @@
+# Docerion header of DeviceScreensaverLoginScreenImages.json.
+type: test
+title: DeviceScreensaverLoginScreenImages pref mapping test data
+summary: Simple policy pref mapping test data verifying DeviceScreensaverLoginScreenImages maps to ash.ambient.managed_screensaver.images in the signin profile.

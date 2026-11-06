@@ -1,0 +1,4 @@
+# Docerion header of GeminiSparkSettings.json.
+type: test
+title: GeminiSparkSettings pref mapping test data
+summary: Test data verifying that the GeminiSparkSettings policy maps to the glic.spark_policy_settings preference on Linux, Mac, Windows and ChromeOS.

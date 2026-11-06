@@ -1,0 +1,4 @@
+# Docerion header of DeviceLoginScreenPrivacyScreenEnabled.json.
+type: test
+title: DeviceLoginScreenPrivacyScreenEnabled pref mapping test data
+summary: Test data checking that the login screen privacy screen policy maps to the settings.display.privacy_screen_enabled pref in the sign-in profile.

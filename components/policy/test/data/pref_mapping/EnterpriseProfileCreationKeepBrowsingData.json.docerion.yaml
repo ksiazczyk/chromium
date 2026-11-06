@@ -1,0 +1,4 @@
+# Docerion header of EnterpriseProfileCreationKeepBrowsingData.json.
+type: test
+title: EnterpriseProfileCreationKeepBrowsingData pref mapping test data
+summary: Simple policy pref mapping test for the recommendable EnterpriseProfileCreationKeepBrowsingData policy, mapping to a local state pref about keeping existing data by default.

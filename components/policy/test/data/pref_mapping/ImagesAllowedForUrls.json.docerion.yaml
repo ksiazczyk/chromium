@@ -1,0 +1,4 @@
+# Docerion header of ImagesAllowedForUrls.json.
+type: test
+title: ImagesAllowedForUrls pref mapping test data
+summary: Test data mapping the ImagesAllowedForUrls policy to a managed URL list preference across platforms.

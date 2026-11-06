@@ -1,0 +1,4 @@
+# Docerion header of FileSystemWriteAskForUrls.json.
+type: test
+title: FileSystemWriteAskForUrls pref mapping test data
+summary: Test data verifying that the FileSystemWriteAskForUrls policy maps to the profile.managed_file_system_write_ask_for_urls pref across the supported desktop and ChromeOS platforms.

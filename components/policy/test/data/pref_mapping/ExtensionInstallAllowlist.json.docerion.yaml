@@ -1,0 +1,4 @@
+# Docerion header of ExtensionInstallAllowlist.json.
+type: test
+title: ExtensionInstallAllowlist policy pref mapping test data
+summary: Test data verifying that the ExtensionInstallAllowlist policy maps to the extensions.install.allowlist pref with a sample extension ID.

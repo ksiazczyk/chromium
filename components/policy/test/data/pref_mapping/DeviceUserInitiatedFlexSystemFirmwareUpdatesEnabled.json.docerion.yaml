@@ -1,0 +1,4 @@
+# Docerion header of DeviceUserInitiatedFlexSystemFirmwareUpdatesEnabled.json.
+type: test
+title: DeviceUserInitiatedFlexSystemFirmwareUpdatesEnabled pref mapping test data
+summary: Declares no pref mapping test for the DeviceUserInitiatedFlexSystemFirmwareUpdatesEnabled policy because it maps into CrosSettings.

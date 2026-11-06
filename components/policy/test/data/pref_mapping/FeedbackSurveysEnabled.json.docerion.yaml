@@ -1,0 +1,4 @@
+# Docerion header of FeedbackSurveysEnabled.json.
+type: test
+title: FeedbackSurveysEnabled pref mapping test data
+summary: Simple policy pref mapping test for the recommended FeedbackSurveysEnabled policy and the policy.feedback_surveys_enabled preference across all supported platforms.

@@ -1,0 +1,4 @@
+# Docerion header of DeviceQuickFixBuildToken.json.
+type: test
+title: DeviceQuickFixBuildToken pref mapping test data
+summary: Test data entry explaining that DeviceQuickFixBuildToken has no pref mapping test because the update engine daemon reads it directly.

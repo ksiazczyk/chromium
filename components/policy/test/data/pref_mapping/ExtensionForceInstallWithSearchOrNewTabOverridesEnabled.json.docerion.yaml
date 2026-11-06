@@ -1,0 +1,4 @@
+# Docerion header of ExtensionForceInstallWithSearchOrNewTabOverridesEnabled.json.
+type: test
+title: ExtensionForceInstallWithSearchOrNewTabOverridesEnabled pref mapping test data
+summary: Test data for Windows and Mac verifying that the ExtensionForceInstallWithSearchOrNewTabOverridesEnabled policy maps to its matching extensions pref.

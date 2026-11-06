@@ -1,0 +1,4 @@
+# Docerion header of DeviceSecondFactorAuthentication.json.
+type: test
+title: DeviceSecondFactorAuthentication pref mapping test data
+summary: Declares no pref mapping test for the DeviceSecondFactorAuthentication policy because it maps into CrosSettings.

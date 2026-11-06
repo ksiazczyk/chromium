@@ -1,0 +1,4 @@
+# Docerion header of FullscreenAlertEnabled.json.
+type: test
+title: FullscreenAlertEnabled pref mapping test data
+summary: Test data verifying that the ChromeOS FullscreenAlertEnabled policy maps to the ash.fullscreen_alert_enabled preference.

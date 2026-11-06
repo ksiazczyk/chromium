@@ -1,0 +1,4 @@
+# Docerion header of DynamicCodeSettings.json.
+type: test
+title: DynamicCodeSettings policy pref mapping test data
+summary: Test data mapping the DynamicCodeSettings policy to the dynamic_code_settings pref in local state on Windows, with default and alternate values to test.

@@ -1,0 +1,4 @@
+# Docerion header of DriveFileSyncAvailable.json.
+type: test
+title: DriveFileSyncAvailable policy pref mapping test data
+summary: ChromeOS test data checking the DriveFileSyncAvailable policy controls the drivefs bulk pinning visibility and enablement preferences.

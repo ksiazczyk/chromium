@@ -1,0 +1,4 @@
+# Docerion header of EnableExperimentalPolicies.json.
+type: test
+title: EnableExperimentalPolicies missing pref test note
+summary: Test data recording that the EnableExperimentalPolicies policy has no pref mapping test because it is read directly by the policy system.

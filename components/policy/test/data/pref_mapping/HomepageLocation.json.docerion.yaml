@@ -1,0 +1,4 @@
+# Docerion header of HomepageLocation.json.
+type: test
+title: HomepageLocation policy pref mapping test data
+summary: Defines expected mappings from the HomepageLocation policy to the homepage pref across all supported platforms for Chromium policy pref mapping tests.

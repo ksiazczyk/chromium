@@ -1,0 +1,4 @@
+# Docerion header of DeviceRestrictionSchedule.json.
+type: test
+title: DeviceRestrictionSchedule pref mapping test data
+summary: Pref mapping test cases for the DeviceRestrictionSchedule policy, covering default, empty, valid, and malformed schedule values against the device_restriction_schedule pref on ChromeOS.

@@ -1,0 +1,4 @@
+# Docerion header of DisableSafeBrowsingProceedAnyway.json.
+type: test
+title: DisableSafeBrowsingProceedAnyway pref mapping test data
+summary: Test data verifying the DisableSafeBrowsingProceedAnyway policy maps to the safebrowsing.proceed_anyway_disabled preference on all supported platforms.

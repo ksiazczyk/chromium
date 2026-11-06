@@ -1,0 +1,4 @@
+# Docerion header of DnsOverHttpsTemplates.json.
+type: test
+title: DnsOverHttpsTemplates policy pref mapping test data
+summary: Test data checking that the DnsOverHttpsTemplates policy sets the dns_over_https.templates preference on all major platforms.

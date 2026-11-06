@@ -1,0 +1,4 @@
+# Docerion header of EnableOnlineRevocationChecks.json.
+type: test
+title: EnableOnlineRevocationChecks pref mapping test
+summary: Test data verifying the EnableOnlineRevocationChecks policy maps to the ssl.rev_checking.enabled local state preference on Windows, Linux, Mac, ChromeOS and Fuchsia.

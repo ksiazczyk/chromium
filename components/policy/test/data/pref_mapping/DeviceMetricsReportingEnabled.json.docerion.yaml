@@ -1,0 +1,4 @@
+# Docerion header of DeviceMetricsReportingEnabled.json.
+type: test
+title: DeviceMetricsReportingEnabled pref mapping test data
+summary: Records that DeviceMetricsReportingEnabled has no pref mapping test because the policy maps into CrosSettings.

@@ -1,0 +1,4 @@
+# Docerion header of ForcePermissionPolicyUnloadDefaultEnabled.json.
+type: test
+title: ForcePermissionPolicyUnloadDefaultEnabled pref mapping test data
+summary: Test data verifying that ForcePermissionPolicyUnloadDefaultEnabled maps to the policy.force_permission_policy_unload_default_enabled pref on all supported platforms.

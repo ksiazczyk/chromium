@@ -1,0 +1,4 @@
+# Docerion header of FullRestoreMode.json.
+type: test
+title: FullRestoreMode pref mapping test data
+summary: Test data verifying that the ChromeOS FullRestoreMode policy maps to the settings.restore_apps_and_pages preference with values 1 through 3.

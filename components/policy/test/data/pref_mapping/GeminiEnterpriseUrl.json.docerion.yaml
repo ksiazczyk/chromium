@@ -1,0 +1,4 @@
+# Docerion header of GeminiEnterpriseUrl.json.
+type: test
+title: GeminiEnterpriseUrl pref mapping test data
+summary: Test data verifying the GeminiEnterpriseUrl policy maps to the glic.gemini_enterprise_url preference, covering valid HTTPS URLs and invalid or non-HTTPS values.

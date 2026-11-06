@@ -1,0 +1,4 @@
+# Docerion header of GeminiActOnWebAllowedForURLs.json.
+type: test
+title: GeminiActOnWebAllowedForURLs pref mapping test data
+summary: Test data checking that the GeminiActOnWebAllowedForURLs policy maps to the glic.actuation_on_web_allowed_for_urls preference across platforms.

@@ -1,0 +1,4 @@
+# Docerion header of DeviceShowUserNamesOnSignin.json.
+type: test
+title: DeviceShowUserNamesOnSignin pref mapping test data
+summary: Pref mapping test data recording that the policy maps into CrosSettings, so no simple pref mapping test applies.

@@ -1,0 +1,4 @@
+# Docerion header of ExtensionReviewPromptsEnabled.json.
+type: test
+title: ExtensionReviewPromptsEnabled pref mapping test data
+summary: Simple policy pref mapping test data for ExtensionReviewPromptsEnabled, checking the extensions.review_prompts_allowed pref across all supported platforms.

@@ -1,0 +1,4 @@
+# Docerion header of ExtensionInstallBlocklist.json.
+type: test
+title: ExtensionInstallBlocklist policy pref mapping test data
+summary: Test data verifying that the ExtensionInstallBlocklist policy maps to the extensions.install.denylist pref with wildcard and single extension ID values.

@@ -1,0 +1,4 @@
+# Docerion header of DeviceUsbPowerShareEnabled.json.
+type: test
+title: DeviceUsbPowerShareEnabled pref mapping test data
+summary: Maps the DeviceUsbPowerShareEnabled ChromeOS policy to the ash.power.usb_power_share_enabled local state pref and tests true and false values.

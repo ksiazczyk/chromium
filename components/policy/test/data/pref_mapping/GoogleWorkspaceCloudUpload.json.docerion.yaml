@@ -1,0 +1,4 @@
+# Docerion header of GoogleWorkspaceCloudUpload.json.
+type: test
+title: GoogleWorkspaceCloudUpload policy pref mapping test data
+summary: Test data verifying that the GoogleWorkspaceCloudUpload policy maps to the filebrowser.office.google_workspace_cloud_upload preference on ChromeOS with its allowed values.

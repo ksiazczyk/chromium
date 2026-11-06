@@ -1,0 +1,4 @@
+# Docerion header of DeviceLoginScreenScreenMagnifierType.json.
+type: test
+title: DeviceLoginScreenScreenMagnifierType pref mapping test data
+summary: Test data verifying how the login screen screen magnifier type policy maps to the docked magnifier and screen magnifier prefs, including out-of-range values.

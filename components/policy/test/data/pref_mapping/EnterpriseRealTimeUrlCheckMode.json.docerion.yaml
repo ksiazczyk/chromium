@@ -1,0 +1,4 @@
+# Docerion header of EnterpriseRealTimeUrlCheckMode.json.
+type: test
+title: EnterpriseRealTimeUrlCheckMode pref mapping test data
+summary: Simple policy pref mapping test for the EnterpriseRealTimeUrlCheckMode policy against the safebrowsing.enterprise_real_time_url_check_mode pref across six platforms.

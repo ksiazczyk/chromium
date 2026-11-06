@@ -1,0 +1,4 @@
+# Docerion header of DeviceFlexArcPreloadEnabled.json.
+type: test
+title: DeviceFlexArcPreloadEnabled pref mapping test data
+summary: Pref mapping test data explaining that the DeviceFlexArcPreloadEnabled policy maps into CrosSettings and needs no direct pref test.

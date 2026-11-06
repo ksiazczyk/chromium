@@ -1,0 +1,4 @@
+# Docerion header of ExtensionSettings.json.
+type: test
+title: ExtensionSettings pref mapping test data
+summary: Simple policy pref mapping test data for ExtensionSettings, checking the extensions.management pref with per-extension installation modes, permissions and toolbar pinning.

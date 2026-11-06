@@ -1,0 +1,4 @@
+# Docerion header of DeviceLoginScreenMonoAudioEnabled.json.
+type: test
+title: DeviceLoginScreenMonoAudioEnabled pref mapping test data
+summary: Tests mapping of the DeviceLoginScreenMonoAudioEnabled policy to the mono audio accessibility pref on the sign-in profile.

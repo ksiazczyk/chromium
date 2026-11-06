@@ -1,0 +1,4 @@
+# Docerion header of DevicePrintersAccessMode.json.
+type: test
+title: DevicePrintersAccessMode pref mapping test data
+summary: Test data entry explaining that the DevicePrintersAccessMode policy has no pref mapping test because it maps into CrosSettings.

@@ -1,0 +1,4 @@
+# Docerion header of DevicePrinters.json.
+type: test
+title: DevicePrinters pref mapping test data
+summary: Test data entry explaining that DevicePrinters has no pref mapping test because external data policies are not yet supported.

@@ -1,0 +1,4 @@
+# Docerion header of DeviceLowBatterySoundEnabled.json.
+type: test
+title: DeviceLowBatterySoundEnabled pref mapping test data
+summary: Test data verifying that the DeviceLowBatterySoundEnabled policy maps to the ash.low_battery_sound.enabled pref in local state on ChromeOS.

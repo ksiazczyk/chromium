@@ -1,0 +1,4 @@
+# Docerion header of DeviceExternalPrintServers.json.
+type: test
+title: DeviceExternalPrintServers pref mapping test data
+summary: Pref mapping test data noting the DeviceExternalPrintServers policy has no test yet because external data policies are not supported.

@@ -1,0 +1,4 @@
+# Docerion header of DisablePrintPreview.json.
+type: test
+title: DisablePrintPreview pref mapping test data
+summary: Simple policy pref mapping test data for the DisablePrintPreview policy and the printing.print_preview_disabled pref on desktop platforms.

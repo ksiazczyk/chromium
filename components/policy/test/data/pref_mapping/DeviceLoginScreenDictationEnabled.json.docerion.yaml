@@ -1,0 +1,4 @@
+# Docerion header of DeviceLoginScreenDictationEnabled.json.
+type: test
+title: DeviceLoginScreenDictationEnabled pref mapping test data
+summary: Test data for the simple policy pref mapping test of the DeviceLoginScreenDictationEnabled policy, mapping it to the settings.a11y.dictation pref in the sign-in profile on ChromeOS.

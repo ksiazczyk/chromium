@@ -1,0 +1,4 @@
+# Docerion header of GhostWindowEnabled.json.
+type: test
+title: GhostWindowEnabled policy pref mapping test data
+summary: Test data verifying that the GhostWindowEnabled policy maps to the settings.ghost_window_enabled preference on ChromeOS with true and false values.

@@ -1,0 +1,4 @@
+# Docerion header of IPv6ReachabilityOverrideEnabled.json.
+type: test
+title: IPv6ReachabilityOverrideEnabled policy pref mapping test data
+summary: Defines expected mappings from the IPv6ReachabilityOverrideEnabled policy to the net.ipv6_reachability_override_enabled pref with true and false values.

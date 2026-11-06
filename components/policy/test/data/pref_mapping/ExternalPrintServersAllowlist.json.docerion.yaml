@@ -1,0 +1,4 @@
+# Docerion header of ExternalPrintServersAllowlist.json.
+type: test
+title: ExternalPrintServersAllowlist pref mapping test data
+summary: Simple policy pref mapping test data for ExternalPrintServersAllowlist, checking the native_printing.external_print_servers_whitelist pref on ChromeOS.

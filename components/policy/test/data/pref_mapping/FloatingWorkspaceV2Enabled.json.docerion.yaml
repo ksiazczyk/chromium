@@ -1,0 +1,4 @@
+# Docerion header of FloatingWorkspaceV2Enabled.json.
+type: test
+title: FloatingWorkspaceV2Enabled policy pref mapping test data
+summary: Test data verifying that the FloatingWorkspaceV2Enabled policy maps to the ash.floating_workspace_v2_enabled preference on ChromeOS.

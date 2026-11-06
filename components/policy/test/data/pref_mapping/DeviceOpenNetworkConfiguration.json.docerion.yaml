@@ -1,0 +1,4 @@
+# Docerion header of DeviceOpenNetworkConfiguration.json.
+type: test
+title: DeviceOpenNetworkConfiguration pref mapping test data
+summary: Notes that the DeviceOpenNetworkConfiguration policy is tested through a ChromeOS networking browser test instead of a pref mapping test.

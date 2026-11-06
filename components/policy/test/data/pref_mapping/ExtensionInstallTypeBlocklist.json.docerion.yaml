@@ -1,0 +1,4 @@
+# Docerion header of ExtensionInstallTypeBlocklist.json.
+type: test
+title: ExtensionInstallTypeBlocklist pref mapping test data
+summary: Simple policy pref mapping test data for ExtensionInstallTypeBlocklist, checking the extensions.extension_install_type_blocklist pref on Windows, Linux and Mac.

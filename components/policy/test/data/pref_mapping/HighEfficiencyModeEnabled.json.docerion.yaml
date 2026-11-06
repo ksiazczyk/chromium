@@ -1,0 +1,4 @@
+# Docerion header of HighEfficiencyModeEnabled.json.
+type: test
+title: HighEfficiencyModeEnabled policy pref mapping test data
+summary: Test data verifying the HighEfficiencyModeEnabled policy maps to the performance_tuning.high_efficiency_mode.state preference in local state on desktop platforms.

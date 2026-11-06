@@ -1,0 +1,4 @@
+# Docerion header of IdleTimeout.json.
+type: test
+title: IdleTimeout policy pref mapping test data
+summary: Complex policy-to-pref mapping test cases for the IdleTimeout policy on desktop platforms, with a note pointing to further unit tests.

@@ -1,0 +1,4 @@
+# Docerion header of DeviceScreensaverLoginScreenImageDisplayIntervalSeconds.json.
+type: test
+title: DeviceScreensaverLoginScreenImageDisplayIntervalSeconds pref mapping test data
+summary: Simple policy pref mapping test data verifying DeviceScreensaverLoginScreenImageDisplayIntervalSeconds maps to the managed screensaver image display interval pref.

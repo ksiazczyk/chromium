@@ -1,0 +1,4 @@
+# Docerion header of ExtensionInstallCloudPolicyChecksEnabled.json.
+type: test
+title: ExtensionInstallCloudPolicyChecksEnabled pref mapping test data
+summary: Policy pref mapping test data for ExtensionInstallCloudPolicyChecksEnabled, checking the extensions.install.cloud_policy_checks_enabled pref with cloud-sourced policy settings on all platforms.

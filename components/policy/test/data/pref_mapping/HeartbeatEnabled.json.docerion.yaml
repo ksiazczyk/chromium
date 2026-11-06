@@ -1,0 +1,4 @@
+# Docerion header of HeartbeatEnabled.json.
+type: test
+title: HeartbeatEnabled policy pref mapping test data
+summary: Test data verifying that the HeartbeatEnabled policy maps to the cros.device_status.heartbeat_enabled local state preference on ChromeOS.

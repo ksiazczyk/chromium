@@ -1,0 +1,4 @@
+# Docerion header of FloatingSsoSessionCookiesIncluded.json.
+type: test
+title: FloatingSsoSessionCookiesIncluded policy pref mapping test data
+summary: Test data verifying that the FloatingSsoSessionCookiesIncluded policy maps to the floating_sso_session_cookies_included preference on ChromeOS.

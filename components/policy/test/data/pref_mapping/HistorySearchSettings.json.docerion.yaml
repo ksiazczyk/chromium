@@ -1,0 +1,4 @@
+# Docerion header of HistorySearchSettings.json.
+type: test
+title: HistorySearchSettings policy pref mapping test data
+summary: Test data verifying the HistorySearchSettings policy maps to the history search enterprise policy preference with default and enterprise values on desktop platforms.

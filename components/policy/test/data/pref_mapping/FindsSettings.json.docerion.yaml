@@ -1,0 +1,4 @@
+# Docerion header of FindsSettings.json.
+type: test
+title: FindsSettings pref mapping test data
+summary: Test data verifying that the FindsSettings policy maps to the optimization guide Finds enterprise policy pref on Android, testing values 0, 1 and 2.
