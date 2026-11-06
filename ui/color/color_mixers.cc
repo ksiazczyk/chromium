@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color mixer registration for the UI color pipeline
+// summary: Adds all UI-side color mixers, including ref, sys, core default, UI, Material, Fluent, native, and CSS system mixers, to a color provider in pipeline order.
+// ---
+
 #include "ui/color/color_mixers.h"
 
 #include "ui/base/ui_base_features.h"

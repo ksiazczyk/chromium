@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ColorId definitions for the color pipeline
+// summary: Defines the full set of cross-platform and platform-specific ColorId enum values, including Material reference and system color tokens.
+// ---
+
 #ifndef UI_COLOR_COLOR_ID_H_
 #define UI_COLOR_COLOR_ID_H_
 

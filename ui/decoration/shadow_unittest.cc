@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shadow unit tests
+// summary: Tests shadow creation, content bounds handling, elevation changes, and ninebox image sizing for the Shadow decoration.
+// ---
+
 #include "ui/decoration/shadow.h"
 
 #include <memory>

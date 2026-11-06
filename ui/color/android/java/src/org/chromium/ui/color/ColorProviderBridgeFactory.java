@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ColorProviderBridgeFactory JNI factory for theme color resolution
+// summary: Factory class that lets C++ ui/color fetch resolved theme colors from the registered Java ColorProviderBridge implementation in chrome/android via JNI.
+// ---
+
 package org.chromium.ui.color;
 
 import android.content.Context;

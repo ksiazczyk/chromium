@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Compositor metrics tracker unit test
+// summary: Verifies thread checks when starting and stopping a compositor metrics tracker and awaiting its report.
+// ---
+
 #include "ui/compositor/compositor_metrics_tracker.h"
 
 #include "base/test/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Decoration details concepts and caching
+// summary: Defines concepts and templates for decoration specifications and generators, including a nine-patch image source and a generic cache for decoration details.
+// ---
+
 #ifndef UI_DECORATION_DECORATION_DETAILS_H_
 #define UI_DECORATION_DECORATION_DETAILS_H_
 

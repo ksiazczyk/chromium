@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ColorProviderManager unit tests
+// summary: Unit tests covering provider persistence, initializer invocation, manager reset, and cache key stability for ColorProviderManager.
+// ---
+
 #include "ui/color/color_provider_manager.h"
 
 #include <array>

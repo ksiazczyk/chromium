@@ -1,0 +1,4 @@
+# Docerion header of native_color_mixers_mac.mm.
+type: source
+title: Native color mixers for Mac
+summary: Adds the native macOS core color mixer, converting NSColor system colors such as menu and selection colors into Skia colors for light, dark and high-contrast modes.

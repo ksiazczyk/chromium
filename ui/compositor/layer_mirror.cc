@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Layer mirror implementation
+// summary: Implements LayerMirror, which forwards painting from a source layer to a destination mirror layer and cleans up on destruction.
+// ---
+
 #include "ui/compositor/layer_mirror.h"
 
 #include "base/check_op.h"

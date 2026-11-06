@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ColorMixer implementation
+// summary: Implements ColorMixer recipe lookup, input and result color resolution across chained mixers, and collection of defined color IDs.
+// ---
+
 #include "ui/color/color_mixer.h"
 
 #include <algorithm>

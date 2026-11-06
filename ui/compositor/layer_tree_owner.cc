@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerTreeOwner implementation
+// summary: Implements LayerTreeOwner, which takes ownership of a root layer and deep-deletes it together with all descendants on destruction.
+// ---
+
 #include "ui/compositor/layer_tree_owner.h"
 
 #include "base/memory/raw_ptr.h"

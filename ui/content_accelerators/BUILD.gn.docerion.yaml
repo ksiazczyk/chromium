@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for content_accelerators
+summary: Defines the content_accelerators source set, listing accelerator_util sources and its GN build dependencies.

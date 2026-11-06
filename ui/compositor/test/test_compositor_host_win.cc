@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows TestCompositorHost implementation
+// summary: Windows implementation of TestCompositorHost using a gfx::WindowImpl window whose HWND backs the test compositor and triggers full redraws on paint.
+// ---
+
 #include "ui/compositor/test/test_compositor_host.h"
 
 #include <windows.h>

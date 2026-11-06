@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerAnimationObserver header
+// summary: Declares the LayerAnimationObserver interface notified of animation start, end, repeat, abort, and scheduling, plus ImplicitAnimationObserver support.
+// ---
+
 #ifndef UI_COMPOSITOR_LAYER_ANIMATION_OBSERVER_H_
 #define UI_COMPOSITOR_LAYER_ANIMATION_OBSERVER_H_
 

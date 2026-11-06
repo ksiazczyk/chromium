@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostBeginFrameObserver
+// summary: Declares a BeginFrameObserver that forwards begin frames to sub-observers and coalesces them when the host thread is slow.
+// ---
+
 #ifndef UI_COMPOSITOR_HOST_BEGIN_FRAME_OBSERVER_H_
 #define UI_COMPOSITOR_HOST_BEGIN_FRAME_OBSERVER_H_
 

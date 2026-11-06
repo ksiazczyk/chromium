@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerSurface class
+// summary: Declares LayerSurface, a Layer subclass that displays content from a viz::SurfaceId with fallback background, deadline and mirroring support.
+// ---
+
 #ifndef UI_COMPOSITOR_LAYER_SURFACE_H_
 #define UI_COMPOSITOR_LAYER_SURFACE_H_
 

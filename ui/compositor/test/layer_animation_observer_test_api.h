@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LayerAnimationObserverTestApi header
+// summary: Declares a test API providing tests with internal access to a LayerAnimationObserver's sequence attachment behavior.
+// ---
+
 #ifndef UI_COMPOSITOR_TEST_LAYER_ANIMATION_OBSERVER_TEST_API_H_
 #define UI_COMPOSITOR_TEST_LAYER_ANIMATION_OBSERVER_TEST_API_H_
 

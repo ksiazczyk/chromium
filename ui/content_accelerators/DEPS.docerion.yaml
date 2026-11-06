@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for content_accelerators
+summary: Specifies include rules allowing this directory to depend on components/input, content/public, ui/base, ui/events, and Blink input headers.

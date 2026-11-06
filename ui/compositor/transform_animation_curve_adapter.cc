@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transform animation curve adapter implementation
+// summary: Implements an animation curve that interpolates between initial and target gfx::Transform values using decomposed transforms and tween easing.
+// ---
+
 #include "ui/compositor/transform_animation_curve_adapter.h"
 
 #include "base/memory/ptr_util.h"

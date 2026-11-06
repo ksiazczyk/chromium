@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color provider utilities header
+// summary: Declares helpers that convert ColorIds to names and CSS variable names, parse names back to IDs, and build renderer color maps.
+// ---
+
 #ifndef UI_COLOR_COLOR_PROVIDER_UTILS_H_
 #define UI_COLOR_COLOR_PROVIDER_UTILS_H_
 

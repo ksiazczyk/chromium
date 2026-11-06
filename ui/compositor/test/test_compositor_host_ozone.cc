@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ozone TestCompositorHost implementation
+// summary: Ozone implementation of TestCompositorHost that creates a PlatformWindow to obtain the accelerated widget backing the test compositor.
+// ---
+
 #include "ui/compositor/test/test_compositor_host_ozone.h"
 
 #include <memory>

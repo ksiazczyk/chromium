@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI color mixer implementation
+// summary: Implements AddUiColorMixer, mapping ui/ color IDs such as buttons, bubbles, dialogs, and dropdowns to color recipes that adapt to light and dark modes.
+// ---
+
 #include "ui/color/ui_color_mixer.h"
 
 #include <utility>

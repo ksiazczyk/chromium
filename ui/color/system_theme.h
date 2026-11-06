@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemTheme enum
+// summary: Defines the SystemTheme enum of classic, GTK, and Qt themes whose values are persisted in preferences and logged to UMA, and must stay in sync with the settings page.
+// ---
+
 #ifndef UI_COLOR_SYSTEM_THEME_H_
 #define UI_COLOR_SYSTEM_THEME_H_
 

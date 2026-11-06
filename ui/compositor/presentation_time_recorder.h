@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Presentation time recorder class declaration
+// summary: Declares PresentationTimeRecorder and a factory for histogram recorders that measure frame presentation latency on a compositor.
+// ---
+
 #ifndef UI_COMPOSITOR_PRESENTATION_TIME_RECORDER_H_
 #define UI_COMPOSITOR_PRESENTATION_TIME_RECORDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nine-patch layer for resizable bitmaps
+// summary: Declares LayerNinePatch, a layer that shows a resizable nine-patch image with configurable border, aperture and occlusion.
+// ---
+
 #ifndef UI_COMPOSITOR_LAYER_NINE_PATCH_H_
 #define UI_COMPOSITOR_LAYER_NINE_PATCH_H_
 

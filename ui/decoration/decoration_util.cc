@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Decoration utility implementation
+// summary: Implements ShadowGenerator and HighlightBorderGenerator drawing plus ninebox aperture inset and margin calculations for the decoration component.
+// ---
+
 #include "ui/decoration/decoration_util.h"
 
 #include <algorithm>

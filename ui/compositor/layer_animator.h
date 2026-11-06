@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerAnimator header
+// summary: Declares LayerAnimator, a ref-counted animator that sets layer properties and can implicitly animate changes to transform, bounds, opacity, and related properties.
+// ---
+
 #ifndef UI_COMPOSITOR_LAYER_ANIMATOR_H_
 #define UI_COMPOSITOR_LAYER_ANIMATOR_H_
 

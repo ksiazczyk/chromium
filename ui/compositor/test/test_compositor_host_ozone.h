@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ozone TestCompositorHost declaration
+// summary: Declares TestCompositorHostOzone, which pairs a ui::Compositor with an Ozone platform window and surface ID allocator for compositor tests.
+// ---
+
 #ifndef UI_COMPOSITOR_TEST_TEST_COMPOSITOR_HOST_OZONE_H_
 #define UI_COMPOSITOR_TEST_TEST_COMPOSITOR_HOST_OZONE_H_
 

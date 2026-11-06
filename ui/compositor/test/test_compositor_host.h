@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestCompositorHost interface
+// summary: Declares the factory interface for creating test compositor hosts with Show and GetCompositor methods used by compositor unit tests.
+// ---
+
 #ifndef UI_COMPOSITOR_TEST_TEST_COMPOSITOR_HOST_H_
 #define UI_COMPOSITOR_TEST_TEST_COMPOSITOR_HOST_H_
 

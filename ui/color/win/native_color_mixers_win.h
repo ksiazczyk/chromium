@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows native system color lookup declaration
+// summary: Declares GetCurrentSysColors, which returns a map of Windows native color IDs to their current system colors from GetSysColor.
+// ---
+
 #ifndef UI_COLOR_WIN_NATIVE_COLOR_MIXERS_WIN_H_
 #define UI_COLOR_WIN_NATIVE_COLOR_MIXERS_WIN_H_
 

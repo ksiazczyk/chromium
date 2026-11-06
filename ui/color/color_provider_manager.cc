@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ColorProviderManager implementation
+// summary: Implements the global ColorProviderManager that creates, caches, and evicts ColorProviders per key and records initialization time and cache size metrics.
+// ---
+
 #include "ui/color/color_provider_manager.h"
 
 #include <algorithm>

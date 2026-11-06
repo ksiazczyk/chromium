@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerTestApi implementation
+// summary: Implements LayerTestApi, a test helper exposing layer internals such as the cc layer, mirror layer, damaged region and layer switching.
+// ---
+
 #include "ui/compositor/layer_test_api.h"
 
 #include <algorithm>

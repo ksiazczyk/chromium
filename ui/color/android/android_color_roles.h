@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidColorRole enum header
+// summary: Defines the AndroidColorRole enum of Material theme color roles, with a generated Java counterpart kept in sync with Chrome for Android.
+// ---
+
 #ifndef UI_COLOR_ANDROID_ANDROID_COLOR_ROLES_H_
 #define UI_COLOR_ANDROID_ANDROID_COLOR_ROLES_H_
 

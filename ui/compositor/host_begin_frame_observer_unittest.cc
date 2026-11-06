@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HostBeginFrameObserver unit tests
+// summary: Unit tests verifying missed frame handling and coalescing behavior of HostBeginFrameObserver with mock observers.
+// ---
+
 #include "ui/compositor/host_begin_frame_observer.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color provider metrics function declarations
+// summary: Declares histogram recording functions for color provider cache size, initialization counts, and initialization and update timings.
+// ---
+
 #ifndef UI_COLOR_COLOR_METRICS_H_
 #define UI_COLOR_COLOR_METRICS_H_
 

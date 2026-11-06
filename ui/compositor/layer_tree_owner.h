@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerTreeOwner class header
+// summary: Declares LayerTreeOwner, a scoping object that owns a Layer and all its descendants and can release the root.
+// ---
+
 #ifndef UI_COMPOSITOR_LAYER_TREE_OWNER_H_
 #define UI_COMPOSITOR_LAYER_TREE_OWNER_H_
 

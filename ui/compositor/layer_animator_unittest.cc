@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Layer animator unit tests
+// summary: Unit tests for ui::LayerAnimator covering animation sequences, delegates, observers, and default and implicit animator behavior.
+// ---
+
 #include "ui/compositor/layer_animator.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compositor animation observer interface
+// summary: Declares an observer that receives compositor animation step and shutdown notifications, with checks on active animation duration.
+// ---
+
 #ifndef UI_COMPOSITOR_COMPOSITOR_ANIMATION_OBSERVER_H_
 #define UI_COMPOSITOR_COMPOSITOR_ANIMATION_OBSERVER_H_
 

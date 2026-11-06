@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Compositor include rules
+summary: DEPS file listing the headers and directories that code in ui/compositor may include, with extra rules for unit and pixel tests.

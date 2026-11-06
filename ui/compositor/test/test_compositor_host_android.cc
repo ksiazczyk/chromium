@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android TestCompositorHost implementation
+// summary: Android implementation of TestCompositorHost that creates an offscreen ui::Compositor with a null accelerated widget for tests.
+// ---
+
 #include "ui/compositor/test/test_compositor_host.h"
 
 #include <memory>

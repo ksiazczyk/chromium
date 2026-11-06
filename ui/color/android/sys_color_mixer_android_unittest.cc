@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SysColorMixerAndroid unit tests
+// summary: Unit tests verifying that surface container roles are mapped and that Android color roles and ColorIds are valid and unique.
+// ---
+
 #include "ui/color/android/sys_color_mixer_android.h"
 
 #include <algorithm>

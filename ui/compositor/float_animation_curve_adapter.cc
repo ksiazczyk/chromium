@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FloatAnimationCurveAdapter implementation
+// summary: Implements a float animation curve adapter that interpolates between initial and target values using gfx::Tween.
+// ---
+
 #include "ui/compositor/float_animation_curve_adapter.h"
 
 #include "base/memory/ptr_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerSolidColor implementation
+// summary: Implements LayerSolidColor, a layer that renders a solid color via cc::SolidColorLayer or mirrors a reflected layer subtree via cc::MirrorLayer.
+// ---
+
 #include "ui/compositor/layer_solid_color.h"
 
 #include <cstddef>

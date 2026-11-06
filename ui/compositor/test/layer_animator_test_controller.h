@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LayerAnimatorTestController header
+// summary: Declares a test controller that gives tests access to animator-owned sequences and lets them progress animations by a duration.
+// ---
+
 #ifndef UI_COMPOSITOR_TEST_LAYER_ANIMATOR_TEST_CONTROLLER_H_
 #define UI_COMPOSITOR_TEST_LAYER_ANIMATOR_TEST_CONTROLLER_H_
 

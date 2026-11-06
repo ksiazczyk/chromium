@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ColorProvider class header
+// summary: Declares ui::ColorProvider, which holds the ordered pipeline of ColorMixers that compute result colors for UI elements, including postprocessing mixers and test helpers.
+// ---
+
 #ifndef UI_COLOR_COLOR_PROVIDER_H_
 #define UI_COLOR_COLOR_PROVIDER_H_
 

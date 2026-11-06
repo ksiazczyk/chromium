@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ColorRecipe implementation
+// summary: Implements ColorRecipe, applying its ordered color transforms to an input color to generate the resulting output color.
+// ---
+
 #include "ui/color/color_recipe.h"
 
 #include <utility>

@@ -3,6 +3,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedLayerRequest class declaration
+// summary: Declares scoped lock objects for deferring painting, requesting render surface caching, and requesting trilinear filtering on a layer.
+// ---
+
 #ifndef UI_COMPOSITOR_SCOPED_LAYER_REQUEST_H_
 #define UI_COMPOSITOR_SCOPED_LAYER_REQUEST_H_
 

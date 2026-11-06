@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compositor command-line switch declarations
+// summary: Declares exported compositor switch constants and the IsUIZeroCopyEnabled helper that reports whether zero-copy uploads are enabled for the platform.
+// ---
+
 #ifndef UI_COMPOSITOR_COMPOSITOR_SWITCHES_H_
 #define UI_COMPOSITOR_COMPOSITOR_SWITCHES_H_
 

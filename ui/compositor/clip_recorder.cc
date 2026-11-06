@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClipRecorder implementation
+// summary: Implements ClipRecorder by pushing save, clip, and restore paint operations into a DisplayItemList for scoped clipping.
+// ---
+
 #include "ui/compositor/clip_recorder.h"
 
 #include "cc/paint/display_item_list.h"

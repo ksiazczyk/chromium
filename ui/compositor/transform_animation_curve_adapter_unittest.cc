@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Transform animation curve adapter unit tests
+// summary: Tests that TransformAnimationCurveAdapter computes the maximum animation scale for scale, translation, perspective and rotation transforms.
+// ---
+
 #include "ui/compositor/transform_animation_curve_adapter.h"
 
 #include "base/time/time.h"

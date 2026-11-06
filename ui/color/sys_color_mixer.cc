@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Material 3 system color mixer implementation
+// summary: Implements the system color token mixer for Google Material 3, including themed and grayscale overrides for light and dark modes.
+// ---
+
 #include "ui/color/sys_color_mixer.h"
 
 #include "base/feature_list.h"

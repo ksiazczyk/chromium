@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalBeginFrameAdapter implementation
+// summary: Implements ExternalBeginFrameAdapter, which turns external begin frame requests into compositor frames, generates begin frame args, and reports acks and VSync interval changes.
+// ---
+
 #include "ui/compositor/external_begin_frame_adapter.h"
 
 #include "base/atomic_sequence_num.h"

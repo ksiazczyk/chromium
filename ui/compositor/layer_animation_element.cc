@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerAnimationElement implementation
+// summary: Implements animation elements for layer properties including pause, transform, bounds and visibility transitions.
+// ---
+
 #include "ui/compositor/layer_animation_element.h"
 
 #include <utility>

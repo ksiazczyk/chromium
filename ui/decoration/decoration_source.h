@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecorationSource interface
+// summary: Declares the DecorationSource base class that generates nine-patch images and appearance details for a decoration, kept separate from layer and animation handling.
+// ---
+
 #ifndef UI_DECORATION_DECORATION_SOURCE_H_
 #define UI_DECORATION_DECORATION_SOURCE_H_
 

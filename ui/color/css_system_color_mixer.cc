@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CSS system color mixer
+// summary: Defines the CSS system color mixer, mapping native colors to CSS system colors and providing themed page color sets for Blink.
+// ---
+
 #include "ui/color/css_system_color_mixer.h"
 
 #include "build/build_config.h"

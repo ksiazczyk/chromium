@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS native core color mixer mappings
+// summary: Defines ChromeOS color mappings in the ui namespace, mapping Ash system UI and cros.sys colors to core palette tones with dark mode handling.
+// ---
+
 #include "third_party/material_color_utilities/src/cpp/palettes/tones.h"
 #include "third_party/skia/include/core/SkColor.h"
 #include "ui/color/color_id.h"

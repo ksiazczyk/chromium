@@ -1,0 +1,4 @@
+# Docerion header of color_id_map_macros.inc.
+type: source
+title: Color ID map macros for enum-to-string mapping
+summary: Preprocessor macros that declare a map from color ID enum values to their stringized names, included around the map declaration.

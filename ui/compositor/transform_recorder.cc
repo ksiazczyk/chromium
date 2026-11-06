@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transform recorder implementation
+// summary: Implements TransformRecorder by pushing save and concat paint operations onto the display item list to apply a scoped transform while painting.
+// ---
+
 #include "ui/compositor/transform_recorder.h"
 
 #include "cc/paint/display_item_list.h"

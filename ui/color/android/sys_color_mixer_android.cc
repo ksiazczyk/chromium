@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android system color mixer implementation
+// summary: Adds a color mixer to the ColorProvider that populates sys color IDs from Android theme colors obtained via the ColorProviderBridge.
+// ---
+
 #include "ui/color/android/sys_color_mixer_android.h"
 
 #include <optional>

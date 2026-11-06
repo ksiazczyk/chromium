@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LayerAnimatorTestController implementation
+// summary: Implements test control over a LayerAnimator, including retrieving running sequences, starting threaded animations, and stepping.
+// ---
+
 #include <stddef.h>
 
 #include <utility>

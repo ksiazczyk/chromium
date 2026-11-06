@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Layer
+// summary: Declares the Layer class that manages a texture, transform and child layers for views with enabled layers.
+// ---
+
 #ifndef UI_COMPOSITOR_LAYER_H_
 #define UI_COMPOSITOR_LAYER_H_
 

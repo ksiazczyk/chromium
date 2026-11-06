@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClosureAnimationObserver implementation
+// summary: Implements an animation observer that runs a stored callback when implicit animations complete and then deletes itself.
+// ---
+
 #include "ui/compositor/closure_animation_observer.h"
 
 namespace ui {

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the overscroll directory
+summary: Defines the allowed header includes for files in ui/compositor/overscroll, permitting ui/events/event.h and ui/events/types/scroll_input_type.h.

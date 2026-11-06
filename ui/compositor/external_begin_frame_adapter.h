@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalBeginFrameAdapter
+// summary: Declares an adapter that bridges a BeginFrameSourceExtension on PlatformWindow to viz over the compositor via Mojo.
+// ---
+
 #ifndef UI_COMPOSITOR_EXTERNAL_BEGIN_FRAME_ADAPTER_H_
 #define UI_COMPOSITOR_EXTERNAL_BEGIN_FRAME_ADAPTER_H_
 

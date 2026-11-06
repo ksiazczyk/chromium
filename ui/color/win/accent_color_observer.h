@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows accent color observer class declaration
+// summary: Declares AccentColorObserver, which monitors the Windows DWM registry key for accent color changes and exposes subscription callbacks and test hooks.
+// ---
+
 #ifndef UI_COLOR_WIN_ACCENT_COLOR_OBSERVER_H_
 #define UI_COLOR_WIN_ACCENT_COLOR_OBSERVER_H_
 

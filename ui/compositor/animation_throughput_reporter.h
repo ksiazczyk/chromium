@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Animation throughput reporter header
+// summary: Declares AnimationThroughputReporter, which reports frame sequence metrics such as throughput and dropped frames for layer animations.
+// ---
+
 #ifndef UI_COMPOSITOR_ANIMATION_THROUGHPUT_REPORTER_H_
 #define UI_COMPOSITOR_ANIMATION_THROUGHPUT_REPORTER_H_
 

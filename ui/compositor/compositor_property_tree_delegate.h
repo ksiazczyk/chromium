@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compositor property tree delegate header
+// summary: Declares CompositorPropertyTreeDelegate, a temporary bridge moving the UI compositor from legacy layer tree mode to cc property tree mode, with a test observer hook.
+// ---
+
 #ifndef UI_COMPOSITOR_COMPOSITOR_PROPERTY_TREE_DELEGATE_H_
 #define UI_COMPOSITOR_COMPOSITOR_PROPERTY_TREE_DELEGATE_H_
 

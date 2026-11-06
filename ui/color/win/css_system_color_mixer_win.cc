@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mapping of Windows native colors to CSS system colors
+// summary: Maps native Windows system colors to their CSS system color equivalents in light mode or when system colors are forced.
+// ---
+
 #include "ui/color/color_id.h"
 #include "ui/color/color_mixer.h"
 #include "ui/color/color_provider_utils.h"

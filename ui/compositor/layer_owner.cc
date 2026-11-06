@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerOwner implementation
+// summary: Implements LayerOwner methods for setting, acquiring, releasing, resetting, recreating and destroying owned ui::Layer instances.
+// ---
+
 #include "ui/compositor/layer_owner.h"
 
 #include <utility>

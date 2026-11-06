@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ColorProvider implementation
+// summary: Implements ColorProvider mixer management, color result caching, and postprocessing mixer support for resolving color IDs to final colors.
+// ---
+
 #include "ui/color/color_provider.h"
 
 #include <map>

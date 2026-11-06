@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Color provider utilities unit tests
+// summary: Unit tests for ColorId to CSS name conversion, CSS color string formatting, and renderer color map creation and equivalence.
+// ---
+
 #include "ui/color/color_provider_utils.h"
 
 #include "base/test/gtest_util.h"

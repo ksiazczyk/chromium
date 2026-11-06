@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Core default color mixer
+// summary: Adds a color mixer supplying core default colors such as accent, background, and alert colors for light and dark modes.
+// ---
+
 #include "ui/color/core_default_color_mixer.h"
 
 #include <utility>

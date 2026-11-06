@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Child layer names helper header
+// summary: Declares ChildLayerNamesAsString, a test helper returning the names of a parent layer's children as a space-separated string.
+// ---
+
 #ifndef UI_COMPOSITOR_TEST_TEST_LAYERS_H_
 #define UI_COMPOSITOR_TEST_TEST_LAYERS_H_
 

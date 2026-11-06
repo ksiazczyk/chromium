@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the decoration directory
+summary: Declares the allowed include directories for ui/decoration, such as cc/paint, third_party/skia, ui/base, ui/compositor, and ui/gfx.

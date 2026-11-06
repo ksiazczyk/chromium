@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerAnimationSequence header
+// summary: Declares LayerAnimationSequence, an ordered collection of layer animation elements owned by a LayerAnimator, with start, progress, abort, and repeat support.
+// ---
+
 #ifndef UI_COMPOSITOR_LAYER_ANIMATION_SEQUENCE_H_
 #define UI_COMPOSITOR_LAYER_ANIMATION_SEQUENCE_H_
 

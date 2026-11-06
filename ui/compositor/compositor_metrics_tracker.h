@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compositor metrics tracker interface
+// summary: Declares a move-only tracker for custom compositor throughput metrics backed by frame sequence trackers.
+// ---
+
 #ifndef UI_COMPOSITOR_COMPOSITOR_METRICS_TRACKER_H_
 #define UI_COMPOSITOR_COMPOSITOR_METRICS_TRACKER_H_
 

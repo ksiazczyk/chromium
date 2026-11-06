@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayLinkMacMojo class declaration
+// summary: Declares DisplayLinkMacMojo, which runs macOS CADisplayLink on a dedicated VSync thread in the browser process and forwards VSync signals to GPU and Viz via Mojo IPC.
+// ---
+
 #ifndef UI_COMPOSITOR_DISPLAY_LINK_MAC_MOJO_H_
 #define UI_COMPOSITOR_DISPLAY_LINK_MAC_MOJO_H_
 

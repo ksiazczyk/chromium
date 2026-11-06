@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Callback layer animation observer unit tests
+// summary: Tests callback timing, observer deletion and sequence tracking behavior of CallbackLayerAnimationObserver.
+// ---
+
 #include "ui/compositor/callback_layer_animation_observer.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Compositor unit test launcher
+// summary: Main entry point that initializes Mojo and launches the compositor unit test suite via the base unit test launcher.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/test/launcher/unit_test_launcher.h"
 #include "mojo/core/embedder/embedder.h"

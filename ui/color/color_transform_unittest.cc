@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ColorTransform unit tests
+// summary: Unit tests covering ColorTransform behavior, including initialization, alpha blending, and minimum contrast blending.
+// ---
+
 #include "ui/color/color_transform.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

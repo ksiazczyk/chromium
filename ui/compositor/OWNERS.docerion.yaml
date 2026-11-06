@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Compositor directory owners
+summary: Lists the code owners responsible for reviewing changes in ui/compositor, with an open rule for the unit test bundle data filelist.

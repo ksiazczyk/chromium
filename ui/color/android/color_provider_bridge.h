@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ColorProviderBridge header
+// summary: Declares the ColorProviderBridge static API for checking whether a Java bridge is registered and retrieving Android theme colors.
+// ---
+
 #ifndef UI_COLOR_ANDROID_COLOR_PROVIDER_BRIDGE_H_
 #define UI_COLOR_ANDROID_COLOR_PROVIDER_BRIDGE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerWithExternalTexture implementation
+// summary: Implements the layer that displays an externally supplied GPU-backed transferable resource via a cc::TextureLayer, handling resource setting, clearing, and mirroring.
+// ---
+
 #include "ui/compositor/layer_with_external_texture.h"
 
 #include <utility>

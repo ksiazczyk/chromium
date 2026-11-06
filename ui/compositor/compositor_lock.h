@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compositor lock classes
+// summary: Declares CompositorLock, CompositorLockClient and CompositorLockManager for pausing compositor commits while waiting for asynchronous events.
+// ---
+
 #ifndef UI_COMPOSITOR_COMPOSITOR_LOCK_H_
 #define UI_COMPOSITOR_COMPOSITOR_LOCK_H_
 

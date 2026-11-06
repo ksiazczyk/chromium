@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transform animation curve adapter header
+// summary: Declares TransformAnimationCurveAdapter, a gfx::TransformAnimationCurve that blends two transforms over a duration and reports maximum scale.
+// ---
+
 #ifndef UI_COMPOSITOR_TRANSFORM_ANIMATION_CURVE_ADAPTER_H_
 #define UI_COMPOSITOR_TRANSFORM_ANIMATION_CURVE_ADAPTER_H_
 

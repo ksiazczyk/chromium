@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CSS system color mixer header
+// summary: Declares AddCssSystemColorMixer and MapNativeColorsToCssSystemColors for CSS system color support in Blink.
+// ---
+
 #ifndef UI_COLOR_CSS_SYSTEM_COLOR_MIXER_H_
 #define UI_COLOR_CSS_SYSTEM_COLOR_MIXER_H_
 

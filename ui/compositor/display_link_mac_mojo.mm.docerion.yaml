@@ -1,0 +1,4 @@
+# Docerion header of display_link_mac_mojo.mm.
+type: source
+title: DisplayLinkMacMojo implementation
+summary: Implements DisplayLinkMacMojo, managing the VSync thread, per-display CADisplayLink creation, Mojo IPC connections, and recovery after GPU process loss.

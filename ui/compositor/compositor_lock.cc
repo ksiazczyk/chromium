@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compositor lock manager implementation
+// summary: Implements compositor lock management, including lock creation, timeout scheduling, extension and removal of active locks.
+// ---
+
 #include "ui/compositor/compositor_lock.h"
 
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerThreadedAnimationDelegate interface
+// summary: Declares an interface for attaching and removing CC keyframe models as threaded animations on a layer.
+// ---
+
 #ifndef UI_COMPOSITOR_LAYER_THREADED_ANIMATION_DELEGATE_H_
 #define UI_COMPOSITOR_LAYER_THREADED_ANIMATION_DELEGATE_H_
 

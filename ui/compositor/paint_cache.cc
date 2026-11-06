@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint cache implementation
+// summary: Implements PaintCache, which reuses previously recorded paint output when the painted object has not changed, rejecting cache entries with a mismatched device scale factor.
+// ---
+
 #include "ui/compositor/paint_cache.h"
 
 #include "cc/paint/display_item_list.h"

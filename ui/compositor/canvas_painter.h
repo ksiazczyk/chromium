@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CanvasPainter class header
+// summary: Declares a helper class that rasterizes painting done via a PaintContext into a provided bitmap on destruction.
+// ---
+
 #ifndef UI_COMPOSITOR_CANVAS_PAINTER_H_
 #define UI_COMPOSITOR_CANVAS_PAINTER_H_
 

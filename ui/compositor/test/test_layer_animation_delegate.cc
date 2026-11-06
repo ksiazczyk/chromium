@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test layer animation delegate implementation
+// summary: Implements test stubs for LayerAnimationDelegate and LayerThreadedAnimationDelegate that record property changes and their reasons for animation tests.
+// ---
+
 #include "ui/compositor/test/test_layer_animation_delegate.h"
 
 #include <optional>

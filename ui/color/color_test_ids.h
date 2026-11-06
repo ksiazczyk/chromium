@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test-only color ID definitions
+// summary: Defines test-only ColorId enum values used by unit tests within the color pipeline.
+// ---
+
 #ifndef UI_COLOR_COLOR_TEST_IDS_H_
 #define UI_COLOR_COLOR_TEST_IDS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for allowed dependencies
+summary: Lists the include rules restricting which directories and third-party headers ui/color code may depend on.

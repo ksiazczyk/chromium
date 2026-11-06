@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Highlight border unit tests
+// summary: Tests HighlightBorder details generation, dropping or thinning rings when content is too small, and occlusion rectangles.
+// ---
+
 #include "ui/decoration/highlight_border.h"
 
 #include <memory>

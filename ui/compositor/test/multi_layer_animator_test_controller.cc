@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MultiLayerAnimatorTestController implementation
+// summary: Implements coordinated stepping, completion, and timer control of animations across multiple layer animators via a delegate.
+// ---
+
 #include "ui/compositor/test/multi_layer_animator_test_controller.h"
 
 #include "base/time/time.h"

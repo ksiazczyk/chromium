@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ColorVariant implementation
+// summary: Implements ColorVariant, which stores either a physical SkColor or a logical ColorId and resolves it through a ColorProvider.
+// ---
+
 #include "ui/color/color_variant.h"
 
 #include <optional>

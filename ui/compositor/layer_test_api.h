@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerTestApi class
+// summary: Declares LayerTestApi, providing test access to Layer internals like the underlying cc::Layer, mirror layer, damage region and compositor.
+// ---
+
 #ifndef UI_COMPOSITOR_LAYER_TEST_API_H_
 #define UI_COMPOSITOR_LAYER_TEST_API_H_
 

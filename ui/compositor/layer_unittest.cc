@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Layer unit tests
+// summary: Extensive unit tests for the ui compositor Layer class covering painting, animations, mirroring, textures, and pixel comparison across several test fixture configurations.
+// ---
+
 #include "ui/compositor/layer.h"
 
 #include <stddef.h>

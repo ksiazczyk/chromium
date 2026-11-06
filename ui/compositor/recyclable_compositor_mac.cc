@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecyclableCompositorMac implementation
+// summary: Implements the Mac recyclable compositor that pairs a ui::Compositor with an accelerated widget, supporting suspend, surface updates, and invalidation.
+// ---
+
 #include "ui/compositor/recyclable_compositor_mac.h"
 
 #include "base/functional/bind.h"

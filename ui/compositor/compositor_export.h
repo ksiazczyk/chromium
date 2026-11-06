@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compositor export macro definitions
+// summary: Defines the COMPOSITOR_EXPORT macro controlling symbol visibility for component and non-component builds.
+// ---
+
 #ifndef UI_COMPOSITOR_COMPOSITOR_EXPORT_H_
 #define UI_COMPOSITOR_COMPOSITOR_EXPORT_H_
 

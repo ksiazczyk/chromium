@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Decoration class interface
+// summary: Declares the Decoration class that frames a surface with a shadow or highlight border on a NinePatchLayer, with factory helpers CreateShadow and CreateHighlightBorder.
+// ---
+
 #ifndef UI_DECORATION_DECORATION_H_
 #define UI_DECORATION_DECORATION_H_
 

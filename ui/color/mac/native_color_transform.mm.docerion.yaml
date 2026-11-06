@@ -1,0 +1,4 @@
+# Docerion header of native_color_transform.mm.
+type: source
+title: Native color transform for Mac
+summary: Provides a color transform that converts input colors to grayscale when the macOS graphite control tint is active.

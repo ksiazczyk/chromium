@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Decoration utility unit tests
+// summary: Tests the shadow details cache keying and the highlight border generator's inset calculations.
+// ---
+
 #include "ui/decoration/decoration_util.h"
 
 #include <optional>

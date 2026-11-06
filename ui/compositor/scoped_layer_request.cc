@@ -3,6 +3,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped layer request implementation
+// summary: Implements scoped request templates that add and remove deferred paint, cache render surface, and trilinear filtering requests on layers.
+// ---
+
 #include "ui/compositor/scoped_layer_request.h"
 
 #include "base/check.h"

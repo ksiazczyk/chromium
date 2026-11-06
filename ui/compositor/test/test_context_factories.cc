@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test context factories implementation for compositor tests
+// summary: Implements TestContextFactories, which sets up an in-process compositor ContextFactory with frame sink managers for unit tests, optionally enabling pixel output.
+// ---
+
 #include "ui/compositor/test/test_context_factories.h"
 
 #include "base/command_line.h"

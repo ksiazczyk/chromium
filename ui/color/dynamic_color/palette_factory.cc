@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Palette generation from seed color and scheme variant
+// summary: Implements GeneratePalette, building custom palettes for a seed color and scheme variant using hue rotations, chroma adjustments, and material_color_utilities HCT helpers.
+// ---
+
 #include "ui/color/dynamic_color/palette_factory.h"
 
 #include <algorithm>

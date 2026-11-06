@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accelerator utility implementation
+// summary: Implements GetAcceleratorFromNativeWebKeyboardEvent, converting native web keyboard events into ui::Accelerator objects with ChromeOS-specific handling.
+// ---
+
 #include "ui/content_accelerators/accelerator_util.h"
 
 #include "build/build_config.h"

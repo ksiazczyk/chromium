@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LayerAnimationStoppedWaiter header
+// summary: Declares a test helper that waits until a layer stops animating, including animations that delete the layer on completion.
+// ---
+
 #ifndef UI_COMPOSITOR_TEST_LAYER_ANIMATION_STOPPED_WAITER_H_
 #define UI_COMPOSITOR_TEST_LAYER_ANIMATION_STOPPED_WAITER_H_
 

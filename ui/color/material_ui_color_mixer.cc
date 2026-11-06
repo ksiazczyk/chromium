@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Material UI color mixer implementation
+// summary: Implements the Material UI color mixer that maps color IDs to Material Design system tokens for light and dark modes.
+// ---
+
 #include "ui/color/material_ui_color_mixer.h"
 
 #include <utility>

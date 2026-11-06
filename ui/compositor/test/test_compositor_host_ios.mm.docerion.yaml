@@ -1,0 +1,4 @@
+# Docerion header of test_compositor_host_ios.mm.
+type: test
+title: iOS TestCompositorHost implementation
+summary: iOS implementation of TestCompositorHost that creates an offscreen ui::Compositor with a null accelerated widget for tests.

@@ -1,0 +1,4 @@
+# Docerion header of scheme_variant.mojom.
+type: source
+title: SchemeVariant Mojom enum definition
+summary: Defines the stable Mojom SchemeVariant enum with tonal spot, neutral, vibrant, and expressive dynamic color schemes.

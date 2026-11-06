@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TonalPalette and Palette class declarations
+// summary: Declares TonalPalette for tonal color ranges in the HCT color space and the abstract Palette interface exposing primary, secondary, tertiary, neutral, neutral_variant, and error palettes.
+// ---
+
 #ifndef UI_COLOR_DYNAMIC_COLOR_PALETTE_H_
 #define UI_COLOR_DYNAMIC_COLOR_PALETTE_H_
 

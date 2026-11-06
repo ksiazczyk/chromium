@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ui/color/android
+summary: Defines include rules allowing the Android color UI code to depend on base/android and third_party/jni_zero.

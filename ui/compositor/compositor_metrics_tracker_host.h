@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compositor metrics tracker host interface
+// summary: Declares the host interface that starts, stops and cancels metrics trackers and reports collected frame data.
+// ---
+
 #ifndef UI_COMPOSITOR_COMPOSITOR_METRICS_TRACKER_HOST_H_
 #define UI_COMPOSITOR_COMPOSITOR_METRICS_TRACKER_HOST_H_
 

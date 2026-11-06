@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Compositor metrics reporter test base implementation
+// summary: Sets up a test compositor host, root layer, and frame generation timer, and provides time advancement for metrics reporter tests.
+// ---
+
 #include "ui/compositor/test/compositor_metrics_reporter_test_base.h"
 
 #include <memory>

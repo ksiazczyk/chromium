@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the dynamic_color component
+summary: GN build file that defines the dynamic_color component from the palette sources, with dependencies on base, skia, material_color_utilities, and ui color headers.

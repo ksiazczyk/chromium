@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerAnimationObserver implementation
+// summary: Implements LayerAnimationObserver sequence attachment and ImplicitAnimationObserver, which tracks per-property animation completion, abort, and scheduling status.
+// ---
+
 #include "ui/compositor/layer_animation_observer.h"
 
 #include "ui/compositor/layer_animation_sequence.h"

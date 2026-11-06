@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Highlight border implementation
+// summary: Implements the HighlightBorder decoration, adjusting ring thickness for small content and computing details and occlusion rectangles.
+// ---
+
 #include "ui/decoration/highlight_border.h"
 
 #include <algorithm>

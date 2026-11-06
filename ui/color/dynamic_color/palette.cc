@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TonalPalette implementation
+// summary: Implements TonalPalette, deriving hue and chroma from a seed color via material_color_utilities and returning colors for tones between 0 and 100 in the HCT color space.
+// ---
+
 #include "ui/color/dynamic_color/palette.h"
 
 #include "base/check_op.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ColorRecipe class header
+// summary: Declares ColorRecipe, a series of color transforms that produce an output color from an input color and a mixer.
+// ---
+
 #ifndef UI_COLOR_COLOR_RECIPE_H_
 #define UI_COLOR_COLOR_RECIPE_H_
 

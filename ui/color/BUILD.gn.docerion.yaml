@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the color pipeline
+summary: Defines GN build targets for the color pipeline, including core components, shared headers, mixers, test support, and unit tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transform recorder header
+// summary: Declares TransformRecorder, a scoped helper that applies a transform to display items recorded while the recorder is alive.
+// ---
+
 #ifndef UI_COMPOSITOR_TRANSFORM_RECORDER_H_
 #define UI_COMPOSITOR_TRANSFORM_RECORDER_H_
 
