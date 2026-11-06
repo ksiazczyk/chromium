@@ -1,0 +1,4 @@
+# Docerion header of pixel_browser_plugin.html.
+type: test
+title: 'Browser Plugin Compositing Test: Projected Blue Box over Black Background'
+summary: Composites a browser plugin showing a projected blue box over a black background and signals success after 100 frames for GPU pixel testing.

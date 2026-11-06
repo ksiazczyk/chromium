@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Manual SVC encoding test script
+// summary: Implements the manual SVC video encoding test, encoding frames with configurable temporal layers and validating decoded base layer frames by black dot counts.
+// ---
+
 'use strict';
 
 function showFrameForDebug(frame) {

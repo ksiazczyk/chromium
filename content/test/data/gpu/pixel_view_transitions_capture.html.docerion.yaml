@@ -1,0 +1,4 @@
+# Docerion header of pixel_view_transitions_capture.html.
+type: test
+title: View Transitions Capture Test
+summary: GPU pixel test page that starts a view transition between two boxes and signals success after the presented frame via swap completion events.

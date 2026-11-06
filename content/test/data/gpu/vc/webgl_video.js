@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebGL rendering helpers for the MxN video demos
+// summary: Shared WebGL code for the demo pages that initializes contexts, compiles shader programs, and manages vertex buffers for video quads, icons, animations and FPS panels.
+// ---
+
 function webglInit(canvasWidth, canvasHeight, mode = 'webgl') {
   const container = document.getElementById('container');
   const canvas = container.appendChild(document.createElement('canvas'));

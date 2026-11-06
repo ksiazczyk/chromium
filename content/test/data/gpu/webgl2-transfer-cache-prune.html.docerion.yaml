@@ -1,0 +1,4 @@
+# Docerion header of webgl2-transfer-cache-prune.html.
+type: test
+title: WebGL2 ServiceTransferCache prune regression test
+summary: Regression test page that exercises ServiceTransferCache pruning of Skia GPU resources to catch crashes when the shared context is not current.

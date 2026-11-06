@@ -1,0 +1,4 @@
+# Docerion header of svc.html.
+type: test
+title: SVC encoding manual test page
+summary: Manual test page checking hardware accelerated scalable video coding encode and decode after dropping chunks, validating temporal layers via dot counts.

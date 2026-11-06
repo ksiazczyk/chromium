@@ -1,0 +1,4 @@
+# Docerion header of webgpu-caching.html.
+type: test
+title: WebGPU caching test page
+summary: Runs WebGPU unit tests by ID, optionally in a worker or iframe, and reports success or failure to the automation controller.

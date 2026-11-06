@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media stream video pixel test helper
+// summary: JavaScript helper that captures a camera media stream, waits for swap completions via chrome.gpuBenchmarking, and reports SUCCESS to the automation controller.
+// ---
+
 var video;
 
 // Some videos are less than 60 fps, so actual video frame presentations

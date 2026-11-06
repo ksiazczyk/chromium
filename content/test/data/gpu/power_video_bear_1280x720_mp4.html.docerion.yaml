@@ -1,0 +1,4 @@
+# Docerion header of power_video_bear_1280x720_mp4.html.
+type: test
+title: MP4 video power test page
+summary: Minimal test page that plays a 1280x720 MP4 video for GPU power consumption measurements.

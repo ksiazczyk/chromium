@@ -1,0 +1,4 @@
+# Docerion header of pixel_webgl_aa_alpha.html.
+type: test
+title: 'WebGL Test: Green Triangle over Black Background'
+summary: GPU pixel test page that renders a green triangle over a black background using the shared pixel_webgl_util.js main function.

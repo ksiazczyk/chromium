@@ -1,0 +1,4 @@
+# Docerion header of webgl2_conformance_android_runtimes.json.
+type: test
+title: WebGL2 conformance runtimes for Android
+summary: Maps WebGL2 conformance test and extension names to measured runtimes on Android.

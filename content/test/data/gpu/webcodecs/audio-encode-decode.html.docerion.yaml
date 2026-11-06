@@ -1,0 +1,4 @@
+# Docerion header of audio-encode-decode.html.
+type: test
+title: Audio encode-decode test page
+summary: Manual test page that generates sine-wave AudioData, encodes it with AudioEncoder, and verifies AudioDecoder decodes the output correctly.

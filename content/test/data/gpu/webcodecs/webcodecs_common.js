@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebCodecs manual test common harness
+// summary: Shared harness for the WebCodecs manual tests, providing frame sources, four-color and black dot validation, logging, assertions and manual test buttons.
+// ---
+
 "use strict";
 
 // Use 16x16 aligned resolution since some platforms require that.

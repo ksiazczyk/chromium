@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaRecorder video element capture test
+// summary: JavaScript test that records a playing video element with MediaRecorder and replays the recorded WebM data to verify encoding works.
+// ---
+
 var srcVideo;
 var dstVideo;
 let recorder = null;

@@ -1,0 +1,4 @@
+# Docerion header of pixel_webgpu_import_video_frame_offscreen_canvas.html.
+type: test
+title: WebGPU importExternalTexture video frame offscreen canvas test page
+summary: Browser test page that draws a video frame onto an offscreen canvas and imports it as a WebGPU external texture, reporting the result via domAutomationController.

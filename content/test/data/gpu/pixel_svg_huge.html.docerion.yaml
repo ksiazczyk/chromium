@@ -1,0 +1,4 @@
+# Docerion header of pixel_svg_huge.html.
+type: test
+title: Huge SVG display test page
+summary: Test page that loads a very large SVG image, scrolls it out and back, and reports success to verify that huge SVGs display correctly.

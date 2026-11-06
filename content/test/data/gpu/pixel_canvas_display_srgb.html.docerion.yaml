@@ -1,0 +1,4 @@
+# Docerion header of pixel_canvas_display_srgb.html.
+type: test
+title: 2D Canvas Display Test with sRGB Color Space
+summary: Draws red, green, blue and black boxes on a 2D canvas using the srgb color space and float16 color type to verify correct display.

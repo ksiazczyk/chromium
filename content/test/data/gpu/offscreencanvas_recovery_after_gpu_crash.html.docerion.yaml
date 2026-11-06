@@ -1,0 +1,4 @@
+# Docerion header of offscreencanvas_recovery_after_gpu_crash.html.
+type: test
+title: OffscreenCanvas recovery after GPU crash test
+summary: Browser test page that draws in a worker through OffscreenCanvas and verifies the 2D context is restored after a GPU process crash.

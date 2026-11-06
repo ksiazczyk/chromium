@@ -1,0 +1,4 @@
+# Docerion header of pixel_webgl_copy_image.html.
+type: test
+title: WebGL canvas save and copy image test
+summary: Test page that draws red, green and blue boxes on a WebGL canvas and copies it via toDataURL into an image to verify canvas save and copy behavior.

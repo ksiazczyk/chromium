@@ -1,0 +1,4 @@
+# Docerion header of encoding-modes.html.
+type: test
+title: Encoding modes test
+summary: Manual test page checking that VideoEncoder can encode with different latency and bitrate modes.

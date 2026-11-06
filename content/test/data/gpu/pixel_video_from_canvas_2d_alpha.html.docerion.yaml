@@ -1,0 +1,4 @@
+# Docerion header of pixel_video_from_canvas_2d_alpha.html.
+type: test
+title: 2D canvas alpha video capture test page
+summary: Test page running the canvas-to-video pixel test with a 2D canvas context and alpha enabled.

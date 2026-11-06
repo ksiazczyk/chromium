@@ -1,0 +1,4 @@
+# Docerion header of pixel_video_mp4_four_colors_aspect_4x3.html.
+type: test
+title: MP4 four-color 4x3 aspect video pixel test page
+summary: HTML test page that plays a four-color MP4 video with a 4x3 aspect ratio for GPU pixel output verification.

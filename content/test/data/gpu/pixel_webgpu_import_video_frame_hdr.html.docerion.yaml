@@ -1,0 +1,4 @@
+# Docerion header of pixel_webgpu_import_video_frame_hdr.html.
+type: test
+title: WebGPU HDR video frame importExternalTexture pixel test page
+summary: Browser test page that imports an HDR video frame into WebGPU and uses a WGSL shader to scale HDR colors into the SDR range before rendering.

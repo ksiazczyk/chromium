@@ -1,0 +1,4 @@
+# Docerion header of pixel_repeated_webgl_to_2d.html.
+type: test
+title: Repeated WebGL to 2D canvas drawing pixel test
+summary: Pixel test verifying that repeatedly drawing a WebGL canvas onto a 2D canvas leaves only the latest result visible.

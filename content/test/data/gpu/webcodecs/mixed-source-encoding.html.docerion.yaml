@@ -1,0 +1,4 @@
+# Docerion header of mixed-source-encoding.html.
+type: test
+title: Mixed source encoding manual test page
+summary: Manual test page that runs VideoEncoder encoding of frames coming from different frame sources with software and hardware acceleration options.

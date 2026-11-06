@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC browser test harness
+// summary: Shared JavaScript harness for WebRTC test pages that runs the main function and reports success, failure, or skip with logging, assertions, and cleanup.
+// ---
+
 'use strict';
 
 class TestHarness {

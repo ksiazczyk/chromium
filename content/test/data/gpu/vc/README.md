@@ -1,3 +1,13 @@
+---
+type: readme
+title: GPU Demo for Video Conferencing Simulation
+summary: Documentation for the GPU video conferencing demo, covering demo configurations, URL parameters, serving with http-server, and the recorded teddy bear video files in VP9, VP8 and AVC.
+relations:
+  - documents /content/test/data/gpu/vc/videos_mxn.html
+  - documents /content/test/data/gpu/vc/webgl_videos_mxn.html
+  - documents /content/test/data/gpu/vc/webgl2_videos_mxn.html
+---
+
 # GPU Demo for Video Conferencing Simulation
 
 The demo files display MxN videos with a small rectangle (UI) on top of each

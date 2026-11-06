@@ -1,0 +1,4 @@
+# Docerion header of pixel_webgpu_webgl_teximage2d.html.
+type: test
+title: WebGPU to WebGL texImage2D pixel test page
+summary: Browser test page that renders four colors with WebGPU, uploads the WebGPU canvas into WebGL via texImage2D, and blits it for pixel verification.

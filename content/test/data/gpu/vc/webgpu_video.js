@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebGPU rendering helpers for the MxN video demos
+// summary: Shared WebGPU code for the demo pages that initializes adapter, device and context, defines WGSL shaders, and creates buffers for videos, icons and FPS panels.
+// ---
+
 async function webGpuInit(canvasWidth, canvasHeight) {
   const adapter = navigator.gpu && await navigator.gpu.requestAdapter();
   if (!adapter) {

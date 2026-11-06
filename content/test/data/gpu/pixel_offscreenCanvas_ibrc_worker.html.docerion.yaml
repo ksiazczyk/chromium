@@ -1,0 +1,4 @@
+# Docerion header of pixel_offscreenCanvas_ibrc_worker.html.
+type: test
+title: 'Pixel test: OffscreenCanvas bitmaprenderer transfer on worker thread'
+summary: Browser pixel test checking that a worker renders a WebGL OffscreenCanvas into a placeholder canvas via transferFromImageBitmap in a bitmaprenderer context.

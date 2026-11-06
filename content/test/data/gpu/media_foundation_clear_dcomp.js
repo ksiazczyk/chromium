@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media Foundation video playback test helper
+// summary: JavaScript helper that plays a video from a query-string source and reports playback success or failure for Media Foundation tests.
+// ---
+
 var video;
 
 var QueryString = function() {

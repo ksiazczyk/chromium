@@ -1,0 +1,4 @@
+# Docerion header of encoding-framerate-resolutions.html.
+type: test
+title: Encoding framerate resolutions test
+summary: Manual test page checking that VideoEncoder can encode at different framerates and resolutions for AVC and HEVC codecs.

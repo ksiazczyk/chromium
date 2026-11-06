@@ -1,0 +1,4 @@
+# Docerion header of frame-size-change.html.
+type: test
+title: Frame size change test
+summary: Manual test page that loads frame-size-change.js to check the video frame size can change in the middle of an encoding session.

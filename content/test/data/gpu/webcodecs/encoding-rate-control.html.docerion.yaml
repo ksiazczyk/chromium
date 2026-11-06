@@ -1,0 +1,4 @@
+# Docerion header of encoding-rate-control.html.
+type: test
+title: Encoding bitrate test
+summary: Manual test page that loads encoding-rate-control.js and encodes several seconds of video to check the encoder adheres to the specified bitrate.

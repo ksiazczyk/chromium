@@ -1,0 +1,4 @@
+# Docerion header of pixel_video_mp4_rounded_corner.html.
+type: test
+title: MP4 Video Rounded Corner Test
+summary: GPU pixel test page that plays an MP4 video with rounded corners and reports results through the shared pixel_video_test.js helper.

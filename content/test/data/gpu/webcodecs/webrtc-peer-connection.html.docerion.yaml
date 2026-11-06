@@ -1,0 +1,4 @@
+# Docerion header of webrtc-peer-connection.html.
+type: test
+title: RTCPeerConnection frame transport test page
+summary: Manual test page sending frames over a local RTCPeerConnection, optionally via a worker, and validating the received frames with relaxed color tolerances.

@@ -1,0 +1,4 @@
+# Docerion header of webgl2_conformance_mac_runtimes.json.
+type: test
+title: WebGL2 conformance runtimes for macOS
+summary: Maps WebGL2 conformance test and extension names to measured runtimes on macOS.

@@ -1,0 +1,4 @@
+# Docerion header of media_foundation_d3d11_video_capture.html.
+type: test
+title: Media Foundation D3D11 video capture test page
+summary: Browser test page that pipes camera capture through RTCPeerConnection to test the MediaFoundationD3D11VideoCapture path.

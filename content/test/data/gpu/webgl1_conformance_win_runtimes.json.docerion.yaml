@@ -1,0 +1,4 @@
+# Docerion header of webgl1_conformance_win_runtimes.json.
+type: test
+title: WebGL1 conformance runtimes for Windows
+summary: Maps WebGL1 conformance test and extension names to measured runtimes on Windows.

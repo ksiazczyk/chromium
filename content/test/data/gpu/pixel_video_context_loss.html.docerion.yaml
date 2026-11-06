@@ -1,0 +1,4 @@
+# Docerion header of pixel_video_context_loss.html.
+type: test
+title: Video context loss pixel test page
+summary: Test page that crashes the GPU process during video playback, waits for WebGL context loss, and reports success once the video plays to the end.

@@ -1,0 +1,4 @@
+# Docerion header of wait_for_compositing.html.
+type: test
+title: Wait for compositing swaps test page
+summary: Test page that toggles its background color and reports success after seven swap completions via the GPU benchmarking API or requestAnimationFrame.

@@ -1,0 +1,4 @@
+# Docerion header of pixel_canvas2d_untagged.html.
+type: test
+title: 2D Canvas Pixel Test Without Color Space Tag
+summary: Fills a 2D canvas with untagged gray image data to check that pixels display correctly when the canvas has no color space tag.

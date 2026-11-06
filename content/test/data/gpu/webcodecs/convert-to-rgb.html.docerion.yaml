@@ -1,0 +1,4 @@
+# Docerion header of convert-to-rgb.html.
+type: test
+title: Convert frames to RGB test page
+summary: Manual test page that loads convert-to-rgb.js and adds buttons to check RGB conversion of frames from offscreen, software decoder, and capture sources.

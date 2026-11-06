@@ -1,0 +1,4 @@
+# Docerion header of pixel_webgl_context_restored.html.
+type: test
+title: WebGL context restored test
+summary: Test page that clears a WebGL canvas to red, lets the harness crash the GPU process, and verifies the context is restored and cleared to green.

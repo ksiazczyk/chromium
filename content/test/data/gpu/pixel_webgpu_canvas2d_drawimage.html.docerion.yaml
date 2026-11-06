@@ -1,0 +1,4 @@
+# Docerion header of pixel_webgpu_canvas2d_drawimage.html.
+type: test
+title: WebGPU drawImage Test
+summary: Pixel test page that renders four colors on a WebGPU canvas and draws it into a 2D canvas with drawImage to verify the output.

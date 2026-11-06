@@ -1,0 +1,4 @@
+# Docerion header of pixel_offscreenCanvas_2d_resize_on_worker.html.
+type: test
+title: 'Pixel test: OffscreenCanvas 2D resize on worker thread'
+summary: Browser pixel test checking that an OffscreenCanvas 2D context in a worker renders correctly after resizing from 200x200 to 40x50.

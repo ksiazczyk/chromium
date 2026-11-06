@@ -1,0 +1,4 @@
+# Docerion header of crop-encode.html.
+type: test
+title: Crop, encode, decode, render test page
+summary: Manual test page that loads crop-encode.js and adds buttons to crop a frame, encode and decode it, and render the result for software and hardware paths.

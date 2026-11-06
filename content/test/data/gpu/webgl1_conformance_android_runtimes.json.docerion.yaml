@@ -1,0 +1,4 @@
+# Docerion header of webgl1_conformance_android_runtimes.json.
+type: test
+title: WebGL1 conformance Android runtime timings
+summary: Recorded per-test runtime data for WebGL1 conformance suites and extension tests on Android GPU runtimes, used as GPU test data.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video utilities for the MxN video demos
+// summary: Shared helper script for the demo pages that parses URL options, selects video sources by codec and frame rate, and builds vertex buffer arrays for videos and icons.
+// ---
+
 const parsedString = (function (names) {
   const pairs = {};
   for (let i = 0; i < names.length; ++i) {

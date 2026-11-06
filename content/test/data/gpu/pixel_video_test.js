@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pixel Video Test Helper
+// summary: Shared JavaScript helper for GPU video pixel tests that plays the video, counts overlay swaps via gpuBenchmarking, and reports SUCCESS or FAIL to the automation controller.
+// ---
+
 var video;
 var totalVideoSwaps = 8;
 var useTimer = 0;

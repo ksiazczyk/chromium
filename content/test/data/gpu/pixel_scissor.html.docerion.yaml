@@ -1,0 +1,4 @@
+# Docerion header of pixel_scissor.html.
+type: test
+title: WebGL scissor pixel test page
+summary: Test page that clears a WebGL canvas with preserveDrawingBuffer enabled, applies a scissor rect, and reports success to the automation controller after several frame swaps.

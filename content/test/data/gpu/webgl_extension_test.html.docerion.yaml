@@ -1,0 +1,4 @@
+# Docerion header of webgl_extension_test.html.
+type: test
+title: WebGL extension availability test helper
+summary: Helper page with functions that check WebGL extension availability and report results and untested extensions to the GPU test harness.

@@ -1,0 +1,4 @@
+# Docerion header of mem_webgl.html.
+type: test
+title: WebGL GPU memory allocation test page
+summary: Browser test page that allocates a configurable amount of GPU memory using WebGL textures and framebuffers, then renders to them.

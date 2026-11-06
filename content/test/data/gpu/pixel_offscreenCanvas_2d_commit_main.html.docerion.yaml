@@ -1,0 +1,4 @@
+# Docerion header of pixel_offscreenCanvas_2d_commit_main.html.
+type: test
+title: 'Pixel test: OffscreenCanvas 2D commit on main thread with two canvases'
+summary: Browser pixel test checking that two OffscreenCanvas 2D contexts on the main thread commit frames together and render the expected star and fill pattern.

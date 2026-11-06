@@ -1,0 +1,4 @@
+# Docerion header of vulkan_vma_race.html.
+type: test
+title: Vulkan VMA allocator race test page
+summary: Browser test page that churns backdrop-filter layers and WebGL textures to stress the shared Vulkan VMA allocator across compositor and GPU-main threads.

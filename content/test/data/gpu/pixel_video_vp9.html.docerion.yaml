@@ -1,0 +1,4 @@
+# Docerion header of pixel_video_vp9.html.
+type: test
+title: VP9 Downscaled Video Test
+summary: GPU pixel test page that plays a VP9 WebM video through the shared pixel video test helper.

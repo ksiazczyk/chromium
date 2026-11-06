@@ -1,0 +1,4 @@
+# Docerion header of webgpu-domain-not-blocked.html.
+type: test
+title: WebGPU domain not blocked test
+summary: Verifies that a normal GPU process termination causes device loss with an unknown reason but does not block new device requests.

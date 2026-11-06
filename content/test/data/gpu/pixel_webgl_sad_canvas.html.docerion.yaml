@@ -1,0 +1,4 @@
+# Docerion header of pixel_webgl_sad_canvas.html.
+type: test
+title: WebGL Sad Canvas Test
+summary: Pixel test page that clears a WebGL canvas, triggers a GPU process crash, and verifies WebGL context loss and restoration behavior.

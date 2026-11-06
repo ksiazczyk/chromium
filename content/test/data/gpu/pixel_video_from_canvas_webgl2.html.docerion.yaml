@@ -1,0 +1,4 @@
+# Docerion header of pixel_video_from_canvas_webgl2.html.
+type: test
+title: WebGL2 canvas to video pixel test page
+summary: HTML test page that runs the canvas-to-video pixel test with a WebGL2 canvas and alpha disabled for GPU pixel output verification.

@@ -1,0 +1,4 @@
+# Docerion header of pixel_canvas_low_latency_2d.html.
+type: test
+title: 'Low Latency Canvas 2D Test: Green and blue box, over large red box, over black'
+summary: Draws green and blue boxes over a large red box on a desynchronized low-latency Canvas 2D surface to verify incremental painting and orientation.

@@ -1,0 +1,4 @@
+# Docerion header of pixel_destroyed_webgpu_canvas.html.
+type: test
+title: WebGPU canvas last presented image test
+summary: Test page hosting the WebGPU canvas last presented image test, setting up opaque and transparent source canvases for readback checks after device destruction.

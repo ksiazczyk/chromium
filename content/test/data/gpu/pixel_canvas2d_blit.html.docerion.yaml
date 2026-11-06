@@ -1,0 +1,4 @@
+# Docerion header of pixel_canvas2d_blit.html.
+type: test
+title: 'Canvas 2D Blit Test: Draw text then blit for hundreds of frames'
+summary: Draws text on a Canvas 2D surface and repeatedly blits the canvas onto itself for hundreds of frames to check that the text stays sharp.

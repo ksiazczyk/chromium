@@ -1,0 +1,4 @@
+# Docerion header of encode.html.
+type: test
+title: Encode test
+summary: Manual test page that encodes frames from various sources and checks VideoEncoder reconfiguration with changed bitrate and frame size, including AVC extra data validation.

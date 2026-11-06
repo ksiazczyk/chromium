@@ -1,0 +1,4 @@
+# Docerion header of pixel_webgpu_copy_image.html.
+type: test
+title: WebGPU canvas save and copy image pixel test
+summary: Pixel test page that renders a four-color WebGPU canvas and verifies toDataURL snapshots taken during and after rendering.

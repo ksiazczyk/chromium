@@ -1,0 +1,4 @@
+# Docerion header of manual-svc.html.
+type: test
+title: Manual SVC encoding test
+summary: Manual test page exercising manual reference frame control via getAllFrameBuffers, updateBuffer and referenceBuffers across codecs and layer counts.

@@ -1,0 +1,4 @@
+# Docerion header of functional_canvas_demo.html.
+type: test
+title: Functional canvas demo test
+summary: Test page that draws a black rectangle on a 2D canvas and reports success via domAutomationController.

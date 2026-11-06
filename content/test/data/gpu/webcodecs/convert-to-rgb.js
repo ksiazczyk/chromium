@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VideoFrame RGB conversion test logic
+// summary: Test logic that builds I420 and float16 VideoFrames in several color spaces and compares copyTo() against drawImage() RGB conversion results.
+// ---
+
 'use strict';
 
 function rgb2yuv(r, g, b) {

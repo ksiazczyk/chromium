@@ -1,0 +1,4 @@
+# Docerion header of pixel_webgpu_texture_storage.html.
+type: test
+title: WebGPU storage texture canvas write pixel test page
+summary: Browser test page that writes a gradient directly into the WebGPU canvas texture from a compute shader using storage texture bindings.

@@ -1,0 +1,4 @@
+# Docerion header of pixel_canvas_low_latency_webgl_alpha_false.html.
+type: test
+title: Low latency alpha false WebGL canvas test
+summary: Test page that verifies blitting a multisampled RGB8 renderbuffer into an alpha:false desynchronized WebGL2 context renders an opaque green box.

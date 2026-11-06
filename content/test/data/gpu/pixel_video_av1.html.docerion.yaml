@@ -1,0 +1,4 @@
+# Docerion header of pixel_video_av1.html.
+type: test
+title: AV1 downscaled video pixel test page
+summary: Test page playing a four-color AV1 video for downscaled video pixel tests, driven by the shared pixel_video_test.js script.

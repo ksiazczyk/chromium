@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Frame size change test script
+// summary: Test logic that encodes frames while reducing and then increasing frame size and verifies the decoder config is reported for each size change.
+// ---
+
 'use strict';
 
 async function main(arg) {

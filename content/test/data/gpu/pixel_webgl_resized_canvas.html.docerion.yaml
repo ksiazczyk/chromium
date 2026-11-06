@@ -1,0 +1,4 @@
+# Docerion header of pixel_webgl_resized_canvas.html.
+type: test
+title: WebGL Canvas Resize Test
+summary: Pixel test page that resizes a WebGL canvas after drawing and verifies the rendered output through the test harness.

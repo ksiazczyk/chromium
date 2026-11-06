@@ -1,0 +1,4 @@
+# Docerion header of pixel_offscreenCanvas_transferToImageBitmap_main.html.
+type: test
+title: 'Pixel test: OffscreenCanvas transferToImageBitmap on main thread'
+summary: Browser pixel test checking transferToImageBitmap on the main thread by displaying RGB and blue squares through bitmaprenderer canvases.

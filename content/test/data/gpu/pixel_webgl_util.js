@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebGL Pixel Test Utility
+// summary: Shared helper script for WebGL pixel tests that initializes contexts, compiles shaders, sets up buffers, draws triangles, and reports results.
+// ---
+
 var vertexShader = [
   "attribute vec3 pos;",
   "void main(void)",

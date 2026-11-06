@@ -1,0 +1,4 @@
+# Docerion header of pixel_video_hevc.html.
+type: test
+title: HEVC downscaled video pixel test page
+summary: HTML test page that plays a downscaled four-color HEVC MP4 video for GPU pixel output verification.

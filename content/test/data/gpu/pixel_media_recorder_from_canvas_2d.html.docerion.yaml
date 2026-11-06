@@ -1,0 +1,4 @@
+# Docerion header of pixel_media_recorder_from_canvas_2d.html.
+type: test
+title: 'Pixel test: MediaRecorder capture from 2D canvas'
+summary: Browser pixel test page that records a 2D canvas stream with MediaRecorder and verifies the resulting video shows the expected four-color frames.

@@ -1,0 +1,4 @@
+# Docerion header of pixel_webgl_webcodecs_breakoutbox_displays_frame.html.
+type: test
+title: WebGL + WebCodecs + Breakout Box can display frame
+summary: Pixel test page that renders to an OffscreenCanvas, sends it as a VideoFrame through a MediaStreamTrackGenerator, and displays it in a video element.

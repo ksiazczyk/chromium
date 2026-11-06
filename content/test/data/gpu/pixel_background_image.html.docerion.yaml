@@ -1,0 +1,4 @@
+# Docerion header of pixel_background_image.html.
+type: test
+title: 'Background Image Test: Repeat single_face background image'
+summary: Loads and decodes an image, sets it as a repeating body background, and reports success to the automation controller after a number of frames for GPU pixel testing.

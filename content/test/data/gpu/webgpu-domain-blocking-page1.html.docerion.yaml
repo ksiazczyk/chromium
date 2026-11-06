@@ -1,0 +1,4 @@
+# Docerion header of webgpu-domain-blocking-page1.html.
+type: test
+title: WebGPU domain blocking test page 1
+summary: First stage of the domain blocking test that loses two WebGPU devices through GPU crashes before navigating to the second page.

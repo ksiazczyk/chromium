@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebGL context initialization helper for GPU tests
+// summary: JavaScript helper that initializes a WebGL context on a canvas, sets clear color and depth testing, reads the unmasked GL renderer string, and reports success via domAutomationController for Chromium GPU tests.
+// ---
+
 // Global variables.
 var gl_context;
 var gl_renderer;

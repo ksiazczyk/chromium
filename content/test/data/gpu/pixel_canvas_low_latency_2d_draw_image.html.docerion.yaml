@@ -1,0 +1,4 @@
+# Docerion header of pixel_canvas_low_latency_2d_draw_image.html.
+type: test
+title: Low Latency 2D Canvas drawImage Test
+summary: Draws colored rectangles on one desynchronized 2D canvas and copies them with drawImage onto a second canvas to test low-latency drawing.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Color space encoding test logic
+// summary: Test logic that encodes I420 and RGBA frames and verifies output color space metadata, key frame generation, and decoded color information.
+// ---
+
 'use strict';
 
 function isRec709(colorSpace, fullRange) {

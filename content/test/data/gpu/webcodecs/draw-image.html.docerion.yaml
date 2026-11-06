@@ -1,0 +1,4 @@
+# Docerion header of draw-image.html.
+type: test
+title: drawImage() test page
+summary: Manual test page that renders frames from various sources onto a canvas with drawImage() and validates the four-color quadrant output.

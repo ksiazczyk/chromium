@@ -1,0 +1,4 @@
+# Docerion header of pixel_webgpu_canvas_format_reinterpretation.html.
+type: test
+title: WebGPU canvas format reinterpretation pixel test
+summary: Pixel test page that clears a WebGPU canvas configured with bgra8unorm and an srgb view format, checking the displayed color matches the reinterpreted value.
