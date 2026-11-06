@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content script injected into webview guest for fetch test
+// summary: Content script registered on the webview that fetches a test server file on request and reports success or failure back to the embedder.
+// ---
+
 var embedder = null;
 
 function reportResult(result) {

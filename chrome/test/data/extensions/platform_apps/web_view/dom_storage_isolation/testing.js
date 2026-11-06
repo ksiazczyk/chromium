@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Minimal chained test runner
+// summary: Provides a Test class that chains test steps and reports success or failure through callbacks.
+// ---
+
 Testing = {};
 
 // A simple class which holds the test logic. Each "Test" instance has a |name|

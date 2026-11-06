@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Guest script for the input method test
+// summary: Injected guest script with a tester that creates inputs, waits for focus and input events, and reports values and selection changes to the embedder.
+// ---
+
 var LOG = function(msg) {
   window.console.log(msg);
 };

@@ -4,6 +4,12 @@
 
 // The main logic of the DOM Storage Isolation test is implemented here.
 
+// ---docerion
+// type: test
+// title: DOM storage isolation test logic
+// summary: Implements the test scenarios that initialize webview DOM storage and verify isolation between webviews and partitions.
+// ---
+
 var FILE_NAME = 'page.html';
 var APP_PATH = 'extensions/platform_apps/web_view/dom_storage_isolation';
 var HOST_NAME = 'localhost';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview add/remove test embedder script
+// summary: Drives the webview add/remove test by loading the guest page, removing and re-adding the webview element, and passing or failing the test based on load counts.
+// ---
+
 var webview = null;
 var loadcount = 0;
 

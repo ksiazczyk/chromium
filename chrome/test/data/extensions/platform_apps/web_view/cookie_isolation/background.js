@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cookie isolation test app background script
+// summary: Creates the main app window when the test platform app is launched.
+// ---
+
 function createMainWindow() {
   chrome.app.window.create("window.html", {
     'bounds': {

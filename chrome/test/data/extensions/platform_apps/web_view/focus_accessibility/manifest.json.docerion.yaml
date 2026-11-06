@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Webview focus accessibility test app manifest
+summary: Chrome app manifest for the webview focus accessibility test, granting the webview permission and running test.js as the background script.

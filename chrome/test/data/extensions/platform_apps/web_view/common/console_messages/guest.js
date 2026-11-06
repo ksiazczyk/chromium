@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebView console message test guest script
+// summary: Guest webview script that logs messages at various console levels or throws on request, letting the embedder verify consolemessage event behavior.
+// ---
+
 // A guest that logs console messages.
 // Note that the embedder has to initiate a postMessage first so that
 // the guest has a reference to the embedder's window.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test script for restoring app window state
+// summary: Creates normal and maximized app windows, closes them, and asserts their state is restored when recreated.
+// ---
+
 var assertState = function(win) {
   if (win.id == 'normal') {
     chrome.test.assertFalse(win.isMinimized());

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page script for DOM storage initialization and queries
+// summary: Initializes local and session storage on the page and answers message requests for the stored values.
+// ---
+
 function initDOMStorage(name) {
   window.localStorage.setItem('foo', 'local-' + name);
   window.sessionStorage.setItem('baz', 'session-' + name);

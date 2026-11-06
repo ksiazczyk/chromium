@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview contextMenus API test logic
+// summary: Drives the <webview> contextMenus API tests, creating, updating and removing menu items and checking onClicked and onShow preventDefault behavior.
+// ---
+
 var LOG = function(msg) { window.console.log(msg); };
 
 function ContextMenuTester() {

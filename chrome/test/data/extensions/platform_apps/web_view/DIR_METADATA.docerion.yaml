@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: WebView test data DIR_METADATA
+summary: Configures bug tracking for the web_view test data, routing issues to the Platform>Apps>BrowserTag monorail component and a Buganizer component.

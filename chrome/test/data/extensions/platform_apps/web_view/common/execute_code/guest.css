@@ -3,6 +3,12 @@
    found in the LICENSE file.
 */
 
+/*docerion
+type: test
+title: Guest stylesheet for the insertCSS test
+summary: Stylesheet setting the guest page background to red, injected via webview.insertCSS during the test.
+*/
+
 body {
   background-color: red;
 }

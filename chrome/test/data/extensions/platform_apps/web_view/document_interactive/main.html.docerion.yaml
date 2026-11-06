@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: test
+title: Webview document interactive test page
+summary: Test page hosting a webview element and loading the embedder script for the document interactive test.

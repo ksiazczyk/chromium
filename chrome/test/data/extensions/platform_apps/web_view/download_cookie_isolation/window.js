@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview setup and download orchestration script
+// summary: Creates webviews with distinct partitions, allows download permission requests, and relays download commands from the test runner to guests.
+// ---
+
 function getRootURL(port) {
   return new URL('http://127.0.0.1:' + port +
       '/extensions/platform_apps/web_view/download_cookie_isolation/');

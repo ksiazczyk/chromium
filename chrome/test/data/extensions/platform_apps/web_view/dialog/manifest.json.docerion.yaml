@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Manifest for the webview dialog test app
+summary: Packaged app manifest declaring the webview permission and test.js as the background script for the dialog API test.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Webview test app manifest
+summary: Manifest version 2 manifest for the platform app test, declaring the webview permission and test.js as the background script.

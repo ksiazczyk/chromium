@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebView user agent test guest script
+// summary: Guest-side test script that listens for post messages and replies to the embedder with the guest's navigator.userAgent value.
+// ---
+
 window.console.log('Guest script loading.');
 
 // The window reference of the embedder to send post message reply.

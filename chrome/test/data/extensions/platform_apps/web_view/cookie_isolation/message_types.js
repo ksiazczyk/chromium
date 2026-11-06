@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Message type constants for host and guest webviews
+// summary: Defines constants for test start and end plus cookie set, get, and clear messages exchanged between app and webviews.
+// ---
+
 // Different message types for the host app and the guest webviews.
 var START_TEST = 'Start the test.';
 var TEST_ENDED = 'Test ended.';

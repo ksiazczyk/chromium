@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the speech recognition background page test app
+summary: Manifest for a Chrome platform app test that runs webkitSpeechRecognition from its background page, declaring the audioCapture permission and test.js as the background script.

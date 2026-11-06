@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window messaging helper
+// summary: Defines a message structure and a singleton handler that dispatches postMessage traffic by title for the test app.
+// ---
+
 Messaging = {};
 
 // Structure of a simple message sent/received using |window.postMessage| and

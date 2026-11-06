@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Guest script for the focus restored test
+// summary: Injected guest script that tracks focus and blur events on an input and responds to embedder requests to wait for focus, blur, or focus again.
+// ---
+
 var embedder = null;
 var inputElement = undefined;
 var waitingForFocus = false;

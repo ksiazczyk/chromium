@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview speech recognition permission test bootstrap
+// summary: Bootstraps Chrome browser tests that verify webview speech recognition behavior when the embedder allows or denies the media permission request.
+// ---
+
 config.IS_CHROME_TEST = true;
 // No TestServer.
 config.IS_JS_ONLY_GUEST = true;

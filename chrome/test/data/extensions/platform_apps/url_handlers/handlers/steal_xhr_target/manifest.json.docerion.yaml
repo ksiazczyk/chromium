@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the steal XHR target test app
+summary: Manifest of the test platform app registering a URL handler that matches localhost target.html pages to verify XHR target stealing is blocked.

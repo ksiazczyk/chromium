@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Guest script handling touch handler commands
+// summary: Guest-side script that installs or removes a touchstart handler on command from the embedder and reports back via postMessage.
+// ---
+
 var LOG = function(msg) {
   window.console.log(msg);
 };

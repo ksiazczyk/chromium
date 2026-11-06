@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview clearData cache test logic
+// summary: Drives the test by fetching a resource repeatedly through the guest, then calls webview.clearData to verify the HTTP cache is cleared.
+// ---
+
 var LOG = function(var_args) {
   window.console.log(Array.prototype.slice.call(arguments));
 };

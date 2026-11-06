@@ -1,0 +1,4 @@
+# Docerion header of window.html.
+type: test
+title: Main window page hosting webviews
+summary: Main app window page that supplies the container element into which the test webviews are added.

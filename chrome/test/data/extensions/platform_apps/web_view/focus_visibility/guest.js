@@ -1,6 +1,13 @@
 // Copyright 2015 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Guest script reporting button focus and keyup events to embedder
+// summary: Notifies the embedder when the guest button receives focus or a keyup occurs, and handles connect and reset messages from the embedder.
+// ---
+
 'use strict';
 
 var embedder = null;

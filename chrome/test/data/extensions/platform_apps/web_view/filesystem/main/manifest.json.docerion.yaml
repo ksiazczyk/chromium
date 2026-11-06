@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the webview filesystem test app
+summary: Platform app manifest granting the webview permission and defining a partition with accessible resources for the filesystem test.

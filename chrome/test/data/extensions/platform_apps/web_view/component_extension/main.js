@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview component extension test logic
+// summary: Creates a webview guest, posts messages to component and non-component extensions, and verifies guestProcessId values to pass or fail the test.
+// ---
+
 var embedder = {};
 embedder.baseGuestURL = '';
 embedder.guestURL = '';

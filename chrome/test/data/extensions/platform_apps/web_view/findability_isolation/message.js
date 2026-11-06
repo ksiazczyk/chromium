@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PostMessage messaging helper for findability isolation tests
+// summary: Defines a Messaging.Message structure and a singleton Messaging.Handler that dispatches window.postMessage traffic by title to registered handlers.
+// ---
+
 Messaging = {};
 
 // Structure of a simple message sent/received using |window.postMessage| and

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Blank link click dispatcher for the URL handler test
+// summary: Points the blank link at the test server's target page and dispatches a click that should be intercepted and redirected to the URL handler app under test.
+// ---
+
 chrome.test.getConfig(function(config) {
   var port = config ? config.testServer.port : '0';
 

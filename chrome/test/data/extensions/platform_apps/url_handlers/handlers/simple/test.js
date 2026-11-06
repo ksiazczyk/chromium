@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL handler launch data test
+// summary: Background script that verifies launchData fields on a URL handler launch and opens the test page with the launched URL.
+// ---
+
 chrome.app.runtime.onLaunched.addListener(function (launchData) {
   // Test that the isKioskSession field is |false| and the id and items fields
   // can be read in the launch data.

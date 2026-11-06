@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Minimal test runner for findability isolation tests
+// summary: Provides a Testing.Test class that chains tests together and invokes success and failure callbacks as each test runs.
+// ---
+
 Testing = {};
 
 // A simple class which holds the test logic. Each "Test" instance has a |name|

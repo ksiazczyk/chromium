@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview filesystem permission test embedder logic
+// summary: Drives the webview filesystem permission tests by setting up the guest, handling permission requests, and verifying postMessage results.
+// ---
+
 var embedder = {};
 embedder.test = {};
 embedder.baseGuestURL = '';

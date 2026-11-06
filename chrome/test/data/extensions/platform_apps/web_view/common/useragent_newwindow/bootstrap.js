@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebView user agent override new window test bootstrap
+// summary: Sets up and runs a browser test verifying that user agent overrides apply to webviews opened through the newwindow event.
+// ---
+
 config.IS_CHROME_TEST = true;
 // No TestServer.
 config.IS_JS_ONLY_GUEST = true;

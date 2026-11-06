@@ -1,0 +1,4 @@
+# Docerion header of guest.html.
+type: test
+title: Guest page with focusable button for webview focus test
+summary: Guest page loaded inside the webview that shows a button and loads the guest script used for focus monitoring.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared webview test utilities
+// summary: Shared helpers for webview tests, wrapping chrome.test pass/fail calls and providing embedder utilities to create webviews, set up message channels and inject scripts or CSS.
+// ---
+
 var $ = function(id) { return document.getElementById(id); };
 var LOG = function(msg) { window.console.log(msg); };
 

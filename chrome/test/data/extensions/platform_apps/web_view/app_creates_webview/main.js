@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebView test app command handler
+// summary: Handles app commands to create webview guests, reporting test status and stalling attachment to test safe shutdown.
+// ---
+
 var LOG = function(msg) {
   window.console.log(msg);
 };

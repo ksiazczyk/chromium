@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Authorization Test app manifest
+summary: Manifest for the Authorization Test platform app, declaring the syncFileSystem permission and loading test.js as the background script for the end-to-end browser test.

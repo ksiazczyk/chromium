@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Guest-side script for triggering webview dialogs
+// summary: Injected into the guest webview to call window.alert, confirm, and prompt and report the dialog results back to the embedder over postMessage.
+// ---
+
 var embedder = null;
 
 function reportConnected() {

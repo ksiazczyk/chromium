@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebView screen coordinates guest script
+// summary: Guest-side script that listens for postMessage requests from the embedder and replies with the guest window's screenX, screenY, screenLeft and screenTop values.
+// ---
+
 // The window reference of the embedder to send post message reply.
 var embedderWindowChannel = null;
 

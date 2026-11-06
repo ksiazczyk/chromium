@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the webview fullscreen platform app test
+summary: Chrome app manifest granting the webview permission and registering the background script that starts the fullscreen test app.

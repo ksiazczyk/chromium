@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Guest script exercising fullscreen inside the webview
+// summary: Injected into the webview guest to request fullscreen on click and report fullscreen change status back through console messages.
+// ---
+
 var LOG = function(var_args) {
   window.console.log.apply(window.console, arguments);
 };

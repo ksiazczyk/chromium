@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview property setting test embedder
+// summary: Test embedder that verifies the webview name property cannot be redefined when document.readyState changes to interactive.
+// ---
+
 var listener = function(event) {
   var webview = document.querySelector('webview');
 

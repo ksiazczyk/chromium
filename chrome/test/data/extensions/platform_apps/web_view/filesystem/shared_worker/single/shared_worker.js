@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared worker filesystem request script
+// summary: Shared worker that requests a persistent filesystem on connect and posts result, echo, or error messages back to the guest page.
+// ---
+
 self.requestFileSystemSync = self.webkitRequestFileSystemSync ||
                              self.requestFileSystemSync;
 

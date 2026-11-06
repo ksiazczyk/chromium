@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebView clearData twice test bootstrap
+// summary: Bootstraps a Chromium browser test that clears a webview's HTTP cache twice and succeeds when both clearData calls complete.
+// ---
+
 config.IS_CHROME_TEST = true;
 // Guest served from TestServer.
 config.IS_JS_ONLY_GUEST = false;

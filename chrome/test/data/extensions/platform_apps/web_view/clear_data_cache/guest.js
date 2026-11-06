@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Guest script issuing cache test XHRs
+// summary: Listens for postMessage from the embedder and sends XHR requests to the cache-control response, logging errors on failure.
+// ---
+
 var LOG = function(msg) { window.console.log(msg); };
 LOG('Guest script loading.');
 

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for hidden webview focusability test app
+summary: Chrome app manifest declaring the webview permission and background script for the hidden webview focusability test.

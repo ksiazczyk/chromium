@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview cookie isolation test scenarios
+// summary: Defines tests verifying webviews do not share cookies with the browser tab and that webviews on the same partition share cookies.
+// ---
+
 var HOST_NAME = 'localhost';
 var APP_PATH = 'extensions/platform_apps/web_view/cookie_isolation';
 var FILE_NAME = 'page.html';

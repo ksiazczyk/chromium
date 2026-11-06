@@ -1,0 +1,4 @@
+# Docerion header of guest.html.
+type: test
+title: Guest page for webview touch event test
+summary: HTML guest page loaded inside the webview that provides a touch target div and loads guest.js.

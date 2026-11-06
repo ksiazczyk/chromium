@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview speech recognition test guest script
+// summary: Guest page script that runs the Web Speech API and reports recognition events such as onstart, onresult, and onerror back to the embedder via postMessage.
+// ---
+
 // A guest that run Web Speech API.
 // Note that the embedder has to initiate a postMessage first so that
 // the guest has a reference to the embedder's window.

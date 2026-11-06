@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebView autosize test logic
+// summary: Enables autosize on the webview with large min and max sizes, then asserts sizechanged events stay within those bounds to expose damage buffer bugs.
+// ---
+
 function testAutoSize() {
   var webview = document.querySelector('webview');
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebView clearData cookie test bootstrap
+// summary: Embedder-side test script that loads a guest webview, clears its cookies via the clearData API, and verifies the cookies were removed.
+// ---
+
 config.IS_CHROME_TEST = true;
 // Guest served from TestServer.
 config.IS_JS_ONLY_GUEST = false;

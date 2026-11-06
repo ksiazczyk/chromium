@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: window.open launcher test script
+// summary: Builds a URL to the shared target page using the test server port and calls window.open so the handler app intercepts the navigation.
+// ---
+
 chrome.test.getConfig(function(config) {
   var port = config ? config.testServer.port : '0';
   var href =

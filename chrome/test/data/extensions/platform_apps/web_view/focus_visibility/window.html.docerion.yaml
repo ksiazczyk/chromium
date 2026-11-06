@@ -1,0 +1,4 @@
+# Docerion header of window.html.
+type: test
+title: Embedder window page with buttons around a webview
+summary: Embedder page providing buttons before and after the webview container for the focus visibility interactive test.

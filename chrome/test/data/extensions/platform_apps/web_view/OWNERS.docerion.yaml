@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: WebView test data OWNERS
+summary: Delegates code review ownership of the web_view test data directory to the OWNERS file of components/guest_view.

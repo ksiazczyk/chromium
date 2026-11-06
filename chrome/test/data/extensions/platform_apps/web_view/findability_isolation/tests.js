@@ -4,6 +4,12 @@
 
 // The main logic of the Findability Isolation test is implemented here.
 
+// ---docerion
+// type: test
+// title: Main test logic for webview findability isolation
+// summary: Implements the findability isolation tests, verifying webviews in the same storage partition can find each other while cross-partition webviews cannot.
+// ---
+
 var FILE_NAME = 'page.html';
 var APP_PATH = 'extensions/platform_apps/web_view/findability_isolation';
 var HOST_NAME = 'localhost';

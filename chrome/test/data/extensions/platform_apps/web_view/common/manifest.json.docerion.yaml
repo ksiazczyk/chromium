@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: WebView test app manifest
+summary: Manifest for the platform app used by WebViewTest and WebViewInteractive tests, requesting the webview permission and running test.js in the background.

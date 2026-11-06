@@ -1,2 +1,8 @@
+---
+type: readme
+title: WebView content script test extension README
+summary: Explains that this test extension hosts a content script in a legacy hosted extension that is force allowed like ChromeVox to reproduce a crash bug.
+---
+
 Content script in legacy hosted extension.
 This extension is force allowed like ChromeVox, to reproduce a crash bug.

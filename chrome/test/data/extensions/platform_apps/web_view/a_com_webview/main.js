@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview setup logic for the a.com test app
+// summary: Creates a webview element with a registered content script, loads a simple page from the test server on a.com, and reports loadstop or loadabort via test messages.
+// ---
+
 function createWebViewAndGuest(config) {
   var webview = document.createElement('webview');
   webview.addContentScripts([{

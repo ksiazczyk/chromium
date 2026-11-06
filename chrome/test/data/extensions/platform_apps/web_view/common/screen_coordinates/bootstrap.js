@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebView screen coordinates test bootstrap
+// summary: Bootstraps the WebView screen coordinates test, loading the guest webview and asserting its reported screen coordinates fall within the embedder window's range.
+// ---
+
 config.IS_CHROME_TEST = true;
 // No TestServer.
 config.IS_JS_ONLY_GUEST = true;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Embedder logic for the webview edit commands test
+// summary: Sets up a webview guest, injects the edit commands script, and relays guest responses such as select-all and copy to chrome.test.
+// ---
+
 var embedder = {};
 embedder.tests = {};
 

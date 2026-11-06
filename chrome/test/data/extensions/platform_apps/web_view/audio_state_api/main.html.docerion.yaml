@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: test
+title: Webview audio state test host page
+summary: HTML page for the audio state API test app that embeds a webview element and loads main.js to run the test.

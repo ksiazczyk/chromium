@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview executeScript test guest script
+// summary: Guest-side script for the webview executeScript test that creates testDiv elements in the guest and an iframe and reports their contents back.
+// ---
+
 window.console.log('Guest script loading.');
 
 // The window reference of the embedder to send post message reply.

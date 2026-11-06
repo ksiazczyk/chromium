@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Embedder logic for webview fullscreen permission test
+// summary: Creates a webview, allows or denies fullscreen permission requests, and verifies expected fullscreen change events on the embedder.
+// ---
+
 var embedder = {};
 embedder.test = {};
 

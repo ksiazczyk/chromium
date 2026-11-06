@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the webview context menu coordinates test app
+summary: Packaged app manifest declaring the webview permission and test.js as the background script for the test app.

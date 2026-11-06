@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebView console message test bootstrap script
+// summary: Bootstraps the WebView console message tests by embedding a guest webview and running chrome.test checks that consolemessage events report the expected levels and messages.
+// ---
+
 config.IS_CHROME_TEST = true;
 // No TestServer.
 config.IS_JS_ONLY_GUEST = true;

@@ -1,2 +1,8 @@
+---
+type: readme
+title: Content settings webview test extension README
+summary: Explains that the fixture is a legacy hosted extension force allowed like ChromeVox to reproduce a crash bug.
+---
+
 Content script in legacy hosted extension.
 This extension is force allowed like ChromeVox, to reproduce a crash bug.

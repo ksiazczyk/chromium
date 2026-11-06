@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest of the mismatching window.open launcher test app
+summary: Chrome app manifest declaring the background script test.js for the launcher app used in the mismatching window.open URL handler test.
