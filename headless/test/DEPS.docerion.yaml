@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for headless tests
+summary: Defines allowed include dependencies for the headless test directory, with extra rules for specific test files.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessWebContentsImpl class header
+// summary: Declares HeadlessWebContentsImpl, the headless implementation of HeadlessWebContents with window state, bounds, visibility, and begin frame control APIs.
+// ---
+
 #ifndef HEADLESS_LIB_BROWSER_HEADLESS_WEB_CONTENTS_IMPL_H_
 #define HEADLESS_LIB_BROWSER_HEADLESS_WEB_CONTENTS_IMPL_H_
 

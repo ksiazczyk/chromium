@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VulkanImplementationWin32 class declaration
+// summary: Declares the VulkanImplementationWin32 class, a VulkanImplementation override for Windows that manages the Vulkan instance and Win32 surface creation.
+// ---
+
 #ifndef GPU_VULKAN_WIN32_VULKAN_IMPLEMENTATION_WIN32_H_
 #define GPU_VULKAN_WIN32_VULKAN_IMPLEMENTATION_WIN32_H_
 

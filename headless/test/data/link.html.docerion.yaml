@@ -1,0 +1,4 @@
+# Docerion header of link.html.
+type: test
+title: Link test page
+summary: Page containing a single link to hello.html for testing link navigation.

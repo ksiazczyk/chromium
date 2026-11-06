@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VulkanInstance implementation
+// summary: Creates and destroys the VkInstance, binding function pointers from the loader library or ANGLE and installing debug report callbacks.
+// ---
+
 #include "gpu/vulkan/vulkan_instance.h"
 
 #include <array>

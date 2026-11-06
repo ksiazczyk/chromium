@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless shell browser implementation
+// summary: Implements the simple headless browser, handling startup, URL arguments, browser contexts, and command handling.
+// ---
+
 #include "headless/public/headless_shell.h"
 
 #include <memory>

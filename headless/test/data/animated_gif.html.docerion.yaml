@@ -1,0 +1,4 @@
+# Docerion header of animated_gif.html.
+type: test
+title: Animated GIF test page
+summary: Test page that displays an animated GIF image for headless browser testing.

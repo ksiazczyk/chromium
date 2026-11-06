@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for the vulkan_mac component
+summary: Defines the vulkan_mac component that builds the macOS Vulkan implementation with Metal surface defines and dependencies on base, gfx and gpu/vulkan.

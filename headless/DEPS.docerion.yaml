@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Headless include rules
+summary: Lists the include paths that code in the headless directory is allowed to depend on.

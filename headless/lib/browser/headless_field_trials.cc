@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless field trials setup
+// summary: Sets up variations field trials for headless mode, creating metrics state and a variations seed store when field trial testing config is enabled.
+// ---
+
 #include "headless/lib/browser/headless_field_trials.h"
 
 #include <functional>

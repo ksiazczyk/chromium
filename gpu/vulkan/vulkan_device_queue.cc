@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vulkan device queue implementation
+// summary: Implements VulkanDeviceQueue, which initializes and owns a Vulkan device, queue and VMA allocator, including ANGLE, WebView and compositor thread setup paths.
+// ---
+
 #include "gpu/vulkan/vulkan_device_queue.h"
 
 #include <algorithm>

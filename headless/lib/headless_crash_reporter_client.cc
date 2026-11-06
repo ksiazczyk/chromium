@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessCrashReporterClient implementation
+// summary: Implements the headless crash reporter client, providing product info, crash dump directory resolution, unattended detection via CHROME_HEADLESS, and implied stats consent.
+// ---
+
 #include "headless/lib/headless_crash_reporter_client.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessWindowDelegate interface header
+// summary: Declares the HeadlessWindowDelegate interface with callbacks for visibility, bounds and window state changes.
+// ---
+
 #ifndef HEADLESS_LIB_BROWSER_HEADLESS_WINDOW_DELEGATE_H_
 #define HEADLESS_LIB_BROWSER_HEADLESS_WINDOW_DELEGATE_H_
 

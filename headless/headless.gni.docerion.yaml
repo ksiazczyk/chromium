@@ -1,0 +1,4 @@
+# Docerion header of headless.gni.
+type: config
+title: Headless build arguments
+summary: Declares GN build flags for embedded resources, headless commands, and preferences support.

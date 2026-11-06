@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Vulkan C++ bindings unit test
+// summary: Unit test that loads the Vulkan loader or SwiftShader library and verifies instance creation and API version through the vulkan.hpp C++ bindings.
+// ---
+
 #include "testing/gtest/include/gtest/gtest.h"
 
 #include "base/command_line.h"

@@ -5,6 +5,12 @@
 // This header defines Fuchsia-specific Vulkan extensions that haven't been
 // upstreamed to the official Vulkan headers.
 
+// ---docerion
+// type: source
+// title: Fuchsia-specific Vulkan extension header
+// summary: Declares Fuchsia-specific Vulkan extensions that have not yet been upstreamed to the official Vulkan headers.
+// ---
+
 #ifndef GPU_VULKAN_FUCHSIA_VULKAN_FUCHSIA_EXT_H_
 #define GPU_VULKAN_FUCHSIA_VULKAN_FUCHSIA_EXT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VulkanImplementation interface header
+// summary: Declares the VulkanImplementation base class for platform-specific Vulkan surfaces, extensions, fences, semaphores, and GPU memory buffer import.
+// ---
+
 #ifndef GPU_VULKAN_VULKAN_IMPLEMENTATION_H_
 #define GPU_VULKAN_VULKAN_IMPLEMENTATION_H_
 

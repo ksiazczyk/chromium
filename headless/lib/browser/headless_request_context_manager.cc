@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessRequestContextManager implementation
+// summary: Implements the request context manager, configuring network contexts with proxy monitoring, cookies, user agent, accept language and cert verification.
+// ---
+
 #include "headless/lib/browser/headless_request_context_manager.h"
 
 #include "base/check_deref.h"

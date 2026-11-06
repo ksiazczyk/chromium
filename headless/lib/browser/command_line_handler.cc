@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Command line switch handling for headless browser options
+// summary: Parses headless command line switches such as deterministic mode, remote debugging port, proxy server, and window size into browser options.
+// ---
+
 #include "headless/lib/browser/command_line_handler.h"
 
 #include <string_view>

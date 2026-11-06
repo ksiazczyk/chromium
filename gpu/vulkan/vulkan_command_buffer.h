@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vulkan command buffer class declarations
+// summary: Declares VulkanCommandBuffer for recording and submitting primary and secondary Vulkan command buffers, plus the CommandBufferRecorderBase recording helper.
+// ---
+
 #ifndef GPU_VULKAN_VULKAN_COMMAND_BUFFER_H_
 #define GPU_VULKAN_VULKAN_COMMAND_BUFFER_H_
 

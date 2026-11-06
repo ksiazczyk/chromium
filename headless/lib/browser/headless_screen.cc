@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessScreen implementation
+// summary: Implements the headless display screen, creating a display list from a screen info spec and answering screen queries such as nearest display and cursor position.
+// ---
+
 #include "headless/lib/browser/headless_screen.h"
 
 #include <optional>

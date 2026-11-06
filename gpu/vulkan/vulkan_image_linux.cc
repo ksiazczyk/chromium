@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vulkan image Linux support
+// summary: Linux implementation that imports Vulkan images from native pixmap DMA-BUF handles, including DRM format modifier support.
+// ---
+
 #include "gpu/vulkan/vulkan_image.h"
 
 #include <tuple>

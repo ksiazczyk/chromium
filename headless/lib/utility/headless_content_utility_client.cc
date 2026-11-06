@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless content utility client implementation
+// summary: Implements HeadlessContentUtilityClient, registering the print compositor Mojo service for the utility process when printing is enabled.
+// ---
+
 #include "headless/lib/utility/headless_content_utility_client.h"
 
 #include "printing/buildflags/buildflags.h"

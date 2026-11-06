@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vulkan queue lock declarations
+// summary: Declares VulkanQueueLock and the VulkanQueueAutoLockMaybe scoped wrapper that lock the Vulkan queue via ANGLE EGL calls or a base lock.
+// ---
+
 #ifndef GPU_VULKAN_VULKAN_QUEUE_LOCK_H_
 #define GPU_VULKAN_VULKAN_QUEUE_LOCK_H_
 

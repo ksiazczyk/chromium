@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessScreenMac class header
+// summary: Declares the macOS-specific HeadlessScreenMac subclass that overrides nearest-display lookups using native views and applies an NSScreen swizzler.
+// ---
+
 #ifndef HEADLESS_LIB_BROWSER_HEADLESS_SCREEN_MAC_H_
 #define HEADLESS_LIB_BROWSER_HEADLESS_SCREEN_MAC_H_
 

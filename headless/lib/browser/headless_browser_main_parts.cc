@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessBrowserMainParts implementation
+// summary: Implements browser main loop stages, setting up clipboard, screen orientation, select file dialog, and starting or stopping the local DevTools HTTP handler.
+// ---
+
 #include "headless/lib/browser/headless_browser_main_parts.h"
 
 #include <memory.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Headless browser test utilities implementation
+// summary: Implements helpers for synchronous DevTools commands, script evaluation, load waiting and dictionary value checks in headless tests.
+// ---
+
 #include "headless/test/headless_browser_test_utils.h"
 
 #include <optional>

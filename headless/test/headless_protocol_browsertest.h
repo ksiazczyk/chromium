@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Headless protocol browser test base class header
+// summary: Declares HeadlessProtocolBrowserTest and macros for defining DevTools protocol tests driven by JavaScript scripts and expectation files.
+// ---
+
 #ifndef HEADLESS_TEST_HEADLESS_PROTOCOL_BROWSERTEST_H_
 #define HEADLESS_TEST_HEADLESS_PROTOCOL_BROWSERTEST_H_
 

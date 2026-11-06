@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Headless client flat protocol access browser test
+// summary: Browser test checking that a DevTools session can attach to a target and evaluate JavaScript in headless mode.
+// ---
+
 #include <memory>
 
 #include "base/functional/bind.h"

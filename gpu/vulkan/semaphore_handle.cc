@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SemaphoreHandle implementation
+// summary: Implements platform-specific duplication and conversion of Vulkan semaphore handles for POSIX, Windows and Fuchsia.
+// ---
+
 #include "gpu/vulkan/semaphore_handle.h"
 
 #include "base/logging.h"

@@ -1,0 +1,4 @@
+# Docerion header of headless_browser_test_mac.mm.
+type: test
+title: macOS screen coordinate conversion test
+summary: macOS-specific browser test checking headless custom screen size handling and Cocoa coordinate conversion.

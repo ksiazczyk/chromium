@@ -1,0 +1,4 @@
+# Docerion header of css_animation.html.
+type: test
+title: CSS animation test page
+summary: Test page with a flashing blue box that logs CSS animation start, iteration, and end events to the console.

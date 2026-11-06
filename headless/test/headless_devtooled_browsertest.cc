@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Headless DevTools-enabled browser test implementation
+// summary: Implements the HeadlessDevTooledBrowserTest base class that sets up web contents and attaches a DevTools client for tests.
+// ---
+
 #include "headless/test/headless_devtooled_browsertest.h"
 
 #include <memory>

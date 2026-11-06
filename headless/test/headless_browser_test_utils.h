@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Headless browser test utilities header
+// summary: Declares test helper functions and GMock matchers for DevTools commands, script evaluation and dictionary checks.
+// ---
+
 #ifndef HEADLESS_TEST_HEADLESS_BROWSER_TEST_UTILS_H_
 #define HEADLESS_TEST_HEADLESS_BROWSER_TEST_UTILS_H_
 

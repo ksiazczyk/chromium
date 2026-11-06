@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vulkan swap chain implementation
+// summary: Implements VulkanSwapChain, covering swap chain and swap image creation, image acquisition, sub-buffer presentation and semaphore cleanup tasks.
+// ---
+
 #include "gpu/vulkan/vulkan_swap_chain.h"
 
 #include "base/compiler_specific.h"

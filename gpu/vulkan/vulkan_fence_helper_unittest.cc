@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Vulkan fence helper unit tests
+// summary: Unit tests covering basic fence usage, cleanup callbacks, external fence submission and ordering of multiple callbacks in VulkanFenceHelper.
+// ---
+
 #include "testing/gtest/include/gtest/gtest.h"
 
 #include "base/functional/bind.h"

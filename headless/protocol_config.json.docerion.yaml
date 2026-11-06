@@ -1,0 +1,4 @@
+# Docerion header of protocol_config.json.
+type: config
+title: DevTools protocol generation config
+summary: Configures which DevTools protocol domains and commands are generated for the headless browser.

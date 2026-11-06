@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VulkanImplementation base class implementation
+// summary: Implements VulkanImplementation helpers, a CreateVulkanDeviceQueue factory, and external semaphore creation, import, and export.
+// ---
+
 #include "gpu/vulkan/vulkan_implementation.h"
 
 #include "base/functional/bind.h"

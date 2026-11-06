@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vulkan implementation factory dispatching per platform
+// summary: Implements gpu::CreateVulkanImplementation, returning the Ozone, Android, Win32, or Mac Vulkan implementation and asserting unsupported SwiftShader and protected memory options.
+// ---
+
 #include "gpu/vulkan/init/vulkan_factory.h"
 #include "build/build_config.h"
 

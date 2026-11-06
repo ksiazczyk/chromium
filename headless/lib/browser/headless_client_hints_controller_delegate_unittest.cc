@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Headless client hints controller delegate unit tests
+// summary: Unit tests for the headless client hints controller delegate, covering client hint persistence per origin and rejection of empty or insecure origins.
+// ---
+
 #include "headless/lib/browser/headless_client_hints_controller_delegate.h"
 #include "testing/gtest/include/gtest/gtest.h"
 #include "third_party/blink/public/common/user_agent/user_agent_metadata.h"

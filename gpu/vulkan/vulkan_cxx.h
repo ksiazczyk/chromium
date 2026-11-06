@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vulkan C++ bindings configuration header
+// summary: Configures the vulkan.hpp C++ bindings for Chromium, disabling exceptions and dynamic loading and setting gpu::VulkanFunctionPointers as the dispatcher.
+// ---
+
 #ifndef GPU_VULKAN_VULKAN_CXX_H_
 #define GPU_VULKAN_VULKAN_CXX_H_
 

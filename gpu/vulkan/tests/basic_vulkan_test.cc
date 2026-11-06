@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Basic Vulkan test fixture implementation
+// summary: Implements the BasicVulkanTest fixture, setting up and tearing down a native window, Vulkan implementation and device queue for Vulkan tests.
+// ---
+
 #include "gpu/vulkan/tests/basic_vulkan_test.h"
 
 #include "base/command_line.h"

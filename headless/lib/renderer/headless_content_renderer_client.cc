@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless content renderer client implementation
+// summary: Implements the headless renderer client, including a URL loader throttle provider for identity sign-in status and a video codec allowlist driven by command-line switches.
+// ---
+
 #include "headless/lib/renderer/headless_content_renderer_client.h"
 
 #include <memory>

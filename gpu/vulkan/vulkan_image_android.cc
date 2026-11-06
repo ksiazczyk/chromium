@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vulkan image Android support
+// summary: Android implementation that imports Vulkan images from Android hardware buffer handles, mapping AHB formats and usage flags to Vulkan equivalents.
+// ---
+
 #include "gpu/vulkan/vulkan_image.h"
 
 #include <android/hardware_buffer.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessContentMainDelegate implementation
+// summary: Implements the headless content main delegate, handling startup, logging, crash reporting, embedded resources, and process creation for browser, renderer, and utility processes.
+// ---
+
 #include "headless/lib/headless_content_main_delegate.h"
 
 #include <cstdint>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Headless printToPDF browser tests
+// summary: Browser tests verifying PDF generation via the Page.printToPDF DevTools command, checking page counts, page sizes and rendered PDF output.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

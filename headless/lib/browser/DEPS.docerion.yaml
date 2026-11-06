@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the headless browser directory
+summary: Defines allowed include paths for headless browser sources, with per-file exceptions for tests, platform code, and specific implementations.

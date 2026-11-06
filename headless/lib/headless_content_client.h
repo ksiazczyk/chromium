@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessContentClient class declaration
+// summary: Declares the HeadlessContentClient class implementing content::ContentClient with resource access and origin trial policy methods for headless Chromium.
+// ---
+
 #ifndef HEADLESS_LIB_HEADLESS_CONTENT_CLIENT_H_
 #define HEADLESS_LIB_HEADLESS_CONTENT_CLIENT_H_
 

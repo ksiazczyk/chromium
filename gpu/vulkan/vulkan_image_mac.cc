@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VulkanImage GPU memory buffer import stub for macOS
+// summary: Unimplemented macOS stub of VulkanImage::InitializeFromGpuMemoryBufferHandle that logs NOTIMPLEMENTED and returns false.
+// ---
+
 #include "gpu/vulkan/vulkan_image.h"
 
 #include "base/notimplemented.h"

@@ -1,0 +1,4 @@
+# Docerion header of lorem_ipsum.html.
+type: test
+title: Lorem ipsum page
+summary: Page filled with lorem ipsum paragraphs in 36px sans-serif text for testing text layout or extraction.

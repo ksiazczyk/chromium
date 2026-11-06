@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessPlatformEventSource class declaration
+// summary: Declares a stub platform event source whose main purpose is to prevent the default platform event source from being created.
+// ---
+
 #ifndef HEADLESS_LIB_BROWSER_HEADLESS_PLATFORM_EVENT_SOURCE_H_
 #define HEADLESS_LIB_BROWSER_HEADLESS_PLATFORM_EVENT_SOURCE_H_
 

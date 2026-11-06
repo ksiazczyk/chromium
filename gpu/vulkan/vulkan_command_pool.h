@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vulkan command pool class declaration
+// summary: Declares VulkanCommandPool, which manages a VkCommandPool on a Vulkan device queue and creates primary and secondary command buffers.
+// ---
+
 #ifndef GPU_VULKAN_VULKAN_COMMAND_POOL_H_
 #define GPU_VULKAN_VULKAN_COMMAND_POOL_H_
 

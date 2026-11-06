@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Headless command handler browser tests
+// summary: Browser tests exercising the headless command handler, including screenshot and print-to-PDF command processing.
+// ---
+
 #include <cmath>
 #include <optional>
 #include <string>

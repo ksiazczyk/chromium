@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android native window helper
+// summary: Implements CreateNativeWindow and DestroyNativeWindow on Android using a SurfaceTexture-backed ANativeWindow.
+// ---
+
 #include "gpu/vulkan/tests/native_window.h"
 
 #include "ui/gl/android/scoped_a_native_window.h"

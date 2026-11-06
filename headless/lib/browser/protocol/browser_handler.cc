@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserHandler implementation for the Browser domain
+// summary: Implements Browser CDP domain commands such as window bounds queries, SetWindowBounds, Close and SetDockTile for the headless browser.
+// ---
+
 #include "headless/lib/browser/protocol/browser_handler.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessBrowserMainParts class declaration
+// summary: Declares the HeadlessBrowserMainParts class that hooks headless browser setup, message loop, and teardown into the content BrowserMainParts lifecycle.
+// ---
+
 #ifndef HEADLESS_LIB_BROWSER_HEADLESS_BROWSER_MAIN_PARTS_H_
 #define HEADLESS_LIB_BROWSER_HEADLESS_BROWSER_MAIN_PARTS_H_
 

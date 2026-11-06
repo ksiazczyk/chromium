@@ -1,0 +1,4 @@
+# Docerion header of structured_doc.html.
+type: test
+title: Structured document test page
+summary: Test page with headings, list, table, link, image and multilingual text for DOM tree and serialization tests.

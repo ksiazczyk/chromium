@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessContentClient implementation
+// summary: Implements the headless content client, supplying localized strings, data resources, images, and a thread-safe origin trial policy to the Chromium content layer.
+// ---
+
 #include "headless/lib/headless_content_client.h"
 
 #include "base/memory/ref_counted_memory.h"

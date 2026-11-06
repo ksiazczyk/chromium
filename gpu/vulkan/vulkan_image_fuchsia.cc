@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vulkan image Fuchsia stub
+// summary: Fuchsia placeholder whose GPU memory buffer import path is not implemented and always returns false.
+// ---
+
 #include "gpu/vulkan/vulkan_image.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessPlatformDelegate interface
+// summary: Declares the HeadlessPlatformDelegate interface for platform-specific browser initialization, web contents setup, bounds and compositor access.
+// ---
+
 #ifndef HEADLESS_LIB_BROWSER_HEADLESS_PLATFORM_DELEGATE_H_
 #define HEADLESS_LIB_BROWSER_HEADLESS_PLATFORM_DELEGATE_H_
 

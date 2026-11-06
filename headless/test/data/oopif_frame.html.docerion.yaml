@@ -1,0 +1,4 @@
+# Docerion header of oopif_frame.html.
+type: test
+title: OOPIF frame test page
+summary: HTML fixture with a full-size red div, likely used as frame content for out-of-process iframe tests.

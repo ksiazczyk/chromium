@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vulkan surface implementation
+// summary: Implements VulkanSurface, managing VkSurfaceKHR presentation, preferred surface formats, transform conversion, swap chain creation and VSync handling.
+// ---
+
 #include "gpu/vulkan/vulkan_surface.h"
 
 #include <vulkan/vulkan.h>

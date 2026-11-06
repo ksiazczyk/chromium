@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Vulkan build targets and configs (BUILD.gn)
+summary: Defines GN build targets, configs and buildflag headers for the Vulkan wrapper library in gpu/vulkan.

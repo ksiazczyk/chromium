@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header declaring CreateVulkanImplementation
+// summary: Declares the gpu::CreateVulkanImplementation factory function with default flags for SwiftShader, protected memory, and native forcing, exported from the VULKAN_INIT component.
+// ---
+
 #ifndef GPU_VULKAN_INIT_VULKAN_FACTORY_H_
 #define GPU_VULKAN_INIT_VULKAN_FACTORY_H_
 

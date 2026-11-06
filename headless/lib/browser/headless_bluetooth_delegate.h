@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the headless Bluetooth delegate
+// summary: Declares HeadlessBluetoothDelegate, a BluetoothDelegate that provides a basic chooser and rejects Bluetooth device permissions.
+// ---
+
 #ifndef HEADLESS_LIB_BROWSER_HEADLESS_BLUETOOTH_DELEGATE_H_
 #define HEADLESS_LIB_BROWSER_HEADLESS_BLUETOOTH_DELEGATE_H_
 

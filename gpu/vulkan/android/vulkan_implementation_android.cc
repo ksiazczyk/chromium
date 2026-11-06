@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Vulkan implementation
+// summary: Implements VulkanImplementationAndroid with instance initialization, Android surface creation, device extension lists, and semaphore and image handling.
+// ---
+
 #include "gpu/vulkan/android/vulkan_implementation_android.h"
 
 #include "base/files/file_path.h"

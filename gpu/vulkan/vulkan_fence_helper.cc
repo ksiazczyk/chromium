@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vulkan fence helper implementation
+// summary: Implements fence submission tracking and deferred cleanup tasks that run once their associated Vulkan fences have signaled.
+// ---
+
 #include "gpu/vulkan/vulkan_fence_helper.h"
 
 #include "base/functional/bind.h"

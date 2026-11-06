@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VulkanSurfaceWin32 implementation
+// summary: Implements the Win32 Vulkan surface using hidden toplevel and child windows plus a shared window thread that runs their message loop.
+// ---
+
 #include "gpu/vulkan/win32/vulkan_surface_win32.h"
 
 #include <windows.h>

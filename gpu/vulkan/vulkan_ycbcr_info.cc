@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VulkanYCbCrInfo implementation
+// summary: Implements the VulkanYCbCrInfo constructor with format validation and serializes its YCbCr conversion fields into a traced value.
+// ---
+
 #include "gpu/vulkan/vulkan_ycbcr_info.h"
 
 #include "base/check.h"

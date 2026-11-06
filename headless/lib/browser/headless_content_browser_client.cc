@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless content browser client implementation
+// summary: Implements the content layer browser client for headless mode, wiring browser main parts, DevTools, certificate handling, command line switches and platform-specific behavior.
+// ---
+
 #include "headless/lib/browser/headless_content_browser_client.h"
 
 #include <memory>

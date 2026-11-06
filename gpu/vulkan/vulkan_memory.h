@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VulkanMemory device memory wrapper header
+// summary: Declares the VulkanMemory class that allocates VkDeviceMemory and exports platform-specific external memory handles for POSIX, Windows and Fuchsia.
+// ---
+
 #ifndef GPU_VULKAN_VULKAN_MEMORY_H_
 #define GPU_VULKAN_VULKAN_MEMORY_H_
 

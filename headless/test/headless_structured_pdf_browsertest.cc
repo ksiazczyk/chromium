@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Headless structured PDF browser tests
+// summary: Parameterized browser tests that print structured HTML documents to tagged PDFs and compare their structure trees against expected text files.
+// ---
+
 #include <algorithm>
 #include <optional>
 #include <string>

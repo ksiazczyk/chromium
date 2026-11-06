@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessScreenOrientationDelegate header
+// summary: Declares the headless ScreenOrientationDelegate that always supports the orientation provider and handles lock and unlock requests for web contents.
+// ---
+
 #ifndef HEADLESS_LIB_BROWSER_HEADLESS_SCREEN_ORIENTATION_DELEGATE_H_
 #define HEADLESS_LIB_BROWSER_HEADLESS_SCREEN_ORIENTATION_DELEGATE_H_
 

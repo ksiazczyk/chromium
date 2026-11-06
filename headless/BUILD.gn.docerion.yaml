@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Headless Chromium build rules
+summary: GN build file defining targets, resource packs, and compile configs for the headless Chromium component.

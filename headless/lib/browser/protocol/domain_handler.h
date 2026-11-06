@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DomainHandler base interface
+// summary: Defines the abstract DomainHandler base class that every CDP domain handler implements with Wire and Disable methods.
+// ---
+
 #ifndef HEADLESS_LIB_BROWSER_PROTOCOL_DOMAIN_HANDLER_H_
 #define HEADLESS_LIB_BROWSER_PROTOCOL_DOMAIN_HANDLER_H_
 

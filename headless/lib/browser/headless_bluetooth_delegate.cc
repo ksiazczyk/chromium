@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth delegate implementation for headless shell
+// summary: Implements the headless Bluetooth delegate, returning a basic chooser for render frames.
+// ---
+
 #include "headless/lib/browser/headless_bluetooth_delegate.h"
 
 #include "content/public/browser/render_frame_host.h"

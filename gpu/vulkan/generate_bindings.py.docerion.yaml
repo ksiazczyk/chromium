@@ -1,0 +1,4 @@
+# Docerion header of generate_bindings.py.
+type: script
+title: Vulkan function pointer bindings generator
+summary: Code generator that produces Vulkan function pointer bindings from the vk.xml registry for vulkan_function_pointers.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Generate C++ arrays from embedded data files
+# summary: Python build tool that reads a binary data file and emits a C++ header and source exposing its bytes as a base::span constant in a given namespace.
+# ---
+
 import argparse
 import sys
 import os

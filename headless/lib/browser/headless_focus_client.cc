@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless focus client implementation
+// summary: Implements an aura focus client for headless mode that tracks the focused window and notifies focus change observers.
+// ---
+
 #include "headless/lib/browser/headless_focus_client.h"
 
 #include "base/observer_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vulkan image header
+// summary: Declares VulkanImage, a Vulkan image wrapper with memory planes and platform-specific external memory handle export.
+// ---
+
 #ifndef GPU_VULKAN_VULKAN_IMAGE_H_
 #define GPU_VULKAN_VULKAN_IMAGE_H_
 

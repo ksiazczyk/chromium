@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EmulationHandler implementation for screen emulation
+// summary: Implements Emulation domain commands that query, add, update and remove virtual screens using display information in headless mode.
+// ---
+
 #include "headless/lib/browser/protocol/emulation_handler.h"
 
 #include <optional>

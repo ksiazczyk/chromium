@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia Vulkan memory allocator declaration
+// summary: Declares SkiaVulkanMemoryAllocator, which adapts Vulkan Memory Allocator allocations to Skia's allocator interface.
+// ---
+
 #ifndef GPU_VULKAN_SKIA_VK_MEMORY_ALLOCATOR_IMPL_H_
 #define GPU_VULKAN_SKIA_VK_MEMORY_ALLOCATOR_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Basic Vulkan test fixture header
+// summary: Declares the BasicVulkanTest gtest fixture with accessors for the Vulkan implementation, device queue, device, queue and swapchain support.
+// ---
+
 #ifndef GPU_VULKAN_TESTS_BASIC_VULKAN_TEST_H_
 #define GPU_VULKAN_TESTS_BASIC_VULKAN_TEST_H_
 

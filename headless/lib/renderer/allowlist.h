@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Allowlist class declaration
+// summary: Declares the exported headless Allowlist class that checks strings against a comma-separated allow and deny list with a default-allow setting.
+// ---
+
 #ifndef HEADLESS_LIB_RENDERER_ALLOWLIST_H_
 #define HEADLESS_LIB_RENDERER_ALLOWLIST_H_
 

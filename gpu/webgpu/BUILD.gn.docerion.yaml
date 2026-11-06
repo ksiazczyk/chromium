@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the gpu/webgpu common source set
+summary: GN build definition for a common source set containing callback.h and dawn_commit_hash.h with a dependency on //base.

@@ -1,0 +1,4 @@
+# Docerion header of request_storage_quota.html.
+type: test
+title: Storage quota request test page
+summary: Test page whose script requests persistent storage quota via the webkitPersistentStorage API and logs success.

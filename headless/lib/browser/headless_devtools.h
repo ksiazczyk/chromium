@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless DevTools handler declarations
+// summary: Declares functions to start and stop the local DevTools HTTP handler on the loopback interface based on the browser's configured options.
+// ---
+
 #ifndef HEADLESS_LIB_BROWSER_HEADLESS_DEVTOOLS_H_
 #define HEADLESS_LIB_BROWSER_HEADLESS_DEVTOOLS_H_
 

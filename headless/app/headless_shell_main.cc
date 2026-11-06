@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless shell main entry point
+// summary: Program entry point that initializes platform-specific sandbox settings and launches the headless shell.
+// ---
+
 #include "build/build_config.h"
 #include "headless/public/headless_shell.h"
 

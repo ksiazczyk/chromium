@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Headless DevTools protocol browser test implementation
+// summary: Implements the headless protocol browser test base that runs JavaScript test scripts through DevTools and compares results against expectation files.
+// ---
+
 #include "headless/test/headless_protocol_browsertest.h"
 
 #include "base/base64.h"

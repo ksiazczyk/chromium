@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageHandler header for the Page protocol domain
+// summary: Declares the PageHandler class, which implements the Page DevTools domain backend and exposes the PrintToPDF command for headless web contents.
+// ---
+
 #ifndef HEADLESS_LIB_BROWSER_PROTOCOL_PAGE_HANDLER_H_
 #define HEADLESS_LIB_BROWSER_PROTOCOL_PAGE_HANDLER_H_
 

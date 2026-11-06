@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the gpu/vulkan directory
+summary: Lists the owner responsible for reviewing changes to the gpu/vulkan directory.

@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Headless common metadata
+summary: Declares the bug tracker component, team email, and Buganizer ID for the headless directory.

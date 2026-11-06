@@ -1,0 +1,4 @@
+# Docerion header of headless_content_main_delegate_mac.mm.
+type: source
+title: macOS platform setup for the headless main delegate
+summary: Objective-C++ macOS hook that forces the HeadlessShellCrApplication NSApplication subclass and hides the dock and menu bar before browser main runs.

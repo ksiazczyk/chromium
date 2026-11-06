@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VulkanImplementationWin32 implementation
+// summary: 'Implements the Win32 Vulkan backend: initializes the Vulkan instance with Win32 surface extensions, creates view surfaces, and lists required and optional device extensions.'
+// ---
+
 #include "gpu/vulkan/win32/vulkan_implementation_win32.h"
 
 #include <Windows.h>
