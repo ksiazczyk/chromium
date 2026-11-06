@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentHandlerNavigationThrottle class declaration
+// summary: Declares a navigation throttle that prevents payment handler WebContents from opening pages of certain categories, such as PDFs.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_PAYMENT_HANDLER_NAVIGATION_THROTTLE_H_
 #define COMPONENTS_PAYMENTS_CONTENT_PAYMENT_HANDLER_NAVIGATION_THROTTLE_H_
 

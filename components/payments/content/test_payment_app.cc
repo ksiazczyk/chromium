@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test payment app
+// summary: Fake payment app implementation that returns canned instrument details or errors for use in payment request unit tests.
+// ---
+
 #include "components/payments/content/test_payment_app.h"
 
 namespace payments {

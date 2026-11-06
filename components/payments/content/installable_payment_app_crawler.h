@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstallablePaymentAppCrawler declaration
+// summary: Declares the crawler that fetches payment method and web app manifests to find installable payment apps, plus the RefetchedMetadata struct and crawling modes.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_INSTALLABLE_PAYMENT_APP_CRAWLER_H_
 #define COMPONENTS_PAYMENTS_CONTENT_INSTALLABLE_PAYMENT_APP_CRAWLER_H_
 

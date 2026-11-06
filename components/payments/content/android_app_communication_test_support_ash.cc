@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ash Android app communication test support
+// summary: Chrome OS Ash implementation of AndroidAppCommunicationTestSupport using the ARC payment app bridge test support and a mock Mojo instance.
+// ---
+
 #include <utility>
 
 #include "chromeos/ash/experiences/arc/overlay/test/test_arc_overlay_manager.h"

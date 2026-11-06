@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub Android app communication test support
+// summary: Provides a no-op stub implementation of the Android app communication test support for platforms where Android payment apps are not supported.
+// ---
+
 #include "components/payments/content/android_app_communication_test_support.h"
 
 #include <utility>

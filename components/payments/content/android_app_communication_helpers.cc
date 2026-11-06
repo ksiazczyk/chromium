@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android app communication helpers
+// summary: Provides callbacks and builders that convert Chrome OS payment app Mojo responses into Android payment app results and parameters.
+// ---
+
 #include "components/payments/content/android_app_communication_helpers.h"
 
 #include "chromeos/components/payments/mojom/payment_app.mojom.h"

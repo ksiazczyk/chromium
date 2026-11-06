@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment response helper unit tests
+// summary: Unit tests for PaymentResponseHelper covering payment response generation, shipping address normalization, and user gesture behavior using test payment apps and delegates.
+// ---
+
 #include "components/payments/content/payment_response_helper.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SPC transaction mode enum
+// summary: Defines the SPCTransactionMode enum listing WebDriver automation modes for the secure payment confirmation UX, such as auto accept and auto reject.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_SECURE_PAYMENT_CONFIRMATION_TRANSACTION_MODE_H_
 #define COMPONENTS_PAYMENTS_CONTENT_SECURE_PAYMENT_CONFIRMATION_TRANSACTION_MODE_H_
 

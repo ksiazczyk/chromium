@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock WebPaymentsWebDataService implementation
+// summary: Implements the mock WebPaymentsWebDataService and WebDataServiceWrapper constructors used by payment tests.
+// ---
+
 #include "components/payments/content/mock_web_payments_web_data_service.h"
 
 #include "base/files/file_path.h"

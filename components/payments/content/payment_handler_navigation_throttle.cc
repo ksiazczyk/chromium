@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment handler navigation throttle implementation
+// summary: Blocks payment handler WebContents from navigating to responses with disallowed MIME types such as PDF to prevent exploitation of edge cases.
+// ---
+
 #include "components/payments/content/payment_handler_navigation_throttle.h"
 
 #include <cstddef>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome OS implementation of Android app communication test support
+// summary: Implements the Chrome OS variant of the Android app communication test support, mocking payment app instance queries, ready-to-pay checks and invocations.
+// ---
+
 #include "components/payments/content/android_app_communication_test_support_chrome_os.h"
 
 #include <utility>

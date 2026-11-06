@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentRequest class header
+// summary: Declares PaymentRequest, which ties the renderer's PaymentRequest Mojo API to the desktop payment UI via spec, state, and delegate objects.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_PAYMENT_REQUEST_H_
 #define COMPONENTS_PAYMENTS_CONTENT_PAYMENT_REQUEST_H_
 

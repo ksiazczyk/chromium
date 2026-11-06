@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment manifest downloader unit tests
+// summary: Unit tests for PaymentManifestDownloader covering HTTP response codes, Link headers, redirects, empty bodies, and error logging behavior.
+// ---
+
 #include "components/payments/content/payment_manifest_downloader.h"
 
 #include <memory>

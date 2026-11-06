@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock SecurePaymentConfirmationCredentialFinder
+// summary: Defines a gmock mock of SecurePaymentConfirmationCredentialFinder used to fake credential lookups in payment tests.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_MOCK_SECURE_PAYMENT_CONFIRMATION_CREDENTIAL_FINDER_H_
 #define COMPONENTS_PAYMENTS_CONTENT_MOCK_SECURE_PAYMENT_CONFIRMATION_CREDENTIAL_FINDER_H_
 

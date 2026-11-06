@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaymentRequestState unit tests
+// summary: Unit tests for PaymentRequestState using test payment app factories, personal data manager and delegates to verify state behavior.
+// ---
+
 #include "components/payments/content/payment_request_state.h"
 
 #include <string>

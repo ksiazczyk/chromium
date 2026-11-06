@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure payment confirmation request validation
+// summary: Validates renderer-supplied secure payment confirmation requests, including RP ID, instrument details, payee origin, timeout and locale matching.
+// ---
+
 #include "components/payments/content/secure_payment_confirmation_validation.h"
 
 #include <stdint.h>

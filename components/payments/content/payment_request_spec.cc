@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentRequestSpec implementation
+// summary: Implements PaymentRequestSpec, which holds and validates the merchant-specified payment options, details and method data and supports updates and retry.
+// ---
+
 #include "components/payments/content/payment_request_spec.h"
 
 #include <algorithm>

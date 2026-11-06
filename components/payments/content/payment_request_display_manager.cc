@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment request display manager implementation
+// summary: Implements the display manager that allows only one Payment Request UI per profile and records TryShow outcome metrics.
+// ---
+
 #include "components/payments/content/payment_request_display_manager.h"
 
 #include <optional>

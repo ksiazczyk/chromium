@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure payment confirmation app factory implementation
+// summary: Implements the factory that finds enrolled secure payment confirmation credentials, downloads instrument icons, and creates SecurePaymentConfirmationApp instances.
+// ---
+
 #include "components/payments/content/secure_payment_confirmation_app_factory.h"
 
 #include <stdint.h>

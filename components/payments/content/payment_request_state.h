@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentRequestState class header
+// summary: Declares PaymentRequestState with observer and delegate interfaces for payment apps, responses and selected shipping or payer information.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_PAYMENT_REQUEST_STATE_H_
 #define COMPONENTS_PAYMENTS_CONTENT_PAYMENT_REQUEST_STATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeveloperConsoleLogger class declaration
+// summary: Declares a logger that reports payment warnings and errors to the developer console of the associated WebContents.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_DEVELOPER_CONSOLE_LOGGER_H_
 #define COMPONENTS_PAYMENTS_CONTENT_DEVELOPER_CONSOLE_LOGGER_H_
 

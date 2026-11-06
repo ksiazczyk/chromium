@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentAppService for all payment app types
+// summary: Declares PaymentAppService, which creates payment apps of all types by invoking its registered factories.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_PAYMENT_APP_SERVICE_H_
 #define COMPONENTS_PAYMENTS_CONTENT_PAYMENT_APP_SERVICE_H_
 

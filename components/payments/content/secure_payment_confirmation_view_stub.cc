@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure payment confirmation view stub
+// summary: Stub implementation of the secure payment confirmation view whose Create method returns no view.
+// ---
+
 #include "components/payments/content/secure_payment_confirmation_view.h"
 
 namespace payments {

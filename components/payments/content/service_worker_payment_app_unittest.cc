@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker payment app unit tests
+// summary: Unit tests for the service worker payment app, covering payment details modifiers, method data and app invocation behaviour in the payments content layer.
+// ---
+
 #include "components/payments/content/service_worker_payment_app.h"
 
 #include <memory>

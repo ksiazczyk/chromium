@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment request display manager unit tests
+// summary: Tests PaymentRequestDisplayManager TryShow outcomes and histogram logging for success, same-tab, different-tab, and null delegate cases.
+// ---
+
 #include "components/payments/content/payment_request_display_manager.h"
 
 #include <optional>

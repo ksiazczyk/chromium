@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment event response utility implementation
+// summary: Maps canmakepayment and paymentrequest event response types to developer-facing error strings and PaymentErrorReason values.
+// ---
+
 #include "components/payments/content/payment_event_response_util.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock AndroidAppCommunication for tests
+// summary: Gmock mock of AndroidAppCommunication that stubs app description lookup, ready-to-pay checks, and payment app invocation for tests.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_MOCK_ANDROID_APP_COMMUNICATION_H_
 #define COMPONENTS_PAYMENTS_CONTENT_MOCK_ANDROID_APP_COMMUNICATION_H_
 

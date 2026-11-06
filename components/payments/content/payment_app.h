@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentApp base class for Payment Request apps
+// summary: Declares the PaymentApp base class that represents a payment app in Payment Request, including app types, delegate, and entity logos.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_PAYMENT_APP_H_
 #define COMPONENTS_PAYMENTS_CONTENT_PAYMENT_APP_H_
 

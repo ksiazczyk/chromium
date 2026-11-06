@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome OS Ash Android app communication
+// summary: Implements AndroidAppCommunication on Chrome OS by invoking TWA Android payment apps through the ARC payment app bridge.
+// ---
+
 #include <utility>
 
 #include "chromeos/ash/experiences/arc/overlay/arc_overlay_manager.h"

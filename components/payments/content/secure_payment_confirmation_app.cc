@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure payment confirmation app implementation
+// summary: Implements the SecurePaymentConfirmationApp payment app, which invokes WebAuthn user verification, shows the confirmation UI, records metrics, and builds the payment response.
+// ---
+
 #include "components/payments/content/secure_payment_confirmation_app.h"
 
 #include <cstdint>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment UI observer interface
+// summary: Defines the PaymentUIObserver interface that cross-platform tests use to observe when the payment UI is displayed.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_PAYMENT_UI_OBSERVER_H_
 #define COMPONENTS_PAYMENTS_CONTENT_PAYMENT_UI_OBSERVER_H_
 

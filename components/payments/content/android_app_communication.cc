@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidAppCommunication browser-context accessor
+// summary: Implements GetForBrowserContext to create and store a per-BrowserContext AndroidAppCommunication instance used for Android payment app flows.
+// ---
+
 #include "components/payments/content/android_app_communication.h"
 
 #include "content/public/browser/browser_context.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android payment app factory implementation
+// summary: Implements the factory that finds Android payment apps for trusted web activity packages and creates AndroidPaymentApp instances via app communication.
+// ---
+
 #include "components/payments/content/android_payment_app_factory.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker payment app finder test API
+// summary: Test API that injects a manifest downloader and lets tests ignore payment methods in the service worker payment app finder.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_SERVICE_WORKER_PAYMENT_APP_FINDER_TEST_API_H_
 #define COMPONENTS_PAYMENTS_CONTENT_SERVICE_WORKER_PAYMENT_APP_FINDER_TEST_API_H_
 

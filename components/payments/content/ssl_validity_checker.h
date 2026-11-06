@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL validity checker header
+// summary: Declares the SslValidityChecker helpers that report invalid SSL certificate errors and validate pages displayed in payment handler windows.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_SSL_VALIDITY_CHECKER_H_
 #define COMPONENTS_PAYMENTS_CONTENT_SSL_VALIDITY_CHECKER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaymentRequestWebContentsManager unit tests
+// summary: Unit tests verifying SPC transaction mode propagation and activationless show tracking across simulated navigations.
+// ---
+
 #include "components/payments/content/payment_request_web_contents_manager.h"
 
 #include "base/memory/raw_ptr.h"

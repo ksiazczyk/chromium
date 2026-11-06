@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecurePaymentConfirmationService implementation
+// summary: Implements the Mojo SecurePaymentConfirmationService, checking SPC availability and capabilities and storing or creating payment credentials.
+// ---
+
 #include "components/payments/content/secure_payment_confirmation_service.h"
 
 #include <optional>

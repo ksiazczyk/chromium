@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentRequestWebContentsManager implementation
+// summary: Implements a WebContents-scoped manager that tracks activationless PaymentRequest shows and resets that state on user-initiated navigation.
+// ---
+
 #include "components/payments/content/payment_request_web_contents_manager.h"
 
 #include "base/logging.h"

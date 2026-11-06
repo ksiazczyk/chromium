@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android app communication helper declarations
+// summary: Declares response-handling callbacks, payment parameter creation, and test app creation helpers for Android app communication.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_ANDROID_APP_COMMUNICATION_HELPERS_H_
 #define COMPONENTS_PAYMENTS_CONTENT_ANDROID_APP_COMMUNICATION_HELPERS_H_
 

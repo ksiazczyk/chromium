@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android payment app factory declaration
+// summary: Declares AndroidPaymentAppFactory, a PaymentAppFactory that retrieves Android payment apps using the given Android app communication channel.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_ANDROID_PAYMENT_APP_FACTORY_H_
 #define COMPONENTS_PAYMENTS_CONTENT_ANDROID_PAYMENT_APP_FACTORY_H_
 

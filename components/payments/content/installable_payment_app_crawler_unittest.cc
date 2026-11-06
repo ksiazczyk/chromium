@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Installable payment app crawler unit tests
+// summary: Unit tests for the installable payment app crawler that simulate manifest downloads, payment handler permissions, and web app manifest validation.
+// ---
+
 #include "components/payments/content/installable_payment_app_crawler.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock ContentPaymentRequestDelegate for tests
+// summary: Gmock mock of ContentPaymentRequestDelegate that stubs dialog, autofill, preference, and authenticator interactions for payment request tests.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_MOCK_CONTENT_PAYMENT_REQUEST_DELEGATE_H_
 #define COMPONENTS_PAYMENTS_CONTENT_MOCK_CONTENT_PAYMENT_REQUEST_DELEGATE_H_
 

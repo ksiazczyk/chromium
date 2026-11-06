@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InitializationTask interface
+// summary: Defines an observer-based interface for asynchronous tasks that report when they have finished initializing, with usage examples in comments.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_INITIALIZATION_TASK_H_
 #define COMPONENTS_PAYMENTS_CONTENT_INITIALIZATION_TASK_H_
 
