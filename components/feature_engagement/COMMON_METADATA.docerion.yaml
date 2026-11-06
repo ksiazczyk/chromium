@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common issue tracker metadata
+summary: Sets the Monorail component and public Buganizer component ID used for issue tracking of the feature engagement directory.

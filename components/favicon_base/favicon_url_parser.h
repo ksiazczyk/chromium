@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon URL parser declarations
+// summary: Declares the ParsedFaviconPath struct and parsing interface for favicon request paths, covering page and icon URLs, size, scale factor, and fallback options.
+// ---
+
 #ifndef COMPONENTS_FAVICON_BASE_FAVICON_URL_PARSER_H_
 #define COMPONENTS_FAVICON_BASE_FAVICON_URL_PARSER_H_
 

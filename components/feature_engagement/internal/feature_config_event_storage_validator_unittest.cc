@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FeatureConfigEventStorageValidator unit tests
+// summary: Unit tests verifying which events are stored and kept based on configured storage times in used, trigger, and event config entries.
+// ---
+
 #include "components/feature_engagement/internal/feature_config_event_storage_validator.h"
 
 #include <string>

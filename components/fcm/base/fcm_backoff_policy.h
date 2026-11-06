@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FCM backoff policy header
+// summary: Declares GetBackoffPolicy in the fcm namespace, which returns the backoff policy applied to all FCM/GCM network requests.
+// ---
+
 #ifndef COMPONENTS_FCM_BASE_FCM_BACKOFF_POLICY_H_
 #define COMPONENTS_FCM_BASE_FCM_BACKOFF_POLICY_H_
 

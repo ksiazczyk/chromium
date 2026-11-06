@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventStorageMigration class declaration
+// summary: Declares EventStorageMigration, which migrates event storage from the profile database to the device database with append-only status tracking.
+// ---
+
 #ifndef COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_EVENT_STORAGE_MIGRATION_H_
 #define COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_EVENT_STORAGE_MIGRATION_H_
 

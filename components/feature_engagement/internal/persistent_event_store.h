@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent event store class declaration
+// summary: Declares PersistentEventStore, an EventStore implementation that persists feature engagement events to disk through a leveldb_proto ProtoDatabase and is write-only after the initial load.
+// ---
+
 #ifndef COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_PERSISTENT_EVENT_STORE_H_
 #define COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_PERSISTENT_EVENT_STORE_H_
 

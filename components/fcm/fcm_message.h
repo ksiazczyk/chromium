@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FCM message struct
+// summary: Declares the FcmMessage struct holding a push message's key-value data payload, raw binary payload and message ID.
+// ---
+
 #ifndef COMPONENTS_FCM_FCM_MESSAGE_H_
 #define COMPONENTS_FCM_FCM_MESSAGE_H_
 

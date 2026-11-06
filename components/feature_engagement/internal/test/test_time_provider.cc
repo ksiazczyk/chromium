@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test time provider implementation
+// summary: Implements a controllable TimeProvider that returns a test-set current day and time for feature engagement tests.
+// ---
+
 #include "components/feature_engagement/internal/test/test_time_provider.h"
 
 namespace feature_engagement {

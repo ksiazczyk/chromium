@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FeatureConfigConditionValidator unit tests
+// summary: Extensive unit tests covering condition evaluation for feature and group configs, session rate impact, blocking, availability, and priority notifications.
+// ---
+
 #include "components/feature_engagement/internal/feature_config_condition_validator.h"
 
 #include <map>

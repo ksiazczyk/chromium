@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FCM driver for Android
+// summary: Declares FcmDriverAndroid, the Android FcmDriver implementation that receives installation ID refreshes, messages and deletions from Java via JNI.
+// ---
+
 #ifndef COMPONENTS_FCM_FCM_DRIVER_ANDROID_H_
 #define COMPONENTS_FCM_FCM_DRIVER_ANDROID_H_
 

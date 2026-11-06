@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Once condition validator implementation
+// summary: Implements a condition validator that lets each feature meet conditions at most once per session, including snooze and priority notification handling.
+// ---
+
 #include "components/feature_engagement/internal/once_condition_validator.h"
 
 #include <optional>

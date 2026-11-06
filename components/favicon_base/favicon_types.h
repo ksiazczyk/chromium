@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon result types and IconType enum
+// summary: Declares the IconType enum and result structs for favicon images, raw bitmaps, and large icon lookups with fallback styles.
+// ---
+
 #ifndef COMPONENTS_FAVICON_BASE_FAVICON_TYPES_H_
 #define COMPONENTS_FAVICON_BASE_FAVICON_TYPES_H_
 

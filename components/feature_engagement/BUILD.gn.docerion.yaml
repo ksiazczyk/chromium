@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Feature engagement build targets
+summary: GN build file defining the feature_engagement group targets, unit test aggregation, the gtest filter data dependency, and Android Java targets.

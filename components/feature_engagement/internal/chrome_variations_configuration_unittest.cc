@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome variations configuration unit tests
+// summary: Unit tests for parsing in-product help feature and group configurations from Chrome field trials.
+// ---
+
 #include "components/feature_engagement/internal/chrome_variations_configuration.h"
 
 #include <map>

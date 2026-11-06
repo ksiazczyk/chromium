@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FCM stats recorder implementation header
+// summary: Declares FcmStatsRecorderImpl, which records GCM/FCM checkin, connection, registration and messaging activity for debugging, with recording toggleable via set_is_recording.
+// ---
+
 #ifndef COMPONENTS_FCM_ENGINE_FCM_STATS_RECORDER_IMPL_H_
 #define COMPONENTS_FCM_ENGINE_FCM_STATS_RECORDER_IMPL_H_
 

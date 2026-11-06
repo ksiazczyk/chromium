@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: FCM engine build targets
+summary: GN build file defining the FCM engine static library and its unit test source set with their source files and dependencies.

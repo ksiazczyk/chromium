@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for the favicon_base directory
+summary: Delegates code ownership for this directory to the owners of the components/favicon directory.

@@ -1,0 +1,4 @@
+# Docerion header of PRESUBMIT_test.py.
+type: test
+title: Tests for the presubmit script
+summary: Unit tests for PRESUBMIT.py that verify its sorting and style checks using mock input, output, and file APIs.

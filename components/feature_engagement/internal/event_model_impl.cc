@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventModelImpl implementation
+// summary: Implements the default event model, loading events from the event store and handling event counts, increments, clearing, and snooze tracking.
+// ---
+
 #include "components/feature_engagement/internal/event_model_impl.h"
 
 #include <map>

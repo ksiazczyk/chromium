@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the fcm component
+summary: Delegates ownership review of the fcm directory to the owners listed in components/sync/OWNERS.

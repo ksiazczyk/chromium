@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for favicon_base
+summary: Defines allowed include directories for the component and forbids content includes because favicon_base is also used on iOS.

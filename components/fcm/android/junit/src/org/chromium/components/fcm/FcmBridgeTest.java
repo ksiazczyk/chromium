@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FcmBridgeTest
+// summary: Robolectric unit tests verifying that FcmBridge forwards received messages, deleted-message events, and installation ID fetches to the native layer via mocked JNI.
+// ---
+
 package org.chromium.components.fcm;
 
 import static org.junit.Assert.assertNotNull;

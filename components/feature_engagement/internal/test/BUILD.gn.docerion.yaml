@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Feature engagement internal test support build file
+summary: Defines the testonly test_support source set with event and time test utilities for feature engagement unit tests.

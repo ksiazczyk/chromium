@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Favicon URL parser unit tests
+// summary: Unit tests verifying that ParseFaviconPath handles legacy and favicon2 URL parameters, including sizes, scale factors, icon URLs, and invalid inputs.
+// ---
+
 #include "components/favicon_base/favicon_url_parser.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FCM service wrapper
+// summary: Declares FcmService, a KeyedService wrapper that gives a Profile access to its underlying FcmDriver instance.
+// ---
+
 #ifndef COMPONENTS_FCM_FCM_SERVICE_H_
 #define COMPONENTS_FCM_FCM_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the single event model provider
+// summary: Unit tests for SingleEventModelProvider using a mocked EventModel to verify initialization, readiness, and delegation of reader and writer access.
+// ---
+
 #include "components/feature_engagement/internal/single_event_model_provider.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FCM activity record implementations
+// summary: Implements constructors and destructors for the FCM activity structs that record checkin, connection, registration, message and decryption events.
+// ---
+
 #include "components/fcm/fcm_activity.h"
 
 namespace fcm {

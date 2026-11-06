@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemTimeProvider implementation
+// summary: Implements a time provider that reports the current day as days elapsed since the Unix epoch using the system clock.
+// ---
+
 #include "components/feature_engagement/internal/system_time_provider.h"
 
 #include "base/numerics/clamped_math.h"

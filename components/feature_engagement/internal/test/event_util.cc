@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Event test utility implementation
+// summary: Implements helpers to set, verify, and compare feature engagement event counts and snooze counts in tests.
+// ---
+
 #include "components/feature_engagement/internal/test/event_util.h"
 
 #include "components/feature_engagement/internal/proto/feature_event.pb.h"

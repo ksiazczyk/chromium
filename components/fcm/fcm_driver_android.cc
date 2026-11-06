@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI bridge for the FCM driver
+// summary: Implements the Android FCM driver by bridging the Java FcmBridge over JNI to forward messages, deletions and installation ID updates.
+// ---
+
 #include "components/fcm/fcm_driver_android.h"
 
 #include <utility>

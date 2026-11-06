@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AvailabilityModel interface
+// summary: Declares the AvailabilityModel interface that tracks the day each feature was made available to the end user.
+// ---
+
 #ifndef COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_AVAILABILITY_MODEL_H_
 #define COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_AVAILABILITY_MODEL_H_
 

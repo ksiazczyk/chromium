@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedIphFeatureList implementation
+// summary: Implements scoped setup of allowed and enabled IPH features, including demo mode, using refcounted blocking of all other in-product help features.
+// ---
+
 #include "components/feature_engagement/test/scoped_iph_feature_list.h"
 
 #include "base/metrics/field_trial_params.h"

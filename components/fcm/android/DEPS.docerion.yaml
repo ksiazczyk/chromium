@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: FCM Android dependency include rules
+summary: Restricts includes in the FCM Android directory to the base and third_party/jni_zero paths.

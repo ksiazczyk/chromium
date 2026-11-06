@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FCM stats recorder implementation
+// summary: Records and formats FCM/GCM activity such as message send statuses, connection resets, and registration results for debugging.
+// ---
+
 #include "components/fcm/engine/fcm_stats_recorder_impl.h"
 
 #include <inttypes.h>

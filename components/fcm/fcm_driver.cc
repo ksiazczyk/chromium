@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FCM driver message dispatch implementation
+// summary: Implements FcmDriver by registering app handlers and dispatching incoming messages, message deletions and installation ID refreshes to them.
+// ---
+
 #include "components/fcm/fcm_driver.h"
 
 #include "base/check.h"

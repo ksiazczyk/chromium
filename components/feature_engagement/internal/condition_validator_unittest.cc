@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Condition validator result unit tests
+// summary: Unit tests verifying the NoErrors behavior of ConditionValidator Result for each individual condition flag.
+// ---
+
 #include "components/feature_engagement/internal/condition_validator.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

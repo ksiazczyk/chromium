@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon result type implementations
+// summary: Implements constructors and destructors for the favicon result structs declared in favicon_types.h.
+// ---
+
 #include "components/favicon_base/favicon_types.h"
 
 #include "components/favicon_base/fallback_icon_style.h"

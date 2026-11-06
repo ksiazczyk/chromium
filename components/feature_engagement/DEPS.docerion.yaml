@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Directory dependency rules
+summary: Defines include rules for the directory, blocking content dependencies and allowing specific component dependencies such as prefs and leveldb_proto.

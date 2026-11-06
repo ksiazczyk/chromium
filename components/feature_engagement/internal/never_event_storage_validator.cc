@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NeverEventStorageValidator implementation
+// summary: Implements an event storage validator that rejects storing and keeping every event.
+// ---
+
 #include "components/feature_engagement/internal/never_event_storage_validator.h"
 
 namespace feature_engagement {

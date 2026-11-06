@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemEncryptor adapter header
+// summary: Declares SystemEncryptor, an adapter that implements the gcm::Encryptor interface using os_crypt_async::Encryptor.
+// ---
+
 #ifndef COMPONENTS_FCM_ENGINE_SYSTEM_ENCRYPTOR_H_
 #define COMPONENTS_FCM_ENGINE_SYSTEM_ENCRYPTOR_H_
 

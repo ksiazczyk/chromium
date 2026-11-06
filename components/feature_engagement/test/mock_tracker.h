@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockTracker gmock mock of the Tracker interface
+// summary: Declares a gmock mock of the feature engagement Tracker interface so tests can stub event notification, help UI triggering, and configuration behavior.
+// ---
+
 #ifndef COMPONENTS_FEATURE_ENGAGEMENT_TEST_MOCK_TRACKER_H_
 #define COMPONENTS_FEATURE_ENGAGEMENT_TEST_MOCK_TRACKER_H_
 

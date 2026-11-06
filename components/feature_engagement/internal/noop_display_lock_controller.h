@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Noop display lock controller class declaration
+// summary: Declares NoopDisplayLockController, a DisplayLockController that never hands out display locks and never assumes the display is locked.
+// ---
+
 #ifndef COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_NOOP_DISPLAY_LOCK_CONTROLLER_H_
 #define COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_NOOP_DISPLAY_LOCK_CONTROLLER_H_
 

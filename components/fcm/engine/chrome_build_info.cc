@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome build info implementation
+// summary: Determines the platform, channel, and version of the current build and converts them into the checkin request protobuf format.
+// ---
+
 #include "components/fcm/engine/chrome_build_info.h"
 
 #include "base/check.h"

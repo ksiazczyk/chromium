@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FCM service implementation
+// summary: Implements the FcmService constructor and destructor, requiring the kUseFcmService feature to be enabled and a valid driver.
+// ---
+
 #include "components/fcm/fcm_service.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedIphFeatureList test helper header
+// summary: Declares a scoped test helper that restricts which in-product help features may trigger, with options to keep existing features, enable features with parameters, or run a demo.
+// ---
+
 #ifndef COMPONENTS_FEATURE_ENGAGEMENT_TEST_SCOPED_IPH_FEATURE_LIST_H_
 #define COMPONENTS_FEATURE_ENGAGEMENT_TEST_SCOPED_IPH_FEATURE_LIST_H_
 

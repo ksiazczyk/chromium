@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon frame selection implementation
+// summary: Implements scoring and selection logic that picks the best favicon bitmap frames for desired sizes and resamples them into an ImageSkia.
+// ---
+
 #include "components/favicon_base/select_favicon_frames.h"
 
 #include <algorithm>

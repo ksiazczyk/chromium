@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FCM message implementation
+// summary: Defines the default constructors, assignment operators and destructor for the FcmMessage push message struct.
+// ---
+
 #include "components/fcm/fcm_message.h"
 
 namespace fcm {

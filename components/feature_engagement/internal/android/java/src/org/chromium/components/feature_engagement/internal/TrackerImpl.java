@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrackerImpl Java JNI bridge for the feature engagement tracker
+// summary: Java side of the JNI bridge implementing the Tracker interface by delegating feature engagement calls such as notifyEvent and shouldTriggerHelpUi to the native C++ TrackerImpl.
+// ---
+
 package org.chromium.components.feature_engagement.internal;
 
 import androidx.annotation.CheckResult;

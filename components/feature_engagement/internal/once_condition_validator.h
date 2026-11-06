@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Once condition validator class declaration
+// summary: Declares OnceConditionValidator, a ConditionValidator suited for demonstration mode that allows each feature to trigger only once per session.
+// ---
+
 #ifndef COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_ONCE_CONDITION_VALIDATOR_H_
 #define COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_ONCE_CONDITION_VALIDATOR_H_
 

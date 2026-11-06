@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FCM driver Android unit tests
+// summary: Unit tests verifying that FcmDriverAndroid dispatches JNI callbacks for installation ID refreshes, received messages and message deletions to registered app handlers.
+// ---
+
 #include "components/fcm/fcm_driver_android.h"
 
 #include <map>

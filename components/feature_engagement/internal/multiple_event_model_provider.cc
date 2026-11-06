@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the multiple event model provider
+// summary: Implements MultipleEventModelProvider, which initializes profile and device event models in parallel and reports overall success via a barrier closure.
+// ---
+
 #include "components/feature_engagement/internal/multiple_event_model_provider.h"
 
 #include "base/barrier_closure.h"

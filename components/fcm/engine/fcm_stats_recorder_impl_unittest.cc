@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FCM stats recorder unit tests
+// summary: Unit tests verifying that FcmStatsRecorderImpl records checkin, connection, registration, unregistration and data message events with the expected details.
+// ---
+
 #include "components/fcm/engine/fcm_stats_recorder_impl.h"
 
 #include <stdint.h>

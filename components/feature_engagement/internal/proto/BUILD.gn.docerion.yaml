@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for feature engagement proto library
+summary: GN build configuration defining the proto_library target that compiles availability.proto and feature_event.proto for the feature engagement component.

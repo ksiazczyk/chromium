@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the initialization-aware event model
+// summary: Implements InitAwareEventModel, which queues event increments until the wrapped event model finishes initialization and forwards all other calls to it.
+// ---
+
 #include "components/feature_engagement/internal/init_aware_event_model.h"
 
 #include "base/functional/bind.h"

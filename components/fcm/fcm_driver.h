@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FCM driver class declaration
+// summary: Declares the FcmDriver base class that manages app handlers per app ID and dispatches FCM messages and events, caching the installation ID.
+// ---
+
 #ifndef COMPONENTS_FCM_FCM_DRIVER_H_
 #define COMPONENTS_FCM_FCM_DRIVER_H_
 

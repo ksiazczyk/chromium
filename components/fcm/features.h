@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FCM feature flag declaration
+// summary: Declares the kUseFcmService feature that controls whether FcmService is enabled instead of GCMDriver.
+// ---
+
 #ifndef COMPONENTS_FCM_FEATURES_H_
 #define COMPONENTS_FCM_FEATURES_H_
 

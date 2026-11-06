@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display lock controller interface
+// summary: Interface for acquiring display locks that prevent any in-product help from being shown while held.
+// ---
+
 #ifndef COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_DISPLAY_LOCK_CONTROLLER_H_
 #define COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_DISPLAY_LOCK_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestingClockTimeProvider implementation
+// summary: Implements a test-only time provider that reads time from a base::Clock and counts days since an initial time.
+// ---
+
 #include "components/feature_engagement/internal/testing_clock_time_provider.h"
 
 #include "base/check_is_test.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureConfigConditionValidator class declaration
+// summary: Declares a condition validator that uses feature configurations as the source of truth when deciding whether help UI may trigger.
+// ---
+
 #ifndef COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_FEATURE_CONFIG_CONDITION_VALIDATOR_H_
 #define COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_FEATURE_CONFIG_CONDITION_VALIDATOR_H_
 

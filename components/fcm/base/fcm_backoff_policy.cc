@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FCM backoff policy implementation
+// summary: Implements GetBackoffPolicy, returning the shared FCM/GCM backoff policy with a 30-second jittered initial delay and exponential backoff capped at 10 minutes.
+// ---
+
 #include "components/fcm/base/fcm_backoff_policy.h"
 
 namespace fcm {

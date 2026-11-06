@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the once condition validator
+// summary: Tests that the once condition validator triggers features only once per session and handles event model readiness, snoozes, and priority notifications.
+// ---
+
 #include "components/feature_engagement/internal/once_condition_validator.h"
 
 #include <string>

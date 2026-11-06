@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Single event model provider class declaration
+// summary: Declares SingleEventModelProvider, the default EventModelProvider implementation wrapping one event model and exposing its reader and writer interfaces.
+// ---
+
 #ifndef COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_SINGLE_EVENT_MODEL_PROVIDER_H_
 #define COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_SINGLE_EVENT_MODEL_PROVIDER_H_
 

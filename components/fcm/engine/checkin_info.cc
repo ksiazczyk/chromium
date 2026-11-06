@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CheckinInfo implementation
+// summary: Implements the CheckinInfo class, including constructors and a Reset method that clears the device check-in identifiers.
+// ---
+
 #include "components/fcm/engine/checkin_info.h"
 
 namespace fcm {

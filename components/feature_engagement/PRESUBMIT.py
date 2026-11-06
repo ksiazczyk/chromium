@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Presubmit checks for feature engagement
+# summary: Presubmit script run on upload and commit, enforcing sorted Java and feature list constants, comparator rules, and metrics for new flags.
+# ---
+
 """Presubmit script for components/feature_engagement.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

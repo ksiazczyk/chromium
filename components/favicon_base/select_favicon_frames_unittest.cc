@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Favicon frame selection unit tests
+// summary: Unit tests covering CreateFaviconImageSkia frame selection and resampling behavior across supported scale factors, including largest-frame and exact-size cases.
+// ---
+
 #include "components/favicon_base/select_favicon_frames.h"
 
 #include <stddef.h>

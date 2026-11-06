@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AvailabilityModelImpl unit tests
+// summary: Unit tests for AvailabilityModelImpl covering initialization success and failure plus loading and querying feature availability values.
+// ---
+
 #include "components/feature_engagement/internal/availability_model_impl.h"
 
 #include <memory>

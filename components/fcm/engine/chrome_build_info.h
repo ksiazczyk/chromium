@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome build info declarations
+// summary: Declares the ChromePlatform and ChromeChannel enums, the ChromeBuildInfo struct, and helpers to build and convert it for checkin requests.
+// ---
+
 #ifndef COMPONENTS_FCM_ENGINE_CHROME_BUILD_INFO_H_
 #define COMPONENTS_FCM_ENGINE_CHROME_BUILD_INFO_H_
 

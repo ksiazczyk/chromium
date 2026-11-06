@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature engagement metrics recording implementation
+// summary: Implements metrics recording for the feature engagement component, logging user actions, trigger results, and database init, load, and update histograms.
+// ---
+
 #include "components/feature_engagement/internal/stats.h"
 
 #include <string>

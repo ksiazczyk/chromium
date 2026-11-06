@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for feature engagement Android
+summary: Defines the allowed include dependencies for the Android feature engagement internal directory, permitting ui/android.

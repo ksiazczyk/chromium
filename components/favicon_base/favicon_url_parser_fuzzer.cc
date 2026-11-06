@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Favicon URL parser fuzzer
+// summary: Fuzz target that feeds random inputs to ParseFaviconPath, using the first byte to choose between the legacy and favicon2 URL formats.
+// ---
+
 #include "components/favicon_base/favicon_url_parser.h"
 
 #include <stddef.h>

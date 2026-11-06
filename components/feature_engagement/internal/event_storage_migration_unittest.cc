@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Event storage migration unit tests
+// summary: Unit tests verifying that feature engagement events migrate from profile storage to device event storage, including migration status histogram reporting.
+// ---
+
 #include "components/feature_engagement/internal/event_storage_migration.h"
 
 #include "base/functional/bind.h"

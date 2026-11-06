@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EditableConfiguration unit tests
+// summary: Unit tests verifying that EditableConfiguration stores, retrieves, and overwrites feature and group configurations.
+// ---
+
 #include "components/feature_engagement/internal/editable_configuration.h"
 
 #include <string>

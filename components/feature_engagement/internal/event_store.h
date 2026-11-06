@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventStore interface
+// summary: Interface for the storage engine behind the event model, supporting asynchronous loading, readiness checks, and writing or deleting events.
+// ---
+
 #ifndef COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_EVENT_STORE_H_
 #define COMPONENTS_FEATURE_ENGAGEMENT_INTERNAL_EVENT_STORE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the multiple event model writer
+// summary: Implements MultipleEventModelWriter, which forwards event increments, clears, and snooze operations to both the profile and device event models.
+// ---
+
 #include "components/feature_engagement/internal/multiple_event_model_writer.h"
 
 #include "base/functional/bind.h"

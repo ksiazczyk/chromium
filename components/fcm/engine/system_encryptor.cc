@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemEncryptor implementation
+// summary: Implements SystemEncryptor by forwarding string encryption and decryption calls to the os_crypt_async Encryptor.
+// ---
+
 #include "components/fcm/engine/system_encryptor.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for MultipleEventModelWriter
+// summary: Unit tests verifying that MultipleEventModelWriter forwards event increments, clears and snooze actions to both the profile and device event models in order.
+// ---
+
 #include "components/feature_engagement/internal/multiple_event_model_writer.h"
 
 #include "base/files/scoped_temp_dir.h"
