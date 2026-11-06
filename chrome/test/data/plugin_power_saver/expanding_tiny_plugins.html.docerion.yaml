@@ -1,0 +1,4 @@
+# Docerion header of expanding_tiny_plugins.html.
+type: test
+title: Expanding tiny plugin test page
+summary: Test page with tiny cross-origin Flash plugins that expand to peripheral or essential sizes.

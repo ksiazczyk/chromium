@@ -1,0 +1,4 @@
+# Docerion header of heading-heuristics-variable-size.in.
+type: test
+title: Heading heuristics variable size PDF template
+summary: PDF template with headings of varying font sizes, weights and names used to exercise heading detection heuristics in PDF accessibility tests.

@@ -1,0 +1,4 @@
+# Docerion header of killswitch_tester.html.
+type: test
+title: Permission killswitch tester page
+summary: Test page with JavaScript functions that request geolocation and notification permissions and send the results back to the test harness.

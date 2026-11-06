@@ -1,0 +1,4 @@
+# Docerion header of next-on-line-heuristics-expected.txt.
+type: test
+title: Next-on-line heuristics expected accessibility text
+summary: Expected text output for the next-on-line accessibility test when run with text-run heuristics enabled.

@@ -1,0 +1,4 @@
+# Docerion header of hello-world-expected-auralinux.txt.
+type: test
+title: Hello world expected accessibility tree for Aura Linux
+summary: Expected accessibility tree output of the hello-world PDF on Aura Linux, listing the document, page landmark, paragraph and static text.

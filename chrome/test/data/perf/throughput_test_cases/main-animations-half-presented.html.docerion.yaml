@@ -1,0 +1,4 @@
+# Docerion header of main-animations-half-presented.html.
+type: test
+title: Main-thread animation test case with half of frames presented
+summary: Test page that janks the main thread so only one main frame is presented for every two main frames, for throughput metric testing.

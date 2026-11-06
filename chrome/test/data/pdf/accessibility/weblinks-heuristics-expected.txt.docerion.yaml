@@ -1,0 +1,4 @@
+# Docerion header of weblinks-heuristics-expected.txt.
+type: test
+title: Weblinks heuristics expected text output
+summary: Expected text output for the weblinks PDF test when heading heuristics group the paragraphs under headings.

@@ -1,0 +1,4 @@
+# Docerion header of text-image-link-expected.txt.
+type: test
+title: Expected text output for text, image and link PDF
+summary: Expected plain text extraction output for a PDF containing links, images and link annotations.

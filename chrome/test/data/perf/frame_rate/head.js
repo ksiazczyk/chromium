@@ -34,6 +34,12 @@
  *      ],
  */
 
+// ---docerion
+// type: test
+// title: Frame rate test harness with recorded scroll gestures
+// summary: JavaScript harness that replays recorded scrolling gestures on a test page and calculates average frame rate results, including tools for running and recording new gestures.
+// ---
+
 var __initialized = true;
 var __running = false;
 var __running_all = false;

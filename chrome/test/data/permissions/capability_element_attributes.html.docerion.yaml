@@ -1,0 +1,4 @@
+# Docerion header of capability_element_attributes.html.
+type: test
+title: Capability element attributes test page
+summary: Minimal test page embedding a geolocation capability element for exercising element attribute handling in permission browser tests.

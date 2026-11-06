@@ -1,0 +1,4 @@
+# Docerion header of blank_image-expected-without-pdf-searchify.txt.
+type: test
+title: Blank image expected tree without PDF searchify
+summary: Expected accessibility tree for the blank image PDF without searchify, including the failed text extraction status and an unlabeled image.

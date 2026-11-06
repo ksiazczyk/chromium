@@ -1,0 +1,4 @@
+# Docerion header of text-image-link-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for text, image and link PDF
+summary: Expected macOS AX accessibility tree output for a PDF containing links, images and link annotations.

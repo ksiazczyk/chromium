@@ -1,0 +1,4 @@
+# Docerion header of font-change-expected.txt.
+type: test
+title: Font change expected text output
+summary: Expected plain text for the font change PDF, verifying that mid-line font, size and style changes do not introduce line breaks.

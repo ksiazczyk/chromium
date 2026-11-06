@@ -1,0 +1,4 @@
+# Docerion header of weblinks-expected-auralinux.txt.
+type: test
+title: Weblinks expected accessibility tree for auralinux
+summary: Expected Linux accessibility tree for a PDF containing web links, used by PDF accessibility tests.

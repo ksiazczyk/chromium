@@ -1,0 +1,4 @@
+# Docerion header of superscript-subscript-heuristics-expected.txt.
+type: test
+title: Expected text for superscript and subscript heuristics
+summary: Expected plain text dump when heuristics split superscript and subscript runs into separate paragraphs.

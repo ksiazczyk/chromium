@@ -1,0 +1,4 @@
+# Docerion header of hello-world-expected-uia-win.txt.
+type: test
+title: Hello world expected UIA accessibility tree for Windows
+summary: Expected UIA accessibility tree of the hello-world PDF on Windows, covering document, group and text elements.

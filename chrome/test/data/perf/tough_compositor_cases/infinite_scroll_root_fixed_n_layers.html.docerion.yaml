@@ -1,0 +1,4 @@
+# Docerion header of infinite_scroll_root_fixed_n_layers.html.
+type: test
+title: Infinite scroll benchmark with fixed element
+summary: Perf test page combining root-scroller infinite scrolling of fake email items with a position:fixed element.

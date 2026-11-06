@@ -1,0 +1,4 @@
+# Docerion header of drop-cap-heuristics-expected.txt.
+type: test
+title: Drop cap heuristics expected text output
+summary: Expected plain text for the drop cap PDF with heuristics applied, showing how the simulated drop cap letter is handled in the extracted text.

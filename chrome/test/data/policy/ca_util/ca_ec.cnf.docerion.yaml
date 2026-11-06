@@ -1,0 +1,4 @@
+# Docerion header of ca_ec.cnf.
+type: test
+title: OpenSSL configuration for the EC test root CA
+summary: OpenSSL configuration defining the EC-based test root CA, signing policies, and certificate extensions used to generate test certificates and CRLs.

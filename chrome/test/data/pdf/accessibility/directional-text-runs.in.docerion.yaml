@@ -1,0 +1,4 @@
+# Docerion header of directional-text-runs.in.
+type: test
+title: Directional text runs PDF test input template
+summary: PDF source template with placeholders that generates a test document with rotated and resized text runs for directional text accessibility tests.

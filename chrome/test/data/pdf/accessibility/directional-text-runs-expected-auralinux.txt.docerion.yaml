@@ -1,0 +1,4 @@
+# Docerion header of directional-text-runs-expected-auralinux.txt.
+type: test
+title: Directional text runs expected tree for Linux accessibility
+summary: Expected accessibility tree snapshot of the directional text runs PDF for the Linux assistive technology platform.

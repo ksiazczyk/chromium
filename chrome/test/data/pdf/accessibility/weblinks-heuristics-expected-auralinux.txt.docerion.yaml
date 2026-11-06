@@ -1,0 +1,4 @@
+# Docerion header of weblinks-heuristics-expected-auralinux.txt.
+type: test
+title: Weblinks heuristics expected Linux accessibility tree
+summary: Expected Linux accessibility tree for the weblinks PDF with heading heuristics applied, listing landmarks, headings, links, and static text.

@@ -1,0 +1,4 @@
+# Docerion header of weblinks-expected-uia-win.txt.
+type: test
+title: Weblinks expected UIA accessibility tree for Windows
+summary: Expected Windows UIA accessibility tree for a PDF containing web links, used by PDF accessibility tests.

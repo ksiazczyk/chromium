@@ -1,0 +1,4 @@
+# Docerion header of popup-simulated-click-on-anchor.html.
+type: test
+title: Popup Blocked Simulated Click on Anchor
+summary: Test page that focuses an anchor so a Ctrl+Enter or Cmd+Enter simulated click opens popup-success.html in a background tab.

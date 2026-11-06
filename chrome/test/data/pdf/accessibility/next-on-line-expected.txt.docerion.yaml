@@ -1,0 +1,4 @@
+# Docerion header of next-on-line-expected.txt.
+type: test
+title: Next-on-line expected accessibility text
+summary: Expected text output for the next-on-line and previous-on-line accessibility attribute test on a multi-line PDF.

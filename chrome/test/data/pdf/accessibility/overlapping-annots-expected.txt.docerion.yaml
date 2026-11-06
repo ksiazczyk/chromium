@@ -1,0 +1,4 @@
+# Docerion header of overlapping-annots-expected.txt.
+type: test
+title: Overlapping annotations expected accessibility text
+summary: Expected text output for a PDF containing overlapping link annotations, showing how the combined link text is presented.

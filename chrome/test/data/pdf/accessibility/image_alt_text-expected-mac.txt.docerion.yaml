@@ -1,0 +1,4 @@
+# Docerion header of image_alt_text-expected-mac.txt.
+type: test
+title: Expected Mac accessibility tree for image alt text PDF
+summary: Expected macOS accessibility tree snapshot for a PDF containing three images with alt text, used to verify PDF accessibility output.

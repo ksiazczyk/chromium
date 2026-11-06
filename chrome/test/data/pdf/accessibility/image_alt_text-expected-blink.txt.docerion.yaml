@@ -1,0 +1,4 @@
+# Docerion header of image_alt_text-expected-blink.txt.
+type: test
+title: Image alt text expected Blink accessibility tree
+summary: Expected Blink accessibility tree for the image alt text PDF, listing three named image nodes in a paragraph.

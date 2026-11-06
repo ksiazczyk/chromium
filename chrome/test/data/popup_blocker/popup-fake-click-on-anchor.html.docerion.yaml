@@ -1,0 +1,4 @@
+# Docerion header of popup-fake-click-on-anchor.html.
+type: test
+title: Popup Blocked Fake Click on Anchor
+summary: Test page that dispatches a fake modified click on a target-tab anchor and expects the popup to be blocked.

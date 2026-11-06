@@ -1,0 +1,4 @@
+# Docerion header of text-direction-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for text direction
+summary: Expected Blink accessibility tree output for a PDF containing LTR and RTL text runs.

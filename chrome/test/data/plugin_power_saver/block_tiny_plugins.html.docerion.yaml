@@ -1,0 +1,4 @@
+# Docerion header of block_tiny_plugins.html.
+type: test
+title: Tiny plugin blocking test page
+summary: Test page with tiny and completely obscured Flash plugins used to verify plugin power saver blocking behavior.

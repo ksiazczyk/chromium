@@ -1,0 +1,4 @@
+# Docerion header of tab-spinner-case.html.
+type: test
+title: Tab spinner test case HTML page
+summary: HTML page that busy-waits for 10 seconds to simulate a slow-loading document for tab spinner performance tests.

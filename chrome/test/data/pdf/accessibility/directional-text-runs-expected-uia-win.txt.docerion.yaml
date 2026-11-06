@@ -1,0 +1,4 @@
+# Docerion header of directional-text-runs-expected-uia-win.txt.
+type: test
+title: Directional text runs expected UIA tree on Windows
+summary: Expected UI Automation tree for the directional text runs PDF on Windows, with text nodes per paragraph.

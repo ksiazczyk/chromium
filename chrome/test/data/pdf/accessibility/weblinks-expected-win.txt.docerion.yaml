@@ -1,0 +1,4 @@
+# Docerion header of weblinks-expected-win.txt.
+type: test
+title: Weblinks expected Windows accessibility tree
+summary: Expected Windows accessibility tree snapshot for the weblinks PDF test, showing document, page, paragraph, and hyperlink roles.

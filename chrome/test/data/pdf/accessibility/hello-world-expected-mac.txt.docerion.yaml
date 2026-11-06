@@ -1,0 +1,4 @@
+# Docerion header of hello-world-expected-mac.txt.
+type: test
+title: Hello world expected macOS accessibility tree
+summary: Expected macOS AX accessibility tree of the hello-world PDF with AXGroup, landmark region and static text nodes.

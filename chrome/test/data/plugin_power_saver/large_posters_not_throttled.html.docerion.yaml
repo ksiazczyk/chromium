@@ -1,0 +1,4 @@
+# Docerion header of large_posters_not_throttled.html.
+type: test
+title: Large poster throttling test page
+summary: Test page with small and large poster plugins plus whitelisted-origin plugins to verify posters are not throttled.

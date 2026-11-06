@@ -1,0 +1,4 @@
+# Docerion header of multi-page-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for multi-page PDF
+summary: Expected Linux accessibility tree for a two-page PDF, verifying page landmarks and static text per page.

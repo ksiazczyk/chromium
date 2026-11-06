@@ -1,0 +1,4 @@
+# Docerion header of popup-success.html.
+type: test
+title: Popup Success!
+summary: Target page shown when a popup opens successfully, indicating the popup blocker did not block it.

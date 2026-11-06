@@ -1,0 +1,4 @@
+# Docerion header of overlapping-links-expected-auralinux.txt.
+type: test
+title: Overlapping links expected accessibility tree for Linux
+summary: Expected Linux accessibility tree for a PDF with overlapping links, showing nested link and static text nodes.

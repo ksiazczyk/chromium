@@ -1,0 +1,4 @@
+# Docerion header of text-image-link-heuristics-expected.txt.
+type: test
+title: Text image link heuristics expected output
+summary: Expected accessibility tree output for the PDF test covering link annotations, web links, images and text with heuristics applied.

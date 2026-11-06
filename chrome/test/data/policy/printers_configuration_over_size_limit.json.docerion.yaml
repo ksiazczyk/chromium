@@ -1,0 +1,4 @@
+# Docerion header of printers_configuration_over_size_limit.json.
+type: test
+title: Oversized printers configuration test data
+summary: Printers policy JSON with two printer entries intended to exceed the size limit in tests.

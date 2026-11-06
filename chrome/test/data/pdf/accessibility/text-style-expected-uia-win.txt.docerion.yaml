@@ -1,0 +1,4 @@
+# Docerion header of text-style-expected-uia-win.txt.
+type: test
+title: Text style expected UIA Windows accessibility tree
+summary: Expected UIA accessibility tree snapshot of the text-style PDF on Windows for PDF accessibility test verification.

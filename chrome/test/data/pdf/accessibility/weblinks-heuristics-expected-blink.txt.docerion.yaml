@@ -1,0 +1,4 @@
+# Docerion header of weblinks-heuristics-expected-blink.txt.
+type: test
+title: Weblinks heuristics expected Blink accessibility tree
+summary: Expected Blink accessibility tree for the weblinks PDF with heading heuristics applied, including inline text boxes and read-only restrictions.

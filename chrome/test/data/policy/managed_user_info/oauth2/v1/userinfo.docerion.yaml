@@ -1,0 +1,4 @@
+# Docerion header of userinfo.
+type: test
+title: OAuth2 userinfo test fixture
+summary: Test fixture with a JSON userinfo payload containing the hosted domain managedchrome.com, used by managed user policy tests.

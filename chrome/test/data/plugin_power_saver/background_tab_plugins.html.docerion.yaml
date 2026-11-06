@@ -1,0 +1,4 @@
+# Docerion header of background_tab_plugins.html.
+type: test
+title: Background tab plugin power saver test page
+summary: Test page embedding same-origin and small cross-origin Flash plugins to exercise plugin power saver behavior in background tabs.

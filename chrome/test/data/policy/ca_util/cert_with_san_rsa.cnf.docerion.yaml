@@ -1,0 +1,4 @@
+# Docerion header of cert_with_san_rsa.cnf.
+type: test
+title: OpenSSL extensions for RSA leaf certificates with SAN
+summary: OpenSSL extension config that includes ca_rsa.cnf and adds a subjectAltName from the environment when signing RSA leaf certificates for tests.

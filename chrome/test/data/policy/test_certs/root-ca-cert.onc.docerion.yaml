@@ -1,0 +1,4 @@
+# Docerion header of root-ca-cert.onc.
+type: data
+title: ONC file with RSA root CA certificate
+summary: ONC test fixture holding a single web-trusted RSA root CA certificate used by Chromium policy tests.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest with PDF resource
+summary: Manifest for a test Chrome extension named "With PDF" that provides a PDF resource for PDF extension tests.

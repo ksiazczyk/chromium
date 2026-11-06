@@ -1,0 +1,4 @@
+# Docerion header of hello-world.in.
+type: test
+title: Hello world PDF test template
+summary: PDF template source that builds a simple Hello, world! document used as input for PDF accessibility tests.

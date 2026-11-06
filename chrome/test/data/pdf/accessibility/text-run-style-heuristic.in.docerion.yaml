@@ -1,0 +1,4 @@
+# Docerion header of text-run-style-heuristic.in.
+type: test
+title: Text run style heuristic test PDF template
+summary: PDF source template exercising fonts, weights, italic flags and text render modes to test text run style heuristics.

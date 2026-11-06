@@ -1,0 +1,4 @@
+# Docerion header of flash.html.
+type: test
+title: Flash permission test page
+summary: Test page embedding Flash objects with download fallback links to trigger Flash permission prompts in browser tests.

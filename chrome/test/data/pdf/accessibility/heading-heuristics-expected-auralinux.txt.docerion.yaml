@@ -1,0 +1,4 @@
+# Docerion header of heading-heuristics-expected-auralinux.txt.
+type: test
+title: Heading heuristics expected accessibility tree for AuraLinux
+summary: Expected accessibility tree for the heading heuristics PDF on AuraLinux, listing headings detected by weight, name, and all-caps styling.

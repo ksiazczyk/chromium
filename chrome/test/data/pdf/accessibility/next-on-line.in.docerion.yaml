@@ -1,0 +1,4 @@
+# Docerion header of next-on-line.in.
+type: test
+title: Next-on-line PDF test input template
+summary: PDF template that generates a single-page document with widely spaced text lines to exercise next-on-line and previous-on-line attributes.

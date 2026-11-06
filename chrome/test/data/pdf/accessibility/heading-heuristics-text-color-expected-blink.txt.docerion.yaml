@@ -1,0 +1,4 @@
+# Docerion header of heading-heuristics-text-color-expected-blink.txt.
+type: test
+title: Text color heading heuristics expected tree for Blink
+summary: Expected Blink accessibility tree for the text color heading heuristics PDF with colored and larger colored headings.

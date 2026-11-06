@@ -1,0 +1,4 @@
+# Docerion header of popup-frames-iframe.html.
+type: test
+title: Iframe that opens a popup
+summary: Test iframe page that opens a popup with window.open on load, used as frame content for the popup-frames content settings test.

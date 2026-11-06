@@ -1,0 +1,4 @@
+# Docerion header of permission_element.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for permission element page
+summary: Mock HTTP response headers serving the permission element page with a Content-Security-Policy frame-ancestors directive during tests.

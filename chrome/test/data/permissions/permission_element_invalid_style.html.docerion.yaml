@@ -1,0 +1,4 @@
+# Docerion header of permission_element_invalid_style.html.
+type: test
+title: Permission element invalid style test page
+summary: Test page applying styles like inline display, zero font size and translucent color to geolocation, install and usermedia permission elements.

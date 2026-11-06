@@ -1,0 +1,4 @@
+# Docerion header of root-ca-cert_ec.onc.
+type: data
+title: ONC file with EC root CA certificate
+summary: ONC test fixture holding a single web-trusted EC root CA certificate used by Chromium policy tests.

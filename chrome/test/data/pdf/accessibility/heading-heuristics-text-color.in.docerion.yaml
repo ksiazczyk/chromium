@@ -1,0 +1,4 @@
+# Docerion header of heading-heuristics-text-color.in.
+type: test
+title: Text color heading heuristics PDF test input
+summary: PDF source template with red and larger colored text used to test color-based heading heuristics.

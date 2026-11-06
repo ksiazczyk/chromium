@@ -1,0 +1,4 @@
+# Docerion header of check-windowfeatures.html.
+type: test
+title: Check that window features are set
+summary: Test page that verifies window features such as the location bar are applied to the opened popup.

@@ -1,0 +1,4 @@
+# Docerion header of text-run-style-heuristic-expected-uia-win.txt.
+type: test
+title: Text run style heuristic expected output for UIA on Windows
+summary: Expected UIA accessibility tree on Windows for the text run style heuristic PDF test.

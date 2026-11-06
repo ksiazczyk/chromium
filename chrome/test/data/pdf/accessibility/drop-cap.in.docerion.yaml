@@ -1,0 +1,4 @@
+# Docerion header of drop-cap.in.
+type: test
+title: Drop cap PDF test input template
+summary: PDF source template that generates a test document with simulated drop caps and extra whitespace to exercise PDFium text-run logic.

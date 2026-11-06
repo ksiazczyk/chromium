@@ -1,0 +1,4 @@
+# Docerion header of heading-heuristics-dense-table-and-body-expected-blink.txt.
+type: test
+title: Heading heuristics dense table and body expected Blink tree output
+summary: Expected Blink accessibility tree for the dense table and body heading heuristics PDF, showing heading and paragraph structure.

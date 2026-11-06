@@ -1,0 +1,4 @@
+# Docerion header of overlapping-annots.in.
+type: test
+title: Overlapping link annotations PDF test input template
+summary: PDF template that generates a page with two overlapping URI link annotations pointing to Bing and Adobe for accessibility tests.

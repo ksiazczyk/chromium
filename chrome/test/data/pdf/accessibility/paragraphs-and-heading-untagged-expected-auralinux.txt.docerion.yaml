@@ -1,0 +1,4 @@
+# Docerion header of paragraphs-and-heading-untagged-expected-auralinux.txt.
+type: test
+title: Untagged paragraphs and heading expected accessibility tree for Linux
+summary: Expected Linux accessibility tree for an untagged PDF containing paragraphs and a heading, used as verification data in PDF accessibility tests.

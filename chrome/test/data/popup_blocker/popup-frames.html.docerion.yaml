@@ -1,0 +1,4 @@
+# Docerion header of popup-frames.html.
+type: test
+title: Popup blocker frame content settings test page
+summary: Test page that embeds an iframe loading popup-frames-iframe.html to check that content settings apply to the correct frame.

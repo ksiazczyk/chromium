@@ -1,0 +1,4 @@
+# Docerion header of popup-in-href.html.
+type: test
+title: Popup opened from a javascript href link
+summary: 'Test page with an anchor whose javascript: href opens a window in a new tab with rel=opener, used for popup blocker testing.'

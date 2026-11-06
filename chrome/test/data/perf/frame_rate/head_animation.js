@@ -19,6 +19,12 @@
  *    use __requestAnimationFrame_no_sampling
  */
 
+// ---docerion
+// type: test
+// title: Frame rate harness variant for animated pages
+// summary: Extension of the frame rate harness for pages with animation loops, wrapping requestAnimationFrame to wait out warm-up frames before benchmarking starts.
+// ---
+
 // default gestures for animated content
 __gestures = {
   none: __gesture_library["stationary"]

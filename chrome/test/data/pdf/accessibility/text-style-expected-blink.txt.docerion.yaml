@@ -1,0 +1,4 @@
+# Docerion header of text-style-expected-blink.txt.
+type: test
+title: Text style expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot of the text-style PDF with font family, size, weight and color details per case.

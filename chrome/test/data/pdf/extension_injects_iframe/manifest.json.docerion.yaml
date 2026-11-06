@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Break PDF Display test extension manifest
+summary: Manifest for the Break PDF Display test extension that runs inject.js on all pages at document_end to break PDF display in tests.

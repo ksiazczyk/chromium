@@ -1,0 +1,4 @@
+# Docerion header of heading-heuristics-text-color-expected-auralinux.txt.
+type: test
+title: Text color heading heuristics expected tree for AuraLinux
+summary: Expected accessibility tree for the text color heading heuristics PDF on AuraLinux, covering color-based headings and inline colored text.

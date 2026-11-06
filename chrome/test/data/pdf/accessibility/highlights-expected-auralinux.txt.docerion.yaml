@@ -1,0 +1,4 @@
+# Docerion header of highlights-expected-auralinux.txt.
+type: test
+title: Highlights expected accessibility tree for Linux
+summary: Expected auralinux accessibility tree output for the highlights PDF, covering highlight annotations and a text note.

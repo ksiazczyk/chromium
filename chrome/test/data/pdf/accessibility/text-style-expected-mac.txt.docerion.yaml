@@ -1,0 +1,4 @@
+# Docerion header of text-style-expected-mac.txt.
+type: test
+title: Text style expected Mac accessibility tree
+summary: Expected macOS AX accessibility tree snapshot of the text-style PDF used to verify PDF accessibility output.

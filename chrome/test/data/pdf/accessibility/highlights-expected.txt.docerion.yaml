@@ -1,0 +1,4 @@
+# Docerion header of highlights-expected.txt.
+type: test
+title: Highlights expected text output
+summary: Expected plain text extraction of the highlights PDF, listing highlighted text segments separated by paragraph marks.

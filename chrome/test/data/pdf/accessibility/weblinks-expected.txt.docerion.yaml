@@ -1,0 +1,4 @@
+# Docerion header of weblinks-expected.txt.
+type: test
+title: Weblinks expected text output
+summary: Expected platform-independent text output for the weblinks PDF test, containing the paragraph text and web link URLs.

@@ -1,0 +1,4 @@
+# Docerion header of text-style.in.
+type: test
+title: Text style PDF source template
+summary: PDF template that draws four text cases with different text rendering modes in Helvetica-Bold-Italic for accessibility tests.

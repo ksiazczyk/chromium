@@ -1,0 +1,4 @@
+# Docerion header of paragraphs-and-heading-untagged.in.
+type: test
+title: PDF source for untagged paragraphs and heading test
+summary: PDF template source that generates the untagged test PDF containing a heading and Lorem Ipsum paragraphs.

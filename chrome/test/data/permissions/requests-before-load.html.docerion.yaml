@@ -1,0 +1,4 @@
+# Docerion header of requests-before-load.html.
+type: test
+title: Permission requests before load page
+summary: Test page that requests geolocation and notification permission synchronously before the page finishes loading.

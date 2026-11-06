@@ -1,0 +1,4 @@
+# Docerion header of font-change.in.
+type: test
+title: Font change PDF test input template
+summary: PDF source template that generates a test document mixing Helvetica, Courier, bold and italic fonts within single lines of text.

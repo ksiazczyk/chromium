@@ -1,0 +1,4 @@
+# Docerion header of directional-text-runs-expected-mac.txt.
+type: test
+title: Directional text runs expected macOS accessibility tree
+summary: Expected macOS AX accessibility tree for the directional text runs PDF with static text values per paragraph.

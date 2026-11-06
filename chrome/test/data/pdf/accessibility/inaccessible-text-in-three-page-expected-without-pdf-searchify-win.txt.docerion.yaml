@@ -1,0 +1,4 @@
+# Docerion header of inaccessible-text-in-three-page-expected-without-pdf-searchify-win.txt.
+type: test
+title: Expected Windows tree for inaccessible three-page PDF without extraction
+summary: Expected Windows accessibility tree for an inaccessible three-page PDF when text extraction files cannot be downloaded.

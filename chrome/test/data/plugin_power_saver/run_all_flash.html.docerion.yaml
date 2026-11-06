@@ -1,0 +1,4 @@
+# Docerion header of run_all_flash.html.
+type: test
+title: Run All Flash Plugin Power Saver Test Page
+summary: Test page embedding small and cross-origin Flash objects to exercise plugin power saver throttling in Chrome browser tests.

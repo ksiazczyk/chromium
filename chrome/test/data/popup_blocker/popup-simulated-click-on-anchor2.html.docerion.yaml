@@ -1,0 +1,4 @@
+# Docerion header of popup-simulated-click-on-anchor2.html.
+type: test
+title: Popup Blocked Simulated Click on Anchor
+summary: Test page with a large anchor element that opens popup-success.html when tapped with Ctrl or Cmd, testing simulated-gesture popup blocking.

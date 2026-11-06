@@ -1,0 +1,4 @@
+# Docerion header of request.html.
+type: test
+title: Geolocation request page
+summary: Test page that immediately calls navigator.geolocation.getCurrentPosition to trigger a geolocation permission request.

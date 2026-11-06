@@ -1,0 +1,4 @@
+# Docerion header of js_toggle_layer_plus_n_layers.html.
+type: test
+title: JavaScript layer property toggle benchmark page
+summary: Perf test page that toggles CSS properties like will-change, transform, filter, and opacity to stress compositor property tree changes.

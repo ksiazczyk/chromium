@@ -21,6 +21,12 @@
 # certificates with EC keys using the P-256 curve.
 
 
+# ---docerion
+# type: test
+# title: Shell utility to create test certificate hierarchies
+# summary: Shell script providing root_cert and issue_cert functions to build certificate hierarchies with RSA or EC keys for Chromium policy tests.
+# ---
+
 # Tries to perform an operation. If it fails, log the exit code and exit the
 # script with the same exit code.
 try() {

@@ -1,0 +1,4 @@
+# Docerion header of text-image-link.in.
+type: test
+title: Text image link test PDF template
+summary: PDF source template with link annotations, images, tagged structure and web links used to generate the text-image-link accessibility test PDF.

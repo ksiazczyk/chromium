@@ -1,0 +1,4 @@
+# Docerion header of text-run-style-heuristic-expected-mac.txt.
+type: test
+title: Text run style heuristic expected output for Mac
+summary: Expected macOS AX accessibility tree for the text run style heuristic PDF test.

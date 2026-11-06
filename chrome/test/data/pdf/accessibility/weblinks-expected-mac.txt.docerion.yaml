@@ -1,0 +1,4 @@
+# Docerion header of weblinks-expected-mac.txt.
+type: test
+title: Weblinks expected accessibility tree for Mac
+summary: Expected macOS accessibility tree for a PDF containing web links, used by PDF accessibility tests.

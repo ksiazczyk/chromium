@@ -1,0 +1,4 @@
+# Docerion header of text-run-style-heuristic-heuristics-expected-auralinux.txt.
+type: test
+title: Text run style heuristics expected output for Linux
+summary: Expected Linux accessibility tree when text run style heuristics split the text into multiple runs.

@@ -1,0 +1,4 @@
+# Docerion header of text-image-link-heuristics-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for text, image and link PDF with heuristics
+summary: Expected Linux accessibility tree output for the text, image and link PDF when heuristics are applied.

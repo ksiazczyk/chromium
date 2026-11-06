@@ -1,0 +1,4 @@
+# Docerion header of check-referrer.html.
+type: test
+title: Check that the referrer header is correct
+summary: Test page that verifies the popup referrer contains only the origin and reports PASS or FAIL.

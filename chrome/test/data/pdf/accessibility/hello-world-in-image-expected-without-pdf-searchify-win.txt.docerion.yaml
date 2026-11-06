@@ -1,0 +1,4 @@
+# Docerion header of hello-world-in-image-expected-without-pdf-searchify-win.txt.
+type: test
+title: Hello world in-image expected tree without PDF searchify for Windows
+summary: Expected Windows accessibility tree of an image-only hello-world PDF when searchify is disabled, showing an error status and an unlabeled graphic.

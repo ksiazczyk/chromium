@@ -1,0 +1,4 @@
+# Docerion header of unordered-list-combined-heuristics-expected-blink.txt.
+type: test
+title: Unordered list combined heuristics expected tree for Blink
+summary: Expected Blink accessibility tree for a PDF with an unordered list detected via combined heuristics, used by PDF accessibility tests.

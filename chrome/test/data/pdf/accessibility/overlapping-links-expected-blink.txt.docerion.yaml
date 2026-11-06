@@ -1,0 +1,4 @@
+# Docerion header of overlapping-links-expected-blink.txt.
+type: test
+title: Overlapping links expected accessibility tree for Blink
+summary: Expected Blink accessibility tree snapshot for a PDF containing overlapping link annotations, used as verification data in PDF accessibility tests.

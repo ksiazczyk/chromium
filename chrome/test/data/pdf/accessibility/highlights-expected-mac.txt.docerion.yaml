@@ -1,0 +1,4 @@
+# Docerion header of highlights-expected-mac.txt.
+type: test
+title: Highlights expected macOS accessibility tree
+summary: Expected macOS AX accessibility tree for the highlights PDF with buttons, static text, and document note nodes.

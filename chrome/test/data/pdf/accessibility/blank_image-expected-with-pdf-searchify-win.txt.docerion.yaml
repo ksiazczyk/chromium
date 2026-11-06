@@ -1,0 +1,4 @@
+# Docerion header of blank_image-expected-with-pdf-searchify-win.txt.
+type: test
+title: Blank image expected tree with PDF searchify, Windows
+summary: Expected accessibility tree for the blank image PDF with searchify enabled, using the Windows 'Unlabeled graphic' wording.

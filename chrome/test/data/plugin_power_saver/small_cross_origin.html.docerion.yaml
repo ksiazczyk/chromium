@@ -1,0 +1,4 @@
+# Docerion header of small_cross_origin.html.
+type: test
+title: Small Cross-Origin Flash Plugin Test Page
+summary: Test page loading a small cross-origin Flash plugin with and without a poster image to verify power saver blocking behavior.

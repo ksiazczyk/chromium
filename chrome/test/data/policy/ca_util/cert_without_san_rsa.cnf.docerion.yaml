@@ -1,0 +1,4 @@
+# Docerion header of cert_without_san_rsa.cnf.
+type: test
+title: OpenSSL extensions for RSA leaf certificates without SAN
+summary: OpenSSL extension config that includes ca_rsa.cnf and defines leaf certificate extensions without a subjectAltName for test signing.

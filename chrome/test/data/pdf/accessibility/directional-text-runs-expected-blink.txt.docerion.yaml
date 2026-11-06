@@ -1,0 +1,4 @@
+# Docerion header of directional-text-runs-expected-blink.txt.
+type: test
+title: Directional text runs expected Blink accessibility tree
+summary: Expected Blink accessibility tree for the directional text runs PDF, including inline text boxes and line breaks.

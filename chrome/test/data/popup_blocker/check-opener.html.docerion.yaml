@@ -1,0 +1,4 @@
+# Docerion header of check-opener.html.
+type: test
+title: Check that window.opener is not set
+summary: Test page that verifies window.opener is not set in the opened popup and reports PASS or FAIL.

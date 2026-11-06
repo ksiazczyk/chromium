@@ -1,0 +1,4 @@
+# Docerion header of page_with_two_iframes.html.
+type: test
+title: Pointer lock test page with two iframes
+summary: HTML test fixture with two sandboxed iframes, where clicking a top-level button triggers a pointer lock request inside the first iframe, used to test pointer lock behavior across frames.

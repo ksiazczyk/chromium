@@ -1,0 +1,4 @@
+# Docerion header of overlapping-links-expected-win.txt.
+type: test
+title: Overlapping links expected accessibility tree for Windows
+summary: Expected Windows accessibility tree snapshot for the overlapping-links PDF, used as verification data in PDF accessibility tests.
