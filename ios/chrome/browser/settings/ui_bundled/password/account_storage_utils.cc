@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password account storage utilities implementation
+// summary: Implements helpers that decide when the local-only icon should be shown for credentials not backed up to the user's Google account.
+// ---
+
 #import "ios/chrome/browser/settings/ui_bundled/password/account_storage_utils.h"
 
 #import <algorithm>

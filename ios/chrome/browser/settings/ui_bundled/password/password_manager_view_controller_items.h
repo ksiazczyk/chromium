@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Table view items for the password manager list
+// summary: Declares table view items and a shared cell for affiliated credential groups and blocked sites, with favicon loading and metrics support.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_PASSWORD_MANAGER_VIEW_CONTROLLER_ITEMS_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_PASSWORD_MANAGER_VIEW_CONTROLLER_ITEMS_H_
 

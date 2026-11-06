@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordCheckupViewController class header
+// summary: Declares the settings table view controller that presents the Password Checkup homepage and conforms to the consumer and settings protocols.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_PASSWORD_CHECKUP_PASSWORD_CHECKUP_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_PASSWORD_CHECKUP_PASSWORD_CHECKUP_VIEW_CONTROLLER_H_
 

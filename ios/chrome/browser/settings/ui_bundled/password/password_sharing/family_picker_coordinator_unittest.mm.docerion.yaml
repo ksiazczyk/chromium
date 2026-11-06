@@ -1,0 +1,4 @@
+# Docerion header of family_picker_coordinator_unittest.mm.
+type: test
+title: Family picker coordinator unit tests
+summary: Verifies that the family picker coordinator logs the correct password sharing user action metrics.

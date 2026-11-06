@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Add password view controller delegate protocol
+// summary: Declares delegate callbacks for adding credentials, duplicate checks, URL validation and strong password generation.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_PASSWORD_DETAILS_ADD_PASSWORD_VIEW_CONTROLLER_DELEGATE_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_PASSWORD_DETAILS_ADD_PASSWORD_VIEW_CONTROLLER_DELEGATE_H_
 

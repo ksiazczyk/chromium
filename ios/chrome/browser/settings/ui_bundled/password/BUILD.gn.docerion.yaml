@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for iOS password settings
+summary: Defines GN source sets and dependencies for the iOS password settings UI, including coordinator, common, and UI targets.

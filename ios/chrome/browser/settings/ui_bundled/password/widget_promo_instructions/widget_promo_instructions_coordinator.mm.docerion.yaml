@@ -1,0 +1,4 @@
+# Docerion header of widget_promo_instructions_coordinator.mm.
+type: source
+title: Widget promo instructions coordinator implementation
+summary: Implementation of the coordinator presenting the widget promo instructions screen, including local reauthentication handling.

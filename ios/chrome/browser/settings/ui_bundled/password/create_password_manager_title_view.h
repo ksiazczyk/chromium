@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password Manager branded title view creation header
+// summary: Declares CreatePasswordManagerTitleView, which builds a branded navigation bar title view for the Password Manager.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_CREATE_PASSWORD_MANAGER_TITLE_VIEW_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_CREATE_PASSWORD_MANAGER_TITLE_VIEW_H_
 

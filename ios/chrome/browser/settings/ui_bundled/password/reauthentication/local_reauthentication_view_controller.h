@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local reauthentication view controller header
+// summary: Declares the view controller that requests Local Authentication on presentation and reports the result to its delegate.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_REAUTHENTICATION_LOCAL_REAUTHENTICATION_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_REAUTHENTICATION_LOCAL_REAUTHENTICATION_VIEW_CONTROLLER_H_
 

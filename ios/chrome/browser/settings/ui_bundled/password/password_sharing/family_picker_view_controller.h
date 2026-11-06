@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Family picker view controller interface
+// summary: Declares the table view controller that presents the user's Google Family members for password sharing, with back and cancel navigation bar buttons.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_PASSWORD_SHARING_FAMILY_PICKER_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_PASSWORD_SHARING_FAMILY_PICKER_VIEW_CONTROLLER_H_
 

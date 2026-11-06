@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordCheckupMediatorDelegate protocol header
+// summary: Declares the delegate protocol through which the mediator asks its owner to toggle Safety Check push notifications and present related UI.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_PASSWORD_CHECKUP_PASSWORD_CHECKUP_MEDIATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_PASSWORD_CHECKUP_PASSWORD_CHECKUP_MEDIATOR_DELEGATE_H_
 

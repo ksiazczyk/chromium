@@ -1,0 +1,4 @@
+# Docerion header of local_reauthentication_constants.mm.
+type: source
+title: Local reauthentication constants implementation
+summary: Defines the reauthentication UI event histogram name and the view controller accessibility identifier value.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password account storage utilities header
+// summary: Declares functions that determine whether a credential or affiliated group should display the local-only icon based on sync state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_ACCOUNT_STORAGE_UTILS_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_ACCOUNT_STORAGE_UTILS_H_
 

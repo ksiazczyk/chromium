@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password Checkup commands protocol header
+// summary: Declares the PasswordCheckupCommands protocol for dismissing the homepage, opening Password Issues, navigating to URLs and handling all passwords deleted.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_PASSWORD_CHECKUP_PASSWORD_CHECKUP_COMMANDS_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_PASSWORD_CHECKUP_PASSWORD_CHECKUP_COMMANDS_H_
 

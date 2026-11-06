@@ -1,0 +1,4 @@
+# Docerion header of constants.mm.
+type: source
+title: Passwords in other apps accessibility identifier definitions
+summary: Defines the accessibility identifier string constants declared for the passwords in other apps view and its elements.

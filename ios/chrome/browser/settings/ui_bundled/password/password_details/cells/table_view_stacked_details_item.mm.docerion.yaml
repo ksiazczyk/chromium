@@ -1,0 +1,4 @@
+# Docerion header of table_view_stacked_details_item.mm.
+type: source
+title: Stacked details table view item implementation
+summary: Implements the item and cell, creating stacked detail labels, handling styling, accessibility labels, trait changes, and cell reuse.

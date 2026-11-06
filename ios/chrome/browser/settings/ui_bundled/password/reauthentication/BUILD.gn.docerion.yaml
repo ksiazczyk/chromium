@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for password reauthentication
+summary: Defines GN source sets for the reauthentication coordinator, UI, constants, delegate and unit tests together with their dependencies.

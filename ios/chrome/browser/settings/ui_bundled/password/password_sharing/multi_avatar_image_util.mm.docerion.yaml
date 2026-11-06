@@ -1,0 +1,4 @@
+# Docerion header of multi_avatar_image_util.mm.
+type: source
+title: Multi-avatar image utility implementation
+summary: Implements composing multiple avatars into one image, cropping halves and drawing the +N overflow badge.

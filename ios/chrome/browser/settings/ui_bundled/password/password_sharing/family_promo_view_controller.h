@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FamilyPromoViewController header
+// summary: Declares the bottom sheet that tells users they need to create a Google Family to share passwords.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_PASSWORD_SHARING_FAMILY_PROMO_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_PASSWORD_SHARING_FAMILY_PROMO_VIEW_CONTROLLER_H_
 

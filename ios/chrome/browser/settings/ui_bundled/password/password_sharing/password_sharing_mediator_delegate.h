@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password sharing mediator delegate protocol
+// summary: Declares the delegate protocol through which the mediator reports fetched family members and fetch status.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_PASSWORD_SHARING_PASSWORD_SHARING_MEDIATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_PASSWORD_SHARING_PASSWORD_SHARING_MEDIATOR_DELEGATE_H_
 

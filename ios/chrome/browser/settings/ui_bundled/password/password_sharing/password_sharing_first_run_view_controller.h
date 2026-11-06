@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password sharing first run view controller
+// summary: Declares the bottom sheet view controller shown when the user first opens the password sharing flow until they tap Share.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_PASSWORD_SHARING_PASSWORD_SHARING_FIRST_RUN_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_PASSWORD_SHARING_PASSWORD_SHARING_FIRST_RUN_VIEW_CONTROLLER_H_
 

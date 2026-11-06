@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing status consumer protocol
+// summary: Declares the consumer protocol supplying sender and recipient profile images plus subtitle, footer and site URL strings for the success view.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_PASSWORD_SHARING_SHARING_STATUS_CONSUMER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_PASSWORD_SHARING_SHARING_STATUS_CONSUMER_H_
 

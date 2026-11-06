@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password sharing first run action handler protocol
+// summary: Declares the protocol handling user interactions in the password sharing first run view, such as tapping the learn more link.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_PASSWORD_SHARING_PASSWORD_SHARING_FIRST_RUN_ACTION_HANDLER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_PASSWORD_SHARING_PASSWORD_SHARING_FIRST_RUN_ACTION_HANDLER_H_
 

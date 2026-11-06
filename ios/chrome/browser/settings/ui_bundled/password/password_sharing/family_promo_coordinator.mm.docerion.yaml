@@ -1,0 +1,4 @@
+# Docerion header of family_promo_coordinator.mm.
+type: source
+title: Family promo coordinator implementation
+summary: Implements the family promo coordinator, presenting the promo sheet, logging interaction metrics and opening family management URLs.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Password Checkup asset catalog build definition
+summary: Defines the bundle_data_xcassets target that packages the Password Checkup header images (green, loading, red, yellow, with dark variants) for the iOS settings UI.

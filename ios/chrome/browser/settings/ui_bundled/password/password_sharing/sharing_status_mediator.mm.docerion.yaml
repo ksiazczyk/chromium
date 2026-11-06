@@ -1,0 +1,4 @@
+# Docerion header of sharing_status_mediator.mm.
+type: source
+title: Sharing status mediator implementation
+summary: Implements SharingStatusMediator, fetching the sender avatar, building the recipient image, and supplying subtitle and footer strings.

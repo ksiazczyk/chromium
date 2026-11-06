@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Widget promo instructions build file
+summary: GN build configuration defining the source sets for the widget promo instructions coordinator, view controller and constants.

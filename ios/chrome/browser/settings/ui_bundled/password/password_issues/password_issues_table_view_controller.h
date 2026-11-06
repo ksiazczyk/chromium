@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password issues table view controller interface
+// summary: Declares the settings screen that lists compromised, reused, or weak password issues for a given warning type.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_PASSWORD_ISSUES_PASSWORD_ISSUES_TABLE_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_UI_BUNDLED_PASSWORD_PASSWORD_ISSUES_PASSWORD_ISSUES_TABLE_VIEW_CONTROLLER_H_
 
