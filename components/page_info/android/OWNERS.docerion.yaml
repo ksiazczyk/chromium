@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Page info Android OWNERS file
+summary: Points to the parent page_info OWNERS file so ownership rules apply to this directory.

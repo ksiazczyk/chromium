@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AboutThisSiteService implementation
+// summary: Implements the keyed service that fetches About this site metadata via the optimization guide, validates it and records interaction and status metrics.
+// ---
+
 #include "components/page_info/core/about_this_site_service.h"
 
 #include "base/feature_list.h"

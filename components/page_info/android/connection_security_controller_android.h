@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connection security controller Android header
+// summary: Declares ConnectionSecurityControllerAndroid, which reuses desktop logic for security icons and strings instead of reimplementing it in Java.
+// ---
+
 #ifndef COMPONENTS_PAGE_INFO_ANDROID_CONNECTION_SECURITY_CONTROLLER_ANDROID_H_
 #define COMPONENTS_PAGE_INFO_ANDROID_CONNECTION_SECURITY_CONTROLLER_ANDROID_H_
 

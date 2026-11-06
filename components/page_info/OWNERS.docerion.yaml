@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Page Info Owners
+summary: Delegates ownership to the chrome browser page_info OWNERS file and assigns a per-file owner for about_this_site files.

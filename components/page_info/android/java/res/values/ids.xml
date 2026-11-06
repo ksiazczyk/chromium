@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Page info Android ID resources
+summary: Declares the Android ID resource page_info_click_callback used by the page info UI for click callbacks.
+-->
+
 <resources>
     <item name="page_info_click_callback" type="id" />
 </resources>

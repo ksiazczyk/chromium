@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MerchantTrustService implementation
+// summary: Implements the service that fetches merchant trust signals from the optimization guide, validates them and records merchant trust interaction metrics.
+// ---
+
 #include "components/page_info/core/merchant_trust_service.h"
 
 #include <optional>

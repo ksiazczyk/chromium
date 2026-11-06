@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for page_info core
+summary: Defines the proto library, core static library, Android Java enum generation and unit test targets for the page_info core component.

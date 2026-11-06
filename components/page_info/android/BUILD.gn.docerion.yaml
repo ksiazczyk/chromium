@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Page info Android BUILD.gn build file
+summary: GN build configuration defining the native static library, Java library and Android resources for the page info component.

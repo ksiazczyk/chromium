@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionParamsListBuilder
+// summary: Helper for PageInfoController that turns permission values into PermissionParams for PageInfoView, adding Android system-level warning texts for location, NFC and other permissions.
+// ---
+
 package org.chromium.components.page_info;
 
 import android.content.Context;

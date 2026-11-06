@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Page info Android DEPS include rules
+summary: Lists the include rules that allow or deny dependencies for code in the page_info Android directory.

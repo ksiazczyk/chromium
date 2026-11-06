@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageInfoControllerAndroid JNI implementation
+// summary: Implements the Android page info controller, bridging the Java page info UI to the native PageInfo presenter and handling permissions, identity info, and user action metrics.
+// ---
+
 #include "components/page_info/android/page_info_controller_android.h"
 
 #include <algorithm>

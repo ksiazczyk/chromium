@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page info history data source header
+// summary: Declares PageInfoHistoryDataSource, which retrieves the last visit time for a site host from the history service and formats it for display.
+// ---
+
 #ifndef COMPONENTS_PAGE_INFO_CORE_PAGE_INFO_HISTORY_DATA_SOURCE_H_
 #define COMPONENTS_PAGE_INFO_CORE_PAGE_INFO_HISTORY_DATA_SOURCE_H_
 

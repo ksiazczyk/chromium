@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connection security controller Android implementation
+// summary: C++ half of the Java PageInfoConnectionSecurityController that supplies identity info and handles revoking SSL error bypass decisions.
+// ---
+
 #include "components/page_info/android/connection_security_controller_android.h"
 
 #include "base/android/jni_android.h"

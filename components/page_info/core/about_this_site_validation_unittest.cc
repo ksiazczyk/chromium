@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: About this site validation unit tests
+// summary: Unit tests verifying that valid and malformed About this site metadata protos yield the expected AboutThisSiteStatus validation results.
+// ---
+
 #include "components/page_info/core/about_this_site_validation.h"
 
 #include "base/test/scoped_feature_list.h"

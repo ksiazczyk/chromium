@@ -4,6 +4,13 @@
    Use of this source code is governed by a BSD-style license that can be
    found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Connection security layout
+summary: Android layout for the page info security description with details, reset decision link and a QWAC certificate info section.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

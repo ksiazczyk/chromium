@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Merchant trust service header
+// summary: Declares MerchantTrustService, a keyed service that fetches merchant trust signals for a URL via the optimization guide and records merchant trust interaction metrics.
+// ---
+
 #ifndef COMPONENTS_PAGE_INFO_CORE_MERCHANT_TRUST_SERVICE_H_
 #define COMPONENTS_PAGE_INFO_CORE_MERCHANT_TRUST_SERVICE_H_
 

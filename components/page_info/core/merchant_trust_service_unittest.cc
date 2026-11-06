@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Merchant trust service unit tests
+// summary: Unit tests for MerchantTrustService using mock optimization guide deciders and delegates to cover merchant data responses and interaction metric recording.
+// ---
+
 #include "components/page_info/core/merchant_trust_service.h"
 
 #include <string_view>

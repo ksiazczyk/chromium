@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageInfo Implementation
+// summary: Implements the PageInfo class that gathers a website's permissions, connection state, and identity for the page info UI.
+// ---
+
 #include "components/page_info/page_info.h"
 
 #include <stddef.h>

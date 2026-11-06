@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connection info view of the Android page info UI
+// summary: Java-side view of the page info UI that displays connection information, certificate details, a reset decisions button and a help link.
+// ---
+
 package org.chromium.components.page_info;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

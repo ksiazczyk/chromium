@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageInfoDelegate Interface
+// summary: Declares the abstract delegate interface that lets embedders customize PageInfo behavior such as permission lookups and settings dialogs.
+// ---
+
 #ifndef COMPONENTS_PAGE_INFO_PAGE_INFO_DELEGATE_H_
 #define COMPONENTS_PAGE_INFO_PAGE_INFO_DELEGATE_H_
 

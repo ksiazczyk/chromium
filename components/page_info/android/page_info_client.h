@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageInfoClient interface for Android page info
+// summary: Declares the PageInfoClient interface with setter and getter used to create a PageInfoDelegate for WebContents and to map native resource IDs to Java resource IDs.
+// ---
+
 #ifndef COMPONENTS_PAGE_INFO_ANDROID_PAGE_INFO_CLIENT_H_
 #define COMPONENTS_PAGE_INFO_ANDROID_PAGE_INFO_CLIENT_H_
 

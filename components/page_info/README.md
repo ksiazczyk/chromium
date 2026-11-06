@@ -1,3 +1,13 @@
+---
+type: readme
+title: Page Info Component
+summary: Explains the purpose of the Page Info component and how its desktop Views-based and Android implementations work.
+relations:
+  - documents /chrome/browser/ui/views/page_info/page_info_bubble_view.h
+  - documents /chrome/browser/ui/views/page_info/page_info_bubble_view_base.h
+  - documents /chrome/browser/ui/views/page_info/chosen_object_view.h
+---
+
 # Page Info Component
 
 This directory contains the source code for the **Page Info** component in Chromium. This component provides the necessary APIs for showing the **Page Info UI**, which is accessed by clicking on the security status icon in the omnibox and related toolbars.

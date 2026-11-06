@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page info action enum
+// summary: Declares the PageInfoAction UMA enum listing user actions in Page Info, with a generated Java counterpart and a matching enums.xml entry.
+// ---
+
 #ifndef COMPONENTS_PAGE_INFO_CORE_PAGE_INFO_ACTION_H_
 #define COMPONENTS_PAGE_INFO_CORE_PAGE_INFO_ACTION_H_
 

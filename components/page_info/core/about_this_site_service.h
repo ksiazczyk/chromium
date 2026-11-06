@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AboutThisSiteService class declaration
+// summary: Declares the AboutThisSiteService keyed service that provides About this site information for a website, with interaction enums and a tab helper interface.
+// ---
+
 #ifndef COMPONENTS_PAGE_INFO_CORE_ABOUT_THIS_SITE_SERVICE_H_
 #define COMPONENTS_PAGE_INFO_CORE_ABOUT_THIS_SITE_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate viewer dialog for X.509 certificate chains
+// summary: Android UI component that shows a dialog with X.509 certificate chain details, letting the user pick a certificate via a spinner.
+// ---
+
 package org.chromium.components.page_info;
 
 import android.app.Dialog;

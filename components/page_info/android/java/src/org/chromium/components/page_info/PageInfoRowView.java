@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reusable page info row view with icon, title and subtitle
+// summary: Custom Android view rendering an icon, title and subtitle row used across the page info UI, configured through ViewParams.
+// ---
+
 package org.chromium.components.page_info;
 
 import android.content.Context;

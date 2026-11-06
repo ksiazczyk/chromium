@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page info highlight row and opening configuration
+// summary: Data class holding the highlighted permission for a page info row and whether the permissions subpage should open automatically.
+// ---
+
 package org.chromium.components.page_info;
 
 import org.chromium.build.annotations.NullMarked;

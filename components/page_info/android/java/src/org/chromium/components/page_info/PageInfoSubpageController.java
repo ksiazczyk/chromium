@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface for page info subpage controllers
+// summary: Interface defining the lifecycle of page info subpages, covering view creation, cleanup and data refresh notifications.
+// ---
+
 package org.chromium.components.page_info;
 
 import android.view.View;

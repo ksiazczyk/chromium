@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controller for the page info permissions section
+// summary: Controller managing the permissions section of the page info dialog, including permission objects and the single website settings subpage.
+// ---
+
 package org.chromium.components.page_info;
 
 import android.content.res.Resources;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageInfoUI Interface
+// summary: Declares the PageInfoUI platform-independent interface with structs for security descriptions, cookie info, and chosen objects.
+// ---
+
 #ifndef COMPONENTS_PAGE_INFO_PAGE_INFO_UI_H_
 #define COMPONENTS_PAGE_INFO_PAGE_INFO_UI_H_
 

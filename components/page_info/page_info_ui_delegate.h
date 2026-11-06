@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page Info UI delegate interface
+// summary: Header defining the PageInfoUiDelegate interface with virtual methods for permission results, embargo results, autoplay and merchant trust info used by the page info UI.
+// ---
+
 #ifndef COMPONENTS_PAGE_INFO_PAGE_INFO_UI_DELEGATE_H_
 #define COMPONENTS_PAGE_INFO_PAGE_INFO_UI_DELEGATE_H_
 

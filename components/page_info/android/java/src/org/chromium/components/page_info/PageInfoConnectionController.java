@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controller for the page info connection section
+// summary: Controller managing the connection section of the page info UI, launching the ConnectionInfoView as a subpage and styling security rows.
+// ---
+
 package org.chromium.components.page_info;
 
 import android.text.Spannable;

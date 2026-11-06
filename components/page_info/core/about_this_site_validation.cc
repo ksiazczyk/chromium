@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: About this site metadata validation implementation
+// summary: Implements validation of AboutThisSiteMetadata protos, checking description, source, first-seen timestamp and more-about fields for completeness and validity.
+// ---
+
 #include "components/page_info/core/about_this_site_validation.h"
 
 #include "base/feature_list.h"

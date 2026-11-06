@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Page Info Directory Metadata
+summary: Points to the shared COMMON_METADATA mixin that supplies directory metadata for the page_info folder.

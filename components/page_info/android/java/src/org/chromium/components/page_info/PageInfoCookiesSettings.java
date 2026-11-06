@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Page info cookies settings fragment for site cookie controls
+// summary: Android settings fragment showing a toggle and description for third-party cookie blocking for a site within the page info UI.
+// ---
+
 package org.chromium.components.page_info;
 
 import static org.chromium.build.NullUtil.assertNonNull;
