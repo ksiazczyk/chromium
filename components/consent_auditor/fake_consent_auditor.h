@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake consent auditor class declaration
+// summary: Declares FakeConsentAuditor, a gmock-based test double of ConsentAuditor that stores recorded consents and provides matchers for consent protos.
+// ---
+
 #ifndef COMPONENTS_CONSENT_AUDITOR_FAKE_CONSENT_AUDITOR_H_
 #define COMPONENTS_CONSENT_AUDITOR_FAKE_CONSENT_AUDITOR_H_
 

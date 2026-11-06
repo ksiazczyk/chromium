@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trust Tokens key commitments installer policy header
+// summary: Declares the installer policy for receiving updated Trust Tokens key commitments, including the keys.json file name constant and shared loading helpers for testing and Android.
+// ---
+
 #ifndef COMPONENTS_COMPONENT_UPDATER_INSTALLER_POLICIES_TRUST_TOKEN_KEY_COMMITMENTS_COMPONENT_INSTALLER_POLICY_H_
 #define COMPONENTS_COMPONENT_UPDATER_INSTALLER_POLICIES_TRUST_TOKEN_KEY_COMMITMENTS_COMPONENT_INSTALLER_POLICY_H_
 

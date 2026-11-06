@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component updater path keys
+// summary: Defines path keys for component installation directories and declares RegisterPathProvider to register the component updater path provider.
+// ---
+
 #ifndef COMPONENTS_COMPONENT_UPDATER_COMPONENT_UPDATER_PATHS_H_
 #define COMPONENTS_COMPONENT_UPDATER_COMPONENT_UPDATER_PATHS_H_
 

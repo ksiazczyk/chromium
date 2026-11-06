@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateTask
+// summary: Native background task that initiates component updates and delegates start and stop handling to UpdateScheduler before and after native loads.
+// ---
+
 package org.chromium.components.component_updater;
 
 import android.content.Context;

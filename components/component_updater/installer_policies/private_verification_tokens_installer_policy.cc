@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private verification tokens installer policy
+// summary: Implements the installer policy for the Private Verification Token component, loading the issuer configuration file when the component is ready.
+// ---
+
 #include "components/component_updater/installer_policies/private_verification_tokens_installer_policy.h"
 
 #include <stdint.h>

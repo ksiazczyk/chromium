@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component update service public interface
+// summary: Defines the ComponentUpdateService interface along with ComponentInfo and ComponentRegistration used to manage browser component updates.
+// ---
+
 #ifndef COMPONENTS_COMPONENT_UPDATER_COMPONENT_UPDATER_SERVICE_H_
 #define COMPONENTS_COMPONENT_UPDATER_COMPONENT_UPDATER_SERVICE_H_
 

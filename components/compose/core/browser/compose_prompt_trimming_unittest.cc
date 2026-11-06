@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Compose prompt trimming
+// summary: Parameterized tests verifying GetTrimmedPageText trims page text according to max length, active element offset, and header budget.
+// ---
+
 #include <memory>
 #include <string>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor Safety Lists component installer policy implementation
+// summary: Implements the installer policy that verifies and lazily reads the Actor Safety Lists component data from disk and hands it to a ready callback.
+// ---
+
 #include "components/component_updater/installer_policies/actor_safety_lists_component_installer.h"
 
 #include <stdint.h>

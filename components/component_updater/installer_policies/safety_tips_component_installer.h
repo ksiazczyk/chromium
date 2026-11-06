@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety tips component installer policy header
+// summary: Declares the SafetyTipsComponentInstallerPolicy class and the RegisterSafetyTipsComponent function used to install and register the Safety Tips component via the component updater.
+// ---
+
 #ifndef COMPONENTS_COMPONENT_UPDATER_INSTALLER_POLICIES_SAFETY_TIPS_COMPONENT_INSTALLER_H_
 #define COMPONENTS_COMPONENT_UPDATER_INSTALLER_POLICIES_SAFETY_TIPS_COMPONENT_INSTALLER_H_
 

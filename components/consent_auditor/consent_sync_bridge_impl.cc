@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Consent sync bridge implementation
+// summary: Implements the consent sync bridge, persisting user consent records in a sync data type store and handling sync merging, deletions and deferred consents.
+// ---
+
 #include "components/consent_auditor/consent_sync_bridge_impl.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Repeating timer class declaration
+// summary: Declares the Timer class, a sequence-checked wrapper around base::OneShotTimer that repeats a user task at a fixed interval.
+// ---
+
 #ifndef COMPONENTS_COMPONENT_UPDATER_TIMER_H_
 #define COMPONENTS_COMPONENT_UPDATER_TIMER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: First-Party Sets component installer policy implementation
+// summary: Implements the installer policy that delivers the Related Website Sets component file and passes it to a ready callback once registration completes.
+// ---
+
 #include "components/component_updater/installer_policies/first_party_sets_component_installer_policy.h"
 
 #include <stdint.h>

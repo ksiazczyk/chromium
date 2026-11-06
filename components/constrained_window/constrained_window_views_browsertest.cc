@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for constrained window views
+// summary: Verifies widget ownership for owned web modals and fallback to browser-modal behavior when no dialog manager delegate is set.
+// ---
+
 #include "components/constrained_window/constrained_window_views.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModalDialogHost property key declaration
+// summary: Declares a UI class property key that stores the ModalDialogHost pointer associated with a window in the constrained_window namespace.
+// ---
+
 #ifndef COMPONENTS_CONSTRAINED_WINDOW_MODAL_DIALOG_HOST_PROPERTY_H_
 #define COMPONENTS_CONSTRAINED_WINDOW_MODAL_DIALOG_HOST_PROPERTY_H_
 

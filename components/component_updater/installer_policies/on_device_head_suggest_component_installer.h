@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device head suggest component installer policy header
+// summary: Declares the OnDeviceHeadSuggestInstallerPolicy class used to update the on-device omnibox suggest model, including locale-based model acceptance and registration.
+// ---
+
 #ifndef COMPONENTS_COMPONENT_UPDATER_INSTALLER_POLICIES_ON_DEVICE_HEAD_SUGGEST_COMPONENT_INSTALLER_H_
 #define COMPONENTS_COMPONENT_UPDATER_INSTALLER_POLICIES_ON_DEVICE_HEAD_SUGGEST_COMPONENT_INSTALLER_H_
 

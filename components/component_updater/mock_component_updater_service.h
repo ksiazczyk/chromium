@@ -8,6 +8,12 @@
 // - Includes and inclusion guard added.
 // - Constructor and destructor added to satisfy chromium-style checker.
 
+// ---docerion
+// type: test
+// title: Mock component update service
+// summary: Declares a gmock mock of ComponentUpdateService for use in component updater tests.
+// ---
+
 #ifndef COMPONENTS_COMPONENT_UPDATER_MOCK_COMPONENT_UPDATER_SERVICE_H_
 #define COMPONENTS_COMPONENT_UPDATER_MOCK_COMPONENT_UPDATER_SERVICE_H_
 

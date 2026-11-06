@@ -1,0 +1,4 @@
+# Docerion header of compose_enums.mojom.
+type: source
+title: ComposeStatus Mojom enum
+summary: Defines the ComposeStatus response status codes for Compose, kept in sync with the histogram metadata enums.

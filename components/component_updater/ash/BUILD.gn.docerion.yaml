@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the component updater ash library
+summary: Defines the GN targets for the ChromeOS component updater ash library and a test-only source set containing the fake component manager sources.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Component update service unit tests
+// summary: Unit tests for the component update service using mock installers and an update client to verify registration, update checks, and on-demand behavior.
+// ---
+
 #include "components/component_updater/component_updater_service.h"
 
 #include <algorithm>

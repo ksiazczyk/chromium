@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for compose strings
+summary: Declares the owning team email for the compose strings resource directory.

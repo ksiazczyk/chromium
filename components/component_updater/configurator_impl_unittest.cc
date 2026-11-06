@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Configurator implementation unit tests
+// summary: Tests ConfiguratorImpl timing values and command line policy behavior such as fast update.
+// ---
+
 #include "components/component_updater/configurator_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: config
+// title: Compose configuration header
+// summary: Declares the Compose Config struct with defaults for input limits, page context, nudges, and dialog fallback positioning strategies.
+// ---
+
 #ifndef COMPONENTS_COMPOSE_CORE_BROWSER_CONFIG_H_
 #define COMPONENTS_COMPOSE_CORE_BROWSER_CONFIG_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component updater configurator implementation
+// summary: Implements update check timing, update and ping URLs, and extra request parameters for the component updater.
+// ---
+
 #include "components/component_updater/configurator_impl.h"
 
 #include <algorithm>

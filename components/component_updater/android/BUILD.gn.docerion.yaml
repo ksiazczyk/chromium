@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Component updater Android build targets
+summary: Defines the Java library, JNI header generation, and native static library targets for the Android background task update scheduler.

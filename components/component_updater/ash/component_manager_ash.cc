@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ComponentManagerAsh implementation
+// summary: Implements constructors and destructors for the CompatibleComponentInfo struct and the ComponentManagerAsh base class in the component updater.
+// ---
+
 #include "components/component_updater/ash/component_manager_ash.h"
 
 #include <optional>

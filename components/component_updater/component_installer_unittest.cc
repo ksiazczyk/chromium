@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Component installer unit tests
+// summary: Unit tests covering component registration, installation, and installer policy behavior using a mocked update client.
+// ---
+
 #include "components/component_updater/component_installer.h"
 
 #include <stdint.h>

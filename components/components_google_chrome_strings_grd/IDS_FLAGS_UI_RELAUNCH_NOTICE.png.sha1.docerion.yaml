@@ -1,0 +1,4 @@
+# Docerion header of IDS_FLAGS_UI_RELAUNCH_NOTICE.png.sha1.
+type: data
+title: SHA1 hash for flags UI relaunch notice image
+summary: Stores the SHA1 checksum of the PNG screenshot for the flags UI relaunch notice string, used to track its translation.

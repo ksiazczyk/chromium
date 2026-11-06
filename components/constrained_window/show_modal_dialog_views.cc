@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShowModalDialog helper for Views
+// summary: Defines ShowModalDialog, which creates a NativeWebContentsModalDialogManagerViews and hands the dialog to the WebContentsModalDialogManager for display.
+// ---
+
 #include <memory>
 
 #include "build/build_config.h"

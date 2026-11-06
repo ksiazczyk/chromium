@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Consent sync bridge unit tests
+// summary: Unit tests for ConsentSyncBridgeImpl covering consent recording, storage keys, sync merging and deletion handling using a mock change processor and in-memory store.
+// ---
+
 #include "components/consent_auditor/consent_sync_bridge_impl.h"
 
 #include <map>

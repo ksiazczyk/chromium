@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for component updater Android
+summary: Sets include rules allowing dependencies on the background task scheduler, crash, metrics, mojo base, and metrics proto components.

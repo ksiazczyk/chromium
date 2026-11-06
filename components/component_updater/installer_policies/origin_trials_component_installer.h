@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Origin trials component installer policy header
+// summary: Declares the OriginTrialsComponentInstallerPolicy class that installs a component overriding the origin trial framework configuration.
+// ---
+
 #ifndef COMPONENTS_COMPONENT_UPDATER_INSTALLER_POLICIES_ORIGIN_TRIALS_COMPONENT_INSTALLER_H_
 #define COMPONENTS_COMPONENT_UPDATER_INSTALLER_POLICIES_ORIGIN_TRIALS_COMPONENT_INSTALLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ConsentAuditorImpl unit tests
+// summary: Unit tests for ConsentAuditorImpl that verify recorded consents using a fake consent sync bridge and a test clock.
+// ---
+
 #include "components/consent_auditor/consent_auditor_impl.h"
 
 #include <array>

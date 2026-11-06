@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component installer implementation
+// summary: Implements ComponentInstaller and default ComponentInstallerPolicy behavior for verifying, installing, and registering CRX components.
+// ---
+
 #include "components/component_updater/component_installer.h"
 
 #include <algorithm>

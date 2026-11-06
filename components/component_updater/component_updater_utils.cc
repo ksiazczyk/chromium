@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component updater utility functions
+// summary: Implements helpers that look up registered component registrations by component ID.
+// ---
+
 #include "components/component_updater/component_updater_utils.h"
 
 #include <optional>

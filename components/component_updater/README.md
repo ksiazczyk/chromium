@@ -1,3 +1,13 @@
+---
+type: readme
+title: Component Updater
+summary: Explains how Chrome's component updater works, defines terminology, and walks through adding a new component, from signing keys to installers.
+relations:
+  - references /chrome/browser/component_updater/file_type_policies_component_installer.cc
+  - references /components/component_updater/component_installer.h
+  - references /components/crx_file/README.md
+---
+
 # Component Updater
 
 [TOC]

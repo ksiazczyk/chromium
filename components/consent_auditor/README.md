@@ -1,3 +1,9 @@
+---
+type: readme
+title: Consent Auditor
+summary: Describes the consent auditor component, which records and retrieves the exact consent language users agreed to when enabling features, and stresses calling it from UI code.
+---
+
 # Consent Auditor
 
 The consent auditor component is a service containing methods used for

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for component updater
+summary: Defines include rules allowing the Android component updater Java sources to depend on content public browser UiThreadTaskTraits.

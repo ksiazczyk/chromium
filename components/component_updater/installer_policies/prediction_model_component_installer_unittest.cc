@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Prediction model component installer unit tests
+// summary: Unit tests for the prediction model component installer, covering registration, installation verification, and model update notifications to observers.
+// ---
+
 #include "components/component_updater/installer_policies/prediction_model_component_installer.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: First-Party Sets component installer policy unit tests
+// summary: Unit tests for the First-Party Sets component installer policy, covering component readiness, registration callbacks, and loading of installed First-Party Sets data.
+// ---
+
 #include "components/component_updater/installer_policies/first_party_sets_component_installer_policy.h"
 
 #include "base/check.h"

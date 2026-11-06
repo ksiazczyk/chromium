@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Allowed include rules for the directory
+summary: Lists the Chromium dependencies that files in this directory may include, such as crx_file, prefs, update_client, net, and url.

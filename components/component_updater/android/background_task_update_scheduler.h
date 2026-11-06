@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background task update scheduler header
+// summary: Declares BackgroundTaskUpdateScheduler, the native UpdateScheduler implementation that drives component updates through the Android BackgroundTaskScheduler via JNI.
+// ---
+
 #ifndef COMPONENTS_COMPONENT_UPDATER_ANDROID_BACKGROUND_TASK_UPDATE_SCHEDULER_H_
 #define COMPONENTS_COMPONENT_UPDATER_ANDROID_BACKGROUND_TASK_UPDATE_SCHEDULER_H_
 

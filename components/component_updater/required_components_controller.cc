@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Required components controller implementation
+// summary: Implements the controller that registers required components for update, tracks their progress, and blocks until all required components are ready or a timeout is reached.
+// ---
+
 #include "components/component_updater/required_components_controller.h"
 
 #include <algorithm>

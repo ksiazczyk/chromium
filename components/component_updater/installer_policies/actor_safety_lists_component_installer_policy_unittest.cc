@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Actor Safety Lists installer policy
+// summary: Tests installation verification and lazy reading of the component file for the Actor Safety Lists installer policy.
+// ---
+
 #include <optional>
 #include <string>
 

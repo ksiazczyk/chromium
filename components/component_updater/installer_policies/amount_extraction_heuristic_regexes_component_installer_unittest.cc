@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the amount extraction regexes installer policy
+// summary: Tests component registration, installation verification, and loading of heuristic regexes data, checking installation result metrics.
+// ---
+
 #include "components/component_updater/installer_policies/amount_extraction_heuristic_regexes_component_installer.h"
 
 #include "base/files/file_path.h"

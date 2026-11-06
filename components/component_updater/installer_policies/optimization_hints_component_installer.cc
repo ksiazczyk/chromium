@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization Hints component installer implementation
+// summary: Implements the installer policy for the Chrome Optimization Hints component, verifying installations and forwarding unindexed hints files to the optimization guide update listener.
+// ---
+
 #include "components/component_updater/installer_policies/optimization_hints_component_installer.h"
 
 #include <stdint.h>

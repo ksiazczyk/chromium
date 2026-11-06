@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Optimization hints component installer unit tests
+// summary: Unit tests for the optimization hints component installer, covering component registration with the feature enabled or disabled and loading hints from the install directory.
+// ---
+
 #include "components/component_updater/installer_policies/optimization_hints_component_installer.h"
 
 #include <utility>

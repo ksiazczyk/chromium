@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component updater command line config policy
+// summary: Declares ComponentUpdaterCommandLineConfigPolicy, which derives component updater settings such as URL overrides, delays, and feature toggles from command-line switches.
+// ---
+
 #ifndef COMPONENTS_COMPONENT_UPDATER_COMPONENT_UPDATER_COMMAND_LINE_CONFIG_POLICY_H_
 #define COMPONENTS_COMPONENT_UPDATER_COMPONENT_UPDATER_COMMAND_LINE_CONFIG_POLICY_H_
 

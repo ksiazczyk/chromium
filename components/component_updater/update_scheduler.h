@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update scheduler abstract interface
+// summary: Defines the UpdateScheduler interface for scheduling update tasks to run periodically after an initial delay, with a stop callback and a Stop method.
+// ---
+
 #ifndef COMPONENTS_COMPONENT_UPDATER_UPDATE_SCHEDULER_H_
 #define COMPONENTS_COMPONENT_UPDATER_UPDATE_SCHEDULER_H_
 

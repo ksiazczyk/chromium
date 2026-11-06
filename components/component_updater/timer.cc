@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Repeating timer implementation
+// summary: Implements a repeating timer that runs a user task at a fixed interval after an initial delay and can be stopped.
+// ---
+
 #include "components/component_updater/timer.h"
 
 #include "base/functional/bind.h"

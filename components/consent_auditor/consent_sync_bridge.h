@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConsentSyncBridge interface
+// summary: Declares the ConsentSyncBridge interface for recording user consent specifics and exposing the sync data type controller delegate.
+// ---
+
 #ifndef COMPONENTS_CONSENT_AUDITOR_CONSENT_SYNC_BRIDGE_H_
 #define COMPONENTS_CONSENT_AUDITOR_CONSENT_SYNC_BRIDGE_H_
 

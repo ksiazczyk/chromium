@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ComposeManagerImpl
+// summary: Unit tests covering dialog opening, suggestions, popup triggering, and UKM metrics for the Compose manager using mock clients and autofill test utilities.
+// ---
+
 #include "components/compose/core/browser/compose_manager_impl.h"
 
 #include <memory>

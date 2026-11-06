@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History Search strings component installer policy header
+// summary: Declares the HistorySearchStringsComponentInstallerPolicy class plus registration and cleanup functions for updating strings used by HistoryEmbeddingsService.
+// ---
+
 #ifndef COMPONENTS_COMPONENT_UPDATER_INSTALLER_POLICIES_HISTORY_SEARCH_STRINGS_COMPONENT_INSTALLER_H_
 #define COMPONENTS_COMPONENT_UPDATER_INSTALLER_POLICIES_HISTORY_SEARCH_STRINGS_COMPONENT_INSTALLER_H_
 

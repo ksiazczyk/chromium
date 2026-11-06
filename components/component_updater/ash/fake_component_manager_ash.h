@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeComponentManagerAsh header
+// summary: Declares FakeComponentManagerAsh, a fake ComponentManagerAsh for tests that abstracts away the imageloader, component updater services and local file system dependencies.
+// ---
+
 #ifndef COMPONENTS_COMPONENT_UPDATER_ASH_FAKE_COMPONENT_MANAGER_ASH_H_
 #define COMPONENTS_COMPONENT_UPDATER_ASH_FAKE_COMPONENT_MANAGER_ASH_H_
 

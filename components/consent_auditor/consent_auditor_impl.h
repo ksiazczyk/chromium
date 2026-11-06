@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConsentAuditorImpl class declaration
+// summary: Declares ConsentAuditorImpl, which implements the ConsentAuditor interface on top of a consent sync bridge, app locale, and clock.
+// ---
+
 #ifndef COMPONENTS_CONSENT_AUDITOR_CONSENT_AUDITOR_IMPL_H_
 #define COMPONENTS_CONSENT_AUDITOR_CONSENT_AUDITOR_IMPL_H_
 

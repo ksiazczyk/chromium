@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Consent Auditor directory metadata
+summary: Points the directory's metadata to the common metadata mixins of the sync component.

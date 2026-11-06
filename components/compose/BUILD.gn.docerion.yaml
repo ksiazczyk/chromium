@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Compose buildflags GN build target
+summary: Defines a buildflag header exposing the ENABLE_COMPOSE flag for the Compose component.

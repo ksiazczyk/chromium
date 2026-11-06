@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Compose browser directory dependency rules
+summary: Allowlists includes from autofill, segmentation platform, strings, UKM and metrics for this directory.

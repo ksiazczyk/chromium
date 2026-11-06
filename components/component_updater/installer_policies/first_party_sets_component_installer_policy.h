@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: First-Party Sets component installer policy header
+// summary: Declares the FirstPartySetsComponentInstallerPolicy class, its sets-ready callback, and testing helpers for the Related Website Sets component.
+// ---
+
 #ifndef COMPONENTS_COMPONENT_UPDATER_INSTALLER_POLICIES_FIRST_PARTY_SETS_COMPONENT_INSTALLER_POLICY_H_
 #define COMPONENTS_COMPONENT_UPDATER_INSTALLER_POLICIES_FIRST_PARTY_SETS_COMPONENT_INSTALLER_POLICY_H_
 

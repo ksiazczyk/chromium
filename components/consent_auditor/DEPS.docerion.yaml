@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Consent Auditor include dependency rules
+summary: Lists the allowed include dependencies of the consent auditor component, such as keyed_service, sync, variations, and gaia.

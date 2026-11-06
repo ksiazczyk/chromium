@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Required components controller unit tests
+// summary: Unit tests for RequiredComponentsController covering exact, partial, and wildcard name matching plus the delay behavior while required components update.
+// ---
+
 #include "components/component_updater/required_components_controller.h"
 
 #include <memory>
