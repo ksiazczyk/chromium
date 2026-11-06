@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlacAudioHandler class declaration
+// summary: Declares an AudioHandler that decodes FLAC data with the libFLAC stream decoder and buffers PCM samples.
+// ---
+
 #ifndef MEDIA_AUDIO_FLAC_AUDIO_HANDLER_H_
 #define MEDIA_AUDIO_FLAC_AUDIO_HANDLER_H_
 

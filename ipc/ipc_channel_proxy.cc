@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC channel proxy implementation
+// summary: Implements ChannelProxy, which runs an IPC Channel on a background thread and dispatches messages and connection events to a listener thread.
+// ---
+
 #include "ipc/ipc_channel_proxy.h"
 
 #include <stddef.h>

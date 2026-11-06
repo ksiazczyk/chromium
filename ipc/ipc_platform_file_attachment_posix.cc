@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX platform file attachment implementation
+// summary: Implements the POSIX platform file attachment used to send file descriptors as part of IPC messages.
+// ---
+
 #include "ipc/ipc_platform_file_attachment_posix.h"
 
 #include <tuple>

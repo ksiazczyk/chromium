@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioManager interface
+// summary: Declares the AudioManager that owns audio resources, providing stream factories, shutdown, app name and debug recording initialization APIs.
+// ---
+
 #ifndef MEDIA_AUDIO_AUDIO_MANAGER_H_
 #define MEDIA_AUDIO_AUDIO_MANAGER_H_
 

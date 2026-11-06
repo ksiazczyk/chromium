@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Media component GN build file
+summary: Defines build targets, buildflag headers and test targets for the Chromium //media directory, including codec and platform feature flags.

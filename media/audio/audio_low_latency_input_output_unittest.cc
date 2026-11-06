@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Low latency full duplex audio test
+// summary: Manual low-latency input/output test that loops recorded audio through a sync buffer and writes measured input and output delay values to a text file.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

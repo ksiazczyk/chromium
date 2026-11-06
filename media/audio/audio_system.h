@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioSystem interface
+// summary: Defines the asynchronous AudioSystem interface for querying audio device parameters, availability and descriptions.
+// ---
+
 #ifndef MEDIA_AUDIO_AUDIO_SYSTEM_H_
 #define MEDIA_AUDIO_AUDIO_SYSTEM_H_
 

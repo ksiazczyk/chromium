@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for //media/audio
+summary: GN build file defining sources, targets and platform configuration for the //media/audio component, including PulseAudio stub generation and fuzzer targets.

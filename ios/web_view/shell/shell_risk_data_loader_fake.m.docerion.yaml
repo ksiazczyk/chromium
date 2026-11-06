@@ -1,0 +1,4 @@
+# Docerion header of shell_risk_data_loader_fake.m.
+type: source
+title: ShellRiskDataLoader fake implementation
+summary: Fake ShellRiskDataLoader implementation that returns dummy risk data for the shell app.

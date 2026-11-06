@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message attachment set interface
+// summary: Declares MessageAttachmentSet, a ref-counted ordered set of attachments associated with an IPC message.
+// ---
+
 #ifndef IPC_IPC_MESSAGE_ATTACHMENT_SET_H_
 #define IPC_IPC_MESSAGE_ATTACHMENT_SET_H_
 

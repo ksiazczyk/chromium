@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio output stream unit tests
+// summary: Unit tests for creating, opening, starting and stopping audio output streams via AudioManager, including Android AAudio feature parameterization.
+// ---
+
 #include <stdint.h>
 
 #include <memory>

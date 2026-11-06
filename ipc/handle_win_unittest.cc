@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HandleWin unit tests
+// summary: Unit test verifying that HandleWin rejects null and pseudo handle values such as current process and thread handles.
+// ---
+
 #include "ipc/handle_win.h"
 
 #include <windows.h>

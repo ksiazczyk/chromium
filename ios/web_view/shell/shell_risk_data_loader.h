@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShellRiskDataLoader interface header
+// summary: Declares the ShellRiskDataLoader class exposing risk data needed for 1P payments integration in the iOS WebView shell.
+// ---
+
 #ifndef IOS_WEB_VIEW_SHELL_SHELL_RISK_DATA_LOADER_H_
 #define IOS_WEB_VIEW_SHELL_SHELL_RISK_DATA_LOADER_H_
 

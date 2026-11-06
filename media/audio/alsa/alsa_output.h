@@ -18,6 +18,12 @@
 // the audio thread. When modifying the code in this class, please read the
 // threading assumptions at the top of the implementation.
 
+// ---docerion
+// type: source
+// title: ALSA PCM output stream class declaration
+// summary: Declares AlsaPcmOutputStream, an AudioOutputStream based on the ALSA PCM interface, with device constants and a 40 ms minimum latency limit.
+// ---
+
 #ifndef MEDIA_AUDIO_ALSA_ALSA_OUTPUT_H_
 #define MEDIA_AUDIO_ALSA_ALSA_OUTPUT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the ipc directory
+summary: Specifies allowed include dependencies for the ipc directory, with special allowances for tests and protobuf utilities.

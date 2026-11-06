@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Null audio sink header
+// summary: Declares NullAudioSink, a SwitchableAudioRendererSink with optional audio hashing for testing.
+// ---
+
 #ifndef MEDIA_AUDIO_NULL_AUDIO_SINK_H_
 #define MEDIA_AUDIO_NULL_AUDIO_SINK_H_
 

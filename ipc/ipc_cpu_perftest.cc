@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IPC CPU performance tests
+// summary: Measures CPU usage of Mojo IPC ping-pong messaging across message sizes and frame rates, logging results as performance metrics.
+// ---
+
 #include <memory>
 #include <string_view>
 #include <tuple>

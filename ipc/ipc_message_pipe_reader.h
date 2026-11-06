@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message pipe reader header
+// summary: Declares MessagePipeReader, a helper class that reads messages over a Mojo message pipe in template-method style and notifies a delegate of associated interface requests.
+// ---
+
 #ifndef IPC_IPC_MESSAGE_PIPE_READER_H_
 #define IPC_IPC_MESSAGE_PIPE_READER_H_
 

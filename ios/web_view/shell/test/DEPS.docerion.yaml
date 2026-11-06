@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for web view shell tests
+summary: DEPS file listing the include rules that allow tests here to use ios/web_view/test and net/test headers.

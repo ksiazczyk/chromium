@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Entry point for IPC unit tests
+// summary: Main function that sets up the Mojo and ipcz test environments and launches the IPC unit test suite.
+// ---
+
 #include "base/base_switches.h"
 #include "base/command_line.h"
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioOutputDeviceThreadCallback implementation
+// summary: Implements the audio-thread callback that maps shared memory, invokes the render callback, and records output stream duration and startup UMA metrics.
+// ---
+
 #include "media/audio/audio_output_device_thread_callback.h"
 
 #include <atomic>

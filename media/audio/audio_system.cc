@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioSystem device name localization helper
+// summary: Implements AudioSystem's static helper that wraps device description callbacks with device name localization.
+// ---
+
 #include "media/audio/audio_system.h"
 
 #include <utility>

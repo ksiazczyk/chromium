@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test audio data constants
+// summary: Provides inline WAV byte constants for PCM, float, and extensible formats used by audio tests.
+// ---
+
 #ifndef MEDIA_AUDIO_TEST_DATA_H_
 #define MEDIA_AUDIO_TEST_DATA_H_
 

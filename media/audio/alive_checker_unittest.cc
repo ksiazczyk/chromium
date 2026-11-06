@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AliveChecker unit tests
+// summary: Unit tests for AliveChecker, verifying dead-thread detection, check intervals, and suspend/resume behavior using a mocked PowerObserverHelper.
+// ---
+
 #include "media/audio/alive_checker.h"
 
 #include <memory>

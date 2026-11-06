@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioSystemImpl header
+// summary: Declares AudioSystemImpl, which implements the AudioSystem device and parameter queries on top of the global AudioManager.
+// ---
+
 #ifndef MEDIA_AUDIO_AUDIO_SYSTEM_IMPL_H_
 #define MEDIA_AUDIO_AUDIO_SYSTEM_IMPL_H_
 

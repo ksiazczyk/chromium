@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio input IPC interfaces
+// summary: Declares the AudioInputIPC and AudioInputIPCDelegate interfaces for creating and controlling audio input streams across processes.
+// ---
+
 #ifndef MEDIA_AUDIO_AUDIO_INPUT_IPC_H_
 #define MEDIA_AUDIO_AUDIO_INPUT_IPC_H_
 

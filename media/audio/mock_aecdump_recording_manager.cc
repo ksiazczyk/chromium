@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockAecdumpRecordingManager implementation
+// summary: Implements a mock AecdumpRecordingManager constructor and destructor for use as a test double.
+// ---
+
 #include "media/audio/mock_aecdump_recording_manager.h"
 #include "base/task/single_thread_task_runner.h"
 

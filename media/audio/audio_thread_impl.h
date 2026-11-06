@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioThreadImpl header
+// summary: Declares AudioThreadImpl, the AudioThread implementation running the audio manager on a dedicated thread with task runners and a hang monitor.
+// ---
+
 #ifndef MEDIA_AUDIO_AUDIO_THREAD_IMPL_H_
 #define MEDIA_AUDIO_AUDIO_THREAD_IMPL_H_
 

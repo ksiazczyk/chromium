@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioOutputDispatcher implementation
+// summary: Implements the AudioOutputDispatcher base class constructor and destructor, asserting they run on the audio manager's task runner.
+// ---
+
 #include "media/audio/audio_output_dispatcher.h"
 
 #include "base/task/single_thread_task_runner.h"

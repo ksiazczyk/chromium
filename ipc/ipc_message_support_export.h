@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC message support export macros
+// summary: Defines the IPC_MESSAGE_SUPPORT_EXPORT macro controlling symbol visibility for the IPC message support component across Windows, POSIX and component builds.
+// ---
+
 #ifndef IPC_IPC_MESSAGE_SUPPORT_EXPORT_H_
 #define IPC_IPC_MESSAGE_SUPPORT_EXPORT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ALSA PCM input stream class declaration
+// summary: Declares AlsaPcmInputStream, an AudioInputStream implementation for audio capture over the ALSA PCM interface, with volume, mute, and error handling members.
+// ---
+
 #ifndef MEDIA_AUDIO_ALSA_ALSA_INPUT_H_
 #define MEDIA_AUDIO_ALSA_ALSA_INPUT_H_
 

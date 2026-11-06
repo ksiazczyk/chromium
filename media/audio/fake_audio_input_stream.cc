@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeAudioInputStream implementation (fake_audio_input_stream.cc)
+// summary: Implements a fake AudioInputStream that beeps or plays a WAV file for testing, with global mute state and beep-once support for audio/video sync tests.
+// ---
+
 #include "media/audio/fake_audio_input_stream.h"
 
 #include <memory>

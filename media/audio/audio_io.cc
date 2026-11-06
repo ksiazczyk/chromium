@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioOutputStream callback defaults
+// summary: Implements the default OnMoreData overload that ignores the mixing flag and a BoundedDelay helper clamping output delay to ten seconds.
+// ---
+
 #include "media/audio/audio_io.h"
 #include <algorithm>
 

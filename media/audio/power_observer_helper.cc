@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power observer helper implementation
+// summary: Implements PowerObserverHelper, dispatching system suspend and resume notifications as callbacks on a given task runner.
+// ---
+
 #include "media/audio/power_observer_helper.h"
 
 #include <utility>

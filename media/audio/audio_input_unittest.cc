@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio input stream unit tests
+// summary: Tests audio input stream creation, callbacks and error reporting across platforms, including a fake Fuchsia audio capturer and AAudio feature toggling.
+// ---
+
 #include <stdint.h>
 
 #include <memory>

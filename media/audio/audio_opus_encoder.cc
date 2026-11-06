@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioOpusEncoder implementation
+// summary: Implements Opus encoding by converting input audio to a libopus-compatible format, handling frame durations, channel mixing, and repacketizing encoded frames.
+// ---
+
 #include "media/audio/audio_opus_encoder.h"
 
 #include <algorithm>

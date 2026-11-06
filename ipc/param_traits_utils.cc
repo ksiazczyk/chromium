@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ParamTraits serialization implementation for IPC messages
+// summary: Implements WriteParam and ReadParam helpers that serialize IPC message parameters such as base::Value, strings, and platform-specific handles into pickles.
+// ---
+
 #include "ipc/param_traits_utils.h"
 
 #include <stddef.h>

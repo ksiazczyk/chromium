@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio unit test utility macros (audio_unittest_util.h)
+// summary: Defines the ABORT_AUDIO_TEST_IF_NOT macro that lets audio tests skip themselves when a required audio device or library is missing.
+// ---
+
 #ifndef MEDIA_AUDIO_AUDIO_UNITTEST_UTIL_H_
 #define MEDIA_AUDIO_AUDIO_UNITTEST_UTIL_H_
 

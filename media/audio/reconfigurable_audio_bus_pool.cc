@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reconfigurable audio bus pool implementation
+// summary: Implements ReconfigurableAudioBusPoolImpl, an audio bus pool that can be reconfigured for new AudioParameters.
+// ---
+
 #include "media/audio/reconfigurable_audio_bus_pool.h"
 
 #include <memory>

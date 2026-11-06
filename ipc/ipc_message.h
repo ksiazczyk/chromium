@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC message class declaration
+// summary: Declares IPC::Message, a pickle with a packed header and an attachment set that forms the base of IPC messages.
+// ---
+
 #ifndef IPC_IPC_MESSAGE_H_
 #define IPC_IPC_MESSAGE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioDebugRecordingManager implementation
+// summary: Implements the manager that registers audio debug recording sources, assigns running stream IDs, and enables or disables debug recording for all helpers.
+// ---
+
 #include "media/audio/audio_debug_recording_manager.h"
 
 #include <memory>

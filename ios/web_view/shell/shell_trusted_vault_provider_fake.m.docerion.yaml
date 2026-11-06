@@ -1,0 +1,4 @@
+# Docerion header of shell_trusted_vault_provider_fake.m.
+type: source
+title: ShellTrustedVaultProvider fake implementation
+summary: No-op fake trusted vault provider that returns errors for key fetch, staleness, and recoverability calls in the shell.

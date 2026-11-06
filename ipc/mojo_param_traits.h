@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ParamTraits declarations for Mojo handles
+// summary: Declares IPC ParamTraits specializations for serializing Mojo message pipe and data pipe consumer handles.
+// ---
+
 #ifndef IPC_MOJO_PARAM_TRAITS_H_
 #define IPC_MOJO_PARAM_TRAITS_H_
 

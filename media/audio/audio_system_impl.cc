@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioSystemImpl implementation
+// summary: Implements AudioSystemImpl, posting AudioSystem queries to the audio thread and replying asynchronously on the caller's sequence.
+// ---
+
 #include "media/audio/audio_system_impl.h"
 
 #include <utility>

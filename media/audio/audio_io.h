@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio I/O interfaces
+// summary: Declares AudioOutputStream and its AudioSourceCallback interface, documenting the low-level pull-model audio rendering facility used by tabs.
+// ---
+
 #ifndef MEDIA_AUDIO_AUDIO_IO_H_
 #define MEDIA_AUDIO_AUDIO_IO_H_
 

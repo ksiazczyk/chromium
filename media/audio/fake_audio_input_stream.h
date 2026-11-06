@@ -4,6 +4,12 @@
 //
 // A fake implementation of AudioInputStream, useful for testing purpose.
 
+// ---docerion
+// type: source
+// title: FakeAudioInputStream header (fake_audio_input_stream.h)
+// summary: Declares FakeAudioInputStream, a fake audio input stream for testing that generates beeps or reads audio from a WAV file.
+// ---
+
 #ifndef MEDIA_AUDIO_FAKE_AUDIO_INPUT_STREAM_H_
 #define MEDIA_AUDIO_FAKE_AUDIO_INPUT_STREAM_H_
 

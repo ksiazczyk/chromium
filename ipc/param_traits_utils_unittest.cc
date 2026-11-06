@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for IPC ParamTraits serialization
+// summary: Tests nested message serialization, parameter validation, inlined vectors, Mojo channel handles, and optional values through ParamTraits.
+// ---
+
 #include "ipc/param_traits_utils.h"
 
 #include <stddef.h>

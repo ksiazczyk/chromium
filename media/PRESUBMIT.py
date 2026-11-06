@@ -1,6 +1,13 @@
 # Copyright 2013 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Presubmit checks for the media component
+# summary: Defines presubmit checks for changed media source files, such as detecting skew-prone clock usage and histogram enum off-by-one errors.
+# ---
+
 """Top-level presubmit script for Chromium media component.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

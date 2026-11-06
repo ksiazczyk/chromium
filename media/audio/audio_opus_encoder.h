@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioOpusEncoder header
+// summary: Declares AudioOpusEncoder, an AudioEncoder that converts input audio to a format suitable for Opus before passing it to the libopus encoder instance.
+// ---
+
 #ifndef MEDIA_AUDIO_AUDIO_OPUS_ENCODER_H_
 #define MEDIA_AUDIO_AUDIO_OPUS_ENCODER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio feature flag declarations
+// summary: Declares the audio feature flags defined in audio_features.cc for Android, Mac and general audio behavior.
+// ---
+
 #ifndef MEDIA_AUDIO_AUDIO_FEATURES_H_
 #define MEDIA_AUDIO_AUDIO_FEATURES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aecdump recording manager header
+// summary: Declares the AecdumpRecordingSource interface and AecdumpRecordingManager that coordinates aecdump debug recording across registered sources.
+// ---
+
 #ifndef MEDIA_AUDIO_AECDUMP_RECORDING_MANAGER_H_
 #define MEDIA_AUDIO_AECDUMP_RECORDING_MANAGER_H_
 

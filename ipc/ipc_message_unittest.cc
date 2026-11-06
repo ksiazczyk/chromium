@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IPC message unit tests
+// summary: Unit tests for IPC::Message covering writing and reading ints, strings and base::Value parameters, plus integrity checks for corrupt or malformed messages.
+// ---
+
 #include "ipc/ipc_message.h"
 
 #include <stddef.h>

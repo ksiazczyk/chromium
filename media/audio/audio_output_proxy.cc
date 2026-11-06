@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioOutputProxy stream lifecycle implementation
+// summary: Implements the proxy audio output stream that opens the device only while playing and delegates open, start, stop, volume, and close operations to its dispatcher.
+// ---
+
 #include "media/audio/audio_output_proxy.h"
 
 #include "base/check_op.h"

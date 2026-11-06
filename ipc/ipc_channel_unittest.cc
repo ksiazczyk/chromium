@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IPC channel unit tests
+// summary: Multiprocess unit tests for IPC Channel covering message sending, shared memory, file descriptors, and associated interfaces over Mojo.
+// ---
+
 #include "ipc/ipc_channel.h"
 
 #include <stddef.h>

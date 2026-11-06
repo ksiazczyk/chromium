@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC performance test utilities implementation
+// summary: Implements helpers for IPC performance tests, including CPU affinity locking, a Mojo perf test client and a ping reflector.
+// ---
+
 #include "ipc/ipc_perftest_util.h"
 
 #include <tuple>

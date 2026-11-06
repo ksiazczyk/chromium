@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioOutputIPC and delegate interfaces for output streams
+// summary: Declares IPC interfaces for requesting output device authorization and creating, playing, pausing, and closing audio output streams across processes.
+// ---
+
 #ifndef MEDIA_AUDIO_AUDIO_OUTPUT_IPC_H_
 #define MEDIA_AUDIO_AUDIO_OUTPUT_IPC_H_
 

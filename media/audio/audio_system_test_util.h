@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio system test utilities header
+// summary: Declares AudioSystemCallbackExpectations and the AudioSystemTestTemplate test suite used to test AudioSystem implementations.
+// ---
+
 #ifndef MEDIA_AUDIO_AUDIO_SYSTEM_TEST_UTIL_H_
 #define MEDIA_AUDIO_AUDIO_SYSTEM_TEST_UTIL_H_
 

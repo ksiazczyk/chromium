@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioSinkParameters implementation
+// summary: Implements constructors and destructor for the AudioSinkParameters struct that selects an audio output device.
+// ---
+
 #include "media/audio/audio_sink_parameters.h"
 
 namespace media {

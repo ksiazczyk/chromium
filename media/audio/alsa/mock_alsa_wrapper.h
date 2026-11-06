@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockAlsaWrapper class declaration
+// summary: Declares MockAlsaWrapper, a GoogleMock mock of AlsaWrapper that stubs ALSA card and PCM functions so audio code can be unit tested.
+// ---
+
 #ifndef MEDIA_AUDIO_ALSA_MOCK_ALSA_WRAPPER_H_
 #define MEDIA_AUDIO_ALSA_MOCK_ALSA_WRAPPER_H_
 

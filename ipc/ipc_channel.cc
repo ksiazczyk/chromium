@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC channel implementation
+// summary: Implements the IPC Channel class, creating Mojo-backed channels, managing the global PID on Linux and ChromeOS, and forwarding messages.
+// ---
+
 #include "ipc/ipc_channel.h"
 
 #include <stddef.h>

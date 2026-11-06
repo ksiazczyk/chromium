@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio thread hang monitor implementation
+// summary: Implements ping-based detection of a hung audio thread, logging thread status histograms and optionally dumping or terminating on hangs.
+// ---
+
 #include "media/audio/audio_thread_hang_monitor.h"
 
 #include <algorithm>

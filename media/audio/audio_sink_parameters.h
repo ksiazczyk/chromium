@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioSinkParameters header
+// summary: Declares the AudioSinkParameters struct holding session ID and device ID used to create an AudioOutputDevice.
+// ---
+
 #ifndef MEDIA_AUDIO_AUDIO_SINK_PARAMETERS_H_
 #define MEDIA_AUDIO_AUDIO_SINK_PARAMETERS_H_
 

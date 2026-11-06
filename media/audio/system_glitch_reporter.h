@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System glitch reporter declarations
+// summary: Declares SystemGlitchReporter, which aggregates glitch counts and durations and reports them to UMA per stream type.
+// ---
+
 #ifndef MEDIA_AUDIO_SYSTEM_GLITCH_REPORTER_H_
 #define MEDIA_AUDIO_SYSTEM_GLITCH_REPORTER_H_
 

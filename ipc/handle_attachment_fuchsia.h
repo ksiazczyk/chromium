@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia handle attachment declaration
+// summary: Declares HandleAttachmentFuchsia, which represents a Fuchsia zx_handle_t attached to a Chrome IPC message.
+// ---
+
 #ifndef IPC_HANDLE_ATTACHMENT_FUCHSIA_H_
 #define IPC_HANDLE_ATTACHMENT_FUCHSIA_H_
 

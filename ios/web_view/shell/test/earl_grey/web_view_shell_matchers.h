@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebView shell Earl Grey matchers header
+// summary: Declares GREYMatcher helpers for the WebView shell UI tests, covering the address field text, address field, back and forward buttons.
+// ---
+
 #ifndef IOS_WEB_VIEW_SHELL_TEST_EARL_GREY_WEB_VIEW_SHELL_MATCHERS_H_
 #define IOS_WEB_VIEW_SHELL_TEST_EARL_GREY_WEB_VIEW_SHELL_MATCHERS_H_
 

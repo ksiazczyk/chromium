@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: IPC GN build configuration
+summary: Defines GN build targets for the IPC library, including the ipc and message_support components, Mojom bindings, and param traits.

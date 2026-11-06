@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WAV audio handler header
+// summary: Declares the WavAudioHandler class that parses WAV file data and provides channel, sample rate, duration and copy-to-AudioBus access for media playback.
+// ---
+
 #ifndef MEDIA_AUDIO_WAV_AUDIO_HANDLER_H_
 #define MEDIA_AUDIO_WAV_AUDIO_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio debug recording test base implementation
+// summary: Implements the shared test fixture that creates a mock audio manager and initializes its mock audio debug recording manager for debug recording tests.
+// ---
+
 #include "media/audio/audio_debug_recording_test.h"
 
 #include "media/audio/mock_audio_debug_recording_manager.h"

@@ -32,6 +32,12 @@
 // view, it will seem that the device has just clogged and stopped requesting
 // data.
 
+// ---docerion
+// type: source
+// title: ALSA PCM output stream implementation
+// summary: Implements AlsaPcmOutputStream for audio playback via ALSA, including device name guessing, error state semantics, buffering, and channel downmixing.
+// ---
+
 #include "media/audio/alsa/alsa_output.h"
 
 #include <stddef.h>

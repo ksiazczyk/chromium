@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for web view shell tests
+summary: GN build file that defines the all_tests group aggregating the web view shell test targets.

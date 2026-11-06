@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for iOS WebView tests
+summary: Specifies the allowed dependency include rules for code in the iOS WebView test directory.

@@ -1,0 +1,4 @@
+# Docerion header of web_view_restorable_state_inttest.mm.
+type: test
+title: CWVWebView restorable state integration tests
+summary: Integration test verifying that CWVWebView state such as visible URL and back/forward availability is encoded and restored correctly.

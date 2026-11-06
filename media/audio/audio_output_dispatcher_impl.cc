@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioOutputDispatcherImpl implementation with idle stream pool
+// summary: Implements the audio output dispatcher, pooling idle physical streams, mapping proxies to streams, and closing idle streams after a configurable delay.
+// ---
+
 #include "media/audio/audio_output_dispatcher_impl.h"
 
 #include <algorithm>

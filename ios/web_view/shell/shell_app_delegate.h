@@ -1,6 +1,13 @@
 // Copyright 2014 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: ShellAppDelegate interface header
+// summary: Declares the UIApplicationDelegate implementation for the web_view_shell application with its main window property.
+// ---
+
 #ifndef IOS_WEB_VIEW_SHELL_SHELL_APP_DELEGATE_H_
 #define IOS_WEB_VIEW_SHELL_SHELL_APP_DELEGATE_H_
 

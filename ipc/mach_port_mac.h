@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mach port IPC wrapper declaration
+// summary: Declares MachPortMac, a wrapper that transports OSX Mach ports across IPC channels via attachment brokering, with its ParamTraits.
+// ---
+
 #ifndef IPC_MACH_PORT_MAC_H_
 #define IPC_MACH_PORT_MAC_H_
 

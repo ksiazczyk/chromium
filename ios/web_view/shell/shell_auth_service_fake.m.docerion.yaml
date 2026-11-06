@@ -1,0 +1,4 @@
+# Docerion header of shell_auth_service_fake.m.
+type: source
+title: Fake ShellAuthService implementation
+summary: Fake authorization service that returns no identities and always reports an error when fetching access tokens.

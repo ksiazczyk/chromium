@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message pipe reader implementation
+// summary: Implements MessagePipeReader, which manages a Mojo message pipe for IPC, forwards messages thread-safely and dispatches delegate callbacks such as peer PID and pipe errors.
+// ---
+
 #include "ipc/ipc_message_pipe_reader.h"
 
 #include <stdint.h>

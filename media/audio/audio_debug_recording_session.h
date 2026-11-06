@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioDebugRecordingSession interface
+// summary: Declares a session object that enables audio debug recording on construction and disables it on destruction, created via audio::CreateAudioDebugRecordingSession.
+// ---
+
 #ifndef MEDIA_AUDIO_AUDIO_DEBUG_RECORDING_SESSION_H_
 #define MEDIA_AUDIO_AUDIO_DEBUG_RECORDING_SESSION_H_
 

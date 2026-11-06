@@ -1,0 +1,4 @@
+# Docerion header of shell_exe_main.m.
+type: source
+title: Shell app main entry point
+summary: Application entry point that starts UIApplicationMain with the ShellAppDelegate class.

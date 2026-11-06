@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio input stream data interceptor
+// summary: Wraps an AudioInputStream to forward captured audio data to a debug recorder while delegating stream operations to the underlying stream.
+// ---
+
 #include "media/audio/audio_input_stream_data_interceptor.h"
 
 #include <utility>

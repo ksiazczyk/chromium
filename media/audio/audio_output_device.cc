@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioOutputDevice implementation
+// summary: Implements AudioOutputDevice, which plays audio through an output stream provided by the browser process via IPC, handling device authorization and stream lifecycle.
+// ---
+
 #include "media/audio/audio_output_device.h"
 
 #include <stddef.h>

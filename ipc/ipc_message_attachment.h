@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message attachment interface
+// summary: Declares the MessageAttachment base class for auxiliary data sent with IPC messages, such as file descriptors or Mojo message pipes.
+// ---
+
 #ifndef IPC_IPC_MESSAGE_ATTACHMENT_H_
 #define IPC_IPC_MESSAGE_ATTACHMENT_H_
 

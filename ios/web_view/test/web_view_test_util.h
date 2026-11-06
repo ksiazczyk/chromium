@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CWVWebView test utility functions
+// summary: Declares helpers for creating web views, loading URLs, tapping elements, evaluating JavaScript, waiting for content or load completion, and copying state.
+// ---
+
 #ifndef IOS_WEB_VIEW_TEST_WEB_VIEW_TEST_UTIL_H_
 #define IOS_WEB_VIEW_TEST_WEB_VIEW_TEST_UTIL_H_
 

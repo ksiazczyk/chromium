@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Application loopback device helper unit tests
+// summary: Unit tests verifying encoding and decoding of application loopback device IDs on Windows and macOS, including restrict-own-audio variants.
+// ---
+
 #include "media/audio/application_loopback_device_helper.h"
 
 #include "base/process/process_handle.h"

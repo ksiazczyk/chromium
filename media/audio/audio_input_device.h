@@ -39,6 +39,12 @@
 // Implementation notes:
 // - The user must call Stop() before deleting the class instance.
 
+// ---docerion
+// type: source
+// title: AudioInputDevice class
+// summary: Declares the low-latency audio capture device that transports recorded samples from the browser process via IPC, shared memory and a sync socket.
+// ---
+
 #ifndef MEDIA_AUDIO_AUDIO_INPUT_DEVICE_H_
 #define MEDIA_AUDIO_AUDIO_INPUT_DEVICE_H_
 

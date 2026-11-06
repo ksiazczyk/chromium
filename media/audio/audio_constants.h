@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio constants
+// summary: Defines shared audio constants, currently the default volume multiplier applied to ducked audio sessions.
+// ---
+
 #ifndef MEDIA_AUDIO_AUDIO_CONSTANTS_H_
 #define MEDIA_AUDIO_AUDIO_CONSTANTS_H_
 

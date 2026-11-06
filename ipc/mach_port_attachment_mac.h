@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac Mach port attachment declaration
+// summary: Declares MachPortAttachmentMac, a Mach port attached to a Chrome IPC message with sender and receiver ownership semantics.
+// ---
+
 #ifndef IPC_MACH_PORT_ATTACHMENT_MAC_H_
 #define IPC_MACH_PORT_ATTACHMENT_MAC_H_
 

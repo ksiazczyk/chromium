@@ -1,0 +1,4 @@
+# Docerion header of shell_egtest.mm.
+type: test
+title: Earl Grey tests for the web view shell
+summary: Earl Grey test case that loads a page from an embedded test server in the web view shell and verifies the expected text appears.

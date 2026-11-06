@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ParamTraits for Mojo message and data pipe handles
+// summary: Implements writing and reading of Mojo message pipe and data pipe consumer handles as IPC message attachments.
+// ---
+
 #include "ipc/mojo_param_traits.h"
 
 #include "base/logging.h"

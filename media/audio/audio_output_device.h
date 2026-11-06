@@ -60,6 +60,12 @@
 // Implementation notes:
 // - The user must call Stop() before deleting the class instance.
 
+// ---docerion
+// type: source
+// title: AudioOutputDevice header
+// summary: Declares AudioOutputDevice, an AudioRendererSink that transports audio samples from renderer to browser process using shared memory and sync sockets, with documented threading rules.
+// ---
+
 #ifndef MEDIA_AUDIO_AUDIO_OUTPUT_DEVICE_H_
 #define MEDIA_AUDIO_AUDIO_OUTPUT_DEVICE_H_
 

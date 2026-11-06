@@ -1,0 +1,4 @@
+# Docerion header of PRESUBMIT_test.py.
+type: test
+title: Unit tests for media presubmit checks
+summary: Tests the presubmit check functions using mock input and output APIs, covering histogram off-by-one detection and its exceptions.

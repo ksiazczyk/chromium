@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Application loopback device ID helper implementation
+// summary: Implements creation and parsing of application loopback audio device IDs for Windows and macOS, including restrict-own-audio browser loopback IDs.
+// ---
+
 #include "media/audio/application_loopback_device_helper.h"
 
 #include "base/strings/strcat.h"

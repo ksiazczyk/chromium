@@ -10,6 +10,12 @@
 // constructor).
 //
 
+// ---docerion
+// type: source
+// title: AudioOutputDispatcherImpl header with idle stream pooling
+// summary: Declares the AudioOutputDispatcher implementation that keeps a pool of idle physical streams and closes them after a close delay, handling device changes.
+// ---
+
 #ifndef MEDIA_AUDIO_AUDIO_OUTPUT_DISPATCHER_IMPL_H_
 #define MEDIA_AUDIO_AUDIO_OUTPUT_DISPATCHER_IMPL_H_
 

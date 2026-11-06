@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unit test for ALSA utility functions
+// summary: Verifies with a mock AlsaWrapper that OpenCaptureDevice frees hardware parameters and returns null when ALSA setup fails.
+// ---
+
 #include "media/audio/alsa/alsa_util.h"
 #include "media/audio/alsa/mock_alsa_wrapper.h"
 #include "testing/gtest/include/gtest/gtest.h"

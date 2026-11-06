@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioThread interface
+// summary: Defines the AudioThread interface encapsulating the thread and task runners on which the AudioManager and related classes run.
+// ---
+
 #ifndef MEDIA_AUDIO_AUDIO_THREAD_H_
 #define MEDIA_AUDIO_AUDIO_THREAD_H_
 

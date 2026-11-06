@@ -1,0 +1,4 @@
+# Docerion header of SECURITY_OWNERS.
+type: config
+title: Security reviewers for cross-process IPC changes
+summary: Lists reviewers responsible for security-sensitive cross-process IPC changes and directs reviews to a shared alias.

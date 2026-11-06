@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShellAutofillDelegate interface header
+// summary: Declares the shell's autofill delegate class implementing CWVAutofillControllerDelegate.
+// ---
+
 #ifndef IOS_WEB_VIEW_SHELL_SHELL_AUTOFILL_DELEGATE_H_
 #define IOS_WEB_VIEW_SHELL_SHELL_AUTOFILL_DELEGATE_H_
 

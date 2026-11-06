@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple audio source declarations
+// summary: Declares SineWaveAudioSource, FileSource, and BeepingSource classes that provide audio data to audio output streams.
+// ---
+
 #ifndef MEDIA_AUDIO_SIMPLE_SOURCES_H_
 #define MEDIA_AUDIO_SIMPLE_SOURCES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioDebugRecordingManager header
+// summary: Declares the audio debug recording manager that hands recorders to registered data sources and documents the ownership structure of the debug recording infrastructure.
+// ---
+
 #ifndef MEDIA_AUDIO_AUDIO_DEBUG_RECORDING_MANAGER_H_
 #define MEDIA_AUDIO_AUDIO_DEBUG_RECORDING_MANAGER_H_
 

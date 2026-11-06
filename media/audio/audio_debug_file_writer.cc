@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio debug file writer implementation
+// summary: Implements writing 16-bit PCM WAVE files for audio debugging, including WAV header construction and interleaved sample writing.
+// ---
+
 #include "media/audio/audio_debug_file_writer.h"
 
 #include <stdint.h>

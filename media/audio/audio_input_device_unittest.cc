@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioInputDevice unit tests
+// summary: Unit tests for AudioInputDevice using mock IPC and capture callbacks to verify stream creation, capture timing and glitch information.
+// ---
+
 #include "media/audio/audio_input_device.h"
 
 #include <utility>

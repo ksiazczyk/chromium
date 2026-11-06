@@ -1,3 +1,13 @@
+---
+type: readme
+title: //media/audio overview
+summary: Explains the architecture of Chromium's low-level audio code, key classes, real-time thread rules, platform backends and debugging tools.
+relations:
+  - references /media/audio/audio_device_thread.h
+  - references /media/audio/audio_io.h
+  - references /media/audio/audio_manager.h
+---
+
 # //media/audio
 
 This directory contains Chromium's low-level audio input and output code:

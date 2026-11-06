@@ -1,0 +1,4 @@
+# Docerion header of constants.mojom.
+type: source
+title: IPC Mojom constants
+summary: Defines Mojom constants for IPC routing IDs and the maximum channel message size, formerly located in ipc_message.h.

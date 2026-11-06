@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Macros generating ParamTraits Write methods
+// summary: Redefines IPC struct and enum trait macros so that including it generates Write method implementations for ParamTraits.
+// ---
+
 #ifndef IPC_PARAM_TRAITS_WRITE_MACROS_H_
 #define IPC_PARAM_TRAITS_WRITE_MACROS_H_
 

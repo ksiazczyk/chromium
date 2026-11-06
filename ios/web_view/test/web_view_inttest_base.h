@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Base test fixture for CWVWebView integration tests
+// summary: Declares WebViewInttestBase, a PlatformTest fixture providing a CWVWebView and an embedded test server that serves generated HTML pages.
+// ---
+
 #ifndef IOS_WEB_VIEW_TEST_WEB_VIEW_INTTEST_BASE_H_
 #define IOS_WEB_VIEW_TEST_WEB_VIEW_INTTEST_BASE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of observer.mm.
+type: test
+title: KVO observer test helper implementation
+summary: Implements the Observer class that registers for KVO notifications and stores the observed new values.

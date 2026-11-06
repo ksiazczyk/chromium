@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Macros for generating ParamTraits Read methods
+// summary: Redefines struct and enum trait macros so re-inclusion generates the Read method implementations for ParamTraits.
+// ---
+
 #ifndef IPC_PARAM_TRAITS_READ_MACROS_H_
 #define IPC_PARAM_TRAITS_READ_MACROS_H_
 

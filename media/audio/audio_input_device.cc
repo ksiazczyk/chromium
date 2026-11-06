@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioInputDevice implementation
+// summary: Implements low-latency audio capture over IPC using shared memory and a sync socket, including dead stream detection and capture statistics reporting.
+// ---
+
 #include "media/audio/audio_input_device.h"
 
 #include <stdint.h>

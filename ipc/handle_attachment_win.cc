@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows handle attachment implementation
+// summary: Implements the Windows HANDLE attachment for IPC messages, duplicating handles unless they are pseudo handles.
+// ---
+
 #include "ipc/handle_attachment_win.h"
 
 #include <windows.h>

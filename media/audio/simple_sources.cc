@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple audio sources
+// summary: Implements simple audio sources including a sine wave generator, a WAV file source, and a beeping source for fake audio devices.
+// ---
+
 #include "media/audio/simple_sources.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlacAudioHandler implementation
+// summary: Implements FLAC stream decoding that copies decoded PCM frames into an AudioBus via the libFLAC decoder.
+// ---
+
 #include "media/audio/flac_audio_handler.h"
 
 #include <algorithm>

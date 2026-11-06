@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioThreadImpl implementation
+// summary: Implements the dedicated audio thread with platform-specific options and attaches a hang monitor except on Mac and Android.
+// ---
+
 #include "media/audio/audio_thread_impl.h"
 
 #include <optional>

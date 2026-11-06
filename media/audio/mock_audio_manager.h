@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockAudioManager declaration
+// summary: Declares MockAudioManager, a test double for AudioManager with setters to emulate device and stream behavior.
+// ---
+
 #ifndef MEDIA_AUDIO_MOCK_AUDIO_MANAGER_H_
 #define MEDIA_AUDIO_MOCK_AUDIO_MANAGER_H_
 

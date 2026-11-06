@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockAudioDebugRecordingManager declaration
+// summary: Declares a gmock mock of AudioDebugRecordingManager with stubbed enable and disable debug recording methods.
+// ---
+
 #ifndef MEDIA_AUDIO_MOCK_AUDIO_DEBUG_RECORDING_MANAGER_H_
 #define MEDIA_AUDIO_MOCK_AUDIO_DEBUG_RECORDING_MANAGER_H_
 

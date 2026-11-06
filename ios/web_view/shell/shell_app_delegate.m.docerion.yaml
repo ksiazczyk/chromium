@@ -1,0 +1,4 @@
+# Docerion header of shell_app_delegate.m.
+type: source
+title: Shell app delegate and scene delegate implementation
+summary: Implements the application and scene delegates that create the window and root view controller and manage ChromeWebView global state lifecycle.

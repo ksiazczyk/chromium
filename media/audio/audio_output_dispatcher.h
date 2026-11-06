@@ -15,6 +15,12 @@
 // instance is then deleted on the audio thread when the AudioManager shuts
 // down.
 
+// ---docerion
+// type: source
+// title: AudioOutputDispatcher base class for output stream dispatch
+// summary: Declares the single-threaded base class that creates, starts, stops, and recycles audio output streams on behalf of AudioOutputProxy instances.
+// ---
+
 #ifndef MEDIA_AUDIO_AUDIO_OUTPUT_DISPATCHER_H_
 #define MEDIA_AUDIO_AUDIO_OUTPUT_DISPATCHER_H_
 
