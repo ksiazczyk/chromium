@@ -1,0 +1,4 @@
+# Docerion header of named-cache-clobber.py.
+type: script
+title: Named cache clobber tool
+summary: Command-line tool that triggers clobbering of a named cache on Swarming bots in a given pool, with dry-run support and no Windows support.

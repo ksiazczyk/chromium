@@ -1,0 +1,4 @@
+# Docerion header of admin_template_unittest.py.
+type: test
+title: Admin template gatherer unit tests
+summary: Unit tests for the admin template gatherer covering parsing, translation, error handling and integration with grd files and rc output.

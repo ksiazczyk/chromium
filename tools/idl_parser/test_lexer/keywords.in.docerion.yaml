@@ -1,0 +1,4 @@
+# Docerion header of keywords.in.
+type: test
+title: Lexer keyword test input
+summary: Test fixture listing IDL keywords with their expected token names, used to verify lexer keyword recognition.

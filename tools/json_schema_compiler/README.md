@@ -1,3 +1,13 @@
+---
+type: readme
+title: JSON Schema Compiler overview
+summary: Explains how the compiler generates C++ types, features, and other files from extension API schemas written in JSON or IDL.
+relations:
+  - references /chrome/common/extensions/api/_features.md
+  - references /chrome/common/extensions/api/schemas.md
+  - references /tools/json_schema_compiler/OWNERS
+---
+
 The JSON Schema Compiler is used by the chrome extensions system to generate
 various necessary files from the "schemas" in extensions. These include
 the C++ type representations for API types, string blobs for the files,

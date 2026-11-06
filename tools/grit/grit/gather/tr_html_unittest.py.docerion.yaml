@@ -1,0 +1,4 @@
+# Docerion header of tr_html_unittest.py.
+type: test
+title: TotalRecall HTML gatherer unit tests
+summary: Unit tests for the TotalRecall HTML gatherer, checking chunking with and without whitespace folding, descriptions, replaceables, line breaks and message handling.

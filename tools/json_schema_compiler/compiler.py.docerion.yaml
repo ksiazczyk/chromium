@@ -1,0 +1,4 @@
+# Docerion header of compiler.py.
+type: source
+title: JSON Schema Compiler entry point
+summary: Command-line tool that loads JSON and IDL schemas and runs generators for C++, externs, TypeScript definitions, and interfaces.

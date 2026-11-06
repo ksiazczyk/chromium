@@ -1,0 +1,4 @@
+# Docerion header of util_unittest.py.
+type: test
+title: Unit tests for grit.util
+summary: Tests class loading, language canonicalization, HTML unescaping, relative path computation, and file reading in grit.util.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Shared helpers for update_resource_ids
+# summary: Provides alignment and color helpers plus TagInfo and ItemInfo classes and item list building for parsed resource_ids files.
+# ---
+
 
 def AlignUp(v, align):
   return (v + align - 1) // align * align

@@ -1,0 +1,4 @@
+# Docerion header of grit.py.
+type: source
+title: GRIT command-line entry point
+summary: Bootstraps GRIT by invoking grit_runner.Main and exits immediately after flushing output to skip slow garbage collection teardown.

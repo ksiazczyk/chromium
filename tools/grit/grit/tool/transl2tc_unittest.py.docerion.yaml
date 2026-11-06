@@ -1,0 +1,4 @@
+# Docerion header of transl2tc_unittest.py.
+type: test
+title: Unit tests for the grit transl2tc tool
+summary: Verifies translation output writing and extraction of the transl2tc tool, including placeholder correction, non-translateable filtering and message ID limits.

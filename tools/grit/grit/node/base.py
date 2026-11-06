@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Base node class for GRIT resource trees
+# summary: Defines the Node base class with parsing, traversal, expression evaluation, and content handling shared by all GRIT resource tree nodes.
+# ---
+
 '''Base types for nodes in a GRIT resource tree.'''
 
 import ast

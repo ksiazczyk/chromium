@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Gatherer base interface
+# summary: Defines GathererBase, the common interface that all GRIT resource gatherer implementations must follow.
+# ---
+
 '''Interface for all gatherers.'''
 
 import os.path

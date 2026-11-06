@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: GRIT xmb tool for exporting messages to XMB format
+# summary: Implements the grit xmb command, which writes translateable messages from a .grd input file into an XMB file for translation systems, with optional output limits.
+# ---
+
 """The 'grit xmb' tool."""
 
 import getopt

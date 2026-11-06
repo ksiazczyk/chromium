@@ -1,0 +1,4 @@
+# Docerion header of data_pack_unittest.py.
+type: test
+title: Unit tests for the data pack formatter
+summary: Tests reading and writing data pack versions 4 and 5, alias tables, and repacking with allowlists.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Directory owners for gritsettings
+summary: Lists the code owners for the gritsettings directory, with WebUI-related grd files owned by the ui/webui platform owners.

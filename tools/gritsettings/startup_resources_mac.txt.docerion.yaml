@@ -1,0 +1,4 @@
+# Docerion header of startup_resources_mac.txt.
+type: data
+title: Startup resource ID ordering for macOS
+summary: Predetermined resource ID ordering for macOS so startup resources are placed first in pak files to reduce page faults during Chrome startup.

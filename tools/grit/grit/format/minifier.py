@@ -1,6 +1,13 @@
 # Copyright 2016 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: CSS minifier framework
+# summary: Framework that minifies CSS resource files by piping them through a configurable external minifier command.
+# ---
+
 """Framework for minifying CSS resource files"""
 
 from os import path

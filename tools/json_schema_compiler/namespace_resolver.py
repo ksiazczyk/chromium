@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Namespace resolver
+# summary: Resolves fully qualified type names to their defining namespace by searching for matching JSON, IDL or WebIDL schema files under configured include rules.
+# ---
+
 import os
 
 from cpp_namespace_environment import CppNamespaceEnvironment

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Resource map formatters for GRIT
+# summary: Provides formatters that generate C++ headers and sources mapping resource names or file paths to internal resource IDs.
+# ---
+
 '''This file contains item formatters for resource_map_header and
 resource_map_source files.  A resource map is a mapping between resource names
 (string) and the internal resource ID.'''

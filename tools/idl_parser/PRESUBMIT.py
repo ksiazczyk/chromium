@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for the IDL parser
+# summary: Runs the *_test.py unit tests in this directory via canned presubmit checks on upload and commit.
+# ---
+
 
 CHECK_FILES = [r'^.+_test\.py$']
 

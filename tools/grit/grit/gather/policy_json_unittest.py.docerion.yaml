@@ -1,0 +1,4 @@
+# Docerion header of policy_json_unittest.py.
+type: test
+title: Policy JSON gatherer unit tests
+summary: Unit tests verifying that the policy_json gatherer extracts translatable messages from Chrome policy definitions, schemas and messages, and round-trips them correctly.

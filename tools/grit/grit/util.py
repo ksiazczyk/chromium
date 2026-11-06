@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: GRIT utility functions
+# summary: Provides shared utilities for file reading, encoding, relative paths, temporary directories, and HTML unescaping.
+# ---
+
 '''Utilities used by GRIT.'''
 
 import codecs

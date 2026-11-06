@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Chrome HTML gatherer
+# summary: Gatherer that inlines resources into Chrome HTML files, adds high DPI image set references and removes unsupported scale factors.
+# ---
+
 """Prepares a Chrome HTML file by inlining resources and adding references to
 high DPI resources and removing references to unsupported scale factors.
 

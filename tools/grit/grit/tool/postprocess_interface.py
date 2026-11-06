@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Postprocessor base class for RC files
+# summary: Defines the PostProcessor base class for transforming GRD data after RC-to-GRD conversion, such as changing message content or names.
+# ---
+
 '''Base class for postprocessing of RC files.'''
 
 

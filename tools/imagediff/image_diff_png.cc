@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PNG codec implementation for image_diff
+// summary: Implements PNG decoding and encoding for the image_diff tool, adapted from the Chromium PNG codec to run layout tests with minimal dependencies.
+// ---
+
 #include "tools/imagediff/image_diff_png.h"
 
 #include <stdlib.h>

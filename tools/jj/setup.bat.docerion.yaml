@@ -1,0 +1,4 @@
+# Docerion header of setup.bat.
+type: script
+title: Windows batch launcher for jj setup
+summary: Windows batch wrapper that runs setup.py with python3 to set up jj in a Chromium checkout.

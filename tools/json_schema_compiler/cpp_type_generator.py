@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: cpp_type_generator
+# summary: Maps schema model properties to C++ types, handling enums, optional and expected return types, type dependencies and forward declarations.
+# ---
+
 from code_util import Code
 from model import PropertyType
 import cpp_util

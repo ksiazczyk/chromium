@@ -1,0 +1,4 @@
+# Docerion header of model_test.py.
+type: test
+title: Model unit tests
+summary: Unit tests verifying that the API model correctly parses namespaces, functions, types, platforms and manifest keys from test JSON and IDL schemas.

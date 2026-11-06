@@ -1,0 +1,4 @@
+# Docerion header of json_data_generator_test.py.
+type: test
+title: Unit tests for JSONDataGenerator
+summary: Verifies that rendering the test Jinja template with sample JSON5 data matches the expected generated output.

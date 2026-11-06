@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the idl_parser directory
+summary: Lists the Chromium accounts responsible for reviewing changes to the IDL parser.

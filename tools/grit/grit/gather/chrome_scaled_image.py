@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Chrome scaled image gatherer
+# summary: Gatherer for chrome_scaled_image structures that selects image files by layout and scale variant and adjusts PNG chunks so Chrome can rescale them.
+# ---
+
 '''Gatherer for <structure type="chrome_scaled_image">.'''
 
 import os

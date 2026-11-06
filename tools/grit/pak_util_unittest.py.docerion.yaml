@@ -1,0 +1,4 @@
+# Docerion header of pak_util_unittest.py.
+type: test
+title: Unit test for pak_util extraction
+summary: Unit test that runs pak_util's extract command against test data to verify that .pak file extraction works.

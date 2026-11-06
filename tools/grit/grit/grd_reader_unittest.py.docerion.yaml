@@ -1,0 +1,4 @@
+# Docerion header of grd_reader_unittest.py.
+type: test
+title: Unit tests for grd_reader
+summary: Unit tests for parsing GRD content, XML round-trip output, stop-after parsing, and first ID assignment.

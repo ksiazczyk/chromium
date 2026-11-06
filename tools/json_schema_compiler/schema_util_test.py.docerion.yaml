@@ -1,0 +1,4 @@
+# Docerion header of schema_util_test.py.
+type: test
+title: Schema utility unit tests
+summary: Unit tests for schema_util helpers such as StripNamespace and JsFunctionNameToClassName.

@@ -1,3 +1,9 @@
+---
+type: readme
+title: ininja README
+summary: Introduces ininja, an experimental auto-compile script for local development with planned Gemini CLI integration.
+---
+
 ininja is targeting to provide an auto-compile script for local development.
 Also we plan to integrate it more closely with Gemini CLI.
 

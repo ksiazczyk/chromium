@@ -1,6 +1,13 @@
 # Copyright 2012 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Schema utility functions
+# summary: Helpers for splitting namespace-qualified references and converting fully qualified function names into C++ class names.
+# ---
+
 """Utilies for the processing of schema python structures."""
 
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: imagediff include rules
+summary: Specifies include rules for the imagediff directory, allowing libpng and zlib headers as dependencies.

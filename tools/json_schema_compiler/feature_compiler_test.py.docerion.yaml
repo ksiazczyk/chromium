@@ -1,0 +1,4 @@
+# Docerion header of feature_compiler_test.py.
+type: test
+title: feature_compiler tests
+summary: Unit tests for the feature compiler focusing on feature parsing and error detection for invalid keys, values, enum entries and empty lists.

@@ -1,0 +1,4 @@
+# Docerion header of json_schema_api.gni.
+type: config
+title: GN templates for schema compiler build integration
+summary: Defines GN templates that build static libraries from schema compiler output, covering generated C++ types, bundled function registration and bundled API JSON.

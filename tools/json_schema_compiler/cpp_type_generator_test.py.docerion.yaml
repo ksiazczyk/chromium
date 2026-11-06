@@ -1,0 +1,4 @@
+# Docerion header of cpp_type_generator_test.py.
+type: test
+title: cpp_type_generator tests
+summary: Unit tests for the C++ type generator covering includes, forward declarations and enum value formatting using test JSON and IDL schemas.

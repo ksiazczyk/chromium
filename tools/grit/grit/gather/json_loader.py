@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: JSON loader gatherer
+# summary: Simple gatherer that loads and parses a JSON file and returns the parsed data for a language and encoding.
+# ---
+
 
 from grit.gather import interface
 

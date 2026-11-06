@@ -1,0 +1,4 @@
+# Docerion header of ininja.py.
+type: source
+title: ininja auto-recompile wrapper for autoninja
+summary: Python script that watches for file changes, reruns autoninja automatically, and writes build logs that Gemini CLI can check for compile failures.

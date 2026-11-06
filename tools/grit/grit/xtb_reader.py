@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: XTB translation file parser
+# summary: Fast SAX-based parser for XTB translation bundle files that invokes a callback for each translation, handling placeholders, grammatical gender variants, and conditional expressions.
+# ---
+
 '''Fast and efficient parser for XTB files.'''
 
 import re

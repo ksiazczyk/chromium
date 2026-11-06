@@ -1,0 +1,4 @@
+# Docerion header of idl_schema_test.py.
+type: test
+title: IDL schema parser tests
+summary: Unit tests verifying that IDL files are parsed into schemas correctly, covering namespaces, callbacks, enums, properties and member ordering.

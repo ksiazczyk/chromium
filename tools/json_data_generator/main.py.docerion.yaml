@@ -1,0 +1,4 @@
+# Docerion header of main.py.
+type: source
+title: Command-line entry point for the generator
+summary: Parses command-line arguments and writes rendered template output files for the GN build action.

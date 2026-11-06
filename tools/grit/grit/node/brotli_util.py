@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Brotli compression helper
+# summary: Compresses resource data by running the Brotli executable as a subprocess with configurable command.
+# ---
+
 """Framework for compressing resources using Brotli."""
 
 import subprocess

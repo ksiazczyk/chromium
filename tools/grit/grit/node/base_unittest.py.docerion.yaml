@@ -1,0 +1,4 @@
+# Docerion header of base_unittest.py.
+type: test
+title: Unit tests for the base Node class
+summary: Tests whitespace handling and XML formatting behavior of base Node functionality using message nodes.

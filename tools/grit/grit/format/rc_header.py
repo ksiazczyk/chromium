@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: RC header formatter
+# summary: 'Generates RC header files with #define resource ID symbols, supporting allowlist wrappers and custom prepend emit includes.'
+# ---
+
 '''Item formatters for RC headers.'''
 
 

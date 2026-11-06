@@ -1,0 +1,4 @@
+# Docerion header of xmb_unittest.py.
+type: test
+title: Unit tests for the grit xmb tool
+summary: Tests XMB output including normal export, limit lists and GRD-based limits, placeholder substitution, and leading or trailing whitespace handling.

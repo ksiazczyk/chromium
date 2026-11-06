@@ -1,6 +1,13 @@
 # Copyright 2015 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Closure Compiler externs generator
+# summary: Generates Closure Compiler externs files from API schemas, emitting JSDoc types, enums, functions and events for Chrome extension APIs.
+# ---
+
 """
 Generator that produces an externs file for the Closure Compiler.
 Note: This is a work in progress, and generated externs may require tweaking.

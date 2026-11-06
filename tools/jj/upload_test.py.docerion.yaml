@@ -1,0 +1,4 @@
+# Docerion header of upload_test.py.
+type: test
+title: Unit tests for the upload script
+summary: Unit tests covering presubmit result handling in the upload script, including interactive warning prompts and aborts in non-interactive mode.

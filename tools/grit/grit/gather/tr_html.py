@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: TotalRecall HTML template gatherer
+# summary: Parses TotalRecall HTML templates with a state machine to split them into translatable and nontranslatable chunks while preserving the original layout.
+# ---
+
 '''A gatherer for the TotalRecall brand of HTML templates with replaceable
 portions.  We wanted to reuse extern.tclib.api.handlers.html.TCHTMLParser
 but this proved impossible due to the fact that the TotalRecall HTML templates

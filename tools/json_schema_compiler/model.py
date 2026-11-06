@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: API schema model
+# summary: Builds an object model of API namespaces with their types, functions, events, properties, platforms and manifest keys from parsed schema definitions.
+# ---
+
 import os.path
 
 from json_parse import OrderedDict

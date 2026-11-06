@@ -1,0 +1,4 @@
+# Docerion header of minimize_css_unittest.py.
+type: test
+title: Unit tests for the CSS minimizer
+summary: Unit tests verifying that the CSS minimizer strips comments and whitespace correctly, including attribute selectors and quoted strings.

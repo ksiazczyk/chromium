@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: GRIT skeleton variant node element
+# summary: Implements the GRIT <skeleton> element, which defines skeleton variants of structure nodes selected by expressions such as language.
+# ---
+
 '''The <skeleton> element.'''
 
 from grit.node import base

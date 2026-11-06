@@ -1,0 +1,4 @@
+# Docerion header of test_with_ifexpr_expected.html.
+type: test
+title: Expected HTML output for if expression preprocessing
+summary: Expected HTML output after grit preprocessing, with non-included if-expression text removed.

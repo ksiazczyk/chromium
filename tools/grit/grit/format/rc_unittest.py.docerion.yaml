@@ -1,0 +1,4 @@
+# Docerion header of rc_unittest.py.
+type: test
+title: Unit tests for grit.format.rc
+summary: Checks that the RC formatter produces correct string tables, menus, dialogs and version info sections for Windows resource output.

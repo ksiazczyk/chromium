@@ -1,0 +1,4 @@
+# Docerion header of buildinfo_unittest.py.
+type: test
+title: Buildinfo tool unit tests
+summary: Unit tests verifying that the buildinfo tool lists the expected inputs and outputs for a GRD file, with and without an output directory.

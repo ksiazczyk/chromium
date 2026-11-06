@@ -1,0 +1,4 @@
+# Docerion header of structure_unittest.py.
+type: test
+title: Unit tests for GRIT structure nodes
+summary: Unit tests for GRIT structure nodes, covering skeletons, variable substitution, gzip compression, and platform-specific commands.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: C++ value population utilities
+// summary: Implements helpers that populate C++ types from base::Value and add items to lists, with error reporting.
+// ---
+
 #include "tools/json_schema_compiler/util.h"
 
 #include "base/strings/stringprintf.h"

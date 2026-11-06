@@ -1,0 +1,4 @@
+# Docerion header of web_idl_schema_test.py.
+type: test
+title: WebIDL schema parser tests
+summary: Unit tests for the WebIDL schema processor covering functions, types, properties, events and return values.

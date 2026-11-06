@@ -1,0 +1,4 @@
+# Docerion header of grit.pydeps.
+type: config
+title: Python dependency list for grit.py
+summary: Generated list of Python module dependencies for grit.py, used by the build to track Python imports.

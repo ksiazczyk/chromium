@@ -1,0 +1,4 @@
+# Docerion header of setup.py.
+type: script
+title: Grit Python package setup
+summary: Setuptools packaging script that installs the grit package and exposes a grit console entry point.

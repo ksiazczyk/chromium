@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Shortcut conflict detection for GRIT messages
+# summary: Detects duplicate keyboard shortcut keys within shortcut groups and generates warnings for translation cliques.
+# ---
+
 '''Stuff to prevent conflicting shortcuts.'''
 
 import re

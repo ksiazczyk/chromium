@@ -1,1 +1,7 @@
+# ---docerion
+# type: config
+# title: Git ignore rules for GRIT
+# summary: Ignores compiled Python bytecode files (*.pyc) in the tools/grit directory.
+# ---
+
 *.pyc

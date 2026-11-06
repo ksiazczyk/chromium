@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: GRIT build tool
+# summary: Implements the 'grit build' tool that generates RC files, headers, data packs, and other resource outputs from GRD inputs via pluggable format modules.
+# ---
+
 '''The 'grit build' tool.'''
 
 import codecs

@@ -1,6 +1,13 @@
 # Copyright 2023 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: TypeScript definition generator
+# summary: Generates TypeScript definition files for Chrome extension APIs from parsed schema namespaces.
+# ---
+
 """Generator that produces a definition file for typescript.
 
 Note: This is a work in progress, and generated definitions may need tweaking.

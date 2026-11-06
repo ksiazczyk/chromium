@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for json_data_generator
+summary: Lists the code owners responsible for reviewing changes to the JSON data generator.

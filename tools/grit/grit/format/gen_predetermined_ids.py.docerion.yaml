@@ -1,0 +1,4 @@
+# Docerion header of gen_predetermined_ids.py.
+type: script
+title: Predetermined resource ID generator
+summary: Generates a predetermined resource IDs file for GRIT's -p option from Chrome build output and ordered resource IDs.

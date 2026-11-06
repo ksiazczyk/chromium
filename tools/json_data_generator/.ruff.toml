@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Ruff configuration for json_data_generator
+# summary: Extends the repository-wide Ruff linter configuration and sets a four-space indent width for this tool.
+# ---
+
 extend = "../.ruff.toml"
 indent-width = 4

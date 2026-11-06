@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for generated API utility sources
+summary: GN build file defining a source_set of utility sources that generated API modules should link against.

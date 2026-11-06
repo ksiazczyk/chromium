@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for tools/grit
+summary: Lists the owners responsible for GRIT changes, with extra owners for WebUI and policy-related tools.

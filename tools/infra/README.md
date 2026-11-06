@@ -1,3 +1,11 @@
+---
+type: readme
+title: Infra troopering scripts
+summary: Documents scripts for troopering, including mass cancelling builds and tasks with find_bad_builds.py and bb.
+relations:
+  - documents /tools/infra/find_bad_builds.py
+---
+
 Directory of scripts needed for troopering.
 
 #### Mass cancelling builds and tasks

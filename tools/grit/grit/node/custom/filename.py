@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: WindowsFilename custom type for GRIT messages
+# summary: Defines a GRIT clique custom type that validates messages as Windows filenames and strips illegal characters from translations.
+# ---
+
 '''A CustomType for filenames.'''
 
 import re

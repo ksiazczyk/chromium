@@ -1,0 +1,4 @@
+# Docerion header of setup.py.
+type: source
+title: jj setup for Chromium checkouts
+summary: Sets up jj in a Chromium checkout by initializing jj, linking the shared config.toml, and fixing line-ending issues.

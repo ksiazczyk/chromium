@@ -1,0 +1,4 @@
+# Docerion header of MANIFEST.in.
+type: config
+title: Python package manifest for GRIT
+summary: Excludes test suites and unittest modules from the packaged GRIT distribution.

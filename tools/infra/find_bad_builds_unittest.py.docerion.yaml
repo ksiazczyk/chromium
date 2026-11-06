@@ -1,0 +1,4 @@
+# Docerion header of find_bad_builds_unittest.py.
+type: test
+title: Unit tests for find_bad_builds.py
+summary: Integration-style tests that mock git and buildbucket interactions to verify the script end to end.

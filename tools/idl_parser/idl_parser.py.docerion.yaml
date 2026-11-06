@@ -1,0 +1,4 @@
+# Docerion header of idl_parser.py.
+type: source
+title: Web IDL parser
+summary: Parses Web IDL into an IDLNode AST using PLY yacc grammar rules, with friendly error remapping and special comment extraction.

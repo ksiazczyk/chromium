@@ -1,5 +1,11 @@
 # See https://jj-vcs.github.io/jj/latest/config/ for the schema.
 
+# ---docerion
+# type: config
+# title: jj configuration for Chromium
+# summary: Defines jj aliases for syncing, uploading, bug management, workspaces, and Gerrit URLs, plus revset and formatter settings.
+# ---
+
 [aliases]
 # This allows the script to be run from directories other than the workspace
 # root.

@@ -1,0 +1,4 @@
+# Docerion header of preprocess_unittest.py.
+type: test
+title: Unit tests for RC file preprocessing
+summary: Unit tests that run rc2grd with a dummy preprocessor supplying RC text to verify the preprocessing hook works.

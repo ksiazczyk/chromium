@@ -1,0 +1,4 @@
+# Docerion header of callback_web.idl.
+type: test
+title: WebIDL callback parser test cases
+summary: WebIDL test input exercising callback productions, with expected AST trees and errors annotated in comments for verification via the parser's --test mode.

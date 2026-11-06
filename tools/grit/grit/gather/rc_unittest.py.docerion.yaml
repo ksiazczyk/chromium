@@ -1,0 +1,4 @@
+# Docerion header of rc_unittest.py.
+type: test
+title: RC gatherer unit tests
+summary: Unit tests covering section reading from files, dialog, menu and accelerator parsing, and translation with an alternate skeleton in the RC gatherer.

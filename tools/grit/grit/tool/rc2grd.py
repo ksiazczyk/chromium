@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: GRIT rc2grd tool for converting RC files to GRD
+# summary: GRIT rc2grd tool that converts a source Windows .rc file into a .grd file, parsing dialogs, menus, string tables and version info with placeholder support.
+# ---
+
 '''The 'grit rc2grd' tool.'''
 
 import os.path

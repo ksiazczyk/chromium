@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Grit preprocess test expected output with comments
+// summary: Expected output fixture for grit preprocessing tests, showing a Polymer component with grit-removed-lines markers in the HTML template and JS comments.
+// ---
+
 Polymer({
   is: 'cr-foo',
 

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Pseudotranslation support
+# summary: Generates P-language pseudotranslations that lengthen text and use accented characters to stress GUI layouts and encodings.
+# ---
+
 '''Pseudotranslation support.  Our pseudotranslations are based on the
 P-language, which is a simple vowel-extending language.  Examples of P:
   - "hello" becomes "hepellopo"

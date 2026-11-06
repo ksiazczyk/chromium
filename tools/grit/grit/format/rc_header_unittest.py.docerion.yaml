@@ -1,0 +1,4 @@
+# Docerion header of rc_header_unittest.py.
+type: test
+title: Unit tests for the rc_header formatter
+summary: Verifies that the rc_header formatter emits correct resource ID defines, respects output conditions, and handles emit directives.

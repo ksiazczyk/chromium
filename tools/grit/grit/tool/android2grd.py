@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Android2Grd conversion tool
+# summary: GRIT tool that converts Android strings.xml files into Chrome-style GRD resource files, with options for output directories, languages, and translation files.
+# ---
+
 """The 'grit android2grd' tool."""
 
 import getopt

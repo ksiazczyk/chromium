@@ -1,0 +1,4 @@
+# Docerion header of mock_brotli.py.
+type: test
+title: Mock Brotli executable for testing
+summary: Mock Brotli executable that prints fake compressed output so GRIT tests can run without the real Brotli tool.

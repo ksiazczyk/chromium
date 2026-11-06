@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: GRIT menufromparts tool
+# summary: One-off GRIT tool that builds translations of whole menus from existing per-menu-item translations read from an XTB file.
+# ---
+
 '''The 'grit menufromparts' tool.'''
 
 from grit import grd_reader

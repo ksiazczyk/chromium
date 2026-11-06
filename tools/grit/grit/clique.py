@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Message and translation clique collections
+# summary: Implements UberClique and MessageClique to group messages with their translations and report missing or fallback translations.
+# ---
+
 '''Collections of messages and their translations, called cliques.  Also
 collections of cliques (uber-cliques).
 '''

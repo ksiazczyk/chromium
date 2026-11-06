@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: IPC fuzzer build configuration
+summary: GN build file that defines the ipc_fuzzer_config setting the ENABLE_IPC_FUZZER define for targets that import it.

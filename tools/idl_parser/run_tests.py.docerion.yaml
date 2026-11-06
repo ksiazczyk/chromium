@@ -1,0 +1,4 @@
+# Docerion header of run_tests.py.
+type: script
+title: Test runner for the IDL parser
+summary: Discovers and runs all *_test.py unittest modules in the directory and exits nonzero when any test fails.

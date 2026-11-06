@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: GRIT file and output node elements
+# summary: Implements the GRIT <file> and <output> elements, loading XTB translation files and managing output filenames, including gender variants.
+# ---
+
 '''The <output> and <file> elements.'''
 
 import copy

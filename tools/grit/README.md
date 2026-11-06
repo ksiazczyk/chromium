@@ -1,3 +1,9 @@
+---
+type: readme
+title: GRIT (Google Resource and Internationalization Tool)
+summary: Introduces GRIT for managing resources and localization, links the user guide, and describes the project's history and mirrors.
+---
+
 # GRIT (Google Resource and Internationalization Tool)
 
 This is a tool for projects to manage resources and simplify the localization

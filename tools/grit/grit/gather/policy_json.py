@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Policy templates JSON gatherer
+# summary: Skeleton gatherer that collects translateable strings from policy_templates.json for use by the policy template generator producing ADM, ADMX and similar files.
+# ---
+
 '''Support for "policy_templates.json" format used by the policy template
 generator as a source for generating ADM,ADMX,etc files.'''
 

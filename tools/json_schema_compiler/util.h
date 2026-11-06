@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: C++ value population utility header
+// summary: Declares PopulateItem functions and templates for populating arrays and optional arrays from base::Value lists.
+// ---
+
 #ifndef TOOLS_JSON_SCHEMA_COMPILER_UTIL_H_
 #define TOOLS_JSON_SCHEMA_COMPILER_UTIL_H_
 

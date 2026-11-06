@@ -1,0 +1,4 @@
+# Docerion header of pak_util.py.
+type: script
+title: PAK file utility tool
+summary: Command-line tool for inspecting, extracting, creating and repacking Chromium .pak resource files, with gzip and brotli decompression support.

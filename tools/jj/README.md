@@ -1,3 +1,13 @@
+---
+type: readme
+title: jj for chromium
+summary: Documentation for using the jj version control system with Chromium, covering setup, commits, syncing, uploading, bugs, workspaces, and formatting.
+relations:
+  - references /tools/jj/config.toml
+  - documents /tools/jj/bug.py
+  - documents /tools/jj/new_workspace.py
+---
+
 # jj for chromium
 jj is a Git-compatible version control system. It is not yet officially
 supported by ChOps, but may be in the future.

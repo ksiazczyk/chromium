@@ -1,0 +1,4 @@
+# Docerion header of policy_templates_json_unittest.py.
+type: test
+title: Unit tests for policy_templates_json
+summary: Unit tests verifying translation of policy template JSON content, including captions, messages and schema descriptions via xtb translation bundles.

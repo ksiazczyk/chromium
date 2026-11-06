@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the infra tools directory
+summary: Delegates ownership approval to the shared infra/OWNERS file.

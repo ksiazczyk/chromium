@@ -1,6 +1,13 @@
 # Copyright 2019 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: GRD reader for resource usage estimation
+# summary: Reads GRD and GRDP files via grit.grd_reader to count include, message, and structure tags and estimate resource ID usages.
+# ---
+
 """Helpers to read GRD files and estimate resource ID usages.
 
 This module uses grit.grd_reader to estimate resource ID usages in GRD

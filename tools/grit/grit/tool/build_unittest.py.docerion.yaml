@@ -1,0 +1,4 @@
+# Docerion header of build_unittest.py.
+type: test
+title: Build tool unit tests
+summary: Unit tests for the 'grit build' tool covering dep file generation, resource ID mapping, substitutions, and output assertions.

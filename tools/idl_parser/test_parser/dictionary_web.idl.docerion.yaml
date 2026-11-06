@@ -1,0 +1,4 @@
+# Docerion header of dictionary_web.idl.
+type: test
+title: WebIDL dictionary parser test cases
+summary: WebIDL test input exercising dictionary productions including inheritance, partials, required keys, defaults and extended attributes, with expected AST trees and errors in comments.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file inheriting base/i18n owners
+summary: Delegates code ownership of the i18n tools directory to the reviewers listed in base/i18n/OWNERS.

@@ -1,0 +1,4 @@
+# Docerion header of format_test.py.
+type: test
+title: Tests for the git cl format formatter
+summary: Unit tests checking that git cl format correctly formats Python, GN, Starlark, Mojom, Swift, Java, Kotlin, and C++ code.

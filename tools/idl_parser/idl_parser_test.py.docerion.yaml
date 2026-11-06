@@ -1,0 +1,4 @@
+# Docerion header of idl_parser_test.py.
+type: test
+title: Unit tests for the Web IDL parser
+summary: Checks parsed nodes against expected ERROR and TREE comments in test IDL files and verifies includes, enums and error cases.

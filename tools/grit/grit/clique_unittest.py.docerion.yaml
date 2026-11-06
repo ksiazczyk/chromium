@@ -1,0 +1,4 @@
+# Docerion header of clique_unittest.py.
+type: test
+title: Unit tests for grit.clique
+summary: Unit tests covering clique creation, translations by language and gender, fallback behavior, and message matching.

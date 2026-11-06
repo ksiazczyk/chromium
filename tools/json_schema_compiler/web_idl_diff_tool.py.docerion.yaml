@@ -1,0 +1,4 @@
+# Docerion header of web_idl_diff_tool.py.
+type: script
+title: WebIDL schema diff tool
+summary: Compares two API schema files after parsing with SchemaLoader and prints a unified diff of the results.

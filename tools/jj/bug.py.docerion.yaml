@@ -1,0 +1,4 @@
+# Docerion header of bug.py.
+type: source
+title: jj bug command for attaching bug trailers
+summary: Implements the jj bug command, which adds Bug or Fixed trailers to commits and can search the issue tracker with the bugged tool.

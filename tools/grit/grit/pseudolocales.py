@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Pseudolocale translations for Chrome
+# summary: Implements pseudolocale transformations, including accented character mapping and RTL markers, for Chrome UI messages.
+# ---
+
 """Pseudolocale translations for chrome."""
 
 import re

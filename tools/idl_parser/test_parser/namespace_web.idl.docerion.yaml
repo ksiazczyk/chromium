@@ -1,0 +1,4 @@
+# Docerion header of namespace_web.idl.
+type: test
+title: WebIDL namespace parser test cases
+summary: WebIDL test input exercising namespace productions including constants, operations, attributes, partials and extended attributes, with expected AST trees and errors in comments.

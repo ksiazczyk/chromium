@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: GRIT test tool for command-line parsing
+# summary: Defines a do-nothing GRIT tool that prints the global options and tool-specific arguments it receives, intended only for testing command-line parsing.
+# ---
+
 
 from grit.tool import interface
 

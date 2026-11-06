@@ -1,0 +1,4 @@
+# Docerion header of diff_structures_unittest.py.
+type: test
+title: DiffStructures unit tests
+summary: Unit tests for the diff_structures tool verifying that it fails when file inputs are missing or too many arguments are given.

@@ -1,0 +1,4 @@
+# Docerion header of c_format_unittest.py.
+type: test
+title: Unit tests for the C format formatter
+summary: Checks generated C output for quotes, line breaks, and non-ASCII character escaping.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Element to node class mapping
+# summary: Maps GRIT XML element names to the node classes that implement them and raises on unknown elements.
+# ---
+
 '''Maps each node type to an implementation class.
 When adding a new node type, you add to this mapping.
 '''

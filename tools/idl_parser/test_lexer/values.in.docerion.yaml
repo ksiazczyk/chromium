@@ -1,0 +1,4 @@
+# Docerion header of values.in.
+type: test
+title: Lexer token value test input
+summary: Test fixture with token/value pairs covering identifiers, integers, floats, punctuation and comments, used to verify lexer tokenization.

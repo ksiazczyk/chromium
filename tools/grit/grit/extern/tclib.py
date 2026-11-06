@@ -10,6 +10,12 @@
 # for creating Windows .rc and .h files.  These are the only parts needed by
 # the Chrome build process.
 
+# ---docerion
+# type: source
+# title: tclib translation message library
+# summary: Defines Message, Translation and Placeholder classes plus message ID generation for aggregating and verifying translation-console messages used by grit to build Windows .rc and .h files.
+# ---
+
 
 from grit.extern import FP
 

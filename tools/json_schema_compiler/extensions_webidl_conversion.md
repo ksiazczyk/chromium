@@ -1,3 +1,13 @@
+---
+type: guide
+title: Extensions WebIDL Conversion
+summary: Guide for converting legacy extension IDL schema files to modern WebIDL, detailing conversion rules and verification with the web_idl_diff_tool utility.
+relations:
+  - references /tools/json_schema_compiler/web_idl_diff_tool.py
+  - references /extensions/common/api/alarms.webidl
+  - references /tools/json_schema_compiler/web_idl_diff_tool_test.py
+---
+
 # Extensions WebIDL Conversion
 
 This document describes the process for converting old style Extensions IDL schema files to modern WebIDL syntax and details rules for how to handle specific conversion cases.

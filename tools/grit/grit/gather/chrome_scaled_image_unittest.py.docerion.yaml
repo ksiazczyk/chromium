@@ -1,0 +1,4 @@
+# Docerion header of chrome_scaled_image_unittest.py.
+type: test
+title: Chrome scaled image gatherer unit tests
+summary: Unit tests for ChromeScaledImage covering fallback behavior and verification of generated pak and rc outputs.

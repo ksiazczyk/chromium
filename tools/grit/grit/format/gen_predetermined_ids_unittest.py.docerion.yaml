@@ -1,0 +1,4 @@
+# Docerion header of gen_predetermined_ids_unittest.py.
+type: test
+title: Unit tests for gen_predetermined_ids
+summary: Unit tests verifying resource mapping generation and parsing of resource ID defines from generated GRIT header files.

@@ -1,0 +1,4 @@
+# Docerion header of preprocess_if_expr.gni.
+type: config
+title: GN template for if-expression preprocessing
+summary: GN template defining a build action that preprocesses conditional if-expressions in JS, TS and HTML files via preprocess_if_expr.py.

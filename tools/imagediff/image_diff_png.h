@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PNG codec interface for image_diff
+// summary: Declares the PNG decode and encode functions in the image_diff_png namespace used by the image_diff tool.
+// ---
+
 #ifndef TOOLS_IMAGEDIFF_IMAGE_DIFF_PNG_H_
 #define TOOLS_IMAGEDIFF_IMAGE_DIFF_PNG_H_
 

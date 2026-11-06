@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: GRIT unit tool to run the GRIT test suite
+# summary: Implements the grit unit command, which runs all GRIT unit tests through the test_suite_all module inside the GRIT runner environment.
+# ---
+
 '''GRIT tool that runs the unit test suite for GRIT.'''
 
 import getopt

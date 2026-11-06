@@ -1,0 +1,4 @@
+# Docerion header of data_pack.py.
+type: source
+title: Data pack file formatter and reader
+summary: Writes and reads platform-agnostic data pack resource files, including gender deduplication, aliases, and repacking.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: C++ header generator for API namespaces
+# summary: Generates C++ header files for API namespaces, including types, properties, functions, events and manifest keys, from compiled JSON schemas.
+# ---
+
 import os
 
 from code_util import Code
