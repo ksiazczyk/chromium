@@ -1,0 +1,4 @@
+# Docerion header of sapper_page.html.
+type: test
+title: Sapper framework detection test page
+summary: Test page setting window.__SAPPER__ to verify detection of pages using the Sapper JavaScript framework.

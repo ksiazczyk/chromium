@@ -1,0 +1,4 @@
+# Docerion header of page_with_active_connections.html.
+type: test
+title: Test page with active network connections
+summary: Test page that fetches slow resources to keep connections active and prevent network-idle before FirstMeaningfulPaint.

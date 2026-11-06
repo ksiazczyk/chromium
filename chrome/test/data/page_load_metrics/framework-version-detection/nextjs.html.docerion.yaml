@@ -1,0 +1,4 @@
+# Docerion header of nextjs.html.
+type: test
+title: Next.js version detection test page
+summary: Test page exposing a Next.js canary version through window.next used to verify version detection.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password form creation helper
+// summary: JavaScript helper that builds a simple password form with labeled username and password fields for use in password manager tests.
+// ---
+
 // Creates the following form:
 // <form action="done.html">
 //   <label for="username">Username</label>

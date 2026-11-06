@@ -1,0 +1,4 @@
+# Docerion header of react3_page.html.
+type: test
+title: React detection test page using data-reactroot attribute
+summary: Test page with a div carrying a data-reactroot attribute to verify that pages using the React JavaScript framework are detected.

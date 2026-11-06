@@ -1,0 +1,4 @@
+# Docerion header of svelte_page.html.
+type: test
+title: Svelte framework detection test page
+summary: Test page with a div whose class starts with svelte- to verify detection of pages using the Svelte framework.

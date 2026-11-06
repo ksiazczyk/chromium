@@ -1,0 +1,4 @@
+# Docerion header of react1_page.html.
+type: test
+title: React detection test page using window.React.Component
+summary: Test page defining window.React.Component to verify that pages using the React JavaScript framework are detected.

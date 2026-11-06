@@ -1,0 +1,4 @@
+# Docerion header of angular_page.html.
+type: test
+title: Angular page test fixture
+summary: Test page with an ng-version attribute used to verify Angular framework detection.

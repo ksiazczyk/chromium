@@ -1,0 +1,4 @@
+# Docerion header of preact_page.html.
+type: test
+title: Preact framework detection test page
+summary: Test page setting a __k property on a div to verify that pages using the Preact JavaScript framework are detected.

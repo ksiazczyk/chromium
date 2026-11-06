@@ -1,0 +1,4 @@
+# Docerion header of not-detected-bad-values.html.
+type: test
+title: Invalid framework version values test page
+summary: Test page with malformed Vue and Next.js version values that should not be detected as valid versions.

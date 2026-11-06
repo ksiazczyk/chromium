@@ -1,0 +1,4 @@
+# Docerion header of vue3_page.html.
+type: test
+title: Vue __vue_app__ property detection test page
+summary: Test page that adds a __vue_app__ property to a div so page load metrics tests can verify detection of the Vue JavaScript framework.

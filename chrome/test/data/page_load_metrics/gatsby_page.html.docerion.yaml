@@ -1,0 +1,4 @@
+# Docerion header of gatsby_page.html.
+type: test
+title: Gatsby page test fixture
+summary: Test page containing a node with id ___gatsby to verify detection of pages built with the Gatsby framework.

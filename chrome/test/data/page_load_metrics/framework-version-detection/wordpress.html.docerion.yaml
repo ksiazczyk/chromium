@@ -1,0 +1,4 @@
+# Docerion header of wordpress.html.
+type: test
+title: WordPress version detection test page
+summary: Test page with a WordPress 6.2.3 generator meta tag used to verify WordPress version detection.

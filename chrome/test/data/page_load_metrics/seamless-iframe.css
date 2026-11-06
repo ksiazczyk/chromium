@@ -6,6 +6,13 @@
  * the 'seamless' class, which prevents the frame from drawing borders or
  * scrollbars.
  */
+
+/*docerion
+type: test
+title: Seamless iframe CSS test data
+summary: CSS test data defining a seamless iframe class that removes borders and scrollbars to prevent frame painting.
+*/
+
 iframe.seamless {
     border: 0px none transparent;
     overflow: hidden;

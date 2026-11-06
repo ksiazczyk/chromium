@@ -1,0 +1,4 @@
+# Docerion header of click_to_create_iframe.html.
+type: test
+title: Click to create iframe test page
+summary: Test page whose button click creates an iframe from a data URL containing larger text than the main frame.
