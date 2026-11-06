@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for manual fill UI
+summary: Declares the directories that this folder is allowed to include dependencies from.

@@ -1,0 +1,4 @@
+# Docerion header of autofill_image_fetcher_impl.mm.
+type: source
+title: AutofillImageFetcherImpl implementation
+summary: Implements credit card art image URL resolution with FIFE sizing parameters and rescales fetched images to the screen scale.

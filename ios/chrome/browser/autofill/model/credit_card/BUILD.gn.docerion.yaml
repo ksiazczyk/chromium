@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for credit card autofill
+summary: Defines GN source sets for the credit card data model, the save card infobar delegate, and their unit tests with dependencies.

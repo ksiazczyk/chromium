@@ -1,0 +1,4 @@
+# Docerion header of manual_fill_full_card_requester.mm.
+type: source
+title: ManualFillFullCardRequester implementation
+summary: Implements ManualFillFullCardRequester, using CreditCardAccessManager to fetch full card data for local, server and virtual cards and report results to the delegate.

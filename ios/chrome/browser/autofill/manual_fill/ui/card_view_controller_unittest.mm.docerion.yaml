@@ -1,0 +1,4 @@
+# Docerion header of card_view_controller_unittest.mm.
+type: test
+title: Unit tests for CardViewController
+summary: Verifies that the no payment methods message is shown when no cards are presented and removed once card items appear.

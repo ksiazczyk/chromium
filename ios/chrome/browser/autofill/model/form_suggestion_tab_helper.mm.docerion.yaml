@@ -1,0 +1,4 @@
+# Docerion header of form_suggestion_tab_helper.mm.
+type: source
+title: FormSuggestionTabHelper implementation
+summary: Implements the tab helper that creates the FormSuggestionController, observes WebState destruction, and provides the accessory view provider.

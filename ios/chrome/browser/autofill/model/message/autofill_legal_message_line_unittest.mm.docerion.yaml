@@ -1,0 +1,4 @@
+# Docerion header of autofill_legal_message_line_unittest.mm.
+type: test
+title: AutofillLegalMessageLine unit tests
+summary: Unit tests verifying conversion of legal message lines, covering empty input, single lines, multiple links, and multiple lines.

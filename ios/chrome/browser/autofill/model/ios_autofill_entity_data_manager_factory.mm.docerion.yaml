@@ -1,0 +1,4 @@
+# Docerion header of ios_autofill_entity_data_manager_factory.mm.
+type: source
+title: Autofill entity data manager factory implementation
+summary: Implements the EntityDataManager factory, wiring web data, identity, sync, history, strike database, and personal context access dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of payments_scan_save_and_fill_offer_bottom_sheet_view_controller.mm.
+type: source
+title: Payments scan save and fill offer bottom sheet view controller implementation
+summary: Implements the offer bottom sheet with title, description, and scan or cancel actions, forwarding user interactions to its delegate.

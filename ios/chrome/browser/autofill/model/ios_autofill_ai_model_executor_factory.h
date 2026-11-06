@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI model executor factory header
+// summary: Declares the profile-keyed service factory that owns the AutofillAiModelExecutor for server-model autofill calls via the optimization guide.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MODEL_IOS_AUTOFILL_AI_MODEL_EXECUTOR_FACTORY_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MODEL_IOS_AUTOFILL_AI_MODEL_EXECUTOR_FACTORY_H_
 

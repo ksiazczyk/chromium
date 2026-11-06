@@ -1,0 +1,4 @@
+# Docerion header of form_fetcher_consumer_bridge.mm.
+type: source
+title: Form fetcher consumer bridge implementation
+summary: Implements the bridge that registers as a FormFetcher consumer and forwards fetch completion to the Objective-C delegate.

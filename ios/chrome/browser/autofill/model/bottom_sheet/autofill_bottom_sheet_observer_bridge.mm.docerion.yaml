@@ -1,0 +1,4 @@
+# Docerion header of autofill_bottom_sheet_observer_bridge.mm.
+type: source
+title: Autofill bottom sheet observer bridge implementation
+summary: Implements the bridge that forwards WillShowPaymentsBottomSheet callbacks to the owning Objective-C object.

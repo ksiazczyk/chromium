@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for scan save and fill UI
+summary: Specifies the allowed include dependencies for the scan save and fill UI directory.

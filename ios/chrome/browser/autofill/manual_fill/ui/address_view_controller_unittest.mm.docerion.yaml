@@ -1,0 +1,4 @@
+# Docerion header of address_view_controller_unittest.mm.
+type: test
+title: AddressViewController unit tests
+summary: Verifies that the no-addresses message appears when the list is empty and is removed once address items are presented.

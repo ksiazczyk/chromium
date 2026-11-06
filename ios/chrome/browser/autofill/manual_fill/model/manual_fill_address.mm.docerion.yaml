@@ -1,0 +1,4 @@
+# Docerion header of manual_fill_address.mm.
+type: source
+title: ManualFillAddress model implementation
+summary: Implements the ManualFillAddress class that stores address fields for manual fill, with equality, hash and description methods.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManualFillAddress AutofillProfile category
+// summary: Declares a category on ManualFillAddress adding a convenience initializer from an autofill::AutofillProfile.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_MODEL_MANUAL_FILL_ADDRESS_AUTOFILLPROFILE_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_MODEL_MANUAL_FILL_ADDRESS_AUTOFILLPROFILE_H_
 

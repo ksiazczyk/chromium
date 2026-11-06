@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FormSuggestionClient protocol header
+// summary: Declares an Objective-C protocol for handling user selection of form suggestions, with completion callbacks and optional form activity parameters.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MODEL_FORM_SUGGESTION_CLIENT_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MODEL_FORM_SUGGESTION_CLIENT_H_
 

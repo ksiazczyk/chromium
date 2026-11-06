@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Full card request result delegate protocol
+// summary: Declares an Objective-C delegate protocol for receiving the success result of a credit card unlocking request.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_MODEL_FULL_CARD_REQUEST_RESULT_DELEGATE_BRIDGE_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_MODEL_FULL_CARD_REQUEST_RESULT_DELEGATE_BRIDGE_H_
 

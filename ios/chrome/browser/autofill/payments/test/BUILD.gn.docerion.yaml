@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build config for payments suggestion bottom sheet tests
+summary: GN build definition for the eg2_tests target that builds the payments suggestion bottom sheet Earl Grey tests and their dependencies.

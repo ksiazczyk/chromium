@@ -1,0 +1,4 @@
+# Docerion header of autofill_image_fetcher_factory.mm.
+type: source
+title: Autofill image fetcher factory implementation
+summary: Factory that builds a per-profile AutofillImageFetcherImpl keyed service using the profile's shared URL loader factory.

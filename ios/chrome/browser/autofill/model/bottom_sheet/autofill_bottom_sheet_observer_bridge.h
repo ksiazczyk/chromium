@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill bottom sheet observer bridge header
+// summary: Declares a bridge that forwards autofill bottom sheet events from C++ to an Objective-C observer implementing the observing protocol.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MODEL_BOTTOM_SHEET_AUTOFILL_BOTTOM_SHEET_OBSERVER_BRIDGE_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MODEL_BOTTOM_SHEET_AUTOFILL_BOTTOM_SHEET_OBSERVER_BRIDGE_H_
 

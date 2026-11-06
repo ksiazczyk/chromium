@@ -1,0 +1,4 @@
+# Docerion header of chip_button.mm.
+type: source
+title: ChipButton implementation
+summary: Implements ChipButton styling with capsule corners, padding, semantic colors and scaled attributed titles.

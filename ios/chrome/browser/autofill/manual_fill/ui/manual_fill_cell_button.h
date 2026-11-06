@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManualFillCellButton header
+// summary: Declares a UIButton subclass that shows a darker background in its highlighted state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_UI_MANUAL_FILL_CELL_BUTTON_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_UI_MANUAL_FILL_CELL_BUTTON_H_
 

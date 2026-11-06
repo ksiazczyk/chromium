@@ -1,0 +1,4 @@
+# Docerion header of manual_fill_labeled_chip_unittest.mm.
+type: test
+title: ManualFillLabeledChip unit tests
+summary: Unit tests verifying creation and text population of single and expiration date labeled chips.

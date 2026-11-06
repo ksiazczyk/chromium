@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form suggestion accessibility identifier constants
+// summary: Declares accessibility identifier constants for the autofill suggestion label, suggestion view, and context menu actions used in UI automation.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MODEL_FORM_SUGGESTION_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MODEL_FORM_SUGGESTION_CONSTANTS_H_
 

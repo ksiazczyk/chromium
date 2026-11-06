@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FormSuggestionTabHelper header
+// summary: Declares a tab helper that binds a FormSuggestionController to a WebState and exposes an input accessory view provider.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MODEL_FORM_SUGGESTION_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MODEL_FORM_SUGGESTION_TAB_HELPER_H_
 

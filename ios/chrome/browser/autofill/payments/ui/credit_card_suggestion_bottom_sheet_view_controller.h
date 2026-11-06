@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credit card suggestion bottom sheet view controller interface
+// summary: Declares the payments bottom sheet view controller interface that displays credit card suggestions, initialized with a handler and the current page URL.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_PAYMENTS_UI_CREDIT_CARD_SUGGESTION_BOTTOM_SHEET_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_PAYMENTS_UI_CREDIT_CARD_SUGGESTION_BOTTOM_SHEET_VIEW_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManualFillCredential model header
+// summary: Declares the ManualFillCredential model class with username, password, display name, backup flag and passkey credential properties.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_MODEL_MANUAL_FILL_CREDENTIAL_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_MODEL_MANUAL_FILL_CREDENTIAL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill bottom sheet JavaScript feature header
+// summary: Declares the JavaScript feature that attaches and detaches form field focus listeners for the autofill bottom sheet.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MODEL_BOTTOM_SHEET_AUTOFILL_BOTTOM_SHEET_JAVA_SCRIPT_FEATURE_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MODEL_BOTTOM_SHEET_AUTOFILL_BOTTOM_SHEET_JAVA_SCRIPT_FEATURE_H_
 

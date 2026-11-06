@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManualFillCreditCard model header
+// summary: Declares the ManualFillCreditCard Objective-C class holding credit card data such as GUID, network, number, expiration, CVC and record type for manual fill.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_MODEL_MANUAL_FILL_CREDIT_CARD_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_MODEL_MANUAL_FILL_CREDIT_CARD_H_
 

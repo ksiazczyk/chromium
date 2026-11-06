@@ -1,0 +1,4 @@
+# Docerion header of form_suggestion_constants.mm.
+type: source
+title: Form suggestion accessibility identifier constants implementation
+summary: Defines the NSString values of the accessibility identifiers for form suggestion labels, views, and context menu actions.

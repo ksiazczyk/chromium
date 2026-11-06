@@ -1,0 +1,4 @@
+# Docerion header of autofill_ai_save_entity_infobar_delegate_ios_unittest.mm.
+type: test
+title: Autofill AI save entity infobar delegate unit tests
+summary: Parametrized unit tests verifying message text and button labels of the save entity infobar delegate across many Autofill AI entity types.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credit card suggestion bottom sheet consumer protocol
+// summary: Declares the consumer protocol that supplies credit card data and handles dismissal or primary button activation for the payments bottom sheet.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_PAYMENTS_UI_CREDIT_CARD_SUGGESTION_BOTTOM_SHEET_CONSUMER_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_PAYMENTS_UI_CREDIT_CARD_SUGGESTION_BOTTOM_SHEET_CONSUMER_H_
 

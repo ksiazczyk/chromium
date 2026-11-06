@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for autofill payments UI
+summary: Specifies allowed include rules for the autofill payments UI directory, with per-file exceptions for credit card data headers.

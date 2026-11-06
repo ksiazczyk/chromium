@@ -1,0 +1,4 @@
+# Docerion header of autofill_bottom_sheet_tab_helper.mm.
+type: source
+title: Autofill bottom sheet tab helper implementation
+summary: Implements the tab helper, reacting to form field focus events and dispatching commands to show the various bottom sheets.

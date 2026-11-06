@@ -1,0 +1,4 @@
+# Docerion header of expanded_manual_fill_view_controller.mm.
+type: source
+title: ExpandedManualFillViewController implementation
+summary: Implements the expanded manual fill view with a header, segmented control for data types, close button and layout handling across device sizes.

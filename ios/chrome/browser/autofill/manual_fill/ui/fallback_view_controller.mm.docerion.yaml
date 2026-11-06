@@ -1,0 +1,4 @@
+# Docerion header of fallback_view_controller.mm.
+type: source
+title: Fallback view controller implementation
+summary: Implements the fallback manual fill view controller that presents header, data, and action items in a popover-sized table view with a loading indicator.

@@ -1,0 +1,4 @@
+# Docerion header of suggestion_controller_java_script_feature_unittest.mm.
+type: test
+title: Suggestion controller JavaScript feature unit tests
+summary: Unit tests for the suggestion controller JavaScript feature, covering script injection and sequential navigation between form fields in web content.

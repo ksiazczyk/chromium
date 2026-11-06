@@ -1,0 +1,4 @@
+# Docerion header of payments_suggestion_bottom_sheet_coordinator.mm.
+type: source
+title: Payments suggestion bottom sheet coordinator implementation
+summary: Implements presenting the bottom sheet, wiring the mediator and view controller, and handling dismissal and payment details navigation.

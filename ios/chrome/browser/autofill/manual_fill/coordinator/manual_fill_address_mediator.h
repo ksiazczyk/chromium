@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manual fill address mediator header
+// summary: Declares the mediator that supplies addresses for the manual fill UI and wires up consumer, content injector and navigation delegates.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_COORDINATOR_MANUAL_FILL_ADDRESS_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_COORDINATOR_MANUAL_FILL_ADDRESS_MEDIATOR_H_
 

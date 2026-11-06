@@ -1,0 +1,4 @@
+# Docerion header of autofill_bottom_sheet_tab_helper_unittest.mm.
+type: test
+title: Autofill bottom sheet tab helper unit tests
+summary: Unit tests for the tab helper that triggers the autofill bottom sheet, using fake services, OCMock and test web utilities to cover focus and notice state handling.

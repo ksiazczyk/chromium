@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Card coordinator interface for manual fill
+// summary: Declares CardCoordinator and its delegate for presenting credit cards and handling card settings, details and manual fill completion.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_COORDINATOR_CARD_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_COORDINATOR_CARD_COORDINATOR_H_
 

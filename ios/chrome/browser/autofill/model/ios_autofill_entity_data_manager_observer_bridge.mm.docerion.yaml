@@ -1,0 +1,4 @@
+# Docerion header of ios_autofill_entity_data_manager_observer_bridge.mm.
+type: source
+title: Entity data manager observer bridge implementation
+summary: Implements the bridge that forwards EntityDataManager change notifications to the registered Objective-C delegate.

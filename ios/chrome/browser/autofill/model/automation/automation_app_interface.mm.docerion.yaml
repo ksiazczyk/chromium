@@ -1,0 +1,4 @@
+# Docerion header of automation_app_interface.mm.
+type: source
+title: AutomationAppInterface implementation for autofill profiles
+summary: Parses test recipe JSON, maps field type strings and loads autofill profiles and credit cards into the personal data manager so autofill suggestions appear in tests.

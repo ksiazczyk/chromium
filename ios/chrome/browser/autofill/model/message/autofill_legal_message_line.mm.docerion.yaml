@@ -1,0 +1,4 @@
+# Docerion header of autofill_legal_message_line.mm.
+type: source
+title: AutofillLegalMessageLine implementation
+summary: Implements conversion of C++ autofill legal message lines into an NSArray of AutofillLegalMessageLine objects with link ranges and URLs.

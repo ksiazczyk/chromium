@@ -1,0 +1,4 @@
+# Docerion header of manual_fill_credit_card+CreditCard.mm.
+type: source
+title: ManualFillCreditCard CreditCard category implementation
+summary: Implements conversion from an autofill::CreditCard, preparing obfuscated card numbers, expiration dates and CVC values for display.

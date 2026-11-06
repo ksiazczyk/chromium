@@ -1,0 +1,4 @@
+# Docerion header of autofill_ai_util.mm.
+type: source
+title: Autofill AI utility functions implementation
+summary: Implements Autofill AI utility functions that check feature enablement, permissions, and settings using profile-keyed services and preferences.

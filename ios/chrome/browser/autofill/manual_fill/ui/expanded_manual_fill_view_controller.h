@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExpandedManualFillViewController interface and delegate
+// summary: Declares the view controller that shows manual fill options for a data type and a delegate protocol for close and segment selection events.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_UI_EXPANDED_MANUAL_FILL_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_UI_EXPANDED_MANUAL_FILL_VIEW_CONTROLLER_H_
 

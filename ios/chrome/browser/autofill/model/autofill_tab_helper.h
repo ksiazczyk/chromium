@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillTabHelper class header
+// summary: Declares a WebState-bound helper that attaches an AutofillAgent, its delegate, and the iOS autofill client to a tab.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MODEL_AUTOFILL_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MODEL_AUTOFILL_TAB_HELPER_H_
 

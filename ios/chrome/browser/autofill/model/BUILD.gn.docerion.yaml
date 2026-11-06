@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the iOS autofill model
+summary: Defines the model source set, listing its sources and dependencies for the iOS Chrome autofill model directory.

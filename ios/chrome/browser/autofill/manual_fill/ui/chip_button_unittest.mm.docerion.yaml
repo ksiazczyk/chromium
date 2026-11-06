@@ -1,0 +1,4 @@
+# Docerion header of chip_button_unittest.mm.
+type: test
+title: Unit tests for ChipButton
+summary: Checks the button's title configuration and that disabling the button does not change its title font color.

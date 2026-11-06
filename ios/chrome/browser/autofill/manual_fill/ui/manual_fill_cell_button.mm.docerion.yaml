@@ -1,0 +1,4 @@
+# Docerion header of manual_fill_cell_button.mm.
+type: source
+title: ManualFillCellButton implementation
+summary: Implements the manual fill cell button with styling, content insets and highlight background behavior.

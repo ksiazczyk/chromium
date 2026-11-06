@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Manual fill Earl Grey tests build file
+summary: Defines the eg_test_support and eg2_tests source sets for the manual fill Earl Grey tests, listing their sources and dependencies.

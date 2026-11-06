@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill bottom sheet observer interface
+// summary: Declares the C++ interface for observing autofill bottom sheet activity, such as the payments bottom sheet being shown.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MODEL_BOTTOM_SHEET_AUTOFILL_BOTTOM_SHEET_OBSERVER_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MODEL_BOTTOM_SHEET_AUTOFILL_BOTTOM_SHEET_OBSERVER_H_
 

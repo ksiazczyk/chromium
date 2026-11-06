@@ -1,0 +1,4 @@
+# Docerion header of manual_fill_card_cell.mm.
+type: source
+title: Manual fill card cell implementation
+summary: Implements the card item and cell showing credit card details with CVC and expiration chips, overflow menus, and usage metrics.

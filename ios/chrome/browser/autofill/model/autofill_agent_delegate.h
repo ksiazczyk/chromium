@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillAgentDelegate header
+// summary: Declares AutofillAgentDelegate, which forwards autofill snackbar and AtMemory UI commands for the iOS autofill agent.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MODEL_AUTOFILL_AGENT_DELEGATE_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MODEL_AUTOFILL_AGENT_DELEGATE_H_
 

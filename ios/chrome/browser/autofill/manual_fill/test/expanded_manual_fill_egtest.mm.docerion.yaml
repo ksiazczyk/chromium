@@ -1,0 +1,4 @@
+# Docerion header of expanded_manual_fill_egtest.mm.
+type: test
+title: Expanded manual fill Earl Grey tests
+summary: Earl Grey integration tests for the expanded manual fill view, covering its address, password, and payment method tabs and autofill actions.

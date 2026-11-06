@@ -1,0 +1,4 @@
+# Docerion header of manual_fill_address_mediator.mm.
+type: source
+title: Manual fill address mediator implementation
+summary: Implements fetching and observing suggested autofill address profiles from PersonalDataManager and updating the manual fill address consumer.

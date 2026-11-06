@@ -1,0 +1,4 @@
+# Docerion header of amazon.test.
+type: test
+title: Amazon.com autofill captured site scenario
+summary: Captured-site automation scenario that clicks through an Amazon checkout and autofills address and credit card fields with expected autofill types and values.

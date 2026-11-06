@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the payments coordinator
+summary: Lists the allowed include rules for autofill, shared iOS Chrome, and web components used by this directory.

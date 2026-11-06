@@ -1,0 +1,4 @@
+# Docerion header of payments_suggestion_bottom_sheet_coordinator_unittest.mm.
+type: test
+title: Payments suggestion bottom sheet coordinator unit tests
+summary: Unit tests for the coordinator's presentation and dismissal behavior using mocked autofill and settings command handlers.

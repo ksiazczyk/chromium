@@ -1,0 +1,4 @@
+# Docerion header of manual_fill_card_cell_unittest.mm.
+type: test
+title: Manual fill card cell unit tests
+summary: Unit tests verifying card cell buttons and behavior for local, masked server, and virtual credit cards using OCMock.

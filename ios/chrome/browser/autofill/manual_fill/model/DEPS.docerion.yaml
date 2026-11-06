@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Manual fill model dependency allowlist
+summary: Declares include rules allowing dependencies on the passwords and level up model directories.

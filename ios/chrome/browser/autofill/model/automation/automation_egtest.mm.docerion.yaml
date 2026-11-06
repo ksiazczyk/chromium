@@ -1,0 +1,4 @@
+# Docerion header of automation_egtest.mm.
+type: test
+title: Autofill automation recipe-driven test case
+summary: Reads a JSON recipe from a command line switch, sets the autofill profile and replays the recorded actions against a captured website.

@@ -1,0 +1,4 @@
+# Docerion header of manual_fill_address+AutofillProfile_unittest.mm.
+type: test
+title: ManualFillAddress AutofillProfile category unit tests
+summary: Tests creating addresses from autofill profiles, covering middle name and middle initial variants.

@@ -1,0 +1,4 @@
+# Docerion header of ios_autofill_ai_personal_context_access_manager_factory.mm.
+type: source
+title: Autofill AI personal context access manager factory implementation
+summary: Implements the personal context access manager factory, gated on the ambient autofill feature and depending on personal context, sync, and suppression services.

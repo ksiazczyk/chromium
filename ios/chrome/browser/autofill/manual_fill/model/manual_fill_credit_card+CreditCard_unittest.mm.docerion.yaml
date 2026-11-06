@@ -1,0 +1,4 @@
+# Docerion header of manual_fill_credit_card+CreditCard_unittest.mm.
+type: test
+title: ManualFillCreditCard+CreditCard category unit tests
+summary: Unit tests for converting autofill::CreditCard objects into ManualFillCreditCard, covering unobfuscated and masked server cards.

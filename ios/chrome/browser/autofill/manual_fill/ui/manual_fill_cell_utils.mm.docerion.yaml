@@ -1,0 +1,4 @@
+# Docerion header of manual_fill_cell_utils.mm.
+type: source
+title: Manual fill cell layout utilities implementation
+summary: Implements spacing constants, chip creation and vertical and horizontal constraint helpers for manual fill cells.

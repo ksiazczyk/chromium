@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments scan save and fill offer bottom sheet delegate protocol
+// summary: Declares the delegate protocol handling view appearance events and scan card or cancel button taps in the offer bottom sheet.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_SCAN_SAVE_AND_FILL_UI_PAYMENTS_SCAN_SAVE_AND_FILL_OFFER_BOTTOM_SHEET_DELEGATE_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_SCAN_SAVE_AND_FILL_UI_PAYMENTS_SCAN_SAVE_AND_FILL_OFFER_BOTTOM_SHEET_DELEGATE_H_
 

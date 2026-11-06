@@ -1,0 +1,4 @@
+# Docerion header of ios_autofill_ai_model_cache_factory.mm.
+type: source
+title: IOSAutofillAiModelCacheFactory implementation
+summary: Builds the AutofillAiModelCache service per profile when the Autofill AI server model feature is enabled, depending on the history service.

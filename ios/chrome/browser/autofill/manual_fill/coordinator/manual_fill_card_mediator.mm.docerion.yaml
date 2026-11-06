@@ -1,0 +1,4 @@
+# Docerion header of manual_fill_card_mediator.mm.
+type: source
+title: Manual fill card mediator implementation
+summary: Implements the mediator that fetches credit cards from the personal data manager and builds the manual fill card list cells for payment autofill.

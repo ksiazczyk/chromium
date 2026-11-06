@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FormInputAccessoryViewHandler header
+// summary: Declares the handler for user actions in the default keyboard accessory view buttons, such as closing the keyboard and navigating form fields.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MODEL_FORM_INPUT_ACCESSORY_VIEW_HANDLER_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MODEL_FORM_INPUT_ACCESSORY_VIEW_HANDLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of autofill_image_fetcher_impl_unittest.mm.
+type: test
+title: AutofillImageFetcherImpl unit tests
+summary: Unit tests verifying card art URL resolution, image rescaling to the screen scale, and safe handling of empty server images.

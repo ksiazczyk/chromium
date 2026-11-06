@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments suggestion bottom sheet coordinator header
+// summary: Declares the Chrome coordinator responsible for creating the bottom sheet mediator and view controller from form activity parameters.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_PAYMENTS_COORDINATOR_PAYMENTS_SUGGESTION_BOTTOM_SHEET_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_PAYMENTS_COORDINATOR_PAYMENTS_SUGGESTION_BOTTOM_SHEET_COORDINATOR_H_
 

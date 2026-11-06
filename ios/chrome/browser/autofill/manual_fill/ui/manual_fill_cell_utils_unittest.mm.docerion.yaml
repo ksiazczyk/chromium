@@ -1,0 +1,4 @@
+# Docerion header of manual_fill_cell_utils_unittest.mm.
+type: test
+title: Manual fill cell utils unit tests
+summary: Unit tests verifying chip group handling and layout constraint helpers in manual_fill_cell_utils.

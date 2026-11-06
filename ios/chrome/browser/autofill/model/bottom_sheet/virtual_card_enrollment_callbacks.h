@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual card enrollment callbacks interface
+// summary: Declares move-only callbacks for the accept and decline user actions of the virtual card enrollment flow.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MODEL_BOTTOM_SHEET_VIRTUAL_CARD_ENROLLMENT_CALLBACKS_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MODEL_BOTTOM_SHEET_VIRTUAL_CARD_ENROLLMENT_CALLBACKS_H_
 

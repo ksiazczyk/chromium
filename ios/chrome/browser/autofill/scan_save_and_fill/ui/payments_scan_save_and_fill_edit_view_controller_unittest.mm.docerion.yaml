@@ -1,0 +1,4 @@
+# Docerion header of payments_scan_save_and_fill_edit_view_controller_unittest.mm.
+type: test
+title: Unit tests for the payments scan save and fill edit view controller
+summary: Unit tests covering field updates, validation, save and cancel behavior, and histogram logging for the edit view controller.

@@ -1,0 +1,4 @@
+# Docerion header of autofill_policy_service_factory.mm.
+type: source
+title: Autofill policy service factory implementation
+summary: Builds AutofillPolicyService instances from profile preferences, with incognito profiles redirected to the original profile.

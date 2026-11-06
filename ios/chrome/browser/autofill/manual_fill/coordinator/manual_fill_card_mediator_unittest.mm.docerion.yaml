@@ -1,0 +1,4 @@
+# Docerion header of manual_fill_card_mediator_unittest.mm.
+type: test
+title: Manual fill card mediator unit tests
+summary: Unit tests for ManualFillCardMediator covering card suggestion cells, accessibility labels, and card list behavior with fake dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManualFillFullCardRequester header
+// summary: Declares ManualFillFullCardRequester, a bridge to the payments FullCardRequester that lets users unlock server-side credit cards by entering the CVC.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_MODEL_MANUAL_FILL_FULL_CARD_REQUESTER_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_MODEL_MANUAL_FILL_FULL_CARD_REQUESTER_H_
 

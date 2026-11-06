@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS wallet pass access manager factory header
+// summary: Declares the singleton factory that associates WalletPassAccessManager instances with iOS profiles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MODEL_IOS_WALLET_PASS_ACCESS_MANAGER_FACTORY_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MODEL_IOS_WALLET_PASS_ACCESS_MANAGER_FACTORY_H_
 

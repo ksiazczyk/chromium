@@ -1,0 +1,4 @@
+# Docerion header of manual_fill_credit_card_unittest.mm.
+type: test
+title: ManualFillCreditCard unit tests
+summary: Unit tests verifying ManualFillCreditCard creation, property values and equality behavior.

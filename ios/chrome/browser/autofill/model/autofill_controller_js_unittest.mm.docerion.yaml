@@ -1,0 +1,4 @@
+# Docerion header of autofill_controller_js_unittest.mm.
+type: test
+title: Autofill controller JavaScript unit tests
+summary: Unit tests for the autofill_controller.js JavaScript, exercising form element extraction and autofill behavior in web views.

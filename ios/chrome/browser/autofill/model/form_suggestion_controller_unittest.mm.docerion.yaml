@@ -1,0 +1,4 @@
+# Docerion header of form_suggestion_controller_unittest.mm.
+type: test
+title: FormSuggestionController unit tests
+summary: Unit tests for FormSuggestionController using a test suggestion provider, fake web state and frames, and OCMock to verify suggestion behavior.

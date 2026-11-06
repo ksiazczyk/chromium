@@ -1,0 +1,4 @@
+# Docerion header of autofill_save_card_infobar_delegate_unittest.mm.
+type: test
+title: Unit tests for the save card infobar delegate
+summary: Tests delegate behavior for local and upload card saves, expiring logic, metrics histograms, and callback handling.

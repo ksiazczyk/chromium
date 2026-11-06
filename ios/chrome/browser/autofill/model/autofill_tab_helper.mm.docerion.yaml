@@ -1,0 +1,4 @@
+# Docerion header of autofill_tab_helper.mm.
+type: source
+title: AutofillTabHelper implementation for iOS tabs
+summary: Implements the per-tab autofill helper that wires the autofill agent, client, and command handlers to each iOS web state.

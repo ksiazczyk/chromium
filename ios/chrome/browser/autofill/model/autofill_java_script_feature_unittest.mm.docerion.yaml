@@ -1,0 +1,4 @@
+# Docerion header of autofill_java_script_feature_unittest.mm.
+type: test
+title: AutofillJavaScriptFeature unit tests
+summary: Unit tests exercising the autofill JavaScript feature against loaded HTML forms, covering form scanning and renderer ID assignment.

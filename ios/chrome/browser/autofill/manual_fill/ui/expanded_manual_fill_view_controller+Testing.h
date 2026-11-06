@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Testing category for ExpandedManualFillViewController
+// summary: Exposes the private segmented control property of ExpandedManualFillViewController for use in tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_UI_EXPANDED_MANUAL_FILL_VIEW_CONTROLLER_TESTING_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_UI_EXPANDED_MANUAL_FILL_VIEW_CONTROLLER_TESTING_H_
 

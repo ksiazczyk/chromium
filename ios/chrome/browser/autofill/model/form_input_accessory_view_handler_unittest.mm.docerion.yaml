@@ -1,0 +1,4 @@
+# Docerion header of form_input_accessory_view_handler_unittest.mm.
+type: test
+title: FormInputAccessoryViewHandler unit tests
+summary: Verifies that programmatically dismissing the keyboard when it is not visible does not crash the browser.

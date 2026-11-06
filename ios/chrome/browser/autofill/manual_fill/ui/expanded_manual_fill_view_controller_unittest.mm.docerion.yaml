@@ -1,0 +1,4 @@
+# Docerion header of expanded_manual_fill_view_controller_unittest.mm.
+type: test
+title: Unit tests for ExpandedManualFillViewController
+summary: Tests that the segmented control preselects the right data type and that the delegate is notified on segment changes.

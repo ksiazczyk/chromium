@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillSaveCardInfoBarDelegateIOS interface
+// summary: Declares the iOS infobar delegate that prompts to save or update credit card information and logs prompt metrics.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MODEL_CREDIT_CARD_AUTOFILL_SAVE_CARD_INFOBAR_DELEGATE_IOS_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MODEL_CREDIT_CARD_AUTOFILL_SAVE_CARD_INFOBAR_DELEGATE_IOS_H_
 

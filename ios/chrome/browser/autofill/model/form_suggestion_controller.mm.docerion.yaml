@@ -1,0 +1,4 @@
+# Docerion header of form_suggestion_controller.mm.
+type: source
+title: FormSuggestionController implementation
+summary: Implements form focus handling and suggestion presentation, including suggestion state tracking and a search pipeline over suggestion providers.

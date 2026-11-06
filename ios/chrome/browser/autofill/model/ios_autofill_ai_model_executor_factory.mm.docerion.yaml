@@ -1,0 +1,4 @@
+# Docerion header of ios_autofill_ai_model_executor_factory.mm.
+type: source
+title: Autofill AI model executor factory implementation
+summary: Implements the AutofillAiModelExecutor factory, building the executor only when the AutofillAI server model feature is enabled and dependencies exist.

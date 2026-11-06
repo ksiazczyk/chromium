@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the scan save and fill coordinator
+summary: Lists the include rules that allow dependencies for the scan save and fill coordinator directory.

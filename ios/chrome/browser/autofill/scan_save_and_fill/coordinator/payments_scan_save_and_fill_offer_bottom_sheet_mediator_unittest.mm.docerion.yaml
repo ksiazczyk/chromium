@@ -1,0 +1,4 @@
+# Docerion header of payments_scan_save_and_fill_offer_bottom_sheet_mediator_unittest.mm.
+type: test
+title: PaymentsScanSaveAndFillOfferBottomSheetMediator unit tests
+summary: Unit tests verifying that the mediator's post-dismiss block forwards the scan card suggestion and that exit metrics are recorded.

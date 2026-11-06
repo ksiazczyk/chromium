@@ -1,0 +1,4 @@
+# Docerion header of credit_card_data.mm.
+type: source
+title: CreditCardData implementation
+summary: Builds display and accessibility strings for a credit card, including virtual card labels, digit pronunciation, and icon scaling.
