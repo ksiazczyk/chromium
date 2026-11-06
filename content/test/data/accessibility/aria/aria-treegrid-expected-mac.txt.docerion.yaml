@@ -1,0 +1,4 @@
+# Docerion header of aria-treegrid-expected-mac.txt.
+type: test
+title: aria-treegrid expected macOS accessibility tree
+summary: Expected macOS accessibility tree for the aria-treegrid test, describing AXTable rows, columns and static text values.

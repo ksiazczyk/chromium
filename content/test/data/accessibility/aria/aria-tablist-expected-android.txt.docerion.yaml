@@ -1,0 +1,4 @@
+# Docerion header of aria-tablist-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for the ARIA tablist test
+summary: Expected Android accessibility tree dump for the ARIA tablist test page, showing tab lists and clickable tabs across three nesting levels.

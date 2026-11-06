@@ -1,0 +1,4 @@
+# Docerion header of aria-togglebutton-expected-auralinux.txt.
+type: test
+title: ARIA toggle button expected accessibility tree for Linux
+summary: Expected Linux accessibility tree for the ARIA toggle button test, showing push button and toggle button roles with pressed and indeterminate states.

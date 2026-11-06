@@ -1,0 +1,4 @@
+# Docerion header of aria-valuemin-expected-mac.txt.
+type: test
+title: aria-valuemin expected macOS output
+summary: Expected macOS accessibility tree for the aria-valuemin test page, listing AXMinValue for progress indicator, scrollbar, slider and incrementor elements.

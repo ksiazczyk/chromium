@@ -1,0 +1,4 @@
+# Docerion header of aria-tree-expected-android.txt.
+type: test
+title: ARIA tree expected Android tree
+summary: Expected Android accessibility tree snapshot for the aria-tree test page.

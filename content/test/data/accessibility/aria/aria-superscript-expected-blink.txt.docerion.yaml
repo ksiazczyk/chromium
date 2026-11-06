@@ -1,0 +1,4 @@
+# Docerion header of aria-superscript-expected-blink.txt.
+type: test
+title: aria-superscript expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the aria-superscript test page.

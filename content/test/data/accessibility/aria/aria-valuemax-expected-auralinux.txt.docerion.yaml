@@ -1,0 +1,4 @@
+# Docerion header of aria-valuemax-expected-auralinux.txt.
+type: test
+title: aria-valuemax expected Linux output
+summary: Expected AT-SPI accessibility tree for the aria-valuemax test page on Linux, listing current, minimum and maximum values for the range roles.

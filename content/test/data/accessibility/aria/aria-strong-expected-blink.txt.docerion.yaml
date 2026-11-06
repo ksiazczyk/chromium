@@ -1,0 +1,4 @@
+# Docerion header of aria-strong-expected-blink.txt.
+type: test
+title: aria-strong expected output for Blink
+summary: Expected Blink accessibility tree snapshot for the aria-strong test, showing strong role nodes and their contained text.

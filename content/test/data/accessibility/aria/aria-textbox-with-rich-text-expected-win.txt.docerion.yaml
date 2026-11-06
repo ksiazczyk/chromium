@@ -1,0 +1,4 @@
+# Docerion header of aria-textbox-with-rich-text-expected-win.txt.
+type: test
+title: Expected Windows accessibility output for rich text textbox test
+summary: Expected Windows IAccessible2 accessibility tree snapshot for the ARIA textbox with rich text test, including textbox, heading, paragraph and static text roles.

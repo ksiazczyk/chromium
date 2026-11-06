@@ -1,0 +1,4 @@
+# Docerion header of aria-valuenow-expected-android-external.txt.
+type: test
+title: aria-valuenow expected Android external output
+summary: Expected Android external accessibility snapshot for the aria-valuenow test page, with progress bar range info and actions.

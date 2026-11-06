@@ -1,0 +1,4 @@
+# Docerion header of aria-sort-html-table-expected-android.txt.
+type: test
+title: aria-sort HTML table expected Android tree
+summary: Expected Android accessibility tree snapshot for the aria-sort HTML table test.

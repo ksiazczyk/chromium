@@ -1,0 +1,4 @@
+# Docerion header of aria-switch-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for the ARIA switch test
+summary: Expected Android assist-data accessibility snapshot for the ARIA switch test page, listing four switches with their checked states.

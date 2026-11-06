@@ -1,0 +1,4 @@
+# Docerion header of aria-treeitem-nested-in-lists-expected-mac.txt.
+type: test
+title: Expected Mac accessibility tree for nested treeitem lists
+summary: Expected Mac accessibility tree dump for the nested treeitem test, using outline rows with ARIA set size, position in set and index attributes.

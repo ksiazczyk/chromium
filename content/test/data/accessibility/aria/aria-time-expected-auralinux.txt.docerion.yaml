@@ -1,0 +1,4 @@
+# Docerion header of aria-time-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for the aria-time test
+summary: Expected auralinux accessibility tree snapshot for the aria-time test page.

@@ -1,0 +1,4 @@
+# Docerion header of aria-treeitem-tabindex-expected-win.txt.
+type: test
+title: aria-treeitem-tabindex expected Windows output
+summary: Expected Windows accessibility tree snapshot for the ARIA treeitem tabindex test, listing outline items for Cat and Dog.

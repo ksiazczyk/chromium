@@ -1,0 +1,4 @@
+# Docerion header of aria-tree-discontinuous-expected-win.txt.
+type: test
+title: aria-tree-discontinuous expected Windows accessibility output
+summary: Expected Windows MSAA and IA2 snapshot for the discontinuous tree test with outline items named card content.

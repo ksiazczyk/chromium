@@ -1,0 +1,4 @@
+# Docerion header of aria-spinbutton-expected-mac.txt.
+type: test
+title: ARIA spinbutton expected macOS accessibility output
+summary: Expected macOS AX accessibility tree snapshot for the ARIA spinbutton test page, showing stepper incrementors and values.

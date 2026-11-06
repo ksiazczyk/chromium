@@ -1,0 +1,4 @@
+# Docerion header of aria-tree-expected-android-external.txt.
+type: test
+title: ARIA tree expected Android external tree
+summary: Expected Android external accessibility tree snapshot for the aria-tree test page.

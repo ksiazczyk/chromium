@@ -1,0 +1,4 @@
+# Docerion header of aria-treegrid-expected-android-external.txt.
+type: test
+title: aria-treegrid expected Android external accessibility tree
+summary: Expected Android accessibility output in external format for the aria-treegrid test, describing rows, grid cells, and available actions.

@@ -1,0 +1,4 @@
+# Docerion header of aria-spinbutton-expected-android-external.txt.
+type: test
+title: aria-spinbutton expected Android external tree
+summary: Expected Android external accessibility tree snapshot for the ARIA spinbutton accessibility test.

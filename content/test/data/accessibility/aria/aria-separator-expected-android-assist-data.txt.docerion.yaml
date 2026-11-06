@@ -1,0 +1,4 @@
+# Docerion header of aria-separator-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for aria-separator
+summary: Expected Android assist data snapshot for the aria-separator test, showing separator views with range values and their text content.

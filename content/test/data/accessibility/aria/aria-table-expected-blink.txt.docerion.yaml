@@ -1,0 +1,4 @@
+# Docerion header of aria-table-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for ARIA table
+summary: Expected Blink accessibility tree snapshot for the ARIA table test page with rows, column headers and cells.

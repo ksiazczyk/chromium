@@ -1,0 +1,4 @@
+# Docerion header of aria-textbox-with-non-text-children.html.
+type: test
+title: ARIA textbox with non-text children test page
+summary: HTML test fixture with role=textbox elements containing buttons, links, labels, inputs and images to verify handling of non-text children in accessibility trees.

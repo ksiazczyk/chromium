@@ -1,0 +1,4 @@
+# Docerion header of aria-treeitem-nested-in-lists-expected-android-external.txt.
+type: test
+title: aria-treeitem nested in lists expected Android external tree
+summary: Expected Android accessibility output in external format for the aria-treeitem-nested-in-lists test, describing hierarchical tree collections and tree items.

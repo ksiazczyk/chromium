@@ -1,0 +1,4 @@
+# Docerion header of aria-table-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for ARIA table
+summary: Expected Android assist data output describing the accessibility tree of the ARIA table test page.

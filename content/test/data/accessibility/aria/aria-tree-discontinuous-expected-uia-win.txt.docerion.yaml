@@ -1,0 +1,4 @@
+# Docerion header of aria-tree-discontinuous-expected-uia-win.txt.
+type: test
+title: aria-tree-discontinuous expected UIA Windows output
+summary: Expected Windows UIA snapshot for the discontinuous tree test with two tree items in a set of two.

@@ -1,0 +1,4 @@
+# Docerion header of aria-tree-discontinuous-expected-mac.txt.
+type: test
+title: aria-tree-discontinuous expected macOS accessibility output
+summary: Expected macOS accessibility snapshot for the discontinuous tree test with outline rows named card content.

@@ -1,0 +1,4 @@
+# Docerion header of aria-toolbar-expected-mac.txt.
+type: test
+title: aria-toolbar expected macOS accessibility tree
+summary: Expected macOS accessibility tree output for the aria toolbar test page, describing the toolbar and its text via AX roles.

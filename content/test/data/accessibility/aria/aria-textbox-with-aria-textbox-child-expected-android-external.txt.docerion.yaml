@@ -1,0 +1,4 @@
+# Docerion header of aria-textbox-with-aria-textbox-child-expected-android-external.txt.
+type: test
+title: Expected Android external data for nested ARIA textbox test
+summary: Expected Android external accessibility dump for the nested ARIA textbox test, listing actions, supplemental descriptions and chrome roles.

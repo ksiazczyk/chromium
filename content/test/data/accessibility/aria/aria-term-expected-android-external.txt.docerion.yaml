@@ -1,0 +1,4 @@
+# Docerion header of aria-term-expected-android-external.txt.
+type: test
+title: ARIA term expected Android external output
+summary: Expected Android external accessibility output for the ARIA term test, with collection item info and role descriptions for terms and definitions.

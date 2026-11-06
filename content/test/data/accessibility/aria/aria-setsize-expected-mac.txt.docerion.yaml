@@ -1,0 +1,4 @@
+# Docerion header of aria-setsize-expected-mac.txt.
+type: test
+title: aria-setsize expected mac output
+summary: Expected macOS AX accessibility tree snapshot for the aria-setsize test with AXARIASetSize and AXARIAPosInSet attributes.

@@ -1,0 +1,4 @@
+# Docerion header of aria-valuemin-expected-auralinux.txt.
+type: test
+title: aria-valuemin expected Linux output
+summary: Expected AT-SPI accessibility tree for the aria-valuemin test page on Linux, listing current, minimum and maximum values for the range roles.

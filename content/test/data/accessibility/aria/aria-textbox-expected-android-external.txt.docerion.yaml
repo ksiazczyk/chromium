@@ -1,0 +1,4 @@
+# Docerion header of aria-textbox-expected-android-external.txt.
+type: test
+title: aria-textbox expected Android external tree
+summary: Expected external Android accessibility tree for the aria-textbox test, describing editable multiline text fields and their available actions.

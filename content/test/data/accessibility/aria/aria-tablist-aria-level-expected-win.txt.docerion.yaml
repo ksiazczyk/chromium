@@ -1,0 +1,4 @@
+# Docerion header of aria-tablist-aria-level-expected-win.txt.
+type: test
+title: ARIA tablist aria-level expected Windows snapshot
+summary: Expected Windows accessibility tree snapshot for the nested ARIA tablist test, listing page tab lists and page tabs with setsize and posinset values.

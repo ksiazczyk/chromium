@@ -1,0 +1,4 @@
+# Docerion header of aria-textbox-expected-mac.txt.
+type: test
+title: ARIA textbox expected accessibility tree on macOS
+summary: Expected macOS accessibility tree dump for the ARIA textbox test, listing AXTextArea and AXStaticText nodes for two text boxes.

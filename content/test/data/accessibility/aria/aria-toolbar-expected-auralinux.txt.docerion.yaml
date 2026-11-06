@@ -1,0 +1,4 @@
+# Docerion header of aria-toolbar-expected-auralinux.txt.
+type: test
+title: ARIA toolbar expected accessibility tree for Linux
+summary: Expected Linux accessibility tree for the ARIA toolbar test, showing a horizontal tool bar containing static text 'A toolbar'.

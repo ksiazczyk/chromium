@@ -1,0 +1,4 @@
+# Docerion header of aria-tree-discontinuous-expected-android-assist-data.txt.
+type: test
+title: aria-tree-discontinuous expected Android assist data output
+summary: Expected Android assist data snapshot for the discontinuous tree test, listing tree and treeitem views with card content text.

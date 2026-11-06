@@ -1,0 +1,4 @@
+# Docerion header of aria-toolbar-expected-blink.txt.
+type: test
+title: aria-toolbar expected Blink accessibility tree
+summary: Expected Blink accessibility tree output for the aria toolbar test page, listing the toolbar and its static text.

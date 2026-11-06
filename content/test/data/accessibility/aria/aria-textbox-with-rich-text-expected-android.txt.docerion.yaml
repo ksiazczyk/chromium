@@ -1,0 +1,4 @@
+# Docerion header of aria-textbox-with-rich-text-expected-android.txt.
+type: test
+title: Expected Android accessibility output for rich text textbox test
+summary: Expected Android accessibility tree snapshot for the ARIA textbox with rich text test, marked as skipped because text_change_added_count is inconsistent.

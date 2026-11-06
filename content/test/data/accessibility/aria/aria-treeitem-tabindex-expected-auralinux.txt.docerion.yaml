@@ -1,0 +1,4 @@
+# Docerion header of aria-treeitem-tabindex-expected-auralinux.txt.
+type: test
+title: Expected Aura Linux accessibility tree for treeitem tabindex
+summary: Expected Aura Linux accessibility tree dump for the treeitem tabindex test, showing selectable tree items named Cat and Dog.

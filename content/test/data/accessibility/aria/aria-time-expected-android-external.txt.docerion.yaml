@@ -1,0 +1,4 @@
+# Docerion header of aria-time-expected-android-external.txt.
+type: test
+title: Expected Android external output for the aria-time test
+summary: Expected Android external accessibility output listing roles, actions and descriptions for the aria-time test page.

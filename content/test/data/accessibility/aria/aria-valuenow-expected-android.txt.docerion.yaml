@@ -1,0 +1,4 @@
+# Docerion header of aria-valuenow-expected-android.txt.
+type: test
+title: aria-valuenow expected Android output
+summary: Expected Android accessibility tree snapshot for the aria-valuenow test page, showing a progress bar with current value 3.

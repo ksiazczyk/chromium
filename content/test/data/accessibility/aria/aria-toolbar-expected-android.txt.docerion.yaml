@@ -1,0 +1,4 @@
+# Docerion header of aria-toolbar-expected-android.txt.
+type: test
+title: ARIA toolbar expected accessibility tree for Android
+summary: Expected Android accessibility tree for the ARIA toolbar test, showing a view with the toolbar role description named 'A toolbar'.

@@ -1,0 +1,4 @@
+# Docerion header of aria-tablist-aria-level-expected-android-external.txt.
+type: test
+title: ARIA tablist aria-level expected Android external snapshot
+summary: Expected Android external accessibility snapshot for the nested ARIA tablist test, listing tab list collections and clickable tab items with collection info and actions.

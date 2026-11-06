@@ -1,0 +1,4 @@
+# Docerion header of aria-term-expected-win.txt.
+type: test
+title: aria-term expected accessibility tree for Windows
+summary: Expected Windows accessibility tree for the aria-term test, mapping term and definition roles to IAccessible2 and MSAA roles.

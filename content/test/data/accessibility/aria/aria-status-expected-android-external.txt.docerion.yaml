@@ -1,0 +1,4 @@
+# Docerion header of aria-status-expected-android-external.txt.
+type: test
+title: ARIA status expected Android external output
+summary: Expected Android external accessibility snapshot for the ARIA status test page, showing live region views with status roles.

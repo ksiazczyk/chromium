@@ -1,0 +1,4 @@
+# Docerion header of aria-tablist-aria-level-expected-mac.txt.
+type: test
+title: ARIA tablist aria-level expected macOS snapshot
+summary: Expected macOS accessibility tree snapshot for the nested ARIA tablist test, describing tab groups and tab radio buttons with their titles.

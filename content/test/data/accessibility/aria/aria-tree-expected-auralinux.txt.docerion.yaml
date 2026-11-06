@@ -1,0 +1,4 @@
+# Docerion header of aria-tree-expected-auralinux.txt.
+type: test
+title: ARIA tree expected Linux accessibility tree
+summary: Expected Linux accessibility tree snapshot for the aria-tree test page.

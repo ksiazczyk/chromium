@@ -1,0 +1,4 @@
+# Docerion header of aria-sort-aria-grid-expected-blink.txt.
+type: test
+title: ARIA sort on ARIA grid expected Blink accessibility tree
+summary: Expected Blink internal accessibility tree for the aria-sort grid test with grids, rows, headers and cells.

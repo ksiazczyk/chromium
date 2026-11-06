@@ -1,0 +1,4 @@
+# Docerion header of aria-term-expected-android.txt.
+type: test
+title: ARIA term expected Android output
+summary: Expected Android accessibility tree for the ARIA term test, describing term and definition views inside a list view.

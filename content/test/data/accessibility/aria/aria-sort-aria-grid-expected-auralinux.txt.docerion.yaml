@@ -1,0 +1,4 @@
+# Docerion header of aria-sort-aria-grid-expected-auralinux.txt.
+type: test
+title: ARIA sort on ARIA grid expected Linux accessibility output
+summary: Expected Linux AT-SPI accessibility tree for the aria-sort grid test, showing tables with column and row header sort states.

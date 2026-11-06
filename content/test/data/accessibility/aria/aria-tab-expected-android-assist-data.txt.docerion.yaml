@@ -1,0 +1,4 @@
+# Docerion header of aria-tab-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for the ARIA tab test
+summary: Expected Android assist-data accessibility snapshot for the ARIA tab test page, showing a tablist containing two tabs.

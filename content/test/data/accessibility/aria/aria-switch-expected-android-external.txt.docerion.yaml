@@ -1,0 +1,4 @@
+# Docerion header of aria-switch-expected-android-external.txt.
+type: test
+title: Expected Android external output for the ARIA switch test
+summary: Expected Android external accessibility snapshot for the ARIA switch test page, describing switches with state descriptions and available actions.

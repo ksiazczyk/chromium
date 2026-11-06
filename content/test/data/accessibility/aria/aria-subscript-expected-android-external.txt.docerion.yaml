@@ -1,0 +1,4 @@
+# Docerion header of aria-subscript-expected-android-external.txt.
+type: test
+title: aria-subscript expected Android external snapshot
+summary: Expected Android external accessibility snapshot for the aria-subscript test with chrome roles, actions and bundle details for subscript content.

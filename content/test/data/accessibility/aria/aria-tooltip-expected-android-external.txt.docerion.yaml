@@ -1,0 +1,4 @@
+# Docerion header of aria-tooltip-expected-android-external.txt.
+type: test
+title: aria-tooltip expected Android external node info
+summary: Expected Android external accessibility node info for the aria tooltip test, including actions and Chrome role bundles.

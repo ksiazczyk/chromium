@@ -1,0 +1,4 @@
+# Docerion header of aria-selected-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for aria-selected
+summary: Expected Blink accessibility tree output for the aria-selected test, listing list box options with selected states and their static text.

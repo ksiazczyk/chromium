@@ -1,0 +1,4 @@
+# Docerion header of aria-sort-aria-grid-expected-win.txt.
+type: test
+title: ARIA sort on ARIA grid expected Windows accessibility tree
+summary: Expected Windows MSAA/IA2 accessibility tree for the aria-sort grid test, showing column and row headers with sort states.

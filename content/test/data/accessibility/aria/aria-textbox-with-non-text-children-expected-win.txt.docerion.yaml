@@ -1,0 +1,4 @@
+# Docerion header of aria-textbox-with-non-text-children-expected-win.txt.
+type: test
+title: ARIA textbox with non-text children expected Windows results
+summary: Expected Windows MSAA and IA2 accessibility tree snapshot for the ARIA textbox with non-text children accessibility test.

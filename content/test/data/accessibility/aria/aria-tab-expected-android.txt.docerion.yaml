@@ -1,0 +1,4 @@
+# Docerion header of aria-tab-expected-android.txt.
+type: test
+title: ARIA tab expected Android tree
+summary: Expected Android accessibility tree snapshot for the ARIA tab test showing a tab list collection with two clickable tab items.

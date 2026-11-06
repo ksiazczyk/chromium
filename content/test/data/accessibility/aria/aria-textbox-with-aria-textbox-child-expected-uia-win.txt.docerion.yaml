@@ -1,0 +1,4 @@
+# Docerion header of aria-textbox-with-aria-textbox-child-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows tree for nested ARIA textbox test
+summary: Expected Windows UIA accessibility tree for the nested ARIA textbox test, with Edit, Group and Text nodes and their values.

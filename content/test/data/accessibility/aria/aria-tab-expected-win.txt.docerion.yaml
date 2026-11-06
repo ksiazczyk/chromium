@@ -1,0 +1,4 @@
+# Docerion header of aria-tab-expected-win.txt.
+type: test
+title: ARIA tab expected Windows tree
+summary: Expected Windows accessibility tree snapshot for the ARIA tab test with a page tab list and two page tabs.

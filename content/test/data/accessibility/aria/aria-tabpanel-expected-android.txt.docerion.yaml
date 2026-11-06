@@ -1,0 +1,4 @@
+# Docerion header of aria-tabpanel-expected-android.txt.
+type: test
+title: ARIA tabpanel expected Android accessibility tree
+summary: Expected Android accessibility tree output for the ARIA tabpanel test, describing tab list, clickable tabs, headings and the tab panel with its content.

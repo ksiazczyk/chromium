@@ -1,0 +1,4 @@
+# Docerion header of aria-valuenow-expected-blink.txt.
+type: test
+title: aria-valuenow expected Blink output
+summary: Expected Blink internal accessibility tree snapshot for the aria-valuenow test page, with a progress indicator range of 0 to 100 and value 3.

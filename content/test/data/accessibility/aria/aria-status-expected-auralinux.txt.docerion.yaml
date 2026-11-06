@@ -1,0 +1,4 @@
+# Docerion header of aria-status-expected-auralinux.txt.
+type: test
+title: ARIA status expected Linux accessibility output
+summary: Expected Linux AT-SPI accessibility tree snapshot for the ARIA status test page, showing statusbar live region properties.

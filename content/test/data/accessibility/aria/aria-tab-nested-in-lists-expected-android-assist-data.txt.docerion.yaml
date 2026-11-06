@@ -1,0 +1,4 @@
+# Docerion header of aria-tab-nested-in-lists-expected-android-assist-data.txt.
+type: test
+title: ARIA tab nested in lists expected Android assist data
+summary: Expected Android assist data snapshot for the ARIA tab nested in lists test, showing tabs with aria-posinset and aria-setsize attributes.

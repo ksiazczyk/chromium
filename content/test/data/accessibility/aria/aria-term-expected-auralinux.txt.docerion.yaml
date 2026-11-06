@@ -1,0 +1,4 @@
+# Docerion header of aria-term-expected-auralinux.txt.
+type: test
+title: aria-term expected accessibility tree for Linux
+summary: Expected Linux accessibility tree output for the aria-term test, describing list, term and definition roles with their static text.

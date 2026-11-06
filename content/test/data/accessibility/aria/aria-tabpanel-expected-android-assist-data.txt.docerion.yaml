@@ -1,0 +1,4 @@
+# Docerion header of aria-tabpanel-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for the ARIA tabpanel test
+summary: Expected Android assist data snapshot for an ARIA tabpanel test page, covering tablist tabs and the labelled tabpanel content.

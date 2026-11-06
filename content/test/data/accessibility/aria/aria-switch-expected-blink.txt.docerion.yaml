@@ -1,0 +1,4 @@
+# Docerion header of aria-switch-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for the ARIA switch test
+summary: Expected Blink internal accessibility tree for the ARIA switch test page with four switches and their checked states.

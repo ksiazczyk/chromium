@@ -1,0 +1,4 @@
+# Docerion header of aria-spinbutton-expected-auralinux.txt.
+type: test
+title: ARIA spinbutton expected Linux accessibility output
+summary: Expected Linux AT-SPI accessibility tree snapshot for the ARIA spinbutton test page, with spin button current, minimum and maximum values.

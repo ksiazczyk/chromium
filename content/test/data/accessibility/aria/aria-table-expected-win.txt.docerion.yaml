@@ -1,0 +1,4 @@
+# Docerion header of aria-table-expected-win.txt.
+type: test
+title: ARIA table expected Windows accessibility tree
+summary: Expected Windows accessibility tree snapshot for the ARIA table test page, describing table, row, column header, and cell roles with names and cell indexes.

@@ -1,0 +1,4 @@
+# Docerion header of aria-setsize-expected-blink.txt.
+type: test
+title: aria-setsize expected Blink output
+summary: Expected Blink accessibility tree dump for the aria-setsize test, listing list box options with setSize and posInSet values.

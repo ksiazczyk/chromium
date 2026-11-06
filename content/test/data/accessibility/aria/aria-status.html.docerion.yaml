@@ -1,0 +1,4 @@
+# Docerion header of aria-status.html.
+type: test
+title: aria-status test page
+summary: HTML test page with div elements using role=status, including one with aria-atomic=false, to verify status live region behavior across platforms.

@@ -1,0 +1,4 @@
+# Docerion header of aria-setsize-expected-android.txt.
+type: test
+title: ARIA setsize expected Android accessibility tree
+summary: Expected Android accessibility tree snapshot for the aria-setsize test page with two listboxes of four and five options.

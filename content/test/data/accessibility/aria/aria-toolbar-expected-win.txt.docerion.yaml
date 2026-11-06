@@ -1,0 +1,4 @@
+# Docerion header of aria-toolbar-expected-win.txt.
+type: test
+title: aria-toolbar expected Windows accessibility tree
+summary: Expected Windows accessibility tree output for the aria toolbar test page using MSAA/IA2 roles and states.

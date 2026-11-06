@@ -1,0 +1,4 @@
+# Docerion header of aria-treeitem-nested-in-lists-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for nested treeitem lists
+summary: Expected Windows accessibility tree dump for the nested treeitem test, listing outline items with level, setsize and posinset values.

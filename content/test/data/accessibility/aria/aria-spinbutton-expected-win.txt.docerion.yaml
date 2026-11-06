@@ -1,0 +1,4 @@
+# Docerion header of aria-spinbutton-expected-win.txt.
+type: test
+title: ARIA spinbutton expected Windows IA2 output
+summary: Expected Windows IA2 accessibility tree snapshot for the ARIA spinbutton test page, with spin button roles and current values.

@@ -1,0 +1,4 @@
+# Docerion header of aria-switch-expected-win.txt.
+type: test
+title: Expected Windows accessibility output for the ARIA switch test
+summary: Expected Windows IA2 accessibility tree for the ARIA switch test page, listing toggle buttons with the switch role and their checked state.

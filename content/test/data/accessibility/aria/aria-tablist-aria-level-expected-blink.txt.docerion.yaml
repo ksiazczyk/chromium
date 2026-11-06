@@ -1,0 +1,4 @@
+# Docerion header of aria-tablist-aria-level-expected-blink.txt.
+type: test
+title: ARIA tablist aria-level expected Blink snapshot
+summary: Expected Blink internal accessibility tree snapshot for the nested ARIA tablist test, including tab lists, tabs, static text, and inline text boxes.

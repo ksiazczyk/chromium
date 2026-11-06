@@ -1,0 +1,4 @@
+# Docerion header of aria-treegrid-expected-uia-win.txt.
+type: test
+title: aria-treegrid expected UIA Windows accessibility tree
+summary: Expected UIA accessibility tree for the aria-treegrid test, describing DataGrid, TreeItem and DataItem nodes with grid positions and set sizes.

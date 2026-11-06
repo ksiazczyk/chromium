@@ -1,0 +1,4 @@
+# Docerion header of aria-setsize-expected-win.txt.
+type: test
+title: aria-setsize expected win output
+summary: Expected Windows accessibility tree snapshot for the aria-setsize test, showing list items with setsize and posinset values.

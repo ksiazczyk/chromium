@@ -1,0 +1,4 @@
+# Docerion header of aria-tooltip-expected-blink.txt.
+type: test
+title: aria-tooltip expected Blink accessibility tree
+summary: Expected Blink accessibility tree output for the aria tooltip test, including the text field description and tooltip node.

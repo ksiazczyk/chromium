@@ -1,0 +1,4 @@
+# Docerion header of aria-tree-discontinuous-expected-auralinux.txt.
+type: test
+title: aria-tree-discontinuous expected Linux accessibility output
+summary: Expected Linux accessibility snapshot for the discontinuous tree test with two selectable tree items.

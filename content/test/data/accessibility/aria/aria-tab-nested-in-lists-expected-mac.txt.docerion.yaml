@@ -1,0 +1,4 @@
+# Docerion header of aria-tab-nested-in-lists-expected-mac.txt.
+type: test
+title: Expected Mac accessibility tree for ARIA tab nested in lists
+summary: Expected macOS AX accessibility tree snapshot for the test page with an ARIA tablist nested inside HTML lists.

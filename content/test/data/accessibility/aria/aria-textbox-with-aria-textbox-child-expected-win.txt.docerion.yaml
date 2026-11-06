@@ -1,0 +1,4 @@
+# Docerion header of aria-textbox-with-aria-textbox-child-expected-win.txt.
+type: test
+title: Expected Windows IA2 tree for nested ARIA textbox test
+summary: Expected Windows IA2 accessibility tree for the nested ARIA textbox test, showing editable, multi-line and paragraph states.

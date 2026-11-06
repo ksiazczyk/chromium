@@ -1,0 +1,4 @@
+# Docerion header of aria-treegrid-expected-win.txt.
+type: test
+title: aria-treegrid expected Windows accessibility tree
+summary: Expected Windows accessibility tree for the aria-treegrid test, describing outline items, cells and static text with ARIA roles and levels.

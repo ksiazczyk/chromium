@@ -1,0 +1,4 @@
+# Docerion header of aria-tab-nested-in-lists-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for ARIA tab nested in lists
+summary: Expected Blink accessibility tree snapshot for the test page with an ARIA tablist nested inside HTML lists.

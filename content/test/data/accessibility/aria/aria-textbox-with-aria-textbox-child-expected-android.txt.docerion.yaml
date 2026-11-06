@@ -1,0 +1,4 @@
+# Docerion header of aria-textbox-with-aria-textbox-child-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for nested ARIA textbox test
+summary: Expected Android accessibility tree for the nested ARIA textbox test, with editable and non-editable nested text fields and hints.

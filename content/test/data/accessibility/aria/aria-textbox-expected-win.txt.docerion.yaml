@@ -1,0 +1,4 @@
+# Docerion header of aria-textbox-expected-win.txt.
+type: test
+title: ARIA textbox expected accessibility tree on Windows (IA2)
+summary: Expected Windows IA2 accessibility tree dump for the ARIA textbox test, showing text box roles, static text and xml-roles:textbox markers.

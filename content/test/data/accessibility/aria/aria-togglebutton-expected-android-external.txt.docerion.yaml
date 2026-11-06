@@ -1,0 +1,4 @@
+# Docerion header of aria-togglebutton-expected-android-external.txt.
+type: test
+title: aria-togglebutton expected Android external output
+summary: Expected Android external accessibility tree snapshot for the aria toggle button test.

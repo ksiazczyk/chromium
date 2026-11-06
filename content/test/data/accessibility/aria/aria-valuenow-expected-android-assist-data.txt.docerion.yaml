@@ -1,0 +1,4 @@
+# Docerion header of aria-valuenow-expected-android-assist-data.txt.
+type: test
+title: aria-valuenow expected Android assist data
+summary: Expected Android assist data snapshot for the aria-valuenow test page, showing a progress bar element with aria-valuenow 3.

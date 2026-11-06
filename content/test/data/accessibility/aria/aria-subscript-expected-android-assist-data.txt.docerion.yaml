@@ -1,0 +1,4 @@
+# Docerion header of aria-subscript-expected-android-assist-data.txt.
+type: test
+title: aria-subscript expected Android assist data
+summary: Expected Android assist data snapshot for the aria-subscript test, describing the view hierarchy with subscript roles, deletion and insertion content.

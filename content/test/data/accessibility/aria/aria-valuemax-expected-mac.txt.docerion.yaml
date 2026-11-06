@@ -1,0 +1,4 @@
+# Docerion header of aria-valuemax-expected-mac.txt.
+type: test
+title: aria-valuemax expected macOS output
+summary: Expected macOS accessibility tree for the aria-valuemax test page, listing AXMaxValue and AXValue for progress indicator, scrollbar, slider and incrementor elements.

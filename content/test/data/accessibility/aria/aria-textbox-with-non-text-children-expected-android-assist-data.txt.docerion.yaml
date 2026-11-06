@@ -1,0 +1,4 @@
+# Docerion header of aria-textbox-with-non-text-children-expected-android-assist-data.txt.
+type: test
+title: ARIA textbox with non-text children expected Android assist data
+summary: Expected Android assist data snapshot for the ARIA textbox with non-text children accessibility test, describing the tree as assist technology sees it.

@@ -1,0 +1,4 @@
+# Docerion header of aria-treeitem-tabindex-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for treeitem tabindex
+summary: Expected Android accessibility tree dump for the treeitem tabindex test, showing focusable tree items named Cat and Dog.

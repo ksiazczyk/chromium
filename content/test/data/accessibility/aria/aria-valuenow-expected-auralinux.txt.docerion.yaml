@@ -1,0 +1,4 @@
+# Docerion header of aria-valuenow-expected-auralinux.txt.
+type: test
+title: aria-valuenow expected Aura Linux output
+summary: Expected Aura Linux accessibility tree snapshot for the aria-valuenow test page, with progress bar current, minimum and maximum values.

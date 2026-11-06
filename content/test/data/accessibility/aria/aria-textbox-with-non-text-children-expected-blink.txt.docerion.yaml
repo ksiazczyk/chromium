@@ -1,0 +1,4 @@
+# Docerion header of aria-textbox-with-non-text-children-expected-blink.txt.
+type: test
+title: ARIA textbox with non-text children expected Blink results
+summary: Expected Blink internal accessibility tree snapshot for the ARIA textbox with non-text children accessibility test.

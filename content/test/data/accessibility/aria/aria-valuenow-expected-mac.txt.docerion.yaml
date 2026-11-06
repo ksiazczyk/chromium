@@ -1,0 +1,4 @@
+# Docerion header of aria-valuenow-expected-mac.txt.
+type: test
+title: aria-valuenow expected macOS output
+summary: Expected macOS accessibility tree snapshot for the aria-valuenow test page, with a progress indicator whose AXValue is 3.

@@ -1,0 +1,4 @@
+# Docerion header of aria-subscript-expected-android.txt.
+type: test
+title: aria-subscript expected Android snapshot
+summary: Expected Android accessibility tree snapshot for the aria-subscript test showing subscript, deletion, insertion and link roles.

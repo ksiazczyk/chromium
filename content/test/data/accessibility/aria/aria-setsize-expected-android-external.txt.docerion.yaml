@@ -1,0 +1,4 @@
+# Docerion header of aria-setsize-expected-android-external.txt.
+type: test
+title: ARIA setsize expected Android external output
+summary: Expected Android external accessibility snapshot for the aria-setsize test, listing collection info for listboxes and their items.

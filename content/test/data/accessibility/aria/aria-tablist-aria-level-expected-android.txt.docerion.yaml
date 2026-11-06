@@ -1,0 +1,4 @@
+# Docerion header of aria-tablist-aria-level-expected-android.txt.
+type: test
+title: ARIA tablist aria-level expected Android snapshot
+summary: Expected Android accessibility snapshot for the nested ARIA tablist test, describing tab list view groups and tab views with collection item details.
