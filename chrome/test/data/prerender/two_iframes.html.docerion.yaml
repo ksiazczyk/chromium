@@ -1,0 +1,4 @@
+# Docerion header of two_iframes.html.
+type: test
+title: Two iframes test page
+summary: Test page containing two iframes whose source URLs are placeholders.

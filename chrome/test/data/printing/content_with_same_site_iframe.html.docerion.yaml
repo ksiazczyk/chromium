@@ -1,0 +1,4 @@
+# Docerion header of content_with_same_site_iframe.html.
+type: test
+title: Same-site iframe printing test page
+summary: Test page embedding a same-site iframe to verify printing of isolated iframe content.

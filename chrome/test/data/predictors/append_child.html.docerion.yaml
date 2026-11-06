@@ -1,0 +1,4 @@
+# Docerion header of append_child.html.
+type: test
+title: Test page that includes append_child.js
+summary: HTML test page that loads append_child.js to exercise predictor handling of dynamically appended subresources.

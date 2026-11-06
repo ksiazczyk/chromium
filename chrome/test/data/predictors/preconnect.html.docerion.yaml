@@ -1,0 +1,4 @@
+# Docerion header of preconnect.html.
+type: test
+title: Test page fetching an image from foo.com
+summary: Loads an image from foo.com with a port placeholder to test preconnect predictions.

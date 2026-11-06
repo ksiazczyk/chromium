@@ -1,0 +1,4 @@
+# Docerion header of two_iframes.html.
+type: test
+title: Two iframes on different origins test page
+summary: Test page embedding two iframes on different origins, one served by an echo endpoint and one on a proxied host.

@@ -1,0 +1,4 @@
+# Docerion header of load_image_a.html.
+type: test
+title: Test page loading image a
+summary: Minimal test page that displays red_rectangle.png as image a for predictor image loading tests.

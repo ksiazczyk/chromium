@@ -1,0 +1,4 @@
+# Docerion header of connection_allowlist_redirect_allowed.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for connection allowlist redirect allowed page
+summary: Mock HTTP response headers allowing example.com and secondnav.com with redirects enabled for the redirect test page.

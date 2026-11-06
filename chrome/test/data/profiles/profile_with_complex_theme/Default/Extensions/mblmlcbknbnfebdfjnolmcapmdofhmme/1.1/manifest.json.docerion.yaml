@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Star Gazing theme extension manifest
+summary: Manifest for the Star Gazing theme extension fixture in a Chrome test profile, defining theme colors, images, tints, properties, and version 1.1.

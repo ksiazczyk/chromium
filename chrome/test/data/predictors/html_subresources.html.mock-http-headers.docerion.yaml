@@ -1,0 +1,4 @@
+# Docerion header of html_subresources.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for html_subresources.html
+summary: Mock HTTP response headers served for html_subresources.html, returning 200 OK as HTML with a long cache lifetime.

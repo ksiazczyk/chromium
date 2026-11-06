@@ -1,0 +1,4 @@
+# Docerion header of predictor_cross_site_no_referrer.html.
+type: test
+title: Cross-site predictor test page without referrer
+summary: Test page that loads fetch_cross_site.js with a never referrer meta tag so referrer tracking is avoided and predictor learning should be prevented.

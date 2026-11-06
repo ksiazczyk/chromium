@@ -1,0 +1,4 @@
+# Docerion header of prefetch_page_bigger.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for bigger prefetch page test
+summary: Mock HTTP headers serving the bigger prefetch page with a 200 response, one-hour cache control, and HTML content type for browser tests.

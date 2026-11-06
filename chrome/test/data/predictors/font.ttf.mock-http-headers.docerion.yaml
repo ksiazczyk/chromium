@@ -1,0 +1,4 @@
+# Docerion header of font.ttf.mock-http-headers.
+type: test
+title: Mock HTTP headers for font.ttf
+summary: Mock HTTP response headers served for font.ttf, returning 200 OK with a five-minute cache lifetime.

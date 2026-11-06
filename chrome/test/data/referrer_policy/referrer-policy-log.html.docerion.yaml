@@ -1,0 +1,4 @@
+# Docerion header of referrer-policy-log.html.
+type: test
+title: Referrer policy log page
+summary: Test page that reports the document referrer through its title, showing whether the referrer is empty or its value.

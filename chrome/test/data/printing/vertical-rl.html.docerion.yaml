@@ -1,0 +1,4 @@
+# Docerion header of vertical-rl.html.
+type: test
+title: Vertical writing mode printing test page
+summary: HTML page with a vertical-rl writing mode and a 10000px tall block used to test printing of vertically laid out content.

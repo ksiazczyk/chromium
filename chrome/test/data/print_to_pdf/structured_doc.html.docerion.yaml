@@ -1,0 +1,4 @@
+# Docerion header of structured_doc.html.
+type: test
+title: Structured document test page
+summary: HTML test page with headings, list, table, link, image and multilingual text providing structured content for PrintToPDF tests.

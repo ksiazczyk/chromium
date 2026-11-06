@@ -1,0 +1,4 @@
+# Docerion header of javascript_redirect.html.
+type: test
+title: Test page that loads a JavaScript redirect
+summary: Test page that loads javascript_redirect.js to change the document location for predictor redirect tests.

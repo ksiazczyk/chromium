@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cross-site fetch test script
+// summary: Test script that parses query parameters and fetches a configurable number of cross-origin subresources to exercise predictor preconnect and preresolve learning.
+// ---
+
 // This script file should be requested with the following query params:
 // subresourceHost: The base url of the embedded test server to request
 // subresources from.

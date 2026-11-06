@@ -1,0 +1,4 @@
+# Docerion header of style.css.mock-http-headers.
+type: test
+title: Mock HTTP headers for style.css
+summary: Mock HTTP response headers served for style.css with a 200 status and a short cache lifetime.

@@ -1,0 +1,4 @@
+# Docerion header of preload2.html.
+type: test
+title: Test page preloading style and script with three images
+summary: Preloads a stylesheet and a script while loading three red rectangle images for preload predictor tests.

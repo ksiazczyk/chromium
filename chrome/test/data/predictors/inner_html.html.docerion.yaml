@@ -1,0 +1,4 @@
+# Docerion header of inner_html.html.
+type: test
+title: Test page that includes inner_html.js
+summary: HTML test page with placeholder divs that loads inner_html.js to populate them.

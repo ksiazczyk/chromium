@@ -1,0 +1,4 @@
+# Docerion header of preload.html.
+type: test
+title: Test page preloading style, script and font
+summary: Preloads a stylesheet, a script and a font and shows an image to test preload predictor behavior.

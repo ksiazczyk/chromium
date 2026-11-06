@@ -1,0 +1,4 @@
+# Docerion header of content_with_iframe_chain.html.
+type: test
+title: Iframe chain printing test page
+summary: Test page embedding a nested iframe chain to verify printing across chained frames.

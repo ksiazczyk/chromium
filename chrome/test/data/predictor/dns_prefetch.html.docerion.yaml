@@ -1,0 +1,4 @@
+# Docerion header of dns_prefetch.html.
+type: test
+title: DNS prefetch test page
+summary: Test page with dns-prefetch link tags, including a hostname longer than 255 characters to verify no IPC message is sent to the browser.

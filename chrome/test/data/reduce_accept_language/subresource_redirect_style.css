@@ -3,6 +3,13 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file.
  */
+
+/*docerion
+type: test
+title: Subresource redirect stylesheet
+summary: Stylesheet served as a cross-site subresource in reduce accept language tests, setting the body font size to 20px.
+*/
+
 body {
   font-size: 20px;
 }

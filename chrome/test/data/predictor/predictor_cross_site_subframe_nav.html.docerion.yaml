@@ -1,0 +1,4 @@
+# Docerion header of predictor_cross_site_subframe_nav.html.
+type: test
+title: Predictor cross-site subframe navigation test page
+summary: Test page that loads an empty cross-site iframe and exposes a method to navigate it, supporting Chrome predictor browser tests.

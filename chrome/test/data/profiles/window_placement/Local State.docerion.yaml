@@ -1,0 +1,4 @@
+# Docerion header of Local State.
+type: test
+title: Local State
+summary: Test profile state file containing browser window placement coordinates used by Chrome window placement tests.

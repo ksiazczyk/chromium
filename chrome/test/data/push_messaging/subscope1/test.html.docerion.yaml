@@ -1,0 +1,4 @@
+# Docerion header of test.html.
+type: test
+title: Push API sub-scope 1 test page
+summary: HTML test page for the Push API sub-scope 1 scenario that loads the shared push test scripts and result queue helpers.

@@ -1,0 +1,4 @@
+# Docerion header of frameset.html.
+type: test
+title: Frameset printing test page
+summary: Frameset test page that loads a scrolled frame for printing tests.

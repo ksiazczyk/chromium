@@ -1,0 +1,4 @@
+# Docerion header of lazy-loaded-iframe-offscreen-cross-origin.html.
+type: test
+title: Lazy-loaded offscreen cross-origin iframe test page
+summary: Test page with a lazy-loaded cross-origin iframe placed 40000 pixels offscreen for printing tests.

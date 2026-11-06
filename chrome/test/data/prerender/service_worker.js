@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Prerender test service worker
+// summary: Service worker that logs install and fetch events and intercepts requests for prefetch_page.html, serving a response containing an image tag for preload scanning.
+// ---
+
 console.log('ServiceWorker executed');
 
 self.addEventListener('install', function (event) {

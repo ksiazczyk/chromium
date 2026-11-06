@@ -1,0 +1,4 @@
+# Docerion header of image2.png.mock-http-headers.
+type: test
+title: image2.png mock HTTP headers
+summary: Mock HTTP headers serving image2.png as a long-lived cacheable image/png response.

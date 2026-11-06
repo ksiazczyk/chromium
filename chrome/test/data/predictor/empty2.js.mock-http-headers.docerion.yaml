@@ -1,0 +1,4 @@
+# Docerion header of empty2.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for empty2.js
+summary: Mock HTTP response headers that serve empty2.js as HTML with CORS allowed for predictor tests.

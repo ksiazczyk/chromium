@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Push messaging test service worker
+// summary: Service worker that handles push events, notifications, subscription changes, and subscription commands for push messaging tests.
+// ---
+
 // Use an absolute path since this could be loaded from a different scope,
 // which would affect the scope of the importScripts call here.
 self.importScripts('/push_messaging/push_constants.js');

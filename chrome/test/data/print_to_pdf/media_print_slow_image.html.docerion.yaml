@@ -1,0 +1,4 @@
+# Docerion header of media_print_slow_image.html.
+type: test
+title: Print media slow image test page
+summary: HTML test page that applies a slow-loading JPEG background image under the print media type for PrintToPDF testing.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the test printer provider extension
+summary: Chrome extension manifest declaring the printerProvider permission, background script, browser action popup and options page for the test extension.

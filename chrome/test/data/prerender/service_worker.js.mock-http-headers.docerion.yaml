@@ -1,0 +1,4 @@
+# Docerion header of service_worker.js.mock-http-headers.
+type: test
+title: Service worker mock HTTP headers
+summary: Mock HTTP headers that serve service_worker.js with a 200 OK response and a text/javascript content type in prerender tests.

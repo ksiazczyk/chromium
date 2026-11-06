@@ -1,0 +1,4 @@
+# Docerion header of prefetch_response_csp.html.mock-http-headers.
+type: test
+title: Mock HTTP headers with CSP for prefetch response test
+summary: Mock HTTP headers returning 200 with a script-src Content-Security-Policy used by the prefetch response CSP test.

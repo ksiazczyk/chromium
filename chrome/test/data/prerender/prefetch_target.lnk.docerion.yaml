@@ -1,0 +1,4 @@
+# Docerion header of prefetch_target.lnk.
+type: test
+title: Prefetch target placeholder file
+summary: Nearly empty placeholder file likely serving as a prefetch target in tests; its exact purpose is unclear from content.

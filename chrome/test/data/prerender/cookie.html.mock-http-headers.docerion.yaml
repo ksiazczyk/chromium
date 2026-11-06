@@ -1,0 +1,4 @@
+# Docerion header of cookie.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for cookie test page
+summary: Mock HTTP response headers serving the cookie test page and setting the chocolate-chip cookie.

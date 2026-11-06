@@ -1,0 +1,4 @@
+# Docerion header of connection_allowlist_blocked.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for connection allowlist blocked page
+summary: Mock HTTP response headers serving the blocked test page with a Connection-Allowlist that permits no response origins.

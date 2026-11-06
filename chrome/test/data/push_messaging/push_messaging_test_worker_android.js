@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker for Android push messaging instrumentation tests
+// summary: Service worker that handles push events and message commands for the Android push messaging instrumentation test.
+// ---
+
 // The MessagePort to communicate with the client.
 var messagePort = null;
 

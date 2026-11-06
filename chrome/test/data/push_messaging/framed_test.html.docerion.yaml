@@ -1,0 +1,4 @@
+# Docerion header of framed_test.html.
+type: test
+title: Cross-site framed Push API test page
+summary: Loads test.html from a cross-site origin in an iframe for push messaging tests that need a framed page.

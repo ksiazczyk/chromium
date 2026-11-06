@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test script injecting image, CSS and script via innerHTML
+// summary: Injects an image, a stylesheet and a script into the page via innerHTML to exercise predictor handling of dynamically added subresources.
+// ---
+
 document.getElementById("img").innerHTML =
   '<img src="/handled-by-test/image.png">';
 document.getElementById("css").innerHTML =

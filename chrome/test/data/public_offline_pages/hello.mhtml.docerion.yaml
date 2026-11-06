@@ -1,0 +1,4 @@
+# Docerion header of hello.mhtml.
+type: test
+title: Hello MHTML test page
+summary: Sample MHTML document saved by UnMHT that serves as test data for Chrome's public offline pages tests.

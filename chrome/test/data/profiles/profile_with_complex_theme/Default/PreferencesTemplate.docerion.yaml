@@ -1,0 +1,4 @@
+# Docerion header of PreferencesTemplate.
+type: test
+title: Preferences template for complex theme test profile
+summary: Template Chrome profile preferences that install the Star Gazing theme extension, used by tests for the profile_with_complex_theme test profile.

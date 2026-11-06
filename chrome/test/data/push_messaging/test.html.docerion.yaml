@@ -1,0 +1,4 @@
+# Docerion header of test.html.
+type: test
+title: Push API test page
+summary: HTML page that loads the push messaging test scripts and manifest for browser tests of the Push API.

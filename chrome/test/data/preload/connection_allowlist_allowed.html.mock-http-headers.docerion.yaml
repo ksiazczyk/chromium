@@ -1,0 +1,4 @@
+# Docerion header of connection_allowlist_allowed.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for the allowed allowlist page
+summary: Mock HTTP response headers setting a Connection-Allowlist entry for the allowed test page in preload tests.

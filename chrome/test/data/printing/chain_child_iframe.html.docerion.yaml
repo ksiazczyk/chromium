@@ -1,0 +1,4 @@
+# Docerion header of chain_child_iframe.html.
+type: test
+title: Chain child iframe test page
+summary: Test page embedding a cross-site child iframe to form part of an iframe chain used in printing tests.

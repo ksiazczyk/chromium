@@ -1,0 +1,4 @@
+# Docerion header of content_with_iframe_loop.html.
+type: test
+title: Iframe loop printing test page
+summary: Test page whose iframe content forms a loop to verify printing with cyclic iframe references.

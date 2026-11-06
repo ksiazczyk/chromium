@@ -1,0 +1,4 @@
+# Docerion header of write.golden.need_empty_value.json.
+type: test
+title: write.golden.need_empty_value.json
+summary: Golden expected output file defining the empty dict and list values a pref_service write test should produce.
