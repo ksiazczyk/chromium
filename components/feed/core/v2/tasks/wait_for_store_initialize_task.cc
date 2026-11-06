@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaitForStoreInitializeTask implementation
+// summary: 'Implements feed store initialization: reads startup data, clears the store when the stored Gaia account does not match, and upgrades the stream schema when needed.'
+// ---
+
 #include "components/feed/core/v2/tasks/wait_for_store_initialize_task.h"
 
 #include <vector>

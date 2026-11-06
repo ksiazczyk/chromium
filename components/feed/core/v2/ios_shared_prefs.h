@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS shared feed prefs declarations
+// summary: Declares preference accessors shared with iOS for feed notice card views and clicks, click/view action upload conditions, and feed experiments storage and migration.
+// ---
+
 #ifndef COMPONENTS_FEED_CORE_V2_IOS_SHARED_PREFS_H_
 #define COMPONENTS_FEED_CORE_V2_IOS_SHARED_PREFS_H_
 

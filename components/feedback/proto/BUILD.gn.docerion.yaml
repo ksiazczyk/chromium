@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Feedback proto library GN build file
+summary: Defines the proto_library build target that compiles the feedback protobuf sources in this directory.

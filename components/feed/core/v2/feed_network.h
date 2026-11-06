@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedNetwork interface and Discover API descriptors
+// summary: Declares the FeedNetwork interface with request result types and Discover API descriptors for interactive, background, next-page, and action upload requests.
+// ---
+
 #ifndef COMPONENTS_FEED_CORE_V2_FEED_NETWORK_H_
 #define COMPONENTS_FEED_CORE_V2_FEED_NETWORK_H_
 

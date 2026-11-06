@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EphemeralChange class declarations
+// summary: Declares EphemeralChange, EphemeralChangeList, and ApplyEphemeralChanges for managing reversible sequences of feed data operations.
+// ---
+
 #ifndef COMPONENTS_FEED_CORE_V2_STREAM_MODEL_EPHEMERAL_CHANGE_H_
 #define COMPONENTS_FEED_CORE_V2_STREAM_MODEL_EPHEMERAL_CHANGE_H_
 

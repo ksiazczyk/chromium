@@ -7,6 +7,12 @@
 // components/feedback/redaction_tool source code is shared into ChromeOS and
 // needs to have no dependencies outside of base/.
 
+// ---docerion
+// type: source
+// title: URL canonicalizer internal character tables
+// summary: Vendored copy of url/url_canon_internal.cc defining the shared character type lookup table and internal canonicalization helpers.
+// ---
+
 #include "components/feedback/redaction_tool/url_canon_internal.h"
 
 #include <errno.h>

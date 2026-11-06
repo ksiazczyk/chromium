@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderData protobuf definition
+// summary: Defines the RenderData protobuf message describing render data types such as XSurface containers and prefetch resources.
+// ---
+
 syntax = "proto2";
 
 package feedwire;

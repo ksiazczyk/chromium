@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClearAllTask implementation
+// summary: Implements the task that unloads feed models, clears the persistent key-value store and FeedStore, then finishes the clear-all flow.
+// ---
+
 #include "components/feed/core/v2/tasks/clear_all_task.h"
 
 #include "base/functional/callback.h"

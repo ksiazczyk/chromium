@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeFeedResponseMetadata wire proto
+// summary: Defines feed response metadata including privacy notice fulfillment, logging, session ID, experiments, and activity settings.
+// ---
+
 syntax = "proto2";
 
 package feedwire;

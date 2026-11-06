@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FeedbackData unit tests
+// summary: Unit tests for FeedbackData report sending, using a mock uploader and test URL loader factory to verify queuing and email handling.
+// ---
+
 #include "components/feedback/feedback_data.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Experiments translator unit tests
+// summary: Tests translation of feed response experiments, including group names, experiment IDs, and missing-field cases.
+// ---
+
 #include "components/feed/core/v2/ios_shared_experiments_translator.h"
 
 #include "base/test/scoped_feature_list.h"

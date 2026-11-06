@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureTree implementation
+// summary: Implements ContentMap and FeatureTree, applying stream structure operations and mapping content IDs to revisions for the feed stream model.
+// ---
+
 #include "components/feed/core/v2/stream_model/feature_tree.h"
 
 #include <algorithm>

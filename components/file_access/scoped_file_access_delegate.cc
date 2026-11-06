@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedFileAccessDelegate implementation
+// summary: Implements the ScopedFileAccessDelegate singleton that routes file access requests for system IO to a registered callback, including a testing helper for swapping the callback.
+// ---
+
 #include "components/file_access/scoped_file_access_delegate.h"
 #include "base/files/file_path.h"
 #include "base/functional/bind.h"

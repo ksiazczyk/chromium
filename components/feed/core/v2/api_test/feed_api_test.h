@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Feed API test fixture header
+// summary: Declares the FeedApiTest base fixture, test doubles, and helper functions shared by the Feed API unit tests.
+// ---
+
 #ifndef COMPONENTS_FEED_CORE_V2_API_TEST_FEED_API_TEST_H_
 #define COMPONENTS_FEED_CORE_V2_API_TEST_FEED_API_TEST_H_
 

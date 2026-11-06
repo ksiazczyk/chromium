@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Text proto printer implementation for feed protos
+// summary: Implements TextProtoPrinter, which renders feed protobuf messages as text-proto-style strings for test output and comparisons.
+// ---
+
 #include "components/feed/core/v2/test/proto_printer.h"
 
 #include <sstream>

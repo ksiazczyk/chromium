@@ -4,6 +4,12 @@
 
 // Messages sent from extension to feedback server as JSON.
 
+// ---docerion
+// type: source
+// title: Feedback extension request protobuf messages
+// summary: Defines protobuf messages sent from the feedback extension to the server, including page requests, screenshots, submit payloads and suggestion queries.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

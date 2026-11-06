@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedbackData class header
+// summary: Declares the FeedbackData class, which tracks pending compression operations and sends the feedback report once all page data and attachments are complete.
+// ---
+
 #ifndef COMPONENTS_FEEDBACK_FEEDBACK_DATA_H_
 #define COMPONENTS_FEEDBACK_FEEDBACK_DATA_H_
 

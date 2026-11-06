@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed enum stream output operators
+// summary: Implements debug stream output operators for feed enums such as NetworkRequestType, LoadStreamStatus, and UploadActionsStatus.
+// ---
+
 #include "components/feed/core/v2/enums.h"
 
 #include <ostream>

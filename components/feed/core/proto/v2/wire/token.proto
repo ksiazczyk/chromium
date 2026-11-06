@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Token wire proto
+// summary: Defines the Token message for pagination and update tokens such as next-page, in-place update and story tokens.
+// ---
+
 syntax = "proto2";
 
 package feedwire;

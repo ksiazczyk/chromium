@@ -5,6 +5,12 @@
 // Messages containing DOM data captured from the browser.
 // It includes the structure of the HTML document and Navigator data.
 
+// ---docerion
+// type: source
+// title: DOM and navigator feedback data protobuf messages
+// summary: Defines protobuf messages capturing DOM data from the browser, covering HTML document structure, elements, navigator properties and element paths.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

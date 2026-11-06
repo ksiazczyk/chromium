@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Feedback uploader unit tests
+// summary: Unit tests for the feedback report uploader, using a mock uploader to verify report dispatch, retry on simulated failure, and queuing of offline reports.
+// ---
+
 #include "components/feedback/feedback_uploader.h"
 
 #include <memory>

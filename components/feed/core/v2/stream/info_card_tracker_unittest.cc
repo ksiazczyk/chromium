@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InfoCardTracker unit tests
+// summary: Unit tests covering view counting with minimum view intervals, timestamp adjustment, click and dismissal tracking, and state reset for InfoCardTracker.
+// ---
+
 #include "components/feed/core/v2/stream/info_card_tracker.h"
 
 #include <string>

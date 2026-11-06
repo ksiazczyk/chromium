@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file delegating to DLP owners
+summary: Delegates code ownership of this directory to the ChromeOS DLP policy OWNERS file.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockScopedFileAccessDelegate header
+// summary: Declares a gmock-based mock of ScopedFileAccessDelegate that stubs file access request methods for use in tests.
+// ---
+
 #ifndef COMPONENTS_FILE_ACCESS_TEST_MOCK_SCOPED_FILE_ACCESS_DELEGATE_H_
 #define COMPONENTS_FILE_ACCESS_TEST_MOCK_SCOPED_FILE_ACCESS_DELEGATE_H_
 

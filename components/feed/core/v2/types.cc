@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed type helpers implementation
+// summary: Implements feed type helpers, including pickling of network response info and debug stream data and conversion of request metadata to client info.
+// ---
+
 #include "components/feed/core/v2/types.h"
 
 #include <ostream>

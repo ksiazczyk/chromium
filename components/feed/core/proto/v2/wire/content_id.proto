@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content ID wire proto
+// summary: Defines the feedwire ContentId message identifying content by domain, type such as cluster or feature, and a fixed64 id.
+// ---
+
 syntax = "proto2";
 
 package feedwire;

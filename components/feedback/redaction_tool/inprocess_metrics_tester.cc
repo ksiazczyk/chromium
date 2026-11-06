@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: In-process metrics tester implementation
+// summary: Implements InprocessMetricsTester, which exposes histogram bucket counts and sets up a metrics recorder for redaction tool unit tests.
+// ---
+
 #include "components/feedback/redaction_tool/inprocess_metrics_tester.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedResponse protobuf definition
+// summary: Defines the FeedResponse and FeedResponseMetadata protobuf messages describing server responses, including data operations, event IDs, experiments and info card serving.
+// ---
+
 syntax = "proto2";
 
 package feedwire;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XSurface datastore interfaces
+// summary: Defines reader, writer, slice, and aggregate interfaces for the generic key-value datastore used to feed data into XSurface display elements.
+// ---
+
 #ifndef COMPONENTS_FEED_CORE_V2_XSURFACE_DATASTORE_H_
 #define COMPONENTS_FEED_CORE_V2_XSURFACE_DATASTORE_H_
 

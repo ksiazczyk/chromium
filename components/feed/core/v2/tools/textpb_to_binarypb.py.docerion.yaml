@@ -1,0 +1,4 @@
+# Docerion header of textpb_to_binarypb.py.
+type: script
+title: Convert textproto to binary proto
+summary: Command-line tool that converts Feed protos between text and binary form, with optional base64 URL encoding.

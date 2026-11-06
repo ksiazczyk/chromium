@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Feed component owners
+summary: Lists the primary and fallback code owners responsible for reviewing changes in the feed component.

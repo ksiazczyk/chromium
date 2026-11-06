@@ -1,3 +1,9 @@
+---
+type: readme
+title: Feed wire proto sync instructions
+summary: Explains that the wire proto files must match upstream copies and how to sync changes using a script before sending a CL.
+---
+
 **WARNING: These proto files should match the**
 **[upstream copies](http://shortn/_f5aHLD4mRf)!**
 

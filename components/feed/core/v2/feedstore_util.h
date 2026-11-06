@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feedstore utility declarations
+// summary: Declares feedstore helpers for stream keys, timestamp conversion, and metadata mutations used by the feed store and stream.
+// ---
+
 #ifndef COMPONENTS_FEED_CORE_V2_FEEDSTORE_UTIL_H_
 #define COMPONENTS_FEED_CORE_V2_FEEDSTORE_UTIL_H_
 

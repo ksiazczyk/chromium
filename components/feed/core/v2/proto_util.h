@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed proto utility declarations
+// summary: Declares helpers for feed proto messages, such as content ID and content comparison functors, client info creation, and feed query request construction.
+// ---
+
 #ifndef COMPONENTS_FEED_CORE_V2_PROTO_UTIL_H_
 #define COMPONENTS_FEED_CORE_V2_PROTO_UTIL_H_
 

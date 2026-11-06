@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feedback feature flag declarations
+// summary: Declares the feedback feature flags and the functions used to query whether each flag is enabled.
+// ---
+
 #ifndef COMPONENTS_FEEDBACK_FEATURES_H_
 #define COMPONENTS_FEEDBACK_FEATURES_H_
 

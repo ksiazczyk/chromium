@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed stream surface implementation
+// summary: Implements FeedStreamSurface, assigning a unique surface ID to each surface for a given stream type.
+// ---
+
 #include "components/feed/core/v2/feed_stream_surface.h"
 
 namespace feed {

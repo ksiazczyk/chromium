@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feedback switches header
+// summary: Declares the kFeedbackServer command-line switch for the feedback component.
+// ---
+
 #ifndef COMPONENTS_FEEDBACK_FEEDBACK_SWITCHES_H_
 #define COMPONENTS_FEEDBACK_FEEDBACK_SWITCHES_H_
 

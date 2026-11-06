@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoadMoreTask implementation
+// summary: Implements fetching additional feed content from the network when the model is already loaded, including uploading pending actions and processing the load-more response.
+// ---
+
 #include "components/feed/core/v2/tasks/load_more_task.h"
 
 #include <memory>

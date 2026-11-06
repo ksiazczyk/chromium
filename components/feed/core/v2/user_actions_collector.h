@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserActionsCollector class declaration
+// summary: Declares UserActionsCollector, which stores, retrieves and summarizes entity mids of feed articles the user clicked on in the past.
+// ---
+
 #ifndef COMPONENTS_FEED_CORE_V2_USER_ACTIONS_COLLECTOR_H_
 #define COMPONENTS_FEED_CORE_V2_USER_ACTIONS_COLLECTOR_H_
 

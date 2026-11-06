@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Feed core v2 DEPS include rules
+summary: Restricts and grants include dependencies for the feed core v2 directory, with specific rules for feed_stream and stream_model files.

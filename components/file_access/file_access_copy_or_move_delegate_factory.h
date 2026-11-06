@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface for creating CopyOrMoveHookDelegate instances
+// summary: Declares a singleton factory interface that creates storage::CopyOrMoveHookDelegate instances used to hook into copy operation stages.
+// ---
+
 #ifndef COMPONENTS_FILE_ACCESS_FILE_ACCESS_COPY_OR_MOVE_DELEGATE_FACTORY_H_
 #define COMPONENTS_FILE_ACCESS_FILE_ACCESS_COPY_OR_MOVE_DELEGATE_FACTORY_H_
 

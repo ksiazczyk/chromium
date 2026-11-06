@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoadStreamTask implementation
+// summary: Implements loading the feed stream model from storage or network, mapping network responses to launch results and persisting refreshed data to the store.
+// ---
+
 #include "components/feed/core/v2/tasks/load_stream_task.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UploadActionsTask implementation
+// summary: Implements the task that batches pending feed user actions for upload, erases stale or over-limit actions from the store, and returns a new consistency token on success.
+// ---
+
 #include "components/feed/core/v2/tasks/upload_actions_task.h"
 
 #include <memory>

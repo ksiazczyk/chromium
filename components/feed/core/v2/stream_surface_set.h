@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StreamSurfaceSet class declaration
+// summary: Declares StreamSurfaceSet, which tracks the surfaces attached to a StreamType and notifies observers when surfaces are added or removed.
+// ---
+
 #ifndef COMPONENTS_FEED_CORE_V2_STREAM_SURFACE_SET_H_
 #define COMPONENTS_FEED_CORE_V2_STREAM_SURFACE_SET_H_
 

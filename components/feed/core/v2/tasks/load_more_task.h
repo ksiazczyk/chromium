@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoadMoreTask class declaration
+// summary: Declares the LoadMoreTask that fetches additional feed content for an already loaded model, with persistence handled by StreamModel instead of FeedStore.
+// ---
+
 #ifndef COMPONENTS_FEED_CORE_V2_TASKS_LOAD_MORE_TASK_H_
 #define COMPONENTS_FEED_CORE_V2_TASKS_LOAD_MORE_TASK_H_
 

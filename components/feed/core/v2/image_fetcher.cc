@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed image fetcher implementation
+// summary: Implements image downloads for feed articles via SimpleURLLoader, with traffic annotations, request cancellation, and fetch status metrics.
+// ---
+
 #include "components/feed/core/v2/image_fetcher.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed shared preference names header
+// summary: Declares the feed::prefs preference name constants shared by Feed and Zine (ntp_snippets) and the RegisterFeedSharedProfilePrefs registration function.
+// ---
+
 #ifndef COMPONENTS_FEED_CORE_SHARED_PREFS_PREF_NAMES_H_
 #define COMPONENTS_FEED_CORE_SHARED_PREFS_PREF_NAMES_H_
 

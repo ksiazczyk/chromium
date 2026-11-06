@@ -4,6 +4,12 @@
 
 // These are protos for driving the XSurface data store.
 
+// ---docerion
+// type: source
+// title: xsurface.proto
+// summary: Defines protos for driving the XSurface data store, including offline badge content and a deprecated WebFeedFollowState message.
+// ---
+
 syntax = "proto2";
 
 package feedxsurface;

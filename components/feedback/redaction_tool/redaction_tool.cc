@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Redaction tool implementation with PII detection patterns
+// summary: Implements the RedactionTool that detects and redacts PII such as URLs, IP and MAC addresses, emails, SSIDs and credit card numbers using RE2 regular expressions.
+// ---
+
 #include "components/feedback/redaction_tool/redaction_tool.h"
 
 #include <algorithm>

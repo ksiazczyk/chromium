@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrivacyNoticeCardTracker implementation
+// summary: Implements tracking of privacy notice card views and clicks, using a three-view threshold to decide whether the user acknowledged the card.
+// ---
+
 #include "components/feed/core/v2/stream/privacy_notice_card_tracker.h"
 
 #include <string_view>

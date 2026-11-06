@@ -1,0 +1,4 @@
+# Docerion header of decode_feed_response.sh.
+type: script
+title: Decode Feed response to textproto
+summary: Converts a binary Feed HTTP response to text, stripping the leading varint length before decoding.

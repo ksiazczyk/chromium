@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Feed component issue tracking metadata
+summary: Declares the monorail component, team email, and Buganizer component used for issue tracking of the feed directory.

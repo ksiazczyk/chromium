@@ -7,6 +7,12 @@
 // components/feedback/redaction_tool source code is shared into ChromeOS and
 // needs to have no dependencies outside of base/.
 
+// ---docerion
+// type: source
+// title: URL canonicalizer internal helpers
+// summary: Vendored copy of url/url_canon_internal.h declaring shared character type flags, the character lookup table and portable numeric conversion helpers.
+// ---
+
 #ifndef COMPONENTS_FEEDBACK_REDACTION_TOOL_URL_CANON_INTERNAL_H_
 #define COMPONENTS_FEEDBACK_REDACTION_TOOL_URL_CANON_INTERNAL_H_
 

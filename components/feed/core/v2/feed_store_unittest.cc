@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Feed store unit tests
+// summary: Unit tests for FeedStore covering initialization, stream loading, saving updates, and clearing data with a fake LevelDB database.
+// ---
+
 #include "components/feed/core/v2/feed_store.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Feedback utility unit tests
+// summary: Unit tests for feedback_util covering ReadEndOfFile on empty, small, and large files and the skipping of consent keys in LogsToString.
+// ---
+
 
 #include "components/feedback/feedback_util.h"
 

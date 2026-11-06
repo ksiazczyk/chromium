@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedbackUploader class header
+// summary: Declares FeedbackUploader, a KeyedService that queues feedback reports for upload, requeues reports from disk, and retries failed uploads with backoff.
+// ---
+
 #ifndef COMPONENTS_FEEDBACK_FEEDBACK_UPLOADER_H_
 #define COMPONENTS_FEEDBACK_FEEDBACK_UPLOADER_H_
 

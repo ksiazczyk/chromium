@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed stream implementation
+// summary: Implements FeedStream, the core FeedApi logic that coordinates loading, refreshing, storing, and updating feed surfaces through tasks and the stream model.
+// ---
+
 #include "components/feed/core/v2/feed_stream.h"
 
 #include <algorithm>

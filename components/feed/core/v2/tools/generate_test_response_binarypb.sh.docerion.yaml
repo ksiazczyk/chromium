@@ -1,0 +1,4 @@
+# Docerion header of generate_test_response_binarypb.sh.
+type: script
+title: Generate test response binarypb
+summary: Generates components/test/data/feed/response.binarypb from the feed v2 testdata response textproto.

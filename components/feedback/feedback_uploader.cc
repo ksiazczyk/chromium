@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedbackUploader implementation
+// summary: Implements the feedback report upload queue, posting reports over HTTP with retry and exponential backoff, disk persistence, and result histograms.
+// ---
+
 #include "components/feedback/feedback_uploader.h"
 
 #include <string>

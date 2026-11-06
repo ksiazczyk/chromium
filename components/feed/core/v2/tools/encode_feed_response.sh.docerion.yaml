@@ -1,0 +1,4 @@
+# Docerion header of encode_feed_response.sh.
+type: script
+title: Encode Feed response textproto to binary
+summary: Converts a Feed response textproto into a binary proto via textpb_to_binarypb.py.

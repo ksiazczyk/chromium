@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed preference accessor declarations
+// summary: Declares functions for accessing feed preferences, including throttler request counts, last request time, request schedule, persistent metrics data, and client instance ID.
+// ---
+
 #ifndef COMPONENTS_FEED_CORE_V2_PREFS_H_
 #define COMPONENTS_FEED_CORE_V2_PREFS_H_
 

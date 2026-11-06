@@ -5,6 +5,12 @@
 // Messages containing data about the annotations drawn on the screenshot of a 
 // web page.
 
+// ---docerion
+// type: source
+// title: Screenshot annotation protobuf messages
+// summary: Defines protobuf messages describing annotations a user draws on a web page screenshot, including rectangles, text snippets and element paths.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

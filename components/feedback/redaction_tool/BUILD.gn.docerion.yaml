@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the redaction_tool library
+summary: Defines the redaction_tool static library and its unit_tests source set, listing sources, dependencies and compiler configs for the PII redaction tool.

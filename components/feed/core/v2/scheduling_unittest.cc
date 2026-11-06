@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Scheduling unit tests
+// summary: Tests serialization round-trips of request schedules and the computation of next scheduled request times, including skipped and expired fetches.
+// ---
+
 #include "components/feed/core/v2/scheduling.h"
 
 #include "base/check.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Feed protobuf build targets
+summary: Defines GN proto_library targets that build the feed component's v2 protobuf definitions, including an Android Java proto library and an iOS-shared proto target.

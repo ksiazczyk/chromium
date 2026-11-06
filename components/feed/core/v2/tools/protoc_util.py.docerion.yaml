@@ -1,0 +1,4 @@
+# Docerion header of protoc_util.py.
+type: source
+title: Protoc helper functions
+summary: Python helpers that locate the protoc binary and encode or decode proto messages through command-line calls.

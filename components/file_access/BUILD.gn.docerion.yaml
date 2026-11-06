@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the file_access component
+summary: Defines the file_access component, its unit_tests and test_support source sets, and their sources and dependencies in GN.

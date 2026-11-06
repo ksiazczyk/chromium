@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Feed UMA metrics reporter implementation
+// summary: Implements reporting of feed engagement, user actions, scrolling, time spent, network requests, and stream load outcomes as UMA histograms and user metrics.
+// ---
+
 #include "components/feed/core/v2/metrics_reporter.h"
 
 #include <algorithm>

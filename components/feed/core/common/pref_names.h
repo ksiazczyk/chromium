@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed preference name declarations
+// summary: Declares the feed preference name constants and the profile preference registration and migration functions for the feed component.
+// ---
+
 #ifndef COMPONENTS_FEED_CORE_COMMON_PREF_NAMES_H_
 #define COMPONENTS_FEED_CORE_COMMON_PREF_NAMES_H_
 

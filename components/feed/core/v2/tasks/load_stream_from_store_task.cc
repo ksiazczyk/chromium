@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoadStreamFromStoreTask implementation
+// summary: Implements loading feed stream data from persistent storage, checking staleness and account match, and building a stream model update request.
+// ---
+
 #include "components/feed/core/v2/tasks/load_stream_from_store_task.h"
 
 #include <algorithm>

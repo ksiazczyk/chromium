@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stream structure builders for feed tests
+// summary: Implements helpers that construct feedstore stream structures, content IDs, records, and typical model update requests for feed tests.
+// ---
+
 #include "components/feed/core/v2/test/stream_builder.h"
 
 #include <utility>

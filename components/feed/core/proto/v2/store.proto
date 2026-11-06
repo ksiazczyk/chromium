@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: store.proto
+// summary: Defines the feedstore protos for client-side feed storage, with a Record message covering stream data, structures, content, actions, shared states, metadata and doc views.
+// ---
+
 syntax = "proto3";
 
 package feedstore;

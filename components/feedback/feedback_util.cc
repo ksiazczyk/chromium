@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feedback utility implementations
+// summary: Implements feedback helpers that zip log strings, convert system logs to text, strip URLs from autofill data, and read the tail of a file.
+// ---
+
 #include "components/feedback/feedback_util.h"
 
 #include <optional>

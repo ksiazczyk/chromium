@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed preference name definitions and registration
+// summary: Defines feed preference name constants and registers profile preferences, including iOS-only and deprecated June 2024 prefs.
+// ---
+
 #include "components/feed/core/common/pref_names.h"
 
 #include <string>

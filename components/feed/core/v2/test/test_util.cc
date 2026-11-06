@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared feed test utilities implementation
+// summary: Implements TrimLines and RunLoopUntil, which trims text and runs a run loop until a criteria callback succeeds or a maximum iteration count is exceeded.
+// ---
+
 #include "components/feed/core/v2/test/test_util.h"
 
 #include <string_view>

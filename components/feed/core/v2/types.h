@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed type definitions
+// summary: Declares core feed types such as ContentRevision, LocalActionId, RequestMetadata and PersistentMetricsData used across the feed component.
+// ---
+
 #ifndef COMPONENTS_FEED_CORE_V2_TYPES_H_
 #define COMPONENTS_FEED_CORE_V2_TYPES_H_
 

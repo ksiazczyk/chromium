@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Feed view demotion API
+// summary: Declares the DocViewCount and DocViewDigest types plus functions to record and read document views when feed view demotion is enabled.
+// ---
+
 #ifndef COMPONENTS_FEED_CORE_V2_VIEW_DEMOTION_H_
 #define COMPONENTS_FEED_CORE_V2_VIEW_DEMOTION_H_
 

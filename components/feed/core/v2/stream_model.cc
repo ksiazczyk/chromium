@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stream model
+// summary: Implements the in-memory feed stream model that applies update operations, maintains the content feature tree, and notifies UI and store observers.
+// ---
+
 #include "components/feed/core/v2/stream_model.h"
 
 #include <algorithm>

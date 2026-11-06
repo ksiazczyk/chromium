@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Filename generation unit tests
+// summary: Unit tests covering HTML and MIME extension handling, filename generation from titles and URLs, and filename truncation behavior.
+// ---
+
 
 #include "components/filename_generation/filename_generation.h"
 

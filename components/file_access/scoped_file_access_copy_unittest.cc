@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedFileAccessCopy unit tests
+// summary: Unit tests verifying that destroying a ScopedFileAccessCopy object invokes its end callback, with platform-specific construction for POSIX/Fuchsia and other systems.
+// ---
+
 #include "components/file_access/scoped_file_access_copy.h"
 
 #include <memory>

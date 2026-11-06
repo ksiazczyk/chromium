@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Protocol translator unit tests
+// summary: Unit tests for translating feed wire protocol responses and data operations into the internal stream model format, using a stored binary response fixture.
+// ---
+
 #include "components/feed/core/v2/protocol_translator.h"
 
 #include <initializer_list>

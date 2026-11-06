@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filename generation API header
+// summary: Declares the filename generation API, including MIME extension helpers, filename generation from title or URL, and filename truncation.
+// ---
+
 #ifndef COMPONENTS_FILENAME_GENERATION_FILENAME_GENERATION_H_
 #define COMPONENTS_FILENAME_GENERATION_FILENAME_GENERATION_H_
 

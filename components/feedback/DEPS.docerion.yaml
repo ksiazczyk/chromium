@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Feedback component include rules
+summary: Defines the allowed header include paths and dependencies for code in the feedback component.

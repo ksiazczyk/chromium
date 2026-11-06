@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Request throttler
+// summary: Limits daily feed network requests per request type, persisting counters in preferences and resetting quota at local midnight.
+// ---
+
 #include "components/feed/core/v2/request_throttler.h"
 
 #include <vector>

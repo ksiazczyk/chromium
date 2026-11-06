@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentTracingManager implementation
+// summary: Implements the singleton ContentTracingManager that starts tracing, collects trace data on request, compresses it on a thread pool and serves or discards it for feedback reports.
+// ---
+
 #include "components/feedback/content/content_tracing_manager.h"
 
 #include "base/functional/bind.h"

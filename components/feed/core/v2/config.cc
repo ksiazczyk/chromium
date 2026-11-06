@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed config implementation with Finch overrides
+// summary: Implements feed configuration loading, applying Finch field trial parameter overrides for request limits, refresh intervals, and capability toggles.
+// ---
+
 #include "components/feed/core/v2/config.h"
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StreamSurfaceSet implementation
+// summary: Implements the set of feed surfaces attached to a stream type, tracking surface additions and removals and notifying registered observers.
+// ---
+
 #include "components/feed/core/v2/stream_surface_set.h"
 
 #include "base/observer_list.h"

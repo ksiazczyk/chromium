@@ -7,6 +7,12 @@
 // components/feedback/redaction_tool source code is shared into ChromeOS and
 // needs to have no dependencies outside of base/.
 
+// ---docerion
+// type: source
+// title: Standard string canonicalizer output
+// summary: Vendored copy of url/url_canon_stdstring.cc implementing a canonicalizer output that appends into a std::string buffer.
+// ---
+
 #include "components/feedback/redaction_tool/url_canon_stdstring.h"
 
 #include "base/containers/span.h"

@@ -7,6 +7,12 @@
 // We need a copy because the components/feedback/redaction_tool source code is
 // shared into ChromeOS and needs to have no dependencies outside of base/.
 
+// ---docerion
+// type: source
+// title: IP address canonicalization interface
+// summary: Vendored copy of url/url_canon_ip.h declaring functions to append and convert IPv4 and IPv6 addresses during host canonicalization.
+// ---
+
 #ifndef COMPONENTS_FEEDBACK_REDACTION_TOOL_URL_CANON_IP_H_
 #define COMPONENTS_FEEDBACK_REDACTION_TOOL_URL_CANON_IP_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Feedstore utility unit tests
+// summary: Unit tests covering session ID updates, action ID generation, and stream key conversion in the feedstore utilities.
+// ---
+
 #include "components/feed/core/v2/feedstore_util.h"
 
 #include <string>

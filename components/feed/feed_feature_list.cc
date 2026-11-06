@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed feature flag definitions
+// summary: Defines base::Feature flags and parameters controlling Feed behavior such as the v2 interest feed, streaming, personalization, and refresh timing.
+// ---
+
 #include "components/feed/feed_feature_list.h"
 
 #include <algorithm>

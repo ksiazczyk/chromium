@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wire protocol to feed store translator
+// summary: Translates wire-protocol feed responses into feedstore data operations, stream structures, request schedules, content lifetime metadata, and dismiss data for the stream model.
+// ---
+
 #include "components/feed/core/v2/protocol_translator.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracing manager interface
+// summary: Pure interface for managing performance traces that can be attached to feedback reports, with methods to request, fetch, and discard trace data.
+// ---
+
 #ifndef COMPONENTS_FEEDBACK_TRACING_MANAGER_H_
 #define COMPONENTS_FEEDBACK_TRACING_MANAGER_H_
 

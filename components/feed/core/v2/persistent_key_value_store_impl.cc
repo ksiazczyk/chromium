@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent key-value store implementation
+// summary: Implements a persistent key-value store backed by a LevelDB proto database, with queued tasks and an eviction task that removes old entries when the store exceeds its configured maximum size.
+// ---
+
 #include "components/feed/core/v2/persistent_key_value_store_impl.h"
 
 #include <vector>

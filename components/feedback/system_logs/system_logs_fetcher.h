@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemLogsFetcher class header
+// summary: Declares the SystemLogsFetcher class, which fetches key-value log data from added SystemLogsSource instances, optionally scrubbing it, and returns the merged response via a callback.
+// ---
+
 #ifndef COMPONENTS_FEEDBACK_SYSTEM_LOGS_SYSTEM_LOGS_FETCHER_H_
 #define COMPONENTS_FEEDBACK_SYSTEM_LOGS_SYSTEM_LOGS_FETCHER_H_
 

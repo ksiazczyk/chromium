@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed preference accessors
+// summary: Implements functions for reading and writing feed-related preferences such as throttler request counts, last request time, request schedules, debug stream data, metrics, and the client instance ID.
+// ---
+
 #include "components/feed/core/v2/prefs.h"
 
 #include <utility>

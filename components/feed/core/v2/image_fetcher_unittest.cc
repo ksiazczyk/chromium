@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Image fetcher unit tests
+// summary: Tests image fetch requests, network error handling, and fetch status histograms using a test URL loader factory.
+// ---
+
 #include "components/feed/core/v2/image_fetcher.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Proto utility unit tests
+// summary: Unit tests for the proto_util helpers, verifying client info creation, default client capabilities, and feed query request construction across platforms.
+// ---
+
 #include "components/feed/core/v2/proto_util.h"
 
 #include "base/test/scoped_feature_list.h"

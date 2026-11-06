@@ -7,6 +7,12 @@
 // components/feedback/redaction_tool source code is shared into ChromeOS and
 // needs to have no dependencies outside of base/.
 
+// ---docerion
+// type: source
+// title: StdStringCanonOutput header for URL canonicalization into std::string
+// summary: Declares StdStringCanonOutput, a CanonOutput subclass that writes canonicalized URL output into a caller-provided std::string, copied from Chromium's url/ code for exclusive use by the redaction tool.
+// ---
+
 #ifndef COMPONENTS_FEEDBACK_REDACTION_TOOL_URL_CANON_STDSTRING_H_
 #define COMPONENTS_FEEDBACK_REDACTION_TOOL_URL_CANON_STDSTRING_H_
 

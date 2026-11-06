@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Version wire proto definition
+// summary: Defines the feedwire Version message carrying major, minor, build, revision, API version plus architecture and build type enums for the feed wire protocol.
+// ---
+
 syntax = "proto2";
 
 package feedwire;

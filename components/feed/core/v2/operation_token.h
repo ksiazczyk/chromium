@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Operation token class
+// summary: Declares OperationToken and its nested Operation class, which let callers check whether a tracked operation has been destroyed or reset.
+// ---
+
 #ifndef COMPONENTS_FEED_CORE_V2_OPERATION_TOKEN_H_
 #define COMPONENTS_FEED_CORE_V2_OPERATION_TOKEN_H_
 

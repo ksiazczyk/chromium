@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceUpdater class declaration
+// summary: Declares SurfaceUpdater, which keeps feed surfaces up to date by sending stream updates when the stream model or loading state changes.
+// ---
+
 #ifndef COMPONENTS_FEED_CORE_V2_SURFACE_UPDATER_H_
 #define COMPONENTS_FEED_CORE_V2_SURFACE_UPDATER_H_
 

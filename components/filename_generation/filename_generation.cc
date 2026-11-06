@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filename generation implementation
+// summary: Implements helpers that generate download file names from page titles or URLs and ensure proper extensions for HTML and other MIME types, including truncation.
+// ---
+
 #include "components/filename_generation/filename_generation.h"
 
 #include "base/check.h"

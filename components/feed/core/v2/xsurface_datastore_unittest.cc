@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XSurface datastore unit tests
+// summary: Unit tests verifying slice entry storage and removal, aggregate data access across slices, and observer event delivery behavior.
+// ---
+
 #include "components/feed/core/v2/xsurface_datastore.h"
 
 #include <map>

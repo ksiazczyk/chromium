@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Upload actions response wire proto
+// summary: Defines the UploadActionsResponse message returning a consistency token after an action upload.
+// ---
+
 syntax = "proto3";
 
 package feedwire;

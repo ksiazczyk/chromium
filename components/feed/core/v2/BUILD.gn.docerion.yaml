@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Feed core v2 BUILD.gn build file
+summary: Defines the feed_core_v2 source set with its public headers, sources, dependencies, and test targets for the Chromium feed component.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wire response translator interface
+// summary: Declares a virtual translator class that converts feed wire responses into refresh response data and can be overridden for testing.
+// ---
+
 #ifndef COMPONENTS_FEED_CORE_V2_WIRE_RESPONSE_TRANSLATOR_H_
 #define COMPONENTS_FEED_CORE_V2_WIRE_RESPONSE_TRANSLATOR_H_
 

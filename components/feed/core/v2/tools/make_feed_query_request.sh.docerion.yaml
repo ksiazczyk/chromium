@@ -1,0 +1,4 @@
+# Docerion header of make_feed_query_request.sh.
+type: script
+title: Build a FeedQuery request URL
+summary: Encodes a request textproto to base64 and prints a FeedQuery service URL containing the request payload.

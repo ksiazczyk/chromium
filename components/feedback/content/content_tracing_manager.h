@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentTracingManager class declaration
+// summary: Declares the ContentTracingManager singleton that manages performance traces attached to feedback reports, with request, retrieval and discard APIs.
+// ---
+
 #ifndef COMPONENTS_FEEDBACK_CONTENT_CONTENT_TRACING_MANAGER_H_
 #define COMPONENTS_FEEDBACK_CONTENT_CONTENT_TRACING_MANAGER_H_
 

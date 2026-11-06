@@ -1,0 +1,4 @@
+# Docerion header of test_logs_redacted.txt.
+type: data
+title: Expected redacted output for the redaction tool test logs
+summary: Redacted version of the test logs in which sensitive entries are replaced with placeholders such as Crash ID, SSID, URL, IPv4, Memory Dump and Bluetooth HID Device markers.

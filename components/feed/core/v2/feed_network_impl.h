@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed network implementation header
+// summary: Declares FeedNetworkImpl, which implements the FeedNetwork interface for sending feed requests with sign-in tokens, client info headers, and canceling pending requests.
+// ---
+
 #ifndef COMPONENTS_FEED_CORE_V2_FEED_NETWORK_IMPL_H_
 #define COMPONENTS_FEED_CORE_V2_FEED_NETWORK_IMPL_H_
 

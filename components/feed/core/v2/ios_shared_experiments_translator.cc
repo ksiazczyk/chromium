@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed experiments translator implementation
+// summary: Converts feed wire experiment protos into a map of trial names to experiment groups for shared iOS experiments.
+// ---
+
 #include "components/feed/core/v2/ios_shared_experiments_translator.h"
 
 #include <memory>

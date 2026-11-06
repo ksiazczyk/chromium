@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client user profiles wire proto
+// summary: Defines feedwire protobuf messages for client user profiles, including per-entity action counts and a view demotion profile extension.
+// ---
+
 syntax = "proto2";
 
 package feedwire;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for feed metrics reporter
+// summary: Verifies the UMA histograms and user actions that MetricsReporter reports for engagement, stream loads, scrolling, and other feed events.
+// ---
+
 #include "components/feed/core/v2/metrics_reporter.h"
 
 #include <map>

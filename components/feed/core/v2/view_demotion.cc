@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed view demotion implementation
+// summary: Implements document view digest creation for signed-out users, expiring old views, counting views per docid, and capping the number of doc views sent.
+// ---
+
 #include "components/feed/core/v2/view_demotion.h"
 
 #include <algorithm>

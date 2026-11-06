@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Feed directory dependency rules
+summary: Lists include rules specifying which Chromium components, net, services, and third-party libraries the feed directory may depend on.

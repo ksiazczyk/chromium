@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feedback utility declarations
+// summary: Declares feedback_util helpers for zipping strings, serializing system logs, removing URLs from autofill data, and reading the end of a file.
+// ---
+
 #ifndef COMPONENTS_FEEDBACK_FEEDBACK_UTIL_H_
 #define COMPONENTS_FEEDBACK_FEEDBACK_UTIL_H_
 

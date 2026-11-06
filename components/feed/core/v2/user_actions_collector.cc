@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: User actions collector implementation
+// summary: Implements collection of clicked feed article metadata, storing entity mids per URL in profile prefs to support unsigned-user feed personalization.
+// ---
+
 #include "components/feed/core/v2/user_actions_collector.h"
 
 #include <algorithm>

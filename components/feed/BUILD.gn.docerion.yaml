@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Feed feature list build target
+summary: Defines the feature_list GN component that builds the feed feature flag sources with dependencies on base, signin, sync, and country codes.

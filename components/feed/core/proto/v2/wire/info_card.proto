@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Info card protobuf types
+// summary: Defines protobuf types for feed info cards, including card type enum values, tracking state and serving information about fulfilled card types.
+// ---
+
 syntax = "proto2";
 
 package feedwire;

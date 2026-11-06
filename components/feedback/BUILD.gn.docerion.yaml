@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Feedback component build configuration
+summary: GN build file defining the feedback static library, its unit test target, and the redaction tool fuzzer.

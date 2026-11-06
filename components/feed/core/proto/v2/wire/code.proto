@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Status code enum wire proto
+// summary: Defines the feedwire Code enum of status codes such as OK, NOT_FOUND, and UNAVAILABLE used by the feed protocol.
+// ---
+
 syntax = "proto3";
 
 package feedwire;

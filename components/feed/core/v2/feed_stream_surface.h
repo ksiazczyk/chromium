@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed stream surface header
+// summary: Declares FeedStreamSurface, which consumes stream data for a single stream type and provides a unique surface ID.
+// ---
+
 #ifndef COMPONENTS_FEED_CORE_V2_FEED_STREAM_SURFACE_H_
 #define COMPONENTS_FEED_CORE_V2_FEED_STREAM_SURFACE_H_
 

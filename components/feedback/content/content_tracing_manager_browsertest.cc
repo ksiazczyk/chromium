@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContentTracingManager browser tests
+// summary: Browser tests verifying that trace data is compressed successfully and that feedback data does not gather trace data when performance tracing is not enabled.
+// ---
+
 #include "components/feedback/content/content_tracing_manager.h"
 
 #include <memory>

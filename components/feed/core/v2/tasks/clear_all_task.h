@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClearAllTask class declaration
+// summary: Declares the ClearAllTask that clears all local Feed data by unloading the model, clearing the store and triggering a reload if surfaces are attached.
+// ---
+
 #ifndef COMPONENTS_FEED_CORE_V2_TASKS_CLEAR_ALL_TASK_H_
 #define COMPONENTS_FEED_CORE_V2_TASKS_CLEAR_ALL_TASK_H_
 

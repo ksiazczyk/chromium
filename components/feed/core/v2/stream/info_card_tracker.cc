@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InfoCardTracker implementation
+// summary: Implements tracking of info card views, clicks and dismissals, persisting states in profile prefs and adjusting view timestamps to the server clock.
+// ---
+
 #include "components/feed/core/v2/stream/info_card_tracker.h"
 
 #include <algorithm>

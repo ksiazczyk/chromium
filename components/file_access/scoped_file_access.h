@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Move-only access token for open files
+// summary: Declares ScopedFileAccess, a move-only object holding an access token to open files, with a ScopedFD lifeline on supported platforms.
+// ---
+
 #ifndef COMPONENTS_FILE_ACCESS_SCOPED_FILE_ACCESS_H_
 #define COMPONENTS_FILE_ACCESS_SCOPED_FILE_ACCESS_H_
 

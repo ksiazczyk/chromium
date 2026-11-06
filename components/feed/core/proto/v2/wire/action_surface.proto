@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActionSurface enum proto
+// summary: Defines the ActionSurface enum identifying surfaces such as Android and iOS Chrome new tab pages where feed actions occur.
+// ---
+
 syntax = "proto3";
 
 package feedwire;
