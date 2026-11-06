@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic pointer driver factory implementation
+// summary: Implements the SyntheticPointerDriver factory that instantiates touch, mouse or pen drivers for a given gesture source type and records the DevTools debugger origin.
+// ---
+
 #include "content/common/input/synthetic_pointer_driver.h"
 
 #include "content/common/input/synthetic_mouse_driver.h"

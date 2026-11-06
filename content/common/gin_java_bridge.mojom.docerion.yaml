@@ -1,0 +1,4 @@
+# Docerion header of gin_java_bridge.mojom.
+type: source
+title: Gin Java bridge Mojom interfaces
+summary: Defines Mojo interfaces for injecting named Java objects into frames and invoking their methods from JavaScript.

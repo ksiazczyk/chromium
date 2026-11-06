@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationTypeUtils header
+// summary: Declares NavigationTypeUtils helpers that classify blink navigation types as reload, same-document, history, or restore.
+// ---
+
 #ifndef CONTENT_COMMON_NAVIGATION_PARAMS_UTILS_H_
 #define CONTENT_COMMON_NAVIGATION_PARAMS_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fetch request type converters header
+// summary: Declares the mojo type converter from network::ResourceRequest to FetchAPIRequest and a cache mode helper for tests.
+// ---
+
 #ifndef CONTENT_COMMON_FETCH_FETCH_REQUEST_TYPE_CONVERTERS_H_
 #define CONTENT_COMMON_FETCH_FETCH_REQUEST_TYPE_CONVERTERS_H_
 

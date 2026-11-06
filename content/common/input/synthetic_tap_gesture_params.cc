@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic tap gesture parameters implementation
+// summary: Implements constructors and GetGestureType for tap gesture parameters, defaulting the tap duration to 50 milliseconds.
+// ---
+
 #include "content/common/input/synthetic_tap_gesture_params.h"
 
 #include "base/check_op.h"

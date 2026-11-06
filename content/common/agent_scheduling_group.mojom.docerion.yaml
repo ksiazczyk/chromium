@@ -1,0 +1,4 @@
+# Docerion header of agent_scheduling_group.mojom.
+type: source
+title: AgentSchedulingGroup Mojo interfaces
+summary: Defines Mojo interfaces for browser-renderer communication within an agent scheduling group, including binding associated interfaces and creating views and frames.

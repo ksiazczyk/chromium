@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic pinch gesture class declaration
+// summary: Declares SyntheticPinchGesture, a thin wrapper that dispatches pinch gestures through the touchscreen or touchpad implementation depending on input type and target defaults.
+// ---
+
 #ifndef CONTENT_COMMON_INPUT_SYNTHETIC_PINCH_GESTURE_H_
 #define CONTENT_COMMON_INPUT_SYNTHETIC_PINCH_GESTURE_H_
 

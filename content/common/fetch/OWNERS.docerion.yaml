@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Fetch folder owners
+summary: Assigns per-file ownership of type converter files to the IPC security owners.

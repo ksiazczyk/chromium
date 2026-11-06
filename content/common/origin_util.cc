@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OriginUtil implementation
+// summary: Implements OriginCanAccessServiceWorkers, which checks whether a URL is trustworthy or on an allowed scheme for service worker access.
+// ---
+
 #include "content/public/common/origin_util.h"
 
 #include <algorithm>

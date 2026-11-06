@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for memory_coordinator
+summary: Points to base/memory_coordinator/OWNERS to define the code review ownership for this directory.

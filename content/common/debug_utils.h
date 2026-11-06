@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DebugScenario enum for navigation debugging
+// summary: Defines the DebugScenario enum of complex multiprocess navigation scenarios and declares the capture function used for UMA logging and trace snapshots.
+// ---
+
 #ifndef CONTENT_COMMON_DEBUG_UTILS_H_
 #define CONTENT_COMMON_DEBUG_UTILS_H_
 

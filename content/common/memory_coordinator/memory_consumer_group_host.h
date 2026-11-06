@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryConsumerGroupHost interface
+// summary: Declares an interface for hosts that receive batched memory consumer updates and set or clear override memory limits.
+// ---
+
 #ifndef CONTENT_COMMON_MEMORY_COORDINATOR_MEMORY_CONSUMER_GROUP_HOST_H_
 #define CONTENT_COMMON_MEMORY_COORDINATOR_MEMORY_CONSUMER_GROUP_HOST_H_
 

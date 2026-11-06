@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux zygote wire protocol commands
+// summary: Defines the zygote message strings, command codes, and descriptor constants for browser-zygote communication on Linux.
+// ---
+
 #ifndef CONTENT_COMMON_ZYGOTE_ZYGOTE_COMMANDS_LINUX_H_
 #define CONTENT_COMMON_ZYGOTE_ZYGOTE_COMMANDS_LINUX_H_
 

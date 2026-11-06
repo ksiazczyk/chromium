@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows DirectWrite font list implementation
+// summary: Enumerates system font families via DirectWrite, returning native and localized names sorted alphabetically on Windows.
+// ---
+
 #include "content/common/font_list.h"
 
 #include <windows.h>

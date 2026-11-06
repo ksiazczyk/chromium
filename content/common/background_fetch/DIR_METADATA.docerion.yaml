@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Background fetch directory metadata
+summary: Directory metadata that mixes in the common metadata from the background fetch browser directory.

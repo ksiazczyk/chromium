@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background fetch settled fetch implementation
+// summary: Implements cloning of FetchAPIRequest and FetchAPIResponse objects for background fetch, copying only the fields background fetch actually uses.
+// ---
+
 #include "content/common/background_fetch/background_fetch_types.h"
 
 #include <optional>

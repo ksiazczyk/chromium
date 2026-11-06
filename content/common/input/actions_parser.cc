@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActionsParser implementation
+// summary: Implements parsing of JSON action sequences from the testdriver Action API and gpuBenchmarking.pointerActionSequence into synthetic gesture parameters.
+// ---
+
 #include "content/common/input/actions_parser.h"
 
 #include <utility>

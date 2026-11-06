@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Memory coordinator policy manager unit tests
+// summary: Unit tests for the memory coordinator policy manager, verifying that memory limits requested by multiple policies are aggregated and applied to consumer groups.
+// ---
+
 #include "content/common/memory_coordinator/memory_coordinator_policy_manager.h"
 
 #include <cmath>

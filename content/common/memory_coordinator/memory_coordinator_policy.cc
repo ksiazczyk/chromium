@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory coordinator policy registration
+// summary: Implements the policy base wiring and the registration helper that adds and removes policies from the policy manager.
+// ---
+
 #include "content/public/common/memory_coordinator/memory_coordinator_policy.h"
 
 #include "content/common/memory_coordinator/memory_coordinator_policy_manager.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic touch driver implementation
+// summary: Implements the SyntheticTouchDriver that builds and dispatches synthetic web touch events for press, move, release and cancel pointer actions.
+// ---
+
 #include "content/common/input/synthetic_touch_driver.h"
 
 #include "base/notimplemented.h"

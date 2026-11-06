@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL scheme registration
+// summary: Registers standard, secure, local, CORS-enabled and other URL scheme categories with the URL library at startup, honoring embedder-added schemes.
+// ---
+
 #include "content/common/url_schemes.h"
 
 #include <string.h>

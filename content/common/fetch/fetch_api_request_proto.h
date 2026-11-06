@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FetchAPIRequest proto serialization header
+// summary: Declares the exported functions for serializing and deserializing fetch API requests as protobuf strings.
+// ---
+
 #ifndef CONTENT_COMMON_FETCH_FETCH_API_REQUEST_PROTO_H_
 #define CONTENT_COMMON_FETCH_FETCH_API_REQUEST_PROTO_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for content/common/input
+summary: Chromium OWNERS file listing code owners and per-file rules that require IPC security review for mojom, traits and messages files.

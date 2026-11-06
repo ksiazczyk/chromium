@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceWrapper JNI glue implementation
+// summary: Implements JNI glue for the Java SurfaceWrapper, creating wrappers around Android surfaces or SurfaceControls and exposing surface and input token accessors.
+// ---
+
 #include "content/common/android/surface_wrapper.h"
 
 #include "base/check.h"

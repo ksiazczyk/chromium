@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synchronous compositor SkCanvas statics declaration
+// summary: Declares setter and getter for the shared SkCanvas exchanged between SynchronousCompositorHost and SynchronousCompositorProxy over the DemandDrawSw IPC.
+// ---
+
 #ifndef CONTENT_COMMON_ANDROID_SYNC_COMPOSITOR_STATICS_H_
 #define CONTENT_COMMON_ANDROID_SYNC_COMPOSITOR_STATICS_H_
 

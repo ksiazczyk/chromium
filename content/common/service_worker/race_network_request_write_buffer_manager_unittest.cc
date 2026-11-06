@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RaceNetworkRequestWriteBufferManager unit tests
+// summary: Unit tests for RaceNetworkRequestWriteBufferManager covering data pipe creation, write data operations, and watcher notifications.
+// ---
+
 #include "content/common/service_worker/race_network_request_write_buffer_manager.h"
 
 #include "base/containers/span.h"

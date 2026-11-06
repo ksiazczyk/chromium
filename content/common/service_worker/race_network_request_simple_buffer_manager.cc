@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Race network request simple buffer manager implementation
+// summary: Implements a buffer manager that drains a Mojo data pipe into memory and writes it to a producer handle, with a feature to finish on disconnects instead of hanging.
+// ---
+
 #include "content/common/service_worker/race_network_request_simple_buffer_manager.h"
 
 #include "base/containers/span.h"

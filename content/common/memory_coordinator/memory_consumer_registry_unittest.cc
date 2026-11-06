@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MemoryConsumerRegistry unit tests
+// summary: Unit tests for the consumer registry covering group registration, batched updates, and memory limit handling.
+// ---
+
 #include "content/common/memory_coordinator/memory_consumer_registry.h"
 
 #include <cstddef>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash-specific WebCursor display handling
+// summary: Implements ChromeOS Ash versions of UpdateDisplayInfoForWindow and GetCursorScaleFactor, using panel rotation and the 64px maximum cursor size.
+// ---
+
 #include <algorithm>
 
 #include "base/check_op.h"

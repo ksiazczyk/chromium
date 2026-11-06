@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebCursor class declaration
+// summary: Declares the deprecated WebCursor class that wraps ui::Cursor, converts it to a native cursor, and tracks display scale, rotation, and maximum cursor size.
+// ---
+
 #ifndef CONTENT_COMMON_CURSORS_WEBCURSOR_H_
 #define CONTENT_COMMON_CURSORS_WEBCURSOR_H_
 

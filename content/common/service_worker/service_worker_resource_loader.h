@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceWorkerResourceLoader declaration
+// summary: Declares ServiceWorkerResourceLoader, a common interface for browser main resource and renderer subresource loaders to commit service worker responses, with enums for response source, preload type, and CORP results.
+// ---
+
 #ifndef CONTENT_COMMON_SERVICE_WORKER_SERVICE_WORKER_RESOURCE_LOADER_H_
 #define CONTENT_COMMON_SERVICE_WORKER_SERVICE_WORKER_RESOURCE_LOADER_H_
 

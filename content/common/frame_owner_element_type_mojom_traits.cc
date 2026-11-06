@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame owner element type Mojo traits implementation
+// summary: Implements Mojo enum traits converting blink FrameOwnerElementType values to and from ChildFrameOwnerElementType for IPC.
+// ---
+
 #include "content/common/frame_owner_element_type_mojom_traits.h"
 
 #include "base/notreached.h"

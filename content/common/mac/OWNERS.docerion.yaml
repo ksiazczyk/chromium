@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for mac type converter files
+summary: Sets per-file ownership so type converter files in this directory require review by the IPC security owners.

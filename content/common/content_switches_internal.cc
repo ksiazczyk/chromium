@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal command-line switch handling
+// summary: Implements helpers for internal switches such as V8 cache options, debugger waiting, and feature list parsing.
+// ---
+
 #include "content/common/content_switches_internal.h"
 
 #include <string>

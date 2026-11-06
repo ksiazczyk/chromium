@@ -1,0 +1,4 @@
+# Docerion header of web_ui.mojom.
+type: source
+title: WebUI Mojo interfaces
+summary: Defines browser and renderer Mojo interfaces for sending WebUI messages and adding properties to the WebUI binding object.

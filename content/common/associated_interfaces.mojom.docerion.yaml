@@ -1,0 +1,4 @@
+# Docerion header of associated_interfaces.mojom.
+type: source
+title: RouteProvider Mojo interface
+summary: Defines the RouteProvider Mojo interface that maps a frame token to an AssociatedInterfaceProvider receiver for associated interfaces.

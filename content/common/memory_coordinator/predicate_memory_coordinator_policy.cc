@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Predicate memory coordinator policy implementation
+// summary: Implements a predicate-based memory coordinator policy that applies its memory limit to matching consumers and triggers repeated release for stateless ones.
+// ---
+
 #include "content/public/common/memory_coordinator/predicate_memory_coordinator_policy.h"
 
 #include <string_view>

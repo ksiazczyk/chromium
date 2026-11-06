@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker router evaluator header
+// summary: Declares the ServiceWorkerRouterEvaluator class that evaluates service worker router rules against requests, with error enums and DevTools serialization helpers.
+// ---
+
 #ifndef CONTENT_COMMON_SERVICE_WORKER_SERVICE_WORKER_ROUTER_EVALUATOR_H_
 #define CONTENT_COMMON_SERVICE_WORKER_SERVICE_WORKER_ROUTER_EVALUATOR_H_
 

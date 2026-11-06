@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rust ChildProcessId FFI type
+// summary: Defines the Rust ChildProcessId wrapper and its cxx ExternType implementation for safe interop with the C++ type.
+// ---
+
 #![allow(unsafe_code)]
 
 #[repr(transparent)]

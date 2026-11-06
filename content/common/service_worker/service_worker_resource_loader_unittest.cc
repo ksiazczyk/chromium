@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker resource loader unit tests
+// summary: Unit tests for ServiceWorkerResourceLoader verifying that service worker responses are valid for given request modes, redirect modes, and response types.
+// ---
+
 #include "content/common/service_worker/service_worker_resource_loader.h"
 
 #include "base/test/metrics/histogram_tester.h"

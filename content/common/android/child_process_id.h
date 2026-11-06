@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChildProcessId JNI conversion declarations
+// summary: Declares the jni_zero template specializations that convert ChildProcessId values between Java and C++.
+// ---
+
 #ifndef CONTENT_COMMON_ANDROID_CHILD_PROCESS_ID_H_
 #define CONTENT_COMMON_ANDROID_CHILD_PROCESS_ID_H_
 

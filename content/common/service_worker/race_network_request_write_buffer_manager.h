@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RaceNetworkRequestWriteBufferManager declaration
+// summary: Declares RaceNetworkRequestWriteBufferManager, an interface for creating a Mojo data pipe, writing buffered response data, and watching writability for race network requests.
+// ---
+
 #ifndef CONTENT_COMMON_SERVICE_WORKER_RACE_NETWORK_REQUEST_WRITE_BUFFER_MANAGER_H_
 #define CONTENT_COMMON_SERVICE_WORKER_RACE_NETWORK_REQUEST_WRITE_BUFFER_MANAGER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the service worker common directory
+summary: Points Chromium metadata tooling at the COMMON_METADATA mixins of the browser service worker directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared file descriptor utilities declarations
+// summary: Declares helpers to populate the file descriptor store and to build and parse the shared files command line switch value.
+// ---
+
 #ifndef CONTENT_COMMON_SHARED_FILE_UTIL_H_
 #define CONTENT_COMMON_SHARED_FILE_UTIL_H_
 

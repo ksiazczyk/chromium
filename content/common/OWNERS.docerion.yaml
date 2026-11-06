@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Per-file owners for content/common
+summary: OWNERS file delegating review of sandbox, IPC message, param traits, and mojom files to security and sandbox teams.

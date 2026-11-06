@@ -1,0 +1,4 @@
+# Docerion header of thread_type_switcher.mojom.
+type: source
+title: Thread type switcher Mojo interface
+summary: Defines a Mojo interface letting child processes ask the browser to change thread types when sandbox restrictions prevent doing so locally.

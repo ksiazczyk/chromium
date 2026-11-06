@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pseudonymization salt implementation
+// summary: Implements storage and cross-process propagation of the pseudonymization salt, including creation of a shared memory region for child processes.
+// ---
+
 #include "content/common/pseudonymization_salt.h"
 
 #include <atomic>

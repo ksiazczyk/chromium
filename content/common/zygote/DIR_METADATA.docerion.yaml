@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Zygote directory metadata
+summary: Points this directory to the shared zygote COMMON_METADATA mixins for Chromium metadata tooling.

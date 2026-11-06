@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic smooth scroll gesture parameters declaration
+// summary: Declares the SyntheticSmoothScrollGestureParams struct with anchor, distances, speed, fling velocity, granularity and modifier fields.
+// ---
+
 #ifndef CONTENT_COMMON_INPUT_SYNTHETIC_SMOOTH_SCROLL_GESTURE_PARAMS_H_
 #define CONTENT_COMMON_INPUT_SYNTHETIC_SMOOTH_SCROLL_GESTURE_PARAMS_H_
 

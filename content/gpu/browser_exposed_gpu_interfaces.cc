@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU interfaces exposed to the browser implementation
+// summary: Implements ExposeGpuInterfacesToBrowser, filling a Mojo binder map with interfaces the GPU process exposes to the browser, including Ozone interfaces.
+// ---
+
 #include "content/gpu/browser_exposed_gpu_interfaces.h"
 
 #include "build/build_config.h"

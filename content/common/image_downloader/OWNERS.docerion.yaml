@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for image_downloader Mojom files
+summary: Restricts review ownership of Mojom files in image_downloader to the IPC security owners, bypassing parent directory owners.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryConsumerUpdate Mojo struct traits
+// summary: Implements StructTraits that map content::MemoryConsumerUpdate fields to the Mojo DataView for serialization.
+// ---
+
 #ifndef CONTENT_COMMON_MEMORY_COORDINATOR_MOJOM_MEMORY_COORDINATOR_MOJOM_TRAITS_H_
 #define CONTENT_COMMON_MEMORY_COORDINATOR_MOJOM_MEMORY_COORDINATOR_MOJOM_TRAITS_H_
 

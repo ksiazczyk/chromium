@@ -1,0 +1,4 @@
+# Docerion header of sandbox_support.mojom.
+type: reference
+title: SandboxSupport Mojo interface
+summary: Defines the SandboxSupport Mojo interface letting sandboxed child processes request browser services such as system colors and locale data.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the race network request read buffer manager
+// summary: Tests reading, partial consumption and remaining buffer behavior of the read buffer manager over a Mojo data pipe.
+// ---
+
 #include "content/common/service_worker/race_network_request_read_buffer_manager.h"
 
 #include <string_view>

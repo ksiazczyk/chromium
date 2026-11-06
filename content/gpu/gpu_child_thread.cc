@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU child thread implementation
+// summary: Implements the GPU child process main thread, handling process initialization and shutdown and forwarding IPC messages to the GPU channel manager.
+// ---
+
 #include "content/gpu/gpu_child_thread.h"
 
 #include <stddef.h>

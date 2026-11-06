@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura WebCursor native cursor conversion
+// summary: Implements GetNativeCursor for Aura, building and caching custom cursors with scaling and rotation, plus non-ChromeOS display info and scale factor logic.
+// ---
+
 #include "base/check_op.h"
 #include "build/build_config.h"
 #include "content/common/cursors/webcursor.h"

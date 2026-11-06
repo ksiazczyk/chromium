@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of content/gpu
+summary: Lists the code owners of content/gpu and requires security review for files that expose GPU interfaces to the browser.

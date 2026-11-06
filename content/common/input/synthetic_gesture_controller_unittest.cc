@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Synthetic gesture controller unit tests
+// summary: Unit tests for SyntheticGestureController covering touch, mouse, drag, scroll, pinch, tap and pointer action gestures across supported input source types.
+// ---
+
 #include "content/common/input/synthetic_gesture_controller.h"
 
 #include <stddef.h>

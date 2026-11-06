@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for content common media
+summary: Declares the media COMMON_METADATA mixin for the content/common/media directory.

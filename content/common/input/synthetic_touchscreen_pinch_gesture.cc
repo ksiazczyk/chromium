@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic touchscreen pinch gesture implementation
+// summary: Implements a synthetic pinch gesture that simulates two-finger touch presses, moves, and releases on a touchscreen to reach a target scale.
+// ---
+
 #include "content/common/input/synthetic_touchscreen_pinch_gesture.h"
 
 #include <stdint.h>

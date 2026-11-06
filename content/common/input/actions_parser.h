@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActionsParser class declaration
+// summary: Declares the ActionsParser class that converts JSON action sequences into SyntheticGestureParams objects used to inject input into Chrome.
+// ---
+
 #ifndef CONTENT_COMMON_INPUT_ACTIONS_PARSER_H_
 #define CONTENT_COMMON_INPUT_ACTIONS_PARSER_H_
 

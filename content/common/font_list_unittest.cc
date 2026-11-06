@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Font list unit tests
+// summary: Tests platform font list contents, localized family names on Windows, and filtering of hidden fonts on macOS.
+// ---
+
 #include "content/common/font_list.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Identity URL loader throttle class declaration
+// summary: Declares the IdentityUrlLoaderThrottle class used to intercept signin and signout response headers from identity providers.
+// ---
+
 #ifndef CONTENT_COMMON_WEBID_IDENTITY_URL_LOADER_THROTTLE_H_
 #define CONTENT_COMMON_WEBID_IDENTITY_URL_LOADER_THROTTLE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux zygote communication implementation
+// summary: Implements the ZygoteCommunication class that launches the zygote and exchanges fork, reap, sandbox status, and logging commands.
+// ---
+
 #include "content/common/zygote/zygote_communication_linux.h"
 
 #include <string.h>

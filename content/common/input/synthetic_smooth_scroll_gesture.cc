@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic smooth scroll gesture implementation
+// summary: Implements the SyntheticSmoothScrollGesture class that dispatches smooth scroll input events by delegating to an underlying smooth move gesture.
+// ---
+
 #include "content/common/input/synthetic_smooth_scroll_gesture.h"
 
 namespace content {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal content constants
+// summary: Defines internal constants such as data URL length limits, frame Accept header values, and Mojo attachment names.
+// ---
+
 #ifndef CONTENT_COMMON_CONTENT_CONSTANTS_INTERNAL_H_
 #define CONTENT_COMMON_CONTENT_CONSTANTS_INTERNAL_H_
 

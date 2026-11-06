@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryCoordinatorPolicyManager implementation
+// summary: Implements the policy manager that aggregates per-policy memory limits multiplicatively and dispatches updates to consumer group hosts.
+// ---
+
 #include "content/common/memory_coordinator/memory_coordinator_policy_manager.h"
 
 #include <algorithm>

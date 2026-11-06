@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Fetch API request proto build target
+summary: Defines the fetch_api_request_proto proto_library build target for the fetch folder.

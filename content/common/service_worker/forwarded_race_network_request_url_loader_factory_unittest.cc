@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the forwarded race network request URL loader factory
+// summary: Verifies that SetPriority is forwarded through the loader proxy and that FollowRedirect from the renderer is blocked and reported as a bad message.
+// ---
+
 #include "content/common/service_worker/forwarded_race_network_request_url_loader_factory.h"
 
 #include "base/functional/callback_helpers.h"

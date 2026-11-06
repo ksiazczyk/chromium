@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuServiceFactory class declaration
+// summary: Declares GpuServiceFactory, a helper for handling incoming RunService requests on GpuChildThread, holding GPU preferences, info, and media channel manager state.
+// ---
+
 #ifndef CONTENT_GPU_GPU_SERVICE_FACTORY_H_
 #define CONTENT_GPU_GPU_SERVICE_FACTORY_H_
 

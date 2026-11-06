@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Font list task runner provider
+// summary: Provides the sequenced task runner on which blocking platform font list queries must be executed.
+// ---
+
 #include "content/common/font_list.h"
 
 #include "base/task/lazy_thread_pool_task_runner.h"

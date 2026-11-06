@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Identity URL loader throttle unit tests
+// summary: Unit tests verifying that the throttle parses Set-Login headers and invokes the IDP status callback with the correct origin and signin state.
+// ---
+
 #include "content/common/webid/identity_url_loader_throttle.h"
 
 #include "base/strings/stringprintf.h"

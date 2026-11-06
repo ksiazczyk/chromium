@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InProcessGpuThread class declaration
+// summary: Declares InProcessGpuThread, a base::Thread subclass that creates a GPU thread instead of a GPU process when running with --in-process-gpu or --single-process.
+// ---
+
 #ifndef CONTENT_GPU_IN_PROCESS_GPU_THREAD_H_
 #define CONTENT_GPU_IN_PROCESS_GPU_THREAD_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for content/common
+summary: Defines GN build targets, source sets, dependencies, and internal feature build flags for the content/common module.

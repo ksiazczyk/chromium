@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU pre-sandbox hook for Linux
+// summary: Configures broker file permissions and loads GPU driver libraries before the GPU process sandbox starts on Linux.
+// ---
+
 #include "content/common/gpu_pre_sandbox_hook_linux.h"
 
 #include <dlfcn.h>

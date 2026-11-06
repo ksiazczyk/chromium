@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActionsParser testdriver API unit tests
+// summary: Unit tests verifying that ActionsParser parses testdriver Action API JSON sequences for mouse and touch pointers into the expected parameters.
+// ---
+
 #include "content/common/input/actions_parser.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal process CPU time metrics implementation
+// summary: Implements ProcessCpuTimeMetrics, sampling per-thread and per-process CPU time into Power UMA histograms by process type and foreground state.
+// ---
+
 #include "content/common/android/cpu_time_metrics_internal.h"
 
 #include <stdint.h>

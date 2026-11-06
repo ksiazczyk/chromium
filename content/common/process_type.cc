@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process type name helper
+// summary: Implements GetProcessTypeNameInEnglish, mapping process type constants to readable names such as Browser, Tab, and GPU.
+// ---
+
 #include "content/public/common/process_type.h"
 
 #include <ostream>

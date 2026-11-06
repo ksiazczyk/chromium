@@ -1,0 +1,4 @@
+# Docerion header of input_injector.mojom.
+type: source
+title: InputInjector Mojom interface
+summary: Defines Mojo enums, structs and the InputInjector interface for queuing synthetic drag, scroll, pinch, tap and pointer actions from the renderer.

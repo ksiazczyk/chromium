@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux zygote communication interface
+// summary: Declares the ZygoteCommunication class handling interprocess communication with the Linux zygote process.
+// ---
+
 #ifndef CONTENT_COMMON_ZYGOTE_ZYGOTE_COMMUNICATION_LINUX_H_
 #define CONTENT_COMMON_ZYGOTE_ZYGOTE_COMMUNICATION_LINUX_H_
 

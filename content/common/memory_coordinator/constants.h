@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory coordinator constants
+// summary: Defines limits on the number of memory consumers per child process and the maximum memory consumer name length.
+// ---
+
 #ifndef CONTENT_COMMON_MEMORY_COORDINATOR_CONSTANTS_H_
 #define CONTENT_COMMON_MEMORY_COORDINATOR_CONSTANTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceWorkerResourceLoader implementation
+// summary: Implements ServiceWorkerResourceLoader response validation, checking service worker and static router responses against the Fetch spec and performing CORP checks for the static router cache.
+// ---
+
 #include "content/common/service_worker/service_worker_resource_loader.h"
 
 #include "base/check_op.h"

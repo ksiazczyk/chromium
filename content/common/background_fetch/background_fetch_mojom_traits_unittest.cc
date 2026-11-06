@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background fetch mojom traits unit tests
+// summary: Unit tests verifying serialization roundtrips and rejection of invalid relative URLs for Manifest ImageResource mojom traits.
+// ---
+
 #include <utility>
 
 #include "base/strings/utf_string_conversions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU child thread class declaration
+// summary: Declares GpuChildThread, the main thread of the GPU child process that performs initialization and shutdown and forwards IPC to the GPU channel manager.
+// ---
+
 #ifndef CONTENT_GPU_GPU_CHILD_THREAD_H_
 #define CONTENT_GPU_GPU_CHILD_THREAD_H_
 

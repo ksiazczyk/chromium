@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Color parser unit tests
+// summary: Unit tests for parsing CSS, hex, and rgb color strings into SkColor values in the content layer.
+// ---
+
 #include "content/public/common/color_parser.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

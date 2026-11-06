@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessPriorityTracker implementation
+// summary: Implements the ProcessPriorityTracker singleton that records process priority changes and notifies registered observers.
+// ---
+
 #include "content/common/process_priority_tracker.h"
 
 #include "base/no_destructor.h"

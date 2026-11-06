@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Identity URL loader throttle implementation
+// summary: Implements a URLLoaderThrottle that parses Set-Login response headers from identity providers and reports IDP signin status changes.
+// ---
+
 #include "content/common/webid/identity_url_loader_throttle.h"
 
 #include <algorithm>

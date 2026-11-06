@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CPU time metrics unit tests
+// summary: Verifies that CPU time spent in foreground and background states is recorded in the expected Power histograms.
+// ---
+
 #include <utility>
 
 #include "base/metrics/persistent_histogram_allocator.h"

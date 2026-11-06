@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic smooth move gesture implementation
+// summary: Implements the smooth move gesture that synthesizes touch, mouse drag and mouse wheel events with arctan ease-in ease-out motion to simulate scrolling and dragging.
+// ---
+
 #include "content/common/input/synthetic_smooth_move_gesture.h"
 
 #include <stdint.h>

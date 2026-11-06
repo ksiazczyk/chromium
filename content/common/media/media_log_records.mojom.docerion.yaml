@@ -1,0 +1,4 @@
+# Docerion header of media_log_records.mojom.
+type: source
+title: MediaInternalLogRecords Mojom interface
+summary: Defines the MediaInternalLogRecords Mojom interface that sends batched media log events from the renderer to the browser.

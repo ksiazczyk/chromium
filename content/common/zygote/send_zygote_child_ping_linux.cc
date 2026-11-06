@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zygote child ping sender
+// summary: Sends the child ping message over a Unix domain socket so the browser can discover the child's process ID.
+// ---
+
 #include "content/public/common/zygote/send_zygote_child_ping_linux.h"
 
 #include <vector>

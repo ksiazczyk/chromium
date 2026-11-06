@@ -1,0 +1,4 @@
+# Docerion header of memory_consumer_traits_test.mojom.
+type: test
+title: MemoryConsumerTraits test Mojom interface
+summary: Defines a Mojo echo interface used to test serialization of base::MemoryConsumerTraits.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-process child thread parameters header
+// summary: Declares parameters for running ChildThreadImpl in in-process mode, including IO task runners and the Mojo invitation.
+// ---
+
 #ifndef CONTENT_COMMON_IN_PROCESS_CHILD_THREAD_PARAMS_H_
 #define CONTENT_COMMON_IN_PROCESS_CHILD_THREAD_PARAMS_H_
 

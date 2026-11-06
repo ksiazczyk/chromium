@@ -1,0 +1,4 @@
+# Docerion header of mhtml_file_writer.mojom.
+type: source
+title: MHTML file writer Mojo interface definition
+summary: Defines the MhtmlFileWriter Mojo interface, the MhtmlSaveStatus enum, and serialization parameters for writing frames as MHTML with status and digest results.

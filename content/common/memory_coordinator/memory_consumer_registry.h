@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryConsumerRegistry class declaration
+// summary: Declares the content-level memory consumer registry that groups consumers by ID and registers the groups with a group controller.
+// ---
+
 #ifndef CONTENT_COMMON_MEMORY_COORDINATOR_MEMORY_CONSUMER_REGISTRY_H_
 #define CONTENT_COMMON_MEMORY_COORDINATOR_MEMORY_CONSUMER_REGISTRY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChildProcessId JNI conversions
+// summary: Implements jni_zero conversions between the Java ChildProcessId object and the C++ content::ChildProcessId, normalising invalid IDs to -1.
+// ---
+
 #include "content/common/android/child_process_id.h"
 
 #include "content/public/android/content_main_dex_jni/ChildProcessId_jni.h"

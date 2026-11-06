@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MainFrameCounter header
+// summary: Declares MainFrameCounter, a renderer-side count of main frames used by an experiment to reduce memory in subframe-only renderers.
+// ---
+
 #ifndef CONTENT_COMMON_MAIN_FRAME_COUNTER_H_
 #define CONTENT_COMMON_MAIN_FRAME_COUNTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputInjector Mojo traits implementation
+// summary: Implements Mojo enum and struct traits that convert between content mojom types and synthetic gesture parameter classes.
+// ---
+
 #include "content/common/input/input_injector_mojom_traits.h"
 
 #include "base/notreached.h"

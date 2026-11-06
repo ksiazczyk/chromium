@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR metadata for the input component
+summary: Chromium DIR_METADATA file assigning the directory to the Blink>Input monorail component, the input-dev team email and a Buganizer component ID.

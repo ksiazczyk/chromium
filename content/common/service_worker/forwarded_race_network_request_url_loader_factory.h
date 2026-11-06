@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Forwarded race network request URL loader factory header
+// summary: Declares a URLLoaderFactory for BestEffortServiceWorker that fuses message pipes so a RaceNetworkRequest response is reused as the fetch event result, with a fallback factory for later calls.
+// ---
+
 #ifndef CONTENT_COMMON_SERVICE_WORKER_FORWARDED_RACE_NETWORK_REQUEST_URL_LOADER_FACTORY_H_
 #define CONTENT_COMMON_SERVICE_WORKER_FORWARDED_RACE_NETWORK_REQUEST_URL_LOADER_FACTORY_H_
 

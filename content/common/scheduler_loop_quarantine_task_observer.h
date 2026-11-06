@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SchedulerLoopQuarantineTaskObserver class declaration
+// summary: Declares a task observer that toggles Scheduler-Loop Quarantine scan policy around task processing to protect stack pointers.
+// ---
+
 #ifndef CONTENT_COMMON_SCHEDULER_LOOP_QUARANTINE_TASK_OBSERVER_H_
 #define CONTENT_COMMON_SCHEDULER_LOOP_QUARANTINE_TASK_OBSERVER_H_
 

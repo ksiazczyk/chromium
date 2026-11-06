@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Synthetic pointer action unit tests
+// summary: Unit tests verifying that SyntheticPointerAction dispatches synthetic touch and mouse pointer events correctly, using a mock synthetic gesture target.
+// ---
+
 #include "content/common/input/synthetic_pointer_action.h"
 
 #include <array>

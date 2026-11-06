@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for content/gpu
+summary: Defines the include rules that govern which headers the content/gpu directory may depend on.
