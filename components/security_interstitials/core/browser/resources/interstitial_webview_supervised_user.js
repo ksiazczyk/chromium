@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user WebView interstitial controller
+// summary: JavaScript that sends help center commands when the learn more link on the supervised user interstitial is clicked.
+// ---
+
 import {SecurityInterstitialCommandId, sendCommand} from 'chrome://interstitials/common/resources/interstitial_common.js';
 
 function initPage() {

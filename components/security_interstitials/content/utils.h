@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Date and time settings utility declarations
+// summary: Header declaring LaunchDateAndTimeSettings, a utility for opening platform date and time settings from security interstitials.
+// ---
+
 #ifndef COMPONENTS_SECURITY_INTERSTITIALS_CONTENT_UTILS_H_
 #define COMPONENTS_SECURITY_INTERSTITIALS_CONTENT_UTILS_H_
 

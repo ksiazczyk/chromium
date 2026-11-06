@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Insecure form tab storage implementation
+// summary: Implements per-tab WebContents user data for insecure form interstitials, providing a helper to get or create the storage for a tab.
+// ---
+
 #include "components/security_interstitials/content/insecure_form_tab_storage.h"
 
 #include "base/memory/ptr_util.h"

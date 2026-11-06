@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quiet WebView interstitial controller
+// summary: JavaScript that toggles interstitial details, handles proceed commands for Safe Browsing, and adapts the layout on resize.
+// ---
+
 // Note: The following chrome:// URLs are not actually fetched at runtime. They
 // are handled in
 // components/security_interstitials/core/browser/resources:bundle_js, which

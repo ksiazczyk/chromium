@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Shared Safe Browsing interstitial color variables
+summary: CSS defining shared Google primary and red color custom properties used by Safe Browsing interstitials.
+*/
+
 html {
   --google-primary-40: rgb(11, 87, 208);
   --google-primary-90: rgb(211, 227, 253);

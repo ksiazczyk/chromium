@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Insecure form blocking page class declaration
+// summary: Declares the interstitial page class for warnings shown when a form embedded on a secure page is submitted over HTTP.
+// ---
+
 #ifndef COMPONENTS_SECURITY_INTERSTITIALS_CONTENT_INSECURE_FORM_BLOCKING_PAGE_H_
 #define COMPONENTS_SECURITY_INTERSTITIALS_CONTENT_INSECURE_FORM_BLOCKING_PAGE_H_
 

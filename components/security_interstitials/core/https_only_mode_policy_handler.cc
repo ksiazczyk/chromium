@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPS-Only Mode policy handler implementation
+// summary: Maps the HttpsOnlyMode enterprise policy string values to HTTPS-First Mode preference booleans for main, incognito, and balanced modes.
+// ---
+
 #include "components/security_interstitials/core/https_only_mode_policy_handler.h"
 
 #include "components/policy/core/common/policy_map.h"

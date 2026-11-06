@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local self-signed blocking page implementation
+// summary: Implements the interstitial shown for local sites using self-signed certificates, reusing the SSL interstitial UI with a custom title and heading.
+// ---
+
 #include "components/security_interstitials/content/local_self_signed_blocking_page.h"
 
 #include "base/values.h"

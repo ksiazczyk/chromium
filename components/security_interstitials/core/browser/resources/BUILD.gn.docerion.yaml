@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for interstitial JS bundling
+summary: GN build file that bundles and optionally minifies the JavaScript for the large, webview quiet, supervised user, and content restriction interstitial UIs.

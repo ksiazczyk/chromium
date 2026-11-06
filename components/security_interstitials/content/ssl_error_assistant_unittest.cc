@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SSL error assistant unit tests
+// summary: Unit tests for SSLErrorAssistant covering config parsing and certificate matching for captive portal and MITM software detection.
+// ---
+
 #include "components/security_interstitials/content/ssl_error_assistant.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Insecure form warning utility declarations
+// summary: Declares helpers that detect insecure form actions on secure pages and an iOS testing hook for treating specific ports as secure or insecure.
+// ---
+
 #ifndef COMPONENTS_SECURITY_INTERSTITIALS_CORE_INSECURE_FORM_UTIL_H_
 #define COMPONENTS_SECURITY_INTERSTITIALS_CORE_INSECURE_FORM_UTIL_H_
 

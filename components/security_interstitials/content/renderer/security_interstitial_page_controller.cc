@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security interstitial page controller implementation
+// summary: Implements the gin-wrappable controller installed on interstitial pages that sends user commands such as Proceed, DontProceed, Reload, and OpenHelpCenter to the browser.
+// ---
+
 #include "components/security_interstitials/content/renderer/security_interstitial_page_controller.h"
 
 #include "components/security_interstitials/core/common/mojom/interstitial_commands.mojom.h"

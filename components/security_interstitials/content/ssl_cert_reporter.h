@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL certificate reporter interface
+// summary: Interface used by interstitial pages to send serialized reports of invalid certificate chains to a report collection endpoint.
+// ---
+
 #ifndef COMPONENTS_SECURITY_INTERSTITIALS_CONTENT_SSL_CERT_REPORTER_H_
 #define COMPONENTS_SECURITY_INTERSTITIALS_CONTENT_SSL_CERT_REPORTER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of IDS_KNOWN_INTERCEPTION_HEADER.png.sha1.
+type: data
+title: IDS_KNOWN_INTERCEPTION_HEADER SHA1
+summary: SHA1 hash referencing the PNG image for the header string of the known interception warning.

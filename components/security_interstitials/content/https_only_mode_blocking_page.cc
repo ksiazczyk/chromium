@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPS-Only Mode blocking page implementation
+// summary: Implements the interstitial shown when HTTPS-Only Mode fails to upgrade a navigation to HTTPS, handling user proceed and don't-proceed commands plus metrics and UKM recording.
+// ---
+
 #include "components/security_interstitials/content/https_only_mode_blocking_page.h"
 
 #include "base/logging.h"

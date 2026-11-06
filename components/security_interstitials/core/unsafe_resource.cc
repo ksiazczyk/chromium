@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unsafe resource implementation
+// summary: Implements UnsafeResource helpers, including checks for pending main frame loads and dispatching URL check result callbacks to the right sequence.
+// ---
+
 #include "components/security_interstitials/core/unsafe_resource.h"
 
 #include "components/safe_browsing/core/browser/db/util.h"

@@ -1,0 +1,4 @@
+# Docerion header of interstitial_webview_supervised_user.html.
+type: source
+title: Supervised user WebView interstitial page
+summary: HTML template for the supervised user WebView interstitial with large and small icons, a message, and a learn more link.

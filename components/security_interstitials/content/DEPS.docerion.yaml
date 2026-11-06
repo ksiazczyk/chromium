@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Directory include dependency rules
+summary: Declares the include rules that allow this directory to depend on captive portal, content, net, crypto, and other Chromium components.

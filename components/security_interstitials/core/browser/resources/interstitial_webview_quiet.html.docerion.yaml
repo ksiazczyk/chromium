@@ -1,0 +1,4 @@
+# Docerion header of interstitial_webview_quiet.html.
+type: source
+title: Quiet WebView interstitial page
+summary: HTML template for the quiet WebView interstitial showing a heading with a details link and a hidden explanation section.

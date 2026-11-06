@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL error navigation throttle implementation
+// summary: Implements a navigation throttle that intercepts navigations failing with certificate errors and queues the appropriate SSL interstitial.
+// ---
+
 #include "components/security_interstitials/content/ssl_error_navigation_throttle.h"
 
 #include "base/feature_list.h"

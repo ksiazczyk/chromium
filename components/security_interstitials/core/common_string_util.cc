@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared SSL interstitial string helpers
+// summary: Provides shared helpers to format host names and populate layout and certificate debugging strings for SSL error pages.
+// ---
+
 #include "components/security_interstitials/core/common_string_util.h"
 
 #include "base/i18n/rtl.h"

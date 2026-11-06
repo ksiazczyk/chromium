@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local self-signed blocking page header
+// summary: Declares LocalSelfSignedBlockingPage, an SSLBlockingPage subclass for local self-signed sites that customizes the interstitial strings.
+// ---
+
 #ifndef COMPONENTS_SECURITY_INTERSTITIALS_CONTENT_LOCAL_SELF_SIGNED_BLOCKING_PAGE_H_
 #define COMPONENTS_SECURITY_INTERSTITIALS_CONTENT_LOCAL_SELF_SIGNED_BLOCKING_PAGE_H_
 

@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Managed profile required interstitial styles
+summary: CSS applying the grayscale enterprise icon to the managed profile required interstitial with dark mode support.
+*/
+
 .managed-profile-required .icon {
   background-image: url(images/enterprise.svg);
   filter: grayscale(1);

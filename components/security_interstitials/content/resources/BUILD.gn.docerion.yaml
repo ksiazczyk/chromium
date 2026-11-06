@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build target for connection help TypeScript
+summary: Defines the webui_ts_library build target that compiles connection_help.ts with a dependency on the WebUI resources JavaScript library.

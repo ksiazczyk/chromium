@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Security interstitials core build definition
+summary: Defines GN build targets, sources and dependencies for the security interstitials core component, including unit tests and insecure form utilities.

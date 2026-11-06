@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Captive portal blocking page implementation
+// summary: Implements the interstitial shown when a captive portal triggers an SSL error, including Wi-Fi detection, SSID lookup, and login page opening.
+// ---
+
 #include "components/security_interstitials/content/captive_portal_blocking_page.h"
 
 #include <utility>

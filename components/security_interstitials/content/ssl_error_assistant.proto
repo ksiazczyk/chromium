@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL error assistant protobuf definitions
+// summary: Defines protobuf messages used to match certificates against captive portal, MITM software, and dynamic interstitial rules for SSL errors.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

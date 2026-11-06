@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the security interstitials renderer
+summary: GN build file defining the renderer static library target with its source files and dependencies on base, content, gin, Blink, and the security interstitials core.

@@ -1,0 +1,4 @@
+# Docerion header of interstitial_large.html.
+type: source
+title: Large security interstitial HTML template
+summary: Shared HTML template rendering large security interstitials such as SSL and Safe Browsing warnings, with i18n placeholders and per-type stylesheets.

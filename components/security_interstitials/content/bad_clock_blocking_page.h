@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bad clock blocking page class declaration
+// summary: Declares BadClockBlockingPage, an SSLBlockingPageBase subclass that shows the interstitial for clock-related SSL errors and deletes itself when closed.
+// ---
+
 #ifndef COMPONENTS_SECURITY_INTERSTITIALS_CONTENT_BAD_CLOCK_BLOCKING_PAGE_H_
 #define COMPONENTS_SECURITY_INTERSTITIALS_CONTENT_BAD_CLOCK_BLOCKING_PAGE_H_
 

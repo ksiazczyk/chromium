@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL error assistant implementation
+// summary: Parses the ssl_error_assistant protobuf to match captive portal certificates, known MITM software, and dynamic interstitial configurations.
+// ---
+
 #include "components/security_interstitials/content/ssl_error_assistant.h"
 
 #include <memory>

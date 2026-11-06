@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ControllerClient implementation
+// summary: Implements the ControllerClient base class that handles user commands from security interstitial pages, including reporting preferences and opening help center links.
+// ---
+
 #include "components/security_interstitials/core/controller_client.h"
 
 #include <utility>

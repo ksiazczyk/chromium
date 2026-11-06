@@ -1,3 +1,13 @@
+---
+type: readme
+title: Security Interstitials
+summary: Explains the layered structure of security interstitials, covering the core and content implementations, HTML+JS front ends, Mojo IPC, controller client classes, and how to add a new interstitial type.
+relations:
+  - references /components/security_interstitials/core/browser/resources/list_of_interstitials.html
+  - references /chrome/browser/ui/webui/interstitials/interstitial_ui.cc
+  - references /components/security_interstitials/content/security_interstitial_controller_client.h
+---
+
 # Security Interstitials
 
 This directory contains the implementation of security interstitials -- warning

@@ -3,6 +3,12 @@
  * found in the LICENSE file.
  */
 
+/*docerion
+type: source
+title: Styles for the enterprise warn interstitial icon
+summary: CSS that sets the info icon images for the enterprise warn interstitial and inverts them in dark color scheme.
+*/
+
 .enterprise-warn .icon {
   background-image: image-set(
       url(images/1x/info.png) 1x,

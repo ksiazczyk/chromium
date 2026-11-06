@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: WebView content restriction interstitial styles
+summary: CSS styling the WebView content restriction interstitial with responsive icon and message sizing plus dark mode support.
+*/
+
 body {
   /* Light mode is the default, media queries handle dark mode switching. */
   --foreground-color-light-mode: #444746;

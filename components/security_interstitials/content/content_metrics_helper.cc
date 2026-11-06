@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content metrics helper implementation
+// summary: Implements ContentMetricsHelper, extending interstitial metrics with captive portal statistics recorded at shutdown.
+// ---
+
 #include "components/security_interstitials/content/content_metrics_helper.h"
 
 #include <memory>

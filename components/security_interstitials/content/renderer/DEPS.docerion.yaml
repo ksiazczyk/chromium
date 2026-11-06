@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the renderer directory
+summary: Declares the allowed include dependencies for the security interstitials renderer directory, covering base, content, gin, Blink, V8, Mojo, and the interstitials components.

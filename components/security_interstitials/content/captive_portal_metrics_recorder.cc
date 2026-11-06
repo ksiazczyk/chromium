@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Captive portal metrics recorder implementation
+// summary: Records UMA statistics about captive portal detection events observed while an SSL interstitial is displayed.
+// ---
+
 #include "components/security_interstitials/content/captive_portal_metrics_recorder.h"
 
 #include "base/metrics/histogram_macros.h"

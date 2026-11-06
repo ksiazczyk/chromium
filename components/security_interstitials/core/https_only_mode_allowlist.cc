@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPS-Only Mode HTTP allowlist implementation
+// summary: Stores per-host HTTP allowlist decisions for HTTPS-Only Mode in content settings with expiration times, plus in-memory entries for non-default storage partitions.
+// ---
+
 #include "components/security_interstitials/core/https_only_mode_allowlist.h"
 
 #include "base/json/values_util.h"

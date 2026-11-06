@@ -1,0 +1,4 @@
+# Docerion header of IDS_LOOKALIKE_URL_TITLE.png.sha1.
+type: asset
+title: SHA-1 checksum for IDS_LOOKALIKE_URL_TITLE.png
+summary: Holds the SHA-1 hash of the PNG screenshot for the title string of the lookalike URL warning interstitial.

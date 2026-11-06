@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stateful SSL host state delegate implementation
+// summary: Implements per-host storage of certificate error bypasses, insecure content exceptions, and HTTPS-First Mode allowlists with expiration times.
+// ---
+
 #include "components/security_interstitials/content/stateful_ssl_host_state_delegate.h"
 
 #include <stdint.h>

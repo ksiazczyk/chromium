@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CaptivePortalHelper
+// summary: Android helper class that provides the captive portal server URL and reports network connectivity to native code for the captive portal interstitial.
+// ---
+
 package org.chromium.components.security_interstitials;
 
 import android.content.Context;

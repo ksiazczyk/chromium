@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Styles for the insecure form interstitial icon
+summary: CSS that sets the link color and info icon images for the insecure form security interstitial, with dark mode inversion.
+*/
+
 .insecure-form #main-content a {
   color: var(--google-blue-700);
 }

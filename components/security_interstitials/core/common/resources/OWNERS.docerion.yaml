@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for interstitial resources
+summary: Grants ui/webui PLATFORM_OWNERS approval for trivial or mechanical horizontal JS, CSS and HTML changes in this directory.

@@ -3,6 +3,12 @@
  * found in the LICENSE file.
  */
 
+/*docerion
+type: source
+title: Supervised user verify interstitial styles
+summary: CSS styling the supervised user verification interstitial, blocked site message, and subframe layout with dark mode support.
+*/
+
 body.showing-blocked-site-message {
   --header-color: var(--google-gray-900);
   --paragraph-color: var(--google-gray-700);

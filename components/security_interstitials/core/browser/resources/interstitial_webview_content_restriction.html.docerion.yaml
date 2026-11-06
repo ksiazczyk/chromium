@@ -1,0 +1,4 @@
+# Docerion header of interstitial_webview_content_restriction.html.
+type: source
+title: WebView content restriction interstitial page
+summary: HTML template for the WebView content restriction interstitial, showing a blocked icon, message, and back and learn more links.

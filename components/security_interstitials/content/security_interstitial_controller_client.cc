@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security interstitial controller client implementation
+// summary: Implements the controller client that handles commands from security interstitial pages, including navigation, settings, certificate viewer and enhanced protection actions.
+// ---
+
 #include "components/security_interstitials/content/security_interstitial_controller_client.h"
 
 #include <utility>

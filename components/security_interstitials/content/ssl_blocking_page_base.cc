@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL blocking page base implementation
+// summary: Implements the base class for SSL certificate error blocking pages, including logic for showing the enhanced protection message.
+// ---
+
 #include "components/security_interstitials/content/ssl_blocking_page_base.h"
 
 #include "components/safe_browsing/core/common/safe_browsing_prefs.h"

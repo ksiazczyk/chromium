@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for security interstitials Mojom
+summary: GN build file that defines the mojom target compiling interstitial_commands.mojom for the security interstitials component.

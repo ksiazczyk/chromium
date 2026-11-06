@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for interstitial resource preprocessing
+summary: GN build target that preprocesses interstitial_common.js and interstitial_mobile_nav.js for use in security interstitial pages.

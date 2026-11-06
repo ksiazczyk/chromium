@@ -5,6 +5,12 @@
 // This is the shared code for security interstitials. It is used for both SSL
 // interstitials and Safe Browsing interstitials.
 
+// ---docerion
+// type: source
+// title: Shared JavaScript for security interstitials
+// summary: Shared JavaScript for SSL and Safe Browsing interstitials that defines command IDs and dispatches user actions to the certificate error page controller.
+// ---
+
 /**
  * @typedef {{
  *   dontProceed: function(),

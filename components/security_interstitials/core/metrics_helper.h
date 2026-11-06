@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security interstitial metrics helper declaration
+// summary: Declares MetricsHelper, which records interstitial decisions and interactions to UMA histograms with configurable metric prefixes and suffixes.
+// ---
+
 #ifndef COMPONENTS_SECURITY_INTERSTITIALS_CORE_METRICS_HELPER_H_
 #define COMPONENTS_SECURITY_INTERSTITIALS_CORE_METRICS_HELPER_H_
 

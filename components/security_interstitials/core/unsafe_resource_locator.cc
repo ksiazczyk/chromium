@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unsafe resource locator implementation
+// summary: Implements UnsafeResourceLocator factory methods that identify the render frame or frame tree node that triggered a safe browsing check.
+// ---
+
 #include "components/security_interstitials/core/unsafe_resource_locator.h"
 
 namespace security_interstitials {

@@ -1,0 +1,4 @@
+# Docerion header of IDS_SUSPICIOUS_SITE_TITLE.png.sha1.
+type: asset
+title: IDS_SUSPICIOUS_SITE_TITLE screenshot SHA1 checksum
+summary: Stores the SHA1 hash of the IDS_SUSPICIOUS_SITE_TITLE screenshot PNG for the suspicious site interstitial strings.

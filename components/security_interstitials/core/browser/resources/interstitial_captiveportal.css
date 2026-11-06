@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Styles for the captive portal interstitial icon
+summary: CSS that sets the captive portal icon images and inverts the icon in dark color scheme.
+*/
+
 .captive-portal .icon {
   background-image: image-set(
       url(images/1x/captive_portal_page_icon.png) 1x,

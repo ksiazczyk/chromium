@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base Safe Browsing error UI implementation
+// summary: Implements the base class, interaction details and display options shared by loud and quiet Safe Browsing interstitials.
+// ---
+
 #include "components/security_interstitials/core/base_safe_browsing_error_ui.h"
 
 namespace security_interstitials {

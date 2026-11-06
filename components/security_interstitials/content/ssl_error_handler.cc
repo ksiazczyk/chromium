@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL error handler implementation
+// summary: Implements SSLErrorHandler, which decides which interstitial to show for an SSL error, checking for clock errors, captive portals, and MITM software.
+// ---
+
 #include "components/security_interstitials/content/ssl_error_handler.h"
 
 #include <stdint.h>

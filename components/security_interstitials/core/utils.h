@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interstitial font size adjustment declaration
+// summary: Declares AdjustFontSize, a helper that adjusts the interstitial page's fontsize template parameter by a font size multiplier.
+// ---
+
 #ifndef COMPONENTS_SECURITY_INTERSTITIALS_CORE_UTILS_H_
 #define COMPONENTS_SECURITY_INTERSTITIALS_CORE_UTILS_H_
 

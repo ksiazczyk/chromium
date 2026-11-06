@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPS-Only Mode policy handler declaration
+// summary: Declares a policy handler class that converts the HttpsOnlyMode policy string into the corresponding HTTPS-First Mode preference settings.
+// ---
+
 #ifndef COMPONENTS_SECURITY_INTERSTITIALS_CORE_HTTPS_ONLY_MODE_POLICY_HANDLER_H_
 #define COMPONENTS_SECURITY_INTERSTITIALS_CORE_HTTPS_ONLY_MODE_POLICY_HANDLER_H_
 

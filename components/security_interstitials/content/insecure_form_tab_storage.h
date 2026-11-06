@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Insecure form tab storage class declaration
+// summary: Declares short-lived per-tab storage with proceeding and interstitial-shown flags that prevent duplicate or bypassed mixed form interstitials.
+// ---
+
 #ifndef COMPONENTS_SECURITY_INTERSTITIALS_CONTENT_INSECURE_FORM_TAB_STORAGE_H_
 #define COMPONENTS_SECURITY_INTERSTITIALS_CONTENT_INSECURE_FORM_TAB_STORAGE_H_
 

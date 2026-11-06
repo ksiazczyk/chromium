@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security blocking page factory interface
+// summary: Abstract factory interface that embedders implement to create instances of the various security blocking pages configured for that embedder.
+// ---
+
 #ifndef COMPONENTS_SECURITY_INTERSTITIALS_CONTENT_SECURITY_BLOCKING_PAGE_FACTORY_H_
 #define COMPONENTS_SECURITY_INTERSTITIALS_CONTENT_SECURITY_BLOCKING_PAGE_FACTORY_H_
 

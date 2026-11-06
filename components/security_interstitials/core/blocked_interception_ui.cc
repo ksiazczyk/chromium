@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blocked interception interstitial UI implementation
+// summary: Implements the overridable interstitial UI for SSL errors caused by blocked interception, populating strings and handling user commands.
+// ---
+
 #include "components/security_interstitials/core/blocked_interception_ui.h"
 
 #include "base/i18n/number_formatting.h"

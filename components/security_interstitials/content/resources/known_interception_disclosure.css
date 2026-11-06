@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Styles for the known interception disclosure page
+summary: Styles the known interception disclosure page, including the red triangle warning icon rendered from 1x and 2x image assets.
+*/
+
 h2 {
   margin-top: 2em;
 }

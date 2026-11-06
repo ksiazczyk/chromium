@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common name mismatch handler implementation
+// summary: Implements probing of suggested alternative URLs with HEAD requests to remediate certificate common name mismatch errors.
+// ---
+
 #include "components/security_interstitials/content/common_name_mismatch_handler.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Insecure form blocking page implementation
+// summary: Implements the interstitial warning shown when a form on a secure HTTPS page is submitted over HTTP, including command handling, string population, and preference registration.
+// ---
+
 #include "components/security_interstitials/content/insecure_form_blocking_page.h"
 
 #include <ostream>

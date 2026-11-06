@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for interstitial resources
+summary: OWNERS file delegating review of trivial or mechanical JS, CSS, and HTML changes to the WebUI platform owners.

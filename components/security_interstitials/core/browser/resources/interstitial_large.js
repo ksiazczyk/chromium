@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security interstitial shared JavaScript logic
+// summary: Shared JavaScript for Chrome security interstitials handling commands, clickjacking delay, and per-type setup for SSL and Safe Browsing pages.
+// ---
+
 // Note: The following chrome:// URLs are not actually fetched at runtime. They
 // are handled in
 // components/security_interstitials/core/browser/resources:bundle_js, which

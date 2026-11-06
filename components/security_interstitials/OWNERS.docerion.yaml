@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the security interstitials directory
+summary: Lists the Chromium accounts that serve as code owners for review of changes in the security_interstitials directory.
