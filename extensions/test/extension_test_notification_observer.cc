@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension test notification observer implementation
+// summary: Implements a test helper that waits for extension-related conditions such as extension views loading and extensions becoming idle.
+// ---
+
 #include "extensions/test/extension_test_notification_observer.h"
 
 #include <memory>

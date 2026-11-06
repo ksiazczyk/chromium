@@ -6,6 +6,12 @@
 // that the behavior matches the behavior of
 // https://github.com/mozilla/webextension-polyfill.
 
+// ---docerion
+// type: test
+// title: Content script tests for onMessage promise resolution
+// summary: Runs chrome.test cases sending messages and asserting responses for promise, async function, and synchronous sendResponse scenarios.
+// ---
+
 chrome.test.runTests([
   // Tests that a runtime.onMessage() listener can return a promise that will
   // keep the message port alive until the promise has a chance to resolve to a

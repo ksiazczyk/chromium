@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit test for flakiness test util macros
+// summary: Verifies that the INSTANTIATE_FLAKINESS_TEST macro generates the expected test suite and test case names when instantiated for a single run.
+// ---
+
 #include "extensions/test/flakiness_test_util.h"
 
 // Create a "real" subclass just to more accurately mimic what most test

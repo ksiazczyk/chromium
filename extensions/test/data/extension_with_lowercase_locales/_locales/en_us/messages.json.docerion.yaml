@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: en_us locale messages test fixture
+summary: Chrome extension messages file for the en_us locale used as test data, defining the extension name, description, and a lowercase color label.

@@ -6,6 +6,12 @@
 // that the behavior matches the behavior of
 // https://github.com/mozilla/webextension-polyfill.
 
+// ---docerion
+// type: test
+// title: Content script tests for onMessage promise rejection
+// summary: Runs chrome.test cases checking that a rejecting promise returned from an onMessage listener keeps the port alive and delivers the expected error message to the sender.
+// ---
+
 // Test suite that the message port will stay alive until a promise returned
 // from an runtime.onMessage() listener has a chance to reject.
 chrome.test.runTests([

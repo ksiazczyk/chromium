@@ -1,0 +1,4 @@
+# Docerion header of smallfile.
+type: test
+title: Small test page with no title
+summary: Tiny HTML fixture page whose body has no title, used by extension tests.

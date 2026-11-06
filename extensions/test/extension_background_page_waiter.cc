@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension background page waiter implementation
+// summary: Implements a test helper that waits for an extension's background page or service worker to initialize, open, or close.
+// ---
+
 #include "extensions/test/extension_background_page_waiter.h"
 
 #include "base/run_loop.h"

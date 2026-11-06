@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest for image loader
+summary: Manifest for a minimal test extension named 'test' that declares version 1, manifest version 2, and 16 and 24 pixel PNG icons.

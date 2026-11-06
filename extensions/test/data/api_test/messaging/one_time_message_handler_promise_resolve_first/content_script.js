@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content script test for promise-resolve-first messaging behavior
+// summary: Asserts that sendMessage rejects with the synchronous error when the first listener's promise resolves and a later listener throws, mimicking the webextension-polyfill behavior.
+// ---
+
 chrome.test.runTests([
 
   // Tests that when multiple listeners are registered for runtime.onMessage and

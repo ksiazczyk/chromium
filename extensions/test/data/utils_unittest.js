@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the extensions utils module
+// summary: Unit test verifying that utils.expose correctly exposes classes, properties, functions and inheritance chains.
+// ---
+
 var assert = requireNative('assert');
 var AssertTrue = assert.AssertTrue;
 var AssertFalse = assert.AssertFalse;

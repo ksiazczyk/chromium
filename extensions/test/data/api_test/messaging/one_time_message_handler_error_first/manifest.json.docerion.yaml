@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Manifest for the one-time messaging error test extension
+summary: Manifest V3 configuration for the test extension that loads the background service worker and injects the messaging test content script on all pages.

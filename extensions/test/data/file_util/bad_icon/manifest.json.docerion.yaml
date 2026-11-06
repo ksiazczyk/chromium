@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Extension manifest with bad icon references
+summary: Test fixture manifest for an extension whose icon entries include a missing icon file, used to exercise bad icon handling.

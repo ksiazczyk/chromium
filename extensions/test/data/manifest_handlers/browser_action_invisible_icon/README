@@ -1,2 +1,8 @@
+---
+type: readme
+title: Browser action invisible icon test data README
+summary: Explains that invisible_icon.png is an image with a single visible pixel and is considered invisible by the icon analysis code.
+---
+
 The file invisible_icon.png is an image with a single visible pixel. It is
 considered "invisible" by our icon analysis code.

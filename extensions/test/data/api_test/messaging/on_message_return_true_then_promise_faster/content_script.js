@@ -6,6 +6,12 @@
 // that the behavior matches the behavior of
 // https://github.com/mozilla/webextension-polyfill.
 
+// ---docerion
+// type: test
+// title: Content script asserting the faster promise response wins
+// summary: Sends a runtime message and asserts the response equals the faster promise value, verifying listener behavior matches the webextension-polyfill.
+// ---
+
 chrome.test.runTests([
 
   // Tests that when the first listener returns true and the second returns a

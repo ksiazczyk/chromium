@@ -5,6 +5,12 @@
 // NOTE: the ordering is important here as first listener registered must be
 // asynchronous to test the opposite scenario from the bug.
 
+// ---docerion
+// type: test
+// title: Background script with async and sync message listeners
+// summary: Registers an asynchronous onMessage listener first and a synchronous one second in the test extension's background service worker, to verify the async listener's delayed response is still returned.
+// ---
+
 async function asyncCallSendResponse(sendResponse) {
   setTimeout(() => {
     sendResponse('Async response from background script');

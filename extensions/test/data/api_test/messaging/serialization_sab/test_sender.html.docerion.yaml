@@ -1,0 +1,4 @@
+# Docerion header of test_sender.html.
+type: test
+title: Sender page for the SharedArrayBuffer messaging test
+summary: HTML page that loads the sender script for the SharedArrayBuffer messaging test.

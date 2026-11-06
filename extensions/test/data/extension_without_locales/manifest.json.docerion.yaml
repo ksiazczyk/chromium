@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest without locales
+summary: Manifest of a simple test extension fixture used by the extensions_unittests FileUtilTest.LoadExtensionWithoutLocalesFolder case to verify loading an extension without a locales folder.

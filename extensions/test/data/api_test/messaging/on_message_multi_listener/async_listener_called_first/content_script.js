@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content script test for async listener response
+// summary: Runs a chrome.test case that sends a runtime message and asserts the response comes from the asynchronously registered listener that was registered first.
+// ---
+
 chrome.test.runTests([
 
   // Tests that an async listener registering first will still provide it's

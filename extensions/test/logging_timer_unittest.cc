@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for LoggingTimer
+// summary: Tests LoggingTimer time accumulation across repeated calls and grouping of same-named keys by pointer identity using a simple test tick clock.
+// ---
+
 #include "extensions/test/logging_timer.h"
 
 #include "base/test/simple_test_tick_clock.h"

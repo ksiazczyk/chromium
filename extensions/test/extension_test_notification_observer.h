@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension test notification observer class declaration
+// summary: Declares a test helper class for observing extension-related events and waiting for extension views to load or extensions to become idle.
+// ---
+
 #ifndef EXTENSIONS_TEST_EXTENSION_TEST_NOTIFICATION_OBSERVER_H_
 #define EXTENSIONS_TEST_EXTENSION_TEST_NOTIFICATION_OBSERVER_H_
 

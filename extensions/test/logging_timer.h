@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LoggingTimer header for local timing measurements
+// summary: Declares LoggingTimer, a test-only helper that records how long scoped operations take and aggregates totals by key for local performance experiments.
+// ---
+
 #ifndef EXTENSIONS_TEST_LOGGING_TIMER_H_
 #define EXTENSIONS_TEST_LOGGING_TIMER_H_
 

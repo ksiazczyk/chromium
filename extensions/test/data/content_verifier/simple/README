@@ -1,3 +1,8 @@
+---
+type: readme
+title: Content Verifier Test Data README
+summary: Explains how the test key pairs, payload hashes, and signed verified_contents.json fixtures were generated using OpenSSL and shell commands.
+---
 
 The public/private key pairs were generated with the following commands:
 

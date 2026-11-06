@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background service worker throwing many error types
+// summary: Service worker for the messaging test extension whose onMessage listener throws a different error type depending on the received message.
+// ---
+
 class CustomError extends Error {
   constructor(...params) {
     super(...params);

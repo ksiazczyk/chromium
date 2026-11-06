@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestExtensionsClient class declaration
+// summary: Declares a test ExtensionsClient for extension tests, including a BrowserImagePathsFilter interface that lets tests adjust returned browser image paths.
+// ---
+
 #ifndef EXTENSIONS_TEST_TEST_EXTENSIONS_CLIENT_H_
 #define EXTENSIONS_TEST_TEST_EXTENSIONS_CLIENT_H_
 

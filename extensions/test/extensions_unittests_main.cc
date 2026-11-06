@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Main entry point for extensions_unittests
+// summary: Entry point for the extensions_unittests binary, defining a test suite that registers the chrome-extension scheme, path providers, resources, and a test extensions client.
+// ---
+
 #include <memory>
 
 #include "base/base_paths.h"

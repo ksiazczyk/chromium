@@ -1,3 +1,9 @@
+---
+type: readme
+title: Icon visibility test data README
+summary: Explains the purpose of the directory and how to download web store icon data and run the disabled ImageUtilTest unit test that verifies the icon visibility algorithm.
+---
+
 This file explains the purpose of this directory and how to set everything up
 to run the related unit test to verify the icon visibility algorithm is
 working reasonably well.

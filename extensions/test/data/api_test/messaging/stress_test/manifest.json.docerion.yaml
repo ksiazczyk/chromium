@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the messaging stress test extension
+summary: Manifest V3 configuration for the messaging stress test extension, wiring the service worker, content script, and web-accessible iframe resources.

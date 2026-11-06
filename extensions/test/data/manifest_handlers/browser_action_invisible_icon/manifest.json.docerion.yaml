@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest with invisible browser action icon
+summary: Manifest for a test extension whose browser action default icon points to the invisible single-pixel image.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension test message listener implementation
+// summary: Implements a listener that waits for messages sent from extension JavaScript via chrome.test.sendMessage and can reply or report errors.
+// ---
+
 #include "extensions/test/extension_test_message_listener.h"
 
 #include "base/run_loop.h"

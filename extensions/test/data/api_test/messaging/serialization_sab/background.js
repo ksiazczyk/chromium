@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background service worker for SharedArrayBuffer messaging test
+// summary: Orchestrates the SharedArrayBuffer messaging test by opening the sender page once the receiver is ready and reporting success or failure via chrome.test.
+// ---
+
 function onMessageListener(message, sender) {
   if (message.receiverReady) {
     chrome.tabs.create({url: 'test_sender.html?receiverId=' + sender.tab.id});

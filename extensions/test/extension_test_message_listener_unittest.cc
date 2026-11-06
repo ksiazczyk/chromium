@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ExtensionTestMessageListener
+// summary: Contains unit tests for ExtensionTestMessageListener covering message matching, listener reuse, and success and failure message handling.
+// ---
+
 #include "extensions/test/extension_test_message_listener.h"
 
 #include "base/strings/string_util.h"

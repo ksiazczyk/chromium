@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background listener rejecting onMessage promises
+// summary: Background service worker that rejects runtime.onMessage promises with different values, including Error objects, plain objects, strings and undefined, to exercise messaging behavior.
+// ---
+
 function onMessageListener(message) {
   switch (message) {
     case 'return promise reject with error object':

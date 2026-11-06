@@ -1,0 +1,4 @@
+# Docerion header of README.txt.
+type: readme
+title: README for corrupted verified contents test archive
+summary: Explains a test archive with a validly signed verified_contents.json but a modified background.js and matching computed_hashes.json, used to check that the content verifier catches such corruption.

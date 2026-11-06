@@ -1,2 +1,8 @@
+---
+type: readme
+title: Invalid action icon test extension README
+summary: Explains that the test extension intentionally lacks the expected icon, which makes the action key invalid.
+---
+
 The is extension is meant to not have an icon that is being expected. This
 causes the "action" key to be invalid.

@@ -1,3 +1,9 @@
+---
+type: readme
+title: Content verifier dot_space_suffix test data README
+summary: Explains how to generate file hashes, key pairs, and signatures to build the verified_contents.json fixture for the dot_space_suffix test extension.
+---
+
 Assume there are 5 files in this test extension:
 manifest.json, background.js, doT.html., mixedcase.html, mixedCase.html
 

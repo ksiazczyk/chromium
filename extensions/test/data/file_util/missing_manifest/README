@@ -1,1 +1,7 @@
+---
+type: readme
+title: README for missing manifest test fixture
+summary: Explains that this directory simulates an extension with a missing manifest.json file for testing purposes.
+---
+
 This directory simulates an extension with a missing manifest.json file.

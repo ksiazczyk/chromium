@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sender script testing SharedArrayBuffer message serialization
+// summary: Verifies that SharedArrayBuffer payloads fail serialization when sent between extension pages and that the messaging channel stays alive afterwards.
+// ---
+
 (async function() {
   chrome.test.assertTrue(self.crossOriginIsolated);
   chrome.test.assertFalse(typeof SharedArrayBuffer === 'undefined');

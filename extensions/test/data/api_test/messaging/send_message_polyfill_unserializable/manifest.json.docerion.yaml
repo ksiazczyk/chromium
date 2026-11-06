@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Manifest for the sendMessage unserializable response test extension
+summary: Manifest v3 configuration that registers the background service worker and content script for the messaging test extension.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Receiver script validating incoming messages in the SAB test
+// summary: Listens for incoming messages, answers validation pings and fails the test if any unexpected message arrives after invalid ones are dropped.
+// ---
+
 // The receiver listens for incoming messages. It expects a validation ping
 // after invalid messages are sent and dropped. If any unexpected message is
 // received , it fails the test.

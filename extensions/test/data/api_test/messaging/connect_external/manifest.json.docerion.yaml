@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: connect_external test extension manifest
+summary: Manifest for the connect_external test extension, version 1.0, which runs test.js as a background script to test connecting to an external extension.

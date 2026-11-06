@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Serbian locale messages for test extension
+summary: Provides Serbian translations of the extension name and description messages used as test fixture data for the extension with locales.

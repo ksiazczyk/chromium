@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension background page waiter class declaration
+// summary: Declares a test helper class that waits for an extension's background context to reach a given state, complementing ExtensionHostTestHelper.
+// ---
+
 #ifndef EXTENSIONS_TEST_EXTENSION_BACKGROUND_PAGE_WAITER_H_
 #define EXTENSIONS_TEST_EXTENSION_BACKGROUND_PAGE_WAITER_H_
 

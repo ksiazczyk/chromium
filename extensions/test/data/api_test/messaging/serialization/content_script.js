@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content script for messaging serialization API tests
+// summary: Content script that imports the shared serialization tests for the runtime API and echoes messages back for the background script tests.
+// ---
+
 // This works-around that content scripts can't import because they aren't
 // considered modules.
 (async () => {

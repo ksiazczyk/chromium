@@ -1,0 +1,4 @@
+# Docerion header of test_receiver.html.
+type: test
+title: Receiver page for the SharedArrayBuffer messaging test
+summary: HTML page that loads the receiver script for the SharedArrayBuffer messaging test.

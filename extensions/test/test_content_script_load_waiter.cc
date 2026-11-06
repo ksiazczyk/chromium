@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContentScriptLoadWaiter implementation
+// summary: Implements a single-use test helper that blocks in a run loop until the observed UserScriptLoader finishes loading content scripts, quitting when idle so other observers can run.
+// ---
+
 #include "extensions/test/test_content_script_load_waiter.h"
 
 #include "content/public/browser/browser_context.h"

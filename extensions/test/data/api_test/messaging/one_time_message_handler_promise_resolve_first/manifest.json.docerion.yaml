@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the one-time messaging promise-resolve-first test extension
+summary: Manifest V3 extension manifest that wires the background service worker and document-start content script for the messaging API test.

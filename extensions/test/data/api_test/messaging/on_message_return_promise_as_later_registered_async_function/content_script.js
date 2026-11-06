@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content script asserting faster async promise response
+// summary: Sends a runtime message and asserts the response equals the faster async function's promise result, verifying first-resolved promise wins.
+// ---
+
 chrome.test.runTests([
 
   // Tests that when multiple `async functions` (which always return promises)

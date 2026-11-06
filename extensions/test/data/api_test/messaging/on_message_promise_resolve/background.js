@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background service worker for onMessage promise resolve test
+// summary: Background script whose onMessage listener returns promises in several ways to exercise message reply behavior in tests.
+// ---
+
 async function onMessageListenerReturnsPromiseAsAsyncFunction() {
   return 'async function promise return';
 }

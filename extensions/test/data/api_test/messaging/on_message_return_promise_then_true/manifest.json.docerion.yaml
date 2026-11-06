@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the onMessage promise test extension
+summary: Manifest version 3 configuration for the test extension, wiring up the background service worker and the content script that runs the test.
