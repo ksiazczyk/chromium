@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reader Mode web state delegate
+// summary: Declares a proxy WebStateDelegate that forwards supported calls to the original delegate for Reader Mode web states.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READER_MODE_MODEL_READER_MODE_WEB_STATE_DELEGATE_H_
 #define IOS_CHROME_BROWSER_READER_MODE_MODEL_READER_MODE_WEB_STATE_DELEGATE_H_
 

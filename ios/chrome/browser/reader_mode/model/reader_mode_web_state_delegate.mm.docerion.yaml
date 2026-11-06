@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_web_state_delegate.mm.
+type: source
+title: Reader Mode web state delegate implementation
+summary: Implements the proxy delegate, overriding the source web state for new WebStates and denying unsupported actions such as auth and permissions.

@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_web_state_utils.mm.
+type: source
+title: Reader Mode web state utilities implementation
+summary: Implements the Reader mode activity check by querying the ReaderModeTabHelper attached to the web state.

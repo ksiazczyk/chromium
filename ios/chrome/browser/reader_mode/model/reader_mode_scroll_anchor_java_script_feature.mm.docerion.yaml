@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_scroll_anchor_java_script_feature.mm.
+type: source
+title: Reader mode scroll anchor JavaScript feature implementation
+summary: Implements the scroll anchor feature, receiving scroll position messages from JavaScript and storing a script on the tab helper to restore the position in Reader mode.

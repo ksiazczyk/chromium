@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_eligibility_decider.mm.
+type: source
+title: Reader Mode eligibility decider implementation
+summary: Implements Reader Mode eligibility decisions with a Readability heuristic, a Google Workspace blocklist and optimization guide checks.

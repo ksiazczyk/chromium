@@ -1,0 +1,4 @@
+# Docerion header of reading_list_toolbar_button_manager.mm.
+type: source
+title: Reading list toolbar button manager implementation
+summary: Implements the toolbar button manager, building bar button items and mark button titles for the reading list's selection states.

@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_blur_overlay_coordinator_unittest.mm.
+type: test
+title: Reader Mode blur overlay coordinator unit tests
+summary: Verifies that starting and stopping the blur overlay coordinator presents and dismisses the overlay view as expected.

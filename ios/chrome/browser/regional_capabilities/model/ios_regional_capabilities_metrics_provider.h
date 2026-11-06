@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSRegionalCapabilitiesMetricsProvider class declaration
+// summary: Declares IOSRegionalCapabilitiesMetricsProvider, a metrics provider that reports current session regional program data to UMA.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_REGIONAL_CAPABILITIES_MODEL_IOS_REGIONAL_CAPABILITIES_METRICS_PROVIDER_H_
 #define IOS_CHROME_BROWSER_REGIONAL_CAPABILITIES_MODEL_IOS_REGIONAL_CAPABILITIES_METRICS_PROVIDER_H_
 

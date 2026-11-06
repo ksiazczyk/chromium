@@ -1,0 +1,4 @@
+# Docerion header of reading_list_constants.mm.
+type: source
+title: Reading List UI accessibility constants
+summary: Defines NSString constants for accessibility identifiers of the Reading List view, navigation bar buttons, toolbar buttons and related UI elements.

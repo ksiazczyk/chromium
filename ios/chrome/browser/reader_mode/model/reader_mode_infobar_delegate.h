@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reader Mode infobar delegate declaration
+// summary: Declares ReaderModeInfobarDelegate, the infobars delegate that identifies the Reader Mode infobar.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READER_MODE_MODEL_READER_MODE_INFOBAR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_READER_MODE_MODEL_READER_MODE_INFOBAR_DELEGATE_H_
 

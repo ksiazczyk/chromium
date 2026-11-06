@@ -1,0 +1,4 @@
+# Docerion header of reminder_notifications_date_picker_table_view_cell.mm.
+type: source
+title: Reminder notifications date picker table view cell implementation
+summary: Implements the picker table view cell with manually constrained title and value labels, custom colors, and accessibility identifiers.

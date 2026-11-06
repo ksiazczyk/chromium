@@ -1,0 +1,4 @@
+# Docerion header of reminder_notifications_mediator_unittest.mm.
+type: test
+title: Reminder notifications mediator unit tests
+summary: Tests storing, overwriting, and skipping reminders for valid, invalid, and empty URLs with a testing pref service.

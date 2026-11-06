@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reader Mode mediator header
+// summary: Declares the mediator that connects the Reader Mode UI to the web state list, Gemini service and distilled page preferences.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READER_MODE_COORDINATOR_READER_MODE_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_READER_MODE_COORDINATOR_READER_MODE_MEDIATOR_H_
 

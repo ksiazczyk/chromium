@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Add to Reading List infobar delegate header
+// summary: Declares the infobar delegate that shows the add-to-Reading-List prompt in iOS.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READING_LIST_UI_BUNDLED_IOS_ADD_TO_READING_LIST_INFOBAR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_READING_LIST_UI_BUNDLED_IOS_ADD_TO_READING_LIST_INFOBAR_DELEGATE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn targets for the reading list model
+summary: Defines the GN source sets for the reading list model, remover helper, test support and unit tests together with their dependencies.

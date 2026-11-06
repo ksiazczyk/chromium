@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_options_controls_view.mm.
+type: source
+title: Reader Mode options controls view implementation
+summary: Implements the Reader Mode options controls, building font family, font size, and theme buttons in stacked layouts with accessibility announcements.

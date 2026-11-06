@@ -1,0 +1,4 @@
+# Docerion header of safari_data_import_app_interface_stub.mm.
+type: test
+title: Safari data import app interface stub
+summary: Stubs the Safari data import app interface in the app main queue for Earl Grey test runs that do not need real file selection.

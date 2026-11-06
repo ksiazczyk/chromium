@@ -1,0 +1,4 @@
+# Docerion header of reminder_notification_client.mm.
+type: source
+title: ReminderNotificationClient implementation
+summary: Implements scheduling of reminder notifications from prefs and handling of reminder interactions by opening the reminder URL in a new tab.

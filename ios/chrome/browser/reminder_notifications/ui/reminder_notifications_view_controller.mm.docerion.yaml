@@ -1,0 +1,4 @@
+# Docerion header of reminder_notifications_view_controller.mm.
+type: source
+title: Reminder notifications view controller implementation
+summary: Implements the reminder notifications half-sheet, configuring the bell image, action buttons, and popover presentation of the date picker.

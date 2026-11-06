@@ -1,0 +1,4 @@
+# Docerion header of reading_list_utils.mm.
+type: source
+title: Reading list UI utilities implementation
+summary: Implements adding a page to the reading list after asynchronously retrieving its canonical URL, falling back to the visible URL.

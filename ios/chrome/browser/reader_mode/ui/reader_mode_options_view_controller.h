@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reader Mode options view controller header
+// summary: Header for the view controller presenting Reader Mode options, exposing the controls view, mutator, handler, and sheet detent resolution.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READER_MODE_UI_READER_MODE_OPTIONS_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_READER_MODE_UI_READER_MODE_OPTIONS_VIEW_CONTROLLER_H_
 

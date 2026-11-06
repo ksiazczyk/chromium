@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_panel_item_configuration.mm.
+type: source
+title: Reader mode panel item configuration implementation
+summary: Implements the Reader Mode contextual panel item, setting entrypoint messages, symbols and actions, and invalidating itself on Gemini eligibility changes or distillation failure.

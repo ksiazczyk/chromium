@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_distiller_viewer_unittest.mm.
+type: test
+title: Reader Mode distiller viewer unit tests
+summary: Unit tests verifying that a CSP nonce blocks inline event handlers and un-nonced scripts in Reader Mode documents loaded via WebState::LoadData.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading list toolbar button manager interface
+// summary: Declares a state object that manages which toolbar buttons appear at the bottom of the reading list based on selection and edit state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READING_LIST_UI_BUNDLED_READING_LIST_TOOLBAR_BUTTON_MANAGER_H_
 #define IOS_CHROME_BROWSER_READING_LIST_UI_BUNDLED_READING_LIST_TOOLBAR_BUTTON_MANAGER_H_
 

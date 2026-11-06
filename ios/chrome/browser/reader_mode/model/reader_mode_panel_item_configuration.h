@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reader mode panel item configuration header
+// summary: Declares ReaderModePanelItemConfiguration, a contextual panel item for Reader Mode that observes the WebState and ReaderModeTabHelper to manage its own lifecycle.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READER_MODE_MODEL_READER_MODE_PANEL_ITEM_CONFIGURATION_H_
 #define IOS_CHROME_BROWSER_READER_MODE_MODEL_READER_MODE_PANEL_ITEM_CONFIGURATION_H_
 

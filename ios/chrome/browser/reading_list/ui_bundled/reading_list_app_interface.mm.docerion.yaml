@@ -1,0 +1,4 @@
+# Docerion header of reading_list_app_interface.mm.
+type: test
+title: Reading List test app interface implementation
+summary: Implements test helpers that manipulate the Reading List model and fake a Wi-Fi connection.

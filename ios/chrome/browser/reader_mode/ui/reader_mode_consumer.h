@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reader Mode consumer protocol
+// summary: Declares the consumer interface for setting or removing the Reader Mode content view with a web view proxy and overscroll style.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READER_MODE_UI_READER_MODE_CONSUMER_H_
 #define IOS_CHROME_BROWSER_READER_MODE_UI_READER_MODE_CONSUMER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading list remover helper class declaration
+// summary: Declares a helper that asynchronously removes all reading list entries and reports success or failure via a completion callback.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READING_LIST_MODEL_READING_LIST_REMOVER_HELPER_H_
 #define IOS_CHROME_BROWSER_READING_LIST_MODEL_READING_LIST_REMOVER_HELPER_H_
 

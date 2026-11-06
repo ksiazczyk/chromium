@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading list list item factory delegate protocol
+// summary: Declares the delegate protocol for the reading list item factory that reports whether incognito mode is forced or available.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READING_LIST_UI_BUNDLED_READING_LIST_LIST_ITEM_FACTORY_DELEGATE_H_
 #define IOS_CHROME_BROWSER_READING_LIST_UI_BUNDLED_READING_LIST_LIST_ITEM_FACTORY_DELEGATE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_content_tab_helper.mm.
+type: source
+title: Reader mode content tab helper implementation
+summary: Implements loading Reader mode content into a WebState, filtering requests, and attaching supported tab helpers.

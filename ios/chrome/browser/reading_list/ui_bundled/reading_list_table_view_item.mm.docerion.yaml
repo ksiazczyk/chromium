@@ -1,0 +1,4 @@
+# Docerion header of reading_list_table_view_item.mm.
+type: source
+title: Reading List table view item implementation
+summary: Implements the Reading List table view item, configuring cell content, favicons, accessibility labels and item equality.

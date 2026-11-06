@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reader mode app interface header
+// summary: Declares the test app interface for checking, showing, and hiding Reader mode in the current tab.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READER_MODE_TEST_READER_MODE_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_READER_MODE_TEST_READER_MODE_APP_INTERFACE_H_
 

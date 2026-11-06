@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sad tab view header
+// summary: Declares the SadTabView with reload and feedback modes, its delegate protocol, and UI element accessors.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAD_TAB_UI_BUNDLED_SAD_TAB_VIEW_H_
 #define IOS_CHROME_BROWSER_SAD_TAB_UI_BUNDLED_SAD_TAB_VIEW_H_
 

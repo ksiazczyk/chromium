@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_tab_helper_observer_bridge.mm.
+type: source
+title: Reader mode tab helper observer bridge implementation
+summary: Implements the observer bridge, dispatching Reader mode tab helper events to the Objective-C observer when the corresponding selectors are implemented.

@@ -1,0 +1,4 @@
+# Docerion header of recent_tabs_mediator.mm.
+type: source
+title: Recent tabs mediator implementation
+summary: Implements the mediator that observes sync, sign-in, identity and closed-tab changes to refresh the recent tabs view.

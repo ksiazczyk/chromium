@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Reader mode test include rules
+summary: Allows the test directory to include headers from ios/chrome/browser/reader_mode/model.

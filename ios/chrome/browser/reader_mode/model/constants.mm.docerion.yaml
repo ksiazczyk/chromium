@@ -1,0 +1,4 @@
+# Docerion header of constants.mm.
+type: source
+title: Reader mode histogram name constants
+summary: Defines histogram name strings, a preference key and font scale multipliers for Reader mode metrics.

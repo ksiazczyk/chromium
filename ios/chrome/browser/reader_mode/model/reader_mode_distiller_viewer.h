@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reader Mode distiller viewer declaration
+// summary: Declares ReaderModeDistillerViewer, which renders distilled article pages and updates the Reader Mode UI with fonts, themes and a CSP nonce.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READER_MODE_MODEL_READER_MODE_DISTILLER_VIEWER_H_
 #define IOS_CHROME_BROWSER_READER_MODE_MODEL_READER_MODE_DISTILLER_VIEWER_H_
 

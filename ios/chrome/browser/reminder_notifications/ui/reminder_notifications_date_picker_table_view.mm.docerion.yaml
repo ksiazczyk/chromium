@@ -1,0 +1,4 @@
+# Docerion header of reminder_notifications_date_picker_table_view.mm.
+type: source
+title: Reminder notifications date picker table view implementation
+summary: Implements the date and time picker table view with two rows, cell reuse, formatters, and a default date offset from the reminder feature.

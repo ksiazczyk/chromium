@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reader Mode metrics helper header
+// summary: Declares a helper that records histograms and UKM events for Reading Mode heuristic, distillation, data load, and usage metrics.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READER_MODE_MODEL_READER_MODE_METRICS_HELPER_H_
 #define IOS_CHROME_BROWSER_READER_MODE_MODEL_READER_MODE_METRICS_HELPER_H_
 

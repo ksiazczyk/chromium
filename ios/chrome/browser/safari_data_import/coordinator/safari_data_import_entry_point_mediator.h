@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safari data import entry point mediator interface
+// summary: Declares the mediator that manages the Safari data import entry point, reminders, and setup list completion.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAFARI_DATA_IMPORT_COORDINATOR_SAFARI_DATA_IMPORT_ENTRY_POINT_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_SAFARI_DATA_IMPORT_COORDINATOR_SAFARI_DATA_IMPORT_ENTRY_POINT_MEDIATOR_H_
 

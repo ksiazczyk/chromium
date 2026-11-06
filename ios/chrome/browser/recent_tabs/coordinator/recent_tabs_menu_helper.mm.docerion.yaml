@@ -1,0 +1,4 @@
+# Docerion header of recent_tabs_menu_helper.mm.
+type: source
+title: Recent tabs context menu helper implementation
+summary: Implements context menu configuration for recent tabs items and headers, with actions to open in a new window, copy and share URLs.

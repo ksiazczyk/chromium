@@ -1,0 +1,4 @@
+# Docerion header of reading_list_list_item_factory.mm.
+type: source
+title: Reading list list item factory implementation
+summary: Creates reading list table view items from reading list entries, setting title, entry URL, favicon URL and cloud slash upload state.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safari data import reminder promo display handler header
+// summary: Declares the promo display handler that presents the Safari import entry point to eligible users via the Promos Manager.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAFARI_DATA_IMPORT_COORDINATOR_SAFARI_DATA_IMPORT_REMINDER_PROMO_DISPLAY_HANDLER_H_
 #define IOS_CHROME_BROWSER_SAFARI_DATA_IMPORT_COORDINATOR_SAFARI_DATA_IMPORT_REMINDER_PROMO_DISPLAY_HANDLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_distiller_viewer.mm.
+type: source
+title: Reader Mode distiller viewer implementation
+summary: Implements the Reader Mode distiller viewer, building article HTML with a CSP nonce and forwarding distilled JavaScript to the main web frame.

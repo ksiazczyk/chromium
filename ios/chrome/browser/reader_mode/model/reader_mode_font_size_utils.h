@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reader Mode font size utilities declaration
+// summary: Declares helper functions to increase, decrease and reset Reader Mode font sizes and to check whether those changes are possible.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READER_MODE_MODEL_READER_MODE_FONT_SIZE_UTILS_H_
 #define IOS_CHROME_BROWSER_READER_MODE_MODEL_READER_MODE_FONT_SIZE_UTILS_H_
 

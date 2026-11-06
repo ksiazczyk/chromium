@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading list web state observer declaration
+// summary: Declares an observer that watches page loads and marks matching reading list entries as read when they load successfully.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READING_LIST_MODEL_READING_LIST_WEB_STATE_OBSERVER_H_
 #define IOS_CHROME_BROWSER_READING_LIST_MODEL_READING_LIST_WEB_STATE_OBSERVER_H_
 

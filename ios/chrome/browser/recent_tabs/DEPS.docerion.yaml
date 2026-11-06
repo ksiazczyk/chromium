@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Recent tabs DEPS include rules
+summary: Defines the allowed include dependencies for the ios/chrome/browser/recent_tabs directory.

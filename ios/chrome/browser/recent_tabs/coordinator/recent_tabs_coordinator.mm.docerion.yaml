@@ -1,0 +1,4 @@
+# Docerion header of recent_tabs_coordinator.mm.
+type: source
+title: Recent tabs coordinator implementation
+summary: Implements the coordinator that presents Recent Tabs, wiring sign-in, sync, reauth, metrics and context menu behavior.

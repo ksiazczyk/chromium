@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reader mode content tab helper interface
+// summary: Declares the tab helper that renders Reader mode content in a WebState and blocks navigations via its delegate.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READER_MODE_MODEL_READER_MODE_CONTENT_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_READER_MODE_MODEL_READER_MODE_CONTENT_TAB_HELPER_H_
 

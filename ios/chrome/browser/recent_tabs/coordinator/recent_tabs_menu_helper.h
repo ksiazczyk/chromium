@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recent tabs context menu helper header
+// summary: Declares RecentTabsContextMenuHelper, which builds context menus for recent tabs using the browser and presentation delegates.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_RECENT_TABS_COORDINATOR_RECENT_TABS_MENU_HELPER_H_
 #define IOS_CHROME_BROWSER_RECENT_TABS_COORDINATOR_RECENT_TABS_MENU_HELPER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of reading_list_web_state_observer.mm.
+type: source
+title: Reading list web state observer implementation
+summary: Implements the web state observer that sets the read status of reading list entries when their pages load successfully.

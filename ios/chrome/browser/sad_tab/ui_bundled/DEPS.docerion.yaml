@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Sad tab UI DEPS include rules
+summary: Lists the allowed include dependencies for the sad tab ui_bundled directory.

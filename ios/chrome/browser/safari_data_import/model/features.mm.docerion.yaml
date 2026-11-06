@@ -1,0 +1,4 @@
+# Docerion header of features.mm.
+type: source
+title: Implementation of the Safari data import entry point check
+summary: Implements the entry point visibility logic, requiring iOS 18.2 or later and checking managed policies for passwords, payments, history, and bookmarks.

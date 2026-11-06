@@ -1,0 +1,4 @@
+# Docerion header of sad_tab_view_controller.mm.
+type: source
+title: Sad tab view controller implementation
+summary: Implements the sad tab view controller, embedding the sad tab view in a scroll view with overscroll actions support.

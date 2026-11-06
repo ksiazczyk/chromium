@@ -1,0 +1,4 @@
+# Docerion header of reading_list_app_interface_stub.mm.
+type: test
+title: Reading List app interface stub
+summary: Registers a stub ReadingListAppInterface in the app main queue for Earl Grey tests.

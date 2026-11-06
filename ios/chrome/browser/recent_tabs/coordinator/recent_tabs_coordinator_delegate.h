@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recent tabs coordinator delegate protocol
+// summary: Defines the RecentTabsCoordinatorDelegate protocol used to request dismissal of the recent tabs coordinator.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_RECENT_TABS_COORDINATOR_RECENT_TABS_COORDINATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_RECENT_TABS_COORDINATOR_RECENT_TABS_COORDINATOR_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safari data export coordinator interface
+// summary: Declares the coordinator responsible for presenting the Safari data export screen.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAFARI_DATA_IMPORT_COORDINATOR_SAFARI_DATA_IMPORT_EXPORT_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_SAFARI_DATA_IMPORT_COORDINATOR_SAFARI_DATA_IMPORT_EXPORT_COORDINATOR_H_
 

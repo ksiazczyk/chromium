@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecentTabsMenuProvider protocol interface
+// summary: Declares a protocol that supplies context menu configurations for recent tabs items and section headers.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_RECENT_TABS_UI_RECENT_TABS_MENU_PROVIDER_H_
 #define IOS_CHROME_BROWSER_RECENT_TABS_UI_RECENT_TABS_MENU_PROVIDER_H_
 

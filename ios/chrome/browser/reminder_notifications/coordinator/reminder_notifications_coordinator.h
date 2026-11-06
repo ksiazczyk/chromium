@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reminder notifications coordinator header
+// summary: Declares the ReminderNotificationsCoordinator class and its delegate protocol for dismissal requests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_REMINDER_NOTIFICATIONS_COORDINATOR_REMINDER_NOTIFICATIONS_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_REMINDER_NOTIFICATIONS_COORDINATOR_REMINDER_NOTIFICATIONS_COORDINATOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of reading_list_egtest.mm.
+type: test
+title: Reading List Earl Grey UI tests
+summary: Earl Grey integration tests for the Reading List UI, covering adding entries, distillation, read status, deletion and sign-in related behavior.

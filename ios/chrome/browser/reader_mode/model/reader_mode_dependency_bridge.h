@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reader mode dependency bridge interface
+// summary: Declares a bridge class that installs tab dependencies on the reader mode WebState for a browser.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READER_MODE_MODEL_READER_MODE_DEPENDENCY_BRIDGE_H_
 #define IOS_CHROME_BROWSER_READER_MODE_MODEL_READER_MODE_DEPENDENCY_BRIDGE_H_
 

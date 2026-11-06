@@ -1,0 +1,4 @@
+# Docerion header of closed_tabs_observer_bridge.mm.
+type: source
+title: ClosedTabsObserverBridge implementation
+summary: Implements the bridge that forwards tab restore service changed and destroyed events to the Objective-C owner.

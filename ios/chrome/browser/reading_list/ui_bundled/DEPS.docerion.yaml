@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Reading List UI include rules
+summary: Defines the allowed include directories for code in the Reading List UI folder.

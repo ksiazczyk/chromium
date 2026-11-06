@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reader Mode options mutator protocol
+// summary: Protocol for mutating Reader Mode options, covering font family, font size changes, theme selection, and hiding Reader Mode.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READER_MODE_UI_READER_MODE_OPTIONS_MUTATOR_H_
 #define IOS_CHROME_BROWSER_READER_MODE_UI_READER_MODE_OPTIONS_MUTATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safari data import import view controller header
+// summary: Declares the main import screen with the current import stage, target account email, and Safari data item table view.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAFARI_DATA_IMPORT_UI_SAFARI_DATA_IMPORT_IMPORT_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SAFARI_DATA_IMPORT_UI_SAFARI_DATA_IMPORT_IMPORT_VIEW_CONTROLLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_model.mm.
+type: source
+title: Reader Mode contextual panel model implementation
+summary: Implements ReaderModeModel, fetching Reader Mode panel configuration for a web state based on distillability and user preferences.

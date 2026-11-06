@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_view_controller.mm.
+type: source
+title: Reader Mode view controller implementation
+summary: Implements the Reader Mode content view controller with radial wipe animations, overscroll actions support, and theme updates.

@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_tab_helper.mm.
+type: source
+title: Reader mode tab helper implementation
+summary: Implements ReaderModeTabHelper, handling distillation, translate infobar interactions, eligibility heuristics and Reader mode activation and deactivation in a tab.

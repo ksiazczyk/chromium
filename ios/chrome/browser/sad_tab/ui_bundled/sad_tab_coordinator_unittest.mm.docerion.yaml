@@ -1,0 +1,4 @@
+# Docerion header of sad_tab_coordinator_unittest.mm.
+type: test
+title: Sad tab coordinator unit tests
+summary: Unit tests verifying that the sad tab coordinator starts, stops, and dismisses the sad tab view controller correctly.

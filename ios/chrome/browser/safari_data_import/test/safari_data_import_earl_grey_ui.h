@@ -2,6 +2,12 @@
 /// Use of this source code is governed by a BSD-style license that can be
 /// found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safari data import Earl Grey UI helpers header
+// summary: Declares shared Earl Grey helper functions for driving the Safari data import entry point, import screen, and conflict UI in tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAFARI_DATA_IMPORT_TEST_SAFARI_DATA_IMPORT_EARL_GREY_UI_H_
 #define IOS_CHROME_BROWSER_SAFARI_DATA_IMPORT_TEST_SAFARI_DATA_IMPORT_EARL_GREY_UI_H_
 

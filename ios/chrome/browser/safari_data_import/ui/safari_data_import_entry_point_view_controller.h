@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safari data import entry point view controller header
+// summary: Declares the entry point screen as a bottom sheet view controller with a showReminderButton property for the Safari data import flow.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAFARI_DATA_IMPORT_UI_SAFARI_DATA_IMPORT_ENTRY_POINT_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SAFARI_DATA_IMPORT_UI_SAFARI_DATA_IMPORT_ENTRY_POINT_VIEW_CONTROLLER_H_
 

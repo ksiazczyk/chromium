@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_distiller_page_unittest.mm.
+type: test
+title: Reader mode distiller page unit tests
+summary: Unit tests covering distillation of valid and invalid URLs, scripts and origins using fake web frames.

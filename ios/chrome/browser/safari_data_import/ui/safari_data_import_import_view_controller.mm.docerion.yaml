@@ -1,0 +1,4 @@
+# Docerion header of safari_data_import_import_view_controller.mm.
+type: source
+title: Safari data import import view controller implementation
+summary: Implements the main import screen, adapting buttons, table view, and disclaimer across import stages from file selection to done.

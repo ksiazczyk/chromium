@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for reminder notifications model
+summary: Declares the allowed include dependency on the iOS Chrome push notification model directory.

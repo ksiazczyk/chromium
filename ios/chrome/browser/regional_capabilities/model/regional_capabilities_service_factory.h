@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RegionalCapabilitiesServiceFactory declaration
+// summary: Declares the iOS profile-keyed service factory that creates RegionalCapabilitiesService instances per profile.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_REGIONAL_CAPABILITIES_MODEL_REGIONAL_CAPABILITIES_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_REGIONAL_CAPABILITIES_MODEL_REGIONAL_CAPABILITIES_SERVICE_FACTORY_H_
 

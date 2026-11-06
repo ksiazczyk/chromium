@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_egtest.mm.
+type: test
+title: Reader Mode Earl Grey UI tests
+summary: Earl Grey UI tests for the iOS Reader Mode feature, covering badges, themes, font size controls, and sign-in related behaviors.

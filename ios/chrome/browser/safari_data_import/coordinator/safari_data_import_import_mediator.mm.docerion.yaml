@@ -1,0 +1,4 @@
+# Docerion header of safari_data_import_import_mediator.mm.
+type: source
+title: Safari data import mediator implementation
+summary: Implements the Safari data import mediator, wiring the SafariDataImporter, password presenter and import item consumers.

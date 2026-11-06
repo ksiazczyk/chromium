@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionsSyncUserState enum
+// summary: Defines the enum describing the user's signed-in and tab sync states used by the recent tabs UI.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_RECENT_TABS_UI_SESSIONS_SYNC_USER_STATE_H_
 #define IOS_CHROME_BROWSER_RECENT_TABS_UI_SESSIONS_SYNC_USER_STATE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of favicon_web_state_dispatcher_impl_unittest.mm.
+type: test
+title: Favicon web state dispatcher unit tests
+summary: Verifies that requested WebStates get a favicon driver attached and are destroyed after the keep-alive delay expires.

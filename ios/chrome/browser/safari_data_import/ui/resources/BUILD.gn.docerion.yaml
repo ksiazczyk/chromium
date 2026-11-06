@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Safari data import UI resources
+summary: GN build file bundling the Safari data import asset catalog and the export education Lottie animation files into the iOS app bundle.

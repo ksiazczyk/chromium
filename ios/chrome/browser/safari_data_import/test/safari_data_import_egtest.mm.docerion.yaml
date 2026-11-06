@@ -1,0 +1,4 @@
+# Docerion header of safari_data_import_egtest.mm.
+type: test
+title: Safari data import Earl Grey tests
+summary: Earl Grey test suite covering the Safari data import workflow, including file loading, password conflicts, and invalid password handling.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reader Mode mutator protocol
+// summary: Protocol that mutators implement to update the Reader Mode UI, currently exposing setting the default theme of the distilled page.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READER_MODE_UI_READER_MODE_MUTATOR_H_
 #define IOS_CHROME_BROWSER_READER_MODE_UI_READER_MODE_MUTATOR_H_
 

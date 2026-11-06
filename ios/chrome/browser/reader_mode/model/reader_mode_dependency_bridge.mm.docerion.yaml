@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_dependency_bridge.mm.
+type: source
+title: Reader mode dependency bridge implementation
+summary: Installs, uninstalls and purges tab dependencies through the TabsDependencyInstallerManager for reader mode WebStates.

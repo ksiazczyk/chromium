@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Reader Mode UI include rules
+summary: Specifies the allowed header include rules for files in the Reader Mode UI directory.

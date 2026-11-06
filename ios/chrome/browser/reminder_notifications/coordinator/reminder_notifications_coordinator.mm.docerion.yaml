@@ -1,0 +1,4 @@
+# Docerion header of reminder_notifications_coordinator.mm.
+type: source
+title: Reminder notifications coordinator implementation
+summary: Presents the Set a reminder sheet for the active tab, validates the URL, and forwards reminder requests to the mediator.

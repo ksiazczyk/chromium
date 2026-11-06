@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_metrics_helper_unittest.mm.
+type: test
+title: Reader Mode metrics helper unit tests
+summary: Unit tests for the Reading Mode metrics helper, checking recorded states, latencies, and results with histogram and UKM test recorders.

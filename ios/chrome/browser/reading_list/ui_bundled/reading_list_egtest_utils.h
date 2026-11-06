@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reading List Earl Grey test utilities interface
+// summary: Declares helper matchers and functions for Reading List Earl Grey tests, such as opening the list and adding URLs to it.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READING_LIST_UI_BUNDLED_READING_LIST_EGTEST_UTILS_H_
 #define IOS_CHROME_BROWSER_READING_LIST_UI_BUNDLED_READING_LIST_EGTEST_UTILS_H_
 

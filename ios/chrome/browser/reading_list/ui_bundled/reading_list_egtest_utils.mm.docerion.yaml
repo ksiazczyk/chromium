@@ -1,0 +1,4 @@
+# Docerion header of reading_list_egtest_utils.mm.
+type: test
+title: Reading List Earl Grey test utilities implementation
+summary: Implements matchers and helper functions used by Reading List Earl Grey tests to open the Reading List and add pages with snackbar handling.

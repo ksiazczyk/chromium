@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RLZ tracker delegate interface for Chrome on iOS
+// summary: Declares RLZTrackerDelegateImpl, which implements the RLZ tracker delegate abstract interface to access Chrome on iOS features.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_RLZ_RLZ_TRACKER_DELEGATE_IMPL_H_
 #define IOS_CHROME_BROWSER_RLZ_RLZ_TRACKER_DELEGATE_IMPL_H_
 

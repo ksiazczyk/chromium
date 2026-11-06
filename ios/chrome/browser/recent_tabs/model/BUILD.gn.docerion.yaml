@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the recent tabs model source set
+summary: Defines the model source_set with the closed tabs observer bridge sources and its base and sync_sessions dependencies.

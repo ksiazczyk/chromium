@@ -1,0 +1,4 @@
+# Docerion header of constants.mm.
+type: source
+title: Reader Mode UI constants implementation
+summary: Defines the Reader Mode accessibility identifier strings and the light, dark and sepia background and text colors.

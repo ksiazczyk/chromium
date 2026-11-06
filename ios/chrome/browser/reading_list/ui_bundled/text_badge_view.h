@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text badge view interface
+// summary: Declares a pill-shaped UIView subclass that displays text with a configurable horizontal label margin.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READING_LIST_UI_BUNDLED_TEXT_BADGE_VIEW_H_
 #define IOS_CHROME_BROWSER_READING_LIST_UI_BUNDLED_TEXT_BADGE_VIEW_H_
 

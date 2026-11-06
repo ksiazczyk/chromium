@@ -1,0 +1,4 @@
+# Docerion header of ios_safari_data_import_client.mm.
+type: source
+title: Implementation of the iOS Safari data import client
+summary: Implements import callbacks for bookmarks, history, passwords, and payment cards, populating the UI consumer with item counts and policy-blocked statuses.

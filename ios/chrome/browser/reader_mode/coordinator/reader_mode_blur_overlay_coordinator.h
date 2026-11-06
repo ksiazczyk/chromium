@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reader Mode blur overlay coordinator header
+// summary: Declares the coordinator that displays a blur overlay over the current context, with a start method taking a completion block.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READER_MODE_COORDINATOR_READER_MODE_BLUR_OVERLAY_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_READER_MODE_COORDINATOR_READER_MODE_BLUR_OVERLAY_COORDINATOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_dependency_bridge_unittest.mm.
+type: test
+title: Reader mode dependency bridge unit tests
+summary: Unit tests verifying the dependency bridge installs, uninstalls and purges dependencies via a mocked installer.

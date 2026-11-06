@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_app_interface_stub.mm.
+type: test
+title: Reader mode app interface stub
+summary: Stubs the Reader mode app interface in the test process via GREY_STUB_CLASS_IN_APP_MAIN_QUEUE.

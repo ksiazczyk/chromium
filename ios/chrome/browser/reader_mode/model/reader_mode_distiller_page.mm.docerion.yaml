@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_distiller_page.mm.
+type: source
+title: Reader mode distiller page implementation
+summary: Executes the distiller script on the main web frame and reports distillation results for Reader Mode.

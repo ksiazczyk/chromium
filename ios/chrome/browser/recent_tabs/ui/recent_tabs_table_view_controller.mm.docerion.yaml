@@ -1,0 +1,4 @@
+# Docerion header of recent_tabs_table_view_controller.mm.
+type: source
+title: RecentTabsTableViewController implementation
+summary: Implements the recent tabs table view with recently closed and other-device sections, sign-in promo and user actions.

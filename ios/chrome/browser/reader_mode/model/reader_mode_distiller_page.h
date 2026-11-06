@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reader mode distiller page interface
+// summary: Declares the Reader Mode implementation of the dom_distiller page distillation interface.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READER_MODE_MODEL_READER_MODE_DISTILLER_PAGE_H_
 #define IOS_CHROME_BROWSER_READER_MODE_MODEL_READER_MODE_DISTILLER_PAGE_H_
 

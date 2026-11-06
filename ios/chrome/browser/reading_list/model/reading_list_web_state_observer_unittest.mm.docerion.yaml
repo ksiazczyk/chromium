@@ -1,0 +1,4 @@
+# Docerion header of reading_list_web_state_observer_unittest.mm.
+type: test
+title: Reading list web state observer unit tests
+summary: Unit tests verifying that successful page loads mark reading list entries as read while failed loads leave them unread.

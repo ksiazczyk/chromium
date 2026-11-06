@@ -1,0 +1,4 @@
+# Docerion header of favicon_web_state_dispatcher_impl.mm.
+type: source
+title: Favicon web state dispatcher implementation
+summary: Implements creation, reuse and delayed release of WebStates that carry a favicon driver for reading list entries.

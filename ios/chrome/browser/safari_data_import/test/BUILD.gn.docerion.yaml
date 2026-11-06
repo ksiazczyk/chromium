@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Safari data import test BUILD.gn targets
+summary: Defines GN source sets for the Safari data import Earl Grey test suite and its app-side and stub test support code.

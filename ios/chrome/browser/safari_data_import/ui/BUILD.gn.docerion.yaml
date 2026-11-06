@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Safari data import UI
+summary: Defines the ui source_set listing the Safari data import view controllers and their public and private build dependencies.

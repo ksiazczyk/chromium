@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reader Mode chip view controller header
+// summary: Declares the view controller for the Reader Mode entrypoint chip, conforming to the FullscreenUIElement protocol.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READER_MODE_UI_READER_MODE_CHIP_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_READER_MODE_UI_READER_MODE_CHIP_VIEW_CONTROLLER_H_
 

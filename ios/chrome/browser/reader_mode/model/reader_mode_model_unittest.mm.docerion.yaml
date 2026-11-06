@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_model_unittest.mm.
+type: test
+title: Reader mode model unit tests
+summary: Unit tests verifying that ReaderModeModel returns contextual panel configurations only for eligible HTML pages, and null configurations for the NTP and non-HTML content.

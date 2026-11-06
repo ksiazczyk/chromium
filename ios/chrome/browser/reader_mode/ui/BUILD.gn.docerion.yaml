@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Reader Mode UI GN build targets
+summary: Defines GN source sets and dependencies for the Reader Mode UI, chip, options, constants and Earl Grey test targets.

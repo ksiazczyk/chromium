@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Reading List UI build configuration
+summary: GN build rules defining source sets and dependencies for the iOS Reading List UI.

@@ -2,6 +2,12 @@
 /// Use of this source code is governed by a BSD-style license that can be
 /// found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safari data import mediator header
+// summary: Declares the mediator that manages the stages of importing a Safari data ZIP file into Chrome on iOS.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAFARI_DATA_IMPORT_COORDINATOR_SAFARI_DATA_IMPORT_IMPORT_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_SAFARI_DATA_IMPORT_COORDINATOR_SAFARI_DATA_IMPORT_IMPORT_MEDIATOR_H_
 

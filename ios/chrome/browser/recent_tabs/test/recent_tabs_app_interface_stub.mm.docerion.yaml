@@ -1,0 +1,4 @@
+# Docerion header of recent_tabs_app_interface_stub.mm.
+type: test
+title: RecentTabsAppInterface Earl Grey stub
+summary: Stubs out RecentTabsAppInterface in the app main queue so the helper is available during Earl Grey test runs.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reader Mode coordinator header
+// summary: Declares the main Reader Mode UI coordinator with animated start and stop methods, overscroll support and an animation-completion delegate.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READER_MODE_COORDINATOR_READER_MODE_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_READER_MODE_COORDINATOR_READER_MODE_COORDINATOR_H_
 

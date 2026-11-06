@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recent tabs coordinator header
+// summary: Declares RecentTabsCoordinator, which presents the Recent Tabs UI, with a delegate property and a URL load strategy.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_RECENT_TABS_COORDINATOR_RECENT_TABS_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_RECENT_TABS_COORDINATOR_RECENT_TABS_COORDINATOR_H_
 

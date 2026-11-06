@@ -1,0 +1,4 @@
+# Docerion header of reading_list_table_view_item_unittest.mm.
+type: test
+title: Reading list table view item unit tests
+summary: Unit tests verifying that ReadingListTableViewItem sets the title and URL labels correctly when configuring a table view cell.

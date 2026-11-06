@@ -1,0 +1,4 @@
+# Docerion header of sad_tab_view_controller_unittest.mm.
+type: test
+title: Sad tab view controller unit tests
+summary: Unit tests checking sad tab message text and action button titles across incognito and repeated failure modes.

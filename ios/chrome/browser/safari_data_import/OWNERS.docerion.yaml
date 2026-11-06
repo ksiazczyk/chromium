@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for safari_data_import
+summary: Lists the owners, tmartino@chromium.org and ginnyhuang@chromium.org, responsible for reviewing changes in this directory.

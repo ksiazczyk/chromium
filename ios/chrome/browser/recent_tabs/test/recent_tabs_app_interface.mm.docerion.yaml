@@ -1,0 +1,4 @@
+# Docerion header of recent_tabs_app_interface.mm.
+type: test
+title: RecentTabsAppInterface test helper implementation
+summary: Implements RecentTabsAppInterface by removing the collapsed list model key from the user info of every connected UI scene session.
