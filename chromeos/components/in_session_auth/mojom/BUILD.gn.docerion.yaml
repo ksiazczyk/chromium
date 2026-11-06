@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for in-session auth Mojom
+summary: Defines the GN build target that generates Mojo bindings for in_session_auth.mojom and exposes them to WebUI.

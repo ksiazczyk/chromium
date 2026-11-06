@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Magic Boost test BUILD.gn
+summary: Defines the test-only source_set build target for the fake MagicBoostState test double and its base and public cpp dependencies.

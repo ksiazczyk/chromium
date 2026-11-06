@@ -1,0 +1,4 @@
+# Docerion header of content_decryption_module.mojom.
+type: source
+title: ContentDecryptionModule Mojo interface
+summary: Defines the stable Mojo interface, enums, and structs for the CDM implementation in the ChromeOS daemon, mirroring the media base CDM APIs.

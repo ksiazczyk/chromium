@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeMagicBoostState test double declaration
+// summary: Declares FakeMagicBoostState, a MagicBoostState subclass for tests that overrides async writes and exposes setters for availability and enabled state.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_MAGIC_BOOST_TEST_FAKE_MAGIC_BOOST_STATE_H_
 #define CHROMEOS_COMPONENTS_MAGIC_BOOST_TEST_FAKE_MAGIC_BOOST_STATE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Kiosk component build definitions
+summary: GN build file defining the kiosk static library and a test_support library with their sources and dependencies.

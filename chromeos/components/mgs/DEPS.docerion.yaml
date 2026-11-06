@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the mgs component
+summary: Restricts includes within the mgs component to chromeos/ash/components/login/login_state.

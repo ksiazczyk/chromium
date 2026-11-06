@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unit test entry point for ChromeOS components
+// summary: Main function that configures Mojo, constructs the ChromeosComponentsTestSuite, and launches the ChromeOS components unit tests.
+// ---
+
 #include "base/base_switches.h"
 #include "base/command_line.h"
 #include "base/functional/bind.h"

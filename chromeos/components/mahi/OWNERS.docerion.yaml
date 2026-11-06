@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Mahi directory owners
+summary: Lists the code owners for the mahi component directory, including a dedicated owner for UI changes.

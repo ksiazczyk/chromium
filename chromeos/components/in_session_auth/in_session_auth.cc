@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InSessionAuth service implementation
+// summary: Implements the InSessionAuth mojo service, mapping request reasons to ash auth requests and handling token requests and checks.
+// ---
+
 #include "chromeos/components/in_session_auth/in_session_auth.h"
 
 #include "ash/constants/ash_features.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed guest session utility header
+// summary: Declares IsManagedGuestSession, which returns true when a managed guest session is currently running.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_MGS_MANAGED_GUEST_SESSION_UTILS_H_
 #define CHROMEOS_COMPONENTS_MGS_MANAGED_GUEST_SESSION_UTILS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the CDM factory daemon components
+summary: Defines GN build targets for the browser and GPU process CDM factory daemon components and their unit tests.

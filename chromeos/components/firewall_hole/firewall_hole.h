@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FirewallHole class header
+// summary: Declares the FirewallHole class, which opens a port on the system firewall for a network interface and closes it when the object is destroyed.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_FIREWALL_HOLE_FIREWALL_HOLE_H_
 #define CHROMEOS_COMPONENTS_FIREWALL_HOLE_FIREWALL_HOLE_H_
 

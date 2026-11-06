@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContentDecryptionModuleAdapter unit tests
+// summary: Unit tests for ContentDecryptionModuleAdapter using a mocked daemon CDM Mojo interface to verify session management, promises and decryption behavior.
+// ---
+
 #include "chromeos/components/cdm_factory_daemon/content_decryption_module_adapter.h"
 
 #include <algorithm>

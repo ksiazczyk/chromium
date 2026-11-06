@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk session detection declarations
+// summary: Declares functions to detect Chrome app, web app, and Isolated Web App kiosk sessions.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_KIOSK_KIOSK_UTILS_H_
 #define CHROMEOS_COMPONENTS_KIOSK_KIOSK_UTILS_H_
 

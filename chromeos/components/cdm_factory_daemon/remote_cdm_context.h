@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote CDM context class declaration
+// summary: Declares RemoteCdmContext, a thread-safe media::CdmContext and ChromeOsCdmContext implementation that forwards hardware key data, secure buffer, and decryptor calls over IPC for out-of-process video decoding.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_CDM_FACTORY_DAEMON_REMOTE_CDM_CONTEXT_H_
 #define CHROMEOS_COMPONENTS_CDM_FACTORY_DAEMON_REMOTE_CDM_CONTEXT_H_
 

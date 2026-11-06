@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake managed guest session test helper implementation
+// summary: Implements FakeManagedGuestSession, which sets up and tears down a fake logged-in managed guest session state for tests.
+// ---
+
 #include "chromeos/components/mgs/managed_guest_session_test_utils.h"
 
 #include "chromeos/ash/components/login/login_state/login_state.h"

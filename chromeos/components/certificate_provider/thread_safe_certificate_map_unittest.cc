@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ThreadSafeCertificateMap
+// summary: Tests certificate updates, lookups by fingerprint and SPKI, and preference for the first extension providing a certificate.
+// ---
+
 #include "chromeos/components/certificate_provider/thread_safe_certificate_map.h"
 
 #include <string>

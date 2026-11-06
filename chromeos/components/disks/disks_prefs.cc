@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External storage preference constants and registration
+// summary: Registers browser profile preferences for disabling, restricting to read-only, and allowlisting external USB storage devices.
+// ---
+
 #include "chromeos/components/disks/disks_prefs.h"
 
 #include "components/prefs/pref_registry_simple.h"

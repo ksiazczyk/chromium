@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FirewallHole implementation
+// summary: Implements FirewallHole, which opens and releases TCP and UDP firewall ports through the PermissionBroker D-Bus client using a lifeline pipe.
+// ---
+
 #include "chromeos/components/firewall_hole/firewall_hole.h"
 
 #include <fcntl.h>

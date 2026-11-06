@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content extraction service implementation
+// summary: Implements the mojo ContentExtractionService factory that binds service receivers and forwards extraction requests to the AXTreeExtractor.
+// ---
+
 #include "chromeos/components/mahi/content_extraction_service.h"
 #include "chromeos/components/mahi/ax_tree_extractor.h"
 

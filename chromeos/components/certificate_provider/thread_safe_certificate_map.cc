@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadSafeCertificateMap implementation
+// summary: Implements a thread-safe map of certificates provided by extensions, indexed by fingerprint and subject public key info with lookup and update logic.
+// ---
+
 #include "chromeos/components/certificate_provider/thread_safe_certificate_map.h"
 
 #include <algorithm>

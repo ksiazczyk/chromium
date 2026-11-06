@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-process instances header
+// summary: Declares BindToInSessionAuthService, which binds a pending receiver to the persistent InSessionAuth singleton.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_IN_SESSION_AUTH_IN_PROCESS_INSTANCES_H_
 #define CHROMEOS_COMPONENTS_IN_SESSION_AUTH_IN_PROCESS_INSTANCES_H_
 

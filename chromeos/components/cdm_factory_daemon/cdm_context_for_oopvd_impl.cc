@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM context implementation for out-of-process video decoding
+// summary: Implements the CdmContextForOOPVD Mojo interface in the GPU process, forwarding hardware key data, secure buffer, and decryption requests to the underlying CDM context.
+// ---
+
 #include "chromeos/components/cdm_factory_daemon/cdm_context_for_oopvd_impl.h"
 
 #include "base/functional/callback.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CdmKeyInformation Mojo traits header
+// summary: Declares Mojo enum and struct traits mapping media::CdmKeyInformation and its key status to the chromeos.cdm.mojom types.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_CDM_FACTORY_DAEMON_MOJOM_CDM_KEY_INFORMATION_MOJOM_TRAITS_H_
 #define CHROMEOS_COMPONENTS_CDM_FACTORY_DAEMON_MOJOM_CDM_KEY_INFORMATION_MOJOM_TRAITS_H_
 

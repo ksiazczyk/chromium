@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentDecryptionModuleAdapter class header
+// summary: Declares ContentDecryptionModuleAdapter, which adapts media CDM, CdmContext and Decryptor calls to the ChromeOS cdm::mojom::ContentDecryptionModule interface in the GPU process.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_CDM_FACTORY_DAEMON_CONTENT_DECRYPTION_MODULE_ADAPTER_H_
 #define CHROMEOS_COMPONENTS_CDM_FACTORY_DAEMON_CONTENT_DECRYPTION_MODULE_ADAPTER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Directory owners
+summary: Lists the owners responsible for reviews and defers to the ash login lock owners file.

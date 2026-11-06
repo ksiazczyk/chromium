@@ -1,2 +1,8 @@
+---
+type: readme
+title: libsegmentation README
+summary: Explains that the flag is set by the ChromeOS chromeos-chrome package and links to its metadata.
+---
+
 The flag is set by ChromeOS chromeos-chrome package.
 See https://chromium.googlesource.com/chromiumos/overlays/chromiumos-overlay/+/main/chromeos-base/chromeos-chrome/metadata.xml

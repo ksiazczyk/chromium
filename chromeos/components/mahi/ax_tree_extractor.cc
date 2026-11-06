@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AX tree extractor implementation
+// summary: Implements distillation of accessibility tree updates and extraction of page contents or word counts via a rule-based algorithm or the Screen2x model.
+// ---
+
 #include "chromeos/components/mahi/ax_tree_extractor.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for in-session auth Mojom
+summary: Delegates review of the Mojom files to the IPC security owners, requiring their approval for changes.

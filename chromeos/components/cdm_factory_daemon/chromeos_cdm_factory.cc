@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOsCdmFactory implementation
+// summary: Implements the media::CdmFactory that connects via Mojo to the ChromeOS CDM factory daemon to create CDM instances, including singleton remote handling and task runner plumbing.
+// ---
+
 #include "chromeos/components/cdm_factory_daemon/chromeos_cdm_factory.h"
 
 #include <utility>

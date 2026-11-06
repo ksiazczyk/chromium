@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM context for out-of-process video decoding header
+// summary: Declares CdmContextForOOPVDImpl, the GPU-process receiver of the CdmContextForOOPVD Mojo interface used by the out-of-process video decoder.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_CDM_FACTORY_DAEMON_CDM_CONTEXT_FOR_OOPVD_IMPL_H_
 #define CHROMEOS_COMPONENTS_CDM_FACTORY_DAEMON_CDM_CONTEXT_FOR_OOPVD_IMPL_H_
 

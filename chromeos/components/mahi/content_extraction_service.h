@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentExtractionService class declaration
+// summary: Declares the mahi content extraction service that hosts accessibility tree processing in a utility process and exposes mojo extraction methods.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_MAHI_CONTENT_EXTRACTION_SERVICE_H_
 #define CHROMEOS_COMPONENTS_MAHI_CONTENT_EXTRACTION_SERVICE_H_
 

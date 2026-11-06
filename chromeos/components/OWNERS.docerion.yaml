@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for chromeos/components
+summary: Lists code owners for the chromeos/components directory and permits any owner to approve BUILD.gn changes.

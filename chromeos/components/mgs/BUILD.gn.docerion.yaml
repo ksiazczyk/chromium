@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Managed guest session build configuration
+summary: Defines static libraries for the managed guest session utilities and their test support, depending on the Ash login state component.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for ChromeOS components unit tests
+summary: GN build file defining the chromeos_components_unittests target that aggregates unit tests from ChromeOS components and their dependencies.

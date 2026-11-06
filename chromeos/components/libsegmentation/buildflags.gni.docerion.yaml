@@ -1,0 +1,4 @@
+# Docerion header of buildflags.gni.
+type: config
+title: libsegmentation buildflags GN arguments
+summary: Declares the GN build arguments enable_merge_request and overlay_include_cbx used by the buildflags header.

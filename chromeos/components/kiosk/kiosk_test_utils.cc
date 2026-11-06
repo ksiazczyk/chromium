@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake kiosk session setup implementation
+// summary: Implements helpers that add kiosk users and log them in to fake Chrome app, web, and IWA kiosk sessions for tests.
+// ---
+
 #include "chromeos/components/kiosk/kiosk_test_utils.h"
 
 #include "base/check.h"

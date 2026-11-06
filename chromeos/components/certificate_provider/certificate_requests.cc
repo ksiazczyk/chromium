@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate request tracking implementation
+// summary: Implements tracking of pending certificate requests to extensions, with a five minute timeout and reply handling per request id.
+// ---
+
 #include "chromeos/components/certificate_provider/certificate_requests.h"
 
 #include <memory>

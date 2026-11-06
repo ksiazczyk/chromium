@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeosComponentsTestSuite implementation
+// summary: Implements the ChromeOS components test suite, initializing the i18n stack and loading test resource packs before tests run.
+// ---
+
 #include "chromeos/components/chromeos_components_test_suite.h"
 
 #include "base/base_paths.h"

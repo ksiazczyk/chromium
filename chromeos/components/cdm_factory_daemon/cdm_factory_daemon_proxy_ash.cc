@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash implementation of the CDM factory daemon proxy
+// summary: Implements the Ash-chrome proxy that bootstraps Mojo connections to the CDM factory daemon over D-Bus for CDM factory and OemCrypto access.
+// ---
+
 #include "chromeos/components/cdm_factory_daemon/cdm_factory_daemon_proxy_ash.h"
 
 #include "ash/constants/ash_switches.h"

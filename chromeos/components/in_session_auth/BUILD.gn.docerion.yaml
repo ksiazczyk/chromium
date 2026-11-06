@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for in_session_auth
+summary: Defines the in_session_auth static library, listing its sources and dependencies on ash, OSAuth and mojo bindings.

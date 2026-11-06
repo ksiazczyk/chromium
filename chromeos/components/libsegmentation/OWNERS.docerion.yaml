@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for libsegmentation
+summary: Lists vovoy@chromium.org as the owner of the libsegmentation directory.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Certificate provider bug tracker metadata
+summary: Maps the directory to its public and internal Buganizer components for the ChromeOS smartcard identity team.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for cdm_factory_daemon
+summary: Lists allowed include paths for the cdm_factory_daemon component, covering ash, content, media, mojo, and UI dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Certificate provider include rules
+summary: Allows includes of the BoringSSL SSL header for code in this directory.

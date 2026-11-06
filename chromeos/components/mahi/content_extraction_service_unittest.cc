@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content extraction service unit tests
+// summary: Parameterized unit tests checking extracted contents and word counts for various accessibility tree structures.
+// ---
+
 #include "chromeos/components/mahi/content_extraction_service.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Decrypt config Mojo traits declarations
+// summary: Declares Mojo enum and struct traits for converting media decrypt status, encryption scheme, encryption pattern, subsample entry, and DecryptConfig types for the Chrome OS CDM factory daemon.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_CDM_FACTORY_DAEMON_MOJOM_DECRYPT_CONFIG_MOJOM_TRAITS_H_
 #define CHROMEOS_COMPONENTS_CDM_FACTORY_DAEMON_MOJOM_DECRYPT_CONFIG_MOJOM_TRAITS_H_
 

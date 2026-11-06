@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules
+summary: Restricts includes in this directory by allowing dependencies on ash/public/cpp.

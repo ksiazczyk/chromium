@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate info struct declaration
+// summary: Declares the CertificateInfo struct holding an X.509 certificate and its supported TLS 1.3 signature algorithms for net::SSLPrivateKey.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_CERTIFICATE_PROVIDER_CERTIFICATE_INFO_H_
 #define CHROMEOS_COMPONENTS_CERTIFICATE_PROVIDER_CERTIFICATE_INFO_H_
 

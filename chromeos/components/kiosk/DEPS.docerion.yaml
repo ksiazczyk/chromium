@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Kiosk component include rules
+summary: Allows the kiosk component to include headers from components/account_id and components/user_manager.
