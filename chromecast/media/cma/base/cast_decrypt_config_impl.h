@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastDecryptConfigImpl class declaration
+// summary: Declares the decrypt configuration class holding key ID, IV, encryption pattern, subsample entries, and scheme needed to decrypt a media sample.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BASE_CAST_DECRYPT_CONFIG_IMPL_H_
 #define CHROMECAST_MEDIA_CMA_BASE_CAST_DECRYPT_CONFIG_IMPL_H_
 

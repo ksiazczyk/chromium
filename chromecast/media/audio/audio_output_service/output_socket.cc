@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OutputSocket implementation for metadata parsing
+// summary: Implements OutputSocket, parsing incoming metadata protobuf messages and dispatching them to the delegate or reporting connection errors.
+// ---
+
 #include "chromecast/media/audio/audio_output_service/output_socket.h"
 
 #include <utility>

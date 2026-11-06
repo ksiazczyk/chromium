@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioClockSimulator unit tests
+// summary: Parameterized unit tests verifying AudioClockSimulator frame filling, timestamps, delay, and rate changes during fill.
+// ---
+
 #include "chromecast/media/api/audio_clock_simulator.h"
 
 #include <cmath>

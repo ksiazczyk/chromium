@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioDecoderPipelineNode implementation
+// summary: Forwards audio decoder and delegate calls to a delegated decoder within the audio processing pipeline.
+// ---
+
 #include "chromecast/media/cma/backend/proxy/audio_decoder_pipeline_node.h"
 
 #include "chromecast/media/api/decoder_buffer_base.h"

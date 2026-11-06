@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaResourceTracker header
+// summary: Declares the MediaResourceTracker class and its ScopedUsage helper for managing CastMediaShlib initialize/finalize and media resource usage counting.
+// ---
+
 #ifndef CHROMECAST_MEDIA_COMMON_MEDIA_RESOURCE_TRACKER_H_
 #define CHROMECAST_MEDIA_COMMON_MEDIA_RESOURCE_TRACKER_H_
 

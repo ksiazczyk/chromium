@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ALSA Cast audio manager unit test
+// summary: Tests that the ALSA Cast audio manager can create, open and close an audio input stream.
+// ---
+
 #include "chromecast/media/audio/cast_audio_manager_alsa.h"
 
 #include <memory>

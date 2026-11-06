@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio log macros and message class
+// summary: Declares AUDIO_LOG macros, the AudioLogMessage class, and initialization functions for deferred audio logging.
+// ---
+
 #ifndef CHROMECAST_MEDIA_AUDIO_AUDIO_LOG_H_
 #define CHROMECAST_MEDIA_AUDIO_AUDIO_LOG_H_
 

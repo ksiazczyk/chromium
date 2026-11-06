@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ALSA Cast audio manager implementation
+// summary: Implements the ALSA variant of the Cast audio manager, including enumeration of ALSA audio input devices.
+// ---
+
 #include "chromecast/media/audio/cast_audio_manager_alsa.h"
 
 #include <string_view>

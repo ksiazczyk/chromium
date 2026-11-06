@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Volume map implementation
+// summary: Implements VolumeMap, mapping volume levels to dBFS via a map loaded from the cast audio config with interpolation and a built-in default map.
+// ---
+
 #include "chromecast/media/cma/backend/volume_map.h"
 
 #include <utility>

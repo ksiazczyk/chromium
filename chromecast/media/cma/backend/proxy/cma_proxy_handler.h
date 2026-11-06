@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CMA proxy handler
+// summary: Interface for issuing gRPC calls to the remote CMA backend, covering pipeline state, volume, and buffer pushing.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BACKEND_PROXY_CMA_PROXY_HANDLER_H_
 #define CHROMECAST_MEDIA_CMA_BACKEND_PROXY_CMA_PROXY_HANDLER_H_
 

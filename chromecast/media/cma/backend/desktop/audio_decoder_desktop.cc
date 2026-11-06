@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop audio decoder implementation
+// summary: Implements the stub AudioDecoderDesktop that forwards playback control and buffer pushes to MediaSinkDesktop.
+// ---
+
 #include "chromecast/media/cma/backend/desktop/audio_decoder_desktop.h"
 
 #include "chromecast/media/cma/backend/desktop/media_sink_desktop.h"

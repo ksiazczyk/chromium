@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PushBufferPendingHandler for deferred audio buffer pushes
+// summary: Declares a handler that queues PushBuffer and audio config calls and retries them asynchronously, adding kBufferPending flow control where the delegated handler cannot return it.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BACKEND_PROXY_PUSH_BUFFER_PENDING_HANDLER_H_
 #define CHROMECAST_MEDIA_CMA_BACKEND_PROXY_PUSH_BUFFER_PENDING_HANDLER_H_
 

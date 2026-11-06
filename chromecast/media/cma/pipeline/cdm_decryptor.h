@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CdmDecryptor class header
+// summary: Declares CdmDecryptor, a StreamDecryptor implementation based on CDM decrypt APIs with an option to require clear buffer output.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_PIPELINE_CDM_DECRYPTOR_H_
 #define CHROMECAST_MEDIA_CMA_PIPELINE_CDM_DECRYPTOR_H_
 

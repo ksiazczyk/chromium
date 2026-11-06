@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio decoder wrapper implementation
+// summary: Implements ActiveAudioDecoderWrapper and AudioDecoderWrapper, including a revoked decoder stub that mutes streams routed to a buffer delegate.
+// ---
+
 #include "chromecast/media/common/audio_decoder_wrapper.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast audio manager header
+// summary: Declares CastAudioManager, an AudioManagerBase subclass handling device IDs and group IDs for multizone audio.
+// ---
+
 #ifndef CHROMECAST_MEDIA_AUDIO_CAST_AUDIO_MANAGER_H_
 #define CHROMECAST_MEDIA_AUDIO_CAST_AUDIO_MANAGER_H_
 

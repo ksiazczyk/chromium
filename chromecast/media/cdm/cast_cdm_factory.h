@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastCdmFactory interface
+// summary: Declares CastCdmFactory, a media CdmFactory that creates platform-specific CastCdm instances for a given origin and key system.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CDM_CAST_CDM_FACTORY_H_
 #define CHROMECAST_MEDIA_CDM_CAST_CDM_FACTORY_H_
 

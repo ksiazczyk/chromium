@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast audio manager helper implementation
+// summary: Implements CastAudioManagerHelper, which shares CMA backend access and session lookup logic between Cast audio manager implementations.
+// ---
+
 #include "chromecast/media/audio/cast_audio_manager_helper.h"
 
 #include <utility>

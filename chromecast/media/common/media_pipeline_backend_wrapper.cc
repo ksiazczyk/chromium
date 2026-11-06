@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media pipeline backend wrapper implementation
+// summary: Implements MediaPipelineBackendWrapper and its active and revoked CmaBackend variants that create audio and video decoder wrappers.
+// ---
+
 #include "chromecast/media/common/media_pipeline_backend_wrapper.h"
 
 #include "base/check.h"

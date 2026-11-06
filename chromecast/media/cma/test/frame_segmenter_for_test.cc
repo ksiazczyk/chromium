@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MP3 and H264 frame segmenters for tests
+// summary: Implements MP3 and H264 frame segmenters plus FFmpeg-based demuxing that split media data into decoder buffers for unit tests.
+// ---
+
 #include "chromecast/media/cma/test/frame_segmenter_for_test.h"
 
 #include <stdint.h>

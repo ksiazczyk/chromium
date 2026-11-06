@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Null video decoder header
+// summary: Declares VideoDecoderNull, the no-op VideoDecoderForMixer implementation used on no-video platforms.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BACKEND_VIDEO_DECODER_NULL_H_
 #define CHROMECAST_MEDIA_CMA_BACKEND_VIDEO_DECODER_NULL_H_
 

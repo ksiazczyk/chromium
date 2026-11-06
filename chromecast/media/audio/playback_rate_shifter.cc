@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Playback rate shifter implementation
+// summary: Implements PlaybackRateShifter, wrapping an AudioProvider to shift playback rates using AudioRendererAlgorithm and fill output frames at the requested rate.
+// ---
+
 #include "chromecast/media/audio/playback_rate_shifter.h"
 
 #include <algorithm>

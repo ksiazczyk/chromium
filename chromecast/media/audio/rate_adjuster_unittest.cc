@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Rate adjuster unit tests
+// summary: Unit tests covering RateAdjuster behavior with no error, slow and fast underlying clock rates, and jittered error samples.
+// ---
+
 #include "chromecast/media/audio/rate_adjuster.h"
 #include "base/rand_util.h"
 #include "testing/gtest/include/gtest/gtest.h"

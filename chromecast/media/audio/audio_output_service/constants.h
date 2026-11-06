@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations for audio output service endpoint constants
+// summary: Declares the default Unix domain socket path and TCP port constants for the audio output service.
+// ---
+
 #ifndef CHROMECAST_MEDIA_AUDIO_AUDIO_OUTPUT_SERVICE_CONSTANTS_H_
 #define CHROMECAST_MEDIA_AUDIO_AUDIO_OUTPUT_SERVICE_CONSTANTS_H_
 

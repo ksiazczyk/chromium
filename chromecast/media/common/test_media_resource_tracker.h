@@ -4,6 +4,12 @@
 
 // Contains classes to aid in testing code that uses MediaResourceTracker.
 
+// ---docerion
+// type: test
+// title: TestMediaResourceTracker header
+// summary: Declares MediaResourceTrackerTestMocks and TestMediaResourceTracker to aid testing of code that uses MediaResourceTracker.
+// ---
+
 #ifndef CHROMECAST_MEDIA_COMMON_TEST_MEDIA_RESOURCE_TRACKER_H_
 #define CHROMECAST_MEDIA_COMMON_TEST_MEDIA_RESOURCE_TRACKER_H_
 

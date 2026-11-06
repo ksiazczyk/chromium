@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DemuxerStreamForTest implementation
+// summary: Implements a fake video DemuxerStream that serves frames with configurable delays and config changes for unit tests.
+// ---
+
 #include "chromecast/media/cma/base/demuxer_stream_for_test.h"
 
 #include "base/memory/scoped_refptr.h"

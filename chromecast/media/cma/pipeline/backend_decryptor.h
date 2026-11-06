@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Backend decryptor class declaration
+// summary: Declares BackendDecryptor, a StreamDecryptor backed by MediaPipelineBackend::AudioDecryptor.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_PIPELINE_BACKEND_DECRYPTOR_H_
 #define CHROMECAST_MEDIA_CMA_PIPELINE_BACKEND_DECRYPTOR_H_
 

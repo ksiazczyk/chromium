@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast audio manager helper interface
+// summary: Declares CastAudioManagerHelper and its delegate interface for sharing common logic such as session IDs and backend factory access across Cast audio managers.
+// ---
+
 #ifndef CHROMECAST_MEDIA_AUDIO_CAST_AUDIO_MANAGER_HELPER_H_
 #define CHROMECAST_MEDIA_AUDIO_CAST_AUDIO_MANAGER_HELPER_H_
 

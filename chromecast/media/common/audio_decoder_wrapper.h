@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio decoder wrapper header
+// summary: Declares DestructableAudioDecoder, ActiveAudioDecoderWrapper, and AudioDecoderWrapper, which wrap backend audio decoders and support revocation.
+// ---
+
 #ifndef CHROMECAST_MEDIA_COMMON_AUDIO_DECODER_WRAPPER_H_
 #define CHROMECAST_MEDIA_COMMON_AUDIO_DECODER_WRAPPER_H_
 

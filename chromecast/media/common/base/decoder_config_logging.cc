@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Decoder config logging implementation
+// summary: Implements stream output operators that print human-readable names for Chromecast media audio codecs and sample formats for logging purposes.
+// ---
+
 #include "chromecast/media/common/base/decoder_config_logging.h"
 
 #include "base/notreached.h"

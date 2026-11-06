@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: CMA build targets
+summary: GN build file defining the cma group that aggregates backend, base and pipeline components, plus test support and unit test targets.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastDecoderBufferImpl implementation
+// summary: Implements the CastDecoderBufferImpl decoder buffer, including end-of-stream buffer creation plus timestamp and data accessors.
+// ---
+
 #include "chromecast/media/base/cast_decoder_buffer_impl.h"
 
 namespace chromecast {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast audio resampler implementation
+// summary: Implements CastAudioResampler by wrapping per-channel SincResamplers to convert audio between sample rates.
+// ---
+
 #include <algorithm>
 #include <cmath>
 #include <memory>

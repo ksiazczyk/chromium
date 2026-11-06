@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple audio channel endpoint manager
+// summary: Stub implementation of the endpoint manager accessor that is not implemented and returns nullptr.
+// ---
+
 #include "base/notimplemented.h"
 #include "chromecast/media/cma/backend/proxy/cast_runtime_audio_channel_endpoint_manager.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast runtime audio channel endpoint manager
+// summary: Interface providing a global accessor for the endpoint to which the CastMediaAudioChannel should connect.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BACKEND_PROXY_CAST_RUNTIME_AUDIO_CHANNEL_ENDPOINT_MANAGER_H_
 #define CHROMECAST_MEDIA_CMA_BACKEND_PROXY_CAST_RUNTIME_AUDIO_CHANNEL_ENDPOINT_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CMA audio output stream implementation
+// summary: Implements CmaAudioOutputStream, an audio output stream that buffers and pushes audio data to the CMA backend.
+// ---
+
 #include "chromecast/media/audio/cma_audio_output_stream.h"
 
 #include <algorithm>

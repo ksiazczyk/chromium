@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video resolution policy interface
+// summary: Declares the VideoResolutionPolicy interface with observer support, letting the renderer check whether playback of certain video resolutions should be blocked.
+// ---
+
 #ifndef CHROMECAST_MEDIA_BASE_VIDEO_RESOLUTION_POLICY_H_
 #define CHROMECAST_MEDIA_BASE_VIDEO_RESOLUTION_POLICY_H_
 

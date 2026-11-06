@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DemuxerStreamAdapter unit tests
+// summary: Unit tests exercising frame reads, decoder config changes, and flush behavior of DemuxerStreamAdapter using a test demuxer stream.
+// ---
+
 #include "chromecast/media/cma/base/demuxer_stream_adapter.h"
 
 #include <list>

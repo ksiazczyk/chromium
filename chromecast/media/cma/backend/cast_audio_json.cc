@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast audio JSON config reader and file watcher
+// summary: Implements reading and watching the cast_audio.json tuning file, providing its contents and change callbacks to the audio backend.
+// ---
+
 #include "chromecast/media/cma/backend/cast_audio_json.h"
 
 #include <string>

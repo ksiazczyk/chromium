@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WAV file header
+// summary: Defines a packed WavHeader struct for writing WAV file headers with configurable audio format, channel count, sample rate, and data size.
+// ---
+
 #ifndef CHROMECAST_MEDIA_AUDIO_WAV_HEADER_H_
 #define CHROMECAST_MEDIA_AUDIO_WAV_HEADER_H_
 

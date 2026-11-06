@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioDecoderPipelineNode class declaration
+// summary: Declares a pipeline node that wraps a CmaBackend audio decoder and relays calls between child decoders and delegates.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BACKEND_PROXY_AUDIO_DECODER_PIPELINE_NODE_H_
 #define CHROMECAST_MEDIA_CMA_BACKEND_PROXY_AUDIO_DECODER_PIPELINE_NODE_H_
 

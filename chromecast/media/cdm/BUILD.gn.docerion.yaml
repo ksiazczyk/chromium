@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Chromecast media CDM build configuration
+summary: Defines the cast_source_set build targets for the Chromecast CDM sources and the CDM origin provider, along with their dependencies.

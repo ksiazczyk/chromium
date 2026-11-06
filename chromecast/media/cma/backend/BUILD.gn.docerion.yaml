@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Cast media backend build configuration
+summary: Defines GN build targets for the cast media CMA backend, including the backend source set, dummy libcast_media library, null video decoder, volume map, and unit tests.

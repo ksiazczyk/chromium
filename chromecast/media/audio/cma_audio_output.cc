@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CMA audio output implementation
+// summary: Implements CmaAudioOutput, which configures a CMA backend audio decoder and pushes PCM buffers for playback.
+// ---
+
 #include "chromecast/media/audio/cma_audio_output.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop CastMediaShlib implementation
+// summary: Provides desktop CastMediaShlib entry points, including a stub video plane, backend creation, and supported codec checks.
+// ---
+
 #include <memory>
 
 #if defined(ENABLE_VIDEO_WITH_MIXED_AUDIO)

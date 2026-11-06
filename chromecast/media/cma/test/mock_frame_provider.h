@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock frame provider class declaration
+// summary: Declares MockFrameProvider, a CodedFrameProvider test double that delivers frames according to a delayed task pattern.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_TEST_MOCK_FRAME_PROVIDER_H_
 #define CHROMECAST_MEDIA_CMA_TEST_MOCK_FRAME_PROVIDER_H_
 

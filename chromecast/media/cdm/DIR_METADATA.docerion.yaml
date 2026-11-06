@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Chromecast media CDM directory metadata
+summary: Declares the Monorail component and Buganizer component ID used for issue tracking in the Chromecast media CDM directory.

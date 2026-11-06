@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop video decoder class declaration
+// summary: Declares VideoDecoderDesktop, the desktop stub implementation of MediaPipelineBackend::VideoDecoder.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BACKEND_DESKTOP_VIDEO_DECODER_DESKTOP_H_
 #define CHROMECAST_MEDIA_CMA_BACKEND_DESKTOP_VIDEO_DECODER_DESKTOP_H_
 

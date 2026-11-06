@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Decrypt utility header
+// summary: Declares DecoderBufferClear, the BufferDecryptedCB callback type, and DecryptDecoderBuffer for producing clear versions of encrypted decoder buffers.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_PIPELINE_DECRYPT_UTIL_H_
 #define CHROMECAST_MEDIA_CMA_PIPELINE_DECRYPT_UTIL_H_
 

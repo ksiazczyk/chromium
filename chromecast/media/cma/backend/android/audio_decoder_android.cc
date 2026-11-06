@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android audio decoder implementation
+// summary: Implements AudioDecoderAndroid, which decodes cast audio, rate-shifts playback, and pushes PCM output to the Android audio sink.
+// ---
+
 #include "chromecast/media/cma/backend/android/audio_decoder_android.h"
 
 #include <time.h>

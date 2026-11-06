@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastCdm content decryption module interface
+// summary: Declares CastCdm, a ContentDecryptionModule extension providing common synchronous functionality shared by Chromecast CDM implementations.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CDM_CAST_CDM_H_
 #define CHROMECAST_MEDIA_CDM_CAST_CDM_H_
 

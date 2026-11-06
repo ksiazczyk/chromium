@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop volume control implementation
+// summary: Implements the VolumeControl interface for desktop Cast builds, tracking volume and mute state per audio content type and notifying observers on a dedicated thread.
+// ---
+
 #include "chromecast/public/volume_control.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android audio sink interface
+// summary: Declares the AudioSinkAndroid interface for writing PCM, volume, and delay queries, plus the ManagedAudioSink owner wrapper.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BACKEND_ANDROID_AUDIO_SINK_ANDROID_H_
 #define CHROMECAST_MEDIA_CMA_BACKEND_ANDROID_AUDIO_SINK_ANDROID_H_
 

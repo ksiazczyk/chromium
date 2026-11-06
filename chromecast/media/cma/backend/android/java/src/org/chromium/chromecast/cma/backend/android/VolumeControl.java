@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VolumeControl
+// summary: Implements the Java side of Cast volume control on Android by setting stream volume and mute state through AudioManager and reporting system volume changes back to native code.
+// ---
+
 package org.chromium.chromecast.cma.backend.android;
 
 import android.content.BroadcastReceiver;

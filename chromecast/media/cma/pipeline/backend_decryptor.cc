@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Backend decryptor implementation
+// summary: Implements StreamDecryptor using the media pipeline backend's audio decryptor to decrypt buffers.
+// ---
+
 #include "chromecast/media/cma/pipeline/backend_decryptor.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VolumeMap class converting volume levels to dBFS
+// summary: Declares the VolumeMap class that converts between volume levels and dBFS using a map loaded from the cast audio config, with support for reloading when tuning changes.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BACKEND_VOLUME_MAP_H_
 #define CHROMECAST_MEDIA_CMA_BACKEND_VOLUME_MAP_H_
 

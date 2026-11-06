@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Buffering controller implementation
+// summary: Implements the buffering controller that derives a single buffering state from the buffering state of multiple streams.
+// ---
+
 #include "chromecast/media/cma/base/buffering_controller.h"
 
 #include "base/functional/bind.h"

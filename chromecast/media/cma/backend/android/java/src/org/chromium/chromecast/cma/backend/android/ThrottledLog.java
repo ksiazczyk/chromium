@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThrottledLog
+// summary: Provides a simple configurable log throttler that allows an initial burst of log messages and then limits logging to one message per throttle period.
+// ---
+
 package org.chromium.chromecast.cma.backend.android;
 
 /* Implements a simple configurable log throttler. */

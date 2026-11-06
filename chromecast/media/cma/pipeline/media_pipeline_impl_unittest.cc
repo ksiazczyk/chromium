@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaPipelineImpl unit tests
+// summary: Unit tests for MediaPipelineImpl covering flush behavior with buffering disabled and ignoring StartPlayingFrom while per-stream flushes are pending.
+// ---
+
 #include "chromecast/media/cma/pipeline/media_pipeline_impl.h"
 
 #include <memory>

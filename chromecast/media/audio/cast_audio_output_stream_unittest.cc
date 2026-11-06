@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast audio output stream unit tests
+// summary: Unit tests for CastAudioOutputStream using a fake audio decoder, mock CMA backend factory, and mock audio source callbacks.
+// ---
+
 #include "chromecast/media/audio/cast_audio_output_stream.h"
 
 #include <stdint.h>

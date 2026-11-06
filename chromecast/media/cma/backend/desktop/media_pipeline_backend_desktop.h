@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop media pipeline backend class declaration
+// summary: Declares MediaPipelineBackendDesktop, the factory for desktop stub audio and video decoders with playback state handling.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BACKEND_DESKTOP_MEDIA_PIPELINE_BACKEND_DESKTOP_H_
 #define CHROMECAST_MEDIA_CMA_BACKEND_DESKTOP_MEDIA_PIPELINE_BACKEND_DESKTOP_H_
 

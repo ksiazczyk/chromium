@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Frame generator test helper header
+// summary: Declares the FrameGeneratorForTest class and its FrameSpec parameters used to create expected decoder buffers in tests.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_TEST_FRAME_GENERATOR_FOR_TEST_H_
 #define CHROMECAST_MEDIA_CMA_TEST_FRAME_GENERATOR_FOR_TEST_H_
 

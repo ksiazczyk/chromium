@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio output service protocol definitions
+// summary: Defines protobuf messages for controlling audio playback, including backend parameters, start timestamps, playback rate, volume, EOS, and heartbeats.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

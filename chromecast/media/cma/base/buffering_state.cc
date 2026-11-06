@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BufferingState implementation
+// summary: Implements BufferingConfig and BufferingState, tracking media and buffered time to report low, medium, high, or end-of-stream buffering levels.
+// ---
+
 #include "chromecast/media/cma/base/buffering_state.h"
 
 #include <sstream>

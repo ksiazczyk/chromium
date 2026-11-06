@@ -1,3 +1,12 @@
+---
+type: readme
+title: CmaBackendProxy design and architecture overview
+summary: Explains the CmaBackendProxy implementation, its audio proxying pipeline over gRPC, and how to configure it for the Chromium Cast runtime.
+relations:
+  - references /chromecast/public/media/media_pipeline_backend.h
+  - references /chromecast/media/api/cma_backend.h
+---
+
 # Objective
 
 As part of supporting a Chromium runtime for chromecast (as defined below), the

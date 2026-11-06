@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PushBufferQueue unit tests
+// summary: Tests that PushBufferQueue preserves pushed audio buffers and audio configs and reads them back in order across producer and consumer sequences.
+// ---
+
 #include "chromecast/media/cma/backend/proxy/push_buffer_queue.h"
 
 #include <atomic>

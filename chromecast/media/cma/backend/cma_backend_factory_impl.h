@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CMA backend factory header
+// summary: Declares CmaBackendFactoryImpl, which creates CmaBackend instances using a given MediaPipelineBackendManager.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BACKEND_CMA_BACKEND_FACTORY_IMPL_H_
 #define CHROMECAST_MEDIA_CMA_BACKEND_CMA_BACKEND_FACTORY_IMPL_H_
 

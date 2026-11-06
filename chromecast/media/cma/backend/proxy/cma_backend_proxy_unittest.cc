@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CMA backend proxy unit tests
+// summary: Unit tests verifying that CmaBackendProxy forwards backend calls to the delegated video pipeline and audio decoder proxy.
+// ---
+
 #include "chromecast/media/cma/backend/proxy/cma_backend_proxy.h"
 
 #include "base/functional/bind.h"

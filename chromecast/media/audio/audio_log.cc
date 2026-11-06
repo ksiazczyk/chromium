@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio log buffer manager implementation
+// summary: Implements AudioLogMessage stream buffers and a buffer manager that defers audio log output to a lower-priority thread.
+// ---
+
 #include "chromecast/media/audio/audio_log.h"
 
 #include <algorithm>

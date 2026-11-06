@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media capabilities implementation
+// summary: Stores and exposes display capabilities such as screen resolution, HDCP version, EOTF and Dolby Vision support.
+// ---
+
 #include "chromecast/media/base/media_caps.h"
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioSocketService Unix domain socket backend
+// summary: Implements AudioSocketService over Unix domain sockets, including brokered socket descriptor passing.
+// ---
+
 #include <unistd.h>
 
 #include <cstring>

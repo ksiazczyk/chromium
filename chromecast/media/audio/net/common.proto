@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio service common protobuf definitions
+// summary: Defines protobuf enums for content type, sample format, channel layout and audio codecs used by the audio service.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

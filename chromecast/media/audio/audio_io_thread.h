@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioIoThread header
+// summary: Declares AudioIoThread, providing process-wide access to a single realtime audio IO thread and its task runner.
+// ---
+
 #ifndef CHROMECAST_MEDIA_AUDIO_AUDIO_IO_THREAD_H_
 #define CHROMECAST_MEDIA_AUDIO_AUDIO_IO_THREAD_H_
 

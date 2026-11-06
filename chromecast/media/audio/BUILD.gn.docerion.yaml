@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for Cast media audio
+summary: GN build file defining source sets and dependencies for the Chromecast media audio components, including audio log, fader, resampler, and audio manager targets.

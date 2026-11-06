@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Volume cache
+// summary: Caches the Android system volume table and maps between volume levels and dBFS values with interpolation.
+// ---
+
 #include "chromecast/media/cma/backend/android/volume_cache.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android volume control header
+// summary: Declares VolumeControlAndroid, which manages per-content-type volume and mute state, volume caches, and JNI callbacks.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BACKEND_ANDROID_VOLUME_CONTROL_ANDROID_H_
 #define CHROMECAST_MEDIA_CMA_BACKEND_ANDROID_VOLUME_CONTROL_ANDROID_H_
 

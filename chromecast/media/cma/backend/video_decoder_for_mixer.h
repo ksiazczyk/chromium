@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video decoder for mixer interface
+// summary: Defines the VideoDecoderForMixer interface extending the video decoder with playback rate, PTS control and dropped frame reporting for audio-video sync.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BACKEND_VIDEO_DECODER_FOR_MIXER_H_
 #define CHROMECAST_MEDIA_CMA_BACKEND_VIDEO_DECODER_FOR_MIXER_H_
 

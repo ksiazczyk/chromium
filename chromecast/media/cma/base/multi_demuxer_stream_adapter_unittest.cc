@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multi demuxer stream adapter unit test
+// summary: Unit test that reads frames from multiple demuxer stream adapters and verifies frame delivery, config changes and stream end handling.
+// ---
+
 #include <memory>
 #include <vector>
 

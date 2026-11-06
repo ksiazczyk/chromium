@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast audio output device ID utilities
+// summary: Declares helpers that validate cast audio device IDs and map a device ID to its group ID.
+// ---
+
 #ifndef CHROMECAST_MEDIA_AUDIO_CAST_AUDIO_OUTPUT_UTILS_H_
 #define CHROMECAST_MEDIA_AUDIO_CAST_AUDIO_OUTPUT_UTILS_H_
 

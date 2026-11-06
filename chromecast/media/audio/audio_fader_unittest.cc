@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioFader unit tests
+// summary: Unit tests covering AudioFader startup buffering, fade in and out across buffers, and frames needed from the source.
+// ---
+
 #include "chromecast/media/audio/audio_fader.h"
 
 #include <algorithm>

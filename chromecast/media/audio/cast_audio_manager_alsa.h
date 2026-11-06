@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ALSA Cast audio manager header
+// summary: Declares CastAudioManagerAlsa, extending CastAudioManager with ALSA-based audio input stream support.
+// ---
+
 #ifndef CHROMECAST_MEDIA_AUDIO_CAST_AUDIO_MANAGER_ALSA_H_
 #define CHROMECAST_MEDIA_AUDIO_CAST_AUDIO_MANAGER_ALSA_H_
 

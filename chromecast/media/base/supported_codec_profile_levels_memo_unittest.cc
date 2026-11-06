@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Supported codec profile levels memo unit tests
+// summary: Unit tests verifying that IsSupportedVideoConfig rejects configs when no profiles are added and accepts only added codec profile levels.
+// ---
+
 #include "chromecast/media/base/supported_codec_profile_levels_memo.h"
 
 #include "chromecast/public/media/decoder_config.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast channel mixer implementation
+// summary: Implements CastChannelMixer as a wrapper around the Chromium media ChannelMixer for channel layout conversion.
+// ---
+
 #include "chromecast/media/api/cast_channel_mixer.h"
 
 #include "chromecast/media/cma/base/decoder_config_adapter.h"

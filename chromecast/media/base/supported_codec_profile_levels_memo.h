@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supported codec profile levels memo header
+// summary: Declares SupportedCodecProfileLevelsMemo, a thread-safe memo of video codec profiles and levels supported by the browser process, with checks for supported video configs.
+// ---
+
 #ifndef CHROMECAST_MEDIA_BASE_SUPPORTED_CODEC_PROFILE_LEVELS_MEMO_H_
 #define CHROMECAST_MEDIA_BASE_SUPPORTED_CODEC_PROFILE_LEVELS_MEMO_H_
 

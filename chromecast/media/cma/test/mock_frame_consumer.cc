@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock frame consumer verifying coded frame reads
+// summary: Reads frames from a coded frame provider, compares them against expected generated frames, and verifies flush behavior in tests.
+// ---
+
 #include "chromecast/media/cma/test/mock_frame_consumer.h"
 
 #include "base/compiler_specific.h"

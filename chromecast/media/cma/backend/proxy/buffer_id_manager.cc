@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BufferIdManager implementation
+// summary: Assigns buffer IDs and tracks playout timestamps to keep proxied and local audio playback synchronized.
+// ---
+
 #include "chromecast/media/cma/backend/proxy/buffer_id_manager.h"
 
 #include <cmath>

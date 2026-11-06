@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast audio decoder implementation
+// summary: Implements CastAudioDecoder, decoding encoded audio to PCM output using FFmpeg or Symphonia audio decoders depending on build flags and codec support.
+// ---
+
 #include "chromecast/media/api/cast_audio_decoder.h"
 
 #include <cstdint>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DecoderConfigAdapter unit tests
+// summary: Unit test verifying that ToCastVideoConfig populates the video codec level from a Chromium VideoDecoderConfig.
+// ---
+
 #include "chromecast/media/cma/base/decoder_config_adapter.h"
 
 #include "chromecast/public/media/decoder_config.h"

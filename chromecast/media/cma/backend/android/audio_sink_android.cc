@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android audio sink base implementation
+// summary: Implements ManagedAudioSink, which creates and tracks AudioTrack-based sinks, and forwards minimum buffered time queries.
+// ---
+
 #include "chromecast/media/cma/backend/android/audio_sink_android.h"
 
 #include "base/logging.h"

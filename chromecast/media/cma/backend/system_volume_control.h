@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System volume control interface
+// summary: Defines the SystemVolumeControl interface for setting system volume, mute, power save and volume limits and notifying a delegate of changes.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BACKEND_SYSTEM_VOLUME_CONTROL_H_
 #define CHROMECAST_MEDIA_CMA_BACKEND_SYSTEM_VOLUME_CONTROL_H_
 

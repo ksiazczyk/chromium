@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rate adjuster implementation
+// summary: Implements RateAdjuster, which runs a weighted linear regression over error samples and adjusts the clock rate to keep timing errors near zero.
+// ---
+
 #include "chromecast/media/audio/rate_adjuster.h"
 
 #include <algorithm>

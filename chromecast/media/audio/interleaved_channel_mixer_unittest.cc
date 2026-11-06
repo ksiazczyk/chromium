@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interleaved channel mixer unit tests
+// summary: Parameterized tests verifying InterleavedChannelMixer output matches the upstream ChannelMixer across common layouts.
+// ---
+
 #include "chromecast/media/audio/interleaved_channel_mixer.h"
 
 #include <cmath>

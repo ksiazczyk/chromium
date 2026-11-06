@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast runtime audio channel broker
+// summary: Callback-based abstraction over gRPC calls for the Cast audio decoder channel, hiding gRPC implementation details.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BACKEND_PROXY_CAST_RUNTIME_AUDIO_CHANNEL_BROKER_H_
 #define CHROMECAST_MEDIA_CMA_BACKEND_PROXY_CAST_RUNTIME_AUDIO_CHANNEL_BROKER_H_
 

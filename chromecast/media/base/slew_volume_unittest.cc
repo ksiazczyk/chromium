@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Slew volume unit tests
+// summary: Unit tests verifying SlewVolume scaling of audio data with linear and cosine slewing.
+// ---
+
 #include "chromecast/media/base/slew_volume.h"
 
 #include <array>

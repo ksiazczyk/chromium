@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External audio decoder wrapper header
+// summary: Declares ExternalAudioDecoderWrapper, a CastAudioDecoder implementation backed by an external decoder library, with config support checks and decode handling.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_DECODER_EXTERNAL_AUDIO_DECODER_WRAPPER_H_
 #define CHROMECAST_MEDIA_CMA_DECODER_EXTERNAL_AUDIO_DECODER_WRAPPER_H_
 

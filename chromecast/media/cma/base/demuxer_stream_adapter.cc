@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DemuxerStreamAdapter implementation
+// summary: Implements wrapping a DemuxerStream as a CodedFrameProvider, handling paced reads, buffer delivery, and flush semantics.
+// ---
+
 #include "chromecast/media/cma/base/demuxer_stream_adapter.h"
 
 #include <utility>

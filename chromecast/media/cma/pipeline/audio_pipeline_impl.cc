@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio pipeline implementation
+// summary: Implements the Cast audio pipeline, configuring the audio decoder and creating backend or CDM decryptors.
+// ---
+
 #include "chromecast/media/cma/pipeline/audio_pipeline_impl.h"
 
 #include <stddef.h>

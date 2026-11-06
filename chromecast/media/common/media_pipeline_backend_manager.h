@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media pipeline backend manager header
+// summary: Declares MediaPipelineBackendManager, a CmaBackendFactory that tracks backends, decoder counts, buffer delegates, and active audio stream observers.
+// ---
+
 #ifndef CHROMECAST_MEDIA_COMMON_MEDIA_PIPELINE_BACKEND_MANAGER_H_
 #define CHROMECAST_MEDIA_COMMON_MEDIA_PIPELINE_BACKEND_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Volume cache header
+// summary: Declares VolumeCache and the SystemVolumeTableAccessApi interface used to populate the volume table cache.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BACKEND_ANDROID_VOLUME_CACHE_H_
 #define CHROMECAST_MEDIA_CMA_BACKEND_ANDROID_VOLUME_CACHE_H_
 

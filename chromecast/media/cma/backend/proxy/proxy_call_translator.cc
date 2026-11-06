@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyCallTranslator implementation
+// summary: Implements translation between CmaBackend client types and the internal gRPC audio channel types, including codec, channel layout, and sample format conversions.
+// ---
+
 #include "chromecast/media/cma/backend/proxy/proxy_call_translator.h"
 
 #include "base/functional/bind.h"

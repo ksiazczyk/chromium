@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop media pipeline backend implementation
+// summary: Implements MediaPipelineBackendDesktop, managing playback state and coordinating the desktop audio and video decoders.
+// ---
+
 #include "chromecast/media/cma/backend/desktop/media_pipeline_backend_desktop.h"
 
 #include "base/check_op.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for Cast audio networking
+summary: Defines proto library and source set targets for the Cast audio socket networking code.

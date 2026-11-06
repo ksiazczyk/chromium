@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop media sink implementation
+// summary: Implements MediaSinkDesktop, which interpolates playback time, tracks buffer timestamps, and schedules end-of-stream callbacks.
+// ---
+
 #include "chromecast/media/cma/backend/desktop/media_sink_desktop.h"
 
 #include "base/functional/bind.h"

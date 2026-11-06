@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CdmDecryptor implementation
+// summary: Implements the StreamDecryptor interface with CDM decrypt APIs, decrypting buffers when clear output is required and otherwise passing them to the media pipeline backend.
+// ---
+
 #include "chromecast/media/cma/pipeline/cdm_decryptor.h"
 
 #include "base/functional/bind.h"

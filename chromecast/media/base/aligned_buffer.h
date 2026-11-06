@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AlignedBuffer template for 16-byte aligned memory
+// summary: Header defining a template class for 16-byte aligned buffers with copy, move, resize, assign, and element access operations.
+// ---
+
 #ifndef CHROMECAST_MEDIA_BASE_ALIGNED_BUFFER_H_
 #define CHROMECAST_MEDIA_BASE_ALIGNED_BUFFER_H_
 

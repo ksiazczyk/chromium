@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock frame consumer class declaration
+// summary: Declares MockFrameConsumer, which consumes frames from a CodedFrameProvider with configurable read delays and flush behavior.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_TEST_MOCK_FRAME_CONSUMER_H_
 #define CHROMECAST_MEDIA_CMA_TEST_MOCK_FRAME_CONSUMER_H_
 

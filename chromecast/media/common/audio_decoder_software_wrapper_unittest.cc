@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio decoder software wrapper unit tests
+// summary: Unit tests for AudioDecoderSoftwareWrapper covering software decoder selection and buffer retention across revocation in AudioDecoderWrapper.
+// ---
+
 #include "chromecast/media/common/audio_decoder_software_wrapper.h"
 
 #include <memory>

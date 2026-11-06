@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DefaultMonotonicClock declaration
+// summary: Declares MonotonicClockNow and DefaultMonotonicClock, which provide CLOCK_MONOTONIC time in microseconds for media rendering delays.
+// ---
+
 #ifndef CHROMECAST_MEDIA_BASE_DEFAULT_MONOTONIC_CLOCK_H_
 #define CHROMECAST_MEDIA_BASE_DEFAULT_MONOTONIC_CLOCK_H_
 

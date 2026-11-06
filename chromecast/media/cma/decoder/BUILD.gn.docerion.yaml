@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for the Cast media decoder source set
+summary: GN build file defining the decoder source set with its source files and dependencies on base, media, and Chromecast media targets.

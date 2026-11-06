@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastAudioBus class header
+// summary: Declares CastAudioBus, a simplified version of ::media::AudioBus without any dependency on //media.
+// ---
+
 #ifndef CHROMECAST_MEDIA_AUDIO_CAST_AUDIO_BUS_H_
 #define CHROMECAST_MEDIA_AUDIO_CAST_AUDIO_BUS_H_
 

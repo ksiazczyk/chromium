@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PushBufferQueue implementation
+// summary: Implements a lockless FIFO that serializes PushBuffer protobuf requests into a shared byte buffer for producer and consumer sequences exchanging data over gRPC.
+// ---
+
 #include "chromecast/media/cma/backend/proxy/push_buffer_queue.h"
 
 #include <atomic>

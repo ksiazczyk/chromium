@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the desktop media backend
+summary: GN build file defining the desktop source set with the stub media backend implementations used on desktop builds for tests.

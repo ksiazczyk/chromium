@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast audio manager implementation
+// summary: Implements the Cast audio manager that creates Cast audio output streams and reports available output devices.
+// ---
+
 #include "chromecast/media/audio/cast_audio_manager.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast audio JSON provider interface
+// summary: Declares CastAudioJson path helpers and the CastAudioJsonProvider interface for reading cast_audio.json and registering tuning change callbacks.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BACKEND_CAST_AUDIO_JSON_H_
 #define CHROMECAST_MEDIA_CMA_BACKEND_CAST_AUDIO_JSON_H_
 

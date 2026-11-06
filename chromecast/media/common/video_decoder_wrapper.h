@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoDecoderWrapper header
+// summary: Declares VideoDecoderWrapper, which wraps a MediaPipelineBackend video decoder and supports revoking it via an internal revoked decoder implementation.
+// ---
+
 #ifndef CHROMECAST_MEDIA_COMMON_VIDEO_DECODER_WRAPPER_H_
 #define CHROMECAST_MEDIA_COMMON_VIDEO_DECODER_WRAPPER_H_
 

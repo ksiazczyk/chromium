@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoPipelineClient implementation
+// summary: Implements the constructor, move operations and destructor for the VideoPipelineClient struct.
+// ---
+
 #include "chromecast/media/cma/pipeline/video_pipeline_client.h"
 
 namespace chromecast {

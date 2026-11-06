@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the Android cast media backend
+summary: Defines build targets for the Android cast media backend, including the cast_media_android source set, JNI generation for AudioTrack Java helpers, and unit tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaPipelineBufferExtension header
+// summary: Declares MediaPipelineBufferExtension, a layer over another CmaBackend that queues PushBuffer and SetConfig commands before delegating them to the underlying decoder.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BACKEND_PROXY_MEDIA_PIPELINE_BUFFER_EXTENSION_H_
 #define CHROMECAST_MEDIA_CMA_BACKEND_PROXY_MEDIA_PIPELINE_BUFFER_EXTENSION_H_
 

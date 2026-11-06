@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android volume control
+// summary: Implements volume and mute control on Android through JNI, mapping levels between content-type volume tables and notifying observers.
+// ---
+
 #include "chromecast/media/cma/backend/android/volume_control_android.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio service type conversion implementations
+// summary: Implements conversions between audio service sample formats, content types, channel layouts and codecs and the corresponding Chromium media types, plus sample size calculation.
+// ---
+
 #include "chromecast/media/audio/net/conversions.h"
 
 #include "base/notreached.h"

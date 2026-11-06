@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the CMA backend proxy
+summary: Defines GN source sets and a gRPC proto library template for building the CMA backend proxy code.

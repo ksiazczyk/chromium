@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop media sink class declaration
+// summary: Declares MediaSinkDesktop, a time-interpolating sink used by the desktop decoders for playback progress and EOS handling.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BACKEND_DESKTOP_MEDIA_SINK_DESKTOP_H_
 #define CHROMECAST_MEDIA_CMA_BACKEND_DESKTOP_MEDIA_SINK_DESKTOP_H_
 

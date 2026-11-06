@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CMA backend proxy implementation
+// summary: Implements the backend proxy that forwards audio operations to a remote decoder and delegates video to a local backend.
+// ---
+
 #include "chromecast/media/cma/backend/proxy/cma_backend_proxy.h"
 
 #include <algorithm>

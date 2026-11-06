@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio decoder software wrapper implementation
+// summary: Implements AudioDecoderSoftwareWrapper, which transparently falls back to software decoding when the backend audio decoder does not support the incoming audio config.
+// ---
+
 #include "chromecast/media/common/audio_decoder_software_wrapper.h"
 
 #include <algorithm>

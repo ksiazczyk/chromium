@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Balanced media task runner factory implementation
+// summary: Implements media task runners that loosely synchronize task execution across runners based on timestamps and a maximum deviation.
+// ---
+
 #include "chromecast/media/cma/base/balanced_media_task_runner_factory.h"
 
 #include <map>

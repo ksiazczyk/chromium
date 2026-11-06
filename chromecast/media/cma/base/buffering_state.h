@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BufferingState class declaration
+// summary: Declares BufferingConfig thresholds and BufferingState, which tracks stream buffering levels and notifies on state changes.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BASE_BUFFERING_STATE_H_
 #define CHROMECAST_MEDIA_CMA_BASE_BUFFERING_STATE_H_
 

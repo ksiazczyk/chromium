@@ -4,6 +4,12 @@
 
 // Scale volume with slew rate limiting
 
+// ---docerion
+// type: source
+// title: Slew volume class declaration
+// summary: Declares SlewVolume, which smoothly applies volume changes to audio buffers with slew rate limiting.
+// ---
+
 #ifndef CHROMECAST_MEDIA_BASE_SLEW_VOLUME_H_
 #define CHROMECAST_MEDIA_BASE_SLEW_VOLUME_H_
 

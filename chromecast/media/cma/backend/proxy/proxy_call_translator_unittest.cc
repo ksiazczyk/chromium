@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProxyCallTranslator unit tests
+// summary: Unit tests for ProxyCallTranslator using mock decoder channels, translator clients, and push buffer handlers to verify gRPC call translation and error handling.
+// ---
+
 #include "chromecast/media/cma/backend/proxy/proxy_call_translator.h"
 
 #include <memory>

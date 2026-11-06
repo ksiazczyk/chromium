@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media codec support conversion declarations
+// summary: Declares functions converting Chromium media codecs and profiles to Chromecast codec enums.
+// ---
+
 #ifndef CHROMECAST_MEDIA_BASE_MEDIA_CODEC_SUPPORT_H_
 #define CHROMECAST_MEDIA_BASE_MEDIA_CODEC_SUPPORT_H_
 

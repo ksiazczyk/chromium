@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AvSync interface for audio-video synchronization
+// summary: Defines the AvSync interface that treats video as master and syncs audio to it, with notifications for start, stop, pause, resume and playback rate changes.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_BACKEND_AV_SYNC_H_
 #define CHROMECAST_MEDIA_CMA_BACKEND_AV_SYNC_H_
 

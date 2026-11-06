@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioIoThread implementation
+// summary: Implements the AudioIoThread singleton that starts a process-wide realtime audio IO thread.
+// ---
+
 #include "chromecast/media/audio/audio_io_thread.h"
 
 #include "base/check.h"

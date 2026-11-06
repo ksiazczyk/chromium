@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoPipelineClient struct
+// summary: Declares the VideoPipelineClient struct bundling AV pipeline client callbacks with a natural video size change notification callback.
+// ---
+
 #ifndef CHROMECAST_MEDIA_CMA_PIPELINE_VIDEO_PIPELINE_CLIENT_H_
 #define CHROMECAST_MEDIA_CMA_PIPELINE_VIDEO_PIPELINE_CLIENT_H_
 

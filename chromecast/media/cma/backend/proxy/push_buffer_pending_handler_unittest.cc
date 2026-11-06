@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PushBufferPendingHandler unit tests
+// summary: Unit tests verifying that PushBufferPendingHandler queues and replays buffered PushBuffer requests and audio configs against a mocked handler and client.
+// ---
+
 #include "chromecast/media/cma/backend/proxy/push_buffer_pending_handler.h"
 
 #include <cstring>

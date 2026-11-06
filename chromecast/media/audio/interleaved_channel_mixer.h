@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InterleavedChannelMixer class header
+// summary: Declares InterleavedChannelMixer, which converts interleaved audio from one channel layout to another.
+// ---
+
 #ifndef CHROMECAST_MEDIA_AUDIO_INTERLEAVED_CHANNEL_MIXER_H_
 #define CHROMECAST_MEDIA_AUDIO_INTERLEAVED_CHANNEL_MIXER_H_
 

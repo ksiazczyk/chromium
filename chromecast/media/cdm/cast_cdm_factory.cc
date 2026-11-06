@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastCdmFactory implementation
+// summary: Implements CastCdmFactory, creating platform CDMs for PlayReady or Widevine key systems and initializing them asynchronously on a task runner.
+// ---
+
 #include "chromecast/media/cdm/cast_cdm_factory.h"
 
 #include "base/functional/bind.h"

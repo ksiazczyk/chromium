@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock coded frame provider implementation
+// summary: Implements a CodedFrameProvider that delivers generated frames with configurable delays and an optional delayed flush for tests.
+// ---
+
 #include "chromecast/media/cma/test/mock_frame_provider.h"
 
 #include "base/functional/bind.h"

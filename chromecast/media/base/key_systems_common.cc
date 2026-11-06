@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast key system lookup implementation
+// summary: Maps key system name strings such as Widevine to CastKeySystem values for Chromecast media.
+// ---
+
 #include "chromecast/media/base/key_systems_common.h"
 
 #include <cstddef>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio service type conversion declarations
+// summary: Declares conversion functions between audio service and Chromium media sample formats, content types, channel layouts and audio codecs.
+// ---
+
 #ifndef CHROMECAST_MEDIA_AUDIO_NET_CONVERSIONS_H_
 #define CHROMECAST_MEDIA_AUDIO_NET_CONVERSIONS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioSocketService Unix domain socket unit tests
+// summary: Unit tests for AudioSocketService over Unix domain sockets, with and without descriptor passing.
+// ---
+
 #include "chromecast/media/audio/net/audio_socket_service.h"
 
 #include <memory>

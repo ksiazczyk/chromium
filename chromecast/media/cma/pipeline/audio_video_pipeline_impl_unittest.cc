@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio and video pipeline unit tests
+// summary: Unit tests for MediaPipelineImpl using a mock CMA backend, mock frame providers and a test CDM context.
+// ---
+
 #include <memory>
 #include <utility>
 #include <vector>

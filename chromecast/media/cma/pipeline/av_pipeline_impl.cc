@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AV pipeline implementation
+// summary: Implements shared audio/video pipeline logic for buffering, decryption and feeding frames to the backend decoder.
+// ---
+
 #include "chromecast/media/cma/pipeline/av_pipeline_impl.h"
 
 #include <utility>
