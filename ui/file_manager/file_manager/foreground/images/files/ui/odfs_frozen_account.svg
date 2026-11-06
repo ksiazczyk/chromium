@@ -1,3 +1,9 @@
+<!--docerion
+type: asset
+title: ODFS frozen account illustration
+summary: Illustration for the ODFS frozen account state, showing a question mark and warning shapes with cros-sys color variables.
+-->
+
 <svg id="odfs_frozen_account" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 100" xml:space="preserve" fill="none">
 <path d="M194 59.999C197.314 59.999 200 57.3127 200 53.999C200 50.6853 197.314 47.999 194 47.999C190.686 47.999 188 50.6853 188 53.999C188 57.3127 190.686 59.999 194 59.999Z" fill="var(--cros-sys-illo-color3)"/>
 <path d="M13.626 14.5788L0.78066 24.2145C0.16416 24.677 0.27916 25.5797 0.95266 25.8352L15.2626 31.5318C15.9361 31.7873 16.6554 31.2477 16.5985 30.5297L15.1338 15.1973C15.0404 14.4306 14.1911 14.1548 13.626 14.5788Z" fill="var(--cros-sys-illo-color1-2)"/>
