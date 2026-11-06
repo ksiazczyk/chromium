@@ -1,0 +1,4 @@
+# Docerion header of cacheable_1hr.pac.mock-http-headers.
+type: data
+title: cacheable_1hr.pac mock HTTP headers
+summary: Mock HTTP response headers serving cacheable_1hr.pac as 200 OK with a one-hour Cache-Control max-age.

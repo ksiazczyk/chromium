@@ -1,0 +1,4 @@
+# Docerion header of net_url_request_fuzzer.dict.
+type: data
+title: URL request fuzzer dictionary
+summary: libFuzzer dictionary of HTTP/1.x status lines, headers, status codes and RFC 3986 tokens for the net URL request fuzzer.

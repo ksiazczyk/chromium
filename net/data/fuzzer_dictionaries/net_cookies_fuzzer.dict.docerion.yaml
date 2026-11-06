@@ -1,0 +1,4 @@
+# Docerion header of net_cookies_fuzzer.dict.
+type: data
+title: net_cookies_fuzzer.dict
+summary: libFuzzer dictionary with cookie attribute keywords, delimiters and special characters for fuzzing cookie line parsers.

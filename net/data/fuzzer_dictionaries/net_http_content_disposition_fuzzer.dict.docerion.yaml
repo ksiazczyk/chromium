@@ -1,0 +1,4 @@
+# Docerion header of net_http_content_disposition_fuzzer.dict.
+type: test
+title: HTTP content disposition fuzzer dictionary
+summary: Fuzzer dictionary of Content-Disposition header tokens, charsets and separators for the net HTTP content disposition fuzzer.

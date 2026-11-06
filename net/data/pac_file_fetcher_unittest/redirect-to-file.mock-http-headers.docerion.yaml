@@ -1,0 +1,4 @@
+# Docerion header of redirect-to-file.mock-http-headers.
+type: test
+title: redirect-to-file mock HTTP headers
+summary: Mock HTTP response headers for the PAC file fetcher unit tests, simulating a 302 redirect response that points to a file URL.

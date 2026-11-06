@@ -1,0 +1,4 @@
+# Docerion header of http_chunked_decoder_fuzzer.dict.
+type: data
+title: http_chunked_decoder_fuzzer.dict
+summary: libFuzzer dictionary of hex digits, chunk-size and header tokens used to guide fuzzing of the HTTP chunked decoder.

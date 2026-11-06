@@ -1,0 +1,4 @@
+# Docerion header of gzipped_pac.mock-http-headers.
+type: data
+title: Mock HTTP headers for gzipped PAC fixture
+summary: Mock HTTP response headers declaring gzip content encoding for the gzipped PAC file used in fetcher tests.

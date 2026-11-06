@@ -1,0 +1,4 @@
+# Docerion header of utf8_bom.
+type: data
+title: UTF-8 BOM PAC file fixture
+summary: PAC script fixture with a UTF-8 byte order mark, used to test BOM handling when fetching PAC files.

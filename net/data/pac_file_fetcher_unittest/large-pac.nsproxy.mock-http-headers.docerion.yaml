@@ -1,0 +1,4 @@
+# Docerion header of large-pac.nsproxy.mock-http-headers.
+type: data
+title: Mock HTTP headers for large PAC fixture
+summary: Mock HTTP response headers serving the large PAC file as proxy auto-config content.

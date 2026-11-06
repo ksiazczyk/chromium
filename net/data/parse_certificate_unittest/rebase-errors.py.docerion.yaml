@@ -1,0 +1,4 @@
+# Docerion header of rebase-errors.py.
+type: script
+title: Rebase certificate test error expectations
+summary: Helper script that rewrites the ERRORS blocks in test .pem files based on failing ParseCertificate unittest output to rebaseline error expectations.

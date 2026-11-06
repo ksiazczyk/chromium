@@ -1,0 +1,4 @@
+# Docerion header of net_http_auth_handler_digest_fuzzer.dict.
+type: data
+title: net_http_auth_handler_digest_fuzzer.dict
+summary: libFuzzer dictionary with Digest challenge parameters such as nonce, qop and algorithm for fuzzing the HTTP Digest auth handler.

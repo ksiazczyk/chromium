@@ -1,0 +1,4 @@
+# Docerion header of net_http_proxy_client_socket_fuzzer.dict.
+type: test
+title: HTTP proxy client socket fuzzer dictionary
+summary: Fuzzer dictionary of HTTP/1.x status lines, common headers and proxy authentication tokens for the HTTP proxy client socket fuzzer.

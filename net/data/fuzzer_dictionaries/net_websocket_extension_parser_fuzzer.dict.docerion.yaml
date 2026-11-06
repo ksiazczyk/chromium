@@ -1,0 +1,4 @@
+# Docerion header of net_websocket_extension_parser_fuzzer.dict.
+type: data
+title: WebSocket extension parser fuzzer dictionary
+summary: libFuzzer dictionary of permessage-deflate extension tokens and separators for the WebSocket extension parser fuzzer.

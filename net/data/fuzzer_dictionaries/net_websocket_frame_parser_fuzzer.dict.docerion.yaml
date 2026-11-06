@@ -1,0 +1,4 @@
+# Docerion header of net_websocket_frame_parser_fuzzer.dict.
+type: data
+title: WebSocket frame parser fuzzer dictionary
+summary: libFuzzer dictionary of RFC 6455 WebSocket frame tokens, generated from the frame parser fuzzer binary, for fuzzing the frame parser.

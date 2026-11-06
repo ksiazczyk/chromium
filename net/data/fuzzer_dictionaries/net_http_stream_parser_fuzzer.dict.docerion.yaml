@@ -1,0 +1,4 @@
+# Docerion header of net_http_stream_parser_fuzzer.dict.
+type: test
+title: HTTP stream parser fuzzer dictionary
+summary: Fuzzer dictionary of HTTP/1.x status lines, headers and RFC 2616 tokens for the HTTP stream parser fuzzer.

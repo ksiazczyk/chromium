@@ -1,0 +1,4 @@
+# Docerion header of 2.txt.
+type: test
+title: Signature header fuzzer corpus entry with ed25519key
+summary: Fuzzer corpus input with a single srisig signature entry that includes an ed25519key parameter plus validity and date details.

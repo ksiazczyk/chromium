@@ -1,0 +1,4 @@
+# Docerion header of net_parse_proxy_host_matching_rules_fuzzer.dict.
+type: test
+title: Proxy host matching rules fuzzer dictionary
+summary: Fuzzer dictionary with IP addresses, CIDR prefixes and scheme tokens for the proxy host matching rules parser fuzzer.

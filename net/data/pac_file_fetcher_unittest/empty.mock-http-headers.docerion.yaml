@@ -1,0 +1,4 @@
+# Docerion header of empty.mock-http-headers.
+type: data
+title: empty mock HTTP headers
+summary: Mock HTTP response headers serving the empty fixture as 200 OK with application/x-ns-proxy-autoconfig content type.

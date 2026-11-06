@@ -1,0 +1,4 @@
+# Docerion header of openssl_conf.py.
+type: source
+title: OpenSSL configuration file helpers
+summary: Python classes for representing, manipulating, and writing OpenSSL .cnf configuration files as sections of key/value properties.

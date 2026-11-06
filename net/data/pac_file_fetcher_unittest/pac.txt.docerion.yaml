@@ -1,0 +1,4 @@
+# Docerion header of pac.txt.
+type: data
+title: Plain text PAC test fixture
+summary: Plain text fixture whose body marks it as the pac.txt response in PAC file fetcher tests.

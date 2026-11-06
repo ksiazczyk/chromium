@@ -1,0 +1,4 @@
+# Docerion header of 4.txt.
+type: test
+title: Accept header list fuzzer corpus entry
+summary: Fuzzer corpus input with Accept-style header lists such as Accept, Accept-Encoding and Accept-Language with parameters.

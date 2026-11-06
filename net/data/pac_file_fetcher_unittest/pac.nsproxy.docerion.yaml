@@ -1,0 +1,4 @@
+# Docerion header of pac.nsproxy.
+type: data
+title: PAC nsproxy test fixture
+summary: Proxy auto-config fixture whose body marks it as the pac.nsproxy response in fetcher tests.

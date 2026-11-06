@@ -1,0 +1,4 @@
+# Docerion header of net_http_auth_handler_basic_fuzzer.dict.
+type: data
+title: net_http_auth_handler_basic_fuzzer.dict
+summary: libFuzzer dictionary with realm and challenge tokens for fuzzing the HTTP Basic authentication handler.

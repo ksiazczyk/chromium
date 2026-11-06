@@ -1,0 +1,4 @@
+# Docerion header of net_http_security_headers_fuzzer.dict.
+type: test
+title: HTTP security headers fuzzer dictionary
+summary: Fuzzer dictionary with HSTS and HPKP header parts such as pin-sha256 and max-age for the HTTP security headers fuzzer.

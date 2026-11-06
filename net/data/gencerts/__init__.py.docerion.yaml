@@ -1,0 +1,4 @@
+# Docerion header of __init__.py.
+type: source
+title: Certificate generation helpers
+summary: Python helpers that generate signed X.509v3 certificates by shelling out to the openssl req and openssl ca commands with generated configuration files.

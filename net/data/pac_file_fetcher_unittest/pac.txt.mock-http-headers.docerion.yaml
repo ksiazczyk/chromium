@@ -1,0 +1,4 @@
+# Docerion header of pac.txt.mock-http-headers.
+type: data
+title: Mock HTTP headers for pac.txt
+summary: Mock HTTP response headers serving pac.txt as plain text content.

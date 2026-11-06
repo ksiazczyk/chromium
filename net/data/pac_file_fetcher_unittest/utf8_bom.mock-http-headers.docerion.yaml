@@ -1,0 +1,4 @@
+# Docerion header of utf8_bom.mock-http-headers.
+type: data
+title: UTF-8 BOM PAC mock HTTP headers
+summary: Mock HTTP response headers serving a PAC file with the proxy autoconfig MIME type for the UTF-8 BOM test case.

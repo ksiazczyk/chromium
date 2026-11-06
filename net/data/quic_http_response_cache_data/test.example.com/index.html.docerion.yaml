@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: data
+title: Cached Example Domain index page
+summary: Cached HTTP response for the test.example.com index page, storing the Example Domain HTML body together with its response headers in the QUIC response cache.

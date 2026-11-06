@@ -1,0 +1,4 @@
+# Docerion header of net_spdy_session_fuzzer.dict.
+type: test
+title: SPDY session fuzzer dictionary
+summary: Fuzzer dictionary of encoded HTTP/2 frames such as DATA, HEADERS, SETTINGS and GOAWAY for the SPDY session fuzzer.

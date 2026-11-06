@@ -1,0 +1,4 @@
+# Docerion header of 1.txt.
+type: test
+title: Signature header fuzzer corpus entry with two signatures
+summary: Fuzzer corpus input with two signature header examples carrying sig, integrity, validity-url, cert-url, cert-sha256, date and expires parameters.
