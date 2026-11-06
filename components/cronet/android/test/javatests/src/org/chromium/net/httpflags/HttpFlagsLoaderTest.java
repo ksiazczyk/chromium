@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HttpFlagsLoaderTest
+// summary: Instrumentation tests checking that HttpFlagsLoader loads the HTTP flags file only when manifest metadata enables it and the Android version supports the provider APIs.
+// ---
+
 package org.chromium.net.httpflags;
 
 import static com.google.common.truth.Truth.assertThat;

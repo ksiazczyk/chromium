@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preference name constants for custom handlers
+// summary: Defines preference name constants for registered, ignored, and policy-managed protocol handlers plus the custom handlers enabled flag.
+// ---
+
 #include "components/custom_handlers/pref_names.h"
 
 namespace custom_handlers {

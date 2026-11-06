@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Translation context and target overrides
+# summary: Defines override primitives and TranslationContext, which stores per-channel module naming, denylists, and target-specific argument overrides.
+# ---
+
 import gn_utils  # noqa: F401
 
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Register protocol handler permission request implementation
+// summary: Implements the permission prompt request for registering a protocol handler, building message text and applying the user's decision to the registry.
+// ---
+
 #include "components/custom_handlers/register_protocol_handler_permission_request.h"
 
 #include <variant>

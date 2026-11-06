@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Register protocol handler permission request declaration
+// summary: Declares the PermissionRequest subclass that supplies display data for prompts when a page registers a protocol handler.
+// ---
+
 #ifndef COMPONENTS_CUSTOM_HANDLERS_REGISTER_PROTOCOL_HANDLER_PERMISSION_REQUEST_H_
 #define COMPONENTS_CUSTOM_HANDLERS_REGISTER_PROTOCOL_HANDLER_PERMISSION_REQUEST_H_
 

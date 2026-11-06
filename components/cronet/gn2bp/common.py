@@ -1,6 +1,13 @@
 # Copyright 2025 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Shared constants and helpers for gn2bp
+# summary: Holds common paths, the supported architecture list, source file checks, GN label helpers, and a thread pool runner used across gn2bp.
+# ---
+
 import os
 import multiprocessing.dummy
 from typing import Callable, List, Any

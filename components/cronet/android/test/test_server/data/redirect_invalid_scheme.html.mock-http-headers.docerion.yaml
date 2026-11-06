@@ -1,0 +1,4 @@
+# Docerion header of redirect_invalid_scheme.html.mock-http-headers.
+type: test
+title: Invalid scheme redirect response headers
+summary: Mock HTTP response headers returning a 302 redirect to an https URL, used to test handling of invalid redirect schemes.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleProtocolHandlerRegistryFactory header
+// summary: Declares the SimpleProtocolHandlerRegistryFactory singleton that associates ProtocolHandlerRegistry services with browser contexts without OS integration.
+// ---
+
 #ifndef COMPONENTS_CUSTOM_HANDLERS_SIMPLE_PROTOCOL_HANDLER_REGISTRY_FACTORY_H_
 #define COMPONENTS_CUSTOM_HANDLERS_SIMPLE_PROTOCOL_HANDLER_REGISTRY_FACTORY_H_
 

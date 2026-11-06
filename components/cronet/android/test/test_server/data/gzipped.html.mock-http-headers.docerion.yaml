@@ -1,0 +1,4 @@
+# Docerion header of gzipped.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for gzipped page
+summary: Mock HTTP headers advertising gzip content encoding for the gzipped test page response.

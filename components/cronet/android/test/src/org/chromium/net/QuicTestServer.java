@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QUIC test server wrapper
+// summary: Starts and shuts down a native QUIC test server and exposes its URL, host, port, certificates, response delays, and session count for tests.
+// ---
+
 package org.chromium.net;
 
 import android.content.Context;

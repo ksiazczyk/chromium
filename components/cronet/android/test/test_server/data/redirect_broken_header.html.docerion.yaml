@@ -1,0 +1,4 @@
+# Docerion header of redirect_broken_header.html.
+type: test
+title: Redirect page for broken header test
+summary: HTML body served by the test server for the redirect test case with a broken response header.

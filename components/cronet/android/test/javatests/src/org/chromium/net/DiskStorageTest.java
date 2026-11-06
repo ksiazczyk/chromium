@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DiskStorageTest
+// summary: Instrumentation tests for CronetEngine disk storage, including read-only storage directories and HTTP disk cache behavior, skipped for the fallback implementation.
+// ---
+
 package org.chromium.net;
 
 import static com.google.common.truth.Truth.assertThat;

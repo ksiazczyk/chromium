@@ -5,6 +5,12 @@
 # A collection of utilities for extracting build rule information from GN
 # projects.
 
+# ---docerion
+# type: source
+# title: GN description parsing utilities
+# summary: Parses gn desc JSON output into target objects, bubbling source_set properties into linker units and consolidating per-architecture flags.
+# ---
+
 import copy
 import json
 import logging as log

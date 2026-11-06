@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CronetLoggerImplTest
+// summary: Android unit tests for CronetLoggerImpl, covering ID generation, bytes-to-KB rounding, and validation of engine creation logging inputs.
+// ---
+
 package org.chromium.net.telemetry;
 
 import static com.google.common.truth.Truth.assertThat;

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Command line argument helper
+# summary: Provides CommandLineUtility, a helper for normalizing, querying, and mutating lists of command line arguments used by build script actions.
+# ---
+
 import operator
 from typing import List
 

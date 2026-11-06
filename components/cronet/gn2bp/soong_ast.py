@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Soong Blueprint AST and module helpers
+# summary: Provides the Blueprint module model, key-value writers, and module-name helpers that gn2bp uses to build Android.bp output.
+# ---
+
 import copy  # noqa: F401
 import enum
 import hashlib

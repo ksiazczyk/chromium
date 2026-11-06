@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestUploadDataStreamHandler
+// summary: Java wrapper around the native net::UploadDataStream that lets Cronet Android tests drive upload data streams directly through JNI, with synchronous waits for init, read, and reset callbacks.
+// ---
+
 package org.chromium.net;
 
 import static com.google.common.truth.Truth.assertThat;

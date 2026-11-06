@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExperimentalOptionsTranslationTest
+// summary: Unit tests verifying that CronetEngine builder option setters are translated into JSON experimental options, including precedence between setters and raw options.
+// ---
+
 package org.chromium.net;
 
 import static com.google.common.truth.Truth.assertThat;

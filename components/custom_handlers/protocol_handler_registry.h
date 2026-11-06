@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protocol handler registry class declaration
+// summary: Declares the ProtocolHandlerRegistry keyed service, its delegate interface for OS integration, and observer notifications for registered protocol handlers.
+// ---
+
 #ifndef COMPONENTS_CUSTOM_HANDLERS_PROTOCOL_HANDLER_REGISTRY_H_
 #define COMPONENTS_CUSTOM_HANDLERS_PROTOCOL_HANDLER_REGISTRY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BidirectionalStream interface tests
+// summary: Extensive Android tests for Cronet's BidirectionalStream interface covering callbacks, failure types, packet drops, user agent handling and implementation-specific behavior.
+// ---
+
 package org.chromium.net;
 
 import static com.google.common.truth.Truth.assertThat;

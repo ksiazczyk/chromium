@@ -1,0 +1,4 @@
+# Docerion header of Android.extras.bp.template.
+type: config
+title: Cronet gn2bp Android.extras.bp template
+summary: Template of extra Soong modules, including a license module and java_library aliases, that gn2bp appends to generated Android.bp files for Cronet.

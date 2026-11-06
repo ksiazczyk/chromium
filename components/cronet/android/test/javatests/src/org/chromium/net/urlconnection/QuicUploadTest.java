@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QuicUploadTest
+// summary: Android instrumentation test that uploads data over QUIC through HttpURLConnection, including a regression test for a single massive write.
+// ---
+
 package org.chromium.net.urlconnection;
 
 import static com.google.common.truth.Truth.assertThat;

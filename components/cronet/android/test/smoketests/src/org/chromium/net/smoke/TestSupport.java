@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestSupport interface for Cronet smoke tests
+// summary: Interface letting smoke tests create protocol-specific test servers, process netlogs, add host resolver rules, install mock cert verifiers and load native test libraries.
+// ---
+
 package org.chromium.net.smoke;
 
 import android.content.Context;

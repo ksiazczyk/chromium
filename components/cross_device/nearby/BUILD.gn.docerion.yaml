@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the nearby component
+summary: Defines GN source sets for the nearby platform implementation, feature flags, and unit tests together with their build dependencies.

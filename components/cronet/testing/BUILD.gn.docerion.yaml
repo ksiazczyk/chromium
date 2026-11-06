@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Cronet Python unit tests build target
+summary: Defines a GN script test target that aggregates all Cronet Python unit tests into a single isolate for CI bots, including the runner script and its data dependencies.

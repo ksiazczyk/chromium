@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL request context config verification for Cronet tests
+// summary: Native JNI checks that options set through CronetEngine.Builder, including QUIC, cache, user agent, and storage settings, reach URLRequestContextConfig.
+// ---
+
 #include "cronet_url_request_context_config_test.h"
 
 #include <jni.h>

@@ -1,0 +1,4 @@
+# Docerion header of generate_proguard_file.pydeps.
+type: data
+title: Python dependency list for generate_proguard_file.py
+summary: Generated list of Python module dependencies for generate_proguard_file.py, produced by build/print_python_deps.py.

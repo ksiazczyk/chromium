@@ -1,6 +1,13 @@
 # Copyright 2017 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Cronet C bindings generator
+# summary: Generator module invoked by the Cronet bindings generator frontend that produces C source files from a parsed mojom module, including name formatting and type mappings.
+# ---
+
 """Generates C source files from an idl (mojom) Module."""
 
 import os

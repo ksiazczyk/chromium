@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File utilities for recursive deletion in tests
+// summary: Test utility offering recursive file deletion as a simplified fork of the base FileUtils that avoids APIs unavailable on older Android versions.
+// ---
+
 package org.chromium.net;
 
 import org.chromium.base.Log;

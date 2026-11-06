@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HttpFlagsInterceptor test helper
+// summary: Test ContextInterceptor that fakes the presence or absence of an HTTP flags file provider so HttpFlagsLoader behavior can be exercised in tests.
+// ---
+
 package org.chromium.net.httpflags;
 
 import static com.google.common.truth.Truth.assertThat;

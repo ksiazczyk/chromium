@@ -1,0 +1,4 @@
+# Docerion header of server_error.txt.mock-http-headers.
+type: test
+title: Server error response headers
+summary: Mock HTTP response headers returning a 500 Internal Server Error status for the server error test.

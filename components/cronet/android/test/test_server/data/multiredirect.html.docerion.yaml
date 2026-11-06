@@ -1,0 +1,4 @@
+# Docerion header of multiredirect.html.
+type: test
+title: Multi-redirect test page
+summary: HTML body served during multi-redirect test scenarios on the mock test server.

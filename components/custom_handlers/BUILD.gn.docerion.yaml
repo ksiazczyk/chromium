@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the custom_handlers component
+summary: Defines the static library, test support, unit test and browser test targets with their sources and dependencies for the custom protocol handlers component.

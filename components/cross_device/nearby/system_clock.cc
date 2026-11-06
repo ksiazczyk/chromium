@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby SystemClock implementation
+// summary: Implements the Nearby SystemClock with platform-specific monotonic elapsed time via Mach, CLOCK_BOOTTIME, or uptime, plus a sleep helper.
+// ---
+
 #include "third_party/nearby/src/internal/platform/implementation/system_clock.h"
 
 #include "base/check_op.h"

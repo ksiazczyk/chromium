@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--docerion
+type: test
+title: Android manifest for the Cronet performance test app
+summary: Declares permissions and the launcher activity used by the Cronet performance test Android app.
+-->
+
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
       package="org.chromium.net">
     <uses-permission android:name="android.permission.INTERNET"/>

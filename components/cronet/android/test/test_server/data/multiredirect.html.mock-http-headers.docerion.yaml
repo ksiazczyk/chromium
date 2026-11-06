@@ -1,0 +1,4 @@
+# Docerion header of multiredirect.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for multi-redirect page
+summary: Mock HTTP headers issuing a 302 redirect to /redirect.html with an additional custom header.

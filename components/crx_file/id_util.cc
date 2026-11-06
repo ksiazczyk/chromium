@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension ID utility implementation
+// summary: Implements generation of extension IDs from SHA-256 hashes, hex strings, and file paths, mapping hex digits to the a-p alphabet and validating ID format.
+// ---
+
 #include "components/crx_file/id_util.h"
 
 #include <stddef.h>

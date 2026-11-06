@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock URL request job factory
+// summary: Sets up URL interceptors and constructs mock URLs that fail, hang, request client certificates, or return repeated data for Cronet tests.
+// ---
+
 package org.chromium.net;
 
 import static com.google.common.truth.Truth.assertThat;

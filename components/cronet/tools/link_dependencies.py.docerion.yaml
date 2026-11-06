@@ -1,0 +1,4 @@
+# Docerion header of link_dependencies.py.
+type: script
+title: Static library dependency linker
+summary: Queries Ninja for a binary target's library inputs and links them into a static library, as used for Cronet iOS builds.

@@ -1,0 +1,4 @@
+# Docerion header of jar_src.pydeps.
+type: data
+title: Python dependency list for jar_src.py
+summary: Generated list of Python module dependencies for jar_src.py, produced by build/print_python_deps.py.

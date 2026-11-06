@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for internationalized domain name handling
+// summary: Instrumentation test checking that Cronet accepts non-ASCII internationalized domain names and translates them to the expected punycode ASCII hostnames.
+// ---
+
 package org.chromium.net;
 
 import static com.google.common.truth.Truth.assertThat;

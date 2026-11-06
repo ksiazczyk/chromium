@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CronetBufferedOutputStreamTest
+// summary: Android instrumentation tests for CronetBufferedOutputStream, covering output stream behavior for buffered HTTP uploads such as writing after connect or after reading the response.
+// ---
+
 package org.chromium.net.urlconnection;
 
 import static com.google.common.truth.Truth.assertThat;

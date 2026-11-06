@@ -1,0 +1,4 @@
+# Docerion header of redirect_broken_header.html.mock-http-headers.
+type: test
+title: Broken header redirect response headers
+summary: Mock HTTP response headers consisting only of a 302 status line, used to test redirects with a broken or missing header.

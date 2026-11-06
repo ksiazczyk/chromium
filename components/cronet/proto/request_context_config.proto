@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Cronet request context config protobuf definitions
+// summary: Defines protobuf messages and enums for Cronet request context configuration, covering user agent, storage, cache, QUIC, HTTP2, Brotli, and proxy options.
+// ---
+
 syntax = "proto2";
 
 package cronet.proto;

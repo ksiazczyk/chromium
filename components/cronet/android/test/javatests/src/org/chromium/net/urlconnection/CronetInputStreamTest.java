@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CronetInputStreamTest
+// summary: Unit tests for CronetInputStream that verify available() and read() behavior before and after response data completion, using a mock HttpURLConnection.
+// ---
+
 package org.chromium.net.urlconnection;
 
 import static com.google.common.truth.Truth.assertThat;

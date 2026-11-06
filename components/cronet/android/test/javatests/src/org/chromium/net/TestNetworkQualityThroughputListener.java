@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test NetworkQualityThroughputListener for Cronet tests
+// summary: Test double that records network quality throughput observations, blocks until the first one arrives, and verifies the listener is always notified on the same executor thread.
+// ---
+
 package org.chromium.net;
 
 import static com.google.common.truth.Truth.assertThat;

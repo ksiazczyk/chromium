@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock certificate verifier wrapper
+// summary: Java wrapper that creates a native net::MockCertVerifier, including a free-for-all variant, for use with CronetEngine in tests.
+// ---
+
 package org.chromium.net;
 
 import org.jni_zero.JNINamespace;

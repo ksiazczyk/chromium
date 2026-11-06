@@ -1,0 +1,4 @@
+# Docerion header of check_combined_proguard_file.py.
+type: script
+title: Cronet combined Proguard file check
+summary: Build check that compares the generated combined Proguard file against a golden file and prints rebaseline instructions on failure.

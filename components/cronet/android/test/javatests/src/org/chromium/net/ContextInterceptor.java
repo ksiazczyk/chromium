@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContextInterceptor test interface
+// summary: Interface letting Cronet tests supply a replacement Android Context, useful for faking or mocking context calls via the test framework's context interception.
+// ---
+
 package org.chromium.net;
 
 import android.content.Context;

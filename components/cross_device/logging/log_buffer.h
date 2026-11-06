@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrossDeviceLogBuffer class declaration
+// summary: Declares the Feature enum, the LogMessage struct, and the CrossDeviceLogBuffer singleton with its observer interface for Nearby Sharing specific logs.
+// ---
+
 #ifndef COMPONENTS_CROSS_DEVICE_LOGGING_LOG_BUFFER_H_
 #define COMPONENTS_CROSS_DEVICE_LOGGING_LOG_BUFFER_H_
 

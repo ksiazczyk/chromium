@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRX verifier interface
+// summary: Declares the Verify function plus enums for accepted CRX formats and verification results, covering full and delta CRX files and error conditions.
+// ---
+
 #ifndef COMPONENTS_CRX_FILE_CRX_VERIFIER_H_
 #define COMPONENTS_CRX_FILE_CRX_VERIFIER_H_
 

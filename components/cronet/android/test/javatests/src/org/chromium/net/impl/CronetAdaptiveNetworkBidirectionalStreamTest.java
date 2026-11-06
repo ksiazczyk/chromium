@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Adaptive network bidirectional stream tests
+// summary: Unit tests for CronetAdaptiveNetworkBidirectionalStream covering failover between primary and fallback streams with mocked dependencies.
+// ---
+
 package org.chromium.net.impl;
 
 import static org.junit.Assert.assertEquals;

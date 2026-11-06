@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock URL request job factory for Cronet tests
+// summary: Installs URL interceptors and mock request jobs such as failed, hanging, mock data, and SSL error jobs into the Cronet URLRequestContext for tests.
+// ---
+
 #include "base/android/jni_android.h"
 #include "base/android/jni_string.h"
 #include "base/functional/bind.h"

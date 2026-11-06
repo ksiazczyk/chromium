@@ -1,0 +1,4 @@
+# Docerion header of gen_android_bp.py.
+type: source
+title: Core GN to Android.bp translator
+summary: Translates parsed GN targets into Soong modules, applies dependency replacements and cflag defaults, and writes the generated Android.bp files.

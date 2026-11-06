@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for Network Error Logging reports
+// summary: Instrumentation tests verifying that requests generate Network Error Logging reports and upload them to the test reporting collector.
+// ---
+
 package org.chromium.net;
 
 import static com.google.common.truth.Truth.assertThat;

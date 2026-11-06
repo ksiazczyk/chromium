@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SmokeTestRequestCallback for Cronet smoke tests
+// summary: Boilerplate UrlRequest.Callback implementation that tracks request state, response info and failures, and blocks until a Cronet smoke test request completes.
+// ---
+
 package org.chromium.net.smoke;
 
 import static com.google.common.truth.Truth.assertThat;

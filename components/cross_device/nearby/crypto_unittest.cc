@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Nearby Crypto hashing
+// summary: Verifies that Crypto::Md5 and Crypto::Sha256 produce the expected digests and return empty results for empty input.
+// ---
+
 #include "third_party/nearby/src/internal/platform/implementation/crypto.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

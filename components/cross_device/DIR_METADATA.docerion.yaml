@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Cross_device directory metadata
+summary: Specifies the Buganizer component (1108889) used for issues in the cross_device directory.

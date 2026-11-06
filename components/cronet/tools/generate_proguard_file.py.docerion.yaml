@@ -1,0 +1,4 @@
+# Docerion header of generate_proguard_file.py.
+type: script
+title: ProGuard rules concatenation tool
+summary: Concatenates the ProGuard configs listed in a build config into one output file, with optional package renaming and allowoptimization stripping.

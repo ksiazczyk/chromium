@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Embedded test server adapter header
+// summary: Declares the EmbeddedTestServerAdapter class used by Cronet Android tests to start the embedded test server and obtain URLs for echo, redirect, cookie, file-based, and other test responses.
+// ---
+
 #ifndef COMPONENTS_CRONET_ANDROID_TEST_TEST_SERVER_EMBEDDED_TEST_SERVER_ADAPTER_H_
 #define COMPONENTS_CRONET_ANDROID_TEST_TEST_SERVER_EMBEDDED_TEST_SERVER_ADAPTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CronetManifest tests
+// summary: Tests CronetManifest telemetry opt-in handling across the different Cronet sources using injected manifest meta-data.
+// ---
+
 package org.chromium.net.impl;
 
 import static com.google.common.truth.Truth.assertThat;

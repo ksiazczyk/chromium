@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRX3 build action command-line tool
+// summary: 'Implements a command-line entry point that builds a CRX3 file at a given output path from a zip archive signed with a DER-encoded PKCS #8 private key.'
+// ---
+
 #include <stddef.h>
 
 #include <string>

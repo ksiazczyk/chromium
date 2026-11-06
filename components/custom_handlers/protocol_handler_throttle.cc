@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protocol handler URL loader throttle implementation
+// summary: Implements a URLLoaderThrottle that rewrites request and redirect URLs to registered custom protocol handler URLs.
+// ---
+
 #include "components/custom_handlers/protocol_handler_throttle.h"
 
 #include <string_view>

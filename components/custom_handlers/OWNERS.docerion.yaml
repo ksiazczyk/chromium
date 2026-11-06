@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the custom_handlers directory
+summary: Names the directory owner and delegates ownership of permission request files to the permissions component owners.

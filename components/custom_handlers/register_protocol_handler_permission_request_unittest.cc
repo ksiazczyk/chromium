@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Register protocol handler permission request unit tests
+// summary: Unit tests verifying IsDuplicateOf behavior for permission requests with identical, differing, or cross-origin protocol handlers.
+// ---
+
 #include "components/custom_handlers/register_protocol_handler_permission_request.h"
 
 #include <memory>

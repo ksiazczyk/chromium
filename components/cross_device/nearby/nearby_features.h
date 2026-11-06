@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header declaring Nearby feature flags
+// summary: Declares the Nearby feature flags and their enabled-check functions for use across the nearby component.
+// ---
+
 #ifndef COMPONENTS_CROSS_DEVICE_NEARBY_NEARBY_FEATURES_H_
 #define COMPONENTS_CROSS_DEVICE_NEARBY_NEARBY_FEATURES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CRX creator unit tests
+// summary: Unit tests that create CRX3 files with a fixed test key and verify them, including files carrying compressed verified contents in the header.
+// ---
+
 #include "components/crx_file/crx_creator.h"
 
 #include <stdint.h>

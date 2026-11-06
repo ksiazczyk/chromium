@@ -1,0 +1,4 @@
+# Docerion header of jar_src.py.
+type: script
+title: Java source jar packaging tool
+summary: Collects Cronet Java sources and source jars from search directories into a single output jar, honoring excluded class patterns.

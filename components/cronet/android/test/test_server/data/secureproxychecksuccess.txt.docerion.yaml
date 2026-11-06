@@ -1,0 +1,4 @@
+# Docerion header of secureproxychecksuccess.txt.
+type: test
+title: Secure proxy check success body
+summary: Body text returned by the test server to signal a successful secure proxy check.

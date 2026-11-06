@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test callback helper for bidirectional streams
+// summary: BidirectionalStream.Callback implementation used by tests to track stream events, block until completion, and simulate cancellation, failures, or manual step-by-step advancing of the stream.
+// ---
+
 package org.chromium.net;
 
 import static com.google.common.truth.Truth.assertThat;

@@ -1,0 +1,4 @@
+# Docerion header of redirect.html.mock-http-headers.
+type: test
+title: Redirect test response headers
+summary: Mock HTTP response headers for redirect.html, returning a 302 redirect to /success.txt with a custom redirect-header value.

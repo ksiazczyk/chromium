@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProxyTest – tests for Cronet proxy support
+// summary: Large Android test suite covering Cronet's proxy support, including argument validation for Proxy creation, HTTP proxy connect callbacks, proxy resolution behavior, and related logging.
+// ---
+
 package org.chromium.net;
 
 import static com.google.common.truth.Truth.assertThat;

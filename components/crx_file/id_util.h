@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension ID utility interface
+// summary: Declares functions to generate, hash, and validate extension IDs used for apps, extensions, and components packaged in CRX files.
+// ---
+
 #ifndef COMPONENTS_CRX_FILE_ID_UTIL_H_
 #define COMPONENTS_CRX_FILE_ID_UTIL_H_
 

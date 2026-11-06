@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for zstd content encoding support
+// summary: Instrumentation tests checking that zstd is not advertised by default and is advertised and decoded when the EnableZstdV2 feature flag is enabled.
+// ---
+
 package org.chromium.net;
 
 import static com.google.common.truth.Truth.assertThat;

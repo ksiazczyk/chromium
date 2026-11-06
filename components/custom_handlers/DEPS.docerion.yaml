@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the custom_handlers directory
+summary: Lists the allowed include dependencies for code in the custom_handlers directory, covering prefs, permissions, content, net, blink and UI modules.

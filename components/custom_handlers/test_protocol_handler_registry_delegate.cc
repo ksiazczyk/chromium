@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestProtocolHandlerRegistryDelegate implementation
+// summary: Implements a fake registry delegate that tracks registered protocols in memory and simulates OS registration without changing OS settings.
+// ---
+
 #include "components/custom_handlers/test_protocol_handler_registry_delegate.h"
 
 #include <utility>

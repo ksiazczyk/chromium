@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Smoke test for the Java-only Cronet engine
+// summary: Verifies successful HTTP1 responses when an app lacks the native Cronet implementation, skipping on Android versions with HttpEngine.
+// ---
+
 package org.chromium.net.smoke;
 
 import static com.google.common.truth.Truth.assertThat;

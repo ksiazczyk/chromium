@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Cronet license test target_b build group
+summary: Defines the target_b build group, which depends on the target_c target in the Cronet license tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reporting API report collector
+// summary: Stores Reporting API reports received by a test collector and provides helpers to wait for and assert that expected reports were received.
+// ---
+
 package org.chromium.net;
 
 import static com.google.common.truth.Truth.assertThat;

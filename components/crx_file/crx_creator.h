@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRX creator API
+// summary: Declares the CreatorResult enum and functions to create a CRX3 file from a ZIP archive and signing key, optionally embedding verified contents in the header.
+// ---
+
 #ifndef COMPONENTS_CRX_FILE_CRX_CREATOR_H_
 #define COMPONENTS_CRX_FILE_CRX_CREATOR_H_
 

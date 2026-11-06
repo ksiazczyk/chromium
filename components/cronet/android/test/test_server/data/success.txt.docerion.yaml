@@ -1,0 +1,4 @@
+# Docerion header of success.txt.
+type: test
+title: Success text fixture
+summary: Simple text fixture served by the Cronet Android test server as the body of a successful response.

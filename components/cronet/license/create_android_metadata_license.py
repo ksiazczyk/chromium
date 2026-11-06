@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Android metadata and license file generator for Cronet
+# summary: Generates and verifies METADATA, MODULE_LICENSE_*, and LICENSE files for Cronet Android dependencies by processing README.chromium metadata of transitive GN targets.
+# ---
+
 import os
 import argparse
 import sys

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension ID utility unit tests
+// summary: Unit tests checking ID generation from public keys, hashes, hex strings, and paths, plus hex-encoded SHA-1 and SHA-256 hashes of extension IDs.
+// ---
+
 #include "components/crx_file/id_util.h"
 
 #include <stdint.h>

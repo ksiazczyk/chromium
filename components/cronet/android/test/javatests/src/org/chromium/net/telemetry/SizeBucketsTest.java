@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SizeBucketsTest
+// summary: Android unit tests verifying SizeBuckets bucket calculations for request and response header and body sizes, including invalid input handling.
+// ---
+
 package org.chromium.net.telemetry;
 
 import static org.junit.Assert.assertEquals;

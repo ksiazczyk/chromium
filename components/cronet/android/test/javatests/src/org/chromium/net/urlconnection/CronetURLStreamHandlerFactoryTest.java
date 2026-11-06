@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CronetURLStreamHandlerFactoryTest
+// summary: Android instrumentation tests for CronetURLStreamHandlerFactory, verifying null-engine rejection and that URL connections opened via the factory use Cronet.
+// ---
+
 package org.chromium.net.urlconnection;
 
 import static com.google.common.truth.Truth.assertThat;

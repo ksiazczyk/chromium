@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL request intercepting job factory header
+// summary: Declares URLRequestInterceptingJobFactory, a URLRequestJobFactory wrapper used to intercept requests before default handling in Cronet tests.
+// ---
+
 #ifndef COMPONENTS_CRONET_ANDROID_TEST_URL_REQUEST_INTERCEPTING_JOB_FACTORY_H_
 #define COMPONENTS_CRONET_ANDROID_TEST_URL_REQUEST_INTERCEPTING_JOB_FACTORY_H_
 

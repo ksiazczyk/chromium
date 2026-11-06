@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestProtocolHandlerRegistryDelegate header
+// summary: Declares the test delegate for ProtocolHandlerRegistry that records registered protocols and can force OS registration failures in tests.
+// ---
+
 #ifndef COMPONENTS_CUSTOM_HANDLERS_TEST_PROTOCOL_HANDLER_REGISTRY_DELEGATE_H_
 #define COMPONENTS_CUSTOM_HANDLERS_TEST_PROTOCOL_HANDLER_REGISTRY_DELEGATE_H_
 

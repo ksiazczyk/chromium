@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test UploadDataProvider for Cronet upload tests
+// summary: Configurable UploadDataProvider test double that serves queued reads and can simulate synchronous or asynchronous failures for read, rewind and length calls.
+// ---
+
 package org.chromium.net;
 
 import android.os.ConditionVariable;

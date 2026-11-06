@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CronetTestFramework test harness
+// summary: Test harness that creates and holds a CronetEngine, supporting the native, fallback and AOSP platform implementations, builder patches and context interception.
+// ---
+
 package org.chromium.net;
 
 import static com.google.common.truth.Truth.assertThat;

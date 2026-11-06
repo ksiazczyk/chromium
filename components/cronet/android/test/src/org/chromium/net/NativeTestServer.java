@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Native embedded test server wrapper
+// summary: Java wrapper around net::EmbeddedTestServer that creates, configures SSL and OCSP settings, starts, and stops a native test server for Cronet tests.
+// ---
+
 package org.chromium.net;
 
 import android.content.Context;

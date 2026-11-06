@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CronetUrlRequestHTTPSTest
+// summary: Instrumentation tests for CronetUrlRequest over HTTPS, using a native test server with certificate configurations including dynamically generated certificates and OCSP stapling.
+// ---
+
 package org.chromium.net;
 
 import static com.google.common.truth.Truth.assertThat;

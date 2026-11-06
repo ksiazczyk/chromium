@@ -1,0 +1,4 @@
+# Docerion header of set_cookie.html.
+type: test
+title: Set cookie test page body
+summary: HTML body served by the test server for the set-cookie test case.

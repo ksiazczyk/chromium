@@ -1,0 +1,4 @@
+# Docerion header of run.py.
+type: test
+title: Runner script for the Cronet Android performance benchmark
+summary: Sets up USB reverse tethering, starts HTTP and QUIC servers, runs the Cronet perf test app on an Android device and collects benchmark results.

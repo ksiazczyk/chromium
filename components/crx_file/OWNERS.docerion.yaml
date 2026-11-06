@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: CRX file component owners
+summary: Points to the update_client and extensions OWNERS files as the owners responsible for this directory.

@@ -1,0 +1,4 @@
+# Docerion header of expectations.config.
+type: test
+title: Test expectations for Cronet Java performance tests
+summary: Defines platform tags and the CronetPerfTestBenchmark benchmark for the javaperftests expectations.

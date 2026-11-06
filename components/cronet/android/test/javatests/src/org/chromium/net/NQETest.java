@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for the network quality estimator
+// summary: Instrumentation tests for Cronet's Network Quality Estimator, covering enablement, throughput and RTT observations, and listener behavior.
+// ---
+
 package org.chromium.net;
 
 import static com.google.common.truth.Truth.assertThat;

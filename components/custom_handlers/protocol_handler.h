@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProtocolHandler class declaration
+// summary: Declares the ProtocolHandler class, a protocol, URL and last-modified tuple with security level checks, origin comparison and URL interpolation methods.
+// ---
+
 #ifndef COMPONENTS_CUSTOM_HANDLERS_PROTOCOL_HANDLER_H_
 #define COMPONENTS_CUSTOM_HANDLERS_PROTOCOL_HANDLER_H_
 

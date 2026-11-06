@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CronetChunkedOutputStreamTest
+// summary: Android instrumentation tests for getOutputStream when chunked streaming mode is enabled, including error cases like writing after the request fails.
+// ---
+
 package org.chromium.net.urlconnection;
 
 import static com.google.common.truth.Truth.assertThat;

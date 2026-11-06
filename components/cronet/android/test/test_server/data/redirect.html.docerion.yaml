@@ -1,0 +1,4 @@
+# Docerion header of redirect.html.
+type: test
+title: Redirect test page
+summary: HTML body served for redirect test scenarios on the mock test server.

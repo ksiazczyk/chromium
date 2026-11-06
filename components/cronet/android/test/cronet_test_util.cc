@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cronet test utility implementation
+// summary: Implements the TestUtil helpers that expose Cronet context and request internals, QUIC parameters, and network task runners to Java tests via JNI.
+// ---
+
 #include "components/cronet/android/test/cronet_test_util.h"
 
 #include "base/android/jni_android.h"

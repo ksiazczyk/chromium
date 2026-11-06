@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestLogger test double for Cronet logging
+// summary: Test double of CronetLogger that records engine creation, traffic info and UMA histogram calls so tests can assert on logged values.
+// ---
+
 package org.chromium.net.impl;
 
 import static com.google.common.truth.Truth.assertWithMessage;

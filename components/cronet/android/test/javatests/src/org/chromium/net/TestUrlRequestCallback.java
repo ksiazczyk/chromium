@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test UrlRequest callback tracking responses and failures
+// summary: UrlRequest.Callback test double that records redirects, response data and errors, and can cancel, pause or throw at a chosen response step during a request.
+// ---
+
 package org.chromium.net;
 
 import static com.google.common.truth.Truth.assertThat;

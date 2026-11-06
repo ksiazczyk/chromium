@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Dictionary-to-textproto printer for metadata
+# summary: Defines a dict subclass that renders nested dictionaries as textproto-style strings for Android metadata output, noted as a temporary protobuf replacement.
+# ---
+
 
 class MetadataDictionary(dict):
     """

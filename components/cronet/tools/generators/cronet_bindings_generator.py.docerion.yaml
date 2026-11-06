@@ -1,0 +1,4 @@
+# Docerion header of cronet_bindings_generator.py.
+type: source
+title: Cronet bindings generator frontend
+summary: Frontend script for the Mojo bindings system that parses command-line options, loads registered generators such as the Cronet C generator, and drives mojom parsing and code generation.

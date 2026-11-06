@@ -6,5 +6,11 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: test
+title: Cronet Android test string resources
+summary: Android string resource XML for the Cronet Android test app, currently containing an empty resources element.
+-->
+
 <resources>
 </resources>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the ProtocolHandler class
+// summary: Implements creation, dictionary parsing, HTML-spec security validation, and URL translation for protocol handlers, including web app and extension handlers.
+// ---
+
 #include "components/custom_handlers/protocol_handler.h"
 
 #include <string_view>

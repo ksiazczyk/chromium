@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped system property test helper
+// summary: AutoCloseable helper that sets or clears a Java system property for the duration of a test and restores the original value on close, failing if the property was changed unexpectedly.
+// ---
+
 package org.chromium.net;
 
 final class ScopedSystemProperty implements AutoCloseable {

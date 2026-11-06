@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RequestFinishedInfo listener and metrics tests
+// summary: Tests the RequestFinishedInfo.Listener API and the request metrics it provides, including executor behavior, callback ordering, and Android wrapper implementations.
+// ---
+
 package org.chromium.net;
 
 import static com.google.common.truth.Truth.assertThat;

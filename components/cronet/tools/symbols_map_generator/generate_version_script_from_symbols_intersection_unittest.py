@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Unit tests for generate_version_script_from_symbols_intersection
+# summary: Unit tests verifying that undefined and defined symbols are parsed correctly from objdump output using bundled test data.
+# ---
+
 import unittest
 import os
 import re  # noqa: F401

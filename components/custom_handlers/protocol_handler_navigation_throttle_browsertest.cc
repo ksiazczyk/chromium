@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Protocol handler navigation throttle browser tests
+// summary: Browser tests verifying that navigations to schemes with unconfirmed protocol handlers are deferred until the user grants or denies permission.
+// ---
+
 #include "components/custom_handlers/protocol_handler_navigation_throttle.h"
 
 #include "components/custom_handlers/protocol_handler.h"

@@ -1,0 +1,4 @@
+# Docerion header of boringssl_Android.bp.template.
+type: config
+title: Cronet gn2bp BoringSSL Android.bp template
+summary: Soong build template defining BoringSSL cc_defaults and the bcm_object cc_object with FIPS-related flags, used by gn2bp to generate Cronet's Android.bp.

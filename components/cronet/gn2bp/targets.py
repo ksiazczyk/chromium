@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Default Cronet GN targets and tests
+# summary: Lists the default Cronet GN build and test targets plus README.chromium path mappings consumed by the gn2bp translation.
+# ---
+
 DEFAULT_TARGETS = [
     "//components/cronet/android:cronet_api_java",
     '//components/cronet/android:cronet',

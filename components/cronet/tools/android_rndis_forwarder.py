@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Android RNDIS traffic forwarder
+# summary: Python module that forwards host traffic to a rooted Android device over RNDIS, used with Telemetry for Cronet network testing.
+# ---
+
 import atexit
 import logging
 import os

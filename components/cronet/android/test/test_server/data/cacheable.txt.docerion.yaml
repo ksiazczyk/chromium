@@ -1,0 +1,4 @@
+# Docerion header of cacheable.txt.
+type: test
+title: Cacheable test file
+summary: Test fixture body served by the Cronet Android test server to exercise caching behavior.

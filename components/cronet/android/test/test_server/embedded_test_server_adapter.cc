@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Embedded test server adapter implementation
+// summary: Implements the JNI bridge between Cronet's Android test code and Chromium's embedded test server, including request handling callbacks, SSL and OCSP configuration, and conversion of requests and responses.
+// ---
+
 #include "components/cronet/android/test/test_server/embedded_test_server_adapter.h"
 
 #include <memory>

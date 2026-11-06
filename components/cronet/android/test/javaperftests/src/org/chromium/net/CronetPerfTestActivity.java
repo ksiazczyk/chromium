@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cronet performance test activity
+// summary: Android activity that runs networking benchmarks for system HttpURLConnection, Cronet HttpURLConnection, and Cronet's async API, saving results to a file for Telemetry collection.
+// ---
+
 package org.chromium.net;
 
 import android.app.Activity;

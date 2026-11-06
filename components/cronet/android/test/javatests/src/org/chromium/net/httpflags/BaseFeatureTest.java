@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BaseFeatureTest
+// summary: Unit tests verifying that BaseFeature extracts base-feature and parameter overrides from resolved flags, returns empty results when none match, and rejects non-boolean overrides.
+// ---
+
 package org.chromium.net.httpflags;
 
 import static com.google.common.truth.Truth.assertThat;

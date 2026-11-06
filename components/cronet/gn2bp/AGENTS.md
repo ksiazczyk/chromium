@@ -1,3 +1,13 @@
+---
+type: guide
+title: GN2BP agent documentation
+summary: Explains the gn2bp toolchain that translates Chromium GN targets into Android.bp modules for Cronet, covering its workflow, core components, and how agents can run and debug it.
+relations:
+  - documents /components/cronet/gn2bp/run_gn2bp.py
+  - documents /components/cronet/gn2bp/generate_build_scripts_output.py
+  - documents /components/cronet/gn2bp/gen_android_bp.py
+---
+
 # GN2BP Agent Documentation
 
 ## Overview
