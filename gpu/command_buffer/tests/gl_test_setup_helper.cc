@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GL test setup helper implementation
+// summary: Implements a GoogleTest event listener that initializes and tears down the GL environment, task environment, and GPU service around every test, including Ozone single-process setup.
+// ---
+
 #include "gpu/command_buffer/tests/gl_test_setup_helper.h"
 
 #include "build/build_config.h"

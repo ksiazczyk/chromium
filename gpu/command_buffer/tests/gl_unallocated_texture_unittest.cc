@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unallocated texture rendering unit tests
+// summary: Unit tests verifying that rendering with unallocated 2D and external OES textures generates no GL errors or assertions.
+// ---
+
 #include <GLES2/gl2.h>
 #include <GLES2/gl2ext.h>
 #include <stddef.h>

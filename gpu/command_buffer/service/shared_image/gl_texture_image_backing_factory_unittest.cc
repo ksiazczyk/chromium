@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GLTextureImageBackingFactory unit tests
+// summary: Unit tests for the GL texture shared image backing factory, setting up a GL context and checking per-format support for image creation and access.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/gl_texture_image_backing_factory.h"
 
 #include <thread>

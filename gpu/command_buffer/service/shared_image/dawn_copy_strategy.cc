@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dawn copy strategy implementation
+// summary: Implements a copy strategy that moves pixel data between GPU backings and DawnImageBacking using per-plane WebGPU staging buffers.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/dawn_copy_strategy.h"
 
 #include <dawn/native/DawnNative.h>

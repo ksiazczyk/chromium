@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Texture storage extension unit tests
+// summary: Unit tests for the GL_EXT_texture_storage extension, verifying glTexStorage2DEXT allocation, pixel contents, and rendering of textures bound to framebuffers.
+// ---
+
 #include <GLES2/gl2.h>
 #include <GLES2/gl2ext.h>
 #include <stdint.h>

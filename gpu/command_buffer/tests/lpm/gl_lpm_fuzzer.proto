@@ -2,6 +2,12 @@
 
 // This proto description is adapted from the one used in clang-proto-fuzzer.
 
+// ---docerion
+// type: test
+// title: Protobuf schema for GL shader fuzzer input
+// summary: Defines protobuf messages describing GLSL types, constants, statements and functions that make up the fuzzer shader grammar.
+// ---
+
 syntax = "proto2";
 package fuzzing;
 

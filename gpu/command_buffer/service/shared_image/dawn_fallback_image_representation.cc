@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dawn fallback image representation implementation
+// summary: Implements a fallback Dawn representation that creates a standalone WebGPU texture and copies contents to and from the backing on begin and end access.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/dawn_fallback_image_representation.h"
 
 #include <dawn/native/DawnNative.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared memory image backing factory implementation
+// summary: Implements the factory that creates shared memory GMB backed SharedImages, validating buffer usage, size and format.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/shared_memory_image_backing_factory.h"
 
 #include "base/logging.h"

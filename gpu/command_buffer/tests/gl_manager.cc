@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GLManager test support implementation
+// summary: Implements GLManager, which initializes in-process GPU command buffer contexts, share groups and surfaces for GL tests.
+// ---
+
 
 #include "gpu/command_buffer/tests/gl_manager.h"
 

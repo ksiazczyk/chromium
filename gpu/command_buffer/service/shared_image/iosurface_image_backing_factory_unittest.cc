@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IOSurface image backing factory unit tests
+// summary: Unit tests covering creation, GL, Skia, and Dawn access, and pixel validation for IOSurface-backed shared images.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/iosurface_image_backing_factory.h"
 
 #include <dawn/native/DawnNative.h>

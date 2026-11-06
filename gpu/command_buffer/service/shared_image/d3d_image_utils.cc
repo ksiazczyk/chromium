@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D image utility implementations
+// summary: Implements D3D helpers that clear D3D11 textures to a color and create Dawn shared texture, buffer, and fence objects from DXGI handles and D3D11 or D3D12 resources.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/d3d_image_utils.h"
 
 #include <dawn/native/D3D11Backend.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia Vulkan Ozone image representation header
+// summary: Declares SkiaVkOzoneImageRepresentation, a Skia Vulkan representation for Ozone image backings with write and read access via Vulkan images and semaphores.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_SKIA_VK_OZONE_IMAGE_REPRESENTATION_H_
 #define GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_SKIA_VK_OZONE_IMAGE_REPRESENTATION_H_
 

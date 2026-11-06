@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D image backing factory implementation
+// summary: Implements the D3D shared image backing factory, including D3D11 device management, GpuMemoryBuffer handle creation, and shared image creation paths.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/d3d_image_backing_factory.h"
 
 #include <d3d11_1.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GL texture passthrough fallback image representation implementation
+// summary: Implements a fallback GL passthrough representation that allocates per-plane GL textures and Skia bitmaps for CPU-side uploads on any backing.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/gl_texture_passthrough_fallback_image_representation.h"
 
 #include "base/bits.h"

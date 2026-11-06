@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OzoneImageGLTexturesHolder class declaration
+// summary: Declares a ref-counted holder of gles2 texture passthroughs for OzoneImageBacking with cache counting and context loss tracking.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_OZONE_IMAGE_GL_TEXTURES_HOLDER_H_
 #define GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_OZONE_IMAGE_GL_TEXTURES_HOLDER_H_
 

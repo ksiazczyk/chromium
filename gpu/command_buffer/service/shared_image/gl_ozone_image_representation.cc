@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GL passthrough Ozone image representation implementation
+// summary: Implements passthrough GL texture access to Ozone image backings, synchronizing access with GPU fences in BeginAccess and EndAccess.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/gl_ozone_image_representation.h"
 #include <memory>
 

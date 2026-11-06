@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared image format service utilities implementation
+// summary: Implements service-side format utilities that map SharedImageFormat values to GL, Vulkan, and Skia or Dawn equivalents, including plane and external sampler handling.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/shared_image_format_service_utils.h"
 
 #include "base/check.h"

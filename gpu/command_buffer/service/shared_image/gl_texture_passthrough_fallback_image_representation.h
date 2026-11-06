@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GL texture passthrough fallback image representation header
+// summary: Declares GLTexturePassthroughFallbackImageRepresentation with per-plane GL texture holders, bitmaps, and pixmaps for fallback access.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_GL_TEXTURE_PASSTHROUGH_FALLBACK_IMAGE_REPRESENTATION_H_
 #define GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_GL_TEXTURE_PASSTHROUGH_FALLBACK_IMAGE_REPRESENTATION_H_
 

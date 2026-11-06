@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dawn shared texture cache header
+// summary: Declares DawnSharedTextureCache, a thread-safe cache of Dawn SharedTextureMemory and textures per device, including cleanup for lost devices.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_DAWN_SHARED_TEXTURE_CACHE_H_
 #define GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_DAWN_SHARED_TEXTURE_CACHE_H_
 

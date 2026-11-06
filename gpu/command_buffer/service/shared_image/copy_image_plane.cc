@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image plane copy helper implementation
+// summary: Implements CopyImagePlane functions that copy a single image plane via libyuv, validating strides, spans, and sizes before copying.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/copy_image_plane.h"
 
 #include "base/check.h"

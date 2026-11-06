@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WrappedSkImageBacking implementation
+// summary: Implements the WrappedSkImage backing for Skia Ganesh, including GL context save and restore, pixel upload and readback, and the Skia image representation.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/wrapped_sk_image_backing.h"
 
 #include <utility>

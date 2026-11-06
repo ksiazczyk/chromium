@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Occlusion query unit tests
+// summary: Unit tests that verify occlusion query results with GL_EXT_occlusion_query_boolean using overlapping and non-overlapping drawn rectangles.
+// ---
+
 #include <GLES2/gl2.h>
 #include <GLES2/gl2ext.h>
 

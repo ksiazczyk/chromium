@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared image test base
+// summary: Provides a common test fixture with bitmap helpers and graphics context setup for shared image backing tests.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/shared_image_test_base.h"
 
 #include <vector>

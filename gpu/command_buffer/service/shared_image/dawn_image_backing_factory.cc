@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dawn image backing factory implementation
+// summary: Implements a shared image backing factory that creates WebGPU texture backed shared images for WebGPU read and write usage.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/dawn_image_backing_factory.h"
 
 #include "gpu/command_buffer/service/shared_image/dawn_image_backing.h"

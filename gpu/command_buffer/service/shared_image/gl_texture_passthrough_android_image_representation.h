@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GL texture passthrough Android image representation header
+// summary: Declares GLTexturePassthroughAndroidImageRepresentation, a GL passthrough view of an Android image backing holding an EGL image and access mode.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_GL_TEXTURE_PASSTHROUGH_ANDROID_IMAGE_REPRESENTATION_H_
 #define GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_GL_TEXTURE_PASSTHROUGH_ANDROID_IMAGE_REPRESENTATION_H_
 

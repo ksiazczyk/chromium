@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebGPU test base header
+// summary: Declares the WebGPUTest base class, its options, and expectation macros used by WebGPU command buffer tests.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_TESTS_WEBGPU_TEST_H_
 #define GPU_COMMAND_BUFFER_TESTS_WEBGPU_TEST_H_
 

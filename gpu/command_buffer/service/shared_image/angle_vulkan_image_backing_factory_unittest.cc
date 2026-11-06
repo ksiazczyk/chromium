@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ANGLE Vulkan image backing factory unit tests
+// summary: Parameterized unit tests for AngleVulkanImageBackingFactory that verify shared image creation and Skia access with ANGLE Vulkan, requiring the DefaultANGLEVulkan feature.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/angle_vulkan_image_backing_factory.h"
 
 #include "base/no_destructor.h"

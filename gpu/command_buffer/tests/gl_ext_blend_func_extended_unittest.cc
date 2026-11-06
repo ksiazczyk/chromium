@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EXT blend func extended unit tests
+// summary: Unit tests for the GL_EXT_blend_func_extended extension covering dual-source blending, max dual-source draw buffers, and shader name hashing.
+// ---
+
 #include <GLES2/gl2.h>
 #include <GLES2/gl2ext.h>
 #include <GLES2/gl2extchromium.h>

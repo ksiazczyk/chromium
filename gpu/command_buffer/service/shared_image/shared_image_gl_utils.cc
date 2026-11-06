@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared image GL utility helpers
+// summary: Implements GL helpers for shared images, including pack and unpack pixel state savers, texture creation with parameters, and tex storage availability checks.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/shared_image_gl_utils.h"
 
 #include "gpu/command_buffer/service/gl_utils.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for proto shader to GLSL conversion
+// summary: Declares GetShader, which renders a protobuf shader message as GLSL source text.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_TESTS_LPM_GL_LPM_SHADER_TO_STRING_H_
 #define GPU_COMMAND_BUFFER_TESTS_LPM_GL_LPM_SHADER_TO_STRING_H_
 

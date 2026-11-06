@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android video image backing implementation
+// summary: Implements shared image backing for Android video frames, creating video reader backings and retrieving YCbCr sampling info for Vulkan or Dawn.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/android_video_image_backing.h"
 
 #include <dawn/webgpu.h>

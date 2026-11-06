@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedImageBackingFactory base implementation
+// summary: Implements the backing factory base class with default creation stubs, usage allowlist validation and weak pointer support.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/shared_image_backing_factory.h"
 
 #include "gpu/command_buffer/common/shared_image_usage.h"

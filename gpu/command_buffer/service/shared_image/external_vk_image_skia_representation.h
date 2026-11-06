@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External Vulkan image Skia representation declaration
+// summary: Declares ExternalVkImageSkiaImageRepresentation, the Skia Ganesh representation for external Vulkan image backings with semaphore-based begin and end access.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_EXTERNAL_VK_IMAGE_SKIA_REPRESENTATION_H_
 #define GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_EXTERNAL_VK_IMAGE_SKIA_REPRESENTATION_H_
 

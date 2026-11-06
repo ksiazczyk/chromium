@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GL pixel repack utilities declaration
+// summary: Declares helpers for repacking pixel data as RGB, adjusting strides, and swapping red and blue channels when uploading pixels for GL SharedImages.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_GL_REPACK_UTILS_H_
 #define GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_GL_REPACK_UTILS_H_
 

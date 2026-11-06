@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DXGI swap chain image backing implementation
+// summary: Implements the DXGI swap chain shared image backing, creating composition swap chains on a D3D11 device and producing overlay, Skia and Dawn representations.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/dxgi_swap_chain_image_backing.h"
 
 #include "base/debug/alias.h"

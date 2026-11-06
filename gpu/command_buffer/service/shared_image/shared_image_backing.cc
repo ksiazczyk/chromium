@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedImageBacking base class implementation
+// summary: Implements the SharedImageBacking base class, including backing type name strings, Skia image info helpers and common lifecycle behavior.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/shared_image_backing.h"
 
 #include <algorithm>

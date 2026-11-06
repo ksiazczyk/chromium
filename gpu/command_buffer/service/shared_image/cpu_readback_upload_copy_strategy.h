@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CPU readback upload copy strategy for shared images
+// summary: Declares CPUReadbackUploadCopyStrategy, a universal but potentially slow shared image copy strategy that reads back the source to the CPU and uploads it to the destination.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_CPU_READBACK_UPLOAD_COPY_STRATEGY_H_
 #define GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_CPU_READBACK_UPLOAD_COPY_STRATEGY_H_
 

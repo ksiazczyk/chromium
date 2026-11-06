@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLTextureHolder implementation
+// summary: Implements a holder for a single GL texture, supporting pixel upload and readback, promise image creation, cleared rect tracking, and context loss handling for validating and passthrough decoders.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/gl_texture_holder.h"
 
 #include <optional>

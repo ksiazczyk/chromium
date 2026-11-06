@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Draw buffers unit tests
+// summary: Unit tests verifying lazy clearing of integer renderbuffers when draw buffers are set to GL_NONE in OpenGL ES 3 contexts.
+// ---
+
 #include <GLES2/gl2.h>
 #include <GLES2/gl2ext.h>
 #include <GLES2/gl2extchromium.h>

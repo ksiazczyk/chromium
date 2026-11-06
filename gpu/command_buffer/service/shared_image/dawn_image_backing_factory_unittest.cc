@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dawn image backing factory unit tests
+// summary: Unit tests for DawnImageBackingFactory covering image creation, clearing, and upload and readback on a Dawn Vulkan device.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/dawn_image_backing_factory.h"
 
 #include <dawn/webgpu_cpp.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLTextureImageBacking implementation
+// summary: Implements a SharedImageBacking that stores shared images in GL textures and produces GL, Dawn, Skia Ganesh and Graphite, and video representations.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/gl_texture_image_backing.h"
 
 #include <algorithm>

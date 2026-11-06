@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Proto shader to GLSL source conversion
+// summary: Implements conversion of protobuf shader messages into GLSL source text for the shader compilation fuzzer.
+// ---
+
 #include "gpu/command_buffer/tests/lpm/gl_lpm_shader_to_string.h"
 
 #include <ostream>

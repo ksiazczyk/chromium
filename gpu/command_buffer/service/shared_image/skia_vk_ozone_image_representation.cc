@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia Vulkan Ozone image representation implementation
+// summary: Implements SkiaVkOzoneImageRepresentation, a Vulkan-backed Skia Ganesh representation of OzoneImageBacking with per-plane promise textures and fence-based cleanup.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/skia_vk_ozone_image_representation.h"
 
 #include <utility>

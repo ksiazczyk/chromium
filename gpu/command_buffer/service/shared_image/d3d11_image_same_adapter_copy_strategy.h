@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D11 same-adapter copy strategy declaration
+// summary: Declares D3D11ImageSameAdapterCopyStrategy, a copy strategy for D3DImageBacking on different devices that share the same adapter.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_D3D11_IMAGE_SAME_ADAPTER_COPY_STRATEGY_H_
 #define GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_D3D11_IMAGE_SAME_ADAPTER_COPY_STRATEGY_H_
 

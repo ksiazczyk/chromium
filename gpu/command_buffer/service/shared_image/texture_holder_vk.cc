@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextureHolderVk implementation
+// summary: Implements a holder pairing a Vulkan image with a Skia Ganesh backend texture and promise image, including readback into a pixmap.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/texture_holder_vk.h"
 
 #include "base/check.h"

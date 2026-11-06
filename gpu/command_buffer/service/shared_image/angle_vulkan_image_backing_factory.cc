@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ANGLE Vulkan image backing factory implementation
+// summary: Implements AngleVulkanImageBackingFactory, creating shared image backings for GL and Vulkan interop and checking supported usages and GPU memory buffer types.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/angle_vulkan_image_backing_factory.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Basic GL command buffer unit tests
+// summary: Unit tests covering basic GL operation, framebuffer rendering, simple shaders, and consistency between feature flags and reported GL capabilities.
+// ---
+
 #include <GLES2/gl2.h>
 #include <GLES2/gl2ext.h>
 #include <GLES2/gl2extchromium.h>

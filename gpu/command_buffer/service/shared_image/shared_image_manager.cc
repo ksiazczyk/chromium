@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared image manager implementation
+// summary: Implements the shared image manager that registers backings, produces representations, and reports GPU memory dumps.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/shared_image_manager.h"
 
 #include <inttypes.h>

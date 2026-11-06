@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AHardwareBuffer image backing factory unit tests
+// summary: Unit tests for the AHardwareBuffer backing factory, parameterized over GL, Vulkan, and Dawn GrContext types and skipped below Android O.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/ahardwarebuffer_image_backing_factory.h"
 
 #include <android/hardware_buffer.h>

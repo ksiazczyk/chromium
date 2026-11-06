@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoImageReaderImageBacking implementation
+// summary: Implements a shared image backing that renders MediaCodec video buffers to a texture owner or overlay and produces GL, Skia, Dawn, and overlay representations.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/video_image_reader_image_backing.h"
 
 #include <android/hardware_buffer.h>

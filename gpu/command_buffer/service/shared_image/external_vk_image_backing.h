@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalVkImageBacking class declaration
+// summary: Declares the ExternalVkImageBacking shared image backing with factory methods for creation from pixel data, GpuMemoryBuffer handles, and pixmaps, plus access stream support checks.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_EXTERNAL_VK_IMAGE_BACKING_H_
 #define GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_EXTERNAL_VK_IMAGE_BACKING_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D access object variant for D3D image backings
+// summary: Defines the D3DAccessObject variant that identifies the D3D11 device or D3D12 command queue performing an access on a D3D image backing.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_D3D_ACCESS_OBJECT_H_
 #define GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_D3D_ACCESS_OBJECT_H_
 

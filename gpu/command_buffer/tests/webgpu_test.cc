@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebGPU test base implementation
+// summary: Implements the WebGPUTest base class that sets up in-process WebGPU contexts, adapters, and support helpers for WebGPU command buffer tests.
+// ---
+
 #include "gpu/command_buffer/tests/webgpu_test.h"
 
 #include <dawn/dawn_proc.h>

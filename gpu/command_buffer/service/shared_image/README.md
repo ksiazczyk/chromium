@@ -1,3 +1,11 @@
+---
+type: readme
+title: Shared Image Infrastructure
+summary: Overview of Chromium's Shared Image system covering core components, the separation of storage and access, cross-API interoperability, and platform-specific backing factories.
+relations:
+  - documents /gpu/command_buffer/service/shared_image/ahardwarebuffer_image_backing_factory.cc
+---
+
 # Shared Image Infrastructure
 
 This document provides a high-level overview of the Shared Image system, a core component of Chromium's GPU architecture designed for sharing graphical resources across different parts of the browser and between various graphics APIs.

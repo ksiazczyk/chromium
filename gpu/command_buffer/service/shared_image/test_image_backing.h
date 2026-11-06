@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test image backing header
+// summary: Declares TestImageBacking, a test SharedImageBacking implementation with dummy GL textures plus helpers for upload, readback, access control, and purgeable callbacks.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_TEST_IMAGE_BACKING_H_
 #define GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_TEST_IMAGE_BACKING_H_
 

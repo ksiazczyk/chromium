@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GL point coord rendering unit tests
+// summary: Unit tests that render points with a shader using gl_PointCoord and verify pixel colors against the OpenGL ES 2.0 point coordinate formula.
+// ---
+
 #include <GLES2/gl2.h>
 #include <GLES2/gl2ext.h>
 #include <stdint.h>

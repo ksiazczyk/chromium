@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WrappedGraphiteTextureBacking implementation
+// summary: Implements a shared image backing wrapping Skia Graphite backend textures, supporting Graphite write access, uploads, readbacks, and fallback representations.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/wrapped_graphite_texture_backing.h"
 
 #include <utility>

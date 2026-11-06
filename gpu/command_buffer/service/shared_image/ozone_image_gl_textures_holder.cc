@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OzoneImageGLTexturesHolder implementation
+// summary: Implements creation and management of NativePixmap GL bindings and texture passthroughs for Ozone images, including context loss handling.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/ozone_image_gl_textures_holder.h"
 
 #include <memory>

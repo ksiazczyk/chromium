@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EGL image backing implementation
+// summary: Implements the EGLImageBacking shared image backing, creating EGLImage sibling textures with lock and fence based synchronization across GL contexts.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/egl_image_backing.h"
 
 #include <optional>

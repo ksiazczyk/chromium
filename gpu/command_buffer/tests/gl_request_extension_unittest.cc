@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GL request extension unit tests
+// summary: Unit tests verifying that glRequestExtensionCHROMIUM does not remove extensions and that requestable extension lists contain only valid extensions.
+// ---
+
 #include <GLES2/gl2.h>
 #include <GLES2/gl2ext.h>
 #include <GLES2/gl2extchromium.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebGPU decoder implementation
+// summary: Implements the service-side WebGPU decoder on top of Dawn, handling wire server commands, shared image mailboxes, caching, and device lifecycle.
+// ---
+
 #include "gpu/command_buffer/service/webgpu_decoder_impl.h"
 
 #include <algorithm>

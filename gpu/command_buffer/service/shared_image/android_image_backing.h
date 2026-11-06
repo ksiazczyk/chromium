@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android image backing header
+// summary: Declares AndroidImageBacking, a clear-tracking shared image backing that tracks active readers, writers, and sync fence FDs on Android.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_ANDROID_IMAGE_BACKING_H_
 #define GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_ANDROID_IMAGE_BACKING_H_
 

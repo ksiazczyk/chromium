@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared image factory implementation
+// summary: Implements SharedImageFactory, which creates and destroys shared images by selecting platform-specific backing factories and copy strategies across GL, Vulkan, Dawn, and platform APIs.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/shared_image_factory.h"
 
 #include <inttypes.h>

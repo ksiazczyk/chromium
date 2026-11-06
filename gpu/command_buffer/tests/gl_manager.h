@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GLManager test support header
+// summary: Declares GLManager and its options for creating in-process GL contexts used by the command buffer unit tests.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_TESTS_GL_MANAGER_H_
 #define GPU_COMMAND_BUFFER_TESTS_GL_MANAGER_H_
 

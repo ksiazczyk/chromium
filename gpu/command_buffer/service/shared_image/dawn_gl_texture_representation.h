@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dawn GL texture representation
+// summary: Declares DawnGLTextureRepresentation, a Dawn image representation that wraps a GL texture representation for WebGPU texture access.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_DAWN_GL_TEXTURE_REPRESENTATION_H_
 #define GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_DAWN_GL_TEXTURE_REPRESENTATION_H_
 

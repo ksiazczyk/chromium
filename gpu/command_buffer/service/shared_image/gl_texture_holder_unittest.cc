@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GLTextureHolder unit tests
+// summary: Unit tests for GLTextureHolder using mock GL bindings, verifying that readback restores the previous framebuffer binding before deleting the temporary FBO.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/gl_texture_holder.h"
 
 #include "base/memory/scoped_refptr.h"

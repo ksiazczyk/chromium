@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebGPU decoder unit tests
+// summary: gtest unit tests for the WebGPU decoder covering Dawn command execution and isolation key lookup for document and worker execution context tokens.
+// ---
+
 #include "gpu/command_buffer/service/webgpu_decoder.h"
 
 #include <memory>

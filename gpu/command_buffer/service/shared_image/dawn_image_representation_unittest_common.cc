@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dawn image representation test helpers
+// summary: Provides shared helpers for Dawn image representation unit tests, including shader, pipeline, buffer, and texture creation plus a video sampling test.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/dawn_image_representation_unittest_common.h"
 
 #include "base/compiler_specific.h"

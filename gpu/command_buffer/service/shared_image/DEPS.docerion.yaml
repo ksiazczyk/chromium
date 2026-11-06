@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for shared_image
+summary: Chromium DEPS rules granting extra include paths for shared image unit tests, the shared image factory, and the DComp backing factory unittest.

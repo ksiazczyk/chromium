@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: glGetBufferSubData unit tests
+// summary: Unit tests for glGetBufferSubData on ES3 contexts, covering transform feedback buffer reads via GLManager.
+// ---
+
 #include <GLES2/gl2.h>
 #include <GLES2/gl2ext.h>
 #include <GLES2/gl2extchromium.h>

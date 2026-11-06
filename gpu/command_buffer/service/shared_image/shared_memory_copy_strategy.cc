@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared memory copy strategy implementation
+// summary: Implements a copy strategy that moves pixels between a shared memory backing and another backing of matching format and size via upload or readback.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/shared_memory_copy_strategy.h"
 
 #include "gpu/command_buffer/service/shared_image/shared_image_backing.h"

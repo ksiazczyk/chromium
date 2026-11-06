@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebGL multi-draw unit tests
+// summary: Tests that WebGL multi-draw commands exceeding the transfer buffer size still issue every draw, verified via unique per-draw pixel colors.
+// ---
+
 #include <GLES2/gl2.h>
 #include <GLES2/gl2ext.h>
 #include <GLES2/gl2extchromium.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GL out-of-bounds matrix attribute unit tests
+// summary: Unit tests verifying that enabling vertex arrays for columns of a matrix attribute triggers out-of-bounds checks during draws in the GLES2 command buffer.
+// ---
+
 #include <GLES2/gl2.h>
 #include <GLES2/gl2ext.h>
 #include <stdint.h>

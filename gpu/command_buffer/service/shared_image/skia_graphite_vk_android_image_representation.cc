@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia Graphite Vulkan Android image representation implementation
+// summary: Implements SkiaGraphiteVkAndroidImageRepresentation, providing Skia Graphite write and read access to Android image backings via Vulkan images, fences, and semaphores.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/skia_graphite_vk_android_image_representation.h"
 
 #include <utility>

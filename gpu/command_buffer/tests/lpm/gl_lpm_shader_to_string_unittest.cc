@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for proto shader to GLSL conversion
+// summary: Parameterized gtest cases verifying that protobuf shader messages translate into the expected GLSL source strings.
+// ---
+
 #include "gpu/command_buffer/tests/lpm/gl_lpm_shader_to_string.h"
 
 #include <string>

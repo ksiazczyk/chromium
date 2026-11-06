@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia Graphite Vulkan Android image representation header
+// summary: Declares SkiaGraphiteVkAndroidImageRepresentation, a generic Skia Graphite/Vulkan representation for Android image backings with fence and semaphore handling.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_SKIA_GRAPHITE_VK_ANDROID_IMAGE_REPRESENTATION_H_
 #define GPU_COMMAND_BUFFER_SERVICE_SHARED_IMAGE_SKIA_GRAPHITE_VK_ANDROID_IMAGE_REPRESENTATION_H_
 

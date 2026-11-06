@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DComp surface image representation implementation
+// summary: Implements overlay, Skia Ganesh and Dawn representations of DComp surface shared images, delegating access to the backing's draw methods.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/dcomp_surface_image_representation.h"
 
 #include "base/win/windows_types.h"

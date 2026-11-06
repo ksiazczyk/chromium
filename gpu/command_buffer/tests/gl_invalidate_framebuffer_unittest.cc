@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: glInvalidateFramebuffer regression test
+// summary: Tests glInvalidateFramebuffer on an incomplete framebuffer to ensure a Qualcomm driver crash workaround holds without crashing.
+// ---
+
 #ifndef GL_GLEXT_PROTOTYPES
 #define GL_GLEXT_PROTOTYPES
 #endif

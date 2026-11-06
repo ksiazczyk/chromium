@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WrappedSkImageBackingFactory implementation
+// summary: Implements the backing factory for Skia-wrapped shared images, computing supported usages for Ganesh and Graphite Dawn contexts and creating backings.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/wrapped_sk_image_backing_factory.h"
 
 #include "base/memory/scoped_refptr.h"

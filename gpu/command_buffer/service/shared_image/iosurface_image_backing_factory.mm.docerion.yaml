@@ -1,0 +1,4 @@
+# Docerion header of iosurface_image_backing_factory.mm.
+type: source
+title: IOSurface image backing factory implementation
+summary: Implements creation and format support checks for IOSurface-backed shared images, including color space setup and GpuMemoryBuffer handle creation.

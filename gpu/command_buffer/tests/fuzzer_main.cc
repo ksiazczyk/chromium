@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GPU command buffer fuzzer entry point
+// summary: Fuzzer entry point that sets up GPU client and service environments with configurable GL extensions to fuzz command buffer decoding.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

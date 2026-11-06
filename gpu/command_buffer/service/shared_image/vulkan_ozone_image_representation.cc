@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VulkanOzoneImageRepresentation implementation
+// summary: Implements Vulkan access to an Ozone image backing, converting GPU fence handles to Vulkan semaphores during begin and end access.
+// ---
+
 #include "gpu/command_buffer/service/shared_image/vulkan_ozone_image_representation.h"
 
 #if BUILDFLAG(ENABLE_VULKAN)

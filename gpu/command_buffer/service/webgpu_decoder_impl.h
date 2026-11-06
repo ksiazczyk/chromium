@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebGPU decoder implementation factory
+// summary: Declares CreateWebGPUDecoderImpl, the factory that builds the Dawn-backed WebGPUDecoder implementation with its GPU service dependencies.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_WEBGPU_DECODER_IMPL_H_
 #define GPU_COMMAND_BUFFER_SERVICE_WEBGPU_DECODER_IMPL_H_
 
