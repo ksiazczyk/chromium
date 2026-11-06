@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Favicon database v4 schema found in the wild
+-- summary: SQL fixture combining version 3 and 4 schemas from error diagnostics, testing migration when tables appear to be already migrated.
+-- ---
+
 -- unit_tests --gtest_filter=FaviconDatabaseTest.WildSchema
 --
 -- Based on version 3 and 4 schema found in the wild by error

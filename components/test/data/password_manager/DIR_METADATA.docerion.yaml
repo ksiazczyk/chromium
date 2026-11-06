@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Password manager test data directory metadata
+summary: Points this test data directory's metadata to the shared components/password_manager COMMON_METADATA mixins.

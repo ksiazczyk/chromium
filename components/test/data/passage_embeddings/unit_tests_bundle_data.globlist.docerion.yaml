@@ -1,0 +1,4 @@
+# Docerion header of unit_tests_bundle_data.globlist.
+type: config
+title: Unit tests bundle data globlist
+summary: Glob list used by update_bundle_filelist.py to regenerate the unit tests bundle data filelist.

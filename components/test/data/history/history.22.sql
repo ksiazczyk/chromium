@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: History database version 22 test dump
+-- summary: SQL dump of a version 22 History database schema with urls, visits, downloads, and segments tables, stored as test data.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: History database schema version 49 test dump
+-- summary: SQL dump of a History SQLite database at schema version 49, adding an opener visit column to visits, for migration test data.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

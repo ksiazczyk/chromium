@@ -1,0 +1,4 @@
+# Docerion header of complex_schema.json.
+type: test
+title: Complex schema test fixture
+summary: JSON schema test fixture describing an array of objects with id, url, index and selected properties plus an optional trailing number.

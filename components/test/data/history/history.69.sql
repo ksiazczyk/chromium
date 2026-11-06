@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: History database dump version 69
+-- summary: SQL dump of a version 69 history database that adds an app_id column to the visits table, used as a test fixture.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

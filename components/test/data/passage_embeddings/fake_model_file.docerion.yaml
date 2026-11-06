@@ -1,0 +1,4 @@
+# Docerion header of fake_model_file.
+type: test
+title: Fake model file for passage embeddings unit tests
+summary: Empty placeholder model file used as fake passage embedding model data in unit tests.

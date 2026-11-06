@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Login database v8 SQL fixture
+-- summary: SQL dump of a version 8 login database with the same schema as v7 and sample credentials, used in migration tests.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

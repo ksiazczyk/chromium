@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Feed test data OWNERS
+summary: OWNERS rules that allow anyone to update the unit tests bundle data filelist in the feed test data directory.

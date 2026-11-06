@@ -1,0 +1,4 @@
+# Docerion header of auto_submit_synthetic_form.html.
+type: test
+title: Auto-Submit Synthetic Form Test
+summary: Test page with username and password inputs outside any form element to exercise auto-submission handling on synthetic forms.

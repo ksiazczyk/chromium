@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Login database test dump, schema version 3
+-- summary: SQL dump of a version 3 password manager login database with sample saved credentials, used as test data for migration tests.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

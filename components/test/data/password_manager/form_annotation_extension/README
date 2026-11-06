@@ -1,3 +1,9 @@
+---
+type: readme
+title: Form annotation extension README
+summary: Instructions for using the Chrome extension that records sign-in and sign-up form interactions to generate Python tests for the form classifier.
+---
+
 This extension generates Python scripts for testing form classifier in Chrome.
 
 0. Set the list of sites to be visited in "sites_to_visit.js" and the value of

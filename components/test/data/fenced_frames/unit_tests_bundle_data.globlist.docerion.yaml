@@ -1,0 +1,4 @@
+# Docerion header of unit_tests_bundle_data.globlist.
+type: test
+title: iOS unit test bundle data globlist for fenced frames
+summary: Glob patterns used by build/ios/update_bundle_filelist.py to generate the .filelist counterpart for the fenced frame iOS unit test bundle data.

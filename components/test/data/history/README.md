@@ -1,3 +1,12 @@
+---
+type: readme
+title: History test data README
+summary: Explains how to generate history.N.sql test database dumps with a Chromium build and the workflow for adding migration test files.
+relations:
+  - references /components/history/core/browser/history_backend_db_unittest.cc
+  - references /components/test/data/history/history.57.sql
+---
+
 ## How to generate history.N.sql files using a Chromium build.
 
 On a Linux build:

@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Login Database Version 14 Test Fixture
+-- summary: SQL dump of a version 14 login database that renames avatar_url to icon_url, with sample credentials for tests.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

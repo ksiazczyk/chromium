@@ -1,0 +1,4 @@
+# Docerion header of new_file.
+type: test
+title: Patch service new file fixture
+summary: Test fixture representing the file after a patch has been applied, used by the patch service tests as the expected result.

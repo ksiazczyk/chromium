@@ -1,0 +1,4 @@
+# Docerion header of fragment_boxes.html.
+type: test
+title: Fragment boxes test page
+summary: Test page with a link whose text wraps across line fragment boxes inside a narrow section.

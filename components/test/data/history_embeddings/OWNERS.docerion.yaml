@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for history_embeddings test data
+summary: Specifies who may approve changes to the history_embeddings test bundle data filelist.

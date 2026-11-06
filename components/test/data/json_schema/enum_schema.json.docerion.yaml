@@ -1,0 +1,4 @@
+# Docerion header of enum_schema.json.
+type: test
+title: Enum schema test fixture
+summary: JSON schema test fixture restricting values to an enum containing a string, the number 42, and an object with name and description.

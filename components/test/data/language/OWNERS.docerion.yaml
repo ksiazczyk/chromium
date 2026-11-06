@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for language test data
+summary: Grants per-file review ownership for the language test data, allowing anyone to update the bundle data filelist.

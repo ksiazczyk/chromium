@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Favicons version 4 test database dump
+-- summary: SQL dump of a version 4 favicons database used by FaviconDatabaseTest.Version4 to test database migration.
+-- ---
+
 -- unit_tests --gtest_filter=FaviconDatabaseTest.Version4
 --
 -- .dump of a version 4 Favicons database.

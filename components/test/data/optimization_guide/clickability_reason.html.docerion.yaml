@@ -1,0 +1,4 @@
+# Docerion header of clickability_reason.html.
+type: test
+title: Clickability reason test page
+summary: Test page with buttons and ARIA elements covering many clickability reasons such as hover handlers, toggles, and tab stops.

@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: History database version 40 test dump
+-- summary: SQL dump of a version 40 Chromium history database whose visits table gains an incremented_omnibox_typed_score column, used as migration test data.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Login database test dump, schema version 29
+-- summary: SQL dump of a version 29 login database with sample saved credentials, used as test data for login database migration tests.
+-- ---
+
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);
 INSERT INTO "meta" VALUES('last_compatible_version','29');

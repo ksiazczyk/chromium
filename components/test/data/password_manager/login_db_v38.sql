@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Login database version 38 test fixture
+-- summary: SQL dump of a version 38 login database with sharing columns and sample credentials, used as test data for password manager database tests.
+-- ---
+
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);
 INSERT INTO "meta" VALUES('last_compatible_version','38');

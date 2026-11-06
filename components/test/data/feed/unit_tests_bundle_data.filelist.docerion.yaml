@@ -1,0 +1,4 @@
+# Docerion header of unit_tests_bundle_data.filelist.
+type: data
+title: Feed unit tests bundle data filelist
+summary: Generated list of feed test data files, currently response.binarypb, to include in the iOS unit tests bundle; do not edit by hand.

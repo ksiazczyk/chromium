@@ -1,0 +1,4 @@
+# Docerion header of testsuite1.pb_text.
+type: test
+title: Cast certificate test suite 1 in text protobuf format
+summary: Text-format protobuf DeviceCertTestSuite with cast device certificate test cases, including DER certificate chains and test descriptions.

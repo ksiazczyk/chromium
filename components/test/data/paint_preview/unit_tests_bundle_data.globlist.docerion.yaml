@@ -1,0 +1,4 @@
+# Docerion header of unit_tests_bundle_data.globlist.
+type: test
+title: Paint preview unit tests bundle data globlist
+summary: Glob patterns used by update_bundle_filelist.py to regenerate the paint preview unit tests bundle data filelist, excluding metadata files.

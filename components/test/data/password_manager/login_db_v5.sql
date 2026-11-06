@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Login database v5 SQL fixture
+-- summary: SQL dump of a version 5 password manager login database with sample saved credentials, used to test database migration.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: List of sites to visit for test generation
+// summary: List of websites that the extension visits one by one to generate Python tests for their password forms.
+// ---
+
 // The list of sites to generate Python tests for.
 const sitesToVisit = [
 '360.cn',

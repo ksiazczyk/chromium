@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Login database test dump, schema version 28
+-- summary: SQL dump of a version 28 login database that drops the preferred column, with sample credentials for migration tests.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

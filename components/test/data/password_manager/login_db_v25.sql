@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Login database test dump, schema version 25
+-- summary: SQL dump of a version 25 login database that adds the date_last_used column, with sample credentials for migration tests.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

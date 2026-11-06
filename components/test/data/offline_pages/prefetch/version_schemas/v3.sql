@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Prefetch database schema v3.sql
+-- summary: SQL fixture that creates version 3 of the offline pages prefetch database schema, adding thumbnail, favicon, snippet and attribution columns with sample rows.
+-- ---
+
 INSERT OR REPLACE INTO meta (key, value)
 VALUES ('version', 3), ('last_compatible_version', 1);
 

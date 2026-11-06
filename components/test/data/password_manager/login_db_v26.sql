@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Login database test dump, schema version 26
+-- summary: SQL dump of a version 26 login database using an autoincrementing id primary key, with sample credentials for migration tests.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

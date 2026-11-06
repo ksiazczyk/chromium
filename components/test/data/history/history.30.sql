@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: History database version 30 test dump
+-- summary: SQL dump of a version 30 History database schema adding guid and hash columns to downloads, stored as test data.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

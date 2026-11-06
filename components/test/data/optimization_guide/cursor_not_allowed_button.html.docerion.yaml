@@ -1,0 +1,4 @@
+# Docerion header of cursor_not_allowed_button.html.
+type: test
+title: Cursor not-allowed button test page
+summary: Test page with a button styled with the not-allowed cursor.

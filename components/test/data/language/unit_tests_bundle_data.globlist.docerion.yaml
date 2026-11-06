@@ -1,0 +1,4 @@
+# Docerion header of unit_tests_bundle_data.globlist.
+type: config
+title: Unit tests bundle data globlist
+summary: Glob patterns defining which language test data files are included when regenerating the unit test bundle filelist.

@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: History database version 43 test dump
+-- summary: SQL dump of a version 43 Chromium history database adding a publicly_routable visit column and a content_annotations table, used as migration test data.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

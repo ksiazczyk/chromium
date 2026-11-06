@@ -1,0 +1,4 @@
+# Docerion header of Favicons.corrupt_meta.disable.
+type: test
+title: 'Disabled fixture: favicon database with corrupt meta table'
+summary: SQL fixture recreating a v6-consistent favicon database whose meta table has a corrupted key column, disabled from the WildSchema unit test while a general schema-validity fix is considered.

@@ -1,0 +1,4 @@
+# Docerion header of reference_types.json.
+type: test
+title: Reference types test fixture
+summary: JSON test data defining named referenceable types MinLengthString and Max10Int with minimum length and maximum value constraints.

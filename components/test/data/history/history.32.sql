@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: History database version 32 test dump
+-- summary: SQL dump of a version 32 Chromium history database, including sample download rows, used as test data for migration tests.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

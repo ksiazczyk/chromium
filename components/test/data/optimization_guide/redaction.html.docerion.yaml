@@ -1,0 +1,4 @@
+# Docerion header of redaction.html.
+type: test
+title: Redaction test page
+summary: Test page with a form containing text and password inputs, including a filled password field, for testing content redaction.

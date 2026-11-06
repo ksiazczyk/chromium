@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Login database v6 SQL fixture
+-- summary: SQL dump of a version 6 login database adding the date_synced column, with sample credentials for migration tests.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

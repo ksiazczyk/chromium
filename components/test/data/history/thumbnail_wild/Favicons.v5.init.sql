@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Favicon database v5 schema with leftover temp tables
+-- summary: SQL fixture of a version 5 database containing unexpected temp_favicons tables from an aborted history clear, testing migration cleanup.
+-- ---
+
 -- unit_tests --gtest_filter=FaviconDatabaseTest.WildSchema
 --
 -- Based on version 5 schema found in the wild by error diagnostics.

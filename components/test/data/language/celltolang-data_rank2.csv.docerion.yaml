@@ -1,0 +1,4 @@
+# Docerion header of celltolang-data_rank2.csv.
+type: data
+title: Cell-to-language test data, rank 2
+summary: CSV test data mapping coordinate pairs to the Bengali language code (bn) for cell-to-language detection.

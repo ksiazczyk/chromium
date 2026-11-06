@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: History database version 38 test dump
+-- summary: SQL dump of a version 38 Chromium history database that adds downloads_slices and typed_url_sync_metadata tables, used as migration test data.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Omnibox shortcuts test database without fill_into_edit column
+-- summary: SQL fixture of an omni_box_shortcuts database lacking the fill_into_edit column, with sample shortcut rows for testing omnibox shortcut loading and migration.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE omni_box_shortcuts ( id VARCHAR PRIMARY KEY, text VARCHAR, url VARCHAR, contents VARCHAR, contents_class VARCHAR, description VARCHAR, description_class VARCHAR, last_access_time INTEGER, number_of_hits INTEGER);

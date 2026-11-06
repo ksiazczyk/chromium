@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Login database v9 without use_additional_auth field
+-- summary: Version 9 login database dump lacking the use_additional_auth column, used to test migration of databases missing that field.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

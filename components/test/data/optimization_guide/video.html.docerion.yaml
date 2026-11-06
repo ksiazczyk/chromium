@@ -1,0 +1,4 @@
+# Docerion header of video.html.
+type: test
+title: Video element test page
+summary: Test page embedding a video element that references video.mp4, used as test data for optimization guide features.

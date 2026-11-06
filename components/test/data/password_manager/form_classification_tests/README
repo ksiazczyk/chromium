@@ -1,3 +1,9 @@
+---
+type: readme
+title: Form classification tests usage instructions
+summary: Instructions for building Chrome and ChromeDriver, setting their paths in the test base class, and running the sign-in or sign-up form classification tests.
+---
+
 This file contains some instructions on using automated form classification
 tests.
 

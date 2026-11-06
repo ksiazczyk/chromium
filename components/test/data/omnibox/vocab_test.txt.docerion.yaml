@@ -1,0 +1,4 @@
+# Docerion header of vocab_test.txt.
+type: test
+title: Vocabulary test data for on-device model
+summary: Vocabulary token list used as test input for the on-device omnibox head model.

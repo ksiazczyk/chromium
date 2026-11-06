@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Broken login database version 1 SQL dump
+-- summary: SQL dump of a deliberately inconsistent login database with a version 4 schema marked as version 1, used to test broken database handling per crbug 295851.
+-- ---
+
 -- Version 4 schema with meta.version==1.  Tests http://crbug.com/295851
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;

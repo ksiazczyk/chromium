@@ -1,0 +1,4 @@
+# Docerion header of unit_tests_bundle_data.filelist.
+type: config
+title: Unit tests bundle data filelist
+summary: Generated filelist specifying the fake model file to include in the iOS unit tests bundle data.

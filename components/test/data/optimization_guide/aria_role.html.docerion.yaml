@@ -1,0 +1,4 @@
+# Docerion header of aria_role.html.
+type: test
+title: ARIA role test page
+summary: Test page with a div carrying role=button for ARIA role testing.

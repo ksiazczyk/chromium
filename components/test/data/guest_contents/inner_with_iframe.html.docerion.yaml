@@ -1,0 +1,4 @@
+# Docerion header of inner_with_iframe.html.
+type: test
+title: Inner HTML page with its own iframe
+summary: Test fixture with a plain HTML page that embeds its own blank iframe, for guest contents testing.

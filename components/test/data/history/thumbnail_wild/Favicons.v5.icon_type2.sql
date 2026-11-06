@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Favicon database v5 schema with mixed-version favicons table
+-- summary: SQL fixture of a version 5 database mixing v3 and v5 favicons table attributes, testing recovery via RazeAndClose in the WildSchema unit test.
+-- ---
+
 -- unit_tests --gtest_filter=FaviconDatabaseTest.WildSchema
 --
 -- Based on version 5 schema found in the wild by error diagnostics.

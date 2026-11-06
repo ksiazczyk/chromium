@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Broken login database dump, version 4 schema with meta version 2
+-- summary: SQL dump pairing a version 4 logins schema with meta version 2 to test handling of mismatched database versions, referencing crbug.com/295851.
+-- ---
+
 -- Version 4 schema with meta.version==2.  Tests http://crbug.com/295851
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;

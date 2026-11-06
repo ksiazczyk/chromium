@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Login Database Version 13 Test Fixture
+-- summary: SQL dump of a version 13 password manager login database with sample credentials, used as a test fixture.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

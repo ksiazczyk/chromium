@@ -1,2 +1,8 @@
+---
+type: readme
+title: README for wild favicon schema fixtures
+summary: Explains that the SQL files in this folder capture real favicon database schemas found in problem databases in the wild.
+---
+
 These files represent actual schema found in problem databases in the
 wild.

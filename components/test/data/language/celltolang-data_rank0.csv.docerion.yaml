@@ -1,0 +1,4 @@
+# Docerion header of celltolang-data_rank0.csv.
+type: data
+title: Cell-to-language test data, rank 0
+summary: CSV test data mapping coordinate pairs to the Hindi language code (hi) for cell-to-language detection.

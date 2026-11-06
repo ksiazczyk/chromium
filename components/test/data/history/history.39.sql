@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: History database version 39 test dump
+-- summary: SQL dump of a version 39 Chromium history database whose downloads_slices table gains a finished column, used as migration test data.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

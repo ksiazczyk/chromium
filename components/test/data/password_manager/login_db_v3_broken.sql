@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Broken login database version 3 test fixture
+-- summary: SQL dump with a version 4 schema whose metadata claims version 3, reproducing crbug 295851 for password database migration tests.
+-- ---
+
 -- Version 4 schema with meta.version==3.  Tests http://crbug.com/295851
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;

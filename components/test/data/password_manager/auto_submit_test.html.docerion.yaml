@@ -1,0 +1,4 @@
+# Docerion header of auto_submit_test.html.
+type: test
+title: Auto-Submit Test (Standard)
+summary: Test page with a standard login form that meets the auto-submission criteria, including a checkbox between the fields that the heuristic ignores.

@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: In-memory URL index test database fixture
+-- summary: SQL fixture with urls and visits history rows that must stay in sync with in_memory_url_index_unittest.cc for autocomplete provider tests.
+-- ---
+
 -- This file contains test data used
 -- chrome/browser/history/in_memory_url_index_unittest.cc
 --

@@ -1,0 +1,4 @@
+# Docerion header of auto_submit_disabled_field_after.html.
+type: test
+title: Auto-submit test page with field after password
+summary: Test page verifying that form auto-submit is suppressed when a focusable text field appears after the password field.

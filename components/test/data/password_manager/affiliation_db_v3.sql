@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: data
+-- title: Affiliation database fixture, schema version 3
+-- summary: SQL dump of a version 3 affiliation database adding an eq_class_groups table for group display testing.
+-- ---
+
 PRAGMA foreign_keys=1;
 BEGIN TRANSACTION;
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Password manager test data OWNERS file
+summary: Delegates ownership and review responsibility to the parent components/password_manager OWNERS file.

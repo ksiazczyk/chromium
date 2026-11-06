@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Cast certificate test data DIR_METADATA
+summary: Configures the monorail and Buganizer issue tracker components used for the cast certificate test data directory.

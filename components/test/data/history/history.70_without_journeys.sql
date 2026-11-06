@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: History database dump version 70 without journeys
+-- summary: Variant of the version 70 history database dump without journeys data, used as a test fixture for the history component.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: data
+-- title: Affiliation database fixture, schema version 7
+-- summary: SQL dump of a version 7 affiliation database adding change_password_url columns for change-password test scenarios.
+-- ---
+
 PRAGMA foreign_keys=1;
 BEGIN TRANSACTION;
 

@@ -1,0 +1,4 @@
+# Docerion header of pattern_properties_dot.json.
+type: test
+title: Pattern properties dot schema test fixture
+summary: JSON schema test fixture applying a patternProperties rule that matches single-character property names with any type.

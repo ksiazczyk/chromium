@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Login database v9 SQL fixture
+-- summary: SQL dump of a version 9 login database using microsecond-based creation timestamps and sample credentials for migration tests.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

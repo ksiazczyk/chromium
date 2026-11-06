@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: History database dump at schema version 65
+-- summary: SQL dump of a browser history database at schema version 65, with default scores for cluster visit associations, used as test data for history database migrations.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);
