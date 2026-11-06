@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostDeviceTimestampManager
+// summary: Interface recording when the logged-in user completed the MultiDevice setup flow on this device, exposing setup completion and host verification timestamps.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_MULTIDEVICE_SETUP_HOST_DEVICE_TIMESTAMP_MANAGER_H_
 #define CHROMEOS_ASH_SERVICES_MULTIDEVICE_SETUP_HOST_DEVICE_TIMESTAMP_MANAGER_H_
 

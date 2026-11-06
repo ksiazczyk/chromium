@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Quick Pair build targets
+summary: Defines the Quick Pair source set, test support library, unit test and fuzzer targets with their sources and dependencies.

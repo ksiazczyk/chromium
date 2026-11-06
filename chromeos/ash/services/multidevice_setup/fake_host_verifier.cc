@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake host verifier implementation
+// summary: Implements the test fake HostVerifier and its observer, tracking verification state and counting verify-now attempts and host verifications.
+// ---
+
 #include "chromeos/ash/services/multidevice_setup/fake_host_verifier.h"
 
 namespace ash {

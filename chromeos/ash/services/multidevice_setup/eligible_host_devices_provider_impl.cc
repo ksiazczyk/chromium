@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EligibleHostDevicesProviderImpl implementation
+// summary: Implements the eligible host devices provider using DeviceSyncClient, filtering devices by BETTER_TOGETHER host state and sorting by server activity.
+// ---
+
 #include "chromeos/ash/services/multidevice_setup/eligible_host_devices_provider_impl.h"
 
 #include "ash/constants/ash_features.h"

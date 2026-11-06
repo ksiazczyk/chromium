@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-process binding for CrosNetworkConfig
+// summary: Binds incoming Mojo receivers to a global in-process CrosNetworkConfig instance and supports overriding that instance for tests.
+// ---
+
 #include "chromeos/ash/services/network_config/in_process_instance.h"
 
 #include "base/no_destructor.h"

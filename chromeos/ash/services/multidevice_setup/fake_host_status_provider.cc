@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake host status provider implementation
+// summary: Implements the test fake HostStatusProvider and its observer, letting tests set the host with a status and recording change notifications.
+// ---
+
 #include "chromeos/ash/services/multidevice_setup/fake_host_status_provider.h"
 
 namespace ash {

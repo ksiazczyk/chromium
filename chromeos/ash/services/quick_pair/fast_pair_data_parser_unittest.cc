@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fast Pair data parser unit tests
+// summary: Unit tests covering decryption and parsing of Fast Pair service data, responses, passkeys, account key filters and advertisements.
+// ---
+
 #include "chromeos/ash/services/quick_pair/fast_pair_data_parser.h"
 
 #include <stddef.h>

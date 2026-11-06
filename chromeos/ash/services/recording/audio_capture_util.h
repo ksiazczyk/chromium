@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio capture utilities and constants
+// summary: Declares the 48 kHz audio capture parameters, FIFO duration limit, and helper functions for creating and accumulating stereo audio buses.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_RECORDING_AUDIO_CAPTURE_UTIL_H_
 #define CHROMEOS_ASH_SERVICES_RECORDING_AUDIO_CAPTURE_UTIL_H_
 

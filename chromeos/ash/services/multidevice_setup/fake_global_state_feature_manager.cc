@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake global state feature manager implementation
+// summary: Implements FakeGlobalStateFeatureManager, storing a simple boolean feature-enabled flag for tests.
+// ---
+
 #include "chromeos/ash/services/multidevice_setup/fake_global_state_feature_manager.h"
 
 namespace ash {

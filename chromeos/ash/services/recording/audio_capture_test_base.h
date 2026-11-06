@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio capture test fixture base class
+// summary: Declares a GoogleTest base fixture for audio stream and mixing tests, with helpers to produce and compare audio buses.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_RECORDING_AUDIO_CAPTURE_TEST_BASE_H_
 #define CHROMEOS_ASH_SERVICES_RECORDING_AUDIO_CAPTURE_TEST_BASE_H_
 

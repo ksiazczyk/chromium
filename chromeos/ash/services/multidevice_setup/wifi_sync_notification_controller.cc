@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WifiSyncNotificationController implementation
+// summary: Controls the Wifi Sync setup announcement notification, showing it on session state changes or resume when eligible, and registers its announcement preference.
+// ---
+
 #include "chromeos/ash/services/multidevice_setup/wifi_sync_notification_controller.h"
 
 #include <memory>

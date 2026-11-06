@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recording file IO helper implementation
+// summary: Implements periodic checks of remaining disk space or DriveFS quota while writing recording output, ending the recording when space falls below a threshold.
+// ---
+
 #include "chromeos/ash/services/recording/recording_file_io_helper.h"
 
 #include "base/byte_size.h"

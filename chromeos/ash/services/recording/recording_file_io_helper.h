@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recording file IO helper
+// summary: Declares a helper that monitors free disk space or DriveFS quota during recording writes and notifies a delegate of failures.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_RECORDING_RECORDING_FILE_IO_HELPER_H_
 #define CHROMEOS_ASH_SERVICES_RECORDING_RECORDING_FILE_IO_HELPER_H_
 

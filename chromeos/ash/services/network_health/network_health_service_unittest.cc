@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network health service unit tests
+// summary: Unit tests for the network health service using fake ethernet and wifi devices, a mock timer and a fake network events observer.
+// ---
+
 #include "chromeos/ash/services/network_health/network_health_service.h"
 
 #include <utility>

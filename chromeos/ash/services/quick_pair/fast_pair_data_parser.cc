@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair data parser implementation
+// summary: Implements parsing of untrusted Fast Pair Bluetooth data, including service data, decrypted responses, passkeys, advertisements and message stream messages.
+// ---
+
 #include "chromeos/ash/services/quick_pair/fast_pair_data_parser.h"
 
 #include <algorithm>

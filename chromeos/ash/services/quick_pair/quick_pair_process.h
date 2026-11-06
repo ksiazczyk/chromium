@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Pair process helpers header
+// summary: Declares callbacks and functions for parsing service data, decrypted responses, passkeys, advertisements, and message stream messages via the Quick Pair process.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_QUICK_PAIR_QUICK_PAIR_PROCESS_H_
 #define CHROMEOS_ASH_SERVICES_QUICK_PAIR_QUICK_PAIR_PROCESS_H_
 

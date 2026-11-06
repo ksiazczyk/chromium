@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-process instance binding declarations
+// summary: Declares BindToInProcessInstance and OverrideInProcessInstanceForTesting for binding the network config service in process.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_NETWORK_CONFIG_IN_PROCESS_INSTANCE_H_
 #define CHROMEOS_ASH_SERVICES_NETWORK_CONFIG_IN_PROCESS_INSTANCE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SignalStrengthTracker unit tests
+// summary: Unit tests verifying that SignalStrengthTracker computes averages and standard deviations correctly, stores samples newest-first and caps the sample list at the maximum size.
+// ---
+
 #include "chromeos/ash/services/network_health/signal_strength_tracker.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiDeviceSetupImpl header
+// summary: Declares MultiDeviceSetupImpl, the concrete mojom::MultiDeviceSetup implementation that observes host status and feature state changes.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_MULTIDEVICE_SETUP_MULTIDEVICE_SETUP_IMPL_H_
 #define CHROMEOS_ASH_SERVICES_MULTIDEVICE_SETUP_MULTIDEVICE_SETUP_IMPL_H_
 

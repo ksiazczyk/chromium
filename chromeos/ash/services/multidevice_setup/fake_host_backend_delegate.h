@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake host backend delegate for tests
+// summary: Declares test fakes for HostBackendDelegate and its observer, tracking pending host requests and call counts.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_MULTIDEVICE_SETUP_FAKE_HOST_BACKEND_DELEGATE_H_
 #define CHROMEOS_ASH_SERVICES_MULTIDEVICE_SETUP_FAKE_HOST_BACKEND_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioStream FIFO implementation
+// summary: Implements the AudioStream FIFO, appending timestamped audio buses with silence gap filling and consuming frames into a destination bus.
+// ---
+
 #include "chromeos/ash/services/recording/audio_stream.h"
 
 #include <algorithm>

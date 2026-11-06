@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GIF encoding type definitions
+// summary: Defines shared types for GIF encoding such as LZW codes, pixel color indices, and the color palette table.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_RECORDING_GIF_ENCODING_TYPES_H_
 #define CHROMEOS_ASH_SERVICES_RECORDING_GIF_ENCODING_TYPES_H_
 

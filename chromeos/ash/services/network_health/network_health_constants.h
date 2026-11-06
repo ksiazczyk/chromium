@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network health timing constants
+// summary: Defines constants for the signal strength sample rate, sampling window and tracked guids update interval.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_NETWORK_HEALTH_NETWORK_HEALTH_CONSTANTS_H_
 #define CHROMEOS_ASH_SERVICES_NETWORK_HEALTH_NETWORK_HEALTH_CONSTANTS_H_
 

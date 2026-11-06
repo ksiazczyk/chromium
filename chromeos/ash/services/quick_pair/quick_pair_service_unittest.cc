@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Pair service unit tests
+// summary: Unit tests for QuickPairService that bind the service over Mojo and verify Connect successfully creates the FastPairDataParser.
+// ---
+
 #include "chromeos/ash/services/quick_pair/quick_pair_service.h"
 
 #include "base/functional/bind.h"

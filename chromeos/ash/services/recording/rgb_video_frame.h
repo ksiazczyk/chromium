@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RGB video frame
+// summary: Declares the RgbVideoFrame class and RgbColor struct for conveniently accessing and comparing pixel colors of captured video frames.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_RECORDING_RGB_VIDEO_FRAME_H_
 #define CHROMEOS_ASH_SERVICES_RECORDING_RGB_VIDEO_FRAME_H_
 

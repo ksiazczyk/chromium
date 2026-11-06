@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the multidevice_setup proto library
+summary: Defines the proto_library GN target that builds multidevice_setup.proto, restricted to ChromeOS builds.

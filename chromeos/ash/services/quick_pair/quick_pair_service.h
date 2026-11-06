@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Pair service header
+// summary: Declares QuickPairService, the Mojo service that provides Quick Pair functionality needing a utility process, such as parsing untrusted bytes.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_QUICK_PAIR_QUICK_PAIR_SERVICE_H_
 #define CHROMEOS_ASH_SERVICES_QUICK_PAIR_QUICK_PAIR_SERVICE_H_
 

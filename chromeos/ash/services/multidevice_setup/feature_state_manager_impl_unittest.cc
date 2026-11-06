@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FeatureStateManagerImpl unit tests
+// summary: Unit tests for FeatureStateManagerImpl covering feature state computation across test host devices, policies, and preference changes.
+// ---
+
 #include "chromeos/ash/services/multidevice_setup/feature_state_manager_impl.h"
 
 #include <memory>

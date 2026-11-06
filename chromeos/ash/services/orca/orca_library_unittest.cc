@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OrcaLibrary unit tests
+// summary: Tests OrcaLibrary binding behavior against missing, wrongly exported, failing, and working test shared libraries, including Mojo setup and log sink output.
+// ---
+
 #include "chromeos/ash/services/orca/orca_library.h"
 
 #include "base/logging.h"

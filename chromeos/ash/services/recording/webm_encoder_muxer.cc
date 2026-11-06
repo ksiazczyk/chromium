@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebM encoder muxer implementation
+// summary: Implements VP8 video and Opus audio encoding with WebM muxing, writing encoded chunks to a file and handling IO failures and disk space limits.
+// ---
+
 #include "chromeos/ash/services/recording/webm_encoder_muxer.h"
 
 #include "base/byte_size.h"

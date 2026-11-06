@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GrandfatheredEasyUnlockHostDisabler implementation
+// summary: Disables the EasyUnlock host feature on devices whose BetterTogether host state was disabled, retrying failed backend requests.
+// ---
+
 #include "chromeos/ash/services/multidevice_setup/grandfathered_easy_unlock_host_disabler.h"
 
 #include <algorithm>

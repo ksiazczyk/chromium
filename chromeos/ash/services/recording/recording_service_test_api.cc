@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Recording service test API implementation
+// summary: Implements a test API that exposes recording service internals like capture parameters, video thumbnails, encoder reconfigures and audio capturers for use in tests.
+// ---
+
 #include "chromeos/ash/services/recording/recording_service_test_api.h"
 
 #include "base/functional/bind.h"

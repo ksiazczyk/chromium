@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GifEncoder class header
+// summary: Declares the GifEncoder class that encodes video frames into an animated GIF file on a sequenced background task runner.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_RECORDING_GIF_ENCODER_H_
 #define CHROMEOS_ASH_SERVICES_RECORDING_GIF_ENCODER_H_
 

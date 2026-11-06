@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MultiDeviceSetupImpl unit tests
+// summary: Unit tests for MultiDeviceSetupImpl that use fake delegates, providers, and observers to verify multi-device setup behavior.
+// ---
+
 #include "chromeos/ash/services/multidevice_setup/multidevice_setup_impl.h"
 
 #include <algorithm>

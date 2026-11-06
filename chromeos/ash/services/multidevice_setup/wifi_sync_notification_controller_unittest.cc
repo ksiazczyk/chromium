@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WifiSyncNotificationController unit tests
+// summary: Unit tests for WifiSyncNotificationController covering announcement eligibility using fake host status provider, device sync client, and delegate notifier.
+// ---
+
 #include "chromeos/ash/services/multidevice_setup/wifi_sync_notification_controller.h"
 
 #include <memory>

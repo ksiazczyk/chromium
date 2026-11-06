@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recording encoder base implementation
+// summary: Implements failure notification and encoder status handling shared by concrete audio and video recording encoders.
+// ---
+
 #include "chromeos/ash/services/recording/recording_encoder.h"
 
 #include "base/logging.h"

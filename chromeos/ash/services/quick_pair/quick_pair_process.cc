@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Pair process helpers
+// summary: Helper functions that obtain a process reference and dispatch parsing tasks such as model ID lookup and decrypted response parsing to the utility process.
+// ---
+
 #include "chromeos/ash/services/quick_pair/quick_pair_process.h"
 
 #include "base/functional/bind.h"

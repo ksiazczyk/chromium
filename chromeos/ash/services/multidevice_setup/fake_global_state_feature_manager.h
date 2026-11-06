@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake global state feature manager for tests
+// summary: Declares a test GlobalStateFeatureManager fake that tracks a boolean feature-enabled state.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_MULTIDEVICE_SETUP_FAKE_GLOBAL_STATE_FEATURE_MANAGER_H_
 #define CHROMEOS_ASH_SERVICES_MULTIDEVICE_SETUP_FAKE_GLOBAL_STATE_FEATURE_MANAGER_H_
 

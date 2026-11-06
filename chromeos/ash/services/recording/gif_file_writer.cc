@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GIF file writer implementation
+// summary: Implements writing bytes, buffers, strings, and shorts to the GIF output file while checking for IO and quota errors.
+// ---
+
 #include "chromeos/ash/services/recording/gif_file_writer.h"
 
 #include <string_view>

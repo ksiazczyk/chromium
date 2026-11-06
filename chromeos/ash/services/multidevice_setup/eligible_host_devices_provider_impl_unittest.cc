@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Eligible host devices provider unit tests
+// summary: Unit tests for EligibleHostDevicesProviderImpl covering device filtering, sorting, and feature flag behavior using a fake DeviceSyncClient.
+// ---
+
 #include "chromeos/ash/services/multidevice_setup/eligible_host_devices_provider_impl.h"
 
 #include <memory>

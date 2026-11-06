@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for multidevice_setup
+summary: Declares the include rules that restrict which directories and headers this folder may depend on.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestApnData implementation
+// summary: Implements the APN test helper that converts a single data source into Mojo, ONC and Shill APN representations for use in tests.
+// ---
+
 #include "chromeos/ash/services/network_config/test_apn_data.h"
 
 #include <optional>

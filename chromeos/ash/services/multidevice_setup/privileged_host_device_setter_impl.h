@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrivilegedHostDeviceSetterImpl header
+// summary: Declares the concrete PrivilegedHostDeviceSetterBase implementation that forwards SetHostDevice calls to MultiDeviceSetupBase, including a factory with test override.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_MULTIDEVICE_SETUP_PRIVILEGED_HOST_DEVICE_SETTER_IMPL_H_
 #define CHROMEOS_ASH_SERVICES_MULTIDEVICE_SETUP_PRIVILEGED_HOST_DEVICE_SETTER_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostStatusProvider
+// summary: Interface providing the current MultiDevice host status and device, with an observer interface for being notified when the host status changes.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_MULTIDEVICE_SETUP_HOST_STATUS_PROVIDER_H_
 #define CHROMEOS_ASH_SERVICES_MULTIDEVICE_SETUP_HOST_STATUS_PROVIDER_H_
 

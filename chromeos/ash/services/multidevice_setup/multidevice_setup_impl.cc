@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiDeviceSetupImpl implementation
+// summary: Implements the concrete MultiDeviceSetup Mojo service, wiring together host device providers, feature state managers, and UMA logging for multi-device setup.
+// ---
+
 #include "chromeos/ash/services/multidevice_setup/multidevice_setup_impl.h"
 
 #include <algorithm>

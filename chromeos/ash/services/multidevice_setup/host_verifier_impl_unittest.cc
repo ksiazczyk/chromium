@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HostVerifierImpl unit tests
+// summary: Parameterized tests covering HostVerifierImpl verification flows, retry backoff behavior, and host state scenarios across v1 and non-v1 DeviceSync configurations.
+// ---
+
 #include "chromeos/ash/services/multidevice_setup/host_verifier_impl.h"
 
 #include <memory>

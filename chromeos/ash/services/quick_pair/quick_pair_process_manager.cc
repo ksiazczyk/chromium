@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Pair process manager shutdown reason logging
+// summary: Implements stream output of QuickPairProcessManager shutdown reasons such as normal shutdown, crash, and Mojo pipe disconnection.
+// ---
+
 #include "chromeos/ash/services/quick_pair/quick_pair_process_manager.h"
 
 #include <ostream>

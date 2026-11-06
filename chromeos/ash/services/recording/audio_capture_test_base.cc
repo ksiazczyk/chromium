@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio capture test fixture implementation
+// summary: Implements the shared audio capture test fixture helpers that create sine-wave audio buses and compare audio bus contents.
+// ---
+
 #include "chromeos/ash/services/recording/audio_capture_test_base.h"
 
 #include <ranges>

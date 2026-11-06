@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostBackendDelegateImpl
+// summary: Concrete HostBackendDelegate implementation that uses DeviceSyncClient to set the MultiDevice host on the back-end, persisting pending requests in prefs and retrying failed attempts.
+// ---
+
 #include "chromeos/ash/services/multidevice_setup/host_backend_delegate_impl.h"
 
 #include <algorithm>

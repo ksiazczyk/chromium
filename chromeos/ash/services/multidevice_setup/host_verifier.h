@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostVerifier interface
+// summary: Defines the HostVerifier interface that determines whether the MultiDevice host device is verified and notifies observers once verification completes.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_MULTIDEVICE_SETUP_HOST_VERIFIER_H_
 #define CHROMEOS_ASH_SERVICES_MULTIDEVICE_SETUP_HOST_VERIFIER_H_
 

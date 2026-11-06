@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fast Pair data parser fuzzer
+// summary: Fuzzes the Fast Pair data parser entry points with arbitrary byte inputs to uncover parsing crashes and security issues.
+// ---
+
 #include "chromeos/ash/services/quick_pair/fast_pair_data_parser.h"
 
 #include <fuzzer/FuzzedDataProvider.h>

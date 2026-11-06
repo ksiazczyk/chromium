@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake host backend delegate implementation
+// summary: Implements FakeHostBackendDelegate and its observer, simulating backend host changes, pending requests and failures.
+// ---
+
 #include "chromeos/ash/services/multidevice_setup/fake_host_backend_delegate.h"
 
 #include "base/functional/callback.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiDeviceSetupInitializer implementation
+// summary: Implements the initializer that buffers Mojo calls until the DeviceSyncClient is ready, then creates the concrete MultiDeviceSetup implementation.
+// ---
+
 #include <utility>
 
 #include "chromeos/ash/services/multidevice_setup/multidevice_setup_initializer.h"

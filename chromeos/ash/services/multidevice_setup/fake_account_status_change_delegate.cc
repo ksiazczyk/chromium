@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeAccountStatusChangeDelegate implementation
+// summary: Implements the fake mojom AccountStatusChangeDelegate that counts handled account status change events for tests.
+// ---
+
 #include "chromeos/ash/services/multidevice_setup/fake_account_status_change_delegate.h"
 
 namespace ash {

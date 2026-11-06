@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountStatusChangeDelegateNotifierImpl class declaration
+// summary: Declares the concrete notifier implementation, its factory, registered preference names, and observer hooks for host status changes and OOBE completion.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_MULTIDEVICE_SETUP_ACCOUNT_STATUS_CHANGE_DELEGATE_NOTIFIER_IMPL_H_
 #define CHROMEOS_ASH_SERVICES_MULTIDEVICE_SETUP_ACCOUNT_STATUS_CHANGE_DELEGATE_NOTIFIER_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostBackendDelegate
+// summary: Interface for setting and observing the MultiDevice host on the back-end, acting as the source of truth for the server's most recent host snapshot.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_MULTIDEVICE_SETUP_HOST_BACKEND_DELEGATE_H_
 #define CHROMEOS_ASH_SERVICES_MULTIDEVICE_SETUP_HOST_BACKEND_DELEGATE_H_
 

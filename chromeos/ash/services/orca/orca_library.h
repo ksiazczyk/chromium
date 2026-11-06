@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OrcaLibrary class declaration
+// summary: Declares the OrcaLibrary class that represents the shared library hosting the Orca service and forwards Mojo receivers to it.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_ORCA_ORCA_LIBRARY_H_
 #define CHROMEOS_ASH_SERVICES_ORCA_ORCA_LIBRARY_H_
 

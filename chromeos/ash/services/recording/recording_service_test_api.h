@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Recording service test API
+// summary: Declares an API to test the internals of the recording service, exposing capture state, video frame requests and audio recording information.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_RECORDING_RECORDING_SERVICE_TEST_API_H_
 #define CHROMEOS_ASH_SERVICES_RECORDING_RECORDING_SERVICE_TEST_API_H_
 

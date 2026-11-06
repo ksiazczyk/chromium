@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio stream mixer implementation
+// summary: Implements the mixer that combines audio frames from multiple capturers into a single mixed audio bus output for the recording service.
+// ---
+
 #include "chromeos/ash/services/recording/audio_stream_mixer.h"
 
 #include <algorithm>

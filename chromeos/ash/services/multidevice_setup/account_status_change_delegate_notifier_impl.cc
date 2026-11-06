@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountStatusChangeDelegateNotifierImpl implementation
+// summary: Concrete notifier that uses the host status provider, preferences, and host device timestamps to detect and report multi-device account status changes.
+// ---
+
 #include "chromeos/ash/services/multidevice_setup/account_status_change_delegate_notifier_impl.h"
 
 #include <set>

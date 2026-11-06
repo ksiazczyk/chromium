@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HostDeviceTimestampManagerImpl Unit Tests
+// summary: Unit tests for HostDeviceTimestampManagerImpl verifying host-set-from-this-Chromebook tracking and setup completion and verification timestamps.
+// ---
+
 #include "chromeos/ash/services/multidevice_setup/host_device_timestamp_manager_impl.h"
 
 #include <memory>

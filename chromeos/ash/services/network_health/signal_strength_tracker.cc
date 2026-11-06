@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signal strength tracker implementation
+// summary: Implements a rolling buffer of signal strength samples that computes the average, standard deviation and sample list.
+// ---
+
 #include "chromeos/ash/services/network_health/signal_strength_tracker.h"
 
 #include <cmath>

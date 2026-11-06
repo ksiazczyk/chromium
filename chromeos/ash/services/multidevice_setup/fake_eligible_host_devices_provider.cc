@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeEligibleHostDevicesProvider implementation
+// summary: Implements the fake eligible host devices provider that returns configurable device lists for tests.
+// ---
+
 #include "chromeos/ash/services/multidevice_setup/fake_eligible_host_devices_provider.h"
 
 namespace ash {

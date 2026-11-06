@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake host status provider for tests
+// summary: Declares test fakes for HostStatusProvider and its observer that store a host status with device and record status updates.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_MULTIDEVICE_SETUP_FAKE_HOST_STATUS_PROVIDER_H_
 #define CHROMEOS_ASH_SERVICES_MULTIDEVICE_SETUP_FAKE_HOST_STATUS_PROVIDER_H_
 

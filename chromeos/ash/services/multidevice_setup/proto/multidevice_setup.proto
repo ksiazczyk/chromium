@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: multidevice_setup.proto
+// summary: Protobuf definitions for Better Together setup messaging, including request, response, and wrapper message types exchanged between client and host.
+// ---
+
 syntax = "proto2";
 
 package ash.multidevice_setup;

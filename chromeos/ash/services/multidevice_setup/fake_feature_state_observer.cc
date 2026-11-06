@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake feature state observer implementation
+// summary: Implements FakeFeatureStateObserver, recording feature state updates received through its Mojo remote.
+// ---
+
 #include "chromeos/ash/services/multidevice_setup/fake_feature_state_observer.h"
 
 namespace ash {

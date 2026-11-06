@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebM encoder muxer
+// summary: Declares WebmEncoderMuxer, which encodes and muxes audio and video frames into a WebM container on a blocking task runner off the main thread.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_RECORDING_WEBM_ENCODER_MUXER_H_
 #define CHROMEOS_ASH_SERVICES_RECORDING_WEBM_ENCODER_MUXER_H_
 

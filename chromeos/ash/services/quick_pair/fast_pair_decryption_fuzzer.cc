@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fast Pair decryption fuzzer
+// summary: Fuzz target that feeds fixed-size random inputs through Fast Pair AES encryption and the decrypted response and passkey parsers.
+// ---
+
 #include "chromeos/ash/services/quick_pair/fast_pair_decryption.h"
 
 #include <fuzzer/FuzzedDataProvider.h>

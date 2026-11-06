@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Pair service implementation
+// summary: Implements the QuickPairService Mojo interface, binding its receiver and creating the FastPairDataParser when a client connects.
+// ---
+
 #include "chromeos/ash/services/quick_pair/quick_pair_service.h"
 
 #include <memory>

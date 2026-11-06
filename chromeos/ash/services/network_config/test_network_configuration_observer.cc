@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test network configuration observer implementation
+// summary: Implements a test observer that counts network configuration modifications and records per-network user settings from shill UIData for use in tests.
+// ---
+
 #include "chromeos/ash/services/network_config/test_network_configuration_observer.h"
 
 #include "chromeos/components/onc/onc_utils.h"

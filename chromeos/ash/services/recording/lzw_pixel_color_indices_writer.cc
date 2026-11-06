@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LZW compression writer implementation
+// summary: Implements LZW compression of pixel color indices and writes the encoded codes to the GIF file in data sub-blocks.
+// ---
+
 #include "chromeos/ash/services/recording/lzw_pixel_color_indices_writer.h"
 
 #include <cstdint>

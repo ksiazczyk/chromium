@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Pair process manager implementation unit tests
+// summary: Unit tests for QuickPairProcessManagerImpl verifying process startup on reference requests, single startup for multiple references, and shutdown triggering when references are released.
+// ---
+
 #include "chromeos/ash/services/quick_pair/quick_pair_process_manager_impl.h"
 #include <memory>
 

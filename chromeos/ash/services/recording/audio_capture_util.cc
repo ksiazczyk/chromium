@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio capture utility implementations
+// summary: Implements helpers for the recording service's audio capture, including capture parameters, frame counting, stereo bus creation, and bus accumulation.
+// ---
+
 
 #include "chromeos/ash/services/recording/audio_capture_util.h"
 

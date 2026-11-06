@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EligibleHostDevicesProviderImpl class declaration
+// summary: Declares the DeviceSyncClient-backed implementation of EligibleHostDevicesProvider with its factory and inactive device threshold.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_MULTIDEVICE_SETUP_ELIGIBLE_HOST_DEVICES_PROVIDER_IMPL_H_
 #define CHROMEOS_ASH_SERVICES_MULTIDEVICE_SETUP_ELIGIBLE_HOST_DEVICES_PROVIDER_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostDeviceTimestampManagerImpl
+// summary: Concrete HostDeviceTimestampManager implementation that stores whether the host was set from this Chromebook plus setup completion and verification timestamps in preferences.
+// ---
+
 #include "chromeos/ash/services/multidevice_setup/host_device_timestamp_manager_impl.h"
 
 #include "base/memory/ptr_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostBackendDelegate base implementation
+// summary: Implements observer registration and notification helpers for host backend changes, failed requests, and pending host requests.
+// ---
+
 #include "chromeos/ash/services/multidevice_setup/host_backend_delegate.h"
 
 namespace ash {

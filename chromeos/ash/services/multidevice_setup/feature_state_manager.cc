@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature state manager base implementation
+// summary: Implements the FeatureStateManager base class, guarding feature enable and disable transitions and notifying observers of state changes.
+// ---
+
 #include "chromeos/ash/services/multidevice_setup/feature_state_manager.h"
 
 #include "chromeos/ash/components/multidevice/logging/logging.h"

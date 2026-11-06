@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RGB video frame implementation
+// summary: Wraps video frame pixels in a bitmap and copies them row by row into an RGB video frame representation used for GIF recording.
+// ---
+
 #include "chromeos/ash/services/recording/rgb_video_frame.h"
 
 #include <cstring>
