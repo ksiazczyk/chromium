@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SeaPen error element tests
+// summary: Tests the SeaPen error element, asserting error messages and icons for no internet, resource exhausted, and quota exceeded states.
+// ---
+
 import 'chrome://personalization/strings.m.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 

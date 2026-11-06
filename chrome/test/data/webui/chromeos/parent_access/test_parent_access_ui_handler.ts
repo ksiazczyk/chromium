@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test parent access UI handler stub
+// summary: Test double implementing the parent access UI handler interface with configurable params, OAuth token, and URL responses.
+// ---
+
 import type {GetOauthTokenStatus, ParentAccessParams, ParentAccessResult, ParentAccessServerMessage, ParentAccessUiHandlerInterface} from 'chrome://parent-access/parent_access_ui.mojom-webui.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';
 

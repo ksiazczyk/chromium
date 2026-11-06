@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wallpaper images element tests
+// summary: WebUI test suite for the wallpaper images grid, covering aria-selected state, image sources, and the time-of-day wallpaper dialog interactions.
+// ---
+
 import 'chrome://personalization/strings.m.js';
 
 import {OnlineImageType, PersonalizationRouterElement, TimeOfDayWallpaperDialogElement, WallpaperGridItemElement, WallpaperImagesElement} from 'chrome://personalization/js/personalization_app.js';

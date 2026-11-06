@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Nearby Share confirmation page tests
+// summary: Mocha tests verifying the confirmation page renders tokens and device names and triggers accept, reject, and cancel actions.
+// ---
+
 import 'chrome://nearby/nearby_confirmation_page.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 

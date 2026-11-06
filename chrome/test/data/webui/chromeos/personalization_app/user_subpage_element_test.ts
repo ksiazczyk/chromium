@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User subpage element tests
+// summary: WebUI tests for the user subpage element covering content visibility and redirect behavior when the image is enterprise managed.
+// ---
+
 import 'chrome://personalization/strings.m.js';
 
 import {Paths, PersonalizationRouterElement, UserSubpageElement} from 'chrome://personalization/js/personalization_app.js';

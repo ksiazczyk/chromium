@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Offline emoji picker API proxy test double
+// summary: Test double of the EmojiPickerApiProxy that simulates offline and HTTP or network error responses with empty GIF results.
+// ---
+
 import type {GifSubcategoryData, PaginatedGifResponses, VisualContent} from 'chrome://emoji-picker/emoji_picker.js';
 import {EmojiPickerApiProxy, Status} from 'chrome://emoji-picker/emoji_picker.js';
 

@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Emoji picker GIF validation tests
+// summary: WebUI tests verifying that history GIFs are validated by preview dimensions and repositioned or marked invalid accordingly.
+// ---
+
 import type {EmojiGroupElement, EmojiPickerApp} from 'chrome://emoji-picker/emoji_picker.js';
 import {EmojiPickerApiProxy, GIF_VALIDATION_DATE, TRENDING} from 'chrome://emoji-picker/emoji_picker.js';
 import {assert} from 'chrome://resources/js/assert.js';

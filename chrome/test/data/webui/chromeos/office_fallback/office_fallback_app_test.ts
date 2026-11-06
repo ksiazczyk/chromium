@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Office fallback dialog WebUI tests
+// summary: TypeScript mocha tests for the office fallback dialog, mocking the browser proxy and mojo handler to verify button visibility for retry, cancel, OK and quick office options.
+// ---
+
 import 'chrome://office-fallback/office_fallback_dialog.js';
 
 import {DialogChoice, PageHandlerRemote} from 'chrome://office-fallback/office_fallback.mojom-webui.js';

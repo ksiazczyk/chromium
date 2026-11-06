@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ambient subpage element tests
+// summary: WebUI test suite for the ambient mode subpage, covering album selection, themes, duration, and temperature unit settings.
+// ---
+
 import 'chrome://personalization/strings.m.js';
 
 import type {AmbientModeAlbum, AmbientThemeItemElement, QueryParams, SetAlbumsAction, SetAmbientModeEnabledAction, SetAmbientThemeAction, SetGeolocationPermissionEnabledActionForAmbient, SetScreenSaverDurationAction, SetTemperatureUnitAction, SetTopicSourceAction, TopicSourceItemElement, WallpaperGridItemElement} from 'chrome://personalization/js/personalization_app.js';

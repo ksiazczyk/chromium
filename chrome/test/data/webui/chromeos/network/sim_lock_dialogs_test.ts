@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SIM lock dialogs element WebUI tests
+// summary: WebUI tests for the sim-lock-dialogs element verifying when the enter PIN, change PIN, and unlock PIN dialogs are shown.
+// ---
+
 import 'chrome://os-settings/strings.m.js';
 import 'chrome://resources/ash/common/network/sim_lock_dialogs.js';
 

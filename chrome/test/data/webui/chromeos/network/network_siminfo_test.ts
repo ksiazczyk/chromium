@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network SIM info element WebUI tests
+// summary: WebUI tests for the network-siminfo element covering SIM lock dialogs, device state handling, and cellular policy behavior.
+// ---
+
 import 'chrome://os-settings/strings.m.js';
 import 'chrome://resources/ash/common/network/network_siminfo.js';
 

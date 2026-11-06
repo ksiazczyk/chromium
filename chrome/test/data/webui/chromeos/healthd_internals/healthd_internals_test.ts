@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TypeScript tests for the healthd-internals WebUI app
+// summary: Mocha suite verifying the app loads with its title and navigation items, the telemetry page shows the expected five cards, and the sidebar toggles correctly.
+// ---
+
 import 'chrome://healthd-internals/app.js';
 
 import type {HealthdInternalsAppElement} from 'chrome://healthd-internals/app.js';

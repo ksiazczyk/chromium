@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extended Updates app WebUI tests
+// summary: Mocha suite for the Extended Updates app element that tests the opt-in flow, popup and dialog buttons, and reactive binding of installed apps.
+// ---
+
 import 'chrome://extended-updates-dialog/app.js';
 
 import {ExtendedUpdatesAppElement} from 'chrome://extended-updates-dialog/app.js';

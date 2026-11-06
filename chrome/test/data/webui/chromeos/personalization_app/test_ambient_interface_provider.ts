@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test ambient interface provider
+// summary: Test double implementing the ambient provider Mojo interface with mock albums, previews, theme data, and observer updates for personalization app tests.
+// ---
+
 import type {AmbientModeAlbum, AmbientObserverInterface, AmbientObserverRemote, AmbientProviderInterface} from 'chrome://personalization/js/personalization_app.js';
 import {AmbientTheme, TemperatureUnit, TopicSource} from 'chrome://personalization/js/personalization_app.js';
 import type {Url} from 'chrome://resources/mojo/url/mojom/url.mojom-webui.js';

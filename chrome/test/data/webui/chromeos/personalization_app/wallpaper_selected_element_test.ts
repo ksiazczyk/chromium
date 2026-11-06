@@ -4,6 +4,12 @@
 
 /** @fileoverview Test suite for wallpaper-selected component.  */
 
+// ---docerion
+// type: test
+// title: Wallpaper selected element tests
+// summary: WebUI test suite for the selected wallpaper view, covering loading placeholders, daily refresh, description dialogs, and Google Photos shared album interactions.
+// ---
+
 import 'chrome://personalization/strings.m.js';
 
 import type {CurrentAttribution, CurrentWallpaper, GooglePhotosPhoto} from 'chrome://personalization/js/personalization_app.js';

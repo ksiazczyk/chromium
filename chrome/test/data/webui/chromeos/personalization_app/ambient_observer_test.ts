@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ambient observer tests
+// summary: WebUI test suite verifying AmbientObserver album fetching, store updates, and preview load performance logging.
+// ---
+
 import 'chrome://personalization/strings.m.js';
 
 import type {AmbientModeAlbum, SetAlbumsAction} from 'chrome://personalization/js/personalization_app.js';

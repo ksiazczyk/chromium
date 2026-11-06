@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise reporting UI browser test
+// summary: Browser test that enables the enterprise reporting feature and runs the mocha test suite for the enterprise reporting WebUI page.
+// ---
+
 #include "ash/constants/ash_features.h"
 #include "ash/constants/webui_url_constants.h"
 #include "base/test/scoped_feature_list.h"

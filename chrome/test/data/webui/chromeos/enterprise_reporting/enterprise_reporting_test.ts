@@ -6,6 +6,12 @@
  * @fileoverview Unittests for the chrome://enterprise-reporting element.
  */
 
+// ---docerion
+// type: test
+// title: Enterprise reporting WebUI unit tests
+// summary: Unit tests for the enterprise reporting WebUI page, checking that the reporting history table renders events, parameters, statuses and timestamps, including the empty state.
+// ---
+
 import {EnterpriseReportingBrowserProxy} from 'chrome://enterprise-reporting/browser_proxy.js';
 import type {ErpHistoryData, ErpHistoryEvent, ErpHistoryEventParameter, PageRemote} from 'chrome://enterprise-reporting/enterprise_reporting.mojom-webui.js';
 import {PageCallbackRouter, PageHandlerRemote} from 'chrome://enterprise-reporting/enterprise_reporting.mojom-webui.js';

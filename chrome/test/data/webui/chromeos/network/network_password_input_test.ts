@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network password input element WebUI tests
+// summary: WebUI tests for the network-password-input element covering the show-password button visibility, ARIA labels, and placeholder clearing on click.
+// ---
+
 import 'chrome://os-settings/strings.m.js';
 import 'chrome://resources/ash/common/network/network_password_input.js';
 

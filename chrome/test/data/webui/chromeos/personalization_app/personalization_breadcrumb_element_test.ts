@@ -4,6 +4,12 @@
 
 /** @fileoverview Test suite for wallpaper-breadcrumb component.  */
 
+// ---docerion
+// type: test
+// title: Personalization breadcrumb element tests
+// summary: Tests the wallpaper breadcrumb component, asserting breadcrumb labels, chevron separators, and navigation when breadcrumbs are clicked.
+// ---
+
 import 'chrome://personalization/strings.m.js';
 
 import type {GooglePhotosAlbum} from 'chrome://personalization/js/personalization_app.js';

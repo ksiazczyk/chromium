@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Graduation WebUI tests build definition
+summary: Defines the GN build target that compiles and runs the Graduation WebUI mocha tests with their TypeScript dependencies and definitions.

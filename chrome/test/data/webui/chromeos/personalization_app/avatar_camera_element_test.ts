@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Avatar camera element tests
+// summary: WebUI test suite for the avatar camera element, verifying webcam capture and photo confirm flows with mocked webcam utilities.
+// ---
+
 import 'chrome://personalization/strings.m.js';
 
 import {AvatarCameraElement, AvatarCameraMode, GetUserMediaProxy, setWebcamUtilsForTesting} from 'chrome://personalization/js/personalization_app.js';

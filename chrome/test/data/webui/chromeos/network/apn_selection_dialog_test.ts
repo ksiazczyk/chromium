@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: APN selection dialog tests
+// summary: Tests the apn-selection-dialog element, verifying dialog title, description links, action and cancel buttons, and link omission behavior.
+// ---
+
 import 'chrome://os-settings/strings.m.js';
 import 'chrome://resources/ash/common/network/apn_selection_dialog.js';
 

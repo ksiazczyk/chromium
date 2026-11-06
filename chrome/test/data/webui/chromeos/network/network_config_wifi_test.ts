@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network config WiFi tests
+// summary: WebUI tests for WiFi configuration in the network-config element, covering security types, EAP settings, and server CA and user certificate selection.
+// ---
+
 import 'chrome://os-settings/strings.m.js';
 import 'chrome://resources/ash/common/network/network_config.js';
 

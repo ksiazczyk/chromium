@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for edu_coexistence WebUI tests
+summary: Defines the GN build target that compiles and runs the edu_coexistence WebUI test suites with TypeScript path mappings and dependencies.

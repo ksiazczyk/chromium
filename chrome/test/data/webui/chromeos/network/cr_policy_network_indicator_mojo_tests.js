@@ -4,6 +4,12 @@
 
 /** @fileoverview Suite of tests for cr_policy-network-indicator-mojo. */
 
+// ---docerion
+// type: test
+// title: Policy network indicator element tests
+// summary: Tests the cr-policy-network-indicator-mojo element, checking icon visibility, icon class, and tooltip text for policy and extension states.
+// ---
+
 import 'chrome://resources/ash/common/network/cr_policy_network_indicator_mojo.js';
 import 'chrome://webui-test/chromeos/network/cr_policy_strings.js';
 

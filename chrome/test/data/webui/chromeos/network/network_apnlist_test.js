@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: network-apnlist element tests
+// summary: Tests the network-apnlist element, covering last good APN selection, disabled UI state, and custom APN attach value changes.
+// ---
+
 import 'chrome://os-settings/strings.m.js';
 import 'chrome://resources/ash/common/network/network_apnlist.js';
 

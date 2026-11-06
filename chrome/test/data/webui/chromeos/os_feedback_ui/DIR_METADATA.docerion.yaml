@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for os_feedback_ui tests
+summary: Points to the shared COMMON_METADATA mixins for the os_feedback_ui test directory.

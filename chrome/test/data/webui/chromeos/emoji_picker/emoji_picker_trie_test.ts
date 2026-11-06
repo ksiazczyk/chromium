@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trie unit tests for the emoji picker
+// summary: Unit tests for the Trie data structure used by emoji picker search, covering key insertion, prefix lookup, full key listing, and clearing.
+// ---
+
 import {Trie} from 'chrome://emoji-picker/emoji_picker.js';
 import {assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';
 

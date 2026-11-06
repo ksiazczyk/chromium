@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file referencing edu_coexistence UI owners
+summary: Delegates review ownership to the OWNERS file of the edu_coexistence WebUI directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Emoji picker offline GIF tests
+// summary: WebUI tests checking that network errors hide trending GIFs and show 'Connect to the internet' error messages in the picker.
+// ---
+
 import type {EmojiSearch} from 'chrome://emoji-picker/emoji_picker.js';
 import {EmojiPickerApiProxy, TRENDING_GROUP_ID} from 'chrome://emoji-picker/emoji_picker.js';
 import {assert} from 'chrome://resources/js/assert.js';

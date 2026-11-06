@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake network diagnostics routines for tests
+// summary: Provides a fake NetworkDiagnosticsRoutines service that returns configurable verdicts and resolvable routine promises in tests.
+// ---
+
 import type {NetworkDiagnosticsRoutinesInterface, RoutineResult, RoutineType} from 'chrome://resources/mojo/chromeos/services/network_health/public/mojom/network_diagnostics.mojom-webui.js';
 import {RoutineVerdict} from 'chrome://resources/mojo/chromeos/services/network_health/public/mojom/network_diagnostics.mojom-webui.js';
 

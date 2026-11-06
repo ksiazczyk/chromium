@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network diagnostics element WebUI test suite
+// summary: Tests the network-diagnostics element's routine groups, spinners and verdict icons using a fake diagnostics service.
+// ---
+
 import 'chrome://connectivity-diagnostics/strings.m.js';
 import 'chrome://resources/ash/common/network_health/network_diagnostics.js';
 import 'chrome://resources/ash/common/network_health/network_diagnostics_types.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Graduation welcome screen tests
+// summary: Mocha tests verifying that the welcome screen's get started button triggers the Takeout UI event.
+// ---
+
 import 'chrome://graduation/js/graduation_welcome.js';
 import 'chrome://graduation/strings.m.js';
 

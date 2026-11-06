@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Feedback flow WebUI tests
+// summary: Tests the complete feedback flow across search, share data, and confirmation pages using fake feedback and help content providers.
+// ---
+
 import 'chrome://os-feedback/confirmation_page.js';
 import 'chrome://os-feedback/search_page.js';
 import 'chrome://os-feedback/share_data_page.js';

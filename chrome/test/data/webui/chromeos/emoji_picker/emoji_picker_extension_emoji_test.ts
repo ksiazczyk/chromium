@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Emoji category extension tests
+// summary: Runs the shared category test suite for the emoji category of the emoji picker.
+// ---
+
 import {categoryTestSuite} from './emoji_picker_extension_categories.js';
 
 categoryTestSuite('emoji');

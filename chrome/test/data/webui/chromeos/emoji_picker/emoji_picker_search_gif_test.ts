@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Emoji picker GIF search tests
+// summary: WebUI tests verifying that GIF search results render across emoji, emoticon, and GIF categories in the correct column order.
+// ---
+
 import type {EmojiSearch} from 'chrome://emoji-picker/emoji_picker.js';
 import {EmojiPickerApiProxy} from 'chrome://emoji-picker/emoji_picker.js';
 import {assert} from 'chrome://resources/js/assert.js';

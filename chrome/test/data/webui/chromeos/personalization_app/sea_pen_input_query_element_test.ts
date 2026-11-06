@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sea Pen input query element tests
+// summary: WebUI tests for the SeaPenInputQueryElement, checking text input handling, suggestion buttons, recreate button visibility, and recent image deletion events.
+// ---
+
 import 'chrome://personalization/strings.m.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 

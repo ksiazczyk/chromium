@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeUpdateController tests
+// summary: Verifies the fake update controller reports installation progress and device requests during firmware updates.
+// ---
+
 import {fakeDeviceRequest, fakeInstallationProgress} from 'chrome://accessory-update/fake_data.js';
 import {FakeUpdateController} from 'chrome://accessory-update/fake_update_controller.js';
 import type {DeviceRequestObserverRemote, UpdateProgressObserverRemote} from 'chrome://accessory-update/firmware_update.mojom-webui.js';

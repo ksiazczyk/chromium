@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test Graduation UI handler mock
+// summary: Test double implementing the Graduation UI handler Mojom interface with configurable auth results, screens and profile info.
+// ---
+
 import type {GraduationUiHandlerInterface, ProfileInfo} from 'chrome://graduation/mojom/graduation_ui.mojom-webui.js';
 import {AuthResult, GraduationScreen} from 'chrome://graduation/mojom/graduation_ui.mojom-webui.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';

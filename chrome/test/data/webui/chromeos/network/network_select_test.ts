@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network select element WebUI tests
+// summary: WebUI tests for the network-select element covering scan progress visibility and Wi-Fi scan scheduling.
+// ---
+
 import 'chrome://resources/ash/common/network/network_select.js';
 
 import type {NetworkSelectElement} from 'chrome://resources/ash/common/network/network_select.js';

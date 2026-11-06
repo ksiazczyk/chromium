@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network property list mojo element WebUI tests
+// summary: WebUI tests for the network-property-list-mojo element covering editable field types and initial input text selection behavior.
+// ---
+
 import 'chrome://os-settings/strings.m.js';
 import 'chrome://resources/ash/common/network/network_property_list_mojo.js';
 

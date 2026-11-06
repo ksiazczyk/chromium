@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keyboard backlight zone customization tests
+// summary: WebUI test suite for the zone customization element, checking zone tabs, color icon selection states, and backlight color handling per zone.
+// ---
+
 import 'chrome://personalization/strings.m.js';
 
 import type {CurrentBacklightState, SetCurrentBacklightStateAction} from 'chrome://personalization/js/personalization_app.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Emoji picker load tests
+// summary: WebUI test verifying that the emoji search is prefilled with the initial query supplied by the API proxy.
+// ---
+
 import type {EmojiSearch} from 'chrome://emoji-picker/emoji_picker.js';
 import {EmojiPickerApiProxy} from 'chrome://emoji-picker/emoji_picker.js';
 import {assertEquals, assertGT} from 'chrome://webui-test/chai_assert.js';

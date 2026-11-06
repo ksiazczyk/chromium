@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Google Photos zero state element tests
+// summary: WebUI test suite checking the empty-state messages and links shown for the albums, photos, and photos-by-album-id tabs.
+// ---
+
 import 'chrome://personalization/strings.m.js';
 
 import {GooglePhotosTab, GooglePhotosZeroStateElement} from 'chrome://personalization/js/personalization_app.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Nearby Share app tests
+// summary: Mocha tests checking that the Nearby Share app routes to the discovery or onboarding pages based on enabled and onboarding settings.
+// ---
+
 import 'chrome://nearby/app.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 import 'chrome://resources/mojo/chromeos/ash/services/nearby/public/mojom/nearby_share_settings.mojom-webui.js';

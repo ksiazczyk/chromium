@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Nearby Share WebUI test build rules (BUILD.gn)
+summary: Defines the TypeScript library and GRDP resource generation targets that package the Nearby Share WebUI test files.

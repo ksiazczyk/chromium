@@ -4,6 +4,12 @@
 
 /** @fileoverview Test suite for wallpaper-preview component.  */
 
+// ---docerion
+// type: test
+// title: Wallpaper preview element tests
+// summary: WebUI test suite for the wallpaper preview component, checking loading placeholders, displayed wallpaper image URL, and fallback behavior on load failures.
+// ---
+
 import 'chrome://personalization/strings.m.js';
 
 import {WallpaperPreviewElement, WallpaperType} from 'chrome://personalization/js/personalization_app.js';

@@ -4,6 +4,12 @@
 
 /** @fileoverview Contains fake implementations of mojo interfaces. */
 
+// ---docerion
+// type: test
+// title: Fake mojo interfaces for Nearby Share WebUI tests
+// summary: Provides fake mojo implementations such as confirmation and discovery managers used as test doubles in Nearby Share WebUI tests.
+// ---
+
 import {DiscoveryObserverRemote, SelectShareTargetResult, ShareTargetListenerRemote, StartDiscoveryResult, TransferUpdateListenerPendingReceiver, TransferUpdateListenerRemote} from 'chrome://nearby/shared/nearby_share.mojom-webui.js';
 
 import {TestBrowserProxy} from '../test_browser_proxy.js';

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for print management tests
+summary: Points the DIR_METADATA mixins at the print management COMMON_METADATA so this test directory shares its ownership metadata.

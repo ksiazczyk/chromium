@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Multidevice setup tests directory metadata
+summary: Declares the Buganizer component ID and team email responsible for the multidevice setup WebUI tests.

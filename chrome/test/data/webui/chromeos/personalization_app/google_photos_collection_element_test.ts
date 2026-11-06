@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Google Photos collection element tests
+// summary: WebUI test suite checking that the Google Photos collection element shows the correct tabs and content for photos, albums, and various enablement states.
+// ---
+
 import 'chrome://personalization/strings.m.js';
 
 import type {GooglePhotosAlbum} from 'chrome://personalization/js/personalization_app.js';

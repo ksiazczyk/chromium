@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Start setup page tests
+// summary: Tests page-specific behavior of the StartSetupPage, checking that the device dropdown is populated and that selecting options updates the chosen device ID.
+// ---
+
 import 'chrome://multidevice-setup/strings.m.js';
 import 'chrome://resources/ash/common/multidevice_setup/start_setup_page.js';
 

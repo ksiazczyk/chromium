@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for personalization app tests
+summary: Delegates code ownership and review requirements to the OWNERS file of the ChromeOS personalization app.

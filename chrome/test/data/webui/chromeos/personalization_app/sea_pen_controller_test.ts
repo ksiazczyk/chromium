@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SeaPen controller tests
+// summary: Tests SeaPen store reducers and actions for loading recent images, searching thumbnails, and selecting recent images or thumbnails.
+// ---
+
 import type {SeaPenState, SeaPenStoreInterface} from 'chrome://personalization/js/personalization_app.js';
 import {beginLoadRecentSeaPenImagesAction, beginLoadSelectedImageAction, beginLoadSelectedRecentSeaPenImageAction, beginSearchSeaPenThumbnailsAction, beginSelectRecentSeaPenImageAction, beginSelectSeaPenThumbnailAction, endSelectRecentSeaPenImageAction, endSelectSeaPenThumbnailAction, FullscreenPreviewState, getRecentSeaPenImageIds, getSeaPenStore, getSeaPenThumbnails, SeaPenStoreAdapter, selectRecentSeaPenImage, selectSeaPenThumbnail, setCurrentSeaPenQueryAction, setFullscreenStateAction, setRecentSeaPenImagesAction, setSeaPenFullscreenStateAction, setSeaPenThumbnailsAction, setSelectedRecentSeaPenImageAction, setThumbnailResponseStatusCodeAction, WallpaperLayout, WallpaperType} from 'chrome://personalization/js/personalization_app.js';
 import {MantaStatusCode} from 'chrome://resources/ash/common/sea_pen/sea_pen.mojom-webui.js';

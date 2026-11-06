@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Emoji picker scroll tests
+// summary: WebUI tests verifying that the picker scrolls to the initial category for symbols but not for emojis.
+// ---
+
 import {Category, EmojiPickerApiProxy} from 'chrome://emoji-picker/emoji_picker.js';
 import {assertTrue} from 'chrome://webui-test/chai_assert.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Emoji picker core tests
+// summary: Main WebUI tests for the emoji picker element covering tabs, highlight bar, recently used history, and clipboard copying.
+// ---
+
 import type {EmojiButton, EmojiSearch} from 'chrome://emoji-picker/emoji_picker.js';
 import {EMOJI_PICKER_TOTAL_EMOJI_WIDTH, EMOJI_VARIANTS_SHOWN} from 'chrome://emoji-picker/emoji_picker.js';
 import {assert} from 'chrome://resources/js/assert.js';

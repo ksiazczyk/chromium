@@ -6,6 +6,12 @@
  * @fileoverview Fake implementation of NearbyShareSettings for testing.
  */
 
+// ---docerion
+// type: test
+// title: Fake Nearby Share settings for tests
+// summary: Fake NearbyShareSettingsInterface implementation exposing controllable settings state, observers, and device name validation for WebUI tests.
+// ---
+
 import {DataUsage, DeviceNameValidationResult, FastInitiationNotificationState, Visibility} from 'chrome://resources/mojo/chromeos/ash/services/nearby/public/mojom/nearby_share_settings.mojom-webui.js';
 
 /**

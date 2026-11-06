@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: APN list element tests
+// summary: Tests the apn-list element, including zero state content, custom APN entries, attach and default APN types, and managed property handling.
+// ---
+
 import 'chrome://os-settings/strings.m.js';
 import 'chrome://resources/ash/common/network/apn_list.js';
 import 'chrome://resources/ash/common/network/apn_detail_dialog.js';

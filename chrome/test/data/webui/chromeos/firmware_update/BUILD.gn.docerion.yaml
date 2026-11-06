@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for firmware update WebUI tests
+summary: GN build definition that assembles the mocha WebUI tests for the ChromeOS firmware update app.

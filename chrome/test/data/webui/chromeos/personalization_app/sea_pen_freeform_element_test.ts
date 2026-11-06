@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sea Pen freeform element tests
+// summary: WebUI tests for the SeaPenFreeformElement, covering sample prompts, tab container visibility, recent wallpapers, shuffle button, and the prompting guide on the freeform wallpaper page.
+// ---
+
 import 'chrome://personalization/strings.m.js';
 
 import {SeaPenFreeformElement, SeaPenImagesElement, SeaPenRecentWallpapersElement, SeaPenSamplesElement, setTransitionsEnabled, WallpaperGridItemElement} from 'chrome://personalization/js/personalization_app.js';

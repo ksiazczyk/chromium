@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file delegating to file manager owners
+summary: Delegates ownership and review responsibility to the OWNERS file of ui/file_manager.

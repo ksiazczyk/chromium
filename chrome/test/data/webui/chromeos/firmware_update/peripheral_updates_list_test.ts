@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Peripheral updates list tests
+// summary: Tests that the peripheral updates list renders update cards and shows an up-to-date empty state.
+// ---
+
 import 'chrome://accessory-update/peripheral_updates_list.js';
 
 import {fakeFirmwareUpdates} from 'chrome://accessory-update/fake_data.js';

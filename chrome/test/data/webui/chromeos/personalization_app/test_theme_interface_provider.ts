@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Theme provider test mock
+// summary: Fake ThemeProviderInterface implementation returning sample color schemes, dark mode and geolocation responses for theme tests.
+// ---
+
 import type {ThemeObserverInterface, ThemeObserverRemote, ThemeProviderInterface} from 'chrome://personalization/js/personalization_app.js';
 import {ColorScheme} from 'chrome://personalization/js/personalization_app.js';
 import {hexColorToSkColor} from 'chrome://resources/js/color_utils.js';

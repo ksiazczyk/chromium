@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network proxy exclusions element WebUI tests
+// summary: WebUI tests for the network-proxy-exclusions element verifying that the clear button fires a change event and removes an exclusion.
+// ---
+
 import 'chrome://os-settings/strings.m.js';
 import 'chrome://resources/ash/common/network/network_proxy_exclusions.js';
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for enterprise reporting tests
+summary: OWNERS file that delegates review ownership to the reporting components OWNERS file.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Personalization toast element tests
+// summary: Tests the personalization toast element, verifying error visibility, dismiss actions and callbacks, and automatic dismissal after ten seconds.
+// ---
+
 import 'chrome://personalization/strings.m.js';
 
 import type {DismissErrorAction} from 'chrome://personalization/js/personalization_app.js';

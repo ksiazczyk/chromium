@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeUpdateProvider tests
+// summary: Checks that the fake update provider notifies observers of peripheral firmware updates.
+// ---
+
 import {fakeFirmwareUpdates} from 'chrome://accessory-update/fake_data.js';
 import {FakeUpdateProvider} from 'chrome://accessory-update/fake_update_provider.js';
 import type {UpdateObserverRemote} from 'chrome://accessory-update/firmware_update.mojom-webui.js';

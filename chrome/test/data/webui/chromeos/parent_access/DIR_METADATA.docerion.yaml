@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for parent access tests
+summary: Points to the shared child accounts metadata that applies to the parent access test directory.

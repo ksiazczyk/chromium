@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Personalization app controller tests
+// summary: WebUI test suite for the personalization controller, verifying store actions for Google Photos data, wallpaper selection, and daily refresh behavior.
+// ---
+
 import 'chrome://personalization/strings.m.js';
 
 import type {DefaultImageSymbol, DisplayableImage, GooglePhotosPhoto} from 'chrome://personalization/js/personalization_app.js';

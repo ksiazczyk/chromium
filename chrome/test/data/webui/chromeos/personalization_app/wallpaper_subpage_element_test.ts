@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wallpaper subpage element tests
+// summary: WebUI test suite for the wallpaper subpage, verifying Google Photos collection visibility by route and for users ineligible for the integration.
+// ---
+
 import 'chrome://personalization/strings.m.js';
 
 import {Paths, PersonalizationRouterElement, WallpaperSubpageElement} from 'chrome://personalization/js/personalization_app.js';

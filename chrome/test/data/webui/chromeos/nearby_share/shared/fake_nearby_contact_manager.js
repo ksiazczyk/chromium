@@ -6,6 +6,12 @@
  * @fileoverview Fake implementation of ContactManagerInterface for testing.
  */
 
+// ---docerion
+// type: test
+// title: Fake contact manager for Nearby Share tests
+// summary: Fake ContactManagerInterface implementation that simulates contact records and download success or failure for Nearby Share WebUI tests.
+// ---
+
 import 'chrome://resources/mojo/chromeos/ash/services/nearby/public/mojom/nearby_share_settings.mojom-webui.js';
 
 /**

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network nameservers element WebUI tests
+// summary: WebUI tests for the network-nameservers element covering nameserver type selection, disabled UI state, and static IP config handling.
+// ---
+
 import 'chrome://os-settings/strings.m.js';
 import 'chrome://resources/ash/common/network/network_nameservers.js';
 

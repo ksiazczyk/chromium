@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network icon element tests
+// summary: WebUI tests for the network-icon element verifying locked and unactivated cellular icons, carrier lock icons, and roaming badge display.
+// ---
+
 import 'chrome://os-settings/strings.m.js';
 import 'chrome://resources/ash/common/network/network_icon.js';
 

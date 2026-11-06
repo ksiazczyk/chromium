@@ -4,6 +4,12 @@
 
 /** @fileoverview Test suite for theme-element component.  */
 
+// ---docerion
+// type: test
+// title: Personalization theme element tests
+// summary: Tests the theme element, covering dark, light, and auto color mode buttons, store actions, and geolocation permission settings.
+// ---
+
 import 'chrome://personalization/strings.m.js';
 
 import type {CrTooltipIconElement, SetDarkModeEnabledAction, SetGeolocationIsUserModifiableActionForTheme, SetGeolocationPermissionEnabledActionForTheme} from 'chrome://personalization/js/personalization_app.js';

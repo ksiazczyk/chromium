@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local images element tests
+// summary: WebUI test suite verifying the local images grid shows loading placeholders, loaded images, and the default wallpaper tile.
+// ---
+
 import 'chrome://personalization/strings.m.js';
 
 import {kDefaultImageSymbol, LocalImagesElement, WallpaperGridItemElement} from 'chrome://personalization/js/personalization_app.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Parent access UI tests
+// summary: Tests request allowlisting, auth header targeting, and webview focus behavior of the parent access UI element.
+// ---
+
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 import 'chrome://parent-access/parent_access_ui.js';
 import 'chrome://parent-access/strings.m.js';

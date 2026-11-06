@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Edu coexistence app WebUI test suite
+// summary: Tests the EduCoexistenceApp element's screen switching between online, offline, and error views.
+// ---
+
 import 'chrome://chrome-signin/edu_coexistence/edu_coexistence_app.js';
 
 import {EduCoexistenceApp, Screens} from 'chrome://chrome-signin/edu_coexistence/edu_coexistence_app.js';

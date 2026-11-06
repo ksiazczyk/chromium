@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for ChromeOS network WebUI tests
+summary: Defines the build targets, source files, TypeScript path mappings, and dependencies for the ChromeOS network WebUI browser tests.

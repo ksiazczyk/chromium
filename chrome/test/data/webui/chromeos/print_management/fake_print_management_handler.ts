@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake print management handler for tests
+// summary: Implements a fake PrintManagementHandler that records launch printer settings calls and launch sources for use in WebUI tests.
+// ---
+
 import type {LaunchSource, PrintManagementHandlerInterface} from 'chrome://print-management/printing_manager.mojom-webui.js';
 
 export class FakePrintManagementHandler implements

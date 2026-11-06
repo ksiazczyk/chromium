@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Emoji prefix search unit tests
+// summary: Unit tests for EmojiPrefixSearch covering collection handling, prefix matching, and scoring of emoji name searches.
+// ---
+
 import {EmojiPrefixSearch} from 'chrome://emoji-picker/emoji_picker.js';
 import {assertArrayEquals, assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';
 

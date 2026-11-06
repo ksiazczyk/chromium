@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Emoji picker WebUI mocha browser tests
+// summary: C++ browser test harness that runs the emoji picker mocha suites, including variant grouping feature tests.
+// ---
+
 #include "ash/constants/ash_features.h"
 #include "base/test/scoped_feature_list.h"
 #include "chrome/test/base/web_ui_mocha_browser_test.h"

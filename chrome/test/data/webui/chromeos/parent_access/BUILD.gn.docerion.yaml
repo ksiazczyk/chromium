@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for parent access WebUI tests
+summary: Defines the build for the parent access WebUI test suite, listing TypeScript test files, static test content, path mappings, dependencies and TypeScript definitions.

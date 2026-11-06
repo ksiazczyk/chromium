@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Emoji picker test directory metadata
+summary: Points the directory's metadata mixins to the shared ui/base/ime/ash metadata for ownership tracking.

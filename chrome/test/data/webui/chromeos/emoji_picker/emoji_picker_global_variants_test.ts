@@ -11,6 +11,12 @@
  *  - Group 5: multi-part emojis with tone and gender, e.g. 👬
  */
 
+// ---docerion
+// type: test
+// title: Emoji picker global variant tests
+// summary: WebUI tests verifying that emoji skin tone and gender variant preferences sync across emoji groups and persist after reload.
+// ---
+
 import {initialiseEmojiPickerForTest} from './emoji_picker_test_util.js';
 
 suite('emoji-picker-global-variants', () => {

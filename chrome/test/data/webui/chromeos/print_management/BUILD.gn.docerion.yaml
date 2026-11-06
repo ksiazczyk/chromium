@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build target for print management WebUI tests
+summary: Defines the build_webui_tests target that compiles the print management TypeScript tests and C++ browser test with their TypeScript dependencies and path mappings.

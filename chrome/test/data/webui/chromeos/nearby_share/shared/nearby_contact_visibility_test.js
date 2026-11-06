@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Nearby contact visibility element tests
+// summary: WebUI tests for the nearby-contact-visibility element covering contact download states, visibility toggles, and unreachable contact messaging.
+// ---
+
 import 'chrome://nearby/strings.m.js';
 import 'chrome://nearby/shared/nearby_contact_visibility.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';

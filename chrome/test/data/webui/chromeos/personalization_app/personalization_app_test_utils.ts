@@ -7,6 +7,12 @@
  * SWA.
  */
 
+// ---docerion
+// type: test
+// title: Personalization app test utilities
+// summary: Shared helpers for personalization app tests that initialize elements, wire mock providers, set up the test store, and create SVG data URLs.
+// ---
+
 import type {PersonalizationState} from 'chrome://personalization/js/personalization_app.js';
 import {emptyState, getSeaPenStore, SeaPenStoreAdapter, setAmbientProviderForTesting, setKeyboardBacklightProviderForTesting, setSeaPenProviderForTesting, setThemeProviderForTesting, setUserProviderForTesting, setWallpaperProviderForTesting} from 'chrome://personalization/js/personalization_app.js';
 import type {PolymerElement} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';

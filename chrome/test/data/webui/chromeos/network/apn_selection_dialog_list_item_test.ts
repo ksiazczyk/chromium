@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: APN selection dialog list item tests
+// summary: Tests the apn-selection-dialog-list-item element, checking friendly and secondary APN name display and the selected checkmark state.
+// ---
+
 import 'chrome://os-settings/strings.m.js';
 import 'chrome://resources/ash/common/network/apn_selection_dialog_list_item.js';
 

@@ -1,6 +1,13 @@
 // Copyright 2021 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Test post-message client for parent access
+// summary: Test client that sends a hardcoded parent access result proto string to the WebUI through the post message API client.
+// ---
+
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 
 import {PostMessageApiClient} from 'chrome://resources/ash/common/post_message_api/post_message_api_client.js';

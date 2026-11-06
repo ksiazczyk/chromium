@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Share data page WebUI tests
+// summary: Tests the share data page, covering checkboxes, file attachment, diagnostics options, and sending feedback reports.
+// ---
+
 import 'chrome://os-feedback/file_attachment.js';
 import 'chrome://os-feedback/share_data_page.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';

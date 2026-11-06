@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock browser proxy for Extended Updates tests
+// summary: Test browser proxy that stubs the Extended Updates Mojo handler so WebUI tests can simulate opt-in results and installed Android apps.
+// ---
+
 import type {App} from 'chrome://extended-updates-dialog/extended_updates.mojom-webui.js';
 import {PageCallbackRouter, PageHandlerRemote} from 'chrome://extended-updates-dialog/extended_updates.mojom-webui.js';
 import type {ExtendedUpdatesBrowserProxy} from 'chrome://extended-updates-dialog/extended_updates_browser_proxy.js';

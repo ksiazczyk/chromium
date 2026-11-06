@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Help content WebUI tests
+// summary: Tests the help content element, verifying popular and searched help links, icons, and online and offline behavior.
+// ---
+
 import 'chrome://os-feedback/help_content.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 

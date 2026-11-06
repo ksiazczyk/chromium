@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Nearby page template element tests
+// summary: WebUI tests for the nearby-page-template element checking titles, button visibility, and utility, cancel, action, and close events.
+// ---
+
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 import 'chrome://nearby/shared/nearby_page_template.js';
 
