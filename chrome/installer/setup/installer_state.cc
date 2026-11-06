@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installer state implementation
+// summary: Implements the InstallerState class, which interprets command line arguments and initial preferences to determine the install or uninstall operation.
+// ---
+
 #include "chrome/installer/setup/installer_state.h"
 
 #include <stddef.h>

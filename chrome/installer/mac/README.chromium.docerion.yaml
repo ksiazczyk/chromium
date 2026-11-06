@@ -1,0 +1,4 @@
+# Docerion header of README.chromium.
+type: readme
+title: Origin and licensing of the pkg-dmg tool
+summary: Documents that pkg-dmg comes from the Mozilla project's macOS packaging tool and is tri-licensed under the MPL, GPL, and LGPL.

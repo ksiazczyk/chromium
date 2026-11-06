@@ -4,6 +4,12 @@
 //
 // This file declares util functions for setup project.
 
+// ---docerion
+// type: source
+// title: Setup utility functions for the Windows installer
+// summary: Implements utility functions for Chrome's Windows setup, including legacy registry cleanups, archive version lookup, event log provider registration, and DM token handling.
+// ---
+
 #include "chrome/installer/setup/setup_util.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component installation API
+// summary: Declares functions to install Chrome components from CRX files plus helpers for component version directory management.
+// ---
+
 #ifndef CHROME_INSTALLER_SETUP_INSTALL_COMPONENT_H_
 #define CHROME_INSTALLER_SETUP_INSTALL_COMPONENT_H_
 

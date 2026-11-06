@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Rebranding utilities for Chrome disk images
+# summary: Provides DMG rebranding helpers, C-string safety checks, tree verification, and tool wrappers for hfs_tool, dmg_tool, and hdiutil.
+# ---
+
 import contextlib
 import os
 import pathlib

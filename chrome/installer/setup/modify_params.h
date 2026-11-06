@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModifyParams struct for installer modify operations
+// summary: Defines the ModifyParams struct bundling installer state, installation state, setup path, and current version for modify and install operations.
+// ---
+
 #ifndef CHROME_INSTALLER_SETUP_MODIFY_PARAMS_H_
 #define CHROME_INSTALLER_SETUP_MODIFY_PARAMS_H_
 

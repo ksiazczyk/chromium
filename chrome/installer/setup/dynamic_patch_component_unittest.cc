@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for dynamic patch component
+// summary: Unit tests covering component creation, manifest reading, and destination root determination for dynamic patches at system and user level.
+// ---
+
 #include "chrome/installer/setup/dynamic_patch_component.h"
 
 #include <windows.h>

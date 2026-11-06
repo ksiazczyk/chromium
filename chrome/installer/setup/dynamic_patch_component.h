@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dynamic patch component interface
+// summary: Declares the DynamicPatchComponent class that installs patches per user and User Data directory, plus the IsUserSid helper.
+// ---
+
 #ifndef CHROME_INSTALLER_SETUP_DYNAMIC_PATCH_COMPONENT_H_
 #define CHROME_INSTALLER_SETUP_DYNAMIC_PATCH_COMPONENT_H_
 

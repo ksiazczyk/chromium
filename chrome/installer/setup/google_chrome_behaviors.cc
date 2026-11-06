@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Chrome installer behaviors
+// summary: Implements Google Chrome-specific installer behavior such as the uninstall survey, install status updates, and distribution data collection.
+// ---
+
 #include <windows.h>
 
 #include <shellapi.h>

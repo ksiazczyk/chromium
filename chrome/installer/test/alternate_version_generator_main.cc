@@ -5,6 +5,12 @@
 // This file provides a command-line interface to
 // upgrade_test::GenerateAlternateVersion().
 
+// ---docerion
+// type: source
+// title: Alternate version generator command-line tool
+// summary: Provides a command-line interface to GenerateAlternateVersion for creating a higher- or lower-versioned copy of a mini_installer.exe.
+// ---
+
 #include <stddef.h>
 
 #include <array>

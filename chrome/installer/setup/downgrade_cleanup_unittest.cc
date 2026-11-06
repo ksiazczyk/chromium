@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for downgrade cleanup
+// summary: Multiprocess unit tests verifying that AddDowngradeCleanupItems launches the right processes with correct version and operation placeholder replacements.
+// ---
+
 #include "chrome/installer/setup/downgrade_cleanup.h"
 
 #include "base/command_line.h"

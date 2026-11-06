@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User hive visitor unit tests
+// summary: Tests that VisitUserHives visits at least one user hive and stops iteration when the visitor returns false.
+// ---
+
 #include "chrome/installer/setup/user_hive_visitor.h"
 
 #include <string>

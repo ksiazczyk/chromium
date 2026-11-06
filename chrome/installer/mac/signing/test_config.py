@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Test configuration for signing tests
+# summary: Provides fake CodeSignConfig and invoker classes with deterministic values used by the signing unit tests.
+# ---
+
 import argparse
 
 from signing import config, standard_invoker

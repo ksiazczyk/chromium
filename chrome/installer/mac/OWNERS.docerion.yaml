@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file delegating review to Cocoa UI owners
+summary: Delegates code ownership of this directory to the owners listed in ui/base/cocoa/OWNERS.

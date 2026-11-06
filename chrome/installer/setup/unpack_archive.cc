@@ -5,6 +5,12 @@
 // This file defines the unpack function needed to unpack compressed and
 // uncompressed archives in setup.exe.
 
+// ---docerion
+// type: source
+// title: Archive unpacking for setup
+// summary: Implements unpacking of compressed and uncompressed Chrome archives in setup.exe, handling LZMA resources and PE image memory regions with paging error filtering.
+// ---
+
 #include "chrome/installer/setup/unpack_archive.h"
 
 #include <windows.h>

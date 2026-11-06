@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Install shortcut unit tests
+// summary: Tests Chrome shortcut creation and update behavior for desktop, quick launch, start menu, and taskbar locations.
+// ---
+
 #include "chrome/installer/setup/install.h"
 
 #include <stddef.h>

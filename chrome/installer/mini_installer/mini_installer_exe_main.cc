@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mini installer entry point
+// summary: Defines the CRT-free MainEntryPoint that runs WMain and exits, plus memset and memcpy replacements needed without the CRT.
+// ---
+
 #include <stdint.h>
 
 #include "base/clang_profiling_buildflags.h"

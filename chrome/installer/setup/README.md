@@ -1,3 +1,9 @@
+---
+type: readme
+title: Chrome's Installer for Windows
+summary: Explains the installer's operational environment, registry use, executables, code layers, and testing for setup.exe.
+---
+
 # Chrome's Installer for Windows
 
 [TOC]

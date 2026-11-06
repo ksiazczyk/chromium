@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Module resource enumeration implementation
+// summary: Enumerates resources of a given type in a loaded module and passes each resource's name and memory range to a delegate.
+// ---
+
 #include "chrome/installer/mini_installer/enumerate_resources.h"
 
 #include <windows.h>

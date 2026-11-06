@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MiniFile unit tests
+// summary: Unit tests covering MiniFile creation, shared deletion, delete-on-close behavior, closing, handle duplication and path handling.
+// ---
+
 #include "chrome/installer/mini_installer/mini_file.h"
 
 #include <utility>

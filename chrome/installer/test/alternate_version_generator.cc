@@ -22,6 +22,12 @@
 // 7za.exe.  The --fast_archive_compression switch may be used to speed up
 // compression of chrome.packed.7z at the expense of archive size.
 
+// ---docerion
+// type: source
+// title: Mini-installer alternate version generator implementation
+// summary: Implements the mini-installer re-versioner, which unpacks setup.exe and Chrome-bin, rewrites version strings and resources, and repacks them into a new mini_installer.exe.
+// ---
+
 #include "chrome/installer/test/alternate_version_generator.h"
 
 #include <windows.h>

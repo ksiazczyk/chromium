@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Downgrade cleanup interface
+// summary: Declares functions to process cleanup after a downgrade, build the placeholder cleanup command line, and add downgrade cleanup work items.
+// ---
+
 #ifndef CHROME_INSTALLER_SETUP_DOWNGRADE_CLEANUP_H_
 #define CHROME_INSTALLER_SETUP_DOWNGRADE_CLEANUP_H_
 

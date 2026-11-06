@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PE resource updater implementation
+// summary: Implements ResourceUpdater, which replaces resources in a PE image with file contents and commits the updates to disk.
+// ---
+
 #include "chrome/installer/test/resource_updater.h"
 
 #include <windows.h>

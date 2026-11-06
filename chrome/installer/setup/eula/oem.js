@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: OEM EULA dialog behavior
+// summary: Implements iframe loading, resizing, and accept or cancel window return values for the Chrome installer OEM EULA dialog.
+// ---
+
 function setInnerFrame() {
   var inner_frame = window.dialogArguments;
   if (inner_frame) {

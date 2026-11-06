@@ -4,6 +4,12 @@
 //
 // This file declares Chrome uninstall related functions.
 
+// ---docerion
+// type: source
+// title: Uninstallation function declarations
+// summary: Declares functions for uninstalling Chrome, deleting registration keys and legacy registry entries, and cleaning up the installation directory after uninstall.
+// ---
+
 #ifndef CHROME_INSTALLER_SETUP_UNINSTALL_H_
 #define CHROME_INSTALLER_SETUP_UNINSTALL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChannelOverrideWorkItem class declaration
+// summary: Declares a WorkItem that updates the browser's "ap" value so the update channel matches the current channel.
+// ---
+
 #ifndef CHROME_INSTALLER_SETUP_CHANNEL_OVERRIDE_WORK_ITEM_H_
 #define CHROME_INSTALLER_SETUP_CHANNEL_OVERRIDE_WORK_ITEM_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User hive visitor header
+// summary: Declares the HiveVisitor callback and the VisitUserHives function that runs it for every local user's registry hive.
+// ---
+
 #ifndef CHROME_INSTALLER_SETUP_USER_HIVE_VISITOR_H_
 #define CHROME_INSTALLER_SETUP_USER_HIVE_VISITOR_H_
 

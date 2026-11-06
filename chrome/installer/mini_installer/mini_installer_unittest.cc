@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mini installer unit tests
+// summary: Unit tests for the mini installer covering command line flag handling, module directory lookup, and unpacking of compressed and uncompressed archives.
+// ---
+
 #include "chrome/installer/mini_installer/mini_installer.h"
 
 #include <string>

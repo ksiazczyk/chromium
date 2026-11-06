@@ -1,6 +1,13 @@
 # Copyright 2023 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Invoker Abstraction for Signing Command-Line Tools
+# summary: Defines base and interface classes for invokers that run command-line tools with side effects, delegating to signer and notarizer sub-invokers.
+# ---
+
 """
 The invoker module is an abstraction over the commands module for running
 command-line tools that cause specific side effects. An instance is used by

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InstallerState unit tests
+// summary: Unit tests for InstallerState covering system-level installs, registry-backed version lookup, and installer result values.
+// ---
+
 #include "chrome/installer/setup/installer_state.h"
 
 #include <windows.h>

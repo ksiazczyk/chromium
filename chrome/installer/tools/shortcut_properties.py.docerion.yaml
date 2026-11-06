@@ -1,0 +1,4 @@
+# Docerion header of shortcut_properties.py.
+type: script
+title: Windows Shortcut Property Dumper
+summary: Python tool that dumps a Windows shortcut's property bag to stdout, including the AppUserModelId and optionally all properties, to verify values not visible in the Windows UI.

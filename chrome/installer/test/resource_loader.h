@@ -4,6 +4,12 @@
 
 // A helper class for loading resources out of portable executable files.
 
+// ---docerion
+// type: source
+// title: PE resource loader interface
+// summary: Declares the ResourceLoader class for loading resources out of portable executable files.
+// ---
+
 #ifndef CHROME_INSTALLER_TEST_RESOURCE_LOADER_H_
 #define CHROME_INSTALLER_TEST_RESOURCE_LOADER_H_
 

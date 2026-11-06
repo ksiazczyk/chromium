@@ -1,0 +1,4 @@
+# Docerion header of chrome.release.
+type: config
+title: Chrome release packaging manifest
+summary: Maps built Chrome files to their destinations in the installer archive, with sections for branding and optional components.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Setup install details implementation
+// summary: Determines the installer's install mode, system level, and channel at runtime from the command line, preferences, and registry.
+// ---
+
 #include "chrome/installer/setup/setup_install_details.h"
 
 #include <optional>

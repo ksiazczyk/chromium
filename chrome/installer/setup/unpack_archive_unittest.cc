@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for archive unpacking
+// summary: Parameterized tests verifying that setup unpacks compressed and uncompressed Chrome archives correctly and fails when both archive types are provided.
+// ---
+
 #include "chrome/installer/setup/unpack_archive.h"
 
 #include <string>

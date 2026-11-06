@@ -5,6 +5,12 @@
 // This header exists as a starting point for extracting some of the
 // logic out of setup_main.cc.
 
+// ---docerion
+// type: source
+// title: Installer main header
+// summary: Declares the helper that performs installation of a set of products, a step toward extracting logic from setup_main.cc.
+// ---
+
 #ifndef CHROME_INSTALLER_SETUP_SETUP_MAIN_H_
 #define CHROME_INSTALLER_SETUP_SETUP_MAIN_H_
 

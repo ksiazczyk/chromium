@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Tests for Signing Model Objects
+# summary: Unit tests verifying requirements string generation and distribution-to-config customization for channels and branding.
+# ---
+
 import os.path
 import unittest
 from unittest import mock

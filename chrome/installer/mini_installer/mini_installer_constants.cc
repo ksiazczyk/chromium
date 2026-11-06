@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mini installer constants definitions
+// summary: Defines filenames, command line switches, resource types and registry value and key paths used by the mini installer.
+// ---
+
 #include "chrome/installer/mini_installer/mini_installer_constants.h"
 
 #include "build/branding_buildflags.h"

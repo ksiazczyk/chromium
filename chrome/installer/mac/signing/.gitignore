@@ -1,1 +1,7 @@
+# ---docerion
+# type: config
+# title: Gitignore for generated config file
+# summary: Ignores the generated config.py.inc file so it is not tracked in version control.
+# ---
+
 config.py.inc

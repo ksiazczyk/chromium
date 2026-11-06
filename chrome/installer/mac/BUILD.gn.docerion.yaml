@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for macOS installer packaging
+summary: Defines GN targets that assemble the macOS packaging directory, including DMG DS_Store generation, signing config generation, and copying of installer scripts and tools.

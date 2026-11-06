@@ -5,6 +5,12 @@
 // This file contains the implementation for an iterator over a portable
 // executable file's resources.
 
+// ---docerion
+// type: source
+// title: PE image resource iterator implementation
+// summary: Implements recursive enumeration of a portable executable's resource directory, invoking a callback for each data entry found.
+// ---
+
 #include "chrome/installer/test/pe_image_resources.h"
 
 #include "base/compiler_specific.h"

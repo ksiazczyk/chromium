@@ -5,6 +5,12 @@
 // This file contains the definitions of the installer functions that build
 // the WorkItemList used to install the application.
 
+// ---docerion
+// type: source
+// title: Installer work item list construction
+// summary: Implements the installer functions that build the WorkItemList of steps used to install or update Chrome on Windows.
+// ---
+
 #include "chrome/installer/setup/install_worker.h"
 
 #include <windows.h>

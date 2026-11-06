@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for WriteToDisk
+// summary: GoogleTest suite verifying WriteToDisk for small and large data writes and that the Windows last-error code is set when the target directory does not exist.
+// ---
+
 #include "chrome/installer/mini_installer/write_to_disk.h"
 
 #include <windows.h>

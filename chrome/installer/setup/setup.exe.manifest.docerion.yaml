@@ -1,0 +1,4 @@
+# Docerion header of setup.exe.manifest.
+type: config
+title: Windows manifest for setup.exe
+summary: Application manifest for setup.exe requesting asInvoker execution level, with compatibility merged from the build's compatibility manifest.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mini installer exit codes
+// summary: Defines the ExitCode enum listing mini_installer process exit codes, including setup launch, patching and extraction failures.
+// ---
+
 #ifndef CHROME_INSTALLER_MINI_INSTALLER_EXIT_CODE_H_
 #define CHROME_INSTALLER_MINI_INSTALLER_EXIT_CODE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of setup_exe_version.rc.version.
+type: source
+title: Setup executable version resource template
+summary: Windows version resource template for setup.exe, with placeholders for version numbers and branding values filled in at build time.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows App Runtime installation trigger
+// summary: Declares a function that uses the IAppInstallManager API to install the Windows App Runtime package and create a package dependency on Windows 11 24H2 or later.
+// ---
+
 #ifndef CHROME_INSTALLER_SETUP_INSTALL_WIN_APP_RUNTIME_H_
 #define CHROME_INSTALLER_SETUP_INSTALL_WIN_APP_RUNTIME_H_
 

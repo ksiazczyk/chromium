@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installer crash reporting setup
+// summary: Configures Crashpad crash reporting for the installer, including crash keys, system temp crash dump location, and log file attachments.
+// ---
+
 #include "chrome/installer/setup/installer_crash_reporting.h"
 
 #include <iterator>

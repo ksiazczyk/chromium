@@ -4,6 +4,12 @@
 //
 // This file exposes the public interface to the mini_installer re-versioner.
 
+// ---docerion
+// type: source
+// title: Mini-installer alternate version generator interface
+// summary: Declares the upgrade_test interface for generating alternate-version mini-installers and PE files with higher or lower version numbers.
+// ---
+
 #ifndef CHROME_INSTALLER_TEST_ALTERNATE_VERSION_GENERATOR_H_
 #define CHROME_INSTALLER_TEST_ALTERNATE_VERSION_GENERATOR_H_
 

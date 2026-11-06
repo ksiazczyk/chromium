@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Component installation unit tests
+// summary: Tests CRX component installation, covering signature verification, fake component behavior, and version directory cleanup.
+// ---
+
 #include "chrome/installer/setup/install_component.h"
 
 #include <windows.h>

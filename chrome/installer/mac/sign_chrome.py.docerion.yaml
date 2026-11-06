@@ -1,0 +1,4 @@
+# Docerion header of sign_chrome.py.
+type: script
+title: Chrome macOS signing entry point
+summary: Thin launcher that runs the signing driver to sign and package Chrome for macOS.

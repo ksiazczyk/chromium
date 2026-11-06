@@ -1,6 +1,13 @@
 # Copyright 2019 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Side-effect command wrappers for signing
+# summary: Wraps file operations and subprocess command execution, including synchronous and async variants, used by the signing pipeline.
+# ---
+
 """
 The commands module wraps operations that have side-effects.
 """

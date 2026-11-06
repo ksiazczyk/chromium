@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Unit tests for the commands module
+# summary: Unit tests verifying the file and command wrapper functions in commands.py, such as copying, deleting, and running commands.
+# ---
+
 import os
 import tempfile
 import shutil

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for mini_installer
+summary: GN build file defining the mini_installer library, unit tests, version resources, and runtime dependency targets.

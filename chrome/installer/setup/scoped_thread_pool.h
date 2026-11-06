@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedThreadPool class declaration
+// summary: Declares an RAII helper that starts a thread pool on creation and shuts it down on destruction.
+// ---
+
 #ifndef CHROME_INSTALLER_SETUP_SCOPED_THREAD_POOL_H_
 #define CHROME_INSTALLER_SETUP_SCOPED_THREAD_POOL_H_
 

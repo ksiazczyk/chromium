@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Tests for Notarization
+# summary: Unit tests for notarytool submission, result polling, and error handling with mocked async command output.
+# ---
+
 import asyncio
 import os
 import plistlib

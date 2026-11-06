@@ -1,6 +1,13 @@
 # Copyright 2019 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Code signing of Chrome app bundle parts
+# summary: Defines the code-signed pieces of the Chrome app bundle and utilities to sign and verify them with codesign.
+# ---
+
 """
 The signing module defines the various binary pieces of the Chrome application
 bundle that need to be signed, as well as providing utilities to sign them.

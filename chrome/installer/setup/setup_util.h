@@ -6,6 +6,12 @@
 // few functions that the Chrome component updater uses for patching binary
 // deltas.
 
+// ---docerion
+// type: source
+// title: Setup utility function declarations
+// summary: Declares utility functions for the setup project, including archive unpack helpers, registry cleanup, install age checks, and unpack metrics used by the Chrome component updater.
+// ---
+
 #ifndef CHROME_INSTALLER_SETUP_SETUP_UTIL_H_
 #define CHROME_INSTALLER_SETUP_SETUP_UTIL_H_
 

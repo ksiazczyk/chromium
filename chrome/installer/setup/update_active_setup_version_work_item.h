@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateActiveSetupVersionWorkItem header
+// summary: Declares the WorkItem that updates or installs the Active Setup Version registry value on machine-wide installs.
+// ---
+
 #ifndef CHROME_INSTALLER_SETUP_UPDATE_ACTIVE_SETUP_VERSION_WORK_ITEM_H_
 #define CHROME_INSTALLER_SETUP_UPDATE_ACTIVE_SETUP_VERSION_WORK_ITEM_H_
 

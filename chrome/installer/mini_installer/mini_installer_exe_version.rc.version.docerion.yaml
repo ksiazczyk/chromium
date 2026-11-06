@@ -1,0 +1,4 @@
+# Docerion header of mini_installer_exe_version.rc.version.
+type: config
+title: Mini installer version resource template
+summary: Windows VERSIONINFO resource template with placeholders for version numbers, branding, and build metadata filled in at build time.

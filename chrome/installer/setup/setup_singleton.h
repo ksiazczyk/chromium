@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Setup singleton class
+// summary: Declares a class that grants a process the exclusive right to modify a Chrome installation and supports interrupt waiting.
+// ---
+
 #ifndef CHROME_INSTALLER_SETUP_SETUP_SINGLETON_H_
 #define CHROME_INSTALLER_SETUP_SETUP_SINGLETON_H_
 

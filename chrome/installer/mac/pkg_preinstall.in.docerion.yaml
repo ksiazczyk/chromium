@@ -1,0 +1,4 @@
+# Docerion header of pkg_preinstall.in.
+type: script
+title: macOS pkg preinstall script template
+summary: Bash preinstall template that aborts installation when the target location holds an existing app with an unexpected bundle identifier.

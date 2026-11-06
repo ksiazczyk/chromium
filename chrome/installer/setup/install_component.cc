@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component installation from inner CRX
+// summary: Implements installing pinned Chrome components such as dynamic patch and platform runtime from inner CRX archives.
+// ---
+
 #include "chrome/installer/setup/install_component.h"
 
 #include <stdint.h>

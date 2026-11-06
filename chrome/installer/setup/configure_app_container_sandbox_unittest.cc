@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for AppContainer sandbox configuration
+// summary: Unit tests verifying that ConfigureAppContainerSandbox adds the expected AppContainer ACEs to single and multiple directories and succeeds on an empty list.
+// ---
+
 #include "chrome/installer/setup/configure_app_container_sandbox.h"
 
 #include <array>

@@ -1,0 +1,4 @@
+# Docerion header of mini_installer.rc.
+type: source
+title: Mini installer resource script
+summary: Windows resource script that embeds the mini installer icon and wires up generated resource includes.

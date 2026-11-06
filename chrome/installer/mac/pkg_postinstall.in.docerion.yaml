@@ -1,0 +1,4 @@
+# Docerion header of pkg_postinstall.in.
+type: script
+title: macOS pkg postinstall script template
+summary: Bash postinstall template that installs GoogleUpdater securely, writes the brand plist, and registers Chrome with the updater via ksadmin.

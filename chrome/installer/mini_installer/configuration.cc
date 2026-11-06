@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mini installer configuration parsing
+// summary: Implements parsing of the command line, environment variable, and registry settings into the installer configuration.
+// ---
+
 #include "chrome/installer/mini_installer/configuration.h"
 
 #include <windows.h>

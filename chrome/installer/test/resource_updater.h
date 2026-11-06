@@ -4,6 +4,12 @@
 
 // A helper class for updating resources in portable executable files.
 
+// ---docerion
+// type: source
+// title: PE resource updater interface
+// summary: Declares the ResourceUpdater class for updating resources in portable executable files.
+// ---
+
 #ifndef CHROME_INSTALLER_TEST_RESOURCE_UPDATER_H_
 #define CHROME_INSTALLER_TEST_RESOURCE_UPDATER_H_
 

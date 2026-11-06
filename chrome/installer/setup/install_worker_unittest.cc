@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for installer work item construction
+// summary: Unit tests for the installer functions that build the installation work item list, using a mocked work item list and registry utilities.
+// ---
+
 #include "chrome/installer/setup/install_worker.h"
 
 #include <memory>

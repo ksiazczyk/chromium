@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for deletion with retry
+// summary: Unit tests covering deletion of files, read-only files, directories and missing items, using a mock sleep hook for retries.
+// ---
+
 #include "chrome/installer/mini_installer/delete_with_retry.h"
 
 #include <windows.h>

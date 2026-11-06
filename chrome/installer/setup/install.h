@@ -4,6 +4,12 @@
 //
 // This file contains the specification of setup main functions.
 
+// ---docerion
+// type: source
+// title: Install entry point declarations
+// summary: Declares setup main functions for installing or updating Chrome, including shortcut operation enums and OS upgrade handling.
+// ---
+
 #ifndef CHROME_INSTALLER_SETUP_INSTALL_H_
 #define CHROME_INSTALLER_SETUP_INSTALL_H_
 

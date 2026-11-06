@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateActiveSetupVersionWorkItem implementation
+// summary: Implements a WorkItem that updates the Active Setup Version registry value, optionally bumping the selective trigger component.
+// ---
+
 #include "chrome/installer/setup/update_active_setup_version_work_item.h"
 
 #include <stdint.h>

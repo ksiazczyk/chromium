@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Registry key helper implementation
+// summary: Implements the RegKey wrapper for opening registry keys and reading and writing values, plus helpers for Google Update Clients and ClientState keys.
+// ---
+
 #include "chrome/installer/mini_installer/regkey.h"
 
 #include "base/compiler_specific.h"

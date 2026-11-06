@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installer component interface
+// summary: Defines the interface for installer-supported components covering manifest validation, destination root determination, and initialization.
+// ---
+
 #ifndef CHROME_INSTALLER_SETUP_COMPONENT_INTERFACE_H_
 #define CHROME_INSTALLER_SETUP_COMPONENT_INTERFACE_H_
 

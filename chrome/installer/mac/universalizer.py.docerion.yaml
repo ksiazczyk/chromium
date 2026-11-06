@@ -1,0 +1,4 @@
+# Docerion header of universalizer.py.
+type: script
+title: Merge trees into a universal macOS binary
+summary: Tool that merges parallel single-architecture directory trees, including Info.plist files, into one universal multi-architecture app bundle.

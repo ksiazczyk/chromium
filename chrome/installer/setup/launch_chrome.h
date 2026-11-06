@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome launch after install API
+// summary: Declares functions to build the post-install launch command and to launch Chrome with or without waiting for it to exit.
+// ---
+
 #ifndef CHROME_INSTALLER_SETUP_LAUNCH_CHROME_H_
 #define CHROME_INSTALLER_SETUP_LAUNCH_CHROME_H_
 

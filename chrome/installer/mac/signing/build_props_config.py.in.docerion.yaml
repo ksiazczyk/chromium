@@ -1,0 +1,4 @@
+# Docerion header of build_props_config.py.in.
+type: source
+title: Template for build properties sign config
+summary: Template processed by GN to generate a code sign config class with injected branding, version, and product properties.

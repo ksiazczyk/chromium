@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for setup utility functions
+// summary: Unit tests covering version detection from archive directories, delayed file deletion, event log provider registration, registry cleanup, and other setup utilities.
+// ---
+
 #include "chrome/installer/setup/setup_util_unittest.h"
 
 #include <windows.h>

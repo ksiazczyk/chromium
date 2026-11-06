@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visual elements manifest work item interface
+// summary: Declares a work item that generates a chrome.VisualElementsManifest.xml in the target directory referencing a given Chrome version's assets.
+// ---
+
 #ifndef CHROME_INSTALLER_SETUP_GENERATE_VISUAL_ELEMENTS_MANIFEST_WORK_ITEM_H_
 #define CHROME_INSTALLER_SETUP_GENERATE_VISUAL_ELEMENTS_MANIFEST_WORK_ITEM_H_
 

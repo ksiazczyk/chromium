@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MiniFile implementation
+// summary: Implements MiniFile, a Windows file wrapper supporting creation for exclusive writing, closing, handle duplication and delete-on-close.
+// ---
+
 #include "chrome/installer/mini_installer/mini_file.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Tests for Bundle Modification
+# summary: Unit tests that verify plist and entitlement modifications for base, channel-customized, and branded distributions using mocked commands.
+# ---
+
 import unittest
 from unittest import mock
 

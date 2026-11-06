@@ -1,6 +1,13 @@
 # Copyright 2019 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Chrome macOS signing pipeline
+# summary: 'Orchestrates the full macOS signing process: channel customization, code signing, DMG packaging, and installer tool signing.'
+# ---
+
 """
 The pipeline module orchestrates the entire signing process, which includes:
     1. Customizing build products for release channels.

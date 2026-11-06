@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for installer test process utilities
+// summary: Declares the ProcessStatus variant types and helpers for running and monitoring processes in macOS installer script tests.
+// ---
+
 #ifndef CHROME_INSTALLER_MAC_INSTALL_TEST_UTIL_H_
 #define CHROME_INSTALLER_MAC_INSTALL_TEST_UTIL_H_
 
