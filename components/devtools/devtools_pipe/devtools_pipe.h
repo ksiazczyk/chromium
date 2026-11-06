@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools pipe file descriptor check header
+// summary: Declares AreFileDescriptorsOpen, which embedders should call before opening files when the --remote-debugging-pipe switch is present.
+// ---
+
 #ifndef COMPONENTS_DEVTOOLS_DEVTOOLS_PIPE_DEVTOOLS_PIPE_H_
 #define COMPONENTS_DEVTOOLS_DEVTOOLS_PIPE_DEVTOOLS_PIPE_H_
 

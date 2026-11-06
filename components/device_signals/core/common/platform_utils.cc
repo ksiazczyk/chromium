@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform utility implementations
+// summary: Implements local path validation, OS name and version lookups, and MAC address normalization with hooks for test injection.
+// ---
+
 #include "components/device_signals/core/common/platform_utils.h"
 
 #include <algorithm>

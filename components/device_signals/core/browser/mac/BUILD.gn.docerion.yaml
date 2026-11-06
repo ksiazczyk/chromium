@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for mac device signals
+summary: Defines the mac static library with the plist settings client sources and a unit_tests source set, listing dependencies and the Foundation framework.

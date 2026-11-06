@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OS signals collector test base implementation
+// summary: Implements shared test setup and helpers that verify collected OS signals against fake browser policy data.
+// ---
+
 #include "components/device_signals/core/browser/os_signals_collector_test_base.h"
 
 #include "base/check.h"

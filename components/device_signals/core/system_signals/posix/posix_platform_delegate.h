@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PosixPlatformDelegate class declaration
+// summary: Declares PosixPlatformDelegate, a BasePlatformDelegate that resolves file paths on POSIX systems.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_CORE_SYSTEM_SIGNALS_POSIX_POSIX_PLATFORM_DELEGATE_H_
 #define COMPONENTS_DEVICE_SIGNALS_CORE_SYSTEM_SIGNALS_POSIX_POSIX_PLATFORM_DELEGATE_H_
 

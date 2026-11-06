@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signals aggregator implementation header
+// summary: Declares SignalsAggregatorImpl, which owns a user permission service and a list of signal collectors to fulfill signal aggregation requests.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_SIGNALS_AGGREGATOR_IMPL_H_
 #define COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_SIGNALS_AGGREGATOR_IMPL_H_
 

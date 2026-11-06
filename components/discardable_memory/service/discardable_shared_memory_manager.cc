@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discardable shared memory manager implementation
+// summary: Implements the discardable shared memory manager, including the Mojo service binding that allocates and tracks discardable memory per client.
+// ---
+
 #include "components/discardable_memory/service/discardable_shared_memory_manager.h"
 
 #include <algorithm>

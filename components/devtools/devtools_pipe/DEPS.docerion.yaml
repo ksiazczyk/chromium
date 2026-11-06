@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: devtools_pipe DEPS include rules
+summary: Grants the devtools_pipe component permission to include headers from content/public/browser.

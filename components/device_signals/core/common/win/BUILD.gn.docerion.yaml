@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the win device signals library
+summary: Defines the win static library with win_types sources and a testonly unit_tests source set, with dependencies on base and gtest.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for UserPermissionServiceImpl
+// summary: Unit tests covering consent collection and signals collection permission outcomes across managed, unaffiliated, consumer, and unknown user scenarios.
+// ---
+
 #include "components/device_signals/core/browser/user_permission_service_impl.h"
 
 #include <optional>

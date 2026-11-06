@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Base64-encoded test executable data for Windows device signals tests
+// summary: Defines base64-encoded bytes of signed, multi-signed, metadata-bearing and empty test executables used by Windows device signals tests.
+// ---
+
 #include "components/device_signals/test/win/files_data.h"
 
 namespace device_signals::test {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX platform utilities for device signals
+// summary: Implements POSIX path resolution with tilde and environment variable expansion, plus lookup of a process's executable path, for the device signals component.
+// ---
+
 #include "components/device_signals/core/common/platform_utils.h"
 
 #include "base/containers/flat_set.h"

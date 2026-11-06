@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings signals collector implementation
+// summary: Implements collection of system settings signals by delegating requests to a SettingsClient and handling errors.
+// ---
+
 #include "components/device_signals/core/browser/settings_signals_collector.h"
 
 #include <utility>

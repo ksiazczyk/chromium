@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discardable shared memory heap class declaration
+// summary: Declares the DiscardableSharedMemoryHeap class and its Span type for managing discardable shared memory blocks via free lists.
+// ---
+
 #ifndef COMPONENTS_DISCARDABLE_MEMORY_COMMON_DISCARDABLE_SHARED_MEMORY_HEAP_H_
 #define COMPONENTS_DISCARDABLE_MEMORY_COMMON_DISCARDABLE_SHARED_MEMORY_HEAP_H_
 

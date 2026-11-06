@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WMI client implementation querying hotfix updates
+// summary: Implements WmiClientImpl, running a Win32_QuickFixEngineering WMI query and parsing installed hotfix IDs into a response.
+// ---
+
 #include "components/device_signals/core/system_signals/win/wmi_client_impl.h"
 
 #include <windows.h>

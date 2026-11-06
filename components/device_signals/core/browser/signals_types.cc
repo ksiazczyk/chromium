@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signal type definitions implementation
+// summary: Implements methods for the signal response types, including ErrorToString mapping of collection errors to string constants and struct constructors and operators.
+// ---
+
 #include "components/device_signals/core/browser/signals_types.h"
 
 #include "components/device_signals/core/common/signals_constants.h"

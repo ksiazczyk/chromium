@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client discardable shared memory manager implementation
+// summary: Implements the client-side discardable shared memory manager that allocates discardable memory segments through the browser process over Mojo.
+// ---
+
 #include "components/discardable_memory/client/client_discardable_shared_memory_manager.h"
 
 #include <algorithm>

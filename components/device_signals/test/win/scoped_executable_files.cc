@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped executable files test helper implementation
+// summary: Implements a helper that lazily decodes and writes the test executables into a scoped temp directory and exposes their paths and expected metadata.
+// ---
+
 #include "components/device_signals/test/win/scoped_executable_files.h"
 
 #include <string_view>

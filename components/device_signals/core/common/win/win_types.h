@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows signal data type definitions
+// summary: Declares the AvProductState enum plus AvProduct and InstalledHotfix structs representing antivirus products and installed hotfixes, with value conversion methods.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_CORE_COMMON_WIN_WIN_TYPES_H_
 #define COMPONENTS_DEVICE_SIGNALS_CORE_COMMON_WIN_WIN_TYPES_H_
 

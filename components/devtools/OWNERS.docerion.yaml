@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: DevTools component OWNERS file
+summary: Defines ownership for the devtools component by including the OWNERS files of content/browser/devtools and headless.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device signals feature flags
+// summary: Defines base::Feature flags and parameters controlling signals reporting, agent, policy and certificate collection, and content binding versioning.
+// ---
+
 #include "components/device_signals/core/common/signals_features.h"
 
 namespace enterprise_signals::features {

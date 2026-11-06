@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signals contract test support header
+// summary: Declares functions returning maps of signal names to verification predicates representing the inline flow test contract.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_TEST_SIGNALS_CONTRACT_H_
 #define COMPONENTS_DEVICE_SIGNALS_TEST_SIGNALS_CONTRACT_H_
 

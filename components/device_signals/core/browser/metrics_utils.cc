@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device signals metrics utilities implementation
+// summary: Implements UMA histogram logging for device signals, covering permission checks, collection requests, success and failure latencies, item counts, and error variants.
+// ---
+
 #include "components/device_signals/core/browser/metrics_utils.h"
 
 #include "base/metrics/histogram_functions.h"

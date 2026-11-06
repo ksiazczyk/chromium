@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the signals aggregator implementation
+// summary: Unit tests for SignalsAggregatorImpl using mock signal collectors and a mock user permission service to verify aggregation behavior, error handling and metrics.
+// ---
+
 #include "components/device_signals/core/browser/signals_aggregator_impl.h"
 
 #include <memory>

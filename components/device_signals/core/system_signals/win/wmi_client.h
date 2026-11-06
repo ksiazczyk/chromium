@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WMI client interface for installed hotfixes
+// summary: Declares the WmiClient interface, WmiParsingError enum, and WmiHotfixesResponse struct for retrieving installed hotfix updates via WMI.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_CORE_SYSTEM_SIGNALS_WIN_WMI_CLIENT_H_
 #define COMPONENTS_DEVICE_SIGNALS_CORE_SYSTEM_SIGNALS_WIN_WMI_CLIENT_H_
 

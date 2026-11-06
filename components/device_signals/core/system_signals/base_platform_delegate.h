@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base platform delegate class declaration
+// summary: Declares BasePlatformDelegate, which implements PlatformDelegate functionality common to all platform-specific specializations.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_CORE_SYSTEM_SIGNALS_BASE_PLATFORM_DELEGATE_H_
 #define COMPONENTS_DEVICE_SIGNALS_CORE_SYSTEM_SIGNALS_BASE_PLATFORM_DELEGATE_H_
 

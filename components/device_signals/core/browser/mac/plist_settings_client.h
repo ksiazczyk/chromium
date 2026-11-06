@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlistSettingsClient interface
+// summary: Declares the PlistSettingsClient class, a SettingsClient that collects settings signals from plists on macOS.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_MAC_PLIST_SETTINGS_CLIENT_H_
 #define COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_MAC_PLIST_SETTINGS_CLIENT_H_
 

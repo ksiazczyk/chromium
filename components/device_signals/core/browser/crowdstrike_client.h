@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrowdStrike client header
+// summary: Declares the CrowdStrikeClient interface for retrieving CrowdStrike agent identifiers from the data.zta file asynchronously via a callback.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_CROWDSTRIKE_CLIENT_H_
 #define COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_CROWDSTRIKE_CLIENT_H_
 

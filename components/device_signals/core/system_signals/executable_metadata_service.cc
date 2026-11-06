@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Executable metadata service implementation
+// summary: Collects running state, product name and version, and signing certificate key hashes for a set of executable files via the platform delegate.
+// ---
+
 #include "components/device_signals/core/system_signals/executable_metadata_service.h"
 
 #include <memory>

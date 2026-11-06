@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MacPlatformDelegate class header
+// summary: Declares the macOS platform delegate, overriding file path resolution, product metadata lookup, and signing certificate public key retrieval.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_CORE_SYSTEM_SIGNALS_MAC_MAC_PLATFORM_DELEGATE_H_
 #define COMPONENTS_DEVICE_SIGNALS_CORE_SYSTEM_SIGNALS_MAC_MAC_PLATFORM_DELEGATE_H_
 

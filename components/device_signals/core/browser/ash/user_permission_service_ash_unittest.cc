@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the ChromeOS user permission service
+// summary: Verifies consent handling and permission outcomes for signal collection under managed device, managed user, signin and affiliation scenarios on ChromeOS.
+// ---
+
 #include "components/device_signals/core/browser/ash/user_permission_service_ash.h"
 
 #include "base/test/task_environment.h"

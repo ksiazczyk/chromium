@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WinPlatformDelegate unit tests
+// summary: Tests file path resolution and signing certificate key extraction, including rejection of network and NT paths.
+// ---
+
 #include "components/device_signals/core/system_signals/win/win_platform_delegate.h"
 
 #include <array>

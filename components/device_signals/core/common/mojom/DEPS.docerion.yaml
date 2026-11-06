@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the device signals Mojom directory
+summary: Grants the directory include access to Mojo public C++ headers.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA issue tracker settings
+summary: Maps the discardable_memory directory to the Internals Monorail component and Buganizer component 1456292.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the desktop OS signals collector
+// summary: Unit tests verifying supported signal names, successful OS signal collection with granted permission, handling of unsupported signals, and behavior when user consent is missing.
+// ---
+
 #include "components/device_signals/core/browser/desktop/desktop_os_signals_collector.h"
 
 #include <array>

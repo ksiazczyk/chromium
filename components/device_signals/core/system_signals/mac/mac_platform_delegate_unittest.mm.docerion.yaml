@@ -1,0 +1,4 @@
+# Docerion header of mac_platform_delegate_unittest.mm.
+type: test
+title: MacPlatformDelegate unit tests
+summary: Unit tests verifying bundle path resolution, product metadata retrieval, and signing certificate public keys for the mac platform delegate.

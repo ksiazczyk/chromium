@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows Security Center client implementation
+// summary: Implements WscClientImpl, using the IWSCProductList COM API to collect installed antivirus products, their states, and names.
+// ---
+
 #include "components/device_signals/core/system_signals/win/wsc_client_impl.h"
 
 #include <windows.h>

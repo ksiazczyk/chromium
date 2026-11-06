@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseSignalsCollector class declaration
+// summary: Declares the base class for signal collectors, mapping signal names to collection callbacks and observing the system signals service host.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_BASE_SIGNALS_COLLECTOR_H_
 #define COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_BASE_SIGNALS_COLLECTOR_H_
 

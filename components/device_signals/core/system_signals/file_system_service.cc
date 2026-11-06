@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File system service implementation
+// summary: Resolves file paths, computes presence values, SHA-256 hashes, and executable metadata to produce file system signal items.
+// ---
+
 #include "components/device_signals/core/system_signals/file_system_service.h"
 
 #include <memory>

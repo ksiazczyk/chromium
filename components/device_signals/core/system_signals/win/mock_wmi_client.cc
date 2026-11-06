@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock WMI client implementation
+// summary: Defines the constructor and destructor of the MockWmiClient gmock class.
+// ---
+
 #include "components/device_signals/core/system_signals/win/mock_wmi_client.h"
 
 namespace device_signals {

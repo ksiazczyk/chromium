@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserPermissionService interface and permission enum
+// summary: Declares the UserPermission result enum and the KeyedService interface used to check whether device signals may be collected for a given user context.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_USER_PERMISSION_SERVICE_H_
 #define COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_USER_PERMISSION_SERVICE_H_
 

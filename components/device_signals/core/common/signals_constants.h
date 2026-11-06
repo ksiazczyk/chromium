@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device signal name and error constant declarations
+// summary: Declares the shared signal name and error string constants used across the device signals component.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_CORE_COMMON_SIGNALS_CONSTANTS_H_
 #define COMPONENTS_DEVICE_SIGNALS_CORE_COMMON_SIGNALS_CONSTANTS_H_
 

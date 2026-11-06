@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop OS signals collector implementation
+// summary: Implements the desktop OS signals collector that gathers operating system, hardware, and security signals such as disk encryption, firewall, and MAC addresses, gating PII signals on user consent.
+// ---
+
 #include "components/device_signals/core/browser/desktop/desktop_os_signals_collector.h"
 
 #include <utility>

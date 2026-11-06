@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools pipe file descriptor check implementation
+// summary: Implements AreFileDescriptorsOpen, checking whether the DevTools remote debugging pipe file descriptors are open, with Windows and POSIX variants.
+// ---
+
 #include "components/devtools/devtools_pipe/devtools_pipe.h"
 
 #include "build/build_config.h"

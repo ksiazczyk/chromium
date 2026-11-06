@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockSignalsAggregator class
+// summary: Declares a gmock mock of SignalsAggregator stubbing GetSignals and, on desktop platforms, GetSignalsForUser for tests.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_MOCK_SIGNALS_AGGREGATOR_H_
 #define COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_MOCK_SIGNALS_AGGREGATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OS signals collector test base class
+// summary: Declares a generic test fixture with mock cloud policy manager setup for OS signals collector tests.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_OS_SIGNALS_COLLECTOR_TEST_BASE_H_
 #define COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_OS_SIGNALS_COLLECTOR_TEST_BASE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserPermissionServiceImpl implementation
+// summary: Implements device signals permission checks, evaluating cloud management state, user affiliation, policy scopes, feature flags, and consent preferences.
+// ---
+
 #include "components/device_signals/core/browser/user_permission_service_impl.h"
 
 #include <set>

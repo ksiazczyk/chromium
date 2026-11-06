@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Device signals core unit tests build target
+summary: GN build file defining a test-only source_set that aggregates the unit test targets of the device signals browser, common, and system_signals components.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System signals service host interface
+// summary: Declares the SystemSignalsServiceHost KeyedService interface that creates and manages the SystemSignalsService lifecycle and notifies observers on service disconnects.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_SYSTEM_SIGNALS_SERVICE_HOST_H_
 #define COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_SYSTEM_SIGNALS_SERVICE_HOST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Windows registry settings client
+// summary: Tests the registry settings client against an overridden Windows registry, covering DWORD, QWORD, string values, and access-denied cases.
+// ---
+
 #include "components/device_signals/core/browser/win/registry_settings_client.h"
 
 #include "base/strings/string_number_conversions_win.h"

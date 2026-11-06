@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the WSC client implementation
+// summary: Tests WscClientImpl antivirus product retrieval, covering all product states and failures during list creation, initialization, and counting.
+// ---
+
 #include "components/device_signals/core/system_signals/win/wsc_client_impl.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformWrapper class declaration
+// summary: Declares a mockable wrapper around basic platform operations such as running commands and checking whether paths exist.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_CORE_COMMON_PLATFORM_WRAPPER_H_
 #define COMPONENTS_DEVICE_SIGNALS_CORE_COMMON_PLATFORM_WRAPPER_H_
 

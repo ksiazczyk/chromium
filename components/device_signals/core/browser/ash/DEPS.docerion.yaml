@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the ash device signals folder
+summary: Grants this directory access to ash/constants headers for ChromeOS-specific device signal code.

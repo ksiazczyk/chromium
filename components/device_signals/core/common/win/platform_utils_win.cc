@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows platform signal collection utilities
+// summary: Implements Windows-specific device signal collection, including CrowdStrike agent registry values, Secure Boot state, BitLocker status, and screen or console lock settings.
+// ---
+
 #include "components/device_signals/core/common/platform_utils.h"
 
 #include <windows.h>

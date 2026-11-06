@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS user permission service declaration
+// summary: Declares UserPermissionServiceAsh, which overrides consent and signal collection permission checks for the ChromeOS platform.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_ASH_USER_PERMISSION_SERVICE_ASH_H_
 #define COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_ASH_USER_PERMISSION_SERVICE_ASH_H_
 

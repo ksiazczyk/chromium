@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PosixPlatformDelegate unit tests
+// summary: Unit tests for PosixPlatformDelegate path resolution covering absolute, tilde, environment variable, and invalid or cyclic variable cases.
+// ---
+
 #include "components/device_signals/core/system_signals/posix/posix_platform_delegate.h"
 
 #include "base/files/file_path.h"

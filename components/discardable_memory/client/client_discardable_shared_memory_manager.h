@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client discardable shared memory manager header
+// summary: Declares ClientDiscardableSharedMemoryManager, a DiscardableMemoryAllocator that allocates discardable memory segments via the browser process.
+// ---
+
 #ifndef COMPONENTS_DISCARDABLE_MEMORY_CLIENT_CLIENT_DISCARDABLE_SHARED_MEMORY_MANAGER_H_
 #define COMPONENTS_DISCARDABLE_MEMORY_CLIENT_CLIENT_DISCARDABLE_SHARED_MEMORY_MANAGER_H_
 

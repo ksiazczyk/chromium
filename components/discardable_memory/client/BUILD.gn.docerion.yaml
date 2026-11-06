@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the discardable memory client
+summary: GN build definition for the discardable memory client component, listing its sources, dependencies, and unit test target.

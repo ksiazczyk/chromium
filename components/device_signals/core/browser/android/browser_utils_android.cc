@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android browser utility for security patch level
+// summary: Provides an Android-specific device signals helper that converts the Android security patch date string into a Unix epoch timestamp in milliseconds.
+// ---
+
 #include "components/device_signals/core/browser/browser_utils.h"
 
 #include <string>

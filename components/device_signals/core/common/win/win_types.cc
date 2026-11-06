@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementations of Windows signal data types
+// summary: Implements equality operators and base::Value serialization for the AvProduct and InstalledHotfix structs used by Windows device signals.
+// ---
+
 #include "components/device_signals/core/common/win/win_types.h"
 
 #include "base/values.h"

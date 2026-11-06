@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for simple_devtools_protocol_client
+summary: GN build file defining the simple_devtools_protocol_client static library and a testonly unit_tests source set, with their sources and dependencies.

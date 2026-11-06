@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signals collector base interface
+// summary: Defines the abstract SignalsCollector interface for checking supported signals and collecting a named signal into an aggregation response.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_SIGNALS_COLLECTOR_H_
 #define COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_SIGNALS_COLLECTOR_H_
 

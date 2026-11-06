@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake COM interfaces for WMI tests
+// summary: Implements fake IWbemClassObject and IEnumWbemClassObject COM objects used as test doubles.
+// ---
+
 #include "components/device_signals/core/system_signals/win/com_fakes.h"
 
 #include "base/check.h"

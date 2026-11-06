@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discardable shared memory heap implementation
+// summary: Implements the discardable shared memory heap, including span management, free list merging and searching, and memory tracing dumps.
+// ---
+
 #include "components/discardable_memory/common/discardable_shared_memory_heap.h"
 
 #include <inttypes.h>

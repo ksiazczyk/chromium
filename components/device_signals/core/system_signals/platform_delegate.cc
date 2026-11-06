@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform delegate implementation
+// summary: Implements case-sensitive versus case-insensitive file path comparison per platform, plus ProductMetadata and SigningCertificatesPublicKeys with default stubs returning nullopt.
+// ---
+
 #include "components/device_signals/core/system_signals/platform_delegate.h"
 
 #include "base/files/file_path.h"

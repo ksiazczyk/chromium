@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Discardable shared memory manager unit tests
+// summary: Unit tests for the discardable shared memory manager covering client allocation, purging, and memory policy enforcement using a test manager subclass.
+// ---
+
 #include "components/discardable_memory/service/discardable_shared_memory_manager.h"
 
 #include <stddef.h>

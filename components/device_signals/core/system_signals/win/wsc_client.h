@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows Security Center client interface
+// summary: Declares the WscClient interface, WSC query and parsing error enums, and WscAvProductsResponse for retrieving installed antivirus software.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_CORE_SYSTEM_SIGNALS_WIN_WSC_CLIENT_H_
 #define COMPONENTS_DEVICE_SIGNALS_CORE_SYSTEM_SIGNALS_WIN_WSC_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo typemap traits for system signals
+// summary: Implements Mojo typemap conversions between Mojom and native C++ types for presence values, executable metadata, and file system items.
+// ---
+
 #include "components/device_signals/core/common/mojom/system_signals_mojom_traits.h"
 
 #include "base/notreached.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrowdStrike client implementation
+// summary: Implements the CrowdStrike client that reads the data.zta JWT file to extract agent and customer identifiers, with caching, size limits, and parsing error metrics.
+// ---
+
 #include "components/device_signals/core/browser/crowdstrike_client.h"
 
 #include <memory>

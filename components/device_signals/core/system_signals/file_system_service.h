@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File system service interface
+// summary: Declares the FileSystemService API for collecting file system signals and resolving environment variables in file paths.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_CORE_SYSTEM_SIGNALS_FILE_SYSTEM_SERVICE_H_
 #define COMPONENTS_DEVICE_SIGNALS_CORE_SYSTEM_SIGNALS_FILE_SYSTEM_SERVICE_H_
 

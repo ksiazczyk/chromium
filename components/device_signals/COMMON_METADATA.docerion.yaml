@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Device signals common metadata
+summary: Defines shared directory metadata for device trust, including the Buganizer component ID and the team email address.

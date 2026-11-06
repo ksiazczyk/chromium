@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: System signals Mojom build target
+summary: Defines the GN build target that generates Mojom bindings for system signals, including C++ typemaps and Windows-specific traits sources.

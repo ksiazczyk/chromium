@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformWrapper implementation
+// summary: Implements a singleton wrapper around command execution and path existence checks, with an override point for test instances.
+// ---
+
 #include "components/device_signals/core/common/platform_wrapper.h"
 
 #include "base/command_line.h"

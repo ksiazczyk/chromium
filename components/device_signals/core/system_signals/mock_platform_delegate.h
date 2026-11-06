@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock platform delegate
+// summary: Declares a gmock mock of PlatformDelegate stubbing path, process, product metadata and signing certificate methods for tests.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_CORE_SYSTEM_SIGNALS_MOCK_PLATFORM_DELEGATE_H_
 #define COMPONENTS_DEVICE_SIGNALS_CORE_SYSTEM_SIGNALS_MOCK_PLATFORM_DELEGATE_H_
 

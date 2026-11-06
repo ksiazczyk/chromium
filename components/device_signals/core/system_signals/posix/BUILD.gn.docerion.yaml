@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the posix platform delegate
+summary: Defines the static library and unit test source set for the posix device signals platform delegate.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows-specific Mojo typemap traits declarations
+// summary: Declares Windows-specific Mojo typemap traits for antivirus and hotfix signal types.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_CORE_COMMON_MOJOM_SYSTEM_SIGNALS_WIN_MOJOM_TRAITS_H_
 #define COMPONENTS_DEVICE_SIGNALS_CORE_COMMON_MOJOM_SYSTEM_SIGNALS_WIN_MOJOM_TRAITS_H_
 

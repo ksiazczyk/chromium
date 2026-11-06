@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockUserDelegate class
+// summary: Declares a gmock mock of UserDelegate stubbing affiliation, managed status, consent, and policy scope queries for tests.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_MOCK_USER_DELEGATE_H_
 #define COMPONENTS_DEVICE_SIGNALS_CORE_BROWSER_MOCK_USER_DELEGATE_H_
 

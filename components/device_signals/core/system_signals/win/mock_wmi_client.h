@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock WMI client for tests
+// summary: Declares a gmock mock of WmiClient that stubs GetInstalledHotfixes for unit tests.
+// ---
+
 #ifndef COMPONENTS_DEVICE_SIGNALS_CORE_SYSTEM_SIGNALS_WIN_MOCK_WMI_CLIENT_H_
 #define COMPONENTS_DEVICE_SIGNALS_CORE_SYSTEM_SIGNALS_WIN_MOCK_WMI_CLIENT_H_
 

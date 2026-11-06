@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test constants implementation
+// summary: Implements helpers returning paths to test data, test bundles, and plist fixtures, plus expected bundle product name and version for device signals tests.
+// ---
+
 #include "components/device_signals/test/test_constants.h"
 
 #include "base/files/file_path.h"
