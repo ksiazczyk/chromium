@@ -1,0 +1,4 @@
+# Docerion header of hr-expected-android-assist-data.txt.
+type: test
+title: Expected accessibility tree for hr on Android with assist data
+summary: Expected Android accessibility snapshot including assist data for the hr test page, showing paragraphs before and after two hr elements, one labeled Dividing line.

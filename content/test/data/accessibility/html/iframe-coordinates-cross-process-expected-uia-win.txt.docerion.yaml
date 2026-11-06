@@ -1,0 +1,4 @@
+# Docerion header of iframe-coordinates-cross-process-expected-uia-win.txt.
+type: test
+title: Iframe coordinates cross-process expected UIA Windows tree
+summary: Expected UIA accessibility tree snapshot for the cross-process iframe coordinates test on Windows, showing buttons inside ordinary and scrolled iframe documents.

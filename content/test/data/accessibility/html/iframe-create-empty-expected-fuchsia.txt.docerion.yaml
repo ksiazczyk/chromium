@@ -1,0 +1,4 @@
+# Docerion header of iframe-create-empty-expected-fuchsia.txt.
+type: test
+title: iframe-create-empty expected accessibility tree for Fuchsia
+summary: Expected Fuchsia accessibility tree for the iframe-create-empty test with focusable and hidden unknown nodes.

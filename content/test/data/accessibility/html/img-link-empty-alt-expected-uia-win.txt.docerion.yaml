@@ -1,0 +1,4 @@
+# Docerion header of img-link-empty-alt-expected-uia-win.txt.
+type: test
+title: Expected UIA Win tree for img-link-empty-alt
+summary: Expected UIA Windows accessibility tree for the img-link-empty-alt test page, showing hyperlink elements with text children.

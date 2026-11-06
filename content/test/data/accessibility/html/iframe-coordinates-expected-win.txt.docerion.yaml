@@ -1,0 +1,4 @@
+# Docerion header of iframe-coordinates-expected-win.txt.
+type: test
+title: iframe-coordinates expected accessibility tree for Windows
+summary: Expected Windows accessibility tree snapshot for the iframe-coordinates test, listing document, section, internal frame and button roles with locations and sizes.

@@ -1,0 +1,4 @@
+# Docerion header of i-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for the i tag test
+summary: Expected Fuchsia accessibility tree snapshot for a paragraph containing text marked with the i italic tag.

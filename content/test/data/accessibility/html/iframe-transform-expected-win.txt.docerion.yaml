@@ -1,0 +1,4 @@
+# Docerion header of iframe-transform-expected-win.txt.
+type: test
+title: iframe-transform expected Windows accessibility tree
+summary: Expected MSAA/IA2 accessibility tree for the iframe-transform test on Windows, listing document, internal frame and graphic roles with locations and sizes.

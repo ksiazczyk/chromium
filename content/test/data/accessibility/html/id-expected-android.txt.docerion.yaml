@@ -1,0 +1,4 @@
+# Docerion header of id-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for id attribute test
+summary: Expected Android accessibility tree for the id test page with text views named 'No id' and 'Has id'.

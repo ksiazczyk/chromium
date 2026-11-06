@@ -1,0 +1,4 @@
+# Docerion header of input-checkbox-in-menu-expected-win.txt.
+type: test
+title: Checkbox in menu expected Windows accessibility tree
+summary: Expected Windows IA2 accessibility tree for the input-checkbox-in-menu test, showing menupopup roles with checkbutton states.

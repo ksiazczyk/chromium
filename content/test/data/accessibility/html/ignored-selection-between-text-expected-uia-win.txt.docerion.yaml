@@ -1,0 +1,4 @@
+# Docerion header of ignored-selection-between-text-expected-uia-win.txt.
+type: test
+title: Ignored selection between text expected output for UIA on Windows
+summary: Expected UIA accessibility tree for the ignored-selection-between-text test on Windows, with text elements inside non-control groups.

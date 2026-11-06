@@ -1,0 +1,4 @@
+# Docerion header of html-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for html test (skipped)
+summary: Placeholder marking the Windows expectation for the html test page as skipped because it is not mapped.

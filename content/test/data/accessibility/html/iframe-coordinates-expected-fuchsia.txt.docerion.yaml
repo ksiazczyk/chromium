@@ -1,0 +1,4 @@
+# Docerion header of iframe-coordinates-expected-fuchsia.txt.
+type: test
+title: Iframe coordinates expected Fuchsia accessibility tree
+summary: Expected Fuchsia accessibility tree snapshot for the iframe coordinates test, showing buttons and static text within the page and its iframes.

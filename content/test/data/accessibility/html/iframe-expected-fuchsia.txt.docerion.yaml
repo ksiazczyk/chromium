@@ -1,0 +1,4 @@
+# Docerion header of iframe-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for the iframe test page
+summary: Expected Fuchsia accessibility tree snapshot verifying how an empty iframe is exposed on Fuchsia.

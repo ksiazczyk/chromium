@@ -1,0 +1,4 @@
+# Docerion header of id-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for id attribute test
+summary: Expected Blink accessibility tree for the id test page with paragraphs and static text for 'No id' and 'Has id'.

@@ -1,0 +1,4 @@
+# Docerion header of iframe-scrollable-expected-blink.txt.
+type: test
+title: iframe-scrollable expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the scrollable iframe test, showing visible and viewport-hidden text inside the frame.

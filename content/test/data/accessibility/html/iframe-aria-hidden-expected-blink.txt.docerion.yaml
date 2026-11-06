@@ -1,0 +1,4 @@
+# Docerion header of iframe-aria-hidden-expected-blink.txt.
+type: test
+title: iframe-aria-hidden expected Blink accessibility tree
+summary: Expected Blink internal accessibility tree for the iframe-aria-hidden test with ignored and visible generic containers.

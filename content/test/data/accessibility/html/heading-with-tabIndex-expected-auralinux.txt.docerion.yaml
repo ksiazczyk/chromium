@@ -1,0 +1,4 @@
+# Docerion header of heading-with-tabIndex-expected-auralinux.txt.
+type: test
+title: Expected Auralinux output for heading-with-tabIndex test
+summary: Expected Auralinux accessibility tree snapshot for the heading-with-tabIndex test with heading and static text nodes.

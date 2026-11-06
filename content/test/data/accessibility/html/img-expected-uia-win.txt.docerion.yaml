@@ -1,0 +1,4 @@
+# Docerion header of img-expected-uia-win.txt.
+type: test
+title: Expected UIA accessibility tree for img test on Windows
+summary: Expected Windows UIA accessibility tree snapshot for the HTML image accessibility test page, listing Image and Text elements.

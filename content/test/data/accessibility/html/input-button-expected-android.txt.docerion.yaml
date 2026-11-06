@@ -1,0 +1,4 @@
+# Docerion header of input-button-expected-android.txt.
+type: test
+title: Input button expected Android accessibility snapshot
+summary: Expected Android accessibility tree snapshot for the input button test with button names and hints.

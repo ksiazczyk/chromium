@@ -1,0 +1,4 @@
+# Docerion header of iframe-traversal-expected-android-assist-data.txt.
+type: test
+title: iframe-traversal expected Android assist data tree
+summary: Expected Android accessibility tree for iframe traversal, including the error page rendered when the iframe resource fails to load.

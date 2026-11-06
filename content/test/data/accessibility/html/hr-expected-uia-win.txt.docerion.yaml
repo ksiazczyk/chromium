@@ -1,0 +1,4 @@
+# Docerion header of hr-expected-uia-win.txt.
+type: test
+title: Expected accessibility tree for hr on Windows UIA
+summary: Expected Windows UIA accessibility tree for the hr test page, listing separator elements and text groups for the surrounding paragraphs.

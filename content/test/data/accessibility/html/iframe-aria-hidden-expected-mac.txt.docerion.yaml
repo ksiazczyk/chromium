@@ -1,0 +1,4 @@
+# Docerion header of iframe-aria-hidden-expected-mac.txt.
+type: test
+title: iframe-aria-hidden expected macOS accessibility tree
+summary: Expected macOS accessibility tree for the iframe-aria-hidden test, an AXWebArea containing an empty AXGroup.

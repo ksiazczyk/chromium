@@ -1,0 +1,4 @@
+# Docerion header of iframe-expected-uia-win.txt.
+type: test
+title: Expected Windows UIA accessibility tree for the iframe test page
+summary: Expected Windows UI Automation tree snapshot verifying how an empty iframe is exposed via UIA.

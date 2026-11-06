@@ -1,0 +1,4 @@
+# Docerion header of iframe-aria-hidden-expected-auralinux.txt.
+type: test
+title: iframe-aria-hidden expected Linux accessibility tree
+summary: Expected Linux accessibility tree for the iframe-aria-hidden test, containing a document web node with a section child.

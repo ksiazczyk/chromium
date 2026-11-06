@@ -1,0 +1,4 @@
+# Docerion header of input-button-expected-blink.txt.
+type: test
+title: Input button expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the input button test, including name and description sources.

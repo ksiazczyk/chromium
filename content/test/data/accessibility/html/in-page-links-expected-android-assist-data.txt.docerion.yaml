@@ -1,0 +1,4 @@
+# Docerion header of in-page-links-expected-android-assist-data.txt.
+type: test
+title: In-page links expected Android assist data snapshot
+summary: Expected Android assist data tree for the in-page-links accessibility test page, listing anchors and their targets.

@@ -1,0 +1,4 @@
+# Docerion header of ignored-selection-expected-uia-win.txt.
+type: test
+title: Ignored selection expected UIA Windows accessibility tree
+summary: Expected UI Automation tree snapshot for the ignored-selection test on Windows, including a non-control-element group.

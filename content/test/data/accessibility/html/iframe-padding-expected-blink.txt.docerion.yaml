@@ -1,0 +1,4 @@
+# Docerion header of iframe-padding-expected-blink.txt.
+type: test
+title: iframe-padding expected Blink accessibility tree
+summary: Expected Blink accessibility tree for the iframe-padding test, listing iframe and button positions inside padded and bordered containers.

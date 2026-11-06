@@ -1,0 +1,4 @@
+# Docerion header of iframe-transform-expected-android-external.txt.
+type: test
+title: iframe-transform expected Android external tree
+summary: Expected Android accessibility tree from an external process for the iframe transform test, listing WebView, iframe, rootWebArea and image nodes.

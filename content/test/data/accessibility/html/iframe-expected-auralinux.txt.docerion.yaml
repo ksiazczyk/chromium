@@ -1,0 +1,4 @@
+# Docerion header of iframe-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for the iframe test page
+summary: Expected Linux accessibility tree snapshot verifying how an empty iframe is exposed on Linux.

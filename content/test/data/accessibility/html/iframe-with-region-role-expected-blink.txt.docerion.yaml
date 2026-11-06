@@ -1,0 +1,4 @@
+# Docerion header of iframe-with-region-role-expected-blink.txt.
+type: test
+title: Expected Blink tree for iframe with region role
+summary: Expected Blink accessibility tree snapshot showing an iframe exposed as a region named my iframe containing a button.

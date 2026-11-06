@@ -1,0 +1,4 @@
+# Docerion header of iframe-aria-hidden-expected-uia-win.txt.
+type: test
+title: iframe-aria-hidden expected Windows UIA accessibility tree
+summary: Expected Windows UIA accessibility tree for the iframe-aria-hidden test, a Document with a non-control Group child.

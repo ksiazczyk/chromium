@@ -1,0 +1,4 @@
+# Docerion header of ignored-selection-no-unignored-expected-auralinux.txt.
+type: test
+title: Ignored selection no unignored expected Linux tree
+summary: Expected Linux ATK/AT-SPI accessibility tree snapshot for the ignored-selection test when no content is unignored.

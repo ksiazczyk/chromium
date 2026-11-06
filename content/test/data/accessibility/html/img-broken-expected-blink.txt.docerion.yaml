@@ -1,0 +1,4 @@
+# Docerion header of img-broken-expected-blink.txt.
+type: test
+title: Img broken expected Blink output
+summary: Expected Blink accessibility tree for the img-broken test, listing image nodes including a broken image with alt text.

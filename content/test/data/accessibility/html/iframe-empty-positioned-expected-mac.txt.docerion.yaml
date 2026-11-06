@@ -1,0 +1,4 @@
+# Docerion header of iframe-empty-positioned-expected-mac.txt.
+type: test
+title: iframe-empty-positioned expected output for Mac
+summary: Expected macOS accessibility tree for the iframe-empty-positioned test.

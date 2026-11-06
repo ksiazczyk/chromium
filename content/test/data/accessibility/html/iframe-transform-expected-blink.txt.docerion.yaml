@@ -1,0 +1,4 @@
+# Docerion header of iframe-transform-expected-blink.txt.
+type: test
+title: iframe-transform expected Blink tree
+summary: Expected Blink accessibility tree for the iframe transform test, showing image page locations inside an untransformed and a scaled iframe.

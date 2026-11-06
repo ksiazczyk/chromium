@@ -1,0 +1,4 @@
+# Docerion header of img-empty-alt-expected-android-external.txt.
+type: test
+title: Img empty alt expected Android external output
+summary: Expected Android external accessibility snapshot for the img-empty-alt test, including image roles and target URLs.

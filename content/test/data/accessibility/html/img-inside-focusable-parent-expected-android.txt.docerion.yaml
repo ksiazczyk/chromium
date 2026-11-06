@@ -1,0 +1,4 @@
+# Docerion header of img-inside-focusable-parent-expected-android.txt.
+type: test
+title: Expected Android tree for img inside focusable parent
+summary: Expected Android accessibility tree snapshot for a test page with an image inside a focusable parent, including has_image annotations.

@@ -1,0 +1,4 @@
+# Docerion header of html-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for html test
+summary: Expected Fuchsia accessibility tree snapshot for the html test page with labels for the root, body and button elements.

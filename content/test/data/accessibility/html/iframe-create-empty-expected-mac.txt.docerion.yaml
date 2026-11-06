@@ -1,0 +1,4 @@
+# Docerion header of iframe-create-empty-expected-mac.txt.
+type: test
+title: iframe-create-empty expected accessibility tree for macOS
+summary: Expected macOS accessibility tree for the iframe-create-empty test showing nested AXGroup and AXWebArea nodes.

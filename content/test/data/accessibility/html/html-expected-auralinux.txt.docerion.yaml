@@ -1,0 +1,4 @@
+# Docerion header of html-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for html test
+summary: Expected Linux accessibility tree snapshot for the html test page with document, section and push button nodes.

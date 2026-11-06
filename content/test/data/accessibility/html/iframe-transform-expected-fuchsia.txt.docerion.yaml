@@ -1,0 +1,4 @@
+# Docerion header of iframe-transform-expected-fuchsia.txt.
+type: test
+title: iframe-transform expected Fuchsia tree
+summary: Expected Fuchsia accessibility tree for the iframe transform test, listing focusable, hidden and image nodes for both iframes.

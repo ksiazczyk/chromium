@@ -1,0 +1,4 @@
+# Docerion header of input-checkbox-expected-auralinux.txt.
+type: test
+title: Input checkbox expected Aura Linux accessibility tree
+summary: Expected Linux accessibility tree snapshot for the input checkbox test page, listing checkboxes with checked, unchecked and indeterminate states.

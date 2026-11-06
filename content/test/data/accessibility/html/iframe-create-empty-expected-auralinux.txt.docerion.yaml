@@ -1,0 +1,4 @@
+# Docerion header of iframe-create-empty-expected-auralinux.txt.
+type: test
+title: iframe-create-empty expected accessibility tree for auralinux
+summary: Expected Linux accessibility tree for the iframe-create-empty test showing a document containing an internal frame with an empty document.

@@ -1,0 +1,4 @@
+# Docerion header of heading-with-headingoffset-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for heading with headingoffset test
+summary: Expected Blink internal accessibility tree snapshot for the headingoffset heading test page.

@@ -1,0 +1,4 @@
+# Docerion header of ignored-selection-between-text-expected-fuchsia.txt.
+type: test
+title: Ignored selection between text expected output for Fuchsia
+summary: Expected Fuchsia accessibility tree for the ignored-selection-between-text test with static text labels surrounding ignored content.

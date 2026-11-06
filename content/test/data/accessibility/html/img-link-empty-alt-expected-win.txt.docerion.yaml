@@ -1,0 +1,4 @@
+# Docerion header of img-link-empty-alt-expected-win.txt.
+type: test
+title: Expected Win tree for img-link-empty-alt
+summary: Expected Windows MSAA/IA2 accessibility tree for the img-link-empty-alt test page, showing link, static text and graphic roles.

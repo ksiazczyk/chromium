@@ -1,0 +1,4 @@
+# Docerion header of inert-attribute-expected-blink.txt.
+type: test
+title: Inert attribute expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the inert attribute test page, showing ignored, focusable and invisible nodes.

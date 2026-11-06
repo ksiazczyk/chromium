@@ -1,0 +1,4 @@
+# Docerion header of input-checkbox-expected-uia-win.txt.
+type: test
+title: Input checkbox expected UIA Win accessibility tree
+summary: Expected UIA Windows accessibility tree snapshot for the input checkbox test page, listing toggle states for five checkboxes.

@@ -1,0 +1,4 @@
+# Docerion header of ignored-selection-no-unignored-expected-android.txt.
+type: test
+title: Ignored selection no unignored expected Android tree
+summary: Expected Android accessibility tree snapshot for the ignored-selection test when no content is unignored, showing only the focused WebView and Done text.

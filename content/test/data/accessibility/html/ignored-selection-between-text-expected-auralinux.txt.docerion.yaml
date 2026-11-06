@@ -1,0 +1,4 @@
+# Docerion header of ignored-selection-between-text-expected-auralinux.txt.
+type: test
+title: Ignored selection between text expected output for Aura Linux
+summary: Expected accessibility tree snapshot for the ignored-selection-between-text test on Aura Linux, showing caret and selection offsets around ignored text.

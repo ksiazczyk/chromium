@@ -1,0 +1,4 @@
+# Docerion header of iframe-with-invalid-children-added-expected-blink.txt.
+type: test
+title: Expected Blink tree for iframe with invalid children added
+summary: Expected Blink accessibility tree snapshot for the scenario where invalid children are dynamically added to an iframe.

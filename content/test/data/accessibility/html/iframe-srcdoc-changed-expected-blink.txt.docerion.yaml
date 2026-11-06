@@ -1,0 +1,4 @@
+# Docerion header of iframe-srcdoc-changed-expected-blink.txt.
+type: test
+title: iframe-srcdoc-changed expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the iframe srcdoc change test, showing the updated root web area named done.

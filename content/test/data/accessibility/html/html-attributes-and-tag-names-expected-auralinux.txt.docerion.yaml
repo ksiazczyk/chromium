@@ -1,0 +1,4 @@
+# Docerion header of html-attributes-and-tag-names-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for html-attributes-and-tag-names
+summary: Expected Linux accessibility tree snapshot for the html-attributes-and-tag-names test page.

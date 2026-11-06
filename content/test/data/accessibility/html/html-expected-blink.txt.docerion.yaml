@@ -1,0 +1,4 @@
+# Docerion header of html-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for html test
+summary: Expected Blink accessibility tree snapshot for the html test page covering root web area, body container and button nodes.

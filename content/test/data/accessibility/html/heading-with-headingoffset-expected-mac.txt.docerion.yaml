@@ -1,0 +1,4 @@
+# Docerion header of heading-with-headingoffset-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for heading with headingoffset test
+summary: Expected macOS accessibility tree snapshot for the headingoffset heading test page.

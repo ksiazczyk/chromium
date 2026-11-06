@@ -1,0 +1,4 @@
+# Docerion header of ignored-selection-expected-blink.txt.
+type: test
+title: Ignored selection expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the ignored-selection test, showing selection offsets on text that is not ignored inside ignored containers.

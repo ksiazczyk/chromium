@@ -1,0 +1,4 @@
+# Docerion header of img-link-empty-alt-expected-auralinux.txt.
+type: test
+title: Expected auralinux tree for img-link-empty-alt
+summary: Expected Linux accessibility tree for the img-link-empty-alt test page, showing links named from text and image descriptions.

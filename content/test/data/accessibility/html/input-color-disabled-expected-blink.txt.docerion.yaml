@@ -1,0 +1,4 @@
+# Docerion header of input-color-disabled-expected-blink.txt.
+type: test
+title: input-color-disabled expected Blink accessibility tree
+summary: Expected Blink accessibility tree output for the disabled color input test, showing a colorWell with a disabled restriction.

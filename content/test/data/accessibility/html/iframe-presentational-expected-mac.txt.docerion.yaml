@@ -1,0 +1,4 @@
+# Docerion header of iframe-presentational-expected-mac.txt.
+type: test
+title: iframe-presentational expected macOS tree
+summary: Expected macOS accessibility tree for the iframe-presentational test, consisting of an AXWebArea and nested AXGroup roles.

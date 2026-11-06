@@ -1,0 +1,4 @@
+# Docerion header of html-vs-aria-attributes-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for html-vs-aria-attributes test
+summary: Expected Android external accessibility tree snapshot for the html-vs-aria-attributes test page covering checked, disabled, placeholder, readonly and required states.

@@ -1,0 +1,4 @@
+# Docerion header of iframe-expected-android-external.txt.
+type: test
+title: iframe expected Android external output
+summary: Expected Android external accessibility output for the iframe test page with an empty iframe.

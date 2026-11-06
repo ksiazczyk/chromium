@@ -1,0 +1,4 @@
+# Docerion header of input-checkbox-in-menu-expected-uia-win.txt.
+type: test
+title: Checkbox in menu expected UIA Windows accessibility tree
+summary: Expected UIA Windows accessibility tree for the input-checkbox-in-menu test, showing menu elements with checkbox toggle states.

@@ -1,0 +1,4 @@
+# Docerion header of input-checkbox-in-menu-expected-blink.txt.
+type: test
+title: Checkbox in menu expected Blink accessibility tree
+summary: Expected Blink accessibility tree for the input-checkbox-in-menu test, describing check boxes with false, true, and mixed checked states.

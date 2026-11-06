@@ -1,0 +1,4 @@
+# Docerion header of iframe-coordinates-cross-process-expected-blink.txt.
+type: test
+title: Iframe coordinates cross-process expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the cross-process iframe coordinates test, listing buttons and iframes with locations, sizes and scroll offsets.

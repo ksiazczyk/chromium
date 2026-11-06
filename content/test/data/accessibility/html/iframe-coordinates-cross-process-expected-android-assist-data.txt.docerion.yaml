@@ -1,0 +1,4 @@
+# Docerion header of iframe-coordinates-cross-process-expected-android-assist-data.txt.
+type: test
+title: iframe-coordinates-cross-process expected Android assist data
+summary: Empty expected Android assist data file for the iframe-coordinates-cross-process accessibility test.

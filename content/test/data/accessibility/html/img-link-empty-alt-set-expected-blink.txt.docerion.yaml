@@ -1,0 +1,4 @@
+# Docerion header of img-link-empty-alt-set-expected-blink.txt.
+type: test
+title: Expected Blink tree for img-link-empty-alt-set
+summary: Expected Blink accessibility tree for the img-link-empty-alt-set test page, showing a link containing an image named 'test'.

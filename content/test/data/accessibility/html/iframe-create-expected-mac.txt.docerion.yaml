@@ -1,0 +1,4 @@
+# Docerion header of iframe-create-expected-mac.txt.
+type: test
+title: iframe-create expected macOS accessibility tree
+summary: Expected macOS accessibility tree snapshot for the iframe-create test, showing an AXLink named done inside a nested web area.

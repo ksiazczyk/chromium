@@ -1,0 +1,4 @@
+# Docerion header of iframe-cross-process.html.
+type: test
+title: Cross-process iframe accessibility test page
+summary: HTML test page embedding a cross-site iframe labelled Cross-process iframe between before and after paragraphs, with a WIN-ALLOW directive.

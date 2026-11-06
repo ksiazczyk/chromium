@@ -1,0 +1,4 @@
+# Docerion header of iframe-coordinates-expected-android.txt.
+type: test
+title: Iframe coordinates expected Android accessibility tree
+summary: Expected Android accessibility tree snapshot for the iframe coordinates test, listing buttons in the main page and inside both iframes.

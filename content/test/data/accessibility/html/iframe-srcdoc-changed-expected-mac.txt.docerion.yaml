@@ -1,0 +1,4 @@
+# Docerion header of iframe-srcdoc-changed-expected-mac.txt.
+type: test
+title: iframe-srcdoc-changed expected macOS accessibility tree
+summary: Expected macOS accessibility tree snapshot for the iframe srcdoc change test, showing the updated web area titled done.

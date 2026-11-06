@@ -1,0 +1,4 @@
+# Docerion header of ignored-selection-between-text-expected-android.txt.
+type: test
+title: Expected Android tree for ignored selection between text
+summary: Expected Android accessibility tree snapshot for a selection spanning text nodes around ignored content.

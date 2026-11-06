@@ -1,0 +1,4 @@
+# Docerion header of iframe-focus-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for the iframe-focus page
+summary: Expected external Android accessibility tree snapshot verifying how the iframe-focus page and its buttons are exposed.

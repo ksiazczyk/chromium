@@ -1,0 +1,4 @@
+# Docerion header of hr-expected-android.txt.
+type: test
+title: Expected accessibility tree for hr on Android
+summary: Expected Android accessibility tree for the hr test page with paragraphs and splitter role views representing the hr elements.

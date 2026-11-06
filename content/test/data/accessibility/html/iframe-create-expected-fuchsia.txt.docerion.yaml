@@ -1,0 +1,4 @@
+# Docerion header of iframe-create-expected-fuchsia.txt.
+type: test
+title: iframe-create expected Fuchsia accessibility tree
+summary: Expected Fuchsia accessibility tree snapshot for the iframe-create test, showing a link labeled done inside a dynamically created iframe.

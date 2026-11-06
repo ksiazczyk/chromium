@@ -1,0 +1,4 @@
+# Docerion header of img-mime-type-expected-blink.txt.
+type: test
+title: Expected Blink tree for img-mime-type
+summary: Expected Blink accessibility tree for the img-mime-type test page, showing the document title derived from the image file name.

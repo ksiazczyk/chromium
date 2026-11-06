@@ -1,0 +1,4 @@
+# Docerion header of input-checkbox-in-menu-expected-fuchsia.txt.
+type: test
+title: Checkbox in menu expected Fuchsia accessibility tree
+summary: Expected Fuchsia accessibility tree for the input-checkbox-in-menu test, showing check boxes with unchecked, checked, and mixed states.

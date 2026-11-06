@@ -1,0 +1,4 @@
+# Docerion header of iframe-focus-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for the iframe-focus test page
+summary: Expected Android assist structure snapshot verifying how the iframe-focus page with its focus-handling button is exposed.

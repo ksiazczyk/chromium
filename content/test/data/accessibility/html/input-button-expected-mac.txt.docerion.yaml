@@ -1,0 +1,4 @@
+# Docerion header of input-button-expected-mac.txt.
+type: test
+title: Input button expected macOS accessibility snapshot
+summary: Expected macOS accessibility snapshot for the input button test with AXButton titles and help text.

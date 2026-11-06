@@ -1,0 +1,4 @@
+# Docerion header of i-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for i tag test
+summary: Expected accessibility tree snapshot on Windows for the page testing the italic i tag, listing document, paragraph and static text roles.

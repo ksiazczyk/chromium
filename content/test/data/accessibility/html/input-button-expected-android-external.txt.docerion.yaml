@@ -1,0 +1,4 @@
+# Docerion header of input-button-expected-android-external.txt.
+type: test
+title: Input button expected Android external snapshot
+summary: Expected Android external accessibility snapshot for the input button test, describing buttons with actions and bundle data.

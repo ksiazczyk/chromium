@@ -1,0 +1,4 @@
+# Docerion header of heading-with-tabIndex-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia output for heading-with-tabIndex test
+summary: Expected Fuchsia accessibility tree snapshot for the heading-with-tabIndex test showing focusable heading labels.

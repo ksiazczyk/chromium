@@ -1,0 +1,4 @@
+# Docerion header of i.html.
+type: test
+title: HTML test page for i tag italic property
+summary: Test page that renders a paragraph using the i tag to check the italic property in accessibility trees.

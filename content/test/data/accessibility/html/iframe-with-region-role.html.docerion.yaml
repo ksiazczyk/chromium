@@ -1,0 +1,4 @@
+# Docerion header of iframe-with-region-role.html.
+type: test
+title: Iframe with region role test page
+summary: HTML test page embedding a button frame inside an iframe with role region and the aria-label my iframe.

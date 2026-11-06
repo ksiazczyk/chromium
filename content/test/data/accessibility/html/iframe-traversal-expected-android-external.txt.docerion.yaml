@@ -1,0 +1,4 @@
+# Docerion header of iframe-traversal-expected-android-external.txt.
+type: test
+title: Expected Android external tree for iframe traversal
+summary: Expected Android external accessibility tree snapshot for the iframe traversal test, showing focus order around an iframe that fails to load its resource.

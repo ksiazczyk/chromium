@@ -1,0 +1,4 @@
+# Docerion header of in-page-links-expected-win.txt.
+type: test
+title: In-page links expected Windows snapshot
+summary: Expected Windows MSAA/IA2 accessibility tree for the in-page-links test page with links, static text, and paragraphs.

@@ -1,0 +1,4 @@
+# Docerion header of img-link-empty-alt-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia tree for img-link-empty-alt
+summary: Expected Fuchsia accessibility tree for the img-link-empty-alt test page, listing focusable links with static text labels.
