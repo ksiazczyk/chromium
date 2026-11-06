@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: TargetBlankImpliesNoOpener policy definition
+# summary: Defines a deprecated policy controlling whether links targeting _blank set window.opener, removed in Chrome 102.
+# ---
+
 caption: Do not set <ph name="WINDOW_OPENER_PROPERTY">window.opener</ph> for links
   targeting <ph name="BLANK_PAGE_NAME">_blank</ph>
 default: true

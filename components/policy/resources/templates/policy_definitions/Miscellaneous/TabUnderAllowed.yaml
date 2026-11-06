@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: TabUnderAllowed policy definition
+# summary: Defines a deprecated policy that allowed sites to simultaneously navigate and open pop-ups, replaced by DefaultPopupsSetting in M68.
+# ---
+
 caption: Allow sites to simultaneously navigate and open pop-ups
 deprecated: true
 desc: |-

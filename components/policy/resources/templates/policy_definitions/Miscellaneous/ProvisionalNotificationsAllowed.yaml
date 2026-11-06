@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Allows the app to use provisional notification authorization on iOS
+# summary: Policy definition controlling whether the iOS app may use provisional notification authorization to present notifications in the Notification Center.
+# ---
+
 caption: Allows the app to use provisional notification authorization on iOS
 
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: TaskManagerEndProcessEnabled policy
+# summary: Defines the Chrome enterprise policy that controls whether users can end processes in the Chrome Task Manager, defaulting to allowing it.
+# ---
+
 caption: Enable ending processes in Task Manager
 desc: |-
   Setting the policy to Disabled prevents users from ending processes in the Task Manager.

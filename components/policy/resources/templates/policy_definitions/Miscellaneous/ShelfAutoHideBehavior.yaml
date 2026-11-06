@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ShelfAutoHideBehavior policy definition
+# summary: Defines the ChromeOS ShelfAutoHideBehavior policy that forces the shelf to always or never auto-hide, leaving the choice to users when unset.
+# ---
+
 caption: Control shelf auto-hiding
 desc: |-
   Setting the policy to Always will autohide the <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph> shelf. Setting the policy to Never ensures the shelf never autohides.

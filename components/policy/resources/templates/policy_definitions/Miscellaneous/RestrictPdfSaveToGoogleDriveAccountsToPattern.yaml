@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: RestrictPdfSaveToGoogleDriveAccountsToPattern policy definition
+# summary: Defines a policy using a regular expression to limit which Google accounts may save PDF files to Google Drive from the Chrome PDF Viewer.
+# ---
+
 caption: Restrict eligible Google accounts for saving PDF files to Google Drive from the
    <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> PDF Viewer
 desc: |-

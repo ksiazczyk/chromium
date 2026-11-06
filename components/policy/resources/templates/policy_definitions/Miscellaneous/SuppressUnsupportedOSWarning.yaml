@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SuppressUnsupportedOSWarning policy definition
+# summary: Chrome policy definition that suppresses the warning shown when Chrome runs on an unsupported computer or operating system.
+# ---
+
 caption: Suppress the unsupported OS warning
 desc: |-
   Setting the policy to Enabled suppresses the warning that appears when <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> is running on an unsupported computer or operating system.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ProfileReauthPrompt policy definition
+# summary: Defines the policy that prompts users to re-authenticate to their Chrome profile in a new tab when authentication expires.
+# ---
+
 caption: Prompt users to re-authenticate to the profile
 desc: |-
   When set to DoNotPrompt or left unset, <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> does not automatically prompt the user to re-authenticate to the browser.

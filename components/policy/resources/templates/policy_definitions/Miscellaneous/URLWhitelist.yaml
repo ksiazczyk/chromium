@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: URLWhitelist policy definition
+# summary: Defines the deprecated policy for allowing access to a list of URLs, pointing users to the URLAllowlist policy instead.
+# ---
+
 arc_support: Android apps may voluntarily choose to honor this list. You cannot force
   them to honor it.
 caption: Allow access to a list of URLs

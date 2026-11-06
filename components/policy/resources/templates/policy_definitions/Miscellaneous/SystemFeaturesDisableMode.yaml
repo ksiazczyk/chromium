@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SystemFeaturesDisableMode policy definition
+# summary: Defines a ChromeOS policy that sets whether disabled system features in Managed Guest Sessions are blocked or hidden from users.
+# ---
+
 caption: Set the user experience of disabled features
 default: blocked
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: LacrosSelection policy definition
+# summary: Defines the deprecated LacrosSelection policy that chooses whether the Lacros browser binary is loaded from the rootfs or stateful partition.
+# ---
+
 caption: Select <ph name="LACROS_NAME">Lacros</ph> browser binary
 default: user_choice
 default_for_enterprise_users: rootfs

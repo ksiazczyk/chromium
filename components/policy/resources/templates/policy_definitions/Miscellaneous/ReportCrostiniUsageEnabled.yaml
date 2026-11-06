@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ReportCrostiniUsageEnabled policy definition
+# summary: Chrome OS policy definition for reporting Linux app (Crostini) usage information back to the server.
+# ---
+
 caption: Report information about usage of Linux apps
 desc: |-
   If <ph name="LINUX_OS_NAME">Linux</ph> app support is on, setting the policy to Enabled sends information about <ph name="LINUX_OS_NAME">Linux</ph> apps usage back to the server.

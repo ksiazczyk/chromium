@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: LocalDiscoveryEnabled policy definition
+# summary: Deprecated Chrome policy definition that controls access to local device discovery features, specifying whether discoverable devices near the user may be shown.
+# ---
+
 caption: Enable <ph name="CHROME_DEVICES_LINK">chrome://devices</ph>
 default: true
 deprecated: true

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PolicyTestPageEnabled policy definition
+# summary: Defines the policy that grants access to the policy test page, available only on the Canary channel.
+# ---
+
 owners:
 - jayee@google.com
 - ydago@google.com

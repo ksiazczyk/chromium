@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enable Site Isolation for specified origins on Android (deprecated)
+# summary: Defines the deprecated Android-only policy for isolating specified origins, replaced by the IsolateOrigins and IsolateOriginsShortlist policies.
+# ---
+
 caption: Enable Site Isolation for specified origins on Android devices (deprecated)
 deprecated: true
 desc: |-

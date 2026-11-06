@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SystemShortcutBehavior policy definition
+# summary: Defines a ChromeOS policy controlling whether apps can capture or override default system shortcuts, including VDI and search-key passthrough modes.
+# ---
+
 caption: Allows applications to capture and override default system shortcuts.
 desc: |-
   This policy controls shortcut behavior on <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph>.

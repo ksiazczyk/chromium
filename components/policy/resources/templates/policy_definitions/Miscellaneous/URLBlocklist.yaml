@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: URLBlocklist policy definition
+# summary: Defines the policy that blocks loading of web pages whose URLs match the specified patterns, with notes on limitations and alternatives.
+# ---
+
 arc_support: Android apps may voluntarily choose to honor this list and can't be forced to do this.
 caption: Block access to a list of URLs
 desc: |-

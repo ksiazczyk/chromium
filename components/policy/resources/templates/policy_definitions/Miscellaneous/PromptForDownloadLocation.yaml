@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Ask where to save each file before downloading
+# summary: Policy definition that controls whether Chrome asks users where to save each file before downloading.
+# ---
+
 caption: Ask where to save each file before downloading
 default: null
 desc: |-

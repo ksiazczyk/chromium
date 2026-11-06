@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: TermsOfServiceURL policy
+# summary: Defines the ChromeOS policy that sets a URL from which Terms of Service are downloaded and shown to device-local account users before they can sign in.
+# ---
+
 caption: Set the Terms of Service for a device-local account
 desc: |-
   Setting the policy means <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph> downloads the Terms of Service and presents them to users whenever a device-local account session starts. Users can only sign in to the session after accepting the Terms of Service.

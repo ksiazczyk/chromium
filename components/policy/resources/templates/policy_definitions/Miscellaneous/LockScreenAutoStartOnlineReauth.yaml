@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: LockScreenAutoStartOnlineReauth policy definition
+# summary: Defines the ChromeOS policy that automatically opens the online re-authentication window on the lock screen when re-authentication is required.
+# ---
+
 caption: Automatic start of online re-authentication on the lock screen
 default: false
 desc: |-

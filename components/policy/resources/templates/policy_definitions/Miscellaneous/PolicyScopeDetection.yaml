@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PolicyScopeDetection policy definition
+# summary: Defines the deprecated temporary macOS policy controlling whether the browser detects mandatory policy scope.
+# ---
+
 caption: Allow policy scope detection on <ph name="MAC_OS_NAME">macOS</ph>
 default: true
 deprecated: true

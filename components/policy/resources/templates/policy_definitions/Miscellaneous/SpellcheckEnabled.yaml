@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SpellcheckEnabled policy definition
+# summary: Policy that turns spellcheck on or off for all sources and prevents users from changing it, overriding related spellcheck language policies when disabled.
+# ---
+
 caption: Enable spellcheck
 default: null
 desc: "Setting the policy to Enabled turns spellcheck on, and users can't turn it\

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: UsbDetachableAllowlist policy definition
+# summary: Defines the ChromeOS policy listing USB devices by vendor and product ID that users may detach from kernel drivers for use via the chrome.usb API.
+# ---
+
 caption: Allowlist of USB detachable devices
 desc: |-
   Setting the policy defines the list of USB devices users can detach from their kernel driver to use through the chrome.usb API directly inside a web app. Entries are pairs of USB Vendor Identifier and Product Identifier to identify specific hardware.

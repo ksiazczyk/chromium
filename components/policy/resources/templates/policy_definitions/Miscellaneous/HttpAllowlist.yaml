@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: HttpAllowlist Chrome policy definition
+# summary: Defines the Chrome policy listing hostnames exempt from HTTPS upgrades and HTTPS-First Mode error interstitials.
+# ---
+
 owners:
 - cthomp@chromium.org
 - trusty-transport@chromium.org

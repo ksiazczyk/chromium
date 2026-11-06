@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Show cards on the New Tab Page
+# summary: Chromium policy definition controlling whether cards are shown on the New Tab Page, leaving user control when unset.
+# ---
+
 caption: Show cards on the New Tab Page
 default: null
 desc: "This policy controls the visibility of cards on the New Tab Page. Cards surface\

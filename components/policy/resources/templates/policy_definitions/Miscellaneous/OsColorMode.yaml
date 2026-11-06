@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: OsColorMode policy definition
+# summary: Defines the ChromeOS color mode policy that controls whether the UI theme during OOBE and in session is light, dark, or auto.
+# ---
+
 caption: ChromeOS color mode
 default: light
 default_for_enterprise_users: light

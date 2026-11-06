@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ServiceWorkerAutoPreloadEnabled
+# summary: Chrome policy that lets a navigation request be dispatched while the ServiceWorker starts up, intended as a temporary measure removable in M154.
+# ---
+
 caption: Allow ServiceWorker to dispatch navigation requests without waiting for its startup
 desc: |-
   https://github.com/WICG/service-worker-auto-preload

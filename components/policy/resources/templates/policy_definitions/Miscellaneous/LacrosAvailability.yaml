@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: LacrosAvailability policy definition
+# summary: Defines the deprecated LacrosAvailability policy that sets how the Lacros browser is available on ChromeOS, from user choice to primary browser.
+# ---
+
 caption: Make the <ph name="LACROS_NAME">Lacros</ph> browser available
 default: user_choice
 default_for_enterprise_users: lacros_disallowed

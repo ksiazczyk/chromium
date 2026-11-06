@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Media cache size policy definition (deprecated)
+# summary: Deprecated policy definition suggesting the disk cache size Chrome uses for cached media files, supported only in Chrome 17 through 71.
+# ---
+
 caption: Set media disk cache size in bytes
 deprecated: true
 desc: |-

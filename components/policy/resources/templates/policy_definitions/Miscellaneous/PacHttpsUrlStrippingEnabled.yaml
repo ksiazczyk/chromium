@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PacHttpsUrlStrippingEnabled policy definition
+# summary: Defines a deprecated policy that strips privacy- and security-sensitive parts of https URLs before passing them to PAC scripts during proxy resolution.
+# ---
+
 caption: Enable PAC URL stripping (for https://)
 deprecated: true
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: TouchVirtualKeyboardEnabled policy
+# summary: Defines the ChromeOS policy controlling the touch virtual keyboard as a supplementary policy to VirtualKeyboardEnabled.
+# ---
+
 caption: Enable the touch virtual keyboard
 default: null
 desc: |-

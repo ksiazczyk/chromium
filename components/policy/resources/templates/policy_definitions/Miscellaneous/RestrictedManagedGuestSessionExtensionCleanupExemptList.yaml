@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: RestrictedManagedGuestSessionExtensionCleanupExemptList policy definition
+# summary: Defines a ChromeOS policy listing extension IDs that are exempt from the restricted managed guest session clean-up procedure.
+# ---
+
 caption: Configure the list of extension IDs exempt from the restricted managed guest
   session clean-up procedure
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SigninInterceptionEnabled policy definition
+# summary: Policy definition that controls whether the signin interception dialog triggers when a Google account is added on the web.
+# ---
+
 caption: Enable signin interception
 default: null
 desc: |-

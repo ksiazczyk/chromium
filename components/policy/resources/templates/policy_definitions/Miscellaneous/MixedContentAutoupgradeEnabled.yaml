@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enable mixed content autoupgrading on HTTPS sites
+# summary: Deprecated Chromium policy definition that previously disabled mixed content autoupgrading on HTTPS sites for iOS.
+# ---
+
 caption: Enable mixed content autoupgrading on HTTPS sites
 desc: |-
   Chrome attempts to upgrade some types of mixed content (HTTP on an HTTPS site) subresources on iOS.

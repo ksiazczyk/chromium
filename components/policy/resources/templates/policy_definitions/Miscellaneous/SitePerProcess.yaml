@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SitePerProcess policy definition
+# summary: Policy definition that requires site isolation for every site on desktop platforms and prevents users from opting out.
+# ---
+
 caption: Require Site Isolation for every site
 desc: |-
   Since <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> 67, site isolation has been enabled by default on all Desktop platforms, causing every site to run in its own process. A site is a scheme plus eTLD+1 (e.g., https://example.com). Setting this policy to Enabled does not change that behavior; it only prevents users from opting out (for example, using Disable site isolation in chrome://flags). Since <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> 76, setting the policy to Disabled or leaving it unset doesn't turn off site isolation, but instead allows users to opt out.

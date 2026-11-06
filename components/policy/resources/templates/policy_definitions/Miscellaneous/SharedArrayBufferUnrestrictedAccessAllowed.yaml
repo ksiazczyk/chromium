@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SharedArrayBufferUnrestrictedAccessAllowed
+# summary: Chrome policy that allows sites to use SharedArrayBuffers without cross-origin isolation, defaulting to requiring isolation from Chrome 91 onward.
+# ---
+
 caption: Specifies whether SharedArrayBuffers can be used in a non cross-origin-isolated
   context
 default: false

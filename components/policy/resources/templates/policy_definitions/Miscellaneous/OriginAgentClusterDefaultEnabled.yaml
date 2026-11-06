@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Origin-keyed agent clustering by default policy
+# summary: Defines the Chrome policy controlling whether documents are placed in origin-keyed agent clusters by default, making document.domain unsettable.
+# ---
+
 caption: Allows origin-keyed agent clustering by default.
 default: true
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ChromeOS Help me write feature enablement policy
+# summary: Defines the ChromeOS policy that enables or disables the Help me write feature, enabled by default for consumers and disabled for enterprise users.
+# ---
+
 caption: Control the enablement of ChromeOS "Help me write" feature
 desc: |-
   This policy enables or disables "Help me write" for ChromeOS.

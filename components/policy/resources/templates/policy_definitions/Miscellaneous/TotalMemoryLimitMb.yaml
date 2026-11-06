@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: TotalMemoryLimitMb policy
+# summary: Defines the policy setting a memory limit in megabytes for a single Chrome instance, after which tabs are discarded to save memory.
+# ---
+
 caption: Set limit on megabytes of memory a single Chrome instance can use.
 desc: |-
   Configures the amount of memory that a single <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> instance can use before tabs start being discarded (I.E. the memory used by the tab will be freed and the tab will have to be reloaded when switched to) to save memory.

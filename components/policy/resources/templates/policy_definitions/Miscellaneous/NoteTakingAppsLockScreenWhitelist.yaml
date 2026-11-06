@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Note-taking apps lock screen whitelist policy (deprecated)
+# summary: Defines the deprecated lock screen note-taking apps policy, which is unsupported and replaced by NoteTakingAppsLockScreenAllowlist.
+# ---
+
 caption: Allowlist note-taking apps allowed on the <ph name="PRODUCT_OS_NAME">$2<ex>Google
   ChromeOS</ex></ph> lock screen
 deprecated: true

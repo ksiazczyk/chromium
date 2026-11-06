@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Key Permissions policy definition
+# summary: Defines the policy granting extensions and Android applications access to corporate keys generated through the chrome.enterprise.platformKeys API.
+# ---
+
 arc_support: Corporate keys can be used by Android applications that are installed
   and listed in this policy.
 caption: Key Permissions

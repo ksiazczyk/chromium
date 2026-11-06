@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Configuration policy for the OnPrint Chrome Enterprise Connector
+# summary: Defines the Chrome Enterprise Connector policy that sends printed pages or files for analysis in Chrome, with URL rules, blocking options, justification tags and custom messages.
+# ---
+
 caption: Configuration policy for the OnPrint <ph name="PRODUCT_NAME">$1<ex>Google
   Chrome</ex></ph> Enterprise Connector
 desc: |-

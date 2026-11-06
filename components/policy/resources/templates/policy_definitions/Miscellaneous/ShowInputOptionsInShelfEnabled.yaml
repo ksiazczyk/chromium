@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ShowInputOptionsInShelfEnabled policy definition
+# summary: ChromeOS policy definition that controls whether the input methods selection bubble is displayed on the shelf.
+# ---
+
 caption: Show input options in the shelf
 desc: |-
   Setting the policy to Enabled displays the input methods selection bubble on the shelf.

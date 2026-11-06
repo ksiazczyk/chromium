@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ThirdPartyBlockingEnabled policy (deprecated)
+# summary: Defines the deprecated Chrome policy that controls blocking of third-party software injecting executable code into Chrome's processes.
+# ---
+
 caption: Enable third party software injection blocking
 deprecated: true
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: LensOverlaySettings policy definition
+# summary: Defines the deprecated LensOverlaySettings policy that allows or blocks the Lens Overlay contextual search feature for users.
+# ---
+
 caption: Settings for the Lens Overlay feature
 deprecated: true
 desc: |-

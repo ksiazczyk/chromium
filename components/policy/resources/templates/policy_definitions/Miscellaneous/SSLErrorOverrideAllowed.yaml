@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SSLErrorOverrideAllowed policy definition
+# summary: Defines a policy controlling whether users can click through SSL warning pages shown when navigating to sites with SSL errors.
+# ---
+
 caption: Allow proceeding from the SSL warning page
 desc: |-
   Setting the policy to Enabled or leaving it unset lets users click through warning pages <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> shows when users navigate to sites that have SSL errors.

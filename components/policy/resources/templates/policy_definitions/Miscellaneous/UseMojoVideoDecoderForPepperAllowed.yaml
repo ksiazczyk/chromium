@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: UseMojoVideoDecoderForPepperAllowed policy definition
+# summary: Defines the deprecated Chrome policy letting Pepper plugins use the new hardware-accelerated video decoder instead of the legacy implementation.
+# ---
+
 owners:
 - pmolinalopez@chromium.org
 - andrescj@chromium.org

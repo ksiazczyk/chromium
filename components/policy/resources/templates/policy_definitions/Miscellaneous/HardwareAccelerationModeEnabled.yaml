@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: HardwareAccelerationModeEnabled policy definition
+# summary: Policy definition that turns graphics acceleration on or off when available.
+# ---
+
 caption: Use graphics acceleration when available
 desc: |-
   Setting the policy to Enabled or leaving it unset turns on graphics acceleration, if available.

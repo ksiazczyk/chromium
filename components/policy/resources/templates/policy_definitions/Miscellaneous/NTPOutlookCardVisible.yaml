@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: NTPOutlookCardVisible policy definition
+# summary: Chrome policy definition that controls whether the Outlook Calendar card is shown on the New Tab Page, disabled by default and requiring additional admin configuration.
+# ---
+
 caption: Show Outlook Calendar card on the New Tab Page
 default: false
 desc: |-

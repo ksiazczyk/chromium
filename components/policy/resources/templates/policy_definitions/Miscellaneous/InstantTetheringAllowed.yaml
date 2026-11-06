@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Allow Instant Tethering policy definition
+# summary: Defines the ChromeOS policy that controls whether users may use Instant Tethering to share their Google phone's mobile data with their device.
+# ---
+
 caption: Allow Instant Tethering to be used.
 default_for_enterprise_users: false
 desc: |-

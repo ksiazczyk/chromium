@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Network prediction options policy definition
+# summary: Defines the policy controlling Chrome network prediction, covering DNS prefetching, TCP and SSL preconnection and webpage prerendering.
+# ---
+
 caption: Enable network prediction
 desc: |-
   This policy controls network prediction in <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph>. It controls DNS prefetching, TCP, and SSL preconnection and prerendering of webpages.

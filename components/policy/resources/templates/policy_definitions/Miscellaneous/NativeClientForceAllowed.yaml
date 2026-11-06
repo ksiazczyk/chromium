@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: NativeClientForceAllowed policy definition
+# summary: Deprecated Chrome policy definition that forces Native Client (NaCl) to keep running even when disabled by default, supported only on older Chrome versions.
+# ---
+
 caption: Forces Native Client (NaCl) to be allowed to run.
 default: false
 default_for_enterprise_users: false

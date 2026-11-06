@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SitePerProcessAndroid policy definition
+# summary: Android policy definition that isolates all sites so each runs in its own process, applying only to devices with more than 1 GB of RAM.
+# ---
+
 caption: Enable Site Isolation for every site
 default: null
 desc: |-

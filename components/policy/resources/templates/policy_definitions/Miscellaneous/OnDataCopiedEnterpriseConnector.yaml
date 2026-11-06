@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: OnDataCopied Enterprise Connector policy
+# summary: Defines the Chrome Enterprise Connector settings for scanning data copied to the clipboard, including enable and disable URL patterns and verification keys.
+# ---
+
 caption: Configuration policy for the <ph name="ON_DATA_COPIED_ENTERPRISE_CONNECTOR">OnDataCopied</ph> Chrome Enterprise Connector
 desc: |-
   List of <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> Enterprise Connectors services settings to be applied to the <ph name="ON_DATA_COPIED_ENTERPRISE_CONNECTOR">OnDataCopied</ph> Enterprise Connector, which triggers when data is copied to the clipboard from <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph>.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PdfViewerOutOfProcessIframeEnabled policy definition
+# summary: Defines the deprecated Chrome policy controlling whether the PDF viewer uses the out-of-process iframe architecture instead of GuestView.
+# ---
+
 caption: Use out-of-process iframe PDF Viewer
 default: true
 deprecated: true

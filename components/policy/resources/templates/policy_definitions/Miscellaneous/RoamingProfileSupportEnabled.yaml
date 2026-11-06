@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: RoamingProfileSupportEnabled policy definition
+# summary: Defines a deprecated policy that writes Chrome profile data such as bookmarks and passwords to a roaming location and disables cloud sync.
+# ---
+
 caption: Enable the creation of roaming copies for <ph name="PRODUCT_NAME">$1<ex>Google
   Chrome</ex></ph> profile data
 desc: |-

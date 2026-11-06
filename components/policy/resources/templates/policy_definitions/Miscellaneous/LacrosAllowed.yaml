@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: LacrosAllowed policy definition
+# summary: Defines the deprecated LacrosAllowed policy that controls whether ChromeOS users can use the Lacros browser, superseded by LacrosAvailability.
+# ---
+
 caption: Allow usage of <ph name="LACROS_NAME">Lacros</ph>
 default: false
 default_for_enterprise_users: false

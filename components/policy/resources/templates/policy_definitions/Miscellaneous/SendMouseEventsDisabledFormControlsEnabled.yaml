@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SendMouseEventsDisabledFormControlsEnabled
+# summary: Deprecated Chrome policy that controls whether the new event dispatching behavior for disabled form controls is used, supported on Chrome 109 to 120.
+# ---
+
 caption: Control the new behavior for event dispatching on disabled form controls
 default: null
 deprecated: true

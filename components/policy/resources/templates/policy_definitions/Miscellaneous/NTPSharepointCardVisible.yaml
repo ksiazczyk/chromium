@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: NTPSharepointCardVisible policy definition
+# summary: Chrome policy definition that controls whether the SharePoint and OneDrive File card is shown on the New Tab Page, disabled by default and requiring admin configuration.
+# ---
+
 caption: Show SharePoint and OneDrive File Card on the New Tab Page
 default: false
 desc: |-

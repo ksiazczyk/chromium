@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Managed client certificate for user policy definition
+# summary: Policy definition configuring the managed client certificate for a user profile, including the source of its Subject Common Name.
+# ---
+
 owners:
 - pleblanc@google.com
 - cbe-device-trust-eng@google.com

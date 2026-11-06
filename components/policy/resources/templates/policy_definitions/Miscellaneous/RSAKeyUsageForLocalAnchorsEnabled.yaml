@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: RSAKeyUsageForLocalAnchorsEnabled policy definition
+# summary: Deprecated policy definition controlling RSA key usage checks for server certificates issued by local trust anchors, always enabled from Chrome 124.
+# ---
+
 caption: Check RSA key usage for server certificates issued by local trust anchors
 default: null
 deprecated: true

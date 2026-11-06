@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PromotionsEnabled policy definition
+# summary: Defines the policy controlling whether Chrome shows promotional content, including welcome pages for sign-in and default browser setup.
+# ---
+
 caption: Enable showing promotional content
 default: true
 desc: |-

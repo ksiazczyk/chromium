@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SessionLocales
+# summary: ChromeOS recommended policy that orders and preselects locales and matching keyboard layouts for managed sessions.
+# ---
+
 caption: Set the recommended locales for a managed session
 desc: |-
   Setting the policy (as recommended only) moves recommended locales for a managed session to the top of the list, in the order in which they appear in the policy. The first recommended locale is preselected.

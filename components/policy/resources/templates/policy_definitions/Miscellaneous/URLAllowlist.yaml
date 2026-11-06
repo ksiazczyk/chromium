@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: URLAllowlist policy definition
+# summary: Defines the policy that grants access to listed URLs as exceptions to the URLBlocklist policy, including protocol handler invocation.
+# ---
+
 arc_support: Android apps may voluntarily choose to honor this list. You cannot force
   them to honor it.
 caption: Allow access to a list of URLs

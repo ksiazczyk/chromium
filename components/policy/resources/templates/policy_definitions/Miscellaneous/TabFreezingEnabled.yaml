@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: TabFreezingEnabled policy definition
+# summary: Defines a deprecated policy that controlled whether Chrome may freeze background tabs after five minutes to reduce CPU, battery and memory usage.
+# ---
+
 caption: Allow background tabs freeze
 deprecated: true
 desc: |-

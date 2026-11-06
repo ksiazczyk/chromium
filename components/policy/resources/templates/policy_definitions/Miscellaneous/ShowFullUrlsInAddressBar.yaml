@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ShowFullUrlsInAddressBar policy definition
+# summary: Defines the ShowFullUrlsInAddressBar policy that controls whether full URLs with schemes and subdomains are shown in the address bar.
+# ---
+
 caption: Show Full URLs
 default: null
 default_for_enterprise_users: false

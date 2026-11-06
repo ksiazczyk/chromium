@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PaymentMethodQueryEnabled policy definition
+# summary: Defines a policy controlling whether websites may check if the user has payment methods saved via the PaymentRequest APIs.
+# ---
+
 caption: Allow websites to query for available payment methods.
 desc: |-
   Allows you to set whether websites are allowed to check if the user has payment methods saved.

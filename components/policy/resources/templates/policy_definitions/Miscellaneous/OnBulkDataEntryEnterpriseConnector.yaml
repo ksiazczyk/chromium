@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: OnBulkDataEntry Enterprise Connector policy
+# summary: Defines the Chrome Enterprise Connector settings for scanning data entered in Chrome via clipboard or drag and drop, including URL rules and custom messages.
+# ---
+
 caption: Configuration policy for the OnBulkDataEntry Chrome Enterprise Connector
 desc: |-
   List of Chrome Enterprise Connectors services settings to be applied to the <ph name="ON_BULK_DATA_ENTRY_ENTERPRISE_CONNECTOR">OnBulkDataEntry</ph> Enterprise Connector, which triggers when data is entered in Chrome from the clipboard or by drag and dropping web content.

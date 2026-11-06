@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Change Memory Saver Mode Savings
+# summary: Chromium policy definition that sets the Memory Saver savings level (moderate, balanced, or maximum) when Memory Saver is enabled.
+# ---
+
 caption: Change Memory Saver Mode Savings
 default: null
 desc: |-

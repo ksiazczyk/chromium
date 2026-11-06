@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: StaticStorageQuotaEnabled policy definition
+# summary: Chrome policy definition that controls whether storage quota APIs return static values instead of dynamic values based on available disk space.
+# ---
+
 caption: Control whether storage quota APIs will return static values
 default: null
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Insecure Hashes in TLS Handshakes Enabled policy definition
+# summary: Defines the deprecated Chrome policy that controlled whether insecure hashes were allowed during TLS handshakes, removed in Chrome 124.
+# ---
+
 caption: Insecure Hashes in TLS Handshakes Enabled
 default: null
 deprecated: true

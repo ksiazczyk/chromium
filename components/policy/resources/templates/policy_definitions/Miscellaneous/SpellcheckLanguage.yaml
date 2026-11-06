@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SpellcheckLanguage policy definition
+# summary: Policy that force-enables spellcheck for a list of specified languages, taking priority over the blocklist when a language appears in both.
+# ---
+
 caption: Force enable spellcheck languages
 desc: |-
   Force-enables spellcheck languages. Unrecognized languages in the list will be ignored.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: RequireOnlineRevocationChecksForLocalAnchors policy definition
+# summary: Policy definition requiring online OCSP/CRL revocation checks for server certificates signed by locally installed CA certificates.
+# ---
+
 caption: Require online OCSP/CRL checks for local trust anchors
 default: false
 desc: |-

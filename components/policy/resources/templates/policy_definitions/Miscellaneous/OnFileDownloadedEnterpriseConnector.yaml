@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Configuration policy for the OnFileDownloaded Chrome Enterprise Connector
+# summary: Defines the Chrome Enterprise Connector policy that triggers file analysis when a file is downloaded, covering URL rules, tags, blocking options and custom user messages.
+# ---
+
 caption: Configuration policy for the OnFileDownloaded Chrome Enterprise Connector
 desc: |-
   List of Chrome Enterprise Connectors services settings to be applied to the <ph name="ON_FILE_DOWNLOADED_ENTERPRISE_CONNECTOR">OnFileDownloaded</ph> Enterprise Connector, which triggers when a file is downloaded in Chrome.

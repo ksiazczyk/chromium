@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PhysicalKeyboardAutocorrect policy definition
+# summary: Defines the ChromeOS policy that enables or disables the autocorrect feature on the physical keyboard.
+# ---
+
 caption: Control the autocorrect feature on the physical keyboard
 desc: |-
   Enable or disable the autocorrect feature on the physical keyboard.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: GoogleLocationServicesEnabled policy definition
+# summary: ChromeOS policy definition setting the system geolocation availability level for Google location services, sitting below app and website location permissions.
+# ---
+
 caption: Control <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph> access to Google location services
 desc: |-
   Set <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph> geolocation system availability level.

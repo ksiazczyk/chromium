@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SmartLockSigninAllowed policy definition
+# summary: Deprecated ChromeOS policy that controls whether users may sign in to their account with Smart Lock beyond the usual screen unlock behavior.
+# ---
+
 caption: Allow Smart Lock Signin to be used.
 default_for_enterprise_users: false
 desc: |-

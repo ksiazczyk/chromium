@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SpellcheckLanguageBlacklist policy definition
+# summary: Deprecated policy that force-disables spellcheck for listed languages, superseded by the SpellcheckLanguageBlocklist policy.
+# ---
+
 caption: Force disable spellcheck languages
 deprecated: true
 desc: |-

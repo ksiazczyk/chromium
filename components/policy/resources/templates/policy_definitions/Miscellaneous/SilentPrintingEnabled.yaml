@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SilentPrintingEnabled policy definition
+# summary: Policy definition that enables silent printing, which prints to the default printer and closes the print preview automatically.
+# ---
+
 caption: Enable Silent Printing
 desc: |-
   Setting this policy to true enables silent printing, which immediately closes

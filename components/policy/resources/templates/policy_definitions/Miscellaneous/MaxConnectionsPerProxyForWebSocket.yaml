@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Max connections per proxy for WebSocket policy definition
+# summary: Policy definition limiting concurrent WebSocket connections per proxy server, with a default of 128 and bounds from 6 to 256.
+# ---
+
 caption: Maximal number of concurrent connections per proxy server for WebSocket requests
 default: 128
 desc: |-

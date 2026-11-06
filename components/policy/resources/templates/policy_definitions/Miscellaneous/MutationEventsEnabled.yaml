@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Re-enable deprecated/removed Mutation Events
+# summary: Deprecated Chromium policy definition offering a temporary opt-back-in to removed Mutation Events, no longer working after M137.
+# ---
+
 caption: Re-enable deprecated/removed Mutation Events
 deprecated: true
 default: false

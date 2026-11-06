@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ShelfAlignment policy definition
+# summary: Defines the ChromeOS ShelfAlignment policy that controls whether the shelf is positioned at the bottom, left, or right of the screen.
+# ---
+
 caption: Control the shelf position
 desc: |-
   Control the position of the <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph> shelf.

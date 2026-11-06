@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Incognito mode availability
+# summary: Chrome policy definition that specifies whether Incognito mode is available, disabled, or forced for users.
+# ---
+
 caption: Incognito mode availability
 desc: |-
   Specifies whether the user may open pages in Incognito mode in <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph>.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ServiceWorkerToControlSrcdocIframeEnabled
+# summary: Chrome policy that determines whether srcdoc iframes with allow-same-origin sandbox attributes are controlled by ServiceWorker, planned for removal in 2026.
+# ---
+
 caption: Allow ServiceWorker to control srcdoc iframes
 desc: |-
   https://github.com/w3c/ServiceWorker/issues/765 asks srcdoc iframe with

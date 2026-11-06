@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PersistentQuotaEnabled policy definition
+# summary: Defines the deprecated Chrome policy that temporarily re-enables persistent quota for webkitRequestFileSystem until M107.
+# ---
+
 caption: Force persistent quota to be enabled
 default: false
 deprecated: true

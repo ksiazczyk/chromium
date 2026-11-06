@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: UseLegacyFormControls policy definition
+# summary: Defines the deprecated Chrome policy that restores legacy form control elements instead of the refreshed look introduced in milestone 81.
+# ---
+
 caption: Use Legacy Form Controls until M84.
 deprecated: true
 desc: |2-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enable insights extension for reporting usage metrics policy definition
+# summary: Defines the ChromeOS policy that installs the insights extension to report metrics such as network speed, idle time and application insights.
+# ---
+
 arc_support: This policy has no effect on the reporting done by Android.
 caption: Enable insights extension for reporting usage metrics
 default: false

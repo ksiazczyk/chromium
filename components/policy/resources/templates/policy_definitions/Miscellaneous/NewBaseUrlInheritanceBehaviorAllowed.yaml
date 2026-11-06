@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: NewBaseUrlInheritanceBehavior allowed policy (deprecated)
+# summary: Defines the deprecated policy controlling whether the NewBaseUrlInheritanceBehavior feature for about:blank and about:srcdoc base URL inheritance can be enabled.
+# ---
+
 caption: Allows enabling the feature NewBaseUrlInheritanceBehavior
 deprecated: true
 owners:

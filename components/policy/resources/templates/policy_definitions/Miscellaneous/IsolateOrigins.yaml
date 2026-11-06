@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enable Site Isolation for specified origins policy definition
+# summary: Defines the policy that runs a specified list of origins, including wildcard ranges, in dedicated processes for finer-grained site isolation.
+# ---
+
 caption: Enable Site Isolation for specified origins
 desc: |-
   Specify a list of origins that run in a dedicated process.

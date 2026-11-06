@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PrimaryMouseButtonSwitch policy definition
+# summary: Defines the ChromeOS policy that switches the primary mouse button to the right button and prevents users from overriding it.
+# ---
+
 caption: Switch the primary mouse button to the right button
 default: null
 desc: |-

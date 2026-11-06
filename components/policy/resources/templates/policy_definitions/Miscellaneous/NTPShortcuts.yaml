@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: NTPShortcuts policy definition
+# summary: Chrome policy definition that pre-configures up to ten custom shortcuts on the New Tab Page, with options for whether users may edit or delete them.
+# ---
+
 caption: Setting shortcuts on the New Tab Page
 desc: |-
   Setting the policy pre-configures up to 10 custom shortcuts on the <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> New Tab page.

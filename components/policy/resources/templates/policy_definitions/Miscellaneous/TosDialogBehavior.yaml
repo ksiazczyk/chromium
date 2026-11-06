@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: TosDialogBehavior policy
+# summary: Defines the Android policy that controls whether the Terms of Service dialog appears during first-run of Chrome Custom Tabs on fully managed devices.
+# ---
+
 caption: Configuring the ToS behavior during first-run for CCT
 default: 1
 desc: |-

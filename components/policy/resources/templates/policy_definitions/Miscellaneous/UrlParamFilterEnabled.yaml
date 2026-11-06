@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: UrlParamFilterEnabled policy definition
+# summary: Defines the deprecated temporary Chrome policy controlling removal of URL parameters when opening links in an incognito window.
+# ---
+
 caption: Control the URL parameter filter feature
 default: true
 deprecated: true

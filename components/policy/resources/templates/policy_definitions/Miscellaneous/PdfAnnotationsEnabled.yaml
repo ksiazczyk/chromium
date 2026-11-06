@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PdfAnnotationsEnabled policy definition
+# summary: Defines a policy controlling whether the Chrome PDF viewer can annotate PDFs.
+# ---
+
 caption: Enable PDF Annotations
 default: true
 desc: |-

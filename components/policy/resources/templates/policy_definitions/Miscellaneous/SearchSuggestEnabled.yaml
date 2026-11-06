@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enable search suggestions
+# summary: Policy definition that turns Chrome address bar search suggestions on or off, leaving bookmark and history suggestions unaffected.
+# ---
+
 caption: Enable search suggestions
 desc: |-
   Setting the policy to True turns on search suggestions in <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph>'s address bar. Setting the policy to False turns off these search suggestions.

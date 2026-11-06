@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Force downloading of Office documents instead of opening in Basic Editor
+# summary: Chrome OS policy definition forcing navigations to Office documents to download the file instead of opening it in the Basic Editor.
+# ---
+
 caption: Force downloading of Office documents (e.g. .docx) instead of opening them in the <ph name="BASIC_EDITOR_NAME">Basic Editor</ph>
 default: true
 default_for_enterprise_users: false

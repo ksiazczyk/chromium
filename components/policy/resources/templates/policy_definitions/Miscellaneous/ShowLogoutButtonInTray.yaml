@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ShowLogoutButtonInTray policy definition
+# summary: ChromeOS policy definition that controls whether a sign-out button is shown in the system tray during active sessions.
+# ---
+
 caption: Add a logout button to the system tray
 desc: |-
   Setting the policy to True displays a big, red sign-out button in the system tray during active sessions while the screen isn't locked.

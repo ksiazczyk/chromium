@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SiteSearchSettings policy definition
+# summary: Defines a Chrome policy that configures site search shortcuts, including name, shortcut, URL, featured status and user override behavior, for address bar searches.
+# ---
+
 caption: Site search settings
 desc: |-
   This policy provides a list of sites that users can quickly search using shortcuts in the address bar. Users can initiate a search by typing the shortcut or @shortcut (e.g. @work), followed by Space or Tab, in the address bar.

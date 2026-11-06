@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SSLVersionFallbackMin policy definition
+# summary: Defines a deprecated policy, removed in M53, that set the minimum TLS version used when falling back after a failed TLS handshake.
+# ---
+
 caption: Minimum TLS version to fallback to
 deprecated: true
 desc: |-

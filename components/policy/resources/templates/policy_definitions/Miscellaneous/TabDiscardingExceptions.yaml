@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: TabDiscardingExceptions policy definition
+# summary: Defines a policy listing URL patterns that the browser will never discard during memory pressure or high efficiency mode tab discarding.
+# ---
+
 caption: URL pattern Exceptions to tab discarding
 desc: "This policy makes it so that any URL matching one or more of the patterns it\
   \ specifies (using the <ph name=\"URL_BLOCKLIST_POLICY_NAME\">URLBlocklist</ph>\

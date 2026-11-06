@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: UsbDetectorNotificationEnabled policy definition
+# summary: Defines the ChromeOS policy controlling whether users see a notification when a USB device is plugged in.
+# ---
+
 caption: Show a notification when a USB device is detected
 default: true
 desc: |-

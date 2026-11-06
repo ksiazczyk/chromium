@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: RemoteDebuggingAllowed policy definition
+# summary: Policy definition controlling whether users may use remote debugging via command-line switches or Android USB debugging.
+# ---
+
 caption: Allow remote debugging
 default: true
 desc: |-

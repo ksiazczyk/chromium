@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: StandardizedBrowserZoomEnabled policy definition
+# summary: Temporary policy that enables conformance to the standardized CSS zoom specification, with legacy behavior available until removal in milestone 134.
+# ---
+
 caption: Enable Standardized Browser Zoom Behavior
 owners:
   - szager@chromium.org

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Deprecated JavaScript enable policy definition
+# summary: Defines the deprecated policy for enabling or disabling JavaScript, which is superseded by the DefaultJavaScriptSetting policy.
+# ---
+
 caption: Enable JavaScript
 deprecated: true
 desc: |-

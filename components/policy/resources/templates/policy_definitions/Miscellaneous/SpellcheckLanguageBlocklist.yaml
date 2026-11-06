@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SpellcheckLanguageBlocklist policy definition
+# summary: Policy that force-disables spellcheck for a list of languages, with SpellcheckLanguage taking priority if a language appears in both policies.
+# ---
+
 caption: Force disable spellcheck languages
 desc: |-
   Force-disables spellcheck languages. Unrecognized languages in that list will be ignored.

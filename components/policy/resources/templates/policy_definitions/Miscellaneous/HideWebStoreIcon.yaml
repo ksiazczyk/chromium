@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: HideWebStoreIcon policy definition
+# summary: Policy definition that hides the Chrome Web Store icon and footer link from the New Tab Page and the ChromeOS app launcher.
+# ---
+
 caption: Hide the web store from the New Tab Page and app launcher
 desc: |-
   Hide the Chrome Web Store app and footer link from the New Tab Page and <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph> app launcher.

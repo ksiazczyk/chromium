@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SSLVersionMax policy definition
+# summary: Defines the deprecated Chrome policy that caps the maximum enabled SSL/TLS version to tls1.2 or tls1.3, removed in M75.
+# ---
+
 caption: Maximum SSL version enabled
 deprecated: true
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: RendererCodeIntegrityEnabled policy definition
+# summary: Deprecated policy definition for Renderer Code Integrity on Windows, removed in Chrome 118 and ignored if set.
+# ---
+
 caption: Enable Renderer Code Integrity
 deprecated: true
 desc: |-

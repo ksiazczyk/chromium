@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: GoogleSearchSidePanelEnabled policy definition
+# summary: Policy definition that enables or disables the Google Search Side Panel on all web pages.
+# ---
+
 caption: Enable <ph name="SEARCH_SIDE_PANEL_FEATURE_NAME">Google Search Side Panel</ph>
 
 desc: |-

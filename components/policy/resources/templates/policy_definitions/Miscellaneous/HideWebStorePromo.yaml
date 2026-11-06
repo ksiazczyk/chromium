@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: HideWebStorePromo Chrome policy definition
+# summary: Defines the deprecated Chrome policy that prevents Chrome Web Store app promotions from appearing on the new tab page.
+# ---
+
 caption: Prevent app promotions from appearing on the new tab page
 deprecated: true
 desc: |-

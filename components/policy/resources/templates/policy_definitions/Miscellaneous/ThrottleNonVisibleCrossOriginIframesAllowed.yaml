@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ThrottleNonVisibleCrossOriginIframesAllowed policy (deprecated)
+# summary: Defines the deprecated policy letting administrators control whether users can enable throttling of non-visible, cross-origin iframes.
+# ---
+
 caption: Allows enabling throttling of non-visible, cross-origin iframes
 deprecated: true
 owners:

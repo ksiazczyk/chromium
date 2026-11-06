@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SharedClipboardEnabled
+# summary: Deprecated Chrome policy for the removed Shared Clipboard feature that sent text between desktops and Android devices when Sync was enabled.
+# ---
+
 caption: Enable the Shared Clipboard Feature
 default: null
 deprecated: true

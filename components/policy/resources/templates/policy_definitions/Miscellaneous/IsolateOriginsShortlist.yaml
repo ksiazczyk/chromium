@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enable Site Isolation for specified origins on resource-constrained devices
+# summary: Defines the policy for isolating specified origins on devices with limited memory between 1GB and 3.2GB RAM where full isolation may hurt performance.
+# ---
+
 caption: Enable Site Isolation for specified origins on resource-constrained devices
 desc: |-
   Specify a list of origins that run in a dedicated process on resource-constrained platforms.

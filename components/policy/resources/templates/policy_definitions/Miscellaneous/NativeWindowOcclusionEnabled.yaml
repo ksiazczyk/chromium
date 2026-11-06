@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: NativeWindowOcclusionEnabled policy definition
+# summary: Deprecated Chrome policy definition that enables native window occlusion to reduce CPU and power use, replaced by the WindowOcclusionEnabled policy.
+# ---
+
 caption: Enable Native Window Occlusion
 deprecated: true
 desc: |-

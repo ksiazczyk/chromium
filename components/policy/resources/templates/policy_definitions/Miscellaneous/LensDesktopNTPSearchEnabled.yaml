@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: LensDesktopNTPSearchEnabled policy definition
+# summary: Defines the deprecated LensDesktopNTPSearchEnabled policy controlling the Google Lens button in the New Tab page search box.
+# ---
+
 caption: Allow <ph name="GOOGLE_LENS_PRODUCT_NAME">Google Lens</ph> button to
   be shown in the search box on the New Tab page if supported.
 deprecated: true

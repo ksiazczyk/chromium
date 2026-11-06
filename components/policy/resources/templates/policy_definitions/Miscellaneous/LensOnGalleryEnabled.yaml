@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: LensOnGalleryEnabled policy definition
+# summary: Defines the LensOnGalleryEnabled policy controlling the Google Lens integration in the ChromeOS Gallery App.
+# ---
+
 owners:
 - jopalmer@chromium.org
 - file://ash/webui/media_app_ui/OWNERS

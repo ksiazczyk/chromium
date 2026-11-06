@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: TLS13EarlyDataEnabled policy definition
+# summary: Defines a policy that enables or disables TLS 1.3 Early Data in Chrome as a temporary measure to control the feature's rollout.
+# ---
+
 caption: Enable TLS 1.3 Early Data
 default: true
 desc: |-

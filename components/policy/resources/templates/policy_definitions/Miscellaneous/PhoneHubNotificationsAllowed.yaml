@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PhoneHubNotificationsAllowed policy definition
+# summary: Defines the ChromeOS policy controlling whether opted-in users can send and receive phone notifications via Phone Hub.
+# ---
+
 caption: Allow Phone Hub notifications to be enabled.
 desc: |-
   If this setting is enabled, users who have already opted in to Phone Hub, will be able to send/receive their phone's notifications on ChromeOS.

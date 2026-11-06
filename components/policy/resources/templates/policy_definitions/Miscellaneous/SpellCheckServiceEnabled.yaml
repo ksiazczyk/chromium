@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SpellCheckServiceEnabled policy definition
+# summary: Policy that enables or disables use of the Google web service for resolving spelling errors, while local dictionaries remain controlled by SpellcheckEnabled.
+# ---
+
 caption: Enable or disable spell checking web service
 default: null
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PageUpAndPageDownKeysModifier policy definition
+# summary: Defines a ChromeOS policy controlling which modifier shortcut is used for PageUp/PageDown key remapping in the remap keys subpage.
+# ---
+
 caption: Control the shortcut used to trigger the PageUp/PageDown "six pack" keys
 default: 2
 desc: |-

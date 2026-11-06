@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SmsMessagesAllowed policy definition
+# summary: ChromeOS policy that allows or blocks syncing SMS text messages from a user's phone to their Chromebook after explicit opt-in.
+# ---
+
 caption: Allow SMS Messages to be synced from phone to Chromebook.
 default_for_enterprise_users: false
 desc: |-

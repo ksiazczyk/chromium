@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: TPMFirmwareUpdateSettings policy definition
+# summary: Defines a device-level ChromeOS policy that configures availability and behavior of TPM firmware updates, including user-initiated and automatic modes.
+# ---
+
 caption: Configure <ph name="TPM_FIRMWARE_UPDATE_TPM">TPM</ph> firmware update behavior
 desc: |-
   Setting the policy configures availability and behavior of <ph name="TPM_FIRMWARE_UPDATE_TPM">TPM</ph> firmware updates.

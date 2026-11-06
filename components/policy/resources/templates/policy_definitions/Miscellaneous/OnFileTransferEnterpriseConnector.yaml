@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Configuration policy for the OnFileTransfer Chrome Enterprise Connector
+# summary: Defines the Chrome Enterprise Connector policy that triggers file analysis when files are transferred on ChromeOS, with source/destination rules, tags, blocking options and custom messages.
+# ---
+
 caption: Configuration policy for the OnFileTransfer Chrome Enterprise Connector
 desc: |-
   List of Chrome Enterprise Connectors services settings to be applied to the <ph name="ON_FILE_TRANSFER_ENTERPRISE_CONNECTOR">OnFileTransfer</ph> Enterprise Connector, which triggers when a file is transferred within <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph>.

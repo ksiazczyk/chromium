@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enable Instant policy definition
+# summary: Defines the deprecated Chrome policy that enabled the Instant feature and prevented users from changing it, removed in Chrome 29.
+# ---
+
 caption: Enable Instant
 deprecated: true
 desc: |-
