@@ -1,0 +1,4 @@
+# Docerion header of ui.html.
+type: source
+title: Contrast analysis window markup
+summary: Markup for the analysis window showing hovered, foreground, and background colors, the contrast ratio, and zoom controls.

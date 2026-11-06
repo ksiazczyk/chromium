@@ -1,0 +1,4 @@
+# Docerion header of popup.html.
+type: source
+title: Color enhancer popup page
+summary: HTML markup for the extension popup with enable and adjustment controls plus the CVD setup flow.

@@ -1,0 +1,4 @@
+# Docerion header of ax_relative_bounds.mojom.
+type: reference
+title: AXRelativeBounds Mojom struct definition
+summary: Defines the Mojo AXRelativeBounds struct holding an offset container id, bounds rectangle and transform for accessibility nodes.

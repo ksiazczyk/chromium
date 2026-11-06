@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Animation policy popup script
+// summary: Localizes popup labels and reads or sets the accessibility animation policy via the chrome.accessibilityFeatures API when a radio button changes.
+// ---
+
 function animationPolicyChanged() {
   if (this.checked) {
     const type = this.id;

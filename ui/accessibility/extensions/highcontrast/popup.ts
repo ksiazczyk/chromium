@@ -1,6 +1,12 @@
 // Copyright (c) 2025 The Chromium Authors. All rights reserved.
 // Use of this source code is governed by a BSD-style license.
 
+// ---docerion
+// type: source
+// title: High contrast popup logic
+// summary: Popup script that wires up the toggle, scheme radios, keyboard shortcut labels, and per-site or default scheme selection.
+// ---
+
 import {$, getDefaultScheme, getEnabled, getKeyAction, getSiteScheme, isDisallowedUrl, isMacOS, resetSiteSchemes, setDefaultScheme, setEnabled, setKeyAction, setSiteScheme, siteFromUrl,} from './common.js';
 
 let site: string|null = null;

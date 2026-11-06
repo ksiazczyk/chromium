@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AXRelativeBounds Mojo traits round-trip unit test
+// summary: Unit test that verifies AXRelativeBounds round-trips through Mojo serialization, checking container id, bounds and scale transform values.
+// ---
+
 #include "ui/accessibility/mojom/ax_relative_bounds_mojom_traits.h"
 
 #include "mojo/public/cpp/test_support/test_utils.h"

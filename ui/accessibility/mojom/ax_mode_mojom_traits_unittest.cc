@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AXMode Mojom traits unit and fuzz tests
+// summary: Runs round-trip equality, fuzz and serialization tests ensuring AXMode flags survive Mojo serialization and arbitrary values do not crash deserialization.
+// ---
+
 #include "ui/accessibility/mojom/ax_mode_mojom_traits.h"
 
 #include "mojo/public/cpp/test_support/test_utils.h"

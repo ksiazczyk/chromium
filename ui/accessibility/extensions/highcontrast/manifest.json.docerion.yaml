@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: High contrast extension manifest
+summary: Manifest V3 configuration for the high contrast extension declaring permissions, the service worker, content scripts, popup, and icons.

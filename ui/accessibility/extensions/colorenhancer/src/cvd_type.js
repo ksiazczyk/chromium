@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CVD type and axis enums
+// summary: Defines the color vision deficiency types and the color axis enum used across the extension.
+// ---
+
 /** @enum {string} */
 const CvdType = {
   PROTANOMALY: 'PROTANOMALY',

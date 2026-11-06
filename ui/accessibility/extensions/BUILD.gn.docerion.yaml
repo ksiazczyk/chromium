@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for accessibility extensions
+summary: Defines GN build targets for the accessibility extensions, including locale string resources, copied extension files, and test targets.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AXTreeUpdate Mojo traits unit tests
+// summary: Tests round-trip serialization of ui::AXTreeUpdate including tree data, nodes, and event source fields.
+// ---
+
 #include "ui/accessibility/mojom/ax_tree_update_mojom_traits.h"
 #include "mojo/public/cpp/test_support/test_utils.h"
 #include "testing/gtest/include/gtest/gtest.h"

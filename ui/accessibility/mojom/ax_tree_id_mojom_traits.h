@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXTreeID Mojo traits header
+// summary: Declares UnionTraits that map ui::AXTreeID to and from the AXTreeID Mojom union for Mojo serialization.
+// ---
+
 #ifndef UI_ACCESSIBILITY_MOJOM_AX_TREE_ID_MOJOM_TRAITS_H_
 #define UI_ACCESSIBILITY_MOJOM_AX_TREE_ID_MOJOM_TRAITS_H_
 

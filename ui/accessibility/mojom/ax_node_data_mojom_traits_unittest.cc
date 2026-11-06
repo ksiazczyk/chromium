@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AXNodeData Mojom traits unit tests
+// summary: Tests serialization round-trips of AXNodeData ids, roles, states, actions and attributes, including rejection of out-of-range enum values.
+// ---
+
 #include "ui/accessibility/mojom/ax_node_data_mojom_traits.h"
 #include "mojo/public/cpp/test_support/test_utils.h"
 #include "testing/gtest/include/gtest/gtest.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXRelativeBounds Mojo StructTraits header
+// summary: Declares the Mojo StructTraits mapping between ui::AXRelativeBounds and its Mojom data view for accessibility bounds serialization.
+// ---
+
 #ifndef UI_ACCESSIBILITY_MOJOM_AX_RELATIVE_BOUNDS_MOJOM_TRAITS_H_
 #define UI_ACCESSIBILITY_MOJOM_AX_RELATIVE_BOUNDS_MOJOM_TRAITS_H_
 

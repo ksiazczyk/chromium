@@ -1,0 +1,4 @@
+# Docerion header of accessibility_extensions_strings_cy.xtb.
+type: data
+title: Accessibility extensions strings (Welsh)
+summary: Welsh translation bundle providing localized UI strings for Chrome accessibility extensions such as caret browsing, color adjustment, and image alt text viewer.

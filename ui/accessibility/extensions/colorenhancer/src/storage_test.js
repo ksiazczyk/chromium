@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Storage class unit tests
+// summary: Test fixture verifying default values, setters, site deltas and validation of stored settings.
+// ---
+
 GEN_INCLUDE(['cvd_type.js', 'storage.js']);
 
 GEN_INCLUDE([

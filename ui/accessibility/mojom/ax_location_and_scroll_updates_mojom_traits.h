@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AX location and scroll updates Mojo traits header
+// summary: Declares Mojo StructTraits specializations mapping ui location change, scroll change and combined update structs to their Mojom messages.
+// ---
+
 #ifndef UI_ACCESSIBILITY_MOJOM_AX_LOCATION_AND_SCROLL_UPDATES_MOJOM_TRAITS_H_
 #define UI_ACCESSIBILITY_MOJOM_AX_LOCATION_AND_SCROLL_UPDATES_MOJOM_TRAITS_H_
 

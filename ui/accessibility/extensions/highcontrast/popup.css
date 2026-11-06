@@ -4,6 +4,12 @@
 * found in the LICENSE file.
 */
 
+/*docerion
+type: source
+title: High contrast popup styles
+summary: Stylesheet that lays out the extension popup, including the toggle button, scheme radio buttons, and disabled state styling.
+*/
+
 html {
   border-radius: 6px;
 }

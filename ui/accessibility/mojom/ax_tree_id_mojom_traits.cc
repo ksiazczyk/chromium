@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXTreeID Mojo traits implementation
+// summary: Implements deserialization of the AXTreeID Mojom union into the ui::AXTreeID C++ type.
+// ---
+
 #include "ui/accessibility/mojom/ax_tree_id_mojom_traits.h"
 
 #include "base/notreached.h"

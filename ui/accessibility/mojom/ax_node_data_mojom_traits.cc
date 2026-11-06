@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXNodeData Mojom traits implementation
+// summary: Implements Mojo serialization traits for ui::AXNodeData, including validation of enum-valued integer attributes and highlight markers.
+// ---
+
 #include "ui/accessibility/mojom/ax_node_data_mojom_traits.h"
 
 #include "base/containers/flat_map.h"

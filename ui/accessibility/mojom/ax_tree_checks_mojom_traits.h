@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXTreeChecks Mojo StructTraits header
+// summary: Declares Mojo StructTraits for mapping ui::AXTreeChecks to its Mojom data view, exposing the node count field.
+// ---
+
 #ifndef UI_ACCESSIBILITY_MOJOM_AX_TREE_CHECKS_MOJOM_TRAITS_H_
 #define UI_ACCESSIBILITY_MOJOM_AX_TREE_CHECKS_MOJOM_TRAITS_H_
 

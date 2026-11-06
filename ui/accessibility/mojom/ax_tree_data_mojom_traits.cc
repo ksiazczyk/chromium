@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXTreeData Mojo StructTraits implementation
+// summary: Implements Mojo StructTraits deserialization that copies all AXTreeData fields, including tree ids, document info and selection details, from the Mojom view.
+// ---
+
 #include "ui/accessibility/mojom/ax_tree_data_mojom_traits.h"
 
 namespace mojo {

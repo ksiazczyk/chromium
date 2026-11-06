@@ -1,0 +1,4 @@
+# Docerion header of ax_node_data.mojom.
+type: reference
+title: AXNodeData Mojom struct definition
+summary: Defines the Mojo AXNodeData struct with role, state, actions, attribute maps, child ids and relative bounds, plus a stable AXBitsetData struct.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AX location and scroll updates Mojom traits unit tests
+// summary: Verifies that location and scroll accessibility changes survive Mojo serialization round-trips with correct ids, bounds, transforms and scroll offsets.
+// ---
+
 #include "ui/accessibility/mojom/ax_location_and_scroll_updates_mojom_traits.h"
 
 #include "mojo/public/cpp/test_support/test_utils.h"

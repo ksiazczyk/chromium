@@ -1,0 +1,4 @@
+# Docerion header of accessibility_extensions_strings_tr.xtb.
+type: data
+title: Accessibility extensions strings (Turkish)
+summary: Turkish translation bundle providing localized UI strings for the accessibility extensions, covering image alt text, caret browsing and color scheme settings.

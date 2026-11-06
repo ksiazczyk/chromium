@@ -1,0 +1,4 @@
+# Docerion header of ax_tree_id.mojom.
+type: source
+title: AXTreeID Mojom union definition
+summary: Defines the AXTreeID Mojom union representing either an unknown accessibility tree ID or an unguessable token.

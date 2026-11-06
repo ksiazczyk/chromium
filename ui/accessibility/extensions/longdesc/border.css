@@ -3,6 +3,12 @@
  * found in the LICENSE file.
  */
 
+/*docerion
+type: source
+title: Longdesc image border stylesheet
+summary: CSS rule that draws a groove border around images with a longdesc attribute when the body carries the showlongdescborders attribute.
+*/
+
 body[showlongdescborders] img[longdesc] {
   border: 8px groove #99f;
 }

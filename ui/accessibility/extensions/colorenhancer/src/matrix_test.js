@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Matrix3x3 unit tests
+// summary: Test fixture verifying Matrix3x3 construction, arithmetic operations and SVG string generation.
+// ---
+
 GEN_INCLUDE(['matrix.js']);
 
 GEN_INCLUDE(['../../webstore_extension_test_base.js']);

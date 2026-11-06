@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXEventIntent Mojo traits implementation
+// summary: Implements the Mojo StructTraits Read function that converts serialized EventIntent messages into ui::AXEventIntent objects.
+// ---
+
 #include "ui/accessibility/mojom/ax_event_intent_mojom_traits.h"
 
 namespace mojo {

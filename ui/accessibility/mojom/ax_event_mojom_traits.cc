@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXEvent Mojo traits implementation
+// summary: Implements the Mojo StructTraits Read function that deserializes AXEvent messages into ui::AXEvent objects including their event intents.
+// ---
+
 #include "ui/accessibility/mojom/ax_event_mojom_traits.h"
 
 namespace mojo {

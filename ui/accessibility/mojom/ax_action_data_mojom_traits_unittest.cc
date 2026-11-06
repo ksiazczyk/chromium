@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AXActionData Mojom traits unit tests
+// summary: Tests round-trip serialization of ui::AXActionData through its Mojo definition, including list attributes.
+// ---
+
 #include "ui/accessibility/mojom/ax_action_data_mojom_traits.h"
 
 #include "base/strings/utf_string_conversions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXActionData Mojom traits header
+// summary: Declares StructTraits mapping fields between ui::AXActionData and its Mojo representation.
+// ---
+
 #ifndef UI_ACCESSIBILITY_MOJOM_AX_ACTION_DATA_MOJOM_TRAITS_H_
 #define UI_ACCESSIBILITY_MOJOM_AX_ACTION_DATA_MOJOM_TRAITS_H_
 

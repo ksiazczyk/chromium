@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXActionData Mojom traits implementation
+// summary: Implements the Mojo Read logic that deserializes ax.mojom.AXActionData into ui::AXActionData with validation.
+// ---
+
 #include "ui/accessibility/mojom/ax_action_data_mojom_traits.h"
 
 #include "ui/accessibility/ax_node_id_forward.h"

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Animation accessibility extension manifest
+summary: Chrome extension manifest declaring the animation policy extension's name, version, accessibility feature permissions, icon and popup page.

@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+// ---docerion
+// type: source
+// title: Longdesc options script
+// summary: Saves and restores the border option in chrome.storage and applies localized messages to the options page.
+// ---
+
 // Saves options to chrome.storage
 function save_options() {
   var border = document.getElementById('border').checked;

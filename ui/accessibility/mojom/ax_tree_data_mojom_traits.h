@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXTreeData Mojo StructTraits header
+// summary: Declares Mojo StructTraits accessors for every ui::AXTreeData field to support Mojom serialization of accessibility tree metadata.
+// ---
+
 #ifndef UI_ACCESSIBILITY_MOJOM_AX_TREE_DATA_MOJOM_TRAITS_H_
 #define UI_ACCESSIBILITY_MOJOM_AX_TREE_DATA_MOJOM_TRAITS_H_
 

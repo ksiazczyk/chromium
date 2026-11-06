@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+// ---docerion
+// type: source
+// title: Longdesc content script
+// summary: Content script that detects longdesc and aria-describedat attributes on context menu, hover, and focus events, notifies the background script, and toggles image borders based on stored settings.
+// ---
+
 var borderColor;
 var borderStyle;
 var borderWidth;

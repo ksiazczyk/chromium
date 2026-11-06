@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: High contrast content script with SVG filters and CSS injection
+// summary: Content script that injects SVG filters and CSS to apply high contrast, grayscale, inverted, and yellow-on-black color schemes to web pages.
+// ---
+
 import {$, DEFAULT_SCHEME, getEnabled, getSiteScheme, siteFromUrl,} from './common.js';
 
 let mode: string = '';

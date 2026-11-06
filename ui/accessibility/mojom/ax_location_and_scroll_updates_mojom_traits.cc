@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AX location and scroll updates Mojo traits implementation
+// summary: Implements Mojo StructTraits Read functions that deserialize location change, scroll change and combined update messages into ui types.
+// ---
+
 #include "ui/accessibility/mojom/ax_location_and_scroll_updates_mojom_traits.h"
 
 #include "ui/accessibility/ax_location_and_scroll_updates.h"

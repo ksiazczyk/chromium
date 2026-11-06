@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXMode Mojom traits implementation
+// summary: Implements Mojo deserialization for ui::AXMode, validating that flags and filter flags fall within accepted bit-field bounds.
+// ---
+
 #include "ui/accessibility/mojom/ax_mode_mojom_traits.h"
 
 namespace mojo {

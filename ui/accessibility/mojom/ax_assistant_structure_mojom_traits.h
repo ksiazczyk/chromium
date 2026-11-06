@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Assistant structure Mojom traits header
+// summary: Declares StructTraits mapping ui::AssistantTree and ui::AssistantNode to their Mojo data views.
+// ---
+
 #ifndef UI_ACCESSIBILITY_MOJOM_AX_ASSISTANT_STRUCTURE_MOJOM_TRAITS_H_
 #define UI_ACCESSIBILITY_MOJOM_AX_ASSISTANT_STRUCTURE_MOJOM_TRAITS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of tsconfig.base.json.
+type: config
+title: Base TypeScript configuration for accessibility extensions
+summary: Base TypeScript compiler configuration for the extensions, extending Chromium's shared tsconfig and setting type roots.
