@@ -1,0 +1,4 @@
+# Docerion header of long-text.html.
+type: test
+title: Long text accessibility test page
+summary: HTML test page that writes 250 numbered lines of text into a pre element via script for long text accessibility testing.

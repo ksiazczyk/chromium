@@ -1,0 +1,4 @@
+# Docerion header of input-types-expected-auralinux.txt.
+type: test
+title: Expected accessibility tree for input types on Linux
+summary: Expected accessibility tree snapshot for the input-types HTML test on Linux, listing roles, names and text input types for each labelled input element.

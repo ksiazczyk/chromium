@@ -1,0 +1,4 @@
+# Docerion header of list-with-multi-line-list-item-in-content-editable-expected-blink.txt.
+type: test
+title: Expected Blink tree for multi-line list item in contenteditable
+summary: Expected Blink accessibility tree snapshot for the contenteditable list test with a long multi-line list item.

@@ -1,0 +1,4 @@
+# Docerion header of input-url-expected-mac.txt.
+type: test
+title: Input URL expected Mac
+summary: Expected macOS accessibility tree snapshot for the URL input test, describing an AXTextField with role description url.

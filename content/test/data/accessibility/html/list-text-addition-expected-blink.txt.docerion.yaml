@@ -1,0 +1,4 @@
+# Docerion header of list-text-addition-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for list text addition
+summary: Expected Blink accessibility tree snapshot after whitespace is converted to dollar signs, covering inline and block lists with dollar text nodes.

@@ -1,0 +1,4 @@
+# Docerion header of link-inside-heading-expected-mac.txt.
+type: test
+title: Expected Mac tree for link inside heading test
+summary: Expected macOS accessibility tree for the link-inside-heading HTML test showing an AXHeading containing an AXLink.

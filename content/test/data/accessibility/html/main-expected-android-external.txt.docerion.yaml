@@ -1,0 +1,4 @@
+# Docerion header of main-expected-android-external.txt.
+type: test
+title: Expected Android external output for main element test
+summary: Expected Android external accessibility output for the main element test covering the main tag and ARIA role main.

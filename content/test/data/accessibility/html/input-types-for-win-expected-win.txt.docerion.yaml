@@ -1,0 +1,4 @@
+# Docerion header of input-types-for-win-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for the input types test
+summary: Expected Windows IAccessible2 accessibility tree dump for the input-types test, listing roles, states and text input types for every input element.

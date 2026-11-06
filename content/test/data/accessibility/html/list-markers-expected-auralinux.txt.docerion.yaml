@@ -1,0 +1,4 @@
+# Docerion header of list-markers-expected-auralinux.txt.
+type: test
+title: Aura Linux expected accessibility tree for list markers test
+summary: Expected Aura Linux accessibility tree snapshot for a bulleted list, verifying list marker and static text nodes.

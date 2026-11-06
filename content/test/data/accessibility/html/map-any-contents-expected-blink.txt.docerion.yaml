@@ -1,0 +1,4 @@
+# Docerion header of map-any-contents-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for map-any-contents
+summary: Expected Blink accessibility tree dump for the map-any-contents test page, showing headings, links, paragraphs, marks and buttons inside an image map.

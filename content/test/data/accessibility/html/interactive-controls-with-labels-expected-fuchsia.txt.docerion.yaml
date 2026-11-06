@@ -1,0 +1,4 @@
+# Docerion header of interactive-controls-with-labels-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for interactive controls with labels
+summary: Expected Fuchsia accessibility tree for the interactive controls with labels test page, describing static text, text fields, buttons, combo boxes and time inputs.

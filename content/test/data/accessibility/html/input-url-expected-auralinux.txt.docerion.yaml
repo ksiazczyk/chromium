@@ -1,0 +1,4 @@
+# Docerion header of input-url-expected-auralinux.txt.
+type: test
+title: Input URL expected Aura Linux
+summary: Expected Aura Linux accessibility tree snapshot for the URL input test, showing an editable entry with text-input-type url.

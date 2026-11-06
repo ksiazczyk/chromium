@@ -1,0 +1,4 @@
+# Docerion header of link-inside-heading-expected-uia-win.txt.
+type: test
+title: Expected UIA Win tree for link inside heading test
+summary: Expected UIA Windows accessibility tree for the link-inside-heading HTML test showing a text element containing a hyperlink.

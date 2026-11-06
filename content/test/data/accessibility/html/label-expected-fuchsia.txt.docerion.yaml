@@ -1,0 +1,4 @@
+# Docerion header of label-expected-fuchsia.txt.
+type: test
+title: Fuchsia expected accessibility tree for label test
+summary: Expected Fuchsia accessibility tree snapshot for the label test with static text labelled 'Label'.

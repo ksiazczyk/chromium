@@ -1,0 +1,4 @@
+# Docerion header of li-expected-android-external.txt.
+type: test
+title: Expected external Android accessibility dump for the list item test
+summary: Expected external Android accessibility dump for the list item test page, including collection item info and actions.

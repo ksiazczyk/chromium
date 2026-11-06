@@ -1,0 +1,4 @@
+# Docerion header of list-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for list test
+summary: Expected Blink accessibility tree snapshot for the list test page, capturing list items, list markers and static text for bulleted and plain lists.

@@ -1,0 +1,4 @@
+# Docerion header of input-time-with-popup-open-expected-win.txt.
+type: test
+title: Expected Windows IA2 accessibility tree for input time with popup open
+summary: Expected IA2 accessibility tree dump on Windows for the time input test with the picker popup open, covering spin buttons, the menu button and picker lists.

@@ -1,0 +1,4 @@
+# Docerion header of input-text-with-selection-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for text input with selection
+summary: Expected Windows IA2 accessibility tree for a text input with selection, including caret offsets, selection ranges and text input type details.

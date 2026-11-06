@@ -1,0 +1,4 @@
+# Docerion header of label-expected-win.txt.
+type: test
+title: Windows expected accessibility tree for label test
+summary: Expected Windows accessibility tree snapshot for the label test showing a label role with static text.

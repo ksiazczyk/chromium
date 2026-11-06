@@ -1,0 +1,4 @@
+# Docerion header of input-types-for-win-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for the Windows input types test
+summary: Expected Blink accessibility tree dump for the Windows-focused input-types test, mirroring the standard Blink output for all input element types.

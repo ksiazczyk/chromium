@@ -1,0 +1,4 @@
+# Docerion header of input-types-with-value-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for input types with value
+summary: Expected Blink accessibility tree dump for the input types with value page, including inputs, textareas and contenteditable elements.

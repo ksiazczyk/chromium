@@ -1,0 +1,4 @@
+# Docerion header of label-expected-android-external.txt.
+type: test
+title: Expected Android external output for the label test
+summary: Expected Android external accessibility tree for the label test page, exposing the label element as labelText.

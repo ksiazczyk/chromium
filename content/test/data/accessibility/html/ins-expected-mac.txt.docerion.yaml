@@ -1,0 +1,4 @@
+# Docerion header of ins-expected-mac.txt.
+type: test
+title: Expected Mac accessibility tree for ins test
+summary: Expected macOS accessibility tree for the ins element test with delete and insert style group subroles.

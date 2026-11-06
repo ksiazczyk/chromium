@@ -1,0 +1,4 @@
+# Docerion header of li-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for the list item test
+summary: Expected Android assist data dump for the list item test page, showing a list with three items, markers and a custom name.

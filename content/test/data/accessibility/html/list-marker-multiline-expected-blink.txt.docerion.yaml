@@ -1,0 +1,4 @@
+# Docerion header of list-marker-multiline-expected-blink.txt.
+type: test
+title: Blink expected accessibility tree for multiline list marker test
+summary: Expected Blink accessibility tree snapshot for a list whose long item wraps across lines, verifying multiline list marker behavior.

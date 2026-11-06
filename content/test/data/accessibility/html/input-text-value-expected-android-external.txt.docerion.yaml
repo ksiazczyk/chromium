@@ -1,0 +1,4 @@
+# Docerion header of input-text-value-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility snapshot for input text value
+summary: Expected Android external accessibility tree for the input-text-value page, listing text fields with supplemental descriptions, values and available actions.

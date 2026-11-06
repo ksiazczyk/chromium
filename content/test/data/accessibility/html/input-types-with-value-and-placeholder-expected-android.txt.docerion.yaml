@@ -1,0 +1,4 @@
+# Docerion header of input-types-with-value-and-placeholder-expected-android.txt.
+type: test
+title: Expected Android output for input types with value and placeholder
+summary: Expected Android accessibility tree for the input types with value and placeholder page, describing EditText nodes with hints, input types and values.

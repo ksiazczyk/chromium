@@ -1,0 +1,4 @@
+# Docerion header of interactive-controls-with-labels-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for interactive controls with labels
+summary: Expected Android accessibility tree snapshot for the interactive controls with labels test, covering textboxes, buttons, comboboxes, pickers and lists.

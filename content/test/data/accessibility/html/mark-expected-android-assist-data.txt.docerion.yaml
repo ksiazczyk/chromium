@@ -1,0 +1,4 @@
+# Docerion header of mark-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for the mark tag
+summary: Expected Android accessibility assist data dump for a page using the mark element, including text sizes and background color.

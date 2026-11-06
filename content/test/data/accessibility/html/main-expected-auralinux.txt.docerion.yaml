@@ -1,0 +1,4 @@
+# Docerion header of main-expected-auralinux.txt.
+type: test
+title: Expected Aura Linux output for main element test
+summary: Expected Aura Linux accessibility output for the main element test showing main landmarks and their static text.

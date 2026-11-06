@@ -1,0 +1,4 @@
+# Docerion header of input-text-with-selection-expected-auralinux.txt.
+type: test
+title: Expected Aura Linux accessibility tree for text input with selection
+summary: Expected Aura Linux accessibility tree for a text input with selection, showing document, section and entry nodes with caret and selection offsets.

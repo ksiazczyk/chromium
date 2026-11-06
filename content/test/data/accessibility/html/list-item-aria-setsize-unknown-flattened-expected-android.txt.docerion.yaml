@@ -1,0 +1,4 @@
+# Docerion header of list-item-aria-setsize-unknown-flattened-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for list item aria-setsize unknown test
+summary: Expected Android accessibility tree for a test page where list items have unknown aria-setsize, listing collection items with positions and set sizes.

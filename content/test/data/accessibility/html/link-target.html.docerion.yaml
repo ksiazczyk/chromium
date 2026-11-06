@@ -1,0 +1,4 @@
+# Docerion header of link-target.html.
+type: test
+title: Link target accessibility test page
+summary: HTML test page with links using _self, _parent, _top and named iframe targets to test how link targets appear in accessibility trees.

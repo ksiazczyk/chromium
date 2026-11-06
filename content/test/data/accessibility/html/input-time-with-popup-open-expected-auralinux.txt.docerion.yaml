@@ -1,0 +1,4 @@
+# Docerion header of input-time-with-popup-open-expected-auralinux.txt.
+type: test
+title: Expected AuraLinux accessibility tree for input time with popup open
+summary: Expected accessibility tree snapshot on AuraLinux for the time input test with the picker popup open, covering spin buttons and the hours, minutes, seconds and AM/PM list boxes.

@@ -1,0 +1,4 @@
+# Docerion header of map-with-aria-owns-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for map-with-aria-owns
+summary: Expected Blink accessibility tree dump for the map-with-aria-owns test, showing the image and paragraph after aria-owns is applied to a map.

@@ -1,0 +1,4 @@
+# Docerion header of label-for-hidden-input-expected-auralinux.txt.
+type: test
+title: Auralinux expected tree for label-for-hidden-input test
+summary: Expected Linux accessibility tree snapshot for the label-for-hidden-input test with the visible label text.

@@ -1,0 +1,4 @@
+# Docerion header of li-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for the li test
+summary: Expected accessibility tree snapshot for the li HTML test on Fuchsia, describing a list of three elements with markers and labels.

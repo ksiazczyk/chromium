@@ -1,0 +1,4 @@
+# Docerion header of interest-for-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for interest-for test
+summary: Expected Blink accessibility tree for the interest-for test page, showing tooltips, buttons and groups with interest-for details relationships.

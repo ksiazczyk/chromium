@@ -1,0 +1,4 @@
+# Docerion header of label-with-selected-option-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for label with selected option
+summary: Expected Fuchsia accessibility tree snapshot for the label-with-selected-option test with selected options in combo and list boxes.

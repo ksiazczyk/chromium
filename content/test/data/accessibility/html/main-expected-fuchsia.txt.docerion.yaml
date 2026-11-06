@@ -1,0 +1,4 @@
+# Docerion header of main-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for main element test
+summary: Expected Fuchsia accessibility tree snapshot for the main element and ARIA role main test page.

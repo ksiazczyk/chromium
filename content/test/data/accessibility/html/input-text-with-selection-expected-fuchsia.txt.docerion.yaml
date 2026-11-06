@@ -1,0 +1,4 @@
+# Docerion header of input-text-with-selection-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for text input with selection
+summary: Expected Fuchsia accessibility tree for a text input with selection, describing the text field with input focus and its static text label.

@@ -1,0 +1,4 @@
+# Docerion header of label-with-selected-option-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for label with selected option
+summary: Expected Android accessibility tree snapshot for the label-with-selected-option test with selected combo box and list box options.

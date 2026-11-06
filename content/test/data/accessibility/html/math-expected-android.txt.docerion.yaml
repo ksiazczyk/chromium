@@ -1,0 +1,4 @@
+# Docerion header of math-expected-android.txt.
+type: test
+title: Math expected accessibility tree for Android
+summary: Expected Android accessibility tree dump for the MathML math test page, describing the rendered view hierarchy of the equation.

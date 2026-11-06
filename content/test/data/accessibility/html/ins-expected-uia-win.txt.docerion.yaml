@@ -1,0 +1,4 @@
+# Docerion header of ins-expected-uia-win.txt.
+type: test
+title: Expected Windows UIA accessibility tree for ins test
+summary: Expected Windows UIA accessibility tree for the ins element test with grouped text elements for deletion and insertion.

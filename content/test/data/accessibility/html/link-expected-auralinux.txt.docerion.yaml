@@ -1,0 +1,4 @@
+# Docerion header of link-expected-auralinux.txt.
+type: test
+title: Expected Linux aural accessibility output for the link test
+summary: Expected accessibility tree output for the link HTML test on Linux, containing only the document web root node.

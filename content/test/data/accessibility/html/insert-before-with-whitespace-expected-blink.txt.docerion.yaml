@@ -1,0 +1,4 @@
+# Docerion header of insert-before-with-whitespace-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for insert-before-with-whitespace test
+summary: Expected Blink accessibility tree snapshot for the insert-before-with-whitespace test, covering ordered list items before and after reordering.

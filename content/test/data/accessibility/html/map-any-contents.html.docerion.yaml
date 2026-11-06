@@ -1,0 +1,4 @@
+# Docerion header of map-any-contents.html.
+type: test
+title: HTML test page for elements inside an image map
+summary: HTML test page verifying that an image map can contain headings, links, paragraphs, mark elements and buttons in the accessibility tree.

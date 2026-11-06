@@ -1,0 +1,4 @@
+# Docerion header of input-types-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for input types
+summary: Expected Android external accessibility tree dump for the input types test, mapping HTML input elements such as text, checkbox, color and date to Android views.

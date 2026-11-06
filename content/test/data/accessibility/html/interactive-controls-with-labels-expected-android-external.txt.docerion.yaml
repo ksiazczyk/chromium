@@ -1,0 +1,4 @@
+# Docerion header of interactive-controls-with-labels-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility output for labeled controls
+summary: Expected Android external accessibility output for the interactive controls with labels test, listing views, actions and collection info.

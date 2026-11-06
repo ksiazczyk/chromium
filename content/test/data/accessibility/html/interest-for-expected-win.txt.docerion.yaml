@@ -1,0 +1,4 @@
+# Docerion header of interest-for-expected-win.txt.
+type: test
+title: Expected Win accessibility tree for interest-for test
+summary: Expected Windows accessibility tree for the interest-for test page, showing tooltips, push buttons and groupings with interest-for relationships.

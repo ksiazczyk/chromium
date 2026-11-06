@@ -1,0 +1,4 @@
+# Docerion header of mark-expected-uia-win.txt.
+type: test
+title: mark expected UIA Windows accessibility tree
+summary: Expected Windows UIA accessibility tree snapshot for the mark element test page, including a highlight localized control type.

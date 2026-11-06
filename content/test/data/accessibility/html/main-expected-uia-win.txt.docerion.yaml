@@ -1,0 +1,4 @@
+# Docerion header of main-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows accessibility tree for main element test
+summary: Expected UIA accessibility tree on Windows for the main element and ARIA role main test page.

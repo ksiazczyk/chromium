@@ -1,0 +1,4 @@
+# Docerion header of math-expected-win.txt.
+type: test
+title: Math expected accessibility tree for Windows
+summary: Expected Windows MSAA/IA2 accessibility tree for the MathML math test page, with the equation role and its inner HTML.

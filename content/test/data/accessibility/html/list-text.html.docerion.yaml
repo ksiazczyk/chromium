@@ -1,0 +1,4 @@
+# Docerion header of list-text.html.
+type: test
+title: HTML test page for ordered and inline list text
+summary: HTML test page with an ordered list and an inline list separated by caret and pipe text nodes, used to check list text in the accessibility tree.

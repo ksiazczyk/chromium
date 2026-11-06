@@ -1,0 +1,4 @@
+# Docerion header of list-item-aria-setsize-unknown-expected-android-external.txt.
+type: test
+title: Expected Android external tree for list item aria-setsize test
+summary: Expected Android external accessibility snapshot for the list-item-aria-setsize-unknown test page, capturing collection info for nested lists with unknown set sizes.

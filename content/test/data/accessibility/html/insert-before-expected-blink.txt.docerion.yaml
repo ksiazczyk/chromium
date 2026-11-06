@@ -1,0 +1,4 @@
+# Docerion header of insert-before-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for insert-before test
+summary: Expected Blink accessibility tree snapshot for the insert-before test, showing the tree before and after a node is moved.

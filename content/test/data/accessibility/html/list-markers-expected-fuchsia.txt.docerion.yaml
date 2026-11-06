@@ -1,0 +1,4 @@
+# Docerion header of list-markers-expected-fuchsia.txt.
+type: test
+title: Fuchsia expected accessibility tree for list markers test
+summary: Expected Fuchsia accessibility tree snapshot for a bulleted list, verifying list element markers and static text labels.

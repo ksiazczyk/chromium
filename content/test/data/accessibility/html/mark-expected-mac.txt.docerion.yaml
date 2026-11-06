@@ -1,0 +1,4 @@
+# Docerion header of mark-expected-mac.txt.
+type: test
+title: mark expected macOS accessibility tree
+summary: Expected macOS accessibility tree snapshot for the mark element test page, showing a highlight role group for the mark element.

@@ -1,0 +1,4 @@
+# Docerion header of interactive-controls-with-labels-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for interactive controls with labels
+summary: Expected Blink internal accessibility tree for the interactive controls with labels test page, listing text fields, buttons, combo boxes, lists and time inputs with their labels.

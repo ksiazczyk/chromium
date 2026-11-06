@@ -1,0 +1,4 @@
+# Docerion header of input-text-value-changed-expected-blink.txt.
+type: test
+title: Text input value changed expected accessibility tree for Blink
+summary: Expected Blink accessibility tree snapshot for the text input value changed test page.

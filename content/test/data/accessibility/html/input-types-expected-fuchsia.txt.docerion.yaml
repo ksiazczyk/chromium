@@ -1,0 +1,4 @@
+# Docerion header of input-types-expected-fuchsia.txt.
+type: test
+title: Expected accessibility tree for input types on Fuchsia
+summary: Expected Fuchsia accessibility tree dump for the input-types test, recording focusable elements, labels, actions and checked states.

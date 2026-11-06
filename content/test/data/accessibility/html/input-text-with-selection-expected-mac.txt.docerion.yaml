@@ -1,0 +1,4 @@
+# Docerion header of input-text-with-selection-expected-mac.txt.
+type: test
+title: Expected Mac accessibility tree for text input with selection
+summary: Expected macOS accessibility tree for a text input with selection, containing the web area, group and text field roles with the field value.

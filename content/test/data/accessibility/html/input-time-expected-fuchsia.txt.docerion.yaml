@@ -1,0 +1,4 @@
+# Docerion header of input-time-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for input time
+summary: Expected Fuchsia accessibility tree snapshot for the HTML time input test page, with time fields, static text and pop-up buttons.

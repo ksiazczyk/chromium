@@ -1,0 +1,4 @@
+# Docerion header of list-item-level-expected-blink.txt.
+type: test
+title: Expected Blink tree for list item level test
+summary: Expected Blink accessibility tree snapshot for the list item level test, showing hierarchicalLevel values for nested list items.

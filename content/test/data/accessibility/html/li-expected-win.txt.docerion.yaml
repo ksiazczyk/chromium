@@ -1,0 +1,4 @@
+# Docerion header of li-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for the li test
+summary: Expected MSAA-style accessibility tree snapshot for the li HTML test on Windows, describing a document containing a list of three items.

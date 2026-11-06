@@ -1,0 +1,4 @@
+# Docerion header of input-time-with-popup-open-expected-android.txt.
+type: test
+title: Expected Android tree with time picker popup open
+summary: Empty expected-output file for the Android accessibility tree of the time input page with its picker popup open, likely a placeholder.

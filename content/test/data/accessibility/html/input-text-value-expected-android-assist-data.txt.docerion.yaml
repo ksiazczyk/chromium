@@ -1,0 +1,4 @@
+# Docerion header of input-text-value-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for input text value test
+summary: Expected Android assist data snapshot for the input-text-value page, describing labels, values, text sizes and HTML info of its form controls.

@@ -1,0 +1,4 @@
+# Docerion header of input-types-with-placeholder-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for input types with placeholder
+summary: Expected Blink accessibility tree dump for the input-types-with-placeholder test page, covering email, number, password, search, tel, text and url fields.

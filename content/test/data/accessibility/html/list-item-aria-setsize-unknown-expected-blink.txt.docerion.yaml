@@ -1,0 +1,4 @@
+# Docerion header of list-item-aria-setsize-unknown-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for list item aria-setsize test
+summary: Expected Blink accessibility tree snapshot for the list-item-aria-setsize-unknown test page, capturing setSize and posInSet values on nested list items.

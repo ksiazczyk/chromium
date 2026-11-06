@@ -1,0 +1,4 @@
+# Docerion header of label-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for the label test
+summary: Expected Android assist data accessibility tree for the label test page, showing the label element and its text.

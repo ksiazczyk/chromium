@@ -1,0 +1,4 @@
+# Docerion header of input-time-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for input time
+summary: Expected Linux (AT-SPI) accessibility tree snapshot for the HTML time input test page, with date editors, spin buttons and a combo box.

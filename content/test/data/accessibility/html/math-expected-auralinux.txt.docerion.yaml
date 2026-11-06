@@ -1,0 +1,4 @@
+# Docerion header of math-expected-auralinux.txt.
+type: test
+title: Math expected accessibility tree for AuraLinux
+summary: Expected AuraLinux accessibility tree for the MathML math test page, listing document, math, section and static text nodes.

@@ -1,0 +1,4 @@
+# Docerion header of li-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for the li test
+summary: Expected accessibility tree snapshot for the li HTML test on macOS, describing an AXList with a custom-named group and three items.

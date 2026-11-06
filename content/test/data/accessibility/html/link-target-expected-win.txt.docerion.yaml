@@ -1,0 +1,4 @@
+# Docerion header of link-target-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for link target
+summary: Expected Windows accessibility tree snapshot for the link-target test page, listing link roles and link-target values.

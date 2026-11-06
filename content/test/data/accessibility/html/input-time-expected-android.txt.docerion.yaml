@@ -1,0 +1,4 @@
+# Docerion header of input-time-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for input time
+summary: Expected Android accessibility tree snapshot for the HTML time input test page, listing WebView, TimePicker and EditText nodes.

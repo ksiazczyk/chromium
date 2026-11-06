@@ -1,0 +1,4 @@
+# Docerion header of main-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for main element test
+summary: Expected Android assist data output for the main element accessibility test covering both the main tag and ARIA role main.

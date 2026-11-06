@@ -1,0 +1,4 @@
+# Docerion header of long-text-expected-blink.txt.
+type: test
+title: Expected Blink tree for long text
+summary: Expected Blink accessibility tree snapshot for the long text test with 250 numbered lines of repeated text.

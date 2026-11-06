@@ -1,0 +1,4 @@
+# Docerion header of label-with-presentational-child-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for label with presentational child
+summary: Expected Blink accessibility tree snapshot for the label-with-presentational-child HTML accessibility test.

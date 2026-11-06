@@ -1,0 +1,4 @@
+# Docerion header of mark-expected-fuchsia.txt.
+type: test
+title: mark expected Fuchsia accessibility tree
+summary: Expected Fuchsia accessibility tree snapshot for the mark element test page with paragraph and static text nodes.

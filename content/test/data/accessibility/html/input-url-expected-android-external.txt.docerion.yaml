@@ -1,0 +1,4 @@
+# Docerion header of input-url-expected-android-external.txt.
+type: test
+title: Input URL expected Android external
+summary: Expected external Android accessibility tree snapshot for the URL input test, including the invalid-entry error state and available actions.

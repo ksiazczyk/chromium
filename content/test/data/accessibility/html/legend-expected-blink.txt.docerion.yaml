@@ -1,0 +1,4 @@
+# Docerion header of legend-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for the legend test
+summary: Expected accessibility tree dump of the legend test page as produced by the Blink accessibility implementation.

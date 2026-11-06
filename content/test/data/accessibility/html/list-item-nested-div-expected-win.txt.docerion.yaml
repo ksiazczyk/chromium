@@ -1,0 +1,4 @@
+# Docerion header of list-item-nested-div-expected-win.txt.
+type: test
+title: Expected Windows tree for nested div list item test
+summary: Expected Windows MSAA/IA2 accessibility tree snapshot for the nested div list item test with roles for list items, buttons and links.

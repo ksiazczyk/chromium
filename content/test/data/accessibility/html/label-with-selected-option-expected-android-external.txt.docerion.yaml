@@ -1,0 +1,4 @@
+# Docerion header of label-with-selected-option-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility output for label with selected option
+summary: Expected Android external accessibility tree dump for the label-with-selected-option test, covering checkboxes, combo boxes and list boxes with selected options.

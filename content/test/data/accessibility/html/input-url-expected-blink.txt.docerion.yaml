@@ -1,0 +1,4 @@
+# Docerion header of input-url-expected-blink.txt.
+type: test
+title: Input URL expected Blink
+summary: Expected Blink accessibility tree snapshot for the URL input test, including the invalid state and static text for example.com.

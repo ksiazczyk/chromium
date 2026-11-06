@@ -1,0 +1,4 @@
+# Docerion header of list-markers-expected-mac.txt.
+type: test
+title: Expected Mac accessibility tree for list markers test
+summary: Expected macOS accessibility tree snapshot for the list-markers test, showing list markers and grouped static text for bulleted list items.

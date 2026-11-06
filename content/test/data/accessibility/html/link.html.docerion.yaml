@@ -1,0 +1,4 @@
+# Docerion header of link.html.
+type: test
+title: Link element accessibility test page
+summary: HTML test page with a stylesheet link element in the head and an empty body, used for accessibility testing of the link element.

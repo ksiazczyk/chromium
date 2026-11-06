@@ -1,0 +1,4 @@
+# Docerion header of label-with-selected-option-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for label-with-selected-option
+summary: Expected Windows accessibility tree snapshot for the label-with-selected-option HTML test page, listing roles, names and states of checkboxes, labels and selects.

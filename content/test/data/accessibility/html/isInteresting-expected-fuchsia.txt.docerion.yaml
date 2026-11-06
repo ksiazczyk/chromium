@@ -1,0 +1,4 @@
+# Docerion header of isInteresting-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia output for the isInteresting test
+summary: Expected Fuchsia accessibility tree for the isInteresting test page, showing labels and roles of interesting nodes.

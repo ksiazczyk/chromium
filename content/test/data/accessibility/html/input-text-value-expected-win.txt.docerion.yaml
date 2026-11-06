@@ -1,0 +1,4 @@
+# Docerion header of input-text-value-expected-win.txt.
+type: test
+title: Expected Windows IA2 accessibility tree for input text value
+summary: Expected Windows MSAA/IA2 accessibility output for the input-text-value page, including multiline states and tooltip-derived descriptions.

@@ -1,0 +1,4 @@
+# Docerion header of label-for-hidden-input-expected-blink.txt.
+type: test
+title: Blink expected tree for label-for-hidden-input test
+summary: Expected Blink accessibility tree snapshot for the label-for-hidden-input test showing the label text.

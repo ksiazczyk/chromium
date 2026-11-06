@@ -1,0 +1,4 @@
+# Docerion header of main-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for main element test
+summary: Expected macOS accessibility tree for the main element and ARIA role main test page.

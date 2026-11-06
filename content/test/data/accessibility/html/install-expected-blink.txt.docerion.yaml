@@ -1,0 +1,4 @@
+# Docerion header of install-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for install element test
+summary: Expected Blink accessibility tree snapshot for the install element test, showing a focusable button named Install.

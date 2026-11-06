@@ -1,0 +1,4 @@
+# Docerion header of list-markers-expected-android-external.txt.
+type: test
+title: Android external expectation for list markers test
+summary: Expected Android external accessibility snapshot describing list, list item and list marker roles for the list markers test.

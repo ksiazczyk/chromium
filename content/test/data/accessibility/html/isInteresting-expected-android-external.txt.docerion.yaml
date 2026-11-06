@@ -1,0 +1,4 @@
+# Docerion header of isInteresting-expected-android-external.txt.
+type: test
+title: Expected Android external output for the isInteresting test
+summary: Expected Android external accessibility tree snapshot for the isInteresting test page, showing focusable, clickable and interesting nodes.

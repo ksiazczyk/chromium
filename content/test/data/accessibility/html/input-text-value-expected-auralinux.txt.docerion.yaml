@@ -1,0 +1,4 @@
+# Docerion header of input-text-value-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for input text value
+summary: Expected auralinux accessibility output for the input-text-value page, showing entries, labels, labelled-by relations and tooltip descriptions.

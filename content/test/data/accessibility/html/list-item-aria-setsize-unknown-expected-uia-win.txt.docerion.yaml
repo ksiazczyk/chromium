@@ -1,0 +1,4 @@
+# Docerion header of list-item-aria-setsize-unknown-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows accessibility tree for list item aria-setsize unknown test
+summary: Expected UIA on Windows accessibility tree output for the list item aria-setsize unknown test, showing list items with PositionInSet and SizeOfSet values.

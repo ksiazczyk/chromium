@@ -1,0 +1,4 @@
+# Docerion header of input-text.html.
+type: test
+title: HTML test page for text input accessibility
+summary: HTML test page with a text input using placeholder and maxlength, annotated with platform allow-list comments for accessibility tree checks.

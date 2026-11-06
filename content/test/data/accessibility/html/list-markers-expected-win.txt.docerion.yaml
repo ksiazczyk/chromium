@@ -1,0 +1,4 @@
+# Docerion header of list-markers-expected-win.txt.
+type: test
+title: Expected Windows MSAA accessibility tree for list markers test
+summary: Expected Windows MSAA/IA2 accessibility tree snapshot for the list-markers test, listing document, list, list item and static text roles.

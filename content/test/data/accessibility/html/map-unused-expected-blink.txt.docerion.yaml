@@ -1,0 +1,4 @@
+# Docerion header of map-unused-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for map-unused
+summary: Expected Blink accessibility tree dump for the map-unused test, showing that an unused map produces no accessible content.

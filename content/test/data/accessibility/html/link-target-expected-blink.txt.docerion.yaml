@@ -1,0 +1,4 @@
+# Docerion header of link-target-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for link target
+summary: Expected Blink accessibility tree snapshot for the link-target test page, including an iframe and linkTarget attributes on links.

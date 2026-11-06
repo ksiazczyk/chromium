@@ -1,0 +1,4 @@
+# Docerion header of input-text-value-expected-uia-win.txt.
+type: test
+title: Expected Windows UIA accessibility tree for input text value
+summary: Expected Windows UI Automation output for the input-text-value page, listing edit controls with names and values.
