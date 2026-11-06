@@ -1,0 +1,4 @@
+# Docerion header of LAYOUT_OWNERS.
+type: config
+title: LAYOUT_OWNERS list for Android UI resources
+summary: Lists the reviewers responsible for changes to Android UI resource layout files.

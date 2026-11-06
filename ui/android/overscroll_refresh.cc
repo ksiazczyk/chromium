@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverscrollRefresh implementation
+// summary: Implements OverscrollRefresh, which detects pull-to-refresh and history navigation gestures from overscroll events and signals a handler.
+// ---
+
 #include "ui/android/overscroll_refresh.h"
 
 #include <ostream>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverscrollGlow header
+// summary: Declares OverscrollGlow and its client interface for lazily creating EdgeEffect animations that respond to overscroll events.
+// ---
+
 #ifndef UI_ANDROID_OVERSCROLL_GLOW_H_
 #define UI_ANDROID_OVERSCROLL_GLOW_H_
 

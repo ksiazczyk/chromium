@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for ui/android
+summary: Defines which directories and headers code in ui/android may include, with special rules for tests and specific source files.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for Android UI resources
+summary: Sets noparent and delegates ownership to LAYOUT_OWNERS to avoid accidental additions to top-level layout files.

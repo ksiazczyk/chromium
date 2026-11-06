@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UI Android unit test suite entry point
+// summary: Main entry point that initializes the UI Android test suite with path providers and resource bundles, then launches all unit tests.
+// ---
+
 #include "base/android/jni_android.h"
 #include "base/compiler_specific.h"
 #include "base/files/file_path.h"

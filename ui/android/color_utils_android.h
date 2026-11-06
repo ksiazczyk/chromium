@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android color conversion utilities header
+// summary: Declares helpers for converting between optional SkColor and Java color values, defining kInvalidJavaColor for null or unset colors.
+// ---
+
 #ifndef UI_ANDROID_COLOR_UTILS_ANDROID_H_
 #define UI_ANDROID_COLOR_UTILS_ANDROID_H_
 

@@ -4,6 +4,13 @@ Copyright 2013 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Common UI dimensions
+summary: Defines shared dimensions such as text sizes, touch target sizes, button measures and default alpha values.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Common text sizes -->
     <dimen name="headline_size">22sp</dimen>

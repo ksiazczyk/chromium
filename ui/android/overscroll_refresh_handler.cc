@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverscrollRefreshHandler JNI implementation
+// summary: Implements the JNI bridge that forwards pull start, update, release, and reset events to the Java OverscrollRefreshHandler.
+// ---
+
 #include "ui/android/overscroll_refresh_handler.h"
 
 #include <utility>

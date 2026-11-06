@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Android S+ system color resources
+summary: Defines color resources that map to Android system neutral colors for devices running Android S (API 31) and above.
+-->
+
 <resources>
     <!-- System colors for Android S+.-->
     <color name="system_neutral1_10">@android:color/system_neutral1_10</color>

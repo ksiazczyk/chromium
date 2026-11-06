@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Expand more horizontal icon rotation drawable
+summary: Rotate drawable that turns the expand more icon by a fixed degree integer to render it horizontally.
+-->
+
 <rotate xmlns:android="http://schemas.android.com/apk/res/android"
     android:fromDegrees="@integer/expand_more_horizontal_rotation_degree"
     android:toDegrees="@integer/expand_more_horizontal_rotation_degree"

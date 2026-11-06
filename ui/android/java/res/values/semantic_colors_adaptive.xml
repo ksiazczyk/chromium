@@ -4,6 +4,13 @@ Copyright 2013 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Adaptive semantic colors
+summary: Maps semantic color names to light or dark variants that switch with night mode for text, icons and backgrounds.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- TODO(huayinz): remove tools:ignore once these colors are used in ui/android -->
     <!-- Common text colors -->

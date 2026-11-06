@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen initialization for Android
+// summary: Declares SetScreenAndroid, which initializes the Android screen and display handling, optionally enabling display-wide color gamut.
+// ---
+
 #ifndef UI_ANDROID_SCREEN_ANDROID_H_
 #define UI_ANDROID_SCREEN_ANDROID_H_
 

@@ -4,6 +4,13 @@ Copyright 2019 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Baseline color palette
+summary: Defines the baseline Material Design color palette values used throughout the Chromium UI.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- 2021 color palette. -->
     <color name="baseline_error_80">#F2B8B5</color>

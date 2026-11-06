@@ -4,6 +4,13 @@ Copyright 2025 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Adaptive density default theme overlay
+summary: Defines a theme overlay setting default dimensions for touch targets, list items, popups and text used by adaptive density UI components.
+-->
+
 <resources>
     <style name="ThemeOverlay.UI.AdaptiveDensityDefaults" parent="">
         <!-- LINT.IfChange(AdaptiveDensityDefaults) -->

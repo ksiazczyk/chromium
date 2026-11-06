@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Custom toast layout
+summary: Android layout for a custom toast showing centered toast text on a styled background.
+-->
+
 <TextView
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/toast_text"

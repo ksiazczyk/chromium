@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for ui/android
+summary: Lists the reviewers responsible for ui/android, including per-file owners for UI resources, display, window insets and modal dialogs.

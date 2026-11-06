@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for Android UI resources
+summary: Maps the res directory to the UI>Browser>Mobile monorail component and Buganizer component 1457074 for issue tracking.

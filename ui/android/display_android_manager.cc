@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android display manager implementation
+// summary: Implements the Android Screen, maintaining the display list from Java-side updates and answering display lookup queries.
+// ---
+
 #include "ui/android/display_android_manager.h"
 
 #include <jni.h>

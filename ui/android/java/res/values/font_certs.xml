@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: data
+title: Downloadable font certificates
+summary: Stores Google Play Services font provider certificate arrays used to verify downloadable fonts.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
    <!--
      The 'ui_' resource name prefix is to avoid clashing with a downstream duplicate

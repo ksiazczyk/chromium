@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Selection handle bitmap resources
+// summary: Loads left, right and center selection handle bitmaps plus padding metrics from Java resources for touch text selection.
+// ---
+
 #include "ui/android/handle_view_resources.h"
 
 #include "base/notreached.h"

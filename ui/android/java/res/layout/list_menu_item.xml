@@ -6,6 +6,13 @@ found in the LICENSE file.
 -->
 <!-- Do not replace this with TextViewWithCompoundDrawables
      https://crbug.com/1053448 -->
+
+<!--docerion
+type: source
+title: List menu item layout
+summary: Android layout for a list menu row with optional start icon, title, subtitle, end icon, and shortcut text.
+-->
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"

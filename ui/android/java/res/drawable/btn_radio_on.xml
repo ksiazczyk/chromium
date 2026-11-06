@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Checked radio button vector drawable
+summary: Vector drawable showing a checked radio button as a circle outline with a filled inner dot.
+-->
+
 <vector
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="20dp"

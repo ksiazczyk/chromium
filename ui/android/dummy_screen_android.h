@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dummy screen factory for Android
+// summary: Declares a factory that creates a display Screen containing a single dummy Display that does not communicate with the Java layer.
+// ---
+
 #ifndef UI_ANDROID_DUMMY_SCREEN_ANDROID_H_
 #define UI_ANDROID_DUMMY_SCREEN_ANDROID_H_
 

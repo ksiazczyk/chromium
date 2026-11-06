@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android color conversion utilities implementation
+// summary: Implements conversions between optional SkColor values and Java 64-bit color integers, including CSS string output and an invalid-color sentinel.
+// ---
+
 #include "ui/android/color_utils_android.h"
 
 #include "base/check.h"

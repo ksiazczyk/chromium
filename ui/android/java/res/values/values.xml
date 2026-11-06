@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Miscellaneous UI Android value resources
+summary: Provides integer, fraction and string resources such as menu animation constants, drag shadow ratios and default font feature settings.
+-->
+
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
     <!-- Whether the device is a phone, tablet or large tablet. Used to determine which resources
          the OS loaded. -->

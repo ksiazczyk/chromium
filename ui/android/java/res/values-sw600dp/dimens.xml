@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Tablet menu dimension resources
+summary: Defines the sw600dp menu dimension that offsets the menu icon vertically to align it with the button on tablet devices.
+-->
+
 <resources>
       <!-- Menu Dimensions -->
       <!-- Necessary to align the menu icon with the actual button. -->

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Menu exit animation
+summary: Animation set that scales a menu down and fades it out over 150 ms when it closes.
+-->
+
 <set xmlns:android="http://schemas.android.com/apk/res/android" android:shareInterpolator="false">
     <scale android:interpolator="@anim/emphasized"
         android:fromXScale="1"

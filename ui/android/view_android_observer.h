@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewAndroidObserver interface
+// summary: Defines the ViewAndroidObserver interface with callbacks for view attachment, detachment, destruction, and delegate changes.
+// ---
+
 #ifndef UI_ANDROID_VIEW_ANDROID_OBSERVER_H_
 #define UI_ANDROID_VIEW_ANDROID_OBSERVER_H_
 

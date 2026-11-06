@@ -4,6 +4,13 @@ Copyright 2018 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Tablet screen width bucket value
+summary: Defines the min_screen_width_bucket integer marking the device as a tablet so the OS resource selection can be determined.
+-->
+
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
     <!-- Whether the device is a phone, tablet or large tablet. Used to determine which resources
          the OS loaded. -->

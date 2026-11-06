@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Menu enter animation from bottom left
+summary: Animation set that scales a menu from its bottom-left corner while fading and translating it in over 250 ms.
+-->
+
 <set xmlns:android="http://schemas.android.com/apk/res/android" android:shareInterpolator="false">
     <scale android:interpolator="@anim/emphasized"
         android:fromXScale="0"

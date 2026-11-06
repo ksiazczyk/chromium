@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverscrollRefresh header
+// summary: Declares OverscrollRefresh and its enums for pull-to-refresh and edge navigation gesture detection, delegating actions to a handler.
+// ---
+
 #ifndef UI_ANDROID_OVERSCROLL_REFRESH_H_
 #define UI_ANDROID_OVERSCROLL_REFRESH_H_
 

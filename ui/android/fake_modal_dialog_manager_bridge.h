@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake modal dialog manager bridge header
+// summary: Declares a fake modal dialog manager bridge letting tests click dialog buttons, toggle checkboxes, open menu items and inspect dialog content.
+// ---
+
 #ifndef UI_ANDROID_FAKE_MODAL_DIALOG_MANAGER_BRIDGE_H_
 #define UI_ANDROID_FAKE_MODAL_DIALOG_MANAGER_BRIDGE_H_
 

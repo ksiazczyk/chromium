@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test view Android delegate header
+// summary: Declares a test version of ViewAndroidDelegate used to test viewport bottom insetting and cursor information on a render widget host view.
+// ---
+
 #ifndef UI_ANDROID_TEST_VIEW_ANDROID_DELEGATE_H_
 #define UI_ANDROID_TEST_VIEW_ANDROID_DELEGATE_H_
 

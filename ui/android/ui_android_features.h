@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI Android feature flag declarations
+// summary: Declares Android UI feature flags with comments describing their purpose, including display bounds, gesture navigation, and clipboard protections.
+// ---
+
 #ifndef UI_ANDROID_UI_ANDROID_FEATURES_H_
 #define UI_ANDROID_UI_ANDROID_FEATURES_H_
 

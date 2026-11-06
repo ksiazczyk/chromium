@@ -4,6 +4,13 @@ Copyright 2020 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: One-off color values
+summary: Defines special-purpose colors for features like tab groups and find results, with UX approval required for additions.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Warning: One off below, do not use for other purpose.
          Ask for a UX approval before adding a new one.

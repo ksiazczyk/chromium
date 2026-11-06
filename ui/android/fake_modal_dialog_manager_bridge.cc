@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake modal dialog manager bridge for tests
+// summary: Implements a native bridge to a fake Java modal dialog manager used to simulate and inspect modal dialogs in unit and browser tests.
+// ---
+
 #include "ui/android/fake_modal_dialog_manager_bridge.h"
 
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverscrollRefreshHandler header
+// summary: Declares OverscrollRefreshHandler, a JNI bridge that forwards overscroll pull events to the Java-side refresh handler.
+// ---
+
 #ifndef UI_ANDROID_OVERSCROLL_REFRESH_HANDLER_H_
 #define UI_ANDROID_OVERSCROLL_REFRESH_HANDLER_H_
 

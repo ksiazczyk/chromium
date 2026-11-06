@@ -13,4 +13,10 @@ found in the LICENSE file.
     See http://www.chromium.org/developers/design-documents/ui-localization
 -->
 
+<!--docerion
+type: config
+title: Strings resource placeholder
+summary: Empty strings resource directing developers to android_ui_strings.grd for all Android UI strings.
+-->
+
 <resources/>

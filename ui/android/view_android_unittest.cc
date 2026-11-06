@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ViewAndroid unit tests
+// summary: Unit tests for ViewAndroid covering touch event dispatch, hit testing, bounds ordering, and frame info behavior using test handlers and delegates.
+// ---
+
 #include "ui/android/view_android.h"
 
 #include <limits>

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Dark theme toast color selector
+summary: Android color resource that maps the toast color to the dark Material 3 surface container color for night mode.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
   <item android:color="@color/gm3_baseline_surface_container_low_dark"/>
 </selector>

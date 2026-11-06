@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Custom toast background shape
+summary: Rounded shape drawable with large corner radius and horizontal padding that provides the background color for custom toasts.
+-->
+
 <shape
     xmlns:android="http://schemas.android.com/apk/res/android">
     <corners android:radius="200dp"/>
