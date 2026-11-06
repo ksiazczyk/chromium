@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for minimum Chrome version test app version 2.0.0
+summary: Chrome app manifest setting minimum_chrome_version to 100 with kiosk enabled, used to test installability in current Chrome versions.

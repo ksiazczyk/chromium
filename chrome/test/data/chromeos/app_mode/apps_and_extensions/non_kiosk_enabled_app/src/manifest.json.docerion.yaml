@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test non-kiosk app manifest
+summary: Chrome app manifest for the test app, defining the background script and icons while intentionally omitting kiosk_enabled.

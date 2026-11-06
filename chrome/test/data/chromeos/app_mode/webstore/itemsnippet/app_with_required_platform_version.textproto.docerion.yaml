@@ -1,0 +1,4 @@
+# Docerion header of app_with_required_platform_version.textproto.
+type: test
+title: Web store snippet for app with required platform version
+summary: Mock FetchItemSnippetResponse for a kiosk app that requires platform version 1234, used in kiosk platform version tests.

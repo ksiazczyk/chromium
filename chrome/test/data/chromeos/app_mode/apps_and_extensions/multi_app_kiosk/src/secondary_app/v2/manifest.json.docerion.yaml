@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Kiosk secondary app 1 manifest
+summary: Chrome app manifest for the kiosk secondary test app, version 2.0.0, importing another app and enabling kiosk and offline modes.

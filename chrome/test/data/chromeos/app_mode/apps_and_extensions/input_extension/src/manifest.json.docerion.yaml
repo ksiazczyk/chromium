@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Kiosk Input API Test Extension manifest
+summary: Manifest for the companion Chrome extension of KioskEnterpriseInputApiBrowserTest, declaring the enterprise.kioskInput permission, icons, and background service worker.

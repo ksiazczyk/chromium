@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for test kiosk app version 3.0.0
+summary: Chrome app manifest defining the primary multi-app kiosk test app with icons, background script, three secondary app IDs, and the power permission.

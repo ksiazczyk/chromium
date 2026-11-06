@@ -1,0 +1,4 @@
+# Docerion header of pegeblegnlhnpgghhjblhchdllfijodp-2.0.0.crx.
+type: test
+title: Empty CRX test file pegeblegnlhnpgghhjblhchdllfijodp-2.0.0.crx
+summary: Empty zero-byte CRX package pegeblegnlhnpgghhjblhchdllfijodp-2.0.0 used as test data for ChromeOS kiosk app webstore download tests.

@@ -1,0 +1,4 @@
+# Docerion header of old_file.trashinfo.
+type: test
+title: Trash info file for a deleted file
+summary: Trash metadata fixture recording the original path and deletion date of a removed file for trash testing.

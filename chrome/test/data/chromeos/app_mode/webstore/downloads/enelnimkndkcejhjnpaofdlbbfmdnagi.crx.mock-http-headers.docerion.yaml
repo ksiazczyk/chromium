@@ -1,0 +1,4 @@
+# Docerion header of enelnimkndkcejhjnpaofdlbbfmdnagi.crx.mock-http-headers.
+type: test
+title: Mock HTTP headers for enelnimkndkcejhjnpaofdlbbfmdnagi.crx
+summary: Mock HTTP response headers returning 200 OK with an application/x-chrome-extension content type for the enelnimkndkcejhjnpaofdlbbfmdnagi.crx download in ChromeOS kiosk app tests.

@@ -1,0 +1,4 @@
+# Docerion header of form.html.
+type: test
+title: 'Virtual keyboard test page: example form'
+summary: HTML test page with a simple registration form containing username and password fields, used to test virtual keyboard behavior with forms.

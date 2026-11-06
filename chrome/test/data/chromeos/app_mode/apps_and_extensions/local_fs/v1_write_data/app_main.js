@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk app script writing data to persistent storage
+// summary: Requests persistent storage quota, writes data.txt with Hello world content, and reports pass or fail via chrome.test.
+// ---
+
 var FILE_NAME = 'data.txt';
 var DATA = 'Hello world';
 

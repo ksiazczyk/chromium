@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for multi-app kiosk test app
+summary: Chrome app manifest enabling kiosk and offline mode, declaring icons, the power permission, and two secondary app IDs for multi-app kiosk testing.

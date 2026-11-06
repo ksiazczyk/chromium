@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test kiosk app manifest
+summary: Version 2 manifest of the offline-enabled test kiosk app, enabling kiosk mode and requiring platform version 1234.

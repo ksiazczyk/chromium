@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test kiosk app manifest
+summary: Chrome app manifest declaring the Test Kiosk App with kiosk support, power and webview permissions, and main.js as background script.

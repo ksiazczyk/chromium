@@ -1,0 +1,4 @@
+# Docerion header of iiigpodgfihagabpagjehoocpakbnclp.textproto.
+type: test
+title: Offline-enabled kiosk app item snippet fixture
+summary: Text-format protobuf fixture of a FetchItemSnippetResponse for an offline-enabled test kiosk app with a minimum Chrome version, used by ChromeOS app mode tests.

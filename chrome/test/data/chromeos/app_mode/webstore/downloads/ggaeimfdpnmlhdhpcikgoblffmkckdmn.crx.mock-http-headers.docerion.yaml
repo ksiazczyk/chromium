@@ -1,0 +1,4 @@
+# Docerion header of ggaeimfdpnmlhdhpcikgoblffmkckdmn.crx.mock-http-headers.
+type: test
+title: Mock HTTP headers for ggaeimfdpnmlhdhpcikgoblffmkckdmn.crx
+summary: Mock HTTP response headers returning 200 OK with an application/x-chrome-extension content type for the ggaeimfdpnmlhdhpcikgoblffmkckdmn.crx download in ChromeOS kiosk app tests.

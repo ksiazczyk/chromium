@@ -1,0 +1,4 @@
+# Docerion header of ajoggoflpgplnnjkjamcmbepjdjdnpdp-2.0.0.crx.
+type: test
+title: Bad CRX fixture ajoggoflpgplnnjkjamcmbepjdjdnpdp-2.0.0.crx
+summary: Invalid Chrome extension package used as test data for kiosk external update scenarios.

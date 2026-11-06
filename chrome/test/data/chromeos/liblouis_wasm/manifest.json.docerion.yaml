@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: liblouis_wasm tests extension manifest
+summary: Chrome extension manifest for the liblouis_wasm tests, loading test.js in the background and allowing WebAssembly evaluation.

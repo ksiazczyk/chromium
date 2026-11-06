@@ -1,0 +1,4 @@
+# Docerion header of iiigpodgfihagabpagjehoocpakbnclp_v2_permission_change.crx.mock-http-headers.
+type: test
+title: Mock HTTP headers for v2 permission change CRX download test
+summary: Mock HTTP response headers serving a Chrome extension CRX for the v2 permission change kiosk webstore download test.

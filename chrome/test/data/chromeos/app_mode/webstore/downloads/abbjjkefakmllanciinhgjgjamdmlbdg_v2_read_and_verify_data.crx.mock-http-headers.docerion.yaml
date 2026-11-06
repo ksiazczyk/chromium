@@ -1,0 +1,4 @@
+# Docerion header of abbjjkefakmllanciinhgjgjamdmlbdg_v2_read_and_verify_data.crx.mock-http-headers.
+type: test
+title: Mock HTTP headers for v2 read-and-verify CRX download test
+summary: Mock HTTP response headers serving a Chrome extension CRX for the v2 read-and-verify kiosk webstore download test.

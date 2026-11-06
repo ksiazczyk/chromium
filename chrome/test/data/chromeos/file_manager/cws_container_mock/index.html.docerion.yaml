@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: test
+title: Mock CWS Container test page
+summary: Mock HTML page simulating the Chrome Web Store container, with an install button, used by ChromeOS file manager tests.

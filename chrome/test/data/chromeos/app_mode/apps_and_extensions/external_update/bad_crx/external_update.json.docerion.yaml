@@ -1,0 +1,4 @@
+# Docerion header of external_update.json.
+type: test
+title: External kiosk extension update manifest
+summary: Maps external kiosk extension IDs to CRX file paths and versions for external update tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Script querying the secondary app version
+// summary: Page script that sends a GET_APP_VERSION message to the secondary app and displays the returned version.
+// ---
+
 const minimumChromeVersionAppId = 'ckgconpclkocfoolbepdpgmgaicpegnp';
 
 window.addEventListener('load', function onload() {

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the secondary apps kiosk test app
+summary: Manifest version 3 for the kiosk-enabled test app that declares the minimum_chrome_version app as a secondary app.

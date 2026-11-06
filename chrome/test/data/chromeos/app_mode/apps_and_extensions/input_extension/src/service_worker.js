@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk input test extension service worker
+// summary: Service worker that responds to external messages checking kiosk input API availability and setting the current input method, then signals readiness to the browser test.
+// ---
+
 chrome.runtime.onMessageExternal.addListener(
   ({ message, data }, _sender, sendResponse) => {
     switch (message) {

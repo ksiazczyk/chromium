@@ -1,0 +1,4 @@
+# Docerion header of utf8.txt.
+type: test
+title: UTF-8 multilingual text file
+summary: Text fixture mixing many scripts and emoji to test UTF-8 rendering of multilingual content.

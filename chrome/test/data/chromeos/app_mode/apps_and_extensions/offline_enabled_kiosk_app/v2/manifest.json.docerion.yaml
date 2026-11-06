@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test kiosk app manifest
+summary: Manifest for the offline-enabled test kiosk app, declaring the background script, icons, kiosk and offline support, and the power permission.

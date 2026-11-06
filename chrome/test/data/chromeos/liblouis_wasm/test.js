@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: liblouis_wasm braille translation tests
+// summary: Browser tests that drive the liblouis WebAssembly worker to check table loading, braille translation, and backtranslation of English text.
+// ---
+
 const pass = chrome.test.callbackPass;
 
 const TABLE_NAME = 'en-us-comp8.ctb';

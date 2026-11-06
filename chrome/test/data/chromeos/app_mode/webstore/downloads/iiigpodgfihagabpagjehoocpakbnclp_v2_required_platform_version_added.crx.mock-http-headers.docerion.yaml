@@ -1,0 +1,4 @@
+# Docerion header of iiigpodgfihagabpagjehoocpakbnclp_v2_required_platform_version_added.crx.mock-http-headers.
+type: test
+title: Mock HTTP headers for v2 required platform version CRX test
+summary: Mock HTTP response headers serving a Chrome extension CRX for the v2 required platform version added kiosk webstore test.

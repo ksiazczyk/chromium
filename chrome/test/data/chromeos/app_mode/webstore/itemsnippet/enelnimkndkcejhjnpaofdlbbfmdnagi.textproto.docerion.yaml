@@ -1,0 +1,4 @@
+# Docerion header of enelnimkndkcejhjnpaofdlbbfmdnagi.textproto.
+type: test
+title: Web store snippet for the getVolumeList kiosk session test app
+summary: Mock FetchItemSnippetResponse for a kiosk-only app that tests volume visibility in the kiosk session, expecting Drive not to be exposed.

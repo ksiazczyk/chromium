@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Kiosk secondary app 1 manifest
+summary: Chrome app manifest for the secondary kiosk test app, enabling kiosk and offline mode with the power permission and icons.

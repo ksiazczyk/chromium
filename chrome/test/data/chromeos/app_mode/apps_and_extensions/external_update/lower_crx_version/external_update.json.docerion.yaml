@@ -1,0 +1,4 @@
+# Docerion header of external_update.json.
+type: test
+title: External kiosk extension update test data
+summary: Maps the kiosk extension ID iiigpodgfihagabpagjehoocpakbnclp to its CRX file and version 3.0.0 for testing external extension updates with a lower CRX version.

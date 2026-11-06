@@ -1,0 +1,4 @@
+# Docerion header of text.txt.
+type: test
+title: Sample text file
+summary: Short sample text fixture used for general file manager text display tests.

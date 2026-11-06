@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Kiosk multi-app shared module manifest
+summary: Manifest version 2 for the kiosk multi-app test fixture, enabling kiosk and offline mode and importing a shared module by ID.

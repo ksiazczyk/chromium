@@ -1,0 +1,4 @@
+# Docerion header of tos.txt.
+type: test
+title: Test Terms of Service
+summary: Test terms of service text used as fixture data for Chrome OS enterprise tests.

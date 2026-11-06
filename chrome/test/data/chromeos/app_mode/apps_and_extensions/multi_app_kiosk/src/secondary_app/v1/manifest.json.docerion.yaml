@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Kiosk secondary app 1 manifest
+summary: Chrome app manifest declaring the secondary test app as kiosk-enabled and offline-enabled, with icons and a background script.

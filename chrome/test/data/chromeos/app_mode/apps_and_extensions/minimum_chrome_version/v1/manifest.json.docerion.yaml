@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for minimum Chrome version test app version 1.0.0
+summary: Manifest for version 1.0.0 of the kiosk-enabled test app used to check minimum_chrome_version handling in ChromeOS app mode.

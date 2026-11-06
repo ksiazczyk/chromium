@@ -10,6 +10,12 @@
  * package.
  */
 
+// ---docerion
+// type: test
+// title: Virtual keyboard kiosk app test background script
+// summary: Runs browser tests that restrict and enable virtual keyboard features via chrome.virtualKeyboard and verifies the resulting keyboard configuration flags.
+// ---
+
 chrome.test.runTests([
   function virtualKeyboardAllRestrict() {
     chrome.virtualKeyboard.restrictFeatures(

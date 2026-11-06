@@ -1,0 +1,4 @@
+# Docerion header of external_update.json.
+type: test
+title: Invalid external kiosk extension update JSON fixture
+summary: Deliberately malformed JSON fixture mapping a kiosk extension id to its CRX path and version, used to test handling of invalid external update manifests.

@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Virtual keyboard test base
+// summary: Shared test base that mocks chrome extension APIs, adjusts the screen for testing and provides keyboard setup helpers.
+// ---
+
 /**
  * Set to true while debugging virtual keyboard tests, for verbose debug output.
  */

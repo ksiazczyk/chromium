@@ -1,0 +1,4 @@
+# Docerion header of external_update.json.
+type: test
+title: External kiosk extension update manifest
+summary: Maps a kiosk extension ID to its CRX file path and version so ChromeOS external update tests can install the updated extension from test data.

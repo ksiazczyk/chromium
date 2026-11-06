@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Virtual keyboard layout test
+// summary: Verifies full and compact US QWERTY layouts, symbol keysets and default handwriting support against expected key sequences.
+// ---
+
 /**
  * Verifies that the layout matches with expectations.
  * @param {Array<string>} rows List of strings where each string indicates the

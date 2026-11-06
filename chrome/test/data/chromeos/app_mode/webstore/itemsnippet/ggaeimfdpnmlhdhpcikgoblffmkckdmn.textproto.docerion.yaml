@@ -1,0 +1,4 @@
+# Docerion header of ggaeimfdpnmlhdhpcikgoblffmkckdmn.textproto.
+type: test
+title: Web store snippet for the Test Kiosk App
+summary: Mock FetchItemSnippetResponse for a kiosk-enabled app with power and webview permissions, used as web store item snippet test data.

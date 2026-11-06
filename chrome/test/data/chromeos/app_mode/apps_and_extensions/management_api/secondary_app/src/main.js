@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Secondary kiosk app management API test script
+// summary: Background script of the secondary kiosk test app that responds to the primary app and runs chrome.management API tests, asserting allowed calls succeed and kiosk-restricted operations fail.
+// ---
+
 chrome.runtime.onMessageExternal.addListener(function(
     message, sender, callback) {
   var kPrimaryAppId = 'adinpkdaebaiabdlinlbjmenialdhibc';
