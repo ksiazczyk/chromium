@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: "SpellCheckerSessionBridge: JNI bridge to Android's spell checker"
+// summary: Java class that bridges the native Chromium SpellCheckerSessionBridge to Android's TextServicesManager, creating spell checker sessions and recording spell and grammar check metrics.
+// ---
+
 package org.chromium.components.spellcheck;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

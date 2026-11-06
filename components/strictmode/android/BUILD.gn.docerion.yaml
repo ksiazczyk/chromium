@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: StrictMode Android build targets
+summary: GN build file defining the strictmode Android Java library and its unit test targets with their sources and dependencies.

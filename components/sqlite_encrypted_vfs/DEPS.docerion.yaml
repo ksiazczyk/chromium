@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: SQLite Encrypted VFS include rules
+summary: DEPS file allowing this component to include headers from //sql and //third_party/sqlite.

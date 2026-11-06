@@ -4,6 +4,12 @@
 
 // MtabWatcherLinux implementation.
 
+// ---docerion
+// type: source
+// title: Linux mtab watcher implementation
+// summary: Watches the mtab file and reports currently mounted known filesystems to a callback on Linux.
+// ---
+
 #include "components/storage_monitor/mtab_watcher_linux.h"
 
 #include <mntent.h>

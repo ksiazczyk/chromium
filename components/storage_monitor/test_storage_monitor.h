@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestStorageMonitor header
+// summary: Declares TestStorageMonitor, a StorageMonitor subclass with helpers to install the singleton for tests, add removable paths, and track ejected devices.
+// ---
+
 #ifndef COMPONENTS_STORAGE_MONITOR_TEST_STORAGE_MONITOR_H_
 #define COMPONENTS_STORAGE_MONITOR_TEST_STORAGE_MONITOR_H_
 

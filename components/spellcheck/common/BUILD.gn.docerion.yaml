@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for spellcheck common sources and mojom interfaces
+summary: Defines GN source sets and the mojom interface target for the spellcheck common component, including typemaps and build-feature-conditional sources.

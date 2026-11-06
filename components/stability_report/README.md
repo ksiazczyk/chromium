@@ -1,3 +1,9 @@
+---
+type: readme
+title: Stability report component overview
+summary: Explains that the component registers a crashpad user stream data source that collects resource usage stats from crashed processes into a serialized StabilityReport proto.
+---
+
 This component registers a `crashpad::UserStreamDataSource` with the `crash`
 component. Whenever a process crashes, it collects stats on the resources used
 by the crashed process (e.g. memory in use and available, open file handles)

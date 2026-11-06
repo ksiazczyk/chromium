@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpellcheckLanguage class header
+// summary: Declares SpellcheckLanguage, which spellchecks text for one language and reports correct, skippable, or misspelled word results.
+// ---
+
 #ifndef COMPONENTS_SPELLCHECK_RENDERER_SPELLCHECK_LANGUAGE_H_
 #define COMPONENTS_SPELLCHECK_RENDERER_SPELLCHECK_LANGUAGE_H_
 

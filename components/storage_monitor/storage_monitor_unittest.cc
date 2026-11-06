@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StorageMonitor unit tests
+// summary: Unit tests for the base StorageMonitor covering initialization, observer attach and detach notifications, and querying all available storages.
+// ---
+
 #include "components/storage_monitor/storage_monitor.h"
 
 #include "base/functional/bind.h"

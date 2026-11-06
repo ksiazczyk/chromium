@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File system ID unit tests
+// summary: Tests GetFileSystemId for invalid files, consistent IDs across handles to the same file, differing IDs for distinct files and identifier equality.
+// ---
+
 #include "components/sqlite_vfs/file_system_id.h"
 
 #include "base/files/file.h"

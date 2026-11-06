@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spellcheck renderer metrics implementation
+// summary: Records UMA histograms for spell check request and suggestion durations and checked text lengths in the renderer.
+// ---
+
 #include "components/spellcheck/renderer/spellcheck_renderer_metrics.h"
 
 #include "base/metrics/histogram_macros.h"

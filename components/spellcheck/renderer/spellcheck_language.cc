@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpellcheckLanguage implementation
+// summary: Implements per-language spellchecking that iterates over words and contractions and reports misspelled or skippable text with suggestions.
+// ---
+
 #include "components/spellcheck/renderer/spellcheck_language.h"
 
 #include <string_view>

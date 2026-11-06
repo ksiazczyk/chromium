@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlockMigrationTracker class declaration
+// summary: Declares a thread-safe per-block tracker combining an atomic migrated flag with a lock used only by background migration workers.
+// ---
+
 #ifndef COMPONENTS_SQLITE_MIGRATION_VFS_BLOCK_MIGRATION_TRACKER_H_
 #define COMPONENTS_SQLITE_MIGRATION_VFS_BLOCK_MIGRATION_TRACKER_H_
 

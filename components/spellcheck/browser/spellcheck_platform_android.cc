@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android stubs for the platform spellcheck interface
+// summary: Implements the platform spellcheck interface on Android with mostly stubbed or feature-gated behavior for the Android spellcheck feature.
+// ---
+
 #include "components/spellcheck/browser/spellcheck_platform.h"
 
 #include "base/command_line.h"

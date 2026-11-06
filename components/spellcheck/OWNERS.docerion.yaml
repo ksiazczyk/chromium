@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Spellcheck component owners
+summary: Points code ownership of the spellcheck component to the Chrome OS input method OWNERS file.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SqliteVfsFileSet implementation
+// summary: Implements SqliteVfsFileSet, binding a PendingFileSet into SandboxedFile instances for the main database, journal, and WAL files with generated virtual paths.
+// ---
+
 #include "components/sqlite_vfs/sqlite_database_vfs_file_set.h"
 
 #include <atomic>

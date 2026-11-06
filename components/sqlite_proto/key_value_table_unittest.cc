@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for KeyValueTable
+// summary: Tests KeyValueTable operations against an in-memory SQLite database, covering put, get, update, delete and default-value cases.
+// ---
+
 #include "components/sqlite_proto/key_value_table.h"
 
 #include "base/memory/scoped_refptr.h"

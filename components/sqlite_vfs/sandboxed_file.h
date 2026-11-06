@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SandboxedFile class header
+// summary: Declares SandboxedFile, a sqlite3_file implementation that exposes sandboxed database files to sql::Database through the SqliteSandboxedVfsDelegate.
+// ---
+
 #ifndef COMPONENTS_SQLITE_VFS_SANDBOXED_FILE_H_
 #define COMPONENTS_SQLITE_VFS_SANDBOXED_FILE_H_
 

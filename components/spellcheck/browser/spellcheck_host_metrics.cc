@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spellcheck host metrics implementation
+// summary: Records spellcheck UMA histograms such as word counts, checked words per hour, and suggestion hit ratio on a periodic timer.
+// ---
+
 #include "components/spellcheck/browser/spellcheck_host_metrics.h"
 
 #include <stdint.h>

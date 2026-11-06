@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Spellcheck browser include rules
+summary: Declares the dependencies that the spellcheck browser directory is allowed to include via include rules.

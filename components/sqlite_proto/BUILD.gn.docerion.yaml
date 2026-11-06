@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the sqlite_proto component
+summary: Defines the GN build targets for the sqlite_proto static library, its test proto and unit tests, with dependencies on base, sql and protobuf.

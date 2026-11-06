@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SharedLocks unit tests
+// summary: Unit tests for SharedLocks verifying region creation, lock and unlock transitions, concurrent multi-connection behavior, and WAL lock operations.
+// ---
+
 #include "components/sqlite_vfs/shared_locks.h"
 
 #include "base/barrier_closure.h"

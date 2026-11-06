@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQLite VFS lock state enum
+// summary: Defines the LockState enum recording whether a SqliteVfsFileSet lock is not held, being read, or being written, with values persisted to logs.
+// ---
+
 #ifndef COMPONENTS_SQLITE_VFS_LOCK_STATE_H_
 #define COMPONENTS_SQLITE_VFS_LOCK_STATE_H_
 

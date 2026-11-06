@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spellcheck host metrics unit tests
+// summary: Unit tests verifying spellcheck metrics histograms for enabled stats, word counts, spelling service stats, and Windows locale support.
+// ---
+
 #include "components/spellcheck/browser/spellcheck_host_metrics.h"
 
 #include <stddef.h>

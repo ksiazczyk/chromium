@@ -1,0 +1,4 @@
+# Docerion header of spellcheck_panel.mojom.
+type: source
+title: Spellcheck panel mojo interfaces
+summary: Defines mojo interfaces for showing and updating the macOS spelling and grammar panel and for panel actions in the renderer.

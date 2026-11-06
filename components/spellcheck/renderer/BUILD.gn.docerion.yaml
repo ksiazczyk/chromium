@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Spellcheck renderer GN build configuration
+summary: Defines the renderer source set and unit test targets for the spellcheck component, with platform-conditional sources and dependencies.

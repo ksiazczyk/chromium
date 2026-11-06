@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandboxed VFS Utilities API
+// summary: Declares utilities to create, share, and delete sandboxed SQLite database file sets, including MakePendingFileSet, ShareConnection, GetBaseName, and DeleteFiles.
+// ---
+
 #ifndef COMPONENTS_SQLITE_VFS_VFS_UTILS_H_
 #define COMPONENTS_SQLITE_VFS_VFS_UTILS_H_
 

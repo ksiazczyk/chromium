@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SqliteSandboxedVfsDelegate class header
+// summary: Declares SqliteSandboxedVfsDelegate, a sandboxed VFS delegate that registers file sets and maps virtual paths to files obtained via Mojo.
+// ---
+
 #ifndef COMPONENTS_SQLITE_VFS_SQLITE_SANDBOXED_VFS_H_
 #define COMPONENTS_SQLITE_VFS_SQLITE_SANDBOXED_VFS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test media transfer protocol manager for ChromeOS
+// summary: Declares a dummy MtpManager (media transfer protocol) Mojo implementation used as a fake in ChromeOS storage monitor tests.
+// ---
+
 #ifndef COMPONENTS_STORAGE_MONITOR_TEST_MEDIA_TRANSFER_PROTOCOL_MANAGER_CHROMEOS_H_
 #define COMPONENTS_STORAGE_MONITOR_TEST_MEDIA_TRANSFER_PROTOCOL_MANAGER_CHROMEOS_H_
 

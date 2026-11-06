@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SpellcheckWordIterator unit tests
+// summary: Unit tests verifying that SpellcheckWordIterator extracts and normalizes words from multilingual text for the spell-checker.
+// ---
+
 #include "components/spellcheck/renderer/spellcheck_worditerator.h"
 
 #include <stddef.h>

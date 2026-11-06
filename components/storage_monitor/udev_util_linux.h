@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Udev utility header for Linux
+// summary: Declares GetUdevDevicePropertyValueByPath, a helper that reads a udev device property value given a sysfs device path on Linux.
+// ---
+
 #ifndef COMPONENTS_STORAGE_MONITOR_UDEV_UTIL_LINUX_H_
 #define COMPONENTS_STORAGE_MONITOR_UDEV_UTIL_LINUX_H_
 

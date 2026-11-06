@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Spellcheck buildflags GN target
+summary: GN build file defining a buildflag header that exposes spellcheck feature flags such as ENABLE_SPELLCHECK and USE_BROWSER_SPELLCHECKER.

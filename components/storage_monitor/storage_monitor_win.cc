@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageMonitorWin implementation
+// summary: Implements the Windows storage monitor with a hidden window for media change messages and a volume mount watcher to manage mounted removable devices.
+// ---
+
 #include "components/storage_monitor/storage_monitor_win.h"
 
 #include <windows.h>

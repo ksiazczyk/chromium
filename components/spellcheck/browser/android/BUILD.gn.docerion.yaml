@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Android spellcheck build targets
+summary: GN build file defining JNI header generation, the Android spellcheck Java library, and Robolectric JUnit test targets for the spellcheck component.

@@ -1,0 +1,4 @@
+# Docerion header of spellcheck.mojom.
+type: source
+title: Mojo interfaces for spellcheck IPC
+summary: Defines the SpellChecker, SpellCheckInitializationHost, and SpellCheckHost mojo interfaces plus spellcheck result and marker structs shared between browser and renderer.

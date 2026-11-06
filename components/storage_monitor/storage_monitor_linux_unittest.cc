@@ -4,6 +4,12 @@
 
 // StorageMonitorLinux unit tests.
 
+// ---docerion
+// type: test
+// title: StorageMonitorLinux unit tests
+// summary: Unit tests for the Linux storage monitor covering mount point parsing, device attach and detach notifications, and storage info lookups with test device data.
+// ---
+
 #include "components/storage_monitor/storage_monitor_linux.h"
 
 #include <mntent.h>

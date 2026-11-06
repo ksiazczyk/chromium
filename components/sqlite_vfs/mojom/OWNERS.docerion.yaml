@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for sqlite_vfs mojom files
+summary: Assigns review ownership of the mojom and traits files to the IPC security owners with no parent overrides.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL error classification implementation
+// summary: Implements SSL interstitial cause classification, including clock state inference, hostname matching, and UMA histogram recording.
+// ---
+
 #include "components/ssl_errors/error_classification.h"
 
 #include <limits.h>

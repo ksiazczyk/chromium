@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StreamingWebSocketClient class declaration
+// summary: Declares the reusable WebSocket client class and its delegate interface for connecting, sending, and receiving binary protobuf messages.
+// ---
+
 #ifndef COMPONENTS_STREAMING_CLIENT_STREAMING_WEBSOCKET_CLIENT_H_
 #define COMPONENTS_STREAMING_CLIENT_STREAMING_WEBSOCKET_CLIENT_H_
 

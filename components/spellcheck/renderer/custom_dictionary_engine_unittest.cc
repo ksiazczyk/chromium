@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Custom dictionary engine unit tests
+// summary: Unit tests covering synchronous and asynchronous initialization, dictionary changes, and edge cases like empty words and null characters.
+// ---
+
 #include "components/spellcheck/renderer/custom_dictionary_engine.h"
 
 #include "base/strings/utf_string_conversions.h"

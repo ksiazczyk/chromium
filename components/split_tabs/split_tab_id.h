@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SplitTabId strongly typed identifier
+// summary: Defines SplitTabId, a strongly typed split tab identifier based on tab_groups::TokenId, plus a hash type for use in std::unordered_map.
+// ---
+
 #ifndef COMPONENTS_SPLIT_TABS_SPLIT_TAB_ID_H_
 #define COMPONENTS_SPLIT_TABS_SPLIT_TAB_ID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyValueData class for cached synchronous key-value access
+// summary: Declares a template class providing synchronous access to KeyValueTable-backed data with a bounded in-memory cache and periodic flushing to disk.
+// ---
+
 #ifndef COMPONENTS_SQLITE_PROTO_KEY_VALUE_DATA_H_
 #define COMPONENTS_SQLITE_PROTO_KEY_VALUE_DATA_H_
 

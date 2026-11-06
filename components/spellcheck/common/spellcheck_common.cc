@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spellcheck language and dictionary helpers
+// summary: Implements helpers that map languages to dictionary regions and versioned bdic file names, plus ISO locale code extraction and suggestion filling.
+// ---
+
 #include "components/spellcheck/common/spellcheck_common.h"
 
 #include <algorithm>

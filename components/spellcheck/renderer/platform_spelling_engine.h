@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform spelling engine header
+// summary: Declares PlatformSpellingEngine, a SpellingEngine implementation that delegates spelling checks and suggestion lookups to the browser's SpellCheckHost.
+// ---
+
 #ifndef COMPONENTS_SPELLCHECK_RENDERER_PLATFORM_SPELLING_ENGINE_H_
 #define COMPONENTS_SPELLCHECK_RENDERER_PLATFORM_SPELLING_ENGINE_H_
 

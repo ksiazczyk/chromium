@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Violation
+// summary: Models a detected StrictMode violation with a type bitmask and stack trace, and checks it against whitelist entries.
+// ---
+
 package org.chromium.components.strictmode;
 
 import org.chromium.build.annotations.NullMarked;

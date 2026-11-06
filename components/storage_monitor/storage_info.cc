@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageInfo implementation
+// summary: Implements StorageInfo, including device ID construction and parsing, device type checks and display name generation for storage devices.
+// ---
+
 #include "components/storage_monitor/storage_info.h"
 
 #include <stddef.h>

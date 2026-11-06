@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Empty local interface provider header
+// summary: Declares EmptyLocalInterfaceProvider, a stub service_manager LocalInterfaceProvider that binds no remote application.
+// ---
+
 #ifndef COMPONENTS_SPELLCHECK_RENDERER_EMPTY_LOCAL_INTERFACE_PROVIDER_H_
 #define COMPONENTS_SPELLCHECK_RENDERER_EMPTY_LOCAL_INTERFACE_PROVIDER_H_
 

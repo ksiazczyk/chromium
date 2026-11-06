@@ -7,6 +7,12 @@
 // mounted devices. StorageMonitorLinux uses a MtabWatcherLinux on a separate
 // background sequence that is file IO capable.
 
+// ---docerion
+// type: source
+// title: StorageMonitorLinux class header
+// summary: Declares StorageMonitorLinux, which watches mtab mount points on a background sequence and notifies listeners about media device additions, removals, and queries.
+// ---
+
 #ifndef COMPONENTS_STORAGE_MONITOR_STORAGE_MONITOR_LINUX_H_
 #define COMPONENTS_STORAGE_MONITOR_STORAGE_MONITOR_LINUX_H_
 

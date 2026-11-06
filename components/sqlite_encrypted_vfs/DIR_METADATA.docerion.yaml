@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: SQLite Encrypted VFS component metadata
+summary: DIR_METADATA mapping the component to the Internals>LocalDataEncryption monorail component, team email, and Buganizer ID.

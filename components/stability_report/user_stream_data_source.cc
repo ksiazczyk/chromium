@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process entry helper for stability reports
+// summary: Implements AddProcessForSnapshot, which appends a new ProcessState entry for a given process ID to a StabilityReport.
+// ---
+
 #include "components/stability_report/user_stream_data_source.h"
 
 namespace stability_report {

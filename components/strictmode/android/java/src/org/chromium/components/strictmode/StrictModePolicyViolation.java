@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StrictModePolicyViolation
+// summary: Placeholder Error thrown for the custom StrictMode death penalty, carrying the violation message and stack trace.
+// ---
+
 package org.chromium.components.strictmode;
 
 import org.chromium.build.annotations.NullMarked;

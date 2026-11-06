@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spellcheck feature flag declarations
+// summary: Declares spellcheck feature accessors and base::Feature flags controlling browser spellchecker use, regional endpoints, lazy initialization, and on-demand dictionary loading.
+// ---
+
 #ifndef COMPONENTS_SPELLCHECK_COMMON_SPELLCHECK_FEATURES_H_
 #define COMPONENTS_SPELLCHECK_COMMON_SPELLCHECK_FEATURES_H_
 

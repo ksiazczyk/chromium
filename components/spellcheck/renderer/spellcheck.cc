@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpellCheck implementation for the renderer process
+// summary: Implements shared per-process spellchecking logic, including language handling, apostrophe-preserving suggestion filtering, and dictionary update notifications.
+// ---
+
 #include "components/spellcheck/renderer/spellcheck.h"
 
 #include <stddef.h>

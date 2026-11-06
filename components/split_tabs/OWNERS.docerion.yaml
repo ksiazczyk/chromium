@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Split tabs code owners
+summary: Points to the tabs OWNERS files in chrome browser UI and components that own and review this folder.

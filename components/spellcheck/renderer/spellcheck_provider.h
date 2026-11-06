@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpellCheckProvider class header
+// summary: Declares SpellCheckProvider, which asynchronously invokes browser spelling and grammar checking services for a render frame.
+// ---
+
 #ifndef COMPONENTS_SPELLCHECK_RENDERER_SPELLCHECK_PROVIDER_H_
 #define COMPONENTS_SPELLCHECK_RENDERER_SPELLCHECK_PROVIDER_H_
 

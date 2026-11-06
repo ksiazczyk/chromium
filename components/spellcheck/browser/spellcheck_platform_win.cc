@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows implementation of the platform spellcheck interface
+// summary: Implements the platform spellcheck interface on Windows by delegating to the native WindowsSpellChecker for language support and text checks.
+// ---
+
 #include "components/spellcheck/browser/spellcheck_platform.h"
 
 #include <string>

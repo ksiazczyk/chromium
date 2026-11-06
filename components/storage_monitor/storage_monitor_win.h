@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageMonitorWin class header
+// summary: Declares StorageMonitorWin, the Windows storage monitor that handles device change notifications, storage info lookups, and device ejection.
+// ---
+
 #ifndef COMPONENTS_STORAGE_MONITOR_STORAGE_MONITOR_WIN_H_
 #define COMPONENTS_STORAGE_MONITOR_STORAGE_MONITOR_WIN_H_
 

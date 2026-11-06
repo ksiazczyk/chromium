@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VFS client identifier enum
+// summary: Defines the Client enum naming sandboxed file set users such as code and shader caches, used for metrics reporting.
+// ---
+
 #ifndef COMPONENTS_SQLITE_VFS_CLIENT_H_
 #define COMPONENTS_SQLITE_VFS_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for StreamingWebSocketClient
+// summary: Tests connection, message sending, and error handling of the WebSocket client using mock network context, fake WebSocket, and mock delegate classes.
+// ---
+
 #include "components/streaming_client/streaming_websocket_client.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: SQLite Encrypted VFS owners
+summary: OWNERS file that delegates ownership to the components/sqlite_vfs OWNERS file.

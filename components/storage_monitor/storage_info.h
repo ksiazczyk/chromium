@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageInfo class declaration
+// summary: Declares StorageInfo, which models a storage device with ID, location, label, vendor, model and size, plus static device ID helpers.
+// ---
+
 #ifndef COMPONENTS_STORAGE_MONITOR_STORAGE_INFO_H_
 #define COMPONENTS_STORAGE_MONITOR_STORAGE_INFO_H_
 

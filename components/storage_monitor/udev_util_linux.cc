@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux udev device property helper
+// summary: Provides a helper that reads a udev device property value for a given device path on Linux.
+// ---
+
 #include "components/storage_monitor/udev_util_linux.h"
 
 #include "base/files/file_path.h"

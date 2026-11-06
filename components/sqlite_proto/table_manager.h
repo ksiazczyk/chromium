@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TableManager base class for database task scheduling
+// summary: Declares the refcounted TableManager base class that manages database access and schedules tasks on the database sequence.
+// ---
+
 #ifndef COMPONENTS_SQLITE_PROTO_TABLE_MANAGER_H_
 #define COMPONENTS_SQLITE_PROTO_TABLE_MANAGER_H_
 

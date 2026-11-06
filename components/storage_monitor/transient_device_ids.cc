@@ -4,6 +4,12 @@
 
 // TransientDeviceIds implementation.
 
+// ---docerion
+// type: source
+// title: TransientDeviceIds implementation
+// summary: Maps persistent storage device IDs to random transient UUIDs so device IDs are not exposed to renderers, keeping each mapping for the object's lifetime.
+// ---
+
 #include "components/storage_monitor/transient_device_ids.h"
 
 #include "base/check.h"

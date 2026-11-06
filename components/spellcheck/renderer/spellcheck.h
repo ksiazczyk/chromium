@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpellCheck class header
+// summary: Declares the SpellCheck class that provides shared spellchecking data and logic for all render views in a render process.
+// ---
+
 #ifndef COMPONENTS_SPELLCHECK_RENDERER_SPELLCHECK_H_
 #define COMPONENTS_SPELLCHECK_RENDERER_SPELLCHECK_H_
 

@@ -1,3 +1,9 @@
+---
+type: readme
+title: SQLite Migration VFS component README
+summary: Explains the block-based online SQLite migration design and the PageMigrationTracker API for foreground, background, and status paths.
+---
+
 # SQLite Migration VFS (`components/sqlite_migration_vfs`)
 
 This component provides a Virtual File System (VFS) and supporting primitives for online SQLite database migration in Chromium.

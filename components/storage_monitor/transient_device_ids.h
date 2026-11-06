@@ -7,6 +7,12 @@
 // gets mapped to a transient ID, the mapping remains valid for the duration of
 // TransientDeviceIds' lifetime.
 
+// ---docerion
+// type: source
+// title: TransientDeviceIds header
+// summary: Declares TransientDeviceIds, which assigns stable transient IDs to fixed or removable device IDs to avoid exposing persistent IDs to renderers.
+// ---
+
 #ifndef COMPONENTS_STORAGE_MONITOR_TRANSIENT_DEVICE_IDS_H_
 #define COMPONENTS_STORAGE_MONITOR_TRANSIENT_DEVICE_IDS_H_
 

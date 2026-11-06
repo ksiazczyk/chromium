@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for StorageInfo device IDs
+// summary: Unit tests verifying MakeDeviceId and CrackDeviceId behavior for MTP device IDs on ChromeOS.
+// ---
+
 #include "components/storage_monitor/storage_info.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Java tests DEPS include rules
+summary: Defines include rules for the javatests directory, allowing dependencies on content/public/test/android.

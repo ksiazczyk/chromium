@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Startup metric utils common build target definition
+summary: Defines the common source_set for startup metric utils, listing its sources, defines, dependencies, and restricting visibility to the startup_metric_utils component.

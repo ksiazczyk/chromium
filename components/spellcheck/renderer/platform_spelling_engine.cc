@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform spelling engine implementation
+// summary: Implements a spelling engine that delegates spell checks and suggestions to the browser or platform spellchecker via the SpellCheckHost.
+// ---
+
 #include "components/spellcheck/renderer/platform_spelling_engine.h"
 
 #include "components/spellcheck/spellcheck_buildflags.h"

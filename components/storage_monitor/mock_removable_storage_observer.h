@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock removable storage observer interface
+// summary: Declares a mock RemovableStorageObserver that tracks attach and detach calls for use in unit tests.
+// ---
+
 #ifndef COMPONENTS_STORAGE_MONITOR_MOCK_REMOVABLE_STORAGE_OBSERVER_H_
 #define COMPONENTS_STORAGE_MONITOR_MOCK_REMOVABLE_STORAGE_OBSERVER_H_
 

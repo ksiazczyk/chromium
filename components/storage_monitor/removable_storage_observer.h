@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemovableStorageObserver interface
+// summary: Declares the RemovableStorageObserver interface that clients implement to receive removable storage attach and detach notifications.
+// ---
+
 #ifndef COMPONENTS_STORAGE_MONITOR_REMOVABLE_STORAGE_OBSERVER_H_
 #define COMPONENTS_STORAGE_MONITOR_REMOVABLE_STORAGE_OBSERVER_H_
 

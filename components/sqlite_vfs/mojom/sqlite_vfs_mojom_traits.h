@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Serialization traits declarations for SQLite VFS file sets
+// summary: Declares StructTraits that map sqlite_vfs::PendingFileSet to the read-only and read-write mojom file set structs.
+// ---
+
 #ifndef COMPONENTS_SQLITE_VFS_MOJOM_SQLITE_VFS_MOJOM_TRAITS_H_
 #define COMPONENTS_SQLITE_VFS_MOJOM_SQLITE_VFS_MOJOM_TRAITS_H_
 

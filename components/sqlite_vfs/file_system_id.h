@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileSystemId struct and GetFileSystemId declaration
+// summary: Declares the platform-specific FileSystemId struct and the GetFileSystemId function that returns a unique identifier for a physical file.
+// ---
+
 #ifndef COMPONENTS_SQLITE_VFS_FILE_SYSTEM_ID_H_
 #define COMPONENTS_SQLITE_VFS_FILE_SYSTEM_ID_H_
 

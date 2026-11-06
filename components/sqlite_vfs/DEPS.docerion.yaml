@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: SQLite VFS include dependency rules
+summary: Restricts includes for the sqlite_vfs directory, allowing mojo, sql and sqlite and granting extra mojo embedder access to the multiprocess unittest.

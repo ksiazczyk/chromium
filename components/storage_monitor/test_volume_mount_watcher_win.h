@@ -5,6 +5,12 @@
 // This file contains a subclass of VolumeMountWatcherWin to expose some
 // functionality for testing.
 
+// ---docerion
+// type: test
+// title: TestVolumeMountWatcherWin header
+// summary: Declares a VolumeMountWatcherWin test subclass exposing fake attached devices, test device addition, and control over device checks.
+// ---
+
 #ifndef COMPONENTS_STORAGE_MONITOR_TEST_VOLUME_MOUNT_WATCHER_WIN_H_
 #define COMPONENTS_STORAGE_MONITOR_TEST_VOLUME_MOUNT_WATCHER_WIN_H_
 

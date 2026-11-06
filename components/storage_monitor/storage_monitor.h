@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage monitor base class header
+// summary: Declares the platform-independent StorageMonitor base class for removable storage attach, detach and eject handling.
+// ---
+
 #ifndef COMPONENTS_STORAGE_MONITOR_STORAGE_MONITOR_H_
 #define COMPONENTS_STORAGE_MONITOR_STORAGE_MONITOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of multiprocess_test.test-mojom.
+type: test
+title: Multiprocess test Mojom interfaces
+summary: Defines Mojom interfaces for read-only and read-write database connections used to drive child processes in multiprocess VFS tests.

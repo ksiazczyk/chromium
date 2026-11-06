@@ -1,3 +1,9 @@
+---
+type: reference
+title: Spellcheck build flag documentation
+summary: Documents the use_browser_spellchecker and use_renderer_spellchecker build flags, including Windows runtime selection and hybrid spellchecker behavior.
+---
+
 # About the 'use_browser_spellchecker' and 'use_renderer_spellchecker' build time flag.
 
 ## use_browser_spellchecker

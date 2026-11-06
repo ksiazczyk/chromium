@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for KeyValueData
+// summary: Tests KeyValueData get, update, delete and cache behavior using fake table and manager implementations with a test proto.
+// ---
+
 #include "components/sqlite_proto/key_value_data.h"
 
 #include "base/memory/scoped_refptr.h"

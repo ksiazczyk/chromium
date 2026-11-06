@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the macOS platform spellchecker
+// summary: Unit tests for the macOS platform spellchecker covering ignored words, spelling suggestions, and text checking behavior.
+// ---
+
 #include "components/spellcheck/browser/spellcheck_platform.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows volume mount watcher implementation
+// summary: Implements Windows volume mount watching, classifying drives as fixed, removable, or floppy and reporting attach, detach, and eject events to StorageMonitor.
+// ---
+
 #include "components/storage_monitor/volume_mount_watcher_win.h"
 
 #include <windows.h>

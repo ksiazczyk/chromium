@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: SQLite VFS build configuration
+summary: Defines GN build targets for the pending_file_set and sqlite_vfs components, test mojom bindings and unit test sources.

@@ -1,0 +1,4 @@
+# Docerion header of spellcheck_build_features.gni.
+type: config
+title: Spellcheck build feature declarations
+summary: GN import declaring spellcheck build feature variables like enable_spellcheck, platform spellchecker choice, and the Mac-only spellcheck panel.

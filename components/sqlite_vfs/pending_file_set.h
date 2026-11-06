@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pending file set for opening sandboxed databases
+// summary: Declares the PendingFileSet struct holding the file handles and shared lock state required to open a database via the SQLite sandboxed VFS.
+// ---
+
 #ifndef COMPONENTS_SQLITE_VFS_PENDING_FILE_SET_H_
 #define COMPONENTS_SQLITE_VFS_PENDING_FILE_SET_H_
 

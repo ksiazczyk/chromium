@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpellCheckHost implementation
+// summary: Implements the basic SpellCheckHost Mojo interface with message validation and Android session bridge handling.
+// ---
+
 #include "components/spellcheck/browser/spell_check_host_impl.h"
 
 #include "build/build_config.h"

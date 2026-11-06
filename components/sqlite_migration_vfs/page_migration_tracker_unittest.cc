@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page migration tracker unit tests
+// summary: Unit tests for PageMigrationTracker covering empty and single-page trackers, 64-page block boundaries, dynamic page growth, and block locking during migration.
+// ---
+
 #include "components/sqlite_migration_vfs/page_migration_tracker.h"
 
 #include <optional>

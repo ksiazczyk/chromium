@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Spellcheck renderer include dependency rules
+summary: Lists the include paths permitted for code in the spellcheck renderer directory, such as content, IPC, mojo, and Hunspell.

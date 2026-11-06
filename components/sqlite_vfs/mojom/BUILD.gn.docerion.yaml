@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: SQLite VFS mojom build definitions
+summary: Defines GN targets for generating the SQLite VFS mojom bindings, shared typemaps, traits component, and unit tests.

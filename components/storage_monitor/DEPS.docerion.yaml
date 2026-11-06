@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Storage monitor include dependency rules
+summary: Declares the include paths permitted for code in the storage_monitor directory.

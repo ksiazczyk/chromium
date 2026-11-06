@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojom traits for spellcheck types
+// summary: Implements mojo serialization between the native spellcheck Decoration, SpellCheckResult, and SpellingMarker types and their mojom counterparts.
+// ---
+
 #include "components/spellcheck/common/spellcheck_mojom_traits.h"
 
 #include <algorithm>

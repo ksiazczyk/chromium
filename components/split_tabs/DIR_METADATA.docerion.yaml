@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Split tabs bug tracking metadata
+summary: Specifies the Monorail component and Buganizer component ID used for filing bugs against this folder.

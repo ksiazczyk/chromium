@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for startup_metric_utils
+summary: GN build file that defines the startup_metric_utils component aggregating its browser, common, gpu and renderer subcomponents.

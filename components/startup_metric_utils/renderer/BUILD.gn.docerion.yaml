@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the renderer startup metric utils source set
+summary: GN build file defining the renderer source set with its sources, IS_STARTUP_METRIC_UTILS_IMPL define, dependencies, and visibility restricted to startup_metric_utils targets.

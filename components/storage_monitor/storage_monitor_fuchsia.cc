@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia storage monitor stub
+// summary: Stub that leaves StorageMonitor creation unimplemented on Fuchsia and returns a null instance.
+// ---
+
 #include "components/storage_monitor/storage_monitor.h"
 
 #include "base/notimplemented.h"

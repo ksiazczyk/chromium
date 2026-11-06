@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedLocks class header
+// summary: Declares SharedLocks, which manages cross-connection and cross-process SQLite database locks backed by a shared memory region.
+// ---
+
 #ifndef COMPONENTS_SQLITE_VFS_SHARED_LOCKS_H_
 #define COMPONENTS_SQLITE_VFS_SHARED_LOCKS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer startup metric recorder header
+// summary: Declares the RendererStartupMetricRecorder class and GetRenderer accessor for recording the tick time when the renderer is about to enter its main-thread run loop.
+// ---
+
 #ifndef COMPONENTS_STARTUP_METRIC_UTILS_RENDERER_STARTUP_METRIC_UTILS_H_
 #define COMPONENTS_STARTUP_METRIC_UTILS_RENDERER_STARTUP_METRIC_UTILS_H_
 

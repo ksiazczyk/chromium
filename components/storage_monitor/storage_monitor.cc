@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage monitor base class implementation
+// summary: Implements the StorageMonitor singleton that tracks attached storages, notifies observers and maps transient device ids.
+// ---
+
 #include "components/storage_monitor/storage_monitor.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer startup metric recorder implementation
+// summary: Implements GetRenderer and RendererStartupMetricRecorder::RecordRunLoopStart, emitting UMA histograms for renderer startup timings such as process creation to run loop start.
+// ---
+
 #include "components/startup_metric_utils/renderer/startup_metric_utils.h"
 
 #include <type_traits>

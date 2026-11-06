@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQLite migration metrics header
+// summary: Declares migration target, block result, and status enums plus histogram name helpers and UMA recording functions for SQLite migration metrics.
+// ---
+
 #ifndef COMPONENTS_SQLITE_MIGRATION_VFS_SQLITE_MIGRATION_METRICS_H_
 #define COMPONENTS_SQLITE_MIGRATION_VFS_SQLITE_MIGRATION_METRICS_H_
 

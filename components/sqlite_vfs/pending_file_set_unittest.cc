@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pending file set unit tests
+// summary: Tests PendingFileSet total file size computation, exclusion of the WAL-index file, and new-database detection.
+// ---
+
 #include "components/sqlite_vfs/pending_file_set.h"
 
 #include <stdint.h>

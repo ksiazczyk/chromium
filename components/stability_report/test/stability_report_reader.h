@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StabilityReportReader test utility header
+// summary: Declares a test utility class that inspects data collected by Crashpad by parsing it into a StabilityReport.
+// ---
+
 #ifndef COMPONENTS_STABILITY_REPORT_TEST_STABILITY_REPORT_READER_H_
 #define COMPONENTS_STABILITY_REPORT_TEST_STABILITY_REPORT_READER_H_
 

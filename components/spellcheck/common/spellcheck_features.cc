@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spellcheck feature flag implementations
+// summary: Implements spellcheck feature queries such as UseBrowserSpellChecker and Android spellcheck enablement, and defines base::Feature flags.
+// ---
+
 #include "components/spellcheck/common/spellcheck_features.h"
 
 #include "base/system/sys_info.h"

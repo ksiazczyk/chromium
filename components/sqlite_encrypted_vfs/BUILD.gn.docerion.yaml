@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: SQLite Encrypted VFS build targets
+summary: GN build file defining the sqlite_encrypted_vfs component and its testonly unit test source set with their dependencies.

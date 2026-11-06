@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandboxed VFS metrics utilities header
+// summary: Declares GetHistogramName, which constructs SandboxedVfs histogram names from a client, metric, and optional file type.
+// ---
+
 #ifndef COMPONENTS_SQLITE_VFS_METRICS_UTIL_H_
 #define COMPONENTS_SQLITE_VFS_METRICS_UTIL_H_
 

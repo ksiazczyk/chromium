@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommonStartupMetricRecorder class declaration
+// summary: Declares the CommonStartupMetricRecorder class and startup metric utilities shared across processes, with methods for recording startup timings and converting Time values to TimeTicks.
+// ---
+
 #ifndef COMPONENTS_STARTUP_METRIC_UTILS_COMMON_STARTUP_METRIC_UTILS_H_
 #define COMPONENTS_STARTUP_METRIC_UTILS_COMMON_STARTUP_METRIC_UTILS_H_
 

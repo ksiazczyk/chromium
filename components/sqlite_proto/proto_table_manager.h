@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProtoTableManager class for string-to-proto tables
+// summary: Declares ProtoTableManager, a TableManager subclass for initializing string-to-proto tables used together with KeyValueData and KeyValueTable.
+// ---
+
 #ifndef COMPONENTS_SQLITE_PROTO_PROTO_TABLE_MANAGER_H_
 #define COMPONENTS_SQLITE_PROTO_PROTO_TABLE_MANAGER_H_
 

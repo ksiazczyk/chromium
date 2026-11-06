@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SandboxedFile unit tests
+// summary: Unit tests for SandboxedFile covering open and close, read and write operations, locking, and access rights using temporary files and shared lock regions.
+// ---
+
 #include "components/sqlite_vfs/sandboxed_file.h"
 
 #include "base/containers/span.h"

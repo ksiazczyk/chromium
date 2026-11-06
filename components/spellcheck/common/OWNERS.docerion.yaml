@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners rules for spellcheck mojom files
+summary: Delegates review of mojom and mojom traits files to the IPC security owners.
