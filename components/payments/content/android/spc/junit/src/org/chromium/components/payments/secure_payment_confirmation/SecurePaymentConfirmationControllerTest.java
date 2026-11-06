@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SecurePaymentConfirmationController unit tests
+// summary: Robolectric unit tests covering the secure payment confirmation controller, including transaction items, currency formatting, logos, and response handling.
+// ---
+
 package org.chromium.components.payments.secure_payment_confirmation;
 
 import static org.junit.Assert.assertArrayEquals;

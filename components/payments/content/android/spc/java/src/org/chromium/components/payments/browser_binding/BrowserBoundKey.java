@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserBoundKey.java
+// summary: Java class representing a browser bound key pair that signs client data with SHA256withECDSA and exposes the public key as a COSE_Key for Secure Payment Confirmation.
+// ---
+
 package org.chromium.components.payments.browser_binding;
 
 import org.jni_zero.CalledByNative;

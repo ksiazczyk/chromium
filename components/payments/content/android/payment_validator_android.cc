@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment validator Android JNI implementation
+// summary: Implements JNI functions that validate payment details, payment validation errors and secure payment confirmation requests from Java byte buffers.
+// ---
+
 #include <stdint.h>
 
 #include <cstring>

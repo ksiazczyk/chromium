@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment request update event listener header
+// summary: Declares the listener implementing PaymentHandlerHost::Delegate that notifies a Java listener of payment request update events.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_ANDROID_PAYMENT_REQUEST_UPDATE_EVENT_LISTENER_H_
 #define COMPONENTS_PAYMENTS_CONTENT_ANDROID_PAYMENT_REQUEST_UPDATE_EVENT_LISTENER_H_
 

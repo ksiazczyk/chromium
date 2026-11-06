@@ -1,6 +1,13 @@
 // Copyright 2019 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: IconSizeCalculator implementation
+// summary: Implements ideal and minimum payment icon height calculations based on the device scale factor for a given native view.
+// ---
+
 #include "components/payments/content/icon/icon_size.h"
 
 #include "ui/display/display.h"

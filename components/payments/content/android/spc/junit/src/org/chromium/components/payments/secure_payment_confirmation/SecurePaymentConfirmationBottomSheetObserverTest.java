@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SecurePaymentConfirmationBottomSheetObserver unit tests
+// summary: Robolectric unit tests checking observer registration with the bottom sheet controller and that closing the sheet cancels unless the interaction completed.
+// ---
+
 package org.chromium.components.payments.secure_payment_confirmation;
 
 import static org.mockito.ArgumentMatchers.eq;

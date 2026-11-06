@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface for showing payment-related dialogs
+// summary: Interface for displaying ready-to-pay debug information and a blocking warning when the user leaves incognito mode to enter a payment app.
+// ---
+
 package org.chromium.components.payments;
 
 import org.chromium.base.Callback;

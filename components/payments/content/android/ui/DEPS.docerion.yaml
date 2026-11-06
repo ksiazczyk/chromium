@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the payments Android UI directory
+summary: Chromium dependency allowlist permitting includes from components/browser_ui/styles/android within this directory.

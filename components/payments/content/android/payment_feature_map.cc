@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentFeatureMap implementation
+// summary: Defines Android-only payment features and exposes the native feature map to Java through the PaymentFeatureList JNI API.
+// ---
+
 #include "components/payments/content/android/payment_feature_map.h"
 
 #include <jni.h>

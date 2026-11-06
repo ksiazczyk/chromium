@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CurrencyFormatter
+// summary: Java wrapper around a native currency formatter that formats payment amounts and currency codes for display according to the user's locale, with explicit native resource destruction.
+// ---
+
 package org.chromium.components.payments.ui;
 
 import androidx.annotation.VisibleForTesting;

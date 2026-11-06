@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentFeatureMap
+// summary: Java singleton accessor for the state of payments feature flags, backed by a native feature map through JNI.
+// ---
+
 package org.chromium.components.payments;
 
 import androidx.annotation.VisibleForTesting;

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Payments UI color resources
+summary: Android resource XML defining the Google Pay icon color used by the payments UI, mapping it to a shared grey-dark color.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Payments UI colors -->
     <color name="google_pay_icon_color">@color/google_pay_icon_grey_dark</color>

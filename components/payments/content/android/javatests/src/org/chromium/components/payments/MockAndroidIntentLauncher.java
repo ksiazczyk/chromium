@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock Android intent launcher for payment app tests
+// summary: Mock launcher that skips firing Android intents and immediately returns successful intent results with mock shipping address or contact information for payment app tests.
+// ---
+
 package org.chromium.components.payments;
 
 import android.app.Activity;

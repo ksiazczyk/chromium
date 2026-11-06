@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SecurePaymentConfirmationBottomSheetContent unit tests
+// summary: Robolectric unit tests verifying the bottom sheet content's view, scroll offset, height modes, priority, swipe-to-dismiss, and accessibility strings.
+// ---
+
 package org.chromium.components.payments.secure_payment_confirmation;
 
 import static org.junit.Assert.assertEquals;

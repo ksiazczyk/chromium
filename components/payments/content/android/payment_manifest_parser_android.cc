@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment manifest parser Android JNI implementation
+// summary: Implements the Android JNI bridge that parses payment method and web app manifests and converts the results into Java arrays and objects.
+// ---
+
 #include "components/payments/content/android/payment_manifest_parser_android.h"
 
 #include <stddef.h>

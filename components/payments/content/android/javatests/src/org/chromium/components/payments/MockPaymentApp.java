@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock Android payment app for tests
+// summary: Configurable mock payment app with builder-style setters for label, package, method, signature, and delegation flags, used with MockPaymentAppInstaller in tests.
+// ---
+
 package org.chromium.components.payments;
 
 import org.chromium.components.payments.MockPackageManagerDelegate.PackageInfoState;

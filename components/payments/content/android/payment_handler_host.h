@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentHandlerHost Android bridge header
+// summary: Declares the Android PaymentHandlerHost bridge connecting Java payment handler code to the cross-platform payment handler host.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_ANDROID_PAYMENT_HANDLER_HOST_H_
 #define COMPONENTS_PAYMENTS_CONTENT_ANDROID_PAYMENT_HANDLER_HOST_H_
 

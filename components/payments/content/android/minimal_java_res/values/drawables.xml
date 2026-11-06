@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Google Pay drawable aliases
+summary: Android resource XML aliasing product-specific drawable names such as googlepay_pill and googlewallet to the shared Google Pay vector drawable.
+-->
+
 <resources>
     <!-- Keep product-specific resource names as aliases while sharing the
          identical Google Pay vector payload. -->

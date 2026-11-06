@@ -4,6 +4,13 @@ Copyright 2019 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Payment handler content layout
+summary: Android layout hosting the payment handler content inside a PaymentHandlerContentFrameLayout that fills its parent.
+-->
+
 <org.chromium.chrome.browser.payments.handler.PaymentHandlerContentFrameLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/payment_handler_content"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment request service utilities
+// summary: Utility class for PaymentRequestFactory that retrieves a live WebContents from a RenderFrameHost and checks whether it is visible.
+// ---
+
 package org.chromium.components.payments;
 
 import org.chromium.build.annotations.NullMarked;

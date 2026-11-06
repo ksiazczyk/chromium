@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android BrowserBoundKey class declaration
+// summary: Declares BrowserBoundKeyAndroid, which wraps a Java browser bound key implementation, and provides JNI conversion helpers.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_BROWSER_BINDING_BROWSER_BOUND_KEY_ANDROID_H_
 #define COMPONENTS_PAYMENTS_CONTENT_BROWSER_BINDING_BROWSER_BOUND_KEY_ANDROID_H_
 

@@ -6,6 +6,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: PaymentRequest view ID resources
+summary: Declares Android view ID resources used by the PaymentRequest UI, including section, radio button, add option, edit, and label identifiers.
+-->
+
 <resources>
     <!-- PaymentRequest -->
     <item type="id" name="payments_section" />

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentAppFactoryParams
+// summary: Interface supplying payment app factories with request context such as origins, web contents, certificate chain, preferences, and CSP checker.
+// ---
+
 package org.chromium.components.payments;
 
 import org.chromium.build.annotations.NullMarked;

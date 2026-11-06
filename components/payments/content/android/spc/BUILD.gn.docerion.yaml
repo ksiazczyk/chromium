@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Secure Payment Confirmation Android build targets
+summary: GN build file defining the Android Java library for the Secure Payment Confirmation bottom sheet UI and its Robolectric unit test targets with their dependencies.

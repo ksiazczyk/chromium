@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JniPaymentApp
+// summary: Java wrapper around a C++ payment app that forwards invoke, abort, and error results to callbacks and manages the native object lifetime.
+// ---
+
 package org.chromium.components.payments;
 
 import static java.util.Collections.unmodifiableList;

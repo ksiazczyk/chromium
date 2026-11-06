@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputProtector
+// summary: Helper for payments UIs that ignores input events occurring within 500 ms of a dialog being shown, preventing potentially unintended user interaction, with an injectable clock for tests.
+// ---
+
 package org.chromium.components.payments.ui;
 
 import androidx.annotation.VisibleForTesting;

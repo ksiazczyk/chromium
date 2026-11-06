@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installer for fake Android payment apps in tests
+// summary: Installs mock payment apps by wiring mock package manager, manifest downloader, and intent launcher doubles into AndroidPaymentAppFinder for testing.
+// ---
+
 package org.chromium.components.payments;
 
 import java.util.ArrayList;

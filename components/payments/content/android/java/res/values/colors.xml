@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Payments UI color resources
+summary: Defines Android color resources for the payments UI, mapping the payments section chevron to a semi-transparent black color.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Payments UI colors -->
     <color name="payments_section_chevron">@color/black_alpha_30</color>

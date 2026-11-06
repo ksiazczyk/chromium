@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment request spec Android bridge header
+// summary: Declares the Android bridge owning a C++ PaymentRequestSpec, exposing update, retry and serialization methods for the Java payment request flow.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_ANDROID_PAYMENT_REQUEST_SPEC_H_
 #define COMPONENTS_PAYMENTS_CONTENT_ANDROID_PAYMENT_REQUEST_SPEC_H_
 

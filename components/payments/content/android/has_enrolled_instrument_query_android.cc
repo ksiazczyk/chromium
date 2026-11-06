@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI entry point for has-enrolled-instrument queries
+// summary: JNI function that checks whether payment method identifiers may query enrolled instruments for given top-level and frame origins.
+// ---
+
 #include <map>
 #include <set>
 #include <string>

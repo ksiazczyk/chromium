@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlUtil
+// summary: Utility for URL checks in web payments, covering URL validity, origin permission, payment method identifiers, and local development URLs.
+// ---
+
 package org.chromium.components.payments;
 
 import org.jni_zero.JNINamespace;

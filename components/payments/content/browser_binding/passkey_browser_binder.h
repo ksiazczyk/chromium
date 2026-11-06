@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasskeyBrowserBinder
+// summary: Declares PasskeyBrowserBinder, which binds browser bound keys to passkeys for Secure Payment Confirmation, including usage examples for key creation and retrieval.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_BROWSER_BINDING_PASSKEY_BROWSER_BINDER_H_
 #define COMPONENTS_PAYMENTS_CONTENT_BROWSER_BINDING_PASSKEY_BROWSER_BINDER_H_
 

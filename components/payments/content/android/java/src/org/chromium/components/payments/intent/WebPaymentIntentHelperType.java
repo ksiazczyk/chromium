@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebPaymentIntentHelperType
+// summary: Defines payment data types mirroring the payments mojom types, with JSON serialization and Bundle conversion for Android payment app communication.
+// ---
+
 package org.chromium.components.payments.intent;
 
 import android.os.Bundle;

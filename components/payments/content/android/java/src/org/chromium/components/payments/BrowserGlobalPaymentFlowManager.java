@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manager enforcing one active payment flow per browser process
+// summary: Tracks the currently showing payment flow so at most one payment UI runs per browser process and wires up the payment details update service for invoked apps.
+// ---
+
 package org.chromium.components.payments;
 
 import org.chromium.build.annotations.NullMarked;

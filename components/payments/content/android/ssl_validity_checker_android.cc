@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL validity checker JNI bridge
+// summary: JNI bridge that exposes SSL certificate error messages and page validity checks for payment handler windows to the Java layer.
+// ---
+
 #include "base/android/jni_string.h"
 #include "base/android/scoped_java_ref.h"
 #include "components/payments/content/ssl_validity_checker.h"

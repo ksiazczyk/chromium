@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CSP checker JNI bridge implementation
+// summary: Implements CSPCheckerAndroid, forwarding content security policy connection checks to a Java bridge and routing results back via callbacks.
+// ---
+
 #include "components/payments/content/android/csp_checker_android.h"
 
 #include "url/android/gurl_android.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentRequestWebContentsData
+// summary: Per-WebContents tracker of PaymentRequest state that outlives individual requests, such as activationless show() calls and SPC transaction mode.
+// ---
+
 package org.chromium.components.payments;
 
 import androidx.annotation.VisibleForTesting;

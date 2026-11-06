@@ -9,6 +9,13 @@ found in the LICENSE file.
      Request dialog: Displays an X in the top right corner, allowing the user to close it.
      Result dialog:  Displays no X.  Title goes all the way to the end.
 -->
+
+<!--docerion
+type: source
+title: Payment request header layout
+summary: Header layout showing the site icon, page title and hostname, with a close button shown only in the request dialog variant.
+-->
+
 <merge xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <org.chromium.chrome.browser.payments.ui.PaymentRequestHeader

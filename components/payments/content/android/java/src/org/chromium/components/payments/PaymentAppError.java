@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentAppError
+// summary: Error object bundling a payment event response type and a developer-facing error message for payment app failures.
+// ---
+
 package org.chromium.components.payments;
 
 import org.chromium.build.annotations.NullMarked;

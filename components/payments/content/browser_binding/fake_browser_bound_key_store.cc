@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake browser bound key store for tests
+// summary: Implements a fake key store that serves preloaded fake browser bound keys and supports deletion and hardware key queries in tests.
+// ---
+
 #include "components/payments/content/browser_binding/fake_browser_bound_key_store.h"
 
 #include "base/memory/weak_ptr.h"

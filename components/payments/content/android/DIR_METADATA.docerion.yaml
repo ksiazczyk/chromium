@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA tagging the directory as Android
+summary: 'Directory metadata that tags this folder with os: ANDROID for Chromium tooling and ownership queries.'

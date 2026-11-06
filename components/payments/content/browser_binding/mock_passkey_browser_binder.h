@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock PasskeyBrowserBinder
+// summary: GMock implementation of PasskeyBrowserBinder that stubs listing and deleting browser bound keys for use in tests.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_BROWSER_BINDING_MOCK_PASSKEY_BROWSER_BINDER_H_
 #define COMPONENTS_PAYMENTS_CONTENT_BROWSER_BINDING_MOCK_PASSKEY_BROWSER_BINDER_H_
 

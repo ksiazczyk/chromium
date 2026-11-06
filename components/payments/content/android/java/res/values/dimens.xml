@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Payments UI dimension resources
+summary: Defines dimension values for the payments UI and Secure Payment Confirmation UI, covering icon sizes, spacing, padding, and dialog measurements.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- go/keep-sorted start -->
     <!-- Payments UI -->

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment not shown error
+// summary: Holds error details for payment UIs that were not shown and maps the not-shown reason to a PaymentErrorReason for developers and metrics.
+// ---
+
 package org.chromium.components.payments;
 
 import org.chromium.build.annotations.NullMarked;

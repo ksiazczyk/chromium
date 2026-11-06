@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web payments web data service Android wrapper
+// summary: Android JNI wrapper that caches and fetches payment method and payment web app manifests through the web data service.
+// ---
+
 #include "components/payments/content/android/web_payments_web_data_service_android.h"
 
 #include <string>

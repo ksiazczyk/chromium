@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test merchant checkout page contents for PaymentRequest
+// summary: Builds HTML and JavaScript contents of a merchant checkout page that invokes the PaymentRequest API with configurable methods and requested information for tests.
+// ---
+
 package org.chromium.components.payments;
 
 import java.util.ArrayList;

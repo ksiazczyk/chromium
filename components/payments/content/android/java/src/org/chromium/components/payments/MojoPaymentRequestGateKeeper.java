@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoPaymentRequestGateKeeper
+// summary: Guards against invalid Mojo parameters and enforces the correct call sequence from the untrusted renderer before creating PaymentRequestService.
+// ---
+
 package org.chromium.components.payments;
 
 import org.chromium.build.annotations.NullMarked;

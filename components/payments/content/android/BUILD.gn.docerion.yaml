@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the Android payments content library
+summary: Defines the Android payments static library with its sources and dependencies, plus JNI header generation and Java resource targets.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment App Deduplication Unit Tests
+// summary: Unit tests for the payment app deduplication logic in PaymentAppService, triggered through its public create API to check Google Pay and method-based hiding.
+// ---
+
 package org.chromium.components.payments;
 
 import androidx.annotation.Nullable;

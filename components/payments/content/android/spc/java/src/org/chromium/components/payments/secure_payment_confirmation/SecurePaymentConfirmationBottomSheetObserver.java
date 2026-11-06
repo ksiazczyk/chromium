@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure payment confirmation bottom sheet observer
+// summary: Observes bottom sheet close events and notifies the controller delegate when the user cancels the secure payment confirmation sheet.
+// ---
+
 package org.chromium.components.payments.secure_payment_confirmation;
 
 import static org.chromium.build.NullUtil.assertNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SecurePaymentConfirmationViewBinder integration tests
+// summary: Robolectric integration tests binding the payment confirmation model to its view and checking header illustration, logo rows, and other UI states.
+// ---
+
 package org.chromium.components.payments.secure_payment_confirmation;
 
 import static org.junit.Assert.assertEquals;

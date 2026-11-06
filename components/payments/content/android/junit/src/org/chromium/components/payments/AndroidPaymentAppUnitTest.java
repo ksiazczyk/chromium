@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android Payment App Unit Tests
+// summary: Unit tests for the Android intent-based payment app, covering ready-to-pay queries, ready-to-pay debug info display, enrolled instruments, and payment invocation.
+// ---
+
 package org.chromium.components.payments;
 
 import android.app.Activity;

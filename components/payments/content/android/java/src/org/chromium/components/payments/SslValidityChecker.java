@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SslValidityChecker
+// summary: JNI-based checker for SSL certificate validity and for whether web contents may be shown in a payment handler window.
+// ---
+
 package org.chromium.components.payments;
 
 import org.jni_zero.JNINamespace;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android payment feature declarations
+// summary: Declares Android-only payment feature flags such as Google Pay via Android intents and omitting parameters in ready-to-pay requests.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_ANDROID_PAYMENT_FEATURE_MAP_H_
 #define COMPONENTS_PAYMENTS_CONTENT_ANDROID_PAYMENT_FEATURE_MAP_H_
 

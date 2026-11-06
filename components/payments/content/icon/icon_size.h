@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IconSizeCalculator header
+// summary: Declares the IconSizeCalculator class that computes payment icon heights as 32 pixels times the device scale factor.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_ICON_ICON_SIZE_H_
 #define COMPONENTS_PAYMENTS_CONTENT_ICON_ICON_SIZE_H_
 

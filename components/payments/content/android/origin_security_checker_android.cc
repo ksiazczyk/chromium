@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OriginSecurityChecker JNI implementation
+// summary: Implements JNI checks that determine whether a payment URL is potentially trustworthy or uses a cryptographic scheme.
+// ---
+
 #include "base/android/jni_string.h"
 #include "base/android/scoped_java_ref.h"
 #include "services/network/public/cpp/is_potentially_trustworthy.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentAppServiceDelegate
+// summary: Interface for clients of PaymentAppService, receiving payment app creation results, can-make-payment values, error notifications, and opt-out flow signals.
+// ---
+
 package org.chromium.components.payments;
 
 import org.chromium.build.annotations.NullMarked;

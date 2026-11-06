@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentDetailsUpdateConnection
+// summary: Service connection helper that binds to a payment app's payment details update service and reconnects with retries after unexpected disconnects.
+// ---
+
 package org.chromium.components.payments;
 
 import android.content.ComponentName;

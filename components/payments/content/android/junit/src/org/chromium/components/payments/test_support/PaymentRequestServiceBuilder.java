@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Builder of PaymentRequestService for testing
+// summary: Builds PaymentRequestService instances with mocked browser dependencies and configurable payment details, methods, and options for use in unit tests.
+// ---
+
 package org.chromium.components.payments.test_support;
 
 import androidx.annotation.Nullable;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment request update event listener implementation
+// summary: Forwards payment method, shipping option and shipping address change events from the payment handler host to a Java listener.
+// ---
+
 #include "components/payments/content/android/payment_request_update_event_listener.h"
 
 #include "base/android/jni_android.h"

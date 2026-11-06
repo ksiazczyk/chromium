@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasskeyBrowserBinder implementation
+// summary: Implements PasskeyBrowserBinder, which creates unbound browser bound keys, binds them to passkey credential IDs and looks up or creates keys via the web data service.
+// ---
+
 #include "components/payments/content/browser_binding/passkey_browser_binder.h"
 
 #include <cstdint>

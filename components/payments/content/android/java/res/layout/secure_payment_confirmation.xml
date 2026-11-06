@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Secure payment confirmation layout
+summary: Layout for the secure payment confirmation bottom sheet with header illustration, merchant logos, item list and optional opt-out text.
+-->
+
 <ScrollView
     xmlns:tools="http://schemas.android.com/tools"
     xmlns:android="http://schemas.android.com/apk/res/android"

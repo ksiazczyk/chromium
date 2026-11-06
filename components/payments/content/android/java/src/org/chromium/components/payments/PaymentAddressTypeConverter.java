@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentAddressTypeConverter
+// summary: Utility class converting payment addresses between the internal Address type and the mojo PaymentAddress type.
+// ---
+
 package org.chromium.components.payments;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

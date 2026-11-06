@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment URL utility JNI bridge
+// summary: JNI bridge exposing checks for origins allowed to use web payment APIs, URL-based payment method identifiers and local development URLs.
+// ---
+
 #include "components/payments/core/url_util.h"
 #include "base/android/jni_string.h"
 #include "base/android/scoped_java_ref.h"

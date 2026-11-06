@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentDetailsUpdateServiceHelper
+// summary: Singleton helper that lets Android payment apps notify the browser of user changes to payment method, shipping address, or shipping option, with caller authorization.
+// ---
+
 package org.chromium.components.payments;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

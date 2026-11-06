@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop BrowserBoundKey implementation
+// summary: Implements BrowserBoundKey on desktop using an unexportable signing key and records sign latency histogram metrics.
+// ---
+
 #include "components/payments/content/browser_binding/browser_bound_key_desktop.h"
 
 #include <memory>

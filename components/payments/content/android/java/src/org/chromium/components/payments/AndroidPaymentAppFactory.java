@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Factory that looks up installed Android payment apps
+// summary: Payment app factory that finds installed third-party Android payment apps and provides helpers to detect them and fetch their labels and icons.
+// ---
+
 package org.chromium.components.payments;
 
 import android.content.Intent;

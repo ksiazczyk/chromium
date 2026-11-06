@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Payment request loading spinner layout
+summary: Layout with an indeterminate progress bar and centered status message shown while the payment request UI loads or processes.
+-->
+
 <!-- Indeterminate spinny used to show that things are being loaded in the PaymentRequestUi.
      Margins in this file are assigned so that it can be either included or inflated and have
      the correct margins for the situation.  When included in the main bottom sheet, the

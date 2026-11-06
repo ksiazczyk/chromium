@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeClock test double for InputProtector.Clock
+// summary: Provides a controllable Clock implementation that lets payment UI tests simulate advancing time when exercising InputProtector.
+// ---
+
 package org.chromium.components.payments.ui.test_support;
 
 import org.chromium.components.payments.ui.InputProtector;

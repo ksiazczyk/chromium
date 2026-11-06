@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Payments icon DEPS include rules
+summary: Grants the payments icon directory permission to include headers from ui/display.

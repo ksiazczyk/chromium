@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IsReadyToPayServiceHelper
+// summary: Binds to a payment app's IsReadyToPay service and asynchronously reports whether the app is ready to pay, with timeouts for connection and response.
+// ---
+
 package org.chromium.components.payments.intent;
 
 import android.content.ComponentName;

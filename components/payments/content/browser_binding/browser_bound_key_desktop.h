@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop BrowserBoundKey class declaration
+// summary: Declares BrowserBoundKeyDesktop, which wraps a crypto UnexportableSigningKey restricted to ECDSA_SHA256 or RSA_PKCS1_SHA256 algorithms.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_BROWSER_BINDING_BROWSER_BOUND_KEY_DESKTOP_H_
 #define COMPONENTS_PAYMENTS_CONTENT_BROWSER_BINDING_BROWSER_BOUND_KEY_DESKTOP_H_
 

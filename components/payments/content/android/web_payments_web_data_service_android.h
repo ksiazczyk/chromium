@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web payments web data service Android wrapper header
+// summary: Header declaring the Android JNI wrapper for the web payments web data service and its manifest request and callback methods.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_ANDROID_WEB_PAYMENTS_WEB_DATA_SERVICE_ANDROID_H_
 #define COMPONENTS_PAYMENTS_CONTENT_ANDROID_WEB_PAYMENTS_WEB_DATA_SERVICE_ANDROID_H_
 

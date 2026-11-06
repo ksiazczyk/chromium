@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android currency formatter JNI implementation
+// summary: Implements CurrencyFormatterAndroid, forwarding Java calls for currency formatting, fractional digits and currency codes to the payments core CurrencyFormatter.
+// ---
+
 #include "components/payments/content/android/ui/currency_formatter_android.h"
 
 #include <memory>

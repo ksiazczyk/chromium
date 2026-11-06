@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAppManifestSection payment app manifest data class
+// summary: Java equivalent of the native WebAppManifestSection struct, holding a payment app's package name, minimum version and certificate fingerprints.
+// ---
+
 package org.chromium.components.payments;
 
 import org.chromium.build.annotations.NullMarked;
