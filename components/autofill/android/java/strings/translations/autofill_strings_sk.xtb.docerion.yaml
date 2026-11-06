@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_sk.xtb.
+type: data
+title: Slovak autofill strings translation bundle
+summary: XML translation bundle with Slovak Android autofill strings, including the autofill popup notification and passkey prompt messages.

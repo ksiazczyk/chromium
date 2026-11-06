@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_is.xtb.
+type: data
+title: Icelandic autofill strings translation bundle
+summary: Icelandic XTB translation bundle with Android autofill UI strings, covering the autofill popup display and passkey usage messages.

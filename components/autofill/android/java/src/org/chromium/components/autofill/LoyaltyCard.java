@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoyaltyCard
+// summary: Model of a loyalty card from Google Wallet, carrying card number, merchant and program details, logo, merchant domains and usage statistics.
+// ---
+
 package org.chromium.components.autofill;
 
 import org.jni_zero.CalledByNative;

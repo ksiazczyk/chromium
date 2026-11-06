@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_it.xtb.
+type: data
+title: Italian autofill strings translation bundle
+summary: Italian XTB translation bundle with Android autofill UI strings, covering the autofill popup display and passkey usage messages.

@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_en-GB.xtb.
+type: data
+title: British English autofill string translations
+summary: British English translation bundle for Android autofill strings, covering the autofill pop-up notification and the use-a-passkey prompt.

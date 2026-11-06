@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Ownership file for the Android autofill payments component that delegates review ownership to the infobar and core payments OWNERS files.

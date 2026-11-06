@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_sr-Latn.xtb.
+type: data
+title: Serbian Latin autofill strings translation bundle
+summary: XML translation bundle with Serbian (Latin script) Android autofill strings, including the autofill popup notification and passkey prompt messages.

@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_zh-TW.xtb.
+type: data
+title: Traditional Chinese (Taiwan) autofill strings translation bundle
+summary: Traditional Chinese (Taiwan) translations for Android autofill UI strings, covering the autofill popup notification and the use passkey prompt in XTB format.

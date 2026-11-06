@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_fi.xtb.
+type: data
+title: Finnish autofill strings translation bundle
+summary: XML translation bundle with Finnish localized strings for the Android autofill UI, covering the autofill popup message and the use passkey prompt.

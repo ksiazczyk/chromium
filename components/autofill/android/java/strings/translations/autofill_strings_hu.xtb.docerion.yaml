@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_hu.xtb.
+type: data
+title: Hungarian autofill strings translation bundle
+summary: XML translation bundle with Hungarian localized strings for the Android autofill UI, covering the autofill popup message and the use passkey prompt.

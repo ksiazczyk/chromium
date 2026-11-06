@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI source attribution info model
+// summary: Java model holding provenance information for an Autofill AI entity source, such as source type, URL and title, populated from native code.
+// ---
+
 package org.chromium.components.autofill.autofill_ai;
 
 import org.jni_zero.CalledByNative;

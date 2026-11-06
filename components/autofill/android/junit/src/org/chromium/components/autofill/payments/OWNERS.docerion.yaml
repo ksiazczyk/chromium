@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the payments test directory
+summary: Delegates code ownership to the payments OWNERS file in the main autofill Android source tree.

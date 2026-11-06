@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_lt.xtb.
+type: data
+title: Lithuanian autofill strings translation bundle
+summary: Lithuanian XTB translation bundle with localized Android autofill strings, including the autofill popup notice and the passkey usage prompt.

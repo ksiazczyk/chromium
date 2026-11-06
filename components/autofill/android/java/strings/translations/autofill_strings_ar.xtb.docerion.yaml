@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_ar.xtb.
+type: data
+title: Arabic autofill strings translation bundle
+summary: Arabic translations of Android autofill UI strings, covering the autofill popup notification and the use-passkey prompt.

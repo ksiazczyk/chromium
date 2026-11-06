@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_vi.xtb.
+type: data
+title: Vietnamese autofill strings translation bundle
+summary: Vietnamese translations for Android autofill UI strings, covering the autofill popup notification and the use passkey prompt in XTB format.

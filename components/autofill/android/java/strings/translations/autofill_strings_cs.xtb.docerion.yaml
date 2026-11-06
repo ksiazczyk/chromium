@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_cs.xtb.
+type: data
+title: Czech autofill string translations
+summary: Czech translation bundle for Android autofill strings, covering the autofill pop-up notification and the use-a-passkey prompt.

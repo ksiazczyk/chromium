@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillAddressEditorUiInfo
+// summary: Carrier for address editor UI metadata, holding the best language tag and the list of address field components received from native code.
+// ---
+
 package org.chromium.components.autofill;
 
 import org.jni_zero.CalledByNative;

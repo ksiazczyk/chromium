@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_id.xtb.
+type: data
+title: Indonesian autofill strings translation bundle
+summary: Indonesian XTB translation bundle with Android autofill UI strings, covering the autofill popup display and passkey usage messages.

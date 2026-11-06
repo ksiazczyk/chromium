@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_uz.xtb.
+type: data
+title: Uzbek autofill strings translation bundle
+summary: Uzbek translations for Android autofill UI strings, covering the autofill popup notification and the use passkey prompt in XTB format.

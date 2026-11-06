@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_ne.xtb.
+type: data
+title: Autofill strings translation bundle (Nepali)
+summary: XML translation bundle with Nepali localized Android autofill strings, covering the autofill popup notification and the passkey prompt message.

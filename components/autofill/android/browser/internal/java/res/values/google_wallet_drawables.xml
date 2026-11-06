@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Google Wallet drawable alias resource
+summary: Defines the google_wallet_24dp drawable alias that reuses the shared unbranded Google Wallet gradient icon for Chromium's Android autofill resources.
+-->
+
 <resources>
     <!-- Keep the Autofill-specific resource name while sharing the identical
          unbranded Google Wallet icon payload. -->

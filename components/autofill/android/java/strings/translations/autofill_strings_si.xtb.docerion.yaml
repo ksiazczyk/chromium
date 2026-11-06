@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_si.xtb.
+type: data
+title: Sinhala autofill strings translation bundle
+summary: XML translation bundle with Sinhala Android autofill strings, including the autofill popup notification and passkey prompt messages.

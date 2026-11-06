@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AutofillSaveIbanUiInfo builder
+// summary: Robolectric tests covering the AutofillSaveIbanUiInfo builder fields and the assertion errors raised when the IBAN value is missing or empty.
+// ---
+
 package org.chromium.components.autofill.payments;
 
 import static com.google.common.truth.Truth.assertThat;

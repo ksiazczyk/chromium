@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillAddressUiComponent
+// summary: Describes one address editor input field with its field type, localized label, required flag and full-line layout flag.
+// ---
+
 package org.chromium.components.autofill;
 
 import org.jni_zero.CalledByNative;

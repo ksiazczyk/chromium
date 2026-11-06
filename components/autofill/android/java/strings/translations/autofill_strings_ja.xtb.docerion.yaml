@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_ja.xtb.
+type: data
+title: Japanese autofill strings translation bundle
+summary: Japanese XTB translation bundle with Android autofill UI strings, covering the autofill popup display and passkey usage messages.

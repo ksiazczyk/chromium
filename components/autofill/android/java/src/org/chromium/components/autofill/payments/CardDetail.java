@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CardDetail
+// summary: Simple data holder with a card issuer icon, label and sub-label shown in the various Autofill views.
+// ---
+
 package org.chromium.components.autofill.payments;
 
 import androidx.annotation.DrawableRes;

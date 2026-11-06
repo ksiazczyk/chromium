@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_kk.xtb.
+type: data
+title: Kazakh autofill strings translation bundle
+summary: Kazakh XTB translation bundle with Android autofill UI strings, covering the autofill popup display and passkey usage messages.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchToFillKeyboardSuppressor class declaration
+// summary: Declares the Android-only class that preemptively suppresses the keyboard when a Touch To Fill surface intends to show, including timeout handling.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_ANDROID_TOUCH_TO_FILL_KEYBOARD_SUPPRESSOR_H_
 #define COMPONENTS_AUTOFILL_ANDROID_TOUCH_TO_FILL_KEYBOARD_SUPPRESSOR_H_
 

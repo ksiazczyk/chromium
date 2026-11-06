@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TouchToFillKeyboardSuppressor unit tests
+// summary: Unit tests verifying keyboard suppression across frames, before and after parsing callbacks, and timeout behavior using mock time.
+// ---
+
 #include "components/autofill/android/touch_to_fill_keyboard_suppressor.h"
 
 #include "base/memory/raw_ptr.h"

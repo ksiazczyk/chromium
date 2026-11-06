@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_sq.xtb.
+type: data
+title: Albanian autofill strings translation bundle
+summary: XML translation bundle with Albanian Android autofill strings, including the autofill popup notification and passkey prompt messages.

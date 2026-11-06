@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test utilities for Autofill AI entity types
+// summary: Provides factory methods that build EntityType instances such as vehicle, passport, national ID, and order for use in Autofill AI tests.
+// ---
+
 package org.chromium.components.autofill.autofill_ai.utils;
 
 import org.chromium.build.annotations.Nullable;

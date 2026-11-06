@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Iban
+// summary: Java model of Autofill IBAN records supporting ephemeral, local and server variants with label, nickname, record type and value.
+// ---
+
 package org.chromium.components.autofill.payments;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

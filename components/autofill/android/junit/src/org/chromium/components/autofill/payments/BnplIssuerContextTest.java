@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BnplIssuerContext
+// summary: Robolectric test verifying that the BnplIssuerContext constructor stores issuer id, display name, selection text, linked and eligible flags.
+// ---
+
 package org.chromium.components.autofill.payments;
 
 import static com.google.common.truth.Truth.assertThat;

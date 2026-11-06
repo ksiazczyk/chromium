@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DropdownKeyValue
+// summary: JNI-backed key-value pair for displaying keyed values in dropdowns, pairing an identifier with a human-readable localized display value.
+// ---
+
 package org.chromium.components.autofill;
 
 import android.util.Pair;

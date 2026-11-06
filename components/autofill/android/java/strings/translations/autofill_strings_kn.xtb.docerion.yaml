@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_kn.xtb.
+type: data
+title: Kannada autofill strings translation bundle
+summary: Kannada XTB translation bundle with Android autofill UI strings, covering the autofill popup display and passkey usage messages.

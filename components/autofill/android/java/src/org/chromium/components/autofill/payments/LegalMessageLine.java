@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LegalMessageLine autofill UI data model
+// summary: Java model for a legal message line with links shown in the autofill UI, created from native code through the JNI bridge.
+// ---
+
 package org.chromium.components.autofill.payments;
 
 import org.jni_zero.CalledByNative;

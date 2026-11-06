@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtMemoryPayload
+// summary: Autofill suggestion payload that stores a type name string and implements equality and hashing.
+// ---
+
 package org.chromium.components.autofill;
 
 import org.jni_zero.CalledByNative;

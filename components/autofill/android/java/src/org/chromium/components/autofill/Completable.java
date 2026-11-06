@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Completable
+// summary: Interface for autofill data types that can be sent to the merchant as-is, exposing completeness state and a score used to sort multiple options.
+// ---
+
 package org.chromium.components.autofill;
 
 import org.chromium.build.annotations.NullMarked;

@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_be.xtb.
+type: data
+title: Belarusian autofill strings translation bundle
+summary: Belarusian translations of Android autofill UI strings, covering the autofill popup notification and the use-passkey prompt.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubKeyRequester
+// summary: Handles region sub-key requests for address admin areas, loading rules per region and delivering results or timeout notifications through a delegate.
+// ---
+
 package org.chromium.components.autofill;
 
 import android.text.format.DateUtils;

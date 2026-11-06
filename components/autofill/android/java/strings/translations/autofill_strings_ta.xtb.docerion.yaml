@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_ta.xtb.
+type: data
+title: Tamil autofill strings translation bundle
+summary: XML translation bundle with Tamil Android autofill strings, including the autofill popup notification and passkey prompt messages.

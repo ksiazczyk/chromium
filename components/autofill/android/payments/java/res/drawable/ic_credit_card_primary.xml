@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: ic_credit_card_primary
+summary: Credit card vector icon tinted with the primary accent color, used to represent credit cards in the Android payments autofill UI.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="32dp"
     android:height="20dp"

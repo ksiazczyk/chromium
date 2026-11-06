@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings.grd.
+type: config
+title: Grit resource definition for Android autofill strings
+summary: Grit XML file that defines the Android autofill UI strings and their per-language output files for localization.

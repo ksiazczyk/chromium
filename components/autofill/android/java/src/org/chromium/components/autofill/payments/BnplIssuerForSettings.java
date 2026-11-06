@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BnplIssuerForSettings
+// summary: Java model describing a BNPL issuer in settings with its issuer ID, payment instrument ID and display name, created via JNI.
+// ---
+
 package org.chromium.components.autofill.payments;
 
 import org.jni_zero.CalledByNative;

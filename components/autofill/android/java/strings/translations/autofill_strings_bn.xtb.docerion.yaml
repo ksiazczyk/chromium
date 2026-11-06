@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_bn.xtb.
+type: data
+title: Bengali autofill strings translation bundle
+summary: Bengali translations of Android autofill UI strings, covering the autofill popup notification and the use-passkey prompt.

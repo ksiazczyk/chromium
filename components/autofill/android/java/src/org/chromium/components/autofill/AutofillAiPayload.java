@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillAiPayload
+// summary: Autofill suggestion payload for Autofill AI entries, carrying a GUID and a flag indicating whether a server fetch is required.
+// ---
+
 package org.chromium.components.autofill;
 
 import org.jni_zero.CalledByNative;

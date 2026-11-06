@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AutofillSaveCardUiInfo builder
+// summary: Robolectric tests verifying that the AutofillSaveCardUiInfo builder sets the upload flag, logo icon, card detail, legal message lines and other save-card UI fields.
+// ---
+
 package org.chromium.components.autofill.payments;
 
 import static org.hamcrest.MatcherAssert.assertThat;

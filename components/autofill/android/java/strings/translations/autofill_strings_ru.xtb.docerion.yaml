@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_ru.xtb.
+type: data
+title: Russian autofill strings translation bundle
+summary: XML translation bundle with Russian Android autofill strings, including the autofill popup notification and passkey prompt messages.

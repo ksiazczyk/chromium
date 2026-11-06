@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_az.xtb.
+type: data
+title: Azerbaijani autofill strings translation bundle
+summary: Azerbaijani translations of Android autofill UI strings, covering the autofill popup notification and the use-passkey prompt.

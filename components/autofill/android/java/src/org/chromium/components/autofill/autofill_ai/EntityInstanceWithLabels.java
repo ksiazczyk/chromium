@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Entity instance with display labels model
+// summary: Java model of an Autofill AI entity with UI labels and Wallet storage details, used to show entity information on the management page.
+// ---
+
 package org.chromium.components.autofill.autofill_ai;
 
 import org.jni_zero.CalledByNative;

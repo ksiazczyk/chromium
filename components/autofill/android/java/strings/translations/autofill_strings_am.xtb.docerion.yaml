@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_am.xtb.
+type: data
+title: Amharic autofill strings translation bundle
+summary: Amharic translations of Android autofill UI strings, covering the autofill popup notification and the use-passkey prompt.

@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_fil.xtb.
+type: data
+title: Filipino autofill strings translation bundle
+summary: XML translation bundle with Filipino localized strings for the Android autofill UI, covering the autofill popup message and the use passkey prompt.

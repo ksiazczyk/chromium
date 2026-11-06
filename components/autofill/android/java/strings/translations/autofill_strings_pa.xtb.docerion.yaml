@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_pa.xtb.
+type: data
+title: Autofill strings translation bundle (Punjabi)
+summary: XML translation bundle with Punjabi localized Android autofill strings, covering the autofill popup notification and the passkey prompt message.

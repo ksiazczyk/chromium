@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BankAccount
+// summary: Java data model for bank accounts used in facilitated payments, extending PaymentInstrument and created from C++ via JNI.
+// ---
+
 package org.chromium.components.autofill.payments;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

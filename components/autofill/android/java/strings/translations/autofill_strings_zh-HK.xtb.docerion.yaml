@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_zh-HK.xtb.
+type: data
+title: Chinese (Hong Kong) autofill strings translation bundle
+summary: Chinese (Hong Kong) translations for Android autofill UI strings, covering the autofill popup notification and the use passkey prompt in XTB format.

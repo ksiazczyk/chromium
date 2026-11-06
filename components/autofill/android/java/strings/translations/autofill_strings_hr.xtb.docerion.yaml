@@ -1,0 +1,4 @@
+# Docerion header of autofill_strings_hr.xtb.
+type: data
+title: Croatian autofill strings translation bundle
+summary: XML translation bundle with Croatian localized strings for the Android autofill UI, covering the autofill popup message and the use passkey prompt.
