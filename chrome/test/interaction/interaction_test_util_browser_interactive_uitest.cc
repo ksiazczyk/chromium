@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive UI test for tab WebUI screenshots
+// summary: Interactive UI test that navigates to the Downloads page and compares a screenshot of the tab's embedded WebUI.
+// ---
+
 #include "chrome/test/interaction/interaction_test_util_browser.h"
 
 #include "base/test/bind.h"

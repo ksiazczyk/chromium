@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InteractiveBrowserWindowTest API implementation
+// summary: Implements the browser window interactive test API, including helpers that locate Web UI elements and check their visibility within WebContents.
+// ---
+
 #include "chrome/test/interaction/interactive_browser_window_test.h"
 
 #include <sstream>

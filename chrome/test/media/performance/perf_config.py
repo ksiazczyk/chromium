@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: config
+# title: Shared configuration for media performance tests
+# summary: Defines shared paths, ports, and output locations for the media performance tests and puts helper directories on sys.path.
+# ---
+
 """Paths, ports, and output locations shared by the media perf tests.
 
 Importing this module also puts the helper directories that the perf tests

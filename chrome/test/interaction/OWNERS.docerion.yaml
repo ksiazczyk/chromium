@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the interaction test directory
+summary: Redirects ownership of the interaction test directory to the user education component owners.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive UI test for context menu selection
+// summary: Interactive browser test verifying InteractionTestUtil can open a tab context menu and select a menu item.
+// ---
+
 #include "ui/base/interaction/interaction_test_util.h"
 
 #include "base/functional/bind.h"

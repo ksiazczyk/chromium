@@ -1,6 +1,13 @@
 # Copyright 2025 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: test
+# title: Openscreen cast performance test suite
+# summary: Selenium-driven performance test suite for video casting to a Chromecast device, measuring dropped frames and smoothness.
+# ---
+
 """Performance test suite for video casting on a Chromecast device.
 
 This script uses Selenium and Chromedriver to automate performance tests for

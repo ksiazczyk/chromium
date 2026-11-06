@@ -1,6 +1,13 @@
 # Copyright 2025 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Shared helpers for media performance tests
+# summary: Common module for the media performance tests, re-exporting config, sender, setup, and metrics helpers plus teardown and monitoring wrappers.
+# ---
+
 """A common module for media performance tests.
 
 The implementation lives in smaller modules:

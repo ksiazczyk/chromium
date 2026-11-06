@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Local content analysis UI test driver
+# summary: Selenium UI test that opens a URL, triggers paste, upload or print actions in Chrome, and reports the resulting DLP events for the connector tests.
+# ---
+
 import time
 
 from absl import app, flags

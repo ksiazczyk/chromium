@@ -1,0 +1,4 @@
+# Docerion header of policy_test.asset.textpb.
+type: config
+title: Policy test environment asset
+summary: TextProto asset defining the network, Active Directory domain, domain controller, and client machines used by policy tests.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Password manager enabled WebDriver test
+# summary: Selenium WebDriver script that opens the Chrome password manager settings page, navigates nested shadow DOM elements, and prints whether the password toggle is checked.
+# ---
+
 
 from absl import app
 from selenium.webdriver.common.by import By

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Automation connection handler
+// summary: Reads automation requests from the socket stream, resolves the matching chrome extension API method or event, and executes it or registers a listener.
+// ---
+
 // Automation connection handler is responsible for reading requests from the
 // stream, finding and executing appropriate extension API method.
 function ConnectionHandler() {

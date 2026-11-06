@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mojo JS in-process fuzzer
+// summary: In-process fuzzer that runs DomatoLPM-generated JavaScript with MojoJS bindings enabled to fuzz browser Mojo interfaces.
+// ---
+
 #include <string_view>
 
 #include "base/path_service.h"

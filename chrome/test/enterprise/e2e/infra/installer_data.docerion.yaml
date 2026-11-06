@@ -1,0 +1,4 @@
+# Docerion header of installer_data.
+type: config
+title: Chrome installer distribution settings
+summary: JSON settings that configure Chrome installation for tests, including system-level install and skipping first-run UI.

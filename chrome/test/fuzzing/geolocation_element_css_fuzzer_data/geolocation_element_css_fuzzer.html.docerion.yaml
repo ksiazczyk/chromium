@@ -1,0 +1,4 @@
+# Docerion header of geolocation_element_css_fuzzer.html.
+type: test
+title: Geolocation element CSS fuzzer test page
+summary: HTML test input for the geolocation element CSS fuzzer that styles a geolocation element and reports its bounding box and computed styles once the element becomes valid.

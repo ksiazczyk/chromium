@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Managed profile enrollment E2E tests
+# summary: Enterprise E2E tests verifying icebreaker and dasherless managed work profile enrollment via implicit and auth-code authentication flows.
+# ---
+
 import os
 
 from chrome_ent_test.infra.core import before_all

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: CloudReportingEnabled policy end-to-end test
+# summary: Verifies the CloudReportingEnabled policy by enrolling a Windows client via CBCM, then querying the Admin Directory API to assert policy fetch and status report times follow registration.
+# ---
+
 from datetime import datetime
 import json
 import logging

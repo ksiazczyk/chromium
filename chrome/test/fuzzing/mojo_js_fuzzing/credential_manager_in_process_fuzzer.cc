@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CredentialManager in-process fuzzer
+// summary: In-process fuzzer that executes DomatoLPM-generated JavaScript against the CredentialManager Mojo interface in a running Chrome browser.
+// ---
+
 #include <string_view>
 
 #include "base/path_service.h"

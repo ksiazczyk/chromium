@@ -1,0 +1,4 @@
+# Docerion header of webprotect_test.asset.textpb.
+type: test
+title: WebProtect test environment
+summary: Test asset defining the AD domain and two Windows client machines used by the WebProtect E2E policy tests.

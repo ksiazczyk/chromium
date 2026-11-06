@@ -1,0 +1,4 @@
+# Docerion header of chromedataregionsetting_test.asset.textpb.
+type: test
+title: Chrome data region setting test environment
+summary: Test asset defining the Active Directory domain and Windows client machines used for the Chrome data region setting E2E policy tests.

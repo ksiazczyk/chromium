@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: E2E tests for homepage policies
+# summary: Chrome enterprise E2E test case verifying the HomepageLocation, HomepageIsNewTabPage and ShowHomeButton policies on a Windows client via group policy updates.
+# ---
+
 import os
 import re
 from absl import flags

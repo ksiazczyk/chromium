@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: SafeBrowsingEnabled policy E2E test
+# summary: Enterprise E2E test that sets the SafeBrowsingEnabled policy via group policy and verifies Chrome warns on unsafe pages and downloads when enabled and not when disabled.
+# ---
+
 import os
 from chrome_ent_test.infra.core import before_all
 from chrome_ent_test.infra.core import category

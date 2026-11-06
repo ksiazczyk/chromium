@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Realtime Reporting Server Test Helper
+# summary: Helper that authenticates with a service account and polls the Google Admin SDK Reports API to verify unsafe site visit events by device ID.
+# ---
+
 import json
 
 from googleapiclient.discovery import build

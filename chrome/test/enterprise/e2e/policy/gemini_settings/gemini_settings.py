@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: GeminiSettings policy end-to-end enterprise test
+# summary: Chrome enterprise test case that verifies the GeminiSettings pref under different GenAiDefaultSettings org units by running a UI test and asserting the managed pref value.
+# ---
+
 import json
 import os
 from chrome_ent_test.infra.core import before_all

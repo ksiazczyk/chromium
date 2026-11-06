@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Page load in-process fuzzer
+// summary: Fuzzer that loads pages with fuzzed HTTP responses and HTML content across four test servers to cover cross-origin cases.
+// ---
+
 #include <fuzzer/FuzzedDataProvider.h>
 #include <google/protobuf/descriptor.h>
 

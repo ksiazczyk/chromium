@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Chrome reporting connector base test case
+# summary: Base test case for reporting connector tests with helpers for GCS secrets, domain enrollment, policy setting, event triggering, and retrying verification.
+# ---
+
 import json
 import os
 import re

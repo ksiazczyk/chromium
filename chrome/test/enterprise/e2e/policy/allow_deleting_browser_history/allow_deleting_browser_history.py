@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: AllowDeletingBrowserHistory policy end-to-end test
+# summary: Enterprise E2E test that sets the AllowDeletingBrowserHistory policy on a Windows domain and verifies history deletion is enabled or disabled accordingly.
+# ---
+
 import os
 
 from chrome_ent_test.infra.core import before_all

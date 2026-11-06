@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TrackedElementWebContents header
+// summary: Declares TrackedElementWebContents, a tracked element for a loaded page that WebContentsInteractionTestUtil shows, hides, and destroys.
+// ---
+
 #ifndef CHROME_TEST_INTERACTION_TRACKED_ELEMENT_WEBCONTENTS_H_
 #define CHROME_TEST_INTERACTION_TRACKED_ELEMENT_WEBCONTENTS_H_
 

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Chronicle API service for retrieving and verifying events
+# summary: Provides a ChronicleApiService that queries the Chronicle Backstory API with service account credentials and verifies expected device events from the reporting connector.
+# ---
+
 from datetime import datetime, timedelta
 import json
 from google.oauth2 import service_account

@@ -1,0 +1,4 @@
+# Docerion header of html.txt.
+type: test
+title: Domato HTML fuzzer grammar rules
+summary: Grammar rule file for the in-process HTML fuzzer that includes the upstream Domato HTML rules and overrides the root to generate body elements.

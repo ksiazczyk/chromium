@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM message observer implementation
+// summary: Implements observers that surface DOM messages from an instrumented web page as test state, either latest message or full history.
+// ---
+
 #include "chrome/test/interaction/dom_message_observer.h"
 
 #include "base/functional/bind.h"

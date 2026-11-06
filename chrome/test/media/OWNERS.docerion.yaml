@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for chrome/test/media
+summary: Lists primary and secondary contributors responsible for the chrome/test/media directory and inherits owners from chrome/browser/media/OWNERS.

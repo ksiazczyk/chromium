@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: End-to-end test for the PopupsAllowedForUrls policy
+# summary: Chrome enterprise E2E test that sets the PopupsAllowedForUrls policy on a Windows test environment and verifies popups are allowed on matching sites and blocked elsewhere.
+# ---
+
 import logging
 import os
 from absl import flags

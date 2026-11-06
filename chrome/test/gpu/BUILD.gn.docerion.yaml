@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for GPU browser tests
+summary: Defines the browser_tests source set that builds the WebGL infobar browser test together with its test dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of policy_test.asset.textpb.
+type: test
+title: Policy test environment asset
+summary: Text protobuf asset defining the shared test environment for policy tests, with a network, an Active Directory domain, a Windows domain controller, and a client machine.

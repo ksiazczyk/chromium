@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: ForceYouTubeRestrict policy end-to-end test
+# summary: Enterprise end-to-end test that sets the ForceYouTubeRestrict policy and verifies YouTube Restricted Mode is enforced or disabled on a Windows client.
+# ---
+
 import logging
 import os
 from chrome_ent_test.infra.core import before_all

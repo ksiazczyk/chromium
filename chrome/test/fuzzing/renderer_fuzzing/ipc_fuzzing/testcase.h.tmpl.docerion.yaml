@@ -1,0 +1,4 @@
+# Docerion header of testcase.h.tmpl.
+type: source
+title: RendererTestcase Jinja2 template
+summary: Jinja2 template that renders the RendererTestcase C++ header, wiring MojoLPM generator actions for context, process and associated interfaces.

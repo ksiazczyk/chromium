@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CacheStorage fuzzer JS template
+// summary: JavaScript template that wraps generated CacheStorage grammar rules in a fuzz() function run by the in-process fuzzer.
+// ---
+
 async function fuzz() {
   <cache_storage_fuzzer>
 }

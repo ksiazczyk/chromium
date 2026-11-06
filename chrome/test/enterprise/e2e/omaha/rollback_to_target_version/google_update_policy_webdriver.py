@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Google update policy WebDriver test helper
+# summary: Small Python test helper that launches a Chrome WebDriver session, opens the browser's policy page, triggers a policy reload and then quits the driver.
+# ---
+
 from absl import app
 
 from selenium.webdriver.common.by import By

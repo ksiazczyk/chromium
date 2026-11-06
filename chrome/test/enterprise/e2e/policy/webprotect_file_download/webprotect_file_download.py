@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: WebProtect file download E2E tests
+# summary: Enterprise E2E test case that verifies Chrome download blocking behavior, such as encrypted and large file blocks, when WebProtect is enabled.
+# ---
+
 import os
 from chrome_ent_test.infra.core import before_all
 from chrome_ent_test.infra.core import category

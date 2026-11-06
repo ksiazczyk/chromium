@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: User data dir WebDriver policy test
+# summary: Selenium-based end-to-end test that launches Chrome with a given user data dir and verifies the profile path and policy information reported by the browser.
+# ---
+
 import os
 
 from absl import app, flags

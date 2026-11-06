@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Enterprise policy E2E test package
+# summary: Package initializer that imports and re-exports all Chrome enterprise policy E2E test modules, with a few tests commented out due to known infrastructure issues.
+# ---
+
 from .allow_deleting_browser_history.allow_deleting_browser_history import *  # noqa: F403
 from .apps_shortcut.apps_shortcut import *  # noqa: F403
 from .bookmarkbar_enabled.bookmarkbar_enabled import *  # noqa: F403

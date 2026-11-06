@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: ChromeDataRegionSetting policy WebDriver test
+# summary: Selenium WebDriver test that signs into Chrome and prints the value, source, scope, and status of the ChromeDataRegionSetting policy from the browser's policy page.
+# ---
+
 import os
 import time
 

@@ -1,3 +1,11 @@
+---
+type: guide
+title: Kombucha Interactive Testing Playbook
+summary: In-depth guide with examples, best practices, FAQ, and troubleshooting for writing Chrome interaction tests with Kombucha.
+relations:
+  - references /chrome/test/interaction/README.md
+---
+
 # Kombucha Interactive Testing Playbook
 
 [go/kombucha-playbook](https://goto.google.com/kombucha-playbook)

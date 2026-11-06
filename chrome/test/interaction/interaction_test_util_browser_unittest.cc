@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for InteractionTestUtilBrowser
+// summary: Views unit tests exercising simulator population and pressing hover buttons through InteractionTestUtilBrowser.
+// ---
+
 #include <memory>
 
 #include "base/test/bind.h"

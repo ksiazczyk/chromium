@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: In-process fuzzer framework
+// summary: Implements the InProcessFuzzer base class that runs fuzzers inside a full Chrome browser via libFuzzer, Centipede or Fuzzilli.
+// ---
+
 #include "chrome/test/fuzzing/in_process_fuzzer.h"
 
 #include <vector>

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: WebDriver helper for RestoreOnStartup policy tests
+# summary: Selenium helper that starts Chrome, optionally opens given URLs in tabs, and prints the resulting tab URLs as JSON for the RestoreOnStartup policy test to verify.
+# ---
+
 import json
 import time
 

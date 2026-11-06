@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: TranslateEnabled policy end-to-end test
+# summary: Chrome enterprise end-to-end tests that set the TranslateEnabled policy and verify the translate feature is enabled or disabled, including in incognito mode.
+# ---
+
 import os
 from chrome_ent_test.infra.core import before_all
 from chrome_ent_test.infra.core import category

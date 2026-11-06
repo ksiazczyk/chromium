@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Realtime reporting pipeline Pub/Sub end-to-end test
+# summary: End-to-end enterprise test that triggers a browser reporting event and verifies it is delivered through Pub/Sub.
+# ---
+
 import logging
 from datetime import datetime
 

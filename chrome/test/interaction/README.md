@@ -1,3 +1,12 @@
+---
+type: readme
+title: 'Interactive Testing API: Kombucha'
+summary: Technical overview of the Kombucha API covering test fixtures, sequences, verbs, custom extensions, and known limitations.
+relations:
+  - references /chrome/test/interaction/PLAYBOOK.md
+  - references /ui/base/interaction/README.md
+---
+
 # Interactive Testing API: "Kombucha"
 
 **[go/kombucha-api](https://goto.google.com/kombucha-api)**

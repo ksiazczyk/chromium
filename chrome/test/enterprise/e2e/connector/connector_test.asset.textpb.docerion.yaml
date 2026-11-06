@@ -1,0 +1,4 @@
+# Docerion header of connector_test.asset.textpb.
+type: config
+title: Shared connector test environment configuration
+summary: Shared test asset defining a network, an Active Directory domain, a Windows domain controller, and a joined Windows client used by most connector tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InteractiveBrowserTest interactive UI tests
+// summary: Interactive UI tests that exercise InteractiveBrowserTest (Kombucha) sequences such as button presses, mouse clicks, and WebContents interactions.
+// ---
+
 #include "chrome/test/interaction/interactive_browser_test.h"
 
 #include <memory>

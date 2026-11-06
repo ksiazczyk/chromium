@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InteractiveBrowserTest private class header
+// summary: Declares InteractiveBrowserTestPrivate, which manages instrumented WebContents, WebUI code coverage, and DOM dump limits for interactive tests.
+// ---
+
 #ifndef CHROME_TEST_INTERACTION_INTERACTIVE_BROWSER_TEST_INTERNAL_H_
 #define CHROME_TEST_INTERACTION_INTERACTIVE_BROWSER_TEST_INTERNAL_H_
 

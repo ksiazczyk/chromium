@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: In-process fuzzer base class
+// summary: Header defining the InProcessFuzzer base class that lets fuzzers run with the full Chromium browser test infrastructure.
+// ---
+
 #ifndef CHROME_TEST_FUZZING_IN_PROCESS_FUZZER_H_
 #define CHROME_TEST_FUZZING_IN_PROCESS_FUZZER_H_
 

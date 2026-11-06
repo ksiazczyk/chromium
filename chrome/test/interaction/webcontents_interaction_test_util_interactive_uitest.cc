@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive UI tests for WebContentsInteractionTestUtil
+// summary: Interactive browser tests verifying that WebContentsInteractionTestUtil can attach to and deep-query WebUI contents, including the Tab Search menu and elements inside iframes.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "base/test/bind.h"
 #include "base/test/gtest_util.h"

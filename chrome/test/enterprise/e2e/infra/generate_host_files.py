@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Host file generator for CELab E2E tests
+# summary: Command-line script that fills project, bucket and prefix tokens into a host file template to produce CELab host files.
+# ---
+
 import argparse
 import logging
 import os

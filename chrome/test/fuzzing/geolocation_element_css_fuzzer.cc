@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Geolocation element CSS fuzzer
+// summary: Fuzzer that renders the geolocation element with CSS fuzz cases and checks screenshot colors against expectations.
+// ---
+
 #include <array>
 #include <cstdint>
 #include <optional>

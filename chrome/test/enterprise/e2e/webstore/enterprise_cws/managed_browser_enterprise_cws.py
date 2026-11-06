@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Managed browser enterprise Chrome Web Store test
+# summary: Chrome enterprise test case that enrolls a managed browser with a CWS token, applies policy, and runs the WebDriver script to verify enterprise Web Store signals.
+# ---
+
 import os
 
 from chrome_ent_test.infra.core import before_all

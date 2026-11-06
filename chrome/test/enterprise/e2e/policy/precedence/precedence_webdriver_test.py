@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Policy precedence WebDriver test
+# summary: Selenium end-to-end test that opens Chrome's internal policy page, waits for the policy tables to load, and prints the displayed policy precedence value.
+# ---
+
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait

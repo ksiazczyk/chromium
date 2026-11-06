@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: CELab test suite runner for enterprise e2e tests
+# summary: Parses host files and test filters, then runs enterprise e2e test suites across hosts with progress, category and logging controls.
+# ---
+
 import argparse
 import json
 import logging

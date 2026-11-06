@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Reporting connector client-only test
+# summary: End-to-end enterprise test that verifies the Chrome Realtime Reporting pipeline by enrolling a browser and checking that unsafe browsing events upload successfully.
+# ---
+
 import logging
 
 from chrome_ent_test.infra.core import before_all

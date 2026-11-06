@@ -1,6 +1,13 @@
 # Copyright 2019 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: test
+# title: Windows test utility helpers
+# summary: Utility helpers for Windows enterprise tests, covering Chrome shutdown, policy retrieval and WebDriver creation.
+# ---
+
 """Contains utility methods that can be used by python tests on Windows."""
 
 import os

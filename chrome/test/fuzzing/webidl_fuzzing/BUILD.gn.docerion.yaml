@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: WebIDL fuzzing build configuration
+summary: GN build file defining the WebIDL grammar generator action and the webidl fuzzer targets for the in-process fuzzing tests.

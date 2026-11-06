@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: PolicyListMultipleSourceMergeList E2E test
+# summary: Chrome enterprise end-to-end test verifying how the PolicyListMultipleSourceMergeList policy merges URL blocklists from platform and CBCM sources.
+# ---
+
 import os
 import logging
 from absl import flags

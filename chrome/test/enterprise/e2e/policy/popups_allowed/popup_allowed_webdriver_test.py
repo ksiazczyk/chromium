@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: WebDriver helper that counts popup windows
+# summary: Selenium WebDriver script that opens a popup test page in Chrome with popup blocking disabled and prints the number of open windows for the policy test to check.
+# ---
+
 from absl import app
 from selenium import webdriver
 

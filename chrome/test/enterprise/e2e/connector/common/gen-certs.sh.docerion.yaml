@@ -1,0 +1,4 @@
+# Docerion header of gen-certs.sh.
+type: script
+title: Test certificate and key generation script
+summary: Shell script that generates a server CA, server certificate and keys with OpenSSL and uploads them to a Google Cloud Storage bucket.

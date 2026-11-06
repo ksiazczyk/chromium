@@ -1,0 +1,4 @@
+# Docerion header of generate_testcase.py.
+type: script
+title: MojoLPM IPC testcase generator
+summary: Python script that generates MojoLPM C++ testcases for renderer IPC fuzzing from dumped Mojo interface metadata, rendering the testcase.h.tmpl template with Jinja2.

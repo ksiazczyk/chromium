@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Realtime Reporting BCE Pipeline Test
+# summary: End-to-end test that enrolls a browser, triggers an unsafe browsing event, and verifies the event arrives in the realtime reporting pipeline.
+# ---
+
 from datetime import datetime
 import logging
 

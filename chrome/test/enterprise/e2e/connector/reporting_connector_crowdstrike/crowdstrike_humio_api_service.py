@@ -5,6 +5,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: CrowdStrike Humio API verification service
+# summary: Queries the Humio search API with a device ID to verify that Chrome reporting events reached the CrowdStrike connector.
+# ---
+
 import logging
 import requests
 from .. import Verifyable, VerifyContent

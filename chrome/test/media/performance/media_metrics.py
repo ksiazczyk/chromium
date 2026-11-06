@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Media performance metric computation and upload
+# summary: Computes media performance metrics such as PSNR and SSIM via FFmpeg and dumps or uploads results to ResultDB.
+# ---
+
 """Computes and records media perf metrics."""
 
 import csv

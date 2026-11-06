@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Page opener test utility
+# summary: Utility that opens a URL in Chrome, optionally in incognito mode, and prints the page source or text for use in policy E2E tests.
+# ---
+
 import time
 from absl import app, flags
 from selenium.webdriver.common.by import By

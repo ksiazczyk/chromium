@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: CloudPolicyOverridesPlatformPolicy precedence E2E test
+# summary: Enterprise E2E test that sets CloudPolicyOverridesPlatformPolicy on the domain controller and asserts the resulting policy precedence order on the client.
+# ---
+
 import os
 import logging
 from absl import flags

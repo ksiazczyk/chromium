@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaSessionService fuzzer JS template
+// summary: JavaScript template that wraps Domato-generated fuzz cases for the MediaSessionService Mojo interface.
+// ---
+
 async function fuzz() {
   <media_session_service_fuzzer>
 }

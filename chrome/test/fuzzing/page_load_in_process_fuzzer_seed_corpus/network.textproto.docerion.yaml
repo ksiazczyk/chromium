@@ -1,0 +1,4 @@
+# Docerion header of network.textproto.
+type: test
+title: Network seed for the page load in-process fuzzer
+summary: Seed corpus entry that serves an HTML page with an onload JavaScript handler over the network as input for the page load in-process fuzzer.

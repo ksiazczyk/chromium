@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: WebProtect download UI WebDriver helper
+# summary: Selenium and pywinauto script that downloads test files in Chrome and reports the WebProtect blocking messages asserted by the E2E test.
+# ---
+
 import os
 import time
 

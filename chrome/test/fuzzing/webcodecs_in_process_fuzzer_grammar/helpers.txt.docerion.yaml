@@ -1,0 +1,4 @@
+# Docerion header of helpers.txt.
+type: test
+title: WebCodecs fuzzer grammar helpers
+summary: Helper grammar rules for the WebCodecs in-process fuzzer, defining booleans, numbers, and video and audio codec strings such as AV1, VP9, HEVC, and Opus.

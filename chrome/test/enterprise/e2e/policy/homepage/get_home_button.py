@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Check Chrome home button visibility
+# summary: pywinauto UI test helper that connects to a running Chrome window and prints whether the Home button exists, used by the homepage policy test.
+# ---
+
 from pywinauto.application import Application
 from test_util import create_chrome_webdriver
 

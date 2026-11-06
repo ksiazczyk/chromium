@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: End-to-end test for reporting connector with CrowdStrike
+# summary: Enrolls a browser to a domain, triggers an unsafe browsing event, and verifies the event appears in Humio via the API service.
+# ---
+
 import logging
 from datetime import datetime
 

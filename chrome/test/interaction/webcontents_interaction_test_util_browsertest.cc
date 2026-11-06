@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebContentsInteractionTestUtil browser tests
+// summary: Browser tests verifying WebContentsInteractionTestUtil behavior such as element creation for loaded pages, navigation, and custom events.
+// ---
+
 #include "chrome/test/interaction/webcontents_interaction_test_util.h"
 
 #include <sstream>

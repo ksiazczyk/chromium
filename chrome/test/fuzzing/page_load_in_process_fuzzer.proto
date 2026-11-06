@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page load fuzzer fuzz case protobuf schema
+// summary: Defines the protobuf schema for page load fuzz cases, including network resources, HTTP response details and data URI navigations.
+// ---
+
 syntax = "proto3";
 package test.fuzzing.page_load_fuzzing;
 

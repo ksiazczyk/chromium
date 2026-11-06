@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Safe Browsing UI automation test
+# summary: Uses pywinauto and Chrome WebDriver to visit a malware test page and unsafe download, printing whether Safe Browsing warnings appear for each.
+# ---
+
 import re
 import time
 from absl import app

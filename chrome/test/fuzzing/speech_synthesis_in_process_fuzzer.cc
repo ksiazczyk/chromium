@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Speech synthesis in-process fuzzer
+// summary: In-process fuzzer that exercises the Web Speech synthesis API by speaking utterances built from fuzzed text and language inputs in a browser tab.
+// ---
+
 #include <cmath>
 #include <string_view>
 

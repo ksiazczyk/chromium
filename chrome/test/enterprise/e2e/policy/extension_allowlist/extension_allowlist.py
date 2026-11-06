@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: ExtensionInstallAllowlist enterprise E2E policy test
+# summary: Verifies that the ExtensionInstallAllowlist policy permits allowlisted Chrome extensions to install while blocking all other extensions.
+# ---
+
 import logging
 import os
 from chrome_ent_test.infra.core import before_all

@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Per-OS sender setup for Chrome for Testing
+# summary: Provides per-OS sender classes that detect platforms, install Chrome for Testing, and manage chromedriver on the sender device.
+# ---
+
 """Per-OS knowledge about the sender DUT.
 
 Each supported --sender_os maps to one Sender subclass. make_sender() is the

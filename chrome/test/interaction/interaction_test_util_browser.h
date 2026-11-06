@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser interaction test utility header
+// summary: Declares InteractionTestUtilBrowser with simulator setup, browser-from-context lookup, and element or surface screenshot comparison.
+// ---
+
 #ifndef CHROME_TEST_INTERACTION_INTERACTION_TEST_UTIL_BROWSER_H_
 #define CHROME_TEST_INTERACTION_INTERACTION_TEST_UTIL_BROWSER_H_
 

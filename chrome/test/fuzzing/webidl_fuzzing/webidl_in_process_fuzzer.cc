@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebIDL in-process fuzzer
+// summary: In-process fuzzer that uses DomatoLPM to generate JavaScript from a WebIDL grammar and executes it against a live Chrome browser over an embedded HTTPS test server.
+// ---
+
 #include <string_view>
 
 #include "chrome/browser/ui/tabs/tab_strip_model.h"

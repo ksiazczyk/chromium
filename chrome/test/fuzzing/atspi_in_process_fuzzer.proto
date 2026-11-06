@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: data
+// title: ATSPI fuzzer test case schema
+// summary: Protobuf definitions describing fuzz cases of control paths and actions for the ATSPI in-process fuzzer.
+// ---
+
 syntax = "proto3";
 package test.fuzzing.atspi_fuzzing;
 

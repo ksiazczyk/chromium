@@ -1,0 +1,4 @@
+# Docerion header of policy_test.asset.textpb.
+type: test
+title: Policy test environment
+summary: Test asset defining the standard AD domain environment with one domain controller and one client machine used by most policy E2E tests.

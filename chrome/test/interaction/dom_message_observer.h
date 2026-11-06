@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM message observer declarations
+// summary: Declares state observers that report the latest or complete history of DOM messages from an instrumented web page.
+// ---
+
 #ifndef CHROME_TEST_INTERACTION_DOM_MESSAGE_OBSERVER_H_
 #define CHROME_TEST_INTERACTION_DOM_MESSAGE_OBSERVER_H_
 

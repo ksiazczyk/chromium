@@ -3,6 +3,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Proto in-process fuzzer base classes and macros
+// summary: Header providing text and binary protobuf variants of InProcessFuzzer plus registration macros for proto-based fuzzers.
+// ---
+
 #ifndef CHROME_TEST_FUZZING_IN_PROCESS_PROTO_FUZZER_H_
 #define CHROME_TEST_FUZZING_IN_PROCESS_PROTO_FUZZER_H_
 

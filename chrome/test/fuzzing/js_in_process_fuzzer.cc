@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JavaScript in-process fuzzer
+// summary: Example in-process fuzzer that executes fuzzed JavaScript in an already loaded page with Mojo bindings available.
+// ---
+
 #include <csignal>
 #include <optional>
 #include <string_view>

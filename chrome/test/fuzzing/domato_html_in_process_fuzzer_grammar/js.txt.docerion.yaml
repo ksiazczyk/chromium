@@ -1,0 +1,4 @@
+# Docerion header of js.txt.
+type: test
+title: Domato JS fuzzer grammar rules
+summary: Grammar rule file for the in-process HTML fuzzer that includes the upstream Domato JavaScript rules and replaces the root so LPM controls generated line count.

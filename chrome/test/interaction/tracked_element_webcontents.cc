@@ -3,6 +3,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TrackedElementWebContents implementation
+// summary: Implements TrackedElementWebContents, which represents a loaded web page as a tracked element with screen bounds and a first-paint event.
+// ---
+
 #include "chrome/test/interaction/tracked_element_webcontents.h"
 
 #include "chrome/test/interaction/webcontents_interaction_test_util.h"

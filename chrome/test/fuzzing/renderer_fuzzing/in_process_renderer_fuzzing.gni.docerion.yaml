@@ -1,0 +1,4 @@
+# Docerion header of in_process_renderer_fuzzing.gni.
+type: config
+title: GN templates for renderer in-process fuzzers
+summary: GN import file providing templates that wrap in-process fuzzer targets so fuzzers run inside the renderer process.

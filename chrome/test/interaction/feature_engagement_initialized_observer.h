@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature engagement initialized observer declarations
+// summary: Declares a state observer for feature engagement tracker initialization, with a shared state identifier for tests.
+// ---
+
 #ifndef CHROME_TEST_INTERACTION_FEATURE_ENGAGEMENT_INITIALIZED_OBSERVER_H_
 #define CHROME_TEST_INTERACTION_FEATURE_ENGAGEMENT_INITIALIZED_OBSERVER_H_
 

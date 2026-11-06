@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Speech synthesis fuzzer case protobuf definition
+// summary: Protobuf schema defining the FuzzCase input, with text and lang fields, used by the speech synthesis in-process fuzzer.
+// ---
+
 syntax = "proto3";
 package test.fuzzing.speech_synthesis_fuzzing;
 

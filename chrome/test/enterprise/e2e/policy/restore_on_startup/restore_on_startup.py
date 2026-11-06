@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: RestoreOnStartup policy end-to-end test
+# summary: Enterprise end-to-end test that sets the RestoreOnStartup policy and verifies Chrome restores the last session, opens a new tab page, or opens a configured list of URLs via WebDriver.
+# ---
+
 import json
 import logging
 import os

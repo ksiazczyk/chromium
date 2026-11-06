@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: In-process renderer fuzzer proxy templates
+// summary: Header defining RendererFuzzerProxy and ProtoRendererFuzzerProxy templates that forward fuzz inputs to renderer-process fuzzers via the internals.runFuzzer() JS API.
+// ---
+
 #ifndef CHROME_TEST_FUZZING_RENDERER_FUZZING_IN_PROCESS_RENDERER_FUZZING_H_
 #define CHROME_TEST_FUZZING_RENDERER_FUZZING_IN_PROCESS_RENDERER_FUZZING_H_
 
