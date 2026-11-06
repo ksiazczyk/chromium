@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn targets for fullscreen UI test support
+summary: Defines GN source sets for fullscreen test utilities, the test fullscreen controller, and Earl Grey app and test support.

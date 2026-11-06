@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_coordinator_unittest.mm.
+type: test
+title: Fullscreen coordinator unit tests
+summary: Unit tests verifying that FullscreenCoordinator can be started and stopped with a test browser and profile.

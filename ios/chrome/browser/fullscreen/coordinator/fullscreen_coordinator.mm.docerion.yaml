@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_coordinator.mm.
+type: source
+title: Fullscreen coordinator implementation
+summary: Implements start and stop for FullscreenCoordinator, creating the mediator and dispatching fullscreen commands to it.

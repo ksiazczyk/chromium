@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_gcm_profile_service_factory.mm.
+type: source
+title: IOSChromeGCMProfileServiceFactory implementation
+summary: Implements the factory, building a GCMProfileService per profile with a branding-dependent product category and test hook support.

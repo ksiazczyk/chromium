@@ -1,0 +1,4 @@
+# Docerion header of history_coordinator.mm.
+type: source
+title: History coordinator implementation
+summary: Implements the HistoryCoordinator class, currently adding no behavior beyond its base class.

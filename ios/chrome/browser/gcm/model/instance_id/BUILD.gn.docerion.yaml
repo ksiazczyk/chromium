@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the Instance ID profile service
+summary: GN build file defining the instance_id source set with the InstanceID profile service factory sources and their dependencies.

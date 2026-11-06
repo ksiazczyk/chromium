@@ -1,0 +1,4 @@
+# Docerion header of history_ui_egtest.mm.
+type: test
+title: History UI Earl Grey tests
+summary: Earl Grey integration tests for the history UI covering entry deletion, search, context menu actions, and related metrics histograms.

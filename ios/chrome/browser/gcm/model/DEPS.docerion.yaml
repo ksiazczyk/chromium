@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the GCM model directory
+summary: Declares directory include rules for dependency checking; the rules list is currently empty.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History consumer protocol
+// summary: Declares the HistoryConsumer protocol with callbacks for completed history queries, deletions made by other clients, and notices about other forms of browsing history.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HISTORY_UI_BUNDLED_HISTORY_CONSUMER_H_
 #define IOS_CHROME_BROWSER_HISTORY_UI_BUNDLED_HISTORY_CONSUMER_H_
 

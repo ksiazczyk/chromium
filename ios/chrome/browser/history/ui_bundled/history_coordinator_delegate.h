@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History coordinator delegate protocol
+// summary: Declares the HistoryCoordinatorDelegate protocol with methods to dismiss the history UI, optionally with a completion handler.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HISTORY_UI_BUNDLED_HISTORY_COORDINATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_HISTORY_UI_BUNDLED_HISTORY_COORDINATOR_DELEGATE_H_
 

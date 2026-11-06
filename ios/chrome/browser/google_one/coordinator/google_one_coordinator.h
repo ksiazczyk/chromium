@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GoogleOneCoordinator interface
+// summary: Declares the coordinator that presents Google One account management from an identity, entry point, or deep link URL.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_GOOGLE_ONE_COORDINATOR_GOOGLE_ONE_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_GOOGLE_ONE_COORDINATOR_GOOGLE_ONE_COORDINATOR_H_
 

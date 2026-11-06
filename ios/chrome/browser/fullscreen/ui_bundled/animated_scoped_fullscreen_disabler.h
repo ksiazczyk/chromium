@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimatedScopedFullscreenDisabler class declaration
+// summary: Declares a helper that disables the fullscreen controller for its lifetime while animating the resulting UI updates.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FULLSCREEN_UI_BUNDLED_ANIMATED_SCOPED_FULLSCREEN_DISABLER_H_
 #define IOS_CHROME_BROWSER_FULLSCREEN_UI_BUNDLED_ANIMATED_SCOPED_FULLSCREEN_DISABLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of history_system_egtest.mm.
+type: test
+title: History UI Earl Grey tests
+summary: Earl Grey end-to-end tests exercising the history UI, including entry display, search, deletion and clear browsing data flows with a local test server.

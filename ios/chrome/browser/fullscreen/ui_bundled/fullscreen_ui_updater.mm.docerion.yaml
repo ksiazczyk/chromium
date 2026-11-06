@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_ui_updater.mm.
+type: source
+title: FullscreenUIUpdater implementation
+summary: Implements FullscreenUIUpdater, forwarding controller observer events to UI elements with fallbacks for optional selectors.

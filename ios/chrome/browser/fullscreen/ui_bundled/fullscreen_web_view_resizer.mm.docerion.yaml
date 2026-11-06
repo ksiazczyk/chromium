@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_web_view_resizer.mm.
+type: source
+title: FullscreenWebViewResizer implementation
+summary: Implements resizing of the current WebState's web view based on fullscreen progress, including special handling for PDF content and insets.

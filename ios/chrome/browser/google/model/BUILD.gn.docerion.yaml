@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for Google model
+summary: Defines GN source sets for the Google brand and Google logo service code together with their build dependencies.

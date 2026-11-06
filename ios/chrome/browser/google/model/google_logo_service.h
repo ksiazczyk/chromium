@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google logo service header
+// summary: Declares GoogleLogoService, a LogoServiceImpl subclass adding cached logo accessors for immediate Google logo display on iOS.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_GOOGLE_MODEL_GOOGLE_LOGO_SERVICE_H_
 #define IOS_CHROME_BROWSER_GOOGLE_MODEL_GOOGLE_LOGO_SERVICE_H_
 

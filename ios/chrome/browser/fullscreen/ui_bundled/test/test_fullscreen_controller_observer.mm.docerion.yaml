@@ -1,0 +1,4 @@
+# Docerion header of test_fullscreen_controller_observer.mm.
+type: test
+title: TestFullscreenControllerObserver implementation
+summary: Implements the test observer callbacks that store fullscreen controller event state for test assertions.

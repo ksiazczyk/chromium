@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the GCM model source set
+summary: Defines the model source set that compiles the iOS Chrome GCM profile service factory and lists its build dependencies.

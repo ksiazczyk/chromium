@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_mediator.mm.
+type: source
+title: Fullscreen mediator implementation
+summary: Implements fullscreen behavior by observing web state, scroll view and layout changes to update obscured insets and record scroll metrics.

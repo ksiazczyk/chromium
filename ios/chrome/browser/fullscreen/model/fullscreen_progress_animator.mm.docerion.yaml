@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_progress_animator.mm.
+type: source
+title: FullscreenProgressAnimator implementation
+summary: Implements display-link-driven progress interpolation using a critically damped spring, clamping overshoot and handling retargeting.

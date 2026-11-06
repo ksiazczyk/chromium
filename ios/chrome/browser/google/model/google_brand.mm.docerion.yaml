@@ -1,0 +1,4 @@
+# Docerion header of google_brand.mm.
+type: source
+title: Google brand organic check implementation
+summary: Implements IsOrganic by treating an empty brand string as an organic installation on iOS.

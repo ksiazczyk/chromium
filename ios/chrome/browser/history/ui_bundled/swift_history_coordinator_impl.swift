@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Swift history coordinator implementation
+// summary: Swift HistoryCoordinator implementation that configures and presents the history table view controller in a navigation controller.
+// ---
+
 import CxxImports
 import Foundation
 import UIKit

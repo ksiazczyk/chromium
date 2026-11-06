@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History table view controller delegate protocol
+// summary: Declares the delegate protocol used by the history table view controller to ask its coordinator to dismiss the history UI.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HISTORY_UI_BUNDLED_HISTORY_TABLE_VIEW_CONTROLLER_DELEGATE_H_
 #define IOS_CHROME_BROWSER_HISTORY_UI_BUNDLED_HISTORY_TABLE_VIEW_CONTROLLER_DELEGATE_H_
 

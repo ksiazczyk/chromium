@@ -1,0 +1,4 @@
+# Docerion header of base_history_view_controller.mm.
+type: source
+title: Base history view controller implementation
+summary: Implements history table display, search, deletion, favicons and user metrics.

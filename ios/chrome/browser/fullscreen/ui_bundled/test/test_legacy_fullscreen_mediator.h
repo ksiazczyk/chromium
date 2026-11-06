@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestLegacyFullscreenMediator interface
+// summary: Declares a test LegacyFullscreenMediator that adds a no-op animation provider to avoid exceptions when animators start without animations.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FULLSCREEN_UI_BUNDLED_TEST_TEST_LEGACY_FULLSCREEN_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_FULLSCREEN_UI_BUNDLED_TEST_TEST_LEGACY_FULLSCREEN_MEDIATOR_H_
 

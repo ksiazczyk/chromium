@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google One deep link utility header
+// summary: Declares helpers that detect Google One deep link URLs, extract the account parameter, and match it to a device system identity or Gaia ID.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_GOOGLE_ONE_SHARED_GOOGLE_ONE_DEEP_LINK_UTIL_H_
 #define IOS_CHROME_BROWSER_GOOGLE_ONE_SHARED_GOOGLE_ONE_DEEP_LINK_UTIL_H_
 

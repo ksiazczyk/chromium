@@ -1,0 +1,4 @@
+# Docerion header of google_one_coordinator.mm.
+type: source
+title: GoogleOneCoordinator implementation
+summary: Implements the Google One coordinator, handling entry points, deep links, scoped UI blockers, and outcome histogram logging.

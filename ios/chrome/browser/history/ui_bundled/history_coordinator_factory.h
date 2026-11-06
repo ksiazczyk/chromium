@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History coordinator factory declaration
+// summary: Declares CreateHistoryCoordinator, which initializes and returns a HistoryCoordinator for a given view controller and browser.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HISTORY_UI_BUNDLED_HISTORY_COORDINATOR_FACTORY_H_
 #define IOS_CHROME_BROWSER_HISTORY_UI_BUNDLED_HISTORY_COORDINATOR_FACTORY_H_
 

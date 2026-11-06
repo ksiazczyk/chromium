@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Google One coordinator BUILD.gn build targets
+summary: Defines the GN source sets and dependencies for the Google One coordinator and its unit tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FullscreenSystemNotificationObserver interface
+// summary: Declares FullscreenSystemNotificationObserver, which disables fullscreen when VoiceOver is enabled or the keyboard is visible and notifies the mediator of foreground events.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FULLSCREEN_UI_BUNDLED_FULLSCREEN_SYSTEM_NOTIFICATION_OBSERVER_H_
 #define IOS_CHROME_BROWSER_FULLSCREEN_UI_BUNDLED_FULLSCREEN_SYSTEM_NOTIFICATION_OBSERVER_H_
 

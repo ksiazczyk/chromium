@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DomainDiversityReporterFactory header
+// summary: Declares the DomainDiversityReporterFactory keyed service factory that creates domain diversity reporters per profile and registers their preferences.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HISTORY_MODEL_DOMAIN_DIVERSITY_REPORTER_FACTORY_H_
 #define IOS_CHROME_BROWSER_HISTORY_MODEL_DOMAIN_DIVERSITY_REPORTER_FACTORY_H_
 

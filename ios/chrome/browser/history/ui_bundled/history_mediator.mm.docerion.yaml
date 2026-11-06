@@ -1,0 +1,4 @@
+# Docerion header of history_mediator.mm.
+type: source
+title: HistoryMediator implementation
+summary: Implements favicon retrieval for history page URLs using the profile's FaviconLoader keyed service.

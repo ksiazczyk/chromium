@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web history service factory implementation
+// summary: Builds per-profile history::WebHistoryService instances using the sync service, identity manager, and the profile's URL loader factory.
+// ---
+
 #include "ios/chrome/browser/history/model/web_history_service_factory.h"
 
 #include "components/history/core/browser/web_history_service.h"

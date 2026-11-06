@@ -1,0 +1,4 @@
+# Docerion header of history_coordinator_factory.mm.
+type: source
+title: History coordinator factory implementation
+summary: Creates a HistoryCoordinator, selecting the Swift implementation when Swift C++ interop is enabled and otherwise falling back to the Objective-C implementation.

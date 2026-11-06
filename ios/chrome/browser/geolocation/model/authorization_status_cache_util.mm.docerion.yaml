@@ -1,0 +1,4 @@
+# Docerion header of authorization_status_cache_util.mm.
+type: source
+title: Authorization status cache utility implementation
+summary: Stores and retrieves the geolocation authorization status in NSUserDefaults so it persists across app runs.

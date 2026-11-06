@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn targets for Google One iOS test support
+summary: Defines test-only GN source sets for Google One test constants, app interface support, stubs, and Earl Grey tests.

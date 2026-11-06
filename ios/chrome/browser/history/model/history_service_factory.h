@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoryServiceFactory header
+// summary: Declares the iOS HistoryServiceFactory singleton that associates HistoryService instances with profiles and provides a default test factory.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HISTORY_MODEL_HISTORY_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_HISTORY_MODEL_HISTORY_SERVICE_FACTORY_H_
 

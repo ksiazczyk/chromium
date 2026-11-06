@@ -1,0 +1,4 @@
+# Docerion header of google_one_app_interface_stub.mm.
+type: test
+title: Stub binding for the Google One app interface
+summary: Stubs the Google One app interface into the app main queue for Earl Grey test runs.

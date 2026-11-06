@@ -1,0 +1,4 @@
+# Docerion header of legacy_fullscreen_mediator_unittest.mm.
+type: test
+title: LegacyFullscreenMediator unit tests
+summary: Unit tests verifying fullscreen behavior on scrolls to bottom, enabled state forwarding and toolbar height observation.

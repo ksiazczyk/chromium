@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FullscreenModel test utility declarations
+// summary: Declares helpers to set up a FullscreenModel and simulate user scrolls and progress for fullscreen tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FULLSCREEN_UI_BUNDLED_TEST_FULLSCREEN_MODEL_TEST_UTIL_H_
 #define IOS_CHROME_BROWSER_FULLSCREEN_UI_BUNDLED_TEST_FULLSCREEN_MODEL_TEST_UTIL_H_
 

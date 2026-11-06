@@ -1,0 +1,4 @@
+# Docerion header of history_service_factory.mm.
+type: source
+title: History service factory for iOS profiles
+summary: Creates and provides per-profile history::HistoryService instances, wiring in bookmarks, device info sync, and synced segments New Tab Page display preferences.

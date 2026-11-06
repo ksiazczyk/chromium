@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoryEntryItem class header
+// summary: Declares the table view item that displays a history entry with website title, URL, timestamp and favicon attributes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HISTORY_UI_BUNDLED_HISTORY_ENTRY_ITEM_H_
 #define IOS_CHROME_BROWSER_HISTORY_UI_BUNDLED_HISTORY_ENTRY_ITEM_H_
 

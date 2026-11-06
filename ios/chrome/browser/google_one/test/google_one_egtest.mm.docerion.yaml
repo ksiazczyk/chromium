@@ -1,0 +1,4 @@
+# Docerion header of google_one_egtest.mm.
+type: test
+title: Earl Grey tests for the Google One deep link
+summary: Verifies that opening a Google One deep link works when signed out and launches the test controller flow when signed in.

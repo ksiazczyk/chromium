@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoryTabHelper header
+// summary: Declares HistoryTabHelper, a WebState user data helper that records navigations, page titles, and language detection results into the history service.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HISTORY_MODEL_HISTORY_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_HISTORY_MODEL_HISTORY_TAB_HELPER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of history_util.mm.
+type: source
+title: History title formatting utility implementation
+summary: Implements FormattedTitle, applying BiDi and locale direction adjustments to history entry titles or URLs before returning an NSString.

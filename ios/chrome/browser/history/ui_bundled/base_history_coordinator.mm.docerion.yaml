@@ -1,0 +1,4 @@
+# Docerion header of base_history_coordinator.mm.
+type: source
+title: Base history coordinator implementation
+summary: Implements history presentation, wiring browsing history services, mediator and sharing.

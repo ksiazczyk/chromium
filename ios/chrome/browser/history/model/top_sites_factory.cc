@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Top sites service factory implementation
+// summary: Builds per-profile history::TopSitesImpl instances backed by the history service and template URL service, and registers TopSites preferences.
+// ---
+
 #include "ios/chrome/browser/history/model/top_sites_factory.h"
 
 #include <memory>

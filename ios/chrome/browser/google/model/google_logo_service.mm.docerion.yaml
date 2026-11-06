@@ -1,0 +1,4 @@
+# Docerion header of google_logo_service.mm.
+type: source
+title: Google logo service implementation
+summary: Implements GoogleLogoService, including the doodle cache directory and caching of light and dark logo bitmaps per profile.

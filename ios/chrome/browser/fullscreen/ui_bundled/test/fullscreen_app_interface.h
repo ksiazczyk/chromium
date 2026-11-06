@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FullscreenAppInterface test helper declarations
+// summary: Declares app-side helpers that expose fullscreen viewport insets, safe area insets and scroll state for Earl Grey tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FULLSCREEN_UI_BUNDLED_TEST_FULLSCREEN_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_FULLSCREEN_UI_BUNDLED_TEST_FULLSCREEN_APP_INTERFACE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of geolocation_manager_unittest.mm.
+type: test
+title: GeolocationManager unit tests
+summary: Tests the authorization status cache utility and the GeolocationManager caching behavior, with some flaky tests disabled.

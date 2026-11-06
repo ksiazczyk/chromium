@@ -1,0 +1,4 @@
+# Docerion header of animated_scoped_fullscreen_disabler.mm.
+type: source
+title: AnimatedScopedFullscreenDisabler implementation
+summary: Implements animated disabling of the fullscreen controller by incrementing its disabled counter inside a UIKit animation block.

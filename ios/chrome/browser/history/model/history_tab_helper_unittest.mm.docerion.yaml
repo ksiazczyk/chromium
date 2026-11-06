@@ -1,0 +1,4 @@
+# Docerion header of history_tab_helper_unittest.mm.
+type: test
+title: HistoryTabHelper unit tests
+summary: Tests HistoryTabHelper behavior such as NTP most-visited consideration and history queries using fake web states, navigation contexts, and test profiles.

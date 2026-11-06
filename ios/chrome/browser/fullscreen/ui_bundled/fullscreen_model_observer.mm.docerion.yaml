@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_model_observer.mm.
+type: source
+title: FullscreenModelObserver implementation
+summary: Implements the FullscreenModelObserver destructor, which checks that observers are removed from the model's observer list before destruction.

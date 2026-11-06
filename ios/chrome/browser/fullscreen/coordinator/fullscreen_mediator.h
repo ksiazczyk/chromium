@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fullscreen mediator interface
+// summary: Declares FullscreenMediator, which handles fullscreen commands and exposes a testing helper for scroll position.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FULLSCREEN_COORDINATOR_FULLSCREEN_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_FULLSCREEN_COORDINATOR_FULLSCREEN_MEDIATOR_H_
 

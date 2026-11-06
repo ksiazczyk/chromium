@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_web_state_list_observer_unittest.mm.
+type: test
+title: FullscreenWebStateListObserver unit tests
+summary: Unit tests verifying fullscreen behavior when WebStates are activated, inserted, removed, or replaced in the WebStateList.

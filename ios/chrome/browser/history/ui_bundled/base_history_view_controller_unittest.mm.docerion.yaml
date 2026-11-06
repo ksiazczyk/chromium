@@ -1,0 +1,4 @@
+# Docerion header of base_history_view_controller_unittest.mm.
+type: test
+title: Base history view controller unit tests
+summary: Unit tests for the history view controller using fake history and favicon services.

@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_web_view_proxy_observer.mm.
+type: source
+title: FullscreenWebViewProxyObserver implementation
+summary: Implements scroll view proxy observation, exiting fullscreen on status bar taps and relaying scroll dimensions to the fullscreen model.

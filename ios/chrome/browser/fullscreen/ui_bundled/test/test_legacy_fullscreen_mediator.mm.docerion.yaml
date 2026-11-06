@@ -1,0 +1,4 @@
+# Docerion header of test_legacy_fullscreen_mediator.mm.
+type: test
+title: TestLegacyFullscreenMediator implementation
+summary: Implements TestLegacyFullscreenMediator with a TestNoopAnimationProvider observer that adds empty animation blocks to fullscreen animators.

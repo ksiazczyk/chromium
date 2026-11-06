@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History URL filtering utilities
+// summary: Implements CanAddURLToHistory, which filters out JavaScript, DOM distiller, Chrome UI, file, about:blank, and new tab URLs from being added to history.
+// ---
+
 #include "ios/chrome/browser/history/model/history_utils.h"
 
 #include "components/dom_distiller/core/url_constants.h"

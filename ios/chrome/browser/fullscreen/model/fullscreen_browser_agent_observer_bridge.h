@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FullscreenBrowserAgentObserverBridge header
+// summary: Declares an Objective-C observer protocol and a C++ bridge class that forwards FullscreenBrowserAgent events to Objective-C delegates.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_FULLSCREEN_MODEL_FULLSCREEN_BROWSER_AGENT_OBSERVER_BRIDGE_H_
 #define IOS_CHROME_BROWSER_FULLSCREEN_MODEL_FULLSCREEN_BROWSER_AGENT_OBSERVER_BRIDGE_H_
 

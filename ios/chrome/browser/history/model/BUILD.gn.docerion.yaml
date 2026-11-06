@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn
+summary: GN build definition for the iOS history model, defining model, utils, tab_helper and unit_tests source sets with their dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the history UI directory
+summary: Lists the include paths allowed for code in the iOS history UI directory.

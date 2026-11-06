@@ -1,0 +1,4 @@
+# Docerion header of geolocation_manager.mm.
+type: source
+title: GeolocationManager implementation
+summary: Tracks CoreLocation authorization changes and logs initial and updated states to UMA histograms.

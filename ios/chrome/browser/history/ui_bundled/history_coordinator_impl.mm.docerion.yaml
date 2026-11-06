@@ -1,0 +1,4 @@
+# Docerion header of history_coordinator_impl.mm.
+type: source
+title: Objective-C history coordinator implementation
+summary: Implements HistoryCoordinatorImpl by configuring and presenting a HistoryTableViewController in a navigation controller and handling dismissal with completion callbacks.

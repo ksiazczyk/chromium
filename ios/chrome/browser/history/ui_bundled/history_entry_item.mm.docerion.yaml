@@ -1,0 +1,4 @@
+# Docerion header of history_entry_item.mm.
+type: source
+title: HistoryEntryItem implementation
+summary: Implements the history entry table view item, configuring cell content, favicon display and custom accessibility actions such as delete and open in new tab.

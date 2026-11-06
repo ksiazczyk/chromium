@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_model_test_util.mm.
+type: test
+title: FullscreenModel test utility implementation
+summary: Implements scroll simulation and offset calculation helpers used to drive FullscreenModel in fullscreen tests.

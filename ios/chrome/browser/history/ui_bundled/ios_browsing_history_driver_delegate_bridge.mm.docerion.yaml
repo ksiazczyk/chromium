@@ -1,0 +1,4 @@
+# Docerion header of ios_browsing_history_driver_delegate_bridge.mm.
+type: source
+title: IOSBrowsingHistoryDriverDelegateBridge implementation
+summary: Implements the delegate bridge, forwarding history query results, deletions, and notices to the Objective-C HistoryConsumer delegate.

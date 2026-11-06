@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_browser_agent_unittest.mm.
+type: test
+title: FullscreenBrowserAgent unit tests
+summary: Unit tests covering fullscreen state transitions, obscured insets, observer callbacks, metrics, and reentrant update handling.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the iOS Chrome InstanceID profile service factory
+// summary: Implements the profile-keyed factory that builds an InstanceIDProfileService for each Chrome iOS profile using the GCM driver.
+// ---
+
 #include "ios/chrome/browser/gcm/model/instance_id/ios_chrome_instance_id_profile_service_factory.h"
 
 #include "base/memory/ptr_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web history service factory header
+// summary: Declares WebHistoryServiceFactory, a singleton that owns WebHistoryService instances keyed by profile.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HISTORY_MODEL_WEB_HISTORY_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_HISTORY_MODEL_WEB_HISTORY_SERVICE_FACTORY_H_
 

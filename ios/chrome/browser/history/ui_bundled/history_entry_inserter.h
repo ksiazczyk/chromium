@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History entry inserter interface
+// summary: Declares HistoryEntryInserter, which inserts history entries into a ListModel in sorted, date-grouped order, along with its delegate protocol for insertion and removal callbacks.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HISTORY_UI_BUNDLED_HISTORY_ENTRY_INSERTER_H_
 #define IOS_CHROME_BROWSER_HISTORY_UI_BUNDLED_HISTORY_ENTRY_INSERTER_H_
 

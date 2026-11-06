@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for fullscreen model
+summary: Defines the model and unit_tests source sets with their sources and dependencies for the fullscreen model directory.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Google One shared include rules
+summary: Specifies allowed include dependencies for the shared Google One directory, covering application context, signin model, and test code.

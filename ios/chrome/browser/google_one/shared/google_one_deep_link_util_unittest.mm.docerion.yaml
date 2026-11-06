@@ -1,0 +1,4 @@
+# Docerion header of google_one_deep_link_util_unittest.mm.
+type: test
+title: Google One deep link utility unit tests
+summary: Unit tests verifying deep link URL handling, account extraction, and identity and Gaia ID matching using fake identities and a fake provider factory.

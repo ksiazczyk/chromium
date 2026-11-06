@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoryMenuProvider protocol
+// summary: Declares the protocol for objects that supply context menu configurations for history entry items and their views.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_HISTORY_UI_BUNDLED_HISTORY_MENU_PROVIDER_H_
 #define IOS_CHROME_BROWSER_HISTORY_UI_BUNDLED_HISTORY_MENU_PROVIDER_H_
 

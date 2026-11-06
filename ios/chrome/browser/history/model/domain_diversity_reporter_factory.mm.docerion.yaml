@@ -1,0 +1,4 @@
+# Docerion header of domain_diversity_reporter_factory.mm.
+type: source
+title: DomainDiversityReporterFactory implementation
+summary: Builds DomainDiversityReporter instances for non-incognito profiles using the history service and registers the reporter's profile preferences.

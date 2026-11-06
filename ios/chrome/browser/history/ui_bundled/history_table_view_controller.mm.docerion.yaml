@@ -1,0 +1,4 @@
+# Docerion header of history_table_view_controller.mm.
+type: source
+title: History table view controller implementation
+summary: Implements the table view controller that displays browsing history entries and handles deletion, search, drag and drop, and opening entries.

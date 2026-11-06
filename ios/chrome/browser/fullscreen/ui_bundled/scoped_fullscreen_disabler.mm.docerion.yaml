@@ -1,0 +1,4 @@
+# Docerion header of scoped_fullscreen_disabler.mm.
+type: source
+title: ScopedFullscreenDisabler implementation
+summary: Implements ScopedFullscreenDisabler, which temporarily disables fullscreen by incrementing a controller's disabled counter or sending disable/reenable commands to a handler, with safeguards for browser shutdown.

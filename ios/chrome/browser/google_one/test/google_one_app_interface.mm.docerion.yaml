@@ -1,0 +1,4 @@
+# Docerion header of google_one_app_interface.mm.
+type: test
+title: Google One test app interface implementation
+summary: Implements overriding and restoring the Google One controller factory using the shared test controller factory.
