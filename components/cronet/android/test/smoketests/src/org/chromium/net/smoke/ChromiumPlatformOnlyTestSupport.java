@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Platform-only test support for Cronet smoke tests
+// summary: Implements Java-only test support that serves an HTTP1 test server and rejects QUIC, HTTP2, and operations needing Chromium native code.
+// ---
+
 package org.chromium.net.smoke;
 
 import android.content.Context;

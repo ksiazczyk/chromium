@@ -1,0 +1,4 @@
+# Docerion header of run_gn2bp.py.
+type: script
+title: Cronet gn2bp CI driver script
+summary: Driver script that runs gn2bp on the Chromium CI builder to generate Android.bp files and open an AOSP Gerrit CL via Copybara for Soong build verification.

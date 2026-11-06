@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the protocol handler navigation throttle
+// summary: Implements a navigation throttle that defers navigations to unconfirmed protocol handlers and prompts the user for permission before proceeding or cancelling.
+// ---
+
 #include "components/custom_handlers/protocol_handler_navigation_throttle.h"
 
 #include "base/check_is_test.h"

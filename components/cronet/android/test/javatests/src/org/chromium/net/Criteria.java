@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Criteria condition interface
+// summary: Small interface used in Cronet tests to validate whether a tested condition or criteria has been satisfied.
+// ---
+
 package org.chromium.net;
 
 /** Provides a means for validating whether some condition/criteria has been met. */

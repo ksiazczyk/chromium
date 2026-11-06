@@ -1,0 +1,4 @@
+# Docerion header of simple_20k.txt.
+type: test
+title: 20 KB QUIC test text file
+summary: Large HTTP response fixture with repeated filler text served by the QUIC test server for Cronet Android tests.

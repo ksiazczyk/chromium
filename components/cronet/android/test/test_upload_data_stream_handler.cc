@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Upload data stream test handler implementation
+// summary: Implements the JNI handler that drives net::UploadDataStream init, read, and reset calls on the network thread during Cronet upload tests.
+// ---
+
 #include "components/cronet/android/test/test_upload_data_stream_handler.h"
 
 #include <stddef.h>

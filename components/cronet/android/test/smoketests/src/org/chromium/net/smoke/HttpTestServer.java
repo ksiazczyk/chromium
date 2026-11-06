@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Netty-based HTTP test server for smoke tests
+// summary: Simple Netty HTTP/1.1 server on localhost that starts, shuts down, and reports a success URL for Cronet smoke tests.
+// ---
+
 package org.chromium.net.smoke;
 
 import static io.netty.handler.codec.http.HttpResponseStatus.OK;

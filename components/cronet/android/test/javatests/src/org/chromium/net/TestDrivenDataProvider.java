@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test-driven UploadDataProvider helper
+// summary: UploadDataProvider for tests that lets the test fixture invoke onReadSucceeded and onRewindSucceeded directly to exercise the ordering of init, read, and rewind calls.
+// ---
+
 package org.chromium.net;
 
 import android.os.ConditionVariable;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test NetworkQualityRttListener helper
+// summary: NetworkQualityRttListener test double that records RTT observations by source, verifies notifications arrive on a single executor thread, and waits for the first URL-request-layer RTT.
+// ---
+
 package org.chromium.net;
 
 import static com.google.common.truth.Truth.assertThat;

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Metadata model for third-party dependencies
+# summary: Models parsed dependency metadata and renders it as Android METADATA textproto, including license type, version, identifiers, and CPE security tags.
+# ---
+
 from typing import Dict, List, Union
 import metadata_dictionary
 import constants

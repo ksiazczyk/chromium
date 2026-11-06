@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared utilities for Cronet metrics tests
+// summary: Shared helpers for testing Cronet request metrics, including a manually driven executor and assertions for timing and connect timing metrics.
+// ---
+
 package org.chromium.net;
 
 import static com.google.common.truth.Truth.assertThat;

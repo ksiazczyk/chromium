@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Translation configuration for Cronet gn2bp
+# summary: Configures the GN-to-Soong translation with hooks that add dependencies such as BoringSSL, zlib, and AndroidX or test libraries to generated modules.
+# ---
+
 import gn_utils
 
 import build.gn_helpers  # noqa: F401

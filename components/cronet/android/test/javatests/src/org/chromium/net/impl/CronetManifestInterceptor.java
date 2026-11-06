@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cronet manifest meta-data test interceptor
+// summary: Test helper ContextInterceptor that makes an intercepted Android Context advertise a configurable set of Cronet manifest meta-data.
+// ---
+
 package org.chromium.net.impl;
 
 import android.content.ComponentName;

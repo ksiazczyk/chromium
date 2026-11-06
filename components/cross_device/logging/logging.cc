@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrossDeviceScopedLogMessage implementation
+// summary: Implements the scoped log message that adds its streamed text to the cross device log buffer and forwards it to the standard logging system on destruction.
+// ---
+
 #include "components/cross_device/logging/logging.h"
 #include "base/command_line.h"
 

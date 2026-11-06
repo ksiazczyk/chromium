@@ -1,0 +1,4 @@
+# Docerion header of set_cookie.html.mock-http-headers.
+type: test
+title: Mock HTTP headers setting a cookie
+summary: Mock HTTP headers that make the test server respond with a Set-Cookie header for cookie handling tests.

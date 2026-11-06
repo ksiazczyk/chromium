@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for cross device logging
+// summary: Verifies that CD_LOG messages are saved to the buffer with correct text, file, line, and severity, and that oldest entries are discarded when the buffer is full.
+// ---
+
 #include <stddef.h>
 
 #include "base/no_destructor.h"

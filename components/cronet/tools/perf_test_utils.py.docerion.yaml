@@ -1,0 +1,4 @@
+# Docerion header of perf_test_utils.py.
+type: source
+title: Cronet performance test utilities
+summary: Shared helpers and benchmark configuration for Cronet performance tests, including QUIC server setup, certificates, and device configuration.

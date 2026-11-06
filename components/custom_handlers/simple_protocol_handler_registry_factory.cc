@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleProtocolHandlerRegistryFactory implementation
+// summary: Implements the singleton keyed service factory that builds ProtocolHandlerRegistry instances without PrefService access, intended for testing.
+// ---
+
 #include "components/custom_handlers/simple_protocol_handler_registry_factory.h"
 
 #include <memory>

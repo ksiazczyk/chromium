@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UserAgent unit tests
+// summary: Unit tests for the UserAgent class covering legacy and default user agent selection across Cronet sources and manifest metadata.
+// ---
+
 package org.chromium.net.impl;
 
 import static com.google.common.truth.Truth.assertThat;

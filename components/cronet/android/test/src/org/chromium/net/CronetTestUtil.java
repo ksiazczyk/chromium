@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cronet test utilities
+// summary: Provides utilities for Cronet tests, including host resolver rules, load flag access, connection option queries, and mock certificate verifier setup.
+// ---
+
 package org.chromium.net;
 
 import static com.google.common.truth.Truth.assertWithMessage;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cronet test utility declarations
+// summary: Declares the TestUtil class of static helpers for accessing Cronet URLRequestContext and URLRequest internals during Android tests.
+// ---
+
 #ifndef COMPONENTS_CRONET_ANDROID_TEST_CRONET_TEST_UTIL_H_
 #define COMPONENTS_CRONET_ANDROID_TEST_CRONET_TEST_UTIL_H_
 

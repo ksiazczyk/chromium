@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Protocol handler registry unit tests
+// summary: Unit tests covering registration, defaults, persistence, incognito behavior, and observer notifications of the protocol handler registry.
+// ---
+
 #include "components/custom_handlers/protocol_handler_registry.h"
 
 #include <stddef.h>

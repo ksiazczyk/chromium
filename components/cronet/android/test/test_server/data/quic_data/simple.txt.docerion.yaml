@@ -1,0 +1,4 @@
+# Docerion header of simple.txt.
+type: test
+title: Simple QUIC test text file
+summary: Small HTTP response fixture served by the QUIC test server, returning a short plain-text body for Cronet Android tests.

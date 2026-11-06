@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Adaptive request context tests
+// summary: Tests CronetAdaptiveRequestContext behavior, including fallback reporting, network memorization and adaptive network HttpFlags configuration.
+// ---
+
 package org.chromium.net.impl;
 
 import static org.junit.Assert.assertEquals;

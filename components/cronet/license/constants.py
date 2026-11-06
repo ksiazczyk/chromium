@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Cronet license constants and post-processing mappings
+# summary: Defines raw license name mappings to formatted details and SPDX identifiers, plus post-processing operations that rewrite license fields for specific third_party README.chromium files.
+# ---
+
 from typing import Callable, Dict, List, Union
 from mapper import Mapper
 from license_type import LicenseType

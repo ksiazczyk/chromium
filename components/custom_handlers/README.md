@@ -1,3 +1,9 @@
+---
+type: readme
+title: Custom Handlers
+summary: Documents the custom protocol handlers component, its HTML-spec basis, security and privacy checks, and the high-level architecture of its classes.
+---
+
 # Custom Handlers
 
 The custom handlers component provides a way to register custom

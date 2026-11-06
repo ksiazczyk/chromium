@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CronetUploadTest
+// summary: Instrumentation tests that directly drive CronetUploadDataStream and UploadDataProvider to exercise init, read, rewind, and reset ordering in the native implementation.
+// ---
+
 package org.chromium.net;
 
 import static com.google.common.truth.Truth.assertThat;

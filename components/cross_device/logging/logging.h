@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross Device logging macro and helper declarations
+// summary: Declares the CD_LOG macro and the CrossDeviceScopedLogMessage class, which send Cross Device feature log messages to the standard logging system and to a buffer surfaced in the internal debug WebUI.
+// ---
+
 #ifndef COMPONENTS_CROSS_DEVICE_LOGGING_LOGGING_H_
 #define COMPONENTS_CROSS_DEVICE_LOGGING_LOGGING_H_
 

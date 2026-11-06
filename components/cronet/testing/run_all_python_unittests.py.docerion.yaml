@@ -1,0 +1,4 @@
+# Docerion header of run_all_python_unittests.py.
+type: script
+title: Runner for all Cronet Python unit tests
+summary: Discovers and runs all Python unit tests under components/cronet using the typ test runner from third_party/catapult.

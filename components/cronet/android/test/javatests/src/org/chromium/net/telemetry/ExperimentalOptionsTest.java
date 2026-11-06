@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExperimentalOptionsTest
+// summary: Android unit tests verifying that ExperimentalOptions parses QUIC connection options and falls back to unset values for null or invalid input.
+// ---
+
 package org.chromium.net.telemetry;
 
 import static com.google.common.truth.Truth.assertThat;

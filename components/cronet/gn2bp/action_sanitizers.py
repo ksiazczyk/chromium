@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Action sanitizers for GN to Soong translation
+# summary: Defines sanitizer classes that rewrite GN action script invocations into Soong genrule shell commands, handling location tags, output directories, and response files.
+# ---
+
 import os
 import re
 import copy

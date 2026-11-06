@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Experimental options test JNI helpers
+// summary: Provides JNI helpers for experimental options tests, including writing entries into the host cache and reporting whether options parsing may fail.
+// ---
+
 #include <jni.h>
 
 #include "base/android/jni_android.h"

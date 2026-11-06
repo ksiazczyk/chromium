@@ -1,6 +1,13 @@
 # Copyright 2024 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Rust build script output generator
+# summary: Pre-runs Rust build scripts on the Chromium side to emit cargo_flags.rs and generated Rust code, since Soong cannot execute build scripts at build time.
+# ---
+
 """
 Rust crates can generate code at build time through a host-compiled Rust binary called a "build script".
 

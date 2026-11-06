@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: CRX file component issue tracker metadata
+summary: Maps the component to the Platform>Extensions monorail component and Buganizer component ID 1456110.

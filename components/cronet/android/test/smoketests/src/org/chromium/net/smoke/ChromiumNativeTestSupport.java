@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chromium native test support for Cronet smoke tests
+// summary: Provides QUIC and HTTP2 test servers, host resolver rules, mock cert verifier setup, and native test library loading for Cronet smoke tests.
+// ---
+
 package org.chromium.net.smoke;
 
 import android.content.Context;

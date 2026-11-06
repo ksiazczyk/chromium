@@ -4,6 +4,13 @@ Copyright 2014 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: test
+title: Android manifest for Cronet Android instrumentation tests
+summary: Manifest for the Cronet Android test app that declares required permissions, package visibility for the EmbeddedTestServer, legacy external storage access, and the AndroidJUnitRunner instrumentation.
+-->
+
   <manifest xmlns:android="http://schemas.android.com/apk/res/android"
             xmlns:tools="http://schemas.android.com/tools"
             package="org.chromium.net.tests"

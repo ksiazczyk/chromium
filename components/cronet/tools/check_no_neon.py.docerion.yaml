@@ -1,0 +1,4 @@
+# Docerion header of check_no_neon.py.
+type: script
+title: ARM Neon instruction check for Cronet
+summary: Build check that uses objdump to verify ARM object files contain no Neon instructions, touching a stamp on success.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User-Agent test utilities
+// summary: Helpers that build expected user agent strings and context interceptors with legacy user agent metadata for Cronet tests.
+// ---
+
 package org.chromium.net.impl;
 
 import android.content.Context;

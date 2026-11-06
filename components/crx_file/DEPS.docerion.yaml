@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: CRX file component dependency rules
+summary: Grants the crx_file component include access to the crypto directory.

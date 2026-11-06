@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HashTest
+// summary: Android unit tests checking that Hash.hash returns zero for null or empty input and expected MD5-derived values for byte arrays and strings.
+// ---
+
 package org.chromium.net.telemetry;
 
 import static com.google.common.truth.Truth.assertThat;

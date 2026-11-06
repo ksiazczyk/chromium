@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Generate version script from symbols intersection
+# summary: Command-line tool that generates a linker version script exposing only the symbols one shared library imports from another, based on llvm-objdump output.
+# ---
+
 import argparse
 import sys
 import os

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRX3 file format protobuf definition
+// summary: Defines the CRX3 binary format as protobuf messages covering the header layout, RSA and ECDSA signature proofs, verified contents, and signed header data.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: CRX file component build rules
+summary: Defines GN targets for the crx_file and crx_creator libraries, the crx3 proto, unit tests with test data, and the crx3_build_action test executable.

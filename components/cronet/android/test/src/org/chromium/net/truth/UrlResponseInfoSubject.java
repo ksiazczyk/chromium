@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Truth subject for Cronet UrlResponseInfo assertions
+// summary: Custom Google Truth subject that provides fluent assertions on Cronet's UrlResponseInfo, covering URL, status code, headers, protocol, proxy, byte count, and caching state in Android tests.
+// ---
+
 package org.chromium.net.truth;
 
 import static com.google.common.truth.Fact.simpleFact;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Logcat capture test utility
+// summary: Test utility that captures logcat output so tests can read and assert on log lines produced after the capture starts.
+// ---
+
 package org.chromium.net;
 
 import org.chromium.base.Log;

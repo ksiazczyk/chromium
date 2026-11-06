@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CronetLogger JUnit test rule
+// summary: JUnit TestRule that swaps in a fresh fake CronetLogger for each test and exposes it to the test class for assertions.
+// ---
+
 package org.chromium.net;
 
 import androidx.annotation.NonNull;

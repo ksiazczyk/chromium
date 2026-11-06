@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Mapper class for conditional metadata overwrites
+# summary: Provides a Mapper that overwrites a metadata field with a new value after checking the expected current value, raising MapperException when expectations fail.
+# ---
+
 from typing import Dict, List, Union
 
 

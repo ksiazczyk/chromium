@@ -1,0 +1,4 @@
+# Docerion header of cacheable.txt.mock-http-headers.
+type: test
+title: Mock HTTP headers for cacheable.txt
+summary: Mock HTTP response headers returning 200 OK with a 300-second Cache-Control max-age for the cacheable fixture.

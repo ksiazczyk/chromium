@@ -1,0 +1,4 @@
+# Docerion header of update_api.py.
+type: script
+title: Cronet API update script
+summary: Regenerates the committed Cronet API dump (api.txt) and its version stamp from the API jar via javap, and checks whether the committed API is up to date.

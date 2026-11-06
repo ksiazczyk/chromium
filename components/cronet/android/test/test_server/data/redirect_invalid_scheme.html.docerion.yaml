@@ -1,0 +1,4 @@
+# Docerion header of redirect_invalid_scheme.html.
+type: test
+title: Redirect page for invalid scheme test
+summary: HTML body served by the test server for the redirect test case with an invalid redirect scheme.

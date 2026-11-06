@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the cross device logging component
+summary: Defines the logging component with its sources and the testonly unit_tests source set, including their dependencies for this directory.

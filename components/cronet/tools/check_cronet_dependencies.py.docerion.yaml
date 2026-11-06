@@ -1,0 +1,4 @@
+# Docerion header of check_cronet_dependencies.py.
+type: script
+title: Cronet dependency checker
+summary: Script that audits Cronet's transitive GN dependencies and normalizes third_party labels to keep the dependency set tracked.

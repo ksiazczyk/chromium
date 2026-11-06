@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RateLimiterTest
+// summary: Android unit tests for RateLimiter covering immediate rate limiting and rejection of negative samples-per-second values.
+// ---
+
 package org.chromium.net.telemetry;
 
 import static org.junit.Assert.assertFalse;

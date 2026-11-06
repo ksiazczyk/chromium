@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Utilities for parsing Chromium README metadata
+# summary: Parses README.chromium files into Metadata objects, validates known and multivalue fields, and provides helpers for license types, names, and file formats.
+# ---
+
 import os.path
 from typing import List, Callable  # noqa: F401
 import re

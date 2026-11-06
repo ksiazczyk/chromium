@@ -1,0 +1,4 @@
+# Docerion header of symbols_objdump.txt.
+type: test
+title: Objdump symbols fixture for symbols map generator
+summary: Sample objdump dynamic symbol table output for libhttpengine.so used as test input for the Cronet symbols map generator.

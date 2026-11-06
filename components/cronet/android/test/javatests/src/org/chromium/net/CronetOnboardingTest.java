@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cronet onboarding test
+// summary: Deliberately simple test used in onboarding instructions to teach new contributors how to build, run, fix and submit changes to Cronet.
+// ---
+
 package org.chromium.net;
 
 import static com.google.common.truth.Truth.assertThat;

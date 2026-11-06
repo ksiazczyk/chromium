@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BidirectionalStream QUIC tests
+// summary: Android instrumentation tests verifying the QUIC implementation of Cronet's BidirectionalStream, including QUIC negotiation, requests and engine setup with a QUIC test server.
+// ---
+
 package org.chromium.net;
 
 import static com.google.common.truth.Truth.assertThat;

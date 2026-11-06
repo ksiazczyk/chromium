@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QUIC smoke test for Cronet
+// summary: Runs requests against a QUIC test server with QUIC enabled and asserts that a QUIC protocol is eventually negotiated.
+// ---
+
 package org.chromium.net.smoke;
 
 import static com.google.common.truth.Truth.assertThat;

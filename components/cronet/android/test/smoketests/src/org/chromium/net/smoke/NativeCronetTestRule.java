@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test rule for native Cronet engine smoke tests
+// summary: JUnit rule that loads the native test library, asserts a native engine, and records and processes a netlog around each test.
+// ---
+
 package org.chromium.net.smoke;
 
 import androidx.test.core.app.ApplicationProvider;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for Cronet under network change scenarios
+// summary: Instrumentation tests exercising Cronet behavior across fake network changes such as swapping the default network and disconnecting or reconnecting networks.
+// ---
+
 package org.chromium.net;
 
 import static android.system.OsConstants.AF_INET6;

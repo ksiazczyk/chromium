@@ -1,0 +1,4 @@
+# Docerion header of server_error.txt.
+type: test
+title: Server error response body
+summary: Body text returned by the test server to simulate a server error response.

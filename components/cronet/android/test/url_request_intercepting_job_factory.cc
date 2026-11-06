@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL request intercepting job factory implementation
+// summary: Implements a URLRequestJobFactory wrapper that gives a URLRequestInterceptor the first chance to create jobs before falling back to the wrapped factory.
+// ---
+
 #include "components/cronet/android/test/url_request_intercepting_job_factory.h"
 
 #include <utility>

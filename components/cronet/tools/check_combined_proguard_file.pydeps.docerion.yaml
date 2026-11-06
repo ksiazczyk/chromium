@@ -1,0 +1,4 @@
+# Docerion header of check_combined_proguard_file.pydeps.
+type: config
+title: Python dependency list for check_combined_proguard_file
+summary: Generated list of Python module dependencies for check_combined_proguard_file.py, used by the build to bundle script dependencies.

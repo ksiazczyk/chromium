@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL request context config test registration header
+// summary: Declares RegisterCronetUrlRequestContextConfigTest, which registers the config verification JNI methods with the Java test side.
+// ---
+
 #ifndef COMPONENTS_CRONET_ANDROID_TEST_CRONET_URL_REQUEST_CONTEXT_CONFIG_TEST_H_
 #define COMPONENTS_CRONET_ANDROID_TEST_CRONET_URL_REQUEST_CONTEXT_CONFIG_TEST_H_
 

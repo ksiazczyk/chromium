@@ -1,0 +1,4 @@
+# Docerion header of cr_cronet.py.
+type: script
+title: Cronet developer helper tool
+summary: Command-line helper for Cronet developers that generates builds, installs APKs, runs instrumentation and unit tests, and debugs Cronet on Android.

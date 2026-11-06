@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ResolvedFlagsTest
+// summary: Unit tests for ResolvedFlags.resolve covering flag resolution against app id, version and constraints, including empty protos and constrained value matching.
+// ---
+
 package org.chromium.net.httpflags;
 
 import static com.google.common.truth.Truth.assertThat;

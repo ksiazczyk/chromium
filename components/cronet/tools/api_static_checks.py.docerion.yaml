@@ -1,0 +1,4 @@
+# Docerion header of api_static_checks.py.
+type: script
+title: Cronet API static checks
+summary: Script that enforces Cronet API requirements by checking implementation calls through API classes and verifying the recorded API is unchanged.

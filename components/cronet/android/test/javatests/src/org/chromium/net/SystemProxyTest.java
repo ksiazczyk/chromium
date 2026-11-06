@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System proxy tests for Cronet
+// summary: Android tests verifying Cronet's use of the system proxy, including broadcast-driven proxy change notifications and proxy configuration handling via an intercepted broadcast context.
+// ---
+
 package org.chromium.net;
 
 import static com.google.common.truth.Truth.assertThat;

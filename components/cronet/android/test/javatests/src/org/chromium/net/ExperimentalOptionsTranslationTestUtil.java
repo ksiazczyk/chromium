@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Experimental options translation test utilities
+// summary: Shared utility class for Cronet experimental options translation tests, providing telephone-keypad encoding, JSON equality assertions, and a mock engine builder implementation.
+// ---
+
 package org.chromium.net;
 
 import static com.google.common.truth.Truth.assertThat;

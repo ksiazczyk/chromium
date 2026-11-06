@@ -1,0 +1,4 @@
+# Docerion header of success.txt.mock-http-headers.
+type: test
+title: Mock HTTP headers for the success response
+summary: Mock HTTP headers adding content type, CORS and custom header values to the success.txt response.

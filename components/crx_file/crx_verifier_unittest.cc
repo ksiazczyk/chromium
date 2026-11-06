@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CRX verifier unit tests
+// summary: Unit tests covering verification of valid CRX3 files, rejection of CRX2, required file hashes, and publisher proof requirements using known extension keys and IDs.
+// ---
+
 #include "components/crx_file/crx_verifier.h"
 
 #include <stdint.h>

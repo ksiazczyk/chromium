@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protocol handler URL loader throttle declaration
+// summary: Declares the blink URLLoaderThrottle that translates URLs with handled schemes using the protocol handler registry.
+// ---
+
 #ifndef COMPONENTS_CUSTOM_HANDLERS_PROTOCOL_HANDLER_THROTTLE_H_
 #define COMPONENTS_CUSTOM_HANDLERS_PROTOCOL_HANDLER_THROTTLE_H_
 

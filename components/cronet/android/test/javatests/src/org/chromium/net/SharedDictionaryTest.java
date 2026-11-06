@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared compression dictionary tests for Cronet
+// summary: Tests Cronet's external compression dictionary support on API 34+, validating hash requirements, dictionary registration, and compressed responses over an HTTPS native test server.
+// ---
+
 package org.chromium.net;
 
 import static com.google.common.truth.Truth.assertThat;

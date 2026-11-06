@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for UrlRequest status reporting
+// summary: Android instrumentation tests verifying that Cronet UrlRequest getStatus returns correct statuses before, during, and after the request lifecycle.
+// ---
+
 package org.chromium.net;
 
 import static com.google.common.truth.Truth.assertThat;

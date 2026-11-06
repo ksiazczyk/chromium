@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HTTP/2 test server wrapper
+// summary: Starts and manages a Netty-based TLS HTTP/2 test server on port 8443, with options for hanging URLs and packet handlers, for Cronet tests.
+// ---
+
 package org.chromium.net;
 
 import android.content.Context;

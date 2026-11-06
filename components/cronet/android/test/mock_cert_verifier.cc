@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock certificate verifier factory for Cronet tests
+// summary: Creates net::MockCertVerifier instances from test certificates via JNI, computing public key SHA256 hashes for pinning verification tests.
+// ---
+
 #include "net/cert/mock_cert_verifier.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cronet logger tests
+// summary: Tests Cronet logging functionality, including engine builder info, version and traffic info recorded through a test logger.
+// ---
+
 package org.chromium.net.impl;
 
 import static android.os.Process.THREAD_PRIORITY_DEFAULT;

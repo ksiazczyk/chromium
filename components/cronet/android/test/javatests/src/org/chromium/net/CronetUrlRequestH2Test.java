@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CronetUrlRequestH2Test
+// summary: Instrumentation tests for CronetUrlRequest behavior against an HTTP/2 test server, such as upload handling with empty buffers.
+// ---
+
 package org.chromium.net;
 
 import static com.google.common.truth.Truth.assertThat;

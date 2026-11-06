@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Public-key pinning tests for the Cronet Java API
+// summary: Android instrumentation tests verifying Cronet's public-key pinning behavior, covering matching and non-matching pin hashes, subdomain handling, and pinning bypass for local anchors against an HTTP/2 test server.
+// ---
+
 package org.chromium.net;
 
 import static com.google.common.truth.Truth.assertThat;

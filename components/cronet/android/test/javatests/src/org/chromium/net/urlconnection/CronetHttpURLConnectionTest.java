@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CronetHttpURLConnectionTest
+// summary: Android instrumentation tests covering basic behavior of Cronet's HttpURLConnection implementation, including GET and PUT requests, timeouts, and response handling.
+// ---
+
 package org.chromium.net.urlconnection;
 
 import static com.google.common.truth.Truth.assertThat;

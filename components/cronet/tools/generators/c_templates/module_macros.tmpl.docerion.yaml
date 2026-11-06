@@ -1,0 +1,4 @@
+# Docerion header of module_macros.tmpl.
+type: source
+title: Cronet C template macros for parameter and return declarations
+summary: Jinja macro template that renders C parameter declarations, argument forwarding lists, and return types for Cronet's generated C API modules.

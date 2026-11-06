@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestUtil
+// summary: Shared helper class for Cronet's HttpURLConnection tests, providing upload data constants and utilities to read response bodies and check large payloads.
+// ---
+
 package org.chromium.net.urlconnection;
 
 import static com.google.common.truth.Truth.assertThat;

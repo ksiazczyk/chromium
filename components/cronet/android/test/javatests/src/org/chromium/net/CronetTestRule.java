@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CronetTestRule
+// summary: JUnit test rule for Cronet instrumentation tests that manages engine startup modes, implementation selection, flag annotations, and response assertions.
+// ---
+
 package org.chromium.net;
 
 import static com.google.common.truth.Truth.assertThat;

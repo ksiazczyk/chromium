@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for a missing native Cronet library
+// summary: Checks that building a Cronet engine throws when the native .so is absent and that the Java fallback engine can be selected instead.
+// ---
+
 package org.chromium.net.smoke;
 
 import static com.google.common.truth.Truth.assertThat;

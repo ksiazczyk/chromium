@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Base JUnit rule for Cronet smoke tests
+// summary: Abstract JUnit rule that builds and shuts down the Cronet engine and offers shared assertions for responses and Java versus native engines.
+// ---
+
 package org.chromium.net.smoke;
 
 import static com.google.common.truth.Truth.assertThat;

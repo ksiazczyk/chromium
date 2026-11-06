@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test files installer helper
+// summary: Resolves the installed path of test server data files, with an install hook that is overridden when tests run in other configurations.
+// ---
+
 package org.chromium.net;
 
 import android.content.Context;

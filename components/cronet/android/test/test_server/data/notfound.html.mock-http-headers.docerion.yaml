@@ -1,0 +1,4 @@
+# Docerion header of notfound.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for not found page
+summary: Mock HTTP headers returning a 404 Not Found status for the notfound test page.

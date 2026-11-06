@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Upload data stream test handler class declaration
+// summary: Declares TestUploadDataStreamHandler, which lets Java tests drive a net::UploadDataStream directly and verify init and read callbacks.
+// ---
+
 #ifndef COMPONENTS_CRONET_ANDROID_TEST_TEST_UPLOAD_DATA_STREAM_HANDLER_H_
 #define COMPONENTS_CRONET_ANDROID_TEST_TEST_UPLOAD_DATA_STREAM_HANDLER_H_
 

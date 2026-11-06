@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRX verifier implementation
+// summary: Implements verification of CRX3 files, hashing the archive, checking signatures and publisher proofs, and extracting the public key, CRX ID, and verified contents.
+// ---
+
 #include "components/crx_file/crx_verifier.h"
 
 #include <limits.h>

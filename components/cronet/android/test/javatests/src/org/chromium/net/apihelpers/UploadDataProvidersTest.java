@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for UploadDataProviders
+// summary: Android instrumentation tests for the default UploadDataProvider implementations in Cronet, covering file and file descriptor based upload providers against a native test server.
+// ---
+
 package org.chromium.net.apihelpers;
 
 import static com.google.common.truth.Truth.assertThat;

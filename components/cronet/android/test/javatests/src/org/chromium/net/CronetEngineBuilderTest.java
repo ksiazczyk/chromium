@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CronetEngine.Builder tests
+// summary: Tests for CronetEngine.Builder covering version string comparison, library preloading and score-based selection of the HTTP engine provider.
+// ---
+
 package org.chromium.net;
 
 import static com.google.common.truth.Truth.assertThat;

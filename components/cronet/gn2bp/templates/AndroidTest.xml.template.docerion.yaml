@@ -1,0 +1,4 @@
+# Docerion header of AndroidTest.xml.template.
+type: test
+title: Cronet gn2bp AndroidTest.xml template
+summary: TradeFed configuration template for running NetHttp coverage tests, pushing Cronet runtime test files and gating on SDK 31 and the tethering mainline module.

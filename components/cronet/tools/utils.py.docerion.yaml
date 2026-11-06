@@ -1,0 +1,4 @@
+# Docerion header of utils.py.
+type: script
+title: Cronet tools shared utilities
+summary: Provides general-purpose helpers for running shell, GN, and Ninja commands, chunking build targets, and comparing generated text against golden files for Cronet tooling.

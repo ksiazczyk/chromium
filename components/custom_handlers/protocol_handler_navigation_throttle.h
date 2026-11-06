@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProtocolHandlerNavigationThrottle class declaration
+// summary: Declares a navigation throttle that ensures the user has granted permission to the default protocol handler for a navigation's URL scheme before it proceeds.
+// ---
+
 #ifndef COMPONENTS_CUSTOM_HANDLERS_PROTOCOL_HANDLER_NAVIGATION_THROTTLE_H_
 #define COMPONENTS_CUSTOM_HANDLERS_PROTOCOL_HANDLER_NAVIGATION_THROTTLE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRX file header constants
+// summary: Defines the magic strings for CRX2 and CRX diff headers and the CRX3 signed-data signature context used when packing and verifying CRX files.
+// ---
+
 #ifndef COMPONENTS_CRX_FILE_CRX_FILE_H_
 #define COMPONENTS_CRX_FILE_CRX_FILE_H_
 

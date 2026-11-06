@@ -13,6 +13,12 @@
 #   * assumes that there is only one relevant element with the
 #     IDS_ACCEPT_LANGUAGES attribute
 
+# ---docerion
+# type: script
+# title: Accept languages header generator
+# summary: Generates a header mapping locales to accept-language strings, extracted from Chromium components_locale_settings .xtb string files.
+# ---
+
 from __future__ import print_function
 
 import os

@@ -1,0 +1,4 @@
+# Docerion header of content_length_mismatch.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for content length mismatch page
+summary: Mock HTTP headers declaring an oversized Content-Length of 1000000 to trigger a content length mismatch in tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QUIC request tests for Cronet
+// summary: Android instrumentation tests that make requests over QUIC using a QUIC test server, checking protocol negotiation, network quality estimator parameters, and Cronet traffic logging.
+// ---
+
 package org.chromium.net;
 
 import static com.google.common.truth.Truth.assertThat;

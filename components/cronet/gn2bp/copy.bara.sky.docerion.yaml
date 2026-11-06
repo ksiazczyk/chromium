@@ -1,0 +1,4 @@
+# Docerion header of copy.bara.sky.
+type: config
+title: Copybara config for Cronet AOSP import
+summary: Copybara configuration specifying which Chromium files and generated gn2bp outputs are imported into Android's external/cronet project.

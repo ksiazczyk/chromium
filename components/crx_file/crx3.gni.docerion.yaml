@@ -1,0 +1,4 @@
+# Docerion header of crx3.gni.
+type: config
+title: GN template for building CRX3 archives
+summary: Provides a GN template that zips the inputs and signs them into a CRX3 archive using the crx3_build_action tool and an RSA key file.

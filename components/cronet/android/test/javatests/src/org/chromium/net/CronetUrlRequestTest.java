@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CronetUrlRequestTest
+// summary: Extensive instrumentation test suite for CronetUrlRequest covering the request lifecycle, errors, redirects, uploads, and logging across Cronet implementations.
+// ---
+
 package org.chromium.net;
 
 import static com.google.common.truth.Truth.assertThat;

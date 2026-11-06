@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android HttpEngine builder wrapper tests
+// summary: Checks that experimental options for connection migration, DNS and QUIC are correctly parsed and translated into Android HttpEngine builder settings.
+// ---
+
 package org.chromium.net.impl;
 
 import static com.google.common.truth.Truth.assertThat;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for the UrlResponseInfo public API
+// summary: Instrumentation test verifying UrlResponseInfo's public API and immutability, covering url chain, status, headers, caching, protocol, proxy and byte counts.
+// ---
+
 package org.chromium.net;
 
 import static org.junit.Assert.assertThrows;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Adaptive bidirectional stream tests
+// summary: Tests the BidirectionalStream interface with adaptive network support, using socket-dropping packet handlers to simulate network failures.
+// ---
+
 package org.chromium.net.impl;
 
 import static com.google.common.truth.Truth.assertThat;

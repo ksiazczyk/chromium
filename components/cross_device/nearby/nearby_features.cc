@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby feature flag definitions
+// summary: Defines base::Feature flags for Nearby BLE V2, extended advertising, Bluetooth Classic scanning, WebRTC, WifiDirect, and WifiLan with enabled-check helpers.
+// ---
+
 #include "components/cross_device/nearby/nearby_features.h"
 
 #include "base/feature_list.h"

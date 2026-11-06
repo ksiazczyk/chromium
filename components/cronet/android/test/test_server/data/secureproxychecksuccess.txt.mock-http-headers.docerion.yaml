@@ -1,0 +1,4 @@
+# Docerion header of secureproxychecksuccess.txt.mock-http-headers.
+type: test
+title: Secure proxy check success response headers
+summary: Mock HTTP response headers returning 200 OK with a text/plain content type for the secure proxy check.

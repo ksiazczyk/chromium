@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRX creator implementation
+// summary: Implements CRX3 creation by deriving the CRX ID from the public key hash, signing the archive, and writing the header and ZIP contents to the output file.
+// ---
+
 #include "components/crx_file/crx_creator.h"
 
 #include <stddef.h>

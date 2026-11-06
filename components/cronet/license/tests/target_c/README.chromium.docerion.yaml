@@ -1,0 +1,4 @@
+# Docerion header of README.chromium.
+type: readme
+title: Empty README.chromium for target_c
+summary: Empty README.chromium file accompanying the target_c directory in the Cronet license tests.

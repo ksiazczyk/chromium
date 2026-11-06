@@ -1,0 +1,4 @@
+# Docerion header of generate_idl_bindings.py.
+type: script
+title: Cronet IDL bindings generation script
+summary: Runs the Cronet bindings generator to produce the C interface from cronet.idl, then formats the generated native code.

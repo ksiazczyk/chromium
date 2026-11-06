@@ -1,0 +1,4 @@
+# Docerion header of symbolicate.sh.
+type: script
+title: Cronet stack trace symbolication script
+summary: Detects architecture and Cronet version from a stack trace, downloads matching symbols via gsutil, and runs Chromium's stack tool to symbolicate.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for nearby
+summary: Specifies the allowed include paths for crypto, Abseil time, and Nearby platform implementation headers used in this directory.

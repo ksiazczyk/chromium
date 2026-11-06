@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: GN to Soong target translators
+# summary: Core logic that translates Chromium GN targets into Soong Blueprint modules, including genrules, Rust CXX modules, and action sanitization.
+# ---
+
 import os
 import re
 import copy

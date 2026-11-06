@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for custom handlers preference names
+// summary: Declares the preference name constants used to store protocol handler registration and policy state.
+// ---
+
 #ifndef COMPONENTS_CUSTOM_HANDLERS_PREF_NAMES_H_
 #define COMPONENTS_CUSTOM_HANDLERS_PREF_NAMES_H_
 

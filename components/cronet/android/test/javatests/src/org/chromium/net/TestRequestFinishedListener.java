@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test RequestFinishedInfo listener for Cronet tests
+// summary: Test listener that captures the RequestFinishedInfo for a completed request, supports blocking until done, and can optionally throw from the callback.
+// ---
+
 package org.chromium.net;
 
 import static com.google.common.truth.Truth.assertThat;

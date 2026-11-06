@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cronet test library JNI load and unload hooks
+// summary: Implements JNI_OnLoad and JNI_OnUnLoad hooks that initialize the base Android runtime when the Cronet test shared library is loaded.
+// ---
+
 #include <jni.h>
 
 #include "base/android/base_jni_init.h"

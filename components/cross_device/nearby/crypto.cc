@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Crypto implementation for MD5 and SHA-256
+// summary: Implements the Nearby Crypto interface on top of Chromium crypto primitives, computing MD5 and SHA-256 digests of input strings.
+// ---
+
 #include "third_party/nearby/src/internal/platform/implementation/crypto.h"
 
 #include <vector>

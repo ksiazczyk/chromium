@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: LicenseType enum ranking license restrictions
+# summary: Defines an enum that ranks license types from unknown to by-exception-only, where higher values indicate more restrictive licenses.
+# ---
+
 import enum
 
 
