@@ -1,0 +1,4 @@
+# Docerion header of win.uhd_770.gl_tests_passthrough.filter.
+type: config
+title: GL tests filter for Windows UHD 770 passthrough
+summary: Excludes failing EXTBlendFuncExtended draw tests and external frame buffer multisampling tests from gl_tests on the Windows UHD 770 passthrough builder, with crbug references.

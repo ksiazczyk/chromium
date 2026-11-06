@@ -1,0 +1,4 @@
+# Docerion header of ios.gpu_unittests.filter.
+type: test
+title: iOS gpu_unittests test filter
+summary: Excludes gpu unittests on iOS, covering GPU channel, shader translator, FeatureInfo, and GLES2 decoder passthrough tests failing on bots.

@@ -1,0 +1,4 @@
+# Docerion header of android.emulator_12.content_browsertests.filter.
+type: test
+title: Android 12 emulator content_browsertests filter
+summary: Excludes download, WebRTC, accessibility and site isolation browser tests that fail on the Android 12 emulator, each tied to a crbug reference.

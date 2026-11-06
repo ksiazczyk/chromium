@@ -1,0 +1,4 @@
+# Docerion header of ozone-linux.browser_tests_mutter.filter.
+type: config
+title: Ozone Linux mutter browser_tests filter
+summary: Excludes flaky and failing browser tests on the Ozone Linux mutter builder, with notes on related weston failures.

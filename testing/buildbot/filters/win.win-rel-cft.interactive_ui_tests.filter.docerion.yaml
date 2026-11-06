@@ -1,0 +1,4 @@
+# Docerion header of win.win-rel-cft.interactive_ui_tests.filter.
+type: config
+title: Interactive UI tests filter for win-rel-cft
+summary: Runs a smoke set of interactive UI tests for Chrome for Testing and excludes failing focus, fullscreen, tooltip, and infobar tests on the win-rel-cft builder.

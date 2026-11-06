@@ -1,0 +1,4 @@
+# Docerion header of fuchsia.starview.mojo_unittests.filter.
+type: config
+title: Fuchsia starview mojo_unittests test filter
+summary: Excludes two SocketUtilsPosix handle-related tests from mojo_unittests on Fuchsia starview pending crbug.com/517946352.

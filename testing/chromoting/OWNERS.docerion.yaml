@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Chromoting test directory owners
+summary: Lists the owners responsible for reviewing changes to the chromoting testing directory.

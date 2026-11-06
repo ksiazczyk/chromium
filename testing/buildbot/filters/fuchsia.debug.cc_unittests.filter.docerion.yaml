@@ -1,0 +1,4 @@
+# Docerion header of fuchsia.debug.cc_unittests.filter.
+type: test
+title: Fuchsia debug cc_unittests filter
+summary: Excludes image transfer cache and many GPU raster pixel tests from cc_unittests on Fuchsia arm64 debug builders.

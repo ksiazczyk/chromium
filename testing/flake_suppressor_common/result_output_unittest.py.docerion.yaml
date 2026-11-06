@@ -1,0 +1,4 @@
+# Docerion header of result_output_unittest.py.
+type: test
+title: Unit tests for HTML result output
+summary: Unit tests verifying HTML report generation, recursive map output, and result map conversions in the result output module.

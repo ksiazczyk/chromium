@@ -1,0 +1,4 @@
+# Docerion header of ios.gfx_unittests.filter.
+type: test
+title: iOS gfx_unittests test filter
+summary: Excludes gfx unittests on iOS, mainly RenderText eliding, fallback font, text index conversion, and emoji itemization tests failing since iOS 17.4.

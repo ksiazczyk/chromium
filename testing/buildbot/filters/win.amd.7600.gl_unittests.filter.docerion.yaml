@@ -1,0 +1,4 @@
+# Docerion header of win.amd.7600.gl_unittests.filter.
+type: test
+title: win.amd.7600.gl_unittests test filter
+summary: Excludes CompPresenterPixelTest.YUY2SwapChain from GL unit tests on the AMD 7600 Windows builder, referencing crbug 40629500.

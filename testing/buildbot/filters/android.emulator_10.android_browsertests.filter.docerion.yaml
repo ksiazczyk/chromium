@@ -1,0 +1,4 @@
+# Docerion header of android.emulator_10.android_browsertests.filter.
+type: test
+title: Android 10 emulator android_browsertests filter
+summary: Excludes policy, certificate verifier, CRL set and HSTS browser tests that fail on the Android 10 emulator, referencing crbug.com/391928837.

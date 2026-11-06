@@ -1,0 +1,4 @@
+# Docerion header of test_suite_exceptions.pyl.
+type: config
+title: Test Suite Exceptions for Buildbot Generation
+summary: Declares per-bot removals and modifications of common test suites, consumed by the buildbot JSON generator.

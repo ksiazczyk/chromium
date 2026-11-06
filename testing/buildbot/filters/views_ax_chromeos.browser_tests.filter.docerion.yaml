@@ -1,0 +1,4 @@
+# Docerion header of views_ax_chromeos.browser_tests.filter.
+type: config
+title: ChromeOS views accessibility browser_tests filter
+summary: Includes ChromeOS spoken feedback and accessibility browser tests such as SelectToSpeak and AutomationManagerAura for the views_ax_chromeos configuration.

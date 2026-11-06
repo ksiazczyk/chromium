@@ -1,0 +1,4 @@
+# Docerion header of android.mte.crashpad_tests.filter.
+type: config
+title: Android MTE crashpad_tests test filter
+summary: Excludes Crashpad ProcessReaderLinux and StartHandlerForSelf child-process cases from crashpad_tests on Android MTE builders.

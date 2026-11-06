@@ -1,0 +1,4 @@
+# Docerion header of win.qualcomm.snapdragon_x_elite.services_webnn_unittests.filter.
+type: test
+title: win.qualcomm.snapdragon_x_elite.services_webnn_unittests test filter
+summary: Excludes WebNNAdapterTest.GetNpuInstance from services WebNN unit tests on the Qualcomm Snapdragon X Elite Windows builder, referencing crbug 452924809.

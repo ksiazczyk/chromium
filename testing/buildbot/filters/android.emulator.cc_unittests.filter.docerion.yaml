@@ -1,0 +1,4 @@
+# Docerion header of android.emulator.cc_unittests.filter.
+type: test
+title: Android emulator cc_unittests test filter
+summary: Excludes hardware-decoded image transfer cache tests from cc_unittests on Android emulators.

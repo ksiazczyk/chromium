@@ -1,0 +1,4 @@
+# Docerion header of android.emulator_11.gl_tests.filter.
+type: test
+title: Android 11 emulator gl_tests filter
+summary: Excludes GL tests that do not apply on the Android 11 emulator, such as tests needing VK_KHR_external_memory_fd or reliable BGRA_8888 support.

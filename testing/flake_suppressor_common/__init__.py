@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Package initialization and import path setup
+# summary: Initializes the flake_suppressor_common package and appends the GPU test and typ library directories to sys.path.
+# ---
+
 import os
 import sys
 

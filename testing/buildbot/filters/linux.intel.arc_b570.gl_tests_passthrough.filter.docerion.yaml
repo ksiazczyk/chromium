@@ -1,0 +1,4 @@
+# Docerion header of linux.intel.arc_b570.gl_tests_passthrough.filter.
+type: config
+title: Intel Arc B570 GL tests passthrough filter
+summary: Excludes failing EXT_blend_func_extended draw tests on the Intel Arc B570 passthrough builder.

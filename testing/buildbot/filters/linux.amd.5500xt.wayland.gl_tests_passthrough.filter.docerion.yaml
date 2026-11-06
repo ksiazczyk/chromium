@@ -1,0 +1,4 @@
+# Docerion header of linux.amd.5500xt.wayland.gl_tests_passthrough.filter.
+type: config
+title: AMD 5500XT Wayland GL tests passthrough filter
+summary: Excludes failing EGL image backing and float readback GL tests on the AMD 5500XT Wayland passthrough builder.

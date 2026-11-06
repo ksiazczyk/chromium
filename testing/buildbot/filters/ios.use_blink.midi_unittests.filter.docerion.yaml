@@ -1,0 +1,4 @@
+# Docerion header of ios.use_blink.midi_unittests.filter.
+type: test
+title: iOS use_blink midi_unittests test filter
+summary: Excludes MidiManagerTest cases from midi_unittests on iOS Blink because they crash, per a linked tracking bug.

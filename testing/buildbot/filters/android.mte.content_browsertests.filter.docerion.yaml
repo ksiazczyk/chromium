@@ -1,0 +1,4 @@
+# Docerion header of android.mte.content_browsertests.filter.
+type: config
+title: Android MTE content_browsertests test filter
+summary: Excludes navigation entry screenshot and cross-platform accessibility browser tests from content_browsertests on Android MTE builders.

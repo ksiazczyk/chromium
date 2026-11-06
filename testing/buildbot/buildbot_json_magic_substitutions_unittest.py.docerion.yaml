@@ -1,0 +1,4 @@
+# Docerion header of buildbot_json_magic_substitutions_unittest.py.
+type: test
+title: Unit tests for magic substitutions
+summary: Unit tests verifying the magic substitution functions, covering Android Desktop, ChromeOS and GPU-related cases.

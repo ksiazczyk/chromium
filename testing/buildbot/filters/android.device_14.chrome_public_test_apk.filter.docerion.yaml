@@ -1,0 +1,4 @@
+# Docerion header of android.device_14.chrome_public_test_apk.filter.
+type: test
+title: Android 14 chrome_public_test_apk test filter
+summary: Excludes password generation, display cutout, and persistent fullscreen tests from Chrome public test APK runs on Android 14 devices.

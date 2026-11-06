@@ -1,0 +1,4 @@
+# Docerion header of ozone-linux.interactive_ui_tests.filter.
+type: config
+title: Ozone Linux interactive UI tests filter
+summary: Excludes flaky tab dragging tests from interactive UI tests on the Ozone Linux bot.

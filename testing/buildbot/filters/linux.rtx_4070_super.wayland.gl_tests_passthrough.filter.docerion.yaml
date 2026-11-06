@@ -1,0 +1,4 @@
+# Docerion header of linux.rtx_4070_super.wayland.gl_tests_passthrough.filter.
+type: config
+title: RTX 4070 Super Wayland GL tests passthrough filter
+summary: Excludes the EGL image backing thread-safe test failing on the RTX 4070 Super Wayland builder.

@@ -1,0 +1,4 @@
+# Docerion header of android.emulator_10.gl_tests.filter.
+type: test
+title: Android 10 emulator gl_tests filter
+summary: Excludes GL texture copy, BGRA mip map and AHardwareBuffer backing factory tests that are broken on the Android 10 emulator, with several bug references.

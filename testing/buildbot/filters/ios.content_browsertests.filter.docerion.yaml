@@ -1,0 +1,4 @@
+# Docerion header of ios.content_browsertests.filter.
+type: test
+title: iOS content_browsertests test filter
+summary: Excludes content_browsertests not supported on iOS, covering accessibility, back/forward cache, scrolling, screenshots, and site isolation tests.

@@ -1,0 +1,4 @@
+# Docerion header of ios.media_unittests.filter.
+type: test
+title: iOS media_unittests test filter
+summary: Excludes media unittests on iOS, including video renderer GL texture tests and VideoToolbox encoder tests hitting unexpected encoder errors.

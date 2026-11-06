@@ -1,0 +1,4 @@
+# Docerion header of chromeos.msan.browser_tests.oobe_positive.filter.
+type: config
+title: ChromeOS MSan OOBE positive browser_tests filter
+summary: Positive filter listing OOBE, login, enrollment, and kiosk browser tests to run under MSan, kept in sync with the oobe_negative filter.

@@ -1,0 +1,4 @@
+# Docerion header of android.emulator.crashpad_tests.filter.
+type: test
+title: Android emulator crashpad_tests filter
+summary: Excludes the ProcessReaderLinux.ChildThreadsWithSmallUserStacks crashpad test on the Android emulator, referencing crbug.com/1260158.

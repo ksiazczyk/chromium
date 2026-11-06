@@ -1,0 +1,4 @@
+# Docerion header of android.device.content_shell_test_apk.filter.
+type: test
+title: Android device content_shell_test_apk filter
+summary: Empty filter for the Android device content_shell_test_apk run, currently excluding no tests.

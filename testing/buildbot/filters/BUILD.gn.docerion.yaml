@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn grouping filter files by test suite
+summary: Groups the directory's test filter files into GN source_set targets, one per test suite, so test targets can bundle the right filters as data.

@@ -1,6 +1,13 @@
 # Copyright 2022 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Shared type hints for flake suppressor modules
+# summary: Defines commonly used type aliases, result tuple and aggregation types, and a result status enum shared across flake suppressor modules.
+# ---
+
 """Module for shared/commonly used type hinting."""
 
 import datetime

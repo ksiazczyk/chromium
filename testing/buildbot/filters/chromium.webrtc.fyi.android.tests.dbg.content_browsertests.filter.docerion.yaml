@@ -1,0 +1,4 @@
+# Docerion header of chromium.webrtc.fyi.android.tests.dbg.content_browsertests.filter.
+type: test
+title: Android WebRTC FYI content browser tests filter
+summary: Excludes an H264 WebRTC browser test from content browser tests on the Android WebRTC FYI debug builder.

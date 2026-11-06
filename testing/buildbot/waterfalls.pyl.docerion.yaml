@@ -1,0 +1,4 @@
+# Docerion header of waterfalls.pyl.
+type: config
+title: Waterfall and Builder Definitions
+summary: Defines waterfalls, builder groups and machine configurations that serve as input for generating buildbot JSON files.

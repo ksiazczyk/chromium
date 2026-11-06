@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the Chromium gtest wrapper
+summary: Defines GN build targets wrapping Google Test for Chromium, including the gtest static library, gtest_main, and optional platform-specific coverage and Objective-C support.

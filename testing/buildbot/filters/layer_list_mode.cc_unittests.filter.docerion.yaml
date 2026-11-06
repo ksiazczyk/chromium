@@ -1,0 +1,4 @@
+# Docerion header of layer_list_mode.cc_unittests.filter.
+type: test
+title: Layer list mode cc_unittests test filter
+summary: Tracks cc_unittests that fail when the use_layer_lists setting is enabled by default, so they can be fixed before layer list mode replaces layer tree mode.

@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Expectation file processing and build failure thresholds
+# summary: Implements reading and updating expectation files, along with checks for failed build count, consecutive day, and recency thresholds.
+# ---
+
 """Module for interacting with expectation files."""
 
 import base64

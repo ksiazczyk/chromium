@@ -1,0 +1,4 @@
+# Docerion header of linux-arm64-wayland-rel-fyi.browser_tests.filter.
+type: test
+title: linux-arm64-wayland-rel-fyi browser_tests test filter
+summary: Excludes browser tests that are flaky on the linux-arm64-wayland-rel-fyi bot, spanning web request, web app, composebox, and permission features.

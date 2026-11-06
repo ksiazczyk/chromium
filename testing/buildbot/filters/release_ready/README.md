@@ -1,3 +1,9 @@
+---
+type: readme
+title: About release ready filters
+summary: Explains the purpose of release ready test filters for Chrome release critical suites and how to add a filter file with exact positive filtering.
+---
+
 # About release ready filters
 
 This directory is for test suites running on

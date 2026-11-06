@@ -1,0 +1,4 @@
+# Docerion header of e2e.sync_integration_tests.filter.
+type: test
+title: Sync e2e integration tests filter
+summary: Excludes a flaky two-client dictionary sync test from sync end-to-end integration tests.

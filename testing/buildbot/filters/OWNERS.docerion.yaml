@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the test filter files directory
+summary: Sets directory ownership with a per-file rule delegating fuchsia filter changes to the fuchsia team and guidance for network service filter exclusions.

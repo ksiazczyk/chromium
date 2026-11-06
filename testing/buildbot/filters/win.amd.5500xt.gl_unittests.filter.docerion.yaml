@@ -1,0 +1,4 @@
+# Docerion header of win.amd.5500xt.gl_unittests.filter.
+type: test
+title: win.amd.5500xt.gl_unittests test filter
+summary: Excludes CompPresenter pixel tests for software video swapchains, reused visuals, and YUY2 swap chains from GL unit tests on the AMD RX 5500 XT Windows builder, with linked crbug issues.

@@ -1,0 +1,4 @@
+# Docerion header of win.amd.890m.gl_unittests.filter.
+type: test
+title: win.amd.890m.gl_unittests test filter
+summary: Excludes CompPresenterPixelTest.YUY2SwapChain from GL unit tests on the AMD 890M Windows builder, referencing crbug 40629500.

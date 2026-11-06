@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: BigQuery queries for flaky and failing tests
+# summary: Builds and runs BigQuery queries that collect flaky or failing test results from CI and CL submission builds.
+# ---
+
 """Module for querying BigQuery."""
 
 import collections

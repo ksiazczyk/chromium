@@ -1,0 +1,4 @@
+# Docerion header of android.device.content_unittests.filter.
+type: test
+title: Android device content_unittests filter
+summary: Excludes AttributionOsLevelManager registration and data clearing tests from the Android device content_unittests run.

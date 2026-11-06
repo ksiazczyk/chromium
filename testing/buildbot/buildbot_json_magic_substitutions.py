@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Magic substitution functions for test arguments
+# summary: Provides functions that programmatically replace $$MAGIC_SUBSTITUTION_ test arguments in buildbot test configurations.
+# ---
+
 """A set of functions to programmatically substitute test arguments.
 
 Arguments for a test that start with $$MAGIC_SUBSTITUTION_ will be replaced with

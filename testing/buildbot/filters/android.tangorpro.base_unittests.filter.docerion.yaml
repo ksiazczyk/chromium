@@ -1,0 +1,4 @@
+# Docerion header of android.tangorpro.base_unittests.filter.
+type: config
+title: Android Tangorpro base_unittests test filter
+summary: Excludes file copy and child CPU usage measurement unit tests from base_unittests on the Android Tangorpro device builder.

@@ -1,0 +1,4 @@
+# Docerion header of chromeos.reven.chromeos_integration_tests.filter.
+type: test
+title: ChromeOS reven integration tests filter
+summary: Excludes the ArcIntegrationTest suite from ChromeOS reven chromeos_integration_tests runs on the buildbot.

@@ -1,0 +1,4 @@
+# Docerion header of trybot_analyze_config.json.
+type: config
+title: Trybot Analyze Exclusion Configuration
+summary: Per-platform exclusion and ignore lists that filter which files trybot analyze treats as affecting builds and tests.

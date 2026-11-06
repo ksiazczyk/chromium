@@ -1,0 +1,4 @@
+# Docerion header of android.emulator_15_tablet_landscape.chrome_public_test_apk.filter.
+type: test
+title: Test filter for chrome_public_test_apk on Android 15 tablet in landscape
+summary: Excludes many flaky Chrome public test APK tests on the Android 15 tablet emulator in landscape, spanning context search, downloads, permissions and safety hub.

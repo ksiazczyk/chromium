@@ -1,0 +1,4 @@
+# Docerion header of ios.content_unittests.filter.
+type: test
+title: iOS content_unittests test filter
+summary: Lists content_unittests excluded on iOS due to tracing, permission service, and browser accessibility failures, each with a bug reference.

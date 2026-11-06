@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory issue tracker metadata
+summary: Maps the directory to the Infra>Client>Chrome monorail component and a Buganizer component ID.

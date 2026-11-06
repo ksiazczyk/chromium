@@ -1,0 +1,4 @@
+# Docerion header of site_isolation_android.content_browsertests.filter.
+type: config
+title: Site isolation Android content browsertests filter
+summary: Excludes content browser tests that fail under site isolation on Android.

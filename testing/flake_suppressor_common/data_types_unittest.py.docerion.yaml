@@ -1,0 +1,4 @@
+# Docerion header of data_types_unittest.py.
+type: test
+title: Unit tests for data_types
+summary: Tests Expectation result matching and Result behaviors such as tuple enforcement, wildcard rejection, and hashability.

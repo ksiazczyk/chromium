@@ -1,0 +1,4 @@
+# Docerion header of chromeos.betty.net_unittests.filter.
+type: config
+title: ChromeOS Betty net_unittests filter
+summary: Excludes the Python3 runtime check and several WebSocket end-to-end tests from net_unittests on the Betty ChromeOS device.

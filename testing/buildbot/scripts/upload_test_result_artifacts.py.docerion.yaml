@@ -1,0 +1,4 @@
+# Docerion header of upload_test_result_artifacts.py.
+type: script
+title: Upload test result artifacts
+summary: Script that reads JSON test results files, extracts embedded artifacts, and uploads them to Google Storage, with a dry-run mode for testing.

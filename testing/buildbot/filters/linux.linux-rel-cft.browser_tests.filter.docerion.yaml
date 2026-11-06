@@ -1,0 +1,4 @@
+# Docerion header of linux.linux-rel-cft.browser_tests.filter.
+type: config
+title: Chrome for Testing Linux browser tests filter
+summary: Selects a smoke set of browser tests for Chrome for Testing and excludes failing infobar-related tests on CfT trybots.

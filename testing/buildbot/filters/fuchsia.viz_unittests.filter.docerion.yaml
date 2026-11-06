@@ -1,0 +1,4 @@
+# Docerion header of fuchsia.viz_unittests.filter.
+type: config
+title: Fuchsia viz_unittests test filter
+summary: Empty test filter for viz_unittests on Fuchsia that currently excludes no tests.

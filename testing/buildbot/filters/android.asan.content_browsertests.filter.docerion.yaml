@@ -1,0 +1,4 @@
+# Docerion header of android.asan.content_browsertests.filter.
+type: data
+title: Android ASan content_browsertests filter
+summary: Excludes a handful of browser tests, such as IndexedDB version checks and pinch gesture tests, that fail under ASan on Android.

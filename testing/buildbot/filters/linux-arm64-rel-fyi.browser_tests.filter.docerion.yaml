@@ -1,0 +1,4 @@
+# Docerion header of linux-arm64-rel-fyi.browser_tests.filter.
+type: test
+title: linux-arm64-rel-fyi browser_tests test filter
+summary: Excludes browser tests that are flaky on the linux-arm64-rel-fyi bot, covering keep-alive, web request, Glic, and web app features.

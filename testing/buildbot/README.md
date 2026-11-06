@@ -1,3 +1,13 @@
+---
+type: readme
+title: Buildbot Testing Configuration Files
+summary: Documents the buildbot testing configuration directory, how its files are consumed, and how to make and test changes.
+relations:
+  - documents /infra/config/generated/testing/gn_isolate_map.pyl
+  - documents /infra/config/generated/testing/mixins.pyl
+  - documents /infra/config/generated/testing/test_suites.pyl
+---
+
 # Buildbot Testing Configuration Files
 
 The files in this directory control how tests are run on the

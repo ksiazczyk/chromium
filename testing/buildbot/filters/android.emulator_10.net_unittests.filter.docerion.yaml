@@ -1,0 +1,4 @@
+# Docerion header of android.emulator_10.net_unittests.filter.
+type: test
+title: Android 10 emulator net_unittests filter
+summary: Excludes the NetworkQualityEstimatorTest.TestTCPSocketRTT network test from Android 10 emulator net_unittests runs, referencing crbug.com/1046060.

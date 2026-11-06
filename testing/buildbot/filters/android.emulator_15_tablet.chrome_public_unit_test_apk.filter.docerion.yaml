@@ -1,0 +1,4 @@
+# Docerion header of android.emulator_15_tablet.chrome_public_unit_test_apk.filter.
+type: test
+title: Test filter for chrome_public_unit_test_apk on Android 15 tablet emulator
+summary: Excludes the TabGridDialogViewTest orientation update test on the Android 15 tablet emulator, referencing crbug.com/393608170.

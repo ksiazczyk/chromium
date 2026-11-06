@@ -1,0 +1,4 @@
+# Docerion header of mac.mac-rel.browser_tests.filter.
+type: config
+title: Mac release browser_tests flaky test filter
+summary: Excludes flaky browser tests, listed in order of flakiness, on the mac-rel and Mac10.15-Tests builders.

@@ -1,0 +1,4 @@
+# Docerion header of cft.official.browser_tests.filter.
+type: config
+title: Chrome for Testing official browser_tests filter
+summary: Positive filter that limits browser_tests on Chrome for Testing official builders to the ChromeForTestingInfoBarTest suite.

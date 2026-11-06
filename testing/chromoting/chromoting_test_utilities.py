@@ -1,6 +1,13 @@
 # Copyright 2015 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Chromoting test utilities
+# summary: Provides shared helpers to set up, run, and clean up Chromoting tests on Linux machines.
+# ---
+
 """Utility script to run tests on the Chromoting bot."""
 
 from __future__ import print_function

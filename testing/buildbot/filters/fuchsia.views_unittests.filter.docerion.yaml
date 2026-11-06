@@ -1,0 +1,4 @@
+# Docerion header of fuchsia.views_unittests.filter.
+type: config
+title: Fuchsia views_unittests test filter
+summary: Excludes tooltip, widget, focus and compositor tests from views_unittests on Fuchsia, with comments linking to porting and investigation bugs.

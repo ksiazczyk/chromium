@@ -1,0 +1,4 @@
+# Docerion header of android.emulator.base_unittests.filter.
+type: test
+title: Android emulator base_unittests test filter
+summary: Excludes module cache and signal handler death tests from base_unittests on Android emulators.

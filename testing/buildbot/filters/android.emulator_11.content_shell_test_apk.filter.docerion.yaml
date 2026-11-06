@@ -1,0 +1,4 @@
+# Docerion header of android.emulator_11.content_shell_test_apk.filter.
+type: test
+title: Android 11 emulator content_shell_test_apk filter
+summary: Empty test filter file for content_shell_test_apk on the Android 11 emulator, presumably a placeholder with no excluded tests.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for data_driven_testing
+summary: Delegates directory ownership to the autofill and shared_highlighting OWNERS files.

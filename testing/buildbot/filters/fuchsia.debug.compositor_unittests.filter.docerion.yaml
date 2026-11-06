@@ -1,0 +1,4 @@
+# Docerion header of fuchsia.debug.compositor_unittests.filter.
+type: test
+title: Fuchsia debug compositor_unittests filter
+summary: Excludes real compositor layer tests from compositor_unittests on Fuchsia debug builders.

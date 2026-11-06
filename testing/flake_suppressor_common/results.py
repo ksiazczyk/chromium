@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: BigQuery result aggregation module
+# summary: Aggregates BigQuery test results into maps grouped by suite, test, and tags, filtering out results that are already suppressed.
+# ---
+
 """Module for working with BigQuery results."""
 
 import collections

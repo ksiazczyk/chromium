@@ -1,0 +1,4 @@
+# Docerion header of android.emulator_10.content_browsertests.filter.
+type: test
+title: Android 10 emulator content_browsertests filter
+summary: Excludes MediaSource playback and HLS and MP4 media tests that fail on the Android 10 emulator, referencing crbug.com/411727705.

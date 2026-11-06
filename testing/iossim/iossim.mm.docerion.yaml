@@ -1,0 +1,4 @@
+# Docerion header of iossim.mm.
+type: source
+title: iossim tool for running apps in the iOS Simulator
+summary: Objective-C++ command-line tool that launches iOS and tvOS simulator apps and xctest bundles via xcrun, with options for device, SDK, environment, and test selection.

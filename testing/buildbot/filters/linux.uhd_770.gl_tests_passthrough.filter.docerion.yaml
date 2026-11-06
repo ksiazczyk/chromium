@@ -1,0 +1,4 @@
+# Docerion header of linux.uhd_770.gl_tests_passthrough.filter.
+type: config
+title: Linux UHD 770 gl_tests_passthrough test filter
+summary: Excludes EXTBlendFuncExtended translator variant GPU tests from gl_tests_passthrough runs on the Linux UHD 770 builder.

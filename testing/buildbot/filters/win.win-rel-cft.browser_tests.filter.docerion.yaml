@@ -1,0 +1,4 @@
+# Docerion header of win.win-rel-cft.browser_tests.filter.
+type: config
+title: Browser tests filter for win-rel-cft
+summary: Defines a smoke set of browser tests for the Chrome for Testing win-rel builder and excludes failing infobar-related tests that assert infobar counts, layout, or focus behavior.

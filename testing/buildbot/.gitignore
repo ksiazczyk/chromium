@@ -1,1 +1,7 @@
+# ---docerion
+# type: config
+# title: Gitignore for coverage data
+# summary: Keeps the .coverage file out of version control.
+# ---
+
 .coverage

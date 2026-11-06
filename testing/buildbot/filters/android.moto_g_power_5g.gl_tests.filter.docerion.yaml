@@ -1,0 +1,4 @@
+# Docerion header of android.moto_g_power_5g.gl_tests.filter.
+type: test
+title: Test filter for gl_tests on Moto G Power 5G device
+summary: Excludes AHardwareBuffer, WrappedSkImage and WebGPU graphics tests on the Moto G Power 5G device, referencing crbug.com/361272286.

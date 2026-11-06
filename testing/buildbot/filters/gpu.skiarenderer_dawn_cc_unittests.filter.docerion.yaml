@@ -1,0 +1,4 @@
+# Docerion header of gpu.skiarenderer_dawn_cc_unittests.filter.
+type: config
+title: GPU Skia renderer Dawn cc_unittests test filter
+summary: Empty test filter for Skia renderer Dawn cc_unittests on GPU bots that currently excludes no tests.

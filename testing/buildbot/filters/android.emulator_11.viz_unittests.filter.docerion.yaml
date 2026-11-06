@@ -1,0 +1,4 @@
+# Docerion header of android.emulator_11.viz_unittests.filter.
+type: test
+title: Android 11 emulator viz_unittests filter
+summary: Excludes SkiaOutputSurfaceImplTest cases from viz_unittests on the Android 11 emulator per crbug 338436747.

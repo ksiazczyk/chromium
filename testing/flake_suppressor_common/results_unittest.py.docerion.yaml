@@ -1,0 +1,4 @@
+# Docerion header of results_unittest.py.
+type: test
+title: Unit tests for BigQuery result aggregation
+summary: Unit tests for aggregating BigQuery results, aggregating test status results, and filtering suppressed results in the results module.

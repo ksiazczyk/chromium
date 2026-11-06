@@ -1,0 +1,4 @@
+# Docerion header of android.device.cc_unittests.filter.
+type: test
+title: Android device cc_unittests filter
+summary: Excludes GPU raster HDR image and text blob pixel tests from the Android device cc_unittests run.

@@ -1,3 +1,12 @@
+---
+type: readme
+title: Test filter files
+summary: Explains the purpose, syntax, and usage of test filter files, including how to pass multiple filters and how to add new filter files.
+relations:
+  - documents /testing/buildbot/filters/trees_in_viz.content_browsertests.filter
+  - references /testing/buildbot/filters/BUILD.gn
+---
+
 # Test filter files
 
 ## Summary

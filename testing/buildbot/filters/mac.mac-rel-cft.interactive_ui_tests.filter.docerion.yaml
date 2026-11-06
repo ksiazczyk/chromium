@@ -1,0 +1,4 @@
+# Docerion header of mac.mac-rel-cft.interactive_ui_tests.filter.
+type: config
+title: Mac Chrome for Testing interactive_ui_tests filter
+summary: Runs a smoke set of interactive UI tests for Chrome for Testing on Mac and excludes tests broken by the CfT info bar.

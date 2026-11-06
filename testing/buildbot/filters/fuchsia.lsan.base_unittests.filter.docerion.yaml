@@ -1,0 +1,4 @@
+# Docerion header of fuchsia.lsan.base_unittests.filter.
+type: test
+title: Fuchsia LSan base unittests test filter
+summary: Excludes time zone data and ToolsSanityTest cases from base_unittests under Fuchsia leak sanitizer runs, referencing crbug.com/1339149.

@@ -1,0 +1,4 @@
+# Docerion header of expectations_unittest.py.
+type: test
+title: Unit tests for expectation processing
+summary: Tests expectation file iteration, grouping, and modification behavior using mocked user input and a fake filesystem.

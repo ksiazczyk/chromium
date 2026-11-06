@@ -1,0 +1,4 @@
+# Docerion header of ios.use_blink.components_browsertests.filter.
+type: test
+title: iOS use_blink components_browsertests test filter
+summary: Excludes components_browsertests on iOS, covering dom distiller, page content proto provider, page metadata, and surface embed focus tests.

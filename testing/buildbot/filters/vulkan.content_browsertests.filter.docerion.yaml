@@ -1,0 +1,4 @@
+# Docerion header of vulkan.content_browsertests.filter.
+type: config
+title: Vulkan content_browsertests filter
+summary: Selects video capture and screenshot browser tests for the Vulkan content_browsertests configuration, noting some fall back to software compositing.

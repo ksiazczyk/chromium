@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: gmock-matchers.h forwarding header
+// summary: Chromium forwarding header that includes the gmock-matchers.h header from third_party/googletest until the Google Test layout stabilizes.
+// ---
+
 #ifndef TESTING_GMOCK_INCLUDE_GMOCK_GMOCK_MATCHERS_H_
 #define TESTING_GMOCK_INCLUDE_GMOCK_GMOCK_MATCHERS_H_
 

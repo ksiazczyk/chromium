@@ -1,0 +1,4 @@
+# Docerion header of check.py.
+type: script
+title: Validator for buildbot test configuration files
+summary: Checks buildbot JSON test configs so that referenced targets are defined in gn_isolate_map.pyl and not duplicated.

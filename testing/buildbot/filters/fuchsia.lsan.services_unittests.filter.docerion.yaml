@@ -1,0 +1,4 @@
+# Docerion header of fuchsia.lsan.services_unittests.filter.
+type: test
+title: Fuchsia LSan services unittests test filter
+summary: Excludes AutomationInternalBindingsTest and V8ManagerTest cases with memory leaks from services_unittests under Fuchsia LSan until the leaks are fixed.

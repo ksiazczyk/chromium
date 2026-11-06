@@ -1,0 +1,4 @@
+# Docerion header of linux-arm64-rel-fyi.sync_integration_tests.filter.
+type: test
+title: linux-arm64-rel-fyi sync_integration_tests test filter
+summary: Excludes flaky password manager sync integration tests on the linux-arm64-rel-fyi bot.

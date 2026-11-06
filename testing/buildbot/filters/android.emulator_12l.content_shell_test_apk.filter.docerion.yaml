@@ -1,0 +1,4 @@
+# Docerion header of android.emulator_12l.content_shell_test_apk.filter.
+type: test
+title: Android 12L emulator content_shell_test_apk filter
+summary: Excludes two WebContentsAccessibility E2E tests from content shell test APK runs on the Android 12L emulator per linked crbugs.

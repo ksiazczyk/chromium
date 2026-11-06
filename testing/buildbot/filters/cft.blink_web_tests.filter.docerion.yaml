@@ -1,0 +1,4 @@
+# Docerion header of cft.blink_web_tests.filter.
+type: config
+title: Chrome for Testing blink_web_tests filter
+summary: Limits blink web tests on Chrome for Testing CI builders to the devtools and inspector-protocol subset, per crbug.com/1421409.

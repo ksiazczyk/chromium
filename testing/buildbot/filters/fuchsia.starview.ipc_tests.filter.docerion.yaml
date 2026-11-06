@@ -1,0 +1,4 @@
+# Docerion header of fuchsia.starview.ipc_tests.filter.
+type: config
+title: Fuchsia starview ipc_tests test filter
+summary: Excludes a MojoIpcz multiprocess broker test from ipc_tests on Fuchsia starview, with a TODO referencing crbug.com/517946352.

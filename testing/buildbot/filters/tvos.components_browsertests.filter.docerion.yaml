@@ -1,0 +1,4 @@
+# Docerion header of tvos.components_browsertests.filter.
+type: config
+title: tvOS components_browsertests filter
+summary: Lists browser tests excluded on tvOS, with TODO comments citing failures and crashes in autofill, prerendering, page content, and Mach shared memory handling.

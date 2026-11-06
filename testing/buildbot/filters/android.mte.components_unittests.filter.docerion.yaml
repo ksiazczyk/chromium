@@ -1,0 +1,4 @@
+# Docerion header of android.mte.components_unittests.filter.
+type: config
+title: Android MTE components_unittests test filter
+summary: Excludes CastAuthUtilTest certificate and CRL verification tests from components_unittests on Android MTE builders, referencing crbug.com/328193028.

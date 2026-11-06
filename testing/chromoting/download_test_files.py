@@ -1,6 +1,13 @@
 # Copyright 2015 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Download Remoting test files from GCS
+# summary: Downloads Remoting integration test files from Google Cloud Storage into a given output folder.
+# ---
+
 """A script to download files required for Remoting integration tests from GCS.
 
 The script expects 2 parameters:

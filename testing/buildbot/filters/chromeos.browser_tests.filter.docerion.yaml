@@ -1,0 +1,4 @@
+# Docerion header of chromeos.browser_tests.filter.
+type: config
+title: ChromeOS browser_tests filter
+summary: Excludes disabled and flaky ChromeOS browser tests covering policy, settings, memory metrics, tab management, and spoken feedback.

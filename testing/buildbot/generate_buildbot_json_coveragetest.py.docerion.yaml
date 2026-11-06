@@ -1,0 +1,4 @@
+# Docerion header of generate_buildbot_json_coveragetest.py.
+type: test
+title: Buildbot JSON Generator Coverage Test
+summary: Runs the buildbot JSON generator unit tests under coverage and fails when coverage of generate_buildbot_json.py is below 100%.

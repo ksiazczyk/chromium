@@ -1,0 +1,4 @@
+# Docerion header of ios.blink_platform_unittests.filter.
+type: config
+title: iOS blink_platform_unittests test filter
+summary: Excludes text shaping, RTC video encoder factory and dark mode image classifier tests from blink_platform_unittests on iOS, each with a tracking bug.

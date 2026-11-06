@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Shared unit test helpers and fakes
+# summary: Provides fake processes and stub querier, result processor, tag utils, and expectation processor implementations used by flake_suppressor_common unit tests.
+# ---
+
 import os
 from typing import List, Tuple, Iterable
 

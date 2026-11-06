@@ -1,0 +1,4 @@
+# Docerion header of chromeos.gl_unittests.filter.
+type: config
+title: ChromeOS gl_unittests filter
+summary: Excludes a single GLImageSharedMemory copy test from gl_unittests on ChromeOS due to crbug.com/1313276.

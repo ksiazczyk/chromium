@@ -1,0 +1,4 @@
+# Docerion header of android.emulator_14.media_unittests.filter.
+type: test
+title: Android 14 emulator media_unittests test filter
+summary: Excludes GL video frame rendering and NDK video encoder unit tests that are unsupported or failing on the Android 14 emulator.

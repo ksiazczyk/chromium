@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the gtest directory
+summary: Lists the owners responsible for reviewing changes to the gtest directory.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Ruff configuration for flake_suppressor_common
+# summary: Sets Ruff formatter and linter settings for the package, including an 80-character line length, indent width of 2, and preserved quote style.
+# ---
+
 line-length = 80
 indent-width = 2
 

@@ -1,0 +1,4 @@
+# Docerion header of trees_in_viz.content_browsertests.filter.
+type: config
+title: TreesInViz content_browsertests filter
+summary: Empty test filter for content_browsertests under the TreesInViz mode, currently listing no included or excluded tests.

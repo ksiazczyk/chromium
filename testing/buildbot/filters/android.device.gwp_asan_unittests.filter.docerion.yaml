@@ -1,0 +1,4 @@
+# Docerion header of android.device.gwp_asan_unittests.filter.
+type: test
+title: Android device GWP-ASan unittests filter
+summary: Excludes crash analyzer and lightweight detector analyzer tests from the Android device GWP-ASan unittests run.

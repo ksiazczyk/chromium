@@ -1,0 +1,4 @@
+# Docerion header of android.emulator_14_15_16.base_unittests.filter.
+type: test
+title: Android 14-16 emulator base_unittests test filter
+summary: Excludes base unit tests for module cache, signal handling, file copying and child CPU metrics on Android 14-16 emulators.

@@ -1,0 +1,4 @@
+# Docerion header of chromeos.unit_tests.filter.
+type: test
+title: ChromeOS unit_tests filter
+summary: Excludes a keyboard shortcut viewer metadata test from ChromeOS unit_tests runs pending a bug fix.

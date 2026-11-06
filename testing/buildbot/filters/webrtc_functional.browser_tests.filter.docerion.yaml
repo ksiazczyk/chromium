@@ -1,0 +1,4 @@
+# Docerion header of webrtc_functional.browser_tests.filter.
+type: config
+title: WebRTC functional browser_tests filter
+summary: Includes WebRTC browser tests that exercise hardware or fake device configurations, such as WebRtcBrowserTest and simulcast tests, for functional runs.

@@ -1,0 +1,4 @@
+# Docerion header of android.emulator_13.content_browsertests.filter.
+type: test
+title: Android 13 emulator content_browsertests test filter
+summary: Excludes WebRTC audio/video call and media recorder browser tests that fail on the Android 13 emulator.
