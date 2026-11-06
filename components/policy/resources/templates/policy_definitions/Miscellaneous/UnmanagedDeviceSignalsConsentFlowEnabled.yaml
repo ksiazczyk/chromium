@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: UnmanagedDeviceSignalsConsentFlowEnabled policy definition
+# summary: Defines the policy that asks managed users for consent before sharing device signals on unmanaged devices to gain access.
+# ---
+
 caption: Ask for consent from managed users to share device signals on unmanaged devices
   to gain access
 default: false

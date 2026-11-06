@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SyncDisabled policy definition
+# summary: Chrome policy definition that disables synchronization of data with Google-hosted Chrome Sync services.
+# ---
+
 arc_support: Disabling <ph name="CHROME_SYNC_NAME">Chrome Sync</ph> will cause Android
   Backup and Restore to not function properly.
 caption: Disable synchronization of data with Google

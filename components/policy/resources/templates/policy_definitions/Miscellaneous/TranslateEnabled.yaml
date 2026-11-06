@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: TranslateEnabled policy
+# summary: Defines the policy enabling or disabling Chrome's built-in translate toolbar and context-menu translation option.
+# ---
+
 caption: Enable Translate
 default: null
 desc: |-

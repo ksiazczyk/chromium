@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: NativePrintersBulkBlacklist policy definition
+# summary: Deprecated ChromeOS policy definition listing enterprise printer IDs that users cannot use, replaced by the PrintersBulkBlocklist policy.
+# ---
+
 caption: Disabled enterprise printers
 deprecated: true
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ProfileLabel policy definition
+# summary: Defines the deprecated cloud policy that labels a signed-in profile as Work or School to help users identify it in the browser.
+# ---
+
 caption: Profile Label
 deprecated: true
 default: null

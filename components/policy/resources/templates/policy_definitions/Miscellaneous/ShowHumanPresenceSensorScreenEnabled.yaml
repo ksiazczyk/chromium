@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ShowHumanPresenceSensorScreenEnabled policy definition
+# summary: Defines the ChromeOS ShowHumanPresenceSensorScreenEnabled policy controlling whether the human presence sensor screen is shown during first sign-in.
+# ---
+
 caption: Enable displaying human presence sensor screen during sign-in
 desc: |-
   This policy controls if the human presence sensor screen is shown to the user during the first sign-in.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: NativeHostsExecutablesLaunchDirectly policy definition
+# summary: Chrome policy definition that controls whether Windows native messaging host executables launch directly or through cmd.exe as an intermediary.
+# ---
+
 caption: Force Windows executable Native Messaging hosts to launch directly
 default: null
 desc: |-

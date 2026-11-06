@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Managed guest session auto-launch notification policy (deprecated)
+# summary: Deprecated ChromeOS policy that controlled how long the managed-guest session auto-launch privacy notification stays visible, replaced by ManagedGuestSessionPrivacyWarningsEnabled.
+# ---
+
 caption: Reduce Managed-guest session auto-launch notifications
 deprecated: true
 desc: |2-

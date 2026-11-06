@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: URLs/domains automatically permitted direct Security Key attestation
+# summary: Policy definition listing WebAuthn RP IDs for which security key attestation certificates are requested without prompting the user.
+# ---
+
 caption: URLs/domains automatically permitted direct Security Key attestation
 desc: |-
   Setting the policy specifies WebAuthn RP IDs for which no prompt appears when attestation certificates from security keys are requested. A signal is also sent to the security key indicating that enterprise attestation may be used. Without this, when sites request attestation of security keys, users are prompted in <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> version 65 and later.

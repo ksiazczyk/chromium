@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: U2fSecurityKeyApiEnabled policy definition
+# summary: Defines the deprecated policy that temporarily allows use of the U2F Security Key API before its removal in Chrome 104.
+# ---
+
 caption: Allow using the deprecated U2F Security Key API
 default: false
 deprecated: true

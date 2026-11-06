@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ReduceAcceptLanguageEnabled policy definition
+# summary: Deprecated policy definition controlling the Accept-Language Reduction feature, which has no effect from M157 onward.
+# ---
+
 caption: Control <ph name="ALR_FEATURE_NAME">Accept-Language Reduction</ph>
 deprecated: true
 

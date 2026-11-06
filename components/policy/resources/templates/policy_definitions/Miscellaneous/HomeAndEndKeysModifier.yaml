@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: HomeAndEndKeysModifier Chrome policy definition
+# summary: Defines the ChromeOS policy controlling which modifier shortcut is used for Home/End key remapping settings.
+# ---
+
 caption: Control the shortcut used to trigger the Home/End "six pack" keys
 default: 2
 desc: |-

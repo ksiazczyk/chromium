@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SystemFeaturesDisableList policy definition
+# summary: ChromeOS policy definition that lists system features, such as camera and web store, to be disabled for users.
+# ---
+
 caption: Configure the camera, browser settings, os settings, scanning, web store,
   canvas, explore, crosh, gallery, terminal, recorder, print jobs, key_shortcuts, gmail, google_docs, google_slides, google_sheets, google_drive, google_keep, google_calendar, google_chat, youtube, google_maps, calculator and text_editor features to be disabled
 desc: |-

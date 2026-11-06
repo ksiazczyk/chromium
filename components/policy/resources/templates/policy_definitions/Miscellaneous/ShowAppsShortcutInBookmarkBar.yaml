@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ShowAppsShortcutInBookmarkBar policy definition
+# summary: Defines the ShowAppsShortcutInBookmarkBar policy that controls whether the apps shortcut is displayed in the bookmark bar.
+# ---
+
 caption: Show the apps shortcut in the bookmark bar
 default: null
 desc: |-

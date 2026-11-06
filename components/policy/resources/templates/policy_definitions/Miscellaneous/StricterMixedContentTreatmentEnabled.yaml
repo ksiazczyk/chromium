@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: StricterMixedContentTreatmentEnabled policy definition
+# summary: Deprecated Chrome policy that controlled autoupgrade of mixed content to HTTPS, removed in Chrome 85 in favor of InsecureContentAllowedForUrls.
+# ---
+
 caption: Enable stricter treatment for mixed content
 deprecated: true
 desc: |-

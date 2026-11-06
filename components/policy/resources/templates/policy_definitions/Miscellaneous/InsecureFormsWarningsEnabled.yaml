@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enable warnings for insecure forms
+# summary: Deprecated Chrome policy definition controlling warnings and autofill behavior for insecure forms on HTTPS sites, slated for removal in Chrome 130.
+# ---
+
 caption: Enable warnings for insecure forms
 default: true
 deprecated: true

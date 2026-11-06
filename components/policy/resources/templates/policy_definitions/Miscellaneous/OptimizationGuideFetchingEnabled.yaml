@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enable Optimization Guide Fetching policy
+# summary: Defines the deprecated Chrome policy that controls fetching of page load metadata and machine learning models used to enhance the browsing experience.
+# ---
+
 caption: Enable Optimization Guide Fetching
 default: true
 deprecated: true

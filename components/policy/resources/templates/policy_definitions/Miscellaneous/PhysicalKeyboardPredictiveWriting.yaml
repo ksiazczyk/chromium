@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PhysicalKeyboardPredictiveWriting policy definition
+# summary: Defines the ChromeOS policy that enables or disables the predictive writing feature on the physical keyboard.
+# ---
+
 caption: Control the predictive writing feature on the physical keyboard
 desc: |-
   Enable or disable the predictive writing feature on the physical keyboard.

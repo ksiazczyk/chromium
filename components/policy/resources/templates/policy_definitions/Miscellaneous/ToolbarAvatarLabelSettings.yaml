@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ToolbarAvatarLabelSettings policy (deprecated)
+# summary: Defines the deprecated policy controlling when a Work or School label is shown next to the toolbar avatar for managed accounts.
+# ---
+
 caption: Managed toolbar avatar label setting
 deprecated: true
 default: 0

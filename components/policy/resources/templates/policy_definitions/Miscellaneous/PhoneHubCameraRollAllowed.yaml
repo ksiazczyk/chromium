@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PhoneHubCameraRollAllowed policy definition
+# summary: Defines the ChromeOS policy controlling access to recent phone photos and videos through Phone Hub.
+# ---
+
 caption: Allow recent photos and videos taken on the phone to be accessed via Phone
   Hub.
 default: true

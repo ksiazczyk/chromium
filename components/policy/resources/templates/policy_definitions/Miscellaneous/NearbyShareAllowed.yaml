@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Nearby Share allowed policy definition
+# summary: Defines the ChromeOS policy that controls whether users may opt in to Nearby Share for sending and receiving files with people nearby.
+# ---
+
 caption: Allow Nearby Share to be enabled.
 default_for_enterprise_users: false
 desc: |-

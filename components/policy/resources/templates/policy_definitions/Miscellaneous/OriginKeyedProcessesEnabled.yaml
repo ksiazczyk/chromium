@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enable origin-keyed process isolation by default
+# summary: Defines the Chrome policy that enables origin-keyed process isolation by default, improving security at the cost of more processes, with user override allowed.
+# ---
+
 caption: Enable origin-keyed process isolation by default.
 desc: |-
   Enables origin-keyed process isolation for most pages (i.e., those assigned to an origin-keyed agent cluster by default). This improves security but also increases the number of processes created. Users are allowed to override the set policy value via the command-line flags or chrome://flags (both to turn this feature on or off).

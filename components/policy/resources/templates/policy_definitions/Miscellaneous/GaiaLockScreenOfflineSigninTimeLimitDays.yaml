@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: GaiaLockScreenOfflineSigninTimeLimitDays policy definition
+# summary: ChromeOS policy definition limiting how many days a GAIA-authenticated user without SAML can sign in offline at the lock screen before online authentication is required.
+# ---
+
 caption: Limit the time for which a user authenticated via GAIA without SAML can log
   in offline at the lock screen
 default: null

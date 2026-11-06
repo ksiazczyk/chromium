@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: UnifiedDesktopEnabledByDefault policy definition
+# summary: Defines the ChromeOS policy that makes Unified Desktop mode available and turned on by default so apps can span multiple displays.
+# ---
+
 caption: Make Unified Desktop available and turn on by default
 desc: |-
   Setting the policy to True turns on Unified Desktop, which allows applications to span multiple displays. Users can turn off Unified Desktop for individual displays.

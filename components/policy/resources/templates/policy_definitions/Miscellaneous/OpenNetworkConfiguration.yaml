@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: User-level network configuration policy
+# summary: Defines the ChromeOS policy for pushing per-user network configurations, given as a JSON string following the Open Network Configuration format.
+# ---
+
 arc_support: Android apps can use the network configurations and CA certificates set
   via this policy, but do not have access to some configuration options.
 caption: User-level network configuration

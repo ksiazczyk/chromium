@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Control visibility of the NTP management notice for managed browsers
+# summary: Chromium policy definition controlling whether managed browsers show a management notice in the New Tab Page footer.
+# ---
+
 caption:  Control the visibility of the management notice on the New Tab Page for managed browsers
 default: true
 desc: |-

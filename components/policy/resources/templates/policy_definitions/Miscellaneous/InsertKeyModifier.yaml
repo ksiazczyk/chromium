@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Insert key modifier shortcut policy definition
+# summary: Defines the ChromeOS policy controlling which modifier shortcut triggers the Insert key remapping on the remap keys subpage.
+# ---
+
 caption: Control the shortcut used to trigger the Insert "six pack" key
 default: 2
 desc: |-

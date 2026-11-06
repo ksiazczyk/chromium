@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PrefetchWithServiceWorkerEnabled policy definition
+# summary: Defines the temporary policy controlling whether SpeculationRules prefetch may be sent to ServiceWorker-controlled URLs.
+# ---
+
 caption: Allow SpeculationRules prefetch to ServiceWorker-controlled URLs
 desc: |-
   SpeculationRules prefetch can be issued to URLs that are controlled by

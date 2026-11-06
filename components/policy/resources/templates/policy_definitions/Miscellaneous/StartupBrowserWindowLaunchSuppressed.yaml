@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: StartupBrowserWindowLaunchSuppressed policy definition
+# summary: ChromeOS policy that prevents the browser window from launching at the start of the session when set to true.
+# ---
+
 caption: Suppress launching of browser window
 desc: |-
   Setting the policy to True prevents the browser window from launching at the start of the session.

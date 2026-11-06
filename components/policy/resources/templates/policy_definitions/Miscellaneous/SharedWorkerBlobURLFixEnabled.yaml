@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SharedWorkerBlobURLFixEnabled
+# summary: Temporary Chrome policy that aligns SharedWorker blob URL behavior with the specification by letting such workers inherit a controller.
+# ---
+
 caption: Make SharedWorker blob URL behavior aligned with the specification
 desc: |-
   Upon https://w3c.github.io/ServiceWorker/#control-and-use-worker-client,

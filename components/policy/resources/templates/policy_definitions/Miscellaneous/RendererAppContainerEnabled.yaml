@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: RendererAppContainerEnabled policy definition
+# summary: Policy definition enabling the Renderer App Container sandbox on Windows to strengthen renderer process isolation.
+# ---
+
 caption: Enable Renderer App Container
 default: true
 desc: |-

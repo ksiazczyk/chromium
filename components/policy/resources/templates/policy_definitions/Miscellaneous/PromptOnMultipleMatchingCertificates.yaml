@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Prompt when multiple certificates match
+# summary: Policy definition controlling when users are prompted to pick a client certificate when auto-selection matches multiple certificates.
+# ---
+
 caption: Prompt when multiple certificates match
 default: false
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: URLBlacklist policy definition
+# summary: Defines the deprecated policy for blocking access to a list of URLs, pointing users to the URLBlocklist policy instead.
+# ---
+
 arc_support: Android apps may voluntarily choose to honor this list. You cannot force
   them to honor it.
 caption: Block access to a list of URLs

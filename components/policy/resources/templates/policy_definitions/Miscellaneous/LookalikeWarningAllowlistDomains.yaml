@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: LookalikeWarningAllowlistDomains policy definition
+# summary: Defines the list policy that suppresses lookalike URL warnings for the domains specified by the administrator.
+# ---
+
 caption: Suppress lookalike domain warnings on domains
 desc: |-
   This policy prevents the display of lookalike URL warnings on the sites listed. These warnings are typically shown on sites that <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> believes might be trying to spoof another site the user is familiar with.

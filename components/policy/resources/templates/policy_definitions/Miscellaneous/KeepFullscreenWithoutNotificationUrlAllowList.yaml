@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Full screen without notification URL allowlist policy definition
+# summary: Defines the policy listing URL patterns allowed to remain in full screen mode without a notification when the ChromeOS device returns from the lock screen.
+# ---
+
 caption: List of URLs which are allowed to remain in full screen mode without showing
   a notification
 desc: |-

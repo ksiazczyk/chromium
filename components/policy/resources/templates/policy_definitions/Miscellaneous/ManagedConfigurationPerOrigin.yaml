@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Managed Configuration Per Origin policy definition
+# summary: Policy definition that sets the values returned by the Managed Configuration API for origins of force-installed web applications.
+# ---
+
 caption: Sets managed configuration values to websites to specific origins
 desc: "Setting the policy defines the return value of Managed Configuration API for\
   \ given origin.\n\n      Managed configuration API is a key-value configuration\

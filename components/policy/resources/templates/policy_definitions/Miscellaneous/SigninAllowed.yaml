@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SigninAllowed policy definition
+# summary: Deprecated policy definition that controlled whether users could sign in to Chrome and points to BrowserSignin as the replacement.
+# ---
+
 caption: Allow sign in to <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph>
 deprecated: true
 desc: "This policy is deprecated, consider using <ph name=\"BROWSER_SIGNIN_POLICY_NAME\"\

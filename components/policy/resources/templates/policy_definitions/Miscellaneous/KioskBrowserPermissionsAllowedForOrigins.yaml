@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Kiosk browser permissions origins policy definition
+# summary: Defines the policy listing additional origins that may access browser permissions already available to the web kiosk install origin on ChromeOS.
+# ---
+
 caption: Allow origins to access browser permissions available to the web kiosk install origin.
 desc: |-
   Setting the policy allows listed additional origins to access browser permissions (e.g. geo location, camera, microphone) which are already available to the web kiosk applications install origin.

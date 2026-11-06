@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PhoneHubTaskContinuationAllowed policy definition
+# summary: Defines the ChromeOS policy controlling task continuation features such as viewing phone webpages via Phone Hub.
+# ---
+
 caption: Allow Phone Hub task continuation to be enabled.
 desc: |-
   If this setting is enabled, users who have already opted in to Phone Hub, will be able to continue tasks such as viewing their phone's webpages on ChromeOS.

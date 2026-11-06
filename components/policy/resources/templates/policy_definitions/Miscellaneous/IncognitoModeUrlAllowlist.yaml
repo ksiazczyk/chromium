@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Allow access to a list of URLs in Incognito mode
+# summary: Chrome policy definition listing URL patterns that remain accessible in Incognito mode, taking precedence over the Incognito blocklist.
+# ---
+
 caption: Allow access to a list of URLs in Incognito mode.
 desc: |-
   Setting the policy provides access to the listed URLs in Incognito mode. Use it to open exceptions to certain URL patterns defined in <ph name="INCOGNITO_MODE_URL_BLOCKLIST_POLICY_NAME">IncognitoModeUrlBlocklist</ph>, using the format specified at ( https://support.google.com/chrome/a?p=url_blocklist_filter_format ).

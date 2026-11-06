@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ProfilePickerOnStartupAvailability policy definition
+# summary: Defines the policy controlling whether the Chrome profile picker is available, disabled, or forced at browser startup.
+# ---
+
 caption: Profile picker availability on startup
 default: 0
 desc: |-

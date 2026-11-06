@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SafeBrowsingExtendedReportingOptInAllowed policy definition
+# summary: Defines the deprecated policy controlling whether users may opt in to Safe Browsing extended reporting, replaced by SafeBrowsingExtendedReportingEnabled in M85.
+# ---
+
 caption: Allow users to opt in to Safe Browsing extended reporting
 deprecated: true
 desc: |-

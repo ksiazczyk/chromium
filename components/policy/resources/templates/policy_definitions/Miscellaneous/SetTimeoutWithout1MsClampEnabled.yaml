@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SetTimeoutWithout1MsClampEnabled
+# summary: Deprecated Chrome policy controlling whether JavaScript setTimeout() with a 0ms timeout clamps to 1ms, removed in Chrome 110.
+# ---
+
 caption: Control Javascript setTimeout() function minimum timeout.
 default: null
 deprecated: true

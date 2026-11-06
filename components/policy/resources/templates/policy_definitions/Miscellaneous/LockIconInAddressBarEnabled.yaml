@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: LockIconInAddressBarEnabled policy definition
+# summary: Defines the deprecated policy controlling whether Chrome shows the lock icon in the omnibox for secure connections.
+# ---
+
 caption: Enable lock icon in the omnibox for secure connections
 default: false
 deprecated: true

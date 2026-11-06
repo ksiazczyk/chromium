@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Configure allowed quick unlock modes
+# summary: Deprecated Chrome OS policy definition controlling which quick unlock modes, such as PIN and fingerprint, can unlock the lock screen.
+# ---
+
 caption: Configure allowed quick unlock modes
 default_for_enterprise_users: []
 deprecated: true

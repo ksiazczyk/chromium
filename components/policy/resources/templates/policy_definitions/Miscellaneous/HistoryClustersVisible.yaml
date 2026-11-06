@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: HistoryClustersVisible policy definition
+# summary: Chromium policy definition controlling whether the Chrome history page organized into groups of pages is visible, with supported platforms, example value, schema, and owner contacts.
+# ---
+
 caption: Show a view of Chrome history with groups of pages
 default: null
 desc: "This policy controls the visibility of the Chrome history page organized into groups of pages.\n\

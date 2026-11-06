@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SandboxExternalProtocolBlocked policy definition
+# summary: Defines the temporary Chrome enterprise policy allowing blocking of navigations to external protocols inside sandboxed iframes, intended for removal after M117.
+# ---
+
 caption: Allow Chrome to block navigations toward external protocols in sandboxed
   iframes
 default: true

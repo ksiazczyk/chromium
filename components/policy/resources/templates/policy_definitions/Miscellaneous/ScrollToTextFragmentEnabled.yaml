@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enable scrolling to text specified in URL fragments
+# summary: Policy definition that enables or disables scrolling to specific text fragments targeted via URLs on web pages.
+# ---
+
 caption: Enable scrolling to text specified in URL fragments
 default: true
 desc: |-

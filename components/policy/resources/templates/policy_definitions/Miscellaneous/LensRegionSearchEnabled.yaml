@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: LensRegionSearchEnabled policy definition
+# summary: Defines the deprecated LensRegionSearchEnabled policy controlling the Google Lens region search entry in the context menu.
+# ---
+
 caption: Allow <ph name="GOOGLE_LENS_PRODUCT_NAME">Google Lens</ph> region search
   menu item to be shown in context menu if supported.
 deprecated: true

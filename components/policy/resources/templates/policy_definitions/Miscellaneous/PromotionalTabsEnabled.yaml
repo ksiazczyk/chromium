@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PromotionalTabsEnabled policy definition
+# summary: Defines the deprecated policy controlling whether Chrome may show full-tab promotional content such as welcome and sign-in pages.
+# ---
+
 caption: Enable showing full-tab promotional content
 desc: |-
   Setting the policy to True or leaving it unset lets <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> show users product information as full-tab content.

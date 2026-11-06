@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Proxy settings
+# summary: Policy definition configuring proxy settings for Chrome and ARC apps, covering proxy mode, PAC script URL, proxy server, and bypass list.
+# ---
+
 arc_support: Only a subset of proxy configuration options are made available to Android
   apps. Android apps may voluntarily choose to use the proxy. You cannot force them
   to use a proxy.

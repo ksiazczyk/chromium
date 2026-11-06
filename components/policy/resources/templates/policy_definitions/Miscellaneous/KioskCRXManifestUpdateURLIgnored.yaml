@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Kiosk app update URL policy definition
+# summary: Defines the device-only policy restricting Kiosk Chrome app updates to the policy-provided update URL instead of the extension manifest URL.
+# ---
+
 caption: Use only policy-provided update URL when downloading and updating Kiosk Chrome
   apps
 default: false

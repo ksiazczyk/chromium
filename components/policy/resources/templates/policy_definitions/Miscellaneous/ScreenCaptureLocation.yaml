@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Set location to store screen captures
+# summary: ChromeOS policy definition that sets the directory where screenshots and screen recordings are saved, supporting local, Google Drive, and OneDrive locations.
+# ---
+
 caption: Set location to store screen captures
 desc: |-
   Sets the directory where Screen Captures (both screenshot and screen recordings) are being saved.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: UnsafelyTreatInsecureOriginAsSecure policy definition
+# summary: Defines the deprecated policy listing origins or hostnames exempt from insecure-origin restrictions, replaced by OverrideSecurityRestrictionsOnInsecureOrigin.
+# ---
+
 caption: Origins or hostname patterns for which restrictions on insecure origins should not apply
 deprecated: true
 desc: |-

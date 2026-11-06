@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: StrictMimetypeCheckForWorkerScriptsEnabled policy definition
+# summary: Chrome policy definition that enables strict MIME type checking for worker scripts and lets administrators retain legacy lax checking.
+# ---
+
 caption: Enable strict MIME type checking for worker scripts
 default: true
 desc: "This policy enables strict MIME type checking for worker scripts.\n\n     \

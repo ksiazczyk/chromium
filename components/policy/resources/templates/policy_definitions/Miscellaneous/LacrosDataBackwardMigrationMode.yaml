@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: LacrosDataBackwardMigrationMode policy definition
+# summary: Defines the deprecated LacrosDataBackwardMigrationMode policy that controls how much user data is kept or migrated after Lacros is disabled on ChromeOS.
+# ---
+
 caption: Choose what happens with user data after <ph name="LACROS_NAME">Lacros</ph>
   is disabled
 default: none

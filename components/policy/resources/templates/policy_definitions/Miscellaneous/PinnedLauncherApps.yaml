@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PinnedLauncherApps policy definition
+# summary: Defines the ChromeOS policy that fixes which Chrome, Android, web, System Web and Isolated Web apps are pinned in the launcher bar.
+# ---
+
 arc_support: This policy can also be used to pin Android apps.
 caption: List of pinned apps to show in the launcher
 desc: |-

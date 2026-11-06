@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Import bookmarks from default browser on first run
+# summary: Chrome policy definition that controls whether bookmarks are imported from the previous default browser on first run.
+# ---
+
 caption: Import bookmarks from default browser on first run
 default: false
 desc: |-

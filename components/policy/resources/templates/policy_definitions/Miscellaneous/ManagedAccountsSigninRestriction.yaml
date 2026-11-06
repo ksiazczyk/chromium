@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ManagedAccountsSigninRestriction policy definition
+# summary: Defines the deprecated policy restricting managed account sign-in and profile creation behavior, replaced by ProfileSeparationSettings.
+# ---
+
 caption: Add restrictions on managed accounts
 default: none
 desc: |-

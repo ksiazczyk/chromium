@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: RestrictAccountsToPatterns policy definition
+# summary: List policy definition restricting which Google accounts are visible in Chrome by matching account names against wildcard patterns.
+# ---
+
 caption: Restrict accounts that are visible in <ph name="PRODUCT_NAME">$1<ex>Google
   Chrome</ex></ph>
 desc: |-

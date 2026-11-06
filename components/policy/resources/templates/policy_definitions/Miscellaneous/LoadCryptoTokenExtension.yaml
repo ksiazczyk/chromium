@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: LoadCryptoTokenExtension policy definition
+# summary: Defines the deprecated policy for loading the CryptoToken component extension at startup as a temporary workaround for affected sites.
+# ---
+
 caption: Load the CryptoToken component extension at startup
 default: false
 deprecated: true

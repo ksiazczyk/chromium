@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Control the visibility of the extension attribution on the New Tab page
+# summary: Chromium policy definition controlling whether the New Tab page footer attributes extensions that override it.
+# ---
+
 caption:  Control the visibility of the extension attribution on the New Tab page
 default: true
 desc: |-

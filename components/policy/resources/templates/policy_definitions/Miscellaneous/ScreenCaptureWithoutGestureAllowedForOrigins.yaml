@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Allow screen capture without prior user gesture
+# summary: Policy definition letting admins list origins that may call the getDisplayMedia() API without a prior user gesture.
+# ---
+
 caption: Allow screen capture without prior user gesture
 desc: |-
   For security reasons, the

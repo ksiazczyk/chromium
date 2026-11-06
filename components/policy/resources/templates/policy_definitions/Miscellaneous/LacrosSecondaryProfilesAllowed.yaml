@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: LacrosSecondaryProfilesAllowed policy definition
+# summary: Defines the deprecated LacrosSecondaryProfilesAllowed policy governing secondary profiles and guest mode in the Lacros browser.
+# ---
+
 caption: Allow users to create and use secondary profiles, and use guest mode in the
   <ph name="LACROS_NAME">Lacros</ph> browser
 deprecated: true

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Allow Sign-in To Additional Google Accounts
+# summary: Policy definition controlling whether users can sign in to additional Google accounts in the browser content area and Android apps.
+# ---
+
 caption: Allow Sign-in To Additional Google Accounts
 desc: |-
   This setting allows users to switch between Google Accounts within the content area of their browser window and in Android applications, after they sign into their <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph> device.

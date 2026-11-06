@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: RC4Enabled policy definition
+# summary: Deprecated Chrome policy definition for enabling RC4 cipher suites in TLS, removed in M53 after RC4 support was dropped.
+# ---
+
 caption: Enable RC4 cipher suites in TLS
 deprecated: true
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PolicyAtomicGroupsEnabled policy definition
+# summary: Defines the boolean policy that enables ignoring policies from lower-priority sources within policy atomic groups.
+# ---
+
 caption: Enables the concept of policy atomic groups
 desc: |-
   Setting the policy to Enabled means policies coming from an atomic group that don't share the source with the highest priority from that group get ignored.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SafeSitesFilterBehavior policy definition
+# summary: Defines the Chrome policy controlling SafeSites adult content filtering, which uses the Google Safe Search API to classify and filter pornographic sites.
+# ---
+
 caption: Control SafeSites adult content filtering.
 desc: |-
   Setting the policy controls the SafeSites URL filter, which uses the Google Safe Search API to classify URLs as pornographic or not.

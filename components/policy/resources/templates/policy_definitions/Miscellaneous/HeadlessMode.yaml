@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: HeadlessMode policy definition
+# summary: Policy definition that allows or denies use of the browser's headless mode.
+# ---
+
 caption: Control use of the Headless Mode
 default: 1
 desc: Setting this policy to <ph name="ENABLED">Enabled</ph> or leaving the policy

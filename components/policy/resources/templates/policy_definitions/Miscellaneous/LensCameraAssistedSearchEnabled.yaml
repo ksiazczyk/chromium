@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: LensCameraAssistedSearchEnabled policy definition
+# summary: Defines the deprecated LensCameraAssistedSearchEnabled policy that toggles Google Lens camera assisted search on Android and iOS.
+# ---
+
 caption: Allow <ph name="GOOGLE_LENS_PRODUCT_NAME">Google Lens</ph> camera assisted
   search
 deprecated: true

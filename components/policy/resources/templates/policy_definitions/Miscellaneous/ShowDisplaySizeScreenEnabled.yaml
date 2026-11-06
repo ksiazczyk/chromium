@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ShowDisplaySizeScreenEnabled policy definition
+# summary: Defines the ChromeOS ShowDisplaySizeScreenEnabled policy controlling whether the display size setting screen is shown during first sign-in.
+# ---
+
 caption: Enable displaying display size setting screen during sign-in
 desc: |-
   This policy controls if the display size setting screen is shown to the user during the first sign-in.

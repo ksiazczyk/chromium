@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PrintingAPIExtensionsWhitelist policy definition
+# summary: Defines the deprecated list of extensions allowed to skip the print job confirmation dialog when using the chrome.printing API.
+# ---
+
 caption: Extensions allowed to skip confirmation dialog when sending print jobs via
   chrome.printing API
 deprecated: true

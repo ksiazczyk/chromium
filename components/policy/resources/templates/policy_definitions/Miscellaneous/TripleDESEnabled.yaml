@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: TripleDESEnabled policy definition
+# summary: Defines the deprecated policy for enabling 3DES cipher suites in TLS, removed in Chrome 97 after 3DES support was dropped.
+# ---
+
 caption: Enable 3DES cipher suites in TLS
 default: null
 deprecated: true

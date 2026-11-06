@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: GlanceablesEnabled policy definition
+# summary: Deprecated ChromeOS policy definition that controlled the Glanceables widgets accessible via the shelf date chip.
+# ---
+
 caption: Glanceables on <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph>
 deprecated: true
 default: true

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ShowTouchpadScrollScreenEnabled policy definition
+# summary: ChromeOS policy definition that controls whether the touchpad scrolling direction screen is shown during first sign-in.
+# ---
+
 caption: Enable displaying touchpad scrolling direction screen during sign-in
 desc: |-
   This policy controls if the touchpad scrolling direction screen is shown to the user during the first sign-in.

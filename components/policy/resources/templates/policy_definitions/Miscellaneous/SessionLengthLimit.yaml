@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SessionLengthLimit
+# summary: ChromeOS policy that automatically logs a user out after a set session length in milliseconds, clamped between 30 seconds and 24 hours.
+# ---
+
 caption: Limit the length of a user session
 desc: |-
   When this policy is set, it specifies the length of time after which a user is automatically logged out, terminating the session. The user is informed about the remaining time by a countdown timer shown in the system tray.

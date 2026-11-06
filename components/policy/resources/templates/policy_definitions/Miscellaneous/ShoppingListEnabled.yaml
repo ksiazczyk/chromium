@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ShoppingListEnabled policy definition
+# summary: Defines the ShoppingListEnabled policy that controls whether users can track product prices with the shopping list feature in the bookmarks side panel.
+# ---
+
 caption: Allow the shopping list feature to be enabled
 default: true
 desc: "This policy controls the availability of the shopping list feature.\n     \

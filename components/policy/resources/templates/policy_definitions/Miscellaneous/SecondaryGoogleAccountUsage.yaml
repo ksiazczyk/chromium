@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Add restrictions on a managed account's usage as a secondary account on ChromeOS
+# summary: Deprecated server-side ChromeOS policy that could restrict managed accounts to primary sign-in only; removed in M122.
+# ---
+
 caption: Add restrictions on a managed account's usage as a secondary account on ChromeOS
 default: all
 deprecated: true

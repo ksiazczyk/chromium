@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SharedWorkerExtendedLifetimeEnabled
+# summary: Temporary Chrome policy that controls whether SharedWorkers may have an extended lifetime via the extendedLifetime constructor option.
+# ---
+
 caption: Enable extended lifetime for SharedWorkers
 desc: |-
   SharedWorkers can have an extended lifetime if the "extendedLifetime" option is set to true in the SharedWorker constructor.

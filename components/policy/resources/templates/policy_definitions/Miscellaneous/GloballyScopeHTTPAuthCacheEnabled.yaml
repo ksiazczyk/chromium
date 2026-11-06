@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: GloballyScopeHTTPAuthCacheEnabled policy definition
+# summary: Policy definition enabling a globally scoped per-profile HTTP authentication cache shared across sites, kept temporarily for enterprises relying on the legacy behavior.
+# ---
+
 caption: Enable globally scoped HTTP auth cache
 desc: |-
   This policy configures a single global per profile cache with HTTP server authentication credentials.

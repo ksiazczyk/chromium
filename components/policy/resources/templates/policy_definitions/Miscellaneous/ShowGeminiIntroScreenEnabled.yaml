@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ShowGeminiIntroScreenEnabled policy definition
+# summary: Defines the ChromeOS ShowGeminiIntroScreenEnabled policy controlling whether the Gemini introduction screen appears during first sign-in.
+# ---
+
 caption: Enable displaying the introduction screen for Gemini during sign-in flow
 desc: |-
   This policy controls if the introduction screen for Gemini is shown to the user during the first sign-in flow.

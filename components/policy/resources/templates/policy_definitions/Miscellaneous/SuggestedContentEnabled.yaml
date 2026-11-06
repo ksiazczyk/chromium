@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SuggestedContentEnabled policy definition
+# summary: ChromeOS policy definition that enables or disables suggestions for new content such as apps and webpages.
+# ---
+
 caption: Enable Suggested Content
 default_for_enterprise_users: false
 desc: "This feature enables suggestions for new content to explore. Includes apps,\

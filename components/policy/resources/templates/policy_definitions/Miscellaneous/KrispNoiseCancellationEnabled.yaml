@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Krisp noise cancellation policy definition
+# summary: Defines the policy enabling or disabling the Krisp AI noise cancellation audio processing for managed users on ChromeOS.
+# ---
+
 caption: Enable Krisp noise cancellation
 desc: |-
   This policy controls the Krisp AI noise cancellation technology on the device.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PrefixedStorageInfoEnabled policy definition
+# summary: Defines the Chrome policy that re-enables the deprecated window.webkitStorageInfo API for Chrome 106 through 112.
+# ---
+
 caption: Re-enable the deprecated window.webkitStorageInfo API
 default: false
 deprecated: true

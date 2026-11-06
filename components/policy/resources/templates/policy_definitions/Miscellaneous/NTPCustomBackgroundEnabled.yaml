@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Allow users to customize the background on the New Tab page
+# summary: Chromium policy definition that allows or blocks user customization of the New Tab page background.
+# ---
+
 caption: Allow users to customize the background on the New Tab page
 default: true
 default_for_enterprise_users: true

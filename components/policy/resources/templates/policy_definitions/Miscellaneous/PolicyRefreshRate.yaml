@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PolicyRefreshRate policy definition
+# summary: Defines the policy specifying how often in milliseconds the device management service is queried for user policy information.
+# ---
+
 caption: Refresh rate for user policy
 desc: |-
   Setting the policy specifies the period in milliseconds at which the device management service is queried for user policy information. Valid values range from 1,800,000 (30 minutes) to 86,400,000 (1 day). Values outside this range will be clamped to the respective boundary.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: GhostWindowEnabled policy definition
+# summary: ChromeOS policy definition controlling whether ARC ghost windows are created before ARC boots after a crash or reboot.
+# ---
+
 caption: Enable the ghost window feature
 default: true
 desc: |-

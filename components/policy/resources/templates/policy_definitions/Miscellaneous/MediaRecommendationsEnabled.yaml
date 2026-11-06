@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enable Media Recommendations
+# summary: Chromium policy definition that controls whether personalized media recommendations are shown to the user, defaulting to enabled.
+# ---
+
 caption: Enable Media Recommendations
 default: true
 desc: By default the browser will show media recommendations that are personalized

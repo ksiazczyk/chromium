@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SafeBrowsingForTrustedSourcesEnabled policy definition
+# summary: Defines the Chrome policy deciding whether downloads from trusted sources are still sent to Safe Browsing for analysis, enabled by default on Windows.
+# ---
+
 caption: Enable Safe Browsing for trusted sources
 default: true
 desc: |-

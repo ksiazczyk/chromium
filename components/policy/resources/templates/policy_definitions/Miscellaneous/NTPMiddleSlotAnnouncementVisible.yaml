@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Show the middle slot announcement on the New Tab Page
+# summary: Deprecated Chromium policy definition that controlled the middle slot announcement on the New Tab Page and now has no effect.
+# ---
+
 caption: Show the middle slot announcement on the New Tab Page
 default: true
 deprecated: true

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: NativeMessagingBlacklist policy definition
+# summary: Deprecated Chrome policy definition listing forbidden native messaging hosts, replaced by the NativeMessagingBlocklist policy.
+# ---
+
 caption: Configure native messaging blocklist
 deprecated: true
 desc: This policy is deprecated and unsupported, please use the '<ph name="NATIVE_MESSAGING_BLOCKLIST_POLICY_NAME">NativeMessagingBlocklist</ph>' policy instead.

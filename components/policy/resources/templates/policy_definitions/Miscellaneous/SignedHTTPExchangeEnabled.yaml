@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SignedHTTPExchangeEnabled policy definition
+# summary: Policy definition that controls whether Chrome accepts web contents served as Signed HTTP Exchanges.
+# ---
+
 caption: Enable Signed HTTP Exchange (SXG) support
 default: true
 desc: |-

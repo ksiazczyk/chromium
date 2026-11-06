@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ParcelTrackingEnabled policy definition
+# summary: Defines a deprecated iOS policy controlling whether users can track their packages on Chrome through the New Tab Page.
+# ---
+
 owners:
 - hiramahmood@google.com
 - bling-pandamonium@google.com

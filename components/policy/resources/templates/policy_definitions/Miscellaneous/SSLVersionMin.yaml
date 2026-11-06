@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SSLVersionMin policy definition
+# summary: Defines the deprecated Chrome policy setting the minimum enabled SSL/TLS version, supported through M97 with TLS 1.0 and 1.1 values removed in M91.
+# ---
+
 caption: Minimum SSL version enabled
 deprecated: true
 desc: |-

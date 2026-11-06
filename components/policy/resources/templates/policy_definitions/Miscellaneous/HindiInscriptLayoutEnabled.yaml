@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: HindiInscriptLayoutEnabled Chrome policy definition
+# summary: Defines the deprecated ChromeOS policy that enables the Hindi Inscript keyboard layout.
+# ---
+
 caption: Enable the Hindi Inscript Layout
 default: false
 desc: Setting the policy enables Hindi Inscript Layout on <ph name="PRODUCT_OS_NAME">$2<ex>Google

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enables the provisioning of client certificates for managed browsers
+# summary: Policy definition that enables requesting a client certificate from the device management server for managed browser sessions, e.g. for mTLS connections.
+# ---
+
 owners:
 - hmare@google.com
 - cbe-device-trust-eng@google.com

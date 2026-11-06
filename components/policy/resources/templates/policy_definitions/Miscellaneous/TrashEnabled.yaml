@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: TrashEnabled policy definition
+# summary: Defines the ChromeOS policy that enables sending deleted files to the Trash in the Files app on supported filesystems.
+# ---
+
 caption: Enable capability to send files to the Trash (on supported filesystems) in
   the <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph> Files app
 default: true

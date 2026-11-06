@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SamlLockScreenOfflineSigninTimeLimitDays policy definition
+# summary: Defines the ChromeOS policy limiting how many days a SAML-authenticated user can sign in offline at the lock screen before online authentication is required.
+# ---
+
 caption: Limit the time for which a user authenticated via SAML can log in offline
   at the lock screen
 default: null

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Block access to a list of URLs in Incognito mode
+# summary: Chrome policy definition listing URL patterns that are blocked from loading in Incognito mode.
+# ---
+
 caption: Block access to a list of URLs in Incognito mode.
 desc: |-
   Setting the <ph name="INCOGNITO_MODE_URL_BLOCKLIST_POLICY_NAME">IncognitoModeUrlBlocklist</ph> policy stops web pages with prohibited URLs from loading in Incognito mode. Administrators can specify the list of URL patterns to be blocked. See how to format a URL pattern ( https://support.google.com/chrome/a?p=url_blocklist_filter_format ).

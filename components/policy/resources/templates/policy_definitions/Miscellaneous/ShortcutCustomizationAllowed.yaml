@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ShortcutCustomizationAllowed policy definition
+# summary: Defines the ChromeOS ShortcutCustomizationAllowed policy that permits or blocks customizing system shortcuts through the Key Shortcuts app.
+# ---
+
 caption: Allow customization of system shortcuts
 desc: |-
   This policy controls whether customization of system shortcuts is allowed.

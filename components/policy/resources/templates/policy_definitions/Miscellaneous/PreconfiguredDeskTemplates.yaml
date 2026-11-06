@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PreconfiguredDeskTemplates policy definition
+# summary: Defines the ChromeOS policy that provisions a preconfigured desk template downloaded from a URL with a SHA-256 hash.
+# ---
+
 caption: Allow users to select a preconfigured desktop layout to load
 desc: |-
   If set, this policy contains information to download a desk template file.  The file contains a desk template to be provisioned for the current user.

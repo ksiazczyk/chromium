@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Intranet Redirection Behavior policy definition
+# summary: Defines the policy configuring DNS interception checks and did-you-mean intranet redirect infobar behavior in the browser.
+# ---
+
 caption: Intranet Redirection Behavior
 default: 0
 desc: |-

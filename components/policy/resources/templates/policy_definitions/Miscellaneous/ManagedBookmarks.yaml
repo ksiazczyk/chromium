@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Managed Bookmarks policy definition
+# summary: Chrome enterprise policy definition that lets admins provision managed bookmarks with folders, names and URLs that users cannot change or sync.
+# ---
+
 caption: Managed Bookmarks
 desc: |-
   Setting the policy sets up a list of bookmarks where each one is a dictionary with the keys "<ph name="NAME">name</ph>" and "<ph name="URL_LABEL">url</ph>". These keys hold the bookmark's name and target. Admins can set up a subfolder by defining a bookmark without a "<ph name="URL_LABEL">url</ph>" key, but with an additional "<ph name="CHILDREN">children</ph>" key. This key also has a list of bookmarks, some of which can also be folders. Chrome amends incomplete URLs as if they were submitted through the address bar. For example, "<ph name="GOOGLE_COM">google.com</ph>" becomes "<ph name="HTTPS_GOOGLE_COM">https://google.com/</ph>".

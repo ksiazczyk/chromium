@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: RunAllFlashInAllowMode policy definition
+# summary: Defines a deprecated policy, removed in Chrome 89, that extended the Flash content setting to all Flash content on websites allowing Flash.
+# ---
+
 caption: Extend Flash content setting to all content (deprecated)
 deprecated: true
 desc: |-

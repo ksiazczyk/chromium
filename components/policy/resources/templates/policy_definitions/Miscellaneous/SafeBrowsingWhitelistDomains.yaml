@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SafeBrowsingWhitelistDomains policy definition
+# summary: Defines the deprecated list policy naming domains exempt from Safe Browsing warnings and download checks, replaced by SafeBrowsingAllowlistDomains.
+# ---
+
 caption: Configure the list of domains on which Safe Browsing will not trigger warnings.
 deprecated: true
 desc: |-

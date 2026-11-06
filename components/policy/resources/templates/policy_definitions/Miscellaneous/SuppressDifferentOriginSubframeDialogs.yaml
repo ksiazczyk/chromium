@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SuppressDifferentOriginSubframeDialogs policy definition
+# summary: Chrome policy definition that blocks JavaScript dialogs triggered from subframes whose origin differs from the main frame.
+# ---
+
 caption: Suppress JavaScript Dialogs triggered from different origin subframes
 default: true
 desc: |-

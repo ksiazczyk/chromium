@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: LockScreenMediaPlaybackEnabled policy definition
+# summary: Defines the ChromeOS policy that allows or blocks media controls and playback while the device is locked.
+# ---
+
 caption: Allows users to play media when the device is locked
 default: true
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: MachineLevelUserCloudPolicyEnrollmentToken policy definition
+# summary: Defines the deprecated policy specifying the cloud policy enrollment token on desktop, replaced by CloudManagementEnrollmentToken.
+# ---
+
 caption: The enrollment token of cloud policy on desktop
 deprecated: true
 desc: "\n        This policy is deprecated in M72. Please use CloudManagementEnrollmentToken\

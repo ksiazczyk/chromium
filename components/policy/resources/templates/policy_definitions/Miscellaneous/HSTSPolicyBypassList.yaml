@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: HSTSPolicyBypassList policy definition
+# summary: Policy definition listing single-label hostnames that bypass preloaded HSTS upgrades from HTTP to HTTPS.
+# ---
+
 caption: List of names that will bypass the HSTS policy check
 desc: |-
   Setting the policy specifies a list of hostnames that bypass preloaded HSTS upgrades from http to https.

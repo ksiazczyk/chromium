@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: OnFileAttached Enterprise Connector policy
+# summary: Defines the Chrome Enterprise Connector settings for scanning files attached in Chrome, including password-protected and large file handling.
+# ---
+
 caption: Configuration policy for the OnFileAttached Chrome Enterprise Connector
 desc: |-
   List of Chrome Enterprise Connectors services settings to be applied to the <ph name="ON_FILE_ATTACHED_ENTERPRISE_CONNECTOR">OnFileAttached</ph> Enterprise Connector, which triggers when a file is attached to Chrome.

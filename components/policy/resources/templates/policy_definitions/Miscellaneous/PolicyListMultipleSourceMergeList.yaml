@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PolicyListMultipleSourceMergeList policy definition
+# summary: Defines the policy listing list policies that may be merged when set from different policy sources of the same scope and level.
+# ---
+
 caption: Allow merging list policies from different sources
 desc: |-
   Setting the policy allows merging of selected policies when they come from different sources, with the same scopes and level.

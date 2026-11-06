@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: TranslatorAPIAllowed policy
+# summary: Defines the policy that allows or disallows use of the Translator API in Chrome.
+# ---
+
 caption: Allow Translator API
 default: true
 desc: |-

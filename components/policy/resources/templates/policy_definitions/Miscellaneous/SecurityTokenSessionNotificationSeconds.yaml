@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Duration of the notification on smart card removal for Google ChromeOS
+# summary: ChromeOS policy definition setting how many seconds the blocking notification is shown before the lock or logout action on smart card removal.
+# ---
+
 caption: Duration of the notification on smart card removal for <ph name="PRODUCT_OS_NAME">$2<ex>Google
   ChromeOS</ex></ph>.
 desc: This policy only takes effect when the policy <ph name="SECURITY_TOKEN_SESSION_BEHAVIOR_POLICY_NAME">SecurityTokenSessionBehavior</ph>

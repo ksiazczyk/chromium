@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: RestrictBackgroundFetchFromServiceWorkerEnabled policy definition
+# summary: Temporary policy definition restricting Background Fetch API requests made from Service Workers, scheduled for removal after M152.
+# ---
+
 caption: Restrict Background Fetch API when called from a Service Worker
 default: true
 desc: |-

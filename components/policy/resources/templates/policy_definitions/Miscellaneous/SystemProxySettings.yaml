@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SystemProxySettings policy definition
+# summary: Defines a device-level ChromeOS policy that configures the System-proxy service and proxy credentials for system services.
+# ---
+
 caption: Configures System-proxy service for <ph name="PRODUCT_OS_NAME">$2<ex>Google
   ChromeOS</ex></ph>.
 desc: |-

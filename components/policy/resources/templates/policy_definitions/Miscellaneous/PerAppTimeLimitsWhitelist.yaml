@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PerAppTimeLimitsWhitelist policy definition
+# summary: Defines the deprecated ChromeOS per-app time limits allowlist policy, replaced by PerAppTimeLimitsAllowlist.
+# ---
+
 caption: Per-App Time Limits Allowlist
 deprecated: true
 desc: This policy is deprecated and unsupported , please use <ph name="PER_APP_TIME_LIMITS_ALLOWLIST">PerAppTimeLimitsAllowlist</ph> instead.

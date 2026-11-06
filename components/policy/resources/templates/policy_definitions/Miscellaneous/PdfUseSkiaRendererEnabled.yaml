@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PdfUseSkiaRendererEnabled policy definition
+# summary: Defines a policy controlling whether the Chrome PDF viewer uses the Skia renderer instead of the AGG renderer.
+# ---
+
 caption: Use Skia renderer for PDF rendering
 default: null
 desc: |-

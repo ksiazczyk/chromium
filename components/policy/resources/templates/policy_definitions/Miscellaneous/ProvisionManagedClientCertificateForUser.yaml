@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enables the provisioning of client certificates for a managed user or profile
+# summary: Policy definition that enables requesting a client certificate from the device management server for a managed user or profile, e.g. for mTLS connections.
+# ---
+
 owners:
 - seblalancette@chromium.org
 - file://components/enterprise/client_certificates/OWNERS

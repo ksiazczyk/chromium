@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PPAPISharedImagesForVideoDecoderAllowed policy definition
+# summary: Defines a deprecated ChromeOS policy letting Pepper plugins use shared images for video decoding, with an option to force the old implementation.
+# ---
+
 owners:
 - vasilyt@chromium.org
 - blundell@chromium.org

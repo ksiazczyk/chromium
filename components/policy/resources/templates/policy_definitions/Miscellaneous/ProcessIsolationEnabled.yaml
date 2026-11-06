@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ProcessIsolationEnabled policy definition
+# summary: Defines the Chrome policy that enables process isolation to protect browser processes from tampering by other applications on Windows.
+# ---
+
 caption: Enable Process Isolation
 default: null
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Http09OnNonDefaultPortsEnabled Chrome policy definition
+# summary: Defines the deprecated Chrome policy that enabled HTTP/0.9 support on non-default ports, slated for removal in Chrome 78.
+# ---
+
 caption: Enable HTTP/0.9 support on non-default ports
 deprecated: true
 desc: |-

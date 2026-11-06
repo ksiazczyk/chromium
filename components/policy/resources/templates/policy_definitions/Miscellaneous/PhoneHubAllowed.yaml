@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PhoneHubAllowed policy definition
+# summary: Defines the ChromeOS policy that controls whether users can opt in to Phone Hub on their device.
+# ---
+
 caption: Allow Phone Hub to be enabled.
 default_for_enterprise_users: false
 desc: |-

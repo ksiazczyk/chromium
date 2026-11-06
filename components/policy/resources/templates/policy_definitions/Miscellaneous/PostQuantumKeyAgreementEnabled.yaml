@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PostQuantumKeyAgreementEnabled policy definition
+# summary: Defines the deprecated policy controlling whether Chrome offers a post-quantum key agreement algorithm in TLS connections.
+# ---
+
 caption: Enable post-quantum key agreement for TLS
 default: null
 deprecated: true

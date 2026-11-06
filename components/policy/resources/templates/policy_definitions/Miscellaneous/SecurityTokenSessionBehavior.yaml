@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Action on security token removal (e.g., smart card) for Google ChromeOS
+# summary: ChromeOS policy definition choosing whether removing an authentication smart card does nothing, locks the screen, or logs the user out.
+# ---
+
 caption: Action on security token removal (e.g., smart card) for <ph name="PRODUCT_OS_NAME">$2<ex>Google
   ChromeOS</ex></ph>.
 desc: 'Specifies what happens when a user who is authenticating via a security token

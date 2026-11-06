@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: UnthrottledNestedTimeoutEnabled policy definition
+# summary: Defines the deprecated Chrome policy controlling whether nested setTimeout and setInterval calls under 4ms are clamped, planned for removal in Chrome 107.
+# ---
+
 caption: Control the nesting threshold before which Javascript setTimeout() function
   start being clamped
 default: null

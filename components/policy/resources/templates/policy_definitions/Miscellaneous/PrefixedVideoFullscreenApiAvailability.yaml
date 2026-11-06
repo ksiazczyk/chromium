@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PrefixedVideoFullscreenApiAvailability policy definition
+# summary: Defines the deprecated policy controlling whether the webkit-prefixed video fullscreen APIs remain available in Chrome 124 through 131.
+# ---
+
 owners:
 - tguilbert@chromium.org
 - file://media/OWNERS

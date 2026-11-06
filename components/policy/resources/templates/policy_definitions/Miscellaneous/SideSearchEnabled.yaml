@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SideSearchEnabled policy definition
+# summary: Policy definition that controls whether users can open their most recent default search engine results page in a browser side panel.
+# ---
+
 caption: Allow showing the most recent default search engine results page in a Browser
   side panel
 default: true

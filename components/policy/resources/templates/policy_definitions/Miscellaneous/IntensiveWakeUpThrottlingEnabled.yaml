@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: IntensiveWakeUpThrottling feature control policy definition
+# summary: Defines the policy that force-enables or disables aggressive throttling of JavaScript timers in background tabs to save CPU and battery.
+# ---
+
 caption: Control the <ph name="PRODUCT_NAME">IntensiveWakeUpThrottling</ph> feature.
 default: null
 desc: "When enabled the <ph name=\"PRODUCT_NAME\">IntensiveWakeUpThrottling</ph> feature\

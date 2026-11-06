@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SuggestLogoutAfterClosingLastWindow policy definition
+# summary: ChromeOS policy definition that controls the logout confirmation dialog shown when the last window closes in managed guest sessions.
+# ---
+
 caption: Display the logout confirmation dialog
 default: true
 desc: |-

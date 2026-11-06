@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: offsetParent new spec behavior policy (deprecated)
+# summary: Defines the deprecated policy choosing between old and new HTMLElement.offsetParent behavior during the cross-browser spec change through M120.
+# ---
+
 caption: Control the new behavior of <ph name="OFFSET_PARENT">HTMLElement.offsetParent</ph>
 default: null
 deprecated: true

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Keyboard focusable scrollers policy definition
+# summary: Defines the deprecated temporary opt-out policy for the keyboard focusable scrollers behavior, supported only through M138.
+# ---
+
 caption: Enable keyboard focusable scrollers
 default: true
 deprecated: true

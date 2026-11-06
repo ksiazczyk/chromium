@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Max policy invalidation fetch delay policy definition
+# summary: Policy definition setting the maximum delay in milliseconds before fetching new policies after an invalidation, clamped between 1 and 300 seconds.
+# ---
+
 caption: Maximum fetch delay after a policy invalidation
 default: 10000
 desc: |-

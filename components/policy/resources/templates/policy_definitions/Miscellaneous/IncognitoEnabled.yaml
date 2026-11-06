@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enable Incognito mode
+# summary: Deprecated Chrome policy definition that enabled or disabled Incognito mode, superseded by the IncognitoModeAvailability policy.
+# ---
+
 caption: Enable Incognito mode
 deprecated: true
 desc: |-
