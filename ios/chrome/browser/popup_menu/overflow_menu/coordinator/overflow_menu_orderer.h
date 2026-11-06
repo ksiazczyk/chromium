@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overflow menu orderer header
+// summary: Declares the orderer that controls ordering and customization of overflow menu destinations and actions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POPUP_MENU_OVERFLOW_MENU_COORDINATOR_OVERFLOW_MENU_ORDERER_H_
 #define IOS_CHROME_BROWSER_POPUP_MENU_OVERFLOW_MENU_COORDINATOR_OVERFLOW_MENU_ORDERER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile metrics implementation
+// summary: Logs the total number of profiles and counts of active, signed-in, and unused profiles using a 28-day activity threshold.
+// ---
+
 #include "ios/chrome/browser/profile_metrics/model/profile_metrics.h"
 
 #include <stddef.h>

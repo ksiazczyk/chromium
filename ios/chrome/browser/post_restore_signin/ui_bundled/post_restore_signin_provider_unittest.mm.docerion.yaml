@@ -1,0 +1,4 @@
+# Docerion header of post_restore_signin_provider_unittest.mm.
+type: test
+title: Unit tests for PostRestoreSignInProvider
+summary: Tests the provider's promo configuration, actions and metrics using fake services and identities.

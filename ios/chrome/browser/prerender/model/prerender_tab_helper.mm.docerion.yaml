@@ -1,0 +1,4 @@
+# Docerion header of prerender_tab_helper.mm.
+type: source
+title: PrerenderTabHelper implementation
+summary: Implements PrerenderTabHelper, forwarding prerender cancellation requests to its delegate.

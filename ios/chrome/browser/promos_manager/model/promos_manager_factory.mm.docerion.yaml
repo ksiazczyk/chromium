@@ -1,0 +1,4 @@
+# Docerion header of promos_manager_factory.mm.
+type: source
+title: Promos manager factory implementation
+summary: Builds a PromosManagerImpl per profile, wiring prefs, the default clock, and the feature engagement tracker, then initializes it.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overflow menu identity row view
+// summary: SwiftUI view that displays the signed-in identity or sign-in action, including avatar rendering, in the overflow menu.
+// ---
+
 import SwiftUI
 import UIKit
 import ios_chrome_common_ui_colors_swift

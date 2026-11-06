@@ -1,0 +1,4 @@
+# Docerion header of price_insights_item.mm.
+type: source
+title: PriceInsightsItem model object implementation
+summary: Implements the PriceInsightsItem class, providing storage and accessors for the buying options and product GURL properties.

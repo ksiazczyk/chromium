@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overflow menu action group model class
+// summary: Swift model class grouping overflow menu actions under an internal name, with reordering support, an optional footer and animated action updates.
+// ---
+
 import SwiftUI
 
 /// A model class representing a group of `OverflowMenuActions`.

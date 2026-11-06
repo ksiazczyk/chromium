@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSChromePrefModelAssociatorClient implementation
+// summary: Implements the iOS Chrome pref model associator client, which merges no preference values and exposes the iOS syncable prefs database.
+// ---
+
 #include "ios/chrome/browser/prefs/model/ios_chrome_pref_model_associator_client.h"
 
 #include "base/no_destructor.h"

@@ -1,0 +1,4 @@
+# Docerion header of profile_ios_io_data.mm.
+type: source
+title: ProfileIOSIOData implementation
+summary: Implements initialization and safe shutdown of the profile's IO-thread networking, including proxy, cookie store and content settings wiring.

@@ -1,0 +1,4 @@
+# Docerion header of print_coordinator.mm.
+type: source
+title: PrintCoordinator base implementation
+summary: Base PrintCoordinator implementation whose dismiss and print methods are NOTREACHED stubs that subclasses must override.

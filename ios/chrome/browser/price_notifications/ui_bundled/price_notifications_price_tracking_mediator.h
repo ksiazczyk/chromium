@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price tracking mediator interface
+// summary: Declares the mediator that connects the shopping service, bookmarks, image fetching, and push notifications to the price tracking UI.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PRICE_NOTIFICATIONS_UI_BUNDLED_PRICE_NOTIFICATIONS_PRICE_TRACKING_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_PRICE_NOTIFICATIONS_UI_BUNDLED_PRICE_NOTIFICATIONS_PRICE_TRACKING_MEDIATOR_H_
 

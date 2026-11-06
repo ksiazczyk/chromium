@@ -1,0 +1,4 @@
+# Docerion header of profile_ios_impl_io_data.mm.
+type: source
+title: ProfileIOSImplIOData implementation
+summary: Implements per-profile IO data handling for ProfileIOSImpl, lazily initializing request contexts, cookie paths and HTTP cache settings.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the prefs model directory
+summary: Sets directory-level include rules allowing dependencies on ios/chrome/browser/sync/model/prefs.

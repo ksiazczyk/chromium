@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price notifications track button interface
+// summary: Declares the UIButton subclass that lets users start tracking an item's price, including a lighter variant used by ShopCard.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PRICE_NOTIFICATIONS_UI_BUNDLED_CELLS_PRICE_NOTIFICATIONS_TRACK_BUTTON_H_
 #define IOS_CHROME_BROWSER_PRICE_NOTIFICATIONS_UI_BUNDLED_CELLS_PRICE_NOTIFICATIONS_TRACK_BUTTON_H_
 

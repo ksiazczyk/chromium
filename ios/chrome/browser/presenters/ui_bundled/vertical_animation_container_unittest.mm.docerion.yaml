@@ -1,0 +1,4 @@
+# Docerion header of vertical_animation_container_unittest.mm.
+type: test
+title: VerticalAnimationContainer unit tests
+summary: Unit tests verifying preparation, presentation and dismissal behavior of VerticalAnimationContainer using a test delegate.

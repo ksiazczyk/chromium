@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overflow menu action list view
+// summary: SwiftUI view that lists overflow menu action groups in sections, reports scroll metrics, adds iPad spacing and scrolls to a highlighted action.
+// ---
+
 import SwiftUI
 
 /// A view that displays a list of actions in the overflow menu.

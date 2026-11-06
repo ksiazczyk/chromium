@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the profile model directory
+summary: Specifies allowed include rules for the profile model directory, with per-file exceptions letting keyed_service_factories.mm include many feature model directories.

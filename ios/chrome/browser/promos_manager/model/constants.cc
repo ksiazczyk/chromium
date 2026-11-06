@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Promos manager constants implementation
+// summary: Implements impression dictionary keys and the mappings between Promo enum values and their string names for the promos manager.
+// ---
+
 #include "ios/chrome/browser/promos_manager/model/constants.h"
 
 #include <optional>

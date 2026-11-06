@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations of profile file path constants
+// summary: Declares resource-like file path constants for the Chrome application, such as the cache directory and cookie filenames.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PROFILE_MODEL_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_PROFILE_MODEL_CONSTANTS_H_
 

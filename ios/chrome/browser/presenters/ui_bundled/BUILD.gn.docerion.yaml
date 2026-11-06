@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for ui_bundled presenters
+summary: Defines the ui_bundled source set with the presenter sources and a testonly unit_tests source set for the vertical animation container.

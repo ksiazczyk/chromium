@@ -1,0 +1,4 @@
+# Docerion header of print_coordinator_impl.mm.
+type: source
+title: PrintCoordinatorImpl Objective-C implementation
+summary: Implements printing via UIPrintInteractionController, presenting AirPrint dialogs for views or images and recording the MobilePrintMenuAirPrint metric.

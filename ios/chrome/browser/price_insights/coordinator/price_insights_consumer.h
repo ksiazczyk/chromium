@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price Insights consumer protocol
+// summary: Declares the PriceInsightsConsumer protocol with callbacks for price tracking, navigation, error snackbars and notification permission alerts.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PRICE_INSIGHTS_COORDINATOR_PRICE_INSIGHTS_CONSUMER_H_
 #define IOS_CHROME_BROWSER_PRICE_INSIGHTS_COORDINATOR_PRICE_INSIGHTS_CONSUMER_H_
 

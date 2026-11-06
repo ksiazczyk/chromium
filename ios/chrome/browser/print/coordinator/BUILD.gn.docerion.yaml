@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Print coordinator build definition
+summary: Defines the GN build targets for the print coordinator, including a Swift source set for Swift/C++ interop and the Objective-C coordinator source set.

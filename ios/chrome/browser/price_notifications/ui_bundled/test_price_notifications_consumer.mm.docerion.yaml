@@ -1,0 +1,4 @@
+# Docerion header of test_price_notifications_consumer.mm.
+type: test
+title: Test price notifications consumer implementation
+summary: Implements the test price notifications consumer, recording trackable item updates and price tracking actions.

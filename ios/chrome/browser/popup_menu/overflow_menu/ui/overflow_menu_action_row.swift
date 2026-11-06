@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overflow menu action row view
+// summary: SwiftUI view rendering a single overflow menu action row with custom toggle styling, edit mode, context menu, highlight bounds tracking and accessibility identifiers.
+// ---
+
 import SwiftUI
 import UIKit
 import ios_chrome_common_ui_colors_swift

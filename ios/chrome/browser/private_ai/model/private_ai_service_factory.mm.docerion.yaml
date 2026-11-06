@@ -1,0 +1,4 @@
+# Docerion header of private_ai_service_factory.mm.
+type: source
+title: PrivateAiServiceFactory implementation
+summary: Implements the factory that builds PrivateAiService per profile with iOS network and Oak session drivers, gated by channel and feature flags.

@@ -1,0 +1,4 @@
+# Docerion header of non_modal_view_controller_presenter.mm.
+type: source
+title: NonModalViewControllerPresenter implementation
+summary: Implements non-modal child view controller presentation with a fade-in and scale-down animation and a fade-out dismissal.

@@ -1,0 +1,4 @@
+# Docerion header of price_notifications_track_button.mm.
+type: source
+title: Price notifications track button implementation
+summary: Implements the track button's styling, layout, and width constraints for both its standard and light variants.

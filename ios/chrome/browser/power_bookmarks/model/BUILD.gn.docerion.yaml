@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the power bookmarks model source set
+summary: Defines the GN source set for the power bookmarks model, listing its sources and dependencies on base, power bookmarks core, and iOS profile service factories.

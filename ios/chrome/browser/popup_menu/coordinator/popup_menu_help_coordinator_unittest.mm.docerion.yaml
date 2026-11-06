@@ -1,0 +1,4 @@
+# Docerion header of popup_menu_help_coordinator_unittest.mm.
+type: test
+title: Popup menu help coordinator unit tests
+summary: Unit tests for PopupMenuHelpCoordinator using a mock feature engagement tracker, test profile and browser, and an OCMock UI updater.

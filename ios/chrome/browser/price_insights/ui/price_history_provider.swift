@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price history SwiftUI provider
+// summary: Provides a factory that wraps the SwiftUI price history graph in a view controller for Objective-C callers.
+// ---
+
 import Foundation
 import SwiftUI
 import UIKit

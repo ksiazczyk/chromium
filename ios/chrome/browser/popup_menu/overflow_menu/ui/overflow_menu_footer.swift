@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overflow menu footer model class
+// summary: Swift model class representing an overflow menu footer with a learn-more link text, an image and a tap handler.
+// ---
+
 import SwiftUI
 
 /// Represents a footer in the overflow menu.

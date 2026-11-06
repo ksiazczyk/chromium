@@ -1,0 +1,4 @@
+# Docerion header of promos_manager_impl.mm.
+type: source
+title: Promos manager implementation
+summary: Implements promo registration and deregistration with pref persistence, feature engagement impression limits, and UMA registration metrics.

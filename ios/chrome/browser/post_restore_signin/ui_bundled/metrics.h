@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Post restore sign-in metrics declarations
+// summary: Declares histogram names and the choice enum used to record display and user choice of the promo.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POST_RESTORE_SIGNIN_UI_BUNDLED_METRICS_H_
 #define IOS_CHROME_BROWSER_POST_RESTORE_SIGNIN_UI_BUNDLED_METRICS_H_
 

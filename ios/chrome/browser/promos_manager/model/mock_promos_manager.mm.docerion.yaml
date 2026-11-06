@@ -1,0 +1,4 @@
+# Docerion header of mock_promos_manager.mm.
+type: test
+title: Mock PromosManager implementation
+summary: Implements the constructor and destructor of the MockPromosManager test double.

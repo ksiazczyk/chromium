@@ -1,0 +1,4 @@
+# Docerion header of price_notifications_price_chip_view.mm.
+type: source
+title: Price notifications price chip view implementation
+summary: Implements the price chip with current and previous price labels, optional strikethrough, accessibility strings, and colors reflecting price drops.

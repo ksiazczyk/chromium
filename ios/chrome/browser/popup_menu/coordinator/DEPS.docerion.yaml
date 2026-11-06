@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Popup menu coordinator include rules
+summary: Lists the additional include directories allowed for code in the popup menu coordinator directory.

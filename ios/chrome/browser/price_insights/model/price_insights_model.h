@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PriceInsightsModel header
+// summary: Declares the PriceInsightsModel keyed service, its item configuration structs, and the contextual panel interface for fetching per-URL configurations.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PRICE_INSIGHTS_MODEL_PRICE_INSIGHTS_MODEL_H_
 #define IOS_CHROME_BROWSER_PRICE_INSIGHTS_MODEL_PRICE_INSIGHTS_MODEL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of price_insights_model.mm.
+type: source
+title: PriceInsightsModel implementation
+summary: Implements fetching product info, price insights info, and price tracking state per URL, recording availability histograms.

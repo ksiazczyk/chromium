@@ -1,0 +1,4 @@
+# Docerion header of price_notifications_table_view_controller.mm.
+type: source
+title: Price notifications table view controller implementation
+summary: Implements the price notifications table view, building sections for trackable items on the current site and tracked items with loading states.

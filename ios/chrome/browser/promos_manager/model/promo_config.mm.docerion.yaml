@@ -1,0 +1,4 @@
+# Docerion header of promo_config.mm.
+type: source
+title: PromoConfig constructor implementation
+summary: Implements the PromoConfig constructor that initializes the identifier, feature engagement feature and optional display time.

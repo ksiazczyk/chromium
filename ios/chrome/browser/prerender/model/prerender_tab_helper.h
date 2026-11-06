@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrerenderTabHelper interface
+// summary: Declares PrerenderTabHelper, attached to WebStates used for prerendering so they can be detected and their prerendering cancelled.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PRERENDER_MODEL_PRERENDER_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_PRERENDER_MODEL_PRERENDER_TAB_HELPER_H_
 

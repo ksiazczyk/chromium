@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PowerBookmarkServiceFactory header
+// summary: Declares the PowerBookmarkServiceFactory class, a typed profile keyed service factory that creates one PowerBookmarkService per profile.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POWER_BOOKMARKS_MODEL_POWER_BOOKMARK_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_POWER_BOOKMARKS_MODEL_POWER_BOOKMARK_SERVICE_FACTORY_H_
 

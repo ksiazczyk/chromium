@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overflow menu destination list view
+// summary: SwiftUI view displaying the list of overflow menu destinations with width-based layout breakpoints, scroll offset tracking and drag interaction handling.
+// ---
+
 import Combine
 import SwiftUI
 

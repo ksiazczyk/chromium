@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SwiftUI price history graph view
+// summary: Implements the SwiftUI price history chart with tooltip positioning and gesture handling for the Price Insights panel.
+// ---
+
 import Charts
 import Foundation
 import SwiftUI

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price Insights cell interface
+// summary: Declares the collection view cell that displays Price Insights data with configuration and tracking status APIs.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PRICE_INSIGHTS_UI_PRICE_INSIGHTS_CELL_H_
 #define IOS_CHROME_BROWSER_PRICE_INSIGHTS_UI_PRICE_INSIGHTS_CELL_H_
 

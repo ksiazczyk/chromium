@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overflow menu container view
+// summary: SwiftUI container view that switches between the regular overflow menu and the menu customization view based on the model's customization state.
+// ---
+
 import SwiftUI
 
 /// The view holding the menu and deciding whether to show the regular menu

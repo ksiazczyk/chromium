@@ -1,0 +1,4 @@
+# Docerion header of test_price_insights_consumer.mm.
+type: test
+title: Test Price Insights consumer implementation
+summary: Implements TestPriceInsightsConsumer by setting flags when price tracking, navigation and error callbacks occur.

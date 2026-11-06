@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for promos manager model source sets
+summary: Defines GN source sets for the promos manager model, covering the manager, factory, internal implementation, types, constants, scene agent, Swift adapter, mocks and unit tests.

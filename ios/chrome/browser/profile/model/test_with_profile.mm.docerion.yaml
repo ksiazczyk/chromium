@@ -1,0 +1,4 @@
+# Docerion header of test_with_profile.mm.
+type: test
+title: TestWithProfile test fixture implementation
+summary: Implements the TestWithProfile fixture, initializing the IO thread, application context and policy connector for profile tests.

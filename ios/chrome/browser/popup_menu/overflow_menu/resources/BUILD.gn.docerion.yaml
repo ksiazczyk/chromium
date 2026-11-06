@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for overflow menu resources
+summary: GN build file that bundles the overflow menu asset catalog images, including footer link and managed footer imagesets, into the iOS app resources.

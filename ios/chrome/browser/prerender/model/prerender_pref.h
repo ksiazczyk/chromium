@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network prediction setting preference enum
+// summary: Defines the NetworkPredictionSetting enum persisted in preferences to control prerender network prediction modes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PRERENDER_MODEL_PRERENDER_PREF_H_
 #define IOS_CHROME_BROWSER_PRERENDER_MODEL_PRERENDER_PREF_H_
 

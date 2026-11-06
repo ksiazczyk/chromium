@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContainedPresenterDelegate protocol header
+// summary: Declares the ContainedPresenterDelegate protocol that is informed about presentation and dismissal events.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PRESENTERS_UI_BUNDLED_CONTAINED_PRESENTER_DELEGATE_H_
 #define IOS_CHROME_BROWSER_PRESENTERS_UI_BUNDLED_CONTAINED_PRESENTER_DELEGATE_H_
 

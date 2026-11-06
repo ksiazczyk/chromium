@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price Insights accessibility identifier constants
+// summary: Declares accessibility identifier constants for the Price Insights views, labels, button, and graph.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PRICE_INSIGHTS_UI_PRICE_INSIGHTS_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_PRICE_INSIGHTS_UI_PRICE_INSIGHTS_CONSTANTS_H_
 

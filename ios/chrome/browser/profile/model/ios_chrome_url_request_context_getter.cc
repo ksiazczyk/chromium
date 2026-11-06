@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSChromeURLRequestContextGetter implementation
+// summary: Implements IOSChromeURLRequestContextGetter, which lazily creates the main URLRequestContext from profile IO data on the IO thread.
+// ---
+
 #include "ios/chrome/browser/profile/model/ios_chrome_url_request_context_getter.h"
 
 #include "base/functional/bind.h"

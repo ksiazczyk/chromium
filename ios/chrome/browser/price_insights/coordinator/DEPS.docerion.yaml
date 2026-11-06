@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Price Insights coordinator include rules
+summary: Lists the allowed include paths for code in the Price Insights coordinator directory.

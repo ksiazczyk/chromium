@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overflow menu destination model class
+// summary: Swift model class representing an overflow menu destination, including badge type conversion helpers and whether the destination can be hidden.
+// ---
+
 import SwiftUI
 
 /// Represents a destination in the overflow menu.

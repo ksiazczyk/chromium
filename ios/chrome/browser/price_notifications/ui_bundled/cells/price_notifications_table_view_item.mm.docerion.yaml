@@ -1,0 +1,4 @@
+# Docerion header of price_notifications_table_view_item.mm.
+type: source
+title: Price notifications table view item and cell implementation
+summary: Implements the item and cell layout with stack views, a stop-tracking action menu, and placeholder elements shown while data loads.

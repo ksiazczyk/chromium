@@ -1,0 +1,4 @@
+# Docerion header of price_notifications_table_view_controller_unittest.mm.
+type: test
+title: Price notifications table view controller unit tests
+summary: Unit tests for the price notifications table view controller, checking loading placeholders, section contents and header items.

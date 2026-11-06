@@ -1,0 +1,4 @@
+# Docerion header of post_restore_signin_provider.mm.
+type: source
+title: Post restore sign-in promo provider implementation
+summary: Implements the promo provider, handling display logging, user choices and starting the sign-in flow.

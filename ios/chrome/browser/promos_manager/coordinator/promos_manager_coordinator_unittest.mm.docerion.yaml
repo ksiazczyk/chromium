@@ -1,0 +1,4 @@
+# Docerion header of promos_manager_coordinator_unittest.mm.
+type: test
+title: PromosManagerCoordinator unit tests
+summary: Unit tests covering promo display, dismissal, and handler behavior of the promos manager coordinator using OCMock and platform test fixtures.

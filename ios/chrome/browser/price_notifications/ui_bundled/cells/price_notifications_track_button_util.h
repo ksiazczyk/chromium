@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Track button layout utility interface
+// summary: Declares helper functions that calculate the track button's horizontal padding and width constraints relative to its parent cell.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PRICE_NOTIFICATIONS_UI_BUNDLED_CELLS_PRICE_NOTIFICATIONS_TRACK_BUTTON_UTIL_H_
 #define IOS_CHROME_BROWSER_PRICE_NOTIFICATIONS_UI_BUNDLED_CELLS_PRICE_NOTIFICATIONS_TRACK_BUTTON_UTIL_H_
 

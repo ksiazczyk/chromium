@@ -1,0 +1,4 @@
+# Docerion header of promos_manager.mm.
+type: source
+title: Promos manager base implementation
+summary: Provides the base PromosManager constructor and an empty Init method for the abstract promos manager class.

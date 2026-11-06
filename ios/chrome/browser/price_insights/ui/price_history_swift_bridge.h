@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Swift bridge header for price history
+// summary: Bridge header importing panel constants, metrics, and color APIs required by the Swift price history sources.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PRICE_INSIGHTS_UI_PRICE_HISTORY_SWIFT_BRIDGE_H_
 #define IOS_CHROME_BROWSER_PRICE_INSIGHTS_UI_PRICE_HISTORY_SWIFT_BRIDGE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price notifications table view item and cell header
+// summary: Declares the table view item and cell representing a price-trackable product, with title, URL, prices, image, tracking state, and delegate.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PRICE_NOTIFICATIONS_UI_BUNDLED_CELLS_PRICE_NOTIFICATIONS_TABLE_VIEW_ITEM_H_
 #define IOS_CHROME_BROWSER_PRICE_NOTIFICATIONS_UI_BUNDLED_CELLS_PRICE_NOTIFICATIONS_TABLE_VIEW_ITEM_H_
 

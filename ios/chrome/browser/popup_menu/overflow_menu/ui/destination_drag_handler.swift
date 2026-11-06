@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drag handler for destination reordering
+// summary: SwiftUI drag and drop handler managing destination drag interactions and reordering during menu customization.
+// ---
+
 import SwiftUI
 
 /// Class to handle destination drag interactions in the overflow menu

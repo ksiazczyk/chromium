@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Overflow menu Earl Grey tests build definition
+summary: GN build file that defines the eg2_tests source set for the overflow menu Earl Grey tests and lists their sources and dependencies.

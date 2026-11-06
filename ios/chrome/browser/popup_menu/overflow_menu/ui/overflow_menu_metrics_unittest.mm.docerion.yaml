@@ -1,0 +1,4 @@
+# Docerion header of overflow_menu_metrics_unittest.mm.
+type: test
+title: Overflow menu metrics unit tests
+summary: Unit tests for the initially-visible helper functions used by overflow menu metrics.

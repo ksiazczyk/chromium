@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price notifications view coordinator header
+// summary: Declares the coordinator that presents the price notifications UI and serves as the price notifications alert presenter.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PRICE_NOTIFICATIONS_UI_BUNDLED_PRICE_NOTIFICATIONS_VIEW_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_PRICE_NOTIFICATIONS_UI_BUNDLED_PRICE_NOTIFICATIONS_VIEW_COORDINATOR_H_
 

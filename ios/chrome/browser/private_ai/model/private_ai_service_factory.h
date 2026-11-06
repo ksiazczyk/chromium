@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrivateAiServiceFactory class declaration
+// summary: Declares PrivateAiServiceFactory, a typed profile-keyed service factory that builds PrivateAiService instances for iOS profiles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PRIVATE_AI_MODEL_PRIVATE_AI_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_PRIVATE_AI_MODEL_PRIVATE_AI_SERVICE_FACTORY_H_
 

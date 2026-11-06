@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileIOSIOData class declaration
+// summary: Declares ProfileIOSIOData, which owns IO-thread network objects such as cookie stores and HTTP caches on behalf of a ProfileIOS.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PROFILE_MODEL_PROFILE_IOS_IO_DATA_H_
 #define IOS_CHROME_BROWSER_PROFILE_MODEL_PROFILE_IOS_IO_DATA_H_
 

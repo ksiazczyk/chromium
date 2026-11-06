@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Popup menu DEPS include rules
+summary: Defines the allowed include dependencies for the iOS popup menu directory, listing permitted headers and modules from other Chrome browser components.

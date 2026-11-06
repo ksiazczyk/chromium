@@ -1,0 +1,4 @@
+# Docerion header of profile_activity_profile_agent.mm.
+type: source
+title: Profile activity profile agent implementation
+summary: Updates last-active times for profiles and signed-in primary accounts when scenes become foreground active or the profile reaches UI ready.

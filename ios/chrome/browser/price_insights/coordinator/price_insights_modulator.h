@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price Insights modulator interface
+// summary: Declares PriceInsightsModulator, a PanelBlockModulator subclass that presents Price Insights as a contextual panel info block.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PRICE_INSIGHTS_COORDINATOR_PRICE_INSIGHTS_MODULATOR_H_
 #define IOS_CHROME_BROWSER_PRICE_INSIGHTS_COORDINATOR_PRICE_INSIGHTS_MODULATOR_H_
 

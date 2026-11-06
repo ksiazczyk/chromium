@@ -1,0 +1,4 @@
+# Docerion header of price_notifications_price_tracking_mediator.mm.
+type: source
+title: Price tracking mediator implementation
+summary: Implements price tracking state changes, subscription handling, metrics histograms, and product image fetching for the price notifications UI.

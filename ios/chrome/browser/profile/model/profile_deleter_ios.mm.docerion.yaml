@@ -1,0 +1,4 @@
+# Docerion header of profile_deleter_ios.mm.
+type: source
+title: Profile deleter implementation
+summary: Implements profile deletion, removing WebKit storage, client certificate keys, and the profile directory on a background thread with a success or failure result.

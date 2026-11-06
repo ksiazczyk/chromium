@@ -1,0 +1,4 @@
+# Docerion header of price_notifications_price_tracking_egtest.mm.
+type: test
+title: Price tracking Earl Grey UI tests
+summary: Earl Grey tests verifying the price tracking UI dismiss button and that the destination is hidden in Incognito mode.

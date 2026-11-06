@@ -1,0 +1,4 @@
+# Docerion header of request_desktop_mobile_site_egtest.mm.
+type: test
+title: Request desktop and mobile site Earl Grey UI tests
+summary: Earl Grey UI tests verifying the request desktop and mobile site actions in the overflow menu and the resulting user agent changes on reloaded pages.

@@ -1,0 +1,4 @@
+# Docerion header of prerender_egtest.mm.
+type: test
+title: Prerender Earl Grey UI tests
+summary: Earl Grey integration tests verifying prerendered page loading, opening links in new tabs, and request desktop site behavior.

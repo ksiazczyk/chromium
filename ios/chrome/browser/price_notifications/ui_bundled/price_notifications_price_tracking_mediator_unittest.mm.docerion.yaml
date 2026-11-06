@@ -1,0 +1,4 @@
+# Docerion header of price_notifications_price_tracking_mediator_unittest.mm.
+type: test
+title: Price tracking mediator unit tests
+summary: Unit tests for the price tracking mediator, verifying price tracking subscriptions, notifications and URL opening with mock services and test profiles.

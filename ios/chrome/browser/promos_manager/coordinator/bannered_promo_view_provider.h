@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BanneredPromoViewProvider protocol
+// summary: Protocol enabling feature teams to build bannered promos by providing a promo-style view controller with banners, titles, buttons, images, and action handlers.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PROMOS_MANAGER_COORDINATOR_BANNERED_PROMO_VIEW_PROVIDER_H_
 #define IOS_CHROME_BROWSER_PROMOS_MANAGER_COORDINATOR_BANNERED_PROMO_VIEW_PROVIDER_H_
 

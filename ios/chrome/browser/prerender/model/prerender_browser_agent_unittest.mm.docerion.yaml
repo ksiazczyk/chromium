@@ -1,0 +1,4 @@
+# Docerion header of prerender_browser_agent_unittest.mm.
+type: test
+title: PrerenderBrowserAgent unit tests
+summary: Unit tests for PrerenderBrowserAgent covering prerender scheduling, cancellation, and network change behavior using fake web states.

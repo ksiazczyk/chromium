@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintCoordinator interface
+// summary: Declares the PrintCoordinator base class, a ChromeCoordinator conforming to PrintHandler, with a method to dismiss the print dialog.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PRINT_COORDINATOR_PRINT_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_PRINT_COORDINATOR_PRINT_COORDINATOR_H_
 

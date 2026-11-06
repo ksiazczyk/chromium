@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overflow menu action model class
+// summary: Swift model class representing an action in the overflow menu, with published properties for enabled state, styling, highlight, subtitle, preview images and action type.
+// ---
+
 import Combine
 
 /// Represents an action in the overflow menu.

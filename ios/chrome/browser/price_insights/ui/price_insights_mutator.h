@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PriceInsightsMutator protocol header
+// summary: Defines the PriceInsightsMutator protocol used to forward price tracking, stop tracking and webpage navigation actions from the UI to the mediator.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PRICE_INSIGHTS_UI_PRICE_INSIGHTS_MUTATOR_H_
 #define IOS_CHROME_BROWSER_PRICE_INSIGHTS_UI_PRICE_INSIGHTS_MUTATOR_H_
 

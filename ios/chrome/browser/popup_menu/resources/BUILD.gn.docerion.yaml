@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Popup menu resources build definition
+summary: GN build target that bundles the popup menu Assets.xcassets image sets into the iOS app bundle.

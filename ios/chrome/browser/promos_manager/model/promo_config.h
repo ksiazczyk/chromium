@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PromoConfig structure declaration
+// summary: Declares the PromoConfig struct holding a promo identifier, its feature engagement feature and an optional preferred display time.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PROMOS_MANAGER_MODEL_PROMO_CONFIG_H_
 #define IOS_CHROME_BROWSER_PROMOS_MANAGER_MODEL_PROMO_CONFIG_H_
 

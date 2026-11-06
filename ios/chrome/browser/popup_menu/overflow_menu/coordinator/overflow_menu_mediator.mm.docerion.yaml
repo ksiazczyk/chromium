@@ -1,0 +1,4 @@
+# Docerion header of overflow_menu_mediator.mm.
+type: source
+title: Overflow menu mediator implementation
+summary: Implements the overflow menu mediator, building and updating menu items from browser services, prefs, and state.

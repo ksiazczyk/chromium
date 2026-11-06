@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Price Insights coordinator build targets
+summary: Defines GN source sets for the Price Insights coordinator, delegates, test support and unit tests with their dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of promos_manager_mediator.mm.
+type: source
+title: PromosManagerMediator implementation
+summary: Implements next-promo selection, honoring the forced promo experimental flag and whether the active tab is a fresh new tab page.

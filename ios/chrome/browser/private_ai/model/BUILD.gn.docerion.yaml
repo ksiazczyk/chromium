@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for private AI model
+summary: Defines the model and unit_tests source sets for the private AI service factory along with their build dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrerenderBrowserAgent interface
+// summary: Declares PrerenderBrowserAgent, a browser agent that schedules, cancels, and promotes prerendered web pages in iOS Chrome.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PRERENDER_MODEL_PRERENDER_BROWSER_AGENT_H_
 #define IOS_CHROME_BROWSER_PRERENDER_MODEL_PRERENDER_BROWSER_AGENT_H_
 

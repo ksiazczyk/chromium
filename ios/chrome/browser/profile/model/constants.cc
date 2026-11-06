@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile cache and cookie filename constants
+// summary: Defines file path constants for the cache directory name, cookie filename, and network persistent state filename used by Chrome on iOS.
+// ---
+
 #include "ios/chrome/browser/profile/model/constants.h"
 
 const base::FilePath::CharType kIOSChromeCacheDirname[] =

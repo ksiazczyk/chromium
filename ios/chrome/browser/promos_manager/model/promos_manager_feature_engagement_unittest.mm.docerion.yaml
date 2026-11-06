@@ -1,0 +1,4 @@
+# Docerion header of promos_manager_feature_engagement_unittest.mm.
+type: test
+title: Promos manager feature engagement tests
+summary: Unit tests verifying that all active standard promos carry a one-in-30-days impression limit and belong to the global fullscreen promos group.

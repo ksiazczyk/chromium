@@ -1,0 +1,4 @@
+# Docerion header of test_price_notifications_mutator.mm.
+type: test
+title: Test price notifications mutator implementation
+summary: Implements the test price notifications mutator, recording whether navigation to an item page occurred.

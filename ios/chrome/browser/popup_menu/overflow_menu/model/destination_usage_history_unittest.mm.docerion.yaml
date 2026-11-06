@@ -1,0 +1,4 @@
+# Docerion header of destination_usage_history_unittest.mm.
+type: test
+title: DestinationUsageHistory unit tests
+summary: Unit tests verifying destination usage history ranking, click recording and sorting behavior using a testing pref service and a static visible destination count.

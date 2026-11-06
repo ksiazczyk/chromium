@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileIOSImpl IO data header
+// summary: Declares ProfileIOSImplIOData and its Handle, which manage IO-thread network objects, request context getters, and network history clearing for the regular profile.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PROFILE_MODEL_PROFILE_IOS_IMPL_IO_DATA_H_
 #define IOS_CHROME_BROWSER_PROFILE_MODEL_PROFILE_IOS_IMPL_IO_DATA_H_
 

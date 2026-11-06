@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_pref_service_factory.mm.
+type: source
+title: Pref service factory implementation for Chrome on iOS
+summary: Implements creation of local state, profile, and incognito preference services using JSON pref stores, policies, and supervised user prefs.

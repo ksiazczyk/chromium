@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price notifications image container view header
+// summary: Declares PriceNotificationsImageContainerView, a UIView that displays a tracked product's image at a fixed 64-point square size.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PRICE_NOTIFICATIONS_UI_BUNDLED_CELLS_PRICE_NOTIFICATIONS_IMAGE_CONTAINER_VIEW_H_
 #define IOS_CHROME_BROWSER_PRICE_NOTIFICATIONS_UI_BUNDLED_CELLS_PRICE_NOTIFICATIONS_IMAGE_CONTAINER_VIEW_H_
 

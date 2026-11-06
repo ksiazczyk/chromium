@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Overflow menu UI build configuration
+summary: GN build file defining the Swift source set, overflow menu metrics target, and unit tests for the overflow menu UI.

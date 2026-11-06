@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Price Insights UI resources
+summary: Declares the asset catalog sources bundled as resources for the iOS Price Insights UI.

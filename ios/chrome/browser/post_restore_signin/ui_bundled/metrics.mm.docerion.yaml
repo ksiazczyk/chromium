@@ -1,0 +1,4 @@
+# Docerion header of metrics.mm.
+type: source
+title: Post restore sign-in metrics definitions
+summary: Defines the histogram name strings for promo display and user choice recording.

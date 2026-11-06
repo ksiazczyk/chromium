@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Prerender model DEPS include rules
+summary: Lists the include directories allowed for the prerender model folder, with a special rule for prerender_service_impl.mm.

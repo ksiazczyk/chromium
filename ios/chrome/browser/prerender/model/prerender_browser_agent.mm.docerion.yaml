@@ -1,0 +1,4 @@
+# Docerion header of prerender_browser_agent.mm.
+type: source
+title: PrerenderBrowserAgent implementation
+summary: Implements prerender request scheduling, network change handling, promotion of prerendered tabs, and Prerender.* histogram logging.

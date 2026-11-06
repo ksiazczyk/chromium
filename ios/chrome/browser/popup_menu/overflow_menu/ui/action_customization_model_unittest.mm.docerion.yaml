@@ -1,0 +1,4 @@
+# Docerion header of action_customization_model_unittest.mm.
+type: test
+title: Unit tests for the action customization model
+summary: Objective-C++ unit tests verifying that hiding and showing actions moves them between groups while preserving order.
