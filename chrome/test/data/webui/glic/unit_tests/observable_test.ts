@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ObservableValue and Subject unit tests
+// summary: Unit tests for ObservableValue and Subject covering subscription, reset, completion, error propagation, and assignAndSignal after completion.
+// ---
+
 import {ObservableValue, Subject} from 'chrome://glic/glic.js';
 import {assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';
 

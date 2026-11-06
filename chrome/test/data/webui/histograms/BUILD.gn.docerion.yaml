@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: GN build rules for histograms WebUI tests
+summary: GN build file that assembles the browser test binary and TypeScript test sources for the histograms internals WebUI tests.

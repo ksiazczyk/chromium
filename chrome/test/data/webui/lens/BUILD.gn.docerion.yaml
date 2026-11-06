@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for Lens WebUI tests
+summary: Defines the GN target that builds and runs the Lens overlay and side panel WebUI Mocha browser tests, listing test sources and TypeScript dependencies.

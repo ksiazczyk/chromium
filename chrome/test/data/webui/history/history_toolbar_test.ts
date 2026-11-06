@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Toolbar test
+// summary: WebUI tests for the history toolbar covering item selection counts, search term handling, spinner behavior and embeddings search integration.
+// ---
+
 import 'chrome://history/history.js';
 
 import type {HistoryAppElement} from 'chrome://history/history.js';

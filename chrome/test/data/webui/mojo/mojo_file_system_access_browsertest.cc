@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FileSystemAccess Mojo WebUI browser test
+// summary: Browser test that exercises Mojo JS bindings with FileSystemAccess in a WebUI, including transfer token resolution.
+// ---
+
 #include "base/files/file_path.h"
 #include "base/files/file_util.h"
 #include "base/memory/ref_counted_memory.h"

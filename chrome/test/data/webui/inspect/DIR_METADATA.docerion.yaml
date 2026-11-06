@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Inspect test directory metadata
+summary: Directory metadata file that applies the shared ownership metadata defined for the inspect browser resources folder.

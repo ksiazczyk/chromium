@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic test client stress section
+// summary: Test client section that issues ten thousand getUserProfileInfo calls to stress the host, optionally retaining the results in memory.
+// ---
+
 import {getBrowser} from '../client.js';
 import {$} from '../page_element_types.js';
 

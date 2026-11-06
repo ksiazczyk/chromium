@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lens side panel ghost loader state tests
+// summary: WebUI tests for the searchbox ghost loader, checking visibility toggling, suppression by the side panel, and resetting to the loading state on input.
+// ---
+
 import 'chrome-untrusted://lens/side_panel/side_panel_app.js';
 
 import type {SearchboxGhostLoaderElement} from 'chrome-untrusted://lens/lens/shared/searchbox_ghost_loader.js';

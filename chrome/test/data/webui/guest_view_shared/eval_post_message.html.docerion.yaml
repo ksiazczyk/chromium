@@ -1,0 +1,4 @@
+# Docerion header of eval_post_message.html.
+type: test
+title: Eval post message test helper page
+summary: HTML test fixture that evaluates functions received via postMessage and reports the result or error back to the sender.

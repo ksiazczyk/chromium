@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Inline login WebUI tests build definition
+summary: Defines the GN build target for the inline login WebUI Mocha tests, listing test sources, TypeScript definitions, path mappings, and dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Parse HTML subset tests
+// summary: Tests parseHtmlSubset and sanitizeInnerHtml, covering allowed tags and attributes, anchor href rules, optional tags and attributes, and rejection of unsafe HTML.
+// ---
+
 import {parseHtmlSubset, sanitizeInnerHtml} from 'chrome://resources/js/parse_html_subset.js';
 import {assertEquals, assertFalse, assertThrows} from 'chrome://webui-test/chai_assert.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cross-device sign-in promo tests
+// summary: Tests the history cross-device sign-in promo card, verifying show, dismiss, and action-click calls to its handler.
+// ---
+
 import 'chrome://history/history.js';
 
 import {HistoryCrossDeviceSigninPromoBrowserProxy} from 'chrome://history/history.js';

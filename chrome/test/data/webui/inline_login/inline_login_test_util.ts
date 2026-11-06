@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Inline login test utilities and fakes
+// summary: Provides fake authentication data plus TestAuthenticator and TestInlineLoginBrowserProxy doubles used by the inline login WebUI tests.
+// ---
+
 import {type AuthCompletedCredentials, type AuthMode, type AuthParams} from 'chrome://chrome-signin/gaia_auth_host/authenticator.js';
 import type {InlineLoginBrowserProxy} from 'chrome://chrome-signin/inline_login_browser_proxy.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';

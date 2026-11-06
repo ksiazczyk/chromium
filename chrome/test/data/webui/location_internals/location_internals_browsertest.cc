@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Location internals browser test
+// summary: Browser test that loads the location internals WebUI page and runs its mocha test suite, enabling the Mojo JavaScript test bindings the TypeScript tests rely on.
+// ---
+
 #include "base/command_line.h"
 #include "chrome/browser/browser_process.h"
 #include "chrome/common/webui_url_constants.h"

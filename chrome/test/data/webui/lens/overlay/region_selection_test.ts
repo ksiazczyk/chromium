@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Region selection tests
+// summary: WebUI tests for manual region selection in the Lens selection overlay, checking drag-created boxes, coordinate normalization, and metrics.
+// ---
+
 import 'chrome-untrusted://lens-overlay/selection_overlay.js';
 
 import type {Point, RectF} from '//resources/mojo/ui/gfx/geometry/mojom/geometry.mojom-webui.js';

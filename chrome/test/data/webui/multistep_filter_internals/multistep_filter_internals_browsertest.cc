@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multistep filter internals browser test
+// summary: C++ browser test that enables the multistep filter feature and internal-only UIs, then runs the mocha app test suite for the multistep filter internals WebUI page.
+// ---
+
 #include "base/command_line.h"
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/browser_process.h"

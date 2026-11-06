@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media engagement WebUI test suite
+// summary: TypeScript mocha test that waits for the page to populate and asserts the expected media engagement origin values are shown in the origin cells.
+// ---
+
 import {assertDeepEquals} from 'chrome://webui-test/chai_assert.js';
 
 declare global {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic test client Chrome tools section
+// summary: Test client section that queries available Chrome tools, pre-fills sample JSON arguments, and executes the selected tool.
+// ---
+
 import {ChromeToolBlockingBehavior} from '/glic/glic_api/glic_api.js';
 import type {ChromeTool, ChromeToolExecutionResult} from '/glic/glic_api/glic_api.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multistep filter internals app WebUI tests
+// summary: TypeScript WebUI tests that verify the multistep filter internals app renders debug info and log entries using a mocked mojo page handler.
+// ---
+
 import 'chrome://multistep-filter-internals/app.js';
 
 import type {MultistepFilterInternalsAppElement} from 'chrome://multistep-filter-internals/app.js';

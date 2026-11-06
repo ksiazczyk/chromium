@@ -4,6 +4,12 @@
 
 // cc_file_path: chrome/browser/glic/host/glic_drag_and_drop_browsertest.cc
 
+// ---docerion
+// type: test
+// title: Glic drag and drop browser tests
+// summary: Browser tests for native file drag and drop into the Glic panel, verifying dropped file contents and rejection of text drags.
+// ---
+
 import {ApiTestFixtureBase, assertEquals, assertFalse, testMain, waitFor} from './browser_test_base.js';
 
 class GlicDragAndDropBrowserTest extends ApiTestFixtureBase {

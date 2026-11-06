@@ -1,0 +1,4 @@
+# Docerion header of page.html.
+type: test
+title: Glic test page with blue favicon
+summary: Test fixture HTML page linking a blue favicon, used as sample content in Glic web UI tests.

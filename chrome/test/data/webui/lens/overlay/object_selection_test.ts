@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Object selection tests
+// summary: Tests rendering and selection of detected objects in the Lens selection overlay, including segmentation masks, normalized boxes and user action metrics.
+// ---
+
 import 'chrome-untrusted://lens-overlay/selection_overlay.js';
 
 import type {RectF} from '//resources/mojo/ui/gfx/geometry/mojom/geometry.mojom-webui.js';

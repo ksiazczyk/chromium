@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Histograms internals browser tests
+// summary: C++ browser test fixture that populates sample histograms and runs the histograms internals WebUI mocha test cases, with several flaky tests disabled on Linux.
+// ---
+
 #include "base/metrics/histogram.h"
 #include "base/strings/stringprintf.h"
 #include "build/build_config.h"

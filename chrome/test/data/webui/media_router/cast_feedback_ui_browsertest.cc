@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast feedback UI browser test
+// summary: Browser test fixture that loads the Cast Feedback WebUI and runs its Mocha suite for the Success and Failure cases.
+// ---
+
 #include "chrome/common/webui_url_constants.h"
 #include "chrome/test/base/web_ui_mocha_browser_test.h"
 #include "content/public/test/browser_test.h"

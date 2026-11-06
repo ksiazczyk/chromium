@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI tests for the iwa-dev install dialog
+// summary: Tests the iwa-dev install dialog, covering installation success and failure errors, canceling, and the dev proxy and update manifest tabs.
+// ---
+
 import 'chrome://iwa-dev/install_dialog.js';
 
 import type {CrInputElement} from '//resources/cr_elements/cr_input/cr_input.js';

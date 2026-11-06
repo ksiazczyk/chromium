@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for history tests
+summary: Points the history WebUI test directory to the shared metadata mixins of the history resources folder.

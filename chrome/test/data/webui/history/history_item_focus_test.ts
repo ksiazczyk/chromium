@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History item focus tests
+// summary: Tests keyboard focus behavior of the history-item element, such as refocusing the checkbox and moving focus after bookmark removal.
+// ---
+
 import 'chrome://history/history.js';
 
 import type {HistoryItemElement} from 'chrome://history/history.js';

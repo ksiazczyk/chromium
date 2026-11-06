@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Inspect WebUI tests build definition
+summary: GN build file that assembles the C++ browser tests and TypeScript test sources into the inspect WebUI test target.

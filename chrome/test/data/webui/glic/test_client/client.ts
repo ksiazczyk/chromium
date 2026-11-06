@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic test web client implementation
+// summary: Implements the GlicWebClient for the test page, covering initialization, permission switches, and host API logging.
+// ---
+
 import type {AdditionalContext, FocusedTabData, GlicBrowserHost, GlicWebClient, InvokeOptions, Observable, OpenPanelInfo, PanelOpeningData, PanelState, WebClientInitializeError} from '/glic/glic_api/glic_api.js';
 import {InvocationSource, WebClientInitializeErrorReason, WebClientMode} from '/glic/glic_api/glic_api.js';
 import {Subject} from '/glic/observable.js';

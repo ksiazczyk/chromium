@@ -5,6 +5,12 @@
 // cc_file_path:
 // chrome/browser/glic/host/glic_api_zss_browsertest.cc
 
+// ---docerion
+// type: test
+// title: Glic zero state suggestions API browser tests
+// summary: Browser tests for the zero state suggestions API, covering focused tab suggestions, panel visibility, and subscription behavior.
+// ---
+
 import type {ZeroStateSuggestionsV2} from '/glic/glic_api/glic_api.js';
 
 import {ApiTestFixtureBase, assertDefined, assertEquals, assertTrue, observeSequence, testMain} from './browser_test_base.js';

@@ -1,0 +1,4 @@
+# Docerion header of tsconfig.json.
+type: config
+title: TypeScript editor configuration for Glic unit tests
+summary: Editor-facing TypeScript configuration that extends the generated build tsconfig and includes all TypeScript files in the Glic unit test directory without emitting output.

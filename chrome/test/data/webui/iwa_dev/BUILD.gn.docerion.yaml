@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn defining the iwa_dev WebUI test target
+summary: Defines the build target for the iwa_dev WebUI tests, listing the TypeScript test files, path mappings, and dependencies on the iwa_dev and cr_elements sources.

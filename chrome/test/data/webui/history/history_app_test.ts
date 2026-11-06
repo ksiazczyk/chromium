@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History app element tests
+// summary: Mocha suite for the history-app element covering scroll targets, embeddings search, sign-in state, routing, and related app-level behavior.
+// ---
+
 // clang-format off
 import 'chrome://history/history.js';
 

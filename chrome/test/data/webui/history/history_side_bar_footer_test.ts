@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History sidebar footer tests
+// summary: Tests visibility and link behavior of the Google Account footer for My Activity and Gemini Apps Activity.
+// ---
+
 import type {HistoryAppElement} from 'chrome://history/history.js';
 import {BrowserProxyImpl} from 'chrome://history/history.js';
 import type {PageRemote} from 'chrome://resources/cr_components/history/history.mojom-webui.js';

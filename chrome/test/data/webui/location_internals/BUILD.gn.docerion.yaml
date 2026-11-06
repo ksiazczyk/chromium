@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Location internals WebUI tests build file
+summary: GN build configuration that defines the build_webui_tests target wiring the C++ browser test and TypeScript test files together.

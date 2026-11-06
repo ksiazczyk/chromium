@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overlay cursor tests
+// summary: Tests cursor tooltip visibility and messages for text highlight, object click, drag and live page modes in the Lens overlay.
+// ---
+
 import 'chrome-untrusted://lens-overlay/lens_overlay_app.js';
 
 import type {RectF} from '//resources/mojo/ui/gfx/geometry/mojom/geometry.mojom-webui.js';

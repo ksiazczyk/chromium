@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Markdown rendering tests
+// summary: Mocha tests for the Glic markdown renderer, covering paragraphs, bold and italic, lists, links, and unsupported syntax left as plain text.
+// ---
+
 import {renderMarkdown} from 'chrome-untrusted://glic/markdown.js';
 import {assertEquals} from 'chrome-untrusted://webui-test/chai_assert.js';
 

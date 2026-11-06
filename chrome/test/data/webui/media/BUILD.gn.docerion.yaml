@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for media WebUI tests
+summary: GN build file that defines the media engagement WebUI test target, listing the C++ browser test, TypeScript test file, and TypeScript dependencies.

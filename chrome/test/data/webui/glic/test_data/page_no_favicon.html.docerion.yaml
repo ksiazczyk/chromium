@@ -1,0 +1,4 @@
+# Docerion header of page_no_favicon.html.
+type: test
+title: Glic test page without favicon
+summary: Test fixture HTML page that declares no favicon, used as sample content in Glic web UI tests.

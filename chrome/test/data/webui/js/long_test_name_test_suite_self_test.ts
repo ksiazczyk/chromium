@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Long test name self test
+// summary: Self test with an over-limit test name used to verify the WebUIMochaBrowserTest C++ class itself.
+// ---
+
 import {assertTrue} from 'chrome://webui-test/chai_assert.js';
 
 const MAX_LIMIT = 512;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic test client annotated page content section
+// summary: Fetches annotated page content from the focused tab and copies its parsed textproto representation to the clipboard.
+// ---
+
 import {getBrowser, logMessage, readStream} from '../client.js';
 import {$} from '../page_element_types.js';
 

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for Lens WebUI tests
+summary: Points this test directory to the shared Lens component metadata through a mixins entry.

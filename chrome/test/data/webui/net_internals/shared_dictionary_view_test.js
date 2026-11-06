@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for the net-internals shared dictionary view
+// summary: Mocha suite that tests the shared dictionary view, covering reloading, registering test dictionaries, and clearing entries.
+// ---
+
 import {SharedDictionaryView} from 'chrome://net-internals/shared_dictionary_view.js';
 import {$} from 'chrome://resources/js/util.js';
 import {assertEquals} from 'chrome://webui-test/chai_assert.js';

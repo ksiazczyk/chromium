@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Selection overlay tests
+// summary: WebUI tests for the Lens selection overlay covering region and object selection, context menu actions, screenshots, and metrics recording.
+// ---
+
 import 'chrome-untrusted://lens-overlay/selection_overlay.js';
 
 import type {RectF} from '//resources/mojo/ui/gfx/geometry/mojom/geometry.mojom-webui.js';

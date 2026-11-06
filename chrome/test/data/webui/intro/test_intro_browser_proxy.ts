@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test intro browser proxy
+// summary: Test double for the intro browser proxy that records method calls and fakes media query results for intro WebUI tests.
+// ---
+
 import type {IntroBrowserProxy} from 'chrome://intro/browser_proxy.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';
 import {FakeMediaQueryList} from 'chrome://webui-test/fake_media_query_list.js';

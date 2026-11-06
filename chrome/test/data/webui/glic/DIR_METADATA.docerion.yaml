@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Glic test directory team metadata
+summary: Sets the owning team email and Buganizer component for the glic test data directory.

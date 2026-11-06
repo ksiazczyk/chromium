@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Side panel results frame tests
+// summary: WebUI tests verifying that results load in the frame with viewport size parameters and that loading state changes swap the ghost loader and results z-order.
+// ---
+
 import 'chrome-untrusted://lens/side_panel/side_panel_app.js';
 
 import type {Url} from '//resources/mojo/url/mojom/url.mojom-webui.js';

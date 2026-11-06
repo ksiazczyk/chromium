@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: New Tab Footer WebUI test build definition
+summary: GN build file that defines the WebUI test target for new_tab_footer, listing TypeScript test files, path mappings, definitions, and dependencies.

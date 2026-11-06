@@ -1,3 +1,13 @@
+---
+type: readme
+title: Glic test client
+summary: Explains how to build, serve, and run the Glic test client page for manual and automated host API testing.
+relations:
+  - documents /chrome/test/data/webui/glic/test_client/serve.py
+  - documents /chrome/test/data/webui/glic/test_client/fre.html
+  - documents /chrome/test/data/webui/glic/test_client/index.html
+---
+
 # Glic test client
 
 This is a test page that facilitates testing the API between the host and the

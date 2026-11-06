@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lens overlay searchbox tests
+// summary: WebUI tests for the Lens overlay searchbox covering initial focus, hiding when the side panel opens, and ghost loader suppression.
+// ---
+
 import 'chrome-untrusted://lens-overlay/lens_overlay_app.js';
 
 import {BrowserProxyImpl} from 'chrome-untrusted://lens-overlay/browser_proxy.js';

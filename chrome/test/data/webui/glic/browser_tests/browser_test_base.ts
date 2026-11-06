@@ -6,6 +6,12 @@
 // ash/webui/personalization_app/tools/gen_tsconfig.py --root_out_dir out/pc \
 //   --gn_target chrome/test/data/webui/glic:build_ts
 
+// ---docerion
+// type: test
+// title: Glic browser test base
+// summary: Shared base fixture and utilities for Glic WebUI browser tests, providing assertion helpers, observable subscribers, and wait helpers.
+// ---
+
 import {WebClientMode} from '/glic/glic_api/glic_api.js';
 import type {                  //
              GlicBrowserHost,  //

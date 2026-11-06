@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast feedback UI Mocha tests
+// summary: TypeScript Mocha tests for the cast feedback UI element, using a fake feedback browser proxy to verify feedback submission, resend attempts and failure handling.
+// ---
+
 import type {CastFeedbackUiElement, FeedbackUiBrowserProxy} from 'chrome://cast-feedback/cast_feedback_ui.js';
 import {FeedbackUiBrowserProxyImpl} from 'chrome://cast-feedback/cast_feedback_ui.js';
 import type {CrButtonElement} from 'chrome://resources/cr_elements/cr_button/cr_button.js';

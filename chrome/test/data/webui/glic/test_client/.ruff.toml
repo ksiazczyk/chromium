@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Ruff lint configuration for the Glic test client
+# summary: Extends the repository-wide Ruff configuration for linting the Glic test client directory.
+# ---
+
 extend = "../../../../../.ruff.toml"
 indent-width = 4

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic test client additional context section
+// summary: Subscribes to additional context updates and renders parts such as screenshots, regions, PDFs, and web page data in the test client.
+// ---
+
 import type {AdditionalContext} from '/glic/glic_api/glic_api.js';
 
 import {additionalContextSubject, client, getBrowser} from '../client.js';

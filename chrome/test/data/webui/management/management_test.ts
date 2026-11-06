@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Management UI WebUI refresh 2026 test suite
+// summary: TypeScript mocha suite verifying that the management UI includes the color change listener stylesheet only when the webui-refresh-2026 flag is enabled.
+// ---
+
 import 'chrome://management/management_ui.js';
 
 import {COLORS_CSS_SELECTOR} from 'chrome://resources/cr_components/color_change_listener/colors_css_updater.js';

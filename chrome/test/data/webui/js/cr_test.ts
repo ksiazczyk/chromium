@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr.js WebUI tests
+// summary: Tests sendWithPromise responses and rejection plus adding and removing WebUI listeners in cr.js.
+// ---
+
 import type {WebUiListener} from 'chrome://resources/js/cr.js';
 import {addWebUiListener, removeWebUiListener, sendWithPromise, webUIListenerCallback, webUIResponse} from 'chrome://resources/js/cr.js';
 import {PromiseResolver} from 'chrome://resources/js/promise_resolver.js';

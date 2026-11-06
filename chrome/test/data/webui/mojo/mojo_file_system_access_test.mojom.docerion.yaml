@@ -1,0 +1,4 @@
+# Docerion header of mojo_file_system_access_test.mojom.
+type: test
+title: Test Mojo interface for FileSystemAccess transfer tokens
+summary: Defines a test Mojo interface that lets JavaScript send a FileSystemAccess transfer token handle to the browser process.

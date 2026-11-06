@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for Lens WebUI tests
+summary: Declares the allowed include dependencies for this test directory, permitting includes from components/lens.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestMetricsProxy mock for history clusters WebUI tests
+// summary: Provides a TestMetricsProxy test double that records metrics method calls such as cluster, visit, and related search actions for history clusters WebUI tests.
+// ---
+
 import type {ClusterAction, MetricsProxy, RelatedSearchAction, VisitAction, VisitType} from 'chrome://history/history.js';
 import {TestBrowserProxy as BaseTestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';
 

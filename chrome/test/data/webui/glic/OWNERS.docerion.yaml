@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Glic test directory owners
+summary: Lists code owners for the glic test directory, with per-file owners for specific browser tests.

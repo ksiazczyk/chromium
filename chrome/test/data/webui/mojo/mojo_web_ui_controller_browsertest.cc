@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mojo WebUI controller browser tests
+// summary: C++ browser tests exercising MojoWebUIController implementations that bind and serve the test Foo and Bar Mojo interfaces to WebUI pages.
+// ---
+
 #include "content/public/test/browser_test.h"
 #include "ui/webui/mojo_web_ui_controller.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Intro app view tests
+// summary: WebUI tests verifying which view of the intro app is active, such as the splash screen versus the sign-in promo when animations are disabled.
+// ---
+
 import 'chrome://intro/intro_app.js';
 
 import {IntroBrowserProxyImpl} from 'chrome://intro/browser_proxy.js';

@@ -4,6 +4,12 @@
 
 // cc_file_path: chrome/browser/glic/host/glic_web_drag_and_drop_browsertest.cc
 
+// ---docerion
+// type: test
+// title: Glic web drag and drop browser tests
+// summary: Browser tests for web-to-Glic drag and drop, verifying image materialization into invoke context and stripping of DOM drop payloads.
+// ---
+
 import {InvocationSource} from '/glic/glic_api/glic_api.js';
 import type {InvokeOptions} from '/glic/glic_api/glic_api.js';
 

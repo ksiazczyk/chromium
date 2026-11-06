@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: New Tab Footer test directory metadata
+summary: Directory metadata that reuses the new_tab_footer COMMON_METADATA mixins for this WebUI test folder.

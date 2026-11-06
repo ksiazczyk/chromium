@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PromiseResolver tests
+// summary: Tests the PromiseResolver utility for resolving, rejecting, and reporting its fulfilled state.
+// ---
+
 import {PromiseResolver} from 'chrome://resources/js/promise_resolver.js';
 import {assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';
 

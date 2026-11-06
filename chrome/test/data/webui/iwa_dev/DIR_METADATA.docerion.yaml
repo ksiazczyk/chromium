@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for iwa_dev bug tracking and team contact
+summary: Routes bugs for the directory to Buganizer components for isolated web apps and lists the owning team email.

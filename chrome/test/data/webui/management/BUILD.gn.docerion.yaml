@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build target for the management WebUI tests
+summary: Defines the GN build target that compiles the management WebUI test files and wires up their TypeScript dependencies for browser testing.

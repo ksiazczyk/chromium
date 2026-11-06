@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media Engagement WebUI browser test
+// summary: Browser test that seeds media engagement scores for sample origins and runs the mocha test suite for the media engagement WebUI page.
+// ---
+
 #include "chrome/browser/media/media_engagement_service.h"
 #include "chrome/browser/media/media_engagement_service_factory.h"
 #include "chrome/common/webui_url_constants.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Media internals WebUI tests build file
+summary: GN build configuration that defines the WebUI test target for media_internals, listing the C++ browser test and the JavaScript test files to build.

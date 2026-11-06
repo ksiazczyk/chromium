@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Post message communication tests
+// summary: WebUI tests for PostMessageReceiver, verifying origin-restricted message handling, proxy calls for scroll-to messages, and listener cleanup on detach.
+// ---
+
 import 'chrome-untrusted://lens/side_panel/post_message_communication.js';
 
 import {loadTimeData} from '//resources/js/load_time_data.js';

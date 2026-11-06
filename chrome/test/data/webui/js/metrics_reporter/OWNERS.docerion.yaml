@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Metrics reporter test OWNERS
+summary: OWNERS file that delegates code ownership for the metrics reporter WebUI test data to the browser-side metrics reporter OWNERS file.

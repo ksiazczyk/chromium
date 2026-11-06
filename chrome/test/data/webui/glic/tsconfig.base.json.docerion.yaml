@@ -1,0 +1,4 @@
+# Docerion header of tsconfig.base.json.
+type: config
+title: tsconfig.base.json for glic tests
+summary: Base TypeScript configuration for glic tests that extends the shared Chromium config and adds media capture type definitions.

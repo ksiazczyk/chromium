@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History overflow menu tests
+// summary: Tests opening and closing the shared action menu and that menu actions apply to the clicked history item.
+// ---
+
 import type {ActionMenuModel, CrActionMenuElement, HistoryListElement} from 'chrome://history/history.js';
 import {BrowserProxyImpl} from 'chrome://history/history.js';
 import {assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';

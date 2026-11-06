@@ -4,6 +4,12 @@
 
 // cc_file_path: chrome/browser/glic/suggestions/glic_cue_target_browsertest.cc
 
+// ---docerion
+// type: test
+// title: Glic cue target browser tests
+// summary: Browser tests checking how cue target interactions invoke the Glic client, covering auto-submit prompts and first-run experience overrides.
+// ---
+
 import {FreOverride, type InvokeOptions, type OpenPanelInfo, type PanelOpeningData} from '/glic/glic_api/glic_api.js';
 
 import {ApiTestFixtureBase, assertEquals, assertTrue, runUntil, testMain, WebClient} from './browser_test_base.js';

@@ -5,6 +5,12 @@
 // cc_file_path:
 // chrome/browser/glic/android/glic_mic_permission_android_browsertest.cc
 
+// ---docerion
+// type: test
+// title: Glic Android microphone permission browser tests
+// summary: Browser tests for Android microphone permission handling in Glic, covering allowed and denied access across dialog and OS prompt outcomes.
+// ---
+
 import {ApiTestFixtureBase, assertEquals, assertTrue, testMain} from './browser_test_base.js';
 
 async function expectMicAllowed() {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lens overlay WebUI browser test fixture
+// summary: Browser test fixture that launches the Lens overlay WebUI and runs its Mocha tests, configuring features and screenshot sharing permissions.
+// ---
+
 #include "base/test/run_until.h"
 #include "build/build_config.h"
 #include "chrome/browser/profiles/profile.h"

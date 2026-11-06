@@ -4,6 +4,12 @@
 
 // cc_file_path: chrome/browser/glic/host/glic_chrome_tools_browsertest.cc
 
+// ---docerion
+// type: test
+// title: Glic Chrome tools browser tests
+// summary: Browser tests verifying the Glic host Chrome tools API, covering capability reporting, tool listing, and executeTool error handling for missing tools and invalid arguments.
+// ---
+
 import {ExecuteToolErrorReason, HostCapability} from '/glic/glic_api/glic_api.js';
 import type {ChromeTool} from '/glic/glic_api/glic_api.js';
 

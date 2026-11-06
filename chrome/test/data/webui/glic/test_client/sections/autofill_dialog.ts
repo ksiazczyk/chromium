@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic test client autofill suggestions dialog section
+// summary: Renders autofill suggestion dialogs and forwards form presented, preview, and confirm responses for task requests.
+// ---
+
 import type {SelectAutofillSuggestionsDialogRequest} from '/glic/glic_api/glic_api.js';
 
 import {client, logMessage} from '../client.js';

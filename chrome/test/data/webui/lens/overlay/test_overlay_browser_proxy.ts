@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test Lens overlay browser proxy
+// summary: Test doubles for the Lens overlay browser proxy that record WebUI-to-browser calls such as region, object, text, and translate requests.
+// ---
+
 import type {BrowserProxy} from 'chrome-untrusted://lens-overlay/browser_proxy.js';
 import type {CenterRotatedBox} from 'chrome-untrusted://lens-overlay/geometry.mojom-webui.js';
 import type {LensPageHandlerInterface, LensPageRemote, SemanticEvent, UserAction} from 'chrome-untrusted://lens-overlay/lens.mojom-webui.js';

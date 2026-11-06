@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic test client page metadata section
+// summary: Test client section that subscribes to page metadata for a selected tab, displays results, and refreshes the tab list or opens a metadata test page.
+// ---
+
 import {client, getBrowser, logMessage} from '../client.js';
 import {$} from '../page_element_types.js';
 import type {PageMetadata, Subscriber} from '/glic/glic_api/glic_api.js';

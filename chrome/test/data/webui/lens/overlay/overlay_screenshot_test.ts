@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overlay screenshot tests
+// summary: Tests that the selection overlay appears once screenshot bitmap data is received, covering side panel state and web UI ready metrics.
+// ---
+
 import 'chrome-untrusted://lens-overlay/lens_overlay_app.js';
 
 import {BrowserProxyImpl} from 'chrome-untrusted://lens-overlay/browser_proxy.js';

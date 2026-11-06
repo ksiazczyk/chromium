@@ -1,0 +1,4 @@
+# Docerion header of metadata_test_page.html.
+type: test
+title: Metadata test page
+summary: Test page for exercising retrieval and manipulation of page meta tags, including tags inside an iframe.

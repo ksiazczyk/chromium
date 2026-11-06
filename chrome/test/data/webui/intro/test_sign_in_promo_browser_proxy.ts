@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test sign-in promo browser proxy
+// summary: Test double implementing SignInPromoBrowserProxy with a mocked Mojo handler and a resolvable managed-device disclaimer for sign-in promo tests.
+// ---
+
 import {SignInPromoPageCallbackRouter, SignInPromoPageHandlerRemote} from 'chrome://intro/sign_in_promo.mojom-webui.js';
 import type {SignInPromoPageRemote} from 'chrome://intro/sign_in_promo.mojom-webui.js';
 import type {SignInPromoBrowserProxy} from 'chrome://intro/sign_in_promo_browser_proxy.js';

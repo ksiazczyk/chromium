@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic API boot helper for tests
+// summary: Test-only module that loads the glic API script from Chrome and creates a GlicHostRegistry on page load.
+// ---
+
 import type {GlicApiBootMessage, GlicHostRegistry, WithGlicApi} from '/glic/glic_api/glic_api.js';
 
 // Note: Although the actual glic client does something similar, this code is

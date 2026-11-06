@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for net-internals tab visibility
+// summary: Mocha suite checking the visibility state of the net-internals tabs, including the ChromeOS-only tab.
+// ---
+
 import {checkTabLinkVisibility} from './test_util.js';
 
 suite('NetInternalsMainTest', function() {

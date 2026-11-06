@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared test utilities for net-internals tests
+// summary: Test helpers for net-internals tests, including switching views, checking tab visibility, and mapping URL hashes to tabs.
+// ---
+
 // <if expr="is_chromeos">
 import {CrosView} from 'chrome://net-internals/chromeos_view.js';
 // </if>

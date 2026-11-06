@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Slim webview browser test
+// summary: C++ browser test fixture for the slim webview WebUI that sets up the embedded test server, captures request headers, and resolves cross-origin test hosts.
+// ---
+
 #include <memory>
 #include <vector>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History item element tests
+// summary: Unit and integration tests for the history-item element covering selection click targets, tooltips and critical actions styling.
+// ---
+
 import 'chrome://history/history.js';
 
 import type {CriticalAction, HistoryEntry, HistoryItemElement, HistoryListElement} from 'chrome://history/history.js';

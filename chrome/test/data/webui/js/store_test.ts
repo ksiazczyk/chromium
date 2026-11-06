@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Store tests
+// summary: Tests the Store state management class, covering pre-init action queueing, observer notifications, batched updates, and observer removal.
+// ---
+
 import type {Action, StoreObserver} from 'chrome://resources/js/store.js';
 import {Store} from 'chrome://resources/js/store.js';
 import {assertDeepEquals, assertEquals, assertFalse} from 'chrome://webui-test/chai_assert.js';

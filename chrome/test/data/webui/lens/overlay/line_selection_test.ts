@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Line selection tests
+// summary: Tests line selection behavior in the Lens overlay using a fake selection overlay handler with the post-selection renderer and region selection elements.
+// ---
+
 import 'chrome-untrusted://lens-overlay/post_selection_renderer.js';
 import 'chrome-untrusted://lens-overlay/region_selection.js';
 

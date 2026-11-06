@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Icon utility tests
+// summary: Tests favicon URL generation with optional parameters, favicon lookups for page URLs, and file icon URLs from icon.js.
+// ---
+
 import {getFavicon, getFaviconForPageURL, getFaviconUrl, getFileIconUrl, isFaviconUrl} from 'chrome://resources/js/icon.js';
 import type {GetFaviconUrlParams} from 'chrome://resources/js/icon.js';
 import {isAndroid, isIOS} from 'chrome://resources/js/platform.js';

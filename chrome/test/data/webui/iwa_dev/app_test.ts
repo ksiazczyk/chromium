@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI tests for the iwa-dev app element
+// summary: Tests the iwa-dev app element, covering app listing, install and update flows, dev mode flags, and toasts with mocked handler and callback router.
+// ---
+
 import 'chrome://iwa-dev/app.js';
 
 import {getStoredUpdateOptions, getUpdateOptionsStorageKey, MIN_UPDATE_DELAY_MS, saveStoredUpdateOptions} from 'chrome://iwa-dev/app.js';

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Metrics internals WebUI tests build configuration
+summary: GN build file that defines the WebUI test target bundling the metrics internals TypeScript and C++ tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Key value pair viewer TypeScript mocha tests
+// summary: TypeScript mocha test suite for the key value pair viewer element, covering spinner visibility, layout, and expand and collapse all behavior for collapsible entries.
+// ---
+
 import 'chrome://system/shared/key_value_pair_viewer/key_value_pair_viewer.js';
 import 'chrome://system/strings.m.js';
 

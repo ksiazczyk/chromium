@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: BUILD.gn for key value pair viewer WebUI tests
+summary: GN build configuration that sets up the WebUI test target for the key value pair viewer, listing the C++ browser test and TypeScript test files with TypeScript path mappings and dependencies.

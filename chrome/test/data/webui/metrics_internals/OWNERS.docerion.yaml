@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for metrics_internals tests
+summary: Lists the owners of the metrics_internals test directory and a per-file owner for field_trials_test.ts.

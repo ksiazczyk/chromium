@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake foreign session page handler
+// summary: Test double implementing the foreign session Mojo page handler so history WebUI tests can stub synced-device session calls.
+// ---
+
 import type {ForeignSession, ForeignSessionPageHandlerInterface} from 'chrome://resources/cr_components/history/foreign_sessions.mojom-webui.js';
 import type {ClickModifiers} from 'chrome://resources/mojo/ui/base/mojom/window_open_disposition.mojom-webui.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';

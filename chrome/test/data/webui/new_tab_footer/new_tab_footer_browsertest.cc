@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: New Tab Footer browser test
+// summary: C++ browser test that loads the new tab footer WebUI and runs the app_test.js mocha suite with the NTP footer feature enabled.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "chrome/common/webui_url_constants.h"
 #include "chrome/test/base/web_ui_mocha_browser_test.h"

@@ -1,0 +1,4 @@
+# Docerion header of minimal_client.html.
+type: test
+title: Minimal Glic client test page
+summary: Minimal HTML page that loads the minimal Glic client to establish a lower bound on browser-side Glic open latency without extra client-side work.

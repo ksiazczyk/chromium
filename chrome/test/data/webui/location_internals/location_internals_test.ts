@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Location internals WebUI tests
+// summary: TypeScript mocha tests for the location internals page that use fake Mojo interfaces to simulate geolocation diagnostics, network location requests, and verify the rendered tables.
+// ---
+
 import {LAST_NETWORK_REQUEST_TABLE_ID, LAST_NETWORK_RESPONSE_TABLE_ID, LOCATION_PROVIDER_MANAGER_MODE_TABLE_ID, POSITION_CACHE_TABLE_ID, WIFI_DATA_TABLE_ID, WIFI_POLLING_POLICY_TABLE_ID} from 'chrome://location-internals/diagnose_info_view.js';
 import type {AccessPointData, GeolocationDiagnostics, GeolocationInternalsInterface, GeolocationInternalsObserverRemote, GeolocationInternalsPendingReceiver, NetworkLocationResponse} from 'chrome://location-internals/geolocation_internals.mojom-webui.js';
 import {GeolocationInternalsReceiver, INVALID_CHANNEL, INVALID_RADIO_SIGNAL_STRENGTH, INVALID_SIGNAL_TO_NOISE} from 'chrome://location-internals/geolocation_internals.mojom-webui.js';

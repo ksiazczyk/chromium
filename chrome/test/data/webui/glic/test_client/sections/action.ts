@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic test client action and actor task section
+// summary: Exercises Glic browser actions, actor task creation with error handling, and credential selection dialog handling in the test client.
+// ---
+
 import type {CreateTaskError, SelectCredentialDialogRequest, Subscriber} from '/glic/glic_api/glic_api.js';
 import {CreateTaskErrorReason, CredentialType, UserGrantedPermissionDuration} from '/glic/glic_api/glic_api.js';
 

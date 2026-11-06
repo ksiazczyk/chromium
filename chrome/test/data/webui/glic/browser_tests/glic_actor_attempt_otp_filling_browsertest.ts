@@ -5,6 +5,12 @@
 // cc_file_path:
 // chrome/browser/glic/actor/glic_actor_attempt_otp_filling_browsertest.cc
 
+// ---docerion
+// type: test
+// title: Glic actor OTP filling browser tests
+// summary: Browser tests for the actor OTP filling flow, verifying outcomes when the user accepts or declines the Gmail OTP opt-in dialog.
+// ---
+
 import {ActorTaskStopReason} from '/glic/glic_api/glic_api.js';
 import type {GmailOtpConfirmationRequest, GmailOtpOptInRequest} from '/glic/glic_api/glic_api.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History routing tests
+// summary: Tests that URL routing switches between history views, run with history clusters both enabled and disabled.
+// ---
+
 import 'chrome://history/history.js';
 
 import type {HistoryAppElement, HistorySideBarElement} from 'chrome://history/history.js';

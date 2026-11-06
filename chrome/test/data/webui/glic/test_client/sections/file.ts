@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic test client file drop section
+// summary: Handles file and directory drops plus the directory picker to confirm the web client has file system access.
+// ---
+
 import {$} from '../page_element_types.js';
 
 class FileListUpdater {

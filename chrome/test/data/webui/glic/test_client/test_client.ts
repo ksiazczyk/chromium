@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic test client entry point
+// summary: Registers the web client with the host registry and wires up event listeners for the test page's demo controls.
+// ---
+
 import './client.js';
 import './sections/scroll_to.js';
 import './sections/audio_capture.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic test client onboarding (FRE) section
+// summary: Shows or hides onboarding UI based on host capabilities and marks first-run onboarding as completed.
+// ---
+
 import {HostCapability} from '/glic/glic_api/glic_api.js';
 
 import {client, getBrowser, logMessage} from '../client.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Typed page element declarations for the test client
+// summary: Declares the PageElementTypes interface that maps test page element IDs to typed DOM elements.
+// ---
+
 export interface PageElementTypes {
   actuationOnWebSwitch: HTMLInputElement;
   onboarding: HTMLElement;

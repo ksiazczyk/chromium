@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sign-in celebration tests
+// summary: WebUI tests for the sign-in celebration screen, covering user info display and updates plus celebration-finished callbacks.
+// ---
+
 import 'chrome://intro/sign_in_celebration/app.js';
 
 import {SignInCelebrationPageCallbackRouter, SignInCelebrationPageHandlerRemote} from 'chrome://intro/sign_in_celebration.mojom-webui.js';

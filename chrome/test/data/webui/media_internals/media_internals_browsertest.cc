@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media internals WebUI browser test
+// summary: Browser test that runs the media internals WebUI JavaScript suites for integration, manager, and player info through the WebUI Mocha test framework.
+// ---
+
 #include "chrome/test/base/web_ui_mocha_browser_test.h"
 #include "content/public/common/url_constants.h"
 #include "content/public/test/browser_test.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for the net-internals utilities view
+// summary: Mocha suite that tests the net-internals utilities view URL matcher, covering matches, failures, and invalid input handling.
+// ---
+
 import {UtilitiesView} from 'chrome://net-internals/utilities_view.js';
 import {$} from 'chrome://resources/js/util.js';
 import {assertEquals, assertTrue} from 'chrome://webui-test/chai_assert.js';

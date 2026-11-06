@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for Mojo WebUI test data
+summary: Sets the IPC security owners as reviewers for all .mojom files in this directory.
