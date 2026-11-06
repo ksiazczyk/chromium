@@ -1,0 +1,4 @@
+# Docerion header of parsing_utils_unittest.mm.
+type: test
+title: Parsing utilities unit tests
+summary: Unit tests for ParseRect and ParseURL covering valid, empty, incomplete, and invalid inputs.

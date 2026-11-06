@@ -1,0 +1,4 @@
+# Docerion header of ios_serialized_navigation_builder.mm.
+type: source
+title: IOSSerializedNavigationBuilder implementation
+summary: Implements conversions between SerializedNavigationEntry, web::NavigationItem, and proto navigation storage for iOS.

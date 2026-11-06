@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharingChannelSender implementation
+// summary: Implements sending of sharing messages to devices over FCM and iOS/Chime push delivery channels.
+// ---
+
 #include "components/sharing_message/sharing_channel_sender.h"
 
 #include "base/check_is_test.h"

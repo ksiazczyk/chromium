@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSSerializedNavigationBuilder interface
+// summary: Declares static methods to convert between SerializedNavigationEntry and iOS web NavigationItem objects.
+// ---
+
 #ifndef COMPONENTS_SESSIONS_IOS_IOS_SERIALIZED_NAVIGATION_BUILDER_H_
 #define COMPONENTS_SESSIONS_IOS_IOS_SERIALIZED_NAVIGATION_BUILDER_H_
 

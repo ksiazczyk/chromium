@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: iOS serialized navigation driver unit tests
+// summary: Unit tests verifying page state pickling sanitization and referrer policy handling in the iOS serialized navigation driver.
+// ---
+
 #include "components/sessions/ios/ios_serialized_navigation_driver.h"
 
 #include "components/sessions/core/serialized_navigation_entry.h"

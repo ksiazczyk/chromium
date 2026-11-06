@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS push notification utility implementation
+// summary: Maps sharing message notification types and release channels to stable or unstable Chime push notification type IDs used for iOS push.
+// ---
+
 #include "components/sharing_message/ios_push/ios_push_notification_util.h"
 
 #include <string>

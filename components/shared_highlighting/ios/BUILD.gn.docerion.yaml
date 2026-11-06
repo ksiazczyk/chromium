@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Shared highlighting iOS build rules
+summary: GN build file defining the iOS shared highlighting source set and its unit test target with their dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMS fetch message test proto with proto3 optional
+// summary: Defines SmsFetchRequest and SmsFetchResponse messages for fetching an SMS one-time code from a remote device, as a proto3 optional test file.
+// ---
+
 syntax = "proto3";
 
 option java_multiple_files = true;

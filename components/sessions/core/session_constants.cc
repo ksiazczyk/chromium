@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session constants definitions
+// summary: Defines session storage constants such as cleartext and encrypted directory names, file name prefixes for tabs, sessions, and apps, and the navigation persist limit.
+// ---
+
 #include "components/sessions/core/session_constants.h"
 
 namespace sessions {

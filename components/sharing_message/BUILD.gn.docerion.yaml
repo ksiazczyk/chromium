@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Sharing message component build definition
+summary: GN build file defining the sharing_message source set, test support, and unit test targets with their dependencies.

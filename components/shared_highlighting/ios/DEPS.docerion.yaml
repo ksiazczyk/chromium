@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Shared highlighting iOS include rules
+summary: DEPS file allowing the iOS shared highlighting component to include headers from ios/web/public.

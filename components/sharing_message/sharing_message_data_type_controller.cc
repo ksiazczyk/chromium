@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing message data type controller implementation
+// summary: Implements the sync data type controller for SHARING_MESSAGE, forcing sync metadata to be cleared on stop so sharing messages are not sent while sync is paused.
+// ---
+
 #include "components/sharing_message/sharing_message_data_type_controller.h"
 
 #include <utility>

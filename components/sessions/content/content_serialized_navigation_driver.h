@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentSerializedNavigationDriver class declaration
+// summary: Declares the singleton content-layer SerializedNavigationDriver with referrer policy, page state sanitization, and extended info handler registration.
+// ---
+
 #ifndef COMPONENTS_SESSIONS_CONTENT_CONTENT_SERIALIZED_NAVIGATION_DRIVER_H_
 #define COMPONENTS_SESSIONS_CONTENT_CONTENT_SERIALIZED_NAVIGATION_DRIVER_H_
 

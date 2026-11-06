@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing message sender implementation
+// summary: Implements SharingMessageSender, which sends sharing messages to devices or server targets via channel senders, tracks pending message metadata, and handles acks.
+// ---
+
 #include "components/sharing_message/sharing_message_sender.h"
 
 #include "base/functional/callback_helpers.h"

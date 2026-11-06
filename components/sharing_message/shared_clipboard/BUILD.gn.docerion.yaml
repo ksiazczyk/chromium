@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Shared clipboard BUILD.gn build definition
+summary: Defines the shared_clipboard source_set build target, listing remote_copy_handle_message_result.h as its source.

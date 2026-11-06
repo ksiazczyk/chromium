@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentPlatformSpecificTabData implementation
+// summary: Implements the content-specific platform tab data that captures the default session storage namespace of a WebContents for tab restore.
+// ---
+
 #include "components/sessions/content/content_platform_specific_tab_data.h"
 
 #include "content/public/browser/navigation_controller.h"

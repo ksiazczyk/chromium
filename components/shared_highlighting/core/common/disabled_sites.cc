@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Disabled sites logic for link to text
+// summary: Implements a domain blocklist that decides whether the Link to Text option should be offered and whether link generation is supported in iframes.
+// ---
+
 #include "components/shared_highlighting/core/common/disabled_sites.h"
 
 #include <string_view>

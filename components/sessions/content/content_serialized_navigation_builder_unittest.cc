@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContentSerializedNavigationBuilder unit tests
+// summary: Unit tests verifying conversion between NavigationEntry and SerializedNavigationEntry, including extended info handlers, password state, and task IDs.
+// ---
+
 #include "components/sessions/content/content_serialized_navigation_builder.h"
 
 #include <memory>

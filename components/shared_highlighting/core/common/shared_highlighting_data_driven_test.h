@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared highlighting data-driven test base class header
+// summary: Declares the base class for Shared Highlighting data-driven tests, which run generation and navigation test cases from structured input parameters.
+// ---
+
 #ifndef COMPONENTS_SHARED_HIGHLIGHTING_CORE_COMMON_SHARED_HIGHLIGHTING_DATA_DRIVEN_TEST_H_
 #define COMPONENTS_SHARED_HIGHLIGHTING_CORE_COMMON_SHARED_HIGHLIGHTING_DATA_DRIVEN_TEST_H_
 

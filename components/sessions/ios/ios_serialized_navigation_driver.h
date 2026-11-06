@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS serialized navigation driver header
+// summary: Declares IOSSerializedNavigationDriver, the iOS implementation of SerializedNavigationDriver that sanitizes navigation data using //ios/web classes.
+// ---
+
 #ifndef COMPONENTS_SESSIONS_IOS_IOS_SERIALIZED_NAVIGATION_DRIVER_H_
 #define COMPONENTS_SESSIONS_IOS_IOS_SERIALIZED_NAVIGATION_DRIVER_H_
 

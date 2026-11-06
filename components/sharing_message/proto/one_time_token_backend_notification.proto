@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: one_time_token_backend_notification.proto
+// summary: Defines protobuf messages notifying the client that a one time token, such as a Gmail one time password, is available for retrieval via an encrypted reference.
+// ---
+
 syntax = "proto3";
 
 option java_multiple_files = true;

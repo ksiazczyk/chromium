@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing message feature flags
+// summary: Defines the kOneTimeTokenBackendNotification feature, enabled by default on desktop platforms and disabled on Android and iOS.
+// ---
+
 #include "components/sharing_message/features.h"
 
 #include "base/metrics/field_trial_params.h"

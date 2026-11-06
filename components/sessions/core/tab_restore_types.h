@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab restore entry types
+// summary: Defines the tab restore entry types (tab, split, group, window) that act as mementos of closed items so they can be identified and restored later.
+// ---
+
 #ifndef COMPONENTS_SESSIONS_CORE_TAB_RESTORE_TYPES_H_
 #define COMPONENTS_SESSIONS_CORE_TAB_RESTORE_TYPES_H_
 

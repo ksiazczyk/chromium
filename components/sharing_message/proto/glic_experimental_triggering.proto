@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: glic_experimental_triggering.proto
+// summary: Defines protobuf payloads for initiating, continuing, stopping and managing experimental Glic actuation triggering tasks between client and server.
+// ---
+
 syntax = "proto2";
 
 import "components/optimization_guide/proto/features/actions_data.proto";

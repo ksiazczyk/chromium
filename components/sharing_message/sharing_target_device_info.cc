@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharingTargetDeviceInfo implementation
+// summary: Implements constructors, move operations, and destructor for the SharingTargetDeviceInfo value type.
+// ---
+
 #include "components/sharing_message/sharing_target_device_info.h"
 
 SharingTargetDeviceInfo::SharingTargetDeviceInfo(

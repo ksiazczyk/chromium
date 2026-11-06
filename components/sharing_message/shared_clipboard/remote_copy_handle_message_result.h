@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoteCopyHandleMessageResult enum header
+// summary: Declares the RemoteCopyHandleMessageResult enum of Remote Copy message handling outcomes, whose values are persisted to logs and kept in sync with enums.xml.
+// ---
+
 #ifndef COMPONENTS_SHARING_MESSAGE_SHARED_CLIPBOARD_REMOTE_COPY_HANDLE_MESSAGE_RESULT_H_
 #define COMPONENTS_SHARING_MESSAGE_SHARED_CLIPBOARD_REMOTE_COPY_HANDLE_MESSAGE_RESULT_H_
 

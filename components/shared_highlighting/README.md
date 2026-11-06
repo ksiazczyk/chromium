@@ -1,3 +1,9 @@
+---
+type: readme
+title: Shared Highlighting
+summary: Describes the Shared Highlighting feature for sharing links to highlighted page passages and the component hosting code shared across platforms.
+---
+
 Shared Highlighting
 
 Shared Highlighting is a feature allowing users to generate and share links to specific parts of a web page, and to open these links.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: peer_connection_messages.proto
+// summary: Defines protobuf messages for WebRTC signalling between peers, covering offers, answers and ICE candidate exchange.
+// ---
+
 syntax = "proto3";
 
 option java_multiple_files = true;

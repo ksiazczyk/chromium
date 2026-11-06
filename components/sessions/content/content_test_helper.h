@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentTestHelper class declaration
+// summary: Declares static test helpers for creating SerializedNavigationEntry objects with a given URL and title.
+// ---
+
 #ifndef COMPONENTS_SESSIONS_CONTENT_CONTENT_TEST_HELPER_H_
 #define COMPONENTS_SESSIONS_CONTENT_CONTENT_TEST_HELPER_H_
 

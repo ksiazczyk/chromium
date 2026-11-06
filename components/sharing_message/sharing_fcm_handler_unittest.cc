@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SharingFCMHandler unit tests
+// summary: Unit tests for SharingFCMHandler covering message parsing, delegation to registered handlers and ack sending, using a fake GCM driver and a mock sharing channel sender.
+// ---
+
 #include "components/sharing_message/sharing_fcm_handler.h"
 
 #include <memory>

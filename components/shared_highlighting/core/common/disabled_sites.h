@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Disabled sites API
+// summary: Declares functions that determine whether Link to Text should be offered on a page and whether a main frame URL supports link generation in iframes.
+// ---
+
 #ifndef COMPONENTS_SHARED_HIGHLIGHTING_CORE_COMMON_DISABLED_SITES_H_
 #define COMPONENTS_SHARED_HIGHLIGHTING_CORE_COMMON_DISABLED_SITES_H_
 

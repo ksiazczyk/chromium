@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PingMessageHandler implementation
+// summary: Implements the ping message handler that acknowledges sharing ping messages with an empty response.
+// ---
+
 #include "components/sharing_message/ping_message_handler.h"
 
 #include "components/sharing_message/proto/sharing_message.pb.h"

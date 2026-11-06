@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for sharing_message
+summary: Points to the shared COMMON_METADATA file so directory metadata is inherited from it.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS WebState LiveTab header
+// summary: Declares IOSWebStateLiveTab, a LiveTab implementation backed by web::WebState for session restoration on iOS.
+// ---
+
 #ifndef COMPONENTS_SESSIONS_IOS_IOS_WEBSTATE_LIVE_TAB_H_
 #define COMPONENTS_SESSIONS_IOS_IOS_WEBSTATE_LIVE_TAB_H_
 

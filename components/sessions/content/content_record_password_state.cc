@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation password state helpers implementation
+// summary: Implements helpers that store and retrieve a SerializedNavigationEntry PasswordState value in a content NavigationEntry's user data.
+// ---
+
 #include "components/sessions/content/content_record_password_state.h"
 
 #include "content/public/browser/navigation_entry.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentLiveTab implementation
+// summary: Implements the LiveTab interface on top of content::WebContents, exposing the session ID, navigation entries, platform-specific tab data, and user agent overrides for session restore.
+// ---
+
 #include "components/sessions/content/content_live_tab.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Text fragment unit tests
+// summary: Unit tests for parsing text fragments and converting them between escaped string and dictionary value representations, covering valid and malformed cases.
+// ---
+
 #include "components/shared_highlighting/core/common/text_fragment.h"
 
 #include "base/values.h"

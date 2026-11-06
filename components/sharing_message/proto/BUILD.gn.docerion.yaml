@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for sharing message protos
+summary: Defines GN build targets compiling the sharing message proto files into a lite protobuf library, plus base::Value serialization extras for actuator messages.

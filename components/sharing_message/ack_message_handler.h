@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ack message handler class declaration
+// summary: Declares AckMessageHandler, a SharingMessageHandler that notifies the sender when ack messages arrive.
+// ---
+
 #ifndef COMPONENTS_SHARING_MESSAGE_ACK_MESSAGE_HANDLER_H_
 #define COMPONENTS_SHARING_MESSAGE_ACK_MESSAGE_HANDLER_H_
 

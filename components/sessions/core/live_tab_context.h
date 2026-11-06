@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LiveTabContext interface
+// summary: Declares the embedder context interface for live tabs, covering windows, tab groups, splits, and tab restoration.
+// ---
+
 #ifndef COMPONENTS_SESSIONS_CORE_LIVE_TAB_CONTEXT_H_
 #define COMPONENTS_SESSIONS_CORE_LIVE_TAB_CONTEXT_H_
 

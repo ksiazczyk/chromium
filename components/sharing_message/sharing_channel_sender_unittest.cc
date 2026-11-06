@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SharingChannelSender unit tests
+// summary: Unit tests for SharingChannelSender covering FCM, iOS push and server channel message sending with fake dependencies.
+// ---
+
 #include "components/sharing_message/sharing_channel_sender.h"
 
 #include <memory>

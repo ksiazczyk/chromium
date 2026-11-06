@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fragment directives constants definitions
+// summary: Defines constants for text fragment URL delimiters, directive parameter names, dictionary keys, and default highlight text and background colors.
+// ---
+
 #include "components/shared_highlighting/core/common/fragment_directives_constants.h"
 
 namespace shared_highlighting {

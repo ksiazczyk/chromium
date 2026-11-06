@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContentSerializedNavigationDriver unit tests
+// summary: Unit tests verifying that PageState is sanitized for pickling only when post data is present.
+// ---
+
 #include "components/sessions/content/content_serialized_navigation_driver.h"
 
 #include "components/sessions/core/serialized_navigation_entry.h"

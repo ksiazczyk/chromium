@@ -1,0 +1,4 @@
+# Docerion header of parsing_utils.mm.
+type: source
+title: Shared highlighting parsing utilities implementation
+summary: Implements rect and URL parsing and converts web view rects to browser coordinates using zoom scale and content insets.

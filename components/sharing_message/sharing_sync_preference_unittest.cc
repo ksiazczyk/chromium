@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SharingSyncPreference unit tests
+// summary: Tests for SharingSyncPreference covering setting, clearing, and syncing local sharing info and device info refresh behavior.
+// ---
+
 #include "components/sharing_message/sharing_sync_preference.h"
 
 #include <memory>

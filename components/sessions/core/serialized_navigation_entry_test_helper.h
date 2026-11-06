@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Serialized navigation entry test helper
+// summary: Declares shared test data constants and static helpers for building, mutating, and comparing SerializedNavigationEntry objects in tests.
+// ---
+
 #ifndef COMPONENTS_SESSIONS_CORE_SERIALIZED_NAVIGATION_ENTRY_TEST_HELPER_H_
 #define COMPONENTS_SESSIONS_CORE_SERIALIZED_NAVIGATION_ENTRY_TEST_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing constants
+// summary: Defines sharing constants such as the FCM app ID, sender ID, message TTLs, device expiration and retry backoff policy.
+// ---
+
 #include "components/sharing_message/sharing_constants.h"
 
 const char kSharingFCMAppID[] = "com.google.chrome.sharing.fcm";

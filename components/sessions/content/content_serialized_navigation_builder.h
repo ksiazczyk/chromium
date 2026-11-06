@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentSerializedNavigationBuilder class declaration
+// summary: Declares static methods to convert SerializedNavigationEntry objects to and from content NavigationEntry objects, with options to exclude page state.
+// ---
+
 #ifndef COMPONENTS_SESSIONS_CONTENT_CONTENT_SERIALIZED_NAVIGATION_BUILDER_H_
 #define COMPONENTS_SESSIONS_CONTENT_CONTENT_SERIALIZED_NAVIGATION_BUILDER_H_
 

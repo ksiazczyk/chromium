@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base session service command helpers interface
+// summary: Declares functions that create and restore session commands shared by SessionService and PersistentTabRestoreService.
+// ---
+
 #ifndef COMPONENTS_SESSIONS_CORE_BASE_SESSION_SERVICE_COMMANDS_H_
 #define COMPONENTS_SESSIONS_CORE_BASE_SESSION_SERVICE_COMMANDS_H_
 

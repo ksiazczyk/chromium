@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharingApp implementation
+// summary: Implements the SharingApp struct constructors and destructor for apps shown in sharing dialogs.
+// ---
+
 #include "components/sharing_message/sharing_app.h"
 
 SharingApp::SharingApp(const gfx::VectorIcon* vector_icon,

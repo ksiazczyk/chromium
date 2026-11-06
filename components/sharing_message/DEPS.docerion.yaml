@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Allowed include dependencies for sharing_message
+summary: Defines include rules listing the components and libraries this directory may depend on.

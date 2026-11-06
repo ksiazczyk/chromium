@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Shared highlighting common build targets (BUILD.gn)
+summary: Defines the GN build targets for the shared highlighting common library, its unit tests, data-driven testing support, and Android Java enum generation.

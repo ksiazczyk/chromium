@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionID implementation
+// summary: Implements SessionID::NewUnique through the session ID generator singleton and stream output used for test logging.
+// ---
+
 #include "components/sessions/core/session_id.h"
 
 #include <ostream>

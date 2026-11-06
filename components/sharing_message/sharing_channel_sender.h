@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharingChannelSender header
+// summary: Declares SharingChannelSender, responsible for delivering sharing messages via FCM and server channels.
+// ---
+
 #ifndef COMPONENTS_SHARING_MESSAGE_SHARING_CHANNEL_SENDER_H_
 #define COMPONENTS_SHARING_MESSAGE_SHARING_CHANNEL_SENDER_H_
 

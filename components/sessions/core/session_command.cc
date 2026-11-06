@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session command implementation
+// summary: Implements session command serialization to bytes with optional encryption via the OS crypt async encryptor, including content truncation and cloning.
+// ---
+
 #include "components/sessions/core/session_command.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab restore service helper unit tests
+// summary: Unit tests verifying TabRestoreServiceHelper's mapping of local tab group IDs to saved group IDs and the updating of saved group IDs on tab entries.
+// ---
+
 #include "components/sessions/core/tab_restore_service_helper.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentSerializedNavigationBuilder implementation
+// summary: Converts between content NavigationEntry objects and SerializedNavigationEntry, copying page state, referrer, favicon, password state, task IDs, and extended info.
+// ---
+
 #include "components/sessions/content/content_serialized_navigation_builder.h"
 
 #include <string>

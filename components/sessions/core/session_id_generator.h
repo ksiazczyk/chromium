@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionIdGenerator class declaration
+// summary: Declares the SessionIdGenerator singleton, which creates unique session IDs, registers prefs, and guards against conflicts with restored IDs.
+// ---
+
 #ifndef COMPONENTS_SESSIONS_CORE_SESSION_ID_GENERATOR_H_
 #define COMPONENTS_SESSIONS_CORE_SESSION_ID_GENERATOR_H_
 

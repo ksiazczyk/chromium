@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Sessions component build targets
+summary: Defines GN build targets for the sessions component, covering content, iOS, session_id, and shared core sources with their dependencies.

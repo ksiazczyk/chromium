@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab restore service helper implementation
+// summary: Implements the core tab restore logic for adding, pruning and restoring recently closed entries and their navigations.
+// ---
+
 #include "components/sessions/core/tab_restore_service_helper.h"
 
 #include <inttypes.h>

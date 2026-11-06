@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared highlighting metrics logging
+// summary: Logs Shared Highlights and text fragment metrics to UMA histograms and UKM events, covering link generation status, errors, latency, and link open sources.
+// ---
+
 #include "components/shared_highlighting/core/common/shared_highlighting_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

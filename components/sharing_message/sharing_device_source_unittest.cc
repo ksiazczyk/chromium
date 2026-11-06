@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SharingDeviceSource unit tests
+// summary: Unit tests verifying that SharingDeviceSource runs ready callbacks immediately when ready or after readiness is reached.
+// ---
+
 #include "components/sharing_message/sharing_device_source.h"
 
 #include "base/functional/callback.h"

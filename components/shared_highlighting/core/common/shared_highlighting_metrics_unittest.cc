@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared highlighting metrics unit tests
+// summary: Unit tests verifying that the shared highlighting metrics functions record the expected UMA histogram buckets and UKM events.
+// ---
+
 #include "components/shared_highlighting/core/common/shared_highlighting_metrics.h"
 
 #include "base/test/metrics/histogram_tester.h"

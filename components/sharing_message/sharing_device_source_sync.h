@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync-based sharing device source header
+// summary: Declares SharingDeviceSourceSync, a SharingDeviceSource backed by the sync DeviceInfoTracker and local device info provider.
+// ---
+
 #ifndef COMPONENTS_SHARING_MESSAGE_SHARING_DEVICE_SOURCE_SYNC_H_
 #define COMPONENTS_SHARING_MESSAGE_SHARING_DEVICE_SOURCE_SYNC_H_
 

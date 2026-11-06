@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake sharing handler registry for tests
+// summary: Provides a test double registry that looks up handlers and supports setting them directly for test scenarios.
+// ---
+
 #include "components/sharing_message/fake_sharing_handler_registry.h"
 
 #include "base/notimplemented.h"

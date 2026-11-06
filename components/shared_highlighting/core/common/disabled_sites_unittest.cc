@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Disabled sites unit tests
+// summary: Unit tests verifying blocklist behavior of ShouldOfferLinkToText across domains and AMP paths, plus iframe link generation support checks.
+// ---
+
 #include "components/shared_highlighting/core/common/disabled_sites.h"
 
 #include "base/test/scoped_feature_list.h"

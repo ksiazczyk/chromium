@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session constants declarations
+// summary: Declares constants for session storage directories, file name prefixes, timestamp separator, and the maximum number of navigation entries persisted per direction.
+// ---
+
 #ifndef COMPONENTS_SESSIONS_CORE_SESSION_CONSTANTS_H_
 #define COMPONENTS_SESSIONS_CORE_SESSION_CONSTANTS_H_
 

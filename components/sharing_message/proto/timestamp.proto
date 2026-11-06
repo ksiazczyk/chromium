@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Timestamp proto message
+// summary: Wire-compatible copy of google/protobuf/timestamp.proto defining a Timestamp message with seconds and nanos fields, used because importing the original is not possible.
+// ---
+
 syntax = "proto3";
 
 option java_multiple_files = true;

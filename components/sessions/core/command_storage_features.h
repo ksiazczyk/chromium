@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session storage encryption feature declarations
+// summary: Declares the encryption feature, its stage parameter and the EncryptSessionStorageStage enum used to migrate session storage to encrypted files.
+// ---
+
 #ifndef COMPONENTS_SESSIONS_CORE_COMMAND_STORAGE_FEATURES_H_
 #define COMPONENTS_SESSIONS_CORE_COMMAND_STORAGE_FEATURES_H_
 

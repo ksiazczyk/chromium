@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing utility functions implementation
+// summary: Implements helpers that check whether sync is enabled or disabled for sharing, build FCM channel configurations, and map device OS types to platforms.
+// ---
+
 #include "components/sharing_message/sharing_utils.h"
 
 #include "components/sharing_message/proto/sharing_message.pb.h"

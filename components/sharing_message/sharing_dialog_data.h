@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharingDialogData struct declaration
+// summary: Declares the SharingDialogData struct that bundles all data required to display a SharingDialog, such as dialog type, devices, apps, texts, header icons and callbacks.
+// ---
+
 #ifndef COMPONENTS_SHARING_MESSAGE_SHARING_DIALOG_DATA_H_
 #define COMPONENTS_SHARING_MESSAGE_SHARING_DIALOG_DATA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SessionIdGenerator unit tests
+// summary: Unit tests for SessionIdGenerator verifying contiguous ID generation, random initialization, padding behavior, and handling of restored IDs.
+// ---
+
 #include "components/sessions/core/session_id_generator.h"
 
 #include <limits>

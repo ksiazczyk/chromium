@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockSharingMessageHandler mock header
+// summary: Gmock mock of SharingMessageHandler that mocks OnMessage handling of sharing message payloads.
+// ---
+
 #ifndef COMPONENTS_SHARING_MESSAGE_MOCK_SHARING_MESSAGE_HANDLER_H_
 #define COMPONENTS_SHARING_MESSAGE_MOCK_SHARING_MESSAGE_HANDLER_H_
 

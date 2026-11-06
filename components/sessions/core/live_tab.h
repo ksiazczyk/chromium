@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LiveTab interface
+// summary: Declares the interface abstracting a live tab's navigation state for the core sessions and tab restore code.
+// ---
+
 #ifndef COMPONENTS_SESSIONS_CORE_LIVE_TAB_H_
 #define COMPONENTS_SESSIONS_CORE_LIVE_TAB_H_
 

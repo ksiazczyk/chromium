@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sharing utils unit tests
+// summary: Tests for sharing utility functions covering sync enabled and disabled states across transport states and FCM channel extraction.
+// ---
+
 #include "components/sharing_message/sharing_utils.h"
 
 #include "base/test/scoped_feature_list.h"

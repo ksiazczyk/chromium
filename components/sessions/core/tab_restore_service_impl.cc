@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab restore service implementation
+// summary: Implements the disk-persisting tab restore service that records closed tabs, windows, groups and splits as session commands and restores them on demand.
+// ---
+
 #include "components/sessions/core/tab_restore_service_impl.h"
 
 #include <stddef.h>

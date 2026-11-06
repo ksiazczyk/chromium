@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared highlighting feature implementation
+// summary: Implements the platform-dependent timeout length getter for preemptive link-to-text generation.
+// ---
+
 #include "components/shared_highlighting/core/common/shared_highlighting_features.h"
 
 #include "base/feature_list.h"

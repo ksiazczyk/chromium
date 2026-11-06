@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionTabHelper class header for tab and window session IDs
+// summary: Declares SessionTabHelper, a WebContentsUserData that tracks tab and window session IDs and observes navigation events for session restore.
+// ---
+
 #ifndef COMPONENTS_SESSIONS_CONTENT_SESSION_TAB_HELPER_H_
 #define COMPONENTS_SESSIONS_CONTENT_SESSION_TAB_HELPER_H_
 

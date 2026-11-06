@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sharing message sender unit tests
+// summary: Unit tests for SharingMessageSender using a mock channel sender and fake device info to verify message sending and response handling behavior.
+// ---
+
 #include "components/sharing_message/sharing_message_sender.h"
 
 #include "base/functional/callback_helpers.h"

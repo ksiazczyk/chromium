@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing dialog interface
+// summary: Defines the SharingDialog cross-platform interface for displaying and hiding the sharing dialog UI.
+// ---
+
 #ifndef COMPONENTS_SHARING_MESSAGE_SHARING_DIALOG_H_
 #define COMPONENTS_SHARING_MESSAGE_SHARING_DIALOG_H_
 

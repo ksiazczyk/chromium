@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session storage encryption feature implementation
+// summary: Defines the kEncryptSessionStorage feature and maps its stage parameter to an encryption rollout stage.
+// ---
+
 #include "components/sessions/core/command_storage_features.h"
 
 #include "base/feature_list.h"
