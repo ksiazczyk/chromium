@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Definition result parser unit tests
+// summary: Unit tests for DefinitionResultParser covering dictionary result parsing of phonetics, definitions, examples, synonyms and subsenses.
+// ---
+
 #include "chromeos/components/quick_answers/search_result_parsers/definition_result_parser.h"
 
 #include <memory>

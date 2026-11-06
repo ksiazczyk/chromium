@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ONC mapper implementation
+// summary: Implements the Mapper base class that walks ONC values against signatures and copies them, dropping unknown fields.
+// ---
+
 #include "chromeos/components/onc/onc_mapper.h"
 
 #include <utility>

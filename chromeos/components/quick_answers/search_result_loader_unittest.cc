@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search result loader unit tests
+// summary: Tests SearchResultLoader against a simulated knowledge API, covering successful unit conversion answers and network error handling.
+// ---
+
 #include "chromeos/components/quick_answers/search_result_loader.h"
 
 #include <memory>

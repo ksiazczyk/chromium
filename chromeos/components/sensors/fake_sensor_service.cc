@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeSensorService implementation
+// summary: Implements a fake mojom::SensorService that registers devices, answers device queries, and notifies new-device observers for tests.
+// ---
+
 #include "chromeos/components/sensors/fake_sensor_service.h"
 
 #include <utility>

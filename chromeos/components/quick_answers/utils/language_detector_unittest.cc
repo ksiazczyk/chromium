@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Language detector unit tests
+// summary: Unit tests for LanguageDetector using a fake text classifier to verify language detection, preference of selected text and fallback behavior.
+// ---
+
 #include "chromeos/components/quick_answers/utils/language_detector.h"
 
 #include <memory>

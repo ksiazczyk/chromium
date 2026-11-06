@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Per-file owners for payments mojom files
+summary: Grants per-file ownership of all .mojom files in this directory to the IPC and ChromeOS security owners.

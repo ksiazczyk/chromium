@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the ChromeOS sensors component
+summary: Defines the sensors component, a test_support source set with fake sensor implementations, and ash unit test targets for the sensors directory.

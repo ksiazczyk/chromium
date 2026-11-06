@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SensorHalDispatcher implementation
+// summary: Implements the SensorHalDispatcher singleton that registers the sensor HAL server and clients and establishes Mojo channels between them, including via the Mojo Service Manager.
+// ---
+
 #include "chromeos/components/sensors/ash/sensor_hal_dispatcher.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unit conversion result parser implementation
+// summary: Implements parsing of unit conversion results, building conversion rules and computing alternative unit conversions for quick answers.
+// ---
+
 #include "chromeos/components/quick_answers/search_result_parsers/unit_conversion_result_parser.h"
 
 #include <algorithm>

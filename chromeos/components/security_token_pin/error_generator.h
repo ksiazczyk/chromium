@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security token PIN error message generator declaration
+// summary: Declares GenerateErrorMessage, which produces error messages for the security token PIN dialog based on error label, attempts left, and input acceptance.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_SECURITY_TOKEN_PIN_ERROR_GENERATOR_H_
 #define CHROMEOS_COMPONENTS_SECURITY_TOKEN_PIN_ERROR_GENERATOR_H_
 

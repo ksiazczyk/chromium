@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit conversion unit test constants
+// summary: Defines constants for unit conversion unit tests, including mass category units, conversion rates, and expected conversion amounts and texts.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_QUICK_ANSWERS_TEST_UNIT_CONVERSION_UNITTEST_CONSTANTS_H_
 #define CHROMEOS_COMPONENTS_QUICK_ANSWERS_TEST_UNIT_CONVERSION_UNITTEST_CONSTANTS_H_
 

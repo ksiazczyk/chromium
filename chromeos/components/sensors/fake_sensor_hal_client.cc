@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeSensorHalClient implementation
+// summary: Implements a fake mojom::SensorHalClient that stores the sensor service remote and exposes helpers for tests.
+// ---
+
 #include "chromeos/components/sensors/fake_sensor_hal_client.h"
 
 namespace chromeos {

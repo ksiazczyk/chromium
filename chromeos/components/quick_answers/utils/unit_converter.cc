@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unit converter implementation
+// summary: Implements conversion between source and destination units using linear conversion rates from a rule set and finds suitable destination units.
+// ---
+
 #include "chromeos/components/quick_answers/utils/unit_converter.h"
 
 #include <algorithm>

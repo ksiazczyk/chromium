@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ONC utility declarations
+// summary: Declares ONC utility functions for JSON parsing, decryption, string expansion, SSID and APN field completion, and masking of sensitive fields.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_ONC_ONC_UTILS_H_
 #define CHROMEOS_COMPONENTS_ONC_ONC_UTILS_H_
 

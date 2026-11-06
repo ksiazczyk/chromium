@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Print management owners
+summary: Delegates code ownership of this directory to the ash webui print management OWNERS file.

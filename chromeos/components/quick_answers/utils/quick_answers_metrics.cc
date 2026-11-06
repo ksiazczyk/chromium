@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Answers metrics implementation
+// summary: Records Quick Answers usage histograms for results, clicks, loading status and duration, text lengths, network errors, TTS events and feature enablement.
+// ---
+
 #include "chromeos/components/quick_answers/utils/quick_answers_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

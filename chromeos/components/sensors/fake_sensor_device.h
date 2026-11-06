@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeSensorDevice class declaration
+// summary: Declares FakeSensorDevice, a test double for mojom::SensorDevice that simulates channels, attributes, and client connections.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_SENSORS_FAKE_SENSOR_DEVICE_H_
 #define CHROMEOS_COMPONENTS_SENSORS_FAKE_SENSOR_DEVICE_H_
 

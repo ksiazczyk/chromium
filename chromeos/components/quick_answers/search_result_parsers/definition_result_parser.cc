@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Definition result parser implementation
+// summary: Implements parsing of dictionary search results into quick answers, extracting query terms, phonetics, definitions, examples, synonyms and subsenses.
+// ---
+
 #include "chromeos/components/quick_answers/search_result_parsers/definition_result_parser.h"
 
 #include <optional>

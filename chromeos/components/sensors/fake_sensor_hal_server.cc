@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeSensorHalServer implementation
+// summary: Implements a fake mojom::SensorHalServer that creates sensor service channels backed by a FakeSensorService.
+// ---
+
 #include "chromeos/components/sensors/fake_sensor_hal_server.h"
 
 namespace chromeos {

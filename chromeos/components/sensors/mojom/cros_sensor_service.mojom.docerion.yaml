@@ -1,0 +1,4 @@
+# Docerion header of cros_sensor_service.mojom.
+type: source
+title: Mojo interfaces for the sensor HAL server and client
+summary: Defines the SensorHalServer and SensorHalClient Mojo interfaces used to establish channels to the Chrome OS sensor HAL adapter.

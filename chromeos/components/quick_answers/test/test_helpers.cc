@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Answers test helpers implementation
+// summary: Implements test helpers that extract Quick Answer text, build unit conversion dictionaries, and define mock delegates.
+// ---
+
 #include "chromeos/components/quick_answers/test/test_helpers.h"
 #include "chromeos/components/quick_answers/utils/unit_conversion_constants.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Answers model implementation
+// summary: Implements model structs, intent type conversion and unit conversion rule helpers for the quick answers component.
+// ---
+
 #include "chromeos/components/quick_answers/quick_answers_model.h"
 
 #include <cmath>

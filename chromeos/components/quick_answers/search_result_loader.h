@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search result loader class declaration
+// summary: Declares SearchResultLoader, a ResultLoader subclass that builds search requests and processes search responses.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_QUICK_ANSWERS_SEARCH_RESULT_LOADER_H_
 #define CHROMEOS_COMPONENTS_QUICK_ANSWERS_SEARCH_RESULT_LOADER_H_
 

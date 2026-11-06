@@ -1,0 +1,4 @@
+# Docerion header of sensor.mojom.
+type: source
+title: Mojo definitions for sensor devices and SensorService
+summary: Defines sensor attribute constants, device type and error enums, and the SensorService interface for finding and using IIO sensor devices.

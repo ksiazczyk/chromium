@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Variable expander unit tests
+// summary: Unit tests covering full, substring, multiple, and malformed variable expansion behavior of VariableExpander.
+// ---
+
 #include "chromeos/components/onc/variable_expander.h"
 
 #include "base/check_deref.h"

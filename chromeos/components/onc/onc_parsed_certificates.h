@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parsed ONC certificates class declaration
+// summary: Declares OncParsedCertificates, representing certificates parsed from the ONC Certificates section with error reporting.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_ONC_ONC_PARSED_CERTIFICATES_H_
 #define CHROMEOS_COMPONENTS_ONC_ONC_PARSED_CERTIFICATES_H_
 

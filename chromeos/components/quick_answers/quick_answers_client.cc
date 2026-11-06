@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Answers client implementation
+// summary: Implements the client that preprocesses requests, generates intents, fetches quick answer results and records metrics.
+// ---
+
 #include "chromeos/components/quick_answers/quick_answers_client.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ONC test utilities header
+// summary: Declares test helpers for reading ONC test data, comparing values, and generating cellular APN configurations used in ONC unit tests.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_ONC_ONC_TEST_UTILS_H_
 #define CHROMEOS_COMPONENTS_ONC_ONC_TEST_UTILS_H_
 

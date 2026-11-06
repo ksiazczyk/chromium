@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IntentGenerator class declaration
+// summary: Declares the IntentGenerator class that generates intents from Quick Answers requests via the machine learning text classifier, spell checker and language detector.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_QUICK_ANSWERS_UNDERSTANDING_INTENT_GENERATOR_H_
 #define CHROMEOS_COMPONENTS_QUICK_ANSWERS_UNDERSTANDING_INTENT_GENERATOR_H_
 

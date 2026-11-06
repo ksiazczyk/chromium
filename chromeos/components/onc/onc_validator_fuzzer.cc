@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ONC validator fuzzer
+// summary: LibFuzzer entry point that runs the ONC Validator over JSON network configurations with varying strictness and managed-ONC settings.
+// ---
+
 #include "chromeos/components/onc/onc_validator.h"
 
 #include <stddef.h>

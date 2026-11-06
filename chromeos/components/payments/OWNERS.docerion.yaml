@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for payments component
+summary: Delegates code ownership to the shared components/payments OWNERS file.

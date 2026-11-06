@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language detector implementation
+// summary: Detects the language of selected text via the machine learning text classifier, falling back to surrounding text when the confidence threshold is not met.
+// ---
+
 #include "chromeos/components/quick_answers/utils/language_detector.h"
 
 #include "base/functional/callback.h"

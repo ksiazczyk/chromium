@@ -1,0 +1,4 @@
+# Docerion header of payment_app_types.mojom.
+type: source
+title: Payment app Mojo types
+summary: Defines the stable structs and unions used by PaymentAppInstance methods, such as payment parameters and the implemented and ready-to-pay result types.

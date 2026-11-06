@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the security_token_pin component
+summary: Defines the security_token_pin component build target with its sources and dependencies, plus a test-only unit_tests source set for the error generator tests.

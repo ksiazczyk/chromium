@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: ONC directory include rules
+summary: Restricts allowed include dependencies for the ONC directory, notably banning most Abseil features.

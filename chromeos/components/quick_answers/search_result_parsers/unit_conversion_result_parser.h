@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unit conversion result parser header
+// summary: Declares UnitConversionResultParser, a ResultParser that turns unit conversion search results into quick answers and structured results.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_QUICK_ANSWERS_SEARCH_RESULT_PARSERS_UNIT_CONVERSION_RESULT_PARSER_H_
 #define CHROMEOS_COMPONENTS_QUICK_ANSWERS_SEARCH_RESULT_PARSERS_UNIT_CONVERSION_RESULT_PARSER_H_
 

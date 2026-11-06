@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IntentGenerator unit tests
+// summary: Unit tests for IntentGenerator, using a fake spell checker and fake machine learning service connection to verify intent generation from text annotations and language detection.
+// ---
+
 #include "chromeos/components/quick_answers/understanding/intent_generator.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translation v2 supported locales
+// summary: Implements TranslationV2Utils::IsSupported, checking a language against a hard-coded list of locales supported by the Translate v2 API.
+// ---
+
 #include "chromeos/components/quick_answers/utils/translation_v2_utils.h"
 
 #include <algorithm>

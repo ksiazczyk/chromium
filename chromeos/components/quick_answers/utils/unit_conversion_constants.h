@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unit conversion constants
+// summary: Defines constants for unit conversion result paths, conversion rate keys, and unit display text lookup used by the unit converter.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_QUICK_ANSWERS_UTILS_UNIT_CONVERSION_CONSTANTS_H_
 #define CHROMEOS_COMPONENTS_QUICK_ANSWERS_UTILS_UNIT_CONVERSION_CONSTANTS_H_
 

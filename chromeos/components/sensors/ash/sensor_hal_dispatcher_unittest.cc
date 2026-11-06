@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SensorHalDispatcher unit tests
+// summary: Tests that the dispatcher establishes Mojo channels between fake sensor HAL server and clients and correctly re-establishes them after server or client crashes.
+// ---
+
 #include "chromeos/components/sensors/ash/sensor_hal_dispatcher.h"
 
 #include <memory>

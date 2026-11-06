@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for the sensors mojom files
+summary: Delegates per-file review ownership of all mojom files to the IPC and Chrome OS security owners lists.

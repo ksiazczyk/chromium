@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ONC utility unit tests
+// summary: Unit tests covering ONC decryption, string expansion with variable substitution, and filling of HexSSID, HiddenSSID, and cellular APN fields.
+// ---
+
 #include "chromeos/components/onc/onc_utils.h"
 
 #include <optional>

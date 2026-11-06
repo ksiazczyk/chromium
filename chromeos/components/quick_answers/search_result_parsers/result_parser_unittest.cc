@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Result parser factory unit tests
+// summary: Unit tests verifying that ResultParserFactory creates parsers for supported result types and returns null for unsupported types.
+// ---
+
 #include "chromeos/components/quick_answers/search_result_parsers/result_parser.h"
 
 #include <memory>

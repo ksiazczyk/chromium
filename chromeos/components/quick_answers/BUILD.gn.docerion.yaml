@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Quick Answers build configuration
+summary: GN build file defining the quick_answers source set, its unit test target and their sources and dependencies.

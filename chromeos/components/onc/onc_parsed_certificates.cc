@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parsed ONC certificates implementation
+// summary: Parses the ONC Certificates section into server, authority and client certificate objects with scopes and trust flags.
+// ---
+
 #include "chromeos/components/onc/onc_parsed_certificates.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unit conversion display text
+// summary: Implements GetUnitDisplayText, mapping unit names such as Pound to localized display text for conversion results.
+// ---
+
 #include "chromeos/components/quick_answers/utils/unit_conversion_constants.h"
 
 #include <string_view>

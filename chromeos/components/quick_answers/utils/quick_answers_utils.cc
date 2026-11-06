@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Answers utilities implementation
+// summary: Implements query preprocessing per intent type, localized title and result text building for definitions, translations and unit conversions, and HTML unescaping.
+// ---
+
 #include "chromeos/components/quick_answers/utils/quick_answers_utils.h"
 
 #include <string>

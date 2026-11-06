@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translation response parser declaration
+// summary: Declares ParseTranslationResponse, which extracts a translation result from a cloud translation response body.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_QUICK_ANSWERS_TRANSLATION_RESPONSE_PARSER_H_
 #define CHROMEOS_COMPONENTS_QUICK_ANSWERS_TRANSLATION_RESPONSE_PARSER_H_
 

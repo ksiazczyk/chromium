@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ONC signature declarations
+// summary: Declares the OncValueSignature and OncFieldSignature structures plus exported signatures for ONC object types used in validation and mapping.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_ONC_ONC_SIGNATURE_H_
 #define CHROMEOS_COMPONENTS_ONC_ONC_SIGNATURE_H_
 

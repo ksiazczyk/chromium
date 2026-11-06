@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracker metadata for the security_token_pin directory
+summary: Maps the directory to Buganizer components for public and internal issue tracking in the ChromeOS smartcard identity area.

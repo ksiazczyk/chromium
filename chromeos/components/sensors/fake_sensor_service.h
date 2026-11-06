@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeSensorService test double header
+// summary: Declares FakeSensorService, a fake mojom::SensorService implementation that manages fake sensor devices and receivers for testing.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_SENSORS_FAKE_SENSOR_SERVICE_H_
 #define CHROMEOS_COMPONENTS_SENSORS_FAKE_SENSOR_SERVICE_H_
 

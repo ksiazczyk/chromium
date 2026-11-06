@@ -1,0 +1,4 @@
+# Docerion header of printing_manager.mojom.
+type: source
+title: Mojom definitions for print job metadata APIs
+summary: Defines enums, structs and interfaces for print job information and the PrintingMetadataProvider API exposed to the ChromeOS print management app.
