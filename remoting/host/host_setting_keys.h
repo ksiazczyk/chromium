@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host setting key constants
+// summary: Defines host setting keys for Mac audio capture device selection and storing previous default browsers on Linux desktops.
+// ---
+
 #ifndef REMOTING_HOST_HOST_SETTING_KEYS_H_
 #define REMOTING_HOST_HOST_SETTING_KEYS_H_
 

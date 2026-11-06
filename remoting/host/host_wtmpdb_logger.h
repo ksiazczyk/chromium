@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostWtmpdbLogger class declaration
+// summary: Declares HostWtmpdbLogger, a HostStatusObserver that logs client connect and disconnect events to the Linux wtmpdb database.
+// ---
+
 #ifndef REMOTING_HOST_HOST_WTMPDB_LOGGER_H_
 #define REMOTING_HOST_HOST_WTMPDB_LOGGER_H_
 

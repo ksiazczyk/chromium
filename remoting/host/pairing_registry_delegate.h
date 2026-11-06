@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pairing registry delegate header
+// summary: Declares factory functions for creating a platform-specific pairing registry delegate and a PairingRegistry instance.
+// ---
+
 #ifndef REMOTING_HOST_PAIRING_REGISTRY_DELEGATE_H_
 #define REMOTING_HOST_PAIRING_REGISTRY_DELEGATE_H_
 

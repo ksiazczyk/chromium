@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake terminal session implementation
+// summary: Implements a fake TerminalSession with controllable start errors, deferred starts and session tracking for unit tests.
+// ---
+
 #include "remoting/host/fake_terminal_session.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chromoting host services server unit tests
+// summary: Unit tests for ChromotingHostServicesServer using a multiprocess client to verify endpoint validation and connection handling.
+// ---
+
 #include "remoting/host/chromoting_host_services_server.h"
 
 #include <memory>

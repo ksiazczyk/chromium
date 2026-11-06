@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac audio capturer class declaration
+// summary: Declares AudioCapturerMac, a macOS AudioCapturer that captures system audio through a user-configured audio loopback device.
+// ---
+
 #ifndef REMOTING_HOST_AUDIO_CAPTURER_MAC_H_
 #define REMOTING_HOST_AUDIO_CAPTURER_MAC_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesktopResizer interface
+// summary: Interface for querying and changing monitor resolutions and updating the display video layout, with per-monitor support and platform-specific implementations.
+// ---
+
 #ifndef REMOTING_HOST_DESKTOP_RESIZER_H_
 #define REMOTING_HOST_DESKTOP_RESIZER_H_
 

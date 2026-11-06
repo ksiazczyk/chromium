@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Agent integration configurator base implementation
+// summary: Default AgentIntegrationConfigurator implementation that reports agent integration as unsupported on non-Linux platforms.
+// ---
+
 #include "remoting/host/agent_integration_configurator.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default ActionExecutor factory
+// summary: Provides the default Create() implementation that returns no executor on unsupported platforms.
+// ---
+
 #include "remoting/host/action_executor.h"
 
 namespace remoting {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostPowerSaveBlocker class header
+// summary: Declares a HostStatusObserver that prevents the screen saver from taking effect during the lifetime of a remoting connection.
+// ---
+
 #ifndef REMOTING_HOST_HOST_POWER_SAVE_BLOCKER_H_
 #define REMOTING_HOST_HOST_POWER_SAVE_BLOCKER_H_
 

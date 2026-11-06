@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC desktop environment header
+// summary: Declares IpcDesktopEnvironment, a desktop environment variant that integrates with the desktop via a helper process and IPC.
+// ---
+
 #ifndef REMOTING_HOST_IPC_DESKTOP_ENVIRONMENT_H_
 #define REMOTING_HOST_IPC_DESKTOP_ENVIRONMENT_H_
 

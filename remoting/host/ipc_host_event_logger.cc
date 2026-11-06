@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC host event logger implementation
+// summary: Forwards host status events such as client connections and host shutdown to the daemon via a Mojo HostStatusObserver remote.
+// ---
+
 #include "remoting/host/ipc_host_event_logger.h"
 
 #include "base/check_op.h"

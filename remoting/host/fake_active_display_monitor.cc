@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake active display monitor
+// summary: Provides a fake ActiveDisplayMonitor that fires the callback with a configured display for use in tests.
+// ---
+
 #include "remoting/host/fake_active_display_monitor.h"
 
 namespace remoting {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop display info implementation
+// summary: Implements DesktopDisplayInfo and DisplayGeometry for describing, comparing, and converting host display geometries and DPI values.
+// ---
+
 #include "remoting/host/desktop_display_info.h"
 
 #include <algorithm>

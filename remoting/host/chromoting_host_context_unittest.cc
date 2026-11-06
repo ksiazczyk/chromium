@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chromoting host context unit test
+// summary: Tests that ChromotingHostContext starts and stops properly with valid task runners for UI, file, input, network, and video capture threads.
+// ---
+
 #include "remoting/host/chromoting_host_context.h"
 
 #include "base/run_loop.h"

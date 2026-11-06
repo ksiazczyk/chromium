@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio injector factory
+// summary: Selects the platform audio injector, creating a PipeWire-based injector on Linux when supported and returning none elsewhere.
+// ---
+
 #include "remoting/host/audio_injector.h"
 
 #include "build/build_config.h"

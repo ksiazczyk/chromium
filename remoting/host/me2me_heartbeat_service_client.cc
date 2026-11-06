@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Me2Me heartbeat service client implementation
+// summary: Implements the HeartbeatServiceClient for public Me2Me hosts, sending full and lite heartbeats to the directory service and reporting responses.
+// ---
+
 #include "remoting/host/me2me_heartbeat_service_client.h"
 
 #include "base/notreached.h"

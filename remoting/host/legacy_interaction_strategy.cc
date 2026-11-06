@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Legacy desktop interaction strategy implementation
+// summary: Implements the legacy DesktopInteractionStrategy that creates capturers, injectors and other desktop components per platform.
+// ---
+
 #include "remoting/host/legacy_interaction_strategy.h"
 
 #include <memory>

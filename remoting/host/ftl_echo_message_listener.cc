@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FTL echo message listener implementation
+// summary: Handles incoming FTL echo messages from the machine owner and replies with a truncated echo response.
+// ---
+
 #include "remoting/host/ftl_echo_message_listener.h"
 
 #include <string>

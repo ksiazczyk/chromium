@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DesktopSessionAgent unit tests
+// summary: Unit tests that start a DesktopSessionAgent over a fake IPC channel and verify session startup and shutdown behavior.
+// ---
+
 #include "remoting/host/desktop_session_agent.h"
 
 #include <memory>

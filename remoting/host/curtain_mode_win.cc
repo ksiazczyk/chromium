@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows curtain mode implementation
+// summary: Windows implementation of CurtainMode that reports whether the current session is detached from the local console.
+// ---
+
 #include "remoting/host/curtain_mode.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 clipboard implementation
+// summary: Implements the Clipboard interface on Linux by bridging to the X server clipboard through an X11 connection and event observer.
+// ---
+
 #include "remoting/host/clipboard.h"
 
 #include <memory>

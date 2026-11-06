@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native messaging host process launcher header
+// summary: Declares the interface for launching the native messaging host process with read and write pipe handles.
+// ---
+
 #ifndef REMOTING_HOST_LAUNCH_NATIVE_MESSAGING_HOST_PROCESS_H_
 #define REMOTING_HOST_LAUNCH_NATIVE_MESSAGING_HOST_PROCESS_H_
 

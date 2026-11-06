@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesktopSessionAgent interface
+// summary: Header declaring the DesktopSessionAgent class that provides screen and audio capturing plus input injection services for the network process.
+// ---
+
 #ifndef REMOTING_HOST_DESKTOP_SESSION_AGENT_H_
 #define REMOTING_HOST_DESKTOP_SESSION_AGENT_H_
 

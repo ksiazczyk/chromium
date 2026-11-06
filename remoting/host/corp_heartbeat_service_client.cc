@@ -3,6 +3,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CorpHeartbeatServiceClient implementation
+// summary: Implements the HeartbeatServiceClient for Corp hosts, sending full and lite heartbeats and updating host status in the Directory service.
+// ---
+
 #include "remoting/host/corp_heartbeat_service_client.h"
 
 #include <string_view>

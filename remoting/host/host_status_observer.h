@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host status observer interface
+// summary: Defines callbacks for client access denial, authentication, connection, disconnection, route changes, and host start and shutdown events.
+// ---
+
 #ifndef REMOTING_HOST_HOST_STATUS_OBSERVER_H_
 #define REMOTING_HOST_HOST_STATUS_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host config keys and helpers
+// summary: Defines host configuration key constants and declares helpers for converting host config dictionaries between JSON and files.
+// ---
+
 #ifndef REMOTING_HOST_HOST_CONFIG_H_
 #define REMOTING_HOST_HOST_CONFIG_H_
 

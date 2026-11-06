@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DesktopDisplayInfo unit tests
+// summary: Unit tests verifying display offset calculations for single and multi-display layouts across platforms with different origin conventions.
+// ---
+
 #include "remoting/host/desktop_display_info.h"
 
 #include "base/location.h"

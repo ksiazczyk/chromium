@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PAM authorization factory for POSIX
+// summary: Implements an authenticator wrapper that rejects sessions when a PAM-based local login check fails on POSIX systems.
+// ---
+
 #include "remoting/host/pam_authorization_factory_posix.h"
 
 #include <security/pam_appl.h>

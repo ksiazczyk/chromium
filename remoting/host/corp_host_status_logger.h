@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CorpHostStatusLogger header
+// summary: Declares CorpHostStatusLogger, a session observer that reports host status changes to the corp logging service.
+// ---
+
 #ifndef REMOTING_HOST_CORP_HOST_STATUS_LOGGER_H_
 #define REMOTING_HOST_CORP_HOST_STATUS_LOGGER_H_
 

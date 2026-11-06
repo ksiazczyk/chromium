@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IpcPeerSession class header
+// summary: Declares IpcPeerSession, a Mojo IPC proxy for PeerSession that also implements transport, ICE config fetching, pairing, and desktop session requesting interfaces.
+// ---
+
 #ifndef REMOTING_HOST_IPC_PEER_SESSION_H_
 #define REMOTING_HOST_IPC_PEER_SESSION_H_
 

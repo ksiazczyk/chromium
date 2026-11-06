@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop interaction strategy capturer helper
+// summary: Implements DesktopInteractionStrategy::CreateCapturerFromRaw, wrapping a raw desktop capturer in a differ wrapper when updated-region detection is enabled and selecting the capture source.
+// ---
+
 #include "remoting/host/desktop_interaction_strategy.h"
 
 #include <memory>

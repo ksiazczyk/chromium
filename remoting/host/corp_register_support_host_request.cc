@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CorpRegisterSupportHostRequest implementation
+// summary: Registers a remote support host by calling the corp internal CreateRemoteSupportHost API through a ProtobufHttpClient.
+// ---
+
 #include "remoting/host/corp_register_support_host_request.h"
 
 #include <memory>

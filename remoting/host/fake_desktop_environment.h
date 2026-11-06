@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake desktop environment header
+// summary: Declares FakeInputInjector, FakeScreenControls and FakeDesktopEnvironment test doubles for the host desktop environment.
+// ---
+
 #ifndef REMOTING_HOST_FAKE_DESKTOP_ENVIRONMENT_H_
 #define REMOTING_HOST_FAKE_DESKTOP_ENVIRONMENT_H_
 

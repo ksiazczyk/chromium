@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioVolumeFilter header
+// summary: Declares AudioVolumeFilter, a component that applies the audio level to input samples on platforms returning non-adjusted audio, with a virtual GetAudioLevel hook.
+// ---
+
 #ifndef REMOTING_HOST_AUDIO_VOLUME_FILTER_H_
 #define REMOTING_HOST_AUDIO_VOLUME_FILTER_H_
 

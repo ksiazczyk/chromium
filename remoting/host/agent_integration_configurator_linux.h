@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux agent integration configurator class declaration
+// summary: Declares AgentIntegrationConfiguratorLinux, the Linux subclass that queries and changes agent integration state with a command timeout.
+// ---
+
 #ifndef REMOTING_HOST_AGENT_INTEGRATION_CONFIGURATOR_LINUX_H_
 #define REMOTING_HOST_AGENT_INTEGRATION_CONFIGURATOR_LINUX_H_
 

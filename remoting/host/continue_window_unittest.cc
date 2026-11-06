@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Continue window unit tests
+// summary: Unit tests covering session expiry, continue, disconnect, and timeout behavior of the ContinueWindow using mock time.
+// ---
+
 #include "remoting/host/continue_window.h"
 
 #include <memory>

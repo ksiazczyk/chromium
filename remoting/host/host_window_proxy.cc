@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostWindowProxy implementation
+// summary: Implements HostWindowProxy, running a HostWindow on the UI thread and forwarding session control events between caller and UI task runners.
+// ---
+
 #include "remoting/host/host_window_proxy.h"
 
 #include <utility>

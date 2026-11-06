@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chromoting host services server implementation
+// summary: Implements the named mojo IPC server for the ChromotingHostServices interface with platform-specific endpoint security options.
+// ---
+
 #include "remoting/host/chromoting_host_services_server.h"
 
 #include "base/check.h"

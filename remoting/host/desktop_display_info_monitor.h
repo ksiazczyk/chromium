@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesktopDisplayInfoMonitor interface
+// summary: Defines an interface that monitors the OS for multi-monitor layout changes and reports updated display info to registered callbacks.
+// ---
+
 #ifndef REMOTING_HOST_DESKTOP_DISPLAY_INFO_MONITOR_H_
 #define REMOTING_HOST_DESKTOP_DISPLAY_INFO_MONITOR_H_
 

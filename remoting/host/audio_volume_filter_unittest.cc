@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioVolumeFilter unit tests
+// summary: Unit tests covering AudioVolumeFilter volume application across channel counts, silent samples, zero audio level, and post-scaling silence.
+// ---
+
 #include "remoting/host/audio_volume_filter.h"
 
 #include "base/containers/span.h"

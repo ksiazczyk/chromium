@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IpcPeerSession unit tests
+// summary: Unit tests for IpcPeerSession using mock Mojo receivers and a fake ICE config fetcher to verify peer session start, transport, and disconnect behavior.
+// ---
+
 #include "remoting/host/ipc_peer_session.h"
 
 #include <memory>

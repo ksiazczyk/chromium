@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delegating desktop display info monitor header
+// summary: Declares DelegatingDesktopDisplayInfoMonitor, a wrapper that shares an underlying display info monitor with independent state.
+// ---
+
 #ifndef REMOTING_HOST_DELEGATING_DESKTOP_DISPLAY_INFO_MONITOR_H_
 #define REMOTING_HOST_DELEGATING_DESKTOP_DISPLAY_INFO_MONITOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Heartbeat sender
+// summary: Declares HeartbeatSender, which periodically reports host health to the directory service and can signal that the host is going offline.
+// ---
+
 #ifndef REMOTING_HOST_HEARTBEAT_SENDER_H_
 #define REMOTING_HOST_HEARTBEAT_SENDER_H_
 

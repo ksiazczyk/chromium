@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActiveDisplayMonitor interface
+// summary: Declares a monitor that notifies a callback of the currently active display screen ID.
+// ---
+
 #ifndef REMOTING_HOST_ACTIVE_DISPLAY_MONITOR_H_
 #define REMOTING_HOST_ACTIVE_DISPLAY_MONITOR_H_
 

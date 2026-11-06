@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host power save blocker implementation
+// summary: Blocks display sleep while a remoting client is connected and releases the wake lock when the client disconnects, with Linux temporarily excluded.
+// ---
+
 #include "remoting/host/host_power_save_blocker.h"
 
 #include <memory>

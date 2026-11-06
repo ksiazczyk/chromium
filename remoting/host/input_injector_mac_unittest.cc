@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InputInjectorMac unit tests
+// summary: Unit tests verifying that InputInjectorMac generates correct CoreGraphics events for mouse moves, clicks, drag sequences and key presses.
+// ---
+
 #include "remoting/host/input_injector_mac.h"
 
 #include <ApplicationServices/ApplicationServices.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IPC video frame capturer unit tests
+// summary: Unit tests verifying that capturer settings set before Start are sent after start and that no settings are sent before start.
+// ---
+
 #include "remoting/host/ipc_video_frame_capturer.h"
 
 #include <cstdint>

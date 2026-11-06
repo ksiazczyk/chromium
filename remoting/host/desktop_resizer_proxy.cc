@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop resizer proxy
+// summary: Forwards DesktopResizer calls to a weakly-held underlying resizer, safely returning empty results or no-oping once the target is destroyed.
+// ---
+
 #include "remoting/host/desktop_resizer_proxy.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Disconnect window base unit tests
+// summary: Unit tests for DisconnectWindowBase covering email parsing, disconnect calls, alignment toggling with cooldown, and repositioning attempt limits.
+// ---
+
 #include "remoting/host/disconnect_window_base.h"
 
 #include <memory>

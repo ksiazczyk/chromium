@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows clipboard interface
+// summary: Declares ClipboardWin and the Win32Clipboard abstraction that wraps Win32 clipboard APIs to allow mocking in tests.
+// ---
+
 #ifndef REMOTING_HOST_CLIPBOARD_WIN_H_
 #define REMOTING_HOST_CLIPBOARD_WIN_H_
 

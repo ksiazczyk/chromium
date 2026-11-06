@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC action executor declaration
+// summary: Declares IpcActionExecutor, which routes ActionExecutor calls through IPC to the agent running in the desktop integration process.
+// ---
+
 #ifndef REMOTING_HOST_IPC_ACTION_EXECUTOR_H_
 #define REMOTING_HOST_IPC_ACTION_EXECUTOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesktopDisplayInfo class for host display geometry
+// summary: Declares DisplayGeometry and DesktopDisplayInfo, which model display layouts and convert coordinates and video layouts for the remoting host.
+// ---
+
 #ifndef REMOTING_HOST_DESKTOP_DISPLAY_INFO_H_
 #define REMOTING_HOST_DESKTOP_DISPLAY_INFO_H_
 

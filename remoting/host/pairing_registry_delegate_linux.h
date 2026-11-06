@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux pairing registry delegate header
+// summary: Declares the Linux pairing registry delegate for storing paired clients in files, plus multi-process registry setup helpers.
+// ---
+
 #ifndef REMOTING_HOST_PAIRING_REGISTRY_DELEGATE_LINUX_H_
 #define REMOTING_HOST_PAIRING_REGISTRY_DELEGATE_LINUX_H_
 

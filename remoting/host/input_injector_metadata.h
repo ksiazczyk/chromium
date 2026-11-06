@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputInjectorMetadata struct declaration
+// summary: Defines a struct carrying XDG desktop portal session details needed by the Wayland input injector when PipeWire support is enabled.
+// ---
+
 #ifndef REMOTING_HOST_INPUT_INJECTOR_METADATA_H_
 #define REMOTING_HOST_INPUT_INJECTOR_METADATA_H_
 

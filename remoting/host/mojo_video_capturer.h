@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo video capturer header
+// summary: Declares MojoVideoCapturer, which bridges a DesktopCapturer to the mojom::VideoCapturer Mojo interface for the network process.
+// ---
+
 #ifndef REMOTING_HOST_MOJO_VIDEO_CAPTURER_H_
 #define REMOTING_HOST_MOJO_VIDEO_CAPTURER_H_
 

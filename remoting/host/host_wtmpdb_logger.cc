@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: HostWtmpdbLogger implementation
+// summary: Records client connect and disconnect events for Chrome Remote Desktop sessions in the Linux wtmpdb SQLite database.
+// ---
+
 #include "remoting/host/host_wtmpdb_logger.h"
 
 #include <libgen.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host secret generation header
+// summary: Declares GenerateSupportHostSecret, which produces a random host secret string.
+// ---
+
 #ifndef REMOTING_HOST_HOST_SECRET_H_
 #define REMOTING_HOST_HOST_SECRET_H_
 

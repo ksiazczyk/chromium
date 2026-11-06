@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client session events interface
+// summary: Interface allowing the desktop environment to trigger client session events such as desktop attach and security key connections.
+// ---
+
 #ifndef REMOTING_HOST_CLIENT_SESSION_EVENTS_H_
 #define REMOTING_HOST_CLIENT_SESSION_EVENTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac desktop resizer
+// summary: Implements DesktopResizer on macOS using CoreGraphics display modes to get, set, and restore resolutions for the sole display.
+// ---
+
 #include "remoting/host/desktop_resizer.h"
 
 #include <Carbon/Carbon.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard layout monitor supported keys
+// summary: Defines the array of supported physical DomCode keys exposed by KeyboardLayoutMonitor for building keyboard layout maps.
+// ---
+
 #include "remoting/host/keyboard_layout_monitor.h"
 
 #include "base/containers/span.h"

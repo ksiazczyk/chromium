@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard layout monitor interface
+// summary: Declares the KeyboardLayoutMonitor interface that watches the host's active keyboard layout and invokes a callback whenever it changes.
+// ---
+
 #ifndef REMOTING_HOST_KEYBOARD_LAYOUT_MONITOR_H_
 #define REMOTING_HOST_KEYBOARD_LAYOUT_MONITOR_H_
 

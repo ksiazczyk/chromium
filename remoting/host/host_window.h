@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostWindow interface for host UI windows
+// summary: Declares the HostWindow interface with factories for continue, disconnect, and auto-hiding disconnect windows shown during remote sessions.
+// ---
+
 #ifndef REMOTING_HOST_HOST_WINDOW_H_
 #define REMOTING_HOST_HOST_WINDOW_H_
 

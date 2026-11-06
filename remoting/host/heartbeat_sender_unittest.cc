@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Heartbeat sender unit tests
+// summary: Unit tests for HeartbeatSender that verify heartbeat requests, responses and delegate callbacks using mocked service clients and signal strategies.
+// ---
+
 #include "remoting/host/heartbeat_sender.h"
 
 #include <stdint.h>

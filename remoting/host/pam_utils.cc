@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PAM local login check utilities
+// summary: Implements IsLocalLoginAllowed, which uses PAM to verify whether a username is permitted for local login on the host.
+// ---
+
 #include "remoting/host/pam_utils.h"
 
 #include <security/pam_appl.h>

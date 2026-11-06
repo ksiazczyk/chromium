@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesktopInteractionStrategy interface
+// summary: Defines the interface and factory for creating the capture, input injection, and monitor components used to interact with a desktop environment, allowing state sharing between implementations.
+// ---
+
 #ifndef REMOTING_HOST_DESKTOP_INTERACTION_STRATEGY_H_
 #define REMOTING_HOST_DESKTOP_INTERACTION_STRATEGY_H_
 

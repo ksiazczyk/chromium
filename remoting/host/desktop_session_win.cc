@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows desktop session implementation
+// summary: Implements DesktopSession for Windows, attaching the host to physical or RDP console sessions and handling IPC, security descriptors, and session timeouts.
+// ---
+
 #include "remoting/host/desktop_session_win.h"
 
 #include <objbase.h>

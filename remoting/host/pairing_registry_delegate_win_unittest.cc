@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Windows pairing registry delegate
+// summary: Tests saving, loading and deleting client pairings in the Windows registry delegate, including stateless behavior across instances.
+// ---
+
 #include <memory>
 #include <utility>
 

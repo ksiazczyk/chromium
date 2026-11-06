@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate broker implementation
+// summary: Implements the mojom CertificateBroker by querying the platform client certificate store and brokering private key operations via SSLPrivateKeyWrapper.
+// ---
+
 #include "remoting/host/certificate_broker_impl.h"
 
 #include <utility>

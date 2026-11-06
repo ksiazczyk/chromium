@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the PAM authorization factory
+// summary: Tests the PAM authorizer wrapper, including a use-after-free scenario where the session is torn down during an authenticator call.
+// ---
+
 #include "remoting/host/pam_authorization_factory_posix.h"
 
 #include <memory>

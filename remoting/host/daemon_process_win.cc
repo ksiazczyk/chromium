@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows daemon process implementation
+// summary: Windows-specific DaemonProcess implementation handling WTS terminals, registry settings, ETW tracing, and worker process launching.
+// ---
+
 #include "remoting/host/daemon_process.h"
 
 #include <stdint.h>

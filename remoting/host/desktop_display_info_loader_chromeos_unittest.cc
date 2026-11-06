@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS desktop display info loader unit tests
+// summary: Unit tests verifying the ChromeOS display info loader returns correct display IDs, bounds, logical resolution under scale factors, and primary display flags.
+// ---
+
 #include <vector>
 
 #include "base/test/task_environment.h"

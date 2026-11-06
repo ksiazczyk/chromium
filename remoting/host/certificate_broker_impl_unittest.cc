@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Certificate broker unit tests
+// summary: Unit tests for CertificateBrokerImpl using fake client cert store, cert identity, and SSL private key to verify certificate retrieval behavior.
+// ---
+
 #include "remoting/host/certificate_broker_impl.h"
 
 #include <memory>

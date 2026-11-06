@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux agent integration configurator implementation
+// summary: Implements agent integration support on Linux by running the chrome-remote-desktop-agent-integration binary with status, enable, and disable commands.
+// ---
+
 #include "remoting/host/agent_integration_configurator_linux.h"
 
 #include <fcntl.h>

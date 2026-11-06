@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActionMessageHandler class declaration
+// summary: Declares a named message pipe handler that dispatches action requests and tracks the negotiated set of supported actions.
+// ---
+
 #ifndef REMOTING_HOST_ACTION_MESSAGE_HANDLER_H_
 #define REMOTING_HOST_ACTION_MESSAGE_HANDLER_H_
 

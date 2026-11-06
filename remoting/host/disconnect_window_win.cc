@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows disconnect window for host sessions
+// summary: Implements the Windows disconnect dialog shown during remote sessions, with auto-hide on local input, show/hide animations and a disconnect hotkey.
+// ---
+
 #include <windows.h>
 
 #include <commctrl.h>

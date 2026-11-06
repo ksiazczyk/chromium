@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows host event logger implementation
+// summary: Logs host events such as client connections, access denials, and host startup to the Windows event log.
+// ---
+
 #include "remoting/host/host_event_logger.h"
 
 #include <windows.h>

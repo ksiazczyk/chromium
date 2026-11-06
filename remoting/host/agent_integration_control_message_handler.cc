@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Agent integration control message handler implementation
+// summary: Handles AgentIntegrationControl messages on the agent-integration-control data channel by forwarding query and set state requests to the configurator.
+// ---
+
 #include "remoting/host/agent_integration_control_message_handler.h"
 
 #include <memory>

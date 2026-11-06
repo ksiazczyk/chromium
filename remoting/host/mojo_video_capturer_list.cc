@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo video capturer list implementation
+// summary: Creates and tracks MojoVideoCapturer instances per screen, removing capturers whose Mojo endpoints disconnect.
+// ---
+
 #include "remoting/host/mojo_video_capturer_list.h"
 
 #include "base/functional/bind.h"

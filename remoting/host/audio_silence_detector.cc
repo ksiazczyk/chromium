@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio silence detector
+// summary: Detects silent audio packets against a sample threshold so short silence intervals are still sent while longer ones can be dropped.
+// ---
+
 #include "remoting/host/audio_silence_detector.h"
 
 #include <stdlib.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cursor visibility notifier implementation
+// summary: Implements a non-filtering input stub that notifies an event handler when cursor visibility should change.
+// ---
+
 #include "remoting/host/cursor_visibility_notifier.h"
 
 #include "remoting/proto/event.pb.h"

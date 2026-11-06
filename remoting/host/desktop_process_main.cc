@@ -5,6 +5,12 @@
 // This file implements the Windows service controlling Me2Me host processes
 // running within user sessions.
 
+// ---docerion
+// type: source
+// title: Desktop process entry point
+// summary: Main entry point that initializes the thread pool, task runners, X11 and GTK support on Linux, and Mojo IPC to launch the Me2Me desktop process.
+// ---
+
 #include <cstdlib>
 #include <memory>
 #include <utility>

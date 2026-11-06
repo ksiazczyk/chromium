@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS audio capturer implementation
+// summary: Implements the AudioCapturer for ChromeOS, starting audio streams through AudioHelperChromeOs and forwarding captured audio packets to a callback.
+// ---
+
 #include "remoting/host/audio_capturer_chromeos.h"
 
 #include <memory>

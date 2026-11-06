@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioVolumeFilter implementation
+// summary: Implements AudioVolumeFilter::Apply, which drops silent samples and scales 16-bit audio samples by the current audio level.
+// ---
+
 #include "remoting/host/audio_volume_filter.h"
 
 #include "base/compiler_specific.h"

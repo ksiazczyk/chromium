@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linux pairing registry delegate unit tests
+// summary: Unit tests verifying saving, loading and deleting pairings with the Linux delegate, including unprivileged file behavior.
+// ---
+
 #include "remoting/host/pairing_registry_delegate_linux.h"
 
 #include <utility>

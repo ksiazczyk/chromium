@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Me2Me desktop environment header
+// summary: Declares Me2MeDesktopEnvironment and its factory, extending the basic environment with resizing and security features.
+// ---
+
 #ifndef REMOTING_HOST_ME2ME_DESKTOP_ENVIRONMENT_H_
 #define REMOTING_HOST_ME2ME_DESKTOP_ENVIRONMENT_H_
 

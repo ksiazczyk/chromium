@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host event logger interface
+// summary: Declares HostEventLogger, which monitors host status changes and logs corresponding events to the OS-specific system log.
+// ---
+
 #ifndef REMOTING_HOST_HOST_EVENT_LOGGER_H_
 #define REMOTING_HOST_HOST_EVENT_LOGGER_H_
 

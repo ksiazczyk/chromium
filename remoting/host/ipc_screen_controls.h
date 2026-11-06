@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IpcScreenControls class header
+// summary: Declares IpcScreenControls, which routes screen resolution and video layout changes through the IPC channel to the desktop session agent.
+// ---
+
 #ifndef REMOTING_HOST_IPC_SCREEN_CONTROLS_H_
 #define REMOTING_HOST_IPC_SCREEN_CONTROLS_H_
 

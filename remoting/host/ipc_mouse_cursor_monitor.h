@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IpcMouseCursorMonitor class header
+// summary: Declares IpcMouseCursorMonitor, which routes MouseCursorMonitor calls through IPC to the desktop session agent in the desktop integration process.
+// ---
+
 #ifndef REMOTING_HOST_IPC_MOUSE_CURSOR_MONITOR_H_
 #define REMOTING_HOST_IPC_MOUSE_CURSOR_MONITOR_H_
 

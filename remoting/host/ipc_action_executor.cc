@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC action executor implementation
+// summary: Forwards action requests to the desktop session agent over the IPC channel through the DesktopSessionProxy.
+// ---
+
 #include "remoting/host/ipc_action_executor.h"
 
 #include <utility>

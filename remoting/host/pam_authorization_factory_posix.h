@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PAM authorization factory declaration
+// summary: Declares PamAuthorizationFactory, which applies PAM-based authorization on top of an underlying authentication scheme.
+// ---
+
 #ifndef REMOTING_HOST_PAM_AUTHORIZATION_FACTORY_POSIX_H_
 #define REMOTING_HOST_PAM_AUTHORIZATION_FACTORY_POSIX_H_
 

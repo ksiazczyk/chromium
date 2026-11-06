@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chromoting host services client implementation
+// summary: Implements the client that connects to the ChromotingHostServices IPC server and parses agent status command-line switches.
+// ---
+
 #include "remoting/host/chromoting_host_services_client.h"
 
 #include <cstdint>

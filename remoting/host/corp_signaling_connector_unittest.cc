@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CorpSignalingConnector unit tests
+// summary: Unit tests for CorpSignalingConnector covering successful connection, retry with backoff, and auto-reconnect on network change.
+// ---
+
 #include "remoting/host/corp_signaling_connector.h"
 
 #include <memory>

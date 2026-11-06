@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chromoting host context implementation
+// summary: Implements ChromotingHostContext, including the ChromeOS variant, managing task runners, URL loader factories, and client cert store creation.
+// ---
+
 #include "remoting/host/chromoting_host_context.h"
 
 #include <memory>

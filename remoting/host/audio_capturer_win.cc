@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows audio capturer implementation
+// summary: Implements the Windows AudioCapturer with WASAPI, capturing from the default audio endpoint and reacting to default device changes.
+// ---
+
 #include "remoting/host/audio_capturer_win.h"
 
 #include <objbase.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chromoting host services provider interface
+// summary: Interface that exposes ChromotingHostServices APIs, providing session services access and a disconnect handler.
+// ---
+
 #ifndef REMOTING_HOST_CHROMOTING_HOST_SERVICES_PROVIDER_H_
 #define REMOTING_HOST_CHROMOTING_HOST_SERVICES_PROVIDER_H_
 

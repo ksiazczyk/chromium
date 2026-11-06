@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BasicDesktopEnvironment implementation
+// summary: Implements BasicDesktopEnvironment, which creates audio and video capturers, input injection, file operations, and other components for the local console session.
+// ---
+
 #include "remoting/host/basic_desktop_environment.h"
 
 #include <cstdint>

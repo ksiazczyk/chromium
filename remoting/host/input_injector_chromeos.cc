@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputInjectorChromeos implementation
+// summary: Implements input injection on ChromeOS by translating remote input events into ui::Events and delegating to a system input injector.
+// ---
+
 #include "remoting/host/input_injector_chromeos.h"
 
 #include <memory>

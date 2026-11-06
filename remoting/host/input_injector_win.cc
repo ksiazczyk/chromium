@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows input injector implementation
+// summary: Implements input injection on Windows using the SendInput API for keyboard, mouse, text and touch events, including swapped-button handling.
+// ---
+
 #include "remoting/host/input_injector.h"
 
 #include <windows.h>

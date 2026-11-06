@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesktopResolution geometry helper
+// summary: Defines a small DesktopResolution class that pairs display dimensions with DPI values using gfx geometry types.
+// ---
+
 #ifndef REMOTING_HOST_DESKTOP_GEOMETRY_H_
 #define REMOTING_HOST_DESKTOP_GEOMETRY_H_
 

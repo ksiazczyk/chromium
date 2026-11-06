@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host attributes header
+// summary: Declares GetHostAttributes, a thread-safe function returning a comma-separated string describing the host's current attributes.
+// ---
+
 #ifndef REMOTING_HOST_HOST_ATTRIBUTES_H_
 #define REMOTING_HOST_HOST_ATTRIBUTES_H_
 

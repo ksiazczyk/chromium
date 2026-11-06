@@ -1,3 +1,13 @@
+---
+type: readme
+title: Chrome Remote Desktop host architecture overview
+summary: Directory guide describing host modes, process types and entry points, navigation tips, and strict rules for working on the host code.
+relations:
+  - documents /remoting/host/host_main.cc
+  - documents /remoting/host/it2me/it2me_native_messaging_host_main.cc
+  - references /remoting/host/it2me/GEMINI.md
+---
+
 # Chrome Remote Desktop Host Architecture
 
 This directory contains the host-side logic for Chrome Remote Desktop. The host

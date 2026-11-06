@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio capturer base implementation
+// summary: Implements shared AudioCapturer logic, including sample rate validation for 44.1 kHz and 48 kHz and a default playback mode stub.
+// ---
+
 #include "remoting/host/audio_capturer.h"
 
 #include "base/notimplemented.h"

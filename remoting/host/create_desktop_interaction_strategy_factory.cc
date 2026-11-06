@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop interaction strategy factory implementation
+// summary: Creates a platform-appropriate desktop interaction strategy, selecting GNOME, portal or legacy implementations on Linux.
+// ---
+
 #include "remoting/host/create_desktop_interaction_strategy_factory.h"
 
 #include <memory>

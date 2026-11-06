@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mouse shape pump implementation
+// summary: Implements MouseShapePump, which captures mouse cursor shapes and positions and sends them to the client via a CursorShapeStub.
+// ---
+
 #include "remoting/host/mouse_shape_pump.h"
 
 #include <stdint.h>

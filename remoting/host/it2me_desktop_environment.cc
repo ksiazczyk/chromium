@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: It2Me desktop environment implementation
+// summary: Implements the It2Me desktop environment with local input monitoring, continue and disconnect windows, and curtain mode initialization.
+// ---
+
 #include "remoting/host/it2me_desktop_environment.h"
 
 #include <memory>

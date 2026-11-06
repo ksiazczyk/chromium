@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ClientSession unit tests
+// summary: Unit tests for the host ClientSession class, covering session creation, authentication, policy handling, and disconnection with mock peer sessions.
+// ---
+
 #include "remoting/host/client_session.h"
 
 #include <memory>

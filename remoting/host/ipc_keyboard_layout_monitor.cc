@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IpcKeyboardLayoutMonitor implementation
+// summary: Implements keyboard layout monitoring for the host session by forwarding layout change callbacks through the desktop session proxy.
+// ---
+
 #include "remoting/host/ipc_keyboard_layout_monitor.h"
 
 #include <utility>

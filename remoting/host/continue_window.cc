@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Continue window shared logic
+// summary: Implements the shared ContinueWindow behavior that pauses remote input, prompts the local user, and disconnects sessions on timeout.
+// ---
+
 #include "remoting/host/continue_window.h"
 
 #include "base/location.h"

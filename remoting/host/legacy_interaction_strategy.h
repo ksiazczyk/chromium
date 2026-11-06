@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Legacy desktop interaction strategy header
+// summary: Declares the transitional LegacyInteractionStrategy and its factory that mirror the previous desktop environment logic.
+// ---
+
 #ifndef REMOTING_HOST_LEGACY_INTERACTION_STRATEGY_H_
 #define REMOTING_HOST_LEGACY_INTERACTION_STRATEGY_H_
 

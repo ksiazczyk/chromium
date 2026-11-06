@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux GTK continue window implementation
+// summary: Linux implementation of ContinueWindow showing a GTK dialog that stays above fullscreen applications while the session is paused.
+// ---
+
 #include "remoting/host/continue_window.h"
 
 #include <gtk/gtk.h>

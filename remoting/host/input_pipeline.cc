@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputPipeline implementation
+// summary: Implements InputPipeline, forwarding remote input events through the chained filters before they reach the host input stub.
+// ---
+
 #include "remoting/host/input_pipeline.h"
 
 #include "base/functional/bind.h"

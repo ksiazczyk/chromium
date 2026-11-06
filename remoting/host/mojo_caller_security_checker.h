@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo caller security checker header
+// summary: Declares IsTrustedMojoEndpoint, which reports whether the process behind a Mojo connection is a trusted endpoint.
+// ---
+
 #ifndef REMOTING_HOST_MOJO_CALLER_SECURITY_CHECKER_H_
 #define REMOTING_HOST_MOJO_CALLER_SECURITY_CHECKER_H_
 

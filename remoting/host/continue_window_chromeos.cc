@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS continue window implementation
+// summary: ChromeOS implementation of ContinueWindow that shows a message box asking whether to continue or stop sharing the session.
+// ---
+
 #include "remoting/host/continue_window.h"
 
 #include <memory>

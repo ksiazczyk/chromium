@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Host config unit tests
+// summary: Tests reading and writing host configuration files, including handling of invalid files and legacy deprecated config keys.
+// ---
+
 #include "remoting/host/host_config.h"
 
 #include <optional>

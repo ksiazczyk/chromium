@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS keyboard layout monitor
+// summary: ChromeOS implementation of KeyboardLayoutMonitor that queries the input method manager and reports keyboard layout changes via callback.
+// ---
+
 #include "remoting/host/keyboard_layout_monitor.h"
 
 #include <array>

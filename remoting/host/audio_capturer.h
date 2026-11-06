@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio capturer interface
+// summary: Declares the AudioCapturer audio source interface with platform support checks, creation, and audio playback mode control.
+// ---
+
 #ifndef REMOTING_HOST_AUDIO_CAPTURER_H_
 #define REMOTING_HOST_AUDIO_CAPTURER_H_
 

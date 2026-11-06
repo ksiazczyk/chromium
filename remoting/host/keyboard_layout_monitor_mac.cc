@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac keyboard layout monitor implementation
+// summary: Monitors macOS keyboard input source changes via the distributed notification center and reports the layout through a callback.
+// ---
+
 #include "remoting/host/keyboard_layout_monitor.h"
 
 #include <Carbon/Carbon.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CorpRegisterSupportHostRequest header
+// summary: Declares CorpRegisterSupportHostRequest, the corp implementation of RegisterSupportHostRequestBase for registering remote support hosts.
+// ---
+
 #ifndef REMOTING_HOST_CORP_REGISTER_SUPPORT_HOST_REQUEST_H_
 #define REMOTING_HOST_CORP_REGISTER_SUPPORT_HOST_REQUEST_H_
 

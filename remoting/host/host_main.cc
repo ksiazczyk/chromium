@@ -5,6 +5,12 @@
 // This file implements the common entry point shared by all Chromoting Host
 // processes.
 
+// ---docerion
+// type: source
+// title: Chromoting host common entry point
+// summary: Implements the common entry point shared by all Chromoting Host processes, dispatching by process type.
+// ---
+
 #include "remoting/host/host_main.h"
 
 #include <string>

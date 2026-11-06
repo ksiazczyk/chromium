@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows native messaging host process launcher
+// summary: Launches the native messaging host on Windows using secured named pipes and optional process elevation.
+// ---
+
 #include "remoting/host/launch_native_messaging_host_process.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Agent integration control message handler declaration
+// summary: Declares the handler for the agent-integration-control data channel that processes agent integration query and set state requests.
+// ---
+
 #ifndef REMOTING_HOST_AGENT_INTEGRATION_CONTROL_MESSAGE_HANDLER_H_
 #define REMOTING_HOST_AGENT_INTEGRATION_CONTROL_MESSAGE_HANDLER_H_
 

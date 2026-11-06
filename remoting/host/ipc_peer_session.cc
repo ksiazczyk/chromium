@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IpcPeerSession implementation
+// summary: Implements a PeerSession proxy that communicates with the remote PeerSessionImpl in the dedicated peer connection process over Mojo IPC.
+// ---
+
 #include "remoting/host/ipc_peer_session.h"
 
 #include <utility>

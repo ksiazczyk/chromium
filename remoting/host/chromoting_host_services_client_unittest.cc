@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chromoting host services client unit tests
+// summary: Unit tests for ChromotingHostServicesClient covering session services binding and Chrome Remote Desktop session environment detection.
+// ---
+
 #include "remoting/host/chromoting_host_services_client.h"
 
 #include <memory>
