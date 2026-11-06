@@ -1,0 +1,4 @@
+# Docerion header of tryserver.chromium.tricium.star.
+type: ci
+title: Tricium builder definitions for Chromium
+summary: Defines the Tricium builders for Chromium, including the clang-tidy orchestrator and per-platform clang-tidy sub-builders that report findings on Gerrit CLs.

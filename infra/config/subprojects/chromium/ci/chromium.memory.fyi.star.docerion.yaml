@@ -1,0 +1,4 @@
+# Docerion header of chromium.memory.fyi.star.
+type: ci
+title: Chromium memory FYI CI builder definitions
+summary: Starlark definitions of LUCI builders for the chromium.memory.fyi builder group, running scheduled sanitizer experiments such as LSan and UBSan on Mac.

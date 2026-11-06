@@ -1,0 +1,4 @@
+# Docerion header of milestones_integration_test.py.
+type: test
+title: Integration tests for milestones.py activate and deactivate
+summary: Runs milestones.py as a subprocess to verify activate and deactivate rewrite milestones.json and fail on missing, duplicate or inactive milestones.

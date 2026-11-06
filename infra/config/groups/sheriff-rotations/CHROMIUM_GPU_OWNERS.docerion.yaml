@@ -1,0 +1,4 @@
+# Docerion header of CHROMIUM_GPU_OWNERS.
+type: config
+title: Chromium GPU sheriff rotation owners
+summary: Points to infra/config/groups/gpu/OWNERS to reuse the GPU owners list for the Chromium GPU sheriff rotation.

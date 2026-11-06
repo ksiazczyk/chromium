@@ -1,0 +1,4 @@
+# Docerion header of CFT_OWNERS.
+type: config
+title: CFT sheriff rotation owners
+summary: Lists CFT team members by chromium.org and google.com address as owners for the CFT sheriff rotation.

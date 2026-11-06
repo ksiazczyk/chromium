@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Presubmit checks for LUCI configs
+# summary: Runs presubmit checks that keep generated LUCI configs, Milo consoles, buildbot configs, pyl files and outage footers consistent.
+# ---
+
 """Enforces luci-milo.cfg consistency.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

@@ -1,0 +1,4 @@
+# Docerion header of CRONET_OWNERS.
+type: config
+title: Cronet sheriff rotation owners
+summary: Points to components/cronet/OWNERS to reuse that owners list for the Cronet sheriff rotation.

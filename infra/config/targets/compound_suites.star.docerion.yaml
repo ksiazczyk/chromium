@@ -1,0 +1,4 @@
+# Docerion header of compound_suites.star.
+type: config
+title: Compound suite declarations
+summary: Defines compound suites that collect basic suites into larger suites that builders can reference in waterfalls.pyl.

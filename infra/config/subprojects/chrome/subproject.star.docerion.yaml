@@ -1,0 +1,4 @@
+# Docerion header of subproject.star.
+type: config
+title: Chrome subproject Starlark entry point
+summary: Starlark config that loads the Chrome subproject's trybot definitions by executing try.star

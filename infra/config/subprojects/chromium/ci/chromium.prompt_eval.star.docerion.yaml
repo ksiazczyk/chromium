@@ -1,0 +1,4 @@
+# Docerion header of chromium.prompt_eval.star.
+type: ci
+title: Chromium prompt eval CI builder definitions
+summary: Starlark definitions of LUCI builders for the chromium.prompt_eval builder group, running agent prompt evaluations on Linux.

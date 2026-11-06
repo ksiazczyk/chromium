@@ -1,0 +1,4 @@
+# Docerion header of chromium.webrtc.star.
+type: ci
+title: Chromium WebRTC LUCI console view
+summary: Defines the chromium.webrtc LUCI console view for the Chromium src repo, grouping WebRTC Chromium builder and tester entries per platform.

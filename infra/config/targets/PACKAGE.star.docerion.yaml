@@ -1,0 +1,4 @@
+# Docerion header of PACKAGE.star.
+type: config
+title: Package declaration for the chromium-targets library
+summary: Declares the @chromium-targets lucicfg package, sets declarations.star as entrypoint and pins the @chromium-luci dependency.

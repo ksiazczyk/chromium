@@ -1,0 +1,4 @@
+# Docerion header of chromium.chromiumos.star.
+type: ci
+title: Chromium ChromiumOS CI builder definitions
+summary: Defines LUCI CI builders for the chromium.chromiumos group, covering ChromeOS compile and test configurations with console views, tree closing and retry settings.

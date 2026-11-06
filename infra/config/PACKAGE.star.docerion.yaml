@@ -1,0 +1,4 @@
+# Docerion header of PACKAGE.star.
+type: config
+title: lucicfg package declaration for chromium
+summary: Declares the lucicfg package for the chromium project, including entrypoints, lint checks, dependencies and packaged resources.

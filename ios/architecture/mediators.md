@@ -1,3 +1,11 @@
+---
+type: reference
+title: Mediators
+summary: Architecture document describing the mediator pattern for decoupling the model layer from the UI via consumer and mutator protocols, including initialization and teardown.
+relations:
+  - references /ios/architecture/coordinators.md
+---
+
 # Mediators
 
 > **Core Principle:** To **encapsulate** the business logic that controls the

@@ -1,0 +1,4 @@
+# Docerion header of variants.star.
+type: config
+title: Variant declarations
+summary: Declares variants that expand tests within matrix compound suites into multiple instances with variant-specific arguments and skylab settings.

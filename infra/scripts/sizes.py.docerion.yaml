@@ -1,0 +1,4 @@
+# Docerion header of sizes.py.
+type: script
+title: Chrome binary size reporting script
+summary: Buildbot-executed tool that extracts and reports size information for Chrome builds across platforms, including stripped Linux sizes and chart JSON conversion via Catapult.

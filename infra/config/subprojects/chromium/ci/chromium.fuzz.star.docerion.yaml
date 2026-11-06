@@ -1,0 +1,4 @@
+# Docerion header of chromium.fuzz.star.
+type: ci
+title: Chromium fuzzing CI builder definitions
+summary: Defines LUCI CI builders for the chromium.fuzz group, organizing blackbox and coverage-guided fuzzing builders by OS, sanitizer and engine in console views.

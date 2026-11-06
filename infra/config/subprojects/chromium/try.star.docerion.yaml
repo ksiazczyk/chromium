@@ -1,0 +1,4 @@
+# Docerion header of try.star.
+type: ci
+title: Try bucket and pre-submit builders
+summary: Sets up the try bucket with ACLs, shadow bucket and defaults for pre-submit testing, including triggering access for related projects.

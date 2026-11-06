@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the webrtc subproject
+summary: Lists the owners of the webrtc subproject configuration, including dedicated owners for iOS-specific issues.

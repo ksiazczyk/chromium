@@ -1,0 +1,4 @@
+# Docerion header of gpu.star.
+type: config
+title: GPU builder constants and location filters
+summary: Provides GPU builder service accounts, tree closing notifiers and per-platform CQ location filters used to trigger optional GPU trybots.

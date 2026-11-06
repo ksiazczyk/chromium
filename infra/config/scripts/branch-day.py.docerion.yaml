@@ -1,0 +1,4 @@
+# Docerion header of branch-day.py.
+type: script
+title: Branch day automation script
+summary: Orchestrates milestones.py and branch.py to update project settings and regenerate configs on Chromium branch day.

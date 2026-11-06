@@ -1,0 +1,4 @@
+# Docerion header of main.star.
+type: script
+title: lucicfg entrypoint for Chromium LUCI configuration
+summary: Entrypoint script that generates the Chromium LUCI project configuration, including tracked files, ACLs, and emitted service configs.

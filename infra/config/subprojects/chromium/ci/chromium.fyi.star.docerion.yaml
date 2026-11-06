@@ -1,0 +1,4 @@
+# Docerion header of chromium.fyi.star.
+type: ci
+title: Chromium FYI CI builder definitions
+summary: Defines LUCI FYI CI builders for the chromium.fyi group covering coverage, cronet, Mac, deterministic, Fuchsia, ChromeOS, iOS and other experimental categories.

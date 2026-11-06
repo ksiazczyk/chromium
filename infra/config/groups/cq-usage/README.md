@@ -1,3 +1,9 @@
+---
+type: readme
+title: CQ usage owners
+summary: Explains why CQ usage ownership is restricted and when secondary owners may approve lower-risk changes.
+---
+
 # CQ usage owners
 
 These files control the ownership for what gets run on the CQ for chromium.

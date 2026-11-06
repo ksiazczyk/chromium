@@ -1,0 +1,4 @@
+# Docerion header of ci.star.
+type: ci
+title: Chromium dev CI bucket and builder definitions
+summary: Defines the LUCI ci bucket, gitiles poller, builder defaults and CI builders for the Chromium dev subproject.

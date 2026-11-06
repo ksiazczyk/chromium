@@ -1,0 +1,4 @@
+# Docerion header of chromium.swangle.star.
+type: ci
+title: Chromium SwANGLE CI builder definitions
+summary: Starlark definitions of LUCI builders and console views for the chromium.swangle builder group, testing Chromium with tip-of-tree ANGLE and SwiftShader.

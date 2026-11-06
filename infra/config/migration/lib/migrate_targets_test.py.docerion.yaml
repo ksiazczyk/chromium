@@ -1,0 +1,4 @@
+# Docerion header of migrate_targets_test.py.
+type: test
+title: Unit tests for waterfalls.pyl target migration
+summary: Covers waterfall processing success and error cases such as missing builders and unhandled configuration keys.

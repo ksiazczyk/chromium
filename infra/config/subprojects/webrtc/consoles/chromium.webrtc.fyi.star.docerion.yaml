@@ -1,0 +1,4 @@
+# Docerion header of chromium.webrtc.fyi.star.
+type: ci
+title: Chromium WebRTC FYI LUCI console view
+summary: Defines the chromium.webrtc.fyi LUCI console view listing WebRTC Chromium FYI builder and tester entries for Android, Linux, Mac, Windows and iOS.

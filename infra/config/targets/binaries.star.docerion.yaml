@@ -1,0 +1,4 @@
+# Docerion header of binaries.star.
+type: config
+title: Binary declarations for test executables
+summary: Maps test binary names to the GN labels that build them and records details the infrastructure needs to run each binary.

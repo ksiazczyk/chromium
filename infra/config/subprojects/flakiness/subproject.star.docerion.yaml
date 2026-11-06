@@ -1,0 +1,4 @@
+# Docerion header of subproject.star.
+type: config
+title: Flakiness subproject entry point
+summary: Starlark entry point for the flakiness subproject that loads the reproducer.star configuration.

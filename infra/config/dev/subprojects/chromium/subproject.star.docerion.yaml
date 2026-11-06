@@ -1,0 +1,4 @@
+# Docerion header of subproject.star.
+type: ci
+title: Chromium subproject config entry point
+summary: Entry point that loads the ci, try and console configuration files for the Chromium dev subproject.

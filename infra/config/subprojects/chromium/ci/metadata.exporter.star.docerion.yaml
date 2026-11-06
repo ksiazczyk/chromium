@@ -1,0 +1,4 @@
+# Docerion header of metadata.exporter.star.
+type: ci
+title: Metadata exporter CI builder definitions
+summary: Starlark definition of the metadata-exporter builder, which exports DIR_METADATA information from Chromium to Google Storage and BigQuery.

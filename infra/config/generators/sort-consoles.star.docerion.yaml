@@ -1,0 +1,4 @@
+# Docerion header of sort-consoles.star.
+type: source
+title: Milo console sorting generator
+summary: Lucicfg generator that sorts luci-milo.cfg consoles so overview consoles appear at the top of the console list.

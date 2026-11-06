@@ -1,0 +1,4 @@
+# Docerion header of milestones.py.
+type: script
+title: Chromium milestone activation script
+summary: Activates or deactivates Chromium release milestones by editing milestones.json.

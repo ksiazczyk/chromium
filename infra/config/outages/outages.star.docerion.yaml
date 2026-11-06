@@ -1,0 +1,4 @@
+# Docerion header of outages.star.
+type: script
+title: Outages lucicfg generators
+summary: Implements lucicfg generators that write outages.pyl and disable experimental chromium CQ tryjobs when the outages configuration is enabled.

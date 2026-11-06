@@ -1,0 +1,4 @@
+# Docerion header of branch_day_unit_test.py.
+type: test
+title: Branch-day.py tests with mocked binaries
+summary: Runs branch-day.py as a subprocess against mocked milestones, branch and star binaries to verify its command invocations and failure handling.

@@ -1,0 +1,4 @@
+# Docerion header of android-desktop-x64-archive-rel.json.
+type: config
+title: Android desktop x64 archive configuration
+summary: Configures archiving of Android desktop x64 APKs to the AndroidDesktop_x64 path in the chromium-browser-snapshots GCS bucket.

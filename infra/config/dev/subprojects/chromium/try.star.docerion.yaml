@@ -1,0 +1,4 @@
+# Docerion header of try.star.
+type: ci
+title: Chromium tryjob realm definition
+summary: Defines the LUCI try realm with reader bindings for tryjob data in the Chromium dev subproject.

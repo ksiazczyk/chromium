@@ -1,0 +1,4 @@
+# Docerion header of subproject.star.
+type: config
+title: Findit subproject entry point
+summary: Starlark entry point that loads the findit.star LUCI configuration for the subproject.

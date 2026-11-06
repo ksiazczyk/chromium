@@ -1,0 +1,4 @@
+# Docerion header of settings.json.
+type: config
+title: Chromium project settings
+summary: JSON settings naming the Chromium LUCI project, its title, main ref, and corresponding Chrome project.

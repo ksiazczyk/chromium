@@ -1,0 +1,4 @@
+# Docerion header of starlark_conversions_test.py.
+type: test
+title: Tests for pyl to starlark value conversion
+summary: Unit tests for converting pyl values to starlark, covering direct values, argument magic substitutions, and resultdb and swarming conversions.

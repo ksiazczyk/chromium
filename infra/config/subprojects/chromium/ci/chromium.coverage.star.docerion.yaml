@@ -1,0 +1,4 @@
+# Docerion header of chromium.coverage.star.
+type: ci
+title: Chromium code coverage CI builder definitions
+summary: Defines LUCI code coverage CI builders for Chromium, including nightly and fuzz coverage builders triggered by daily gitiles pollers.

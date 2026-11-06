@@ -1,3 +1,9 @@
+<!--docerion
+type: asset
+title: Coordinator object graph diagram
+summary: SVG diagram showing how the model layer, dispatcher, mediator, coordinator, view controller, and views connect through ownership, provisioning, and protocol interactions.
+-->
+
 <svg width="600" height="380" viewBox="0 0 600 380" xmlns="http://www.w3.org/2000/svg" font-family="monospace">
   <rect width="600" height="380" fill="#ffffff" />
   <defs>

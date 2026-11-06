@@ -1,0 +1,4 @@
+# Docerion header of builder-group-triggers.star.
+type: source
+title: Builder group trigger validator
+summary: Lucicfg validator that fails when a builder triggers a builder in a different builder group, allowing a list of legacy cross-group triggers.

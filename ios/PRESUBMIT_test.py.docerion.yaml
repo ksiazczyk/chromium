@@ -1,0 +1,4 @@
+# Docerion header of PRESUBMIT_test.py.
+type: test
+title: Tests for iOS PRESUBMIT checks
+summary: 'Unit tests verifying the iOS presubmit checks, such as TODO bug reference formatting and the ban on #include directives in Objective-C sources.'

@@ -1,0 +1,4 @@
+# Docerion header of tryserver.chromium.dawn.star.
+type: ci
+title: tryserver.chromium.dawn try builder definitions
+summary: Defines Dawn and WebGPU try builders with GPU location filters and limited concurrency due to scarce GPU hardware.

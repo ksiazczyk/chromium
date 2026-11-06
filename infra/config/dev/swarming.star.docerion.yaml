@@ -1,0 +1,4 @@
+# Docerion header of swarming.star.
+type: config
+title: Chromium dev Swarming pool permissions
+summary: Starlark configuration granting permissions for the Chromium dev and staging Swarming pools, task accounts, pool realms, and task triggerers.

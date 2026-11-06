@@ -1,0 +1,4 @@
+# Docerion header of linux-default.json.
+type: config
+title: Empty Linux default settings
+summary: Empty JSON placeholder that presumably mirrors the Windows defaults file for Linux builder settings.

@@ -1,0 +1,4 @@
+# Docerion header of chromium.android.desktop.fyi.star.
+type: ci
+title: Android desktop FYI CI builder definitions
+summary: Defines FYI CI builders for the chromium.android.desktop.fyi group running Android desktop x64 release tests on Android 15 emulators.

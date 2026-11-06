@@ -1,0 +1,4 @@
+# Docerion header of notifiers.star.
+type: script
+title: LUCI notifier and tree closer definitions
+summary: Starlark definitions of LUCI notifiers and tree closers that alert teams and close trees on builder failures.

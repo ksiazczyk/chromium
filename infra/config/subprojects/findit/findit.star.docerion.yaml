@@ -1,0 +1,4 @@
+# Docerion header of findit.star.
+type: config
+title: Findit LUCI configuration
+summary: Defines the LUCI buckets, consoles, swarming pool, defaults and builders used by the Sheriff-o-Matic findit service.

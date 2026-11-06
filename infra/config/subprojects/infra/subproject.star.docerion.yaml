@@ -1,0 +1,4 @@
+# Docerion header of subproject.star.
+type: ci
+title: Infra bucket builder definitions
+summary: Starlark configuration defining the Chromium infra LUCI bucket, its ACLs, console view, and builders such as the autosharder and its test try builder.

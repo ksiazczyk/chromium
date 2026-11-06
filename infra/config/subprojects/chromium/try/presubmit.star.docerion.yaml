@@ -1,0 +1,4 @@
+# Docerion header of presubmit.star.
+type: ci
+title: Presubmit try builders for infra/config
+summary: Defines presubmit try builders such as branch-config-verifier and reclient-config-deployment-verifier that validate infra/config and related changes.

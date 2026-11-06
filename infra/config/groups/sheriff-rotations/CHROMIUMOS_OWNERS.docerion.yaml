@@ -1,0 +1,4 @@
+# Docerion header of CHROMIUMOS_OWNERS.
+type: config
+title: Chromium OS sheriff rotation owners
+summary: Lists the chromium.org email addresses serving as owners for the Chromium OS sheriff rotation.

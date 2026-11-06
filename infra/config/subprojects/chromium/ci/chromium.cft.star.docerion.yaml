@@ -1,0 +1,4 @@
+# Docerion header of chromium.cft.star.
+type: ci
+title: Chrome for Testing CI builder definitions
+summary: Defines CI builders for the chromium.cft group that build and test Chrome for Testing releases on Mac and other platforms.

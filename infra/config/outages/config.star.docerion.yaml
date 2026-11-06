@@ -1,0 +1,4 @@
+# Docerion header of config.star.
+type: config
+title: Outages configuration values
+summary: Defines the outages configuration struct and its current values, including the disable_cq_experiments option, plus the default config used by generators for comparison.

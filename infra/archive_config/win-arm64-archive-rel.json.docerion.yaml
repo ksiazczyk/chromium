@@ -1,0 +1,4 @@
+# Docerion header of win-arm64-archive-rel.json.
+type: config
+title: Windows ARM64 release archive configuration
+summary: Defines the file lists, ZIP archives and GCS upload paths for Windows ARM64 release Chromium snapshots, covering chrome-win, debug symbols, chromedriver and content shell packages.

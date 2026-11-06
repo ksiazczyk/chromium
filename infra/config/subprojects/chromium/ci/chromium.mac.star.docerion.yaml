@@ -1,0 +1,4 @@
+# Docerion header of chromium.mac.star.
+type: ci
+title: Chromium Mac CI builder definitions
+summary: Starlark definitions of LUCI builders and console views for the chromium.mac builder group, covering Mac and iOS builds and tests.

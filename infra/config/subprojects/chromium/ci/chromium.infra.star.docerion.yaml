@@ -1,0 +1,4 @@
+# Docerion header of chromium.infra.star.
+type: ci
+title: Chromium infra CI builder definitions
+summary: Starlark definitions of LUCI builders and console views for the chromium.infra builder group, including 3PP packagers and Android autoroll monitoring.

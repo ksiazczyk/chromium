@@ -1,0 +1,4 @@
+# Docerion header of win-archive-rel.json.
+type: config
+title: Windows x64 archive configuration
+summary: Configures archiving of Windows x64 builds, including Chrome binaries, PDB symbol archives, chromedriver and content shell, to the chromium-browser-snapshots GCS bucket.

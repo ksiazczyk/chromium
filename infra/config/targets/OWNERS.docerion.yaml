@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the targets definitions directory
+summary: Grants open ownership of the directory and explains why generated pyl and json output files are not owner-controlled.

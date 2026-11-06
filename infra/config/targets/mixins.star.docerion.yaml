@@ -1,0 +1,4 @@
+# Docerion header of mixins.star.
+type: config
+title: Mixin declarations
+summary: Defines reusable mixins that apply common properties to tests, including generated Android emulator mixins and swarming or ResultDB settings.

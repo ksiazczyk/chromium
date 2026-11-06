@@ -1,3 +1,9 @@
+---
+type: readme
+title: Subprojects LUCI configuration README
+summary: Explains the chromium LUCI subprojects (chromium, codesearch, findit, reclient, webrtc) and that each subproject.star is the entry point for its configuration.
+---
+
 Definitions of LUCI entities for the chromium project.
 
 The following subprojects exist:

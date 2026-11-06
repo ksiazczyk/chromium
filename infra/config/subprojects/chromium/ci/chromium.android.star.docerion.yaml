@@ -1,0 +1,4 @@
+# Docerion header of chromium.android.star.
+type: ci
+title: Android CI builder definitions
+summary: Defines the main chromium.android CI builders that compile and test Chromium for Android across ARM, ARM64, x86 and x64 configurations.

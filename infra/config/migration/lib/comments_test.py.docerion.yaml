@@ -1,0 +1,4 @@
+# Docerion header of comments_test.py.
+type: test
+title: Unit tests for comment attachment helpers
+summary: Verifies that comments from pyl values are attached to converted values and omitted when none are present.

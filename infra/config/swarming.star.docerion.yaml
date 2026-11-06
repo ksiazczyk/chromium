@@ -1,0 +1,4 @@
+# Docerion header of swarming.star.
+type: config
+title: Swarming pool permissions for Chromium CI and try builds
+summary: Defines permissions, task accounts and pool realms for Chromium's main Swarming pools shared by CI, try and isolated test tasks.

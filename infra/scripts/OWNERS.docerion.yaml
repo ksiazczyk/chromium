@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the infra scripts directory
+summary: Lists the Chromium developers responsible for reviewing changes to the infra/scripts directory.

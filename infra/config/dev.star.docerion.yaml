@@ -1,0 +1,4 @@
+# Docerion header of dev.star.
+type: config
+title: Dev instance LUCI config entrypoint
+summary: Lucicfg entrypoint that generates the dev-instance LUCI configuration files, including builder settings and copied service configs.

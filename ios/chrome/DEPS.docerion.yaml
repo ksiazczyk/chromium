@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for ios/chrome
+summary: Defines the allowed include rules for the ios/chrome directory, permitting crypto, net, ui and skia headers while blocking web_view-only and test fakes.

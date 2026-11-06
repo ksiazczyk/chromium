@@ -1,0 +1,4 @@
+# Docerion header of android-archive-rel.json.
+type: config
+title: Android archive configuration
+summary: Defines which Android APKs the android-archive-rel builder archives and uploads to the chromium-browser-snapshots GCS bucket under the Android path.

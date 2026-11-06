@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Build directory discovery helpers
+# summary: Python helpers that locate the Chromium build output directory per platform, including Chrome OS boards, and compare generated ninja and Xcode file timestamps.
+# ---
+
 """Functions for discovering and clearing the build directory."""
 
 import os

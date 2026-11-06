@@ -1,3 +1,13 @@
+---
+type: readme
+title: Tools for migrating to starlark
+summary: Instructions for migrating builder test configurations from //testing/buildbot to starlark using the migration scripts and buildozer, including troubleshooting of common failures.
+relations:
+  - documents /infra/config/migration/migrate-targets.py
+  - references /testing/buildbot/waterfalls.pyl
+  - references /testing/buildbot/test_suite_exceptions.pyl
+---
+
 # Tools for migrating to starlark
 
 This directory contains tools for migrating configuration to starlark from other

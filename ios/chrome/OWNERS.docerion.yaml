@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for ios/chrome
+summary: Lists the owners of the ios/chrome directory and assigns translation artifact files to the translation owners.

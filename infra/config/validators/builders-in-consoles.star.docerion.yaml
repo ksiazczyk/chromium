@@ -1,0 +1,4 @@
+# Docerion header of builders-in-consoles.star.
+type: source
+title: Builders-in-console validator
+summary: Lucicfg validator that fails when a Swarming builder is not listed in any Milo console.

@@ -1,0 +1,4 @@
+# Docerion header of chromium.clang.star.
+type: ci
+title: Chromium Clang CI builder definitions
+summary: Defines LUCI CI builders for the chromium.clang group that build Chromium with top-of-tree Clang across Linux, Android, Mac, Windows and iOS console categories.

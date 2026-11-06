@@ -1,0 +1,4 @@
+# Docerion header of autoshard_exceptions.json.
+type: data
+title: Autoshard exception shard counts
+summary: Lists per-test shard count exceptions used by the Chromium autosharder for CI and try builders across platforms.

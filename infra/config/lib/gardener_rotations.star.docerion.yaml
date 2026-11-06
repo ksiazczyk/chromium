@@ -1,0 +1,4 @@
+# Docerion header of gardener_rotations.star.
+type: config
+title: Gardener rotation definitions
+summary: Defines the gardener rotations that builders can join, mapping rotation names to their tree closer groups.

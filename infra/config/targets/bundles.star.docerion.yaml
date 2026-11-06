@@ -1,0 +1,4 @@
+# Docerion header of bundles.star.
+type: config
+title: Bundle declarations for test groupings
+summary: Declares bundles that group tests and compile targets for builders that set their tests in Starlark.

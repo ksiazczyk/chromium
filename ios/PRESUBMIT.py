@@ -1,6 +1,13 @@
 # Copyright 2017 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: ci
+# title: Presubmit checks for iOS changes
+# summary: Runs style and consistency checks on iOS code changes, covering nullability annotations, TODO bug references, and other rules.
+# ---
+
 """Presubmit script for ios.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

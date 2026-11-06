@@ -1,0 +1,4 @@
+# Docerion header of extension_repack.gni.
+type: config
+title: GN template for repacking extension locale resources
+summary: Defines the extension_repack_all_locales GN template that packs localized string resources for a Chrome application extension.

@@ -1,0 +1,4 @@
+# Docerion header of pyl_test.py.
+type: test
+title: Tests for the pyl parser
+summary: Unit tests covering token stream handling, parse error messages, constant and container parsing, and comment preservation in the pyl parser.

@@ -1,0 +1,4 @@
+# Docerion header of convert_pyls.py.
+type: source
+title: Converter from gn_isolate_map.pyl to Starlark targets
+summary: Converts gn_isolate_map.pyl isolates into binaries.star and compile_targets.star declarations, preserving comments.

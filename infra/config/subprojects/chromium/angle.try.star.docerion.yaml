@@ -1,0 +1,4 @@
+# Docerion header of angle.try.star.
+type: ci
+title: ANGLE try builder definitions
+summary: Defines LUCI try builders for ANGLE testing in the tryserver.chromium.angle group, including iOS and macOS builders mirroring CI builders.

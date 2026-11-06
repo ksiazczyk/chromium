@@ -1,0 +1,4 @@
+# Docerion header of build_with_step_summary.template.
+type: config
+title: Build status summary notification template
+summary: Go template that renders a build completion summary with builder, status, timestamps, and a table of unsuccessful steps for notifications.

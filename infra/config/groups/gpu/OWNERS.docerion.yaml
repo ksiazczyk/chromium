@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: GPU config group OWNERS
+summary: Lists the owners (bsheedy@chromium.org and ynovikov@chromium.org) responsible for the gpu configuration group.

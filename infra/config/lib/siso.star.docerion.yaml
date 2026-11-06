@@ -1,0 +1,4 @@
+# Docerion header of siso.star.
+type: config
+title: Siso RBE project and job constants
+summary: Defines the Siso remote execution projects and default remote job counts for CI and CQ builds.

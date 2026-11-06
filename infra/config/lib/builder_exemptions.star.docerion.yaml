@@ -1,0 +1,4 @@
+# Docerion header of builder_exemptions.star.
+type: config
+title: Legacy builder exemption lists
+summary: Lists CI and try builders exempted from newer restrictions such as contact_team_email, and is intended to shrink over time rather than grow.

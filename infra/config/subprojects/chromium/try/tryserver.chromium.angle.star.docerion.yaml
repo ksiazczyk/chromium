@@ -1,0 +1,4 @@
+# Docerion header of tryserver.chromium.angle.star.
+type: ci
+title: tryserver.chromium.angle try builder definitions
+summary: Defines rate-limited ANGLE try builders that build and test ANGLE from ToT against known-good Chromium revisions across platforms.

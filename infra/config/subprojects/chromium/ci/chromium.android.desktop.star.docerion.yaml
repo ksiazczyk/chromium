@@ -1,0 +1,4 @@
+# Docerion header of chromium.android.desktop.star.
+type: ci
+title: Android desktop CI builder definitions
+summary: Defines CI builders for the chromium.android.desktop group covering Android desktop ARM64 and x64 compile and test builders on Android branches.

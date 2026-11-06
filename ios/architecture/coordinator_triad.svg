@@ -1,3 +1,9 @@
+<!--docerion
+type: asset
+title: Coordinator triad diagram
+summary: SVG diagram depicting the division of responsibilities among the mediator, coordinator, and view controller, including ownership and update relationships.
+-->
+
 <svg width="520" height="290" viewBox="0 0 520 290" xmlns="http://www.w3.org/2000/svg" font-family="sans-serif">
   <rect width="520" height="290" fill="#ffffff" />
   <defs>

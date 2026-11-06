@@ -1,0 +1,4 @@
+# Docerion header of CQ_USAGE_OWNERS.
+type: config
+title: CQ usage owners list
+summary: Lists the primary owners who control which builders run on the Chromium CQ, with per-platform contacts for Android and Mac/iOS.

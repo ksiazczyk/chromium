@@ -1,6 +1,13 @@
 # Copyright 2024 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Builders for starlark values
+# summary: Provides call, dict and list value builders that assemble starlark output text, omitting empty builders and supporting comments attached to values.
+# ---
+
 """Utilities for creating starlark values.
 
 The convert_direct function converts python values when the starlark

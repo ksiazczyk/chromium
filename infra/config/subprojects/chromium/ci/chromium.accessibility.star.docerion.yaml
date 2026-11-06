@@ -1,0 +1,4 @@
+# Docerion header of chromium.accessibility.star.
+type: ci
+title: Chromium accessibility CI builder definitions
+summary: Defines CI builders for the chromium.accessibility group that run accessibility tests on Fuchsia and Linux with cr-accessibility notifications.

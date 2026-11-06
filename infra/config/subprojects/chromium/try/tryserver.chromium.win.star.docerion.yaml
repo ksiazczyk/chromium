@@ -1,0 +1,4 @@
+# Docerion header of tryserver.chromium.win.star.
+type: ci
+title: tryserver.chromium.win builder definitions
+summary: Defines the tryserver.chromium.win builder group with Windows try builders for cross builds, sanitizers, clobber release and archive verification.

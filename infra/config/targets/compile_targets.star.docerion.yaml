@@ -1,0 +1,4 @@
+# Docerion header of compile_targets.star.
+type: config
+title: Compile-only target declarations
+summary: Declares compile-only targets that builders can build but not run, usable in additional_compile_targets fields.

@@ -1,0 +1,4 @@
+# Docerion header of gn_args.star.
+type: config
+title: Common GN arg configs for Chromium builders
+summary: Starlark file that defines reusable GN argument configurations, such as Android, ChromeOS, ARM and debug variants, for Chromium builders.

@@ -1,0 +1,4 @@
+# Docerion header of tryserver.chromium.chromiumos.star.
+type: ci
+title: tryserver.chromium.chromiumos try builder definitions
+summary: Defines ChromeOS try builders mirroring CI builders across amd64, arm, and arm64 configurations, including LTS branch selectors.

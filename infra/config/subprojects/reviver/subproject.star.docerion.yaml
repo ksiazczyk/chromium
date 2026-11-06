@@ -1,0 +1,4 @@
+# Docerion header of subproject.star.
+type: config
+title: Test Reviver subproject entry point
+summary: Entry point that executes reviver.star to load the Test Reviver LUCI configuration into the subproject.

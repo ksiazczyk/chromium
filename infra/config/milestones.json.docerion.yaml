@@ -1,0 +1,4 @@
+# Docerion header of milestones.json.
+type: data
+title: Chromium milestone branch mappings
+summary: JSON data mapping Chromium milestone numbers to branch project names and branch-head git refs.

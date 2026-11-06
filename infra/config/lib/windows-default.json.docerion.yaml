@@ -1,0 +1,4 @@
+# Docerion header of windows-default.json.
+type: config
+title: Windows builder OS version defaults
+summary: Maps Windows CI and try builders to the Windows-11 OS image used to run them.

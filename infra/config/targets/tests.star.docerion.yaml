@@ -1,0 +1,4 @@
+# Docerion header of tests.star.
+type: config
+title: Test declarations
+summary: Declares individual test targets, such as gtest and isolated script tests, that suites and bundles can reference for building and execution on builders.

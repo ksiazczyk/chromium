@@ -1,0 +1,4 @@
+# Docerion header of declarations.star.
+type: script
+title: Entrypoint executing all Starlark target files
+summary: Executes every Starlark file in the directory so other lucicfg packages can load the whole package with one exec.

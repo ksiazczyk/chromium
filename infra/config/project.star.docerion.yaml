@@ -1,0 +1,4 @@
+# Docerion header of project.star.
+type: script
+title: Project-wide settings and platform definitions
+summary: Starlark module defining platform names and project settings loaded from settings.json, used to generate project.pyl.

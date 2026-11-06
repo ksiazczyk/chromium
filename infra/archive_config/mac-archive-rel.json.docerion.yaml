@@ -1,0 +1,4 @@
+# Docerion header of mac-archive-rel.json.
+type: config
+title: Mac x64 archive configuration
+summary: Configures archiving of Mac x64 builds, including Chromium.app, chromedriver, content shell, DevTools frontend and updater zips, to the chromium-browser-snapshots GCS bucket.

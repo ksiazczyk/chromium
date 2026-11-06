@@ -1,0 +1,4 @@
+# Docerion header of mock.py.
+type: test
+title: Mock binary for recording invocations in tests
+summary: Mock binary that records its invocations to a JSON file and lets tests control stdout, stderr and exit codes via the INVOCATIONS_FILE and MOCK_DETAILS environment variables.

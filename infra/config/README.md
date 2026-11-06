@@ -1,3 +1,13 @@
+---
+type: readme
+title: Configurations for Chrome Operation services
+summary: Explains the Starlark-based LUCI configuration, how lucicfg generates the cfg files, the Starlark libraries used and VS Code setup.
+relations:
+  - documents /infra/config/dev.star
+  - references /infra/config/generated/luci/cr-buildbucket.cfg
+  - documents /infra/config/main.star
+---
+
 # Configurations for Chrome Operation services
 
 **IMPORTANT:** This branch only has an effect for branches that have projects
