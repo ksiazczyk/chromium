@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the AI thread sync bridge
+// summary: Unit tests covering commit data retrieval, incremental sync changes, and thread behavior of the AI thread sync bridge using in-memory stores and mock processors.
+// ---
+
 #include "components/contextual_tasks/internal/ai_thread_sync_bridge.h"
 
 #include <memory>

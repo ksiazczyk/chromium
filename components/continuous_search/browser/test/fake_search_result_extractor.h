@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake search result extractor class declaration
+// summary: Declares FakeSearchResultExtractor, a test fake of the SearchResultExtractor Mojo interface with methods to set responses and bind requests.
+// ---
+
 #ifndef COMPONENTS_CONTINUOUS_SEARCH_BROWSER_TEST_FAKE_SEARCH_RESULT_EXTRACTOR_H_
 #define COMPONENTS_CONTINUOUS_SEARCH_BROWSER_TEST_FAKE_SEARCH_RESULT_EXTRACTOR_H_
 

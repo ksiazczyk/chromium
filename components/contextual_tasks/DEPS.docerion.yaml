@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Contextual Tasks dependency rules
+summary: DEPS file listing the include rules that define which Chromium components, third-party libraries, and UI modules this component may depend on.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'InputStateBuilder: test-support builder for InputState'
+// summary: Fluent builder that constructs InputState instances for unit tests, including copying an existing state and setting hint text, input types, tools and models.
+// ---
+
 package org.chromium.components.contextual_search;
 
 import org.chromium.build.annotations.NullMarked;

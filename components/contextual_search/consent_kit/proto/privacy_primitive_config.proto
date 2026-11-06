@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy primitive config protobuf definition
+// summary: Defines a standalone wire-compatible PrivacyPrimitiveConfig protobuf carrying flow, product entry point, session, and presentation parameters.
+// ---
+
 syntax = "proto2";
 
 package identity_consent;

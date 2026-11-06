@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input state model header
+// summary: Declares InputStateModel, which manages composebox input state including allowed tools, models, and multimodal inputs.
+// ---
+
 #ifndef COMPONENTS_CONTEXTUAL_SEARCH_INPUT_STATE_MODEL_H_
 #define COMPONENTS_CONTEXTUAL_SEARCH_INPUT_STATE_MODEL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Continuous search renderer config header
+// summary: Declares the Config struct holding platform-specific DOM IDs and classnames for related searches elements, plus GetConfig and SetConfigForTesting.
+// ---
+
 #ifndef COMPONENTS_CONTINUOUS_SEARCH_RENDERER_CONFIG_H_
 #define COMPONENTS_CONTINUOUS_SEARCH_RENDERER_CONFIG_H_
 

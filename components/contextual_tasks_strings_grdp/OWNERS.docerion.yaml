@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for contextual tasks strings screenshots
+summary: Delegates review ownership of this directory to the owners of components/contextual_tasks.

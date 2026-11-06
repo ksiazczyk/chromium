@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI thread sync bridge class declaration
+// summary: Declares the AiThreadSyncBridge class, its observer interface, and thread lookup and deletion methods for the AI thread sync data type.
+// ---
+
 #ifndef COMPONENTS_CONTEXTUAL_TASKS_INTERNAL_AI_THREAD_SYNC_BRIDGE_H_
 #define COMPONENTS_CONTEXTUAL_TASKS_INTERNAL_AI_THREAD_SYNC_BRIDGE_H_
 

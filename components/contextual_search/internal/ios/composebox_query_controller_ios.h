@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS-specific query controller header
+// summary: Declares ComposeboxQueryControllerIOS, a subclass of ComposeboxQueryController that overrides image upload request creation for iOS.
+// ---
+
 #ifndef COMPONENTS_CONTEXTUAL_SEARCH_INTERNAL_IOS_COMPOSEBOX_QUERY_CONTROLLER_IOS_H_
 #define COMPONENTS_CONTEXTUAL_SEARCH_INTERNAL_IOS_COMPOSEBOX_QUERY_CONTROLLER_IOS_H_
 

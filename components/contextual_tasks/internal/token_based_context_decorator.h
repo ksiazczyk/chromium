@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Token-based context decorator class declaration
+// summary: Declares the TokenBasedContextDecorator, a ContextDecorator subclass that decorates contexts using tokens provided by the virtual GetTokensToDecorate hook.
+// ---
+
 #ifndef COMPONENTS_CONTEXTUAL_TASKS_INTERNAL_TOKEN_BASED_CONTEXT_DECORATOR_H_
 #define COMPONENTS_CONTEXTUAL_TASKS_INTERNAL_TOKEN_BASED_CONTEXT_DECORATOR_H_
 

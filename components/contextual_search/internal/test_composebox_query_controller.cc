@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test composebox query controller implementation
+// summary: Implements test doubles such as a fake endpoint fetcher and a test controller that fakes server responses and tracks sent requests.
+// ---
+
 #include "components/contextual_search/internal/test_composebox_query_controller.h"
 
 #include "base/base64.h"

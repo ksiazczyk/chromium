@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock contextual search context controller implementation
+// summary: Provides definitions for the mock contextual search context controller test double.
+// ---
+
 #include "components/contextual_search/mock_contextual_search_context_controller.h"
 
 namespace contextual_search {

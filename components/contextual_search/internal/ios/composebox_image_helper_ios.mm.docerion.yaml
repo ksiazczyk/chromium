@@ -1,0 +1,4 @@
+# Docerion header of composebox_image_helper_ios.mm.
+type: source
+title: Image helper implementation for the iOS composebox
+summary: Resizes a UIImage to the allowed pixel dimensions and encodes it as JPEG into lens::ImageData, adding client logs for downscale and encode steps.

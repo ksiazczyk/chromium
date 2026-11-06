@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Contextual Search component metadata
+summary: Sets the public Buganizer component for the directory and opts the code in to agentic review.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FpopService implementation for Footprints API
+// summary: Implements the FpopService client that fetches and updates My Activity activity control settings and consent status via the Footprints OnePlatform API using OAuth tokens.
+// ---
+
 #include "components/contextual_search/footprints/internal/fpop_service_impl.h"
 
 #include <utility>

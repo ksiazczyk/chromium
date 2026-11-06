@@ -1,3 +1,11 @@
+---
+type: readme
+title: Contextual Search Component
+summary: Describes the component's multimodal contextual search functionality through Google Lens and gives the command to run its tests.
+relations:
+  - references /tools/autotest.py
+---
+
 # Contextual Search Component
 
 ## Overview

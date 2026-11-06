@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search result extractor client header
+// summary: Declares the SearchResultExtractorClient class that requests SRP data from a WebContents main frame and returns validated category results via callback.
+// ---
+
 #ifndef COMPONENTS_CONTINUOUS_SEARCH_BROWSER_SEARCH_RESULT_EXTRACTOR_CLIENT_H_
 #define COMPONENTS_CONTINUOUS_SEARCH_BROWSER_SEARCH_RESULT_EXTRACTOR_CLIENT_H_
 

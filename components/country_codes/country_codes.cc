@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform implementations of GetCurrentCountryID
+// summary: Implements GetCurrentCountryID per platform, using Windows GeoID mapping, Apple CFLocale, Android locale, and POSIX/Fuchsia setlocale to obtain the country code.
+// ---
+
 #include "components/country_codes/country_codes.h"
 
 #include "build/build_config.h"

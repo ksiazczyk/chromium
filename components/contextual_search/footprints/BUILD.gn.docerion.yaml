@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for footprints unit tests
+summary: Defines the unit_tests source_set for the contextual search footprints component, listing the drive disclaimer controller test and its test dependencies.

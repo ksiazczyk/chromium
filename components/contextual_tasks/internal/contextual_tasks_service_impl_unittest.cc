@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the contextual tasks service implementation
+// summary: Unit tests covering task creation, thread syncing, URL and tab association, and observer behavior of the contextual tasks service implementation.
+// ---
+
 #include "components/contextual_tasks/internal/contextual_tasks_service_impl.h"
 
 #include <algorithm>

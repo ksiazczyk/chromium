@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the iOS contextual search sources
+summary: Defines the iOS source_set and unit test targets for the contextual search composebox, listing sources, dependencies and the UIKit framework.

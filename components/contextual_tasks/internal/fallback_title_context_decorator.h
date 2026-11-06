@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fallback title context decorator header
+// summary: Declares FallbackTitleContextDecorator, which enriches contexts with URL-derived fallback titles for untitled attachments.
+// ---
+
 #ifndef COMPONENTS_CONTEXTUAL_TASKS_INTERNAL_FALLBACK_TITLE_CONTEXT_DECORATOR_H_
 #define COMPONENTS_CONTEXTUAL_TASKS_INTERNAL_FALLBACK_TITLE_CONTEXT_DECORATOR_H_
 

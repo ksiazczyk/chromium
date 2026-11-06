@@ -7,6 +7,12 @@
 // following (C++) code, we pack the two letters of the country code into an int
 // value we call the CountryId.
 
+// ---docerion
+// type: source
+// title: CountryId class header for ISO 3166-1 codes
+// summary: Declares the CountryId class packing two-letter ISO 3166-1 codes into an integer with validation, serialization, and the GetCurrentCountryID API.
+// ---
+
 #ifndef COMPONENTS_COUNTRY_CODES_COUNTRY_CODES_H_
 #define COMPONENTS_COUNTRY_CODES_COUNTRY_CODES_H_
 

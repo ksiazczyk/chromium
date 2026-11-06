@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual search metrics recorder unit tests
+// summary: Unit tests verifying the histogram and user action metrics emitted by the metrics recorder.
+// ---
+
 #include "components/contextual_search/contextual_search_metrics_recorder.h"
 
 #include "base/test/metrics/histogram_tester.h"

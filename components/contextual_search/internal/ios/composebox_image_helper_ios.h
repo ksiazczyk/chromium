@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image helper header for the iOS composebox
+// summary: Declares DownscaleAndEncodeImage, which downscales and encodes a UIImage into Lens image data according to the given encoding options.
+// ---
+
 #ifndef COMPONENTS_CONTEXTUAL_SEARCH_INTERNAL_IOS_COMPOSEBOX_IMAGE_HELPER_IOS_H_
 #define COMPONENTS_CONTEXTUAL_SEARCH_INTERNAL_IOS_COMPOSEBOX_IMAGE_HELPER_IOS_H_
 

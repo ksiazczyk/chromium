@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for country_codes
+summary: Defines the GN targets for the country_codes component and its unit tests, including sources, dependencies, and the macOS CoreFoundation framework.

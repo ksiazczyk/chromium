@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Contextual Search component build configuration
+summary: GN build file defining Java, JNI, and C++ source sets for the Contextual Search component, including Android test support targets.

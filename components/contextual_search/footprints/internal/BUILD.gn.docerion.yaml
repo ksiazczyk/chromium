@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for footprints internal FPOP service
+summary: GN build file defining the internal source set for the FpopService implementation and a unit_tests target with their dependencies.

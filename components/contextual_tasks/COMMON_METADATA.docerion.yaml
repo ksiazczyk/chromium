@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Contextual Tasks common metadata
+summary: Common metadata file setting Buganizer component IDs, the team email address, and opting the directory in to agentic code review.

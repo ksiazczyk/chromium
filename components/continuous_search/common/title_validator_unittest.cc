@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Title validator unit tests
+// summary: Unit tests covering trimming, whitespace collapsing, and maximum length behavior of the title validator.
+// ---
+
 #include "components/continuous_search/common/title_validator.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual search session entry unit tests
+// summary: Unit tests verifying that ContextualSearchSessionEntry forwards context upload status change events from the controller to the metrics recorder.
+// ---
+
 #include "components/contextual_search/contextual_search_session_entry.h"
 
 #include <memory>

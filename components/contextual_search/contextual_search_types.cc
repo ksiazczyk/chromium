@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual search shared types implementation
+// summary: Implements shared contextual search types, including terminal upload status checks and FileInfo copy semantics, context ID, and injected input ID accessors.
+// ---
+
 #include "components/contextual_search/contextual_search_types.h"
 
 #include <optional>

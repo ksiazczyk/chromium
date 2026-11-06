@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI thread sync bridge implementation
+// summary: Implements the sync bridge for the AI thread data type, persisting entities in a data type store and notifying observers of remote changes.
+// ---
+
 #include "components/contextual_tasks/internal/ai_thread_sync_bridge.h"
 
 #include "base/functional/callback_helpers.h"

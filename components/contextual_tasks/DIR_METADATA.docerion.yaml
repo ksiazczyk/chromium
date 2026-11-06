@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata mixin reference
+summary: Directory metadata file that applies the common metadata settings from COMMON_METADATA to this folder via a mixin.

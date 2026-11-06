@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Title validator API declarations
+// summary: Declares ValidateTitle and ValidateTitleAscii helpers that sanitize page titles by trimming, collapsing whitespace, and limiting length.
+// ---
+
 #ifndef COMPONENTS_CONTINUOUS_SEARCH_COMMON_TITLE_VALIDATOR_H_
 #define COMPONENTS_CONTINUOUS_SEARCH_COMMON_TITLE_VALIDATOR_H_
 

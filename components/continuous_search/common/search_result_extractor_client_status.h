@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search result extractor client status enum
+// summary: Defines the SearchResultExtractorClientStatus enum of result extraction status codes, generated as a Java enum for Android.
+// ---
+
 #ifndef COMPONENTS_CONTINUOUS_SEARCH_COMMON_SEARCH_RESULT_EXTRACTOR_CLIENT_STATUS_H_
 #define COMPONENTS_CONTINUOUS_SEARCH_COMMON_SEARCH_RESULT_EXTRACTOR_CLIENT_STATUS_H_
 

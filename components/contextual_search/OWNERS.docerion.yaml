@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Contextual Search code owners
+summary: Lists the component owners plus per-file owner rules for input state and Android build files.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini thread sync bridge header
+// summary: Declares GeminiThreadSyncBridge, a syncer::DataTypeSyncBridge for Gemini thread data with an observer interface and thread access and deletion methods.
+// ---
+
 #ifndef COMPONENTS_CONTEXTUAL_TASKS_INTERNAL_GEMINI_THREAD_SYNC_BRIDGE_H_
 #define COMPONENTS_CONTEXTUAL_TASKS_INTERNAL_GEMINI_THREAD_SYNC_BRIDGE_H_
 

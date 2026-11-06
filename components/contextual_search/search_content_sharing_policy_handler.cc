@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchContentSharingPolicyHandler implementation
+// summary: Applies the SearchContentSharing policy by reading its integer value and writing it to related preferences, optionally converting it to an enabled boolean.
+// ---
+
 #include "components/contextual_search/search_content_sharing_policy_handler.h"
 
 #include "base/values.h"

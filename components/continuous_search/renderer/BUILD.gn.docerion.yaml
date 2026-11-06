@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the continuous search renderer
+summary: Defines the renderer source_set listing the config and extractor sources together with their build dependencies for the continuous search component.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual search service implementation
+// summary: Implements the profile-scoped ContextualSearchService that registers content-sharing prefs, creates ComposeboxQueryController instances, and manages contextual search session lifecycles.
+// ---
+
 #include "components/contextual_search/contextual_search_service.h"
 
 #include "base/memory/ptr_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Title validator implementation
+// summary: Implements title validation that trims whitespace and control characters, collapses internal whitespace, and caps titles at 4096 characters.
+// ---
+
 #include "components/continuous_search/common/title_validator.h"
 
 #include <algorithm>

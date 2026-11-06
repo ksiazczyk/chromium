@@ -1,3 +1,9 @@
+---
+type: readme
+title: Contextual tasks translation screenshot hashes README
+summary: Explains that the directory holds image SHA-1 hashes used to improve UI string translations by providing context screenshots for translators.
+---
+
 This directory of image SHA-1 hashes is used to improve translations of UI
 strings through context images for translators.
 

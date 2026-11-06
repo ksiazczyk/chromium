@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the composite context decorator
+// summary: Unit tests verifying decorator ordering, source selection, and asynchronous chaining behavior of the composite context decorator with mock decorators.
+// ---
+
 #include "components/contextual_tasks/internal/composite_context_decorator.h"
 
 #include <map>

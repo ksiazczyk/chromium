@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Iframe interface protobuf for consent flow messages
+// summary: Defines wire-compatible protobuf enums and messages for consent flow identifiers, decisions, and iframe event messages used by the consent kit.
+// ---
+
 syntax = "proto2";
 
 package identity_consent;

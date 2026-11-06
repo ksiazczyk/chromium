@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the fallback title context decorator
+// summary: Unit tests verifying that the fallback title decorator generates URL-based titles for attachments.
+// ---
+
 #include "components/contextual_tasks/internal/fallback_title_context_decorator.h"
 
 #include "base/i18n/icu_util.h"

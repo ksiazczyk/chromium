@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Continuous Search Common Metadata
+summary: Defines the monorail component, team email, target OS and Buganizer component shared by the continuous_search directory.

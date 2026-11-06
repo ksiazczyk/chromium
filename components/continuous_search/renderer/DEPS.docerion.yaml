@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the renderer
+summary: Grants the renderer directory include access to content/public/renderer headers.

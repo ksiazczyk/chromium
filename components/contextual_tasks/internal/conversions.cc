@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thread type conversion implementation
+// summary: Implements conversion of sync protocol AI thread types into contextual task ThreadType values.
+// ---
+
 #include "components/contextual_tasks/internal/conversions.h"
 
 namespace contextual_tasks {

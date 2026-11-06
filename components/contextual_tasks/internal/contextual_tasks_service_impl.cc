@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks service implementation
+// summary: Implements the contextual tasks service, including URL resource merging, sync integration, and orchestration of context decoration.
+// ---
+
 #include "components/contextual_tasks/internal/contextual_tasks_service_impl.h"
 
 #include <optional>

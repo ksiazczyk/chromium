@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Test support build targets for continuous search
+summary: GN build file defining the testonly test_support source set with the fake search result extractor sources and its dependencies.

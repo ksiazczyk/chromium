@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for footprints dependencies
+summary: Declares allowed include rules for the footprints directory and grants unittest files additional access to network test support.

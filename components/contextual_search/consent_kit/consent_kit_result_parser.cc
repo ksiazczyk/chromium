@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Consent result parser implementation
+// summary: Implements checks for whether a privacy flow result matches the expected flow ID and grants Workspace personal context search consent.
+// ---
+
 #include "components/contextual_search/consent_kit/consent_kit_result_parser.h"
 
 #include <algorithm>

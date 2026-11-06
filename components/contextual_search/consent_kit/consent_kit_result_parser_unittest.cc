@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Consent result parser unit tests
+// summary: Unit tests covering flow ID matching and consent decisions such as consent, keep consent and refusal for the result parser.
+// ---
+
 #include "components/contextual_search/consent_kit/consent_kit_result_parser.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie store crypto delegate header
+// summary: Declares GetCookieCryptoDelegate, a factory returning a platform-appropriate net::CookieCryptoDelegate for the cookie store.
+// ---
+
 #ifndef COMPONENTS_COOKIE_CONFIG_COOKIE_STORE_UTIL_H_
 #define COMPONENTS_COOKIE_CONFIG_COOKIE_STORE_UTIL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Contextual Tasks GN build targets
+summary: GN build file that defines a unit_tests group aggregating test targets from the internal and public subdirectories of the component.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Submitted context decorator unit tests
+// summary: Unit tests for SubmittedContextDecorator covering construction and decoration with contextual search session data, tokens, and file info from a mocked controller.
+// ---
+
 #include "components/contextual_tasks/internal/submitted_context_decorator.h"
 
 #include "base/functional/callback_helpers.h"

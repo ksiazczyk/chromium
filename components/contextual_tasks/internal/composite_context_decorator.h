@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composite context decorator class declaration
+// summary: Declares the CompositeContextDecorator class that owns a map of decorators and runs a selected subset sequentially to enrich a task context.
+// ---
+
 #ifndef COMPONENTS_CONTEXTUAL_TASKS_INTERNAL_COMPOSITE_CONTEXT_DECORATOR_H_
 #define COMPONENTS_CONTEXTUAL_TASKS_INTERNAL_COMPOSITE_CONTEXT_DECORATOR_H_
 

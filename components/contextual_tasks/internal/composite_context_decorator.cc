@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composite context decorator implementation
+// summary: Implements the composite context decorator that assembles favicon, history, title, and other decorators and runs them in order to enrich task contexts.
+// ---
+
 #include "components/contextual_tasks/internal/composite_context_decorator.h"
 
 #include <algorithm>

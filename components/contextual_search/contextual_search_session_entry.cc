@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual search session entry implementation
+// summary: Implements the session map entry that owns a context controller and metrics recorder, forwards context upload status changes, and provides custom move semantics for the scoped observation.
+// ---
+
 #include "components/contextual_search/contextual_search_session_entry.h"
 
 #include "components/contextual_search/contextual_search_context_controller.h"

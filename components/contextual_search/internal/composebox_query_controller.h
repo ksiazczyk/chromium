@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox query controller class declaration
+// summary: Declares the ComposeboxQueryController, which manages contextual search context uploads, interactions, cluster info status, and related callbacks for the composebox.
+// ---
+
 #ifndef COMPONENTS_CONTEXTUAL_SEARCH_INTERNAL_COMPOSEBOX_QUERY_CONTROLLER_H_
 #define COMPONENTS_CONTEXTUAL_SEARCH_INTERNAL_COMPOSEBOX_QUERY_CONTROLLER_H_
 

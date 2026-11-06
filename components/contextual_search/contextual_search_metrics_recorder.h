@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual search metrics recorder header
+// summary: Declares the metrics recorder with enums for sources, modalities, and context states plus session metrics structures.
+// ---
+
 #ifndef COMPONENTS_CONTEXTUAL_SEARCH_CONTEXTUAL_SEARCH_METRICS_RECORDER_H_
 #define COMPONENTS_CONTEXTUAL_SEARCH_CONTEXTUAL_SEARCH_METRICS_RECORDER_H_
 

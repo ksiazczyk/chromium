@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Contextual Search dependency rules
+summary: Defines include rules listing the Chromium components and libraries this directory is allowed to depend on.

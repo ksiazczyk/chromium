@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gemini thread sync bridge unit tests
+// summary: Unit tests for GeminiThreadSyncBridge covering incremental sync changes, data retrieval, deletion, and commit behavior using test stores and matchers.
+// ---
+
 #include "components/contextual_tasks/internal/gemini_thread_sync_bridge.h"
 
 #include "base/run_loop.h"

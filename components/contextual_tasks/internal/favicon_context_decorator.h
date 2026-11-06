@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon context decorator header
+// summary: Declares FaviconContextDecorator, which enriches contexts with favicon images for URL attachments.
+// ---
+
 #ifndef COMPONENTS_CONTEXTUAL_TASKS_INTERNAL_FAVICON_CONTEXT_DECORATOR_H_
 #define COMPONENTS_CONTEXTUAL_TASKS_INTERNAL_FAVICON_CONTEXT_DECORATOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Consent kit build definition
+summary: GN build file defining the consent_kit source set with its sources and dependencies on base, net, url and the privacy config proto.
