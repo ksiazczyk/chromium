@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_low_energy_peripheral_delegate.mm.
+type: source
+title: Bluetooth low energy peripheral delegate implementation
+summary: Bridges CBPeripheral callbacks such as service, characteristic, and descriptor events to the Mac low energy device class.

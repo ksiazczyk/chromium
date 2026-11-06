@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows Bluetooth adapter implementation
+// summary: Implements the Windows classic Bluetooth adapter and makes the WinRT adapter the default returned by the CreateAdapter factory.
+// ---
+
 #include "device/bluetooth/bluetooth_adapter_win.h"
 
 #include <memory>

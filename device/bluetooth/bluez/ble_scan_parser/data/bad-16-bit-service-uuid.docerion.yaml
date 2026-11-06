@@ -1,0 +1,4 @@
+# Docerion header of bad-16-bit-service-uuid.
+type: test
+title: Bad 16-bit service UUID BLE scan test data
+summary: Binary BLE advertisement fixture with a malformed 16-bit service UUID, used as test input for the BlueZ BLE scan parser.

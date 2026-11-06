@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothAdvertisement interface
+// summary: Declares the BluetoothAdvertisement class with error codes, advertisement types, and the Data structure holding UUIDs, manufacturer, and service data for LE advertising.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_ADVERTISEMENT_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_ADVERTISEMENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothGattCallbackWrapper interface for GATT callbacks
+// summary: Interface mirroring android.bluetooth.BluetoothGattCallback so clients and fakes can handle GATT events on older SDK versions without depending on that class.
+// ---
+
 package org.chromium.device.bluetooth.wrapper;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothSocketBlueZ implementation
+// summary: Implements Bluetooth sockets on BlueZ, connecting to devices and listening via profiles registered over DBus.
+// ---
+
 #include "device/bluetooth/bluez/bluetooth_socket_bluez.h"
 
 #include <stdint.h>

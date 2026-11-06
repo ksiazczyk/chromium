@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothDeviceBlueZ class header
+// summary: Declares the BluetoothDeviceBlueZ class, the BlueZ implementation of BluetoothDevice, with pairing, connection and service record interfaces.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUEZ_BLUETOOTH_DEVICE_BLUEZ_H_
 #define DEVICE_BLUETOOTH_BLUEZ_BLUETOOTH_DEVICE_BLUEZ_H_
 

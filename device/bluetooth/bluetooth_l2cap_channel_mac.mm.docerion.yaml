@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_l2cap_channel_mac.mm.
+type: source
+title: Mac L2CAP channel wrapper implementation
+summary: Implements the macOS L2CAP channel wrapper and its delegate, forwarding channel open, data, write-complete, and close events to the owning socket.

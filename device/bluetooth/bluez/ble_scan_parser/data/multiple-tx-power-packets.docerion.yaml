@@ -1,0 +1,4 @@
+# Docerion header of multiple-tx-power-packets.
+type: test
+title: Multiple TX power packets BLE scan test data
+summary: Binary BLE advertisement fixture containing multiple TX power packets, used as test input for the BlueZ BLE scan parser.

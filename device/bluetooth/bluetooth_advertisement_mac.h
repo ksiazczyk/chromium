@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac Bluetooth advertisement class declaration
+// summary: Declares BluetoothAdvertisementMac, a Mac implementation of BluetoothAdvertisement that tracks advertising status and delegates to the low energy advertisement manager.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_ADVERTISEMENT_MAC_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_ADVERTISEMENT_MAC_H_
 

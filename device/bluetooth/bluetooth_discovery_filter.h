@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothDiscoveryFilter class declaration
+// summary: Declares a filter class that restricts Bluetooth device discovery at the OS level by RSSI, pathloss, transport, service UUIDs and device names.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_DISCOVERY_FILTER_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_DISCOVERY_FILTER_H_
 

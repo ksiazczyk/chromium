@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothAdapterWrapper for the Android Bluetooth adapter
+// summary: Java wrapper around android.bluetooth.BluetoothAdapter that creates the default adapter with permission and feature checks and exposes it to native code via JNI.
+// ---
+
 package org.chromium.device.bluetooth.wrapper;
 
 import android.Manifest;

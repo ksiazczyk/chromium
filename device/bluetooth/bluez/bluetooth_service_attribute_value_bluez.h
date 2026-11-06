@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothServiceAttributeValueBlueZ class declaration
+// summary: Declares a value class modeling a Bluetooth service attribute with a type, size and raw value, including sequence attributes.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUEZ_BLUETOOTH_SERVICE_ATTRIBUTE_VALUE_BLUEZ_H_
 #define DEVICE_BLUETOOTH_BLUEZ_BLUETOOTH_SERVICE_ATTRIBUTE_VALUE_BLUEZ_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BLE scan parser build rules
+summary: Defines GN targets for the Rust parser library, C++ FFI glue, shared scan record code, and the libFuzzer test.

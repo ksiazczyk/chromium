@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothLowEnergyAdvertisementManagerMac class declaration
+// summary: Declares the manager used by the Mac adapter to register and run LE advertisements, currently supporting a single concurrent advertisement.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_LOW_ENERGY_ADVERTISEMENT_MANAGER_MAC_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_LOW_ENERGY_ADVERTISEMENT_MANAGER_MAC_H_
 

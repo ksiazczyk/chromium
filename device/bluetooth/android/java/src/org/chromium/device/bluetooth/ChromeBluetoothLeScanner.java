@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeBluetoothLeScanner
+// summary: Helper class that starts, pauses, resumes and stops BLE scans with filters for a fixed duration or indefinitely.
+// ---
+
 package org.chromium.device.bluetooth;
 
 import android.bluetooth.le.ScanFilter;

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Bluetooth BUILD.gn build configuration
+summary: GN build configuration defining source sets, components, dependencies, and platform-specific settings for the device/bluetooth implementation, including emulation build flags.

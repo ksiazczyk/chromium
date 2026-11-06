@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothDevice base class implementation
+// summary: Implements the cross-platform BluetoothDevice base class, including device UUID tracking, GATT connection lifecycle, connection info, and battery info handling.
+// ---
+
 #include "device/bluetooth/bluetooth_device.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WinRT typed event handler registration helper
+// summary: Template helper that registers a WinRT TypedEventHandler from a base callback and posts events to the thread that created the handler.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_EVENT_UTILS_WINRT_H_
 #define DEVICE_BLUETOOTH_EVENT_UTILS_WINRT_H_
 

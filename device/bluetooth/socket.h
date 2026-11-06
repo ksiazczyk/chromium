@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Socket Mojo implementation header
+// summary: Declares the Socket class implementing the Mojo Socket interface, wiring BluetoothSocket receive and send operations to Mojo data pipe streams.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_SOCKET_H_
 #define DEVICE_BLUETOOTH_SOCKET_H_
 

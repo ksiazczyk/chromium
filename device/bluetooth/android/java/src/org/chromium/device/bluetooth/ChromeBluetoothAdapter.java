@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeBluetoothAdapter
+// summary: Java wrapper exposing android.bluetooth.BluetoothAdapter to the C++ BluetoothAdapterAndroid implementation, handling adapter state, broadcast receivers and BLE scanning.
+// ---
+
 package org.chromium.device.bluetooth;
 
 import android.Manifest;

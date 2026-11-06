@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS Bluetooth permission status declaration
+// summary: Declares GetMacBluetoothPermissionStatus, a standalone function to check macOS Bluetooth permission without creating or initializing the adapter.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_ADAPTER_MAC_PERMISSION_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_ADAPTER_MAC_PERMISSION_H_
 

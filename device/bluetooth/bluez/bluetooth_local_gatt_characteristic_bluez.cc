@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothLocalGattCharacteristicBlueZ implementation
+// summary: Implements BluetoothLocalGattCharacteristicBlueZ, creating local GATT characteristics with UUID, properties and permissions and supporting value notifications.
+// ---
+
 #include "device/bluetooth/bluez/bluetooth_local_gatt_characteristic_bluez.h"
 
 #include <string>

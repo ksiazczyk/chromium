@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothLowEnergyScanSessionBlueZ header
+// summary: Declares the BlueZ implementation of a Bluetooth low energy scan session that forwards activation, release, and device found or lost events from the advertisement monitor service provider.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUEZ_BLUETOOTH_LOW_ENERGY_SCAN_SESSION_BLUEZ_H_
 #define DEVICE_BLUETOOTH_BLUEZ_BLUETOOTH_LOW_ENERGY_SCAN_SESSION_BLUEZ_H_
 

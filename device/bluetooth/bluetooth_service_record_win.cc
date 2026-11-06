@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows Bluetooth service record parsing
+// summary: Parses Windows SDP service record bytes to extract the device address, service UUID, and RFCOMM channel support.
+// ---
+
 
 #include "device/bluetooth/bluetooth_service_record_win.h"
 

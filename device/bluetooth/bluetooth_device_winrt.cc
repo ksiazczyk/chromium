@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothDeviceWinrt implementation for Windows
+// summary: Implements the BluetoothDevice interface on Windows via WinRT, covering BLE connections, pairing, GATT sessions and advertisement data handling.
+// ---
+
 #include "device/bluetooth/bluetooth_device_winrt.h"
 
 #include <windows.devices.enumeration.h>

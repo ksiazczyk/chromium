@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothDevice unit tests
+// summary: Unit tests for BluetoothDevice covering Bluetooth address canonicalization, pairing flows, and connection behavior across platform-specific test harnesses.
+// ---
+
 #include "device/bluetooth/bluetooth_device.h"
 
 #include <stddef.h>

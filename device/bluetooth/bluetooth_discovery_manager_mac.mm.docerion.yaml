@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_discovery_manager_mac.mm.
+type: source
+title: BluetoothDiscoveryManagerMac implementation
+summary: Implements classic Bluetooth device discovery on macOS through the IOBluetooth framework, managing device inquiry start, stop and delegate lifetime.

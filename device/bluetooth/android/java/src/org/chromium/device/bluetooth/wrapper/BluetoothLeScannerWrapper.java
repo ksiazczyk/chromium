@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothLeScannerWrapper for BLE scanning
+// summary: Java wrapper around android.bluetooth.le.BluetoothLeScanner that starts and stops scans and forwards scan callbacks to ScanCallbackWrapper instances.
+// ---
+
 package org.chromium.device.bluetooth.wrapper;
 
 import android.bluetooth.le.BluetoothLeScanner;

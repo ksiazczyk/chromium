@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS Bluetooth utilities implementation
+// summary: Implements ChromeOS Bluetooth helpers for filtering device lists and recording pairing, connection, and UI-surface metrics.
+// ---
+
 #include "device/bluetooth/chromeos/bluetooth_utils.h"
 
 #include <optional>

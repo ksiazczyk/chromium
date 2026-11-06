@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Outcome helper class for returning Java results to C++
+// summary: Generic Java helper class in Chromium's Bluetooth stack that wraps either a successful result or an exception and exposes it to native C++ code via JNI-called methods.
+// ---
+
 package org.chromium.device.bluetooth;
 
 import org.jni_zero.CalledByNative;

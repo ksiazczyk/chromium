@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothChannelMac interface for native RFCOMM and L2CAP channels on macOS
+// summary: Declares the BluetoothChannelMac interface that wraps a native RFCOMM or L2CAP channel for the Mac Bluetooth socket implementation.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_CHANNEL_MAC_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_CHANNEL_MAC_H_
 

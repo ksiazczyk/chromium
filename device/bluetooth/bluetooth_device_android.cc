@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android BluetoothDevice implementation
+// summary: Implements BluetoothDevice on Android by bridging to the Java ChromeBluetoothDevice wrapper through JNI for metadata, pairing, and service connections.
+// ---
+
 #include "device/bluetooth/bluetooth_device_android.h"
 
 #include <jni.h>

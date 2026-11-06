@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth Device Mojo interface unit tests
+// summary: Unit tests for the Mojo Device implementation using mock adapter, device, GATT service, characteristic and connection objects.
+// ---
+
 #include "device/bluetooth/device.h"
 
 #include <memory>

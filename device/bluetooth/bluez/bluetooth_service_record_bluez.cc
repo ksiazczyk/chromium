@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothServiceRecordBlueZ implementation
+// summary: Implements a Bluetooth service record that stores attribute values keyed by 16-bit attribute IDs.
+// ---
+
 #include "device/bluetooth/bluez/bluetooth_service_record_bluez.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothSocketNet implementation
+// summary: Implements BluetoothSocket operations on a net::TCPSocket, marshalling disconnect, receive and send work to a shared Bluetooth socket thread.
+// ---
+
 #include "device/bluetooth/bluetooth_socket_net.h"
 
 #include <memory>

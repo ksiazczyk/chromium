@@ -1,0 +1,4 @@
+# Docerion header of multiple-advertisement-names.
+type: test
+title: Multiple advertisement names BLE scan test data
+summary: Binary BLE advertisement fixture containing multiple advertisement name fields, used as test input for the BlueZ BLE scan parser.

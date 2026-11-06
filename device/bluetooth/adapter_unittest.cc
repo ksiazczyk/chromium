@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mojo Adapter unit tests
+// summary: Unit tests for the Mojo Adapter implementation using mock adapters, devices, and fake GATT services to verify connect, discovery, and advertisement behavior.
+// ---
+
 #include "device/bluetooth/adapter.h"
 
 #include "base/functional/callback_helpers.h"

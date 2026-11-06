@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo Advertisement implementation
+// summary: Implements the Mojo Advertisement wrapper that unregisters the underlying BluetoothAdvertisement when the Mojo binding is destroyed.
+// ---
+
 #include "device/bluetooth/advertisement.h"
 
 #include "base/functional/bind.h"

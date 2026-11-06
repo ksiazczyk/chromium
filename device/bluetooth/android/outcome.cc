@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Bluetooth Outcome JNI bindings implementation
+// summary: Implements the Outcome class that wraps the Java org.chromium.device.bluetooth.Outcome object via JNI, exposing success checks, results and exception messages.
+// ---
+
 #include "device/bluetooth/android/outcome.h"
 
 #include "base/android/jni_android.h"

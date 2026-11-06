@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_low_energy_device_watcher_mac.mm.
+type: source
+title: Mac Bluetooth low energy device watcher implementation
+summary: Watches and parses com.apple.Bluetooth.plist on a background thread to report system-paired Bluetooth LE device addresses.

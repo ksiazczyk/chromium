@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeBluetoothSocket
+// summary: Java wrapper exposing android.bluetooth.BluetoothSocket to C++ BluetoothSocketAndroid for connecting, sending, receiving and closing socket streams.
+// ---
+
 package org.chromium.device.bluetooth;
 
 import androidx.annotation.VisibleForTesting;

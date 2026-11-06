@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothLowEnergyPeripheralManagerDelegate header
+// summary: Declares an Objective-C CBPeripheralManagerDelegate that forwards CoreBluetooth peripheral manager callbacks to the Mac Bluetooth LE advertisement manager.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_LOW_ENERGY_PERIPHERAL_MANAGER_DELEGATE_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_LOW_ENERGY_PERIPHERAL_MANAGER_DELEGATE_H_
 

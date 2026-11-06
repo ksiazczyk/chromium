@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Bluetooth DEPS include rules
+summary: Defines the include rules allowing the bluetooth directory to depend on ChromeOS DBus, components, crypto, net, and other Chromium services.

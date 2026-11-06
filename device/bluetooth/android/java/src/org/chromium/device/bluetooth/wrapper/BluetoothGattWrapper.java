@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothGattWrapper for GATT connections
+// summary: Java wrapper around android.bluetooth.BluetoothGatt handling disconnect, MTU requests, service discovery, and characteristic or descriptor read and write operations.
+// ---
+
 package org.chromium.device.bluetooth.wrapper;
 
 import android.bluetooth.BluetoothGatt;

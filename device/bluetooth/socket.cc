@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Socket Mojo implementation
+// summary: Implements the Mojo Socket that bridges a device BluetoothSocket to Mojo data pipes for receiving and sending data, including disconnect handling.
+// ---
+
 #include "device/bluetooth/socket.h"
 
 #include <string>

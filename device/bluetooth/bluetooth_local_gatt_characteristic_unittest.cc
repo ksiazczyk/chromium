@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local GATT characteristic unit tests
+// summary: Unit tests for local GATT characteristic read, write, prepare write, and notify behavior using the GATT server test harness.
+// ---
+
 #include "device/bluetooth/bluetooth_local_gatt_characteristic.h"
 
 #include "base/memory/raw_ptr.h"

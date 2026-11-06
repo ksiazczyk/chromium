@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BluetoothAdvertisementBlueZ unit tests
+// summary: Unit tests for the BlueZ Bluetooth advertisement class, covering registration, unregistration and error callbacks with fake D-Bus clients, skipped when Floss is enabled.
+// ---
+
 #include "device/bluetooth/bluez/bluetooth_advertisement_bluez.h"
 
 #include <memory>

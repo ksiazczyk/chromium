@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothLocalGattDescriptor class declaration
+// summary: Declares the Chromium Bluetooth stack's local GATT characteristic descriptor class used to host descriptors when the adapter acts in the peripheral role.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_LOCAL_GATT_DESCRIPTOR_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_LOCAL_GATT_DESCRIPTOR_H_
 

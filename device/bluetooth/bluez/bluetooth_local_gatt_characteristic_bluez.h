@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothLocalGattCharacteristicBlueZ class header
+// summary: Declares BluetoothLocalGattCharacteristicBlueZ, which implements BluetoothLocalGattCharacteristic for local GATT characteristics on BlueZ platforms.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUEZ_BLUETOOTH_LOCAL_GATT_CHARACTERISTIC_BLUEZ_H_
 #define DEVICE_BLUETOOTH_BLUEZ_BLUETOOTH_LOCAL_GATT_CHARACTERISTIC_BLUEZ_H_
 

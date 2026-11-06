@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BluetoothAdapter cross-platform unit tests
+// summary: Extensive unit tests for the Bluetooth adapter interface, running against platform-specific test backends on Android, Apple, Windows, ChromeOS, Linux, and Fuchsia.
+// ---
+
 #include "device/bluetooth/bluetooth_adapter.h"
 
 #include <stddef.h>

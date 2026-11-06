@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothLowEnergyCentralManagerDelegate declaration
+// summary: Declares the Objective-C delegate that forwards CBCentralManager events to the Apple low energy adapter through its bridge.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_LOW_ENERGY_CENTRAL_MANAGER_DELEGATE_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_LOW_ENERGY_CENTRAL_MANAGER_DELEGATE_H_
 

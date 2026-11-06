@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote GATT descriptor base implementation
+// summary: Provides the constructor and destructor definitions for the remote GATT descriptor base class.
+// ---
+
 #include "device/bluetooth/bluetooth_remote_gatt_descriptor.h"
 
 #include <stddef.h>

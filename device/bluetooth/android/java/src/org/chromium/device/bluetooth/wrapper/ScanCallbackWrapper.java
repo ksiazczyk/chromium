@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScanCallbackWrapper
+// summary: Interface wrapping android.bluetooth.le.ScanCallback to deliver BLE batch scan results, individual scan results and scan failure codes.
+// ---
+
 package org.chromium.device.bluetooth.wrapper;
 
 import org.chromium.build.annotations.NullMarked;

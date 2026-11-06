@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Bluetooth Android Java DEPS include rules
+summary: Defines include rules granting the Bluetooth Android Java code access to the components location Android Java directory.

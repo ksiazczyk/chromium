@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_channel_mac.mm.
+type: source
+title: BluetoothChannelMac implementation for macOS
+summary: Implements BluetoothChannelMac, attaching an owning socket and returning the Bluetooth address of the channel's device.

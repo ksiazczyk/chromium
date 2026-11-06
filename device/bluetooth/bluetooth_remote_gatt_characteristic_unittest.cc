@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remote GATT characteristic unit tests
+// summary: Cross-platform unit tests covering remote GATT characteristic reads, writes, descriptors and notify session setup and error scenarios.
+// ---
+
 
 #include "device/bluetooth/bluetooth_remote_gatt_characteristic.h"
 

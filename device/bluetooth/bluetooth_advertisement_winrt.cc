@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WinRT Bluetooth advertisement implementation
+// summary: Implements LE advertisement publishing on Windows via the WinRT advertisement publisher, including manufacturer data conversion and status change handling.
+// ---
+
 #include "device/bluetooth/bluetooth_advertisement_winrt.h"
 
 #include <windows.foundation.collections.h>

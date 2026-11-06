@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android BluetoothAdapter unit tests
+// summary: Unit tests for the Android Bluetooth adapter and ChromeBluetoothLeScanner lifecycle using fake Java adapter utilities and mock time.
+// ---
+
 #include "device/bluetooth/bluetooth_adapter_android.h"
 
 #include <jni.h>

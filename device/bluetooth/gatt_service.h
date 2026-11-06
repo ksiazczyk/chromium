@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth GattService class declaration
+// summary: Declares the GattService class implementing the Mojo GattService interface and the local GATT service delegate callbacks.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_GATT_SERVICE_H_
 #define DEVICE_BLUETOOTH_GATT_SERVICE_H_
 

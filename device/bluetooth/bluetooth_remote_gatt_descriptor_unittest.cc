@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remote GATT descriptor unit tests
+// summary: Cross-platform unit tests for remote GATT descriptor behavior using fake adapters, simulated devices, and platform-specific Bluetooth test helpers.
+// ---
+
 #include <array>
 
 #include "base/compiler_specific.h"

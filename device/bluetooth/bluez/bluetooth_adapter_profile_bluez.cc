@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothAdapterProfileBlueZ implementation
+// summary: Implements registration and delegate management for a multiplexing Bluetooth profile exposed to BlueZ over D-Bus.
+// ---
+
 #include "device/bluetooth/bluez/bluetooth_adapter_profile_bluez.h"
 
 #include <memory>

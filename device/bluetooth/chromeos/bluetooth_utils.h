@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS Bluetooth utilities header
+// summary: Declares Bluetooth utility functions and UMA enums for filter types, connection failure reasons, UI surfaces, and result codes.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_CHROMEOS_BLUETOOTH_UTILS_H_
 #define DEVICE_BLUETOOTH_CHROMEOS_BLUETOOTH_UTILS_H_
 

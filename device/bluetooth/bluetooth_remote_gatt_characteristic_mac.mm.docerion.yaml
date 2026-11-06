@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_remote_gatt_characteristic_mac.mm.
+type: source
+title: macOS remote GATT characteristic implementation
+summary: Implements remote GATT characteristic read, write, descriptor discovery and notification handling via CoreBluetooth on Apple platforms.

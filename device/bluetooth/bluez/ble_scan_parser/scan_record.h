@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScanRecord struct declaration
+// summary: Declares the parsed BLE advertising record with flags, TX power, name, service UUIDs, and data maps.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUEZ_BLE_SCAN_PARSER_SCAN_RECORD_H_
 #define DEVICE_BLUETOOTH_BLUEZ_BLE_SCAN_PARSER_SCAN_RECORD_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothServiceAttributeValueBlueZ implementation
+// summary: Implements the BluetoothServiceAttributeValueBlueZ value type that wraps SDP service attribute values, including sequences, with copy and assignment support.
+// ---
+
 #include "device/bluetooth/bluez/bluetooth_service_attribute_value_bluez.h"
 
 #include <optional>

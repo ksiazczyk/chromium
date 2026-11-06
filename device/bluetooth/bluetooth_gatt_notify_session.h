@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothGattNotifySession class header
+// summary: Declares BluetoothGattNotifySession, which represents an active session listening to value updates from GATT characteristics that support notifications or indications.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_GATT_NOTIFY_SESSION_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_GATT_NOTIFY_SESSION_H_
 

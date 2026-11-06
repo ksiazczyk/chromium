@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothSocketNet class declaration
+// summary: Declares BluetoothSocketNet, a base class for BluetoothSocket implementations backed by net::TCPSocket with UI-thread API and background socket I/O.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_SOCKET_NET_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_SOCKET_NET_H_
 

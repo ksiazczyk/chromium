@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android remote GATT descriptor class declaration
+// summary: Declares BluetoothRemoteGattDescriptorAndroid, which bridges Chromium's remote GATT descriptor API to the Java ChromeBluetoothRemoteGattDescriptor class.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_REMOTE_GATT_DESCRIPTOR_ANDROID_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_REMOTE_GATT_DESCRIPTOR_ANDROID_H_
 

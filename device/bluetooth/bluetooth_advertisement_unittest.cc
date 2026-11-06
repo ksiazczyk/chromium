@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BluetoothAdvertisement data unit tests
+// summary: Tests that BluetoothAdvertisement::Data members such as service UUIDs, manufacturer data, and scan response data are assigned and retrieved correctly.
+// ---
+
 #include "device/bluetooth/bluetooth_advertisement.h"
 
 #include <stdint.h>

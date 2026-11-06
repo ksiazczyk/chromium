@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothGattService class header
+// summary: Declares the BluetoothGattService interface for local or remote GATT services, including GATT error codes, callbacks, and service identifiers.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_GATT_SERVICE_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_GATT_SERVICE_H_
 

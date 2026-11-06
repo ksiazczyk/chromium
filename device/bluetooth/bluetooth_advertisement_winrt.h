@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WinRT Bluetooth advertisement class declaration
+// summary: Declares BluetoothAdvertisementWinrt for initializing, registering, and unregistering LE advertisements through Windows Runtime publisher APIs.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_ADVERTISEMENT_WINRT_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_ADVERTISEMENT_WINRT_H_
 

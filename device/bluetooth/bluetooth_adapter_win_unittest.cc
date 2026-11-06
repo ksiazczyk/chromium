@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BluetoothAdapterWin unit tests
+// summary: Unit tests for the Windows Bluetooth adapter, covering initialization, discovery session start and stop callbacks, and device state handling.
+// ---
+
 #include <memory>
 #include <string>
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BluetoothSocketBlueZ unit tests
+// summary: Unit tests for BlueZ Bluetooth sockets using fake DBus clients for adapters, devices and profile managers.
+// ---
+
 #include "device/bluetooth/bluez/bluetooth_socket_bluez.h"
 
 #include <memory>

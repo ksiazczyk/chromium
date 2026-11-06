@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothClassicWrapper implementation for Windows
+// summary: Implements the Windows wrapper for Bluetooth radio and device APIs, including discovery and incoming connection control with loader-lock mitigation.
+// ---
+
 #include "device/bluetooth/bluetooth_classic_win.h"
 
 #include "base/threading/scoped_thread_priority.h"

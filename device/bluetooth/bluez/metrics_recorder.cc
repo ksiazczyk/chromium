@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlueZ metrics recorder implementation
+// summary: Maps BlueZ D-Bus error strings to connect-to-service results and BR/EDR failure reasons and records them as UMA histogram metrics.
+// ---
+
 #include "device/bluetooth/bluez/metrics_recorder.h"
 
 #include "base/metrics/histogram_functions.h"

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Bluetooth OWNERS
+summary: Lists the code owners responsible for the bluetooth directory, with per-file ownership for BUILD.gn.

@@ -1,0 +1,4 @@
+# Docerion header of multiple-byte-flags-field.
+type: test
+title: Multiple-byte flags field BLE scan test data
+summary: Binary BLE advertisement fixture with a multi-byte flags field, used as test input for the BlueZ BLE scan parser.

@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_strings.grd.
+type: config
+title: Bluetooth localized strings grit definition
+summary: Grit resource definition that packages Bluetooth UI strings into localized .pak files for many languages and emits the strings header.

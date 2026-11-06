@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_adapter_ios.mm.
+type: source
+title: iOS Bluetooth adapter implementation
+summary: Implements BluetoothAdapterIOS, creating the iOS Bluetooth adapter and providing weak pointers plus a stubbed system permission prompt.

@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_device_mac.mm.
+type: source
+title: Mac BluetoothDevice implementation
+summary: Implements the macOS BluetoothDevice base with NSError conversion helpers for connect and GATT error codes, noting pending error translation work.

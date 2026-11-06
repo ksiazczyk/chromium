@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_low_energy_advertisement_manager_mac_unittest.mm.
+type: test
+title: BluetoothLowEnergyAdvertisementManagerMac unit tests
+summary: Tests advertisement registration, unregistration, and error paths using an OCMock-mocked CBPeripheralManager.

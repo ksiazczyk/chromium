@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothDevice class declaration
+// summary: Declares the BluetoothDevice interface for remote device properties, pairing, connection, disconnection, and GATT service access, managed by BluetoothAdapter.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_DEVICE_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_DEVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothAdapterProfileBlueZ class declaration
+// summary: Declares BluetoothAdapterProfileBlueZ, a multiplexing profile for custom Bluetooth services managed by an adapter, with one delegate per device.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUEZ_BLUETOOTH_ADAPTER_PROFILE_BLUEZ_H_
 #define DEVICE_BLUETOOTH_BLUEZ_BLUETOOTH_ADAPTER_PROFILE_BLUEZ_H_
 

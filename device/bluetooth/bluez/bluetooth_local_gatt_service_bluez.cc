@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothLocalGattServiceBlueZ implementation
+// summary: Implements BluetoothLocalGattServiceBlueZ, covering creation, registration, unregistration and management of local GATT services and their characteristics.
+// ---
+
 #include "device/bluetooth/bluez/bluetooth_local_gatt_service_bluez.h"
 
 #include "base/logging.h"

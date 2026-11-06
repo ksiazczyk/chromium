@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BluetoothServiceAttributeValueBlueZ unit tests
+// summary: Unit tests for the service attribute value class covering basic UUID and integer values plus nested sequences.
+// ---
+
 #include "device/bluetooth/bluez/bluetooth_service_attribute_value_bluez.h"
 
 #include <cstdint>

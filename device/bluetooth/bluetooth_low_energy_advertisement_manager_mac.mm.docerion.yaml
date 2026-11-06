@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_low_energy_advertisement_manager_mac.mm.
+type: source
+title: BluetoothLowEnergyAdvertisementManagerMac implementation
+summary: Implements BLE advertisement registration and advertising state handling through CBPeripheralManager, including power-off and reset cases.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WinRT GATT discoverer class declaration
+// summary: Declares BluetoothGattDiscovererWinrt, which enumerates GATT attributes on a Windows Bluetooth LE device and reports results via a callback.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_GATT_DISCOVERER_WINRT_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_GATT_DISCOVERER_WINRT_H_
 

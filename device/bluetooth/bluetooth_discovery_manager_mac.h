@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothDiscoveryManagerMac class declaration
+// summary: Declares the macOS discovery manager used by BluetoothAdapterMac to run classic and LE device discovery and notify an observer of found devices.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_DISCOVERY_MANAGER_MAC_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_DISCOVERY_MANAGER_MAC_H_
 

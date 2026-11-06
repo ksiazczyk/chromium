@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android Bluetooth socket unit tests
+// summary: Parameterized tests covering secure and insecure connection, failure cases, disconnect, and receive and send data flow for Android Bluetooth sockets.
+// ---
+
 #include "device/bluetooth/bluetooth_socket_android.h"
 
 #include <cstddef>

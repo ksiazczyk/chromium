@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothRemoteGattCharacteristic base implementation
+// summary: Implements shared BluetoothRemoteGattCharacteristic logic such as descriptor lookup, notify session management and pending command queuing.
+// ---
+
 #include "device/bluetooth/bluetooth_remote_gatt_characteristic.h"
 
 #include <utility>

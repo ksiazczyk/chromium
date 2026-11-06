@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth low energy peripheral delegate header
+// summary: Declares the Objective-C CBPeripheralDelegate that forwards peripheral GATT events to BluetoothLowEnergyDeviceMac.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_LOW_ENERGY_PERIPHERAL_DELEGATE_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_LOW_ENERGY_PERIPHERAL_DELEGATE_H_
 

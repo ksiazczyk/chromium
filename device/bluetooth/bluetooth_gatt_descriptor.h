@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothGattDescriptor class declaration
+// summary: Declares the BluetoothGattDescriptor class and documents the predefined Bluetooth specification descriptor UUIDs and their meanings.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_GATT_DESCRIPTOR_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_GATT_DESCRIPTOR_H_
 

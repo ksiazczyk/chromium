@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local GATT characteristic class header
+// summary: Declares BluetoothLocalGattCharacteristic for characteristics hosted by locally registered GATT services, including value notification and indication support.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_LOCAL_GATT_CHARACTERISTIC_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_LOCAL_GATT_CHARACTERISTIC_H_
 

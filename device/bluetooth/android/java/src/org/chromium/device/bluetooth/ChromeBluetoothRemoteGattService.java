@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeBluetoothRemoteGattService
+// summary: Java wrapper exposing android.bluetooth.BluetoothGattService to C++ BluetoothRemoteGattServiceAndroid and creating its characteristic objects.
+// ---
+
 package org.chromium.device.bluetooth;
 
 import org.jni_zero.CalledByNative;

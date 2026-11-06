@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_classic_device_mac.mm.
+type: source
+title: BluetoothClassicDeviceMac implementation for macOS
+summary: Implements the macOS classic Bluetooth device, including a disconnect notification listener and host transmit power queries via an undocumented API.

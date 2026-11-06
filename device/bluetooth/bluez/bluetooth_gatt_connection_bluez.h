@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothGattConnectionBlueZ class header
+// summary: Declares BluetoothGattConnectionBlueZ, the BlueZ implementation of BluetoothGattConnection that observes the D-Bus device client.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUEZ_BLUETOOTH_GATT_CONNECTION_BLUEZ_H_
 #define DEVICE_BLUETOOTH_BLUEZ_BLUETOOTH_GATT_CONNECTION_BLUEZ_H_
 

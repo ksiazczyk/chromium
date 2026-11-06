@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BluetoothServiceRecordBlueZ unit tests
+// summary: Unit tests for creating, removing and fetching Bluetooth service records through the BlueZ adapter with fake DBus backends.
+// ---
+
 #include "device/bluetooth/bluez/bluetooth_service_record_bluez.h"
 
 #include <memory>

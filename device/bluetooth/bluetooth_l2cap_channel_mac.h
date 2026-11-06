@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac L2CAP channel wrapper header
+// summary: Declares BluetoothL2capChannelMac, a wrapper around IOBluetooth L2CAP channels used by Mac Bluetooth sockets.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_L2CAP_CHANNEL_MAC_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_L2CAP_CHANNEL_MAC_H_
 

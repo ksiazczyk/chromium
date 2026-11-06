@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothLowEnergyScanSession class declaration
+// summary: Declares BluetoothLowEnergyScanSession and its delegate interface for session start, device found, device lost and invalidation events.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_LOW_ENERGY_SCAN_SESSION_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_LOW_ENERGY_SCAN_SESSION_H_
 

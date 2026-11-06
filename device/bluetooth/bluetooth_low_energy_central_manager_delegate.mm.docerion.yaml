@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_low_energy_central_manager_delegate.mm.
+type: source
+title: Bluetooth low energy central manager delegate for Apple platforms
+summary: Objective-C delegate that bridges CoreBluetooth central manager events to the Mac BLE discovery manager and Apple adapter, forwarding discovery, state, and connection callbacks.

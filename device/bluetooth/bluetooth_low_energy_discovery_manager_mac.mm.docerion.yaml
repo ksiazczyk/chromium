@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_low_energy_discovery_manager_mac.mm.
+type: source
+title: Mac Bluetooth low energy discovery manager implementation
+summary: Starts and stops CoreBluetooth scans for LE peripherals, optionally filtered by service UUIDs, and forwards discovered devices to the observer.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake BluetoothClassicWrapper for Windows tests
+// summary: Provides a fake Windows Bluetooth classic wrapper that simulates a radio for use by BluetoothTestWin.
+// ---
+
 #include "device/bluetooth/bluetooth_classic_win_fake.h"
 
 #include <algorithm>

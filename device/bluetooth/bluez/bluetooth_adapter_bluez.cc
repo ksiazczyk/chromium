@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothAdapterBlueZ implementation
+// summary: Implements the BluetoothAdapter for BlueZ platforms, managing D-Bus clients, discovery, pairing, sockets, GATT services and advertisements.
+// ---
+
 #include "device/bluetooth/bluez/bluetooth_adapter_bluez.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_rfcomm_channel_mac.mm.
+type: source
+title: Mac RFCOMM channel implementation
+summary: Implements BluetoothRfcommChannelMac and its Objective-C delegate, forwarding RFCOMM channel events to the owning Bluetooth socket.

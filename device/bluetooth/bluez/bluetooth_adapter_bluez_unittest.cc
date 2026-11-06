@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BluetoothAdapterBlueZ
+// summary: Unit tests for BluetoothAdapterBlueZ covering adapter initialization, adapter naming and discoverable state using fake D-Bus clients.
+// ---
+
 #include "device/bluetooth/bluez/bluetooth_adapter_bluez.h"
 
 #include "base/run_loop.h"

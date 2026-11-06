@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Bluetooth socket class declaration
+// summary: Declares BluetoothSocketAndroid, which wraps a Java socket object and manages a UI task runner, shared socket thread and dedicated receiving thread.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_SOCKET_ANDROID_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_SOCKET_ANDROID_H_
 

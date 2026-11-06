@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows Bluetooth service record class declaration
+// summary: Declares BluetoothServiceRecordWin, which stores a parsed Windows service record with its UUID, name, and RFCOMM channel details.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_SERVICE_RECORD_WIN_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_SERVICE_RECORD_WIN_H_
 

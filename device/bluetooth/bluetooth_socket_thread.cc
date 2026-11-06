@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothSocketThread implementation
+// summary: Implements a shared, lazily started IO thread that Bluetooth sockets use for platform socket operations, tracking the active socket count.
+// ---
+
 #include "device/bluetooth/bluetooth_socket_thread.h"
 
 #include <memory>

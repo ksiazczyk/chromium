@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_classic_device_mac_unittest.mm.
+type: test
+title: Unit tests for BluetoothClassicDeviceMac
+summary: Verifies that a device disconnect notification is reported as a device change through a test adapter observer.

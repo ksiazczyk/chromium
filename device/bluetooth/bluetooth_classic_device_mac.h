@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothClassicDeviceMac interface for classic Bluetooth devices on macOS
+// summary: Declares the macOS classic Bluetooth device class implementing pairing, connection, service connection, and disconnect handling over IOBluetooth.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_CLASSIC_DEVICE_MAC_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_CLASSIC_DEVICE_MAC_H_
 

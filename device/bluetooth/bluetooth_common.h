@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common Bluetooth enums and small types
+// summary: Defines shared Bluetooth enums for transport types and device types used across the Bluetooth stack.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_COMMON_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_COMMON_H_
 

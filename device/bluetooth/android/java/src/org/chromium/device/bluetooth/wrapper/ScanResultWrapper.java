@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScanResultWrapper
+// summary: Interface wrapping android.bluetooth.le.ScanResult to expose the device, RSSI and scan record data such as service UUIDs and manufacturer data.
+// ---
+
 package org.chromium.device.bluetooth.wrapper;
 
 

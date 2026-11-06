@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothGattCharacteristicBlueZ class header
+// summary: Declares BluetoothGattCharacteristicBlueZ, the base class for BlueZ GATT characteristics, wrapping the D-Bus object path.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUEZ_BLUETOOTH_GATT_CHARACTERISTIC_BLUEZ_H_
 #define DEVICE_BLUETOOTH_BLUEZ_BLUETOOTH_GATT_CHARACTERISTIC_BLUEZ_H_
 

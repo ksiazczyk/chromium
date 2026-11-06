@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UMA Bluetooth discovery session outcome enum
+// summary: Defines an enum of discovery session outcomes used for UMA histogram reporting of discovery failures, including BlueZ-specific D-Bus errors.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_DISCOVERY_SESSION_OUTCOME_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_DISCOVERY_SESSION_OUTCOME_H_
 

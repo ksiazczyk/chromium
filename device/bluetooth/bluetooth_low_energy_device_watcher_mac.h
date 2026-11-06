@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac Bluetooth low energy device watcher header
+// summary: Declares BluetoothLowEnergyDeviceWatcherMac, which watches the system Bluetooth property list for known paired low energy devices.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_LOW_ENERGY_DEVICE_WATCHER_MAC_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_LOW_ENERGY_DEVICE_WATCHER_MAC_H_
 
