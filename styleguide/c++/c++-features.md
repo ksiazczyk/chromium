@@ -1,3 +1,11 @@
+---
+type: reference
+title: Modern C++ Use in Chromium
+summary: Lists allowed, banned, and TBD C++ language and library features per standard and for Abseil in Chromium.
+relations:
+  - references /styleguide/c++/c++.md
+---
+
 # Modern C++ use in Chromium
 
 _This document is part of the more general

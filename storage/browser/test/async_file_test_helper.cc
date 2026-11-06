@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Async file test helper implementation
+// summary: Implements synchronous wrappers around asynchronous file system operations such as copy, move, read, truncate and quota checks for use in storage tests.
+// ---
+
 #include "storage/browser/test/async_file_test_helper.h"
 
 #include <memory>

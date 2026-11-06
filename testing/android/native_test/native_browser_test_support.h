@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for Android browser test startup and teardown helpers
+// summary: Declares functions that report Java async startup completion and trigger and track activity teardown for Android browser tests.
+// ---
+
 #ifndef TESTING_ANDROID_NATIVE_TEST_NATIVE_BROWSER_TEST_SUPPORT_H_
 #define TESTING_ANDROID_NATIVE_TEST_NATIVE_BROWSER_TEST_SUPPORT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of empty_apk.gni.
+type: config
+title: empty_apk GN build template
+summary: GN template that renders the manifest from the XML template and defines an android_apk target for building empty test APKs.

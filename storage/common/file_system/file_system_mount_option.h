@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileSystemMountOption declaration
+// summary: Defines the FlushPolicy enum and FileSystemMountOption class that control whether written data is flushed on completion.
+// ---
+
 #ifndef STORAGE_COMMON_FILE_SYSTEM_FILE_SYSTEM_MOUNT_OPTION_H_
 #define STORAGE_COMMON_FILE_SYSTEM_FILE_SYSTEM_MOUNT_OPTION_H_
 

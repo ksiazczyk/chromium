@@ -1,3 +1,13 @@
+---
+type: readme
+title: C++ Styleguide
+summary: Overview of the C++-specific Chromium styleguide documents and where to discuss them.
+relations:
+  - references /styleguide/c++/c++.md
+  - references /styleguide/c++/c++-dos-and-donts.md
+  - references /styleguide/c++/c++-features.md
+---
+
 # C++ Styleguide
 
 This directory contains C++-specific pieces of Chromium's styleguide, including

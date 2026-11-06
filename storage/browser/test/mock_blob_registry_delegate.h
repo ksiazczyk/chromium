@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock blob registry delegate for blob registry tests
+// summary: Stands in for BlobRegistryImpl::Delegate in tests, with toggleable permissions for file reads and origin data access.
+// ---
+
 #ifndef STORAGE_BROWSER_TEST_MOCK_BLOB_REGISTRY_DELEGATE_H_
 #define STORAGE_BROWSER_TEST_MOCK_BLOB_REGISTRY_DELEGATE_H_
 

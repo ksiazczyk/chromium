@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SandboxFileSystemTestHelper header
+// summary: Declares a filesystem test helper encapsulating the test environment for sandboxed temporary or persistent file systems.
+// ---
+
 #ifndef STORAGE_BROWSER_TEST_SANDBOX_FILE_SYSTEM_TEST_HELPER_H_
 #define STORAGE_BROWSER_TEST_SANDBOX_FILE_SYSTEM_TEST_HELPER_H_
 

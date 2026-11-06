@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromiumNativeRuntimeLoader
+// summary: Custom Robolectric NativeRuntimeLoader that loads pre-extracted native runtime libraries and resources instead of extracting ZIPs per shard.
+// ---
+
 package org.chromium.testing.local;
 
 import android.graphics.Typeface;

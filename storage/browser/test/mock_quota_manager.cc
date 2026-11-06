@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock quota manager implementation
+// summary: Implements a mock QuotaManager that keeps buckets, usage and quota in memory and supports delayed results for testing.
+// ---
+
 #include "storage/browser/test/mock_quota_manager.h"
 
 #include <algorithm>

@@ -6,6 +6,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Network security config allowing cleartext traffic
+summary: Android network security config resource for native tests that permits cleartext traffic for the app under test.
+-->
+
 <network-security-config>
   <base-config cleartextTrafficPermitted="true">
   </base-config>

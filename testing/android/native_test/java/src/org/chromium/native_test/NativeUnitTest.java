@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeUnitTest
+// summary: Helper for running native unit tests, extending NativeTest to initialize base services and load the native libraries under test.
+// ---
+
 package org.chromium.native_test;
 
 import android.app.Activity;

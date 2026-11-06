@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Blob test utilities implementation
+// summary: Implements helpers to read a blob's contents into a string and to register blobs backed by in-memory data for storage tests.
+// ---
+
 #include "storage/browser/test/blob_test_utils.h"
 
 #include <algorithm>

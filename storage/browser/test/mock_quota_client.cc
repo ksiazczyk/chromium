@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock quota client implementation
+// summary: Implements a mock QuotaClient that serves canned bucket usage, storage keys and deletion behavior for quota tests.
+// ---
+
 #include "storage/browser/test/mock_quota_client.h"
 
 #include <algorithm>

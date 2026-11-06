@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestDir
+// summary: Helper that constructs full paths to test data files located under chrome/test/data for JUnit tests.
+// ---
+
 package org.chromium.testing.local;
 
 import java.io.File;

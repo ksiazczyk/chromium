@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GtestLoggerTest
+// summary: Unit tests checking that GtestLogger prints gtest-style output for test start, finish, test case and test run lifecycle events.
+// ---
+
 package org.chromium.testing.local;
 
 import org.junit.Assert;

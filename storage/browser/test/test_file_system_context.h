@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test file system context factory declarations
+// summary: Declares helper functions to create FileSystemContext instances for testing, including variants with additional providers, automounters, and incognito mode.
+// ---
+
 #ifndef STORAGE_BROWSER_TEST_TEST_FILE_SYSTEM_CONTEXT_H_
 #define STORAGE_BROWSER_TEST_TEST_FILE_SYSTEM_CONTEXT_H_
 

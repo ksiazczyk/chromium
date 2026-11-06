@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeTestApplication
+// summary: Application class for native test APKs that initializes an empty command line and sets the Mockito Android target property for mock initialization.
+// ---
+
 package org.chromium.native_test;
 
 import android.app.Application;

@@ -1,0 +1,4 @@
+# Docerion header of run_with_dummy_home.py.
+type: script
+title: Run commands with a dummy HOME directory
+summary: Wrapper that runs a given command with a temporary dummy $HOME populated with just enough files and symlinks to isolate tests from the real home directory.

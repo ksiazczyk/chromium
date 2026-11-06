@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake progress client implementation
+// summary: Implements a fake ProgressClient that accumulates progress deltas and counts calls during blob operations in tests.
+// ---
+
 #include "storage/browser/test/fake_progress_client.h"
 
 namespace storage {

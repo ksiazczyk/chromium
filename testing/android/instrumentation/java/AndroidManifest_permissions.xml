@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Android instrumentation test permissions manifest
+summary: Android manifest declaring the permissions needed by Chromium instrumentation tests, including external storage, internet, animation scale, and run instrumentation.
+-->
+
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     package="org.chromium.instrumentation">

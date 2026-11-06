@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock bytes provider implementation
+// summary: Serves stored bytes as a reply, stream or file and counts each kind of request, for use in blob storage tests.
+// ---
+
 #include "storage/browser/test/mock_bytes_provider.h"
 
 #include "base/compiler_specific.h"

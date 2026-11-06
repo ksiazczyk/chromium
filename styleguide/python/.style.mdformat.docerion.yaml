@@ -1,0 +1,4 @@
+# Docerion header of .style.mdformat.
+type: config
+title: mdformat style configuration
+summary: Empty configuration file for mdformat, presumably defining Markdown formatting rules for the styleguide documents.

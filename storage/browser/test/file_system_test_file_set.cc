@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File system test file set implementation
+// summary: Creates the directories and files described by the shared file system test cases on disk, filling files with random data of the recorded size.
+// ---
+
 #include "storage/browser/test/file_system_test_file_set.h"
 
 #include <stdint.h>

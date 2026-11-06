@@ -1,0 +1,4 @@
+# Docerion header of test_env_unittest.py.
+type: test
+title: Unit tests for the test_env environment script
+summary: Unit tests for test_env.py and its generated wrapper, covering signal forwarding and Windows job object child process cleanup.

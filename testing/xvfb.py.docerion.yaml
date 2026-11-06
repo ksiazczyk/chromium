@@ -1,0 +1,4 @@
+# Docerion header of xvfb.py.
+type: source
+title: Xvfb test runner for Linux display servers
+summary: Runs tests under Xvfb, Xorg, Weston or Mutter on Linux, handling DBus sessions, display setup and process termination.

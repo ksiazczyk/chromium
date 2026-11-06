@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Ruff configuration for the testing directory
+# summary: Sets Ruff lint and format options such as line length, indent width, and quote style for Python code under testing/.
+# ---
+
 line-length = 80
 indent-width = 2
 

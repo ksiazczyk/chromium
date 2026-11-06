@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Rust styleguide OWNERS
+summary: Forwards ownership of the Rust styleguide directory to the build/rust OWNERS file, with a note that separate style owners may be considered later.

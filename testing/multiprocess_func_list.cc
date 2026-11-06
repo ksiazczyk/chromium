@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multiprocess test function registry implementation
+// summary: Maintains the global map of test names to child-process main and setup functions and invokes the registered child process tests.
+// ---
+
 #include "multiprocess_func_list.h"
 
 #include <map>

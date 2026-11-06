@@ -1,0 +1,4 @@
+# Docerion header of xvfb_test_script.py.
+type: test
+title: Output helper script for xvfb unit tests
+summary: Fixture script that prints received signals and the DISPLAY value to stdout for xvfb_unittest to compare against expected output.

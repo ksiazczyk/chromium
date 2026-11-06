@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PackageFilter
+// summary: JUnit filter that decides whether a test should run based on its package name.
+// ---
+
 package org.chromium.testing.local;
 
 import org.junit.runner.Description;

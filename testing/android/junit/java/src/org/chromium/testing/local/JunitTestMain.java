@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JunitTestMain
+// summary: Entry point that discovers JUnit test classes on the host JVM classpath and runs them according to the provided filter configurations.
+// ---
+
 package org.chromium.testing.local;
 
 import org.json.JSONException;

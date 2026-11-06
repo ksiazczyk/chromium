@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gmock mock of CopyOrMoveHookDelegate
+// summary: Defines a gmock mock of CopyOrMoveHookDelegate with mocked callbacks for file and directory processing, progress, errors and copy or move completion.
+// ---
+
 #ifndef STORAGE_BROWSER_TEST_MOCK_COPY_OR_MOVE_HOOK_DELEGATE_H_
 #define STORAGE_BROWSER_TEST_MOCK_COPY_OR_MOVE_HOOK_DELEGATE_H_
 

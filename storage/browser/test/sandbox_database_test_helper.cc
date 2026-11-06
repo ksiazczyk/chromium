@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sandbox database test helper implementation
+// summary: Provides helpers to corrupt or delete LevelDB database files so storage tests can exercise database failure handling.
+// ---
+
 #include "storage/browser/test/sandbox_database_test_helper.h"
 
 #include <stdint.h>

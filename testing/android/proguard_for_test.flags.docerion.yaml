@@ -1,0 +1,4 @@
+# Docerion header of proguard_for_test.flags.
+type: config
+title: ProGuard flags for test builds
+summary: Specifies ProGuard and R8 keep rules that preserve JUnit, Hamcrest, Mockito and test classes when building test APKs.

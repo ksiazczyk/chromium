@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomShadowApplicationPackageManager
+// summary: Robolectric shadow that resolves ActivityInfo via getPackageInfo so activities can be registered through ShadowPackageManager.
+// ---
+
 package org.chromium.testing.local;
 
 import android.content.ComponentName;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Command line parsing helpers for native tests
+// summary: Provides helpers to parse command line arguments from strings or files and to build an argv array for the native test main function.
+// ---
+
 #include "testing/android/native_test/native_test_util.h"
 
 #include "base/files/file_path.h"

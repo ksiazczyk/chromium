@@ -1,3 +1,13 @@
+---
+type: reference
+title: Blink C++ Style Guide
+summary: Style rules where Blink C++ differs from the Chromium style guide, covering WTF types, naming, and object creation.
+relations:
+  - references /styleguide/c++/c++.md
+  - references /styleguide/c++/c++-dos-and-donts.md
+  - references /third_party/blink/renderer/README.md
+---
+
 # Blink C++ Style Guide
 
 This document is a list of differences from the overall

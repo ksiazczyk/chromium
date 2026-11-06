@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestListComputerTest
+// summary: Unit tests that run sample JUnit classes through TestListComputer and check the generated JSON test list, including allowlist and disabled test handling.
+// ---
+
 package org.chromium.testing.local;
 
 import org.json.JSONException;

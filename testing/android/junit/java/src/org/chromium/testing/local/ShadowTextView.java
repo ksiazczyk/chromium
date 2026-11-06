@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShadowTextView
+// summary: Robolectric shadow for TextView that stubs text services locale updates to prevent background thread access to attached views during unit tests.
+// ---
+
 package org.chromium.testing.local;
 
 import android.widget.TextView;

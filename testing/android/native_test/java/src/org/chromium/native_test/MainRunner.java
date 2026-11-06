@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MainRunner
+// summary: JNI-backed helper that lets a child process invoke the native main() method with a given command line, used for multi-process test cases.
+// ---
+
 package org.chromium.native_test;
 
 import org.jni_zero.JNINamespace;

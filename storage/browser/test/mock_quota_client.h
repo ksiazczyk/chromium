@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock quota client header
+// summary: Declares MockQuotaClient, a fake QuotaClient with configurable bucket usage data, error buckets and call counters for tests.
+// ---
+
 #ifndef STORAGE_BROWSER_TEST_MOCK_QUOTA_CLIENT_H_
 #define STORAGE_BROWSER_TEST_MOCK_QUOTA_CLIENT_H_
 

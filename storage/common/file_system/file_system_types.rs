@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rust FileSystemType cxx bridge
+// summary: Mirrors the C++ FileSystemType enum as a Rust cxx bridge enum so both languages share the same file system type values.
+// ---
+
 #[cxx::bridge(namespace = "storage")]
 pub mod ffi {
     #[repr(i32)]

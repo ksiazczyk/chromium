@@ -3,6 +3,12 @@
      Use of this source code is governed by a BSD-style license that can be
      found in the LICENSE file. -->
 
+<!--docerion
+type: config
+title: Empty APK Android manifest template
+summary: Minimal Android manifest template with a package placeholder that serves as the manifest for empty test APKs.
+-->
+
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
   package="{{package}}">
   <application></application>

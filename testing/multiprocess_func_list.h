@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multiprocess test main registration header
+// summary: Provides the MULTIPROCESS_TEST_MAIN macros and helpers to register functions that run as the main of a child process in multi-process tests.
+// ---
+
 #ifndef TESTING_MULTIPROCESS_FUNC_LIST_H_
 #define TESTING_MULTIPROCESS_FUNC_LIST_H_
 

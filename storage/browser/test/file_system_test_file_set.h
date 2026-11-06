@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File system test case records and block actions
+// summary: Defines FileSystemTestCaseRecord, the TestBlockAction enum and the shared kRegularFileSystemTestCases array used to build test file hierarchies.
+// ---
+
 #ifndef STORAGE_BROWSER_TEST_FILE_SYSTEM_TEST_FILE_SET_H_
 #define STORAGE_BROWSER_TEST_FILE_SYSTEM_TEST_FILE_SET_H_
 

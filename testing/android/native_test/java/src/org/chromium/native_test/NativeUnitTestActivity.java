@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeUnitTestActivity
+// summary: Activity that hosts native unit tests by wiring the NativeUnitTest helper into the onCreate and onStart lifecycle.
+// ---
+
 package org.chromium.native_test;
 
 import android.app.Activity;

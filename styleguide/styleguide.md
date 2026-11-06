@@ -1,3 +1,13 @@
+---
+type: readme
+title: Chromium coding style overview
+summary: Index of Chromium coding style guides for C++, Objective-C, Rust, Swift, Java, Python, GN, Markdown, and web languages.
+relations:
+  - references /build/docs/writing_gn_templates.md
+  - references /docs/security/mojo.md
+  - references /sql/README.md
+---
+
 # Chromium coding style
 
 ## Main style guides

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BouncyCastleProvider Robolectric test stub
+// summary: Lightweight stub of the Bouncy Castle security provider that Robolectric registers during Chromium unit tests, avoiding costly initialization of thousands of cryptographic algorithms.
+// ---
+
 package org.bouncycastle.jce.provider;
 
 import org.chromium.build.annotations.NullMarked;

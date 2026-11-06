@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock quota manager proxy header
+// summary: Declares MockQuotaManagerProxy, a test proxy exposing notification counts and last notified bucket information for assertions.
+// ---
+
 #ifndef STORAGE_BROWSER_TEST_MOCK_QUOTA_MANAGER_PROXY_H_
 #define STORAGE_BROWSER_TEST_MOCK_QUOTA_MANAGER_PROXY_H_
 

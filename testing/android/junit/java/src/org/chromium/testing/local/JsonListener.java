@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JsonListener
+// summary: JUnit RunListener that records per-test results and durations and writes them to a JSON file via JsonLogger.
+// ---
+
 package org.chromium.testing.local;
 
 import org.junit.runner.Description;

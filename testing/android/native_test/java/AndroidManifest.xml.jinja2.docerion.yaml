@@ -1,0 +1,4 @@
+# Docerion header of AndroidManifest.xml.jinja2.
+type: config
+title: Android manifest template for Chromium native tests
+summary: Jinja2 template that renders the AndroidManifest.xml for the native test APK, declaring permissions, the test activity, and multiprocess test client services.

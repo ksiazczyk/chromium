@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Allowlist
+// summary: Prefix-matching allowlist that parses + and - rules from a file to allow or deny test classes by name prefix.
+// ---
+
 package org.chromium.testing.local;
 
 import java.io.IOException;

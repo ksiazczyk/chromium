@@ -1,0 +1,4 @@
+# Docerion header of test.gni.
+type: config
+title: GN templates for test targets
+summary: GN import defining shared test target templates and platform-specific imports and wrappers for building Chromium tests across Android, Fuchsia, iOS, ChromeOS and desktop.

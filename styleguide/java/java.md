@@ -1,3 +1,12 @@
+---
+type: reference
+title: Chromium Java Style Guide
+summary: Chromium's Java style guide covering language features, exceptions, nullability annotations, library APIs, formatting, imports, and testing conventions.
+relations:
+  - references /styleguide/styleguide.md
+  - references /styleguide/java/OWNERS
+---
+
 # Chromium Java Style Guide
 
 _For other languages, please see the

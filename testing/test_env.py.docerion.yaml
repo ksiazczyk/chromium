@@ -1,0 +1,4 @@
+# Docerion header of test_env.py.
+type: source
+title: Chromium unit test environment setup
+summary: Sets environment variables and manages child process cleanup, including Windows Job Objects, for running Chromium unit tests.

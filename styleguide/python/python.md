@@ -1,3 +1,13 @@
+---
+type: guide
+title: Chromium Python Style Guide
+summary: Chromium's Python style rules covering supported versions, vpython usage, shebang lines, PEP-8, portability pitfalls and linting tools such as pylint and Ruff.
+relations:
+  - references /build/OWNERS
+  - references /styleguide/python/blink-python.md
+  - references /styleguide/styleguide.md
+---
+
 # Chromium Python Style Guide
 
 _For other languages, please see the

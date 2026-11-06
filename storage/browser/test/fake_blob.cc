@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake blob implementation
+// summary: Implements a fake blink::mojom::Blob that supports Clone, GetInternalUUID and ReadAll with an optional body, returning errors for unsupported methods.
+// ---
+
 #include "storage/browser/test/fake_blob.h"
 
 #include "mojo/public/cpp/bindings/remote.h"

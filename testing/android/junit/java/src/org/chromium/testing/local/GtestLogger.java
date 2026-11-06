@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GtestLogger
+// summary: Formats and prints test run progress and results to a stream using googletest-style output markers.
+// ---
+
 package org.chromium.testing.local;
 
 import org.junit.runner.Description;

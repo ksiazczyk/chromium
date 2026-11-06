@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake blob class declaration
+// summary: Declares a fake Blob mojom implementation for tests that only supports Clone and GetInternalUUID, with an optional body for reading.
+// ---
+
 #ifndef STORAGE_BROWSER_TEST_FAKE_BLOB_H_
 #define STORAGE_BROWSER_TEST_FAKE_BLOB_H_
 

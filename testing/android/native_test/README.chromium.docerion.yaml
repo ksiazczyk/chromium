@@ -1,0 +1,4 @@
+# Docerion header of README.chromium.
+type: readme
+title: APK-based runner for Chromium unit test bundles
+summary: Describes the wrapper APK that packages a single gtest native library for running Chromium unit tests on Android.

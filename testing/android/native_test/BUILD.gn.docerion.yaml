@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for Android native test support
+summary: Defines GN source sets, JNI generation and Android Java libraries that build the native gtest runner support for Chromium's Android tests.

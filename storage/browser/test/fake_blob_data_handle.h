@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake blob data handle declaration
+// summary: Declares a fake BlobDataItem::DataHandle whose read callbacks complete synchronously with body and side data held in strings.
+// ---
+
 #ifndef STORAGE_BROWSER_TEST_FAKE_BLOB_DATA_HANDLE_H_
 #define STORAGE_BROWSER_TEST_FAKE_BLOB_DATA_HANDLE_H_
 

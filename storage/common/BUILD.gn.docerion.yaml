@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for storage/common
+summary: GN build file defining the storage_common component, its unit test source set, and a Rust static library with their sources and dependencies.

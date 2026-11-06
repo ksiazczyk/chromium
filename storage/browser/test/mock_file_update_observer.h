@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock file update observer header
+// summary: Declares MockFileUpdateObserver, a test double tracking file update start and end notifications with enable and disable controls.
+// ---
+
 #ifndef STORAGE_BROWSER_TEST_MOCK_FILE_UPDATE_OBSERVER_H_
 #define STORAGE_BROWSER_TEST_MOCK_FILE_UPDATE_OBSERVER_H_
 

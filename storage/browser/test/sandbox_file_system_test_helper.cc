@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SandboxFileSystemTestHelper implementation
+// summary: Implements a test helper that sets up sandboxed file system environments for a storage key, bucket and file system type.
+// ---
+
 #include "storage/browser/test/sandbox_file_system_test_helper.h"
 
 #include <memory>

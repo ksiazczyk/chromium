@@ -1,3 +1,11 @@
+---
+type: guide
+title: Markdown Style Guide in Chromium
+summary: Style guide for writing Markdown documentation in Chromium, covering formatting rules, README placement best practices, and how to make documentation changes.
+relations:
+  - references /docs/documentation_guidelines.md
+---
+
 # Markdown Style Guide in Chromium
 
 ## Style Guide

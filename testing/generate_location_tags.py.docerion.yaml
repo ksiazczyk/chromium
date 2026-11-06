@@ -1,0 +1,4 @@
+# Docerion header of generate_location_tags.py.
+type: script
+title: Generate ResultDB location tags
+summary: Invokes dirmd to generate the directory-to-tags mapping used by ResultDB from the checkout root.

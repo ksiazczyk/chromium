@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File system util unit tests
+// summary: GTest suite covering filesystem URL parsing, root URI generation, isolated file system name handling and VirtualPath behavior.
+// ---
+
 
 #include "storage/common/file_system/file_system_util.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockSpecialStoragePolicy implementation
+// summary: Implements a mock special storage policy that reports protected, unlimited, session-only, isolated and persistent origins for tests.
+// ---
+
 #include "storage/browser/test/mock_special_storage_policy.h"
 
 

@@ -1,3 +1,13 @@
+---
+type: reference
+title: Chromium C++ Style Guide
+summary: The main Chromium C++ style guide, defining exceptions to the Google C++ Style Guide.
+relations:
+  - references /docs/clang_format.md
+  - references /styleguide/c++/blink-c++.md
+  - references /styleguide/c++/c++-features.md
+---
+
 # Chromium C++ style guide
 
 _For other languages, please see the

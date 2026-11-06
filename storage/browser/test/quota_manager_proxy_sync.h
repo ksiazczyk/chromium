@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QuotaManagerProxySync header
+// summary: Declares a helper class that returns QuotaManagerProxy bucket lookup results synchronously for tests.
+// ---
+
 #ifndef STORAGE_BROWSER_TEST_QUOTA_MANAGER_PROXY_SYNC_H_
 #define STORAGE_BROWSER_TEST_QUOTA_MANAGER_PROXY_SYNC_H_
 

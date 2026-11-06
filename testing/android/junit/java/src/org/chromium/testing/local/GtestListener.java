@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GtestListener
+// summary: JUnit RunListener that tracks test pass and failure state and reports results in a googletest-like format.
+// ---
+
 package org.chromium.testing.local;
 
 import org.junit.runner.Description;

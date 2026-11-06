@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConfigFilter
+// summary: JUnit filter that restricts test runs to the classes and methods listed in a JSON test config.
+// ---
+
 package org.chromium.testing.local;
 
 import org.json.JSONArray;

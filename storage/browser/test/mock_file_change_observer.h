@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock file change observer header
+// summary: Declares MockFileChangeObserver, a test double that counts file system change notifications and exposes changed URLs and counters.
+// ---
+
 #ifndef STORAGE_BROWSER_TEST_MOCK_FILE_CHANGE_OBSERVER_H_
 #define STORAGE_BROWSER_TEST_MOCK_FILE_CHANGE_OBSERVER_H_
 

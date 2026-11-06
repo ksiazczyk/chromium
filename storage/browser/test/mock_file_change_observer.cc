@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock file change observer implementation
+// summary: Implements a mock file change observer that counts file system create, remove, modify and directory change events during tests.
+// ---
+
 #include "storage/browser/test/mock_file_change_observer.h"
 #include "base/task/single_thread_task_runner.h"
 

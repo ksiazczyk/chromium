@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Database identifier implementation
+// summary: Implements conversion between web origins and underscore-separated database identifier strings, including IPv6 hostname escaping.
+// ---
+
 
 #include "storage/common/database/database_identifier.h"
 

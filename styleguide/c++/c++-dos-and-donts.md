@@ -1,3 +1,11 @@
+---
+type: reference
+title: C++ Dos and Don'ts
+summary: Advisory C++ usage guidance for Chromium covering headers, static variables, initialization, copyability, and comment style.
+relations:
+  - references /styleguide/c++/c++.md
+---
+
 # C++ Dos and Don'ts
 
 ## A Note About Usage

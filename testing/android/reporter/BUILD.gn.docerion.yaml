@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the test reporter Java library
+summary: GN build file defining the testonly reporter_java Android library that compiles TestStatusReporter for native test instrumentation.

@@ -1,3 +1,12 @@
+---
+type: guide
+title: Chromium Web Development Style Guide
+summary: Style rules for Chromium frontend development with TypeScript, CSS, HTML, Polymer, and Lit, covering structure, localization, and Grit processing.
+relations:
+  - references /docs/webui/webui_lit_style_guide.md
+  - references /styleguide/c++/c++.md
+---
+
 # Chromium Web Development Style Guide
 
 [TOC]

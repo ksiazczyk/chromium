@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GTest Mac Objective-C assertion helpers header
+// summary: Declares GTest comparison helpers and the EXPECT_NSEQ/EXPECT_NSNE macros for Objective-C objects such as NSObject, NSRect, NSPoint and NSRange.
+// ---
+
 #ifndef TESTING_GTEST_MAC_H_
 #define TESTING_GTEST_MAC_H_
 

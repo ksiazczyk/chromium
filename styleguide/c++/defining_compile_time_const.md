@@ -1,3 +1,11 @@
+---
+type: reference
+title: Defining Compile-Time Constants Correctly
+summary: Guidelines for declaring compile-time constants with constexpr, static, and inline to avoid ODR violations.
+relations:
+  - references /build/config/compiler/BUILD.gn
+---
+
 # Defining compile-time constants correctly
 
 Using the wrong specifiers on compile-time constants can have surprising effects. For example, Chrome contains many variables that are [declared `constexpr` in a header file but omit `inline`](https://source.chromium.org/search?q=%5Econstexpr%5C%20%5B%5Ei%5D%5B%5E\(\)%3D%5D%2B%5C%20%3D%20%20file:%5C.h$%20-file:%5Egen%2F%20-file:%5Eout%2F%20-file:%5Esrc%2F%20-file:third_party%2F\(%5B%5Eb%5D%7Cb%5B%5El%5D%7Cbl%5B%5Ei%5D%7Cbli%5B%5En%5D%7Cblin%5B%5Ek%5D%7Cblink%5B%5E%2F%5D\)). This gives every `.cc` file using these constants its own copies, which violates the one-definition rule (“ODR”) and is technically undefined behavior (“UB”).

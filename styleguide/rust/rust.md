@@ -1,3 +1,12 @@
+---
+type: guide
+title: Chromium Rust Style Guide
+summary: Points to the Rust style and API guidelines Chromium follows, notes planned adoption of the Google Rust Style Guide, and links to Chromium-specific API design docs.
+relations:
+  - references /docs/rust/api_design.md
+  - references /styleguide/styleguide.md
+---
+
 # Chromium Rust Style Guide
 
 _For other languages, please see the [Chromium style

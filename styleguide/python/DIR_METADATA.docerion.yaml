@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Python styleguide directory metadata
+summary: Declares the monorail component, team email and Buganizer component used for issues about this directory.

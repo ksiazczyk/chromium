@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GtestFilterTest
+// summary: Unit tests verifying that GtestFilter matches JUnit test descriptions according to positive and negative gtest filter patterns.
+// ---
+
 package org.chromium.testing.local;
 
 import org.junit.Assert;

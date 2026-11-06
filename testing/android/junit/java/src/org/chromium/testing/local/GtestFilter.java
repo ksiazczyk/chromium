@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GtestFilter
+// summary: JUnit filter that converts googletest-style filter strings into positive and negative regexes to select which tests run.
+// ---
+
 package org.chromium.testing.local;
 
 import org.junit.runner.Description;

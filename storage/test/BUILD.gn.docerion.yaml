@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: iOS test bundle data build target
+summary: Defines the testonly bundle_data_from_filelist target that packages the test bundle data for iOS builds.

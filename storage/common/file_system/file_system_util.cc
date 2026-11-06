@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File system utility implementations
+// summary: Implements VirtualPath helpers and functions for parsing filesystem scheme URLs, building root URIs and deriving file system names.
+// ---
+
 #include "storage/common/file_system/file_system_util.h"
 
 #include <stddef.h>

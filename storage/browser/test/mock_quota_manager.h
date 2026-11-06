@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock quota manager header
+// summary: Declares MockQuotaManager, an in-memory QuotaManager test double with helpers to set quota, update usage and add storage keys.
+// ---
+
 #ifndef STORAGE_BROWSER_TEST_MOCK_QUOTA_MANAGER_H_
 #define STORAGE_BROWSER_TEST_MOCK_QUOTA_MANAGER_H_
 
