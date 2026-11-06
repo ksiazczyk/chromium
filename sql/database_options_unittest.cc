@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Database options unit tests
+// summary: Parameterized unit tests verifying sql::Database option combinations like WAL mode, exclusive locking and flush-to-media across in-memory and on-disk open variants.
+// ---
+
 #include <optional>
 
 #include "base/files/file_path.h"

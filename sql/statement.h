@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQL statement class declaration
+// summary: Declares the Statement class for compiling and executing SQL statements, including binding, stepping, and column access APIs.
+// ---
+
 #ifndef SQL_STATEMENT_H_
 #define SQL_STATEMENT_H_
 

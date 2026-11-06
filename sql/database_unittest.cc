@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Database unit tests
+// summary: Extensive unit tests for the sql::Database wrapper covering opening, journal modes, transactions, error handling, recovery and memory dump reporting.
+// ---
+
 #include "sql/database.h"
 
 #include <stddef.h>

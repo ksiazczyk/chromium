@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpacityFilterCanvas class declaration
+// summary: Declares OpacityFilterCanvas, an SkPaintFilterCanvas that sets opacity on every draw and can disable image filtering.
+// ---
+
 #ifndef SKIA_EXT_OPACITY_FILTER_CANVAS_H_
 #define SKIA_EXT_OPACITY_FILTER_CANVAS_H_
 

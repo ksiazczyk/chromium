@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for StreamingBlobHandle
+// summary: Unit tests for streaming blob reads, writes, and error handling through StreamingBlobHandle, including death tests for CHECK failures.
+// ---
+
 #include "sql/streaming_blob_handle.h"
 
 #include <stddef.h>

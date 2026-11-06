@@ -1,0 +1,4 @@
+# Docerion header of font_utils_mac_unittest.mm.
+type: test
+title: Mac unit tests for hvgl typeface instantiation
+summary: Tests that macOS hvgl fonts such as PingFang SC can be instantiated without stream data through Fontations.

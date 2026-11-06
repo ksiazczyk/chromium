@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SkColorSpacePrimaries unit tests
+// summary: Unit tests verifying D65 primary derivation from matrices and FractionGamutCovered results across sRGB, P3, Rec2020, A98RGB, and degenerate gamuts.
+// ---
+
 #include "skia/ext/skcolorspace_primaries.h"
 
 #include "base/compiler_specific.h"

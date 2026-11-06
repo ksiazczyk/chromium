@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia test SkFontMgr initialization
+// summary: Implements InitializeSkFontMgrForTest for Fuchsia by overriding the default SkFontMgr with a Fuchsia font manager backed by the test fonts provider.
+// ---
+
 #include "skia/ext/test_fonts_fuchsia.h"
 
 #include <fuchsia/fonts/cpp/fidl.h>

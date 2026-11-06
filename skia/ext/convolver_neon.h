@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NEON convolution function declarations
+// summary: Declares the ARM NEON SIMD convolution entry points used by the Skia image convolver.
+// ---
+
 #ifndef SKIA_EXT_CONVOLVER_NEON_H_
 #define SKIA_EXT_CONVOLVER_NEON_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS Skia utilities header
+// summary: Declares iOS helpers for converting between CGImage, UIImage and SkBitmap, including decoding image data representations and color conversions.
+// ---
+
 #ifndef SKIA_EXT_SKIA_UTILS_IOS_H_
 #define SKIA_EXT_SKIA_UTILS_IOS_H_
 

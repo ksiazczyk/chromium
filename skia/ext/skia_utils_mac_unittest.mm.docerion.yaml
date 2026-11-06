@@ -1,0 +1,4 @@
+# Docerion header of skia_utils_mac_unittest.mm.
+type: test
+title: Skia Mac utilities unit tests
+summary: Tests conversion of Skia bitmaps to and from NSImage and NSBitmapImageRep across color types.

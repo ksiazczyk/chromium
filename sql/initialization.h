@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQLite initialization interface
+// summary: Declares EnsureSqliteInitialized to guarantee sqlite3_initialize is called and the functionality-modifying wrapper VFS is installed.
+// ---
+
 #ifndef SQL_INITIALIZATION_H_
 #define SQL_INITIALIZATION_H_
 

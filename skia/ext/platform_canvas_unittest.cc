@@ -4,6 +4,12 @@
 
 // TODO(awalker): clean up the const/non-const reference handling in this test
 
+// ---docerion
+// type: test
+// title: Platform canvas unit tests
+// summary: Unit tests for platform canvas creation, pixel reading, and rectangle drawing behavior.
+// ---
+
 #include "skia/ext/platform_canvas.h"
 
 #include <stdint.h>

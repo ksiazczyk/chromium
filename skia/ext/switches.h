@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia text rendering switch declarations
+// summary: Declares the exported text-contrast and text-gamma switch name constants.
+// ---
+
 #ifndef SKIA_EXT_SWITCHES_H_
 #define SKIA_EXT_SWITCHES_H_
 

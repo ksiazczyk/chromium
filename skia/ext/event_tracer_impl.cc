@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia event tracer implementation
+// summary: Binds Skia's event tracing interface to Chromium's trace event system and initializes the tracer.
+// ---
+
 #include "skia/ext/event_tracer_impl.h"
 
 #include <stdint.h>

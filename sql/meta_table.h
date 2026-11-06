@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetaTable header for database metadata and versioning
+// summary: Declares the MetaTable class that manages a generic metadata table with key-value storage, schema version control, and mmap status tracking for SQLite databases.
+// ---
+
 #ifndef SQL_META_TABLE_H_
 #define SQL_META_TABLE_H_
 

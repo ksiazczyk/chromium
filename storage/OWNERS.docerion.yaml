@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Storage directory owners
+summary: Lists the owners, set without parent delegation, who are responsible for reviewing changes in the storage directory.

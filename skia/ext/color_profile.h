@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ColorProfile class header
+// summary: Declares the ColorProfile class with factories from ICC data, codecs, and color space primaries, plus accessors for color spaces and HDR metadata.
+// ---
+
 #ifndef SKIA_EXT_COLOR_PROFILE_H_
 #define SKIA_EXT_COLOR_PROFILE_H_
 

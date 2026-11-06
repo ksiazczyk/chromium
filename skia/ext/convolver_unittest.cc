@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Convolver unit tests
+// summary: Unit tests verifying impulse and box filter convolution behavior of the Skia image convolver.
+// ---
+
 #include "skia/ext/convolver.h"
 
 #include <stdint.h>

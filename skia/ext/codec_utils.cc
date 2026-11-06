@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PNG codec utilities
+// summary: Provides PNG encoding helpers, fast encoding and data URI creation via Skia's Rust PNG encoder, plus registration of the PNG decoder.
+// ---
+
 #include "skia/ext/codec_utils.h"
 
 #include "base/base64.h"

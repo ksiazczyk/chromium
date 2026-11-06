@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LegacyDisplayGlobals class declaration
+// summary: Declares the LegacyDisplayGlobals class that provides cached SkSurfaceProps based on display settings.
+// ---
+
 #ifndef SKIA_EXT_LEGACY_DISPLAY_GLOBALS_H_
 #define SKIA_EXT_LEGACY_DISPLAY_GLOBALS_H_
 

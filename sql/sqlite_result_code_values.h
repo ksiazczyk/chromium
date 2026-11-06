@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQLite result code enum values
+// summary: Defines the numeric values of the SqliteResultCode, SqliteErrorCode, and SqliteLoggedResultCode enums mirroring SQLite's result codes.
+// ---
+
 #ifndef SQL_SQLITE_RESULT_CODE_VALUES_H_
 #define SQL_SQLITE_RESULT_CODE_VALUES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia histogram wrappers implementation
+// summary: Implements histogram functions that mimic Chrome UMA macros while using an external atomic histogram pointer so Skia can record metrics.
+// ---
+
 #include "skia/ext/skia_histogram.h"
 
 #include <type_traits>

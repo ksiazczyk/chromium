@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StreamingBlobHandle class declaration
+// summary: Declares the StreamingBlobHandle class that wraps an open SQLite blob handle for streaming reads and writes, obtained via sql::Database::GetStreamingBlob().
+// ---
+
 #ifndef SQL_STREAMING_BLOB_HANDLE_H_
 #define SQL_STREAMING_BLOB_HANDLE_H_
 

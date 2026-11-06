@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQLite result code enums and helpers
+// summary: Declares strongly typed SQLite result and error code enums plus conversion and UMA logging helpers that isolate sqlite3.h from wrapper callers.
+// ---
+
 #ifndef SQL_SQLITE_RESULT_CODE_H_
 #define SQL_SQLITE_RESULT_CODE_H_
 

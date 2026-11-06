@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CICP color space conversion declarations
+// summary: Declares helpers that map CICP metadata to Skia color spaces, returning supported combinations of matrix coefficients, range and bit depth.
+// ---
+
 #ifndef SKIA_EXT_CICP_H_
 #define SKIA_EXT_CICP_H_
 

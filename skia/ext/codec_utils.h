@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PNG codec utility declarations
+// summary: Declares PNG encoding helpers, data URI creation and startup-only PNG decoder registration functions in the skia namespace.
+// ---
+
 #ifndef SKIA_EXT_CODEC_UTILS_H_
 #define SKIA_EXT_CODEC_UTILS_H_
 

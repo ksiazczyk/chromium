@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: sql::Database class header
+// summary: Declares the sql::Database API and DatabaseOptions for managing SQLite database connections, including locking and page size settings.
+// ---
+
 #ifndef SQL_DATABASE_H_
 #define SQL_DATABASE_H_
 

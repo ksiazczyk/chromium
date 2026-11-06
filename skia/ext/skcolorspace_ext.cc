@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Approximate SkColorSpace comparison
+// summary: Implements ApproximatelyEqual, which compares two SkColorSpaces using tolerance thresholds for transfer function parameters and gamut matrices.
+// ---
+
 #include "skia/ext/skcolorspace_ext.h"
 
 #include <cmath>

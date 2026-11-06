@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast SkRegion construction from rect operations
+// summary: Implements RegionFromRectOps, which applies ordered add and subtract rectangle ops to build an SkRegion in O(n log n) via recursive divide and conquer.
+// ---
+
 #include "skia/ext/region_ops.h"
 
 #include "base/containers/span.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SQLite result code unit tests
+// summary: Unit tests for converting SQLite result codes to typed enums, error code conversion, and UMA histogram logging behavior.
+// ---
+
 #include "sql/sqlite_result_code.h"
 
 #include "base/dcheck_is_on.h"

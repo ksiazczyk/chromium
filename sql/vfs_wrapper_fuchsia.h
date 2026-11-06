@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia SQLite file locking declarations
+// summary: Declares Lock, Unlock and CheckReservedLock functions that simulate SQLite file locking between database connections within one browser process on Fuchsia.
+// ---
+
 #ifndef SQL_VFS_WRAPPER_FUCHSIA_H_
 #define SQL_VFS_WRAPPER_FUCHSIA_H_
 

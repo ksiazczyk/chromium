@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SQLite memory dump provider unit tests
+// summary: Unit test verifying that the SQLite memory dump provider produces an sqlite allocator dump for a temporary test database.
+// ---
+
 #include "sql/sql_memory_dump_provider.h"
 
 #include "base/files/scoped_temp_dir.h"

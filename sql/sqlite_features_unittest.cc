@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SQLite feature configuration tests
+// summary: Tests that Chromium's SQLite build enables and disables expected features, such as absent FTS modules, foreign key support, and usleep granularity.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

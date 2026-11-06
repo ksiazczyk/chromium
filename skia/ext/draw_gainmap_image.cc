@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gainmap image drawing implementation
+// summary: Implements drawing of gainmap HDR images on Skia canvases, including gainmap resampling and clipping.
+// ---
+
 #include "skia/ext/draw_gainmap_image.h"
 
 #include "base/check_op.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CICP to Skia color space conversion
+// summary: Implements functions that map CICP color primaries, transfer characteristics, matrix coefficients and range flags to SkColorSpace and SkYUVColorSpace values.
+// ---
+
 #include "skia/ext/cicp.h"
 
 namespace skia {

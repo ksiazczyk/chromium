@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transfer function scaling helpers and named transfer functions
+// summary: Declares transfer function scaling utilities and constants for CSS predefined and helper transfer functions such as sRGB, Rec2020, and extended sRGB.
+// ---
+
 #ifndef SKIA_EXT_SKCOLORSPACE_TRFN_H_
 #define SKIA_EXT_SKCOLORSPACE_TRFN_H_
 

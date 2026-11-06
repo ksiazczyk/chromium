@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Storage unit tests build definition
+summary: Defines the storage_unittests GN test target that aggregates unit tests from storage browser and common, with iOS-specific test bundle data.

@@ -1,0 +1,4 @@
+# Docerion header of features.gni.
+type: config
+title: Skia feature flags
+summary: Declares GN build arguments that enable Skia backends and features such as Dawn, Graphite Vulkan, GPU rasterization, PDF, Skottie and XMP support.

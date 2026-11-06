@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia base utilities implementation
+// summary: Implements helpers for reading and writing Skia strings, font identities and styles in pickles, converting bitmaps to N32, and formatting colors and color spaces.
+// ---
+
 
 #include "skia/ext/skia_utils_base.h"
 

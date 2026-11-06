@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default font manager utilities
+// summary: Provides the platform-specific default SkFontMgr, override support, and typeface creation helpers.
+// ---
+
 #include "skia/ext/font_utils.h"
 
 #include "base/check.h"

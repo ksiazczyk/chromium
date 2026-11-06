@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the sql directory
+summary: Declares dependency include rules for the sql directory, permitting includes from third_party/sqlite.

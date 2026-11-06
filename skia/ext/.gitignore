@@ -1,1 +1,7 @@
+# ---docerion
+# type: config
+# title: Gitignore for skia/ext
+# summary: Ignores the generated skia_commit_hash.h header in the skia/ext directory.
+# ---
+
 skia_commit_hash.h

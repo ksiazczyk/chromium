@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandboxed SQLite VFS implementation
+// summary: Implements the sandboxed SQLite VFS, wiring sqlite3_vfs callbacks to SandboxedVfs operations for use in sandboxed processes.
+// ---
+
 #include "sql/sandboxed_vfs.h"
 
 #include <algorithm>

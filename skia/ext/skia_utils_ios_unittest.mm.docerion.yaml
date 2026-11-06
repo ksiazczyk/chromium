@@ -1,0 +1,4 @@
+# Docerion header of skia_utils_ios_unittest.mm.
+type: test
+title: iOS Skia utilities unit tests
+summary: Unit tests for the iOS Skia utilities that decode base64-encoded ICO data and verify image conversions on iOS.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQLite error classification implementation
+// summary: Implements IsErrorCatastrophic, classifying SQLite result codes that indicate database corruption and warrant recovery or razing of the database.
+// ---
+
 #include "sql/error_delegate_util.h"
 
 #include <ostream>  // IWYU pragma: keep to use operator << with NOTREACHED().

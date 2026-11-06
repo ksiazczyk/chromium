@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image convolution implementation
+// summary: Implements 2D image convolution with a circular row buffer and dispatches to SSE2, NEON, MIPS DSP, and LSX optimized variants.
+// ---
+
 
 #include "skia/ext/convolver.h"
 

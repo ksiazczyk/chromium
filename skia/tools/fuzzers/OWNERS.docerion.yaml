@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the Skia fuzzers directory
+summary: Lists the Chromium owner responsible for reviewing changes to the Skia fuzzers directory.

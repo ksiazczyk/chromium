@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia histogram macros and declarations
+// summary: Exposes Chrome histogram functionality to Skia via SK_HISTOGRAM macros and declares the underlying skia::Histogram* functions.
+// ---
+
 #ifndef SKIA_EXT_SKIA_HISTOGRAM_H_
 #define SKIA_EXT_SKIA_HISTOGRAM_H_
 

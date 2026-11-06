@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for region ops
+// summary: Tests RegionFromRectOps for empty inputs, later-op precedence, agreement with the naive one-op-per-rect approach, and large rect sets.
+// ---
+
 #include "skia/ext/region_ops.h"
 
 #include <algorithm>

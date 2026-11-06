@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia switches export macros
+// summary: Defines import and export macros for the Skia switches component build.
+// ---
+
 #ifndef SKIA_EXT_SWITCHES_EXPORT_H_
 #define SKIA_EXT_SWITCHES_EXPORT_H_
 

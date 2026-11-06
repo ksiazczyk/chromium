@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia Windows utilities implementation
+// summary: Implements conversions between Skia types and GDI structures plus HDC and bitmap header helpers.
+// ---
+
 #include "skia/ext/skia_utils_win.h"
 
 #include <windows.h>

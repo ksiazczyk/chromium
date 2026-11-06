@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Table management helper declarations
+// summary: Declares helper functions for building SQL statements and managing tables, including create, rename, add and drop column, and cached statement builders.
+// ---
+
 #ifndef SQL_TABLE_MANAGEMENT_HELPERS_H_
 #define SQL_TABLE_MANAGEMENT_HELPERS_H_
 

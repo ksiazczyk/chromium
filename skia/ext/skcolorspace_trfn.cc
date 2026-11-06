@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transfer function scaling implementation
+// summary: Implements ScaleTransferFunction and IsScaledTransferFunction, which scale skcms transfer functions by a factor and detect whether one is a scaled copy of another.
+// ---
+
 #include "skia/ext/skcolorspace_trfn.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform canvas API declaration
+// summary: Declares factory functions for platform canvases plus pixel read and writable access helpers.
+// ---
+
 #ifndef SKIA_EXT_PLATFORM_CANVAS_H_
 #define SKIA_EXT_PLATFORM_CANVAS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandboxed VFS file implementation
+// summary: Implements sqlite3_file IO method callbacks that bridge SQLite file operations to SandboxedVfsFile instances.
+// ---
+
 #include "sql/sandboxed_vfs_file.h"
 
 #include <stddef.h>

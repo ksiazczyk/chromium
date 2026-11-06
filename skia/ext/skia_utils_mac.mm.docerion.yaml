@@ -1,0 +1,4 @@
+# Docerion header of skia_utils_mac.mm.
+type: source
+title: Skia Mac utilities implementation
+summary: Implements conversions between Skia bitmaps and NSImage, NSImageRep, and CGImage with color space handling.

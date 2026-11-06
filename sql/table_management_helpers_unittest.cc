@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for table management helpers
+// summary: Unit tests verifying table management helpers such as CreateTable, CreateIndex, and the statement builders against an in-memory database.
+// ---
+
 #include "sql/table_management_helpers.h"
 
 #include <stdint.h>

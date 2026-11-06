@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Database memory dump provider
+// summary: Implements a provider that reports SQLite database cache, schema, and statement memory usage to Chrome's memory tracing dumps.
+// ---
+
 #include "sql/database_memory_dump_provider.h"
 
 #include <inttypes.h>

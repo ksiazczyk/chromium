@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SQL test suite implementation
+// summary: Implements SQLTestSuite, which initializes the base test suite and registers the sql test path provider.
+// ---
+
 #include "sql/test/sql_test_suite.h"
 
 #include "base/test/test_suite.h"

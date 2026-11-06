@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the sql component
+summary: Defines the sql component, its test support library, and the sql_unittests target, including sources, dependencies, and fuzzer grouping.

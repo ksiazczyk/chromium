@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestVfs implementation
+// summary: Implements a test SQLite VFS that wraps the default VFS and forwards file IO callbacks to overridable virtual methods for unit tests.
+// ---
+
 #include "sql/test/test_vfs.h"
 
 #include <stddef.h>

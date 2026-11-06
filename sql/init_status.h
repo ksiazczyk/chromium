@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Database initialization status enum
+// summary: Defines the InitStatus enum used as the return value of database init functions, covering success, failure, too-new databases and data-loss recovery.
+// ---
+
 #ifndef SQL_INIT_STATUS_H_
 #define SQL_INIT_STATUS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Storage include dependency rules
+summary: Specifies the include rules listing the directories and modules that code in the storage directory is allowed to depend on.

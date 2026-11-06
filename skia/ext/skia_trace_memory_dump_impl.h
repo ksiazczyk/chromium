@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia trace memory dump implementation header
+// summary: Declares SkiaTraceMemoryDumpImpl, an adapter bridging Skia's SkTraceMemoryDump callbacks to Chromium's ProcessMemoryDump.
+// ---
+
 #ifndef SKIA_EXT_SKIA_TRACE_MEMORY_DUMP_IMPL_H_
 #define SKIA_EXT_SKIA_TRACE_MEMORY_DUMP_IMPL_H_
 

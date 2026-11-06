@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Fuchsia font manager
+// summary: Tests SkFontMgr_Fuchsia typeface caching, lifetime beyond the manager, and re-creation after release.
+// ---
+
 #include <fuchsia/fonts/cpp/fidl.h>
 
 #include "skia/ext/test_fonts_fuchsia.h"

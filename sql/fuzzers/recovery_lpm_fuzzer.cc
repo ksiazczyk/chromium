@@ -5,6 +5,12 @@
 // This fuzzer constructs a DB from fuzzer-derived SQL statements and then
 // mutates the file with fuzzer-derived XOR masks before exercising recovery.
 
+// ---docerion
+// type: source
+// title: SQL recovery libprotobuf-mutator fuzzer
+// summary: Builds a database from fuzzer-derived SQL statements, corrupts the file with fuzzer-derived XOR masks, and exercises SQLite recovery, with options to dump inputs or copy the mutated database.
+// ---
+
 #include <fuzzer/FuzzedDataProvider.h>
 
 #include <algorithm>

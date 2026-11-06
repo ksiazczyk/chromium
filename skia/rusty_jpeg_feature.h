@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rusty JPEG feature flag header for Skia
+// summary: Declares the kRustyJpegFeature flag and an inline helper that reports whether Rust should be used for JPEG decoding and encoding.
+// ---
+
 #ifndef SKIA_RUSTY_JPEG_FEATURE_H_
 #define SKIA_RUSTY_JPEG_FEATURE_H_
 

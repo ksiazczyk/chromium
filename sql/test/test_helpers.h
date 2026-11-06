@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SQL test helpers interface
+// summary: Declares test-only convenience functions for SQL database tests, including corruption helpers, schema counters, and query result utilities.
+// ---
+
 #ifndef SQL_TEST_TEST_HELPERS_H_
 #define SQL_TEST_TEST_HELPERS_H_
 

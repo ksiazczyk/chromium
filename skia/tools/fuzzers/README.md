@@ -1,3 +1,13 @@
+---
+type: readme
+title: Skia Fuzzers in Chromium
+summary: Explains why Skia fuzzers are built in Chromium for Windows, describes the directory structure, and how to add or update fuzzer targets.
+relations:
+  - documents /skia/tools/fuzzers/BUILD.gn
+  - documents /skia/tools/fuzzers/fuzzer_environment.cc
+  - documents /skia/tools/fuzzers/OWNERS
+---
+
 # Skia Fuzzers in Chromium
 
 This directory provides GN build configurations and test environment setup to build and run Skia fuzz targets within Chromium on Windows.

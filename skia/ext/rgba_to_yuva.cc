@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RGBA to YUVA conversion implementation
+// summary: Implements blitting RGBA images into YUVA planes and conversions between RGBA and YUV pixmaps, including color space conversion and bit depth scaling.
+// ---
+
 #include "skia/ext/rgba_to_yuva.h"
 
 #include <array>

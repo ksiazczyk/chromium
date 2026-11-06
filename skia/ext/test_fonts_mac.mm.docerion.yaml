@@ -1,0 +1,4 @@
+# Docerion header of test_fonts_mac.mm.
+type: source
+title: macOS test SkFontMgr initialization
+summary: Initializes the Skia font manager for tests on macOS by registering Ahem and ChromiumAATTest fonts from the framework bundle via CoreText.

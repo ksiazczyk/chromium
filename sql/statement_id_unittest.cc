@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for StatementID
+// summary: Unit tests verifying StatementID comparison, ordering, and copy semantics, including the documented edge case of two SQL_FROM_HERE macros on the same line.
+// ---
+
 #include "sql/statement_id.h"
 
 #include <string>

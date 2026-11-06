@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome SkDiscardableMemory implementation
+// summary: Implements the SkDiscardableMemory interface on top of Chromium's base::DiscardableMemory allocator, including lock, unlock and memory dump support.
+// ---
+
 #include "skia/ext/SkDiscardableMemory_chrome.h"
 
 #include <stddef.h>

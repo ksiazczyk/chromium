@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gainmap image drawing declarations
+// summary: Declares functions to draw gainmap images on a Skia canvas, tiling base and gainmap images as needed.
+// ---
+
 #ifndef SKIA_EXT_DRAW_GAINMAP_IMAGE_H_
 #define SKIA_EXT_DRAW_GAINMAP_IMAGE_H_
 

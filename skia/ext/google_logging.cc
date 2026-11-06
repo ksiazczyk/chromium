@@ -6,6 +6,12 @@
 // for Skia SkASSERT. If you don't want this, you can link with another file
 // that provides integration with the logging of your choice.
 
+// ---docerion
+// type: source
+// title: Skia logging integration with Chromium base
+// summary: Routes Skia assertion logging and debug output to Chromium's base/logging.h.
+// ---
+
 #include "base/logging.h"
 #include "base/strings/stringprintf.h"
 #include "third_party/skia/include/core/SkTypes.h"

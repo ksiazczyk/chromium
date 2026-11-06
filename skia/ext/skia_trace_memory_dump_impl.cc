@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia trace memory dump implementation
+// summary: Implements SkTraceMemoryDump for Chromium, forwarding Skia numeric and string dump values and memory backings into base trace event dumps.
+// ---
+
 #include "skia/ext/skia_trace_memory_dump_impl.h"
 
 #include "base/compiler_specific.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skottie basic rendering unit test
+// summary: Verifies that a simple Skottie animation loads and renders a solid green layer correctly.
+// ---
+
 #include "third_party/skia/modules/skottie/include/Skottie.h"
 
 #include "base/compiler_specific.h"

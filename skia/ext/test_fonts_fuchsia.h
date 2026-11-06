@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia test fonts provider declaration
+// summary: Declares GetTestFontsProvider, which returns a fuchsia.fonts.Provider handle serving fonts from the package's test_fonts directory.
+// ---
+
 #ifndef SKIA_EXT_TEST_FONTS_FUCHSIA_H_
 #define SKIA_EXT_TEST_FONTS_FUCHSIA_H_
 

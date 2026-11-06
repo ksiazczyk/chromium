@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn targets for the SQL recovery fuzzer
+summary: Defines the sql_recovery_lpm_fuzzer libFuzzer test target and the fuzzable sql_disk_corruption proto library with their build dependencies.

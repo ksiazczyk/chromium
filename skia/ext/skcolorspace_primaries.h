@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SkColorSpacePrimaries helpers and named primaries
+// summary: Declares primaries utilities such as gamut coverage and D65 derivation, plus constants for CSS Color Level 4 and other named color primaries.
+// ---
+
 #ifndef SKIA_EXT_SKCOLORSPACE_PRIMARIES_H_
 #define SKIA_EXT_SKCOLORSPACE_PRIMARIES_H_
 

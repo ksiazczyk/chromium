@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LegacyDisplayGlobals implementation
+// summary: Caches pixel geometry and text contrast and gamma settings and builds SkSurfaceProps for legacy display rendering.
+// ---
+
 #include "skia/ext/legacy_display_globals.h"
 
 #include "base/command_line.h"

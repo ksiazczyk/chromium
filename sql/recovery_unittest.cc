@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Recovery unit tests
+// summary: Parameterized unit tests for database recovery, exercising recovery decisions, WAL and non-WAL modes, and recovery result histograms.
+// ---
+
 #include "sql/recovery.h"
 
 #include <stddef.h>

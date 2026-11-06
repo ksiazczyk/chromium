@@ -6,6 +6,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: config
+// title: Skia user configuration header for Chromium
+// summary: 'Chromium-specific Skia settings included by SkTypes.h: defines build flags, pixel channel shifts, PDF options, and file-line logging and abort helpers.'
+// ---
+
 
 #ifndef SKIA_CONFIG_SKUSERCONFIG_H_
 #define SKIA_CONFIG_SKUSERCONFIG_H_

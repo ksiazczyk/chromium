@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Skia build rules for Chromium
+summary: GN build file defining Skia targets, compiler configs, buildflag headers and the Rust fontations bridge for building Skia inside Chromium.

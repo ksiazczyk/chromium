@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test path provider header
+// summary: Declares the test path keys and the RegisterPathProvider function for locating the sql test data directory.
+// ---
+
 #ifndef SQL_TEST_PATHS_H_
 #define SQL_TEST_PATHS_H_
 

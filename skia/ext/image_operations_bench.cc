@@ -14,6 +14,12 @@
 // This number is somewhat reasonable way to measure this, given our current
 // implementation which somewhat scales this way.
 
+// ---docerion
+// type: source
+// title: ImageOperations resize benchmark program
+// summary: Standalone benchmark that measures the throughput of the resize algorithms offered by ImageOperations::Resize.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 #include <stdio.h>

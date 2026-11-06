@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test path provider implementation
+// summary: Implements the sql test path provider that resolves the sql test data directory and registers it with the base path service.
+// ---
+
 #include "sql/test/paths.h"
 
 #include "base/base_paths.h"

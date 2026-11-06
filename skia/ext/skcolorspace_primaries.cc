@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SkColorSpacePrimaries helpers implementation
+// summary: Implements equality operators, string formatting, D65 primary derivation from XYZD50 matrices, and gamut coverage fraction computation for SkColorSpacePrimaries.
+// ---
+
 
 #include "skia/ext/skcolorspace_primaries.h"
 
