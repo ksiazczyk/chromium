@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the sync_preferences directory
+summary: Delegates review ownership to the prefs and sync component owners and recommends the sync reviews mailing list.

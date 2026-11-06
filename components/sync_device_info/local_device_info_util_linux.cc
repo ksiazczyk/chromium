@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux personalizable device name implementation
+// summary: Linux implementation of GetPersonalizableDeviceNameInternal that returns the hostname, falling back to the distribution name for generic hosts.
+// ---
+
 #include <limits.h>  // for HOST_NAME_MAX
 #include <unistd.h>  // for gethostname()
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceInfoSyncBridge implementation
+// summary: Implements the sync bridge for the DEVICE_INFO data type, handling local device info storage, applying remote changes, and periodic pulses of device info.
+// ---
+
 #include "components/sync_device_info/device_info_sync_bridge.h"
 
 #include <stdint.h>

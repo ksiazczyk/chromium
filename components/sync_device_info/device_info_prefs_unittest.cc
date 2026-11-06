@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceInfoPrefs unit tests
+// summary: Unit tests for DeviceInfoPrefs covering garbage collection of expired cache GUIDs, cleanup of corrupt entries, and truncation to the maximum number of GUIDs.
+// ---
+
 #include "components/sync_device_info/device_info_prefs.h"
 
 #include "base/strings/stringprintf.h"

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the sync tab context component
+summary: Points the directory metadata at the shared sync component mixins via COMMON_METADATA.

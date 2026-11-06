@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionSyncService interface
+// summary: Declares the KeyedService interface for session (tab) sync, exposing the global ID mapper, open tabs UI delegate, foreign session change notifications and controller delegate.
+// ---
+
 #ifndef COMPONENTS_SYNC_SESSIONS_SESSION_SYNC_SERVICE_H_
 #define COMPONENTS_SYNC_SESSIONS_SESSION_SYNC_SERVICE_H_
 

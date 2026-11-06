@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeEphemeralKeyServer implementation
+// summary: Implements a fake ephemeral key server for tests that issues ephemeral key sets over HTTP and decrypts container content with previously issued keys.
+// ---
+
 #include "components/sync_tab_context/fake_ephemeral_key_server.h"
 
 #include <utility>

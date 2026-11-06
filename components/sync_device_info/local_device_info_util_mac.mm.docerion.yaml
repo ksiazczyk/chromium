@@ -1,0 +1,4 @@
+# Docerion header of local_device_info_util_mac.mm.
+type: source
+title: Mac personalizable device name implementation
+summary: Mac implementation of GetPersonalizableDeviceNameInternal that returns the local hostname, computer name or hardware model as a fallback.

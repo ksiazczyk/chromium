@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalSessionEventHandlerImpl class declaration
+// summary: Declares the class that propagates local session changes to the in-memory session tracker and the persistence and sync layers via a write batch delegate.
+// ---
+
 #ifndef COMPONENTS_SYNC_SESSIONS_LOCAL_SESSION_EVENT_HANDLER_IMPL_H_
 #define COMPONENTS_SYNC_SESSIONS_LOCAL_SESSION_EVENT_HANDLER_IMPL_H_
 

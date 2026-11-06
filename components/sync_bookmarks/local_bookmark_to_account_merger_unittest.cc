@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LocalBookmarkToAccountMerger unit tests
+// summary: Unit tests covering merging of local bookmarks into account storage, including upload, deduplication and subtree selection scenarios.
+// ---
+
 #include "components/sync_bookmarks/local_bookmark_to_account_merger.h"
 
 #include <memory>

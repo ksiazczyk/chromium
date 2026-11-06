@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SyncedSession unit tests
+// summary: Unit tests verifying conversion of navigation data between SerializedNavigationEntry and sync protocol buffers.
+// ---
+
 #include "components/sync_sessions/synced_session.h"
 
 #include <cstddef>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for sync_sessions dependencies
+summary: Specifies which directories the sync_sessions component may include headers from.

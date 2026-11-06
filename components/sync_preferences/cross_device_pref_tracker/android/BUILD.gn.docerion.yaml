@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Cross-device pref tracker Android build config
+summary: GN build file defining the Java library, JNI header generation, and enum conversion targets for the Android cross-device preference tracker.

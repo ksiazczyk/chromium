@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RemoteDeviceInfo unit tests
+// summary: Tests last-active-time display formatting for RemoteDeviceInfo across now, minute, hour and day boundaries, including clock skew.
+// ---
+
 #include "components/sync_device_info/remote_device_info.h"
 
 #include "base/test/task_environment.h"

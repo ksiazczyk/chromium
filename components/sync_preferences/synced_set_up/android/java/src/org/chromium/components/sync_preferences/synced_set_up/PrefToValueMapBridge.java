@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefToValueMapBridge JNI bridge for preference key-value maps
+// summary: Java-side JNI bridge that owns a native C++ counterpart and stores preference keys mapped to string, int, or boolean values populated by native code.
+// ---
+
 package org.chromium.components.sync_preferences.synced_set_up;
 
 import org.jni_zero.CalledByNative;

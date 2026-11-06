@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenTabsUIDelegateImpl implementation
+// summary: Implements foreign and local session lookups, tab sorting, and foreign session deletion via the session tracker.
+// ---
+
 #include "components/sync_sessions/open_tabs_ui_delegate_impl.h"
 
 #include <algorithm>

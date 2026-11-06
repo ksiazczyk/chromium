@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preferences merge helper header
+// summary: Declares helper functions for merging and unmerging local and account preference values between stores during sync.
+// ---
+
 #ifndef COMPONENTS_SYNC_PREFERENCES_PREFERENCES_MERGE_HELPER_H_
 #define COMPONENTS_SYNC_PREFERENCES_PREFERENCES_MERGE_HELPER_H_
 

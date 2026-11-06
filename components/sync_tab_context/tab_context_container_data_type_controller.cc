@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab context container data type controller implementation
+// summary: Implements the sync data type controller for encrypted tab context containers, requiring a trusted vault passphrase as a precondition.
+// ---
+
 #include "components/sync_tab_context/tab_context_container_data_type_controller.h"
 
 #include <utility>

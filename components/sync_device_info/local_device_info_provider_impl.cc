@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local device info provider implementation
+// summary: Implements the local device info provider, refreshing device details such as sharing, FCM token and security key info from the sync client.
+// ---
+
 #include "components/sync_device_info/local_device_info_provider_impl.h"
 
 #include <variant>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synced bookmark tracker implementation
+// summary: Implements the tracker mapping local bookmark nodes to server sync entities, managing metadata and validating consistency with the bookmark model.
+// ---
+
 #include "components/sync_bookmarks/synced_bookmark_tracker.h"
 
 #include <algorithm>

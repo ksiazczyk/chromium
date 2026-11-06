@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android personalizable device name implementation
+// summary: Android implementation of GetPersonalizableDeviceNameInternal that returns the hardware model name because user-defined names require extra permissions.
+// ---
+
 #include <string>
 
 #include "base/android/android_info.h"

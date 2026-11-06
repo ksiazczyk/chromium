@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceInfoUtil header
+// summary: Declares constants and static helpers shared by the device info sync service and bridge for pulse delays, activity thresholds, and client tag handling.
+// ---
+
 #ifndef COMPONENTS_SYNC_DEVICE_INFO_DEVICE_INFO_UTIL_H_
 #define COMPONENTS_SYNC_DEVICE_INFO_DEVICE_INFO_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark sync constants
+// summary: Defines kSyncBookmarksLimit, the maximum number of bookmarks allowed to sync before sync enters a bookmarks limit exceeded error state.
+// ---
+
 #ifndef COMPONENTS_SYNC_BOOKMARKS_CONSTANTS_H_
 #define COMPONENTS_SYNC_BOOKMARKS_CONSTANTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for container access token building
+// summary: Verifies token construction and encryption, expire time handling, and the nullopt result when encryption fails.
+// ---
+
 #include "components/sync_tab_context/build_container_access_token.h"
 
 #include <cstdint>

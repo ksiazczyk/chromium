@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common cross-device pref provider header
+// summary: Declares a CrossDevicePrefProvider subclass that supplies the set of prefs common to all platforms.
+// ---
+
 #ifndef COMPONENTS_SYNC_PREFERENCES_CROSS_DEVICE_PREF_TRACKER_COMMON_CROSS_DEVICE_PREF_PROVIDER_H_
 #define COMPONENTS_SYNC_PREFERENCES_CROSS_DEVICE_PREF_TRACKER_COMMON_CROSS_DEVICE_PREF_PROVIDER_H_
 

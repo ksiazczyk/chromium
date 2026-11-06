@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ephemeral key server URL and origin constants
+// summary: Defines the default ephemeral key server URL, the allowed tab context origin and command-line switches to override both values.
+// ---
+
 #include "components/sync_tab_context/http_rpc_constants.h"
 
 #include "base/command_line.h"

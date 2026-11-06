@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the sync tab context component
+summary: Chromium DEPS file listing the directories the component may include from, with an extra allowance for unit test files.

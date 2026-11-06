@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local session event handler and router interfaces
+// summary: Defines the LocalSessionEventHandler and LocalSessionEventRouter interfaces through which local open tab events flow into session sync.
+// ---
+
 #ifndef COMPONENTS_SYNC_SESSIONS_LOCAL_SESSION_EVENT_ROUTER_H_
 #define COMPONENTS_SYNC_SESSIONS_LOCAL_SESSION_EVENT_ROUTER_H_
 

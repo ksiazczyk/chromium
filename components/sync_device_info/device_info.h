@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceInfo class header
+// summary: Declares DeviceInfo with device type, OS, form factor, sharing, and security key information for a synced device.
+// ---
+
 #ifndef COMPONENTS_SYNC_DEVICE_INFO_DEVICE_INFO_H_
 #define COMPONENTS_SYNC_DEVICE_INFO_DEVICE_INFO_H_
 

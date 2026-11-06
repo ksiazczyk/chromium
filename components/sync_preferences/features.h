@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for preference syncing feature flags
+// summary: Declares feature flags for account-scoped preferences, dual-layer pref store optimization, and the cross-device pref tracker.
+// ---
+
 #ifndef COMPONENTS_SYNC_PREFERENCES_FEATURES_H_
 #define COMPONENTS_SYNC_PREFERENCES_FEATURES_H_
 

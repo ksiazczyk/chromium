@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EphemeralKeyFetcher interface
+// summary: Defines an interface for asynchronously fetching server-generated ephemeral keys, with a result struct holding the key set, name and expiry time.
+// ---
+
 #ifndef COMPONENTS_SYNC_TAB_CONTEXT_EPHEMERAL_KEY_FETCHER_H_
 #define COMPONENTS_SYNC_TAB_CONTEXT_EPHEMERAL_KEY_FETCHER_H_
 

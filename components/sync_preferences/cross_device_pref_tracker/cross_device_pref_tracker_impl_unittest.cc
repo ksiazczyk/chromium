@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cross-device pref tracker implementation unit tests
+// summary: Unit tests for CrossDevicePrefTrackerImpl, covering tracked preference syncing, timestamped values, and service status histograms using fake sync and device info services.
+// ---
+
 #include "components/sync_preferences/cross_device_pref_tracker/cross_device_pref_tracker_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockTabContextSyncService gmock class
+// summary: Declares a gmock mock of TabContextSyncService for tests, mocking container creation, page context uploads, access tokens and sync delegates.
+// ---
+
 #ifndef COMPONENTS_SYNC_TAB_CONTEXT_MOCK_TAB_CONTEXT_SYNC_SERVICE_H_
 #define COMPONENTS_SYNC_TAB_CONTEXT_MOCK_TAB_CONTEXT_SYNC_SERVICE_H_
 

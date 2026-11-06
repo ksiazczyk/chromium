@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefServiceSyncableFactory class header
+// summary: Declares a PrefServiceFactory subclass that constructs PrefServiceSyncable with policy, model associator client and account pref store configuration.
+// ---
+
 #ifndef COMPONENTS_SYNC_PREFERENCES_PREF_SERVICE_SYNCABLE_FACTORY_H_
 #define COMPONENTS_SYNC_PREFERENCES_PREF_SERVICE_SYNCABLE_FACTORY_H_
 

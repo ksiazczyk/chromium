@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab context sync service implementation header
+// summary: Declares TabContextSyncServiceImpl, which coordinates container and item sync bridges, ephemeral key fetching and background encryption for page context uploads.
+// ---
+
 #ifndef COMPONENTS_SYNC_TAB_CONTEXT_TAB_CONTEXT_SYNC_SERVICE_IMPL_H_
 #define COMPONENTS_SYNC_TAB_CONTEXT_TAB_CONTEXT_SYNC_SERVICE_IMPL_H_
 

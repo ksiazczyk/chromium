@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionSyncPrefs implementation
+// summary: Registers and reads or writes the sync.local_data_out_of_sync preference used to track local session sync state.
+// ---
+
 #include "components/sync_sessions/session_sync_prefs.h"
 
 #include "components/prefs/pref_registry_simple.h"

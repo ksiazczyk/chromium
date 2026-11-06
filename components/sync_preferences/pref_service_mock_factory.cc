@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Implementation of the mock PrefService factory
+// summary: Implements PrefServiceMockFactory, wiring testing pref stores so tests can conveniently build PrefServices.
+// ---
+
 #include "components/sync_preferences/pref_service_mock_factory.h"
 
 #include "components/prefs/testing_pref_store.h"

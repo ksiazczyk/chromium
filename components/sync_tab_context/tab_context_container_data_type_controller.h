@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab context container data type controller header
+// summary: Declares the controller for the ENCRYPTED_TAB_CONTEXT_CONTAINER sync data type, which observes the sync service and gates the type on preconditions such as passphrase state.
+// ---
+
 #ifndef COMPONENTS_SYNC_TAB_CONTEXT_TAB_CONTEXT_CONTAINER_DATA_TYPE_CONTROLLER_H_
 #define COMPONENTS_SYNC_TAB_CONTEXT_TAB_CONTEXT_CONTAINER_DATA_TYPE_CONTROLLER_H_
 

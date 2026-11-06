@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestBookmarkModelView implementation
+// summary: Implements a test double of BookmarkModelView that owns a BookmarkModel and wraps either the local-or-syncable or account-nodes view for use in sync tests.
+// ---
+
 #include "components/sync_bookmarks/test_bookmark_model_view.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for sync_preferences dependencies
+summary: Restricts allowed includes for the folder and grants extra component dependencies to the common syncable prefs database.

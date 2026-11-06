@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark remote updates handler implementation
+// summary: Implements processing of remote sync updates, including reordering valid updates, conflict handling, metrics logging and applying server bookmark changes locally.
+// ---
+
 #include "components/sync_bookmarks/bookmark_remote_updates_handler.h"
 
 #include <algorithm>

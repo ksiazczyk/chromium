@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for the cross-device pref tracker prefs library
+summary: Defines the prefs static library target listing the cross-device pref sources and its dependencies on pref_registry and prefs.

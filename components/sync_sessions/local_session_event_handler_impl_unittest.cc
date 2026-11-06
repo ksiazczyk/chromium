@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local session event handler unit tests
+// summary: Unit tests for LocalSessionEventHandlerImpl covering tab association, session restore, and write batch behavior using mock delegates and clients.
+// ---
+
 #include "components/sync_sessions/local_session_event_handler_impl.h"
 
 #include <map>

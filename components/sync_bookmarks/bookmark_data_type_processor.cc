@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark data type processor implementation
+// summary: Implements bookmark sync processing, including local change building, remote update merging, and metadata handling.
+// ---
+
 #include "components/sync_bookmarks/bookmark_data_type_processor.h"
 
 #include <utility>

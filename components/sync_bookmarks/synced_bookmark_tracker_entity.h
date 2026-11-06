@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synced bookmark tracker entity header
+// summary: Declares the class managing sync metadata for an individual bookmark node, covering tombstones, unsynced state, and specifics hash checks.
+// ---
+
 #ifndef COMPONENTS_SYNC_BOOKMARKS_SYNCED_BOOKMARK_TRACKER_ENTITY_H_
 #define COMPONENTS_SYNC_BOOKMARKS_SYNCED_BOOKMARK_TRACKER_ENTITY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceInfoUtil implementation
+// summary: Implements shared device info constants and helpers, including the pulse interval, active threshold, and conversion between client tags and cache GUIDs.
+// ---
+
 #include "components/sync_device_info/device_info_util.h"
 
 #include <algorithm>

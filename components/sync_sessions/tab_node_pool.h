@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabNodePool interface
+// summary: Declares TabNodePool, which manages free and used tab sync node IDs and their association with local tabs.
+// ---
+
 #ifndef COMPONENTS_SYNC_SESSIONS_TAB_NODE_POOL_H_
 #define COMPONENTS_SYNC_SESSIONS_TAB_NODE_POOL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceInfoTracker interface header
+// summary: Declares the interface for tracking synced devices, with lookups by client ID, change observers, active device counts by form factor, and cache GUID checks.
+// ---
+
 #ifndef COMPONENTS_SYNC_DEVICE_INFO_DEVICE_INFO_TRACKER_H_
 #define COMPONENTS_SYNC_DEVICE_INFO_DEVICE_INFO_TRACKER_H_
 

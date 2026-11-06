@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows local device info implementation
+// summary: Windows implementation of GetPersonalizableDeviceNameInternal that returns the computer name converted to UTF-8.
+// ---
+
 #include <windows.h>
 
 #include <string>

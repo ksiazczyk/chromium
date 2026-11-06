@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InitialAccountBookmarkDeduplicator implementation
+// summary: Implements removal of local bookmark subtrees that duplicate subtrees in account storage, used upon initial sync to avoid redundant bookmarks.
+// ---
+
 #include "components/sync_bookmarks/initial_account_bookmark_deduplicator.h"
 
 #include <ranges>

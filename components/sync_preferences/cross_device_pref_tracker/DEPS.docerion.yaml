@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for cross-device pref tracker
+summary: Allowlists includes of pref name headers from the commerce, NTP tiles, omnibox, and safety check components.

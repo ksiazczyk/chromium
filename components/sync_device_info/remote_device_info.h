@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoteDeviceInfo header
+// summary: Declares the RemoteDeviceInfo struct holding remote device name, GUID, form factor, OS type and timestamps for cross-device UIs.
+// ---
+
 #ifndef COMPONENTS_SYNC_DEVICE_INFO_REMOTE_DEVICE_INFO_H_
 #define COMPONENTS_SYNC_DEVICE_INFO_REMOTE_DEVICE_INFO_H_
 

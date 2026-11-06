@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncedSession data conversion implementation
+// summary: Implements conversions between session navigations, tabs and windows and their sync protocol buffer equivalents, including sanitising and favicon URL limits.
+// ---
+
 #include "components/sync_sessions/synced_session.h"
 
 #include <vector>

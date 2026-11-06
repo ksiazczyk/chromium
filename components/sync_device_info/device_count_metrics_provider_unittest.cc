@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DeviceCountMetricsProvider
+// summary: Tests device count histogram reporting across multiple trackers, including negative and very large counts.
+// ---
+
 #include "components/sync_device_info/device_count_metrics_provider.h"
 
 #include <map>

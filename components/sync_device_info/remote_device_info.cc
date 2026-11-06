@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoteDeviceInfo implementation
+// summary: Implements the RemoteDeviceInfo struct, including localized last-active-time formatting and Android JNI conversion.
+// ---
+
 #include "components/sync_device_info/remote_device_info.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefServiceSyncableFactory implementation
+// summary: Implements the factory that builds PrefServiceSyncable instances, wiring policy stores, the account pref store and the dual-layer user pref store.
+// ---
+
 #include "components/sync_preferences/pref_service_syncable_factory.h"
 
 #include <memory>

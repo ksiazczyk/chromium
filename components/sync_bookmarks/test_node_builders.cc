@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test node builders implementation
+// summary: Implements UrlBuilder and FolderBuilder test helpers that add bookmark URLs and nested folders to a BookmarkModel, optionally with UUIDs.
+// ---
+
 #include "components/sync_bookmarks/test_node_builders.h"
 
 #include <utility>

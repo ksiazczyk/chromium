@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SyncedSessionTracker unit tests
+// summary: Unit tests for SyncedSessionTracker covering session and tab tracking, tab node pool integrity, and session tag handling.
+// ---
+
 #include "components/sync_sessions/synced_session_tracker.h"
 
 #include "base/rand_util.h"

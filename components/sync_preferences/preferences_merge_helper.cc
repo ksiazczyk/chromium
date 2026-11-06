@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preferences merge helper implementation
+// summary: Implements merging of local and server preference values for lists, dictionaries and custom merge behaviors during preference sync.
+// ---
+
 #include "components/sync_preferences/preferences_merge_helper.h"
 
 #include <algorithm>

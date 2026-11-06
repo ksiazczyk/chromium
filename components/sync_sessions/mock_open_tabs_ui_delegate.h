@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockOpenTabsUIDelegate declaration
+// summary: Declares a GoogleMock implementation of OpenTabsUIDelegate stubbing foreign and local session access for use in tests.
+// ---
+
 #ifndef COMPONENTS_SYNC_SESSIONS_MOCK_OPEN_TABS_UI_DELEGATE_H_
 #define COMPONENTS_SYNC_SESSIONS_MOCK_OPEN_TABS_UI_DELEGATE_H_
 

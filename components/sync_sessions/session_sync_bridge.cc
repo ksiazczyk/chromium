@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionSyncBridge implementation
+// summary: Implements the sync bridge for the SESSIONS data type, propagating local sessions to sync and representing foreign sessions, including stale session garbage collection.
+// ---
+
 #include "components/sync_sessions/session_sync_bridge.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Synced Set Up utils
+// summary: Tests the Synced Set Up utility functions using a fake CrossDevicePrefTracker and device info tracker fixtures.
+// ---
+
 #include "components/sync_preferences/synced_set_up/utils.h"
 
 #include <optional>

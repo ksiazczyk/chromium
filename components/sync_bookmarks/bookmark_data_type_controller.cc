@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark data type controller implementation
+// summary: Implements the bookmarks sync data type controller, wiring delegates and the local data batch uploader.
+// ---
+
 #include "components/sync_bookmarks/bookmark_data_type_controller.h"
 
 #include <utility>

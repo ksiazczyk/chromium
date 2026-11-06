@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synced Set Up utility implementations
+// summary: Implements helpers that build a device-to-pref map from the CrossDevicePrefTracker and select the best match remote device for Synced Set Up.
+// ---
+
 // Enable VLOG level 1.
 #undef ENABLED_VLOG_LEVEL
 #define ENABLED_VLOG_LEVEL 1

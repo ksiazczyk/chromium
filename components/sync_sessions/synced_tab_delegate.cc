@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncedTabDelegate implementation
+// summary: Defines the constructor and destructor for the SyncedTabDelegate interface.
+// ---
+
 #include "components/sync_sessions/synced_tab_delegate.h"
 
 namespace sync_sessions {

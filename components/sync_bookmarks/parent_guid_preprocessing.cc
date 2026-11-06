@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parent GUID preprocessing implementation
+// summary: Implements population of missing parent GUIDs in bookmark sync updates, using the tracker, update list, and well-known permanent folder tags.
+// ---
+
 #include "components/sync_bookmarks/parent_guid_preprocessing.h"
 
 #include <memory>

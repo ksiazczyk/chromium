@@ -1,3 +1,13 @@
+---
+type: readme
+title: Syncable preferences overview and guidance
+summary: Explains how preference syncing works and how authors and reviewers can add new syncable preferences with privacy care.
+relations:
+  - references /chrome/browser/prefs/README.md
+  - references /components/sync/README.md
+  - references /tools/metrics/histograms/metadata/sync/enums.xml
+---
+
 ## Background
 
 Preferences are a generic system for storing configuration parameters in Chrome,

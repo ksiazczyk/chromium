@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake open tabs UI delegate implementation
+// summary: Implements an in-memory OpenTabsUIDelegate fake that manages local and foreign synced sessions for use in tests.
+// ---
+
 #include "components/sync_sessions/fake_open_tabs_ui_delegate.h"
 
 #include <algorithm>

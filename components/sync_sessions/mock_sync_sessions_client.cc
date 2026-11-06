@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock sync sessions client implementation
+// summary: Implements the MockSyncSessionsClient test double, defaulting ShouldSyncURL to true and providing weak pointer support.
+// ---
+
 #include "components/sync_sessions/mock_sync_sessions_client.h"
 #include "components/sync_sessions/local_session_event_router.h"
 

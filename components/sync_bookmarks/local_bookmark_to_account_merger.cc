@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalBookmarkToAccountMerger implementation
+// summary: Implements the algorithm that moves and merges local bookmarks into account bookmarks, deduplicating by UUID or semantic sibling matching.
+// ---
+
 #include "components/sync_bookmarks/local_bookmark_to_account_merger.h"
 
 #include <algorithm>

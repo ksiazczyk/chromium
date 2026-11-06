@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncedWindowDelegate interface
+// summary: Abstract interface insulating session sync code from Browser and BrowserList, exposing window and tab accessors.
+// ---
+
 #ifndef COMPONENTS_SYNC_SESSIONS_SYNCED_WINDOW_DELEGATE_H_
 #define COMPONENTS_SYNC_SESSIONS_SYNCED_WINDOW_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark model merger unit tests
+// summary: Unit tests for the bookmark model merger, verifying merged models, tracked entities, tombstones and error metric expectations.
+// ---
+
 #include "components/sync_bookmarks/bookmark_model_merger.h"
 
 #include <algorithm>

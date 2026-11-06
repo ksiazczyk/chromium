@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device count metrics provider implementation
+// summary: Implements a metrics provider that reports the maximum number of active syncing devices by form factor as UMA histograms.
+// ---
+
 #include "components/sync_device_info/device_count_metrics_provider.h"
 
 #include <algorithm>

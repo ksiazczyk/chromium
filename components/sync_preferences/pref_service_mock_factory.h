@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for the mock PrefService factory
+// summary: Declares PrefServiceMockFactory, a helper for conveniently building custom PrefServices in tests.
+// ---
+
 #ifndef COMPONENTS_SYNC_PREFERENCES_PREF_SERVICE_MOCK_FACTORY_H_
 #define COMPONENTS_SYNC_PREFERENCES_PREF_SERVICE_MOCK_FACTORY_H_
 

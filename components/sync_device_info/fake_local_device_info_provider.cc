@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake local device info provider implementation
+// summary: Implements a fake local device info provider holding a preset DeviceInfo with readiness control for tests.
+// ---
+
 #include "components/sync_device_info/fake_local_device_info_provider.h"
 
 #include <optional>

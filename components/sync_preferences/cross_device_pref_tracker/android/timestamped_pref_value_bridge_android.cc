@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TimestampedPrefValue JNI bridge implementation
+// summary: Implements the JNI bridge that converts native TimestampedPrefValue objects into Java TimestampedPrefValue objects for boolean, double, integer, string and null values.
+// ---
+
 #include "components/sync_preferences/cross_device_pref_tracker/android/timestamped_pref_value_bridge_android.h"
 
 #include "base/android/jni_android.h"

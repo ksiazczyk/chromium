@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab context container sync bridge header
+// summary: Declares the DataTypeSyncBridge for encrypted tab context containers, exposing container creation and per-container encryption key lookup.
+// ---
+
 #ifndef COMPONENTS_SYNC_TAB_CONTEXT_TAB_CONTEXT_CONTAINER_SYNC_BRIDGE_H_
 #define COMPONENTS_SYNC_TAB_CONTEXT_TAB_CONTEXT_CONTAINER_SYNC_BRIDGE_H_
 

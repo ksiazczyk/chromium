@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dual layer user pref store unit tests
+// summary: Unit tests covering merging, dual writes, priority and sensitive prefs in the dual layer user pref store.
+// ---
+
 #include "components/sync_preferences/dual_layer_user_pref_store.h"
 
 #include <map>

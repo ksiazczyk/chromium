@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContainerId strong alias and hash
+// summary: Defines ContainerId as a strongly typed UUID alias together with a hash functor for use in hash-based containers.
+// ---
+
 #ifndef COMPONENTS_SYNC_TAB_CONTEXT_CONTAINER_ID_H_
 #define COMPONENTS_SYNC_TAB_CONTEXT_CONTAINER_ID_H_
 

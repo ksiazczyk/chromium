@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark sync feature switches
+// summary: Defines feature flags controlling bookmark reupload and migration of bookmarks without client tag hashes.
+// ---
+
 #include "components/sync_bookmarks/switches.h"
 
 #include "base/feature_list.h"

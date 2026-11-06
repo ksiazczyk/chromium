@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncedSessionTracker class declaration
+// summary: Declares the manager that owns synced sessions and tabs and provides lookup and manipulation methods by session tag, window and tab IDs.
+// ---
+
 #ifndef COMPONENTS_SYNC_SESSIONS_SYNCED_SESSION_TRACKER_H_
 #define COMPONENTS_SYNC_SESSIONS_SYNCED_SESSION_TRACKER_H_
 

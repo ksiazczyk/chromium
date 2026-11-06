@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Synced bookmark tracker unit tests
+// summary: Unit tests covering tracker creation from metadata, entity lookup, corruption reasons, and update handling for bookmark sync.
+// ---
+
 #include "components/sync_bookmarks/synced_bookmark_tracker.h"
 
 #include "base/base64.h"

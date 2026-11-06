@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synced bookmark tracker entity implementation
+// summary: Implements per-node sync metadata handling, including recording remote and local updates, commit responses, and memory usage estimation.
+// ---
+
 #include "components/sync_bookmarks/synced_bookmark_tracker_entity.h"
 
 #include <utility>

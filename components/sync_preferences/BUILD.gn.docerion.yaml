@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Sync preferences build targets and dependencies
+summary: Defines GN build targets, sources and dependencies for the sync_preferences component, including test support and unit tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncedSessionTracker implementation
+// summary: Implements tracking of local and foreign synced sessions, windows and tabs, including header validation, presentability checks and unmapped tab cleanup.
+// ---
+
 #include "components/sync_sessions/synced_session_tracker.h"
 
 #include <algorithm>

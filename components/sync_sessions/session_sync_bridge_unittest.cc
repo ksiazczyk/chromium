@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SessionSyncBridge unit tests
+// summary: Unit tests for SessionSyncBridge covering initial merge, incremental sync changes, local session writes, metadata handling and garbage collection.
+// ---
+
 #include "components/sync_sessions/session_sync_bridge.h"
 
 #include <map>

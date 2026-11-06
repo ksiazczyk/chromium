@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab context sync service implementation unit tests
+// summary: Unit tests for TabContextSyncServiceImpl, using a fake ephemeral key fetcher to verify container access tokens, encryption and page context upload outcomes.
+// ---
+
 #include "components/sync_tab_context/tab_context_sync_service_impl.h"
 
 #include <cstdint>

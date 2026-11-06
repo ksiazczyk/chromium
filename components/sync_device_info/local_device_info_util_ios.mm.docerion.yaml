@@ -1,0 +1,4 @@
+# Docerion header of local_device_info_util_ios.mm.
+type: source
+title: iOS personalizable device name implementation
+summary: iOS implementation of GetPersonalizableDeviceNameInternal that returns the current UIDevice name, which is a generic model name on iOS 16 and later.

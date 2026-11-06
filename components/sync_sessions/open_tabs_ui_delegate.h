@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenTabsUIDelegate interface header
+// summary: Defines the OpenTabsUIDelegate interface for accessing foreign and local synced sessions, tabs, and windows.
+// ---
+
 #ifndef COMPONENTS_SYNC_SESSIONS_OPEN_TABS_UI_DELEGATE_H_
 #define COMPONENTS_SYNC_SESSIONS_OPEN_TABS_UI_DELEGATE_H_
 

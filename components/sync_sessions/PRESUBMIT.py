@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit lint checks for sync_sessions
+# summary: Runs lint checks on sync_sessions C++ source files during upload and commit via depot_tools.
+# ---
+
 """Presubmit script for sync_sessions component.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

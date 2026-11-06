@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrefServiceSyncable unit tests
+// summary: Unit tests covering preference syncing in PrefServiceSyncable, including mergeable lists and dictionaries, priority prefs and ChromeOS preferences.
+// ---
+
 #include "components/sync_preferences/pref_service_syncable.h"
 
 #include <stdint.h>

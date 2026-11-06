@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalBookmarkToAccountMerger class declaration
+// summary: Declares LocalBookmarkToAccountMerger, which moves and merges all or selected local bookmark subtrees into account bookmarks with deduplication.
+// ---
+
 #ifndef COMPONENTS_SYNC_BOOKMARKS_LOCAL_BOOKMARK_TO_ACCOUNT_MERGER_H_
 #define COMPONENTS_SYNC_BOOKMARKS_LOCAL_BOOKMARK_TO_ACCOUNT_MERGER_H_
 

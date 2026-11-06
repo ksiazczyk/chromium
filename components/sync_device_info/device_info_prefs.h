@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceInfoPrefs header
+// summary: Declares DeviceInfoPrefs, used to determine whether a cache GUID was recently used on this device, with methods to add GUIDs and garbage-collect old ones.
+// ---
+
 #ifndef COMPONENTS_SYNC_DEVICE_INFO_DEVICE_INFO_PREFS_H_
 #define COMPONENTS_SYNC_DEVICE_INFO_DEVICE_INFO_PREFS_H_
 

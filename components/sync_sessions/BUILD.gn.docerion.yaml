@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for sync_sessions
+summary: Defines the sync_sessions static library, its test support target, and unit tests with their sources and dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionSyncServiceImpl header
+// summary: Declares SessionSyncServiceImpl, the single non-test implementation of the SessionSyncService keyed service.
+// ---
+
 #ifndef COMPONENTS_SYNC_SESSIONS_SESSION_SYNC_SERVICE_IMPL_H_
 #define COMPONENTS_SYNC_SESSIONS_SESSION_SYNC_SERVICE_IMPL_H_
 

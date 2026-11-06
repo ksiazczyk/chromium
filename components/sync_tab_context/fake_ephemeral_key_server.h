@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeEphemeralKeyServer class declaration
+// summary: Declares a test fake of the ephemeral key server for use with EmbeddedTestServer, supporting injected HTTP errors and decryption of encrypted content.
+// ---
+
 #ifndef COMPONENTS_SYNC_TAB_CONTEXT_FAKE_EPHEMERAL_KEY_SERVER_H_
 #define COMPONENTS_SYNC_TAB_CONTEXT_FAKE_EPHEMERAL_KEY_SERVER_H_
 

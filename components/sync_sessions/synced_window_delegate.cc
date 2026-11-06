@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncedWindowDelegate implementation
+// summary: Implements IsPlaceholderTabAt for the SyncedWindowDelegate interface.
+// ---
+
 #include "components/sync_sessions/synced_window_delegate.h"
 
 #include "components/sync_sessions/synced_tab_delegate.h"

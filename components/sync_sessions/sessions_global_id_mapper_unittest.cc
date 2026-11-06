@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SessionsGlobalIdMapper unit tests
+// summary: Unit tests covering global ID mapping, cleanup after the tracking threshold and observer notification behaviour of SessionsGlobalIdMapper.
+// ---
+
 #include "components/sync_sessions/sessions_global_id_mapper.h"
 
 #include "base/test/mock_callback.h"

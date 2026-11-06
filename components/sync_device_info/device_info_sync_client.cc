@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceInfoSyncClient implementation
+// summary: Implements DeviceInfoSyncClient, providing a default empty set of Glic experimental triggering capabilities.
+// ---
+
 #include "components/sync_device_info/device_info_sync_client.h"
 
 namespace syncer {

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for sync_bookmarks dependencies
+summary: Declares the allowed include paths for dependencies of the sync_bookmarks component.

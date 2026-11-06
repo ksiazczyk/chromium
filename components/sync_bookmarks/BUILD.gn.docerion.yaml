@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for sync_bookmarks
+summary: Defines the sync_bookmarks static library sources, dependencies, and its unit test target.

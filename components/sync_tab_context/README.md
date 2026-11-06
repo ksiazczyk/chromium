@@ -1,3 +1,11 @@
+---
+type: readme
+title: Sync Tab Context component
+summary: Describes the component that syncs tab context across devices with strong encryption and links to TabContextSyncService as the main public API.
+relations:
+  - references /components/sync_tab_context/tab_context_sync_service.h
+---
+
 # Sync Tab Context component
 
 Component responsible for sync-ing tab context to the user's account and

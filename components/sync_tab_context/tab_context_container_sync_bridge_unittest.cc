@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab context container sync bridge unit tests
+// summary: Unit tests covering container creation, key generation, and applying remote sync changes for the container sync bridge using an in-memory store and mock processor.
+// ---
+
 #include "components/sync_tab_context/tab_context_container_sync_bridge.h"
 
 #include <memory>

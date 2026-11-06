@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TimestampedPrefValue struct
+// summary: Defines the TimestampedPrefValue struct that pairs a preference value with its last observed change time and the originating device's sync cache GUID.
+// ---
+
 #ifndef COMPONENTS_SYNC_PREFERENCES_CROSS_DEVICE_PREF_TRACKER_TIMESTAMPED_PREF_VALUE_H_
 #define COMPONENTS_SYNC_PREFERENCES_CROSS_DEVICE_PREF_TRACKER_TIMESTAMPED_PREF_VALUE_H_
 

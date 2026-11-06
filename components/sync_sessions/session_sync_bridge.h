@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionSyncBridge header
+// summary: Declares SessionSyncBridge, the DataTypeSyncBridge for the SESSIONS data type that syncs local sessions and exposes foreign sessions to the UI.
+// ---
+
 #ifndef COMPONENTS_SYNC_SESSIONS_SESSION_SYNC_BRIDGE_H_
 #define COMPONENTS_SYNC_SESSIONS_SESSION_SYNC_BRIDGE_H_
 

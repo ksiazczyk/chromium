@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test fakes for synced tab and window delegates declarations
+// summary: Declares fake synced tab delegates, placeholder tab delegates, and window delegate getters used in session sync tests.
+// ---
+
 #ifndef COMPONENTS_SYNC_SESSIONS_TEST_SYNCED_WINDOW_DELEGATES_GETTER_H_
 #define COMPONENTS_SYNC_SESSIONS_TEST_SYNCED_WINDOW_DELEGATES_GETTER_H_
 

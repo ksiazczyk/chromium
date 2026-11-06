@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature flags for preference syncing
+// summary: Defines feature flags controlling account-scoped preferences, dual-layer pref store merging optimization, and cross-device pref tracking.
+// ---
+
 #include "components/sync_preferences/features.h"
 
 namespace sync_preferences::features {

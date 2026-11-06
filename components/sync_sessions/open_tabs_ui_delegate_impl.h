@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenTabsUIDelegateImpl header
+// summary: Declares OpenTabsUIDelegateImpl, which implements the OpenTabsUIDelegate interface using a session tracker and client.
+// ---
+
 #ifndef COMPONENTS_SYNC_SESSIONS_OPEN_TABS_UI_DELEGATE_IMPL_H_
 #define COMPONENTS_SYNC_SESSIONS_OPEN_TABS_UI_DELEGATE_IMPL_H_
 
