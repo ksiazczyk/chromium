@@ -1,0 +1,4 @@
+# Docerion header of app_locale_settings_gu.xtb.
+type: data
+title: Gujarati app locale settings translation bundle
+summary: XML translation bundle holding locale settings for Gujarati, setting a UI font size scaler of 115 and a minimum UI font size of 10.

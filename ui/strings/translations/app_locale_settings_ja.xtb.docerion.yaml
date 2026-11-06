@@ -1,0 +1,4 @@
+# Docerion header of app_locale_settings_ja.xtb.
+type: data
+title: Japanese app locale settings
+summary: Translation bundle defining Japanese UI and web font families and the minimum UI font size for Windows, macOS, iOS, Linux and ChromeOS.

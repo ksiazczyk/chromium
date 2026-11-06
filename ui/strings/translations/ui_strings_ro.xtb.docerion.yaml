@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_ro.xtb.
+type: data
+title: Romanian UI strings translation bundle
+summary: Romanian translations of application UI strings in an XML translation bundle, keyed by numeric message IDs with plural rules and placeholders.

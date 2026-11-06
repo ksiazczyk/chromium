@@ -1,0 +1,4 @@
+# Docerion header of ax_strings_kk.xtb.
+type: data
+title: Kazakh accessibility strings translation bundle
+summary: XML translation bundle providing Kazakh localized accessibility strings for UI roles and controls such as menus, dialogs, sliders, and media playback.

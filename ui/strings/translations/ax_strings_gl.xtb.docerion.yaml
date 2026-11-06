@@ -1,0 +1,4 @@
+# Docerion header of ax_strings_gl.xtb.
+type: data
+title: Galician accessibility strings translation bundle
+summary: Galician (gl) XTB translation bundle with localized accessibility strings for UI elements such as menus, dialogs, sliders, and media controls.

@@ -1,0 +1,4 @@
+# Docerion header of ax_strings_sl.xtb.
+type: data
+title: Accessibility strings in Slovenian
+summary: XML translation bundle providing Slovenian localized accessibility strings for UI elements such as menus, dialogs, sliders, and media controls.

@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_uz.xtb.
+type: data
+title: Uzbek UI strings translation bundle
+summary: Uzbek translations of UI strings keyed by numeric message IDs, including plural forms for times, sizes, extension errors, and notifications.

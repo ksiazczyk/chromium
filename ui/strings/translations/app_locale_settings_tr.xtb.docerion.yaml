@@ -1,0 +1,4 @@
+# Docerion header of app_locale_settings_tr.xtb.
+type: config
+title: Turkish app locale settings
+summary: Empty translation bundle for the Turkish locale with no locale-specific UI settings.

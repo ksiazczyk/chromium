@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_ca.xtb.
+type: data
+title: UI strings translation bundle (Catalan)
+summary: Catalan translations of UI strings, stored as an XTB XML bundle keyed by numeric message IDs with plural and placeholder rules.

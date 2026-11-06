@@ -1,0 +1,4 @@
+# Docerion header of auto_image_annotation_strings_cs.xtb.
+type: data
+title: Auto image annotation strings in Czech
+summary: Czech translation bundle with localized strings for automatic image annotation, describing common icons and unlabeled images for browser image descriptions.

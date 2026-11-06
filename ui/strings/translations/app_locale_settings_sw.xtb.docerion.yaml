@@ -1,0 +1,4 @@
+# Docerion header of app_locale_settings_sw.xtb.
+type: config
+title: Swahili app locale settings
+summary: Empty translation bundle for the Swahili locale with no locale-specific UI settings.

@@ -1,0 +1,4 @@
+# Docerion header of ax_strings_mn.xtb.
+type: data
+title: Mongolian accessibility strings translation bundle
+summary: XML translation bundle with Mongolian translations of accessibility UI strings, covering roles and actions such as menu item, slider, and dialog.

@@ -1,0 +1,4 @@
+# Docerion header of app_locale_settings_sl.xtb.
+type: config
+title: Slovenian app locale settings
+summary: Empty translation bundle for the Slovenian locale with no locale-specific UI settings.

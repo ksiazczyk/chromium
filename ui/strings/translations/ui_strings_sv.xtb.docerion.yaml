@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_sv.xtb.
+type: data
+title: Swedish UI strings translation bundle
+summary: Swedish translations of UI strings keyed by numeric message IDs, covering notifications, sharing, keyboard keys, and pluralized time messages.

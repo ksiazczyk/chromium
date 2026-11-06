@@ -1,0 +1,4 @@
+# Docerion header of app_locale_settings_hr.xtb.
+type: data
+title: Croatian app locale settings
+summary: Empty translation bundle for Croatian app locale settings, containing no platform-specific font overrides.

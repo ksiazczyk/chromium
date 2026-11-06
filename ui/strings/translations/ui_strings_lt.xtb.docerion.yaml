@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_lt.xtb.
+type: data
+title: UI strings translation bundle (Lithuanian)
+summary: Lithuanian (lt) translation bundle mapping message IDs to localized UI strings with multiple plural forms for time and notification messages.

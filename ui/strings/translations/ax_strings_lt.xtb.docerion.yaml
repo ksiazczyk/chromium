@@ -1,0 +1,4 @@
+# Docerion header of ax_strings_lt.xtb.
+type: data
+title: Lithuanian accessibility strings translation bundle
+summary: XML translation bundle providing Lithuanian localized accessibility strings for UI roles and controls such as menus, dialogs, sliders, and media playback.

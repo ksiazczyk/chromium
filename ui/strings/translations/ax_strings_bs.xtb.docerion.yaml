@@ -1,0 +1,4 @@
+# Docerion header of ax_strings_bs.xtb.
+type: data
+title: Bosnian accessibility strings translation bundle
+summary: XML translation bundle providing Bosnian translations of accessibility UI strings such as menu items, dialogs, pickers, and media controls.

@@ -1,0 +1,4 @@
+# Docerion header of ax_strings_fr.xtb.
+type: data
+title: French accessibility strings translation bundle
+summary: French (fr) XTB translation bundle with localized accessibility strings for UI elements such as menus, dialogs, sliders, and media controls.

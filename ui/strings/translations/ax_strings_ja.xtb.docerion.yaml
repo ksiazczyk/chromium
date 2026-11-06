@@ -1,0 +1,4 @@
+# Docerion header of ax_strings_ja.xtb.
+type: data
+title: Japanese accessibility strings translation bundle
+summary: Japanese translation bundle with localized accessibility strings for UI roles, controls, and actions such as toggle buttons, tabs, and dialogs.

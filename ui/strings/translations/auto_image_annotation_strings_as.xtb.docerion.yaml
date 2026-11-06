@@ -1,0 +1,4 @@
+# Docerion header of auto_image_annotation_strings_as.xtb.
+type: data
+title: Automatic image annotation strings for Assamese (as)
+summary: XML translation bundle with Assamese descriptions of common icons and unlabeled-image messages used by the automatic image annotation feature.

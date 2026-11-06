@@ -1,0 +1,4 @@
+# Docerion header of ax_strings_lv.xtb.
+type: data
+title: Latvian accessibility strings translation bundle
+summary: XML translation bundle providing Latvian localized accessibility strings for UI roles and controls such as menus, dialogs, sliders, and media playback.

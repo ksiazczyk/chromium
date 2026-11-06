@@ -1,0 +1,4 @@
+# Docerion header of ax_strings_bg.xtb.
+type: data
+title: Accessibility strings, Bulgarian
+summary: XML translation bundle with Bulgarian localized accessibility strings naming UI roles, states, pickers and media controls.

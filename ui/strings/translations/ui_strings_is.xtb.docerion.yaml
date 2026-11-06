@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_is.xtb.
+type: data
+title: UI strings translation bundle (Icelandic)
+summary: Icelandic XTB translation bundle with localized UI strings for notifications, time and size quantities, and common interface actions.

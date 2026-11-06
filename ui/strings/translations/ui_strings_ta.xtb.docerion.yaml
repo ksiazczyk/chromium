@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_ta.xtb.
+type: data
+title: Tamil UI strings translation bundle
+summary: Tamil translations of UI strings keyed by numeric message IDs, covering notifications, search, sharing, and pluralized time and size messages.

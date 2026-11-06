@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_as.xtb.
+type: data
+title: UI strings translations (Assamese)
+summary: XML translation bundle with Assamese localized UI strings including notifications, pluralized time and size messages, and keyboard labels.

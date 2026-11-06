@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_tr.xtb.
+type: data
+title: Turkish UI strings translation bundle
+summary: Turkish translations of UI strings keyed by numeric message IDs, including plural rules for times, sizes, extension errors, and notification texts.

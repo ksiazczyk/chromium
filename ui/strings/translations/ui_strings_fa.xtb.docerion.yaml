@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_fa.xtb.
+type: data
+title: Persian UI strings translation bundle
+summary: Persian translations of UI strings in XTB XML format, covering notifications, menus, keyboard keys, and pluralized time and size messages.

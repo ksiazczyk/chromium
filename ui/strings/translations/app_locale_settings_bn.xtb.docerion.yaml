@@ -1,0 +1,4 @@
+# Docerion header of app_locale_settings_bn.xtb.
+type: config
+title: App locale settings for Bengali
+summary: XML translation bundle that sets Bengali UI fonts, using Vrinda on Windows, Lohit Bengali on Linux and Noto Sans Bengali UI on ChromeOS.

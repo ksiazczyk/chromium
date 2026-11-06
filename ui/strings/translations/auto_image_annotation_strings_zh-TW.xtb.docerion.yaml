@@ -1,0 +1,4 @@
+# Docerion header of auto_image_annotation_strings_zh-TW.xtb.
+type: data
+title: Auto image annotation strings, Chinese (Taiwan)
+summary: XML translation bundle with Traditional Chinese (Taiwan) strings that describe image icons and unlabelled images for the automatic image annotation feature.

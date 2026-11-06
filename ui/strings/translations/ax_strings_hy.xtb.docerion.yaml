@@ -1,0 +1,4 @@
+# Docerion header of ax_strings_hy.xtb.
+type: data
+title: Armenian accessibility strings translation bundle
+summary: Armenian translation bundle with localized accessibility strings for UI roles, controls, and actions such as dialogs, sliders, and color pickers.

@@ -1,0 +1,4 @@
+# Docerion header of app_locale_settings_ko.xtb.
+type: data
+title: Korean app locale settings
+summary: Translation bundle defining Korean UI and web font families and the minimum UI font size for Windows, macOS, iOS, Linux and ChromeOS.

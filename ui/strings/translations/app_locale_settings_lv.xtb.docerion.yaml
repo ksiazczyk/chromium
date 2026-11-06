@@ -1,0 +1,4 @@
+# Docerion header of app_locale_settings_lv.xtb.
+type: data
+title: Latvian app locale settings
+summary: Empty translation bundle for Latvian app locale settings, containing no platform-specific font overrides.

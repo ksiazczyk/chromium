@@ -1,0 +1,4 @@
+# Docerion header of ax_strings_de.xtb.
+type: data
+title: German accessibility strings translation bundle
+summary: XML translation bundle providing German translations of accessibility UI strings such as menu items, dialogs, pickers, and media controls.

@@ -1,0 +1,4 @@
+# Docerion header of app_locale_settings_da.xtb.
+type: config
+title: App locale settings for Danish
+summary: Empty XML translation bundle for Danish that defines no locale-specific font or size overrides.

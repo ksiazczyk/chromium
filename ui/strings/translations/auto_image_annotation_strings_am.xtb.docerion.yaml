@@ -1,0 +1,4 @@
+# Docerion header of auto_image_annotation_strings_am.xtb.
+type: data
+title: Automatic image annotation strings for Amharic (am)
+summary: XML translation bundle with Amharic descriptions of common icons and unlabeled-image messages used by the automatic image annotation feature.

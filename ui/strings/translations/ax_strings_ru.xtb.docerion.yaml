@@ -1,0 +1,4 @@
+# Docerion header of ax_strings_ru.xtb.
+type: data
+title: Accessibility strings in Russian
+summary: XML translation bundle providing Russian localized accessibility strings for UI elements such as menus, dialogs, sliders, and media controls.

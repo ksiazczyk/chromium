@@ -1,0 +1,4 @@
+# Docerion header of auto_image_annotation_strings_ja.xtb.
+type: data
+title: Auto image annotation strings (Japanese)
+summary: Japanese translation bundle with localized descriptions of common icons and unlabeled-image messages for the automatic image annotation feature.

@@ -1,0 +1,4 @@
+# Docerion header of ax_strings_da.xtb.
+type: data
+title: Danish accessibility strings translation bundle
+summary: XML translation bundle providing Danish translations of accessibility UI strings such as menu items, dialogs, pickers, and media controls.

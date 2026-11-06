@@ -1,0 +1,4 @@
+# Docerion header of ax_strings_ro.xtb.
+type: data
+title: Accessibility strings in Romanian
+summary: XML translation bundle providing Romanian localized accessibility strings for UI elements such as menus, dialogs, sliders, and media controls.

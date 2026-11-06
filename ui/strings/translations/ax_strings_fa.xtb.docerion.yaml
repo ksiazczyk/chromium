@@ -1,0 +1,4 @@
+# Docerion header of ax_strings_fa.xtb.
+type: data
+title: Persian accessibility strings translation bundle
+summary: Persian (fa) XTB translation bundle with localized accessibility strings for UI elements such as menus, dialogs, sliders, and media controls.

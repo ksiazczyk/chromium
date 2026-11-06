@@ -1,0 +1,4 @@
+# Docerion header of auto_image_annotation_strings_bg.xtb.
+type: data
+title: Automatic image annotation strings for Bulgarian (bg)
+summary: XML translation bundle with Bulgarian descriptions of common icons and unlabeled-image messages used by the automatic image annotation feature.

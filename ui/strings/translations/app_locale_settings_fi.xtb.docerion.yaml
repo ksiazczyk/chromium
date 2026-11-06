@@ -1,0 +1,4 @@
+# Docerion header of app_locale_settings_fi.xtb.
+type: data
+title: Finnish app locale settings translation bundle
+summary: Empty XML translation bundle holding locale settings for Finnish, with no font overrides defined.

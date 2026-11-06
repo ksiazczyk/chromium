@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_sr-Latn.xtb.
+type: data
+title: Serbian (Latin) UI strings translation bundle
+summary: Serbian Latin-script translations of application UI strings in an XML translation bundle, keyed by numeric message IDs with plural rules and placeholders.

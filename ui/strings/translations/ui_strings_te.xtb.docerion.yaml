@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_te.xtb.
+type: data
+title: Telugu UI strings translation bundle
+summary: Telugu translations of UI strings keyed by numeric message IDs, including plural forms for relative times, data sizes, and notification texts.

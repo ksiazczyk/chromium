@@ -1,0 +1,4 @@
+# Docerion header of app_locale_settings_ml.xtb.
+type: data
+title: Malayalam app locale settings
+summary: Translation bundle defining Malayalam UI font families, size scalers and the minimum UI font size for Windows, Linux and ChromeOS.

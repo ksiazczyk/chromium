@@ -1,0 +1,4 @@
+# Docerion header of app_locale_settings_hi.xtb.
+type: data
+title: Hindi app locale settings translation bundle
+summary: XML translation bundle holding locale settings for Hindi, defining font size scalers and a ChromeOS font family based on Noto Sans Devanagari UI.

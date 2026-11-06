@@ -1,0 +1,4 @@
+# Docerion header of ax_strings_ky.xtb.
+type: data
+title: Kyrgyz accessibility strings translation bundle
+summary: XML translation bundle providing Kyrgyz localized accessibility strings for UI roles and controls such as menus, dialogs, sliders, and media playback.

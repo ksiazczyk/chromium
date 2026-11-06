@@ -1,0 +1,4 @@
+# Docerion header of app_locale_settings_sr.xtb.
+type: config
+title: Serbian app locale settings
+summary: Empty translation bundle for the Serbian locale with no locale-specific UI settings.

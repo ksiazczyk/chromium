@@ -1,0 +1,4 @@
+# Docerion header of ax_strings_hi.xtb.
+type: data
+title: Hindi accessibility strings translation bundle
+summary: Hindi translation bundle with localized accessibility strings for UI roles, controls, and actions such as menu items, sliders, and dialogs.

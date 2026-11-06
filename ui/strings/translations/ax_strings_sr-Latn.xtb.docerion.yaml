@@ -1,0 +1,4 @@
+# Docerion header of ax_strings_sr-Latn.xtb.
+type: data
+title: Accessibility strings in Serbian (Latin script)
+summary: XML translation bundle providing Serbian Latin-script localized accessibility strings for UI elements such as menus, dialogs, sliders, and media controls.

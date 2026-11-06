@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_mn.xtb.
+type: data
+title: Mongolian UI strings translation bundle
+summary: XML translation bundle with Mongolian translations of UI strings, covering notifications, plurals, time units, and keyboard labels.

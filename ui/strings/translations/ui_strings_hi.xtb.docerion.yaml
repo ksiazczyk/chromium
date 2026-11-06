@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_hi.xtb.
+type: data
+title: UI strings translation bundle (Hindi)
+summary: Hindi XTB translation bundle with localized UI strings for notifications, time and size quantities, and common interface actions.

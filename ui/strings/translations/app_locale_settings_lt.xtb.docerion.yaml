@@ -1,0 +1,4 @@
+# Docerion header of app_locale_settings_lt.xtb.
+type: data
+title: Lithuanian app locale settings
+summary: Empty translation bundle for Lithuanian app locale settings, containing no platform-specific font overrides.

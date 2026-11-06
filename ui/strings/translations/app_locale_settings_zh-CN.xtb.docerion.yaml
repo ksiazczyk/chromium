@@ -1,0 +1,4 @@
+# Docerion header of app_locale_settings_zh-CN.xtb.
+type: data
+title: App locale settings for Simplified Chinese (zh-CN)
+summary: XML translation bundle defining the minimum UI font size and per-platform web font families for Simplified Chinese on Windows, macOS, iOS, Linux and ChromeOS.

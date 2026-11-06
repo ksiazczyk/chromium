@@ -1,0 +1,4 @@
+# Docerion header of ax_strings_et.xtb.
+type: data
+title: Estonian accessibility strings translation bundle
+summary: Estonian (et) XTB translation bundle with localized accessibility strings for UI elements such as menus, dialogs, sliders, and media controls.

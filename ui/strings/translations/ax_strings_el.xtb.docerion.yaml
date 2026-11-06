@@ -1,0 +1,4 @@
+# Docerion header of ax_strings_el.xtb.
+type: data
+title: Greek accessibility strings translation bundle
+summary: XML translation bundle providing Greek translations of accessibility UI strings such as menu items, dialogs, pickers, and media controls.

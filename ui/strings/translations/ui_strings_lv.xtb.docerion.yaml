@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_lv.xtb.
+type: data
+title: UI strings translation bundle (Latvian)
+summary: Latvian (lv) translation bundle mapping message IDs to localized UI strings with zero, one, and other plural forms for time and notification messages.

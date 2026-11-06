@@ -1,0 +1,4 @@
+# Docerion header of app_locale_settings_te.xtb.
+type: config
+title: Telugu app locale settings
+summary: Translation bundle setting minimum UI font size, Windows font size scalers and ChromeOS Telugu font families.

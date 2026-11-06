@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_zh-CN.xtb.
+type: data
+title: Simplified Chinese UI strings translation bundle
+summary: XML translation bundle providing Simplified Chinese translations of UI strings, including notifications, relative time formats, and keyboard key names.

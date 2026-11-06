@@ -1,0 +1,4 @@
+# Docerion header of ax_strings_hr.xtb.
+type: data
+title: Croatian accessibility strings translation bundle
+summary: Croatian translation bundle with localized accessibility strings for UI roles, controls, and actions such as checkboxes, tables, and links.

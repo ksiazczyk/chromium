@@ -1,0 +1,4 @@
+# Docerion header of app_locale_settings_mr.xtb.
+type: data
+title: Marathi app locale settings translation bundle
+summary: XML translation bundle defining Marathi UI font size scalers and ChromeOS font family settings.

@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_no.xtb.
+type: data
+title: Norwegian UI strings translation bundle
+summary: XML translation bundle with Norwegian translations of UI strings, covering notifications, plurals, time units, and keyboard labels.

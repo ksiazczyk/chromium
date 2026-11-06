@@ -1,0 +1,4 @@
+# Docerion header of app_locale_settings_de.xtb.
+type: config
+title: App locale settings for German
+summary: Empty XML translation bundle for German that defines no locale-specific font or size overrides.

@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_vi.xtb.
+type: data
+title: Vietnamese UI strings translation bundle
+summary: XML translation bundle providing Vietnamese translations of UI strings, including notifications, relative time formats, and keyboard key names.

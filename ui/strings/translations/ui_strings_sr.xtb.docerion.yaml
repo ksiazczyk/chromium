@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_sr.xtb.
+type: data
+title: Serbian UI strings translation bundle
+summary: Serbian translations of UI strings keyed by numeric message IDs, including plural forms for time, size, and notification messages.

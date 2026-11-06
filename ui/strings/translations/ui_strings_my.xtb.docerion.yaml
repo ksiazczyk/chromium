@@ -1,0 +1,4 @@
+# Docerion header of ui_strings_my.xtb.
+type: data
+title: Burmese UI strings translation bundle
+summary: XML translation bundle with Burmese translations of UI strings, covering notifications, plurals, time units, and keyboard labels.
