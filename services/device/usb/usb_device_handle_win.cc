@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UsbDeviceHandleWin implementation
+// summary: Implements USB device handle I/O on Windows via WinUSB, including control, generic and isochronous transfers and interface management.
+// ---
+
 #include "services/device/usb/usb_device_handle_win.h"
 
 #include <windows.h>  // Must be in front of other Windows header files.

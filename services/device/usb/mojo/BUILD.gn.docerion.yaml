@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the USB Mojo service
+summary: GN build file defining the mojo source set for the USB device service, listing its sources and dependencies, with an extra ChromeOS permission broker dependency.

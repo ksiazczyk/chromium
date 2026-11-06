@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped libusb device handle implementation
+// summary: Implements move-only RAII ownership of a libusb_device_handle, closing it on reset or destruction.
+// ---
+
 #include "services/device/usb/scoped_libusb_device_handle.h"
 
 #include "services/device/usb/usb_context.h"

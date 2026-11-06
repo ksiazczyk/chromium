@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image annotation UMA metrics reporting
+// summary: Implements functions that report cache hits, server errors, latency, request sizes and annotation results to UMA histograms.
+// ---
+
 #include "services/image_annotation/image_annotation_metrics.h"
 
 #include <string>

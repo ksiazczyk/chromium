@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioFocusManager class declaration
+// summary: Declares the AudioFocusManager implementing the audio focus, debug, and media controller manager Mojo interfaces.
+// ---
+
 #ifndef SERVICES_MEDIA_SESSION_AUDIO_FOCUS_MANAGER_H_
 #define SERVICES_MEDIA_SESSION_AUDIO_FOCUS_MANAGER_H_
 

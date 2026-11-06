@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock USB service
+// summary: Declares a GMock subclass of UsbService with helpers to add and remove fake devices in tests.
+// ---
+
 #ifndef SERVICES_DEVICE_USB_MOCK_USB_SERVICE_H_
 #define SERVICES_DEVICE_USB_MOCK_USB_SERVICE_H_
 

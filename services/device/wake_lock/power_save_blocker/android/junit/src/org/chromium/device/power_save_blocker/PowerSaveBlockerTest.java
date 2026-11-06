@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PowerSaveBlocker unit tests
+// summary: Robolectric unit tests for the Android PowerSaveBlocker, verifying view keep-screen-on blocking, wake lock acquisition for various wake lock types, and behavior when the WAKE_LOCK permission is denied.
+// ---
+
 package org.chromium.device.power_save_blocker;
 
 import static org.junit.Assert.assertFalse;

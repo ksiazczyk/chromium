@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android TimeZoneMonitor Java implementation
+// summary: Android-side class that listens for ACTION_TIMEZONE_CHANGED broadcasts and notifies the native device::TimeZoneMonitorAndroid implementation via JNI when the time zone changes.
+// ---
+
 package org.chromium.device.time_zone_monitor;
 
 import android.content.BroadcastReceiver;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UsbContext unit test
+// summary: Unit test that verifies a UsbContext shuts down gracefully, failing if destruction takes longer than two seconds.
+// ---
+
 #include "services/device/usb/usb_context.h"
 #include "base/threading/platform_thread.h"
 #include "base/time/time.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UsbDeviceLinux implementation
+// summary: Implements the Linux USB device, opening device paths directly or through the Chrome OS permission broker.
+// ---
+
 #include "services/device/usb/usb_device_linux.h"
 
 #include <fcntl.h>

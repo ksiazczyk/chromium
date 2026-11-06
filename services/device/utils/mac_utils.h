@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac I/O Kit property helper templates
+// summary: Header declaring HexErrorCode and templates that read integer and string properties from macOS I/O Kit registry entries, returning std::optional values.
+// ---
+
 #ifndef SERVICES_DEVICE_UTILS_MAC_UTILS_H_
 #define SERVICES_DEVICE_UTILS_MAC_UTILS_H_
 

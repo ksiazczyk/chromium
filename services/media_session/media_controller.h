@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaController class header
+// summary: Declares the MediaController class, a Mojo control surface over a media session supporting playback commands, image observers, and event forwarding.
+// ---
+
 #ifndef SERVICES_MEDIA_SESSION_MEDIA_CONTROLLER_H_
 #define SERVICES_MEDIA_SESSION_MEDIA_CONTROLLER_H_
 

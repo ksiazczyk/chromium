@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android USB endpoint converter header
+// summary: Declares the UsbEndpointAndroid::Convert helper that maps Android USB endpoints to mojom structures.
+// ---
+
 #ifndef SERVICES_DEVICE_USB_USB_ENDPOINT_ANDROID_H_
 #define SERVICES_DEVICE_USB_USB_ENDPOINT_ANDROID_H_
 

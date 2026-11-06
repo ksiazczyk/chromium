@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Serial IO handler POSIX unit tests
+// summary: Unit tests for the POSIX serial I/O handler, exercising receive error detection such as break and parity errors, including a pseudoterminal-based test for inherited VMIN/VTIME settings.
+// ---
+
 #include "services/device/serial/serial_io_handler_posix.h"
 
 #include <fcntl.h>

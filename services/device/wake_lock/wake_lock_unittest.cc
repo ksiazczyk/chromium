@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wake lock unit tests
+// summary: Unit tests for the wake lock provider covering wake lock activation, type changes, active lock counts, and deactivation notifications via a test observer.
+// ---
+
 #include <map>
 #include <utility>
 

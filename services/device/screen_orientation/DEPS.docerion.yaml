@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the screen_orientation directory
+summary: DEPS file allowing includes only from mojo/public/cpp/bindings within this directory.

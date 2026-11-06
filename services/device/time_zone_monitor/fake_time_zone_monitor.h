@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake time zone monitor for tests
+// summary: Provides an empty TimeZoneMonitor subclass that never observes OS time zone changes, intended as test support.
+// ---
+
 #ifndef SERVICES_DEVICE_TIME_ZONE_MONITOR_FAKE_TIME_ZONE_MONITOR_H_
 #define SERVICES_DEVICE_TIME_ZONE_MONITOR_FAKE_TIME_ZONE_MONITOR_H_
 

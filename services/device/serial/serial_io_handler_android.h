@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android serial I/O handler header
+// summary: Declares SerialIoHandlerAndroid, a POSIX-based serial I/O handler that opens ports via the Android serial device enumerator.
+// ---
+
 #ifndef SERVICES_DEVICE_SERIAL_SERIAL_IO_HANDLER_ANDROID_H_
 #define SERVICES_DEVICE_SERIAL_SERIAL_IO_HANDLER_ANDROID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth serial port header
+// summary: Declares BluetoothSerialPortImpl, a mojom::SerialPort backed by a Bluetooth socket that self-destructs on connection errors.
+// ---
+
 #ifndef SERVICES_DEVICE_SERIAL_BLUETOOTH_SERIAL_PORT_IMPL_H_
 #define SERVICES_DEVICE_SERIAL_BLUETOOTH_SERIAL_PORT_IMPL_H_
 

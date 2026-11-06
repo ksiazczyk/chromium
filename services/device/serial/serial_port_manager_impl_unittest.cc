@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Serial port manager unit tests
+// summary: Unit tests for SerialPortManagerImpl using fake enumerators and mock Bluetooth adapters to cover device listing, port events, and port opening.
+// ---
+
 #include "services/device/serial/serial_port_manager_impl.h"
 
 #include <algorithm>

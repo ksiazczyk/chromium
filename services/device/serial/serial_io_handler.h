@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Serial I/O handler header
+// summary: Declares the SerialIoHandler class, a simplified interface for asynchronous serial device I/O that hides platform-specific message loop details behind platform subclasses.
+// ---
+
 #ifndef SERVICES_DEVICE_SERIAL_SERIAL_IO_HANDLER_H_
 #define SERVICES_DEVICE_SERIAL_SERIAL_IO_HANDLER_H_
 

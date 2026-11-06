@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped libusb device ref
+// summary: Declares a copyable and movable wrapper owning a libusb_device reference and its libusb_context.
+// ---
+
 #ifndef SERVICES_DEVICE_USB_SCOPED_LIBUSB_DEVICE_REF_H_
 #define SERVICES_DEVICE_USB_SCOPED_LIBUSB_DEVICE_REF_H_
 

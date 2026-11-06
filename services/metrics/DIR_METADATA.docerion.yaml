@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for services/metrics
+summary: Declares directory metadata for the metrics service, mixing in the common metadata from base/metrics.

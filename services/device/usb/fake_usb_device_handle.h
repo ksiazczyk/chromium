@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake USB device handle declaration
+// summary: Declares FakeUsbDeviceHandle, a test double that replays control transfer responses from a provided byte buffer.
+// ---
+
 #ifndef SERVICES_DEVICE_USB_FAKE_USB_DEVICE_HANDLE_H_
 #define SERVICES_DEVICE_USB_FAKE_USB_DEVICE_HANDLE_H_
 

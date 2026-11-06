@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android USB service implementation
+// summary: Implements the USB service on Android, bridging JNI callbacks for device attach, detach, and permission requests onto the service sequence.
+// ---
+
 #include "services/device/usb/usb_service_android.h"
 
 #include <string>

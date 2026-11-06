@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Media Session include rules
+summary: Restricts includes for this directory, allowing ui/gfx and third_party/skia headers.

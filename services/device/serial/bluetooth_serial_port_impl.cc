@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth serial port implementation
+// summary: Implements a serial port over a Bluetooth SPP socket, wiring Mojo data pipes to socket reads and writes and recording open results.
+// ---
+
 #include "services/device/serial/bluetooth_serial_port_impl.h"
 
 #include <limits.h>

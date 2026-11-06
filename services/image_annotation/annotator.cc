@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Annotator implementation for server image labeling
+// summary: Implements the Annotator that sends image URLs or pixels to Google servers and caches returned OCR, caption and label results.
+// ---
+
 #include "services/image_annotation/annotator.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac utility implementation for IOReturn error codes
+// summary: Implements HexErrorCode, which formats a macOS IOReturn error code as a hexadecimal string using base::StringPrintf.
+// ---
+
 #include "services/device/utils/mac_utils.h"
 #include "base/strings/stringprintf.h"
 

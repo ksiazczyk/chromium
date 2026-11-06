@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: USB test gadget interface
+// summary: Declares the UsbTestGadget interface for claiming, reconnecting, and configuring virtual USB test devices such as keyboard, mouse, and echo gadgets.
+// ---
+
 #ifndef SERVICES_DEVICE_TEST_USB_TEST_GADGET_H_
 #define SERVICES_DEVICE_TEST_USB_TEST_GADGET_H_
 

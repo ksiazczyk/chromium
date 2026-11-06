@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the serial device service
+summary: Defines the serial source set with platform-specific enumerators and I/O handlers, plus a test support target and Android JNI and Java targets.

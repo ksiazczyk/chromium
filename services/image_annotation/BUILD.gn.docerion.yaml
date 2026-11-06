@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the image annotation service
+summary: Defines source sets, dependencies and a test target for building the image annotation service.

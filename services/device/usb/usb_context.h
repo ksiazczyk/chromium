@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UsbContext header
+// summary: Declares UsbContext, a ref-counted wrapper around a libusb context that manages the lifecycle of its event handler thread.
+// ---
+
 #ifndef SERVICES_DEVICE_USB_USB_CONTEXT_H_
 #define SERVICES_DEVICE_USB_USB_CONTEXT_H_
 

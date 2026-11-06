@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UsbDeviceHandleUsbfs unit tests
+// summary: Unit tests for the USBFS device handle, using a mocked blocking task runner helper to exercise interface claiming, resetting and related operations.
+// ---
+
 #include "services/device/usb/usb_device_handle_usbfs.h"
 
 #include "base/files/scoped_file.h"

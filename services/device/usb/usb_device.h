@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UsbDevice header
+// summary: Declares UsbDevice, a ref-counted representation of a detected USB device with property accessors, removal observers and open and permission callbacks.
+// ---
+
 #ifndef SERVICES_DEVICE_USB_USB_DEVICE_H_
 #define SERVICES_DEVICE_USB_USB_DEVICE_H_
 

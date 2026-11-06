@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the time zone monitor directory
+summary: Lists the owners responsible for reviewing Mojo-related and substantive implementation changes in this directory.

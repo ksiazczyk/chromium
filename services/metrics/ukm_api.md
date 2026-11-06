@@ -1,3 +1,12 @@
+---
+type: guide
+title: URL-Keyed Metrics (UKM) API guide
+summary: Explains how to define UKM metrics in ukm.xml, record events from client code, and test and debug UKM collection.
+relations:
+  - documents /tools/metrics/ukm/ukm.xml
+  - references /tools/metrics/histograms/enums.xml
+---
+
 # URL-Keyed Metrics API
 
 This document describes how to write client code to collect UKM data. Before

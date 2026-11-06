@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android USB endpoint JNI converter
+// summary: Converts an Android UsbEndpoint Java object into a mojom UsbEndpointInfo via generated JNI bindings.
+// ---
+
 #include "services/device/usb/usb_endpoint_android.h"
 
 #include "services/device/usb/usb_descriptors.h"

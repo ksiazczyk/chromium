@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio focus manager unit tests
+// summary: Exercises the audio focus manager API across enforcement modes, covering focus requests, grouping, ducking, and suspension.
+// ---
+
 #include "services/media_session/audio_focus_manager.h"
 
 #include <algorithm>

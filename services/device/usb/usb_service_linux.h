@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux USB service header
+// summary: Declares UsbServiceLinux, the Linux USB service that tracks devices by path through a blocking udev watcher helper.
+// ---
+
 #ifndef SERVICES_DEVICE_USB_USB_SERVICE_LINUX_H_
 #define SERVICES_DEVICE_USB_USB_SERVICE_LINUX_H_
 

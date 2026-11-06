@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the screen orientation service
+summary: Defines the screen_orientation source_set with Mojo dependencies and, on Android, JNI header generation and a Java library for ScreenOrientationListener.

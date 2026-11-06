@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-platform USB service base implementation
+// summary: Implements the platform-neutral UsbService base class and factory that instantiates Android, Linux, Mac or Windows USB services.
+// ---
+
 #include "services/device/usb/usb_service.h"
 
 #include <utility>

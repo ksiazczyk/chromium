@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio focus manager implementation
+// summary: Implements audio focus request handling, enforcement modes, source observers, and pausing all sessions on device suspend.
+// ---
+
 #include "services/media_session/audio_focus_manager.h"
 
 #include <iterator>

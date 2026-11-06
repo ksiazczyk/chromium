@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock USB service implementation
+// summary: Implements MockUsbService methods that add and remove fake USB devices and notify listeners.
+// ---
+
 #include "services/device/usb/mock_usb_service.h"
 
 #include <string>

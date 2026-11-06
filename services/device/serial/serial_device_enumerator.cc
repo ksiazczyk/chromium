@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Serial device enumerator base implementation
+// summary: Implements the platform factory and shared port tracking, observer notification, and token-to-path lookup for serial device enumeration.
+// ---
+
 #include "services/device/serial/serial_device_enumerator.h"
 
 #include <utility>

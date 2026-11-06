@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android time zone monitor class declaration
+// summary: Declares TimeZoneMonitorAndroid, which receives system time zone change callbacks from the Java implementation.
+// ---
+
 #ifndef SERVICES_DEVICE_TIME_ZONE_MONITOR_TIME_ZONE_MONITOR_ANDROID_H_
 #define SERVICES_DEVICE_TIME_ZONE_MONITOR_TIME_ZONE_MONITOR_ANDROID_H_
 

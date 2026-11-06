@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceManagerImpl unit tests
+// summary: Unit tests for DeviceManagerImpl verifying device enumeration, filtering, and client add/remove notifications using a mock USB service.
+// ---
+
 #include "services/device/usb/mojo/device_manager_impl.h"
 
 #include <stddef.h>

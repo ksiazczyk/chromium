@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceManagerImpl class header
+// summary: Declares the DeviceManagerImpl class implementing UsbDeviceManager, including ChromeOS file descriptor access hooks and Android refresh handling.
+// ---
+
 #ifndef SERVICES_DEVICE_USB_MOJO_DEVICE_MANAGER_IMPL_H_
 #define SERVICES_DEVICE_USB_MOJO_DEVICE_MANAGER_IMPL_H_
 

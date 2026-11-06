@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows SetupDi device property helpers implementation
+// summary: Implements helpers that read string, string list, uint32 and GUID device properties via the SetupDi API, logging failures to the device event log.
+// ---
+
 #include "services/device/utils/setupdi_utils_win.h"
 
 #include <ostream>

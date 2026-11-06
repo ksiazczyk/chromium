@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenOrientationListener
+// summary: Android Java implementation for device::ScreenOrientationListenerAndroid that reports whether the user has enabled auto-rotate via the system accelerometer rotation setting.
+// ---
+
 package org.chromium.device.screen_orientation;
 
 import android.provider.Settings;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vibration manager class declaration
+// summary: Declares the cross-platform VibrationManagerImpl Mojo service with virtual platform hooks and a vibrate listener.
+// ---
+
 #ifndef SERVICES_DEVICE_VIBRATION_VIBRATION_MANAGER_IMPL_H_
 #define SERVICES_DEVICE_VIBRATION_VIBRATION_MANAGER_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Serial port Mojo service implementation
+// summary: Implements the mojom::SerialPort interface, bridging Mojo data pipes to a SerialIoHandler for opening, reading, writing, flushing, and controlling serial ports.
+// ---
+
 #include "services/device/serial/serial_port_impl.h"
 
 #include <memory>

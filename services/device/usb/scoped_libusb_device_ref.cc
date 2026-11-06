@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped libusb device ref implementation
+// summary: Implements reference-counted ownership of a libusb_device, referencing and unreferencing it across copies and moves.
+// ---
+
 #include "services/device/usb/scoped_libusb_device_ref.h"
 
 #include "services/device/usb/usb_context.h"

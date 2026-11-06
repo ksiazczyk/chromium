@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for screen orientation Android Java
+summary: Defines include rules that allow the screen orientation Android Java code to depend on ui/android/java.

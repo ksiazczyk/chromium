@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android USB device class declaration
+// summary: Declares UsbDeviceAndroid, a UsbDevice subclass that manages an Android USB device through its Java wrapper, including permission handling and device opening.
+// ---
+
 #ifndef SERVICES_DEVICE_USB_USB_DEVICE_ANDROID_H_
 #define SERVICES_DEVICE_USB_USB_DEVICE_ANDROID_H_
 

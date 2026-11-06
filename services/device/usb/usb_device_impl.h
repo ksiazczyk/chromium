@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UsbDeviceImpl class header
+// summary: Declares the libusb-backed USB device with enumeration-only string setters and open support.
+// ---
+
 #ifndef SERVICES_DEVICE_USB_USB_DEVICE_IMPL_H_
 #define SERVICES_DEVICE_USB_USB_DEVICE_IMPL_H_
 

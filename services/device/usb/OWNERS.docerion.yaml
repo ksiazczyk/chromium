@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: USB directory owners
+summary: Delegates code review ownership for the USB service directory to the chrome/browser/usb OWNERS file.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth serial device enumerator unit tests
+// summary: Tests the Bluetooth serial enumerator with a mock Bluetooth adapter, covering construction, initial enumeration and device add, change and removal.
+// ---
+
 #include "services/device/serial/bluetooth_serial_device_enumerator.h"
 
 #include <memory>

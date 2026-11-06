@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows USB service implementation
+// summary: Implements the USB service on Windows using SetupAPI and device monitoring to enumerate USB devices and composite driver functions.
+// ---
+
 #include "services/device/usb/usb_service_win.h"
 
 #include <windows.h>

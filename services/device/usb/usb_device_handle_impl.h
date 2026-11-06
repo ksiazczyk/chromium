@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: libusb USB device handle declaration
+// summary: Declares UsbDeviceHandleImpl, the libusb-based implementation of UsbDeviceHandle providing I/O operations and transfer management.
+// ---
+
 #ifndef SERVICES_DEVICE_USB_USB_DEVICE_HANDLE_IMPL_H_
 #define SERVICES_DEVICE_USB_USB_DEVICE_HANDLE_IMPL_H_
 

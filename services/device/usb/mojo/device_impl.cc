@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceImpl Mojo USB device service implementation
+// summary: Implements the Mojo UsbDevice interface, handling control, generic, and isochronous transfers with permission checks, blocked-state tracking, and transfer size limits.
+// ---
+
 #include "services/device/usb/mojo/device_impl.h"
 
 #include <stddef.h>

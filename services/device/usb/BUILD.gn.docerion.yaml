@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: USB service build configuration
+summary: GN build rules for the USB static library with platform-specific sources, a test_support target with mocks, and libFuzzer fuzzer targets.

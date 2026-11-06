@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WakeLockContext class header
+// summary: Declares WakeLockContext, which serves WakeLock connections within a context and observes wake lock events.
+// ---
+
 #ifndef SERVICES_DEVICE_WAKE_LOCK_WAKE_LOCK_CONTEXT_H_
 #define SERVICES_DEVICE_WAKE_LOCK_WAKE_LOCK_CONTEXT_H_
 

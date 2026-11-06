@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake serial device enumerator implementation
+// summary: Implements FakeSerialEnumerator, which adds and removes serial ports by device path for use in tests.
+// ---
+
 #include "services/device/serial/fake_serial_device_enumerator.h"
 
 #include <utility>

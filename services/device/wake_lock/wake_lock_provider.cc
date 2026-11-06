@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WakeLockProvider implementation
+// summary: Implements the Mojo WakeLockProvider service that creates wake lock contexts, hands out context-free wake locks, and tracks active wake lock counts and deactivation observers per type.
+// ---
+
 #include "services/device/wake_lock/wake_lock_provider.h"
 
 #include <memory>

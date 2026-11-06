@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUSB descriptor unit tests
+// summary: Unit tests for WebUSB BOS, platform capability and URL descriptor parsing, including malformed and boundary-case inputs.
+// ---
+
 #include "services/device/usb/webusb_descriptors.h"
 
 #include <stdint.h>

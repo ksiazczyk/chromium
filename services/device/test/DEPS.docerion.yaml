@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the device test directory
+summary: Defines include rules for the services/device/test directory, allowing dependencies on net base, proxy resolution, traffic annotation, and URL request headers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows SetupDi device property helper declarations
+// summary: Header declaring SetupDi-based functions to fetch string, string list, uint32 and GUID device properties, noting the calls may block and failures are logged.
+// ---
+
 #ifndef SERVICES_DEVICE_UTILS_SETUPDI_UTILS_WIN_H_
 #define SERVICES_DEVICE_UTILS_SETUPDI_UTILS_WIN_H_
 

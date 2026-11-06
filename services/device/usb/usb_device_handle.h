@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: USB device handle interface
+// summary: Declares the abstract UsbDeviceHandle interface defining device I/O operations such as configuration, interface claiming, and control, isochronous, and generic transfers.
+// ---
+
 #ifndef SERVICES_DEVICE_USB_USB_DEVICE_HANDLE_H_
 #define SERVICES_DEVICE_USB_USB_DEVICE_HANDLE_H_
 

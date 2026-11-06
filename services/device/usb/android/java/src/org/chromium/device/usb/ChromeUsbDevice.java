@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeUsbDevice JNI wrapper for Android USB device information
+// summary: Java JNI wrapper exposing Android UsbDevice metadata such as IDs, class, version, vendor, product, serial, and configurations to the C++ UsbDeviceAndroid class.
+// ---
+
 package org.chromium.device.usb;
 
 import android.hardware.usb.UsbConfiguration;

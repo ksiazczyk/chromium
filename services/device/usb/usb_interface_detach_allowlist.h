@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: USB interface driver detach allowlist header
+// summary: Declares the UsbInterfaceDetachAllowlist class with driver and protocol entries used to decide kernel driver detachment.
+// ---
+
 #ifndef SERVICES_DEVICE_USB_USB_INTERFACE_DETACH_ALLOWLIST_H_
 #define SERVICES_DEVICE_USB_USB_INTERFACE_DETACH_ALLOWLIST_H_
 

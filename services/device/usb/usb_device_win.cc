@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UsbDeviceWin implementation
+// summary: Implements the Windows USB device, opening handles and reading descriptors through the parent hub.
+// ---
+
 #include "services/device/usb/usb_device_win.h"
 
 #include <windows.h>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Vibration service build configuration
+summary: Defines the vibration source set with its core sources, Android-specific sources, and build dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Vibration manager unit tests
+// summary: Tests vibrate and cancel behavior and listener notification through the device service Mojo bindings.
+// ---
+
 #include "services/device/vibration/vibration_manager_impl.h"
 
 #include "base/run_loop.h"

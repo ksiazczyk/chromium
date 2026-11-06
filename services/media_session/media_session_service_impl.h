@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaSessionServiceImpl class header
+// summary: Declares MediaSessionServiceImpl, the MediaSessionService implementation exposing audio focus and media controller manager Mojo interfaces.
+// ---
+
 #ifndef SERVICES_MEDIA_SESSION_MEDIA_SESSION_SERVICE_IMPL_H_
 #define SERVICES_MEDIA_SESSION_MEDIA_SESSION_SERVICE_IMPL_H_
 

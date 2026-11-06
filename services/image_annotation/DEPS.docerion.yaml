@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for image annotation dependencies
+summary: Declares the directories whose headers the image annotation service is allowed to include.

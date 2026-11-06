@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: USB test gadget implementation
+// summary: Implements UsbTestGadget by downloading and configuring USB gadget packages over HTTP and managing virtual device types for Chromium device service tests.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

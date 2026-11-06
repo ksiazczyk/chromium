@@ -1,3 +1,9 @@
+---
+type: readme
+title: Metrics service overview
+summary: Introduces the Metrics Service, notes it is a placeholder letting Blink use former //components interfaces, and links the tracking bug.
+---
+
 The Metrics Service maintains and provides access to the browser metrics.
 
 This service is currently in development. At the moment, this is a placeholder

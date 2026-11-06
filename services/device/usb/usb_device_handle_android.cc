@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android USB device handle implementation
+// summary: Implements UsbDeviceHandleAndroid, which manages an Android USB device connection through a Java UsbDeviceConnection and releases its file descriptor on close.
+// ---
+
 #include "services/device/usb/usb_device_handle_android.h"
 
 #include "base/functional/bind.h"

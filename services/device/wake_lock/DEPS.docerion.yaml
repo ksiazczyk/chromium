@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Wake lock directory include rules
+summary: Grants the wake_lock directory permission to include headers from ui/gfx.

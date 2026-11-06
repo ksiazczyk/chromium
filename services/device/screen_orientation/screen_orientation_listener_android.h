@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android screen orientation listener header
+// summary: Declares the ScreenOrientationListenerAndroid class implementing the mojom ScreenOrientationListener interface for Android.
+// ---
+
 #ifndef SERVICES_DEVICE_SCREEN_ORIENTATION_SCREEN_ORIENTATION_LISTENER_ANDROID_H_
 #define SERVICES_DEVICE_SCREEN_ORIENTATION_SCREEN_ORIENTATION_LISTENER_ANDROID_H_
 

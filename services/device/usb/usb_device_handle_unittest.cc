@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: USB device handle unit tests
+// summary: Unit tests for UsbDeviceHandle that exercise transfers with a USB test gadget, verifying transfer results, interface claiming, and timeout behavior.
+// ---
+
 #include "services/device/usb/usb_device_handle.h"
 
 #include <stddef.h>

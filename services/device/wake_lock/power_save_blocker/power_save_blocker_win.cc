@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows implementation of PowerSaveBlocker
+// summary: Implements PowerSaveBlocker on Windows via PowerCreateRequest and PowerSetRequest, acquiring display and system wake locks depending on wake lock type and Windows version.
+// ---
+
 #include "services/device/wake_lock/power_save_blocker/power_save_blocker.h"
 
 #include <windows.h>

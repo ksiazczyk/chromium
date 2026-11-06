@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Serial I/O handler implementation
+// summary: Implements SerialIoHandler, providing asynchronous open, read, and write operations for serial ports, with ChromeOS permission broker and Android open paths.
+// ---
+
 #include "services/device/serial/serial_io_handler.h"
 
 #include <memory>

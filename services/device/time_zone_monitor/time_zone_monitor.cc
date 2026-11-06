@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Time zone monitor core implementation
+// summary: Implements shared TimeZoneMonitor logic for binding Mojo receivers, updating ICU's default time zone, and notifying clients of changes.
+// ---
+
 #include "services/device/time_zone_monitor/time_zone_monitor.h"
 
 #include "base/logging.h"

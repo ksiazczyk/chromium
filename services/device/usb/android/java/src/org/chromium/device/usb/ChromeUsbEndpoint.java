@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeUsbEndpoint JNI wrapper for Android USB endpoint
+// summary: Java JNI wrapper exposing Android UsbEndpoint attributes like address, max packet size, attributes, and interval to the C++ UsbEndpointAndroid class.
+// ---
+
 package org.chromium.device.usb;
 
 import android.hardware.usb.UsbEndpoint;

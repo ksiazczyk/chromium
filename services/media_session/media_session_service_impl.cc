@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaSessionServiceImpl implementation
+// summary: Implements the media session service entry point that binds the audio focus manager, its debug interface, and the media controller manager.
+// ---
+
 #include "services/media_session/media_session_service_impl.h"
 
 #include "base/functional/bind.h"

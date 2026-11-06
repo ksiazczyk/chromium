@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: libusb USB service implementation
+// summary: Implements the USB service on top of libusb, enumerating devices, handling hotplug events, and reading WebUSB descriptors.
+// ---
+
 #include "services/device/usb/usb_service_impl.h"
 
 #include <stdint.h>

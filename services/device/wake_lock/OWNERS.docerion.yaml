@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Wake lock directory owners
+summary: Lists the code owner responsible for reviews in the wake_lock directory.

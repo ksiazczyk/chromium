@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS Ash time zone monitor implementation
+// summary: Implements TimeZoneMonitor for ChromeOS Ash by observing ash TimezoneSettings and notifying clients when the time zone changes.
+// ---
+
 #include "services/device/time_zone_monitor/time_zone_monitor.h"
 
 #include <memory>

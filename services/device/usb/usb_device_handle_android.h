@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android USB device handle declaration
+// summary: Declares UsbDeviceHandleAndroid, extending UsbDeviceHandleUsbfs to manage device connections via android.hardware.usb.UsbDeviceConnection.
+// ---
+
 #ifndef SERVICES_DEVICE_USB_USB_DEVICE_HANDLE_ANDROID_H_
 #define SERVICES_DEVICE_USB_USB_DEVICE_HANDLE_ANDROID_H_
 

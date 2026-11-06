@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: USB descriptor parsing header
+// summary: Declares UsbDeviceDescriptor and helper functions for reading, parsing and building USB descriptor information structures.
+// ---
+
 #ifndef SERVICES_DEVICE_USB_USB_DESCRIPTORS_H_
 #define SERVICES_DEVICE_USB_USB_DESCRIPTORS_H_
 

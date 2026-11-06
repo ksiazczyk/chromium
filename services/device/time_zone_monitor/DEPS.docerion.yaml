@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the time zone monitor
+summary: Declares allowed include paths for ChromeOS Ash settings, Mojo bindings, and Windows graphics headers in this directory.

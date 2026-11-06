@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linux power save blocker unit tests
+// summary: Verifies that app suspension blockers do not suspend the screensaver while display sleep blocker types do.
+// ---
+
 #include "services/device/wake_lock/power_save_blocker/power_save_blocker.h"
 
 #include <memory>

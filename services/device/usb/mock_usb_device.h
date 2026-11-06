@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock USB device declaration
+// summary: Declares MockUsbDevice, a gmock-based UsbDevice test double with configurable vendor, product, and string descriptors.
+// ---
+
 #ifndef SERVICES_DEVICE_USB_MOCK_USB_DEVICE_H_
 #define SERVICES_DEVICE_USB_MOCK_USB_DEVICE_H_
 

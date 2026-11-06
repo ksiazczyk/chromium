@@ -1,3 +1,12 @@
+---
+type: readme
+title: USB device service overview
+summary: Explains the cross-platform USB abstraction, the ongoing transition away from libusb, and unit, fuzzer, gadget, and manual testing procedures.
+relations:
+  - references /testing/libfuzzer/README.md
+  - references /third_party/usb_ids/src/usb.ids
+---
+
 # USB
 
 `services/device/usb` abstracts [Universal Serial Bus](https://en.wikipedia.org/wiki/USB)

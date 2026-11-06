@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the device service utils directory
+summary: DEPS file that allows the services/device/utils directory to include headers from components/device_event_log.

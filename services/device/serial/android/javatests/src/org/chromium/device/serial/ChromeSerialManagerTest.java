@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeSerialManagerTest
+// summary: Robolectric unit tests for ChromeSerialManager covering port enumeration, connect and disconnect handling, listener unregistration and JNI calls.
+// ---
+
 package org.chromium.device.serial;
 
 import static org.junit.Assert.assertFalse;

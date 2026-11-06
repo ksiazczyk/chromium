@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUSB descriptor fuzzer
+// summary: libFuzzer harness that passes random input to the WebUSB descriptor reader through a fake USB device handle.
+// ---
+
 #include "services/device/usb/webusb_descriptors.h"
 
 #include <stddef.h>

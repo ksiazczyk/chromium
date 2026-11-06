@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vibration manager core implementation
+// summary: Implements the Vibrate and Cancel Mojo handlers, notifies the listener, and records values for testing.
+// ---
+
 #include "services/device/vibration/vibration_manager_impl.h"
 
 #include <utility>

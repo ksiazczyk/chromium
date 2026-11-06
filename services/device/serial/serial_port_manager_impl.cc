@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Serial port manager implementation
+// summary: Implements the mojom::SerialPortManager service, enumerating serial and Bluetooth serial devices and opening ports on behalf of clients.
+// ---
+
 #include "services/device/serial/serial_port_manager_impl.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android USB service header
+// summary: Declares UsbServiceAndroid, the Android USB service that receives JNI device events and handles device permission requests.
+// ---
+
 #ifndef SERVICES_DEVICE_USB_USB_SERVICE_ANDROID_H_
 #define SERVICES_DEVICE_USB_USB_SERVICE_ANDROID_H_
 

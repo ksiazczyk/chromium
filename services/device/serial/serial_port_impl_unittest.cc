@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Serial port implementation unit tests
+// summary: Unit tests for SerialPortImpl using a fake serial I/O handler to cover open, data pipe read and write, control signals, and failure paths.
+// ---
+
 #include "services/device/serial/serial_port_impl.h"
 
 #include "base/test/bind.h"

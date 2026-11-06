@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'ChromeSerialManager: Android Serial API bridge for native serial enumeration'
+// summary: Java class that exposes the Android Serial API to C++ SerialDeviceEnumeratorAndroid via JNI, enumerating serial ports, listening for changes, and opening ports on SDK 37+.
+// ---
+
 package org.chromium.device.serial;
 
 import android.hardware.serial.SerialManager;

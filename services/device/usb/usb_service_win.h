@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows USB service header
+// summary: Declares UsbServiceWin, the Windows USB service that observes device notifications and manages devices by path.
+// ---
+
 #ifndef SERVICES_DEVICE_USB_USB_SERVICE_WIN_H_
 #define SERVICES_DEVICE_USB_USB_SERVICE_WIN_H_
 

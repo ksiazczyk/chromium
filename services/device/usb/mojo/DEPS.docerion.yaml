@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the USB Mojo service
+summary: Allows the USB Mojo service to include the Blink features header needed for the WebUSB transfer size limit feature.

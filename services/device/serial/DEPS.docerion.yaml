@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the serial directory
+summary: Restricts includes in the serial service to ChromeOS DBus, device event log, net base, device mojom, USB and re2.

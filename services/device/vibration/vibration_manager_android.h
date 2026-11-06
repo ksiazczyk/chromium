@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android vibration manager class declaration
+// summary: Declares the Android subclass of VibrationManagerImpl that overrides the platform vibrate and cancel hooks.
+// ---
+
 #ifndef SERVICES_DEVICE_VIBRATION_VIBRATION_MANAGER_ANDROID_H_
 #define SERVICES_DEVICE_VIBRATION_VIBRATION_MANAGER_ANDROID_H_
 

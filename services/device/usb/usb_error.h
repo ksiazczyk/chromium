@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: USB error conversion header
+// summary: Declares ConvertPlatformUsbErrorToString for converting libusb error integers to descriptive strings.
+// ---
+
 #ifndef SERVICES_DEVICE_USB_USB_ERROR_H_
 #define SERVICES_DEVICE_USB_USB_ERROR_H_
 

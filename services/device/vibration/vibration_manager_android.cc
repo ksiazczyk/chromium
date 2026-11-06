@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android vibration manager implementation
+// summary: Implements Android vibration by forwarding vibrate and cancel calls to the Java VibrationManagerAndroid through JNI.
+// ---
+
 #include "services/device/vibration/vibration_manager_android.h"
 
 #include "base/android/jni_android.h"

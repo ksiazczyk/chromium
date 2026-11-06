@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: libusb USB device handle implementation
+// summary: Implements UsbDeviceHandleImpl with libusb-backed USB transfers, including control, isochronous, and generic transfers and interface claiming.
+// ---
+
 #include "services/device/usb/usb_device_handle_impl.h"
 
 #include <algorithm>

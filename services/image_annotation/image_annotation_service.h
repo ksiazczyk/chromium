@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image annotation service header
+// summary: Declares the ImageAnnotationService class that implements the Mojo image annotation service interface and binds Annotator receivers.
+// ---
+
 #ifndef SERVICES_IMAGE_ANNOTATION_IMAGE_ANNOTATION_SERVICE_H_
 #define SERVICES_IMAGE_ANNOTATION_IMAGE_ANNOTATION_SERVICE_H_
 

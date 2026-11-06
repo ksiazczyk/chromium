@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UkmRecorderInterface class header
+// summary: Declares the UkmRecorderInterface Mojo receiver that forwards UKM entries and source URL updates to a UkmRecorder.
+// ---
+
 #ifndef SERVICES_METRICS_UKM_RECORDER_INTERFACE_H_
 #define SERVICES_METRICS_UKM_RECORDER_INTERFACE_H_
 

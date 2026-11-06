@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake serial device enumerator header
+// summary: Declares FakeSerialEnumerator, a test double of SerialDeviceEnumerator that manages ports from explicit device paths.
+// ---
+
 #ifndef SERVICES_DEVICE_SERIAL_FAKE_SERIAL_DEVICE_ENUMERATOR_H_
 #define SERVICES_DEVICE_SERIAL_FAKE_SERIAL_DEVICE_ENUMERATOR_H_
 

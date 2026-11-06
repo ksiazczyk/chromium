@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android power save blocker implementation
+// summary: Implements PowerSaveBlocker on Android by calling the Java PowerSaveBlocker through JNI to apply or remove wake locks.
+// ---
+
 #include "services/device/wake_lock/power_save_blocker/power_save_blocker.h"
 
 #include "base/android/jni_android.h"

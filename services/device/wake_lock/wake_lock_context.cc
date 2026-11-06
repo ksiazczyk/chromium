@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WakeLockContext implementation
+// summary: Implements the context that creates WakeLock instances for a context ID and removes them on connection errors.
+// ---
+
 #include "services/device/wake_lock/wake_lock_context.h"
 
 #include <string>

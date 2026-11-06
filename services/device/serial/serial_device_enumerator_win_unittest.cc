@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows serial device enumerator helper unit tests
+// summary: Unit tests for the serial_win_internal helpers FindInterfaceStringDescriptorIndex and BuildUsbDisplayName, covering USB descriptor parsing and display name construction.
+// ---
+
 #include "services/device/serial/serial_device_enumerator_win.h"
 
 #include <cstdint>

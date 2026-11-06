@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia time zone monitor implementation
+// summary: Implements TimeZoneMonitor on Fuchsia by watching the intl profile and updating ICU and clients when the primary time zone changes.
+// ---
+
 #include "services/device/time_zone_monitor/time_zone_monitor.h"
 
 #include <memory>

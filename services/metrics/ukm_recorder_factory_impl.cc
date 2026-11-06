@@ -3,6 +3,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UkmRecorderFactoryImpl implementation
+// summary: Implements the Mojo UkmRecorderFactory, binding a self-owned receiver and creating UkmRecorderInterface instances for clients.
+// ---
+
 #include "services/metrics/ukm_recorder_factory_impl.h"
 #include "mojo/public/cpp/bindings/self_owned_receiver.h"
 #include "services/metrics/public/cpp/ukm_recorder_client_interface_registry.h"

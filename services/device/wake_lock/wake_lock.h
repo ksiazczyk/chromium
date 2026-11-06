@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WakeLock class header
+// summary: Declares the WakeLock class, its observer interface, and Android-specific members for managing wake lock clients.
+// ---
+
 #ifndef SERVICES_DEVICE_WAKE_LOCK_WAKE_LOCK_H_
 #define SERVICES_DEVICE_WAKE_LOCK_WAKE_LOCK_H_
 
