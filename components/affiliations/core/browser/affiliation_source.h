@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AffiliationSource interface
+// summary: Defines the AffiliationSource interface and its observer, which supply facet URIs and notify about added or removed facets for use by the affiliation prefetcher.
+// ---
+
 #ifndef COMPONENTS_AFFILIATIONS_CORE_BROWSER_AFFILIATION_SOURCE_H_
 #define COMPONENTS_AFFILIATIONS_CORE_BROWSER_AFFILIATION_SOURCE_H_
 

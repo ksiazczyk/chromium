@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AffiliationFetchThrottler implementation
+// summary: Implements AffiliationFetchThrottler, which schedules affiliation network requests with exponential backoff and awareness of network connectivity.
+// ---
+
 #include "components/affiliations/core/browser/affiliation_fetch_throttler.h"
 
 #include <stdint.h>

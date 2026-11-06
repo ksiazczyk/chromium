@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for app_icon_loader
+summary: Defines the app_icon_loader source set with its public headers, implementation source, and a dependency on //base, asserting the target is not built for Android.

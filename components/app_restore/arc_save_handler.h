@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcSaveHandler for saving ARC app windows
+// summary: Declares ArcSaveHandler, a helper for FullRestoreSaveHandler that handles ARC app window special cases such as task creation, session ids, and ghost windows.
+// ---
+
 #ifndef COMPONENTS_APP_RESTORE_ARC_SAVE_HANDLER_H_
 #define COMPONENTS_APP_RESTORE_ARC_SAVE_HANDLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Android Autofill directory metadata
+summary: Points to the shared autofill component metadata used for directory tracking.

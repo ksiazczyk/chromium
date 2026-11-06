@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppRestoreInfo class and observer interface
+// summary: Declares AppRestoreInfo, which reports whether apps and windows should be restored and notifies observers when windows are ready to restore or save.
+// ---
+
 #ifndef COMPONENTS_APP_RESTORE_APP_RESTORE_INFO_H_
 #define COMPONENTS_APP_RESTORE_APP_RESTORE_INFO_H_
 

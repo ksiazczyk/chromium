@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android autofill bridge factory implementation
+// summary: Implements the singleton factory that creates the C++-to-Java bridges for the autofill provider and form data, honoring injected testing factories.
+// ---
+
 #include "components/android_autofill/browser/android_autofill_bridge_factory.h"
 
 #include <memory>

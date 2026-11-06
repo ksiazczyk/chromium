@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AffiliationDatabase class declaration
+// summary: Declares AffiliationDatabase, which stores facet equivalence classes, branding information, groups and PSL extensions in an SQLite database.
+// ---
+
 #ifndef COMPONENTS_AFFILIATIONS_CORE_BROWSER_AFFILIATION_DATABASE_H_
 #define COMPONENTS_AFFILIATIONS_CORE_BROWSER_AFFILIATION_DATABASE_H_
 

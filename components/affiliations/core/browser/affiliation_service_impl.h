@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AffiliationServiceImpl class declaration
+// summary: Declares AffiliationServiceImpl with feature flags for PSL extension caching and change password patterns, a metrics enum, and the change password URL match struct.
+// ---
+
 #ifndef COMPONENTS_AFFILIATIONS_CORE_BROWSER_AFFILIATION_SERVICE_IMPL_H_
 #define COMPONENTS_AFFILIATIONS_CORE_BROWSER_AFFILIATION_SERVICE_IMPL_H_
 

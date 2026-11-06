@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FormData wrapper for native form data
+// summary: Java wrapper of native autofill::FormDataAndroid that translates a web form and its fields into a ViewStructure for Android's autofill framework.
+// ---
+
 package org.chromium.components.autofill;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

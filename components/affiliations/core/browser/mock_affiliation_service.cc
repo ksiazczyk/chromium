@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock affiliation service implementation
+// summary: Implements the MockAffiliationService test double, including its AsWeakPtr support.
+// ---
+
 #include "components/affiliations/core/browser/mock_affiliation_service.h"
 
 namespace affiliations {

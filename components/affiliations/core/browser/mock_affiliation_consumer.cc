@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock affiliation consumer implementation
+// summary: Implements the MockAffiliationConsumer test double that sets gmock expectations for successful or failed affiliation lookup results.
+// ---
+
 #include "components/affiliations/core/browser/mock_affiliation_consumer.h"
 
 #include "base/functional/bind.h"

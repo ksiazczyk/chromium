@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: APDU command parsing and encoding implementation
+// summary: Implements parsing of serialized APDU commands and encoding of commands per the ISO 7816-4 extended length format.
+// ---
+
 #include "components/apdu/apdu_command.h"
 
 #include "base/check_op.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crashpad recorder registration implementation
+// summary: Registers an AllocationTraceRecorder with Crashpad by storing its address in an annotation, with Android-specific memory range allowances.
+// ---
+
 #include "components/allocation_recorder/crash_client/client.h"
 
 #include "base/check_op.h"

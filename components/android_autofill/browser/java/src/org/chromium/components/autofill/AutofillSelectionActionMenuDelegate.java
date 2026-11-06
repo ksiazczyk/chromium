@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillSelectionActionMenuDelegate
+// summary: Selection menu delegate that gives clients using Android Autofill access to a fallback autofill entry in the long-press selection menu.
+// ---
+
 package org.chromium.components.autofill;
 
 import android.content.pm.ResolveInfo;

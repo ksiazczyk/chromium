@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Link capturing component build definition
+summary: Defines the link_capturing source set with its public header, source file, and dependencies on base and ui/base.

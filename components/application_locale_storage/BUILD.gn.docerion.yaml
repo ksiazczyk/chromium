@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for application_locale_storage
+summary: GN build file defining the application_locale_storage source set and its unit test target together with their dependencies.

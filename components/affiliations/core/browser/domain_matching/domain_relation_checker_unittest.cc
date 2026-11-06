@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DomainRelationChecker unit tests
+// summary: Unit tests for DomainRelationChecker covering exact, affiliated, PSL, private-registry, grouped and mixed matches using a fake affiliation service.
+// ---
+
 #include "components/affiliations/core/browser/domain_matching/domain_relation_checker.h"
 
 #include <memory>

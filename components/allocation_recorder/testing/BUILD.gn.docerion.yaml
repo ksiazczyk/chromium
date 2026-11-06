@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build file for the allocation recorder testing source set
+summary: Defines a testonly source set that conditionally compiles Crashpad fakes and crash verification helpers based on the recorder build flags.

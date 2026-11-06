@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AffiliationDatabase unit tests
+// summary: Unit tests for AffiliationDatabase verifying storage, retrieval, deletion and conflict handling of affiliations, groups and PSL extensions.
+// ---
+
 #include "components/affiliations/core/browser/affiliation_database.h"
 
 #include <stdint.h>

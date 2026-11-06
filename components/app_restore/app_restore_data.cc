@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppRestoreData implementation
+// summary: Implements conversion of app launch parameters and window restore information to and from JSON values for the full restore data file.
+// ---
+
 #include "components/app_restore/app_restore_data.h"
 
 #include <string_view>

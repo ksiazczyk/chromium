@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App restore utility functions implementation
+// summary: Implements helpers that apply window info properties, modify widget parameters, and manage ARC session and restore window ids for app restore.
+// ---
+
 #include "components/app_restore/app_restore_utils.h"
 
 #include "base/functional/bind.h"

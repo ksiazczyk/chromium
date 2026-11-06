@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AffiliationFetchThrottlerTest
+// summary: Unit tests for AffiliationFetchThrottler covering backoff delays, network connectivity simulation, and delegate notification behavior using a mock delegate and mock time task runner.
+// ---
+
 #include "components/affiliations/core/browser/affiliation_fetch_throttler.h"
 
 #include <stddef.h>

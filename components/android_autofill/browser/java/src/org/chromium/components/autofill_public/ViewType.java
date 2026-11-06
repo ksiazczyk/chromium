@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewType parcelable class
+// summary: Parcelable class that carries the AutofillId, server and overall view types, and ordered server predictions to the autofill service.
+// ---
+
 package org.chromium.components.autofill_public;
 
 import static org.chromium.build.NullUtil.assertNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stream data source factory header
+// summary: Declares StreamDataSourceFactory, a factory creating the messages written to the crashpad stream.
+// ---
+
 #ifndef COMPONENTS_ALLOCATION_RECORDER_CRASH_HANDLER_STREAM_DATA_SOURCE_FACTORY_H_
 #define COMPONENTS_ALLOCATION_RECORDER_CRASH_HANDLER_STREAM_DATA_SOURCE_FACTORY_H_
 

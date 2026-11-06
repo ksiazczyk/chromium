@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App restore window property key declarations
+// summary: Declares ui::ClassProperty keys used to attach app restore metadata such as activation index, app id, restore window id, and ARC ghost window state to Chrome OS windows.
+// ---
+
 #ifndef COMPONENTS_APP_RESTORE_WINDOW_PROPERTIES_H_
 #define COMPONENTS_APP_RESTORE_WINDOW_PROPERTIES_H_
 

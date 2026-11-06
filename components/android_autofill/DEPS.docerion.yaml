@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Android Autofill include rules
+summary: Defines the allowed include dependencies for the android_autofill component, with extra rules for test files.

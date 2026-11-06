@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android autofill client unit tests
+// summary: Unit tests for AndroidAutofillClient verifying the ablation study default for WebView and that the credential manager binding disconnects on navigation.
+// ---
+
 #include "components/android_autofill/browser/android_autofill_client.h"
 
 #include "components/autofill/content/browser/test_autofill_client_injector.h"

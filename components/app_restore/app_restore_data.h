@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppRestoreData struct definition
+// summary: Defines the AppRestoreData struct that stores app launch parameters and window information, convertible to JSON for the full restore file.
+// ---
+
 #ifndef COMPONENTS_APP_RESTORE_APP_RESTORE_DATA_H_
 #define COMPONENTS_APP_RESTORE_APP_RESTORE_DATA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Full restore feature flag declarations
+// summary: Declares the kArcWindowPredictor feature that enables the window state and bounds predictor and full ghost window for ARC++ apps.
+// ---
+
 #ifndef COMPONENTS_APP_RESTORE_FEATURES_H_
 #define COMPONENTS_APP_RESTORE_FEATURES_H_
 

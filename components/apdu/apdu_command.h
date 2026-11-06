@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: APDU command class header for ISO 7816-4 extended length encoding
+// summary: Declares the ApduCommand class for building and parsing extended length APDU commands with CLA, INS, P1, P2, data, and response length fields.
+// ---
+
 #ifndef COMPONENTS_APDU_APDU_COMMAND_H_
 #define COMPONENTS_APDU_APDU_COMMAND_H_
 

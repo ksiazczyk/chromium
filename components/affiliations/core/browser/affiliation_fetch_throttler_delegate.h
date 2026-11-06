@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AffiliationFetchThrottlerDelegate
+// summary: Defines the delegate interface that users of AffiliationFetchThrottler implement to be notified once it is okay to issue the next network request.
+// ---
+
 #ifndef COMPONENTS_AFFILIATIONS_CORE_BROWSER_AFFILIATION_FETCH_THROTTLER_DELEGATE_H_
 #define COMPONENTS_AFFILIATIONS_CORE_BROWSER_AFFILIATION_FETCH_THROTTLER_DELEGATE_H_
 

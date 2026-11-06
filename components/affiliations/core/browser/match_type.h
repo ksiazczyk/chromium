@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Match type enum definition
+// summary: Defines the MatchType bitmask enum describing how a credential or domain matches an origin, such as exact, affiliated, PSL or grouped matches.
+// ---
+
 #ifndef COMPONENTS_AFFILIATIONS_CORE_BROWSER_MATCH_TYPE_H_
 #define COMPONENTS_AFFILIATIONS_CORE_BROWSER_MATCH_TYPE_H_
 

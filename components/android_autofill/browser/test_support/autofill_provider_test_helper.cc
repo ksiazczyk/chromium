@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillProviderTestHelper native implementation
+// summary: Implements the native side of the AutofillProviderTestHelper JNI helper, letting Java tests simulate autofill server responses and access the main frame's AutofillManager.
+// ---
+
 #include <algorithm>
 #include <iterator>
 #include <string>

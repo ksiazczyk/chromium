@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidAutofillProviderBridgeImpl class header
+// summary: Declares the JNI implementation of AndroidAutofillProviderBridge and the Java-initiated callbacks it dispatches to its delegate.
+// ---
+
 #ifndef COMPONENTS_ANDROID_AUTOFILL_BROWSER_ANDROID_AUTOFILL_PROVIDER_BRIDGE_IMPL_H_
 #define COMPONENTS_ANDROID_AUTOFILL_BROWSER_ANDROID_AUTOFILL_PROVIDER_BRIDGE_IMPL_H_
 

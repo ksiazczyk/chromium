@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ApplicationLocaleStorage class declaration
+// summary: Declares the sequence-bound ApplicationLocaleStorage class that manages the application locale with get, set, and change-callback registration APIs.
+// ---
+
 #ifndef COMPONENTS_APPLICATION_LOCALE_STORAGE_APPLICATION_LOCALE_STORAGE_H_
 #define COMPONENTS_APPLICATION_LOCALE_STORAGE_APPLICATION_LOCALE_STORAGE_H_
 

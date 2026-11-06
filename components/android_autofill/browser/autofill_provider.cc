@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillProvider base class implementation
+// summary: Implements the AutofillProvider base class as WebContents user data with helpers for filling forms and accepting datalist suggestions.
+// ---
+
 #include "components/android_autofill/browser/autofill_provider.h"
 
 #include "base/memory/ptr_util.h"

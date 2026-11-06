@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for android system error page
+summary: Declares the directories whose headers this component may include, such as components grit and strings, net, blink public, and ui base.

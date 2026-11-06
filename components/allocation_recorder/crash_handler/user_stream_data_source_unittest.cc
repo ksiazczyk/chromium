@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User stream data source unit tests
+// summary: Unit tests for AllocationRecorderStreamDataSource covering successful stream production and error handling cases.
+// ---
+
 #include "components/allocation_recorder/crash_handler/user_stream_data_source.h"
 
 #include <memory>

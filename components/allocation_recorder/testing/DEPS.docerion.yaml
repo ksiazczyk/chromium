@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the testing directory
+summary: Grants the testing directory permission to include headers from third_party/crashpad.

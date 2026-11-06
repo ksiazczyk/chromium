@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App launch prefetch public interface
+// summary: Declares the SubprocessType enum and the GetPrefetchSwitch and GetPrefetchBucket functions used to direct the Windows prefetcher when launching processes.
+// ---
+
 #ifndef COMPONENTS_APP_LAUNCH_PREFETCH_APP_LAUNCH_PREFETCH_H_
 #define COMPONENTS_APP_LAUNCH_PREFETCH_APP_LAUNCH_PREFETCH_H_
 

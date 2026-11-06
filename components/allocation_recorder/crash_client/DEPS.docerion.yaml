@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the crash client
+summary: Grants the crash client directory permission to include headers from components/crash/core and third_party/crashpad.

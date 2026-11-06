@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome OS app ID constants
+// summary: Declares app ID constants for the Chrome and Lacros browser applications on Chrome OS in the app_constants namespace.
+// ---
+
 #ifndef COMPONENTS_APP_CONSTANTS_CONSTANTS_H_
 #define COMPONENTS_APP_CONSTANTS_CONSTANTS_H_
 

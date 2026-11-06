@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock affiliation consumer
+// summary: Declares a gmock mock consumer of AffiliationService::GetAffiliationsAndBranding with helpers to expect success or failure results.
+// ---
+
 #ifndef COMPONENTS_AFFILIATIONS_CORE_BROWSER_MOCK_AFFILIATION_CONSUMER_H_
 #define COMPONENTS_AFFILIATIONS_CORE_BROWSER_MOCK_AFFILIATION_CONSUMER_H_
 

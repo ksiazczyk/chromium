@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: APDU response class header with ISO 7816-4 status codes
+// summary: Declares the ApduResponse class and its ISO 7816-4 status byte enum for handling response data and status codes.
+// ---
+
 #ifndef COMPONENTS_APDU_APDU_RESPONSE_H_
 #define COMPONENTS_APDU_APDU_RESPONSE_H_
 

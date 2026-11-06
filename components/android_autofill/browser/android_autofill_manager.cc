@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android autofill manager implementation
+// summary: Implements AndroidAutofillManager, forwarding form events like submissions, field changes and suggestion requests to the AutofillProvider and event loggers.
+// ---
+
 #include "components/android_autofill/browser/android_autofill_manager.h"
 
 #include <memory>

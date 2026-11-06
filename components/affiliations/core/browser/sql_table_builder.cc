@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQL table builder implementation
+// summary: Implements SQLTableBuilder, which generates SQLite create and migration statements for versioned table schemas, including foreign key constraint checks.
+// ---
+
 #include "components/affiliations/core/browser/sql_table_builder.h"
 
 #include <algorithm>

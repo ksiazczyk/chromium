@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Android autofill JUnit tests build configuration
+summary: Defines the Robolectric JUnit test target for the Android autofill component, listing test sources such as AutofillProviderTest and PrefillRequestTest together with their build dependencies.

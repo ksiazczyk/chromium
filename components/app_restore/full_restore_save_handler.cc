@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FullRestoreSaveHandler implementation
+// summary: Implements the singleton handler that saves app launch and window information to the full restore file, batching writes with a delay to minimize IO.
+// ---
+
 #include "components/app_restore/full_restore_save_handler.h"
 
 #include "base/files/file_path.h"

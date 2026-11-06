@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AffiliationBackend implementation
+// summary: Implements the AffiliationBackend, which performs affiliation lookups, prefetching and cache trimming on a background thread using a local database and network fetchers.
+// ---
+
 #include "components/affiliations/core/browser/affiliation_backend.h"
 
 #include <stdint.h>

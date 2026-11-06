@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillSelectionMenuItemHelper
+// summary: Provides autofill and passkey context menu items for the selection menu, matching Android native behavior by showing them only when no text is selected.
+// ---
+
 package org.chromium.components.autofill;
 
 import android.view.Menu;

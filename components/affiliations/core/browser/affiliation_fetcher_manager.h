@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AffiliationFetcherManager
+// summary: Declares AffiliationFetcherManager, which manages fetcher instances between a Fetch call and the completion of each started fetch, with test-only hooks.
+// ---
+
 #ifndef COMPONENTS_AFFILIATIONS_CORE_BROWSER_AFFILIATION_FETCHER_MANAGER_H_
 #define COMPONENTS_AFFILIATIONS_CORE_BROWSER_AFFILIATION_FETCHER_MANAGER_H_
 

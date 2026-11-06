@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Allocation recorder crash client build definition
+summary: Defines the crash_client source set and its unit_tests target, with dependencies on base, crash key, and Crashpad components.

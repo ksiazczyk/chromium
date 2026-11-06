@@ -41,6 +41,12 @@
 //          openssl sha -sha512 -binary | base64 | tr '+/' '-_'
 //
 
+// ---docerion
+// type: source
+// title: Affiliation utilities for facet URIs
+// summary: Defines FacetURI and utilities for facet URIs and affiliation equivalence classes used by the password affiliation system.
+// ---
+
 #ifndef COMPONENTS_AFFILIATIONS_CORE_BROWSER_AFFILIATION_UTILS_H_
 #define COMPONENTS_AFFILIATIONS_CORE_BROWSER_AFFILIATION_UTILS_H_
 

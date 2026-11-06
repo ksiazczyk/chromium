@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory operation report protobuf definition
+// summary: Defines the protobuf messages describing memory operations, stack traces, statistics, and the payload embedded in Crashpad reports.
+// ---
+
 syntax = "proto3";
 
 option optimize_for = LITE_RUNTIME;

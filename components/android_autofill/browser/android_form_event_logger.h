@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidFormEventLogger class header
+// summary: Declares AndroidFormEventLogger, which tracks form events and records autofill funnel and key success metrics.
+// ---
+
 #ifndef COMPONENTS_ANDROID_AUTOFILL_BROWSER_ANDROID_FORM_EVENT_LOGGER_H_
 #define COMPONENTS_ANDROID_AUTOFILL_BROWSER_ANDROID_FORM_EVENT_LOGGER_H_
 

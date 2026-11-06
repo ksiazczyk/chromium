@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form field data Android bridge class declaration
+// summary: Declares FormFieldDataAndroidBridgeImpl, which holds a weak reference to the Java object and implements the FormFieldDataAndroidBridge interface.
+// ---
+
 #ifndef COMPONENTS_ANDROID_AUTOFILL_BROWSER_FORM_FIELD_DATA_ANDROID_BRIDGE_IMPL_H_
 #define COMPONENTS_ANDROID_AUTOFILL_BROWSER_FORM_FIELD_DATA_ANDROID_BRIDGE_IMPL_H_
 

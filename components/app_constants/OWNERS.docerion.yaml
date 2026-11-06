@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for app_constants
+summary: Owners file that delegates code review ownership to the apps directory OWNERS file.

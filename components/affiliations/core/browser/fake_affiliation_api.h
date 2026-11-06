@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake affiliation API header
+// summary: Declares FakeAffiliationAPI, a test helper for serving fake affiliation fetch responses.
+// ---
+
 #ifndef COMPONENTS_AFFILIATIONS_CORE_BROWSER_FAKE_AFFILIATION_API_H_
 #define COMPONENTS_AFFILIATIONS_CORE_BROWSER_FAKE_AFFILIATION_API_H_
 

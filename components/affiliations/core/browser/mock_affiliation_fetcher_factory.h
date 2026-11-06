@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock affiliation fetcher factory
+// summary: Declares a gmock mock of AffiliationFetcherFactory that stubs CreateInstance and CanCreateFetcher for use in tests.
+// ---
+
 #ifndef COMPONENTS_AFFILIATIONS_CORE_BROWSER_MOCK_AFFILIATION_FETCHER_FACTORY_H_
 #define COMPONENTS_AFFILIATIONS_CORE_BROWSER_MOCK_AFFILIATION_FETCHER_FACTORY_H_
 

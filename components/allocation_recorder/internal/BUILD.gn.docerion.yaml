@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the allocation recorder internal source set
+summary: Defines the internal source set containing internal.h and declares a dependency on Crashpad's client library.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppRestoreInfo implementation
+// summary: Implements the AppRestoreInfo singleton that tracks per-account restore preferences and notifies observers about window and widget restore events.
+// ---
+
 #include "components/app_restore/app_restore_info.h"
 
 #include "base/no_destructor.h"

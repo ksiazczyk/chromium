@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock form field data Android bridge for tests
+// summary: GMock implementation of FormFieldDataAndroidBridge that stubs Java peer creation and field update methods for unit tests.
+// ---
+
 #ifndef COMPONENTS_ANDROID_AUTOFILL_BROWSER_MOCK_FORM_FIELD_DATA_ANDROID_BRIDGE_H_
 #define COMPONENTS_ANDROID_AUTOFILL_BROWSER_MOCK_FORM_FIELD_DATA_ANDROID_BRIDGE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DomainRelationChecker implementation
+// summary: Implements asynchronous checks of the relation between two origins or scheme-host-port tuples using the affiliation service, cache updates, PSL extensions and grouping info.
+// ---
+
 #include "components/affiliations/core/browser/domain_matching/domain_relation_checker.h"
 
 #include <algorithm>

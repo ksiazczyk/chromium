@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the app_constants component
+summary: Defines the app_constants source set that bundles the constants.h header into the Chromium build.

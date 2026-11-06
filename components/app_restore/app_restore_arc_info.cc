@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppRestoreArcInfo implementation
+// summary: Implements the AppRestoreArcInfo singleton that notifies observers of ARC task and connection events.
+// ---
+
 #include "components/app_restore/app_restore_arc_info.h"
 
 #include "base/no_destructor.h"

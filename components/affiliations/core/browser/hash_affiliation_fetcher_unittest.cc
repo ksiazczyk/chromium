@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hash affiliation fetcher unit tests
+// summary: Unit tests for HashAffiliationFetcher verifying request payloads, hash prefixes, successful and error responses, and histogram metrics.
+// ---
+
 #include "components/affiliations/core/browser/hash_affiliation_fetcher.h"
 
 #include <memory>

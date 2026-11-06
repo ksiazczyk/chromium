@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RestoreData header
+// summary: Declares RestoreData, the model mapping app ids and window ids to restore data that is serialized to the FullRestoreData file.
+// ---
+
 #ifndef COMPONENTS_APP_RESTORE_RESTORE_DATA_H_
 #define COMPONENTS_APP_RESTORE_RESTORE_DATA_H_
 

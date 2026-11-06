@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AffiliationBackend class declaration
+// summary: Declares the AffiliationBackend class, the background-thread part of the AffiliationService that handles database I/O, fetching and per-facet managers.
+// ---
+
 #ifndef COMPONENTS_AFFILIATIONS_CORE_BROWSER_AFFILIATION_BACKEND_H_
 #define COMPONENTS_AFFILIATIONS_CORE_BROWSER_AFFILIATION_BACKEND_H_
 

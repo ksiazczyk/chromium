@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Full restore file handler implementation
+// summary: Implements FullRestoreFileHandler, which serializes restore data to JSON and atomically reads and writes the full restore file on a background task runner.
+// ---
+
 #include "components/app_restore/full_restore_file_handler.h"
 
 #include <utility>

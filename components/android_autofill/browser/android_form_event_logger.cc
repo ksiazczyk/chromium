@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android form event logger implementation
+// summary: Records Autofill.WebView funnel and key metric histograms for form parsing, interaction, filling and submission events.
+// ---
+
 #include "components/android_autofill/browser/android_form_event_logger.h"
 
 #include "base/metrics/histogram_functions.h"

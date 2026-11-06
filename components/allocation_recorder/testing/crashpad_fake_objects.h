@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Crashpad objects for tests
+// summary: Declares TestProcessMemory and BufferExtensionStreamDataSourceDelegate fakes for exercising Crashpad minidump code in tests.
+// ---
+
 #ifndef COMPONENTS_ALLOCATION_RECORDER_TESTING_CRASHPAD_FAKE_OBJECTS_H_
 #define COMPONENTS_ALLOCATION_RECORDER_TESTING_CRASHPAD_FAKE_OBJECTS_H_
 

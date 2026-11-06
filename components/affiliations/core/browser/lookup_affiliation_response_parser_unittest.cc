@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lookup affiliation response parser unit tests
+// summary: Unit tests for the affiliation response parser covering change password URLs, invalid and non-HTTPS URLs, and change password patterns.
+// ---
+
 #include "components/affiliations/core/browser/lookup_affiliation_response_parser.h"
 
 #include <vector>

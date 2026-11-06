@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crashpad recorder registration API
+// summary: Declares functions to register and unregister an AllocationTraceRecorder with the allocation stack recorder's Crashpad integration.
+// ---
+
 #ifndef COMPONENTS_ALLOCATION_RECORDER_CRASH_CLIENT_CLIENT_H_
 #define COMPONENTS_ALLOCATION_RECORDER_CRASH_CLIENT_CLIENT_H_
 

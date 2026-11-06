@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lookup affiliation response parser implementation
+// summary: Parses and validates LookupAffiliationByHashPrefixResponse protocol messages into affiliations and grouped facets, including branding and change password info.
+// ---
+
 #include "components/affiliations/core/browser/lookup_affiliation_response_parser.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeskTemplateReadHandler class declaration
+// summary: Declares DeskTemplateReadHandler, which keeps a copy of restore data during a desk template launch and provides APIs for reading window info of launched apps.
+// ---
+
 #ifndef COMPONENTS_APP_RESTORE_DESK_TEMPLATE_READ_HANDLER_H_
 #define COMPONENTS_APP_RESTORE_DESK_TEMPLATE_READ_HANDLER_H_
 

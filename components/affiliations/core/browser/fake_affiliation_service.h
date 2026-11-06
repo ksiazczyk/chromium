@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake affiliation service class declaration
+// summary: Declares FakeAffiliationService, a fake AffiliationService for tests that simulates asynchronous affiliation and grouping lookups with seeded data.
+// ---
+
 #ifndef COMPONENTS_AFFILIATIONS_CORE_BROWSER_FAKE_AFFILIATION_SERVICE_H_
 #define COMPONENTS_AFFILIATIONS_CORE_BROWSER_FAKE_AFFILIATION_SERVICE_H_
 

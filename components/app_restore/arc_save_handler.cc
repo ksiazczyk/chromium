@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcSaveHandler implementation
+// summary: Implements saving of ARC app launch and window info, buffering data until ARC tasks or ghost windows are created before writing restore data.
+// ---
+
 #include "components/app_restore/arc_save_handler.h"
 
 #include <algorithm>

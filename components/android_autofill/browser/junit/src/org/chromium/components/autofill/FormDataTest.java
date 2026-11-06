@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FormData unit tests
+// summary: Robolectric unit test verifying that FormData.createFormData assigns session id, name, host, and field origin values correctly.
+// ---
+
 package org.chromium.components.autofill;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: libFuzzer entry point for APDU command and response parsing
+// summary: Feeds arbitrary byte spans into the ApduCommand and ApduResponse parsers to fuzz their deserialization robustness.
+// ---
+
 #include "base/containers/span.h"
 #include "components/apdu/apdu_command.h"
 #include "components/apdu/apdu_response.h"

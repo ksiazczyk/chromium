@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FormFieldData wrapper for native field data
+// summary: Java wrapper of native autofill::FormFieldDataAndroid holding a form field's attributes, control type, bounds, and autofill state.
+// ---
+
 package org.chromium.components.autofill;
 
 import android.graphics.RectF;

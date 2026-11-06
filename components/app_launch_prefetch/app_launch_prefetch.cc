@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App launch prefetch implementation
+// summary: Implements selection of the Windows /prefetch:N command line argument per subprocess type, including the expanded prefetch range on Win11 21H2 and later.
+// ---
+
 #include "components/app_launch_prefetch/app_launch_prefetch.h"
 
 #include <tuple>

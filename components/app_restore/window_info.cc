@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowInfo implementation
+// summary: Implements WindowInfo and BrowserExtraInfo constructors and a debug string conversion of window state, bounds, desk, and display details.
+// ---
+
 #include "components/app_restore/window_info.h"
 
 #include <sstream>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Full restore read handler implementation
+// summary: Implements FullRestoreReadHandler, a singleton that reads restore data from the full restore file and supplies launch and window info during restoration.
+// ---
+
 #include "components/app_restore/full_restore_read_handler.h"
 
 #include <cstdint>

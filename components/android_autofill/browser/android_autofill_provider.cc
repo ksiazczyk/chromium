@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidAutofillProvider implementation
+// summary: Implements the Android autofill provider that manages autofill sessions, prefill requests and form filling for a WebContents.
+// ---
+
 #include "components/android_autofill/browser/android_autofill_provider.h"
 
 #include <memory>

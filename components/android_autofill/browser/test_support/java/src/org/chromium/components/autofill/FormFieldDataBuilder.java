@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FormFieldDataBuilder
+// summary: Builder helper that simplifies creating FormFieldData objects with fields such as name, value, types, options and bounds.
+// ---
+
 package org.chromium.components.autofill;
 
 import android.graphics.RectF;

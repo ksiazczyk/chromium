@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Full restore read and save unit tests
+// summary: Unit tests covering the full restore read and save handlers, including ARC session, task, and window id mappings and restore data handling.
+// ---
+
 #include <cstdint>
 #include <memory>
 #include <utility>

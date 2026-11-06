@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Affiliation database file name constant
+// summary: Defines the constant file name of the affiliation database used by the affiliations component.
+// ---
+
 #ifndef COMPONENTS_AFFILIATIONS_CORE_BROWSER_AFFILIATION_CONSTANTS_H_
 #define COMPONENTS_AFFILIATIONS_CORE_BROWSER_AFFILIATION_CONSTANTS_H_
 

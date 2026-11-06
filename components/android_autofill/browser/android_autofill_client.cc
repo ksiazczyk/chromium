@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android autofill client implementation
+// summary: Implements the AndroidAutofillClient attached to WebContents, including credential manager binding lifecycle and platform autofill client behavior.
+// ---
+
 #include "components/android_autofill/browser/android_autofill_client.h"
 
 #include <optional>

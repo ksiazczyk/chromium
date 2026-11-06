@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ApplicationLocaleStorage implementation
+// summary: Implements the application locale storage, validating locale strings, storing the language tag, and notifying registered change callbacks.
+// ---
+
 #include "components/application_locale_storage/application_locale_storage.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppRestoreArcInfo class header
+// summary: Declares AppRestoreArcInfo, an observable singleton providing ARC app task and Play Store information.
+// ---
+
 #ifndef COMPONENTS_APP_RESTORE_APP_RESTORE_ARC_INFO_H_
 #define COMPONENTS_APP_RESTORE_APP_RESTORE_ARC_INFO_H_
 

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for Android Autofill
+# summary: Presubmit script that warns when autofill feature changes are not exposed to WebView, with a footer-based bypass option.
+# ---
+
 """Chromium presubmit script for src/components/android_autofill.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

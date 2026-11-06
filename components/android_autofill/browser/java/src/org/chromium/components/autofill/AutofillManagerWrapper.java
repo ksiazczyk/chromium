@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillManagerWrapper around Android AutofillManager
+// summary: Wrapper for calling Android's AutofillManager, handling enablement and support checks, autofill service detection, and monitoring of the autofill input UI.
+// ---
+
 package org.chromium.components.autofill;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

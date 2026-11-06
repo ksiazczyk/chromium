@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Allocation recorder holder implementation
+// summary: Implements loading the AllocationTraceRecorder from a Crashpad process snapshot by resolving its address from annotations.
+// ---
+
 #include "components/allocation_recorder/crash_handler/allocation_recorder_holder.h"
 
 #include <optional>

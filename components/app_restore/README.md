@@ -1,3 +1,9 @@
+---
+type: readme
+title: Overview of the app_restore component
+summary: Explains the component's interfaces for collecting and saving app launch and window information for restoration.
+---
+
 The app_restore component contains code necessary for collecting app launching
 information, app window information, and writing to the data storage. It
 provides:

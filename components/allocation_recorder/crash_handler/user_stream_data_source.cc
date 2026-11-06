@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Allocation recorder stream data source implementation
+// summary: Implements ProduceStreamData, which turns the recorder state into a crashpad report stream or an error message stream.
+// ---
+
 #include "components/allocation_recorder/crash_handler/user_stream_data_source.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payload creation function declarations
+// summary: Declares functions that create protobuf payloads with memory operation reports or processing failure messages for Crashpad reports.
+// ---
+
 #ifndef COMPONENTS_ALLOCATION_RECORDER_CRASH_HANDLER_PAYLOAD_H_
 #define COMPONENTS_ALLOCATION_RECORDER_CRASH_HANDLER_PAYLOAD_H_
 

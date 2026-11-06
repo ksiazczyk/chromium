@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form field data Android bridge implementation
+// summary: Implements the JNI-backed bridge that creates the Java FormFieldData peer and propagates field values, types and focusability from native code to Java.
+// ---
+
 #include "components/android_autofill/browser/form_field_data_android_bridge_impl.h"
 
 #include <string>

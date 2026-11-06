@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AffiliationFetcherManager unit tests
+// summary: Unit tests for the affiliation fetcher manager, using a keyless fetcher factory and a test URL loader to verify fetcher creation and handling of affiliation server responses.
+// ---
+
 #include "components/affiliations/core/browser/affiliation_fetcher_manager.h"
 
 #include <stddef.h>

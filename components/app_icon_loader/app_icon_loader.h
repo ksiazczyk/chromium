@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppIconLoader base class header
+// summary: Declares the AppIconLoader base class interface for loading, updating, and clearing Chrome app icons, holding an icon size and a delegate for results.
+// ---
+
 #ifndef COMPONENTS_APP_ICON_LOADER_APP_ICON_LOADER_H_
 #define COMPONENTS_APP_ICON_LOADER_APP_ICON_LOADER_H_
 

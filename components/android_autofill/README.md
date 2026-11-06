@@ -1,3 +1,13 @@
+---
+type: readme
+title: Android Autofill
+summary: Documents the Android Autofill component, its high-level architecture, the responsibilities of its main C++ and Java classes, and Chrome-specific settings.
+relations:
+  - references /android_webview/java/src/org/chromium/android_webview/AwContents.java
+  - references /components/android_autofill/browser/java/src/org/chromium/components/autofill/AutofillManagerWrapper.java
+  - references /components/android_autofill/browser/java/src/org/chromium/components/autofill/AutofillProvider.java
+---
+
 # Android Autofill
 
 Android Autofill is a component that provides functionality to use alternative

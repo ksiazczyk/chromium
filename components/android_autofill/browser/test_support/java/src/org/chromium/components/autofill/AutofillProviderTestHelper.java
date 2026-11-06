@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillProviderTestHelper
+// summary: JNI bridge that lets Autofill provider tests simulate main frame autofill server responses and predictions via native code.
+// ---
+
 package org.chromium.components.autofill;
 
 import org.jni_zero.JNINamespace;

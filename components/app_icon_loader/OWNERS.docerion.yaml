@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for app_icon_loader
+summary: Lists dmurph@chromium.org as the owner responsible for the app_icon_loader component directory.

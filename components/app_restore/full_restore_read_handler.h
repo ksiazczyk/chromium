@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FullRestoreReadHandler class declaration
+// summary: Declares FullRestoreReadHandler, which reads RestoreData from the full restore data file via a background FullRestoreFileHandler and exposes restore APIs.
+// ---
+
 #ifndef COMPONENTS_APP_RESTORE_FULL_RESTORE_READ_HANDLER_H_
 #define COMPONENTS_APP_RESTORE_FULL_RESTORE_READ_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AffiliationFetcherFactory
+// summary: Interface for a factory that constructs AffiliationFetcher instances to retrieve affiliations for requested facets using a given URLLoaderFactory.
+// ---
+
 #ifndef COMPONENTS_AFFILIATIONS_CORE_BROWSER_AFFILIATION_FETCHER_FACTORY_H_
 #define COMPONENTS_AFFILIATIONS_CORE_BROWSER_AFFILIATION_FETCHER_FACTORY_H_
 

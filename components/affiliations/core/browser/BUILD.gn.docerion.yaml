@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Affiliations core browser build configuration
+summary: Defines GN build targets for the affiliations core browser component, including source sets, a fuzzable proto library, test support, unit tests and a response parser fuzzer.

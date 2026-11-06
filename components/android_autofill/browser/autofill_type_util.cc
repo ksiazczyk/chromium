@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill type utility implementation
+// summary: Implements GetMostRelevantFieldType, which picks the most relevant field type among password manager, credit card and address types.
+// ---
+
 #include "components/android_autofill/browser/autofill_type_util.h"
 
 #include "components/autofill/core/browser/autofill_type.h"

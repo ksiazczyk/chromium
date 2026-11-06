@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AffiliationBackend unit tests
+// summary: Unit tests for AffiliationBackend covering affiliation lookups, prefetching, cache trimming and grouping using fake affiliation API responses.
+// ---
+
 #include "components/affiliations/core/browser/affiliation_backend.h"
 
 #include <stddef.h>

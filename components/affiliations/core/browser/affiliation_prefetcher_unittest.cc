@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AffiliationPrefetcher unit tests
+// summary: Unit tests for AffiliationPrefetcher using mock sources and a mock affiliation service to verify startup prefetching for single and multiple sources and facet change handling.
+// ---
+
 #include "components/affiliations/core/browser/affiliation_prefetcher.h"
 
 #include <memory>

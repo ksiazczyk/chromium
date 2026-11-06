@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Facet manager unit tests
+// summary: Unit tests for FacetManager covering request serving, prefetching, and cache expiry using mock time task runners.
+// ---
+
 #include "components/affiliations/core/browser/facet_manager.h"
 
 #include <stddef.h>

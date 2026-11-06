@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payload creation implementation
+// summary: Converts AllocationTraceRecorder contents and error messages into protobuf payloads for inclusion in Crashpad reports.
+// ---
+
 #include "components/allocation_recorder/crash_handler/payload.h"
 
 #include <iterator>

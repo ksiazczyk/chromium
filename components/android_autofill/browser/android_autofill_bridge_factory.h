@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android autofill bridge factory header
+// summary: Declares the AndroidAutofillBridgeFactory singleton that creates provider and form data bridges and allows setting testing factories for each bridge.
+// ---
+
 #ifndef COMPONENTS_ANDROID_AUTOFILL_BROWSER_ANDROID_AUTOFILL_BRIDGE_FACTORY_H_
 #define COMPONENTS_ANDROID_AUTOFILL_BROWSER_ANDROID_AUTOFILL_BRIDGE_FACTORY_H_
 
