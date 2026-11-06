@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceExternalPrintServers policy definition
+# summary: Defines the device-level policy that supplies external print server configurations to ChromeOS devices as a JSON file queried over IPP.
+# ---
+
 caption: External print servers
 desc: "Provides configurations of available print servers.\n\n      This policy allows\
   \ you to provide configuration of external print servers to <ph name=\"PRODUCT_OS_NAME\"\

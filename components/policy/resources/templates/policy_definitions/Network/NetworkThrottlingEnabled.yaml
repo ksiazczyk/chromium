@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Network throttling policy definition
+# summary: Defines a ChromeOS device policy that enables network throttling with configured upload and download rates in kbits/s.
+# ---
+
 caption: Enable throttling network bandwidth
 desc: Setting the policy turns network throttling on or off. This means that the system
   is throttled to achieve the provided upload and download rates (in kbits/s). It

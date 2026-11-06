@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: URL where remote access clients should obtain their authentication token
+# summary: Defines a deprecated internal Chrome policy giving remote access clients the URL from which to obtain their authentication token, used with RemoteAccessHostTokenValidationUrl.
+# ---
+
 caption: URL where remote access clients should obtain their authentication token
 deprecated: true
 desc: |-

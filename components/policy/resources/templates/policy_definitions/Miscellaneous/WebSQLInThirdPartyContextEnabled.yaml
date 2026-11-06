@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Force WebSQL in third-party contexts to be re-enabled
+# summary: Deprecated Chrome policy that re-enables WebSQL in third-party contexts such as cross-site iframes; supported through Chrome 100.
+# ---
+
 caption: Force WebSQL in third-party contexts to be re-enabled.
 default: false
 deprecated: true

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Allow user to configure their device hostname
+# summary: Deprecated policy that determined whether users could configure the device hostname before the feature was removed.
+# ---
+
 caption: Allow user to configure their device hostname
 default: false
 deprecated: true

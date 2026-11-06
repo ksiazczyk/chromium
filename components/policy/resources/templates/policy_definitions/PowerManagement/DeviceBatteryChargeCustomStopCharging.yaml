@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceBatteryChargeCustomStopCharging policy definition
+# summary: Defines the ChromeOS device policy setting the battery percentage at which charging stops in custom battery charge mode.
+# ---
+
 caption: Set battery charge custom stop charging in percent
 desc: |-
   If <ph name="DEVICE_BATTERY_CHARGE_MODE_POLICY_NAME">DeviceBatteryChargeMode</ph> is set to <ph name="DEVICE_BATTERY_CHARGE_CUSTOM_MODE_NAME">"custom"</ph>, then setting <ph name="DEVICE_BATTERY_CHARGE_CUSTOM_STOP_CHARGING_POLICY_NAME">DeviceBatteryChargeCustomStopCharging</ph> customizes when the battery stops charging, based on the percentage of battery charge. <ph name="DEVICE_BATTERY_CHARGE_CUSTOM_START_CHARGING_POLICY_NAME">DeviceBatteryChargeCustomStartCharging</ph> must be at least 5 percentage points below <ph name="DEVICE_BATTERY_CHARGE_CUSTOM_STOP_CHARGING_POLICY_NAME">DeviceBatteryChargeCustomStopCharging</ph>.

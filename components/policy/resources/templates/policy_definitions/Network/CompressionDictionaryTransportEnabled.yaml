@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enable compression dictionary transport support
+# summary: Policy controlling whether Chrome accepts web content using the compression dictionary transport feature.
+# ---
+
 caption: Enable compression dictionary transport support
 default: true
 desc: |-

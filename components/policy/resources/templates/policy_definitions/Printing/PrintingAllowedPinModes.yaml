@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Restrict PIN printing mode
+# summary: ChromeOS policy definition restricting which PIN printing modes users may choose, with values any, pin, or no_pin.
+# ---
+
 caption: Restrict PIN printing mode
 desc: Restricts PIN printing mode. Unset policy is treated as no restriction. If the
   mode is unavailable this policy is ignored. Note that PIN printing feature is enabled

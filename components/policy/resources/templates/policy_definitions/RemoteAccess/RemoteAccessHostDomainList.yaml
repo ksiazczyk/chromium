@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: RemoteAccessHostDomainList policy
+# summary: Defines the list of domains whose registered accounts may share remote access hosts.
+# ---
+
 caption: Configure the required domain names for remote access hosts
 desc: |-
   Setting the policy specifies the host domain names that are imposed on remote access hosts, and users can't change them. Hosts can be shared only using accounts registered on one of the specified domain names.

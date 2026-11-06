@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: NativeMessaging policy atomic group
+# summary: Groups the NativeMessaging blocklist, allowlist, and user-level hosts policies into a single atomic policy group.
+# ---
+
 NativeMessaging:
   caption: Native messaging
   policies:

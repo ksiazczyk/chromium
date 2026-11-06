@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: RemoteAccessHostDebugOverridePolicies policy (deprecated)
+# summary: Deprecated policy that overrode policies on Debug builds of the remote access host using a JSON dictionary of name-value mappings.
+# ---
+
 caption: Policy overrides for Debug builds of the remote access host
 deprecated: true
 desc: |-

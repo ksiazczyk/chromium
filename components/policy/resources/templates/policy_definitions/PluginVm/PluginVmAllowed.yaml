@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PluginVmAllowed policy definition
+# summary: Deprecated device policy that turns PluginVm on or off for ChromeOS devices, requiring a license key or user id to be set.
+# ---
+
 caption: Allow devices to use a <ph name="PLUGIN_VM_NAME">PluginVm</ph> on <ph name="PRODUCT_OS_NAME">$2<ex>Google
   ChromeOS</ex></ph>
 deprecated: true

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: User activity screen dim delay scale
+# summary: Defines the ChromeOS policy that scales the screen dim delay when user activity occurs after dimming, requiring a factor of 100% or more.
+# ---
+
 caption: Percentage by which to scale the screen dim delay if the user becomes active
   after dimming
 desc: |-

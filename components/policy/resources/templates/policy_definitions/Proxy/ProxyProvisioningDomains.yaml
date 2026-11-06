@@ -1,3 +1,9 @@
+# ---docerion
+# type: reference
+# title: ProxyProvisioningDomains policy definition
+# summary: Defines the ProxyProvisioningDomains policy listing Provisioning Domains Chrome uses to fetch proxy configurations via RFC 8801 endpoints.
+# ---
+
 caption: Configure Proxy Provisioning Domains
 desc: |-
   Configures a list of Provisioning Domains (PvDs) that <ph name="PRODUCT_NAME">Google Chrome</ph> will use to fetch proxy configurations dynamically.

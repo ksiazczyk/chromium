@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PrintingAllowedColorModes policy definition
+# summary: Defines a policy restricting printing to color only, monochrome only, or leaving the color mode unrestricted.
+# ---
+
 caption: Restrict printing color mode
 desc: Setting the policy sets printing to color only, monochrome only, or no color
   mode restriction. Leaving the policy unset results in no restriction.

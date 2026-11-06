@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PrintHeaderFooter policy definition
+# summary: Defines the PrintHeaderFooter policy that turns headers and footers on or off in print preview, leaving the choice to users when unset.
+# ---
+
 caption: Print Headers and Footers
 default: null
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DevicePowerPeakShiftBatteryThreshold policy definition
+# summary: Defines the ChromeOS device policy that sets the power peak shift battery threshold in percent between 15 and 100.
+# ---
+
 caption: Set power peak shift battery threshold in percent
 desc: |-
   If <ph name="DEVICE_POWER_PEAK_SHIFT_ENABLED_POLICY_NAME">DevicePowerPeakShiftEnabled</ph> is Enabled, then setting <ph name="DEVICE_POWER_PEAK_SHIFT_BATTERY_THRESHOLD_POLICY_NAME">DevicePowerPeakShiftBatteryThreshold</ph> sets power peak shift battery threshold in percent.

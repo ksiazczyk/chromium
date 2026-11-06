@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Private network request settings atomic group
+# summary: Declares the PrivateNetworkRequestSettings atomic group and lists InsecurePrivateNetworkRequestsAllowed and InsecurePrivateNetworkRequestsAllowedForUrls as its member policies.
+# ---
+
 PrivateNetworkRequestSettings:
   caption: Private network request settings
   policies:

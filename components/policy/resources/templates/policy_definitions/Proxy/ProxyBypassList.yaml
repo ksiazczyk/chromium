@@ -1,3 +1,9 @@
+# ---docerion
+# type: reference
+# title: ProxyBypassList policy definition (deprecated)
+# summary: Defines the deprecated ProxyBypassList policy listing hosts that bypass the proxy, superseded by the ProxySettings policy.
+# ---
+
 arc_support: You cannot force Android apps to use a proxy. A subset of proxy settings
   is made available to Android apps, which they may voluntarily choose to honor. See
   the <ph name="PROXY_MODE_POLICY_NAME">ProxyMode</ph> policy for more details.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: WPADQuickCheckEnabled policy definition
+# summary: Defines a policy that turns Web Proxy Auto-Discovery optimization on or off in Chrome, with users unable to change the setting.
+# ---
+
 caption: Enable WPAD optimization
 default: true
 desc: |-

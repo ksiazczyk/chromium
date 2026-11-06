@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: UpdateOnZeroWindowEnabled policy definition
+# summary: macOS Chrome policy controlling whether the browser automatically relaunches in the background to apply pending security updates when all windows are closed.
+# ---
+
 caption: Controls background automatic relaunch when all browser windows are closed
 default: true
 desc: |-

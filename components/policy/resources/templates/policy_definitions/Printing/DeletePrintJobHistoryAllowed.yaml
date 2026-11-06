@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeletePrintJobHistoryAllowed policy definition
+# summary: Defines the ChromeOS policy that controls whether users can delete their print job history via the print management app or browser history.
+# ---
+
 caption: Allow print job history to be deleted
 default: true
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceLowBatterySoundEnabled policy definition
+# summary: Defines the ChromeOS device policy that enables or disables playing a low battery sound when battery level or remaining time drops below a threshold.
+# ---
+
 caption: Enable Low Battery Sound
 default: null
 desc: |-

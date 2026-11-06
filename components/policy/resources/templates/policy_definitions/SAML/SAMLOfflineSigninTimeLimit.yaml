@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SAML offline sign-in time limit policy
+# summary: ChromeOS policy definition that sets how long a SAML-authenticated user may sign in offline before online authentication is required again, defaulting to 14 days.
+# ---
+
 caption: Limit the time for which a user authenticated via SAML can log in offline
 desc: |-
   During login, <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph> can authenticate against a server (online) or using a cached password (offline).

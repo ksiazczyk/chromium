@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Device uptime limit policy definition
+# summary: Defines the ChromeOS device policy that limits device uptime by scheduling automatic restarts, with values in seconds clamped to at least one hour.
+# ---
+
 caption: Limit device uptime by automatically rebooting
 desc: |-
   Setting the policy limits the device uptime by scheduling automatic restarts, which you can delay by up to 24 hours if a user is on the device. The policy value should be specified in seconds. Values are clamped to be at least 3,600 (one hour).

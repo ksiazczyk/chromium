@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Network policy atomic groups
+# summary: Declares the WiFi atomic group that bundles the device WiFi policy definitions.
+# ---
+
 WiFi:
   caption: WiFi
   policies:

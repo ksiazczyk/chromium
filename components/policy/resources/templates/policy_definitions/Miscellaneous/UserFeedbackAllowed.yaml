@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: User feedback allowed policy
+# summary: Defines the policy allowing or blocking users from sending feedback to Google through the Report an Issue menu or key combination.
+# ---
+
 caption: Allow user feedback
 default: true
 desc: |-

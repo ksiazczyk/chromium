@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PrintingAPIExtensionsAllowlist policy definition
+# summary: Defines a policy listing extensions allowed to skip the confirmation dialog when submitting print jobs through the chrome.printing API.
+# ---
+
 caption: Extensions allowed to skip confirmation dialog when sending print jobs via
   chrome.printing API
 desc: |-

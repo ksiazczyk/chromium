@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enable Printing LPAC Sandbox
+# summary: Windows Chrome policy definition controlling whether printing services run inside the LPAC sandbox.
+# ---
+
 caption: Enable Printing LPAC Sandbox
 default: true
 desc: |-

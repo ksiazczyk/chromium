@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Printers policy definition
+# summary: Defines a policy letting administrators configure a list of printers with display names, URIs, UUIDs, and PPD resources for users on ChromeOS.
+# ---
+
 caption: Configures a list of printers
 desc: |-
   Setting the policy lets administrators set up a list of printers for their users. Printer selection occurs the first time users try to print.

@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Password manager policy group details
+# summary: Group metadata defining the caption and description for the PasswordManager policy group.
+# ---
+
 caption: Password manager
 desc: Configures the password manager.

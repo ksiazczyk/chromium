@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Quick Answers policy group details
+# summary: Defines the caption and description for the Quick Answers group of Chrome OS policy definitions.
+# ---
+
 caption: Quick Answers
 desc: Controls settings for Quick Answers.

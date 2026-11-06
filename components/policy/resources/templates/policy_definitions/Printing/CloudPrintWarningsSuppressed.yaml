@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CloudPrintWarningsSuppressed policy definition
+# summary: Defines the deprecated policy that hides Google Cloud Print deprecation warnings in the print preview dialog and settings pages.
+# ---
+
 caption: Suppress <ph name="CLOUD_PRINT_NAME">Google Cloud Print</ph> deprecation
   messages
 default: false

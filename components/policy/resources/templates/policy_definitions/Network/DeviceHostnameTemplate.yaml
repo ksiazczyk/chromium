@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Device network hostname template
+# summary: Policy setting a template string, with device variable substitution, used as the hostname in DHCP requests.
+# ---
+
 caption: Device network hostname template
 desc: |-
   Setting the policy to a string applies the string as the device hostname during DHCP request. The string can have variables <ph name="ASSET_ID_PLACEHOLDER">${ASSET_ID}</ph>, <ph name="SERIAL_NUM_PLACEHOLDER">${SERIAL_NUM}</ph>, <ph name="MAC_ADDR_PLACEHOLDER">${MAC_ADDR}</ph>, <ph name="MACHINE_NAME_PLACEHOLDER">${MACHINE_NAME}</ph>, <ph name="LOCATION_PLACEHOLDER">${LOCATION}</ph> to be replaced with values on the device before using it as a hostname. The resulting substitution should be a valid hostname (per RFC 1035, section 3.1).

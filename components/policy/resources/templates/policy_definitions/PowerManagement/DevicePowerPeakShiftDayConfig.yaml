@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DevicePowerPeakShiftDayConfig policy definition
+# summary: Defines the ChromeOS device policy that configures per-weekday peak shift start, end, and charge start times for battery-based power saving.
+# ---
+
 caption: Set power peak shift day config
 desc: |-
   If <ph name="DEVICE_POWER_PEAK_SHIFT_ENABLED_POLICY_NAME">DevicePowerPeakShiftEnabled</ph> is Enabled, setting <ph name="DEVICE_POWER_PEAK_SHIFT_DAY_CONFIG_POLICY_NAME">DevicePowerPeakShiftDayConfig</ph> sets power peak shift day configuration.

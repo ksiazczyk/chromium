@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Default printing page size
+# summary: Chrome policy definition that overrides the default printing page size, including custom sizes given in micrometers.
+# ---
+
 caption: Default printing page size
 desc: |-
   Overrides default printing page size.

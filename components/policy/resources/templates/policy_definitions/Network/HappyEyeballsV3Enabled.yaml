@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Happy Eyeballs V3 policy definition
+# summary: Defines a temporary policy to enable, disable, or leave to Chrome the Happy Eyeballs V3 connection attempt algorithm.
+# ---
+
 caption: Use the <ph name="HAPPY_EYEBALLS_V3">Happy Eyeballs V3</ph> algorithm
 desc: |-
   This feature enables the <ph name="HAPPY_EYEBALLS_V3">Happy Eyeballs V3</ph> algorithm to make connection attempts. See https://datatracker.ietf.org/doc/draft-pauly-happy-happyeyeballs-v3 for details.

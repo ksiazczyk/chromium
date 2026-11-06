@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Make Access-Control-Allow-Methods matching in CORS preflight spec conformant
+# summary: Temporary policy controlling whether request methods are uppercased when matched against Access-Control-Allow-Methods headers in CORS preflight.
+# ---
+
 caption: Make <ph name="ACAM_HEADER_NAME">Access-Control-Allow-Methods</ph> matching in <ph name="CORS">CORS</ph> preflight spec conformant
 default: true
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: WebAppSettings Chrome policy definition
+# summary: Defines the policy mapping web app manifest IDs to management settings such as run on OS login, prevent close, and OS integration removal.
+# ---
+
 caption: Web App management settings
 desc: |-
   This policy allows an admin to specify settings for installed web apps. This policy maps a Web App ID to its specific setting. A default configuration can be set using the special ID <ph name="DEFAULT_SCOPE">*</ph>, which applies to all web apps without a custom configuration in this policy.

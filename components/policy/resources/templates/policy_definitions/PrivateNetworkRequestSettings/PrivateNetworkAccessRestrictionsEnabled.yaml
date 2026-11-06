@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PrivateNetworkAccessRestrictionsEnabled policy definition
+# summary: Defines the deprecated boolean policy that blocks main requests when Private Network Access checks fail instead of only showing DevTools warnings.
+# ---
+
 owners:
 - phao@chromium.org
 - chrome-product-security@google.com

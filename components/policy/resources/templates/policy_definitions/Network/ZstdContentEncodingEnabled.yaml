@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: zstd content-encoding support policy
+# summary: Defines the Chrome policy for enabling zstd content-encoding support, marked deprecated and temporary.
+# ---
+
 caption: Enable <ph name="ZSTANDARD_SHORTNAME">zstd</ph> content-encoding support
 desc: |-
   This policy is temporary and will no longer work starting in M137.

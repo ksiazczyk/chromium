@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Quick unlock policy group details
+# summary: Group metadata giving the Quick unlock policy group its caption and description.
+# ---
+
 caption: Quick unlock
 desc: Configures quick unlock related policies.

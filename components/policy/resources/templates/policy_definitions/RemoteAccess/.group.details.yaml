@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Remote access policy group details
+# summary: Group metadata describing the Remote Access policy group for Chrome Remote Desktop host settings, which apply only when the host is installed.
+# ---
+
 caption: Remote access
 desc: |-
   Configure remote access options in Chrome Remote Desktop host.

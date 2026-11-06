@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: RelaunchWindow policy definition
+# summary: Chrome policy that defers the end of the relaunch notification period into a specific daily time window, with a 2 AM to 4 AM default on ChromeOS.
+# ---
+
 caption: Set the time interval for relaunch
 desc: |-
   Specify a target time window for the end of the relaunch notification period.

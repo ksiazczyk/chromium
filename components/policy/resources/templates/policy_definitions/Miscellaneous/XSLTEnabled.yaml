@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: XSLTEnabled policy
+# summary: Defines the temporary XSLTEnabled policy that forces XSLT availability on or off until its planned removal in milestone 176.
+# ---
+
 caption: Control the availability of the XSLT feature
 default: null
 desc: |-

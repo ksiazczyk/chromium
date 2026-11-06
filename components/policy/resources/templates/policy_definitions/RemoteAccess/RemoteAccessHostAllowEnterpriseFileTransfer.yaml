@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enterprise remote support file transfer policy
+# summary: Defines the policy enabling file transfer between client and host in admin-initiated enterprise remote support sessions on ChromeOS.
+# ---
+
 caption: Enable file transfer capability in enterprise remote support sessions
 default: false
 desc: |-

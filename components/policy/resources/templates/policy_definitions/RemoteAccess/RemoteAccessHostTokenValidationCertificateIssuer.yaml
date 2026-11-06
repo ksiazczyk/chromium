@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Client certificate for connecting to RemoteAccessHostTokenValidationUrl
+# summary: Defines a deprecated Chrome policy setting the client certificate issuer CN the host uses to authenticate to the RemoteAccessHostTokenValidationUrl endpoint.
+# ---
+
 caption: Client certificate for connecting to RemoteAccessHostTokenValidationUrl
 deprecated: true
 desc: Setting the policy means the remote access host uses a client certificate with

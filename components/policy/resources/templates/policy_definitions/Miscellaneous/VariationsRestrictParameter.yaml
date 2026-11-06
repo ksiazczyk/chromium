@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: VariationsRestrictParameter policy definition
+# summary: Defines a Chrome policy that adds a restrict query parameter to the URL used to fetch the Variations seed, leaving the URL unmodified when unset.
+# ---
+
 caption: Set the restriction on the fetching of the Variations seed
 desc: |-
   Add a parameter to the fetching of the Variations seed in <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph>.

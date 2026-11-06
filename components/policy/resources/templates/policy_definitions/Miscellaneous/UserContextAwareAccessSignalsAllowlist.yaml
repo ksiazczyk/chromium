@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: User context-aware access signals allowlist policy
+# summary: Defines the policy enabling the Chrome Enterprise Device Trust Connector attestation flow for a list of URLs on managed profiles.
+# ---
+
 caption: Enable the <ph name="CHROME_ENTERPRISE_DEVICE_TRUST_CONNECTOR">Chrome Enterprise Device Trust Connector</ph> attestation flow for a list of URLs on Managed Profiles
 desc: |-
   Enable <ph name="CHROME_ENTERPRISE_DEVICE_TRUST_CONNECTOR">Chrome Enterprise Device Trust Connector</ph> for a list of URLs.

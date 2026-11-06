@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PluginVmImage policy definition
+# summary: Deprecated policy specifying the PluginVm image download URL and SHA-256 hash used to verify the download.
+# ---
+
 caption: <ph name="PLUGIN_VM_NAME">PluginVm</ph> image
 deprecated: true
 desc: Setting the policy specifies the <ph name="PLUGIN_VM_NAME">PluginVm</ph> image

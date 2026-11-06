@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: RemoteAccessHostClipboardSizeBytes policy
+# summary: Defines the maximum clipboard data size in bytes that can be synchronized between client and host, with 0 disabling clipboard sync.
+# ---
+
 caption: The maximum size, in bytes, that can be transferred between client and host
   via clipboard synchronization
 default: null

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PrintersBulkAccessMode policy definition
+# summary: Defines a policy selecting which access mode applies to bulk printer configuration, such as blocklist restriction, allowlist only, or allow all.
+# ---
+
 caption: Printer configuration access policy.
 desc: |-
   Setting the policy designates which access policy applies to bulk printer configuration, controlling which printers from <ph name="PRINTERS_BULK_CONFIGURATION_POLICY_NAME">PrintersBulkConfiguration</ph> are available for users.

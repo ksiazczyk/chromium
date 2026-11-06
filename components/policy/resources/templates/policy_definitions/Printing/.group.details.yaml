@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Printing policy group details
+# summary: Defines the caption and description for the Printing policy group used in generated policy documentation.
+# ---
+
 caption: Printing
 desc: Controls printing settings.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: VirtualKeyboardSmartVisibilityEnabled policy definition
+# summary: Defines a ChromeOS policy controlling whether the on-screen keyboard appears predictively or only when the user or an application explicitly requests it.
+# ---
+
 caption: Let the on-screen keyboard appear when appropriate.
 default: true
 desc: |-

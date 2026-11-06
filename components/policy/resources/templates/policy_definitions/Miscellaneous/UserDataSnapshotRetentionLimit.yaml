@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: User data snapshot retention limit policy
+# summary: Defines the policy limiting how many user data snapshots Chrome keeps for emergency version rollback, with a default of 3.
+# ---
+
 caption: Limits the number of user data snapshots retained for use in case of emergency
   rollback.
 default: 3

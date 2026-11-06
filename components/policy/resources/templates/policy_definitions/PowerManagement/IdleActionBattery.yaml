@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: IdleActionBattery policy definition
+# summary: Defines the deprecated ChromeOS policy specifying the action taken on idle delay while on battery power, superseded by PowerManagementIdleSettings.
+# ---
+
 caption: Action to take when the idle delay is reached while running on battery power
 deprecated: true
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Screen lock delays
+# summary: Defines the ChromeOS policy that sets screen lock delays in milliseconds for AC and battery power, clamped to be less than the idle delay.
+# ---
+
 caption: Screen lock delays
 desc: |-
   Setting the policy specifies the length of time in milliseconds without user input after which the screen locks when running on AC power or battery. Values are clamped to be less than the idle delay in <ph name="POWER_MANAGEMENT_IDLE_SETTINGS_POLICY_NAME">PowerManagementIdleSettings</ph>.

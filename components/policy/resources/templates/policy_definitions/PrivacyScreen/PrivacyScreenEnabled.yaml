@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Privacy screen enabled policy
+# summary: Policy definition that enables or disables the privacy screen feature on Chrome OS, preventing user override when set and supported since Chrome OS 83.
+# ---
+
 caption: Enable privacy screen
 default: null
 desc: |-

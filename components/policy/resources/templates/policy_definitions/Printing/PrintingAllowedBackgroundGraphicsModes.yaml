@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PrintingAllowedBackgroundGraphicsModes policy definition
+# summary: Defines a policy restricting whether users may print with background graphics, without them, or both.
+# ---
+
 caption: Restrict background graphics printing mode
 desc: Restricts background graphics printing mode. Unset policy is treated as no restriction.
 example_value: enabled

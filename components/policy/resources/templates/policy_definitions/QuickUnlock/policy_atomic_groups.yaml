@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Quick unlock policy atomic groups
+# summary: Groups the quick unlock policies into PinUnlock and QuickUnlock atomic groups.
+# ---
+
 PinUnlock:
   caption: Pin unlock
   policies:

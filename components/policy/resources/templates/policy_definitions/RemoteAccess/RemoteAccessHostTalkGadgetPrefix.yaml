@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Configure the TalkGadget prefix for remote access hosts
+# summary: Defines a deprecated Chrome policy that set a custom TalkGadget domain prefix used by remote access hosts when contacting the TalkGadget service.
+# ---
+
 caption: Configure the TalkGadget prefix for remote access hosts
 deprecated: true
 desc: |-

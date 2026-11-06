@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PrintingAllowedDuplexModes policy definition
+# summary: Defines a policy restricting printing to simplex only, duplex only, or leaving the duplex mode unrestricted.
+# ---
+
 caption: Restrict printing duplex mode
 desc: |-
   Setting the policy restricts printing duplex mode.

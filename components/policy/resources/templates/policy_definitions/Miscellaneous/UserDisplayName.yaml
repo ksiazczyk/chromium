@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Device-local account display name policy
+# summary: Defines the ChromeOS policy setting the display name shown on the login screen for device-local accounts.
+# ---
+
 caption: Set the display name for device-local accounts
 desc: |-
   Controls the account name <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph> shows on the login screen for the corresponding device-local account.

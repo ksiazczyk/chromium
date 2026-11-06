@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DevicePowerBatteryChargingOptimization policy definition
+# summary: 'Defines the ChromeOS device policy selecting a battery charging optimization mode: standard, adaptive, or limited charging to prolong battery lifespan.'
+# ---
+
 caption: Battery Charging Optimization
 desc: |-
   Battery health can be affected by factors like frequent full charges and extended charging durations. This policy provides three options to optimize charging behavior and mitigate these factors, ultimately prolonging battery lifespan.

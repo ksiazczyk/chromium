@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Idle warning delay when running on battery power
+# summary: Deprecated ChromeOS policy that set the idle warning delay before a logout or shutdown warning dialog on battery power, replaced by PowerManagementIdleSettings.
+# ---
+
 caption: Idle warning delay when running on battery power
 deprecated: true
 desc: |-

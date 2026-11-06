@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: WebXRImmersiveArEnabled policy
+# summary: Defines the WebXRImmersiveArEnabled policy that controls whether sites may create WebXR immersive augmented reality sessions on Android.
+# ---
+
 caption: Allow creating <ph name="WEBXR_API_NAME_SHORT">WebXR</ph>'s <ph name="WEBXR_AR_SESSION_ENUM_VALUE">"immersive-ar"</ph>
   sessions
 default: true

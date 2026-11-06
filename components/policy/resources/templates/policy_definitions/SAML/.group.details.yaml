@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: SAML user identity management policy group details
+# summary: Defines the caption and description for the SAML policy group covering settings for users authenticated via SAML with an external identity provider.
+# ---
+
 caption: Saml user identity management settings
 desc: Controls settings for users authenticated via SAML with an external IdP

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Remote access connections policy
+# summary: Defines the policy controlling whether the remote access host service can be started and configured to accept incoming connections.
+# ---
+
 caption: Allow remote access connections to this machine
 default: true
 desc: |-

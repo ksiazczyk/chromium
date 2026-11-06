@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Protected Content group details
+# summary: Provides the caption and description metadata for the Protected Content policy group shown in policy documentation.
+# ---
+
 caption: Protected Content
 desc: Controls policies for Protected Content.

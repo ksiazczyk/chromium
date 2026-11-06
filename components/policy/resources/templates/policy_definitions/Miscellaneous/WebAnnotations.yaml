@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: WebAnnotations Chrome policy definition
+# summary: Defines the iOS policy controlling detection of plain text entities on webpages and how users trigger contextual actions on them.
+# ---
+
 caption: Allow detecting plain text entities in web pages.
 default: 0
 desc: |-

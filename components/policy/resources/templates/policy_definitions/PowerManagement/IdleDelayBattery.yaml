@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Idle delay when running on battery power
+# summary: Deprecated ChromeOS policy that set the idle delay in milliseconds before the idle action runs on battery power, replaced by PowerManagementIdleSettings.
+# ---
+
 caption: Idle delay when running on battery power
 deprecated: true
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PluginVm atomic policy group
+# summary: Groups the seven PluginVm policies together as a single atomic group named PluginVm.
+# ---
+
 PluginVm:
   caption: PluginVm
   policies:

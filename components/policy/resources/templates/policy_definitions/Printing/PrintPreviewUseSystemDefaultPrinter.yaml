@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PrintPreviewUseSystemDefaultPrinter policy definition
+# summary: Defines the policy choosing whether print preview defaults to the system default printer or the most recently used printer.
+# ---
+
 caption: Use System Default Printer as Default
 default: false
 desc: |-

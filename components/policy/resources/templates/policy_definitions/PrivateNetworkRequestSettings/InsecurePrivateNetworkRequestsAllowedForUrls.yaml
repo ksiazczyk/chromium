@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: InsecurePrivateNetworkRequestsAllowedForUrls policy definition
+# summary: Defines the deprecated list policy of URL patterns whose origins are exempt from Private Network Access checks when requesting more-private network endpoints.
+# ---
+
 caption: Allow the listed sites to make requests to more-private network endpoints
   in an insecure manner.
 deprecated: true

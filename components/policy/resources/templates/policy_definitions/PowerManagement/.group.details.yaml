@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Power management policy group details
+# summary: Group metadata for the PowerManagement policy group, describing ChromeOS policies that control device behavior when the user is idle.
+# ---
+
 caption: Power management
 desc: |-
   Configure power management in <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph>.

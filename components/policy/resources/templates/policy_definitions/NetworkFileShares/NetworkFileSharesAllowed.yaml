@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Network File Shares availability policy
+# summary: Defines the ChromeOS policy that allows or blocks use of the Network File Shares feature.
+# ---
+
 caption: Controls Network File Shares for ChromeOS availability
 desc: Setting the policy to Enabled lets users use Network File Shares for <ph name="PRODUCT_NAME">$2<ex>Google
   ChromeOS</ex></ph>. Setting the policy to Disabled means users can't use this feature.

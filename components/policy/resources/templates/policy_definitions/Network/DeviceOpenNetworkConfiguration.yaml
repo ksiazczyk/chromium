@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Device-level network configuration
+# summary: Policy pushing device-wide network configuration as a JSON string in the Open Network Configuration format.
+# ---
+
 arc_support: Android apps can use the network configurations and CA certificates set
   via this policy, but do not have access to some configuration options.
 caption: Device-level network configuration

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Remote access host gnubby authentication policy
+# summary: Defines the internal policy controlling whether gnubby authentication requests are proxied across a remote host connection.
+# ---
+
 caption: Allow gnubby authentication for remote access hosts
 desc: |-
   Setting the policy to Enabled means gnubby authentication requests will be proxied across a remote host connection.

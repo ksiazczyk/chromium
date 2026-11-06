@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: WebAuthnFactors Chrome policy definition
+# summary: Defines the ChromeOS policy controlling which WebAuthn factors, such as PIN and fingerprint, may be used on managed devices.
+# ---
+
 caption: Configure allowed WebAuthn factors
 desc: |-
   Setting the policy controls which WebAuthn factors can be used.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceNativePrinters policy definition
+# summary: Defines the deprecated device policy that provides enterprise printer configurations from a JSON file, replaced by the DevicePrinters policy.
+# ---
+
 caption: Enterprise printer configuration file for devices
 deprecated: true
 desc: |-

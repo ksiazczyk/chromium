@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: NativeMessagingAllowlist policy definition
+# summary: Defines the Chrome policy listing native messaging hosts exempt from the blocklist, including schema, example values, owners, and supported platforms.
+# ---
+
 caption: Configure native messaging allowlist
 desc: |-
   Setting the policy specifies which native messaging hosts aren't subject to the deny list. A deny list value of <ph name="WILDCARD_VALUE">*</ph> means all native messaging hosts are denied, unless they're explicitly allowed.

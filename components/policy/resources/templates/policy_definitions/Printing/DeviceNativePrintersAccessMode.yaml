@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceNativePrintersAccessMode policy definition
+# summary: Defines the deprecated device policy choosing whether device printers are filtered by allowlist or blocklist, replaced by DevicePrintersAccessMode.
+# ---
+
 caption: Device printers configuration access policy.
 deprecated: true
 desc: This policy is deprecated and unsupported, please use <ph name="DEVICE_PRINTERS_ACCESS_MODE_POLICY_NAME">DevicePrintersAccessMode</ph> instead.

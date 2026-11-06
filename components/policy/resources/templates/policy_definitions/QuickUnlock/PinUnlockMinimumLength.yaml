@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Lock screen PIN minimum length policy
+# summary: Defines the policy enforcing a minimum length for the lock screen PIN.
+# ---
+
 caption: Set the minimum length of the lock screen PIN
 desc: |-
   Setting the policy enforces the minimum PIN length chosen. (Values below 1 are rounded up to the minimum of 1.)

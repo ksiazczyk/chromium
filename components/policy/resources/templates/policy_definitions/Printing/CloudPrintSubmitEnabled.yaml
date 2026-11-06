@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CloudPrintSubmitEnabled policy definition
+# summary: Defines the deprecated policy controlling whether users can submit documents to Google Cloud Print from the Chrome print dialog.
+# ---
+
 caption: Enable submission of documents to <ph name="CLOUD_PRINT_NAME">Google Cloud
   Print</ph>
 deprecated: true

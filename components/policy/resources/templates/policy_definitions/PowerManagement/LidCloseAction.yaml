@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Action to take when the user closes the lid
+# summary: 'ChromeOS policy definition choosing the action taken when the user closes the device lid: suspend, logout, shutdown, or do nothing.'
+# ---
+
 caption: Action to take when the user closes the lid
 desc: |-
   Setting the policy specifies the action that <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph> takes when the user closes the device's lid.

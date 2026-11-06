@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Specify whether audio activity affects power management
+# summary: ChromeOS policy definition controlling whether audio playback keeps the user from being considered idle for power management purposes.
+# ---
+
 caption: Specify whether audio activity affects power management
 desc: |-
   Setting the policy to Enabled or leaving it unset means the user is not considered idle while audio plays. This prevents the idle timeout from being reached and the idle action from being taken. However, screen dimming, screen off, and screen lock will still occur after their configured timeouts despite audio activity.

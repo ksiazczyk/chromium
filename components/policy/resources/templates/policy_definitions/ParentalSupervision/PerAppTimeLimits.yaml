@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Per-app time limits policy
+# summary: Defines the ChromeOS policy that sets per-app usage restrictions such as blocking or daily time limits for child users, currently supporting ARC apps and complementing UsageTimeLimit.
+# ---
+
 caption: Per-App Time Limits
 desc: |-
   Allows to set per-app usage restrictions.

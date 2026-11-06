@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Restrict the UDP port range used by the remote access host
+# summary: Defines a Chrome policy restricting the UDP port range the remote access host may use, falling back to ports 12400-12409 when firewall traversal is disabled.
+# ---
+
 caption: Restrict the UDP port range used by the remote access host
 desc: |-
   Setting the policy restricts the UDP port range used by the remote access host in this machine.

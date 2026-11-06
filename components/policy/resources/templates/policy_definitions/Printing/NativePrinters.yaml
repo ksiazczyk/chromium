@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Native Printing
+# summary: Defines a deprecated ChromeOS policy for setting up a list of native printers for users, superseded by the Printers policy.
+# ---
+
 caption: Native Printing
 deprecated: true
 desc: |-

@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Power and shutdown policy group details
+# summary: Group metadata file giving the caption and description for the Power and shutdown ChromeOS policy definition group.
+# ---
+
 caption: Power and shutdown
 desc: Controls settings related to power management and rebooting.

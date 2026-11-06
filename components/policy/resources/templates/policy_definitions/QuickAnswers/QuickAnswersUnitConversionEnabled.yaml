@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: QuickAnswersUnitConversionEnabled policy definition
+# summary: Defines the QuickAnswersUnitConversionEnabled boolean policy that controls whether Quick Answers may send selected content to the server to get unit conversion results on Chrome OS.
+# ---
+
 caption: Enable Quick Answers Unit Conversion
 default: true
 desc: |-

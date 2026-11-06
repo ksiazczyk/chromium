@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Require that the name of the local user and the remote access host owner match
+# summary: Defines a Chrome policy that makes the remote access host refuse to start when the local user name differs from the host owner's Google Account name.
+# ---
+
 caption: Require that the name of the local user and the remote access host owner
   match
 desc: |-

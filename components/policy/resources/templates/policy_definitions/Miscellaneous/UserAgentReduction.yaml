@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: User-Agent Reduction policy
+# summary: Defines the deprecated policy to enable or disable User-Agent Reduction, pointing admins to migrate to User-Agent Client Hints.
+# ---
+
 caption: Enable or disable the <ph name="USER_AGENT_REDUCTION_FEATURE_NAME">User-Agent
   Reduction</ph>.
 default: 0

@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Relaunch policy group details
+# summary: Group metadata for the Relaunch policy definitions, giving the caption and description for browser relaunch and restart settings.
+# ---
+
 caption: Relaunch
 desc: Controls browser relaunch and restart settings.

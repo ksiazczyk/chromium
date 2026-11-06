@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Device WiFi Fast Transition policy definition
+# summary: Defines a ChromeOS device policy controlling use of 802.11r Fast Transition when the wireless access point supports it.
+# ---
+
 caption: Enable 802.11r Fast Transition
 desc: |-
   Setting the policy to Enabled means that Fast Transition is used when the wireless access point supports it. It applies to all users and interfaces on the device.

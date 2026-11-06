@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Screen lock delay when running on AC power
+# summary: Defines the deprecated ChromeOS policy for the screen lock delay on AC power, replaced by ScreenLockDelays in ChromeOS 85.
+# ---
+
 caption: Screen lock delay when running on AC power
 deprecated: true
 desc: |-

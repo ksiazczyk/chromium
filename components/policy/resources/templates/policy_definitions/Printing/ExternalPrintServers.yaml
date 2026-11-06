@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: External print servers
+# summary: Defines a ChromeOS policy that provides external print server configurations as a downloaded JSON file, queried via IPP with a limit of 16 servers.
+# ---
+
 caption: External print servers
 desc: "Provides configurations of available print servers.\n\n      This policy allows\
   \ you to provide configuration of external print servers to <ph name=\"PRODUCT_OS_NAME\"\

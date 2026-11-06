@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: WallpaperImage policy definition
+# summary: Defines a ChromeOS policy that sets a wallpaper image downloaded from a URL and verified by SHA-256 hash for the desktop and sign-in screens, preventing user changes.
+# ---
+
 caption: Wallpaper image
 desc: |-
   If you set the policy, <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph>

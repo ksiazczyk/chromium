@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Time limit policy
+# summary: Defines the ChromeOS policy that locks a child user's session based on daily time windows, usage quotas, and temporary LOCK or UNLOCK overrides.
+# ---
+
 caption: Time Limit
 desc: |-
   Allows you to lock the user's session based on the client time or the usage quota of the day.

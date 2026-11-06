@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Privacy screen settings group details
+# summary: Group metadata that captions the Privacy screen settings policy group and describes its purpose of controlling user and device privacy screen policies.
+# ---
+
 caption: Privacy screen settings
 desc: Controls user and device policies for the privacy screen feature.

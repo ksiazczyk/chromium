@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DataURL Whitespace Preservation for all media types
+# summary: Temporary opt-out policy for how Chrome preserves whitespace in data URLs across all media types.
+# ---
+
 caption: DataURL Whitespace Preservation for all media types
 default: true
 desc: |-

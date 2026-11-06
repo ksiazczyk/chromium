@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceBatteryChargeMode policy definition
+# summary: Defines the ChromeOS device policy that selects the battery charge mode, such as standard, express, primarily AC, adaptive, or custom.
+# ---
+
 caption: Battery charge mode
 desc: |-
   Unless <ph name="DEVICE_ADVANCED_BATTERY_CHARGE_MODE_ENABLED_POLICY_NAME">DeviceAdvancedBatteryChargeModeEnabled</ph> is specified, which overrides <ph name="DEVICE_BATTERY_CHARGE_MODE_POLICY_NAME">DeviceBatteryChargeMode</ph>, then setting <ph name="DEVICE_BATTERY_CHARGE_MODE_POLICY_NAME">DeviceBatteryChargeMode</ph> specifies battery charge mode power management policy (if supported on the device). To extend battery life, the policy dynamically controls battery charging by minimizing stress and wear-out.

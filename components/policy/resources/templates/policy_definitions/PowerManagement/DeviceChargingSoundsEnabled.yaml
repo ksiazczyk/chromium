@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceChargingSoundsEnabled policy definition
+# summary: Defines the ChromeOS device policy controlling whether charging sounds play when the device is connected to an AC charger.
+# ---
+
 caption: Enable Charging Sounds
 default: null
 desc: |-

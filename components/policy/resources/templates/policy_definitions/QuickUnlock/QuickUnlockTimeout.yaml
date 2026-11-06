@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Quick unlock password re-entry interval policy
+# summary: Defines the enum policy setting how often users must enter their password to keep using quick unlock.
+# ---
+
 caption: Set how often user has to enter password to use quick unlock
 desc: |-
   Setting the policy controls how often the lock screen requests the password for quick unlock. Each time the lock screen appears, if the last password entry occurred before the time window specified by the value chosen, quick unlock won't be available. If users stay on the lock screen past this amount of time, a password is requested next time they enter the wrong code or re-enter the lock screen, whichever comes first.
