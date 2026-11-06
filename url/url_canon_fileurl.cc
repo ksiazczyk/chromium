@@ -4,6 +4,12 @@
 
 // Functions for canonicalizing "file:" URLs.
 
+// ---docerion
+// type: source
+// title: 'file: URL canonicalization'
+// summary: 'Implements canonicalization of file: URLs, including Windows drive letter normalization and localhost host handling.'
+// ---
+
 #include <string_view>
 
 #include "base/strings/string_util.h"

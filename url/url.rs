@@ -28,6 +28,12 @@
 //! via `cxx::UniquePtr`. Calling methods on `GURL` or `Origin` also incurs some
 //! FFI call overhead.
 
+// ---docerion
+// type: source
+// title: Rust FFI bridge for GURL and Origin
+// summary: Rust crate that wraps Chromium's C++ GURL and Origin types via cxx FFI so both languages share identical URL parsing behavior.
+// ---
+
 pub mod gurl;
 pub use gurl::ffi::GURL;
 

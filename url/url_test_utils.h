@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test utility helpers for string conversion
+// summary: Header providing convenience string conversion functions, such as truncating wide strings to UTF-16 while preserving invalid characters, for use in unit tests.
+// ---
+
 #ifndef URL_URL_TEST_UTILS_H_
 #define URL_URL_TEST_UTILS_H_
 

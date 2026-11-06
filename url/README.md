@@ -1,3 +1,13 @@
+---
+type: readme
+title: Chrome's URL library
+summary: Explains the layers of the URL library from parsing and canonicalization to utility and GURL/Origin, its history, the unsafe buffer migration and terminology cautions.
+relations:
+  - documents /url/third_party/mozilla/url_parse.h
+  - documents /url/url_canon_stdstring.h
+  - documents /url/url_canon.h
+---
+
 # Chrome's URL library
 
 ## Layers

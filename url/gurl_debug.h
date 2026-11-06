@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GURL debug helpers header
+// summary: Declares the DEBUG_ALIAS_FOR_GURL macro and ScopedUrlCrashKey class to preserve GURL values in crash dumps for debugging.
+// ---
+
 #ifndef URL_GURL_DEBUG_H_
 #define URL_GURL_DEBUG_H_
 

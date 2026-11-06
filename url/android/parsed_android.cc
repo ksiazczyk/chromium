@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parsed Android JNI bridge implementation
+// summary: Converts native URL Parsed component offsets and lengths to and from the Java Parsed object, including inner parsed URLs.
+// ---
+
 #include "url/android/parsed_android.h"
 
 #include <jni.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Origin Android JNI bridge implementation
+// summary: Implements conversion between Java Origin objects and native url::Origin, including opaque origin creation and nonce handling.
+// ---
+
 #include "url/origin.h"
 
 #include <cstdint>

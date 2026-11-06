@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ParamTraits<GURL> implementation
+// summary: Implements IPC serialization of GURL, writing and reading URL specs while rejecting invalid or overly long URLs.
+// ---
+
 #include "url/ipc/url_param_traits.h"
 
 #include <string>

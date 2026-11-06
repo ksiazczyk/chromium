@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Java wrapper for GURL's internal parsed URI representation
+// summary: Package-private class holding GURL's parsed URI component offsets, lengths and flags, and syncing them to the native side.
+// ---
+
 package org.chromium.url;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ICU charset converter interface for URL canonicalization
+// summary: Declares IcuCharsetConverter, a CharsetConverter implementation that bridges URL canonicalization to ICU character set conversion routines.
+// ---
+
 #ifndef URL_URL_CANON_ICU_H_
 #define URL_URL_CANON_ICU_H_
 

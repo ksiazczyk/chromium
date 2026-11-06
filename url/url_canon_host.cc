@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host canonicalization
+// summary: Canonicalizes URL hosts using character lookup tables and enforces forbidden host code points per the URL Standard.
+// ---
+
 #include <string>
 #include <string_view>
 

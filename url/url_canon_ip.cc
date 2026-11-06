@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPv4 and IPv6 host canonicalization
+// summary: Implements canonicalization of IPv4 and IPv6 address hosts, including zero-contraction for IPv6 and classification of hosts as valid, broken, or neutral.
+// ---
+
 #include "url/url_canon_ip.h"
 
 #include <stdint.h>

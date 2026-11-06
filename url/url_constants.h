@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL scheme constants
+// summary: Defines constants for well-known URL schemes such as http, https, blob, and data, the standard scheme separator, and the maximum URL character count.
+// ---
+
 #ifndef URL_URL_CONSTANTS_H_
 #define URL_URL_CONSTANTS_H_
 

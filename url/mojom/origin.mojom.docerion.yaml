@@ -1,0 +1,4 @@
+# Docerion header of origin.mojom.
+type: source
+title: Mojom definition of url.mojom.Origin
+summary: Defines the url.mojom.Origin struct with scheme, host, port and an optional nonce that marks the origin as opaque.

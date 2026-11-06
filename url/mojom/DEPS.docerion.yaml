@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for url/mojom
+summary: Restricts includes in the url/mojom directory to mojo/public/cpp.

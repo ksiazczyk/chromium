@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Abstract origin test suite and traits
+// summary: Defines UrlOriginTestTraits and the templated AbstractOriginTest suite used to test origin implementations.
+// ---
+
 #ifndef URL_ORIGIN_ABSTRACT_TESTS_H_
 #define URL_ORIGIN_ABSTRACT_TESTS_H_
 

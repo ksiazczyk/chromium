@@ -1,0 +1,4 @@
+# Docerion header of features.gni.
+type: config
+title: Build feature arguments for the URL library
+summary: Declares the use_platform_icu_alternatives build argument that lets Cronet and other targets replace ICU with platform alternatives.

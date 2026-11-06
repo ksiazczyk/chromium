@@ -4,6 +4,12 @@
 
 // Canonicalizer functions for working with and resolving relative URLs.
 
+// ---docerion
+// type: source
+// title: Relative URL resolution
+// summary: Implements detection and resolution of relative URLs against a canonical base URL, including scheme comparison and Windows drive path handling.
+// ---
+
 #include <algorithm>
 #include <ostream>
 #include <string_view>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the URL library
+summary: Defines the url component target with its sources and platform-specific dependencies, plus buildflags, JNI headers and Java targets for Android builds.

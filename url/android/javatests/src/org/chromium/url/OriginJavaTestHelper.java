@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OriginJavaTestHelper
+// summary: Helper for OriginJavaTest that forwards the origin equivalence test call to the native implementation via JNI.
+// ---
+
 package org.chromium.url;
 
 import org.jni_zero.JNINamespace;

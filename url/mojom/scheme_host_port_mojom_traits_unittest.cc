@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SchemeHostPort Mojo traits unit test
+// summary: Unit test verifying that url::SchemeHostPort objects round-trip correctly through Mojo serialization and deserialization.
+// ---
+
 #include "url/mojom/scheme_host_port_mojom_traits.h"
 
 #include <string>

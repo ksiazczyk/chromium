@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GURLJavaTest
+// summary: JUnit tests for the GURL Java class that verify URL component parsing, canonicalization, and serialization are correctly plumbed through to the native implementation.
+// ---
+
 package org.chromium.url;
 
 import static org.mockito.ArgumentMatchers.any;

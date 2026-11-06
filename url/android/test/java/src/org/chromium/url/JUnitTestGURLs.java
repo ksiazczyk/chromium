@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JUnit test GURL constants for Android URL tests
+// summary: Provides a collection of predefined GURL constants, such as example, Google, NTP and invalid URLs, for reuse in JUnit tests.
+// ---
+
 package org.chromium.url;
 
 /** A collection of test GURLs. */

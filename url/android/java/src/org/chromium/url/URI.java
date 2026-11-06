@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Deprecated java.net.URI-style API shim around GURL
+// summary: Deprecated shim that mimics the java.net.URI API on top of GURL and should not be used in new code.
+// ---
+
 package org.chromium.url;
 
 import org.chromium.build.annotations.NullMarked;

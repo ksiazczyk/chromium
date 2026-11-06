@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SchemeHostPort implementation
+// summary: Implements the SchemeHostPort tuple, including input validation, canonical host checks, and scheme policy handling.
+// ---
+
 #include "url/scheme_host_port.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'Origin: Java representation of scheme, host and port tuples'
+// summary: Represents an origin as a scheme, host and port tuple or as an opaque origin, constructed from GURL or mojo Origin objects via JNI.
+// ---
+
 package org.chromium.url;
 
 import org.jni_zero.CalledByNative;

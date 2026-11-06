@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GURL libFuzzer harness
+// summary: LibFuzzer entry point checking that GURL canonicalization is idempotent, ReplaceComponents preserves the spec, and relative URL resolution behaves consistently.
+// ---
+
 #include "url/gurl.h"
 
 #include <string_view>

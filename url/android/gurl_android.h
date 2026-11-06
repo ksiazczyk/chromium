@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GURL Android JNI bridge header
+// summary: Declares GURLAndroid helpers and JNI type conversion templates between Java GURL and native GURL.
+// ---
+
 #ifndef URL_ANDROID_GURL_ANDROID_H_
 #define URL_ANDROID_GURL_ANDROID_H_
 

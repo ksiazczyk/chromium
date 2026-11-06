@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GURL implementation
+// summary: Implements the GURL class, including canonicalization of input strings, filesystem inner URLs, and construction from already-parsed canonical specs.
+// ---
+
 #include "url/gurl.h"
 
 #include <stddef.h>

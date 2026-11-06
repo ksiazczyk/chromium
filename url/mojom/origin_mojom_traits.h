@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojom traits mapping for url::Origin
+// summary: Declares StructTraits that map url::Origin fields to the url.mojom.Origin Mojom struct for serialization and deserialization.
+// ---
+
 #ifndef URL_MOJOM_ORIGIN_MOJOM_TRAITS_H_
 #define URL_MOJOM_ORIGIN_MOJOM_TRAITS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL path canonicalization
+// summary: Implements canonicalization of URL path components, using a character lookup table to decide which characters pass through, require escaping, or need special dot handling.
+// ---
+
 #include <limits.h>
 
 #include <optional>

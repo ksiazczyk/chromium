@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GURLJavaTestHelper
+// summary: Helper for GURLJavaTest that bridges to native code, creating GURL instances and invoking native ICU initialization and URL equivalence tests.
+// ---
+
 package org.chromium.url;
 
 import org.jni_zero.CalledByNative;

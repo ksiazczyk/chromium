@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ParamTraits<GURL> declaration
+// summary: Declares the IPC ParamTraits specialization for GURL with Write and Read methods for pickling URLs across process boundaries.
+// ---
+
 #ifndef URL_IPC_URL_PARAM_TRAITS_H_
 #define URL_IPC_URL_PARAM_TRAITS_H_
 

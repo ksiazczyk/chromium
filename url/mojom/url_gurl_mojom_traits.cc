@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GURL Mojo traits implementation
+// summary: Implements Mojo StructTraits that serialize and deserialize GURL values, rejecting URLs that are invalid or exceed the maximum length.
+// ---
+
 #include "url/mojom/url_gurl_mojom_traits.h"
 
 #include "url/url_constants.h"

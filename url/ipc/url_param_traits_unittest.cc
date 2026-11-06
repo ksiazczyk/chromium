@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for GURL IPC serialization
+// summary: GTest suite verifying that GURL round-trips through IPC ParamTraits, covering basic URLs, excessive length, invalid and corrupt payloads, and Windows drive letter paths.
+// ---
+
 #include "url/ipc/url_param_traits.h"
 
 #include <string>

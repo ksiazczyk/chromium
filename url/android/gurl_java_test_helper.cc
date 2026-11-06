@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Java GURL equivalence test helper
+// summary: Native test helper that verifies Java and native GURL produce equivalent results across many standard, non-standard, and invalid URL cases.
+// ---
+
 #include <stddef.h>
 
 #include <sstream>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SchemeHostPort serialization benchmark
+// summary: Benchmarks SchemeHostPort::Serialize() with Google Benchmark to measure serialization performance.
+// ---
+
 #include "url/scheme_host_port.h"
 
 #include "third_party/google_benchmark/src/include/benchmark/benchmark.h"

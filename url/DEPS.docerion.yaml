@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the URL directory
+summary: Restricts dependencies on ICU and other modules within the URL directory, granting specific exceptions for fuzzers, ICU files, Rust shims and unit tests.

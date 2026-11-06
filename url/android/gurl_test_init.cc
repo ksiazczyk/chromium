@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Robolectric scheme registration for URL tests
+// summary: Registers Chromium URL schemes so URL parsing works as expected in Robolectric tests without depending on content or chrome.
+// ---
+
 #include "url/android/gurl_test_init.h"
 #include "url/url_util.h"
 

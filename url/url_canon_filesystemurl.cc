@@ -4,6 +4,12 @@
 
 // Functions for canonicalizing "filesystem:file:" URLs.
 
+// ---docerion
+// type: source
+// title: 'filesystem: URL canonicalization'
+// summary: 'Implements canonicalization and replacement of filesystem: URLs, including canonicalizing their inner file or standard URLs.'
+// ---
+
 #include <optional>
 
 #include "url/url_canon.h"

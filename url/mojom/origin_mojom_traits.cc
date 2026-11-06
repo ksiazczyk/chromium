@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Deserialization of url::Origin from Mojom
+// summary: Implements reading url::Origin from Mojom data, creating tuple or opaque origins from scheme, host, port and nonce.
+// ---
+
 #include "url/mojom/origin_mojom_traits.h"
 
 #include <string_view>

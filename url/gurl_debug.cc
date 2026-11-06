@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GURL debug crash key implementation
+// summary: Implements ScopedUrlCrashKey, which records a GURL's possibly invalid spec or an empty-URL placeholder into a crash key for debugging.
+// ---
+
 #include "url/gurl_debug.h"
 
 #include "url/gurl.h"

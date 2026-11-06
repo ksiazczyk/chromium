@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA issue tracking for url/mojom
+summary: Routes bugs for this directory to the Internals>Mojo Monorail component and Buganizer component 1456296.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Origin debugging helpers
+// summary: Declares ScopedOriginCrashKey and the DEBUG_ALIAS_FOR_ORIGIN macro for preserving origins in crash dumps.
+// ---
+
 #ifndef URL_ORIGIN_DEBUG_H_
 #define URL_ORIGIN_DEBUG_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojom traits mapping for url::SchemeHostPort
+// summary: Declares StructTraits that map url::SchemeHostPort fields to the url.mojom.SchemeHostPort Mojom struct.
+// ---
+
 #ifndef URL_MOJOM_SCHEME_HOST_PORT_MOJOM_TRAITS_H_
 #define URL_MOJOM_SCHEME_HOST_PORT_MOJOM_TRAITS_H_
 

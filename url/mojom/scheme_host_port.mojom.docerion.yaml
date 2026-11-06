@@ -1,0 +1,4 @@
+# Docerion header of scheme_host_port.mojom.
+type: source
+title: Mojom definition of url.mojom.SchemeHostPort
+summary: Defines the url.mojom.SchemeHostPort struct with scheme, host and port fields, mirroring url::SchemeHostPort.

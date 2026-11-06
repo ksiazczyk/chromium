@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal header with shared character type tables
+// summary: Internal header defining shared character type flags and the kSharedCharTypeTable lookup used to decide escaping during URL canonicalization.
+// ---
+
 #ifndef URL_URL_CANON_INTERNAL_H_
 #define URL_URL_CANON_INTERNAL_H_
 
