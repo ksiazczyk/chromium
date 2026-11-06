@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PWA Universal Install Bottom Sheet Coordinator Tests
+// summary: Robolectric instrumentation tests for the PWA universal install bottom sheet coordinator, checking shown titles, option texts, and dialog behavior.
+// ---
+
 package org.chromium.components.webapps.pwa_universal_install;
 
 import static org.mockito.ArgumentMatchers.any;

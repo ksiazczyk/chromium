@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TwaInstaller class header
+// summary: Declares the TwaInstaller helper class for installing a web app as an auto-minted TWA by calling the Android-side WebApp service via JNI.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_ANDROID_TWA_INSTALLER_H_
 #define COMPONENTS_WEBAPPS_BROWSER_ANDROID_TWA_INSTALLER_H_
 

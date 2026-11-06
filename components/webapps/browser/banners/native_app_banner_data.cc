@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeAppBannerData implementation
+// summary: Implements the constructors and destructor of the NativeAppBannerData struct that stores native app package, title and icon details.
+// ---
+
 #include "components/webapps/browser/banners/native_app_banner_data.h"
 
 #include <string>

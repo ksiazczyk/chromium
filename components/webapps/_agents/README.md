@@ -1,3 +1,13 @@
+---
+type: readme
+title: WebApps AI Agent Harness Setup
+summary: README explaining how to enable the WebApps AI agent harness by adding inherits entries for agents.json and skills.json to workspace .agents configuration, with jq commands.
+relations:
+  - references /components/webapps/_agents/_harness/README.md
+  - documents /components/webapps/_agents/agents.json
+  - documents /components/webapps/_agents/skills.json
+---
+
 # WebApps AI Agent Harness Setup
 
 AI agent personas, skills, and architectural context for Web Applications

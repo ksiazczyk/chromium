@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppBannerManagerAndroid implementation
+// summary: Implements the Android app banner manager that checks installability, fetches native or web app data, and triggers banner-driven install flows.
+// ---
+
 #include "components/webapps/browser/android/app_banner_manager_android.h"
 
 #include <limits>

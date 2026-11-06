@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebApkIconsHasher unit tests
+// summary: Unit tests verifying Murmur2 hash computation for multiple downloaded WebAPK icons using a test URL loader factory and expected hash values.
+// ---
+
 #include "components/webapps/browser/android/webapk/webapk_icons_hasher.h"
 
 #include <string>

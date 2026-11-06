@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAppBannerData implementation
+// summary: Implements WebAppBannerData constructors, accessors and app name resolution from manifest or page metadata for web app install banners.
+// ---
+
 #include "components/webapps/browser/banners/web_app_banner_data.h"
 
 #include <string>

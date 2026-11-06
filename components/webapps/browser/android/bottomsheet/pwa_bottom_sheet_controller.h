@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PWA bottom sheet controller class declaration
+// summary: Declares the PwaBottomSheetController class that manages the bottom sheet install UI for PWAs on Android, with callbacks for install, expansion, and dismissal events.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_ANDROID_BOTTOMSHEET_PWA_BOTTOM_SHEET_CONTROLLER_H_
 #define COMPONENTS_WEBAPPS_BROWSER_ANDROID_BOTTOMSHEET_PWA_BOTTOM_SHEET_CONTROLLER_H_
 

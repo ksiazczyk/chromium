@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UninstallResultCode enum header
+// summary: Declares the UninstallResultCode enum covering uninstall outcomes such as app removed, cancelled, error, and partial install source removal.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_UNINSTALL_RESULT_CODE_H_
 #define COMPONENTS_WEBAPPS_BROWSER_UNINSTALL_RESULT_CODE_H_
 

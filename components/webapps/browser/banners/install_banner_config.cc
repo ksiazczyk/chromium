@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install banner config implementation
+// summary: Implements InstallBannerConfig, holding the validated URL, banner mode, and web or native app data, with helpers returning the app identifier and name.
+// ---
+
 #include "components/webapps/browser/banners/install_banner_config.h"
 
 namespace webapps {

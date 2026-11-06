@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppBannerManager
+// summary: Manages the app banner info bar for a WebContents, fetching details about native apps to display in the banner via its native-side counterpart.
+// ---
+
 package org.chromium.components.webapps;
 
 import android.content.Context;

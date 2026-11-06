@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Provider for the shared PWA bottom sheet controller
+// summary: Binds the shared PWA bottom sheet controller to window user data and exposes native-called entry points for showing and expanding the installer.
+// ---
+
 package org.chromium.components.webapps.bottomsheet;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

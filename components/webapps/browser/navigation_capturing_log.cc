@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation capturing debug log implementation
+// summary: Implements NavigationCapturingLog, storing a bounded list of navigation capturing debug entries that can be dumped as base::Value logs.
+// ---
+
 #include "components/webapps/browser/navigation_capturing_log.h"
 
 #include <optional>

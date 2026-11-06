@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App banner manager class declaration
+// summary: Declares AppBannerManager, which coordinates app banner creation from eligibility detection to infobar creation, with observer and delegate interfaces for install flow events.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_BANNERS_APP_BANNER_MANAGER_H_
 #define COMPONENTS_WEBAPPS_BROWSER_BANNERS_APP_BANNER_MANAGER_H_
 

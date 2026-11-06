@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebappsFeatureMap
+// summary: Java accessor for the base::Features listed in webapps_feature_map.cc, exposing webapps feature flags to Java code.
+// ---
+
 package org.chromium.components.webapps;
 
 import org.jni_zero.JNINamespace;

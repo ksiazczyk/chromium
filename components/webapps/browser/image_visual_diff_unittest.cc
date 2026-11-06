@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Image visual diff unit tests
+// summary: Tests the ten percent image diff threshold using identical, empty, black, white, red, and partially changed bitmaps.
+// ---
+
 #include "components/webapps/browser/image_visual_diff.h"
 
 #include "base/test/test_future.h"

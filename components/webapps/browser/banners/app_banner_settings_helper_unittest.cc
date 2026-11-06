@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App banner settings helper unit tests
+// summary: Unit tests for AppBannerSettingsHelper covering event recording, single versus repeated events, and banner blocking suppression over time.
+// ---
+
 #include "components/webapps/browser/banners/app_banner_settings_helper.h"
 
 #include "base/auto_reset.h"

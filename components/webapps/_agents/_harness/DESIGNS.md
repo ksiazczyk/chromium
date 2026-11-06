@@ -1,3 +1,13 @@
+---
+type: guide
+title: Technical Design Document Authoring Guide
+summary: Defines the purpose, lifecycle, naming, and required structure for authoring technical design documents in Chromium before implementation planning.
+relations:
+  - references /components/webapps/_agents/_harness/PLANS.md
+  - references /components/webapps/_agents/_harness/REVIEWS.md
+  - references /agents/prompts/common.md
+---
+
 # Technical Design Documents (Designs)
 
 <!--

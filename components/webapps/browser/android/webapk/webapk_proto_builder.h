@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAPK proto builder declarations
+// summary: Declares functions that build the WebAPK proto on a background thread and store update request protos to a file.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_ANDROID_WEBAPK_WEBAPK_PROTO_BUILDER_H_
 #define COMPONENTS_WEBAPPS_BROWSER_ANDROID_WEBAPK_WEBAPK_PROTO_BUILDER_H_
 

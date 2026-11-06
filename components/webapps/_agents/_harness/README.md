@@ -1,3 +1,9 @@
+---
+type: readme
+title: Quarantined AI Agent Harness Infrastructure
+summary: Overview of the quarantined AI agent harness pilot, covering its directory structure, goals, non-goals, usage, and promotion roadmap.
+---
+
 # Quarantined AI Agent Harness Infrastructure
 
 ## Overview

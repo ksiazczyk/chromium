@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Add-to-homescreen coordinator for the Android app menu
+// summary: Coordinates the add-to-homescreen UI component, starting the flow from the app menu and bridging to the native C++ coordinator via JNI.
+// ---
+
 package org.chromium.components.webapps;
 
 import static org.chromium.build.NullUtil.assertNonNull;

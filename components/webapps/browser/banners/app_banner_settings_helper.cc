@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App banner settings helper implementation
+// summary: Implements storage of per-origin banner event timestamps in content settings, enforcing heuristics for how often and how soon banners may be shown.
+// ---
+
 #include "components/webapps/browser/banners/app_banner_settings_helper.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstallableWebAppCheckResult enum header
+// summary: Defines the InstallableWebAppCheckResult enum describing the degree to which a site satisfies web app installability requirements.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_BANNERS_INSTALLABLE_WEB_APP_CHECK_RESULT_H_
 #define COMPONENTS_WEBAPPS_BROWSER_BANNERS_INSTALLABLE_WEB_APP_CHECK_RESULT_H_
 

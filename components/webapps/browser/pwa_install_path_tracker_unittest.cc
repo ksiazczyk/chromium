@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PWA install path tracker unit tests
+// summary: Unit tests verifying GetInstallPathMetric maps install sources and bottom sheet usage to the correct install path metrics.
+// ---
+
 #include "components/webapps/browser/pwa_install_path_tracker.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

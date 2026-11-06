@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PWA bottom sheet controller implementation
+// summary: Implements the Android bottom sheet installer UI for progressive web apps, including JNI bridges to the Java side and checks for when the sheet can be shown.
+// ---
+
 #include "components/webapps/browser/android/bottomsheet/pwa_bottom_sheet_controller.h"
 
 #include <string>

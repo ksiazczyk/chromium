@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebappIcon class for WebAPK icon data
+// summary: Declares the WebappIcon class that stores a WebAPK icon's URL, purpose, usages, fetched untrusted data and murmur2 hash.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_ANDROID_WEBAPP_ICON_H_
 #define COMPONENTS_WEBAPPS_BROWSER_ANDROID_WEBAPP_ICON_H_
 

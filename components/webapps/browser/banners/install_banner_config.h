@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstallBannerConfig struct header
+// summary: Declares the InstallBannerConfig struct, AppBannerMode enum and result callback that carry validated URL and web or native app data for install banners.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_BANNERS_INSTALL_BANNER_CONFIG_H_
 #define COMPONENTS_WEBAPPS_BROWSER_BANNERS_INSTALL_BANNER_CONFIG_H_
 

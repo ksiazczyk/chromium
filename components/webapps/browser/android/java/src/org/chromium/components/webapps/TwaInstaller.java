@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TwaInstaller
+// summary: Java counterpart of twa_installer.cc that installs auto-minted TWAs through the Android WebAppManager and reports install flow events.
+// ---
+
 package org.chromium.components.webapps;
 
 import android.content.Context;

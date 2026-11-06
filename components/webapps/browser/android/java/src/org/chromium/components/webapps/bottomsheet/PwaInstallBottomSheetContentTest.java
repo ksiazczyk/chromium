@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for PWA install bottom sheet content
+// summary: Robolectric unit tests verifying PwaInstallBottomSheetContent behavior including priority, height mode, swipe dismissal, scroll offset, and accessibility IDs.
+// ---
+
 package org.chromium.components.webapps.bottomsheet;
 
 import android.app.Activity;

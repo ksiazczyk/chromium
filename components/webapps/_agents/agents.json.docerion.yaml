@@ -1,0 +1,4 @@
+# Docerion header of agents.json.
+type: config
+title: WebApps agent configuration
+summary: JSON configuration that inherits internal webapps team agent definitions and lists agent entry paths under components/webapps/_agents.

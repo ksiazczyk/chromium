@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShortcutInfo implementation
+// summary: Implements ShortcutInfo creation from web page metadata and manifest, including splash icon selection and collection of primary, splash, and shortcut icons for WebAPKs.
+// ---
+
 #include "components/webapps/browser/android/shortcut_info.h"
 
 #include <optional>

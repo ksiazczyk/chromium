@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for WebappsUtils manifest and history pruning
+// summary: Tests WebAPK manifest URL compatibility rules and that PrunePreScopeNavigationHistory removes history entries made before the web app scope.
+// ---
+
 #include "components/webapps/browser/android/webapps_utils.h"
 
 #include <vector>

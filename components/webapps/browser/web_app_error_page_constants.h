@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app error page constants
+// summary: Defines dictionary key and HTML element id constants used by the web app alternative error page, including the offline icon id.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_WEB_APP_ERROR_PAGE_CONSTANTS_H_
 #define COMPONENTS_WEBAPPS_BROWSER_WEB_APP_ERROR_PAGE_CONSTANTS_H_
 

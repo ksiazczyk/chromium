@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebappsUtils
+// summary: Utilities for web apps and homescreen shortcuts on Android, covering shortcut creation, pin-shortcut support checks, and install intents.
+// ---
+
 package org.chromium.components.webapps;
 
 import android.content.Context;

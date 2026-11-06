@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for the add-to-homescreen mediator
+// summary: Robolectric tests verifying that the mediator assigns the correct properties to the model for native and web apps.
+// ---
+
 package org.chromium.components.webapps;
 
 import static org.mockito.Mockito.verify;

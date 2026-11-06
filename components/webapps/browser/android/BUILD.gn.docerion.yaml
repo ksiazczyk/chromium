@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Webapps Android build configuration (BUILD.gn)
+summary: Defines GN build targets for the webapps Android Java library, JNI header generation, and resource dependencies.

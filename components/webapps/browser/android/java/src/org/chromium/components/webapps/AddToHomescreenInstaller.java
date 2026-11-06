@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native app install and open helper
+// summary: Launches the install or open intent for a native Android app on behalf of its C++ counterpart add_to_homescreen_installer.cc.
+// ---
+
 package org.chromium.components.webapps;
 
 import android.content.ActivityNotFoundException;

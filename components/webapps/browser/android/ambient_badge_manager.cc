@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AmbientBadgeManager implementation
+// summary: Implements the ambient badge manager that decides when to show the install badge, records user interactions, and applies segmentation-based promotion.
+// ---
+
 #include "components/webapps/browser/android/ambient_badge_manager.h"
 
 #include <limits>

@@ -16,6 +16,9 @@ tools:
   - read_url_content
   - send_message
 inheritMcp: true
+type: config
+title: Chromium Code Reviewer Agent Definition
+summary: Defines the Chromium code reviewer subagent, its read-only mandates, and a four-step owners review workflow for CLs, commits, and local diffs.
 ---
 
 # Core Mandates

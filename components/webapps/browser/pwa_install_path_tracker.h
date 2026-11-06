@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PWA install path tracker header
+// summary: Declares PwaInstallPathTracker and the InstallPathMetric enum tracking which install path, such as app menu, API, or ambient badge, installed a PWA.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_PWA_INSTALL_PATH_TRACKER_H_
 #define COMPONENTS_WEBAPPS_BROWSER_PWA_INSTALL_PATH_TRACKER_H_
 

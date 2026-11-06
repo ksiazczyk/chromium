@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Add-to-home-screen text styles
+summary: Android resource file defining text appearance styles, including font sizes, for the add-to-home-screen UI elements.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <style name="TextAppearance.AddToHomeScreenEditText">
         <item name="android:textSize">18sp</item>

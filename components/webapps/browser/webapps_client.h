@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Webapps client embedder interface
+// summary: Defines the WebappsClient interface that embedders like Chrome implement to expose security checks, install sources, installation conflict detection and manifest handling to webapps code.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_WEBAPPS_CLIENT_H_
 #define COMPONENTS_WEBAPPS_BROWSER_WEBAPPS_CLIENT_H_
 

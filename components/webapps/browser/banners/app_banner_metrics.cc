@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App banner metrics implementation
+// summary: Implements UMA histogram tracking functions for app banner display, install, dismiss, user response, and installable status code events.
+// ---
+
 #include "components/webapps/browser/banners/app_banner_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

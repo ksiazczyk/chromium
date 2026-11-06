@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: PWA bottom sheet color resources
+summary: Android resource file defining the card background color used by the PWA bottom sheet in the webapps browser UI.
+-->
+
 <resources>
     <!-- PWA Bottom Sheet general colors -->
     <color name="pwa_bottom_sheet_card_background">@macro/default_card_bg_color</color>

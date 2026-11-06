@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PWA universal install bottom sheet coordinator
+// summary: JNI bridge that fetches app data and primary icon via AddToHomescreenDataFetcher for the Android PWA universal install bottom sheet UI.
+// ---
+
 #include "base/logging.h"
 
 #include <memory>

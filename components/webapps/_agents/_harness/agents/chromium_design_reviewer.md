@@ -14,6 +14,11 @@ tools:
   - read_url_content
   - send_message
 inheritMcp: true
+type: config
+title: Chromium Design and Plan Reviewer Agent Definition
+summary: Defines the skeptical design and plan reviewer subagent, its six critique dimensions, severity classification, and required review output format.
+relations:
+  - references /components/webapps/_agents/_harness/REVIEWS.md
 ---
 
 # Core Mandates

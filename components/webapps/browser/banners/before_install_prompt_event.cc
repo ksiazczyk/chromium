@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Before install prompt event implementation
+// summary: Implements the browser-side beforeinstallprompt event flow, sending prompt requests to the renderer via Mojo and tracking prompt, accept, and dismiss outcomes.
+// ---
+
 #include "components/webapps/browser/banners/before_install_prompt_event.h"
 
 #include "components/webapps/browser/banners/app_banner_metrics.h"

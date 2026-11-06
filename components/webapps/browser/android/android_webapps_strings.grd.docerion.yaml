@@ -1,0 +1,4 @@
+# Docerion header of android_webapps_strings.grd.
+type: asset
+title: Android webapps localized strings resource
+summary: GRIT resource definition listing localized Android string translations for the webapps component across many languages.

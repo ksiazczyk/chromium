@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PWA bottom sheet install controller
+// summary: Controls the bottom sheet PWA install flow, managing sheet state, observers, screenshots, and communication with the native side via JNI.
+// ---
+
 package org.chromium.components.webapps.bottomsheet;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

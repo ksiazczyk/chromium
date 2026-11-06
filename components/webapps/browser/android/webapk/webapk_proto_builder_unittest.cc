@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebAPK proto builder unit tests
+// summary: Unit tests that build WebAPK protos and verify manifest fields, icon data, colors, shortcuts, and update reasons.
+// ---
+
 #include "components/webapps/browser/android/webapk/webapk_proto_builder.h"
 
 #include "base/files/file_path.h"

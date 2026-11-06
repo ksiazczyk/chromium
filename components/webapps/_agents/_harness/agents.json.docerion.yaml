@@ -1,0 +1,4 @@
+# Docerion header of agents.json.
+type: config
+title: Harness Agents Manifest
+summary: Manifest registering the harness's reusable agent personas directory for the quarantined AI agent harness.

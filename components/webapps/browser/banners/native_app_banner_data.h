@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeAppBannerData struct header
+// summary: Declares a struct holding the package, title and primary icon of a native app considered for an install banner or beforeinstallprompt event.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_BANNERS_NATIVE_APP_BANNER_DATA_H_
 #define COMPONENTS_WEBAPPS_BROWSER_BANNERS_NATIVE_APP_BANNER_DATA_H_
 

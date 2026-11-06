@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkIconsHasher implementation
+// summary: Downloads all WebAPK icons and computes Murmur2 hashes for each, falling back to the primary icon bitmap when the icon is missing.
+// ---
+
 #include "components/webapps/browser/android/webapk/webapk_icons_hasher.h"
 
 #include "base/barrier_closure.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PWA Universal Install Bottom Sheet View Binder
+// summary: Binds the PWA universal install PropertyModel to the bottom sheet view, updating texts, visibility, and click listeners per view state.
+// ---
+
 package org.chromium.components.webapps.pwa_universal_install;
 
 import android.view.View;

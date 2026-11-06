@@ -1,0 +1,4 @@
+# Docerion header of IDS_WEBAPK_INSTALL_FAILED.png.sha1.
+type: asset
+title: IDS_WEBAPK_INSTALL_FAILED PNG SHA-1 checksum
+summary: Holds the SHA-1 hash of the PNG screenshot for the WebAPK install failure string in the Android web apps UI.

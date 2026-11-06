@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAPK icon size utilities implementation
+// summary: Fetches and caches icon size values from Java and provides helpers to finalize launcher icons and generate home screen and adaptive icons.
+// ---
+
 #include "components/webapps/browser/android/webapps_icon_utils.h"
 
 #include "base/android/jni_android.h"

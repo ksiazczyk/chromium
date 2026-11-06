@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PWA Universal Install Bottom Sheet Content Unit Tests
+// summary: Robolectric unit tests verifying the behavior of PwaUniversalInstallBottomSheetContent, including priority, height modes, swipe dismissal, and accessibility strings.
+// ---
+
 package org.chromium.components.webapps.pwa_universal_install;
 
 import android.content.Context;

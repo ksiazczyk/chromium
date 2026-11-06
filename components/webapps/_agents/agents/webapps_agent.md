@@ -28,6 +28,12 @@ subagent: true
 rules:
   - ../skills/webapps-dev/SKILL.md
   - ../../AGENTS.md
+type: config
+title: WebApps Agent
+summary: Agent definition for development, testing, and general assistance in the webapps and PWA project space, configuring tools, rules, and subagent behavior.
+relations:
+  - references /components/webapps/_agents/skills/webapps-dev/SKILL.md
+  - references /components/webapps/AGENTS.md
 ---
 
 # WebApps Agent

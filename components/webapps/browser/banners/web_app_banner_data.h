@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAppBannerData struct header
+// summary: Declares a struct holding manifest, page metadata, primary icon and screenshot information for a web app considered for an install banner.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_BANNERS_WEB_APP_BANNER_DATA_H_
 #define COMPONENTS_WEBAPPS_BROWSER_BANNERS_WEB_APP_BANNER_DATA_H_
 

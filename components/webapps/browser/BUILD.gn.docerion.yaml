@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Webapps browser GN build targets
+summary: Defines source sets, sources and dependencies for the webapps browser component, including a constants-only set for crosapi type mappings.

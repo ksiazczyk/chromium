@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Uninstall result code helpers
+// summary: Implements UninstallSucceeded and stream output for UninstallResultCode values used to report web app uninstall outcomes.
+// ---
+
 #include "components/webapps/browser/uninstall_result_code.h"
 
 #include <ostream>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppData
+// summary: Stores data about a particular app, including site URL, package name, title, icon URL, rating, and install-related intents.
+// ---
+
 package org.chromium.components.webapps;
 
 import android.app.PendingIntent;

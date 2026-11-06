@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app URL eligibility check implementation
+// summary: Implements the check that decides which URLs are eligible for web app features, allowing HTTP and HTTPS pages, extension apps on some platforms, and the password manager WebUI page.
+// ---
+
 #include "components/webapps/browser/web_app_url_config.h"
 
 #include "base/check.h"

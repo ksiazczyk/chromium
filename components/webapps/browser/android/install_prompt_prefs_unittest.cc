@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InstallPromptPrefs unit tests
+// summary: Unit tests verifying that consecutive dismiss and ignore counts trigger suppression within their time windows and that a click resets the counters.
+// ---
+
 #include "components/webapps/browser/android/install_prompt_prefs.h"
 
 #include "base/test/scoped_feature_list.h"

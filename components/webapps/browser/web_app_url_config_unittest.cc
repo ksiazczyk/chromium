@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app URL eligibility unit tests
+// summary: Unit tests verifying which URL kinds are eligible for web app features, covering HTTP and HTTPS pages, WebUI pages, and disallowed schemes such as blob, file, and data.
+// ---
+
 #include "components/webapps/browser/web_app_url_config.h"
 
 #include "build/build_config.h"

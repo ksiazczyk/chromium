@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App banner settings helper declarations
+// summary: Declares a utility class that records banner events per origin and package or start URL to decide when banners should be shown without pestering users.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_BANNERS_APP_BANNER_SETTINGS_HELPER_H_
 #define COMPONENTS_WEBAPPS_BROWSER_BANNERS_APP_BANNER_SETTINGS_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Install result code unit tests
+// summary: Verifies that IsSuccess correctly classifies each InstallResultCode value as success or failure.
+// ---
+
 #include "components/webapps/browser/install_result_code.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

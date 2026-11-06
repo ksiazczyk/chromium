@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationData class header
+// summary: Declares NavigationData, a bundle of web-apps data such as PWA navigation capturing force-off, launch params, and launch source carried on navigations.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_NAVIGATION_DATA_H_
 #define COMPONENTS_WEBAPPS_BROWSER_NAVIGATION_DATA_H_
 

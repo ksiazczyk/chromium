@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Robolectric tests for the Add to Homescreen dialog view
+// summary: Robolectric tests covering the AddToHomescreenDialogView dialog states, dismissal causes, and callbacks using a mock modal dialog manager.
+// ---
+
 package org.chromium.components.webapps;
 
 import android.app.Activity;

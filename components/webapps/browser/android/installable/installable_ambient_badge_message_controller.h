@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installable ambient badge message controller class declaration
+// summary: Declares the controller that shows a message when users visit a progressive web app, with methods to enqueue, query, and dismiss the badge message.
+// ---
+
 #ifndef COMPONENTS_WEBAPPS_BROWSER_ANDROID_INSTALLABLE_INSTALLABLE_AMBIENT_BADGE_MESSAGE_CONTROLLER_H_
 #define COMPONENTS_WEBAPPS_BROWSER_ANDROID_INSTALLABLE_INSTALLABLE_AMBIENT_BADGE_MESSAGE_CONTROLLER_H_
 

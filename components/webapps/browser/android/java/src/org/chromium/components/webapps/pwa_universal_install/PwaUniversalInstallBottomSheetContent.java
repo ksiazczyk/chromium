@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PWA Universal Install Bottom Sheet Content
+// summary: Implements BottomSheetContent for the PWA universal install bottom sheet, providing the view, modal sheet type, high priority, and accessibility strings.
+// ---
+
 package org.chromium.components.webapps.pwa_universal_install;
 
 import android.content.Context;

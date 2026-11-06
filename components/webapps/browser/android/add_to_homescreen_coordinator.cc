@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Add to homescreen coordinator implementation
+// summary: Implements the C++ side of the add-to-homescreen flow, coordinating data fetching, the mediator, and installation for the app menu.
+// ---
+
 #include "components/webapps/browser/android/add_to_homescreen_coordinator.h"
 
 #include <utility>
