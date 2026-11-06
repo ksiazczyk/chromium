@@ -1,0 +1,4 @@
+# Docerion header of slim_web_view_strings_sr.xtb.
+type: data
+title: Slim WebView strings, Serbian Cyrillic (slim_web_view_strings_sr.xtb)
+summary: Serbian Cyrillic XTB translation bundle holding the localized slim web view string with a placeholder for the web view tag name, used by the guest view browser UI.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the guest view renderer
+summary: Restricts the directory's allowed dependencies to content, gin, IPC, Mojo, Blink, gfx geometry and V8 includes.

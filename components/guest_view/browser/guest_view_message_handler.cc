@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GuestViewMessageHandler implementation
+// summary: Implements the browser-side Mojo handler that creates view handles and attaches guests to embedder frames, killing misbehaving renderers.
+// ---
+
 #include "components/guest_view/browser/guest_view_message_handler.h"
 
 #include <memory>

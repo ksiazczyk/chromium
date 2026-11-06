@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unpack robustness fuzzer
+// summary: Fuzz target feeding arbitrary data to Unpack to ensure it handles malformed inputs without crashing.
+// ---
+
 #include <algorithm>
 #include <memory>
 

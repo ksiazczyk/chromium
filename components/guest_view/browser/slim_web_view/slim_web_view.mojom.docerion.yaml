@@ -1,0 +1,4 @@
+# Docerion header of slim_web_view.mojom.
+type: source
+title: SlimWebview Mojo interfaces
+summary: Defines the PageHandlerFactory, PageHandler and Page Mojo interfaces for guest creation, navigation, sizing, permissions, zoom and events.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Guest view common build targets (BUILD.gn)
+summary: Defines the guest_view_common static library and the guest_view Mojom bindings target for the GuestView component.

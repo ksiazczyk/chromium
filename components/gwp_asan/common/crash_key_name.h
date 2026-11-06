@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GWP-ASan crash key names
+// summary: Declares crash key string constants used to convey malloc, PartitionAlloc, and lightweight detector allocator state addresses to the crash handler.
+// ---
+
 #ifndef COMPONENTS_GWP_ASAN_COMMON_CRASH_KEY_NAME_H_
 #define COMPONENTS_GWP_ASAN_COMMON_CRASH_KEY_NAME_H_
 

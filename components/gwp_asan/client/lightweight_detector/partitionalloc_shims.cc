@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartitionAlloc quarantine hook installation
+// summary: Installs a PartitionAlloc quarantine override hook that records and zaps freed allocations via the poison metadata recorder.
+// ---
+
 #include "components/gwp_asan/client/lightweight_detector/partitionalloc_shims.h"
 
 #include "components/gwp_asan/client/lightweight_detector/poison_metadata_recorder.h"

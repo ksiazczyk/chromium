@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SlimWebView URL loader factory interceptor header
+// summary: Declares MaybeInterceptURLLoaderFactoryForSlimWebView, which inserts a proxy URLLoaderFactory to block disallowed origins and inject additional request headers for SlimWebView guests.
+// ---
+
 #ifndef COMPONENTS_GUEST_VIEW_BROWSER_SLIM_WEB_VIEW_SLIM_WEB_VIEW_URL_LOADER_FACTORY_INTERCEPTOR_H_
 #define COMPONENTS_GUEST_VIEW_BROWSER_SLIM_WEB_VIEW_SLIM_WEB_VIEW_URL_LOADER_FACTORY_INTERCEPTOR_H_
 

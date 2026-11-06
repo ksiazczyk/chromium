@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extreme lightweight detector quarantine unit tests
+// summary: Unit tests for the extreme lightweight detector quarantine, exercising branch configuration, quarantine behavior and statistics against a PartitionAlloc test allocator.
+// ---
+
 #include "components/gwp_asan/client/extreme_lightweight_detector_quarantine.h"
 
 #include "partition_alloc/buildflags.h"

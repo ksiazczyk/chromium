@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sampling helpers interface
+// summary: Declares helpers for creating guarded allocator out-of-memory callbacks and reporting GWP-ASan activation and process type strings for UMA histograms.
+// ---
+
 #ifndef COMPONENTS_GWP_ASAN_CLIENT_SAMPLING_HELPERS_H_
 #define COMPONENTS_GWP_ASAN_CLIENT_SAMPLING_HELPERS_H_
 

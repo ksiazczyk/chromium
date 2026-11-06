@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crashpad user stream data source implementation
+// summary: Implements the Crashpad UserStreamDataSource that analyzes crashes and attaches a serialized GWP-ASan protobuf stream to the minidump.
+// ---
+
 #include "components/gwp_asan/crash_handler/crash_handler.h"
 
 #include <stddef.h>

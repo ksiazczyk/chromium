@@ -1,3 +1,13 @@
+---
+type: readme
+title: SlimWebview
+summary: Explains how to enable and use SlimWebview, a minimal non-extensions webview implementation for Chrome WebUIs on Android, in C++ and frontend code.
+relations:
+  - references /chrome/browser/glic/host/glic_ui.cc
+  - references /chrome/browser/glic/host/glic_ui.h
+  - references /chrome/browser/chrome_browser_interface_binders_webui_parts_features.cc
+---
+
 # SlimWebview
 
 `SlimWebview` is a minimal, non-extensions-based implementation of `<webview>`

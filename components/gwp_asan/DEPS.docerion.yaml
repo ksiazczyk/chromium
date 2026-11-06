@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Directory include rules for gwp_asan
+summary: Declares the allowed include path for BoringSSL headers used by code in this directory.

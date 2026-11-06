@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the GWP-ASan crash analyzer
+// summary: Tests CrashAnalyzer exception analysis across malloc, PartitionAlloc, and lightweight detector scenarios using Crashpad test snapshots.
+// ---
+
 #include "components/gwp_asan/crash_handler/crash_analyzer.h"
 
 #include <cstdint>

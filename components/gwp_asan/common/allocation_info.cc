@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AllocationInfo stack trace collection
+// summary: Implements AllocationInfo::GetStackTrace, collecting allocation stack traces via frame pointers on Android or the generic base stack trace collector elsewhere.
+// ---
+
 #include "components/gwp_asan/common/allocation_info.h"
 
 #include "base/debug/stack_trace.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Poison metadata recorder class declarations
+// summary: Declares the PoisonMetadataRecorder singleton that poisons allocations, stores slot metadata, and exposes crash keys and internal memory regions.
+// ---
+
 #ifndef COMPONENTS_GWP_ASAN_CLIENT_LIGHTWEIGHT_DETECTOR_POISON_METADATA_RECORDER_H_
 #define COMPONENTS_GWP_ASAN_CLIENT_LIGHTWEIGHT_DETECTOR_POISON_METADATA_RECORDER_H_
 

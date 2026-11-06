@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest OS engagement preference declarations
+// summary: Declares the engagement preference name constants and the RegisterEngagementProfilePrefs function used by GuestOsEngagementMetrics.
+// ---
+
 #ifndef COMPONENTS_GUEST_OS_GUEST_OS_PREFS_H_
 #define COMPONENTS_GUEST_OS_GUEST_OS_PREFS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Guest view browser include rules
+summary: Defines the allowed include dependencies for the guest view browser directory, with extra test-only allowances for test files.

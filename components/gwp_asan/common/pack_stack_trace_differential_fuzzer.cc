@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Differential fuzzer for stack trace packing
+// summary: Fuzz target checking that Unpack reproduces exactly the input given to Pack, trapping on any mismatch or overflow.
+// ---
+
 #include <string.h>
 
 #include <algorithm>

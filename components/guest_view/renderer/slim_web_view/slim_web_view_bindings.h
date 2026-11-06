@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SlimWebViewBindings class header
+// summary: Declares the SlimWebViewBindings class with a MaybeInstall method that installs SlimWebView bindings into a render frame.
+// ---
+
 #ifndef COMPONENTS_GUEST_VIEW_RENDERER_SLIM_WEB_VIEW_SLIM_WEB_VIEW_BINDINGS_H_
 #define COMPONENTS_GUEST_VIEW_RENDERER_SLIM_WEB_VIEW_SLIM_WEB_VIEW_BINDINGS_H_
 

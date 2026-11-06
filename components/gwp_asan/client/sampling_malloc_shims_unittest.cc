@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sampling malloc shims unit tests
+// summary: Multiprocess tests verifying that sampled malloc allocations are served by the guarded page allocator and respect sampling size restrictions.
+// ---
+
 #include "components/gwp_asan/client/sampling_malloc_shims.h"
 
 #include <stdlib.h>

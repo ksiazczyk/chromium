@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GuestViewMessageHandler class declaration
+// summary: Declares the mojom::GuestViewHost handler that routes renderer guest view requests to the GuestViewManager for its BrowserContext.
+// ---
+
 #ifndef COMPONENTS_GUEST_VIEW_BROWSER_GUEST_VIEW_MESSAGE_HANDLER_H_
 #define COMPONENTS_GUEST_VIEW_BROWSER_GUEST_VIEW_MESSAGE_HANDLER_H_
 

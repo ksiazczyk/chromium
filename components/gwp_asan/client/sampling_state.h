@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sampling state and smart sampling for GWP-ASan shims
+// summary: Defines templated classes that track per-thread sampling counters and decide which allocations to sample, with smart sampling via a decaying Bloom filter.
+// ---
+
 #ifndef COMPONENTS_GWP_ASAN_CLIENT_SAMPLING_STATE_H_
 #define COMPONENTS_GWP_ASAN_CLIENT_SAMPLING_STATE_H_
 

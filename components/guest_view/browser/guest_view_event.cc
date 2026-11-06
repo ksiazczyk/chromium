@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GuestViewEvent dispatch implementation
+// summary: Implements dispatching of queued guest view events to the guest's embedder through the guest view manager.
+// ---
+
 #include "components/guest_view/browser/guest_view_event.h"
 
 #include <utility>

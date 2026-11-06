@@ -5,6 +5,12 @@
 // Serialization format for GWP ASan crashdata, written to the minidump using
 // stream ID 0x4B6B0004.
 
+// ---docerion
+// type: source
+// title: Protobuf schema for GWP-ASan crash data
+// summary: Defines the proto2 Crash message serializing GWP-ASan crash details such as error type, allocator, mode, and allocation info into the minidump.
+// ---
+
 syntax = "proto2";
 
 package gwp_asan;

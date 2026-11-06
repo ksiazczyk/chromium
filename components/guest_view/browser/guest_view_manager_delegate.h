@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GuestViewManagerDelegate interface
+// summary: Declares the delegate interface letting GuestViewManager delegate permission checks, event dispatch, and guest type registration to build-specific modules.
+// ---
+
 #ifndef COMPONENTS_GUEST_VIEW_BROWSER_GUEST_VIEW_MANAGER_DELEGATE_H_
 #define COMPONENTS_GUEST_VIEW_BROWSER_GUEST_VIEW_MANAGER_DELEGATE_H_
 

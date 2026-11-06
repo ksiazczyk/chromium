@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GWP-ASan buildflag header build definition
+summary: Defines the GN buildflag_header target that generates buildflags.h with GWP-ASan enablement flags for malloc and PartitionAlloc.

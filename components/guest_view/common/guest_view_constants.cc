@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest view constants definitions
+// summary: Defines shared string and integer constants for WebView sizing attributes, resize events, event parameters, and default sizes.
+// ---
+
 #include "components/guest_view/common/guest_view_constants.h"
 
 namespace guest_view {

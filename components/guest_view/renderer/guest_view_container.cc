@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GuestViewContainer implementation
+// summary: Implements the renderer-side guest view container, tracking element instances, queueing attach requests and running destruction callbacks.
+// ---
+
 #include "components/guest_view/renderer/guest_view_container.h"
 
 #include <memory>

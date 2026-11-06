@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sampling state unit tests
+// summary: Unit tests covering smart sampling behavior such as suppression of repeated allocation types, decay, configurable rate multipliers, and size restrictions.
+// ---
+
 #include "components/gwp_asan/client/sampling_state.h"
 
 #include <cstddef>

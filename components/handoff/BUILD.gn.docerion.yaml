@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Handoff component build definition
+summary: Defines the GN source set for the Handoff feature, listing Apple and iOS sources and their dependencies.

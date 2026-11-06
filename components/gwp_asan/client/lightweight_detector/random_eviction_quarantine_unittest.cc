@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Random eviction quarantine unit tests
+// summary: Unit tests for the random eviction quarantine using a mocked subclass, covering rejected sizes, single-allocation quarantine, slot reuse, and trimming behavior.
+// ---
+
 #include "components/gwp_asan/client/lightweight_detector/random_eviction_quarantine.h"
 
 #include <type_traits>

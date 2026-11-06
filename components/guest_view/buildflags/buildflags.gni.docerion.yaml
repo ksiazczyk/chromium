@@ -1,0 +1,4 @@
+# Docerion header of buildflags.gni.
+type: config
+title: Guest view build argument declaration
+summary: Declares the enable_guest_view build argument that controls whether guest_view is compiled, defaulting to enabled except on iOS and CastOS.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SlimWebview guest implementation
+// summary: Implements the SlimWebView guest, including parsing of creation parameters such as storage partition, beforeSendHeaders and origin check options.
+// ---
+
 #include "components/guest_view/browser/slim_web_view/slim_web_view_guest.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GuestViewManager implementation
+// summary: Implements the per-BrowserContext manager that creates, tracks, and cleans up guest views and enforces embedder access checks.
+// ---
+
 #include "components/guest_view/browser/guest_view_manager.h"
 
 #include <tuple>

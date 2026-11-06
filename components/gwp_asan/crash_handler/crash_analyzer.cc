@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GWP-ASan crash analyzer implementation
+// summary: Implements CrashAnalyzer, which inspects a Crashpad process snapshot to determine whether a crash was caused by GWP-ASan and fills the crash proto.
+// ---
+
 #include "components/gwp_asan/crash_handler/crash_analyzer.h"
 
 #include <stddef.h>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for gwp_asan tests and tools
+summary: Defines the gwp_asan_unittests test target and the dump_gwp_asan minidump-dump tool with platform-specific dependencies for Android, iOS, and desktop builds.

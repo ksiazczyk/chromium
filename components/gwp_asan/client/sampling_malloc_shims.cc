@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sampling malloc shims implementation
+// summary: Implements allocator shim dispatch functions that route sampled malloc, calloc, and related allocations to the guarded page allocator with crash key setup.
+// ---
+
 #include "components/gwp_asan/client/sampling_malloc_shims.h"
 
 #include <algorithm>

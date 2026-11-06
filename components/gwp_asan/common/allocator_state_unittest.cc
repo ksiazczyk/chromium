@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AllocatorState unit tests
+// summary: Unit tests that verify AllocatorState validation accepts well-formed states and rejects invalid metadata counts, page counts, page sizes, and addresses.
+// ---
+
 #include "components/gwp_asan/common/allocator_state.h"
 
 #include <limits>

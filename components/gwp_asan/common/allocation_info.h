@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AllocationInfo struct header
+// summary: Declares the AllocationInfo struct that stores thread id, trace length, and trace collection status for allocations and deallocations.
+// ---
+
 #ifndef COMPONENTS_GWP_ASAN_COMMON_ALLOCATION_INFO_H_
 #define COMPONENTS_GWP_ASAN_COMMON_ALLOCATION_INFO_H_
 

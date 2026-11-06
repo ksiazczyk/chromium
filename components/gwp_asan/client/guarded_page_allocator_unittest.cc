@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Guarded page allocator unit tests
+// summary: Unit and death tests covering allocation, alignment, pointer ownership, invalid deallocation and OOM behavior of the guarded page allocator.
+// ---
+
 #include "components/gwp_asan/client/guarded_page_allocator.h"
 
 #include <algorithm>

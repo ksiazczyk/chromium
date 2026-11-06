@@ -1,0 +1,4 @@
+# Docerion header of slim_web_view_strings.grd.
+type: config
+title: Slim web view strings GRIT resource definition
+summary: GRIT resource definition that generates localized slim web view label strings, used to identify the slim web view type in Chrome UI such as the task manager, as per-language .pak outputs.

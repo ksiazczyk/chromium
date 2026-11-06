@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: SlimWebview directory owners
+summary: Lists the code owners for the directory and routes Mojom file reviews to the IPC security owners without parent approval.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GuestViewEvent wrapper class
+// summary: Declares a wrapper class holding guest view event names and arguments until the guest is attached to a container.
+// ---
+
 #ifndef COMPONENTS_GUEST_VIEW_BROWSER_GUEST_VIEW_EVENT_H_
 #define COMPONENTS_GUEST_VIEW_BROWSER_GUEST_VIEW_EVENT_H_
 

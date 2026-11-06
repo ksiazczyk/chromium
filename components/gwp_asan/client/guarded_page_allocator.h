@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guarded page allocator class declaration
+// summary: Declares the GuardedPageAllocator class API for initializing, allocating, deallocating and querying page-guarded memory with crash-key and OOM callback support.
+// ---
+
 #ifndef COMPONENTS_GWP_ASAN_CLIENT_GUARDED_PAGE_ALLOCATOR_H_
 #define COMPONENTS_GWP_ASAN_CLIENT_GUARDED_PAGE_ALLOCATOR_H_
 

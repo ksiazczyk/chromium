@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multiprocess tests for the malloc shims
+// summary: Multiprocess unit test verifying that hooked free functions record deallocation metadata for a sampled allocation.
+// ---
+
 #include "base/logging.h"
 #include "base/memory/raw_ptr.h"
 #include "base/test/multiprocess_test.h"

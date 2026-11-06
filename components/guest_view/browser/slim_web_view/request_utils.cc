@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Request resource type utilities
+// summary: Implements parsing of request resource type names and mapping of network requests to SlimWebview resource types for header and origin checks.
+// ---
+
 #include "components/guest_view/browser/slim_web_view/request_utils.h"
 
 #include "base/containers/fixed_flat_map.h"

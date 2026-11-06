@@ -4,6 +4,12 @@
 
 // Constants used for the WebView API.
 
+// ---docerion
+// type: source
+// title: Guest view constants declarations
+// summary: Declares the shared WebView API constants, including sizing attributes, event parameters, initialization values, and defaults.
+// ---
+
 #ifndef COMPONENTS_GUEST_VIEW_COMMON_GUEST_VIEW_CONSTANTS_H_
 #define COMPONENTS_GUEST_VIEW_COMMON_GUEST_VIEW_CONSTANTS_H_
 

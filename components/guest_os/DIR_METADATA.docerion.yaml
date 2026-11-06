@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Guest OS directory metadata
+summary: Points the directory's metadata to the shared Guest OS metadata file under chrome/browser/ash/guest_os.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GuestViewManagerFactory interface
+// summary: Declares an abstract factory for creating GuestViewManager instances so embedders and tests can supply custom managers.
+// ---
+
 #ifndef COMPONENTS_GUEST_VIEW_BROWSER_GUEST_VIEW_MANAGER_FACTORY_H_
 #define COMPONENTS_GUEST_VIEW_BROWSER_GUEST_VIEW_MANAGER_FACTORY_H_
 

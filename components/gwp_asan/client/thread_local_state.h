@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thread-local storage abstraction for GWP-ASan
+// summary: Provides a thread-local state helper that picks the optimal TLS implementation per platform, avoiding allocation recursion on macOS, Android, and component builds.
+// ---
+
 #ifndef COMPONENTS_GWP_ASAN_CLIENT_THREAD_LOCAL_STATE_H_
 #define COMPONENTS_GWP_ASAN_CLIENT_THREAD_LOCAL_STATE_H_
 

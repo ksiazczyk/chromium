@@ -1,0 +1,4 @@
+# Docerion header of slim_web_view_strings_id.xtb.
+type: data
+title: Slim web view strings (Indonesian)
+summary: Indonesian XTB translation bundle providing the localized slim web view tag name string for Chromium's guest view component.

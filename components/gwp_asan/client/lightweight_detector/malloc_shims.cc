@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Malloc shims for the lightweight detector
+// summary: Installs allocator shim hooks that sample freed allocations and route them into the random eviction quarantine for the lightweight detector.
+// ---
+
 #include "components/gwp_asan/client/lightweight_detector/malloc_shims.h"
 
 #include <limits>

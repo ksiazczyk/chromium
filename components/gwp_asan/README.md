@@ -1,3 +1,11 @@
+---
+type: readme
+title: GWP-ASan overview
+summary: Explains that GWP-ASan is a sampling debug allocator that detects heap memory errors in the wild and enriches crash minidumps with allocation context, linking to full documentation.
+relations:
+  - references /docs/gwp_asan.md
+---
+
 GWP-ASan is a sampling debug allocator, similar to ElectricFence or Page Heap,
 intended to detect heap memory errors in the wild. When memory errors with a
 GWP-ASan allocation occur, the process crashes and the crash handler detects

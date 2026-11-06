@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LightweightDetectorState class header
+// summary: Declares the Lightweight UAF Detector state, its modes, pseudo-address metadata ID encoding, and per-slot allocation metadata structures.
+// ---
+
 #ifndef COMPONENTS_GWP_ASAN_COMMON_LIGHTWEIGHT_DETECTOR_STATE_H_
 #define COMPONENTS_GWP_ASAN_COMMON_LIGHTWEIGHT_DETECTOR_STATE_H_
 

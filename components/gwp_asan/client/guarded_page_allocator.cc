@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guarded page allocator implementation
+// summary: Core implementation of the guarded page allocator, including free-list management with random eviction and PartitionAlloc slot tracking for page-guarded allocations.
+// ---
+
 #include "components/gwp_asan/client/guarded_page_allocator.h"
 
 #include <algorithm>

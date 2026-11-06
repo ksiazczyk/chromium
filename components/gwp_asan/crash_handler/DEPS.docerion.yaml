@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the crash handler directory
+summary: Grants the crash handler directory include access to components/crash/core/app and third_party/crashpad.

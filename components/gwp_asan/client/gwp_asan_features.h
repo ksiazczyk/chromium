@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GWP-ASan feature flags and parameters declaration
+// summary: Declares base::Feature flags and per-process feature parameters controlling GWP-ASan malloc, PartitionAlloc, and extreme lightweight UAF detector sampling and reservation settings.
+// ---
+
 #ifndef COMPONENTS_GWP_ASAN_CLIENT_GWP_ASAN_FEATURES_H_
 #define COMPONENTS_GWP_ASAN_CLIENT_GWP_ASAN_FEATURES_H_
 

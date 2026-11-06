@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock-free decaying counting Bloom filter
+// summary: Declares DecayingBloomFilter, a lock-free counting Bloom filter that evicts keys after a fixed number of Add() calls via a ring buffer, for GWP-ASan internal use.
+// ---
+
 #ifndef COMPONENTS_GWP_ASAN_CLIENT_DECAYING_BLOOM_FILTER_H_
 #define COMPONENTS_GWP_ASAN_CLIENT_DECAYING_BLOOM_FILTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multiprocess unit tests for the GWP-ASan crash handler
+// summary: Runs multiprocess tests that launch a Crashpad handler and a crashing child process to verify GWP-ASan crash data appears in the resulting minidump.
+// ---
+
 #include "components/gwp_asan/crash_handler/crash_handler.h"
 
 #include <array>

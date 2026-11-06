@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Poison metadata recorder implementation
+// summary: Implements recording of deallocation stack traces and poisoning of freed memory so the crash handler can recover allocation metadata.
+// ---
+
 #include "components/gwp_asan/client/lightweight_detector/poison_metadata_recorder.h"
 
 #include <algorithm>

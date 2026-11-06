@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestGuestViewManager test support header
+// summary: Declares a GuestViewManager subclass with wait helpers and counters that tests use to observe guest view creation, attachment, deletion, and garbage collection in Chromium.
+// ---
+
 #ifndef COMPONENTS_GUEST_VIEW_BROWSER_TEST_GUEST_VIEW_MANAGER_H_
 #define COMPONENTS_GUEST_VIEW_BROWSER_TEST_GUEST_VIEW_MANAGER_H_
 

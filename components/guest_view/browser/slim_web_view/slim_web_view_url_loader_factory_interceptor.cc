@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SlimWebView URL loader factory interceptor implementation
+// summary: Implements a proxy URLLoaderFactory and TrustedHeaderClient for SlimWebView guests that blocks requests outside allowed origins and injects extra headers before sending.
+// ---
+
 #include "components/guest_view/browser/slim_web_view/slim_web_view_url_loader_factory_interceptor.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SlimWebView permission helper unit tests
+// summary: Unit tests for SlimWebViewPermissionHelper covering permission request events and responses using a test guest view manager and a mock permission controller.
+// ---
+
 #include "components/guest_view/browser/slim_web_view/slim_web_view_permission_helper.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS Handoff preference name
+// summary: Defines the preference name constant controlling whether Chrome hands off the current URL to other Apple devices.
+// ---
+
 #ifndef COMPONENTS_HANDOFF_PREF_NAMES_IOS_H_
 #define COMPONENTS_HANDOFF_PREF_NAMES_IOS_H_
 

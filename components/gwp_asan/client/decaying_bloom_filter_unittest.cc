@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the decaying Bloom filter
+// summary: Tests add, containment, eviction after decay steps, shared counter reference counting and AddIfNotContained behavior of DecayingBloomFilter.
+// ---
+
 #include "components/gwp_asan/client/decaying_bloom_filter.h"
 
 #include <stddef.h>

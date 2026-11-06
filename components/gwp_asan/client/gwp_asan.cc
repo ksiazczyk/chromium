@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GWP-ASan client implementation
+// summary: Implements enabling GWP-ASan and lightweight detectors per process, with per-platform default reservation, sampling and feature parameters.
+// ---
+
 #include "components/gwp_asan/client/gwp_asan.h"
 
 #include <algorithm>

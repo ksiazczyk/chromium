@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SlimWebViewGuest class declaration
+// summary: Declares SlimWebViewGuest, a minimal GuestView for embedding web content in Chrome on Android without the extensions infrastructure, with navigation, zoom, user agent override and URL allowlist checks.
+// ---
+
 #ifndef COMPONENTS_GUEST_VIEW_BROWSER_SLIM_WEB_VIEW_SLIM_WEB_VIEW_GUEST_H_
 #define COMPONENTS_GUEST_VIEW_BROWSER_SLIM_WEB_VIEW_SLIM_WEB_VIEW_GUEST_H_
 

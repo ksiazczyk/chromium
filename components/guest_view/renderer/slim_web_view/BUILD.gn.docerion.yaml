@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build file for the slim_web_view static library
+summary: Defines the slim_web_view static library target, listing its binding sources and dependencies on base, content, blink, gin, V8 and Mojo.

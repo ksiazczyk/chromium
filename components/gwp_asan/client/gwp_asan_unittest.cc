@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GWP-ASan allocator settings unit tests
+// summary: Unit tests for GetAllocatorSettings, verifying process and allocation sampling probabilities, boosts, and parameter handling for enabling GWP-ASan hooking.
+// ---
+
 #include "components/gwp_asan/client/gwp_asan.h"
 
 #include <map>

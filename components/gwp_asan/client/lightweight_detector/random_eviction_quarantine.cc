@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Random eviction quarantine implementation
+// summary: Implements a bounded quarantine that randomly evicts freed allocations and periodically trims the total quarantined size.
+// ---
+
 #include "components/gwp_asan/client/lightweight_detector/random_eviction_quarantine.h"
 
 #include "base/check_is_test.h"

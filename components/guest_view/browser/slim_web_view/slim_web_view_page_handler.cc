@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SlimWebView page handler implementation
+// summary: Implements the mojom PageHandler for SlimWebView, handling guest creation, sizing, allowlist-checked navigation, permission responses, user agent override and zoom over Mojo.
+// ---
+
 #include "components/guest_view/browser/slim_web_view/slim_web_view_page_handler.h"
 
 #include <utility>

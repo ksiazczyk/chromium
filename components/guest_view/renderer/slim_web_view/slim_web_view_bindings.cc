@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SlimWebView renderer JavaScript bindings implementation
+// summary: Implements the SlimWebView JavaScript bindings in the renderer, tracking view instances in V8 and communicating with the guest view host over Mojo.
+// ---
+
 #include "components/guest_view/renderer/slim_web_view/slim_web_view_bindings.h"
 
 #include "base/no_destructor.h"

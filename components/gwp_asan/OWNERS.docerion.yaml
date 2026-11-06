@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners list for gwp_asan
+summary: Lists primary code owners for the directory plus secondary last-resort owners from the sanitizers build config.

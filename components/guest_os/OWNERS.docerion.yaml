@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Guest OS directory owners
+summary: Delegates code ownership for this directory to the OWNERS file of chrome/browser/ash/guest_os.

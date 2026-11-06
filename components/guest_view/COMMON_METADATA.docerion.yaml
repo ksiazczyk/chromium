@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Guest View common metadata
+summary: Defines the shared monorail component and Buganizer component ID used for issue tracking in the Guest View directory.

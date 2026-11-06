@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multiprocess tests for the PartitionAlloc shims
+// summary: Multiprocess unit test verifying that PartitionAlloc quarantine hooks record metadata for freed allocations.
+// ---
+
 #include "components/gwp_asan/client/lightweight_detector/partitionalloc_shims.h"
 
 #include "base/logging.h"

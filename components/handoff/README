@@ -1,3 +1,9 @@
+---
+type: readme
+title: Handoff feature overview
+summary: Explains that this directory contains code shared by Chrome on Mac and Chrome on iOS to support Apple Handoff.
+---
+
 Handoff is a feature introduced in iOS 8 and Mac OS X 10.10. It allows a user to
 continue tasks between Apple devices connected to the same iCloud account.
 

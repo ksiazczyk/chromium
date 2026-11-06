@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the GWP-ASan client directory
+summary: Restricts includes in this directory to Crashpad and crash key headers plus PartitionAlloc.

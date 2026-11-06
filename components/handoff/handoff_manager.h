@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HandoffManager interface declaration
+// summary: Declares the HandoffManager Objective-C interface that tracks the active URL and title for Handoff.
+// ---
+
 #ifndef COMPONENTS_HANDOFF_HANDOFF_MANAGER_H_
 #define COMPONENTS_HANDOFF_HANDOFF_MANAGER_H_
 

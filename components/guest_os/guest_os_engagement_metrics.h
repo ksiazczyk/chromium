@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest OS engagement metrics class declaration
+// summary: Declares the GuestOsEngagementMetrics class, which records daily engagement time based on window activation, session state, and screen idle events.
+// ---
+
 #ifndef COMPONENTS_GUEST_OS_GUEST_OS_ENGAGEMENT_METRICS_H_
 #define COMPONENTS_GUEST_OS_GUEST_OS_ENGAGEMENT_METRICS_H_
 

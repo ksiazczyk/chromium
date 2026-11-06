@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guarded page allocator POSIX implementation
+// summary: POSIX implementation of region mapping and page protection for the guarded page allocator using mmap, munmap and mprotect.
+// ---
+
 #include "components/gwp_asan/client/guarded_page_allocator.h"
 
 #include <sys/mman.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SlimWebView permission helper implementation
+// summary: Implements permission handling for SlimWebView guests, routing geolocation, media access and download requests to the embedder with pending request tracking and default-deny behavior.
+// ---
+
 #include "components/guest_view/browser/slim_web_view/slim_web_view_permission_helper.h"
 
 #include "base/task/single_thread_task_runner.h"

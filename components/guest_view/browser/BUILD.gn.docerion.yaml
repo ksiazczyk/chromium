@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Guest view browser build targets
+summary: GN build file defining the guest_view_browser static library, a test_support target, and unit test targets for the guest view browser component.

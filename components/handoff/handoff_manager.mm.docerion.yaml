@@ -1,0 +1,4 @@
+# Docerion header of handoff_manager.mm.
+type: source
+title: HandoffManager implementation
+summary: Implements HandoffManager, updating the NSUserActivity with the active URL and title for Handoff.

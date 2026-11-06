@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SlimWebView page handler factory declaration
+// summary: Declares SlimWebViewPageHandlerFactory, which binds the mojom PageHandlerFactory interface to a render frame host and creates page handlers.
+// ---
+
 #ifndef COMPONENTS_GUEST_VIEW_BROWSER_SLIM_WEB_VIEW_SLIM_WEB_VIEW_PAGE_HANDLER_FACTORY_H_
 #define COMPONENTS_GUEST_VIEW_BROWSER_SLIM_WEB_VIEW_SLIM_WEB_VIEW_PAGE_HANDLER_FACTORY_H_
 

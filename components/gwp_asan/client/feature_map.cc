@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GWP-ASan Android feature map
+// summary: JNI boilerplate that exposes the GWP-ASan malloc and PartitionAlloc feature flags to Java through a base::android::FeatureMap.
+// ---
+
 #include "base/android/feature_map.h"
 
 #include <jni.h>
