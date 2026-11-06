@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build file for the push notification service extension appex bundle
+summary: Defines the GN targets that build the push notification service extension appex, including Info.plist tweaking, entitlements compilation, and bundle identifier substitutions.

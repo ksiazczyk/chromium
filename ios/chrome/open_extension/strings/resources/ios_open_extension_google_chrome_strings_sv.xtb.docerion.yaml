@@ -1,0 +1,4 @@
+# Docerion header of ios_open_extension_google_chrome_strings_sv.xtb.
+type: data
+title: Swedish strings for iOS open extension
+summary: Swedish XTB translation bundle with localized strings for the iOS open-in-Chrome extension, covering the link-handling error, the Open in Chrome label, and OK.

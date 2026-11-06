@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Push notification service extension DEPS
+summary: Chromium dependency rules that disallow url includes within the push notification service extension directory.

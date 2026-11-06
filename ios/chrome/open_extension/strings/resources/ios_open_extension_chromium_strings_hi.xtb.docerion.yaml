@@ -1,0 +1,4 @@
+# Docerion header of ios_open_extension_chromium_strings_hi.xtb.
+type: data
+title: Hindi (hi) Chromium strings for the iOS open extension
+summary: Xtb translation bundle with Hindi strings for the iOS open extension, covering the link-processing error, the open-in-Chromium action and an OK button.

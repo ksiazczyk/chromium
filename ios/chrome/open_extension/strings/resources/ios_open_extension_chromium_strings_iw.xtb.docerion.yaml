@@ -1,0 +1,4 @@
+# Docerion header of ios_open_extension_chromium_strings_iw.xtb.
+type: data
+title: Chromium open extension strings in Hebrew
+summary: XML translation bundle with Hebrew strings for the iOS open extension, covering the link-handling error, open-in-Chromium action, and OK button.

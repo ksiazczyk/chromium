@@ -1,0 +1,4 @@
+# Docerion header of open_view_controller.mm.
+type: source
+title: Open view controller implementation
+summary: Implements the share extension view controller that loads shared URLs, logs outcomes to the app group, and opens them in Chrome or shows an error view.

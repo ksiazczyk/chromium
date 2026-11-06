@@ -1,0 +1,4 @@
+# Docerion header of ios_open_extension_chromium_strings_hu.xtb.
+type: data
+title: Chromium open extension strings in Hungarian
+summary: XML translation bundle with Hungarian strings for the iOS open extension, covering the link-handling error, open-in-Chromium action, and OK button.

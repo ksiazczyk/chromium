@@ -1,0 +1,4 @@
+# Docerion header of open_extension.appex.entitlements.
+type: config
+title: Open extension external app extension entitlements
+summary: Entitlements plist for the external open extension app extension, setting the application identifier and granting access to the Chrome and common app groups.

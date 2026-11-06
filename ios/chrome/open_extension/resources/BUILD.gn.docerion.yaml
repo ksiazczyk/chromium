@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Open extension resources build configuration
+summary: GN build file that bundles the extension's asset catalog icons and an empty placeholder image into the iOS Chrome open extension resources.

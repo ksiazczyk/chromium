@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for the open extension
+summary: Defines the source set, packed locale resources, and localized string generation targets for the iOS Open in Chrome extension.

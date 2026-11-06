@@ -1,0 +1,4 @@
+# Docerion header of ios_open_extension_chromium_strings.grd.
+type: data
+title: Chromium branding open extension strings resources
+summary: GRD resource file defining iOS open extension strings for the Chromium branding, listing translated .pak outputs for many locales.

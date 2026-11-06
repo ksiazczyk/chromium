@@ -1,0 +1,4 @@
+# Docerion header of ios_open_extension_chromium_strings_hr.xtb.
+type: data
+title: Croatian (hr) Chromium strings for the iOS open extension
+summary: Xtb translation bundle with Croatian strings for the iOS open extension, covering the link-processing error, the open-in-Chromium action and an OK button.

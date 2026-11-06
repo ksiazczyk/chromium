@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PushNotificationServiceExtension interface
+// summary: Declares the UNNotificationServiceExtension subclass that overrides didReceiveNotificationRequest to support content-rich notifications.
+// ---
+
 #ifndef IOS_CHROME_PUSH_NOTIFICATION_SERVICE_EXTENSION_PUSH_NOTIFICATION_SERVICE_EXTENSION_H_
 #define IOS_CHROME_PUSH_NOTIFICATION_SERVICE_EXTENSION_PUSH_NOTIFICATION_SERVICE_EXTENSION_H_
 

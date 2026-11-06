@@ -1,0 +1,4 @@
+# Docerion header of ios_open_extension_google_chrome_strings_mk.xtb.
+type: data
+title: Macedonian strings for the iOS open extension
+summary: XML translation bundle with Macedonian strings for the iOS open extension, covering the link-handling error, the open-in-Chrome action and an OK button.

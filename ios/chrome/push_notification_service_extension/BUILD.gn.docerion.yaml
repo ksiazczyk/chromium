@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Push notification service extension build rules
+summary: GN build file defining source sets for the iOS push notification service extension, its header, and implementation with dependency restrictions.
