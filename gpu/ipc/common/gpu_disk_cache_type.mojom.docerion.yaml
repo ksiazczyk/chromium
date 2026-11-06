@@ -1,0 +1,4 @@
+# Docerion header of gpu_disk_cache_type.mojom.
+type: source
+title: GPU disk cache type Mojom definitions
+summary: Defines the GpuDiskCacheType enum and typed and union GPU disk cache handle structs that mirror the C++ gpu::GpuDiskCacheType types for Mojo IPC.

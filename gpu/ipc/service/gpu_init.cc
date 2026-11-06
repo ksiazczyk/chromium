@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU process initialization implementation
+// summary: Implements GPU process startup, including graphics info collection, sandbox startup, and Vulkan and Dawn initialization.
+// ---
+
 #include "gpu/ipc/service/gpu_init.h"
 
 #include <cstdlib>

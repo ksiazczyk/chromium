@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared image capabilities mojom traits
+// summary: Mojo StructTraits header that serializes gpu::SharedImageCapabilities, including scanout, YCbCr and WebGPU support flags, between processes over IPC.
+// ---
+
 #ifndef GPU_IPC_COMMON_SHARED_IMAGE_CAPABILITIES_MOJOM_TRAITS_H_
 #define GPU_IPC_COMMON_SHARED_IMAGE_CAPABILITIES_MOJOM_TRAITS_H_
 

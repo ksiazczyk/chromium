@@ -1,0 +1,4 @@
+# Docerion header of gpu_control_list_format.txt.
+type: reference
+title: GPU control list JSON format specification
+summary: Documents the fields of a valid GPU control list JSON file, including entry conditions, version structures, and exceptions.

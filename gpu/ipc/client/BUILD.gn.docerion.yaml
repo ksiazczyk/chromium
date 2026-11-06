@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for the gpu IPC client component
+summary: Defines the client component build target, listing the GPU IPC client sources and their build dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of gpu_feature_info.mojom.
+type: source
+title: GPU feature info Mojom definitions
+summary: Defines the GpuFeatureStatus enum and GpuFeatureInfo struct carrying feature statuses, driver bug workarounds, and blocklist entries over IPC.

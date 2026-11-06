@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU surface lookup implementation
+// summary: Implements the GpuSurfaceLookup singleton and SurfaceRecord constructors that wrap Android Java surfaces and surface controls.
+// ---
+
 #include "gpu/ipc/common/gpu_surface_lookup.h"
 
 #include <jni.h>

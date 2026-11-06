@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuChannelHost implementation
+// summary: Implements the host side of the IPC channel between a client and the GPU process, including a builder for asynchronous initialization with GPU info.
+// ---
+
 #include "gpu/ipc/client/gpu_channel_host.h"
 
 #include <algorithm>

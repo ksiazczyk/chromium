@@ -1,0 +1,4 @@
+# Docerion header of destroy_reuse.textproto.
+type: data
+title: Destroy-reuse fuzzer seed for shared image mailbox UAF
+summary: Fuzzer seed that repeatedly references and destroys the same shared image mailbox to probe use-after-free and double-free behaviour in the shared image stub.

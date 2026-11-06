@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared GPU context signal and fence tests
+// summary: Shared test cases for sync token signaling and GPU fences, run with both in-process and out-of-process command buffers.
+// ---
+
 #ifndef GPU_IPC_CLIENT_GPU_CONTEXT_TESTS_H_
 #define GPU_IPC_CLIENT_GPU_CONTEXT_TESTS_H_
 

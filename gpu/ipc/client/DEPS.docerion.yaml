@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for gpu/ipc/client
+summary: Specifies allowed include dependencies for the directory, with per-file exceptions for tests and shared image format headers.

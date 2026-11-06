@@ -1,0 +1,4 @@
+# Docerion header of gpu_info_collector_ios.mm.
+type: source
+title: GPU info collector for iOS
+summary: iOS implementation of GPU info collection that fills GPUInfo from ANGLE system info and collects graphics info via the EGL display.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU info collector for Linux
+// summary: Linux implementation of GPU info collection, including Chromecast machine model handling and ANGLE-based system info gathering.
+// ---
+
 #include "base/trace_event/trace_event.h"
 #include "build/build_config.h"
 #include "build/chromecast_buildflags.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Raster command buffer stub implementation
+// summary: Implements the GPU-process raster command buffer stub, initializing a raster decoder with shared context state, memory tracking and sync point client state.
+// ---
+
 #include "gpu/ipc/service/raster_command_buffer_stub.h"
 
 #include <memory>

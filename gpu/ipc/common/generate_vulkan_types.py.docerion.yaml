@@ -1,0 +1,4 @@
+# Docerion header of generate_vulkan_types.py.
+type: script
+title: Vulkan types generator
+summary: Script that parses the Vulkan registry XML and generates mojom definitions for Vulkan structs, enums, and handles.

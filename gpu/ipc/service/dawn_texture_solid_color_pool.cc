@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dawn texture solid color pool implementation
+// summary: Implements a pool of shared D3D12 textures exposed to Dawn as shared texture memory for solid color surfaces used with DirectComposition on Windows.
+// ---
+
 #include "gpu/ipc/service/dawn_texture_solid_color_pool.h"
 
 #include <utility>

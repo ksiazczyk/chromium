@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuControlList implementation
+// summary: Implements GPU control list entry matching, version string parsing, and numerical and lexical comparison helpers.
+// ---
+
 #include "gpu/config/gpu_control_list.h"
 
 #include <algorithm>

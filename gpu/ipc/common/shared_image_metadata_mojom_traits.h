@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared image metadata mojom traits
+// summary: Mojo StructTraits header converting gpu::SharedImageMetadata to and from its mojom representation, validating array layers and fields on read.
+// ---
+
 #ifndef GPU_IPC_COMMON_SHARED_IMAGE_METADATA_MOJOM_TRAITS_H_
 #define GPU_IPC_COMMON_SHARED_IMAGE_METADATA_MOJOM_TRAITS_H_
 

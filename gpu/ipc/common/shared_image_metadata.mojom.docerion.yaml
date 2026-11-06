@@ -1,0 +1,4 @@
+# Docerion header of shared_image_metadata.mojom.
+type: source
+title: SharedImageMetadata mojom definition
+summary: Mojom struct describing a shared image's format, size, color space, surface origin, alpha type, usage flags and array layers for IPC transfer.

@@ -1,0 +1,4 @@
+# Docerion header of image_transport_surface_overlay_mac_unittest.mm.
+type: test
+title: Mac overlay image transport surface unit tests
+summary: Unit tests for ImageTransportSurfaceOverlayMacEGL using a mocked CALayerTreeCoordinator to verify frame commit behavior when handling or not handling user interaction.

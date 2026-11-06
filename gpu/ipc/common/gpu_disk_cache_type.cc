@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU disk cache type implementation
+// summary: Implements stream operators and helpers for GPU disk cache types and handles, including cache subdirectory names.
+// ---
+
 #include "gpu/ipc/common/gpu_disk_cache_type.h"
 
 #include <variant>

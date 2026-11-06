@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mojo struct traits unit tests
+// summary: Unit tests that round-trip GPU structs such as GPUInfo, Mailbox and SyncToken through Mojo to verify traits serialization.
+// ---
+
 #include <algorithm>
 #include <string>
 

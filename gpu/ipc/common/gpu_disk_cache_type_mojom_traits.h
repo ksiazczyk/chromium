@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU disk cache type Mojo traits header
+// summary: Declares EnumTraits, StructTraits, and UnionTraits mappings between the gpu::GpuDiskCacheType C++ types and their Mojom counterparts.
+// ---
+
 #ifndef GPU_IPC_COMMON_GPU_DISK_CACHE_TYPE_MOJOM_TRAITS_H_
 #define GPU_IPC_COMMON_GPU_DISK_CACHE_TYPE_MOJOM_TRAITS_H_
 

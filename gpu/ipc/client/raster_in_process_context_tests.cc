@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Raster in-process context tests
+// summary: Tests raster command behavior with shared images, including BeginRasterCHROMIUM restrictions, using an in-process raster context.
+// ---
+
 #include "gpu/ipc/raster_in_process_context.h"
 
 #include <memory>

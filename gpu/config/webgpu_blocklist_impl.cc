@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebGPU adapter blocklist implementation
+// summary: Determines why a WebGPU adapter is blocked, using vendor and device ID patterns plus platform-specific checks for Windows and Android.
+// ---
+
 #include "gpu/config/webgpu_blocklist_impl.h"
 
 #include <array>

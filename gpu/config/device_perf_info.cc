@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Global device performance info storage
+// summary: Implements thread-safe getter and setter for the browser-process global DevicePerfInfo instance.
+// ---
+
 #include "gpu/config/device_perf_info.h"
 
 #include "base/no_destructor.h"

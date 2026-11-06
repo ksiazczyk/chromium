@@ -1,0 +1,4 @@
+# Docerion header of gpu_driver_bug_list.json.
+type: data
+title: GPU driver bug list data
+summary: JSON list of entries matching GPU vendors, drivers and OS versions to workarounds such as disabling extensions or context handling.

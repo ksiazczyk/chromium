@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VulkanYCbCrInfo Mojo StructTraits header
+// summary: Serializes VulkanYCbCrInfo between C++ and Mojo and validates suggested YCbCr model, range, and chroma offset values.
+// ---
+
 #ifndef GPU_IPC_COMMON_VULKAN_YCBCR_INFO_MOJOM_TRAITS_H_
 #define GPU_IPC_COMMON_VULKAN_YCBCR_INFO_MOJOM_TRAITS_H_
 

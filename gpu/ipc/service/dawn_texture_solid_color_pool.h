@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dawn texture solid color pool
+// summary: Header for a solid color pool that renders 1x1 D3D12 textures via Dawn and wraps them in DirectComposition textures on Windows.
+// ---
+
 #ifndef GPU_IPC_SERVICE_DAWN_TEXTURE_SOLID_COLOR_POOL_H_
 #define GPU_IPC_SERVICE_DAWN_TEXTURE_SOLID_COLOR_POOL_H_
 

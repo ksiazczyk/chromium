@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for gpu/config
+summary: Lists the owners responsible for reviewing gpu/config changes, with WebGPU files owned separately.

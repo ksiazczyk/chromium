@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows GPU initialization helper declarations
+// summary: Declares Windows-specific GPU initialization helpers for DLL preloading, DirectComposition, overlay settings, EGL display management and the ANGLE debug layer.
+// ---
+
 #ifndef GPU_IPC_SERVICE_GPU_INIT_WIN_H_
 #define GPU_IPC_SERVICE_GPU_INIT_WIN_H_
 

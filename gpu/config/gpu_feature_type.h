@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU feature type enum
+// summary: Defines the GpuFeatureType enum listing blocklistable GPU features such as accelerated canvas, WebGL, video decode and encode, Vulkan, WebGPU, and WebNN.
+// ---
+
 #ifndef GPU_CONFIG_GPU_FEATURE_TYPE_H_
 #define GPU_CONFIG_GPU_FEATURE_TYPE_H_
 

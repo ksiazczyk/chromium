@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommandBufferStub base class declaration
+// summary: Declares CommandBufferStub, the base class for GLES2, Raster, and WebGPU command buffer backends living on the GPU service main thread.
+// ---
+
 #ifndef GPU_IPC_SERVICE_COMMAND_BUFFER_STUB_H_
 #define GPU_IPC_SERVICE_COMMAND_BUFFER_STUB_H_
 

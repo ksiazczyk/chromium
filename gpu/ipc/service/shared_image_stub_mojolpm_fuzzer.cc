@@ -26,6 +26,12 @@
 // the fuzzer naturally produces "destroy a backing then keep referencing the
 // same mailbox" interleavings, the IOSurface-backing UAF family.
 
+// ---docerion
+// type: test
+// title: SharedImageStub MojoLPM fuzzer harness
+// summary: MojoLPM fuzzer harness that feeds deserialized deferred shared image requests directly to SharedImageStub::ExecuteDeferredRequest to surface mailbox lifetime bugs.
+// ---
+
 #include <stdint.h>
 
 #include <memory>

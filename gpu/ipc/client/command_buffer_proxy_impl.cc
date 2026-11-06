@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommandBufferProxyImpl implementation
+// summary: Implements the client-side command buffer proxy, including a message filter that handles WebGPU GPU-to-client messages and forwards commands to the GPU process.
+// ---
+
 #include "gpu/ipc/client/command_buffer_proxy_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VulkanInfo Mojo StructTraits header
+// summary: Converts gpu::VulkanInfo and VulkanPhysicalDeviceInfo between native C++ and Mojo IPC representations.
+// ---
+
 #ifndef GPU_IPC_COMMON_VULKAN_INFO_MOJOM_TRAITS_H_
 #define GPU_IPC_COMMON_VULKAN_INFO_MOJOM_TRAITS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU test config implementation
+// summary: Implements GPUTestConfig and GPUTestBotConfig, including detection of the current OS and matching of test bot configurations.
+// ---
+
 #include "gpu/config/gpu_test_config.h"
 
 #include <stddef.h>

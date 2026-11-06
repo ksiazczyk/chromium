@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU perf test measurement declarations
+// summary: Declares the Measurement struct and MeasurementTimers class used to capture and report wall, CPU and GPU timing in GPU performance tests.
+// ---
+
 #ifndef GPU_PERFTESTS_MEASUREMENTS_H_
 #define GPU_PERFTESTS_MEASUREMENTS_H_
 

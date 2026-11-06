@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows DirectComposition texture class
+// summary: Declares DCOMPTexture, managing a DirectComposition surface handle, size, parent window tracking, and shared image mailbox for a GPU channel.
+// ---
+
 #ifndef GPU_IPC_SERVICE_DCOMP_TEXTURE_WIN_H_
 #define GPU_IPC_SERVICE_DCOMP_TEXTURE_WIN_H_
 

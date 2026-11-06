@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GPU driver bug list unit tests
+// summary: Unit tests verifying that the driver bug list matches GPU vendors and renderers and that command-line workarounds are applied correctly.
+// ---
+
 #include "gpu/config/gpu_driver_bug_list.h"
 
 #include <vector>

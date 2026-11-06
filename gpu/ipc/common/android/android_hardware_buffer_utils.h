@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Hardware Buffer utilities header
+// summary: Declares CreateScopedHardwareBufferHandle, which allocates an Android AHardwareBuffer for a given size, format, usage and layer count and returns a scoped handle.
+// ---
+
 #ifndef GPU_IPC_COMMON_ANDROID_ANDROID_HARDWARE_BUFFER_UTILS_H_
 #define GPU_IPC_COMMON_ANDROID_ANDROID_HARDWARE_BUFFER_UTILS_H_
 

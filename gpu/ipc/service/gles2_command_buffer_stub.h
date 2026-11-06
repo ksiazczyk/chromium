@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLES2 command buffer stub class
+// summary: Declares GLES2CommandBufferStub, a CommandBufferStub that sets up the GLES2 decoder and its shared context group.
+// ---
+
 #ifndef GPU_IPC_SERVICE_GLES2_COMMAND_BUFFER_STUB_H_
 #define GPU_IPC_SERVICE_GLES2_COMMAND_BUFFER_STUB_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for gpu/ipc/host
+summary: Defines the host source_set in the GPU IPC layer, listing the GPU disk cache and shader cache metrics sources together with their build dependencies.

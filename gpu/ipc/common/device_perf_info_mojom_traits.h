@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevicePerfInfo mojom traits
+// summary: Declares mojo type traits for serializing gpu::DevicePerfInfo, including Windows Direct3D feature level enums.
+// ---
+
 #ifndef GPU_IPC_COMMON_DEVICE_PERF_INFO_MOJOM_TRAITS_H_
 #define GPU_IPC_COMMON_DEVICE_PERF_INFO_MOJOM_TRAITS_H_
 

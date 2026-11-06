@@ -1,0 +1,4 @@
+# Docerion header of vulkan_info.mojom.
+type: source
+title: VulkanInfo Mojom IPC structs
+summary: Defines Mojo structs describing Vulkan API versions, extensions, layers, and physical device information for IPC.

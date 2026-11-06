@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebGPU in-process context implementation
+// summary: Implements WebGPUInProcessContext, which runs client and service WebGPU command buffer code in process with a test task runner.
+// ---
+
 #include "gpu/ipc/webgpu_in_process_context.h"
 
 #include <utility>

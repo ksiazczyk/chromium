@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuControlList class declaration
+// summary: Declares the GpuControlList class with OS, GL, version, and multi-GPU enums used to match GPU info against control list entries.
+// ---
+
 #ifndef GPU_CONFIG_GPU_CONTROL_LIST_H_
 #define GPU_CONFIG_GPU_CONTROL_LIST_H_
 

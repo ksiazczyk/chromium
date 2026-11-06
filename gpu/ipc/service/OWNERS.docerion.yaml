@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for gpu/ipc/service
+summary: Per-file owner rules assigning Mac-related files and the GPU watchdog thread files to specific reviewers.

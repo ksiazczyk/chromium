@@ -1,0 +1,4 @@
+# Docerion header of image_transport_surface_overlay_mac.mm.
+type: source
+title: Mac overlay image transport surface implementation
+summary: Implements the Mac and iOS overlay presenter, coordinating CALayer trees, Metal device lookup, vsync callbacks, AVFoundation overlays, and presentation feedback for frame swaps.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU disk cache interface
+// summary: Declares GpuDiskCache, the interface to the GPU process on-disk cache, with APIs for caching blobs, clearing entries, and querying size and availability.
+// ---
+
 #ifndef GPU_IPC_HOST_GPU_DISK_CACHE_H_
 #define GPU_IPC_HOST_GPU_DISK_CACHE_H_
 

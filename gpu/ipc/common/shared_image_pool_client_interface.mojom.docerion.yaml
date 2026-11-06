@@ -1,0 +1,4 @@
+# Docerion header of shared_image_pool_client_interface.mojom.
+type: source
+title: SharedImagePoolClientInterface mojom definition
+summary: Mojom interface letting the GPU process notify a client-side SharedImagePool to clear and purge its SharedImageBackings, for example on memory pressure.

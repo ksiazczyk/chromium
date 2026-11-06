@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video memory usage stats Mojo traits
+// summary: Serializes gpu::VideoMemoryUsageStats and per-process stats between processes via Mojo StructTraits, with platform-specific process ID handling.
+// ---
+
 #ifndef GPU_IPC_COMMON_MEMORY_STATS_MOJOM_TRAITS_H_
 #define GPU_IPC_COMMON_MEMORY_STATS_MOJOM_TRAITS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageTransportSurface factory interface
+// summary: Declares the ImageTransportSurface framework with static factory methods that create platform-specific presenters and native GL surfaces so the GPU process can display rendered results.
+// ---
+
 #ifndef GPU_IPC_SERVICE_IMAGE_TRANSPORT_SURFACE_H_
 #define GPU_IPC_SERVICE_IMAGE_TRANSPORT_SURFACE_H_
 

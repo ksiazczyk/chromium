@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock command buffer header
+// summary: Declares a gmock-based MockCommandBuffer implementing the mojom::CommandBuffer interface for tests.
+// ---
+
 #ifndef GPU_IPC_COMMON_MOCK_COMMAND_BUFFER_H_
 #define GPU_IPC_COMMON_MOCK_COMMAND_BUFFER_H_
 

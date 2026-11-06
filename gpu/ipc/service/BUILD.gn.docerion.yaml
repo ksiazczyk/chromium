@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the GPU IPC service component
+summary: GN build file defining the gpu_ipc_service component with its sources, dependencies, and platform-specific settings for Windows, Mac, iOS, Android, and Linux.

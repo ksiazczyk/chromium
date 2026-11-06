@@ -14,6 +14,12 @@
 // while a representation or secondary reference still aliases the same
 // mailbox).
 
+// ---docerion
+// type: test
+// title: SharedImageStub fuzzer protobuf grammar
+// summary: Defines the protobuf grammar for the shared image stub fuzzer, biased toward create, destroy and mailbox-reuse request sequences.
+// ---
+
 syntax = "proto2";
 
 package gpu.fuzzing.shared_image_stub.proto;

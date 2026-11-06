@@ -1,0 +1,4 @@
+# Docerion header of device_perf_info.mojom.
+type: source
+title: Device performance info Mojom definitions
+summary: Defines Mojom enums and a struct describing device performance info such as memory, disk space, and Direct3D feature levels.

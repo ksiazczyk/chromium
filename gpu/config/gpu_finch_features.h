@@ -5,6 +5,12 @@
 // This file defines all the public base::FeatureList features for the gpu
 // module.
 
+// ---docerion
+// type: source
+// title: GPU Finch features declarations
+// summary: Declares the public base::FeatureList features for the GPU module, including Skia Graphite features and the SkiaGraphiteFeatureParams struct.
+// ---
+
 #ifndef GPU_CONFIG_GPU_FINCH_FEATURES_H_
 #define GPU_CONFIG_GPU_FINCH_FEATURES_H_
 

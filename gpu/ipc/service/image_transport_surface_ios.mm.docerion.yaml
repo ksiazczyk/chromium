@@ -1,0 +1,4 @@
+# Docerion header of image_transport_surface_ios.mm.
+type: source
+title: iOS image transport surface factory
+summary: Implements ImageTransportSurface on iOS, creating the Mac EGL overlay presenter for EGL implementations and stub surfaces for mock GL.

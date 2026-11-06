@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLInProcessContext class declaration
+// summary: Declares GLInProcessContext, a wrapper exposing capabilities, the GLES2 implementation and shared image interface for an in-process GL context.
+// ---
+
 #ifndef GPU_IPC_GL_IN_PROCESS_CONTEXT_H_
 #define GPU_IPC_GL_IN_PROCESS_CONTEXT_H_
 

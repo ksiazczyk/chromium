@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU info enumeration implementation
+// summary: Implements GPUInfo enumerator helpers that serialize GPU device details and supported video decode and encode accelerator profiles.
+// ---
+
 #include "gpu/config/gpu_info.h"
 
 #include <stdint.h>

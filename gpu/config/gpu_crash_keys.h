@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU crash reporting key declarations
+// summary: Declares crash reporter keys that record GPU and NPU vendor, device, driver, shader, cache and watchdog details for GPU crash reports.
+// ---
+
 #ifndef GPU_CONFIG_GPU_CRASH_KEYS_H_
 #define GPU_CONFIG_GPU_CRASH_KEYS_H_
 

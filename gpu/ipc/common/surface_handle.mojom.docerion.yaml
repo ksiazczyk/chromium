@@ -1,0 +1,4 @@
+# Docerion header of surface_handle.mojom.
+type: source
+title: SurfaceHandle mojom definition
+summary: Mojom struct carrying a surface handle as a uint64 for IPC, mirroring gpu/ipc/common/surface_handle.h.

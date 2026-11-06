@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 utility declarations for the GPU service
+// summary: Provides X11-specific typedefs and forward declarations such as XID and GLXContext, active only on Linux builds with Ozone X11 support.
+// ---
+
 #ifndef GPU_IPC_SERVICE_X_UTIL_H_
 #define GPU_IPC_SERVICE_X_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU utility implementation
+// summary: Implements GPU feature info computation, blocklist and driver bug workaround application, and GL/Vulkan initialization helpers for Chromium's GPU process.
+// ---
+
 #include "gpu/config/gpu_util.h"
 
 #include <string_view>

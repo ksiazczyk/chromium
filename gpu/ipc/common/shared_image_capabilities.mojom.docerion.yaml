@@ -1,0 +1,4 @@
+# Docerion header of shared_image_capabilities.mojom.
+type: source
+title: SharedImageCapabilities mojom definition
+summary: Defines the gpu.mojom SharedImageCapabilities struct describing supported shared image features, with Windows-only fields.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BELayerHierarchyTransport interface for iOS XPC transport
+// summary: Declares the abstract BELayerHierarchyTransport interface that forwards an XPC-serialized BELayerHierarchy from the GPU process to the browser process for a given surface handle.
+// ---
+
 #ifndef GPU_IPC_COMMON_IOS_BE_LAYER_HIERARCHY_TRANSPORT_H_
 #define GPU_IPC_COMMON_IOS_BE_LAYER_HIERARCHY_TRANSPORT_H_
 

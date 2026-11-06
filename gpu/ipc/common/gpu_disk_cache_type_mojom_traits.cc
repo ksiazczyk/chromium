@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU disk cache type Mojo traits implementation
+// summary: Implements Mojo enum and union traits that convert gpu::GpuDiskCacheType and GpuDiskCacheHandle between C++ and Mojom representations.
+// ---
+
 #include "gpu/ipc/common/gpu_disk_cache_type_mojom_traits.h"
 
 #include <variant>

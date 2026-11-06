@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU channel manager class
+// summary: Declares GpuChannelManager, responsible for managing GPU channel lifetimes and forwarding IPC requests from the browser process by renderer ID.
+// ---
+
 #ifndef GPU_IPC_SERVICE_GPU_CHANNEL_MANAGER_H_
 #define GPU_IPC_SERVICE_GPU_CHANNEL_MANAGER_H_
 

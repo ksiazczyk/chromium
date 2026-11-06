@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Domain guilt enum for GPU resets
+// summary: Defines the DomainGuilt enum indicating whether a domain is known to be guilty of causing a GPU reset.
+// ---
+
 #ifndef GPU_CONFIG_GPU_DOMAIN_GUILT_H_
 #define GPU_CONFIG_GPU_DOMAIN_GUILT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared image stub implementation
+// summary: Implements the GPU-process endpoint that creates, updates, copies and destroys shared images to service deferred requests from renderers and the compositor.
+// ---
+
 #include "gpu/ipc/service/shared_image_stub.h"
 
 #include <inttypes.h>

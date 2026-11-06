@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU memory buffer handle info struct
+// summary: Defines a gpu::GpuMemoryBufferHandleInfo struct that pairs a GPU memory buffer handle with its buffer usage for IPC transfer.
+// ---
+
 #ifndef GPU_IPC_COMMON_GPU_MEMORY_BUFFER_HANDLE_INFO_H_
 #define GPU_IPC_COMMON_GPU_MEMORY_BUFFER_HANDLE_INFO_H_
 

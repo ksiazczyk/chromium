@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU watchdog thread implementation
+// summary: Implements the GPU watchdog thread that monitors GPU main and compositor threads, computes configurable timeouts and crashes or kills the GPU process on detected hangs.
+// ---
+
 #include "gpu/ipc/service/gpu_watchdog_thread.h"
 
 #include <memory>

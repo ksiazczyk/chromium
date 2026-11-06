@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners and security review rules for gpu IPC common
+summary: Lists code owners and requires IPC security owners to review mojom, message and traits changes to avoid introducing sandbox escapes.

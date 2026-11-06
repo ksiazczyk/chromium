@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DXGI helpers implementation
+// summary: Implements D3D11/DXGI helper functions for copying NV12 textures between shared memory and DXGI buffers using staging textures.
+// ---
+
 #include "gpu/ipc/common/dxgi_helpers.h"
 
 #include "base/check.h"

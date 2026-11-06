@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GpuChannelManager unit tests
+// summary: Unit tests for GpuChannelManager covering peak memory usage tracking and Android backgrounded channel handling.
+// ---
+
 #include "gpu/ipc/service/gpu_channel_manager.h"
 
 #include <limits.h>

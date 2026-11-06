@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shader cache disk size metrics interface
+// summary: Declares the shader cache disk size recorder and a Windows-only flag controlling whether the GPU.ShaderCache.DiskSize histograms are recorded.
+// ---
+
 #ifndef GPU_IPC_HOST_SHADER_CACHE_METRICS_H_
 #define GPU_IPC_HOST_SHADER_CACHE_METRICS_H_
 

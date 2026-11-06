@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuChannelSharedImageInterface implementation
+// summary: Implements an in-process shared image interface backed by a GPU channel, including Android video and Windows D3D11 video image creation.
+// ---
+
 #include "gpu/ipc/service/gpu_channel_shared_image_interface.h"
 
 #include "base/synchronization/waitable_event.h"

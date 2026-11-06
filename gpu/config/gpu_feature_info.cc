@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU feature info implementation
+// summary: Implements the GpuFeatureInfo class with feature status queries, applying disabled GL extensions to a GL context, and checking enabled driver bug workarounds.
+// ---
+
 #include "gpu/config/gpu_feature_info.h"
 
 #include <algorithm>

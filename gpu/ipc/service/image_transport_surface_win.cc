@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows image transport surface factory
+// summary: Implements ImageTransportSurface on Windows, creating DirectComposition presenters with workaround-driven settings or native EGL view surfaces with vsync providers.
+// ---
+
 #include "gpu/ipc/service/image_transport_surface.h"
 
 #include <memory>

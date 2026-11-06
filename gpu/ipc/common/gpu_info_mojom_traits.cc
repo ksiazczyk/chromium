@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU info Mojo traits implementation
+// summary: Implements Mojo traits converting gpu::GPUInfo and related device, video codec, and capability types between C++ and Mojom representations.
+// ---
+
 #include "gpu/ipc/common/gpu_info_mojom_traits.h"
 #include "build/build_config.h"
 

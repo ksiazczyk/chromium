@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedImageCapabilities Mojo traits
+// summary: Reads SharedImageCapabilities from Mojo into gpu::SharedImageCapabilities, including Windows-specific swap chain fields.
+// ---
+
 #include "gpu/ipc/common/shared_image_capabilities_mojom_traits.h"
 
 namespace mojo {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GPU info collector unit tests
+// summary: Parameterized unit tests that mock GL interfaces and operating systems to verify GPU info collection across Android, Linux, macOS, and Windows.
+// ---
+
 #include "gpu/config/gpu_info_collector.h"
 
 #include <stddef.h>

@@ -1,0 +1,4 @@
+# Docerion header of mailbox.mojom.
+type: source
+title: Mailbox IPC struct definition
+summary: Defines the gpu.mojom Mailbox struct, a 16-byte identifier corresponding to gpu/command_buffer/common/mailbox.h.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU perf test measurement implementation
+// summary: Implements the Measurement and MeasurementTimers classes that record wall, CPU and GPU time deltas and report them as perf test metrics in milliseconds.
+// ---
+
 #include "gpu/perftests/measurements.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Luid Mojo traits implementation
+// summary: Implements Mojo StructTraits that read the Luid IPC message into the native Windows CHROME_LUID type.
+// ---
+
 #include "gpu/ipc/common/luid_mojom_traits.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Main entry point for GPU performance tests
+// summary: Initializes the test suite, feature list and GL (with Ozone platform support when applicable), then launches the GPU perf tests serially to keep measurements undistorted.
+// ---
+
 #include "base/command_line.h"
 #include "base/feature_list.h"
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Deserialization traits for command buffer state
+// summary: Implements the mojo StructTraits Read function that deserializes mojom command buffer state into gpu::CommandBuffer::State.
+// ---
+
 #include "gpu/ipc/common/command_buffer_mojom_traits.h"
 
 #include "gpu/ipc/common/gpu_channel.mojom.h"

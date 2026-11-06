@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GPU test config unit tests
+// summary: Unit tests covering GPUTestConfig validity rules, GPU info handling and config matching behavior.
+// ---
+
 #include "gpu/config/gpu_info.h"
 #include "gpu/config/gpu_test_config.h"
 #include "testing/gtest/include/gtest/gtest.h"

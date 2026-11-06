@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DXGI helpers
+// summary: Declares scoped D3D11 texture unmap and keyed mutex release helpers plus functions to copy between shared memory and DXGI buffers.
+// ---
+
 #ifndef GPU_IPC_COMMON_DXGI_HELPERS_H_
 #define GPU_IPC_COMMON_DXGI_HELPERS_H_
 

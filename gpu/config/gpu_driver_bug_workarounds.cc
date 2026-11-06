@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU driver bug workarounds implementation
+// summary: Converts sets of enabled workaround IDs into GpuDriverBugWorkarounds flags and supports merging and lowering size limits.
+// ---
+
 #include "gpu/config/gpu_driver_bug_workarounds.h"
 
 #include <algorithm>

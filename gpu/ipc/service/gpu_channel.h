@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU channel class
+// summary: Declares GpuChannel, which encapsulates the IPC channel between the GPU process and one renderer process.
+// ---
+
 #ifndef GPU_IPC_SERVICE_GPU_CHANNEL_H_
 #define GPU_IPC_SERVICE_GPU_CHANNEL_H_
 

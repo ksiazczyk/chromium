@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Texture upload performance test
+// summary: Benchmarks GL texture uploads by generating pixel data, compiling shaders, uploading and drawing textures, and reporting wall, CPU and GPU timing metrics over repeated runs.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

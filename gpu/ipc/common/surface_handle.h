@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceHandle type definition
+// summary: Defines the gpu::SurfaceHandle native surface reference per platform, using AcceleratedWidget on desktop platforms and a tracker handle on Android and Fuchsia.
+// ---
+
 #ifndef GPU_IPC_COMMON_SURFACE_HANDLE_H_
 #define GPU_IPC_COMMON_SURFACE_HANDLE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of context_result.mojom.
+type: source
+title: Context result Mojom enum
+summary: Defines the Mojom ContextResult enum mirroring gpu::ContextResult with success, transient, fatal, and surface failure values.

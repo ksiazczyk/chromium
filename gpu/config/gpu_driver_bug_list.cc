@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU driver bug list implementation
+// summary: Implements GpuDriverBugList, mapping workaround types to names, applying command-line workarounds and validating entry indices.
+// ---
+
 #include "gpu/config/gpu_driver_bug_list.h"
 
 #include "base/check_op.h"

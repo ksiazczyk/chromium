@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test GPU thread holder header
+// summary: Declares GetTestGpuThreadHolder, a global InProcessGpuThreadHolder accessor whose preferences should be set during test suite initialization.
+// ---
+
 #ifndef GPU_IPC_TEST_GPU_THREAD_HOLDER_H_
 #define GPU_IPC_TEST_GPU_THREAD_HOLDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU watchdog timeout constants
+// summary: Defines platform-specific GPU watchdog timeout values plus factors for restart after power suspension and software rendering slowdowns.
+// ---
+
 #ifndef GPU_IPC_COMMON_GPU_WATCHDOG_TIMEOUT_H_
 #define GPU_IPC_COMMON_GPU_WATCHDOG_TIMEOUT_H_
 

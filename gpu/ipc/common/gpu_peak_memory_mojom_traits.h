@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU peak memory Mojom enum traits
+// summary: Specializes Mojo EnumTraits to convert GpuPeakMemoryAllocationSource between native gpu and gpu.mojom types for IPC serialization.
+// ---
+
 #ifndef GPU_IPC_COMMON_GPU_PEAK_MEMORY_MOJOM_TRAITS_H_
 #define GPU_IPC_COMMON_GPU_PEAK_MEMORY_MOJOM_TRAITS_H_
 

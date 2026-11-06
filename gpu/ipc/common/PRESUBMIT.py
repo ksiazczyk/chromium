@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for Vulkan types generation
+# summary: Presubmit script that verifies generated Vulkan type files match the output of generate_vulkan_types.py on upload and commit.
+# ---
+
 """Enforces Vulkan types autogen matches script output.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

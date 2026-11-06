@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU crash key definitions
+// summary: Defines crash reporter keys capturing GPU vendor, device, driver, shader, cache, and watchdog details for crash reports.
+// ---
+
 #include "gpu/config/gpu_crash_keys.h"
 
 #include "build/build_config.h"

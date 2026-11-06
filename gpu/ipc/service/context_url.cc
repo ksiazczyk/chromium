@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context URL crash key implementation
+// summary: Implements setting the active context URL as crash keys so GPU process crashes can be attributed back to the originating context.
+// ---
+
 #include "gpu/ipc/service/context_url.h"
 
 #include <utility>

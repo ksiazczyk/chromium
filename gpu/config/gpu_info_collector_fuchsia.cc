@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU info collector for Fuchsia
+// summary: Fuchsia implementation of GPU info collection that fills GPUInfo from ANGLE system info and collects GL graphics info.
+// ---
+
 #include "gpu/config/gpu_info_collector.h"
 
 #include "base/trace_event/trace_event.h"

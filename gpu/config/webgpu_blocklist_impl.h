@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebGPU adapter blocklist header
+// summary: Declares the WebGPU blocklist reason bitmask and functions to check whether a Dawn adapter or adapter info is blocklisted.
+// ---
+
 #ifndef GPU_CONFIG_WEBGPU_BLOCKLIST_IMPL_H_
 #define GPU_CONFIG_WEBGPU_BLOCKLIST_IMPL_H_
 

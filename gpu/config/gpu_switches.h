@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU command-line switch declarations
+// summary: Declares the exported GPU-related command-line switch constants shared across the GPU and browser code.
+// ---
+
 #ifndef GPU_CONFIG_GPU_SWITCHES_H_
 #define GPU_CONFIG_GPU_SWITCHES_H_
 

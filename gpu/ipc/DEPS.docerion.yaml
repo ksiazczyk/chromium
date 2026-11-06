@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for gpu/ipc
+summary: Allowlists specific headers from cc/base and components/viz that code in the gpu/ipc directory may include.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU utility header
+// summary: Declares functions to compute GPU feature info, handle fallback context types, cache GPU info, and initialize GL thread-safely on Android.
+// ---
+
 #ifndef GPU_CONFIG_GPU_UTIL_H_
 #define GPU_CONFIG_GPU_UTIL_H_
 

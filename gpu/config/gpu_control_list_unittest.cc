@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GPU control list unit tests
+// summary: Parametrized unit tests for GpuControlList decisions, active entries, and needs-more-info behavior using the testing entries.
+// ---
+
 #include <stdint.h>
 
 #include <memory>

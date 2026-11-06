@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebGPU command buffer stub implementation
+// summary: Implements the GPU-process WebGPU command buffer stub, creating a WebGPU decoder with Dawn caching and shared context state.
+// ---
+
 #include "gpu/ipc/service/webgpu_command_buffer_stub.h"
 
 #include <memory>

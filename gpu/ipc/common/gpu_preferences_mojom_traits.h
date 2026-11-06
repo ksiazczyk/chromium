@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU preferences Mojom enum traits
+// summary: Specializes Mojo EnumTraits converting GPU preferences enums such as GrContextType, VulkanImplementationName, and WebGPUAdapterName between native and Mojom types.
+// ---
+
 #ifndef GPU_IPC_COMMON_GPU_PREFERENCES_MOJOM_TRAITS_H_
 #define GPU_IPC_COMMON_GPU_PREFERENCES_MOJOM_TRAITS_H_
 

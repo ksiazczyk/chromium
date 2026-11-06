@@ -1,0 +1,4 @@
+# Docerion header of gpu_info.mojom.
+type: source
+title: GPU info Mojom definitions
+summary: Defines Mojom structs and enums mirroring gpu::GPUInfo, including GPU devices, Skia backend types, video codec profiles, and accelerator capabilities.

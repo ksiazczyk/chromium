@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU channel manager implementation
+// summary: Implements GpuChannelManager, which owns GPU channels, shader and program caches, and shared context state for the GPU process.
+// ---
+
 #include "gpu/ipc/service/gpu_channel_manager.h"
 
 #include <algorithm>

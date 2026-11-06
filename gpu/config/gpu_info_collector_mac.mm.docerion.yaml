@@ -1,0 +1,4 @@
+# Docerion header of gpu_info_collector_mac.mm.
+type: source
+title: GPU info collector for macOS
+summary: macOS implementation that collects GPU info via ANGLE, records Metal capability histograms, and classifies GPUs by power preference.

@@ -1,0 +1,4 @@
+# Docerion header of gpu_channel.mojom.
+type: source
+title: GpuChannel mojom interface
+summary: Defines the main GPU process connection control interface, including command buffer creation parameters and channel management methods.

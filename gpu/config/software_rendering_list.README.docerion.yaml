@@ -1,0 +1,4 @@
+# Docerion header of software_rendering_list.README.
+type: readme
+title: Software rendering list README
+summary: Explains that software_rendering_list.json blocklists GPU-related features and points to the format specification and supported feature list.

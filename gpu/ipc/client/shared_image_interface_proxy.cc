@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedImageInterfaceProxy implementation
+// summary: Implements the client-side proxy that enqueues shared image creation, update, and destruction commands over the GPU channel.
+// ---
+
 #include "gpu/ipc/client/shared_image_interface_proxy.h"
 
 #include <bit>

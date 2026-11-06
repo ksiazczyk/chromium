@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InProcessGpuThreadHolder implementation
+// summary: Implements a GPU thread holder that starts a dedicated GPU thread and initializes scheduler, shared image manager and GL context state for testing.
+// ---
+
 #include "gpu/ipc/in_process_gpu_thread_holder.h"
 
 #include "base/command_line.h"

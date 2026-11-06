@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Serialization traits for command buffer state
+// summary: Declares StructTraits accessors mapping gpu::CommandBuffer::State fields to the gpu channel mojom CommandBufferState type.
+// ---
+
 #ifndef GPU_IPC_COMMON_COMMAND_BUFFER_MOJOM_TRAITS_H_
 #define GPU_IPC_COMMON_COMMAND_BUFFER_MOJOM_TRAITS_H_
 

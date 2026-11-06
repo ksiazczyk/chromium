@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Command buffer identifiers and channel route helpers
+// summary: Defines GpuChannelReservedRoutes and inline helpers to build and parse command buffer IDs from GPU channel and route IDs.
+// ---
+
 #ifndef GPU_IPC_COMMON_COMMAND_BUFFER_ID_H_
 #define GPU_IPC_COMMON_COMMAND_BUFFER_ID_H_
 

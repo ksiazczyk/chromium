@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GPU test expectations parser unit tests
+// summary: Unit tests covering parsing of GPU test expectation entries, OS family matching and error detection across platforms.
+// ---
+
 #include <stdint.h>
 
 #include "base/format_macros.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Serialization traits for GPU capabilities mojom
+// summary: Declares StructTraits templates that map gpu::Capabilities and GLCapabilities fields to their mojom counterparts for IPC serialization.
+// ---
+
 #ifndef GPU_IPC_COMMON_CAPABILITIES_MOJOM_TRAITS_H_
 #define GPU_IPC_COMMON_CAPABILITIES_MOJOM_TRAITS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared image pool id mojom traits
+// summary: Mojo StructTraits header declaring serialization of gpu::SharedImagePoolId to and from its unguessable token mojom representation.
+// ---
+
 #ifndef GPU_IPC_COMMON_SHARED_IMAGE_POOL_ID_MOJOM_TRAITS_H_
 #define GPU_IPC_COMMON_SHARED_IMAGE_POOL_ID_MOJOM_TRAITS_H_
 

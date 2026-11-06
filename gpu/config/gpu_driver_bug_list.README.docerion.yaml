@@ -1,0 +1,4 @@
+# Docerion header of gpu_driver_bug_list.README.
+type: readme
+title: GPU driver bug list README
+summary: Explains the purpose of gpu_driver_bug_list.json and points to the list format specification and the supported workaround features.

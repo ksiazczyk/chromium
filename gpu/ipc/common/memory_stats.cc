@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video memory usage stats implementation
+// summary: Implements constructors and destructors for VideoMemoryUsageStats and its per-process ProcessStats struct.
+// ---
+
 #include "gpu/ipc/common/memory_stats.h"
 
 namespace gpu {

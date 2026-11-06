@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU channel implementation
+// summary: Implements the IPC channel between the GPU process and a renderer, including message filtering and command buffer creation.
+// ---
+
 #include "gpu/ipc/service/gpu_channel.h"
 
 #include <cstdint>

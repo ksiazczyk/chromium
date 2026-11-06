@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuInit2 GPU initialization implementation
+// summary: Implements the optimized GpuInit2 GPU process startup path, collecting graphics info and initializing GL, Vulkan, Dawn, SwiftShader fallbacks and platform overlay settings.
+// ---
+
 #include "gpu/ipc/service/gpu_init_2.h"
 
 #include <cstdlib>
