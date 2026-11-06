@@ -1,0 +1,4 @@
+# Docerion header of merror-node-expected-auralinux.txt.
+type: test
+title: Expected AuraLinux node output for the merror element
+summary: Expected AuraLinux accessibility node output for a MathML merror element, expecting a section with tag merror.

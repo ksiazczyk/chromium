@@ -1,0 +1,4 @@
+# Docerion header of chips-filter-expected-auralinux.txt.
+type: test
+title: Filter chips expected accessibility tree for Linux
+summary: Expected Linux accessibility tree snapshots for the Material Web filter chips test page across select and deselect steps.

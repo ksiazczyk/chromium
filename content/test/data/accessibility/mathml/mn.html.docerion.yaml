@@ -1,0 +1,4 @@
+# Docerion header of mn.html.
+type: test
+title: MathML mn accessibility test page
+summary: HTML test page rendering a MathML mn number element with the value 42 for accessibility testing.

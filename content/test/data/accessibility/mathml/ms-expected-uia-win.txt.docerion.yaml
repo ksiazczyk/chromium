@@ -1,0 +1,4 @@
+# Docerion header of ms-expected-uia-win.txt.
+type: test
+title: MathML ms expected UIA Windows accessibility output
+summary: Expected UIA output on Windows for the ms test, describing a Custom MathML element containing a text node.

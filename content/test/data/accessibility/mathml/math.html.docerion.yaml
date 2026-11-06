@@ -1,0 +1,4 @@
+# Docerion header of math.html.
+type: test
+title: MathML math accessibility test page
+summary: HTML test page containing an empty MathML math element with platform allow directives for accessibility tree verification.

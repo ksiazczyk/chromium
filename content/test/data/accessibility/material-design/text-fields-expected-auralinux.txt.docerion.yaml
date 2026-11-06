@@ -1,0 +1,4 @@
+# Docerion header of text-fields-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for Material Web text fields
+summary: Expected accessibility tree snapshot of the text fields test page as produced by the Linux screen reader backend, covering filled, outlined, password and number fields.

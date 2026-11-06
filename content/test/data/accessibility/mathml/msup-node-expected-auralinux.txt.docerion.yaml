@@ -1,0 +1,4 @@
+# Docerion header of msup-node-expected-auralinux.txt.
+type: test
+title: Expected Aura Linux node output for msup
+summary: Expected Aura Linux node-level accessibility output for the msup MathML test page.

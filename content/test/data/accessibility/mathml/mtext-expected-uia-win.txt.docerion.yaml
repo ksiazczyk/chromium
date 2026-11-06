@@ -1,0 +1,4 @@
+# Docerion header of mtext-expected-uia-win.txt.
+type: test
+title: mtext expected UIA Windows accessibility output
+summary: Expected UIA accessibility tree output on Windows for the mtext MathML element test.

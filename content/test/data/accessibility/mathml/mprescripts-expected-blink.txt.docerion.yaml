@@ -1,0 +1,4 @@
+# Docerion header of mprescripts-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for mprescripts test
+summary: Expected Blink accessibility tree for the mprescripts MathML test, listing MathML roles and static text for each number in the multiscripts expression.

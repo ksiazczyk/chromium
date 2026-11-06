@@ -1,0 +1,4 @@
+# Docerion header of math-node-expected-auralinux.txt.
+type: test
+title: Expected AuraLinux node output for the math element
+summary: Expected accessibility node output on AuraLinux for a MathML math element, expecting the tag math.

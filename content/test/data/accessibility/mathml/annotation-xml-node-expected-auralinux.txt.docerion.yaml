@@ -1,0 +1,4 @@
+# Docerion header of annotation-xml-node-expected-auralinux.txt.
+type: test
+title: Expected Linux node output for MathML annotation-xml
+summary: Expected single-node accessibility output for the annotation-xml element on Linux, expecting a section object with tag annotation-xml.

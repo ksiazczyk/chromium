@@ -1,0 +1,4 @@
+# Docerion header of mpadded-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for MathML mpadded
+summary: Expected Blink accessibility tree snapshot for the mpadded test, listing math row, number and static text nodes for values 1 to 4.

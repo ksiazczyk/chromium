@@ -1,0 +1,4 @@
+# Docerion header of mspace-expected-blink.txt.
+type: test
+title: Blink accessibility expectations for mspace element test
+summary: Expected Blink accessibility tree output for the MathML mspace element test page.

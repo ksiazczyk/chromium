@@ -1,0 +1,4 @@
+# Docerion header of dialog-expected-auralinux.txt.
+type: test
+title: Dialog expected accessibility tree for auralinux
+summary: Expected Linux accessibility tree snapshot for the Material Web basic dialog test page with overflowing content.

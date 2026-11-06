@@ -1,0 +1,4 @@
+# Docerion header of checkboxes-expected-auralinux.txt.
+type: test
+title: Checkboxes expected accessibility tree for Auralinux
+summary: Expected Auralinux accessibility tree snapshots for the Material Web checkboxes page across check, uncheck and indeterminate state changes.

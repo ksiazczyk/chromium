@@ -1,0 +1,4 @@
+# Docerion header of mi-node-expected-mac.txt.
+type: test
+title: Expected Mac accessibility output for MathML mi node test
+summary: Expected macOS accessibility output for the MathML mi element node test, describing an AXGroup with the AXMathIdentifier subrole.

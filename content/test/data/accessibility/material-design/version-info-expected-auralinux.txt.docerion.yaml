@@ -1,0 +1,4 @@
+# Docerion header of version-info-expected-auralinux.txt.
+type: test
+title: Material Design version info expected accessibility tree (Auralinux)
+summary: Expected Auralinux accessibility tree snapshot for the Material Design version information test page, listing headings, sections and a test button.

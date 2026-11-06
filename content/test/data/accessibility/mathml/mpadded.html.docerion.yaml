@@ -1,0 +1,4 @@
+# Docerion header of mpadded.html.
+type: test
+title: MathML mpadded accessibility test page
+summary: HTML test fixture with a MathML mpadded element setting voffset, lspace, width, height and depth for accessibility verification.

@@ -1,0 +1,4 @@
+# Docerion header of buttons-expected-auralinux.txt.
+type: test
+title: Buttons expected accessibility tree for Auralinux
+summary: Expected Auralinux accessibility tree snapshots for the Material Web buttons page across click, disable and enable interactions.

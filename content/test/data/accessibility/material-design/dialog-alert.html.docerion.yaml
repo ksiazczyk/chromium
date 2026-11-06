@@ -1,0 +1,4 @@
+# Docerion header of dialog-alert.html.
+type: test
+title: Material Web Alert Dialog
+summary: Test page that builds and shows a Material Web alert dialog with headline, content, and an OK button for accessibility checks.

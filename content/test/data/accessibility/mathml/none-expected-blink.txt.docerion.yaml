@@ -1,0 +1,4 @@
+# Docerion header of none-expected-blink.txt.
+type: test
+title: Blink expected accessibility tree for MathML none
+summary: Expected Blink accessibility tree output for a MathML mmultiscripts expression that uses the none element.

@@ -1,0 +1,4 @@
+# Docerion header of mi-expected-uia-win.txt.
+type: test
+title: mi expected UIA Windows accessibility output
+summary: Expected UIA accessibility tree output on Windows for the mi MathML test page.

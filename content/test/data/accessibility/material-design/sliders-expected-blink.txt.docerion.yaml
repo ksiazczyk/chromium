@@ -1,0 +1,4 @@
+# Docerion header of sliders-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for Material Web sliders
+summary: Expected accessibility tree snapshot for the Material Web sliders test page in the Blink engine, including slider values and disabled handles.

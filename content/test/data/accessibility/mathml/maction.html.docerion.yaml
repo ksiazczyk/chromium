@@ -1,0 +1,4 @@
+# Docerion header of maction.html.
+type: test
+title: MathML maction accessibility test page
+summary: HTML test page containing a MathML maction element with platform allow directives, used to verify its accessibility tree across platforms.

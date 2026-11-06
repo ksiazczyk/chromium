@@ -1,0 +1,4 @@
+# Docerion header of cards-expected-blink.txt.
+type: test
+title: Cards expected accessibility tree for Blink
+summary: Expected Blink accessibility tree snapshot for the Material Web cards page showing elevated, filled and outlined card content.

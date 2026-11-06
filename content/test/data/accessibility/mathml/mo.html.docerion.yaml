@@ -1,0 +1,4 @@
+# Docerion header of mo.html.
+type: test
+title: MathML mo accessibility test page
+summary: HTML test page rendering a MathML mo operator element with a plus sign for accessibility testing.

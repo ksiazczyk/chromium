@@ -1,0 +1,4 @@
+# Docerion header of msup-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for msup
+summary: Expected Blink accessibility tree dump for the msup MathML test page.

@@ -1,0 +1,4 @@
+# Docerion header of mphantom-expected-uia-win.txt.
+type: test
+title: Expected UIA accessibility tree for MathML mphantom on Windows
+summary: Expected UIA tree snapshot on Windows for the mphantom test, showing the MathML markup and an empty custom element.

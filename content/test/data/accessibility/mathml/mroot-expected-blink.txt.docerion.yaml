@@ -1,0 +1,4 @@
+# Docerion header of mroot-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for mroot test
+summary: Expected Blink accessibility tree for the mroot MathML test, showing the MathML root role and its number children.

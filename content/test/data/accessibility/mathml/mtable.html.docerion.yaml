@@ -1,0 +1,4 @@
+# Docerion header of mtable.html.
+type: test
+title: mtable MathML accessibility test page
+summary: HTML test page containing a MathML mtable with two rows of numbers used to test accessibility tree exposure of MathML tables.

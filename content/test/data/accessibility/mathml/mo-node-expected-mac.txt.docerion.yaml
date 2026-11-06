@@ -1,0 +1,4 @@
+# Docerion header of mo-node-expected-mac.txt.
+type: test
+title: Expected Mac node output for MathML mo
+summary: Expected macOS accessibility node output for the MathML mo operator element test.

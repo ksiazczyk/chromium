@@ -1,0 +1,4 @@
+# Docerion header of dialog-expected-blink.txt.
+type: test
+title: Dialog expected accessibility tree for Blink
+summary: Expected Blink accessibility tree snapshot for the Material Web basic dialog test page with overflowing content.

@@ -1,0 +1,4 @@
+# Docerion header of mn-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for MathML mn test
+summary: Expected Blink accessibility tree dump for the MathML mn element test, showing the mathMLNumber role and static text 42.

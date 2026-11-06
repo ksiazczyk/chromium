@@ -1,0 +1,4 @@
+# Docerion header of mroot-node-expected-auralinux.txt.
+type: test
+title: Expected Aura Linux node accessibility output for mroot test
+summary: Expected accessibility node output on Aura Linux for the mroot MathML test, matching the mroot tag under the math root.

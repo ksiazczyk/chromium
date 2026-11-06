@@ -1,0 +1,4 @@
+# Docerion header of switches.html.
+type: test
+title: Material Web switches accessibility test page
+summary: Test page that creates md-switch variants including checked, disabled, required and icon switches and provides select and deselect actions for accessibility testing.

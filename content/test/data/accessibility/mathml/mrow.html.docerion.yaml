@@ -1,0 +1,4 @@
+# Docerion header of mrow.html.
+type: test
+title: MathML mrow accessibility test page
+summary: HTML test fixture rendering a MathML mrow element with four numbers, with platform allow annotations for accessibility testing.

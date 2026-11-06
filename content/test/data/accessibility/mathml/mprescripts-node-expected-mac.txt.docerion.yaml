@@ -1,0 +1,4 @@
+# Docerion header of mprescripts-node-expected-mac.txt.
+type: test
+title: Expected macOS node accessibility output for mprescripts test
+summary: Expected accessibility node output on macOS for the mprescripts MathML test, describing an AXGroup with the AXMathRow subrole.

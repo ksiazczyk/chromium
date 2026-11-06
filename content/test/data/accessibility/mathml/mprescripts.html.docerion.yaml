@@ -1,0 +1,4 @@
+# Docerion header of mprescripts.html.
+type: test
+title: mprescripts accessibility test page
+summary: HTML test page rendering a MathML mmultiscripts expression with an mprescripts element for accessibility testing.

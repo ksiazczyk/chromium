@@ -1,0 +1,4 @@
+# Docerion header of progress.html.
+type: test
+title: Material Web progress accessibility test page
+summary: Test page that renders Material Web linear and circular progress components and updates progress values for accessibility tree verification.

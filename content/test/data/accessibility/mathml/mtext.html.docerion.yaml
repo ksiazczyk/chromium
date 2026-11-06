@@ -1,0 +1,4 @@
+# Docerion header of mtext.html.
+type: test
+title: mtext MathML accessibility test page
+summary: HTML test page rendering an mtext MathML element for accessibility tree verification.

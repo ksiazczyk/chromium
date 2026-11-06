@@ -1,0 +1,4 @@
+# Docerion header of mpadded-expected-uia-win.txt.
+type: test
+title: Expected UIA accessibility tree for MathML mpadded on Windows
+summary: Expected UIA tree snapshot on Windows for the mpadded test, including the MathML markup and text elements for numbers 1 to 4.

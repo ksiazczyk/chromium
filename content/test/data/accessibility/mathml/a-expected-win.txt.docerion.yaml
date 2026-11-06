@@ -1,0 +1,4 @@
+# Docerion header of a-expected-win.txt.
+type: test
+title: Expected Windows IA2 accessibility tree for MathML anchor test
+summary: Expected Windows IA2/MSAA accessibility tree output for the MathML test page with links inside a math element.

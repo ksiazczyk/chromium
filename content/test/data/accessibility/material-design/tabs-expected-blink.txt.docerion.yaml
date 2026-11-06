@@ -1,0 +1,4 @@
+# Docerion header of tabs-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for Material Web tabs
+summary: Expected Blink accessibility tree snapshot of the tabs test page, detailing md-tabs and tab elements with selection and indicator structure.

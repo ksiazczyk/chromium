@@ -1,0 +1,4 @@
+# Docerion header of mn-node-expected-auralinux.txt.
+type: test
+title: Expected AuraLinux node output for MathML mn test
+summary: Expected AuraLinux accessibility node output for the MathML mn element test, listing the static role and tag.

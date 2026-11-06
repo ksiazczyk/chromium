@@ -1,0 +1,4 @@
+# Docerion header of msqrt-expected-blink.txt.
+type: test
+title: Blink accessibility expectations for msqrt element test
+summary: Expected Blink accessibility tree output for the MathML msqrt element test page.

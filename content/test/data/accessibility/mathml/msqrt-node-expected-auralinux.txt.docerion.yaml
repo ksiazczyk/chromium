@@ -1,0 +1,4 @@
+# Docerion header of msqrt-node-expected-auralinux.txt.
+type: test
+title: Auralinux node expectations for msqrt element test
+summary: Expected Auralinux accessibility node output for the MathML msqrt element test page.

@@ -1,0 +1,4 @@
+# Docerion header of unknown.html.
+type: test
+title: Unknown MathML element accessibility test page
+summary: HTML test page verifying that a math element containing an unknown child is exposed in the accessibility tree with a single ignored child.

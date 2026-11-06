@@ -1,0 +1,4 @@
+# Docerion header of mtd-node-expected-auralinux.txt.
+type: test
+title: mtd node expected Aura Linux accessibility output
+summary: Expected node-level accessibility result for the mtd MathML test on Aura Linux, describing a table cell with row and column details.

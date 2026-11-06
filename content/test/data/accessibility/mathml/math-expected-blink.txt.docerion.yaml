@@ -1,0 +1,4 @@
+# Docerion header of math-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for the math element
+summary: Expected Blink accessibility tree output for a MathML math element, describing the expected math node hierarchy.

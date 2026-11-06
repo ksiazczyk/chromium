@@ -1,0 +1,4 @@
+# Docerion header of mtr-node-expected-mac.txt.
+type: test
+title: mtr expected node output for Mac
+summary: Expected accessibility node output on macOS for the mtr MathML table row test.

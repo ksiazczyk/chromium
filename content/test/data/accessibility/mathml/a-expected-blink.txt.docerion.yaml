@@ -1,0 +1,4 @@
+# Docerion header of a-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for MathML anchor test
+summary: Expected Blink accessibility tree serialization for the MathML test page with anchor elements inside a math element.

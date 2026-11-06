@@ -1,0 +1,4 @@
+# Docerion header of none-node-expected-mac.txt.
+type: test
+title: macOS expected node output for MathML none
+summary: Expected macOS accessibility node output for the MathML none element test.

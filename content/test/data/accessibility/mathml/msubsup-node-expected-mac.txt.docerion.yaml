@@ -1,0 +1,4 @@
+# Docerion header of msubsup-node-expected-mac.txt.
+type: test
+title: Expected macOS node output for msubsup
+summary: Expected macOS node-level accessibility output for the msubsup MathML test page.

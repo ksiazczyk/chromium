@@ -1,0 +1,4 @@
+# Docerion header of a-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for MathML anchor test
+summary: Expected macOS AX accessibility tree output for the MathML test page with links inside a math element.

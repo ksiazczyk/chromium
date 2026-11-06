@@ -1,0 +1,4 @@
+# Docerion header of mphantom-node-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility output for MathML mphantom node
+summary: Expected Linux accessibility output for the mphantom node test, recording the section tag mphantom.

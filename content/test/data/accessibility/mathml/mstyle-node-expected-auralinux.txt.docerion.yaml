@@ -1,0 +1,4 @@
+# Docerion header of mstyle-node-expected-auralinux.txt.
+type: test
+title: mstyle expected node output for Auralinux
+summary: Expected Auralinux accessibility node output for the mstyle test, expecting a section with tag mstyle.

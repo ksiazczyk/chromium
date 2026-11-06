@@ -1,0 +1,4 @@
+# Docerion header of cards.html.
+type: test
+title: Material Web cards accessibility test page
+summary: HTML test page that renders Material Web elevated, filled and outlined cards with headline, subhead and content slots for accessibility testing.

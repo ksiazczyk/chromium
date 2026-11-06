@@ -1,0 +1,4 @@
+# Docerion header of text-fields.html.
+type: test
+title: Material Web text fields accessibility test page
+summary: Test page that renders filled and outlined text field variants including required, disabled, password, email, number and prefix or suffix fields for accessibility testing.

@@ -1,0 +1,4 @@
+# Docerion header of version-info.html.
+type: test
+title: Material Design version information test page
+summary: Test page that loads Material Web Components, fetches package version details, displays them, and adds a test button for accessibility tree verification.

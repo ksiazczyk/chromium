@@ -1,0 +1,4 @@
+# Docerion header of select-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for Material Web select
+summary: Expected accessibility tree snapshot for the Material Web select test page in the Blink engine, covering select variants and option selection.

@@ -1,0 +1,4 @@
+# Docerion header of merror-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows tree for the merror element
+summary: Expected UIA Windows accessibility tree for a MathML merror element with four number children.

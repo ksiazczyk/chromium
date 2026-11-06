@@ -1,0 +1,4 @@
+# Docerion header of ms-node-expected-auralinux.txt.
+type: test
+title: MathML ms node expected Auralinux output
+summary: Expected Auralinux node output for the ms test, recording the allowed ms static tag.

@@ -1,0 +1,4 @@
+# Docerion header of list-expected-blink.txt.
+type: test
+title: List expected accessibility tree for Blink
+summary: Expected Blink accessibility tree snapshots for the Material Web list test page across list item activation steps.

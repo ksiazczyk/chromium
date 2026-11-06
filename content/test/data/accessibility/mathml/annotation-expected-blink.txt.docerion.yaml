@@ -1,0 +1,4 @@
+# Docerion header of annotation-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for MathML annotation test
+summary: Expected Blink accessibility tree snapshot for the MathML annotation test, showing math roles for the fraction and annotation content.

@@ -1,0 +1,4 @@
+# Docerion header of mtr-expected-blink.txt.
+type: test
+title: mtr expected Blink accessibility tree
+summary: Expected Blink accessibility tree output for the mtr MathML table row test.

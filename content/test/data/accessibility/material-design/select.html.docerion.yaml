@@ -1,0 +1,4 @@
+# Docerion header of select.html.
+type: test
+title: Material Web select accessibility test page
+summary: Test page with filled, outlined, required and disabled Material Web selects and scripted option selection for accessibility checks.

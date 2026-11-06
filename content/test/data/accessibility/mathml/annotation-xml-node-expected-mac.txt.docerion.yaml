@@ -1,0 +1,4 @@
+# Docerion header of annotation-xml-node-expected-mac.txt.
+type: test
+title: Expected macOS node output for MathML annotation-xml
+summary: Expected macOS accessibility node output for the annotation-xml element, expecting an AXGroup with subrole AXMathRow.

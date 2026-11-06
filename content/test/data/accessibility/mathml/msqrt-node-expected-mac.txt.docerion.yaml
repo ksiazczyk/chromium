@@ -1,0 +1,4 @@
+# Docerion header of msqrt-node-expected-mac.txt.
+type: test
+title: Mac node expectations for msqrt element test
+summary: Expected Mac accessibility node output for the MathML msqrt element test page.

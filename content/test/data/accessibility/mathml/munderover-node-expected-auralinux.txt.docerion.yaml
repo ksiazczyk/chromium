@@ -1,0 +1,4 @@
+# Docerion header of munderover-node-expected-auralinux.txt.
+type: test
+title: munderover node expected output for Aura Linux
+summary: Expected node accessibility output for the MathML munderover test on Aura Linux, expecting a section with tag munderover.

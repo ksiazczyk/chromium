@@ -1,0 +1,4 @@
+# Docerion header of munderover-node-expected-mac.txt.
+type: test
+title: munderover node expected output for macOS
+summary: Expected node accessibility output for the MathML munderover test on macOS, expecting an AXGroup with AXMathUnderOver subrole.

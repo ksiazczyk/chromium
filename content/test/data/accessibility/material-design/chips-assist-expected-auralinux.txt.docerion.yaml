@@ -1,0 +1,4 @@
+# Docerion header of chips-assist-expected-auralinux.txt.
+type: test
+title: Assist chips expected accessibility tree for Auralinux
+summary: Expected Auralinux accessibility tree snapshots for the Material Web assist chips page covering default, icon and disabled chip variants and a click action.

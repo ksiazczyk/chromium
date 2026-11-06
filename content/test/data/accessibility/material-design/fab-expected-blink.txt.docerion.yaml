@@ -1,0 +1,4 @@
+# Docerion header of fab-expected-blink.txt.
+type: test
+title: FAB expected accessibility tree for Blink
+summary: Expected Blink accessibility tree snapshots covering the FAB lower, unlower, and click interaction steps.

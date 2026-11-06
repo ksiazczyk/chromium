@@ -1,0 +1,4 @@
+# Docerion header of sliders.html.
+type: test
+title: Material Web sliders accessibility test page
+summary: Test page that renders md-slider variants such as disabled, labeled, ticked and range sliders and exposes a setSliderValue action for accessibility tree verification.

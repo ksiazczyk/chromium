@@ -1,0 +1,4 @@
+# Docerion header of mstyle-expected-uia-win.txt.
+type: test
+title: mstyle expected UIA tree on Windows
+summary: Expected UIA accessibility tree for the mstyle MathML test on Windows, describing Custom and Text elements for the numbers 1 to 4.

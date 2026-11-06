@@ -1,0 +1,4 @@
+# Docerion header of mstyle-expected-blink.txt.
+type: test
+title: mstyle expected accessibility tree for Blink
+summary: Expected Blink accessibility tree output for the mstyle MathML test, listing a math row containing the numbers 1 to 4.

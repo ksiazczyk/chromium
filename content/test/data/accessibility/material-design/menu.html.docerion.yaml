@@ -1,0 +1,4 @@
+# Docerion header of menu.html.
+type: test
+title: Material Web menu accessibility test page
+summary: Test page that creates an anchored md-menu with items and a submenu, then opens and closes it for accessibility checks.

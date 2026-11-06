@@ -1,0 +1,4 @@
+# Docerion header of mtext-expected-blink.txt.
+type: test
+title: mtext expected Blink accessibility tree
+summary: Expected Blink accessibility tree output for the mtext MathML element test.

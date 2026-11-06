@@ -1,0 +1,4 @@
+# Docerion header of msub.html.
+type: test
+title: msub MathML test page
+summary: HTML test page with a math element containing an msub element wrapping the numbers 1 and 2, plus platform allow annotations.

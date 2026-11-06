@@ -1,0 +1,4 @@
+# Docerion header of chips-suggestion-expected-blink.txt.
+type: test
+title: Suggestion chips expected accessibility tree for Blink
+summary: Expected Blink accessibility tree snapshots for the Material Web suggestion chips test page, including the clicked state.

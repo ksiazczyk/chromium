@@ -1,0 +1,4 @@
+# Docerion header of a-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for MathML anchor test
+summary: Expected ATK/Linux accessibility tree output for the MathML test page with links inside a math element.

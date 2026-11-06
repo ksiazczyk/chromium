@@ -1,0 +1,4 @@
+# Docerion header of maction-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for MathML maction test
+summary: Expected Blink accessibility tree for the MathML maction test, showing the mathMLMath row and number node with text 1.

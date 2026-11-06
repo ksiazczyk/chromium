@@ -1,0 +1,4 @@
+# Docerion header of msub-node-expected-mac.txt.
+type: test
+title: msub expected node output for macOS
+summary: Expected macOS accessibility node output for the msub test, expecting an AXGroup with the AXMathSubscriptSuperscript subrole.

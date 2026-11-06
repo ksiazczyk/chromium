@@ -1,0 +1,4 @@
+# Docerion header of chips-assist.html.
+type: test
+title: Assist chips accessibility test page
+summary: Test page that builds a Material Web assist chip set and provides a clickChip action used by accessibility snapshot tests.

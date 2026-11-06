@@ -1,0 +1,4 @@
+# Docerion header of math-node-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows node output for the math element
+summary: Expected UIA accessibility node output on Windows for a MathML math element, expecting a Group control.

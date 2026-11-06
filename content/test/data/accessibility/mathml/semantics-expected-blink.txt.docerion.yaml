@@ -1,0 +1,4 @@
+# Docerion header of semantics-expected-blink.txt.
+type: test
+title: Blink expected accessibility tree for MathML semantics
+summary: Expected Blink accessibility tree output for a MathML semantics element containing a fraction and annotations.

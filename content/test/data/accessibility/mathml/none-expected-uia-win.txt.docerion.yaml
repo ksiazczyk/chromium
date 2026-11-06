@@ -1,0 +1,4 @@
+# Docerion header of none-expected-uia-win.txt.
+type: test
+title: UIA Windows expected accessibility tree for MathML none
+summary: Expected UIA accessibility tree on Windows for the MathML none element test page.

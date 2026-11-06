@@ -1,0 +1,4 @@
+# Docerion header of text-fields-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for Material Web text fields
+summary: Expected Blink accessibility tree snapshot of the text fields test page, detailing filled and outlined field internals such as labels, outlines and inputs.

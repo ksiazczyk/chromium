@@ -1,0 +1,4 @@
+# Docerion header of tabs-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for Material Web tabs
+summary: Expected accessibility tree snapshot of the tabs test page as produced by the Linux screen reader backend, covering primary and secondary tab lists and click states.

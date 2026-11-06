@@ -1,0 +1,4 @@
+# Docerion header of version-info-expected-blink.txt.
+type: test
+title: Material Design version info expected accessibility tree (Blink)
+summary: Expected Blink accessibility tree snapshot for the Material Design version information test page, including static text, containers and a button.

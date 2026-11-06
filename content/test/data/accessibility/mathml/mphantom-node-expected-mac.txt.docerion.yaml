@@ -1,0 +1,4 @@
+# Docerion header of mphantom-node-expected-mac.txt.
+type: test
+title: Expected macOS node accessibility output for mphantom test
+summary: Expected accessibility node output on macOS for the mphantom MathML test, describing an AXGroup with the AXMathRow subrole.

@@ -1,0 +1,4 @@
+# Docerion header of none-node-expected-auralinux.txt.
+type: test
+title: Auralinux expected node output for MathML none
+summary: Expected Linux accessibility node output recording the tag for the MathML none element.

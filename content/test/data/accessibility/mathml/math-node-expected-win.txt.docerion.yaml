@@ -1,0 +1,4 @@
+# Docerion header of math-node-expected-win.txt.
+type: test
+title: Expected Windows node output for the math element
+summary: Expected Windows accessibility node output for a MathML math element, expecting the role ROLE_SYSTEM_EQUATION.

@@ -1,0 +1,4 @@
+# Docerion header of msub-expected-uia-win.txt.
+type: test
+title: msub expected UIA tree on Windows
+summary: Expected UIA accessibility tree for the msub MathML test on Windows, describing Custom and Text elements for the two numbers.

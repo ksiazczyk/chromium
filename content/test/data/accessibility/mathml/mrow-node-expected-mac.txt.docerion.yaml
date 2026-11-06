@@ -1,0 +1,4 @@
+# Docerion header of mrow-node-expected-mac.txt.
+type: test
+title: MathML mrow node expected Mac accessibility output
+summary: Expected Mac node output for the mrow test, recording an AXGroup with the AXMathRow subrole.

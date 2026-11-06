@@ -1,0 +1,4 @@
+# Docerion header of mtr-expected-uia-win.txt.
+type: test
+title: mtr expected UIA Windows accessibility output
+summary: Expected UIA accessibility tree output on Windows for the mtr MathML table row test.

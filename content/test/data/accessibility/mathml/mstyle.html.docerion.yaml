@@ -1,0 +1,4 @@
+# Docerion header of mstyle.html.
+type: test
+title: mstyle MathML test page
+summary: HTML test page with a math element containing an mstyle element wrapping the numbers 1 to 4, plus platform allow annotations.

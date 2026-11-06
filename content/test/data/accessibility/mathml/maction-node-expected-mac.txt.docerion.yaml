@@ -1,0 +1,4 @@
+# Docerion header of maction-node-expected-mac.txt.
+type: test
+title: Expected macOS node output for MathML maction test
+summary: Expected macOS accessibility node expectation for the MathML maction test, expecting an AXGroup with AXMathRow subrole.

@@ -1,0 +1,4 @@
+# Docerion header of mrow-expected-uia-win.txt.
+type: test
+title: MathML mrow expected UIA Windows accessibility output
+summary: Expected UIA output on Windows for the mrow test, describing a Custom MathML element with four text children.

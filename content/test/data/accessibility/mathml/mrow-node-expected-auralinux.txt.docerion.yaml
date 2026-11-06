@@ -1,0 +1,4 @@
+# Docerion header of mrow-node-expected-auralinux.txt.
+type: test
+title: MathML mrow node expected Auralinux output
+summary: Expected Auralinux node output for the mrow test, recording the allowed mrow tag.

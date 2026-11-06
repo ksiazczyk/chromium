@@ -1,0 +1,4 @@
+# Docerion header of intent-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for MathML intent test
+summary: Expected Blink accessibility tree for the MathML intent test, showing mathMLMath, mathMLRow, identifier and number nodes.

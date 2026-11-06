@@ -1,0 +1,4 @@
+# Docerion header of intent-expected-android.txt.
+type: test
+title: Expected Android accessibility output for MathML intent test
+summary: Expected Android accessibility tree for the MathML intent test, listing math_intent and math_arg values for the power expression.

@@ -1,0 +1,4 @@
+# Docerion header of buttons.html.
+type: test
+title: Material Web buttons accessibility test page
+summary: HTML test page that renders Material Web filled, outlined and text buttons and exposes actions to click, disable and enable them for accessibility testing.

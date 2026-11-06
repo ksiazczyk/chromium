@@ -1,0 +1,4 @@
+# Docerion header of icon-buttons-expected-blink.txt.
+type: test
+title: Icon buttons expected accessibility tree for Blink
+summary: Expected Blink accessibility tree snapshots for the Material Web icon buttons test page across toggle selection and deselection steps.

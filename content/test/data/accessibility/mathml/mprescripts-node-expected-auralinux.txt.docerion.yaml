@@ -1,0 +1,4 @@
+# Docerion header of mprescripts-node-expected-auralinux.txt.
+type: test
+title: Expected Aura Linux node accessibility output for mprescripts test
+summary: Expected accessibility node output on Aura Linux for the mprescripts MathML test, matching the mprescripts tag.

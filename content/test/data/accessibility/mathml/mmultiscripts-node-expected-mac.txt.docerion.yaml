@@ -1,0 +1,4 @@
+# Docerion header of mmultiscripts-node-expected-mac.txt.
+type: test
+title: Expected Mac node output for MathML mmultiscripts test
+summary: Expected macOS accessibility node output for the MathML mmultiscripts element test, describing an AXGroup with the AXMathMultiscript subrole.

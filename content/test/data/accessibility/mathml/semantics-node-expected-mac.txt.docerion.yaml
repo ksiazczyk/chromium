@@ -1,0 +1,4 @@
+# Docerion header of semantics-node-expected-mac.txt.
+type: test
+title: macOS expected node output for MathML semantics
+summary: Expected macOS accessibility node output for the MathML semantics element test.

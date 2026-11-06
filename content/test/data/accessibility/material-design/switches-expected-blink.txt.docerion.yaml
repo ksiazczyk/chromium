@@ -1,0 +1,4 @@
+# Docerion header of switches-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for Material Web switches
+summary: Expected Blink accessibility tree snapshot of the switches test page, listing md-switch elements with checked, disabled, required and icon states.

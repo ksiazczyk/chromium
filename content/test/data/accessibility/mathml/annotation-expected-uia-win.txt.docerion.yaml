@@ -1,0 +1,4 @@
+# Docerion header of annotation-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows tree for MathML annotation test
+summary: Expected UIA accessibility tree for the MathML annotation test on Windows, including serialized MathML markup and custom element roles.
