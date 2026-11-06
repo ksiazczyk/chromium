@@ -1,0 +1,4 @@
+# Docerion header of test.example.org_test.sxg.mock-http-headers.
+type: test
+title: Mock HTTP headers for test.example.org SXG
+summary: Mock HTTP response headers serving the standard test.example.org signed exchange with the application/signed-exchange content type.

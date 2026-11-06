@@ -4,6 +4,12 @@
 
 // Message format for the MojoLPM fuzzer for the AudioContextManager interface.
 
+// ---docerion
+// type: test
+// title: AudioContextManager MojoLPM fuzzer message format
+// summary: Protobuf message definitions describing the actions, sequences and testcases interpreted by the AudioContextManager MojoLPM fuzzer.
+// ---
+
 syntax = "proto2";
 
 package content.fuzzing.audio_context_manager.proto;

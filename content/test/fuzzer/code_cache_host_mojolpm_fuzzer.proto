@@ -4,6 +4,12 @@
 
 // Message format for the MojoLPM fuzzer for the CodeCacheHost interface.
 
+// ---docerion
+// type: test
+// title: CodeCacheHost MojoLPM fuzzer message format
+// summary: Protobuf message definitions describing the actions, sequences and testcases interpreted by the CodeCacheHost MojoLPM fuzzer.
+// ---
+
 syntax = "proto2";
 
 package content.fuzzing.code_cache_host.proto;

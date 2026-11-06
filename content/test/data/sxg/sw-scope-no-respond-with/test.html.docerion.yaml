@@ -1,0 +1,4 @@
+# Docerion header of test.html.
+type: test
+title: sw-scope-no-respond-with test page
+summary: Minimal HTML page titled Done serving as test data for the sw-scope-no-respond-with SXG test case.

@@ -1,0 +1,4 @@
+# Docerion header of create_shared_worker.html.
+type: test
+title: Create shared worker test helper
+summary: Test helper page that creates a SharedWorker from a worker_url query parameter and exposes waitForMessage to await the worker's first message.

@@ -1,0 +1,4 @@
+# Docerion header of fetch_from_shared_worker.html.
+type: test
+title: Shared worker fetch test page
+summary: Test page that starts a shared worker and exposes fetch_from_shared_worker to request a URL fetch through the worker port.

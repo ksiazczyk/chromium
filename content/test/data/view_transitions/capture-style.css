@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+/*docerion
+type: test
+title: View transition capture styles for parent-child tests
+summary: Stylesheet defining positioned parent and child divs with view-transition names, semi-transparent opacity and a green background for capture tests.
+*/
+
 div {
     position: absolute;
     width: 10px;

@@ -1,3 +1,9 @@
+<!--docerion
+type: test
+title: Async script abort on end test page
+summary: Test HTML page that loads an async script from a URL which aborts on end, used to reproduce the crash reported in bug 75604.
+-->
+
 <html>
 <head>
 <script async src="http://url.handled.by.abort.on.end/400"></script>

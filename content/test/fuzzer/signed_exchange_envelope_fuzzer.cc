@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signed exchange envelope fuzzer
+// summary: LibFuzzer test that parses signed exchange envelope bytes to exercise the envelope and prologue parsing code for crashes.
+// ---
+
 #include "content/browser/web_package/signed_exchange_envelope.h"  // nogncheck
 
 #include <string>

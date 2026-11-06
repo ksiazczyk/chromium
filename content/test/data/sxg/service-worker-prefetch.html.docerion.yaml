@@ -1,0 +1,4 @@
+# Docerion header of service-worker-prefetch.html.
+type: test
+title: Service worker prefetch registration test page
+summary: HTML test page that registers service-worker-prefetch.js in the sw-prefetch-scope directory and signals completion via the document title.

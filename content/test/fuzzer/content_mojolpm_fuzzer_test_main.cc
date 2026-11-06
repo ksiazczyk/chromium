@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content MojoLPM fuzzer test main
+// summary: Main entry point that enables test-only CHECK paths and hands control to the libFuzzer driver for content MojoLPM fuzzers.
+// ---
+
 #include <cstddef>
 #include <cstdint>
 

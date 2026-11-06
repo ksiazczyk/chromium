@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: libFuzzer for MerkleIntegritySourceStream
+// summary: Feeds fuzzed data through MerkleIntegritySourceStream reads to uncover crashes in the integrity stream implementation.
+// ---
+
 #include "content/browser/loader/merkle_integrity_source_stream.h"  // nogncheck
 
 #include <fuzzer/FuzzedDataProvider.h>

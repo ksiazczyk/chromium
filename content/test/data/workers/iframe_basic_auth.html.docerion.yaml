@@ -1,0 +1,4 @@
+# Docerion header of iframe_basic_auth.html.
+type: test
+title: Basic auth iframe test page
+summary: Test page that embeds an iframe pointing at an http_basic_auth endpoint expected to return a 401 challenge.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MojoLPM fuzzer for the ImageCapture interface
+// summary: Runs libprotobuf-mutator testcases that bind and exercise the ImageCapture Mojo interface using fake media devices.
+// ---
+
 #include <stdint.h>
 
 #include <cstddef>

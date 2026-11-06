@@ -1,0 +1,4 @@
+# Docerion header of uuid-in-package.har.
+type: test
+title: HAR capture of uuid-in-package requests
+summary: HAR test data with responses for three uuid-in-package URLs, including HTML pages that post a loaded message and embed an iframe.

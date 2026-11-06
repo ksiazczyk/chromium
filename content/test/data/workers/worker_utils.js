@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Worker Test Utility Functions
+// summary: Utility script providing getWorker to create dedicated or shared workers with a uniform API, plus onSuccess, onFailure, and onFinished result reporting.
+// ---
+
 var shared_worker_count = 0;
 function getWorker(worker_url)
 {

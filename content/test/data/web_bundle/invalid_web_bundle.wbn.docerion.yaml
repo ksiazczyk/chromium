@@ -1,0 +1,4 @@
+# Docerion header of invalid_web_bundle.wbn.
+type: test
+title: Invalid Web Bundle test file
+summary: Deliberately invalid Web Bundle used as test data in Chromium web bundle browser tests.

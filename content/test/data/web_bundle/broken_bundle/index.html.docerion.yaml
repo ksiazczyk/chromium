@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: test
+title: Broken web bundle test page
+summary: Malformed HTML test fixture for a broken web bundle, containing a stray closing angle bracket after the title element.

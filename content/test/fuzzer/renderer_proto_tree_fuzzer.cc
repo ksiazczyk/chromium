@@ -4,6 +4,12 @@
 
 // Fuzzer for content/renderer
 
+// ---docerion
+// type: test
+// title: Renderer proto tree fuzzer
+// summary: LibFuzzer test that converts a protobuf document tree into HTML and loads it in the content renderer to fuzz rendering of generated pages.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

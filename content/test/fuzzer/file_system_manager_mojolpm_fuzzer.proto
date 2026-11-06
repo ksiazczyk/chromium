@@ -4,6 +4,12 @@
 
 // Message format for the MojoLPM fuzzer for the FileSystemManager interface.
 
+// ---docerion
+// type: test
+// title: File system manager fuzzer action protobuf definitions
+// summary: Protobuf message format for the FileSystemManager MojoLPM fuzzer, defining actions to bind manager remotes, cancellable operations, and run threads.
+// ---
+
 syntax = "proto2";
 
 package content.fuzzing.file_system_manager.proto;

@@ -1,0 +1,4 @@
+# Docerion header of google-com-ca.cnf.
+type: config
+title: OpenSSL CA configuration for google-com test certificate
+summary: OpenSSL CA configuration identical to ca.cnf except that the subjectAltName is set to google-com.example.org for lookalike URL tests.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for the fuzzer directory
+summary: Delegates ownership and review of this fuzzer directory to the testing/libfuzzer OWNERS file.

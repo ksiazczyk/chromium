@@ -1,0 +1,4 @@
+# Docerion header of test.example.org_test_invalid_magic_string.sxg.mock-http-headers.
+type: test
+title: Mock HTTP headers for invalid magic string SXG test
+summary: Mock HTTP response headers for the signed exchange with an invalid magic string, used as a test fixture for SXG validation.

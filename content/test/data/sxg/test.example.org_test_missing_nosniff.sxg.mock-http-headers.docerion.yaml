@@ -1,0 +1,4 @@
+# Docerion header of test.example.org_test_missing_nosniff.sxg.mock-http-headers.
+type: test
+title: Mock HTTP headers missing nosniff for SXG test
+summary: Mock HTTP response headers that omit the X-Content-Type-Options nosniff header, exercising the missing nosniff test case.

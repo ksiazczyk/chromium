@@ -1,0 +1,4 @@
+# Docerion header of ca.cnf.
+type: config
+title: OpenSSL CA configuration for test certificates
+summary: OpenSSL CA configuration used to sign test certificates for test.example.org, including the SXG certificate extension and signing policy.

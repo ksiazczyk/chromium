@@ -1,0 +1,4 @@
+# Docerion header of test.example.org_test_invalid_content_type.sxg.mock-http-headers.
+type: test
+title: Mock HTTP headers for invalid content type SXG test
+summary: Mock HTTP response headers with a signed-exchange content type for the invalid content type test fixture.

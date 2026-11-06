@@ -1,0 +1,4 @@
+# Docerion header of test.html.
+type: test
+title: Done test page
+summary: Minimal HTML page titled Done serving as a fixture in the sw-prefetch-scope test data.

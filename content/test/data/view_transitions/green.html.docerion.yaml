@@ -1,0 +1,4 @@
+# Docerion header of green.html.
+type: test
+title: Green background view transition test page
+summary: Test page with a green background that opts into automatic cross-document view transitions.

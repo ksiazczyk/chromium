@@ -1,0 +1,4 @@
+# Docerion header of publisher-service-worker.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for the publisher service worker
+summary: Mock HTTP headers that serve the publisher service worker script with a 200 status and an application/javascript content type during tests.

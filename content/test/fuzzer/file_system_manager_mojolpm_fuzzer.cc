@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File system manager MojoLPM fuzzer
+// summary: MojoLPM fuzzer that exercises FileSystemManagerImpl mojo interfaces across multiple renderer processes using TestBrowserContext and blob storage setup.
+// ---
+
 #include <stdint.h>
 
 #include <utility>

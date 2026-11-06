@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CodeCacheHost MojoLPM fuzzer
+// summary: MojoLPM fuzzer that creates and destroys CodeCacheHostImpl instances and exercises the code cache Mojo interface across origins.
+// ---
+
 #include <stdint.h>
 
 #include <utility>

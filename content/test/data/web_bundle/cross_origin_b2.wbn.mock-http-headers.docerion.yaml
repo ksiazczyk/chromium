@@ -1,0 +1,4 @@
+# Docerion header of cross_origin_b2.wbn.mock-http-headers.
+type: test
+title: Mock HTTP headers for cross_origin_b2.wbn
+summary: Serves cross_origin_b2.wbn with an Access-Control-Allow-Origin wildcard header for cross-origin bundle tests.

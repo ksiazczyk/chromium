@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Video capture host MojoLPM fuzzer proto definitions
+// summary: Protobuf message definitions describing the actions, sequences and testcases the video capture host MojoLPM fuzzer can perform.
+// ---
+
 syntax = "proto2";
 
 package content.fuzzing.video_capture_host.proto;

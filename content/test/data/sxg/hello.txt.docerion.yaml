@@ -1,0 +1,4 @@
+# Docerion header of hello.txt.
+type: test
+title: Hello world test text file
+summary: Simple hello world text used as plain content in signed exchange tests.

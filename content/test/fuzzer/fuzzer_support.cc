@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content fuzzer support environment implementation
+// summary: Implements the Env test environment and RenderViewTestAdapter that initialize ICU, V8, and blink features for standalone content fuzzers.
+// ---
+
 #include "content/test/fuzzer/fuzzer_support.h"
 
 #include <string>

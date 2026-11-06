@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Git attributes for SXG test data
+# summary: Git attributes file that marks signed exchange (.sxg) and .msg test files as binary so Git does not alter them.
+# ---
+
 *.sxg binary
 *.msg binary

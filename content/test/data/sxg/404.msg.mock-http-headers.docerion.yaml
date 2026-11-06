@@ -1,0 +1,4 @@
+# Docerion header of 404.msg.mock-http-headers.
+type: data
+title: 404 response mock HTTP headers
+summary: Mock HTTP headers defining an HTTP/1.0 404 Not Found status that accompanies the 404.msg test payload.

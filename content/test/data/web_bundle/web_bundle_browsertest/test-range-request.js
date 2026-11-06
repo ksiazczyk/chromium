@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Range request test script
+// summary: Fetches the text fixture with a bytes range header, expects the substring Web Bundles, and checks that out-of-range requests fail.
+// ---
+
 (async function() {
     let resp = await fetch("/hello.txt", {headers: {'range': 'bytes=7-17'}});
     let text = await resp.text();

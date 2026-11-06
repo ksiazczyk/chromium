@@ -1,0 +1,4 @@
+# Docerion header of parent-child.html.
+type: test
+title: Parent-child view transition test page
+summary: Test page showing a green parent and child element styled via capture-style.css for view transition capture.

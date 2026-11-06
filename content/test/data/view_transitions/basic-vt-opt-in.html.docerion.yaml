@@ -1,0 +1,4 @@
+# Docerion header of basic-vt-opt-in.html.
+type: test
+title: Basic view transition opt-in test page
+summary: Test page that opts into cross-document view transitions and records whether an incoming transition was revealed on the pagereveal event.

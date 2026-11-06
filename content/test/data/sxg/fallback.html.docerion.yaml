@@ -1,0 +1,4 @@
+# Docerion header of fallback.html.
+type: data
+title: Fallback URL response page
+summary: Minimal HTML page titled "Fallback URL response" served as the fallback URL content in signed exchange tests.

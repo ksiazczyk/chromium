@@ -1,0 +1,4 @@
+# Docerion header of test.html.
+type: test
+title: Location of origin-signed HTTP response
+summary: Test page that sets its document title to the current URL, used to verify navigation to an origin-signed HTTP response.

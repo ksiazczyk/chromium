@@ -1,0 +1,4 @@
+# Docerion header of web_bundle_browsertest_b2.wbn.mock-http-headers.
+type: test
+title: Mock HTTP headers for the web bundle browser test
+summary: Defines the HTTP response headers served for the web bundle browser test bundle, marking it as application/webbundle with nosniff protection.

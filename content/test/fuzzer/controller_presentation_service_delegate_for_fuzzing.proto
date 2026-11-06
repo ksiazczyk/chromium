@@ -5,6 +5,12 @@
 // Message format for `ControllerPresentationServiceDelegateForFuzzing`
 // An `Action` will run a callable
 
+// ---docerion
+// type: test
+// title: Controller presentation service delegate fuzzer action protobuf
+// summary: Defines protobuf Action messages that drive listener notifications and delegate callbacks on the presentation service delegate fake during fuzzing.
+// ---
+
 syntax = "proto2";
 
 package content.fuzzing.controller_presentation_service_delegate_for_fuzzing.proto;

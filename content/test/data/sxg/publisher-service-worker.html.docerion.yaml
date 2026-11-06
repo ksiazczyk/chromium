@@ -1,0 +1,4 @@
+# Docerion header of publisher-service-worker.html.
+type: test
+title: Publisher service worker registration test page
+summary: HTML test page that registers publisher-service-worker.js at the root scope and sets the document title to Done once installation completes.

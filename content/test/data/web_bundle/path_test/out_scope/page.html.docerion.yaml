@@ -1,0 +1,4 @@
+# Docerion header of page.html.
+type: test
+title: Out scope page for web bundle path test
+summary: Minimal HTML test fixture that defines page_info and loads page.js for the out scope case of the web bundle path test.

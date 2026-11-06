@@ -1,0 +1,4 @@
+# Docerion header of page.html.
+type: test
+title: In scope page HTML for web bundle path test
+summary: Test HTML page that defines the page_info variable and loads page.js for the in-scope web bundle path test case.

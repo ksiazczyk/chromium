@@ -4,6 +4,12 @@
 
 // Message format for the MojoLPM fuzzer for the DomStorage interface.
 
+// ---docerion
+// type: test
+// title: DOM Storage fuzzer action protobuf definitions
+// summary: Protobuf message format for the DOM Storage MojoLPM fuzzer, defining actions for storage areas, namespaces, clones, and thread synchronization.
+// ---
+
 syntax = "proto2";
 
 package content.fuzzing.dom_storage.proto;

@@ -1,0 +1,4 @@
+# Docerion header of test.example.org_test_download.sxg.mock-http-headers.
+type: test
+title: Mock HTTP headers for test.example.org SXG download
+summary: Mock HTTP response headers serving a signed exchange as a download attachment via Content-Disposition for the download test case.

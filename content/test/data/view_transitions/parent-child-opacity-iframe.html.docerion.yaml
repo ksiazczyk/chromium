@@ -1,0 +1,4 @@
+# Docerion header of parent-child-opacity-iframe.html.
+type: test
+title: Parent-child opacity view transition test in iframe
+summary: Test page embedding an iframe whose srcdoc contains semi-transparent green parent and child elements with view-transition names.

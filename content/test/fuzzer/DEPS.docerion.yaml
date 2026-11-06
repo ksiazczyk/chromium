@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the fuzzer directory
+summary: Defines allowed include paths for the content fuzzer tests, covering libprotobuf-mutator, origin trials and v8 snapshot buildflags.

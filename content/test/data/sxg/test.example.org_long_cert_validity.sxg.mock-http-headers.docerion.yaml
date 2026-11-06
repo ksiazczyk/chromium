@@ -1,0 +1,4 @@
+# Docerion header of test.example.org_long_cert_validity.sxg.mock-http-headers.
+type: test
+title: Mock HTTP headers for test.example.org long cert validity SXG
+summary: Mock HTTP response headers serving a signed exchange with the application/signed-exchange content type for the long certificate validity test case.

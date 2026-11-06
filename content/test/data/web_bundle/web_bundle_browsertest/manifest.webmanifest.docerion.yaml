@@ -1,0 +1,4 @@
+# Docerion header of manifest.webmanifest.
+type: test
+title: Web bundle test manifest
+summary: Web app manifest naming the test bundle for web_bundle_browsertest.cc and pointing to the test.example.org start URL.

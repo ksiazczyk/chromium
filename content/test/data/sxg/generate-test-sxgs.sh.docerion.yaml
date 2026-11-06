@@ -1,0 +1,4 @@
+# Docerion header of generate-test-sxgs.sh.
+type: script
+title: Signed exchange generation script
+summary: Shell script that uses WICG webpackage tools to build the CBOR certificate chains and signed exchange test files, including corrupted and compressed variants.

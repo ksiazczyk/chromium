@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Common Worker Test Handler Script
+// summary: Shared worker test script that counts clients and responds to ping, auth, close, eval, and TLS client auth import or fetch commands.
+// ---
+
 // Track the number of clients for this worker - tests can use this to ensure
 // that shared workers are actually shared, not distinct.
 var num_clients = 0;

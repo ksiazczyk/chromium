@@ -1,0 +1,4 @@
+# Docerion header of hello.txt.
+type: test
+title: Hello Web Bundles text fixture
+summary: Plain text fixture served by the web bundle browser test and fetched with range request headers by the test script.

@@ -1,0 +1,4 @@
+# Docerion header of script_web_bundle_uuid_in_package.html.
+type: test
+title: UUID-in-package Web Bundle script test page
+summary: HTML test page that maps uuid-in-package resources from uuid-in-package.wbn via a webbundle script tag and links one of them.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Build definitions for content component fuzzers
+summary: GN build file defining libFuzzer and MojoLPM fuzzer targets, fuzzer support sources and fuzzable proto libraries for content.

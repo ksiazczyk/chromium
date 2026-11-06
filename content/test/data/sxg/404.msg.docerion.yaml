@@ -1,0 +1,4 @@
+# Docerion header of 404.msg.
+type: data
+title: 404 not found message payload
+summary: Small test payload with the text "not found" used as the body of a 404 response in signed exchange tests.

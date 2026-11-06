@@ -1,0 +1,4 @@
+# Docerion header of no-respond-with-service-worker.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for no-respond-with-service-worker.js
+summary: Supplies the HTTP response headers with the JavaScript content type for the no-respond-with-service-worker script.

@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: test
+title: Web bundle browser test start page
+summary: Minimal HTML start page of the test bundle that loads the test utility script.
