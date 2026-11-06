@@ -1,0 +1,4 @@
+# Docerion header of android_policy_writer.py.
+type: source
+title: Android policy resource writer
+summary: Outputs localized Android resource XML files exposing policy captions, descriptions, and item lists as string resources for the App restriction Schema.

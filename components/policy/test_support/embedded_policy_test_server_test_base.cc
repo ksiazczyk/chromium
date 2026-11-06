@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EmbeddedPolicyTestServerTestBase implementation
+// summary: Implements a test fixture base that starts the embedded policy server and builds device management requests for handler tests.
+// ---
+
 #include "components/policy/test_support/embedded_policy_test_server_test_base.h"
 
 #include <optional>

@@ -1,0 +1,4 @@
+# Docerion header of android_policy_writer_unittest.py.
+type: test
+title: Unit tests for the Android policy writer
+summary: Tests that the Android policy writer produces correct string and string-array resources for policies with and without items.

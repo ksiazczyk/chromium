@@ -1,0 +1,4 @@
+# Docerion header of template_writer_unittest.py.
+type: test
+title: Unit tests for the template writer base class
+summary: Tests TemplateWriter behavior such as sorting policies groups-first, flattening groups and support checks for deprecated, cloud-only, internal and future policies.

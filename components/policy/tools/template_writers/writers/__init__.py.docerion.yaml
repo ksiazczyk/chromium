@@ -1,0 +1,4 @@
+# Docerion header of __init__.py.
+type: source
+title: Package initializer for the template writers
+summary: Marks the writers directory as a Python package for the Chromium policy template writer modules.

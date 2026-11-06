@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple request handler
+// summary: Implements a generic request handler that replies with a fixed device management response for a configured request type.
+// ---
+
 #include "components/policy/test_support/simple_request_handler.h"
 
 #include <utility>

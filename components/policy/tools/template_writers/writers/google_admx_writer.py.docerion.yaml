@@ -1,0 +1,4 @@
+# Docerion header of google_admx_writer.py.
+type: source
+title: Google ADMX writer
+summary: Writes a fixed google.admx policy definitions file with the Google.Policies namespace and Google category.

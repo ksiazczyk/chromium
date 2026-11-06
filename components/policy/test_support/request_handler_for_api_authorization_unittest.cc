@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: API authorization request handler unit tests
+// summary: Verifies the api_authorization handler returns the configured robot API auth code with an HTTP 200 response body.
+// ---
+
 #include "components/policy/test_support/request_handler_for_api_authorization.h"
 
 #include <utility>

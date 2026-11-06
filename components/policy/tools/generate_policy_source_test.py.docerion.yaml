@@ -1,0 +1,4 @@
+# Docerion header of generate_policy_source_test.py.
+type: test
+title: Unit tests for generate_policy_source
+summary: Verifies policy detail parsing, chunking and protobuf generation logic of generate_policy_source.py.

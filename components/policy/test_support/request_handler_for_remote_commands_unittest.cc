@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remote commands request handler unit tests
+// summary: Unit tests verifying remote command handling, including unmatched device IDs, acceptance of command results, and delivery of signed pending commands.
+// ---
+
 #include "components/policy/test_support/request_handler_for_remote_commands.h"
 
 #include <utility>

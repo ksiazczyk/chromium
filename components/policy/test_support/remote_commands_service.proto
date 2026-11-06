@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote commands service protocol definitions
+// summary: Defines protobuf messages and the RemoteCommandsService RPC interface for sending remote commands and waiting for their results or acknowledgements.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

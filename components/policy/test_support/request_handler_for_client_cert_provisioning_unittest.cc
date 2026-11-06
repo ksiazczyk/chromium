@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Client certificate provisioning request handler unit tests
+// summary: Unit tests verifying the handler returns successful start CSR, finish CSR, and download certificate responses for client certificate provisioning requests.
+// ---
+
 #include "components/policy/test_support/request_handler_for_client_cert_provisioning.h"
 
 #include "base/strings/string_view_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy request handler unit tests
+// summary: Unit tests for the policy request handler covering missing device tokens, unregistered clients, invalid or unauthorized policy types and successful policy fetches.
+// ---
+
 #include "components/policy/test_support/request_handler_for_policy.h"
 
 #include <utility>

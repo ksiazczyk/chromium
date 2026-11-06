@@ -1,0 +1,4 @@
+# Docerion header of admx_writer_unittest.py.
+type: test
+title: Unit tests for the ADMX writer
+summary: Verifies ADMX writer output such as namespaces, supported-on definitions, categories, and policy elements against expected XML.

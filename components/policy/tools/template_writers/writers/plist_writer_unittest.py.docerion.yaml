@@ -1,0 +1,4 @@
+# Docerion header of plist_writer_unittest.py.
+type: test
+title: Plist writer unit tests
+summary: Unit tests comparing the plist writer's XML manifest output against expected templates for empty, versioned, and main policy cases.

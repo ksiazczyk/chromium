@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy request handler implementation
+// summary: Implements the policy request handler that serves signed cloud, extension and extension-install policies for various policy types, with special handling for unicorn users.
+// ---
+
 #include "components/policy/test_support/request_handler_for_policy.h"
 
 #include "base/containers/flat_set.h"

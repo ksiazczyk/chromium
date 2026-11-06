@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate-based registration handler declarations
+// summary: Declares the request handler for the certificate_based_register request type, derived from the register device and user handler.
+// ---
+
 #ifndef COMPONENTS_POLICY_TEST_SUPPORT_REQUEST_HANDLER_FOR_REGISTER_CERT_BASED_H_
 #define COMPONENTS_POLICY_TEST_SUPPORT_REQUEST_HANDLER_FOR_REGISTER_CERT_BASED_H_
 

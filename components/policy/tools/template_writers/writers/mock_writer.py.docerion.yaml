@@ -1,0 +1,4 @@
+# Docerion header of mock_writer.py.
+type: test
+title: Mock writer for policy template tests
+summary: No-op template writer stub used as a helper in policy template generator unit tests.

@@ -1,0 +1,4 @@
+# Docerion header of PRESUBMIT.py.
+type: ci
+title: Presubmit script for template writers unit tests
+summary: Presubmit check that runs the template writers Python unit tests on change upload and commit.

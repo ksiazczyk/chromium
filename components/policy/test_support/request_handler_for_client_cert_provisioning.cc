@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client certificate provisioning request handler implementation
+// summary: Implements the client_cert_provisioning request handler for the embedded policy test server, returning fake CSR responses and issuing PEM-encoded client certificates.
+// ---
+
 #include "components/policy/test_support/request_handler_for_client_cert_provisioning.h"
 
 #include <stdint.h>

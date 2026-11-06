@@ -7,6 +7,12 @@
 # characters will negatively impact readability as the strings will no longer
 # look the same as the output files.
 
+# ---docerion
+# type: test
+# title: Expected output fixtures for policy source tests
+# summary: Holds expected generated protobuf and file contents used as test data by generate_policy_source_test.py.
+# ---
+
 EXPECTED_CLOUD_POLICY_PROTOBUF = '''
 syntax = "proto2";
 

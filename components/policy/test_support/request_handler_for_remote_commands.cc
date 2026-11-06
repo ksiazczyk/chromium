@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote commands request handler
+// summary: Implements the remote_commands request handler of the embedded policy test server, recording command results and returning signed pending commands to clients.
+// ---
+
 #include "components/policy/test_support/request_handler_for_remote_commands.h"
 
 #include "components/policy/core/common/cloud/cloud_policy_constants.h"

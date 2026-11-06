@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device state retrieval request handler implementation
+// summary: Implements the device_state_retrieval request handler, matching zero-touch enrollment state by brand code and serial number or restore mode by server-backed state key.
+// ---
+
 #include "components/policy/test_support/request_handler_for_device_state_retrieval.h"
 
 #include "base/strings/strcat.h"

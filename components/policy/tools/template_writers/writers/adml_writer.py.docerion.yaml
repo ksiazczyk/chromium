@@ -1,0 +1,4 @@
+# Docerion header of adml_writer.py.
+type: source
+title: ADML policy template writer
+summary: Generates the ADML string table and presentation table that supply captions, descriptions, and UI elements for ADMX policy templates.

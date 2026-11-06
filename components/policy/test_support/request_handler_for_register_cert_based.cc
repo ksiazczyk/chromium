@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate-based registration request handler
+// summary: Implements the certificate_based_register request handler that validates the enrollment certificate type and registers the device.
+// ---
+
 #include "components/policy/test_support/request_handler_for_register_cert_based.h"
 
 #include <set>

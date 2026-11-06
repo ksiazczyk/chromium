@@ -1,0 +1,4 @@
+# Docerion header of writer_configuration.py.
+type: source
+title: Writer configuration for Chromium and Chrome builds
+summary: Builds the writer configuration dictionary with app names, registry keys, namespaces and policy paths for Chromium and Google Chrome builds.

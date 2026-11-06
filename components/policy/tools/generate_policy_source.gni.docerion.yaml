@@ -1,0 +1,4 @@
+# Docerion header of generate_policy_source.gni.
+type: config
+title: GN template for generating policy source files
+summary: Defines a GN build template that invokes generate_policy_source.py to produce policy protos, constants and app restrictions.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Simple request handler unit tests
+// summary: Unit tests verifying that SimpleRequestHandler reports its request type and answers requests with HTTP 200 and the configured response payload.
+// ---
+
 #include "components/policy/test_support/simple_request_handler.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of make_policy_zip.py.
+type: script
+title: Policy template zip archive builder
+summary: Packs policy template files into a zip archive, expanding language placeholders and applying timestamps.

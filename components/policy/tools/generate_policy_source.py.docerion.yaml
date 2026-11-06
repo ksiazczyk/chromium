@@ -1,0 +1,4 @@
+# Docerion header of generate_policy_source.py.
+type: script
+title: Policy templates to proto and constants generator
+summary: Generates chrome settings and cloud policy protobufs, policy constants and Android app restrictions from policy_templates.json.

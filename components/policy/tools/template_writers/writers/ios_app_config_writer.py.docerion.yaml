@@ -1,0 +1,4 @@
+# Docerion header of ios_app_config_writer.py.
+type: source
+title: iOS app config writer
+summary: Generates managed app configuration XML files for iOS from policy definitions, including constraints and presentation fields.

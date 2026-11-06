@@ -1,0 +1,4 @@
+# Docerion header of policy_template_generator.py.
+type: source
+title: Policy template generator
+summary: Generates policy template text per platform by merging policy_templates.json data with GRD messages and emitting it through TemplateWriter objects.

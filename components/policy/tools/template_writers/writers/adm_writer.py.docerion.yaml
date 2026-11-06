@@ -1,0 +1,4 @@
+# Docerion header of adm_writer.py.
+type: source
+title: Windows ADM policy template writer
+summary: Generates Windows ADM format policy templates from policy definitions, mapping policy types to ADM input elements and writing supported-on and string sections.

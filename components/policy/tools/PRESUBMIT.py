@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for policy tools
+# summary: Runs the Python unit tests in this directory as presubmit checks on code upload and commit.
+# ---
+
 import os  # noqa: F401
 import sys  # noqa: F401
 

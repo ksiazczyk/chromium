@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Certificate-based registration handler unit tests
+// summary: Unit tests covering successful certificate-based device registration and rejection of invalid registration data.
+// ---
+
 #include "base/strings/strcat.h"
 #include "components/policy/test_support/request_handler_for_register_browser.h"
 

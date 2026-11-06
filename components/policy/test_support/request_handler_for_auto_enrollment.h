@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto-enrollment request handler header
+// summary: Declares the request handler that serves enterprise check auto-enrollment requests on the embedded policy test server.
+// ---
+
 #ifndef COMPONENTS_POLICY_TEST_SUPPORT_REQUEST_HANDLER_FOR_AUTO_ENROLLMENT_H_
 #define COMPONENTS_POLICY_TEST_SUPPORT_REQUEST_HANDLER_FOR_AUTO_ENROLLMENT_H_
 

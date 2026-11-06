@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Check Android management handler unit tests
+// summary: Unit tests for the check Android management request handler, covering success, conflict, and forbidden responses for different auth tokens.
+// ---
+
 #include "components/policy/test_support/request_handler_for_check_android_management.h"
 
 #include <utility>

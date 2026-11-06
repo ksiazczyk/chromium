@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device initial enrollment state request handler implementation
+// summary: Implements the initial enrollment state retrieval handler, returning the stored enrollment mode and management domain for a device's brand code and serial number.
+// ---
+
 #include "components/policy/test_support/request_handler_for_device_initial_enrollment_state.h"
 
 #include "components/policy/core/common/cloud/cloud_policy_constants.h"

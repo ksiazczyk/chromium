@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client certificate provisioning request handler header
+// summary: Declares the RequestHandlerForClientCertProvisioning class that handles client certificate provisioning requests in the embedded policy test server.
+// ---
+
 #ifndef COMPONENTS_POLICY_TEST_SUPPORT_REQUEST_HANDLER_FOR_CLIENT_CERT_PROVISIONING_H_
 #define COMPONENTS_POLICY_TEST_SUPPORT_REQUEST_HANDLER_FOR_CLIENT_CERT_PROVISIONING_H_
 

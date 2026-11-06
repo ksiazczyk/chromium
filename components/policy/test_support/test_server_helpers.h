@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test server helpers header
+// summary: Declares the custom HTTP response class and helper functions for parsing requests and building responses in the embedded policy test server.
+// ---
+
 #ifndef COMPONENTS_POLICY_TEST_SUPPORT_TEST_SERVER_HELPERS_H_
 #define COMPONENTS_POLICY_TEST_SUPPORT_TEST_SERVER_HELPERS_H_
 

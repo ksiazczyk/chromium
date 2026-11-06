@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test server helpers implementation
+// summary: Implements helpers for the embedded policy test server, including custom HTTP responses, URL query parsing, token extraction and server-side requirement checks.
+// ---
+
 #include "components/policy/test_support/test_server_helpers.h"
 
 #include <algorithm>

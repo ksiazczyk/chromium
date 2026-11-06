@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake device management server entry point
+// summary: Main entry point that parses command-line flags, initializes logging and runs the fake device management server until shutdown.
+// ---
+
 #include <string>
 #include <utility>
 

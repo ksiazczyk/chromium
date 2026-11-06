@@ -1,0 +1,4 @@
+# Docerion header of xml_writer_base_unittest.py.
+type: test
+title: Base class for XML writer unit tests
+summary: Offers shared helpers for XML writer tests to extract child node XML and assert equality of generated and expected XML output.

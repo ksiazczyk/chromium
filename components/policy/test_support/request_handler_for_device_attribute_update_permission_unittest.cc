@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device attribute update permission request handler unit tests
+// summary: Unit tests verifying the handler reports device attribute updates as allowed or disallowed according to the policy storage configuration.
+// ---
+
 #include "base/strings/strcat.h"
 #include "components/policy/core/common/cloud/cloud_policy_constants.h"
 #include "components/policy/test_support/client_storage.h"

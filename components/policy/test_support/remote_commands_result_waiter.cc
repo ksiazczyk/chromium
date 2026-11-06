@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote commands result waiter implementation
+// summary: Helper that blocks until a remote command result or acknowledgement becomes available in the remote commands state.
+// ---
+
 #include "components/policy/test_support/remote_commands_result_waiter.h"
 
 #include "base/run_loop.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device attribute update permission request handler header
+// summary: Declares the RequestHandlerForDeviceAttributeUpdatePermission class that serves device attribute update permission responses in the embedded policy test server.
+// ---
+
 #ifndef COMPONENTS_POLICY_TEST_SUPPORT_REQUEST_HANDLER_FOR_DEVICE_ATTRIBUTE_UPDATE_PERMISSION_H_
 #define COMPONENTS_POLICY_TEST_SUPPORT_REQUEST_HANDLER_FOR_DEVICE_ATTRIBUTE_UPDATE_PERMISSION_H_
 

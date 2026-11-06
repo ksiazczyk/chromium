@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: API authorization request handler implementation
+// summary: Implements the embedded policy test server handler that answers api_authorization requests with the stored robot API auth code.
+// ---
+
 #include "components/policy/test_support/request_handler_for_api_authorization.h"
 
 #include "components/policy/core/common/cloud/cloud_policy_constants.h"

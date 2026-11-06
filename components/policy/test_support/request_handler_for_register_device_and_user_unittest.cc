@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Register device and user handler unit tests
+// summary: Unit tests covering device and user registration, enrollment token checks, managed user allowlists, and PSM field validation.
+// ---
+
 #include "base/strings/strcat.h"
 #include "components/policy/test_support/request_handler_for_register_browser.h"
 

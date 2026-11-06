@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Register device and user request handler implementation
+// summary: Implements the register request handler that validates PSM execution fields and licenses, then registers devices and managed users with allowed policy types.
+// ---
+
 #include "components/policy/test_support/request_handler_for_register_device_and_user.h"
 
 #include <set>

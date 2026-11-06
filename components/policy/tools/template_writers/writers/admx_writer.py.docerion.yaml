@@ -1,0 +1,4 @@
+# Docerion header of admx_writer.py.
+type: source
+title: ADMX policy template writer
+summary: Generates ADMX policy definition files and defines the AdmxElementType mapping shared with the ADML writer to keep both outputs compatible.

@@ -1,0 +1,4 @@
+# Docerion header of adml_writer_unittest.py.
+type: test
+title: Unit tests for the ADML writer
+summary: Checks that the ADML writer emits the expected string table and presentation table XML for policy groups and policies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake device management server header
+// summary: Declares the FakeDMServer class and documents the policy.json format used to configure the fake cloud policy test server.
+// ---
+
 #ifndef COMPONENTS_POLICY_TEST_SUPPORT_FAKE_DMSERVER_H_
 #define COMPONENTS_POLICY_TEST_SUPPORT_FAKE_DMSERVER_H_
 

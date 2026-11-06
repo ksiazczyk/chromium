@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake device management server implementation
+// summary: Implements the FakeDMServer test server that serves cloud policies from a policy.json file for testing Chrome's device management client.
+// ---
+
 #include "components/policy/test_support/fake_dmserver.h"
 
 #include <iostream>

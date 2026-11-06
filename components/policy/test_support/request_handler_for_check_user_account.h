@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Check user account request handler header
+// summary: Declares the check user account request handler class with helpers for determining account type and enrollment nudge policy.
+// ---
+
 #ifndef COMPONENTS_POLICY_TEST_SUPPORT_REQUEST_HANDLER_FOR_CHECK_USER_ACCOUNT_H_
 #define COMPONENTS_POLICY_TEST_SUPPORT_REQUEST_HANDLER_FOR_CHECK_USER_ACCOUNT_H_
 

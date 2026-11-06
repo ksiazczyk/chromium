@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the policy tools folder
+summary: Points the policy tools directory to the shared component metadata defined in components/policy COMMON_METADATA.

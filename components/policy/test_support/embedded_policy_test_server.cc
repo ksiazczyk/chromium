@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EmbeddedPolicyTestServer implementation
+// summary: Implements the fake cloud policy server that dispatches device management requests to registered request handlers.
+// ---
+
 #include "components/policy/test_support/embedded_policy_test_server.h"
 
 #include <memory>

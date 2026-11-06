@@ -1,0 +1,4 @@
+# Docerion header of plist_helper.py.
+type: source
+title: Plist writer shared helper
+summary: Shared helper for the plist and plist strings writers, converting policy names into plist manifest friendly names.

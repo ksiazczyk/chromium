@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for policy test support
+summary: Defines the test_support static library with its sources, dependencies, and platform-conditional targets for the policy test server.

@@ -1,0 +1,4 @@
+# Docerion header of template_formatter.py.
+type: script
+title: Policy template formatter for template and doc outputs
+summary: Applies template writers to translated policy_templates.json files to emit admx, adml, reg, doc, json, plist and other policy template outputs.

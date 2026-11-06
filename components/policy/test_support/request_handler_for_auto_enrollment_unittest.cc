@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Auto enrollment request handler unit tests
+// summary: Unit tests for the auto enrollment request handler of the embedded policy test server, covering forced enrollment, mismatching remainders, and re-enrollment responses.
+// ---
+
 #include "base/strings/strcat.h"
 #include "components/policy/core/common/cloud/cloud_policy_constants.h"
 #include "components/policy/test_support/client_storage.h"

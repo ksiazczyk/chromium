@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Embedded policy test server test base
+// summary: Test fixture base class providing helpers to build device management requests and inspect responses from the embedded policy test server.
+// ---
+
 #ifndef COMPONENTS_POLICY_TEST_SUPPORT_EMBEDDED_POLICY_TEST_SERVER_TEST_BASE_H_
 #define COMPONENTS_POLICY_TEST_SUPPORT_EMBEDDED_POLICY_TEST_SERVER_TEST_BASE_H_
 

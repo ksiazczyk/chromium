@@ -1,0 +1,4 @@
+# Docerion header of template_formatter.pydeps.
+type: config
+title: Python dependency list for template_formatter
+summary: Generated list of Python module dependencies for template_formatter.py used for build-time dependency checking.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signature provider unit tests
+// summary: Unit tests verifying signing key lookup by version, domain signature checks, and RSA SHA-1 and SHA-256 signing and verification.
+// ---
+
 #include "components/policy/test_support/signature_provider.h"
 
 #include <utility>

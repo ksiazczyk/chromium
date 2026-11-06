@@ -1,0 +1,4 @@
+# Docerion header of reg_writer_unittest.py.
+type: test
+title: Unit tests for the Windows Registry policy writer
+summary: Tests the RegWriter output for Windows Registry policy templates, covering empty policy lists, version headers and main, recommended and string policy types.

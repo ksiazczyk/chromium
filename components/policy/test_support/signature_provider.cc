@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signature provider implementation
+// summary: Implements predefined test signing keys and signing of policy and verification data for the embedded policy test server.
+// ---
+
 #include "components/policy/test_support/signature_provider.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple request handler header
+// summary: Declares SimpleRequestHandler, an embedded policy test server handler that returns a fixed device management response for every request of one type.
+// ---
+
 #ifndef COMPONENTS_POLICY_TEST_SUPPORT_SIMPLE_REQUEST_HANDLER_H_
 #define COMPONENTS_POLICY_TEST_SUPPORT_SIMPLE_REQUEST_HANDLER_H_
 

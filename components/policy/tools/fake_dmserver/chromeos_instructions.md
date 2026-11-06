@@ -1,3 +1,12 @@
+---
+type: guide
+title: ChromeOS Local Policy Testing Instructions
+summary: Step-by-step guide for applying local policies to a ChromeOS test device with fake_dmserver, covering device setup, automated orchestrator usage, and a manual workflow.
+relations:
+  - documents /components/policy/tools/fake_dmserver/orchestrator.py
+  - documents /components/policy/tools/fake_dmserver/blob_generator.py
+---
+
 # ChromeOS Local Policy Testing Tools
 
 This document describes the tools and workflows for applying local policies to a

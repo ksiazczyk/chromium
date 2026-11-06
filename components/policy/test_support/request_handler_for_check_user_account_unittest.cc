@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Check user account handler unit tests
+// summary: Unit tests for the check user account request handler, covering Dasher and consumer accounts and enrollment nudge responses.
+// ---
+
 #include "components/policy/core/common/cloud/cloud_policy_constants.h"
 #include "components/policy/test_support/embedded_policy_test_server_test_base.h"
 #include "components/policy/test_support/policy_storage.h"

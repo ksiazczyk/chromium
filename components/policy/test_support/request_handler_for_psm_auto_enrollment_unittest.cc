@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PSM auto enrollment request handler unit tests
+// summary: Unit tests verifying the PSM auto enrollment request handler against regression test data for OPRF and query requests, including bad-request cases.
+// ---
+
 #include "components/policy/test_support/request_handler_for_psm_auto_enrollment.h"
 
 #include "components/policy/core/common/cloud/cloud_policy_constants.h"
