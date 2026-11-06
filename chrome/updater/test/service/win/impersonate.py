@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: User impersonation helpers
+# summary: Helpers to run commands as the logged-on standard user on a given window station and desktop, capturing child process stdout and stderr.
+# ---
+
 import logging
 import os
 import threading

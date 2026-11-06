@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit test utility implementation
+// summary: Implements unit test helpers for process management, logging setup, test policy services, and custom test result logging.
+// ---
+
 #include "chrome/updater/test/unit_test_util.h"
 
 #include <stddef.h>

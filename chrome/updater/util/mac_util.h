@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS updater utility declarations
+// summary: Declares macOS helpers for Application Support directories, Keystone and ksadmin paths, launchd wake jobs, quarantine removal, and plist reading.
+// ---
+
 #ifndef CHROME_UPDATER_UTIL_MAC_UTIL_H_
 #define CHROME_UPDATER_UTIL_MAC_UTIL_H_
 

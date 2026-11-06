@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: General utility implementations for the Chrome updater
+// summary: Implements general updater helpers for install directories, executable and cache paths, temp directories, crash database paths, and tag argument parsing.
+// ---
+
 #include "chrome/updater/util/util.h"
 
 #include <stddef.h>

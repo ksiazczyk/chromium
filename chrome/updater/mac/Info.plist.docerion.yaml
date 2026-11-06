@@ -1,0 +1,4 @@
+# Docerion header of Info.plist.
+type: config
+title: Info.plist template for the macOS updater bundle
+summary: macOS property list template defining bundle identifier, executable, icon, and minimum system version with build-time substitutions.

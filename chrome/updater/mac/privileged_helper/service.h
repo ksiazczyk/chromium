@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privileged helper service header
+// summary: Declares the PrivilegedHelperService, its XPC delegate, and functions to install the updater and verify its code signature.
+// ---
+
 #ifndef CHROME_UPDATER_MAC_PRIVILEGED_HELPER_SERVICE_H_
 #define CHROME_UPDATER_MAC_PRIVILEGED_HELPER_SERVICE_H_
 

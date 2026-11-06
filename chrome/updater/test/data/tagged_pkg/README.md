@@ -1,3 +1,13 @@
+---
+type: readme
+title: Tagged PKG Test Fixtures
+summary: Documents the tagged PKG test fixtures used by PkgTagTest and integration tests, describing each fixture variant and the steps to recreate them with pkgbuild and tag_exe.
+relations:
+  - documents /chrome/updater/test/data/tagged_pkg/sample_no_notarization_trailer_untagged.pkg
+  - documents /chrome/updater/test/data/tagged_pkg/sample_no_notarization_trailer_empty_tag.pkg
+  - documents /chrome/updater/test/data/tagged_pkg/sample_no_notarization_trailer_brand_tagged.pkg
+---
+
 # Tagged PKG Test Fixtures
 
 This directory contains test PKG files used by `PkgTagTest` in

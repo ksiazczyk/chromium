@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Qualification app GN build definition
+summary: GN build file that defines the qualification_app executable target and its Windows version resource template.

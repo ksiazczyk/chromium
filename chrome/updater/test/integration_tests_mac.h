@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: macOS integration test declarations
+// summary: Declares macOS integration test helpers for CRURegistration behaviors such as ksadmin lookup, tag fetching, registration, and update checks.
+// ---
+
 #ifndef CHROME_UPDATER_TEST_INTEGRATION_TESTS_MAC_H_
 #define CHROME_UPDATER_TEST_INTEGRATION_TESTS_MAC_H_
 

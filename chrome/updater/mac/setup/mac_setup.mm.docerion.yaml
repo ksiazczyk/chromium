@@ -1,0 +1,4 @@
+# Docerion header of mac_setup.mm.
+type: source
+title: Mac updater setup implementation
+summary: Implements macOS updater setup steps including copying the app bundle, setting permissions, and bootstrapping launchd plists.

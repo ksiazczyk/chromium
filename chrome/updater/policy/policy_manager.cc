@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory policy manager implementation for the updater
+// summary: Implements PolicyManager, which serves updater policies such as update check periods, proxy settings, package cache limits, and per-app install and update rules from an in-memory dictionary.
+// ---
+
 #include "chrome/updater/policy/policy_manager.h"
 
 #include <stddef.h>

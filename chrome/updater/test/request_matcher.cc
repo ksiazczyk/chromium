@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Request matchers for updater tests
+// summary: Implements matchers that validate HTTP requests in updater tests, checking paths, headers, user agents, and target URLs against expected regexes.
+// ---
+
 #include "chrome/updater/test/request_matcher.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of CRURegistration.h.in.
+type: source
+title: CRURegistration.h.in public header template with branding placeholders
+summary: Template for the public CRURegistration Objective-C API, with brand-specific constants interpolated during the build.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Integration tests implementation header
+// summary: Declares shared integration test interfaces for the updater, including AppUpdateExpectation, setup executable paths, and test process helpers.
+// ---
+
 #ifndef CHROME_UPDATER_TEST_INTEGRATION_TESTS_IMPL_H_
 #define CHROME_UPDATER_TEST_INTEGRATION_TESTS_IMPL_H_
 

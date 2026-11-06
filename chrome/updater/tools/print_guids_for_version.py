@@ -1,6 +1,13 @@
 # Copyright 2023 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Print COM GUIDs for an updater version
+# summary: Python script that prints the generated COM IIDs, CLSIDs, and LIBIDs for a given updater version, kept in sync with the Windows server BUILD.gn.
+# ---
+
 """A script that prints the generated IIDs/CLSIDs/LIBIDs for the COM interfaces,
 classes, and libraries.
 

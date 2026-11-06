@@ -1,0 +1,4 @@
+# Docerion header of ks_tickets_unittest.mm.
+type: test
+title: Keystone ticket decoding unit tests
+summary: Unit tests that decode a Keystone ticket store and verify ticket descriptions for Google products.

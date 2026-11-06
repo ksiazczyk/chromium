@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows WinHTTP network fetcher for the updater
+// summary: Implements the updater's network fetcher on Windows using WinHTTP, with proxy configuration from policy and network connectivity cost hints.
+// ---
+
 #include "components/winhttp/network_fetcher.h"
 
 #include <windows.h>

@@ -1,0 +1,4 @@
+# Docerion header of build_props_config.py.in.
+type: source
+title: Build properties code sign config template
+summary: Template for a code sign config class that GN fills in with branding, bundle ID, version and team ID properties for the updater.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fetcher callback adapter implementation
+// summary: Implements Mojo PostRequestObserver and FileDownloadObserver classes that bridge updater fetcher IPC events to update_client network callbacks.
+// ---
+
 #include "chrome/updater/net/fetcher_callback_adapter.h"
 
 #include <stdint.h>

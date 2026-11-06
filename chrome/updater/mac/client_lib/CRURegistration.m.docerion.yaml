@@ -1,0 +1,4 @@
+# Docerion header of CRURegistration.m.
+type: source
+title: CRURegistration implementation wrapping the Chromium updater tools
+summary: Implements the CRURegistration library that runs updater command-line tools asynchronously and reports results and errors to callers.

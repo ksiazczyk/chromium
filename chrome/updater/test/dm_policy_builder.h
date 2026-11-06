@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DM policy builder test declarations
+// summary: Declares test DM signing key and policy response builder classes for constructing device management responses in tests.
+// ---
+
 #ifndef CHROME_UPDATER_TEST_DM_POLICY_BUILDER_H_
 #define CHROME_UPDATER_TEST_DM_POLICY_BUILDER_H_
 

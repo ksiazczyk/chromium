@@ -1,0 +1,4 @@
+# Docerion header of chunk_queue_unittest.mm.
+type: test
+title: Unit tests for ChunkQueue
+summary: Unit tests covering push, full, partial, blocked, and error consumption paths of ChunkQueue using a multi-range NSData test helper.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux updater utility implementations
+// summary: Provides Linux-specific updater helpers for launcher paths, a legacy migration stub, and the bundled enterprise companion executable path.
+// ---
+
 #include "chrome/updater/util/linux_util.h"
 
 #include <optional>

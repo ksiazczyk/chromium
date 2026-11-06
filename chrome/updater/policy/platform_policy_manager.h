@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform policy manager factory declaration
+// summary: Declares the CreatePlatformPolicyManager factory, which creates Group Policy on Windows or Managed Preferences on macOS.
+// ---
+
 #ifndef CHROME_UPDATER_POLICY_PLATFORM_POLICY_MANAGER_H_
 #define CHROME_UPDATER_POLICY_PLATFORM_POLICY_MANAGER_H_
 

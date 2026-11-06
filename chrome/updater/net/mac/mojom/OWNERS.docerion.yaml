@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for updater Mac mojom files
+summary: Sets per-file review ownership so that changes to *.mojom files require approval from the IPC security owners.

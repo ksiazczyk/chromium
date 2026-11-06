@@ -1,0 +1,4 @@
+# Docerion header of keystone_ticketstore_tool.mm.
+type: source
+title: Keystone ticket store tool for macOS
+summary: Command-line tool that reads a Keystone ticket store and converts a plist ticket store into the Keystone ticket store format on macOS.

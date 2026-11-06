@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for updater network fetching
+// summary: Tests the updater's network fetchers against an embedded test server, checking POST responses, custom headers, and file download results.
+// ---
+
 #include "chrome/updater/net/network.h"
 
 #include <stdint.h>

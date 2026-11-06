@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privileged helper server class header
+// summary: Declares the PrivilegedHelperServer app class that hosts the XPC service, tracks running tasks, and uninstalls the helper.
+// ---
+
 #ifndef CHROME_UPDATER_MAC_PRIVILEGED_HELPER_SERVER_H_
 #define CHROME_UPDATER_MAC_PRIVILEGED_HELPER_SERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privileged helper XPC service protocol
+// summary: Defines the XPC protocol exposing setupSystemUpdaterWithBrowserPath for communication between the browser and the privileged helper.
+// ---
+
 #ifndef CHROME_UPDATER_MAC_PRIVILEGED_HELPER_SERVICE_PROTOCOL_H_
 #define CHROME_UPDATER_MAC_PRIVILEGED_HELPER_SERVICE_PROTOCOL_H_
 

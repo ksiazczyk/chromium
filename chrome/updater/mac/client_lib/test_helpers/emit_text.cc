@@ -24,6 +24,12 @@
 // behaviors when a launched process returns nonzero. (Other errors might
 // change if this helper needs more features for some reason.)
 
+// ---docerion
+// type: source
+// title: emit_text test helper for printing text to output streams
+// summary: Command-line test helper that repeatedly prints a configurable string to stdout, stderr, or both, returning ERANGE on invalid counts so tests can exercise nonzero exits.
+// ---
+
 #include <errno.h>
 #include <stdint.h>
 

@@ -1,0 +1,4 @@
+# Docerion header of keystone_unittest.mm.
+type: test
+title: Keystone setup unit tests
+summary: Unit tests verifying legacy plist creation and migration of apps from a test Keystone ticket store.

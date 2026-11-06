@@ -1,0 +1,4 @@
+# Docerion header of test_app2_setup.cmd.
+type: test
+title: Test app 2 setup batch script
+summary: Batch setup script that writes the app pv version value into the Windows registry via reg.exe for updater tests.

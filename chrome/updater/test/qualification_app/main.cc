@@ -9,6 +9,12 @@
 // with the proper environment variables or arguments. It must not mutate the
 // state of the system, except possibly in a side-by-side manner.
 
+// ---docerion
+// type: test
+// title: Updater qualification app entry point
+// summary: Do-nothing installer app embedded in an update CRX to qualify the updater without mutating system state.
+// ---
+
 #include "build/build_config.h"
 
 #if BUILDFLAG(IS_WIN)

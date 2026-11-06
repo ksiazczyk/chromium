@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for POSIX directory copy utilities
+// summary: Unit tests verifying that CopyDir copies directories including symlinks and applies correct file permissions.
+// ---
+
 #include "chrome/updater/util/posix_util.h"
 
 #include <sys/stat.h>

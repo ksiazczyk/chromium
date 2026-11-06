@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChunkQueue header for updater network data chunk queue
+// summary: Declares ChunkQueue, a single-sequence queue of NSData chunks consumed slice-by-slice through Mojo write callbacks without copying data.
+// ---
+
 #ifndef CHROME_UPDATER_NET_CHUNK_QUEUE_H_
 #define CHROME_UPDATER_NET_CHUNK_QUEUE_H_
 

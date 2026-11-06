@@ -1,0 +1,4 @@
+# Docerion header of TestSystemMsiInstaller.wxs.
+type: test
+title: WiX definition for the test system MSI installer
+summary: WiX installer definition that builds a test MSI registering Chromium updater client version and ClientState values such as InstallerResult, InstallerError, and launch command.

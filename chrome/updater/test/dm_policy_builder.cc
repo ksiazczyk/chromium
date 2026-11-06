@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DM policy builder implementation for updater tests
+// summary: Implements builders for signed device management policy responses and test signing keys used in updater tests.
+// ---
+
 #include "chrome/updater/test/dm_policy_builder.h"
 
 #include <stdint.h>

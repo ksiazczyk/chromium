@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DMPolicyManager class declaration
+// summary: Declares the DMPolicyManager class plus factory and helper functions that supply device management policies from DM storage to the updater.
+// ---
+
 #ifndef CHROME_UPDATER_POLICY_DM_POLICY_MANAGER_H_
 #define CHROME_UPDATER_POLICY_DM_POLICY_MANAGER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of service.mm.
+type: source
+title: Privileged helper service implementation
+summary: Implements the XPC service and delegate that validate connecting browser processes and set up the system updater with signature verification.

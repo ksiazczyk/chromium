@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the updater policy service
+// summary: Tests PolicyService manager ordering, conflict detection, and policy resolution using fake policy managers, with platform-specific setup for Windows and macOS.
+// ---
+
 #include "chrome/updater/policy/service.h"
 
 #include <stddef.h>

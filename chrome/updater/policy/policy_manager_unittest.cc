@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the dictionary-based policy manager
+// summary: Verifies PolicyManager behavior for empty, invalid, and populated policy dictionaries, including per-app policies, target channels, and force-install apps.
+// ---
+
 #include "chrome/updater/policy/policy_manager.h"
 
 #include <memory>

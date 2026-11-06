@@ -1,0 +1,4 @@
+# Docerion header of main.mm.
+type: source
+title: Privileged helper main entry point
+summary: Entry point that initializes Chromium base threading and task pools, then runs the privileged helper server instance.

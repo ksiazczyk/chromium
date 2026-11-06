@@ -1,0 +1,4 @@
+# Docerion header of enterprise_companion_install_script.sh.in.
+type: test
+title: MacOS enterprise companion test install script template
+summary: Bash install script template included in the macOS enterprise companion test CRX to launch the product application.

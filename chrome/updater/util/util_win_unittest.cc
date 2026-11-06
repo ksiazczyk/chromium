@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows unit tests for legacy command line parsing
+// summary: Windows unit tests verifying parsing of legacy-format command lines into switches and tag arguments.
+// ---
+
 #include "chrome/updater/util/util.h"
 
 #include <stddef.h>

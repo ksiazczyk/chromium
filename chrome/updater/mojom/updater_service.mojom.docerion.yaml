@@ -1,0 +1,4 @@
+# Docerion header of updater_service.mojom.
+type: source
+title: Updater service Mojom interface definitions
+summary: Defines stable Mojom structs and interfaces used by clients to register applications with the Chromium updater and observe update state changes.

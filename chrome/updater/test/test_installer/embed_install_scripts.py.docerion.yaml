@@ -1,0 +1,4 @@
+# Docerion header of embed_install_scripts.py.
+type: script
+title: Embed setup scripts into the test installer
+summary: Embeds batch, PowerShell, or Python setup scripts as SCRIPT resources in the test installer executable using resedit.

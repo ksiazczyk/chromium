@@ -1,0 +1,4 @@
+# Docerion header of test_app1_setup.py.
+type: test
+title: Test app 1 setup script
+summary: Example Python setup script that writes the app pv version value into the Windows registry for updater tests.

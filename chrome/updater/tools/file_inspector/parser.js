@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Binary file parser and hex dump renderer
+// summary: Parses selected binary files into a JSON structure with a hex dump and insight findings, including support for Zucchini patch files.
+// ---
+
 // render a hex dump of the file, plus structural insights about its contents
 export function render(data, type, hexdump, json, insights) {
   let hoverSet = {};

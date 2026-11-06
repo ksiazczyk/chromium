@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: UAC status and prompt handling helpers
+# summary: Helpers that query Windows UAC policy settings and accept or deny upcoming UAC prompts by sending keys to the dialog.
+# ---
+
 import logging
 import sys
 

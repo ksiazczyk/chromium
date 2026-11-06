@@ -5,6 +5,12 @@
 // CRURegistration-Private contains declarations of CRURegistration
 // implementation details that need unit testing.
 
+// ---docerion
+// type: source
+// title: CRURegistration private header with internal task and error declarations
+// summary: Declares internal error codes, task result callbacks, and the CRUAsyncTaskRunner used by the CRURegistration implementation and its unit tests.
+// ---
+
 #ifndef CHROME_UPDATER_MAC_CLIENT_LIB_CRUREGISTRATION_PRIVATE_H_
 #define CHROME_UPDATER_MAC_CLIENT_LIB_CRUREGISTRATION_PRIVATE_H_
 

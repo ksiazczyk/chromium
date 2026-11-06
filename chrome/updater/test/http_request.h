@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test HTTP request helper declarations
+// summary: Declares a test HTTP request wrapper with decoded content and a helper for printable request content.
+// ---
+
 #ifndef CHROME_UPDATER_TEST_HTTP_REQUEST_H_
 #define CHROME_UPDATER_TEST_HTTP_REQUEST_H_
 

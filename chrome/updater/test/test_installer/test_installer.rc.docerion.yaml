@@ -1,0 +1,4 @@
+# Docerion header of test_installer.rc.
+type: source
+title: Test installer resource script
+summary: Windows resource script for the updater test installer that provides a placeholder where install scripts are embedded.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Request matcher helpers for updater tests
+// summary: Declares matchers that verify HTTP request paths, headers, user agent, content, scope, priority, and multipart forms in updater tests.
+// ---
+
 #ifndef CHROME_UPDATER_TEST_REQUEST_MATCHER_H_
 #define CHROME_UPDATER_TEST_REQUEST_MATCHER_H_
 

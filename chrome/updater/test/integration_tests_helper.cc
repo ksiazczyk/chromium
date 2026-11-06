@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Integration tests helper
+// summary: Helper that drives updater integration tests from command line switches, wiring test commands to callbacks and launching the unit test suite.
+// ---
+
 #include <iostream>
 #include <map>
 #include <optional>

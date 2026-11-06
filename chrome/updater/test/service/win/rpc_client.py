@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Updater test service XML-RPC client
+# summary: XML-RPC client that forwards commands such as RunAsSystem, RunAsStandardUser, and UAC answering to the updater test service on localhost port 9090.
+# ---
+
 import logging
 import os
 import socket

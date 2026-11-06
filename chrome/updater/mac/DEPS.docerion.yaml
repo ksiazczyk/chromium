@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for OCMock
+summary: Grants test and mock sources permission to include third_party/ocmock headers in the macOS updater directory.

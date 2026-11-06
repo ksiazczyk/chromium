@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ksadmin unit tests
+// summary: Unit tests covering ksadmin exit codes, version output, command-line parsing, and registration behavior.
+// ---
+
 #include "chrome/updater/mac/keystone/ksadmin.h"
 
 #include <stddef.h>

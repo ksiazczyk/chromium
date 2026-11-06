@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit test utility tests
+// summary: Unit tests verifying the process listing, waiting, and killing helpers provided by the unit test utilities.
+// ---
+
 #include "chrome/updater/test/unit_test_util.h"
 
 #include <optional>

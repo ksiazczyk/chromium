@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux libcurl network fetcher for the updater
+// summary: Implements the updater's network fetcher on Linux using libcurl, handling POST requests and file downloads with policy-based proxy configuration.
+// ---
+
 #include <curl/curl.h>
 #include <curl/system.h>
 #include <dlfcn.h>

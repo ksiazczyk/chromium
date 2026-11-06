@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FallbackNetFetcher implementation
+// summary: Implements a network fetcher that retries post requests and file downloads with a secondary fetcher on network errors or non-200 responses.
+// ---
+
 #include "chrome/updater/net/fallback_net_fetcher.h"
 
 #include <stdint.h>

@@ -1,0 +1,4 @@
+# Docerion header of integration_tests_mac.mm.
+type: test
+title: macOS integration tests
+summary: Implements macOS integration test helpers, including CRURegistration checks, Keystone and install directory cleanup, and active-state verification.

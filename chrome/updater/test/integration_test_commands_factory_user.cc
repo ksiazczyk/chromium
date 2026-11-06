@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User-scope integration test commands factory
+// summary: Factory that returns user-scope integration test commands for the updater.
+// ---
+
 #include "base/memory/scoped_refptr.h"
 #include "chrome/updater/test/integration_test_commands.h"
 

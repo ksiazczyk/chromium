@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keystone agent main implementation
+// summary: Implements the Keystone agent app that parses legacy command-line switches and drives app updates through system and user updater service proxies.
+// ---
+
 #include <unistd.h>
 
 #include <algorithm>

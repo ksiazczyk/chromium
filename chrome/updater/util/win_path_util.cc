@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows install directory path utilities
+// summary: Implements GetInstallDirectory for Windows, resolving the updater install directory under Program Files or Local App Data based on install scope.
+// ---
+
 #include <optional>
 
 #include "base/base_paths.h"

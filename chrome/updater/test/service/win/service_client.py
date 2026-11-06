@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: test
+# title: Updater test service client CLI
+# summary: Command-line client that calls a named function from rpc_client with JSON arguments against an already installed updater test service.
+# ---
+
 """Calls a function defined in rpc_client.py, which will forward the request
 to the test service.
 

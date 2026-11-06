@@ -1,0 +1,4 @@
+# Docerion header of keystone.mm.
+type: source
+title: Keystone setup implementation
+summary: Implements Keystone bundle installation, legacy plist creation, uninstallation, and migration of Keystone apps including counting metrics reading.

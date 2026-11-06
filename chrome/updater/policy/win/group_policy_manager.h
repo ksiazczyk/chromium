@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GroupPolicyManager class declaration
+// summary: Declares the GroupPolicyManager class, which supplies policies for domain-joined machines as part of the updater's policy manager interface.
+// ---
+
 #ifndef CHROME_UPDATER_POLICY_WIN_GROUP_POLICY_MANAGER_H_
 #define CHROME_UPDATER_POLICY_WIN_GROUP_POLICY_MANAGER_H_
 

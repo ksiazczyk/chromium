@@ -1,0 +1,4 @@
+# Docerion header of managed_preference_policy_manager.mm.
+type: source
+title: Mac managed preference policy manager
+summary: Implements the updater's PolicyManagerInterface on macOS by wrapping the Objective-C managed preferences policy manager and exposing device, global, and per-app update policies.

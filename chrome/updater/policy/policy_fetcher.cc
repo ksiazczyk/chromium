@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Out-of-process policy fetcher implementation
+// summary: Implements a policy fetcher that launches the enterprise companion app and delegates policy fetching to it over a Mojo connection.
+// ---
+
 #include "chrome/updater/policy/policy_fetcher.h"
 
 #include <memory>

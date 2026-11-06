@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX updater setup and uninstall declarations
+// summary: Declares updater functions for POSIX that install the candidate updater, create launchd plists and jobs, promote the candidate to active, and uninstall versions.
+// ---
+
 #ifndef CHROME_UPDATER_POSIX_SETUP_H_
 #define CHROME_UPDATER_POSIX_SETUP_H_
 

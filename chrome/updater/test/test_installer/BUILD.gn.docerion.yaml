@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Updater test installer build targets
+summary: Defines GN targets that build the test meta-installer, app installers, MSI installers, and CRX packages used by updater tests.

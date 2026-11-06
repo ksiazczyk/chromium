@@ -1,0 +1,4 @@
+# Docerion header of postinstall.in.
+type: script
+title: PKG postinstall script template
+summary: Template for the PKG postinstall script that runs the updater install step and removes the temporarily staged app bundle.

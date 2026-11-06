@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the updater PolicyService and PolicyStatus
+// summary: Declares PolicyService and the PolicyStatus template that records effective, conflicting, and all policy values from different sources for reporting.
+// ---
+
 #ifndef CHROME_UPDATER_POLICY_SERVICE_H_
 #define CHROME_UPDATER_POLICY_SERVICE_H_
 

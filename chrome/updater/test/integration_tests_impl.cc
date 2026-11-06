@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Integration tests implementation
+// summary: Implements shared updater integration test logic, including install, update, verification, and cleanup steps used across platforms.
+// ---
+
 #include "chrome/updater/test/integration_tests_impl.h"
 
 #include <stdint.h>

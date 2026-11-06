@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: General utility declarations for the Chrome updater
+// summary: Declares general updater helpers including versioned install directories, executable paths, crash database paths, and tag argument accessors.
+// ---
+
 #ifndef CHROME_UPDATER_UTIL_UTIL_H_
 #define CHROME_UPDATER_UTIL_UTIL_H_
 

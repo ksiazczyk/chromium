@@ -1,0 +1,4 @@
+# Docerion header of install_from_archive.mm.
+type: source
+title: macOS archive installation implementation
+summary: Objective-C++ implementation that mounts DMGs, expands zips, validates permissions, and runs the install executable for updater updates.

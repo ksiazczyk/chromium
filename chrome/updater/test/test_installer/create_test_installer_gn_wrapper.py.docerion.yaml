@@ -1,0 +1,4 @@
+# Docerion header of create_test_installer_gn_wrapper.py.
+type: script
+title: GN wrapper for embed_install_scripts.py
+summary: Runs embed_install_scripts.py under vpython3 so GN can invoke it with the native Python interpreter.

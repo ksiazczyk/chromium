@@ -5,6 +5,12 @@
 // Logging for the Chrome Updater. This file is intended to be shared between
 // client and server repositories.
 
+// ---docerion
+// type: source
+// title: Omaha usage stats event proto definitions
+// summary: Proto3 definitions for Chrome Updater usage stats logging, covering network event metrics and client metadata intended to be shared between client and server repositories.
+// ---
+
 syntax="proto3";
 option optimize_for = LITE_RUNTIME;
 

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Windows UI automation helpers
+# summary: Win32 helpers to find windows by title or text, bring them to the foreground, and send keystrokes for UI automation in tests.
+# ---
+
 import logging
 import time
 

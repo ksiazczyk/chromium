@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for Mac updater signing
+summary: Defines GN targets that generate the build properties config and postinstall script and copy the signing sources into the updater packaging directory.

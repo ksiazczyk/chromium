@@ -1,0 +1,4 @@
+# Docerion header of test_app_setup.sh.
+type: test
+title: Test app setup shell script
+summary: Installs or uninstalls a mock app by writing an app.json file to platform-specific install paths on macOS and Linux.

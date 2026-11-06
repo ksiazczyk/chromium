@@ -1,0 +1,4 @@
+# Docerion header of create_test_msi_installer.py.
+type: script
+title: Test MSI installer builder
+summary: Builds a test MSI installer from the WiX template using candle and light with configurable product name, version, and app ID.

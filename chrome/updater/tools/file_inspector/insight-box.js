@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Insight box custom element
+// summary: Defines the insight-box custom element that renders parser findings as a tree and highlights the corresponding bytes when hovering.
+// ---
+
 import { ByteSpan, hover } from "./parser.js";
 
 customElements.define("insight-box", class extends HTMLElement {

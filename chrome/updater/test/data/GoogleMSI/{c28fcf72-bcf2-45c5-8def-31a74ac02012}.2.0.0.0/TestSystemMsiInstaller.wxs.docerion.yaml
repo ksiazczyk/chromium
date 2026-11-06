@@ -1,0 +1,4 @@
+# Docerion header of TestSystemMsiInstaller.wxs.
+type: test
+title: WiX source for the test system MSI installer
+summary: WiX source that defines the test system MSI installer, registering updater client version and installer result values in the Windows registry for Chrome updater tests.

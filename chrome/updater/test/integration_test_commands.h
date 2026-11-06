@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Integration test commands interface
+// summary: Defines the interface of commands for updater integration tests, covering install, policy setup, and server expectations.
+// ---
+
 #ifndef CHROME_UPDATER_TEST_INTEGRATION_TEST_COMMANDS_H_
 #define CHROME_UPDATER_TEST_INTEGRATION_TEST_COMMANDS_H_
 

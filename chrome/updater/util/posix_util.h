@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX utility declarations for the Chrome updater
+// summary: Declares POSIX helper functions for deleting folders, copying directories with symlinks, and locating the update service launcher.
+// ---
+
 #ifndef CHROME_UPDATER_UTIL_POSIX_UTIL_H_
 #define CHROME_UPDATER_UTIL_POSIX_UTIL_H_
 

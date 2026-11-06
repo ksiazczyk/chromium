@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the updater tools
+summary: Defines GN build targets for the updater tools, including the tag executable, the macOS Keystone ticket store tool, and the updater util executable.
