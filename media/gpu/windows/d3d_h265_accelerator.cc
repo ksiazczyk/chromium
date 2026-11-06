@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D H265 accelerator implementation
+// summary: Implements the DXVA HEVC accelerator, including range extension and screen content coding picture parameter handling.
+// ---
+
 #include "media/gpu/windows/d3d_h265_accelerator.h"
 
 #include <algorithm>

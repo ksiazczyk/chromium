@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared VASurface wrapper implementation
+// summary: Implements the SharedVASurface wrapper that manages VA surfaces, fetches image data, and supports PNG export and MD5 sums.
+// ---
+
 #include "media/gpu/vaapi/test/shared_va_surface.h"
 
 #include "base/compiler_specific.h"

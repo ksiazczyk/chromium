@@ -1,0 +1,4 @@
+# Docerion header of va.sigs.
+type: config
+title: Libva function signatures
+summary: Lists the libva functions used in Chromium code as signatures for generating dynamic loading stubs.

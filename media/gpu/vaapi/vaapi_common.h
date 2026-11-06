@@ -1,6 +1,13 @@
 // Copyright 2018 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: VA-API picture class declarations
+// summary: Declares VA-API-specific picture classes for H264, H265, VP8, VP9 and AV1 that augment codec pictures with VA surface handles for hardware decoding.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_VAAPI_COMMON_H_
 #define MEDIA_GPU_VAAPI_VAAPI_COMMON_H_
 

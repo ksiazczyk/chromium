@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D11 copying texture wrapper implementation
+// summary: Implements CopyingTexture2DWrapper, which uses the D3D11 video processor to copy and color-convert decoded textures, including an NVIDIA BT.2020 workaround.
+// ---
+
 #include "media/gpu/windows/d3d11_copying_texture_wrapper.h"
 
 #include <d3d11.h>

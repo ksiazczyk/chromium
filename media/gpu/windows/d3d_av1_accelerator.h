@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D AV1 accelerator
+// summary: Declares the D3D11-based AV1 decode accelerator that creates AV1 pictures and submits frames to DXVA hardware decoding.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_D3D_AV1_ACCELERATOR_H_
 #define MEDIA_GPU_WINDOWS_D3D_AV1_ACCELERATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VP9 VA-API video encoder delegate header
+// summary: Declares the VP9VaapiVideoEncoderDelegate class and a VP9 rate control wrapper used for VA-API based VP9 encoding.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_VP9_VAAPI_VIDEO_ENCODER_DELEGATE_H_
 #define MEDIA_GPU_VAAPI_VP9_VAAPI_VIDEO_ENCODER_DELEGATE_H_
 

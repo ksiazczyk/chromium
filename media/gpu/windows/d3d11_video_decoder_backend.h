@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D11 video decoder backend declaration
+// summary: Declares D3D11VideoDecoderBackend, the D3D11 resource implementation of D3DVideoDecoderBackend that creates decoder configurators, texture selectors, wrappers, and picture buffers.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_D3D11_VIDEO_DECODER_BACKEND_H_
 #define MEDIA_GPU_WINDOWS_D3D11_VIDEO_DECODER_BACKEND_H_
 

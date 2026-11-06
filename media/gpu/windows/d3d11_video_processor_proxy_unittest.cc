@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: D3D11 video processor proxy unit tests
+// summary: Unit tests using D3D11 mocks to verify the video processor proxy passes arguments through to the video device and video context.
+// ---
+
 #include "media/gpu/windows/d3d11_video_processor_proxy.h"
 
 #include <random>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AV1 Va-API video decoder delegate implementation
+// summary: Implements the AV1 Va-API decoder delegate that fills VA parameter buffers and submits AV1 decode jobs, including segmentation and film grain data.
+// ---
+
 #include "media/gpu/vaapi/av1_vaapi_video_decoder_delegate.h"
 
 #include <string.h>

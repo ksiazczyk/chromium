@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VaapiImageProcessorBackend implementation
+// summary: Implements the VA-API image processor backend that validates port configurations and converts video frames between mappable shared image and DMABuf storage.
+// ---
+
 #include "media/gpu/vaapi/vaapi_image_processor_backend.h"
 
 #include <stdint.h>

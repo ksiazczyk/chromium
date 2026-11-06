@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3DVideoDecoderWrapper interface
+// summary: Declares the abstract D3DVideoDecoderWrapper interface for acquiring decode input buffers and submitting slices and frames to D3D decoders.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_D3D_VIDEO_DECODER_WRAPPER_H_
 #define MEDIA_GPU_WINDOWS_D3D_VIDEO_DECODER_WRAPPER_H_
 

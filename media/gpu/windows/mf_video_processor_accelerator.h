@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation video processor accelerator interface
+// summary: Declares a wrapper around Media Foundation's video processor supporting GPU color space conversion and resize, outputting IMFSample for the video encoder.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_MF_VIDEO_PROCESSOR_ACCELERATOR_H_
 #define MEDIA_GPU_WINDOWS_MF_VIDEO_PROCESSOR_ACCELERATOR_H_
 

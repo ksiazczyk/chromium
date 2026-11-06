@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D video decoder implementation
+// summary: Implements D3DVideoDecoder, the Windows hardware video decoder that drives D3D11/D3D12 backends, accelerators, and picture buffer output.
+// ---
+
 #include "media/gpu/windows/d3d_video_decoder.h"
 
 #include <memory>

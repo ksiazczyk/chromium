@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VaapiImageDecoder class
+// summary: Declares the base class and status codes for format-specific hardware-accelerated image decoders, such as JPEG, built on VA-API.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_VAAPI_IMAGE_DECODER_H_
 #define MEDIA_GPU_VAAPI_VAAPI_IMAGE_DECODER_H_
 

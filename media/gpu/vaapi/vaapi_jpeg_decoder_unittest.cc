@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VaapiJpegDecoder unit tests
+// summary: Unit tests verifying VA-API JPEG decoding for YUV 4:2:0, 4:2:2, and 4:4:4 images, odd dimensions, and unsupported files against software reference decoding.
+// ---
+
 #include "media/gpu/vaapi/vaapi_jpeg_decoder.h"
 
 #include <stddef.h>

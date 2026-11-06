@@ -1,0 +1,4 @@
+# Docerion header of va_drm.sigs.
+type: config
+title: Libva DRM function signatures
+summary: Declares the libva-drm display function used to generate stubs for VA-API DRM display handling.

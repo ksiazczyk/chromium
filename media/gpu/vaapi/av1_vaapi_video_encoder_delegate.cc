@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AV1 Va-API video encoder delegate implementation
+// summary: Implements the AV1 Va-API encoder delegate, handling libaom rate control, OBU submission, CDEF parameters and AV1 level limits.
+// ---
+
 #include "media/gpu/vaapi/av1_vaapi_video_encoder_delegate.h"
 
 #include <array>

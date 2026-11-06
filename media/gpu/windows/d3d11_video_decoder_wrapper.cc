@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D11 video decoder wrapper implementation
+// summary: Implements D3D11VideoDecoderWrapper, translating buffer types and driving ID3D11VideoDecoder API calls such as DecoderBeginFrame for hardware-accelerated video decoding.
+// ---
+
 #include "media/gpu/windows/d3d11_video_decoder_wrapper.h"
 
 #include <d3d9.h>

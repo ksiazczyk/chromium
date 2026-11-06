@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D11 video decoder wrapper declaration
+// summary: Declares D3D11VideoDecoderWrapper, a wrapper class for API calls around ID3D11VideoDecoder with a Create factory method.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_D3D11_VIDEO_DECODER_WRAPPER_H_
 #define MEDIA_GPU_WINDOWS_D3D11_VIDEO_DECODER_WRAPPER_H_
 

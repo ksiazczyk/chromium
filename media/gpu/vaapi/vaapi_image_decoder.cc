@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VaapiImageDecoder implementation
+// summary: Implements the base VA-API image decoder that decodes encoded images into a VA surface and exports the result as a NativePixmapDmaBuf.
+// ---
+
 #include "media/gpu/vaapi/vaapi_image_decoder.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeBuffer class declaration
+// summary: Declares the FakeBuffer class used to track a VABuffer's ID, context, type, and data within the fake VA-API driver.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_TEST_FAKE_LIBVA_DRIVER_FAKE_BUFFER_H_
 #define MEDIA_GPU_VAAPI_TEST_FAKE_LIBVA_DRIVER_FAKE_BUFFER_H_
 

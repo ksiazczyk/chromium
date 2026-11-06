@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H.265 picture and DPB declarations
+// summary: Declares the H265Picture type and the H265 decoded picture buffer used to track reference and output pictures per the H.265 spec.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_TEST_H265_DPB_H_
 #define MEDIA_GPU_VAAPI_TEST_H265_DPB_H_
 

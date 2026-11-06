@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D11 video processor proxy class declaration
+// summary: Declares a ref-counted wrapper around ID3D11VideoProcessor for initialization, color space setup, and input/output view creation.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_D3D11_VIDEO_PROCESSOR_PROXY_H_
 #define MEDIA_GPU_WINDOWS_D3D11_VIDEO_PROCESSOR_PROXY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation video encode accelerator for Windows implementation
+// summary: Implements the Windows Media Foundation video encode accelerator, configuring MFT encoders, rate control, temporal layers and key frame handling for H264, VP9 and AV1.
+// ---
+
 #include "media/gpu/windows/media_foundation_video_encode_accelerator_win.h"
 
 #include <objbase.h>

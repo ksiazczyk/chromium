@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: H264 VAAPI wrapper class declaration
+// summary: Declares H264VaapiWrapper, which submits frame metadata, slices and decode commands to VAAPI for the H.264 test decoder.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_TEST_H264_VAAPI_WRAPPER_H_
 #define MEDIA_GPU_VAAPI_TEST_H264_VAAPI_WRAPPER_H_
 

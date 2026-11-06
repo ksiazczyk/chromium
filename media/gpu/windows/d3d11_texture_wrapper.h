@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D11 texture wrapper interface
+// summary: Declares Texture2DWrapper and DefaultTexture2DWrapper, which wrap D3D11 decoder output textures into GL/shared image resources for Windows hardware video decoding.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_D3D11_TEXTURE_WRAPPER_H_
 #define MEDIA_GPU_WINDOWS_D3D11_TEXTURE_WRAPPER_H_
 

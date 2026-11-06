@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoOpContextDelegate class header
+// summary: Declares NoOpContextDelegate, a do-nothing ContextDelegate intended as a fake for unit testing purposes.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_TEST_FAKE_LIBVA_DRIVER_NO_OP_CONTEXT_DELEGATE_H_
 #define MEDIA_GPU_VAAPI_TEST_FAKE_LIBVA_DRIVER_NO_OP_CONTEXT_DELEGATE_H_
 

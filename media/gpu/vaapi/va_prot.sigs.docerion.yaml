@@ -1,0 +1,4 @@
+# Docerion header of va_prot.sigs.
+type: config
+title: Libva protected content function signatures
+summary: Lists the libva protected content functions used in Chromium for generating protected session stubs.

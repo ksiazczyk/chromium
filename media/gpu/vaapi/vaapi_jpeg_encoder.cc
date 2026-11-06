@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VaapiJpegEncoder implementation
+// summary: Implements the low-level VA-API JPEG encoder, filling picture, quantization, and Huffman parameter buffers for the libva baseline JPEG encode path.
+// ---
+
 #include "media/gpu/vaapi/vaapi_jpeg_encoder.h"
 
 #include <stddef.h>

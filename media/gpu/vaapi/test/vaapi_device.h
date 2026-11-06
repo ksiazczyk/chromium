@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VAAPI device RAII wrapper header
+// summary: Declares the VaapiDevice class that manages the VADisplay lifetime from vaGetDisplayDRM to vaTerminate.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_TEST_VAAPI_DEVICE_H_
 #define MEDIA_GPU_VAAPI_TEST_VAAPI_DEVICE_H_
 

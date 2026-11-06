@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D12 video decode task implementation
+// summary: Implements D3D12VideoDecoderTask, which manages buffers, command allocator, and fence state for submitted D3D12 video decode tasks.
+// ---
+
 #include "media/gpu/windows/d3d12_video_decode_task.h"
 
 #include "base/task/thread_pool.h"

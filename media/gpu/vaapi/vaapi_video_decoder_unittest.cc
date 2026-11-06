@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VA-API video decoder unit tests
+// summary: ChromeOS-only unit tests for VaapiVideoDecoder using mocked VaapiWrapper, clients and CDM contexts.
+// ---
+
 #include "media/gpu/vaapi/vaapi_video_decoder.h"
 
 #include "base/memory/weak_ptr.h"

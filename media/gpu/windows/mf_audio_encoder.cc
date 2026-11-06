@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation AAC audio encoder implementation
+// summary: Implements the Media Foundation AAC audio encoder, converting PCM audio into AAC with ADTS headers on Windows with supported bitrates and sample rates.
+// ---
+
 #include "media/gpu/windows/mf_audio_encoder.h"
 
 #include <codecapi.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VA-API JPEG decoder fuzzer test
+// summary: Fuzzer test that converts protobuf inputs into JpegParseResult structures to drive VaapiJpegDecoder internals and exercise VA-API JPEG decoding on real devices with instrumented drivers.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 #include <string.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AV1 decoder implementation for VAAPI test decoding
+// summary: Implements the Av1Decoder that decodes AV1 IVF streams through direct libva calls, mapping libgav1 data such as segmentation and film grain into VA structures.
+// ---
+
 #include "media/gpu/vaapi/test/av1_decoder.h"
 
 #include <va/va.h>

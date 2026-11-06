@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D video decoder wrapper implementation
+// summary: Implements D3DVideoDecoderWrapper buffer handling for picture parameters, quantization matrices, slice control, and bitstream submission.
+// ---
+
 #include "media/gpu/windows/d3d_video_decoder_wrapper.h"
 
 #include <dxva.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeConfig implementation
+// summary: Implements the FakeConfig class that stores a VA-API configuration's ID, profile, entrypoint, and attribute list.
+// ---
+
 #include "media/gpu/vaapi/test/fake_libva_driver/fake_config.h"
 
 #include <utility>

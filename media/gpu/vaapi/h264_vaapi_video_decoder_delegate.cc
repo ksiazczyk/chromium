@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H.264 Va-API video decoder delegate implementation
+// summary: Implements the H.264 Va-API decoder delegate that submits slices and picture metadata to Va-API, with ChromeOS encrypted slice header support.
+// ---
+
 #include "media/gpu/vaapi/h264_vaapi_video_decoder_delegate.h"
 
 #include <va/va.h>

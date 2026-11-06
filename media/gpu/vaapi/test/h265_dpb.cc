@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H.265 decoded picture buffer implementation
+// summary: Implements H265Picture and the H265 DPB that stores decoded pictures and manages reference marking, lookup and output.
+// ---
+
 #include "media/gpu/vaapi/test/h265_dpb.h"
 
 #include <algorithm>

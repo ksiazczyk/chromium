@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeBuffer implementation
+// summary: Implements the FakeBuffer class that tracks VA-API buffers and safely copies data received through the VA-API C interface.
+// ---
+
 #include "media/gpu/vaapi/test/fake_libva_driver/fake_buffer.h"
 
 #include <string.h>

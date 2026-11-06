@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: H264 decoder implementation for VAAPI test decoding
+// summary: Implements H264Decoder, which parses H.264 streams and drives VAAPI to decode frames, including picture setup and reference picture handling.
+// ---
+
 #include "media/gpu/vaapi/test/h264_decoder.h"
 
 #include <va/va.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H.264 Va-API video encoder delegate implementation
+// summary: Implements the H.264 Va-API encoder delegate with rate control, SPS/PPS and slice header generation, and temporal layer support.
+// ---
+
 #include "media/gpu/vaapi/h264_vaapi_video_encoder_delegate.h"
 
 #include <va/va.h>

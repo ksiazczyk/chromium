@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D12 video encoder wrapper implementation
+// summary: Implements the D3D12VideoEncoderWrapper, which initializes encoder resources, performs encode commands, resolves output metadata and reads back encoded bitstreams.
+// ---
+
 #include "media/gpu/windows/d3d12_video_encoder_wrapper.h"
 
 #include "base/notreached.h"

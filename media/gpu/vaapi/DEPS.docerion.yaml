@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Va-API directory include rules
+summary: Defines extra include rules permitting dependencies on the ChromeOS cdm_factory_daemon and libva protected content headers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeDriver class header for the fake VA-API driver
+// summary: Declares FakeDriver, which tracks all VA-API state between vaInitialize and vaTerminate via thread-safe ObjectTracker members for each object type.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_TEST_FAKE_LIBVA_DRIVER_FAKE_DRIVER_H_
 #define MEDIA_GPU_VAAPI_TEST_FAKE_LIBVA_DRIVER_FAKE_DRIVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedVAContext implementation
+// summary: Implements ScopedVAContext, which creates a VAContext for a config and picture size via vaCreateContext and destroys it on scope exit.
+// ---
+
 #include "media/gpu/vaapi/test/scoped_va_context.h"
 
 #include "media/gpu/vaapi/test/macros.h"

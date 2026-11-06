@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Vaapi test utilities
+// summary: Declares test helpers to convert decoded images between formats and compare hardware and software decode results using SSIM.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_TEST_UTILS_H_
 #define MEDIA_GPU_VAAPI_TEST_UTILS_H_
 

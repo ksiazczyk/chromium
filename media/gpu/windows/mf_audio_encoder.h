@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation AAC audio encoder interface
+// summary: Declares MFAudioEncoder, an AudioEncoder that encodes PCM audio to AAC via the Media Foundation AAC encoder and runs asynchronously on a COM-initialized sequence.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_MF_AUDIO_ENCODER_H_
 #define MEDIA_GPU_WINDOWS_MF_AUDIO_ENCODER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: D3DDecoderConfigurator unit tests
+// summary: Unit tests verifying decoder GUIDs and output formats for VP9 and AV1 profiles plus D3D11 device profile support checks.
+// ---
+
 #include <utility>
 
 #include "media/base/media_util.h"

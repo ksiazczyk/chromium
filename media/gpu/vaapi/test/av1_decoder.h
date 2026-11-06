@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AV1 decoder class declaration
+// summary: Declares Av1Decoder, a VideoDecoder that decodes AV1-encoded IVF streams using direct libva calls and manages reference and display surfaces.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_TEST_AV1_DECODER_H_
 #define MEDIA_GPU_VAAPI_TEST_AV1_DECODER_H_
 

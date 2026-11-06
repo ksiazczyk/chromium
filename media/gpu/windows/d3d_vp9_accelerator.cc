@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D VP9 decode accelerator implementation
+// summary: Implements the D3D VP9 decode accelerator, copying frame, reference, loop filter, quantization and segmentation parameters into DXVA picture params and submitting decode buffers.
+// ---
+
 #include "media/gpu/windows/d3d_vp9_accelerator.h"
 
 #include <string>

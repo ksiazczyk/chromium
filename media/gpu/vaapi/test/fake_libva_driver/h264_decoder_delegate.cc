@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H264 decoder delegate implementation
+// summary: Implements software H.264 decoding for the fake driver, including an Annex B bitstream builder and openh264-based decoding into fake surfaces.
+// ---
+
 #include "media/gpu/vaapi/test/fake_libva_driver/h264_decoder_delegate.h"
 
 #include "base/bits.h"

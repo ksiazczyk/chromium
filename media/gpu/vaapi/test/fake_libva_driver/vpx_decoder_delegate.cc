@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VPX decoder delegate implementation
+// summary: Implements VP8/VP9 software decoding with libvpx, converting decoded I420 frames to NV12 in the render target's mapped buffer.
+// ---
+
 
 #include "media/gpu/vaapi/test/fake_libva_driver/vpx_decoder_delegate.h"
 

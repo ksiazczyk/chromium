@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VaapiDmaBufVideoFrameMapper class
+// summary: Declares a VideoFrameMapper that uses VaapiWrapper to access the memory of DMABuf-backed video frames.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_VAAPI_DMABUF_VIDEO_FRAME_MAPPER_H_
 #define MEDIA_GPU_VAAPI_VAAPI_DMABUF_VIDEO_FRAME_MAPPER_H_
 

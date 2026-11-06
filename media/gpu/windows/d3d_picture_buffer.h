@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D picture buffer
+// summary: Declares ref-counted picture buffers that tie Chrome textures to the D3D11 or D3D12 resources backing decoded output.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_D3D_PICTURE_BUFFER_H_
 #define MEDIA_GPU_WINDOWS_D3D_PICTURE_BUFFER_H_
 

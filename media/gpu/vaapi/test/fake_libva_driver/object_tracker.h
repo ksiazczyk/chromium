@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ObjectTracker template header
+// summary: Defines a thread-safe, lock-protected template that creates, looks up and destroys ID-tagged objects on behalf of FakeDriver.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_TEST_FAKE_LIBVA_DRIVER_OBJECT_TRACKER_H_
 #define MEDIA_GPU_VAAPI_TEST_FAKE_LIBVA_DRIVER_OBJECT_TRACKER_H_
 

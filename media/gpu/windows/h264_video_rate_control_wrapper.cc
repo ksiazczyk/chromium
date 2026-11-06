@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H264 video rate control wrapper implementation
+// summary: Implements H264 template specializations of the video rate control wrapper, converting rate control and frame parameters for the H264 RTC rate controller.
+// ---
+
 
 #include "media/gpu/windows/h264_video_rate_control_wrapper.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VP9 test decoder implementation
+// summary: Decodes VP9-encoded IVF streams with direct libva calls, mapping profiles to VA formats and refreshing reference slots.
+// ---
+
 #include "media/gpu/vaapi/test/vp9_decoder.h"
 
 #include <va/va.h>

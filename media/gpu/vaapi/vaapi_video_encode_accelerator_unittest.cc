@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VaapiVideoEncodeAccelerator unit tests
+// summary: Unit tests for the VA-API video encode accelerator, covering VP9 and SVC encoding configurations, spatial layers and encode behavior with mocks.
+// ---
+
 #include "media/gpu/vaapi/vaapi_video_encode_accelerator.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VA-API image decoder test fixture declaration
+// summary: Declares a parameterized gtest fixture shared by VA-API image decoder tests, with test data path resolution.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_VAAPI_IMAGE_DECODER_TEST_COMMON_H_
 #define MEDIA_GPU_VAAPI_VAAPI_IMAGE_DECODER_TEST_COMMON_H_
 

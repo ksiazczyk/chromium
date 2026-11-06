@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Vaapi test utilities implementation
+// summary: Implements VA-API test helpers, including Tile4 detiling, native pixmap conversion, and image comparison support for hardware decode tests.
+// ---
+
 #include "media/gpu/vaapi/test_utils.h"
 
 #include <sys/mman.h>

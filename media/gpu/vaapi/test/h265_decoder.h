@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H.265 decoder for the VA-API test binary
+// summary: Declares H265Decoder, which decodes HEVC bitstreams through direct libva calls as part of the VA-API decoder test binary.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_TEST_H265_DECODER_H_
 #define MEDIA_GPU_VAAPI_TEST_H265_DECODER_H_
 

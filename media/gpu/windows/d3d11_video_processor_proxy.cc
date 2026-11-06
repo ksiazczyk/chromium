@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D11 video processor proxy implementation
+// summary: Implements VideoProcessorProxy, which creates D3D11 video processors and input/output views, disables auto stream processing, and collects debug messages in debug builds.
+// ---
+
 #include "media/gpu/windows/d3d11_video_processor_proxy.h"
 
 #include "base/check_op.h"

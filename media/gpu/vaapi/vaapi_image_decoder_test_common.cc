@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VA-API image decoder test fixture implementation
+// summary: Implements a shared gtest fixture for VA-API image decoder tests, initializing the decoder and locating test data files.
+// ---
+
 #include "media/gpu/vaapi/vaapi_image_decoder_test_common.h"
 
 #include "base/command_line.h"

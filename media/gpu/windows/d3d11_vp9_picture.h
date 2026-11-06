@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D11 VP9 picture class declaration
+// summary: Declares a VP9Picture subclass that holds a D3D picture buffer, decoder client, and picture index.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_D3D11_VP9_PICTURE_H_
 #define MEDIA_GPU_WINDOWS_D3D11_VP9_PICTURE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VaapiWrapper implementation
+// summary: Implements VaapiWrapper, the interface to the libva library for hardware video decode and encode, including display state, surfaces and buffer handling.
+// ---
+
 #include "media/gpu/vaapi/vaapi_wrapper.h"
 
 #include <dlfcn.h>

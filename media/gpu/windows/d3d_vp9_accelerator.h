@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D VP9 decode accelerator interface
+// summary: Declares D3DVP9Accelerator, the VP9Decoder accelerator that submits VP9 pictures for hardware decoding through the D3D video decoder client.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_D3D_VP9_ACCELERATOR_H_
 #define MEDIA_GPU_WINDOWS_D3D_VP9_ACCELERATOR_H_
 

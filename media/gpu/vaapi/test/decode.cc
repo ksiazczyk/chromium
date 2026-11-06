@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: decode_test tool entry point
+// summary: Entry point of the decode_test binary that decodes IVF videos with a chosen codec via thinly wrapped libva calls, with command-line options for frames, output and logging.
+// ---
+
 #include <va/va.h>
 
 #include <fstream>

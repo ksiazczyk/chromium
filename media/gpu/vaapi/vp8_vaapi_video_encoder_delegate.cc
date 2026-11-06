@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VP8 VA-API video encoder delegate implementation
+// summary: Implements VP8 video encoding through VA-API, including libvpx-based rate control, quantization parameters, and temporal layer support.
+// ---
+
 #include "media/gpu/vaapi/vp8_vaapi_video_encoder_delegate.h"
 
 #include <va/va.h>

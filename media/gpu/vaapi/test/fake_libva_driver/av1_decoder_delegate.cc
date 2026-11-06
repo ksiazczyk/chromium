@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AV1 decoder delegate implementation
+// summary: Implements AV1 software decoding with libdav1d for the fake VA-API driver, converting decoded I420 output to NV12 via libyuv.
+// ---
+
 
 #include "media/gpu/vaapi/test/fake_libva_driver/av1_decoder_delegate.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VA-API video decoder delegate class
+// summary: Declares the common VA-API accelerator delegate handling wrapper resets and protected sessions.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_VAAPI_VIDEO_DECODER_DELEGATE_H_
 #define MEDIA_GPU_VAAPI_VAAPI_VIDEO_DECODER_DELEGATE_H_
 

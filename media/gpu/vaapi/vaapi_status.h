@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VA-API status codes
+// summary: Defines the VaapiStatusCode enum and the VaapiStatus typed status used to report VA-API errors.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_VAAPI_STATUS_H_
 #define MEDIA_GPU_VAAPI_VAAPI_STATUS_H_
 

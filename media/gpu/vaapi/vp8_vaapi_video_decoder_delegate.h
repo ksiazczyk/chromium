@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VP8 VA-API video decoder delegate declaration
+// summary: Declares the VP8 decoder accelerator that submits VP8 picture, slice and probability buffers to VA-API for hardware decoding.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_VP8_VAAPI_VIDEO_DECODER_DELEGATE_H_
 #define MEDIA_GPU_VAAPI_VP8_VAAPI_VIDEO_DECODER_DELEGATE_H_
 

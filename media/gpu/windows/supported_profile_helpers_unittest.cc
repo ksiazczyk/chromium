@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Supported profile helpers unit tests
+// summary: Unit tests using D3D11 mocks to verify profile and resolution support detection across GPU vendors, decoder GUIDs, and feature flags.
+// ---
+
 #include "media/gpu/windows/supported_profile_helpers.h"
 
 #include <initguid.h>

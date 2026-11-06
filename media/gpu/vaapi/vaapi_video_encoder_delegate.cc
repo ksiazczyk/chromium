@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VaapiVideoEncoderDelegate implementation
+// summary: Implements the base VA-API encoder delegate, defining EncodeJob and EncodeResult and the generic encode flow that prepares and executes encode jobs.
+// ---
+
 #include "media/gpu/vaapi/vaapi_video_encoder_delegate.h"
 
 #include <va/va.h>

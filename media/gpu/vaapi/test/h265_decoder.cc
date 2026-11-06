@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: H265 decoder implementation for VAAPI test decoding
+// summary: Implements H265Decoder, which parses HEVC NALUs, validates profile bit depths and decodes frames through the VAAPI wrapper.
+// ---
+
 #include "media/gpu/vaapi/test/h265_decoder.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake libva driver entry points and capability table
+// summary: Implements the VA-API driver entry points backed by FakeDriver and defines the supported profiles, entrypoints, attributes and image format capabilities.
+// ---
+
 #include <stdbool.h>
 #include <va/va.h>
 #include <va/va_backend.h>

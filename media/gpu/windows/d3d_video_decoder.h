@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3DVideoDecoder class declaration
+// summary: Declares the D3DVideoDecoder VideoDecoder and D3DVideoDecoderClient implementation used for D3D-based video decoding on Windows.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_D3D_VIDEO_DECODER_H_
 #define MEDIA_GPU_WINDOWS_D3D_VIDEO_DECODER_H_
 

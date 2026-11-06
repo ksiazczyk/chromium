@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the fake libva driver
+summary: Defines GN targets for the fake GBM library, the fake_drv_video shared library, its internals source set, and the fake_libva_driver_unittest test.

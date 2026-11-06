@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H.265 VA-API wrapper implementation
+// summary: Implements H265VaapiWrapper, which fills HEVC picture parameters and submits slice and decode buffers to the VA-API hardware decoder.
+// ---
+
 #include "media/gpu/vaapi/test/h265_vaapi_wrapper.h"
 
 #include <va/va.h>

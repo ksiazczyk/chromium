@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protobuf input definition for the VA-API JPEG decoder fuzzer
+// summary: Defines protobuf messages mirroring media::JpegParseResult, covering JPEG frame, scan, Huffman and quantization tables plus VART formats, for libprotobuf-mutator fuzzing input.
+// ---
+
 syntax = "proto2";
 package media.fuzzing;
 

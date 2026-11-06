@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VaapiJpegEncoder
+// summary: Declares the VA-API JPEG encoder that plugs hardware acceleration into the JpegEncodeAccelerator framework using client-managed VA surfaces and buffers.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_VAAPI_JPEG_ENCODER_H_
 #define MEDIA_GPU_VAAPI_VAAPI_JPEG_ENCODER_H_
 

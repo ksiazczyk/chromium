@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DXGI format utilities interface
+// summary: Declares DXGI format utility functions for plane counts, bit depths, format conversion and encoder color space mapping used by the Windows GPU media code.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_FORMAT_UTILS_H_
 #define MEDIA_GPU_WINDOWS_FORMAT_UTILS_H_
 

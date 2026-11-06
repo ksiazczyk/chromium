@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VaapiJpegEncodeAccelerator implementation
+// summary: Implements the JPEG encode accelerator that performs VA-API encoding tasks on a dedicated encoder thread, supporting shared-memory and DMA-buf requests with UMA reporting.
+// ---
+
 #include "media/gpu/vaapi/vaapi_jpeg_encode_accelerator.h"
 
 #include <stddef.h>

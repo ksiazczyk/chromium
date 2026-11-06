@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D12 fence class declaration
+// summary: Declares a ref-counted ID3D12Fence wrapper that tracks the last signaled fence value and offers signal and wait helpers.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_D3D12_FENCE_H_
 #define MEDIA_GPU_WINDOWS_D3D12_FENCE_H_
 

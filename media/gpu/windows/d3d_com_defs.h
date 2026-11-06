@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D COM type aliases
+// summary: Defines ComPtr type aliases for D3D11, D3D12, DXGI and Media Foundation COM interfaces used by the Windows GPU video code.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_D3D_COM_DEFS_H_
 #define MEDIA_GPU_WINDOWS_D3D_COM_DEFS_H_
 

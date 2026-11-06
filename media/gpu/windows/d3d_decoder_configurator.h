@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D decoder configurator
+// summary: Declares a helper that centralizes decoder GUID support checks and configuration of the decoder output texture.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_D3D_DECODER_CONFIGURATOR_H_
 #define MEDIA_GPU_WINDOWS_D3D_DECODER_CONFIGURATOR_H_
 

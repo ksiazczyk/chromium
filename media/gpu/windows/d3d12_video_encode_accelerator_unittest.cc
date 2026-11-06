@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: D3D12 video encode accelerator unit tests
+// summary: Unit tests for the D3D12 video encode accelerator using mock encoder delegates, mock clients, and D3D12 mocks.
+// ---
+
 #include "media/gpu/windows/d3d12_video_encode_accelerator.h"
 
 #include "base/functional/callback_helpers.h"

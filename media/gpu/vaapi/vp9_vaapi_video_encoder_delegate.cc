@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VP9 VA-API video encoder delegate implementation
+// summary: Implements VP9 video encoding through VA-API with libvpx rate control, SVC layer support, and quantization handling.
+// ---
+
 #include "media/gpu/vaapi/vp9_vaapi_video_encoder_delegate.h"
 
 #include <va/va.h>

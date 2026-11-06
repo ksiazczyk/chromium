@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H265 Vaapi video decoder delegate
+// summary: Declares the H265 Vaapi video decoder delegate that implements the H265Decoder accelerator interface for VA-API based HEVC decoding.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_H265_VAAPI_VIDEO_DECODER_DELEGATE_H_
 #define MEDIA_GPU_VAAPI_H265_VAAPI_VIDEO_DECODER_DELEGATE_H_
 

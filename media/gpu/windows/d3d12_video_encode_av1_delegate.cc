@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D12 AV1 video encode delegate implementation
+// summary: Implements the AV1 encoding delegate for D3D12, mapping codec profiles, rate control, quantizer tables, and AV1 bitstream header packing.
+// ---
+
 #include "media/gpu/windows/d3d12_video_encode_av1_delegate.h"
 
 #include <algorithm>

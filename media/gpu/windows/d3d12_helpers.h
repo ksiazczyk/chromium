@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D12 video decode helper declarations
+// summary: Declares D3D12 helper types including picture buffers, fence and value pairs, and reference frame list management.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_D3D12_HELPERS_H_
 #define MEDIA_GPU_WINDOWS_D3D12_HELPERS_H_
 

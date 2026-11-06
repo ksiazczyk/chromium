@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VA-API picture classes implementation
+// summary: Implements VaapiH264, H265, VP8, VP9 and AV1 picture classes that attach VA surface handles to codec-specific pictures for VA-API decoding.
+// ---
+
 #include "media/gpu/vaapi/vaapi_common.h"
 
 

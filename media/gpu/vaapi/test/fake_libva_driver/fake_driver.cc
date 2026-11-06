@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeDriver implementation managing VA-API objects
+// summary: Implements FakeDriver methods that create, query, fetch and destroy fake configs, surfaces, contexts, buffers and images.
+// ---
+
 #include "media/gpu/vaapi/test/fake_libva_driver/fake_driver.h"
 
 namespace media::internal {

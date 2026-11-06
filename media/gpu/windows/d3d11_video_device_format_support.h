@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D11 format support checker declaration
+// summary: Declares FormatSupportChecker, a helper class for checking whether a video can be processed in a given DXGI format on a D3D11 device.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_D3D11_VIDEO_DEVICE_FORMAT_SUPPORT_H_
 #define MEDIA_GPU_WINDOWS_D3D11_VIDEO_DEVICE_FORMAT_SUPPORT_H_
 

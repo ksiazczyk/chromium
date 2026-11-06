@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video decoder interface header
+// summary: Defines the VideoDecoder interface for frame-by-frame libva decoding with PNG and MD5 output of the last decoded frame.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_TEST_VIDEO_DECODER_H_
 #define MEDIA_GPU_VAAPI_TEST_VIDEO_DECODER_H_
 

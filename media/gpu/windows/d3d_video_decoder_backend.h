@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D video decoder backend interface
+// summary: Declares the abstract D3DVideoDecoderBackend that manages decoder resource state and creates configurators, texture selectors, wrappers, and picture buffers.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_D3D_VIDEO_DECODER_BACKEND_H_
 #define MEDIA_GPU_WINDOWS_D3D_VIDEO_DECODER_BACKEND_H_
 

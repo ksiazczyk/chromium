@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature flags for Media Foundation video encoding
+// summary: Defines base::Feature flags controlling Media Foundation encoding, such as temporal layer support for VP9 and AV1 and software bitrate control for H.264 and H.265.
+// ---
+
 #include "media/gpu/windows/mf_video_encoder_switches.h"
 
 namespace media {

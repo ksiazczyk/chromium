@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H264 video rate control wrapper interface
+// summary: Declares the H264RateControl instantiation of the video rate control wrapper template together with its H264-specific specializations.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_H264_VIDEO_RATE_CONTROL_WRAPPER_H_
 #define MEDIA_GPU_WINDOWS_H264_VIDEO_RATE_CONTROL_WRAPPER_H_
 

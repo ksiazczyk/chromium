@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D H264 accelerator implementation
+// summary: Implements the DXVA H.264 accelerator, filling picture parameters from SPS, PPS and slice headers and submitting frames for D3D11 decoding.
+// ---
+
 #include "media/gpu/windows/d3d_h264_accelerator.h"
 
 #include <tuple>

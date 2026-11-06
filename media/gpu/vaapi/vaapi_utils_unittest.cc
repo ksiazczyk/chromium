@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VA-API utilities unit tests
+// summary: Tests ScopedVABuffer and ScopedVAImage behavior, including error cases, through a real VaapiWrapper.
+// ---
+
 #include "media/gpu/vaapi/vaapi_utils.h"
 
 #include <va/va.h>

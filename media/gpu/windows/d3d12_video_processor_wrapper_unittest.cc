@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: D3D12 video processor wrapper unit tests
+// summary: Unit tests for the D3D12VideoProcessorWrapper using D3D12 mocks, covering initialization, support checks, frame processing and waiting for pending GPU work.
+// ---
+
 #include "media/gpu/windows/d3d12_video_processor_wrapper.h"
 
 #include <memory>

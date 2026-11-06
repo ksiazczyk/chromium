@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AV1 video rate control wrapper implementation
+// summary: Implements AV1 specializations of the video rate control wrapper, converting encoder configs and frame params to libaom RTC rate control settings.
+// ---
+
 #include "av1_video_rate_control_wrapper.h"
 
 #include "base/compiler_specific.h"

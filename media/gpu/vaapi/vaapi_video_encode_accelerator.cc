@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VaapiVideoEncodeAccelerator implementation
+// summary: Implements hardware-accelerated video encoding through VA-API, managing input surfaces, encode jobs, bitrate control and codec-specific encoder delegates.
+// ---
+
 #include "media/gpu/vaapi/vaapi_video_encode_accelerator.h"
 
 #include <string.h>

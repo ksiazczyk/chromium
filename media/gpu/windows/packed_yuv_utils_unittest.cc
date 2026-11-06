@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Packed DXGI YUV utilities unit tests
+// summary: Unit tests validating the DXGIFramePacker output against an independent scalar reference implementation across supported packed formats and widths.
+// ---
+
 #include "media/gpu/windows/packed_yuv_utils.h"
 
 #include <limits>

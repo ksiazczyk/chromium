@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VP8 VA-API video decoder delegate implementation
+// summary: Implements the VP8 decoder accelerator that fills VA-API data structures and submits VP8 frames for hardware decoding.
+// ---
+
 #include "media/gpu/vaapi/vp8_vaapi_video_decoder_delegate.h"
 
 #include "base/functional/callback_helpers.h"

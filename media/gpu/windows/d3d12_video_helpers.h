@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D12 video encoder helper declarations
+// summary: Declares functions to check D3D12 video encoder support for codecs, configurations, formats, levels and resource requirements, and to create encoder wrappers.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_D3D12_VIDEO_HELPERS_H_
 #define MEDIA_GPU_WINDOWS_D3D12_VIDEO_HELPERS_H_
 

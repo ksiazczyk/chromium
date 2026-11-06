@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped D3D buffer interfaces
+// summary: Declares scoped buffer classes for D3D decoder input, supporting random access and sequential write access with commit-on-destruction semantics.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_SCOPED_D3D_BUFFERS_H_
 #define MEDIA_GPU_WINDOWS_SCOPED_D3D_BUFFERS_H_
 

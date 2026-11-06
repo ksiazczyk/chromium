@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: D3D12 video encode delegate test helpers header
+// summary: Declares mock D3D12 video processor and encoder wrappers plus the D3D12VideoEncodeDelegateTestBase shared by the encode delegate unit tests.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_D3D12_VIDEO_ENCODE_DELEGATE_UNITTEST_H_
 #define MEDIA_GPU_WINDOWS_D3D12_VIDEO_ENCODE_DELEGATE_UNITTEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: D3D12 video encode delegate test base
+// summary: Implements the shared test base and mock wrappers used by D3D12 video encode delegate unit tests, stubbing the video processor and encoder wrappers.
+// ---
+
 #include "media/gpu/windows/d3d12_video_encode_delegate_unittest.h"
 
 #include "base/containers/flat_map.h"

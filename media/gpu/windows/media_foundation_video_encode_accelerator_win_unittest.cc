@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Media Foundation video encode accelerator
+// summary: Unit tests for the Media Foundation video encode accelerator, using mock D3D11 textures and encoder clients to verify encoding behavior.
+// ---
+
 #include "media/gpu/windows/media_foundation_video_encode_accelerator_win.h"
 
 #include <d3d11.h>

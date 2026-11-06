@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature flag declarations for Media Foundation video encoding
+// summary: Declares the base::Feature flags and parameters that control Media Foundation video encoding behavior, including temporal layer and bitrate controller options.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_MF_VIDEO_ENCODER_SWITCHES_H_
 #define MEDIA_GPU_WINDOWS_MF_VIDEO_ENCODER_SWITCHES_H_
 

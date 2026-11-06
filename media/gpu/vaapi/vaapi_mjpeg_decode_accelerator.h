@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VaapiMjpegDecodeAccelerator
+// summary: Declares the VA-API MJPEG decode accelerator for Intel systems with libva, running decode tasks on a separate decoder thread and notifying the client of results.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_VAAPI_MJPEG_DECODE_ACCELERATOR_H_
 #define MEDIA_GPU_VAAPI_VAAPI_MJPEG_DECODE_ACCELERATOR_H_
 

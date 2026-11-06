@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VP9 VA-API video encoder delegate unit tests
+// summary: Unit tests for the VP9 VA-API video encoder delegate covering temporal and spatial layer patterns, rate control, and frame headers.
+// ---
+
 #include "media/gpu/vaapi/vp9_vaapi_video_encoder_delegate.h"
 
 #include <va/va.h>

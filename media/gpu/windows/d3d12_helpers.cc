@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D12 video decode helper implementations
+// summary: Implements D3D12 picture buffers, reference frame lists with resource barriers, and scoped resource mapping for video decoding.
+// ---
+
 #include "media/gpu/windows/d3d12_helpers.h"
 
 #include "base/check_is_test.h"

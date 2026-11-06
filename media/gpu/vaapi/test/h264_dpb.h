@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: H264 picture and DPB declarations
+// summary: Declares H264Picture, a decoded picture holding reference metadata and its VA surface, and H264DPB, the decoded picture buffer used for reference management.
+// ---
+
 #ifndef MEDIA_GPU_VAAPI_TEST_H264_DPB_H_
 #define MEDIA_GPU_VAAPI_TEST_H264_DPB_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D12 video encode delegate interface
+// summary: Declares the D3D12VideoEncodeDelegate base class defining the encode flow, supported profile queries, rate control hooks and codec-specific encode entry points.
+// ---
+
 #ifndef MEDIA_GPU_WINDOWS_D3D12_VIDEO_ENCODE_DELEGATE_H_
 #define MEDIA_GPU_WINDOWS_D3D12_VIDEO_ENCODE_DELEGATE_H_
 
