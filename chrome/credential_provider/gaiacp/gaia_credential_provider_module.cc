@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gaia credential provider DLL module implementation
+// summary: Implements the ATL DLL module for GCPW, handling registry updates, token handle refresh, extension service checks, and crash reporting initialization.
+// ---
+
 #include "chrome/credential_provider/gaiacp/gaia_credential_provider_module.h"
 
 #include <process.h>

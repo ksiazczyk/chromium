@@ -1,0 +1,4 @@
+# Docerion header of gaia_resources_lo.xtb.
+type: data
+title: Gaia resources translation bundle (Lao)
+summary: Lao translation bundle with localized strings for the Google Credential Provider sign-in UI on Windows, covering work account login, password sync, and error messages.

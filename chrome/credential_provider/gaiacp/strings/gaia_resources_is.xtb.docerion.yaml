@@ -1,0 +1,4 @@
+# Docerion header of gaia_resources_is.xtb.
+type: data
+title: Google Credential Provider strings, Icelandic translation bundle
+summary: Icelandic translations of UI strings for the Google Credential Provider for Windows, covering sign-in prompts, password synchronization errors, and administrator guidance.

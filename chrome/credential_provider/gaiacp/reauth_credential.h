@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reauth credential header
+// summary: Declares CReauthCredential, a COM credential for re-authenticating existing OS users that are associated with a Gaia account.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_GAIACP_REAUTH_CREDENTIAL_H_
 #define CHROME_CREDENTIAL_PROVIDER_GAIACP_REAUTH_CREDENTIAL_H_
 

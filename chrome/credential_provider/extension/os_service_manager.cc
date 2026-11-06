@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows service manager implementation for GCPW extension
+// summary: Implements OSServiceManager, wrapping Windows service control manager APIs to install, query, start, stop, and delete the GCPW extension service.
+// ---
+
 #include "chrome/credential_provider/extension/os_service_manager.h"
 
 #include "base/command_line.h"

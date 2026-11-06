@@ -1,0 +1,4 @@
+# Docerion header of gaia_resources_kn.xtb.
+type: data
+title: Google Credential Provider strings, Kannada translation bundle
+summary: Kannada translations of UI strings for the Google Credential Provider for Windows, covering sign-in prompts, password synchronization errors, and administrator guidance.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internet availability checker interface
+// summary: Declares InternetAvailabilityChecker, a replaceable singleton that reports whether an internet connection is available.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_GAIACP_INTERNET_AVAILABILITY_CHECKER_H_
 #define CHROME_CREDENTIAL_PROVIDER_GAIACP_INTERNET_AVAILABILITY_CHECKER_H_
 

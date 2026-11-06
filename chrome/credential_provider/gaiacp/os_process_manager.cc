@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS process manager implementation
+// summary: Implements OSProcessManager, which creates processes under logon tokens and configures window station desktop access permissions for logon SIDs.
+// ---
+
 #include "chrome/credential_provider/gaiacp/os_process_manager.h"
 
 #include <windows.h>

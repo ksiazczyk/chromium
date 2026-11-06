@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install and uninstall library interface
+// summary: Declares install, uninstall, relaunch, stats collection and registry helper functions used by the GCPW installer.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_SETUP_SETUP_LIB_H_
 #define CHROME_CREDENTIAL_PROVIDER_SETUP_SETUP_LIB_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of gaia_resources_gl.xtb.
+type: data
+title: Galician translation bundle for Gaia credential provider strings
+summary: Galician translationbundle XML with localized UI strings for the Google Credential Provider for Windows, covering sign-in, password sync and error messages.

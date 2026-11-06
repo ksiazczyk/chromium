@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task interface for GCPW extension periodic tasks
+// summary: Defines the Task interface and Config struct that periodic GCPW extension tasks implement to report execution period, receive context, and run.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_EXTENSION_TASK_H_
 #define CHROME_CREDENTIAL_PROVIDER_EXTENSION_TASK_H_
 

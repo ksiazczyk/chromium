@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Registry utility functions
+// summary: Defines GCPW registry key names and helper functions for reading and writing provider settings, user association state and Windows account information.
+// ---
+
 #include "chrome/credential_provider/gaiacp/reg_utils.h"
 
 #include "base/base64.h"

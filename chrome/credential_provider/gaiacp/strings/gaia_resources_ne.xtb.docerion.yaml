@@ -1,0 +1,4 @@
+# Docerion header of gaia_resources_ne.xtb.
+type: data
+title: Nepali translation bundle for Google Credential Provider
+summary: Nepali strings for the Google Credential Provider for Windows, covering sign-in errors, password sync and account management messages.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WinHttpUrlFetcher unit tests
+// summary: Parameterized unit tests for BuildRequestAndFetchResultFromHttpService covering successful responses, invalid JSON, retryable and non-retryable HTTP errors, and retry counts.
+// ---
+
 #include <windows.h>
 
 #include <winhttp.h>

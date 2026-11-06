@@ -1,0 +1,4 @@
+# Docerion header of gaia_resources_ur.xtb.
+type: data
+title: Urdu translations for Gaia credential provider strings
+summary: Urdu translation bundle with UI strings for the Google Credential Provider for Windows, covering sign-in prompts, password sync, and error messages.

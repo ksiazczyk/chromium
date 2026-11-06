@@ -1,0 +1,4 @@
+# Docerion header of gaia_resources_pt-BR.xtb.
+type: data
+title: Brazilian Portuguese translation bundle for Google Credential Provider
+summary: Brazilian Portuguese strings for the Google Credential Provider for Windows, covering sign-in errors, password sync and account management messages.

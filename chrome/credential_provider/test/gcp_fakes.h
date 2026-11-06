@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Declarations of OS and service fakes for GCPW tests
+// summary: Declares fake OS managers, validators, URL fetchers, and other test doubles that stand in for system services during GCPW unit tests.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_TEST_GCP_FAKES_H_
 #define CHROME_CREDENTIAL_PROVIDER_TEST_GCP_FAKES_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of gcp_eventlog_provider.ver.
+type: config
+title: Version metadata for gcp_eventlog_provider.dll
+summary: Version template defining the internal name and original filename used to generate the version resource for the eventlog provider DLL.

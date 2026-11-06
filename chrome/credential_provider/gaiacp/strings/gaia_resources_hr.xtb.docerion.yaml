@@ -1,0 +1,4 @@
+# Docerion header of gaia_resources_hr.xtb.
+type: data
+title: Croatian translation bundle for Gaia credential provider strings
+summary: Croatian translationbundle XML with localized UI strings for the Google Credential Provider for Windows, covering sign-in, password sync and error messages.

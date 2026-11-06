@@ -1,0 +1,4 @@
+# Docerion header of gaia_resources_am.xtb.
+type: data
+title: Amharic translation bundle for Gaia credential provider
+summary: Amharic UI strings for the Google Credential Provider for Windows, covering sign-in prompts, password sync, and error messages.

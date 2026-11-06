@@ -1,0 +1,4 @@
+# Docerion header of gcp_setup_resources.grd.
+type: config
+title: Setup resources grit definition
+summary: Grit resource definition that bundles the installer icon into generated header and resource files for the setup build.

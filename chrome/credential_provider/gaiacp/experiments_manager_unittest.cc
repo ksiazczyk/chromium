@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Experiments manager unit tests
+// summary: Unit and parameterized end-to-end tests for the experiments manager covering default experiment values and success, failure, and malformed-payload fetch outcomes.
+// ---
+
 #include "chrome/credential_provider/gaiacp/experiments_manager.h"
 
 #include "base/strings/utf_string_conversions.h"

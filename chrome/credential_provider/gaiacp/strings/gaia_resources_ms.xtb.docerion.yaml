@@ -1,0 +1,4 @@
+# Docerion header of gaia_resources_ms.xtb.
+type: data
+title: Gaia resources translation bundle (Malay)
+summary: Malay translation bundle with localized strings for the Google Credential Provider sign-in UI on Windows, covering work account login, password sync, and error messages.

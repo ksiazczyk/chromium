@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS user manager implementation
+// summary: Implements OSUserManager, which creates and manages Windows users, generates random passwords, validates credentials, and resolves user SIDs.
+// ---
+
 #include "chrome/credential_provider/gaiacp/os_user_manager.h"
 
 #include <windows.h>

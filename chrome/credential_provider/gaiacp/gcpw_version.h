@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCPW version class declaration
+// summary: Declares GcpwVersion, a class that parses, stores, formats and compares Google Credential Provider for Windows version strings.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_GAIACP_GCPW_VERSION_H_
 #define CHROME_CREDENTIAL_PROVIDER_GAIACP_GCPW_VERSION_H_
 

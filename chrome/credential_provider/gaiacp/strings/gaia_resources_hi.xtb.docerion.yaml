@@ -1,0 +1,4 @@
+# Docerion header of gaia_resources_hi.xtb.
+type: data
+title: Hindi translation bundle for Gaia credential provider strings
+summary: Hindi translationbundle XML with localized UI strings for the Google Credential Provider for Windows, covering sign-in, password sync and error messages.

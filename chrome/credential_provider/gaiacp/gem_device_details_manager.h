@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GEM device details manager interface
+// summary: Declares GemDeviceDetailsManager, which uploads device details to the GEM database using an access token or a DM token.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_GAIACP_GEM_DEVICE_DETAILS_MANAGER_H_
 #define CHROME_CREDENTIAL_PROVIDER_GAIACP_GEM_DEVICE_DETAILS_MANAGER_H_
 

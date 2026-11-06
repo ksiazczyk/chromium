@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device policies implementation
+// summary: Implements GCPW device policies, building defaults from registry settings, deriving policies from user policies, merging them and exposing the allowed sign-in domains.
+// ---
+
 #include "chrome/credential_provider/gaiacp/device_policies.h"
 
 #include "base/strings/string_split.h"

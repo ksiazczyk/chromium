@@ -1,0 +1,4 @@
+# Docerion header of gaia_resources_ar.xtb.
+type: data
+title: Arabic translation bundle for Gaia credential provider
+summary: Arabic UI strings for the Google Credential Provider for Windows, covering sign-in prompts, password sync, and error messages.

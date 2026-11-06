@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserPoliciesManager implementation
+// summary: Implements UserPoliciesManager, which fetches cloud user policies from the GCPW backend over HTTP, stores them on disk and serves them to callers.
+// ---
+
 #include "chrome/credential_provider/gaiacp/user_policies_manager.h"
 
 #include <limits>

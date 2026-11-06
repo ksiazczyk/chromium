@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS gaia user manager implementation
+// summary: Implements management of the local gaia user account, including SID storage in LSA and password rotation when the machine is cloned after sysprep.
+// ---
+
 #include "chrome/credential_provider/gaiacp/os_gaia_user_manager.h"
 
 #include <windows.h>

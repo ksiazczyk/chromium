@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserPolicies implementation
+// summary: Implements the UserPolicies structure, parsing and serializing GCPW user policy values such as DM enrollment, auto update, multi-user login and validity period from JSON.
+// ---
+
 #include "chrome/credential_provider/gaiacp/user_policies.h"
 
 #include <limits>

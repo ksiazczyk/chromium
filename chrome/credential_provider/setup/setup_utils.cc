@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCPW setup utilities implementation
+// summary: Implements the standalone installer configurator that distinguishes MSI from EXE installs, parses installer data, and manages uninstall registry keys for GCPW setup.
+// ---
+
 #include "chrome/credential_provider/setup/setup_utils.h"
 
 #include <Windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS gaia user manager header
+// summary: Declares OSGaiaUserManager, which creates the local gaia user account and rotates its password when the stored SID no longer matches.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_GAIACP_OS_GAIA_USER_MANAGER_H_
 #define CHROME_CREDENTIAL_PROVIDER_GAIACP_OS_GAIA_USER_MANAGER_H_
 

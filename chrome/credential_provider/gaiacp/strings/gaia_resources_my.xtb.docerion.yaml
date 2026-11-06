@@ -1,0 +1,4 @@
+# Docerion header of gaia_resources_my.xtb.
+type: data
+title: Burmese translation bundle for Google Credential Provider
+summary: Burmese strings for the Google Credential Provider for Windows, covering sign-in errors, password sync and account management messages.

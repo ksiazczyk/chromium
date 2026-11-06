@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Associated user validator implementation
+// summary: Implements token handle validity checks for associated users and enforces reauthentication or signin blocking when handles expire.
+// ---
+
 #include "chrome/credential_provider/gaiacp/associated_user_validator.h"
 
 #include <ntstatus.h>

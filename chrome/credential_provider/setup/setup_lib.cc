@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install and uninstall library implementation
+// summary: Implements GCPW installation, uninstallation, DLL registration, relaunching and registry value writing for the installer.
+// ---
+
 #include "chrome/credential_provider/setup/setup_lib.h"
 
 #include <shlobj.h>

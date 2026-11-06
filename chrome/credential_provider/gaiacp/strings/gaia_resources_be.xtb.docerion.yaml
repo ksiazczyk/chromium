@@ -1,0 +1,4 @@
+# Docerion header of gaia_resources_be.xtb.
+type: data
+title: Belarusian translation bundle for Gaia credential provider
+summary: Belarusian UI strings for the Google Credential Provider for Windows, covering sign-in prompts, password sync, and error messages.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedUserProfile class header
+// summary: Declares the ScopedUserProfile class that ensures a user's Windows profile and home directory are created and saves Gaia account information to the user's registry hive.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_GAIACP_SCOPED_USER_PROFILE_H_
 #define CHROME_CREDENTIAL_PROVIDER_GAIACP_SCOPED_USER_PROFILE_H_
 

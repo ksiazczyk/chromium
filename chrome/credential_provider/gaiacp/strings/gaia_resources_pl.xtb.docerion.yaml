@@ -1,0 +1,4 @@
+# Docerion header of gaia_resources_pl.xtb.
+type: data
+title: Polish translation bundle for Google Credential Provider
+summary: Polish strings for the Google Credential Provider for Windows, covering sign-in errors, password sync and account management messages.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task manager for GCPW extension periodic tasks
+// summary: Declares the TaskManager singleton that registers GCPW extension tasks and schedules their periodic execution with backoff on failures.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_EXTENSION_TASK_MANAGER_H_
 #define CHROME_CREDENTIAL_PROVIDER_EXTENSION_TASK_MANAGER_H_
 

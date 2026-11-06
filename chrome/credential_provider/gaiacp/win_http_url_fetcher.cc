@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WinHttpUrlFetcher implementation
+// summary: Implements a synchronous WinHTTP-based URL fetcher for the Gaia credential provider, including background-thread requests, timeouts, and retries on retryable HTTP errors.
+// ---
+
 #include "chrome/credential_provider/gaiacp/win_http_url_fetcher.h"
 
 #include <Windows.h>

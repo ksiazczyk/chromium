@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: COM fakes for credential provider tests
+// summary: Implements fake COM objects such as FakeCredentialProviderUser, FakeCredentialProviderUserArray, and test credential classes used by GCPW unit tests.
+// ---
+
 #include "chrome/credential_provider/test/com_fakes.h"
 
 #include <sddl.h>

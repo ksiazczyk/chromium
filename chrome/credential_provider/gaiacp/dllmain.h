@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLL main header
+// summary: Declares the global ATL credential provider module instance shared by the DLL entry point implementations.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_GAIACP_DLLMAIN_H_
 #define CHROME_CREDENTIAL_PROVIDER_GAIACP_DLLMAIN_H_
 

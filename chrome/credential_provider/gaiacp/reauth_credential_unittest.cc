@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reauth credential unit tests
+// summary: Unit tests for the reauth credential covering OS user info, reauth email handling, GLS command line generation and user validation scenarios.
+// ---
+
 #include "chrome/credential_provider/gaiacp/reauth_credential.h"
 
 #include <wrl/client.h>

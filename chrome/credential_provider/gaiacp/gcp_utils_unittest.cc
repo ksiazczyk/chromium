@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GCPW utilities unit tests
+// summary: Unit tests for GCPW utilities such as random password generation, OS version reading from registries and process helper pipes.
+// ---
+
 #include "chrome/credential_provider/gaiacp/gcp_utils.h"
 
 #include <windows.h>

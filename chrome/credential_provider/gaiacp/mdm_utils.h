@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MDM enrollment utilities
+// summary: Declares helpers for Google MDM enrollment checks, device detail uploads, escrow service URLs, online login enforcement, and password LSA store keys.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_GAIACP_MDM_UTILS_H_
 #define CHROME_CREDENTIAL_PROVIDER_GAIACP_MDM_UTILS_H_
 

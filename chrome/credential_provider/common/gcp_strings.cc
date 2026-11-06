@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Definitions of shared GCPW string constants
+// summary: Defines constants for UI JSON keys, registry paths, Google Update entries, GAIA account secrets and Chrome command line switches used by the Windows credential provider.
+// ---
+
 #include "chrome/credential_provider/common/gcp_strings.h"
 
 #include "build/branding_buildflags.h"

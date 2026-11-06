@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the GCPW mojom target
+summary: Defines the GN build target that compiles the Gaia credential provider HID mojom interface with a dependency on Mojo base mojom types.

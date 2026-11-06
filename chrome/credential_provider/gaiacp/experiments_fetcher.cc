@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Experiments fetcher implementation
+// summary: Implements fetching of GCPW experiments from the backend service, including the ESA task that periodically refreshes experiments for associated users and devices.
+// ---
+
 #include "chrome/credential_provider/gaiacp/experiments_fetcher.h"
 
 #include <windows.h>

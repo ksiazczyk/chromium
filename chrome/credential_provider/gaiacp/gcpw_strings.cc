@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCPW string constants
+// summary: Defines GCPW registry key names, offline session validity keys, the Gaia setup path and the default GCPW service URL.
+// ---
+
 #include "chrome/credential_provider/gaiacp/gcpw_strings.h"
 
 namespace credential_provider {

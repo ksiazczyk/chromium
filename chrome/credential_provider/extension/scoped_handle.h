@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped handles for service and timer handles
+// summary: Defines scoped RAII handle types for Windows service control manager handles and timer queue handles used by the GCPW extension.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_EXTENSION_SCOPED_HANDLE_H_
 #define CHROME_CREDENTIAL_PROVIDER_EXTENSION_SCOPED_HANDLE_H_
 

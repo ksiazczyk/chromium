@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Chrome GLS sign-in output
+// summary: Runs Chrome against embedded test servers to verify the GLS sign-in output that the credential provider extracts from the sign-in flow.
+// ---
+
 #include <array>
 #include <string_view>
 

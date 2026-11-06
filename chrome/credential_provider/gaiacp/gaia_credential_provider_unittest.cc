@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gaia credential provider unit tests
+// summary: Unit tests for the GCPW credential provider covering user arrays, logon scenarios, and cloud policy handling using fakes.
+// ---
+
 #include "chrome/credential_provider/gaiacp/gaia_credential_provider.h"
 
 #include <credentialprovider.h>

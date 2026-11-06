@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Logging helpers for GCPW
+// summary: Defines the putHR manipulator and the LOGFN macro for syslog logging that prefixes messages with the function name.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_GAIACP_LOGGING_H_
 #define CHROME_CREDENTIAL_PROVIDER_GAIACP_LOGGING_H_
 

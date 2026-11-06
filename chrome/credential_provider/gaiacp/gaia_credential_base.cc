@@ -5,6 +5,12 @@
 // Implementation of CGaiaCredentialBase class, used as the base for all
 // credentials that need to show the gaia sign in page.
 
+// ---docerion
+// type: source
+// title: Gaia credential base implementation
+// summary: Implements CGaiaCredentialBase, the shared base for credentials showing the Gaia sign-in page, handling logon UI, authentication results, and post-signin actions.
+// ---
+
 #include "chrome/credential_provider/gaiacp/gaia_credential_base.h"
 
 #include <ntstatus.h>

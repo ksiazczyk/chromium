@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App inventory manager unit tests
+// summary: Parameterized unit tests covering app inventory upload with varying device resource IDs, SIDs and DM tokens.
+// ---
+
 #include "chrome/credential_provider/extension/app_inventory_manager.h"
 
 #include <windows.h>

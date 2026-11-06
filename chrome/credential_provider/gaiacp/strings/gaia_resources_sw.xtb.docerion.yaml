@@ -1,0 +1,4 @@
+# Docerion header of gaia_resources_sw.xtb.
+type: data
+title: Gaia resources translation bundle (Swahili)
+summary: Swahili translations of UI strings for the Google Credential Provider for Windows, covering sign-in, password synchronization and error messages.

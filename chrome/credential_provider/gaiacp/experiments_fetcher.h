@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Experiments fetcher
+// summary: Declares the ExperimentsFetcher singleton that fetches experiments from the GCPW backend and stores them in file storage, replacing previously fetched versions.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_GAIACP_EXPERIMENTS_FETCHER_H_
 #define CHROME_CREDENTIAL_PROVIDER_GAIACP_EXPERIMENTS_FETCHER_H_
 

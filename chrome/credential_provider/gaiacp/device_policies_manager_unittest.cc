@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device policies manager unit tests
+// summary: Unit tests for DevicePoliciesManager that use a fake IUpdaterSystem COM object to exercise policy fetching and device policy combination.
+// ---
+
 #include "chrome/credential_provider/gaiacp/device_policies_manager.h"
 
 #include <windows.h>

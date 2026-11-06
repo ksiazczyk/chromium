@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential provider DLL entry points
+// summary: Implements DllMain, DllGetClassObject and registration entry points for the GCPW credential provider DLL, including crash reporting and startup sentinel checks.
+// ---
+
 #include "chrome/credential_provider/gaiacp/dllmain.h"
 
 // It is important to include gaia_credential_base.h, reauth_credential.h and

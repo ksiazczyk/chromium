@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserPolicies struct header
+// summary: Declares the UserPolicies struct holding per-user GCPW policies like MDM enrollment, auto update, pinned version, multi-user login and login validity period.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_GAIACP_USER_POLICIES_H_
 #define CHROME_CREDENTIAL_PROVIDER_GAIACP_USER_POLICIES_H_
 

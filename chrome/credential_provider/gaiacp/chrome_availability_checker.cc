@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome availability checker implementation
+// summary: Checks whether a supported Chrome version is installed on the machine for the credential provider.
+// ---
+
 #include "chrome/credential_provider/gaiacp/chrome_availability_checker.h"
 #include "chrome/credential_provider/gaiacp/gcp_utils.h"
 #include "chrome/credential_provider/gaiacp/logging.h"

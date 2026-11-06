@@ -1,0 +1,4 @@
+# Docerion header of gaia_resources_zh-TW.xtb.
+type: data
+title: Traditional Chinese (Taiwan) translations for Gaia credential provider
+summary: Taiwan Traditional Chinese translation bundle with UI strings for the Google Credential Provider for Windows, covering sign-in, password sync, and errors.

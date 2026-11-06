@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event logs upload manager implementation
+// summary: Implements uploading GCPW Windows event log entries to the GCPW backend in chunks, honoring severity level, payload size limits and registry settings.
+// ---
+
 #include "chrome/credential_provider/gaiacp/event_logs_upload_manager.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped LSA policy header
+// summary: Declares ScopedLsaPolicy, a wrapper around LSA policy handles providing private data storage and account rights management with test hooks.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_GAIACP_SCOPED_LSA_POLICY_H_
 #define CHROME_CREDENTIAL_PROVIDER_GAIACP_SCOPED_LSA_POLICY_H_
 

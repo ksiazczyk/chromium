@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GLS runner test base with fake GLS process
+// summary: Implements the GLS runner test base and a fake GLS multiprocess child that emits configurable sign-in results for credential provider tests.
+// ---
+
 #include "gls_runner_test_base.h"
 
 #include <shlobj.h>

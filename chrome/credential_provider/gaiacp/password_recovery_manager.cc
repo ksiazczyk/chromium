@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password recovery manager implementation
+// summary: Implements storing and recovering encrypted Windows passwords through the EMM escrow service, including key pair generation, padding, encryption and LSA storage.
+// ---
+
 #include "chrome/credential_provider/gaiacp/password_recovery_manager.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event logging API manager implementation
+// summary: Implements a singleton wrapper around the Win32 Event logging API functions such as EvtQuery and EvtRender, with error code and error string helpers.
+// ---
+
 #include "chrome/credential_provider/gaiacp/event_logging_api_manager.h"
 
 #include "base/strings/string_number_conversions.h"

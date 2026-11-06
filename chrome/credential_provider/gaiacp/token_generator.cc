@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TokenGenerator implementation
+// summary: Implements TokenGenerator, which creates unguessable 128-bit tokens from a cryptographically strong random source.
+// ---
+
 #include "chrome/credential_provider/gaiacp/token_generator.h"
 
 #include "base/unguessable_token.h"

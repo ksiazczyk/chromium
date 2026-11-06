@@ -1,0 +1,4 @@
+# Docerion header of gaia_resources_sv.xtb.
+type: data
+title: Gaia resources translation bundle (Swedish)
+summary: Swedish translations of UI strings for the Google Credential Provider for Windows, covering sign-in, password synchronization and error messages.

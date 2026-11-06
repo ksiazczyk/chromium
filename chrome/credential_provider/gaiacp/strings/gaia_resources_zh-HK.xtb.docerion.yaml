@@ -1,0 +1,4 @@
+# Docerion header of gaia_resources_zh-HK.xtb.
+type: data
+title: Traditional Chinese (Hong Kong) translations for Gaia credential provider
+summary: Hong Kong Traditional Chinese translation bundle with UI strings for the Google Credential Provider for Windows, covering sign-in, password sync, and errors.

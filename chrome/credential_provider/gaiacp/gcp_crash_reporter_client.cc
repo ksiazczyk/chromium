@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCPW crash reporter client implementation
+// summary: Implements the Crashpad crash reporter client for GCPW, setting dump location, product version, and stats consent.
+// ---
+
 #include "chrome/credential_provider/gaiacp/gcp_crash_reporter_client.h"
 
 #include <utility>

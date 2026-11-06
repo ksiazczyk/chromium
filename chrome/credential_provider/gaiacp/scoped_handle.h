@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped handle wrappers
+// summary: Defines RAII scoped handle types for window station, desktop and WinHttp handles based on base::win::GenericScopedHandle.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_GAIACP_SCOPED_HANDLE_H_
 #define CHROME_CREDENTIAL_PROVIDER_GAIACP_SCOPED_HANDLE_H_
 

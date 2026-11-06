@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension service utility functions
+// summary: Implements helpers to query, install, uninstall and control the GCPW extension Windows service.
+// ---
+
 #include "chrome/credential_provider/extension/extension_utils.h"
 
 #include "base/strings/string_util.h"

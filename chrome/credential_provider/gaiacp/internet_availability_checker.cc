@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internet availability checker implementation
+// summary: Checks internet connectivity through the Windows Network List Manager, treating errors as an available connection.
+// ---
+
 #include "chrome/credential_provider/gaiacp/internet_availability_checker.h"
 
 #include <netlistmgr.h>  // For CLSID_NetworkListManager

@@ -1,0 +1,4 @@
+# Docerion header of gaia_resources_bg.xtb.
+type: data
+title: Bulgarian translation bundle for Gaia credential provider
+summary: Bulgarian UI strings for the Google Credential Provider for Windows, covering sign-in prompts, password sync, and error messages.

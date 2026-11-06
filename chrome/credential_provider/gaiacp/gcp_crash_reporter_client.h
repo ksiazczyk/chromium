@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCPW crash reporter client header
+// summary: Declares the GCPW crash reporter client that customizes Crashpad behavior such as dump location and consent.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_GAIACP_GCP_CRASH_REPORTER_CLIENT_H_
 #define CHROME_CREDENTIAL_PROVIDER_GAIACP_GCP_CRASH_REPORTER_CLIENT_H_
 

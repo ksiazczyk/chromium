@@ -1,0 +1,4 @@
+# Docerion header of gaia_static_resources.grd.
+type: config
+title: GCPW static resources grit file
+summary: Grit resource definition bundling the provider registry script and the small Google logo bitmap for the credential provider.

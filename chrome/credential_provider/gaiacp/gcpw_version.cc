@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCPW version handling
+// summary: Implements the GcpwVersion class for parsing, comparing and reading the installed GCPW version from the Omaha registry key.
+// ---
+
 #include "chrome/credential_provider/gaiacp/gcpw_version.h"
 
 #include "base/strings/string_number_conversions.h"

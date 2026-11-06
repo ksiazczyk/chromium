@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UserPoliciesManager unit tests
+// summary: Unit tests for UserPoliciesManager covering policy fetching, storage, staleness detection and effective user policies using fake HTTP fetchers and test users.
+// ---
+
 #include "chrome/credential_provider/gaiacp/user_policies_manager.h"
 
 #include <windows.h>

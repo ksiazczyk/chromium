@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit test entry point for gcp_unittests
+// summary: Main entry point that initializes the ATL credential provider module and launches the gcp_unittests suite via the base test launcher.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/test/launcher/unit_test_launcher.h"
 #include "base/test/test_suite.h"

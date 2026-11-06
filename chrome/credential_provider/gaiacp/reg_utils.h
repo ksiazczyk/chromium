@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Registry utilities header
+// summary: Declares GCPW registry key constants and helper functions for accessing provider configuration, logging options and user association information.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_GAIACP_REG_UTILS_H_
 #define CHROME_CREDENTIAL_PROVIDER_GAIACP_REG_UTILS_H_
 

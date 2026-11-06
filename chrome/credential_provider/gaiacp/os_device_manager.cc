@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS device manager implementation
+// summary: Implements OSDeviceManager, which opens Windows device handles with fallback access modes and reads HID usage pages for attached devices.
+// ---
+
 #include "chrome/credential_provider/gaiacp/os_device_manager.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User context enumerator implementation
+// summary: Implements enumeration of associated GCPW users, collecting device and token details for each and running the given task with the resulting user device contexts.
+// ---
+
 #include "chrome/credential_provider/extension/user_context_enumerator.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GEM device details manager implementation
+// summary: Implements uploading device details to the GEM service, including an ESA task that performs the upload on a three-hour period.
+// ---
+
 #include "chrome/credential_provider/gaiacp/gem_device_details_manager.h"
 
 #include <windows.h>

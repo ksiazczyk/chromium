@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gaia credential provider filter implementation
+// summary: Implements the Windows credential provider filter that disables the Gaia provider when Chrome is unsupported and revokes sign-in for users needing reauth.
+// ---
+
 #include "chrome/credential_provider/gaiacp/gaia_credential_provider_filter.h"
 
 #include <string>

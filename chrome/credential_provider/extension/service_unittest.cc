@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the GCPW extension service
+// summary: Unit tests that start the GCPW extension service against a fake OS service manager and verify running, stop, and no-op control request behavior.
+// ---
+
 #include "chrome/credential_provider/extension/service.h"
 
 #include <windows.h>

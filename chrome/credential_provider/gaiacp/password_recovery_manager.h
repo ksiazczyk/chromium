@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password recovery manager header
+// summary: Declares the PasswordRecoveryManager class that stores and recovers encrypted user passwords via the EMM escrow service and LSA private data.
+// ---
+
 #ifndef CHROME_CREDENTIAL_PROVIDER_GAIACP_PASSWORD_RECOVERY_MANAGER_H_
 #define CHROME_CREDENTIAL_PROVIDER_GAIACP_PASSWORD_RECOVERY_MANAGER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: gcp_unittests build definition
+summary: Defines the gcp_unittests test target with credential provider test sources, dependencies, data deps, and test data for the GCPW test suite.
