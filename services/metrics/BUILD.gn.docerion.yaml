@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Metrics service build definition
+summary: Defines the metrics source set listing the UKM recorder sources and their Mojo, metrics_cpp and url dependencies.

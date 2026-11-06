@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: USB interface detach allowlist unit tests
+// summary: Unit tests verifying driver name and interface protocol matching in the USB interface detach allowlist.
+// ---
+
 #include "services/device/usb/usb_interface_detach_allowlist.h"
 
 #include "base/memory/raw_ref.h"

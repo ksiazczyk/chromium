@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeUsbConnection JNI wrapper for Android USB device connection
+// summary: Java JNI wrapper exposing Android UsbDeviceConnection, including its file descriptor and closing, to the C++ UsbDeviceHandleAndroid class.
+// ---
+
 package org.chromium.device.usb;
 
 import android.hardware.usb.UsbDeviceConnection;

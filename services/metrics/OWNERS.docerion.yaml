@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Metrics service code owners
+summary: Delegates ownership and review responsibility for this directory to the base/metrics OWNERS file.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Serial port manager header
+// summary: Declares SerialPortManagerImpl, the mojom::SerialPortManager implementation with threading notes, test hooks, and enumerator observation.
+// ---
+
 #ifndef SERVICES_DEVICE_SERIAL_SERIAL_PORT_MANAGER_IMPL_H_
 #define SERVICES_DEVICE_SERIAL_SERIAL_PORT_MANAGER_IMPL_H_
 

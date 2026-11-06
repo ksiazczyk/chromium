@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUSB descriptor parsing implementation
+// summary: Implements reading and parsing of WebUSB BOS, platform capability and URL descriptors from a USB device to obtain the landing page URL.
+// ---
+
 #include "services/device/usb/webusb_descriptors.h"
 
 #include <limits>

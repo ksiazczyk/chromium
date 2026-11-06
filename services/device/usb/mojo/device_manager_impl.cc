@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceManagerImpl Mojo USB device manager implementation
+// summary: Implements the Mojo UsbDeviceManager interface by wrapping UsbService, enumerating devices and handling ChromeOS access checks and Android device info refresh.
+// ---
+
 #include "services/device/usb/mojo/device_manager_impl.h"
 
 #include <stddef.h>

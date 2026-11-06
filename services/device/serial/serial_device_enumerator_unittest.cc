@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Serial device enumerator unit tests
+// summary: Unit test that creates a SerialDeviceEnumerator and calls GetDevices to verify device enumeration does not crash even when no serial device is present.
+// ---
+
 #include "services/device/serial/serial_device_enumerator.h"
 
 #include <vector>

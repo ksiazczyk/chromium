@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Power save blocker include rules
+summary: Specifies the allowed include paths for code in the power_save_blocker directory.

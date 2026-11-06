@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TimeZoneMonitor class declaration
+// summary: Declares the TimeZoneMonitor interface that watches the system time zone and notifies renderers, with notes on platform-specific sandbox handling.
+// ---
+
 #ifndef SERVICES_DEVICE_TIME_ZONE_MONITOR_TIME_ZONE_MONITOR_H_
 #define SERVICES_DEVICE_TIME_ZONE_MONITOR_TIME_ZONE_MONITOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS serial device enumerator
+// summary: Enumerates serial devices on macOS via IOKit registry queries, including USB properties, and watches for device additions and removals.
+// ---
+
 #include "services/device/serial/serial_device_enumerator_mac.h"
 
 #include <IOKit/serial/IOSerialKeys.h>

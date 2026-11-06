@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android USB device implementation
+// summary: Implements UsbDeviceAndroid, which wraps Android USB devices via JNI, reading device metadata and handling permission requests and opening device handles.
+// ---
+
 #include "services/device/usb/usb_device_android.h"
 
 #include <list>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaController unit tests
+// summary: Unit tests covering MediaController behavior such as suspend, resume, active session tracking, and image observers using mock media sessions.
+// ---
+
 #include "services/media_session/media_controller.h"
 
 #include <memory>

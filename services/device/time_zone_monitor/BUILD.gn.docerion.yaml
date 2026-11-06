@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for the time zone monitor
+summary: Defines GN source sets and platform-specific build targets for the time zone monitor, including Android JNI headers and Java library support.

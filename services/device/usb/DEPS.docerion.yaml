@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: USB directory include rules
+summary: Defines the include dependencies permitted for code in the USB service directory, such as chromeos, dbus, libusb, and re2.

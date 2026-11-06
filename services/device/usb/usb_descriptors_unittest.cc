@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: USB descriptor parsing unit tests
+// summary: Unit tests that verify parsing of sample USB device, configuration, interface, endpoint and string descriptors into the expected mojom structures.
+// ---
+
 #include "services/device/usb/usb_descriptors.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux power save blocker implementation
+// summary: Implements PowerSaveBlocker on Linux using D-Bus inhibit APIs for GNOME SessionManager and freedesktop power and screensaver services.
+// ---
+
 #include "services/device/wake_lock/power_save_blocker/power_save_blocker.h"
 
 #include <stdint.h>

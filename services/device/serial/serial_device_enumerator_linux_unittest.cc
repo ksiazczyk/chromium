@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linux serial device enumerator unit tests
+// summary: Unit tests for the Linux enumerator using a fake udev loader and a sample TTY drivers file to verify USB and rfcomm port enumeration.
+// ---
+
 #include "services/device/serial/serial_device_enumerator_linux.h"
 
 #include "base/files/file_path.h"

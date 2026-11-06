@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: USB string descriptor read fuzzer
+// summary: libFuzzer harness that feeds arbitrary bytes as fake USB device data to exercise USB string descriptor reading.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

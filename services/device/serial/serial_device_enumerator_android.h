@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android serial device enumerator header
+// summary: Declares the Android serial device enumerator, its JNI callbacks for port discovery and opening, and testing hooks.
+// ---
+
 #ifndef SERVICES_DEVICE_SERIAL_SERIAL_DEVICE_ENUMERATOR_ANDROID_H_
 #define SERVICES_DEVICE_SERIAL_SERIAL_DEVICE_ENUMERATOR_ANDROID_H_
 

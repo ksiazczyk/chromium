@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Directory owners file
+summary: Lists boliu@chromium.org as the code owner for the power_save_blocker directory.

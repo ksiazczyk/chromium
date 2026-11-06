@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioFocusRequest header for per-session audio focus handling
+// summary: Defines the AudioFocusRequest class that represents a single audio focus request, managing suspension, transient holds, UI actions, and media image retrieval over Mojo.
+// ---
+
 #ifndef SERVICES_MEDIA_SESSION_AUDIO_FOCUS_REQUEST_H_
 #define SERVICES_MEDIA_SESSION_AUDIO_FOCUS_REQUEST_H_
 

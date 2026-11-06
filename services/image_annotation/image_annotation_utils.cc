@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image annotation utils implementation
+// summary: Implements ParseDescFailureReason, mapping description failure reason strings to DescFailureReason enum values.
+// ---
+
 #include "services/image_annotation/image_annotation_utils.h"
 
 #include <map>

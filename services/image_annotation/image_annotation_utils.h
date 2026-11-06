@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image annotation utils header
+// summary: Defines the DescFailureReason enum for description engine failure modes used in metrics and declares the string parsing helper.
+// ---
+
 #ifndef SERVICES_IMAGE_ANNOTATION_IMAGE_ANNOTATION_UTILS_H_
 #define SERVICES_IMAGE_ANNOTATION_IMAGE_ANNOTATION_UTILS_H_
 

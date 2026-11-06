@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped libusb device handle
+// summary: Declares a move-only wrapper that owns a libusb_device_handle together with its device and context references.
+// ---
+
 #ifndef SERVICES_DEVICE_USB_SCOPED_LIBUSB_DEVICE_HANDLE_H_
 #define SERVICES_DEVICE_USB_SCOPED_LIBUSB_DEVICE_HANDLE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: USB descriptor parser fuzzer
+// summary: libFuzzer harness that feeds arbitrary byte spans to UsbDeviceDescriptor::Parse to uncover bugs in USB descriptor parsing.
+// ---
+
 #include "services/device/usb/usb_descriptors.h"
 
 #include <stddef.h>

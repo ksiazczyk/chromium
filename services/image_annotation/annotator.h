@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Annotator class interface and request parameters
+// summary: Declares the Annotator Mojo class, its client interface and constants for image dimensions, batching, throttling and API keys.
+// ---
+
 #ifndef SERVICES_IMAGE_ANNOTATION_ANNOTATOR_H_
 #define SERVICES_IMAGE_ANNOTATION_ANNOTATOR_H_
 

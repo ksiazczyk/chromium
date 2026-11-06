@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UsbContext implementation
+// summary: Implements UsbContext, a ref-counted libusb context wrapper that runs an event handler thread to process libusb events and shut down cleanly.
+// ---
+
 #include "services/device/usb/usb_context.h"
 
 #include <atomic>

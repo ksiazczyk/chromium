@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeUsbService JNI wrapper for Android USB manager and permissions
+// summary: Java JNI wrapper exposing Android UsbManager to the C++ UsbServiceAndroid, handling device listing, opening, permission requests, and USB intent broadcasts.
+// ---
+
 package org.chromium.device.usb;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

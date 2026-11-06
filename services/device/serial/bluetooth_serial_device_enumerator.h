@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth serial device enumerator header
+// summary: Declares BluetoothSerialDeviceEnumerator, which tracks Bluetooth serial ports, maps port tokens to device addresses and opens ports.
+// ---
+
 #ifndef SERVICES_DEVICE_SERIAL_BLUETOOTH_SERIAL_DEVICE_ENUMERATOR_H_
 #define SERVICES_DEVICE_SERIAL_BLUETOOTH_SERIAL_DEVICE_ENUMERATOR_H_
 

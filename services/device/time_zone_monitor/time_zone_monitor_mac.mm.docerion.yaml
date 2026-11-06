@@ -1,0 +1,4 @@
+# Docerion header of time_zone_monitor_mac.mm.
+type: source
+title: macOS time zone monitor implementation
+summary: Implements TimeZoneMonitor on macOS by observing NSSystemTimeZoneDidChangeNotification and updating ICU and clients on changes.

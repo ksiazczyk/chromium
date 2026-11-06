@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock USB device implementation
+// summary: Implements MockUsbDevice with default descriptors plus helpers to add mock configurations and notify device removal in tests.
+// ---
+
 #include "services/device/usb/mock_usb_device.h"
 
 #include <utility>

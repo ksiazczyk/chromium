@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceImpl unit tests
+// summary: Unit tests for DeviceImpl covering control, generic, and isochronous transfers, configuration and interface changes, and permission blocking using mock USB devices.
+// ---
+
 #include "services/device/usb/mojo/device_impl.h"
 
 #include <stddef.h>

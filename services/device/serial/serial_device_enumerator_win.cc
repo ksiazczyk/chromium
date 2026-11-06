@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows serial device enumerator implementation
+// summary: Implements serial device discovery on Windows using SetupAPI and the registry, reading device properties, port names, and USB-derived display names for COM ports.
+// ---
+
 #include "services/device/serial/serial_device_enumerator_win.h"
 
 #include <windows.h>  // Must be in front of other Windows header files.

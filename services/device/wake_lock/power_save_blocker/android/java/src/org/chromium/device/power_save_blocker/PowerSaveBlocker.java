@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android PowerSaveBlocker for wake locks
+// summary: Android Java class called from native code that prevents app suspension or display sleep by acquiring PowerManager wake locks and setting keep-screen-on flags on views.
+// ---
+
 package org.chromium.device.power_save_blocker;
 
 import android.Manifest;

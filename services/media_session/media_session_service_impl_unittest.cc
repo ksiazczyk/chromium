@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaSessionServiceImpl unit tests
+// summary: Unit test verifying that the media session service can be instantiated.
+// ---
+
 #include "services/media_session/media_session_service_impl.h"
 
 #include "base/test/task_environment.h"

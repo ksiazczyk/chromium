@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth serial device enumerator implementation
+// summary: Implements enumeration of Bluetooth classic RFCOMM serial ports by observing the Bluetooth adapter and reporting SPP devices as serial ports.
+// ---
+
 #include "services/device/serial/bluetooth_serial_device_enumerator.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux USB service implementation
+// summary: Implements the USB service on Linux using a udev watcher to enumerate and monitor USB devices and read WebUSB descriptors.
+// ---
+
 #include "services/device/usb/usb_service_linux.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeUsbConfiguration JNI wrapper for Android USB configuration
+// summary: Java JNI wrapper exposing Android UsbConfiguration details such as interfaces, max power, self-powered, and remote wakeup to the C++ UsbConfigurationAndroid class.
+// ---
+
 package org.chromium.device.usb;
 
 import android.hardware.usb.UsbConfiguration;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: USB interface driver detach allowlist implementation
+// summary: Implements the singleton allowlist of kernel drivers, such as cdc_acm and usblp, that may be detached from USB interfaces.
+// ---
+
 #include "services/device/usb/usb_interface_detach_allowlist.h"
 
 #include <algorithm>

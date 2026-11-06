@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake USB device handle implementation
+// summary: Implements a fake USB device handle that answers control transfers from a scripted buffer of success flags, lengths, and data for tests.
+// ---
+
 #include "services/device/usb/fake_usb_device_handle.h"
 
 #include <algorithm>

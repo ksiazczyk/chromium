@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android serial device enumerator
+// summary: Implements serial device enumeration and port opening on Android through the ChromeSerialManager JNI bridge, requiring SDK 37.
+// ---
+
 #include "services/device/serial/serial_device_enumerator_android.h"
 
 #include <fcntl.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped WinUSB handle
+// summary: Defines handle traits and a scoped wrapper that automatically frees WinUSB interface handles on Windows.
+// ---
+
 #ifndef SERVICES_DEVICE_USB_SCOPED_WINUSB_HANDLE_H_
 #define SERVICES_DEVICE_USB_SCOPED_WINUSB_HANDLE_H_
 

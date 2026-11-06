@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: usbfs USB device handle implementation
+// summary: Implements UsbDeviceHandleUsbfs, performing USB transfers through the Linux usbfs interface, including kernel driver detaching and permission broker support.
+// ---
+
 #include "services/device/usb/usb_device_handle_usbfs.h"
 
 #include <linux/usb/ch9.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CppTestHelper
+// summary: Java helper that provides a fake ChromeSerialManager and JNI callbacks to support the C++ serial device enumerator unit tests.
+// ---
+
 package org.chromium.device.serial;
 
 import android.os.Build;

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the image annotation service
+summary: Lists the owner email address for review routing in this directory.

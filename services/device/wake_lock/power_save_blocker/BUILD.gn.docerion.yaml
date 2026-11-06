@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Power save blocker GN build definition
+summary: Defines the power_save_blocker source set with platform-specific sources, dependencies, visibility, and Android JNI targets.

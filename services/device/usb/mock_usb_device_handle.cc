@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock USB device handle implementation
+// summary: Implements MockUsbDeviceHandle, which returns the device it is bound to for use in USB unit tests.
+// ---
+
 #include "services/device/usb/mock_usb_device_handle.h"
 
 #include "services/device/usb/usb_device.h"

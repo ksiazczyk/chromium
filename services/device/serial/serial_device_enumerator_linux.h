@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux serial device enumerator header
+// summary: Declares the Linux serial device enumerator that implements UdevWatcher::Observer to track serial tty devices.
+// ---
+
 #ifndef SERVICES_DEVICE_SERIAL_SERIAL_DEVICE_ENUMERATOR_LINUX_H_
 #define SERVICES_DEVICE_SERIAL_SERIAL_DEVICE_ENUMERATOR_LINUX_H_
 

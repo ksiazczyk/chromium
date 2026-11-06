@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUSB descriptor parsing interface
+// summary: Declares the WebUSB platform capability descriptor struct and functions to parse and read WebUSB descriptors from a device handle.
+// ---
+
 #ifndef SERVICES_DEVICE_USB_WEBUSB_DESCRIPTORS_H_
 #define SERVICES_DEVICE_USB_WEBUSB_DESCRIPTORS_H_
 

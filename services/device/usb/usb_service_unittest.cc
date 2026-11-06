@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: USB service unit tests
+// summary: Tests USB device enumeration and test gadget claim, disconnect, and reconnect behavior of the USB service.
+// ---
+
 #include <memory>
 
 #include "base/functional/bind.h"

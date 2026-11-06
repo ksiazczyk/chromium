@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WakeLockProvider class header
+// summary: Declares the WakeLockProvider class, which serves WakeLockContext connections and tracks wake lock counts, observers, and context-free wake locks across wake lock types.
+// ---
+
 #ifndef SERVICES_DEVICE_WAKE_LOCK_WAKE_LOCK_PROVIDER_H_
 #define SERVICES_DEVICE_WAKE_LOCK_WAKE_LOCK_PROVIDER_H_
 

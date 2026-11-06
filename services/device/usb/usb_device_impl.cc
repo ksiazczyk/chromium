@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UsbDeviceImpl implementation
+// summary: Implements the libusb-backed USB device, reading all configurations and opening the device on a blocking thread.
+// ---
+
 #include "services/device/usb/usb_device_impl.h"
 
 #include <fcntl.h>

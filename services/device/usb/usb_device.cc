@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UsbDevice implementation
+// summary: Implements UsbDevice, representing a detected USB device with its info, observer notifications, active configuration tracking and default permission handling.
+// ---
+
 #include "services/device/usb/usb_device.h"
 
 #include <utility>

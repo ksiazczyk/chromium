@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android time zone monitor implementation
+// summary: Implements TimeZoneMonitor on Android via JNI, receiving time zone change notifications from the Java side and updating ICU.
+// ---
+
 #include "services/device/time_zone_monitor/time_zone_monitor_android.h"
 
 #include <memory>

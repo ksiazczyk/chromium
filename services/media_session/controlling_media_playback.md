@@ -1,3 +1,9 @@
+---
+type: guide
+title: Controlling Media Playback
+summary: Explains how media sessions request audio focus and how observers and media controllers are used to control and monitor playback in Chrome.
+---
+
 # Controlling Media Playback
 
 A media session is a single abstract representation of a single playing source

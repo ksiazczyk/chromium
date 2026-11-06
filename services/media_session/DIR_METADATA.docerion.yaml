@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for Media Session
+summary: Points the directory metadata at COMMON_METADATA via mixins, following the dirmd schema.

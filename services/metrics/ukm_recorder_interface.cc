@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UkmRecorderInterface implementation
+// summary: Implements the Mojo UkmRecorderInterface by forwarding AddEntry and UpdateSourceURL calls to the underlying UkmRecorder.
+// ---
+
 #include "services/metrics/ukm_recorder_interface.h"
 
 #include "base/atomic_sequence_num.h"

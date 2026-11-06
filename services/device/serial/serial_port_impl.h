@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Serial port Mojo service header
+// summary: Declares SerialPortImpl, the mojom::SerialPort implementation that connects client and watcher interfaces and data pipes to the underlying serial I/O handler.
+// ---
+
 #ifndef SERVICES_DEVICE_SERIAL_SERIAL_PORT_IMPL_H_
 #define SERVICES_DEVICE_SERIAL_SERIAL_PORT_IMPL_H_
 

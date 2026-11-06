@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Wake lock BUILD.gn build definition
+summary: Defines the wake_lock source set, listing its sources and its public and private build dependencies.

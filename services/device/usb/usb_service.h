@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: USB service base class header
+// summary: Declares the UsbService class that manages USB event handling, device discovery, and observer notifications for added and removed devices.
+// ---
+
 #ifndef SERVICES_DEVICE_USB_USB_SERVICE_H_
 #define SERVICES_DEVICE_USB_USB_SERVICE_H_
 

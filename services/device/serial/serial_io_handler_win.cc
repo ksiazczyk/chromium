@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows serial I/O handler implementation
+// summary: Implements SerialIoHandlerWin, the Windows SerialIoHandler that maps serial configuration enums to Win32 constants and manages overlapped read and write operations.
+// ---
+
 #include "services/device/serial/serial_io_handler_win.h"
 
 #include <windows.h>

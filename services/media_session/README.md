@@ -1,3 +1,9 @@
+---
+type: readme
+title: Media Session
+summary: Explains the media session service, its Audio Focus and Media Session APIs, and the request, group, and source ID scheme.
+---
+
 # Media Session
 
 Media Session manages the media session and audio focus for playback across the

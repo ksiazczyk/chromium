@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UsbConfigurationAndroid header
+// summary: Declares UsbConfigurationAndroid, which converts a Java USB configuration object into a mojom UsbConfigurationInfo structure on Android.
+// ---
+
 #ifndef SERVICES_DEVICE_USB_USB_CONFIGURATION_ANDROID_H_
 #define SERVICES_DEVICE_USB_USB_CONFIGURATION_ANDROID_H_
 

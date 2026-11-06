@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image annotation service factory implementation
+// summary: Constructs the annotator with Google server URLs, throttling, batch size and OCR confidence settings and binds Mojo receivers.
+// ---
+
 #include "services/image_annotation/image_annotation_service.h"
 
 #include <utility>

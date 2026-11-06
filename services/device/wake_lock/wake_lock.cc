@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WakeLock implementation
+// summary: Implements the WakeLock Mojo binding, coalescing per-client lock requests and creating or removing the underlying power save blocker.
+// ---
+
 #include "services/device/wake_lock/wake_lock.h"
 
 #include <utility>

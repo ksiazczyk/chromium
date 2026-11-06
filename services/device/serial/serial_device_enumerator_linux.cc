@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux serial device enumerator
+// summary: Discovers serial ports on Linux by parsing /proc/tty/drivers and watching udev tty devices for additions, changes, and removals.
+// ---
+
 #include "services/device/serial/serial_device_enumerator_linux.h"
 
 #include <stdint.h>

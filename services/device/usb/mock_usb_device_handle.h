@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock USB device handle for tests
+// summary: GMock implementation of UsbDeviceHandle that fakes configuration, interface, and transfer calls for unit tests.
+// ---
+
 #ifndef SERVICES_DEVICE_USB_MOCK_USB_DEVICE_HANDLE_H_
 #define SERVICES_DEVICE_USB_MOCK_USB_DEVICE_HANDLE_H_
 

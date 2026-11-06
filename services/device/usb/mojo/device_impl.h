@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceImpl class header and histogram enums
+// summary: Declares the DeviceImpl class that binds a UsbDevice to a Mojo message pipe, plus histogram enums for permission outcomes and blocked state changes.
+// ---
+
 #ifndef SERVICES_DEVICE_USB_MOJO_DEVICE_IMPL_H_
 #define SERVICES_DEVICE_USB_MOJO_DEVICE_IMPL_H_
 

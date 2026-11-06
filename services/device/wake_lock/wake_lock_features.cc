@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wake lock feature flag definition
+// summary: Defines the kRemoveWakeLockInDestructor killswitch feature, enabled by default, for removing wake locks in the destructor.
+// ---
+
 #include "services/device/wake_lock/wake_lock_features.h"
 
 namespace features {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android VibrationManager implementation
+// summary: Java Android implementation of the VibrationManager that exposes vibrate and cancel calls to native code via JNI, enforcing duration limits, VIBRATE permission, and silent ringer checks.
+// ---
+
 package org.chromium.device.vibration;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceManagerTest fake device support implementation
+// summary: Implements the UsbDeviceManagerTest Mojo interface to add, remove, and list fake USB devices with WebUSB landing pages for testing.
+// ---
+
 #include "services/device/usb/mojo/device_manager_test.h"
 
 #include <string>

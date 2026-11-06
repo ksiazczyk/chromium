@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX serial I/O handler header
+// summary: Declares SerialIoHandlerPosix, the POSIX implementation of SerialIoHandler using file descriptor watchers and a state machine for receive error detection.
+// ---
+
 #ifndef SERVICES_DEVICE_SERIAL_SERIAL_IO_HANDLER_POSIX_H_
 #define SERVICES_DEVICE_SERIAL_SERIAL_IO_HANDLER_POSIX_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows serial I/O handler header
+// summary: Declares SerialIoHandlerWin, the Windows SerialIoHandler subclass with overlapped I/O contexts, control signal handling, and device removal support.
+// ---
+
 #ifndef SERVICES_DEVICE_SERIAL_SERIAL_IO_HANDLER_WIN_H_
 #define SERVICES_DEVICE_SERIAL_SERIAL_IO_HANDLER_WIN_H_
 

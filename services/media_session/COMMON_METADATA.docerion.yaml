@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Media Session directory metadata
+summary: Declares the Monorail component, team email, and Buganizer component used for issues in this directory.

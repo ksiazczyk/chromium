@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UsbDeviceWin class header
+// summary: Declares the Windows USB device with function info, driver type and descriptor reading via the parent hub.
+// ---
+
 #ifndef SERVICES_DEVICE_USB_USB_DEVICE_WIN_H_
 #define SERVICES_DEVICE_USB_USB_DEVICE_WIN_H_
 

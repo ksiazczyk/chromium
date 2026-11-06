@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Android vibration service build file
+summary: GN build file that generates JNI headers for VibrationManagerAndroid and builds the vibration manager Java library for the device service on Android.

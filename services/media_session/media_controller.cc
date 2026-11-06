@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaController implementation
+// summary: Implements the MediaController Mojo control surface that forwards playback commands and session events to observers for a specific media session.
+// ---
+
 #include "services/media_session/media_controller.h"
 
 #include <optional>

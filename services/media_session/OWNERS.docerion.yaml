@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Media Session owners
+summary: Lists steimel@chromium.org as the code owner for review of changes in this directory.

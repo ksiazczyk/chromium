@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeUsbInterface JNI wrapper for Android USB interface
+// summary: Java JNI wrapper exposing Android UsbInterface details including number, alternate setting, class, subclass, protocol, and endpoints to the C++ UsbInterfaceAndroid class.
+// ---
+
 package org.chromium.device.usb;
 
 import android.hardware.usb.UsbEndpoint;

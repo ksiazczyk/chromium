@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android screen orientation listener implementation
+// summary: Implements ScreenOrientationListenerAndroid as a self-owned Mojo receiver that queries Java to report whether the user enabled auto-rotate.
+// ---
+
 #include "services/device/screen_orientation/screen_orientation_listener_android.h"
 
 #include "base/android/jni_android.h"

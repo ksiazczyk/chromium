@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the image annotator
+// summary: Tests annotator request batching, server responses, caching and metrics using a test URL loader factory.
+// ---
+
 #include "services/image_annotation/annotator.h"
 
 #include <algorithm>

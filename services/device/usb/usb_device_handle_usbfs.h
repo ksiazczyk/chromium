@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UsbDeviceHandleUsbfs class header
+// summary: Declares the USB device handle implementation built on the Linux USBFS ioctl interface for Linux, Chrome OS and Android.
+// ---
+
 #ifndef SERVICES_DEVICE_USB_USB_DEVICE_HANDLE_USBFS_H_
 #define SERVICES_DEVICE_USB_USB_DEVICE_HANDLE_USBFS_H_
 

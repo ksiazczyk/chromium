@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth serial port unit tests
+// summary: Tests BluetoothSerialPortImpl with mock adapter, device and socket, covering open, read, write, flush and error paths over Mojo data pipes.
+// ---
+
 #include "services/device/serial/bluetooth_serial_port_impl.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio focus request implementation
+// summary: Implements a single audio focus stack entry, handling focus requests, abandonment, session info updates, and enforcement actions.
+// ---
+
 #include "services/media_session/audio_focus_request.h"
 
 #include "base/task/single_thread_task_runner.h"

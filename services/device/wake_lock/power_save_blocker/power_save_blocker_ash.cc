@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS Ash power save blocker implementation
+// summary: Implements PowerSaveBlocker on ChromeOS Ash by adding and removing wake locks through the PowerPolicyController.
+// ---
+
 #include <string>
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX serial I/O handler implementation
+// summary: Implements the POSIX serial I/O handler with termios port configuration, bitrate-to-speed conversion, control signals, flushing, and break and parity error detection.
+// ---
+
 #include "services/device/serial/serial_io_handler_posix.h"
 
 #include <sys/ioctl.h>
