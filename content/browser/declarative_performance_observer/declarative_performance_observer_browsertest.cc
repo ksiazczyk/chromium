@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeclarativePerformanceObserver browser tests
+// summary: Browser tests verifying end-to-end report delivery, back-forward cache behavior, and storage partition integration over an HTTPS test server.
+// ---
+
 #include "base/json/json_reader.h"
 #include "base/strings/string_util.h"
 #include "base/synchronization/lock.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemHotkeyMap class header
+// summary: Defines the SystemHotkeyMap class that tracks macOS system hotkeys so reserved key events are not passed to the renderer.
+// ---
+
 #ifndef CONTENT_BROWSER_COCOA_SYSTEM_HOTKEY_MAP_H_
 #define CONTENT_BROWSER_COCOA_SYSTEM_HOTKEY_MAP_H_
 

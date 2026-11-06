@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android contacts provider header
+// summary: Declares the Android ContactsProvider, including JNI entry points for adding contacts and ending the selection flow.
+// ---
+
 #ifndef CONTENT_BROWSER_CONTACTS_CONTACTS_PROVIDER_ANDROID_H_
 #define CONTENT_BROWSER_CONTACTS_CONTACTS_PROVIDER_ANDROID_H_
 

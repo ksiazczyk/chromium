@@ -1,0 +1,4 @@
+# Docerion header of date_time_chooser_mediator.mm.
+type: source
+title: Date time chooser mediator implementation
+summary: Converts the selected date into a numeric value and notifies DateTimeChooserIOS when the dialog closes.

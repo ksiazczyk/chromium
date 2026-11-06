@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie change subscription implementation
+// summary: Implements serialization, deserialization and Mojo conversion of cookie change subscriptions for service worker registrations.
+// ---
+
 #include "content/browser/cookie_store/cookie_change_subscription.h"
 
 #include <utility>

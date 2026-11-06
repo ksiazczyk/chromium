@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CacheStorage Class Implementation
+// summary: Implements the CacheStorage class that manages caches per origin-owner pair, including index files, matching, quota handling and UTF-16 cache name decoding.
+// ---
+
 #include "content/browser/cache_storage/cache_storage.h"
 
 #include <stddef.h>

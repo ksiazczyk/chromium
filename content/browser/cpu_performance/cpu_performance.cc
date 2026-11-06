@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CPU performance implementation
+// summary: Implements the experimental CPU Performance API, parsing CPU model strings into manufacturer and model and mapping core counts to performance tiers.
+// ---
+
 #include "content/browser/cpu_performance/cpu_performance.h"
 
 #include <optional>

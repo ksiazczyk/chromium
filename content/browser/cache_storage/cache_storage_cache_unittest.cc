@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CacheStorageCache unit tests
+// summary: Unit tests for CacheStorageCache covering cache operations, blob writing, quota, and error handling scenarios.
+// ---
+
 #include "content/browser/cache_storage/cache_storage_cache.h"
 
 #include <stddef.h>

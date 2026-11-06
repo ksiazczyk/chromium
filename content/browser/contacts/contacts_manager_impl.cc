@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContactsManagerImpl browser implementation
+// summary: Implements the browser-side ContactsManager Mojo service, enforcing main-frame and user activation requirements and recording UKM share statistics.
+// ---
+
 #include "content/browser/contacts/contacts_manager_impl.h"
 
 #include <memory>

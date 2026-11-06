@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CacheStorageScheduler unit tests
+// summary: Unit tests verifying scheduling of exclusive and shared operations, parallel operation limits, priorities, and completion behavior of the scheduler.
+// ---
+
 #include "content/browser/cache_storage/cache_storage_scheduler.h"
 
 #include "base/functional/bind.h"

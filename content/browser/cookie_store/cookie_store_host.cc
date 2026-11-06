@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie store host implementation
+// summary: Implements the per-connection CookieStore Mojo host that forwards subscription calls to the CookieStoreManager.
+// ---
+
 #include "content/browser/cookie_store/cookie_store_host.h"
 
 #include <utility>

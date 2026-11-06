@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cache storage histogram utils header
+// summary: Declares the ErrorStorageType enum and functions for recording cache storage scheduler UMA histograms.
+// ---
+
 #ifndef CONTENT_BROWSER_CACHE_STORAGE_CACHE_STORAGE_HISTOGRAM_UTILS_H_
 #define CONTENT_BROWSER_CACHE_STORAGE_CACHE_STORAGE_HISTOGRAM_UTILS_H_
 

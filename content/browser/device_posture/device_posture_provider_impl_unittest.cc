@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device posture provider unit tests
+// summary: Unit tests verifying that device posture updates are deferred while the WebContents is hidden or occluded and dispatched when it becomes visible again.
+// ---
+
 #include "content/browser/device_posture/device_posture_provider_impl.h"
 
 #include <optional>

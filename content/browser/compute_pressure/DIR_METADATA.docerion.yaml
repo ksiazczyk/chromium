@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Compute pressure directory metadata
+summary: Points the compute pressure directory to the shared metadata mixins in services/device/compute_pressure.

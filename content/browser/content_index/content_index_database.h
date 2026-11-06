@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content Index database header
+// summary: Declares ContentIndexDatabase, which handles adding, deleting and querying Content Index entries in the Service Worker database.
+// ---
+
 #ifndef CONTENT_BROWSER_CONTENT_INDEX_CONTENT_INDEX_DATABASE_H_
 #define CONTENT_BROWSER_CONTENT_INDEX_CONTENT_INDEX_DATABASE_H_
 

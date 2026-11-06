@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android device posture platform provider
+// summary: Implements the provider on Android over JNI, forwarding fold state and display feature bounds from the Java side.
+// ---
+
 #include "content/browser/device_posture/device_posture_platform_provider_android.h"
 
 #include "content/browser/web_contents/web_contents_android.h"

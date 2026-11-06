@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content device service implementation
+// summary: Implements the content browser device service, binding receivers to a sequence-local service instance and providing a system-backed shared URL loader factory.
+// ---
+
 #include "content/public/browser/device_service.h"
 
 #include "base/memory/scoped_refptr.h"

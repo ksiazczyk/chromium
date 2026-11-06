@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Surface utilities interface
+// summary: Declares exported helper functions for frame sink ID allocation, HostFrameSinkManager access, and copy output result conversion.
+// ---
+
 #ifndef CONTENT_BROWSER_COMPOSITOR_SURFACE_UTILS_H_
 #define CONTENT_BROWSER_COMPOSITOR_SURFACE_UTILS_H_
 

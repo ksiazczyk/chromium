@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple LRU cache implementation
+// summary: Implements SimpleLruCache, a capacity-bounded LRU cache for measuring memory-backed code cache performance, with get, put, delete, and eviction logic.
+// ---
+
 #include "content/browser/code_cache/simple_lru_cache.h"
 
 #include <limits>

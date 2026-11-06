@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeclarativePerformanceObserver unit tests
+// summary: Unit tests using mock navigation and network contexts to verify entry buffering, report queueing, and lifecycle handling.
+// ---
+
 #include "content/browser/declarative_performance_observer/declarative_performance_observer.h"
 
 #include <memory>

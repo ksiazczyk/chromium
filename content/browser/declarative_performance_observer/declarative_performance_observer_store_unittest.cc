@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeclarativePerformanceObserverStore unit tests
+// summary: Unit tests covering policy opt-in and opt-out, persistence across restarts, incognito in-memory mode, and load race conditions.
+// ---
+
 #include "content/browser/declarative_performance_observer/declarative_performance_observer_store.h"
 
 #include <memory>

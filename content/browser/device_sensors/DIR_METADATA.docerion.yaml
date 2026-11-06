@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Device sensors directory metadata
+summary: Sets the Blink>Sensor>DeviceOrientation monorail component, device-dev team email and Buganizer component ID for this directory.

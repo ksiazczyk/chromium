@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cache storage index implementation
+// summary: Implements CacheStorageIndex, maintaining ordered cache metadata with sizes, padding, and doomed-cache handling.
+// ---
+
 #include "content/browser/cache_storage/cache_storage_index.h"
 
 #include <utility>

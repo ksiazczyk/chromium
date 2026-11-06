@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cache storage scheduler histogram utilities
+// summary: Records UMA histograms for cache storage scheduler operations and builds client- and operation-specific histogram names.
+// ---
+
 #include "content/browser/cache_storage/cache_storage_histogram_utils.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content Index database unit tests
+// summary: Unit tests for the Content Index database that exercise service worker registration, adding and deleting entries, and retrieving descriptions using a mock content index provider.
+// ---
+
 #include "content/browser/content_index/content_index_database.h"
 
 #include <string>

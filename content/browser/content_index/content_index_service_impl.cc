@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content Index service implementation
+// summary: Browser-side implementation of the Content Index API service that binds the Mojo interface for frames and service workers and forwards add, delete and icon size requests to the content index context.
+// ---
+
 #include "content/browser/content_index/content_index_service_impl.h"
 
 #include <memory>

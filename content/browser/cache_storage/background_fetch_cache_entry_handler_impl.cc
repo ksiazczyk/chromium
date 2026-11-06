@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background Fetch Cache Entry Handler Implementation
+// summary: Implements the cache entry handler for background fetch, creating put contexts and populating request and response bodies from disk cache entries.
+// ---
+
 #include "content/browser/cache_storage/background_fetch_cache_entry_handler_impl.h"
 
 #include <optional>

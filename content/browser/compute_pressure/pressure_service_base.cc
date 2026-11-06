@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pressure service base implementation
+// summary: Implements shared Compute Pressure API service logic, including implicit focus checks and virtual pressure source handling.
+// ---
+
 #include "content/browser/compute_pressure/pressure_service_base.h"
 
 #include <algorithm>

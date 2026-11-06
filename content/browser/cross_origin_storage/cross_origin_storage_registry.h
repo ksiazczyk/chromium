@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-Origin Storage registry header
+// summary: Declares CrossOriginStorageRegistry, the per-profile cache owner, and documents the on-disk layout of metadata, blobs, and staging files.
+// ---
+
 #ifndef CONTENT_BROWSER_CROSS_ORIGIN_STORAGE_CROSS_ORIGIN_STORAGE_REGISTRY_H_
 #define CONTENT_BROWSER_CROSS_ORIGIN_STORAGE_CROSS_ORIGIN_STORAGE_REGISTRY_H_
 

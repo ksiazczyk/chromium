@@ -1,0 +1,4 @@
+# Docerion header of date_time_chooser_ios.mm.
+type: source
+title: iOS date time chooser implementation
+summary: Implements DateTimeChooserIOS, creating the coordinator to show the dialog and reporting results via the open callback.

@@ -1,0 +1,4 @@
+# Docerion header of date_time_chooser_view_controller.mm.
+type: source
+title: DateTimeChooserViewController implementation for the iOS date/time chooser
+summary: Implements the iOS date/time picker UI, configuring UIDatePicker modes for date, time, datetime, month, and week input types and reporting done or cancel actions to its delegate.

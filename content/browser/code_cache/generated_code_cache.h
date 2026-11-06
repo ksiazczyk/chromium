@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generated code cache class declaration
+// summary: Declares the per-storage-partition cache storing generated JavaScript, WebAssembly and WebUI code, keyed by resource URL plus origin lock for site isolation.
+// ---
+
 #ifndef CONTENT_BROWSER_CODE_CACHE_GENERATED_CODE_CACHE_H_
 #define CONTENT_BROWSER_CODE_CACHE_GENERATED_CODE_CACHE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CacheStorageQuotaClient class header
+// summary: Declares the self-owned QuotaClient receiver that bridges quota management to CacheStorageManager, one instance per manager and owner pair.
+// ---
+
 #ifndef CONTENT_BROWSER_CACHE_STORAGE_CACHE_STORAGE_QUOTA_CLIENT_H_
 #define CONTENT_BROWSER_CACHE_STORAGE_CACHE_STORAGE_QUOTA_CLIENT_H_
 

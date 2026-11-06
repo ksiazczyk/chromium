@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Windows foldable registry watcher implementation
+// summary: Implements a Windows registry watcher that reads the foldable device registry specification to compute posture and display feature bounds.
+// ---
+
 #include "content/browser/device_posture/device_posture_registry_watcher_win.h"
 
 #include <optional>

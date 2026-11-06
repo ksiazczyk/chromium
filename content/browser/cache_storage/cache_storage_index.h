@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CacheStorageIndex class header
+// summary: Declares CacheStorageIndex, which tracks ordered metadata for caches owned by a CacheStorage object.
+// ---
+
 #ifndef CONTENT_BROWSER_CACHE_STORAGE_CACHE_STORAGE_INDEX_H_
 #define CONTENT_BROWSER_CACHE_STORAGE_CACHE_STORAGE_INDEX_H_
 

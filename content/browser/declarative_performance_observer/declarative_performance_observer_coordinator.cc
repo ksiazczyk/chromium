@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeclarativePerformanceObserverCoordinator implementation
+// summary: Implements the tab-scoped WebContentsObserver that forwards visibility, frame deletion, BFCache, and navigation events to document observers.
+// ---
+
 #include "content/browser/declarative_performance_observer/declarative_performance_observer_coordinator.h"
 
 #include "content/browser/declarative_performance_observer/declarative_performance_observer.h"

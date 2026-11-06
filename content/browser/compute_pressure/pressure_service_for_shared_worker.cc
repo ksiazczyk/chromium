@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PressureServiceForSharedWorker implementation
+// summary: Implements the compute pressure service for shared workers, checking implicit focus of connected frames before delivering updates.
+// ---
+
 #include "content/browser/compute_pressure/pressure_service_for_shared_worker.h"
 
 #include <algorithm>

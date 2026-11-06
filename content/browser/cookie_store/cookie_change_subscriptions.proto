@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie change subscriptions protobuf definitions
+// summary: Defines protobuf messages for persisting cookie change subscriptions belonging to service worker registrations.
+// ---
+
 syntax = "proto3";
 
 option optimize_for = LITE_RUNTIME;

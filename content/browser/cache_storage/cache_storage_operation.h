@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CacheStorageOperation class header
+// summary: Declares CacheStorageOperation, a closure runnable in the CacheStorageScheduler that carries scheduler metadata and timing metrics.
+// ---
+
 #ifndef CONTENT_BROWSER_CACHE_STORAGE_CACHE_STORAGE_OPERATION_H_
 #define CONTENT_BROWSER_CACHE_STORAGE_CACHE_STORAGE_OPERATION_H_
 

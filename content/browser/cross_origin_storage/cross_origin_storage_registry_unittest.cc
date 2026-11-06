@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cross-Origin Storage registry unit tests
+// summary: Unit tests covering hash creation validation, digest matching, and the registry's read and commit behavior.
+// ---
+
 #include "content/browser/cross_origin_storage/cross_origin_storage_registry.h"
 
 #include <array>

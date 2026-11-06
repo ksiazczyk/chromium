@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-Origin Storage types header
+// summary: Declares shared constants, the status enum, the validated CrossOriginStorageHash type, and the CrossOriginStorageAccessSpec sharing scope.
+// ---
+
 #ifndef CONTENT_BROWSER_CROSS_ORIGIN_STORAGE_CROSS_ORIGIN_STORAGE_TYPES_H_
 #define CONTENT_BROWSER_CROSS_ORIGIN_STORAGE_CROSS_ORIGIN_STORAGE_TYPES_H_
 

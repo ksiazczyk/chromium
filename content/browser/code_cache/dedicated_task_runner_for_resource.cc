@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dedicated task runner for resource implementation
+// summary: Implements a registry mapping file paths to dedicated single-thread task runners, sequencing per-path operations with reference-counted acquisition and release.
+// ---
+
 #include "content/browser/code_cache/dedicated_task_runner_for_resource.h"
 
 #include <memory>

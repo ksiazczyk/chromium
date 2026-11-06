@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Date time chooser delegate protocol
+// summary: Defines the DateTimeChooserDelegate protocol invoked when the user closes a date/time chooser dialog.
+// ---
+
 #ifndef CONTENT_BROWSER_DATE_TIME_CHOOSER_IOS_DATE_TIME_CHOOSER_DELEGATE_H_
 #define CONTENT_BROWSER_DATE_TIME_CHOOSER_IOS_DATE_TIME_CHOOSER_DELEGATE_H_
 

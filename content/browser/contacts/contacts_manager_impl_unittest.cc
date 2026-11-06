@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContactsManagerImpl unit tests
+// summary: Tests the contacts manager against a mock provider, covering selection with user activation and rejection without it.
+// ---
+
 #include "content/browser/contacts/contacts_manager_impl.h"
 
 #include "base/memory/raw_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-Origin Storage registry implementation
+// summary: Implements the per-profile Cross-Origin Storage registry that persists metadata and content-addressed blobs under the profile's CrossOriginStorage directory.
+// ---
+
 #include "content/browser/cross_origin_storage/cross_origin_storage_registry.h"
 
 #include <algorithm>

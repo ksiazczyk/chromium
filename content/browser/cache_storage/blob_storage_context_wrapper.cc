@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blob Storage Context Wrapper Implementation
+// summary: Implements the refcounted wrapper that binds and exposes the BlobStorageContext Mojo remote on a single sequence.
+// ---
+
 #include "content/browser/cache_storage/blob_storage_context_wrapper.h"
 
 namespace content {

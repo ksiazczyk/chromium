@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie change subscription class declaration
+// summary: Declares the CookieChangeSubscription class representing a single cookie change subscription watched for a service worker.
+// ---
+
 #ifndef CONTENT_BROWSER_COOKIE_STORE_COOKIE_CHANGE_SUBSCRIPTION_H_
 #define CONTENT_BROWSER_COOKIE_STORE_COOKIE_CHANGE_SUBSCRIPTION_H_
 

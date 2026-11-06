@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CookieStoreManager unit tests
+// summary: Unit tests for CookieStoreManager covering adding, removing, and getting cookie change subscriptions and cookie change handling for service workers.
+// ---
+
 #include "content/browser/cookie_store/cookie_store_manager.h"
 
 #include <memory>

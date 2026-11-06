@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CacheStorageScheduler types header
+// summary: Defines the scheduler ID alias and the client, mode, operation, and priority enums used by the cache storage scheduler and its histograms.
+// ---
+
 #ifndef CONTENT_BROWSER_CACHE_STORAGE_CACHE_STORAGE_SCHEDULER_TYPES_H_
 #define CONTENT_BROWSER_CACHE_STORAGE_CACHE_STORAGE_SCHEDULER_TYPES_H_
 

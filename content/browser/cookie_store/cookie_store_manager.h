@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CookieStoreManager header for service worker cookie subscriptions
+// summary: Declares the CookieStoreManager class that manages cookie change subscriptions for service workers in a StoragePartition, persisting them as service worker registration user data.
+// ---
+
 #ifndef CONTENT_BROWSER_COOKIE_STORE_COOKIE_STORE_MANAGER_H_
 #define CONTENT_BROWSER_COOKIE_STORE_COOKIE_STORE_MANAGER_H_
 

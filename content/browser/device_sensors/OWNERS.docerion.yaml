@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Device sensors OWNERS
+summary: Delegates code ownership of the device sensors directory to the generic sensor OWNERS file in services/device.

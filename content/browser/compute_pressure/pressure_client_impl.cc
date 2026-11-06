@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pressure client implementation
+// summary: Implements the browser-side pressure client that receives pressure updates from the device service and forwards them to Blink.
+// ---
+
 #include "content/browser/compute_pressure/pressure_client_impl.h"
 
 #include "content/browser/compute_pressure/pressure_service_base.h"

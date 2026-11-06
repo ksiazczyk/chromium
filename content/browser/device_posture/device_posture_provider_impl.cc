@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser-side device posture provider implementation
+// summary: Implements the per-WebContents device posture provider that dispatches posture changes to renderer clients, defers updates while hidden, and supports emulation.
+// ---
+
 #include "content/browser/device_posture/device_posture_provider_impl.h"
 
 #include "base/functional/bind.h"

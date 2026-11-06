@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CacheStorageCacheHandle alias header
+// summary: Defines CacheStorageCacheHandle as an alias for the reference-counted CacheStorageRef<CacheStorageCache> handle type.
+// ---
+
 #ifndef CONTENT_BROWSER_CACHE_STORAGE_CACHE_STORAGE_CACHE_HANDLE_H_
 #define CONTENT_BROWSER_CACHE_STORAGE_CACHE_STORAGE_CACHE_HANDLE_H_
 

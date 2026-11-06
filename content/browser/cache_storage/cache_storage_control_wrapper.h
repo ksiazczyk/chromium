@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CacheStorageControlWrapper class declaration
+// summary: Declares a browser-side CacheStorageControl wrapper that tracks storage key usage via a storage policy observer and forwards calls to the storage service.
+// ---
+
 #ifndef CONTENT_BROWSER_CACHE_STORAGE_CACHE_STORAGE_CONTROL_WRAPPER_H_
 #define CONTENT_BROWSER_CACHE_STORAGE_CACHE_STORAGE_CONTROL_WRAPPER_H_
 

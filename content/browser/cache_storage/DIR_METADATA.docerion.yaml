@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Cache Storage Directory Metadata
+summary: Points the cache storage directory to the shared COMMON_METADATA definitions via a mixin.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for cpu_performance
+summary: Chromium OWNERS file listing nikolaos@chromium.org as the code owner of the cpu_performance directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VizProcessTransportFactory implementation
+// summary: Implements the browser-side context factory that connects to the viz display compositor process, managing GPU channels, frame sinks, and compositing fallback.
+// ---
+
 #include "content/browser/compositor/viz_process_transport_factory.h"
 
 #include <utility>

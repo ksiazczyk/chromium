@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CacheStorage trace value helpers header
+// summary: Declares helper functions that convert cache storage related values into TracedValue objects suitable for TRACE_EVENT macros.
+// ---
+
 #ifndef CONTENT_BROWSER_CACHE_STORAGE_CACHE_STORAGE_TRACE_UTILS_H_
 #define CONTENT_BROWSER_CACHE_STORAGE_CACHE_STORAGE_TRACE_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background Fetch Cache Entry Handler Header
+// summary: Declares BackgroundFetchCacheEntryHandlerImpl, the CacheStorageCacheEntryHandler subclass for background fetch requests and responses.
+// ---
+
 #ifndef CONTENT_BROWSER_CACHE_STORAGE_BACKGROUND_FETCH_CACHE_ENTRY_HANDLER_IMPL_H_
 #define CONTENT_BROWSER_CACHE_STORAGE_BACKGROUND_FETCH_CACHE_ENTRY_HANDLER_IMPL_H_
 

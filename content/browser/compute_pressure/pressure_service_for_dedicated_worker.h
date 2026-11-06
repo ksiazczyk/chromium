@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dedicated worker pressure service class declaration
+// summary: Declares PressureServiceForDedicatedWorker, a PressureServiceBase subclass owned by DedicatedWorkerHost.
+// ---
+
 #ifndef CONTENT_BROWSER_COMPUTE_PRESSURE_PRESSURE_SERVICE_FOR_DEDICATED_WORKER_H_
 #define CONTENT_BROWSER_COMPUTE_PRESSURE_PRESSURE_SERVICE_FOR_DEDICATED_WORKER_H_
 

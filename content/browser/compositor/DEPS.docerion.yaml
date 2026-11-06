@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the compositor directory
+summary: Defines the allowed include dependencies for the compositor directory, permitting viz common and host components and ui platform window.

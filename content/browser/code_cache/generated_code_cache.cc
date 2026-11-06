@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generated code cache implementation
+// summary: Implements the disk-backed cache for renderer-generated code, keyed by resource URL and origin lock, with validity checks and JS, Wasm and WebUI cache types.
+// ---
+
 #include "content/browser/code_cache/generated_code_cache.h"
 
 #include <iostream>

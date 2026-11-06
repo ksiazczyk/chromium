@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Cookie store DIR_METADATA
+summary: Points the directory to the shared COMMON_METADATA file so it inherits the same tracking metadata.

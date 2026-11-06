@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Generated code cache browser tests
+// summary: Browser tests exercising code cache behavior across cache partitioning and background resource fetch configurations, including shared worker scenarios.
+// ---
+
 #include "content/browser/code_cache/generated_code_cache.h"
 
 #include <optional>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Client Hints Directory Owners
+summary: Delegates code ownership of the browser client hints directory to components/client_hints/OWNERS.
