@@ -1,0 +1,4 @@
+# Docerion header of webrtc_jsep01_test.html.
+type: test
+title: WebRTC JSEP peer connection test page
+summary: Provides local and remote video views and canvases for automated peer connection and JSEP tests.

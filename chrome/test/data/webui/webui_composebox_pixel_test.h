@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI ComposeBox pixel test base class
+// summary: Header defining the WebUIComposeBoxPixelTest base class with steps to instrument tabs, disable animations and set backgrounds for pixel tests.
+// ---
+
 #ifndef CHROME_TEST_DATA_WEBUI_WEBUI_COMPOSEBOX_PIXEL_TEST_H_
 #define CHROME_TEST_DATA_WEBUI_WEBUI_COMPOSEBOX_PIXEL_TEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test user education mixed trust handler mock
+// summary: Mock UserEducationMixedTrustHandler browser proxy that records feature promo and new badge calls and lets tests configure new badge responses.
+// ---
+
 import type {FeaturePromoFeatureUsedAction, FeaturePromoParams, UserEducationMixedTrustHandlerInterface} from '//resources/mojo/components/user_education/webui/user_education.mojom-webui.js';
 
 import {TestBrowserProxy} from './test_browser_proxy.js';

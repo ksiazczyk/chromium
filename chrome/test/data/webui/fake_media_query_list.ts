@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake MediaQueryList for matchMedia mocking
+// summary: Provides a fake MediaQueryList class that mocks window.matchMedia responses in WebUI tests.
+// ---
+
 // Fake MediaQueryList used in mocking response of |window.matchMedia|.
 export class FakeMediaQueryList extends EventTarget implements MediaQueryList {
   private matches_: boolean = false;

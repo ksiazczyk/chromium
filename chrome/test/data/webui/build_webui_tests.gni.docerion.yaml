@@ -1,0 +1,4 @@
+# Docerion header of build_webui_tests.gni.
+type: test
+title: GN template for building WebUI tests
+summary: Provides a GN template that preprocesses, compiles, lints, and packages WebUI Mocha test files.

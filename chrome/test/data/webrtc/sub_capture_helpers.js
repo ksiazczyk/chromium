@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Sub-capture test helpers
+// summary: JavaScript helpers coordinating capture sessions, sub-capture targets, element creation, and message passing between test pages and the C++ test fixture.
+// ---
+
 "use strict";
 
 ///////////////////////////

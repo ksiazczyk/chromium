@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Access Code Cast WebUI browser test harness
+// summary: C++ WebUI mocha browser test that enables the access code cast preference and runs the app, browser proxy, error message and passcode input test suites.
+// ---
+
 #include "chrome/browser/media/router/discovery/access_code/access_code_cast_feature.h"
 #include "chrome/browser/profiles/profile.h"
 #include "chrome/common/webui_url_constants.h"

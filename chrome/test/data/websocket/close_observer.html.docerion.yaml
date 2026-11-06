@@ -1,0 +1,4 @@
+# Docerion header of close_observer.html.
+type: test
+title: WebSocket close observer page
+summary: Test page that connects to close-observer_wsh.py as observer and sets the title to PASS or FAIL depending on the message received about a closed tab's connection.

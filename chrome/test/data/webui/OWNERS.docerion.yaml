@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: WebUI test directory owners
+summary: Delegates ownership review of this directory to the WebUI platform owners file.

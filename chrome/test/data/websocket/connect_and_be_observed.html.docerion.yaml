@@ -1,0 +1,4 @@
+# Docerion header of connect_and_be_observed.html.
+type: test
+title: WebSocket observed connection page
+summary: Test page that opens a WebSocket to close-observer_wsh.py as the observed role and leaves the connection open for the SendCloseFrameWhenTabIsClosed test.

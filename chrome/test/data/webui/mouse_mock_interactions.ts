@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mouse mock interactions for WebUI tests
+// summary: Helpers that simulate mouse events such as move, down, up and drag gestures on DOM nodes for WebUI tests.
+// ---
+
 interface Point {
   x: number;
   y: number;

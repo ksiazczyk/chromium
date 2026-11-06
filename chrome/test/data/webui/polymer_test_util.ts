@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Polymer test utilities
+// summary: Promise-based render waits, task flushing and fake data binding helpers for testing Polymer elements.
+// ---
+
 import type {PolymerElement} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import {afterNextRender, beforeNextRender, flush} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 

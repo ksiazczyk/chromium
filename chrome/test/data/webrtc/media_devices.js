@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Media device enumeration helper
+// summary: Helper that enumerates available media devices on the system and returns them as JSON for browser tests.
+// ---
+
 /**
  * Queries for media devices on the current system using the getMediaDevices
  * API.

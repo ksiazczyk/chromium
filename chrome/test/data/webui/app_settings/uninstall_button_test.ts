@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Uninstall button test suite
+// summary: Tests the app management uninstall button behavior for user, policy, system, and command line installed apps.
+// ---
+
 /** @fileoverview Test suite for app-management-uninstall-button. */
 import 'chrome://app-settings/uninstall_button.js';
 

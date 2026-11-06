@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test browser proxy for access code cast tests
+// summary: Provides a mock browser proxy with configurable add sink and cast results that records method calls for use in the WebUI test suites.
+// ---
+
 import type {AddSinkResultCode, CastDiscoveryMethod} from 'chrome://access-code-cast/access_code_cast.mojom-webui.js';
 import {PageCallbackRouter} from 'chrome://access-code-cast/access_code_cast.mojom-webui.js';
 import type {RouteRequestResultCode} from 'chrome://access-code-cast/route_request_result_code.mojom-webui.js';

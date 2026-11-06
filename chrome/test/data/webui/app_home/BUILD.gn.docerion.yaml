@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: App home WebUI tests build configuration
+summary: GN build file defining the build_webui_tests target for app_home, listing the C++ and TypeScript test sources, path mappings, and TypeScript dependencies.

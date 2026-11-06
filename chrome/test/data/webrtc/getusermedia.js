@@ -9,6 +9,12 @@
  * information on getUserMedia.
  */
 
+// ---docerion
+// type: test
+// title: getUserMedia test helper functions
+// summary: Helpers for requesting webcam and microphone access, reporting grant or denial results, and managing local streams in WebRTC tests.
+// ---
+
 /**
  * Keeps track of our local stream (e.g. what our local webcam is streaming).
  * @private

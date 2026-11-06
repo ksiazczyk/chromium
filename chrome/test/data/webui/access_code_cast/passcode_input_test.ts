@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Passcode input element tests
+// summary: Tests the c2c-passcode-input element for value handling, focus display across character boxes and cursor rendering positions.
+// ---
+
 import 'chrome://access-code-cast/passcode_input/passcode_input.js';
 
 import type {PasscodeInputElement} from 'chrome://access-code-cast/passcode_input/passcode_input.js';

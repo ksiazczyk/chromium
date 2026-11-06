@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Peer connection test helpers
+// summary: JavaScript library for WebRTC browser tests that creates and configures an RTCPeerConnection, including certificate setup, codec, bitrate, and Opus DTX options.
+// ---
+
 /**
  * The one and only peer connection in this page.
  * @private

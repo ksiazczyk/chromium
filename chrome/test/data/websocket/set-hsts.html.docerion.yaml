@@ -1,0 +1,4 @@
+# Docerion header of set-hsts.html.
+type: test
+title: HSTS setup page
+summary: Minimal test page whose mock response delivers a Strict-Transport-Security header for WebSocket HSTS tests.

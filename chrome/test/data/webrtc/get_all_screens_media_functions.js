@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: getAllScreensMedia test helper functions
+// summary: JavaScript helpers to run, stop, and inspect getAllScreensMedia and getDisplayMedia streams, including screenDetailed checks, in browser tests.
+// ---
+
 'use strict';
 
 let gasm_streams;

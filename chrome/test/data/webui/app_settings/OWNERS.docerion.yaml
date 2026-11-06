@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for app settings tests
+summary: Delegates review ownership for these tests to the OWNERS file of the app_settings resources directory.

@@ -4,6 +4,12 @@
 
 /** @fileoverview Assertion helper functions wrapping the chaijs API. */
 
+// ---docerion
+// type: test
+// title: Chai assertion helpers for WebUI tests
+// summary: Wraps the chai.js assertion API in helper functions that WebUI tests should import instead of chai directly.
+// ---
+
 // WebUI tests should depend on the assertion helper functions in this file instead of on Chai
 // directly. This file is the only allowed import of chai.js.
 // eslint-disable-next-line no-restricted-imports

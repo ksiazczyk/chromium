@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base_lit.json.
+type: config
+title: tsconfig_base_lit.json
+summary: TypeScript configuration extending tsconfig_base.json with an ES2024 target and DOM libraries for Lit-based WebUI tests.

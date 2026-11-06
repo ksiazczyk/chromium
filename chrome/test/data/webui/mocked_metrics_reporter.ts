@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mocked metrics reporter for WebUI tests
+// summary: Mock implementation of the MetricsReporter interface that stubs mark, measure and UMA reporting calls during WebUI tests.
+// ---
+
 import type {MetricsReporter} from 'chrome://resources/js/metrics_reporter/metrics_reporter.js';
 
 export class MockedMetricsReporter implements MetricsReporter {

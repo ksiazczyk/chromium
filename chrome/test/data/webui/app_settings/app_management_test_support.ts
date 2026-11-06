@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App management test support helpers
+// summary: Shared test utilities that set up a mock page handler, a test metrics browser proxy, and create configurable test apps for the app settings suites.
+// ---
+
 import type {App} from 'chrome://resources/cr_components/app_management/app_management.mojom-webui.js';
 import {AppType, browserProxyFactory, InstallReason, InstallSource, PageHandlerRemote, PermissionType, RunOnOsLoginMode, TriState, WindowMode} from 'chrome://resources/cr_components/app_management/app_management.mojom-webui.js';
 import type {MetricsBrowserProxy} from 'chrome://resources/cr_components/app_management/metrics_browser_proxy.js';

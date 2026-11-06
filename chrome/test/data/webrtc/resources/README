@@ -1,3 +1,9 @@
+---
+type: readme
+title: WebRTC test resources README
+summary: Explains that the sha1 files are resolved by download_from_google_storage and that reference videos must be frame-exact copies for the WebRTC video quality test.
+---
+
 These *sha1 files are resolved by download_from_google_storage. Include this
 solution in your .gclient to make downloading happen automatically:
 

@@ -1,0 +1,4 @@
+# Docerion header of connect_to.html.
+type: test
+title: WebSocket connect-to page
+summary: Test page that connects to the WebSocket URL supplied in the ?url= parameter, sets the title to PASS or FAIL, and forwards messages to the automation controller.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission item test suite
+// summary: Tests the app management permission item toggle, verifying permission updates and the recorded user action metrics.
+// ---
+
 /** @fileoverview Test suite for app-manageemnt-permission-item. */
 import 'chrome://app-settings/permission_item.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Injected communication channel test helper
+// summary: Test page script that listens for messages from an embedder and reports back a successful connection.
+// ---
+
 // eslint-disable-next-line no-var
 var embedder = null;
 

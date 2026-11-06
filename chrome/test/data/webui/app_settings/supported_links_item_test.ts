@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Supported links item test suite
+// summary: Tests the supported links item element, covering visibility, tab mode, and the supported links and overlapping apps dialogs.
+// ---
+
 /** @fileoverview Test suite for SupportedLinksItemElement. */
 import 'chrome://app-settings/supported_links_item.js';
 

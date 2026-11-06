@@ -1,0 +1,4 @@
+# Docerion header of extension_webui_listeners_test.html.
+type: test
+title: Extension WebUI listeners test page
+summary: Minimal HTML page used as test data for the ExtensionWebUIListenersTest.

@@ -1,0 +1,4 @@
+# Docerion header of webrtc_video_quality_test.html.
+type: test
+title: WebRTC video quality test page
+summary: Automated test page showing local and remote WebRTC video views that starts frame capture on the remote stream for five seconds to support video quality testing.

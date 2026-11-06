@@ -1,0 +1,4 @@
+# Docerion header of connect_check.html.
+type: test
+title: WebSocket connectivity check page
+summary: Test page that verifies WebSocket connectivity from both the page and a worker, setting the document title to PASS or FAIL for TitleWatcher.

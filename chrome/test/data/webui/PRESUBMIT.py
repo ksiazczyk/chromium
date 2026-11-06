@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for WebUI tests
+# summary: Runs ESLint style checks, enforces the _test filename suffix, and warns about newly disabled C++ test suites.
+# ---
+
 PRESUBMIT_VERSION = '2.0.0'
 
 

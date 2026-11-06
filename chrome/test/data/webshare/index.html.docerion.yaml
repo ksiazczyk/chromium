@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: test
+title: Web Share API test page
+summary: HTML test page that calls navigator.share with text, title, URL, and single or multiple files to support Chromium's Web Share browser tests.

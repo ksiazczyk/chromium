@@ -1,0 +1,4 @@
+# Docerion header of check_tests_referenced.py.
+type: script
+title: Check that Mocha tests are referenced
+summary: Script that fails when a Mocha TS test file is not referenced by any of the given C++ test files.

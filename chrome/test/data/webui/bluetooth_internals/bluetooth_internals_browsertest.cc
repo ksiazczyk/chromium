@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth internals browser test
+// summary: Browser test that loads the Bluetooth internals WebUI page and runs its Mocha JavaScript test suite, enabling the MojoJSTest bindings needed by the tests.
+// ---
+
 #include "base/command_line.h"
 #include "chrome/common/webui_url_constants.h"
 #include "chrome/test/base/web_ui_mocha_browser_test.h"

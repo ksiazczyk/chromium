@@ -1,0 +1,4 @@
+# Docerion header of connect_to_with_target_address_space_loopback.html.
+type: test
+title: WebSocket connection test with loopback target address space
+summary: Test page that opens a WebSocket with targetAddressSpace 'loopback' to bypass mixed content checks and signals the result via the document title.

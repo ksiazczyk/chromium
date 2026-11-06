@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test browser proxy base class
+// summary: Base class for test browser proxies that tracks method calls and resolves promises via whenCalled for WebUI tests.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 import {PromiseResolver} from '//resources/js/promise_resolver.js';
 

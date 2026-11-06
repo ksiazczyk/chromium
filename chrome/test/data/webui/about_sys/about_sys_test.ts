@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mocha tests for the about_sys system info page
+// summary: Mocha test suite for the about_sys page that verifies system info requests and the page title using sample system logs and a test browser proxy.
+// ---
+
 import 'chrome://system/app.js';
 
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';

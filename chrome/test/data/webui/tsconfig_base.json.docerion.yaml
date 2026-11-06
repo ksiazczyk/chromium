@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base.json.
+type: config
+title: tsconfig_base.json
+summary: Base TypeScript configuration for WebUI tests that extends the Chromium tools config and enables mocha and trusted-types type definitions.

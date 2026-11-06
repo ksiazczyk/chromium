@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Actor overlay test owners
+summary: Points to the OWNERS file of chrome/browser/actor to define review ownership for this test directory.

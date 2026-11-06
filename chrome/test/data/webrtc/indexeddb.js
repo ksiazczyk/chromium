@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: IndexedDB certificate test helpers
+// summary: Helpers that open, close, and delete a test database and generate and clone RTCPeerConnection certificates stored via IndexedDB.
+// ---
+
 /** @private */
 var kDatabaseName = 'WebRTC-Database';
 

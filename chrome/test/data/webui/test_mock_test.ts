@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the TestMock base class
+// summary: Chai-based test suite verifying TestMock call tracking, result setting, promise resolution and reset behavior.
+// ---
+
 import {assertArrayEquals, assertEquals, assertNotReached} from './chai_assert.js';
 import {TestMock} from './test_mock.js';
 

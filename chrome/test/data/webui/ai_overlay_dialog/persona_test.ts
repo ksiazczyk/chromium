@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Persona template processing tests
+// summary: Mocha tests for persona template functions covering conditionals, numbering, variable substitution, and their integration.
+// ---
+
 // NOTE: These tests exercise branded internal persona functionality (`internal/persona.js`).
 // TODO(crbug.com/532099566): Move branded-specific WebUI tests into an internal test subdirectory.
 import 'chrome-untrusted://ai-overlay-dialog/internal/persona.js';

@@ -1,0 +1,4 @@
+# Docerion header of set-hsts.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for set-hsts.html
+summary: Mock HTTP response headers that set a one-hour Strict-Transport-Security directive when set-hsts.html is served.

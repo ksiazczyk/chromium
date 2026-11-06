@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: WebUI browser tests build targets
+summary: Defines GN targets for Chrome WebUI browser tests, listing test sources, dependencies, and platform-conditional entries.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test browser proxy for about_sys tests
+// summary: Mock browser proxy for about_sys tests that records requestSystemInfo calls and resolves with configurable system log data.
+// ---
+
 import type {BrowserProxy, SystemLog} from 'chrome://system/browser_proxy.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';
 

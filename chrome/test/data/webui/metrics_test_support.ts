@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Metrics tracking test support
+// summary: Intercepts chrome.metricsPrivate and chrome.histograms calls and records them so tests can verify metric logging.
+// ---
+
 /** Tracks metrics calls to verify metric logging in tests. */
 export class MetricsTracker {
   private histogramMap_: Map<string, any[]> = new Map();
