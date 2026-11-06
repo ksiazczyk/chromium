@@ -1,0 +1,4 @@
+# Docerion header of ios_system_signals_collector_unittest.mm.
+type: test
+title: IOSSystemSignalsCollector unit tests
+summary: Unit tests for the system signals collector that check supported signal names and OS signal values using mock policy managers and a fake reauthentication module.

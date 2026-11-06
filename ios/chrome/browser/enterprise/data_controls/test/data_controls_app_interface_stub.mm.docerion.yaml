@@ -1,0 +1,4 @@
+# Docerion header of data_controls_app_interface_stub.mm.
+type: test
+title: Data controls app interface stub
+summary: Stub that registers DataControlsAppInterface in the app main queue via GREY_STUB_CLASS_IN_APP_MAIN_QUEUE for Earl Grey test runs.

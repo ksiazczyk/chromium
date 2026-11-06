@@ -1,0 +1,4 @@
+# Docerion header of browser_context_delegate_ios_unittest.mm.
+type: test
+title: Unit tests for the iOS browser context delegate
+summary: Verifies that the browser context delegate returns the expected identity names, policy pref, and logging context.

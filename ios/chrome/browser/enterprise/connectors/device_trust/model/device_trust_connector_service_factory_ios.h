@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device Trust connector service factory header
+// summary: Declares the profile-keyed service factory that provides DeviceTrustConnectorService instances on iOS.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_MODEL_DEVICE_TRUST_CONNECTOR_SERVICE_FACTORY_IOS_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_MODEL_DEVICE_TRUST_CONNECTOR_SERVICE_FACTORY_IOS_H_
 

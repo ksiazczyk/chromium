@@ -1,0 +1,4 @@
+# Docerion header of ios_cloud_binary_upload_service_factory.mm.
+type: source
+title: IOSCloudBinaryUploadServiceFactory implementation
+summary: Implements the factory that builds CloudBinaryUploadServiceBase instances with an IOSCloudBinaryUploadService delegate for each profile.

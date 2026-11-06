@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data protection URL lookup service factory
+// summary: Declares a profile-keyed singleton factory that provides a DataProtectionUrlLookupService per profile and skips creation for Incognito profiles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_DATA_PROTECTION_MODEL_DATA_PROTECTION_URL_LOOKUP_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_DATA_PROTECTION_MODEL_DATA_PROTECTION_URL_LOOKUP_SERVICE_FACTORY_H_
 

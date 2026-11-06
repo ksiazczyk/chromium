@@ -1,0 +1,4 @@
+# Docerion header of watermark_overlay_coordinator.mm.
+type: source
+title: WatermarkOverlayCoordinator implementation
+summary: Implements presentation and dismissal of the watermark overlay using a watermark view controller and mediator.

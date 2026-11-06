@@ -1,0 +1,4 @@
+# Docerion header of external_file_remover_impl.mm.
+type: source
+title: External file remover implementation
+summary: Implements removal of files received from other apps that are not referenced by open tabs, recently closed tabs, or bookmarks.

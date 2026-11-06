@@ -1,0 +1,4 @@
+# Docerion header of ios_rules_service_factory.mm.
+type: source
+title: iOS rules service factory implementation
+summary: Implements the factory that creates and returns IOSRulesService instances for browser profiles, including incognito handling.

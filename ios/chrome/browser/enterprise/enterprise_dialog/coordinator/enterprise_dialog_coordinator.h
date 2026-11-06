@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnterpriseDialogCoordinator interface
+// summary: Declares the coordinator that shows a warning dialog when a sensitive data action is taken and reports the user's choice via a callback.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_ENTERPRISE_DIALOG_COORDINATOR_ENTERPRISE_DIALOG_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_ENTERPRISE_DIALOG_COORDINATOR_ENTERPRISE_DIALOG_COORDINATOR_H_
 

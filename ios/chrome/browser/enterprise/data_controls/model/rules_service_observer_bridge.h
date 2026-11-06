@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RulesServiceObserverBridge header
+// summary: Declares the RulesServiceObserving Objective-C protocol and the RulesServiceObserverBridge class that forwards RulesServiceBase rule updates to Objective-C clients.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_DATA_CONTROLS_MODEL_RULES_SERVICE_OBSERVER_BRIDGE_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_DATA_CONTROLS_MODEL_RULES_SERVICE_OBSERVER_BRIDGE_H_
 

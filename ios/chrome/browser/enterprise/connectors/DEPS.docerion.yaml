@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for enterprise connectors
+summary: Restricts the headers this directory may include, allowing safe browsing, signin, and enterprise analysis model dependencies.

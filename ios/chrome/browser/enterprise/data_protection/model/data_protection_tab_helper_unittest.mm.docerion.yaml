@@ -1,0 +1,4 @@
+# Docerion header of data_protection_tab_helper_unittest.mm.
+type: test
+title: Data protection tab helper unit tests
+summary: Unit tests for the data protection tab helper, covering screenshot protection decisions using fake URL lookup services, overlay requests, and histogram metrics.

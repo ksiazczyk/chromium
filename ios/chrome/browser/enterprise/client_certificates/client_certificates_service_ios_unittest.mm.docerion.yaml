@@ -1,0 +1,4 @@
+# Docerion header of client_certificates_service_ios_unittest.mm.
+type: test
+title: Client certificates service unit tests
+summary: Tests identity auto-selection against AutoSelectCertificateForUrls filters using mock provisioning services and test certificates.

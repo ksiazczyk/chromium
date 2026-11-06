@@ -1,0 +1,4 @@
+# Docerion header of enterprise_groups_profile_handler_factory.mm.
+type: source
+title: EnterpriseGroupsProfileHandlerFactory implementation
+summary: Implements the factory, creating an EnterpriseGroupsProfileHandler only when the kEnterpriseGroupsExperiments feature is enabled and the profile has a user cloud policy manager.

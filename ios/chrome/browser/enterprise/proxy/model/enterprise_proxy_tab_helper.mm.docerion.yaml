@@ -1,0 +1,4 @@
+# Docerion header of enterprise_proxy_tab_helper.mm.
+type: source
+title: Enterprise proxy tab helper implementation
+summary: Implements navigation start, redirect and finish callbacks that record and clear the pending navigation ID and URL.

@@ -1,0 +1,4 @@
+# Docerion header of enterprise_proxy_tab_helper_unittest.mm.
+type: test
+title: Enterprise proxy tab helper unit tests
+summary: Unit tests covering navigation tracking, redirect following, same-document filtering and stale navigation event handling.

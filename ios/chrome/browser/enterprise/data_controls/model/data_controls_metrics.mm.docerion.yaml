@@ -1,0 +1,4 @@
+# Docerion header of data_controls_metrics.mm.
+type: source
+title: Data Controls metrics histogram definitions
+summary: Defines the histogram name constants used to record data control verdicts and warning bypasses on iOS.

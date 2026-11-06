@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client certificates service header
+// summary: Declares the keyed service that aggregates identities from profile and browser certificate provisioning services and auto-selects one per policy.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_CLIENT_CERTIFICATES_CLIENT_CERTIFICATES_SERVICE_IOS_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_CLIENT_CERTIFICATES_CLIENT_CERTIFICATES_SERVICE_IOS_H_
 

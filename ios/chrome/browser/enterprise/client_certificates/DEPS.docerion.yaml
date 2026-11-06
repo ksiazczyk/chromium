@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for client certificates
+summary: Grants code in this directory include access to components/certificate_matching.

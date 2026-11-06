@@ -1,0 +1,4 @@
+# Docerion header of certificate_provisioning_service_factory_ios.mm.
+type: source
+title: Certificate provisioning service factory implementation for iOS profiles
+summary: Builds the per-profile certificate provisioning service from the certificate store, device management service, URL loader factory, and profile ID service.

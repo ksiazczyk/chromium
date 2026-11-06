@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS Device Trust key manager interface
+// summary: Declares the iOS DeviceTrustKeyManager implementation that supports unsigned attestation without a browser signing key.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_MODEL_DEVICE_TRUST_KEY_MANAGER_IOS_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_MODEL_DEVICE_TRUST_KEY_MANAGER_IOS_H_
 

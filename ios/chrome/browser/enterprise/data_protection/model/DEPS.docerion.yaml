@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Data protection model include rules
+summary: DEPS allowlist specifying which directories and headers this model folder may include.

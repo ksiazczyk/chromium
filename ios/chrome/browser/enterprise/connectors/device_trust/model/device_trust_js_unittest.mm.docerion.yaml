@@ -1,0 +1,4 @@
+# Docerion header of device_trust_js_unittest.mm.
+type: test
+title: Device Trust JavaScript feature unit tests
+summary: Unit tests for the iOS Device Trust JavaScript feature, exercising the JS-to-native message bridge with a reply message handler and script injection scenarios.

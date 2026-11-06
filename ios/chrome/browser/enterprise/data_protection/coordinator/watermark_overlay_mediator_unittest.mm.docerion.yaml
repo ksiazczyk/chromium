@@ -1,0 +1,4 @@
+# Docerion header of watermark_overlay_mediator_unittest.mm.
+type: test
+title: WatermarkOverlayMediator unit tests
+summary: Unit tests verifying that the mediator propagates valid watermark preferences to the consumer and clamps out-of-range values.

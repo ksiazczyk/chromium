@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for enterprise groups profile handler factory
+summary: GN build file defining the enterprise_groups_profile_handler_factory source_set and its dependencies on base, enterprise groups components, policy, and iOS profile services.

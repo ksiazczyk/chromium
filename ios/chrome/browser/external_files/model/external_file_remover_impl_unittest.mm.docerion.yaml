@@ -1,0 +1,4 @@
+# Docerion header of external_file_remover_impl_unittest.mm.
+type: test
+title: Unit tests for the external file remover implementation
+summary: Unit tests for ExternalFileRemoverImpl that verify removal of external files using a fake tab restore service and test browser setup.

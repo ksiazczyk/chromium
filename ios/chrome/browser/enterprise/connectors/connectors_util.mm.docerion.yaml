@@ -1,0 +1,4 @@
+# Docerion header of connectors_util.mm.
+type: source
+title: Enterprise connectors utilities implementation
+summary: Implements helpers that build reporting event context and client metadata and evaluate enterprise connector policies and feature flags.

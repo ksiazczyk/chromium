@@ -1,0 +1,4 @@
+# Docerion header of cloud_content_scanning_helper_unittest.mm.
+type: test
+title: Cloud content scanning helper unit tests
+summary: Unit tests for the scanning helper covering resource preparation and warning dialog or snackbar display for blocking and non-blocking scans.

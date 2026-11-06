@@ -1,0 +1,4 @@
+# Docerion header of device_trust_service_factory_ios.mm.
+type: source
+title: iOS Device Trust service factory implementation
+summary: Builds the iOS DeviceTrustService by wiring the connector service, signals aggregator, attesters, and cloud policy stores for each profile.

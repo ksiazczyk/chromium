@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Device Trust features build target (BUILD.gn)
+summary: Defines the GN source_set for the device trust features, listing features.h and features.mm with a dependency on //base.

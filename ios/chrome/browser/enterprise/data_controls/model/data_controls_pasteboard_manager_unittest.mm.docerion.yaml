@@ -1,0 +1,4 @@
+# Docerion header of data_controls_pasteboard_manager_unittest.mm.
+type: test
+title: DataControlsPasteboardManager unit tests
+summary: Tests pasteboard source association, change notifications to observers and placeholder or item restoration behaviour.

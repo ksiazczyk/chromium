@@ -1,0 +1,4 @@
+# Docerion header of device_trust_key_manager_ios_unittest.mm.
+type: test
+title: iOS Device Trust key manager unit tests
+summary: Unit tests verifying the iOS key manager's no-op initialization, failed key rotation, and unsigned signing responses.

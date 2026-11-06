@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for cloud content scanning model
+summary: Defines the model and unit test source sets with their dependencies for the iOS enterprise cloud content scanning feature.

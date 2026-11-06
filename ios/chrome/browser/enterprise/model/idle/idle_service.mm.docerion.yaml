@@ -1,0 +1,4 @@
+# Docerion header of idle_service.mm.
+type: source
+title: IdleService implementation for iOS
+summary: Implements the iOS idle timeout service that tracks last active time, schedules idle checks and runs enterprise idle actions on foreground, background and policy changes.

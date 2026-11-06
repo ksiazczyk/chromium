@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the data protection coordinator
+summary: Defines the coordinator and unit test source sets with their sources and dependencies for the iOS enterprise data protection coordinator.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS realtime reporting client header
+// summary: Declares IOSRealtimeReportingClient, a per-profile client that uploads enterprise security events to the reporting server and observes cloud policy clients.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_CONNECTORS_REPORTING_IOS_REALTIME_REPORTING_CLIENT_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_CONNECTORS_REPORTING_IOS_REALTIME_REPORTING_CLIENT_H_
 

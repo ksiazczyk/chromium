@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise management utility declarations
+// summary: Declares enterprise namespace helpers for retrieving policy data, browser and user DM tokens, and the management domain for a profile.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_COMMON_UTIL_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_COMMON_UTIL_H_
 

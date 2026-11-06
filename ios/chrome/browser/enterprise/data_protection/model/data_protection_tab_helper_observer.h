@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataProtectionTabHelper observer interface
+// summary: Defines the observer interface for screenshot protection changes, watermark text changes, and helper destruction.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_DATA_PROTECTION_MODEL_DATA_PROTECTION_TAB_HELPER_OBSERVER_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_DATA_PROTECTION_MODEL_DATA_PROTECTION_TAB_HELPER_OBSERVER_H_
 

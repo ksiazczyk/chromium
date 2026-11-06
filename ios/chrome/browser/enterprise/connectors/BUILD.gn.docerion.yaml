@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for enterprise connectors
+summary: Defines the connectors, interstitials, util, and unit test source sets with their sources and dependencies for the iOS enterprise connectors directory.

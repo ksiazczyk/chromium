@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background cloud scanner manager header
+// summary: Declares a profile-keyed service that owns active background cloud scans so they survive tab closures and are cancelled at profile shutdown.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_CLOUD_CONTENT_SCANNING_MODEL_BACKGROUND_CLOUD_SCANNER_MANAGER_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_CLOUD_CONTENT_SCANNING_MODEL_BACKGROUND_CLOUD_SCANNER_MANAGER_H_
 

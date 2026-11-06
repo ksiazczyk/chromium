@@ -1,0 +1,4 @@
+# Docerion header of lazy_unexportable_private_key_factory_unittest.mm.
+type: test
+title: Lazy unexportable private key factory unit tests
+summary: Verifies that key operations are queued before background initialization completes and run directly afterwards, using a mock factory.

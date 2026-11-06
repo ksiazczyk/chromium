@@ -1,0 +1,4 @@
+# Docerion header of data_protection_tab_helper.mm.
+type: source
+title: DataProtectionTabHelper implementation
+summary: Implements navigation monitoring, data controls checks, and real-time URL lookups to drive screenshot protection and watermarks.

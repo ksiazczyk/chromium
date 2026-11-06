@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSCloudBinaryUploadServiceFactory header
+// summary: Declares IOSCloudBinaryUploadServiceFactory, a profile-keyed service factory that provides a BinaryUploadService instance per profile.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_CLOUD_CONTENT_SCANNING_MODEL_IOS_CLOUD_BINARY_UPLOAD_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_CLOUD_CONTENT_SCANNING_MODEL_IOS_CLOUD_BINARY_UPLOAD_SERVICE_FACTORY_H_
 

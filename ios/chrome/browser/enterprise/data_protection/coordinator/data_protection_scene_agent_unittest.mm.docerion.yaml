@@ -1,0 +1,4 @@
+# Docerion header of data_protection_scene_agent_unittest.mm.
+type: test
+title: DataProtectionSceneAgent unit tests
+summary: Unit tests verifying screenshot protection behavior of the scene agent across incognito, tab grid, and policy scenarios.

@@ -1,0 +1,4 @@
+# Docerion header of data_controls_test_utils.mm.
+type: test
+title: Data Controls test utilities implementation
+summary: Implements test helpers that set data control policies and wait for pasteboard content changes during tests.

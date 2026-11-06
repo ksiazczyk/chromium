@@ -1,0 +1,4 @@
+# Docerion header of pasteboard_content_handler_ios.mm.
+type: source
+title: Pasteboard content handler implementation
+summary: Implements pasteboard scanning for text and image content, recording scan metrics and combining text and image scan results.

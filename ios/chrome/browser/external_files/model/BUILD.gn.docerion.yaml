@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for external files model
+summary: Defines the model source set and unit_tests target with their sources and dependencies for the iOS external files component.

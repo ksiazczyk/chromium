@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device Trust JavaScript feature header
+// summary: Declares the JavaScript feature that receives getAttestation() requests from the window.chrome.enterprise.deviceTrust API and injects the API script on demand.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_MODEL_DEVICE_TRUST_JAVA_SCRIPT_FEATURE_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_MODEL_DEVICE_TRUST_JAVA_SCRIPT_FEATURE_H_
 

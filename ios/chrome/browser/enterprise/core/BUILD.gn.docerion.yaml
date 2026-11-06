@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the iOS enterprise core target
+summary: GN build file defining the core source_set with its public header, Objective-C++ source, and dependencies on base, enterprise core, and the iOS profile model.

@@ -1,0 +1,4 @@
+# Docerion header of features.mm.
+type: source
+title: Device Trust connector feature definition
+summary: Defines kEnableIOSDeviceTrustConnector as disabled by default for the iOS Device Trust Connector flow.

@@ -1,0 +1,4 @@
+# Docerion header of ios_cloud_binary_upload_service_unittest.mm.
+type: test
+title: IOSCloudBinaryUploadService unit tests
+summary: Unit tests for IOSCloudBinaryUploadService using mock management services and identity environments to verify access token usage and protection flag behavior.

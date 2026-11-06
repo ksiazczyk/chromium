@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Watermark consumer protocol header
+// summary: Declares the WatermarkStyle struct and the WatermarkConsumer protocol used to deliver watermark text and style updates to the UI.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_DATA_PROTECTION_UI_WATERMARK_CONSUMER_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_DATA_PROTECTION_UI_WATERMARK_CONSUMER_H_
 

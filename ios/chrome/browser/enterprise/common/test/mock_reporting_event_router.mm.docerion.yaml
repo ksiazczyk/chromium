@@ -1,0 +1,4 @@
+# Docerion header of mock_reporting_event_router.mm.
+type: test
+title: Mock ReportingEventRouter implementation
+summary: Implements the mock reporting event router constructor and a factory that builds it from the profile's iOS realtime reporting client.

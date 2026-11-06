@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataControlsPasteboardManagerObserver interface
+// summary: Declares the observer interface with a callback invoked when pasteboard content changes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_DATA_CONTROLS_MODEL_DATA_CONTROLS_PASTEBOARD_MANAGER_OBSERVER_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_DATA_CONTROLS_MODEL_DATA_CONTROLS_PASTEBOARD_MANAGER_OBSERVER_H_
 

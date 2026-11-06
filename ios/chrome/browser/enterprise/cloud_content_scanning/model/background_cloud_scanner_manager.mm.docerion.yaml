@@ -1,0 +1,4 @@
+# Docerion header of background_cloud_scanner_manager.mm.
+type: source
+title: Background cloud scanner manager implementation
+summary: Implements the background scanner manager, including APFS clonefile-based copying of downloads into a temporary enterprise scan directory.

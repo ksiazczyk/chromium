@@ -1,0 +1,4 @@
+# Docerion header of device_trust_egtest.mm.
+type: test
+title: Device Trust attestation Earl Grey tests
+summary: Earl Grey UI tests verifying the window.chrome.enterprise.deviceTrust getAttestation API, covering verified and unverified challenges and connector policy allowlisting.

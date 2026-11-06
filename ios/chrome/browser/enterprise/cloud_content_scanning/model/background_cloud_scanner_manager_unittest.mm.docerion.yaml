@@ -1,0 +1,4 @@
+# Docerion header of background_cloud_scanner_manager_unittest.mm.
+type: test
+title: Background cloud scanner manager unit tests
+summary: Unit tests verifying scanner lifetime in BackgroundCloudScannerManager, covering unregistration on completion and cleanup at profile shutdown.

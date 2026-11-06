@@ -1,0 +1,4 @@
+# Docerion header of device_trust_key_manager_ios.mm.
+type: source
+title: iOS Device Trust key manager implementation
+summary: Implements the iOS key manager as an unsigned-attestation stub that returns no key and reports rotation failure through asynchronous callbacks.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device Trust challenge tab helper header
+// summary: Declares the per-WebState orchestrator that manages pending device attestation requests, timeouts, and challenge responses for the iOS Device Trust flow.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_MODEL_DEVICE_TRUST_CHALLENGE_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_CONNECTORS_DEVICE_TRUST_MODEL_DEVICE_TRUST_CHALLENGE_TAB_HELPER_H_
 

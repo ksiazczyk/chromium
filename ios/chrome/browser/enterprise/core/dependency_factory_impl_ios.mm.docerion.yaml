@@ -1,0 +1,4 @@
+# Docerion header of dependency_factory_impl_ios.mm.
+type: source
+title: DependencyFactoryImplIOS implementation
+summary: Implements the iOS dependency factory by returning the user cloud policy manager from the associated ProfileIOS instance.

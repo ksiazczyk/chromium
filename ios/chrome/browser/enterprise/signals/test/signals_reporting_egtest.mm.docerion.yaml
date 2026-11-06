@@ -1,0 +1,4 @@
+# Docerion header of signals_reporting_egtest.mm.
+type: test
+title: Signals reporting Earl Grey tests
+summary: Earl Grey integration tests for iOS enterprise signals reporting, verifying the device signals disclosure on the management page and the signals reporting tab of the connectors internals page.

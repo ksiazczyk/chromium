@@ -1,0 +1,4 @@
+# Docerion header of data_protection_url_lookup_service_factory.mm.
+type: source
+title: Data protection URL lookup service factory implementation
+summary: Implements the DataProtectionUrlLookupServiceFactory, creating one lookup service instance per profile on request.

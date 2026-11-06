@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the enterprise common source set
+summary: Defines the common source set with util.h and util.mm and dependencies on enterprise, policy, signin, and iOS Chrome browser components.

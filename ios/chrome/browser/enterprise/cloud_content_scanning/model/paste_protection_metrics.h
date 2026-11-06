@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paste protection metrics header
+// summary: Declares paste protection result enums and histogram name constants for iOS paste protection scan metrics.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_CLOUD_CONTENT_SCANNING_MODEL_PASTE_PROTECTION_METRICS_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_CLOUD_CONTENT_SCANNING_MODEL_PASTE_PROTECTION_METRICS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lazy unexportable private key factory header
+// summary: Declares a private key factory that defers creation of the underlying unexportable key factory to a background thread to avoid startup hangs.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_CLIENT_CERTIFICATES_LAZY_UNEXPORTABLE_PRIVATE_KEY_FACTORY_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_CLIENT_CERTIFICATES_LAZY_UNEXPORTABLE_PRIVATE_KEY_FACTORY_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of warning_dialog.mm.
+type: source
+title: Enterprise warning dialog implementation
+summary: Implements GetWarningDialog, mapping each dialog type and organization domain to localized titles, labels, and button strings.

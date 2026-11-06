@@ -1,0 +1,4 @@
+# Docerion header of clipboard_utils_unittest.mm.
+type: test
+title: Unit tests for clipboard data controls policy utilities
+summary: Unit tests verifying paste, copy and reporting behavior of clipboard_utils using mock rules services and mock reporting event routers.

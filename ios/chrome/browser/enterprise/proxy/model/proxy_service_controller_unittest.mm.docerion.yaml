@@ -1,0 +1,4 @@
+# Docerion header of proxy_service_controller_unittest.mm.
+type: test
+title: Proxy service controller unit tests
+summary: Unit tests for ProxyServiceController covering proxy auth challenge matching, credential fetch outcomes, and dynamic routing proxy configuration updates.

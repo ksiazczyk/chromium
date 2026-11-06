@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate store factory header
+// summary: Declares the profile-keyed service factory that supplies a CertificateStore instance for each iOS Chrome profile.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_CLIENT_CERTIFICATES_CERTIFICATE_STORE_FACTORY_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_CLIENT_CERTIFICATES_CERTIFICATE_STORE_FACTORY_H_
 

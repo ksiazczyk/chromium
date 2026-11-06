@@ -1,0 +1,4 @@
+# Docerion header of proxy_auth_challenge_util_unittest.mm.
+type: test
+title: Proxy auth challenge utility unit tests
+summary: Unit tests for converting 407 responses and proxy protection spaces into net auth challenge info, including nil, non-HTTP and non-proxy cases.

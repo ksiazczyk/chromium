@@ -1,0 +1,4 @@
+# Docerion header of action_runner_impl_unittest.mm.
+type: test
+title: Action runner unit tests
+summary: Tests ActionRunnerImpl with mock actions, verifying priority ordering independent of pref order and failure handling.

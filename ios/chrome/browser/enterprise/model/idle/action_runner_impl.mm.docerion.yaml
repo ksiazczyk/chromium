@@ -1,0 +1,4 @@
+# Docerion header of action_runner_impl.mm.
+type: source
+title: Action runner implementation
+summary: Runs idle timeout actions from the IdleTimeoutActions pref in priority order, aborting on failure and recording success metrics.

@@ -1,0 +1,4 @@
+# Docerion header of ios_content_analysis_request.mm.
+type: source
+title: iOS content analysis request implementation
+summary: Implements IOSContentAnalysisRequest, wiring file-based scan requests to the policy connector and UI task runner.

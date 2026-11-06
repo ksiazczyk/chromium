@@ -1,0 +1,4 @@
+# Docerion header of action.mm.
+type: source
+title: Idle timeout action implementations
+summary: Implements actions such as closing tabs, signing out, and clearing browsing data that run when the idle timeout policy triggers.

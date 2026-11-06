@@ -1,0 +1,4 @@
+# Docerion header of rules_service_observer_bridge.mm.
+type: source
+title: RulesServiceObserverBridge implementation
+summary: Implements RulesServiceObserverBridge, forwarding the OnRulesUpdated callback to the registered Objective-C observer.

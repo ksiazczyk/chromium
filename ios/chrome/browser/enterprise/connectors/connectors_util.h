@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise connectors utilities header
+// summary: Declares helper functions for reporting context, client metadata, affiliation checks, connector feature flags, and action-level mapping.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_CONNECTORS_CONNECTORS_UTIL_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_CONNECTORS_CONNECTORS_UTIL_H_
 

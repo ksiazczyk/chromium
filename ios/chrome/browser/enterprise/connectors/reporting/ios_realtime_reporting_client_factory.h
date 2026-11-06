@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS realtime reporting client factory header
+// summary: Declares a profile-keyed service factory that returns the IOSRealtimeReportingClient instance for a profile and supports test factories.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_CONNECTORS_REPORTING_IOS_REALTIME_REPORTING_CLIENT_FACTORY_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_CONNECTORS_REPORTING_IOS_REALTIME_REPORTING_CLIENT_FACTORY_H_
 

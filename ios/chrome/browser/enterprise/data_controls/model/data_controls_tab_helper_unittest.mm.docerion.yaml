@@ -1,0 +1,4 @@
+# Docerion header of data_controls_tab_helper_unittest.mm.
+type: test
+title: Data Controls tab helper unit tests
+summary: Unit tests for the data controls tab helper covering clipboard verdicts, paste analysis, metrics, and warning dialog behavior.

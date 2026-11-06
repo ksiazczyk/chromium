@@ -1,0 +1,4 @@
+# Docerion header of watermark_overlay_view_controller.mm.
+type: source
+title: Watermark overlay view controller implementation
+summary: Implements the overlay view controller by loading a WatermarkView as its view and applying text and style updates from the consumer protocol.

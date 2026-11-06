@@ -1,0 +1,4 @@
+# Docerion header of reporting_util.mm.
+type: source
+title: Enterprise reporting utility implementation for iOS connectors
+summary: Implements helpers that convert scanning results to event results, map filtering event types to report strings, and send URL filtering and dangerous download events to the ReportingEventRouter.

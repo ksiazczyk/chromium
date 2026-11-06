@@ -1,0 +1,4 @@
+# Docerion header of content_analysis_info.mm.
+type: source
+title: ContentAnalysisInfo class implementation
+summary: Implements ContentAnalysisInfo, filling binary upload requests with tab URL, title, reason, user action id, and account email for scans.

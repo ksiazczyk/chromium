@@ -1,0 +1,4 @@
+# Docerion header of watermark_overlay_view_controller_unittest.mm.
+type: test
+title: Watermark overlay view controller unit tests
+summary: Unit tests verifying that the overlay view controller conforms to the WatermarkConsumer protocol and updates its watermark view correctly.

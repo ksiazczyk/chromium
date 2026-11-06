@@ -1,0 +1,4 @@
+# Docerion header of ios_realtime_reporting_client_unittest.mm.
+type: test
+title: iOS realtime reporting client unit tests
+summary: Tests event upload success and failure behavior for browser-based and profile-based reporting using a mock cloud policy client and histogram checks.

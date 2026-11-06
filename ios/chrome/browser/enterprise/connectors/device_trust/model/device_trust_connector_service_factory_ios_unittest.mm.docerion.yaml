@@ -1,0 +1,4 @@
+# Docerion header of device_trust_connector_service_factory_ios_unittest.mm.
+type: test
+title: Device Trust connector service factory unit tests
+summary: Unit tests verifying connector service creation for regular and Incognito profiles and enablement via the allowlist policy preference.

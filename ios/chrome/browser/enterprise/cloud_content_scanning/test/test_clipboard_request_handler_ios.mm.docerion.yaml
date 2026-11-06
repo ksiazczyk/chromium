@@ -1,0 +1,4 @@
+# Docerion header of test_clipboard_request_handler_ios.mm.
+type: test
+title: TestClipboardRequestHandlerIOS test support implementation
+summary: Implements the mock clipboard request handler that fakes deep scan responses with configurable rule actions, delays, and completion callbacks for testing.

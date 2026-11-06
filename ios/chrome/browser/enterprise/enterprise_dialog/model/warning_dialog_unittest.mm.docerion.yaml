@@ -1,0 +1,4 @@
+# Docerion header of warning_dialog_unittest.mm.
+type: test
+title: Enterprise warning dialog unit tests
+summary: Unit tests verifying that GetWarningDialog returns the expected strings for clipboard, download, and pasted content warning dialogs.

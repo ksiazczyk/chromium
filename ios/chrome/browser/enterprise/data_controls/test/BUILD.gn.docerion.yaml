@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Data controls test build definitions
+summary: GN build file defining test-only source sets for the data controls app interface, its stub, and the Earl Grey test target.

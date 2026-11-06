@@ -1,0 +1,4 @@
+# Docerion header of ios_reporting_event_router_factory.mm.
+type: source
+title: iOS reporting event router factory implementation
+summary: Implements the event router factory, building ReportingEventRouter instances backed by the profile's realtime reporting client.

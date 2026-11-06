@@ -1,0 +1,4 @@
+# Docerion header of data_controls_edit_menu_builder.mm.
+type: source
+title: DataControlsEditMenuBuilder implementation
+summary: Removes the share menu from the edit menu when the Data Controls tab helper blocks sharing for the current web state.

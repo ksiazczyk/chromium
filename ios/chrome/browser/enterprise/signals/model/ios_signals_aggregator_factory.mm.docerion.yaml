@@ -1,0 +1,4 @@
+# Docerion header of ios_signals_aggregator_factory.mm.
+type: source
+title: IOSSignalsAggregatorFactory implementation
+summary: Implements the iOS signals aggregator factory and an iOS user permission service that implicitly grants enterprise signals collection in managed contexts.

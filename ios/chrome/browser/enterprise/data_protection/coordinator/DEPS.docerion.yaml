@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the data protection coordinator
+summary: Lists the overlay and tabs headers that this directory is allowed to include under Chromium dependency checks.

@@ -1,0 +1,4 @@
+# Docerion header of device_trust_java_script_feature_unittest.mm.
+type: test
+title: Device Trust JavaScript feature unit tests
+summary: Unit tests verifying script message validation, challenge routing, and reply handling for the Device Trust JavaScript feature.

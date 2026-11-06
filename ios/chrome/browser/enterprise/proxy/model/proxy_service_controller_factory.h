@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy service controller factory
+// summary: Singleton keyed service factory that associates ProxyServiceController instances with iOS profiles, skipping incognito and disabled features.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_PROXY_MODEL_PROXY_SERVICE_CONTROLLER_FACTORY_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_PROXY_MODEL_PROXY_SERVICE_CONTROLLER_FACTORY_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of download_protection_metrics.mm.
+type: source
+title: Download protection metrics histogram constants
+summary: Defines the histogram name string constants for iOS download protection scan-triggered event results, warning bypasses, and success metrics.

@@ -1,0 +1,4 @@
+# Docerion header of profile_context_delegate_ios_unittest.mm.
+type: test
+title: Unit tests for the iOS profile context delegate
+summary: Platform unit tests verifying that ProfileContextDelegateIOS returns the expected identity names, policy pref, and logging context.

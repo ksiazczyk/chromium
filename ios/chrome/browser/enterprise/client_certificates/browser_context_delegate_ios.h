@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser context delegate for iOS client certificates
+// summary: Declares the browser-level context delegate that supplies identity names, the policy pref, and logging context for client certificate management.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_CLIENT_CERTIFICATES_BROWSER_CONTEXT_DELEGATE_IOS_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_CLIENT_CERTIFICATES_BROWSER_CONTEXT_DELEGATE_IOS_H_
 

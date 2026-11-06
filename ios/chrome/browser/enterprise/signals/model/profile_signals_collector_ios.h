@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileSignalsCollectorIOS declaration
+// summary: Declares ProfileSignalsCollectorIOS, a collector of profile-level enterprise reporting signals built from prefs, policy, profile ID, and connectors services.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_SIGNALS_MODEL_PROFILE_SIGNALS_COLLECTOR_IOS_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_SIGNALS_MODEL_PROFILE_SIGNALS_COLLECTOR_IOS_H_
 

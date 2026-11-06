@@ -1,0 +1,4 @@
+# Docerion header of data_protection_scene_agent.mm.
+type: source
+title: DataProtectionSceneAgent implementation
+summary: Implements the scene agent that enables or removes window screenshot protection based on enterprise policies, preferences, and tab state.

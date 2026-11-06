@@ -1,0 +1,4 @@
+# Docerion header of watermark_request_config.mm.
+type: source
+title: Watermark request config implementation
+summary: Implements the constructor and destructor of the watermark overlay request configuration.

@@ -1,0 +1,4 @@
+# Docerion header of connectors_service.mm.
+type: source
+title: Connectors service implementation
+summary: Implements management domain lookup, DM token resolution, client metadata building, and connector enablement checks for iOS profiles.

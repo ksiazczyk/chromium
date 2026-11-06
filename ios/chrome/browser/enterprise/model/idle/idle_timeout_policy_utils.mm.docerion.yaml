@@ -1,0 +1,4 @@
+# Docerion header of idle_timeout_policy_utils.mm.
+type: source
+title: Idle timeout policy utilities implementation
+summary: Maps the IdleTimeoutActions policy values to clear, close and sign-out flags, taking the user's sign-in state into account.

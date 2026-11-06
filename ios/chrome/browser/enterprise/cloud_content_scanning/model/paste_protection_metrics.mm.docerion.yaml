@@ -1,0 +1,4 @@
+# Docerion header of paste_protection_metrics.mm.
+type: source
+title: Paste protection metrics implementation
+summary: Defines the histogram name strings for iOS paste protection scan triggered metrics.

@@ -1,0 +1,4 @@
+# Docerion header of enterprise_proxy_error_service_factory_ios.mm.
+type: source
+title: Enterprise proxy error service factory implementation
+summary: Builds the EnterpriseProxyErrorService for a profile when dynamic route fetching is enabled, depending on the enterprise proxy service.

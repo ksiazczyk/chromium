@@ -1,0 +1,4 @@
+# Docerion header of device_trust_challenge_tab_helper.mm.
+type: source
+title: Device Trust challenge tab helper implementation
+summary: Implements the challenge-response flow, including origin eligibility checks, policy allowlist URL selection, request limits, and attestation timeouts.

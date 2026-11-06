@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS content analysis request header
+// summary: Declares IOSContentAnalysisRequest, a FileAnalysisRequestBase subclass that supplies file data for cloud content scanning.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_CLOUD_CONTENT_SCANNING_MODEL_IOS_CONTENT_ANALYSIS_REQUEST_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_CLOUD_CONTENT_SCANNING_MODEL_IOS_CONTENT_ANALYSIS_REQUEST_H_
 

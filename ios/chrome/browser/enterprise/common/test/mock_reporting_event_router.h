@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock ReportingEventRouter for iOS tests
+// summary: Declares a gmock mock of ReportingEventRouter with stubbed sensitive data, URL filtering, and clipboard copy/paste reporting methods, plus a factory for tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_COMMON_TEST_MOCK_REPORTING_EVENT_ROUTER_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_COMMON_TEST_MOCK_REPORTING_EVENT_ROUTER_H_
 

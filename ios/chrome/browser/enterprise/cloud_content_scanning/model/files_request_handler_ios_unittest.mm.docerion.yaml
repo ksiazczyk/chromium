@@ -1,0 +1,4 @@
+# Docerion header of files_request_handler_ios_unittest.mm.
+type: test
+title: FilesRequestHandlerIOS unit tests
+summary: Unit tests for FilesRequestHandlerIOS using mock content analysis info and binary upload service to verify scanning verdicts, reporting, and histogram behavior.

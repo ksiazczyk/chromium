@@ -1,0 +1,4 @@
+# Docerion header of ios_realtime_reporting_client_factory.mm.
+type: source
+title: iOS realtime reporting client factory implementation
+summary: Implements the keyed service factory that builds IOSRealtimeReportingClient instances and depends on the identity manager and connectors service factories.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for enterprise common
+summary: Grants code in this directory include access to ios/chrome/browser/signin/model.

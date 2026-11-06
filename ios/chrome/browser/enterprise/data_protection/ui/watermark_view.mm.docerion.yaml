@@ -1,0 +1,4 @@
+# Docerion header of watermark_view.mm.
+type: source
+title: Watermark view implementation
+summary: Implements the watermark view with nested CAReplicatorLayer-based replicators that stamp a staggered, rotated grid of watermark text across the screen.

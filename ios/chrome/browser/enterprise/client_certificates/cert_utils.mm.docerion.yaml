@@ -1,0 +1,4 @@
+# Docerion header of cert_utils.mm.
+type: source
+title: Certificate utilities implementation for iOS client certificates
+summary: Implements keychain-based access group detection plus helpers that build private key factories and the browser-level certificate provisioning service.

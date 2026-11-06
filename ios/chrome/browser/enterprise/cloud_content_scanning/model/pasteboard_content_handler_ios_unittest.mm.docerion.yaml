@@ -1,0 +1,4 @@
+# Docerion header of pasteboard_content_handler_ios_unittest.mm.
+type: test
+title: Pasteboard content handler unit tests
+summary: Unit tests for PasteboardContentHandlerIOS using a fake clipboard request handler to verify scan results and warning bypass reporting.

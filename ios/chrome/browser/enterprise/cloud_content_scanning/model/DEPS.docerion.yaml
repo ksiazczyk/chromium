@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for cloud content scanning model
+summary: Restricts includes in this directory to the signin identity manager factory and enterprise analysis features headers.

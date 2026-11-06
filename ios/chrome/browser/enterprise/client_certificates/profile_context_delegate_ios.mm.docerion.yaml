@@ -1,0 +1,4 @@
+# Docerion header of profile_context_delegate_ios.mm.
+type: source
+title: Profile context delegate implementation for iOS client certificates
+summary: Implements ProfileContextDelegateIOS, returning managed profile identity names, the client certificate provisioning policy pref, and a Profile logging context.

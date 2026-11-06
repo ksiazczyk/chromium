@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Action runner implementation header
+// summary: Declares ActionRunnerImpl, which builds the action queue from prefs and runs actions sequentially with completion callbacks.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_MODEL_IDLE_ACTION_RUNNER_IMPL_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_MODEL_IDLE_ACTION_RUNNER_IMPL_H_
 

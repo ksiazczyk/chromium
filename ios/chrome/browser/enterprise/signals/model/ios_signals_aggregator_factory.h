@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSSignalsAggregatorFactory declaration
+// summary: Declares IOSSignalsAggregatorFactory, a profile-keyed service factory that provides a device signals SignalsAggregator instance for each iOS profile.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_SIGNALS_MODEL_IOS_SIGNALS_AGGREGATOR_FACTORY_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_SIGNALS_MODEL_IOS_SIGNALS_AGGREGATOR_FACTORY_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of watermark_overlay_mediator.mm.
+type: source
+title: WatermarkOverlayMediator implementation
+summary: Implements the mediator that reads watermark text and style preferences, clamps out-of-range values, and updates the consumer.

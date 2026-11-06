@@ -1,0 +1,4 @@
+# Docerion header of ios_cloud_binary_upload_service.mm.
+type: source
+title: IOSCloudBinaryUploadService implementation
+summary: Implements the iOS cloud binary upload service delegate, handling access token retrieval with affiliation checks and providing the browser policy connector.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the analysis folder
+summary: Defines the analysis source set and its unit test target, listing sources and dependencies for the iOS enterprise connectors analysis code.

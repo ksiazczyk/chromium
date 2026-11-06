@@ -1,0 +1,4 @@
+# Docerion header of util.mm.
+type: source
+title: Enterprise management utility implementations
+summary: Implements helpers that read policy data and DM tokens from cloud policy stores and derive the management domain from profile email or machine policy.

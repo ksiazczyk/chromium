@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise network auth service factory header
+// summary: Declares the profile-keyed service factory that owns EnterpriseNetworkAuthService instances for iOS profiles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_PROXY_MODEL_ENTERPRISE_NETWORK_AUTH_SERVICE_FACTORY_IOS_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_PROXY_MODEL_ENTERPRISE_NETWORK_AUTH_SERVICE_FACTORY_IOS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pasteboard content handler header
+// summary: Declares PasteboardContentHandlerIOS, which uploads pasteboard text and image content for scanning and reports the highest action result.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ENTERPRISE_CLOUD_CONTENT_SCANNING_MODEL_PASTEBOARD_CONTENT_HANDLER_IOS_H_
 #define IOS_CHROME_BROWSER_ENTERPRISE_CLOUD_CONTENT_SCANNING_MODEL_PASTEBOARD_CONTENT_HANDLER_IOS_H_
 
