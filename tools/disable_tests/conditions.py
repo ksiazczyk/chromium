@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Condition definitions and logic for disabling tests
+# summary: Defines the canonical list of build and runtime conditions used to disable tests, with code for parsing, composing, and simplifying them.
+# ---
+
 """
 Conditions represent a build configuration under which to disable a test.
 This file contains a canonical list of conditions and their properties, and code

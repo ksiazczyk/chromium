@@ -1,0 +1,4 @@
+# Docerion header of find_runtime_symbols.py.
+type: source
+title: Runtime address to symbol name lookup tool
+summary: Maps runtime virtual addresses to function, source file and typeinfo symbols using prepared maps and symbol data.

@@ -1,0 +1,4 @@
+# Docerion header of git-utils.sh.
+type: script
+title: Shell helpers for colored warnings
+summary: Supplies a warn function that prints red warning messages via tput when terminal colors are available.

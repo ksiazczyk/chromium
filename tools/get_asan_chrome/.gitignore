@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Git ignore rules for ASAN downloads
+# summary: Ignores Python virtual environments, downloaded ASAN builds, and activity logs within this directory.
+# ---
+
 # python venv
 *.env
 

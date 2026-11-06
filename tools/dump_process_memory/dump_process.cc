@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: dump_process.cc process memory dumper
+// summary: C++ tool that attaches to a process with ptrace and dumps its anonymous read-write private memory regions using /proc maps and pagemap information.
+// ---
+
 #include <sys/ptrace.h>
 #include <sys/types.h>
 #include <sys/wait.h>

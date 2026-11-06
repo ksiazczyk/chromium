@@ -1,0 +1,4 @@
+# Docerion header of generate_clank_feature_flag.py.
+type: source
+title: Clank feature flag generator
+summary: Interactive script that adds new Clank feature flags to the C++ and Java feature lists, updates flag metadata, and generates the required enum values.

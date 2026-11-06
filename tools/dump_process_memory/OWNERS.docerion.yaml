@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for dump_process_memory
+summary: Lists the owners (lizeb@chromium.org and pasko@chromium.org) responsible for the dump_process_memory tool directory.

@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Gitignore for tool artifacts
+# summary: Ignores cached ResultDB responses and Hypothesis artifacts in the test disabling tool directory.
+# ---
+
 .canned_responses.json
 .hypothesis

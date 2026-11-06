@@ -1,0 +1,4 @@
+# Docerion header of process_profiles_unittest.py.
+type: test
+title: Unit tests for process_profiles
+summary: Unit tests for mapping profile dump offsets to symbols, covering aliases, overlapping symbols, and ordered symbol extraction.

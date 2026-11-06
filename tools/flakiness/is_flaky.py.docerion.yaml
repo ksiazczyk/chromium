@@ -1,0 +1,4 @@
+# Docerion header of is_flaky.py.
+type: script
+title: Measure test flakiness by repeated runs
+summary: Command-line tool that reruns a test command many times and exits non-zero when the failure rate exceeds a threshold but is not 100%.

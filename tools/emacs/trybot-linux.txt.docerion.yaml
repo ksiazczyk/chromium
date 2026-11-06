@@ -1,0 +1,4 @@
+# Docerion header of trybot-linux.txt.
+type: data
+title: Sample Linux trybot output
+summary: Short snippet of Linux trybot build output containing a compile error, kept as sample data for the trybot tool.

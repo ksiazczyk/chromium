@@ -1,0 +1,4 @@
+# Docerion header of generate_orderfile.pydeps.
+type: config
+title: Generate orderfile Python dependency list
+summary: Generated list of Python module dependencies for the orderfile generation script, used by the build for dependency tracking.

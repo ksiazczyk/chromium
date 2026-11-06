@@ -1,0 +1,4 @@
+# Docerion header of gtest-conditional.json.
+type: test
+title: GTest fixture for conditional test disable
+summary: Test fixture that disables a BrowserView browser test on Linux using conditional preprocessor macros.

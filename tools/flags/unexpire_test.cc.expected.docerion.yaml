@@ -1,0 +1,4 @@
+# Docerion header of unexpire_test.cc.expected.
+type: test
+title: Expected unexpire flags C++ source
+summary: Golden expected output for the generated unexpire flags .cc file, defining per-milestone unexpire features for verifying code generation.

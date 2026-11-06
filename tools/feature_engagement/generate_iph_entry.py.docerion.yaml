@@ -1,0 +1,4 @@
+# Docerion header of generate_iph_entry.py.
+type: script
+title: IPH Feature Entry Boilerplate Generator
+summary: Interactive Python script that prompts for a feature name and description, then inserts alphabetically ordered IPH boilerplate into feature engagement and metrics files.

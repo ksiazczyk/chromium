@@ -1,0 +1,4 @@
+# Docerion header of prepare_symbol_info.py.
+type: source
+title: Symbol information preparation tool
+summary: Collects nm and readelf symbol data for a process's maps file into a directory for use by find_runtime_symbols.

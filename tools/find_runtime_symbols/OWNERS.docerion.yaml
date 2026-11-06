@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for find_runtime_symbols
+summary: Lists the code owner responsible for the find_runtime_symbols tools directory.

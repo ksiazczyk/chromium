@@ -1,0 +1,4 @@
+# Docerion header of dromaeo_benchmark_runner.py.
+type: script
+title: Dromaeo benchmark automation script
+summary: Runs Dromaeo benchmark tests in browsers specified on the command line and saves the resulting means and errors to a Google Docs spreadsheet.

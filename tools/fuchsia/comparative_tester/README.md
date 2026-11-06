@@ -1,3 +1,13 @@
+---
+type: readme
+title: Comparative Testing Scripts for Fuchsia
+summary: Explains how to use the comparative tester scripts to build, run, and compare Chromium test performance on Linux and Fuchsia devices, and view the results.
+relations:
+  - documents /tools/fuchsia/comparative_tester/target_spec.py
+  - documents /tools/fuchsia/comparative_tester/comparative_tester.py
+  - documents /tools/fuchsia/comparative_tester/generate_perf_report.py
+---
+
 # Comparative Testing Scripts for Fuchsia
 
 The collection of python scripts inside of `//tools/fuchsia/comparative_tester`

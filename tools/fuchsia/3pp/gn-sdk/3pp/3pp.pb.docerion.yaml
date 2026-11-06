@@ -1,0 +1,4 @@
+# Docerion header of 3pp.pb.
+type: config
+title: 3pp package definition for the Fuchsia GN SDK
+summary: Defines how the Fuchsia GN SDK third-party package is fetched, built, and uploaded under the chromium/fuchsia prefix in the 3pp system.

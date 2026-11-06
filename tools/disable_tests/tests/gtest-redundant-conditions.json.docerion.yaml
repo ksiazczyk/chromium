@@ -1,0 +1,4 @@
+# Docerion header of gtest-redundant-conditions.json.
+type: test
+title: gtest-redundant-conditions.json fixture with redundant conditions
+summary: Test fixture that runs the disable tool with repeated platform conditions and mocked ResultDB results for a BrowserViewTest gtest.

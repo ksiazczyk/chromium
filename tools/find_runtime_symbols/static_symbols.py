@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Static symbol parsing and lookup classes
+# summary: Parses nm and readelf output into address-mapped symbol tables used to resolve addresses within a binary.
+# ---
+
 import bisect
 import re
 

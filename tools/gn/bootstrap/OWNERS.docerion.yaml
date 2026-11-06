@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the gn bootstrap directory
+summary: Lists the Chromium maintainers responsible for reviewing changes to the gn bootstrap tooling.

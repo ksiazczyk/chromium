@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Test utilities for cygprofile scripts
+# summary: Provides test doubles and helpers such as mock symbols and profile managers shared by the cygprofile unit tests.
+# ---
+
 """Test utilities for cygprofile scripts."""
 
 import collections

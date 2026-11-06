@@ -1,0 +1,4 @@
+# Docerion header of local-sdk.py.
+type: script
+title: Build and install a local Fuchsia SDK
+summary: Builds Fuchsia SDK archives for x64 and arm64 from a local Fuchsia checkout and installs them into third_party/fuchsia-sdk with merged manifests and images.

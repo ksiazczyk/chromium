@@ -1,0 +1,4 @@
+# Docerion header of ios_order_grd_message_ids.py.
+type: script
+title: Order iOS .grd message IDs alphabetically
+summary: Python script that alphabetically reorders the message IDs in the iOS Chrome .grd string files while preserving comments.

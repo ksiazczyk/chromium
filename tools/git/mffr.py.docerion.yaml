@@ -1,0 +1,4 @@
+# Docerion header of mffr.py.
+type: source
+title: Multi-file find and replace across the repository
+summary: Performs regexp find-and-replace across files found by git grep, with glob selection and uncommitted-change checks.

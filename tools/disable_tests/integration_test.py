@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: test
+# title: Data-driven integration tests for the disable tool
+# summary: Records and replays filesystem and ResultDB interactions to run the test disabler hermetically and verify identical output for stored testcases.
+# ---
+
 """Integration tests."""
 
 import argparse

@@ -1,3 +1,12 @@
+---
+type: readme
+title: Feature Engagement Tools
+summary: Explains that the directory holds scripts to generate boilerplate for new feature engagement features and links to related Chromium documentation.
+relations:
+  - references /components/feature_engagement/README.md
+  - references /components/user_education/feature-promos.md
+---
+
 # Feature Engagement Tools
 
 This directory contains scripts that can be used to help with development of new

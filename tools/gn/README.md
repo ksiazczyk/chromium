@@ -1,3 +1,11 @@
+---
+type: readme
+title: Rolling GN into Chromium
+summary: Explains that GN now lives at gn.googlesource.com and how to roll a new GN revision into Chromium using roll_gn.py and git-cl upload.
+relations:
+  - documents /tools/gn/roll_gn.py
+---
+
 GN now lives at https://gn.googlesource.com/.
 
 To roll the latest version of GN into Chromium:

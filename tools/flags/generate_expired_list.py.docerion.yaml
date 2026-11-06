@@ -1,0 +1,4 @@
+# Docerion header of generate_expired_list.py.
+type: script
+title: Expired flags list generator
+summary: Build script that reads flag metadata and the Chromium version to generate a C++ source file mapping expired flags to their expiration milestones.

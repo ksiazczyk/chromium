@@ -1,6 +1,13 @@
 # Copyright 2025 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: GDB pretty-printers for absl hash containers
+# summary: Supplies GDB pretty-printers for absl flat and node hash maps and sets so these containers display readably during debugging.
+# ---
+
 """GDB pretty-printers for absl::{flat,node}_hash_{map,set}."""
 
 import gdb

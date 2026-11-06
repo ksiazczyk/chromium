@@ -1,0 +1,4 @@
+# Docerion header of generate_orderfile.py.
+type: source
+title: Orderfile generation script
+summary: Runs Android benchmarks, collects profiles, and writes the patched and unpatched orderfiles for a given architecture and output directory.

@@ -1,0 +1,4 @@
+# Docerion header of compare_orderfiles.py.
+type: source
+title: Orderfile comparison tool
+summary: Compares two orderfiles and reports symbol counts, added and removed symbols, and the average fractional ordering distance between them.

@@ -1,0 +1,4 @@
+# Docerion header of fyi_sizes_smoketest.json.
+type: config
+title: FYI Fuchsia package size limits for smoketest
+summary: Smoketest variant of the FYI size configuration listing the same Fuchsia FAR archives with nominal limits.

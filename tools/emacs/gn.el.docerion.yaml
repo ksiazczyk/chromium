@@ -1,0 +1,4 @@
+# Docerion header of gn.el.
+type: source
+title: GN major mode for Emacs
+summary: Major mode for editing GN build files with font-lock highlighting, SMIE indentation and gn format integration.

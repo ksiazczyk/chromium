@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: ResultDB query functions
+# summary: Queries ResultDB via the rdb rpc subcommand for test metadata, test results and result history used by the test disabling tool.
+# ---
+
 """Functions for querying ResultDB, via the "rdb rpc" subcommand."""
 
 import datetime

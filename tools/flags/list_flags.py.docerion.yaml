@@ -1,0 +1,4 @@
+# Docerion header of list_flags.py.
+type: script
+title: Feature flag list and filter tool
+summary: Command-line script that prints a formatted, filterable view of Chromium feature flags, with owner resolution, unused-flag detection, and owner-based filtering.

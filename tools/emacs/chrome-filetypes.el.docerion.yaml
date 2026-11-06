@@ -1,0 +1,4 @@
+# Docerion header of chrome-filetypes.el.
+type: source
+title: Emacs mode for GYP build files
+summary: Defines a gyp-mode derived from python-mode so Emacs highlights .gyp and .gypi files with two-space indentation.

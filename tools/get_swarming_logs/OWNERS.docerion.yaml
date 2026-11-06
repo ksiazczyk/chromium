@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for get_swarming_logs
+summary: Lists fergal@chromium.org as the owner of the get_swarming_logs tool directory.

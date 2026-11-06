@@ -1,0 +1,4 @@
+# Docerion header of generate_unexpire_flags.py.
+type: script
+title: Flag unexpiry code generator
+summary: Build script that generates C++ source, header and fragment files defining the temporary-unexpire-flags-mX features for recently expired flags.

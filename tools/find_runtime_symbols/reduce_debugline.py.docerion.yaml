@@ -1,0 +1,4 @@
+# Docerion header of reduce_debugline.py.
+type: source
+title: Reduce readelf debug line output to address list
+summary: Reduces 'readelf -wL' decoded line output to a sorted list of addresses where the source file changes.

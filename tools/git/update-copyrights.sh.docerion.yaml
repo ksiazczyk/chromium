@@ -1,0 +1,4 @@
+# Docerion header of update-copyrights.sh.
+type: script
+title: Stub noting copyright updates are no longer needed
+summary: Prints a notice that updating copyrights is no longer necessary and links to the announcement.

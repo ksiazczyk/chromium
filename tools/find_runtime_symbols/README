@@ -1,3 +1,9 @@
+---
+type: readme
+title: find_runtime_symbols README
+summary: Explains how to prepare symbol information from a runtime maps file and then map runtime addresses to symbol names.
+---
+
 This script maps runtime addresses to symbol names.  It is robust over
 Address Space Layout Randomization (ASLR) since it uses runtime addresses with
 runtime mapping information (/proc/.../maps).

@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Ruff configuration for gerrit tools
+# summary: Extends the repository-wide Ruff lint configuration and sets a four-space indent width for this directory.
+# ---
+
 extend = "../.ruff.toml"
 indent-width = 4

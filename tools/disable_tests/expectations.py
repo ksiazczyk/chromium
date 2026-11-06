@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Test expectations file handling for disabling tests
+# summary: Implements disabling tests through TestExpectations files, locating the matching expectations file and merging conditions into SKIP expectations.
+# ---
+
 """Code specific to disabling tests using test expectations files"""
 
 import collections

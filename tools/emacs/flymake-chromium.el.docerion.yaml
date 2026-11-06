@@ -1,0 +1,4 @@
+# Docerion header of flymake-chromium.el.
+type: source
+title: Flymake support for Chromium via Ninja
+summary: Emacs Lisp that wires flymake to run ninja on saved Chromium files for interactive syntax checking.

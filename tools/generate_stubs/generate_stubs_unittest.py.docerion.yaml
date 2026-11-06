@@ -1,0 +1,4 @@
+# Docerion header of generate_stubs_unittest.py.
+type: test
+title: Unit tests for the stub generator
+summary: Unittest suite for generate_stubs.py that checks signature parsing, including tricky and invalid signatures, and verifies generated stub files contain the expected function invocations.

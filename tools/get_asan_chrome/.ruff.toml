@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Ruff lint configuration
+# summary: Extends the parent Ruff configuration and sets the indent width to four spaces for this tool.
+# ---
+
 extend = "../.ruff.toml"
 indent-width = 4

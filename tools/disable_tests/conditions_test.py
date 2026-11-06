@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Property-based tests for conditions
+# summary: Property-based tests verifying that simplified conditions evaluate identically to the originals and are no larger.
+# ---
+
 # /// script
 # requires-python = '>=3.8,<3.9'
 # dependencies = [

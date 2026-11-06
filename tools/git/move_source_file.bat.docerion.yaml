@@ -1,0 +1,4 @@
+# Docerion header of move_source_file.bat.
+type: script
+title: Windows batch wrapper for move_source_file.py
+summary: Windows batch launcher that runs move_source_file.py with python3 and the PATH setup required under Cygwin.

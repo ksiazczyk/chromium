@@ -1,6 +1,13 @@
 # Copyright 2011 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: GDB pretty-printers for Chrome types
+# summary: Registers GDB pretty-printers for Chromium C++ types such as GURL, FilePath, string16, and smart pointers to aid debugging.
+# ---
+
 """GDB support for Chrome types.
 
 Add this to your gdb by amending your ~/.gdbinit as follows:

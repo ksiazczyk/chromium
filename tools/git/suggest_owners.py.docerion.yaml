@@ -1,0 +1,4 @@
+# Docerion header of suggest_owners.py.
+type: script
+title: Suggest code owners from git history
+summary: Analyzes recent git history per directory to suggest likely code owners, with a pickle-based cache.

@@ -1,0 +1,4 @@
+# Docerion header of move_source_file.py.
+type: script
+title: Move C++ source files and update includes
+summary: Moves C++ source files to new locations, updating includes, include guards, and references in .gn/.gni/.gyp files.

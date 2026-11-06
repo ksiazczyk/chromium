@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: GTest test disabling logic
+# summary: Disables GTest tests by rewriting test definitions with DISABLED_ or MAYBE_ prefixes and preprocessor conditions, formatting modified lines with clang-format.
+# ---
+
 """Code specific to disabling GTest tests."""
 
 import os

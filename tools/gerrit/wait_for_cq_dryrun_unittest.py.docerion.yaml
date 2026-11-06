@@ -1,0 +1,4 @@
+# Docerion header of wait_for_cq_dryrun_unittest.py.
+type: test
+title: Unit tests for wait_for_cq_dryrun
+summary: Tests parsing of try job results, including retries and missing builders, and the wait loop's handling of CQ retries.

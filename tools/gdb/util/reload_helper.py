@@ -1,6 +1,13 @@
 # Copyright 2025 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: GDB helper for reloading pretty-printer definitions
+# summary: Lets the same pretty-printer file be sourced repeatedly in one GDB session by finding, creating, or removing registered printers, aiding printer development.
+# ---
+
 """Helper library to allow redefining pretty-printers multiple times.
 
 Allows to source the same file with pretty-printers in a single GDB session.

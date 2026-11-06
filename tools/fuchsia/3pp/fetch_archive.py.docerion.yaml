@@ -1,0 +1,4 @@
+# Docerion header of fetch_archive.py.
+type: script
+title: Fuchsia 3pp archive fetch script
+summary: 3pp helper that reports the latest commit of Chromium's build/fuchsia directory and emits the download manifest for its tar.gz source archive.

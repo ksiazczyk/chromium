@@ -1,0 +1,4 @@
+# Docerion header of upload_webengine_build.py.
+type: script
+title: Upload WebEngine build artifacts to GCS
+summary: Optionally checks out a commit, syncs and builds WebEngine targets, then uploads the resulting .far artifacts to a Google Cloud Storage path.

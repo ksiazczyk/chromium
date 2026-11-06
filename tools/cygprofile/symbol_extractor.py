@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Binary symbol extraction utilities
+# summary: Extracts and validates symbol information from binaries by parsing llvm-readelf JSON output, supporting the orderfile tooling.
+# ---
+
 """Utilities to get and manipulate symbols from a binary."""
 
 import collections

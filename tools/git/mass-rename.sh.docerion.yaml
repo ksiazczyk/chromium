@@ -1,0 +1,4 @@
+# Docerion header of mass-rename.sh.
+type: script
+title: Shell wrapper for mass-rename.py
+summary: Bash entry point that invokes mass-rename.py to update source files after git mv renames.

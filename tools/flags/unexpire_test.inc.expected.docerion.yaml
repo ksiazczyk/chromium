@@ -1,0 +1,4 @@
+# Docerion header of unexpire_test.inc.expected.
+type: test
+title: Expected unexpire flags table entries
+summary: Golden expected snippet of flag-table entries for temporarily unexpiring M122 and M123 flags, used to verify code generation.

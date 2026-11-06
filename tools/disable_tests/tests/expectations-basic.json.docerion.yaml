@@ -1,0 +1,4 @@
+# Docerion header of expectations-basic.json.
+type: test
+title: Expectations fixture for basic test disable
+summary: Test fixture that runs the disable tool on a wallpaper controller test with mocked ResultDB query results and expected file changes.

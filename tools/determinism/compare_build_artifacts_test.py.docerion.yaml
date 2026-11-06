@@ -1,0 +1,4 @@
+# Docerion header of compare_build_artifacts_test.py.
+type: test
+title: Unit tests for compare_build_artifacts
+summary: Unittest that verifies the compact binary diff output produced by compare_build_artifacts.diff_binary.

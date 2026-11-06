@@ -1,0 +1,4 @@
+# Docerion header of generate_unexpire_flags_unittests.py.
+type: test
+title: Unexpire flags generator unit tests
+summary: Unit tests that compare the generator's C++ output for a test milestone against golden .expected files for the cc, h and inc formats.

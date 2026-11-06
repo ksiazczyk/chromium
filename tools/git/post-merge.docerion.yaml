@@ -1,0 +1,4 @@
+# Docerion header of post-merge.
+type: script
+title: Git post-merge hook warning about DEPS changes
+summary: Git post-merge hook that warns when DEPS changed between ORIG_HEAD and HEAD, suggesting a gclient sync.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Fuchsia package size computation build target
+summary: Defines a GN target that computes the sizes of the Fuchsia cast runner and web engine packages.

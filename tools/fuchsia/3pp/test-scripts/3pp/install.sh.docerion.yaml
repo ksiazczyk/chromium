@@ -1,0 +1,4 @@
+# Docerion header of install.sh.
+type: script
+title: Install script for the Fuchsia test scripts package
+summary: Copies the test scripts into the given install prefix while removing Chromium-only files such as the internal SDK hash and presubmit configs.

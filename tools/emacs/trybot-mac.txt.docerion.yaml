@@ -1,0 +1,4 @@
+# Docerion header of trybot-mac.txt.
+type: data
+title: Sample Mac trybot output
+summary: Large capture of a Mac trybot run with xcodebuild and distcc output, used as sample data for the trybot tool.

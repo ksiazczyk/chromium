@@ -1,0 +1,4 @@
+# Docerion header of bootstrap.py.
+type: script
+title: GN bootstrap build script
+summary: Builds the gn binary from a Chromium tarball and generates Chromium's build files, with options for debug builds, custom libc++, and output paths.

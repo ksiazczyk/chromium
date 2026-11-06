@@ -1,0 +1,4 @@
+# Docerion header of rules.gni.
+type: config
+title: GN template for generating POSIX stub libraries
+summary: GN build rules defining a generate_stubs template that runs generate_stubs.py on signature files and exposes the generated stub source and header as a source_set.

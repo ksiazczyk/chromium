@@ -1,0 +1,4 @@
+# Docerion header of analyze_dumps.py.
+type: source
+title: analyze_dumps.py memory dump analyzer
+summary: Python tool that reads dumps produced by dump_process.cc and prints statistics about memory mappings, zero pages, freed data patterns, and page compression.

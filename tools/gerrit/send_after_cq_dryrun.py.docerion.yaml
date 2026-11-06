@@ -1,0 +1,4 @@
+# Docerion header of send_after_cq_dryrun.py.
+type: script
+title: Send a CL for review after its CQ dry run passes
+summary: Watches the current Gerrit CL's CQ dry run and, on success, adds the given reviewers and marks the CL ready for review.

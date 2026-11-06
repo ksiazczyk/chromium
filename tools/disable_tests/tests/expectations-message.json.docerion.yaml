@@ -1,0 +1,4 @@
+# Docerion header of expectations-message.json.
+type: test
+title: Expectations fixture for disable with custom message
+summary: Test fixture that disables a wallpaper controller test with a custom comment message and mocked ResultDB results.

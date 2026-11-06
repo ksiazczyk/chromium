@@ -1,0 +1,4 @@
+# Docerion header of git-diff-ide.py.
+type: source
+title: Git diff with file:line prefixes for IDEs
+summary: Wraps git diff and prefixes output lines with file:line so IDEs can open and jump to changed code.

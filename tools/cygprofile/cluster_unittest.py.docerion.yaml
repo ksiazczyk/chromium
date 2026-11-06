@@ -1,0 +1,4 @@
+# Docerion header of cluster_unittest.py.
+type: test
+title: Unit tests for symbol clustering
+summary: Unit tests for the clustering algorithm, covering cluster creation, merging, distance computation, and offset handling.

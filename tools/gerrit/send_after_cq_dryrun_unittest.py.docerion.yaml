@@ -1,0 +1,4 @@
+# Docerion header of send_after_cq_dryrun_unittest.py.
+type: test
+title: Unit tests for send_after_cq_dryrun
+summary: Verifies reviewer addition, WIP and ready transitions, and the monitor's success and failure flows using mocked Gerrit commands.
