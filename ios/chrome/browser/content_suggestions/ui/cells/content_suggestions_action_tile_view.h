@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentSuggestionsActionTileView header
+// summary: Declares a tile view for content suggestion actions with an icon, optional count badge, tap handling and background theming.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_UI_CELLS_CONTENT_SUGGESTIONS_ACTION_TILE_VIEW_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_UI_CELLS_CONTENT_SUGGESTIONS_ACTION_TILE_VIEW_H_
 

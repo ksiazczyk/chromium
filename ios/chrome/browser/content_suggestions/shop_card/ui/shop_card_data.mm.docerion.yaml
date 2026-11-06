@@ -1,0 +1,4 @@
+# Docerion header of shop_card_data.mm.
+type: source
+title: Shop card data implementation
+summary: Implements ShopCardData, backing the product URL property with a GURL instance.

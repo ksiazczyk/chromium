@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Testing category for the context menu configuration provider
+// summary: Exposes action and preview provider methods of the context menu configuration provider for use in tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTEXT_MENU_UI_BUNDLED_CONTEXT_MENU_CONFIGURATION_PROVIDER_TESTING_H_
 #define IOS_CHROME_BROWSER_CONTEXT_MENU_UI_BUNDLED_CONTEXT_MENU_CONFIGURATION_PROVIDER_TESTING_H_
 

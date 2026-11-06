@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP Theme actionable tip module config header
+// summary: Declares the Magic Stack module config holding color palettes, background theme images, the selected swatch index and an audience.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_TIPS_UI_NTP_THEME_ACTIONABLE_TIP_CONFIG_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_TIPS_UI_NTP_THEME_ACTIONABLE_TIP_CONFIG_H_
 

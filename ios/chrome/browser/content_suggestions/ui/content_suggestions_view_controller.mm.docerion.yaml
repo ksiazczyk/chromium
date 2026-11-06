@@ -1,0 +1,4 @@
+# Docerion header of content_suggestions_view_controller.mm.
+type: source
+title: ContentSuggestionsViewController implementation
+summary: Implements the suggestions view controller with the Most Visited tiles module, AIM module visibility and URL drag-and-drop handling.

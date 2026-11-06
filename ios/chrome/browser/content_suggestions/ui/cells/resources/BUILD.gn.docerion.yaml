@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for content suggestions cell resources
+summary: Bundles the Assets.xcassets catalog, including NTP most visited tile images, as resources for iOS content suggestion cells.

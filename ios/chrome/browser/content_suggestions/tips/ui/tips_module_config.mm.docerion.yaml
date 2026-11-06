@@ -1,0 +1,4 @@
+# Docerion header of tips_module_config.mm.
+type: source
+title: TipsModuleConfig implementation
+summary: Implements TipsModuleConfig, mapping tip identifiers to symbols, accessibility IDs, and badge shape configuration for the Magic Stack Tips module.

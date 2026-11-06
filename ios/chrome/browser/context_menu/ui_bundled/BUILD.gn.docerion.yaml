@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Context menu UI BUILD.gn build file
+summary: Defines the coordinator and ui source sets, their sources and dependencies for the iOS Chrome context menu UI.

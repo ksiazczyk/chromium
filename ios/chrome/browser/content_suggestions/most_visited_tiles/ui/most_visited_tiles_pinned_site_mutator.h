@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pinned site mutator protocol
+// summary: Defines the MostVisitedTilesPinnedSiteMutator protocol and its result enum for adding and editing pinned sites in the most visited tiles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_MOST_VISITED_TILES_UI_MOST_VISITED_TILES_PINNED_SITE_MUTATOR_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_MOST_VISITED_TILES_UI_MOST_VISITED_TILES_PINNED_SITE_MUTATOR_H_
 

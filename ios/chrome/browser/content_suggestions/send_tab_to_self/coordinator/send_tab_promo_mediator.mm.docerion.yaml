@@ -1,0 +1,4 @@
+# Docerion header of send_tab_promo_mediator.mm.
+type: source
+title: SendTabPromoMediator implementation
+summary: Implements the Send Tab to Self promo mediator, fetching the favicon of the last received tab and reporting promo and notification events.

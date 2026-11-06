@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Content suggestions UI build targets
+summary: GN build file defining source sets for the content suggestions UI, public protocols, collection utilities, commands and unit tests with their dependencies.

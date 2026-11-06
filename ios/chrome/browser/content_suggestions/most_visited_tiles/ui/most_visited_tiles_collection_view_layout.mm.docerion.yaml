@@ -1,0 +1,4 @@
+# Docerion header of most_visited_tiles_collection_view_layout.mm.
+type: source
+title: MostVisitedTilesCollectionViewLayout implementation
+summary: Builds the compositional section with item grouping, peeking insets for off-screen tiles and horizontal spacing.

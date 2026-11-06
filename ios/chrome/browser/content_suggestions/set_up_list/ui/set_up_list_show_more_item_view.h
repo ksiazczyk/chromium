@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SetUpListShowMoreItemView class interface
+// summary: Declares a view that displays a single Set Up List item in the Magic Stack, with a tap delegate for user interaction.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SET_UP_LIST_UI_SET_UP_LIST_SHOW_MORE_ITEM_VIEW_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SET_UP_LIST_UI_SET_UP_LIST_SHOW_MORE_ITEM_VIEW_H_
 

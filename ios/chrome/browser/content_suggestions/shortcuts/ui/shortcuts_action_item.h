@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShortcutsActionItem interface header
+// summary: Declares ShortcutsActionItem, an action button item for the shortcuts tile in the magic stack carrying a collection shortcut type.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SHORTCUTS_UI_SHORTCUTS_ACTION_ITEM_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SHORTCUTS_UI_SHORTCUTS_ACTION_ITEM_H_
 

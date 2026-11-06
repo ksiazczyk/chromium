@@ -1,0 +1,4 @@
+# Docerion header of most_visited_tiles_mediator_unittest.mm.
+type: test
+title: Most Visited Tiles mediator unit tests
+summary: Unit tests for the Most Visited Tiles mediator using a faked MostVisitedSites service, test fixtures and OCMock.

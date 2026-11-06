@@ -1,0 +1,4 @@
+# Docerion header of safety_check_view_egtest.mm.
+type: test
+title: Safety Check view Earl Grey UI tests
+summary: Earl Grey UI tests for the iOS Safety Check module, checking its visibility in the Magic Stack and hiding via the long-press context menu.

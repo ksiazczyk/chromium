@@ -1,0 +1,4 @@
+# Docerion header of link_preview_constants.mm.
+type: source
+title: Link preview accessibility identifier definitions
+summary: Defines the accessibility identifier strings used by the link preview UI elements.

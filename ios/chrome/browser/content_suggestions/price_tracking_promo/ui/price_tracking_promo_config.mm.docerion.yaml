@@ -1,0 +1,4 @@
+# Docerion header of price_tracking_promo_config.mm.
+type: source
+title: PriceTrackingPromoConfig implementation
+summary: Implements PriceTrackingPromoConfig with copying, module type, product and fallback images, localized texts, and button tap handling.

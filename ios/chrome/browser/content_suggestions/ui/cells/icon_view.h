@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IconView interface for Safety Check item icons
+// summary: Declares IconView, a UIView that displays an icon for a Safety Check item and is initialized from an IconViewConfiguration.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_UI_CELLS_ICON_VIEW_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_UI_CELLS_ICON_VIEW_H_
 

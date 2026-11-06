@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Link preview accessibility identifier declarations
+// summary: Declares accessibility identifier constants for the preview URL bar, origin, progress bar, and web state view.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTEXT_MENU_UI_BUNDLED_LINK_PREVIEW_LINK_PREVIEW_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_CONTEXT_MENU_UI_BUNDLED_LINK_PREVIEW_LINK_PREVIEW_CONSTANTS_H_
 

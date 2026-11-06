@@ -1,0 +1,4 @@
+# Docerion header of shop_card_prefs.mm.
+type: source
+title: Shop card prefs implementation
+summary: Registers the shop card reviews enabled boolean pref and the price drop URL impressions dictionary pref.

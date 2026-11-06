@@ -1,0 +1,4 @@
+# Docerion header of shortcuts_action_item.mm.
+type: source
+title: ShortcutsActionItem implementation
+summary: Implements ShortcutsActionItem, deriving title and icon from the shortcut type and providing accessibility labels, equality, and hashing.

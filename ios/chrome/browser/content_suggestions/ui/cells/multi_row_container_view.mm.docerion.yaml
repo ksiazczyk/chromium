@@ -1,0 +1,4 @@
+# Docerion header of multi_row_container_view.mm.
+type: source
+title: MultiRowContainerView implementation for row stacking
+summary: Implements MultiRowContainerView using a vertical stack of rows separated by thin separator lines.

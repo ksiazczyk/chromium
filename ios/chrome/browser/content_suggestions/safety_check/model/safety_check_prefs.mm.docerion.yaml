@@ -1,0 +1,4 @@
+# Docerion header of safety_check_prefs.mm.
+type: source
+title: Safety Check Magic Stack preferences implementation
+summary: Implements reading and disabling the Safety Check home module enabled preference in the user's PrefService.

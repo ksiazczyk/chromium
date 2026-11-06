@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShortcutsCommands protocol header
+// summary: Declares the ShortcutsCommands protocol with a method notifying receivers that a shortcuts tile was tapped.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SHORTCUTS_UI_SHORTCUTS_COMMANDS_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SHORTCUTS_UI_SHORTCUTS_COMMANDS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of standalone_module_view.mm.
+type: source
+title: StandaloneModuleView implementation for Magic Stack modules
+summary: Implements StandaloneModuleView, laying out title, description, button, and product or favicon imagery for standalone Magic Stack modules.

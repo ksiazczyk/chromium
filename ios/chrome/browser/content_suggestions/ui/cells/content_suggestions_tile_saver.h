@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content suggestions tile saver
+// summary: Declares functions to save most visited tiles and favicons offline for the shortcuts widget, and to read or update the saved data.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_UI_CELLS_CONTENT_SUGGESTIONS_TILE_SAVER_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_UI_CELLS_CONTENT_SUGGESTIONS_TILE_SAVER_H_
 

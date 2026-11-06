@@ -1,0 +1,4 @@
+# Docerion header of price_tracking_promo_view_egtest.mm.
+type: test
+title: Price tracking promo view Earl Grey tests
+summary: Earl Grey test case verifying the price tracking promo card in the Magic Stack, including the first notification opt-in flow.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: New tab page app interface header for tests
+// summary: Declares the NewTabPageAppInterface used by Earl Grey tests to inspect and configure the new tab page from the app under test.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_TEST_NEW_TAB_PAGE_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_TEST_NEW_TAB_PAGE_APP_INTERFACE_H_
 

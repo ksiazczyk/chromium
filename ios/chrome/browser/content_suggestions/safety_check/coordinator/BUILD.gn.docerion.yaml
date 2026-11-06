@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Safety Check Magic Stack coordinator
+summary: Defines the coordinator source set and its unit test target, listing sources, dependencies, and frameworks for the Safety Check Magic Stack module.

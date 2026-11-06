@@ -1,0 +1,4 @@
+# Docerion header of shop_card_view.mm.
+type: source
+title: Shop card module view implementation
+summary: Builds the shop card UI with product image, favicon, labels, price chip, gradient, and NTP theming.

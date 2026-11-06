@@ -1,0 +1,4 @@
+# Docerion header of content_suggestions_collection_utils.mm.
+type: source
+title: Content suggestions collection layout utilities implementation
+summary: Implements the new tab page header layout helpers, computing doodle, logo, search field and toolbar dimensions for different devices and feature arms.

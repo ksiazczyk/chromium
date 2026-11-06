@@ -1,0 +1,4 @@
+# Docerion header of content_suggestions_action_item.mm.
+type: source
+title: ContentSuggestionsActionItem implementation
+summary: Implements the action item, updating accessibility traits whenever title, count or disabled state change.

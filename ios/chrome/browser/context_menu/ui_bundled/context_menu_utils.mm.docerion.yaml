@@ -1,0 +1,4 @@
+# Docerion header of context_menu_utils.mm.
+type: source
+title: Context menu utils implementation
+summary: Builds the context menu title from link URL, source URL, title attribute, and alt text, and reports the image-title origin.

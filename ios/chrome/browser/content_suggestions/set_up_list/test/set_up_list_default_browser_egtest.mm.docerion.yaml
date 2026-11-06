@@ -1,0 +1,4 @@
+# Docerion header of set_up_list_default_browser_egtest.mm.
+type: test
+title: Set Up List Default Browser Earl Grey tests
+summary: Earl Grey UI tests verifying the Default Browser item and promo behavior in the iOS Set Up List.

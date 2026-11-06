@@ -1,0 +1,4 @@
+# Docerion header of most_visited_tiles_plus_button_tile_view.mm.
+type: source
+title: Plus button tile view implementation
+summary: Implements the add pinned site button cell with icon corner radius, new tab page color theming and tap handling that opens the pinned site modal.

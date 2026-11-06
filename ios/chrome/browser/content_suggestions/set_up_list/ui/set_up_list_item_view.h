@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SetUpListItemView interface
+// summary: Declares SetUpListItemView, the view for a single Set Up List item, with tap delegate, command handler, and completion animation.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SET_UP_LIST_UI_SET_UP_LIST_ITEM_VIEW_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SET_UP_LIST_UI_SET_UP_LIST_ITEM_VIEW_H_
 

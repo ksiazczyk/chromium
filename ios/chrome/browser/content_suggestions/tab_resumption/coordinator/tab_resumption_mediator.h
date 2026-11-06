@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab resumption mediator header
+// summary: Declares the TabResumptionMediator interface that manages the state of the Tab Resumption Magic Stack module.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_TAB_RESUMPTION_COORDINATOR_TAB_RESUMPTION_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_TAB_RESUMPTION_COORDINATOR_TAB_RESUMPTION_MEDIATOR_H_
 

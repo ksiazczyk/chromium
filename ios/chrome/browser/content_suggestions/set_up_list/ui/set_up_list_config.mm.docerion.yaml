@@ -1,0 +1,4 @@
+# Docerion header of set_up_list_config.mm.
+type: source
+title: SetUpListConfig implementation
+summary: Implements SetUpListConfig, resolving the module type from the compact flag or first item and copying all config properties.

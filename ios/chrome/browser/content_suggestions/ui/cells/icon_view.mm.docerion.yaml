@@ -1,0 +1,4 @@
+# Docerion header of icon_view.mm.
+type: source
+title: IconView implementation for Safety Check item icons
+summary: Implements IconView by building icon image views from SF Symbols or local image resources, optionally wrapped in a rounded square container.

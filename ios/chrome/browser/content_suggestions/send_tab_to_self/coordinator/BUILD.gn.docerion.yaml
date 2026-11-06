@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Send Tab to Self promo coordinator
+summary: Defines the coordinator source_set, listing the send tab promo mediator sources and their build dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TipsMagicStackMediatorDelegate protocol
+// summary: Declares the delegate protocol for Tips module events such as item reconfiguration, module removal, and Magic Stack engagement logging.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_TIPS_COORDINATOR_TIPS_MAGIC_STACK_MEDIATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_TIPS_COORDINATOR_TIPS_MAGIC_STACK_MEDIATOR_DELEGATE_H_
 

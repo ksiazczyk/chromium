@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image preview view controller header
+// summary: Declares a view controller that loads an image in a WKWebView for use as a context menu preview.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTEXT_MENU_UI_BUNDLED_IMAGE_PREVIEW_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_CONTEXT_MENU_UI_BUNDLED_IMAGE_PREVIEW_VIEW_CONTROLLER_H_
 

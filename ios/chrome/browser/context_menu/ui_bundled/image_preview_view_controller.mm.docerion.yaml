@@ -1,0 +1,4 @@
+# Docerion header of image_preview_view_controller.mm.
+type: source
+title: Image preview view controller implementation
+summary: Implements image preview loading via the image fetch tab helper, with image transcoding and a delayed spinner.

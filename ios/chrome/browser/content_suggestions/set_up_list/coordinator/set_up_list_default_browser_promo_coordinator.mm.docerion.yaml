@@ -1,0 +1,4 @@
+# Docerion header of set_up_list_default_browser_promo_coordinator.mm.
+type: source
+title: Set Up List default browser promo coordinator implementation
+summary: Implements the promo coordinator, recording metrics, opening iOS settings on acceptance, and marking the Set Up List item complete.

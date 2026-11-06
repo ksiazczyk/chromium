@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MostVisitedTilesCollectionViewLayout interface
+// summary: Declares a custom compositional layout for the most visited tiles collection with a maximum visible items property.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_MOST_VISITED_TILES_UI_MOST_VISITED_TILES_COLLECTION_VIEW_LAYOUT_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_MOST_VISITED_TILES_UI_MOST_VISITED_TILES_COLLECTION_VIEW_LAYOUT_H_
 

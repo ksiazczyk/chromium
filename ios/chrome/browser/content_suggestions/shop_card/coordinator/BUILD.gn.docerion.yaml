@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Shop card coordinator BUILD.gn build targets
+summary: GN build file defining the shop card coordinator source set and its unit test target together with their dependencies.

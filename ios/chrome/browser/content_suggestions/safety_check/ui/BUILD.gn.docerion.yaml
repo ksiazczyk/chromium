@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for Safety Check UI
+summary: Defines the GN build targets for the Safety Check UI source set, item types, and unit tests together with their dependencies and frameworks.

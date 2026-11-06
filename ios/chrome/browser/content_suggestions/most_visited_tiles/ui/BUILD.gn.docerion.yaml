@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the most visited tiles UI source set
+summary: Defines the ui source_set with its sources, public dependencies and UIKit framework for the most visited tiles UI.

@@ -1,0 +1,4 @@
+# Docerion header of content_suggestions_tile_constants.mm.
+type: source
+title: Content suggestions tile constants implementation
+summary: Maps collection shortcut types to localized titles and symbol images and provides labels for the reading list and pinned site buttons.

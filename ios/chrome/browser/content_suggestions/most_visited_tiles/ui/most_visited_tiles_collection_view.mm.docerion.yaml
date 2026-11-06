@@ -1,0 +1,4 @@
+# Docerion header of most_visited_tiles_collection_view.mm.
+type: source
+title: MostVisitedTilesCollectionView implementation
+summary: Implements the diffable data source, drag and drop reordering, favicon data source wiring and plus button handling for the tiles grid.

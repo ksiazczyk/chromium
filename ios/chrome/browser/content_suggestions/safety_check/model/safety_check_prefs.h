@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Check Magic Stack preferences header
+// summary: Declares functions to check whether the Safety Check Magic Stack module is disabled and to disable it via preferences.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SAFETY_CHECK_MODEL_SAFETY_CHECK_PREFS_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SAFETY_CHECK_MODEL_SAFETY_CHECK_PREFS_H_
 

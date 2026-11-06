@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Set Up List Default Browser tests build definition
+summary: Defines the eg2 testonly source set and its dependencies for the Set Up List Default Browser Earl Grey tests.

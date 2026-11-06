@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Price tracking promo test build file
+summary: GN build file defining the eg2_tests source set for the price tracking promo Earl Grey UI tests.

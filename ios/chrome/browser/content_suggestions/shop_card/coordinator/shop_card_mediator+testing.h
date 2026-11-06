@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shop card mediator testing category
+// summary: Declares a ForTesting category on ShopCardMediator exposing internal state such as config, impressions, and engagement for unit tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SHOP_CARD_COORDINATOR_SHOP_CARD_MEDIATOR_TESTING_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SHOP_CARD_COORDINATOR_SHOP_CARD_MEDIATOR_TESTING_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tips coordinator BUILD.gn build targets
+summary: Defines the GN source_set targets for the Tips coordinator and its unit tests, listing sources, dependencies, and frameworks.

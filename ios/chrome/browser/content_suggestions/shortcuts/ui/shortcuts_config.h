@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShortcutsConfig interface header
+// summary: Declares ShortcutsConfig, the magic stack module config holding shortcut items and a command handler for user actions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SHORTCUTS_UI_SHORTCUTS_CONFIG_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SHORTCUTS_UI_SHORTCUTS_CONFIG_H_
 

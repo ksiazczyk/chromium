@@ -1,0 +1,4 @@
+# Docerion header of tab_resumption_egtest.mm.
+type: test
+title: Tab resumption tile Earl Grey UI tests
+summary: Earl Grey UI tests verifying when the tab resumption tile appears in the Magic Stack, including sign-in and history sync setup.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the tips UI source set
+summary: Defines the tips UI source set, its source files, public dependencies and other build dependencies.

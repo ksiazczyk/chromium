@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shop card action delegate protocol header
+// summary: Declares the ShopCardActionDelegate protocol for opening a URL in an existing tab or, if none exists, in a new tab.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SHOP_CARD_COORDINATOR_SHOP_CARD_ACTION_DELEGATE_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SHOP_CARD_COORDINATOR_SHOP_CARD_ACTION_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafetyCheckItemType enum for Magic Stack module items
+// summary: Defines the SafetyCheckItemType enum listing the possible Safety Check Magic Stack module item types such as all safe, running, and individual checks.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SAFETY_CHECK_UI_SAFETY_CHECK_ITEM_TYPE_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SAFETY_CHECK_UI_SAFETY_CHECK_ITEM_TYPE_H_
 

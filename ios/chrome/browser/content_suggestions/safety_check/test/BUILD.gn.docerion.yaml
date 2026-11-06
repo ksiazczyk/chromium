@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build config for Safety Check Earl Grey tests
+summary: GN build file defining the eg2_tests source set that builds the Safety Check view Earl Grey test target and its dependencies.

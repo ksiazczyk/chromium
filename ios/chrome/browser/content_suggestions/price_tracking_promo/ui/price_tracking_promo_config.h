@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PriceTrackingPromoConfig interface header
+// summary: Declares the PriceTrackingPromoConfig item holding the command handler and tracked product image data for the module view.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_PRICE_TRACKING_PROMO_UI_PRICE_TRACKING_PROMO_CONFIG_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_PRICE_TRACKING_PROMO_UI_PRICE_TRACKING_PROMO_CONFIG_H_
 

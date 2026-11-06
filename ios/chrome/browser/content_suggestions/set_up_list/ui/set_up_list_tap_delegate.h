@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SetUpListTapDelegate protocol
+// summary: Defines a delegate protocol handling Set Up List item selection and dismissal of the See More view controller.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SET_UP_LIST_UI_SET_UP_LIST_TAP_DELEGATE_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SET_UP_LIST_UI_SET_UP_LIST_TAP_DELEGATE_H_
 

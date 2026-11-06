@@ -1,0 +1,4 @@
+# Docerion header of context_menu_configuration_provider.mm.
+type: source
+title: Context menu configuration provider implementation
+summary: Implements the provider that assembles context menu actions and previews from browser services, policies and feature flags.

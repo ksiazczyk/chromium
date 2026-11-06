@@ -1,0 +1,4 @@
+# Docerion header of link_preview_mediator.mm.
+type: source
+title: Link preview mediator implementation
+summary: Observes web state loading, progress, and redirects to keep the preview UI and displayed origin up to date.

@@ -1,0 +1,4 @@
+# Docerion header of most_visited_tiles_config.mm.
+type: source
+title: Most Visited Tiles config implementation
+summary: Implements MostVisitedTilesConfig, reporting the most visited module type and copying its properties for the content suggestions UI.

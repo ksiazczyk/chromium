@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for price tracking promo UI
+summary: Defines the ui source_set listing the price tracking promo UI sources and their dependencies for the GN build.

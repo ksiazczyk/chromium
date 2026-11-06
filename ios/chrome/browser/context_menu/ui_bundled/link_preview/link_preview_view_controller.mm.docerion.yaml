@@ -1,0 +1,4 @@
+# Docerion header of link_preview_view_controller.mm.
+type: source
+title: Link preview view controller implementation
+summary: Implements the link preview UI, laying out the origin URL bar, separator, progress bar, and webState view with auto layout and loading animation handling.

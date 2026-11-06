@@ -1,0 +1,4 @@
+# Docerion header of set_up_list_mediator.mm.
+type: source
+title: Set Up List mediator implementation
+summary: Implements the Set Up List mediator, deciding which setup tasks to display based on preferences, sign-in state, and prior promo actions.

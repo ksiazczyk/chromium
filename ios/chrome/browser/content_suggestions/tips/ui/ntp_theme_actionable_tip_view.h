@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP Theme actionable tip view header
+// summary: Declares the view that displays the five circular swatches for the actionable NTP Theme tip.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_TIPS_UI_NTP_THEME_ACTIONABLE_TIP_VIEW_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_TIPS_UI_NTP_THEME_ACTIONABLE_TIP_VIEW_H_
 

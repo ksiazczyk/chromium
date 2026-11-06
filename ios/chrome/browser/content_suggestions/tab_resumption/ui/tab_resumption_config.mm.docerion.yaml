@@ -1,0 +1,4 @@
+# Docerion header of tab_resumption_config.mm.
+type: source
+title: Tab Resumption config implementation
+summary: Implements TabResumptionConfig initialization, reconfiguration, copying, and content comparison for the tab resumption tile.

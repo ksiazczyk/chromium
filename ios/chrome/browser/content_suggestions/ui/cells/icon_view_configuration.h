@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IconViewConfiguration interface for icon view settings
+// summary: Declares IconViewConfiguration, a configuration object holding icon source type, symbol or image name, colors, size, and layout options for IconView.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_UI_CELLS_ICON_VIEW_CONFIGURATION_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_UI_CELLS_ICON_VIEW_CONFIGURATION_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of safety_check_view.mm.
+type: source
+title: SafetyCheckView implementation with hero and compact layouts
+summary: Implements SafetyCheckView, building a hero or compact multi-row layout from the check states in its configuration and updating the delegate accordingly.

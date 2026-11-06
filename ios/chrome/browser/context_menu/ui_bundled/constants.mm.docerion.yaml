@@ -1,0 +1,4 @@
+# Docerion header of constants.mm.
+type: source
+title: Context menu image preview accessibility identifier value
+summary: Defines the string value of the accessibility identifier for the context menu image preview view.

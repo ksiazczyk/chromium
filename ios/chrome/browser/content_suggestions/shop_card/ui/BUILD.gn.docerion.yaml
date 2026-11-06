@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Shop card UI build targets
+summary: GN build file defining the ui and card_data source sets and their dependencies for the shop card module.

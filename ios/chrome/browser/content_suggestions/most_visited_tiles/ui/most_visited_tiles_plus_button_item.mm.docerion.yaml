@@ -1,0 +1,4 @@
+# Docerion header of most_visited_tiles_plus_button_item.mm.
+type: source
+title: Plus button item implementation
+summary: Implements the add pinned site button item with its title, icon, content view creation and copying behavior.

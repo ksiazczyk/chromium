@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Set Up List coordinator BUILD.gn build definitions
+summary: Defines GN build targets for the Set Up List mediator, default browser promo coordinator, and unit tests, with their dependencies and frameworks.

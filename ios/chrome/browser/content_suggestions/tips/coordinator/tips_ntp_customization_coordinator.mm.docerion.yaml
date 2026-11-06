@@ -1,0 +1,4 @@
+# Docerion header of tips_ntp_customization_coordinator.mm.
+type: source
+title: TipsNTPCustomizationCoordinator implementation
+summary: Presents the NTP customization promo view controller as a sheet and forwards button stack actions and dismissal to its delegate.

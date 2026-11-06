@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: New tab page home test utilities header
+// summary: Declares ntp_home namespace helpers that find NTP views, collection views, and Magic Stack items by accessibility identifier in tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_TEST_NTP_HOME_TEST_UTILS_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_TEST_NTP_HOME_TEST_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TipsNTPCustomizationCoordinator interface
+// summary: Header declaring the coordinator that presents the actionable NTP Customization tip bottom sheet and its delegate protocol.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_TIPS_COORDINATOR_TIPS_NTP_CUSTOMIZATION_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_TIPS_COORDINATOR_TIPS_NTP_CUSTOMIZATION_COORDINATOR_H_
 

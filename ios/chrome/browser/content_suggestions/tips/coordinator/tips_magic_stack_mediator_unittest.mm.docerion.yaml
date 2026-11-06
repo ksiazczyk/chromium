@@ -1,0 +1,4 @@
+# Docerion header of tips_magic_stack_mediator_unittest.mm.
+type: test
+title: TipsMagicStackMediator unit tests
+summary: Unit tests verifying the mediator's initial state for unknown tips, reconfiguration, and module removal using mock services and test profiles.

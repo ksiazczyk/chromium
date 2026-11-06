@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Check Magic Stack mediator interface
+// summary: Declares the SafetyCheckMagicStackMediator interface that manages the state of the Safety Check Magic Stack module, with its config, delegate, consumer, and initializer.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SAFETY_CHECK_COORDINATOR_SAFETY_CHECK_MAGIC_STACK_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SAFETY_CHECK_COORDINATOR_SAFETY_CHECK_MAGIC_STACK_MEDIATOR_H_
 

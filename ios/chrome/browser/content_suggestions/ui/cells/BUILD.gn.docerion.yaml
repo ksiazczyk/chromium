@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Content suggestions cells build targets
+summary: Defines GN source sets and dependencies for the content suggestions UI cells, standalone module view, icon detail view and tile saver.

@@ -1,0 +1,4 @@
+# Docerion header of ntp_home_egtest.mm.
+type: test
+title: New tab page home Earl Grey tests
+summary: Earl Grey UI tests for the new tab page home, covering sign-in promos, SetUpList, safety check, and related NTP features.

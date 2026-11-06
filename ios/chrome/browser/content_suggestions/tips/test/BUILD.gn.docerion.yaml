@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: BUILD.gn target for tips module view unit tests
+summary: Defines the testonly unit_tests source_set that builds tips_module_view_unittest.mm and lists its test dependencies and frameworks.

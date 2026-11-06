@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content suggestions view controller audience protocol
+// summary: Objective-C protocol that lets the content suggestions view controller notify its audience of user interactions such as Safety Check items, setup list items, tips, promos, and NTP theme photo picking.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_UI_CONTENT_SUGGESTIONS_VIEW_CONTROLLER_AUDIENCE_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_UI_CONTENT_SUGGESTIONS_VIEW_CONTROLLER_AUDIENCE_H_
 

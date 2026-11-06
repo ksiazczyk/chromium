@@ -1,0 +1,4 @@
+# Docerion header of set_up_list_item_view.mm.
+type: source
+title: SetUpListItemView implementation
+summary: Implements SetUpListItemView with compact, hero, and standard layouts, crossfade labels, and item completion animations.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Most Visited Tiles coordinator BUILD.gn
+summary: GN build definition listing sources, dependencies and frameworks for the Most Visited Tiles mediator and its unit tests.

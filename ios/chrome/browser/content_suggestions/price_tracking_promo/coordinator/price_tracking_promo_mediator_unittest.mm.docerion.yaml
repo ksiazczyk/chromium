@@ -1,0 +1,4 @@
+# Docerion header of price_tracking_promo_mediator_unittest.mm.
+type: test
+title: PriceTrackingPromoMediator unit tests
+summary: Unit tests for the price tracking promo mediator using a mock shopping service, fake identities, test profiles, and OCMock.

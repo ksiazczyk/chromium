@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shop card prefs header
+// summary: Declares the shop card preferences registration function and the price drop URL impressions pref name constant.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SHOP_CARD_MODEL_SHOP_CARD_PREFS_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SHOP_CARD_MODEL_SHOP_CARD_PREFS_H_
 

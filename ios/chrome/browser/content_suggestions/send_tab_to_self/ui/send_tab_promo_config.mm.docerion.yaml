@@ -1,0 +1,4 @@
+# Docerion header of send_tab_promo_config.mm.
+type: source
+title: SendTabPromoConfig implementation
+summary: Implements SendTabPromoConfig with localized title, body and button text, a fallback symbol, accessibility identifier, copying, and tap forwarding to the audience.

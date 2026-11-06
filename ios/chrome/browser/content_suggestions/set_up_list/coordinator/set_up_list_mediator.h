@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Set Up List mediator interface
+// summary: Declares the mediator that manages Set Up List state for the Magic Stack module and exposes item configurations and completion checks.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SET_UP_LIST_COORDINATOR_SET_UP_LIST_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SET_UP_LIST_COORDINATOR_SET_UP_LIST_MEDIATOR_H_
 

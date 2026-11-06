@@ -1,0 +1,4 @@
+# Docerion header of shop_card_config.mm.
+type: source
+title: Shop card config implementation
+summary: Implements ShopCardConfig copying and reports the module type as shop card with see-more enabled.

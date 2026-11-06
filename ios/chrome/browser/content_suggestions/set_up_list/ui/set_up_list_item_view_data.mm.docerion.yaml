@@ -1,0 +1,4 @@
+# Docerion header of set_up_list_item_view_data.mm.
+type: source
+title: SetUpListItemViewData implementation
+summary: Implements SetUpListItemViewData initialization from an item type and completion state.

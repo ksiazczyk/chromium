@@ -1,0 +1,4 @@
+# Docerion header of new_tab_page_app_interface.mm.
+type: test
+title: New tab page app interface implementation
+summary: Implements NewTabPageAppInterface methods that locate NTP views and adjust prefs such as tips cards and SetUpList items during tests.

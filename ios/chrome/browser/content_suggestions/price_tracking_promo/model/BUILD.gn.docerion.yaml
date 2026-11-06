@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for price tracking promo prefs
+summary: Defines the GN source_set that builds the price tracking promo prefs sources with a dependency on //components/prefs.

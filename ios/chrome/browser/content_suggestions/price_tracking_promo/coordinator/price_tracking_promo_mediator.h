@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PriceTrackingPromoMediator header
+// summary: Declares the mediator for the price tracking promo card in the Magic Stack, with initialization, disconnect, reset, subscription fetching, and module disabling.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_PRICE_TRACKING_PROMO_COORDINATOR_PRICE_TRACKING_PROMO_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_PRICE_TRACKING_PROMO_COORDINATOR_PRICE_TRACKING_PROMO_MEDIATOR_H_
 

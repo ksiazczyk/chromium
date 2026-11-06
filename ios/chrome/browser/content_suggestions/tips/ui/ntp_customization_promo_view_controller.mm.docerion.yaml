@@ -1,0 +1,4 @@
+# Docerion header of ntp_customization_promo_view_controller.mm.
+type: source
+title: NTP Customization promo view controller implementation
+summary: Implements the NTP Customization promo view controller with a default button stack configuration, pending further setup.

@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: SendTabPromoConfig class header
+// summary: Declares SendTabPromoConfig, a StandaloneModuleViewConfig subclass holding the audience that handles Send Tab promo user events.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SEND_TAB_TO_SELF_UI_SEND_TAB_PROMO_CONFIG_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_SEND_TAB_TO_SELF_UI_SEND_TAB_PROMO_CONFIG_H_
 
