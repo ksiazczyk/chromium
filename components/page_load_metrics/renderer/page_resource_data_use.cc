@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageResourceDataUse implementation
+// summary: Implements per-resource data use tracking for page load metrics, recording response start, transfer size updates, completion, cancellation and memory cache loads.
+// ---
+
 #include "components/page_load_metrics/renderer/page_resource_data_use.h"
 
 #include "base/byte_size.h"

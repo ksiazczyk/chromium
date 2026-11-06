@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InteractionToNextPaintCalculator class declaration
+// summary: Declares the calculator that aggregates user interaction latency data from renderer frames and picks a representative interaction to score the INP metric per page load.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_BROWSER_INTERACTION_TO_NEXT_PAINT_CALCULATOR_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_BROWSER_INTERACTION_TO_NEXT_PAINT_CALCULATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GWS page load metrics observer implementation
+// summary: Implements the main Google Search page load metrics observer, logging navigation timing, paint, prewarm, and preload histograms and UKM events.
+// ---
+
 #include "components/page_load_metrics/google/browser/gws_page_load_metrics_observer.h"
 
 #include <string>

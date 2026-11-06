@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ads page load metrics test waiter header
+// summary: Declares a PageLoadMetricsTestWaiter subclass that lets tests wait for a minimum number of ad resources to load.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_BROWSER_ADS_PAGE_LOAD_METRICS_TEST_WAITER_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_BROWSER_ADS_PAGE_LOAD_METRICS_TEST_WAITER_H_
 

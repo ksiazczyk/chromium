@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricsNavigationThrottle implementation
+// summary: Implements a navigation throttle that forwards the WillProcessResponse event to the MetricsWebContentsObserver for the navigated WebContents.
+// ---
+
 #include "components/page_load_metrics/browser/metrics_navigation_throttle.h"
 
 #include "base/memory/ptr_util.h"

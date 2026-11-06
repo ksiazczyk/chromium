@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Weak mock timer header
+// summary: Declares WeakMockTimer, a mock one-shot timer supporting weak pointers, and WeakMockTimerProvider for tracking mock timers in tests.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_COMMON_TEST_WEAK_MOCK_TIMER_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_COMMON_TEST_WEAK_MOCK_TIMER_H_
 

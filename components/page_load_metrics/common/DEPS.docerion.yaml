@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for page load metrics common
+summary: Declares the directories that code in the page load metrics common folder is allowed to include from.

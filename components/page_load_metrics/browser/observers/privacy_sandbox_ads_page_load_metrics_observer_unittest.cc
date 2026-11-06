@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Privacy Sandbox Ads page load metrics observer unit tests
+// summary: Parameterized unit tests verifying that the Privacy Sandbox ads observer logs the expected histograms for each API feature set.
+// ---
+
 #include "components/page_load_metrics/browser/observers/privacy_sandbox_ads_page_load_metrics_observer.h"
 
 #include <algorithm>

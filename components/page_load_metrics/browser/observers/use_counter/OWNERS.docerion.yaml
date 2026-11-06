@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS review rules for the use_counter directory
+summary: Sets per-file review requirements, requiring UKM privacy owners for ukm_features files and allowing any owner for webdx_feature_maps.cc changes.

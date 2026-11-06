@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricsNavigationThrottle class declaration
+// summary: Declares a NavigationThrottle used to forward navigation calls to the MetricsWebContentsObserver, which does not receive them as a WebContentsObserver.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_BROWSER_METRICS_NAVIGATION_THROTTLE_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_BROWSER_METRICS_NAVIGATION_THROTTLE_H_
 

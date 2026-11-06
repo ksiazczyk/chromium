@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search preload process data implementation
+// summary: Implements lookup and creation of SearchPreloadProcessData user data attached to a render process host.
+// ---
+
 #include "components/page_load_metrics/google/browser/search_preload_process_data.h"
 
 #include <memory>

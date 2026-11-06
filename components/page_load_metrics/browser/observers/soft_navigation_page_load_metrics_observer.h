@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Soft navigation page load metrics observer header
+// summary: Declares an observer that records SoftNavigation events to UKM for regular loads, prerendered activations, and back-forward cache restores.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_BROWSER_OBSERVERS_SOFT_NAVIGATION_PAGE_LOAD_METRICS_OBSERVER_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_BROWSER_OBSERVERS_SOFT_NAVIGATION_PAGE_LOAD_METRICS_OBSERVER_H_
 

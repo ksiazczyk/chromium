@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GWS prewarm page load metrics observer implementation
+// summary: Implements the observer that records metrics for prerendered Google Search prewarm page loads, including cache hits, cancellation timing and subresource loads.
+// ---
+
 #include "components/page_load_metrics/google/browser/gws_prewarm_page_load_metrics_observer.h"
 
 #include "base/check.h"

@@ -1,0 +1,4 @@
+# Docerion header of page_load_metrics.mojom.
+type: source
+title: Mojo definitions of page load timing metrics
+summary: Defines Mojo structs for document, paint, largest contentful paint, parse, interactive and related page load timing metrics exchanged between renderer and browser.

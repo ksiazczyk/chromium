@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakePageTimingSender implementation
+// summary: Implements a fake page timing sender and validator that record and verify expected page load timings in tests.
+// ---
+
 #include "components/page_load_metrics/renderer/fake_page_timing_sender.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page load metrics utility implementation
+// summary: Implements page load metrics utility functions including page abort reason mapping and URL query component matching helpers.
+// ---
+
 #include "components/page_load_metrics/browser/page_load_metrics_util.h"
 
 #include <algorithm>

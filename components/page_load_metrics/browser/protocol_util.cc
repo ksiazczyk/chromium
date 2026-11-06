@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network protocol utility implementation
+// summary: Implements GetNetworkProtocol, mapping an HTTP connection info value to the coarse NetworkProtocol enum used by page load metrics.
+// ---
+
 #include "components/page_load_metrics/browser/protocol_util.h"
 
 namespace page_load_metrics {

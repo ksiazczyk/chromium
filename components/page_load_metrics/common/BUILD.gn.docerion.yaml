@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for page load metrics common code
+summary: GN build file defining the common source set, Mojo bindings, test support and unit test targets for the page load metrics component.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prerender page load metrics observer implementation
+// summary: Implements an observer that records UMA and UKM metrics for prerendered page loads, covering navigation to activation, paint timings, input delay and layout instability.
+// ---
+
 #include "components/page_load_metrics/browser/observers/prerender_page_load_metrics_observer.h"
 
 #include "base/metrics/histogram_functions.h"

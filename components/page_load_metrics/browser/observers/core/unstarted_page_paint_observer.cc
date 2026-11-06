@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unstarted page paint observer implementation
+// summary: Implements a timeout timer that records whether a navigation reaches first contentful paint within the allotted time.
+// ---
+
 #include "components/page_load_metrics/browser/observers/core/unstarted_page_paint_observer.h"
 
 #include "base/metrics/histogram_functions.h"

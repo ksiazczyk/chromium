@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for components/page_load_metrics/google
+summary: Lists the email addresses of the code owners responsible for reviewing changes in the page load metrics google folder.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unstarted page paint observer header
+// summary: Declares the observer that tracks navigations failing to reach first contentful paint within a 30 second timeout.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_BROWSER_OBSERVERS_CORE_UNSTARTED_PAGE_PAINT_OBSERVER_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_BROWSER_OBSERVERS_CORE_UNSTARTED_PAGE_PAINT_OBSERVER_H_
 

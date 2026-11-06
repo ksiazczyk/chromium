@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationScenario enum header
+// summary: Declares the NavigationScenario enum classifying page load navigations as unknown, startup, new window, or same window so observers can slice metrics by scenario.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_BROWSER_NAVIGATION_SCENARIO_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_BROWSER_NAVIGATION_SCENARIO_H_
 

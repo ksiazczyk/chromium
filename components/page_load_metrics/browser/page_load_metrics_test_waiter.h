@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page load metrics test waiter header
+// summary: Declares PageLoadMetricsTestWaiter, a test helper for setting timing, layout shift, frame size, and use counter expectations on page loads.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_BROWSER_PAGE_LOAD_METRICS_TEST_WAITER_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_BROWSER_PAGE_LOAD_METRICS_TEST_WAITER_H_
 

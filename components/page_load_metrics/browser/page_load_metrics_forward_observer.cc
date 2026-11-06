@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageLoadMetricsForwardObserver implementation
+// summary: Implements the forward observer that wraps a parent page's metrics observer and forwards child page metric events to it.
+// ---
+
 #include "components/page_load_metrics/browser/page_load_metrics_forward_observer.h"
 
 #include "content/public/browser/auction_result.h"

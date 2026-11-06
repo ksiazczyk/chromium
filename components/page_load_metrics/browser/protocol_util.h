@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network protocol utility header
+// summary: Declares the NetworkProtocol enum and the GetNetworkProtocol helper that summarizes a connection info value for logging.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_BROWSER_PROTOCOL_UTIL_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_BROWSER_PROTOCOL_UTIL_H_
 

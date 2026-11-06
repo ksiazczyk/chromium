@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interaction to next paint calculator implementation
+// summary: Tracks interaction event timings to compute worst and approximate high-percentile interaction-to-next-paint latencies.
+// ---
+
 #include "components/page_load_metrics/browser/interaction_to_next_paint_calculator.h"
 
 #include <algorithm>

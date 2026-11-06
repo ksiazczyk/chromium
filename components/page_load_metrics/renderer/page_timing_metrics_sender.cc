@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageTimingMetricsSender implementation
+// summary: Implements buffered sending of page load timing metrics over IPC, coalescing updates with a timer and tracking resource data use and metadata.
+// ---
+
 #include "components/page_load_metrics/renderer/page_timing_metrics_sender.h"
 
 #include <utility>

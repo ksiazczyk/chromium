@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationInitiator implementation
+// summary: Implements GetNavigationInitiator, deriving the navigation initiator from page transitions, back/forward history and BFCache, reloads, and holders attached by triggers.
+// ---
+
 #include "components/page_load_metrics/browser/navigation_initiator.h"
 
 #include "base/functional/bind.h"

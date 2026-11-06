@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GWS session state declarations
+// summary: Declares GWSSessionState, user data attached to a browser context that tracks signed-in and prewarmed flags and the page load count.
+// ---
+
 #include "base/numerics/clamped_math.h"
 #include "base/supports_user_data.h"
 #include "content/public/browser/browser_context.h"

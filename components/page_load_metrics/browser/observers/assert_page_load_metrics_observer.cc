@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Assert page load metrics observer implementation
+// summary: Implements an observer that CHECKs the lifecycle constraints of page load metrics observers across navigation events.
+// ---
+
 #include "components/page_load_metrics/browser/observers/assert_page_load_metrics_observer.h"
 
 #include "components/page_load_metrics/browser/page_load_metrics_observer_delegate.h"

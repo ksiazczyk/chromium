@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page load metrics observer tester implementation
+// summary: Implements PageLoadMetricsObserverTester, a test helper that creates a MetricsWebContentsObserver with a mock embedder so unit tests can simulate navigations and timing updates.
+// ---
+
 #include "components/page_load_metrics/browser/observers/page_load_metrics_observer_tester.h"
 
 #include <memory>

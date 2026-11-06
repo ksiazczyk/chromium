@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resource tracker class declaration
+// summary: Declares ResourceTracker, which tracks individual network resource loads across renderer processes using globally unique request IDs.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_BROWSER_RESOURCE_TRACKER_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_BROWSER_RESOURCE_TRACKER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameTreeData implementation for ad frame metrics
+// summary: Implements per-frame-tree tracking of ad resource and CPU usage, heavy ad classification, and UKM ad frame load reporting.
+// ---
+
 
 #include "components/page_load_metrics/browser/observers/ad_metrics/frame_tree_data.h"
 

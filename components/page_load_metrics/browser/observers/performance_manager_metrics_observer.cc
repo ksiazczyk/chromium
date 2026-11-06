@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance manager metrics observer implementation
+// summary: Implements an observer that logs UMA histograms for the time a page takes to reach PerformanceManager's LoadedIdle loading state, including visibility tracking.
+// ---
+
 #include "components/page_load_metrics/browser/observers/performance_manager_metrics_observer.h"
 
 #include <memory>

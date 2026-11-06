@@ -2,6 +2,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Debug string formatting for page load timing structs
+// summary: Implements DebugString overloads that render page load timing mojom structs, including paint, LCP and soft navigation metrics, as readable strings.
+// ---
+
 #include "components/page_load_metrics/common/page_load_metrics_debug_string.h"
 
 #include <sstream>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Back-forward cache page load metrics observer unit tests
+// summary: Unit tests for the back-forward cache observer, covering restore metrics and UKM logging via the content test harness.
+// ---
+
 #include "components/page_load_metrics/browser/observers/back_forward_cache_page_load_metrics_observer.h"
 
 #include "base/memory/raw_ptr.h"

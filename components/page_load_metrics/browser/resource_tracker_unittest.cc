@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ResourceTracker unit tests
+// summary: Unit tests verifying that ResourceTracker adds, advances, and removes unfinished resources and stores previous updates for actively loading resources.
+// ---
+
 #include "components/page_load_metrics/browser/resource_tracker.h"
 
 #include <utility>

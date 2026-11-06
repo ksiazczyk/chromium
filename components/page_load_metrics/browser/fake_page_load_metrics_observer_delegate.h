@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake page load metrics observer delegate header
+// summary: Declares a fake PageLoadMetricsObserverDelegate whose backing variables tests configure to simulate page load scenarios.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_BROWSER_FAKE_PAGE_LOAD_METRICS_OBSERVER_DELEGATE_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_BROWSER_FAKE_PAGE_LOAD_METRICS_OBSERVER_DELEGATE_H_
 

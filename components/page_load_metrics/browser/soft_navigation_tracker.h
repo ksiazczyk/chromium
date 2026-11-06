@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SoftNavigationTracker header
+// summary: Header for SoftNavigationTracker, which validates and manages soft navigation metrics received from the renderer and pushes FCP and completed navigation updates to its client.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_BROWSER_SOFT_NAVIGATION_TRACKER_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_BROWSER_SOFT_NAVIGATION_TRACKER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TimeWeightedUnivariateStats class declaration
+// summary: Declares a helper that tracks a variable over time and computes its first four distribution moments and maximum with pause and resume support.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_BROWSER_OBSERVERS_AD_METRICS_TIME_WEIGHTED_UNIVARIATE_STATS_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_BROWSER_OBSERVERS_AD_METRICS_TIME_WEIGHTED_UNIVARIATE_STATS_H_
 

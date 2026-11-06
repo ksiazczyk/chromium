@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Early Hints page load metrics observer implementation
+// summary: Records paint and input timing histograms for navigations that received preload or preconnect resource hints via 103 Early Hints responses.
+// ---
+
 #include "components/page_load_metrics/browser/observers/early_hints_page_load_metrics_observer.h"
 
 #include "base/metrics/histogram_functions.h"

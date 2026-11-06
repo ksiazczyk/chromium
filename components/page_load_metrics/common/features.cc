@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page load metrics feature flag definitions
+// summary: Defines the kThrottleSendingCustomUserTimings feature, enabled by default, which throttles custom user timings sent to the browser process.
+// ---
+
 #include "components/page_load_metrics/common/features.h"
 
 #include "base/feature_list.h"

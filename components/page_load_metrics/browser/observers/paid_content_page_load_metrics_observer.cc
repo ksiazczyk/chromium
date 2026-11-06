@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paid content page load metrics observer implementation
+// summary: Implements an observer that records UMA and UKM metrics for user interactions on pages with paid content, gated by the kPaidContentMetricsObserver feature flag.
+// ---
+
 #include "components/page_load_metrics/browser/observers/paid_content_page_load_metrics_observer.h"
 
 #include "base/feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for PageAdDensityTracker
+// summary: Unit tests verifying ad density by height and area, rect removal, overflow handling, and viewport density behavior of PageAdDensityTracker.
+// ---
+
 #include "components/page_load_metrics/browser/observers/ad_metrics/page_ad_density_tracker.h"
 
 #include <limits>

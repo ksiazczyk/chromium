@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageLoadMetricsObserverDelegate declaration
+// summary: Declares the delegate that tracks global page load state such as visibility, prerendering, and bfcache restores for observers.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_BROWSER_PAGE_LOAD_METRICS_OBSERVER_DELEGATE_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_BROWSER_PAGE_LOAD_METRICS_OBSERVER_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Debug string declarations for page load timing structs
+// summary: Declares DebugString overloads for page load timing mojom structs such as DocumentTiming, PaintTiming, InteractiveTiming and SoftNavigationMetrics.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_COMMON_PAGE_LOAD_METRICS_DEBUG_STRING_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_COMMON_PAGE_LOAD_METRICS_DEBUG_STRING_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricsRenderFrameObserver implementation
+// summary: Observes render frame notifications and sends page load timing, resource, and interaction metrics to the browser over IPC.
+// ---
+
 #include "components/page_load_metrics/renderer/metrics_render_frame_observer.h"
 
 #include <map>

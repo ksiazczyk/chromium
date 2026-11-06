@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AtMostOnceEnumUmaDeferrer unit tests
+// summary: Verifies that deferred samples are buffered until flush, recorded at most once, and recorded directly after DisableDeferAndFlush.
+// ---
+
 #include "components/page_load_metrics/browser/observers/use_counter/at_most_once_enum_uma_deferrer.h"
 
 #include "base/test/metrics/histogram_tester.h"

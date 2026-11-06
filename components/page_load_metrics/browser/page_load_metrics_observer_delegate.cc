@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageLoadMetricsObserverDelegate implementation
+// summary: Implements back-forward cache restore records and prerendering state checks for the page load metrics observer delegate.
+// ---
+
 #include "components/page_load_metrics/browser/page_load_metrics_observer_delegate.h"
 
 namespace page_load_metrics {

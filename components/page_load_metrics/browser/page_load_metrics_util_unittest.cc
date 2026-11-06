@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page load metrics utility unit tests
+// summary: Unit tests for page load metrics utilities covering query component matching and cumulative layout shift score histogram recording.
+// ---
+
 #include "components/page_load_metrics/browser/page_load_metrics_util.h"
 
 #include <optional>

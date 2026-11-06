@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zstd page load metrics observer class declaration
+// summary: Declares the ZstdPageLoadMetricsObserver class and the histogram name constants used for Zstd page load metrics.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_BROWSER_OBSERVERS_ZSTD_PAGE_LOAD_METRICS_OBSERVER_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_BROWSER_OBSERVERS_ZSTD_PAGE_LOAD_METRICS_OBSERVER_H_
 

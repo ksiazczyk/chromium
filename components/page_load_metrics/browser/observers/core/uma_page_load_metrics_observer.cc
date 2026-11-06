@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UMA page load metrics observer implementation
+// summary: Records UMA histograms for page load timings, paint events, input latency, load types and related navigation metrics.
+// ---
+
 #include "components/page_load_metrics/browser/observers/core/uma_page_load_metrics_observer.h"
 
 #include <stddef.h>

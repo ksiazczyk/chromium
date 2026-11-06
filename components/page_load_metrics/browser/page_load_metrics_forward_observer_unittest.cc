@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PageLoadMetricsForwardObserver unit tests
+// summary: Unit tests that verify a metrics observer registered via the forward observer mechanism starts and receives events as expected.
+// ---
+
 #include "components/page_load_metrics/browser/page_load_metrics_forward_observer.h"
 
 #include "base/memory/raw_ptr.h"

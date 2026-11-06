@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UMA file and data page load metrics observer implementation
+// summary: Implements paint timing histograms for file and data scheme navigations, including background page loads.
+// ---
+
 #include "components/page_load_metrics/browser/observers/uma_file_and_data_page_load_metrics_observer.h"
 
 #include "components/page_load_metrics/browser/page_load_metrics_util.h"

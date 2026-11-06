@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationHandleUserData header
+// summary: Declares NavigationHandleUserData, which flags whether a navigation was served by legacy DSEv1 search prefetch so preload serving metrics can be recorded accurately.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_BROWSER_NAVIGATION_HANDLE_USER_DATA_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_BROWSER_NAVIGATION_HANDLE_USER_DATA_H_
 

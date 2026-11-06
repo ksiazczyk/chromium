@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtMostOnceEnumUmaDeferrer class header
+// summary: Declares a template helper that defers UMA enum histogram recording for prerendered pages, recording each enum value at most once via a bitset.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_BROWSER_OBSERVERS_USE_COUNTER_AT_MOST_ONCE_ENUM_UMA_DEFERRER_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_BROWSER_OBSERVERS_USE_COUNTER_AT_MOST_ONCE_ENUM_UMA_DEFERRER_H_
 

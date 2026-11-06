@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Google page load metrics browser folder
+summary: Lists the allowed include paths for code in the Google page load metrics browser directory.

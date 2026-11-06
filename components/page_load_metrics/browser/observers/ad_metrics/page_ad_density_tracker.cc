@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageAdDensityTracker implementation
+// summary: Implements page and viewport ad density calculation from main frame and subframe rectangles, including segment-based overlap counting.
+// ---
+
 #include "components/page_load_metrics/browser/observers/ad_metrics/page_ad_density_tracker.h"
 
 #include <optional>

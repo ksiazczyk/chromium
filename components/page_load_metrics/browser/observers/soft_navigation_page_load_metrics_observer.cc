@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Soft navigation page load metrics observer implementation
+// summary: Implements a stateful observer recording LCP, CLS, and INP metrics for soft navigations, including prerender and back/forward cache cases.
+// ---
+
 #include "components/page_load_metrics/browser/observers/soft_navigation_page_load_metrics_observer.h"
 
 #include "base/metrics/histogram_macros.h"

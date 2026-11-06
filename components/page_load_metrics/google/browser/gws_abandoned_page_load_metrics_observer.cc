@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GWS abandoned page load metrics observer implementation
+// summary: Implements UMA and UKM logging for Google Search navigations that may be abandoned, with custom user timing milestones and SRP checks.
+// ---
+
 #include "components/page_load_metrics/google/browser/gws_abandoned_page_load_metrics_observer.h"
 
 #include <string>

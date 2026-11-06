@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageLoadMetricsEmbedderInterface header
+// summary: Declares PageLoadMetricsEmbedderInterface, the functional interface embedders implement to register observers and report URL, scheme, WebUI, extension, and prefetch characteristics.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_BROWSER_PAGE_LOAD_METRICS_EMBEDDER_INTERFACE_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_BROWSER_PAGE_LOAD_METRICS_EMBEDDER_INTERFACE_H_
 

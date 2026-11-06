@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for page load metrics browser
+summary: Grants the directory access to allowed include paths such as content, components, services, net, and blink public headers.

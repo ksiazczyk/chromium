@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PageLoadTracker unit tests
+// summary: Unit tests for the page load tracker covering observer lifecycle events such as start, commit, prerendering, activation, and subframe navigation handling.
+// ---
+
 #include "components/page_load_metrics/browser/page_load_tracker.h"
 
 #include "base/containers/flat_map.h"

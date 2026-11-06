@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for page load metrics renderer
+summary: Restricts includes in this directory to approved Chromium dependencies, allowing gtest only in test files.

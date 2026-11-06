@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakePageTimingSender header
+// summary: Declares a test double for PageTimingSender that compares timings sent via SendTiming against expected values.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_RENDERER_FAKE_PAGE_TIMING_SENDER_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_RENDERER_FAKE_PAGE_TIMING_SENDER_H_
 

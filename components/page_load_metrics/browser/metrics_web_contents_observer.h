@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricsWebContentsObserver class header
+// summary: Declares MetricsWebContentsObserver, a WebContentsObserver that tracks page loads and loading metrics from IPC messages sent by MetricsRenderFrameObserver, with per-WebContents user data and Mojo binding.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_BROWSER_METRICS_WEB_CONTENTS_OBSERVER_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_BROWSER_METRICS_WEB_CONTENTS_OBSERVER_H_
 

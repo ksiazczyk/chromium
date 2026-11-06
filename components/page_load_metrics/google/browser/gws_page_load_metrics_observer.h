@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GWS page load metrics observer declarations
+// summary: Declares the Google Search page load metrics observer and the histogram name constants it records for navigation, connect and load timing.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_GOOGLE_BROWSER_GWS_PAGE_LOAD_METRICS_OBSERVER_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_GOOGLE_BROWSER_GWS_PAGE_LOAD_METRICS_OBSERVER_H_
 

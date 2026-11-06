@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ClickInputTracker unit tests
+// summary: Unit tests verifying click burst counting for gesture taps and mouse events, including histogram and UKM recording in ClickInputTracker.
+// ---
+
 #include "components/page_load_metrics/browser/observers/click_input_tracker.h"
 
 #include "base/task/single_thread_task_runner.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo traits for subresource load metrics
+// summary: Implements Mojo StructTraits Read functions that deserialize subresource load and service worker subresource load metrics into Blink structures.
+// ---
+
 #include "components/page_load_metrics/common/page_load_metrics_mojom_traits.h"
 
 #include "mojo/public/cpp/base/time_mojom_traits.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageLoadMetricsForwardObserver class declaration
+// summary: Declares PageLoadMetricsForwardObserver, a wrapper that forwards metrics callbacks from a child page to the parent observer's tracker.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_BROWSER_PAGE_LOAD_METRICS_FORWARD_OBSERVER_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_BROWSER_PAGE_LOAD_METRICS_FORWARD_OBSERVER_H_
 

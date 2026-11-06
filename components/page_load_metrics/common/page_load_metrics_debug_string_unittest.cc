@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for page load metrics debug strings
+// summary: Verifies that DebugString produces the expected formatted output for soft navigation metrics and full page load timing structs.
+// ---
+
 #include "components/page_load_metrics/common/page_load_metrics_debug_string.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

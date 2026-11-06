@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame data utility implementations
+// summary: Implements resource load aggregation by mime type and peak windowed CPU percent tracking used by the ad metrics frame data classes.
+// ---
+
 
 #include "components/page_load_metrics/browser/observers/ad_metrics/frame_data_utils.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageLoadMetricsEmbedderBase implementation
+// summary: Implements PageLoadMetricsEmbedderBase, registering the common page load metrics observers for regular web page loads and providing default embedder behaviors such as timer creation.
+// ---
+
 #include "components/page_load_metrics/browser/page_load_metrics_embedder_base.h"
 
 #include "base/feature_list.h"

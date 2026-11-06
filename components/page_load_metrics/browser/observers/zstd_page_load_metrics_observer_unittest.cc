@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Zstd page load metrics observer
+// summary: Unit tests verifying that the Zstd observer logs parse start, first contentful paint and largest contentful paint histograms for Zstd URLs and skips non-Zstd ones.
+// ---
+
 #include "components/page_load_metrics/browser/observers/zstd_page_load_metrics_observer.h"
 
 #include <vector>

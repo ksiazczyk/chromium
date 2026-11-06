@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for page load metrics renderer
+summary: Defines GN source sets for the renderer code and its unit tests, listing sources and Chromium dependencies.

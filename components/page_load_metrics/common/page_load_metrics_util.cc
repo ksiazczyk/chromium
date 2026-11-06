@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page load metrics utility implementations
+// summary: Implements OptionalMin for optional time deltas and the buffer timer delay used to throttle metrics updates from the renderer and browser processes.
+// ---
+
 #include "components/page_load_metrics/common/page_load_metrics_util.h"
 
 #include <algorithm>

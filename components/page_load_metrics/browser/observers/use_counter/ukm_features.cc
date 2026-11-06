@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UKM UseCounter allowed feature list
+// summary: Defines the opt-in list of WebFeature values measured by the UKM-based UseCounter, limited to rare features that satisfy UKM privacy requirements.
+// ---
+
 #include "base/no_destructor.h"
 #include "components/page_load_metrics/browser/observers/use_counter_page_load_metrics_observer.h"
 

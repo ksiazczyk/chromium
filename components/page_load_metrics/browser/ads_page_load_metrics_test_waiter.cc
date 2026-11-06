@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ads page load metrics test waiter implementation
+// summary: Implements a test waiter that counts completed ad resources and reports when ad load expectations are satisfied.
+// ---
+
 #include "components/page_load_metrics/browser/ads_page_load_metrics_test_waiter.h"
 
 namespace page_load_metrics {

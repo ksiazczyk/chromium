@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy Sandbox Ads page load metrics observer header
+// summary: Declares the observer class that records page load metrics for pages using Privacy Sandbox ads APIs such as Fenced Frames, Topics, and Shared Storage.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_BROWSER_OBSERVERS_PRIVACY_SANDBOX_ADS_PAGE_LOAD_METRICS_OBSERVER_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_BROWSER_OBSERVERS_PRIVACY_SANDBOX_ADS_PAGE_LOAD_METRICS_OBSERVER_H_
 

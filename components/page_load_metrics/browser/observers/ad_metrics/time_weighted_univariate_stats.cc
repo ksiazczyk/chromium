@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TimeWeightedUnivariateStats implementation
+// summary: Implements time-weighted accumulation of samples to compute mean, variance, skewness, kurtosis, and maximum value.
+// ---
+
 #include "components/page_load_metrics/browser/observers/ad_metrics/time_weighted_univariate_stats.h"
 
 #include <array>

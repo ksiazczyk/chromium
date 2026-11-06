@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: MetricsLifecycleObserver class declaration
+// summary: Declares an observer for lifecycle events of MetricsWebContentsObserver, such as tracker creation, commit, and activation, mainly used in testing.
+// ---
+
 #ifndef COMPONENTS_PAGE_LOAD_METRICS_BROWSER_METRICS_LIFECYCLE_OBSERVER_H_
 #define COMPONENTS_PAGE_LOAD_METRICS_BROWSER_METRICS_LIFECYCLE_OBSERVER_H_
 

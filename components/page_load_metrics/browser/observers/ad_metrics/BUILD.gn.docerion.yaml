@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the ad_metrics component
+summary: Defines GN source sets for the ad metrics observer, its test support helpers, and unit tests, together with their component dependencies.

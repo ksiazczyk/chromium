@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker page load metrics observer implementation
+// summary: Implements an observer recording parse, paint, and document timing histograms and UKM for service worker-controlled page loads.
+// ---
+
 #include "components/page_load_metrics/browser/observers/service_worker_page_load_metrics_observer.h"
 
 #include "base/strings/strcat.h"

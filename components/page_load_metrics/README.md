@@ -1,3 +1,9 @@
+---
+type: readme
+title: Page load metrics component overview
+summary: Explains that this subsystem captures UMA page loading metrics, is shared by Chrome and WebView but not iOS, and outlines the browser, common, and renderer directory structure.
+---
+
 The page load metrics subsystem captures and records UMA metrics related to
 page loading. This includes page timing metrics, such as time to first
 paint, as well as page interaction metrics, such as number of page loads

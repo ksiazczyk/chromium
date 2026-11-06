@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InteractionToNextPaintCalculator unit tests
+// summary: Unit tests verifying interaction counts, worst latency, and approximate high percentile results of the INP calculator as interactions are added.
+// ---
+
 #include "components/page_load_metrics/browser/interaction_to_next_paint_calculator.h"
 
 #include "base/test/scoped_feature_list.h"
