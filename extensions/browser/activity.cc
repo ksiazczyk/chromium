@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Activity type to string mapping implementation
+// summary: Implements Activity::ToString, mapping extension activity types such as API calls, events and network requests to string names.
+// ---
+
 #include "extensions/browser/activity.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRX file info header
+// summary: Declares the CRXFileInfo struct holding path, verifier format, extension ID, expected hash, and version for cached CRX files.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_CRX_FILE_INFO_H_
 #define EXTENSIONS_BROWSER_CRX_FILE_INFO_H_
 

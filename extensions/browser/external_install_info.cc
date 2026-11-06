@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External extension install info
+// summary: Defines ExternalInstallInfo and its file- and update-URL-based variants carrying extension ID, version, path, URLs, and install flags for externally installed extensions.
+// ---
+
 #include "extensions/browser/external_install_info.h"
 #include "extensions/common/extension_id.h"
 

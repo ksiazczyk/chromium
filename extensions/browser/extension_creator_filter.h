@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension creator filter for packaging files
+// summary: Declares ExtensionCreatorFilter, which decides which files in an extension directory should be included when the extension is packaged.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_CREATOR_FILTER_H_
 #define EXTENSIONS_BROWSER_EXTENSION_CREATOR_FILTER_H_
 

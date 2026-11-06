@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension function implementation
+// summary: Implements the base ExtensionFunction class, including validation handling, memory dump tracking, and crash key integration for extension API calls.
+// ---
+
 #include "extensions/browser/extension_function.h"
 
 #include <memory>

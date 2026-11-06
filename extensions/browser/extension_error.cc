@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension error implementation
+// summary: Implements the ExtensionError base class plus ManifestError and RuntimeError subclasses used to represent and compare extension errors.
+// ---
+
 #include "extensions/browser/extension_error.h"
 
 #include "base/strings/string_number_conversions.h"

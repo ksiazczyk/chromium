@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionPrefsHelperFactory implementation
+// summary: Implements the browser-context keyed service factory that builds ExtensionPrefsHelper instances and declares dependencies on ExtensionPrefs and the value map.
+// ---
+
 #include "extensions/browser/extension_prefs_helper_factory.h"
 
 #include "components/keyed_service/content/browser_context_dependency_manager.h"

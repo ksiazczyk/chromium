@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension Mojo binder registry implementation
+// summary: Implements the registry that registers extension-scoped Mojo binder providers and populates binders for extension frames and service workers.
+// ---
+
 #include "extensions/browser/extension_mojo_binder_registry.h"
 
 #include <string_view>

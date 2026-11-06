@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension host delegate interface
+// summary: Declares the ExtensionHostDelegate interface letting embedders handle tab creation, media access requests, and Picture-in-Picture for extension hosts.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_HOST_DELEGATE_H_
 #define EXTENSIONS_BROWSER_EXTENSION_HOST_DELEGATE_H_
 

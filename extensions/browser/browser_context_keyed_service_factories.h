@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser context keyed service factories declaration
+// summary: Declares EnsureBrowserContextKeyedServiceFactoriesBuilt(), which guarantees that BrowserContextKeyedServiceFactory instances from the core extensions layer are created.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_BROWSER_CONTEXT_KEYED_SERVICE_FACTORIES_H_
 #define EXTENSIONS_BROWSER_BROWSER_CONTEXT_KEYED_SERVICE_FACTORIES_H_
 

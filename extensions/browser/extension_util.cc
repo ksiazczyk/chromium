@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension utility functions implementation
+// summary: Implements browser-side extension helpers for incognito access, file access, storage partitions, idle checks, and mapping extension URLs to local paths.
+// ---
+
 #include "extensions/browser/extension_util.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeferredStartRenderHost interface
+// summary: Defines an interface for browser components whose renderer startup can be deferred to throttle resource usage, used with ExtensionHostQueue.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_DEFERRED_START_RENDER_HOST_H_
 #define EXTENSIONS_BROWSER_DEFERRED_START_RENDER_HOST_H_
 

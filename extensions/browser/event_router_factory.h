@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventRouter factory declarations
+// summary: Declares the EventRouterFactory keyed service factory that supplies EventRouter instances for browser contexts.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EVENT_ROUTER_FACTORY_H_
 #define EXTENSIONS_BROWSER_EVENT_ROUTER_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test utilities for extension scripts
+// summary: Implements helpers to execute user scripts and background-page scripts for extensions in browser tests and to stop extension service workers.
+// ---
+
 #include "extensions/browser/browsertest_util.h"
 
 #include "base/test/bind.h"

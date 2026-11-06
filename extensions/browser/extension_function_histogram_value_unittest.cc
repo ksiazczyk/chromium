@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension function histogram value unit tests
+// summary: Tests that the C++ histogram value enum stays in sync with the ExtensionFunctions enums XML definitions.
+// ---
+
 #include "extensions/browser/extension_function_histogram_value.h"
 
 #include <map>

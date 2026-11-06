@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Icon utilities header
+// summary: Declares icon parse result codes and helpers to parse icons from canvas dictionaries and build placeholder icon URLs.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_ICON_UTIL_H_
 #define EXTENSIONS_BROWSER_ICON_UTIL_H_
 

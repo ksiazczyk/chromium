@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension file task runner declarations
+// summary: Declares GetExtensionFileTaskRunner and GetOneShotFileTaskRunner for routing extension file tasks to appropriate sequenced task runners.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_FILE_TASK_RUNNER_H_
 #define EXTENSIONS_BROWSER_EXTENSION_FILE_TASK_RUNNER_H_
 

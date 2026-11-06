@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Blocklist state fetcher unit tests
+// summary: Unit tests checking that blocklist state requests return correct verdicts for single and multiple extensions.
+// ---
+
 #include "extensions/browser/blocklist_state_fetcher.h"
 
 #include <array>

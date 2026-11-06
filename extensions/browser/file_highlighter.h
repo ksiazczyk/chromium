@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileHighlighter, ManifestHighlighter and SourceHighlighter declarations
+// summary: Declares classes that split file contents into before, feature and after portions to highlight manifest keys or source lines.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_FILE_HIGHLIGHTER_H_
 #define EXTENSIONS_BROWSER_FILE_HIGHLIGHTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionPrefValueMap class declaration
+// summary: Declares ExtensionPrefValueMap, a KeyedService data container shared by ExtensionPrefStores, documenting precedence rules for extension-set preference values.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_PREF_VALUE_MAP_H_
 #define EXTENSIONS_BROWSER_EXTENSION_PREF_VALUE_MAP_H_
 

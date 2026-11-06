@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background script executor implementation
+// summary: Implements execution of scripts in an extension's background page or service worker and captures results for browser tests.
+// ---
+
 #include "extensions/browser/background_script_executor.h"
 
 #include "base/functional/callback.h"

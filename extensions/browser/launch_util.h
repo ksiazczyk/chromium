@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension launch type utility declarations
+// summary: Declares functions to get, set, and evaluate an extension's launch type preference, including whether the extension launches in a window.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_LAUNCH_UTIL_H_
 #define EXTENSIONS_BROWSER_LAUNCH_UTIL_H_
 

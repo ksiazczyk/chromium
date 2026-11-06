@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External extension install info structures
+// summary: Defines structs holding information about external extension installs, for installs from a CRX file or from an update URL.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTERNAL_INSTALL_INFO_H_
 #define EXTENSIONS_BROWSER_EXTERNAL_INSTALL_INFO_H_
 

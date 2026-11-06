@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension host observer interface
+// summary: Declares an observer interface with callbacks for ExtensionHost destruction, first load, background event dispatch and ack, and network request activity.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_HOST_OBSERVER_H_
 #define EXTENSIONS_BROWSER_EXTENSION_HOST_OBSERVER_H_
 

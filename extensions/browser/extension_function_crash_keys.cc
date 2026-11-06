@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension function crash key tracking
+// summary: Tracks in-flight extension function calls per extension ID and records the most recent callers in crash keys to aid crash debugging.
+// ---
+
 #include "extensions/browser/extension_function_crash_keys.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension event router implementation
+// summary: Implements the EventRouter keyed service that registers listeners and dispatches extension events to processes, service workers and lazy contexts.
+// ---
+
 #include "extensions/browser/event_router.h"
 
 #include <stddef.h>

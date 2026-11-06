@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for extensions browser
+summary: Specifies allowed include dependencies for the extensions/browser directory, with per-file exceptions for tests and specific sources.

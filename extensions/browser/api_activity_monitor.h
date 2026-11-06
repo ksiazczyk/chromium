@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: API activity monitor interface
+// summary: Declares global monitor hooks and notification functions for extension API events, API function calls, and web request API usage.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_ACTIVITY_MONITOR_H_
 #define EXTENSIONS_BROWSER_API_ACTIVITY_MONITOR_H_
 

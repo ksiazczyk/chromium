@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension host test helper
+// summary: Declares a test helper to wait for ExtensionHost events, optionally restricted by extension, browser context, view type, or a specific host.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_HOST_TEST_HELPER_H_
 #define EXTENSIONS_BROWSER_EXTENSION_HOST_TEST_HELPER_H_
 

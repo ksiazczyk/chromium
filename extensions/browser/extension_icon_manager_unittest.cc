@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension icon manager unit tests
+// summary: Unit tests for ExtensionIconManager covering icon loading, device scale factor handling and monochrome icon behavior.
+// ---
+
 #include "extensions/browser/extension_icon_manager.h"
 
 #include <memory>

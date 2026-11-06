@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionActionIconFactory implementation
+// summary: Implements the factory that supplies extension action icons for the UI, falling back to placeholder icons when packed extensions' default icons are insufficiently visible.
+// ---
+
 #include "extensions/browser/extension_action_icon_factory.h"
 
 #include "extensions/browser/extension_action.h"

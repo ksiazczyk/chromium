@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the extension event listener map
+// summary: Unit tests covering EventListenerMap behavior such as listener addition, removal, filtering and dispatching events to listeners.
+// ---
+
 #include "extensions/browser/event_listener_map.h"
 
 #include <utility>

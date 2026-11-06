@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExtensionAction unit tests
+// summary: Unit tests covering per-tab title, visibility, icon, and badge text behavior of ExtensionAction, including default values and clearing values for tabs.
+// ---
+
 #include "extensions/browser/extension_action.h"
 
 #include "extensions/common/api/extension_action/action_info.h"

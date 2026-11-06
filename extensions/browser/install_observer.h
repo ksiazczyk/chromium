@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstallObserver interface for extension install events
+// summary: Defines an observer interface that receives extension installation events, such as install begin, download progress, and CRX install completion, scoped to a BrowserContext.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_INSTALL_OBSERVER_H_
 #define EXTENSIONS_BROWSER_INSTALL_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension WebKit preferences implementation
+// summary: Applies blink web preferences for extensions, enabling trusted settings, Chrome App restrictions, PDF viewer font handling, and privileged WebGL features.
+// ---
+
 #include "extensions/browser/extension_webkit_preferences.h"
 
 #include "base/command_line.h"

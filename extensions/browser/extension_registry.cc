@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension registry implementation
+// summary: Implements ExtensionRegistry, which tracks enabled, disabled, terminated, blocklisted and blocked extension sets and dispatches observer notifications.
+// ---
+
 #include "extensions/browser/extension_registry.h"
 
 #include "base/check.h"

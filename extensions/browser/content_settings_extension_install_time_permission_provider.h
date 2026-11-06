@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension install-time content settings provider header
+// summary: Declares ExtensionInstallTimePermissionProvider, which exposes extension manifest permissions as content settings rules.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_CONTENT_SETTINGS_EXTENSION_INSTALL_TIME_PERMISSION_PROVIDER_H_
 #define EXTENSIONS_BROWSER_CONTENT_SETTINGS_EXTENSION_INSTALL_TIME_PERMISSION_PROVIDER_H_
 

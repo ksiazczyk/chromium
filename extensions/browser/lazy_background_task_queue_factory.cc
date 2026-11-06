@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lazy background task queue service factory
+// summary: Implements the BrowserContextKeyedServiceFactory that builds LazyBackgroundTaskQueue instances per browser context, redirecting incognito contexts to the original.
+// ---
+
 #include "extensions/browser/lazy_background_task_queue_factory.h"
 
 #include "components/keyed_service/content/browser_context_dependency_manager.h"

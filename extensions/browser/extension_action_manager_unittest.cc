@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExtensionActionManager unit tests
+// summary: Unit tests verifying that missing action icon and title defaults are populated from the extension manifest and that provided defaults are not overridden.
+// ---
+
 #include "extensions/browser/extension_action_manager.h"
 
 #include <memory>

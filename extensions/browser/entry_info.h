@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EntryInfo struct for file and directory details
+// summary: Defines the EntryInfo struct holding a file or directory path, its MIME type, and whether the entry is a directory.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_ENTRY_INFO_H_
 #define EXTENSIONS_BROWSER_ENTRY_INFO_H_
 

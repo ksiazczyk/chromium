@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageSanitizer implementation
+// summary: Implements ImageSanitizer, which reads, decodes, and re-encodes extension images in a sandboxed decoder process and reports success or a specific error status.
+// ---
+
 #include "extensions/browser/image_sanitizer.h"
 
 #include <optional>

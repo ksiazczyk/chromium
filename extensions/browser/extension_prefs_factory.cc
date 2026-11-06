@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionPrefsFactory implementation
+// summary: Implements the browser-context keyed service factory that creates ExtensionPrefs instances wired to the profile PrefService and ExtensionPrefValueMap.
+// ---
+
 #include "extensions/browser/extension_prefs_factory.h"
 
 #include <utility>

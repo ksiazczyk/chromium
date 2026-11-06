@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ErrorMap unit tests
+// summary: Unit tests covering adding and removing extension errors in ErrorMap, including filtering by incognito status, extension ID, error type, and error IDs, plus the per-extension error cap.
+// ---
+
 #include "extensions/browser/error_map.h"
 
 #include <stddef.h>

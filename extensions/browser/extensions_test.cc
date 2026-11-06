@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExtensionsTest unit test base implementation
+// summary: Implements the ExtensionsTest fixture that sets up a test browser context, incognito context, extension prefs, and a TestExtensionsBrowserClient for extensions_unittests.
+// ---
+
 #include "extensions/browser/extensions_test.h"
 
 #include <memory>

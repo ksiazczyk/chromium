@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileReader implementation
+// summary: Reads extension resource files on a background sequence with a total size limit and posts results or an error back to the originating thread.
+// ---
+
 #include "extensions/browser/file_reader.h"
 
 #include <algorithm>

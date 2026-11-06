@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension API test utilities header
+// summary: Declares test helpers for running extension API functions, including a response-waiting helper and typed value extraction functions.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_TEST_UTILS_H_
 #define EXTENSIONS_BROWSER_API_TEST_UTILS_H_
 

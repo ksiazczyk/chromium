@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension protocols header
+// summary: Declares functions to create URL loader factories for extension navigations, worker scripts, service worker scripts and subresource requests, plus a test handler hook.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_PROTOCOLS_H_
 #define EXTENSIONS_BROWSER_EXTENSION_PROTOCOLS_H_
 

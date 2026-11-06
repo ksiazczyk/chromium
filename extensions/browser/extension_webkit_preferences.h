@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension WebKit preferences header
+// summary: Declares SetPreferences, which adjusts blink web preferences for a given extension.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_WEBKIT_PREFERENCES_H_
 #define EXTENSIONS_BROWSER_EXTENSION_WEBKIT_PREFERENCES_H_
 

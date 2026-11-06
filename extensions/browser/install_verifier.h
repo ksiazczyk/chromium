@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstallVerifier class declaration
+// summary: Declares the InstallVerifier keyed service that verifies extensions against webstore signatures and enterprise policy allowlists and can disable unverified ones.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_INSTALL_VERIFIER_H_
 #define EXTENSIONS_BROWSER_INSTALL_VERIFIER_H_
 

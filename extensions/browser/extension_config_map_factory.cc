@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionConfigMap keyed service factory implementation
+// summary: Implements the BrowserContextKeyedServiceFactory that creates and provides per-browser-context ExtensionConfigMap instances.
+// ---
+
 #include "extensions/browser/extension_config_map_factory.h"
 
 #include "base/no_destructor.h"

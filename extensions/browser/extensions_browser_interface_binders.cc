@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension frame Mojo interface binders
+// summary: Populates the Mojo binder map for extension frames, wiring the KeepAlive interface to KeepAliveImpl for a given render frame and extension.
+// ---
+
 #include "extensions/browser/extensions_browser_interface_binders.h"
 
 #include <string>

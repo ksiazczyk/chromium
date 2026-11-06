@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension function crash keys unit tests
+// summary: Unit tests verifying crash key bookkeeping for extension function calls across single, multiple, and multi-extension scenarios.
+// ---
+
 #include "extensions/browser/extension_function_crash_keys.h"
 #include "components/crash/core/common/crash_buildflags.h"
 #include "components/crash/core/common/crash_key.h"

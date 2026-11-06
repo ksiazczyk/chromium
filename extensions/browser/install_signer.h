@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install signer declarations for webstore signature verification
+// summary: Declares the InstallSigner class and InstallSignature struct used to obtain and verify web store signatures for sets of extension IDs.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_INSTALL_SIGNER_H_
 #define EXTENSIONS_BROWSER_INSTALL_SIGNER_H_
 

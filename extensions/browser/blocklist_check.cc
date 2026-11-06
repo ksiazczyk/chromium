@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlocklistCheck implementation
+// summary: Implements a PreloadCheck that asynchronously queries the blocklist and reports malware or unknown blocklist errors.
+// ---
+
 #include "extensions/browser/blocklist_check.h"
 
 #include "base/functional/bind.h"

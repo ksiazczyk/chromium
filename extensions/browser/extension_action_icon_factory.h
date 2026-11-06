@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionActionIconFactory class header
+// summary: Declares the factory that provides extension action icons for the UI and notifies an observer whenever the underlying icon image changes.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_ACTION_ICON_FACTORY_H_
 #define EXTENSIONS_BROWSER_EXTENSION_ACTION_ICON_FACTORY_H_
 

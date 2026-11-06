@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension zoom request client class declaration
+// summary: Declares ExtensionZoomRequestClient, a zoom::ZoomRequestClient holding a reference to the extension behind a zoom request so observers can distinguish it from direct user input.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_ZOOM_REQUEST_CLIENT_H_
 #define EXTENSIONS_BROWSER_EXTENSION_ZOOM_REQUEST_CLIENT_H_
 

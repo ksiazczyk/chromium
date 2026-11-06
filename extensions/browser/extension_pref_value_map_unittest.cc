@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExtensionPrefValueMap unit tests
+// summary: Unit tests verifying ExtensionPrefValueMap behavior, including preference overrides, incognito scoping and last-installed extension precedence.
+// ---
+
 #include "extensions/browser/extension_pref_value_map.h"
 
 #include <stdint.h>

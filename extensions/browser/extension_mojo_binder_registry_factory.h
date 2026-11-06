@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension Mojo binder registry factory header
+// summary: Declares the keyed service factory exposing Get and GetOrCreate accessors for the ExtensionMojoBinderRegistry associated with a browser context.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_MOJO_BINDER_REGISTRY_FACTORY_H_
 #define EXTENSIONS_BROWSER_EXTENSION_MOJO_BINDER_REGISTRY_FACTORY_H_
 

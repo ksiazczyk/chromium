@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionPrefStore class declaration
+// summary: Declares ExtensionPrefStore, a ValueMapPrefStore subclass that observes ExtensionPrefValueMap and holds the effective preferences set by extensions.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_PREF_STORE_H_
 #define EXTENSIONS_BROWSER_EXTENSION_PREF_STORE_H_
 

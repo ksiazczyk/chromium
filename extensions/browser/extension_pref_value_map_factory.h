@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionPrefValueMapFactory class declaration
+// summary: Declares the ExtensionPrefValueMapFactory keyed service factory with accessors for per-browser-context ExtensionPrefValueMap instances.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_PREF_VALUE_MAP_FACTORY_H_
 #define EXTENSIONS_BROWSER_EXTENSION_PREF_VALUE_MAP_FACTORY_H_
 

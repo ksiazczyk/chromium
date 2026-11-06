@@ -1,3 +1,9 @@
+---
+type: reference
+title: Extension layer and service worker interactions
+summary: Design documentation of how the extensions layer registers, unregisters, starts and keeps alive Manifest V3 service worker backgrounds, including ES module imports and error handling.
+---
+
 # Extension Layer/Service Worker Interactions
 An extension background is the context that an extension runs on. It allows
 extensions to react to events or messages with specified instructions. Up until

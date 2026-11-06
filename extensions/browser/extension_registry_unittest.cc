@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension registry unit tests
+// summary: Unit tests for ExtensionRegistry covering its enabled, disabled, terminated and blocklisted extension sets plus observer notifications for load, unload, install and uninstall events.
+// ---
+
 #include "extensions/browser/extension_registry.h"
 
 #include <string>

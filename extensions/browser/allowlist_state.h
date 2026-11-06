@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing allowlist state enums
+// summary: Declares enums for Safe Browsing extension allowlist states and user acknowledgement states for allowlist enforcement notifications.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_ALLOWLIST_STATE_H_
 #define EXTENSIONS_BROWSER_ALLOWLIST_STATE_H_
 

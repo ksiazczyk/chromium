@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileHighlighter implementation
+// summary: Implements highlighters that isolate a feature region within manifest or source file contents, handling quotes and comments while scanning.
+// ---
+
 #include "extensions/browser/file_highlighter.h"
 
 #include "base/check_op.h"

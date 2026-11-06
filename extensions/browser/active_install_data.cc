@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActiveInstallData implementation
+// summary: Implements the ActiveInstallData constructor that records the extension ID of an in-progress extension install.
+// ---
+
 #include "extensions/browser/active_install_data.h"
 
 #include "extensions/buildflags/buildflags.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension event router declarations
+// summary: Declares the EventRouter class, its observers and dispatch flows for routing extension events in the browser process.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EVENT_ROUTER_H_
 #define EXTENSIONS_BROWSER_EVENT_ROUTER_H_
 

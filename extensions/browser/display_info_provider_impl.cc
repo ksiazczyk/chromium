@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayInfoProvider singleton accessor
+// summary: Provides the DisplayInfoProvider::Get() accessor that lazily creates the provider through ExtensionsAPIClient and intentionally lets the instance leak.
+// ---
+
 #include "base/values.h"
 #include "extensions/browser/api/extensions_api_client.h"
 #include "extensions/browser/api/system_display/display_info_provider.h"

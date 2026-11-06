@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content hash fetcher interface
+// summary: Declares ContentHashFetcher, an internal helper that performs the network I/O to obtain verified_contents.json contents for extension content verification.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_CONTENT_HASH_FETCHER_H_
 #define EXTENSIONS_BROWSER_CONTENT_HASH_FETCHER_H_
 

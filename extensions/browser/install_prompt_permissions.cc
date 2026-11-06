@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install prompt permissions implementation
+// summary: Implements loading of permission messages from a permission set into displayable lists of permissions and bulleted details for install prompts.
+// ---
+
 #include "extensions/browser/install_prompt_permissions.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EmbedderUserScriptLoader class header
+// summary: Declares EmbedderUserScriptLoader, a UserScriptLoader subclass that caches render info and fetches user script contents for embedders like WebUI and Controlled Frame.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EMBEDDER_USER_SCRIPT_LOADER_H_
 #define EXTENSIONS_BROWSER_EMBEDDER_USER_SCRIPT_LOADER_H_
 

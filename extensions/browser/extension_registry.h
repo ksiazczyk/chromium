@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension registry class declaration
+// summary: Declares ExtensionRegistry, a keyed service holding per-browser-context sets of installed extensions by state, with include flags and observer registration.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_REGISTRY_H_
 #define EXTENSIONS_BROWSER_EXTENSION_REGISTRY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionUserActivationService interface
+// summary: Declares a keyed service that records when an extension is activated by a user gesture and reports whether transient activation is still active.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_USER_ACTIVATION_SERVICE_H_
 #define EXTENSIONS_BROWSER_EXTENSION_USER_ACTIVATION_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Blocklist unit tests
+// summary: Unit tests covering safe browsing blocklist enabling, state retrieval and histogram counts for blocklisted extensions.
+// ---
+
 #include "extensions/browser/blocklist.h"
 
 #include "base/functional/bind.h"

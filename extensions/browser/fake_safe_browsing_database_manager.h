@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeSafeBrowsingDatabaseManager class declaration
+// summary: Declares a fake safe browsing database manager for extension tests with chainable methods to enable checking and manage unsafe extension IDs.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_FAKE_SAFE_BROWSING_DATABASE_MANAGER_H_
 #define EXTENSIONS_BROWSER_FAKE_SAFE_BROWSING_DATABASE_MANAGER_H_
 

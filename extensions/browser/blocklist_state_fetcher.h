@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blocklist state fetcher class declaration
+// summary: Declares the BlocklistStateFetcher class that sends extension ID requests over the network and dispatches blocklist state callbacks.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_BLOCKLIST_STATE_FETCHER_H_
 #define EXTENSIONS_BROWSER_BLOCKLIST_STATE_FETCHER_H_
 

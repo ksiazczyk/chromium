@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionPrefsHelperFactory header
+// summary: Declares the keyed service factory that provides an ExtensionPrefsHelper per browser context.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_PREFS_HELPER_FACTORY_H_
 #define EXTENSIONS_BROWSER_EXTENSION_PREFS_HELPER_FACTORY_H_
 

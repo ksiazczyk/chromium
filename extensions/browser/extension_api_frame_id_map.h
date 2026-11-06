@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionApiFrameIdMap class header
+// summary: Declares the map from renderer frame identifiers to extension API frame data, documenting frame ID semantics such as top frame ID 0 and invalid ID -1.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_API_FRAME_ID_MAP_H_
 #define EXTENSIONS_BROWSER_EXTENSION_API_FRAME_ID_MAP_H_
 

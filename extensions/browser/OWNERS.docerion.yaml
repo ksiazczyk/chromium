@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for extensions browser
+summary: Lists code owners and per-file review requirements for the extensions/browser directory, including security review rules for interface binders.

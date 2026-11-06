@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension user script loader header
+// summary: Declares ExtensionUserScriptLoader, a UserScriptLoader that manages manifest and dynamic content scripts registered through the scripting API.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_USER_SCRIPT_LOADER_H_
 #define EXTENSIONS_BROWSER_EXTENSION_USER_SCRIPT_LOADER_H_
 

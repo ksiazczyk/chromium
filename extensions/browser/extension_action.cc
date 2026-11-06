@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension action state implementation
+// summary: Implements ExtensionAction, managing per-tab and default popup URLs, titles, icons and badge text for browser and page actions.
+// ---
+
 #include "extensions/browser/extension_action.h"
 
 #include <algorithm>

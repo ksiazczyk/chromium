@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for install prompt permissions
+// summary: Unit tests verifying that InstallPromptPermissions splits permission submessages into visible and collapsed detail lines correctly.
+// ---
+
 #include "extensions/browser/install_prompt_permissions.h"
 
 #include <string>

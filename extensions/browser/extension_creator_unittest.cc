@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension creator unit tests
+// summary: Unit tests for ExtensionCreator covering private key reading, dangerous path handling, and extension packaging input validation.
+// ---
+
 #include "extensions/browser/extension_creator.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeSafeBrowsingDatabaseManager implementation
+// summary: Implements a fake safe browsing database manager for extension tests that reports configured unsafe extension IDs via CheckExtensionIDs.
+// ---
+
 #include "extensions/browser/fake_safe_browsing_database_manager.h"
 
 #include <stddef.h>

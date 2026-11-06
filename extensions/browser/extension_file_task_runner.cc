@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension file task runner implementation
+// summary: Implements accessors for sequenced task runners used by extension tasks that read, modify, or delete files, with a singleton runner and one-shot runners.
+// ---
+
 #include "extensions/browser/extension_file_task_runner.h"
 
 #include "base/task/lazy_thread_pool_task_runner.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content hash reader interface
+// summary: Declares ContentHashData and ReadContentHashes, which vend expected hashes for a file to ContentVerifyJob and report failure statuses.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_CONTENT_HASH_READER_H_
 #define EXTENSIONS_BROWSER_CONTENT_HASH_READER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped test dialog auto-confirm declaration
+// summary: Declares ScopedTestDialogAutoConfirm, a scoped helper controlling whether extension dialogs auto-accept, cancel, or show normally in tests.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_DIALOG_AUTO_CONFIRM_H_
 #define EXTENSIONS_BROWSER_EXTENSION_DIALOG_AUTO_CONFIRM_H_
 

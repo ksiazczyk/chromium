@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageLoaderFactory header for per-BrowserContext ImageLoader services
+// summary: Declares a BrowserContextKeyedServiceFactory singleton that owns ImageLoader instances, associates them with BrowserContexts, and cleans them up on context destruction.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_IMAGE_LOADER_FACTORY_H_
 #define EXTENSIONS_BROWSER_IMAGE_LOADER_FACTORY_H_
 

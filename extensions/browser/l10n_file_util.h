@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension localization message bundle utilities
+// summary: Declares helpers in extensions::l10n_file_util for loading extension message bundle substitution maps from extension paths or for non-localized extensions.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_L10N_FILE_UTIL_H_
 #define EXTENSIONS_BROWSER_L10N_FILE_UTIL_H_
 

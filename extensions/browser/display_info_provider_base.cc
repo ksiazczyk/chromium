@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayInfoProviderBase implementation
+// summary: Implements DisplayInfoProviderBase, broadcasting the display-changed extension event to on-the-record and off-the-record profiles so incognito extensions can react to mirroring changes.
+// ---
+
 #include "extensions/browser/display_info_provider_base.h"
 
 #include "base/values.h"

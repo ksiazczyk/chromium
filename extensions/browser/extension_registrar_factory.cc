@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension registrar factory implementation
+// summary: Implements the keyed service factory that creates ExtensionRegistrar instances per browser context, redirecting incognito contexts to their original context.
+// ---
+
 #include "extensions/browser/extension_registrar_factory.h"
 
 #include "base/check.h"

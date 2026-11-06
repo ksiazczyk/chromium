@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content hash tree computation
+// summary: Implements ComputeTreeHashRoot, which builds a SHA256 Merkle tree over leaf block hashes and returns the root hash used for content verification.
+// ---
+
 #include "extensions/browser/content_hash_tree.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test utility declarations for extensions
+// summary: Declares test helpers to run extension scripts synchronously or asynchronously, wait for results, and stop extension service workers.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_BROWSERTEST_UTIL_H_
 #define EXTENSIONS_BROWSER_BROWSERTEST_UTIL_H_
 

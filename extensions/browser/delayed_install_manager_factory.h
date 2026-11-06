@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DelayedInstallManagerFactory header
+// summary: Declares the DelayedInstallManagerFactory, a keyed service factory sharing DelayedInstallManager instances between incognito and original contexts.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_DELAYED_INSTALL_MANAGER_FACTORY_H_
 #define EXTENSIONS_BROWSER_DELAYED_INSTALL_MANAGER_FACTORY_H_
 

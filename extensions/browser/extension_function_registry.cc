@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension function registry implementation
+// summary: Implements the singleton registry that creates ExtensionFunction instances by name and supports overriding factories for testing.
+// ---
+
 #include "extensions/browser/extension_function_registry.h"
 
 #include "base/no_destructor.h"

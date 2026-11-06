@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Computed hashes implementation
+// summary: Implements storage, serialization and parsing of SHA256 block hashes computed over files inside an extension, including reading and writing computed_hashes.json.
+// ---
+
 #include "extensions/browser/computed_hashes.h"
 
 #include <memory>

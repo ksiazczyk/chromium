@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionRegistrar implementation
+// summary: Implements the lifecycle logic for adding, enabling, disabling, reloading and uninstalling extensions in a browser context, coordinating registry, prefs and process management.
+// ---
+
 #include "extensions/browser/extension_registrar.h"
 
 #include "base/check_is_test.h"

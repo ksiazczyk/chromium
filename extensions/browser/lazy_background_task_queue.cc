@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lazy background page task queue implementation
+// summary: Implements a queue that defers tasks until an extension's lazy background page loads, creating the background host when the first task is enqueued.
+// ---
+
 #include "extensions/browser/lazy_background_task_queue.h"
 
 #include "base/check.h"

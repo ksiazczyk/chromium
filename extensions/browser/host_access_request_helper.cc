@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostAccessRequestsHelper implementation
+// summary: Implements a per-tab helper that tracks extension site access requests with throttling and removal once access is granted, for use by PermissionsManager.
+// ---
+
 #include "extensions/browser/host_access_request_helper.h"
 
 #include <sys/types.h>

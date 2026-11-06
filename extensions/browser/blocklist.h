@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blocklist class declaration
+// summary: Declares the Blocklist KeyedService for asynchronously checking extension blocklist states with observer support and test hooks.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_BLOCKLIST_H_
 #define EXTENSIONS_BROWSER_BLOCKLIST_H_
 

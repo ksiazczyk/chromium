@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension function constant declarations
+// summary: Declares the kCouldNotFindSenderWebContents error message constant shared by extension function code.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_FUNCTION_CONSTANTS_H_
 #define EXTENSIONS_BROWSER_EXTENSION_FUNCTION_CONSTANTS_H_
 

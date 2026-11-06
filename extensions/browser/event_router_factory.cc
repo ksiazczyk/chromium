@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventRouter keyed service factory
+// summary: Defines a BrowserContextKeyedServiceFactory that builds and provides the EventRouter per browser context, redirecting in incognito.
+// ---
+
 #include "extensions/browser/event_router_factory.h"
 
 #include "components/keyed_service/content/browser_context_dependency_manager.h"

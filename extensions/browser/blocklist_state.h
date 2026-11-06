@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blocklist state enums
+// summary: Defines the BlocklistState and BitMapBlocklistState enums whose values match the safe browsing ClientCRXListInfoResponse proto.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_BLOCKLIST_STATE_H_
 #define EXTENSIONS_BROWSER_BLOCKLIST_STATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FileReader unit tests
+// summary: Unit tests for the extensions FileReader, covering reading single and multiple extension resource files, missing files and size limits.
+// ---
+
 #include "extensions/browser/file_reader.h"
 
 #include <limits>

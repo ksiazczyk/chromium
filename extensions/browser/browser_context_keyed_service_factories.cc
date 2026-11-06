@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser context keyed service factory registration
+// summary: Ensures that core and API browser context keyed service factories are built for the extensions system.
+// ---
+
 #include "extensions/browser/browser_context_keyed_service_factories.h"
 
 #include "extensions/browser/core_browser_context_keyed_service_factories.h"

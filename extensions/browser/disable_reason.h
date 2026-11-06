@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisableReason enum of extension disable reasons
+// summary: Defines the DisableReason bitmask enum listing why a Chrome extension may be disabled, with guidance for histograms and sync, plus helpers to convert between bitflags and integer sets.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_DISABLE_REASON_H_
 #define EXTENSIONS_BROWSER_DISABLE_REASON_H_
 

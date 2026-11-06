@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstallTracker implementation
+// summary: Implements the InstallTracker keyed service that tracks active extension installs and notifies install observers about download, CRX install, and failure events.
+// ---
+
 #include "extensions/browser/install_tracker.h"
 
 #include <memory>

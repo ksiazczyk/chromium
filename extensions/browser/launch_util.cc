@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension launch type preference implementation
+// summary: Implements reading and writing an extension's launch type preference, forcing non-installed hosted apps into tabs and reporting whether an extension launches in a window.
+// ---
+
 #include "extensions/browser/launch_util.h"
 
 #include "build/build_config.h"

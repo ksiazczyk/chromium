@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserContextLifetimeObserver interface
+// summary: Defines an observer interface notified when a primary BrowserContext, its off-the-record sibling, are created or destroyed.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_BROWSER_CONTEXT_LIFETIME_OBSERVER_H_
 #define EXTENSIONS_BROWSER_BROWSER_CONTEXT_LIFETIME_OBSERVER_H_
 

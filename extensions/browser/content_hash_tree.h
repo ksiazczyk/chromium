@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content hash tree root computation
+// summary: Declares ComputeTreeHashRoot, which computes a Merkle tree root hash from sha256 leaf hashes using a given branching factor.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_CONTENT_HASH_TREE_H_
 #define EXTENSIONS_BROWSER_CONTENT_HASH_TREE_H_
 

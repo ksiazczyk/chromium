@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension host test helper implementation
+// summary: Implements a test helper that observes the ExtensionHostRegistry and lets tests wait for host events such as render process readiness or destruction.
+// ---
+
 #include "extensions/browser/extension_host_test_helper.h"
 
 #include "base/check.h"

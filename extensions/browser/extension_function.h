@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension function base class declaration
+// summary: Declares the ExtensionFunction base class plus macros for declaring and validating browser-side extension API functions.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_FUNCTION_H_
 #define EXTENSIONS_BROWSER_EXTENSION_FUNCTION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrxInstaller class header
+// summary: Declares the CrxInstaller class that unpacks, validates, prompts for, and installs CRX extension files into a browser context.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_CRX_INSTALLER_H_
 #define EXTENSIONS_BROWSER_CRX_INSTALLER_H_
 

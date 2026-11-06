@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionRegistrar header
+// summary: Declares ExtensionRegistrar, which drives extension registration and state changes via the ExtensionRegistry, together with its embedder delegate interface.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_REGISTRAR_H_
 #define EXTENSIONS_BROWSER_EXTENSION_REGISTRAR_H_
 

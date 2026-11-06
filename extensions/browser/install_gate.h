@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstallGate interface for delaying extension installs
+// summary: Declares the InstallGate interface that decides whether pending extension installs should proceed, be delayed, or be aborted.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_INSTALL_GATE_H_
 #define EXTENSIONS_BROWSER_INSTALL_GATE_H_
 

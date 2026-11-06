@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lazy background page task queue declarations
+// summary: Declares LazyBackgroundTaskQueue, a keyed service that queues tasks until an extension's lazy background page is loaded and triggers the page load itself.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_LAZY_BACKGROUND_TASK_QUEUE_H_
 #define EXTENSIONS_BROWSER_LAZY_BACKGROUND_TASK_QUEUE_H_
 

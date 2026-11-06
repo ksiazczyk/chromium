@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionPrefsObserver interface
+// summary: Defines observer interfaces for extension preference events such as disable reason changes, registration, prefs load and deletion, state changes and runtime permission updates.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_PREFS_OBSERVER_H_
 #define EXTENSIONS_BROWSER_EXTENSION_PREFS_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionApiFrameIdMap implementation
+// summary: Implements the mapping from render frame hosts and navigation handles to extension API frame IDs, parent IDs, tab IDs, and related frame data.
+// ---
+
 #include "extensions/browser/extension_api_frame_id_map.h"
 
 #include <string_view>

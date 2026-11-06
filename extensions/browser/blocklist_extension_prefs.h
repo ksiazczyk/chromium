@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blocklist extension prefs helpers
+// summary: Declares helpers for adding, removing, and querying blocklist and greylist states stored in extension preferences.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_BLOCKLIST_EXTENSION_PREFS_H_
 #define EXTENSIONS_BROWSER_BLOCKLIST_EXTENSION_PREFS_H_
 

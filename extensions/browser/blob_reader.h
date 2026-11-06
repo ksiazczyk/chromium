@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlobReader class declaration
+// summary: Declares the UI-thread-only BlobReader class that reads blob data, optionally in a range, via Mojo and a data pipe drainer.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_BLOB_READER_H_
 #define EXTENSIONS_BROWSER_BLOB_READER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension API activity monitor implementation
+// summary: Implements global monitors that notify registered callbacks when extensions dispatch API events, call API functions or use the webRequest API.
+// ---
+
 #include "extensions/browser/api_activity_monitor.h"
 
 #include "base/values.h"

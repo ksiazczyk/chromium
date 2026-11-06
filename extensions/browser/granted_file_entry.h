@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GrantedFileEntry struct
+// summary: Declares the GrantedFileEntry struct holding the id, filesystem id and registered name of a file entry a renderer has been given access to.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_GRANTED_FILE_ENTRY_H_
 #define EXTENSIONS_BROWSER_GRANTED_FILE_ENTRY_H_
 

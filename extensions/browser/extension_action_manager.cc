@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionActionManager implementation
+// summary: Implements the per-browser-context keyed service that lazily creates and owns ExtensionAction objects and removes them when extensions are unloaded.
+// ---
+
 #include "extensions/browser/extension_action_manager.h"
 
 #include "base/no_destructor.h"

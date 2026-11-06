@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionPrefStore implementation
+// summary: Implements ExtensionPrefStore, a non-persistent pref store that mirrors effective extension-controlled preference values from the ExtensionPrefValueMap for regular and incognito profiles.
+// ---
+
 #include "extensions/browser/extension_pref_store.h"
 
 #include "base/values.h"

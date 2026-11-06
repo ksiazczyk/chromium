@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionAssetsManager interface for extension asset install and uninstall
+// summary: Declares the ExtensionAssetsManager interface that manages installing and uninstalling extension assets, including shared locations for multiple profiles.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_ASSETS_MANAGER_H_
 #define EXTENSIONS_BROWSER_EXTENSION_ASSETS_MANAGER_H_
 

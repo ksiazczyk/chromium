@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ImageSanitizer unit tests
+// summary: Unit tests covering ImageSanitizer behavior with valid and invalid PNG images, including status reporting and decoded image callbacks.
+// ---
+
 #include "extensions/browser/image_sanitizer.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blocklist extension prefs implementation
+// summary: Implements helpers that read and write blocklist, greylist, Omaha, and acknowledged states in extension preferences.
+// ---
+
 #include "extensions/browser/blocklist_extension_prefs.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lazy context identifier implementation
+// summary: Implements LazyContextId, deriving the background page or service worker queue type from an extension and providing access to the matching task queue.
+// ---
+
 #include "extensions/browser/lazy_context_id.h"
 
 #include "extensions/browser/lazy_background_task_queue.h"

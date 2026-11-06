@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bad message reasons and reporting
+// summary: Defines the BadMessageReason enum for extension renderer terminations and declares functions to report and handle bad IPC messages.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_BAD_MESSAGE_H_
 #define EXTENSIONS_BROWSER_BAD_MESSAGE_H_
 

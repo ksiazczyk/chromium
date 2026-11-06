@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DelayedInstallManager implementation
+// summary: Implements management of extension installs delayed by shutdown or install gates, finishing or aborting them when ready.
+// ---
+
 #include "extensions/browser/delayed_install_manager.h"
 
 #include <string>

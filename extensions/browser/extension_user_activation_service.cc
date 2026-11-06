@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionUserActivationService implementation
+// summary: Implements tracking of transient user activation per extension, starting timers that expire the activation state after the blink activation lifespan.
+// ---
+
 #include "extensions/browser/extension_user_activation_service.h"
 
 #include "base/functional/bind.h"

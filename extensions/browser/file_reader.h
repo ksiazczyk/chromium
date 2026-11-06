@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileReader class declaration
+// summary: Declares FileReader, a ref-counted helper for asynchronously reading extension resources with an optional per-file task and done callback.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_FILE_READER_H_
 #define EXTENSIONS_BROWSER_FILE_READER_H_
 

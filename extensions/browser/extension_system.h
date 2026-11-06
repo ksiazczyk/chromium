@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionSystem interface
+// summary: Declares the ExtensionSystem keyed service that manages lifetime of extension and app services such as ExtensionService, StateStore, QuotaService and ServiceWorkerManager.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_SYSTEM_H_
 #define EXTENSIONS_BROWSER_EXTENSION_SYSTEM_H_
 

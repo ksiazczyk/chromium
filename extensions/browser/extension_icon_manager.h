@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension icon manager class interface
+// summary: Declares ExtensionIconManager, which loads and caches extension icons, supports a monochrome mode and notifies an observer on load.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EXTENSION_ICON_MANAGER_H_
 #define EXTENSIONS_BROWSER_EXTENSION_ICON_MANAGER_H_
 
