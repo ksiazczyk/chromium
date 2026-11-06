@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mac test screen header
+// summary: Declares TestScreenMac, a minimal Mac test screen that creates a display using a valid display id.
+// ---
+
 #ifndef UI_DISPLAY_MAC_TEST_TEST_SCREEN_MAC_H_
 #define UI_DISPLAY_MAC_TEST_TEST_SCREEN_MAC_H_
 

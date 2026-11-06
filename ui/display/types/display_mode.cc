@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayMode implementation
+// summary: Implements the DisplayMode class with comparison operators, cloning, size copying, and string formatting of display modes.
+// ---
+
 #include "ui/display/types/display_mode.h"
 
 #include <ostream>

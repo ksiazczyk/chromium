@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Display manager include dependency rules
+summary: Include rules restricting which headers the display manager directory and its unit tests are allowed to depend on.

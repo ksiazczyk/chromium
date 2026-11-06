@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EDID parser implementation
+// summary: Parses EDID binary blobs to extract manufacturer, serial numbers, physical size, gamma, primaries, HDR metadata, and audio formats.
+// ---
+
 
 #include "ui/display/util/edid_parser.h"
 

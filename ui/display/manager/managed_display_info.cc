@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManagedDisplayInfo implementation
+// summary: Implements managed display modes and info, including display spec parsing, DPI defaults, and mode sorting.
+// ---
+
 #include "ui/display/manager/managed_display_info.h"
 
 #include <inttypes.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenWin implementation
+// summary: Implements the Windows screen backend ScreenWin, managing monitors, per-monitor DPI, scale factors, and window queries.
+// ---
+
 #include "ui/display/win/screen_win.h"
 
 #include <windows.h>

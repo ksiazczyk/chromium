@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Apply content protection task unit tests
+// summary: Unit tests verifying HDCP application behavior for internal, external, and unknown display types using fake display snapshots and delegates.
+// ---
+
 #include "ui/display/manager/apply_content_protection_task.h"
 
 #include <stdint.h>

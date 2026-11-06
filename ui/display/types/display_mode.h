@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayMode class header
+// summary: Declares the DisplayMode class describing a native display mode's size, refresh rate, interlacing, and minimum vsync rate.
+// ---
+
 #ifndef UI_DISPLAY_TYPES_DISPLAY_MODE_H_
 #define UI_DISPLAY_TYPES_DISPLAY_MODE_H_
 

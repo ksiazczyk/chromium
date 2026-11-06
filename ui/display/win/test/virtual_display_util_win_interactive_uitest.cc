@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual display interactive UI tests
+// summary: Runs interactive UI tests that add, remove, and reset virtual displays through ScreenWin, skipping when the required virtual display driver is absent.
+// ---
+
 #include "base/command_line.h"
 #include "base/test/task_environment.h"
 #include "testing/gtest/include/gtest/gtest.h"

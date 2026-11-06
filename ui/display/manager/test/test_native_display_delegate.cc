@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestNativeDisplayDelegate fake implementation
+// summary: Implements a fake NativeDisplayDelegate that logs actions and simulates display configuration, HDCP state, and content protection for tests.
+// ---
+
 #include "ui/display/manager/test/test_native_display_delegate.h"
 
 #include "base/functional/bind.h"

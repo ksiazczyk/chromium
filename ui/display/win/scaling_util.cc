@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display scaling utilities implementation
+// summary: Implements helpers that test whether display rects touch and compute scaled display placements for Windows display layouts.
+// ---
+
 #include "ui/display/win/scaling_util.h"
 
 #include <algorithm>

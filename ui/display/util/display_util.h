@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display utility header
+// summary: Declares display utility functions for display IDs, internal display sets, color space handling, and forced color profile command-line flags.
+// ---
+
 #ifndef UI_DISPLAY_UTIL_DISPLAY_UTIL_H_
 #define UI_DISPLAY_UTIL_DISPLAY_UTIL_H_
 

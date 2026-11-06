@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContentProtectionKeyManager unit tests
+// summary: Unit tests verifying HDCP key provisioning in ContentProtectionKeyManager, covering valid and empty server keys, disabled features, and display ID mismatches.
+// ---
+
 #include "ui/display/manager/content_protection_key_manager.h"
 
 #include <memory>

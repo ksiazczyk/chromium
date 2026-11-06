@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayChangeObserver class header
+// summary: Declares DisplayChangeObserver, which observes display configuration and input device changes and updates DisplayManager, including mode list helpers for internal and external displays.
+// ---
+
 #ifndef UI_DISPLAY_MANAGER_DISPLAY_CHANGE_OBSERVER_H_
 #define UI_DISPLAY_MANAGER_DISPLAY_CHANGE_OBSERVER_H_
 

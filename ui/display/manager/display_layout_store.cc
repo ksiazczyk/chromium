@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayLayoutStore implementation
+// summary: Implements storage of display layouts per display ID list, including default placement from command-line switches and validation of registered layouts.
+// ---
+
 #include "ui/display/manager/display_layout_store.h"
 
 #include <stdio.h>

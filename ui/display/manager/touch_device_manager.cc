@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchDeviceManager implementation
+// summary: Implements association of touchscreen devices with displays, including USB path matching and calibration data handling.
+// ---
+
 #include "ui/display/manager/touch_device_manager.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apply content protection task header
+// summary: Declares ApplyContentProtectionTask, which applies requested content protections and disables protection on displays omitted from the requests.
+// ---
+
 #ifndef UI_DISPLAY_MANAGER_APPLY_CONTENT_PROTECTION_TASK_H_
 #define UI_DISPLAY_MANAGER_APPLY_CONTENT_PROTECTION_TASK_H_
 

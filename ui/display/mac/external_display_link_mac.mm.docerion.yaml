@@ -1,0 +1,4 @@
+# Docerion header of external_display_link_mac.mm.
+type: source
+title: ExternalDisplayLinkMac implementation
+summary: Implements ExternalDisplayLinkMac, creating per-display links that forward VSync callbacks through VSyncProviderMac and record creation UMA metrics.

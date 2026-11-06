@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenWinHeadless implementation
+// summary: Implements the headless ScreenWin variant that synthesizes fake displays from HeadlessScreenInfo configurations for use without real monitors.
+// ---
+
 #include "ui/display/win/screen_win_headless.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base window finder implementation for Windows
+// summary: Implements the callback procedure that drives Win32 window iteration while skipping a configured set of HWNDs to ignore.
+// ---
+
 #include "ui/display/win/base_window_finder_win.h"
 
 #include <objbase.h>

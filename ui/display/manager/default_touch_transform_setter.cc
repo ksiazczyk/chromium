@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DefaultTouchTransformSetter implementation
+// summary: Implements DefaultTouchTransformSetter by forwarding touch device transform configuration to the ui DeviceDataManager.
+// ---
+
 #include "ui/display/manager/default_touch_transform_setter.h"
 
 #include "ui/events/devices/device_data_manager.h"

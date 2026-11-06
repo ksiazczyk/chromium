@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display layout builder API
+// summary: Declares a builder utility class for creating DisplayLayout instances by adding placements and setting the primary display.
+// ---
+
 #ifndef UI_DISPLAY_DISPLAY_LAYOUT_BUILDER_H_
 #define UI_DISPLAY_DISPLAY_LAYOUT_BUILDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayChangeNotifier header
+// summary: Declares DisplayChangeNotifier, which manages DisplayObserver registration and notification on behalf of Screen.
+// ---
+
 #ifndef UI_DISPLAY_DISPLAY_CHANGE_NOTIFIER_H_
 #define UI_DISPLAY_DISPLAY_CHANGE_NOTIFIER_H_
 

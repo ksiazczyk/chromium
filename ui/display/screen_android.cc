@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Screen view-to-window helper
+// summary: Provides the Android-specific GetWindowForView stub that aborts because Android must override GetDisplayNearestView directly to avoid a cyclic dependency.
+// ---
+
 #include "ui/display/screen.h"
 
 #include "base/notreached.h"

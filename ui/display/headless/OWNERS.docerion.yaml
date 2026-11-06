@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for ui/display/headless
+summary: Delegates code ownership for this directory to the owners defined in the parent headless OWNERS file.

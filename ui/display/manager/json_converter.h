@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayLayout JSON converter header
+// summary: Declares JsonToDisplayLayout and DisplayLayoutToJson for serializing display layouts to and from JSON.
+// ---
+
 #ifndef UI_DISPLAY_MANAGER_JSON_CONVERTER_H_
 #define UI_DISPLAY_MANAGER_JSON_CONVERTER_H_
 

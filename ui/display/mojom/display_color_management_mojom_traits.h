@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display color management Mojom traits header
+// summary: Declares StructTraits mappings between display color management Mojom types and native C++ types.
+// ---
+
 #ifndef UI_DISPLAY_MOJOM_DISPLAY_COLOR_MANAGEMENT_MOJOM_TRAITS_H_
 #define UI_DISPLAY_MOJOM_DISPLAY_COLOR_MANAGEMENT_MOJOM_TRAITS_H_
 

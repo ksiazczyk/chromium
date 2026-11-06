@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TouchDeviceManagerTestApi implementation
+// summary: Implements helpers to associate touchscreen devices with displays and inspect or reset TouchDeviceManager associations in tests.
+// ---
+
 #include "ui/display/manager/test/touch_device_manager_test_api.h"
 
 #include "ui/display/manager/managed_display_info.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VSyncProviderMac implementation
+// summary: Implements the VSyncProviderMac singleton that routes browser-originated VSync signals to registered display link callbacks in the GPU process.
+// ---
+
 #include "ui/display/mac/vsync_provider_mac.h"
 
 #include "base/logging.h"

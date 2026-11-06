@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless screen utility declarations
+// summary: Declares shared headless display helpers for geometry handling and CDP Emulation::UpdateScreen-style display updates, intended for all headless screen drivers.
+// ---
+
 #ifndef UI_DISPLAY_HEADLESS_HEADLESS_SCREEN_UTIL_H_
 #define UI_DISPLAY_HEADLESS_HEADLESS_SCREEN_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EDID parser fuzzer
+// summary: LibFuzzer entry point that feeds arbitrary byte inputs to the EdidParser constructor to uncover parsing crashes.
+// ---
+
 #include "ui/display/util/edid_parser.h"
 
 #include <stddef.h>

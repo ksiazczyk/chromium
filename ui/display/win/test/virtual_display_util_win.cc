@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VirtualDisplayUtilWin implementation
+// summary: Implements the Windows virtual display utility that adds, removes, and resets system-level virtual displays for multi-screen integration testing.
+// ---
+
 #include "ui/display/win/test/virtual_display_util_win.h"
 
 #include <algorithm>

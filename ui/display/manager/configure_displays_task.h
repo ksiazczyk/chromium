@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Configure displays task header
+// summary: Declares ConfigureDisplaysTask and DisplayConfigureRequest, which apply display configurations and retry with lower modes after failures.
+// ---
+
 #ifndef UI_DISPLAY_MANAGER_CONFIGURE_DISPLAYS_TASK_H_
 #define UI_DISPLAY_MANAGER_CONFIGURE_DISPLAYS_TASK_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display manager utility implementation
+// summary: Implements display manager helpers for display power state, state-to-string conversion, content protection methods, and display zoom factors.
+// ---
+
 #include "ui/display/manager/util/display_manager_util.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenInfos Mojo traits implementation
+// summary: Implements StructTraits Read for ScreenInfos, validating unique display ids and that the current display id is present.
+// ---
+
 #include "ui/display/mojom/screen_infos_mojom_traits.h"
 
 #include "ui/display/mojom/screen_info_mojom_traits.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayUtil class header
+// summary: Declares the DisplayUtil class with static helpers for converting displays to screen info, computing orientation types, and falling back from HDR color spaces.
+// ---
+
 #ifndef UI_DISPLAY_DISPLAY_UTIL_H_
 #define UI_DISPLAY_DISPLAY_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for display manager test utilities
+// summary: Unit tests verifying synthesized display ID generation, reset behavior, seed-based synthesis, and the alternative ID scheme helper.
+// ---
+
 #include "ui/display/manager/util/display_manager_test_util.h"
 
 #include <stdint.h>

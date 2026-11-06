@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Display utility unit tests
+// summary: Unit tests for display utility functions using real EDID blobs from monitors such as the HP z32x and Chromebook internal panels.
+// ---
+
 #include "ui/display/util/display_util.h"
 
 #include <vector>

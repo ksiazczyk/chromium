@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display manager test utility implementation
+// summary: Implements test helpers that reset and synthesize fake display IDs and EDID-based connector indices for display manager tests.
+// ---
+
 #include "ui/display/manager/util/display_manager_test_util.h"
 
 #include <stdint.h>

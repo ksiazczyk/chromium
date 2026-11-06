@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayConfig struct declaration
+// summary: Declares DisplayConfig holding display geometries, primary scale and font scale for a display configuration.
+// ---
+
 #ifndef UI_DISPLAY_TYPES_DISPLAY_CONFIG_H_
 #define UI_DISPLAY_TYPES_DISPLAY_CONFIG_H_
 

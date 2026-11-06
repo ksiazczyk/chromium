@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unified desktop utilities unit tests
+// summary: Unit tests for unified desktop matrix validation covering empty matrices, holes, missing or extra placements, cycles, and offsets.
+// ---
+
 #include "ui/display/unified_desktop_utils.h"
 
 #include <memory>

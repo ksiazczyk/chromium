@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayList header
+// summary: Declares the DisplayList class that maintains a display list, primary display id, and DisplayObserver notifications.
+// ---
+
 #ifndef UI_DISPLAY_DISPLAY_LIST_H_
 #define UI_DISPLAY_DISPLAY_LIST_H_
 

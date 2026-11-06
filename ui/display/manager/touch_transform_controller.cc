@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchTransformController implementation
+// summary: Computes coordinate transform matrices between touchscreen devices and displays and pushes them to the device manager.
+// ---
+
 #include "ui/display/manager/touch_transform_controller.h"
 
 #include <algorithm>

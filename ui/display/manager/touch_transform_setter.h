@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchTransformSetter interface
+// summary: Declares the TouchTransformSetter interface used by TouchTransformController to apply touch device transforms to each device and display pair.
+// ---
+
 #ifndef UI_DISPLAY_MANAGER_TOUCH_TRANSFORM_SETTER_H_
 #define UI_DISPLAY_MANAGER_TOUCH_TRANSFORM_SETTER_H_
 

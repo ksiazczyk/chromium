@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive UI tests for Linux virtual displays
+// summary: Interactive UI test suite verifying adding, removing and resetting virtual displays on hosts with XRandR support.
+// ---
+
 #include <array>
 #include <memory>
 

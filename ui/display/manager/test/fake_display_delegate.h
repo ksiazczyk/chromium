@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake display delegate header
+// summary: Declares FakeDisplayDelegate and documents the --screen-config flag format used to control fake display size and count.
+// ---
+
 #ifndef UI_DISPLAY_MANAGER_TEST_FAKE_DISPLAY_DELEGATE_H_
 #define UI_DISPLAY_MANAGER_TEST_FAKE_DISPLAY_DELEGATE_H_
 

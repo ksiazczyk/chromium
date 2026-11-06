@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenBase implementation with display list
+// summary: Implements a simple Screen backed by a DisplayList, covering display lookup and matching, observer management, and processing of display changes.
+// ---
+
 #include "ui/display/screen_base.h"
 
 #include "base/notimplemented.h"

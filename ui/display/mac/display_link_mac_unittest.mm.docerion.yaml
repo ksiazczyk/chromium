@@ -1,0 +1,4 @@
+# Docerion header of display_link_mac_unittest.mm.
+type: test
+title: DisplayLinkMac unit tests
+summary: Parametrized tests verifying display link creation and VSync callback interval accuracy for the CVDisplayLink and CADisplayLink backends.

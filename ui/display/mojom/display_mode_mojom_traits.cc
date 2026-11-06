@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display mode Mojo traits implementation
+// summary: Implements reading of display::DisplayMode objects from their Mojo representation, including the gfx size field.
+// ---
+
 #include "ui/display/mojom/display_mode_mojom_traits.h"
 
 #include "ui/gfx/geometry/mojom/geometry_mojom_traits.h"

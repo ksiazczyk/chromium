@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Display mode gmock matcher header
+// summary: Declares the IsDisplayMode matcher for comparing DisplayMode size and refresh rate in tests.
+// ---
+
 #ifndef UI_DISPLAY_TEST_DISPLAY_MATCHERS_H_
 #define UI_DISPLAY_TEST_DISPLAY_MATCHERS_H_
 

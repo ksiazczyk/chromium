@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeDisplayController interface
+// summary: Declares an interface for adding and removing fake displays when no physical displays are available off device.
+// ---
+
 #ifndef UI_DISPLAY_TYPES_FAKE_DISPLAY_CONTROLLER_H_
 #define UI_DISPLAY_TYPES_FAKE_DISPLAY_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display layout implementation
+// summary: Implements DisplayLayout and DisplayPlacement logic that applies placements to display lists, validates layouts, and fixes overlaps.
+// ---
+
 #include "ui/display/display_layout.h"
 
 #include <algorithm>

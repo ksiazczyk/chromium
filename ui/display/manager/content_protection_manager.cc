@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentProtectionManager implementation
+// summary: Implements ContentProtectionManager, which fulfills client requests to query and apply display content protection and polls display security state as required by the kernel API.
+// ---
+
 #include "ui/display/manager/content_protection_manager.h"
 
 #include <algorithm>

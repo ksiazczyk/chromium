@@ -1,0 +1,4 @@
+# Docerion header of display_color_management.mojom.
+type: source
+title: Display color management Mojom definitions
+summary: Defines Mojo structs for gamma curves, color calibration, color temperature adjustment, and gamma adjustment.

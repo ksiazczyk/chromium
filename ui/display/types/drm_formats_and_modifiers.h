@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DRM formats and modifiers type
+// summary: Defines the DrmFormatsAndModifiers map type listing DRM pixel formats and modifiers supported by display hardware planes.
+// ---
+
 #ifndef UI_DISPLAY_TYPES_DRM_FORMATS_AND_MODIFIERS_H_
 #define UI_DISPLAY_TYPES_DRM_FORMATS_AND_MODIFIERS_H_
 

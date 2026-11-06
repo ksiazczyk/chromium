@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display finder API
+// summary: Declares functions for locating displays by point containment, proximity, and rectangle intersection within a display list.
+// ---
+
 #ifndef UI_DISPLAY_DISPLAY_FINDER_H_
 #define UI_DISPLAY_DISPLAY_FINDER_H_
 

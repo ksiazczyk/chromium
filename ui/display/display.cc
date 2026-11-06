@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display class implementation
+// summary: Implements the Display class, including forced device scale factor and raster color profile handling from command-line switches and rotation conversion.
+// ---
+
 #include "ui/display/display.h"
 
 #include <algorithm>

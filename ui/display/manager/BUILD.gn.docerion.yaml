@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Display manager build configuration
+summary: Build definition for the display manager component, listing its sources, dependencies, and compile settings for ChromeOS.

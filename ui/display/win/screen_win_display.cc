@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenWinDisplay implementation
+// summary: Implements ScreenWinDisplay, building a display::Display from internal DisplayInfo with scaled bounds, work area and cached monitor data.
+// ---
+
 #include "ui/display/win/screen_win_display.h"
 
 #include "ui/display/win/display_info.h"

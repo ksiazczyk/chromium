@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display layout Mojo traits declarations
+// summary: Declares Mojo traits specializations that serialize display placement and layout objects, including ids, position, offset and placement list.
+// ---
+
 #ifndef UI_DISPLAY_MOJOM_DISPLAY_LAYOUT_MOJOM_TRAITS_H_
 #define UI_DISPLAY_MOJOM_DISPLAY_LAYOUT_MOJOM_TRAITS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplaySnapshot mojom traits implementation
+// summary: Implements mojo StructTraits that serialize and deserialize display::DisplaySnapshot and its color info to and from the mojom representation.
+// ---
+
 #include "ui/display/mojom/display_snapshot_mojom_traits.h"
 
 #include <cstdint>

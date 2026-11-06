@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the ui/display module
+summary: Defines GN build targets for the display component and display features, including platform-specific sources for Android, Mac, Windows and iOS.

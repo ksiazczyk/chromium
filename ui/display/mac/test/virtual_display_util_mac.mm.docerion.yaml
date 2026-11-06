@@ -1,0 +1,4 @@
+# Docerion header of virtual_display_util_mac.mm.
+type: test
+title: Mac virtual display utility implementation
+summary: Implements VirtualDisplayUtilMac using CoreGraphics virtual display interfaces to add, remove and reset mocked displays for integration testing.

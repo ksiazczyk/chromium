@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VSyncProviderMac header
+// summary: Declares VSyncProviderMac, a singleton that delivers browser VSync signals over IPC to ExternalDisplayLinkMac and tracks per-display callback state.
+// ---
+
 #ifndef UI_DISPLAY_MAC_VSYNC_PROVIDER_MAC_H_
 #define UI_DISPLAY_MAC_VSYNC_PROVIDER_MAC_H_
 

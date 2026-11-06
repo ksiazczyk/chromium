@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DisplayChangeNotifier
+// summary: Tests observer add and remove behavior and notification of display additions, removals and metric changes using a mock observer.
+// ---
+
 #include "ui/display/display_change_notifier.h"
 
 #include <stdint.h>

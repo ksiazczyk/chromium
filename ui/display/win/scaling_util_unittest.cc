@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scaling utility unit tests
+// summary: Unit tests covering display scaling utilities such as DisplayInfosTouch and CalculateDisplayPlacement across many rect configurations.
+// ---
+
 #include "ui/display/win/scaling_util.h"
 
 #include <optional>

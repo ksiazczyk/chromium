@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test display layout manager implementation
+// summary: Implements a stub DisplayLayoutManager that returns fixed display states and snapshots for display tests.
+// ---
+
 #include "ui/display/manager/test/test_display_layout_manager.h"
 
 #include "base/memory/raw_ptr.h"

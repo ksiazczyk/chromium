@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayChangeObserver implementation
+// summary: Implements DisplayChangeObserver, which reacts to display configuration changes, computes device scale factors from DPI threshold tables, and updates DisplayManager with managed display info.
+// ---
+
 #include "ui/display/manager/display_change_observer.h"
 
 #include <algorithm>

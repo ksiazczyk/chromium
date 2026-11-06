@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU info entry builder implementation
+// summary: Implements BuildGpuInfoEntry helpers that package a description and a value into a dictionary for GPU info display.
+// ---
+
 #include "ui/display/util/gpu_info_util.h"
 
 #include <string_view>

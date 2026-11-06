@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenBase class header
+// summary: Declares ScreenBase, a simple Screen implementation that maintains a DisplayList and exposes display change processing to subclasses.
+// ---
+
 #ifndef UI_DISPLAY_SCREEN_BASE_H_
 #define UI_DISPLAY_SCREEN_BASE_H_
 

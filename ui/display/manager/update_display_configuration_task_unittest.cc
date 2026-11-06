@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UpdateDisplayConfigurationTask unit tests
+// summary: Unit tests for the display configuration task using fake display snapshots and a test native display delegate, covering mirroring and layout behavior.
+// ---
+
 #include "ui/display/manager/update_display_configuration_task.h"
 
 #include <stddef.h>

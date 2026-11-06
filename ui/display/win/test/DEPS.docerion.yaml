@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Windows display test support
+summary: Grants the Windows display test folder include access to the win_virtual_display driver and controller code.

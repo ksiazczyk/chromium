@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayInfo class declaration
+// summary: Declares DisplayInfo, a holder of monitor parameters such as bounds, scale factors, and rotation used to create ScreenWinDisplay objects.
+// ---
+
 #ifndef UI_DISPLAY_WIN_DISPLAY_INFO_H_
 #define UI_DISPLAY_WIN_DISPLAY_INFO_H_
 

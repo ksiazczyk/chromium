@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Display manager test API implementation
+// summary: Implements DisplayManagerTestApi helpers that add, update and configure displays when testing the display manager.
+// ---
+
 #include "ui/display/test/display_manager_test_api.h"
 
 #include <algorithm>

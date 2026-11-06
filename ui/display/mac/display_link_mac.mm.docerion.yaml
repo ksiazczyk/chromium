@@ -1,0 +1,4 @@
+# Docerion header of display_link_mac.mm.
+type: source
+title: DisplayLinkMac factory and callback dispatch
+summary: Implements selection between CADisplayLink, external, and CVDisplayLink backends based on feature flags, plus VSync callback plumbing.

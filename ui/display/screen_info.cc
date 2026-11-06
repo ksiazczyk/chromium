@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenInfo implementation
+// summary: Implements ScreenInfo with a debug ToString method that reports bounds, available area, scale, frequency, orientation, and internal or primary status.
+// ---
+
 #include "ui/display/screen_info.h"
 
 #include <inttypes.h>

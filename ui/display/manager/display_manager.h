@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayManager class header
+// summary: Declares DisplayManager, which maintains current display configurations, implements software mirroring control, and notifies observers of changes.
+// ---
+
 #ifndef UI_DISPLAY_MANAGER_DISPLAY_MANAGER_H_
 #define UI_DISPLAY_MANAGER_DISPLAY_MANAGER_H_
 

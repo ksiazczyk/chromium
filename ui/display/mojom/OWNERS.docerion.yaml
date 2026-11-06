@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Display Mojom OWNERS file
+summary: Routes review approval for Mojom files and Mojom traits files to the IPC security owners.

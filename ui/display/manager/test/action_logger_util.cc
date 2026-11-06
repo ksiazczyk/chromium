@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Action logger utility implementation
+// summary: Builds string descriptions of native display delegate actions such as CRTC configuration, HDCP state, gamma and privacy screen.
+// ---
+
 
 #include "ui/display/manager/test/action_logger_util.h"
 

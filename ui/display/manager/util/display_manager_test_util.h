@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display manager test utility header
+// summary: Declares exported test helpers for resetting and synthesizing fake display IDs and EDID connector indices in display manager tests.
+// ---
+
 #ifndef UI_DISPLAY_MANAGER_UTIL_DISPLAY_MANAGER_TEST_UTIL_H_
 #define UI_DISPLAY_MANAGER_UTIL_DISPLAY_MANAGER_TEST_UTIL_H_
 

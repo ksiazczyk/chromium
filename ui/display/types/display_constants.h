@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display constants and enums
+// summary: Defines display IDs, HDR and scale constants plus enums for multi-display states, connection types, content protection, HDCP state and panel orientation.
+// ---
+
 #ifndef UI_DISPLAY_TYPES_DISPLAY_CONSTANTS_H_
 #define UI_DISPLAY_TYPES_DISPLAY_CONSTANTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Display properties parser unit tests
+// summary: Tests parsing of valid and invalid rounded-corner display property JSON, including wrong keys and missing pairs.
+// ---
+
 #include "ui/display/manager/display_properties_parser.h"
 
 #include <string_view>

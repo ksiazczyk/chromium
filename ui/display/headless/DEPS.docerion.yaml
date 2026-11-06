@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for ui/display/headless
+summary: DEPS file restricting includes in the headless display folder to the ui/display tree.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayPortObserver implementation
+// summary: Reads DRM sysfs connector data to determine which USB-C ports drive displays and reports port changes for the Type C daemon.
+// ---
+
 #include "ui/display/manager/display_port_observer.h"
 
 #include "base/files/file_enumerator.h"

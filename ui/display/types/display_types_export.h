@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display types export macro header
+// summary: Defines the DISPLAY_TYPES_EXPORT macro for exporting the display types component's symbols across build configurations.
+// ---
+
 #ifndef UI_DISPLAY_TYPES_DISPLAY_TYPES_EXPORT_H_
 #define UI_DISPLAY_TYPES_DISPLAY_TYPES_EXPORT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display mode Mojo traits declarations
+// summary: Declares StructTraits mapping display::DisplayMode fields such as size, refresh rate and minimum vsync rate to the Mojo struct, with null handling.
+// ---
+
 #ifndef UI_DISPLAY_MOJOM_DISPLAY_MODE_MOJOM_TRAITS_H_
 #define UI_DISPLAY_MOJOM_DISPLAY_MODE_MOJOM_TRAITS_H_
 

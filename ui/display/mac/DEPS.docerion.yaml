@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for ui/display/mac
+summary: Defines which headers files in the mac display directory may include, with a special rule letting screen_mac_headless use headless screen info.

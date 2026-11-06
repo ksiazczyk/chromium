@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Display mode gmock matcher implementation
+// summary: Implements the IsDisplayMode gmock matcher that checks a DisplayMode's size and refresh rate.
+// ---
+
 #include "ui/display/test/display_matchers.h"
 
 namespace display {

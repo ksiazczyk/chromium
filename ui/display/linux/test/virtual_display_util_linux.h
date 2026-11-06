@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux virtual display utility header
+// summary: Declares VirtualDisplayUtilLinux, including API availability checks, display limits and predefined display parameters.
+// ---
+
 #ifndef UI_DISPLAY_LINUX_TEST_VIRTUAL_DISPLAY_UTIL_LINUX_H_
 #define UI_DISPLAY_LINUX_TEST_VIRTUAL_DISPLAY_UTIL_LINUX_H_
 

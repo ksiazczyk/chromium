@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayUtil implementation for screen info conversion
+// summary: Implements DisplayUtil helpers that convert Display objects into ScreenInfo, compute screen orientation types, and disable HDR or high bit depth color spaces.
+// ---
+
 #include "ui/display/display_util.h"
 
 #include "base/notreached.h"

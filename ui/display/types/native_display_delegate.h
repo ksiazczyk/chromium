@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeDisplayDelegate interface for display configuration actions
+// summary: Interface for classes that perform display configuration actions on behalf of DisplayConfigurator, covering display queries, mode configuration, HDCP state, and color or gamma adjustments.
+// ---
+
 #ifndef UI_DISPLAY_TYPES_NATIVE_DISPLAY_DELEGATE_H_
 #define UI_DISPLAY_TYPES_NATIVE_DISPLAY_DELEGATE_H_
 

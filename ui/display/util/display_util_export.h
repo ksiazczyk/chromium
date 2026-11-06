@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display util export macros
+// summary: Defines the DISPLAY_UTIL_EXPORT macro for exporting display_util symbols in component and non-component builds.
+// ---
+
 #ifndef UI_DISPLAY_UTIL_DISPLAY_UTIL_EXPORT_H_
 #define UI_DISPLAY_UTIL_DISPLAY_UTIL_EXPORT_H_
 

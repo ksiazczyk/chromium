@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DisplayList unit tests
+// summary: Unit tests verifying DisplayList add, update, remove behavior, primary display changes, and observer notifications.
+// ---
+
 #include "ui/display/display_list.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display switches declarations
+// summary: Declares extern constants for display-related command-line switches, including ChromeOS-only display properties and unified desktop flags.
+// ---
+
 #ifndef UI_DISPLAY_DISPLAY_SWITCHES_H_
 #define UI_DISPLAY_DISPLAY_SWITCHES_H_
 

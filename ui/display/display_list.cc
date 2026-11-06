@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayList implementation
+// summary: Implements an ordered list of displays with add, update, and remove operations, primary display tracking, and observer change notifications.
+// ---
+
 #include "ui/display/display_list.h"
 
 #include "base/memory/ptr_util.h"

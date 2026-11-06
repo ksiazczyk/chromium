@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local process window finder implementation
+// summary: Finds a window of the current process at a screen point, skipping invisible, cloaked, and occluded windows.
+// ---
+
 #include "ui/display/win/local_process_window_finder_win.h"
 
 #include "base/win/windows_version.h"

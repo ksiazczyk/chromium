@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Display test utility implementation
+// summary: Builds a list of ManagedDisplayInfo objects from comma-separated display spec strings for use in tests.
+// ---
+
 #include "ui/display/test/display_test_util.h"
 
 #include <cstdint>

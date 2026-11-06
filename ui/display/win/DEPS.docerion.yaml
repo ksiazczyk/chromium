@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ui/display/win
+summary: Defines include dependency rules allowing viz shared image format headers and headless screen info includes for screen_win_headless sources.

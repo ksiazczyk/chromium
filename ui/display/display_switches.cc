@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display command-line switches
+// summary: Defines command-line switches for display features such as software mirroring, forced color profiles, scale factor, and unified desktop.
+// ---
+
 #include "ui/display/display_switches.h"
 
 #include "build/build_config.h"

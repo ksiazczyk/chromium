@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mac virtual display utility header
+// summary: Declares VirtualDisplayUtilMac for creating system-level virtual displays in multi-screen tests, with preset display parameters and an API availability check.
+// ---
+
 #ifndef UI_DISPLAY_MAC_TEST_VIRTUAL_DISPLAY_UTIL_MAC_H_
 #define UI_DISPLAY_MAC_TEST_VIRTUAL_DISPLAY_UTIL_MAC_H_
 

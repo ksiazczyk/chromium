@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchTransformController class declaration
+// summary: Declares the controller that matches touchscreens to displays and computes display-to-input coordinate transforms.
+// ---
+
 #ifndef UI_DISPLAY_MANAGER_TOUCH_TRANSFORM_CONTROLLER_H_
 #define UI_DISPLAY_MANAGER_TOUCH_TRANSFORM_CONTROLLER_H_
 

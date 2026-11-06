@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake display delegate implementation
+// summary: Implements a fake NativeDisplayDelegate that manages simulated displays for off-device display configuration testing.
+// ---
+
 #include "ui/display/manager/test/fake_display_delegate.h"
 
 #include <string>

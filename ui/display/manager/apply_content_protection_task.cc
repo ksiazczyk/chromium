@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apply content protection task implementation
+// summary: Implements the task that queries HDCP state and applies requested content protection changes on capable displays via the native display delegate.
+// ---
+
 #include "ui/display/manager/apply_content_protection_task.h"
 
 #include <algorithm>

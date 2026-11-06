@@ -1,0 +1,4 @@
+# Docerion header of screen_infos.mojom.
+type: source
+title: ScreenInfos Mojom struct definition
+summary: Defines the ScreenInfos Mojom struct listing relevant screens, the current display id, and the system cursor size.

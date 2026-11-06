@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DisplayChangeObserver unit tests
+// summary: Unit tests for DisplayChangeObserver covering device scale factor computation, managed display info creation, and internal panel radii handling.
+// ---
+
 #include "ui/display/manager/display_change_observer.h"
 
 #include <cmath>

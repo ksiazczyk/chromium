@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManagedDisplayInfo and ManagedDisplayMode declarations
+// summary: Declares ManagedDisplayMode and ManagedDisplayInfo classes holding per-display metadata such as modes, overscan, rotation, zoom and color spaces.
+// ---
+
 #ifndef UI_DISPLAY_MANAGER_MANAGED_DISPLAY_INFO_H_
 #define UI_DISPLAY_MANAGER_MANAGED_DISPLAY_INFO_H_
 

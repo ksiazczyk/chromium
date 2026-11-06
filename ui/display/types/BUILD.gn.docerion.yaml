@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the display types component
+summary: GN build file that defines the display_types component, listing its sources, defines, configs and dependencies.

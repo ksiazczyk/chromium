@@ -1,0 +1,4 @@
+# Docerion header of display_configuration_params.mojom.
+type: source
+title: Display configuration parameters Mojom definition
+summary: Defines the DisplayConfigurationParams struct carrying display id, origin, mode, and VRR flag.

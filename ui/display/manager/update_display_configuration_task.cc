@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateDisplayConfigurationTask implementation
+// summary: Implements the task that fetches display snapshots, sorts internal panels first, applies refresh rate overrides, and drives display and power state configuration.
+// ---
+
 #include "ui/display/manager/update_display_configuration_task.h"
 
 #include <memory>

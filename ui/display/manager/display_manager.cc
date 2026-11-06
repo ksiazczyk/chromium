@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayManager implementation
+// summary: Implements DisplayManager, which maintains display configurations, handles extended, mirroring and unified desktop modes, and logs mirror mode metrics.
+// ---
+
 #include "ui/display/manager/display_manager.h"
 
 #include <algorithm>

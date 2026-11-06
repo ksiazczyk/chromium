@@ -1,0 +1,4 @@
+# Docerion header of display_constants.mojom.
+type: source
+title: Display constants Mojom definitions
+summary: Defines enums for connection type, HDCP state, panel orientation, privacy screen, and variable refresh rate state.

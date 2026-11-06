@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display layout builder implementation
+// summary: Implements DisplayLayoutBuilder, which incrementally constructs DisplayLayout objects with placements and primary display settings.
+// ---
+
 #include "ui/display/display_layout_builder.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Display mojom traits unit tests
+// summary: Unit tests verifying that display types such as Display, DisplayLayout, DisplayMode, and DisplaySnapshot round-trip correctly through their mojo traits.
+// ---
+
 #include "ui/display/mojom/display_mojom_traits.h"
 
 #include <memory>

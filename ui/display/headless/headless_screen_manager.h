@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessScreenManager class declaration
+// summary: Declares the HeadlessScreenManager singleton and its Delegate interface for adding, updating, removing and selecting primary displays in headless mode.
+// ---
+
 #ifndef UI_DISPLAY_HEADLESS_HEADLESS_SCREEN_MANAGER_H_
 #define UI_DISPLAY_HEADLESS_HEADLESS_SCREEN_MANAGER_H_
 

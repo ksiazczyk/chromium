@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayPortObserver class header
+// summary: Declares DisplayPortObserver, which tracks USB-C ports used for displays and notifies a callback on configuration changes.
+// ---
+
 #ifndef UI_DISPLAY_MANAGER_DISPLAY_PORT_OBSERVER_H_
 #define UI_DISPLAY_MANAGER_DISPLAY_PORT_OBSERVER_H_
 

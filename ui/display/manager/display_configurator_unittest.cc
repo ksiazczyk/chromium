@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DisplayConfigurator unit tests
+// summary: Unit tests for DisplayConfigurator covering configuration changes, failures, power state, and resume delays using fake display snapshots and a test native display delegate.
+// ---
+
 #include "ui/display/manager/display_configurator.h"
 
 #include <stddef.h>
