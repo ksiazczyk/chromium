@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OsAdditionalSecurityUtil
+// summary: Utility class that lazily provides the shared OsAdditionalSecurityProvider instance and supports replacing it for testing.
+// ---
+
 package org.chromium.components.safe_browsing;
 
 import androidx.annotation.Nullable;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing API handler bridge implementation
+// summary: Implements the native-to-Java bridge that sends URL checks to the GMSCore Safe Browsing API and reports response metrics.
+// ---
+
 #include "components/safe_browsing/android/safe_browsing_api_handler_bridge.h"
 
 #include <algorithm>

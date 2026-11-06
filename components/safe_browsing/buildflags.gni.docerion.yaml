@@ -1,0 +1,4 @@
+# Docerion header of buildflags.gni.
+type: config
+title: Safe Browsing build mode arguments
+summary: Declares GN arguments that control Safe Browsing compilation levels per platform and toggles features like unrar usage and notification caching.

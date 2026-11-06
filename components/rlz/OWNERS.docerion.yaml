@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the rlz component
+summary: Lists cpu@chromium.org and sdefresne@chromium.org as owners of the rlz component.

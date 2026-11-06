@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RLZ tracker unit tests
+// summary: Unit tests for the RLZ tracker that use a test delegate to simulate brands, search usage callbacks and access point RLZ behavior.
+// ---
+
 #include "components/rlz/rlz_tracker.h"
 
 #include <memory>

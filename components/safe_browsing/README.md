@@ -1,3 +1,9 @@
+---
+type: readme
+title: Safe Browsing layered component overview
+summary: Explains the layered structure of the safe_browsing component across core, content, and ios directories and advises embedders on which classes to use.
+---
+
 //components/safe_browsing is a layered component
 (https://www.chromium.org/developers/design-documents/layered-components-design/)
 to enable it to be shared cleanly on iOS.

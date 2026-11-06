@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Real-time URL checks allowlist unit tests
+// summary: Unit tests covering populating the allowlist from resource bundles and dynamic updates, including error cases and populate histogram metrics.
+// ---
+
 #include "components/safe_browsing/android/real_time_url_checks_allowlist.h"
 
 #include <string.h>

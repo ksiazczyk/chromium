@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafeBrowsingApiBridge
+// summary: Helper that lets native code call GMSCore APIs for Safe Browsing checks, managing the SafetyNet and Safe Browsing API handlers for URL and allowlist lookups.
+// ---
+
 package org.chromium.components.safe_browsing;
 
 import androidx.annotation.GuardedBy;

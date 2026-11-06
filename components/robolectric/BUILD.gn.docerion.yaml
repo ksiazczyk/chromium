@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Robolectric build config for components JUnit tests
+summary: GN build file defining the test-only libcomponents_junit_tests shared library that provides JNI support for running the components JUnit tests on the Robolectric toolchain.

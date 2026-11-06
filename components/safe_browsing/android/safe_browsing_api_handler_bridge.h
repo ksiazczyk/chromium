@@ -4,6 +4,12 @@
 //
 // Glue to pass Safe Browsing API requests between Chrome and GMSCore.
 
+// ---docerion
+// type: source
+// title: Safe Browsing API handler bridge header
+// summary: Declares the singleton bridge that passes Safe Browsing API requests and responses between Chrome and GMSCore on Android.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_ANDROID_SAFE_BROWSING_API_HANDLER_BRIDGE_H_
 #define COMPONENTS_SAFE_BROWSING_ANDROID_SAFE_BROWSING_API_HANDLER_BRIDGE_H_
 

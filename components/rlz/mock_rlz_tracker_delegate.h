@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock RLZ tracker delegate header
+// summary: Declares a gmock-based mock of RLZTrackerDelegate that stubs delegate methods such as GetBrand, GetLanguage and Cleanup for testing.
+// ---
+
 #ifndef COMPONENTS_RLZ_MOCK_RLZ_TRACKER_DELEGATE_H_
 #define COMPONENTS_RLZ_MOCK_RLZ_TRACKER_DELEGATE_H_
 

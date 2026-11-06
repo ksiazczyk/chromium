@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafeBrowsingApiHandler
+// summary: Java interface that Safe Browsing API handler implementations must provide, defining URI lookups and observer callbacks that report verdicts to native code.
+// ---
+
 package org.chromium.components.safe_browsing;
 
 import androidx.annotation.IntDef;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe Browsing API handler mock test utilities
+// summary: Declares a test mixin to mock Safe Browsing API handler behavior, including fake threat responses, allowlist entries, and Verify Apps results.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_ANDROID_SAFE_BROWSING_API_HANDLER_TEST_UTIL_H_
 #define COMPONENTS_SAFE_BROWSING_ANDROID_SAFE_BROWSING_API_HANDLER_TEST_UTIL_H_
 

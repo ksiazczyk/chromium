@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing API handler utility implementation
+// summary: Converts Java Safe Browsing threat types and attributes into ThreatMetadata with subresource filter type and level.
+// ---
+
 #include "components/safe_browsing/android/safe_browsing_api_handler_util.h"
 
 #include <stddef.h>

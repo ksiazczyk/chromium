@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows RLZ tracker access points
+// summary: Defines the Windows-specific RLZ access points for the omnibox, home page and app list.
+// ---
+
 #include "components/rlz/rlz_tracker.h"
 
 namespace rlz {

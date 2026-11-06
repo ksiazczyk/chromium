@@ -6,6 +6,12 @@
 // with or without the DLL being present. If the DLL is not present the
 // functions do nothing and just return false.
 
+// ---docerion
+// type: source
+// title: RLZ tracker core implementation
+// summary: Glues the RLZ library with Chrome by recording product events, scheduling delayed financial pings, and exposing access point RLZ values.
+// ---
+
 #include "components/rlz/rlz_tracker.h"
 
 #include <algorithm>

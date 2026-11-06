@@ -4,6 +4,12 @@
 //
 // Helper functions for SafeBrowsingApiHandlerImpl.  Separated out for tests.
 
+// ---docerion
+// type: source
+// title: Safe Browsing API handler utility header
+// summary: Defines enums mirroring the Java Safe Browsing API, covering threat types, attributes, protocols, lookup results, and response statuses.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_ANDROID_SAFE_BROWSING_API_HANDLER_UTIL_H_
 #define COMPONENTS_SAFE_BROWSING_ANDROID_SAFE_BROWSING_API_HANDLER_UTIL_H_
 
