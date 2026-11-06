@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auth factor implementation
+// summary: Implements AuthFactorRef, common and factor-specific metadata, PIN lockout status, and password metadata factories for cryptohome auth factors.
+// ---
+
 #include "chromeos/ash/components/cryptohome/auth_factor.h"
 
 #include <utility>

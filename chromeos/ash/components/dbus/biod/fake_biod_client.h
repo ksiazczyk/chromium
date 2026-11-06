@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeBiodClient interface
+// summary: Declares a fake BiodClient that mimics the real biod daemon API and provides methods to emit enroll, auth and failure events for tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_BIOD_FAKE_BIOD_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_BIOD_FAKE_BIOD_CLIENT_H_
 

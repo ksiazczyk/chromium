@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for cryptohome
+summary: Lists code owners for the directory by referencing the login lock owners file and hashimoto@chromium.org.

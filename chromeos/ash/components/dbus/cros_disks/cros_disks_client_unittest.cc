@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the CrosDisks client
+// summary: Verifies DiskInfo and related parsing by constructing fake DBus responses with device properties and checking the resulting values.
+// ---
+
 #include "chromeos/ash/components/dbus/cros_disks/cros_disks_client.h"
 
 #include <stdint.h>

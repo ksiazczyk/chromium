@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File flusher header
+// summary: Declares FileFlusher, which flushes files under requested directories and cancels earlier requests for the same directory.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BROWSER_CONTEXT_HELPER_FILE_FLUSHER_H_
 #define CHROMEOS_ASH_COMPONENTS_BROWSER_CONTEXT_HELPER_FILE_FLUSHER_H_
 

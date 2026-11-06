@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Concierge client header for testing
+// summary: Declares FakeConciergeClient, a light mock of ConciergeClient with settable responses, call counters, and observer notification helpers for tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_CONCIERGE_FAKE_CONCIERGE_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_CONCIERGE_FAKE_CONCIERGE_CLIENT_H_
 

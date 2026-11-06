@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build configuration for the biod D-Bus client
+summary: Defines the biod component, its test_support source_set and the biod_proto proto_library for the biometrics D-Bus client.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the chaps D-Bus client
+summary: Defines GN targets for the chaps component, the test support static library, and the unit tests in the ChromeOS ash D-Bus chaps directory.

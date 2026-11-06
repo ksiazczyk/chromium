@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Concierge D-Bus client implementation
+// summary: Implements the D-Bus client for the Concierge service, handling VM start/stop calls, disk image operations, and signal observer notifications.
+// ---
+
 #include "chromeos/ash/components/dbus/concierge/concierge_client.h"
 
 #include <string>

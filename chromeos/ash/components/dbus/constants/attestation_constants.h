@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attestation enums and key constants
+// summary: Declares attestation key types, certificate profiles, statuses, Verified Access and Privacy CA types, plus exported key name constants for ChromeOS.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_CONSTANTS_ATTESTATION_CONSTANTS_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_CONSTANTS_ATTESTATION_CONSTANTS_H_
 

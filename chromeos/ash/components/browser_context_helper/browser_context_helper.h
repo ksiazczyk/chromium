@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserContextHelper class declaration
+// summary: Declares BrowserContextHelper and its Delegate interface for resolving BrowserContexts by path, account id, and off-the-record relationships.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BROWSER_CONTEXT_HELPER_BROWSER_CONTEXT_HELPER_H_
 #define CHROMEOS_ASH_COMPONENTS_BROWSER_CONTEXT_HELPER_BROWSER_CONTEXT_HELPER_H_
 

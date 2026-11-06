@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Cicerone client implementation
+// summary: Implements the fake CiceroneClient with default success responses and observer notification helpers so tests can exercise code that uses CiceroneClient.
+// ---
+
 #include "chromeos/ash/components/dbus/cicerone/fake_cicerone_client.h"
 
 #include <utility>

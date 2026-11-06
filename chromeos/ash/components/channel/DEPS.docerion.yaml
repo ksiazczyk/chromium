@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the channel component
+summary: Allows the channel component to include headers from components/version_info.

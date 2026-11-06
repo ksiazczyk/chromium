@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake ArcMidisClient header
+// summary: Declares FakeArcMidisClient, a fake ArcMidisClient D-Bus client used in place of the real client in tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_ARC_FAKE_ARC_MIDIS_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_ARC_FAKE_ARC_MIDIS_CLIENT_H_
 

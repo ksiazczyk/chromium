@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserType enum
+// summary: Defines the BrowserType enum listing browser kinds such as app, popup, DevTools, and normal.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BROWSER_DELEGATE_BROWSER_TYPE_H_
 #define CHROMEOS_ASH_COMPONENTS_BROWSER_DELEGATE_BROWSER_TYPE_H_
 

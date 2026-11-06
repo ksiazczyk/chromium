@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser context type checks implementation
+// summary: Implements predicates that identify signin, lock-screen, shimless RMA and user browser contexts by their directory base names.
+// ---
+
 #include "chromeos/ash/components/browser_context_helper/browser_context_types.h"
 
 #include "base/files/file_path.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File flusher unit tests
+// summary: Unit tests checking that FileFlusher flushes the expected files and handles duplicate, paused and canceled requests.
+// ---
+
 #include "chromeos/ash/components/browser_context_helper/file_flusher.h"
 
 #include <map>

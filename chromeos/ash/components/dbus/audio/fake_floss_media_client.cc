@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake FlossMediaClient implementation
+// summary: Fake Floss media client whose player status, metadata, and position methods are unimplemented stubs standing in for the real D-Bus client.
+// ---
+
 #include "chromeos/ash/components/dbus/audio/fake_floss_media_client.h"
 
 #include <utility>

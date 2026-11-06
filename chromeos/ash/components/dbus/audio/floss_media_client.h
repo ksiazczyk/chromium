@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlossMediaClient interface header
+// summary: Declares the FlossMediaClient interface for communicating with the Floss media interface, including initialization, shutdown and player metadata setters.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_AUDIO_FLOSS_MEDIA_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_AUDIO_FLOSS_MEDIA_CLIENT_H_
 

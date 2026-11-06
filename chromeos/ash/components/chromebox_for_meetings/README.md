@@ -1,3 +1,9 @@
+---
+type: readme
+title: Chromebox for Meetings Features
+summary: Documents the CfM feature flags and parameters such as CfmMojoServices and ERPTelemetryService, with commands to enable them on a device.
+---
+
 # Chromebox for Meetings Features
 
 Note: Feature Flags are run time flags

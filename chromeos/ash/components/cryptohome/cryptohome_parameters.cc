@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cryptohome identification and key definition implementations
+// summary: Implements Identification, KeyDefinition and helpers that build AccountIdentifier messages for cryptohome user and key parameters.
+// ---
+
 #include "chromeos/ash/components/cryptohome/cryptohome_parameters.h"
 
 #include <stddef.h>

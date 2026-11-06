@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for camera_presence_notifier
+summary: Delegates code ownership for this directory to the owners of the camera app UI component.

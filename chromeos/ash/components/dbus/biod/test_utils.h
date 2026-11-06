@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Biod DBus client test utilities
+// summary: Declares copy helper functions and TestBiodObserver, a BiodClient::Observer implementation that records enroll and auth scan callbacks for biod tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_BIOD_TEST_UTILS_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_BIOD_TEST_UTILS_H_
 

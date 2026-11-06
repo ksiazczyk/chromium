@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChunneldClient interface header
+// summary: Declares the ChunneldClient interface for communicating with and monitoring the chunneld service, including observer and lifecycle methods.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_CHUNNELD_CHUNNELD_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_CHUNNELD_CHUNNELD_CLIENT_H_
 

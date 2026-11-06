@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Channel info header
+// summary: Declares release channel name constants and the GetChannel and GetChannelName APIs for Ash.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_CHANNEL_CHANNEL_INFO_H_
 #define CHROMEOS_ASH_COMPONENTS_CHANNEL_CHANNEL_INFO_H_
 

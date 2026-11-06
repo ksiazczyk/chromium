@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Carrier lock shared result enum and callback
+// summary: Defines the shared Result error enum used for metrics and the callback type used across carrier lock components.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_CARRIER_LOCK_COMMON_H_
 #define CHROMEOS_ASH_COMPONENTS_CARRIER_LOCK_COMMON_H_
 

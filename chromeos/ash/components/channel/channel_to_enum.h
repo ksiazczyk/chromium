@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Channel to enum header
+// summary: Declares the ChannelToEnum function that converts a release track name to a version_info::Channel.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_CHANNEL_CHANNEL_TO_ENUM_H_
 #define CHROMEOS_ASH_COMPONENTS_CHANNEL_CHANNEL_TO_ENUM_H_
 

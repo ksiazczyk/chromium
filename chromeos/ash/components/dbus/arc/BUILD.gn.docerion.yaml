@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for ARC D-Bus clients
+summary: Defines the GN build targets for the ash ARC D-Bus client component and its protobuf library.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the Concierge D-Bus client component
+summary: Defines the Concierge component, its proto library, include config, and dependencies for the ChromeOS ash D-Bus concierge client.

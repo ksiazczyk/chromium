@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake ArcKeymasterClient header
+// summary: Declares FakeArcKeymasterClient, a fake ArcKeymasterClient D-Bus client for tests whose Init is a no-op and whose Mojo bootstrap reports failure.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_ARC_FAKE_ARC_KEYMASTER_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_ARC_FAKE_ARC_KEYMASTER_CLIENT_H_
 

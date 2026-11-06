@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VolumeState implementation
+// summary: Implements the VolumeState constructor and ToString method for output volume, mute and input gain state.
+// ---
+
 #include "chromeos/ash/components/dbus/audio/volume_state.h"
 
 #include "base/format_macros.h"

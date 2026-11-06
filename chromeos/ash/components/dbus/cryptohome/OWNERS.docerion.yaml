@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the cryptohome DBus directory
+summary: Lists the Chromium developers responsible for reviewing changes to the cryptohome DBus component directory.

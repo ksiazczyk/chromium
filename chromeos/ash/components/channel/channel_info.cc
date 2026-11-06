@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Channel info implementation
+// summary: Implements GetChannel and GetChannelName, reading the ChromeOS release track for branded builds.
+// ---
+
 #include "chromeos/ash/components/channel/channel_info.h"
 
 #include "base/system/sys_info.h"

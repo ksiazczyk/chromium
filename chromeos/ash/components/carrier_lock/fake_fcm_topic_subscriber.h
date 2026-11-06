@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake FCM topic subscriber declaration
+// summary: Declares a fake FcmTopicSubscriber with setters for tokens, results and notifications used in tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_CARRIER_LOCK_FAKE_FCM_TOPIC_SUBSCRIBER_H_
 #define CHROMEOS_ASH_COMPONENTS_CARRIER_LOCK_FAKE_FCM_TOPIC_SUBSCRIBER_H_
 

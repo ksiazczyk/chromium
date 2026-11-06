@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake FlossMediaClient for Linux desktop
+// summary: Declares a fake FlossMediaClient implementation used on Linux desktop, with stubs for setting player playback status, identity, position, duration and metadata.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_AUDIO_FAKE_FLOSS_MEDIA_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_AUDIO_FAKE_FLOSS_MEDIA_CLIENT_H_
 

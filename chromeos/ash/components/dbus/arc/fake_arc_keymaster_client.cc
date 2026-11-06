@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake ArcKeymasterClient implementation
+// summary: Implements FakeArcKeymasterClient, which reports failure for BootstrapMojoConnection without contacting a real D-Bus service.
+// ---
+
 #include "chromeos/ash/components/dbus/arc/fake_arc_keymaster_client.h"
 
 #include <utility>

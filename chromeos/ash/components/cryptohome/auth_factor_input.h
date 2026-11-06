@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthFactorInput variant class for cryptohome authentication factors
+// summary: Defines a move-only variant class holding password, PIN, recovery, smart card, kiosk or fingerprint inputs used to create or authenticate auth factors.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_CRYPTOHOME_AUTH_FACTOR_INPUT_H_
 #define CHROMEOS_ASH_COMPONENTS_CRYPTOHOME_AUTH_FACTOR_INPUT_H_
 

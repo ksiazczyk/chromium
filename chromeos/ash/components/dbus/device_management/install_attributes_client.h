@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install attributes D-Bus client interface
+// summary: Declares the InstallAttributesClient singleton used to talk to the org.chromium.InstallAttributes interface of device_managementd, with real and fake initialization.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_DEVICE_MANAGEMENT_INSTALL_ATTRIBUTES_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_DEVICE_MANAGEMENT_INSTALL_ATTRIBUTES_CLIENT_H_
 

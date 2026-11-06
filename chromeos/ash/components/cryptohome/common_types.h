@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Strong alias types for cryptohome keys and credentials
+// summary: Defines strongly typed aliases for key labels, raw PINs and passwords, salts and component versions, plus a knowledge factor hash algorithm enum.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_CRYPTOHOME_COMMON_TYPES_H_
 #define CHROMEOS_ASH_COMPONENTS_CRYPTOHOME_COMMON_TYPES_H_
 

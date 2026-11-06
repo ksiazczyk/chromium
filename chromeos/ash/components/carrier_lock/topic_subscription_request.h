@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FCM topic subscription request header
+// summary: Declares TopicSubscriptionRequest and its RequestInfo struct for obtaining GCM subscription IDs for topic subscriptions and unsubscriptions.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_CARRIER_LOCK_TOPIC_SUBSCRIPTION_REQUEST_H_
 #define CHROMEOS_ASH_COMPONENTS_CARRIER_LOCK_TOPIC_SUBSCRIPTION_REQUEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZrVendorOsClient D-Bus client interface
+// summary: Declares the ZrVendorOsClient interface for waiting on the zrvendorOs_service to become available on D-Bus, with lifecycle statics.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_BEAM_ZR_VENDOR_OS_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_BEAM_ZR_VENDOR_OS_CLIENT_H_
 

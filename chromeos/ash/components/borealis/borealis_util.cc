@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Borealis window identification helpers implementation
+// summary: Implements helpers that read Wayland app or startup IDs from an aura window and check whether it belongs to Borealis.
+// ---
+
 #include "chromeos/ash/components/borealis/borealis_util.h"
 
 #include "base/strings/string_util.h"

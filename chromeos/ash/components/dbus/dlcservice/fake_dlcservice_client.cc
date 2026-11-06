@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeDlcserviceClient implementation
+// summary: Implements a fake DlcserviceClient that simulates DLC install, uninstall, purge, and state queries for use in tests.
+// ---
+
 #include "chromeos/ash/components/dbus/dlcservice/fake_dlcservice_client.h"
 
 #include <string_view>

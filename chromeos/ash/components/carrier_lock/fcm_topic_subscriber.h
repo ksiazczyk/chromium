@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FCM topic subscriber interface
+// summary: Interface for registering with Firebase Cloud Messaging and subscribing to a topic to receive notifications when the Carrier Lock configuration changes.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_CARRIER_LOCK_FCM_TOPIC_SUBSCRIBER_H_
 #define CHROMEOS_ASH_COMPONENTS_CARRIER_LOCK_FCM_TOPIC_SUBSCRIBER_H_
 

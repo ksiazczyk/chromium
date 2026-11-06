@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChapsUtil test fakes implementation
+// summary: Implements FakeChapsUtil, which generates RSA keys via NSS, and ScopedChapsUtilOverride, which swaps in the fake for tests.
+// ---
+
 #include "chromeos/ash/components/chaps_util/test_util.h"
 
 #include <pk11pub.h>

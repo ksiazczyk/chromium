@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrasAudioClient D-Bus client implementation
+// summary: Production implementation of the client that communicates with the cras audio D-Bus service and forwards signals such as mute and node changes to observers.
+// ---
+
 #include "chromeos/ash/components/dbus/audio/cras_audio_client.h"
 
 #include <stdint.h>

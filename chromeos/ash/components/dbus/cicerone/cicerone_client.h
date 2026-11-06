@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CiceroneClient interface and observer API
+// summary: Declares the CiceroneClient D-Bus client interface and its Observer class with callbacks for container lifecycle, app, file watch, and disk space signals.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_CICERONE_CICERONE_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_CICERONE_CICERONE_CLIENT_H_
 

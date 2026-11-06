@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake CfmHotlineClient implementation
+// summary: Implements a fake hotline client that reports success for Mojo bootstrap and can emit fake service request signals to observers.
+// ---
+
 #include "chromeos/ash/components/dbus/chromebox_for_meetings/fake_cfm_hotline_client.h"
 
 #include "base/functional/bind.h"

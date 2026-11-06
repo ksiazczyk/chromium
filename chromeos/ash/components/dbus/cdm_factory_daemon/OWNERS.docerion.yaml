@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for cdm_factory_daemon
+summary: Lists xhwang@chromium.org as the code owner for the cdm_factory_daemon directory.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for the ash DBus audio component
+summary: GN build file defining the ash_dbus_audio component sources and the unit_tests source set for the audio D-Bus clients.

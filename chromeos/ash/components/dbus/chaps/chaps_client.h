@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChapsClient interface for the Chaps daemon over D-Bus
+// summary: 'Declares the ChapsClient interface, callbacks, and lifecycle methods for PKCS #11 operations including sessions, objects, encryption, signing, and key generation.'
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_CHAPS_CHAPS_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_CHAPS_CHAPS_CLIENT_H_
 

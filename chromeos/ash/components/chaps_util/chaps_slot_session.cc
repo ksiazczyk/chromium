@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChapsSlotSession PKCS#11 session implementation
+// summary: Implements ChapsSlotSession by loading libchaps.so and performing PKCS#11 operations such as opening sessions, creating objects, and generating key pairs.
+// ---
+
 #include "chromeos/ash/components/chaps_util/chaps_slot_session.h"
 
 #include <dlfcn.h>

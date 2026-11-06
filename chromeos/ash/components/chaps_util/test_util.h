@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChapsUtil test fakes declarations
+// summary: Declares FakeChapsUtil and ScopedChapsUtilOverride, test helpers that fake ChapsUtil key generation and track generated SPKIs.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_CHAPS_UTIL_TEST_UTIL_H_
 #define CHROMEOS_ASH_COMPONENTS_CHAPS_UTIL_TEST_UTIL_H_
 

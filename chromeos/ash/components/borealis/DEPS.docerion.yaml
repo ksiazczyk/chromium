@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Borealis DEPS include rules
+summary: Allows the borealis component to include headers from the components/exo directory.

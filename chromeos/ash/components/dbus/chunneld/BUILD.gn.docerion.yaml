@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the chunneld D-Bus client component
+summary: GN build file that defines the ash_chunneld component and its chunneld proto library for the Chrome OS ash D-Bus client.

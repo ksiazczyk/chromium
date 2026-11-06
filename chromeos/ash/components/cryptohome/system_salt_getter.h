@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System salt getter header
+// summary: Declares the SystemSaltGetter class that fetches and caches the cryptohome system salt and exposes raw and hex-encoded accessors.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_CRYPTOHOME_SYSTEM_SALT_GETTER_H_
 #define CHROMEOS_ASH_COMPONENTS_CRYPTOHOME_SYSTEM_SALT_GETTER_H_
 

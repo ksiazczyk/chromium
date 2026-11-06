@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auth factor conversion API declarations
+// summary: Declares functions to serialize and deserialize auth factors and auth inputs between Chrome objects and protobufs.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_CRYPTOHOME_AUTH_FACTOR_CONVERSIONS_H_
 #define CHROMEOS_ASH_COMPONENTS_CRYPTOHOME_AUTH_FACTOR_CONVERSIONS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Provisioning config fetcher unit tests
+// summary: Unit tests for ProvisioningConfigFetcherImpl covering successful config requests plus empty and invalid responses using a test URL loader factory.
+// ---
+
 #include "base/base64.h"
 #include "base/json/json_reader.h"
 #include "base/strings/string_util.h"

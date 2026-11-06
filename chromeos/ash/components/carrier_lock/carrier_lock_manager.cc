@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Carrier lock manager implementation
+// summary: Implements the manager that verifies PSM claims, fetches lock configuration, applies modem locks and handles FCM update notifications.
+// ---
+
 #include "chromeos/ash/components/carrier_lock/carrier_lock_manager.h"
 
 #include <string_view>

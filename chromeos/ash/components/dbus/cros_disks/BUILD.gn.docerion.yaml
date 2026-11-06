@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the ash cros_disks DBus client
+summary: Defines the ash_cros_disks component and its unit test source set, listing the client sources and their dependencies.

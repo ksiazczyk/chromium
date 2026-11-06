@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FCM topic subscriber unit tests
+// summary: Unit tests for FcmTopicSubscriberImpl covering token requests, successful topic subscription and notification handling with a fake GCM driver.
+// ---
+
 #include "chromeos/ash/components/carrier_lock/fcm_topic_subscriber_impl.h"
 
 #include "base/base64.h"

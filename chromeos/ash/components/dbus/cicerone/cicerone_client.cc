@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cicerone D-Bus client implementation
+// summary: Implements CiceroneClient, sending D-Bus requests to the Cicerone service and connecting its container, app list, and progress signals for observers.
+// ---
+
 #include "chromeos/ash/components/dbus/cicerone/cicerone_client.h"
 
 #include <string>

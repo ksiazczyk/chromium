@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake install attributes client implementation
+// summary: Implements an in-process fake of the install attributes D-Bus client that loads attributes from a stub file and tracks firmware management parameter calls for tests.
+// ---
+
 #include "chromeos/ash/components/dbus/device_management/fake_install_attributes_client.h"
 
 #include "base/compiler_specific.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for GetCryptohomeId
+// summary: Unit tests verifying GetCryptohomeId returns the user email for UNKNOWN and GOOGLE account types.
+// ---
+
 #include "chromeos/ash/components/cryptohome/cryptohome_util.h"
 
 #include "google_apis/gaia/gaia_id.h"

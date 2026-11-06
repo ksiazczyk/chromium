@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chunneld D-Bus client implementation
+// summary: Implements ChunneldClient, which communicates with the chunneld D-Bus service and notifies observers when the service starts or stops.
+// ---
+
 #include "chromeos/ash/components/dbus/chunneld/chunneld_client.h"
 
 #include <memory>

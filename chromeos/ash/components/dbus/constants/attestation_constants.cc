@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attestation key name constants
+// summary: Defines constant key name strings for enterprise, content protection, soft bind, device setup, device trust, and Beam device attestation keys.
+// ---
+
 #include "chromeos/ash/components/dbus/constants/attestation_constants.h"
 
 namespace ash::attestation {

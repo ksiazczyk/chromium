@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChapsUtil default implementation
+// summary: Implements software-backed RSA key pair generation over a ChapsSlotSession, including retry handling for closed or invalid PKCS#11 sessions.
+// ---
+
 #include "chromeos/ash/components/chaps_util/chaps_util_impl.h"
 
 #include <dlfcn.h>

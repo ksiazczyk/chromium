@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the biod D-Bus client
+summary: Points the biod directory's metadata mixins at the ash login lock metadata.

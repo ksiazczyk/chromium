@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake ArcAppfuseProviderClient implementation
+// summary: Fake ArcAppfuseProviderClient that posts empty results for mount, unmount and open-file calls instead of talking to a real D-Bus service.
+// ---
+
 #include "chromeos/ash/components/dbus/arc/fake_arc_appfuse_provider_client.h"
 
 #include <utility>

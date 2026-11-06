@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ash dbus
+summary: Restricts allowed dependencies for the directory, including a list of banned Abseil features to keep in sync with the root DEPS.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Borealis window identification helper declarations
+// summary: Declares the Borealis window ID prefixes and the predicates for recognizing Borealis windows and their Wayland IDs.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOREALIS_BOREALIS_UTIL_H_
 #define CHROMEOS_ASH_COMPONENTS_BOREALIS_BOREALIS_UTIL_H_
 

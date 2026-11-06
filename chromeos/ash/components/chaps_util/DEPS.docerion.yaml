@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for chaps_util
+summary: Allows the chaps_util directory to include headers from third_party/boringssl.

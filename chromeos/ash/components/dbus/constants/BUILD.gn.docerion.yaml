@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build file for ash DBus constants
+summary: GN build definition for the ash_dbus_constants component, listing the attestation and cryptohome key delegate constant sources.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FCM topic subscriber implementation
+// summary: Implements FcmTopicSubscriber using GCMDriver and InstanceID to request tokens, subscribe to topics and deliver Carrier Lock notifications.
+// ---
+
 #include "chromeos/ash/components/carrier_lock/fcm_topic_subscriber_impl.h"
 
 #include "base/functional/callback_helpers.h"

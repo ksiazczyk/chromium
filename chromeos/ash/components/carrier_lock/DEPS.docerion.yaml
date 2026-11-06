@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Carrier lock directory include rules
+summary: Lists the include paths that files in the carrier lock directory are allowed to depend on.

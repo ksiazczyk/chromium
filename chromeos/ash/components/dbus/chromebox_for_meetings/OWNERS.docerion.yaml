@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owner reference for the Chromebox for Meetings D-Bus folder
+summary: Points to the parent chromebox_for_meetings OWNERS file that lists the approvers for this directory.

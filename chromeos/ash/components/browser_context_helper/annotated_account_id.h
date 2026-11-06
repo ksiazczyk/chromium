@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnnotatedAccountId class declaration
+// summary: Declares the AnnotatedAccountId class that maps an Ash profile to its corresponding ChromeOS user AccountId.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BROWSER_CONTEXT_HELPER_ANNOTATED_ACCOUNT_ID_H_
 #define CHROMEOS_ASH_COMPONENTS_BROWSER_CONTEXT_HELPER_ANNOTATED_ACCOUNT_ID_H_
 

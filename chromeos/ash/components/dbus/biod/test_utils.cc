@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test utilities for biod client tests
+// summary: Provides callback copy helpers and a TestBiodObserver that counts enroll, auth and failure events for biod client tests.
+// ---
+
 #include "chromeos/ash/components/dbus/biod/test_utils.h"
 
 #include "base/check.h"

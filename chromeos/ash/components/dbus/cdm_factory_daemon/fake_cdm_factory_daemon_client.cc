@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake CdmFactoryDaemonClient implementation
+// summary: No-op fake implementation of the client that always reports success, for use when the real D-Bus service is unavailable.
+// ---
+
 #include "chromeos/ash/components/dbus/cdm_factory_daemon/fake_cdm_factory_daemon_client.h"
 
 #include <utility>

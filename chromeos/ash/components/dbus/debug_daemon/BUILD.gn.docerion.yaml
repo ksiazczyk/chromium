@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Debug daemon component build configuration
+summary: GN build file defining the debug_daemon component, its dependencies, and the source files it compiles.

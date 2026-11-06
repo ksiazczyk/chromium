@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake ZrVendorOsClient implementation
+// summary: Fake D-Bus client that immediately reports the zrvendorOs service as available, for use in test environments.
+// ---
+
 #include "chromeos/ash/components/dbus/beam/fake_zr_vendor_os_client.h"
 
 #include <utility>

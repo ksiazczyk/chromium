@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BiodClient
+// summary: Tests the production BiodClient using mock D-Bus bus and object proxy objects, simulating method responses and signals.
+// ---
+
 #include "chromeos/ash/components/dbus/biod/biod_client.h"
 
 #include <map>

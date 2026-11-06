@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetCryptohomeId helper declaration
+// summary: Declares GetCryptohomeId, a helper returning the cryptohome account id for a given AccountId.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_CRYPTOHOME_CRYPTOHOME_UTIL_H_
 #define CHROMEOS_ASH_COMPONENTS_CRYPTOHOME_CRYPTOHOME_UTIL_H_
 

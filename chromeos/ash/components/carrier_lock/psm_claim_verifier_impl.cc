@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PSM claim verifier implementation
+// summary: Implements PSM claim verification by sending OPRF and query requests to the Private Set Membership service to check Carrier Lock group membership.
+// ---
+
 #include "chromeos/ash/components/carrier_lock/psm_claim_verifier_impl.h"
 
 #include <optional>

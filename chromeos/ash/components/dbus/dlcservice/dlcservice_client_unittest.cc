@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DlcserviceClient
+// summary: Exercises DlcserviceClient against mock D-Bus bus and object proxy objects, covering install requests, error responses, and DLC state signal handling.
+// ---
+
 #include "chromeos/ash/components/dbus/dlcservice/dlcservice_client.h"
 
 #include <algorithm>

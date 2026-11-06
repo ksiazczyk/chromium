@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Topic subscription request unit tests
+// summary: Unit tests for TopicSubscriptionRequest, simulating HTTP responses to verify FCM topic subscribe and unsubscribe requests and their callbacks.
+// ---
+
 #include "chromeos/ash/components/carrier_lock/topic_subscription_request.h"
 #include "chromeos/ash/components/carrier_lock/common.h"
 

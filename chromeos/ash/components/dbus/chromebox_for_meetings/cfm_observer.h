@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CfmObserver interface header
+// summary: Defines the observer interface notified when the hotline daemon requests a service, matching service IDs against Mojom interface names.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_CHROMEBOX_FOR_MEETINGS_CFM_OBSERVER_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_CHROMEBOX_FOR_MEETINGS_CFM_OBSERVER_H_
 

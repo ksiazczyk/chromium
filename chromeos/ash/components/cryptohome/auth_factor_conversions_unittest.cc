@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Auth factor conversion unit tests
+// summary: Unit tests verifying factor type conversion behavior and round-trip serialization of password, PIN, and other factor metadata.
+// ---
+
 #include "chromeos/ash/components/cryptohome/auth_factor_conversions.h"
 
 #include <memory>

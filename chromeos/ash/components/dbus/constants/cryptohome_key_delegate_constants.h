@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptohomeKeyDelegate D-Bus service constants header
+// summary: Declares exported constants for the CryptohomeKeyDelegate D-Bus service name and path used by cryptohome.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_CONSTANTS_CRYPTOHOME_KEY_DELEGATE_CONSTANTS_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_CONSTANTS_CRYPTOHOME_KEY_DELEGATE_CONSTANTS_H_
 

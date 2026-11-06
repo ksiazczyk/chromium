@@ -1,3 +1,9 @@
+---
+type: readme
+title: src/chromeos/ash/components/dbus
+summary: Describes the ash-specific D-Bus client libraries and explains that new clients should not be added to DBusThreadManager.
+---
+
 # src/chromeos/ash/components/dbus
 
 This directory contains ash-specific D-Bus client libararies and utility codes.

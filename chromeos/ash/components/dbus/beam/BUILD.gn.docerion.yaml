@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Beam component build configuration
+summary: GN build file defining the ash_beam component with its sources and dependencies on base, chromeos/dbus/common, and dbus.

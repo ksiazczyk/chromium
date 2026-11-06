@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake anomaly detector client interface
+// summary: Declares the fake AnomalyDetectorClient used for testing, with methods to simulate signal connection and dispatch corruption events.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_ANOMALY_DETECTOR_FAKE_ANOMALY_DETECTOR_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_ANOMALY_DETECTOR_FAKE_ANOMALY_DETECTOR_CLIENT_H_
 

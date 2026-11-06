@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auth factor input implementation
+// summary: Implements the AuthFactorInput variant holding password, PIN, kiosk, smart card, and recovery inputs with usability checks.
+// ---
+
 #include "chromeos/ash/components/cryptohome/auth_factor_input.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake CecServiceClient header
+// summary: Declares the fake CecServiceClient with call counters and settable TV power states used in place of the real D-Bus client during testing.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_CEC_SERVICE_FAKE_CEC_SERVICE_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_CEC_SERVICE_FAKE_CEC_SERVICE_CLIENT_H_
 

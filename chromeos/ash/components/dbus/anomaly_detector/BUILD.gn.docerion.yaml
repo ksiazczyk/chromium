@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Anomaly detector build configuration
+summary: GN build file defining the ash_anomaly_detector component with its DBus client sources and the anomaly detector protobuf library.

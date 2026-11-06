@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the cicerone directory
+summary: Delegates code ownership of the cicerone D-Bus client directory to the guest_os OWNERS file for reviewer approval.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the cdm_factory_daemon component
+summary: GN build definition that compiles the CDM factory daemon D-Bus client and its fake implementation as a ChromeOS-only component.

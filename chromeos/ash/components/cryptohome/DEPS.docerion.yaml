@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for cryptohome
+summary: Declares allowed include dependencies for the directory, including detailed restrictions on which Abseil features may be used.

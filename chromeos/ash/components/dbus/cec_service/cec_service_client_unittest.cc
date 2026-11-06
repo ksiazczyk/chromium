@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CecServiceClient unit tests
+// summary: Verifies that SendStandBy, SendWakeUp, and power state queries issue the expected D-Bus messages using a mock bus and object proxy.
+// ---
+
 #include "chromeos/ash/components/dbus/cec_service/cec_service_client.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Concierge D-Bus client interface
+// summary: Declares the ConciergeClient interface with observer classes and methods for managing VMs and disk images over D-Bus.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_CONCIERGE_CONCIERGE_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_CONCIERGE_CONCIERGE_CLIENT_H_
 

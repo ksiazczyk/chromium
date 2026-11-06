@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Binary log files reader class declaration
+// summary: Declares BinaryLogFilesReader, a helper that fetches one binary feedback log type from debugd over D-Bus.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_DEBUG_DAEMON_BINARY_LOG_FILES_READER_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_DEBUG_DAEMON_BINARY_LOG_FILES_READER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Cryptohome DBus client build configuration
+summary: GN build file defining the ash_dbus_cryptohome component and the attestation and cryptohome proto library targets.

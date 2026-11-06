@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake debug daemon client implementation
+// summary: Implements a no-op fake DebugDaemonClient used on Linux desktop builds and in tests, returning canned or empty results.
+// ---
+
 #include "chromeos/ash/components/dbus/debug_daemon/fake_debug_daemon_client.h"
 
 #include <stddef.h>

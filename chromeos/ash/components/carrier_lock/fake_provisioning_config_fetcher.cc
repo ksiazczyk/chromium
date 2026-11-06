@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake provisioning config fetcher implementation
+// summary: Fake ProvisioningConfigFetcher that returns preset configuration, FCM topic, restriction mode and result values for use in Carrier Lock unit tests.
+// ---
+
 #include "chromeos/ash/components/carrier_lock/fake_provisioning_config_fetcher.h"
 
 namespace ash::carrier_lock {

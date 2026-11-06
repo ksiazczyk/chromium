@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CecServiceClient interface for HDMI CEC power management
+// summary: Declares the CecServiceClient API for putting HDMI CEC displays in standby, waking them up, and querying their power state via D-Bus.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_CEC_SERVICE_CEC_SERVICE_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_CEC_SERVICE_CEC_SERVICE_CLIENT_H_
 

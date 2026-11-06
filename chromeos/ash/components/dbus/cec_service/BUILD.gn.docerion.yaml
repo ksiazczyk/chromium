@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the cec_service component
+summary: Defines the ash_cec_service component target with its D-Bus client sources and a unit_tests source_set for the CecServiceClient tests.

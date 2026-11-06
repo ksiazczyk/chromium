@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake ArcKeyMintClient implementation
+// summary: Implements the fake ArcKeyMintClient D-Bus client with a no-op Init and a BootstrapMojoConnection that asynchronously reports failure.
+// ---
+
 #include "chromeos/ash/components/dbus/arc/fake_arc_keymint_client.h"
 
 #include <utility>

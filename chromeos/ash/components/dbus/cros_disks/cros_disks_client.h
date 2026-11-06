@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrosDisks DBus client interface
+// summary: Declares the CrosDisksClient interface with mount types, disk info, mount events and callbacks for interacting with the cros-disks service.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_CROS_DISKS_CROS_DISKS_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_CROS_DISKS_CROS_DISKS_CLIENT_H_
 

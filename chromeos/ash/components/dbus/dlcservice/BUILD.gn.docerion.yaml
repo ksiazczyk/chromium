@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for the dlcservice client
+summary: Defines the GN targets for the dlcservice D-Bus client component, its unit tests, and the dlcservice protobuf library.

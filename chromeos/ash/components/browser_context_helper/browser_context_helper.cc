@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserContextHelper implementation
+// summary: Implements BrowserContextHelper, tracking User and BrowserContext relationships, profile directory prefixes, and lookups by account or path.
+// ---
+
 #include "chromeos/ash/components/browser_context_helper/browser_context_helper.h"
 
 #include <string_view>

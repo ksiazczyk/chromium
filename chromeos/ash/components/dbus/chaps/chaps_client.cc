@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChapsClient implementation
+// summary: 'Implements the ChapsClient that sends PKCS #11 style commands such as sessions, objects, and crypto operations to the Chaps daemon over D-Bus.'
+// ---
+
 #include "chromeos/ash/components/dbus/chaps/chaps_client.h"
 
 #include <stdint.h>

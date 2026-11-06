@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake CecServiceClient implementation
+// summary: Implements the fake client that counts standby and wake-up calls and simulates display power state changes for testing.
+// ---
+
 #include "chromeos/ash/components/dbus/cec_service/fake_cec_service_client.h"
 
 #include "base/functional/bind.h"

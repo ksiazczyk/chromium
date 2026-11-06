@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PSM claim verifier implementation header
+// summary: Declares PsmClaimVerifierImpl, which communicates with the Private Set Membership service to determine modem carrier lock membership.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_CARRIER_LOCK_PSM_CLAIM_VERIFIER_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_CARRIER_LOCK_PSM_CLAIM_VERIFIER_IMPL_H_
 

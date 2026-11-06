@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for browser_context_helper
+summary: Chromium DEPS file restricting the allowed includes for the component, with extra allowances for unit test files.

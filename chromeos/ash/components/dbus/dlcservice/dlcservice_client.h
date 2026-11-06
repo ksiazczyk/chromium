@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DlcserviceClient class interface
+// summary: Declares the DlcserviceClient singleton API for installing, uninstalling, purging, and querying downloadable content modules, along with observer and callback types.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_DLCSERVICE_DLCSERVICE_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_DLCSERVICE_DLCSERVICE_CLIENT_H_
 
