@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync stopped reporter implementation
+// summary: Implements sending a network request to the sync server's event endpoint to inform it that sync was disabled on this device.
+// ---
+
 #include "components/sync/service/sync_stopped_reporter.h"
 
 #include <string>

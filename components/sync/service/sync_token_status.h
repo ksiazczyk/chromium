@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync token status struct
+// summary: Defines a struct holding sync server connection status and OAuth2 access token request times and errors.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_SYNC_TOKEN_STATUS_H_
 #define COMPONENTS_SYNC_SERVICE_SYNC_TOKEN_STATUS_H_
 

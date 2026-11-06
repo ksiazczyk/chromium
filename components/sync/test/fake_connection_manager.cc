@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake connection manager implementation
+// summary: Implements a fake sync server connection manager that simulates commits, get-updates responses, auth failures and store birthday checks in unit tests.
+// ---
+
 #include "components/sync/test/fake_connection_manager.h"
 
 #include <algorithm>

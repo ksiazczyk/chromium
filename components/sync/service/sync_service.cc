@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncService base implementation
+// summary: Implements shared SyncService methods such as sync feature state checks, engine initialization queries, and the setup-in-progress handle.
+// ---
+
 #include "components/sync/service/sync_service.h"
 
 #include <utility>

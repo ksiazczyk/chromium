@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncPrefsPolicyHandler implementation
+// summary: Enforces policy-disabled sync data types on user-controlled preferences so they remain off after a sync policy is lifted.
+// ---
+
 #include "components/sync/service/sync_prefs_policy_handler.h"
 
 #include <optional>

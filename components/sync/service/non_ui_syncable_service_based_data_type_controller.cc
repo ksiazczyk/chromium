@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Non-UI SyncableService-based data type controller implementation
+// summary: Implements a DataTypeController that integrates legacy SyncableService-based data types running on a non-UI model thread within the unified sync architecture.
+// ---
+
 #include "components/sync/service/non_ui_syncable_service_based_data_type_controller.h"
 
 #include <memory>

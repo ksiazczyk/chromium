@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LocalDataDescription unit tests
+// summary: Tests that domains are capped at three entries, sorted, deduplicated and rendered correctly by the display text helper.
+// ---
+
 #include "components/sync/service/local_data_description.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

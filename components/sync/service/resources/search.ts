@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search tab wiring for Sync Internals
+// summary: Connects the search query, submit, status, and result elements to SyncSearchManager and allows test overrides of the results list.
+// ---
+
 import 'chrome://resources/cr_elements/cr_splitter/cr_splitter.js';
 
 import {assert} from 'chrome://resources/js/assert.js';

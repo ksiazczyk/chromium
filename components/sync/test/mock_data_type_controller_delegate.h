@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockDataTypeControllerDelegate for sync tests
+// summary: Gmock mock of the sync DataTypeControllerDelegate interface, stubbing sync start, stop, and debugging callbacks for use in tests.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_MOCK_DATA_TYPE_CONTROLLER_DELEGATE_H_
 #define COMPONENTS_SYNC_TEST_MOCK_DATA_TYPE_CONTROLLER_DELEGATE_H_
 

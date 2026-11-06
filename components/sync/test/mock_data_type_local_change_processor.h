@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockDataTypeLocalChangeProcessor for sync tests
+// summary: Declares a gmock mock of DataTypeLocalChangeProcessor covering Put, Delete, metadata tracking, and unique position methods for sync tests.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_MOCK_DATA_TYPE_LOCAL_CHANGE_PROCESSOR_H_
 #define COMPONENTS_SYNC_TEST_MOCK_DATA_TYPE_LOCAL_CHANGE_PROCESSOR_H_
 

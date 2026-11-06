@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Nigori encryption test utilities header
+// summary: Declares KeyParamsForTesting and functions for building NigoriSpecifics with keystore decryptor tokens, keybags, and cross-user sharing public keys.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_NIGORI_TEST_UTILS_H_
 #define COMPONENTS_SYNC_TEST_NIGORI_TEST_UTILS_H_
 

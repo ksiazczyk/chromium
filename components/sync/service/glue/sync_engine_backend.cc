@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncEngineBackend implementation
+// summary: Implements SyncEngineBackend, relaying messages between SyncEngineImpl on the UI thread and the sync manager on the sync thread, including invalidation handling, Nigori storage and latency metrics.
+// ---
+
 #include "components/sync/service/glue/sync_engine_backend.h"
 
 #include <utility>

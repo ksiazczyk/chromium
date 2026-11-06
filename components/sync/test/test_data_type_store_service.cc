@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestDataTypeStoreService implementation
+// summary: Implements a test DataTypeStoreService that serves in-memory stores from a temporary sync data directory.
+// ---
+
 #include "components/sync/test/test_data_type_store_service.h"
 
 #include "base/task/sequenced_task_runner.h"

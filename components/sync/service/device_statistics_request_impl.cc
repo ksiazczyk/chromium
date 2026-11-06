@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceStatisticsRequestImpl implementation
+// summary: Implements the device statistics request, fetching OAuth access tokens and querying the sync server for device info entities over HTTP.
+// ---
+
 #include "components/sync/service/device_statistics_request_impl.h"
 
 #include <utility>

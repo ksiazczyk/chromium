@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Data type test utilities for gtest and gmock
+// summary: Declares gtest printing support and a HasDataTypes gmock matcher for DataTypeSet in syncer tests.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_DATA_TYPE_TEST_UTIL_H_
 #define COMPONENTS_SYNC_TEST_DATA_TYPE_TEST_UTIL_H_
 

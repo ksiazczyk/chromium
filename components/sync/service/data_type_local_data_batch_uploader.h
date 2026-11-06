@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataTypeLocalDataBatchUploader interface
+// summary: Declares an interface for data types with local and account storages to describe local data and move it into account storage.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_DATA_TYPE_LOCAL_DATA_BATCH_UPLOADER_H_
 #define COMPONENTS_SYNC_SERVICE_DATA_TYPE_LOCAL_DATA_BATCH_UPLOADER_H_
 

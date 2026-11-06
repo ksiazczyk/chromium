@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Embedded fake server adapter implementation
+// summary: Implements the adapter that exposes FakeServer as an HTTP sync protocol endpoint on an EmbeddedTestServer, handling threading and shutdown.
+// ---
+
 #include "components/sync/test/embedded_fake_server_adapter.h"
 
 #include <string_view>

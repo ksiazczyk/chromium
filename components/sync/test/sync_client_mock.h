@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SyncClientMock header
+// summary: Declares SyncClientMock, a gmock-based SyncClient whose methods such as GetPrefService and GetIdentityManager are mocked for sync service tests.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_SYNC_CLIENT_MOCK_H_
 #define COMPONENTS_SYNC_TEST_SYNC_CLIENT_MOCK_H_
 

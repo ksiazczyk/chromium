@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync node browser UI logic
+// summary: Implements the node browser that fetches all sync nodes, builds a sortable tree and renders per-node detail tables.
+// ---
+
 import 'chrome://resources/cr_elements/cr_splitter/cr_splitter.js';
 import 'chrome://resources/cr_elements/cr_tree/cr_tree.js';
 import 'chrome://resources/cr_elements/cr_tree/cr_tree_item.js';

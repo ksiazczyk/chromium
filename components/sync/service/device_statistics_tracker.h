@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device statistics tracker class declaration
+// summary: Declares DeviceStatisticsTracker, which sends a DeviceStatisticsRequest per account and records metrics about other devices and platforms once complete.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_DEVICE_STATISTICS_TRACKER_H_
 #define COMPONENTS_SYNC_SERVICE_DEVICE_STATISTICS_TRACKER_H_
 

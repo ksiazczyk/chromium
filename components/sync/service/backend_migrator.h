@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Backend migrator class declaration
+// summary: Declares BackendMigrator and MigrationObserver for migrating data types per the MIGRATION_DONE sync protocol code, with state tracking and observer support.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_BACKEND_MIGRATOR_H_
 #define COMPONENTS_SYNC_SERVICE_BACKEND_MIGRATOR_H_
 

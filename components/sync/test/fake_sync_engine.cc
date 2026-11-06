@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake sync engine implementation
+// summary: Implements a minimal fake SyncEngine that supports SyncServiceImpl initialization and records credentials, configure reasons and status for tests.
+// ---
+
 #include "components/sync/test/fake_sync_engine.h"
 
 #include <utility>

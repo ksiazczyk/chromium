@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceStatisticsRequestImpl class header
+// summary: Declares DeviceStatisticsRequestImpl, which fetches device statistics using the identity manager and network services.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_DEVICE_STATISTICS_REQUEST_IMPL_H_
 #define COMPONENTS_SYNC_SERVICE_DEVICE_STATISTICS_REQUEST_IMPL_H_
 

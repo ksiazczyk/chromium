@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Collaboration group test utilities header
+// summary: Declares collaboration_group_utils helpers that facilitate unit tests injecting or updating collaboration group entities in the fake sync server.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_COLLABORATION_GROUP_UTIL_H_
 #define COMPONENTS_SYNC_TEST_COLLABORATION_GROUP_UTIL_H_
 

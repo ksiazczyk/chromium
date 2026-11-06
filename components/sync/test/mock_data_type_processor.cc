@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockDataTypeProcessor implementation
+// summary: Implements a mock data type processor that simulates commit and update flows, queues tasks, and tracks commit requests for sync tests.
+// ---
+
 #include "components/sync/test/mock_data_type_processor.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HTTP POST provider routing sync requests to the fake server
+// summary: Implements a synchronous HTTP POST provider and factory that forward sync engine requests to the FakeServer during tests.
+// ---
+
 #include "components/sync/test/fake_server_http_post_provider.h"
 
 #include <utility>

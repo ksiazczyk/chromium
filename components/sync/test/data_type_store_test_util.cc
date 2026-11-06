@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Data type store test utilities implementation
+// summary: Implements DataTypeStoreTestUtil, which creates in-memory and forwarding data type stores and synchronously reads or writes store data in tests.
+// ---
+
 #include "components/sync/test/data_type_store_test_util.h"
 
 #include <memory>

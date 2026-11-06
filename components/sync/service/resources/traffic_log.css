@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Traffic log styles
+summary: Stylesheet for the sync traffic log, styling event entries and their expanded protocol detail view.
+*/
+
  #traffic-event-fullscreen-container {
   font-size: 1.5em;
 }

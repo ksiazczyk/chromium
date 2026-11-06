@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockUpdateHandler gmock mock header
+// summary: Declares a mock UpdateHandler that records progress markers and exposes counters for applied updates and pending invalidation collection.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_MOCK_UPDATE_HANDLER_H_
 #define COMPONENTS_SYNC_TEST_MOCK_UPDATE_HANDLER_H_
 

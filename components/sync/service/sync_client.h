@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncClient interface declaration
+// summary: Declares the SyncClient interface that embedders implement to supply dependencies such as prefs, identity manager, network time, and trusted vault to the sync API.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_SYNC_CLIENT_H_
 #define COMPONENTS_SYNC_SERVICE_SYNC_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncError class declaration
+// summary: Declares the SyncError class with error types for model, configuration, crypto and precondition failures used for sync debugging.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_SYNC_ERROR_H_
 #define COMPONENTS_SYNC_SERVICE_SYNC_ERROR_H_
 

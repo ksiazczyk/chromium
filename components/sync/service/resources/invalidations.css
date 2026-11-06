@@ -3,6 +3,12 @@
  * found in the LICENSE file.
  */
 
+/*docerion
+type: source
+title: Styles for the invalidations counters table
+summary: Stylesheet that adds striped row backgrounds to the invalidation counters table.
+*/
+
 #invalidation-counters-table tr:nth-child(odd) {
   background: rgb(239, 243, 255);
 }

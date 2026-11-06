@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SessionsHierarchy test helper for fake server
+// summary: Declares SessionsHierarchy, a fake_server test helper that models sync sessions as windows of tab URLs and supports equality checks and human-readable output.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_SESSIONS_HIERARCHY_H_
 #define COMPONENTS_SYNC_TEST_SESSIONS_HIERARCHY_H_
 

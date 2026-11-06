@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StubDataTypeSyncBridge implementation
+// summary: Implements a no-op DataTypeSyncBridge whose methods return empty results, providing a stub bridge for sync tests.
+// ---
+
 #include "components/sync/test/stub_data_type_sync_bridge.h"
 
 #include <utility>

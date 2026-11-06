@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake sync engine factory for sync tests
+// summary: Declares a fake SyncEngineFactory that creates FakeSyncEngine instances with configurable initialization behavior for sync service tests.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_FAKE_SYNC_ENGINE_FACTORY_H_
 #define COMPONENTS_SYNC_TEST_FAKE_SYNC_ENGINE_FACTORY_H_
 

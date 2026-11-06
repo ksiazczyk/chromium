@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync session durations metrics recorder unit tests
+// summary: Unit tests checking session duration histogram logging for signin, sync, and auth error state changes.
+// ---
+
 #include "components/sync/service/sync_session_durations_metrics_recorder.h"
 
 #include <memory>

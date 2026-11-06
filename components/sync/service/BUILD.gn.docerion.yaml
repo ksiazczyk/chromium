@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Sync service BUILD.gn build definition
+summary: GN build file defining the syncer service static library, listing its source files and its dependencies on base, sync engine, model, protocol, and other components.

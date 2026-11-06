@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Embedded fake server adapter class declaration
+// summary: Declares EmbeddedFakeServerAdapter, which hooks FakeServer into EmbeddedTestServer to serve realistic sync protocol requests in tests.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_EMBEDDED_FAKE_SERVER_ADAPTER_H_
 #define COMPONENTS_SYNC_TEST_EMBEDDED_FAKE_SERVER_ADAPTER_H_
 

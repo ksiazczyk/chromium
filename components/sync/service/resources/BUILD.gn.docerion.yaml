@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for sync service resources
+summary: GN build configuration that compiles the Sync Internals WebUI static files and TypeScript sources into a trusted webui target.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Backend migrator unit tests
+// summary: Tests that BackendMigrator transitions through its states during datatype migration, using a mocked DataTypeManager and mock reconfigure and completion callbacks.
+// ---
+
 #include "components/sync/service/backend_migrator.h"
 
 #include <memory>

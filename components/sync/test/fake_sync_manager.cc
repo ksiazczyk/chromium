@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake sync manager implementation for tests
+// summary: Implements a fake SyncManager that simulates configuration, downloaded types, invalidations and observer notifications for sync tests.
+// ---
+
 #include "components/sync/test/fake_sync_manager.h"
 
 #include <cstddef>

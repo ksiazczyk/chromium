@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trusted vault histogram recording helpers
+// summary: Records trusted vault boolean histograms with suffixes based on time since trusted vault migration, ranging from one day to 180 days.
+// ---
+
 #include "components/sync/service/trusted_vault_histograms.h"
 
 #include <string>

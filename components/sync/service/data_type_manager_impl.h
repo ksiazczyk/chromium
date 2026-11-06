@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataTypeManagerImpl class header
+// summary: Declares DataTypeManagerImpl, the DataTypeManager implementation that coordinates configuration, starting and stopping of sync data types.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_DATA_TYPE_MANAGER_IMPL_H_
 #define COMPONENTS_SYNC_SERVICE_DATA_TYPE_MANAGER_IMPL_H_
 

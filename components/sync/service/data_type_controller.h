@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataTypeController interface for managing a sync data type
+// summary: Declares the DataTypeController class that manages the lifecycle and state of a single syncable data type on the UI thread.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_DATA_TYPE_CONTROLLER_H_
 #define COMPONENTS_SYNC_SERVICE_DATA_TYPE_CONTROLLER_H_
 

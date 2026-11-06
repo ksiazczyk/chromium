@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History sync session durations metrics recorder
+// summary: Implements a recorder that logs browser session durations split by history sync state, subtracting inactive time, via ProfileMetricsService histograms.
+// ---
+
 #include "components/sync/service/history_sync_session_durations_metrics_recorder.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockSyncInvalidationsService gmock mock header
+// summary: Declares a gmock mock of SyncInvalidationsService covering listeners, FCM token observers, and interested data types for invalidation tests.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_MOCK_SYNC_INVALIDATIONS_SERVICE_H_
 #define COMPONENTS_SYNC_TEST_MOCK_SYNC_INVALIDATIONS_SERVICE_H_
 

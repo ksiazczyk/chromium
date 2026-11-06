@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SyncableServiceBasedDataTypeController
+// summary: Unit test verifying that SyncableServiceBasedDataTypeController methods safely handle a null SyncableService without crashing.
+// ---
+
 #include "components/sync/service/syncable_service_based_data_type_controller.h"
 
 #include "base/functional/callback_helpers.h"

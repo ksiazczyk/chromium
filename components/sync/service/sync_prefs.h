@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncPrefs class declaration
+// summary: Declares SyncPrefs and its observer interface for managing sync preferences such as selected types, setup completion state, and encryption tokens.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_SYNC_PREFS_H_
 #define COMPONENTS_SYNC_SERVICE_SYNC_PREFS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake data type controller for tests
+// summary: Declares FakeDataTypeController, a test double of DataTypeController that exposes model access, precondition state, and controller error simulation.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_FAKE_DATA_TYPE_CONTROLLER_H_
 #define COMPONENTS_SYNC_TEST_FAKE_DATA_TYPE_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake data type controller delegate for tests
+// summary: Declares a fake DataTypeControllerDelegate that simulates model startup, errors, and sync stopping behavior for testing data type controllers.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_FAKE_DATA_TYPE_CONTROLLER_DELEGATE_H_
 #define COMPONENTS_SYNC_TEST_FAKE_DATA_TYPE_CONTROLLER_DELEGATE_H_
 

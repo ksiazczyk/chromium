@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncServiceObserver interface
+// summary: Declares the SyncServiceObserver interface notified of sync service state changes, cycle completion, and shutdown.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_SYNC_SERVICE_OBSERVER_H_
 #define COMPONENTS_SYNC_SERVICE_SYNC_SERVICE_OBSERVER_H_
 

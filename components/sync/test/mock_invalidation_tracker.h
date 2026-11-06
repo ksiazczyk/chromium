@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock invalidation tracker for sync tests
+// summary: Declares a tracker that issues trackable mock invalidations and checks whether all of them are acknowledged or dropped.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_MOCK_INVALIDATION_TRACKER_H_
 #define COMPONENTS_SYNC_TEST_MOCK_INVALIDATION_TRACKER_H_
 

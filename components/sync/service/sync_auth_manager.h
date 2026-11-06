@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncAuthManager class declaration
+// summary: Declares SyncAuthManager, which tracks the account used for sync and its authentication state, along with the SyncAccountInfo struct and delegate interface.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_SYNC_AUTH_MANAGER_H_
 #define COMPONENTS_SYNC_SERVICE_SYNC_AUTH_MANAGER_H_
 

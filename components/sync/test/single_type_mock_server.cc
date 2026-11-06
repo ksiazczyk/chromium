@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SingleTypeMockServer implementation
+// summary: Implements a mock sync server for a single data type that fabricates updates, tombstones and successful commit responses for testing update and commit logic.
+// ---
+
 #include "components/sync/test/single_type_mock_server.h"
 
 #include "components/sync/base/time.h"

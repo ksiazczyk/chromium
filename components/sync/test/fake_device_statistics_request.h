@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake device statistics request for sync tests
+// summary: Declares a fake DeviceStatisticsRequest that simulates success or failure of device statistics requests for testing.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_FAKE_DEVICE_STATISTICS_REQUEST_H_
 #define COMPONENTS_SYNC_TEST_FAKE_DEVICE_STATISTICS_REQUEST_H_
 

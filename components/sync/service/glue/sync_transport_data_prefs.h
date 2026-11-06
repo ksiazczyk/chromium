@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncTransportDataPrefs class declaration
+// summary: Declares SyncTransportDataPrefs, a thin wrapper for account-keyed sync bookkeeping preferences like cache GUID, birthday, last synced time and poll interval.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_GLUE_SYNC_TRANSPORT_DATA_PREFS_H_
 #define COMPONENTS_SYNC_SERVICE_GLUE_SYNC_TRANSPORT_DATA_PREFS_H_
 

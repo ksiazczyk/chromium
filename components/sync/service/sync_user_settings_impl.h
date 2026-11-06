@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncUserSettingsImpl class declaration
+// summary: Declares SyncUserSettingsImpl, the SyncUserSettings implementation backed by sync prefs, crypto, and a delegate for selected types and passphrase handling.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_SYNC_USER_SETTINGS_IMPL_H_
 #define COMPONENTS_SYNC_SERVICE_SYNC_USER_SETTINGS_IMPL_H_
 

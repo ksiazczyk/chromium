@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync service utility functions
+// summary: Provides helpers such as GetUploadToGoogleState that map sync service state to upload state and record trusted vault metrics.
+// ---
+
 #include "components/sync/service/sync_service_utils.h"
 
 #include "base/metrics/histogram_functions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark sync error state implementation
+// summary: Implements detection of bookmark limit exceeded model errors and tracks whether the actionable error has already been acknowledged by the user.
+// ---
+
 #include "components/sync/service/bookmark_sync_error_state.h"
 
 #include "components/sync/model/model_error.h"

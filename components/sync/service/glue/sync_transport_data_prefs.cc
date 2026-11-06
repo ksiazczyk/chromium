@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncTransportDataPrefs implementation
+// summary: Implements SyncTransportDataPrefs, storing account-keyed sync bookkeeping preferences such as cache GUID, birthday, bag of chips, last synced time and poll interval.
+// ---
+
 #include "components/sync/service/glue/sync_transport_data_prefs.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncServiceImpl class header
+// summary: Declares SyncServiceImpl, the concrete SyncService that hosts the sync engine, data type manager, auth manager, and crypto components.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_SYNC_SERVICE_IMPL_H_
 #define COMPONENTS_SYNC_SERVICE_SYNC_SERVICE_IMPL_H_
 

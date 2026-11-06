@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unknown protobuf field test utilities
+// summary: Provides helpers to add and read unknown and unknown enum fields in protobuf messages for sync tests.
+// ---
+
 #include "components/sync/test/unknown_field_util.h"
 
 #include "components/sync/test/unknown_fields.pb.h"

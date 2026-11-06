@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TrackableMockInvalidation header
+// summary: Declares TrackableMockInvalidation, a MockInvalidation variant that tracks acknowledgements and drops via a MockInvalidationTracker.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_TRACKABLE_MOCK_INVALIDATION_H_
 #define COMPONENTS_SYNC_TEST_TRACKABLE_MOCK_INVALIDATION_H_
 

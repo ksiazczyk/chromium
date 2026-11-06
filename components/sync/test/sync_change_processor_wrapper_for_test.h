@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SyncChangeProcessorWrapperForTest header
+// summary: Declares a SyncChangeProcessor wrapper for tests that forwards change processing to a SyncableService or SyncChangeProcessor owned by the caller.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_SYNC_CHANGE_PROCESSOR_WRAPPER_FOR_TEST_H_
 #define COMPONENTS_SYNC_TEST_SYNC_CHANGE_PROCESSOR_WRAPPER_FOR_TEST_H_
 

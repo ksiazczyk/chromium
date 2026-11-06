@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockSyncEngine gmock mock header
+// summary: Declares a gmock mock of the SyncEngine interface, stubbing configuration, credentials, encryption, and shutdown methods for sync unit tests.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_MOCK_SYNC_ENGINE_H_
 #define COMPONENTS_SYNC_TEST_MOCK_SYNC_ENGINE_H_
 

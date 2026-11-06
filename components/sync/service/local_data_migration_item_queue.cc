@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalDataMigrationItemQueue implementation
+// summary: Implements a queue that migrates local data items to account storage once their data type becomes active, expiring stale or non-preferred items.
+// ---
+
 #include "components/sync/service/local_data_migration_item_queue.h"
 
 #include "base/time/time.h"

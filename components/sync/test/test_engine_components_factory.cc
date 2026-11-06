@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestEngineComponentsFactory implementation
+// summary: Builds fake sync engine components such as scheduler, cycle context and connection manager for tests.
+// ---
+
 #include "components/sync/test/test_engine_components_factory.h"
 
 #include <memory>

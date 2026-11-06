@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HTTP POST provider for the fake sync server
+// summary: Declares a fake HttpPostProvider and factory that route sync network requests to FakeServer, with network failure simulation support.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_FAKE_SERVER_HTTP_POST_PROVIDER_H_
 #define COMPONENTS_SYNC_TEST_FAKE_SERVER_HTTP_POST_PROVIDER_H_
 

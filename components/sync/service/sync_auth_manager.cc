@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync auth manager implementation
+// summary: Implements tracking of the account used for sync, access token fetching with exponential backoff, and auth error state for the sync service.
+// ---
+
 #include "components/sync/service/sync_auth_manager.h"
 
 #include <utility>

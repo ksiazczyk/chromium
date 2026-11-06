@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync internals utility unit tests
+// summary: Unit tests for ConstructAboutInformation covering unrecoverable errors and trusted vault auto upgrade experiment fields.
+// ---
+
 #include "components/sync/service/sync_internals_util.h"
 
 #include <memory>

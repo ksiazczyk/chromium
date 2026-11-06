@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Sync service DEPS include rules
+summary: Chromium DEPS file listing the include directories allowed for the sync service, with special rules for the unit test and device statistics implementation.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SyncServiceImpl unit tests
+// summary: Extensive unit tests for SyncServiceImpl covering configuration, encryption, auth errors, data type lifecycle, and transport state transitions.
+// ---
+
 #include "components/sync/service/sync_service_impl.h"
 
 #include <map>

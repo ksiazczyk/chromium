@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetAllNodesRequestBarrier class declaration
+// summary: Declares a ref-counted helper for DataTypeManagerImpl's GetAllNodesForDebugging that collects per-type node lists until all types respond.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_GET_ALL_NODES_REQUEST_BARRIER_H_
 #define COMPONENTS_SYNC_SERVICE_GET_ALL_NODES_REQUEST_BARRIER_H_
 

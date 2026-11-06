@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync internals UI utility implementation
+// summary: Implements helpers that turn sync service status, data type states and disable reasons into structured values for the sync-internals debug page.
+// ---
+
 #include "components/sync/service/sync_internals_util.h"
 
 #include <string>

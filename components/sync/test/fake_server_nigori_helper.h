@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Nigori helper declarations for the fake server
+// summary: Declares helpers to fetch, set, and configure keystore Nigori state in the FakeServer for sync cryptography tests.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_FAKE_SERVER_NIGORI_HELPER_H_
 #define COMPONENTS_SYNC_TEST_FAKE_SERVER_NIGORI_HELPER_H_
 

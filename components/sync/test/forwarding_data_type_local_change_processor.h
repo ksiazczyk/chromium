@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Forwarding data type local change processor for tests
+// summary: Declares a forwarding DataTypeLocalChangeProcessor that delegates all calls to another processor, useful when a test owns the wrapped processor.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_FORWARDING_DATA_TYPE_LOCAL_CHANGE_PROCESSOR_H_
 #define COMPONENTS_SYNC_TEST_FORWARDING_DATA_TYPE_LOCAL_CHANGE_PROCESSOR_H_
 

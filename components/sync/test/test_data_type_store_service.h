@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestDataTypeStoreService header
+// summary: Declares a test-only DataTypeStoreService that uses a temporary directory and in-memory DataTypeStore storage.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_TEST_DATA_TYPE_STORE_SERVICE_H_
 #define COMPONENTS_SYNC_TEST_TEST_DATA_TYPE_STORE_SERVICE_H_
 

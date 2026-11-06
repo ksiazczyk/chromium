@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake server network resources factory
+// summary: Creates an HTTP post provider factory bound to a FakeServer for use in sync engine tests.
+// ---
+
 #include "components/sync/test/fake_server_network_resources.h"
 
 #include <memory>

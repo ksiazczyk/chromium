@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SingleTypeMockServer test helper header
+// summary: Declares SingleTypeMockServer, a single-data-type mock server for testing happy-path updates, commits, progress markers, context and collaboration metadata.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_SINGLE_TYPE_MOCK_SERVER_H_
 #define COMPONENTS_SYNC_TEST_SINGLE_TYPE_MOCK_SERVER_H_
 

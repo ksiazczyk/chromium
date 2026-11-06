@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GMock mock of the sync DataTypeManager
+// summary: Declares DataTypeManagerMock, a GMock implementation of DataTypeManager used to mock sync data type configuration in tests.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_DATA_TYPE_MANAGER_MOCK_H_
 #define COMPONENTS_SYNC_TEST_DATA_TYPE_MANAGER_MOCK_H_
 

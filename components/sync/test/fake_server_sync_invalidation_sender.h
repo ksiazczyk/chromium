@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake server sync invalidation sender header
+// summary: Declares a fake server helper that observes commits and sends sync invalidations to registered fake GCM drivers in the format expected by the sync invalidations framework.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_FAKE_SERVER_SYNC_INVALIDATION_SENDER_H_
 #define COMPONENTS_SYNC_TEST_FAKE_SERVER_SYNC_INVALIDATION_SENDER_H_
 

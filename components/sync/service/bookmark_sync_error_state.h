@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark sync error state class
+// summary: Declares BookmarkSyncErrorState, which identifies actionable bookmark limit exceeded errors and acknowledges them until the next browser restart.
+// ---
+
 #ifndef COMPONENTS_SYNC_SERVICE_BOOKMARK_SYNC_ERROR_STATE_H_
 #define COMPONENTS_SYNC_SERVICE_BOOKMARK_SYNC_ERROR_STATE_H_
 

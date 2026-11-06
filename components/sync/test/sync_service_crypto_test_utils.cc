@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync service crypto test utilities
+// summary: Provides GetEncryptorForTest, which returns a test os_crypt_async Encryptor instance for use in sync service crypto tests.
+// ---
+
 #include "components/sync/test/sync_service_crypto_test_utils.h"
 
 #include <memory>

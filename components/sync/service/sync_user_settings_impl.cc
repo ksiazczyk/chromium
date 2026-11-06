@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncUserSettingsImpl implementation
+// summary: Implements SyncUserSettings, mapping user-selected sync types to data types and managing encryption bootstrap tokens, setup completion, and policy-managed types.
+// ---
+
 #include "components/sync/service/sync_user_settings_impl.h"
 
 #include <utility>

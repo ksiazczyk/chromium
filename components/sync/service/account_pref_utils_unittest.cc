@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Account pref utils unit tests
+// summary: Unit tests verifying account-keyed preference helpers for getting, setting, clearing, and keeping per-Gaia-ID scalar and dictionary pref values separate.
+// ---
+
 #include "components/sync/base/account_pref_utils.h"
 
 #include "components/prefs/pref_registry_simple.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Entity builder factory class declaration
+// summary: Declares EntityBuilderFactory, which creates entity builders for entities injected into the fake server during tests.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_ENTITY_BUILDER_FACTORY_H_
 #define COMPONENTS_SYNC_TEST_ENTITY_BUILDER_FACTORY_H_
 

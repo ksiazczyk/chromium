@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncError implementation
+// summary: Implements the SyncError class, including factory helpers for model and typed errors and type-specific message prefixes for logging.
+// ---
+
 #include "components/sync/service/sync_error.h"
 
 #include "base/location.h"

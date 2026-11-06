@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModelLoadManager implementation
+// summary: Implements loading and stopping of data type models, handling sync mode changes, load timeouts and reporting readiness back to the DataTypeManager.
+// ---
+
 #include "components/sync/service/model_load_manager.h"
 
 #include <map>

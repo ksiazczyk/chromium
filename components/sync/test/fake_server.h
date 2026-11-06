@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake sync server for testing
+// summary: Declares the FakeServer class, a fake sync server for tests with commit and get-updates observers plus entity and message helpers.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_FAKE_SERVER_H_
 #define COMPONENTS_SYNC_TEST_FAKE_SERVER_H_
 

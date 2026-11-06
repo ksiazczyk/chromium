@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser message bridge for Sync Internals
+// summary: Defines chrome.send helpers for requesting sync state, type lists, node data, and user event writes, plus sync node types.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 /**

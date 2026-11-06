@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockDataTypeLocalDataBatchUploader for sync tests
+// summary: Declares a gmock mock of DataTypeLocalDataBatchUploader stubbing local data description and migration triggers for tests.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_MOCK_DATA_TYPE_LOCAL_DATA_BATCH_UPLOADER_H_
 #define COMPONENTS_SYNC_TEST_MOCK_DATA_TYPE_LOCAL_DATA_BATCH_UPLOADER_H_
 

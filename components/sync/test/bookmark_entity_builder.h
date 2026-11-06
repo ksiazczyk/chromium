@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark entity builder header for sync tests
+// summary: Declares BookmarkEntityBuilder, which builds bookmark and folder entities for the fake sync server and supports several bookmark generations.
+// ---
+
 #ifndef COMPONENTS_SYNC_TEST_BOOKMARK_ENTITY_BUILDER_H_
 #define COMPONENTS_SYNC_TEST_BOOKMARK_ENTITY_BUILDER_H_
 

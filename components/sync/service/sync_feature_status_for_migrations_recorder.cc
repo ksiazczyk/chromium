@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync feature status recorder for migrations implementation
+// summary: Implements a recorder that persists sync feature and per-data-type status to prefs and logs histograms for Sync-to-signin migrations.
+// ---
+
 #include "components/sync/service/sync_feature_status_for_migrations_recorder.h"
 
 #include "base/check.h"
