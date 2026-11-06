@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text message provider implementation
+// summary: Implements TextMessageProvider, which filters incoming cellular SMS messages by policy and user suppression settings, notifies observers and logs metrics.
+// ---
+
 #include "chromeos/ash/components/network/text_message_provider.h"
 
 #include "chromeos/ash/components/network/managed_network_configuration_handler.h"

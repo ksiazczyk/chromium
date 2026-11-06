@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkState class header
+// summary: Declares the NetworkState class providing read-only state information about a network service, including visibility, security, portal state, and VPN provider details.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_NETWORK_STATE_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_NETWORK_STATE_H_
 

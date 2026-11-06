@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WiFi network metrics helper implementation
+// summary: Implements WifiNetworkMetricsHelper, logging whether WiFi networks were initially configured as hidden, split by whether a user is logged in.
+// ---
+
 #include "chromeos/ash/components/network/metrics/wifi_network_metrics_helper.h"
 
 #include "base/metrics/histogram_functions.h"

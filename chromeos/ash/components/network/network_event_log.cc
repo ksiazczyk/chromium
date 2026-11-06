@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network event log identifier helpers
+// summary: Implements functions that build consistent, descriptive network identifiers for log entries from a network's type, service path, or GUID.
+// ---
+
 #include "chromeos/ash/components/network/network_event_log.h"
 
 #include "base/strings/string_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkProfile struct for Shill network profiles
+// summary: Defines the NetworkProfile struct holding a Shill profile path and user hash, with a type distinguishing shared and per-user profiles.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_NETWORK_PROFILE_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_NETWORK_PROFILE_H_
 

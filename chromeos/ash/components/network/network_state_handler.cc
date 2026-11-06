@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkStateHandler implementation
+// summary: Implements the central handler that tracks network and device state lists from Shill, updates managed states, and notifies observers of changes.
+// ---
+
 #include "chromeos/ash/components/network/network_state_handler.h"
 
 #include <stddef.h>

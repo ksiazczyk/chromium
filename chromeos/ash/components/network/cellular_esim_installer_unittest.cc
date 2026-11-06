@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cellular eSIM installer unit tests
+// summary: Unit tests for CellularESimInstaller verifying eSIM profile installation, Shill configuration, and install-method metrics using fake Hermes and Shill clients.
+// ---
+
 #include "chromeos/ash/components/network/cellular_esim_installer.h"
 
 #include <algorithm>

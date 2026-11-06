@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkConnect unit tests
+// summary: Unit tests for NetworkConnect flows using a mock delegate, fake tether delegate and stub Shill clients to verify connect and disconnect behavior.
+// ---
+
 #include "chromeos/ash/components/network/network_connect.h"
 
 #include <memory>

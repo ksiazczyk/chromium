@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock NetworkMetadataStore for tests
+// summary: Declares a gmock mock of NetworkMetadataStore stubbing custom APN list access, with a TODO to mock the rest of the interface.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_MOCK_NETWORK_METADATA_STORE_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_MOCK_NETWORK_METADATA_STORE_H_
 

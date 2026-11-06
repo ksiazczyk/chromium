@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkConfig parsing from Shill service properties
+// summary: Parses the NetworkConfig dictionary from a Shill Service D-Bus property into IP addresses, gateways, DNS servers, routes, and other settings.
+// ---
+
 #include "chromeos/ash/components/network/network_config.h"
 
 #include <memory>

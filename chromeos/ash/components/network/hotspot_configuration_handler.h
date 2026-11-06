@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HotspotConfigurationHandler header
+// summary: Declares HotspotConfigurationHandler, which caches hotspot configurations and provides methods to get and update them with observer notifications.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_HOTSPOT_CONFIGURATION_HANDLER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_HOTSPOT_CONFIGURATION_HANDLER_H_
 

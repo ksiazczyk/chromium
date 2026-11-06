@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hotspot feature usage metrics class declaration
+// summary: Declares HotspotFeatureUsageMetrics, a feature usage delegate that reports hotspot eligibility, accessibility and enabled state for standard usage logging.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_METRICS_HOTSPOT_FEATURE_USAGE_METRICS_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_METRICS_HOTSPOT_FEATURE_USAGE_METRICS_H_
 

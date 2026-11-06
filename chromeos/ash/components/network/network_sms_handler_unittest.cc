@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkSmsHandler unit tests
+// summary: Unit tests for NetworkSmsHandler using fake Shill and SMS D-Bus clients to verify SMS message reception and per-network message tracking.
+// ---
+
 #include "chromeos/ash/components/network/network_sms_handler.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shill property handler implementation
+// summary: Implements ShillPropertyHandler, which observes Shill manager, service, and device properties over D-Bus and forwards changes to a listener such as NetworkStateHandler.
+// ---
+
 #include "chromeos/ash/components/network/shill_property_handler.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkProfileObserver interface
+// summary: Declares the observer interface with callbacks for when a network profile is added or removed.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_NETWORK_PROFILE_OBSERVER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_NETWORK_PROFILE_OBSERVER_H_
 

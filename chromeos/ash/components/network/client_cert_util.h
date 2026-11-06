@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client certificate utility header
+// summary: Declares client certificate configuration types, the ResolvedCert class and helpers for reading client certificate settings from Shill properties.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_CLIENT_CERT_UTIL_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_CLIENT_CERT_UTIL_H_
 

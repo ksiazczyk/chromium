@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy certificate provider interface
+// summary: Defines an interface for providing server and authority certificates from enterprise policy, with observer registration and queries for web-trusted and untrusted certificate lists.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_POLICY_CERTIFICATE_PROVIDER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_POLICY_CERTIFICATE_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network handler class declaration
+// summary: Declares the NetworkHandler singleton that initializes, shuts down, and provides access to the ChromeOS network handler classes.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_NETWORK_HANDLER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_NETWORK_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cellular eSIM uninstall handler unit tests
+// summary: Unit tests for CellularESimUninstallHandler covering eSIM profile uninstallation and EUICC reset flows with fake Shill and Hermes clients and histogram checks.
+// ---
+
 #include "chromeos/ash/components/network/cellular_esim_uninstall_handler.h"
 
 #include <memory>

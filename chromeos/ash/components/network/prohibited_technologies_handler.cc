@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prohibited technologies handler implementation
+// summary: Implements enforcement of prohibited network technologies per session and globally, updating network state on login changes and applied policies.
+// ---
+
 #include "chromeos/ash/components/network/prohibited_technologies_handler.h"
 
 #include <algorithm>

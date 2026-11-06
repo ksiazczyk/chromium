@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hotspot capabilities provider
+// summary: Tracks hotspot allow status and capabilities, mapping shill tethering readiness results and allowed WiFi security modes to mojom enums.
+// ---
+
 #include "chromeos/ash/components/network/hotspot_capabilities_provider.h"
 
 #include "chromeos/ash/components/dbus/shill/shill_manager_client.h"

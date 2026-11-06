@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SystemTokenCertDbStorage test utilities declaration
+// summary: Declares a callback wrapper and fake observer helper for verifying SystemTokenCertDbStorage retrieval state and destruction notifications in tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_SYSTEM_TOKEN_CERT_DB_STORAGE_TEST_UTIL_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_SYSTEM_TOKEN_CERT_DB_STORAGE_TEST_UTIL_H_
 

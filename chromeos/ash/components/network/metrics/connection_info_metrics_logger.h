@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connection info metrics logger header
+// summary: Declares a logger that tracks connection success rates, user-initiated attempts, and disconnections, notifying observers of connection results.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_METRICS_CONNECTION_INFO_METRICS_LOGGER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_METRICS_CONNECTION_INFO_METRICS_LOGGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkMetadataStore class declaration
+// summary: Declares the class that stores network metadata in profile and local state prefs and observes connection and configuration events.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_NETWORK_METADATA_STORE_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_NETWORK_METADATA_STORE_H_
 

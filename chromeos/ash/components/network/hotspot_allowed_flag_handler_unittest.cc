@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HotspotAllowedFlagHandler unit tests
+// summary: Unit tests checking that the experimental tethering flag is set correctly in shill when the feature is enabled or disabled.
+// ---
+
 #include "chromeos/ash/components/network/hotspot_allowed_flag_handler.h"
 
 #include "ash/constants/ash_features.h"

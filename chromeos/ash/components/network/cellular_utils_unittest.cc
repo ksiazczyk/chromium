@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cellular utilities unit tests
+// summary: Unit tests for cellular_utils, verifying current Euicc path selection with the use-second-euicc feature enabled.
+// ---
+
 #include "chromeos/ash/components/network/cellular_utils.h"
 
 #include "ash/constants/ash_features.h"

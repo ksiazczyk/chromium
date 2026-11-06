@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake network device handler class declaration
+// summary: Declares a no-op fake NetworkDeviceHandler intended as a base class for concrete fake device handlers in tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_FAKE_NETWORK_DEVICE_HANDLER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_FAKE_NETWORK_DEVICE_HANDLER_H_
 

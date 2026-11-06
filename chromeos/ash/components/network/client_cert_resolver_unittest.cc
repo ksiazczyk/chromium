@@ -1,6 +1,13 @@
 // Copyright 2013 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Client certificate resolver unit tests
+// summary: Unit tests for ClientCertResolver covering ONC certificate import, pattern matching and network property configuration using test NSS databases and Shill clients.
+// ---
+
 #include "chromeos/ash/components/network/client_cert_resolver.h"
 
 #include <cert.h>

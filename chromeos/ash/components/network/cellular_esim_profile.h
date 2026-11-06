@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cellular eSIM profile class header
+// summary: Declares CellularESimProfile, a value type holding eSIM profile metadata such as state, EID, ICCID, name, and activation code.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_CELLULAR_ESIM_PROFILE_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_CELLULAR_ESIM_PROFILE_H_
 

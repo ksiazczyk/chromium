@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkDeviceHandlerImpl class declaration
+// summary: Declares the NetworkDeviceHandler implementation, including Wi-Fi feature support tracking and NetworkStateHandlerObserver integration.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_NETWORK_DEVICE_HANDLER_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_NETWORK_DEVICE_HANDLER_IMPL_H_
 

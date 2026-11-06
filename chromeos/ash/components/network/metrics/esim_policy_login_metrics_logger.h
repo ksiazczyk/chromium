@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: eSIM policy login metrics logger class declaration
+// summary: Declares ESimPolicyLoginMetricsLogger, which collects eSIM policy adoption metrics at login on cellular-capable, enterprise-managed devices.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_METRICS_ESIM_POLICY_LOGIN_METRICS_LOGGER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_METRICS_ESIM_POLICY_LOGIN_METRICS_LOGGER_H_
 

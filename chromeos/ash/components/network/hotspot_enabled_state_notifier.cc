@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HotspotEnabledStateNotifier implementation
+// summary: Implements HotspotEnabledStateNotifier, which forwards hotspot turned on and off events with disable reasons to registered observers.
+// ---
+
 #include "chromeos/ash/components/network/hotspot_enabled_state_notifier.h"
 #include "chromeos/ash/components/network/network_event_log.h"
 

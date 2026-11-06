@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GeolocationHandler interface
+// summary: Defines the delegate interface that supplies cached Wi-Fi access point and cell tower data for geolocation requests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_GEOLOCATION_HANDLER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_GEOLOCATION_HANDLER_H_
 

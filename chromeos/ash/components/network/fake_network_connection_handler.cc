@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake network connection handler implementation
+// summary: Fake NetworkConnectionHandler that records ConnectToNetwork and DisconnectNetwork calls with their callbacks for use in tests.
+// ---
+
 #include "chromeos/ash/components/network/fake_network_connection_handler.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkUIData class header
+// summary: Declares NetworkUIData, a helper for accessing and setting values in a network's UI data dictionary for Shill.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_NETWORK_UI_DATA_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_NETWORK_UI_DATA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cellular eSIM profile unit tests
+// summary: Unit tests verifying that CellularESimProfile converts to and from dictionary values and rejects dictionaries lacking required keys.
+// ---
+
 #include "chromeos/ash/components/network/cellular_esim_profile.h"
 
 #include <optional>

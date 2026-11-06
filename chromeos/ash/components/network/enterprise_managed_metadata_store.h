@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnterpriseManagedMetadataStore class header
+// summary: Declares EnterpriseManagedMetadataStore, a simple store for metadata about whether the device is enterprise managed.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_ENTERPRISE_MANAGED_METADATA_STORE_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_ENTERPRISE_MANAGED_METADATA_STORE_H_
 

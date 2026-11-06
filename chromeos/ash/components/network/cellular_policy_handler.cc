@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cellular policy handler implementation
+// summary: Implements queued installation and retry of policy-configured eSIM profiles via Hermes, with backoff and timeout handling.
+// ---
+
 #include "chromeos/ash/components/network/cellular_policy_handler.h"
 
 #include <algorithm>

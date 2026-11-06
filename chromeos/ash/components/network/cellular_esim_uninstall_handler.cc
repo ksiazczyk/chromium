@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cellular eSIM uninstall handler implementation
+// summary: Implements CellularESimUninstallHandler, which queues and performs eSIM profile uninstallation and EUICC memory reset by coordinating Shill and Hermes operations.
+// ---
+
 #include "chromeos/ash/components/network/cellular_esim_uninstall_handler.h"
 
 #include <optional>

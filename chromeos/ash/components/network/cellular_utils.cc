@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cellular utilities implementation
+// summary: Implements helpers for building eSIM profiles from Hermes, SM-DS activation codes, SIM slot info, and stub cellular service paths.
+// ---
+
 #include "chromeos/ash/components/network/cellular_utils.h"
 
 #include <algorithm>

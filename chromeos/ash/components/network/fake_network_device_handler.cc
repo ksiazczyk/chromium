@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake network device handler implementation
+// summary: Fake NetworkDeviceHandler whose device operations do nothing, serving as a base for concrete fake handlers in tests.
+// ---
+
 #include "chromeos/ash/components/network/fake_network_device_handler.h"
 
 namespace ash {

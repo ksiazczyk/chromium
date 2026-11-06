@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: eSIM policy login metrics logger unit tests
+// summary: Unit tests for ESimPolicyLoginMetricsLogger covering login state changes and managed versus unmanaged cellular network metric logging.
+// ---
+
 #include "chromeos/ash/components/network/metrics/esim_policy_login_metrics_logger.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cellular eSIM installer class header
+// summary: Declares CellularESimInstaller, which installs an eSIM profile and its corresponding network via Hermes and Shill.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_CELLULAR_ESIM_INSTALLER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_CELLULAR_ESIM_INSTALLER_H_
 

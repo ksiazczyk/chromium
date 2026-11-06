@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EphemeralNetworkConfigurationHandler implementation
+// summary: Implements EphemeralNetworkConfigurationHandler, which activates on the sign-in screen when ephemeral network policies are set and triggers ephemeral network data wiping on startup, resume, or screen idle.
+// ---
+
 #include "chromeos/ash/components/network/ephemeral_network_configuration_handler.h"
 
 #include <string>

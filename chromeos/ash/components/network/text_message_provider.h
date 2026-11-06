@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text message provider class
+// summary: Declares TextMessageProvider, an observer that delivers non-suppressed network text messages to listeners based on policy and user suppression state.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_TEXT_MESSAGE_PROVIDER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_TEXT_MESSAGE_PROVIDER_H_
 

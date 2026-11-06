@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkTestHelperBase implementation
+// summary: Implements the base network test helper that initializes fake Shill and Hermes DBus clients and configures test devices, services and profiles.
+// ---
+
 #include "chromeos/ash/components/network/network_test_helper_base.h"
 
 #include "base/functional/bind.h"

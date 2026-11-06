@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cellular metrics eSIM histogram test helper header
+// summary: Declares structs that simplify checking eSIM installation and SM-DS scan histogram counts in cellular metrics tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_METRICS_CELLULAR_NETWORK_METRICS_TEST_HELPER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_METRICS_CELLULAR_NETWORK_METRICS_TEST_HELPER_H_
 

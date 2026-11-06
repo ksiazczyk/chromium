@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network utility functions implementation
+// summary: Implements network utilities including IPv4 netmask and prefix length conversion, MAC address formatting, and scan result structs.
+// ---
+
 #include "chromeos/ash/components/network/network_util.h"
 
 #include <stddef.h>

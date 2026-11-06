@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkConnectionHandler implementation
+// summary: Implements the network connection flow, including certificate load waits, cellular connect timeouts, authentication error detection, and metrics logging.
+// ---
+
 #include "chromeos/ash/components/network/network_connection_handler_impl.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkConnectionHandlerImpl class declaration
+// summary: Declares the NetworkConnectionHandler implementation with connect request state tracking and observer hooks for certificate loads and network state changes.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_NETWORK_CONNECTION_HANDLER_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_NETWORK_CONNECTION_HANDLER_IMPL_H_
 

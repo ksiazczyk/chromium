@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkActivationHandlerImpl class declaration
+// summary: Declares NetworkActivationHandlerImpl, the Shill-backed implementation of the network activation handler interface.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_NETWORK_ACTIVATION_HANDLER_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_NETWORK_ACTIVATION_HANDLER_IMPL_H_
 

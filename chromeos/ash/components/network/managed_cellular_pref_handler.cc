@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed cellular pref handler implementation
+// summary: Implements ManagedCellularPrefHandler, which stores and queries device prefs for managed cellular eSIM metadata, ICCID to SM-DP+ pairs, and APN migration.
+// ---
+
 #include "chromeos/ash/components/network/managed_cellular_pref_handler.h"
 
 #include "ash/constants/ash_features.h"

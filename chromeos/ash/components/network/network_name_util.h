@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network name utility declarations
+// summary: Declares helper functions that return eSIM profile names and network names for a given network state.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_NETWORK_NAME_UTIL_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_NETWORK_NAME_UTIL_H_
 

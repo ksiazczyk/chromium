@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network policy utilities declarations
+// summary: Declares policy utility functions for creating managed ONC and Shill configurations, the SmdxActivationCode class, and ONC policy matching helpers.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_POLICY_UTIL_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_POLICY_UTIL_H_
 

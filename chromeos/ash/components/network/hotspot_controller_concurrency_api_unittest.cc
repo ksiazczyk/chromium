@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HotspotController concurrency API unit tests
+// summary: Unit tests for HotspotController exercising the WiFi concurrency feature, including enable and disable behavior and associated metrics.
+// ---
+
 #include "base/test/bind.h"
 #include "base/test/metrics/histogram_tester.h"
 #include "base/test/scoped_feature_list.h"

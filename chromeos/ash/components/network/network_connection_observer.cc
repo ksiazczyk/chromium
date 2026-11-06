@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkConnectionObserver default implementations
+// summary: Provides default no-op implementations of the network connection observer callbacks, with connect requests proceeding by default.
+// ---
+
 #include "chromeos/ash/components/network/network_connection_observer.h"
 
 namespace ash {

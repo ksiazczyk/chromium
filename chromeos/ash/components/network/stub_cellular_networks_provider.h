@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub cellular networks provider header
+// summary: Declares StubCellularNetworksProvider, which supplies stub cellular networks to NetworkStateHandler from eSIM profile and SIM slot information.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_STUB_CELLULAR_NETWORKS_PROVIDER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_STUB_CELLULAR_NETWORKS_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cellular eSIM profile waiter header
+// summary: Declares CellularESimProfileWaiter, a helper that waits for Hermes eSIM profiles to reach desired property states before invoking a callback, with shutdown handling.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_CELLULAR_ESIM_PROFILE_WAITER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_CELLULAR_ESIM_PROFILE_WAITER_H_
 

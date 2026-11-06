@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HotspotController implementation
+// summary: Implements HotspotController, which handles enabling and disabling the hotspot, including capability checks, tethering readiness and policy enforcement.
+// ---
+
 #include "chromeos/ash/components/network/hotspot_controller.h"
 
 #include "ash/constants/ash_features.h"

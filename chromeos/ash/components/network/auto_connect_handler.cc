@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutoConnectHandler implementation
+// summary: Implements policy-driven auto-connect behavior, disconnecting or removing unmanaged Wi-Fi and cellular networks when policies require it.
+// ---
+
 #include "chromeos/ash/components/network/auto_connect_handler.h"
 
 #include <algorithm>

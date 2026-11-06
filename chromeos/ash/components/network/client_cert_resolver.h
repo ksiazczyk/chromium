@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client certificate resolver header
+// summary: Declares ClientCertResolver, an observer that resolves client certificate patterns for known networks and notifies observers when resolution completes.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_CLIENT_CERT_RESOLVER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_CLIENT_CERT_RESOLVER_H_
 

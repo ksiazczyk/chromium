@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkStateHandler unit tests
+// summary: Unit tests for NetworkStateHandler covering network and device lists, tether sorting, cellular stubs and observer behavior using fake Shill clients.
+// ---
+
 #include "chromeos/ash/components/network/network_state_handler.h"
 
 #include <stddef.h>

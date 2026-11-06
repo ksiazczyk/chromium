@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake network activation handler implementation
+// summary: Fake NetworkActivationHandler that records CompleteActivation calls with their callbacks so tests can inspect and invoke them.
+// ---
+
 #include "chromeos/ash/components/network/fake_network_activation_handler.h"
 
 #include "base/functional/callback.h"

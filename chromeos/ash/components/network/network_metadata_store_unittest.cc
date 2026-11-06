@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkMetadataStore unit tests
+// summary: Unit tests covering network metadata storage, hidden network migration, custom APN lists, and connection timestamps.
+// ---
+
 #include "chromeos/ash/components/network/network_metadata_store.h"
 
 #include <memory>

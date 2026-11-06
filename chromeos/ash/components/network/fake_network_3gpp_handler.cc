@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake 3GPP network handler implementation
+// summary: Fake implementation of Network3gppHandler that records SetCarrierLock calls and reports a configurable carrier lock result for tests.
+// ---
+
 #include "chromeos/ash/components/network/fake_network_3gpp_handler.h"
 
 #include <stddef.h>

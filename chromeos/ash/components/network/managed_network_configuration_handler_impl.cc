@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManagedNetworkConfigurationHandlerImpl implementation
+// summary: Implements managed network configuration handling, translating ONC policies into Shill properties and applying user and device policies.
+// ---
+
 #include "chromeos/ash/components/network/managed_network_configuration_handler_impl.h"
 
 #include <iterator>

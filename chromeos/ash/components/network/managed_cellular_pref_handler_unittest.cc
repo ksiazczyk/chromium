@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Managed cellular pref handler unit tests
+// summary: Unit tests for ManagedCellularPrefHandler covering adding, removing, and querying managed eSIM metadata and APN migrated ICCIDs.
+// ---
+
 #include "chromeos/ash/components/network/managed_cellular_pref_handler.h"
 
 #include <string>

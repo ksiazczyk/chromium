@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ProfilePolicies
+// summary: Unit tests covering global network configuration, profile-wide variable expansions, runtime value setters, and change effects of ProfilePolicies updates.
+// ---
+
 #include "chromeos/ash/components/network/profile_policies.h"
 
 #include <string_view>

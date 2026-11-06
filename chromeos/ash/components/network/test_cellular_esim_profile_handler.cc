@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestCellularESimProfileHandler implementation
+// summary: Test implementation of CellularESimProfileHandler that keeps eSIM profiles in memory and fetches them from fake Hermes clients.
+// ---
+
 #include "chromeos/ash/components/network/test_cellular_esim_profile_handler.h"
 
 #include "chromeos/ash/components/network/cellular_utils.h"

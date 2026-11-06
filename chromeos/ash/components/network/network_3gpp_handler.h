@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network 3GPP handler for cellular carrier lock
+// summary: Declares Network3gppHandler, which configures network personalisation locks on cellular modems through ModemManager's 3gpp interface.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_NETWORK_3GPP_HANDLER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_NETWORK_3GPP_HANDLER_H_
 

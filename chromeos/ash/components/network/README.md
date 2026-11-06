@@ -1,3 +1,9 @@
+---
+type: readme
+title: ChromeOS Network - Chrome Layer
+summary: Explains the Chrome layer of ChromeOS networking, covering Shill and Hermes background, network state, configuration, connections, policies, eSIM profiles and hotspot.
+---
+
 # ChromeOS Network - Chrome Layer
 
 ChromeOS networking consists of several key components, shown in the diagram

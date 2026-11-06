@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkConnectionHandler interface
+// summary: Declares the class that manages network connect and disconnect requests, the only component that issues Shill Connect calls, along with its error name constants.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_NETWORK_CONNECTION_HANDLER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_NETWORK_CONNECTION_HANDLER_H_
 

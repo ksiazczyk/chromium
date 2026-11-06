@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkProfile implementation
+// summary: Implements a debug string method for network profiles describing their shared or user type and path.
+// ---
+
 #include "chromeos/ash/components/network/network_profile.h"
 
 #include "base/notreached.h"

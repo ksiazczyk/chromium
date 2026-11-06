@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connection info metrics logger implementation
+// summary: Implements tracking of network connection states and connection attempt outcomes for metrics by observing network state and connection handlers.
+// ---
+
 #include "chromeos/ash/components/network/metrics/connection_info_metrics_logger.h"
 
 #include "base/containers/flat_set.h"

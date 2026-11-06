@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkCertLoader unit tests
+// summary: Unit tests for NetworkCertLoader covering certificate loading from system and user NSS databases and policy-provided authority certificates.
+// ---
+
 #include "chromeos/ash/components/network/network_cert_loader.h"
 
 #include <stddef.h>

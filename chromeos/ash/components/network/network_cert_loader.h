@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkCertLoader class declaration
+// summary: Declares NetworkCertLoader, which loads certificates once the TPM is initialized and notifies observers when certificates are loaded or updated.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_NETWORK_CERT_LOADER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_NETWORK_CERT_LOADER_H_
 

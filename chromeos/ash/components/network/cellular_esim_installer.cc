@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cellular eSIM installer implementation
+// summary: Implements installation of eSIM profiles from activation codes, creating Shill service configurations and recording installation metrics.
+// ---
+
 #include "chromeos/ash/components/network/cellular_esim_installer.h"
 
 #include <optional>

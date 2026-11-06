@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EphemeralNetworkConfigurationHandler unit tests
+// summary: Unit tests verifying that EphemeralNetworkConfigurationHandler triggers ephemeral network config actions on the sign-in screen for initial policy application and policy changes.
+// ---
+
 #include "chromeos/ash/components/network/ephemeral_network_configuration_handler.h"
 
 #include <memory>

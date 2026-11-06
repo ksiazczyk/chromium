@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake network metadata store implementation
+// summary: Fake NetworkMetadataStore that keeps user text message suppression state in an in-memory map for tests.
+// ---
+
 #include "chromeos/ash/components/network/fake_network_metadata_store.h"
 
 namespace ash {

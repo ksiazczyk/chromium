@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stub cellular networks provider unit tests
+// summary: Unit tests for StubCellularNetworksProvider using fake Hermes eSIM profiles and a stub cellular device to verify stub network add, remove, and update behavior.
+// ---
+
 #include "chromeos/ash/components/network/stub_cellular_networks_provider.h"
 
 #include <memory>

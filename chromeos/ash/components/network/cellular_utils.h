@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cellular utilities header
+// summary: Declares cellular_utils helpers for eSIM profile generation, SIM slot info, current Euicc path, and SM-DS activation codes.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_CELLULAR_UTILS_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_CELLULAR_UTILS_H_
 

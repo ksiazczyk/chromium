@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkUIData unit tests
+// summary: Unit tests verifying that NetworkUIData parses ONC source values such as user import and policies from a dictionary.
+// ---
+
 #include "chromeos/ash/components/network/network_ui_data.h"
 
 #include "base/values.h"

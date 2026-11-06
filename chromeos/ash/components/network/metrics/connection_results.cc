@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shill error to connect result mapping
+// summary: Maps shill error names to ShillConnectResult enum values used for network connection result metrics.
+// ---
+
 #include "chromeos/ash/components/network/metrics/connection_results.h"
 
 #include "chromeos/ash/components/network/network_connection_handler.h"

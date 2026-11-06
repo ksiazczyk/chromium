@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cellular eSIM profile handler prefs implementation
+// summary: Implements the prefs-backed profile handler that stores eSIM profiles in local state and auto-refreshes newly detected EUICCs.
+// ---
+
 #include "chromeos/ash/components/network/cellular_esim_profile_handler_impl.h"
 
 #include <algorithm>

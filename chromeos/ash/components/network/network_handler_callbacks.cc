@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network handler error callback helpers
+// summary: Implements helpers that log Shill DBus errors and run network handler error callbacks, suppressing non-actionable messages.
+// ---
+
 #include "chromeos/ash/components/network/network_handler_callbacks.h"
 
 #include <utility>

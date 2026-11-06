@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestCellularESimProfileHandler declaration
+// summary: Declares a test CellularESimProfileHandler with in-memory profile state and controllable profile list update notifications.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_TEST_CELLULAR_ESIM_PROFILE_HANDLER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_TEST_CELLULAR_ESIM_PROFILE_HANDLER_H_
 

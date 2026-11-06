@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cellular metrics logger unit tests
+// summary: Unit tests verifying cellular metrics histograms for eSIM and PSIM connections, feature usage, and SIM lock status at login.
+// ---
+
 #include "chromeos/ash/components/network/cellular_metrics_logger.h"
 
 #include <memory>

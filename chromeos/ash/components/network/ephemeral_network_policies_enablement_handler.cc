@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EphemeralNetworkPoliciesEnablementHandler implementation
+// summary: Implements EphemeralNetworkPoliciesEnablementHandler, which watches the device pref and feature flag to enable ephemeral network policies once per process and notify the observer.
+// ---
+
 #include "chromeos/ash/components/network/ephemeral_network_policies_enablement_handler.h"
 
 #include <memory>

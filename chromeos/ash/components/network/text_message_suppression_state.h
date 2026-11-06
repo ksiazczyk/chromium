@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text message suppression state enums
+// summary: Defines enums for policy-based and user-set text message suppression states consumed by TextMessageProvider.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_TEXT_MESSAGE_SUPPRESSION_STATE_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_TEXT_MESSAGE_SUPPRESSION_STATE_H_
 

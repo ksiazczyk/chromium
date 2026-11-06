@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockManagedCellularPrefHandler mock
+// summary: Declares a gmock mock of ManagedCellularPrefHandler with methods for APN-migrated ICCIDs, for use in tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_MOCK_MANAGED_CELLULAR_PREF_HANDLER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_MOCK_MANAGED_CELLULAR_PREF_HANDLER_H_
 

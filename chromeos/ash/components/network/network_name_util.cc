@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network name utility implementation
+// summary: Implements helpers that resolve network display names, nicknames, and service providers from matching eSIM profiles.
+// ---
+
 #include "chromeos/ash/components/network/network_name_util.h"
 
 #include <stddef.h>

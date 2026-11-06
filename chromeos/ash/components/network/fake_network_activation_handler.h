@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake network activation handler class declaration
+// summary: Declares a fake NetworkActivationHandler for tests that captures activation calls and exposes their parameters and callbacks.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_FAKE_NETWORK_ACTIVATION_HANDLER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_FAKE_NETWORK_ACTIVATION_HANDLER_H_
 

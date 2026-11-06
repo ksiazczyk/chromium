@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock NetworkDeviceHandler for tests
+// summary: Declares a gmock mock of NetworkDeviceHandler covering device properties, cellular registration, PIN management and roaming for tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_MOCK_NETWORK_DEVICE_HANDLER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_MOCK_NETWORK_DEVICE_HANDLER_H_
 

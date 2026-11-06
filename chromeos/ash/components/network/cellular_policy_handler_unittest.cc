@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cellular policy handler unit tests
+// summary: Unit tests for policy-driven eSIM profile installation, covering retry behavior, activation codes, and Hermes interactions.
+// ---
+
 #include "chromeos/ash/components/network/cellular_policy_handler.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EphemeralNetworkConfigurationHandler class header
+// summary: Declares EphemeralNetworkConfigurationHandler, which triggers ephemeral network configuration actions on the sign-in screen in response to policy application, resume from sleep, or screen idle.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_EPHEMERAL_NETWORK_CONFIGURATION_HANDLER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_EPHEMERAL_NETWORK_CONFIGURATION_HANDLER_H_
 

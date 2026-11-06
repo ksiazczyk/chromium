@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network utility functions header
+// summary: Declares structs for WiFi access points, cell towers, cellular scan results, and SIM slot info plus network utility functions.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_NETWORK_UTIL_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_NETWORK_UTIL_H_
 

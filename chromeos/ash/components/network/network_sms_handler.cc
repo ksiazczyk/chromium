@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkSmsHandler implementation
+// summary: Implements SMS message watching over Shill and ModemManager D-Bus clients, caching received text messages and notifying observers of new messages.
+// ---
+
 #include "chromeos/ash/components/network/network_sms_handler.h"
 
 #include <stddef.h>

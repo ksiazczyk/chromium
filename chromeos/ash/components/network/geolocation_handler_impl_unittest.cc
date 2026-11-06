@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GeolocationHandlerImpl unit tests
+// summary: Unit tests for the geolocation handler implementation, verifying WiFi access point and cell tower retrieval from fake shill clients.
+// ---
+
 #include "chromeos/ash/components/network/geolocation_handler_impl.h"
 
 #include <memory>

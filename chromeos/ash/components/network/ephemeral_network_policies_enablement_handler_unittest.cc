@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EphemeralNetworkPoliciesEnablementHandler unit tests
+// summary: Unit tests covering enablement of ephemeral network policies by feature flag, by device pref at init, and by device pref after init.
+// ---
+
 #include "chromeos/ash/components/network/ephemeral_network_policies_enablement_handler.h"
 
 #include "ash/constants/ash_features.h"

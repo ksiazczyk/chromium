@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network 3GPP handler implementation
+// summary: Implements Network3gppHandler, which applies carrier lock configuration to cellular modems via the Shill Modem3gpp D-Bus client.
+// ---
+
 #include "chromeos/ash/components/network/network_3gpp_handler.h"
 
 #include <stddef.h>

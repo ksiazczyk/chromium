@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network policy utilities implementation
+// summary: Implements helpers that build managed ONC dictionaries and Shill configurations from user and device policies, including fake credential removal and cellular activation code parsing.
+// ---
+
 #include "chromeos/ash/components/network/policy_util.h"
 
 #include <memory>

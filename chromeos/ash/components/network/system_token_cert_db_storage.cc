@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System token certificate database storage
+// summary: Implements SystemTokenCertDbStorage, a singleton that stores the system token NSS certificate database and provides it to consumers with a retrieval timeout and observers.
+// ---
+
 #include "chromeos/ash/components/network/system_token_cert_db_storage.h"
 
 #include "base/callback_list.h"

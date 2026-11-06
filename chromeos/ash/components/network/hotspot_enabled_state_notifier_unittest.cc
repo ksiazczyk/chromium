@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hotspot enabled state notifier unit tests
+// summary: Unit tests for HotspotEnabledStateNotifier that verify hotspot enabled state notifications using fake Shill clients, tethering capabilities, and test observers.
+// ---
+
 #include "chromeos/ash/components/network/hotspot_enabled_state_notifier.h"
 #include "ash/constants/ash_features.h"
 #include "base/test/bind.h"

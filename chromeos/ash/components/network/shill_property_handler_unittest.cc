@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shill property handler unit tests
+// summary: Unit tests for ShillPropertyHandler using test Shill D-Bus clients and a test listener to verify managed list, property, and technology updates.
+// ---
+
 #include "chromeos/ash/components/network/shill_property_handler.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkConnectionHandler implementation
+// summary: Defines the error name constants and base behavior of the network connection handler that manages connect and disconnect requests for networks.
+// ---
+
 #include "chromeos/ash/components/network/network_connection_handler.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkTypePattern unit tests
+// summary: Unit tests verifying MatchesType and MatchesPattern behavior for grouped and primitive network type patterns.
+// ---
+
 #include "chromeos/ash/components/network/network_type_pattern.h"
 
 #include "chromeos/ash/components/network/tether_constants.h"

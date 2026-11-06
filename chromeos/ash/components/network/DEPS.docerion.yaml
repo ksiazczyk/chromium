@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the network component
+summary: Specifies allowed include dependencies for the network component, including per-file rules for tests and fuzz targets.

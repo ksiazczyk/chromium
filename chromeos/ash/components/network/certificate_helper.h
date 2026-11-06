@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate helper header
+// summary: Declares ash::certificate helper functions for decoding certificate types and formatting certificate names and nicknames in the ChromeOS network component.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_CERTIFICATE_HELPER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_CERTIFICATE_HELPER_H_
 

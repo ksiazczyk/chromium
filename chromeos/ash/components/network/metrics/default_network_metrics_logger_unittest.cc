@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default network metrics logger unit tests
+// summary: Unit tests verifying that DefaultNetworkMetricsLogger records meter subtype histograms for cellular, Wi-Fi, Ethernet and VPN default networks.
+// ---
+
 #include "chromeos/ash/components/network/metrics/default_network_metrics_logger.h"
 
 #include <memory>

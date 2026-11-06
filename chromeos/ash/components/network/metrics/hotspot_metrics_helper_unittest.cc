@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hotspot metrics helper unit tests
+// summary: Unit tests that verify HotspotMetricsHelper emits the expected hotspot UMA histograms using HistogramTester and fake shill and power services.
+// ---
+
 #include "chromeos/ash/components/network/metrics/hotspot_metrics_helper.h"
 
 #include "ash/constants/ash_features.h"

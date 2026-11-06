@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceState class header for network device state
+// summary: Declares DeviceState, a ManagedState subclass exposing device properties such as MAC address, SIM details, scan results, IP configs, and Ethernet or Wi-Fi specific state.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_DEVICE_STATE_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_DEVICE_STATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkMetadataObserver implementation
+// summary: Implements the NetworkMetadataObserver base class with default no-op callbacks for network metadata events.
+// ---
+
 #include "chromeos/ash/components/network/network_metadata_observer.h"
 
 #include <string>

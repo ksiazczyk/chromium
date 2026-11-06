@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkMetadataStore implementation
+// summary: Implements per-network metadata storage in profile and device prefs, including timestamps, custom APN lists, and sync ownership.
+// ---
+
 #include "chromeos/ash/components/network/network_metadata_store.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cellular eSIM profile handler implementation
+// summary: Implements base CellularESimProfileHandler logic for refreshing profile lists and requesting available profiles from SM-DS while inhibiting cellular scanning.
+// ---
+
 #include "chromeos/ash/components/network/cellular_esim_profile_handler.h"
 
 #include "ash/constants/ash_features.h"

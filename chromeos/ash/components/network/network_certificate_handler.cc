@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkCertificateHandler implementation
+// summary: Implements NetworkCertificateHandler, which converts loaded certificates into display data and notifies observers of changes.
+// ---
+
 #include "chromeos/ash/components/network/network_certificate_handler.h"
 
 #include "base/logging.h"

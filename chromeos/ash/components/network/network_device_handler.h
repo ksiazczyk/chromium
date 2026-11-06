@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkDeviceHandler interface
+// summary: Declares asynchronous device-specific requests against the Shill device API, including property access, cellular registration, and SIM PIN/PUK operations.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_NETWORK_DEVICE_HANDLER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_NETWORK_DEVICE_HANDLER_H_
 

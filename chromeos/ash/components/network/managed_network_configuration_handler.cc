@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManagedNetworkConfigurationHandler testing initializer
+// summary: Implements the destructor and a testing initialization path for the ManagedNetworkConfigurationHandler interface.
+// ---
+
 #include "chromeos/ash/components/network/managed_network_configuration_handler.h"
 
 #include "base/memory/ptr_util.h"

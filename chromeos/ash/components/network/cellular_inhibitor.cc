@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cellular inhibitor implementation
+// summary: Implements CellularInhibitor, which sets the Shill cellular device Inhibited property to prevent scan churn during SIM operations, with queued requests and retries.
+// ---
+
 #include "chromeos/ash/components/network/cellular_inhibitor.h"
 
 #include <memory>

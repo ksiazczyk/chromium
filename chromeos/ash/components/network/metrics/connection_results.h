@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connection results enums for network metrics
+// summary: Defines ShillConnectResult and UserInitiatedConnectResult enums that map connection errors to stable histogram values for network connection metrics.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_METRICS_CONNECTION_RESULTS_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_METRICS_CONNECTION_RESULTS_H_
 

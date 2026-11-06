@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cellular policy handler header
+// summary: Declares CellularPolicyHandler, which installs policy-defined eSIM profiles using a request queue with fixed retries and backoff.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_CELLULAR_POLICY_HANDLER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_CELLULAR_POLICY_HANDLER_H_
 

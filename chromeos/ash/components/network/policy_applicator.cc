@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PolicyApplicator implementation
+// summary: Implements PolicyApplicator, which applies managed network policies to Shill profiles by creating and updating configurations.
+// ---
+
 #include "chromeos/ash/components/network/policy_applicator.h"
 
 #include <memory>

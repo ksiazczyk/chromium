@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TechnologyStateController unit tests
+// summary: Unit tests covering hotspot and WiFi enable preparation, technology state changes, and related enable-result metrics.
+// ---
+
 #include "chromeos/ash/components/network/technology_state_controller.h"
 
 #include "base/test/bind.h"

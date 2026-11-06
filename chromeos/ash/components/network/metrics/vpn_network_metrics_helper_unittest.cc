@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VPN network metrics helper unit tests
+// summary: Unit tests that verify VPN configuration source histograms are updated correctly for each provider type and for policy-managed networks.
+// ---
+
 #include "chromeos/ash/components/network/metrics/vpn_network_metrics_helper.h"
 
 #include <memory>

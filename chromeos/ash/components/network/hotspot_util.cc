@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hotspot utility functions implementation
+// summary: Implements helpers that convert Shill tethering states, idle reasons, security modes, bands, and configs to and from hotspot mojom types.
+// ---
+
 #include "chromeos/ash/components/network/hotspot_util.h"
 
 #include <optional>

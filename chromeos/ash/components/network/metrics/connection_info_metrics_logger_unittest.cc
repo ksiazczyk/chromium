@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Connection info metrics logger unit tests
+// summary: Unit tests verifying connection result and disconnection histograms for cellular and Wi-Fi networks using the connection info metrics logger.
+// ---
+
 #include "chromeos/ash/components/network/metrics/connection_info_metrics_logger.h"
 
 #include <memory>

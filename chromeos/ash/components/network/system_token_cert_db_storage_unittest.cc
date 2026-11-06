@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SystemTokenCertDbStorage unit tests
+// summary: Unit tests verifying system token certificate database retrieval, the five-minute timeout behavior, and observer notification on reset.
+// ---
+
 #include "chromeos/ash/components/network/system_token_cert_db_storage.h"
 
 #include <memory>

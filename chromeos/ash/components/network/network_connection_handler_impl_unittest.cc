@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkConnectionHandlerImpl unit tests
+// summary: Unit tests for the network connection handler covering connect, disconnect, cellular, tether, and certificate scenarios using Shill test helpers and stubs.
+// ---
+
 #include "chromeos/ash/components/network/network_connection_handler_impl.h"
 
 #include <map>
