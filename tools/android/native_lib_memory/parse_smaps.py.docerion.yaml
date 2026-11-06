@@ -1,0 +1,4 @@
+# Docerion header of parse_smaps.py.
+type: script
+title: Parse /proc/[pid]/smaps on an Android device
+summary: Parses a process's smaps file from an Android device into Mapping objects and reports memory metrics such as swap and page table footprint.

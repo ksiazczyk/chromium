@@ -1,0 +1,4 @@
+# Docerion header of systrace-extract-startup.py.
+type: script
+title: systrace-extract-startup.py
+summary: Parses Chrome startup trace reports and prints extracted events, histograms, and timings as tab-separated output for numerical analysis.

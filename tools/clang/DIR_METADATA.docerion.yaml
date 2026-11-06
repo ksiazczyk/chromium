@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for clang tools
+summary: Maps the clang tools directory to the Tools monorail component and a Buganizer component ID for issue tracking.

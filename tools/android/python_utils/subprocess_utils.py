@@ -2,6 +2,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Subprocess helper utilities
+# summary: Provides helpers for running commands as subprocesses, resolving ninja and autoninja, and returning command output or exit codes with error logging.
+# ---
+
 """Helper functions for running commands as subprocesses."""
 
 import logging

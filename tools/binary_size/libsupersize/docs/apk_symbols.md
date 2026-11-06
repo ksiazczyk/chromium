@@ -1,3 +1,9 @@
+---
+type: reference
+title: APK Symbols
+summary: 'Explains how APK zip entries become SuperSize symbols and why zip overhead is grouped into a single Overhead: APK file symbol.'
+---
+
 # APK Symbols
 
 All files in an APK that are not broken down into sub-entries are tracked by a

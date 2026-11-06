@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for the ps_ext executable
+summary: Defines the ps_ext executable build target for GN, listing ps_ext.c as its only source.

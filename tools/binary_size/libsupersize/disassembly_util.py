@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Disassembly sampling and diff utilities
+# summary: Selects a representative subset of changed symbols for disassembly and builds unified diffs between before and after disassembly.
+# ---
+
 import collections
 import difflib
 import math

@@ -1,3 +1,13 @@
+---
+type: readme
+title: How to use the native library memory tools
+summary: Explains prerequisites and usage of the Android memory analysis scripts, including code page PSS measurement and code ordering visualization.
+relations:
+  - documents /tools/android/native_lib_memory/code_pages_pss.py
+  - documents /tools/android/native_lib_memory/extract_symbols.py
+  - documents /tools/android/native_lib_memory/extract_resident_pages.py
+---
+
 This directory contains scripts used to assess memory usage on Android, and in
 particular the memory cost of Chromium's executable code. This is related to the
 `tools/cygprofile` directory.

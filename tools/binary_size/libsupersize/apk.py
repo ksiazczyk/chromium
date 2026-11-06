@@ -1,6 +1,13 @@
 # Copyright 2022 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: APK symbol creation
+# summary: Creates APK symbols for size analysis, including resource path deobfuscation and ARSC resource entry symbols.
+# ---
+
 """Functions for creating APK symbols."""
 
 import logging

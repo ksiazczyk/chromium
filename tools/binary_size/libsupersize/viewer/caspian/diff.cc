@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Symbol diffing implementation
+// summary: Implements matching of symbols between two SizeInfo snapshots to produce a DeltaSizeInfo.
+// ---
+
 #include "tools/binary_size/libsupersize/viewer/caspian/diff.h"
 
 #include <cmath>

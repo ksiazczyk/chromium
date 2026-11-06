@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Chrome-specific canned size queries
+# summary: Defines Chrome-specific binary size queries that group symbols by component such as v8, Skia, net, and Blink.
+# ---
+
 """Contains a set of Chrome-specific size queries."""
 
 import logging

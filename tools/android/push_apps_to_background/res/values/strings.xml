@@ -4,6 +4,12 @@
      found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Android string resources for Push Apps To Background
+summary: Defines the app name and display strings used by the Push Apps To Background Android sample app.
+-->
+
 <resources>
     <string name="app_name">Push Apps To Background</string>
     <string name="push_apps_to_background_message">

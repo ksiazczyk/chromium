@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GroupedPath implementation
+// summary: Implements the GroupedPath two-level path structure with short names, parent lookup, top-level detection, comparison and string output.
+// ---
+
 #include "tools/binary_size/libsupersize/viewer/caspian/grouped_path.h"
 
 #include <stdint.h>

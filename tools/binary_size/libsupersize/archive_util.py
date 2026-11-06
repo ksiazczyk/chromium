@@ -1,6 +1,13 @@
 # Copyright 2022 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Shared archive utilities
+# summary: Helpers shared by archive-related modules for normalizing object and source paths and extending section ranges.
+# ---
+
 """Logic needed by multiple archive-related modules."""
 
 import logging

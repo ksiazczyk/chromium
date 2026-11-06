@@ -1,0 +1,4 @@
+# Docerion header of supersize.pydeps.
+type: config
+title: Python Dependency List for Supersize
+summary: Generated list of Python module dependencies for the Supersize tool, including grit and libsupersize modules.

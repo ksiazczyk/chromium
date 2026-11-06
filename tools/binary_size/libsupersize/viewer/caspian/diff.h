@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the Diff function
+// summary: Declares the Diff function that computes a DeltaSizeInfo from before and after SizeInfo data.
+// ---
+
 #ifndef TOOLS_BINARY_SIZE_LIBSUPERSIZE_VIEWER_CASPIAN_DIFF_H_
 #define TOOLS_BINARY_SIZE_LIBSUPERSIZE_VIEWER_CASPIAN_DIFF_H_
 

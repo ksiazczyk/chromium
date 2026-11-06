@@ -1,0 +1,4 @@
+# Docerion header of ninja_parser_test.py.
+type: test
+title: Unit tests for the Ninja parser
+summary: Unit tests covering parsing of Ninja build lines, dependency maps and path handling in ninja_parser.

@@ -1,3 +1,11 @@
+---
+type: readme
+title: Bedrock Tools and Utilities
+summary: Overview of the Bedrock project helper scripts, explaining the usage of bedrock_metrics.py and how to run its test suite.
+relations:
+  - documents /tools/bedrock/bedrock_metrics.py
+---
+
 # Bedrock Tools and Utilities
 
 ## Overview

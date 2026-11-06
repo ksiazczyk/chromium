@@ -1,0 +1,4 @@
+# Docerion header of ar.py.
+type: source
+title: AR archive reader
+summary: Reads .a archives, detects thin archives, iterates embedded object files, and expands thin archives into .o paths.

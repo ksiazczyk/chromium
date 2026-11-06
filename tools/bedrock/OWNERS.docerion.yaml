@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Bedrock Tools OWNERS
+summary: Lists the Chromium owners responsible for reviewing changes to the tools/bedrock directory.

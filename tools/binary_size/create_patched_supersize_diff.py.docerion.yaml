@@ -1,0 +1,4 @@
+# Docerion header of create_patched_supersize_diff.py.
+type: script
+title: Diff .size files and merge .sizediff files
+summary: Command-line helper that diffs two .size files and merges downloaded .sizediff files into a single output via the supersize console.

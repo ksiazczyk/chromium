@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definitions for binary size Python libraries
+summary: Defines Python library targets so the binary size trybot triggers builds when size scripts change, plus targets for sizes and caspian viewers.

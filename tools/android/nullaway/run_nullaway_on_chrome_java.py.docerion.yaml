@@ -1,0 +1,4 @@
+# Docerion header of run_nullaway_on_chrome_java.py.
+type: script
+title: Run NullAway checks on chrome_java
+summary: Wrapper that runs NullAway through ErrorProne on @NullMarked chrome_java files without enabling the annotator.

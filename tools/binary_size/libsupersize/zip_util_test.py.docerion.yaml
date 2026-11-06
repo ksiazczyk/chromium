@@ -1,0 +1,4 @@
+# Docerion header of zip_util_test.py.
+type: test
+title: Tests for zip utilities
+summary: Unit tests covering zip extra field length parsing and APK signature block measurement, using zipalign when available.

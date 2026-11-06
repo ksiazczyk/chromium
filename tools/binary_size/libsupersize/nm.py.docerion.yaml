@@ -1,0 +1,4 @@
+# Docerion header of nm.py.
+type: source
+title: nm wrapper and symbol alias collection
+summary: Runs nm on ELF and object files to collect symbol names, aliases by address and unique symbols for size analysis.

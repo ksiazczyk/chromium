@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stub base callback header for rewriter tests
+// summary: Minimal stub of base callback classes plus Passed, Bind, BindOnce and BindRepeating used as a fixture by the clang rewriter tests.
+// ---
+
 #ifndef TOOLS_CLANG_BASE_BIND_REWRITERS_TESTS_CALLBACK_H_
 #define TOOLS_CLANG_BASE_BIND_REWRITERS_TESTS_CALLBACK_H_
 

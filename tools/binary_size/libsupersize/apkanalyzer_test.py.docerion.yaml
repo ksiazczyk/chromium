@@ -1,0 +1,4 @@
+# Docerion header of apkanalyzer_test.py.
+type: test
+title: apkanalyzer unit tests
+summary: Unit tests for hierarchical size undoing and synthetic class name normalization in apkanalyzer.

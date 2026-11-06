@@ -1,6 +1,13 @@
 # Copyright 2022 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Native disassembly retrieval and normalization
+# summary: Gets the native disassembly for symbols and normalizes objdump output lines across ARM, ARM64 and x86.
+# ---
+
 """Class to get the native disassembly for symbols."""
 
 import contextlib

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Expected output for passed-to-move rewriter test
+// summary: Expected result of the passed-to-move rewriter test where base::Passed arguments are replaced with std::move, including pointer dereference cases.
+// ---
+
 #include "base/functional/bind.h"
 #include "callback.h"
 

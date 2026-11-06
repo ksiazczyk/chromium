@@ -1,0 +1,4 @@
+# Docerion header of native_disassembly_test.py.
+type: test
+title: Unit tests for native disassembly normalization
+summary: Unit tests verifying that native_disassembly normalizes disassembly lines, stack offsets, branches and comments.

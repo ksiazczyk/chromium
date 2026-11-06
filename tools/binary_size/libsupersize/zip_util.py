@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: ZIP and APK split utilities
+# summary: Extracts APK splits and zip entries to temporary directories and reads zip metadata such as extra field lengths.
+# ---
+
 """Utilities to process compresssed files."""
 
 import contextlib

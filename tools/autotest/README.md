@@ -1,3 +1,11 @@
+---
+type: readme
+title: Autotest
+summary: Explains how to use autotest.py to resolve files, directories, or test names into GN targets, build them, and run the resulting tests.
+relations:
+  - documents /tools/autotest.py
+---
+
 # Autotest
 
 The script eliminates the manual overhead of finding which build target contains a specific test.

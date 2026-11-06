@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: checkperms presubmit script
+# summary: Presubmit script that runs checkperms.py as a unit test whenever Python files are affected by a change.
+# ---
+
 """Top-level presubmit script for checkperms.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

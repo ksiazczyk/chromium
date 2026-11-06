@@ -1,0 +1,4 @@
+# Docerion header of sizes.gni.
+type: config
+title: GN Template for Binary Size Tests
+summary: Defines the sizes_test GN template that wraps sizes.py as a runnable test wrapper with the required tooling data.

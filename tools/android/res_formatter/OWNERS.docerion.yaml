@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for res_formatter
+summary: Lists the code owner of the res_formatter directory.

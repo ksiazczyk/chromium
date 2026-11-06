@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for checkteamtags
+# summary: Presubmit script that runs the checkteamtags unit tests whenever Python files in the change are affected.
+# ---
+
 """Top-level presubmit script for checkteamtags
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts for

@@ -1,0 +1,4 @@
+# Docerion header of find_unmarked_chrome_java.py.
+type: script
+title: Find unmarked classes in chrome_java
+summary: Analyzes chrome_java sources and the class dependency graph to find unmarked classes and determine which can be annotated next.

@@ -1,0 +1,4 @@
+# Docerion header of extract_components.py.
+type: script
+title: Extract component mapping from OWNERS files
+summary: Script that recursively parses OWNERS files, extracts TEAM and COMPONENT tags, and writes a JSON component mapping with coverage statistics.

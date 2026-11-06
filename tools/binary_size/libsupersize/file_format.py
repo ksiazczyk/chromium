@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Size file format loader and writer
+# summary: Loads and saves .size and .sizediff files, sorting symbols deterministically per the documented file format specification.
+# ---
+
 """Deals with loading & saving .size and .sizediff files.
 
 See docs/file_format.md for a specification of the file formats.

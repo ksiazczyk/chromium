@@ -1,0 +1,4 @@
+# Docerion header of test_health_extractor_unittest.py.
+type: test
+title: Test Health Extractor Unit Tests
+summary: Unit tests for repository test health extraction, using healthy and unhealthy sample Java tests to check extracted counters and metadata.

@@ -1,6 +1,13 @@
 # Copyright 2017 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Main binary size analysis API
+# summary: Main Python API that collects APK, native library, and pak data into .size files, defining the specs used for analysis.
+# ---
+
 """Main Python API for analyzing binary size."""
 
 import argparse

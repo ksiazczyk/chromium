@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Test build and execution helpers
+# summary: Builds test targets with ninja and runs gtest or web tests, assembling commands with filters and extra arguments while logging and reporting results.
+# ---
+
 import os
 import shlex
 import shutil

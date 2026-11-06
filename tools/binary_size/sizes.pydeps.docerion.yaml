@@ -1,0 +1,4 @@
+# Docerion header of sizes.pydeps.
+type: config
+title: Python Dependency List for sizes.py
+summary: Generated list of Python module dependencies for sizes.py used by the build to package the tool.

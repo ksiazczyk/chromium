@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: vpython dependency specification
+# summary: Pins the required Python version and third-party dependencies for running Autotest under vpython.
+# ---
+
 requires-python = '>=3.11,<3.12'
 dependencies = [
   'click==7.0',

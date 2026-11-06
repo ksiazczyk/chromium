@@ -1,3 +1,11 @@
+---
+type: reference
+title: Pak Symbols
+summary: Explains how pak resource entries become .pak symbols, using grit info files and pak ID to source path mappings during archiving.
+relations:
+  - references /tools/grit/README.md
+---
+
 ## Pak Symbols
 
 Pak symbols are those with a `section` of:

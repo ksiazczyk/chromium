@@ -1,0 +1,4 @@
+# Docerion header of cast_core.version.
+type: config
+title: Cast Core version pin
+summary: Pins the Cast Core prebuilt version that update_binaries.py downloads into third_party/cast_core/prebuilts.

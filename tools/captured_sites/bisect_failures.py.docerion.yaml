@@ -1,0 +1,4 @@
+# Docerion header of bisect_failures.py.
+type: script
+title: Captured Sites Failure Bisect Script
+summary: Bisects captured sites bot failures to find the culprit CL by comparing site results across builds and running a local git bisect.

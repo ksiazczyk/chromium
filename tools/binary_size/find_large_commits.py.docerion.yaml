@@ -1,0 +1,4 @@
+# Docerion header of find_large_commits.py.
+type: script
+title: List large size-impacting commits from a telemetry CSV
+summary: Reads a telemetry size graph CSV and prints commits whose size deltas exceed configurable thresholds, with commit metadata from git.

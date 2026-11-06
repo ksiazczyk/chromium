@@ -1,6 +1,13 @@
 # Copyright 2017 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Human-readable model formatting
+# summary: Converts size models and diffs into human-readable text, CSV, and histogram output.
+# ---
+
 """Methods for converting model objects to human-readable formats."""
 
 import abc

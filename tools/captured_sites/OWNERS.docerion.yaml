@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Captured Sites Tool Owners
+summary: Declares the owners of the captured sites tools directory, inheriting additional reviewers from the autofill component.

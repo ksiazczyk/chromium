@@ -1,0 +1,4 @@
+# Docerion header of refresh.py.
+type: script
+title: WPR Archive Refresh Script
+summary: Refreshes recorded WPR archives by fetching fresh autofill server predictions and merging them into existing site recordings.

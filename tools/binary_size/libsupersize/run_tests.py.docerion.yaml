@@ -1,0 +1,4 @@
+# Docerion header of run_tests.py.
+type: script
+title: SuperSize unit test runner
+summary: Discovers and runs all *_test.py unit tests in the libsupersize directory with configurable verbosity.

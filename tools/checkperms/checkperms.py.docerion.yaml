@@ -1,0 +1,4 @@
+# Docerion header of checkperms.py.
+type: script
+title: checkperms file permissions checker
+summary: Verifies that repository files have the correct executable bit using extension, path, filename, and shebang or ELF/Mach-O header rules.

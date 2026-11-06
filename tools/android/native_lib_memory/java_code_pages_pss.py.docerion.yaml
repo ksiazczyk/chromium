@@ -1,0 +1,4 @@
+# Docerion header of java_code_pages_pss.py.
+type: script
+title: Print PSS of another app's pages in Chrome
+summary: Prints the executable and other PSS contributed by another app's code and bytecode pages mapped into Chrome's processes.

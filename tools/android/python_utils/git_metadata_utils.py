@@ -2,6 +2,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Git repository metadata utilities
+# summary: Provides helpers for retrieving Git repository metadata such as the HEAD commit hash, timestamp, commit position, and the Chromium src path.
+# ---
+
 """Helper module for retrieving git repository metadata."""
 
 import datetime as dt

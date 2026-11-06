@@ -1,0 +1,4 @@
+# Docerion header of null_mark.py.
+type: script
+title: Add @NullMarked annotations to Java files
+summary: Rewrites Java files to add @NullMarked, nullability imports and @Nullable fixes, then formats them with google-java-format.

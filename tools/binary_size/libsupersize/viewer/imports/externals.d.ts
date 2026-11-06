@@ -7,6 +7,12 @@
  * Declarations for extern libraries for checking only (not production).
  */
 
+// ---docerion
+// type: source
+// title: TypeScript declarations for external libraries
+// summary: Declares type-check-only definitions for external libraries used by the viewer, including Google OAuth APIs, Emscripten, and Diff2Html.
+// ---
+
 // Google APIs definitions.
 declare namespace google {
   declare namespace accounts {

@@ -1,0 +1,4 @@
+# Docerion header of upload_html_viewer.py.
+type: script
+title: SuperSize viewer Firebase deployment script
+summary: Deploys the viewer's static files to the chrome-supersize Firebase project in dev, staging, or prod mode, downloading WASM files and generating the service worker as needed.

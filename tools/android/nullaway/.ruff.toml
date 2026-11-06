@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Ruff lint configuration for the nullaway tools
+# summary: Extends the repository-wide Ruff configuration and sets an indent width of 4 for this directory.
+# ---
+
 extend = "../../.ruff.toml"
 indent-width = 4

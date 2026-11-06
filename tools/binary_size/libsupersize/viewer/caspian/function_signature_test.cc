@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Function signature parsing unit tests
+// summary: Unit tests covering string splitting, bracket-aware index lookups, lambda normalization, and Java and C++ signature parsing behavior.
+// ---
+
 #include "tools/binary_size/libsupersize/viewer/caspian/function_signature.h"
 
 #include <string>

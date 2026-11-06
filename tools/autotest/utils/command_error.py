@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Autotest command error exceptions
+# summary: Defines CommandError, which reports failed subcommands with exit status and output, and the general AutotestError exception.
+# ---
+
 class CommandError(Exception):
   """Exception thrown when a subcommand fails."""
 

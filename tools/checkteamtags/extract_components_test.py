@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Unit tests for extract_components
+# summary: Unit tests verifying the generated component-to-team and directory mappings, including OS tag handling, from mocked OWNERS data.
+# ---
+
 import json
 import unittest
 import unittest.mock as mock

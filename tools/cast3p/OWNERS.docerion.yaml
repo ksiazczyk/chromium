@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for cast3p tools
+summary: Lists code owners for the cast3p tools directory and delegates the cast_core.version and runtime.version files to the Chromium internal autoroller account.

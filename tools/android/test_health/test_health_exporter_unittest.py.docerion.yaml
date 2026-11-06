@@ -1,0 +1,4 @@
+# Docerion header of test_health_exporter_unittest.py.
+type: test
+title: Test Health Exporter Unit Tests
+summary: Unit tests verifying that the exporter writes correct JSON Lines output for single and multiple Java tests, including omitted package handling.

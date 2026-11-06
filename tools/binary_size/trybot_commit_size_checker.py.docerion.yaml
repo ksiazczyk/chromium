@@ -1,0 +1,4 @@
+# Docerion header of trybot_commit_size_checker.py.
+type: script
+title: Trybot Commit Size Checker
+summary: Creates the files used by the Android binary size trybot to monitor size regressions, comparing before and after builds and reporting size deltas.

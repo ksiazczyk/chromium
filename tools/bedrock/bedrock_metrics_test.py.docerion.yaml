@@ -1,0 +1,4 @@
+# Docerion header of bedrock_metrics_test.py.
+type: test
+title: Bedrock Metrics Unit Tests
+summary: Unittest suite that verifies the file matching and line counting functions of bedrock_metrics.py using temporary test files.

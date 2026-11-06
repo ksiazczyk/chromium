@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Lists the Chromium accounts responsible for the native_lib_memory tools directory.

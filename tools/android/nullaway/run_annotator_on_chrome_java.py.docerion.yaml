@@ -1,0 +1,4 @@
+# Docerion header of run_annotator_on_chrome_java.py.
+type: script
+title: Run NullAway and annotator on chrome_java
+summary: Prepares and runs ErrorProne with NullAway, optionally with the NullAway annotator, over @NullMarked chrome_java sources.

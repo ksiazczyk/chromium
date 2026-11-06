@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: OWNERS tag parsing and aggregation library
+# summary: Library that parses TEAM, COMPONENT and OS tags from OWNERS files and aggregates them into component mappings, warnings and coverage statistics.
+# ---
+
 import os
 import posixpath
 import re

@@ -1,0 +1,4 @@
+# Docerion header of generate_commit_size_analysis.py.
+type: script
+title: Generate size analysis files for the commit size checker
+summary: Builds results-chart.json and SuperSize archives from a size bot config so they can feed into trybot_commit_size_checker.

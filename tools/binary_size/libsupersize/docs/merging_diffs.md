@@ -1,3 +1,11 @@
+---
+type: guide
+title: Merging Size Diffs
+summary: How to filter toolchain-related size changes out of milestone diffs using create_patched_supersize_diff.py with .size and .sizediff files.
+relations:
+  - documents /tools/binary_size/create_patched_supersize_diff.py
+---
+
 # Merging Size Diffs
 
 When looking at a diff across milestones, it can be useful to filter out the

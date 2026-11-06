@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: dedup.py
+# summary: Python script that deduplicates and filters the rewriter's substitution directives and writes them out with begin/end edit tags.
+# ---
+
 import os
 import sys
 

@@ -4,6 +4,12 @@
 
 // Command-line interface for checking the integrity of .size files.
 
+// ---docerion
+// type: source
+// title: Caspian command-line test app
+// summary: Linux command-line tool to validate, diff, and show disassembly of .size and .sizediff files.
+// ---
+
 #include <stdlib.h>
 
 #include <algorithm>

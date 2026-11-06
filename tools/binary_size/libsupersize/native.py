@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Native symbol creation from ELF files
+# summary: Creates native code symbols from ELF files, combining readelf, nm, linker maps and ninja data for SuperSize size analysis.
+# ---
+
 """Functions for creating native code symbols from ELF files."""
 
 import calendar

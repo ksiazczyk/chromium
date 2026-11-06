@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Subprocess and test result helpers for autotest
+# summary: Runs test commands with gtest or web test result parsing, executes subprocesses with error handling, and helps users pick ambiguous paths or targets.
+# ---
+
 import locale
 import os
 import shlex

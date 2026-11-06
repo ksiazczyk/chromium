@@ -1,6 +1,13 @@
 # Copyright 2022 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: JSON config parser
+# summary: Loads the --json-config file and exposes settings for APK splits, native file components, and source path defaults.
+# ---
+
 """For interfacing with --json-config file."""
 
 import json

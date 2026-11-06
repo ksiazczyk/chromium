@@ -1,3 +1,11 @@
+---
+type: readme
+title: Captured Sites Automation Framework
+summary: Explains the helper scripts for recording, replaying, and running hermetic captured sites UI tests for autofill and password flows.
+relations:
+  - documents /tools/captured_sites/control.py
+---
+
 # Captured Sites Automation Framework
 
 ## Overview

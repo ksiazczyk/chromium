@@ -1,0 +1,4 @@
+# Docerion header of arsc_parser.py.
+type: source
+title: ARSC resource file parser
+summary: Shallow chunk-level parser for Android resources.arsc files used in binary size analysis.

@@ -1,3 +1,9 @@
+---
+type: readme
+title: Python Utility / Helper Modules for Android Tools
+summary: Explains how to import the shared Python utility modules in tools/android and describes the git metadata and subprocess helpers.
+---
+
 # Python Utility / Helper Modules for Android Tools
 
 ## Overview

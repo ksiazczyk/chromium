@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for .size file parsing
+// summary: Declares functions to parse .size and .sizediff files into SizeInfo structures.
+// ---
+
 #ifndef TOOLS_BINARY_SIZE_LIBSUPERSIZE_VIEWER_CASPIAN_FILE_FORMAT_H_
 #define TOOLS_BINARY_SIZE_LIBSUPERSIZE_VIEWER_CASPIAN_FILE_FORMAT_H_
 

@@ -1,3 +1,13 @@
+---
+type: readme
+title: SuperSize README
+summary: Introduces the SuperSize tool, documents its archive, console, save_diff, and diff commands, and explains sharing .size and .sizediff files.
+relations:
+  - references /docs/speed/binary_size/android_binary_size_trybot.md
+  - references /tools/binary_size/diagnose_bloat.py
+  - documents /tools/binary_size/supersize
+---
+
 # SuperSize
 
 SuperSize is comprised of two parts:

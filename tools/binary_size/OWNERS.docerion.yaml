@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the binary size tools directory
+summary: Lists the reviewers responsible for changes in the binary size tools directory.

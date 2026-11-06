@@ -1,0 +1,4 @@
+# Docerion header of generate_milestone_reports.py.
+type: script
+title: Generate HTML reports for Chrome milestone sizes
+summary: Generates and optionally uploads HTML reports to a GCS bucket for viewing or diffing binary sizes across Chrome milestones and APK variants.

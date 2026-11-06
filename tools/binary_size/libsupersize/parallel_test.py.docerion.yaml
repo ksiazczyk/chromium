@@ -1,0 +1,4 @@
+# Docerion header of parallel_test.py.
+type: test
+title: Unit tests for multiprocessing helpers
+summary: Unit tests for parallel's fork-and-call helpers, encoded dict-of-lists utilities and thread invocation.

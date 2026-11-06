@@ -1,0 +1,4 @@
+# Docerion header of visualize.html.
+type: source
+title: Code pages to component visualization page
+summary: HTML page that loads D3 and visualize.js to chart code pages by component from map, reached, and residency JSON data.

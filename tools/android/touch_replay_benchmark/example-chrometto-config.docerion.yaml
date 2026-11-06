@@ -1,0 +1,4 @@
+# Docerion header of example-chrometto-config.
+type: config
+title: Example Chrometto tracing config
+summary: Example Perfetto tracing configuration for Chrometto, defining buffers and data sources for ftrace, process stats and Chrome trace events.

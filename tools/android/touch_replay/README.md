@@ -1,3 +1,9 @@
+---
+type: readme
+title: Android Touch Replay Tool
+summary: Explains how to record and replay touch events on Android devices, including build and usage instructions and how to combine replay with Perfetto tracing.
+---
+
 # Android Touch Replay Tool
 
 This tool allows to record and replay touch events on Android devices. The

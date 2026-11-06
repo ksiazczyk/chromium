@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Issue tracker metadata for the binary size tools
+summary: Maps the directory to the Tools monorail component and a Buganizer component for issue tracking.

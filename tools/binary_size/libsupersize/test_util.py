@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Test utilities and golden file helpers
+# summary: Provides golden-file comparison, mock toolchain paths, and environment helpers used by SuperSize tests.
+# ---
+
 import contextlib
 import difflib
 import logging

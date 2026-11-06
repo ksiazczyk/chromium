@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for tools/bisect
+summary: Lists the owner responsible for the tools/bisect directory.

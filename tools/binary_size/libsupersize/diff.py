@@ -1,6 +1,13 @@
 # Copyright 2017 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: SizeInfo diffing logic
+# summary: Matches symbols between two SizeInfo snapshots using progressively looser keys to produce delta symbols for binary size diffs.
+# ---
+
 """Logic for diffing two SizeInfo objects. See: ./docs/diffs.md"""
 
 import collections

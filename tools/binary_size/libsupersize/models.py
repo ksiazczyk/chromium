@@ -1,6 +1,13 @@
 # Copyright 2017 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Binary size data model
+# summary: Defines the data model classes, section names, symbol flags, and metadata constants used throughout binary size analysis.
+# ---
+
 """Classes that comprise the data model for binary size analysis.
 
 See docs/data_model.md for an explanation of what fields do.

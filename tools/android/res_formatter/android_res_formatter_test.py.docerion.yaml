@@ -1,0 +1,4 @@
+# Docerion header of android_res_formatter_test.py.
+type: test
+title: Android resource formatter unit tests
+summary: Unit tests covering the formatter's attribute ordering, line wrapping and XML formatting behavior.

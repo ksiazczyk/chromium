@@ -1,0 +1,4 @@
+# Docerion header of java_file_stats.py.
+type: script
+title: Collect @NullMarked progress statistics
+summary: Collects and prints statistics on @NullMarked, @NullUnmarked and unannotated Java files, broken down by source directory.

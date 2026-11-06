@@ -1,0 +1,4 @@
+# Docerion header of control.py.
+type: script
+title: Captured Sites Control Entry Point
+summary: Entry point that launches captured sites framework commands and handles termination signals so spawned test processes exit cleanly.

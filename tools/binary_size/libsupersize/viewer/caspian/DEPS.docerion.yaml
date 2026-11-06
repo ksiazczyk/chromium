@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Caspian include rules
+summary: Specifies the allowed third-party and test include paths for code in the Caspian directory.

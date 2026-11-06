@@ -1,3 +1,13 @@
+---
+type: readme
+title: Overview of Chrome's binary size analysis tools
+summary: Describes Chrome's binary size tooling, including the trybot, SuperSize, diagnose_bloat.py usage examples, and links to related resources.
+relations:
+  - references /docs/speed/apk_size_regressions.md
+  - references /docs/speed/binary_size/android_binary_size_trybot.md
+  - references /docs/speed/binary_size/metrics.md
+---
+
 # Tools for Analyzing Chrome's Binary Size
 
 These tools currently focus on supporting Android. They somewhat work with

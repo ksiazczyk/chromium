@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: String literal extraction from object files
+# summary: Extracts and resolves string literals from ELF .rodata sections of object files and archives for size attribution.
+# ---
+
 """Utilities to extract string literals from object files.
 
 LookupElfRodataInfo():

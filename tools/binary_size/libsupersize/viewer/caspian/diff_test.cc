@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for symbol diffing
+// summary: gtest unit tests covering symbol matching, padding, and diff counts produced by the Diff function.
+// ---
+
 #include "tools/binary_size/libsupersize/viewer/caspian/diff.h"
 
 #include <stdint.h>

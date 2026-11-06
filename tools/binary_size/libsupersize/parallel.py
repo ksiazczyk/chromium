@@ -1,6 +1,13 @@
 # Copyright 2017 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Multiprocessing helpers
+# summary: Helpers for running functions in forked processes and threads, with exception marshalling and synchronous mode.
+# ---
+
 """Helpers related to multiprocessing."""
 
 import builtins

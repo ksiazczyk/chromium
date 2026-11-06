@@ -1,0 +1,4 @@
+# Docerion header of bcanalyzer_test.py.
+type: test
+title: BcAnalyzer tag parsing unit tests
+summary: Unit tests for bcanalyzer's tag parsing, covering valid and invalid LLVM bitcode analyzer tags.

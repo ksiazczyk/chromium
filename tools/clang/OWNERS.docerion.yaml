@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for clang tools
+summary: Lists the owners for clang tooling changes, referencing the scripts OWNERS file and dcheng@chromium.org.

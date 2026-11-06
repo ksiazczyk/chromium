@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Unit tests for owners_file_tags
+# summary: Unit tests verifying scraping and parsing of TEAM, COMPONENT and OS tags from mocked OWNERS file trees, including subdirectory inheritance.
+# ---
+
 from collections import OrderedDict
 from contextlib import contextmanager
 import os

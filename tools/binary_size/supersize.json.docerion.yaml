@@ -1,0 +1,4 @@
+# Docerion header of supersize.json.
+type: config
+title: Supersize Component Mapping Config
+summary: Maps APK assets, splits, native libraries, and component overrides to size components for Supersize analysis.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Test target finder via GN refs
+# summary: Resolves test file paths to GN build targets for the autotest tool by running gn refs, filtering test target suffixes, and caching results keyed on build.ninja's modification time.
+# ---
+
 import argparse
 import json
 import os

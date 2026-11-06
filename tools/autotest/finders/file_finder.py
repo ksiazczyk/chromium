@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Test file finder for autotest
+# summary: Locates and classifies test files for the autotest tool, matching filenames recursively, using remote code search, and validating web tests and gtest, Rust, or Java test definitions.
+# ---
+
 import os
 import pathlib
 import re

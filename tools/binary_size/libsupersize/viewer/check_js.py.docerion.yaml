@@ -1,0 +1,4 @@
+# Docerion header of check_js.py.
+type: script
+title: JavaScript type checking script
+summary: Runs the TypeScript compiler against the viewer's jsconfig.json to check JavaScript syntax and JSDoc, printing compiler errors and exiting nonzero on failure.

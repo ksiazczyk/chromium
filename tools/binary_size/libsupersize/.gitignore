@@ -1,1 +1,7 @@
+# ---docerion
+# type: config
+# title: Gitignore for SuperSize viewer artifacts
+# summary: Ignores generated caspian_web static files under viewer/static.
+# ---
+
 viewer/static/caspian_web*

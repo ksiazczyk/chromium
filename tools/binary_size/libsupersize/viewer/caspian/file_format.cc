@@ -6,6 +6,12 @@
  * The .size file spec is found in libsupersize/file_format.py
  */
 
+// ---docerion
+// type: source
+// title: Parser for .size files
+// summary: C++ implementation of the .size and .sizediff file parser, including gzip decompression and JSON metadata.
+// ---
+
 #include "tools/binary_size/libsupersize/viewer/caspian/file_format.h"
 
 #include <assert.h>

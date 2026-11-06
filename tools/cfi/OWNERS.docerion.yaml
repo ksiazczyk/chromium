@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: CFI tools directory OWNERS
+summary: Lists vitalybuka@chromium.org as the owner responsible for the tools/cfi directory.

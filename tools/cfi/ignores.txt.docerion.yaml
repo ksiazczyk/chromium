@@ -1,0 +1,4 @@
+# Docerion header of ignores.txt.
+type: config
+title: CFI sanitizer ignore list
+summary: Defines which warnings are ignored when running clang's control flow integrity sanitizer via the cfi_flags build target, with guidance on when to add entries.

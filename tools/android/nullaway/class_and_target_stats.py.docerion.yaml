@@ -1,0 +1,4 @@
+# Docerion header of class_and_target_stats.py.
+type: script
+title: Report build targets needing null annotations
+summary: Prints build targets that still need null-annotation, sorted by how many of their dependencies are not yet fully annotated.

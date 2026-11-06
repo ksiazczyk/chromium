@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Test result summary parsing
+# summary: Provides the TestSummary dataclass and parsers that turn gtest and web test JSON result files into counts of passed and failed tests.
+# ---
+
 from dataclasses import dataclass, field
 import json
 import os

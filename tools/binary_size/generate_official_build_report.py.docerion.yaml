@@ -1,0 +1,4 @@
+# Docerion header of generate_official_build_report.py.
+type: source
+title: Official Build Supersize Report Generator
+summary: Uploads .size files to Google Storage and regenerates the canary reports JSON for official Chrome build versions.

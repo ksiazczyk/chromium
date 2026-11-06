@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3 visualization logic for code pages
+// summary: Fetches map, reached, and residency JSON data and renders a D3 chart coloring code pages by component and reachability.
+// ---
+
 /**
  * Fetches all the urls, and calls {@link createGraph} with the JSON contents.
  */

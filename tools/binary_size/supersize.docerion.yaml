@@ -1,0 +1,4 @@
+# Docerion header of supersize.
+type: script
+title: Supersize Launcher Script
+summary: Bash wrapper that launches the Supersize binary size tool through libsupersize/main.py with Python 3.

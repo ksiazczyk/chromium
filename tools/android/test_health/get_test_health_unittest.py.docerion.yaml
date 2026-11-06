@@ -1,0 +1,4 @@
+# Docerion header of get_test_health_unittest.py.
+type: test
+title: Unit tests for get_test_health
+summary: Runs the get_test_health script end to end and checks output file creation and required-argument error handling.

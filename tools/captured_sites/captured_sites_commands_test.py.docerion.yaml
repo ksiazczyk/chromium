@@ -1,0 +1,4 @@
+# Docerion header of captured_sites_commands_test.py.
+type: test
+title: Captured Sites Commands Unit Tests
+summary: Unit tests that verify the commands constructed by captured_sites_commands for each framework subcommand.

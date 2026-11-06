@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Caspian binary size data model header
+// summary: Defines the core data model for the Caspian binary size viewer, including symbol, section, container, and diff status types.
+// ---
+
 #ifndef TOOLS_BINARY_SIZE_LIBSUPERSIZE_VIEWER_CASPIAN_MODEL_H_
 #define TOOLS_BINARY_SIZE_LIBSUPERSIZE_VIEWER_CASPIAN_MODEL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Symbol and container model implementation
+// summary: Implements the data model for containers, symbols and delta symbols, including lazy name derivation and size, padding and PSS accessors.
+// ---
+
 #include "tools/binary_size/libsupersize/viewer/caspian/model.h"
 
 #include <algorithm>
