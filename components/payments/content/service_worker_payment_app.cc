@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker payment app implementation
+// summary: Implements a service worker based payment app, covering validation, invocation, and installable app behavior for payment requests.
+// ---
+
 #include "components/payments/content/service_worker_payment_app.h"
 
 #include <limits>

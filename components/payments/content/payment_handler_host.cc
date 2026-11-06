@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment handler host implementation
+// summary: Implements communication from the payment handler renderer to the merchant renderer, including details updates and DevTools logging of payment handler events.
+// ---
+
 #include "components/payments/content/payment_handler_host.h"
 
 #include <utility>

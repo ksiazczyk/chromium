@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manifest verifier implementation
+// summary: Implements ManifestVerifier, which checks that payment handlers may use the payment method names they claim by downloading and caching method manifests.
+// ---
+
 #include "components/payments/content/manifest_verifier.h"
 
 #include <stdint.h>

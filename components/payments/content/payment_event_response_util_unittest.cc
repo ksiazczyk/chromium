@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment event response utility unit tests
+// summary: Verifies that all payment event response types convert to correct error strings and that user-cancel and app-error responses map to the right error reasons.
+// ---
+
 #include "components/payments/content/payment_event_response_util.h"
 
 #include <cstdint>

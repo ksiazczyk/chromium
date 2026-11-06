@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test content payment request delegate header
+// summary: Declares the test delegate that replaces the content payment request delegate in payment request unit tests.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_TEST_CONTENT_PAYMENT_REQUEST_DELEGATE_H_
 #define COMPONENTS_PAYMENTS_CONTENT_TEST_CONTENT_PAYMENT_REQUEST_DELEGATE_H_
 

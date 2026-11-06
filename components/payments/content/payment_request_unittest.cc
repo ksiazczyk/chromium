@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaymentRequest validation unit tests
+// summary: Parameterized unit tests for PaymentRequest validation, including secure payment confirmation method data and payment details.
+// ---
+
 #include "components/payments/content/payment_request.h"
 
 #include <memory>

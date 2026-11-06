@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Secure payment confirmation app unit tests
+// summary: Unit tests for the secure payment confirmation app, verifying payment details, credential requests, and transaction behavior.
+// ---
+
 #include "components/payments/content/secure_payment_confirmation_app.h"
 
 #include <cstdint>

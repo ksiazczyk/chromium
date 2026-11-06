@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test payment manifest downloader
+// summary: Test downloader that redirects payment method and web app manifest downloads to a local test server by replacing URL prefixes.
+// ---
+
 #include "components/payments/content/test_payment_manifest_downloader.h"
 
 #include <utility>

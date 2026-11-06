@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android app communication test support interface
+// summary: Cross-platform test support interface for setting expectations on Android payment app queries, ready-to-pay checks, and invocations in tests.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_ANDROID_APP_COMMUNICATION_TEST_SUPPORT_H_
 #define COMPONENTS_PAYMENTS_CONTENT_ANDROID_APP_COMMUNICATION_TEST_SUPPORT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure payment confirmation controller implementation
+// summary: Implements the controller that drives the secure payment confirmation dialog, including showing, closing, and recording transaction outcome metrics.
+// ---
+
 #include "components/payments/content/secure_payment_confirmation_controller.h"
 
 #include "base/check.h"

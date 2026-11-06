@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaymentApp unit tests
+// summary: Parameterized unit tests for PaymentApp covering app sorting and behavior across required shipping and contact information options.
+// ---
+
 #include "components/payments/content/payment_app.h"
 
 #include <memory>

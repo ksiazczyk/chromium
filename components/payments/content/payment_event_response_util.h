@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment event response utility declarations
+// summary: Declares functions converting payment event response types into developer-facing error strings and PaymentErrorReason values.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_PAYMENT_EVENT_RESPONSE_UTIL_H_
 #define COMPONENTS_PAYMENTS_CONTENT_PAYMENT_EVENT_RESPONSE_UTIL_H_
 

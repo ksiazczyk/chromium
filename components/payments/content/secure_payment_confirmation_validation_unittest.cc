@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Secure payment confirmation validation unit tests
+// summary: Unit tests checking that secure payment confirmation request validation reports the correct errors for missing or invalid request fields.
+// ---
+
 #include "components/payments/content/secure_payment_confirmation_validation.h"
 
 #include <string>

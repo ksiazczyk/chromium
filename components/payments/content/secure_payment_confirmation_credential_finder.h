@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure payment confirmation credential finder header
+// summary: Declares the credential finder that queries OS APIs and the user profile database for matching secure payment confirmation credentials.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_SECURE_PAYMENT_CONFIRMATION_CREDENTIAL_FINDER_H_
 #define COMPONENTS_PAYMENTS_CONTENT_SECURE_PAYMENT_CONFIRMATION_CREDENTIAL_FINDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentPaymentRequestDelegate interface
+// summary: Declares the content-based PaymentRequest delegate interface exposing render frame host, authenticator, web data service, display manager and payment handler window embedding.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_CONTENT_PAYMENT_REQUEST_DELEGATE_H_
 #define COMPONENTS_PAYMENTS_CONTENT_CONTENT_PAYMENT_REQUEST_DELEGATE_H_
 

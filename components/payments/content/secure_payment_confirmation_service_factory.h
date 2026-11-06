@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure payment confirmation service factory header
+// summary: Declares CreateSecurePaymentConfirmationService, which connects a Mojo receiver handling SPC tasks including payment credential creation.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_SECURE_PAYMENT_CONFIRMATION_SERVICE_FACTORY_H_
 #define COMPONENTS_PAYMENTS_CONTENT_SECURE_PAYMENT_CONFIRMATION_SERVICE_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidAppCommunication interface
+// summary: Declares the interface for listing Android payment apps, checking readiness to pay, invoking a payment app, and aborting a payment flow.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_ANDROID_APP_COMMUNICATION_H_
 #define COMPONENTS_PAYMENTS_CONTENT_ANDROID_APP_COMMUNICATION_H_
 

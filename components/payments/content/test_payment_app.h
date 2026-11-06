@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test payment app header
+// summary: Declares a fake PaymentApp for use in unit tests of the payments content layer.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_TEST_PAYMENT_APP_H_
 #define COMPONENTS_PAYMENTS_CONTENT_TEST_PAYMENT_APP_H_
 

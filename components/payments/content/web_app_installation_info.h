@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAppInstallationInfo struct header
+// summary: Declares the WebAppInstallationInfo struct holding icon, name, service worker details, preferred Play app IDs, and supported delegations for a web-based payment app parsed from a Web App Manifest.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_WEB_APP_INSTALLATION_INFO_H_
 #define COMPONENTS_PAYMENTS_CONTENT_WEB_APP_INSTALLATION_INFO_H_
 

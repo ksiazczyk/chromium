@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentRequestState implementation
+// summary: Implements PaymentRequestState, which tracks the user's selected payment information and computes whether the user is ready to pay.
+// ---
+
 #include "components/payments/content/payment_request_state.h"
 
 #include <algorithm>

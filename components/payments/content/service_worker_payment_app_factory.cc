@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker payment app factory implementation
+// summary: Creates service worker payment apps from installed and installable apps, validating each before handing them to the delegate.
+// ---
+
 #include "components/payments/content/service_worker_payment_app_factory.h"
 
 #include <algorithm>

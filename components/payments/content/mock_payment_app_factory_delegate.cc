@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock payment app factory delegate implementation
+// summary: Implements MockPaymentAppFactoryDelegate, which builds a payment request spec with test method data and origins for factory tests.
+// ---
+
 #include "components/payments/content/mock_payment_app_factory_delegate.h"
 
 namespace payments {

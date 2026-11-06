@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentHandlerHost class declaration
+// summary: Declares the host that relays payment method, shipping address and shipping option changes between the payment handler and merchant renderer processes.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_PAYMENT_HANDLER_HOST_H_
 #define COMPONENTS_PAYMENTS_CONTENT_PAYMENT_HANDLER_HOST_H_
 

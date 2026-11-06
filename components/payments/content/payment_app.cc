@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentApp base class implementation
+// summary: Implements the PaymentApp base class, including sorting of payment apps by type group and shipping delegation support.
+// ---
+
 #include "components/payments/content/payment_app.h"
 
 #include <algorithm>

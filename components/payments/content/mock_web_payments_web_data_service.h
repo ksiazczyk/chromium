@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock WebPaymentsWebDataService declarations
+// summary: Declares gmock mocks of WebPaymentsWebDataService and WebDataServiceWrapper covering secure payment confirmation credentials and browser-bound keys.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_MOCK_WEB_PAYMENTS_WEB_DATA_SERVICE_H_
 #define COMPONENTS_PAYMENTS_CONTENT_MOCK_WEB_PAYMENTS_WEB_DATA_SERVICE_H_
 

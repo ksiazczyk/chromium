@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentRequestDisplayManager header
+// summary: Declares PaymentRequestDisplayManager, a KeyedService with display handles for showing, retrying, and embedding payment handler windows.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_PAYMENT_REQUEST_DISPLAY_MANAGER_H_
 #define COMPONENTS_PAYMENTS_CONTENT_PAYMENT_REQUEST_DISPLAY_MANAGER_H_
 

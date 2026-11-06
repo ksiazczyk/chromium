@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure payment confirmation service factory
+// summary: Creates a SecurePaymentConfirmationService for frames allowed to use SPC, wiring up the internal authenticator and web payments data service.
+// ---
+
 #include "components/payments/content/secure_payment_confirmation_service_factory.h"
 
 #include "components/keyed_service/core/service_access_type.h"

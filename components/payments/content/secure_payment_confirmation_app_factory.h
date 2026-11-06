@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure payment confirmation app factory declaration
+// summary: Declares SecurePaymentConfirmationAppFactory, a PaymentAppFactory that creates secure payment confirmation apps when a platform authenticator and credentials are available.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_SECURE_PAYMENT_CONFIRMATION_APP_FACTORY_H_
 #define COMPONENTS_PAYMENTS_CONTENT_SECURE_PAYMENT_CONFIRMATION_APP_FACTORY_H_
 

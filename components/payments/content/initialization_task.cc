@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InitializationTask implementation
+// summary: Implements observer registration, removal and one-time initialization notification for payment initialization tasks.
+// ---
+
 #include "components/payments/content/initialization_task.h"
 #include "base/observer_list.h"
 

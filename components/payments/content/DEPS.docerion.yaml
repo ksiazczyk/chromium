@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for payments content
+summary: Specifies which directories the payments content component may include from, with special rules for test files and Ash-specific sources.

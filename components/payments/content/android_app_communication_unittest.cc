@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Android app communication
+// summary: Unit tests for AndroidAppCommunication covering per-browser-context instances, missing payment instances and app description query behavior.
+// ---
+
 #include "components/payments/content/android_app_communication.h"
 
 #include <memory>

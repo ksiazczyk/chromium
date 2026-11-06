@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Payments content build configuration
+summary: GN build file defining the payments content static library, its sources and dependencies, with platform-specific variants for Chrome OS and Android.

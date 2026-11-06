@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Android payment app
+// summary: Unit tests for AndroidPaymentApp covering invocation, response handling and error reporting using the platform test support and test web contents.
+// ---
+
 #include "components/payments/content/android_payment_app.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment response helper implementation
+// summary: Implements PaymentResponseHelper, which assembles the PaymentResponse by normalizing the shipping address and collecting instrument details and payer data from the selected payment app.
+// ---
+
 #include "components/payments/content/payment_response_helper.h"
 
 #include <string>

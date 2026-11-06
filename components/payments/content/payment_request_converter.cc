@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment request Mojo converters
+// summary: Converts Mojo payment method data and details structures into core payments types such as PaymentDetails, PaymentItem, and shipping options.
+// ---
+
 #include "components/payments/content/payment_request_converter.h"
 
 #include <memory>

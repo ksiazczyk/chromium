@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Android payment app factory
+// summary: Unit tests for AndroidPaymentAppFactory, including a regression test for a use-after-free when the initiator RenderFrameHost is null in off-the-record mode.
+// ---
+
 #include "components/payments/content/android_payment_app_factory.h"
 
 #include <memory>

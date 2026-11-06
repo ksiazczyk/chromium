@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentAppService implementation
+// summary: Implements PaymentAppService, which registers service worker, Android app-store billing, and secure payment confirmation factories behind feature flags.
+// ---
+
 #include "components/payments/content/payment_app_service.h"
 
 #include <utility>

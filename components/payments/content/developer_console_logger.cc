@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Developer console logger implementation
+// summary: Sends payment API warnings and errors to the renderer's developer console, falling back to base error logging when no WebContents is available.
+// ---
+
 #include "components/payments/content/developer_console_logger.h"
 
 #include "content/public/browser/web_contents.h"

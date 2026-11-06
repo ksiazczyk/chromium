@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment request converter declarations
+// summary: Declares functions that convert Mojo payment structures into core payment details and method data, including basic card network name mapping.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_PAYMENT_REQUEST_CONVERTER_H_
 #define COMPONENTS_PAYMENTS_CONTENT_PAYMENT_REQUEST_CONVERTER_H_
 

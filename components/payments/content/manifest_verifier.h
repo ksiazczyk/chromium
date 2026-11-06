@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manifest verifier class declaration
+// summary: Declares ManifestVerifier, a class that validates the payment method names claimed by service worker payment apps before they are enabled.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_MANIFEST_VERIFIER_H_
 #define COMPONENTS_PAYMENTS_CONTENT_MANIFEST_VERIFIER_H_
 

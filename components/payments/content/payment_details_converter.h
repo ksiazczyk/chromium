@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentDetailsConverter class declaration
+// summary: Declares the static converter that redacts shipping information and validates payment methods when forwarding merchant details updates to payment handlers.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_PAYMENT_DETAILS_CONVERTER_H_
 #define COMPONENTS_PAYMENTS_CONTENT_PAYMENT_DETAILS_CONVERTER_H_
 

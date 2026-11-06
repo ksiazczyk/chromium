@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock PaymentAppFactory delegate for tests
+// summary: Gmock mock of PaymentAppFactory::Delegate that provides test origins, specs, and stubbed app creation callbacks for payment app factory tests.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_MOCK_PAYMENT_APP_FACTORY_DELEGATE_H_
 #define COMPONENTS_PAYMENTS_CONTENT_MOCK_PAYMENT_APP_FACTORY_DELEGATE_H_
 

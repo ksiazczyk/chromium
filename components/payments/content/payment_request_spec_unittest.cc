@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaymentRequestSpec unit tests
+// summary: Unit tests for PaymentRequestSpec covering shipping option selection, spec updates, retry errors and method data validation.
+// ---
+
 #include "components/payments/content/payment_request_spec.h"
 
 #include <memory>

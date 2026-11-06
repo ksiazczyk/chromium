@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment details converter implementation
+// summary: Converts and redacts merchant payment details updates into a structure that can be sent to the payment handler, filtering invalid payment method modifiers.
+// ---
+
 #include "components/payments/content/payment_details_converter.h"
 
 #include <utility>

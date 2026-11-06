@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installable payment app crawler implementation
+// summary: Downloads and parses payment method and web app manifests to discover just-in-time installable payment apps and refresh metadata for installed ones.
+// ---
+
 #include "components/payments/content/installable_payment_app_crawler.h"
 
 #include <limits>

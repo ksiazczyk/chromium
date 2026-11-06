@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SecurePaymentConfirmationService unit tests
+// summary: Unit tests for the secure payment confirmation service covering availability, capabilities and credential flows with mock authenticator and data service.
+// ---
+
 #include "components/payments/content/secure_payment_confirmation_service.h"
 
 #include <vector>

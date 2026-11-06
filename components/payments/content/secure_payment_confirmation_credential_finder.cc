@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure payment confirmation credential finder implementation
+// summary: Implements retrieval and matching of secure payment confirmation credentials from OS stores and the user profile web database, with hybrid discovery metrics.
+// ---
+
 #include "components/payments/content/secure_payment_confirmation_credential_finder.h"
 
 #include <set>

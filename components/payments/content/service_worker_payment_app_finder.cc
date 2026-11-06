@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker payment app finder implementation
+// summary: Retrieves installed and installable service worker payment apps, verifies their allowed payment methods, and filters them by capabilities.
+// ---
+
 #include "components/payments/content/service_worker_payment_app_finder.h"
 
 #include <algorithm>

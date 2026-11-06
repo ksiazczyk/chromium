@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentRequest implementation
+// summary: Implements the PaymentRequest DocumentService that manages renderer and payment UI interaction, request validation, and payment app selection.
+// ---
+
 #include "components/payments/content/payment_request.h"
 
 #include <algorithm>

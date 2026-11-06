@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for Chrome OS Android app communication test support
+// summary: Declares the Chrome OS test support class that fakes payment app instance queries, ready-to-pay checks and invocations for Android app communication tests.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_ANDROID_APP_COMMUNICATION_TEST_SUPPORT_CHROME_OS_H_
 #define COMPONENTS_PAYMENTS_CONTENT_ANDROID_APP_COMMUNICATION_TEST_SUPPORT_CHROME_OS_H_
 

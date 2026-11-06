@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure payment confirmation model implementation
+// summary: Implements the constructors and weak pointer accessor for the secure payment confirmation data model.
+// ---
+
 #include "components/payments/content/secure_payment_confirmation_model.h"
 
 namespace payments {

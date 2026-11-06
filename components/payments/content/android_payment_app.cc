@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android payment app implementation
+// summary: Implements AndroidPaymentApp, which invokes native Android payment apps and reports their responses back to the payment request flow.
+// ---
+
 #include "components/payments/content/android_payment_app.h"
 
 #include <utility>

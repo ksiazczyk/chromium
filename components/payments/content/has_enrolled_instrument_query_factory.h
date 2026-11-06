@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HasEnrolledInstrumentQueryFactory declaration
+// summary: Declares the keyed service factory that ensures a single HasEnrolledInstrumentQuery instance per browser context.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CONTENT_HAS_ENROLLED_INSTRUMENT_QUERY_FACTORY_H_
 #define COMPONENTS_PAYMENTS_CONTENT_HAS_ENROLLED_INSTRUMENT_QUERY_FACTORY_H_
 
