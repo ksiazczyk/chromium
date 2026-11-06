@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WinHTTP utility helpers
+// summary: Declares error conversion and header query helpers plus templated QueryOption and SetOption wrappers around WinHTTP options.
+// ---
+
 #ifndef COMPONENTS_WINHTTP_NET_UTIL_H_
 #define COMPONENTS_WINHTTP_NET_UTIL_H_
 

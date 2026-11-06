@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test disassembler class
+// summary: Declares TestDisassembler, a mock disassembler that reads injected references and is only meant for testing.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_TEST_DISASSEMBLER_H_
 #define COMPONENTS_ZUCCHINI_TEST_DISASSEMBLER_H_
 

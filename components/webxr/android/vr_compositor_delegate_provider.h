@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VR compositor delegate provider class declaration
+// summary: Declares VrCompositorDelegateProvider, a CompositorDelegateProvider that wraps the Java VrCompositorDelegateProvider object and exposes it via GetJavaObject.
+// ---
+
 #ifndef COMPONENTS_WEBXR_ANDROID_VR_COMPOSITOR_DELEGATE_PROVIDER_H_
 #define COMPONENTS_WEBXR_ANDROID_VR_COMPOSITOR_DELEGATE_PROVIDER_H_
 

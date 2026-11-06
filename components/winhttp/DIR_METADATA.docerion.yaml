@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the winhttp component
+summary: Maps the directory to the Internals>Updater monorail component, the chrome-updates-dev team and a Buganizer component.

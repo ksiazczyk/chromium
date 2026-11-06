@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrActivityListener class declarations
+// summary: Declares the native XrActivityListener JNI bridge, which subscribes to Android activity lifecycle events via a Java object, plus the factory that creates XrActivityStateHandler instances per render frame.
+// ---
+
 #ifndef COMPONENTS_WEBXR_ANDROID_XR_ACTIVITY_LISTENER_H_
 #define COMPONENTS_WEBXR_ANDROID_XR_ACTIVITY_LISTENER_H_
 

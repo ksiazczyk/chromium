@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Imposed ensemble matcher fuzzer
+// summary: libFuzzer proto target that fuzzes Zucchini's imposed ensemble patch generation using FilePair protobuf inputs with size-restricted old and new images.
+// ---
+
 #include <stdint.h>
 
 #include <iostream>

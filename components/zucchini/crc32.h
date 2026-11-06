@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRC-32 calculation declaration
+// summary: Declares CalculateCrc32, which computes the CRC-32 checksum of a byte span.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_CRC32_H_
 #define COMPONENTS_ZUCCHINI_CRC32_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZoomController class interface
+// summary: Declares ZoomController with zoom modes, observer and event data types for managing page zoom and the omnibox zoom icon.
+// ---
+
 #ifndef COMPONENTS_ZOOM_ZOOM_CONTROLLER_H_
 #define COMPONENTS_ZOOM_ZOOM_CONTROLLER_H_
 

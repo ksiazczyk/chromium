@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArCoreShim
+// summary: Interface wrapping the ArCore SDK Java API, mirroring ArCoreApk availability checks, install requests, and related exceptions.
+// ---
+
 package org.chromium.components.webxr;
 
 import android.app.Activity;

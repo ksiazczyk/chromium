@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VR compositor delegate provider implementation
+// summary: Implements VrCompositorDelegateProvider, a C++ wrapper that holds and returns the Java object implementing the VrCompositorDelegateProvider interface.
+// ---
+
 #include "components/webxr/android/vr_compositor_delegate_provider.h"
 
 namespace webxr {

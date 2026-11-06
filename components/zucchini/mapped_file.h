@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory-mapped file reader and writer header
+// summary: Declares MappedFileReader and MappedFileWriter wrappers around base::MemoryMappedFile with error reporting.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_MAPPED_FILE_H_
 #define COMPONENTS_ZUCCHINI_MAPPED_FILE_H_
 

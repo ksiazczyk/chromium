@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Binary data histogram implementation
+// summary: Implements OutlierDetector statistics and BinaryDataHistogram, which builds 2-byte sequence histograms and computes Manhattan distance between binaries.
+// ---
+
 #include "components/zucchini/binary_data_histogram.h"
 
 #include <algorithm>

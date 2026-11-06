@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test utility implementation
+// summary: Implements ParseHexString, which parses a space-separated hex byte string into a byte vector for use in tests.
+// ---
+
 #include "components/zucchini/test_utils.h"
 
 #include <ios>

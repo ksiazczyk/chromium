@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZoomConstants
+// summary: Holds constants for zooming web contents in and out, using the legacy term zoom for what Chrome calls the page scale factor.
+// ---
+
 package org.chromium.components.zoom;
 
 import org.chromium.build.annotations.NullMarked;

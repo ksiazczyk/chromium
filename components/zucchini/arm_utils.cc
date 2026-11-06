@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARM branch instruction translation implementation
+// summary: Implements AArch32 and related translators that decode and encode ARM branch instructions between instruction codes and displacements for various encodings.
+// ---
+
 #include "components/zucchini/arm_utils.h"
 
 #include "components/zucchini/algorithm.h"

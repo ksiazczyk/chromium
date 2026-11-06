@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Target pool class
+// summary: Declares TargetPool, an ordered container of distinct targets with associated reference types, used during patch generation.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_TARGET_POOL_H_
 #define COMPONENTS_ZUCCHINI_TARGET_POOL_H_
 

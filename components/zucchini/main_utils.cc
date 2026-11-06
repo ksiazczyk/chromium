@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zucchini command-line command dispatch
+// summary: Defines the table of Zucchini commands and runs the selected command from command-line input with resource usage logging.
+// ---
+
 #include "components/zucchini/main_utils.h"
 
 #include <stddef.h>

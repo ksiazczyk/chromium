@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageZoom class interface
+// summary: Declares the PageZoom class that adjusts page zoom according to predetermined zoom levels and factors.
+// ---
+
 #ifndef COMPONENTS_ZOOM_PAGE_ZOOM_H_
 #define COMPONENTS_ZOOM_PAGE_ZOOM_H_
 

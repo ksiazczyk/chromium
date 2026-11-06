@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zoom constants interface
+// summary: Declares GetPresetZoomFactorsAsJSON for exposing the preset zoom factors as JSON.
+// ---
+
 #ifndef COMPONENTS_ZOOM_PAGE_ZOOM_CONSTANTS_H_
 #define COMPONENTS_ZOOM_PAGE_ZOOM_CONSTANTS_H_
 

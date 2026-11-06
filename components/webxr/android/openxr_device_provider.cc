@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR device provider implementation
+// summary: Implements the Android OpenXR device provider, initializing the platform helper, checking hardware support, creating the OpenXR device, and supplying an async viz context provider.
+// ---
+
 #include "components/webxr/android/openxr_device_provider.h"
 
 #include <utility>

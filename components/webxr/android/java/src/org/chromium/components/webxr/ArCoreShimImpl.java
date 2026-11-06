@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArCoreShimImpl
+// summary: Reflection-loaded implementation of ArCoreShim that delegates to ArCoreApk and maps its install status and availability values to Chromium enums.
+// ---
+
 package org.chromium.components.webxr;
 
 import android.app.Activity;

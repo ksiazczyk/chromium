@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: WebXR component directory metadata
+summary: Directory metadata mapping the component to the Internals>XR monorail component, the xr-dev@chromium.org team, and a Buganizer component ID.

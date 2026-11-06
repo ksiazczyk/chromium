@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Zoom test utilities implementation
+// summary: Implements equality comparison for zoom change event data and the ZoomChangedWatcher that waits until a matching zoom change event occurs.
+// ---
+
 #include "components/zoom/test/zoom_test_utils.h"
 
 #include "base/functional/bind.h"

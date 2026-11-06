@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the content module
+summary: Defines the content component and group targets, grit resource generation and the export source set that structure the content module build.

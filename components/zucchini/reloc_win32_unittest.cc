@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Win32 relocation unit tests
+// summary: Unit tests for Win32 PE relocation block parsing and reference reading, covering empty, malformed, and multi-block relocation data.
+// ---
+
 #include "components/zucchini/reloc_win32.h"
 
 #include <stdint.h>

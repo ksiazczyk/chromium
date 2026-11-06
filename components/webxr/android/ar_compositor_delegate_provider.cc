@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AR compositor delegate provider implementation
+// summary: Implements the C++ ArCompositorDelegateProvider that wraps and exposes a Java object implementing the AR compositor delegate provider interface.
+// ---
+
 #include "components/webxr/android/ar_compositor_delegate_provider.h"
 
 namespace webxr {

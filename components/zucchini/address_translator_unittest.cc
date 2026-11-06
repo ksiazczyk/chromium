@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Address translator unit tests
+// summary: Unit tests for AddressTranslator, covering offset-to-RVA and RVA-to-offset conversions, unit overlap checks, and initialization success and failure cases.
+// ---
+
 #include "components/zucchini/address_translator.h"
 
 #include <algorithm>

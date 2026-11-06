@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Image Index unit tests
+// summary: Unit tests for ImageIndex covering type and pool counts, overlap detection on initialization, and token, type, and reference lookups.
+// ---
+
 #include "components/zucchini/image_index.h"
 
 #include <stddef.h>

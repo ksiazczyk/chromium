@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZoomController implementation
+// summary: Implements per-WebContents zoom management, including a manager that supports main frame and subframe controllers.
+// ---
+
 #include "components/zoom/zoom_controller.h"
 
 #include <memory>

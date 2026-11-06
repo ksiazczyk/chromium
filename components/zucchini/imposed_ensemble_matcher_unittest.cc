@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Imposed Ensemble Matcher unit tests
+// summary: Unit tests for ImposedMatchParser using mock archive data to check parsing, bounds, overlap, and type mismatch handling of imposed matches.
+// ---
+
 #include "components/zucchini/imposed_ensemble_matcher.h"
 
 #include <stddef.h>

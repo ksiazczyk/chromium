@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network properties declaration
+// summary: Declares the NetworkProperties struct holding WiFi network state such as GUID, SSID, security, signal strength and frequencies.
+// ---
+
 #ifndef COMPONENTS_WIFI_NETWORK_PROPERTIES_H_
 #define COMPONENTS_WIFI_NETWORK_PROPERTIES_H_
 

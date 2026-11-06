@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android OpenXR platform helper class declaration
+// summary: Declares OpenXrPlatformHelperAndroid, which supplies platform create info, graphics bindings, device data, and session shutdown handling for OpenXR on Android.
+// ---
+
 #ifndef COMPONENTS_WEBXR_ANDROID_OPENXR_PLATFORM_HELPER_ANDROID_H_
 #define COMPONENTS_WEBXR_ANDROID_OPENXR_PLATFORM_HELPER_ANDROID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZoomEventManager class declaration
+// summary: Declares a per-BrowserContext manager that collects zoom event notifications from ZoomControllers, with callback and observer registration plus weak pointer support.
+// ---
+
 #ifndef COMPONENTS_ZOOM_ZOOM_EVENT_MANAGER_H_
 #define COMPONENTS_ZOOM_ZOOM_EVENT_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ELF disassembler unit tests
+// summary: Unit tests for ELF disassembler helpers, covering target offset lookup in section lists and quick detection of ELF images.
+// ---
+
 #include "components/zucchini/disassembler_elf.h"
 
 #include <stddef.h>

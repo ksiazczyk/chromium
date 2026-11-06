@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Equivalence map implementation
+// summary: Implements token and equivalence similarity scoring plus seed-based equivalence extension used to map offsets between old and new images for patching.
+// ---
+
 #include "components/zucchini/equivalence_map.h"
 
 #include <algorithm>

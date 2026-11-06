@@ -1,0 +1,4 @@
+# Docerion header of zucchini_exe_version.rc.version.
+type: config
+title: Windows version resource template for Zucchini
+summary: Windows VERSIONINFO resource template with placeholders for embedding Zucchini executable version and product metadata.

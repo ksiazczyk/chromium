@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zucchini patch generation interface
+// summary: Header declaring functions for building equivalence maps and generating equivalences, deltas, targets, and patch elements.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_ZUCCHINI_GEN_H_
 #define COMPONENTS_ZUCCHINI_ZUCCHINI_GEN_H_
 

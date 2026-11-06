@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Zoom component include dependency rules
+summary: Lists the directories and headers that the zoom component is allowed to include from.

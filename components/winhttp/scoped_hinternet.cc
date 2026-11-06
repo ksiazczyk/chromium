@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WinHTTP session handle creation implementation
+// summary: Implements CreateSessionHandle for opening configured WinHTTP sessions and the SharedHInternet ref-counted session handle wrapper.
+// ---
+
 #include "components/winhttp/scoped_hinternet.h"
 
 #include <windows.h>

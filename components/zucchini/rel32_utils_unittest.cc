@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Rel32 utilities unit tests
+// summary: Unit tests for x86 and ARM rel32 readers and writers, verifying reference extraction and displacement copying with a test address translator.
+// ---
+
 #include "components/zucchini/rel32_utils.h"
 
 #include <stdint.h>

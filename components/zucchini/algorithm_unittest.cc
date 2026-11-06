@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Algorithm utility unit tests
+// summary: Unit tests for the algorithm.h template utilities, exercising range bounds, coverage, clamping, alignment, and bit extraction at overflow boundaries.
+// ---
+
 #include "components/zucchini/algorithm.h"
 
 #include <stddef.h>

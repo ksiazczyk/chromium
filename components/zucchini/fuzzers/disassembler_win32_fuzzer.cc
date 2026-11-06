@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer for the Win32 disassemblers
+// summary: libFuzzer target that treats input as a Win32 x86 or x64 image and reads and rewrites its references via the Zucchini Win32 disassemblers.
+// ---
+
 #include "components/zucchini/disassembler_win32.h"
 
 #include <stddef.h>

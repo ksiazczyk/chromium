@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for memory-mapped file writer
+// summary: Tests keep and delete-on-close behavior of MappedFileWriter using files in a temporary directory.
+// ---
+
 #include "components/zucchini/mapped_file.h"
 
 #include <utility>

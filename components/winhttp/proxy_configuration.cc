@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy configuration implementation for WinHTTP
+// summary: Implements ProxyConfiguration proxy resolution for WinHTTP requests, including PAC script and WPAD auto-detection via WinHttpGetProxyForUrl.
+// ---
+
 #include "components/winhttp/proxy_configuration.h"
 
 #include <optional>

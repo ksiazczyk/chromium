@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer for applying Zucchini patches
+// summary: libFuzzer target that applies a fuzzed Zucchini ensemble patch to an old file image, using libprotobuf-mutator FilePair inputs.
+// ---
+
 #include <stdint.h>
 #include <stdlib.h>
 

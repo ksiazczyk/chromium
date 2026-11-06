@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ELF disassembler class definitions
+// summary: Declares ELF disassembler traits and classes for 32- and 64-bit Intel and ARM executables, including reference type and pool definitions.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_DISASSEMBLER_ELF_H_
 #define COMPONENTS_ZUCCHINI_DISASSEMBLER_ELF_H_
 

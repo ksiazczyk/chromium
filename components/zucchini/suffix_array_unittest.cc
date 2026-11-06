@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Suffix array unit tests
+// summary: Unit tests for the naive and induced (SA-IS) suffix sorting implementations, covering SL partitioning, buckets and induced sorting.
+// ---
+
 #include "components/zucchini/suffix_array.h"
 
 #include <stddef.h>

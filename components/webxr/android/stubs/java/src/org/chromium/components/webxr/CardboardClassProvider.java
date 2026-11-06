@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CardboardClassProvider stub for builds without Cardboard
+// summary: Stub version of CardboardClassProvider compiled when enable_cardboard is false, returning null for the overlay delegate and mirroring the real class's method signatures.
+// ---
+
 package org.chromium.components.webxr;
 
 import android.app.Activity;

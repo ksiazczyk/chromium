@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No-op disassembler implementation
+// summary: Implements DisassemblerNoOp, a fallback disassembler that accepts any file and extracts no references.
+// ---
+
 #include "components/zucchini/disassembler_no_op.h"
 
 namespace zucchini {

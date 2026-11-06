@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'XrInputMethodManagerWrapper: proxy redirecting IME calls to the XR proxy view'
+// summary: InputMethodManagerWrapper implementation that forwards IME calls from the browser's view to the proxy input view in XrHostActivity, adjusting focus and window tokens so the keyboard works during XR sessions.
+// ---
+
 package org.chromium.components.webxr;
 
 import android.os.IBinder;

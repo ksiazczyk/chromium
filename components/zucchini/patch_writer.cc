@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zucchini Patch Writer Implementation
+// summary: Implements serialization helpers and sink classes such as EquivalenceSink and ExtraDataSink that delta-encode and serialize patch data streams for patch generation.
+// ---
+
 #include "components/zucchini/patch_writer.h"
 
 #include <algorithm>

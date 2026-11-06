@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for winhttp unit tests
+summary: Grants network_fetcher_unittest.cc additional includes for the embedded test server and zlib compression utilities.

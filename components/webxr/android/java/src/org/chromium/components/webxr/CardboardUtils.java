@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CardboardUtils
+// summary: Helper class for interacting with the Cardboard SDK from Java via JNI, exposing test hooks for device parameters, mocks, and QR code scanning.
+// ---
+
 package org.chromium.components.webxr;
 
 import org.jni_zero.JNINamespace;

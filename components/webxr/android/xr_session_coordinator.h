@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrSessionCoordinator class declarations
+// summary: Declares XrSessionCoordinator, the native XrJavaCoordinator implementation that requests AR, VR and XR sessions on Android and handles callbacks invoked from the Java side.
+// ---
+
 #ifndef COMPONENTS_WEBXR_ANDROID_XR_SESSION_COORDINATOR_H_
 #define COMPONENTS_WEBXR_ANDROID_XR_SESSION_COORDINATOR_H_
 

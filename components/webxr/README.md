@@ -1,3 +1,13 @@
+---
+type: readme
+title: WebXR Component
+summary: Explains how WebXR flows from Blink through the VRService and browser to device runtime code, and why this component hosts code that cannot live under //device.
+relations:
+  - references /content/browser/xr/README.md
+  - references /content/services/isolated_xr_device/README.md
+  - references /third_party/blink/renderer/modules/xr/README.md
+---
+
 # WebXR Component
 
 ## WebXR Overview

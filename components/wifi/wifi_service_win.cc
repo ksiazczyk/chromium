@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows WiFiService implementation with the WLAN API
+// summary: Implements the WiFiService interface on Windows via the native WLAN API, dynamically loading wlanapi.dll and managing profiles, scans and connections.
+// ---
+
 #include "components/wifi/wifi_service.h"
 
 #include <objbase.h>

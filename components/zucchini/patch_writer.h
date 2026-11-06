@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zucchini Patch Writer
+// summary: Declares serialization helpers and *Sink classes including EquivalenceSink, ExtraDataSink, and RawDeltaSink used to write Zucchini patch data.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_PATCH_WRITER_H_
 #define COMPONENTS_ZUCCHINI_PATCH_WRITER_H_
 

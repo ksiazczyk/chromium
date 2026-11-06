@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the wifi component
+summary: Defines the allowed include directories for the wifi component, covering components/onc, crypto and third_party/libxml/chromium.

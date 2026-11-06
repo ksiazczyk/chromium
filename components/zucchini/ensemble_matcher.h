@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnsembleMatcher class interface
+// summary: Declares the EnsembleMatcher base class that identifies executable elements in old and new archives and matches them for architecture-specific patching.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_ENSEMBLE_MATCHER_H_
 #define COMPONENTS_ZUCCHINI_ENSEMBLE_MATCHER_H_
 

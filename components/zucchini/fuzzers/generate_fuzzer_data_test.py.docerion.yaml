@@ -1,0 +1,4 @@
+# Docerion header of generate_fuzzer_data_test.py.
+type: test
+title: Tests for the fuzzer seed data generator
+summary: Unit tests for generate_fuzzer_data.py covering normal and raw seed generation, subprocess invocations, and temporary directory cleanup failures.

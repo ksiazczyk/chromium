@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suffix array sorting algorithms
+// summary: Implements naive and linear-time SA-IS suffix sorting functors used by Zucchini for patch generation.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_SUFFIX_ARRAY_H_
 #define COMPONENTS_ZUCCHINI_SUFFIX_ARRAY_H_
 

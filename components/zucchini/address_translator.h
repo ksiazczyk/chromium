@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address translator declarations
+// summary: Declares AddressTranslator, which translates between image offsets and RVAs per section, including handling of dangling RVAs via fake offsets.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_ADDRESS_TRANSLATOR_H_
 #define COMPONENTS_ZUCCHINI_ADDRESS_TRANSLATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WiFiService interface header
+// summary: Declares the WiFiService interface used by the chrome.networkingPrivate extension API, defining network property, scan, connect and disconnect operations for platform implementations.
+// ---
+
 #ifndef COMPONENTS_WIFI_WIFI_SERVICE_H_
 #define COMPONENTS_WIFI_WIFI_SERVICE_H_
 

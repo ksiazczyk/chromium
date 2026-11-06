@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Targets affinity class
+// summary: Declares TargetsAffinity, which computes and stores affinity between old and new targets in a pool during patch generation.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_TARGETS_AFFINITY_H_
 #define COMPONENTS_ZUCCHINI_TARGETS_AFFINITY_H_
 

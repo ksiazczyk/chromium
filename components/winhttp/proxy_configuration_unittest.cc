@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Proxy configuration unit tests
+// summary: Unit tests verifying access types and per-URL proxy resolution for direct, auto, named, and WPAD proxy configurations.
+// ---
+
 #include "components/winhttp/proxy_configuration.h"
 
 #include "base/memory/scoped_refptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Win32 PE disassembler header
+// summary: Declares the DisassemblerWin32 template and x86/x64 traits for parsing Windows PE executables and reading or writing references.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_DISASSEMBLER_WIN32_H_
 #define COMPONENTS_ZUCCHINI_DISASSEMBLER_WIN32_H_
 

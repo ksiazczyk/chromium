@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DEX disassembler implementation
+// summary: Implements the DEX disassembler that parses Dalvik executable images and extracts reference pools such as strings, types, methods, and code items.
+// ---
+
 #include "components/zucchini/disassembler_dex.h"
 
 #include <stddef.h>

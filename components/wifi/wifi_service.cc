@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WiFi service error constants
+// summary: Defines the error string constants shared by WiFiService implementations, such as Error.NotFound and Error.NotConnected.
+// ---
+
 #include "components/wifi/wifi_service.h"
 
 namespace wifi {

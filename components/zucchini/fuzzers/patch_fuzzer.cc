@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Patch reader fuzzer
+// summary: libFuzzer entry point that treats arbitrary input bytes as a Zucchini ensemble patch and parses it with EnsemblePatchReader to fuzz patch reading.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

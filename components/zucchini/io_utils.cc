@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zucchini I/O utilities implementation
+// summary: Implements output-limiting streams, hex formatting, and stream manipulators such as PrefixSep for Zucchini.
+// ---
+
 #include "components/zucchini/io_utils.h"
 
 #include <iostream>

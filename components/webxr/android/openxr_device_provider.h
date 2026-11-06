@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR device provider class declaration
+// summary: Declares the OpenXrDeviceProvider class, a VRDeviceProvider that owns the Android OpenXR platform helper and OpenXR device and manages their lifetimes.
+// ---
+
 #ifndef COMPONENTS_WEBXR_ANDROID_OPENXR_DEVICE_PROVIDER_H_
 #define COMPONENTS_WEBXR_ANDROID_OPENXR_DEVICE_PROVIDER_H_
 

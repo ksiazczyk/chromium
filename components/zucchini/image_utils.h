@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image utilities header
+// summary: Defines core Zucchini image types such as offset_t, TypeTag, PoolTag, and Reference, plus reader and writer interfaces for extracting and writing references.
+// ---
+
 
 #ifndef COMPONENTS_ZUCCHINI_IMAGE_UTILS_H_
 #define COMPONENTS_ZUCCHINI_IMAGE_UTILS_H_

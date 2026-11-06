@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for content
+summary: Restricts which Chromium directories and third-party libraries code in content may include, blocking chrome dependencies and layering violations.

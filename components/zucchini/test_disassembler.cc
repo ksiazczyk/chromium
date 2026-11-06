@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test disassembler implementation
+// summary: Implements a trivial disassembler that serves injected references of three types and writes nothing, for use in tests.
+// ---
+
 
 #include "components/zucchini/test_disassembler.h"
 

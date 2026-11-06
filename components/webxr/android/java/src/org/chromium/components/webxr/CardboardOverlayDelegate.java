@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CardboardOverlayDelegate
+// summary: Provides the fullscreen overlay for immersive Cardboard VR mode, including the cardboard UI layout, close and settings buttons, and product safety link.
+// ---
+
 package org.chromium.components.webxr;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

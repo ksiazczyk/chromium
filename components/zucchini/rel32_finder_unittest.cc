@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Rel32 finder unit tests
+// summary: Unit tests for Zucchini's rel32 and abs32 gap finding, checking gap segment computation across image regions and reference locations.
+// ---
+
 #include "components/zucchini/rel32_finder.h"
 
 #include <stddef.h>

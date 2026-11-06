@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DEX executable format type definitions
+// summary: Defines types, bytecode tables, and packed structures modeling the DEX executable format for versions 035 through 039.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_TYPE_DEX_H_
 #define COMPONENTS_ZUCCHINI_TYPE_DEX_H_
 

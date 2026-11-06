@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZTF line and column type definitions
+// summary: Defines ZTF types for one-based line and column positions with delta arithmetic and a dimension bound constant.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_TYPE_ZTF_H_
 #define COMPONENTS_ZUCCHINI_TYPE_ZTF_H_
 

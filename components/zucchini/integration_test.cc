@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Zucchini end-to-end integration tests
+// summary: End-to-end tests that generate patches from test executables, read them back, apply them, and verify the patched output matches the new files.
+// ---
+
 #include <stdint.h>
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of PRESUBMIT_test.py.
+type: test
+title: Unit tests for the content presubmit script
+summary: Verifies the DCHECK warning logic of PRESUBMIT.py using mock input, output and affected file APIs.

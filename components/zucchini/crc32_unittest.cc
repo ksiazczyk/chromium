@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CRC-32
+// summary: Verifies CalculateCrc32 results for empty, single-byte, and multi-byte inputs against known CRC-32 values.
+// ---
+
 #include "components/zucchini/crc32.h"
 
 #include <stdint.h>

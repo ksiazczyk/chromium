@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArOverlayDelegate
+// summary: Provides the fullscreen overlay for WebXR immersive AR mode, managing the translucent AR SurfaceView parenting, z-order, and accessibility handling.
+// ---
+
 package org.chromium.components.webxr;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

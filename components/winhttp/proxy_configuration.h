@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy configuration classes for WinHTTP
+// summary: Declares ProxyConfiguration and AutoProxyConfiguration classes that supply proxy access types and per-URL proxy resolution for WinHTTP sessions.
+// ---
+
 #ifndef COMPONENTS_WINHTTP_PROXY_CONFIGURATION_H_
 #define COMPONENTS_WINHTTP_PROXY_CONFIGURATION_H_
 

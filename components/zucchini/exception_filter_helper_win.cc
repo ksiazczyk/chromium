@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows exception filter helper implementation
+// summary: Implements ExceptionFilterHelper, which filters EXCEPTION_IN_PAGE_ERROR structured exceptions for registered memory ranges on Windows.
+// ---
+
 
 #include "components/zucchini/exception_filter_helper_win.h"
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: WiFi component build configuration
+summary: GN build file defining the wifi component, a test support static library, the wifi_test executable and unit test targets with platform-specific sources.

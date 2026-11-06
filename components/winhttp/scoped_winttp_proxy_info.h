@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped wrapper for WINHTTP_PROXY_INFO
+// summary: Declares ScopedWinHttpProxyInfo, a move-only wrapper managing GlobalAlloc-allocated strings in WINHTTP_PROXY_INFO structures.
+// ---
+
 #ifndef COMPONENTS_WINHTTP_SCOPED_WINTTP_PROXY_INFO_H_
 #define COMPONENTS_WINHTTP_SCOPED_WINTTP_PROXY_INFO_H_
 

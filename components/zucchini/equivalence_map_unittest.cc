@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Equivalence map unit tests
+// summary: Unit tests covering token and equivalence similarity, equivalence extension and pruning, and offset mapping behavior in Zucchini.
+// ---
+
 #include "components/zucchini/equivalence_map.h"
 
 #include <cstring>

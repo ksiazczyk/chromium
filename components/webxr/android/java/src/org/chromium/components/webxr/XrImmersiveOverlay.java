@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrImmersiveOverlay fullscreen overlay for immersive sessions
+// summary: Fullscreen overlay for immersive AR and VR sessions that manages SurfaceView setup, touch forwarding, orientation, and window insets via a delegate.
+// ---
+
 package org.chromium.components.webxr;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

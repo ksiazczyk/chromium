@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows exception filter helper interface
+// summary: Declares ExceptionFilterHelper, a helper for handling in-page-error exceptions across multiple mapped memory ranges on Windows.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_EXCEPTION_FILTER_HELPER_WIN_H_
 #define COMPONENTS_ZUCCHINI_EXCEPTION_FILTER_HELPER_WIN_H_
 

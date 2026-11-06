@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definitions for Zucchini fuzzers
+summary: Defines GN targets for the Zucchini fuzzers, including the fuzz utils library, disassembler and patch fuzzers, the FilePair proto, and seed generation actions.

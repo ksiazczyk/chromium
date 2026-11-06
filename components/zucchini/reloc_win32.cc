@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Win32 relocation reader
+// summary: Implements parsing of Win32 PE relocation blocks and emission of relocation units and references for executable patching.
+// ---
+
 #include "components/zucchini/reloc_win32.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ELF relocation unit tests
+// summary: Unit tests for ELF relocation reading and writing using fake images with relocation tables for both 32- and 64-bit ELF.
+// ---
+
 #include "components/zucchini/reloc_elf.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reference Set Implementation
+// summary: Implements ReferenceSet initialization from a reference reader or reference list and offset-based lookup within the sorted reference list.
+// ---
+
 #include "components/zucchini/reference_set.h"
 
 #include <algorithm>

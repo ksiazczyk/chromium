@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rel32 utilities header
+// summary: Declares reader and writer classes for x86 and ARM rel32 references, translating between file offsets and RVAs via an address translator.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_REL32_UTILS_H_
 #define COMPONENTS_ZUCCHINI_REL32_UTILS_H_
 

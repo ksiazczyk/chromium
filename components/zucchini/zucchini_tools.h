@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zucchini diagnostic tool declarations
+// summary: Declares diagnostic functions for printing reference stats, detecting executables in an image, and matching regions between old and new images.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_ZUCCHINI_TOOLS_H_
 #define COMPONENTS_ZUCCHINI_ZUCCHINI_TOOLS_H_
 

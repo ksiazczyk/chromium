@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRC-32 calculation implementation
+// summary: Implements CalculateCrc32 using a table-driven CRC-32 adapted from the LZMA SDK for use by Zucchini.
+// ---
+
 #include "components/zucchini/crc32.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Strongly typed value template
+// summary: Defines a TypedValue class template giving distinct strong types over integral values with comparison, conversion, and streaming.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_TYPED_VALUE_H_
 #define COMPONENTS_ZUCCHINI_TYPED_VALUE_H_
 

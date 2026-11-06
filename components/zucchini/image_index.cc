@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image Index implementation
+// summary: Implements ImageIndex, building target pools and reference sets for an image and rejecting initialization when references overlap.
+// ---
+
 #include "components/zucchini/image_index.h"
 
 #include <algorithm>

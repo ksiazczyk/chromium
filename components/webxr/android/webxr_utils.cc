@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebXR Android utility functions
+// summary: Provides helpers that resolve a WebContents from a render frame host ID and return its Java WebContents object for Android WebXR code.
+// ---
+
 #include "components/webxr/android/webxr_utils.h"
 
 #include "content/public/browser/render_frame_host.h"

@@ -1,0 +1,4 @@
+# Docerion header of wifi_service_mac.mm.
+type: source
+title: macOS WiFiService implementation with CoreWLAN
+summary: Implements the WiFiService interface on macOS using CoreWLAN and SystemConfiguration, including SSID handling, security mapping and event observers.

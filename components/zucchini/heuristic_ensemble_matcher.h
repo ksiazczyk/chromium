@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Heuristic Ensemble Matcher header
+// summary: Declares HeuristicEnsembleMatcher, an ensemble matcher that detects embedded elements in old and new archives and pairs them using size-difference and distance heuristics.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_HEURISTIC_ENSEMBLE_MATCHER_H_
 #define COMPONENTS_ZUCCHINI_HEURISTIC_ENSEMBLE_MATCHER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Zucchini GN build targets
+summary: Defines the GN build targets for the Zucchini patching library, including buildflags, the zucchini_lib and zucchini_io static libraries, and the zucchini executable.

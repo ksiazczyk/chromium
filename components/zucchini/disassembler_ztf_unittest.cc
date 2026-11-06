@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ZTF disassembler unit tests
+// summary: Unit tests verifying detection, parsing, and reading and writing of references in Zucchini Text Format files.
+// ---
+
 #include "components/zucchini/disassembler_ztf.h"
 
 #include <stddef.h>

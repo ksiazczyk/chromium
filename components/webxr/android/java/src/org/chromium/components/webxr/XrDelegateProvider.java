@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrDelegateProvider factory for XrDelegate instances
+// summary: Factory that lazily creates and caches an XrDelegateImpl via reflection, returning null when the implementation is not compiled into the build.
+// ---
+
 package org.chromium.components.webxr;
 
 import org.chromium.base.Log;

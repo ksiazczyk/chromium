@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for the winhttp component
+summary: Delegates code review ownership to the owners of components/update_client.

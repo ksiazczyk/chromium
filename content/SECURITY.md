@@ -1,3 +1,12 @@
+---
+type: guide
+title: Security guidance for the content module
+summary: Describes the threat model, high-priority vulnerability classes, mitigating factors and reporting guidance for security work on //content.
+relations:
+  - references /content/README.md
+  - references /docs/webui/chrome_untrusted.md
+---
+
 # Security Guidance for //content
 
 The primary security goal of the `//content` module is to safely manage the

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Imposed Ensemble Matcher header
+// summary: Declares ImposedMatchParser for the offset+size match format and ImposedEnsembleMatcher, which applies user-specified element matches between old and new images.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_IMPOSED_ENSEMBLE_MATCHER_H_
 #define COMPONENTS_ZUCCHINI_IMPOSED_ENSEMBLE_MATCHER_H_
 

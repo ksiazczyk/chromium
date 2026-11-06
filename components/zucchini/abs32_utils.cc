@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Absolute address utilities implementation
+// summary: Implements reading, writing, and RVA translation of 32- and 64-bit absolute addresses and Win32 abs32 reference readers and writers.
+// ---
+
 #include "components/zucchini/abs32_utils.h"
 
 #include <algorithm>

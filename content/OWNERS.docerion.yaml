@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the content module
+summary: Lists top-level content owners qualified to review cross-cutting changes and sets per-file owner rules for platform-specific and translation files.

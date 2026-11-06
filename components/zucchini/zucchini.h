@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zucchini core library interface
+// summary: Core header declaring patch generation and application functions, generation options, and the Zucchini status code enum.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_ZUCCHINI_H_
 #define COMPONENTS_ZUCCHINI_ZUCCHINI_H_
 

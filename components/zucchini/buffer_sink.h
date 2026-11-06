@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BufferSink output stream for serializing data into buffers
+// summary: Declares the BufferSink class, a MutableBufferView-based output stream that writes values and byte ranges into a contiguous buffer while guarding against overrun.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_BUFFER_SINK_H_
 #define COMPONENTS_ZUCCHINI_BUFFER_SINK_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows exception filter helper unit tests
+// summary: Unit tests verifying ExceptionFilterHelper's handling of page-error exceptions inside, outside, and between registered memory ranges.
+// ---
+
 #include "components/zucchini/exception_filter_helper_win.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zucchini Reference Set
+// summary: Declares ReferenceSet, a container of sorted references of one type with shared traits and a target pool, used during patch generation.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_REFERENCE_SET_H_
 #define COMPONENTS_ZUCCHINI_REFERENCE_SET_H_
 

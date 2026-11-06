@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MailboxToSurfaceBridgeImpl class declaration
+// summary: Declares the MailboxToSurfaceBridgeImpl overriding device::MailboxToSurfaceBridge for context, sync token, fence, and shared image operations, plus its factory class.
+// ---
+
 #ifndef COMPONENTS_WEBXR_MAILBOX_TO_SURFACE_BRIDGE_IMPL_H_
 #define COMPONENTS_WEBXR_MAILBOX_TO_SURFACE_BRIDGE_IMPL_H_
 

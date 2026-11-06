@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestReferenceReader implementation
+// summary: Implements a trivial ReferenceReader that sequentially returns injected references, serving as a test double for unit tests.
+// ---
+
 #include "components/zucchini/test_reference_reader.h"
 
 namespace zucchini {

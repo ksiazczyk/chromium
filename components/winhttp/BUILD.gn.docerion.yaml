@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the winhttp component
+summary: Defines the winhttp static library with its sources, dependencies and linked libraries, plus the unit_tests source set.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zucchini integration interface declarations
+// summary: Declares Generate, Apply, and VerifyPatch interfaces that wrap the core Zucchini library with file I/O and cleanup behavior on Windows and UNIX.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_ZUCCHINI_INTEGRATION_H_
 #define COMPONENTS_ZUCCHINI_ZUCCHINI_INTEGRATION_H_
 

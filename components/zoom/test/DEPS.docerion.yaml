@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Zoom test DEPS include rules
+summary: Defines include rules for the zoom test directory, permitting dependencies on content/public/test headers.

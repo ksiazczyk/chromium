@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARCore device provider implementation
+// summary: Creates and registers the ARCore XR runtime device when ARCore is supported, wiring in the compositor delegate provider and session coordinator.
+// ---
+
 #include "components/webxr/android/arcore_device_provider.h"
 
 #include "components/webxr/android/xr_session_coordinator.h"

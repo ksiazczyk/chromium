@@ -1,0 +1,4 @@
+# Docerion header of generate_fuzzer_data.py.
+type: script
+title: Zucchini fuzzer seed data generator
+summary: Command-line script that generates binary protobuf FilePair seeds for Zucchini fuzzers by running patch generation and encoding the old file and patch with protoc.

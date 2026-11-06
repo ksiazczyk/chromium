@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zucchini command-line command declarations
+// summary: Header declaring the Main*() command functions and the MainParams structure used by Zucchini command-line tools.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_ZUCCHINI_COMMANDS_H_
 #define COMPONENTS_ZUCCHINI_ZUCCHINI_COMMANDS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of generate_fuzzer_data.pydeps.
+type: config
+title: Python dependencies for the fuzzer seed data generator
+summary: Generated list of Python module dependencies for generate_fuzzer_data.py, produced by build/print_python_deps.py for build tooling.

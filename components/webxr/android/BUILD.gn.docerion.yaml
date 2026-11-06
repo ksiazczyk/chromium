@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: WebXR Android build targets
+summary: GN build file defining the WebXR Android source sets, Cardboard Java resources, and the xr_java Android library, with targets conditionally included per enabled XR runtime.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Binary data histogram unit tests
+// summary: Unit tests for OutlierDetector outlier decisions and BinaryDataHistogram computation, validity, and distance behavior on sample binary data.
+// ---
+
 #include "components/zucchini/binary_data_histogram.h"
 
 #include <stddef.h>

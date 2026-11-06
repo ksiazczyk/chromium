@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ELF file format type definitions
+// summary: Defines ELF structures, typedefs, and constants matching linux/elf.h for parsing Executable and Linkable Format files.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_TYPE_ELF_H_
 #define COMPONENTS_ZUCCHINI_TYPE_ELF_H_
 

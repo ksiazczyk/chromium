@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebXR Android feature map JNI bindings
+// summary: JNI bridge that reports WebXR feature flag states to Java, including whether OpenXR, hand tracking, and the OpenXR Android system keyboard are enabled.
+// ---
+
 #include "device/vr/buildflags/buildflags.h"
 
 #if BUILDFLAG(ENABLE_VR)

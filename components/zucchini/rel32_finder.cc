@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rel32 Finder Implementation
+// summary: Implements Abs32GapFinder for locating gaps between abs32 reference bodies and Rel32Finder variants that heuristically scan machine code for rel32 references.
+// ---
+
 #include "components/zucchini/rel32_finder.h"
 
 #include <algorithm>

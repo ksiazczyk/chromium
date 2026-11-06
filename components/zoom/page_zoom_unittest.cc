@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PageZoom unit tests
+// summary: Tests preset zoom factors and levels for sorting, bounds and handling of invalid custom values.
+// ---
+
 #include "components/zoom/page_zoom.h"
 
 #include <algorithm>

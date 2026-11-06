@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Equivalence map interface
+// summary: Declares similarity functions, equivalence seed extension helpers, and the OffsetMapper and EquivalenceMap classes for mapping offsets between images.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_EQUIVALENCE_MAP_H_
 #define COMPONENTS_ZUCCHINI_EQUIVALENCE_MAP_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrHostActivity for OpenXR sessions
+// summary: Activity that hosts an OpenXR instance separately from the main browser, managing session lifetime, key events, and return to the 2D browser.
+// ---
+
 package org.chromium.components.webxr;
 
 import android.app.Activity;

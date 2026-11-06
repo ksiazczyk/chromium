@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Targets affinity implementation
+// summary: Implements inference of affinity associations between old and new targets from equivalence similarities, plus label assignment.
+// ---
+
 #include "components/zucchini/targets_affinity.h"
 
 #include <algorithm>

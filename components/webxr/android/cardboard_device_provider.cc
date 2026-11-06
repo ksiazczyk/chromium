@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cardboard device provider implementation
+// summary: Creates and registers the Cardboard XR device, optionally substituting a mock Cardboard SDK for testing.
+// ---
+
 #include "components/webxr/android/cardboard_device_provider.h"
 
 #include "components/webxr/android/xr_activity_listener.h"

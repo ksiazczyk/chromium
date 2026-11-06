@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No-op disassembler class definitions
+// summary: Declares DisassemblerNoOp, a disassembler that works on any file without looking for references.
+// ---
+
 #ifndef COMPONENTS_ZUCCHINI_DISASSEMBLER_NO_OP_H_
 #define COMPONENTS_ZUCCHINI_DISASSEMBLER_NO_OP_H_
 
