@@ -1,0 +1,4 @@
+# Docerion header of 103_checkout_peapod.com.out.
+type: test
+title: Autofill heuristics expected output for peapod.com checkout
+summary: Expected autofill field classifications for the peapod.com checkout page, covering billing address, phone and credit card fields with sample values.

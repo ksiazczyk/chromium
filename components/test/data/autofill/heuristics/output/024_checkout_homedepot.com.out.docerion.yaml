@@ -1,0 +1,4 @@
+# Docerion header of 024_checkout_homedepot.com.out.
+type: test
+title: Home Depot checkout autofill expected output
+summary: Expected autofill field type classifications for the Home Depot shipping address form, including name, address, and phone fields.

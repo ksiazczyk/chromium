@@ -1,0 +1,4 @@
+# Docerion header of 130_bug_465576.out.
+type: test
+title: Autofill heuristics expected output for bug 465576
+summary: Expected autofill field type predictions for a credit card payment form covering card type, number, expiry, verification code and billing phone.

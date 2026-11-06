@@ -1,0 +1,4 @@
+# Docerion header of 102_checkout_m_macys.com.out.
+type: test
+title: Autofill heuristics expected output for mobile macys.com checkout
+summary: Expected autofill field classifications for the mobile macys.com checkout page, covering credit card, billing address, contact and account fields.

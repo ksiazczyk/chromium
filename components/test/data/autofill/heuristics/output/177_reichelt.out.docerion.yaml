@@ -1,0 +1,4 @@
+# Docerion header of 177_reichelt.out.
+type: test
+title: Reichelt checkout form autofill expectations
+summary: Expected autofill classifications for the reichelt.de German checkout form, including salutation, address, country, email, phone and fax fields.

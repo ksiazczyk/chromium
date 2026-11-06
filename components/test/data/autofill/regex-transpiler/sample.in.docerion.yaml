@@ -1,0 +1,4 @@
+# Docerion header of sample.in.
+type: test
+title: Regex transpiler sample input
+summary: JSON fixture defining autofill regex patterns per language and feature flag, used as input for the regex transpiler test.

@@ -1,0 +1,4 @@
+# Docerion header of 167_helity.es.out.
+type: test
+title: Helity.es signup form expected output
+summary: Expected autofill heuristic predictions for the Helity.es signup form with Spanish name and contact fields.

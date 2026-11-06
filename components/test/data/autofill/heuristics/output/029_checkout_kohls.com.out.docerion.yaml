@@ -1,0 +1,4 @@
+# Docerion header of 029_checkout_kohls.com.out.
+type: test
+title: Kohl's checkout autofill expected output
+summary: Expected autofill field type classifications for the Kohl's checkout page, covering login, billing, and shipping address fields.

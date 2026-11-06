@@ -1,0 +1,4 @@
+# Docerion header of 007_i18n_ko.out.
+type: test
+title: Autofill heuristics expected output for Korean form labels
+summary: Expected autofill field type predictions for a Korean-language test form, including unrecognized labels and address, email and phone fields.

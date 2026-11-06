@@ -1,0 +1,4 @@
+# Docerion header of epiphany.html.
+type: test
+title: Epiphany bookmark test fixture
+summary: Netscape-format bookmark file exported from Epiphany, used as test input for parsing simple flat bookmark lists.

@@ -1,0 +1,4 @@
+# Docerion header of model_with_sync_metadata_1.json.
+type: test
+title: Bookmark model fixture with sync metadata variant 1
+summary: Test fixture of a bookmark model with sync_metadata and SHA-256 checksum fields for testing sync metadata handling during decoding.

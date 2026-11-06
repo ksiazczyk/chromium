@@ -1,0 +1,4 @@
+# Docerion header of 058_register_livejournal.com.out.
+type: test
+title: Autofill heuristics expected output for LiveJournal account creation form
+summary: Expected autofill field classifications for the LiveJournal account creation form, including username, email, password, gender, and birthdate fields.

@@ -1,0 +1,4 @@
+# Docerion header of 008_i18n_pt.out.
+type: test
+title: Autofill heuristics expected output for Portuguese form labels
+summary: Expected autofill field type predictions for a Portuguese-language test form covering name, address, email, phone and credit card labels.

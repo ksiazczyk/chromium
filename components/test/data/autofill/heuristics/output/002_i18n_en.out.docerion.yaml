@@ -1,0 +1,4 @@
+# Docerion header of 002_i18n_en.out.
+type: test
+title: Autofill heuristics expected output for English form labels
+summary: Expected autofill field type predictions for an English-language test form covering name, address, email, phone and credit card labels.

@@ -1,0 +1,3 @@
+# Docerion header of model_with_repeated_predicted_types.tflite.
+type: test
+title: model_with_repeated_predicted_types.tflite

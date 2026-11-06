@@ -1,0 +1,4 @@
+# Docerion header of 097_register_alaskaair.com.out.
+type: test
+title: Expected autofill output for alaskaair.com registration form
+summary: Expected field classifications for the Alaska Air registration form, covering loyalty number, personal details and mailing address.

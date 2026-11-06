@@ -1,0 +1,4 @@
+# Docerion header of 150_checkout_venus.com_search_field.out.
+type: test
+title: Autofill heuristics expected output for Venus.com checkout search field
+summary: Expected autofill field type predictions for a Venus.com checkout form containing a search field, used as test data for the autofill heuristics.

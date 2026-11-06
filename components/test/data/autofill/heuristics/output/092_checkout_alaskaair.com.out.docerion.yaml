@@ -1,0 +1,4 @@
+# Docerion header of 092_checkout_alaskaair.com.out.
+type: test
+title: Expected autofill output for alaskaair.com checkout form
+summary: Expected field classifications for the Alaska Air checkout form, covering credit card, billing address and phone fields.

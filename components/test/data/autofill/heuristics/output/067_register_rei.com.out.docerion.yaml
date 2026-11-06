@@ -1,0 +1,4 @@
+# Docerion header of 067_register_rei.com.out.
+type: test
+title: Expected autofill types for rei.com registration form
+summary: Expected autofill heuristic output for the rei.com registration form covering email, name, password, and postal code fields.

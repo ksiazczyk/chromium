@@ -1,0 +1,4 @@
+# Docerion header of 116_cc_checkout_walgreens.com.out.
+type: test
+title: Walgreens credit card form expected autofill output
+summary: Expected autofill heuristic output for the Walgreens credit card form with card details and billing address fields.

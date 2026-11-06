@@ -1,0 +1,4 @@
+# Docerion header of model_with_form_features_metadata.textproto.
+type: test
+title: Model metadata with form features
+summary: Text-format protobuf metadata for a test model variant that additionally uses form-level features such as form ID, name, frame URL path and button titles.

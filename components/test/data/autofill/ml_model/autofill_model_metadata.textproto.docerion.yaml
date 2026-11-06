@@ -1,0 +1,4 @@
+# Docerion header of autofill_model_metadata.textproto.
+type: test
+title: Autofill field classification model metadata
+summary: Text-format protobuf defining input tokens, output types and encoding parameters used as metadata for the autofill ML model test data.

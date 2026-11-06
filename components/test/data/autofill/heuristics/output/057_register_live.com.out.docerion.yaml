@@ -1,0 +1,4 @@
+# Docerion header of 057_register_live.com.out.
+type: test
+title: Autofill heuristics expected output for Windows Live sign-up form
+summary: Expected autofill field classifications for the Windows Live sign-up form, covering email, password, name, and security question fields.

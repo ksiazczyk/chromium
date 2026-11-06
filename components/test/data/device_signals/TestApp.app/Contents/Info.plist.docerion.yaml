@@ -1,0 +1,4 @@
+# Docerion header of Info.plist.
+type: test
+title: TestApp app bundle Info.plist
+summary: Property list with macOS bundle metadata for the TestApp fixture used in device signal tests, defining the executable, bundle name, and version information.

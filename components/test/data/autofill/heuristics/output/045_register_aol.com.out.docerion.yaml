@@ -1,0 +1,4 @@
+# Docerion header of 045_register_aol.com.out.
+type: test
+title: Autofill heuristic output for aol.com registration
+summary: Expected autofill field type predictions for the aol.com registration form, covering name, username, password, date of birth and security fields.

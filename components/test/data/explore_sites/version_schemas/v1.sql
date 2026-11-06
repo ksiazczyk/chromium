@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Explore sites v1 SQL schema and seed data
+-- summary: SQL script that creates the version 1 explore sites database schema and inserts sample categories, sites, and blocklist entries for tests.
+-- ---
+
 INSERT OR REPLACE INTO meta (key, value)
 VALUES ('version', 1), ('last_compatible_version', 1);
 

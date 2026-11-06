@@ -1,0 +1,4 @@
+# Docerion header of identical.out.
+type: test
+title: Identical profiles merge expected output
+summary: Expected output for an autofill profile merge test where the input profiles are identical.

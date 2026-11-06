@@ -1,0 +1,4 @@
+# Docerion header of 042_checkout_williams-sonoma.com.out.
+type: test
+title: Autofill heuristic output for williams-sonoma.com checkout
+summary: Expected autofill field type predictions for the williams-sonoma.com checkout form, covering email and shipping address fields.

@@ -1,0 +1,4 @@
+# Docerion header of model_invalid_json.json.
+type: test
+title: Invalid JSON bookmark model fixture
+summary: Test fixture containing malformed JSON so bookmark model loading can be verified against invalid input.

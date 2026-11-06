@@ -1,0 +1,4 @@
+# Docerion header of 065_register_pyramidcollection.com.out.
+type: test
+title: Expected autofill types for pyramidcollection.com registration form
+summary: Expected autofill heuristic output for the pyramidcollection.com registration form with billing and shipping addresses, phones, and a gift card entry field.

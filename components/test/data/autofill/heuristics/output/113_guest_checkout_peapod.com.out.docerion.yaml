@@ -1,0 +1,4 @@
+# Docerion header of 113_guest_checkout_peapod.com.out.
+type: test
+title: Peapod guest checkout expected autofill output
+summary: Expected autofill heuristic output for the Peapod guest checkout delivery form with name, address, phone and email fields.

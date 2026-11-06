@@ -1,0 +1,4 @@
+# Docerion header of 093_checkout_m_walmart.com.out.
+type: test
+title: Expected autofill output for m.walmart.com checkout form
+summary: Expected field classifications for the Walmart mobile checkout form, covering name, address and phone fields.

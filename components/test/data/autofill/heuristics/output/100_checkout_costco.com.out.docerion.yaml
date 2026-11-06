@@ -1,0 +1,4 @@
+# Docerion header of 100_checkout_costco.com.out.
+type: test
+title: Autofill heuristics expected output for costco.com checkout
+summary: Expected autofill field classifications for the costco.com checkout page, listing predicted types, field names, labels and values for address, phone and email fields.

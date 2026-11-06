@@ -1,0 +1,4 @@
+# Docerion header of ie_sans_charset.html.
+type: test
+title: IE bookmark test fixture without charset
+summary: Internet Explorer bookmark export lacking a charset declaration, used to test parsing of bookmarks with icon metadata and default encoding.

@@ -1,0 +1,4 @@
+# Docerion header of 146_checkout_store.scholastic.com.out.
+type: test
+title: Autofill heuristics expected output for Scholastic store checkout form
+summary: Expected autofill field type predictions for the Scholastic store checkout address form, used by the autofill heuristics tests.

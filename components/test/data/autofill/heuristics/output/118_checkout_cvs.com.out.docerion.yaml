@@ -1,0 +1,4 @@
+# Docerion header of 118_checkout_cvs.com.out.
+type: test
+title: CVS checkout expected autofill output
+summary: Expected autofill heuristic output for the CVS checkout form covering FSA card, credit card and billing address fields.

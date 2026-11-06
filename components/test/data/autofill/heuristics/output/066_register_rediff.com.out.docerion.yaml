@@ -1,0 +1,4 @@
+# Docerion header of 066_register_rediff.com.out.
+type: test
+title: Expected autofill types for rediff.com registration form
+summary: Expected autofill heuristic output for the rediff.com Rediffmail signup form, including full name, login, password, security question, and address fields.

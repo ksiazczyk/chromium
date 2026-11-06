@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Settings dialog test suite
+// summary: Test suite checking theme and font family selection behavior in the distilled page settings dialog.
+// ---
+
 suite('SettingsDialog', function() {
   test('Theme Selection', async function() {
     // Use a dynamic import since this file is not executed as a module from

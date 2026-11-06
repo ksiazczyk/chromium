@@ -1,0 +1,4 @@
+# Docerion header of addressLinesMoreInfo.in.
+type: test
+title: Autofill merge input for address lines with more information
+summary: Pair of autofill profiles for merge tests where one address combines the building number into line one and the other keeps it on a second line.

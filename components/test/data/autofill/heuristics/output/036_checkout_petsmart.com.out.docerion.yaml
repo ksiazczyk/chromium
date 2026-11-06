@@ -1,0 +1,4 @@
+# Docerion header of 036_checkout_petsmart.com.out.
+type: test
+title: Autofill heuristics expected output for the PetSmart checkout page
+summary: Expected autofill field classifications for the PetSmart checkout form, covering billing address, contact and login fields.

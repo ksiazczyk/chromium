@@ -1,0 +1,4 @@
+# Docerion header of 121_bug_454366.out.
+type: test
+title: Autofill heuristics expected output for bug 454366
+summary: Expected Autofill field type predictions for the form from bug 454366, used as reference output by the Autofill heuristics tests.

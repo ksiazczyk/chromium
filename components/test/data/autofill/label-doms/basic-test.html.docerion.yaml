@@ -1,0 +1,4 @@
+# Docerion header of basic-test.html.
+type: test
+title: Autofill label heuristics test page
+summary: HTML fixture with input fields exercising autofill label detection heuristics such as label-for, placeholder, overlaying text, and aria-label.

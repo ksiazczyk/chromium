@@ -1,0 +1,4 @@
+# Docerion header of 101_checkout_m_bestbuy.com.out.
+type: test
+title: Autofill heuristics expected output for mobile bestbuy.com checkout
+summary: Expected autofill field classifications for the mobile bestbuy.com checkout page, covering credit card and membership fields with many unrecognized inputs.

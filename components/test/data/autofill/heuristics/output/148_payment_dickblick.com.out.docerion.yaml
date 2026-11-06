@@ -1,0 +1,4 @@
+# Docerion header of 148_payment_dickblick.com.out.
+type: test
+title: Autofill heuristics expected output for Dick Blick payment form
+summary: Expected autofill field type predictions for the DickBlick.com payment form with credit card, billing address and contact fields, used by the autofill heuristics tests.

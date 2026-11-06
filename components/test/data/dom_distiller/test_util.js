@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mocha test reporter utility
+// summary: Test utility that reports Mocha results through a window promise so browser tests can await suite completion.
+// ---
+
 let resolve;
 let reject;
 window.completePromise = new Promise((res, rej) => {

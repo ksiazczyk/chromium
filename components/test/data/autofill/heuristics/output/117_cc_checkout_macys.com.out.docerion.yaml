@@ -1,0 +1,4 @@
+# Docerion header of 117_cc_checkout_macys.com.out.
+type: test
+title: Macy's credit card checkout expected autofill output
+summary: Expected autofill heuristic output for the Macy's credit card form with card details and billing contact fields.

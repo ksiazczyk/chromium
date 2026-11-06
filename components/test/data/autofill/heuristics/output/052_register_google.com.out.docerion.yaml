@@ -1,0 +1,4 @@
+# Docerion header of 052_register_google.com.out.
+type: test
+title: Autofill heuristics expected output for Google account creation form
+summary: Expected autofill field classifications for the Google account sign-up form, including name, email, recovery email, and country fields.

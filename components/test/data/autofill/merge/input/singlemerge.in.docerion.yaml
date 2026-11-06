@@ -1,0 +1,4 @@
+# Docerion header of singlemerge.in.
+type: test
+title: Autofill merge test input for a single profile merge
+summary: Test input with two similar autofill profiles differing in company and address details, used to exercise a single merge case.

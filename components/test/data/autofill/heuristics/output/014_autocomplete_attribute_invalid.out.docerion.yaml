@@ -1,0 +1,4 @@
+# Docerion header of 014_autocomplete_attribute_invalid.out.
+type: test
+title: 'Autofill heuristics expected output: invalid autocomplete attributes (014)'
+summary: Expected field type predictions showing that invalid autocomplete attribute values are ignored and their fields fall back to UNKNOWN_TYPE.

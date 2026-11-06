@@ -1,0 +1,4 @@
+# Docerion header of 119_bug_465571.out.
+type: test
+title: Bug 465571 shipping address expected autofill output
+summary: Expected autofill heuristic output for a shipping address form used as a regression test case for bug 465571.

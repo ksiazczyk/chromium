@@ -1,0 +1,4 @@
+# Docerion header of 041_checkout_vitacost.com.out.
+type: test
+title: Autofill heuristic output for vitacost.com checkout
+summary: Expected autofill field type predictions for the vitacost.com checkout form, mapping ASP.NET control names to name, address and phone types.

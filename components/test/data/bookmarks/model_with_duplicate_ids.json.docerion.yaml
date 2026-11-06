@@ -1,0 +1,4 @@
+# Docerion header of model_with_duplicate_ids.json.
+type: test
+title: Bookmark model fixture with duplicate IDs
+summary: Test fixture whose bookmark nodes reuse the same IDs, used to verify bookmark model decoding handles duplicate identifiers.

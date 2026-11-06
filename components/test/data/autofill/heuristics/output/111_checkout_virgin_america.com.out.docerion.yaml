@@ -1,0 +1,4 @@
+# Docerion header of 111_checkout_virgin_america.com.out.
+type: test
+title: Virgin America checkout expected autofill output
+summary: Expected autofill heuristic output for the Virgin America checkout form, covering credit card and stored address fields.

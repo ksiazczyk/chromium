@@ -1,0 +1,4 @@
+# Docerion header of 144_cc_checkout_m_jcp.com.out.
+type: test
+title: Autofill heuristics expected output for JCPenney mobile checkout form
+summary: Expected autofill field type predictions for the JCPenney mobile checkout form with credit card, address and contact fields, used by the autofill heuristics tests.

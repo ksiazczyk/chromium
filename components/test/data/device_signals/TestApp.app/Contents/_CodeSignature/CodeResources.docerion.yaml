@@ -1,0 +1,4 @@
+# Docerion header of CodeResources.
+type: test
+title: CodeResources signature manifest for TestApp fixture
+summary: Standard macOS code signing resource manifest defining sealing rules for the TestApp.app bundle used as test data for device signal tests.

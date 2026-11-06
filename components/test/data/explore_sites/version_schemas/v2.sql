@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Explore sites v2 SQL schema and seed data
+-- summary: SQL script that creates the version 2 explore sites schema with the new ntp_shown_count column and seeds sample data for tests.
+-- ---
+
 INSERT OR REPLACE INTO meta (key, value)
 VALUES ('version', 2), ('last_compatible_version', 1);
 

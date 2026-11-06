@@ -1,0 +1,4 @@
+# Docerion header of 084_crbug_93595.out.
+type: test
+title: Autofill heuristic expected output for crbug 93595
+summary: Expected Autofill classifications for a payment form with credit card, expiry, and CVV fields, used in heuristic regression tests.

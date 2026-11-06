@@ -1,0 +1,4 @@
+# Docerion header of 040_checkout_urbanoutfitters.com.out.
+type: test
+title: Autofill heuristic output for urbanoutfitters.com checkout
+summary: Expected autofill field type predictions for the urbanoutfitters.com checkout form, covering billing, credit card, gift card and shipping fields.

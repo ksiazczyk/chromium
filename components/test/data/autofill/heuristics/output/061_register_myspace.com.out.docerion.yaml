@@ -1,0 +1,4 @@
+# Docerion header of 061_register_myspace.com.out.
+type: test
+title: Expected autofill types for myspace.com registration form
+summary: Expected autofill heuristic output for the myspace.com signup form, including name, email, password, and profile fields such as artist name and birthday.

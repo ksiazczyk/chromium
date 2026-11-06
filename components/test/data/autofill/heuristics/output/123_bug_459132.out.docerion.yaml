@@ -1,0 +1,4 @@
+# Docerion header of 123_bug_459132.out.
+type: test
+title: Autofill heuristics expected output for bug 459132
+summary: Expected Autofill field type predictions for the flight booking form from bug 459132, used as reference output by the Autofill heuristics tests.

@@ -1,0 +1,4 @@
+# Docerion header of 155_fmm-ja_inm.gob.mx.out.
+type: test
+title: Autofill expected output for Mexican FMM form (Japanese)
+summary: Expected autofill predictions for the Japanese version of the Mexican FMM immigration form on inm.gob.mx.

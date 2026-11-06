@@ -1,3 +1,9 @@
+---
+type: readme
+title: Device signals test data README
+summary: Describes the test app bundles and executables in this directory and gives step-by-step instructions for code-signing them on Windows and macOS.
+---
+
 This directory contains some executable files for testing the Binary files
 signals extraction.
 

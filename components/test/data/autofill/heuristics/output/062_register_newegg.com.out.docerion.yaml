@@ -1,0 +1,4 @@
+# Docerion header of 062_register_newegg.com.out.
+type: test
+title: Expected autofill types for newegg.com registration form
+summary: Expected autofill heuristic output for the newegg.com registration form with billing and shipping addresses, phone parts, and survey fields.

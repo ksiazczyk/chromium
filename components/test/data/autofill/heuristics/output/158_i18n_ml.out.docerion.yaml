@@ -1,0 +1,4 @@
+# Docerion header of 158_i18n_ml.out.
+type: test
+title: Autofill expected output for Malayalam localized form fields
+summary: Expected autofill predictions for a form with Malayalam labels, covering name, address, email and phone fields.

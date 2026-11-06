@@ -1,0 +1,4 @@
+# Docerion header of 022_checkout_crutchfield.com.out.
+type: test
+title: Crutchfield checkout autofill expected output
+summary: Expected autofill field type classifications for the Crutchfield checkout page, including billing and shipping name, address, phone, and email fields.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: YouTube iframe class tests
+// summary: Test suite verifying YouTube iframes get wrapped with youtubeContainer classes while non-YouTube iframes are left untouched.
+// ---
+
 // Test that the JS file is loaded and the test is running.
 suite('AddClassesToYTIFramesTest', function() {
   test('Correctly transforms yt iframes', async function() {

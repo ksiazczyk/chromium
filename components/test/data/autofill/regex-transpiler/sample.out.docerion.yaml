@@ -1,0 +1,4 @@
+# Docerion header of sample.out.
+type: test
+title: Regex transpiler expected output
+summary: 'Expected output of the regex transpiler test: a generated C++ header defining autofill matching patterns as constexpr data.'

@@ -1,0 +1,4 @@
+# Docerion header of 139_bug_594475.out.
+type: test
+title: Autofill heuristics expected output for bug 594475
+summary: Expected autofill predictions for a minimal form whose test0, test1 and lookup fields are all classified as unknown type.

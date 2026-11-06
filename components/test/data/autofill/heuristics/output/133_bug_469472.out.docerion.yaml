@@ -1,0 +1,4 @@
+# Docerion header of 133_bug_469472.out.
+type: test
+title: Autofill heuristics expected output for bug 469472
+summary: Expected autofill predictions for a debit or prepaid gift card form with card number, expiry month and year, and card security code.

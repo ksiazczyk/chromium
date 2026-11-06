@@ -1,0 +1,4 @@
+# Docerion header of 124_bug_460832.out.
+type: test
+title: Autofill heuristics expected output for bug 460832
+summary: Expected Autofill field type predictions for the calendar event form from bug 460832, used as reference output by the Autofill heuristics tests.

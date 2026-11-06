@@ -1,0 +1,4 @@
+# Docerion header of 096_llbean.out.
+type: test
+title: Expected autofill output for the L.L.Bean form
+summary: Expected field classifications for an L.L.Bean form, covering name, multi-country address variants and phone fields.

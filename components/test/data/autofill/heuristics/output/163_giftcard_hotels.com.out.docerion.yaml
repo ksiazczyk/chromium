@@ -1,0 +1,4 @@
+# Docerion header of 163_giftcard_hotels.com.out.
+type: test
+title: Hotels.com gift card checkout expected output
+summary: Expected autofill heuristic predictions for the Hotels.com hotel booking and gift card payment checkout form.

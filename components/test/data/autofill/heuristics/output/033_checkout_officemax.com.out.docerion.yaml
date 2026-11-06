@@ -1,0 +1,4 @@
+# Docerion header of 033_checkout_officemax.com.out.
+type: test
+title: Autofill heuristics expected output for the OfficeMax checkout page
+summary: Expected autofill field classifications for the OfficeMax checkout form, including promo code, address, phone and email fields.

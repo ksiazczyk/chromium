@@ -1,0 +1,4 @@
+# Docerion header of 088_crbug_98338.out.
+type: test
+title: Autofill heuristic expected output for crbug 98338
+summary: Expected Autofill classifications for a form with gift card number and PIN fields alongside credit card fields, used in heuristic regression tests.

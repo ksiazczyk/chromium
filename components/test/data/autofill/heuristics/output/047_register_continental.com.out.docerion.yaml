@@ -1,0 +1,4 @@
+# Docerion header of 047_register_continental.com.out.
+type: test
+title: Autofill heuristic output for continental.com registration
+summary: Expected autofill field type predictions for the continental.com registration form, covering name, address, phone, email and account security fields.

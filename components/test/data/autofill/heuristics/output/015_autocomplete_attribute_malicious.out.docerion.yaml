@@ -1,0 +1,4 @@
+# Docerion header of 015_autocomplete_attribute_malicious.out.
+type: test
+title: 'Autofill heuristics expected output: malicious autocomplete attributes (015)'
+summary: Expected field type predictions for a form containing a malicious autocomplete token, verifying it does not disrupt classification of legitimate fields.

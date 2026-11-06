@@ -1,0 +1,4 @@
+# Docerion header of punctuation.out.
+type: test
+title: Punctuation merge expected output
+summary: Expected output for an autofill profile merge test covering punctuation in address values.

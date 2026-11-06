@@ -1,0 +1,4 @@
+# Docerion header of punctuation.in.
+type: test
+title: Autofill merge input for punctuation differences
+summary: Two autofill profiles whose street address differs only in punctuation such as commas and periods, used to exercise punctuation-insensitive merging.

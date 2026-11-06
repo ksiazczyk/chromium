@@ -1,0 +1,4 @@
+# Docerion header of 152_garbarino_document_number_not_cc.out.
+type: test
+title: Autofill expected output for Garbarino document number fields
+summary: Expected autofill predictions for a Garbarino form whose document number fields are not classified as credit card numbers.

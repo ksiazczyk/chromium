@@ -1,0 +1,4 @@
+# Docerion header of 031_checkout_macys.com.out.
+type: test
+title: Autofill heuristics expected output for the Macy's checkout page
+summary: Expected autofill field classifications for the Macy's checkout form, covering shipment address, name and phone fields as test reference data.

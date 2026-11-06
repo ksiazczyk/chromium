@@ -1,0 +1,4 @@
+# Docerion header of firefox_bookmark_keyword.html.
+type: test
+title: Firefox bookmark keyword test fixture
+summary: Netscape-format bookmark file with Firefox SHORTCUTURL keyword attributes, used to test keyword parsing in bookmark imports.

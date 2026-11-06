@@ -1,0 +1,4 @@
+# Docerion header of 037_checkout_qvc.com.out.
+type: test
+title: Autofill heuristics expected output for the QVC checkout page
+summary: Expected autofill field classifications for the QVC checkout form, covering email, PIN, billing and shipping address fields.

@@ -1,0 +1,4 @@
+# Docerion header of serialize_profiles.py.
+type: script
+title: Serialize autofill profiles from a SQLite database
+summary: Command-line script that reads autofill profile tables from a SQLite Web Data database and prints their serialized representation.

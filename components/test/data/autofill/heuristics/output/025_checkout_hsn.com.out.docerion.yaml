@@ -1,0 +1,4 @@
+# Docerion header of 025_checkout_hsn.com.out.
+type: test
+title: HSN checkout autofill expected output
+summary: Expected autofill field type classifications for the HSN checkout page, covering billing, shipping, credit card, and password fields.

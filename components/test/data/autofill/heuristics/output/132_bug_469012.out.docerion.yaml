@@ -1,0 +1,4 @@
+# Docerion header of 132_bug_469012.out.
+type: test
+title: Autofill heuristics expected output for bug 469012
+summary: Expected autofill predictions for a payment form with card issuer details plus first name, address, country and mobile phone fields.

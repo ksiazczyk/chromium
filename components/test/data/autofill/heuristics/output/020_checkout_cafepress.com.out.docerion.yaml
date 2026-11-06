@@ -1,0 +1,4 @@
+# Docerion header of 020_checkout_cafepress.com.out.
+type: test
+title: CafePress checkout autofill expected output
+summary: Expected autofill field type classifications for the CafePress checkout page, listing billing, shipping, promo, and credit card fields with their predicted types.

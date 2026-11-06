@@ -1,0 +1,4 @@
+# Docerion header of model_nested_user_folders.json.
+type: test
+title: Bookmark model fixture with nested user folders
+summary: Test fixture with deeply nested bookmark folders and URLs to exercise decoding of hierarchical bookmark models.

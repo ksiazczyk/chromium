@@ -1,0 +1,4 @@
+# Docerion header of 030_checkout_lowes.com.out.
+type: test
+title: Autofill heuristics expected output for the Lowe's checkout page
+summary: Expected autofill field classifications for the Lowe's checkout form, listing field types, names, labels and section groupings as test reference data.

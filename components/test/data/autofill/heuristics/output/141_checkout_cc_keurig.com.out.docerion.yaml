@@ -1,0 +1,4 @@
+# Docerion header of 141_checkout_cc_keurig.com.out.
+type: test
+title: Autofill heuristics expected output for Keurig credit card form
+summary: Expected autofill field type predictions for the Keurig.com checkout credit card fields, used by the autofill heuristics tests.

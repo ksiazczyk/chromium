@@ -1,0 +1,4 @@
+# Docerion header of 104_checkout_m_kohls.com.out.
+type: test
+title: Autofill heuristics expected output for mobile kohls.com checkout
+summary: Expected autofill field classifications for the mobile kohls.com checkout page, covering credit card, billing address, phone and email fields.

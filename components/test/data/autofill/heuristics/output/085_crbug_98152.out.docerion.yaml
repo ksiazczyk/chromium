@@ -1,0 +1,4 @@
+# Docerion header of 085_crbug_98152.out.
+type: test
+title: Autofill heuristic expected output for crbug 98152
+summary: Expected Autofill classifications for a checkout form with credit card, company, address, and phone fields, used in heuristic regression tests.

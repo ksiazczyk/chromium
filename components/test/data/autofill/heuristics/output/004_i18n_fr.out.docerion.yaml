@@ -1,0 +1,4 @@
+# Docerion header of 004_i18n_fr.out.
+type: test
+title: Autofill heuristics expected output for French form labels
+summary: Expected autofill field type predictions for a French-language test form covering name, address, email, phone and credit card labels.

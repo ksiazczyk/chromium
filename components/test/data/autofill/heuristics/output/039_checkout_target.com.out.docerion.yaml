@@ -1,0 +1,4 @@
+# Docerion header of 039_checkout_target.com.out.
+type: test
+title: Autofill heuristics expected output for the Target checkout page
+summary: Expected autofill field classifications for the Target checkout form, covering name, address and phone fields.

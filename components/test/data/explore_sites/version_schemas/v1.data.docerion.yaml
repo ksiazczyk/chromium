@@ -1,0 +1,4 @@
+# Docerion header of v1.data.
+type: test
+title: Explore sites v1 test database dump
+summary: Text dump of the version 1 explore sites database with categories, sites, activity, and site blocklist rows used as test fixture data.

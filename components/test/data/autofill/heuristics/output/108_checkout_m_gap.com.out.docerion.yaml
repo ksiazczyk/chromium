@@ -1,0 +1,4 @@
+# Docerion header of 108_checkout_m_gap.com.out.
+type: test
+title: Autofill heuristics expected output for mobile gap.com checkout
+summary: Expected autofill field classifications for the mobile gap.com checkout page, covering several shipping address field groups.

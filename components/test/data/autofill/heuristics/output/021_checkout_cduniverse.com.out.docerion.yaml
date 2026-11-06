@@ -1,0 +1,4 @@
+# Docerion header of 021_checkout_cduniverse.com.out.
+type: test
+title: CD Universe checkout autofill expected output
+summary: Expected autofill field type classifications for the CD Universe checkout page, covering account, billing, and shipping address fields.

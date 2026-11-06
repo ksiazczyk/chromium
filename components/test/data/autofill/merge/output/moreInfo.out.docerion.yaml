@@ -1,0 +1,4 @@
+# Docerion header of moreInfo.out.
+type: test
+title: More info merge expected output
+summary: Expected output for an autofill profile merge test where one profile carries more information.

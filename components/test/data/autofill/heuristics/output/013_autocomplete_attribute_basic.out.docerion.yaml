@@ -1,0 +1,4 @@
+# Docerion header of 013_autocomplete_attribute_basic.out.
+type: test
+title: 'Autofill heuristics expected output: basic autocomplete attributes (013)'
+summary: Expected field type predictions for a test page covering basic autocomplete tokens for name, address, credit card, email and phone fields.

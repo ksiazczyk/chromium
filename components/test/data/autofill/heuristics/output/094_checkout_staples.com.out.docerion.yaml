@@ -1,0 +1,4 @@
+# Docerion header of 094_checkout_staples.com.out.
+type: test
+title: Expected autofill output for staples.com checkout form
+summary: Expected field classifications for the Staples checkout form, covering name, company, address, phone and email fields.

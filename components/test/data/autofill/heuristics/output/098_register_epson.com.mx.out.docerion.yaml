@@ -1,0 +1,4 @@
+# Docerion header of 098_register_epson.com.mx.out.
+type: test
+title: Expected autofill output for epson.com.mx registration form
+summary: Expected field classifications for the Epson Mexico registration form, covering name, email and serial number fields.

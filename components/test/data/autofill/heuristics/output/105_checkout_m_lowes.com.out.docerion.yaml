@@ -1,0 +1,4 @@
+# Docerion header of 105_checkout_m_lowes.com.out.
+type: test
+title: Autofill heuristics expected output for mobile lowes.com checkout
+summary: Expected autofill field classifications for the mobile lowes.com checkout page, covering credit card number, security code and expiry fields.

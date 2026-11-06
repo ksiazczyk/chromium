@@ -1,0 +1,4 @@
+# Docerion header of 070_register_signup.live.com.out.
+type: test
+title: Autofill heuristics test output for Windows Live signup form
+summary: Expected autofill field classifications for the Windows Live signup page, mapping email, password, name, and security fields to predicted types.

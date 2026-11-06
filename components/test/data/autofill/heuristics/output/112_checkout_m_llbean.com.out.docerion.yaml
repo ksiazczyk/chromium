@@ -1,0 +1,4 @@
+# Docerion header of 112_checkout_m_llbean.com.out.
+type: test
+title: L.L.Bean checkout expected autofill output
+summary: Expected autofill heuristic output for the L.L.Bean checkout form, including Japanese, Canadian and international address variants.

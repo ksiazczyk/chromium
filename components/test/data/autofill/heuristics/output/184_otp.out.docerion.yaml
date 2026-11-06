@@ -1,0 +1,4 @@
+# Docerion header of 184_otp.out.
+type: test
+title: Autofill heuristics expected output for one-time code fields
+summary: Expected field type predictions for email and one-time password fields, including an unrecognized SMS code field.

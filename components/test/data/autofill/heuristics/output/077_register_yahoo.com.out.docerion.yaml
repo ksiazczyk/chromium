@@ -1,0 +1,4 @@
+# Docerion header of 077_register_yahoo.com.out.
+type: test
+title: Autofill heuristics test output for Yahoo registration form
+summary: Expected autofill field classifications for the Yahoo account signup page, covering name, birthday, address, email, and password fields.

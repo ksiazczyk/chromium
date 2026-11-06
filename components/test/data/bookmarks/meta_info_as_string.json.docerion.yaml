@@ -1,0 +1,4 @@
+# Docerion header of meta_info_as_string.json.
+type: test
+title: Bookmark model fixture with string-encoded meta_info
+summary: Test fixture of a bookmarks file whose meta_info fields are stored as JSON strings, used to exercise bookmark model decoding of stringified metadata.

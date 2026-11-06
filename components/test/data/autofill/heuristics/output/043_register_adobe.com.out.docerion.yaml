@@ -1,0 +1,4 @@
+# Docerion header of 043_register_adobe.com.out.
+type: test
+title: Autofill heuristic output for adobe.com registration
+summary: Expected autofill field type predictions for the adobe.com registration form, covering email, name, country and password fields.

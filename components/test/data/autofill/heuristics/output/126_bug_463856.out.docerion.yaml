@@ -1,0 +1,4 @@
+# Docerion header of 126_bug_463856.out.
+type: test
+title: Autofill heuristics expected output for bug 463856
+summary: Expected Autofill field type predictions for the invitation form from bug 463856, used as reference output by the Autofill heuristics tests.

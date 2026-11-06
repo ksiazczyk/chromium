@@ -1,0 +1,4 @@
+# Docerion header of 063_register_officedepot.com.out.
+type: test
+title: Expected autofill types for officedepot.com registration form
+summary: Expected autofill heuristic output for the officedepot.com registration form, including address books, credit card fields, and login credentials.

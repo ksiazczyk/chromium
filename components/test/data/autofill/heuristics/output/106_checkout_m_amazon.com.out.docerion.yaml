@@ -1,0 +1,4 @@
+# Docerion header of 106_checkout_m_amazon.com.out.
+type: test
+title: Autofill heuristics expected output for mobile amazon.com checkout
+summary: Expected autofill field classifications for the mobile amazon.com checkout page, covering credit card, address, phone and delivery preference fields.

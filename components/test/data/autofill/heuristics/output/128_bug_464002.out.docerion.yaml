@@ -1,0 +1,4 @@
+# Docerion header of 128_bug_464002.out.
+type: test
+title: Autofill heuristics expected output for bug 464002
+summary: Expected Autofill field type predictions for the credit card payment form from bug 464002, used as reference output by the Autofill heuristics tests.

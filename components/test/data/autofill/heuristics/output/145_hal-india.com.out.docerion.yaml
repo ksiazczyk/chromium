@@ -1,0 +1,4 @@
+# Docerion header of 145_hal-india.com.out.
+type: test
+title: Autofill heuristics expected output for HAL India query form
+summary: Expected autofill field type predictions for the HAL India contact query form, used by the autofill heuristics tests.

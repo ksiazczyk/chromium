@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DOM distiller directory metadata
+summary: Points the dom_distiller test data directory to the shared component metadata via a mixin.

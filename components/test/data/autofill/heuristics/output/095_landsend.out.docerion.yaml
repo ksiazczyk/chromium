@@ -1,0 +1,4 @@
+# Docerion header of 095_landsend.out.
+type: test
+title: Expected autofill output for the Lands' End form
+summary: Expected field classifications for a Lands' End shipping form, covering name, address, state, province and zip fields.

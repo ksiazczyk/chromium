@@ -1,0 +1,4 @@
+# Docerion header of v3.data.
+type: test
+title: Explore sites v3 test database dump
+summary: Text dump of the version 3 explore sites database used as test fixture data, with table contents matching the version 2 dump.

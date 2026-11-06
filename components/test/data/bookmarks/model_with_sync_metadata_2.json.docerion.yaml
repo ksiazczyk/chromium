@@ -1,0 +1,4 @@
+# Docerion header of model_with_sync_metadata_2.json.
+type: test
+title: Bookmark model fixture with sync metadata variant 2
+summary: Second sync metadata bookmark fixture with reassigned node IDs, used to test decoding of models carrying alternate sync metadata.

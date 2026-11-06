@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Viewer JS tester suite
+// summary: Test suite verifying that viewer JS sanitizes links and that post-processing steps log errors and continue when a step throws.
+// ---
+
 // Test that the JS file is loaded and the test is running.
 suite('ViewerJs', function() {
   test('SanitizeLinks', async function() {

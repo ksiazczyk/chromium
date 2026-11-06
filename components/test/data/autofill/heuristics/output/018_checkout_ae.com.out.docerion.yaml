@@ -1,0 +1,4 @@
+# Docerion header of 018_checkout_ae.com.out.
+type: test
+title: 'Autofill heuristics expected output: ae.com checkout (018)'
+summary: Expected field type predictions for the ae.com checkout test page, including address, credit card, email, phone and promotional code fields.

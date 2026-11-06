@@ -1,0 +1,4 @@
+# Docerion header of 114_cc_checkout_wayfair.com.out.
+type: test
+title: Wayfair credit card checkout expected autofill output
+summary: Expected autofill heuristic output for the Wayfair credit card payment form with card number, expiry and cardholder fields.

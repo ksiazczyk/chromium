@@ -1,0 +1,4 @@
+# Docerion header of 068_register_rocketlawyer.com.out.
+type: test
+title: Expected autofill types for rocketlawyer.com registration form
+summary: Expected autofill heuristic output for the rocketlawyer.com registration form, including a search term field plus name, email, and password fields.

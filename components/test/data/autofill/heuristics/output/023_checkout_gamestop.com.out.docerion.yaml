@@ -1,0 +1,4 @@
+# Docerion header of 023_checkout_gamestop.com.out.
+type: test
+title: GameStop checkout autofill expected output
+summary: Expected autofill field type classifications for the GameStop checkout page, covering purchaser details, shipping address, and related form fields.

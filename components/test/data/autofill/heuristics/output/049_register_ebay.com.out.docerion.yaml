@@ -1,0 +1,4 @@
+# Docerion header of 049_register_ebay.com.out.
+type: test
+title: Autofill heuristic output for ebay.com registration
+summary: Expected autofill field type predictions for the ebay.com registration form, covering name, address, phone, email, password and verification fields.

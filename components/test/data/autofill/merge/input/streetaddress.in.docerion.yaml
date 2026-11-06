@@ -1,0 +1,4 @@
+# Docerion header of streetaddress.in.
+type: test
+title: Autofill merge test input for street address variants
+summary: Test input with profiles representing the same street address in different line-splitting forms to exercise address merging.

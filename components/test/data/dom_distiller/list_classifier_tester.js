@@ -7,6 +7,12 @@
  * list_classifier.js.
  */
 
+// ---docerion
+// type: test
+// title: ListClassifier test suite
+// summary: Browser test suite verifying that ListClassifier marks content lists as distilled-content-list while rejecting empty, navigational, and link-heavy lists.
+// ---
+
 suite('ListClassifier', function() {
   let testContainer;
 

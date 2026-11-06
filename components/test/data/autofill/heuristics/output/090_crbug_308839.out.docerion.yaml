@@ -1,0 +1,4 @@
+# Docerion header of 090_crbug_308839.out.
+type: test
+title: Expected autofill output for crbug 308839 form
+summary: Expected field classification output for a test form covering name, email, phone and address fields, referenced by crbug 308839.
