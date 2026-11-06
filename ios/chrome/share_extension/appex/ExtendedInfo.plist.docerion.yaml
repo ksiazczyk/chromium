@@ -1,0 +1,4 @@
+# Docerion header of ExtendedInfo.plist.
+type: config
+title: Extended share extension Info.plist
+summary: Bundle configuration for the extended share extension variant, accepting URLs, plain text, and images through the ExtendedShareViewController principal class.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Share extension sheet interface
+// summary: Declares the ShareExtensionSheet button-stack view controller that holds the shared image, URL, text, and selected account for the share extension.
+// ---
+
 #ifndef IOS_CHROME_SHARE_EXTENSION_SHARE_EXTENSION_SHEET_H_
 #define IOS_CHROME_SHARE_EXTENSION_SHARE_EXTENSION_SHEET_H_
 

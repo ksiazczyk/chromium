@@ -1,0 +1,4 @@
+# Docerion header of share_extension_view.mm.
+type: source
+title: Share extension view implementation
+summary: Implements the share extension widget view with styled buttons, shared URL and title display, and an optional screenshot preview.

@@ -1,0 +1,4 @@
+# Docerion header of ios_share_extension_chromium_strings.grd.
+type: data
+title: Chromium-branded share extension string resources
+summary: Grit resource definition with translatable iOS share extension strings for the Chromium branding, producing per-locale pak files and a C header.

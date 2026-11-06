@@ -1,0 +1,4 @@
+# Docerion header of ios_share_extension_google_chrome_strings.grd.
+type: data
+title: Google Chrome-branded share extension string resources
+summary: Grit resource definition with translatable iOS share extension strings for the Google Chrome branding, producing per-locale pak files and a C header.

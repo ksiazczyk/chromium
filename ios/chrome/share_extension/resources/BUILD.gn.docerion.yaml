@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Share extension resources GN build file
+summary: Defines the bundle_data_xcassets target listing the asset catalog sources bundled for the iOS Chrome share extension.

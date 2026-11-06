@@ -1,0 +1,4 @@
+# Docerion header of share_view_controller.mm.
+type: source
+title: Share extension view controller implementation
+summary: Implements the share extension controller that loads shared items from the extension context, queues actions in the app group, and displays the share view or error alerts.

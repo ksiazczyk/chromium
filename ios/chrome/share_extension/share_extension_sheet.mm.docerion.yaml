@@ -1,0 +1,4 @@
+# Docerion header of share_extension_sheet.mm.
+type: source
+title: Share extension sheet implementation
+summary: Implements the share extension sheet, building content previews for URLs, images, and text and managing the account picker table view.

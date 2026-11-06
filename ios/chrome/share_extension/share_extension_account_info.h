@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Share extension account info interface
+// summary: Declares a model object holding a Google account's Gaia ID, full name, email and avatar for the share extension.
+// ---
+
 #ifndef IOS_CHROME_SHARE_EXTENSION_SHARE_EXTENSION_ACCOUNT_INFO_H_
 #define IOS_CHROME_SHARE_EXTENSION_SHARE_EXTENSION_ACCOUNT_INFO_H_
 

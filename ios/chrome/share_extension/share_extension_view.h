@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Share extension view interface
+// summary: Declares the ShareExtensionView and its action target protocol for adding bookmarks or reading list items and opening the shared URL in Chrome.
+// ---
+
 #ifndef IOS_CHROME_SHARE_EXTENSION_SHARE_EXTENSION_VIEW_H_
 #define IOS_CHROME_SHARE_EXTENSION_SHARE_EXTENSION_VIEW_H_
 

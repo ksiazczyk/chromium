@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Share extension build targets
+summary: Defines GN build targets for the iOS Chrome share extension, including locale resource packing, the share source set and localized strings generation.

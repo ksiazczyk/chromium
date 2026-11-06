@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extended share view controller interface
+// summary: Declares the view controller that acts as the NSExtensionPrincipalClass for Chrome's extended share extension.
+// ---
+
 #ifndef IOS_CHROME_SHARE_EXTENSION_EXTENDED_SHARE_VIEW_CONTROLLER_H_
 #define IOS_CHROME_SHARE_EXTENSION_EXTENDED_SHARE_VIEW_CONTROLLER_H_
 
