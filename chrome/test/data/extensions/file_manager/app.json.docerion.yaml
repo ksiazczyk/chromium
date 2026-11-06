@@ -1,0 +1,4 @@
+# Docerion header of app.json.
+type: test
+title: File Manager test extension manifest
+summary: Minimal Chrome extension manifest (name, version, manifest version 3 and an icon) used as test data for file manager extension tests.

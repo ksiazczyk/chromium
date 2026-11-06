@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Managed storage policy validation background script
+// summary: Service worker for the managed storage test extension that validates the managed policy and reports ok or fail to the browser test.
+// ---
+
 const validate = function(policy) {
   // This is the policy set by component_cloud_policy_browsertest.cc.
   if (JSON.stringify(policy) === '{"Another":"turn_it_off"}') {

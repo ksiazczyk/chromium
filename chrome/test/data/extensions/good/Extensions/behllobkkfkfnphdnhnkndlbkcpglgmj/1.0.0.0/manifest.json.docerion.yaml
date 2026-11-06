@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest
+summary: Manifest for the sample extension defining permissions, background page, icons, and content scripts used by extension tests.

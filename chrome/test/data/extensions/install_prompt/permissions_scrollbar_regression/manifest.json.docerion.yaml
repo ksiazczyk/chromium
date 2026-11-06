@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Scrollbar Regression extension manifest
+summary: Manifest for a test extension named Scrollbar Regression that should not show a vertical scrollbar, declaring host permissions for facebook.com.

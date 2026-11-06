@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Self uninstall test extension background script
+// summary: Background script of a test extension that looks up itself by name and uninstalls it using the chrome.management API.
+// ---
+
 // The name of the extension to uninstall, from manifest.json.
 const EXPECTED_NAME = 'Self Uninstall Test';
 

@@ -1,0 +1,4 @@
+# Docerion header of extension.json.
+type: test
+title: Test extension manifest for install prompt
+summary: Minimal manifest v3 extension definition named "test" used as test data for extension install prompt tests.

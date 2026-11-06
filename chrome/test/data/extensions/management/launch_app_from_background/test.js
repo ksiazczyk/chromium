@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Launch packaged app from background test script
+// summary: Script used by management_api_browsertest.cc to launch the packaged_app extension from the background and verify the app tab opens in the normal window.
+// ---
+
 const kChromeAppErrorPrefix = 'Chrome app';
 const kChromeAppErrorSuffix = 'is deprecated on Window, Mac, and Linux. ' +
     'See https://support.google.com/chrome/?p=chrome_app_deprecation for more ' +

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Launch App test extension manifest
+summary: Manifest for a test extension with management and tabs permissions and a persistent background script, used by the management API browser test.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest of the sample input method test extension
+summary: Manifest for the Sample Input Method For Testing extension, declaring the input permission, main.js background script, and three test input components.

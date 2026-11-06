@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Install event test extension manifest
+summary: Manifest for a test extension with the management permission and a persistent background script, used in install event browser tests.

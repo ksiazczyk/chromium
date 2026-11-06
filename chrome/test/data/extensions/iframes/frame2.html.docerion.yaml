@@ -1,0 +1,4 @@
+# Docerion header of frame2.html.
+type: test
+title: Frame 2 test page
+summary: HTML test fixture titled Frame 2 that embeds frame2_child.html in a nested iframe.

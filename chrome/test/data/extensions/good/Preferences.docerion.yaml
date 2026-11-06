@@ -1,0 +1,4 @@
+# Docerion header of Preferences.
+type: test
+title: Good extension preferences test fixture
+summary: Preferences fixture listing several installed extensions with manifests, permissions and content scripts for Chrome extension tests.

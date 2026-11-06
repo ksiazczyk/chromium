@@ -1,0 +1,4 @@
+# Docerion header of PreferencesExperimental.
+type: test
+title: Experimental extension preferences test fixture
+summary: Preferences fixture defining an extension with the experimental permission for Chrome extension tests.

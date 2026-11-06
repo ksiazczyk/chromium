@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Non-localized extension manifest for l10n test
+summary: Test fixture manifest for a Chrome extension named 'no l10n' that is not localized, used in extension localization tests.

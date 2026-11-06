@@ -1,0 +1,4 @@
+# Docerion header of PreferencesExternalComponent.
+type: test
+title: External component extension preferences test fixture
+summary: Preferences fixture with an extension installed as an external component for Chrome extension tests.

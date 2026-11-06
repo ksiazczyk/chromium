@@ -1,0 +1,4 @@
+# Docerion header of Preferences.
+type: test
+title: Extension l10n test Preferences fixture
+summary: Preferences fixture with extension settings for localized and non-localized test extensions, used as test data for Chrome extension localization tests.

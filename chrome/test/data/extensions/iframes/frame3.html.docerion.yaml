@@ -1,0 +1,4 @@
+# Docerion header of frame3.html.
+type: test
+title: Frame 3 test page
+summary: Minimal HTML page titled Frame 3 used as an iframe test fixture for extension tests.

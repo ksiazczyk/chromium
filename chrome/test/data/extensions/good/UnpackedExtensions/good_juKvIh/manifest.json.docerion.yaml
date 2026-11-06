@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Testing Unpacked Extension Installation manifest
+summary: Minimal manifest for a test unpacked extension used to verify extension installation in Chrome tests.

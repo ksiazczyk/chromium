@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for test extension 'My extension 2'
+summary: Manifest of the good extension test fixture, declaring version 2, an extension key, and background.html as the background page.

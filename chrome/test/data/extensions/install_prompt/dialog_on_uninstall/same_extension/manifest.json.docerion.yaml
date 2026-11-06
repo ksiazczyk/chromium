@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest for uninstall dialog scenario
+summary: Manifest for a test extension named chrome_extension_name__ used in the install prompt on uninstall dialog test data for the same extension case.

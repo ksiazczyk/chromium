@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Kiosk Only test extension manifest
+summary: Manifest for a test Chrome app that declares the kiosk_enabled and kiosk_only attributes to exercise that behavior.
