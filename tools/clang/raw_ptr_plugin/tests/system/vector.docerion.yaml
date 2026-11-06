@@ -1,0 +1,4 @@
+# Docerion header of vector.
+type: test
+title: Mock std::vector system header for plugin tests
+summary: Mock std::vector header used as a system-header fixture for raw_ptr plugin tests.

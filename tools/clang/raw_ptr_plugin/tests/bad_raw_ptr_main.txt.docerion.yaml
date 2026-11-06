@@ -1,0 +1,4 @@
+# Docerion header of bad_raw_ptr_main.txt.
+type: test
+title: Expected errors for bad_raw_ptr_main test
+summary: Expected compiler diagnostics for the bad_raw_ptr_main test, covering forbidden raw_ptr casts in main and header files.

@@ -1,0 +1,4 @@
+# Docerion header of raw_ptr_fields_objc.txt.
+type: test
+title: Expected output for raw_ptr_fields_objc test
+summary: Empty expected diagnostics file for the raw_ptr_fields_objc test, indicating the plugin should report no errors.

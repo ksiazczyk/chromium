@@ -1,0 +1,4 @@
+# Docerion header of arithmetic-fields.txt.
+type: test
+title: Arithmetic fields field list
+summary: Lists the MyStruct field that permits pointer arithmetic, serving as the field filter input for the arithmetic-fields test.

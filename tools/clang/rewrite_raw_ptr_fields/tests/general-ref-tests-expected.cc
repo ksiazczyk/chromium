@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: General reference tests - expected rewriter output
+// summary: Expected output of the raw_ptr/raw_ref field rewriter for reference-field cases in structs, templates, and anonymous structs.
+// ---
+
 #include <iostream>
 #include <sstream>
 #include <string>

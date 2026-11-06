@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Generated header test fixture for raw_ptr rewrite tests
+// summary: Test fixture header simulating build-generated code to verify that raw_ptr field rewrites are skipped inside generated files.
+// ---
+
 #ifndef TOOLS_CLANG_REWRITE_RAW_PTR_FIELDS_TESTS_GEN_GENERATED_HEADER_H_
 #define TOOLS_CLANG_REWRITE_RAW_PTR_FIELDS_TESTS_GEN_GENERATED_HEADER_H_
 

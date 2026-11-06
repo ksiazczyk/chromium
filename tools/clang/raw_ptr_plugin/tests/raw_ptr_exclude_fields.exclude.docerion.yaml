@@ -1,0 +1,4 @@
+# Docerion header of raw_ptr_exclude_fields.exclude.
+type: test
+title: Field exclusion list for the raw ptr exclude fields test
+summary: Lists the MyClass fields that the raw-ptr and raw-ref field checks should skip during this test.

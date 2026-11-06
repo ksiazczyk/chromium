@@ -1,0 +1,4 @@
+# Docerion header of run_tool.args.
+type: test
+title: Command-line arguments for running the rewriter in tests
+summary: Passes --exclude-fields, --override-exclude-paths and --arithmetic-fields tool arguments used when running the rewriter in tests.

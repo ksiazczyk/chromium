@@ -1,0 +1,4 @@
+# Docerion header of raw_ptr_to_stack_allocated_exclusion.flags.
+type: test
+title: Flags for the stack-allocated exclusion test
+summary: Compiler flags enabling the check-raw-ptr-to-stack-allocated option when running the plugin on the exclusion test source.

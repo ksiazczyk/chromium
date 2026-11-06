@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Affected expressions test - original input
+// summary: Input for the affected-expressions test with raw pointer and reference fields whose uses must be adjusted during the raw_ptr field rewrite.
+// ---
+
 #include <stdint.h>  // for uintptr_t
 
 #include <string>

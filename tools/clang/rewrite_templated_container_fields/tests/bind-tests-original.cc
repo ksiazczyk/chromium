@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Bind tests original input
+// summary: Input fixture with BindOnce and BindRepeating calls passing vector<int*> members that should be rewritten to raw_ptr.
+// ---
+
 #include <vector>
 
 template <typename Functor, typename... Args>

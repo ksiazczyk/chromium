@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Macro-based raw pointer fields test source
+// summary: C++ test input exercising field checks on fields spelled through user, system header, command-line and generated-location macros.
+// ---
+
 // Testing normal case
 #line 6 "raw_ptr_fields_macro.cpp"
 #define USR_INT int

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Plugin configuration parsing for container checks
+// summary: Defines and merges YAML-based plugin configuration for enforcing raw_ptr in container template arguments.
+// ---
+
 #ifndef TOOLS_CLANG_RAW_PTR_PLUGIN_PLUGINCONFIG_H_
 #define TOOLS_CLANG_RAW_PTR_PLUGIN_PLUGINCONFIG_H_
 

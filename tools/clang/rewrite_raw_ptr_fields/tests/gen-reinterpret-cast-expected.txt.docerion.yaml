@@ -1,0 +1,4 @@
+# Docerion header of gen-reinterpret-cast-expected.txt.
+type: test
+title: Expected rewriter output for reinterpret_cast cases
+summary: Expected edits and field filter entries for the gen-reinterpret-cast test, marking fields of trivially reinterpretable classes for exclusion.

@@ -1,0 +1,4 @@
+# Docerion header of rewrite.sh.
+type: script
+title: Single-Platform Rewrite Runner Script
+summary: Builds and tests the rewriter, runs it on a single build directory, applies the extracted edits, formats sources, and restores llvm-build.

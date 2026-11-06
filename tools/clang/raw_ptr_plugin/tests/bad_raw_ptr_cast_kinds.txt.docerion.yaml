@@ -1,0 +1,4 @@
+# Docerion header of bad_raw_ptr_cast_kinds.txt.
+type: test
+title: Expected compiler and plugin diagnostics for bad_raw_ptr_cast_kinds
+summary: Expected compiler and plugin diagnostics for the bad_raw_ptr_cast_kinds test, covering allowed and forbidden cast kinds.

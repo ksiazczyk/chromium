@@ -8,6 +8,12 @@
 // subclasses.
 // In particular, this is used to split the `autofill::PersonalDataManager`.
 
+// ---docerion
+// type: source
+// title: Clang tool to forward calls when splitting PersonalDataManager
+// summary: Clang AST-matching tool that rewrites member calls to forward through another member function, used to split autofill::PersonalDataManager into subclasses.
+// ---
+
 #include <cassert>
 #include <memory>
 #include <string>

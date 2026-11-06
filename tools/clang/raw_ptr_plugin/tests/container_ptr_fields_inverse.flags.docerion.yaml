@@ -1,0 +1,4 @@
+# Docerion header of container_ptr_fields_inverse.flags.
+type: test
+title: Container ptr fields inverse test plugin flags
+summary: Clang plugin flags for the inverse test, passing its container_ptr_fields_inverse.yaml config to the plugin.

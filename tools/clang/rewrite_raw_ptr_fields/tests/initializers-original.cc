@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Initializers test - original input
+// summary: Original source with initialized pointer, reference, and span fields used as input for the rewriter test.
+// ---
+
 #include "base/containers/span.h"
 
 class SomeClass;

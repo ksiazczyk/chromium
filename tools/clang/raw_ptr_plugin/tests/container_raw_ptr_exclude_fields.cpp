@@ -1,6 +1,13 @@
 // Copyright 2026 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Container raw pointer fields test with field exclusions
+// summary: Declares list and tuple fields holding raw pointers to verify which fields are flagged and which are excluded.
+// ---
+
 #include <list>
 #include <tuple>
 

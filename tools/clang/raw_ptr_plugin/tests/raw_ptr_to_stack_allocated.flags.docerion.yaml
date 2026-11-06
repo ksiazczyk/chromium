@@ -1,0 +1,4 @@
+# Docerion header of raw_ptr_to_stack_allocated.flags.
+type: test
+title: Flags for the raw_ptr-to-stack-allocated test
+summary: Compiler flags enabling the check-raw-ptr-to-stack-allocated option when running the raw_ptr plugin on the matching test source.

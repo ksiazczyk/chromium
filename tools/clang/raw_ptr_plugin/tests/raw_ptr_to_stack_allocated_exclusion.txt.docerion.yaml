@@ -1,0 +1,4 @@
+# Docerion header of raw_ptr_to_stack_allocated_exclusion.txt.
+type: test
+title: Empty expected output for the exclusion test
+summary: Empty expected diagnostics file confirming that no errors are reported for the third-party exclusion test source.

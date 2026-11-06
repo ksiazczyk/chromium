@@ -1,0 +1,4 @@
+# Docerion header of span_fields_basic.flags.
+type: test
+title: Span fields basic test flags
+summary: Clang plugin arguments that enable span field checking with an error limit of 30 for the span_fields_basic test.

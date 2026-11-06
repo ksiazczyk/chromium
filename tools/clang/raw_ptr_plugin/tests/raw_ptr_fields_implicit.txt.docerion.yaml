@@ -1,0 +1,4 @@
+# Docerion header of raw_ptr_fields_implicit.txt.
+type: test
+title: Expected diagnostics for the implicit fields test
+summary: Expected plugin output with warnings and chromium-rawptr and chromium-rawref errors for the implicit instantiation test.

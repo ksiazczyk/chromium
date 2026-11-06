@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input with cv-qualified pointer fields for the rewriter test
+// summary: Source input containing cv-qualified pointer and span fields that the rewriter should convert to raw_ptr and raw_span.
+// ---
+
 #include "base/containers/span.h"
 
 class SomeClass;

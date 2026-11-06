@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Container ptr fields inverse test source
+// summary: Test source verifying that an empty included_types list checks all containers except those explicitly excluded.
+// ---
+
 template <typename T>
 struct MyArbitraryContainer {};
 

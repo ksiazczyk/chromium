@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bad raw_ptr cast test header
+// summary: Test header that triggers the plugin error for casting void* to raw_ptr<int>* inside a header file.
+// ---
+
 #ifndef BAD_RAW_PTR_MAIN_H_
 #define BAD_RAW_PTR_MAIN_H_
 

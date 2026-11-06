@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RawPtrManualPathsToIgnore declaration
+// summary: Declares AddManualPathsToIgnore, which appends manually excluded path patterns to the raw_ptr rewriter's ignore list.
+// ---
+
 #ifndef TOOLS_CLANG_RAW_PTR_PLUGIN_RAWPTRMANUALPATHSTOIGNORE_H_
 #define TOOLS_CLANG_RAW_PTR_PLUGIN_RAWPTRMANUALPATHSTOIGNORE_H_
 

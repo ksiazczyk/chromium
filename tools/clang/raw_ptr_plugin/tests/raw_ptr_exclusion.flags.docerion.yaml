@@ -1,0 +1,4 @@
+# Docerion header of raw_ptr_exclusion.flags.
+type: test
+title: raw_ptr_exclusion plugin flags
+summary: Plugin flags enabling raw pointer, raw reference, and span field checks for the test.

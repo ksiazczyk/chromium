@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Expected output for constructor initializer rewrite tests
+// summary: Expected result of the rewrite tool for constructor initializer lists, showing std::vector<S*> members and arguments converted to std::vector<raw_ptr<S>>.
+// ---
+
 #include <vector>
 
 #include "base/memory/raw_ptr.h"

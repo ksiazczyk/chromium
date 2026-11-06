@@ -1,0 +1,4 @@
+# Docerion header of raw_ptr_fields_objc.flags.
+type: test
+title: Flags for the Objective-C raw pointer fields test
+summary: Compiler and plugin flags, including an arm64 macOS target and Objective-C settings, for the Objective-C fields test.

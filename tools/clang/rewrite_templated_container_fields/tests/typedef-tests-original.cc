@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Typedef rewrite tests, original input
+// summary: Input using std::vector<S*> typedefs to verify typedef-aware rewriting of fields, constructors and loops.
+// ---
+
 #include <vector>
 
 struct S {};

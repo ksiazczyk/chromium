@@ -1,0 +1,4 @@
+# Docerion header of list.
+type: test
+title: Faux std::list system header test fixture
+summary: Faux std::list header used as a system-header fixture for raw_ptr plugin tests, declaring a minimal container template.

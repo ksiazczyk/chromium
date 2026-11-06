@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Variable declaration rewrite tests, original input
+// summary: Input with std::vector<S*> variable declarations used to verify vardecl rewriting including iterators, lambdas and ternaries.
+// ---
+
 #include <vector>
 
 struct S {};

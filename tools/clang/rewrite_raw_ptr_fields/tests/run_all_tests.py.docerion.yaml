@@ -1,0 +1,4 @@
+# Docerion header of run_all_tests.py.
+type: test
+title: Test runner for rewrite_raw_ptr_fields rewriting and generating tests
+summary: Python script that runs the rewriting tests and the gen-* generating tests via tools/clang/scripts/test_tool.py.

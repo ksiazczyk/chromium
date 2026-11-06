@@ -1,0 +1,4 @@
+# Docerion header of bad_raw_ptr_cast_recursive.flags.
+type: test
+title: Compiler flags for the bad_raw_ptr_cast_recursive plugin test
+summary: Clang invocation flags enabling the raw_ptr plugin's check-bad-raw-ptr-cast check for the bad_raw_ptr_cast_recursive test case.

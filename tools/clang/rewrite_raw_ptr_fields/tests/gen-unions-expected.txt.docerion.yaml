@@ -1,0 +1,4 @@
+# Docerion header of gen-unions-expected.txt.
+type: test
+title: Expected rewriter output for union fields
+summary: Expected edits and field filter entries for the gen-unions test, listing pointer fields inside unions that should be ignored during rewriting.

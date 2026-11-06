@@ -1,0 +1,4 @@
+# Docerion header of manual-fields-to-ignore.txt.
+type: data
+title: Manual fields-to-ignore list for the raw_ptr rewrite
+summary: Lists fully qualified fields that the rewrite tool must skip, with comments explaining the compile-time or runtime reasons for each exclusion.

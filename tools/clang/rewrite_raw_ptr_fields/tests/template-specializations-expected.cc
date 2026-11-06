@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Expected output for template specialization rewriting
+// summary: Expected rewriter output showing that implicit template specializations are skipped while explicit ones are rewritten.
+// ---
+
 // Test for template specializations.
 //
 // In template specializations template parameters (e.g. |T| or |T2| in

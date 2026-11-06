@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Container pointer field config delta test
+// summary: Test source verifying container check config overrides, with std::vector and a custom container included and std::list excluded via YAML.
+// ---
+
 #include <list>
 #include <vector>
 

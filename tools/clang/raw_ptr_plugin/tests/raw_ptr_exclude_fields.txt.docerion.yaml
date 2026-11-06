@@ -1,0 +1,4 @@
+# Docerion header of raw_ptr_exclude_fields.txt.
+type: test
+title: raw_ptr_exclude_fields expected errors
+summary: Expected diagnostics for the raw_ptr_exclude_fields case, flagging raw pointer and raw reference fields.

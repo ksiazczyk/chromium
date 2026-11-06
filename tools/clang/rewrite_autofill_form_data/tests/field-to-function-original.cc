@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Field-to-function original input fixture
+// summary: Input fixture for the field-to-function rewrite test, containing direct FormFieldData value accesses that the clang tool should rewrite into accessor calls.
+// ---
+
 #include <string>
 #include <vector>
 

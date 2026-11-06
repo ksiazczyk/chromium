@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Exclusion annotation test input
+// summary: Original test input with RAW_PTR_EXCLUSION annotated pointer, reference and span fields used to verify the rewriter skips them.
+// ---
+
 #include "base/containers/span.h"
 
 #define RAW_PTR_EXCLUSION __attribute__((annotate("raw_ptr_exclusion")))

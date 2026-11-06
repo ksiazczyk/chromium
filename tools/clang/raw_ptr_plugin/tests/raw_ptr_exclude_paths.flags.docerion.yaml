@@ -1,0 +1,4 @@
+# Docerion header of raw_ptr_exclude_paths.flags.
+type: test
+title: raw_ptr_exclude_paths plugin flags
+summary: Clang plugin flags enabling raw pointer and reference field checks plus exclude paths for the test.

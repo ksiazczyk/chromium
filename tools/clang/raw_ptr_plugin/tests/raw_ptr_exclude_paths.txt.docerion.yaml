@@ -1,0 +1,4 @@
+# Docerion header of raw_ptr_exclude_paths.txt.
+type: test
+title: raw_ptr_exclude_paths expected output
+summary: Empty expected output, confirming the raw_ptr_exclude_paths test produces no diagnostics.

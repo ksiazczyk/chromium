@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Input for constructor initializer rewrite tests
+// summary: Original C++ input with std::vector<S*> members and initializer lists used to verify constructor initializer rewrites against the expected output.
+// ---
+
 #include <vector>
 
 struct S {};

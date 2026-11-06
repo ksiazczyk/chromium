@@ -1,0 +1,4 @@
+# Docerion header of extract_edits.py.
+type: script
+title: Edit Extraction Script for the Templated Container Rewriter
+summary: Parses concatenated rewriter output, builds a node graph, propagates RAW_PTR_EXCLUSION exclusions, and emits the final replacement and include edits.

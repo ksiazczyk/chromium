@@ -1,0 +1,4 @@
+# Docerion header of raw_ptr_fields_various_types.flags.
+type: test
+title: Compiler flags for the raw_ptr_fields_various_types test
+summary: Supplies the clang plugin flags that enable raw pointer, raw reference, and non-string-literal pointer field checks for the matching test.

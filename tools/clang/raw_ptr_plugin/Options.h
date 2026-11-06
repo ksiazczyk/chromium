@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Options struct for the raw_ptr plugin
+// summary: Defines the Options struct with feature flags and exclusion settings that control which checks the plugin runs.
+// ---
+
 #ifndef TOOLS_CLANG_RAW_PTR_PLUGIN_OPTIONS_H_
 #define TOOLS_CLANG_RAW_PTR_PLUGIN_OPTIONS_H_
 

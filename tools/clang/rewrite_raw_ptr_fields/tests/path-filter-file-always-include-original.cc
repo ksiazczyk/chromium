@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Path filter always-include test - original input
+// summary: Original source for the force-included path filter test, with fields expected to be rewritten despite path filtering.
+// ---
+
 #include "base/containers/span.h"
 
 class SomeClass;

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CMake build file for rewrite_raw_ptr_fields
+# summary: Defines the CMake build for the rewrite_raw_ptr_fields clang tool, linking raw_ptr plugin sources and clang libraries.
+# ---
+
 set(LLVM_LINK_COMPONENTS
   BitReader
   MCParser

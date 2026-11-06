@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Forward-calls expected output test fixture
+// summary: Expected output fixture for the clang rewriter test, showing bar() calls on Foo rewritten to baz().bar() chains across values, pointers, references, indirection, and derived classes.
+// ---
+
 #include "some/file.h"
 
 class Foo {

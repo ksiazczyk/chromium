@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test input for reinterpret_cast target type handling
+// summary: Test input verifying that fields of trivial classes used as reinterpret_cast targets are excluded, while non-trivial classes are still rewritten.
+// ---
+
 #include <type_traits>
 
 // This file (and other gen-*-test.cc files) tests generation of output for

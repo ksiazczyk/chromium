@@ -1,0 +1,4 @@
+# Docerion header of container_ptr_fields_inverse.txt.
+type: test
+title: Container ptr fields inverse expected diagnostics
+summary: Expected compiler error for the inverse test on the MyArbitraryContainer<int*> member.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stack-allocated exclusion test for raw pointer fields
+// summary: Verifies that pointer fields in stack-allocated types, including via inheritance, are allowed by the plugin.
+// ---
+
 // fields should be checked
 struct FooStruct {
   using IsStackAllocatedTypeMarker [[maybe_unused]] = int;

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CMake build for rewrite_autofill_form_data tool
+# summary: CMake build file that compiles the rewrite_autofill_form_data clang tool and links it against LLVM and clang libraries.
+# ---
+
 set(LLVM_LINK_COMPONENTS
   BitReader
   MCParser

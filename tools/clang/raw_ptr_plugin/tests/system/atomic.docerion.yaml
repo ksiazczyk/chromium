@@ -1,0 +1,4 @@
+# Docerion header of atomic.
+type: test
+title: Faux std::atomic system header test fixture
+summary: Faux std::atomic header used as a system-header fixture for raw_ptr plugin tests, modeling the standard's copy and move restrictions.

@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Various tests original input
+// summary: Original input for the various tests covering std::vector container fields and usages that the rewrite tool should convert to raw_ptr.
+// ---
+
 #include <algorithm>
 #include <map>
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Container raw_ptr exclusion test cases
+// summary: Test input verifying that RAW_PTR_EXCLUSION annotations on fields and typedefs suppress container raw-pointer errors while unannotated cases still fail.
+// ---
+
 #include <vector>
 
 #include "base/memory/raw_ptr_exclusion.h"

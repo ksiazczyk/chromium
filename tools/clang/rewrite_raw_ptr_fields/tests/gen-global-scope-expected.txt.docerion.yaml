@@ -1,0 +1,4 @@
+# Docerion header of gen-global-scope-expected.txt.
+type: test
+title: Global scope test expected rewriter output
+summary: Expected edits and field filters for the global scope test, covering fields ignored because of global and static variables.

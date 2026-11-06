@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: raw_ptr_exclude_paths test input
+// summary: Test source checking that raw-ptr-exclude-path arguments suppress field checks for matching paths.
+// ---
+
 class SomeClass {};
 
 class MyClass {

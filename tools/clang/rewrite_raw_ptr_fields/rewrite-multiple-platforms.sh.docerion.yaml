@@ -1,0 +1,4 @@
+# Docerion header of rewrite-multiple-platforms.sh.
+type: script
+title: Run the raw_ptr rewrite across multiple platforms
+summary: Builds and runs the raw_ptr field rewriter across linux, fuchsia, android, chromeos, win and mac builds, generating ignore lists and applying edits per platform.

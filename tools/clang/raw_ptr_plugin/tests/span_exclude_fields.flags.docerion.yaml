@@ -1,0 +1,4 @@
+# Docerion header of span_exclude_fields.flags.
+type: test
+title: Span exclude fields test flags
+summary: Clang plugin arguments that enable span field checking with the exclude-fields option pointing at the exclusion list.

@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Span fields basic test source
+// summary: C++ test case covering class members using base::span that should be flagged in favor of base::raw_span, including container and optional template arguments.
+// ---
+
 #include <cstdint>
 #include <map>
 #include <optional>

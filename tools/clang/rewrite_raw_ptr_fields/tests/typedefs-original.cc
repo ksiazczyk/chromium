@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Input with typedefs and type aliases for the rewriter test
+// summary: Source input with typedef-ed and aliased pointer and reference fields used to check how the rewriter handles type aliases.
+// ---
+
 #include <optional>
 
 #include "base/containers/span.h"

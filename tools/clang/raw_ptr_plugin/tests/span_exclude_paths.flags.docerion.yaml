@@ -1,0 +1,4 @@
+# Docerion header of span_exclude_paths.flags.
+type: test
+title: Span exclude paths test flags
+summary: Clang plugin arguments that enable span field checking with the raw-ptr-exclude-path option for the test.

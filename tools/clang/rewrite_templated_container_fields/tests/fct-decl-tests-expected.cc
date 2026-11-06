@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Expected output for function declaration rewrite tests
+// summary: Expected result of the rewrite tool for function declarations, parameters and virtual overrides, using std::vector<raw_ptr<S>> types.
+// ---
+
 #include <vector>
 
 #include "base/memory/raw_ptr.h"

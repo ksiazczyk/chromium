@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input with template specializations for the rewriter test
+// summary: Source input with implicit, partial and full explicit template specializations used to verify rewriter behavior.
+// ---
+
 // Test for template specializations.
 //
 // In template specializations template parameters (e.g. |T| or |T2| in

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test for bad raw_ptr casts in the main translation unit
+// summary: Plugin test source checking that bad raw_ptr casts in the main source file, including inside lambdas, are flagged.
+// ---
+
 #include "bad_raw_ptr_main.h"
 
 #include "bad_raw_ptr_unrelated.h"

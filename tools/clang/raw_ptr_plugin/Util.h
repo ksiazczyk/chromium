@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: raw_ptr_plugin utility helpers
+// summary: Utility helpers for the Chromium raw_ptr Clang plugin that determine namespaces, filenames, representative source locations, and whether nodes are in third-party code.
+// ---
+
 #ifndef TOOLS_CLANG_RAW_PTR_PLUGIN_UTIL_H_
 #define TOOLS_CLANG_RAW_PTR_PLUGIN_UTIL_H_
 

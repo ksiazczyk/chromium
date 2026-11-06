@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Attributes test - expected output
+// summary: Expected result showing GUARDED_BY-annotated pointer, reference, and span fields rewritten to raw_ptr, raw_ref, and raw_span types.
+// ---
+
 #include <vector>
 
 #include "base/containers/span.h"

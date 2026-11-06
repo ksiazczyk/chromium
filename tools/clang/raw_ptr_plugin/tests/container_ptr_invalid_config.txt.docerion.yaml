@@ -1,0 +1,4 @@
+# Docerion header of container_ptr_invalid_config.txt.
+type: test
+title: Expected errors for container_ptr_invalid_config test
+summary: Expected compiler output showing the plugin config error for conflicting included and excluded types.

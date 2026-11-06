@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Exclusion annotation expected rewrite output
+// summary: Expected rewriter output showing that RAW_PTR_EXCLUSION annotated fields are skipped while other fields become raw_ptr, raw_ref and raw_span.
+// ---
+
 #include "base/containers/span.h"
 #include "base/memory/raw_ptr.h"
 #include "base/memory/raw_ref.h"

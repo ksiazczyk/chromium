@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Initializers test - expected rewriter output
+// summary: Expected rewritten output showing pointer, reference, and span fields with initializers converted to raw_ptr, raw_ref, and raw_span.
+// ---
+
 #include "base/containers/span.h"
 #include "base/memory/raw_ptr.h"
 #include "base/memory/raw_ref.h"

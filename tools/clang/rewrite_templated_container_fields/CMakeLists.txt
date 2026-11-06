@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CMake Build Definition for rewrite_templated_container_fields
+# summary: Defines the CMake build for the rewrite_templated_container_fields clang tool, linking clang libraries and shared raw_ptr_plugin sources.
+# ---
+
 set(LLVM_LINK_COMPONENTS
   BitReader
   MCParser

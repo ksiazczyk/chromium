@@ -1,0 +1,4 @@
+# Docerion header of gen-ptr-arithmetic-expected.txt.
+type: test
+title: Expected rewriter output for pointer arithmetic fields
+summary: Expected edits and field filter entries for the gen-ptr-arithmetic test, marking fields used in pointer arithmetic for exclusion from rewriting.

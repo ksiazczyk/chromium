@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: raw_ptr Clang plugin entry point
+// summary: Implements the RawPtrPlugin action, parsing command-line options and running the raw pointer, span field and bad cast checks on translation units.
+// ---
+
 #include "RawPtrPlugin.h"
 
 #include <algorithm>

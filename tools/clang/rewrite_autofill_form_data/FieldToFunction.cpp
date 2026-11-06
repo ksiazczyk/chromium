@@ -11,6 +11,12 @@
 // In particular, this rewriter is used to convert the structs
 // `autofill::FormData` and `autofill::FormFieldData` to classes.
 
+// ---docerion
+// type: source
+// title: Clang tool rewriting data member accesses into getters and setters
+// summary: Clang tool that rewrites accesses to data members into getter and setter calls, used to convert autofill::FormData and FormFieldData structs to classes.
+// ---
+
 #include <cassert>
 #include <iostream>
 #include <memory>

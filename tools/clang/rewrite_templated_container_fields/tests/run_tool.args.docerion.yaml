@@ -1,0 +1,4 @@
+# Docerion header of run_tool.args.
+type: test
+title: Tool arguments for the test run
+summary: Arguments file passed to the test tool, overriding exclude paths with the paths-to-ignore.txt filter.

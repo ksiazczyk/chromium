@@ -1,0 +1,4 @@
+# Docerion header of container_raw_ptr_exclude_fields.txt.
+type: test
+title: Expected errors for container_raw_ptr_exclude_fields test
+summary: Expected compiler errors for container fields that should be flagged despite the field exclusions.

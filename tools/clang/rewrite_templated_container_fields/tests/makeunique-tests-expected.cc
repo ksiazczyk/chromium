@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Expected output for make_unique rewrite tests
+// summary: Expected result of the rewrite tool for std::make_unique calls, showing vector arguments, members and temporaries converted to std::vector<raw_ptr<S>>.
+// ---
+
 #include <memory>
 #include <vector>
 

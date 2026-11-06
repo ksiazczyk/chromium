@@ -1,3 +1,13 @@
+---
+type: readme
+title: Clang Templated Container Rewriter Tool
+summary: Explains how to build, test, and run the clang tool that rewrites containers of raw pointer fields, such as std::vector<T*>, into raw_ptr<T> fields.
+relations:
+  - references /tools/clang/scripts/build.py
+  - references /tools/clang/rewrite_templated_container_fields/tests/run_all_tests.py
+  - documents /tools/clang/rewrite_templated_container_fields/rewrite-multiple-platforms.sh
+---
+
 # Clang Templated Container Rewriter Tool
 
 This tool generates cross-translation unit rewrites converting containers of pointer fields CTN<T*> to CTN<raw_ptr<T>> fields.

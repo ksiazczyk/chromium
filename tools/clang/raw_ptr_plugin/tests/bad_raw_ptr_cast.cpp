@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bad raw_ptr cast plugin test
+// summary: Test input for the raw_ptr Clang plugin verifying that casting raw_ptr-wrapped types to or from void pointers via static, reinterpret, C-style, bit, and implicit casts emits errors.
+// ---
+
 #include "base/memory/raw_ptr.h"
 
 struct RawPtrWrapper {

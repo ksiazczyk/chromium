@@ -12,6 +12,12 @@
 //
 // To run the test use tools/clang/rewrite_raw_ptr_fields/tests/run_all_tests.py
 
+// ---docerion
+// type: test
+// title: Test input with macro-declared pointer and reference fields
+// summary: Test input for the raw_ptr field rewriter checking that fields declared via macros, including anonymous struct members, are emitted as field filter candidates.
+// ---
+
 //////////////////////////////////////////////////////////////////////////////
 // Based on build/linux/debian_bullseye_amd64-sysroot/usr/include/link.h
 //

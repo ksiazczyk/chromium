@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the rewrite_autofill_form_data tool
+summary: Lists schwering@google.com as the owner responsible for this directory.

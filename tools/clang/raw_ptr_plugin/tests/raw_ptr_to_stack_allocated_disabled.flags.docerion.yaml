@@ -1,0 +1,4 @@
+# Docerion header of raw_ptr_to_stack_allocated_disabled.flags.
+type: test
+title: Flags disabling the stack-allocated check error
+summary: Compiler flags that enable the check but pass disable-check-raw-ptr-to-stack-allocated-error for the disabled variant of the test.

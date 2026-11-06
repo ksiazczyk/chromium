@@ -1,0 +1,4 @@
+# Docerion header of raw_ptr_exclude_stack_allocated.flags.
+type: test
+title: raw_ptr_exclude_stack_allocated plugin flags
+summary: Plugin flags enabling raw pointer, raw reference, and stack-allocated checks for the test.

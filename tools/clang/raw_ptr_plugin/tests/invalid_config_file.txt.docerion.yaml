@@ -1,0 +1,4 @@
+# Docerion header of invalid_config_file.txt.
+type: test
+title: Expected errors for the invalid config file test
+summary: Expected diagnostics showing the YAML mapping error that makes the plugin disable the container check.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unrelated header bad raw_ptr cast test
+// summary: Test header with a forbidden raw_ptr cast in an unrelated header, with a TODO about skipping such files in the future.
+// ---
+
 #ifndef BAD_RAW_PTR_UNRELATED_H_
 #define BAD_RAW_PTR_UNRELATED_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of container_raw_ptr_exclude_paths.flags.
+type: test
+title: Plugin flags for container_raw_ptr_exclude_paths test
+summary: Compiler flags applying the raw-ptr-exclude-path argument and the plugin config for this test case.

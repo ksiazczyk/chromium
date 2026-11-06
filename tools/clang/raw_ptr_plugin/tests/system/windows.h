@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock windows.h system header with COM macros
+// summary: Mock windows.h header defining COM-related and virtual-method macros as a system-header fixture for raw_ptr plugin tests.
+// ---
+
 #ifndef TOOLS_CLANG_RAW_PTR_PLUGIN_TESTS_SYSTEM_WINDOWS_H_
 #define TOOLS_CLANG_RAW_PTR_PLUGIN_TESTS_SYSTEM_WINDOWS_H_
 

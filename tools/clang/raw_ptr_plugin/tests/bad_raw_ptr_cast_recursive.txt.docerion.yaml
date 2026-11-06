@@ -1,0 +1,4 @@
+# Docerion header of bad_raw_ptr_cast_recursive.txt.
+type: test
+title: Expected plugin diagnostics for bad_raw_ptr_cast_recursive
+summary: Expected plugin diagnostics listing which structs in the recursive test are casting-unsafe because of raw_ptr fields.

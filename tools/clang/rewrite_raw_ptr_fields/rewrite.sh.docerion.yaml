@@ -1,0 +1,4 @@
+# Docerion header of rewrite.sh.
+type: script
+title: Run the raw_ptr rewrite on a single platform
+summary: Builds the rewriter, generates a combined fields-to-ignore list, runs the main rewrite pass, then applies and formats the resulting edits.

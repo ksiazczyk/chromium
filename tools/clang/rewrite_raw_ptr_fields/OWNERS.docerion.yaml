@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for rewrite_raw_ptr_fields
+summary: Points the rewrite_raw_ptr_fields tool directory's ownership at base/memory/MIRACLE_PTR_OWNERS.

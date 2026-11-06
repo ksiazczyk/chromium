@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the rewrite tool directory
+summary: Lists fleimgruber@google.com as the code owner of this directory.

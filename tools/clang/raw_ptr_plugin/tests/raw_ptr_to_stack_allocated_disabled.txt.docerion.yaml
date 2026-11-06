@@ -1,0 +1,4 @@
+# Docerion header of raw_ptr_to_stack_allocated_disabled.txt.
+type: test
+title: Empty expected output for the disabled-check test
+summary: Empty expected diagnostics file confirming that no errors are reported when the stack-allocated check's error reporting is disabled.

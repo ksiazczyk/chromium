@@ -1,0 +1,4 @@
+# Docerion header of bad_raw_ptr_cast_exclusion.flags.
+type: test
+title: Bad raw_ptr cast exclusion test flags
+summary: Plugin flags enabling the bad-raw-ptr-cast check when running the cast exclusion test.
