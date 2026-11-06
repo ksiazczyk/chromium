@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo decryptor header
+// summary: Declares MojoDecryptor, a single-threaded Decryptor implementation based on a remote mojom::Decryptor with buffer writer and reader helpers.
+// ---
+
 #ifndef MEDIA_MOJO_CLIENTS_MOJO_DECRYPTOR_H_
 #define MEDIA_MOJO_CLIENTS_MOJO_DECRYPTOR_H_
 

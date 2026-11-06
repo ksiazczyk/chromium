@@ -1,0 +1,4 @@
+# Docerion header of provision_fetcher.mojom.
+type: source
+title: ProvisionFetcher Mojo interface
+summary: Defines a Mojo interface to retrieve CDM provisioning information, corresponding to the Android MediaDrm provisioning request flow.

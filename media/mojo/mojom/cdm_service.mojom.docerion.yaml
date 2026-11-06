@@ -1,0 +1,4 @@
+# Docerion header of cdm_service.mojom.
+type: source
+title: CDM service Mojo interface
+summary: Defines the CdmService and CdmServiceBroker Mojo interfaces for creating CDM factories in the CDM utility process, including sandbox and preloading behavior.

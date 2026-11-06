@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MidiManagerAndroid
+// summary: Java implementation of midi::MidiManagerAndroid that initializes the Android MidiManager, tracks MIDI devices, and reports device changes and failures to native code.
+// ---
+
 package org.chromium.midi;
 
 import android.content.Context;

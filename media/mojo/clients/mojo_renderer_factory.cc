@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoRendererFactory implementation
+// summary: Implements the default factory that creates MojoRenderer instances bridging the media pipeline to remote renderers, with Windows Media Foundation, Cast, and Android flinging variants.
+// ---
+
 #include "media/mojo/clients/mojo_renderer_factory.h"
 
 #include <utility>

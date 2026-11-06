@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskService header for MIDI task runner management
+// summary: Declares the MIDI TaskService class that manages task runners and ensures thread safety through instance binding and bound task posting.
+// ---
+
 #ifndef MEDIA_MIDI_TASK_SERVICE_H_
 #define MEDIA_MIDI_TASK_SERVICE_H_
 

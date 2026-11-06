@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Mojo type converter implementations
+// summary: Implements mojo TypeConverter specializations between media DecryptConfig, DecoderBuffer and AudioBuffer types and their Mojo counterparts.
+// ---
+
 #include "media/mojo/common/media_type_converters.h"
 
 #include <memory>

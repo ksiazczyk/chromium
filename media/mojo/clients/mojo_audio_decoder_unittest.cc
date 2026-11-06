@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MojoAudioDecoder unit tests
+// summary: Tests the MojoAudioDecoder client together with MojoAudioDecoderService running on a separate thread, using a fake mojo media client and gmock callbacks.
+// ---
+
 #include "media/mojo/clients/mojo_audio_decoder.h"
 
 #include <memory>

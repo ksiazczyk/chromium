@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoMediaLogService implementation
+// summary: Implements the mojom::MediaLog service by forwarding media log records received over Mojo to a wrapped media::MediaLog instance.
+// ---
+
 #include "media/mojo/clients/mojo_media_log_service.h"
 
 #include "base/logging.h"

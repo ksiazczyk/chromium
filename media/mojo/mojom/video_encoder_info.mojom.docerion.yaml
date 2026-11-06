@@ -1,0 +1,4 @@
+# Docerion header of video_encoder_info.mojom.
+type: source
+title: VideoEncoderInfo Mojo structs
+summary: Defines Mojo structs for VideoEncoderInfo and ResolutionRateLimit that mirror WebRTC video encoder capability metadata such as bitrate limits and supported pixel formats.

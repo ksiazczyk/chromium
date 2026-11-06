@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation renderer client header
+// summary: Declares the MediaFoundationRendererClient class, a Renderer and RendererClient that talks to the Media Foundation renderer via Mojo and manages DCOMP texture compositing for video output.
+// ---
+
 #ifndef MEDIA_MOJO_CLIENTS_WIN_MEDIA_FOUNDATION_RENDERER_CLIENT_H_
 #define MEDIA_MOJO_CLIENTS_WIN_MEDIA_FOUNDATION_RENDERER_CLIENT_H_
 

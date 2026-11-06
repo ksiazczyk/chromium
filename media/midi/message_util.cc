@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MIDI message length and validation utilities
+// summary: Implements helpers that compute MIDI message lengths, classify bytes, and validate data sequences against the Web MIDI send() requirements.
+// ---
+
 #include "media/midi/message_util.h"
 
 #include "base/metrics/histogram_macros.h"

@@ -1,0 +1,4 @@
+# Docerion header of media_drm_storage.mojom.
+type: source
+title: Media DRM storage Mojo interface
+summary: Defines the MediaDrmStorage Mojo interface used by MediaDrmBridge to store and retrieve persistent DRM data such as origin IDs and license sessions.

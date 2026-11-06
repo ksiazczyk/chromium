@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pipe read-write error helper declaration
+// summary: Declares IsPipeReadWriteError, a helper that decides whether a mojo result indicates a data pipe read or write error.
+// ---
+
 #ifndef MEDIA_MOJO_COMMON_MOJO_PIPE_READ_WRITE_UTIL_H_
 #define MEDIA_MOJO_COMMON_MOJO_PIPE_READ_WRITE_UTIL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of audio_data.mojom.
+type: source
+title: AudioDataS16 mojom struct
+summary: Defines a mojo transport struct for an interleaved signed 16-bit audio buffer with channel count, sample rate, frame count and data array.

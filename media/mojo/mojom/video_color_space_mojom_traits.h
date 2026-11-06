@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoColorSpace Mojo traits header
+// summary: Declares StructTraits converting media::VideoColorSpace between its native type and Mojo representation, covering primaries, transfer, matrix and range.
+// ---
+
 #ifndef MEDIA_MOJO_MOJOM_VIDEO_COLOR_SPACE_MOJOM_TRAITS_H_
 #define MEDIA_MOJO_MOJOM_VIDEO_COLOR_SPACE_MOJOM_TRAITS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key system capability Mojo traits implementation
+// summary: Implements deserialization of Mojo KeySystemCapability, enforcing that each secure capability is paired with a query status.
+// ---
+
 #include "media/mojo/mojom/key_system_capability_mojom_traits.h"
 
 #include "media/base/cdm_capability.h"

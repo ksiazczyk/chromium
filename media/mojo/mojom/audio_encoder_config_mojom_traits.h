@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio encoder config mojom traits declarations
+// summary: Declares mojo EnumTraits and StructTraits for mapping AudioEncoderConfig and AAC encoder options to their mojom wire types.
+// ---
+
 #ifndef MEDIA_MOJO_MOJOM_AUDIO_ENCODER_CONFIG_MOJOM_TRAITS_H_
 #define MEDIA_MOJO_MOJOM_AUDIO_ENCODER_CONFIG_MOJOM_TRAITS_H_
 

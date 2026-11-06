@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Auto picture-in-picture info traits unit tests
+// summary: Tests serialization of AutoPipInfo for fully populated and default values via Mojo serialize-and-deserialize helpers.
+// ---
+
 #include "media/mojo/mojom/picture_in_picture_events_info_mojom_traits.h"
 
 #include "media/base/picture_in_picture_events_info.h"

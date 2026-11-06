@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoAudioEncoder class declaration
+// summary: Declares the media::AudioEncoder client that forwards encoding work to a remote mojom::AudioEncoder and manages pending callbacks and connection errors.
+// ---
+
 #ifndef MEDIA_MOJO_CLIENTS_MOJO_AUDIO_ENCODER_H_
 #define MEDIA_MOJO_CLIENTS_MOJO_AUDIO_ENCODER_H_
 

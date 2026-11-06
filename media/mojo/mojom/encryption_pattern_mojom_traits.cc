@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Encryption pattern Mojo traits implementation
+// summary: Implements deserialization of the Mojo EncryptionPattern into media::EncryptionPattern, rejecting invalid patterns.
+// ---
+
 #include "media/mojo/mojom/encryption_pattern_mojom_traits.h"
 
 namespace mojo {

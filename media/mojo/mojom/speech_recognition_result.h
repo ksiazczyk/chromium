@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speech recognition result header
+// summary: Declares HypothesisParts, MediaTimestampRange, TimingInformation and SpeechRecognitionResult structs describing transcripts and their timing metadata.
+// ---
+
 #ifndef MEDIA_MOJO_MOJOM_SPEECH_RECOGNITION_RESULT_H_
 #define MEDIA_MOJO_MOJOM_SPEECH_RECOGNITION_RESULT_H_
 

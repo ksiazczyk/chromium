@@ -1,0 +1,4 @@
+# Docerion header of renderer_extensions.mojom.
+type: source
+title: Renderer extension Mojo interfaces
+summary: Defines renderer client extensions for Cast flinging playback state changes and Windows Media Foundation rendering, including DCOMP surface handling.

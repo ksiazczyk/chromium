@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SupportedVideoDecoderConfig Mojo traits implementation
+// summary: Implements deserialization of media::SupportedVideoDecoderConfig from its Mojo representation, validating profile and coded size ranges plus encryption flags.
+// ---
+
 #include "media/mojo/mojom/supported_video_decoder_config_mojom_traits.h"
 
 namespace mojo {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation CDM data Mojo traits header
+// summary: Declares Mojo StructTraits mapping MediaFoundationCdmData between its Mojo wire representation and native C++ type.
+// ---
+
 #ifndef MEDIA_MOJO_MOJOM_MEDIA_FOUNDATION_CDM_DATA_MOJOM_TRAITS_H_
 #define MEDIA_MOJO_MOJOM_MEDIA_FOUNDATION_CDM_DATA_MOJOM_TRAITS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MidiManagerMac class header
+// summary: Declares MidiManagerMac, the CoreMIDI-based MidiManager implementation for macOS with notification and event callbacks plus port tracking.
+// ---
+
 #ifndef MEDIA_MIDI_MIDI_MANAGER_MAC_H_
 #define MEDIA_MIDI_MIDI_MANAGER_MAC_H_
 

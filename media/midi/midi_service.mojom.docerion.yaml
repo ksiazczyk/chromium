@@ -1,0 +1,4 @@
+# Docerion header of midi_service.mojom.
+type: reference
+title: MIDI Mojo IPC interface definitions
+summary: Defines Mojo structs and interfaces for browser-renderer MIDI sessions, port information, port state, and data transfer.

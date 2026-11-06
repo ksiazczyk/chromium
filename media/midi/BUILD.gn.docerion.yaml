@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the media/midi MIDI component
+summary: Defines GN build targets, sources, and platform-specific dependencies for the Chromium MIDI implementation, including Android JNI generation and Apple, Windows, and ALSA backends.

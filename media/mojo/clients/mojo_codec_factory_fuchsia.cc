@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia Mojo codec factory implementation
+// summary: Implements the Fuchsia-specific Mojo codec factory that creates Fuchsia video decoders and obtains supported decoder configs via media::mojom::FuchsiaMediaCodecProvider.
+// ---
+
 #include "media/mojo/clients/mojo_codec_factory_fuchsia.h"
 
 #include "base/functional/bind.h"

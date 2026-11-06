@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo decoder buffer validation declarations
+// summary: Declares functions that validate and convert mojom decrypt configs, decoder buffer side data, and decoder buffers into media types.
+// ---
+
 #ifndef MEDIA_MOJO_COMMON_VALIDATION_UTILS_H_
 #define MEDIA_MOJO_COMMON_VALIDATION_UTILS_H_
 

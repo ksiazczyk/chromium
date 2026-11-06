@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoDemuxerStreamImpl header
+// summary: Declares MojoDemuxerStreamImpl, which wraps a media DemuxerStream and exposes it over Mojo as a mojom::DemuxerStream proxy for remote applications, including track change handling.
+// ---
+
 #ifndef MEDIA_MOJO_CLIENTS_MOJO_DEMUXER_STREAM_IMPL_H_
 #define MEDIA_MOJO_CLIENTS_MOJO_DEMUXER_STREAM_IMPL_H_
 

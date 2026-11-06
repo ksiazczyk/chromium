@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MIDI message queue unit tests
+// summary: gtest suite verifying message splitting, running status handling, and rejection of broken, partial, or reserved MIDI data.
+// ---
+
 #include "media/midi/midi_message_queue.h"
 
 #include <stddef.h>

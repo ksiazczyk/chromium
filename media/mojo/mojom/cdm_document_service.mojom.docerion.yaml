@@ -1,0 +1,4 @@
+# Docerion header of cdm_document_service.mojom.
+type: source
+title: CDM document service Mojo interface
+summary: Defines the CdmDocumentService Mojo interface exposing platform verification, storage ID, Media Foundation CDM data and CDM event reporting from the browser.

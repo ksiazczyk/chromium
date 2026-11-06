@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoVideoEncodeAccelerator implementation
+// summary: Implements a renderer-side host that bridges VideoEncodeAccelerator calls to a remote mojom::VideoEncodeAccelerator and trampolines client callbacks back locally.
+// ---
+
 #include "media/mojo/clients/mojo_video_encode_accelerator.h"
 
 #include <utility>

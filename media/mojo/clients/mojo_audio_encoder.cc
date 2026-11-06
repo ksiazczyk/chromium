@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoAudioEncoder implementation
+// summary: Implements the client-side audio encoder that proxies initialize, encode and flush calls to a remote mojom::AudioEncoder, with platform support checks for AAC.
+// ---
+
 #include "media/mojo/clients/mojo_audio_encoder.h"
 
 #include "base/functional/bind.h"

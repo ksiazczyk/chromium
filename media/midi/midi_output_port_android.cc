@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android MIDI output port implementation
+// summary: Implements open, close, and send operations for an Android MIDI output port through JNI calls.
+// ---
+
 #include "media/midi/midi_output_port_android.h"
 
 #include "base/android/jni_array.h"

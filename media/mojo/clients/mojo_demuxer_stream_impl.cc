@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo demuxer stream implementation
+// summary: Implements the mojom::DemuxerStream receiver wrapping a media DemuxerStream, handling reads, config changes, track changes, and end-of-stream over data pipes.
+// ---
+
 #include "media/mojo/clients/mojo_demuxer_stream_impl.h"
 
 #include <stdint.h>

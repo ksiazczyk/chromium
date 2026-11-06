@@ -1,0 +1,4 @@
+# Docerion header of media_log.mojom.
+type: source
+title: Media log Mojo interface
+summary: Defines the MediaLog Mojo interface for adding media log records from remote processes.

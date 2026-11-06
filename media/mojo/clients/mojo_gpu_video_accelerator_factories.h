@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoGpuVideoAcceleratorFactories header
+// summary: Declares the Mojo implementation of GpuVideoAcceleratorFactories that exposes GPU functionality for media video decoders and encoders, bound to a task runner.
+// ---
+
 #ifndef MEDIA_MOJO_CLIENTS_MOJO_GPU_VIDEO_ACCELERATOR_FACTORIES_H_
 #define MEDIA_MOJO_CLIENTS_MOJO_GPU_VIDEO_ACCELERATOR_FACTORIES_H_
 

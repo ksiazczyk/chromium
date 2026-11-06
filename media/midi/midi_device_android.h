@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android MIDI device wrapper class declaration
+// summary: Declares the MidiDeviceAndroid class that wraps a Java MIDI device and provides access to its input and output ports.
+// ---
+
 #ifndef MEDIA_MIDI_MIDI_DEVICE_ANDROID_H_
 #define MEDIA_MIDI_MIDI_DEVICE_ANDROID_H_
 

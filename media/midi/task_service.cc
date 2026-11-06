@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MIDI task service implementation
+// summary: Implements instance-bound task posting and dedicated runner threads used by the MIDI service to dispatch work safely.
+// ---
+
 #include "media/midi/task_service.h"
 
 #include <limits>

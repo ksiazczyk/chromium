@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recognition context Mojom traits header
+// summary: Declares Mojo StructTraits specializations for serializing SpeechRecognitionPhrase and SpeechRecognitionRecognitionContext across processes.
+// ---
+
 #ifndef MEDIA_MOJO_MOJOM_SPEECH_RECOGNITION_RECOGNITION_CONTEXT_MOJOM_TRAITS_H_
 #define MEDIA_MOJO_MOJOM_SPEECH_RECOGNITION_RECOGNITION_CONTEXT_MOJOM_TRAITS_H_
 

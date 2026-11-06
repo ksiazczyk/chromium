@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM key information Mojo traits implementation
+// summary: Implements Mojo EnumTraits and StructTraits that convert CDM key statuses and CdmKeyInformation objects between native and Mojom types.
+// ---
+
 #include "media/mojo/mojom/cdm_key_information_mojom_traits.h"
 
 #include "base/notreached.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MIDI message queue for reassembling byte streams
+// summary: Reassembles raw MIDI byte streams into complete messages, handling SysEx, running status, and interleaved real-time messages.
+// ---
+
 #include "media/midi/midi_message_queue.h"
 
 #include <algorithm>

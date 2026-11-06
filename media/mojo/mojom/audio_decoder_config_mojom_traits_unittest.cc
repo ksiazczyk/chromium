@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio decoder config mojom traits unit tests
+// summary: Unit tests that serialize and deserialize AudioDecoderConfig through mojom traits and verify round-trip fidelity across codec, encryption and layout cases.
+// ---
+
 #include "media/mojo/mojom/audio_decoder_config_mojom_traits.h"
 
 #include <utility>

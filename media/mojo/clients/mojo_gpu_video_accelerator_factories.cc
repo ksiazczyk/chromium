@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoGpuVideoAcceleratorFactories implementation
+// summary: Implements MojoGpuVideoAcceleratorFactories, which provides GPU video decode and encode accelerator factories over Mojo, including NV12 output format handling on Windows.
+// ---
+
 #include "media/mojo/clients/mojo_gpu_video_accelerator_factories.h"
 
 #include <GLES2/gl2.h>

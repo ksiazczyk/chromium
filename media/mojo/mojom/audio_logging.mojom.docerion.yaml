@@ -1,0 +1,4 @@
+# Docerion header of audio_logging.mojom.
+type: source
+title: Audio logging mojom interfaces
+summary: Defines mojo interfaces for logging audio component state, letting the audio service create AudioLog instances managed by the browser process.

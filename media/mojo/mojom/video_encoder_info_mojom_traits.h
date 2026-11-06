@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoEncoderInfo Mojo traits header
+// summary: Declares Mojo StructTraits exposing media::VideoEncoderInfo and ResolutionRateLimit fields for Mojo serialization of encoder capability data.
+// ---
+
 #ifndef MEDIA_MOJO_MOJOM_VIDEO_ENCODER_INFO_MOJOM_TRAITS_H_
 #define MEDIA_MOJO_MOJOM_VIDEO_ENCODER_INFO_MOJOM_TRAITS_H_
 

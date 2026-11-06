@@ -1,0 +1,4 @@
+# Docerion header of watch_time_recorder.mojom.
+type: source
+title: WatchTimeRecorder Mojom Interface
+summary: Defines the WatchTimeRecorder interface and playback property structs used to report media watch time metrics to UMA and UKM.

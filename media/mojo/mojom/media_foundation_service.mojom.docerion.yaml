@@ -1,0 +1,4 @@
+# Docerion header of media_foundation_service.mojom.
+type: source
+title: Media Foundation service Mojo interfaces
+summary: Defines Mojo interfaces for the Windows MediaFoundation CDM service, covering key system capability queries, InterfaceFactory creation, GPU info updates, and CDM preloading via a broker.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoRenderer header
+// summary: Declares MojoRenderer, a media::Renderer proxy to a remote mojom::Renderer whose RendererClient callbacks are dispatched on a bound task runner.
+// ---
+
 #ifndef MEDIA_MOJO_CLIENTS_MOJO_RENDERER_H_
 #define MEDIA_MOJO_CLIENTS_MOJO_RENDERER_H_
 

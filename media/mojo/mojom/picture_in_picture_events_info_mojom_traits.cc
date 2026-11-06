@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Picture-in-picture events info Mojom traits implementation
+// summary: Implements Mojo enum and struct traits converting auto picture-in-picture reason and info between native media and Mojom types.
+// ---
+
 #include "media/mojo/mojom/picture_in_picture_events_info_mojom_traits.h"
 
 #include "base/notreached.h"

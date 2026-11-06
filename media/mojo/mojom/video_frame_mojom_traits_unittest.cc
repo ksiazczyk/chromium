@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video frame Mojom traits unit tests
+// summary: Unit tests verifying video frames round-trip through Mojo serialization, covering shared memory, EOS frames, and failure cases.
+// ---
+
 #include "media/mojo/mojom/video_frame_mojom_traits.h"
 
 #include <algorithm>

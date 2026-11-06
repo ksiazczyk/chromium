@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo decoder codec factory implementation
+// summary: Implements a codec factory that creates MojoVideoDecoder instances and queries supported decoder configs through media::mojom::InterfaceFactory.
+// ---
+
 #include "media/mojo/clients/mojo_codec_factory_mojo_decoder.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mojo decryptor unit tests
+// summary: Unit tests for MojoDecryptor that exercise decrypt and decrypt-and-decode flows against MojoDecryptorService using mock decryptors and mojo test utilities.
+// ---
+
 
 #include "media/mojo/clients/mojo_decryptor.h"
 

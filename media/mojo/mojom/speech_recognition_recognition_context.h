@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speech recognition recognition context header
+// summary: Declares SpeechRecognitionPhrase and SpeechRecognitionRecognitionContext structs used for biasing speech recognition toward specific phrases.
+// ---
+
 #ifndef MEDIA_MOJO_MOJOM_SPEECH_RECOGNITION_RECOGNITION_CONTEXT_H_
 #define MEDIA_MOJO_MOJOM_SPEECH_RECOGNITION_RECOGNITION_CONTEXT_H_
 

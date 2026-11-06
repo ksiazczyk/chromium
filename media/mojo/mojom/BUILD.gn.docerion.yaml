@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Media Mojo Mojom build definitions
+summary: GN build file that defines the media mojom binding targets, their source lists, dependencies and platform- or feature-conditional sources.

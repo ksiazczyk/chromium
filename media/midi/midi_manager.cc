@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MIDI manager core implementation
+// summary: Implements the core MidiManager that manages client sessions, port notifications, and usage histograms for MIDI hardware access.
+// ---
+
 #include "media/midi/midi_manager.h"
 
 #include "base/functional/bind.h"

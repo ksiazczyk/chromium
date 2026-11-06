@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo decryptor implementation
+// summary: Implements the Decryptor interface over a remote mojom::Decryptor, using data pipes to send encrypted buffers and receive decrypted audio and video output.
+// ---
+
 #include "media/mojo/clients/mojo_decryptor.h"
 
 #include <stddef.h>

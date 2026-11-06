@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media status Mojom traits header
+// summary: Declares Mojo StructTraits mapping media status types to their Mojom data views for serialization over IPC.
+// ---
+
 #ifndef MEDIA_MOJO_MOJOM_STATUS_MOJOM_TRAITS_H_
 #define MEDIA_MOJO_MOJOM_STATUS_MOJOM_TRAITS_H_
 

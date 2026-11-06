@@ -1,0 +1,4 @@
+# Docerion header of fuchsia_media.mojom.
+type: source
+title: Fuchsia media Mojom interfaces
+summary: Defines Mojo structs and interfaces for connecting renderers to Fuchsia CDM and StreamProcessor hardware codec resources.

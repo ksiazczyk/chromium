@@ -1,0 +1,4 @@
+# Docerion header of content_decryption_module.mojom.
+type: source
+title: ContentDecryptionModule Mojom interface
+summary: Defines the Mojo interface for a Content Decryption Module implementing the Encrypted Media Extensions spec, including sessions, promises, and key status.

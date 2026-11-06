@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MojoAndroidOverlay unit tests
+// summary: Tests MojoAndroidOverlay against mocked overlay provider and client callbacks, covering surface ready, failure, destruction and power efficient state flows.
+// ---
+
 #include <memory>
 
 #include "base/android/jni_android.h"

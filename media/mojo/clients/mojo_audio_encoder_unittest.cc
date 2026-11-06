@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MojoAudioEncoder unit tests
+// summary: Unit tests that exercise the MojoAudioEncoder client together with MojoAudioEncoderService over a Mojo connection using a mock audio encoder.
+// ---
+
 #include "media/mojo/clients/mojo_audio_encoder.h"
 
 #include <memory>

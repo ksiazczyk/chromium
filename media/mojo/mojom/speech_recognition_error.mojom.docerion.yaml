@@ -1,0 +1,4 @@
+# Docerion header of speech_recognition_error.mojom.
+type: source
+title: Speech recognition error Mojo types
+summary: Defines a struct and details enum used to report speech recognition engine errors, such as a missing microphone, to the renderer.

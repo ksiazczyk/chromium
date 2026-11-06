@@ -1,0 +1,4 @@
+# Docerion header of mediadrm_support.mojom.
+type: source
+title: MediaDrmSupport Mojom interface
+summary: Defines a Mojo service that checks MediaDrm key system support for MP4 and WebM on Android, where OS calls can crash.

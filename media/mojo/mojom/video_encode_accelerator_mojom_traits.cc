@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoEncodeAccelerator Mojo traits implementation
+// summary: Implements Mojo enum and struct traits that convert video encode accelerator rate control modes, supported profiles, and bitrate settings between native and Mojo types.
+// ---
+
 #include "media/mojo/mojom/video_encode_accelerator_mojom_traits.h"
 
 #include <cmath>

@@ -1,0 +1,4 @@
+# Docerion header of output_protection.mojom.
+type: source
+title: OutputProtection Mojom interface
+summary: Defines a Mojo interface to query output link status and enable output protection such as HDCP on supported links.

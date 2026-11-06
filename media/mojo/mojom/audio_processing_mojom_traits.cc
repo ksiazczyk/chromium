@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: audio_processing_mojom_traits.cc
+// summary: Implements Mojo StructTraits serialization for the AudioProcessingStats and AudioProcessingSettings types.
+// ---
+
 #include "media/mojo/mojom/audio_processing_mojom_traits.h"
 
 namespace mojo {

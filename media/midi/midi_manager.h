@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MIDI manager interface
+// summary: Declares MidiManagerClient and MidiManager, the platform-independent interface for managing access to MIDI hardware and dispatching MIDI data.
+// ---
+
 #ifndef MEDIA_MIDI_MIDI_MANAGER_H_
 #define MEDIA_MIDI_MIDI_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo decoder codec factory header
+// summary: Declares MojoCodecFactoryMojoDecoder, used when the mojo-based video decoder is enabled to obtain decoder resources via media::mojom::InterfaceFactory.
+// ---
+
 #ifndef MEDIA_MOJO_CLIENTS_MOJO_CODEC_FACTORY_MOJO_DECODER_H_
 #define MEDIA_MOJO_CLIENTS_MOJO_CODEC_FACTORY_MOJO_DECODER_H_
 

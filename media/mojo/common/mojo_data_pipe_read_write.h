@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoDataPipeReader and MojoDataPipeWriter declarations
+// summary: Declares MojoDataPipeReader and MojoDataPipeWriter classes that transfer a requested amount of bytes over a mojo data pipe with completion callbacks.
+// ---
+
 #ifndef MEDIA_MOJO_COMMON_MOJO_DATA_PIPE_READ_WRITE_H_
 #define MEDIA_MOJO_COMMON_MOJO_DATA_PIPE_READ_WRITE_H_
 

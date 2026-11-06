@@ -1,0 +1,4 @@
+# Docerion header of channel_layout.mojom.
+type: source
+title: ChannelLayout Mojom enum and union definitions
+summary: Defines the Mojo ChannelLayout enum and ChannelLayoutConfig union used to express the channel layout of an audio stream.

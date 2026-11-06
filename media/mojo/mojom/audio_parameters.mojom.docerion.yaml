@@ -1,0 +1,4 @@
+# Docerion header of audio_parameters.mojom.
+type: source
+title: Audio parameters mojom definitions
+summary: Defines mojo enums and structs describing audio stream parameters, formats, latency types, and hardware capabilities.

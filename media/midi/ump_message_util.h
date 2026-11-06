@@ -12,6 +12,12 @@
 // https://midi.org/specifications
 // (Specifically, "Universal MIDI Packet (UMP) and MIDI 2.0 Protocol")
 
+// ---docerion
+// type: source
+// title: UMP message utility declarations
+// summary: Declares helpers for parsing Universal MIDI Packets and legacy MIDI messages, including the MidiMessage struct and dispatch and translation functions.
+// ---
+
 #ifndef MEDIA_MIDI_UMP_MESSAGE_UTIL_H_
 #define MEDIA_MIDI_UMP_MESSAGE_UTIL_H_
 

@@ -1,3 +1,11 @@
+---
+type: readme
+title: //media/mojo
+summary: Documentation of the mojo interfaces, clients and services that extend the media target for out-of-process media components, covering MediaService, CdmService, renderers, CDMs, security and platform adoption.
+relations:
+  - references /media/README.md
+---
+
 # //media/mojo
 
 This folder contains mojo interfaces, clients and implementations that extend

@@ -1,0 +1,4 @@
+# Docerion header of video_decoder.mojom.
+type: source
+title: VideoDecoder Mojom interface
+summary: Mojom definitions for remote video decoding, including the VideoDecoder interface, SupportedVideoDecoderConfig, VideoFrameHandleReleaser and CDM types.

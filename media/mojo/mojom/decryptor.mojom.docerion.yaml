@@ -1,0 +1,4 @@
+# Docerion header of decryptor.mojom.
+type: source
+title: Decryptor Mojom interface
+summary: Defines the Mojo interface for decrypting and decoding encrypted audio and video streams, modeled on media::Decryptor.

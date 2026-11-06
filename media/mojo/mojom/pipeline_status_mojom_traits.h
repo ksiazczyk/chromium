@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pipeline status Mojo struct traits
+// summary: Header defining Mojo StructTraits that map media pipeline statistics and audio/video pipeline info between C++ structs and their Mojo DataView types.
+// ---
+
 #ifndef MEDIA_MOJO_MOJOM_PIPELINE_STATUS_MOJOM_TRAITS_H_
 #define MEDIA_MOJO_MOJOM_PIPELINE_STATUS_MOJOM_TRAITS_H_
 

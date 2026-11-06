@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for media mojo clients
+summary: GN build file defining the clients source set, a test_support library with mocks, and unit_tests targets for mojo media client implementations.

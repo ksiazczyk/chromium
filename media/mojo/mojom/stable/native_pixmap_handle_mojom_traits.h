@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativePixmapHandle Mojom traits declarations
+// summary: Declares StructTraits specializations for serializing gfx::NativePixmapPlane and gfx::NativePixmapHandle over stable Mojo.
+// ---
+
 #ifndef MEDIA_MOJO_MOJOM_STABLE_NATIVE_PIXMAP_HANDLE_MOJOM_TRAITS_H_
 #define MEDIA_MOJO_MOJOM_STABLE_NATIVE_PIXMAP_HANDLE_MOJOM_TRAITS_H_
 

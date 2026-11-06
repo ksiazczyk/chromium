@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for //media/mojo
+summary: DEPS file specifying which headers media/mojo may include, such as mojo public APIs and test utilities, while forbidding use of media/base/media_export.h.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo decoder factory implementation
+// summary: Implements DecoderFactory to create Mojo-backed audio and video decoders using a media::mojom::InterfaceFactory connection.
+// ---
+
 #include "media/mojo/clients/mojo_decoder_factory.h"
 
 #include <memory>

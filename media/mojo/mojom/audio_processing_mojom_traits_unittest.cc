@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: audio_processing_mojom_traits_unittest.cc
+// summary: Unit tests verifying round-trip Mojo serialization of AudioProcessingSettings and AudioProcessingStats.
+// ---
+
 #include "media/mojo/mojom/audio_processing_mojom_traits.h"
 
 #include "media/base/audio_processing.h"

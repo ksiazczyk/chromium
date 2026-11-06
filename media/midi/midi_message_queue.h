@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MIDI message queue header
+// summary: Declares MidiMessageQueue, which splits raw MIDI byte streams into complete messages, skipping invalid data and optionally reconstructing running status.
+// ---
+
 #ifndef MEDIA_MIDI_MIDI_MESSAGE_QUEUE_H_
 #define MEDIA_MIDI_MIDI_MESSAGE_QUEUE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoAndroidOverlay class declaration
+// summary: Declares the mojo-based AndroidOverlay client that binds an overlay remote, receives client callbacks and exposes the Java surface.
+// ---
+
 #ifndef MEDIA_MOJO_CLIENTS_MOJO_ANDROID_OVERLAY_H_
 #define MEDIA_MOJO_CLIENTS_MOJO_ANDROID_OVERLAY_H_
 

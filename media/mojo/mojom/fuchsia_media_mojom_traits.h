@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia media Mojo traits
+// summary: Defines StructTraits for passing Fuchsia FIDL interface requests for CDM and stream processors over Mojo.
+// ---
+
 #ifndef MEDIA_MOJO_MOJOM_FUCHSIA_MEDIA_MOJOM_TRAITS_H_
 #define MEDIA_MOJO_MOJOM_FUCHSIA_MEDIA_MOJOM_TRAITS_H_
 

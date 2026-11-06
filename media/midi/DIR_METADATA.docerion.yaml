@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the media/midi directory
+summary: Declares the Blink>WebMIDI monorail component, team email, and Buganizer component used for issues in the media/midi directory.

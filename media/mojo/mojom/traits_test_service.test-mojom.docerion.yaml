@@ -1,0 +1,4 @@
+# Docerion header of traits_test_service.test-mojom.
+type: test
+title: Traits test service Mojom definitions
+summary: Test-only Mojom interfaces that echo VideoFrame and VideoFrameMetadata through Mojo serialization to help verify their traits.

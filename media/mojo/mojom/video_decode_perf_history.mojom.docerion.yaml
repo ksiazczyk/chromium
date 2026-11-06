@@ -1,0 +1,4 @@
+# Docerion header of video_decode_perf_history.mojom.
+type: source
+title: VideoDecodePerfHistory Mojom interface
+summary: Mojom interface for querying playback stats history to predict whether a video stream with given features will play smoothly and power efficiently.

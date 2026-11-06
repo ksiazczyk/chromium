@@ -1,0 +1,4 @@
+# Docerion header of demuxer_stream.mojom.
+type: source
+title: DemuxerStream Mojom interface
+summary: Defines the Mojo interface proxying media::DemuxerStream between a media pipeline and a renderer in different processes.

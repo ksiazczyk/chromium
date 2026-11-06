@@ -1,0 +1,4 @@
+# Docerion header of audio_output_stream.mojom.
+type: source
+title: Audio output stream mojom interfaces
+summary: Defines mojo interfaces for controlling audio output streams, covering play, pause, flush, volume, playback observers, and output device switching.

@@ -1,0 +1,4 @@
+# Docerion header of media_service.mojom.
+type: source
+title: Media service Mojo interface
+summary: Defines the MediaService Mojo interface that provides a media InterfaceFactory, with the service sandbox determined by GN build flags.

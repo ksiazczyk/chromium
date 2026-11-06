@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverlayInfo Mojom traits header
+// summary: Declares Mojo StructTraits serializing media::OverlayInfo, including routing token, fullscreen, and persistent video flags.
+// ---
+
 #ifndef MEDIA_MOJO_MOJOM_OVERLAY_INFO_MOJOM_TRAITS_H_
 #define MEDIA_MOJO_MOJOM_OVERLAY_INFO_MOJOM_TRAITS_H_
 

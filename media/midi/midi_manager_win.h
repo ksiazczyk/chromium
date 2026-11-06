@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MidiManagerWin class header
+// summary: Declares MidiManagerWin, the legacy Windows MidiManager with a PortManager helper and task posting utilities.
+// ---
+
 #ifndef MEDIA_MIDI_MIDI_MANAGER_WIN_H_
 #define MEDIA_MIDI_MIDI_MANAGER_WIN_H_
 

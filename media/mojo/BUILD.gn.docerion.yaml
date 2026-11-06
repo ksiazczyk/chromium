@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for //media/mojo
+summary: GN build file that defines buildflag headers for enabling remote mojo media services, plus test_support, unit_tests, and the media_mojo_unittests test target.

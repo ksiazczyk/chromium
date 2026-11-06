@@ -1,0 +1,4 @@
+# Docerion header of video_encoder_metrics_provider.mojom.
+type: source
+title: Video encoder metrics provider Mojom interface
+summary: Defines the Mojo interface and use-case enum for collecting video encoder metrics such as encoded frame counts and errors for UKM reporting.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoCdmFactory implementation
+// summary: Implements the CDM factory that creates a local AesDecryptor when possible or a Mojo-backed MojoCdm through the remote InterfaceFactory.
+// ---
+
 #include "media/mojo/clients/mojo_cdm_factory.h"
 
 #include <utility>

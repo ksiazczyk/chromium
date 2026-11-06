@@ -1,0 +1,4 @@
+# Docerion header of video_decoder_factory_process.mojom.
+type: source
+title: VideoDecoderFactoryProcess Mojo interface
+summary: Defines the Mojo interface for a video decoder factory hosted in a utility process, initialized by the browser with GPU feature info and an InterfaceFactory receiver.

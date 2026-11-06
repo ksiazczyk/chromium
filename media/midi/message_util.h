@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MIDI message utility function declarations
+// summary: Declares MIDI message utility functions such as GetMessageLength and IsValidWebMIDIData along with system message byte constants.
+// ---
+
 #ifndef MEDIA_MIDI_MESSAGE_UTIL_H_
 #define MEDIA_MIDI_MESSAGE_UTIL_H_
 

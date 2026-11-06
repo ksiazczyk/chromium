@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MojoDecoderBufferConverter unit tests
+// summary: Unit tests verifying round-trip conversion of decoder buffers, including EOS, zero-byte, key frame, and encrypted buffers, over mojo data pipes.
+// ---
+
 #include "media/mojo/common/mojo_decoder_buffer_converter.h"
 
 #include <stdint.h>

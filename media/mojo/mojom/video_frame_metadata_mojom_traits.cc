@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video frame metadata Mojom traits implementation
+// summary: Implements Mojo serialization for VideoFrameMetadata, capture metadata and version, and effect state enum conversions.
+// ---
+
 #include "media/mojo/mojom/video_frame_metadata_mojom_traits.h"
 
 #include <utility>

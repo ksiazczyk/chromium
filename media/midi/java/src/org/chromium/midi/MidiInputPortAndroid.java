@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MidiInputPortAndroid
+// summary: Java implementation of midi::MidiInputPortAndroid that opens the underlying Android MidiOutputPort and forwards received MIDI data to the associated native object.
+// ---
+
 package org.chromium.midi;
 
 import android.media.midi.MidiDevice;

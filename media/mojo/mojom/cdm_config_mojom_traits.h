@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM config Mojo type traits header
+// summary: Maps media::CdmConfig fields such as key system, distinctive identifier, persistent state and hardware secure codecs to their Mojom representation.
+// ---
+
 #ifndef MEDIA_MOJO_MOJOM_CDM_CONFIG_MOJOM_TRAITS_H_
 #define MEDIA_MOJO_MOJOM_CDM_CONFIG_MOJOM_TRAITS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioDataS16Converter class declaration
+// summary: Declares the AudioDataS16Converter class that converts AudioBuffer or AudioBus audio into the mojom::AudioDataS16 format.
+// ---
+
 #ifndef MEDIA_MOJO_COMMON_AUDIO_DATA_S16_CONVERTER_H_
 #define MEDIA_MOJO_COMMON_AUDIO_DATA_S16_CONVERTER_H_
 

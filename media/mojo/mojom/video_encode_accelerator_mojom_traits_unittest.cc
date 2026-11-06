@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VideoEncodeAccelerator Mojo traits unit tests
+// summary: Unit tests verifying round-trip serialization of SVC scalability modes, encoder supported profiles, encoder info, and bitrate allocations through Mojo traits.
+// ---
+
 #include "media/mojo/mojom/video_encode_accelerator_mojom_traits.h"
 
 #include "media/base/video_bitrate_allocation.h"

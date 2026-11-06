@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for media/midi code review
+summary: Lists the default code owners for media/midi and routes .mojom file reviews to the IPC security owners.

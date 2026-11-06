@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MIDI service implementation
+// summary: Implements MidiService session start and end, manager shutdown, MIDI data dispatch, and on-demand task runner creation.
+// ---
+
 #include "media/midi/midi_service.h"
 
 #include "base/feature_list.h"

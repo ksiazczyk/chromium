@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MIDI manager for Windows Runtime devices
+// summary: Implements the Windows Runtime MIDI backend that enumerates WinRT MIDI ports and handles device watcher events over COM.
+// ---
+
 #include "media/midi/midi_manager_winrt.h"
 #include "base/memory/raw_ptr.h"
 

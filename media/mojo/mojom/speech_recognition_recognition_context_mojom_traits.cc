@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recognition context Mojom traits implementation
+// summary: Implements Mojo StructTraits Read functions that deserialize and validate speech recognition phrases and contexts, enforcing the boost value range.
+// ---
+
 #include "media/mojo/mojom/speech_recognition_recognition_context_mojom_traits.h"
 
 namespace mojo {

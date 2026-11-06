@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoCodecFactory class declaration
+// summary: Declares the base class that assists MojoGpuVideoAcceleratorFactories with hardware video decoder and encoder resources over Mojo.
+// ---
+
 #ifndef MEDIA_MOJO_CLIENTS_MOJO_CODEC_FACTORY_H_
 #define MEDIA_MOJO_CLIENTS_MOJO_CODEC_FACTORY_H_
 

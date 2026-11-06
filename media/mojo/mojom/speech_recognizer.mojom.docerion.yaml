@@ -1,0 +1,4 @@
+# Docerion header of speech_recognizer.mojom.
+type: source
+title: Speech recognizer Mojom interfaces
+summary: Defines Mojo interfaces for starting and managing speech recognition sessions, including on-device availability and installation.

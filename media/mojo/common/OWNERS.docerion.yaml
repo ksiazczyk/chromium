@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for Mojo traits and type converter files
+summary: Routes review ownership of mojom traits and type converter files in this directory to the IPC security owners.

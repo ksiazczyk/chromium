@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo decoder buffer validation implementation
+// summary: Validates and converts mojom decrypt configs, side data, and decoder buffers into their media counterparts, rejecting malformed or inconsistent inputs.
+// ---
+
 #include "media/mojo/common/validation_utils.h"
 
 namespace media {

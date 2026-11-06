@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Picture-in-picture events info Mojom traits header
+// summary: Declares Mojo traits for serializing AutoPipReason and AutoPipInfo, covering audio focus, playback, and engagement fields.
+// ---
+
 #ifndef MEDIA_MOJO_MOJOM_PICTURE_IN_PICTURE_EVENTS_INFO_MOJOM_TRAITS_H_
 #define MEDIA_MOJO_MOJOM_PICTURE_IN_PICTURE_EVENTS_INFO_MOJOM_TRAITS_H_
 

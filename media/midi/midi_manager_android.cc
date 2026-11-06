@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android MIDI manager implementation
+// summary: Implements MidiManagerAndroid, which uses the Android MIDI system service via JNI to initialize devices and dispatch MIDI data.
+// ---
+
 #include "media/midi/midi_manager_android.h"
 
 #include "base/feature_list.h"

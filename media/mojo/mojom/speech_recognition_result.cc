@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speech recognition result implementation
+// summary: Implements constructors and equality operators for the HypothesisParts, TimingInformation and SpeechRecognitionResult value types.
+// ---
+
 #include "media/mojo/mojom/speech_recognition_result.h"
 
 namespace media {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video frame metadata Mojom traits unit tests
+// summary: Unit tests verifying VideoFrameMetadata fields round-trip correctly through Mojo serialization.
+// ---
+
 #include "media/mojo/mojom/video_frame_metadata_mojom_traits.h"
 
 #include "base/functional/callback_helpers.h"
