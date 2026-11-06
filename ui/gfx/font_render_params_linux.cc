@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fontconfig-based font render params for Linux
+// summary: Resolves font render parameters on Linux via Fontconfig, mapping font weights and caching query results behind a lock.
+// ---
+
 #include "ui/gfx/font_render_params.h"
 
 #include <fontconfig/fontconfig.h>

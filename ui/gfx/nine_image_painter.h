@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NineImagePainter header
+// summary: Declares the gfx::NineImagePainter class that paints nine-patch images on a Canvas, including minimum size, alpha painting and subset region extraction.
+// ---
+
 #ifndef UI_GFX_NINE_IMAGE_PAINTER_H_
 #define UI_GFX_NINE_IMAGE_PAINTER_H_
 

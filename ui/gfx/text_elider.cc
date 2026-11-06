@@ -7,6 +7,12 @@
 // Note that several of the functions declared in text_elider.h are implemented
 // in this file using helper classes in an unnamed namespace.
 
+// ---docerion
+// type: source
+// title: Text eliding and formatting implementation
+// summary: Implements utilities for eliding and formatting UI text, including email, filename, and general string eliding under pixel-width constraints.
+// ---
+
 #include "ui/gfx/text_elider.h"
 
 #include <stdint.h>

@@ -4,6 +4,12 @@
 //
 // Unit tests for eliding and formatting utility functions.
 
+// ---docerion
+// type: source
+// title: Unit tests for text eliding
+// summary: Unit tests covering email, filename, and general text eliding behavior across varied widths, locales, and edge cases.
+// ---
+
 #include "ui/gfx/text_elider.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionSet type and helper declarations
+// summary: Declares the ExtensionSet alias to base::flat_set and helpers for parsing, querying and serializing space-separated extension strings.
+// ---
+
 #ifndef UI_GFX_EXTENSION_SET_H_
 #define UI_GFX_EXTENSION_SET_H_
 

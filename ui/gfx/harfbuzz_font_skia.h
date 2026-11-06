@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HarfBuzz font creation from Skia typefaces
+// summary: Declares CreateHarfBuzzFont, which builds a HarfBuzz font from a Skia typeface using font render parameters.
+// ---
+
 #ifndef UI_GFX_HARFBUZZ_FONT_SKIA_H_
 #define UI_GFX_HARFBUZZ_FONT_SKIA_H_
 

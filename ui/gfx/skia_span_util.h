@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia pixmap and data span conversion declarations
+// summary: Declares helpers to view SkPixmap and SkData memory as byte spans and to create SkData from spans.
+// ---
+
 #ifndef UI_GFX_SKIA_SPAN_UTIL_H_
 #define UI_GFX_SKIA_SPAN_UTIL_H_
 

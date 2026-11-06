@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ColorSpace unit tests
+// summary: Unit tests for gfx::ColorSpace covering RGB to YUV transforms, range adjustment matrices and bit-depth-aware chroma centering across color spaces.
+// ---
+
 #include "ui/gfx/color_space.h"
 
 #include <algorithm>

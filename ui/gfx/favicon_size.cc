@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon target size calculation
+// summary: Implements CalculateFaviconTargetSize, which scales oversized favicon dimensions down to the 16 px favicon size while keeping the aspect ratio.
+// ---
+
 #include "ui/gfx/favicon_size.h"
 
 namespace gfx {

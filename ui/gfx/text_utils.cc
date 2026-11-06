@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text utilities implementation for accelerator stripping and string measurement
+// summary: Implements gfx text helpers that remove accelerator characters, including CJK-style accelerators, and support string measurement.
+// ---
+
 #include "ui/gfx/text_utils.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DelegatedInkPoint and DelegatedInkMetadata matching
+// summary: Unit tests verifying when a DelegatedInkPoint and DelegatedInkMetadata match based on timestamp and point location within tolerance.
+// ---
+
 #include "ui/gfx/delegated_ink_metadata.h"
 #include "ui/gfx/delegated_ink_point.h"
 

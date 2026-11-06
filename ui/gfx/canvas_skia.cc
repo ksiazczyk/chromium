@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Canvas Skia text backend
+// summary: Skia-backed implementation of Canvas text sizing and drawing, handling accelerator prefixes, text eliding with range adjustment, and alignment through RenderText.
+// ---
+
 #include <limits.h>
 #include <stddef.h>
 #include <stdint.h>

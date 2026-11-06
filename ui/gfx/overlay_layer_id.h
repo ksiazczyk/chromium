@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverlayLayerId header
+// summary: Declares gfx::OverlayLayerId, a unique identifier for overlay layers that stays stable across frames to enable OS compositor subtree reuse.
+// ---
+
 #ifndef UI_GFX_OVERLAY_LAYER_ID_H_
 #define UI_GFX_OVERLAY_LAYER_ID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows font render params implementation
+// summary: Derives font render parameters from Windows ClearType and registry settings, caching them and refreshing on system notifications.
+// ---
+
 #include "ui/gfx/font_render_params.h"
 
 #include <windows.h>

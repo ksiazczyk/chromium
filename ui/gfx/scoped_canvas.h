@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedCanvas class header
+// summary: Declares a helper that saves the canvas drawing state on construction and restores it when the scope ends.
+// ---
+
 #ifndef UI_GFX_SCOPED_CANVAS_H_
 #define UI_GFX_SCOPED_CANVAS_H_
 

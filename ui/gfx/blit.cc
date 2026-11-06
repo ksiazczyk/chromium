@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollCanvas implementation
+// summary: Implements ScrollCanvas, which scrolls canvas pixels within a clip by copying rows in an order that respects the scroll offset.
+// ---
+
 #include "ui/gfx/blit.h"
 
 #include <stddef.h>

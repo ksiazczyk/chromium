@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia fallback matching implementation
+// summary: Implements Skia-based fallback matching that counts missing glyphs for text, using Unicode decomposition and skipping default-ignorable codepoints.
+// ---
+
 #include "ui/gfx/font_fallback_skia_impl.h"
 
 #include <stdint.h>

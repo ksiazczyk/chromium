@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DelegatedInkPoint implementation
+// summary: Implements matching of a delegated ink point against ink metadata with a small coordinate tolerance and trace output.
+// ---
+
 #include "ui/gfx/delegated_ink_point.h"
 
 #include <inttypes.h>

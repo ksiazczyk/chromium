@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android SurfaceControl compatibility declarations
+// summary: Declares the SurfaceControl class with platform support checks, Surface handles, transactions and transaction stats.
+// ---
+
 #ifndef UI_GFX_ANDROID_ANDROID_SURFACE_CONTROL_COMPAT_H_
 #define UI_GFX_ANDROID_ANDROID_SURFACE_CONTROL_COMPAT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DelegatedInkMetadata class header
+// summary: Defines the DelegatedInkMetadata class carrying ink trail point, color, and timing data from blink through cc to viz.
+// ---
+
 #ifndef UI_GFX_DELEGATED_INK_METADATA_H_
 #define UI_GFX_DELEGATED_INK_METADATA_H_
 

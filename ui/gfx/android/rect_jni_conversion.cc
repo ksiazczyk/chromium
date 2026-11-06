@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rect JNI conversion implementations
+// summary: Implements jni_zero FromJniType and ToJniType specializations that convert between gfx::Rect and gfx::RectF and the Java android.graphics Rect and RectF classes.
+// ---
+
 #include "ui/gfx/android/rect_jni_conversion.h"
 
 #include "base/android/jni_android.h"

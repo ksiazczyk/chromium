@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedAnimationDurationScaleMode implementation
+// summary: Implements scoped animation duration scaling, including nested DISABLE_ANIMATION scopes that keep animations disabled until all scopes exit.
+// ---
+
 #include "ui/gfx/scoped_animation_duration_scale_mode.h"
 
 #include "base/check_op.h"

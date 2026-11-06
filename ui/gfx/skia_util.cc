@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia bitmap comparison and HarfBuzz unit conversion utilities
+// summary: Implements bitmap equality checking and conversions between Skia scalar values and HarfBuzz 16.16 fixed-point units.
+// ---
+
 #include "ui/gfx/skia_util.h"
 
 #include "base/check.h"

@@ -1,0 +1,4 @@
+# Docerion header of platform_font_mac.mm.
+type: source
+title: macOS PlatformFont implementation
+summary: Implements PlatformFontMac with CoreText and NSFont, including mapping of CoreText weight ranges to gfx font weights and metric calculation.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VSync provider interface
+// summary: Declares the VSyncProvider interface for obtaining screen refresh timing and a FixedVSyncProvider with constant parameters.
+// ---
+
 #ifndef UI_GFX_VSYNC_PROVIDER_H_
 #define UI_GFX_VSYNC_PROVIDER_H_
 

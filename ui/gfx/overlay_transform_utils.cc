@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay transform utilities
+// summary: Provides helpers to convert OverlayTransform values to gfx::Transform and to invert and concatenate overlay transforms.
+// ---
+
 #include "ui/gfx/overlay_transform_utils.h"
 
 #include "base/notreached.h"

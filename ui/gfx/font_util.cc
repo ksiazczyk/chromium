@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Font initialization utilities implementation
+// summary: Implements InitializeFonts to set up fontconfig on Linux and ChromeOS, DirectWrite on Windows, and Skia font rendering.
+// ---
+
 #include "ui/gfx/font_util.h"
 
 #include "build/build_config.h"

@@ -1,0 +1,4 @@
+# Docerion header of native_ui_types_mac.mm.
+type: source
+title: macOS native UI type implementations
+summary: Implements macOS NativeView and NativeWindow wrappers around NSView and NSWindow with explicit native handle accessors.

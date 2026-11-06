@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS HDR metadata generation helpers
+// summary: Declares functions that convert HDR metadata into CoreFoundation data for rendering via AVSampleBufferDisplayLayer or CAMetalLayer.
+// ---
+
 #ifndef UI_GFX_HDR_METADATA_MAC_H_
 #define UI_GFX_HDR_METADATA_MAC_H_
 

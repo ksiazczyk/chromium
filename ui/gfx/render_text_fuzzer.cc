@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RenderText draw fuzzer
+// summary: Fuzz target that feeds arbitrary UTF-8 input to RenderText and draws it on a canvas to detect crashes in text rendering.
+// ---
+
 #include "ui/gfx/render_text.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension set helpers implementation
+// summary: Implements helpers to build an ExtensionSet from a space-separated string, test membership and join the set back into a string.
+// ---
+
 #include "ui/gfx/extension_set.h"
 
 #include <string_view>

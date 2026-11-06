@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Selection model implementation
+// summary: Implements SelectionModel constructors, secondary selection handling, and string output for text selection and caret state.
+// ---
+
 #include "ui/gfx/selection_model.h"
 
 #include <ostream>

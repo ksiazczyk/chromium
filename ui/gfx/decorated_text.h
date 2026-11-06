@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecoratedText struct header
+// summary: Defines the DecoratedText struct that pairs text with non-overlapping ranged font and strikethrough styling attributes.
+// ---
+
 #ifndef UI_GFX_DECORATED_TEXT_H_
 #define UI_GFX_DECORATED_TEXT_H_
 

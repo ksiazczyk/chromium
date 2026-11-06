@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CALayerParams for macOS compositing
+// summary: Defines the CALayerParams struct holding the parameters required to add a composited frame to a CALayer on macOS.
+// ---
+
 #ifndef UI_GFX_CA_LAYER_PARAMS_H_
 #define UI_GFX_CA_LAYER_PARAMS_H_
 

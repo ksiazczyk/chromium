@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SurfaceControl transaction unit tests
+// summary: Unit tests verifying on-complete and on-commit callback behavior of SurfaceControl transactions using a stub implementation.
+// ---
+
 #include "ui/gfx/android/android_surface_control_compat.h"
 
 #include <android/data_space.h>

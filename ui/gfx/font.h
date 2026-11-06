@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: gfx::Font class header
+// summary: Declares the gfx::Font wrapper around a platform font, with style flags, a weight enum, constructors and accessors for font metrics and names.
+// ---
+
 #ifndef UI_GFX_FONT_H_
 #define UI_GFX_FONT_H_
 

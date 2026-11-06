@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuMemoryBufferHandle implementation
+// summary: Implements GpuMemoryBufferHandle and the Windows DXGIHandle, covering shared memory, native pixmap, Android and IOSurface buffer types.
+// ---
+
 #include "ui/gfx/gpu_memory_buffer_handle.h"
 
 #include "base/logging.h"

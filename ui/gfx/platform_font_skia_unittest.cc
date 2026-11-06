@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PlatformFontSkia unit tests
+// summary: Unit tests verifying PlatformFontSkia default font initialization, reloading and render parameters using a fake Linux UI font delegate.
+// ---
+
 #include "ui/gfx/platform_font_skia.h"
 
 #include <string>

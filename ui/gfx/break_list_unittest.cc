@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BreakList
+// summary: Unit tests covering BreakList value application, range merging and overriding, resetting, and max trimming behavior.
+// ---
+
 #include "ui/gfx/break_list.h"
 
 #include <stddef.h>

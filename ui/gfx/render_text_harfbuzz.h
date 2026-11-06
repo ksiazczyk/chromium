@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderTextHarfBuzz class header
+// summary: Declares RenderTextHarfBuzz and TextRunHarfBuzz, which model shaped text runs, glyph ranges and font parameters for HarfBuzz rendering.
+// ---
+
 #ifndef UI_GFX_RENDER_TEXT_HARFBUZZ_H_
 #define UI_GFX_RENDER_TEXT_HARFBUZZ_H_
 

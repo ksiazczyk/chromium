@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interpolated transform implementation
+// summary: Implements time-based interpolated transforms such as rotation, scale and translation used for animations.
+// ---
+
 #include "ui/gfx/interpolated_transform.h"
 
 #include <cmath>

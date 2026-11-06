@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaBitmap header for JNI Android bitmap access
+// summary: Declares the JavaBitmap wrapper around a JNI AndroidBitmap with pixel access, size, format and byte count, plus conversions between SkBitmap and Java-backed android.graphics.Bitmap.
+// ---
+
 #ifndef UI_GFX_ANDROID_JAVA_BITMAP_H_
 #define UI_GFX_ANDROID_JAVA_BITMAP_H_
 

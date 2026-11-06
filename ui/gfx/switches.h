@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: gfx switches and feature declarations
+// summary: Declares the exported gfx command-line switch names and feature flags, including platform-specific entries for Linux, ChromeOS, and Windows.
+// ---
+
 #ifndef UI_GFX_SWITCHES_H_
 #define UI_GFX_SWITCHES_H_
 

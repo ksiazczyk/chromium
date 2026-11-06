@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for canvas scrolling
+// summary: Unit tests verifying gfx::ScrollCanvas behavior, including no-op scrolls, empty clips, and scrolling clipped regions.
+// ---
+
 #include <stdint.h>
 
 #include "base/memory/platform_shared_memory_region.h"

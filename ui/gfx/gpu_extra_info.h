@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuExtraInfo header
+// summary: Declares the ANGLEFeature and GpuExtraInfo structs describing ANGLE features and extra GPU information.
+// ---
+
 #ifndef UI_GFX_GPU_EXTRA_INFO_H_
 #define UI_GFX_GPU_EXTRA_INFO_H_
 

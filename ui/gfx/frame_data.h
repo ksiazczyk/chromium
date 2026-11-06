@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame data structure
+// summary: Defines the FrameData struct carrying per-frame sequence numbers, trace IDs, HDR headroom, and platform-specific compositing state.
+// ---
+
 #ifndef UI_GFX_FRAME_DATA_H_
 #define UI_GFX_FRAME_DATA_H_
 

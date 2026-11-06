@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToneMapUtil helper class interface
+// summary: Declares the ToneMapUtil class for applying tone mapping filters and computing HDR headroom when drawing images.
+// ---
+
 #ifndef UI_GFX_TONE_MAP_UTIL_H_
 #define UI_GFX_TONE_MAP_UTIL_H_
 

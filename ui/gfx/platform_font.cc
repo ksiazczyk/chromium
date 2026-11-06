@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformFont base class implementation
+// summary: Implements shared PlatformFont logic, notably computing font size deltas that cancel out user or locale font size adjustments for ResourceBundle requests.
+// ---
+
 #include "ui/gfx/platform_font.h"
 
 #include <tuple>

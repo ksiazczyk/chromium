@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HarfBuzz font functions using Skia
+// summary: Provides HarfBuzz font callbacks backed by Skia, including glyph lookup, advances and extents with a glyph cache.
+// ---
+
 #include "ui/gfx/harfbuzz_font_skia.h"
 
 #include <stddef.h>

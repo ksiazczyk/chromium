@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia paint shader and shadow looper utility declarations
+// summary: Declares gfx functions to create image rep and gradient paint shaders and shadow draw loopers for the gfx component.
+// ---
+
 #ifndef UI_GFX_SKIA_PAINT_UTIL_H_
 #define UI_GFX_SKIA_PAINT_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android SurfaceControl compatibility implementation
+// summary: Implements the SurfaceControl wrapper by dynamically loading ASurfaceControl and ASurfaceTransaction APIs, including transactions and color space support.
+// ---
+
 #include "ui/gfx/android/android_surface_control_compat.h"
 
 #include <android/data_space.h>

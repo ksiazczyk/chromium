@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GFX Skia export macro header
+// summary: Defines the GFX_SKIA_EXPORT macro for DLL import and export when building gfx as a component.
+// ---
+
 #ifndef UI_GFX_GFX_SKIA_EXPORT_H_
 #define UI_GFX_GFX_SKIA_EXPORT_H_
 

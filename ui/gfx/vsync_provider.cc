@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fixed VSync provider implementation
+// summary: Implements FixedVSyncProvider, which reports a constant timebase and refresh interval for vertical sync parameters.
+// ---
+
 #include "ui/gfx/vsync_provider.h"
 
 namespace gfx {

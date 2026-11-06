@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interpolated transform classes for animations
+// summary: Declares the InterpolatedTransform base class and its rotation, scale and translation variants for animating transforms over time.
+// ---
+
 #ifndef UI_GFX_INTERPOLATED_TRANSFORM_H_
 #define UI_GFX_INTERPOLATED_TRANSFORM_H_
 

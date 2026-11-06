@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Selection model unit tests
+// summary: Unit tests covering SelectionModel construction, secondary selections, equality operators, and ToString output.
+// ---
+
 #include <vector>
 
 #include "ui/gfx/selection_model.h"

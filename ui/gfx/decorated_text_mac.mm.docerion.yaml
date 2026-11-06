@@ -1,0 +1,4 @@
+# Docerion header of decorated_text_mac.mm.
+type: source
+title: DecoratedText macOS implementation
+summary: Builds an NSAttributedString from DecoratedText, applying font, underline, and strikethrough attributes via CoreText and Cocoa.

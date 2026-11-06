@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: macOS font fallback unit tests
+// summary: Tests macOS fallback font selection, covering Hebrew and emoji text, the cascade list and expected fallback font names.
+// ---
+
 #include "ui/gfx/font_fallback.h"
 
 #include "base/strings/stringprintf.h"

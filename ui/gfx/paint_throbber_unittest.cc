@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Paint throbber unit tests
+// summary: Unit tests checking throbber sweep and start angles at various elapsed times, with and without a sweep keyframe offset.
+// ---
+
 #include "ui/gfx/paint_throbber.h"
 
 #include "base/numerics/safe_conversions.h"

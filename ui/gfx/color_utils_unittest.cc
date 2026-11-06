@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Color utilities unit tests
+// summary: Unit tests verifying HSL conversion round trips, contrast calculations, HSL range checks, and HSL shift behavior in color_utils.
+// ---
+
 #include "ui/gfx/color_utils.h"
 
 #include <stdlib.h>

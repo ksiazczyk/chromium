@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shadow value implementation
+// summary: Implements ShadowValue helpers that compute shadow margins and blur regions and build Material Design and Refresh elevation shadow value sets.
+// ---
+
 #include "ui/gfx/shadow_value.h"
 
 #include <stddef.h>

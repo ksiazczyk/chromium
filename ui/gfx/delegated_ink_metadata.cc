@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DelegatedInkMetadata implementation
+// summary: Implements the ToString method that formats delegated ink trail metadata such as point, color, and timestamps.
+// ---
+
 #include "ui/gfx/delegated_ink_metadata.h"
 
 #include <inttypes.h>

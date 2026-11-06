@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android ViewConfiguration helper implementation
+// summary: Implements thread-safe access to Android ViewConfiguration gesture constants such as fling velocities, touch slop, scaling span and cursor blink interval through a JNI helper.
+// ---
+
 #include "ui/gfx/android/view_configuration.h"
 
 #include "base/android/jni_android.h"

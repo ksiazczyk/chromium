@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AChoreographer compatibility implementation
+// summary: Dynamically loads AChoreographer frame, refresh rate and vsync callback functions from libandroid.so, with test instance overrides.
+// ---
+
 #include "ui/gfx/android/achoreographer_compat.h"
 
 #include <dlfcn.h>

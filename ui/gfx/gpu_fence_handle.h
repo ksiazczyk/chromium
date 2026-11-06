@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuFenceHandle header
+// summary: Declares the GpuFenceHandle struct wrapping a scoped platform fence with adopt, clone, release and peek operations.
+// ---
+
 #ifndef UI_GFX_GPU_FENCE_HANDLE_H_
 #define UI_GFX_GPU_FENCE_HANDLE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default font render params for Skia platforms
+// summary: Provides default font render parameters with slight hinting and subpixel positioning, along with device scale factor accessors.
+// ---
+
 #include "base/notimplemented.h"
 #include "ui/gfx/font_render_params.h"
 

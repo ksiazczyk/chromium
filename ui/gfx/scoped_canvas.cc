@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedCanvas implementation
+// summary: Implements saving and restoring canvas drawing state on scope exit, plus horizontal flipping of drawing when the UI layout is RTL.
+// ---
+
 #include "ui/gfx/scoped_canvas.h"
 
 #include "base/i18n/rtl.h"

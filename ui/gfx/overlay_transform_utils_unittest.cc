@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overlay transform utilities unit tests
+// summary: Unit tests verifying that overlay transforms map rectangles as expected and that inversion and concatenation behave correctly, including invalid inputs.
+// ---
+
 #include "ui/gfx/overlay_transform_utils.h"
 
 #include "cc/base/math_util.h"

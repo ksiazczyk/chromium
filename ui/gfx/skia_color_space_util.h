@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia color space utility declarations
+// summary: Declares color space helpers for skcms transfer function evaluation, inversion, identity checks, and matrix conversions between Skia and skcms.
+// ---
+
 #ifndef UI_GFX_SKIA_COLOR_SPACE_UTIL_H_
 #define UI_GFX_SKIA_COLOR_SPACE_UTIL_H_
 

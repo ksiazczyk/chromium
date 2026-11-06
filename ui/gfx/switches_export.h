@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Export macro for gfx switches
+// summary: Defines the GFX_SWITCHES_EXPORT macro that controls symbol visibility for the gfx switches component across shared and static builds.
+// ---
+
 #ifndef UI_GFX_SWITCHES_EXPORT_H_
 #define UI_GFX_SWITCHES_EXPORT_H_
 

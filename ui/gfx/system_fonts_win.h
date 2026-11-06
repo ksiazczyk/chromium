@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows system font API
+// summary: Declares the Windows system font interface, including SystemFont identifiers, adjustment callbacks, font size scaling, and testing helpers for LOGFONT handling.
+// ---
+
 #ifndef UI_GFX_SYSTEM_FONTS_WIN_H_
 #define UI_GFX_SYSTEM_FONTS_WIN_H_
 

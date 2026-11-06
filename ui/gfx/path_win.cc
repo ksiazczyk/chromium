@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows HRGN conversion helpers
+// summary: Converts Skia regions and paths into Windows HRGN handles by combining GDI rectangular regions.
+// ---
+
 #include "ui/gfx/path_win.h"
 
 #include <memory>

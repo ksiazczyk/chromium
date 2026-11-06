@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UTF-16 indexing utilities header
+// summary: Declares helpers for converting between UTF-16 string indices and code point offsets, handling surrogate pairs and unpaired surrogates.
+// ---
+
 #ifndef UI_GFX_UTF16_INDEXING_H_
 #define UI_GFX_UTF16_INDEXING_H_
 

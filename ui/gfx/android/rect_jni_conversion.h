@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rect JNI conversion declarations
+// summary: Declares jni_zero template specializations for converting gfx::Rect and gfx::RectF to and from their Java Rect and RectF counterparts via JNI.
+// ---
+
 #ifndef UI_GFX_ANDROID_RECT_JNI_CONVERSION_H_
 #define UI_GFX_ANDROID_RECT_JNI_CONVERSION_H_
 

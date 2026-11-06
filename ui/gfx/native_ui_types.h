@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-platform native UI type typedefs
+// summary: Defines cross-platform typedefs for native window, view, event and cursor handles used throughout Chromium's UI layer.
+// ---
+
 #ifndef UI_GFX_NATIVE_UI_TYPES_H_
 #define UI_GFX_NATIVE_UI_TYPES_H_
 

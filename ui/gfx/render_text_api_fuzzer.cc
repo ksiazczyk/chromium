@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RenderText API fuzzer
+// summary: Fuzz target that drives randomized RenderText API calls such as styling, alignment and drawing to uncover crashes in the text rendering code.
+// ---
+
 #include <fuzzer/FuzzedDataProvider.h>
 
 #include <algorithm>

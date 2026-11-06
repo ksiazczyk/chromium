@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverlayPriorityHint enum
+// summary: Defines the OverlayPriorityHint enum telling a system compositor how to prioritize overlay promotion, used only by Wayland.
+// ---
+
 #ifndef UI_GFX_OVERLAY_PRIORITY_HINT_H_
 #define UI_GFX_OVERLAY_PRIORITY_HINT_H_
 

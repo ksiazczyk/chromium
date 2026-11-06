@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scrollbar size declaration
+// summary: Declares gfx::scrollbar_size(), which returns the thickness of a scrollbar in web content to match WebCore theme values.
+// ---
+
 #ifndef UI_GFX_SCROLLBAR_SIZE_H_
 #define UI_GFX_SCROLLBAR_SIZE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Selection model class declaration
+// summary: Declares SelectionModel with visual and logical cursor direction enums for BiDi text, caret affinity, and multiple selections.
+// ---
+
 #ifndef UI_GFX_SELECTION_MODEL_H_
 #define UI_GFX_SELECTION_MODEL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of scoped_ui_graphics_push_context_ios.mm.
+type: source
+title: Scoped UI graphics push context for iOS
+summary: Implements ScopedUIGraphicsPushContext, which pushes a Core Graphics context onto the UIKit stack and pops it on destruction.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text utilities interface for accelerator and string measurement helpers
+// summary: Declares gfx functions for accelerator removal, string width and size, valid cut boundaries, RTL alignment flipping and visual border adjustment.
+// ---
+
 #ifndef UI_GFX_TEXT_UTILS_H_
 #define UI_GFX_TEXT_UTILS_H_
 

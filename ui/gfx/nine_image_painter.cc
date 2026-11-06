@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NineImagePainter implementation
+// summary: Implements gfx::NineImagePainter, which paints a nine-patch image split into nine ImageSkia regions onto a canvas with device-pixel scaling to avoid cracks.
+// ---
+
 #include "ui/gfx/nine_image_painter.h"
 
 #include <stddef.h>

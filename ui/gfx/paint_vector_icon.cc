@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vector icon painting implementation
+// summary: Implements rendering of vector icons onto canvases, including path parsing, representation selection by pixel size, and icon description handling.
+// ---
+
 #include "ui/gfx/paint_vector_icon.h"
 
 #include <algorithm>

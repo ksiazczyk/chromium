@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native UI window utilities header
+// summary: Declares GetViewForWindow, a utility returning a NativeView for parenting dialogs off a NativeWindow.
+// ---
+
 #ifndef UI_GFX_NATIVE_UI_UTIL_H_
 #define UI_GFX_NATIVE_UI_UTIL_H_
 

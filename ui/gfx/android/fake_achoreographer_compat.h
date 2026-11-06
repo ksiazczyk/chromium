@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake AChoreographer declarations for tests
+// summary: Declares FakeAChoreographerCompat, which intercepts choreographer APIs and provides triggers for frame, vsync and refresh rate callbacks.
+// ---
+
 #ifndef UI_GFX_ANDROID_FAKE_ACHOREOGRAPHER_COMPAT_H_
 #define UI_GFX_ANDROID_FAKE_ACHOREOGRAPHER_COMPAT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FontRenderParams API
+// summary: Declares structures and functions describing text rendering parameters such as hinting, antialiasing, and subpixel rendering, plus query and cache interfaces.
+// ---
+
 #ifndef UI_GFX_FONT_RENDER_PARAMS_H_
 #define UI_GFX_FONT_RENDER_PARAMS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BiDiLineIterator implementation
+// summary: Implements the BiDiLineIterator wrapper around ICU's bidirectional algorithm to open text and enumerate visual and logical runs.
+// ---
+
 #include "ui/gfx/bidi_line_iterator.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blit header declaring ScrollCanvas
+// summary: Declares gfx::ScrollCanvas, which scrolls a region of a Skia canvas by a given offset.
+// ---
+
 #ifndef UI_GFX_BLIT_H_
 #define UI_GFX_BLIT_H_
 

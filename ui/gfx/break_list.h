@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BreakList template for ranged values
+// summary: Defines the BreakList template managing ordered, non-overlapping ranged values, used to apply colors and styles to text ranges.
+// ---
+
 #ifndef UI_GFX_BREAK_LIST_H_
 #define UI_GFX_BREAK_LIST_H_
 

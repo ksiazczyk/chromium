@@ -4,6 +4,12 @@
 //
 // This file defines utility functions for eliding and formatting UI text.
 
+// ---docerion
+// type: source
+// title: Text eliding and formatting API
+// summary: Declares eliding and formatting utilities such as ElideText, ElideFilename, and StringSlicer for truncating text to fit available widths.
+// ---
+
 #ifndef UI_GFX_TEXT_ELIDER_H_
 #define UI_GFX_TEXT_ELIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ColorSpace class declaration
+// summary: Declares the gfx::ColorSpace class with primary, transfer and matrix ID enums, designed to be compact and safe to send over IPC between processes.
+// ---
+
 #ifndef UI_GFX_COLOR_SPACE_H_
 #define UI_GFX_COLOR_SPACE_H_
 

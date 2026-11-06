@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverlayPlaneData header
+// summary: Declares the OverlayPlaneData struct holding z-order, transform, display bounds, crop rect, blending, color space and HDR metadata for overlay planes.
+// ---
+
 #ifndef UI_GFX_OVERLAY_PLANE_DATA_H_
 #define UI_GFX_OVERLAY_PLANE_DATA_H_
 

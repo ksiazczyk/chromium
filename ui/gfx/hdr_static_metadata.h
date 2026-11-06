@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HDR static display metadata structure
+// summary: Defines HDRStaticMetadata describing a display's HDR static capabilities per CEA 861.G, including supported EOTFs.
+// ---
+
 #ifndef UI_GFX_HDR_STATIC_METADATA_H_
 #define UI_GFX_HDR_STATIC_METADATA_H_
 

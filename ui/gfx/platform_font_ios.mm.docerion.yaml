@@ -1,0 +1,4 @@
+# Docerion header of platform_font_ios.mm.
+type: source
+title: iOS PlatformFont implementation
+summary: Implements PlatformFontIOS using UIKit, providing font metrics, styles, weights, render parameters, and CTFont access for iOS text rendering.

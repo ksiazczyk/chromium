@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake AChoreographer implementation for tests
+// summary: Implements a fake choreographer that records registered callbacks and lets tests trigger vsync, frame and refresh rate events.
+// ---
+
 #include "ui/gfx/android/fake_achoreographer_compat.h"
 
 #include <algorithm>

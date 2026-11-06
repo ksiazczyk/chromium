@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayColorSpaces class declaration
+// summary: Declares the DisplayColorSpaces structure used by display::Display to specify output color spaces and formats for sRGB, wide color gamut and HDR content.
+// ---
+
 #ifndef UI_GFX_DISPLAY_COLOR_SPACES_H_
 #define UI_GFX_DISPLAY_COLOR_SPACES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientNativePixmap interface
+// summary: Interface for a buffer that regular CPU code can map and write while the GPU can also read it, defining plane mapping, memory access, stride, and IPC handle cloning.
+// ---
+
 #ifndef UI_GFX_CLIENT_NATIVE_PIXMAP_H_
 #define UI_GFX_CLIENT_NATIVE_PIXMAP_H_
 

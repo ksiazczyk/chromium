@@ -1,0 +1,4 @@
+# Docerion header of text_utils_ios.mm.
+type: source
+title: iOS text width measurement using CoreText
+summary: iOS implementation of GetStringWidth that measures text with CoreText font attributes.

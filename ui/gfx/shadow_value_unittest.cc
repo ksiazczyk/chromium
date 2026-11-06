@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shadow value margin unit tests
+// summary: Unit tests checking that ShadowValue::GetMargin returns the expected insets for single and multiple shadow values.
+// ---
+
 #include "ui/gfx/shadow_value.h"
 
 #include <stddef.h>

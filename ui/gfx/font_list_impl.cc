@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FontListImpl implementation
+// summary: Implements FontListImpl, the internal backing of FontList, building descriptions and computing shared height, baseline and metrics.
+// ---
+
 #include "ui/gfx/font_list_impl.h"
 
 #include <stddef.h>

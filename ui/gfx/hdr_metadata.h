@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HDRMetadata structure for HDR10 and VP9 HDR
+// summary: Defines the HDRMetadata struct holding mastering display color volume, content light level and adaptive global tone mapping metadata.
+// ---
+
 #ifndef UI_GFX_HDR_METADATA_H_
 #define UI_GFX_HDR_METADATA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: gfx::Font implementation
+// summary: Implements the gfx::Font wrapper that delegates metrics, styling and weight queries to a PlatformFont, including conversion of integer values to font weights.
+// ---
+
 #include "ui/gfx/font.h"
 
 #include <algorithm>

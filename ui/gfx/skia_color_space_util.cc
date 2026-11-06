@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia color space utility implementation
+// summary: Implements helpers for evaluating and inverting skcms transfer functions, checking identity approximations, and converting between SkM44 and skcms matrices.
+// ---
+
 #include "ui/gfx/skia_color_space_util.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia pixmap and data span conversion utilities
+// summary: Implements conversions between SkPixmap and SkData memory and base byte spans, with and without copying.
+// ---
+
 #include "ui/gfx/skia_span_util.h"
 
 #include <limits>

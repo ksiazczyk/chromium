@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for text utilities
+// summary: Unit tests covering string width and size, visual border adjustment, cap height center offsets and accelerator character removal.
+// ---
+
 #include "ui/gfx/text_utils.h"
 
 #include <stddef.h>

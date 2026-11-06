@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Color analysis unit tests
+// summary: Unit tests for color analysis that check K-means dominant color calculation against small embedded PNG fixtures and generated bitmaps.
+// ---
+
 #include "ui/gfx/color_analysis.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AChoreographer compatibility declarations
+// summary: Declares AChoreographerCompat and AChoreographerCompat33 structs wrapping Android choreographer function pointer types.
+// ---
+
 #ifndef UI_GFX_ANDROID_ACHOREOGRAPHER_COMPAT_H_
 #define UI_GFX_ANDROID_ACHOREOGRAPHER_COMPAT_H_
 

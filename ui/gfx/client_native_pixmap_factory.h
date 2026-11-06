@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientNativePixmapFactory interface
+// summary: Ozone-facing factory interface for importing client native pixmaps from handles in non-GPU processes, validated against a given size, format, and buffer usage.
+// ---
+
 #ifndef UI_GFX_CLIENT_NATIVE_PIXMAP_FACTORY_H_
 #define UI_GFX_CLIENT_NATIVE_PIXMAP_FACTORY_H_
 

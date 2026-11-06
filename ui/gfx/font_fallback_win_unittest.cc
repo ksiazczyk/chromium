@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows font fallback unit tests
+// summary: Unit tests for parsing FontLink entries and font family strings plus fallback behavior including CJK locale fallback on Windows.
+// ---
+
 #include "ui/gfx/font_fallback_win.h"
 
 #include <string_view>

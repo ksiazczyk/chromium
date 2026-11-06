@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vector icon parsing implementation
+// summary: Implements parsing of vector icon path text into path elements, plus command argument counts and default icon size lookup.
+// ---
+
 #include "ui/gfx/vector_icon_utils.h"
 
 #include <ostream>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color conversion implementations
+// summary: Implements color conversion functions between Lab, Oklab, Lch, HSL, HWB, sRGB and XYZD50 color spaces, including Oklab gamut mapping, for use by Blink.
+// ---
+
 #include "ui/gfx/color_conversions.h"
 
 #include <cmath>

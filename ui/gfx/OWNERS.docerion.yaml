@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Per-file code owners for ui/gfx
+summary: Assigns per-file owners for render text, fonts, colors, displays, overlays, buffers and other areas, deferring remaining files to ui/OWNERS.

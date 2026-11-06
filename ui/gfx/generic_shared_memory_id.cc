@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generic shared memory ID tracing implementation
+// summary: Implements generation of memory allocator dump GUIDs for tracing generic shared memory allocations.
+// ---
+
 #include "ui/gfx/generic_shared_memory_id.h"
 
 #include "base/format_macros.h"

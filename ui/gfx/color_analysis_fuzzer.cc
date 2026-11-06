@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Color analysis fuzzer
+// summary: LibFuzzer harness that exercises CalculateKMeanColorOfBitmap with randomized image dimensions, HSL bounds, and pixel data to find crashes.
+// ---
+
 #include <fuzzer/FuzzedDataProvider.h>
 #include <algorithm>
 #include <vector>

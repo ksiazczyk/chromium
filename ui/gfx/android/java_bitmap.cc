@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Java bitmap conversion implementation
+// summary: Converts between Java android.graphics.Bitmap and SkBitmap, mapping bitmap formats and locking pixel data via JNI.
+// ---
+
 #include "ui/gfx/android/java_bitmap.h"
 
 #include <android/bitmap.h>

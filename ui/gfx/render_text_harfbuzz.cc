@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderTextHarfBuzz implementation
+// summary: Implements HarfBuzz-based text shaping, bidirectional run handling, font fallback and glyph positioning for the RenderTextHarfBuzz renderer.
+// ---
+
 #include "ui/gfx/render_text_harfbuzz.h"
 
 #include <algorithm>

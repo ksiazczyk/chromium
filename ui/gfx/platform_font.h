@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformFont abstract interface for platform fonts
+// summary: Defines the abstract PlatformFont interface with factory methods and virtual font metric accessors such as height, baseline, weight, and style.
+// ---
+
 #ifndef UI_GFX_PLATFORM_FONT_H_
 #define UI_GFX_PLATFORM_FONT_H_
 

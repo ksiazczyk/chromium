@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Selection bound class declaration
+// summary: Declares the SelectionBound type describing selection end-point edges, its caret and handle types, and rect helper functions.
+// ---
+
 #ifndef UI_GFX_SELECTION_BOUND_H_
 #define UI_GFX_SELECTION_BOUND_H_
 

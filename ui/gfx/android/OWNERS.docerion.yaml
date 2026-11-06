@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for ui/gfx/android
+summary: Lists the reviewers responsible for changes to the Android gfx directory.

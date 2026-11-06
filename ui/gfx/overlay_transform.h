@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverlayTransform enum
+// summary: Defines the OverlayTransform enum describing flips and clockwise rotations applied to a buffer before presenting it to screen.
+// ---
+
 #ifndef UI_GFX_OVERLAY_TRANSFORM_H_
 #define UI_GFX_OVERLAY_TRANSFORM_H_
 

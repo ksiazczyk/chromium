@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BufferUsageToString declaration
+// summary: Declares BufferUsageToString, which returns the name of a BufferUsage value as a string.
+// ---
+
 #ifndef UI_GFX_BUFFER_USAGE_UTIL_H_
 #define UI_GFX_BUFFER_USAGE_UTIL_H_
 

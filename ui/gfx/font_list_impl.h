@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FontListImpl class header
+// summary: Declares FontListImpl, a ref-counted internal representation of a font list holding either Font objects or a description string.
+// ---
+
 #ifndef UI_GFX_FONT_LIST_IMPL_H_
 #define UI_GFX_FONT_LIST_IMPL_H_
 
