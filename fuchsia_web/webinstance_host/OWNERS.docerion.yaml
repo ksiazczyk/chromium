@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for Fuchsia security review
+summary: Routes per-file ownership of CML manifests and web_instance_host sources to the Fuchsia security owners for sandbox security review.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8 platform page allocator declaration
+// summary: Declares a v8::PageAllocator implementation for gin backed by PartitionAlloc, compiled only when PartitionAlloc is enabled.
+// ---
+
 #ifndef GIN_V8_PLATFORM_PAGE_ALLOCATOR_H_
 #define GIN_V8_PLATFORM_PAGE_ALLOCATOR_H_
 

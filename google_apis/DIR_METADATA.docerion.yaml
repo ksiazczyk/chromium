@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for issue tracking
+summary: Maps the google_apis directory to the Services>SignIn Monorail component and a public Buganizer component for issue tracking.

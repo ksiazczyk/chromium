@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthService class declaration
+// summary: Declares the AuthService class that provides OAuth2 authentication for Google services, with observer management and token access on the UI thread.
+// ---
+
 #ifndef GOOGLE_APIS_COMMON_AUTH_SERVICE_H_
 #define GOOGLE_APIS_COMMON_AUTH_SERVICE_H_
 

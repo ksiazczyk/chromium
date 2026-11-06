@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Function template callback support
+// summary: Implements callback holder plumbing and conversion error throwing for V8 function template dispatch.
+// ---
+
 #include "gin/function_template.h"
 
 #include "base/strings/strcat.h"

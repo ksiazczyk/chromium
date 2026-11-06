@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive API request class declarations
+// summary: Declares Drive API request classes, callbacks, and helpers for file, change list, and upload operations with partial field support.
+// ---
+
 #ifndef GOOGLE_APIS_DRIVE_DRIVE_API_REQUESTS_H_
 #define GOOGLE_APIS_DRIVE_DRIVE_API_REQUESTS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the gin directory
+summary: Lists the owners of the gin directory with per-file owner rules for array_buffer.cc and wrappable_pointer_tags.h.

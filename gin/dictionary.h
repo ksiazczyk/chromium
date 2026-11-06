@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictionary class for V8 bindings
+// summary: Defines a stack-allocated wrapper for getting and setting values on JavaScript objects passed to or returned by bindings.
+// ---
+
 #ifndef GIN_DICTIONARY_H_
 #define GIN_DICTIONARY_H_
 

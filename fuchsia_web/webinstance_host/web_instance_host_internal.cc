@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebInstanceHost internal helpers implementation
+// summary: Implements internal helpers that translate CreateContextParams, context feature flags, and DRM support into web_instance launch command-line arguments.
+// ---
+
 #include "fuchsia_web/webinstance_host/web_instance_host_internal.h"
 
 #include <fuchsia/web/cpp/fidl.h>

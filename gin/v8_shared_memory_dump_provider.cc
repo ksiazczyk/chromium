@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8 shared memory dump provider implementation
+// summary: Implements a memory dump provider that reports V8 shared read-only space statistics to Chrome's tracing infrastructure.
+// ---
+
 #include "gin/v8_shared_memory_dump_provider.h"
 
 #include <string>

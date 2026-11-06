@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8 initializer class declaration
+// summary: Declares the V8Initializer class with static methods to initialize V8 and load snapshots from default resources or user-provided files.
+// ---
+
 #ifndef GIN_V8_INITIALIZER_H_
 #define GIN_V8_INITIALIZER_H_
 

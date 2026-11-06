@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: List students request implementation
+// summary: Implements the Google Classroom API request that fetches a page of students in a course and parses the JSON response into a Students object.
+// ---
+
 #include "google_apis/classroom/classroom_api_list_students_request.h"
 
 #include <memory>

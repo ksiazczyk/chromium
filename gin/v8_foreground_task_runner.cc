@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8 foreground task runner implementation
+// summary: Implements V8ForegroundTaskRunner by posting V8 tasks, delayed tasks, and idle tasks to a Chromium base SingleThreadTaskRunner.
+// ---
+
 #include "gin/v8_foreground_task_runner.h"
 
 #include "base/functional/bind.h"

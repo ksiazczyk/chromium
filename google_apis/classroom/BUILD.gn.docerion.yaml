@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the Classroom API library
+summary: Defines the classroom static library and classroom_unittests source set, listing sources and dependencies for the Classroom API code.

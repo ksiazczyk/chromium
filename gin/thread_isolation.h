@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadIsolationData declaration
+// summary: Declares the ThreadIsolationData struct holding write-protected thread isolation data, including the isolated allocator and pkey.
+// ---
+
 #ifndef GIN_THREAD_ISOLATION_H_
 #define GIN_THREAD_ISOLATION_H_
 

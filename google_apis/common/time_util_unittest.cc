@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TimeUtil unit tests
+// summary: Unit tests for google_apis::util time helpers, verifying GetTimeFromString parsing of local times, UTC, timezone offsets, milliseconds, and date-only conversion.
+// ---
+
 #include "google_apis/common/time_util.h"
 
 #include "base/strings/stringprintf.h"

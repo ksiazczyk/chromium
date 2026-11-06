@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Drive base requests unit tests
+// summary: Unit tests for Drive base request classes, covering multipart upload request generation and request behavior with a fake auth service.
+// ---
+
 #include "google_apis/drive/drive_base_requests.h"
 
 #include <stdint.h>

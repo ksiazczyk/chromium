@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebInstanceHost class declaration
+// summary: Declares the WebInstanceHost base class for launching web_instance components from CreateContextParams, including manifest and config-data requirements for users.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBINSTANCE_HOST_WEB_INSTANCE_HOST_H_
 #define FUCHSIA_WEB_WEBINSTANCE_HOST_WEB_INSTANCE_HOST_H_
 

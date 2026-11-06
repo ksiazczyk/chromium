@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebInstanceHost switch constants
+// summary: Defines the kWithWebui command-line switch constant used to launch web_instance from the web_engine_with_webui package instead of the standard web_engine package.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBINSTANCE_HOST_WEB_INSTANCE_HOST_CONSTANTS_H_
 #define FUCHSIA_WEB_WEBINSTANCE_HOST_WEB_INSTANCE_HOST_CONSTANTS_H_
 

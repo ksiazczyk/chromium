@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive API URL generator class declaration
+// summary: Declares the DriveApiUrlGenerator class and FilesListCorpora enum used to build URLs for Drive API requests in production and tests.
+// ---
+
 #ifndef GOOGLE_APIS_DRIVE_DRIVE_API_URL_GENERATOR_H_
 #define GOOGLE_APIS_DRIVE_DRIVE_API_URL_GENERATOR_H_
 

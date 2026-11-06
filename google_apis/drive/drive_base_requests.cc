@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive base request implementation
+// summary: Implements base classes for Drive HTTP requests, including multipart body generation, JSON parsing and mapping of Drive error reasons.
+// ---
+
 #include "google_apis/drive/drive_base_requests.h"
 
 #include <stddef.h>

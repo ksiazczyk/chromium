@@ -5,6 +5,12 @@
 // This file provides base classes used to issue HTTP requests for Google
 // APIs.
 
+// ---docerion
+// type: source
+// title: Drive base request class declarations
+// summary: Declares base classes for issuing Drive API HTTP requests, multipart body generation, batch upload delegates and related callback types.
+// ---
+
 #ifndef GOOGLE_APIS_DRIVE_DRIVE_BASE_REQUESTS_H_
 #define GOOGLE_APIS_DRIVE_DRIVE_BASE_REQUESTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ApiErrorCode enum for Google API responses
+// summary: Declares the ApiErrorCode enum covering HTTP, common, Drive and YouTube Music error codes plus helper function declarations.
+// ---
+
 #ifndef GOOGLE_APIS_COMMON_API_ERROR_CODES_H_
 #define GOOGLE_APIS_COMMON_API_ERROR_CODES_H_
 

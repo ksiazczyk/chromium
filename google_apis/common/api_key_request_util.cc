@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Adding API keys to requests
+// summary: Implements adding the default or a specific API key to requests as an X-Goog-Api-Key header and reading keys from URLs or headers.
+// ---
+
 #include "google_apis/common/api_key_request_util.h"
 
 #include "base/version_info/channel.h"

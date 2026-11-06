@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GIN_EXPORT macro definitions
+// summary: Defines the GIN_EXPORT macro controlling shared library visibility on Windows and other platforms.
+// ---
+
 #ifndef GIN_GIN_EXPORT_H_
 #define GIN_GIN_EXPORT_H_
 

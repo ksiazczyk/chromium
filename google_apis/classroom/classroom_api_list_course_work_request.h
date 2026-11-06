@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Classroom API list course work request header
+// summary: Declares ListCourseWorkRequest, a URL fetch request returning published course work for a course, with optional fields for materials and work type.
+// ---
+
 #ifndef GOOGLE_APIS_CLASSROOM_CLASSROOM_API_LIST_COURSE_WORK_REQUEST_H_
 #define GOOGLE_APIS_CLASSROOM_CLASSROOM_API_LIST_COURSE_WORK_REQUEST_H_
 

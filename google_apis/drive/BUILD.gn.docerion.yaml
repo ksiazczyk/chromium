@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the Drive API source sets
+summary: Defines the drive source set and its drive_unittests test target, listing sources and dependencies for the Google Drive API code.

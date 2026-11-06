@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thread-isolated allocator for the V8 platform
+// summary: Declares a gin wrapper around PartitionAlloc's thread-isolated pool that is passed to V8, guarded by pkey-based thread isolation build flags.
+// ---
+
 #ifndef GIN_V8_PLATFORM_THREAD_ISOLATED_ALLOCATOR_H_
 #define GIN_V8_PLATFORM_THREAD_ISOLATED_ALLOCATOR_H_
 

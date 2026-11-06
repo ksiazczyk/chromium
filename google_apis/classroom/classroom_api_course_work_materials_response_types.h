@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Course work materials response types declarations
+// summary: Declares CourseWorkMaterialItem and CourseWork classes that model Classroom course work materials API responses with pagination support.
+// ---
+
 #ifndef GOOGLE_APIS_CLASSROOM_CLASSROOM_API_COURSE_WORK_MATERIALS_RESPONSE_TYPES_H_
 #define GOOGLE_APIS_CLASSROOM_CLASSROOM_API_COURSE_WORK_MATERIALS_RESPONSE_TYPES_H_
 

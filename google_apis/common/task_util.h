@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Callback composition and task relay utilities
+// summary: Declares helpers to run tasks via task runners and to compose or relay callbacks so they execute on the current thread.
+// ---
+
 #ifndef GOOGLE_APIS_COMMON_TASK_UTIL_H_
 #define GOOGLE_APIS_COMMON_TASK_UTIL_H_
 

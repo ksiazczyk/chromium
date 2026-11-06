@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Classroom API list courses request header
+// summary: Declares ListCoursesRequest, a URL fetch request returning courses the user may view, filtered by student ID, teacher ID, and pagination token.
+// ---
+
 #ifndef GOOGLE_APIS_CLASSROOM_CLASSROOM_API_LIST_COURSES_REQUEST_H_
 #define GOOGLE_APIS_CLASSROOM_CLASSROOM_API_LIST_COURSES_REQUEST_H_
 

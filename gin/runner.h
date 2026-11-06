@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Runner interface for running code in a V8 context
+// summary: Declares the Runner interface for running scripts in a v8::Context, with a stack-allocated Scope and weak pointer support.
+// ---
+
 #ifndef GIN_RUNNER_H_
 #define GIN_RUNNER_H_
 

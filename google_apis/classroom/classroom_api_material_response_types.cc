@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Material response type implementation
+// summary: Implements conversion of Classroom API material JSON into a Material object, detecting drive file, YouTube video, link, form, guided learning and notebook types.
+// ---
+
 #include "google_apis/classroom/classroom_api_material_response_types.h"
 
 #include <string>

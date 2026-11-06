@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Calendar API request implementation
+// summary: Implements the Calendar API request classes that fetch calendar lists and events, including field selection, result limits, and rate-limit error mapping.
+// ---
+
 #include "google_apis/calendar/calendar_api_requests.h"
 
 #include <stddef.h>

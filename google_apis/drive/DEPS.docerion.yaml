@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the Drive API directory
+summary: Allows includes from components/signin/public and mojo/public/cpp within the Drive API directory.

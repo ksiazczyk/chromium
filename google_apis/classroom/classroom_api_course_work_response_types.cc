@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Course work response types implementation
+// summary: Implements JSON parsing of Classroom course work items, including work types, states, materials and due date and time handling.
+// ---
+
 #include "google_apis/classroom/classroom_api_course_work_response_types.h"
 
 #include <memory>

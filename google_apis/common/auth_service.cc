@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthService implementation for Google API OAuth2 tokens
+// summary: Implements the AuthService class that fetches and refreshes OAuth2 access tokens via IdentityManager and reports auth errors for Google services.
+// ---
+
 #include "google_apis/common/auth_service.h"
 
 #include <string>

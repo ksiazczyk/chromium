@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8 foreground task runner with locker header
+// summary: Declares V8ForegroundTaskRunnerWithLocker, which wraps task posting with v8::Locker acquisition for multi-threaded isolate access.
+// ---
+
 #ifndef GIN_V8_FOREGROUND_TASK_RUNNER_WITH_LOCKER_H_
 #define GIN_V8_FOREGROUND_TASK_RUNNER_WITH_LOCKER_H_
 

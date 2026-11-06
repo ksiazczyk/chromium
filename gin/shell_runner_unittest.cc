@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShellRunner unit test
+// summary: Tests that ShellRunner executes a script and stores the expected result on the global object.
+// ---
+
 #include "gin/shell_runner.h"
 
 #include "gin/converter.h"

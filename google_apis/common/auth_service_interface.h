@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthServiceInterface for authenticated requests
+// summary: Defines the abstract authentication service interface required by authenticated Google API requests, including the AuthStatusCallback type.
+// ---
+
 #ifndef GOOGLE_APIS_COMMON_AUTH_SERVICE_INTERFACE_H_
 #define GOOGLE_APIS_COMMON_AUTH_SERVICE_INTERFACE_H_
 

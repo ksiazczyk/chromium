@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShellRunner and ShellRunnerDelegate declarations
+// summary: Declares ShellRunner, which executes scripts directly in a V8 context, and the delegate interface for customizing its behavior.
+// ---
+
 #ifndef GIN_SHELL_RUNNER_H_
 #define GIN_SHELL_RUNNER_H_
 

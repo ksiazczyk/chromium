@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: List students request class declaration
+// summary: Declares ListStudentsRequest, a URL fetch request returning students of a course with page token based pagination.
+// ---
+
 #ifndef GOOGLE_APIS_CLASSROOM_CLASSROOM_API_LIST_STUDENTS_REQUEST_H_
 #define GOOGLE_APIS_CLASSROOM_CLASSROOM_API_LIST_STUDENTS_REQUEST_H_
 

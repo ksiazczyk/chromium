@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Calendar API response types
+// summary: Verifies parsing of calendar list and event list JSON fixtures, covering selected, primary, status, attendee, and time fields.
+// ---
+
 #include "google_apis/calendar/calendar_api_response_types.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8 shared memory dump provider header
+// summary: Declares a memory dump provider that dumps summarized stats about V8 memory shared between isolates in the same process.
+// ---
+
 #ifndef GIN_V8_SHARED_MEMORY_DUMP_PROVIDER_H_
 #define GIN_V8_SHARED_MEMORY_DUMP_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Classroom API student submissions response types
+// summary: Verifies parsing of student submissions responses, covering empty results, submission states, grades, and next-page tokens.
+// ---
+
 #include "google_apis/classroom/classroom_api_student_submissions_response_types.h"
 
 #include <memory>

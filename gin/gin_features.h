@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8 feature flag declarations
+// summary: Declares the exported base::Feature flags and parameters that expose V8 runtime options to Chromium.
+// ---
+
 #ifndef GIN_GIN_FEATURES_H_
 #define GIN_GIN_FEATURES_H_
 

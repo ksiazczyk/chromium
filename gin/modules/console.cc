@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gin Console module implementation
+// summary: Implements the Gin Console module by registering a log function that joins its arguments and prints them to stdout.
+// ---
+
 #include "gin/modules/console.h"
 
 #include <stdio.h>

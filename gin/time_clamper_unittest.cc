@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TimeClamper unit tests
+// summary: Unit tests verifying TimeClamper's millisecond and high-resolution clamping behavior, including threshold and negative-time cases with a fixed secret.
+// ---
+
 #include "gin/time_clamper.h"
 
 #include "base/time/time.h"

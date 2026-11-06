@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Classroom API list course work request implementation
+// summary: Implements ListCourseWorkRequest, which fetches course work items for a course from the Google Classroom API with optional additional requested fields.
+// ---
+
 #include "google_apis/classroom/classroom_api_list_course_work_request.h"
 
 #include <memory>

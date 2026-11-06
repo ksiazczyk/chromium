@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8 initializer implementation
+// summary: Implements V8 initialization for gin, including locating and memory-mapping external V8 startup snapshot files per platform and exposing snapshot data to V8.
+// ---
+
 #include "gin/v8_initializer.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FuchsiaWebDebugProxy class declaration
+// summary: Declares FuchsiaWebDebugProxy, which multiplexes the fuchsia.web.Debug protocol so one Debug instance can observe DevTools across multiple web instance components.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBINSTANCE_HOST_FUCHSIA_WEB_DEBUG_PROXY_H_
 #define FUCHSIA_WEB_WEBINSTANCE_HOST_FUCHSIA_WEB_DEBUG_PROXY_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for google_apis dependencies
+summary: Defines include rules for the google_apis directory, blocking chrome and content headers while allowing base/test, crypto, net and network service includes.

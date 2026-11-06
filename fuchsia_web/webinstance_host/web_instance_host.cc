@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebInstanceHost implementation
+// summary: Implements WebInstanceHost, which creates, binds, exposes, and destroys web_instance components in a dynamic Fuchsia collection based on CreateContextParams.
+// ---
+
 #include "fuchsia_web/webinstance_host/web_instance_host.h"
 
 #include <fuchsia/component/decl/cpp/fidl.h>

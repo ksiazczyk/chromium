@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wrappable unit tests
+// summary: Tests wrapping of C++ objects in V8, object template building, and property and method binding for wrappable classes.
+// ---
+
 #include "gin/wrappable.h"
 
 #include <utility>

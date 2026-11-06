@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8 platform implementation
+// summary: Implements the gin V8 platform, bridging V8 tasks, jobs, page allocation, and tracing to Chromium's base threading and PartitionAlloc facilities.
+// ---
+
 #include "gin/public/v8_platform.h"
 
 #include <algorithm>

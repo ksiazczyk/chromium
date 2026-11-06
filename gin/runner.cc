@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Runner base class implementation
+// summary: Implements the Runner constructor, destructor, and Scope that enters the runner's V8 isolate and context.
+// ---
+
 #include "gin/runner.h"
 
 namespace gin {

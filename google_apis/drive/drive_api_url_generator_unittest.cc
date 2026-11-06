@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Drive API URL generator unit tests
+// summary: Unit tests verifying that DriveApiUrlGenerator produces the expected Drive API URLs for files, changes, uploads and team drive operations.
+// ---
+
 
 #include "google_apis/drive/drive_api_url_generator.h"
 

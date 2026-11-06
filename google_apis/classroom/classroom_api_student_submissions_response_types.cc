@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Student submissions response types implementation
+// summary: Implements StudentSubmission and StudentSubmissions response types, converting JSON fields such as state, assigned grade and update time.
+// ---
+
 #include "google_apis/classroom/classroom_api_student_submissions_response_types.h"
 
 #include <string_view>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for google_apis
+summary: Sets code ownership for google_apis, delegating to components/signin owners and applying per-file ownership for BUILD.gn.

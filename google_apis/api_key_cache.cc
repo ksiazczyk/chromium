@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the API key cache
+// summary: Implements ApiKeyCache, resolving Google API keys and OAuth client credentials from command-line switches, config files, environment variables, feature flags, Info.plist and baked-in values.
+// ---
+
 #include "google_apis/api_key_cache.h"
 
 #include <stddef.h>

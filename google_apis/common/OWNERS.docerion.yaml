@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for google_apis/common
+summary: Delegates code ownership of the common folder to the owners listed in the google_apis/drive OWNERS file.

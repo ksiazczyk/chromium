@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default API keys struct definition
+// summary: Defines a struct bundling compile-time default Google API key values and unset-token constants, useful for injecting keys in tests.
+// ---
+
 #ifndef GOOGLE_APIS_DEFAULT_API_KEYS_H_
 #define GOOGLE_APIS_DEFAULT_API_KEYS_H_
 

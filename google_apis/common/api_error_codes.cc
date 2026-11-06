@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: API error code string conversion
+// summary: Implements string names for ApiErrorCode values and success checks for the Drive and Calendar APIs.
+// ---
+
 #include "google_apis/common/api_error_codes.h"
 
 #include "base/strings/string_number_conversions.h"

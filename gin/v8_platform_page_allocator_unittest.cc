@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V8 platform page allocator unit tests
+// summary: Tests that V8 page permissions map to the expected PartitionAlloc configurations and that executable pages are BTI-protected on ARM64.
+// ---
+
 #include "gin/v8_platform_page_allocator.h"
 
 #include "base/compiler_specific.h"

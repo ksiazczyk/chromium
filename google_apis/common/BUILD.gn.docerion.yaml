@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for google_apis/common
+summary: GN build file defining the common and request_util static libraries, a test_support source set and unit test targets for the Google API helpers.

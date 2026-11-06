@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArrayBuffer allocator and converter implementation
+// summary: Implements the PartitionAlloc-backed ArrayBufferAllocator plus ArrayBuffer and ArrayBufferView classes and their V8 converters.
+// ---
+
 #include "gin/array_buffer.h"
 
 #include <stddef.h>

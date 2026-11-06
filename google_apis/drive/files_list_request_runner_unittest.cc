@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Files list request runner unit tests
+// summary: Unit tests for the Drive files list request runner, exercising requests over an embedded test server including retry handling for responseTooLarge and quotaExceeded errors.
+// ---
+
 #include "google_apis/drive/files_list_request_runner.h"
 
 #include <memory>

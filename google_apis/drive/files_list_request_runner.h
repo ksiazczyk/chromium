@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Files list request runner class declaration
+// summary: Declares FilesListRequestRunner, which starts FilesListRequest calls and retries with a smaller result size on DRIVE_RESPONSE_TOO_LARGE errors.
+// ---
+
 #ifndef GOOGLE_APIS_DRIVE_FILES_LIST_REQUEST_RUNNER_H_
 #define GOOGLE_APIS_DRIVE_FILES_LIST_REQUEST_RUNNER_H_
 

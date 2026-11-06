@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test helper declarations for API key requests
+// summary: Declares test helpers for detecting and reading API keys on network resource requests.
+// ---
+
 #ifndef GOOGLE_APIS_COMMON_API_KEY_REQUEST_TEST_UTIL_H_
 #define GOOGLE_APIS_COMMON_API_KEY_REQUEST_TEST_UTIL_H_
 

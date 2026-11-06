@@ -1,3 +1,13 @@
+---
+type: readme
+title: Gin - Lightweight bindings for V8
+summary: Introduces Gin, a set of utilities for working with V8, and outlines key pieces such as converter.h, function_template.h, wrappable.h, and runner.h.
+relations:
+  - documents /gin/converter.h
+  - documents /gin/wrappable.h
+  - documents /gin/runner.h
+---
+
 Gin - Lightweight bindings for V8
 =================================
 

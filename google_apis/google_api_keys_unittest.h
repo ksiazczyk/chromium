@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GoogleAPIKeysTest fixture header
+// summary: Defines the GoogleAPIKeysTest fixture that caches and restores API key environment variables around each test.
+// ---
+
 #ifndef GOOGLE_APIS_GOOGLE_API_KEYS_UNITTEST_H_
 #define GOOGLE_APIS_GOOGLE_API_KEYS_UNITTEST_H_
 

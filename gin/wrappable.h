@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wrappable base class for V8-backed C++ objects
+// summary: Declares the Wrappable base class that binds C++ objects to V8 wrapper objects, with usage guidance and a converter for subclasses.
+// ---
+
 #ifndef GIN_WRAPPABLE_H_
 #define GIN_WRAPPABLE_H_
 

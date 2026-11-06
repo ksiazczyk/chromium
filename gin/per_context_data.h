@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PerContextData class declaration
+// summary: Declares PerContextData, a garbage-collected holder of Gin data that varies per v8::Context and supports arbitrary user data.
+// ---
+
 #ifndef GIN_PER_CONTEXT_DATA_H_
 #define GIN_PER_CONTEXT_DATA_H_
 

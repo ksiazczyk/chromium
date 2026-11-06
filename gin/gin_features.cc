@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8 feature flag definitions
+// summary: Defines Chromium base::Feature flags and parameters controlling V8 behavior such as GC, compilation, and code flushing.
+// ---
+
 #include "gin/gin_features.h"
 
 #include "base/metrics/field_trial_params.h"

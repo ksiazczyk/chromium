@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for API key request utilities
+// summary: Verifies that default and explicit API keys are added as request headers and that empty or duplicate keys are rejected in debug builds.
+// ---
+
 #include "google_apis/common/api_key_request_util.h"
 
 #include "base/test/gtest_util.h"

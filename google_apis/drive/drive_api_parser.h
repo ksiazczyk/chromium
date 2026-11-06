@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive API resource parser declarations
+// summary: Declares classes for Drive API v2 resources, including AboutResource, TeamDriveResource, FileResource, and list types, with JSON conversion support.
+// ---
+
 #ifndef GOOGLE_APIS_DRIVE_DRIVE_API_PARSER_H_
 #define GOOGLE_APIS_DRIVE_DRIVE_API_PARSER_H_
 

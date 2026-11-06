@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of gin::Arguments
+// summary: Implements the Arguments wrapper for V8 callback info, including argument access, holder creation context lookup, and type error throwing.
+// ---
+
 #include "gin/arguments.h"
 
 #include "base/strings/stringprintf.h"

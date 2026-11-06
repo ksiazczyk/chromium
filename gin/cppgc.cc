@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cppgc initialization from the V8 platform
+// summary: Initializes and shuts down the cppgc garbage collector using the gin V8 platform and provides an allocation sampler adapter for heap profiling.
+// ---
+
 #include "gin/public/cppgc.h"
 
 #include "base/allocator/dispatcher/notification_data.h"

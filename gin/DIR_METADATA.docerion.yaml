@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for gin
+summary: Maps the gin directory to the Blink>Bindings monorail component, the blink-reviews-bindings team email, and a Buganizer component.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Student submissions response types for Google Classroom API
+// summary: Declares StudentSubmission and StudentSubmissions classes that model Google Classroom student submission responses and convert them from JSON.
+// ---
+
 #ifndef GOOGLE_APIS_CLASSROOM_CLASSROOM_API_STUDENT_SUBMISSIONS_RESPONSE_TYPES_H_
 #define GOOGLE_APIS_CLASSROOM_CLASSROOM_API_STUDENT_SUBMISSIONS_RESPONSE_TYPES_H_
 

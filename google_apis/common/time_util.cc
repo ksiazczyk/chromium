@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RFC 3339 time parsing and formatting implementation
+// summary: Implements parsing of RFC 3339 date/time and date-only strings into base::Time plus formatting times back to strings.
+// ---
+
 #include "google_apis/common/time_util.h"
 
 #include <string>

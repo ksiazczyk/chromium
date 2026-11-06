@@ -1,0 +1,4 @@
+# Docerion header of google_api_keys_mac_unittest.mm.
+type: test
+title: Mac unit tests for Google API keys
+summary: Tests the Google API keys implementation on macOS, including Info.plist overrides via mocked bundles and feature-based key overrides.

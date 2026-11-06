@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Classroom API students response types
+// summary: Declares Name, UserProfile, Student, and Students classes modeling Google Classroom student responses with JSON conversion support.
+// ---
+
 #ifndef GOOGLE_APIS_CLASSROOM_CLASSROOM_API_STUDENTS_RESPONSE_TYPES_H_
 #define GOOGLE_APIS_CLASSROOM_CLASSROOM_API_STUDENTS_RESPONSE_TYPES_H_
 

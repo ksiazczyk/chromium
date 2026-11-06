@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: If-Match header generation unit tests
+// summary: Unit tests verifying that GenerateIfMatchHeader returns the match-all header for empty etags and the etag-specific header otherwise.
+// ---
+
 #include "google_apis/drive/request_util.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Calendar API response type parsing implementation
+// summary: Implements JSON parsing for calendar response types such as CalendarList, SingleCalendar, CalendarEvent, and Attachment, including status and conference data conversion.
+// ---
+
 #include "google_apis/calendar/calendar_api_response_types.h"
 
 #include <stddef.h>

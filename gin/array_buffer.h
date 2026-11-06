@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArrayBuffer and allocator declarations
+// summary: Declares gin::ArrayBufferAllocator, gin::ArrayBuffer, gin::ArrayBufferView, and their Converter specializations for V8 buffer types.
+// ---
+
 #ifndef GIN_ARRAY_BUFFER_H_
 #define GIN_ARRAY_BUFFER_H_
 

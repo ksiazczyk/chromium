@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Classroom API list course work materials request header
+// summary: Declares ListCourseWorkMaterialRequest, a URL fetch request returning course work materials visible to the requester for a given course and page token.
+// ---
+
 #ifndef GOOGLE_APIS_CLASSROOM_CLASSROOM_API_LIST_COURSE_WORK_MATERIALS_REQUEST_H_
 #define GOOGLE_APIS_CLASSROOM_CLASSROOM_API_LIST_COURSE_WORK_MATERIALS_REQUEST_H_
 

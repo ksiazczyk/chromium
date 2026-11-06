@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TimeClamper header
+// summary: Declares TimeClamper, a class that clamps time values to millisecond precision and adds pseudorandom jitter so JavaScript cannot observe smoothly advancing time.
+// ---
+
 #ifndef GIN_TIME_CLAMPER_H_
 #define GIN_TIME_CLAMPER_H_
 

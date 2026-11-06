@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GC-safe weak cell and factory for Oilpan objects
+// summary: Defines WeakCell and WeakCellFactory templates that provide invalidatable, garbage-collector-safe weak references for cppgc-managed objects.
+// ---
+
 #ifndef GIN_WEAK_CELL_H_
 #define GIN_WEAK_CELL_H_
 

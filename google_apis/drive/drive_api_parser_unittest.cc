@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Drive API resource parsers
+// summary: Verifies parsing of Drive API JSON fixtures for about, team drive, file list, and change list resources.
+// ---
+
 #include "google_apis/drive/drive_api_parser.h"
 
 #include "base/time/time.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: gin::Arguments class header
+// summary: Declares a stack-allocated wrapper around v8::FunctionCallbackInfo and v8::PropertyCallbackInfo that marshals arguments and return values via Converter.
+// ---
+
 #ifndef GIN_ARGUMENTS_H_
 #define GIN_ARGUMENTS_H_
 

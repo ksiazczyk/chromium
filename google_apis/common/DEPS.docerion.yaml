@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for google_apis/common
+summary: DEPS file allowing includes from components/signin/public and mojo/public/cpp within the common Google API helpers.

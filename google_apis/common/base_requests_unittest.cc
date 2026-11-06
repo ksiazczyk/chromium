@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for base request classes
+// summary: Tests the base request classes, covering JSON parsing, error reason mapping and URL fetch behavior using an embedded test server.
+// ---
+
 #include "google_apis/common/base_requests.h"
 
 #include <stdint.h>

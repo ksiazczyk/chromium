@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the google_apis component
+summary: GN build configuration for the google_apis component, declaring API key build arguments, buildflags and source targets.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for named property interception
+// summary: Tests named property get, set and enumerate interception on a sample wrappable class using the V8Test fixture and JavaScript snippets.
+// ---
+
 #include "gin/interceptor.h"
 
 #include <stdint.h>

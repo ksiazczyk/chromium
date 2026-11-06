@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ObjectTemplateBuilder implementation
+// summary: Implements named property interceptor callbacks and the ObjectTemplateBuilder methods that assemble v8::ObjectTemplate instances with values, methods and properties.
+// ---
+
 #include "gin/object_template_builder.h"
 
 #include <stdint.h>

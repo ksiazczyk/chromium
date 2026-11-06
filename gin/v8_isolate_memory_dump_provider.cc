@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8 isolate memory dump provider implementation
+// summary: Implements a memory dump provider that reports V8 isolate heap, code, and context statistics to Chrome's trace-based memory infrastructure.
+// ---
+
 #include "gin/v8_isolate_memory_dump_provider.h"
 
 #include <inttypes.h>

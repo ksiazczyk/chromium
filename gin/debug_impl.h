@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gin debug implementation
+// summary: Declares the internal DebugImpl class that supplies the V8 JIT code event handler.
+// ---
+
 #ifndef GIN_DEBUG_IMPL_H_
 #define GIN_DEBUG_IMPL_H_
 

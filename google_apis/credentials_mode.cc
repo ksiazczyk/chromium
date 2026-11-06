@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credentials mode helper for Gaia requests
+// summary: Implements GetOmitCredentialsModeForGaiaRequests, returning the credentials mode used for uncredentialed Gaia requests.
+// ---
+
 #include "google_apis/credentials_mode.h"
 
 #include "services/network/public/mojom/fetch_api.mojom.h"

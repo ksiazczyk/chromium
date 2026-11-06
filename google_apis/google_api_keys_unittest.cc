@@ -10,6 +10,12 @@
 // This is a little unorthodox, but it lets us test the behavior as
 // close to unmodified as possible.
 
+// ---docerion
+// type: test
+// title: Unit tests for Google API keys
+// summary: Tests API key retrieval under different preprocessor defines, environment variables and Gaia config overrides, including official build behavior.
+// ---
+
 #include "google_apis/google_api_keys_unittest.h"
 
 #include "base/command_line.h"

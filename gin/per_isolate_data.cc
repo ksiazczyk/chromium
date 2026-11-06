@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PerIsolateData implementation
+// summary: Implements per-isolate Gin data with object template maps, foreground task runners, idle task support and dispose observers.
+// ---
+
 #include "gin/per_isolate_data.h"
 
 #include <utility>

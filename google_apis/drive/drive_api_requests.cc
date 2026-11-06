@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive API request implementations
+// summary: Implements Drive API requests including file operations, uploads, batch upload handling, and multipart response parsing.
+// ---
+
 #include "google_apis/drive/drive_api_requests.h"
 
 #include <stddef.h>

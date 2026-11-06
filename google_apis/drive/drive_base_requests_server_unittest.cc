@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Drive base requests server tests
+// summary: Runs Drive base request tests against an embedded HTTP server to exercise download and upload flows over the network stack.
+// ---
+
 #include <memory>
 
 #include "base/files/file_util.h"
