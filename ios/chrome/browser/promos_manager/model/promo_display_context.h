@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PromoDisplayContext structure declaration
+// summary: Declares the PromoDisplayTime enum and PromoDisplayContext struct describing best-effort UI context for showing a promo, such as an unscrolled fresh NTP.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PROMOS_MANAGER_MODEL_PROMO_DISPLAY_CONTEXT_H_
 #define IOS_CHROME_BROWSER_PROMOS_MANAGER_MODEL_PROMO_DISPLAY_CONTEXT_H_
 

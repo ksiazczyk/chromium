@@ -1,0 +1,4 @@
+# Docerion header of promos_manager_scene_agent.mm.
+type: source
+title: Promos manager scene agent implementation
+summary: Observes profile init stages and scene activation levels to notify the command dispatcher whenever a promo can be displayed.

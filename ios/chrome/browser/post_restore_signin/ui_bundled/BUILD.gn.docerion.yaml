@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for post restore sign-in UI
+summary: Defines source sets for the post restore sign-in UI, its unit tests and Earl Grey tests with their dependencies.

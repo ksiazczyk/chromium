@@ -1,0 +1,4 @@
+# Docerion header of price_insights_cell.mm.
+type: source
+title: Price Insights cell implementation
+summary: Implements the Price Insights cell layout with price tracking, buying options, and price history sections.

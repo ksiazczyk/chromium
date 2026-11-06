@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PromosManagerCoordinator testing category
+// summary: Testing category on PromosManagerCoordinator that exposes providers and handler callbacks so unit tests can inject and inspect state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PROMOS_MANAGER_COORDINATOR_PROMOS_MANAGER_COORDINATOR_TESTING_H_
 #define IOS_CHROME_BROWSER_PROMOS_MANAGER_COORDINATOR_PROMOS_MANAGER_COORDINATOR_TESTING_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Price notifications cells build configuration
+summary: Defines the GN source_set for the price notifications UI cells and its unit tests, listing sources, dependencies, and the UIKit framework.

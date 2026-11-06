@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Edit button for destination customization
+// summary: SwiftUI circular button view that toggles whether an individual destination is shown or hidden.
+// ---
+
 import SwiftUI
 
 /// The circular edit button allowing users to show or hide individual

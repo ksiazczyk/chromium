@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile deleter header
+// summary: Declares ProfileDeleterIOS, a helper class that asynchronously deletes a profile's storage from disk and reports the result via a callback.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PROFILE_MODEL_PROFILE_DELETER_IOS_H_
 #define IOS_CHROME_BROWSER_PROFILE_MODEL_PROFILE_DELETER_IOS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of price_notifications_track_button_util.mm.
+type: source
+title: Track button layout utility implementation
+summary: Implements the padding and width constraint calculations for the track button based on parent cell width and button text width.

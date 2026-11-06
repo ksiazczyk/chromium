@@ -1,0 +1,4 @@
+# Docerion header of price_notifications_view_coordinator.mm.
+type: source
+title: Price notifications view coordinator implementation
+summary: Implements the price notifications coordinator, wiring the mediator and table view controller and presenting the price tracking menu.

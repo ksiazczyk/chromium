@@ -1,0 +1,4 @@
+# Docerion header of price_notifications_image_container_view.mm.
+type: source
+title: Price notifications image container view implementation
+summary: Implements the image container view with rounded corners, an aspect-fit image view on a white background, and square sizing constraints.

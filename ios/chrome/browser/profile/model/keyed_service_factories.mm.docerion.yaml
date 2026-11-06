@@ -1,0 +1,4 @@
+# Docerion header of keyed_service_factories.mm.
+type: source
+title: Keyed service factory instantiation for iOS profiles
+summary: Instantiates all profile KeyedService factories so they are registered with the dependency manager before the ProfileIOS is created.

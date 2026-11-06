@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_io_thread.mm.
+type: source
+title: IOSChromeIOThread implementation
+summary: Implements IOSChromeIOThread, creating the system network delegate, network context, and shared URL loader factory, and handling network teardown.

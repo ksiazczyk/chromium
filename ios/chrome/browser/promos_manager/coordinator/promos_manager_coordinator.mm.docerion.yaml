@@ -1,0 +1,4 @@
+# Docerion header of promos_manager_coordinator.mm.
+type: source
+title: PromosManagerCoordinator implementation
+summary: Implements promo display by mapping registered promos to their display handlers or view providers and handling dismissal and impression recording.

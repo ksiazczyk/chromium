@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the prefs model
+summary: Defines the model source set and unit_tests target for the iOS Chrome preferences model, listing their sources and dependencies.

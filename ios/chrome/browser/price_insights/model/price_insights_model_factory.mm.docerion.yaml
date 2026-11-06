@@ -1,0 +1,4 @@
+# Docerion header of price_insights_model_factory.mm.
+type: source
+title: PriceInsightsModelFactory implementation
+summary: Implements the factory that builds a PriceInsightsModel instance for each profile.

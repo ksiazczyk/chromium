@@ -1,0 +1,4 @@
+# Docerion header of overflow_menu_orderer_unittest.mm.
+type: test
+title: Overflow menu orderer unit tests
+summary: Unit tests for the overflow menu orderer covering destination and action ordering and customization behavior.

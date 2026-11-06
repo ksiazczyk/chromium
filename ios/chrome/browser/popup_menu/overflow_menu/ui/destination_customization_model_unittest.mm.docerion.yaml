@@ -1,0 +1,4 @@
+# Docerion header of destination_customization_model_unittest.mm.
+type: test
+title: Unit tests for the destination customization model
+summary: Objective-C++ unit tests verifying that destinations move between shown and hidden groups in the expected order.

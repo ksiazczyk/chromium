@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintCoordinatorImpl interface
+// summary: Declares PrintCoordinatorImpl, the Objective-C subclass of PrintCoordinator that provides the actual printing behavior.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PRINT_COORDINATOR_PRINT_COORDINATOR_IMPL_H_
 #define IOS_CHROME_BROWSER_PRINT_COORDINATOR_PRINT_COORDINATOR_IMPL_H_
 

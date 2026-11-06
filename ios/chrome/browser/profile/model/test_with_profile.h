@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestWithProfile test fixture declaration
+// summary: Declares a PlatformTest fixture that sets up a profile manager and helpers to synchronously create or load real profiles in tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PROFILE_MODEL_TEST_WITH_PROFILE_H_
 #define IOS_CHROME_BROWSER_PROFILE_MODEL_TEST_WITH_PROFILE_H_
 

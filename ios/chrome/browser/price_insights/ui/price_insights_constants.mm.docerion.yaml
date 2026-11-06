@@ -1,0 +1,4 @@
+# Docerion header of price_insights_constants.mm.
+type: source
+title: Price Insights accessibility identifier definitions
+summary: Defines the accessibility identifier string constants used across the Price Insights UI.

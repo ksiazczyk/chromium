@@ -1,0 +1,4 @@
+# Docerion header of price_insights_feature.mm.
+type: source
+title: Price Insights feature checks implementation
+summary: Implements region-locked and profile-based checks that determine Price Insights availability via the commerce shopping service.

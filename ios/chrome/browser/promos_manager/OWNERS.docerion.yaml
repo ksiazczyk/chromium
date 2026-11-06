@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Lists the primary and secondary owners responsible for reviewing and approving changes in the promos_manager directory.

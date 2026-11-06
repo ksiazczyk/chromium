@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overflow menu model
+// summary: Observable model holding destinations, action groups and customization state for building the overflow menu views.
+// ---
+
 import SwiftUI
 
 /// Holds all the data necessary to create the views for the overflow menu.

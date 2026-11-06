@@ -1,0 +1,4 @@
+# Docerion header of profile_ios_impl.mm.
+type: source
+title: ProfileIOS implementation
+summary: Implements the regular non-incognito ProfileIOS, handling preference initialization stages, WebKit storage identifier determination, policy connectors, and incognito profile creation.

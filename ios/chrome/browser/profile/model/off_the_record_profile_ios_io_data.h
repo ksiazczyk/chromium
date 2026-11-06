@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Off-the-record profile IO data header
+// summary: Declares OffTheRecordProfileIOSIOData and its Handle, which own IO-thread network objects and create the main request context for the incognito profile.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PROFILE_MODEL_OFF_THE_RECORD_PROFILE_IOS_IO_DATA_H_
 #define IOS_CHROME_BROWSER_PROFILE_MODEL_OFF_THE_RECORD_PROFILE_IOS_IO_DATA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overflow menu UI configuration model
+// summary: Observable object holding UI state needed to display the overflow menu, such as size classes, highlights and element frames.
+// ---
+
 import SwiftUI
 
 /// Holds UI data necessary to display the overflow menu.

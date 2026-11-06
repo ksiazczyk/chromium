@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StandardPromoActionHandler protocol header
+// summary: Declares the StandardPromoActionHandler protocol covering primary, secondary, tertiary, dismiss button and swipe actions for standard promos.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PROMOS_MANAGER_COORDINATOR_STANDARD_PROMO_ACTION_HANDLER_H_
 #define IOS_CHROME_BROWSER_PROMOS_MANAGER_COORDINATOR_STANDARD_PROMO_ACTION_HANDLER_H_
 

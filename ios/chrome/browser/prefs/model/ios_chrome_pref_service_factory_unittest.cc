@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pref service factory unit tests
+// summary: Verifies that CreateProfilePrefs removes a pre-existing account preferences file when building the profile preference service.
+// ---
+
 #include "ios/chrome/browser/prefs/model/ios_chrome_pref_service_factory.h"
 
 #include "base/files/file_util.h"

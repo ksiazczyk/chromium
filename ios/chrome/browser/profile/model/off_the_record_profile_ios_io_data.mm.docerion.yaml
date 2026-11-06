@@ -1,0 +1,4 @@
+# Docerion header of off_the_record_profile_ios_io_data.mm.
+type: source
+title: Off-the-record profile IO data implementation
+summary: Implements the incognito profile's IO data, including the RAM-based HTTP cache that is doomed on memory warnings and main request context creation.

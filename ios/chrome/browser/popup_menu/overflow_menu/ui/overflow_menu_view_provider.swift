@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overflow menu view provider for Objective-C
+// summary: Factory class that builds the overflow menu view controller so Objective-C code can use the SwiftUI-based menu.
+// ---
+
 import SwiftUI
 import UIKit
 

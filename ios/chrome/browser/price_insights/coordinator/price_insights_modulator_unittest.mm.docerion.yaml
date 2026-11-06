@@ -1,0 +1,4 @@
+# Docerion header of price_insights_modulator_unittest.mm.
+type: test
+title: Price Insights modulator unit tests
+summary: Contains unit tests for PriceInsightsModulator using a mock shopping service, fake web states and test profiles.

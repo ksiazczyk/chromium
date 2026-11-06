@@ -1,0 +1,4 @@
+# Docerion header of private_ai_service_factory_unittest.mm.
+type: test
+title: PrivateAiServiceFactory unit tests
+summary: Verifies PrivateAiService creation when the feature flag is enabled, null when disabled, and always null for Incognito profiles.

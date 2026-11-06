@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Overflow menu coordinator build file
+summary: Defines the coordinator source set, its sources, and the many component dependencies for the iOS overflow menu.

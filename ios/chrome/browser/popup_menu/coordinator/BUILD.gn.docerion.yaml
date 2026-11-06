@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Popup menu coordinator build targets
+summary: Defines the coordinator and unit_tests source sets with their sources, dependencies, and frameworks for the iOS popup menu coordinator.

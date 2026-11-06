@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Overflow menu coordinator include rules
+summary: Lists the headers and directories that code in the overflow menu coordinator directory is allowed to include.

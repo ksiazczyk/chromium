@@ -1,0 +1,4 @@
+# Docerion header of price_notifications_table_view_item_unittest.mm.
+type: test
+title: Price notifications table view item unit tests
+summary: Unit tests verifying track button visibility, price chip background colors, and menu button tap boundaries for the price notifications table view cell.

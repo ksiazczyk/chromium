@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSChromeIOThread class declaration
+// summary: Declares IOSChromeIOThread, which holds state initialized and used on the IO thread, exposing the system network context and a shared URL loader factory.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PROFILE_MODEL_IOS_CHROME_IO_THREAD_H_
 #define IOS_CHROME_BROWSER_PROFILE_MODEL_IOS_CHROME_IO_THREAD_H_
 

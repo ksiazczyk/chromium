@@ -1,0 +1,4 @@
+# Docerion header of overflow_menu_carousel_egtest.mm.
+type: test
+title: Overflow menu carousel Earl Grey tests
+summary: Earl Grey UI tests for the overflow menu carousel, covering destination badges such as error, promo, and New badges, and sign-in error resolution.

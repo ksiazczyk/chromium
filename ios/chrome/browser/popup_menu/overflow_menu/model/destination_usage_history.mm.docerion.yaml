@@ -1,0 +1,4 @@
+# Docerion header of destination_usage_history.mm.
+type: source
+title: DestinationUsageHistory implementation
+summary: Implements the frecency-based destination sorting, storing per-day click counts in preferences with a 365-day expiration window and a dampening factor for swaps.

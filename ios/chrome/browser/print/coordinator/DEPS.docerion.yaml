@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Print coordinator dependency allowlist
+summary: Declares the header include rules for the directory, allowing the tab title utility and print handler headers.

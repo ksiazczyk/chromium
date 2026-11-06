@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for the iOS profile model
+summary: Defines GN source_set targets and dependencies for the iOS Chrome profile model, including profile implementations, IO data, constants, and the IO thread.

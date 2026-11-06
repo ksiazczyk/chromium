@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for profile metrics model
+summary: Defines GN source sets for the profile metrics code and the profile activity agent, listing their sources and dependencies.

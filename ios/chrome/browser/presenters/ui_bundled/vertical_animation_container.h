@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VerticalAnimationContainer header
+// summary: Declares VerticalAnimationContainer, a presenter that anchors a view controller at the bottom and animates it up from below.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PRESENTERS_UI_BUNDLED_VERTICAL_ANIMATION_CONTAINER_H_
 #define IOS_CHROME_BROWSER_PRESENTERS_UI_BUNDLED_VERTICAL_ANIMATION_CONTAINER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overflow menu Swift bridging header
+// summary: Objective-C bridging header importing pure Obj-C types and Swift dependency bridging headers for the overflow menu UI.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POPUP_MENU_OVERFLOW_MENU_UI_OVERFLOW_MENU_SWIFT_BRIDGE_H_
 #define IOS_CHROME_BROWSER_POPUP_MENU_OVERFLOW_MENU_UI_OVERFLOW_MENU_SWIFT_BRIDGE_H_
 

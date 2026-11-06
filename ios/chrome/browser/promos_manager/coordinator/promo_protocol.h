@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PromoProtocol interface
+// summary: Protocol defining the minimum data a PromosManager promo needs, including a unique promo configuration and optional handler and display callbacks.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PROMOS_MANAGER_COORDINATOR_PROMO_PROTOCOL_H_
 #define IOS_CHROME_BROWSER_PROMOS_MANAGER_COORDINATOR_PROMO_PROTOCOL_H_
 

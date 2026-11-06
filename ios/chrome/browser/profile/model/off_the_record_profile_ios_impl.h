@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Off-the-record ProfileIOS implementation header
+// summary: Declares OffTheRecordProfileIOSImpl, the ProfileIOS implementation for incognito browsing, owned by the original non-incognito profile.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PROFILE_MODEL_OFF_THE_RECORD_PROFILE_IOS_IMPL_H_
 #define IOS_CHROME_BROWSER_PROFILE_MODEL_OFF_THE_RECORD_PROFILE_IOS_IMPL_H_
 

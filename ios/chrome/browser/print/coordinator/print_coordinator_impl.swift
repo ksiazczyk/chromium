@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SwiftPrintCoordinatorImpl Swift implementation
+// summary: Swift implementation of PrintCoordinator that presents the system print dialog for views or images via UIPrintInteractionController using Swift/C++ interop.
+// ---
+
 import ChromiumCxxStdlib
 import CxxImports
 import UIKit

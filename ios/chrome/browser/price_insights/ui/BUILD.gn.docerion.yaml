@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Price Insights UI build configuration
+summary: Defines GN source sets, dependencies, and frameworks for the Price Insights UI, its Swift price history code, and unit tests.

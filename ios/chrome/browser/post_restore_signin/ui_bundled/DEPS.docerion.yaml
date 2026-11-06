@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Allowed include rules for post restore sign-in UI
+summary: Restricts which Chromium iOS directories this folder may include headers from during presubmit checks.

@@ -1,0 +1,4 @@
+# Docerion header of overflow_menu_hosting_controller_unittest.mm.
+type: test
+title: Overflow menu hosting controller unit tests
+summary: Unit tests verifying that the hosting controller's preferred content size updates correctly with model changes.

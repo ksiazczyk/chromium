@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PromosManagerMediator interface
+// summary: Declares a mediator that queries the PromosManager for the next promo to display, records impressions, and deregisters promos.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PROMOS_MANAGER_COORDINATOR_PROMOS_MANAGER_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_PROMOS_MANAGER_COORDINATOR_PROMOS_MANAGER_MEDIATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NonModalViewControllerPresenter header
+// summary: Declares NonModalViewControllerPresenter, which presents a view controller non-modally with fade and scale animations.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PRESENTERS_UI_BUNDLED_NON_MODAL_VIEW_CONTROLLER_PRESENTER_H_
 #define IOS_CHROME_BROWSER_PRESENTERS_UI_BUNDLED_NON_MODAL_VIEW_CONTROLLER_PRESENTER_H_
 

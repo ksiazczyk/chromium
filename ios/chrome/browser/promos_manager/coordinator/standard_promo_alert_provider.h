@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StandardPromoAlertProvider protocol header
+// summary: Declares the StandardPromoAlertProvider protocol letting feature teams build a promo alert by supplying a title, message and optional button texts.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PROMOS_MANAGER_COORDINATOR_STANDARD_PROMO_ALERT_PROVIDER_H_
 #define IOS_CHROME_BROWSER_PROMOS_MANAGER_COORDINATOR_STANDARD_PROMO_ALERT_PROVIDER_H_
 

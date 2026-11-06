@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test Price Insights consumer interface
+// summary: Declares TestPriceInsightsConsumer, a stub PriceInsightsConsumer that records which consumer callbacks were invoked.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PRICE_INSIGHTS_COORDINATOR_TEST_PRICE_INSIGHTS_CONSUMER_H_
 #define IOS_CHROME_BROWSER_PRICE_INSIGHTS_COORDINATOR_TEST_PRICE_INSIGHTS_CONSUMER_H_
 

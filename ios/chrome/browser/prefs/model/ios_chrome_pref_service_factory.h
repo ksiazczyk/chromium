@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pref service factory declarations for Chrome on iOS
+// summary: Declares factory functions for creating local state, profile, and incognito PrefService instances, plus preference filename constants.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PREFS_MODEL_IOS_CHROME_PREF_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_PREFS_MODEL_IOS_CHROME_PREF_SERVICE_FACTORY_H_
 

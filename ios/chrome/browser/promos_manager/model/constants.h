@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Promo enum and impression declarations for promos manager
+// summary: Declares the Promo enum, the IOSPromosManagerPromoType histogram enum, the Impression struct and impression dictionary keys used by the promos manager.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PROMOS_MANAGER_MODEL_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_PROMOS_MANAGER_MODEL_CONSTANTS_H_
 

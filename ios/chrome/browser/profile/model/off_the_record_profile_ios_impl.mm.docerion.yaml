@@ -1,0 +1,4 @@
+# Docerion header of off_the_record_profile_ios_impl.mm.
+type: source
+title: Off-the-record ProfileIOS implementation
+summary: Implements the incognito ProfileIOS, creating its prefs and IO data, recording incognito metrics and lifetime, and forwarding policy calls to the original profile.

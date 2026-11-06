@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for overflow menu model
+summary: Defines GN source sets for the overflow menu destination usage history model and its unit tests, listing sources, frameworks and dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overflow menu customization screen view
+// summary: SwiftUI view for the overflow menu customization screen with destination lists, hidden section, and action sorting.
+// ---
+
 import SwiftUI
 
 @objc public protocol MenuCustomizationEventHandler: AnyObject {

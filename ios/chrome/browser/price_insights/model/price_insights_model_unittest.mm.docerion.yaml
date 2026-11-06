@@ -1,0 +1,4 @@
+# Docerion header of price_insights_model_unittest.mm.
+type: test
+title: PriceInsightsModel unit tests
+summary: Unit tests for PriceInsightsModel using a mock shopping service and fake web states to verify configuration fetching and tracking behavior.

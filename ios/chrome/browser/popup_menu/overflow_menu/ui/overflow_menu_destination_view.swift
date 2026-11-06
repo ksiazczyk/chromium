@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overflow menu destination view
+// summary: SwiftUI view rendering a single overflow menu destination with vertical or horizontal layouts, badges, press-state styling and accessibility identifiers.
+// ---
+
 import SwiftUI
 import ios_chrome_browser_shared_ui_util_util_swiftui
 import ios_chrome_common_ui_colors_swift

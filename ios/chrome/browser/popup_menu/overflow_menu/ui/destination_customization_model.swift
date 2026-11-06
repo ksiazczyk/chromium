@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Destination customization model for the overflow menu
+// summary: ObservableObject model tracking shown and hidden destinations and the destination usage toggle during customization.
+// ---
+
 import Combine
 
 // Model class for holding and tracking state for destination customization

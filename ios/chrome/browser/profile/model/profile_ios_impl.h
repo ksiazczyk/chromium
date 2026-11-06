@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileIOS implementation header
+// summary: Declares ProfileIOSImpl, the ProfileIOS implementation for non-incognito browsing, with staged preference initialization, policy members, and off-the-record profile handling.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PROFILE_MODEL_PROFILE_IOS_IMPL_H_
 #define IOS_CHROME_BROWSER_PROFILE_MODEL_PROFILE_IOS_IMPL_H_
 

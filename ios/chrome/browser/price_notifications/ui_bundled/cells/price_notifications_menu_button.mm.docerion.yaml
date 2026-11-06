@@ -1,0 +1,4 @@
+# Docerion header of price_notifications_menu_button.mm.
+type: source
+title: Price notifications menu button implementation
+summary: Implements the circular menu button with a menu symbol, grey background, blue tint, and an enlarged tappable area.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overflow menu action section view
+// summary: SwiftUI section view that lays out an action group's rows, supports reordering, special identity rows and an optional footer with a custom background.
+// ---
+
 import SwiftUI
 
 /// A SwiftUI view for the overflow menu displaying a subsection of the actions list.

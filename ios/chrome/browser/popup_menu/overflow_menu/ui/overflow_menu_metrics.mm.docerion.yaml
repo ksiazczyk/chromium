@@ -1,0 +1,4 @@
+# Docerion header of overflow_menu_metrics.mm.
+type: source
+title: Overflow menu metrics implementation
+summary: Maps overflow menu destinations and action types to their corresponding histogram enum values for logging.

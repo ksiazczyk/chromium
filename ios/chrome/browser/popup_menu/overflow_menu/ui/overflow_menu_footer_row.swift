@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overflow menu footer row view
+// summary: SwiftUI view that renders the footer of the overflow menu with an icon line, name and tappable link.
+// ---
+
 import SwiftUI
 
 /// A view that displays a footer in the overflow menu.

@@ -1,0 +1,4 @@
+# Docerion header of post_restore_signin_egtest.mm.
+type: test
+title: Earl Grey tests for the post restore sign-in promo
+summary: End-to-end Earl Grey tests verifying the post restore sign-in alert's continue and cancel flows.

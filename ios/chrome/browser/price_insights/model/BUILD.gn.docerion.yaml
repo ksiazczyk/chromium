@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for Price Insights model
+summary: Defines GN source sets and dependencies for the Price Insights model, feature checks, and their unit tests.

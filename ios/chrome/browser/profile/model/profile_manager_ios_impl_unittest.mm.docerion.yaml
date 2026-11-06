@@ -1,0 +1,4 @@
+# Docerion header of profile_manager_ios_impl_unittest.mm.
+type: test
+title: ProfileManagerIOSImpl unit tests
+summary: Unit tests covering profile creation, loading, unloading, deletion marking and observer notifications in ProfileManagerIOSImpl.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Promos manager coordinator build definition (BUILD.gn)
+summary: Defines the coordinator and promos source sets with their sources, frameworks, and dependencies for the iOS promos manager.

@@ -1,0 +1,4 @@
+# Docerion header of popup_menu_help_coordinator.mm.
+type: source
+title: Popup menu help coordinator implementation
+summary: Implements in-product help for the popup menu, including IPH bubbles, blue dot visibility, and Level Up walkthroughs for password checkup, payment methods, and quick delete.

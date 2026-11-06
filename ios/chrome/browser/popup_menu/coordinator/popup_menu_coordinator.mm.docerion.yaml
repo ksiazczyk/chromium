@@ -1,0 +1,4 @@
+# Docerion header of popup_menu_coordinator.mm.
+type: source
+title: Popup menu coordinator implementation
+summary: Implements the popup menu coordinator, wiring overflow menu presentation, metrics, feature engagement, and command handling for Chrome on iOS.

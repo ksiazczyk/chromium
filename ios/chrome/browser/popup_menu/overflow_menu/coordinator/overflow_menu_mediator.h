@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overflow menu mediator header
+// summary: Declares the overflow menu mediator, which creates and updates menu items and exposes command handlers.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POPUP_MENU_OVERFLOW_MENU_COORDINATOR_OVERFLOW_MENU_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_POPUP_MENU_OVERFLOW_MENU_COORDINATOR_OVERFLOW_MENU_MEDIATOR_H_
 

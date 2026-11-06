@@ -1,0 +1,4 @@
+# Docerion header of power_bookmark_service_factory.mm.
+type: source
+title: PowerBookmarkServiceFactory implementation
+summary: Implements the PowerBookmarkServiceFactory, building a PowerBookmarkService for each profile from its bookmark model and depending on the bookmark model factory.

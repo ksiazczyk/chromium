@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Popup menu tests build configuration
+summary: GN build definition for the eg2_tests source set that bundles the popup menu Earl Grey test sources and their dependencies for Chrome on iOS.

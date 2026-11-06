@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for power bookmarks model
+summary: Specifies the allowed include rules for the directory, permitting keyed service, power bookmarks, and iOS bookmarks model dependencies.

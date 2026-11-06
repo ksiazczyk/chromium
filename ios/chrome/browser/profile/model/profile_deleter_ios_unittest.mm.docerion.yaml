@@ -1,0 +1,4 @@
+# Docerion header of profile_deleter_ios_unittest.mm.
+type: test
+title: Profile deleter unit tests
+summary: Unit tests for ProfileDeleterIOS verifying that profile storage is deleted correctly, including profiles with WebKit storage identifiers and never-created profiles.

@@ -1,0 +1,4 @@
+# Docerion header of profile_manager_ios_impl.mm.
+type: source
+title: ProfileManagerIOSImpl implementation
+summary: Implements profile creation, loading, deletion and profile size metrics recording for the iOS profile manager.

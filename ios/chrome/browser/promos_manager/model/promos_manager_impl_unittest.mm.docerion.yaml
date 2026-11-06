@@ -1,0 +1,4 @@
+# Docerion header of promos_manager_impl_unittest.mm.
+type: test
+title: Promos manager implementation unit tests
+summary: Unit tests covering initialization, name lookups, registration, pending promos, eligibility, and pref persistence for PromosManagerImpl.

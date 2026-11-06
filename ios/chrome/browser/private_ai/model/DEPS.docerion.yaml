@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for private AI model
+summary: Declares include rules allowing dependencies on components/private_ai and ios/chrome/browser/signin/model.

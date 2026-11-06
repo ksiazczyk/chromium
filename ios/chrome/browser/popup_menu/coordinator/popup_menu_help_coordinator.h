@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Popup menu help coordinator header
+// summary: Declares the PopupMenuHelpCoordinator interface for in-product help sessions, IPH bubbles, and blue dot state on the overflow menu.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POPUP_MENU_COORDINATOR_POPUP_MENU_HELP_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_POPUP_MENU_COORDINATOR_POPUP_MENU_HELP_COORDINATOR_H_
 

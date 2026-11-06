@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test price notifications consumer header
+// summary: Declares a test consumer implementing PriceNotificationsConsumer that records executed actions for use in unit tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PRICE_NOTIFICATIONS_UI_BUNDLED_TEST_PRICE_NOTIFICATIONS_CONSUMER_H_
 #define IOS_CHROME_BROWSER_PRICE_NOTIFICATIONS_UI_BUNDLED_TEST_PRICE_NOTIFICATIONS_CONSUMER_H_
 

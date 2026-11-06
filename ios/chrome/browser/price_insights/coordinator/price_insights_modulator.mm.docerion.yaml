@@ -1,0 +1,4 @@
+# Docerion header of price_insights_modulator.mm.
+type: source
+title: Price Insights modulator implementation
+summary: Implements the Price Insights modulator, handling price tracking, buying options, metrics, alerts and snackbars through the shopping service.

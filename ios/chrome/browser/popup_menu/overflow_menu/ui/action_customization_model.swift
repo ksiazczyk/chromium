@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Action customization model for the overflow menu
+// summary: ObservableObject model that tracks which overflow menu actions are shown or hidden during customization.
+// ---
+
 import Combine
 import SwiftUI
 

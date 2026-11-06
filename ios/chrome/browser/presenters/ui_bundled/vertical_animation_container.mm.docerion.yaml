@@ -1,0 +1,4 @@
+# Docerion header of vertical_animation_container.mm.
+type: source
+title: VerticalAnimationContainer implementation
+summary: Implements bottom-anchored vertical slide presentation and dismissal by switching layout constraints with animation.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Price Insights UI dependency rules
+summary: Restricts includes in the Price Insights UI directory to the contextual panel and price notifications UI.

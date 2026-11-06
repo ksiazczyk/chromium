@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DestinationUsageHistory class interface
+// summary: Declares the DestinationUsageHistory class that records overflow menu destination clicks and orders carousel destinations with a frecency-based sorting algorithm.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POPUP_MENU_OVERFLOW_MENU_MODEL_DESTINATION_USAGE_HISTORY_H_
 #define IOS_CHROME_BROWSER_POPUP_MENU_OVERFLOW_MENU_MODEL_DESTINATION_USAGE_HISTORY_H_
 

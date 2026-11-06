@@ -1,0 +1,4 @@
+# Docerion header of overflow_menu_orderer.mm.
+type: source
+title: Overflow menu orderer implementation
+summary: Implements destination and action ordering, including preference-based rankings, badges, and customization state.

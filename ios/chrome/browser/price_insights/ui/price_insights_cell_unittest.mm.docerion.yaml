@@ -1,0 +1,4 @@
+# Docerion header of price_insights_cell_unittest.mm.
+type: test
+title: Price Insights cell unit tests
+summary: Tests the Price Insights cell component count and ordering for scenarios with varying data availability.

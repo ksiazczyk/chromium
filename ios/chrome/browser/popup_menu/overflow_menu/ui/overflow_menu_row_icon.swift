@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overflow menu row icon SwiftUI view
+// summary: SwiftUI view that renders a sized, optionally monochrome symbol icon for overflow menu rows and hides it from accessibility.
+// ---
+
 import SwiftUI
 
 struct OverflowMenuRowIcon: View {

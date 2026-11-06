@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Store review adapter around StoreKit requestReview
+// summary: Swift adapter exposing Apple's iOS 15 StoreKit AppStore.requestReview API so Objective-C++ code can request an App Store rating in a window scene.
+// ---
+
 import StoreKit
 import UIKit
 

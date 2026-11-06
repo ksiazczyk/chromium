@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overflow menu list style
+// summary: View modifier applying inset grouped list styling and spacing constants to the overflow menu list.
+// ---
+
 import SwiftUI
 
 /// Collection of constants and styling for the overflow menu `List`.

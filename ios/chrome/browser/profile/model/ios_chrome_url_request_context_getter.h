@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSChromeURLRequestContextGetter declaration
+// summary: Declares a net::URLRequestContextGetter subclass used by the browser to return a URLRequestContext that can carry extra request information.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PROFILE_MODEL_IOS_CHROME_URL_REQUEST_CONTEXT_GETTER_H_
 #define IOS_CHROME_BROWSER_PROFILE_MODEL_IOS_CHROME_URL_REQUEST_CONTEXT_GETTER_H_
 

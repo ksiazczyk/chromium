@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PriceInsightsItem model object header
+// summary: Declares the PriceInsightsItem model object that carries product price insights data such as title, variants, price history and URLs to the collection view cell.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PRICE_INSIGHTS_UI_PRICE_INSIGHTS_ITEM_H_
 #define IOS_CHROME_BROWSER_PRICE_INSIGHTS_UI_PRICE_INSIGHTS_ITEM_H_
 

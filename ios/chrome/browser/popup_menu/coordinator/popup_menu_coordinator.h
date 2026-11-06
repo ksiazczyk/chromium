@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Popup menu coordinator header
+// summary: Declares the PopupMenuCoordinator interface that handles popup menu commands, exposes UI updating, and starts the child help coordinator.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_POPUP_MENU_COORDINATOR_POPUP_MENU_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_POPUP_MENU_COORDINATOR_POPUP_MENU_COORDINATOR_H_
 

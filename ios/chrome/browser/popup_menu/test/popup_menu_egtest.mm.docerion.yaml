@@ -1,0 +1,4 @@
+# Docerion header of popup_menu_egtest.mm.
+type: test
+title: Popup menu Earl Grey UI tests
+summary: Earl Grey UI tests for the Chrome iOS popup menu, covering tab history back and forward menus and related behavior using an embedded test server.
