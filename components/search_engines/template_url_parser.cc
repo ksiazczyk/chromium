@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenSearch description document parser implementation
+// summary: Parses OpenSearch description documents into TemplateURL objects using a safe XML parser with optional parameter filtering.
+// ---
+
 #include "components/search_engines/template_url_parser.h"
 
 #include <string.h>

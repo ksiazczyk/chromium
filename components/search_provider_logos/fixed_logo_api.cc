@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the fixed logo API
+// summary: Implements parsing of static logo responses and URL handling for fixed search provider logos.
+// ---
+
 #include "components/search_provider_logos/fixed_logo_api.h"
 
 #include <memory>

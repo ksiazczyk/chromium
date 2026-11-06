@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TemplateURLServiceClient interface header
+// summary: Declares the interface providing history-related functionality, such as keyword search term updates, required by TemplateURLService.
+// ---
+
 #ifndef COMPONENTS_SEARCH_ENGINES_TEMPLATE_URL_SERVICE_CLIENT_H_
 #define COMPONENTS_SEARCH_ENGINES_TEMPLATE_URL_SERVICE_CLIENT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Android search engines folder
+summary: Restricts include dependencies for the directory, allowing search provider logos and content public APIs while blocking other content Android dependencies.

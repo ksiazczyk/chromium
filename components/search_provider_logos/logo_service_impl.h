@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Logo service implementation header
+// summary: Declares LogoServiceImpl, which retrieves the current search provider logo from cache or network and notifies observers.
+// ---
+
 #ifndef COMPONENTS_SEARCH_PROVIDER_LOGOS_LOGO_SERVICE_IMPL_H_
 #define COMPONENTS_SEARCH_PROVIDER_LOGOS_LOGO_SERVICE_IMPL_H_
 

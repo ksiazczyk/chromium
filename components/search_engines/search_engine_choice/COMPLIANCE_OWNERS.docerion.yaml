@@ -1,0 +1,4 @@
+# Docerion header of COMPLIANCE_OWNERS.
+type: config
+title: Compliance owners for search engine choice
+summary: Lists the reviewers responsible for compliance review of the search engine choice code, with backup owners in the parent folder.

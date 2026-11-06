@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchEngineSettingsDataProvider header
+// summary: Declares containers for categorized, recently visited, and picker search engine lists used by settings pages and the default search engine picker.
+// ---
+
 #ifndef COMPONENTS_SEARCH_ENGINES_SEARCH_ENGINE_SETTINGS_DATA_PROVIDER_H_
 #define COMPONENTS_SEARCH_ENGINES_SEARCH_ENGINE_SETTINGS_DATA_PROVIDER_H_
 

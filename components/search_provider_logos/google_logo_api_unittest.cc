@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Google doodle API unit tests
+// summary: Tests doodle URL construction, HTTPS enforcement, query parameter handling, and logo response parsing.
+// ---
+
 #include "components/search_provider_logos/google_logo_api.h"
 
 #include <memory>

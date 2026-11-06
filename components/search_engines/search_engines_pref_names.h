@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engines preference names
+// summary: Defines preference name constants covering default search provider state, choice screen metadata, guest mode, and related search engine settings.
+// ---
+
 #ifndef COMPONENTS_SEARCH_ENGINES_SEARCH_ENGINES_PREF_NAMES_H_
 #define COMPONENTS_SEARCH_ENGINES_SEARCH_ENGINES_PREF_NAMES_H_
 

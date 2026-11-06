@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for search_provider_logos
+summary: Names the reviewers responsible for changes in this directory and references the search component owners file.

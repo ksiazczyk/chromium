@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared logo types and metadata
+// summary: Defines the LogoType enum, LogoMetadata, MuralMetadata, EncodedLogo, and callback structs shared across the component.
+// ---
+
 #ifndef COMPONENTS_SEARCH_PROVIDER_LOGOS_LOGO_COMMON_H_
 #define COMPONENTS_SEARCH_PROVIDER_LOGOS_LOGO_COMMON_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SearchEngineSettingsDataProvider
+// summary: Robolectric unit tests verifying the settings data provider's JNI-backed data retrieval, idempotent close behaviour and settings page load metrics recording.
+// ---
+
 package org.chromium.components.search_engines;
 
 import static org.junit.Assert.assertEquals;

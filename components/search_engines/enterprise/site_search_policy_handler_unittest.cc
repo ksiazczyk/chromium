@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site search policy handler unit tests
+// summary: Unit tests for the SiteSearchPolicyHandler covering valid and invalid site search providers, missing or empty fields, duplicated shortcuts, and search aggregator policy interactions.
+// ---
+
 #include "components/search_engines/enterprise/site_search_policy_handler.h"
 
 #include <optional>

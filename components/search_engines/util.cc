@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine utility functions implementation
+// summary: Implements utility functions for search engine handling, including merging prepopulated and starter pack engine data and building Lens overlay search URL parameters.
+// ---
+
 #include "components/search_engines/util.h"
 
 #include <stddef.h>

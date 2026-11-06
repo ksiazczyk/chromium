@@ -1,3 +1,9 @@
+---
+type: readme
+title: Overview of the search_provider_logos component
+summary: Explains that the component supplies search provider logos that are downloaded on demand and cached on disk.
+---
+
 The search_provider_logos component provides the logo image for a search
 provider (e.g. Google or Yahoo!). The logo is downloaded on-demand and cached on
 disk for future use.

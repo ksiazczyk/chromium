@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for TemplateUrlServiceAndroid
+// summary: Tests the Android service wrapper, covering Play API search engine addition and default search provider behavior with a Belgium search engine choice country.
+// ---
+
 #include "components/search_engines/android/template_url_service_android.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ReconcilingTemplateURLDataHolder unit tests
+// summary: Unit tests verifying keyword computation, reconciliation outcomes, and metrics for ReconcilingTemplateURLDataHolder across regional prepopulated engine sets.
+// ---
+
 #include "components/search_engines/reconciling_template_url_data_holder.h"
 
 #include <memory>

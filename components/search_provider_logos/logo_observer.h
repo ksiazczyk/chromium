@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Logo observer interface
+// summary: Declares an interface that receives notifications when the search provider logo becomes available.
+// ---
+
 #ifndef COMPONENTS_SEARCH_PROVIDER_LOGOS_LOGO_OBSERVER_H_
 #define COMPONENTS_SEARCH_PROVIDER_LOGOS_LOGO_OBSERVER_H_
 

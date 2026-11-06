@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default search manager unit tests
+// summary: Unit tests for DefaultSearchManager covering search provider overrides, enterprise policies, pref mirroring, and default search engine data handling.
+// ---
+
 #include "components/search_engines/default_search_manager.h"
 
 #include <stddef.h>

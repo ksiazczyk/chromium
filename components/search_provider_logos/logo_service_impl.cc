@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Logo service implementation
+// summary: Implements fetching, decoding, caching and observer notification for search provider logos shown on the new tab page.
+// ---
+
 #include "components/search_provider_logos/logo_service_impl.h"
 
 #include <algorithm>

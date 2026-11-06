@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TemplateUrlService Android wrapper
+// summary: Android Java wrapper of the native TemplateURLService giving the UI thread access to search engines, load notifications, observers and settings data providers.
+// ---
+
 package org.chromium.components.search_engines;
 
 import android.text.TextUtils;

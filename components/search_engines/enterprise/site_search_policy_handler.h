@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site search policy handler header
+// summary: Declares the SiteSearchPolicyHandler class that validates and applies the SiteSearchSettings policy, including entry field names and limits on provider counts.
+// ---
+
 #ifndef COMPONENTS_SEARCH_ENGINES_ENTERPRISE_SITE_SEARCH_POLICY_HANDLER_H_
 #define COMPONENTS_SEARCH_ENGINES_ENTERPRISE_SITE_SEARCH_POLICY_HANDLER_H_
 

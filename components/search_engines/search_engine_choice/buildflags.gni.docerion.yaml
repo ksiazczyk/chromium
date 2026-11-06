@@ -1,0 +1,4 @@
+# Docerion header of buildflags.gni.
+type: config
+title: Build flag for the in-Chrome choice screen
+summary: Declares the choice_screen_in_chrome build argument that controls whether the search engine choice screen is shown inside Chrome.

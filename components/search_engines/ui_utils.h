@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine UI utility declarations
+// summary: Declares sorting comparators for TemplateURL lists, recently visited URL filtering, and computation of disabled starter pack IDs.
+// ---
+
 #ifndef COMPONENTS_SEARCH_ENGINES_UI_UTILS_H_
 #define COMPONENTS_SEARCH_ENGINES_UI_UTILS_H_
 

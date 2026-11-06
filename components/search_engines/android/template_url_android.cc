@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI implementation of TemplateURL for Android
+// summary: Implements JNI bindings that expose native TemplateURL data such as name, keyword, favicon URL, and prepopulate state to the Java layer.
+// ---
+
 #include "components/search_engines/android/template_url_android.h"
 
 #include <cstdint>

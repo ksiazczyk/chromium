@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenSearch description document fetcher API
+// summary: Declares TemplateURLFetcher, a keyed service that schedules background downloads of OpenSearch description documents.
+// ---
+
 #ifndef COMPONENTS_SEARCH_ENGINES_TEMPLATE_URL_FETCHER_H_
 #define COMPONENTS_SEARCH_ENGINES_TEMPLATE_URL_FETCHER_H_
 

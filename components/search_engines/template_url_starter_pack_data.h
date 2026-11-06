@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Starter pack search engine data declarations
+// summary: Declares the StarterPackId enum, StarterPackEngine struct, and functions to access built-in starter pack engines and their data versions.
+// ---
+
 #ifndef COMPONENTS_SEARCH_ENGINES_TEMPLATE_URL_STARTER_PACK_DATA_H_
 #define COMPONENTS_SEARCH_ENGINES_TEMPLATE_URL_STARTER_PACK_DATA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TemplateURLData unit tests
+// summary: Unit tests for TemplateURLData covering dictionary conversion, keyword and short-name trimming, and regulatory extension handling.
+// ---
+
 #include "components/search_engines/template_url_data.h"
 
 #include <string_view>

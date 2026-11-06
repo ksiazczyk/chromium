@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site search policy handler implementation
+// summary: Converts SiteSearchSettings policy entries into site search provider preferences, validating shortcuts, HTTPS URLs, and featured providers while reporting policy errors.
+// ---
+
 #include "components/search_engines/enterprise/site_search_policy_handler.h"
 
 #include <algorithm>

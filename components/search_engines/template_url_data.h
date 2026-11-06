@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TemplateURLData struct declaration
+// summary: Declares the TemplateURLData struct with a search engine's name, keyword, URLs, policy origin, and other metadata used to build TemplateURLs.
+// ---
+
 #ifndef COMPONENTS_SEARCH_ENGINES_TEMPLATE_URL_DATA_H_
 #define COMPONENTS_SEARCH_ENGINES_TEMPLATE_URL_DATA_H_
 

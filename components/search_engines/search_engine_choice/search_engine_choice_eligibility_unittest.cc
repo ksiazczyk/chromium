@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search engine choice eligibility unit tests
+// summary: Unit tests covering the conditions under which the search engine choice screen is eligible to be shown, including policy and country cases.
+// ---
+
 #include <algorithm>
 #include <variant>
 

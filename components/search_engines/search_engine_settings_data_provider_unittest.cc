@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SearchEngineSettingsDataProvider unit tests
+// summary: Unit tests for the settings data provider covering engine categorization, Yahoo Japan split telemetry, and regional country behavior.
+// ---
+
 #include "components/search_engines/search_engine_settings_data_provider.h"
 
 #include <algorithm>

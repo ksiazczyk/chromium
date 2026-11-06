@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine settings data provider
+// summary: Java wrapper for the native settings data provider that prepares search engine data for the settings screens and owns the once-per-session settings telemetry.
+// ---
+
 package org.chromium.components.search_engines;
 
 import org.jni_zero.JNINamespace;

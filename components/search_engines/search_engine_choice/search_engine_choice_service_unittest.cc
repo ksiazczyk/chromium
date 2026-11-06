@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search engine choice service unit tests
+// summary: Unit tests for the search engine choice service, covering choice screen eligibility, metrics histograms, policy handling and reprompt behaviour across countries and profiles.
+// ---
+
 #include "components/search_engines/search_engine_choice/search_engine_choice_service.h"
 
 #include <algorithm>

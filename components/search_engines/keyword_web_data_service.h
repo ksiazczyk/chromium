@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeywordWebDataService header
+// summary: Declares KeywordWebDataService and WDKeywordsResult, which load and save search engine keyword data in the web database with metadata and batch mode support.
+// ---
+
 #ifndef COMPONENTS_SEARCH_ENGINES_KEYWORD_WEB_DATA_SERVICE_H__
 #define COMPONENTS_SEARCH_ENGINES_KEYWORD_WEB_DATA_SERVICE_H__
 

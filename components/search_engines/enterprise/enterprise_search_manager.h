@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise search manager header
+// summary: Declares EnterpriseSearchManager, which manages search engines and aggregators configured via SiteSearchSettings and EnterpriseSearchAggregatorSettings policies.
+// ---
+
 #ifndef COMPONENTS_SEARCH_ENGINES_ENTERPRISE_ENTERPRISE_SEARCH_MANAGER_H_
 #define COMPONENTS_SEARCH_ENGINES_ENTERPRISE_ENTERPRISE_SEARCH_MANAGER_H_
 

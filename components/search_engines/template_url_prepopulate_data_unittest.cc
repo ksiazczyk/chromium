@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TemplateURL prepopulate data unit tests
+// summary: Unit tests verifying prepopulated search engine data, country-specific engine lists, and database update metadata across all country IDs.
+// ---
+
 #include "components/search_engines/template_url_prepopulate_data.h"
 
 #include <stddef.h>

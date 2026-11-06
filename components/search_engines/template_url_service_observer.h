@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TemplateURLServiceObserver interface header
+// summary: Declares the observer interface notified when the set of TemplateURLs changes or the service shuts down.
+// ---
+
 #ifndef COMPONENTS_SEARCH_ENGINES_TEMPLATE_URL_SERVICE_OBSERVER_H_
 #define COMPONENTS_SEARCH_ENGINES_TEMPLATE_URL_SERVICE_OBSERVER_H_
 

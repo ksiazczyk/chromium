@@ -2,6 +2,11 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: search_engine_split_metrics_unittest.cc
+// ---
+
 #include "components/search_engines/search_engine_split_metrics.h"
 
 #include <memory>

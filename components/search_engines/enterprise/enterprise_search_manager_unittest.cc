@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise search manager unit tests
+// summary: Unit tests covering loading, user overrides and pruning of enterprise-configured search engines in EnterpriseSearchManager.
+// ---
+
 #include "components/search_engines/enterprise/enterprise_search_manager.h"
 
 #include <optional>

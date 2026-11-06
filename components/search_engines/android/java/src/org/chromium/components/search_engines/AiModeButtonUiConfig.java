@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI Mode button UI configuration
+// summary: Immutable Java counterpart of the native AiModeButtonUiConfig struct describing the AI Mode entry point labels, tooltip, and navigation URLs offered by a single search engine.
+// ---
+
 package org.chromium.components.search_engines;
 
 import androidx.annotation.VisibleForTesting;

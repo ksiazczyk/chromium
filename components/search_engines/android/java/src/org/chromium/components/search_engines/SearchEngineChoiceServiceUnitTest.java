@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SearchEngineChoiceService unit tests
+// summary: Robolectric unit tests covering SearchEngineChoiceService behavior with abstract, fake, and mocked search engine country delegates.
+// ---
+
 package org.chromium.components.search_engines;
 
 import static org.hamcrest.CoreMatchers.equalTo;

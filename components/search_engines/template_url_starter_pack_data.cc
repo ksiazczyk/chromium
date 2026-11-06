@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Starter pack search engine data
+// summary: Defines the built-in starter pack engines (bookmarks, history, tabs, Gemini, page, AI mode) with their search URLs and data versioning for omnibox keyword search.
+// ---
+
 #include "components/search_engines/template_url_starter_pack_data.h"
 
 #include <memory>

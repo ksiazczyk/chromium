@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for Android TemplateURL JNI helpers
+// summary: Declares helpers to create Java TemplateURL objects and defines jni_zero type conversions between Java references and native TemplateURL pointers.
+// ---
+
 #ifndef COMPONENTS_SEARCH_ENGINES_ANDROID_TEMPLATE_URL_ANDROID_H_
 #define COMPONENTS_SEARCH_ENGINES_ANDROID_TEMPLATE_URL_ANDROID_H_
 

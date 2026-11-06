@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for search_provider_logos
+summary: Lists the external headers and directories that files in this component are allowed to include.

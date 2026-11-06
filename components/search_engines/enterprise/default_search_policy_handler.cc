@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default search policy handler implementation
+// summary: Implements the policy handler that maps default search provider policies to preferences and validates their settings.
+// ---
+
 #include "components/search_engines/enterprise/default_search_policy_handler.h"
 
 #include <stddef.h>

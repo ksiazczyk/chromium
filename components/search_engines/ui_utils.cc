@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine UI utility functions
+// summary: Implements comparators that order search engines by policy management and locale-aware alphabetical name, plus filtering of recently visited site search URLs.
+// ---
+
 #include "components/search_engines/ui_utils.h"
 
 #include "base/check_is_test.h"

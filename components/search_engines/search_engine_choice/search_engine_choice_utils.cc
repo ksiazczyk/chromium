@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine choice utilities implementation
+// summary: Implements choice screen display state serialization, program preference handling and helper logic for search engine choice eligibility and metrics.
+// ---
+
 #include "components/search_engines/search_engine_choice/search_engine_choice_utils.h"
 
 #include <algorithm>

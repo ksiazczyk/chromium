@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engines switches and features declarations
+// summary: Declares command-line switches and feature flags for search engine choice, provider overrides, reprompting, and related platform-specific behaviors.
+// ---
+
 #ifndef COMPONENTS_SEARCH_ENGINES_SEARCH_ENGINES_SWITCHES_H_
 #define COMPONENTS_SEARCH_ENGINES_SEARCH_ENGINES_SWITCHES_H_
 

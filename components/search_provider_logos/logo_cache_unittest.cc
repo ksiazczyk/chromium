@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Logo cache unit tests
+// summary: Tests storing and retrieving logo metadata and images, including handling of corrupt cache data.
+// ---
+
 #include "components/search_provider_logos/logo_cache.h"
 
 #include <stddef.h>

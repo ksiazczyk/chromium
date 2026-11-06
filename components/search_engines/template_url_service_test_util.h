@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TemplateURLService test utilities header
+// summary: Declares test helpers for TemplateURLService, including a load completion waiter and unit test base classes with common service setup.
+// ---
+
 #ifndef COMPONENTS_SEARCH_ENGINES_TEMPLATE_URL_SERVICE_TEST_UTIL_H_
 #define COMPONENTS_SEARCH_ENGINES_TEMPLATE_URL_SERVICE_TEST_UTIL_H_
 

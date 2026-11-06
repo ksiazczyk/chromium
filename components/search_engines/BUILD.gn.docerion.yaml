@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Search Engines Component Build Configuration
+summary: Defines the search_engines static library, generated AI mode button config target, sources and dependencies.

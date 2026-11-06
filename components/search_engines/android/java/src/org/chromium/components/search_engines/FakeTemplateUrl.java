@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake TemplateUrl implementation
+// summary: TemplateUrl subclass providing simple fake search engine entries with short names, keywords, and prepopulated IDs for use in tests.
+// ---
+
 package org.chromium.components.search_engines;
 
 import android.text.TextUtils;

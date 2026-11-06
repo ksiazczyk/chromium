@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File-based cache for search provider logos
+// summary: Declares a file-based cache that stores and retrieves encoded logos and their metadata, clearing on corruption.
+// ---
+
 #ifndef COMPONENTS_SEARCH_PROVIDER_LOGOS_LOGO_CACHE_H_
 #define COMPONENTS_SEARCH_PROVIDER_LOGOS_LOGO_CACHE_H_
 

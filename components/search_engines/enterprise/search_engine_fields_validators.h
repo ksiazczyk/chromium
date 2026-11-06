@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine policy field validators header
+// summary: Declares validator functions that check enterprise search engine policy fields for empty values, invalid shortcuts, and conflicting keywords, reporting problems to a policy error map.
+// ---
+
 #ifndef COMPONENTS_SEARCH_ENGINES_ENTERPRISE_SEARCH_ENGINE_FIELDS_VALIDATORS_H_
 #define COMPONENTS_SEARCH_ENGINES_ENTERPRISE_SEARCH_ENGINE_FIELDS_VALIDATORS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Search engine choice build configuration
+summary: Defines GN build targets for the search engine choice component, including a buildflags header and the switches component.

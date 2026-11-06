@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prepopulated search engine resolver header
+// summary: Declares the Resolver keyed service and BuiltinKeywordsMetadata for resolving prepopulated search engines based on country, prefs, and migration state.
+// ---
+
 #ifndef COMPONENTS_SEARCH_ENGINES_TEMPLATE_URL_PREPOPULATE_DATA_RESOLVER_H_
 #define COMPONENTS_SEARCH_ENGINES_TEMPLATE_URL_PREPOPULATE_DATA_RESOLVER_H_
 

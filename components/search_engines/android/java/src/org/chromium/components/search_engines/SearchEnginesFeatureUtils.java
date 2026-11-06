@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engines feature utilities
+// summary: Helpers to access search engines feature parameters and command-line switches, including choice APIs debug logging, fake backend mode and connection retry limits.
+// ---
+
 package org.chromium.components.search_engines;
 
 import org.chromium.base.CommandLine;

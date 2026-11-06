@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search engines test utilities
+// summary: Supplies helpers for search engine tests, including dummy TemplateURLData generation, comparison checks, and a fake search engine choice service client.
+// ---
+
 #include "components/search_engines/search_engines_test_util.h"
 
 #include <utility>

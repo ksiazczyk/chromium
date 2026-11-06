@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TemplateURLData conversion utilities API
+// summary: Declares functions to serialize and deserialize TemplateURLData from dictionaries, prepopulated engines, and starter pack engines.
+// ---
+
 #ifndef COMPONENTS_SEARCH_ENGINES_TEMPLATE_URL_DATA_UTIL_H_
 #define COMPONENTS_SEARCH_ENGINES_TEMPLATE_URL_DATA_UTIL_H_
 

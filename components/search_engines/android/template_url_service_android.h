@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the Android TemplateUrlService wrapper
+// summary: Declares TemplateUrlServiceAndroid, an observer-based bridge giving the Java layer access to search engine service state and queries.
+// ---
+
 #ifndef COMPONENTS_SEARCH_ENGINES_ANDROID_TEMPLATE_URL_SERVICE_ANDROID_H_
 #define COMPONENTS_SEARCH_ENGINES_ANDROID_TEMPLATE_URL_SERVICE_ANDROID_H_
 

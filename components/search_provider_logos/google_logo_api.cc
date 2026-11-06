@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the Google doodle logo API
+// summary: Builds Google doodle URLs with fingerprint and display parameters and parses the async ddljson response into encoded logos.
+// ---
+
 #include "components/search_provider_logos/google_logo_api.h"
 
 #include <stdint.h>

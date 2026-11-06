@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface of the fixed logo API
+// summary: Declares the response parsing and URL functions that adapt the logo API for static logos.
+// ---
+
 #ifndef COMPONENTS_SEARCH_PROVIDER_LOGOS_FIXED_LOGO_API_H_
 #define COMPONENTS_SEARCH_PROVIDER_LOGOS_FIXED_LOGO_API_H_
 

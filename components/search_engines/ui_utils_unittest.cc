@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search engine UI utility unit tests
+// summary: Unit tests for the search engine sorting comparators, verifying alphabetical ordering, managed engine priority, and prepopulated engine ordering.
+// ---
+
 #include "components/search_engines/ui_utils.h"
 
 #include <memory>

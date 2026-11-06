@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search aggregator policy handler implementation
+// summary: Implements the policy handler that converts EnterpriseSearchAggregatorSettings policy values into validated search engine preferences.
+// ---
+
 #include "components/search_engines/enterprise/search_aggregator_policy_handler.h"
 
 #include "base/feature_list.h"

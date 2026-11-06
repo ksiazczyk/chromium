@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Android search engines component
+summary: Defines GN targets for the Android search engines component, including Java libraries, resources, JNI header generation, and JUnit test targets.
