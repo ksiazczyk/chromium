@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CellularConnectionHandler implementation
+// summary: Implements preparation of cellular networks for connection, including enabling eSIM profiles via Hermes and waiting for Shill connectability.
+// ---
+
 #include "chromeos/ash/components/network/cellular_connection_handler.h"
 
 #include "base/check.h"

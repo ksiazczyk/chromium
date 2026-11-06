@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkCertificateHandler class declaration
+// summary: Declares NetworkCertificateHandler, which maintains server CA and client certificate lists for network configuration UI.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_NETWORK_CERTIFICATE_HANDLER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_NETWORK_CERTIFICATE_HANDLER_H_
 

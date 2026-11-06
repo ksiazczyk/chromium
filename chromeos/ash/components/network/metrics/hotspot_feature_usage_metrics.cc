@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hotspot feature usage metrics implementation
+// summary: Implements HotspotFeatureUsageMetrics, reporting daily hotspot feature usage eligibility, accessibility, enabled state and enable attempts.
+// ---
+
 #include "chromeos/ash/components/network/metrics/hotspot_feature_usage_metrics.h"
 
 #include "chromeos/ash/components/network/enterprise_managed_metadata_store.h"

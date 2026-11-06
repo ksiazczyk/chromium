@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake network metadata store class declaration
+// summary: Declares a fake NetworkMetadataStore test double with in-memory text message suppression state.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_FAKE_NETWORK_METADATA_STORE_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_FAKE_NETWORK_METADATA_STORE_H_
 

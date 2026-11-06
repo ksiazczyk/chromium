@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hermes eSIM metrics logging
+// summary: Logs UMA histograms for eSIM profile install, enable, disable, uninstall results and installed profile refresh latency via Hermes.
+// ---
+
 #include "chromeos/ash/components/network/hermes_metrics_util.h"
 
 #include <algorithm>

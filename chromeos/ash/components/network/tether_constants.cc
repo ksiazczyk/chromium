@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tether network constants
+// summary: Defines constant strings for the tether network type and tether-specific properties such as battery percentage, carrier, and signal strength.
+// ---
+
 #include "chromeos/ash/components/network/tether_constants.h"
 
 namespace ash {

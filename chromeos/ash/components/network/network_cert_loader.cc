@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkCertLoader implementation
+// summary: Implements NetworkCertLoader, which loads client and authority certificates from NSS databases and policy providers for network authentication.
+// ---
+
 #include "chromeos/ash/components/network/network_cert_loader.h"
 
 #include <algorithm>

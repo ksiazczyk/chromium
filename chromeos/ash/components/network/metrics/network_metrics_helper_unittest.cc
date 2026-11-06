@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network metrics helper unit tests
+// summary: Unit tests that verify the connection result and technology state histograms logged by NetworkMetricsHelper across network types and variants.
+// ---
+
 #include "chromeos/ash/components/network/metrics/network_metrics_helper.h"
 
 #include <memory>

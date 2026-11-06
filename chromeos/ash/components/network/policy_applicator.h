@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PolicyApplicator class header
+// summary: Declares PolicyApplicator, which compares modified policies with Shill profile entries and applies missing or changed policies.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_POLICY_APPLICATOR_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_POLICY_APPLICATOR_H_
 

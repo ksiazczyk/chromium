@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile policies implementation
+// summary: Implements ProfilePolicies, which stores per-profile network policies and applies variable expansions and runtime values such as resolved client certificates.
+// ---
+
 #include "chromeos/ash/components/network/profile_policies.h"
 
 #include <iterator>

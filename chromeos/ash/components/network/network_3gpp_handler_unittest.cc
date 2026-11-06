@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Network3gppHandler
+// summary: Unit tests for Network3gppHandler using fake Shill D-Bus clients to verify carrier lock setup and device object path changes.
+// ---
+
 #include "chromeos/ash/components/network/network_3gpp_handler.h"
 
 #include <memory>

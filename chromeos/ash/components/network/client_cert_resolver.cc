@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client certificate resolver implementation
+// summary: Implements ClientCertResolver, which matches client certificate patterns configured for networks against available certificates and configures Shill properties accordingly.
+// ---
+
 #include "chromeos/ash/components/network/client_cert_resolver.h"
 
 #include <cert.h>

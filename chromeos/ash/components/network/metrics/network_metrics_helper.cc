@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network metrics helper implementation
+// summary: Implements NetworkMetricsHelper, logging connection results, disconnections, and technology enable or disable results for network types such as WiFi, Cellular, Ethernet, and VPN.
+// ---
+
 #include "chromeos/ash/components/network/metrics/network_metrics_helper.h"
 
 #include "base/metrics/histogram_functions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Client certificate utility unit tests
+// summary: Unit tests for client certificate utilities, checking PKCS#11 id parsing and extraction of client certificate settings from Shill properties for VPN and EAP.
+// ---
+
 #include "chromeos/ash/components/network/client_cert_util.h"
 
 #include "base/test/values_test_util.h"

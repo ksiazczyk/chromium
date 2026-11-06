@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Text message provider unit tests
+// summary: Unit tests for TextMessageProvider covering message delivery, policy and user suppression, and notification metrics using fake Shill clients and mocks.
+// ---
+
 #include "chromeos/ash/components/network/text_message_provider.h"
 
 #include <memory>

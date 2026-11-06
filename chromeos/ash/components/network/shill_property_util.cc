@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shill property utilities implementation
+// summary: Implements helpers for Shill network properties, including SSID encoding handling, UIData parsing, identifying property copying and comparison, and loggability checks.
+// ---
+
 #include "chromeos/ash/components/network/shill_property_util.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cellular network metrics logger unit tests
+// summary: Unit tests verifying cellular metrics histograms, including custom APN counts and eSIM installation results, using shill test services.
+// ---
+
 #include "chromeos/ash/components/network/metrics/cellular_network_metrics_logger.h"
 
 #include <memory>

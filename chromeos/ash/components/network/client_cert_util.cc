@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client certificate utility implementation
+// summary: Implements helpers that parse ONC client certificate configurations and extract PKCS#11 ids, TPM slots and certificate settings from Shill properties.
+// ---
+
 #include "chromeos/ash/components/network/client_cert_util.h"
 
 #include <cert.h>

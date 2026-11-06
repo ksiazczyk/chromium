@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hidden network cleanup handler header
+// summary: Declares HiddenNetworkHandler, which removes wrongly hidden networks on a daily timer using network metadata.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_HIDDEN_NETWORK_HANDLER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_HIDDEN_NETWORK_HANDLER_H_
 

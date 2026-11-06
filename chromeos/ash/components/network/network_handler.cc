@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network handler initialization and access
+// summary: Implements the global NetworkHandler that initializes and owns the ChromeOS network handlers, metrics loggers, and related services.
+// ---
+
 #include "chromeos/ash/components/network/network_handler.h"
 
 #include <memory>

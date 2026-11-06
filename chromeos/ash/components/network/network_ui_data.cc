@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkUIData implementation
+// summary: Implements NetworkUIData, which stores the ONC source and user settings dictionary for network configurations.
+// ---
+
 #include "chromeos/ash/components/network/network_ui_data.h"
 
 #include <array>

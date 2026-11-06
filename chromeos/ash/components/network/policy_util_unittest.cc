@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for network policy utilities
+// summary: Unit tests verifying SmdxActivationCode extraction from ONC cellular configurations and detection of recommended fields at top level and nested levels.
+// ---
+
 #include "chromeos/ash/components/network/policy_util.h"
 
 #include <optional>

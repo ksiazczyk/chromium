@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HotspotCapabilitiesProvider header
+// summary: Declares HotspotCapabilitiesProvider, which caches hotspot status, capabilities and tethering readiness results from Shill and notifies observers of changes.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_HOTSPOT_CAPABILITIES_PROVIDER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_HOTSPOT_CAPABILITIES_PROVIDER_H_
 

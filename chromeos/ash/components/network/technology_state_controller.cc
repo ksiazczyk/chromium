@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TechnologyStateController implementation
+// summary: Implements enabling and disabling network technologies, coordinating hotspot and WiFi so only one is enabled at a time.
+// ---
+
 #include "chromeos/ash/components/network/technology_state_controller.h"
 
 #include "ash/constants/ash_features.h"

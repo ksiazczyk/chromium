@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VPN network metrics helper implementation
+// summary: Implements VpnNetworkMetricsHelper, recording the configuration source of created VPN networks per provider type to UMA histograms.
+// ---
+
 #include "chromeos/ash/components/network/metrics/vpn_network_metrics_helper.h"
 
 #include "base/logging.h"

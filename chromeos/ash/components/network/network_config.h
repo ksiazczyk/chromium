@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkConfig struct declaration
+// summary: Declares the NetworkConfig struct mirroring the Shill Service NetworkConfig property with optional IP, DNS, MTU, and route fields.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_NETWORK_CONFIG_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_NETWORK_CONFIG_H_
 

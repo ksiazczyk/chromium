@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake 3GPP network handler class declaration
+// summary: Declares a fake Network3gppHandler test double that captures carrier lock requests and lets tests set the returned result.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_FAKE_NETWORK_3GPP_HANDLER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_FAKE_NETWORK_3GPP_HANDLER_H_
 

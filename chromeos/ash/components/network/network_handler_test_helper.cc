@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network handler test helper implementation
+// summary: Implements a test helper that initializes a fake NetworkHandler and DBus clients and registers the prefs required by network tests.
+// ---
+
 #include "chromeos/ash/components/network/network_handler_test_helper.h"
 
 #include "ash/constants/ash_pref_names.h"

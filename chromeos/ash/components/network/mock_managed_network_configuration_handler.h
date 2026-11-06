@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock ManagedNetworkConfigurationHandler for tests
+// summary: Gmock mock of ManagedNetworkConfigurationHandler that fakes policy, profile and configuration calls for network tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_MOCK_MANAGED_NETWORK_CONFIGURATION_HANDLER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_MOCK_MANAGED_NETWORK_CONFIGURATION_HANDLER_H_
 

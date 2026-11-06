@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network handler test helper declaration
+// summary: Declares a test helper class that manages initialization and shutdown of NetworkHandler and Shill and Hermes DBus clients in tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_NETWORK_HANDLER_TEST_HELPER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_NETWORK_HANDLER_TEST_HELPER_H_
 

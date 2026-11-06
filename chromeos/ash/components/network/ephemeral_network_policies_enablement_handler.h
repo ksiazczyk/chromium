@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EphemeralNetworkPoliciesEnablementHandler class header
+// summary: Declares EphemeralNetworkPoliciesEnablementHandler, which propagates enablement of ephemeral network policies via feature flag or device policy and notifies an observer once.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_EPHEMERAL_NETWORK_POLICIES_ENABLEMENT_HANDLER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_EPHEMERAL_NETWORK_POLICIES_ENABLEMENT_HANDLER_H_
 

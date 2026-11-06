@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkConnect implementation
+// summary: Implements the state machine for network connection flows, handling configuration, cellular activation, portal signin and delegation of UI to a delegate.
+// ---
+
 #include "chromeos/ash/components/network/network_connect.h"
 
 #include <memory>

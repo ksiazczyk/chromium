@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hotspot utility functions header
+// summary: Declares conversion helpers between Shill tethering values and hotspot mojom enums such as HotspotState, DisableReason, and WiFiSecurityMode.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_HOTSPOT_UTIL_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_HOTSPOT_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fast Transition observer unit tests
+// summary: Verifies that changes to the Fast Transition preference enable or disable the Fast Transition status reported by Shill.
+// ---
+
 #include <memory>
 
 #include "ash/constants/ash_pref_names.h"

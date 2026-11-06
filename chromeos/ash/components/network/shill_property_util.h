@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shill property utilities header
+// summary: Declares shill_property_util helpers for SSID, network name, UIData, random MAC policy, identifying properties, and loggable Shill property checks.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_SHILL_PROPERTY_UTIL_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_SHILL_PROPERTY_UTIL_H_
 

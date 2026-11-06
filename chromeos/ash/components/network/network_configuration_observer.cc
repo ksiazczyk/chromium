@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkConfigurationObserver implementation
+// summary: Provides default empty implementations of the network configuration observer callbacks for creation, modification, removal and shutdown events.
+// ---
+
 #include "chromeos/ash/components/network/network_configuration_observer.h"
 
 namespace ash {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hotspot allowed flag handler header
+// summary: Declares HotspotAllowedFlagHandler, which syncs the experimental tethering flag to shill on init and update.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_HOTSPOT_ALLOWED_FLAG_HANDLER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_HOTSPOT_ALLOWED_FLAG_HANDLER_H_
 

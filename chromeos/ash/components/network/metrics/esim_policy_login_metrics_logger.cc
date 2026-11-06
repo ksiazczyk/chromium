@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: eSIM policy login metrics logger implementation
+// summary: Implements ESimPolicyLoginMetricsLogger, which logs eSIM policy cellular metrics such as blocked non-managed cellular behavior when a user logs in.
+// ---
+
 #include "chromeos/ash/components/network/metrics/esim_policy_login_metrics_logger.h"
 
 #include "base/metrics/histogram_macros.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake stub cellular networks provider header
+// summary: Declares a fake StubCellularNetworksProvider for tests to specify ICCIDs of stub cellular networks to be created.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_FAKE_STUB_CELLULAR_NETWORKS_PROVIDER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_FAKE_STUB_CELLULAR_NETWORKS_PROVIDER_H_
 

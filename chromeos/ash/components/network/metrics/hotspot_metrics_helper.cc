@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hotspot metrics helper implementation
+// summary: Implements HotspotMetricsHelper, which records UMA histograms for hotspot capability allow status, enable and disable results, usage duration, client counts, and disable reasons.
+// ---
+
 #include "chromeos/ash/components/network/metrics/hotspot_metrics_helper.h"
 
 #include "base/metrics/histogram_functions.h"

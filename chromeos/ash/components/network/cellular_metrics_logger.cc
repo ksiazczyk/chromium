@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cellular metrics logger implementation
+// summary: Implements logging of cellular network metrics such as connection results, SIM PIN operations, SIM lock events, and eSIM feature usage histograms.
+// ---
+
 #include "chromeos/ash/components/network/cellular_metrics_logger.h"
 
 #include <memory>

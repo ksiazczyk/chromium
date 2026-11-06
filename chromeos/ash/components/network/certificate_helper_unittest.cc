@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Certificate helper unit tests
+// summary: Unit tests verifying certificate name, nickname and type detection, including trusted, distrusted and server certificates in a test NSS database.
+// ---
+
 #include "chromeos/ash/components/network/certificate_helper.h"
 
 #include "crypto/scoped_test_nss_db.h"

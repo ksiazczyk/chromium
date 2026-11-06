@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManagedState implementation
+// summary: Implements the base class for Shill-managed network and device state, including property parsing helpers and type dispatch.
+// ---
+
 #include "chromeos/ash/components/network/managed_state.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkActivationHandlerImpl implementation
+// summary: Implements CompleteActivation by invoking Shill's CompleteCellularActivation over D-Bus with success and error callbacks.
+// ---
+
 #include "chromeos/ash/components/network/network_activation_handler_impl.h"
 
 #include "base/functional/bind.h"

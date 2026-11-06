@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SystemTokenCertDbStorage test utilities implementation
+// summary: Implements a GetDatabase callback wrapper and a fake storage observer used to test SystemTokenCertDbStorage database retrieval.
+// ---
+
 #include "chromeos/ash/components/network/system_token_cert_db_storage_test_util.h"
 
 #include <memory>

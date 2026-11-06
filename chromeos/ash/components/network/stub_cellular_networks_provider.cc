@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub cellular networks provider implementation
+// summary: Implements StubCellularNetworksProvider, which adds, removes, and updates non-Shill stub cellular networks based on eSIM profiles and SIM slot metadata.
+// ---
+
 #include "chromeos/ash/components/network/stub_cellular_networks_provider.h"
 
 #include "ash/constants/ash_features.h"

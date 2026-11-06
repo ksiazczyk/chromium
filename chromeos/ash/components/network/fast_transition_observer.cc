@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Transition observer implementation
+// summary: Watches the device Wi-Fi Fast Transition preference and propagates its value to Shill through NetworkStateHandler.
+// ---
+
 #include "chromeos/ash/components/network/fast_transition_observer.h"
 
 #include <memory>

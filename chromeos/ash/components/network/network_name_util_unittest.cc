@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network name utility unit tests
+// summary: Unit tests verifying network name resolution for eSIM cellular networks and Ethernet using a test eSIM profile handler.
+// ---
+
 #include "chromeos/ash/components/network/network_name_util.h"
 
 #include <stddef.h>

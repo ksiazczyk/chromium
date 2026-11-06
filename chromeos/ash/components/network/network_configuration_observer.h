@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkConfigurationObserver interface
+// summary: Declares the observer interface notified of network configuration creation, modification and removal events in the ChromeOS network stack.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_NETWORK_CONFIGURATION_OBSERVER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_NETWORK_CONFIGURATION_OBSERVER_H_
 

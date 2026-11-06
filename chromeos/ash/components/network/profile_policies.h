@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile policies for Shill profiles
+// summary: Declares ProfilePolicies and NetworkPolicy, which store ONC network policies for a Shill profile and manage variable expansions and resolved client certificates.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_PROFILE_POLICIES_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_PROFILE_POLICIES_H_
 

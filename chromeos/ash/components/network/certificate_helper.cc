@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate helper implementation
+// summary: Implements NSS-based certificate helpers that decode certificate types and provide issuer display names, common names and nicknames for certificates.
+// ---
+
 #include "chromeos/ash/components/network/certificate_helper.h"
 
 #include <cert.h>

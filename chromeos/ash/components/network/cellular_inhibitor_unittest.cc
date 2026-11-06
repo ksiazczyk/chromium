@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CellularInhibitor unit tests
+// summary: Unit tests for CellularInhibitor covering cellular scanning inhibition via Shill, including observer events and inhibit result histograms.
+// ---
+
 #include "chromeos/ash/components/network/cellular_inhibitor.h"
 
 #include <memory>

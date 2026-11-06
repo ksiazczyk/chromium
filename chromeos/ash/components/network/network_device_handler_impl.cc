@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkDeviceHandler implementation
+// summary: Implements device property access, cellular network registration, and SIM PIN/PUK handling by invoking the Shill device client over DBus with error mapping.
+// ---
+
 #include "chromeos/ash/components/network/network_device_handler_impl.h"
 
 #include <stddef.h>

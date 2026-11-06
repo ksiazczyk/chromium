@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkTypePattern implementation
+// summary: Implements bit-flag based matching of Shill network types, with patterns for wireless, mobile, physical, non-virtual and individual types.
+// ---
+
 #include "chromeos/ash/components/network/network_type_pattern.h"
 
 #include <stddef.h>

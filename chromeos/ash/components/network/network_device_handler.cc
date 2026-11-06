@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkDeviceHandler error constants and test factory
+// summary: Defines the device handler error name constants and an InitializeForTesting helper that creates a NetworkDeviceHandlerImpl bound to a NetworkStateHandler.
+// ---
+
 #include "chromeos/ash/components/network/network_device_handler.h"
 
 #include "base/memory/ptr_util.h"

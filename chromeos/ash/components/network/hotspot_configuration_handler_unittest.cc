@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HotspotConfigurationHandler unit tests
+// summary: Unit tests for HotspotConfigurationHandler covering config retrieval, setting configurations and observer change notifications.
+// ---
+
 #include "chromeos/ash/components/network/hotspot_configuration_handler.h"
 
 #include "base/containers/span.h"

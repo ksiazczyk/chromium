@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cellular connection handler unit tests
+// summary: Unit tests for CellularConnectionHandler covering preparation of existing and newly installed cellular networks for connection.
+// ---
+
 #include "chromeos/ash/components/network/cellular_connection_handler.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cellular metrics eSIM histogram test helper implementation
+// summary: Implements helpers that assert expected bucket counts across the many eSIM installation and SM-DS scan histograms in cellular metrics tests.
+// ---
+
 #include "chromeos/ash/components/network/metrics/cellular_network_metrics_test_helper.h"
 
 #include "base/check.h"

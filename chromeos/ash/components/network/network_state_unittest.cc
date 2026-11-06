@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkState unit tests
+// summary: Unit tests for NetworkState property handling, including network name validation and truncation, connection state and captive portal updates.
+// ---
+
 #include "chromeos/ash/components/network/network_state.h"
 
 #include <stdint.h>

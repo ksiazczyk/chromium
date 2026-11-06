@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cellular eSIM profile waiter unit tests
+// summary: Unit tests for CellularESimProfileWaiter covering immediate success, callback invocation on destruction, and Hermes shutdown behavior using fake Hermes clients.
+// ---
+
 #include "chromeos/ash/components/network/cellular_esim_profile_waiter.h"
 
 #include "ash/constants/ash_features.h"

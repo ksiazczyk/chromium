@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GeolocationHandler implementation
+// summary: Requests and caches Wi-Fi access point and cell tower geolocation data from Shill, tracking technology enablement and data age.
+// ---
+
 #include "chromeos/ash/components/network/geolocation_handler_impl.h"
 
 #include <stddef.h>

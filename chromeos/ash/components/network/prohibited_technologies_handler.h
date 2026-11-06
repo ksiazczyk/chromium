@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prohibited technologies handler declarations
+// summary: Declares ProhibitedTechnologiesHandler, which manages session and globally prohibited network technologies and enforces them via network state handlers.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_PROHIBITED_TECHNOLOGIES_HANDLER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_PROHIBITED_TECHNOLOGIES_HANDLER_H_
 

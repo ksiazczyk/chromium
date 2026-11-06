@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shill property handler header
+// summary: Declares ShillPropertyHandler and its Listener interface for tracking Shill manager, network, and device state changes and notifying a listener such as NetworkStateHandler.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_SHILL_PROPERTY_HANDLER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_SHILL_PROPERTY_HANDLER_H_
 

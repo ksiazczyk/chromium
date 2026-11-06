@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock NetworkMetadataStore implementation
+// summary: Constructs a MockNetworkMetadataStore with null dependencies so tests can instantiate a largely inert metadata store.
+// ---
+
 #include "chromeos/ash/components/network/mock_network_metadata_store.h"
 
 namespace ash {

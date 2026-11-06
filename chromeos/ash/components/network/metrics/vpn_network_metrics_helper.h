@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VPN network metrics helper class declaration
+// summary: Declares VpnNetworkMetricsHelper, which observes VPN network creation and reports whether it was configured manually or by policy to the UMA backend.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_METRICS_VPN_NETWORK_METRICS_HELPER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_METRICS_VPN_NETWORK_METRICS_HELPER_H_
 

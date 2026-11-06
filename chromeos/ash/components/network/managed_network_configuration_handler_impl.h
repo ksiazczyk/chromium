@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManagedNetworkConfigurationHandlerImpl class declaration
+// summary: Declares the implementation of the managed network configuration handler, including policy application and configuration management methods.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_MANAGED_NETWORK_CONFIGURATION_HANDLER_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_MANAGED_NETWORK_CONFIGURATION_HANDLER_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkTestHelperBase class declaration
+// summary: Declares the base network test helper with utilities to set up fake network devices, services, profiles and service properties in tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_NETWORK_TEST_HELPER_BASE_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_NETWORK_TEST_HELPER_BASE_H_
 

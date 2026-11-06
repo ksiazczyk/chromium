@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hotspot state handler unit tests
+// summary: Unit tests for HotspotStateHandler covering hotspot state updates, disable reasons, and active client wake lock behavior with fake Shill and power clients.
+// ---
+
 #include "chromeos/ash/components/network/hotspot_state_handler.h"
 
 #include "base/test/bind.h"

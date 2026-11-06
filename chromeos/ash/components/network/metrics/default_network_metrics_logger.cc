@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default network metrics logger implementation
+// summary: Implements DefaultNetworkMetricsLogger, which records the metered technology subtype of the default non-VPN network whenever the default network or its metered state changes.
+// ---
+
 #include "chromeos/ash/components/network/metrics/default_network_metrics_logger.h"
 
 #include "base/logging.h"

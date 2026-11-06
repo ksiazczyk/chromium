@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hotspot state handler implementation
+// summary: Implements HotspotStateHandler, which caches hotspot state and active client count from Shill tethering status and manages a system wake lock while clients are connected.
+// ---
+
 #include "chromeos/ash/components/network/hotspot_state_handler.h"
 
 #include "chromeos/ash/components/dbus/shill/shill_manager_client.h"

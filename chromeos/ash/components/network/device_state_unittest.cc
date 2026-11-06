@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceState unit tests
+// summary: Unit tests for DeviceState covering cellular and Wi-Fi devices, SIM slot info, ICCID, flashing state, and IP config property updates via NetworkStateTestHelper.
+// ---
+
 #include "chromeos/ash/components/network/device_state.h"
 
 #include "base/test/task_environment.h"

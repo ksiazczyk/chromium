@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkConfigurationHandler implementation
+// summary: Implements creating, configuring and removing network configurations by calling through to the Shill service API over DBus with error handling and logging.
+// ---
+
 #include "chromeos/ash/components/network/network_configuration_handler.h"
 
 #include <stddef.h>

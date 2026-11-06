@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shill property utilities unit tests
+// summary: Unit tests for shill_property_util covering the random MAC policy per ONC source and the IsLoggableShillProperty filter for sensitive properties.
+// ---
+
 #include "chromeos/ash/components/network/shill_property_util.h"
 
 #include "ash/constants/ash_features.h"

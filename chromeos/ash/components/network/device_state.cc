@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device state implementation
+// summary: Implements DeviceState, which tracks Shill device properties such as MAC address, scanning state, operator info, SIM slot and lock details and cellular scan results.
+// ---
+
 #include "chromeos/ash/components/network/device_state.h"
 
 #include <memory>

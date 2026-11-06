@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hotspot enabled state notifier header
+// summary: Declares HotspotEnabledStateNotifier, which captures hotspot and Wi-Fi state changes from HotspotController and HotspotStateHandler and relays them to mojo observers.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_HOTSPOT_ENABLED_STATE_NOTIFIER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_HOTSPOT_ENABLED_STATE_NOTIFIER_H_
 

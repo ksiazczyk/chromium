@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network event log unit tests
+// summary: Unit tests verifying that the network identifier helpers produce consistent IDs for ethernet, cellular, WiFi, and VPN services in fake Shill state.
+// ---
+
 #include "chromeos/ash/components/network/network_event_log.h"
 
 #include "base/test/task_environment.h"

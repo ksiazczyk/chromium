@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cellular network metrics logger implementation
+// summary: Implements logging of cellular network metrics such as APN types, eSIM installation results, and SM-DS scan durations.
+// ---
+
 #include "chromeos/ash/components/network/metrics/cellular_network_metrics_logger.h"
 
 #include "ash/constants/ash_features.h"

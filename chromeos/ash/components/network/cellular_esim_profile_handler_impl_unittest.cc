@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cellular eSIM profile handler implementation unit tests
+// summary: Unit tests for CellularESimProfileHandlerImpl, covering eSIM profile list updates, pending profile prefs, and disable-profile metrics using fake Hermes and Shill clients.
+// ---
+
 #include "chromeos/ash/components/network/cellular_esim_profile_handler_impl.h"
 
 #include <memory>

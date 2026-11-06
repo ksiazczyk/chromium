@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for prohibited technologies handler
+// summary: Unit tests that set up network handlers and user or device policies to verify enforcement of prohibited network technologies across login states.
+// ---
+
 #include "chromeos/ash/components/network/prohibited_technologies_handler.h"
 
 #include <memory>

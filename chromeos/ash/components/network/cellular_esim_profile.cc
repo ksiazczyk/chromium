@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cellular eSIM profile implementation
+// summary: Implements serialization of CellularESimProfile metadata to and from dictionary values.
+// ---
+
 #include "chromeos/ash/components/network/cellular_esim_profile.h"
 
 #include "base/strings/utf_string_conversions.h"

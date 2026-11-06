@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock NetworkStateHandler for tests
+// summary: Declares a gmock mock of NetworkStateHandler with a test initializer and mocked blocked Wi-Fi and cellular network updates.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_MOCK_NETWORK_STATE_HANDLER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_MOCK_NETWORK_STATE_HANDLER_H_
 

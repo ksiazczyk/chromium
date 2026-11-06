@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default network metrics logger class declaration
+// summary: Declares DefaultNetworkMetricsLogger, a NetworkStateHandlerObserver that tracks the default network and logs its metered technology subtype histogram.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_METRICS_DEFAULT_NETWORK_METRICS_LOGGER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_METRICS_DEFAULT_NETWORK_METRICS_LOGGER_H_
 

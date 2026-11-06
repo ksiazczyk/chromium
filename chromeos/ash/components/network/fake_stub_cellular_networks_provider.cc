@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake stub cellular networks provider implementation
+// summary: Implements a fake StubCellularNetworksProvider that lets clients add, remove, and query stub cellular networks by ICCID and EID.
+// ---
+
 #include "chromeos/ash/components/network/fake_stub_cellular_networks_provider.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HiddenNetworkHandler unit tests
+// summary: Unit tests verifying removal of wrongly hidden WiFi networks, including timer intervals, metadata checks and removal histograms.
+// ---
+
 #include "chromeos/ash/components/network/hidden_network_handler.h"
 
 #include "ash/constants/ash_switches.h"

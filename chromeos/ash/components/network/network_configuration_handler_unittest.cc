@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkConfigurationHandler unit tests
+// summary: Unit tests for network configuration creation, modification and removal using stub Shill clients and a test observer to track configuration events.
+// ---
+
 #include "chromeos/ash/components/network/network_configuration_handler.h"
 
 #include <stddef.h>

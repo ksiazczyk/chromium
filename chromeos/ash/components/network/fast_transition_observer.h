@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Transition observer header
+// summary: Declares FastTransitionObserver, which propagates Fast Transition policy changes from Chrome preferences down to Shill.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_FAST_TRANSITION_OBSERVER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_FAST_TRANSITION_OBSERVER_H_
 

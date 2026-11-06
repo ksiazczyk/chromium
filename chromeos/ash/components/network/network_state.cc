@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkState implementation
+// summary: Implements the NetworkState class that parses Shill service properties such as connection state, signal strength, portal state, and IP configuration.
+// ---
+
 #include "chromeos/ash/components/network/network_state.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkConnect class declaration
+// summary: Declares the NetworkConnect state machine and its delegate interface for connecting to networks and showing setup, carrier and error UI flows.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_NETWORK_CONNECT_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_NETWORK_CONNECT_H_
 
