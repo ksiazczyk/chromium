@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utilities for detecting distillable pages
+// summary: Runs page-feature extraction JavaScript to classify pages with a DistillablePageDetector and manages distillability observers and results on a WebContents.
+// ---
+
 #include "components/dom_distiller/content/browser/distillable_page_utils.h"
 
 #include <string>

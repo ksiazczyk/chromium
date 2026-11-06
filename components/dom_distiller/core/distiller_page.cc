@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Distiller page implementation
+// summary: Implements DistillerPage, running the selected distiller script on a page and parsing distillation results with histogram metrics.
+// ---
+
 #include "components/dom_distiller/core/distiller_page.h"
 
 #include <stddef.h>

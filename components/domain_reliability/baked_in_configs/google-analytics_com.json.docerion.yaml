@@ -1,0 +1,4 @@
+# Docerion header of google-analytics_com.json.
+type: config
+title: Domain reliability config for google-analytics.com
+summary: Baked-in domain reliability configuration monitoring google-analytics.com requests to analytics.js, ga.js, and __utm.gif.

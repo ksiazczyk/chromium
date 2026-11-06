@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for iOS DOM distiller
+summary: Grants include access to components/favicon/ios and ios/web/public for the iOS DOM distiller code.

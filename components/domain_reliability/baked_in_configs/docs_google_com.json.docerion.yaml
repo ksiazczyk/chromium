@@ -1,0 +1,4 @@
+# Docerion header of docs_google_com.json.
+type: config
+title: Domain reliability config for docs.google.com
+summary: Baked-in domain reliability configuration monitoring Google Docs document, presentation, and spreadsheet paths on docs.google.com.

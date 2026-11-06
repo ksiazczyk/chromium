@@ -1,0 +1,4 @@
+# Docerion header of distilled_page_prefs_observer_bridge.mm.
+type: source
+title: Distilled page prefs observer bridge implementation
+summary: Implements the bridge that forwards font family, theme, font scaling, and links-enabled preference changes to the Objective-C observer.

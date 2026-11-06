@@ -1,0 +1,4 @@
+# Docerion header of googlevideo_com.json.
+type: config
+title: Domain reliability config for googlevideo.com
+summary: Baked-in domain reliability configuration monitoring googlevideo.com video playback, download, and package paths, including subdomains.

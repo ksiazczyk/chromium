@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Distiller page script result parsing utilities header
+// summary: Declares ParseValueFromScriptResult, which prepares the DOM distiller JavaScript result for OnDistillationDone.
+// ---
+
 #ifndef COMPONENTS_DOM_DISTILLER_IOS_DISTILLER_PAGE_UTILS_H_
 #define COMPONENTS_DOM_DISTILLER_IOS_DISTILLER_PAGE_UTILS_H_
 

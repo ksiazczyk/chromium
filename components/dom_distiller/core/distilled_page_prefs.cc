@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Distilled page preferences implementation
+// summary: Implements DistilledPagePrefs, registering and managing reader mode preferences for font family, theme, font scaling, and links, and notifying observers of changes.
+// ---
+
 #include "components/dom_distiller/core/distilled_page_prefs.h"
 
 #include "base/functional/bind.h"

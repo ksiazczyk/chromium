@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the dom distiller renderer
+summary: GN build file that defines the renderer static library, listing its sources and dependencies for the DOM distiller content renderer component.

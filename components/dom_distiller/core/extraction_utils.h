@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extraction utility declarations
+// summary: Declares helpers for counting words, building distiller scripts with options, and converting readability results to DomDistillerResult.
+// ---
+
 #ifndef COMPONENTS_DOM_DISTILLER_CORE_EXTRACTION_UTILS_H_
 #define COMPONENTS_DOM_DISTILLER_CORE_EXTRACTION_UTILS_H_
 

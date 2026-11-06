@@ -1,0 +1,4 @@
+# Docerion header of distilled_page_prefs_observer_bridge_unittest.mm.
+type: test
+title: Unit tests for the distilled page prefs observer bridge
+summary: Uses a fake observer to verify that font family, theme, font scaling, and links-enabled change notifications are forwarded correctly.

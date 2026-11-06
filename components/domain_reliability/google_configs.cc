@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Built-in Google Domain Reliability configs
+// summary: Defines Domain Reliability configs for Google country domains and other Google properties, constructed on demand from a fixed flat map of parameters.
+// ---
+
 #include "components/domain_reliability/google_configs.h"
 
 #include <memory>

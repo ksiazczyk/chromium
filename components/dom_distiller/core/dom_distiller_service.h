@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DomDistillerService interface declaration
+// summary: Declares the DOM distiller service interface and implementation for requesting article views, creating distiller pages, and accessing distilled page preferences and UI handles.
+// ---
+
 #ifndef COMPONENTS_DOM_DISTILLER_CORE_DOM_DISTILLER_SERVICE_H_
 #define COMPONENTS_DOM_DISTILLER_CORE_DOM_DISTILLER_SERVICE_H_
 

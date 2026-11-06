@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: List classifier for distilled content
+// summary: Heuristically decides when to restore bullet and numbering styling for content lists in distilled pages.
+// ---
+
 /**
  * A utility class to classify lists in distilled content.
  *

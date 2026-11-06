@@ -1,0 +1,4 @@
+# Docerion header of clients2_google_com.json.
+type: config
+title: Domain reliability config for clients2.google.com
+summary: Baked-in domain reliability configuration monitoring clients2.google.com with a same-origin collector and a /domainreliability path prefix.

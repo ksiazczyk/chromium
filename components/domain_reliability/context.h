@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Domain Reliability context header
+// summary: Declares the per-domain DomainReliabilityContext class that holds a domain's config and beacon queue and manages upload scheduling.
+// ---
+
 #ifndef COMPONENTS_DOMAIN_RELIABILITY_CONTEXT_H_
 #define COMPONENTS_DOMAIN_RELIABILITY_CONTEXT_H_
 

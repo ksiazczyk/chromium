@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Readability distiller runner
+// summary: Runs the Readability heuristic on the page, flattening open shadow roots so web component content is included, and returns the result.
+// ---
+
 // Runs readability heuristic on the page and return the result.
 (function(allowedVideoRegex) {
 try {

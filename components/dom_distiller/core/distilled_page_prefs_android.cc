@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI bridge for distilled page preferences
+// summary: Exposes DistilledPagePrefs to Java via JNI, forwarding font, theme, scaling, and link settings and observer events for Android reader mode.
+// ---
+
 #include "components/dom_distiller/core/distilled_page_prefs_android.h"
 
 #include "components/dom_distiller/core/distilled_page_prefs.h"

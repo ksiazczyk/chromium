@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Google configs unit tests
+// summary: Tests that Google Domain Reliability configs are valid and that hostname matching handles exact matches, www duplicates, and subdomains correctly.
+// ---
+
 #include "components/domain_reliability/google_configs.h"
 
 #include "net/base/url_util.h"

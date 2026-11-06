@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DomDistillerRequestViewBase unit tests
+// summary: Unit tests verifying that article titles and content are properly escaped and never empty when sent as JavaScript to the viewer.
+// ---
+
 #include <memory>
 #include <vector>
 

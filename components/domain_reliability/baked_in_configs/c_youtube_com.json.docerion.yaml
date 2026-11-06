@@ -1,0 +1,4 @@
+# Docerion header of c_youtube_com.json.
+type: config
+title: Domain reliability config for c.youtube.com
+summary: Baked-in domain reliability config for c.youtube.com that lists beacon collector URLs, success and failure sampling rates, and monitored path prefixes.

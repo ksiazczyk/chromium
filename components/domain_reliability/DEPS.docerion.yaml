@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for Domain Reliability
+summary: DEPS file allowing includes from net and components/prefs within this directory.

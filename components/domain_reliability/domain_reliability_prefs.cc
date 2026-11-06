@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Domain Reliability preference registration
+// summary: Registers the domain_reliability.allowed_by_policy boolean local state preference that gates diagnostic data reporting by policy.
+// ---
+
 #include "components/domain_reliability/domain_reliability_prefs.h"
 
 #include "components/prefs/pref_registry_simple.h"

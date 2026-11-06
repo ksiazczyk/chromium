@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DomDistiller JS browser test suite
+// summary: Browser test that serves the dom_distiller_js test resources via an embedded test server, executes the JavaScript test entry point and collects the results.
+// ---
+
 #include "base/cfi_buildflags.h"
 #include "base/command_line.h"
 #include "base/functional/bind.h"

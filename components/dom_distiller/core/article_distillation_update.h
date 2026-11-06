@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArticleDistillationUpdate class declaration
+// summary: Declares a class describing an update about an article under distillation, with access to distilled pages and next and previous page indicators.
+// ---
+
 #ifndef COMPONENTS_DOM_DISTILLER_CORE_ARTICLE_DISTILLATION_UPDATE_H_
 #define COMPONENTS_DOM_DISTILLER_CORE_ARTICLE_DISTILLATION_UPDATE_H_
 

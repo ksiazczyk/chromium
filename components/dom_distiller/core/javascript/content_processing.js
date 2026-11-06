@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content post-processing for distilled pages
+// summary: Post-processes distilled article content by sanitizing links, marking SVGs with local references, and filling YouTube embed placeholders.
+// ---
+
 /**
  * Visits all links on the page, preserve http and https links and have them
  * open to new tab. Remove (i.e., unwrap) otherwise.

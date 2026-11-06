@@ -1,0 +1,4 @@
+# Docerion header of c_play_google_com.json.
+type: config
+title: Domain reliability config for c.play.google.com
+summary: Baked-in domain reliability config for c.play.google.com with a same-origin collector, beacon URLs, sampling rates, and monitored path prefixes.

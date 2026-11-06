@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dom distiller viewer source unit tests
+// summary: Unit tests verifying the MIME types returned by DomDistillerViewerSource for viewer CSS and other requests.
+// ---
+
 #include "components/dom_distiller/content/browser/dom_distiller_viewer_source.h"
 
 #include <memory>

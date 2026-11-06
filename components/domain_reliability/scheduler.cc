@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Domain reliability upload scheduler
+// summary: Schedules beacon uploads with configurable minimum and maximum delays and exponential backoff per collector.
+// ---
+
 #include "components/domain_reliability/scheduler.h"
 
 #include <stdint.h>

@@ -1,0 +1,4 @@
+# Docerion header of distilled_page_prefs.mojom.
+type: source
+title: Distilled page prefs Mojom definitions
+summary: Defines Mojom enums for reader mode theme and font family preferences, kept in sync with histogram enum metadata.

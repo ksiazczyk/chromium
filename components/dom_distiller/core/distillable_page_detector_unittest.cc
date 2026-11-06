@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DistillablePageDetector unit tests
+// summary: Unit tests covering threshold calculation, scoring, classification results, and behavior when the feature vector has the wrong size.
+// ---
+
 #include "components/dom_distiller/core/distillable_page_detector.h"
 
 #include <memory>

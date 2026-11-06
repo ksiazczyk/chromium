@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android DomDistillerService wrapper declaration
+// summary: Declares the native Android wrapper class that provides Java access to the DomDistillerService and its distilled page preferences.
+// ---
+
 #ifndef COMPONENTS_DOM_DISTILLER_CORE_DOM_DISTILLER_SERVICE_ANDROID_H_
 #define COMPONENTS_DOM_DISTILLER_CORE_DOM_DISTILLER_SERVICE_ANDROID_H_
 

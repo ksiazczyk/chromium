@@ -1,3 +1,9 @@
+---
+type: readme
+title: README for DOM distiller translation context images
+summary: Explains that the directory stores SHA-1 hashes of images that give translators context for UI strings.
+---
+
 This directory of image SHA-1 hashes is used to improve translations of UI
 strings through context images for translators.
 

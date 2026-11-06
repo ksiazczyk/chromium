@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DomDistillerRequestViewBase implementation
+// summary: Implements the base class that receives distilled article data and sends title, text direction, content, and preference JavaScript to the viewer, including error page handling.
+// ---
+
 #include "components/dom_distiller/core/dom_distiller_request_view_base.h"
 
 #include <memory>

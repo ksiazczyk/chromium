@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for dom_distiller content
+summary: Defines dependency rules allowing imports from dom_distiller components and content_public while blocking content/public/android/java.

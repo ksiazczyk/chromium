@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for distiller URL utilities
+// summary: Tests building and parsing of distilled view URLs, query parameter lookup, title extraction and round-tripping original URLs through the distiller scheme.
+// ---
+
 #include "components/dom_distiller/core/url_utils.h"
 
 #include "components/dom_distiller/core/url_constants.h"

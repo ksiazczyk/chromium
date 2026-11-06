@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Dom distiller mojom build target
+summary: Defines the GN mojom target that generates bindings for distilled_page_prefs.mojom with Java code generation enabled.

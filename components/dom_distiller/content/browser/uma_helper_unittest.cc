@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UMA helper unit tests
+// summary: Unit tests for the DistillabilityDriverTimer covering start, pause, resume and reset behavior with mock time.
+// ---
+
 #include "components/dom_distiller/content/browser/uma_helper.h"
 
 #include <string>

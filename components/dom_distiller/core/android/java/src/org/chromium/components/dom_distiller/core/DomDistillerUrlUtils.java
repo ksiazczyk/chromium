@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DomDistillerUrlUtils
+// summary: Static JNI-backed helpers for distiller URLs, including building viewer URLs, recovering original URLs, detecting distilled pages and recognizing exits from Reader Mode.
+// ---
+
 package org.chromium.components.dom_distiller.core;
 
 import android.text.TextUtils;

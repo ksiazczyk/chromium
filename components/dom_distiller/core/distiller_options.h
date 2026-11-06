@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Distiller options for DOM distiller and Readability engines
+// summary: Declares the DistillerOptions struct that groups options for the DOM Distiller and Readability distillation engines.
+// ---
+
 #ifndef COMPONENTS_DOM_DISTILLER_CORE_DISTILLER_OPTIONS_H_
 #define COMPONENTS_DOM_DISTILLER_CORE_DISTILLER_OPTIONS_H_
 

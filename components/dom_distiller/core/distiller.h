@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Distiller interface and implementation header
+// summary: Declares the Distiller interface, its factory, and DistillerImpl, which distills an article from a page and its associated pages with page-number tracking.
+// ---
+
 #ifndef COMPONENTS_DOM_DISTILLER_CORE_DISTILLER_H_
 #define COMPONENTS_DOM_DISTILLER_CORE_DISTILLER_H_
 

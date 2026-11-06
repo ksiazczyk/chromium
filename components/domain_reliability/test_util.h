@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Domain reliability test utilities header
+// summary: Declares mock time, tick clock, callback, and uploader helpers for domain reliability tests.
+// ---
+
 #ifndef COMPONENTS_DOMAIN_RELIABILITY_TEST_UTIL_H_
 #define COMPONENTS_DOMAIN_RELIABILITY_TEST_UTIL_H_
 

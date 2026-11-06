@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Distilled page JavaScript browser tests
+// summary: Runs mocha-based JavaScript tests for the distilled page viewer, covering pinch zoom, font size slider, settings dialog, classifiers, empty SVGs and table wrapping.
+// ---
+
 #include <memory>
 #include <string>
 

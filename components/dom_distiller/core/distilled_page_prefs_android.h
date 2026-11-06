@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android distilled page preferences bridge header
+// summary: Declares DistilledPagePrefsAndroid and its observer wrapper, which relay distilled page preference calls between Java and the native preferences class.
+// ---
+
 #ifndef COMPONENTS_DOM_DISTILLER_CORE_DISTILLED_PAGE_PREFS_ANDROID_H_
 #define COMPONENTS_DOM_DISTILLER_CORE_DISTILLED_PAGE_PREFS_ANDROID_H_
 

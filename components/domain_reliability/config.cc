@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Domain Reliability config implementation
+// summary: Implements the DomainReliabilityConfig struct, parsing per-origin JSON configs and validating origins, HTTPS collectors, and success and failure sample rates.
+// ---
+
 #include "components/domain_reliability/config.h"
 
 #include <optional>

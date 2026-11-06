@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DOM distiller content extractor browser test
+// summary: Browser test that sets up a DomDistillerService to extract and distill web page content, configurable via command-line switches for URLs, output format, text-only extraction, and pagination.
+// ---
+
 #include <stddef.h>
 
 #include <memory>

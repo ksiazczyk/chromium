@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Distiller UI handle interface
+// summary: Declares the DistillerUIHandle interface for opening the DOM distiller settings UI.
+// ---
+
 #ifndef COMPONENTS_DOM_DISTILLER_CORE_DISTILLER_UI_HANDLE_H_
 #define COMPONENTS_DOM_DISTILLER_CORE_DISTILLER_UI_HANDLE_H_
 

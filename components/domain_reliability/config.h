@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Domain Reliability config header
+// summary: Declares the DomainReliabilityConfig struct that controls which requests are measured and reported, with what frequency, and where beacons are uploaded.
+// ---
+
 #ifndef COMPONENTS_DOMAIN_RELIABILITY_CONFIG_H_
 #define COMPONENTS_DOMAIN_RELIABILITY_CONFIG_H_
 

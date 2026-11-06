@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DistillerNativeJavaScript class declaration
+// summary: Declares the primary interface for the dom distiller's custom JavaScript, maintaining callbacks and the Mojo channel to the browser process.
+// ---
+
 #ifndef COMPONENTS_DOM_DISTILLER_CONTENT_RENDERER_DISTILLER_NATIVE_JAVASCRIPT_H_
 #define COMPONENTS_DOM_DISTILLER_CONTENT_RENDERER_DISTILLER_NATIVE_JAVASCRIPT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test utilities header for DOM distiller browser tests
+// summary: Declares FakeDistilledPage and test server setup helpers used to build and load fake distilled pages in DOM distiller browser tests.
+// ---
+
 #ifndef COMPONENTS_DOM_DISTILLER_CONTENT_BROWSER_TEST_TEST_UTIL_H_
 #define COMPONENTS_DOM_DISTILLER_CONTENT_BROWSER_TEST_TEST_UTIL_H_
 

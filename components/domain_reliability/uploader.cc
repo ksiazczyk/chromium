@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Domain reliability report uploader
+// summary: Uploads domain reliability reports to collector URLs and tracks upload depth to prevent upload loops.
+// ---
+
 #include "components/domain_reliability/uploader.h"
 
 #include <utility>

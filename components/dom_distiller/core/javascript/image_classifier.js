@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image classifier for distilled content
+// summary: Classifies images in distilled content as inline or full-width using heuristics on rendered size, metadata, and structural context.
+// ---
+
 /**
  * A utility class for classifying images in distilled content.
  *

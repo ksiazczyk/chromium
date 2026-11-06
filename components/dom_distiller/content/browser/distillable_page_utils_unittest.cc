@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DistillabilityResult equality
+// summary: Unit tests verifying the equality operator of DistillabilityResult for results with the same and with different URLs.
+// ---
+
 #include "components/dom_distiller/content/browser/distillable_page_utils.h"
 
 #include <memory>

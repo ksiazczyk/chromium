@@ -12,6 +12,12 @@
 
 /* Remove most spacing between table cells. */
 
+/*docerion
+type: source
+title: Legacy distilled page styles for all platforms
+summary: Legacy CSS for the distilled page viewer used across all platforms, kept to A/B test against the new styles, with table, typography and element rules.
+*/
+
 table {
   border-collapse: collapse;
   border-spacing: 0;

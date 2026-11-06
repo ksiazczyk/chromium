@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Distiller page interface
+// summary: Declares DistillerPage and its factory for injecting JavaScript into pages to extract long-form content, with parse result enums.
+// ---
+
 #ifndef COMPONENTS_DOM_DISTILLER_CORE_DISTILLER_PAGE_H_
 #define COMPONENTS_DOM_DISTILLER_CORE_DISTILLER_PAGE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Uploader unit tests
+// summary: Tests report uploading including discard behavior, response handling, and network isolation expectations.
+// ---
+
 #include "components/domain_reliability/uploader.h"
 
 #include <stddef.h>

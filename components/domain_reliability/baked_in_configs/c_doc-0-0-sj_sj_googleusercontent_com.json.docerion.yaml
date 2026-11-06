@@ -1,0 +1,4 @@
+# Docerion header of c_doc-0-0-sj_sj_googleusercontent_com.json.
+type: config
+title: Domain reliability config for c.doc-0-0-sj.sj.googleusercontent.com
+summary: Baked-in domain reliability config for c.doc-0-0-sj.sj.googleusercontent.com listing beacon collector URLs, sampling rates, and monitored path prefixes.

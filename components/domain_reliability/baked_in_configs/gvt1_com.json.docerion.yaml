@@ -1,0 +1,4 @@
+# Docerion header of gvt1_com.json.
+type: config
+title: Domain reliability config for gvt1.com
+summary: Baked-in domain reliability configuration monitoring gvt1.com video playback, download, and package paths, including subdomains.

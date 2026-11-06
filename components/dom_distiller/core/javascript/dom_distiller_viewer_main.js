@@ -4,6 +4,12 @@
 
 // LINT.IfChange(JSThemesAndFonts)
 
+// ---docerion
+// type: source
+// title: Distilled page viewer main script
+// summary: Main viewer script that applies themes, fonts, titles, and runs post-processing steps on the distilled article content.
+// ---
+
 // These classes must agree with the font classes in distilledpage_common.css.
 const themeClasses = ['light', 'dark', 'sepia'];
 const fontFamilyClasses = ['sans-serif', 'serif', 'monospace', 'Lexend'];

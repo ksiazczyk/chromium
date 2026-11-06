@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI bindings for DomDistillerService
+// summary: Android JNI implementation that exposes the native DomDistillerService and the pointer to its DistilledPagePrefs to the Java layer.
+// ---
+
 #include "components/dom_distiller/core/dom_distiller_service_android.h"
 
 #include "base/android/jni_android.h"

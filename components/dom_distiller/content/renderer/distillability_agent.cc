@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Distillability agent implementation
+// summary: Implements the renderer-side agent that detects distillable pages using heuristics, filters selected hosts, and reports results and UKM metrics to the browser.
+// ---
+
 #include "components/dom_distiller/content/renderer/distillability_agent.h"
 
 #include "base/json/json_writer.h"

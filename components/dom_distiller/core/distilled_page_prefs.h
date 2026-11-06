@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Distilled page preferences header
+// summary: Declares the DistilledPagePrefs class and its observer interface for distilled page settings such as font family, theme, font scaling, and link enabling.
+// ---
+
 #ifndef COMPONENTS_DOM_DISTILLER_CORE_DISTILLED_PAGE_PREFS_H_
 #define COMPONENTS_DOM_DISTILLER_CORE_DISTILLED_PAGE_PREFS_H_
 

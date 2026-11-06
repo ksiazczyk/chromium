@@ -1,0 +1,4 @@
+# Docerion header of bake_in_configs.py.
+type: script
+title: Baked-in config generator
+summary: Python script that encodes baked_in_configs JSON files as C string arrays compiled into Chrome, restricted to a domain whitelist.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Domain Reliability context implementation
+// summary: Implements the per-domain DomainReliabilityContext, which samples and queues beacons, builds reports, and schedules uploads to collectors.
+// ---
+
 #include "components/domain_reliability/context.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Domain Reliability monitor implementation
+// summary: Implements the top-level monitor that observes URL requests and network changes, creates beacons from connection attempts, and loads baked-in configs.
+// ---
+
 #include "components/domain_reliability/monitor.h"
 
 #include <array>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Dom distiller Android include rules
+summary: DEPS file allowing dependencies on the components/dom_distiller directory from this Android folder.

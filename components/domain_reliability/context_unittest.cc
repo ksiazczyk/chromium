@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Domain Reliability context unit tests
+// summary: Unit tests for DomainReliabilityContext covering beacon sampling, queue limits, report creation, and upload scheduling and completion.
+// ---
+
 #include "components/domain_reliability/context.h"
 
 #include <stddef.h>

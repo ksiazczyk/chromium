@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Domain Reliability build targets
+summary: GN build file defining the bake_in_configs action, the domain_reliability component, unit tests, and the prefs source set.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for DOM distiller JavaScript
+summary: Delegates review of trivial or mechanical JavaScript, CSS and HTML changes to the platform OWNERS file.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the dom distiller browser directory
+summary: Declares the allowed include paths for this directory, covering back-forward cache, Mojo, network and service manager, Blink public headers, and display UI.

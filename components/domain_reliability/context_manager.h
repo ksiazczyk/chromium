@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Domain Reliability context manager header
+// summary: Declares the DomainReliabilityContextManager class that owns contexts, routes beacons, and adds or removes contexts by origin filter.
+// ---
+
 #ifndef COMPONENTS_DOMAIN_RELIABILITY_CONTEXT_MANAGER_H_
 #define COMPONENTS_DOMAIN_RELIABILITY_CONTEXT_MANAGER_H_
 

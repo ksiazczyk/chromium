@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArticleEntry struct declaration
+// summary: Declares the ArticleEntry struct with entry ID, title, and page URLs, along with the IsEntryValid validation helper.
+// ---
+
 #ifndef COMPONENTS_DOM_DISTILLER_CORE_ARTICLE_ENTRY_H_
 #define COMPONENTS_DOM_DISTILLER_CORE_ARTICLE_ENTRY_H_
 

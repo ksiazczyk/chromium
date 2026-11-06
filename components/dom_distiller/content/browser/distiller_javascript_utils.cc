@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Distiller JavaScript utilities implementation
+// summary: Implements helpers that set the distiller's isolated world ID and execute distiller JavaScript within a render frame's isolated world.
+// ---
+
 #include "components/dom_distiller/content/browser/distiller_javascript_utils.h"
 
 #include <string>

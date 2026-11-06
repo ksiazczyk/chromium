@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Viewer JavaScript browser test
+// summary: Browser test that runs the viewer JavaScript test script on a fake distilled page to verify link sanitization behavior.
+// ---
+
 #include <memory>
 #include <string>
 

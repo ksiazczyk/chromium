@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Domain Reliability utility implementation
+// summary: Implements Domain Reliability helpers, including a mapping of net error codes to beacon status strings, beacon status determination from HTTP response codes, and URL sanitization for reports.
+// ---
+
 
 #include "components/domain_reliability/util.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM distiller feature declarations
+// summary: Declares distiller feature flags and platform-specific readability heuristic thresholds for distillability checks.
+// ---
+
 #ifndef COMPONENTS_DOM_DISTILLER_CORE_DOM_DISTILLER_FEATURES_H_
 #define COMPONENTS_DOM_DISTILLER_CORE_DOM_DISTILLER_FEATURES_H_
 

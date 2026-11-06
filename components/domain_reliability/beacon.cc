@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Beacon implementation
+// summary: Implements serialization of a beacon to JSON for upload, including URL sanitization, error details, and outcome metrics.
+// ---
+
 #include "components/domain_reliability/beacon.h"
 
 #include <memory>

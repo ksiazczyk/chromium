@@ -1,0 +1,4 @@
+# Docerion header of distillability_service.mojom.
+type: source
+title: DistillabilityService Mojom interface
+summary: Defines the browser-implemented DistillabilityService Mojom interface used by the renderer to notify the Reader Mode UI whether a page is distillable.

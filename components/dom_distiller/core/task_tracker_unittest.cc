@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Task tracker unit test
+// summary: Unit tests for TaskTracker covering entry and URL matching, viewer cancellation, saving and distillation using mocks and fakes.
+// ---
+
 #include "components/dom_distiller/core/task_tracker.h"
 
 #include <memory>

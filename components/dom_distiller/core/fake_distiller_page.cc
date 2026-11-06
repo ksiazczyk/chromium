@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock distiller page implementation
+// summary: Implements mock distiller page and factory classes used as test doubles for page distillation.
+// ---
+
 #include "components/dom_distiller/core/fake_distiller_page.h"
 
 namespace dom_distiller {

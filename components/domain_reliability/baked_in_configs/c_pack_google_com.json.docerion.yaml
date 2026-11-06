@@ -1,0 +1,4 @@
+# Docerion header of c_pack_google_com.json.
+type: config
+title: Domain reliability config for c.pack.google.com
+summary: Baked-in domain reliability config for c.pack.google.com with a same-origin collector, beacon URLs, sampling rates, and monitored path prefixes.

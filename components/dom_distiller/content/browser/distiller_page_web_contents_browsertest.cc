@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for WebContents-based distiller pages
+// summary: Content browser tests verifying distillation of simple, video, and shadow DOM articles through DistillerPageWebContents using an embedded test server.
+// ---
+
 #include "components/dom_distiller/content/browser/distiller_page_web_contents.h"
 
 #include <utility>

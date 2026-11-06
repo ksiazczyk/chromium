@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Domain Reliability dispatcher unit tests
+// summary: Unit tests for the task dispatcher, verifying scheduled tasks do not run early and run when eligible or at their deadline using mock time.
+// ---
+
 #include "components/domain_reliability/dispatcher.h"
 
 #include "base/functional/bind.h"

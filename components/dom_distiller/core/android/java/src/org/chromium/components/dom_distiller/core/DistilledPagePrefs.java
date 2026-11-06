@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DistilledPagePrefs
+// summary: Java JNI wrapper for the native dom_distiller DistilledPagePrefs, exposing font family, theme, font scaling and links preferences with observer registration and change notifications.
+// ---
+
 package org.chromium.components.dom_distiller.core;
 
 import org.jni_zero.CalledByNative;

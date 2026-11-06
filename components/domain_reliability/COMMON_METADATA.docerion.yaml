@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common directory metadata
+summary: Declares the Monorail component, team email, and Buganizer component used for Domain Reliability issues.

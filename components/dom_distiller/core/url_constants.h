@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM distiller URL constants
+// summary: Defines constants for the distiller URL scheme, query keys and viewer resource paths used by the DOM distiller.
+// ---
+
 #ifndef COMPONENTS_DOM_DISTILLER_CORE_URL_CONSTANTS_H_
 #define COMPONENTS_DOM_DISTILLER_CORE_URL_CONSTANTS_H_
 

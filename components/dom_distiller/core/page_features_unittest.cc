@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page features unit test
+// summary: Unit test verifying that Chromium's derived feature extraction matches the training pipeline using JSON input and expectation data files.
+// ---
+
 #include "components/dom_distiller/core/page_features.h"
 
 #include <stddef.h>

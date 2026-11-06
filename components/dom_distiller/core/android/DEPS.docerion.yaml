@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Dom distiller core Android DEPS
+summary: DEPS file setting include rules that allow dependencies on components/dom_distiller and components/embedder_support/android.

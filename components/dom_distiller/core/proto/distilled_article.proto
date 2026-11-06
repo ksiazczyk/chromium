@@ -4,6 +4,12 @@
 //
 // Distilled article content.
 
+// ---docerion
+// type: source
+// title: 'distilled_article.proto: article protobuf definition'
+// summary: Defines the DistilledArticleProto message holding an article title and its list of distilled pages.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

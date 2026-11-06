@@ -1,0 +1,4 @@
+# Docerion header of distiller_page_utils.mm.
+type: source
+title: Distiller page script result parsing utilities implementation
+summary: Recursively converts JavaScript result values, turning whole-number doubles into integers so the DOM distiller proto can parse them.

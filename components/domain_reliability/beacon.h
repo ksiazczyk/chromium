@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Beacon data structure
+// summary: Defines the per-request data uploaded to the Domain Reliability collector, including status, errors, timing, sample rate, and outcome enum.
+// ---
+
 #ifndef COMPONENTS_DOMAIN_RELIABILITY_BEACON_H_
 #define COMPONENTS_DOMAIN_RELIABILITY_BEACON_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for distilled page preferences
+// summary: Tests DistilledPagePrefs observer notifications and get and set behavior for font family, theme, font scaling, and link enabling using a testing pref service.
+// ---
+
 #include "components/dom_distiller/core/distilled_page_prefs.h"
 
 #include <memory>

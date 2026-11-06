@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the dom_distiller core
+summary: Defines the source sets, components, viewer JavaScript action, and test targets that build the DOM distiller core library and its Android additions.

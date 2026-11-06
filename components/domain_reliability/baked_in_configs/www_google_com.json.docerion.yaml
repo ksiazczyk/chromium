@@ -1,0 +1,4 @@
+# Docerion header of www_google_com.json.
+type: config
+title: Baked-in domain reliability config for the Google web origin
+summary: Baked-in domain reliability configuration that lists upload collectors, success and failure sampling rates, and monitored path prefixes for the Google web origin.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo service for distiller JavaScript requests
+// summary: Implements the DistillerJavaScriptService Mojo interface to open distiller settings and store theme, font family, and font scaling preferences.
+// ---
+
 #include "components/dom_distiller/content/browser/distiller_javascript_service_impl.h"
 #include "components/dom_distiller/core/dom_distiller_service.h"
 

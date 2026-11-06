@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for distillable page detection
+// summary: Content browser tests that load a test article page and verify distillability detection through the DistillablePageDetector pipeline.
+// ---
+
 #include "components/dom_distiller/content/browser/distillable_page_utils.h"
 
 #include <utility>

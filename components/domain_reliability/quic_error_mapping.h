@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QUIC error mapping header
+// summary: Declares the function that converts a QUIC error code into the quic_error string for a beacon.
+// ---
+
 #ifndef COMPONENTS_DOMAIN_RELIABILITY_QUIC_ERROR_MAPPING_H_
 #define COMPONENTS_DOMAIN_RELIABILITY_QUIC_ERROR_MAPPING_H_
 

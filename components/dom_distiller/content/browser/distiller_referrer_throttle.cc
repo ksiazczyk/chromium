@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Distiller referrer navigation throttle implementation
+// summary: Implements a navigation throttle that sets the referrer to the original page URL for navigations initiated from chrome-distiller pages.
+// ---
+
 #include "components/dom_distiller/content/browser/distiller_referrer_throttle.h"
 
 #include <memory>

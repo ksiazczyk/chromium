@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: DOM distiller common metadata
+summary: Declares the Monorail component, team email, and Buganizer component used for issues in the dom_distiller directory.

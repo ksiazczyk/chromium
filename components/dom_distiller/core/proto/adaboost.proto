@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'adaboost.proto: AdaBoost stump protobuf definitions'
+// summary: Defines protobuf messages for AdaBoost model parameters, including the number of stumps, features and individual stump data.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

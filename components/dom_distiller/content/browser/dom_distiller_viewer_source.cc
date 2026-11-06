@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM distiller viewer data source implementation
+// summary: Implements the URL data source that serves distilled article content to the chrome-distiller viewer and buffers JavaScript updates until the page is ready.
+// ---
+
 #include "components/dom_distiller/content/browser/dom_distiller_viewer_source.h"
 
 #include <deque>

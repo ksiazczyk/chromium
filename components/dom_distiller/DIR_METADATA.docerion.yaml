@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DOM distiller directory metadata
+summary: Applies the common metadata mixins from COMMON_METADATA to this directory for tracking and ownership settings.

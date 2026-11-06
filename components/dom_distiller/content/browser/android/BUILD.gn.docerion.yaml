@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Dom distiller Android content build definition
+summary: GN build file defining the dom_distiller_content_java Android library and its JNI header generation for DistillablePageUtils.

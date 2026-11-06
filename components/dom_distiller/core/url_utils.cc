@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Distiller URL utilities
+// summary: Implements helpers to build, parse and validate distiller view URLs, including extracting the original URL, title and time.
+// ---
+
 #include "components/dom_distiller/core/url_utils.h"
 
 #include <string>

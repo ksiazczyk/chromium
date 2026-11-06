@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DistillablePageDetector implementation
+// summary: Implements AdaBoost-based scoring and classification of distillable pages, loading serialized new and long page models from bundled resources.
+// ---
+
 #include "components/dom_distiller/core/distillable_page_detector.h"
 
 #include <stddef.h>

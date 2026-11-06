@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI bridge for distillability updates
+// summary: Bridges native distillability observer results to Java through JNI so Android can receive page distillability updates for a WebContents.
+// ---
+
 #include "components/dom_distiller/content/browser/distillable_page_utils.h"
 
 #include "base/android/jni_android.h"

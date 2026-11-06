@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM distiller URL utilities header
+// summary: Declares helpers for building, parsing and validating chrome-distiller view URLs, including extracting the original article URL, title, start time and query parameter values.
+// ---
+
 #ifndef COMPONENTS_DOM_DISTILLER_CORE_URL_UTILS_H_
 #define COMPONENTS_DOM_DISTILLER_CORE_URL_UTILS_H_
 

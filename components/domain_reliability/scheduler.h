@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Domain reliability upload scheduler header
+// summary: Declares the scheduler that decides when beacon uploads run and which collector is used.
+// ---
+
 #ifndef COMPONENTS_DOMAIN_RELIABILITY_SCHEDULER_H_
 #define COMPONENTS_DOMAIN_RELIABILITY_SCHEDULER_H_
 
