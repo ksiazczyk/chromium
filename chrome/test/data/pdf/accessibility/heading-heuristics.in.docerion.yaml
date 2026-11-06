@@ -1,0 +1,4 @@
+# Docerion header of heading-heuristics.in.
+type: test
+title: Heading heuristics PDF template
+summary: PDF template with headings identified by font weight, font name and all-caps text, used to test heading heuristics in PDF accessibility tests.

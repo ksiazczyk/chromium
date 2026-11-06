@@ -1,0 +1,4 @@
+# Docerion header of poster_tests.html.
+type: test
+title: Plugin poster rendering test page
+summary: Test page covering poster attribute, srcset, param, embed, missing posters, and many size variants for plugin power saver poster images.

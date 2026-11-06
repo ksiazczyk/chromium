@@ -1,0 +1,4 @@
+# Docerion header of infinite_scroll_root_n_layers.html.
+type: test
+title: Infinite scroll benchmark on root scroller
+summary: Perf test page simulating endless scrolling of fake email list items on the root scroller with many promoted layers.

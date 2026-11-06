@@ -1,0 +1,4 @@
+# Docerion header of cert_without_san_ec.cnf.
+type: test
+title: OpenSSL extensions for EC leaf certificates without SAN
+summary: OpenSSL extension config that includes ca_ec.cnf and defines leaf certificate extensions without a subjectAltName for test signing.

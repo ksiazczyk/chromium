@@ -1,0 +1,4 @@
+# Docerion header of text-style-heuristics-expected-auralinux.txt.
+type: test
+title: Text style heuristics expected auralinux accessibility tree
+summary: Expected Linux accessibility tree snapshot of the text-style PDF with heading heuristics applied to the four cases.

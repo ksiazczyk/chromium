@@ -1,0 +1,4 @@
+# Docerion header of post-message-popup.html.
+type: test
+title: Post-message popup counting test
+summary: Test page that attempts to open two popups triggered by postMessage events and reports how many successfully opened.

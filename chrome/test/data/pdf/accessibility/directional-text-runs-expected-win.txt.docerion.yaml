@@ -1,0 +1,4 @@
+# Docerion header of directional-text-runs-expected-win.txt.
+type: test
+title: Directional text runs expected IA2 tree on Windows
+summary: Expected MSAA/IAccessible2 accessibility tree for the directional text runs PDF on Windows with readonly roles.

@@ -1,0 +1,4 @@
+# Docerion header of paragraphs-and-heading-untagged-expected-uia-win.txt.
+type: test
+title: Expected UIA tree for untagged paragraphs and heading PDF
+summary: Expected Windows UIA accessibility tree dump for the untagged PDF containing a heading and Lorem Ipsum paragraphs.

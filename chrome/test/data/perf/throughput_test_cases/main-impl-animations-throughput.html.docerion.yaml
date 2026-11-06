@@ -1,0 +1,4 @@
+# Docerion header of main-impl-animations-throughput.html.
+type: test
+title: Main and compositor animation throughput test case
+summary: Test page combining a janky main-thread transform animation with a compositor CSS animation, with an optional delayed start to test throughput aggregation.

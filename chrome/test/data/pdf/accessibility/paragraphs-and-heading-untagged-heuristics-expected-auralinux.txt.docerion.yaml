@@ -1,0 +1,4 @@
+# Docerion header of paragraphs-and-heading-untagged-heuristics-expected-auralinux.txt.
+type: test
+title: Expected auralinux tree for untagged heading heuristics
+summary: Expected Linux accessibility tree dump when heading and paragraph heuristics are applied to the untagged PDF.

@@ -1,0 +1,4 @@
+# Docerion header of xfa_fields-expected-auralinux.txt.
+type: test
+title: XFA fields expected Linux accessibility tree
+summary: Expected Linux accessibility tree for the XFA fields PDF, containing only the document frame and page landmark nodes.

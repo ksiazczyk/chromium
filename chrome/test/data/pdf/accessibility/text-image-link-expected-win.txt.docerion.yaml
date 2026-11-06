@@ -1,0 +1,4 @@
+# Docerion header of text-image-link-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for text, image and link PDF
+summary: Expected Windows IA2/MSAA accessibility tree output for a PDF containing links, images and link annotations.

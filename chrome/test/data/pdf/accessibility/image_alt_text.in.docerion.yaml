@@ -1,0 +1,4 @@
+# Docerion header of image_alt_text.in.
+type: test
+title: PDF template for image alt text accessibility test
+summary: PDF template source with placeholders that generates a test PDF containing three images with alternate text for accessibility tests.

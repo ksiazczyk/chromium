@@ -1,0 +1,4 @@
+# Docerion header of permission_element_count.html.
+type: test
+title: Permission element count test page
+summary: Test page containing multiple geolocation, install, and usermedia permission elements for tests involving several permission elements at once.

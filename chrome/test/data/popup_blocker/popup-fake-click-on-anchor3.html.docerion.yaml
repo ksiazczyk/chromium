@@ -1,0 +1,4 @@
+# Docerion header of popup-fake-click-on-anchor3.html.
+type: test
+title: Popup Blocked Fake Click on Anchor
+summary: Test page that dispatches a fake shift-click on an anchor on load to verify the popup blocker blocks the resulting popup, showing a warning in a new tab otherwise.

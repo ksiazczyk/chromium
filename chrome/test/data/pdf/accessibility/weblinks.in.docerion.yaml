@@ -1,0 +1,4 @@
+# Docerion header of weblinks.in.
+type: test
+title: Weblinks PDF test input
+summary: PDF source template that draws paragraphs containing web links in Times-Roman and Helvetica, used to generate the weblinks accessibility test PDF.

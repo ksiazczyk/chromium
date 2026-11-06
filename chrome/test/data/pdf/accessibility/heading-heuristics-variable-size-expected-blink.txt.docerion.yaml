@@ -1,0 +1,4 @@
+# Docerion header of heading-heuristics-variable-size-expected-blink.txt.
+type: test
+title: Variable size heading heuristics expected tree for Blink
+summary: Expected Blink accessibility tree for the variable size heading heuristics PDF with headings of differing font sizes and styles.

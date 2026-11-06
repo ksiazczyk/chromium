@@ -1,0 +1,4 @@
+# Docerion header of root-and-intermediate-ca-certs_ec.onc.
+type: data
+title: ONC file with EC root and intermediate CA certificates
+summary: ONC test fixture containing a web-trusted EC root CA certificate together with an intermediate CA certificate for policy tests.

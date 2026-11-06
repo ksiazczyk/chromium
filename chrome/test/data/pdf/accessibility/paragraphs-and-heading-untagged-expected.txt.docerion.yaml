@@ -1,0 +1,4 @@
+# Docerion header of paragraphs-and-heading-untagged-expected.txt.
+type: test
+title: Expected text for untagged paragraphs and heading PDF
+summary: Expected plain text dump with paragraph markers for the untagged PDF containing a heading and Lorem Ipsum paragraphs.

@@ -1,0 +1,4 @@
+# Docerion header of highlights-expected-win.txt.
+type: test
+title: Highlights expected Windows accessibility tree
+summary: Expected MSAA/IA2 accessibility tree for the highlights PDF on Windows, including push button and note roles.

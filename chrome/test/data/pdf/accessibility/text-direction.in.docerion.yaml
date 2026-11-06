@@ -1,0 +1,4 @@
+# Docerion header of text-direction.in.
+type: test
+title: Text direction PDF test template
+summary: PDF template source that renders LTR and Arabic RTL text to exercise text direction handling in PDF accessibility.

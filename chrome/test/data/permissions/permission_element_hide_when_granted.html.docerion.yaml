@@ -1,0 +1,4 @@
+# Docerion header of permission_element_hide_when_granted.html.
+type: test
+title: Permission element hide-when-granted test page
+summary: Test page using a ::granted style to hide geolocation and usermedia permission elements, with a helper that clicks elements once visible.

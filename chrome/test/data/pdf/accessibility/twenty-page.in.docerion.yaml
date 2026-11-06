@@ -1,0 +1,4 @@
+# Docerion header of twenty-page.in.
+type: test
+title: Twenty-page PDF source template
+summary: PDF template with twenty pages of simple Helvetica paragraphs used as input for PDF accessibility tests.

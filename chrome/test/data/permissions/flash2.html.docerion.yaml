@@ -1,0 +1,4 @@
+# Docerion header of flash2.html.
+type: test
+title: Second Flash permission test page
+summary: Test page variant mirroring flash.html with Flash objects and download links, loading flash.js, for additional Flash permission test scenarios.

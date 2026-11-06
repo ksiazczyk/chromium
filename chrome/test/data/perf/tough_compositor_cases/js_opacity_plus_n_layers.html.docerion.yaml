@@ -1,0 +1,4 @@
+# Docerion header of js_opacity_plus_n_layers.html.
+type: test
+title: JavaScript opacity animation with N layers benchmark page
+summary: Perf test page that creates a configurable number of layers and animates the first layer's opacity via JavaScript each frame.

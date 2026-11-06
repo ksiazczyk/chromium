@@ -1,0 +1,4 @@
+# Docerion header of root-and-intermediate-ca-certs.onc.
+type: data
+title: ONC file with RSA root and intermediate CA certificates
+summary: ONC test fixture containing a web-trusted RSA root CA certificate together with an intermediate CA certificate for policy tests.

@@ -1,0 +1,4 @@
+# Docerion header of requests.html.
+type: test
+title: Permission requests page
+summary: Test page that simply loads requests.js to drive permission request behavior in browser tests.

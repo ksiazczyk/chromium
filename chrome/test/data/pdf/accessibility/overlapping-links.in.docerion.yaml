@@ -1,0 +1,4 @@
+# Docerion header of overlapping-links.in.
+type: test
+title: Overlapping links PDF source template
+summary: PDF source template with placeholder markers defining text and four overlapping link annotations, used to generate the test PDF for accessibility tests.

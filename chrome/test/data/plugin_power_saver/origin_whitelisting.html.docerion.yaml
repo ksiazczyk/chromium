@@ -1,0 +1,4 @@
+# Docerion header of origin_whitelisting.html.
+type: test
+title: Origin whitelisting test page
+summary: Test page with small and large Flash plugins from a single origin, with and without posters, to verify origin whitelisting behavior.

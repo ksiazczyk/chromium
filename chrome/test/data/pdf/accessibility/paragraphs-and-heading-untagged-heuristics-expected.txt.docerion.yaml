@@ -1,0 +1,4 @@
+# Docerion header of paragraphs-and-heading-untagged-heuristics-expected.txt.
+type: test
+title: Expected text for untagged heading heuristics
+summary: Expected plain text dump with paragraph markers when heuristics run on the untagged PDF with a heading.

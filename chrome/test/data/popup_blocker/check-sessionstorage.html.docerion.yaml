@@ -1,0 +1,4 @@
+# Docerion header of check-sessionstorage.html.
+type: test
+title: Check that the session storage namespace of the parent is not accessible
+summary: Test page that verifies a popup cannot access the parent's session storage namespace and reports PASS or FAIL.

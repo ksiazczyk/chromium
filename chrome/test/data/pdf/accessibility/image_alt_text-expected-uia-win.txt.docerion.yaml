@@ -1,0 +1,4 @@
+# Docerion header of image_alt_text-expected-uia-win.txt.
+type: test
+title: Expected UIA accessibility tree for image alt text PDF on Windows
+summary: Expected UI Automation accessibility tree for a PDF with three alt-texted images, used to verify Windows UIA output.

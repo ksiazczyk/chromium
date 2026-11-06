@@ -1,0 +1,4 @@
+# Docerion header of exclusive_access_permissions.html.
+type: test
+title: Exclusive access permissions test page
+summary: Test page with buttons that request keyboard lock, pointer lock, or both, used to exercise exclusive access permission behavior.

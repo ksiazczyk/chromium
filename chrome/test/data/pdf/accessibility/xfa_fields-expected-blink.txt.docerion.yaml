@@ -1,0 +1,4 @@
+# Docerion header of xfa_fields-expected-blink.txt.
+type: test
+title: XFA fields expected Blink accessibility tree
+summary: Expected Blink accessibility tree for the XFA fields PDF, containing only the read-only pdfRoot and page region nodes.

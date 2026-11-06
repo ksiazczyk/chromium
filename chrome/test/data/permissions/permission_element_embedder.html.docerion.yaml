@@ -1,0 +1,4 @@
+# Docerion header of permission_element_embedder.html.
+type: test
+title: Permission element embedder test page
+summary: Test page that inserts iframes with camera, microphone and geolocation allow attributes, plus helpers to expand a div and post messages into the iframe.

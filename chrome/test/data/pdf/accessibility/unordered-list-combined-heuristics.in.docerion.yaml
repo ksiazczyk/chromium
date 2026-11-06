@@ -1,0 +1,4 @@
+# Docerion header of unordered-list-combined-heuristics.in.
+type: test
+title: Unordered list combined heuristics PDF source template
+summary: PDF source template with placeholders that generates a test document containing an unordered list for combined-heuristics accessibility tests.

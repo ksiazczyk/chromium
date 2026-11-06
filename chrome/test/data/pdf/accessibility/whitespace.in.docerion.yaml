@@ -1,0 +1,4 @@
+# Docerion header of whitespace.in.
+type: test
+title: Whitespace PDF test input
+summary: PDF source template that draws a single space character in Helvetica, used to generate the whitespace accessibility test PDF.

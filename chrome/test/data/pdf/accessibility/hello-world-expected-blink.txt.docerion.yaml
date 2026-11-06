@@ -1,0 +1,4 @@
+# Docerion header of hello-world-expected-blink.txt.
+type: test
+title: Hello world expected Blink accessibility tree
+summary: Expected Blink accessibility tree of the hello-world PDF, including pdfRoot, page region, paragraph, static text and inline text box nodes.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission request test helpers
+// summary: JavaScript helpers for Chromium permission tests that request notification, camera, microphone, and geolocation permissions, stop media tracks, and register permission change listeners.
+// ---
+
 var cameraStream;
 var micStream;
 

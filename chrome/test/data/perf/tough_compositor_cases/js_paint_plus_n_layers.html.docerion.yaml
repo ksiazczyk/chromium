@@ -1,0 +1,4 @@
+# Docerion header of js_paint_plus_n_layers.html.
+type: test
+title: JavaScript paint benchmark with N layers
+summary: Perf test page that creates a configurable number of layers and repeatedly repaints the first layer with random background colors.

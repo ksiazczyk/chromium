@@ -1,0 +1,4 @@
+# Docerion header of directional-text-runs-heuristics-expected-auralinux.txt.
+type: test
+title: Directional text runs heuristics expected auralinux output
+summary: Expected accessibility output for the directional text runs heuristics PDF on Linux aural screen readers, listing paragraphs and static text nodes.

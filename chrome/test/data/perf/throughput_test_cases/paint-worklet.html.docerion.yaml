@@ -1,0 +1,4 @@
+# Docerion header of paint-worklet.html.
+type: test
+title: Paint worklet throughput test case
+summary: Test page registering a Bezier paint worklet and animating the --progress custom property to exercise paint worklet throughput.

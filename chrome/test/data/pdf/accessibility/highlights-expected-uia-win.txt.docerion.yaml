@@ -1,0 +1,4 @@
+# Docerion header of highlights-expected-uia-win.txt.
+type: test
+title: Highlights expected UIA accessibility tree for Windows
+summary: Expected UIA accessibility tree for the highlights PDF on Windows, with custom highlight elements and text nodes.

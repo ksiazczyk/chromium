@@ -1,0 +1,4 @@
+# Docerion header of persistent-storage-permissions.html.
+type: test
+title: Persistent storage permissions test helper page
+summary: HTML test helper that checks and requests persistent storage permissions via the Storage and Permissions APIs for Chromium browser tests.

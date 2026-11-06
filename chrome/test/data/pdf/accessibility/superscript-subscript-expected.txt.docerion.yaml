@@ -1,0 +1,4 @@
+# Docerion header of superscript-subscript-expected.txt.
+type: test
+title: Expected text for superscript and subscript PDF
+summary: Expected plain text dump for a PDF containing simulated superscript and subscript text runs.

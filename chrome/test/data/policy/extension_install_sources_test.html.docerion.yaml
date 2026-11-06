@@ -1,0 +1,4 @@
+# Docerion header of extension_install_sources_test.html.
+type: test
+title: Extension install sources test page
+summary: HTML page with small links to CRX files used to test extension install source policies.

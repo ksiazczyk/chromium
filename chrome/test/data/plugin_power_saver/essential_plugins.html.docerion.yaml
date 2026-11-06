@@ -1,0 +1,4 @@
+# Docerion header of essential_plugins.html.
+type: test
+title: Essential plugin test page
+summary: Test page with same-origin and cross-origin Flash plugins of various sizes, including a poster, to verify essential plugin classification.

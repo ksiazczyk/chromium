@@ -1,0 +1,4 @@
+# Docerion header of font-change-heuristics-expected.txt.
+type: test
+title: Font change heuristics expected text output
+summary: Expected plain text for the font change PDF with heuristics applied, matching the non-heuristics output for mid-line font changes.

@@ -1,0 +1,4 @@
+# Docerion header of smaller_than_play_icon.html.
+type: test
+title: Smaller Than Play Icon Flash Plugin Test Page
+summary: Test page with Flash plugins sized 16 to 64 pixels to check how power saver handles plugins smaller than the play icon.

@@ -1,3 +1,11 @@
+---
+type: readme
+title: PDF accessibility tree dump test readme
+summary: Explains how PdfExtensionAccessibilityTreeDumpTest works and which filters and directives it supports.
+relations:
+  - references /content/test/data/accessibility/readme.md
+---
+
 # PdfExtensionAccessibilityTreeDumpTest
 
 A `PdfExtensionAccessibilityTreeDumpTest` loads a PDF file, waits for it

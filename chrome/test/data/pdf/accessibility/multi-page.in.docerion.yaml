@@ -1,0 +1,4 @@
+# Docerion header of multi-page.in.
+type: test
+title: Multi-page PDF test input template
+summary: PDF template with placeholders that generates a two-page test document containing Page 1 and Page 2 text for accessibility tests.

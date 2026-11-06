@@ -1,0 +1,4 @@
+# Docerion header of text-direction-heuristics-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for text direction with heuristics
+summary: Expected Blink accessibility tree output for the text direction PDF when heuristics are applied.

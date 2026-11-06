@@ -1,0 +1,4 @@
+# Docerion header of check-framename.html.
+type: test
+title: Check that the frame name is correct
+summary: Test page that verifies a popup window receives the expected frame name and reports PASS or FAIL.

@@ -1,0 +1,4 @@
+# Docerion header of printers_configuration_updated.json.
+type: test
+title: Updated printers configuration test data
+summary: Printers policy JSON with an updated printer entry used to test policy update handling.

@@ -1,0 +1,4 @@
+# Docerion header of media_capture_element.html.
+type: test
+title: Media capture element test page
+summary: Test page with usermedia, camera, and microphone elements that record stream, track, cancel, and error events as data attributes for browser tests.

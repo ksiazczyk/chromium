@@ -1,0 +1,4 @@
+# Docerion header of main-animations-throughput.html.
+type: test
+title: Main-thread animation throughput test case
+summary: Test page animating a transform on the main thread, toggled by keypress, with options for target FPS, jank, and offscreen placement.

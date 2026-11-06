@@ -1,0 +1,4 @@
+# Docerion header of check-openersuppressed.html.
+type: test
+title: Check window.opener is unset with opener suppressed
+summary: Test page that verifies window.opener is not set when opener suppression applies, reporting PASS or FAIL.

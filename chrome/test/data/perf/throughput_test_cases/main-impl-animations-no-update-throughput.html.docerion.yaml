@@ -1,0 +1,4 @@
+# Docerion header of main-impl-animations-no-update-throughput.html.
+type: test
+title: Main and compositor animation without updates throughput test case
+summary: Test page running a main-thread animation that repeatedly sets the same transform alongside a paused CSS animation to measure throughput without updates.

@@ -1,0 +1,4 @@
+# Docerion header of blank_image.in.
+type: test
+title: Blank image PDF test template
+summary: PDF template with placeholders that builds a one-page test PDF containing an unlabelled image marked as a figure for accessibility tests.

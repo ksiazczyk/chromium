@@ -1,0 +1,4 @@
+# Docerion header of image_alt_text-expected-auralinux.txt.
+type: test
+title: Image alt text expected accessibility tree for Linux
+summary: Expected auralinux accessibility tree for the image alt text PDF, listing three named image nodes.

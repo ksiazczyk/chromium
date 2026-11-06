@@ -1,0 +1,4 @@
+# Docerion header of multi-page-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for multi-page PDF
+summary: Expected Blink accessibility tree for a two-page PDF, verifying page regions, paragraphs and inline text boxes.

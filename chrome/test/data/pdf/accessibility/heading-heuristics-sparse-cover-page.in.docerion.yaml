@@ -1,0 +1,4 @@
+# Docerion header of heading-heuristics-sparse-cover-page.in.
+type: test
+title: Sparse cover page heading heuristics PDF test input
+summary: PDF source template for a sparse cover page used to test heading heuristics on a large title and a date line.

@@ -1,0 +1,4 @@
+# Docerion header of popup-simple-prerender.html.
+type: test
+title: Prerender Test
+summary: Test page using speculation rules to prerender /empty.html and providing a link to it for popup blocker prerendering tests.

@@ -1,0 +1,4 @@
+# Docerion header of text-image-link-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for text, image and link PDF
+summary: Expected Linux accessibility tree output for a PDF containing links, images and link annotations.

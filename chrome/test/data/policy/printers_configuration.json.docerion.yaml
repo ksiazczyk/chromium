@@ -1,0 +1,4 @@
+# Docerion header of printers_configuration.json.
+type: test
+title: Printers configuration test data
+summary: Sample printers policy JSON with a single printer entry used in printer configuration tests.

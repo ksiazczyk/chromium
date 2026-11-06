@@ -1,0 +1,4 @@
+# Docerion header of hello-world-expected-win.txt.
+type: test
+title: Hello world expected Windows accessibility tree
+summary: Expected MSAA/IA2 accessibility tree of the hello-world PDF on Windows with document, landmark, paragraph and static text roles.

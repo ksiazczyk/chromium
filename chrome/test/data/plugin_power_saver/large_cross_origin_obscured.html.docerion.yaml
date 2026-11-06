@@ -1,0 +1,4 @@
+# Docerion header of large_cross_origin_obscured.html.
+type: test
+title: Obscured large cross-origin plugin test page
+summary: Test page embedding a large cross-origin Flash plugin partially hidden inside an overflow container.

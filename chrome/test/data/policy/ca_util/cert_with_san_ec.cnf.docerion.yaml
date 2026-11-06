@@ -1,0 +1,4 @@
+# Docerion header of cert_with_san_ec.cnf.
+type: test
+title: OpenSSL extensions for EC leaf certificates with SAN
+summary: OpenSSL extension config that includes ca_ec.cnf and adds a subjectAltName from the environment when signing EC leaf certificates for tests.

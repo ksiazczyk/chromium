@@ -1,0 +1,4 @@
+# Docerion header of heading-heuristics-dense-table-and-body.in.
+type: test
+title: Heading heuristics dense table and body PDF test input
+summary: PDF source template used to test heading heuristics on a page mixing a section heading, body prose, and dense fine-print table rows.

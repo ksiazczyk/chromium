@@ -1,0 +1,4 @@
+# Docerion header of create_test_certs.sh.
+type: script
+title: Test certificate generator for policy tests
+summary: Generates RSA and EC test certificate trees and writes the root and intermediate CA certificates into ONC configuration files used by policy tests.

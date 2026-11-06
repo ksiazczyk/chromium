@@ -1,0 +1,4 @@
+# Docerion header of xfa_fields.in.
+type: test
+title: XFA fields PDF test input template
+summary: PDFium template that builds an XFA form PDF with buttons, check boxes, text edits, date fields and choice lists for Chrome PDF accessibility testing.

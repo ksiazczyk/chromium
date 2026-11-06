@@ -1,0 +1,4 @@
+# Docerion header of whitespace-expected.txt.
+type: test
+title: Whitespace expected text output
+summary: Empty expected text output for the whitespace PDF accessibility test, indicating no accessible text is produced.

@@ -1,0 +1,4 @@
+# Docerion header of highlights.in.
+type: test
+title: Highlights PDF test template
+summary: PDF template source with highlight annotations and a popup note, used as input for PDF accessibility tests.

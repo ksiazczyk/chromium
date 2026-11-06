@@ -1,0 +1,4 @@
+# Docerion header of inaccessible-text-in-three-page-heuristics-expected-with-pdf-searchify.txt.
+type: test
+title: Expected heuristics tree for inaccessible three-page PDF with extraction
+summary: Expected accessibility tree with heuristics applied for an inaccessible three-page PDF when text extraction via PDF searchify succeeds.

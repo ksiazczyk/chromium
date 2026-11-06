@@ -1,0 +1,4 @@
+# Docerion header of text-style-expected-auralinux.txt.
+type: test
+title: Text style expected auralinux accessibility tree
+summary: Expected Linux accessibility tree snapshot of the text-style PDF, listing paragraphs and static text for the four cases.

@@ -1,0 +1,4 @@
+# Docerion header of popup-window-open.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for popup-window-open test
+summary: 'Mock HTTP response headers that serve the popup-window-open test page with a Supports-Loading-Mode: fenced-frame header.'

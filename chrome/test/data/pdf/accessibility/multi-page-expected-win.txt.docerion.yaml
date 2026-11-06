@@ -1,0 +1,4 @@
+# Docerion header of multi-page-expected-win.txt.
+type: test
+title: Multi-page PDF expected IA2 accessibility tree for Windows
+summary: Expected Windows IA2 accessibility tree for a two-page PDF, verifying document, landmark, paragraph and static text roles.

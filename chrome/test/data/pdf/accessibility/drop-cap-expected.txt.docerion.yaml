@@ -1,0 +1,4 @@
+# Docerion header of drop-cap-expected.txt.
+type: test
+title: Drop cap expected text output
+summary: Expected plain text for the drop cap PDF, verifying that a large initial letter stays part of the first line of its paragraph.

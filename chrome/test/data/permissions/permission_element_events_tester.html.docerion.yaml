@@ -1,0 +1,4 @@
+# Docerion header of permission_element_events_tester.html.
+type: test
+title: Permission element events tester page
+summary: Test page with usermedia elements that logs resolve, dismiss, promptaction and promptdismiss events on the elements and their ancestors.

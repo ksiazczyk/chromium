@@ -1,0 +1,4 @@
+# Docerion header of three-page.in.
+type: test
+title: Three-page PDF source template
+summary: PDF template with three pages of simple Helvetica paragraphs used as input for PDF accessibility tests.

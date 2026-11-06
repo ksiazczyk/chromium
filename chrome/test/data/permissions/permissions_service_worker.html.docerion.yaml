@@ -1,0 +1,4 @@
+# Docerion header of permissions_service_worker.html.
+type: test
+title: Service worker registration page
+summary: Test page that registers permissions_service_worker.js as a service worker scoped to the current directory.

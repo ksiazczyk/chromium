@@ -1,0 +1,4 @@
+# Docerion header of overlapping-links-heuristics-expected-auralinux.txt.
+type: test
+title: Overlapping links heuristics expected accessibility tree for Linux
+summary: Expected Linux accessibility tree with heuristics enabled for the overlapping-links PDF, used as verification data in PDF accessibility tests.

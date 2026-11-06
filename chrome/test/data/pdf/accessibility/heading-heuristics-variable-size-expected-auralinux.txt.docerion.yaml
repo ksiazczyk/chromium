@@ -1,0 +1,4 @@
+# Docerion header of heading-heuristics-variable-size-expected-auralinux.txt.
+type: test
+title: Variable size heading heuristics expected tree for AuraLinux
+summary: Expected accessibility tree for the variable size heading heuristics PDF on AuraLinux, covering size, bold, name, and all-caps headings.

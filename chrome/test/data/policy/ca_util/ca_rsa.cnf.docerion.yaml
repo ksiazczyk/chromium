@@ -1,0 +1,4 @@
+# Docerion header of ca_rsa.cnf.
+type: test
+title: OpenSSL configuration for the RSA test root CA
+summary: OpenSSL configuration defining the RSA-based test root CA with 2048-bit keys, signing policies, and extensions for issuing test certificates.

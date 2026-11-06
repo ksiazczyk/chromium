@@ -1,0 +1,4 @@
+# Docerion header of superscript-subscript.in.
+type: test
+title: Superscript and subscript PDF test template
+summary: PDF template source that renders simulated superscript and subscript text for PDF accessibility tests.

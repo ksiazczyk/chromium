@@ -1,0 +1,4 @@
+# Docerion header of text-run-style-heuristic-heuristics-expected-blink.txt.
+type: test
+title: Text run style heuristics expected output for Blink
+summary: Expected Blink accessibility tree with heuristics-applied text run segmentation for the style heuristic PDF test.

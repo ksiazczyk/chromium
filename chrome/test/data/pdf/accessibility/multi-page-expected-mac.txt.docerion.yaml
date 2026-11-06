@@ -1,0 +1,4 @@
+# Docerion header of multi-page-expected-mac.txt.
+type: test
+title: Multi-page PDF expected accessibility tree for Mac
+summary: Expected Mac accessibility tree snapshot for a two-page PDF, listing page landmark groups and static text used by PDF accessibility tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bench animation loop helper for compositor tests
+// summary: Provides a requestAnimationFrame-based animation loop helper that benchmark pages use to run a draw function every frame.
+// ---
+
 var bench = (function() {
   var rafFunc;
   var drawFunc;

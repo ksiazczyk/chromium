@@ -1,0 +1,4 @@
+# Docerion header of background_tab_tiny_plugins.html.
+type: test
+title: Background tab tiny plugin test page
+summary: Test page with a tiny 3x3 cross-origin Flash plugin for background tab plugin power saver testing.

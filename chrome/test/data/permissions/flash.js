@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Flash test helper script
+// summary: JavaScript helper for the Flash test pages that triggers prompts, checks plugin power saver status, and reports results via domAutomationController.
+// ---
+
 var FLASH_DOWNLOAD_URL = 'https://get.adobe.com/flashplayer/';
 
 function triggerPrompt() {

@@ -1,0 +1,4 @@
+# Docerion header of multi-page-expected-uia-win.txt.
+type: test
+title: Multi-page PDF expected UIA accessibility tree for Windows
+summary: Expected UI Automation tree for a two-page PDF on Windows, used to verify document, page group and text nodes in UIA mode.

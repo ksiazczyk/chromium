@@ -1,0 +1,4 @@
+# Docerion header of infinite_scroll_element_n_layers.html.
+type: test
+title: Infinite scroll benchmark with element scroller
+summary: Perf test page simulating endless scrolling of fake email list items inside a scrollable container element with many layers.

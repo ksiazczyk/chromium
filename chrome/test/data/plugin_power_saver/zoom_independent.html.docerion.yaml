@@ -1,0 +1,4 @@
+# Docerion header of zoom_independent.html.
+type: test
+title: Zoom Independent Flash Plugin Test Page
+summary: Test page embedding a cross-origin Flash plugin to verify plugin power saver behavior is independent of page zoom.

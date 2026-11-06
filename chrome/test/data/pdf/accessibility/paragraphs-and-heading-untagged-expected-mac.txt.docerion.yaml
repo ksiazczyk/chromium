@@ -1,0 +1,4 @@
+# Docerion header of paragraphs-and-heading-untagged-expected-mac.txt.
+type: test
+title: Untagged paragraphs and heading expected accessibility tree for Mac
+summary: Expected macOS accessibility tree for an untagged PDF containing paragraphs and a heading, used as verification data in PDF accessibility tests.

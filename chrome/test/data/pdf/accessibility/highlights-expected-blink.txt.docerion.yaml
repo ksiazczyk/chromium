@@ -1,0 +1,4 @@
+# Docerion header of highlights-expected-blink.txt.
+type: test
+title: Highlights expected Blink accessibility tree
+summary: Expected Blink accessibility tree for the highlights PDF, including pdfActionableHighlight and note nodes.

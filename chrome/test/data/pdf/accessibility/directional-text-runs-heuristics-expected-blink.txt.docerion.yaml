@@ -1,0 +1,4 @@
+# Docerion header of directional-text-runs-heuristics-expected-blink.txt.
+type: test
+title: Directional text runs heuristics expected Blink tree output
+summary: Expected Blink accessibility tree for the directional text runs heuristics PDF, showing paragraphs, static text and inline text boxes.

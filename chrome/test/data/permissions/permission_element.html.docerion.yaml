@@ -1,0 +1,4 @@
+# Docerion header of permission_element.html.
+type: test
+title: Permission element test page
+summary: Test page with geolocation and usermedia permission elements that tracks events, prompt actions, and granted state for permission element browser tests.

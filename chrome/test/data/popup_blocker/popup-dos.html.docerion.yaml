@@ -1,0 +1,4 @@
+# Docerion header of popup-dos.html.
+type: test
+title: Try to DOS the browser with popups
+summary: Test page that attempts to open 1000 popups at once to exercise the popup blocker.

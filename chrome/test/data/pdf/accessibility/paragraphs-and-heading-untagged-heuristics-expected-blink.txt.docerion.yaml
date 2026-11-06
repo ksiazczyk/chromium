@@ -1,0 +1,4 @@
+# Docerion header of paragraphs-and-heading-untagged-heuristics-expected-blink.txt.
+type: test
+title: Expected Blink tree for untagged heading heuristics
+summary: Expected Blink accessibility tree dump when heading and paragraph heuristics are applied to the untagged PDF.

@@ -1,0 +1,4 @@
+# Docerion header of load_peripheral_plugin.html.
+type: test
+title: Peripheral plugin loading test page
+summary: Test page embedding a single cross-origin Flash plugin to test peripheral plugin loading.
