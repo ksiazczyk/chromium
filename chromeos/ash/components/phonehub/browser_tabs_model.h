@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserTabsModel class declaration
+// summary: Declares the model holding metadata about browser tabs open on the user's phone, including tab sync state and recent tab entries.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_BROWSER_TABS_MODEL_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_BROWSER_TABS_MODEL_H_
 

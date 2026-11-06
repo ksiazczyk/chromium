@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake camera roll download manager header
+// summary: Declares FakeCameraRollDownloadManager, a test double that records file transfer updates and lets tests set expected creation results.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_FAKE_CAMERA_ROLL_DOWNLOAD_MANAGER_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_FAKE_CAMERA_ROLL_DOWNLOAD_MANAGER_H_
 

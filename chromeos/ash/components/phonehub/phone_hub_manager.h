@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PhoneHubManager interface
+// summary: Defines the core Phone Hub feature interface exposing sub-components such as notifications, camera roll, screen lock, tethering, and app streams.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_PHONE_HUB_MANAGER_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_PHONE_HUB_MANAGER_H_
 

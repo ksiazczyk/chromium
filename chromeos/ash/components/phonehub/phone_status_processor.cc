@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone status processor implementation
+// summary: Implements processing of incoming phone status and app list protos, updating Phone Hub models, notifications, and metrics.
+// ---
+
 #include "chromeos/ash/components/phonehub/phone_status_processor.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub preference name declarations
+// summary: Declares the preference name constants used by Phone Hub, including access statuses, onboarding state, and connected phone metadata keys.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_PREF_NAMES_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_PREF_NAMES_H_
 

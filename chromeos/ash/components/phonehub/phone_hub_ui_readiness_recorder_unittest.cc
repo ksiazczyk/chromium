@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Phone Hub UI readiness recorder unit tests
+// summary: Unit tests verifying the latency and success histograms recorded by PhoneHubUiReadinessRecorder.
+// ---
+
 #include "chromeos/ash/components/phonehub/phone_hub_ui_readiness_recorder.h"
 
 #include "base/test/metrics/histogram_tester.h"

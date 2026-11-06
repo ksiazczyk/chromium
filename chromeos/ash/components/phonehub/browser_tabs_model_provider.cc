@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserTabsModelProvider implementation
+// summary: Implements observer registration and notification of browser tab metadata updates to registered observers.
+// ---
+
 #include "chromeos/ash/components/phonehub/browser_tabs_model_provider.h"
 
 namespace ash::phonehub {

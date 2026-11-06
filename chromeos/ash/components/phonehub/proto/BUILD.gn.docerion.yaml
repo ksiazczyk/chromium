@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: PhoneHub proto build definition
+summary: GN build file that defines the proto_library target compiling phonehub_api.proto for Chrome OS PhoneHub.

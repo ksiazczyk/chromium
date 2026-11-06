@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone status model
+// summary: Defines the PhoneStatusModel class representing a phone's mobile connection, charging, battery saver, and battery state.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_PHONE_STATUS_MODEL_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_PHONE_STATUS_MODEL_H_
 

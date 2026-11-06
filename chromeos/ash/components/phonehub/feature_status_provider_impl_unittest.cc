@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Feature status provider implementation unit tests
+// summary: Unit tests for FeatureStatusProviderImpl covering PhoneHub feature availability across device, Bluetooth, and session states.
+// ---
+
 #include "chromeos/ash/components/phonehub/feature_status_provider_impl.h"
 
 #include <memory>

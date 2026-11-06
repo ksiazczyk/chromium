@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeFeatureStatusProvider header
+// summary: Declares a test fake of FeatureStatusProvider that defaults to kEnabledAndConnected and lets tests set the status manually.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_FAKE_FEATURE_STATUS_PROVIDER_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_FAKE_FEATURE_STATUS_PROVIDER_H_
 

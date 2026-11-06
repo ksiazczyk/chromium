@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TetherControllerImpl Instant Tethering implementation
+// summary: Implements TetherControllerImpl using MultiDeviceSetupClient and CrosNetworkConfig to scan for, connect to, and disconnect tether networks.
+// ---
+
 #include "chromeos/ash/components/phonehub/tether_controller_impl.h"
 
 #include "chromeos/ash/components/multidevice/logging/logging.h"

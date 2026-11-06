@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification manager interface
+// summary: Declares NotificationManager, which tracks notifications synced from a connected phone and supports dismissal and inline replies with observer notifications.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_NOTIFICATION_MANAGER_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_NOTIFICATION_MANAGER_H_
 

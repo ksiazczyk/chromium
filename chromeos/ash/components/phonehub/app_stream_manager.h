@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App stream manager header
+// summary: Declares the AppStreamManager class that distributes app stream update events to registered observers.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_APP_STREAM_MANAGER_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_APP_STREAM_MANAGER_H_
 

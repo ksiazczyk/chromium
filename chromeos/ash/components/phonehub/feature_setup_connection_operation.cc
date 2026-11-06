@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureSetupConnectionOperation implementation
+// summary: Implements the feature setup connection operation base class with final status checks, notifications, and status logging.
+// ---
+
 #include "chromeos/ash/components/phonehub/feature_setup_connection_operation.h"
 
 #include <algorithm>

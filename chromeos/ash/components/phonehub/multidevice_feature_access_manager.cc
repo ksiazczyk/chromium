@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multidevice feature access manager base implementation
+// summary: Implements the base access manager that starts notification, camera roll, combined feature, and setup connection operations and notifies observers.
+// ---
+
 #include "chromeos/ash/components/phonehub/multidevice_feature_access_manager.h"
 
 #include <memory>

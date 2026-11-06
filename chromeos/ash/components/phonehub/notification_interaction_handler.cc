@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification interaction handler implementation
+// summary: Implements registration and notification of notification click handlers when a Phone Hub notification is clicked.
+// ---
+
 #include "chromeos/ash/components/phonehub/notification_interaction_handler.h"
 
 #include "chromeos/ash/components/phonehub/notification.h"

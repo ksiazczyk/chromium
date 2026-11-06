@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the recent apps interaction handler
+// summary: Tests RecentAppsInteractionHandlerImpl covering recent app metadata persistence, click notifications, streamable apps, and UI state updates.
+// ---
+
 #include "chromeos/ash/components/phonehub/recent_apps_interaction_handler_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserActionRecorder implementation
+// summary: Implements UserActionRecorder by logging completed Phone Hub user actions to the PhoneHub.CompletedUserAction UMA histogram.
+// ---
+
 #include "chromeos/ash/components/phonehub/user_action_recorder_impl.h"
 
 #include "base/metrics/histogram_functions.h"

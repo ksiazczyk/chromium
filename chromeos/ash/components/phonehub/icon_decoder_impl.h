@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Icon decoder implementation header
+// summary: Declares IconDecoderImpl and its test-overridable decoder delegate used for batch icon decoding.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_ICON_DECODER_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_ICON_DECODER_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeRecentAppsInteractionHandler implementation
+// summary: Implements a fake recent apps interaction handler that records app clicks, observers, and streamable apps for tests.
+// ---
+
 #include "chromeos/ash/components/phonehub/fake_recent_apps_interaction_handler.h"
 
 #include <utility>

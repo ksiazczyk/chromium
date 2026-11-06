@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ping manager interface
+// summary: Defines the PingManager interface for sending ping requests to the phone and observing responses to detect lost connections.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_PING_MANAGER_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_PING_MANAGER_H_
 

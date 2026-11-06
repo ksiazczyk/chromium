@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Invalid connection disconnector header
+// summary: Declares InvalidConnectionDisconnector, an observer that disconnects the phone if the PhoneStatusModel remains empty after a grace period while connected.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_INVALID_CONNECTION_DISCONNECTOR_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_INVALID_CONNECTION_DISCONNECTOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake notification manager implementation
+// summary: Implements a fake NotificationManager that records dismissed notifications and inline replies so tests can inspect notification behavior.
+// ---
+
 #include "chromeos/ash/components/phonehub/fake_notification_manager.h"
 
 #include "base/check.h"

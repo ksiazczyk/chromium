@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CameraRollManagerImpl implementation
+// summary: Implements the concrete camera roll manager, handling item fetch requests, thumbnail decoding, payload file downloads over secure channel, and download error reporting.
+// ---
+
 #include "chromeos/ash/components/phonehub/camera_roll_manager_impl.h"
 
 #include <memory>

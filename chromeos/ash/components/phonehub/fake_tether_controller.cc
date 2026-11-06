@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeTetherController implementation
+// summary: Implements a fake tether controller that simulates scanning, connecting, and disconnecting status changes for tests.
+// ---
+
 #include "chromeos/ash/components/phonehub/fake_tether_controller.h"
 
 namespace ash::phonehub {

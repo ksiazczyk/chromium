@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Combined access setup operation
+// summary: Declares the operation that runs the phone-side permission setup flow for camera roll and notification access, with its status enum and delegate interface.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_COMBINED_ACCESS_SETUP_OPERATION_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_COMBINED_ACCESS_SETUP_OPERATION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DoNotDisturbControllerImpl unit tests
+// summary: Unit tests covering DND state updates, observer notifications and notification mode requests sent through a fake message sender.
+// ---
+
 #include "chromeos/ash/components/phonehub/do_not_disturb_controller_impl.h"
 
 #include <memory>

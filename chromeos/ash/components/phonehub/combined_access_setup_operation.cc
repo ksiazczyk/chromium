@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Combined access setup operation implementation
+// summary: Implements status handling for the combined camera roll and notification access setup operation, including final status checks and status logging.
+// ---
+
 #include "chromeos/ash/components/phonehub/combined_access_setup_operation.h"
 
 #include <algorithm>

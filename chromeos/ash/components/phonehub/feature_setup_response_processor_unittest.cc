@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: FeatureSetupResponseProcessor unit tests
+// summary: Unit tests verifying how the processor maps feature setup responses to combined setup operation statuses under various grant and rejection outcomes.
+// ---
+
 #include "chromeos/ash/components/phonehub/feature_setup_response_processor.h"
 
 #include <memory>

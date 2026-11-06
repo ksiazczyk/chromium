@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenLockManager interface and LockStatus enum
+// summary: Declares the ScreenLockManager interface with a LockStatus enum, observer class, and accessors for tracking phone screen lock state.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_SCREEN_LOCK_MANAGER_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_SCREEN_LOCK_MANAGER_H_
 

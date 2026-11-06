@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CameraRollManagerImpl unit tests
+// summary: Unit tests for the camera roll manager implementation covering item fetching, thumbnail decoding, download flows, and error handling using fake dependencies.
+// ---
+
 #include "chromeos/ash/components/phonehub/camera_roll_manager_impl.h"
 
 #include <optional>

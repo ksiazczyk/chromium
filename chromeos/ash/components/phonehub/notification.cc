@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification implementation
+// summary: Implements the Notification class and AppMetadata serialization to and from base::DictValue, including icon data encoding.
+// ---
+
 #include "chromeos/ash/components/phonehub/notification.h"
 
 #include <tuple>

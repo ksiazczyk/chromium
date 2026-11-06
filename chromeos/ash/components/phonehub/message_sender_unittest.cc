@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Message sender unit tests
+// summary: Unit tests verifying that MessageSenderImpl serializes the message type and protobuf payload correctly for each request it sends.
+// ---
+
 #include <netinet/in.h>
 #include <stdint.h>
 

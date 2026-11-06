@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App stream manager implementation
+// summary: Implements observer registration and notification of app stream updates for Phone Hub.
+// ---
+
 #include "chromeos/ash/components/phonehub/app_stream_manager.h"
 
 namespace ash::phonehub {

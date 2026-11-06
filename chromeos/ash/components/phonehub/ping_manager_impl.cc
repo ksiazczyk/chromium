@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ping manager implementation
+// summary: Implements ping request sending with a five-second timeout that disconnects the connection when no ping response arrives.
+// ---
+
 #include "chromeos/ash/components/phonehub/ping_manager_impl.h"
 
 #include "ash/constants/ash_features.h"

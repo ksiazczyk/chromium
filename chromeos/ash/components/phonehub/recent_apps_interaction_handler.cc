@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base implementation of the recent apps interaction handler
+// summary: Implements observer list management and UI state change notifications for the RecentAppsInteractionHandler base class.
+// ---
+
 #include "chromeos/ash/components/phonehub/recent_apps_interaction_handler.h"
 #include "chromeos/ash/components/phonehub/notification.h"
 

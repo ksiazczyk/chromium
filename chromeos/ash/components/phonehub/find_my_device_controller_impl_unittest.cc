@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Find My Device controller implementation unit tests
+// summary: Tests ringing state changes, observer notifications, and ring request behavior of FindMyDeviceControllerImpl.
+// ---
+
 #include "chromeos/ash/components/phonehub/find_my_device_controller_impl.h"
 
 #include <memory>

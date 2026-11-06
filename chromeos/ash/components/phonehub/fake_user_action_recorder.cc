@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeUserActionRecorder implementation
+// summary: Implements a fake user action recorder that increments counters for recorded PhoneHub user actions in tests.
+// ---
+
 #include "chromeos/ash/components/phonehub/fake_user_action_recorder.h"
 
 namespace ash::phonehub {

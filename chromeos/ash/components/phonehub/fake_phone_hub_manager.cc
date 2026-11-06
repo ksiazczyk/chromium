@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Phone Hub manager implementation
+// summary: Implements a fake PhoneHubManager that wires fake versions of Phone Hub's controllers, managers and models for use in tests.
+// ---
+
 #include "chromeos/ash/components/phonehub/fake_phone_hub_manager.h"
 
 #include "ash/constants/ash_features.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake browser tabs model provider implementation
+// summary: Fake BrowserTabsModelProvider for tests that reports a configurable tab sync state and forwards simulated tab metadata updates.
+// ---
+
 #include "chromeos/ash/components/phonehub/fake_browser_tabs_model_provider.h"
 
 namespace ash::phonehub {

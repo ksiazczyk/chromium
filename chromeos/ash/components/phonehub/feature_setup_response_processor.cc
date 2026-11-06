@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureSetupResponseProcessor implementation
+// summary: Handles feature setup responses from the phone and updates the combined setup operation status based on camera roll and notification setup results.
+// ---
+
 #include "chromeos/ash/components/phonehub/feature_setup_response_processor.h"
 
 #include "chromeos/ash/components/multidevice/logging/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Message receiver unit tests
+// summary: Unit tests for MessageReceiverImpl using a fake connection manager and fake observer to verify that decoded phone messages are forwarded to observers.
+// ---
+
 #include <netinet/in.h>
 
 #include <memory>

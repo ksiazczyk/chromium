@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake notification interaction handler implementation
+// summary: Implements a fake NotificationInteractionHandler that counts handled notification clicks and registered click handlers for tests.
+// ---
+
 #include "chromeos/ash/components/phonehub/fake_notification_interaction_handler.h"
 
 #include "chromeos/ash/components/phonehub/notification.h"

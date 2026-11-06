@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub UI readiness recorder header
+// summary: Declares PhoneHubUiReadinessRecorder and the ConnectionFlowState enum used to record Phone Hub UI readiness metrics.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_PHONE_HUB_UI_READINESS_RECORDER_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_PHONE_HUB_UI_READINESS_RECORDER_H_
 

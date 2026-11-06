@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeFeatureStatusProvider implementation
+// summary: Fake FeatureStatusProvider for tests that holds a configurable Phone Hub feature status and notifies observers when it changes.
+// ---
+
 #include "chromeos/ash/components/phonehub/fake_feature_status_provider.h"
 
 namespace ash::phonehub {

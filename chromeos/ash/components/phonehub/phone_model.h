@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone model header
+// summary: Declares PhoneModel, which holds the connected phone's name, status and browser tabs and notifies observers of changes.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_PHONE_MODEL_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_PHONE_MODEL_H_
 

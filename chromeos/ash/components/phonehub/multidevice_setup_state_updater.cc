@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multidevice setup state updater implementation
+// summary: Enables or disables Phone Hub multidevice feature states in response to access changes and verified host status.
+// ---
+
 #include "chromeos/ash/components/phonehub/multidevice_setup_state_updater.h"
 
 #include "base/functional/callback_helpers.h"

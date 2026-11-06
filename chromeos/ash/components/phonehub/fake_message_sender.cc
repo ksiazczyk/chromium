@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeMessageSender implementation
+// summary: Fake MessageSender for tests that records sent Cros state updates and Phone Hub requests, exposing call counts and recent messages.
+// ---
+
 #include "chromeos/ash/components/phonehub/fake_message_sender.h"
 
 namespace ash::phonehub {

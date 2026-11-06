@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Phone Hub structured metrics logger unit tests
+// summary: Unit tests for PhoneHubStructuredMetricsLogger covering phone information processing and metric event logging.
+// ---
+
 #include "chromeos/ash/components/phonehub/phone_hub_structured_metrics_logger.h"
 
 #include <memory>

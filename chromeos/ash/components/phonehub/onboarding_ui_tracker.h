@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnboardingUiTracker interface
+// summary: Declares the interface that tracks whether Phone Hub should show the multi-device onboarding UI and handles dismissal and get-started actions.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_ONBOARDING_UI_TRACKER_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_ONBOARDING_UI_TRACKER_H_
 

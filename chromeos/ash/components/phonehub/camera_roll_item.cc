@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CameraRollItem implementation
+// summary: Implements the CameraRollItem class that models a photo or video from the connected Android device, with equality comparison based on metadata values.
+// ---
+
 #include "chromeos/ash/components/phonehub/camera_roll_item.h"
 
 #include "base/strings/utf_string_conversions.h"

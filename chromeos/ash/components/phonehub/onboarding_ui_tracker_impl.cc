@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnboardingUiTrackerImpl implementation
+// summary: Implements onboarding UI logic using the kHideOnboardingUi pref, feature status, and MultiDeviceSetupClient to start setup or enable Phone Hub.
+// ---
+
 #include "chromeos/ash/components/phonehub/onboarding_ui_tracker_impl.h"
 
 #include "base/functional/callback_helpers.h"

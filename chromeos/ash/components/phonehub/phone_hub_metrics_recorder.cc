@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub metrics recorder implementation
+// summary: Records Phone Hub connection results, failure reasons, latency and duration as UMA histograms.
+// ---
+
 #include "chromeos/ash/components/phonehub/phone_hub_metrics_recorder.h"
 #include "base/metrics/histogram_functions.h"
 #include "chromeos/ash/services/secure_channel/public/mojom/secure_channel.mojom.h"

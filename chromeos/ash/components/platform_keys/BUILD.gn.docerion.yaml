@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the platform_keys component
+summary: Defines the GN build rules for the platform_keys component and its unit test source set.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Icon decoder implementation
+// summary: Decodes batches of encoded icons via the data decoder service and returns results through a barrier closure.
+// ---
+
 #include "chromeos/ash/components/phonehub/icon_decoder_impl.h"
 
 #include <functional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NotificationProcessor unit tests
+// summary: Unit tests for NotificationProcessor covering notification additions, removals, and asynchronous image decoding with a fake image decoder delegate.
+// ---
+
 #include "chromeos/ash/components/phonehub/notification_processor.h"
 #include <string>
 

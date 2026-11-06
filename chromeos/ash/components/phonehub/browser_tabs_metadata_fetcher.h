@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser tabs metadata fetcher interface
+// summary: Declares an interface that collects recent tab metadata from a synced session, fetches favicons, and returns BrowserTabMetadata to its caller.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_BROWSER_TABS_METADATA_FETCHER_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_BROWSER_TABS_METADATA_FETCHER_H_
 

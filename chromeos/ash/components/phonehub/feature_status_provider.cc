@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureStatusProvider base implementation
+// summary: Implements observer management and notification helpers for the FeatureStatusProvider base class.
+// ---
+
 #include "chromeos/ash/components/phonehub/feature_status_provider.h"
 
 namespace ash::phonehub {

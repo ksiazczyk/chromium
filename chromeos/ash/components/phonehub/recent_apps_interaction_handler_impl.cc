@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recent apps interaction handler implementation
+// summary: Implements recent app tracking with preference persistence, streamable app management, and UI state computation for Phone Hub recent apps.
+// ---
+
 #include "chromeos/ash/components/phonehub/recent_apps_interaction_handler_impl.h"
 
 #include <memory>

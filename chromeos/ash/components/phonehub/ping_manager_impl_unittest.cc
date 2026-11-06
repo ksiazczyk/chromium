@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Phone Hub ping manager implementation
+// summary: Tests PingManagerImpl behavior for ping support, snapshot and update handling, ping responses, timeouts, and latency histograms using fake dependencies.
+// ---
+
 #include "chromeos/ash/components/phonehub/ping_manager_impl.h"
 
 #include "base/test/metrics/histogram_tester.h"

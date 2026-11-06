@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Find My Device controller base class
+// summary: Implements observer management and status stream output for the Find My Device controller that rings a connected phone.
+// ---
+
 #include "chromeos/ash/components/phonehub/find_my_device_controller.h"
 
 namespace ash::phonehub {

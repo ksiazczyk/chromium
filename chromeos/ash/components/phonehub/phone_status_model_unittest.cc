@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Phone status model unit tests
+// summary: Unit tests verifying PhoneStatusModel handling of battery limits and inconsistent mobile status and connection metadata.
+// ---
+
 #include "chromeos/ash/components/phonehub/phone_status_model.h"
 
 #include "base/strings/utf_string_conversions.h"

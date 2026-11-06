@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeMessageReceiver header
+// summary: Header-only test fake of MessageReceiver that exposes notification methods for simulating incoming Phone Hub messages.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_FAKE_MESSAGE_RECEIVER_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_FAKE_MESSAGE_RECEIVER_H_
 

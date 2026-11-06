@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message receiver implementation
+// summary: Implements MessageReceiverImpl, which parses received message payloads, decodes protos by message type, notifies observers, and logs message metrics.
+// ---
+
 #include "chromeos/ash/components/phonehub/message_receiver_impl.h"
 
 #include <netinet/in.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recent apps interaction handler interface
+// summary: Declares the RecentAppsInteractionHandler API, its UI states, and observer interfaces for interacting with Phone Hub recent apps.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_RECENT_APPS_INTERACTION_HANDLER_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_RECENT_APPS_INTERACTION_HANDLER_H_
 

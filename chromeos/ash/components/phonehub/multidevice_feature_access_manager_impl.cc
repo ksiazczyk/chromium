@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multidevice feature access manager prefs implementation
+// summary: Implements the access manager by persisting notification and camera roll access status and setup state in user preferences.
+// ---
+
 #include "chromeos/ash/components/phonehub/multidevice_feature_access_manager_impl.h"
 
 #include "ash/constants/ash_features.h"

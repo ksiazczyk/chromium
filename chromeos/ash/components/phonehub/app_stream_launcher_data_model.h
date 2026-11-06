@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App stream launcher data model header
+// summary: Declares the data model for the App Stream Mini Launcher, including launcher visibility, size, app list state, and observers.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_APP_STREAM_LAUNCHER_DATA_MODEL_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_APP_STREAM_LAUNCHER_DATA_MODEL_H_
 

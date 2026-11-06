@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification manager base implementation
+// summary: Implements NotificationManager bookkeeping that tracks synced notifications and notifies observers when notifications are added, updated or removed.
+// ---
+
 #include "chromeos/ash/components/phonehub/notification_manager.h"
 
 #include <sstream>

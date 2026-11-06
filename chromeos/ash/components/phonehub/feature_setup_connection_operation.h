@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureSetupConnectionOperation class header
+// summary: Declares the operation that establishes a Phone Hub connection to the phone and reports setup connection status changes to a delegate.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_FEATURE_SETUP_CONNECTION_OPERATION_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_FEATURE_SETUP_CONNECTION_OPERATION_H_
 

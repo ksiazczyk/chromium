@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub URL constants header
+// summary: Declares the Phone Hub learn-more URL constant for use across the Phone Hub component.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PHONEHUB_URL_CONSTANTS_H_
 #define CHROMEOS_ASH_COMPONENTS_PHONEHUB_URL_CONSTANTS_H_
 
