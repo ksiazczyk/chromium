@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Limited entropy randomization implementation
+// summary: Validates that variations seeds respect entropy limits for limited-entropy layers and logs seed rejection reasons to histograms and crash keys.
+// ---
+
 #include "components/variations/service/limited_entropy_randomization.h"
 
 #include <algorithm>

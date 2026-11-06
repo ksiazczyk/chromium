@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Variations seed processor unit tests
+// summary: Extensive unit tests for seed processing, covering study filtering, experiment group assignment, forcing flags, params and web visibility.
+// ---
+
 
 #include "components/variations/variations_seed_processor.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Variations command-line switch definitions
+// summary: Defines command-line switches for the variations component, such as disabling field trial testing config and forcing variation IDs.
+// ---
+
 #include "components/variations/variations_switches.h"
 
 namespace variations {

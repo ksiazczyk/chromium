@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Variations URL loader throttle implementation
+// summary: Implements the VariationsURLLoaderThrottle that appends variations headers to requests for Google domains and removes them on redirects, skipping incognito sessions.
+// ---
+
 #include "components/variations/net/variations_url_loader_throttle.h"
 
 #include "components/google/core/common/google_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Variations IDs provider implementation
+// summary: Implements the thread-safe singleton that builds X-Client-Data variation ID headers for first-party and any-context requests.
+// ---
+
 #include "components/variations/variations_ids_provider.h"
 
 #include <algorithm>

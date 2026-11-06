@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Value store task runner header
+// summary: Declares GetValueStoreTaskRunner, which returns the singleton task runner for value store file operations.
+// ---
+
 #ifndef COMPONENTS_VALUE_STORE_VALUE_STORE_TASK_RUNNER_H_
 #define COMPONENTS_VALUE_STORE_VALUE_STORE_TASK_RUNNER_H_
 

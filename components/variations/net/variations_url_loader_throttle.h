@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Variations URL loader throttle class declaration
+// summary: Declares the VariationsURLLoaderThrottle class, a blink URLLoaderThrottle that adds variations headers for Google-owned domains and strips them on redirect when needed.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_NET_VARIATIONS_URL_LOADER_THROTTLE_H_
 #define COMPONENTS_VARIATIONS_NET_VARIATIONS_URL_LOADER_THROTTLE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI implementation of VariationsAssociatedData
+// summary: Implements JNI bindings that expose field trial parameter values, variations IDs, and encrypted variations state to Java on Android.
+// ---
+
 #include <string>
 
 #include "base/android/jni_string.h"

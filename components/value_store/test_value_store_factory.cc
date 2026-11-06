@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test value store factory implementation
+// summary: Implements TestValueStoreFactory, which creates TestingValueStore or LeveldbValueStore instances for tests and tracks stores created per directory.
+// ---
+
 #include "components/value_store/test_value_store_factory.h"
 
 #include "base/memory/ptr_util.h"

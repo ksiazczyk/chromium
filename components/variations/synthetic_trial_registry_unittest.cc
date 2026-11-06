@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Synthetic trial registry unit tests
+// summary: Unit tests for SyntheticTrialRegistry covering registration of synthetic field trials, observer notifications, and external experiment handling.
+// ---
+
 #include "components/variations/synthetic_trial_registry.h"
 
 #include <algorithm>

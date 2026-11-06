@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Variations safe seed store header
+// summary: Declares the VariationsSafeSeedStore class API for managing safe seed state such as fetch time, milestone, locale and consistency countries.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_VARIATIONS_SAFE_SEED_STORE_H_
 #define COMPONENTS_VARIATIONS_VARIATIONS_SAFE_SEED_STORE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LazyLevelDb class declaration
+// summary: Declares a class that manages a lazily opened leveldb connection, including status conversion and corruption repair helpers for derived stores.
+// ---
+
 #ifndef COMPONENTS_VALUE_STORE_LAZY_LEVELDB_H_
 #define COMPONENTS_VALUE_STORE_LAZY_LEVELDB_H_
 

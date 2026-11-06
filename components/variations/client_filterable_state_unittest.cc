@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Client filterable state unit tests
+// summary: Unit tests for ClientFilterableState, covering the fake variations platform switch override and ignoring invalid platform values.
+// ---
+
 #include "components/variations/client_filterable_state.h"
 
 #include <string>

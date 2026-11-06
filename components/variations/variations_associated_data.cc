@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Variations associated data implementation
+// summary: Implements a thread-safe singleton mapping field trial groups to Google VariationIDs with time windows, reporting invalid associations via crash dumps.
+// ---
+
 #include "components/variations/variations_associated_data.h"
 
 #include <map>

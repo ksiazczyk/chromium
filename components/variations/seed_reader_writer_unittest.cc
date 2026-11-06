@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SeedReaderWriter unit tests
+// summary: Unit tests covering seed file reading and writing, compression, size limits, and experiment group behavior for the seed reader writer.
+// ---
+
 #include "components/variations/seed_reader_writer.h"
 
 #include "base/base64.h"

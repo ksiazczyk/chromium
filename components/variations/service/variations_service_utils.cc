@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Variations service utility functions
+// summary: Implements helpers that determine whether a variations seed has expired based on fetch and build times and that retrieve the user's current country code.
+// ---
+
 #include "components/variations/service/variations_service_utils.h"
 
 #include <string>

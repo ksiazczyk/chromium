@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Study filtering header
+// summary: Declares internal study filter check functions for channel, form factor, hardware, locale, country, platform, version, enterprise, and date ranges, exposed for testing.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_STUDY_FILTERING_H_
 #define COMPONENTS_VARIATIONS_STUDY_FILTERING_H_
 

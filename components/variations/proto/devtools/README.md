@@ -1,3 +1,13 @@
+---
+type: readme
+title: DevTools ClientVariations Parser
+summary: Explains the purpose, build pipeline, and integration of the parser that decodes the X-Client-Data header for the DevTools Network panel.
+relations:
+  - documents /components/variations/proto/devtools/client_variations_uncompiled.ts
+  - references /components/variations/proto/client_variations.proto
+  - documents /components/variations/proto/devtools/update_client_variations.py
+---
+
 # DevTools ClientVariations Parser
 
 This directory contains the logic for generating the `ClientVariations` protocol

@@ -1,0 +1,4 @@
+# Docerion header of complete.textproto.
+type: test
+title: Complete seed test case for create_trials_from_seed fuzzer
+summary: A text-format protobuf seed with layers, a study with filters and experiments, client filterable state and entropy values, used as a complete test case for the create_trials_from_seed fuzzer.

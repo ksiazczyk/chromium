@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome OS variations crash keys header
+// summary: Declares ReportVariationsToChromeOs, which reports variations crash keys via a file in the user's home directory.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_VARIATIONS_CRASH_KEYS_CHROMEOS_H_
 #define COMPONENTS_VARIATIONS_VARIATIONS_CRASH_KEYS_CHROMEOS_H_
 

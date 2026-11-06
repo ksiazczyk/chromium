@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedVariationsIdsProvider test helper implementation
+// summary: Implements a test helper that installs a VariationsIdsProvider instance for the duration of a test and restores the previous global instance on destruction.
+// ---
+
 #include "components/variations/scoped_variations_ids_provider.h"
 
 #include "base/check.h"

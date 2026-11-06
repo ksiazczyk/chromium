@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for fake crash scheduling
+// summary: Declares MaybeScheduleFakeCrash, which schedules a crash dump without actually crashing so crash safety measures for features can be verified.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_FAKE_CRASH_H_
 #define COMPONENTS_VARIATIONS_FAKE_CRASH_H_
 

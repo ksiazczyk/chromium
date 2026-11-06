@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JNI bridge for NormalizedMurmurHashEntropyProvider tests
+// summary: Test-only JNI bridge that lets NormalizedMurmurHashEntropyProviderTest call the native murmurHash16 and getEntropyForTrial implementations as the source of truth.
+// ---
+
 package org.chromium.components.variations;
 
 import org.jni_zero.NativeMethods;

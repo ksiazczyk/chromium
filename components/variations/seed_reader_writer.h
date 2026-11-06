@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SeedReaderWriter header
+// summary: Declares SeedReaderWriter and seed info structs for storing, validating, and loading variations seed data and related metadata.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_SEED_READER_WRITER_H_
 #define COMPONENTS_VARIATIONS_SEED_READER_WRITER_H_
 

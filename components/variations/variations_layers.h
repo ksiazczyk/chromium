@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Variations layers class declaration
+// summary: Declares the VariationsLayers class that assigns at most one mutually exclusive layer member per client, plus the InvalidLayerReason enum used for logging.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_VARIATIONS_LAYERS_H_
 #define COMPONENTS_VARIATIONS_VARIATIONS_LAYERS_H_
 

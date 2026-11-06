@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: CreateTrialsFromSeedTestCase protobuf definition
+// summary: Protobuf schema defining a test case message that pairs a VariationsSeed with client filterable state and entropy values for the seed-based fuzzers.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

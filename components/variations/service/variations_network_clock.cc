@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Variations network clock implementation
+// summary: Implements VariationsNetworkClock, which estimates the current time from the network time tracker and falls back to local time while logging the time source used.
+// ---
+
 #include "components/variations/service/variations_network_clock.h"
 
 #include "base/metrics/histogram_functions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Variations field trial creator implementation
+// summary: Implements creation of field trials from variations seeds, including seed expiry and freshness logging, policy restrictions, entropy handling, and safe mode behavior.
+// ---
+
 #include "components/variations/service/variations_field_trial_creator.h"
 
 #include <stddef.h>

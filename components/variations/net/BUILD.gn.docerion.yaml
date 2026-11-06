@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for the variations net static library
+summary: Defines the static library target listing variations command line, flags, headers and throttle sources with their public and private dependencies.

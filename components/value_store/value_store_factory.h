@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ValueStoreFactory interface
+// summary: Declares the abstract ValueStoreFactory interface for creating, deleting, and checking for ValueStore instances in given directories.
+// ---
+
 #ifndef COMPONENTS_VALUE_STORE_VALUE_STORE_FACTORY_H_
 #define COMPONENTS_VALUE_STORE_VALUE_STORE_FACTORY_H_
 

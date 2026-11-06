@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Variations MurmurHash unit tests
+// summary: Verifies VariationsMurmurHash matches the reference MurmurHash3_x86_32 implementation across string encodings, hash prefixes, seeds, and edge-case values.
+// ---
+
 #include "components/variations/variations_murmur_hash.h"
 
 #include <limits>

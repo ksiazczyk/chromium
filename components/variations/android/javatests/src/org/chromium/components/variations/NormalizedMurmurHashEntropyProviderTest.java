@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NormalizedMurmurHashEntropyProvider unit tests
+// summary: JUnit tests that verify the Java NormalizedMurmurHashEntropyProvider's hash16 and entropy-for-trial results against the native implementation across edge-case seeds and values.
+// ---
+
 package org.chromium.components.variations;
 
 import static org.junit.Assert.assertEquals;

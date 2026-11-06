@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Field trial config build definition
+summary: Defines GN targets that generate the fieldtrial testing config struct at build time and build the field_trial_config library and its unit tests.

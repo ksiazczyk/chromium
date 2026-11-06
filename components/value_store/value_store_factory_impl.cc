@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ValueStoreFactoryImpl implementation
+// summary: Implements ValueStoreFactory by creating LeveldbValueStore instances under the profile path and deleting or checking their database directories.
+// ---
+
 #include "components/value_store/value_store_factory_impl.h"
 
 #include <memory>

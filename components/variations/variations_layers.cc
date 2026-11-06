@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Variations layers implementation
+// summary: Implements layer slot selection and member activation for variations seed layers, including entropy provider derivation and invalid-layer reason logging.
+// ---
+
 #include "components/variations/variations_layers.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ValueStore interface declaration
+// summary: Declares the ValueStore interface for key-value storage areas, with status codes, backing store restore statuses, and read and write result types.
+// ---
+
 #ifndef COMPONENTS_VALUE_STORE_VALUE_STORE_H_
 #define COMPONENTS_VALUE_STORE_VALUE_STORE_H_
 

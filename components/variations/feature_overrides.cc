@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature overrides implementation
+// summary: Implements FeatureOverrides, which collects enable and disable feature overrides and registers them as extra overrides on a base::FeatureList when destroyed.
+// ---
+
 #include "components/variations/feature_overrides.h"
 
 namespace variations {

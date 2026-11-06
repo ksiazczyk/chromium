@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Entropy provider header
+// summary: Declares entropy provider classes that derive field trial entropy from high, low, and limited entropy sources, plus the EntropyProviders aggregate.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_ENTROPY_PROVIDER_H_
 #define COMPONENTS_VARIATIONS_ENTROPY_PROVIDER_H_
 

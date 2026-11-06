@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Limited entropy randomization unit tests
+// summary: Unit tests covering seed validation against entropy limits, layer configuration errors, and the expected histogram buckets for rejection reasons.
+// ---
+
 #include "components/variations/service/limited_entropy_randomization.h"
 
 #include <cstdint>

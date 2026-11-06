@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Antishuffle stability tests for group assignment
+// summary: Tests that permanent study group assignments remain stable across algorithm changes, including salted and limited-entropy layers.
+// ---
+
 #include <stdint.h>
 
 #include <memory>

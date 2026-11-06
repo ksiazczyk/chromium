@@ -1,0 +1,4 @@
+# Docerion header of field_trial_testing_config_schema.json.
+type: data
+title: Field trial testing config schema
+summary: JSON schema describing the structure of field trial testing studies and experiments, used to generate the C++ config structs.

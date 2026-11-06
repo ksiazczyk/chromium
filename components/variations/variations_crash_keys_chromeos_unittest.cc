@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome OS variations crash keys unit tests
+// summary: Verifies that the variations list file is written to the home directory with the expected active field trial contents.
+// ---
+
 #include "components/variations/variations_crash_keys_chromeos.h"
 
 #include "base/base_paths.h"

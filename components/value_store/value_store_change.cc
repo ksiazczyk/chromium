@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ValueStoreChange implementation
+// summary: Implements conversion of a ValueStoreChangeList into a base::Value dictionary holding old and new values per changed key.
+// ---
+
 #include "components/value_store/value_store_change.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Groups manager class declaration
+// summary: Declares the GoogleGroupsManager keyed service that mirrors Google group memberships into local-state prefs and checks whether features are enabled for a profile.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_SERVICE_GOOGLE_GROUPS_MANAGER_H_
 #define COMPONENTS_VARIATIONS_SERVICE_GOOGLE_GROUPS_MANAGER_H_
 

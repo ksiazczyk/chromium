@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome OS variations crash keys implementation
+// summary: Writes the active experiment list to a .variations-list.txt file in the user's home directory for Chrome OS crash reporting.
+// ---
+
 #include "components/variations/variations_crash_keys_chromeos.h"
 
 #include "base/files/file_path.h"

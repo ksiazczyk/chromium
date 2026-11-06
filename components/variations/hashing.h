@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Field trial name hashing declarations
+// summary: Declares HashName and HashNameAsHexString for computing stable uint32 hashes of strings such as field trial and group names.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_HASHING_H_
 #define COMPONENTS_VARIATIONS_HASHING_H_
 

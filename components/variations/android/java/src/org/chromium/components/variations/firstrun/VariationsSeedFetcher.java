@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VariationsSeedFetcher
+// summary: Fetches the variations seed from the Google variations server before Chrome's first run on Android, handling platform selection, compression and network requests.
+// ---
+
 package org.chromium.components.variations.firstrun;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

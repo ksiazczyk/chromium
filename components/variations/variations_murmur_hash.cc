@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Variations MurmurHash implementation
+// summary: Implements an endianness-independent reimplementation of MurmurHash3_x86_32 and little-endian string-to-word conversion for entropy providers.
+// ---
+
 #include "components/variations/variations_murmur_hash.h"
 
 #include <string.h>

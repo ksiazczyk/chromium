@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Variations service utility declarations
+// summary: Declares helpers for variations seed expiration checks and for obtaining the current country code, with a fallback to the country_codes component.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_SERVICE_VARIATIONS_SERVICE_UTILS_H_
 #define COMPONENTS_VARIATIONS_SERVICE_VARIATIONS_SERVICE_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ValueStoreFrontend implementation
+// summary: Implements the ValueStoreFrontend backend, lazily creating a ValueStore on a file task runner and dispatching get, set, and remove operations.
+// ---
+
 #include "components/value_store/value_store_frontend.h"
 
 #include <utility>

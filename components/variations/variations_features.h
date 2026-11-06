@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Variations features header
+// summary: Placeholder header intended for declaring Variations features in the variations::internal namespace.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_VARIATIONS_FEATURES_H_
 #define COMPONENTS_VARIATIONS_VARIATIONS_FEATURES_H_
 

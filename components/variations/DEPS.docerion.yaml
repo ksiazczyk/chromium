@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the variations component
+summary: Restricts include dependencies of the variations component to a minimal set shared with Chrome OS builds.

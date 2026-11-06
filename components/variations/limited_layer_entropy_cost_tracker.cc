@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Limited layer entropy cost tracker implementation
+// summary: Implements calculation and monitoring of the entropy consumed by studies assigned to a limited layer, invalidating the tracker when input is invalid or the entropy limit is exceeded.
+// ---
+
 #include "components/variations/limited_layer_entropy_cost_tracker.h"
 
 #include <math.h>

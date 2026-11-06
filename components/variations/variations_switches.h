@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Variations command-line switch declarations
+// summary: Declares the command-line switches specific to the variations component for use across the codebase.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_VARIATIONS_SWITCHES_H_
 #define COMPONENTS_VARIATIONS_VARIATIONS_SWITCHES_H_
 

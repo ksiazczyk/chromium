@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Variations layers unit tests
+// summary: Unit tests covering layer slot selection, entropy modes, limited layers, and layer member activation behavior of VariationsLayers.
+// ---
+
 #include "components/variations/variations_layers.h"
 
 #include <sys/types.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child process field trial syncer header
+// summary: Declares ChildProcessFieldTrialSyncer, which keeps field trial activation state consistent between browser and child processes.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_CHILD_PROCESS_FIELD_TRIAL_SYNCER_H_
 #define COMPONENTS_VARIATIONS_CHILD_PROCESS_FIELD_TRIAL_SYNCER_H_
 

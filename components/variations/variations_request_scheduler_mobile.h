@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mobile variations request scheduler class
+// summary: Declares VariationsRequestSchedulerMobile, a scheduler variant for mobile platforms that uses local-state fetch times instead of running timers.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_VARIATIONS_REQUEST_SCHEDULER_MOBILE_H_
 #define COMPONENTS_VARIATIONS_VARIATIONS_REQUEST_SCHEDULER_MOBILE_H_
 

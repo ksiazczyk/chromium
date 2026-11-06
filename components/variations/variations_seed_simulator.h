@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Variations seed simulator header
+// summary: Declares SeedSimulationResult and SimulateSeedStudies, which compare current field trial state against the result of evaluating a seed.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_VARIATIONS_SEED_SIMULATOR_H_
 #define COMPONENTS_VARIATIONS_VARIATIONS_SEED_SIMULATOR_H_
 

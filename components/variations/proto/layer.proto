@@ -5,6 +5,12 @@
 // This file was exported from google3, do not edit manually.
 // See README.chromium for details.
 
+// ---docerion
+// type: source
+// title: Layer proto definition
+// summary: Defines the Layer and LayerMemberReference protobufs that split clients into disjoint slot ranges so potentially conflicting studies can run on separate client subsets.
+// ---
+
 edition = "2023";
 
 option optimize_for = LITE_RUNTIME;

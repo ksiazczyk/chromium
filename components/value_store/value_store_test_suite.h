@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ValueStoreTestSuite fixture header
+// summary: Declares the parameterized test fixture used to run ValueStore tests against different storage implementations.
+// ---
+
 #ifndef COMPONENTS_VALUE_STORE_VALUE_STORE_TEST_SUITE_H_
 #define COMPONENTS_VALUE_STORE_VALUE_STORE_TEST_SUITE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Entropy provider unit tests
+// summary: Unit tests validating the uniformity and behavior of the SHA1, normalized MurmurHash, and session entropy providers using chi-square analysis.
+// ---
+
 
 #include "components/variations/entropy_provider.h"
 

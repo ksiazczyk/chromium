@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test value store factory class declaration
+// summary: Declares TestValueStoreFactory, a ValueStoreFactory for tests that creates in-memory or LevelDB-backed stores and exposes lookup of previously created stores.
+// ---
+
 #ifndef COMPONENTS_VALUE_STORE_TEST_VALUE_STORE_FACTORY_H_
 #define COMPONENTS_VALUE_STORE_TEST_VALUE_STORE_FACTORY_H_
 

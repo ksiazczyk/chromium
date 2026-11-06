@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the variations seed bridge
+// summary: Declares native functions for fetching the first-run variations seed, clearing Java first-run preferences, and marking the seed as stored.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_ANDROID_VARIATIONS_SEED_BRIDGE_H_
 #define COMPONENTS_VARIATIONS_ANDROID_VARIATIONS_SEED_BRIDGE_H_
 

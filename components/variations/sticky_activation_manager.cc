@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StickyActivationManager implementation
+// summary: Implements persistence and monitoring of sticky-after-query field trials, storing activated trial groups in Local State prefs.
+// ---
+
 #include "components/variations/sticky_activation_manager.h"
 
 #include <string>

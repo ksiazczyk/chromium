@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe seed manager implementation
+// summary: Implements tracking of seed fetch failure and crash streaks to decide when to fall back to a safe seed instead of the regular variations seed.
+// ---
+
 #include "components/variations/service/safe_seed_manager.h"
 
 #include <algorithm>

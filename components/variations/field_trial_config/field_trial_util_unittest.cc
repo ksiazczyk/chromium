@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Field trial util unit tests
+// summary: Unit tests covering association of field trial params and features from command-line strings and the testing config, including experiment filtering behavior.
+// ---
+
 #include "components/variations/field_trial_config/field_trial_util.h"
 
 #include <map>

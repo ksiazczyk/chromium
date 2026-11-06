@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client filterable state implementation
+// summary: Implements ClientFilterableState, which supplies client state used for filtering variations studies, including enterprise/group callbacks and platform override handling.
+// ---
+
 #include "components/variations/client_filterable_state.h"
 
 #include "base/command_line.h"

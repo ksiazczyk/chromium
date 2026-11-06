@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Variations MurmurHash utilities
+// summary: Declares hash utilities used by NormalizedMurmurHashEntropyProvider, including StringToLE32, Hash, and a fast Hash16 variant with a fixed seed.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_VARIATIONS_MURMUR_HASH_H_
 #define COMPONENTS_VARIATIONS_VARIATIONS_MURMUR_HASH_H_
 

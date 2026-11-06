@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the value_store component
+summary: GN build file defining the value_store, test_support and unit_tests source sets together with their dependencies.

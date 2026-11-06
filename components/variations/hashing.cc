@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Field trial name hashing
+// summary: Implements HashName and HashNameAsHexString, hashing strings via base metrics hashes to uniquely identify field trial and group names.
+// ---
+
 #include "components/variations/hashing.h"
 
 #include <string.h>

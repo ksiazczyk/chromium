@@ -1,0 +1,4 @@
+# Docerion header of variations.mojom.
+type: source
+title: Variations Mojom definitions
+summary: Defines the GoogleWebVisibility enum and the VariationsHeaders struct used to pass variations headers between browser and renderer.

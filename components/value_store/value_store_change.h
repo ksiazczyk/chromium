@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ValueStoreChange class declaration
+// summary: Declares ValueStoreChange, representing a single setting change with key, old value, and new value, plus the ValueStoreChangeList typedef.
+// ---
+
 #ifndef COMPONENTS_VALUE_STORE_VALUE_STORE_CHANGE_H_
 #define COMPONENTS_VALUE_STORE_VALUE_STORE_CHANGE_H_
 

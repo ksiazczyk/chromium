@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Google Groups manager unit tests
+// summary: Unit tests verifying that dogfood group lists are copied from sync prefs to the variations Google Groups pref and cleared when sync is disabled.
+// ---
+
 #include "components/variations/service/google_groups_manager.h"
 
 #include "base/feature_list.h"

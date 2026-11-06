@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Variations command line interface
+// summary: Declares the VariationsCommandLine struct and helpers for capturing, serializing, encrypting and applying field trial and feature state.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_NET_VARIATIONS_COMMAND_LINE_H_
 #define COMPONENTS_VARIATIONS_NET_VARIATIONS_COMMAND_LINE_H_
 

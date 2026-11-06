@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Android variations
+summary: Sets include rules for the directory, allowing variations JNI headers and test-only access to Android content test utilities.

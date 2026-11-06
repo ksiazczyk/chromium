@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for the variations component
+summary: GN build file defining the variations component targets, mojom bindings, buildflags, sources, and dependencies.

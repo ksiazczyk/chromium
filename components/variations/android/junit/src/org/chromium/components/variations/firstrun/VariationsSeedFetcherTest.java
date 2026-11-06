@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VariationsSeedFetcherTest
+// summary: JUnit Robolectric tests for VariationsSeedFetcher, verifying seed fetching behavior such as HTTP responses, seed signature and country headers, gzip handling, and platform, restrict mode, milestone and channel parameters.
+// ---
+
 package org.chromium.components.variations.firstrun;
 
 import static com.google.common.truth.Truth.assertThat;

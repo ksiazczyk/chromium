@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Variations service dependency allowlist
+summary: DEPS file listing the components and directories that the variations service folder is allowed to include from.

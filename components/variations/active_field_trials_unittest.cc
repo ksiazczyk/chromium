@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for active field trials
+// summary: Unit tests verifying active group ID generation, suffix handling, and distinct hashes for overridden trials.
+// ---
+
 #include "components/variations/active_field_trials.h"
 
 #include <stddef.h>

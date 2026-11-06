@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: ClientVariations parser build script
+# summary: Python script that transpiles the parser with tsc, bundles it with Rollup, and minifies it with terser to regenerate client_variations.js.
+# ---
+
 """Updates the generated ClientVariations proto parser and formatter.
 
 This script builds the ClientVariations proto TypeScript bindings,

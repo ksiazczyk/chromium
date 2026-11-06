@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Variations test utilities unit tests
+// summary: Unit tests verifying that the signed test seed data has valid base64 encoding, valid signatures, and the expected study names.
+// ---
+
 #include "components/variations/variations_test_utils.h"
 
 #include <algorithm>

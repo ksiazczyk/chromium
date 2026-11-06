@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Field trial config utility implementation
+// summary: Implements filtering of experiments by platform, form factor, OS version and device tier, and associates field trial params and features from the testing config or command line.
+// ---
+
 #include "components/variations/field_trial_config/field_trial_util.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Variations crash keys unit tests
+// summary: Tests that variations crash keys track active, synthetic, and runtime-overridden field trials in crash key values.
+// ---
+
 #include "components/variations/variations_crash_keys.h"
 
 #include <string>

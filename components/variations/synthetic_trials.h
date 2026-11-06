@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic trials header
+// summary: Defines SyntheticTrialGroup, the SyntheticTrialAnnotationMode enum, and the SyntheticTrialObserver interface used to report client state as synthetic field trials to UMA.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_SYNTHETIC_TRIALS_H_
 #define COMPONENTS_VARIATIONS_SYNTHETIC_TRIALS_H_
 

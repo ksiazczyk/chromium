@@ -5,6 +5,12 @@
 // This file was exported from google3, do not edit manually.
 // See README.chromium for details.
 
+// ---docerion
+// type: source
+// title: VariationsSeed proto definition
+// summary: Defines the VariationsSeed protobuf response containing the list of studies, layer definitions, and a serial number for detecting configuration changes.
+// ---
+
 edition = "2023";
 
 option optimize_for = LITE_RUNTIME;

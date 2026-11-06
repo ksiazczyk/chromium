@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VariationsCompressionUtils
+// summary: Utility class for variations classes that parses instance manipulation headers and applies gzip and delta compression to seed request data.
+// ---
+
 package org.chromium.components.variations;
 
 import com.google.protobuf.CodedInputStream;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for LeveldbValueStore
+// summary: Runs the shared ValueStore test suite against LeveldbValueStore and verifies recovery of corrupted keys and databases.
+// ---
+
 #include "components/value_store/leveldb_value_store.h"
 
 #include <stddef.h>

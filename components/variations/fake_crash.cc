@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake crash scheduling for variations
+// summary: Schedules a non-fatal crash dump 15 seconds after startup when the VariationsFakeCrashAfterStartup feature is enabled, to verify safety measures for feature-caused crashes.
+// ---
+
 #include "components/variations/fake_crash.h"
 
 #include "base/debug/dump_without_crashing.h"

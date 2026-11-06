@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic trials implementation
+// summary: Implements SyntheticTrialGroup constructors and name setters that hash trial and group names for synthetic field trial identification.
+// ---
+
 #include "components/variations/synthetic_trials.h"
 
 #include <string_view>

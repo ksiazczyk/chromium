@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic trials active group ID provider
+// summary: Thread-safe singleton that observes synthetic trial groups and supplies their active group IDs for inclusion in crash reports.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_SYNTHETIC_TRIALS_ACTIVE_GROUP_ID_PROVIDER_H_
 #define COMPONENTS_VARIATIONS_SYNTHETIC_TRIALS_ACTIVE_GROUP_ID_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Uniformity tests for layered study assignment
+// summary: Unit tests verifying that experiment group assignment remains uniform across slots in layered constrained studies using the entropy provider.
+// ---
+
 #include <stdint.h>
 
 #include <array>

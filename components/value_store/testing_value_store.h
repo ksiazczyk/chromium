@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestingValueStore class declaration
+// summary: Declares an in-memory ValueStore for testing that can be made to fail operations and counts reads and writes for test assertions.
+// ---
+
 #ifndef COMPONENTS_VALUE_STORE_TESTING_VALUE_STORE_H_
 #define COMPONENTS_VALUE_STORE_TESTING_VALUE_STORE_H_
 

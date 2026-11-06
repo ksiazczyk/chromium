@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Variations crash keys for Android ANR reporting
+// summary: Declares SaveVariationsForAnrReporting, which saves Finch experiments to disk and records a hash for Android ANR reports.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_VARIATIONS_CRASH_KEYS_ANDROID_H_
 #define COMPONENTS_VARIATIONS_VARIATIONS_CRASH_KEYS_ANDROID_H_
 

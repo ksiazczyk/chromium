@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Variations field trial creator unit tests
+// summary: Extensive unit tests for variations field trial creation, covering seed application, safe and null seeds, expiry, limited layers, and command-line overrides.
+// ---
+
 #include "components/variations/service/variations_field_trial_creator.h"
 
 #include <stddef.h>

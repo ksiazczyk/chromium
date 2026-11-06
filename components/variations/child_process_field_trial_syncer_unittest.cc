@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Child process field trial syncer unit tests
+// summary: Unit tests verifying that ChildProcessFieldTrialSyncer invokes its callback for field trials activated after creation, skipping initially active ones.
+// ---
+
 #include "components/variations/child_process_field_trial_syncer.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Variations seed store unit tests
+// summary: Unit tests for VariationsSeedStore covering seed storage, signature verification, safe seeds, and seed file behavior.
+// ---
+
 #include "components/variations/variations_seed_store.h"
 
 #include <memory>

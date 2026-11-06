@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Limited layer entropy cost tracker unit tests
+// summary: Unit tests covering entropy calculation, input validation, and entropy limit checks for the limited layer entropy cost tracker.
+// ---
+
 #include "components/variations/limited_layer_entropy_cost_tracker.h"
 
 #include <cstdint>

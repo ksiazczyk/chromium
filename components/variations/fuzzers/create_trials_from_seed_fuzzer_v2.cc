@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CreateTrialsFromSeed fuzzer v2
+// summary: Extended libFuzzer proto fuzzer that builds client filterable state and entropy values from a fuzzed test case message for broader coverage of trial creation from a seed.
+// ---
+
 #include <memory>
 
 #include "base/at_exit.h"

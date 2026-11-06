@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Android variations component
+summary: Defines GN build targets for the Android variations component, including JNI generation, Java libraries, and native and Java test support.

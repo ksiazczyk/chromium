@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: DevTools ClientVariations parser build target
+summary: GN build target that runs update_client_variations.py to generate the client_variations.js parser bundle for DevTools.

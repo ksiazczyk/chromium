@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Variations testing flag declaration
+// summary: Declares the command-line switch constant for appending variations headers to localhost requests in tests.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_NET_VARIATIONS_FLAGS_H_
 #define COMPONENTS_VARIATIONS_NET_VARIATIONS_FLAGS_H_
 
