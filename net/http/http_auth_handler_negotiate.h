@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Negotiate HTTP auth handler header
+// summary: Declares the handler for the WWW-Authenticate Negotiate protocol, including its factory and platform auth library bindings.
+// ---
+
 #ifndef NET_HTTP_HTTP_AUTH_HANDLER_NEGOTIATE_H_
 #define NET_HTTP_HTTP_AUTH_HANDLER_NEGOTIATE_H_
 

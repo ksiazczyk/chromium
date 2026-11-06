@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpProxyConnectJob implementation
+// summary: Implements HttpProxyConnectJob, which establishes tunneled connections through HTTP, HTTPS, and QUIC proxies with adaptive timeouts and authentication.
+// ---
+
 #include "net/http/http_proxy_connect_job.h"
 
 #include <algorithm>

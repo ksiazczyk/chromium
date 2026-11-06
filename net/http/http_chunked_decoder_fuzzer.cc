@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer for the HTTP chunked decoder
+// summary: LibFuzzer entry point that feeds data to HttpChunkedDecoder::FilterBuf in pseudo-randomly sized blocks to uncover decoding crashes.
+// ---
+
 #include "net/http/http_chunked_decoder.h"
 
 #include <stddef.h>

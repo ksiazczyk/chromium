@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No-Vary-Search cache class declaration
+// summary: Declares NoVarySearchCache, an in-memory cache owned by HttpCache that looks up URLs matching previous responses according to No-Vary-Search header rules.
+// ---
+
 #ifndef NET_HTTP_NO_VARY_SEARCH_CACHE_H_
 #define NET_HTTP_NO_VARY_SEARCH_CACHE_H_
 

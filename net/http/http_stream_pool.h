@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpStreamPool
+// summary: Manages in-flight HTTP stream requests and maintains idle stream sockets grouped by HttpStreamKey, with per-pool and per-group stream limits.
+// ---
+
 #ifndef NET_HTTP_HTTP_STREAM_POOL_H_
 #define NET_HTTP_HTTP_STREAM_POOL_H_
 

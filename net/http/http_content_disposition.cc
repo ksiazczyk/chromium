@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content-Disposition header parsing implementation
+// summary: Implements parsing of Content-Disposition headers, including RFC 2047 encoded words, charset conversion, and filename extraction.
+// ---
+
 #include "net/http/http_content_disposition.h"
 
 #include <string>

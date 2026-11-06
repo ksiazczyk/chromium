@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedTransportSecurityStateSource test helper header
+// summary: Declares ScopedTransportSecurityStateSource, a RAII helper that swaps in test transport security state preload data.
+// ---
+
 #ifndef NET_HTTP_TRANSPORT_SECURITY_STATE_TEST_UTIL_H_
 #define NET_HTTP_TRANSPORT_SECURITY_STATE_TEST_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cache body compressor header
+// summary: Declares the CacheBodyCompressor class that encapsulates zstd compression state and exposes a minimal interface for writing cache entries.
+// ---
+
 #ifndef NET_HTTP_CACHE_BODY_COMPRESSOR_H_
 #define NET_HTTP_CACHE_BODY_COMPRESSOR_H_
 

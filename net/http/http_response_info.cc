@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP response info implementation
+// summary: Implements persisting and restoring HttpResponseInfo as a pickle, with flags for certificates, SSL status, proxy usage, and other response metadata.
+// ---
+
 #include "net/http/http_response_info.h"
 
 #include <optional>

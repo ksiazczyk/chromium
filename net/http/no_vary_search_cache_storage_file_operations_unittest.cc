@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: No-Vary-Search cache file operations unit tests
+// summary: Unit tests for NoVarySearchCacheStorageFileOperations covering initialization, loading, atomic saves, writers and error handling across platforms.
+// ---
+
 #include "net/http/no_vary_search_cache_storage_file_operations.h"
 
 #include <stddef.h>

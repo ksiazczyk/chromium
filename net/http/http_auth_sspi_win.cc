@@ -5,6 +5,12 @@
 // See "SSPI Sample Application" at
 // http://msdn.microsoft.com/en-us/library/aa918273.aspx
 
+// ---docerion
+// type: source
+// title: SSPI Windows HTTP authentication implementation
+// summary: Implements common routines for NTLM and Negotiate authentication via the Windows SSPI API, including credential and context handling with net logging.
+// ---
+
 #include "net/http/http_auth_sspi_win.h"
 
 #include <utility>

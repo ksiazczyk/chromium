@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpStreamFactory Job implementation
+// summary: Implements HttpStreamFactory::Job, which establishes connections for main, alternative, DNS ALPN H3, preconnect and WebSocket-over-H3 stream requests.
+// ---
+
 #include "net/http/http_stream_factory_job.h"
 
 #include <memory>

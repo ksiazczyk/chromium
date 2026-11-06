@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the HTTP Digest auth handler
+// summary: Unit tests for parsing Digest challenges and assembling credentials, using a fixed nonce generator for reproducible results.
+// ---
+
 #include "net/http/http_auth_handler_digest.h"
 
 #include <string>

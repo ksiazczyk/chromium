@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock SSPI library header for Windows tests
+// summary: Declares MockSSPILibrary, a fake SSPI implementation for unit tests that bypass the system SSPI library on Windows.
+// ---
+
 #ifndef NET_HTTP_MOCK_SSPI_LIBRARY_WIN_H_
 #define NET_HTTP_MOCK_SSPI_LIBRARY_WIN_H_
 

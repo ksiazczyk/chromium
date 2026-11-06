@@ -1,0 +1,4 @@
+# Docerion header of transport_security_state_static_pins.json.
+type: data
+title: Static key pinning list in JSON
+summary: Machine-readable pinsets and host entries for static certificate pinning, paired with the SPKI values in the .pins file.

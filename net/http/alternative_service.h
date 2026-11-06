@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Alternative service declarations
+// summary: Declares the AlternativeService struct, AlternativeServiceInfo class, and helpers for valid and enabled protocols per the alt-svc draft.
+// ---
+
 #ifndef NET_HTTP_ALTERNATIVE_SERVICE_H_
 #define NET_HTTP_ALTERNATIVE_SERVICE_H_
 

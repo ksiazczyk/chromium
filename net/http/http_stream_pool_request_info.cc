@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpStreamPoolRequestInfo implementation
+// summary: Implements constructors and the destructor for HttpStreamPoolRequestInfo, the move-only struct describing a stream or preconnect request to the HTTP stream pool.
+// ---
+
 #include "net/http/http_stream_pool_request_info.h"
 
 #include "net/base/network_anonymization_key.h"

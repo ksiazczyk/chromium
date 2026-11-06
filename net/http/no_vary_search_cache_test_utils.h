@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: No-Vary-Search cache test helpers interface
+// summary: Declares utility functions for creating test URLs, requests and No-Vary-Search response headers and for inserting, querying and erasing cache entries.
+// ---
+
 #ifndef NET_HTTP_NO_VARY_SEARCH_CACHE_TEST_UTILS_H_
 #define NET_HTTP_NO_VARY_SEARCH_CACHE_TEST_UTILS_H_
 

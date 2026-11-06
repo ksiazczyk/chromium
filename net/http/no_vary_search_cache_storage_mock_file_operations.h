@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: No-Vary-Search mock file operations declarations
+// summary: Declares MockFileOperations and MockWriter, gmock stand-ins for the storage file operations interface used in tests.
+// ---
+
 #ifndef NET_HTTP_NO_VARY_SEARCH_CACHE_STORAGE_MOCK_FILE_OPERATIONS_H_
 #define NET_HTTP_NO_VARY_SEARCH_CACHE_STORAGE_MOCK_FILE_OPERATIONS_H_
 

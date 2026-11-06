@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HttpProxyClientSocket unit tests
+// summary: Unit tests for HttpProxyClientSocket, verifying that socket tags are applied to the underlying stream socket.
+// ---
+
 #include "net/http/http_proxy_client_socket.h"
 
 #include "build/build_config.h"

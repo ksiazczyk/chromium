@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP auth filter header
+// summary: Declares the HttpAuthFilter interface and HttpAuthFilterAllowlist for restricting HTTP authentication to allowlisted servers, with all proxies allowed.
+// ---
+
 #ifndef NET_HTTP_HTTP_AUTH_FILTER_H_
 #define NET_HTTP_HTTP_AUTH_FILTER_H_
 

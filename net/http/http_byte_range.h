@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpByteRange class header
+// summary: Declares HttpByteRange, a container for RFC 7233 range requests with bounded, right-unbounded, and suffix range constructors and header value generation.
+// ---
+
 #ifndef NET_HTTP_HTTP_BYTE_RANGE_H_
 #define NET_HTTP_HTTP_BYTE_RANGE_H_
 

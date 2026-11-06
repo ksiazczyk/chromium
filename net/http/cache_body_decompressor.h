@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CacheBodyDecompressor class header
+// summary: Declares CacheBodyDecompressor, which owns all zstd decompression state so HttpCache::Transaction can read compressed cache entry bodies at defined points.
+// ---
+
 #ifndef NET_HTTP_CACHE_BODY_DECOMPRESSOR_H_
 #define NET_HTTP_CACHE_BODY_DECOMPRESSOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL security manager unit tests
+// summary: Unit tests verifying default credential use and Kerberos delegation decisions of the URL security manager against an auth allowlist.
+// ---
+
 #include "net/http/url_security_manager.h"
 
 #include <array>

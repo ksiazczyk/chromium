@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Transport security state unit tests
+// summary: Unit tests covering HSTS and HPKP behavior of TransportSecurityState, including pin validation and preload list handling.
+// ---
+
 #include "net/http/transport_security_state.h"
 
 #include <stdint.h>

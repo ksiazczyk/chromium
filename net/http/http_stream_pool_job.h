@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpStreamPool Job class declaration
+// summary: Declares HttpStreamPool::Job and its delegate interface for handling stream requests and preconnects to origins or alternative services.
+// ---
+
 #ifndef NET_HTTP_HTTP_STREAM_POOL_JOB_H_
 #define NET_HTTP_HTTP_STREAM_POOL_JOB_H_
 

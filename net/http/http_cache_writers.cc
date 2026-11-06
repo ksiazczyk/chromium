@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Http cache writers implementation
+// summary: Implements HttpCache::Writers, which synchronizes multiple transactions reading from the network and writing to the same cache entry.
+// ---
+
 #include "net/http/http_cache_writers.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: No-Vary-Search cache performance benchmarks
+// summary: Google Benchmark suite measuring lookup and insertion performance of NoVarySearchCache across varying partition keys, base URLs and query strings.
+// ---
+
 #include "net/http/no_vary_search_cache.h"
 
 #include <stddef.h>

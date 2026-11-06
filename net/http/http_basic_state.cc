@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpBasicState implementation
+// summary: Implements shared state for HTTP basic streams, managing the socket connection, stream parser, request line generation, and connection reuse.
+// ---
+
 #include "net/http/http_basic_state.h"
 
 #include <set>

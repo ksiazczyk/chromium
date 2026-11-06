@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Http cache utility implementation
+// summary: Implements cache helpers that map request headers such as Cache-Control and If-Match to load flags and parse conditional validation headers.
+// ---
+
 #include "net/http/http_cache_util.h"
 
 #include <array>

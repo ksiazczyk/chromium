@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpStreamFactory Job class declaration
+// summary: Declares HttpStreamFactory::Job and its delegate interface for creating streams and reporting readiness, failures, auth challenges and preconnect results.
+// ---
+
 #ifndef NET_HTTP_HTTP_STREAM_FACTORY_JOB_H_
 #define NET_HTTP_HTTP_STREAM_FACTORY_JOB_H_
 

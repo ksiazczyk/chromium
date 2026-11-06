@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpAuthCache class header
+// summary: Declares HttpAuthCache and its Entry class, which hold credentials, challenge info, and protection-space paths for HTTP authentication lookups.
+// ---
+
 #ifndef NET_HTTP_HTTP_AUTH_CACHE_H_
 #define NET_HTTP_HTTP_AUTH_CACHE_H_
 

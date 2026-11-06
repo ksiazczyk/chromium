@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Negotiate HTTP auth handler unit tests
+// summary: Tests the Negotiate auth handler using mocked SSPI, GSSAPI, and Android SPNEGO libraries across platforms.
+// ---
+
 #include "net/http/http_auth_handler_negotiate.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP auth controller header
+// summary: Declares HttpAuthController, the main entry point into the HTTP authentication stack for handling authentication challenges against a server or proxy target.
+// ---
+
 #ifndef NET_HTTP_HTTP_AUTH_CONTROLLER_H_
 #define NET_HTTP_HTTP_AUTH_CONTROLLER_H_
 

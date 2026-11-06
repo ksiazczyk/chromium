@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transport security state pins source interface
+// summary: Defines the struct exposing static key pinning data, including pinsets and a hostname-to-host-pin lookup function.
+// ---
+
 #ifndef NET_HTTP_TRANSPORT_SECURITY_STATE_PINS_SOURCE_H_
 #define NET_HTTP_TRANSPORT_SECURITY_STATE_PINS_SOURCE_H_
 

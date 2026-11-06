@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HTTP security headers unit tests
+// summary: Unit tests checking acceptance and rejection of Strict-Transport-Security header values across many directive and malformed-input cases.
+// ---
+
 #include "net/http/http_security_headers.h"
 
 #include <stdint.h>

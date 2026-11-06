@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpRawRequestHeaders header
+// summary: Declares HttpRawRequestHeaders and a request headers callback that exposes headers as sent on the wire, including the request line for non-multiplexed HTTP.
+// ---
+
 #ifndef NET_HTTP_HTTP_RAW_REQUEST_HEADERS_H_
 #define NET_HTTP_HTTP_RAW_REQUEST_HEADERS_H_
 

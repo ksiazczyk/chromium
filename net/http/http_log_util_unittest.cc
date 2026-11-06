@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for HTTP log header redaction
+// summary: Unit tests verifying which HTTP header values are elided or kept in net logs depending on capture mode and header type.
+// ---
+
 #include "net/http/http_log_util.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpVaryData class header
+// summary: Declares HttpVaryData, which stores a hash of Vary-selected request headers so cached responses can be matched against future HTTP requests.
+// ---
+
 #ifndef NET_HTTP_HTTP_VARY_DATA_H_
 #define NET_HTTP_HTTP_VARY_DATA_H_
 

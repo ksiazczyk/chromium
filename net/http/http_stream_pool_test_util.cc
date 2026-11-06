@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HttpStreamPool test utilities implementation
+// summary: Implements fake service endpoint resolution and request classes plus harness helpers used by HttpStreamPool unit tests.
+// ---
+
 #include "net/http/http_stream_pool_test_util.h"
 
 #include "base/location.h"

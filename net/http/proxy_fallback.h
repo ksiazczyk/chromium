@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy fallback logic
+// summary: Documents the proxy fallback design and declares CanFalloverToNextProxy, which decides whether a failed request should be retried through the next proxy chain.
+// ---
+
 #ifndef NET_HTTP_PROXY_FALLBACK_H_
 #define NET_HTTP_PROXY_FALLBACK_H_
 

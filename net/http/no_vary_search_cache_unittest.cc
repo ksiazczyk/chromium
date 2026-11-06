@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: No-Vary-Search cache unit tests
+// summary: Tests NoVarySearchCache insertion, lookup and eviction behavior for No-Vary-Search headers, including variants with and without network isolation key splitting.
+// ---
+
 #include "net/http/no_vary_search_cache.h"
 
 #include <algorithm>

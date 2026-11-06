@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HTTP response headers test helper implementation
+// summary: Implements HttpResponseHeadersToSimpleString, a test helper that serializes parsed response headers into a simple text form for test expectations.
+// ---
+
 #include "net/http/http_response_headers_test_util.h"
 
 #include "base/strings/strcat.h"

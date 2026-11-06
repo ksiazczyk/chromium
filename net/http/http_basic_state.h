@@ -5,6 +5,12 @@
 // A class that stores the common state between HttpBasicStream and
 // WebSocketBasicHandshakeStream.
 
+// ---docerion
+// type: source
+// title: HttpBasicState class declaration
+// summary: Declares HttpBasicState, which stores common state between HttpBasicStream and WebSocketBasicHandshakeStream, including connection and parser handling.
+// ---
+
 #ifndef NET_HTTP_HTTP_BASIC_STATE_H_
 #define NET_HTTP_HTTP_BASIC_STATE_H_
 

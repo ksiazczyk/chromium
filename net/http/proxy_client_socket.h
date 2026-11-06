@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy client socket base class
+// summary: Declares the common base class for stream sockets tunneled through a proxy, covering CONNECT response info, auth controllers and restarting with credentials.
+// ---
+
 #ifndef NET_HTTP_PROXY_CLIENT_SOCKET_H_
 #define NET_HTTP_PROXY_CLIENT_SOCKET_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the HTTP chunked decoder
+// summary: GTest suite covering chunked decoding of basic, incremental, extension, trailer, and invalid-encoding inputs.
+// ---
+
 #include "net/http/http_chunked_decoder.h"
 
 #include <memory>

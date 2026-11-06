@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock HTTP transaction test utilities implementation
+// summary: Implements mock transactions, a mock network layer, and helpers that let HTTP cache and transaction tests run without real network traffic.
+// ---
+
 #include "net/http/http_transaction_test_util.h"
 
 #include <stdint.h>

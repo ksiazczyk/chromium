@@ -12,6 +12,12 @@
 // Code Registry.
 // http://www.iana.org/assignments/http-status-codes/http-status-codes.xml
 
+// ---docerion
+// type: source
+// title: HTTP status code list
+// summary: Macro-expanded list of HTTP status codes with labels, numeric values, and reason phrases taken from the IANA HTTP Status Code Registry.
+// ---
+
 #ifndef HTTP_STATUS_ENUM_VALUE
 #error "Do #include net/http/http_status_code.h instead of this file directly."
 #endif

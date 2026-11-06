@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP response headers declaration
+// summary: Declares the HttpResponseHeaders class with a builder, persist options, and freshness validation for parsed HTTP response headers.
+// ---
+
 #ifndef NET_HTTP_HTTP_RESPONSE_HEADERS_H_
 #define NET_HTTP_HTTP_RESPONSE_HEADERS_H_
 

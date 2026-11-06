@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test upload data stream disallowing HTTP/1 header
+// summary: Declares UploadDataStreamNotAllowHTTP1, a test helper upload stream that disallows HTTP/1 and serves fixed content.
+// ---
+
 #ifndef NET_HTTP_TEST_UPLOAD_DATA_STREAM_NOT_ALLOW_HTTP1_H_
 #define NET_HTTP_TEST_UPLOAD_DATA_STREAM_NOT_ALLOW_HTTP1_H_
 

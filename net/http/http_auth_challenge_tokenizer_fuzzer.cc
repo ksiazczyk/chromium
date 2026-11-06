@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HttpAuthChallengeTokenizer fuzzer
+// summary: LibFuzzer harness that feeds arbitrary input to HttpAuthChallengeTokenizer parsing to find crashes in challenge handling.
+// ---
+
 #include "net/http/http_auth_challenge_tokenizer.h"
 
 #include <string_view>

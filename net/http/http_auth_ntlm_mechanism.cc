@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTLM HTTP auth mechanism implementation
+// summary: Implements the portable NTLM authentication mechanism, generating negotiate and authenticate tokens and parsing multi-round NTLM challenges.
+// ---
+
 #include "net/http/http_auth_ntlm_mechanism.h"
 
 #include <string_view>

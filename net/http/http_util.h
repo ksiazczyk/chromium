@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpUtil class header
+// summary: Declares the HttpUtil class with static utilities for request URL specs, Content-Type and byte range header parsing, and related HTTP message handling.
+// ---
+
 #ifndef NET_HTTP_HTTP_UTIL_H_
 #define NET_HTTP_HTTP_UTIL_H_
 

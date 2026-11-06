@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpStreamPool Job implementation
+// summary: Implements HttpStreamPool::Job, which drives stream requests and preconnects, computing allowed ALPNs and QUIC versions for a destination.
+// ---
+
 #include "net/http/http_stream_pool_job.h"
 
 #include <memory>

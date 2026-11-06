@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP status code declarations
+// summary: Declares the HttpStatusCode enum and helper functions for retrieving reason phrases and converting response codes, based on the IANA HTTP Status Code Registry.
+// ---
+
 #ifndef NET_HTTP_HTTP_STATUS_CODE_H_
 #define NET_HTTP_HTTP_STATUS_CODE_H_
 

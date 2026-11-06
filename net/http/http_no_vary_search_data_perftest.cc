@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HttpNoVarySearchData performance benchmarks
+// summary: Benchmarks the old and new AreEquivalent implementations of HttpNoVarySearchData on matching and non-matching URL queries.
+// ---
+
 #include "net/http/http_no_vary_search_data.h"
 
 #include <string>

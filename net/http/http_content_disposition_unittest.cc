@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Content-Disposition parsing
+// summary: Parameterized GTest suite verifying filename extraction across many header forms, charsets, percent and RFC 2047 encodings.
+// ---
+
 #include "net/http/http_content_disposition.h"
 
 #include <array>

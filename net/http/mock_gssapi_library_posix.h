@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock GSSAPI library header for POSIX tests
+// summary: Declares MockGSSAPILibrary and supporting mock context types for unit tests that bypass system GSSAPI library calls.
+// ---
+
 #ifndef NET_HTTP_MOCK_GSSAPI_LIBRARY_POSIX_H_
 #define NET_HTTP_MOCK_GSSAPI_LIBRARY_POSIX_H_
 

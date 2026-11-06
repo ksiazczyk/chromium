@@ -6,6 +6,12 @@
 // not sharing a sharing with any other HttpStreams, therefore it just reads and
 // writes directly to the Http Stream.
 
+// ---docerion
+// type: source
+// title: HttpBasicStream class header
+// summary: Declares HttpBasicStream, a simple HttpStream implementation that reads and writes directly to the socket without sharing with other streams.
+// ---
+
 #ifndef NET_HTTP_HTTP_BASIC_STREAM_H_
 #define NET_HTTP_HTTP_BASIC_STREAM_H_
 

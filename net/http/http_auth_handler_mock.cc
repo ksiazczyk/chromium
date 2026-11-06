@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock HTTP auth handler implementation
+// summary: Implements a mock HTTP auth handler with controllable async token generation and challenge handling for use in tests.
+// ---
+
 
 #include "net/http/http_auth_handler_mock.h"
 

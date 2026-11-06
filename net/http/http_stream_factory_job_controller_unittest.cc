@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HttpStreamFactory JobController unit tests
+// summary: Unit tests for HttpStreamFactory::JobController covering stream creation, alternative services, proxies and QUIC/HTTP/3 behavior.
+// ---
+
 #include "net/http/http_stream_factory_job_controller.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HTTP response headers test helper header
+// summary: 'Declares HttpResponseHeadersToSimpleString, which renders response headers as one name: value line per header in original order for tests.'
+// ---
+
 #ifndef NET_HTTP_HTTP_RESPONSE_HEADERS_TEST_UTIL_H_
 #define NET_HTTP_HTTP_RESPONSE_HEADERS_TEST_UTIL_H_
 

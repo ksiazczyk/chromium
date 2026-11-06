@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpServerPropertiesManager interface
+// summary: Declares the HttpServerPropertiesManager class responsible for reading and writing HttpServerProperties data to preferences storage.
+// ---
+
 #ifndef NET_HTTP_HTTP_SERVER_PROPERTIES_MANAGER_H_
 #define NET_HTTP_HTTP_SERVER_PROPERTIES_MANAGER_H_
 

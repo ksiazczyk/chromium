@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPEndPointStateTracker implementation
+// summary: Implements tracking of IP endpoint connection attempt states and selection of endpoints for TCP-based connection attempts in the HTTP stream pool.
+// ---
+
 #include "net/http/http_stream_pool_ip_endpoint_state_tracker.h"
 
 #include <map>

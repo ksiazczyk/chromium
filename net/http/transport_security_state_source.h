@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transport security state source interface
+// summary: Defines the struct exposing preloaded HSTS data such as the Huffman tree, preloaded trie and its root position.
+// ---
+
 #ifndef NET_HTTP_TRANSPORT_SECURITY_STATE_SOURCE_H_
 #define NET_HTTP_TRANSPORT_SECURITY_STATE_SOURCE_H_
 

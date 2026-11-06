@@ -7,6 +7,12 @@
 // and "NTLM Security Support Provider" at
 // http://msdn.microsoft.com/en-us/library/aa923611.aspx.
 
+// ---docerion
+// type: source
+// title: Windows SSPI NTLM HTTP auth handler implementation
+// summary: Implements the NTLM HTTP authentication handler on Windows via SSPI, including factory creation and default credential support for proxies.
+// ---
+
 #include "net/http/http_auth_handler_ntlm.h"
 
 #include "base/strings/string_util.h"

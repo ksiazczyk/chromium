@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP auth scheme name constants
+// summary: Defines inline constants for HTTP authentication scheme names such as basic, digest, ntlm, negotiate, spdyproxy, and mock.
+// ---
+
 #ifndef NET_HTTP_HTTP_AUTH_SCHEME_H_
 #define NET_HTTP_HTTP_AUTH_SCHEME_H_
 

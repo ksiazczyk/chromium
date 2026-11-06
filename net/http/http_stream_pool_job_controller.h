@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpStreamPool JobController class declaration
+// summary: Declares HttpStreamPool::JobController, which manages one HttpStreamRequest or preconnect and owns the jobs that fulfill it.
+// ---
+
 #ifndef NET_HTTP_HTTP_STREAM_POOL_JOB_CONTROLLER_H_
 #define NET_HTTP_HTTP_STREAM_POOL_JOB_CONTROLLER_H_
 

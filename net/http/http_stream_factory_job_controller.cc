@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpStreamFactory JobController implementation
+// summary: Implements HttpStreamFactory::JobController, which coordinates proxy resolution and the main, alternative and HTTP/3 jobs serving a stream request.
+// ---
+
 #include "net/http/http_stream_factory_job_controller.h"
 
 #include <string>

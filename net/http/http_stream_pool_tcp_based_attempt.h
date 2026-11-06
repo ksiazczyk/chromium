@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpStreamPool TcpBasedAttempt class header
+// summary: Declares HttpStreamPool::TcpBasedAttempt and TcpBasedAttemptSlot, which group IPv4 and IPv6 attempts into one slot counted against pool limits.
+// ---
+
 #ifndef NET_HTTP_HTTP_STREAM_POOL_TCP_BASED_ATTEMPT_H_
 #define NET_HTTP_HTTP_STREAM_POOL_TCP_BASED_ATTEMPT_H_
 

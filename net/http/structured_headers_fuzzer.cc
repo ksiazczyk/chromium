@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Structured headers fuzzer
+// summary: Fuzz target that feeds arbitrary input to the structured header item, list-of-lists, and parameterised list parsers.
+// ---
+
 #include "net/http/structured_headers.h"
 
 #include <string_view>

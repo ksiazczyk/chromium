@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HTTP auth challenge tokenizer unit tests
+// summary: Unit tests for HttpAuthChallengeTokenizer covering parsing of Basic and Digest challenge parameters with quoted, unquoted, mismatched, and missing values.
+// ---
+
 #include "net/http/http_auth_challenge_tokenizer.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Broken alternative services implementation
+// summary: Implements tracking of broken HTTP alternative services with expiration delays that grow via exponential back-off.
+// ---
+
 #include "net/http/broken_alternative_services.h"
 
 #include <ranges>

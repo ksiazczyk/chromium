@@ -5,6 +5,12 @@
 // The rules for parsing content-types were borrowed from Firefox:
 // http://lxr.mozilla.org/mozilla/source/netwerk/base/src/nsURLHelper.cpp#834
 
+// ---docerion
+// type: source
+// title: HttpUtil HTTP helper functions implementation
+// summary: Implements HttpUtil helpers for generating request lines, parsing Content-Type, Range, and Content-Range headers, and building Accept-Language header values.
+// ---
+
 #include "net/http/http_util.h"
 
 #include <algorithm>

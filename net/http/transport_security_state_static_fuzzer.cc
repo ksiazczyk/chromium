@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer for static transport security state
+// summary: Fuzz target that queries static HSTS and PKP state with arbitrary hostnames to exercise static domain state lookups.
+// ---
+
 #include <string>
 
 #include "net/http/transport_security_state.h"

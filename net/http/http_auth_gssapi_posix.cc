@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GSSAPI HTTP auth implementation for POSIX
+// summary: Implements GSSAPI-based HTTP authentication using SPNEGO on POSIX systems, with scoped resource wrappers, delegation flags, and status logging.
+// ---
+
 #include "net/http/http_auth_gssapi_posix.h"
 
 #include <limits>

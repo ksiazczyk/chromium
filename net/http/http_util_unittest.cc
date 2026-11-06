@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for HttpUtil
+// summary: Tests HttpUtil behavior including safe and unsafe header checks, header iterators, content type parsing, and range header parsing.
+// ---
+
 #include "net/http/http_util.h"
 
 #include <algorithm>

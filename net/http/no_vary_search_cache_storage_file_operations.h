@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No-Vary-Search cache file operations interface
+// summary: Declares the blocking file-operation interface used by NoVarySearchCacheStorage, abstracted to separate file handling from the rest and simplify testing.
+// ---
+
 #ifndef NET_HTTP_NO_VARY_SEARCH_CACHE_STORAGE_FILE_OPERATIONS_H_
 #define NET_HTTP_NO_VARY_SEARCH_CACHE_STORAGE_FILE_OPERATIONS_H_
 

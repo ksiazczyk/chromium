@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpServerProperties interface
+// summary: Declares the HttpServerProperties interface for storing and retrieving per-server properties including HTTP/2 support, alternative services, broken services, and QUIC server information.
+// ---
+
 #ifndef NET_HTTP_HTTP_SERVER_PROPERTIES_H_
 #define NET_HTTP_HTTP_SERVER_PROPERTIES_H_
 

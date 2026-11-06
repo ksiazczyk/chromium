@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HttpServerProperties unit tests
+// summary: Unit tests for HttpServerProperties covering server info, alternative services, broken alternative services, and QUIC server data behavior.
+// ---
+
 #include "net/http/http_server_properties.h"
 
 #include <array>

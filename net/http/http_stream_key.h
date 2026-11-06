@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpStreamKey class declaration
+// summary: Declares HttpStreamKey, the key used to group non-proxied HTTP streams, with helpers to derive SpdySessionKey and QuicSessionAliasKey values.
+// ---
+
 #ifndef NET_HTTP_HTTP_STREAM_KEY_H_
 #define NET_HTTP_HTTP_STREAM_KEY_H_
 

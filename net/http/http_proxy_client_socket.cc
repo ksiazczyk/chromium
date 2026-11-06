@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpProxyClientSocket implementation
+// summary: Implements HttpProxyClientSocket, which establishes CONNECT tunnels through HTTP proxies and handles proxy authentication.
+// ---
+
 #include "net/http/http_proxy_client_socket.h"
 
 #include <memory>

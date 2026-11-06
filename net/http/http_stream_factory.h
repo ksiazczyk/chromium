@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpStreamFactory class declaration
+// summary: Declares HttpStreamFactory, its job types and StreamRequestInfo used to request streams over HTTP/1, HTTP/2, HTTP/3 and WebSockets.
+// ---
+
 #ifndef NET_HTTP_HTTP_STREAM_FACTORY_H_
 #define NET_HTTP_HTTP_STREAM_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HTTP auth controller unit tests
+// summary: Unit tests for HttpAuthController using mock auth handlers to verify challenge handling, token generation, and disabling of auth schemes on permanent errors.
+// ---
+
 #include "net/http/http_auth_controller.h"
 
 #include <algorithm>

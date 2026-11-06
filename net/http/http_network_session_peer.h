@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpNetworkSessionPeer declaration
+// summary: Declares HttpNetworkSessionPeer, which exposes setters to replace an HttpNetworkSession's socket pool manager and stream factory.
+// ---
+
 #ifndef NET_HTTP_HTTP_NETWORK_SESSION_PEER_H_
 #define NET_HTTP_HTTP_NETWORK_SESSION_PEER_H_
 

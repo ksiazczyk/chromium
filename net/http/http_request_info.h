@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP request info declaration
+// summary: Declares the HttpRequestInfo struct describing a request's URL, method, headers, upload data, privacy mode, and network isolation settings.
+// ---
+
 #ifndef NET_HTTP_HTTP_REQUEST_INFO_H__
 #define NET_HTTP_HTTP_REQUEST_INFO_H__
 

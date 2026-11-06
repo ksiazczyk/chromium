@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HttpResponseInfo unit tests
+// summary: Tests pickling and restoring of HttpResponseInfo fields including proxy chain, PKP bypass, and unused-since-prefetch state.
+// ---
+
 #include "net/http/http_response_info.h"
 
 #include "base/byte_size.h"

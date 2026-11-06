@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Cookie-Indices parsing and hashing
+// summary: Unit tests covering parsing of the Cookie-Indices header and the order-insensitive, case-sensitive hashing of cookie indices.
+// ---
+
 #include "net/http/http_cookie_indices.h"
 
 #include "net/cookies/cookie_util.h"

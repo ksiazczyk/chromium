@@ -30,6 +30,12 @@
 //   copies the current state of the TransportSecurityState, serializes
 //   and writes to disk.
 
+// ---docerion
+// type: source
+// title: Transport security state persister header
+// summary: Declares TransportSecurityPersister, which writes dirty TransportSecurityState data to disk on a background task runner and loads it at startup.
+// ---
+
 #ifndef NET_HTTP_TRANSPORT_SECURITY_PERSISTER_H_
 #define NET_HTTP_TRANSPORT_SECURITY_PERSISTER_H_
 

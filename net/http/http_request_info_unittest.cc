@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HTTP request info unit tests
+// summary: Unit tests verifying that HttpRequestInfo reports consistency between its network isolation key and network anonymization key.
+// ---
+
 #include "net/http/http_request_info.h"
 #include "net/base/features.h"
 #include "net/base/network_anonymization_key.h"

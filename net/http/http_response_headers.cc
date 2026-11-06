@@ -7,6 +7,12 @@
 // The rules for parsing content-types were also borrowed from Firefox:
 // http://lxr.mozilla.org/mozilla/source/netwerk/base/src/nsURLHelper.cpp#834
 
+// ---docerion
+// type: source
+// title: HTTP response headers implementation
+// summary: Implements parsing and storage of HTTP response headers, including cache persistence rules, header update logic, and freshness handling.
+// ---
+
 #include "net/http/http_response_headers.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP connection info enum
+// summary: Defines enums describing the protocol used to fetch a response, kept stable because values are persisted to disk and metrics.
+// ---
+
 #ifndef NET_HTTP_HTTP_CONNECTION_INFO_H_
 #define NET_HTTP_HTTP_CONNECTION_INFO_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Broken alternative services header
+// summary: Declares classes that track broken alternative services and their brokenness expiration, intended for use by HttpServerProperties.
+// ---
+
 #ifndef NET_HTTP_BROKEN_ALTERNATIVE_SERVICES_H_
 #define NET_HTTP_BROKEN_ALTERNATIVE_SERVICES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Http cache unit tests
+// summary: Extensive unit tests for HttpCache covering transactions, cache keys, range requests, compression, and disk cache interaction.
+// ---
+
 #include "net/http/http_cache.h"
 
 #include <stdint.h>

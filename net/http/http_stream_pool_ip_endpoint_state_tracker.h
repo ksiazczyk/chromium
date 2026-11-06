@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPEndPointStateTracker class declaration
+// summary: Declares HttpStreamPool's IPEndPointStateTracker, which records endpoint attempt states and picks IP endpoints for TCP-based connection attempts.
+// ---
+
 #ifndef NET_HTTP_HTTP_STREAM_POOL_IP_ENDPOINT_STATE_TRACKER_H_
 #define NET_HTTP_HTTP_STREAM_POOL_IP_ENDPOINT_STATE_TRACKER_H_
 

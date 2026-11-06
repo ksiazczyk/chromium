@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content-Disposition parser declaration
+// summary: Declares HttpContentDisposition, which extracts the disposition type and filename and reports parse result flags for UMA metrics.
+// ---
+
 #ifndef NET_HTTP_HTTP_CONTENT_DISPOSITION_H_
 #define NET_HTTP_HTTP_CONTENT_DISPOSITION_H_
 

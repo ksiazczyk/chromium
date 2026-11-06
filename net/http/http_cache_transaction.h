@@ -5,6 +5,12 @@
 // This file declares HttpCache::Transaction, a private class of HttpCache so
 // it should only be included by http_cache.cc
 
+// ---docerion
+// type: source
+// title: Http cache transaction class declaration
+// summary: Declares HttpCache::Transaction, the HttpTransaction returned by the cache factory, with modes for reading, writing, and updating cache entries.
+// ---
+
 #ifndef NET_HTTP_HTTP_CACHE_TRANSACTION_H_
 #define NET_HTTP_HTTP_CACHE_TRANSACTION_H_
 

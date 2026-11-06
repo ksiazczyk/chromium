@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpStreamPool::Group
+// summary: Declares a group that maintains active and idle text-based HTTP streams and creates AttemptManagers for new connections.
+// ---
+
 #ifndef NET_HTTP_HTTP_STREAM_POOL_GROUP_H_
 #define NET_HTTP_HTTP_STREAM_POOL_GROUP_H_
 

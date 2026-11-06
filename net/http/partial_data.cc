@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Partial content range request handling
+// summary: Implements PartialData, which parses Range headers, validates and reads sparse cache entries, and manages byte-range requests for partial-content responses.
+// ---
+
 #include "net/http/partial_data.h"
 
 #include <limits>

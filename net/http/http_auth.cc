@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpAuth challenge selection implementation
+// summary: Implements HttpAuth helpers that choose the best authentication challenge from response headers and handle subsequent challenge responses for proxy and server targets.
+// ---
+
 #include "net/http/http_auth.h"
 
 #include <algorithm>

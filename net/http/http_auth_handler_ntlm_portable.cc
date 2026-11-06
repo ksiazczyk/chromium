@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Portable NTLM HTTP auth handler implementation
+// summary: Implements the portable (non-SSPI) NTLM HTTP authentication handler and its factory in Chromium's network stack, without default credential support.
+// ---
+
 #include "net/http/http_auth.h"
 #include "net/http/http_auth_handler_ntlm.h"
 

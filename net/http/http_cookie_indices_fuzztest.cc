@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzz test for Cookie-Indices header parsing
+// summary: Fuzzes ParseCookieIndices with arbitrary HTTP header field values to check the robustness of the header parser.
+// ---
+
 #include "net/http/http_cookie_indices.h"
 #include "net/http/http_response_headers.h"
 #include "third_party/fuzztest/src/fuzztest/fuzztest.h"

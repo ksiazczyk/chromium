@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpBasicStream implementation
+// summary: Implements HttpStream for simple non-shared HTTP connections, delegating request sending, response reading, and connection reuse to HttpStreamParser via HttpBasicState.
+// ---
+
 #include "net/http/http_basic_stream.h"
 
 #include <set>

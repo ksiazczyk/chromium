@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTLM HTTP auth handler header
+// summary: Declares the NTLM HTTP auth handler with portable and Windows SSPI implementations selected at build time.
+// ---
+
 #ifndef NET_HTTP_HTTP_AUTH_HANDLER_NTLM_H_
 #define NET_HTTP_HTTP_AUTH_HANDLER_NTLM_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpStreamFactory implementation
+// summary: Implements HttpStreamFactory helpers such as SPDY session key computation and GET-to-proxy detection used when creating HTTP streams.
+// ---
+
 #include "net/http/http_stream_factory.h"
 
 #include <cstddef>

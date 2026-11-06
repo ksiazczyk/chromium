@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpNetworkSessionPeer implementation
+// summary: Implements HttpNetworkSessionPeer, a hook that lets callers swap the socket pool manager and stream factory inside an HttpNetworkSession.
+// ---
+
 #include "net/http/http_network_session_peer.h"
 
 #include "net/http/http_network_session.h"

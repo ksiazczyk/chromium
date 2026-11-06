@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HttpStreamParser unit tests
+// summary: Unit tests for HttpStreamParser covering uploads, chunked encoding, synchronous and asynchronous read errors, and response parsing behavior.
+// ---
+
 #include "net/http/http_stream_parser.h"
 
 #include <stdint.h>

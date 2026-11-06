@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTLM HTTP auth handler implementation
+// summary: Implements NTLM HTTP authentication handler initialization, challenge parsing, and service principal name creation.
+// ---
+
 #include "net/http/http_auth_handler_ntlm.h"
 
 #include "net/base/url_util.h"

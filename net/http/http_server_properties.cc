@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpServerProperties implementation
+// summary: Implements the HttpServerProperties class that tracks per-server HTTP properties such as HTTP/2 support, alternative services, and QUIC server data, with optional persistence to preferences.
+// ---
+
 #include "net/http/http_server_properties.h"
 
 #include <ranges>

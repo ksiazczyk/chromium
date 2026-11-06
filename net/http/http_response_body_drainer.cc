@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP response body drainer implementation
+// summary: Implements draining of leftover HTTP response bodies within a buffer limit and timeout so the connection can be reused or closed.
+// ---
+
 #include "net/http/http_response_body_drainer.h"
 
 #include "base/check_op.h"

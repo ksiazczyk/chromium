@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Http cache utility declarations
+// summary: Declares http_cache_util helpers for deriving cache load flags from request headers and the ValidationHeaders class for conditional requests.
+// ---
+
 #ifndef NET_HTTP_HTTP_CACHE_UTIL_H_
 #define NET_HTTP_HTTP_CACHE_UTIL_H_
 

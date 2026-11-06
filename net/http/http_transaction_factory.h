@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpTransactionFactory interface
+// summary: Defines a factory interface that creates HttpTransaction objects and provides access to the associated HttpCache and HttpNetworkSession.
+// ---
+
 #ifndef NET_HTTP_HTTP_TRANSACTION_FACTORY_H_
 #define NET_HTTP_HTTP_TRANSACTION_FACTORY_H_
 

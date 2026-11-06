@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpResponseInfo class header
+// summary: Declares the HttpResponseInfo class carrying HTTP response metadata such as cache entry status, SSL details, vary data, and pickle persistence.
+// ---
+
 #ifndef NET_HTTP_HTTP_RESPONSE_INFO_H_
 #define NET_HTTP_HTTP_RESPONSE_INFO_H_
 

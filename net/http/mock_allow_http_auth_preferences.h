@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockAllowHttpAuthPreferences header
+// summary: Declares a mock HttpAuthPreferences subclass that permits default credentials and delegation for all origins during unit testing.
+// ---
+
 #ifndef NET_HTTP_MOCK_ALLOW_HTTP_AUTH_PREFERENCES_H_
 #define NET_HTTP_MOCK_ALLOW_HTTP_AUTH_PREFERENCES_H_
 

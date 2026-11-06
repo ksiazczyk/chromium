@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpNoVarySearchData declaration
+// summary: Declares HttpNoVarySearchData, which stores No-Vary-Search rules for deciding which URL query parts can be ignored when matching cached responses.
+// ---
+
 #ifndef NET_HTTP_HTTP_NO_VARY_SEARCH_DATA_H_
 #define NET_HTTP_HTTP_NO_VARY_SEARCH_DATA_H_
 

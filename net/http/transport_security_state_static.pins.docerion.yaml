@@ -1,0 +1,4 @@
+# Docerion header of transport_security_state_static.pins.
+type: data
+title: Static SPKI entries for key pinning
+summary: Lists PEM certificates, public keys and SPKI hashes referenced by the static transport security pinning list.

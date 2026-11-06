@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-round HTTP auth challenge parsing header
+// summary: Declares functions to parse first and later round authentication challenges for multi-round HTTP authentication schemes.
+// ---
+
 #ifndef NET_HTTP_HTTP_AUTH_MULTI_ROUND_PARSE_H_
 #define NET_HTTP_HTTP_AUTH_MULTI_ROUND_PARSE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HttpStreamParser fuzzer
+// summary: Fuzzer that drives HttpStreamParser with random data from a FuzzedSocket to exercise request sending, header reading, and body reading paths.
+// ---
+
 #include "net/http/http_stream_parser.h"
 
 #include <stddef.h>

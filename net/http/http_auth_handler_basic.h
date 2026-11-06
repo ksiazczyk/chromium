@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP Basic authentication handler header
+// summary: Declares HttpAuthHandlerBasic and its factory for handling HTTP Basic authentication challenges.
+// ---
+
 #ifndef NET_HTTP_HTTP_AUTH_HANDLER_BASIC_H_
 #define NET_HTTP_HTTP_AUTH_HANDLER_BASIC_H_
 

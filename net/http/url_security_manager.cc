@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL security manager implementation
+// summary: Implements URLSecurityManagerAllowlist, which decides when default credentials and Kerberos delegation may be used for HTTP auth.
+// ---
+
 #include "net/http/url_security_manager.h"
 
 #include <utility>

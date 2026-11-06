@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock SSPI library for Windows tests
+// summary: Implements a mock Windows SSPI library that lets HTTP authentication unit tests bypass system SSPI calls with scripted responses.
+// ---
+
 #include "net/http/mock_sspi_library_win.h"
 
 #include <algorithm>

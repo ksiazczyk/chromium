@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HTTP auth filter unit tests
+// summary: Unit tests for HttpAuthFilterAllowlist verifying host matching against empty and populated server allowlists for server and proxy targets.
+// ---
+
 #include "net/http/http_auth_filter.h"
 
 #include <memory>

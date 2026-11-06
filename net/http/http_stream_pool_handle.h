@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpStreamPoolHandle class declaration
+// summary: Declares HttpStreamPoolHandle, a StreamSocketHandle associated with an HttpStreamPool group that releases sockets back to the group when reset.
+// ---
+
 #ifndef NET_HTTP_HTTP_STREAM_POOL_HANDLE_H_
 #define NET_HTTP_HTTP_STREAM_POOL_HANDLE_H_
 

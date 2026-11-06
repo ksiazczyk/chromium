@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpProxyClientSocket header
+// summary: Declares HttpProxyClientSocket, which tunnels a stream socket over an HTTP/1.1 proxy connection using CONNECT and handles proxy authentication.
+// ---
+
 #ifndef NET_HTTP_HTTP_PROXY_CLIENT_SOCKET_H_
 #define NET_HTTP_HTTP_PROXY_CLIENT_SOCKET_H_
 

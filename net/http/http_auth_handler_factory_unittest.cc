@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HTTP auth handler factory unit tests
+// summary: Unit tests for the auth handler registry factory covering scheme registration, lookup, and handler creation behavior.
+// ---
+
 #include "net/http/http_auth_handler_factory.h"
 
 #include <memory>

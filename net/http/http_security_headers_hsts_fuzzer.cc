@@ -1,6 +1,13 @@
 // Copyright 2016 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: HSTS header parser fuzzer
+// summary: Fuzz test that feeds dictionary-guided strings and seed files into ParseHSTSHeader to uncover parsing bugs.
+// ---
+
 #include <string>
 
 #include "base/files/file_path.h"

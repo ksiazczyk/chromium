@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bidirectional stream unit tests
+// summary: Extensive unit tests for the BidirectionalStream class covering data transfer, load timing, trailers, socket tagging and error handling.
+// ---
+
 #include "net/http/bidirectional_stream.h"
 
 #include <memory>

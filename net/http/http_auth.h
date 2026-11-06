@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpAuth utility class header
+// summary: Declares the HttpAuth utility class with enums for auth targets, schemes, authorization results, identity sources, and Kerberos delegation types.
+// ---
+
 #ifndef NET_HTTP_HTTP_AUTH_H_
 #define NET_HTTP_HTTP_AUTH_H_
 

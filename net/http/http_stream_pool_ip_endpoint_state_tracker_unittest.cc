@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IPEndPointStateTracker unit tests
+// summary: Unit tests for the HTTP stream pool's IP endpoint state tracker, covering endpoint selection preferences across IPv4 and IPv6 endpoints using a fake delegate.
+// ---
+
 #include "net/http/http_stream_pool_ip_endpoint_state_tracker.h"
 
 #include <memory>
