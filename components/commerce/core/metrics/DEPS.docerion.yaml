@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for commerce metrics
+summary: Defines include rules allowing this directory to depend on services/metrics public C++ headers.

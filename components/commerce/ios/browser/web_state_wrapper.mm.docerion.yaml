@@ -1,0 +1,4 @@
+# Docerion header of web_state_wrapper.mm.
+type: source
+title: WebStateWrapper implementation
+summary: Implements WebWrapper methods over the iOS web state, including JavaScript execution and UKM source IDs.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web contents wrapper header
+// summary: Declares WebContentsWrapper, a WebWrapper backed by WebContents that runs scripts in an isolated JS world.
+// ---
+
 #ifndef COMPONENTS_COMMERCE_CONTENT_BROWSER_WEB_CONTENTS_WRAPPER_H_
 #define COMPONENTS_COMMERCE_CONTENT_BROWSER_WEB_CONTENTS_WRAPPER_H_
 

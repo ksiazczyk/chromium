@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shopping service test base implementation
+// summary: Implements shared test fixtures and a mock optimization guide decider used by shopping service tests.
+// ---
+
 #include "components/commerce/core/shopping_service_test_base.h"
 
 #include <algorithm>

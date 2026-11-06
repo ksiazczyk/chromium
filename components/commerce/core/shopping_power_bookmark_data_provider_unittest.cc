@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shopping power bookmark data provider unit tests
+// summary: Verifies that shopping metadata with the correct product cluster ID is attached to newly created bookmarks.
+// ---
+
 #include <memory>
 
 #include "base/files/scoped_temp_dir.h"

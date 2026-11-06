@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commerce data type implementations
+// summary: Defines constructors and assignment operators for commerce data structures such as ProductInfo, DiscountInfo, MerchantInfo, and PriceInsightsInfo.
+// ---
+
 #include "components/commerce/core/commerce_types.h"
 
 namespace commerce {

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the ios commerce component
+summary: Defines the allowed include rules for the ios commerce component, permitting dependencies on grit, ukm/ios, ios web public, data decoder, ui/base, and net HTTP response headers.

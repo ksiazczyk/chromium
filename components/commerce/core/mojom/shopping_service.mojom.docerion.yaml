@@ -1,0 +1,4 @@
+# Docerion header of shopping_service.mojom.
+type: source
+title: Shopping service Mojom interfaces
+summary: Defines structs and browser-side handlers for product info, price insights, and tab queries used by WebUI surfaces like the side panel and history.

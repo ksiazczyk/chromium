@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the commerce browser component
+summary: Grants commerce_tab_helper.cc an include exception for the keyed service core header.

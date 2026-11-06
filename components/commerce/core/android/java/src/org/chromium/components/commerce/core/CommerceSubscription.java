@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommerceSubscription
+// summary: Model class representing a single commerce subscription entry with type, identifier, management type and optional user seen offer data.
+// ---
+
 package org.chromium.components.commerce.core;
 
 import android.text.TextUtils;

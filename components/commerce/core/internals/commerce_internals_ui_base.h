@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commerce internals UI base class declaration
+// summary: Declares the base class for building and initializing the commerce internals WebUI on specific platforms, wiring the handler factory to the ShoppingService.
+// ---
+
 #ifndef COMPONENTS_COMMERCE_CORE_INTERNALS_COMMERCE_INTERNALS_UI_BASE_H_
 #define COMPONENTS_COMMERCE_CORE_INTERNALS_COMMERCE_INTERNALS_UI_BASE_H_
 

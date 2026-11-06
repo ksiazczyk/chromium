@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the renderer
+summary: Grants this renderer directory include access to third_party/blink/public headers.

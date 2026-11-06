@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commerce tab helper
+// summary: Observes WebContents navigation, load, and focus events and forwards them to the shopping service via a WebWrapper.
+// ---
+
 #include "components/commerce/content/browser/commerce_tab_helper.h"
 
 #include "components/commerce/core/shopping_service.h"

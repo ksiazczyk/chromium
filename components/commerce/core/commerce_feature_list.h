@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commerce feature flags and parameters
+// summary: Declares Chrome commerce feature flags and their parameters, covering price insights, discounts, shopping lists, coupons, and cart-related features.
+// ---
+
 #ifndef COMPONENTS_COMMERCE_CORE_COMMERCE_FEATURE_LIST_H_
 #define COMPONENTS_COMMERCE_CORE_COMMERCE_FEATURE_LIST_H_
 

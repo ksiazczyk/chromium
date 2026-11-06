@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shopping service metrics unit tests
+// summary: Unit tests verifying histogram and UKM metrics for the shopping service, including product image availability reporting.
+// ---
+
 #include <memory>
 
 #include "base/functional/bind.h"

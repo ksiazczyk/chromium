@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Commerce info cache unit tests
+// summary: Unit tests covering reference counting and cache entry lifetime for single and multiple URLs in CommerceInfoCache.
+// ---
+
 #include "components/commerce/core/commerce_info_cache.h"
 
 #include <memory>

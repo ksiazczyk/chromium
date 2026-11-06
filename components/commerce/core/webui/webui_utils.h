@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI commerce utility declarations
+// summary: Declares helper functions that convert ProductInfo and bookmark nodes into Mojo product structures for commerce WebUI IPC.
+// ---
+
 #ifndef COMPONENTS_COMMERCE_CORE_WEBUI_WEBUI_UTILS_H_
 #define COMPONENTS_COMMERCE_CORE_WEBUI_WEBUI_UTILS_H_
 

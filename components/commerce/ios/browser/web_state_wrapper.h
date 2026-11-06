@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebStateWrapper class declaration
+// summary: Declares a WebWrapper backed by web::WebState exposing URL, title, incognito state, and script execution.
+// ---
+
 #ifndef COMPONENTS_COMMERCE_IOS_BROWSER_WEB_STATE_WRAPPER_H_
 #define COMPONENTS_COMMERCE_IOS_BROWSER_WEB_STATE_WRAPPER_H_
 

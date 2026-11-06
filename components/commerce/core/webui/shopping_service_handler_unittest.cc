@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shopping service handler unit tests
+// summary: Unit tests for ShoppingServiceHandler using a mock shopping service, delegate, bookmark model, and UKM recorder to verify WebUI commerce behavior.
+// ---
+
 #include "components/commerce/core/webui/shopping_service_handler.h"
 
 #include <memory>

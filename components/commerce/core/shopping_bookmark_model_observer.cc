@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shopping bookmark model observer implementation
+// summary: Implements an observer that clears shopping metadata and unsubscribes when bookmark URLs change, and tracks shopping collection folder changes.
+// ---
+
 #include "components/commerce/core/shopping_bookmark_model_observer.h"
 
 #include <memory>

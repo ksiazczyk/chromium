@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubscriptionsObserver
+// summary: Observer interface that notifies clients when subscribe or unsubscribe requests for commerce subscriptions have finished and whether they succeeded.
+// ---
+
 package org.chromium.components.commerce.core;
 
 import org.chromium.build.annotations.NullMarked;

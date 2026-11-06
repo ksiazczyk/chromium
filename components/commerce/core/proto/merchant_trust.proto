@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Merchant trust signals protos
+// summary: Defines a protobuf message describing merchant trust signals such as star rating, review count, return policy, familiarity score, and shopper review summary.
+// ---
+
 syntax = "proto2";
 
 package commerce;

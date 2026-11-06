@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commerce info cache interface
+// summary: Declares a reference-counted per-URL cache holding product info, price insights, and local extraction state for commerce pages.
+// ---
+
 #ifndef COMPONENTS_COMMERCE_CORE_COMMERCE_INFO_CACHE_H_
 #define COMPONENTS_COMMERCE_CORE_COMMERCE_INFO_CACHE_H_
 

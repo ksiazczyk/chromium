@@ -1,0 +1,4 @@
+# Docerion header of cart_domain_cart_url_regex.json.
+type: data
+title: Cart URL regex domain mapping
+summary: Maps e-commerce domains to regex patterns that identify shopping cart page URLs for commerce heuristics.

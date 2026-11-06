@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for commerce internals resources
+summary: Delegates review of trivial or mechanical JS, CSS, and HTML changes to the WebUI platform owners file.

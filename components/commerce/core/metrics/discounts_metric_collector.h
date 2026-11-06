@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiscountsMetricCollector class declaration
+// summary: Declares static methods for recording discount bubble, copy button and page action icon metrics.
+// ---
+
 #ifndef COMPONENTS_COMMERCE_CORE_METRICS_DISCOUNTS_METRIC_COLLECTOR_H_
 #define COMPONENTS_COMMERCE_CORE_METRICS_DISCOUNTS_METRIC_COLLECTOR_H_
 

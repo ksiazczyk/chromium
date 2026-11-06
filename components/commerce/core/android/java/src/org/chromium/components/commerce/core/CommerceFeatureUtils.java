@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommerceFeatureUtils
+// summary: Java wrapper that queries the native commerce component for feature eligibility such as shopping list, discount info API and price annotations via JNI.
+// ---
+
 package org.chromium.components.commerce.core;
 
 import androidx.annotation.VisibleForTesting;

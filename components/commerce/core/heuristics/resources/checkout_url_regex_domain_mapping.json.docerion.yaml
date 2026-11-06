@@ -1,0 +1,4 @@
+# Docerion header of checkout_url_regex_domain_mapping.json.
+type: data
+title: Checkout URL regex domain mapping
+summary: Maps e-commerce domains to regex patterns that identify checkout page URLs for commerce heuristics.

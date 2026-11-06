@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock shopping service for tests
+// summary: Declares MockShoppingService, a GMock subclass of ShoppingService whose shopping API responses can be controlled in tests.
+// ---
+
 #ifndef COMPONENTS_COMMERCE_CORE_MOCK_SHOPPING_SERVICE_H_
 #define COMPONENTS_COMMERCE_CORE_MOCK_SHOPPING_SERVICE_H_
 

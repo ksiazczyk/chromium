@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web extractor implementation
+// summary: Extracts page meta info by calling the renderer-side CommerceWebExtractor Mojo interface and returning the result.
+// ---
+
 #include "components/commerce/content/browser/web_extractor_impl.h"
 
 #include "base/strings/utf_string_conversions.h"

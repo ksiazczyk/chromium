@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebExtractorImpl class header
+// summary: Declares the WebExtractorImpl class implementing the commerce WebExtractor interface to extract meta info from web contents via a Mojo CommerceWebExtractor remote.
+// ---
+
 #ifndef COMPONENTS_COMMERCE_CONTENT_BROWSER_WEB_EXTRACTOR_IMPL_H_
 #define COMPONENTS_COMMERCE_CONTENT_BROWSER_WEB_EXTRACTOR_IMPL_H_
 

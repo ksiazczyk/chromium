@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Commerce WebUI include rules (DEPS)
+summary: Specifies allowed include dependencies for the commerce WebUI directory, covering Mojo bindings, content tests, and commerce UI resources.

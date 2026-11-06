@@ -9,6 +9,12 @@
  * #include=shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the Commerce Internals app
+summary: Lit style CSS for the commerce-internals-app element, spacing the utility controls and the reset product specs button.
+*/
+
 .utils > * {
   display: block;
   margin-bottom: 10px;

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Commerce internals build targets (BUILD.gn)
+summary: Defines the internals source_set listing the handler and UI base sources together with their internal and public dependencies for the commerce internals WebUI.

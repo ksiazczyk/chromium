@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommerceSubscription model implementation
+// summary: Implements the CommerceSubscription and UserSeenOffer structs, conversions between subscription enums and strings, and storage key generation.
+// ---
+
 #include <string>
 
 #include "components/commerce/core/subscriptions/commerce_subscription.h"

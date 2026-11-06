@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commerce feature list definitions
+// summary: Defines commerce feature flags, per-country locale allowlists, and partner merchant regex patterns for cart and coupon features.
+// ---
+
 #include "components/commerce/core/commerce_feature_list.h"
 
 #include <string_view>

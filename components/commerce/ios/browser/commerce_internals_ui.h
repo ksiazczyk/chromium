@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommerceInternalsUI class declaration
+// summary: Declares the iOS WebUI controller that initializes the commerce internals page with a shopping service.
+// ---
+
 #ifndef COMPONENTS_COMMERCE_IOS_BROWSER_COMMERCE_INTERNALS_UI_H_
 #define COMPONENTS_COMMERCE_IOS_BROWSER_COMMERCE_INTERNALS_UI_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the commerce iOS browser library
+summary: Defines the browser static library sources and dependencies plus the unit test target for the commerce iOS browser component.

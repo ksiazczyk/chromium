@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BookmarkUpdateManager unit tests
+// summary: Unit tests verifying scheduling, batching, and cancellation of product bookmark updates using a mock shopping service.
+// ---
+
 #include "components/commerce/core/bookmark_update_manager.h"
 
 #include <math.h>

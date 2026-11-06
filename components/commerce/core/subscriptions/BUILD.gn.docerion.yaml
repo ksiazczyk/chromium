@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the commerce subscriptions component
+summary: Defines source sets for the subscriptions code, test support mocks, and unit tests, along with their build dependencies.

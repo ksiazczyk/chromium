@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shopping service unit tests
+// summary: Extensive unit tests for the shopping service covering price tracking, discounts, price insights, and subscriptions.
+// ---
+
 #include "components/commerce/core/shopping_service.h"
 
 #include <algorithm>

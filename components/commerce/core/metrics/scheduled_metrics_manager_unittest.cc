@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scheduled metrics manager unit tests
+// summary: Tests daily recording of tracked product counts and email notification state histograms with mock services.
+// ---
+
 #include "components/commerce/core/metrics/scheduled_metrics_manager.h"
 
 #include <map>

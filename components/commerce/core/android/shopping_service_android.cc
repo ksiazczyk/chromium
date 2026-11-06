@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shopping service Android JNI bridge implementation
+// summary: Implements the native side of the ShoppingService JNI bridge, converting product, merchant, price insight, discount and subscription data for Java callers.
+// ---
+
 #include "components/commerce/core/android/shopping_service_android.h"
 
 #include <optional>

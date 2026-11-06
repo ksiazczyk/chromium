@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for discount infos storage
+// summary: Tests saving, prefix-based loading, expiry filtering, duplicate removal and deletion of discount infos in the storage layer.
+// ---
+
 #include "components/commerce/core/discount_infos_storage.h"
 
 #include "base/check.h"

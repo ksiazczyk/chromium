@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subscription list Lit template
+// summary: Lit HTML template that renders the commerce subscription list table with cluster IDs, domains, prices, and product links.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SubscriptionListElement} from './subscription_list.js';

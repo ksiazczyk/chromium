@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subscriptions server proxy class declaration
+// summary: Declares SubscriptionsServerProxy, which sends create, delete and get requests for commerce subscriptions to the backend via EndpointFetcher.
+// ---
+
 #ifndef COMPONENTS_COMMERCE_CORE_SUBSCRIPTIONS_SUBSCRIPTIONS_SERVER_PROXY_H_
 #define COMPONENTS_COMMERCE_CORE_SUBSCRIPTIONS_SUBSCRIPTIONS_SERVER_PROXY_H_
 

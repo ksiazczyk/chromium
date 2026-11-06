@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commerce feature eligibility checks
+// summary: Implements eligibility checks for commerce features such as shopping list, price insights, subscriptions, discounts and merchant viewer.
+// ---
+
 #include "components/commerce/core/feature_utils.h"
 
 #include "base/feature_list.h"

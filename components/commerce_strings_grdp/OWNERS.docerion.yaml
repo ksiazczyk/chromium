@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for commerce strings
+summary: Lists the owner of the commerce strings directory and points to the parent components/commerce/OWNERS file for review routing.

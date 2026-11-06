@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared styles for commerce internals UI
+summary: Shared Lit CSS style module setting fonts and striped table row colors for the commerce internals WebUI elements.
+*/
+
 * {
   font-family: sans-serif;
 }

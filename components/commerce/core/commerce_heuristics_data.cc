@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commerce heuristics data implementation
+// summary: Implements the CommerceHeuristicsData singleton that parses and caches commerce hint and global heuristics JSON delivered by a component installer.
+// ---
+
 #include "components/commerce/core/commerce_heuristics_data.h"
 
 #include "base/json/json_reader.h"

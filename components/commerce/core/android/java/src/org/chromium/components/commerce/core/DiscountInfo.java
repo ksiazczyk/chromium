@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiscountInfo
+// summary: Data container holding discount details like cluster type, description, discount code, expiry and offer id, populated from native code via JNI.
+// ---
+
 package org.chromium.components.commerce.core;
 
 import org.jni_zero.CalledByNative;

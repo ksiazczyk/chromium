@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Registration of commerce profile preferences
+// summary: Registers default values and sync behavior for commerce profile preferences, including shopping list and price tracking settings.
+// ---
+
 #include "components/commerce/core/prefs.h"
 
 #include "base/time/time.h"

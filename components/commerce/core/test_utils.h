@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Commerce test utilities header
+// summary: Declares test helpers and matchers for product bookmarks, subscriptions, eligibility setup, and commerce info creation.
+// ---
+
 #ifndef COMPONENTS_COMMERCE_CORE_TEST_UTILS_H_
 #define COMPONENTS_COMMERCE_CORE_TEST_UTILS_H_
 

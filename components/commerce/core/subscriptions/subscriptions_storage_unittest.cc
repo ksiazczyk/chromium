@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Subscriptions storage unit tests
+// summary: Unit tests for SubscriptionsStorage covering cache updates, unique existing and non-existing subscription lookups, and deletion of local subscriptions.
+// ---
+
 #include <queue>
 #include <string>
 #include <unordered_map>

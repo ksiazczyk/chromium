@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Subscriptions server proxy unit tests
+// summary: Unit tests for SubscriptionsServerProxy that verify create, delete and get requests against the shopping subscriptions backend using mock fetchers.
+// ---
+
 #include "components/commerce/core/subscriptions/subscriptions_server_proxy.h"
 
 #include <optional>

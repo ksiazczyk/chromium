@@ -1,0 +1,4 @@
+# Docerion header of price_tracking.mojom.
+type: source
+title: Price tracking Mojom interfaces
+summary: Defines browser and WebUI handlers for tracking prices on shopping bookmarks and notifying the page about tracking changes and failures.

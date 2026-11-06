@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scheduled metrics manager implementation
+// summary: Runs a daily task that records tracked product count and price notification email state histograms.
+// ---
+
 #include "components/commerce/core/metrics/scheduled_metrics_manager.h"
 
 #include <vector>

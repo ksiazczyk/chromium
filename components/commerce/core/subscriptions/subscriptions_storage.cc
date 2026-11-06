@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subscriptions storage implementation
+// summary: Implements SubscriptionsStorage, which persists commerce subscriptions in SessionProtoStorage and compares or updates the local subscription cache.
+// ---
+
 #include <queue>
 #include <string>
 #include <unordered_map>

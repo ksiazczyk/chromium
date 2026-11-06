@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commerce heuristics provider for cart and checkout URL detection
+// summary: Implements URL heuristics that detect shopping cart and checkout pages using per-domain regex patterns loaded from bundled JSON resources or field trial parameters.
+// ---
+
 #include "components/commerce/core/heuristics/commerce_heuristics_provider.h"
 
 #include <set>

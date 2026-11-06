@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shopping power bookmark data provider class declaration
+// summary: Declares a power bookmark data provider that automatically attaches product metadata to new bookmarks.
+// ---
+
 #ifndef COMPONENTS_COMMERCE_CORE_SHOPPING_POWER_BOOKMARK_DATA_PROVIDER_H_
 #define COMPONENTS_COMMERCE_CORE_SHOPPING_POWER_BOOKMARK_DATA_PROVIDER_H_
 

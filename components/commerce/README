@@ -1,3 +1,9 @@
+---
+type: readme
+title: Commerce component overview
+summary: Explains that the component holds cross-platform logic and protos for commerce and shopping projects and is structured as a layered component, linking to the design document.
+---
+
 This component contains all of the cross-platform logic and protos for commerce
 and shopping related projects.
 

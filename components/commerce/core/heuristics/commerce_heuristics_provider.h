@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header declaring cart and checkout URL detection functions
+// summary: Declares the IsVisitCart and IsVisitCheckout functions that check whether a given URL is a shopping cart or checkout page.
+// ---
+
 #ifndef COMPONENTS_COMMERCE_CORE_HEURISTICS_COMMERCE_HEURISTICS_PROVIDER_H_
 #define COMPONENTS_COMMERCE_CORE_HEURISTICS_COMMERCE_HEURISTICS_PROVIDER_H_
 

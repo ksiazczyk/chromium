@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for commerce internals Mojo bindings
+summary: Defines the mojom build target for commerce_internals.mojom, with dependencies on the commerce core, Mojo base, and URL mojom targets.

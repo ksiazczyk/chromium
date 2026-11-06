@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SubscriptionsManager unit tests
+// summary: Tests subscribe, unsubscribe, and sync behavior of SubscriptionsManager using a mocked server proxy and histogram verification.
+// ---
+
 #include <queue>
 #include <string>
 #include <unordered_map>

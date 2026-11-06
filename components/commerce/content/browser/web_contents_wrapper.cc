@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web contents wrapper
+// summary: Implements the WebWrapper interface over content::WebContents, including URL, title, UKM, and JavaScript execution access.
+// ---
+
 #include "components/commerce/content/browser/web_contents_wrapper.h"
 
 #include "base/strings/string_util.h"

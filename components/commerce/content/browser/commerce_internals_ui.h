@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commerce internals WebUI controller header
+// summary: Declares CommerceInternalsUI, the Mojo WebUI controller backing the content version of the commerce internals page.
+// ---
+
 #ifndef COMPONENTS_COMMERCE_CONTENT_BROWSER_COMMERCE_INTERNALS_UI_H_
 #define COMPONENTS_COMMERCE_CONTENT_BROWSER_COMMERCE_INTERNALS_UI_H_
 

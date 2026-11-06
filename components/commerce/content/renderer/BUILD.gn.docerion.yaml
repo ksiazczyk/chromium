@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the commerce renderer
+summary: Defines the static_library target for the commerce renderer, listing its sources and dependencies on base, commerce mojom bindings, content renderer, IPC and Blink.

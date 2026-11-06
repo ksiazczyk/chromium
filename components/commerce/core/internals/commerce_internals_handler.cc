@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commerce internals handler implementation
+// summary: Implements the Mojo CommerceInternalsHandler that reports shopping list eligibility, product info for URLs, and subscription details to the commerce internals page.
+// ---
+
 #include "components/commerce/core/internals/commerce_internals_handler.h"
 
 #include "base/check_is_test.h"

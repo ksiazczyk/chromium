@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commerce info cache implementation
+// summary: Implements a reference-counted cache that stores per-URL commerce entries such as product info and price insights and clears them when references drop.
+// ---
+
 #include "components/commerce/core/commerce_info_cache.h"
 
 #include "components/commerce/core/commerce_types.h"

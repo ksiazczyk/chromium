@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Price tracking utilities unit tests
+// summary: Tests the price tracking utility functions under both full sync and transport mode sync configurations using a mock shopping service.
+// ---
+
 #include "components/commerce/core/price_tracking_utils.h"
 
 #include <memory>

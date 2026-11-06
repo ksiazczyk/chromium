@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commerce data type definitions
+// summary: Defines shared commerce data structures and enums, including discount info, merchant info, price insights, product info, and product specifications.
+// ---
+
 #ifndef COMPONENTS_COMMERCE_CORE_COMMERCE_TYPES_H_
 #define COMPONENTS_COMMERCE_CORE_COMMERCE_TYPES_H_
 

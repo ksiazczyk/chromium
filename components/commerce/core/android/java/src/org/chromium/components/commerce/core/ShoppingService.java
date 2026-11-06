@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShoppingService
+// summary: Central Java hub backed by native code for accessing shopping and product information, including product, merchant, price point and price insights data.
+// ---
+
 package org.chromium.components.commerce.core;
 
 import androidx.annotation.VisibleForTesting;

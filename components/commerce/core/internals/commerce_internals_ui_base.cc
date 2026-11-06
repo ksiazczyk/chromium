@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commerce internals UI base implementation
+// summary: Implements the base WebUI class that binds the handler factory receiver and creates the CommerceInternalsHandler for the internals page.
+// ---
+
 #include "components/commerce/core/internals/commerce_internals_ui_base.h"
 
 #include "components/commerce/core/shopping_service.h"

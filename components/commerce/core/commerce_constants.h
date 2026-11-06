@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commerce constants
+// summary: Header defining shared constants such as WebUI hosts, HTTP methods, content types, and open graph keys for commerce features.
+// ---
+
 #ifndef COMPONENTS_COMMERCE_CORE_COMMERCE_CONSTANTS_H_
 #define COMPONENTS_COMMERCE_CORE_COMMERCE_CONSTANTS_H_
 

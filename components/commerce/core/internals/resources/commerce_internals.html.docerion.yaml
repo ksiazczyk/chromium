@@ -1,0 +1,4 @@
+# Docerion header of commerce_internals.html.
+type: source
+title: Commerce Internals HTML page
+summary: Entry HTML page for the Commerce Internals UI that hosts the commerce-internals-app element and loads the app module script.

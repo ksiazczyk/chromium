@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for commerce utility converting optimization guide results
+// summary: Declares OptGuideResultToProductInfo, which converts optimization guide metadata into a caller-owned ProductInfo object.
+// ---
+
 #ifndef COMPONENTS_COMMERCE_CORE_COMMERCE_UTILS_H_
 #define COMPONENTS_COMMERCE_CORE_COMMERCE_UTILS_H_
 

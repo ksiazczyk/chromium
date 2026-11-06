@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubscriptionsManager implementation
+// summary: Implements subscribe and unsubscribe request queueing, server synchronization, local storage updates, and histogram logging for commerce subscriptions.
+// ---
+
 #include "components/commerce/core/subscriptions/subscriptions_manager.h"
 
 #include <queue>

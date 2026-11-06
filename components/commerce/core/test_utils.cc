@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Commerce test utilities implementation
+// summary: Implements helpers for creating product bookmarks, setting enterprise policy prefs, and building commerce test data.
+// ---
+
 #include "components/commerce/core/test_utils.h"
 
 #include <memory>

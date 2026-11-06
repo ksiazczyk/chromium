@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commerce flag name and description strings
+// summary: Defines the user-facing name and description strings for commerce feature flags such as shopping list, price insights and discount autofill.
+// ---
+
 #include "components/commerce/core/flag_descriptions.h"
 
 namespace commerce::flag_descriptions {

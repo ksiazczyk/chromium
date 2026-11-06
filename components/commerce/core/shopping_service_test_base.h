@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shopping service test base header
+// summary: Declares the shopping service test base and mock optimization guide decider for reuse across commerce tests.
+// ---
+
 #ifndef COMPONENTS_COMMERCE_CORE_SHOPPING_SERVICE_TEST_BASE_H_
 #define COMPONENTS_COMMERCE_CORE_SHOPPING_SERVICE_TEST_BASE_H_
 

@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the eligibility list
+summary: Lit style CSS for the eligibility list element, defining green and red classes used to mark eligibility detail results.
+*/
+
 .green {
   color: green;
   font-weight: bold;

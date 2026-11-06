@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shopping power bookmark data provider implementation
+// summary: Implements attaching available product information to newly saved bookmarks through the ShoppingService.
+// ---
+
 #include "components/commerce/core/shopping_power_bookmark_data_provider.h"
 
 #include <memory>

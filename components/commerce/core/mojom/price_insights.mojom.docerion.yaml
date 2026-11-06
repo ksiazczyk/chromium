@@ -1,0 +1,4 @@
+# Docerion header of price_insights.mojom.
+type: source
+title: Price insights Mojom interfaces
+summary: Defines the handlers that let the price insights side panel WebUI bootstrap communication with the C++ backend and show feedback.

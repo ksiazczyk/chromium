@@ -1,0 +1,4 @@
+# Docerion header of commerce_web_extractor.mojom.
+type: source
+title: CommerceWebExtractor Mojom interface
+summary: Defines the renderer-implemented interface the browser calls to extract commerce-related meta information from web pages.

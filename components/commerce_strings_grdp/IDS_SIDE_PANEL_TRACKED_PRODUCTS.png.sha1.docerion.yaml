@@ -1,0 +1,4 @@
+# Docerion header of IDS_SIDE_PANEL_TRACKED_PRODUCTS.png.sha1.
+type: asset
+title: Tracked products side panel image SHA-1
+summary: Stores the SHA-1 hash of the context image for the tracked products side panel UI string, used to help translators.
