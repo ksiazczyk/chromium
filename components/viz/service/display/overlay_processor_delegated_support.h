@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delegated overlay support declarations
+// summary: Declares the DelegationStatus enum and helper functions that promote draw quads to delegated overlay candidates, with debug logging before and after delegation.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_OVERLAY_PROCESSOR_DELEGATED_SUPPORT_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_OVERLAY_PROCESSOR_DELEGATED_SUPPORT_H_
 

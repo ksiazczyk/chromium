@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay candidate temporal tracker implementation
+// summary: Implements OverlayCandidateTemporalTracker, which models power gain from overlay promotion by tracking damage ratios and resource changes across frames.
+// ---
+
 #include "components/viz/service/display/overlay_candidate_temporal_tracker.h"
 
 #include <algorithm>

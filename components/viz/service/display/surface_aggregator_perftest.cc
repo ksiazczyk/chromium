@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SurfaceAggregator performance tests
+// summary: Performance tests measuring SurfaceAggregator aggregation, prewalk, resource declaration, and copy timings across varying surface counts.
+// ---
+
 #include "components/viz/service/display/surface_aggregator.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayResourceProvider class for the viz display compositor
+// summary: Declares DisplayResourceProvider, which abstracts resources received from other modules, threads and processes behind ResourceIds, supporting GPU, software, overlay and scanout use in the viz display compositor.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_DISPLAY_RESOURCE_PROVIDER_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_DISPLAY_RESOURCE_PROVIDER_H_
 

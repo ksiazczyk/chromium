@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SkiaOutputSurfaceImpl unit tests
+// summary: Unit tests for SkiaOutputSurfaceImpl that paint and submit root render passes, verify sync tokens on the GPU thread, and exercise copy output requests.
+// ---
+
 #include "components/viz/service/display_embedder/skia_output_surface_impl.h"
 
 #include <memory>

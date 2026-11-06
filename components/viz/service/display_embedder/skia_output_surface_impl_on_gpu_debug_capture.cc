@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Debugger buffer capture implementation
+// summary: Implements GPU buffer capture for the Viz visual debugger, reading back buffers from shared images and drawing them in the debugger when enabled at build level.
+// ---
+
 #include "components/viz/service/display_embedder/skia_output_surface_impl_on_gpu_debug_capture.h"
 
 #include <memory>

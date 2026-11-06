@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BSP tree class declaration
+// summary: Declares BspTree and BspNode for partitioning polygons and traversing them in back-to-front draw order with an action handler.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_BSP_TREE_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_BSP_TREE_H_
 

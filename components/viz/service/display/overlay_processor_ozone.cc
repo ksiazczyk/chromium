@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ozone overlay processor implementation
+// summary: Implements the Ozone overlay processor, converting overlay candidates to Ozone overlay surfaces and handling color spaces and overlay strategies.
+// ---
+
 #include "components/viz/service/display/overlay_processor_ozone.h"
 
 #include <algorithm>

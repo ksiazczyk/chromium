@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SkiaOutputSurface interface extending OutputSurface for Skia rendering
+// summary: Declares the abstract SkiaOutputSurface class that extends OutputSurface with Skia-specific painting, promise image, render pass, and overlay methods used by SkiaRenderer.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_SKIA_OUTPUT_SURFACE_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_SKIA_OUTPUT_SURFACE_H_
 

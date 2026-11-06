@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverlayProposedCandidate implementation
+// summary: Implements OverlayProposedCandidate, including the key builder that pairs a candidate's tracking ID with its overlay strategy for comparison and hashing.
+// ---
+
 #include "components/viz/service/display/overlay_proposed_candidate.h"
 
 #include <array>

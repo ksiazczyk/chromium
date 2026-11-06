@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OutputDeviceBacking unit tests
+// summary: Unit tests for OutputDeviceBacking covering max viewport byte size, client unregistration, and rejection of viewports too large for shared memory allocation.
+// ---
+
 #include "components/viz/service/display_embedder/output_device_backing.h"
 
 #include <limits>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chromecast underlay overlay strategy implementation
+// summary: Implements the Chromecast underlay strategy that promotes video hole quads to secure underlay overlays and updates video geometry through a Mojo remote.
+// ---
+
 #include "components/viz/service/display/overlay_strategy_underlay_cast.h"
 
 #include <utility>

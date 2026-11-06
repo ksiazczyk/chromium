@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VizPerfTest base class declaration
+// summary: Declares helpers to read compositor render pass data from JSON and the VizPerfTest base class used by viz performance tests.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_VIZ_PERFTEST_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_VIZ_PERFTEST_H_
 

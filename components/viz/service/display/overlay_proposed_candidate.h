@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverlayProposedCandidate class declaration
+// summary: Declares OverlayProposedCandidate and its key type, representing a quad that could be promoted to an overlay by a specific strategy, with occlusion tracking data.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_OVERLAY_PROPOSED_CANDIDATE_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_OVERLAY_PROPOSED_CANDIDATE_H_
 

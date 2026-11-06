@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverlayCandidate implementation
+// summary: Implements OverlayCandidate helpers such as invisible quad detection, rounded display mask checks, clipping and required-overlay decisions for draw quads.
+// ---
+
 #include "components/viz/service/display/overlay_candidate.h"
 
 #include <variant>

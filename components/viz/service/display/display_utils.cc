@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display utilities implementation
+// summary: Implements the IsScroll helper that checks latency info entries for scroll update components to detect scroll-driven frames.
+// ---
+
 #include "components/viz/service/display/display_utils.h"
 
 #include <vector>

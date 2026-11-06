@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OutputSurfaceFrame class header
+// summary: Declares the viz OutputSurfaceFrame struct holding size, swap rect, latency info, frame data and delegated ink metadata used to present a frame.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_OUTPUT_SURFACE_FRAME_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_OUTPUT_SURFACE_FRAME_H_
 

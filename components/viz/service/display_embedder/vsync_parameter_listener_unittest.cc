@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VSync parameter listener unit tests
+// summary: Unit tests verifying the timebase skew calculation in VSyncParameterListener for timebases near and far from interval multiples.
+// ---
+
 #include "components/viz/service/display_embedder/vsync_parameter_listener.h"
 
 #include "base/time/time.h"

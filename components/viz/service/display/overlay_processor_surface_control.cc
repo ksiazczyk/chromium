@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android SurfaceControl overlay processor
+// summary: Implements the overlay processor for Android SurfaceControl, including color space checks, display transform handling, and underlay and single-on-top strategies.
+// ---
+
 #include "components/viz/service/display/overlay_processor_surface_control.h"
 
 #include <memory>

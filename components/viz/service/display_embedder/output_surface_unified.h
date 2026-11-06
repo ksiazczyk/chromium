@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OutputSurfaceUnified class declaration
+// summary: Declares the stub OutputSurface for the Chrome OS unified desktop display, which only issues begin frames and pairs with a NullRenderer to avoid GL context overhead.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_EMBEDDER_OUTPUT_SURFACE_UNIFIED_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_EMBEDDER_OUTPUT_SURFACE_UNIFIED_H_
 

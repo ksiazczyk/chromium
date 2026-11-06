@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OutputSurfaceClient interface
+// summary: Declares the client interface for OutputSurface, receiving swap buffers acknowledgements, presentation feedback, CALayer params and overlay release notifications.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_OUTPUT_SURFACE_CLIENT_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_OUTPUT_SURFACE_CLIENT_H_
 

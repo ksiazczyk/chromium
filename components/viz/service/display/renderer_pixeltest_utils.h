@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Renderer pixel test utilities header
+// summary: Declares helper functions for creating test render passes, quad states, and texture draw quads used by viz renderer pixel tests.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_RENDERER_PIXELTEST_UTILS_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_RENDERER_PIXELTEST_UTILS_H_
 

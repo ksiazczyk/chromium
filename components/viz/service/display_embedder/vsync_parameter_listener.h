@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VSync parameter listener header
+// summary: Declares VSyncParameterListener, which sends updated vsync parameters over IPC when the interval changes or timebase skew exceeds kMaxTimebaseSkew.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_EMBEDDER_VSYNC_PARAMETER_LISTENER_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_EMBEDDER_VSYNC_PARAMETER_LISTENER_H_
 

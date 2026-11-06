@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverdrawTracker class header
+// summary: Declares the OverdrawTracker class that estimates overdraw of aggregated frames and records interval averages as a time series, mainly for tests.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_OVERDRAW_TRACKER_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_OVERDRAW_TRACKER_H_
 

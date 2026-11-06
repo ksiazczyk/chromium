@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the Vulkan secondary command buffer Skia output device
+// summary: Declares SkiaOutputDeviceVulkanSecondaryCB, a SkiaOutputDevice subclass that renders via Vulkan secondary command buffers.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_EMBEDDER_SKIA_OUTPUT_DEVICE_VULKAN_SECONDARY_CB_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_EMBEDDER_SKIA_OUTPUT_DEVICE_VULKAN_SECONDARY_CB_H_
 

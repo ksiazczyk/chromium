@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Renderer pixel tests
+// summary: Parameterized pixel tests exercising the software and GPU renderers with render passes, quads and video content.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

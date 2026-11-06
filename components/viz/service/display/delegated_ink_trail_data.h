@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delegated ink trail data class declaration
+// summary: Declares a class that stores delegated ink points by timestamp, predicts points, and matches points against ink metadata.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_DELEGATED_INK_TRAIL_DATA_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_DELEGATED_INK_TRAIL_DATA_H_
 

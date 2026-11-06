@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test resource factory for display tests
+// summary: Helper that creates test resources in a client resource provider and transfers them to a display resource provider for use in tests.
+// ---
+
 #include "components/viz/service/display/test_resource_factory.h"
 
 #include <unordered_map>

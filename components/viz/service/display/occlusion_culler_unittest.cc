@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OcclusionCuller unit tests
+// summary: Extensive unit tests for OcclusionCuller, checking visible rect outcomes when culling texture and solid color quads under various settings and transforms.
+// ---
+
 #include "components/viz/service/display/occlusion_culler.h"
 
 #include <array>

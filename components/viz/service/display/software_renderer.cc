@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SoftwareRenderer CPU-based display compositor implementation
+// summary: Implements the SoftwareRenderer that draws aggregated frames with Skia raster, handling quads, filters, copy output, and software resource painting.
+// ---
+
 #include "components/viz/service/display/software_renderer.h"
 
 #include <array>

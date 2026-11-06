@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offscreen Skia output device implementation
+// summary: Implements an offscreen Skia output device that manages backbuffer allocation, color type mapping, and readback for testing across Ganesh and Graphite backends.
+// ---
+
 #include "components/viz/service/display_embedder/skia_output_device_offscreen.h"
 
 #include <memory>

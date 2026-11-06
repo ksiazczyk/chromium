@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SkiaRenderer GPU-accelerated display compositor implementation
+// summary: Implements the SkiaRenderer that draws aggregated frames with Skia, handling quads, render passes, overlays, copy output, delegated ink, and buffer swapping.
+// ---
+
 #include "components/viz/service/display/skia_renderer.h"
 
 #include <algorithm>

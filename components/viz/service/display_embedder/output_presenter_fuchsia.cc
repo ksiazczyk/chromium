@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia output presenter implementation
+// summary: Implements OutputPresenterFuchsia, presenting pending frames and overlay planes with acquire and release fences to the Fuchsia platform window surface.
+// ---
+
 #include "components/viz/service/display_embedder/output_presenter_fuchsia.h"
 
 #include <algorithm>

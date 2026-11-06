@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Display unit tests
+// summary: Unit tests for the viz Display class covering rendering, copy output requests, delegated ink points, and surface aggregation with fake output surfaces.
+// ---
+
 #include "components/viz/service/display/display.h"
 
 #include <limits>

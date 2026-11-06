@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Underlay overlay strategy implementation
+// summary: Implements the underlay overlay strategy that promotes quads to overlays beneath the primary plane, with options for opaque or transparent candidates.
+// ---
+
 #include "components/viz/service/display/overlay_strategy_underlay.h"
 
 #include <vector>

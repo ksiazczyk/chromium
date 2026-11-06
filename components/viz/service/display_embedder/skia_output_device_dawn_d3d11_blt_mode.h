@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia output device for Dawn D3D11 BitBlt-mode presentation
+// summary: Declares a Skia output device that presents through a single-buffered DXGI BitBlt-model swap chain for the Dawn D3D11 backend, supporting partial presentation of damaged rects.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_EMBEDDER_SKIA_OUTPUT_DEVICE_DAWN_D3D11_BLT_MODE_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_EMBEDDER_SKIA_OUTPUT_DEVICE_DAWN_D3D11_BLT_MODE_H_
 

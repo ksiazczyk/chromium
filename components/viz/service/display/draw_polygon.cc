@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrawPolygon implementation
+// summary: Implements the DrawPolygon class that turns draw quads into 3D polygons with normals, supporting splitting, transforms, and distance tests for BSP sorting.
+// ---
+
 #include "components/viz/service/display/draw_polygon.h"
 
 #include <stddef.h>

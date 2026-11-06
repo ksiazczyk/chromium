@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac overlay processor implementation
+// summary: Implements the macOS overlay processor that replaces draw quads with CALayer overlays and manages the associated overlay damage rect.
+// ---
+
 #include "components/viz/service/display/overlay_processor_mac.h"
 
 #include <utility>

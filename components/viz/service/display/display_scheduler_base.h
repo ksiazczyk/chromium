@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplaySchedulerBase class header
+// summary: Declares the DisplaySchedulerBase interface, its DisplaySchedulerClient interface, and the DrawAndSwapParams struct carrying frame draw and swap parameters.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_DISPLAY_SCHEDULER_BASE_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_DISPLAY_SCHEDULER_BASE_H_
 

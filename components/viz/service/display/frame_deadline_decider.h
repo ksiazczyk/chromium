@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameDeadlineDecider interface
+// summary: Declares FrameDeadlineDecider, which queries and selects frame presentation deadlines and records selection reasons for tracing and histograms.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_FRAME_DEADLINE_DECIDER_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_FRAME_DEADLINE_DECIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VSync parameter listener implementation
+// summary: Implements a listener that forwards vsync parameter updates over IPC only when the interval changes or the timebase skew exceeds a small threshold.
+// ---
+
 #include "components/viz/service/display_embedder/vsync_parameter_listener.h"
 
 #include <utility>

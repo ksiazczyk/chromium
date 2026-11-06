@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Resolved frame data unit test
+// summary: Unit tests for ResolvedFrameData covering render pass resolution, offset tags, and surface frame submission behavior.
+// ---
+
 #include "components/viz/service/display/resolved_frame_data.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Software renderer display resource provider class
+// summary: Declares DisplayResourceProviderSoftware, the DisplayResourceProvider subclass used with SoftwareRenderer, including ScopedReadLockSkImage for Skia image access.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_DISPLAY_RESOURCE_PROVIDER_SOFTWARE_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_DISPLAY_RESOURCE_PROVIDER_SOFTWARE_H_
 

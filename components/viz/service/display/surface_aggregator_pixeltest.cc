@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SurfaceAggregator pixel tests
+// summary: Pixel tests verifying that frames with surface references aggregate and render correctly across the supported GPU renderer types.
+// ---
+
 #include "base/time/time.h"
 #include "build/build_config.h"
 #include "cc/test/pixel_comparator.h"

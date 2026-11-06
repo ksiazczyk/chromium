@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Readback pixel tests
+// summary: Pixel tests for readback via copy output requests, comparing rendered results against references with fuzzy pixel comparators.
+// ---
+
 #include <memory>
 #include <tuple>
 

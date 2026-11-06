@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia output device for Vulkan secondary command buffers
+// summary: Implements a Skia output device that renders into a Vulkan secondary command buffer draw context, handling paint, submit, reshape and present for the viz compositor.
+// ---
+
 #include "components/viz/service/display_embedder/skia_output_device_vulkan_secondary_cb.h"
 
 #include <utility>

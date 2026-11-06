@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PendingSwapParams struct declaration
+// summary: Declares the PendingSwapParams struct holding maximum pending swap counts, with optional overrides for 72, 90 and 120 Hz refresh rates.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_PENDING_SWAP_PARAMS_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_PENDING_SWAP_PARAMS_H_
 

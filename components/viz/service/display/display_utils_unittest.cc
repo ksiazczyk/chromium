@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Display utilities unit tests
+// summary: Unit tests verifying that IsScroll detects scroll and first scroll latency components in single and combined latency info lists.
+// ---
+
 #include "components/viz/service/display/display_utils.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

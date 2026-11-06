@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DirectComposition layer overlay processor interface
+// summary: Declares the DCLayerOverlayProcessor class that manages overlay promotion per render pass and reacts to overlay capability and power state changes.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_DC_LAYER_OVERLAY_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_DC_LAYER_OVERLAY_H_
 

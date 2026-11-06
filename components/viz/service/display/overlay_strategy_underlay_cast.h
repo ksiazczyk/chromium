@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverlayStrategyUnderlayCast class declaration
+// summary: Declares the Cast-specific underlay overlay strategy that tracks overlay use and connects to a VideoGeometrySetter mojo service for content bounds handling.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_OVERLAY_STRATEGY_UNDERLAY_CAST_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_OVERLAY_STRATEGY_UNDERLAY_CAST_H_
 

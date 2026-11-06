@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResourceFence interface for display resource synchronization
+// summary: Declares an abstract ResourceFence interface that ensures resources passed between the viz client and service are not read before writes complete, with deferred resource tracking.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_RESOURCE_FENCE_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_RESOURCE_FENCE_H_
 

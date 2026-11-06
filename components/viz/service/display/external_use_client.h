@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalUseClient interface
+// summary: Declares the ExternalUseClient interface and its ImageContext class used by DisplayResourceProvider to share compositor resources with Skia.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_EXTERNAL_USE_CLIENT_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_EXTERNAL_USE_CLIENT_H_
 

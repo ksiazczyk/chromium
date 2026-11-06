@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Null renderer display resource provider implementation
+// summary: Implements DisplayResourceProviderNull, which deletes and returns unused resources to child clients for the NullRenderer variant of the display resource provider.
+// ---
+
 #include "components/viz/service/display/display_resource_provider_null.h"
 
 #include <utility>

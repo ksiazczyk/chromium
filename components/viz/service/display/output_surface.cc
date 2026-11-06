@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OutputSurface implementation
+// summary: Implements the base OutputSurface for presenting buffers via GPU or software compositing, including latency updates and Windows delegated compositing support checks.
+// ---
+
 #include "components/viz/service/display/output_surface.h"
 
 #include <stdint.h>

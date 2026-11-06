@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrawPolygon class header
+// summary: Declares the DrawPolygon class representing a draw quad as a 3D polygon with a normal, draw order index, and polygon splitting operations.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_DRAW_POLYGON_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_DRAW_POLYGON_H_
 

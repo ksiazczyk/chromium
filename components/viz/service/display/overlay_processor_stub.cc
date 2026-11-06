@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay processor stub implementation
+// summary: Implements the stub overlay processor that reports overlays as unsupported and returns empty damage and error results for platforms without overlay support.
+// ---
+
 #include "components/viz/service/display/overlay_processor_stub.h"
 
 namespace viz {

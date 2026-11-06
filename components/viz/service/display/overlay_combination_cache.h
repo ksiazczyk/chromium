@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay combination cache class declaration
+// summary: Declares OverlayCombinationCache, which determines the optimal set of overlay candidates to promote per frame using cached success and failure data.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_OVERLAY_COMBINATION_CACHE_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_OVERLAY_COMBINATION_CACHE_H_
 

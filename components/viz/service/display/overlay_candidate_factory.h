@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverlayCandidateFactory class header
+// summary: Declares the OverlayCandidateFactory that captures render pass context to create overlay candidates from draw quads and estimate visible damage.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_OVERLAY_CANDIDATE_FACTORY_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_OVERLAY_CANDIDATE_FACTORY_H_
 

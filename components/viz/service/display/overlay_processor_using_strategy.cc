@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Strategy-based overlay processor implementation
+// summary: Implements the strategy-driven overlay processor that proposes, attempts, and promotes quads to overlay planes, with metrics, prioritization, and combination caching.
+// ---
+
 #include "components/viz/service/display/overlay_processor_using_strategy.h"
 
 #include <algorithm>

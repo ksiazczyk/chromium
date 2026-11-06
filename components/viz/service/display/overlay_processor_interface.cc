@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay processor interface implementation
+// summary: Implements the overlay processor factory that selects platform-specific processors and records UMA histograms for overlay and underlay damage rects.
+// ---
+
 #include "components/viz/service/display/overlay_processor_interface.h"
 
 #include <utility>

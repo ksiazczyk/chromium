@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Viz pixel test base class implementation
+// summary: Implements the VizPixelTest base class that sets up software or Skia renderers and maps renderer types to graphics backends for pixel tests.
+// ---
+
 #include "components/viz/service/display/viz_pixel_test.h"
 
 #include "build/build_config.h"

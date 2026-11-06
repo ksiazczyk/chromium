@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Display scheduler unit tests
+// summary: Unit tests for DisplayScheduler using a fake damage tracker, scheduler client, and begin frame source to verify draw, swap, and frame finish behavior.
+// ---
+
 #include "components/viz/service/display/display_scheduler.h"
 
 #include <set>

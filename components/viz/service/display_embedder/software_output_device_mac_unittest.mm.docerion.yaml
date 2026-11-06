@@ -1,0 +1,4 @@
+# Docerion header of software_output_device_mac_unittest.mm.
+type: test
+title: Unit tests for the macOS software output device
+summary: Verifies buffer reuse, allocation, and damage copy region behavior of SoftwareOutputDeviceMac across successive frames with varying IOSurface use counts.

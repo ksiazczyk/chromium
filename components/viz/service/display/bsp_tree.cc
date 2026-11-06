@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BSP tree implementation
+// summary: Builds a binary space partitioning tree from draw polygons by recursively splitting them around chosen splitting planes.
+// ---
+
 #include "components/viz/service/display/bsp_tree.h"
 
 #include <memory>

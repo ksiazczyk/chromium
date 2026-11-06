@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Software output surface unit tests
+// summary: Unit tests for SoftwareOutputSurface verifying swap buffer handling and vsync parameter updates with and without a vsync provider.
+// ---
+
 #include "components/viz/service/display_embedder/software_output_surface.h"
 
 #include <utility>

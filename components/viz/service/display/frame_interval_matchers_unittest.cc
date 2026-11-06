@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Frame interval matchers unit tests
+// summary: Unit tests verifying FrameIntervalMatcher results, including input boost and dense or continuous interval settings, across various matcher scenarios.
+// ---
+
 #include "components/viz/service/display/frame_interval_matchers.h"
 
 #include <optional>

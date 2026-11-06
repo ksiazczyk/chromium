@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceAggregator class declaration
+// summary: Declares the SurfaceAggregator class that merges surface frames into an aggregated frame, with options for readback passes and frame annotation.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_SURFACE_AGGREGATOR_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_SURFACE_AGGREGATOR_H_
 

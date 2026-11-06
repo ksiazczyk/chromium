@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AggregatedFrame implementation
+// summary: Implements AggregatedFrame constructors and its tracing and JSON serialization of render passes and copy requests.
+// ---
+
 #include "components/viz/service/display/aggregated_frame.h"
 
 #include "base/logging.h"

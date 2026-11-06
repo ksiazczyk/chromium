@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display scheduler implementation
+// summary: Implements DisplayScheduler, which observes begin frames, tracks damage and pending surfaces, and decides when to latch, draw and swap the display compositor output.
+// ---
+
 #include "components/viz/service/display/display_scheduler.h"
 
 #include <algorithm>

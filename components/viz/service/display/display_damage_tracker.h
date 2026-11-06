@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayDamageTracker class
+// summary: Declares DisplayDamageTracker, a SurfaceObserver that tracks pending and contributing surface damage so the display scheduler can determine frame deadlines.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_DISPLAY_DAMAGE_TRACKER_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_DISPLAY_DAMAGE_TRACKER_H_
 

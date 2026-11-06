@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FrameDeadlineDecider unit tests
+// summary: Unit tests covering deadline selection, feature-disabled fallback, sustainability checks and histogram metrics of FrameDeadlineDecider.
+// ---
+
 #include "components/viz/service/display/frame_deadline_decider.h"
 
 #include <memory>

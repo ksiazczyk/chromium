@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverlayCandidateFactory implementation
+// summary: Implements the factory that builds OverlayCandidate objects from draw quads, including overlay transform and axis-alignment computations.
+// ---
+
 #include "components/viz/service/display/overlay_candidate_factory.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SkiaOutputSurfaceImplOnGpu implementation
+// summary: Implements the GPU-thread side of the Skia output surface, handling swap buffers, copy output requests, readbacks, and the various Skia output devices.
+// ---
+
 #include "components/viz/service/display_embedder/skia_output_surface_impl_on_gpu.h"
 
 #include <memory>

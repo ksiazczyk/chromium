@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fullscreen overlay strategy class declaration
+// summary: Declares the fullscreen overlay strategy that promotes a single full-screen quad to an overlay when it can serve as the framebuffer.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_OVERLAY_STRATEGY_FULLSCREEN_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_OVERLAY_STRATEGY_FULLSCREEN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Renderer intersecting quad pixel test
+// summary: Pixel test verifying that rotated draw quads intersecting in 3D are sorted and rendered correctly across renderer types.
+// ---
+
 #include <memory>
 #include <vector>
 

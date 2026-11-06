@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer utilities header
+// summary: Declares IsScaleAndIntegerTranslate, a helper for testing Skia matrix properties in the viz display renderer.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_RENDERER_UTILS_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_RENDERER_UTILS_H_
 

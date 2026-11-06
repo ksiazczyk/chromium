@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplaySchedulerBase implementation
+// summary: Implements DrawAndSwapParams constructors and the base scheduler wiring that connects a client and a display damage tracker.
+// ---
+
 #include "components/viz/service/display/display_scheduler_base.h"
 
 namespace viz {

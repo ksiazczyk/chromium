@@ -1,3 +1,9 @@
+---
+type: readme
+title: display/ directory overview
+summary: Explains that this directory implements the Display Compositor, which combines frames from frame sinks into a single GPU or software resource for presentation.
+---
+
 # display/
 
 This directory is the implementation of the Display Compositor.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestResourceFactory class declaration
+// summary: Declares a test helper that sets up output surface and resource providers and creates test resources for viz display tests.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_TEST_RESOURCE_FACTORY_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_TEST_RESOURCE_FACTORY_H_
 

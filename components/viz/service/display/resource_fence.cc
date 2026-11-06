@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resource fence implementation
+// summary: Implements a fence that tracks deferred resources and notifies the display resource provider when the fence is passed.
+// ---
+
 #include "components/viz/service/display/resource_fence.h"
 
 #include <utility>

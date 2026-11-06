@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay combination cache implementation
+// summary: Implements OverlayCombinationCache and its helpers, which pick the best combination of overlay candidates to test each frame based on power gain and past promotion results.
+// ---
+
 #include "components/viz/service/display/overlay_combination_cache.h"
 
 #include <algorithm>

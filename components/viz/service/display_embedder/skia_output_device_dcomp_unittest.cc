@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the DirectComposition Skia output device
+// summary: Unit tests for SkiaOutputDeviceDComp using a mock presenter and stub GL context to verify DirectComposition overlay scheduling behavior.
+// ---
+
 #include "components/viz/service/display_embedder/skia_output_device_dcomp.h"
 
 #include <memory>

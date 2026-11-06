@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PendingSwapParams implementation
+// summary: Implements PendingSwapParams, including GetMax which returns the largest pending swap limit across 72, 90 and 120 Hz refresh rates.
+// ---
+
 #include "components/viz/service/display/pending_swap_params.h"
 
 #include <algorithm>

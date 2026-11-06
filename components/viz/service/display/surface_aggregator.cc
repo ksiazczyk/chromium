@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceAggregator implementation
+// summary: Implements aggregation of child surface frames into a single AggregatedFrame, handling quads, render pass merging, damage, and resources.
+// ---
+
 #include "components/viz/service/display/surface_aggregator.h"
 
 #include <stddef.h>

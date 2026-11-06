@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Core Animation layer overlay processor interface
+// summary: Declares the CALayerOverlayProcessor class that converts quads in the root render pass into CALayer overlays for macOS presentation.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_CA_LAYER_OVERLAY_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_CA_LAYER_OVERLAY_H_
 

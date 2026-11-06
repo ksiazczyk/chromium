@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BufferQueue implementation
+// summary: Implements a queue of SharedImage-backed compositing buffers, tracking damage, swap state, and buffer purgeability.
+// ---
+
 #include "components/viz/service/display_embedder/buffer_queue.h"
 
 #include <cinttypes>

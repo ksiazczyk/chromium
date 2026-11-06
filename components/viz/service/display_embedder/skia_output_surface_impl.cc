@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia output surface implementation
+// summary: Core implementation of the Skia-based output surface for the viz display compositor, coordinating painting, swapping, copy requests, shared images and GPU-side work.
+// ---
+
 #include "components/viz/service/display_embedder/skia_output_surface_impl.h"
 
 #include <inttypes.h>

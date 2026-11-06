@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NullRenderer class declaration
+// summary: Declares an empty DirectRenderer implementation for use with OutputSurfaceUnified that performs no drawing and rejects unsupported renderer operations.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_NULL_RENDERER_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_NULL_RENDERER_H_
 

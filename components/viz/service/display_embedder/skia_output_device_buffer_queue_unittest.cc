@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SkiaOutputDeviceBufferQueue unit tests
+// summary: Unit tests for SkiaOutputDeviceBufferQueue covering presentation, overlay scheduling and reclaim behavior, with helpers for running tests on the GPU thread.
+// ---
+
 #include "components/viz/service/display_embedder/skia_output_device_buffer_queue.h"
 
 #include <stddef.h>

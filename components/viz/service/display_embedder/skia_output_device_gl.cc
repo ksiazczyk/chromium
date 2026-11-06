@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenGL Skia output device implementation
+// summary: Implements the OpenGL-backed Skia output device, including multi-surface swap tracking that limits vsync for multi-window cases and Skia surface creation.
+// ---
+
 #include "components/viz/service/display_embedder/skia_output_device_gl.h"
 
 #include <tuple>

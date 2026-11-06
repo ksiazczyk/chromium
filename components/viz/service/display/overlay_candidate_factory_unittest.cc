@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overlay candidate factory unit tests
+// summary: Unit tests for OverlayCandidateFactory, covering candidate creation from draw quads, resource setup, and overlay context capabilities in the Viz display compositor.
+// ---
+
 #include "components/viz/service/display/overlay_candidate_factory.h"
 
 #include <unordered_map>

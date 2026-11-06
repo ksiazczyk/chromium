@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalUseClient image context implementation
+// summary: Implements the ImageContext helpers that wrap mailbox, format, color space and Skia image data for resources used outside viz.
+// ---
+
 #include "components/viz/service/display/external_use_client.h"
 
 #include "base/check.h"

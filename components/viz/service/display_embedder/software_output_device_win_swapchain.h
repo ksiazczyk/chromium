@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows DXGI swap chain software output device header
+// summary: Declares SoftwareOutputDeviceWinSwapChain, a Windows software output device that renders Skia content to a DXGI swap chain via a trivial DirectComposition tree.
+// ---
+
 #ifndef COMPONENTS_VIZ_SERVICE_DISPLAY_EMBEDDER_SOFTWARE_OUTPUT_DEVICE_WIN_SWAPCHAIN_H_
 #define COMPONENTS_VIZ_SERVICE_DISPLAY_EMBEDDER_SOFTWARE_OUTPUT_DEVICE_WIN_SWAPCHAIN_H_
 
