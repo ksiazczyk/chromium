@@ -1,0 +1,4 @@
+# Docerion header of web_app_error_page.html.
+type: source
+title: Web app error page template
+summary: HTML template for the error page shown for web apps, rendering the app icon and error message with i18n placeholders and shared interstitial styles.

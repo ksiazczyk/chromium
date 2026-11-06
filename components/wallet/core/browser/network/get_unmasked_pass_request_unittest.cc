@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GetUnmaskedPassRequest unit tests
+// summary: Unit tests covering the URL path, request body, and success, result error, empty results, and HTTP error handling of the unmasked pass request.
+// ---
+
 #include "components/wallet/core/browser/network/get_unmasked_pass_request.h"
 
 #include "base/test/bind.h"

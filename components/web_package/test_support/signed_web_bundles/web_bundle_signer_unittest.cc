@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebBundleSigner unit tests
+// summary: Unit tests that build an unsigned web bundle, sign it with Ed25519 and ECDSA P-256 test keys, and compare the signed output byte by byte against expected test data files.
+// ---
+
 #include "components/web_package/test_support/signed_web_bundles/web_bundle_signer.h"
 
 #include <string_view>

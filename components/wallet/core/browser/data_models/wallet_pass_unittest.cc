@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wallet pass unit tests
+// summary: Unit tests verifying PassCategoryToString mappings and that GetPassCategory returns the correct category for each pass variant.
+// ---
+
 #include "components/wallet/core/browser/data_models/wallet_pass.h"
 
 #include "components/optimization_guide/proto/features/walletable_pass_extraction.pb.h"

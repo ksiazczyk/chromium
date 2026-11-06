@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web contents modal dialog host interface
+// summary: Defines the WebContentsModalDialogHost interface, extending ModalDialogHost with GetMaximumDialogSize so dialogs stay within the browser window.
+// ---
+
 #ifndef COMPONENTS_WEB_MODAL_WEB_CONTENTS_MODAL_DIALOG_HOST_H_
 #define COMPONENTS_WEB_MODAL_WEB_CONTENTS_MODAL_DIALOG_HOST_H_
 

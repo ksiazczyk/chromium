@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Web Bundle parser
+// summary: Gtest-based unit tests covering trailing length, magic and version, section, index and response parsing, including error and boundary cases.
+// ---
+
 use cbor::{Map, MapEntry, MapKey, Value};
 use rust_gtest_interop::prelude::*;
 use web_package_rust::{

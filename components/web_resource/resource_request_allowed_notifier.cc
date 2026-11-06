@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resource request allowed notifier implementation
+// summary: Implements checks for network availability, EULA acceptance, and a disable switch, notifying observers when network resource requests become permitted.
+// ---
+
 #include "components/web_resource/resource_request_allowed_notifier.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Identity validator implementation
+// summary: Implements the IdentityValidator singleton that checks whether a web bundle ID matches one of the public keys in the signature stack.
+// ---
+
 #include "components/web_package/signed_web_bundles/identity_validator.h"
 
 #include <algorithm>

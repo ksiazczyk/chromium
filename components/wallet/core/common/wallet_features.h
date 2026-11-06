@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallet feature flag declarations
+// summary: Declares the wallet feature flags and string parameters that are defined in the corresponding implementation file.
+// ---
+
 #ifndef COMPONENTS_WALLET_CORE_COMMON_WALLET_FEATURES_H_
 #define COMPONENTS_WALLET_CORE_COMMON_WALLET_FEATURES_H_
 

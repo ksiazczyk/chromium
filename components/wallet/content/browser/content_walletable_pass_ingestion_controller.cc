@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Walletable pass ingestion controller implementation
+// summary: Implements the per-tab controller that starts pass detection on page load and supplies page title, annotated content, and barcode detection.
+// ---
+
 #include "components/wallet/content/browser/content_walletable_pass_ingestion_controller.h"
 
 #include "base/strings/utf_string_conversions.h"

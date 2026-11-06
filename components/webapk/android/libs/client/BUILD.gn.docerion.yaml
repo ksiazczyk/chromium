@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for WebAPK client Java library
+summary: Defines the android_library target for WebAPK client signature verification code and a robolectric_library target for its JUnit tests, with their dependencies.

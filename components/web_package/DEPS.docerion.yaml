@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include Rules for the Web Package Component
+summary: Chromium DEPS file restricting allowed includes for the component, with specific exceptions for the fuzzer, crypto, and BoringSSL sources.

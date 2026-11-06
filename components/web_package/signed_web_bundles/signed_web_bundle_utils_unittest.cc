@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signed Web Bundle utils unit tests
+// summary: Unit tests checking that CreateSignaturePayload produces the expected length-prefixed byte encoding.
+// ---
+
 #include "components/web_package/signed_web_bundles/signed_web_bundle_utils.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

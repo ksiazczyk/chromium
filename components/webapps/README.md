@@ -1,3 +1,13 @@
+---
+type: readme
+title: Web Apps Shared Component (components/webapps)
+summary: Explains the architectural layering, delegate pattern, and core subsystems such as installability, banners, and identifiers shared across platforms.
+relations:
+  - references /chrome/browser/ui/web_applications/README.md
+  - references /chrome/browser/web_applications/README.md
+  - references /components/webapps/_agents/README.md
+---
+
 # Web Apps Shared Component (`components/webapps`)
 
 This directory contains features and logic for Web Applications (Progressive Web

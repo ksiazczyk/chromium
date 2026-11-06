@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web Bundle parser fuzzer
+// summary: Fuzzes the Web Bundle parser by feeding arbitrary data through integrity block, metadata, and response parsing over a mock data source.
+// ---
+
 #include "components/web_package/web_bundle_parser.h"
 
 #include <stddef.h>

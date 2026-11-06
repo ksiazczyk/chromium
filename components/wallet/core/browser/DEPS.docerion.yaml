@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the wallet core browser directory
+summary: Lists the components and directories such as consent_auditor, prefs, signin, strike_database and network that this directory is allowed to include from.

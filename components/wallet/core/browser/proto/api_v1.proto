@@ -4,6 +4,12 @@
 
 // Data models to interface with Wallet API v1.
 
+// ---docerion
+// type: source
+// title: Wallet API v1 protocol buffer definitions
+// summary: Defines protobuf messages for Wallet API v1 RPCs to get, upsert, and fetch details for passes and private passes.
+// ---
+
 syntax = "proto2";
 
 package wallet.api;

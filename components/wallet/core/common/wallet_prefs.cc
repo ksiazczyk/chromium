@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallet profile preference registration
+// summary: Registers the walletable pass detection opt-in dictionary preference with the syncable profile pref registry.
+// ---
+
 #include "components/wallet/core/common/wallet_prefs.h"
 
 #include "components/pref_registry/pref_registry_syncable.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockWebBundleParser class declaration
+// summary: Declares the MockWebBundleParser test double implementing the WebBundleParser Mojo interface with wait, run, and set parse result helpers.
+// ---
+
 #ifndef COMPONENTS_WEB_PACKAGE_TEST_SUPPORT_MOCK_WEB_BUNDLE_PARSER_H_
 #define COMPONENTS_WEB_PACKAGE_TEST_SUPPORT_MOCK_WEB_BUNDLE_PARSER_H_
 

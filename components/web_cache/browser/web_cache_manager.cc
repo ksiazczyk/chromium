@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser-side web cache manager implementation
+// summary: Implements the singleton WebCacheManager that observes render process hosts and instructs renderers over Mojo to clear their in-memory cache instantly or on navigation.
+// ---
+
 #include "components/web_cache/browser/web_cache_manager.h"
 
 #include "base/no_destructor.h"

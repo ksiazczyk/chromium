@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signed Web Bundle signature verifier unit tests
+// summary: Unit tests exercising signature verification with Ed25519 and ECDSA P-256 test keys and signed bundle fixtures.
+// ---
+
 #include "components/web_package/signed_web_bundles/signed_web_bundle_signature_verifier.h"
 
 #include <limits>

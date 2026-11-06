@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test modal dialog manager delegate class declaration
+// summary: Declares a test double of the modal dialog manager delegate with setters to control visibility, blocked state, and the dialog host in tests.
+// ---
+
 #ifndef COMPONENTS_WEB_MODAL_TEST_WEB_CONTENTS_MODAL_DIALOG_MANAGER_DELEGATE_H_
 #define COMPONENTS_WEB_MODAL_TEST_WEB_CONTENTS_MODAL_DIALOG_MANAGER_DELEGATE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Web package test support build file
+summary: Defines the test_support static library with mock web bundle parser and signed web bundle signing utilities, plus a unit_tests source set.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed Web Bundle signature payload utilities implementation
+// summary: Builds the signature payload from the bundle hash, integrity block CBOR, and attributes by delegating to the Rust helper.
+// ---
+
 #include "components/web_package/signed_web_bundles/signed_web_bundle_utils.h"
 
 #include <cstdint>

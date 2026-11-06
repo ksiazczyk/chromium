@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Integrity block constants for signed web bundles
+// summary: Header defining integrity block magic and version bytes, CBOR attribute names, top-level array length, and the maximum integrity block size.
+// ---
+
 #ifndef COMPONENTS_WEB_PACKAGE_SIGNED_WEB_BUNDLES_CONSTANTS_H_
 #define COMPONENTS_WEB_PACKAGE_SIGNED_WEB_BUNDLES_CONSTANTS_H_
 

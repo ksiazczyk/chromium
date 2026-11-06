@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Walletable pass barcode detector implementation class
+// summary: Declares the barcode detector implementation with mojo remote bindings, callbacks, and disconnect handling for image extraction and detection.
+// ---
+
 #ifndef COMPONENTS_WALLET_CONTENT_BROWSER_WALLETABLE_PASS_BARCODE_DETECTOR_IMPL_H_
 #define COMPONENTS_WALLET_CONTENT_BROWSER_WALLETABLE_PASS_BARCODE_DETECTOR_IMPL_H_
 

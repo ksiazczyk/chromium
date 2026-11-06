@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WalletHttpClientImpl implementation
+// summary: Implements WalletHttpClient, fetching OAuth tokens and sending wallet requests such as pass upserts and unmasked pass retrieval over HTTP with feature gating.
+// ---
+
 #include "components/wallet/core/browser/network/wallet_http_client_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebBundleUtils unit tests
+// summary: Tests validation of uuid-in-package URLs, accepting valid and case-insensitive UUIDs and rejecting malformed or wrong-scheme variants.
+// ---
+
 #include "components/web_package/web_bundle_utils.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

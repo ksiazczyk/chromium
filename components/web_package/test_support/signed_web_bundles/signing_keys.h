@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default test signing key declarations
+// summary: Declares getters for the hardcoded default Ed25519 and ECDSA P-256 key pairs and their signed web bundle IDs used in tests.
+// ---
+
 #ifndef COMPONENTS_WEB_PACKAGE_TEST_SUPPORT_SIGNED_WEB_BUNDLES_SIGNING_KEYS_H_
 #define COMPONENTS_WEB_PACKAGE_TEST_SUPPORT_SIGNED_WEB_BUNDLES_SIGNING_KEYS_H_
 

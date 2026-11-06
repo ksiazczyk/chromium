@@ -1,3 +1,13 @@
+---
+type: readme
+title: Web Modal (components/web_modal)
+summary: Documents the web_modal component and the four-part contract containers must follow to create the manager, wire delegates, host dialogs, and clear delegates at teardown.
+relations:
+  - documents /components/web_modal/modal_dialog_host.h
+  - documents /components/web_modal/web_contents_modal_dialog_host.h
+  - documents /components/web_modal/web_contents_modal_dialog_manager.h
+---
+
 # Web Modal (`components/web_modal`)
 
 The `web_modal` component manages web-contents modal dialogs in Chromium—prompts and dialogs scoped to a specific [`content::WebContents`](../../content/public/browser/web_contents.h) rather than the entire browser window (e.g., HTTP basic authentication, print preview, specialized permission prompts like File System Access confirmations or Page Embedded Permission Control modals, WebAuthn/passkey dialogs, and device choosers).

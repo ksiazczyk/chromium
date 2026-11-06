@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the Web Package Component
+summary: Lists the primary code owner for the directory and delegates secondary review to the isolated web apps platform owners file.

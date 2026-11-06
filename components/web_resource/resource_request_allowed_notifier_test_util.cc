@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestRequestAllowedNotifier test helper implementation
+// summary: Implements a test subclass that overrides the allowed state and injects a custom EULA notifier to simplify testing of ResourceRequestAllowedNotifier.
+// ---
+
 #include "components/web_resource/resource_request_allowed_notifier_test_util.h"
 #include "base/functional/bind.h"
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the wallet core browser component
+summary: Defines the browser static library with wallet pass data models, ingestion, metrics and network sources, plus test_support and unit_tests targets and their dependencies.

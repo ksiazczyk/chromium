@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebApkVerifySignature unit tests
+// summary: Robolectric unit tests for WebApkVerifySignature covering little-endian reads, hex conversion, and comment signature parsing.
+// ---
+
 package org.chromium.components.webapk.lib.client;
 
 import static org.junit.Assert.assertArrayEquals;

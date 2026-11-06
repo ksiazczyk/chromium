@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WalletHttpClientImpl class declaration
+// summary: Declares WalletHttpClientImpl, which issues authenticated HTTP requests to the Wallet backend using IdentityManager, SimpleURLLoader, and pending token callbacks.
+// ---
+
 #ifndef COMPONENTS_WALLET_CORE_BROWSER_NETWORK_WALLET_HTTP_CLIENT_IMPL_H_
 #define COMPONENTS_WALLET_CORE_BROWSER_NETWORK_WALLET_HTTP_CLIENT_IMPL_H_
 

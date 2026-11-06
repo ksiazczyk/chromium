@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Web bundle parser Mojom build target
+summary: GN build file defining the web_package Mojom target with typemaps mapping Mojom structs to web_package C++ types.

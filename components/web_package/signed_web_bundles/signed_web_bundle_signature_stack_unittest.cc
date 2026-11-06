@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signed Web Bundle signature stack unit tests
+// summary: Unit tests for creating a signature stack from single and multiple entries, including the error case of an empty entry list.
+// ---
+
 #include "components/web_package/signed_web_bundles/signed_web_bundle_signature_stack.h"
 
 #include <array>

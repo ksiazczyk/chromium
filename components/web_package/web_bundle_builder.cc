@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web Bundle Builder Implementation
+// summary: Implements WebBundleBuilder, assembling CBOR sections, index entries, responses, and the primary URL into a serialized Web Bundle.
+// ---
+
 #include "components/web_package/web_bundle_builder.h"
 
 #include <string.h>

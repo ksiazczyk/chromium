@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Walletable pass ingestion utils unit tests
+// summary: Unit tests verifying extraction of loyalty cards, event passes, and transit tickets from protos, including barcode attachment and handling of invalid input.
+// ---
+
 #include "components/wallet/core/browser/ingestion/walletable_pass_ingestion_utils.h"
 
 #include "components/optimization_guide/proto/features/walletable_pass_extraction.pb.h"

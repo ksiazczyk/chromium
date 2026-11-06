@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS reviewers list for the web_cache component
+summary: Lists the reviewers responsible for code changes in the web_cache component.

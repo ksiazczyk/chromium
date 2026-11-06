@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Integrity block parser
+// summary: Parses and validates the CBOR integrity block of a signed web bundle, checking magic and version bytes, attributes, and signature stack entries.
+// ---
+
 use alloc::format;
 use alloc::vec::Vec;
 

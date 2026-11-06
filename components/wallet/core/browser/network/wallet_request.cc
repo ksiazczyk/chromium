@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WalletRequest base class implementation
+// summary: Implements shared WalletRequest helpers, building client info with the Chrome version and current platform and providing default request headers.
+// ---
+
 #include "components/wallet/core/browser/network/wallet_request.h"
 
 #include "base/values.h"

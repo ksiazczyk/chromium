@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UpsertPrivatePassRequest unit tests
+// summary: Unit tests covering the URL path, EES tokenization headers, request body, session ID handling, and response processing for private pass upserts.
+// ---
+
 #include "components/wallet/core/browser/network/upsert_private_pass_request.h"
 
 #include "base/test/bind.h"

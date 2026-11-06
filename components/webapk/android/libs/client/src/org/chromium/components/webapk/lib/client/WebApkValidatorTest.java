@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebApkValidator unit tests
+// summary: Robolectric unit tests for WebApkValidator covering URL-to-WebAPK package matching and signature validation scenarios.
+// ---
+
 package org.chromium.components.webapk.lib.client;
 
 import static org.junit.Assert.assertEquals;

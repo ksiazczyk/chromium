@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebCacheImpl class declaration
+// summary: Declares the WebCacheImpl class implementing the mojom::WebCache interface, with a state machine that ensures delayed cache clears run on navigation.
+// ---
+
 #ifndef COMPONENTS_WEB_CACHE_RENDERER_WEB_CACHE_IMPL_H_
 #define COMPONENTS_WEB_CACHE_RENDERER_WEB_CACHE_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebCacheImpl implementation
+// summary: Implements the mojom::WebCache Mojo interface, clearing the Blink web cache immediately or deferring the clear until the next navigation event.
+// ---
+
 #include "components/web_cache/renderer/web_cache_impl.h"
 
 #include "third_party/blink/public/platform/web_cache.h"

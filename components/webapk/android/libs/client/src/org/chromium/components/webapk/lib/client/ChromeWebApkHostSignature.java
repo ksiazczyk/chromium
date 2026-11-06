@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome WebAPK host signature key
+// summary: Holds the expected public key certificate bytes used to verify that a WebAPK was signed by the WebAPK server.
+// ---
+
 package org.chromium.components.webapk.lib.client;
 
 import org.chromium.build.annotations.NullMarked;

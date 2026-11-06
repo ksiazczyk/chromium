@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetDetailsForUpsertPassRequest class declaration
+// summary: Declares the WalletRequest subclass that retrieves details needed prior to upserting a public pass, with the legal message omitted for ineligible users.
+// ---
+
 #ifndef COMPONENTS_WALLET_CORE_BROWSER_NETWORK_GET_DETAILS_FOR_UPSERT_PASS_REQUEST_H_
 #define COMPONENTS_WALLET_CORE_BROWSER_NETWORK_GET_DETAILS_FOR_UPSERT_PASS_REQUEST_H_
 

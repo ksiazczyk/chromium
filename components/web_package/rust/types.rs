@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parser result and error types
+// summary: Defines repr(C) structs for parse errors and parsing results such as bundle headers, index entries and responses, shared with the C++ bindings.
+// ---
+
 use alloc::string::String;
 use alloc::vec::Vec;
 

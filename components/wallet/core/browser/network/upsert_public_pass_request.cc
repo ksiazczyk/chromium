@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpsertPublicPassRequest implementation
+// summary: Implements the wallet request that upserts a public pass via v1/passes:upsert and returns the server-assigned pass ID to the callback.
+// ---
+
 #include "components/wallet/core/browser/network/upsert_public_pass_request.h"
 
 #include "base/json/json_writer.h"

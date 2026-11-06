@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockWebBundleParserFactory implementation
+// summary: Implements a mock WebBundleParserFactory that creates mock parsers, forwards parse callbacks, and can simulate disconnects and crashes in tests.
+// ---
+
 #include "components/web_package/test_support/mock_web_bundle_parser_factory.h"
 
 #include <optional>

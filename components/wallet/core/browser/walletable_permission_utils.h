@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Walletable pass detection permission utilities header
+// summary: Declares functions to get and set the walletable pass detection opt-in status and to check user eligibility, keyed by hashed GAIA ID in profile prefs.
+// ---
+
 #ifndef COMPONENTS_WALLET_CORE_BROWSER_WALLETABLE_PERMISSION_UTILS_H_
 #define COMPONENTS_WALLET_CORE_BROWSER_WALLETABLE_PERMISSION_UTILS_H_
 

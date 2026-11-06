@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ECDSA P-256 public key class declaration
+// summary: Declares a wrapper class around a 33-byte compressed ECDSA P-256 public key with a Create factory and byte accessors.
+// ---
+
 #ifndef COMPONENTS_WEB_PACKAGE_SIGNED_WEB_BUNDLES_ECDSA_P256_PUBLIC_KEY_H_
 #define COMPONENTS_WEB_PACKAGE_SIGNED_WEB_BUNDLES_ECDSA_P256_PUBLIC_KEY_H_
 

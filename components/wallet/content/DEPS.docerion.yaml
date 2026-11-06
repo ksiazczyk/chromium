@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Wallet content DEPS include rules
+summary: Defines include rules for the wallet content component, granting access to content public APIs, Mojo bindings, Blink, Skia, service manager, and UI graphics headers.

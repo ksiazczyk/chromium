@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed Web Bundle signature verifier implementation
+// summary: Implements signature verification by hashing the unsigned bundle with SHA-512 and validating the integrity block and bundle identity.
+// ---
+
 #include "components/web_package/signed_web_bundles/signed_web_bundle_signature_verifier.h"
 
 #include <utility>

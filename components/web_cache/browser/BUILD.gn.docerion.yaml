@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for web cache browser
+summary: Defines the browser static library target with its sources and dependencies, plus a test-only source set for the web cache manager unit tests.

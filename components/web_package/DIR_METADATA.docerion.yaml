@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory Metadata for Bug Tracking
+summary: Maps the directory to the Blink>Loader>WebPackaging monorail component, the team email address, and a Buganizer component ID.

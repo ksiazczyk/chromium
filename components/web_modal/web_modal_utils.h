@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declaration of WebContentsHasActiveWebModal
+// summary: Declares the exported WebContentsHasActiveWebModal function that reports whether a WebContents has any active web modal dialogs.
+// ---
+
 #ifndef COMPONENTS_WEB_MODAL_WEB_MODAL_UTILS_H_
 #define COMPONENTS_WEB_MODAL_WEB_MODAL_UTILS_H_
 

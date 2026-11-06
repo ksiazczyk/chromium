@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallet barcode data model
+// summary: Defines the WalletBarcodeFormat enum mirroring the Shape Detection API barcode formats and the WalletBarcode struct with raw value and format.
+// ---
+
 #ifndef COMPONENTS_WALLET_CORE_BROWSER_DATA_MODELS_WALLET_BARCODE_H_
 #define COMPONENTS_WALLET_CORE_BROWSER_DATA_MODELS_WALLET_BARCODE_H_
 

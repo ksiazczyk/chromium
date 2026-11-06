@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallet pass implementation
+// summary: Implements default constructors and assignment operators for the pass structs and GetPassCategory, which dispatches the pass variant to its category.
+// ---
+
 #include "components/wallet/core/browser/data_models/wallet_pass.h"
 
 #include "third_party/abseil-cpp/absl/functional/overload.h"

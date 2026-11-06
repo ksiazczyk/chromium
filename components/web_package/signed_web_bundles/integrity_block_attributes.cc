@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Integrity block attributes implementation
+// summary: Implements the IntegrityBlockAttributes class that stores a web bundle ID and its CBOR-encoded attributes.
+// ---
+
 #include "components/web_package/signed_web_bundles/integrity_block_attributes.h"
 
 namespace web_package {

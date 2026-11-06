@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: WebAPK common library build file
+summary: GN build file defining the WebAPK common Android library sources and the splash screen resources for the component.

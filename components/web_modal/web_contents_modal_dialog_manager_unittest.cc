@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the web contents modal dialog manager
+// summary: Unit tests for WebContentsModalDialogManager covering dialog showing, closing, focus, host changes, and close-on-navigation observers using test doubles.
+// ---
+
 #include "components/web_modal/web_contents_modal_dialog_manager.h"
 
 #include <array>

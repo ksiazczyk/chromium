@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Integrity block parser unit tests
+// summary: GTest unit tests for parse_integrity_block covering invalid CBOR, wrong magic or version bytes, malformed attributes, and invalid signature entries.
+// ---
+
 use cbor::{Map, MapEntry, MapKey, Value};
 use rust_gtest_interop::prelude::*;
 use signed_web_bundles_rust::*;

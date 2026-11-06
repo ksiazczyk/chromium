@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for Signed Web Bundles
+summary: Ownership file that delegates review ownership to the isolated web apps PLATFORM_OWNERS list.

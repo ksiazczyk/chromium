@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Walletable pass detection permission utilities implementation
+// summary: Implements checks for walletable pass detection eligibility based on feature flags, signed-in account GAIA ID and a country allowlist, and reads or writes the account-keyed opt-in pref.
+// ---
+
 #include "components/wallet/core/browser/walletable_permission_utils.h"
 
 #include <iterator>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ed25519 key pair implementation for signed web bundle tests
+// summary: Implements random Ed25519 key pair generation and message signing, with an option to corrupt the signature for invalid-signature test cases.
+// ---
+
 #include "components/web_package/test_support/signed_web_bundles/ed25519_key_pair.h"
 
 #include <algorithm>

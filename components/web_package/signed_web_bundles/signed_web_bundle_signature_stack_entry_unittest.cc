@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signed Web Bundle signature stack entry unit tests
+// summary: Unit tests verifying the getters of a signature stack entry using Ed25519 public key and signature test data.
+// ---
+
 #include "components/web_package/signed_web_bundles/signed_web_bundle_signature_stack_entry.h"
 
 #include <array>

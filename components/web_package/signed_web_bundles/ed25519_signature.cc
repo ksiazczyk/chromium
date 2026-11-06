@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ed25519 signature implementation
+// summary: Implements creation of Ed25519Signature instances from byte spans and signature verification through the signed web bundles Rust helper.
+// ---
+
 #include "components/web_package/signed_web_bundles/ed25519_signature.h"
 
 #include <algorithm>

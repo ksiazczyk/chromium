@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Common splash screen dimension resources
+summary: Android resource XML defining dimension values such as splash icon sizes and title margins used by the WebAPK splash screen layout.
+-->
+
 <resources>
     <dimen name="webapp_splash_offset">32dp</dimen>
     <dimen name="webapp_splash_image_size_ideal">128dp</dimen>

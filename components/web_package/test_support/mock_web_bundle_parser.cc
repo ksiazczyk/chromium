@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockWebBundleParser implementation
+// summary: Implements a mock WebBundleParser Mojo service that can simulate crashes, disconnects, and configurable parse results for web bundle tests.
+// ---
+
 #include "components/web_package/test_support/mock_web_bundle_parser.h"
 
 #include "mojo/public/cpp/bindings/pending_receiver.h"

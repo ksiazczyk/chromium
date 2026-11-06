@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ed25519 public key implementation
+// summary: Implements Ed25519PublicKey creation with 32-byte length validation, using the BoringSSL curve25519 key length constant.
+// ---
+
 #include "components/web_package/signed_web_bundles/ed25519_public_key.h"
 
 #include <algorithm>

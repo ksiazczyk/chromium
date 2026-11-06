@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetUnmaskedPassRequest implementation
+// summary: Implements the wallet request that fetches an unmasked private pass by ID via the privatePasses:batchGet endpoint and maps results or errors to the callback.
+// ---
+
 #include "components/wallet/core/browser/network/get_unmasked_pass_request.h"
 
 #include "base/notimplemented.h"

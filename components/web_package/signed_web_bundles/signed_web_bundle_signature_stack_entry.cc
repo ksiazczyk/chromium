@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signature stack entry implementation
+// summary: Implements constructors, assignment operators and destructor for the SignedWebBundleSignatureStackEntry value type.
+// ---
+
 #include "components/web_package/signed_web_bundles/signed_web_bundle_signature_stack_entry.h"
 
 namespace web_package {

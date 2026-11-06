@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed web bundle integrity block implementation
+// summary: Implements SignedWebBundleIntegrityBlock::Create, validating size, signature stack and web bundle ID from parsed Mojo integrity block data.
+// ---
+
 #include "components/web_package/signed_web_bundles/signed_web_bundle_integrity_block.h"
 
 #include <string>

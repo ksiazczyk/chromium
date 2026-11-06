@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModalDialogHost default implementations
+// summary: Provides default ModalDialogHost behavior, activating dialogs and constraining their bounds to the host by default.
+// ---
+
 #include "components/web_modal/modal_dialog_host.h"
 
 namespace web_modal {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ImageExtractor browser tests
+// summary: Tests image extraction from base64 PNG data URIs against wallet size and aspect ratio filters using a RenderViewTest fixture and Mojo binding.
+// ---
+
 #include "components/wallet/content/renderer/image_extractor.h"
 
 #include <memory>

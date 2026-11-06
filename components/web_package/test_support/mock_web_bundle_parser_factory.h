@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockWebBundleParserFactory class declaration
+// summary: Declares MockWebBundleParserFactory, a WebBundleParserFactory test double offering wait/run and preset parse result modes for unit and browser tests.
+// ---
+
 #ifndef COMPONENTS_WEB_PACKAGE_TEST_SUPPORT_MOCK_WEB_BUNDLE_PARSER_FACTORY_H_
 #define COMPONENTS_WEB_PACKAGE_TEST_SUPPORT_MOCK_WEB_BUNDLE_PARSER_FACTORY_H_
 

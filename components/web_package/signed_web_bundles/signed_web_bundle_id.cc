@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed web bundle ID implementation
+// summary: Implements creation and validation of base32-encoded signed web bundle IDs for Ed25519, ECDSA P-256 and proxy mode public keys.
+// ---
+
 #include "components/web_package/signed_web_bundles/signed_web_bundle_id.h"
 
 #include <algorithm>

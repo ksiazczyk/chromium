@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signature verification and payload helpers
+// summary: Builds empty integrity block CBOR and signature payloads, verifies Ed25519 and ECDSA P-256 signatures via BoringSSL, and provides a streaming SHA-512 hasher.
+// ---
+
 use alloc::vec::Vec;
 
 use crate::constants::{MAGIC_BYTES, V2_VERSION_BYTES};

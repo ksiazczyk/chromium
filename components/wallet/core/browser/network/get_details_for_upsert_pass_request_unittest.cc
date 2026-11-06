@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GetDetailsForUpsertPassRequest unit tests
+// summary: Unit tests covering the URL path, proto request body, and success, ineligible, and error response handling of the get-details-for-upsert-pass request.
+// ---
+
 #include "components/wallet/core/browser/network/get_details_for_upsert_pass_request.h"
 
 #include <utility>

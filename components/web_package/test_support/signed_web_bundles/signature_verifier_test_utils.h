@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signature verifier test utilities declarations
+// summary: Declares MockSignatureVerifier plus helpers for building signature stack entries, parsing integrity blocks, and verifying signatures in tests.
+// ---
+
 #ifndef COMPONENTS_WEB_PACKAGE_TEST_SUPPORT_SIGNED_WEB_BUNDLES_SIGNATURE_VERIFIER_TEST_UTILS_H_
 #define COMPONENTS_WEB_PACKAGE_TEST_SUPPORT_SIGNED_WEB_BUNDLES_SIGNATURE_VERIFIER_TEST_UTILS_H_
 

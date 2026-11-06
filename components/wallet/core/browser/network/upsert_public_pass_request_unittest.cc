@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for UpsertPublicPassRequest
+// summary: Unit tests verifying the URL path, proto request content for loyalty cards and pass IDs, and success and error response handling of UpsertPublicPassRequest.
+// ---
+
 #include "components/wallet/core/browser/network/upsert_public_pass_request.h"
 
 #include "base/test/bind.h"

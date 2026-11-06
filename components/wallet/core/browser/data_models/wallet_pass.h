@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallet pass data models
+// summary: Declares the PassCategory enum and the LoyaltyCard, EventPass, TransitTicket and WalletPass structs storing fields extracted from passes for display and network requests.
+// ---
+
 #ifndef COMPONENTS_WALLET_CORE_BROWSER_DATA_MODELS_WALLET_PASS_H_
 #define COMPONENTS_WALLET_CORE_BROWSER_DATA_MODELS_WALLET_PASS_H_
 

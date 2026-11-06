@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed Web Bundle shared type aliases
+// summary: Defines common aliases for public key variants, binary data, and CBOR attribute maps used across signed web bundles.
+// ---
+
 #ifndef COMPONENTS_WEB_PACKAGE_SIGNED_WEB_BUNDLES_TYPES_H_
 #define COMPONENTS_WEB_PACKAGE_SIGNED_WEB_BUNDLES_TYPES_H_
 

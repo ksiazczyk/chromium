@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web bundle parser Mojom traits declarations
+// summary: Declares StructTraits specializations that map Mojom structs to web_package C++ types for serialization.
+// ---
+
 #ifndef COMPONENTS_WEB_PACKAGE_MOJOM_WEB_BUNDLE_PARSER_MOJOM_TRAITS_H_
 #define COMPONENTS_WEB_PACKAGE_MOJOM_WEB_BUNDLE_PARSER_MOJOM_TRAITS_H_
 

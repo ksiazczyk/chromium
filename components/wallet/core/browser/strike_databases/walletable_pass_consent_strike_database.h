@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Walletable pass consent strike database header
+// summary: Declares a history-clearable strike database that tracks walletable pass consent globally under a shared key, with a maximum strike limit of 2.
+// ---
+
 #ifndef COMPONENTS_WALLET_CORE_BROWSER_STRIKE_DATABASES_WALLETABLE_PASS_CONSENT_STRIKE_DATABASE_H_
 #define COMPONENTS_WALLET_CORE_BROWSER_STRIKE_DATABASES_WALLETABLE_PASS_CONSENT_STRIKE_DATABASE_H_
 

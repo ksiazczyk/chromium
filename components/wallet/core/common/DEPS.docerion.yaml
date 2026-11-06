@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for wallet common
+summary: Allows the wallet common directory to include headers from components/pref_registry.

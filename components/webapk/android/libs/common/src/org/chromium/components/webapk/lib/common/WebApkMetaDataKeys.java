@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'WebApkMetaDataKeys: meta-data keys for the WebAPK Android Manifest'
+// summary: Defines the <meta-data> key strings used in the WebAPK Android Manifest, covering shell APK version, host, display, icons, colors, sharing and distributor settings.
+// ---
+
 package org.chromium.components.webapk.lib.common;
 
 import org.chromium.build.annotations.NullMarked;

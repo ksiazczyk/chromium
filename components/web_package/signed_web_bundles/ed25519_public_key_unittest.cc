@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ed25519 public key unit tests
+// summary: Unit tests covering valid and invalid Ed25519 public key creation and the equality comparators of the Ed25519PublicKey class.
+// ---
+
 #include <vector>
 
 #include "components/web_package/signed_web_bundles/ed25519_public_key.h"

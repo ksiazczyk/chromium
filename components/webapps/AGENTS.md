@@ -1,3 +1,13 @@
+---
+type: guide
+title: Web Applications Central Hub (components/webapps)
+summary: Central hub for agents covering invariants, the webapps ecosystem map, and verification and testing guidance for PWA, WebAPK, and IWA code.
+relations:
+  - references /chrome/android/java/src/org/chromium/chrome/browser/webapps/AGENTS.md
+  - references /chrome/android/java/src/org/chromium/chrome/browser/webapps/README.md
+  - references /chrome/browser/android/webapk/AGENTS.md
+---
+
 # Web Applications Central Hub (components/webapps)
 
 Central Hub for Progressive Web Apps (PWAs), WebAPKs, Isolated Web Apps (IWAs),

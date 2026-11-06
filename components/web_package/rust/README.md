@@ -1,3 +1,9 @@
+---
+type: readme
+title: Web Package Rust Parser (components/web_package/rust)
+summary: Describes the directory's no_std Rust implementation for safely parsing Web Bundle CBOR structures and exposing them to C++ via cpp_api_from_rust bindings.
+---
+
 # Web Package Rust Parser (`components/web_package/rust`)
 
 This directory contains the memory-safe `#![no_std]` Rust implementation

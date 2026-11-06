@@ -1,3 +1,13 @@
+---
+type: readme
+title: Web Packaging Component Overview
+summary: Overview of the shared code for parsing, validating, and building Web Bundles and Signed Web Bundles, with companion docs and an architecture and subdirectory map.
+relations:
+  - references /components/web_package/AGENTS.md
+  - references /components/web_package/rust/README.md
+  - references /components/web_package/signed_web_bundles/AGENTS.md
+---
+
 # Web Packaging Component (`components/web_package`)
 
 This directory contains shared code for parsing, validating, and building

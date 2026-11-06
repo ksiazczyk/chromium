@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web modal export macros
+// summary: Defines the WEB_MODAL_EXPORT macro controlling symbol visibility for the web_modal component on Windows and other platforms.
+// ---
+
 #ifndef COMPONENTS_WEB_MODAL_WEB_MODAL_EXPORT_H_
 #define COMPONENTS_WEB_MODAL_WEB_MODAL_EXPORT_H_
 

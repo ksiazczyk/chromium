@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the web_cache component
+summary: Defines the allowed include dependencies for the web_cache component, permitting includes from components/prefs.

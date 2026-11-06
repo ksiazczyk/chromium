@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test WebContentsModalDialogHost implementation
+// summary: Implements a stub WebContentsModalDialogHost for tests that returns a fixed host view and dialog position.
+// ---
+
 #include "components/web_modal/test_web_contents_modal_dialog_host.h"
 
 #include "ui/gfx/geometry/point.h"

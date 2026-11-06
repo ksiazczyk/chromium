@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client info protocol buffer
+// summary: Defines the ClientInfo message identifying the Chrome client, such as Autofill or Web Page Detection, making wallet requests.
+// ---
+
 syntax = "proto2";
 
 package wallet;

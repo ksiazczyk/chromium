@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web bundle parser Mojom traits implementation
+// summary: Implements Mojo StructTraits Read functions that map Mojom structs to web_package C++ key, signature, and attribute types.
+// ---
+
 #include "components/web_package/mojom/web_bundle_parser_mojom_traits.h"
 
 #include "base/containers/span.h"

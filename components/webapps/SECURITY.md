@@ -1,3 +1,11 @@
+---
+type: note
+title: Web Apps Shared Components Security Notes
+summary: Documents the threat model and explicit non-bugs for the webapps shared components to guide security bug triage.
+relations:
+  - references /docs/security/security-for-agents.md
+---
+
 # Web Apps Shared Components Security Notes
 
 Supplemental security facts for `//components/webapps/*` (excluding test-only

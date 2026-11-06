@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ECDSA P-256 test key pair declarations
+// summary: Declares the EcdsaP256KeyPair struct and SignMessage helper used to create and sign with ECDSA P-256 keys in tests.
+// ---
+
 #ifndef COMPONENTS_WEB_PACKAGE_TEST_SUPPORT_SIGNED_WEB_BUNDLES_ECDSA_P256_KEY_PAIR_H_
 #define COMPONENTS_WEB_PACKAGE_TEST_SUPPORT_SIGNED_WEB_BUNDLES_ECDSA_P256_KEY_PAIR_H_
 

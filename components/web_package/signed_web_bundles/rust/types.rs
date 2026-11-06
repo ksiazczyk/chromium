@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Integrity block data types
+// summary: Defines SignatureType, SignatureStackEntry, IntegrityBlock, and ParseError types shared by the parser and verifier.
+// ---
+
 use alloc::string::String;
 use alloc::vec::Vec;
 

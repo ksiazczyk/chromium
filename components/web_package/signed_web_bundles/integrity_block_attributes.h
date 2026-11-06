@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Integrity block attributes class declaration
+// summary: Declares the IntegrityBlockAttributes class holding a web bundle ID and CBOR attribute bytes for signed web bundle integrity blocks.
+// ---
+
 #ifndef COMPONENTS_WEB_PACKAGE_SIGNED_WEB_BUNDLES_INTEGRITY_BLOCK_ATTRIBUTES_H_
 #define COMPONENTS_WEB_PACKAGE_SIGNED_WEB_BUNDLES_INTEGRITY_BLOCK_ATTRIBUTES_H_
 

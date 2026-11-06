@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signature verifier test utilities implementation
+// summary: Implements a mock signature verifier and helpers to build signature stack entries and parse signed web bundle integrity blocks from CBOR values.
+// ---
+
 #include "components/web_package/test_support/signed_web_bundles/signature_verifier_test_utils.h"
 
 #include <variant>

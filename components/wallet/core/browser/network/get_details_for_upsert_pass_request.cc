@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetDetailsForUpsertPassRequest implementation
+// summary: Implements the wallet request that fetches legal message and user eligibility details before upserting a public pass, mapping proto types and handling responses.
+// ---
+
 #include "components/wallet/core/browser/network/get_details_for_upsert_pass_request.h"
 
 #include <utility>

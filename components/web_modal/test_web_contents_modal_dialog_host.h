@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test WebContentsModalDialogHost declaration
+// summary: Declares a test WebContentsModalDialogHost double with a settable maximum dialog size for use in web_modal unit tests.
+// ---
+
 #ifndef COMPONENTS_WEB_MODAL_TEST_WEB_CONTENTS_MODAL_DIALOG_HOST_H_
 #define COMPONENTS_WEB_MODAL_TEST_WEB_CONTENTS_MODAL_DIALOG_HOST_H_
 

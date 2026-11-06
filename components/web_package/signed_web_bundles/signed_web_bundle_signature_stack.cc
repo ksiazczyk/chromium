@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed web bundle signature stack implementation
+// summary: Implements SignedWebBundleSignatureStack creation from Mojo entries, supporting Ed25519, ECDSA P-256 SHA256 and unknown signature types.
+// ---
+
 #include "components/web_package/signed_web_bundles/signed_web_bundle_signature_stack.h"
 
 #include <algorithm>

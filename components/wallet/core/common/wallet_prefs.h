@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallet preference declarations
+// summary: Declares the opt-in status preference name and the function that registers Wallet component preferences.
+// ---
+
 #ifndef COMPONENTS_WALLET_CORE_COMMON_WALLET_PREFS_H_
 #define COMPONENTS_WALLET_CORE_COMMON_WALLET_PREFS_H_
 

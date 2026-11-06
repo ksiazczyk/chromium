@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: web_package_rust crate root
+// summary: no_std, unsafe-free crate root that declares the parser modules and re-exports the public parsing functions, types and constants.
+// ---
+
 #![no_std]
 #![forbid(unsafe_code)]
 

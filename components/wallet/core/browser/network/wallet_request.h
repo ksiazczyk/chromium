@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WalletRequest base class declaration
+// summary: Declares the WalletRequest base class with a request type enum and virtual methods for URL path, content, headers, timeout, and response handling.
+// ---
+
 #ifndef COMPONENTS_WALLET_CORE_BROWSER_NETWORK_WALLET_REQUEST_H_
 #define COMPONENTS_WALLET_CORE_BROWSER_NETWORK_WALLET_REQUEST_H_
 

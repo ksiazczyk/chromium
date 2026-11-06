@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web Bundle CBOR parser
+// summary: Implements incremental CBOR parsing of Web Bundle magic, version, trailing length, sections, index, primary URLs and responses with uniform error reporting.
+// ---
+
 use alloc::collections::BTreeSet;
 use alloc::string::ToString;
 use alloc::vec::Vec;

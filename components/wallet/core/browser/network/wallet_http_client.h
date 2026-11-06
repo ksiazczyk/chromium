@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WalletHttpClient interface for Wallet backend requests
+// summary: Defines the WalletHttpClient interface with error codes, pass types, upsert details, and callbacks for upserting, retrieving, and getting details for wallet passes.
+// ---
+
 #ifndef COMPONENTS_WALLET_CORE_BROWSER_NETWORK_WALLET_HTTP_CLIENT_H_
 #define COMPONENTS_WALLET_CORE_BROWSER_NETWORK_WALLET_HTTP_CLIENT_H_
 

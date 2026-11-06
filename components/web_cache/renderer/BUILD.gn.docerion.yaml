@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the web cache renderer
+summary: Defines the static library target for the renderer web cache component, listing its sources and dependencies on base, content, Blink, Mojo and service manager.

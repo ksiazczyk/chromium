@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web bundle signer test implementation
+// summary: Implements a test signer that builds signed web bundle integrity blocks with configurable errors such as invalid key lengths or wrong attribute names.
+// ---
+
 #include "components/web_package/test_support/signed_web_bundles/web_bundle_signer.h"
 
 #include <limits>

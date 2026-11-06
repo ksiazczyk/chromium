@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallet metrics implementation
+// summary: Implements histogram logging for walletable pass opt-in, server extraction, and save funnels plus network request OAuth errors, latency, response size, and error codes.
+// ---
+
 #include "components/wallet/core/browser/metrics/wallet_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

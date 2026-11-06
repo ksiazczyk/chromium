@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkValidator
+// summary: Checks whether a URL is handled by a WebAPK and whether the WebAPK is signed by the WebAPK Minting Server.
+// ---
+
 package org.chromium.components.webapk.lib.client;
 
 import static org.chromium.build.NullUtil.assumeNonNull;
