@@ -1,0 +1,4 @@
+# Docerion header of name-button-label-expected-blink.txt.
+type: test
+title: Expected Blink result for button label name test
+summary: Expected accessible name output for the button aria-label test on the Blink engine.

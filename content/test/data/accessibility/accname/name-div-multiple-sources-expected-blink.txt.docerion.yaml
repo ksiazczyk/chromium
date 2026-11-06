@@ -1,0 +1,4 @@
+# Docerion header of name-div-multiple-sources-expected-blink.txt.
+type: test
+title: Expected Blink result for div name from multiple sources
+summary: Expected Blink accessibility tree output for the div whose name is computed from multiple sources.

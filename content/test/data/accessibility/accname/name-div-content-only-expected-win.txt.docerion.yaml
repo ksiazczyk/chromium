@@ -1,0 +1,4 @@
+# Docerion header of name-div-content-only-expected-win.txt.
+type: test
+title: Expected Windows output for name-div-content-only test
+summary: Expected name computation result for the name-div-content-only accessibility test on Windows, expecting IA2_ROLE_SECTION.

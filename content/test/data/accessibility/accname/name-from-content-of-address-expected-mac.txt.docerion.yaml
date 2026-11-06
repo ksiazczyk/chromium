@@ -1,0 +1,4 @@
+# Docerion header of name-from-content-of-address-expected-mac.txt.
+type: test
+title: Mac expected output for name-from-content-of-address test
+summary: Expected macOS AX accessibility output for the accname test where an address element contributes to a link's name.

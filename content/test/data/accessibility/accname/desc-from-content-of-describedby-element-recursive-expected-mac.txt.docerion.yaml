@@ -1,0 +1,4 @@
+# Docerion header of desc-from-content-of-describedby-element-recursive-expected-mac.txt.
+type: test
+title: Expected Mac output for recursive description from describedby element
+summary: Expected Mac accessibility output for the recursive description from content of an aria-describedby element.

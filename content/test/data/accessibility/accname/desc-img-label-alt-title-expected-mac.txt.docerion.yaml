@@ -1,0 +1,4 @@
+# Docerion header of desc-img-label-alt-title-expected-mac.txt.
+type: test
+title: Expected Mac description for image with label, alt and title
+summary: Expected macOS accessibility output for an image with aria-label, alt and title, showing the label used as the description.

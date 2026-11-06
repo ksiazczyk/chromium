@@ -1,0 +1,4 @@
+# Docerion header of desc-img-describedby-expected-mac.txt.
+type: test
+title: Mac expected result for image aria-describedby test
+summary: Expected macOS accessibility output for the image aria-describedby test, containing the missing image description hint text.

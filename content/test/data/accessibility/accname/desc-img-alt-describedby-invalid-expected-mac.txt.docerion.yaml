@@ -1,0 +1,4 @@
+# Docerion header of desc-img-alt-describedby-invalid-expected-mac.txt.
+type: test
+title: Expected Mac output for img alt with invalid describedby reference
+summary: Expected Mac accessibility output when an image's aria-describedby attribute points to a nonexistent element.

@@ -1,0 +1,4 @@
+# Docerion header of name-checkbox-css-after-in-label-expected-blink.txt.
+type: test
+title: Expected Blink name for checkbox with CSS after in label
+summary: Expected Blink output for a checkbox whose label text is extended by CSS :after content.

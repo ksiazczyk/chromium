@@ -1,0 +1,4 @@
+# Docerion header of name-checkbox-label-embedded-slider-expected-blink.txt.
+type: test
+title: Expected Blink name for checkbox with embedded slider label
+summary: Expected accessible name output for Blink for a checkbox whose label embeds a slider, asserting the name 'foo 5 baz' from the related element.

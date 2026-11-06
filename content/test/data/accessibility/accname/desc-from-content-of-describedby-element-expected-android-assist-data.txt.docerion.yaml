@@ -1,0 +1,4 @@
+# Docerion header of desc-from-content-of-describedby-element-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for describedby description test
+summary: Expected Android assist data for the accessible description derived from the content of an aria-describedby element.

@@ -1,0 +1,4 @@
+# Docerion header of name-checkbox-label-expected-mac.txt.
+type: test
+title: Expected Mac accessible name for checkbox with label
+summary: Expected Mac AXCheckBox output for a checkbox named via its label element.

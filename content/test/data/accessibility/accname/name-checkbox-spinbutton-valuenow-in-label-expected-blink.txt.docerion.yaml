@@ -1,0 +1,4 @@
+# Docerion header of name-checkbox-spinbutton-valuenow-in-label-expected-blink.txt.
+type: test
+title: Expected Blink name for checkbox with spinbutton valuenow in label
+summary: Expected accessibility tree output on Blink for a checkbox whose label contains a spinbutton with aria-valuenow 4.

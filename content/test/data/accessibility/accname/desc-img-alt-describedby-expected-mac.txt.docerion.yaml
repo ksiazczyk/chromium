@@ -1,0 +1,4 @@
+# Docerion header of desc-img-alt-describedby-expected-mac.txt.
+type: test
+title: Expected Mac output for img alt with aria-describedby
+summary: Expected Mac accessibility output for an image whose description comes from an aria-describedby element.

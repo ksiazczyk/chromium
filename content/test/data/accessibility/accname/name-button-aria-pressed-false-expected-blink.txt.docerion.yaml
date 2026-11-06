@@ -1,0 +1,4 @@
+# Docerion header of name-button-aria-pressed-false-expected-blink.txt.
+type: test
+title: Expected Blink name for button with aria-pressed false
+summary: Expected Blink accessibility output for a toggle button whose name comes from its contents.

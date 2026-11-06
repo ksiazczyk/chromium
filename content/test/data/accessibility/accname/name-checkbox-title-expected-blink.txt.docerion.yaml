@@ -1,0 +1,4 @@
+# Docerion header of name-checkbox-title-expected-blink.txt.
+type: test
+title: Expected Blink name for checkbox titled via title attribute
+summary: Expected accessibility tree output on Blink for a checkbox whose accessible name comes from its title attribute.

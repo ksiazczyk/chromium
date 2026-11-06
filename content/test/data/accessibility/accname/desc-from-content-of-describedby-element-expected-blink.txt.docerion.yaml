@@ -1,0 +1,4 @@
+# Docerion header of desc-from-content-of-describedby-element-expected-blink.txt.
+type: test
+title: Expected Blink output for description from content of describedby element
+summary: Expected Blink accessibility output for the description from describedby element content, with a comment referencing an accname spec issue.

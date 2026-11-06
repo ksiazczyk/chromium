@@ -1,0 +1,4 @@
+# Docerion header of name-from-list-item-expected-mac.txt.
+type: test
+title: Name from list item expected Mac output
+summary: Expected Mac accessibility output for the name-from-list-item test, showing a text field titled 'List item'.

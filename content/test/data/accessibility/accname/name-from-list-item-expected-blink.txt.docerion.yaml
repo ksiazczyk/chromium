@@ -1,0 +1,4 @@
+# Docerion header of name-from-list-item-expected-blink.txt.
+type: test
+title: Expected Blink name for list item test
+summary: Expected Blink output for a list item's accessible name, noting Chrome's traditional exclusion of the list marker.

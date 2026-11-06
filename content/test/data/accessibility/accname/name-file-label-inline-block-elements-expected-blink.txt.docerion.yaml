@@ -1,0 +1,4 @@
+# Docerion header of name-file-label-inline-block-elements-expected-blink.txt.
+type: test
+title: Blink expected result for file input label with inline block elements
+summary: Expected Blink accessibility output for a file input labeled with text containing inline and block elements.

@@ -1,0 +1,4 @@
+# Docerion header of name-file-label-inline-hidden-elements-expected-mac.txt.
+type: test
+title: Mac expected result for file label with hidden inline elements
+summary: Expected Mac AX accessibility output for a file input whose label contains hidden inline elements.

@@ -1,0 +1,4 @@
+# Docerion header of name-from-content-whitespace-block-children-expected-blink.txt.
+type: test
+title: Expected Blink name for whitespace block children
+summary: Expected accessible name result for the name-from-content whitespace block children test on Blink.

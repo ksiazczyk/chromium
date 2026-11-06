@@ -1,0 +1,4 @@
+# Docerion header of name-image-input-label-with-input-expected-mac.txt.
+type: test
+title: Expected Mac result for image input label with nested input test
+summary: Expected AXButton title output on macOS for an image input whose label contains a nested text input.

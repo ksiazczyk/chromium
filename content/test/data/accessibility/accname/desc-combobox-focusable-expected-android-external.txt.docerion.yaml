@@ -1,0 +1,4 @@
+# Docerion header of desc-combobox-focusable-expected-android-external.txt.
+type: test
+title: Expected Android external output for focusable combobox description test
+summary: Expected Android external accessibility tree for the accessible description of a focusable combobox.

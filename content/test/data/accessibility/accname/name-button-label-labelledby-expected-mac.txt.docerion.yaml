@@ -1,0 +1,4 @@
+# Docerion header of name-button-label-labelledby-expected-mac.txt.
+type: test
+title: Expected Mac result for button label labelledby name test
+summary: Expected macOS accessibility output for the button labelled via aria-labelledby test.

@@ -1,0 +1,4 @@
+# Docerion header of name-checkbox-css-before-and-after-with-whitespace-expected-blink.txt.
+type: test
+title: Expected Blink name for checkbox with CSS before and after whitespace
+summary: Expected Blink output for a checkbox name built from CSS before and after content with whitespace.

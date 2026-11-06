@@ -1,0 +1,4 @@
+# Docerion header of name-div-multiple-sources-expected-mac.txt.
+type: test
+title: Expected Mac result for div name from multiple sources
+summary: Expected macOS accessibility output for the div whose name is computed from multiple sources.

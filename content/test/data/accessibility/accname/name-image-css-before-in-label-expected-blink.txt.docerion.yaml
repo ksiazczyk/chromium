@@ -1,0 +1,4 @@
+# Docerion header of name-image-css-before-in-label-expected-blink.txt.
+type: test
+title: Expected Blink output for CSS before-in-label name test
+summary: Expected accessible name result for the CSS before-in-label image input test on the Blink platform.

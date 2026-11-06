@@ -1,0 +1,4 @@
+# Docerion header of name-checkbox-label-multiple-label-expected-mac.txt.
+type: test
+title: Mac expected output for checkbox name from multiple labels
+summary: Expected Mac AX accessibility output for a checkbox whose accessible name is combined from two associated labels.

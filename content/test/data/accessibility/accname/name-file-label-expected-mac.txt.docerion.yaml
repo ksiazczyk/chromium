@@ -1,0 +1,4 @@
+# Docerion header of name-file-label-expected-mac.txt.
+type: test
+title: Mac expected result for file input label accessible name
+summary: Expected Mac AX accessibility output for a file input whose accessible name comes from a related label element.

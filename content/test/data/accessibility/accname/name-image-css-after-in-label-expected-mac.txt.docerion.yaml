@@ -1,0 +1,4 @@
+# Docerion header of name-image-css-after-in-label-expected-mac.txt.
+type: test
+title: Image CSS after in label expected Mac output
+summary: Expected Mac accessibility output for the image CSS after in label test, showing a button titled 'fancy fruit'.

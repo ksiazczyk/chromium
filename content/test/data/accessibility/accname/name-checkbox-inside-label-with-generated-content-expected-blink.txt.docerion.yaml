@@ -1,0 +1,4 @@
+# Docerion header of name-checkbox-inside-label-with-generated-content-expected-blink.txt.
+type: test
+title: Expected Blink result for checkbox name with generated label content
+summary: Expected accessible name output for the checkbox-inside-label-with-generated-content test on Blink.

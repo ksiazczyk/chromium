@@ -1,0 +1,4 @@
+# Docerion header of name-from-content-of-labelledby-element-expected-blink.txt.
+type: test
+title: Blink expected output for name-from-content-of-labelledby test
+summary: Expected Blink accessibility tree output for the accname test where an aria-labelledby element's content names a text field.

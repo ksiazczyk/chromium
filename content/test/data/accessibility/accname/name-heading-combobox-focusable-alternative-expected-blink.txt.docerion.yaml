@@ -1,0 +1,4 @@
+# Docerion header of name-heading-combobox-focusable-alternative-expected-blink.txt.
+type: test
+title: Heading combobox focusable alternative expected Blink output
+summary: "Expected Blink output for the heading combobox focusable alternative test, giving the heading name 'Country of origin: United States' from contents."

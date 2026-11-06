@@ -1,0 +1,4 @@
+# Docerion header of name-checkbox-input-in-label-expected-mac.txt.
+type: test
+title: Expected Mac result for checkbox name with input in label
+summary: Expected macOS accessibility output for the checkbox-with-nested-input-label test.

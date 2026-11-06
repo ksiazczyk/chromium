@@ -1,0 +1,4 @@
+# Docerion header of desc-img-alt-describedby-presentational-dynamic.html.
+type: test
+title: Dynamic presentational describedby image description test page
+summary: HTML test page that uses JavaScript to add a presentational span referenced by an image's aria-describedby after a timeout.

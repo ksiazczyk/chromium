@@ -1,0 +1,4 @@
+# Docerion header of name-file-default-rtl-expected-mac.txt.
+type: test
+title: Expected Mac accessible name for default RTL file input
+summary: Expected Mac AXButton title for a default right-to-left file input.

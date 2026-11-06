@@ -1,0 +1,4 @@
+# Docerion header of name-button-role-title-only-expected-blink.txt.
+type: test
+title: Expected Blink output for role button named from title
+summary: Expected Blink accessibility output for a div with role button whose name comes only from its title attribute.

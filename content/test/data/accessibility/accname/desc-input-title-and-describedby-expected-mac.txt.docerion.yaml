@@ -1,0 +1,4 @@
+# Docerion header of desc-input-title-and-describedby-expected-mac.txt.
+type: test
+title: Expected Mac description for input with title and describedby
+summary: Expected macOS accessibility output for a text input with aria-label, title and aria-describedby.

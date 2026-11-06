@@ -1,0 +1,4 @@
+# Docerion header of name-heading-combobox-focusable-alternative-expected-mac.txt.
+type: test
+title: Heading combobox focusable alternative expected Mac output
+summary: "Expected Mac accessibility output for the heading combobox focusable alternative test, showing an AXHeading titled 'Country of origin: United States'."

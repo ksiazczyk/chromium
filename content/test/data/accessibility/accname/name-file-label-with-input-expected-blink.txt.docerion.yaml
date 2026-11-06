@@ -1,0 +1,4 @@
+# Docerion header of name-file-label-with-input-expected-blink.txt.
+type: test
+title: Expected Blink name for file input label containing an input
+summary: Expected accessible name output for the file input whose label text embeds a text input value, for the Blink platform.

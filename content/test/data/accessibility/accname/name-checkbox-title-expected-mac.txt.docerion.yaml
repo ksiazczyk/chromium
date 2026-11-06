@@ -1,0 +1,4 @@
+# Docerion header of name-checkbox-title-expected-mac.txt.
+type: test
+title: Expected macOS name for checkbox titled via title attribute
+summary: Expected macOS accessibility output for a checkbox whose accessible name comes from its title attribute.

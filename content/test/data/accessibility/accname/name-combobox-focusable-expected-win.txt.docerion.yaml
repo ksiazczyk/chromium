@@ -1,0 +1,4 @@
+# Docerion header of name-combobox-focusable-expected-win.txt.
+type: test
+title: Expected Windows output for name-combobox-focusable test
+summary: Expected Windows accessibility output for the focusable combobox name test, expecting a focusable combobox with popup whose name comes from its tooltip.

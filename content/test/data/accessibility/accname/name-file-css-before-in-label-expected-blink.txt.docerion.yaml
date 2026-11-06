@@ -1,0 +1,4 @@
+# Docerion header of name-file-css-before-in-label-expected-blink.txt.
+type: test
+title: Expected Blink accessible name for file input with CSS before in label
+summary: Expected accessible name output for a file input whose label gains text via CSS :before, as computed by Blink.

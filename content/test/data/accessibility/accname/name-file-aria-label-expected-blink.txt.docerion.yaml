@@ -1,0 +1,4 @@
+# Docerion header of name-file-aria-label-expected-blink.txt.
+type: test
+title: Expected Blink result for file input with aria-label
+summary: Expected Blink accessibility tree output for the file input named via aria-label test.

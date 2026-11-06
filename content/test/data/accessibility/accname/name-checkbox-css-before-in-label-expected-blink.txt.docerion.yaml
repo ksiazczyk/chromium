@@ -1,0 +1,4 @@
+# Docerion header of name-checkbox-css-before-in-label-expected-blink.txt.
+type: test
+title: Expected Blink name for checkbox with CSS before in label
+summary: Expected Blink output for a checkbox whose label text is extended by CSS ::before content.

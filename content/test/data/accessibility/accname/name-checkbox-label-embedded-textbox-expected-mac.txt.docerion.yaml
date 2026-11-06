@@ -1,0 +1,4 @@
+# Docerion header of name-checkbox-label-embedded-textbox-expected-mac.txt.
+type: test
+title: Expected Mac accessible name for checkbox with embedded textbox
+summary: Expected Mac AXCheckBox output for a checkbox whose label embeds a contenteditable textbox.

@@ -1,0 +1,4 @@
+# Docerion header of desc-img-alt-describedby-expected-blink.txt.
+type: test
+title: Expected Blink output for image alt describedby description test
+summary: Expected Blink accessibility output for an image whose description comes from its alt text via aria-describedby.

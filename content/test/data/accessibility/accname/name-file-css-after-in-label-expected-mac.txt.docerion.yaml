@@ -1,0 +1,4 @@
+# Docerion header of name-file-css-after-in-label-expected-mac.txt.
+type: test
+title: Expected Mac accessible name for file input with CSS after in label
+summary: Expected Mac AXButton title for a file input whose label gains text via CSS :after content.

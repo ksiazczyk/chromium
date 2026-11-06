@@ -1,0 +1,4 @@
+# Docerion header of name-from-content-of-labelledby-elements-one-of-which-is-hidden-expected-mac.txt.
+type: test
+title: Expected Mac name for labelledby elements with one hidden
+summary: Expected accessible name result for the labelledby test with one hidden label on macOS.

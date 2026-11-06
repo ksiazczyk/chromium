@@ -1,0 +1,4 @@
+# Docerion header of name-div-content-only-expected-mac.txt.
+type: test
+title: Expected Mac output for name-div-content-only test
+summary: Expected name computation result for the name-div-content-only accessibility test on macOS, expecting an AXGroup.

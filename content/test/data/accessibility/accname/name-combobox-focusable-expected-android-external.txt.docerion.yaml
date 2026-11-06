@@ -1,0 +1,4 @@
+# Docerion header of name-combobox-focusable-expected-android-external.txt.
+type: test
+title: Expected Android external output for name-combobox-focusable test
+summary: Expected Android external accessibility tree for the focusable combobox name test, showing a spinner named 'English' with hint 'Choose your language.'

@@ -1,0 +1,4 @@
+# Docerion header of name-image-spinbutton-valuenow-in-label-expected-blink.txt.
+type: test
+title: Expected Blink result for spinbutton valuenow in label name test
+summary: Expected accessible name output on Blink for an image input whose label includes a spinbutton's aria-valuenow.

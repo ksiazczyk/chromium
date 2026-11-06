@@ -1,0 +1,4 @@
+# Docerion header of name-file-label-embedded-combobox-expected-mac.txt.
+type: test
+title: Expected Mac result for file input label with embedded combobox
+summary: Expected macOS accessibility output for the file input label-embedded-combobox test case.

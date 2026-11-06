@@ -1,0 +1,4 @@
+# Docerion header of name-combobox-focusable-expected-blink.txt.
+type: test
+title: Expected Blink output for name-combobox-focusable test
+summary: Expected Blink accessibility output for the focusable combobox name test, expecting the name to be taken from the title attribute.

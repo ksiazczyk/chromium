@@ -1,0 +1,4 @@
+# Docerion header of desc-img-alt-describedby-presentational-expected-blink.txt.
+type: test
+title: Blink expected result for presentational describedby image test
+summary: Expected Blink accessibility output for an image whose description is provided by a presentational aria-describedby element.

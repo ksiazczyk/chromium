@@ -1,0 +1,4 @@
+# Docerion header of name-from-content-whitespace-inline-table-children-expected-blink.txt.
+type: test
+title: Expected Blink name for inline-table children whitespace test
+summary: Expected Blink output asserting a button's name and nameFrom value when built from adjacent inline-table child spans.

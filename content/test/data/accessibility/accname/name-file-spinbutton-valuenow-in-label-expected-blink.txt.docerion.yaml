@@ -1,0 +1,4 @@
+# Docerion header of name-file-spinbutton-valuenow-in-label-expected-blink.txt.
+type: test
+title: Blink expectation for file spinbutton valuenow in label
+summary: Expected Blink result for the accessible name of a file input whose label contains a spinbutton aria-valuenow.

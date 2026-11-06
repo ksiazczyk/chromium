@@ -1,0 +1,4 @@
+# Docerion header of name-file-default-expected-mac.txt.
+type: test
+title: Expected Mac accessible name for default file input
+summary: Expected Mac AXButton title for an unlabeled default file input.

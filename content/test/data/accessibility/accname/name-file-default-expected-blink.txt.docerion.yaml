@@ -1,0 +1,4 @@
+# Docerion header of name-file-default-expected-blink.txt.
+type: test
+title: Expected Blink accessible name for default file input
+summary: Expected accessible name output for an unlabeled default file input as computed by Blink.

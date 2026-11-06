@@ -1,0 +1,4 @@
+# Docerion header of name-div-content-only-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for name-div-content-only test
+summary: Expected Android assist data for the div content-only name test, describing the view hierarchy of a div containing the text 'Div with text'.

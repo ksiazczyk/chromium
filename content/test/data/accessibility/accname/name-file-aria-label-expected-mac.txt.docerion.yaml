@@ -1,0 +1,4 @@
+# Docerion header of name-file-aria-label-expected-mac.txt.
+type: test
+title: Expected Mac result for file input with aria-label
+summary: Expected macOS accessibility output for the file input named via aria-label test.

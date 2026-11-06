@@ -1,0 +1,4 @@
+# Docerion header of name-checkbox-spinbutton-valuenow-in-label-expected-mac.txt.
+type: test
+title: Expected macOS name for checkbox with spinbutton valuenow in label
+summary: Expected macOS accessibility output for the checkbox whose label contains a spinbutton with aria-valuenow.

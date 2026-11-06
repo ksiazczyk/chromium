@@ -1,0 +1,4 @@
+# Docerion header of name-image-input-label-expected-mac.txt.
+type: test
+title: Expected Mac result for image input label accessible name test
+summary: Expected AXButton title output on macOS for an image input whose name comes from an associated label element.

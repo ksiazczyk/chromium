@@ -1,0 +1,4 @@
+# Docerion header of name-file-label-owned-combobox-expected-blink.txt.
+type: test
+title: Expected Blink name for file input label with owned combobox
+summary: Expected accessible name output for the file input label with an owned combobox test case on the Blink platform.

@@ -1,0 +1,4 @@
+# Docerion header of name-file-css-after-in-label-expected-blink.txt.
+type: test
+title: Expected Blink accessible name for file input with CSS after in label
+summary: Expected accessible name output for a file input whose label gains text via CSS :after, as computed by Blink.

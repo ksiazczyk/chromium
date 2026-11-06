@@ -1,0 +1,4 @@
+# Docerion header of name-file-label-embedded-spinbutton-expected-blink.txt.
+type: test
+title: Expected Blink name for file input label with embedded spinbutton
+summary: Expected accessible name output for the embedded-spinbutton file input test on the Blink accessibility tree.

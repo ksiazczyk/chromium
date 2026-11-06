@@ -1,0 +1,4 @@
+# Docerion header of name-combobox-focusable-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for focusable combobox test
+summary: Expected Android assist data output describing the accessibility tree for the focusable combobox test page.

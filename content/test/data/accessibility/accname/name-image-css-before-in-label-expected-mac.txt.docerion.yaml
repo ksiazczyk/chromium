@@ -1,0 +1,4 @@
+# Docerion header of name-image-css-before-in-label-expected-mac.txt.
+type: test
+title: Expected Mac output for CSS before-in-label name test
+summary: Expected accessible name result for the CSS before-in-label image input test on macOS.

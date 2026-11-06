@@ -1,0 +1,4 @@
+# Docerion header of desc-link-with-label-and-title-expected-blink.txt.
+type: test
+title: Expected Blink description for link with label and title
+summary: Expected Blink accessibility output for a link whose description comes from its title attribute.

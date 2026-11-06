@@ -1,0 +1,4 @@
+# Docerion header of name-checkbox-label-with-input-expected-mac.txt.
+type: test
+title: Mac expected output for checkbox label containing an input
+summary: Expected Mac AX accessibility output for a checkbox whose label text includes an embedded text input value.

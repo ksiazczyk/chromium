@@ -1,0 +1,4 @@
+# Docerion header of desc-img-alt-describedby-not-displayed-expected-blink.txt.
+type: test
+title: Expected Blink output for img alt with not displayed describedby element
+summary: Expected Blink accessibility output when an image's aria-describedby element is hidden with display:none.

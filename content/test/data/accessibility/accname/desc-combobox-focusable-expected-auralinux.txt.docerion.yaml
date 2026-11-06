@@ -1,0 +1,4 @@
+# Docerion header of desc-combobox-focusable-expected-auralinux.txt.
+type: test
+title: Expected AuraLinux output for focusable combobox description test
+summary: Expected AuraLinux accessibility output for the accessible description of a focusable combobox.

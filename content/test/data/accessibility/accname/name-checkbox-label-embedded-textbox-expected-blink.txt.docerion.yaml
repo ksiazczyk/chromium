@@ -1,0 +1,4 @@
+# Docerion header of name-checkbox-label-embedded-textbox-expected-blink.txt.
+type: test
+title: Expected Blink accessible name for checkbox with embedded textbox
+summary: Expected Blink output for a checkbox whose label embeds a contenteditable textbox, giving the name 'Flash the screen 1 times.'.

@@ -1,0 +1,4 @@
+# Docerion header of name-button-value-expected-mac.txt.
+type: test
+title: Expected Mac accessible name for button value
+summary: Expected Mac output (AXButton AXTitle='foo') for the button value accessible name test.

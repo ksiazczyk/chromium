@@ -1,0 +1,4 @@
+# Docerion header of desc-from-content-of-describedby-element-recursive.html.
+type: test
+title: Recursive description from content of describedby element test page
+summary: HTML test page checking that a role=status element contributes its text as description when referenced via aria-describedby.

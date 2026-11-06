@@ -1,0 +1,4 @@
+# Docerion header of name-div-content-only-expected-android-external.txt.
+type: test
+title: Expected Android external output for name-div-content-only test
+summary: Expected Android external accessibility tree for the div content-only name test, showing a text view named 'Div with text' inside the WebView.

@@ -1,0 +1,4 @@
+# Docerion header of name-file-label-inline-hidden-elements-expected-blink.txt.
+type: test
+title: Blink expected result for file label with hidden inline elements
+summary: Expected Blink accessibility output for a file input whose label contains hidden inline elements.

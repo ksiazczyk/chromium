@@ -1,0 +1,4 @@
+# Docerion header of name-file-label-embedded-select-expected-mac.txt.
+type: test
+title: Expected Mac name for file input label with embedded select
+summary: Expected AXButton title output for the embedded-select file input test on macOS.

@@ -1,0 +1,4 @@
+# Docerion header of desc-combobox-focusable-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for focusable combobox description test
+summary: Expected Android assist data snapshot for the accessible description of a focusable combobox titled 'Choose your language.'

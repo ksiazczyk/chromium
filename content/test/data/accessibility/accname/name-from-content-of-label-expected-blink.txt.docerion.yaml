@@ -1,0 +1,4 @@
+# Docerion header of name-from-content-of-label-expected-blink.txt.
+type: test
+title: Blink expected output for name-from-content-of-label test
+summary: Expected Blink accessibility tree output for the accname test where a label's content names a text field, with a spec issue comment.
