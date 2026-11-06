@@ -1,0 +1,4 @@
+# Docerion header of activity_label_data.mm.
+type: source
+title: ActivityLabelData implementation
+summary: Implements the ActivityLabelData class declared in the matching header.

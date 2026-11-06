@@ -1,0 +1,4 @@
+# Docerion header of tab_strip_coordinator.mm.
+type: source
+title: Tab strip coordinator implementation
+summary: Implements the tab strip coordinator, wiring the mediator, command handlers, alerts and tab group flows.

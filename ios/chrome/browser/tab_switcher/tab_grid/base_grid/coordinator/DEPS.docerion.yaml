@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for base grid coordinator
+summary: Specifies the include rules listing the directories that this coordinator folder is allowed to depend on.

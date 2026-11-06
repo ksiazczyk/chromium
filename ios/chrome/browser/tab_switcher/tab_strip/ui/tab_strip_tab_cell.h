@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripTabCell interface for the tab strip
+// summary: Declares the TabStripTabCell class and its delegate protocol for a tab cell with title, favicon and close button, plus separators, group, selection and loading state properties.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_TAB_STRIP_UI_TAB_STRIP_TAB_CELL_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_TAB_STRIP_UI_TAB_STRIP_TAB_CELL_H_
 

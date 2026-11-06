@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the inactive tabs model
+summary: Defines the model source set with the inactive tabs service files and lists its build dependencies.

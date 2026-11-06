@@ -1,0 +1,4 @@
+# Docerion header of tab_group_grid_view_controller.mm.
+type: source
+title: TabGroupGridViewController implementation
+summary: Implements the tab group grid view controller, configuring the group header, activity summary cell and drag-and-drop behavior.

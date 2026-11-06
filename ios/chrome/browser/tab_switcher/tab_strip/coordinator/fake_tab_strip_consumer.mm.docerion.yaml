@@ -1,0 +1,4 @@
+# Docerion header of fake_tab_strip_consumer.mm.
+type: test
+title: Fake tab strip consumer implementation
+summary: Implements the fake consumer, storing tab items, selection, item data and group parents to verify consumer updates in tests.

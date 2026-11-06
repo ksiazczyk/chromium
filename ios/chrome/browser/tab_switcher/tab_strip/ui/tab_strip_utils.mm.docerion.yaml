@@ -1,0 +1,4 @@
+# Docerion header of tab_strip_utils.mm.
+type: source
+title: TabStripHelper implementation
+summary: Implements TabStripHelper by returning semantic color assets for the tab strip background, cell background and new tab button symbol.

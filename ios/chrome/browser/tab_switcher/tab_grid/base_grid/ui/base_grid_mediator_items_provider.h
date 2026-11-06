@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base grid mediator item provider protocol
+// summary: Declares a protocol for querying grid model data such as selection state, activity labels, face pile views, and tab group snapshots.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_TAB_GRID_BASE_GRID_UI_BASE_GRID_MEDIATOR_ITEMS_PROVIDER_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_TAB_GRID_BASE_GRID_UI_BASE_GRID_MEDIATOR_ITEMS_PROVIDER_H_
 

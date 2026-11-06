@@ -1,0 +1,4 @@
+# Docerion header of pinned_tabs_mediator.mm.
+type: source
+title: Pinned tabs mediator implementation
+summary: Implements the pinned tabs mediator, observing the web state list and web states to build and update pinned tab items for the UI consumer.

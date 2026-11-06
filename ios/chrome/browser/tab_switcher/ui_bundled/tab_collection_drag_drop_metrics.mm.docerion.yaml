@@ -1,0 +1,4 @@
+# Docerion header of tab_collection_drag_drop_metrics.mm.
+type: source
+title: Drag and drop metrics histogram definitions
+summary: Defines the UMA histogram name constants for tab strip, grid, pinned tab and group drag and drop metrics.

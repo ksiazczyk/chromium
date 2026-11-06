@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RegularGridMediator interface
+// summary: Declares the mediator between the model layer and the regular grid UI, with services for tab group sync, sharing, and messaging.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TAB_GRID_GRID_REGULAR_REGULAR_GRID_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TAB_GRID_GRID_REGULAR_REGULAR_GRID_MEDIATOR_H_
 

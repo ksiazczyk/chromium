@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Tab picker UI include dependencies
+summary: Specifies the allowed include rules for the tab picker UI directory, covering tab grid UI dependencies.

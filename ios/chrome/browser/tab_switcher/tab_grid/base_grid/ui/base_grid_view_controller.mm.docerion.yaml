@@ -1,0 +1,4 @@
+# Docerion header of base_grid_view_controller.mm.
+type: source
+title: Base grid view controller implementation
+summary: Implements the base grid view controller, handling grid cells, selection, drag and drop, context menus, price cards, and transitions.

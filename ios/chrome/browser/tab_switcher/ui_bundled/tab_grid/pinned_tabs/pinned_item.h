@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PinnedItem header for the pinned tab item
+// summary: Declares PinnedItem, a WebStateTabSwitcherItem subclass used for items in the pinned tabs view.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TAB_GRID_PINNED_TABS_PINNED_ITEM_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TAB_GRID_PINNED_TABS_PINNED_ITEM_H_
 

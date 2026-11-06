@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab picker coordinator interface
+// summary: Declares the TabPickerCoordinator class with start state, params, completion block and command handler for the tab picker.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_PICKER_COORDINATOR_TAB_PICKER_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_TAB_PICKER_COORDINATOR_TAB_PICKER_COORDINATOR_H_
 

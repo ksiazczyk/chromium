@@ -1,0 +1,4 @@
+# Docerion header of tab_grid_view_controller.mm.
+type: source
+title: Tab grid view controller implementation
+summary: Implements the tab grid view controller, wiring grids, toolbars, pinned tabs, in-product help, keyboard commands, and user metrics.

@@ -1,0 +1,4 @@
+# Docerion header of grid_container_view_controller.mm.
+type: source
+title: GridContainerViewController implementation
+summary: Implements embedding, replacing, and constraining the contained grid view controller within the container view.

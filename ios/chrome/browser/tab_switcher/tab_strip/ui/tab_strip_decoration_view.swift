@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip decoration view
+// summary: Implements a view with two decoration separators shown when the selected cell reaches a collection view edge and the view can be scrolled.
+// ---
+
 import UIKit
 import ios_chrome_browser_tab_switcher_tab_strip_ui_swift_constants
 

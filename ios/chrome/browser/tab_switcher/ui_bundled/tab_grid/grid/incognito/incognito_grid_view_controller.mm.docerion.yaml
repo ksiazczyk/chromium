@@ -1,0 +1,4 @@
+# Docerion header of incognito_grid_view_controller.mm.
+type: source
+title: Incognito grid view controller implementation
+summary: Implements the incognito grid UI with a reauth blocking view, radial wipe close animation and restricted interactions.

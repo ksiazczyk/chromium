@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip consumer protocol
+// summary: Declares the TabStripConsumer protocol with methods to populate, select, move, insert, remove, replace and reconfigure tab strip items and to collapse or expand groups.
+// ---
+
 /// Consumer protocol for the TabStrip.
 @MainActor
 @objc protocol TabStripConsumer {

@@ -1,0 +1,4 @@
+# Docerion header of tab_picker_mediator.mm.
+type: source
+title: Tab picker mediator implementation
+summary: Implements tab selection logic including grid item creation, page context fetching, deferred loading and completion handling.

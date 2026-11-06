@@ -1,0 +1,4 @@
+# Docerion header of inactive_tabs_coordinator.mm.
+type: source
+title: Inactive tabs coordinator implementation
+summary: Implements presentation, dismissal and animations of the inactive tabs grid, including close-all actions, context menus and user education.

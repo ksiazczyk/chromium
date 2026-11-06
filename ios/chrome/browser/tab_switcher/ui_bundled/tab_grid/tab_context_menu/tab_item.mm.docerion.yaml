@@ -1,0 +1,4 @@
+# Docerion header of tab_item.mm.
+type: source
+title: TabItem model implementation
+summary: Implements TabItem's designated initializer that stores the tab title and URL.

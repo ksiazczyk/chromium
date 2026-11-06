@@ -1,0 +1,4 @@
+# Docerion header of suggested_actions_grid_cell.mm.
+type: source
+title: SuggestedActionsGridCell implementation
+summary: Implements the grid cell's styling, reuse behavior, and constraint-based layout for the suggested actions view.

@@ -1,0 +1,4 @@
+# Docerion header of tab_group_confirmation_coordinator.mm.
+type: source
+title: Tab group confirmation coordinator implementation
+summary: Implements the confirmation coordinator, building action sheets or alerts for tab group actions like ungrouping, deleting, or leaving shared groups.

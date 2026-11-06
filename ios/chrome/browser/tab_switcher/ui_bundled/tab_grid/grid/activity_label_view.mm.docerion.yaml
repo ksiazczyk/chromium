@@ -1,0 +1,4 @@
+# Docerion header of activity_label_view.mm.
+type: source
+title: ActivityLabelView implementation
+summary: Builds and lays out the blurred, pill-shaped activity label with icon and caption text.

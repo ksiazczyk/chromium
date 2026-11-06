@@ -1,0 +1,4 @@
+# Docerion header of grid_utils.mm.
+type: source
+title: Grid utility implementations
+summary: Implements creation of tab and group grid items and conversion of grid drop item indices into web state list indices, accounting for pinned tabs and groups.

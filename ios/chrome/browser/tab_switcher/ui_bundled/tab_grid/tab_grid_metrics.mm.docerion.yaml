@@ -1,0 +1,4 @@
+# Docerion header of tab_grid_metrics.mm.
+type: source
+title: Tab grid metrics implementation
+summary: Implements recording of tab grid UMA histograms and user actions for closing tabs and incognito grid status.

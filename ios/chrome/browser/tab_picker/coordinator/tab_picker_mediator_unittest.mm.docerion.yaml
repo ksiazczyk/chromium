@@ -1,0 +1,4 @@
+# Docerion header of tab_picker_mediator_unittest.mm.
+type: test
+title: Tab picker mediator unit tests
+summary: Verifies mediator behavior such as cancel and disconnect invoking the completion block with nullopt using mocked consumers.

@@ -1,0 +1,4 @@
+# Docerion header of tab_grid_mediator.mm.
+type: source
+title: Tab grid mediator implementation
+summary: Implements the tab grid mediator, handling page activation, parental control status and mode change notifications.

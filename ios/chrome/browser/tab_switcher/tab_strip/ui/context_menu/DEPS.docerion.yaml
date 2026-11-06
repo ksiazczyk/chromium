@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the context menu directory
+summary: Lists the headers and directories that code in the tab strip context menu directory is allowed to include.

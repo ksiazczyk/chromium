@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the grid directory
+summary: Lists the allowed Chromium include paths for code in this folder.

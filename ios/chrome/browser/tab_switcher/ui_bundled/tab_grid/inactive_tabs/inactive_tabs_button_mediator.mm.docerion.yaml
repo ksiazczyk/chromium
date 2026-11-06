@@ -1,0 +1,4 @@
+# Docerion header of inactive_tabs_button_mediator.mm.
+type: source
+title: Inactive tabs button mediator implementation
+summary: Implements observation of the web state list and inactive tabs preferences to push count and threshold updates to the consumer.

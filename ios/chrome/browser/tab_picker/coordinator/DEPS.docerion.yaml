@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Tab picker coordinator include rules
+summary: Declares the additional directories that code in the tab picker coordinator may include from.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for tab switcher UI
+summary: Lists the allowed include rules and forbidden headers for code in the tab switcher ui_bundled directory.

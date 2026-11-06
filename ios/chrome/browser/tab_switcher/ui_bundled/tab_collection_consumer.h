@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab collection consumer protocol
+// summary: Declares a protocol for idempotent population, insertion, removal, reordering and selection of tabs and groups in the grid collection view.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TAB_COLLECTION_CONSUMER_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TAB_COLLECTION_CONSUMER_H_
 

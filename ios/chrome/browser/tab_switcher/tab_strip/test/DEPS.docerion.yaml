@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Tab strip test directory DEPS rules
+summary: Sets include rules allowing data sharing public and test support dependencies for the tab strip test directory.

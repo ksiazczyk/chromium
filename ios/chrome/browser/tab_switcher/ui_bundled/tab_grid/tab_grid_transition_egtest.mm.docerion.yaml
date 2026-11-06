@@ -1,0 +1,4 @@
+# Docerion header of tab_grid_transition_egtest.mm.
+type: test
+title: Tab grid transition Earl Grey tests
+summary: Earl Grey integration tests covering transitions into and out of the tab grid, including incognito, search mode, and idle histogram behavior.

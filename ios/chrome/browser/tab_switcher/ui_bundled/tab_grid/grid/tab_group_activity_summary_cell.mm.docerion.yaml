@@ -1,0 +1,4 @@
+# Docerion header of tab_group_activity_summary_cell.mm.
+type: source
+title: TabGroupActivitySummaryCell implementation
+summary: Implements the tab group activity summary cell with a blurred background, text label, activity and close buttons, and accessibility layout constraints.

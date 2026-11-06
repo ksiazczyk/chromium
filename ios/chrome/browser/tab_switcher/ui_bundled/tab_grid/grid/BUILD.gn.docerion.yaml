@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the tab grid UI
+summary: Defines the GN source sets, sources, and dependencies for the tab grid UI components.

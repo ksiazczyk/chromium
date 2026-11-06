@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip item data
+// summary: Swift model holding additional data for a tab strip item, such as group stroke color, first or last tab in group flags and notification dot.
+// ---
+
 // Additional data associated with a `TabStripItemIdentifier`.
 @objc class TabStripItemData: NSObject {
 

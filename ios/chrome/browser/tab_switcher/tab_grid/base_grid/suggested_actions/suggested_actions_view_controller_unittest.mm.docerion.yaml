@@ -1,0 +1,4 @@
+# Docerion header of suggested_actions_view_controller_unittest.mm.
+type: test
+title: SuggestedActionsViewController unit tests
+summary: Unit tests verifying controller initialization, item ordering, and delegate callbacks when selecting the search web and search history actions.

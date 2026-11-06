@@ -1,0 +1,4 @@
+# Docerion header of base_grid_mediator.mm.
+type: source
+title: BaseGridMediator implementation
+summary: Implements the base grid mediator, handling tab grid updates, drag and drop, metrics, and saved tab group actions.

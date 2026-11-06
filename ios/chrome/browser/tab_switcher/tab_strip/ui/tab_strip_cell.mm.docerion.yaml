@@ -1,0 +1,4 @@
+# Docerion header of tab_strip_cell.mm.
+type: source
+title: Tab strip cell implementation
+summary: Implements TabStripCell reuse behavior that clears the title, group stroke color and edge intersection flags.

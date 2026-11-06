@@ -1,0 +1,4 @@
+# Docerion header of tab_snapshot_and_favicon.mm.
+type: source
+title: TabSnapshotAndFavicon implementation
+summary: Implements the TabSnapshotAndFavicon model object that holds a tab snapshot image and a favicon.

@@ -1,0 +1,4 @@
+# Docerion header of grid_header.mm.
+type: source
+title: GridHeader view implementation
+summary: Implements the GridHeader collection view cell that displays a section title and an optional value label in the tab grid.

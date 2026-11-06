@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Tab strip coordinator include rules
+summary: Restricts which headers and modules files in the tab strip coordinator directory are allowed to include.

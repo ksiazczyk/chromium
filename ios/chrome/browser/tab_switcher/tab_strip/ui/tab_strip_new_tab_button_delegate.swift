@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip new tab button delegate protocol
+// summary: Swift protocol informing the receiver when the tab strip new tab button is tapped.
+// ---
+
 import Foundation
 
 /// Informs the receiver of actions on the new tab button.

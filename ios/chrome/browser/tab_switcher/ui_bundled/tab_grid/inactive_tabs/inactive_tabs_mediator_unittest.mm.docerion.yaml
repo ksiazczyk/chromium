@@ -1,0 +1,4 @@
+# Docerion header of inactive_tabs_mediator_unittest.mm.
+type: test
+title: Inactive tabs mediator unit tests
+summary: Unit test fixture for InactiveTabsMediator that verifies snapshot and favicon fetching behavior using a test profile, fake web states and a fake consumer.

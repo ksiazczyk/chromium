@@ -1,0 +1,4 @@
+# Docerion header of web_state_tab_switcher_item.mm.
+type: source
+title: WebStateTabSwitcherItem implementation
+summary: Implements the web state-backed tab switcher item, providing URL, title, loading activity, NTP favicon, and identifier-based equality.

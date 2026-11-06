@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the tab context menu directory
+summary: Defines the tab_context_menu, tab_item, and unit_tests source sets with their sources and dependencies for the Chromium iOS build.

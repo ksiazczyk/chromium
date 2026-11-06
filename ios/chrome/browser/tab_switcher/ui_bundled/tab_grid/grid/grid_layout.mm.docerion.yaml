@@ -1,0 +1,4 @@
+# Docerion header of grid_layout.mm.
+type: source
+title: GridLayout implementation
+summary: Implements the grid compositional layout, computing spacing, headers, and section insets for different layout environments.

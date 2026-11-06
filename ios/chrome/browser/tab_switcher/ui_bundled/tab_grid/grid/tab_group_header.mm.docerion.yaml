@@ -1,0 +1,4 @@
+# Docerion header of tab_group_header.mm.
+type: source
+title: Tab group header view implementation
+summary: Implements the TabGroupHeader view for the iOS tab grid, displaying a colored dot and title button with regular and compact width layout constraints and user metrics.

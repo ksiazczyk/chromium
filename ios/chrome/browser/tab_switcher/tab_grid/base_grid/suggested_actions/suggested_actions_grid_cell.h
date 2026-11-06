@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SuggestedActionsGridCell interface
+// summary: Declares a collection view cell for a grid that hosts a suggested actions table view.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_TAB_GRID_BASE_GRID_SUGGESTED_ACTIONS_SUGGESTED_ACTIONS_GRID_CELL_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_TAB_GRID_BASE_GRID_SUGGESTED_ACTIONS_SUGGESTED_ACTIONS_GRID_CELL_H_
 

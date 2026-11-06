@@ -1,0 +1,4 @@
+# Docerion header of pinned_tabs_constants.mm.
+type: source
+title: Pinned tabs constants definitions
+summary: Defines numeric values for pinned view and cell layout, spacing, favicon sizing, selection ring, and animation timing.

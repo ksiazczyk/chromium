@@ -1,0 +1,4 @@
+# Docerion header of inactive_tabs_grid_view_controller.mm.
+type: source
+title: Inactive tabs grid view controller implementation
+summary: Implements the inactive tabs grid, registering the preamble header, supplying section headers and context menu histograms, and updating the inactive tabs days threshold.

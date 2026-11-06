@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseGridViewController subclassing category
+// summary: Declares the subclassing interface with collection view data source, cell and header creation, snapshot hooks, and context menu scenarios.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_TAB_GRID_BASE_GRID_UI_BASE_GRID_VIEW_CONTROLLER_SUBCLASSING_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_TAB_GRID_BASE_GRID_UI_BASE_GRID_VIEW_CONTROLLER_SUBCLASSING_H_
 

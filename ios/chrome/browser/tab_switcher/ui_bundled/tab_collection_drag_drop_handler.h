@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab collection drag and drop handler protocol
+// summary: Declares a protocol that connects collection view drag and drop interactions with the tab model layer.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TAB_COLLECTION_DRAG_DROP_HANDLER_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TAB_COLLECTION_DRAG_DROP_HANDLER_H_
 

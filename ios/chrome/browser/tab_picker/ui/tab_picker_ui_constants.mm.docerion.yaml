@@ -1,0 +1,4 @@
+# Docerion header of tab_picker_ui_constants.mm.
+type: source
+title: Tab picker UI constants implementation
+summary: Defines the accessibility identifier string constants used by the tab picker UI.

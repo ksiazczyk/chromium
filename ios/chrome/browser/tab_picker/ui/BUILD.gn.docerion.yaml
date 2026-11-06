@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tab picker UI build definition
+summary: Defines the GN source sets and dependencies for the tab picker UI and its UI constants target.

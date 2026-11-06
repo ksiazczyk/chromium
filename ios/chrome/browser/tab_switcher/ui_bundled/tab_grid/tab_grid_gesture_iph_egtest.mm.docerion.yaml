@@ -1,0 +1,4 @@
+# Docerion header of tab_grid_gesture_iph_egtest.mm.
+type: test
+title: Tab grid gesture IPH Earl Grey tests
+summary: Earl Grey tests verifying that the swipe-for-incognito in-product help bubble on the tab grid shows and dismisses correctly.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseGridCoordinator subclassing header
+// summary: Declares internal properties and methods of BaseGridCoordinator that are exposed for use by subclasses.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_TAB_GRID_BASE_GRID_COORDINATOR_BASE_GRID_COORDINATOR_SUBCLASSING_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_TAB_GRID_BASE_GRID_COORDINATOR_BASE_GRID_COORDINATOR_SUBCLASSING_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of tab_context_menu_helper.mm.
+type: source
+title: TabContextMenuHelper implementation
+summary: Builds context menu configurations and actions for tab and tab group cells, drawing on services such as bookmarks, collaboration, and send tab to self.

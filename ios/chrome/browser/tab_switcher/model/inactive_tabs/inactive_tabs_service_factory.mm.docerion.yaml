@@ -1,0 +1,4 @@
+# Docerion header of inactive_tabs_service_factory.mm.
+type: source
+title: InactiveTabsServiceFactory implementation
+summary: Builds the InactiveTabsService per profile, depending on the browser list factory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Item hash and comparison utilities header
+// summary: Declares hashing and comparison functions for tab switcher and tab group items used by collection views.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_ITEM_UTILS_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_ITEM_UTILS_H_
 

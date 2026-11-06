@@ -1,0 +1,4 @@
+# Docerion header of group_grid_cell.mm.
+type: source
+title: Group grid cell implementation
+summary: Implements the tab group grid cell UI, including layout constraints, highlighting and selection visuals, face pile and close button handling.

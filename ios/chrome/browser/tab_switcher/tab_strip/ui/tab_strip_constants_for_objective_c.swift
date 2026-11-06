@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Objective-C bridge for tab strip constants
+// summary: Exposes TabStripConstants values to Objective-C code through @objcMembers classes for collection view, tab item, group item and static separator settings.
+// ---
+
 import Foundation
 import ios_chrome_browser_tab_switcher_tab_strip_ui_swift_constants
 

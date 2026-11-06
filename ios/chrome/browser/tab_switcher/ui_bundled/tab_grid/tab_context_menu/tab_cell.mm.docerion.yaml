@@ -1,0 +1,4 @@
+# Docerion header of tab_cell.mm.
+type: source
+title: TabCell implementation with activity label
+summary: Implements TabCell, managing the activity label view, its layout constraints, and reset behavior when cells are reused.

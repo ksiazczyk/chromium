@@ -1,0 +1,4 @@
+# Docerion header of suggested_actions_view_controller.mm.
+type: source
+title: SuggestedActionsViewController implementation
+summary: Implements the grouped table view of suggested search actions, including model loading, styling, and delegate-driven history result counts.

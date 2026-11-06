@@ -1,0 +1,4 @@
+# Docerion header of tab_strip_tab_cell.mm.
+type: source
+title: TabStripTabCell implementation
+summary: Implements the tab strip cell layout and behavior, including close button, favicon, loading spinner, separators, group strokes, blue dot and selected-cell decoration views.

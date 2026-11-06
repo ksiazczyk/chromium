@@ -1,0 +1,4 @@
+# Docerion header of pinned_tabs_view_controller_unittest.mm.
+type: test
+title: Pinned tabs view controller unit tests
+summary: Unit tests verifying transition layout creation for the pinned tabs view controller across selection and unselection states.

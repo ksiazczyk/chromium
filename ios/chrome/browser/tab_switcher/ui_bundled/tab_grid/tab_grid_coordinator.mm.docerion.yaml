@@ -1,0 +1,4 @@
+# Docerion header of tab_grid_coordinator.mm.
+type: source
+title: Tab grid coordinator implementation
+summary: Implements the tab grid coordinator, wiring child coordinators, metrics, and browser services.

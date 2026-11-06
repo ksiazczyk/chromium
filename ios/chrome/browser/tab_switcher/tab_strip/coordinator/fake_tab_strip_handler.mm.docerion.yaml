@@ -1,0 +1,4 @@
+# Docerion header of fake_tab_strip_handler.mm.
+type: test
+title: Fake tab strip handler implementation
+summary: Implements the fake handler, recording group creation, edition and last-tab-dragged alert commands sent during tests.

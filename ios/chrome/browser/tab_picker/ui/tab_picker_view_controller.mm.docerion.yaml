@@ -1,0 +1,4 @@
+# Docerion header of tab_picker_view_controller.mm.
+type: source
+title: Tab picker view controller implementation
+summary: Implements the tab picker screen with an embedded grid, navigation bar, done and cancel actions and usage histograms.

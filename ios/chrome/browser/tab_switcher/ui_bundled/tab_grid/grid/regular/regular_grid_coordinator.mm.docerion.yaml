@@ -1,0 +1,4 @@
+# Docerion header of regular_grid_coordinator.mm.
+type: source
+title: RegularGridCoordinator implementation
+summary: Implements regular grid coordination, including pinned tabs, tab group coordinators, context menus, and transition layouts.

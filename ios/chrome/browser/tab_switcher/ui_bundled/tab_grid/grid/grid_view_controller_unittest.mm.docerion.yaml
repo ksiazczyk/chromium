@@ -1,0 +1,4 @@
+# Docerion header of grid_view_controller_unittest.mm.
+type: test
+title: Grid view controller unit tests
+summary: Unit tests for the base grid view controller covering item population, insertion, selection and related grid behavior.

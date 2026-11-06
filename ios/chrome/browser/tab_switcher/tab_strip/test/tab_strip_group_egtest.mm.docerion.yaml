@@ -1,0 +1,4 @@
+# Docerion header of tab_strip_group_egtest.mm.
+type: test
+title: Tab strip group Earl Grey tests
+summary: Earl Grey UI tests for creating, naming and managing tab groups in the tab strip on iPad.

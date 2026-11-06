@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group confirmation coordinator header
+// summary: Declares a coordinator that shows an action sheet or alert to confirm tab group actions, with primary, secondary, and dismiss action blocks.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TAB_GROUP_CONFIRMATION_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TAB_GROUP_CONFIRMATION_COORDINATOR_H_
 

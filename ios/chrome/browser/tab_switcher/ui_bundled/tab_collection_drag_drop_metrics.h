@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drag and drop metrics histogram declarations
+// summary: Declares UMA histogram names and enums for tab and group drag and drop events and drag origins.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TAB_COLLECTION_DRAG_DROP_METRICS_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TAB_COLLECTION_DRAG_DROP_METRICS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of inactive_tabs_constants.mm.
+type: source
+title: Inactive tabs constants definitions
+summary: Defines the accessibility identifier and user defaults key strings for the inactive tabs user education screen.

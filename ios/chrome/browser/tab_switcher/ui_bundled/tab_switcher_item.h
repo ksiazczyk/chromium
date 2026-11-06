@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabSwitcherItem interface
+// summary: Declares TabSwitcherItem, the base model object for tab switcher items whose subclasses are expected to provide the image fetching behavior.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TAB_SWITCHER_ITEM_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TAB_SWITCHER_ITEM_H_
 

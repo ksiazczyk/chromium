@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Base grid UI GN build targets
+summary: Defines the GN source sets and dependency list for the base grid UI sources and the grid mediator item provider.

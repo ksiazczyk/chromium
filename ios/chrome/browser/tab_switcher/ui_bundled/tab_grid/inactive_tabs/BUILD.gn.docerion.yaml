@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for inactive tabs source sets
+summary: Defines the GN source sets and dependencies for the inactive tabs UI in the iOS tab grid.

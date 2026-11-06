@@ -1,0 +1,4 @@
+# Docerion header of grid_utils_unittest.mm.
+type: test
+title: Grid utils unit tests
+summary: Unit tests for grid_utils covering item list creation with tabs, pinned tabs and groups, and drop index mapping.

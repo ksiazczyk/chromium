@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripContextMenuProvider protocol
+// summary: Defines the protocol for objects that supply context menu configurations for tab strip and tab group items.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_TAB_STRIP_UI_CONTEXT_MENU_TAB_STRIP_CONTEXT_MENU_PROVIDER_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_TAB_STRIP_UI_CONTEXT_MENU_TAB_STRIP_CONTEXT_MENU_PROVIDER_H_
 

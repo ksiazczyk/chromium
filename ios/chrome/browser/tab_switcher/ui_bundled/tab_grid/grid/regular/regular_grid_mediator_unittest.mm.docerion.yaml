@@ -1,0 +1,4 @@
+# Docerion header of regular_grid_mediator_unittest.mm.
+type: test
+title: RegularGridMediator unit tests
+summary: Unit tests for the regular grid mediator using fake services, test browsers, and mock delegates.

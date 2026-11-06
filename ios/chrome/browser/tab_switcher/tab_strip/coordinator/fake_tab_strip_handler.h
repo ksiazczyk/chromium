@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake tab strip handler for tests
+// summary: Declares a fake TabStripCommands handler that captures tab group creation, edition and alert commands in tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_TAB_STRIP_COORDINATOR_FAKE_TAB_STRIP_HANDLER_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_TAB_STRIP_COORDINATOR_FAKE_TAB_STRIP_HANDLER_H_
 

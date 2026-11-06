@@ -1,0 +1,4 @@
+# Docerion header of grid_constants.mm.
+type: source
+title: Grid UI constants definitions
+summary: Defines the values of the grid section identifiers, accessibility identifiers, and styling and dimension constants.

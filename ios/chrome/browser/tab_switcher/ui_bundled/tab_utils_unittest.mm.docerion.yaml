@@ -1,0 +1,4 @@
+# Docerion header of tab_utils_unittest.mm.
+type: test
+title: Tab switcher utility unit tests
+summary: Unit tests for tab switcher utilities covering browser lookup by tab criteria and grid item aspect ratio with nil window scenes.

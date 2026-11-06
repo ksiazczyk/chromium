@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabContextMenuHelper interface
+// summary: Declares TabContextMenuHelper, which creates context menus for tab items using a profile and a tab context menu delegate.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TAB_GRID_TAB_CONTEXT_MENU_TAB_CONTEXT_MENU_HELPER_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TAB_GRID_TAB_CONTEXT_MENU_TAB_CONTEXT_MENU_HELPER_H_
 

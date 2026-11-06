@@ -1,0 +1,4 @@
+# Docerion header of tab_strip_context_menu_helper.mm.
+type: source
+title: TabStripContextMenuHelper implementation
+summary: Implements building UIContextMenuConfiguration objects for tab switcher and tab group items, including collaboration, saved tab group, and share kit actions.

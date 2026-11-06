@@ -1,0 +1,4 @@
+# Docerion header of tab_strip_mediator_unittest.mm.
+type: test
+title: Tab strip mediator unit tests
+summary: Unit tests for the tab strip mediator, exercising tab and group item handling with fake web states, mock sync services, and OCMock.

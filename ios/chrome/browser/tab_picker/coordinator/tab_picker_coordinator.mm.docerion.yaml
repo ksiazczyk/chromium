@@ -1,0 +1,4 @@
+# Docerion header of tab_picker_coordinator.mm.
+type: source
+title: Tab picker coordinator implementation
+summary: Presents the tab picker modally, wires the mediator and view controller together, and logs show and hide events.

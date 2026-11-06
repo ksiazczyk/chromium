@@ -1,0 +1,4 @@
+# Docerion header of pinned_item.mm.
+type: source
+title: PinnedItem implementation for the pinned tab item
+summary: Implements PinnedItem, overriding the NTP favicon to return the Chrome product symbol at the pinned cell size.
