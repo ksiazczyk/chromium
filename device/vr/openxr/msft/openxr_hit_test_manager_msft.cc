@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR MSFT hit test manager implementation
+// summary: Implements WebXR hit testing by intersecting rays with detected planes and returning sorted hit results.
+// ---
+
 #include "device/vr/openxr/msft/openxr_hit_test_manager_msft.h"
 
 #include <algorithm>

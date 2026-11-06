@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stage bounds helper declarations
+// summary: Declares GetStageBoundsFromSize, a convenience method that turns rectangular play area sizes into stage bounds corner points for runtimes without full stage support.
+// ---
+
 #ifndef DEVICE_VR_UTIL_STAGE_UTILS_H_
 #define DEVICE_VR_UTIL_STAGE_UTILS_H_
 

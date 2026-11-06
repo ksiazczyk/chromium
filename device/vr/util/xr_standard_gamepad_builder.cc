@@ -1,6 +1,13 @@
 // Copyright 2019 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: XR standard gamepad builder implementation
+// summary: Implements XRStandardGamepadBuilder, ordering primary, secondary, touchpad, thumbstick and optional buttons into an xr-standard mapped Gamepad with placeholders as needed.
+// ---
+
 #include "device/vr/util/xr_standard_gamepad_builder.h"
 
 namespace device {

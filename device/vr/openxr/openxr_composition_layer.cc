@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR composition layer implementation
+// summary: Implements WebXR composition layer handling, including swapchain creation, sizing, and layer type mapping for OpenXR.
+// ---
+
 #include "device/vr/openxr/openxr_composition_layer.h"
 
 #include "base/time/time.h"

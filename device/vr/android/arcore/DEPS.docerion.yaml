@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the arcore directory
+summary: Defines the allowed include paths for the ARCore implementation, covering viz, Skia, and the ARCore SDK.

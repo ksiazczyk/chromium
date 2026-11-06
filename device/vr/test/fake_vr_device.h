@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake VR device class declaration
+// summary: Declares FakeVRDevice, a test VR device extending VRDeviceBase with pose setting and session control helpers for VR tests.
+// ---
+
 #ifndef DEVICE_VR_TEST_FAKE_VR_DEVICE_H_
 #define DEVICE_VR_TEST_FAKE_VR_DEVICE_H_
 

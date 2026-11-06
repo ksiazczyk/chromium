@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR Android scene understanding manager implementation
+// summary: Implements the Android scene understanding manager and factory that wire up anchor, plane, hit-test and mesh managers based on supported extensions.
+// ---
+
 #include "device/vr/openxr/android/openxr_scene_understanding_manager_android.h"
 
 #include <algorithm>

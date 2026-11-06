@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake VR device implementation
+// summary: Implements FakeVRDevice, a test VR device that accepts session requests, handles presenting state, and returns intentionally invalid session data.
+// ---
+
 #include "device/vr/test/fake_vr_device.h"
 
 #include "mojo/public/cpp/bindings/pending_remote.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArCore base class implementation
+// summary: Implements shared ArCore helpers such as camera and depth UV transforms plus the initialization and depth-sensing result structs.
+// ---
+
 #include "device/vr/android/arcore/arcore.h"
 
 #include "device/vr/android/arcore/arcore_math_utils.h"

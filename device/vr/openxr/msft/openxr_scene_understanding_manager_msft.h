@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: MSFT scene understanding manager declarations
+// summary: Declares OpenXRSceneUnderstandingManagerMSFT and its factory, which request MSFT scene understanding and spatial anchor extensions and report supported session features.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_MSFT_OPENXR_SCENE_UNDERSTANDING_MANAGER_MSFT_H_
 #define DEVICE_VR_OPENXR_MSFT_OPENXR_SCENE_UNDERSTANDING_MANAGER_MSFT_H_
 

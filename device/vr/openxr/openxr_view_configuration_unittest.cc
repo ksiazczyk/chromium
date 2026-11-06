@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OpenXR view configuration unit tests
+// summary: Unit tests for OpenXrViewProperties viewport scaling, covering default behavior, low-memory clamping, aspect-preserving maxima, and command-line switch overrides.
+// ---
+
 #include "device/vr/openxr/openxr_view_configuration.h"
 
 #include "base/command_line.h"

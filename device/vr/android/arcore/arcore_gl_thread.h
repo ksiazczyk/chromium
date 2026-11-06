@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArCore GL thread class declaration
+// summary: Declares ArCoreGlThread, which runs ArCoreGl creation and cleanup on a dedicated GL thread for ARCore rendering.
+// ---
+
 #ifndef DEVICE_VR_ANDROID_ARCORE_ARCORE_GL_THREAD_H_
 #define DEVICE_VR_ANDROID_ARCORE_ARCORE_GL_THREAD_H_
 

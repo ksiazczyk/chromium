@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GL bindings header for VR rendering
+// summary: Selects the appropriate OpenGL headers for VR rendering depending on whether the command buffer or native GL configuration is used.
+// ---
+
 #ifndef DEVICE_VR_GL_BINDINGS_H_
 #define DEVICE_VR_GL_BINDINGS_H_
 

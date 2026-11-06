@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: OpenXR platform helper implementation
+// summary: Implements OpenXrPlatformHelper base logic for platform-specific OpenXR initialization, instance creation, extension enumeration, and test hook registration.
+// ---
+
 #include "device/vr/openxr/openxr_platform_helper.h"
 
 #include <algorithm>

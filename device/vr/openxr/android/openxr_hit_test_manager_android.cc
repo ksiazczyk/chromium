@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android OpenXR hit test manager implementation
+// summary: Implements hit testing for Android OpenXR by raycasting against plane trackers with xrRaycastANDROID and converting results to WebXR hit results.
+// ---
+
 #include "device/vr/openxr/android/openxr_hit_test_manager_android.h"
 
 #include <array>

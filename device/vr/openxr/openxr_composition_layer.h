@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR composition layer class declaration
+// summary: Declares OpenXrCompositionLayer, which models WebXR composition layer types and manages swapchain creation, acquisition, and shared image sizing for OpenXR rendering.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_OPENXR_COMPOSITION_LAYER_H_
 #define DEVICE_VR_OPENXR_OPENXR_COMPOSITION_LAYER_H_
 

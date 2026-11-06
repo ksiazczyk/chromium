@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR controller input implementation
+// summary: Implements OpenXrController, mapping OpenXR interaction profiles, buttons, axes, and poses into WebXR gamepad and input source data for left and right controllers.
+// ---
+
 #include "device/vr/openxr/openxr_controller.h"
 
 #include <stdint.h>

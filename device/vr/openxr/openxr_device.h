@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR device class declaration
+// summary: Declares OpenXrDevice, a VRDeviceBase and XRSessionController that manages OpenXR instances, render loops, and session shutdown.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_OPENXR_DEVICE_H_
 #define DEVICE_VR_OPENXR_OPENXR_DEVICE_H_
 

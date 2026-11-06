@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR render loop implementation
+// summary: Implements the OpenXrRenderLoop thread that drives WebXR frame rendering, presentation, overlays, layer management, and session lifecycle for OpenXR devices.
+// ---
+
 #include "device/vr/openxr/openxr_render_loop.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR debug time utility implementation
+// summary: Implements GetCurrentXrTime, converting the Windows performance counter to XrTime via an OpenXR extension for debugging purposes.
+// ---
+
 #include "device/vr/openxr/openxr_debug_util.h"
 
 #include "base/check.h"

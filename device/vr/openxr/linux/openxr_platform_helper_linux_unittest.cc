@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Linux OpenXR platform helper
+// summary: Tests the Linux platform helper against a mock OpenXR runtime, covering initialization, null platform create info, graphics binding creation, instance release, and shutdown callbacks.
+// ---
+
 #include "device/vr/openxr/linux/openxr_platform_helper_linux.h"
 
 #include "base/base_paths.h"

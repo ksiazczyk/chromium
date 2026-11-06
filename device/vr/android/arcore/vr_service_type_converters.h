@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo type converters for VR service and ARCore types declarations
+// summary: Declares mojo TypeConverter specializations that convert ARCore plane types and VR service poses into orientation enums and gfx transforms.
+// ---
+
 #ifndef DEVICE_VR_ANDROID_ARCORE_VR_SERVICE_TYPE_CONVERTERS_H_
 #define DEVICE_VR_ANDROID_ARCORE_VR_SERVICE_TYPE_CONVERTERS_H_
 

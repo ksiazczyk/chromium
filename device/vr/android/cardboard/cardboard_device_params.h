@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CardboardDeviceParams class declaration
+// summary: Declares a wrapper for encoded Cardboard device parameters and their size, with factories deciding whether the parameters are owned.
+// ---
+
 #ifndef DEVICE_VR_ANDROID_CARDBOARD_CARDBOARD_DEVICE_PARAMS_H_
 #define DEVICE_VR_ANDROID_CARDBOARD_CARDBOARD_DEVICE_PARAMS_H_
 

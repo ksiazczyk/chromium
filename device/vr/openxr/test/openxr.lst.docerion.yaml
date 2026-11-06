@@ -1,0 +1,4 @@
+# Docerion header of openxr.lst.
+type: config
+title: Linker script exporting mock OpenXR symbols
+summary: Linker version script that exports only the symbols required for OpenXR to work and keeps all other symbols local.

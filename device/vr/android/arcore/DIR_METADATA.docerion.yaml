@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA issue tracker settings
+summary: Maps the directory to the Blink>WebXR>AR component on Android for issue and bug tracking.

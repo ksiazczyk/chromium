@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARCore SDK include and incognito mode declaration
+// summary: Includes the ARCore C API header and declares a private function that puts ARCore sessions into an incognito mode with reduced logging.
+// ---
+
 #ifndef DEVICE_VR_ANDROID_ARCORE_ARCORE_SDK_H_
 #define DEVICE_VR_ANDROID_ARCORE_ARCORE_SDK_H_
 

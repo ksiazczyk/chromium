@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake VR device provider class declaration
+// summary: Declares FakeVRDeviceProvider, a test VRDeviceProvider that tracks fake devices and its initialization state for VR tests.
+// ---
+
 #ifndef DEVICE_VR_TEST_FAKE_VR_DEVICE_PROVIDER_H_
 #define DEVICE_VR_TEST_FAKE_VR_DEVICE_PROVIDER_H_
 

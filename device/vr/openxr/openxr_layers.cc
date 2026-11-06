@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR composition layer building for frame submission
+// summary: Implements construction of OpenXR composition layers, filling projection, quad, cylinder, equirect and cube layer data for submission to xrEndFrame.
+// ---
+
 #include "device/vr/openxr/openxr_layers.h"
 
 #include "base/notreached.h"

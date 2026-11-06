@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR hand tracker and hand controller interfaces
+// summary: Declares OpenXrHandTracker for joint tracking data and OpenXrHandController, an interface letting controllers derive input state from tracked hands.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_OPENXR_HAND_TRACKER_H_
 #define DEVICE_VR_OPENXR_OPENXR_HAND_TRACKER_H_
 

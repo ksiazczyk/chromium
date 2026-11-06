@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Basic OpenXR stage bounds provider implementation
+// summary: Implements a default stage bounds provider using xrGetReferenceSpaceBoundsRect, plus a factory supporting bounded-floor sessions without extra extensions.
+// ---
+
 #include "device/vr/openxr/openxr_stage_bounds_provider_basic.h"
 
 #include <vector>

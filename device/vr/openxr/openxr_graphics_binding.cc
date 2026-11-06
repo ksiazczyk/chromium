@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR graphics binding implementation
+// summary: Implements the OpenXrGraphicsBinding abstraction that manages base and custom composition layers, swapchains and rendering across platform graphics backends.
+// ---
+
 #include "device/vr/openxr/openxr_graphics_binding.h"
 
 #include "build/build_config.h"

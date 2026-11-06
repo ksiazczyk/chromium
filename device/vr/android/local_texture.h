@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalTexture struct
+// summary: Defines the LocalTexture struct holding an OpenGL texture target and id used by Android XR rendering.
+// ---
+
 #ifndef DEVICE_VR_ANDROID_LOCAL_TEXTURE_H_
 #define DEVICE_VR_ANDROID_LOCAL_TEXTURE_H_
 

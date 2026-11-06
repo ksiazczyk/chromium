@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXrLayers frame layer wrapper declaration
+// summary: Declares OpenXrLayers, a per-frame wrapper that collects base, client composition, and secondary view configuration layers for xrEndFrame.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_OPENXR_LAYERS_H_
 #define DEVICE_VR_OPENXR_OPENXR_LAYERS_H_
 

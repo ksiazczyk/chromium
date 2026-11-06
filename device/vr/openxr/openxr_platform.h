@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR platform header wrapper
+// summary: Wraps the third-party openxr_platform.h so required platform-specific includes are present and direct inclusion is blocked.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_OPENXR_PLATFORM_H_
 #define DEVICE_VR_OPENXR_OPENXR_PLATFORM_H_
 

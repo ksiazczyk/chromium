@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR input helper implementation
+// summary: Implements creation and initialization of the input helper, suggesting interaction profile bindings, attaching action sets, and gathering controller input state.
+// ---
+
 #include "device/vr/openxr/openxr_input_helper.h"
 
 #include "base/trace_event/trace_event.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR view configuration
+// summary: Declares constants and helper classes for OpenXR view configurations, including primary and secondary view types, eye indices, and view properties with viewport scaling.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_OPENXR_VIEW_CONFIGURATION_H_
 #define DEVICE_VR_OPENXR_OPENXR_VIEW_CONFIGURATION_H_
 

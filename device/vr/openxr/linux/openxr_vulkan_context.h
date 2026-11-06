@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR Vulkan context class declaration
+// summary: Declares OpenXrVulkanContext, which owns Vulkan state and exportable intermediate images with DMA-BUF create, import, export, and sync-fence wait logic for the graphics binding.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_LINUX_OPENXR_VULKAN_CONTEXT_H_
 #define DEVICE_VR_OPENXR_LINUX_OPENXR_VULKAN_CONTEXT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MailboxToSurfaceBridge interface
+// summary: Abstract interface for connecting to the GPU process and managing sync tokens, GPU fences, and shared images for XR rendering.
+// ---
+
 #ifndef DEVICE_VR_ANDROID_MAILBOX_TO_SURFACE_BRIDGE_H_
 #define DEVICE_VR_ANDROID_MAILBOX_TO_SURFACE_BRIDGE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR MSFT anchor manager header
+// summary: Declares OpenXrAnchorManagerMsft, a space-based anchor manager that maps XrSpace handles to MSFT spatial anchors.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_MSFT_OPENXR_ANCHOR_MANAGER_MSFT_H_
 #define DEVICE_VR_OPENXR_MSFT_OPENXR_ANCHOR_MANAGER_MSFT_H_
 

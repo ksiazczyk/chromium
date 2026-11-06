@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VROrientationDevice class declaration
+// summary: Declares the VROrientationDevice class that connects orientation sensor events to the WebXR APIs and picks the orientation sensor type per platform.
+// ---
+
 #ifndef DEVICE_VR_ORIENTATION_ORIENTATION_DEVICE_H_
 #define DEVICE_VR_ORIENTATION_ORIENTATION_DEVICE_H_
 

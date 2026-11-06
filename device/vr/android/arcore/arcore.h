@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArCore interface declaration
+// summary: Declares the ArCore virtual interface for real or fake ARCore runtimes, covering initialization, tracking, and depth sensing.
+// ---
+
 #ifndef DEVICE_VR_ANDROID_ARCORE_ARCORE_H_
 #define DEVICE_VR_ANDROID_ARCORE_ARCORE_H_
 

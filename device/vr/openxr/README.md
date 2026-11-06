@@ -1,3 +1,13 @@
+---
+type: readme
+title: OpenXR
+summary: Explains Chrome's OpenXR integration, covering the general architecture, platform support, extensions, input handling, and testing.
+relations:
+  - documents /device/vr/openxr/openxr_api_wrapper.h
+  - documents /device/vr/openxr/openxr_device.h
+  - documents /device/vr/openxr/openxr_extension_handler_factories.cc
+---
+
 # OpenXR
 
 *The OpenXR specification writes its name as 'OpenXR'; however, the Chrome

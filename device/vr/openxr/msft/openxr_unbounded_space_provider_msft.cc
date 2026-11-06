@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MSFT unbounded space provider implementation
+// summary: Implements the unbounded reference space provider and its factory for the XR_MSFT_unbounded_reference_space extension, reporting unbounded reference space support.
+// ---
+
 #include "device/vr/openxr/msft/openxr_unbounded_space_provider_msft.h"
 
 #include <set>

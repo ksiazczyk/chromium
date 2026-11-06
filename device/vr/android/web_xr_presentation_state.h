@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebXR presentation state declarations
+// summary: Declares WebXR frame, shared buffer, and presentation state classes and documents the three-stage browser- and viz-composited frame pipelines.
+// ---
+
 #ifndef DEVICE_VR_ANDROID_WEB_XR_PRESENTATION_STATE_H_
 #define DEVICE_VR_ANDROID_WEB_XR_PRESENTATION_STATE_H_
 

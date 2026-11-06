@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArCompositorFrameSink class declaration
+// summary: Declares the ArCompositorFrameSink class that builds Viz compositor frames from WebXR frames for AR sessions.
+// ---
+
 #ifndef DEVICE_VR_ANDROID_ARCORE_AR_COMPOSITOR_FRAME_SINK_H_
 #define DEVICE_VR_ANDROID_ARCORE_AR_COMPOSITOR_FRAME_SINK_H_
 

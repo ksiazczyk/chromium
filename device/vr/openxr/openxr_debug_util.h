@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR debug time utility declaration
+// summary: Declares a debug namespace helper that retrieves the current XrTime on Windows, deliberately restricted to intentional debugging use.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_OPENXR_DEBUG_UTIL_H_
 #define DEVICE_VR_OPENXR_OPENXR_DEBUG_UTIL_H_
 

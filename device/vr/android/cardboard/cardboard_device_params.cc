@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cardboard device parameters implementation
+// summary: Implements retrieval of saved or default Cardboard Viewer v1 device parameters, with a testing override that forces v1 parameters.
+// ---
+
 #include "device/vr/android/cardboard/cardboard_device_params.h"
 
 #include <stdint.h>

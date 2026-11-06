@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for the device/vr directory
+summary: Delegates code ownership to the WebXR OWNERS file and requires security owner review for mojom files in the directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VROrientationDeviceProvider class declaration
+// summary: Declares the VRDeviceProvider subclass that owns and initializes a VROrientationDevice from a sensor provider remote.
+// ---
+
 #ifndef DEVICE_VR_ORIENTATION_ORIENTATION_DEVICE_PROVIDER_H_
 #define DEVICE_VR_ORIENTATION_ORIENTATION_DEVICE_PROVIDER_H_
 

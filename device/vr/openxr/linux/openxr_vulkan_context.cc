@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR Vulkan context implementation
+// summary: Implements OpenXrVulkanContext, loading the Vulkan loader and creating the instance, device, queue, and command infrastructure via XR_KHR_vulkan_enable2 for image operations.
+// ---
+
 #include "device/vr/openxr/linux/openxr_vulkan_context.h"
 
 #include <sys/ioctl.h>

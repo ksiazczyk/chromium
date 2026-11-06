@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XR image transport base class
+// summary: Declares the base class that transports WebGL rendered output between GL contexts and composites it onto the camera image for WebXR.
+// ---
+
 #ifndef DEVICE_VR_ANDROID_XR_IMAGE_TRANSPORT_BASE_H_
 #define DEVICE_VR_ANDROID_XR_IMAGE_TRANSPORT_BASE_H_
 

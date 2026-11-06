@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Directory include rules for the Cardboard SDK
+summary: Grants this directory include access to the Cardboard SDK headers under third_party/cardboard/src/sdk/include.

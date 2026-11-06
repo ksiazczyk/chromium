@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for device/vr
+summary: Declares the Monorail component, team email address, and Buganizer component ID associated with the VR directory.

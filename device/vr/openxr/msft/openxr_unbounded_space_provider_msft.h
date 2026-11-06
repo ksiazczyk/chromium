@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MSFT unbounded space provider declarations
+// summary: Declares OpenXrUnboundedSpaceProviderMsft and its factory, which supply the unbounded reference space type when the MSFT extension is available.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_MSFT_OPENXR_UNBOUNDED_SPACE_PROVIDER_MSFT_H_
 #define DEVICE_VR_OPENXR_MSFT_OPENXR_UNBOUNDED_SPACE_PROVIDER_MSFT_H_
 #include "device/vr/openxr/openxr_unbounded_space_provider.h"

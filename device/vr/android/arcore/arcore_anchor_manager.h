@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArCore anchor manager class declaration
+// summary: Declares ArCoreAnchorManager, which maps anchor IDs to ARCore anchors and supports creating, querying, and detaching plane and free-floating anchors.
+// ---
+
 #ifndef DEVICE_VR_ANDROID_ARCORE_ARCORE_ANCHOR_MANAGER_H_
 #define DEVICE_VR_ANDROID_ARCORE_ARCORE_ANCHOR_MANAGER_H_
 

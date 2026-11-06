@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR API wrapper implementation
+// summary: Implements the core OpenXR session and frame handling, including event polling, blend modes, views, and input state for WebXR.
+// ---
+
 #include "device/vr/openxr/openxr_api_wrapper.h"
 
 #include <stdint.h>

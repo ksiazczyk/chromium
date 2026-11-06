@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows OpenXR platform helper declaration
+// summary: Declares OpenXrPlatformHelperWindows, the Windows implementation of OpenXrPlatformHelper that manages instance creation, availability checks, and LUID lookup.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_WINDOWS_OPENXR_PLATFORM_HELPER_WINDOWS_H_
 #define DEVICE_VR_OPENXR_WINDOWS_OPENXR_PLATFORM_HELPER_WINDOWS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spatial extension OpenXR anchor manager interface
+// summary: Declares OpenXrSpatialAnchorManager, an OpenXrAnchorManager delegate integrating the XR_EXT_SPATIAL_ANCHOR extension with the spatial framework manager.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_OPENXR_SPATIAL_ANCHOR_MANAGER_H_
 #define DEVICE_VR_OPENXR_OPENXR_SPATIAL_ANCHOR_MANAGER_H_
 

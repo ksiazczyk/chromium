@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR controller class declaration
+// summary: Declares OpenXrController, which initializes OpenXR actions, bindings, and spaces to supply controller poses, gamepad state, and hand tracking data.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_OPENXR_CONTROLLER_H_
 #define DEVICE_VR_OPENXR_OPENXR_CONTROLLER_H_
 

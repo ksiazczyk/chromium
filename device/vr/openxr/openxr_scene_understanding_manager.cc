@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR scene understanding manager base implementation
+// summary: Provides default implementations for the OpenXRSceneUnderstandingManager base class, with empty discovery handling and no mesh manager.
+// ---
+
 #include "device/vr/openxr/openxr_scene_understanding_manager.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux OpenXR platform helper implementation
+// summary: Implements the Linux OpenXR platform helper, providing the Vulkan graphics binding, cached polling instance reuse, device data queries, and session shutdown handling.
+// ---
+
 #include "device/vr/openxr/linux/openxr_platform_helper_linux.h"
 
 #include <utility>

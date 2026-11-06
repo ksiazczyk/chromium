@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hit test subscription data implementation
+// summary: Implements HitTestSubscriptionData and TransientInputHitTestSubscriptionData, which hold native origin, entity types, ray, and profile name data for XR hit tests.
+// ---
+
 #include "device/vr/hit_test_subscription_data.h"
 
 namespace device {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR MSFT scene wrapper implementation
+// summary: Implements the C++ wrapper for XrSceneMSFT, retrieving plane components and locating scene objects in a given space.
+// ---
+
 #include "device/vr/openxr/msft/openxr_scene_msft.h"
 
 #include <array>

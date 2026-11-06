@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR D3D11 graphics binding class declaration
+// summary: Declares OpenXrGraphicsBindingD3D11, the D3D11 implementation of OpenXrGraphicsBinding that manages rendering, shared images, and swapchains for OpenXR sessions on Windows.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_WINDOWS_OPENXR_GRAPHICS_BINDING_D3D11_H_
 #define DEVICE_VR_OPENXR_WINDOWS_OPENXR_GRAPHICS_BINDING_D3D11_H_
 

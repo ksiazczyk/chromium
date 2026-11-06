@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXrPlaneManager stub implementation
+// summary: Provides stub OpenXrPlaneManager implementations that return no plane detection data or plane locations.
+// ---
+
 #include "device/vr/openxr/openxr_plane_manager.h"
 
 #include "device/vr/openxr/openxr_api_wrapper.h"

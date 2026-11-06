@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MSFT scene understanding manager implementation
+// summary: Implements the MSFT scene understanding manager and its factory, wiring up plane, anchor and hit-test managers when the corresponding extensions are supported.
+// ---
+
 #include "device/vr/openxr/msft/openxr_scene_understanding_manager_msft.h"
 
 #include <algorithm>

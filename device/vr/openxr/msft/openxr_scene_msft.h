@@ -1,6 +1,13 @@
 // Copyright 2021 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: OpenXR MSFT scene wrapper header
+// summary: Declares OpenXrSceneMsft, a scoped C++ wrapper around the XrSceneMSFT handle with plane and object location queries.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_MSFT_OPENXR_SCENE_MSFT_H_
 #define DEVICE_VR_OPENXR_MSFT_OPENXR_SCENE_MSFT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux OpenXR platform helper class declaration
+// summary: Declares OpenXrPlatformHelperLinux, the Linux platform helper that runs in the isolated XR utility process and talks to an externally managed runtime via the OpenXR loader.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_LINUX_OPENXR_PLATFORM_HELPER_LINUX_H_
 #define DEVICE_VR_OPENXR_LINUX_OPENXR_PLATFORM_HELPER_LINUX_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D11 11.1 adapter helper implementation
+// summary: Implements helpers that enumerate DXGI adapters and return the first one supporting the Direct3D 11.1 feature level for the Windows VR device code.
+// ---
+
 #include "device/vr/windows/d3d11_device_helpers.h"
 
 #include <D3D11_1.h>

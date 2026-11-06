@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Android OpenXR include rules
+summary: Defines the allowed include paths for the Android OpenXR virtual reality code in device/vr/openxr/android.

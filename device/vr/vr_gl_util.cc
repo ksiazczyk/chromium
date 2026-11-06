@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VR OpenGL utility implementation
+// summary: Implements GL helpers for compiling shaders, linking programs, converting transforms to GL matrices, and setting texture and color uniforms.
+// ---
+
 #include "device/vr/vr_gl_util.h"
 
 #include "ui/gfx/geometry/transform.h"

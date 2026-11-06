@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VROrientationSession implementation
+// summary: Implements the magic window session that serves frame data from the orientation device and ends the session on Mojo connection errors.
+// ---
+
 #include "device/vr/orientation/orientation_session.h"
 
 #include <utility>

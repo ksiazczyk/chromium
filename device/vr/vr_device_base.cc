@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VRDeviceBase implementation
+// summary: Implements the VRDeviceBase class, managing device ID and data, presenting state, visibility changes, event listeners, and XR runtime binding.
+// ---
+
 #include "device/vr/vr_device_base.h"
 
 #include <utility>

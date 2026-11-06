@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR light estimator for Android
+// summary: Declares the Android OpenXR light estimator and its factory, providing XR light estimation and reflection probe data for a session.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_ANDROID_OPENXR_LIGHT_ESTIMATOR_ANDROID_H_
 #define DEVICE_VR_OPENXR_ANDROID_OPENXR_LIGHT_ESTIMATOR_ANDROID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARCore SDK loading and support check declarations
+// summary: Declares LoadArCoreSdk for loading the ARCore library and IsArCoreSupported for checking whether ARCore features can be used.
+// ---
+
 #ifndef DEVICE_VR_ANDROID_ARCORE_ARCORE_SHIM_H_
 #define DEVICE_VR_ANDROID_ARCORE_ARCORE_SHIM_H_
 

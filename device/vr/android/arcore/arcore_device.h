@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArCore XR device class declaration
+// summary: Declares ArCoreDevice, a VRDeviceBase subclass managing session lifecycle, drawing surface events, and initialization of the ARCore GL thread.
+// ---
+
 #ifndef DEVICE_VR_ANDROID_ARCORE_ARCORE_DEVICE_H_
 #define DEVICE_VR_ANDROID_ARCORE_ARCORE_DEVICE_H_
 

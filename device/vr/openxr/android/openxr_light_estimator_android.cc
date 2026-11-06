@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android OpenXR light estimator implementation
+// summary: Implements the Android OpenXR light estimator, providing ambient and reflection cubemap lighting data for WebXR light estimation.
+// ---
+
 #include "device/vr/openxr/android/openxr_light_estimator_android.h"
 
 #include <algorithm>

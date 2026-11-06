@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR platform helper class interface
+// summary: Declares the OpenXrPlatformHelper interface abstracting platform-specific OpenXR requirements such as loader initialization, graphics bindings, and instance create info.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_OPENXR_PLATFORM_HELPER_H_
 #define DEVICE_VR_OPENXR_OPENXR_PLATFORM_HELPER_H_
 

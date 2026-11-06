@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArImageTransport implementation
+// summary: Implements moving WebGL output into the local GL context and compositing it onto the ARCore camera image in shared buffers.
+// ---
+
 #include "device/vr/android/arcore/ar_image_transport.h"
 
 #include "device/vr/android/mailbox_to_surface_bridge.h"

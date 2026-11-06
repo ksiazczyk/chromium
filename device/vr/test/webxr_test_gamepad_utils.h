@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebXR test gamepad button ID mappings
+// summary: Defines the XrButtonId enum and constexpr mappings from button IDs to gamepad button and axis indices for WebXR tests.
+// ---
+
 #ifndef DEVICE_VR_TEST_WEBXR_TEST_GAMEPAD_UTILS_H_
 #define DEVICE_VR_TEST_WEBXR_TEST_GAMEPAD_UTILS_H_
 

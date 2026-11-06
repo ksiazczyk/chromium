@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Viz context provider callbacks
+// summary: Defines callback types used to request and deliver viz::ContextProvider instances to the OpenXR render loop thread.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_CONTEXT_PROVIDER_CALLBACKS_H_
 #define DEVICE_VR_OPENXR_CONTEXT_PROVIDER_CALLBACKS_H_
 

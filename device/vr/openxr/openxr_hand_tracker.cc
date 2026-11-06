@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR hand tracker implementation
+// summary: Implements OpenXrHandTracker, which locates hand joints, applies hand mesh scaling and supports configurable anonymization strategies for hand tracking data.
+// ---
+
 #include "device/vr/openxr/openxr_hand_tracker.h"
 
 #include <optional>

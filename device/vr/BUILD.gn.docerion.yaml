@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definitions for the device/vr targets
+summary: Defines the GN build targets for the VR directory, including the vr_gl_bindings, vr_base, vr_util, and vr components with their sources, visibility, and dependencies.

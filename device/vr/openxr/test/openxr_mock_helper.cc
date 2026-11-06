@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OpenXR mock trampoline loader helper
+// summary: Loads the mock OpenXR trampoline library per platform and registers the main process dispatch table and XR test hook.
+// ---
+
 #include "device/vr/openxr/test/openxr_mock_helper.h"
 
 #include <optional>

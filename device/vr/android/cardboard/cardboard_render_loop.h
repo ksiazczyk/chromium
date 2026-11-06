@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CardboardRenderLoop class declaration
+// summary: Declares the render loop thread implementing XRFrameDataProvider, XRSessionController, and XRPresentationProvider for Cardboard sessions.
+// ---
+
 #ifndef DEVICE_VR_ANDROID_CARDBOARD_CARDBOARD_RENDER_LOOP_H_
 #define DEVICE_VR_ANDROID_CARDBOARD_CARDBOARD_RENDER_LOOP_H_
 

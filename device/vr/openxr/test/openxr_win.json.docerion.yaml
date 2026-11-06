@@ -1,0 +1,4 @@
+# Docerion header of openxr_win.json.
+type: config
+title: Windows OpenXR mock runtime manifest
+summary: OpenXR loader manifest that points the Windows runtime to the mock OpenXrRuntime.dll used in tests.

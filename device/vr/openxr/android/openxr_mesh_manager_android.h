@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR Android mesh manager header
+// summary: Declares the Android OpenXR mesh manager that maps XR mesh UUIDs to local mesh IDs and fetches and caches submesh geometry.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_ANDROID_OPENXR_MESH_MANAGER_ANDROID_H_
 #define DEVICE_VR_OPENXR_ANDROID_OPENXR_MESH_MANAGER_ANDROID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR visibility mask handler
+// summary: Declares a handler class that caches and updates OpenXR visibility masks for views using the KHR visibility mask extension and reports mask IDs to XR views.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_OPENXR_VISIBILITY_MASK_HANDLER_H_
 #define DEVICE_VR_OPENXR_OPENXR_VISIBILITY_MASK_HANDLER_H_
 

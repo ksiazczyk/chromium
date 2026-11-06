@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sliding average class declarations
+// summary: Declares SlidingAverage and SlidingTimeDeltaAverage classes that provide sliding-window averages with default values when empty.
+// ---
+
 #ifndef DEVICE_VR_UTIL_SLIDING_AVERAGE_H_
 #define DEVICE_VR_UTIL_SLIDING_AVERAGE_H_
 

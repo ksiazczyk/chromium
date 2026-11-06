@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VROrientationDeviceProvider implementation
+// summary: Implements the device provider that creates the orientation VR device and registers it as an XR runtime once orientation sensors are available.
+// ---
+
 #include "device/vr/orientation/orientation_device_provider.h"
 
 #include <utility>

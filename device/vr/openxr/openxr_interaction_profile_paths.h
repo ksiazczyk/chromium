@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR interaction profile path constants
+// summary: Defines string constants for OpenXR interaction profile paths such as Microsoft Motion, Oculus Touch, Valve Index, HTC Vive, and hand interaction profiles.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_OPENXR_INTERACTION_PROFILE_PATHS_H_
 #define DEVICE_VR_OPENXR_OPENXR_INTERACTION_PROFILE_PATHS_H_
 

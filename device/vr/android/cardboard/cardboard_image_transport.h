@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CardboardImageTransport class declaration
+// summary: Declares the image transport that moves WebGL output to the local GL context and composites it using the Cardboard distortion renderer.
+// ---
+
 #ifndef DEVICE_VR_ANDROID_CARDBOARD_CARDBOARD_IMAGE_TRANSPORT_H_
 #define DEVICE_VR_ANDROID_CARDBOARD_CARDBOARD_IMAGE_TRANSPORT_H_
 

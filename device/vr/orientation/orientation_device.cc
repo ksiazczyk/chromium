@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VROrientationDevice implementation
+// summary: Implements the orientation-based VR device that reads orientation sensor data, computes poses and serves WebXR magic window sessions.
+// ---
+
 #include "device/vr/orientation/orientation_device.h"
 
 #include <math.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FPS meter unit tests
+// summary: Unit tests verifying FPSMeter behavior with too few frames, steady 60 FPS frame times, and a higher 90 FPS framerate.
+// ---
+
 #include "device/vr/util/fps_meter.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

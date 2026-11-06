@@ -1,6 +1,13 @@
 // Copyright 2021 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: OpenXrSceneObjectMsft scene object struct
+// summary: Defines the OpenXrSceneObjectMsft struct for XR_SCENE_COMPONENT_TYPE_OBJECT_MSFT with UUID id, parent id, update time and object type.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_MSFT_OPENXR_SCENE_OBJECT_MSFT_H_
 #define DEVICE_VR_OPENXR_MSFT_OPENXR_SCENE_OBJECT_MSFT_H_
 

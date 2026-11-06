@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR depth sensor interface
+// summary: Declares the abstract OpenXrDepthSensor interface for initializing depth sensors, reporting depth configuration, and populating XR views with depth data.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_OPENXR_DEPTH_SENSOR_H_
 #define DEVICE_VR_OPENXR_OPENXR_DEPTH_SENSOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OpenXR mock runtime loader trampoline
+// summary: Implements the OpenXR loader negotiation entry point for the openxr_mock shared library, forwarding OpenXR calls to the embedded mock implementation.
+// ---
+
 #include <cstdio>
 
 #include "third_party/openxr/src/include/openxr/openxr.h"

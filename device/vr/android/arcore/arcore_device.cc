@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArCore XR device implementation
+// summary: Implements ArCoreDevice, the main-thread VR device that handles ARCore session requests, advertises supported XR features, and coordinates the GL thread.
+// ---
+
 #include "device/vr/android/arcore/arcore_device.h"
 
 #include <algorithm>

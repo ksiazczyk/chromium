@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped RAII wrappers for ARCore SDK objects
+// summary: Defines ScopedArCoreObject, a scoped generic wrapper with per-type free functions that release ARCore SDK objects such as sessions, poses, and anchors.
+// ---
+
 #ifndef DEVICE_VR_ANDROID_ARCORE_SCOPED_ARCORE_OBJECTS_H_
 #define DEVICE_VR_ANDROID_ARCORE_SCOPED_ARCORE_OBJECTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR instance wrapper singleton declaration
+// summary: Declares OpenXrInstanceWrapper, a leaky singleton that keeps the OpenXR XrInstance alive for the utility process to work around Windows runtime DLL shutdown bugs.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_WINDOWS_OPENXR_INSTANCE_WRAPPER_H_
 #define DEVICE_VR_OPENXR_WINDOWS_OPENXR_INSTANCE_WRAPPER_H_
 

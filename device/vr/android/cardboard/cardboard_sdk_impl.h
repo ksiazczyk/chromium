@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CardboardSdkImpl class declaration
+// summary: Declares CardboardSdkImpl, the production CardboardSdk implementation that tracks initialization state and handles activity resume callbacks after QR scanning.
+// ---
+
 #ifndef DEVICE_VR_ANDROID_CARDBOARD_CARDBOARD_SDK_IMPL_H_
 #define DEVICE_VR_ANDROID_CARDBOARD_CARDBOARD_SDK_IMPL_H_
 

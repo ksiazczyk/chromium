@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR spatial utilities implementation
+// summary: Implements helper functions that enumerate the spatial capabilities and supported component types offered by the current OpenXR runtime.
+// ---
+
 #include "device/vr/openxr/openxr_spatial_utils.h"
 
 namespace device {

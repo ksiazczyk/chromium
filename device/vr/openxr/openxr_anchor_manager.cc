@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR anchor manager implementation
+// summary: Implements processing of WebXR anchor creation requests and per-frame anchor data updates through the OpenXR API wrapper.
+// ---
+
 #include "device/vr/openxr/openxr_anchor_manager.h"
 
 #include <set>

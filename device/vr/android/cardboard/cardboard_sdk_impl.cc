@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CardboardSdkImpl implementation
+// summary: Implements CardboardSdk by initializing the Cardboard SDK over JNI and launching the QR code scanner activity to save Cardboard viewer device parameters.
+// ---
+
 #include "device/vr/android/cardboard/cardboard_sdk_impl.h"
 
 #include "base/android/jni_android.h"

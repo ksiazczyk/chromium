@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArCore GL thread implementation
+// summary: Implements ArCoreGlThread, a Java handler thread that creates and owns the ArCoreGl instance on the GL thread and signals initialization completion.
+// ---
+
 #include "device/vr/android/arcore/arcore_gl_thread.h"
 
 #include <utility>

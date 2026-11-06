@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR device implementation
+// summary: Implements OpenXrDevice, handling WebXR session requests, supported feature negotiation including layers and WebGPU, and session lifecycle for the OpenXR runtime.
+// ---
+
 #include "device/vr/openxr/openxr_device.h"
 
 #include <algorithm>

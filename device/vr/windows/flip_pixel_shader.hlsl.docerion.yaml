@@ -1,0 +1,4 @@
+# Docerion header of flip_pixel_shader.hlsl.
+type: source
+title: Flip pixel shader HLSL source
+summary: HLSL source for a pixel shader that samples a texture with linear filtering and wrap addressing, compiled into the flip pixel shader header.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Android VR static library build definition
+summary: Defines the vr_android static library for Android VR, listing its source files and build dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android OpenXR anchor manager implementation
+// summary: Implements the Android OpenXR anchor manager that creates anchor spaces via xrCreateAnchorSpaceANDROID and resolves anchor poses relative to mojo space.
+// ---
+
 #include "device/vr/openxr/android/openxr_anchor_manager_android.h"
 
 #include "base/containers/flat_set.h"

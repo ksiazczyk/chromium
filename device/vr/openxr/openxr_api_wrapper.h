@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR API wrapper interface
+// summary: Declares the OpenXrApiWrapper class that manages the XrInstance and XrSession, frames, reference spaces, views, and input for WebXR.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_OPENXR_API_WRAPPER_H_
 #define DEVICE_VR_OPENXR_OPENXR_API_WRAPPER_H_
 

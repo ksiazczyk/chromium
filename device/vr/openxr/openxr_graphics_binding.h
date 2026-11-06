@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR graphics binding interface
+// summary: Defines the OpenXrGraphicsBinding interface abstracting platform-specific rendering paths such as DirectX, GLES and Vulkan, including swapchain and shared image handling.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_OPENXR_GRAPHICS_BINDING_H_
 #define DEVICE_VR_OPENXR_OPENXR_GRAPHICS_BINDING_H_
 

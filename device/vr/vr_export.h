@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DEVICE_VR export macro header
+// summary: Defines the DEVICE_VR_EXPORT macro for DLL import and export when building the device/vr component.
+// ---
+
 #ifndef DEVICE_VR_VR_EXPORT_H_
 #define DEVICE_VR_VR_EXPORT_H_
 

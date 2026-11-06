@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR unbounded space provider implementation
+// summary: Creates an unbounded OpenXR reference space for a session via xrCreateReferenceSpace with an identity pose.
+// ---
+
 #include "device/vr/openxr/openxr_unbounded_space_provider.h"
 
 #include "base/check.h"

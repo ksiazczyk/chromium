@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR extension helper declarations
+// summary: Declares OpenXrExtensionMethods and OpenXrExtensionEnumeration, which load and track OpenXR extension functions for hand tracking, anchors, scene understanding and spatial features.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_OPENXR_EXTENSION_HELPER_H_
 #define DEVICE_VR_OPENXR_OPENXR_EXTENSION_HELPER_H_
 

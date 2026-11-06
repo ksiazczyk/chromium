@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenXR render loop class declaration
+// summary: Declares OpenXrRenderLoop, a dedicated XR thread implementing the presentation, frame data, overlay, layer, and environment integration Mojo interfaces.
+// ---
+
 #ifndef DEVICE_VR_OPENXR_OPENXR_RENDER_LOOP_H_
 #define DEVICE_VR_OPENXR_OPENXR_RENDER_LOOP_H_
 

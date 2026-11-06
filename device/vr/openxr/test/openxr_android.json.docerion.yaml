@@ -1,0 +1,4 @@
+# Docerion header of openxr_android.json.
+type: config
+title: OpenXR runtime manifest for Android tests
+summary: OpenXR loader manifest for Android whose runtime library path is a placeholder resolved to the mock runtime at test time.
