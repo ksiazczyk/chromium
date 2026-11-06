@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Fuzzers directory include rules
+summary: DEPS file allowing this directory to include headers from third_party/pdfium/testing/fuzzers.

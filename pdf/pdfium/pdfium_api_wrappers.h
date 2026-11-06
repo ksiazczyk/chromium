@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFium API wrapper declarations
+// summary: Declares modern C++ wrapper functions around PDFium C APIs for loading documents, querying bounds and rendering pages.
+// ---
+
 #ifndef PDF_PDFIUM_PDFIUM_API_WRAPPERS_H_
 #define PDF_PDFIUM_PDFIUM_API_WRAPPERS_H_
 

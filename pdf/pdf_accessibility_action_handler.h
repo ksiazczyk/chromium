@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF accessibility action handler interface
+// summary: Defines the abstract interface for enabling accessibility and handling accessibility actions in the PDF viewer.
+// ---
+
 #ifndef PDF_PDF_ACCESSIBILITY_ACTION_HANDLER_H_
 #define PDF_PDF_ACCESSIBILITY_ACTION_HANDLER_H_
 

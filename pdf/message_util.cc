@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message reply helper implementation
+// summary: Implements PrepareReplyMessage, building reply dictionaries with a Reply type suffix and copied messageId.
+// ---
+
 #include "pdf/message_util.h"
 
 #include <string>

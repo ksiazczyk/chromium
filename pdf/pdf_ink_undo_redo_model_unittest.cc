@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF Ink undo/redo model unit tests
+// summary: Unit tests covering valid and invalid undo/redo command sequences, including spurious actions, stack truncation, and ID ordering rules for Ink annotations.
+// ---
+
 #include "pdf/pdf_ink_undo_redo_model.h"
 
 #include <stddef.h>

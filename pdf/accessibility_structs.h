@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF accessibility struct definitions
+// summary: Defines structs and enums describing PDF accessibility data, including text runs, styles, images, links, highlights, structure elements and selections.
+// ---
+
 #ifndef PDF_ACCESSIBILITY_STRUCTS_H_
 #define PDF_ACCESSIBILITY_STRUCTS_H_
 

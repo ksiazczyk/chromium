@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for //pdf
+summary: Directory metadata file that applies the COMMON_METADATA mixins to this directory.

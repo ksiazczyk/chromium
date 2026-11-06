@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuzzer process initialization
+// summary: C++ source providing LLVMFuzzerInitialize, which enables termination on out-of-memory and installs a test discardable memory allocator for the fuzzers.
+// ---
+
 #include "base/process/memory.h"
 #include "base/test/test_discardable_memory_allocator.h"
 #include "testing/libfuzzer/libfuzzer_exports.h"

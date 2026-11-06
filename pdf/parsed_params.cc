@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web plugin params parsing
+// summary: Implements ParseWebPluginParams, which parses blink plugin attributes such as URLs, background color, and script options into a ParsedParams struct.
+// ---
+
 #include "pdf/parsed_params.h"
 
 #include <string>

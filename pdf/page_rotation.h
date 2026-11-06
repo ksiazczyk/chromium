@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageRotation enum header
+// summary: Defines the PageRotation enum representing a PDF page's inherent clockwise rotation, separate from viewer orientation.
+// ---
+
 #ifndef PDF_PAGE_ROTATION_H_
 #define PDF_PAGE_ROTATION_H_
 

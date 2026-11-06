@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFiumEngine implementation
+// summary: Implements the core PDFium rendering engine, covering document loading, layout, input handling, find, accessibility, printing and thumbnails.
+// ---
+
 #include "pdf/pdfium/pdfium_engine.h"
 
 #include <math.h>

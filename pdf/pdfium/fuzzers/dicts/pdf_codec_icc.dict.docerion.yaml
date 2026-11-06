@@ -1,0 +1,4 @@
+# Docerion header of pdf_codec_icc.dict.
+type: data
+title: ICC fuzzing dictionary
+summary: Fuzzing dictionary of ICC profile signatures, tags, color spaces and classes extracted from the Little-CMS lcms2.h header.

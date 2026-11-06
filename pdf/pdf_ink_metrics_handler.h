@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF Ink metrics enums
+// summary: Declares histogram enums for stroke brush size, type, colors, input device types, and text annotation attributes persisted to logs.
+// ---
+
 #ifndef PDF_PDF_INK_METRICS_HANDLER_H_
 #define PDF_PDF_INK_METRICS_HANDLER_H_
 

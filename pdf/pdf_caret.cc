@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF caret implementation
+// summary: Implements the PdfCaret class for text selection and navigation in PDFs, handling caret drawing, blinking, position updates, and keyboard-driven movement.
+// ---
+
 #include "pdf/pdf_caret.h"
 
 #include <stdint.h>

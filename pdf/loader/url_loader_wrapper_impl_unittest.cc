@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL loader wrapper implementation unit tests
+// summary: Unit tests for URLLoaderWrapperImpl covering byte-range start parsing from Content-Range headers and related response handling.
+// ---
+
 #include "pdf/loader/url_loader_wrapper_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared PDF Ink annotation constants
+// summary: Defines Ink annotation identifier keys, text annotation version and the maximum PDF dimension constant.
+// ---
+
 #ifndef PDF_PDF_INK_CONSTANTS_H_
 #define PDF_PDF_INK_CONSTANTS_H_
 

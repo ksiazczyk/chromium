@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PostMessage receiver class declarations
+// summary: Declares PostMessageReceiver, a gin-wrappable object exposing postMessage() to the embedder and asynchronously forwarding converted messages to a client.
+// ---
+
 #ifndef PDF_POST_MESSAGE_RECEIVER_H_
 #define PDF_POST_MESSAGE_RECEIVER_H_
 

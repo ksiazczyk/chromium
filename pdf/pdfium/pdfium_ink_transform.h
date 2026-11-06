@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFium ink transform API
+// summary: Declares helpers to obtain the canonical-to-PDF transform for a page and to calculate text box transformation matrices.
+// ---
+
 #ifndef PDF_PDFIUM_PDFIUM_INK_TRANSFORM_H_
 #define PDF_PDFIUM_PDFIUM_INK_TRANSFORM_H_
 

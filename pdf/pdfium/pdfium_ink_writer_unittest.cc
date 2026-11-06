@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDFium ink writer unit tests
+// summary: Unit tests that write Ink strokes to PDF pages via PDFium and verify the results can be read back.
+// ---
+
 #include "pdf/pdfium/pdfium_ink_writer.h"
 
 #include <array>

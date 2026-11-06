@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFium page implementation
+// summary: Implements the PDFiumPage wrapper for page loading, text extraction, accessibility, and thumbnails.
+// ---
+
 #include "pdf/pdfium/pdfium_page.h"
 
 #include <math.h>

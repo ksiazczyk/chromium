@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility unit tests
+// summary: Unit tests verifying accessibility data such as structure trees, text runs and images produced by the PDFium engine.
+// ---
+
 #include "pdf/accessibility.h"
 
 #include <array>

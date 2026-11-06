@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF caret client interface
+// summary: Defines the PdfCaretClient interface supplying character counts, screen rects, text runs, selection, and scrolling callbacks needed by the PDF caret.
+// ---
+
 #ifndef PDF_PDF_CARET_CLIENT_H_
 #define PDF_PDF_CARET_CLIENT_H_
 

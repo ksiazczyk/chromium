@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFium unsupported features declarations
+// summary: Declares the unsupported features handler and ScopedUnsupportedFeature to scope engine callbacks during PDFium calls.
+// ---
+
 #ifndef PDF_PDFIUM_PDFIUM_UNSUPPORTED_FEATURES_H_
 #define PDF_PDFIUM_PDFIUM_UNSUPPORTED_FEATURES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaintAggregator implementation
+// summary: Implements aggregation of invalidation and scroll commands into a scroll and repaint sequence, including scroll damage computation.
+// ---
+
 #include "pdf/paint_aggregator.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF drawing coordinate utilities implementation
+// summary: Implements page layout and coordinate helpers for the PDF viewer, including rect centering, document size expansion, most visible page detection, two-up view insets, and zoomed screen rect conversion.
+// ---
+
 #include "pdf/draw_utils/coordinates.h"
 
 #include <math.h>

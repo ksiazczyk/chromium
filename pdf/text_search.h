@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextSearch function declaration
+// summary: Declares the TextSearch helper that returns the start index and length of each match when searching a needle within PDF text.
+// ---
+
 #ifndef PDF_TEXT_SEARCH_H_
 #define PDF_TEXT_SEARCH_H_
 

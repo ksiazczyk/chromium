@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF Ink module unit tests
+// summary: Unit tests for PdfInkModule covering annotation modes, stroke and text input handling, layouts, and metrics reporting.
+// ---
+
 #include "pdf/pdf_ink_module.h"
 
 #include <algorithm>

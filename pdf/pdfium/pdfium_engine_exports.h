@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFiumEngineExports interface header
+// summary: Declares PDFiumEngineExports, the interface wrapping PDFiumEngine for rendering, N-up conversion, flattened PDF creation and metadata queries.
+// ---
+
 #ifndef PDF_PDFIUM_PDFIUM_ENGINE_EXPORTS_H_
 #define PDF_PDFIUM_PDFIUM_ENGINE_EXPORTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF document metadata types
+// summary: Declares the DocumentMetadata struct plus PdfVersion and FormType enums describing PDF document properties for the Chromium PDF viewer.
+// ---
+
 #ifndef PDF_DOCUMENT_METADATA_H_
 #define PDF_DOCUMENT_METADATA_H_
 

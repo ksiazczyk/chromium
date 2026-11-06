@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8ValueConverter interface header
+// summary: Declares the V8ValueConverter abstract interface for converting between base::Value and V8 values, keeping the PDF component decoupled from the content layer.
+// ---
+
 #ifndef PDF_V8_VALUE_CONVERTER_H_
 #define PDF_V8_VALUE_CONVERTER_H_
 

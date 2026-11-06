@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF Ink undo/redo model implementation
+// summary: Implements a command-stack model that records add and remove commands for Ink annotations and computes the commands needed for undo and redo operations.
+// ---
+
 #include "pdf/pdf_ink_undo_redo_model.h"
 
 #include <stddef.h>

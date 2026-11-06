@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFium ink writer API
+// summary: Declares WriteStrokeToPage, which writes an Ink stroke to a PDF page in the V2 Ink format and returns handles to the created page objects.
+// ---
+
 #ifndef PDF_PDFIUM_PDFIUM_INK_WRITER_H_
 #define PDF_PDFIUM_PDFIUM_INK_WRITER_H_
 

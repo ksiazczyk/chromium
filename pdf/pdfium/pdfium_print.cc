@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFium print implementation
+// summary: Implements PDF printing support, including page transformation for paper sizes, N-up generation, rasterization and flattened PDF creation.
+// ---
+
 #include "pdf/pdfium/pdfium_print.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDFium test helpers implementation
+// summary: Implements test helpers that count PDF mark objects and render pages to compare against expected PNG files.
+// ---
+
 #include "pdf/pdfium/pdfium_test_helpers.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF Ink signature ID type definitions
+// summary: Defines strongly-typed IDs for fonts, shapes, strokes, and text objects used by PDF Ink Signatures, plus helpers to compare and convert them.
+// ---
+
 #ifndef PDF_PDF_INK_IDS_H_
 #define PDF_PDF_INK_IDS_H_
 

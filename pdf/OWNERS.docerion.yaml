@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the //pdf directory
+summary: Sets primary, secondary, and topic-specific owners for reviews in the PDF directory.

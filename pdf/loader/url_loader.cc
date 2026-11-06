@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL loader implementation
+// summary: Implements UrlLoader, which opens and reads URL requests through Blink's WebAssociatedURLLoader on behalf of the PDF plugin.
+// ---
+
 #include "pdf/loader/url_loader.h"
 
 #include <stddef.h>

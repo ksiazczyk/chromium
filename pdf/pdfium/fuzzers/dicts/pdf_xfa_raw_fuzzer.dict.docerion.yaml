@@ -1,0 +1,4 @@
+# Docerion header of pdf_xfa_raw_fuzzer.dict.
+type: data
+title: XFA fuzzing dictionary
+summary: Fuzzing dictionary of XFA element tags and attribute names used by the raw XFA fuzzer.

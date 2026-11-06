@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DocumentLoader interface
+// summary: Defines the abstract DocumentLoader interface and its Client notifications used for PDF document loading.
+// ---
+
 #ifndef PDF_LOADER_DOCUMENT_LOADER_H_
 #define PDF_LOADER_DOCUMENT_LOADER_H_
 

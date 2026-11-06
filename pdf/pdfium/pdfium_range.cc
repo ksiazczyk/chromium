@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFium range implementation
+// summary: Implements PDFiumRange, computing character ranges and merging text run rectangles into bounding rects for selections on PDF pages.
+// ---
+
 #include "pdf/pdfium/pdfium_range.h"
 
 #include <algorithm>

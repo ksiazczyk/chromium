@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF Ink text annotation types
+// summary: Declares text annotation types such as typeface, alignment, textbox attributes, and glyph info structures for ink text objects.
+// ---
+
 #ifndef PDF_PDF_INK_TEXT_H_
 #define PDF_PDF_INK_TEXT_H_
 

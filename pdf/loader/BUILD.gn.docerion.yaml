@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: PDF loader BUILD.gn build targets
+summary: Defines the loader source_set and unit_tests targets for the PDF loader, listing sources, public headers, and dependencies.

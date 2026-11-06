@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlattenPdfResult struct declaration
+// summary: Declares a struct holding a flattened PDF byte buffer and its strictly positive page count.
+// ---
+
 #ifndef PDF_FLATTEN_PDF_RESULT_H_
 #define PDF_FLATTEN_PDF_RESULT_H_
 

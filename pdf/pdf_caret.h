@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF caret class header
+// summary: Declares the PdfCaret class that manages caret drawing, blinking, position updates, and keyboard-driven movement for text selection within PDFs.
+// ---
+
 #ifndef PDF_PDF_CARET_H_
 #define PDF_PDF_CARET_H_
 

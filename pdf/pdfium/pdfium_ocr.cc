@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFium OCR image extraction
+// summary: Extracts and scales PDF page image objects into SkBitmaps sized for OCR processing.
+// ---
+
 #include "pdf/pdfium/pdfium_ocr.h"
 
 #include <math.h>

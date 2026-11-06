@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFium watermark overlayer
+// summary: Declares PdfiumWatermarkOverlayer, which overlays watermark pages onto a base PDF and returns the merged document.
+// ---
+
 #ifndef PDF_PDFIUM_PDFIUM_WATERMARK_OVERLAYER_H_
 #define PDF_PDFIUM_PDFIUM_WATERMARK_OVERLAYER_H_
 

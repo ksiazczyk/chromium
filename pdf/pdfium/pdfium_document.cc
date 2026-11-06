@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFium document implementation
+// summary: Implements PDFiumDocument, bridging the document loader to PDFium file access, availability and download hint interfaces.
+// ---
+
 #include "pdf/pdfium/pdfium_document.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF watermark overlayer interface
+// summary: Declares an interface for loading a base PDF, querying its page sizes, and overlaying watermark PDF pages onto it.
+// ---
+
 #ifndef PDF_PDF_WATERMARK_OVERLAYER_H_
 #define PDF_PDF_WATERMARK_OVERLAYER_H_
 

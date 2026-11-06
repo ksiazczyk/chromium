@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF transform API declarations
+// summary: Declares functions for computing scale factors, media and crop box handling, and clip box offsets in the PDF coordinate space.
+// ---
+
 #ifndef PDF_PDF_TRANSFORM_H_
 #define PDF_PDF_TRANSFORM_H_
 

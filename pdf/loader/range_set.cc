@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RangeSet implementation
+// summary: Implements RangeSet operations such as union, intersection, and containment over gfx::Range intervals.
+// ---
+
 #include "pdf/loader/range_set.h"
 
 #include <algorithm>

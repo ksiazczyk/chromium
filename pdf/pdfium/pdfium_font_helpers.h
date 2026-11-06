@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF font mapping helper declarations
+// summary: Declares PdfFontToBlinkFontMapping, a shared helper that converts PDFium font parameters into Skia and Blink friendly values for Linux and Windows.
+// ---
+
 #ifndef PDF_PDFIUM_PDFIUM_FONT_HELPERS_H_
 #define PDF_PDFIUM_PDFIUM_FONT_HELPERS_H_
 

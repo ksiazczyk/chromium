@@ -1,0 +1,4 @@
+# Docerion header of pdf_codec_jpeg.dict.
+type: data
+title: JPEG fuzzing dictionary
+summary: AFL fuzzing dictionary with JPEG headers and section markers for fuzzing the JPEG image codec.

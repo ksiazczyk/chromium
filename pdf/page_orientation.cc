@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageOrientation helper implementation
+// summary: Implements conversion between rotation steps and PageOrientation values plus clockwise and counterclockwise rotation helpers using modular arithmetic.
+// ---
+
 #include "pdf/page_orientation.h"
 
 #include <type_traits>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricsHandler class header
+// summary: Declares the chrome_pdf MetricsHandler class used to record UMA metrics for PDF documents, noting action metrics are handled separately.
+// ---
+
 #ifndef PDF_METRICS_HANDLER_H_
 #define PDF_METRICS_HANDLER_H_
 

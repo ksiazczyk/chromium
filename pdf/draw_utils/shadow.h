@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF page shadow drawing header
+// summary: Declares the ShadowMatrix class for caching shadow rendering matrices and the DrawShadow function that paints a shadow onto an image using a given matrix and clipping region.
+// ---
+
 #ifndef PDF_DRAW_UTILS_SHADOW_H_
 #define PDF_DRAW_UTILS_SHADOW_H_
 

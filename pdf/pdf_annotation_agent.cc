@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF annotation agent implementation
+// summary: Implements the PDF text fragment annotation agent that attaches highlights, scrolls fragments into view, and removes them with checked state transitions.
+// ---
+
 #include "pdf/pdf_annotation_agent.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF structure type and attribute constants
+// summary: Defines constants for PDF structure types, attribute owners, and list numbering values taken from the PDF 32000 specification for accessibility tagging.
+// ---
+
 #ifndef PDF_PDF_ACCESSIBILITY_CONSTANTS_H_
 #define PDF_PDF_ACCESSIBILITY_CONSTANTS_H_
 

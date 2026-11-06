@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux font mapper for PDFium
+// summary: Implements the Linux-specific PDFium font mapper, including SFNT font table loading, routing font requests through Blink because sandboxed font loading fails.
+// ---
+
 #include "pdf/pdfium/pdfium_font_linux.h"
 
 #include <stddef.h>

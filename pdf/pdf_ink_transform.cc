@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF Ink transform implementation
+// summary: Implements transforms that convert screen event positions to canonical page coordinates and compute affine transforms for rendering Ink strokes on PDF pages.
+// ---
+
 #include "pdf/pdf_ink_transform.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFium form filler implementation
+// summary: Implements PDFiumFormFiller, wiring FPDF_FORMFILLINFO and JavaScript platform callbacks for form filling, timers, URI actions and focus handling.
+// ---
+
 #include "pdf/pdfium/pdfium_form_filler.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of pdf_codec_tiff.dict.
+type: data
+title: TIFF fuzzing dictionary
+summary: AFL fuzzing dictionary with TIFF byte-order headers and tag section markers for fuzzing the TIFF image codec.

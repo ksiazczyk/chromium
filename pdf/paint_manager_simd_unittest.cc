@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaintManager SIMD blend unit tests
+// summary: Verifies SIMD blend functions produce bit-exact output against scalar reference implementations and satisfy blending property tests.
+// ---
+
 #include "pdf/paint_manager_simd.h"
 
 #include <stddef.h>

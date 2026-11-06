@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input utils unit tests
+// summary: Unit tests verifying NormalizeMouseEvent is a no-op for standard mouse events and rewrites macOS ctrl-click to right button.
+// ---
+
 #include "pdf/input_utils.h"
 
 #include "build/build_config.h"

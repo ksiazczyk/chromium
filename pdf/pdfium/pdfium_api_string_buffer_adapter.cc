@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFium API string buffer adapter implementation
+// summary: Implements adapters that let PDFium APIs write null-terminated output into std::string and std::u16string buffers.
+// ---
+
 #include "pdf/pdfium/pdfium_api_string_buffer_adapter.h"
 
 #include <stddef.h>

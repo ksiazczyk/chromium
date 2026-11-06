@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFium progressive searchifier header
+// summary: Declares PdfiumProgressiveSearchifier, the PDFium-backed implementation of PdfProgressiveSearchifier for adding, deleting and saving pages.
+// ---
+
 #ifndef PDF_PDFIUM_PDFIUM_PROGRESSIVE_SEARCHIFIER_H_
 #define PDF_PDFIUM_PDFIUM_PROGRESSIVE_SEARCHIFIER_H_
 

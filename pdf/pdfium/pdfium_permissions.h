@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFium permissions header
+// summary: Declares the PDFiumPermissions class and PDF permission bit masks used to check document permissions for an FPDF_DOCUMENT.
+// ---
+
 #ifndef PDF_PDFIUM_PDFIUM_PERMISSIONS_H_
 #define PDF_PDFIUM_PDFIUM_PERMISSIONS_H_
 

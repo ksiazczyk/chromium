@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF searchify unit tests
+// summary: Tests coordinate conversion and word move matrix calculations used by the searchify OCR text overlay.
+// ---
+
 #include "pdf/pdfium/pdfium_searchify.h"
 
 #include <algorithm>

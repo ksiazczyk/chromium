@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDFium form filler unit tests
+// summary: Unit tests for the PDFium form filler, exercising URI actions with keyboard modifiers, focus change, beep and file path callbacks through a mocked engine client.
+// ---
+
 #include "pdf/pdfium/pdfium_form_filler.h"
 
 #include <vector>

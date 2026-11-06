@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFium ink annotation reader
+// summary: Reads V2 ink paths and text annotations from PDF pages via PDFium, converting them into Ink meshes and text box results with validation of point values.
+// ---
+
 #include "pdf/pdfium/pdfium_ink_reader.h"
 
 #include <map>

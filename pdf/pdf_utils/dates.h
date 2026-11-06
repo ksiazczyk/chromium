@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF date parsing header
+// summary: Declares ParsePdfDate, which parses PDF date strings into base::Time and returns a null time when the input cannot be parsed.
+// ---
+
 #ifndef PDF_PDF_UTILS_DATES_H_
 #define PDF_PDF_UTILS_DATES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF Ink transform header
+// summary: Declares transform helpers for converting input event positions to page-based CSS pixel coordinates and for rendering Ink strokes, with detailed parameter documentation.
+// ---
+
 #ifndef PDF_PDF_INK_TRANSFORM_H_
 #define PDF_PDF_INK_TRANSFORM_H_
 

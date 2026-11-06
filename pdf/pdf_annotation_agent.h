@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF annotation agent class
+// summary: Declares the PDF text fragment annotation agent, its container interface for finding, scrolling, and removing highlights, and its state machine.
+// ---
+
 #ifndef PDF_PDF_ANNOTATION_AGENT_H_
 #define PDF_PDF_ANNOTATION_AGENT_H_
 

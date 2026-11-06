@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF SDK initialization state header
+// summary: Declares functions to get and set whether the PDF SDK was initialized via the plugin.
+// ---
+
 #ifndef PDF_PDF_INIT_H_
 #define PDF_PDF_INIT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build configuration for PDF mojom bindings
+summary: GN build file that defines the mojom target for pdf.mojom and enables feature-gated PDF bindings such as Ink2, Save to Drive, and ScreenAI.

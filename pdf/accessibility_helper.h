@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF accessibility helper header
+// summary: Declares GetEnclosingTextRunRangeForCharRange, which maps a character range to the enclosing accessibility text run range in a PDF.
+// ---
+
 #ifndef PDF_ACCESSIBILITY_HELPER_H_
 #define PDF_ACCESSIBILITY_HELPER_H_
 

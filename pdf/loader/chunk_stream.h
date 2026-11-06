@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChunkStream chunked data stream
+// summary: Declares a ChunkStream template that assembles fixed-size chunks into a byte stream and tracks which ranges are available.
+// ---
+
 #ifndef PDF_LOADER_CHUNK_STREAM_H_
 #define PDF_LOADER_CHUNK_STREAM_H_
 

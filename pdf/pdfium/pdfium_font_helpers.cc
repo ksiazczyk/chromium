@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF font to Blink font mapping helpers
+// summary: Implements mapping of PDF font names and weights to Blink font descriptions, with substitutions for Courier, Helvetica, Times and Japanese MS fonts.
+// ---
+
 #include "pdf/pdfium/pdfium_font_helpers.h"
 
 #include <algorithm>

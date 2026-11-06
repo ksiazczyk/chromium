@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save-to-Drive data buffer handlers implementation
+// summary: Implements buffer handlers that serve the original or modified PDF file data through PdfViewWebPlugin when saving a document to Google Drive.
+// ---
+
 #include "pdf/save_data_buffer_handler_for_drive.h"
 
 #include "pdf/pdf_view_web_plugin.h"

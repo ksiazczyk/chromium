@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ParsedParams unit tests
+// summary: Tests parsing of web plugin parameters including source URLs, background colors, full-frame flags, and invalid attribute handling.
+// ---
+
 #include "pdf/parsed_params.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChunkStream unit tests
+// summary: Unit tests covering chunk availability, gap filling, and read behavior of ChunkStream.
+// ---
+
 #include "pdf/loader/chunk_stream.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFium watermark overlayer implementation
+// summary: Implements overlaying watermark PDF pages onto a base PDF document using the PDFium SDK.
+// ---
+
 #include "pdf/pdfium/pdfium_watermark_overlayer.h"
 
 #include "base/check_op.h"

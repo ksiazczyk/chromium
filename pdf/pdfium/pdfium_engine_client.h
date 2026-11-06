@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFiumEngineClient interface
+// summary: Defines the client interface through which the PDFium engine reports layout, scrolling, navigation, cursor and find-result updates to its embedder.
+// ---
+
 #ifndef PDF_PDFIUM_PDFIUM_ENGINE_CLIENT_H_
 #define PDF_PDFIUM_PDFIUM_ENGINE_CLIENT_H_
 

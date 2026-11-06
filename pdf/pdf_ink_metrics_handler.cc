@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF Ink metrics handler implementation
+// summary: Implements metrics recording for ink annotations, mapping pen and highlighter brush sizes and colors to histogram enum values.
+// ---
+
 #include "pdf/pdf_ink_metrics_handler.h"
 
 #include <optional>

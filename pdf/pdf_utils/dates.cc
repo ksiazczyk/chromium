@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF date parsing implementation
+// summary: Implements ParsePdfDate, converting PDF date strings from the ISO 32000-1 spec into base::Time values with lenient handling of prefixes and time zone offsets.
+// ---
+
 #include "pdf/pdf_utils/dates.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDFium test fixture base implementation
+// summary: Implements PDFiumTestBase, which initializes the PDFium SDK and test engines for PDF unit tests.
+// ---
+
 #include "pdf/pdfium/pdfium_test_base.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Static assertions for matching enums
+// summary: Static asserts that Chromium input, keyboard and accessibility enum values match their PDFium counterparts.
+// ---
+
 #include "build/build_config.h"
 #include "pdf/accessibility_structs.h"
 #include "pdf/content_restriction.h"

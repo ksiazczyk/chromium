@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF accessibility struct implementations
+// summary: Implements constructors and destructors for accessibility structs such as text runs, text styles, images, links, highlights and page objects.
+// ---
+
 #include "pdf/accessibility_structs.h"
 
 namespace chrome_pdf {

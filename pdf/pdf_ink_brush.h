@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF Ink brush class for annotation mode
+// summary: Declares PdfInkBrush, which creates Ink brushes for PDF annotation and computes invalidation areas for rendering.
+// ---
+
 #ifndef PDF_PDF_INK_BRUSH_H_
 #define PDF_PDF_INK_BRUSH_H_
 

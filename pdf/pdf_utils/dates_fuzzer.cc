@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF date parser fuzzer
+// summary: LibFuzzer harness that feeds arbitrary byte input to ParsePdfDate to uncover crashes or hangs in the date parsing code.
+// ---
+
 #include "pdf/pdf_utils/dates.h"
 
 #include <stdint.h>

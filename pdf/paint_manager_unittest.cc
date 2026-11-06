@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaintManager unit tests
+// summary: Tests PaintManager painting, flushing, and buffered paint manager behavior using a mock client, pixel comparison, and histogram metrics.
+// ---
+
 #include "pdf/paint_manager.h"
 
 #include <string_view>

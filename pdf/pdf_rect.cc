@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF rectangle implementation
+// summary: Implements PdfRect operations such as offset, normalize, scale, intersect, and union for rectangles in PDF coordinates.
+// ---
+
 #include "pdf/pdf_rect.h"
 
 #include <algorithm>

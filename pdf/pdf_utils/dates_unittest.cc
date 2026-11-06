@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF date parser unit tests
+// summary: Unit tests covering valid and invalid PDF date strings, prefixes, UTC and time zone offsets, truncated offsets, and edge cases for ParsePdfDate.
+// ---
+
 #include "pdf/pdf_utils/dates.h"
 
 #include <string_view>

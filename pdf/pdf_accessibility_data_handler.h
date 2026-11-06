@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF accessibility data handler interface
+// summary: Defines the abstract interface for delivering accessibility viewport, document, page, and text run information, with a Screen AI searchify notification hook.
+// ---
+
 #ifndef PDF_PDF_ACCESSIBILITY_DATA_HANDLER_H_
 #define PDF_PDF_ACCESSIBILITY_DATA_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFium document metadata header
+// summary: Declares GetPDFiumDocumentMetadata, which builds a DocumentMetadata struct from a non-null PDFium document handle.
+// ---
+
 #ifndef PDF_PDFIUM_PDFIUM_DOCUMENT_METADATA_H_
 #define PDF_PDFIUM_PDFIUM_DOCUMENT_METADATA_H_
 

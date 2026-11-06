@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFium ink annotation writer
+// summary: Writes Ink strokes to PDF pages as marked V2 path objects, converting mesh outlines into PDF paths with the ink annotation identifier mark.
+// ---
+
 #include "pdf/pdfium/pdfium_ink_writer.h"
 
 #include <optional>

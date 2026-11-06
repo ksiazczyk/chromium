@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page boundary intersection implementation
+// summary: Implements CalculatePageBoundaryIntersectPoint, which computes where the line from an inside point to an outside point crosses a page rectangle's boundary, handling axis-aligned and sloped cases.
+// ---
+
 #include "pdf/draw_utils/page_boundary_intersect.h"
 
 #include "base/check.h"

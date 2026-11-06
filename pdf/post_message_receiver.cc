@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PostMessage receiver implementation
+// summary: Implements the scriptable postMessage() object exposed to the PDF plugin embedder, converting received messages and forwarding them to its client.
+// ---
+
 #include "pdf/post_message_receiver.h"
 
 #include <memory>

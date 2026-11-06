@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF Ink stroke and text ID helpers
+// summary: Implements helpers for variant-based Ink stroke and text identifiers, enforcing size_t underlying types.
+// ---
+
 #include "pdf/pdf_ink_ids.h"
 
 #include <stddef.h>

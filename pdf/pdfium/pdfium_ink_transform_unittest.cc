@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDFium ink transform unit tests
+// summary: Unit tests verifying canonical-to-PDF page transforms on sample documents and text box transform matrices for all four orientations.
+// ---
+
 #include "pdf/pdfium/pdfium_ink_transform.h"
 
 #include <memory>

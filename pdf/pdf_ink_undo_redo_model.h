@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF Ink undo/redo model header
+// summary: Declares PdfInkUndoRedoModel, which records annotation add and remove commands and resolves undo and redo requests into command sets.
+// ---
+
 #ifndef PDF_PDF_INK_UNDO_REDO_MODEL_H_
 #define PDF_PDF_INK_UNDO_REDO_MODEL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of INK_OWNERS.
+type: config
+title: Owners for PDF Ink files
+summary: Lists the reviewers responsible for PDF ink-related changes referenced by the OWNERS per-file rule.

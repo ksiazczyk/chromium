@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlattenPdfResult implementation
+// summary: Implements constructors, assignment operators and destructor for the flattened PDF result container.
+// ---
+
 #include <utility>
 
 #include "pdf/flatten_pdf_result.h"

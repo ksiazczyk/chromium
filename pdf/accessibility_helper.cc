@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility text run helper functions
+// summary: Implements helpers that check whether characters fall within text runs and find the enclosing text run range for a character range.
+// ---
+
 #include "pdf/accessibility_helper.h"
 
 #include <stdint.h>

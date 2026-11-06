@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mouse event normalization header
+// summary: Declares NormalizeMouseEvent for normalizing blink mouse events in the PDF viewer.
+// ---
+
 #ifndef PDF_INPUT_UTILS_H_
 #define PDF_INPUT_UTILS_H_
 

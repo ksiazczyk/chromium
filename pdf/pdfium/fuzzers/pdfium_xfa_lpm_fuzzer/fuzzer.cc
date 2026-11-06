@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XFA LPM fuzzer entry point
+// summary: LibFuzzer proto fuzzer that converts an Xfa protobuf into an XFA string, wraps it in a simple PDF, and passes it to the PDFium XFA fuzz stub.
+// ---
+
 #include <stdio.h>
 
 #include "pdf/pdfium/fuzzers/pdfium_xfa_lpm_fuzzer/proto_to_xfa.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for PDF Ink brush
+// summary: Tests PdfInkBrush invalidation areas for single and different points plus color and size setters.
+// ---
+
 #include "pdf/pdf_ink_brush.h"
 
 #include <memory>

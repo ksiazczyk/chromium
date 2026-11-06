@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF Ink conversion helper declarations
+// summary: Declares functions that convert Blink pointer properties and gfx points into Ink stroke inputs and colors.
+// ---
+
 #ifndef PDF_PDF_INK_CONVERSIONS_H_
 #define PDF_PDF_INK_CONVERSIONS_H_
 

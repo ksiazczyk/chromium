@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF searchify OCR text overlay header
+// summary: Declares PDFiumSearchify and helper functions that add invisible OCR text over images in PDF pages.
+// ---
+
 #ifndef PDF_PDFIUM_PDFIUM_SEARCHIFY_H_
 #define PDF_PDFIUM_PDFIUM_SEARCHIFY_H_
 

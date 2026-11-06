@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF caret unit tests
+// summary: Unit tests for the PdfCaret class covering caret drawing, blinking, position updates, and keyboard-driven movement using a mock caret client.
+// ---
+
 #include "pdf/pdf_caret.h"
 
 #include <stdint.h>

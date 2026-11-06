@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDFiumRange unit tests
+// summary: Unit tests for PDFiumRange covering empty, forward, and backward character ranges and their text output.
+// ---
+
 #include "pdf/pdfium/pdfium_range.h"
 
 #include <memory>

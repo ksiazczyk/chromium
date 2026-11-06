@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFium permissions implementation
+// summary: Implements PDFiumPermissions, interpreting PDF document permission bits according to security handler revision to check print and copy access.
+// ---
+
 #include "pdf/pdfium/pdfium_permissions.h"
 
 #include <stdint.h>

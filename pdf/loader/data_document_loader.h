@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataDocumentLoader interface
+// summary: Declares DataDocumentLoader, a simple DocumentLoader that reads PDF data from memory.
+// ---
+
 #ifndef PDF_LOADER_DATA_DOCUMENT_LOADER_H_
 #define PDF_LOADER_DATA_DOCUMENT_LOADER_H_
 

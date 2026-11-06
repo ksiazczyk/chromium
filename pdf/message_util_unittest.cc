@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Message util unit tests
+// summary: Unit tests verifying PrepareReplyMessage copies the type and messageId values into the reply message.
+// ---
+
 #include "pdf/message_util.h"
 
 #include "base/test/values_test_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PreviewModeClient implementation
+// summary: Implements the PreviewModeClient interface for the print preview rendering engine, forwarding preview document load events to its client while stubbing out other PDFium engine client callbacks.
+// ---
+
 #include "pdf/preview_mode_client.h"
 
 #include <stdint.h>

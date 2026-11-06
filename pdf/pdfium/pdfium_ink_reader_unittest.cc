@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDFium ink reader unit tests
+// summary: Unit tests verifying reading of V2 ink paths and text annotations from PDF pages, including shape intersection checks and text box attributes.
+// ---
+
 #include "pdf/pdfium/pdfium_ink_reader.h"
 
 #include <memory>

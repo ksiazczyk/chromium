@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextSearch implementation
+// summary: Implements TextSearch, which finds matches of a search string in PDF text with case sensitivity control, ICU normalization and kana-aware comparison for Japanese text.
+// ---
+
 #include "pdf/text_search.h"
 
 #include <optional>

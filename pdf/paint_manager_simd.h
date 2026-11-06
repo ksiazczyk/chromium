@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SIMD blend function declarations
+// summary: Declares NonPremulBlend and PremulBlend functions that blend source pixels over non-overlapping destination pixels.
+// ---
+
 #ifndef PDF_PAINT_MANAGER_SIMD_H_
 #define PDF_PAINT_MANAGER_SIMD_H_
 

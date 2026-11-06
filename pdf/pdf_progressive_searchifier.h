@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF progressive searchifier interface
+// summary: Declares an interface for building a PDF incrementally, adding or deleting pages with invisible text layers, and saving the searchified result.
+// ---
+
 #ifndef PDF_PDF_PROGRESSIVE_SEARCHIFIER_H_
 #define PDF_PDF_PROGRESSIVE_SEARCHIFIER_H_
 

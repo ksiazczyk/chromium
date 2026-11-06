@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDFiumRange character range class header
+// summary: Declares PDFiumRange, which maps character ranges on a PDF page to bounding rectangles and extracted text.
+// ---
+
 #ifndef PDF_PDFIUM_PDFIUM_RANGE_H_
 #define PDF_PDFIUM_PDFIUM_RANGE_H_
 

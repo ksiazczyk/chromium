@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF Ink conversion helpers implementation
+// summary: Implements conversions between gfx, Blink and Skia types and Ink stroke inputs, brush colors and points.
+// ---
+
 #include "pdf/pdf_ink_conversions.h"
 
 #include <cmath>
