@@ -1,0 +1,4 @@
+# Docerion header of pass_kit_coordinator_unittest.mm.
+type: source
+title: PassKit coordinator unit tests
+summary: Unit tests for PassKitCoordinator verifying presentation of the Add pass UI for valid passes and error handling for invalid ones.

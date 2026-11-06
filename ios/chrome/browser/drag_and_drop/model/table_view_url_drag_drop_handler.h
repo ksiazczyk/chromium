@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Table view URL drag and drop handler interface
+// summary: Declares drag data source and drop delegate protocols plus a handler class for dragging URLs from and dropping URLs into a table view.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DRAG_AND_DROP_MODEL_TABLE_VIEW_URL_DRAG_DROP_HANDLER_H_
 #define IOS_CHROME_BROWSER_DRAG_AND_DROP_MODEL_TABLE_VIEW_URL_DRAG_DROP_HANDLER_H_
 

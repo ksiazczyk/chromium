@@ -1,0 +1,4 @@
+# Docerion header of vcard_tab_helper_unittest.mm.
+type: test
+title: Vcard tab helper unit tests
+summary: Unit tests covering valid vCard downloads for both MIME types, deferred presentation while the tab is hidden, and delegate notification behavior.

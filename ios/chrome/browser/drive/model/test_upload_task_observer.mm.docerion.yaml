@@ -1,0 +1,4 @@
+# Docerion header of test_upload_task_observer.mm.
+type: test
+title: TestUploadTaskObserver fake implementation
+summary: Implements the test upload task observer, capturing updated and destroyed upload tasks for verification in tests.

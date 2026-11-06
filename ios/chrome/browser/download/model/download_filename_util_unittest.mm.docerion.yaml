@@ -1,0 +1,4 @@
+# Docerion header of download_filename_util_unittest.mm.
+type: test
+title: Download file name normalization utility unit tests
+summary: Unit tests covering NormalizeFileName behavior for ASCII, diacritics, Greek, Cyrillic, CJK, mixed scripts, and sharp-s case folding.

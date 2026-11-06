@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PassKit coordinator header
+// summary: Declares PassKitCoordinator, which presents the Add pass UI for valid passes or an error infobar, plus a UMA enum for dialog presentation results.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_COORDINATOR_PASS_KIT_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_COORDINATOR_PASS_KIT_COORDINATOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of download_record.mm.
+type: source
+title: DownloadRecord implementation
+summary: Implements DownloadRecord, populating its fields from a DownloadTask and providing equality comparison with optional exclusion of progress fields.

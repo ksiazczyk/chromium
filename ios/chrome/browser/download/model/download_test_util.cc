@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download test utility
+// summary: Test helper that reads the contents of a test data file from the Chrome test assets directory for download tests.
+// ---
+
 #include "ios/chrome/browser/download/model/download_test_util.h"
 
 #include "base/base_paths.h"

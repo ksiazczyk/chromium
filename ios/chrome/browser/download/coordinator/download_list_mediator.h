@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download list mediator header
+// summary: Declares DownloadListMediator, which connects the download record service to the download list UI consumer and supports incognito sessions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_COORDINATOR_DOWNLOAD_LIST_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_COORDINATOR_DOWNLOAD_LIST_MEDIATOR_H_
 

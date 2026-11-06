@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto-deletion settings mutator protocol
+// summary: Protocol for the settings UI to set the pref tracking whether Downloads Auto-deletion is enabled or disabled.
+// ---
+
 #import <Foundation/Foundation.h>
 
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_UI_AUTO_DELETION_AUTO_DELETION_SETTINGS_MUTATOR_H_

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadRecordDatabase class declaration
+// summary: Declares DownloadRecordDatabase, a SQLite-backed store for download records with insert, update, delete, paginated queries, and schema migration.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_MODEL_DOWNLOAD_RECORD_DATABASE_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_MODEL_DOWNLOAD_RECORD_DATABASE_H_
 

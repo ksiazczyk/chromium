@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download feature kill switch declarations
+// summary: Declares kill switch features for Calendar, VCard, AR and PassKit download support.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_UI_FEATURES_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_UI_FEATURES_H_
 

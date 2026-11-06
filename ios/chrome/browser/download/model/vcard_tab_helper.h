@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vcard tab helper class declaration
+// summary: Declares a tab helper that downloads vCard files via download tasks and asks its delegate to open the vCard when the download completes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_MODEL_VCARD_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_MODEL_VCARD_TAB_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scheduled file protobuf definitions
+// summary: Proto3 schema defining ScheduledFile messages with path, hash, and download timestamp fields plus a ScheduleFileList wrapper for auto-deletion of downloads.
+// ---
+
 syntax = "proto3";
 package auto_deletion.proto;
 

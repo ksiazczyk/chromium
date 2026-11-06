@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download app interface for Earl Grey tests
+// summary: Declares an Earl Grey test app interface with helpers to create, delete and count files in the downloads directory.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_MODEL_DOWNLOAD_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_MODEL_DOWNLOAD_APP_INTERFACE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of download_file_service.mm.
+type: source
+title: Download file service implementation
+summary: Implements background file moves with conflict-safe naming and updates the download record service with final paths.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for background download service
+summary: Grants this folder permission to include code from the components/download directory.

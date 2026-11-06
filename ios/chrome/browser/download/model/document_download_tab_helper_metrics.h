@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document download metrics definitions
+// summary: Defines enums and histogram names for document download state, conflict resolution, mime type, and size metrics.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_MODEL_DOCUMENT_DOWNLOAD_TAB_HELPER_METRICS_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_MODEL_DOCUMENT_DOWNLOAD_TAB_HELPER_METRICS_H_
 

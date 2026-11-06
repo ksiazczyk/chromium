@@ -1,0 +1,4 @@
+# Docerion header of download_record_database_unittest.mm.
+type: test
+title: Download record database unit tests
+summary: Unit tests for the SQLite-backed download record database, covering insert, retrieval, update and removal of download records.

@@ -1,0 +1,4 @@
+# Docerion header of download_file_preview_coordinator_unittest.mm.
+type: test
+title: Download file preview coordinator unit tests
+summary: Unit tests verifying protocol conformance, initialization, presentation of a valid file URL, and cleanup behavior of the download file preview coordinator.

@@ -1,0 +1,4 @@
+# Docerion header of auto_deletion_iph_coordinator.mm.
+type: source
+title: AutoDeletionIPHCoordinator implementation
+summary: Presents the Auto-deletion IPH view controller in an edge-attached sheet and wires it to its mediator.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadManagerTabHelper delegate protocol
+// summary: Defines the delegate protocol and NewDownloadPolicy enum used to notify about download creation, visibility changes, cleanup, and fullscreen adaptation.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_MODEL_DOWNLOAD_MANAGER_TAB_HELPER_DELEGATE_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_MODEL_DOWNLOAD_MANAGER_TAB_HELPER_DELEGATE_H_
 

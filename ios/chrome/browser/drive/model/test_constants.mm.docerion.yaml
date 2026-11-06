@@ -1,0 +1,4 @@
+# Docerion header of test_constants.mm.
+type: test
+title: Test Drive file uploader constant values
+summary: Defines the command line switch name and behavior values used to configure TestDriveFileUploader in tests.

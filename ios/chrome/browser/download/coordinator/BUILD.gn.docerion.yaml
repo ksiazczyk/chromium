@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the download coordinator
+summary: Defines the coordinator and unit test source sets for the iOS download folder, listing Objective-C sources and their GN dependencies.

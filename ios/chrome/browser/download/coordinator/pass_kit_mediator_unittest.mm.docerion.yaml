@@ -1,0 +1,4 @@
+# Docerion header of pass_kit_mediator_unittest.mm.
+type: source
+title: PassKit mediator unit tests
+summary: Unit tests for PassKitMediator verifying that PassKit dialogs are dismissed on cross-document navigation and web state changes, but not same-document ones.

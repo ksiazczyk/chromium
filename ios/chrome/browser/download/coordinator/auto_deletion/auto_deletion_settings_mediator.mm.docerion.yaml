@@ -1,0 +1,4 @@
+# Docerion header of auto_deletion_settings_mediator.mm.
+type: source
+title: AutoDeletionSettingsMediator implementation
+summary: Binds the auto-deletion settings switch to local state prefs, observes pref changes, and clears scheduled deletions when the feature is disabled.

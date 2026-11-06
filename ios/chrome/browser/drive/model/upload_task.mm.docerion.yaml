@@ -1,0 +1,4 @@
+# Docerion header of upload_task.mm.
+type: source
+title: UploadTask implementation
+summary: Implements UploadTask basics such as completion checks, observer registration and removal, and destruction notifications.

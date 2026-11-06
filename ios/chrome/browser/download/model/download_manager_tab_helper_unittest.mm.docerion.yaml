@@ -1,0 +1,4 @@
+# Docerion header of download_manager_tab_helper_unittest.mm.
+type: test
+title: DownloadManagerTabHelper unit tests
+summary: Unit tests for DownloadManagerTabHelper covering download task handling, policy decisions, Drive saving, and cleanup using fake delegates and tasks.

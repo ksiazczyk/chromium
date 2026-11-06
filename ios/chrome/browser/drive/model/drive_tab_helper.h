@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriveTabHelper interface
+// summary: Declares the tab helper that observes download tasks and uploads completed downloads to Drive, cleaning up local files.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DRIVE_MODEL_DRIVE_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_DRIVE_MODEL_DRIVE_TAB_HELPER_H_
 

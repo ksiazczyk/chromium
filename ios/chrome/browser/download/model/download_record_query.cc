@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download record query implementation
+// summary: Implements the default constructor, copy operations and destructor of the DownloadRecordQuery struct.
+// ---
+
 #include "ios/chrome/browser/download/model/download_record_query.h"
 
 DownloadRecordQuery::DownloadRecordQuery() = default;

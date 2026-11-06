@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the iOS download model sources
+summary: Defines the GN source_set listing the download model sources and their build dependencies for iOS Chrome.

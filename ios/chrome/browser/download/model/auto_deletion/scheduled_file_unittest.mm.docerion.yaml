@@ -1,0 +1,4 @@
+# Docerion header of scheduled_file_unittest.mm.
+type: test
+title: ScheduledFile unit tests
+summary: Unit tests verifying that ScheduledFile serializes to and deserializes from its proto representation, including rejecting protos with an empty path.

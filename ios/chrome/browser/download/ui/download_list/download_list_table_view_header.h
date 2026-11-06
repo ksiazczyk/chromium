@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download list table view header
+// summary: Declares the header view that shows download filter options and optional attribution text with clickable links.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_UI_DOWNLOAD_LIST_DOWNLOAD_LIST_TABLE_VIEW_HEADER_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_UI_DOWNLOAD_LIST_DOWNLOAD_LIST_TABLE_VIEW_HEADER_H_
 

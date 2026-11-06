@@ -1,0 +1,4 @@
+# Docerion header of safari_download_tab_helper.mm.
+type: source
+title: SafariDownloadTabHelper implementation
+summary: Implements SafariDownloadTabHelper, presenting mobileconfig, calendar, and wallet order alerts when the tab is visible and deferring them until it is shown.

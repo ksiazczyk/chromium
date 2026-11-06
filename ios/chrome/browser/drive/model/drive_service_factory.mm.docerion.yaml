@@ -1,0 +1,4 @@
+# Docerion header of drive_service_factory.mm.
+type: source
+title: DriveServiceFactory implementation
+summary: Builds per-profile DriveService instances using test overrides and the iOS Drive provider with its dependencies.

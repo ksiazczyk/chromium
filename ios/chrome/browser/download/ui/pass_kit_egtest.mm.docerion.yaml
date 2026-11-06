@@ -1,0 +1,4 @@
+# Docerion header of pass_kit_egtest.mm.
+type: test
+title: PassKit download Earl Grey tests
+summary: Earl Grey tests verifying PassKit pass downloads and error infobar presentation using an embedded test server.

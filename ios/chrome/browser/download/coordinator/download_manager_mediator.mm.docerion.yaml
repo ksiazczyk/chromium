@@ -1,0 +1,4 @@
+# Docerion header of download_manager_mediator.mm.
+type: source
+title: Download manager mediator implementation
+summary: Implements DownloadManagerMediator, handling download task observation, progress updates, Drive upload tasks, and consumer notifications.

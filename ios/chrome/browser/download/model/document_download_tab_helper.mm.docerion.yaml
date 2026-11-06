@@ -1,0 +1,4 @@
+# Docerion header of document_download_tab_helper.mm.
+type: source
+title: Document download tab helper implementation
+summary: Implements navigation and download task observation for document downloads, including state transitions and histogram reporting.

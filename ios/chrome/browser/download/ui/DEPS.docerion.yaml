@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Download UI directory dependency rules
+summary: Restricts which other Chromium directories this download UI folder is allowed to include headers from.

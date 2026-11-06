@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download list consumer protocol
+// summary: Declares the consumer protocol the download list mediator uses to update items, loading, empty, and header visibility states.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_UI_DOWNLOAD_LIST_DOWNLOAD_LIST_CONSUMER_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_UI_DOWNLOAD_LIST_DOWNLOAD_LIST_CONSUMER_H_
 

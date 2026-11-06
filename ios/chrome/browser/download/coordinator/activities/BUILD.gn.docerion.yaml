@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for download activities
+summary: Defines the activities source_set, listing its sources and dependencies for the Chromium iOS build.

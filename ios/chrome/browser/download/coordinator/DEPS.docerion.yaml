@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the download coordinator
+summary: Restricts which headers and directories this folder is allowed to include during Chromium dependency checking.

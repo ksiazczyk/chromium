@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Auto-deletion UI build target
+summary: Defines the auto_deletion source_set with its Objective-C sources, dependencies, and the UIKit framework.

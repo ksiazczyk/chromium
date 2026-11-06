@@ -1,0 +1,4 @@
+# Docerion header of download_list_item.mm.
+type: source
+title: Download list item implementation
+summary: Implements the DownloadListItem model that exposes display data such as file name, detail text, progress and state for a download record.

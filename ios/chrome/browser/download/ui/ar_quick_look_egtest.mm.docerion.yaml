@@ -1,0 +1,4 @@
+# Docerion header of ar_quick_look_egtest.mm.
+type: test
+title: AR Quick Look USDZ download tests
+summary: Earl Grey tests verifying that downloaded USDZ files open in a Quick Look preview and are dismissed on navigation or error responses.

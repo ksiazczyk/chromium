@@ -1,0 +1,4 @@
+# Docerion header of auto_deletion_coordinator.mm.
+type: source
+title: AutoDeletionCoordinator implementation
+summary: Decides between showing the Auto-deletion IPH or action sheet based on local state prefs, available storage, and downloaded file size thresholds.

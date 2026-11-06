@@ -1,0 +1,4 @@
+# Docerion header of ar_quick_look_mediator_unittest.mm.
+type: test
+title: AR Quick Look mediator unit tests
+summary: Verifies with mocked delegates that the mediator requests USDZ preview dismissal on navigation start and finish, tab switches, and WebState destruction.

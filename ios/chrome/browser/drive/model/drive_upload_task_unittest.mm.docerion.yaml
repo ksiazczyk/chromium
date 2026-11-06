@@ -1,0 +1,4 @@
+# Docerion header of drive_upload_task_unittest.mm.
+type: test
+title: DriveUploadTask unit tests
+summary: Unit tests for DriveUploadTask verifying start, cancel, progress, failure, and success flows using TestDriveFileUploader and histogram checks.

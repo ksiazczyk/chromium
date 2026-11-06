@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestDriveService fake header
+// summary: Header declaring a fake DriveService that hands out test file downloader, uploader and list objects for testing.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DRIVE_MODEL_TEST_DRIVE_SERVICE_H_
 #define IOS_CHROME_BROWSER_DRIVE_MODEL_TEST_DRIVE_SERVICE_H_
 

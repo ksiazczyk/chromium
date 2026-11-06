@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Download UI build configuration
+summary: Defines GN source sets, dependencies, and frameworks for the iOS download manager UI, its constants, features, and Earl Grey tests.

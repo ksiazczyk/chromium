@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safari download coordinator header
+// summary: Declares SafariDownloadCoordinator, which presents SFSafariViewController to download files Chrome cannot open natively, and defines UMA histogram keys for download UI usage.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_COORDINATOR_SAFARI_DOWNLOAD_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_COORDINATOR_SAFARI_DOWNLOAD_COORDINATOR_H_
 

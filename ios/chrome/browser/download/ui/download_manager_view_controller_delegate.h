@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download manager view controller delegate protocol
+// summary: Declares delegate callbacks for close, download, retry, open in Drive, open in and install Drive actions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_UI_DOWNLOAD_MANAGER_VIEW_CONTROLLER_DELEGATE_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_UI_DOWNLOAD_MANAGER_VIEW_CONTROLLER_DELEGATE_H_
 

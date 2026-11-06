@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download manager consumer protocol
+// summary: Defines the protocol the download manager mediator uses to update file name, progress, state, and destination in the download UI.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_UI_DOWNLOAD_MANAGER_CONSUMER_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_UI_DOWNLOAD_MANAGER_CONSUMER_H_
 

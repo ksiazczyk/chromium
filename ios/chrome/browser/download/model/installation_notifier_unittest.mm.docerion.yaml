@@ -1,0 +1,4 @@
+# Docerion header of installation_notifier_unittest.mm.
+type: test
+title: InstallationNotifier unit tests
+summary: Unit tests for InstallationNotifier covering registration, notification delivery, and backoff polling delays using a fake dispatcher and mocked UIApplication.

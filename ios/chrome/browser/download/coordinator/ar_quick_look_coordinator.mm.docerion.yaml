@@ -1,0 +1,4 @@
+# Docerion header of ar_quick_look_coordinator.mm.
+type: source
+title: AR Quick Look coordinator implementation
+summary: Implements presentation of the QLPreviewController for USDZ files, including a delegate/data source that tracks web content coverage and logs UMA outcomes.

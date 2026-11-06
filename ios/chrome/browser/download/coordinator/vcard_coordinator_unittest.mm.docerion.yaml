@@ -1,0 +1,4 @@
+# Docerion header of vcard_coordinator_unittest.mm.
+type: test
+title: vCard coordinator unit tests
+summary: Unit tests for VcardCoordinator checking delegate installation for tab helpers and presentation of vCards downloaded in background tabs when they become active.

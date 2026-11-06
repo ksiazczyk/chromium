@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download file name normalization utility declaration
+// summary: Declares NormalizeFileName, a pre-filter normalization used to compare stored and queried download file names case- and accent-insensitively.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_MODEL_DOWNLOAD_FILENAME_UTIL_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_MODEL_DOWNLOAD_FILENAME_UTIL_H_
 

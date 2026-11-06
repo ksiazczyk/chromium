@@ -1,0 +1,4 @@
+# Docerion header of download_list_table_view_header.mm.
+type: source
+title: Download list table view header implementation
+summary: Implements the download list header view with a horizontally scrolling filter collection and an optional attribution text view, tracking the selected download filter type.

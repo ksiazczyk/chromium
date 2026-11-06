@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AR Quick Look mediator interface
+// summary: Declares a mediator that monitors the active WebState and notifies its delegate when the USDZ preview should be dismissed.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_COORDINATOR_AR_QUICK_LOOK_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_COORDINATOR_AR_QUICK_LOOK_MEDIATOR_H_
 

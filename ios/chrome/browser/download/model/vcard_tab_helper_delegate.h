@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vcard tab helper delegate protocol
+// summary: Declares the VcardTabHelperDelegate protocol with a single method to open downloaded vCard data.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_MODEL_VCARD_TAB_HELPER_DELEGATE_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_MODEL_VCARD_TAB_HELPER_DELEGATE_H_
 

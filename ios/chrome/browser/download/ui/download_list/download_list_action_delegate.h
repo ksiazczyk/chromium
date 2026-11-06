@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download list action delegate protocol
+// summary: Declares a protocol for download list actions such as opening a download item in the Files app.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_UI_DOWNLOAD_LIST_DOWNLOAD_LIST_ACTION_DELEGATE_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_UI_DOWNLOAD_LIST_DOWNLOAD_LIST_ACTION_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InstallationNotifier testing category header
+// summary: Testing category exposing private methods of InstallationNotifier, such as dispatcher control and backoff policy access, for use in unit tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_MODEL_INSTALLATION_NOTIFIER_TESTING_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_MODEL_INSTALLATION_NOTIFIER_TESTING_H_
 

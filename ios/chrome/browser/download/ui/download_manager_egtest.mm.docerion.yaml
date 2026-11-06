@@ -1,0 +1,4 @@
+# Docerion header of download_manager_egtest.mm.
+type: test
+title: Download manager Earl Grey tests
+summary: Earl Grey tests covering download manager user journeys, including save to Drive and enterprise cloud content scanning scenarios.

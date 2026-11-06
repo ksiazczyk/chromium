@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for auto-deletion
+summary: Defines the GN source sets and dependencies for the auto-deletion module and its unit tests.

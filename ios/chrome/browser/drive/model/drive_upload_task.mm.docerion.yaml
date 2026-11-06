@@ -1,0 +1,4 @@
+# Docerion header of drive_upload_task.mm.
+type: source
+title: DriveUploadTask implementation
+summary: Implements DriveUploadTask state transitions, folder fetching, file upload, response links, and upload state histogram recording.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background download service unit tests
+// summary: Integration-style unit tests that verify the background download service end to end using a fake client and a test profile.
+// ---
+
 #include <memory>
 #include <optional>
 #include <utility>

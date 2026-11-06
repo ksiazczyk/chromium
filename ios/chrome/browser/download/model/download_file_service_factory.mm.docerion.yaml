@@ -1,0 +1,4 @@
+# Docerion header of download_file_service_factory.mm.
+type: source
+title: Download file service factory implementation
+summary: Implements the DownloadFileService factory, building it per profile with a dependency on the DownloadRecordService.

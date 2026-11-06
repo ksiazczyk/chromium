@@ -1,0 +1,4 @@
+# Docerion header of pass_kit_tab_helper_unittest.mm.
+type: test
+title: PassKitTabHelper unit tests
+summary: Unit tests for PassKitTabHelper verifying single and bundled pkpass downloads, parsing results, and UMA histogram reporting with fake download tasks.

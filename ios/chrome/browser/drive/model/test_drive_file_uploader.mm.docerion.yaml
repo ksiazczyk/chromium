@@ -1,0 +1,4 @@
+# Docerion header of test_drive_file_uploader.mm.
+type: test
+title: TestDriveFileUploader fake implementation
+summary: Fake Drive file uploader that simulates uploads with configurable behaviors such as fail-then-succeed, success and full storage via command-line switches.

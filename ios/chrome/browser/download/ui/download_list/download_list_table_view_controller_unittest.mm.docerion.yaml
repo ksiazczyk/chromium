@@ -1,0 +1,4 @@
+# Docerion header of download_list_table_view_controller_unittest.mm.
+type: test
+title: Download list table view controller unit tests
+summary: Unit tests for the download list table view controller using mocks for the mutator, command handlers and action delegate.

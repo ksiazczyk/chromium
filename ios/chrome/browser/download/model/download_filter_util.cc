@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download filter MIME type matching implementation
+// summary: Maps MIME types to download filter categories such as PDF, video, audio, image, document, and other for the downloads list.
+// ---
+
 #include "ios/chrome/browser/download/model/download_filter_util.h"
 
 #include <map>

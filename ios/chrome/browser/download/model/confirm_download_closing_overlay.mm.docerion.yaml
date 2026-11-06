@@ -1,0 +1,4 @@
+# Docerion header of confirm_download_closing_overlay.mm.
+type: source
+title: Confirm download closing overlay implementation
+summary: Builds the alert overlay with stop and continue buttons for confirming download cancellation and records the chosen user action.

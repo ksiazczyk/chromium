@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document download tab helper
+// summary: Declares a per-tab helper that starts download tasks for non-HTML, non-video documents and tracks task state and fullscreen observation.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_MODEL_DOCUMENT_DOWNLOAD_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_MODEL_DOCUMENT_DOWNLOAD_TAB_HELPER_H_
 

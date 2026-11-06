@@ -1,0 +1,4 @@
+# Docerion header of document_download_tab_helper_unittest.mm.
+type: test
+title: Document download tab helper unit tests
+summary: Unit tests verifying that document downloads trigger download tasks and record the expected histogram metrics.

@@ -1,0 +1,4 @@
+# Docerion header of scheduled_file.mm.
+type: source
+title: ScheduledFile implementation
+summary: Implements ScheduledFile serialization to and from proto and its comparison operators.

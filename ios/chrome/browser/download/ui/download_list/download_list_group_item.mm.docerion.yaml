@@ -1,0 +1,4 @@
+# Docerion header of download_list_group_item.mm.
+type: source
+title: Download list group item implementation
+summary: Implements DownloadListGroupItem with a localized relative date title and equality based on the local midnight time.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download manager mediator header
+// summary: Declares DownloadManagerMediator, which manages a single download task, starts downloads, and updates the consumer with progress and state changes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_COORDINATOR_DOWNLOAD_MANAGER_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_COORDINATOR_DOWNLOAD_MANAGER_MEDIATOR_H_
 

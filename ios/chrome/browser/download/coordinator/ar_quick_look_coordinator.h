@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AR Quick Look coordinator interface
+// summary: Declares the coordinator that presents a Quick Look preview for downloaded USDZ 3D models, along with UMA histogram names and result enums.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_COORDINATOR_AR_QUICK_LOOK_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_COORDINATOR_AR_QUICK_LOOK_COORDINATOR_H_
 

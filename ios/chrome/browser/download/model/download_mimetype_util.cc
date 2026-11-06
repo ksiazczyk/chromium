@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download MIME type util implementation
+// summary: Maps MIME type strings to DownloadMimeTypeResult values used for the download MIME type UMA histogram.
+// ---
+
 #include "ios/chrome/browser/download/model/download_mimetype_util.h"
 
 #include "ios/chrome/browser/shared/model/utils/mime_type_util.h"

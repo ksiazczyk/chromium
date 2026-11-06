@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Background download service build targets (BUILD.gn)
+summary: Defines the background_service source set and the unit_tests target with their sources and dependencies.

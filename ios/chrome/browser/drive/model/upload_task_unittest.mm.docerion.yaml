@@ -1,0 +1,4 @@
+# Docerion header of upload_task_unittest.mm.
+type: test
+title: Upload task unit tests
+summary: Unit tests using a TestUploadTask stub to verify that UploadTask notifies all registered observers when the task is updated and when it is destroyed.

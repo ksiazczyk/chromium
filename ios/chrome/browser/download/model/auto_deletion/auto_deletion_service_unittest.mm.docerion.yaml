@@ -1,0 +1,4 @@
+# Docerion header of auto_deletion_service_unittest.mm.
+type: test
+title: AutoDeletionService unit tests
+summary: Unit tests verifying that the auto-deletion service schedules downloaded files for deletion under various conditions.

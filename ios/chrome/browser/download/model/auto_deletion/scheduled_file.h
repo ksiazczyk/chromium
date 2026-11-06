@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScheduledFile class declaration
+// summary: Declares the ScheduledFile class representing a downloaded file scheduled for deletion, with proto serialization support.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_MODEL_AUTO_DELETION_SCHEDULED_FILE_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_MODEL_AUTO_DELETION_SCHEDULED_FILE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of download_record_service_impl_unittest.mm.
+type: test
+title: DownloadRecordServiceImpl unit tests
+summary: Unit tests for the download record service covering record persistence, observer notifications, and startup paths under download list feature flags.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download manager view controller testing category
+// summary: Category exposing DownloadManagerViewController UI elements such as the action button and status label for testing.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_UI_DOWNLOAD_MANAGER_VIEW_CONTROLLER_TESTING_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_UI_DOWNLOAD_MANAGER_VIEW_CONTROLLER_TESTING_H_
 

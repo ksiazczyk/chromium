@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for drag and drop model
+summary: Defines the model source set with its sources, dependencies and frameworks for the iOS drag and drop code.

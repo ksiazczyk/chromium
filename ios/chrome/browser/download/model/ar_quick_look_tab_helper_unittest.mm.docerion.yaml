@@ -1,0 +1,4 @@
+# Docerion header of ar_quick_look_tab_helper_unittest.mm.
+type: test
+title: AR Quick Look tab helper unit tests
+summary: Unit tests verifying USDZ downloads, AR previews, content scaling flags and histogram logging for the tab helper.

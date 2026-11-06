@@ -1,0 +1,4 @@
+# Docerion header of vcard_coordinator.mm.
+type: source
+title: vCard coordinator implementation
+summary: Implements the coordinator that presents downloaded vCard contact UI, installs tab helper delegates for web states and dismisses the contact view on navigation or tab changes.

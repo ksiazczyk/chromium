@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scheduler class header for download auto-deletion
+// summary: Declares the Scheduler class that tracks downloaded files enrolled for auto-deletion in local state prefs and identifies files whose deletion dates have elapsed.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_MODEL_AUTO_DELETION_SCHEDULER_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_MODEL_AUTO_DELETION_SCHEDULER_H_
 

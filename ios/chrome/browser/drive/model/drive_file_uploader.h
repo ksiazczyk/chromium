@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive file uploader interface
+// summary: Declares the DriveFileUploader interface for Save to Drive folder search and creation, file uploads, and storage quota queries.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DRIVE_MODEL_DRIVE_FILE_UPLOADER_H_
 #define IOS_CHROME_BROWSER_DRIVE_MODEL_DRIVE_FILE_UPLOADER_H_
 

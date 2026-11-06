@@ -1,0 +1,4 @@
+# Docerion header of download_list_coordinator_unittest.mm.
+type: test
+title: Download list coordinator unit tests
+summary: Unit tests covering start and stop behavior, command dispatching, and download list UI presentation using a mock commands handler and test downloads directory.

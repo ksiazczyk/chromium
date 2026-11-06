@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for download list UI
+summary: GN build file defining the download_list source set and its unit tests with sources, dependencies, and frameworks.

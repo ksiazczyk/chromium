@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for drag and drop model
+summary: Lists the code owner responsible for reviewing changes in the drag and drop model directory.

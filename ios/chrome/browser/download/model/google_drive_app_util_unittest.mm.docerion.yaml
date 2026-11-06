@@ -1,0 +1,4 @@
+# Docerion header of google_drive_app_util_unittest.mm.
+type: test
+title: Google Drive app util unit tests
+summary: Unit tests verifying Google Drive and Maps URL construction and app installation detection using a mocked UIApplication.

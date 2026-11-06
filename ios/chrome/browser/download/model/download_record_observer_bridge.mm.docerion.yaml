@@ -1,0 +1,4 @@
+# Docerion header of download_record_observer_bridge.mm.
+type: source
+title: Download record observer bridge implementation
+summary: Implements the bridge that converts download record observer callbacks and forwards them to the Objective-C delegate.

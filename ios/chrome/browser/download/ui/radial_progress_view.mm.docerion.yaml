@@ -1,0 +1,4 @@
+# Docerion header of radial_progress_view.mm.
+type: source
+title: Radial progress view implementation
+summary: Implements a view that draws circular download progress using a CAShapeLayer track and progress layer that adapt to trait and appearance changes.

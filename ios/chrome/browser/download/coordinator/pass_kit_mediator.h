@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PassKit mediator header
+// summary: Declares PassKitMediator, which monitors the active WebState and dispatches commands to dismiss presented PassKit UI on navigation or tab switches.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_COORDINATOR_PASS_KIT_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_COORDINATOR_PASS_KIT_MEDIATOR_H_
 

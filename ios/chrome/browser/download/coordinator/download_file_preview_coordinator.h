@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download file preview coordinator interface
+// summary: Declares a coordinator that presents a modal QLPreviewController preview for a given downloaded file URL.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_COORDINATOR_DOWNLOAD_FILE_PREVIEW_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_COORDINATOR_DOWNLOAD_FILE_PREVIEW_COORDINATOR_H_
 

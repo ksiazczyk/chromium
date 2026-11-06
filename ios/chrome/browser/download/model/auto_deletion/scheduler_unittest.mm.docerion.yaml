@@ -1,0 +1,4 @@
+# Docerion header of scheduler_unittest.mm.
+type: test
+title: Scheduler unit tests
+summary: Unit tests checking that the Scheduler identifies only files scheduled more than 30 days ago as expired for auto-deletion.

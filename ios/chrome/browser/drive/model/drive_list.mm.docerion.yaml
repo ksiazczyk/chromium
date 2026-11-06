@@ -1,0 +1,4 @@
+# Docerion header of drive_list.mm.
+type: source
+title: Drive item implementation
+summary: Implements DriveItem methods such as copy and move semantics, browsing checks, and placeholder image selection.

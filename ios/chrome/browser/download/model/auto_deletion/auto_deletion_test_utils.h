@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Auto-deletion test utilities
+// summary: Declares a test helper that populates the scheduler with scheduled files for auto-deletion tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_MODEL_AUTO_DELETION_AUTO_DELETION_TEST_UTILS_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_MODEL_AUTO_DELETION_AUTO_DELETION_TEST_UTILS_H_
 

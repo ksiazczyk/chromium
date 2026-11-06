@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download Earl Grey test utilities header
+// summary: Declares shared download button matchers, embedded test server response handlers, and wait helpers for download UI tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DOWNLOAD_UI_DOWNLOAD_EGTEST_UTIL_H_
 #define IOS_CHROME_BROWSER_DOWNLOAD_UI_DOWNLOAD_EGTEST_UTIL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of test_drive_service.mm.
+type: test
+title: TestDriveService fake implementation
+summary: Implements the fake DriveService, returning injected or default test downloader, uploader and list instances.

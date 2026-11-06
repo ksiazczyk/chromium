@@ -1,0 +1,4 @@
+# Docerion header of download_record_service_impl.mm.
+type: source
+title: DownloadRecordServiceImpl implementation
+summary: Implements the download record service, persisting download records to a SQLite-backed store on a background sequence and observing download tasks.

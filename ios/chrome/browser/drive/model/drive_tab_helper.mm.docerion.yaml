@@ -1,0 +1,4 @@
+# Docerion header of drive_tab_helper.mm.
+type: source
+title: DriveTabHelper implementation
+summary: Implements the per-tab Save to Drive helper that converts completed download tasks into Drive upload tasks and validates the selected account.

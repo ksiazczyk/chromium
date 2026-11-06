@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background download service factory implementation
+// summary: Implements the profile-keyed factory that builds the iOS background download service with clients, storage, file monitor and logging.
+// ---
+
 #include "ios/chrome/browser/download/model/background_service/background_download_service_factory.h"
 
 #include <utility>

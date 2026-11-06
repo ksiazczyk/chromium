@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UploadTask model header
+// summary: Header for the UploadTask model class defining upload states, progress, identity, response link, error handling and observer management.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DRIVE_MODEL_UPLOAD_TASK_H_
 #define IOS_CHROME_BROWSER_DRIVE_MODEL_UPLOAD_TASK_H_
 

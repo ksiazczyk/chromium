@@ -1,0 +1,4 @@
+# Docerion header of pass_kit_mediator.mm.
+type: source
+title: PassKit mediator implementation
+summary: Implements PassKitMediator, observing the WebStateList and active WebState to dismiss PassKit dialogs during cross-document navigation.

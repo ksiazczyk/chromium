@@ -1,0 +1,4 @@
+# Docerion header of confirm_download_replacing_overlay.mm.
+type: source
+title: Confirm download replacing overlay implementation
+summary: Builds the alert overlay with OK and cancel buttons for confirming replacement of an existing download file.

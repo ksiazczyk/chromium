@@ -1,0 +1,4 @@
+# Docerion header of download_directory_util.mm.
+type: source
+title: Download directory utility implementation
+summary: Implements resolution of temporary and document downloads directories plus relative and absolute path conversion helpers.

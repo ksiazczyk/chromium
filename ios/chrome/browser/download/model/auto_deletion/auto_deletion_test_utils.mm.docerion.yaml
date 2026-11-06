@@ -1,0 +1,4 @@
+# Docerion header of auto_deletion_test_utils.mm.
+type: test
+title: Auto-deletion test utilities implementation
+summary: Implements the test helper that fills the scheduler with scheduled files at given download times.
