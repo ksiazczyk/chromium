@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuraLinux BrowserAccessibility header
+// summary: Declares BrowserAccessibilityAuraLinux, the Linux BrowserAccessibility subclass that wraps AXPlatformNodeAuraLinux for ATK-based accessibility.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_BROWSER_ACCESSIBILITY_AURALINUX_H_
 #define UI_ACCESSIBILITY_PLATFORM_BROWSER_ACCESSIBILITY_AURALINUX_H_
 

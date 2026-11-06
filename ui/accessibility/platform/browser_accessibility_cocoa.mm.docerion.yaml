@@ -1,0 +1,4 @@
+# Docerion header of browser_accessibility_cocoa.mm.
+type: source
+title: BrowserAccessibilityCocoa macOS accessibility node wrapper
+summary: Implements the macOS Cocoa accessibility wrapper that exposes browser accessibility nodes to assistive technologies such as VoiceOver.

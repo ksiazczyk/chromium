@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility attribute computation
+// summary: Computes derived integer accessibility attributes for table, cell, row, and ordered-set nodes from platform delegates.
+// ---
+
 #include "ui/accessibility/platform/compute_attributes.h"
 
 #include <cstddef>

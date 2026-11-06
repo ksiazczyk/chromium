@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UIA client info source implementation for Windows
+// summary: Implements UiaClientInfoSource, which queries and monitors connected Windows UI Automation clients and reports their process names and connection state.
+// ---
+
 #include "ui/accessibility/platform/uia_client_info_source_win.h"
 
 #include <wrl/implements.h>

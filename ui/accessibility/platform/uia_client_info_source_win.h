@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UIA client info source interface for Windows
+// summary: Declares UiaClientInfoSource, a wrapper around the Windows UIA client-info source API that reports connected client process names and connection changes.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_UIA_CLIENT_INFO_SOURCE_WIN_H_
 #define UI_ACCESSIBILITY_PLATFORM_UIA_CLIENT_INFO_SOURCE_WIN_H_
 

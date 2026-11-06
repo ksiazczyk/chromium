@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Automation accessibility tree wrapper implementation
+// summary: Implements a wrapper around an AXTree that unserializes updates and dispatches automation events, including multiroot tree lookups.
+// ---
+
 #include "ui/accessibility/platform/automation/automation_ax_tree_wrapper.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXPlatformNodeCocoa header
+// summary: Declares the macOS Cocoa accessibility node interface that maps Chromium accessibility roles, events and actions to NSAccessibility.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_AX_PLATFORM_NODE_COCOA_H_
 #define UI_ACCESSIBILITY_PLATFORM_AX_PLATFORM_NODE_COCOA_H_
 

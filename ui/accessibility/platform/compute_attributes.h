@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ComputeAttribute declaration
+// summary: Declares the helper that computes attribute values instead of returning raw attribute data for supported attributes.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_COMPUTE_ATTRIBUTES_H_
 #define UI_ACCESSIBILITY_PLATFORM_COMPUTE_ATTRIBUTES_H_
 

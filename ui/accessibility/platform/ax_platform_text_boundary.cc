@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text boundary conversion helpers
+// summary: Converts ATK, IAccessible2 and UI Automation text boundary and granularity values into internal accessibility text boundary enums.
+// ---
+
 #include "ui/accessibility/platform/ax_platform_text_boundary.h"
 
 #include <optional>

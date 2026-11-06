@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux AT-SPI accessibility inspect utilities header
+// summary: Declares AT-SPI and ATK name conversion helpers plus accessible node lookup and DOM id functions for Linux accessibility inspection.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_INSPECT_AX_INSPECT_UTILS_AURALINUX_H_
 #define UI_ACCESSIBILITY_PLATFORM_INSPECT_AX_INSPECT_UTILS_AURALINUX_H_
 

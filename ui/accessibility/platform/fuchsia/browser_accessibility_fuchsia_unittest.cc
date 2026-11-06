@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserAccessibilityFuchsia unit tests
+// summary: Unit tests verifying conversion of table and list accessibility trees into Fuchsia semantic node data.
+// ---
+
 #include "ui/accessibility/platform/fuchsia/browser_accessibility_fuchsia.h"
 
 #include <fidl/fuchsia.accessibility.semantics/cpp/fidl.h>

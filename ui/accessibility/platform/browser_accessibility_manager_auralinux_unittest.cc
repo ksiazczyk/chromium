@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AuraLinux accessibility manager unit tests
+// summary: Unit tests for the AuraLinux accessibility manager, verifying ATK signal emission such as children-changed add and remove events.
+// ---
+
 #include "ui/accessibility/platform/browser_accessibility_manager_auralinux.h"
 
 #include <atk/atk.h>

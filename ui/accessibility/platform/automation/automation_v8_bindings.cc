@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Automation V8 bindings implementation
+// summary: Implements V8 bindings for Automation, converting between C++ accessibility objects and V8 values and routing JavaScript function calls to tree wrappers.
+// ---
+
 #include "ui/accessibility/platform/automation/automation_v8_bindings.h"
 
 #include <string>

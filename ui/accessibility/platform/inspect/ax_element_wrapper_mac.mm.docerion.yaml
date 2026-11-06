@@ -1,0 +1,4 @@
+# Docerion header of ax_element_wrapper_mac.mm.
+type: source
+title: AXElementWrapper Mac implementation
+summary: Implements the macOS accessibility element wrapper providing children, DOM ids, attributes, actions and custom content for AXUIElement and Cocoa nodes.

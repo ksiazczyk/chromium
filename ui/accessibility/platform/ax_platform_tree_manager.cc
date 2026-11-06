@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXPlatformTreeManager implementation
+// summary: Implements the platform accessibility tree manager, including a stub sentinel event for testing and a default scoped accessibility mode for delegates.
+// ---
+
 #include "ui/accessibility/platform/ax_platform_tree_manager.h"
 
 #include "ui/accessibility/platform/ax_platform_tree_manager_delegate.h"

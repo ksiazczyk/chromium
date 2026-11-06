@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChildIteratorBase implementation
+// summary: Implements the base child iterator that walks the children of an AXPlatformNodeDelegate by index.
+// ---
+
 #include "ui/accessibility/platform/child_iterator_base.h"
 
 #include "ui/accessibility/platform/ax_platform_node.h"

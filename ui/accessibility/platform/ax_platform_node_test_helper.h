@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Platform accessibility node test helper interface
+// summary: Declares test helpers for counting platform accessibility node tree nodes and locating children by name.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_AX_PLATFORM_NODE_TEST_HELPER_H_
 #define UI_ACCESSIBILITY_PLATFORM_AX_PLATFORM_NODE_TEST_HELPER_H_
 

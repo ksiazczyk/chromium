@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AX platform node unit test fixture implementation
+// summary: Implements the AXPlatformNodeTest fixture with helpers that build accessibility tree updates for text fields, content editables, tables and list boxes.
+// ---
+
 #include "ui/accessibility/platform/ax_platform_node_unittest.h"
 
 #include "ui/accessibility/ax_constants.mojom.h"

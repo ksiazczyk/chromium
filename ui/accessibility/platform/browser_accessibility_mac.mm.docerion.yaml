@@ -1,0 +1,4 @@
+# Docerion header of browser_accessibility_mac.mm.
+type: source
+title: macOS browser accessibility node implementation
+summary: Implements BrowserAccessibilityMac, creating and replacing Cocoa native wrappers and handling presentational button descendants.

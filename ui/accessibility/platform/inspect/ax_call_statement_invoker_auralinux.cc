@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXCallStatementInvokerAuraLinux implementation
+// summary: Executes accessibility inspection script call statements against AT-SPI accessible objects on Linux, resolving targets from variable storage and the tree indexer.
+// ---
+
 #include "ui/accessibility/platform/inspect/ax_call_statement_invoker_auralinux.h"
 
 #include <variant>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Platform accessibility node test helper implementation
+// summary: Implements helpers that compute the size of an accessibility node tree and find child nodes by name for tests.
+// ---
+
 #include "ui/accessibility/platform/ax_platform_node_test_helper.h"
 
 #include "ui/accessibility/ax_node_data.h"

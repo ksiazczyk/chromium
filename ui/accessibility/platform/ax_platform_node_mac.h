@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS accessibility platform node interface
+// summary: Declares AXPlatformNodeMac, the macOS accessibility node that bridges delegates to the Cocoa native wrapper.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_AX_PLATFORM_NODE_MAC_H_
 #define UI_ACCESSIBILITY_PLATFORM_AX_PLATFORM_NODE_MAC_H_
 

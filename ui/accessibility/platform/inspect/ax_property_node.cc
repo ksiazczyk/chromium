@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXPropertyNode parsing implementation
+// summary: Implements parsing of property statements and filters into AXPropertyNode trees, including rvalue handling, line index filters and argument conversion.
+// ---
+
 #include "ui/accessibility/platform/inspect/ax_property_node.h"
 
 #include <optional>

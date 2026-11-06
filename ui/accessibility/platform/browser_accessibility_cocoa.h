@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cocoa BrowserAccessibility wrapper header
+// summary: Declares BrowserAccessibilityCocoa, the macOS Cocoa wrapper that converts BrowserAccessibility nodes into a format Cocoa and VoiceOver can query.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_BROWSER_ACCESSIBILITY_COCOA_H_
 #define UI_ACCESSIBILITY_PLATFORM_BROWSER_ACCESSIBILITY_COCOA_H_
 

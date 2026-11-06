@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedCoMemArray free-contents specializations
+// summary: Implements FreeContents template specializations that release COM references held by IA2TextSelection elements and IUnknown pointers in ScopedCoMemArray arrays.
+// ---
+
 #include "ui/accessibility/platform/iaccessible2/scoped_co_mem_array.h"
 
 #include <unknwn.h>

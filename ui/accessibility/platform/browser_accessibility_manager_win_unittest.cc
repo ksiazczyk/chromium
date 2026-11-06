@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserAccessibilityManagerWin unit tests
+// summary: Unit tests for the Windows accessibility tree manager, covering scenarios such as dynamically added iframes and event firing.
+// ---
+
 #include "ui/accessibility/platform/browser_accessibility_manager.h"
 
 #include <vector>

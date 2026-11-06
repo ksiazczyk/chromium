@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AXInspectScenario unit tests
+// summary: Unit tests verifying parsing of inspect scenario directives, including property filters, node filters, scripts, and event tree dumps.
+// ---
+
 #include "ui/accessibility/platform/inspect/ax_inspect_scenario.h"
 
 #include "testing/gmock/include/gmock/gmock-matchers.h"

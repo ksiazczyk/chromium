@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility unique ID allocation
+// summary: Implements globally unique accessibility platform node ID allocation with wraparound and a registry of assigned IDs.
+// ---
+
 #include "ui/accessibility/platform/ax_unique_id.h"
 
 #include "base/check_op.h"

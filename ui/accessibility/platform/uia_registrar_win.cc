@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows UIA custom event and property registrar
+// summary: Registers custom UI Automation events and properties, including unique id, MathML, ARIA actions, and web content root, for Windows accessibility.
+// ---
+
 #include "ui/accessibility/platform/uia_registrar_win.h"
 
 #include <wrl/implements.h>

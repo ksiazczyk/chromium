@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserAccessibilityWin implementation
+// summary: Implements the Windows browser accessibility node, managing its COM platform node and firing native location-change events.
+// ---
+
 #include "ui/accessibility/platform/browser_accessibility_win.h"
 
 #include "base/memory/ptr_util.h"

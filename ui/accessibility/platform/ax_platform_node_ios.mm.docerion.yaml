@@ -1,0 +1,4 @@
+# Docerion header of ax_platform_node_ios.mm.
+type: source
+title: iOS accessibility platform node implementation
+summary: Implements AXPlatformNodeIOS, creating and managing the native UIKit wrapper element for iOS accessibility nodes.

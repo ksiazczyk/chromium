@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserAccessibilityFuchsia header
+// summary: Declares the Fuchsia-specific BrowserAccessibility wrapper that converts AXNode data into Fuchsia semantic nodes.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_FUCHSIA_BROWSER_ACCESSIBILITY_FUCHSIA_H_
 #define UI_ACCESSIBILITY_PLATFORM_FUCHSIA_BROWSER_ACCESSIBILITY_FUCHSIA_H_
 

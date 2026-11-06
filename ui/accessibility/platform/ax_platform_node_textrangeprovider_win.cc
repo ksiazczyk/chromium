@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXPlatformNodeTextRangeProviderWin implementation
+// summary: Implements the UI Automation ITextRangeProvider for navigating, mutating and querying text ranges on Windows.
+// ---
+
 #include "ui/accessibility/platform/ax_platform_node_textrangeprovider_win.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Strongly typed platform accessibility node identifier
+// summary: Defines AXPlatformNodeId, a 32-bit strongly typed accessibility node identifier compatible with Windows IAccessible2 unique IDs.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_AX_PLATFORM_NODE_ID_H_
 #define UI_ACCESSIBILITY_PLATFORM_AX_PLATFORM_NODE_ID_H_
 

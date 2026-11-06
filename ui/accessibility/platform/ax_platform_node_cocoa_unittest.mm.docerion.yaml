@@ -1,0 +1,4 @@
+# Docerion header of ax_platform_node_cocoa_unittest.mm.
+type: test
+title: AXPlatformNodeCocoa unit tests
+summary: Unit tests for the macOS Cocoa accessibility node, parameterized over the Mac accessibility API migration feature.

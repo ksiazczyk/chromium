@@ -1,0 +1,4 @@
+# Docerion header of ax_call_statement_invoker_mac.mm.
+type: source
+title: AXCallStatementInvoker Mac implementation
+summary: Implements macOS invocation of accessibility script statements, parsing property nodes into NSObject arguments and invoking attributes on wrapped elements.

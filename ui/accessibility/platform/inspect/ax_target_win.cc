@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXTargetWin string conversion implementation
+// summary: Implements ToString for AXTargetWin, mapping Windows accessibility COM interface variants and values to readable strings.
+// ---
+
 #include "ui/accessibility/platform/inspect/ax_target_win.h"
 
 #include "base/strings/string_number_conversions.h"

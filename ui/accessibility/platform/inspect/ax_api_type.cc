@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXApiType string conversions for accessibility API types
+// summary: Implements conversions between the AXApiType enum and its string names for accessibility API types on Android, Blink, Fuchsia, Mac, Linux and Windows, with strings persisted in preferences.
+// ---
+
 #include "ui/accessibility/platform/inspect/ax_api_type.h"
 
 #include <string_view>

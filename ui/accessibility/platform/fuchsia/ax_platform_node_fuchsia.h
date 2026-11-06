@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia accessibility platform node header
+// summary: Declares the platform node class that bridges Chromium objects to the Fuchsia accessibility representation.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_FUCHSIA_AX_PLATFORM_NODE_FUCHSIA_H_
 #define UI_ACCESSIBILITY_PLATFORM_FUCHSIA_AX_PLATFORM_NODE_FUCHSIA_H_
 

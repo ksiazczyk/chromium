@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility bridge Fuchsia implementation
+// summary: Implements the Fuchsia accessibility bridge, mapping Chromium node IDs and actions to Fuchsia semantics and managing the semantic provider and registry.
+// ---
+
 #include "ui/accessibility/platform/fuchsia/accessibility_bridge_fuchsia_impl.h"
 
 #include "base/strings/stringprintf.h"

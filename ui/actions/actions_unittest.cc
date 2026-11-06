@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ActionManager and ActionItem
+// summary: Contains gtest-based unit tests covering action registration, invocation, initialization callbacks, and ActionId map behavior.
+// ---
+
 #include "ui/actions/actions.h"
 
 #include <optional>

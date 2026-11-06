@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac accessibility tree formatter declaration
+// summary: Declares AXTreeFormatterMac, which builds macOS accessibility trees, evaluates inspect scripts, and applies default property filters.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_INSPECT_AX_TREE_FORMATTER_MAC_H_
 #define UI_ACCESSIBILITY_PLATFORM_INSPECT_AX_TREE_FORMATTER_MAC_H_
 

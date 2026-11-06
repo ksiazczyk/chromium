@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXInspectScenario
+// summary: Declares AXInspectScenario, which models the test execution flow from directives such as waits, actions, scripts, and property filters.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_INSPECT_AX_INSPECT_SCENARIO_H_
 #define UI_ACCESSIBILITY_PLATFORM_INSPECT_AX_INSPECT_SCENARIO_H_
 

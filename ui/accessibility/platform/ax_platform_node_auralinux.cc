@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXPlatformNodeAuraLinux implementation
+// summary: Implements ATK-based accessibility on Aura Linux, mapping platform nodes to AtkObject interfaces with text, table, hyperlink, selection, and histogram support.
+// ---
+
 #include "ui/accessibility/platform/ax_platform_node_auralinux.h"
 
 #include <stdint.h>

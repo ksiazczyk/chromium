@@ -1,0 +1,4 @@
+# Docerion header of browser_accessibility_manager_mac.mm.
+type: source
+title: Mac browser accessibility manager implementation
+summary: Implements the macOS accessibility manager, firing NSAccessibility notifications for focus, load complete, selection, and value changes.

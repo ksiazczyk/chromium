@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserAccessibilityManagerFuchsia implementation
+// summary: Implements the Fuchsia accessibility tree manager, including inspect tree dumps and accessibility bridge lookup.
+// ---
+
 #include "ui/accessibility/platform/fuchsia/browser_accessibility_manager_fuchsia.h"
 
 #include <lib/inspect/component/cpp/component.h>

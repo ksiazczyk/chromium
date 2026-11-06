@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXFuchsiaSemanticProviderImpl implementation
+// summary: Implements the Fuchsia semantic provider, batching node updates and deletions for the SemanticsManager over FIDL.
+// ---
+
 #include "ui/accessibility/platform/fuchsia/semantic_provider_impl.h"
 
 #include <fidl/fuchsia.ui.gfx/cpp/fidl.h>

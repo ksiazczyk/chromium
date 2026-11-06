@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXInspect shared types
+// summary: Defines AXTreeSelector, AXPropertyFilter and AXNodeFilter types used to select and filter accessible trees during inspection.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_INSPECT_AX_INSPECT_H_
 #define UI_ACCESSIBILITY_PLATFORM_INSPECT_AX_INSPECT_H_
 

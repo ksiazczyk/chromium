@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AXInspectTestHelper
+// summary: Declares a helper class for writing accessibility tree dump tests, covering expectation files, scenario parsing, and validation.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_INSPECT_AX_INSPECT_TEST_HELPER_H_
 #define UI_ACCESSIBILITY_PLATFORM_INSPECT_AX_INSPECT_TEST_HELPER_H_
 

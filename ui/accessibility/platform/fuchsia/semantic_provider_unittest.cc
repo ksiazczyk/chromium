@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AXFuchsiaSemanticProvider unit tests
+// summary: Unit tests for the Fuchsia semantic provider using a test SemanticsManager and sample semantic tree fixtures.
+// ---
+
 #include <fidl/fuchsia.accessibility.semantics/cpp/fidl.h>
 #include <fidl/fuchsia.ui.views/cpp/hlcpp_conversion.h>
 #include <lib/async/default.h>

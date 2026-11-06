@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Automation API event filtering utilities
+// summary: Implements helpers that decide which accessibility events are ignored and that map event types for the automation API.
+// ---
+
 #include "ui/accessibility/platform/automation/automation_api_util.h"
 #include "ui/accessibility/ax_enum_util.h"
 #include "ui/accessibility/ax_event_generator.h"

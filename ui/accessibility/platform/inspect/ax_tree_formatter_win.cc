@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows accessibility tree formatter implementation
+// summary: Implements AXTreeFormatterWin, building IAccessible and IAccessible2 trees on Windows and defining the default state property filters used for output.
+// ---
+
 #include "ui/accessibility/platform/inspect/ax_tree_formatter_win.h"
 
 #include <math.h>

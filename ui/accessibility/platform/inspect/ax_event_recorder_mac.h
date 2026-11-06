@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac accessibility event recorder declaration
+// summary: Declares AXEventRecorderMac, which uses AXObserver to watch NSAccessibility events and can restrict recording to a scope window and its descendants.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_INSPECT_AX_EVENT_RECORDER_MAC_H_
 #define UI_ACCESSIBILITY_PLATFORM_INSPECT_AX_EVENT_RECORDER_MAC_H_
 

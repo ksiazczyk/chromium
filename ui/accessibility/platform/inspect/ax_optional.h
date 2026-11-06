@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXOptional multi-state optional value template
+// summary: Header defining AXOptional, a std::optional-like template that supports value, error, not-applicable and unsupported states for accessibility inspection results.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_INSPECT_AX_OPTIONAL_H_
 #define UI_ACCESSIBILITY_PLATFORM_INSPECT_AX_OPTIONAL_H_
 

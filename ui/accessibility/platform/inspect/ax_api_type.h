@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXApiType class declaration
+// summary: Declares the AXApiType class enumerating platform-specific accessibility API types such as Blink, Mac, Linux, Android, Fuchsia, Windows IA2 and UIA.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_INSPECT_AX_API_TYPE_H_
 #define UI_ACCESSIBILITY_PLATFORM_INSPECT_AX_API_TYPE_H_
 

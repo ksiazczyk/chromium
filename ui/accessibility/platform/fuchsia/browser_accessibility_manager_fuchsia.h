@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserAccessibilityManagerFuchsia header
+// summary: Declares the manager of Fuchsia BrowserAccessibility trees with hit testing, events and inspect support.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_FUCHSIA_BROWSER_ACCESSIBILITY_MANAGER_FUCHSIA_H_
 #define UI_ACCESSIBILITY_PLATFORM_FUCHSIA_BROWSER_ACCESSIBILITY_MANAGER_FUCHSIA_H_
 

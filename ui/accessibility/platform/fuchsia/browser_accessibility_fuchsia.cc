@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia browser accessibility implementation
+// summary: Converts Chromium browser accessibility nodes into Fuchsia semantic nodes, including roles, states, attributes, actions and locations.
+// ---
+
 #include "ui/accessibility/platform/fuchsia/browser_accessibility_fuchsia.h"
 
 #include "base/fuchsia/fuchsia_logging.h"

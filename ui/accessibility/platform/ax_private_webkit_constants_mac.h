@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS WebKit accessibility constants
+// summary: Defines enums and string constants for macOS text state changes, selections, edits, notifications, attributes, actions, and search keys used by WebKit-style accessibility.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_AX_PRIVATE_WEBKIT_CONSTANTS_MAC_H_
 #define UI_ACCESSIBILITY_PLATFORM_AX_PRIVATE_WEBKIT_CONSTANTS_MAC_H_
 

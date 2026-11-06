@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuraLinux browser accessibility manager implementation
+// summary: Implements the Linux/ATK accessibility manager, firing ATK events for focus, selection, state changes, and ARIA notifications.
+// ---
+
 #include "ui/accessibility/platform/browser_accessibility_manager_auralinux.h"
 
 #include <atk/atk.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXPlatformTreeManager interface
+// summary: Declares an abstract manager for platform accessibility nodes that extends AXTreeManager and provides lookups of platform nodes and the root delegate.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_AX_PLATFORM_TREE_MANAGER_H_
 #define UI_ACCESSIBILITY_PLATFORM_AX_PLATFORM_TREE_MANAGER_H_
 

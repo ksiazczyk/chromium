@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActionManager and ActionItem implementation
+// summary: Implements ActionManager, ActionList, BaseAction, and ActionItem behavior including global manager access, pinnable state, and metadata support.
+// ---
+
 #include "ui/actions/actions.h"
 
 #include <algorithm>

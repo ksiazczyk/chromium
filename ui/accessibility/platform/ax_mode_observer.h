@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility mode observer interface
+// summary: Declares AXModeObserver, which notifies observers of accessibility mode changes and assistive technology activation.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_AX_MODE_OBSERVER_H_
 #define UI_ACCESSIBILITY_PLATFORM_AX_MODE_OBSERVER_H_
 

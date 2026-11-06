@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test AX platform tree manager delegate implementation
+// summary: Implements a stub AXPlatformTreeManagerDelegate that returns default values for view bounds, scale factor and accessibility mode in tests.
+// ---
+
 #include "ui/accessibility/platform/test_ax_platform_tree_manager_delegate.h"
 
 #include "base/functional/callback.h"

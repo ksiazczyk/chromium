@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generic accessible tree indexer
+// summary: Template class that indexes an accessible tree, mapping each node to its DOM id and to its line index in the formatted tree for later lookup.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_INSPECT_AX_TREE_INDEXER_H_
 #define UI_ACCESSIBILITY_PLATFORM_INSPECT_AX_TREE_INDEXER_H_
 

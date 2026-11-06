@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserAccessibilityManagerWin class declaration
+// summary: Declares the Windows-specific accessibility tree manager that fires Win32 and UIA events for BrowserAccessibilityWin nodes.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_BROWSER_ACCESSIBILITY_MANAGER_WIN_H_
 #define UI_ACCESSIBILITY_PLATFORM_BROWSER_ACCESSIBILITY_MANAGER_WIN_H_
 

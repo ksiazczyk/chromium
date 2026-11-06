@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Automation position JavaScript bindings implementation
+// summary: Implements a gin-wrappable AutomationPosition that exposes tree and text position operations to JavaScript.
+// ---
+
 #include "ui/accessibility/platform/automation/automation_position.h"
 
 #include "gin/arguments.h"

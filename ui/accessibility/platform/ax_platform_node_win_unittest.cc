@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows accessibility platform node unit tests
+// summary: Unit tests for AXPlatformNodeWin covering IAccessible2 and UI Automation properties, patterns and HRESULT error expectations.
+// ---
+
 #include "ui/accessibility/platform/ax_platform_node_win_unittest.h"
 
 #include <oleacc.h>

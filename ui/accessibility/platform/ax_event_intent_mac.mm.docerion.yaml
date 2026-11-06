@@ -1,0 +1,4 @@
+# Docerion header of ax_event_intent_mac.mm.
+type: source
+title: Mac accessibility event intent implementation
+summary: Implements conversion of Chromium text boundary and move direction values into Mac accessibility selection intents.

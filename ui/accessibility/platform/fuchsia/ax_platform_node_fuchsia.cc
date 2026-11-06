@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia accessibility platform node implementation
+// summary: Implements the Fuchsia platform node, creating accessible nodes and forwarding actions to their delegates.
+// ---
+
 #include "ui/accessibility/platform/fuchsia/ax_platform_node_fuchsia.h"
 
 namespace ui {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows accessibility event recorder implementation
+// summary: Implements Windows accessibility event recording using WinEvent hooks and IAccessible, resolving the target process from a selector and formatting events as readable strings.
+// ---
+
 #include "ui/accessibility/platform/inspect/ax_event_recorder_win.h"
 
 #include <stdint.h>

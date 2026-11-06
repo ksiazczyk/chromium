@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXPlatformNodeUIKitElement header
+// summary: Declares the UIKit accessibility element that wraps AXPlatformNodeIOS nodes for iOS.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_AX_PLATFORM_NODE_UI_KIT_ELEMENT_H_
 #define UI_ACCESSIBILITY_PLATFORM_AX_PLATFORM_NODE_UI_KIT_ELEMENT_H_
 

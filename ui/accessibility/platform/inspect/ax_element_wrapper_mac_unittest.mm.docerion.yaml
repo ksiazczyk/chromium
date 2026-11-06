@@ -1,0 +1,4 @@
+# Docerion header of ax_element_wrapper_mac_unittest.mm.
+type: test
+title: AXElementWrapperMac unit tests
+summary: Unit tests verifying position retrieval from macOS AXElementWrapper for NSAccessibilityElement and AXUIElementRef inputs, including a death test for non-accessibility objects.

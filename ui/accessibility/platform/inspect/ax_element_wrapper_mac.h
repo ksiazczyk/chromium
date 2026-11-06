@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXElementWrapper Mac declaration
+// summary: Declares a wrapper unifying AXUIElement and NSAccessibilityElement objects with attribute, action and selector access for macOS accessibility inspection.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_INSPECT_AX_ELEMENT_WRAPPER_MAC_H_
 #define UI_ACCESSIBILITY_PLATFORM_INSPECT_AX_ELEMENT_WRAPPER_MAC_H_
 

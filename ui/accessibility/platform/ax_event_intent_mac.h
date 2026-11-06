@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac accessibility event intents
+// summary: Defines enums and structs describing text state change, edit, and selection intents for the Mac accessibility framework.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_AX_EVENT_INTENT_MAC_H_
 #define UI_ACCESSIBILITY_PLATFORM_AX_EVENT_INTENT_MAC_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of ax_platform_node_cocoa.mm.
+type: source
+title: AXPlatformNodeCocoa implementation
+summary: Implements the macOS Cocoa accessibility node, mapping roles, subroles and events to NSAccessibility and handling announcements.

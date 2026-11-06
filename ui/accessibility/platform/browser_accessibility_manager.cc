@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser accessibility manager core implementation
+// summary: Implements the core BrowserAccessibilityManager that maintains accessibility trees, serializes updates, and fires generated accessibility events.
+// ---
+
 #include "ui/accessibility/platform/browser_accessibility_manager.h"
 
 #include <stddef.h>

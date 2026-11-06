@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura Linux accessibility tree formatter implementation
+// summary: Builds and formats Linux ATK and AT-SPI accessibility trees and evaluates inspect script instructions for the Aura Linux platform.
+// ---
+
 #include "ui/accessibility/platform/inspect/ax_tree_formatter_auralinux.h"
 
 #include <dbus/dbus.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows UIA text child provider implementation
+// summary: Implements the UI Automation ITextChildProvider that exposes the enclosing text container and text range for Windows accessibility nodes.
+// ---
+
 #include "ui/accessibility/platform/ax_platform_node_textchildprovider_win.h"
 
 #include "ui/accessibility/platform/ax_platform_node_textprovider_win.h"

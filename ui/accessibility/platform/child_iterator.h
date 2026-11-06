@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChildIterator interface
+// summary: Declares the abstract iterator interface for traversing children of accessibility platform node delegates.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_CHILD_ITERATOR_H_
 #define UI_ACCESSIBILITY_PLATFORM_CHILD_ITERATOR_H_
 

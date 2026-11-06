@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXPlatformNode implementation
+// summary: Implements the AXPlatformNode base, including native window handler registration, native accessible lookup, and popup focus override for UI menus.
+// ---
+
 #include "ui/accessibility/platform/ax_platform_node.h"
 
 #include "base/debug/crash_logging.h"

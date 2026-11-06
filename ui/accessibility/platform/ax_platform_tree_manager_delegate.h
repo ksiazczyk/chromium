@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXPlatformTreeManagerDelegate interface
+// summary: Declares a pure abstract delegate used by AXPlatformTreeManager to perform accessibility actions and query view focus, bounds, and device scale across web content and Views layers.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_AX_PLATFORM_TREE_MANAGER_DELEGATE_H_
 #define UI_ACCESSIBILITY_PLATFORM_AX_PLATFORM_TREE_MANAGER_DELEGATE_H_
 

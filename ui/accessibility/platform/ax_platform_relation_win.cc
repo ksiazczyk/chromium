@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows accessibility relation implementation
+// summary: Implements IAccessibleRelation and maps internal accessibility attributes to IAccessible2 relation and reverse relation types.
+// ---
+
 #include "ui/accessibility/platform/ax_platform_relation_win.h"
 
 #include <wrl/client.h>

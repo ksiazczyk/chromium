@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserAccessibility base class implementation
+// summary: Implements the browser-side accessibility tree node that wraps an AXNode and exposes web-specific information to platform accessibility APIs.
+// ---
+
 #include "ui/accessibility/platform/browser_accessibility.h"
 
 #include <stddef.h>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Accessibility platform BUILD.gn
+summary: Defines the GN build targets, sources and dependencies for the ui/accessibility/platform accessibility component.

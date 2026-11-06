@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXFuchsiaSemanticProviderImpl header
+// summary: Declares the Fuchsia semantic provider implementation with batched semantic tree updates and FIDL listener bindings.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_FUCHSIA_SEMANTIC_PROVIDER_IMPL_H_
 #define UI_ACCESSIBILITY_PLATFORM_FUCHSIA_SEMANTIC_PROVIDER_IMPL_H_
 

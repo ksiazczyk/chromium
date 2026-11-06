@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AXPlatformNodeTextProviderWin unit tests
+// summary: Unit tests covering selections, document ranges and text edit behavior of the Windows UI Automation text provider.
+// ---
+
 #include "ui/accessibility/platform/ax_platform_node_textprovider_win.h"
 
 #include <vector>

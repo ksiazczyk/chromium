@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows fragment root unit tests
+// summary: Unit tests for the Windows UI Automation fragment root, covering unique id lookup and fragment root provider behavior.
+// ---
+
 #include "ui/accessibility/platform/ax_fragment_root_win.h"
 
 #include <wrl/client.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS browser accessibility node declaration
+// summary: Declares BrowserAccessibilityMac, the macOS BrowserAccessibility subclass that manages Cocoa native wrappers for accessibility nodes.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_BROWSER_ACCESSIBILITY_MAC_H_
 #define UI_ACCESSIBILITY_PLATFORM_BROWSER_ACCESSIBILITY_MAC_H_
 

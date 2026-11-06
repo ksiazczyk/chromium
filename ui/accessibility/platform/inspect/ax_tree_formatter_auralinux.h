@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura Linux accessibility tree formatter declaration
+// summary: Declares AXTreeFormatterAuraLinux, which builds accessibility trees from AtkObject and AtspiAccessible nodes and adds platform-specific properties.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_INSPECT_AX_TREE_FORMATTER_AURALINUX_H_
 #define UI_ACCESSIBILITY_PLATFORM_INSPECT_AX_TREE_FORMATTER_AURALINUX_H_
 

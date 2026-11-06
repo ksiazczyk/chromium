@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows accessibility platform node implementation
+// summary: Implements AXPlatformNodeWin, the Windows COM object exposing accessibility nodes through MSAA, IAccessible2 and UI Automation interfaces.
+// ---
+
 #include "ui/accessibility/platform/ax_platform_node_win.h"
 
 #include <wrl/client.h>

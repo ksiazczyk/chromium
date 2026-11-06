@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AXUniqueId
+// summary: Tests that AXUniqueId produces unique, movable, and reusable accessibility object IDs, including behavior when the available ID bank is exhausted.
+// ---
+
 #include "ui/accessibility/platform/ax_unique_id.h"
 
 #include <array>

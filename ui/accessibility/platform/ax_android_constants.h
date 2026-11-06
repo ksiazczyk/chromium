@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android accessibility constants
+// summary: Declares exported Android class name and view constants used by the Chromium accessibility platform.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_AX_ANDROID_CONSTANTS_H_
 #define UI_ACCESSIBILITY_PLATFORM_AX_ANDROID_CONSTANTS_H_
 

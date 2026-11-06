@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXTargetWin variant of Windows accessibility targets
+// summary: Declares AXTargetWin, a variant holding IAccessible and IAccessible2 COM pointers, strings, ints or scoped arrays used as inspection targets on Windows.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_INSPECT_AX_TARGET_WIN_H_
 #define UI_ACCESSIBILITY_PLATFORM_INSPECT_AX_TARGET_WIN_H_
 

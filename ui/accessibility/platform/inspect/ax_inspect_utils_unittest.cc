@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility inspect value formatting unit tests
+// summary: Unit tests for AXFormatValue covering strings, constants, integers, doubles, lists, dictionaries, sets and ordered dictionaries.
+// ---
+
 #include "ui/accessibility/platform/inspect/ax_inspect_utils.h"
 
 #include <string>

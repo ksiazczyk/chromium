@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test AX node wrapper header
+// summary: Declares TestAXNodeWrapper, which wraps AXNodes as AXPlatformNodeDelegates for accessibility tests and exposes global test state helpers.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_TEST_AX_NODE_WRAPPER_H_
 #define UI_ACCESSIBILITY_PLATFORM_TEST_AX_NODE_WRAPPER_H_
 

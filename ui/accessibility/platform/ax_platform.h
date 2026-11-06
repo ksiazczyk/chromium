@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXPlatform header
+// summary: Declares the process-wide AXPlatform singleton, its delegate interface for accessibility mode queries, and observer and assistive technology notification APIs.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_AX_PLATFORM_H_
 #define UI_ACCESSIBILITY_PLATFORM_AX_PLATFORM_H_
 

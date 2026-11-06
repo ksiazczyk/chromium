@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXEventRecorder base class declaration
+// summary: Declares the base AXEventRecorder class that listens for native accessibility events and stores human-readable log strings, with platform subclasses doing most of the work.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_INSPECT_AX_EVENT_RECORDER_H_
 #define UI_ACCESSIBILITY_PLATFORM_INSPECT_AX_EVENT_RECORDER_H_
 

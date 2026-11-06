@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for accessibility platform
+summary: Specifies allowed include dependencies for the platform directory with per-file exceptions for Cocoa, Windows and manager files.

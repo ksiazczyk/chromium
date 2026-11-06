@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AuraLinux BrowserAccessibility unit tests
+// summary: Tests ATK text, hypertext, selection, and action behavior of the Linux accessibility implementation through BrowserAccessibilityAuraLinux.
+// ---
+
 #include "ui/accessibility/platform/browser_accessibility_auralinux.h"
 
 #include <atk/atk.h>

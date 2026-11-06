@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility tree formatter filter matching
+// summary: Implements static property and node filter matching used to include or exclude lines and nodes when formatting accessibility trees.
+// ---
+
 #include "ui/accessibility/platform/inspect/ax_tree_formatter.h"
 
 #include <ostream>

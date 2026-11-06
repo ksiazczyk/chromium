@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux accessibility event recorder declaration
+// summary: Declares AXEventRecorderAuraLinux, which has distinct ATK and AT-SPI2 code paths for recording accessibility events on Linux.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_INSPECT_AX_EVENT_RECORDER_AURALINUX_H_
 #define UI_ACCESSIBILITY_PLATFORM_INSPECT_AX_EVENT_RECORDER_AURALINUX_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AXInspectTestHelper implementation
+// summary: Implements the helper for accessibility tree dump tests, mapping API types to directive prefixes and platform expectation files.
+// ---
+
 #include "ui/accessibility/platform/inspect/ax_inspect_test_helper.h"
 
 #include <string>

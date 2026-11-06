@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS accessibility text marker utility declarations
+// summary: Declares helpers that convert between macOS AXTextMarker and AXTextMarkerRange objects and Chromium accessibility positions and ranges, plus NSValue range and size checks.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_AX_UTILS_MAC_H_
 #define UI_ACCESSIBILITY_PLATFORM_AX_UTILS_MAC_H_
 
