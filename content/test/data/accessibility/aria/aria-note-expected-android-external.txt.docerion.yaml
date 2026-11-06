@@ -1,0 +1,4 @@
+# Docerion header of aria-note-expected-android-external.txt.
+type: test
+title: aria-note expected Android external view
+summary: Expected Android external accessibility snapshot for the ARIA note role test page.

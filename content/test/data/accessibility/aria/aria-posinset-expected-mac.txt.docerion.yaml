@@ -1,0 +1,4 @@
+# Docerion header of aria-posinset-expected-mac.txt.
+type: test
+title: aria-posinset expected macOS accessibility output
+summary: Expected macOS accessibility tree for the aria-posinset and aria-setsize test page.

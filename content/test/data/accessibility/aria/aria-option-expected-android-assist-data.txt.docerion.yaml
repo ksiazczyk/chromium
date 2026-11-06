@@ -1,0 +1,4 @@
+# Docerion header of aria-option-expected-android-assist-data.txt.
+type: test
+title: aria-option expected Android assist data
+summary: Expected Android assist data accessibility snapshot for the aria-option listbox test page, showing option roles, labels, and inline text styling.

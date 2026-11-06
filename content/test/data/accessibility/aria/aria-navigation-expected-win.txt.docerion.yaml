@@ -1,0 +1,4 @@
+# Docerion header of aria-navigation-expected-win.txt.
+type: test
+title: aria-navigation expected Windows output
+summary: Expected Windows accessibility tree output for the aria-navigation landmark test.

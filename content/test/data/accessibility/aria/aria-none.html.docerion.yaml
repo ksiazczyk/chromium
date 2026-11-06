@@ -1,0 +1,4 @@
+# Docerion header of aria-none.html.
+type: test
+title: aria-none test page
+summary: HTML test page with an h1 element carrying role none, used to verify accessibility tree behavior.

@@ -1,0 +1,4 @@
+# Docerion header of aria-owns-with-role-change-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for aria-owns with role change
+summary: Expected accessibility tree output for the aria-owns-with-role-change test on Linux, showing a region landmark with static text and a button.

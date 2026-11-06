@@ -1,0 +1,4 @@
+# Docerion header of aria-multiline-expected-auralinux.txt.
+type: test
+title: aria-multiline expected accessibility tree for auralinux
+summary: Expected Linux accessibility tree output for the aria-multiline test, showing single-line and multi-line textbox entries.

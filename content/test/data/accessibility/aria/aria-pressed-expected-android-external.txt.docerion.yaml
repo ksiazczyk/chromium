@@ -1,0 +1,4 @@
+# Docerion header of aria-pressed-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility output for aria-pressed
+summary: Expected Android external service output describing buttons and toggle buttons with their aria-pressed states and actions.

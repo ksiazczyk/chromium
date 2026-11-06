@@ -1,0 +1,4 @@
+# Docerion header of aria-rowgroup-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for aria-rowgroup
+summary: Expected Windows accessibility tree output for the aria-rowgroup test page, listing document, table, and row roles.

@@ -1,0 +1,4 @@
+# Docerion header of aria-presentation-in-list-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for aria-presentation-in-list
+summary: Expected macOS AX accessibility tree snapshot for the test page applying role presentation inside a list.

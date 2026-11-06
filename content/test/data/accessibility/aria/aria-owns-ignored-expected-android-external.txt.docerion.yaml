@@ -1,0 +1,4 @@
+# Docerion header of aria-owns-ignored-expected-android-external.txt.
+type: test
+title: Expected Android external data for aria-owns ignored test
+summary: Expected Android external accessibility snapshot for the aria-owns ignored-nodes test, covering buttons, text fields, checkboxes and sliders.

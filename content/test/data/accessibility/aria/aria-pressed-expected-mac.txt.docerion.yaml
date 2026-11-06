@@ -1,0 +1,4 @@
+# Docerion header of aria-pressed-expected-mac.txt.
+type: test
+title: aria-pressed expected accessibility tree for macOS
+summary: Expected macOS accessibility tree output for the aria-pressed test, describing buttons and toggle buttons with AX values.

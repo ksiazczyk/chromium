@@ -1,0 +1,4 @@
+# Docerion header of aria-note-expected-win.txt.
+type: test
+title: aria-note expected Windows accessibility tree
+summary: Expected Windows accessibility tree output for the ARIA note role test page.

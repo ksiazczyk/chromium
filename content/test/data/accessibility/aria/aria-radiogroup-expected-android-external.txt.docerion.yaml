@@ -1,0 +1,4 @@
+# Docerion header of aria-radiogroup-expected-android-external.txt.
+type: test
+title: Expected external Android accessibility output for aria-radiogroup
+summary: Expected Android accessibility output for the radiogroup test in external node format, including actions, state descriptions and chrome roles.

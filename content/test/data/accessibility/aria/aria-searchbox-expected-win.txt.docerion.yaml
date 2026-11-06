@@ -1,0 +1,4 @@
+# Docerion header of aria-searchbox-expected-win.txt.
+type: test
+title: ARIA searchbox expected output for Windows
+summary: Expected Windows accessibility tree snapshot for the ARIA searchbox test, showing ROLE_SYSTEM_TEXT with the searchbox xml-roles attribute.

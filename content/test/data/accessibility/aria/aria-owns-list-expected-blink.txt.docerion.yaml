@@ -1,0 +1,4 @@
+# Docerion header of aria-owns-list-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for aria-owns list test
+summary: Expected Blink accessibility tree snapshot showing a list with two list items produced through aria-owns.

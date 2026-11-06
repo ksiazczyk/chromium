@@ -1,0 +1,4 @@
+# Docerion header of aria-rowheader-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for aria-rowheader
+summary: Expected Android assist data snapshot for the aria-rowheader test, showing grid rows, row headers, and grid cells.

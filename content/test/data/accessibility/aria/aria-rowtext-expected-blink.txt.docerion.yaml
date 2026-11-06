@@ -1,0 +1,4 @@
+# Docerion header of aria-rowtext-expected-blink.txt.
+type: test
+title: aria-rowtext expected accessibility tree for Blink
+summary: Expected internal Blink accessibility tree snapshot for the aria-rowtext grid test with rows and grid cells.

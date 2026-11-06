@@ -1,0 +1,4 @@
+# Docerion header of aria-owns-grid-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for aria-owns grid test
+summary: Expected Blink accessibility tree snapshot for a grid built with aria-owns, listing rows, column headers and grid cells.

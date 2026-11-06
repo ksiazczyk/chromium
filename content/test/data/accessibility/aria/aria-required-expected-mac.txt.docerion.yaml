@@ -1,0 +1,4 @@
+# Docerion header of aria-required-expected-mac.txt.
+type: test
+title: aria-required expected macOS tree
+summary: Expected macOS AX accessibility tree for the aria-required radiogroup test page.

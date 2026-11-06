@@ -1,0 +1,4 @@
+# Docerion header of aria-rowgroup-expected-blink.txt.
+type: test
+title: ARIA rowgroup expected Blink accessibility tree
+summary: Expected Blink internal accessibility tree for the aria-rowgroup test, showing a grid with a rowgroup and two rows.

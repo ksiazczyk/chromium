@@ -1,0 +1,4 @@
+# Docerion header of aria-required-empty-input.html.
+type: test
+title: aria-required-empty-input test page
+summary: HTML test page verifying that invalid state is not exposed on empty required inputs to avoid redundant verbalization.

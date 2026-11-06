@@ -1,0 +1,4 @@
+# Docerion header of aria-presentation-in-list-expected-uia-win.txt.
+type: test
+title: Expected UIA accessibility tree for aria-presentation-in-list on Windows
+summary: Expected UIA accessibility tree snapshot on Windows for the test page applying role presentation inside a list.

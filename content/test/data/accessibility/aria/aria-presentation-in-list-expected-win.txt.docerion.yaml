@@ -1,0 +1,4 @@
+# Docerion header of aria-presentation-in-list-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for aria-presentation-in-list
+summary: Expected MSAA-style accessibility tree snapshot on Windows for the test page applying role presentation inside a list.

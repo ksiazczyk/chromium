@@ -1,0 +1,4 @@
+# Docerion header of aria-search-expected-win.txt.
+type: test
+title: ARIA search expected Windows output
+summary: Expected Windows accessibility tree output for the ARIA search role test, showing an IA2 search landmark with static text.

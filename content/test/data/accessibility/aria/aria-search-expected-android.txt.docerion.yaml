@@ -1,0 +1,4 @@
+# Docerion header of aria-search-expected-android.txt.
+type: test
+title: ARIA search expected Android output
+summary: Expected Android accessibility tree output for the ARIA search role test, showing a SearchView with role description search.

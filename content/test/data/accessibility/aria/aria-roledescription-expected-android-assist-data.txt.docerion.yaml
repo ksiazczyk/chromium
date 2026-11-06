@@ -1,0 +1,4 @@
+# Docerion header of aria-roledescription-expected-android-assist-data.txt.
+type: test
+title: aria-roledescription expected Android assist data
+summary: Expected Android assist data snapshot showing aria-roledescription values on buttons and containers.

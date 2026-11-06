@@ -1,0 +1,4 @@
+# Docerion header of aria-owns-with-role-change-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for aria-owns with role change
+summary: Expected Blink accessibility tree output for the aria-owns-with-role-change test, showing a region containing static text and a button.

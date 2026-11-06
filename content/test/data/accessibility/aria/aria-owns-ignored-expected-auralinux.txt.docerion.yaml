@@ -1,0 +1,4 @@
+# Docerion header of aria-owns-ignored-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for aria-owns ignored test
+summary: Expected Linux AT-SPI accessibility tree snapshot for the aria-owns ignored-nodes test.

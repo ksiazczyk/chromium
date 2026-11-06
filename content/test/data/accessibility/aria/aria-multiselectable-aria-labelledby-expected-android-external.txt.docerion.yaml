@@ -1,0 +1,4 @@
+# Docerion header of aria-multiselectable-aria-labelledby-expected-android-external.txt.
+type: test
+title: aria-multiselectable aria-labelledby expected tree for Android (external)
+summary: Expected Android accessibility output for the aria-multiselectable aria-labelledby test, describing listboxes with selection states.

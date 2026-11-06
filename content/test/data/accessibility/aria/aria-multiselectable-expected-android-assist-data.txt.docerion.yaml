@@ -1,0 +1,4 @@
+# Docerion header of aria-multiselectable-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for aria-multiselectable
+summary: Expected Android assist data snapshot for the aria-multiselectable listbox test, showing the view hierarchy with roles, HTML info and selected states.

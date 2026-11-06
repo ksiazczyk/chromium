@@ -1,0 +1,4 @@
+# Docerion header of aria-region-expected-android.txt.
+type: test
+title: aria-region expected Android accessibility tree
+summary: Expected Android accessibility tree snapshot for the aria-region test page, showing role descriptions and container titles for named and unnamed regions.

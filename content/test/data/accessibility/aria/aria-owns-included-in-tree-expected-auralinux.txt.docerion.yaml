@@ -1,0 +1,4 @@
+# Docerion header of aria-owns-included-in-tree-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for aria-owns included in tree test
+summary: Expected Linux accessibility tree snapshot verifying that elements targeted by aria-owns are always included in the tree, even with unincluded ancestors.

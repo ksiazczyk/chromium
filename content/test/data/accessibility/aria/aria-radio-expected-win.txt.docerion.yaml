@@ -1,0 +1,4 @@
+# Docerion header of aria-radio-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for aria-radio
+summary: Expected Windows accessibility tree snapshot for the aria-radio test page, describing the document and a checkable radio button named Radio1.

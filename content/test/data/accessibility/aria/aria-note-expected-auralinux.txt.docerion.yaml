@@ -1,0 +1,4 @@
+# Docerion header of aria-note-expected-auralinux.txt.
+type: test
+title: aria-note expected AuraLinux accessibility tree
+summary: Expected Linux accessibility tree snapshot for the ARIA note role test page.

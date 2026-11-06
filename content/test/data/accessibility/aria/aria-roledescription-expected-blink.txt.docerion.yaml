@@ -1,0 +1,4 @@
+# Docerion header of aria-roledescription-expected-blink.txt.
+type: test
+title: ARIA roledescription expected Blink accessibility tree
+summary: Expected Blink internal accessibility tree snapshot for the aria-roledescription test with roleDescription attributes on buttons, paragraphs and groups.

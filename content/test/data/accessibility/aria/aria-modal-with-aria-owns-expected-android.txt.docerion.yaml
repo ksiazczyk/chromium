@@ -1,0 +1,4 @@
+# Docerion header of aria-modal-with-aria-owns-expected-android.txt.
+type: test
+title: Expected Android tree for aria-modal with aria-owns
+summary: Expected Android accessibility tree output for the aria-modal with aria-owns test, showing the modal dialog and content pulled in via aria-owns.

@@ -1,0 +1,4 @@
+# Docerion header of aria-progressbar-expected-android.txt.
+type: test
+title: aria-progressbar expected Android accessibility snapshot
+summary: Expected Android accessibility snapshot for the aria-progressbar test, showing progress bar ranges and state descriptions.

@@ -1,0 +1,4 @@
+# Docerion header of aria-scrollbar-expected-android-assist-data.txt.
+type: test
+title: aria-scrollbar expected Android assist data
+summary: Expected Android assist data snapshot for the aria-scrollbar test showing two scrollbar views with value and orientation attributes.

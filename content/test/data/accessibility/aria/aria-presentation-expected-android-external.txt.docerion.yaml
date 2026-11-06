@@ -1,0 +1,4 @@
+# Docerion header of aria-presentation-expected-android-external.txt.
+type: test
+title: aria-presentation Android external expected output
+summary: Expected Android accessibility tree in external format for the aria-role presentation test page.

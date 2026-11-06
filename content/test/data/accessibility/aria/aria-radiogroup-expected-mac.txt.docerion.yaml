@@ -1,0 +1,4 @@
+# Docerion header of aria-radiogroup-expected-mac.txt.
+type: test
+title: ARIA radiogroup expected macOS accessibility tree
+summary: Expected macOS accessibility tree snapshot for the ARIA radiogroup test page, listing radio group and radio button nodes.

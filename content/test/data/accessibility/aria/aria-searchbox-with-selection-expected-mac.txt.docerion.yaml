@@ -1,0 +1,4 @@
+# Docerion header of aria-searchbox-with-selection-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for searchbox with selection
+summary: Expected macOS accessibility tree output for the searchbox-with-selection test page.

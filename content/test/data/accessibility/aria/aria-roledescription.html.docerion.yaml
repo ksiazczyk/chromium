@@ -1,0 +1,4 @@
+# Docerion header of aria-roledescription.html.
+type: test
+title: ARIA roledescription accessibility test page
+summary: HTML test page exercising aria-roledescription on native and ARIA buttons, paragraphs and groups for cross-platform accessibility tree tests.

@@ -1,0 +1,4 @@
+# Docerion header of aria-option-expected-blink.txt.
+type: test
+title: aria-option expected Blink
+summary: Expected Blink internal accessibility tree snapshot for the aria-option listbox test page, including static text and inline text boxes.

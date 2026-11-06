@@ -1,0 +1,4 @@
+# Docerion header of aria-searchbox-expected-auralinux.txt.
+type: test
+title: ARIA searchbox expected output for AuraLinux
+summary: Expected AuraLinux accessibility tree snapshot for the ARIA searchbox test, listing document, entry and static text nodes for the searchbox role.

@@ -1,0 +1,4 @@
+# Docerion header of aria-rowheader-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for aria-rowheader
+summary: Expected Blink internal accessibility tree snapshot for the aria-rowheader test with rowHeader and gridCell nodes.

@@ -1,0 +1,4 @@
+# Docerion header of aria-navigation-expected-android-external.txt.
+type: test
+title: aria-navigation expected Android external output
+summary: Expected Android external accessibility tree output for the aria-navigation landmark test.

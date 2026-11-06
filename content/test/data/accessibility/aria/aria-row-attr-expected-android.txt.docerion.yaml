@@ -1,0 +1,4 @@
+# Docerion header of aria-row-attr-expected-android.txt.
+type: test
+title: ARIA row attribute expected Android accessibility tree
+summary: Expected Android accessibility tree snapshot for the aria-row-attr test showing grid rows, cells and table headers with row and column indices.

@@ -1,0 +1,4 @@
+# Docerion header of aria-search-expected-blink.txt.
+type: test
+title: ARIA search expected Blink output
+summary: Expected Blink internal accessibility tree output for the ARIA search role test with a search node and static text.

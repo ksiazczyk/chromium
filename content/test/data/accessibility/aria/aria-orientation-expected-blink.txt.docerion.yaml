@@ -1,0 +1,4 @@
+# Docerion header of aria-orientation-expected-blink.txt.
+type: test
+title: aria-orientation expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the aria-orientation test, capturing orientation states of ARIA roles like listbox, menu, slider and tree.

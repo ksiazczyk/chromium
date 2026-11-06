@@ -1,0 +1,4 @@
+# Docerion header of aria-radiogroup-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for aria-radiogroup
+summary: Expected Android accessibility tree for the radiogroup test, listing a radio group with two radio buttons and their state descriptions.

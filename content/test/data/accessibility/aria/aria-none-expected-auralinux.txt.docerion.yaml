@@ -1,0 +1,4 @@
+# Docerion header of aria-none-expected-auralinux.txt.
+type: test
+title: aria-none expected AuraLinux accessibility tree
+summary: Expected Linux accessibility tree snapshot for the aria-role none test page.

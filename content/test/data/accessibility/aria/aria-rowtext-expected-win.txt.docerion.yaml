@@ -1,0 +1,4 @@
+# Docerion header of aria-rowtext-expected-win.txt.
+type: test
+title: aria-rowtext expected accessibility tree for Windows
+summary: Expected Windows accessibility tree snapshot for the aria-rowtext grid test, including rowindex, rowtext and coltext properties.

@@ -1,0 +1,4 @@
+# Docerion header of aria-paragraph-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for aria-paragraph
+summary: Expected Android accessibility tree output for the aria-paragraph test, showing a TextView named Paragraph inside a focused WebView.

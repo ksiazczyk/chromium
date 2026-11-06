@@ -1,0 +1,4 @@
+# Docerion header of aria-multiselectable-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for aria-multiselectable
+summary: Expected Android accessibility tree snapshot for the aria-multiselectable listbox test, including state descriptions and selected collection items.

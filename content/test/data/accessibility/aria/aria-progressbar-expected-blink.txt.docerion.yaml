@@ -1,0 +1,4 @@
+# Docerion header of aria-progressbar-expected-blink.txt.
+type: test
+title: aria-progressbar expected accessibility tree for Blink
+summary: Expected Blink accessibility tree output for the aria-progressbar test, showing progress indicators with value ranges.

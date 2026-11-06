@@ -1,0 +1,4 @@
+# Docerion header of aria-owns-expected-android-assist-data.txt.
+type: test
+title: aria-owns expected Android assist data
+summary: Expected Android assist data snapshot for the aria-owns test, showing a list that owns list items two and four from elsewhere in the DOM.

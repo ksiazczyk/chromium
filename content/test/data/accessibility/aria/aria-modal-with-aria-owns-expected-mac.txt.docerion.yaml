@@ -1,0 +1,4 @@
+# Docerion header of aria-modal-with-aria-owns-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for aria-modal with aria-owns
+summary: Expected macOS accessibility tree output for the aria-modal with aria-owns test, showing the dialog exposed as AXApplicationDialog.

@@ -1,0 +1,4 @@
+# Docerion header of aria-readonly-expected-android-assist-data.txt.
+type: test
+title: ARIA readonly expected Android assist data
+summary: Expected Android assist data accessibility output for the ARIA readonly test page covering inputs, gridcells and ARIA roles.

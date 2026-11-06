@@ -1,0 +1,4 @@
+# Docerion header of aria-searchbox-with-selection-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for searchbox with selection
+summary: Expected Android accessibility tree output for the searchbox-with-selection test page.

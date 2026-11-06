@@ -1,0 +1,4 @@
+# Docerion header of aria-row-expected-android-external.txt.
+type: test
+title: aria-row expected Android external accessibility tree
+summary: Expected Android external accessibility output for the aria-row grid test, describing a GridView collection with rows, headers and cells including collection item info and actions.

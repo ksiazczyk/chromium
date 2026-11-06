@@ -1,0 +1,4 @@
+# Docerion header of aria-paragraph-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for aria-paragraph
+summary: Expected macOS accessibility tree output for the aria-paragraph test, showing a group containing static text with the value Paragraph.

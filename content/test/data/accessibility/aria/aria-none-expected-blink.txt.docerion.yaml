@@ -1,0 +1,4 @@
+# Docerion header of aria-none-expected-blink.txt.
+type: test
+title: aria-none expected Blink accessibility tree
+summary: Expected Blink internal accessibility tree snapshot for the aria-role none test page.

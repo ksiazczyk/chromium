@@ -1,0 +1,4 @@
+# Docerion header of aria-searchbox-expected-mac.txt.
+type: test
+title: ARIA searchbox expected output for macOS
+summary: Expected macOS accessibility tree snapshot for the ARIA searchbox test, showing an AXTextArea with the AXSearchField subrole.

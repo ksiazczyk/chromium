@@ -1,0 +1,4 @@
+# Docerion header of aria-readonly-expected-win.txt.
+type: test
+title: aria-readonly expected accessibility tree for Windows
+summary: Expected Windows (IA2/MSAA) accessibility tree output for the aria-readonly test page, listing roles, states and names for readonly inputs, divs, gridcells and other ARIA roles.

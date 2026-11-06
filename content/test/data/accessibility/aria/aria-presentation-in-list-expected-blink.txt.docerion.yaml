@@ -1,0 +1,4 @@
+# Docerion header of aria-presentation-in-list-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for aria-presentation-in-list
+summary: Expected Blink accessibility tree output for the test page applying role presentation inside a list.

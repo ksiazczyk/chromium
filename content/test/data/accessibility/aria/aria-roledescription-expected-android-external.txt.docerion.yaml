@@ -1,0 +1,4 @@
+# Docerion header of aria-roledescription-expected-android-external.txt.
+type: test
+title: aria-roledescription expected Android external tree
+summary: Expected Android accessibility tree in external format for the aria-roledescription test page.

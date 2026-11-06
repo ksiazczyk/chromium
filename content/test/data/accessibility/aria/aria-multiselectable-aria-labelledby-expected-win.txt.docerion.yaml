@@ -1,0 +1,4 @@
+# Docerion header of aria-multiselectable-aria-labelledby-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for aria-multiselectable test
+summary: Expected Windows accessibility tree output for a test of multiselectable listboxes labelled through aria-labelledby.

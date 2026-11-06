@@ -1,0 +1,4 @@
+# Docerion header of aria-option-complex-children-expected-mac.txt.
+type: test
+title: aria-option-complex-children expected macOS accessibility tree
+summary: Expected macOS accessibility tree output for the listbox option with complex children test page.

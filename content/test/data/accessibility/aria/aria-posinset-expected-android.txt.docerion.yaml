@@ -1,0 +1,4 @@
+# Docerion header of aria-posinset-expected-android.txt.
+type: test
+title: aria-posinset expected Android output
+summary: Expected Android accessibility tree dump for the aria-posinset and aria-setsize test page.

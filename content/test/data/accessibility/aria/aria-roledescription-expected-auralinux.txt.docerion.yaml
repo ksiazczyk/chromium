@@ -1,0 +1,4 @@
+# Docerion header of aria-roledescription-expected-auralinux.txt.
+type: test
+title: ARIA roledescription expected Linux accessibility tree
+summary: Expected Linux AT-SPI accessibility tree snapshot for the aria-roledescription test showing roledescription annotations on buttons, paragraphs and panels.

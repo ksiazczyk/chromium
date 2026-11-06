@@ -1,0 +1,4 @@
+# Docerion header of aria-owns-from-display-none-expected-android-external.txt.
+type: test
+title: aria-owns-from-display-none expected Android external output
+summary: Expected Android external accessibility output for the aria-owns-from-display-none test, describing the focused WebView and editable text field.

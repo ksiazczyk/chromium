@@ -1,0 +1,4 @@
+# Docerion header of aria-orientation-expected-android-external.txt.
+type: test
+title: aria-orientation expected Android external
+summary: Expected Android external accessibility snapshot for the aria-orientation test page covering orientation variants of ARIA container roles.

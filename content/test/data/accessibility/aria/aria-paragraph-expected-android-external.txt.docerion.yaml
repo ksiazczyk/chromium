@@ -1,0 +1,4 @@
+# Docerion header of aria-paragraph-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for aria-paragraph
+summary: Expected Android accessibility tree output in external format for the aria-paragraph test, showing a TextView with the paragraph chrome role.

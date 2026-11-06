@@ -1,0 +1,4 @@
+# Docerion header of aria-radio-in-shadow-root-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for radio groups in shadow roots
+summary: Expected Blink accessibility tree for the shadow-root radio test, covering radio groups, set size and position in set, and a checkbox group.

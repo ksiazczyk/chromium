@@ -1,0 +1,4 @@
+# Docerion header of aria-readonly-expected-android-external.txt.
+type: test
+title: ARIA readonly expected Android external output
+summary: Expected Android external accessibility output for the ARIA readonly test page with actions, states and chrome roles.

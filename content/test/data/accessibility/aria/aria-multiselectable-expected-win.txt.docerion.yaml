@@ -1,0 +1,4 @@
+# Docerion header of aria-multiselectable-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for aria-multiselectable
+summary: Expected Windows accessibility tree snapshot for the aria-multiselectable listbox test, with MSAA roles, multiselectable flags and selected items.

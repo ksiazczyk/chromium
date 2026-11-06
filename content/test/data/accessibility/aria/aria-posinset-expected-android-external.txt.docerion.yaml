@@ -1,0 +1,4 @@
+# Docerion header of aria-posinset-expected-android-external.txt.
+type: test
+title: aria-posinset expected Android external output
+summary: Expected Android accessibility output in external format for the aria-posinset and aria-setsize test page.

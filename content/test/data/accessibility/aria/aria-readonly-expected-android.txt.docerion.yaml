@@ -1,0 +1,4 @@
+# Docerion header of aria-readonly-expected-android.txt.
+type: test
+title: ARIA readonly expected Android accessibility tree
+summary: Expected Android accessibility tree snapshot for the ARIA readonly test page showing widget types and disabled states.

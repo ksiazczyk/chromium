@@ -1,0 +1,4 @@
+# Docerion header of aria-owns-list-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for aria-owns list test
+summary: Expected Android accessibility tree snapshot for a list element that uses aria-owns to include two listitem divs.

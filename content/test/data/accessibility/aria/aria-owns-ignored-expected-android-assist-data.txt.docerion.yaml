@@ -1,0 +1,4 @@
+# Docerion header of aria-owns-ignored-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for aria-owns ignored test
+summary: Expected Android assist data snapshot verifying that aria-owned elements are never ignored during serialization.

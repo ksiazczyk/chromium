@@ -1,0 +1,4 @@
+# Docerion header of aria-multiselectable-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility snapshot for aria-multiselectable
+summary: Expected Android external accessibility snapshot for the aria-multiselectable listbox test, including collection info, actions and selection states.

@@ -1,0 +1,4 @@
+# Docerion header of aria-owns-list-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for aria-owns list test
+summary: Expected macOS accessibility tree snapshot showing an AXContentList with two groups for a page using aria-owns on a list.

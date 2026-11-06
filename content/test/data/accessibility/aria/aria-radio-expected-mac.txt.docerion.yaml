@@ -1,0 +1,4 @@
+# Docerion header of aria-radio-expected-mac.txt.
+type: test
+title: aria-radio expected Mac output
+summary: Expected macOS accessibility tree snapshot for the ARIA radio test page, showing an AXRadioButton titled Radio1.

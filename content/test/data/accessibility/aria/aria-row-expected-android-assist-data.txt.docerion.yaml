@@ -1,0 +1,4 @@
+# Docerion header of aria-row-expected-android-assist-data.txt.
+type: test
+title: aria-row expected Android assist data
+summary: Expected Android assist data output for the aria-row grid test, showing WebView, GridView, rows, column headers and grid cells with their HTML role information.
