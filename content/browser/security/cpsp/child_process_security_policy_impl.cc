@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChildProcessSecurityPolicy C++ implementation
+// summary: Implements the C++ ChildProcessSecurityPolicyImpl singleton that grants and checks child process permissions, including feature params controlling the Rust migration modes.
+// ---
+
 #include "content/browser/security/cpsp/child_process_security_policy_impl.h"
 
 #include <algorithm>

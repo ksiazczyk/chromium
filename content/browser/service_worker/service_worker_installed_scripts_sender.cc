@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker installed scripts sender implementation
+// summary: Implements sending a service worker's installed scripts from storage to the renderer over Mojo data pipes during worker startup.
+// ---
+
 #include "content/browser/service_worker/service_worker_installed_scripts_sender.h"
 
 #include <algorithm>

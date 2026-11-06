@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker container host implementation
+// summary: Implements ServiceWorkerContainerHost classes that bind service worker containers for clients and service workers to registrations, including controller access and security checks.
+// ---
+
 #include "content/browser/service_worker/service_worker_container_host.h"
 
 #include <set>

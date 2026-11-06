@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceWorkerUsbDelegateObserver class header
+// summary: Declares a broker between WebUsbService and UsbDelegate that tracks service worker registrations using WebUSB and delivers device events to their workers.
+// ---
+
 #ifndef CONTENT_BROWSER_SERVICE_WORKER_SERVICE_WORKER_USB_DELEGATE_OBSERVER_H_
 #define CONTENT_BROWSER_SERVICE_WORKER_SERVICE_WORKER_USB_DELEGATE_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ServiceProcessHost browser test
+// summary: Browser test covering service process launch, observer notifications, process details, and crash reporting for the echo service across platforms.
+// ---
+
 #include "content/public/browser/service_process_host.h"
 
 #include <string.h>

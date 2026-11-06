@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Screen orientation provider unit tests
+// summary: Unit tests for the screen orientation provider using fake delegates and web contents delegates to verify lock results and fullscreen requirements.
+// ---
+
 #include "content/browser/screen_orientation/screen_orientation_provider.h"
 
 #include <optional>

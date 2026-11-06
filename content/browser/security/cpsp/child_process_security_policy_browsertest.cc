@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChildProcessSecurityPolicy browser test
+// summary: In-process browser test checking that process states are correctly sized and not leaked across navigation, process shutdown, and reload.
+// ---
+
 #include <string>
 
 #include "base/files/file_path.h"

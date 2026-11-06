@@ -1,3 +1,9 @@
+---
+type: reference
+title: ES Modules in Service Workers
+summary: Documents the current state of ES module support in service workers, covering the static-import-only restriction and the lack of import map support.
+---
+
 # ES Modules in Service Workers
 
 This document details the current state of ES module support in Service Workers.

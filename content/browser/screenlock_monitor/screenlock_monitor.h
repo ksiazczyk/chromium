@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenlockMonitor class header (screenlock_monitor.h)
+// summary: Declares the process-wide ScreenlockMonitor class that tracks screenlock state changes and notifies registered ScreenlockObserver instances on Windows, macOS, and ChromeOS.
+// ---
+
 #ifndef CONTENT_BROWSER_SCREENLOCK_MONITOR_SCREENLOCK_MONITOR_H_
 #define CONTENT_BROWSER_SCREENLOCK_MONITOR_SCREENLOCK_MONITOR_H_
 

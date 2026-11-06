@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker version and registration info structs
+// summary: Declares ServiceWorkerVersionInfo and ServiceWorkerRegistrationInfo structs holding status, script URLs, storage keys, router rules, and navigation preload details.
+// ---
+
 #ifndef CONTENT_BROWSER_SERVICE_WORKER_SERVICE_WORKER_INFO_H_
 #define CONTENT_BROWSER_SERVICE_WORKER_SERVICE_WORKER_INFO_H_
 

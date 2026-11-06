@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker process manager unit tests
+// summary: Unit tests for ServiceWorkerProcessManager covering process allocation, release, and shutdown behavior with mock render process hosts.
+// ---
+
 #include "content/browser/service_worker/service_worker_process_manager.h"
 
 #include <memory>

@@ -1,3 +1,9 @@
+---
+type: readme
+title: content/browser/security README
+summary: Overview of security-relevant browser-process code, covering ChildProcessSecurityPolicy as the reference monitor for Site Isolation and permission grants, plus web platform policy implementations such as COOP and DIP.
+---
+
 # content/browser/security
 
 This directory contains security-relevant code for the browser process.

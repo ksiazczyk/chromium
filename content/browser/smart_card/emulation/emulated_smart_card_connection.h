@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Emulated smart card connection class declaration
+// summary: Declares EmulatedSmartCardConnection, which implements the SmartCardConnection Mojo interface for an active connection to an emulated smart card and delegates to the emulation manager.
+// ---
+
 #ifndef CONTENT_BROWSER_SMART_CARD_EMULATION_EMULATED_SMART_CARD_CONNECTION_H_
 #define CONTENT_BROWSER_SMART_CARD_EMULATION_EMULATED_SMART_CARD_CONNECTION_H_
 

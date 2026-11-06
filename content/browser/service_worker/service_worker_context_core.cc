@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker context core implementation
+// summary: Implements the core browser-side service worker context that manages registrations, versions, job coordination, quota, and observer notifications.
+// ---
+
 #include "content/browser/service_worker/service_worker_context_core.h"
 
 #include <limits>

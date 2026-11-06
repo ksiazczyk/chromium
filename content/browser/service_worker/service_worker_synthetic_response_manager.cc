@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic response manager implementation
+// summary: Implements network request initiation and synthetic response handling for service workers, with histograms and reload-reason tracking.
+// ---
+
 #include "content/browser/service_worker/service_worker_synthetic_response_manager.h"
 
 #include <cstddef>

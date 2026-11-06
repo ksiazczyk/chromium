@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker new script fetcher unit tests
+// summary: Unit tests covering ServiceWorkerNewScriptFetcher behavior when loading scripts for newly registered service worker versions.
+// ---
+
 #include "content/browser/service_worker/service_worker_new_script_fetcher.h"
 
 #include <memory>

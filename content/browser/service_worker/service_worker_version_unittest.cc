@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ServiceWorkerVersion unit tests
+// summary: Unit tests for ServiceWorkerVersion covering status changes, event dispatch, request timeouts, ping behavior, and other version lifecycle logic.
+// ---
+
 #include "content/browser/service_worker/service_worker_version.h"
 
 #include <stdint.h>

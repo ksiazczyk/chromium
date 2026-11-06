@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Smart card directory metadata
+summary: Declares the Monorail component Blink>SmartCard and the public Buganizer component id for the content browser smart card directory.

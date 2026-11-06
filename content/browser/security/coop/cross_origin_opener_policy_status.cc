@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: COOP status implementation
+// summary: Implements COOP status logic, including deciding when a navigation should swap browsing instances according to COOP rules.
+// ---
+
 #include "content/browser/security/coop/cross_origin_opener_policy_status.h"
 
 #include <utility>

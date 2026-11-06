@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker no best effort tasks browser test
+// summary: Browser test verifying that service worker registration settles without running best-effort tasks, as a regression test for a known bug.
+// ---
+
 #include <memory>
 
 #include "base/command_line.h"

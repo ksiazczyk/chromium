@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenlockMonitorDeviceSource implementation (device_source.cc)
+// summary: Implements the shared parts of ScreenlockMonitorDeviceSource, starting and stopping Mac screenlock listening in the constructor and destructor behind build flags.
+// ---
+
 #include "content/browser/screenlock_monitor/screenlock_monitor_device_source.h"
 
 #include "build/build_config.h"

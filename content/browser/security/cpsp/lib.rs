@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChildProcessSecurityPolicy Rust crate root
+// summary: Crate root of the Rust ChildProcessSecurityPolicy implementation, declaring the impl, process lock, and process state modules and re-exporting ChildProcessSecurityPolicyImpl.
+// ---
+
 // By default, unsafe code should be disallowed, and only the FFI code in the
 // modules needs to make an exception to allow it.
 #![deny(unsafe_code)]

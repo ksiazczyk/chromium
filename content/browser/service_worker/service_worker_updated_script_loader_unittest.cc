@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ServiceWorkerUpdatedScriptLoader unit tests
+// summary: Unit tests for the updated script loader, using a mocked HTTP server to verify script loading for installing service workers during update checks.
+// ---
+
 #include "content/browser/service_worker/service_worker_updated_script_loader.h"
 
 #include <map>

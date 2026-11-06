@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker security utilities unit tests
+// summary: Unit tests verifying origin matching and service worker access checks, including behavior when web security is disabled.
+// ---
+
 #include "content/browser/service_worker/service_worker_security_utils.h"
 
 #include "base/command_line.h"

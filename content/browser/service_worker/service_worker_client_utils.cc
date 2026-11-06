@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker client utilities implementation
+// summary: Implements helpers for focusing, opening, and navigating service worker client windows and collecting matched client information.
+// ---
+
 #include "content/browser/service_worker/service_worker_client_utils.h"
 
 #include <algorithm>

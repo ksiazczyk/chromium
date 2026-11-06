@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UtilityProcessHost browser tests
+// summary: Browser tests covering utility process launching, failed launches, elevated options, crash reporting, and shared memory messaging.
+// ---
+
 #include "content/browser/service_host/utility_process_host.h"
 
 #include <array>

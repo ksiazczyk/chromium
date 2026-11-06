@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL loader client checker implementation
+// summary: Implements URLLoaderClientCheckedRemote, forwarding URLLoaderClient calls while asserting OnReceiveResponse precedes OnComplete and recording UMA for diagnostics.
+// ---
+
 #include "content/browser/service_worker/url_loader_client_checker.h"
 
 #include "base/debug/alias.h"

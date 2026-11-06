@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test observer helper for service worker version events
+// summary: Declares TestServiceWorkerObserver, a context core observer with helpers that wait for version status changes, activation, or a live version in tests.
+// ---
+
 #ifndef CONTENT_BROWSER_SERVICE_WORKER_TEST_SERVICE_WORKER_OBSERVER_H_
 #define CONTENT_BROWSER_SERVICE_WORKER_TEST_SERVICE_WORKER_OBSERVER_H_
 

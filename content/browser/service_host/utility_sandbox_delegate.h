@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UtilitySandboxedProcessLauncherDelegate declaration
+// summary: Declares the sandboxed process launcher delegate for utility processes, covering Windows, zygote, POSIX, and Mac specifics.
+// ---
+
 #ifndef CONTENT_BROWSER_SERVICE_HOST_UTILITY_SANDBOX_DELEGATE_H_
 #define CONTENT_BROWSER_SERVICE_HOST_UTILITY_SANDBOX_DELEGATE_H_
 

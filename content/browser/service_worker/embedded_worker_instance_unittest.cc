@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EmbeddedWorkerInstance unit tests
+// summary: Unit tests for EmbeddedWorkerInstance that verify worker start, stop and lifecycle events using the embedded worker test helper.
+// ---
+
 #include "content/browser/service_worker/embedded_worker_instance.h"
 
 #include <stdint.h>

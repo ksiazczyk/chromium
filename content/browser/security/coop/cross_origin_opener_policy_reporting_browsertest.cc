@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: COOP reporting browser tests
+// summary: Browser tests checking that Reporting-Endpoints headers are parsed before navigation commits and that COOP reports upload without memory leaks.
+// ---
+
 #include "base/logging.h"
 #include "base/run_loop.h"
 #include "base/synchronization/lock.h"

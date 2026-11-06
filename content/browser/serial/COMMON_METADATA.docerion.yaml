@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Serial directory common metadata
+summary: Defines the issue tracker component (Blink>Serial) and public buganizer component ID used for the serial directory.

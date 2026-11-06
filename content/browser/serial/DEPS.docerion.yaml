@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Serial directory include rules
+summary: DEPS file restricting includes in the serial directory to allow device/base/features.h.

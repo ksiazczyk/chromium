@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceProcessHost implementation
+// summary: Implements the ServiceProcessHost API, applying sandbox policy and launching service processes through UtilityProcessHost.
+// ---
+
 #include <memory>
 #include <string>
 #include <utility>

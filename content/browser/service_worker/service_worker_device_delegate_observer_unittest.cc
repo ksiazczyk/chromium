@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker device delegate observer unit tests
+// summary: Unit tests for ServiceWorkerDeviceDelegateObserver using a mock observer to verify registration tracking and event dispatch to workers.
+// ---
+
 #include "content/browser/service_worker/service_worker_device_delegate_observer_unittest.h"
 
 #include <cstdint>

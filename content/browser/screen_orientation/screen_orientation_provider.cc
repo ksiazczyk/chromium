@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen orientation provider implementation
+// summary: Implements the browser-side screen orientation provider, handling lock and unlock requests, sandbox checks, fullscreen requirements, and DevTools emulation.
+// ---
+
 #include "content/browser/screen_orientation/screen_orientation_provider.h"
 
 #include <utility>

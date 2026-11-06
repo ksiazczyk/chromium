@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceWorkerUsbDelegateObserver implementation
+// summary: Implements the observer that dispatches USB device added, removed, error, and permission revoked events from the USB delegate to service workers using WebUSB.
+// ---
+
 #include "content/browser/service_worker/service_worker_usb_delegate_observer.h"
 
 #include <cstdint>

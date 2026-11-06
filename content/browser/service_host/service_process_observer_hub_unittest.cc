@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ServiceProcessObserverHub unit test
+// summary: Unit test verifying that the service process observer hub ignores duplicate, stale, and unmatched termination or crash notifications.
+// ---
+
 #include "content/public/browser/service_process_observer_hub.h"
 
 #include "base/process/process.h"

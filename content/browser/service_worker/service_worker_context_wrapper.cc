@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker context wrapper implementation
+// summary: Implements the ref-counted ServiceWorkerContextWrapper that exposes the single-threaded service worker context core to the rest of the content layer.
+// ---
+
 #include "content/browser/service_worker/service_worker_context_wrapper.h"
 
 #include <map>

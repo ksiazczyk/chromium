@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker cache writer unit tests
+// summary: Unit tests for ServiceWorkerCacheWriter covering copy, write-back, and comparison modes using mock resource readers and writers.
+// ---
+
 #include "content/browser/service_worker/service_worker_cache_writer.h"
 
 #include <stddef.h>

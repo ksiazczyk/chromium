@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Directory OWNERS file for cpsp
+summary: Disables parent lookup and delegates review ownership for this directory to the ChildProcessSecurityPolicy owners list.

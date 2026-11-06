@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Emulated smart card context implementation
+// summary: Implements the SmartCardContext Mojo interface for DevTools emulation, forwarding ListReaders, Connect, GetStatusChange and Cancel requests to the emulation manager.
+// ---
+
 #include "content/browser/smart_card/emulation/emulated_smart_card_context.h"
 
 #include "content/browser/smart_card/emulation/smart_card_emulation_manager.h"

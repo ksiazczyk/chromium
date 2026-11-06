@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker cache writer implementation
+// summary: Implements the state machine that copies, writes back, or compares service worker script data against the stored script cache.
+// ---
+
 #include "content/browser/service_worker/service_worker_cache_writer.h"
 
 #include <algorithm>

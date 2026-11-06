@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker container host unit tests
+// summary: Unit tests for ServiceWorkerContainerHost covering client validity, sandboxing, service worker access policies, and controller behavior.
+// ---
+
 #include "content/browser/service_worker/service_worker_container_host.h"
 
 #include <memory>

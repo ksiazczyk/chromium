@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker content settings proxy implementation
+// summary: Implements the browser-side Mojo proxy that answers content settings queries such as IndexedDB, cache storage, web locks, and clipboard access for service workers.
+// ---
+
 #include "content/browser/service_worker/service_worker_content_settings_proxy_impl.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ObservedServiceRemote browser test
+// summary: Browser test verifying that ObservedServiceRemote notifies observers of service launch, normal termination, and crashes, including late observer registration.
+// ---
+
 #include "content/public/browser/observed_service_remote.h"
 
 #include "base/run_loop.h"

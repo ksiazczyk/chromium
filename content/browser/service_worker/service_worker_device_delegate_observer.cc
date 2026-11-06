@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker device delegate observer implementation
+// summary: Implements an observer that tracks service worker registrations with device event handlers and dispatches events to their running workers.
+// ---
+
 #include "content/browser/service_worker/service_worker_device_delegate_observer.h"
 
 #include "content/browser/service_worker/service_worker_context_core.h"

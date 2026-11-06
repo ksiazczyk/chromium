@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart card emulation manager interface
+// summary: Defines the abstract SmartCardEmulationManager interface for handling smart card emulation requests, implemented by the DevTools handler and mocked in tests.
+// ---
+
 #ifndef CONTENT_BROWSER_SMART_CARD_EMULATION_SMART_CARD_EMULATION_MANAGER_H_
 #define CONTENT_BROWSER_SMART_CARD_EMULATION_SMART_CARD_EMULATION_MANAGER_H_
 

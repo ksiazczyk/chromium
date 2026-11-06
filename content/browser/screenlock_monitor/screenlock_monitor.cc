@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenlockMonitor implementation (screenlock_monitor.cc)
+// summary: Implements the ScreenlockMonitor singleton that notifies observers of screen lock and unlock events and records lock/unlock duration UMA histograms.
+// ---
+
 #include "content/browser/screenlock_monitor/screenlock_monitor.h"
 
 #include "base/logging.h"

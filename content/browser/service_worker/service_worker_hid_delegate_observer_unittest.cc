@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker HID delegate observer unit tests
+// summary: Unit tests for ServiceWorkerHidDelegateObserver covering HID device events, permission revocation, and worker start and stop behavior using fake HID manager test utilities.
+// ---
+
 #include "content/browser/service_worker/service_worker_hid_delegate_observer.h"
 
 #include <cstddef>

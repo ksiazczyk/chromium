@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScreenlockMonitor unit tests
+// summary: Unit tests for ScreenlockMonitor that verify observer notifications for screen lock and unlock events and the ScreenLocker duration histograms using a fake screenlock event source.
+// ---
+
 
 #include "content/browser/screenlock_monitor/screenlock_monitor.h"
 

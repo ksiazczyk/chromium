@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake service worker implementation
+// summary: Implements a fake blink::mojom::ServiceWorker that responds to install, activate, fetch, and other event dispatches with success in tests.
+// ---
+
 #include "content/browser/service_worker/fake_service_worker.h"
 
 #include <utility>

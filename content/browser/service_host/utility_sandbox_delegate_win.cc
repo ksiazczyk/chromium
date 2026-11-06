@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows sandbox delegate for utility processes
+// summary: Implements Windows-specific sandbox configuration for utility processes, setting lockdown, integrity and AppContainer policies for audio and network service sandboxing.
+// ---
+
 #include "content/browser/service_host/utility_sandbox_delegate.h"
 
 #include "base/check.h"

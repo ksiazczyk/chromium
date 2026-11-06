@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shape detection service access in the browser process
+// summary: Provides the browser process with a Mojo remote to the ShapeDetectionService, launching a dedicated service process or using the GPU process depending on platform and branding.
+// ---
+
 #include "content/public/browser/shape_detection_service.h"
 
 #include "base/no_destructor.h"

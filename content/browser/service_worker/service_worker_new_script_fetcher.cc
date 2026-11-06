@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker new script fetcher implementation
+// summary: Implements fetching of a newly installing service worker's main script in the browser process, delegating loading to the new script loader.
+// ---
+
 #include "content/browser/service_worker/service_worker_new_script_fetcher.h"
 
 #include "content/browser/connection_allowlist_utils.h"

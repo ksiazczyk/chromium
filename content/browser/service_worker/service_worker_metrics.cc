@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker metrics implementation
+// summary: Implements UMA metric recording for service worker events, start timing situations, and lifecycle results in the browser process.
+// ---
+
 #include "content/browser/service_worker/service_worker_metrics.h"
 
 #include <limits>

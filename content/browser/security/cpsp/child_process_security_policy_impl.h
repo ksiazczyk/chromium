@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChildProcessSecurityPolicyImpl class header
+// summary: Declares the ChildProcessSecurityPolicyImpl class, the RustPolicy enum, and feature parameters for running the C++ implementation, the Rust one, or both in parallel.
+// ---
+
 #ifndef CONTENT_BROWSER_SECURITY_CPSP_CHILD_PROCESS_SECURITY_POLICY_IMPL_H_
 #define CONTENT_BROWSER_SECURITY_CPSP_CHILD_PROCESS_SECURITY_POLICY_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock smart card context factory declaration
+// summary: Declares the mock SmartCardContextFactory and SmartCardContext double with expectation helpers such as ExpectListReaders and ExpectConnectFakeReaderSharedT1 for smart card tests.
+// ---
+
 #ifndef CONTENT_BROWSER_SMART_CARD_MOCK_SMART_CARD_CONTEXT_FACTORY_H_
 #define CONTENT_BROWSER_SMART_CARD_MOCK_SMART_CARD_CONTEXT_FACTORY_H_
 

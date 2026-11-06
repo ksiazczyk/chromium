@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart card connection closed reason enum
+// summary: Defines the SmartCardConnectionClosedReason enum values persisted to logs and declares the function that records them as a UMA histogram.
+// ---
+
 #ifndef CONTENT_BROWSER_SMART_CARD_SMART_CARD_HISTOGRAMS_H_
 #define CONTENT_BROWSER_SMART_CARD_SMART_CARD_HISTOGRAMS_H_
 

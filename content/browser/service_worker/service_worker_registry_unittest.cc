@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker registry unit tests
+// summary: Unit tests for ServiceWorkerRegistry covering registration storage and lookup, resource writing, storage usage, origin trials, and storage policy behavior.
+// ---
+
 #include "content/browser/service_worker/service_worker_registry.h"
 
 #include "base/byte_size.h"

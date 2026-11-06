@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UtilityProcessHost implementation
+// summary: Implements the browser-side host that launches utility child processes, configures sandbox and command-line switches, and hosts Mojo services.
+// ---
+
 #include "content/browser/service_host/utility_process_host.h"
 
 #include <memory>

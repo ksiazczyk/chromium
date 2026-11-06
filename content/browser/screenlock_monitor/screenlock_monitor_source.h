@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenlockMonitorSource header (source.h)
+// summary: Declares the ScreenlockMonitorSource base class with the ScreenlockEvent enum and the static ProcessScreenlockEvent entry point for platform-specific subclasses.
+// ---
+
 #ifndef CONTENT_BROWSER_SCREENLOCK_MONITOR_SCREENLOCK_MONITOR_SOURCE_H_
 #define CONTENT_BROWSER_SCREENLOCK_MONITOR_SCREENLOCK_MONITOR_SOURCE_H_
 

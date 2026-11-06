@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Shape detection directory owners
+summary: Points to the Blink shape detection module OWNERS file, delegating review ownership for this directory.

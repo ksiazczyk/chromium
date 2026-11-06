@@ -1,0 +1,4 @@
+# Docerion header of screenlock_monitor_device_source_mac.mm.
+type: source
+title: Mac screenlock device source (device_source_mac.mm)
+summary: Implements macOS screenlock detection by observing the distributed notification center for screenIsLocked and screenIsUnlocked events and forwarding them as screenlock events.

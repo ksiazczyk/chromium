@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker context watcher unit tests
+// summary: Unit tests verifying that the context watcher correctly reports registration, version and error updates while watching the service worker context.
+// ---
+
 #include "content/browser/service_worker/service_worker_context_watcher.h"
 
 #include <memory>

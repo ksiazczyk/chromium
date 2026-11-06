@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment handler support header
+// summary: Declares PaymentHandlerSupport, which opens a payment handler window via the embedder and provides a fallback when that is unsupported.
+// ---
+
 #ifndef CONTENT_BROWSER_SERVICE_WORKER_PAYMENT_HANDLER_SUPPORT_H_
 #define CONTENT_BROWSER_SERVICE_WORKER_PAYMENT_HANDLER_SUPPORT_H_
 

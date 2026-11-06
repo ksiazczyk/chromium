@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker browser tests
+// summary: Large browser test suite covering service worker registration, fetch dispatch, lifecycle, and related content-layer behavior.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

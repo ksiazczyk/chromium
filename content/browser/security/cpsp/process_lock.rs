@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessLock typestate lifecycle for site isolation
+// summary: Implements ProcessLock as a typestate machine (Invalid, NotYetAssigned, Unlocked, Locked) enforcing site isolation invariants for which documents and site data a process may access.
+// ---
+
 use crate::process_state::ffi;
 use cxx::UniquePtr;
 use std::fmt::{Debug, Display};

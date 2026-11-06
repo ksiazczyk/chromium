@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows screenlock device source unit test
+// summary: Unit test that mocks the WTS session notification APIs to verify the Windows device source only reacts to lock and unlock events from the current session.
+// ---
+
 #include "content/browser/screenlock_monitor/screenlock_monitor_device_source.h"
 
 #include "base/test/task_environment.h"

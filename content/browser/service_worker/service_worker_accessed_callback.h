@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker accessed callback definition
+// summary: Defines the shared ServiceWorkerAccessedCallback type used by several places to report service worker access decisions.
+// ---
+
 #ifndef CONTENT_BROWSER_SERVICE_WORKER_SERVICE_WORKER_ACCESSED_CALLBACK_H_
 #define CONTENT_BROWSER_SERVICE_WORKER_SERVICE_WORKER_ACCESSED_CALLBACK_H_
 

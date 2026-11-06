@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Emulated smart card context factory class declaration
+// summary: Declares EmulatedSmartCardContextFactory, which intercepts SmartCardContextFactory Mojo calls from the browser and forwards them to the DevTools handler while keeping callbacks alive.
+// ---
+
 #ifndef CONTENT_BROWSER_SMART_CARD_EMULATION_EMULATED_SMART_CARD_CONTEXT_FACTORY_H_
 #define CONTENT_BROWSER_SMART_CARD_EMULATION_EMULATED_SMART_CARD_CONTEXT_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker main resource loader unit tests
+// summary: Extensive unit tests for ServiceWorkerMainResourceLoader covering fetch event dispatch, responses, redirects and related navigation behavior.
+// ---
+
 #include "content/browser/service_worker/service_worker_main_resource_loader.h"
 
 #include <string>

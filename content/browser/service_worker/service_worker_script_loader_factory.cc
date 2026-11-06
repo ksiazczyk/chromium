@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker script loader factory implementation
+// summary: Implements the per-worker URLLoaderFactory that validates script requests and dispatches them to new, updated, or installed script loaders based on install state.
+// ---
+
 #include "content/browser/service_worker/service_worker_script_loader_factory.h"
 
 #include <algorithm>

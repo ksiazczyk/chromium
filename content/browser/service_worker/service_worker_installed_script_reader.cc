@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installed service worker script reader implementation
+// summary: Implements ServiceWorkerInstalledScriptReader, which reads a service worker script from installed script storage and streams body and code cache metadata over Mojo data pipes.
+// ---
+
 #include "content/browser/service_worker/service_worker_installed_script_reader.h"
 
 #include <utility>

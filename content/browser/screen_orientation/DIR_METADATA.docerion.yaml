@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Screen orientation directory metadata
+summary: Chromium DIR_METADATA config pointing to shared screen orientation metadata and the media-dev team for directory ownership.

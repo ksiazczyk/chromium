@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker synthetic response manager unit tests
+// summary: Unit tests for ServiceWorkerSyntheticResponseManager covering stream callbacks, response heads, and reload handling during service worker script streaming.
+// ---
+
 #include "content/browser/service_worker/service_worker_synthetic_response_manager.h"
 
 #include "base/run_loop.h"

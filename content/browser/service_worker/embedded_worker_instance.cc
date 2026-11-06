@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EmbeddedWorkerInstance implementation
+// summary: Implements the browser-side control of one embedded worker instance, handling process allocation, start and stop, DevTools integration and failure handling.
+// ---
+
 #include "content/browser/service_worker/embedded_worker_instance.h"
 
 #include <algorithm>

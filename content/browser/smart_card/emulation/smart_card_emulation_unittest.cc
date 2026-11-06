@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Smart card emulation unit tests
+// summary: Unit tests for the browser-side smart card emulation, using a mocked SmartCardEmulationManager to exercise context, reader, connection and transaction flows.
+// ---
+
 #include <memory>
 #include <string>
 #include <vector>

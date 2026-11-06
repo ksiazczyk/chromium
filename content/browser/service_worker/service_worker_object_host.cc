@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker object host implementation
+// summary: Implements the browser-side host for renderer ServiceWorker objects, handling state changes, object info creation, and extendable message event dispatch.
+// ---
+
 #include "content/browser/service_worker/service_worker_object_host.h"
 
 #include "base/functional/bind.h"

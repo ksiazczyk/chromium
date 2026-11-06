@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web Smart Card API browser tests
+// summary: Runs content-layer browser tests for the Web Smart Card API against a mocked smart card context factory, covering readers, connections, permissions policy and feature gating.
+// ---
+
 #include <vector>
 
 #include "base/base_switches.h"

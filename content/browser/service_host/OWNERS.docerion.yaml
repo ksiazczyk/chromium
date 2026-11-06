@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for service_host
+summary: Lists code owners for the directory, with per-file rules requiring sandbox and security owner review for receiver bindings and sandbox delegate files.

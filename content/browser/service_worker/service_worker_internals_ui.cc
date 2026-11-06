@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker internals WebUI implementation
+// summary: Implements the browser-side WebUI controller and message handler for the service worker internals debugging page, reporting registration and version state and handling start, stop, inspect, and unregister commands.
+// ---
+
 #include "content/browser/service_worker/service_worker_internals_ui.h"
 
 #include <stdint.h>

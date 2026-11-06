@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker new script loader unit tests
+// summary: Unit tests exercising ServiceWorkerNewScriptLoader with mocked network responses, redirects, and disk cache write results.
+// ---
+
 #include "content/browser/service_worker/service_worker_new_script_loader.h"
 
 #include <map>

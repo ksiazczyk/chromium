@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker script cache map implementation
+// summary: Implements ServiceWorkerScriptCacheMap, tracking resource IDs, sizes, and SHA-256 checksums for a service worker version's script resources during install and update.
+// ---
+
 #include "content/browser/service_worker/service_worker_script_cache_map.h"
 
 #include <optional>

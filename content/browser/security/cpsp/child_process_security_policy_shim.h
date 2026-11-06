@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for Rust-to-C++ policy shims
+// summary: Declares shim functions that let Rust perform C++ operations not supported by CXX, intended to be replaced by Crubit-generated bindings later.
+// ---
+
 #ifndef CONTENT_BROWSER_SECURITY_CPSP_CHILD_PROCESS_SECURITY_POLICY_SHIM_H_
 #define CONTENT_BROWSER_SECURITY_CPSP_CHILD_PROCESS_SECURITY_POLICY_SHIM_H_
 

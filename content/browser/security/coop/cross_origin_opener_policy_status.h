@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrossOriginOpenerPolicyStatus header
+// summary: Declares the CrossOriginOpenerPolicyStatus class and a helper that apply COOP rules during navigations, including browsing context group swaps, response sanitization, and reporting.
+// ---
+
 #ifndef CONTENT_BROWSER_SECURITY_COOP_CROSS_ORIGIN_OPENER_POLICY_STATUS_H_
 #define CONTENT_BROWSER_SECURITY_COOP_CROSS_ORIGIN_OPENER_POLICY_STATUS_H_
 

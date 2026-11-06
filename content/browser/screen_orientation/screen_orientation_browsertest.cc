@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Screen orientation browser tests
+// summary: Browser tests for the screen orientation API, covering orientation angle and type reporting, support checks, and prerender interactions.
+// ---
+
 
 #include <stdlib.h>
 
