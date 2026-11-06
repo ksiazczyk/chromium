@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefNotifierImpl implementation
+// summary: Implements the notifier used by PrefService, managing per-preference and all-prefs observers and firing change, initialization and shutdown notifications.
+// ---
+
 #include "components/prefs/pref_notifier_impl.h"
 
 #include "base/debug/alias.h"

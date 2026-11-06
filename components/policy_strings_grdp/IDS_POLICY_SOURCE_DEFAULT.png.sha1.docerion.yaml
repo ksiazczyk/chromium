@@ -1,0 +1,4 @@
+# Docerion header of IDS_POLICY_SOURCE_DEFAULT.png.sha1.
+type: asset
+title: SHA-1 hash of IDS_POLICY_SOURCE_DEFAULT image
+summary: Stores the SHA-1 checksum of the IDS_POLICY_SOURCE_DEFAULT PNG used to verify the expected screenshot.

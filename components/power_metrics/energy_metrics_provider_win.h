@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows energy metrics provider declaration
+// summary: Declares EnergyMetricsProviderWin, which obtains energy metrics through the Windows EMI interface supported on Windows 11.
+// ---
+
 #ifndef COMPONENTS_POWER_METRICS_ENERGY_METRICS_PROVIDER_WIN_H_
 #define COMPONENTS_POWER_METRICS_ENERGY_METRICS_PROVIDER_WIN_H_
 

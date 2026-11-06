@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Power bookmark utils unit tests
+// summary: Unit tests for the power bookmark utilities covering setting, fetching and deleting node metadata plus tag-based bookmark search behavior.
+// ---
+
 #include <memory>
 
 #include "components/bookmarks/browser/bookmark_model.h"

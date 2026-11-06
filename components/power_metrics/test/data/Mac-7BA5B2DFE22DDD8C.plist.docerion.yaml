@@ -1,0 +1,4 @@
+# Docerion header of Mac-7BA5B2DFE22DDD8C.plist.
+type: test
+title: Mac-7BA5B2DFE22DDD8C energy constants test fixture
+summary: Plist test fixture with energy constants for the Mac model Mac-7BA5B2DFE22DDD8C, used by power metrics tests.

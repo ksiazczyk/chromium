@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory pref store implementation
+// summary: Implements a non-persistent, memory-backed pref store with value setting, removal and observer notification.
+// ---
+
 #include "components/prefs/in_memory_pref_store.h"
 
 #include <memory>

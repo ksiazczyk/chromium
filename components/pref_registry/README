@@ -1,3 +1,9 @@
+---
+type: readme
+title: Overview of the pref_registry component
+summary: Explains that the component hosts PrefRegistrySyncable for registering user-associated preferences and must not depend on the content module.
+---
+
 The //components/pref_registry component provides:
 
 A place for PrefRegistrySyncable to live, where it can be used by

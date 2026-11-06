@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefObserver interface
+// summary: Declares the internal PrefObserver interface for passing preference change and service destruction notifications within the prefs subsystem.
+// ---
+
 #ifndef COMPONENTS_PREFS_PREF_OBSERVER_H_
 #define COMPONENTS_PREFS_PREF_OBSERVER_H_
 

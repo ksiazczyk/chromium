@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WrapWithPrefixPrefStore, a prefixed view over another pref store
+// summary: Declares a PersistentPrefStore wrapper that maps all key queries onto a dictionary subtree of a target store by adding a dotted prefix.
+// ---
+
 #ifndef COMPONENTS_PREFS_WRAP_WITH_PREFIX_PREF_STORE_H_
 #define COMPONENTS_PREFS_WRAP_WITH_PREFIX_PREF_STORE_H_
 

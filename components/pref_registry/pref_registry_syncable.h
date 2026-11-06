@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefRegistrySyncable class declaration
+// summary: Declares the PrefRegistrySyncable registry with syncable preference registration flags, a registration callback, and an incognito fork method.
+// ---
+
 #ifndef COMPONENTS_PREF_REGISTRY_PREF_REGISTRY_SYNCABLE_H_
 #define COMPONENTS_PREF_REGISTRY_PREF_REGISTRY_SYNCABLE_H_
 

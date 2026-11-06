@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suggested save location provider interface
+// summary: Declares an interface for features that suggest a bookmark save folder for a URL, with backoff timing, metrics naming and rejection notification hooks.
+// ---
+
 #ifndef COMPONENTS_POWER_BOOKMARKS_CORE_SUGGESTED_SAVE_LOCATION_PROVIDER_H_
 #define COMPONENTS_POWER_BOOKMARKS_CORE_SUGGESTED_SAVE_LOCATION_PROVIDER_H_
 

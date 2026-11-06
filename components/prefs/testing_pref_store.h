@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Testing pref store
+// summary: Declares a configurable in-memory pref store for tests, with helpers to trigger notifications and wait for preference value changes.
+// ---
+
 #ifndef COMPONENTS_PREFS_TESTING_PREF_STORE_H_
 #define COMPONENTS_PREFS_TESTING_PREF_STORE_H_
 

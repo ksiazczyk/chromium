@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for PreviousSessionInfo
+summary: Allows the component to include variations crash keys, version info, and iOS web test headers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefService implementation
+// summary: Implements the PrefService class that gives access to application preferences, handling store loading, read errors and pending writes.
+// ---
+
 #include "components/prefs/pref_service.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrefStore observer mock implementation
+// summary: Implements a mock PrefStore::Observer that records changed preference keys and initialization results for verification in tests.
+// ---
+
 #include "components/prefs/pref_store_observer_mock.h"
 
 #include <string_view>

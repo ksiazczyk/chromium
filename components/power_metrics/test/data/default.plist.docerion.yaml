@@ -1,0 +1,4 @@
+# Docerion header of default.plist.
+type: test
+title: Default energy constants test fixture
+summary: Plist test fixture providing the default set of energy constants for power metrics calculations in tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersistentPrefStore persistence interface
+// summary: Declares the PersistentPrefStore interface extending WriteablePrefStore with read error codes, synchronous and asynchronous loading, and pending write commit support.
+// ---
+
 #ifndef COMPONENTS_PREFS_PERSISTENT_PREF_STORE_H_
 #define COMPONENTS_PREFS_PERSISTENT_PREF_STORE_H_
 

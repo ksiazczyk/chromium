@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrefService unit tests
+// summary: Unit tests covering observer notifications, pref paths, clearing preferences and recovery from type conflicts in nested dictionary preferences.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

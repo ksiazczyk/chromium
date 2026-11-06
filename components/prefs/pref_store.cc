@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefStore base implementation
+// summary: Provides default implementations of HasObservers and IsInitializationComplete for the abstract PrefStore interface.
+// ---
+
 #include "components/prefs/pref_store.h"
 
 bool PrefStore::HasObservers() const {

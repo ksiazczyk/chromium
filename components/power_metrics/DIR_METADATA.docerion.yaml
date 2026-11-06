@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Chromium directory metadata for power_metrics
+summary: Sets the Chromium issue-tracking component and team email used for bugs in the power_metrics directory.

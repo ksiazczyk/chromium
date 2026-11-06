@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefObserverBridge header with delegate protocol
+// summary: Declares the PrefObserverBridge class and PrefObserverDelegate protocol that forward preference changes to an Objective-C delegate.
+// ---
+
 #ifndef COMPONENTS_PREFS_IOS_PREF_OBSERVER_BRIDGE_H_
 #define COMPONENTS_PREFS_IOS_PREF_OBSERVER_BRIDGE_H_
 

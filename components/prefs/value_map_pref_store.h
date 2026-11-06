@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ValueMapPrefStore, a pref store backed by a name-value map
+// summary: Declares ValueMapPrefStore, a basic PrefStore that stores preference values in a simple name-value map with observer notifications.
+// ---
+
 #ifndef COMPONENTS_PREFS_VALUE_MAP_PREF_STORE_H_
 #define COMPONENTS_PREFS_VALUE_MAP_PREF_STORE_H_
 

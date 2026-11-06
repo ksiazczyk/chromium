@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefRegistrySyncable implementation
+// summary: Implements syncable preference registration callbacks, validates mutually exclusive sync flags, and forks the registry for incognito use.
+// ---
+
 #include "components/pref_registry/pref_registry_syncable.h"
 
 #include <string_view>

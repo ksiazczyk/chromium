@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefRegistrySimple implementation
+// summary: Implements typed registration helpers for boolean, integer, string, list, dictionary, time and other preference kinds on the simple registry.
+// ---
+
 #include "components/prefs/pref_registry_simple.h"
 
 #include <string_view>

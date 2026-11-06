@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pref test utilities header
+// summary: Declares WaitForPrefValue, a helper that waits until a preference at a given path has an expected value.
+// ---
+
 #ifndef COMPONENTS_PREFS_PREF_TEST_UTILS_H_
 #define COMPONENTS_PREFS_PREF_TEST_UTILS_H_
 

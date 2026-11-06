@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native JNI implementation of PrefChangeRegistrar for Android
+// summary: Implements the native side of the Java PrefChangeRegistrar, adding and removing preference observers and notifying Java when preferences change.
+// ---
+
 #include "components/prefs/android/pref_change_registrar_android.h"
 
 #include "base/android/jni_android.h"

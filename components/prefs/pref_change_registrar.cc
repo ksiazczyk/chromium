@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefChangeRegistrar implementation
+// summary: Implements PrefChangeRegistrar methods for adding, removing, and dispatching preference change observers on a PrefService.
+// ---
+
 #include "components/prefs/pref_change_registrar.h"
 
 #include <ostream>

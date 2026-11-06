@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefRegistry implementation
+// summary: Implements preference registration, storing default values, registration flags and registered types, and supports changing registered default values.
+// ---
+
 #include "components/prefs/pref_registry.h"
 
 #include <ostream>

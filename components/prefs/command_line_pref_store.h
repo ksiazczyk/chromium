@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Command line pref store class declaration
+// summary: Declares a pref store base class that maps command line switches to preferences via switch map entries.
+// ---
+
 #ifndef COMPONENTS_PREFS_COMMAND_LINE_PREF_STORE_H_
 #define COMPONENTS_PREFS_COMMAND_LINE_PREF_STORE_H_
 

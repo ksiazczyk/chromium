@@ -21,6 +21,12 @@
 // notify MyClass of changes. Note that if you use SetValue(), the observer
 // will not be notified.
 
+// ---docerion
+// type: source
+// title: PrefMember sync-with-preference header
+// summary: Declares PrefMember classes that stay in sync with bool, int, double, string, and list preferences, with optional change observers.
+// ---
+
 #ifndef COMPONENTS_PREFS_PREF_MEMBER_H_
 #define COMPONENTS_PREFS_PREF_MEMBER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Value map pref store
+// summary: Implements an in-memory pref store backed by a value map that notifies observers when values are set, removed, or reported changed.
+// ---
+
 #include "components/prefs/value_map_pref_store.h"
 
 #include <string_view>

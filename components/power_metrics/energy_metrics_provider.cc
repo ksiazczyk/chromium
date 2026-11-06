@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Energy metrics provider factory implementation
+// summary: Implements the EnergyMetricsProvider factory that returns platform-specific providers on Windows and Linux/ChromeOS.
+// ---
+
 #include "components/power_metrics/energy_metrics_provider.h"
 
 #include "build/build_config.h"

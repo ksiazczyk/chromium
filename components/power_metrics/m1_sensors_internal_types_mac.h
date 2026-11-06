@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apple M1 sensor internal constants
+// summary: Defines HID event and usage constants taken from Apple IOHIDFamily headers for reading M1 temperature sensors.
+// ---
+
 #ifndef COMPONENTS_POWER_METRICS_M1_SENSORS_INTERNAL_TYPES_MAC_H_
 #define COMPONENTS_POWER_METRICS_M1_SENSORS_INTERNAL_TYPES_MAC_H_
 

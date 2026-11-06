@@ -1,0 +1,4 @@
+# Docerion header of m1_sensors_mac.mm.
+type: source
+title: Apple M1 sensors reader implementation
+summary: Reads M1 temperature sensors through IOHIDEventSystemClient and averages the P-core and E-core temperature values.

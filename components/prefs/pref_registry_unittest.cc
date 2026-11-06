@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrefRegistry unit tests
+// summary: Unit tests verifying that PrefRegistrySimple reports the registered type for string and time preferences and nullopt for unregistered ones.
+// ---
+
 #include "components/prefs/pref_registry.h"
 
 #include "base/memory/scoped_refptr.h"

@@ -4,6 +4,12 @@
 
 // This file defines data types used to retrieve coalition metrics from the OS.
 
+// ---docerion
+// type: source
+// title: Resource coalition internal type definitions
+// summary: Defines coalition resource usage structures and thread QoS constants taken from Darwin kernel headers for macOS coalition metrics.
+// ---
+
 #ifndef COMPONENTS_POWER_METRICS_RESOURCE_COALITION_INTERNAL_TYPES_MAC_H_
 #define COMPONENTS_POWER_METRICS_RESOURCE_COALITION_INTERNAL_TYPES_MAC_H_
 

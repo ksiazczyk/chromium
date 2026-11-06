@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default pref store class declaration
+// summary: Declares a pref store used within a PrefRegistry to keep track of default preference values.
+// ---
+
 #ifndef COMPONENTS_PREFS_DEFAULT_PREF_STORE_H_
 #define COMPONENTS_PREFS_DEFAULT_PREF_STORE_H_
 

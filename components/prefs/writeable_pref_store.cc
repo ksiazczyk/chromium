@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WriteablePrefStore default implementation
+// summary: Provides the default ReportSubValuesChanged implementation, which simply reports the whole key as changed.
+// ---
+
 #include "components/prefs/writeable_pref_store.h"
 
 void WriteablePrefStore::ReportSubValuesChanged(

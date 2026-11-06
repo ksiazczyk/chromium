@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefValueStore class header
+// summary: Declares PrefValueStore, which manages prioritized preference sources and returns values from the highest priority store.
+// ---
+
 #ifndef COMPONENTS_PREFS_PREF_VALUE_STORE_H_
 #define COMPONENTS_PREFS_PREF_VALUE_STORE_H_
 

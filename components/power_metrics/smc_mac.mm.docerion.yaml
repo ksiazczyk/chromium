@@ -1,0 +1,4 @@
+# Docerion header of smc_mac.mm.
+type: source
+title: SMC reader implementation for macOS
+summary: Implements SMCReader, opening the AppleSMC I/O service and decoding float and fixed-point sensor values from SMC keys.

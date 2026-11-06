@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrefValueMap unit tests
+// summary: Unit tests covering value setting, typed accessors, removal, clearing with prefixes and differing key comparison of PrefValueMap.
+// ---
+
 #include "components/prefs/pref_value_map.h"
 
 #include "base/values.h"

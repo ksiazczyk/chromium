@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Segregated pref store implementation
+// summary: Implements SegregatedPrefStore, routing preference reads, writes, and observer notifications between a default and a selected underlying pref store.
+// ---
+
 #include "components/prefs/segregated_pref_store.h"
 
 #include <string_view>

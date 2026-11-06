@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Power bookmark service unit tests
+// summary: Tests adding and removing data providers and that metadata attachment happens only for newly added bookmarks.
+// ---
+
 #include <memory>
 
 #include "base/files/scoped_temp_dir.h"

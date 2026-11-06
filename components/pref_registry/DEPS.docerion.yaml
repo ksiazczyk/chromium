@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for pref_registry
+summary: Grants the directory permission to include headers from the components/prefs dependency.

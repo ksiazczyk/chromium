@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JSON pref store implementation
+// summary: Implements JsonPrefStore, which loads and writes user preferences from and to a JSON file, handling read errors and backing up corrupt files.
+// ---
+
 #include "components/prefs/json_pref_store.h"
 
 #include <stddef.h>

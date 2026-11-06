@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefChangeRegistrar observer management header
+// summary: Declares PrefChangeRegistrar, which automatically registers and unregisters preference change observers with a PrefService.
+// ---
+
 #ifndef COMPONENTS_PREFS_PREF_CHANGE_REGISTRAR_H_
 #define COMPONENTS_PREFS_PREF_CHANGE_REGISTRAR_H_
 

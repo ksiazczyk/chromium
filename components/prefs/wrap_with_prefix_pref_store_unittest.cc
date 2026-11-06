@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WrapWithPrefixPrefStore unit tests
+// summary: Unit tests verifying prefixing, observer notifications, initialization and read-error behavior of WrapWithPrefixPrefStore.
+// ---
+
 #include "components/prefs/wrap_with_prefix_pref_store.h"
 
 #include <memory>

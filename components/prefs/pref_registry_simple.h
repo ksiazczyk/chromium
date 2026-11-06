@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefRegistrySimple class declaration
+// summary: Declares PrefRegistrySimple, a simple PrefRegistry subclass with methods to register preferences of common types with optional registration flags.
+// ---
+
 #ifndef COMPONENTS_PREFS_PREF_REGISTRY_SIMPLE_H_
 #define COMPONENTS_PREFS_PREF_REGISTRY_SIMPLE_H_
 

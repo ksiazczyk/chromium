@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: iOS prefs BUILD.gn build definition
+summary: Defines the iOS source_set for the preference observer bridge with dependencies on base and components/prefs.

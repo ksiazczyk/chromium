@@ -4,6 +4,12 @@
 
 // generate_java_test.py
 
+// ---docerion
+// type: test
+// title: PrefServiceTest
+// summary: Robolectric unit tests for PrefService that mock the JNI natives and verify get, set, managed, and recommendation methods for each preference type.
+// ---
+
 package org.chromium.components.prefs;
 
 import static org.junit.Assert.assertEquals;

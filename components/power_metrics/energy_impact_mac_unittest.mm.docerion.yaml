@@ -1,0 +1,4 @@
+# Docerion header of energy_impact_mac_unittest.mm.
+type: test
+title: Unit tests for Energy Impact computation on macOS
+summary: Tests reading Energy Impact coefficients from plist files and computing Energy Impact scores for Intel and M1 timebases using bundled test data.

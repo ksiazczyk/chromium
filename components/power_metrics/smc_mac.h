@@ -6,6 +6,12 @@
 // the power functions of Intel-based Macs. This file defines a class to read
 // known SMC keys.
 
+// ---docerion
+// type: source
+// title: SMC reader class declaration for macOS
+// summary: Declares the SMCReader class that reads known System Management Controller keys on Intel-based Macs.
+// ---
+
 #ifndef COMPONENTS_POWER_METRICS_SMC_MAC_H_
 #define COMPONENTS_POWER_METRICS_SMC_MAC_H_
 

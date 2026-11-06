@@ -1,0 +1,4 @@
+# Docerion header of resource_coalition_mac.mm.
+type: source
+title: Resource coalition usage tracking for macOS
+summary: Implements macOS functions to look up a process coalition ID, read coalition resource usage, and compute differences between usage snapshots.

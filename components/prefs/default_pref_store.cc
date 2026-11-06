@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default pref store implementation
+// summary: Implements storage of default preference values with observer notification when defaults are replaced.
+// ---
+
 #include "components/prefs/default_pref_store.h"
 
 #include <string_view>

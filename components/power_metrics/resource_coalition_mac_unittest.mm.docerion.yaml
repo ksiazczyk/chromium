@@ -1,0 +1,4 @@
+# Docerion header of resource_coalition_mac_unittest.mm.
+type: test
+title: Unit tests for macOS resource coalition tracking
+summary: Tests coalition resource usage retrieval and difference computation, including a disabled CPU burn test and energy impact coefficient fixtures.

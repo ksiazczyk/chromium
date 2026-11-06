@@ -8,6 +8,12 @@
 // information and MUST not be extracted, overwritten or modified except
 // through Chromium defined APIs.
 
+// ---docerion
+// type: source
+// title: PrefService class declaration
+// summary: Declares PrefService, the main API for reading, registering and observing user-selected preferences in Chromium.
+// ---
+
 #ifndef COMPONENTS_PREFS_PREF_SERVICE_H_
 #define COMPONENTS_PREFS_PREF_SERVICE_H_
 

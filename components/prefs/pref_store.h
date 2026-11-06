@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefStore interface
+// summary: Declares the abstract PrefStore interface for reading and writing preference values, used by PrefService and implemented by stores such as JsonPrefStore.
+// ---
+
 #ifndef COMPONENTS_PREFS_PREF_STORE_H_
 #define COMPONENTS_PREFS_PREF_STORE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of previous_session_info.mm.
+type: source
+title: PreviousSessionInfo implementation
+summary: Implements PreviousSessionInfo, persisting session details such as battery, storage, thermal state, and tab counts in NSUserDefaults.

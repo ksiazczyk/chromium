@@ -1,3 +1,9 @@
+---
+type: readme
+title: policy_strings_grdp README
+summary: Explains that the directory stores image SHA-1 hashes that give translators context images for UI string translations.
+---
+
 This directory of image SHA-1 hashes is used to improve translations of UI
 strings through context images for translators.
 

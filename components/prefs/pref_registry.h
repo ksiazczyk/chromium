@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefRegistry class declaration
+// summary: Declares PrefRegistry, the base class for registering preferences with defaults and flags such as lossy and public before use by a PrefService.
+// ---
+
 #ifndef COMPONENTS_PREFS_PREF_REGISTRY_H_
 #define COMPONENTS_PREFS_PREF_REGISTRY_H_
 

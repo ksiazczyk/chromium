@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay user pref store header
+// summary: Declares OverlayUserPrefStore, a PersistentPrefStore that keeps writes in an in-memory overlay above an underlying persistent store.
+// ---
+
 #ifndef COMPONENTS_PREFS_OVERLAY_USER_PREF_STORE_H_
 #define COMPONENTS_PREFS_OVERLAY_USER_PREF_STORE_H_
 

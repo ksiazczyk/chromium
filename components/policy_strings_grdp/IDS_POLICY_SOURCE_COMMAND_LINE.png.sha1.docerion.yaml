@@ -1,0 +1,4 @@
+# Docerion header of IDS_POLICY_SOURCE_COMMAND_LINE.png.sha1.
+type: asset
+title: SHA-1 hash of IDS_POLICY_SOURCE_COMMAND_LINE image
+summary: Stores the SHA-1 checksum of the IDS_POLICY_SOURCE_COMMAND_LINE PNG used to verify the expected screenshot.

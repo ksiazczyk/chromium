@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay user pref store implementation
+// summary: Implements OverlayUserPrefStore, which answers reads from an ephemeral in-memory store over a persistent store and routes writes to the overlay.
+// ---
+
 #include "components/prefs/overlay_user_pref_store.h"
 
 #include <memory>

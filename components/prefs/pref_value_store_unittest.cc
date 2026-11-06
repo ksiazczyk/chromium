@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrefValueStore unit tests
+// summary: Unit tests verifying value precedence and notification behavior across all pref store layers using testing pref stores and a mock notifier.
+// ---
+
 #include "components/prefs/pref_value_store.h"
 
 #include <memory>

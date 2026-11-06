@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefNotifierImpl class declaration
+// summary: Declares PrefNotifierImpl, the PrefNotifier implementation that tracks preference observers and initialization observers on behalf of the PrefService.
+// ---
+
 #ifndef COMPONENTS_PREFS_PREF_NOTIFIER_IMPL_H_
 #define COMPONENTS_PREFS_PREF_NOTIFIER_IMPL_H_
 

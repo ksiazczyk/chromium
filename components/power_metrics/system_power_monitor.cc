@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System power monitor implementation
+// summary: Samples energy metrics on a timer and emits trace counters such as package, CPU, GPU, and DRAM power in milliwatts.
+// ---
+
 #include "components/power_metrics/system_power_monitor.h"
 
 #include <array>
