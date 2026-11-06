@@ -1,0 +1,4 @@
+# Docerion header of compose_strings.grdp.
+type: data
+title: Compose Help me write strings
+summary: Grit part with UI strings for the Compose Help me write feature, covering Autofill popup entries, the FRE disclaimer dialog, and settings texts.

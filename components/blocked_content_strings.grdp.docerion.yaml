@@ -1,0 +1,4 @@
+# Docerion header of blocked_content_strings.grdp.
+type: data
+title: Blocked content strings
+summary: Grit part defining Android pop-up blocking strings, including the 'Always show' infobar button and plural pop-up blocked messages.

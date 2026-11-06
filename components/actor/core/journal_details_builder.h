@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Journal details builder header
+// summary: Declares JournalDetailsBuilder for building journal detail entries and defines track UUID constants and helper functions for actor tasks.
+// ---
+
 #ifndef COMPONENTS_ACTOR_CORE_JOURNAL_DETAILS_BUILDER_H_
 #define COMPONENTS_ACTOR_CORE_JOURNAL_DETAILS_BUILDER_H_
 

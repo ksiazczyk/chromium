@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the math service
+summary: Defines a source_set target for the math service sources with dependencies on the public mojom bindings and //base.

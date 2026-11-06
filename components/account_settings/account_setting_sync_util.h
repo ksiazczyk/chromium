@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account setting sync utilities header
+// summary: Declares helpers for converting account setting sync specifics to and from base::Value.
+// ---
+
 #ifndef COMPONENTS_ACCOUNT_SETTINGS_ACCOUNT_SETTING_SYNC_UTIL_H_
 #define COMPONENTS_ACCOUNT_SETTINGS_ACCOUNT_SETTING_SYNC_UTIL_H_
 

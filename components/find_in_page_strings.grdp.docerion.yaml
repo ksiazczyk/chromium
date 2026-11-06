@@ -1,0 +1,4 @@
+# Docerion header of find_in_page_strings.grdp.
+type: data
+title: Find-in-page UI strings
+summary: Grit part with strings for the find-in-page bar, including match counts, tooltips, and accessibility announcements.

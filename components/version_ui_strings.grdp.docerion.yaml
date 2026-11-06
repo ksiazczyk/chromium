@@ -1,0 +1,4 @@
+# Docerion header of version_ui_strings.grdp.
+type: data
+title: Version UI strings
+summary: Grit part with labels for the about:version page, covering build type, architecture, OS, paths, and platform-specific version details.

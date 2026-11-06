@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for exercise 3 C++ interop solution
+summary: GN build file defining the Rust static library with cxx bindings and the exercise_3_solution executable for the C++ interop codelab.

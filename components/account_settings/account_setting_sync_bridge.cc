@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountSettingSyncBridge implementation
+// summary: Implements the ACCOUNT_SETTING sync bridge that stores settings in a data type store, applies sync changes and exposes typed setting getters.
+// ---
+
 #include "components/account_settings/account_setting_sync_bridge.h"
 
 #include <memory>

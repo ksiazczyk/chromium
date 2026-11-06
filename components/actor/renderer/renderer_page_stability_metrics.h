@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer page stability metrics class declaration
+// summary: Declares the RendererPageStabilityMetrics class, which records metrics for page stability monitoring in the renderer process.
+// ---
+
 #ifndef COMPONENTS_ACTOR_RENDERER_RENDERER_PAGE_STABILITY_METRICS_H_
 #define COMPONENTS_ACTOR_RENDERER_RENDERER_PAGE_STABILITY_METRICS_H_
 

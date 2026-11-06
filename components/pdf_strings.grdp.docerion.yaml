@@ -1,0 +1,4 @@
+# Docerion header of pdf_strings.grdp.
+type: data
+title: PDF viewer UI strings
+summary: Grit part with UI strings for the PDF viewer, including password prompts, download options, presentation mode, bookmarks, and document properties.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActuationTransportHandler header
+// summary: Declares ActuationTransportHandler, which routes actuation commands from a transport session to an ActuationDelegate and sends results upstream.
+// ---
+
 #ifndef COMPONENTS_ACTOR_TRANSPORT_ACTUATION_TRANSPORT_HANDLER_H_
 #define COMPONENTS_ACTOR_TRANSPORT_ACTUATION_TRANSPORT_HANDLER_H_
 

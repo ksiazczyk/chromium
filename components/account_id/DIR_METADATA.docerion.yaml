@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: account_id directory metadata
+summary: Directory metadata applying the ash login lock metadata mixin to this component.

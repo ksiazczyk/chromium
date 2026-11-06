@@ -1,0 +1,4 @@
+# Docerion header of components_chromium_strings.grd.
+type: data
+title: Components Chromium branded strings
+summary: Grit file defining Chromium-branded component strings and listing localized .pak data package outputs for many languages.

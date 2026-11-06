@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the Penguin accessibility client
+summary: Defines the penguin source set and, for Android, the JNI header generation and Java library targets, with dependencies on base and content.

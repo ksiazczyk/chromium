@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account setting sync utilities implementation
+// summary: Implements helpers that convert account setting sync protobuf specifics to base::Value and build specifics from typed values.
+// ---
+
 #include "components/account_settings/account_setting_sync_util.h"
 
 #include <string>

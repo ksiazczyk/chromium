@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer page stability metrics implementation
+// summary: Implements renderer-side page stability monitoring, tracking state transitions and recording UMA histograms for stability outcomes and timing durations.
+// ---
+
 #include "components/actor/renderer/renderer_page_stability_metrics.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock account setting service implementation
+// summary: Implements the GoogleMock account setting service test double, defaulting IsLoaded to return true.
+// ---
+
 #include "components/account_settings/mock_account_setting_service.h"
 
 namespace account_settings {

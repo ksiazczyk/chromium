@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Access code cast metrics implementation
+// summary: Implements UMA histogram recording for access code cast UI, discovery, and session events such as dialog usage and route durations.
+// ---
+
 #include "components/access_code_cast/common/access_code_cast_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

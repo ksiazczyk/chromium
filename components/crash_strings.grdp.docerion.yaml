@@ -1,0 +1,4 @@
+# Docerion header of crash_strings.grdp.
+type: data
+title: Crash reporting UI strings
+summary: Grit part with localized UI strings for the browser's crashes page, covering crash counts, report statuses, upload actions, developer details, and messages shown when crash reporting is disabled.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aggregated journal file serializer declaration
+// summary: Declares a serializer that writes aggregated journal trace packets to a file, with init and shutdown callbacks and a background file writer.
+// ---
+
 #ifndef COMPONENTS_ACTOR_CORE_AGGREGATED_JOURNAL_FILE_SERIALIZER_H_
 #define COMPONENTS_ACTOR_CORE_AGGREGATED_JOURNAL_FILE_SERIALIZER_H_
 

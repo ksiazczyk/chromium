@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Disabled activity reporter factory
+// summary: Provides a CreateActivityReporter that returns a disabled reporter when activity reporting is not enabled.
+// ---
+
 #include <memory>
 #include <string>
 

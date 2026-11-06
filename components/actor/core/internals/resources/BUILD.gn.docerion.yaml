@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Actor internals WebUI build definition
+summary: GN build configuration that assembles the actor internals WebUI, declaring static CSS and HTML files, TypeScript sources, and Mojo bindings dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of live_caption_strings.grdp.
+type: data
+title: Live Caption strings
+summary: Grit part with UI strings for the Live Caption bubble, including controls, error messages, language pack download progress, and translation status.

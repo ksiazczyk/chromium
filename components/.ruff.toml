@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Ruff configuration for //components
+# summary: Configures Ruff lint and format settings for Python code under components, including line length, exclusions, quote style, and unfixable rules.
+# ---
+
 line-length = 80
 indent-width = 4
 extend-exclude = [

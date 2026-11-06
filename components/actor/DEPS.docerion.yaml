@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Actor component DEPS include rules
+summary: Defines allowed include dependencies for the actor component, with a special rule permitting unit tests to include optimization guide protos.

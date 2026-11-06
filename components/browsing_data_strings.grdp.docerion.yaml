@@ -1,0 +1,4 @@
+# Docerion header of browsing_data_strings.grdp.
+type: data
+title: Browsing data strings
+summary: Grit part with strings for the Delete Browsing Data UI, including history counters, synced-device notices and per-domain count texts.

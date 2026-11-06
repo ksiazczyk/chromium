@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the Rust C++ interop exercise solution
+summary: Defines the cxx Rust static library, the ffi_base source set with C++ callbacks, and the exercise_4_solution executable for the codelab.

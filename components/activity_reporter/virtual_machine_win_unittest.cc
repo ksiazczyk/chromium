@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows VM detection unit tests
+// summary: Tests VM detection with a fake CPUID leaf table and synthetic SMBIOS data, covering hypervisor identification, firmware classification, and histogram recording.
+// ---
+
 #include "components/activity_reporter/virtual_machine_win.h"
 
 #include <stdint.h>

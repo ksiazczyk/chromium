@@ -1,0 +1,4 @@
+# Docerion header of page_info_strings.grdp.
+type: data
+title: Page info strings
+summary: Grit part with UI strings for the page info bubble, covering connection security summaries, dangerous or suspicious sites, and internal page types.

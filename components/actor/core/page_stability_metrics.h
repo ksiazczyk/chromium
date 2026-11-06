@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page stability metrics interface
+// summary: Abstract interface for recording metrics during page stability monitoring, covering state changes, idle and paint stability events, and flushing.
+// ---
+
 #ifndef COMPONENTS_ACTOR_CORE_PAGE_STABILITY_METRICS_H_
 #define COMPONENTS_ACTOR_CORE_PAGE_STABILITY_METRICS_H_
 

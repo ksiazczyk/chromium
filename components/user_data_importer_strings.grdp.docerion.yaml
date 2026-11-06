@@ -1,0 +1,4 @@
+# Docerion header of user_data_importer_strings.grdp.
+type: data
+title: User data importer strings
+summary: Grit part naming the folders that hold bookmarks imported from Safari and other browsers.

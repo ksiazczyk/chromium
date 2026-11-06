@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Codelabs GN build group
+summary: Defines the codelabs build group aggregating the C++ 101, Rust, and threading codelab targets, adding the Mojo examples target on non-iOS builds.

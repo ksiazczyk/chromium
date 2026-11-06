@@ -1,0 +1,4 @@
+# Docerion header of global_media_controls_strings.grdp.
+type: data
+title: Global media controls UI strings
+summary: Grit part with strings for the global media controls UI, including cast device selection and dismiss tooltips.

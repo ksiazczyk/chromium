@@ -1,0 +1,4 @@
+# Docerion header of tab_resume_strings.grdp.
+type: data
+title: Tab resume strings
+summary: Grit part with labels for tab resume decorators such as visited, frequently visited, and continue reading, for Android, iOS, and desktop UI.

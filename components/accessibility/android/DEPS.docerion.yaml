@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Android accessibility component DEPS include rules
+summary: Defines include rules granting the component access to Chromium's content public browser Java sources.

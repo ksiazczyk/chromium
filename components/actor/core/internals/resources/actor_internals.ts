@@ -9,6 +9,12 @@
  * chrome://actor-internals/ page is open.
  */
 
+// ---docerion
+// type: source
+// title: Actor internals page logic
+// summary: Renders and manages the live actor event log table, including spans, collapsing, and trace log export.
+// ---
+
 import {getRequiredElement} from '//resources/js/util.js';
 
 import type {JournalEntry} from './actor_internals.mojom-webui.js';

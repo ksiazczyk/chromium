@@ -1,3 +1,9 @@
+---
+type: readme
+title: Accessibility Component
+summary: Explains that this component holds browser accessibility code shared across multiple embedders, is not a dependency of content, and may include Chrome-branded code.
+---
+
 # Accessibility Component
 
 This is a shared component for the browser accessibility code for Chrome.

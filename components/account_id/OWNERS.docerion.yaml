@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: account_id OWNERS file
+summary: Delegates ownership of this directory to the ash login lock OWNERS file.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aggregated journal serializer base class declaration
+// summary: Declares the abstract base serializer that observes journal entries and encodes them as perfetto protobuf trace packets, with subclasses providing the output sink.
+// ---
+
 #ifndef COMPONENTS_ACTOR_CORE_AGGREGATED_JOURNAL_SERIALIZER_H_
 #define COMPONENTS_ACTOR_CORE_AGGREGATED_JOURNAL_SERIALIZER_H_
 

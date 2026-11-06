@@ -1,0 +1,4 @@
+# Docerion header of omnibox_pedal_ui_strings.grdp.
+type: data
+title: Omnibox pedal UI strings
+summary: Grit part with visible labels, tooltips, and screen reader text for omnibox pedal actions such as clearing browsing data and managing passwords.

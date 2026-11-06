@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor command-line switch definitions
+// summary: Defines command-line switches for disabling actor safety checks, testing form and OTP filling tools, journal VLOG logging, trace paths, and sensitive sites.
+// ---
+
 #include "components/actor/core/actor_switches.h"
 
 namespace actor::switches {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared page target types
+// summary: Defines the DomNode struct and the PageTarget variant that identifies a page location by coordinate or DOM node.
+// ---
+
 #ifndef COMPONENTS_ACTOR_CORE_SHARED_TYPES_H_
 #define COMPONENTS_ACTOR_CORE_SHARED_TYPES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page stability monitor delegate implementation
+// summary: Implements the actor page stability monitor delegate, logging stability events to the journal and recording timing metrics.
+// ---
+
 #include "components/actor/core/page_stability_monitor_delegate.h"
 
 #include <memory>

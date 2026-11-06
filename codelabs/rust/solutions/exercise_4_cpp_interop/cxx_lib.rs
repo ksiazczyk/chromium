@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rust cxx bridge for Rust and C++ interop
+// summary: Defines the cxx FFI bridge exposing hello_from_rust to C++ and calling hello_from_cpp from Rust, plus the Rust greeting function.
+// ---
+
 #[cxx::bridge]
 mod ffi {
     extern "Rust" {

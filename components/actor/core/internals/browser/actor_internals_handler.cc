@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorInternalsHandler implementation
+// summary: Implements the Mojo PageHandler that forwards journal entries to the page and relays start and stop logging calls to its delegate.
+// ---
+
 #include "components/actor/core/internals/browser/actor_internals_handler.h"
 
 #include <utility>

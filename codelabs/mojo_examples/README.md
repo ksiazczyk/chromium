@@ -1,3 +1,11 @@
+---
+type: readme
+title: Mojo scheduling examples
+summary: Explains the advanced Mojo examples demonstrating cross-process connections and ordering guarantees of associated interfaces, with run instructions.
+relations:
+  - references /codelabs/threading_and_scheduling/02-task-queue-priorities.cc
+---
+
 # Mojo scheduling examples
 
 This directory contains three Mojo examples that are more advanced than the one

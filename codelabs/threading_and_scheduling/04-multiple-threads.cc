@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multiple threads example
+// summary: Demonstrates a simplified Chromium UI/IO thread setup, posting tasks back and forth between the main thread and a secondary base::Thread via cross-thread task runners.
+// ---
+
 #include "base/logging.h"
 #include "base/message_loop/message_pump.h"
 #include "base/run_loop.h"

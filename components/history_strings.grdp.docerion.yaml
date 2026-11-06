@@ -1,0 +1,4 @@
+# Docerion header of history_strings.grdp.
+type: data
+title: History page UI strings
+summary: Grit part with strings for the Chrome history page, including device filters, deletion dialogs, and accessibility labels.

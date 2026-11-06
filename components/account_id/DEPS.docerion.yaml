@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: account_id DEPS include rules
+summary: Declares include rules allowing the account_id component to use google_apis/gaia headers.

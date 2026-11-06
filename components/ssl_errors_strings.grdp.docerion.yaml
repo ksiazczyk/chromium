@@ -1,0 +1,4 @@
+# Docerion header of ssl_errors_strings.grdp.
+type: data
+title: SSL error page strings
+summary: Grit part with details and descriptions for SSL certificate error pages, covering expired, not-yet-valid, and mismatched certificates.

@@ -1,0 +1,4 @@
+# Docerion header of javascript_dialogs_strings.grdp.
+type: data
+title: JavaScript dialog strings
+summary: Grit part defining UI strings for JavaScript alert and confirm dialog titles, the suppress option, and before-unload and before-reload prompts.

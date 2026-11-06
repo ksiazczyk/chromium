@@ -1,3 +1,9 @@
+---
+type: readme
+title: Account Manager core component overview
+summary: Describes the core data structures and the AccountManagerFacade interface exposed by the Chrome OS Account Manager component.
+---
+
 # //components/account_manager_core
 
 This component holds the core data structures and public facing interfaces for

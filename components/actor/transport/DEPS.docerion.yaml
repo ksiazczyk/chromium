@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for actor transport
+summary: Specifies the allowed include directories for the actor transport component, covering actor core, browser actuator public, and optimization guide proto.

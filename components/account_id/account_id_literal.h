@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountIdLiteral test utility header
+// summary: Provides a constexpr AccountIdLiteral helper that implicitly converts to AccountId so tests can use account ID literals.
+// ---
+
 #ifndef COMPONENTS_ACCOUNT_ID_ACCOUNT_ID_LITERAL_H_
 #define COMPONENTS_ACCOUNT_ID_ACCOUNT_ID_LITERAL_H_
 

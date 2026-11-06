@@ -1,0 +1,4 @@
+# Docerion header of bookmark_bar_strings.grdp.
+type: data
+title: Bookmark bar strings
+summary: Grit part with bookmark bar folder names in sentence and title case variants, covering mobile, other and managed bookmarks folders.

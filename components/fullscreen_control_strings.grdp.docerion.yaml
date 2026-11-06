@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_control_strings.grdp.
+type: data
+title: Fullscreen control UI strings
+summary: Grit part with strings for fullscreen and pointer lock exit bubbles, including key accelerator instructions.

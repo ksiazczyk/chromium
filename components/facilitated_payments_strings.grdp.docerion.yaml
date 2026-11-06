@@ -1,0 +1,4 @@
+# Docerion header of facilitated_payments_strings.grdp.
+type: data
+title: Facilitated payments UI strings
+summary: Grit part with strings for non-card payment method settings, covering Google Pay, eWallet, and Pix payment flows.

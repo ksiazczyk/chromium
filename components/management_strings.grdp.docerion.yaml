@@ -1,0 +1,4 @@
+# Docerion header of management_strings.grdp.
+type: data
+title: Management page UI strings
+summary: Grit part with localized strings for the management page that discloses administrator capabilities to managed users, covering browser and profile management status messages for desktop and ChromeOS.

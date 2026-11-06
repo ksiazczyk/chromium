@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountManager implementation for ChromeOS
+// summary: Implements the ChromeOS AccountManager, persisting Gaia account tokens to disk, fetching access tokens, and recording account and initialization metrics.
+// ---
+
 #include "components/account_manager_core/chromeos/account_manager.h"
 
 #include <algorithm>

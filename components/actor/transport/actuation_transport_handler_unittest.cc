@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActuationTransportHandler unit tests
+// summary: Unit tests for ActuationTransportHandler using a fake transport session and delegate to verify start task forwarding and upstream responses.
+// ---
+
 #include "components/actor/transport/actuation_transport_handler.h"
 
 #include <memory>

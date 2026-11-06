@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actuation transport protobuf definitions
+// summary: Defines proto3 messages for actor task communication between server and browser, covering start, perform actions, stop, pause, and resume requests and responses.
+// ---
+
 syntax = "proto3";
 
 option optimize_for = LITE_RUNTIME;

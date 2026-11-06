@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor utility function declarations
+// summary: Declares actor utility functions that report whether actor safety checks are disabled and whether navigation gating is enabled.
+// ---
+
 #ifndef COMPONENTS_ACTOR_CORE_ACTOR_UTIL_H_
 #define COMPONENTS_ACTOR_CORE_ACTOR_UTIL_H_
 

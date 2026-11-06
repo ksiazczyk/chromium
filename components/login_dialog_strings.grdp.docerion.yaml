@@ -1,0 +1,4 @@
+# Docerion header of login_dialog_strings.grdp.
+type: data
+title: Login dialog strings
+summary: Grit part with UI strings for the login prompt dialog, covering sign-in titles, button labels, username and password fields, and proxy authentication.

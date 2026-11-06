@@ -1,0 +1,4 @@
+# Docerion header of enterprise_strings.grdp.
+type: data
+title: Enterprise policy strings
+summary: Grit part with UI strings for enterprise features such as copy prevention, data controls clipboard dialogs, and content analysis messages.

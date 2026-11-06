@@ -1,0 +1,4 @@
+# Docerion header of heavy_ad_intervention_strings.grdp.
+type: data
+title: Heavy ad intervention UI strings
+summary: Grit part with strings for the page shown when Chrome removes an ad that used too many system resources.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Activity reporter constants
+// summary: Defines the Chrome activity ID and the reporting endpoint URL, delegating to an internal constants header when the build flag enables it.
+// ---
+
 #ifndef COMPONENTS_ACTIVITY_REPORTER_CONSTANTS_H_
 #define COMPONENTS_ACTIVITY_REPORTER_CONSTANTS_H_
 

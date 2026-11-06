@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Single task queue scheduling example
+// summary: Demonstrates manually setting up a thread's SequenceManager, MessagePump, and a single TaskQueue, then posting and running one task before quitting.
+// ---
+
 #include "base/logging.h"
 #include "base/message_loop/message_pump.h"
 #include "base/run_loop.h"

@@ -1,0 +1,4 @@
+# Docerion header of protocol_handler_strings.grdp.
+type: data
+title: Protocol handler UI strings
+summary: Grit part with strings for registering web protocol handlers, including confirmation prompts, permission fragments, and allow, deny, and ignore buttons.

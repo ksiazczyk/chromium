@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for //components
+summary: Bans chrome, cross-component, and IPC includes unless explicitly declared, enforcing the dependency rules between components.

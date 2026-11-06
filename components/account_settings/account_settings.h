@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account setting definitions
+// summary: Defines the AccountSetting metadata struct and constants for available account settings, some gated by a kill-switch feature.
+// ---
+
 #ifndef COMPONENTS_ACCOUNT_SETTINGS_ACCOUNT_SETTINGS_H_
 #define COMPONENTS_ACCOUNT_SETTINGS_ACCOUNT_SETTINGS_H_
 

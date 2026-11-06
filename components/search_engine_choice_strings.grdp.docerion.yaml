@@ -1,0 +1,4 @@
+# Docerion header of search_engine_choice_strings.grdp.
+type: data
+title: Search engine choice strings
+summary: Grit part with strings for the default search engine choice screen and related Chrome settings, including confirmation toasts and button labels.

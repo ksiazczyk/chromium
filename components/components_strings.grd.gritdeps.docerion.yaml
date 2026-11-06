@@ -1,0 +1,4 @@
+# Docerion header of components_strings.grd.gritdeps.
+type: data
+title: Components strings grit dependencies
+summary: Generated list of input files that components_strings.grd depends on, produced by tools/grit/grit_info.py for build dependency tracking.

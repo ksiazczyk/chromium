@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser side of the legacy IPC with separate remote codelab
+// summary: Browser-side codelab example that launches a mock renderer process, bootstraps a Mojo IPC channel, and sends IPCs to the associated interfaces ObjectA and ObjectB.
+// ---
+
 #include "base/command_line.h"
 #include "base/logging.h"
 #include "base/message_loop/message_pump.h"

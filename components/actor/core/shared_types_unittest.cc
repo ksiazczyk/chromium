@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared types unit tests
+// summary: Verifies debug string and stream formatting of PageTarget coordinate and DOM node variants.
+// ---
+
 #include "components/actor/core/shared_types.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

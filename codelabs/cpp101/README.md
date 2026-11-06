@@ -1,3 +1,13 @@
+---
+type: readme
+title: C++ in Chromium 101 - Codelab
+summary: Tutorial guiding developers through example C++ applications in Chromium, covering command-line arguments, callbacks, threads and task runners, and Mojo.
+relations:
+  - references /codelabs/cpp101/BUILD.gn
+  - references /base/command_line.h
+  - references /base/logging.h
+---
+
 # C++ in Chromium 101 - Codelab
 
 This tutorial will guide you through the creation of various example C++

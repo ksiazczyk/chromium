@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account Manager test helper declarations
+// summary: Declares the CreateTestGaiaAccount helper used to build Gaia accounts in Account Manager tests.
+// ---
+
 #ifndef COMPONENTS_ACCOUNT_MANAGER_CORE_ACCOUNT_MANAGER_TEST_UTIL_H_
 #define COMPONENTS_ACCOUNT_MANAGER_CORE_ACCOUNT_MANAGER_TEST_UTIL_H_
 

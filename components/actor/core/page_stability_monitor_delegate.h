@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page stability monitor delegate header
+// summary: Declares the actor-specific page stability monitor delegate with stability thresholds and virtual hooks for journal logging and metrics creation.
+// ---
+
 #ifndef COMPONENTS_ACTOR_CORE_PAGE_STABILITY_MONITOR_DELEGATE_H_
 #define COMPONENTS_ACTOR_CORE_PAGE_STABILITY_MONITOR_DELEGATE_H_
 

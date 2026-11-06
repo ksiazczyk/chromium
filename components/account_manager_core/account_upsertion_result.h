@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountUpsertionResult class declaration
+// summary: Declares AccountUpsertionResult with its status enum, optional account, and auth error, describing the result of an account addition request.
+// ---
+
 #ifndef COMPONENTS_ACCOUNT_MANAGER_CORE_ACCOUNT_UPSERTION_RESULT_H_
 #define COMPONENTS_ACCOUNT_MANAGER_CORE_ACCOUNT_UPSERTION_RESULT_H_
 

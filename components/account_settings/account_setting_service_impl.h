@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountSettingServiceImpl class declaration
+// summary: Declares the concrete AccountSettingService implementation that forwards setting queries to the sync bridge and relays bridge events to observers.
+// ---
+
 #ifndef COMPONENTS_ACCOUNT_SETTINGS_ACCOUNT_SETTING_SERVICE_IMPL_H_
 #define COMPONENTS_ACCOUNT_SETTINGS_ACCOUNT_SETTING_SERVICE_IMPL_H_
 

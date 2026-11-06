@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gmock mocks for AccountManagerFacade and observer
+// summary: Declares gmock implementations of AccountManagerFacade and its observer for use in unit tests.
+// ---
+
 #ifndef COMPONENTS_ACCOUNT_MANAGER_CORE_MOCK_ACCOUNT_MANAGER_FACADE_H_
 #define COMPONENTS_ACCOUNT_MANAGER_CORE_MOCK_ACCOUNT_MANAGER_FACADE_H_
 

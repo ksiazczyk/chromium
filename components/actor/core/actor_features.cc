@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor feature flag definitions
+// summary: Defines base::Feature flags and field trial parameters gating Glic actor behaviors such as navigation gating, screenshots, and navigate tool handling.
+// ---
+
 #include "components/actor/core/actor_features.h"
 
 #include "base/feature.h"

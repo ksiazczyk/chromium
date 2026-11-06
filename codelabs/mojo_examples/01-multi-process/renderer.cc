@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo codelab renderer process example
+// summary: Renderer-side codelab example that accepts a Mojo invitation from the browser, extracts the shared message pipe, and binds a Process implementation that answers SayHello().
+// ---
+
 #include "base/command_line.h"
 #include "base/logging.h"
 #include "base/run_loop.h"

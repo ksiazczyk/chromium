@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Actor core include rules
+summary: Lists the directories and headers that code in the actor core component is allowed to include.

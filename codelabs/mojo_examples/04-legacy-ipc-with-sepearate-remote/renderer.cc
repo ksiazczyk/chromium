@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer side of the legacy IPC with separate remote codelab
+// summary: Renderer-side codelab example that accepts the IPC bootstrap, serves the Process and AssociatedProcess interfaces, and binds ObjectA to a frozen task queue while ObjectB stays unfrozen.
+// ---
+
 #include <memory>
 
 #include "base/at_exit.h"

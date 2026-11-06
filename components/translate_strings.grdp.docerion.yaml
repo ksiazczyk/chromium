@@ -1,0 +1,4 @@
+# Docerion header of translate_strings.grdp.
+type: data
+title: Translate strings
+summary: Grit part with UI strings for the translate feature, including infobar options, message popup titles, and always/never translate menu items.

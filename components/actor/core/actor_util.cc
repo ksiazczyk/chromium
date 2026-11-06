@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor utility functions implementation
+// summary: Implements actor utility helpers that report whether actor safety checks are disabled via command-line switch and whether cross-origin navigation gating is enabled.
+// ---
+
 #include "components/actor/core/actor_util.h"
 
 #include "base/command_line.h"

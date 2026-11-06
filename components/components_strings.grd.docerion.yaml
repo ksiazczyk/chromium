@@ -1,0 +1,4 @@
+# Docerion header of components_strings.grd.
+type: data
+title: Components strings grit resource definition
+summary: Grit resource definition that bundles Chromium components UI strings and generates localized .pak data packages for many languages.

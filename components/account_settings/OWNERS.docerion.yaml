@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Account Settings component owners
+summary: Lists the code owners for the account_settings component and delegates sync-related file changes to the sync OWNERS.

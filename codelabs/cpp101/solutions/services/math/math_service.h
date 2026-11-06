@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MathService class declaration
+// summary: Declares the MathService class implementing the mojom::MathService interface, including its Divide method and Mojo receiver member.
+// ---
+
 #ifndef CODELABS_CPP101_SOLUTIONS_SERVICES_MATH_MATH_SERVICE_H_
 #define CODELABS_CPP101_SOLUTIONS_SERVICES_MATH_MATH_SERVICE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of components_google_chrome_strings.grd.
+type: data
+title: Components Google Chrome branded strings
+summary: Grit file defining Google Chrome-branded component strings and listing localized .pak data package outputs for many languages.

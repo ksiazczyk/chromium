@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActuationDelegate interface header
+// summary: Declares the ActuationDelegate interface for starting, stopping, and executing actuation tasks and actions on the browser via callbacks.
+// ---
+
 #ifndef COMPONENTS_ACTOR_TRANSPORT_ACTUATION_DELEGATE_H_
 #define COMPONENTS_ACTOR_TRANSPORT_ACTUATION_DELEGATE_H_
 

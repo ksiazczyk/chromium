@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aggregated journal serializer implementation
+// summary: Implements the base journal serializer that converts aggregated journal entries into perfetto trace packets, deferring packet output to subclasses.
+// ---
+
 #include "components/actor/core/aggregated_journal_serializer.h"
 
 #include "base/containers/span.h"

@@ -1,0 +1,4 @@
+# Docerion header of parse_actor_trace.py.
+type: script
+title: Parse Actor Trace
+summary: Command-line script that parses Chrome Actor Perfetto traces and extracts AnnotatedPageContent protos and screenshots into per-step files, with instructions for recording traces.

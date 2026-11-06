@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Activity reporter configurator interface
+// summary: Declares ActivityReporterConfigurator, an update_client::Configurator supplying URLs, version, channel, persisted data, and factories for activity reporting.
+// ---
+
 #ifndef COMPONENTS_ACTIVITY_REPORTER_CONFIGURATOR_H_
 #define COMPONENTS_ACTIVITY_REPORTER_CONFIGURATOR_H_
 

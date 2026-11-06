@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock account manager facade definitions
+// summary: Defines constructors and destructors for MockAccountManagerFacade and MockAccountManagerFacadeObserver used in Account Manager tests.
+// ---
+
 #include "components/account_manager_core/mock_account_manager_facade.h"
 
 namespace account_manager {

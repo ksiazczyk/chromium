@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Journal details builder implementation
+// summary: Implements JournalDetailsBuilder helpers that convert actor UI modes, journal entry types, and track UUIDs into readable strings.
+// ---
+
 #include "components/actor/core/journal_details_builder.h"
 
 #include "base/notreached.h"

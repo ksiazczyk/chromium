@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared types implementation
+// summary: Implements debug string and stream output helpers for the PageTarget variant of coordinates and DOM nodes.
+// ---
+
 #include "components/actor/core/shared_types.h"
 
 #include <sstream>

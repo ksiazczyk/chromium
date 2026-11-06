@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Activity reporter implementation unit tests
+// summary: Unit tests for the reporter implementation using a mock UpdateClient, covering report throttling and related behavior.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

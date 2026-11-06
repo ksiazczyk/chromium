@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo codelab browser process example
+// summary: Browser-side codelab example that launches a mock renderer process, sends a Mojo invitation with a message pipe, and invokes SayHello() over the connected remote.
+// ---
+
 #include "base/command_line.h"
 #include "base/logging.h"
 #include "base/process/launch.h"

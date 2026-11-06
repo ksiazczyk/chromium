@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PenguinClient class header
+// summary: Declares the PenguinClient class, its compact and full response callback types, and PerformAPICall overloads including Android JNI variants.
+// ---
+
 #ifndef COMPONENTS_ACCESSIBILITY_PENGUIN_PENGUIN_CLIENT_H_
 #define COMPONENTS_ACCESSIBILITY_PENGUIN_PENGUIN_CLIENT_H_
 

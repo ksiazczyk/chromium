@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorInternalsHandler class header
+// summary: Declares the cross-platform UI handler for the actor internals debug page, including a Delegate interface for embedders to start and stop trace logging and to push journal entries to the page.
+// ---
+
 #ifndef COMPONENTS_ACTOR_CORE_INTERNALS_BROWSER_ACTOR_INTERNALS_HANDLER_H_
 #define COMPONENTS_ACTOR_CORE_INTERNALS_BROWSER_ACTOR_INTERNALS_HANDLER_H_
 

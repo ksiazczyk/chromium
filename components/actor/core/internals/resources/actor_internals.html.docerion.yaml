@@ -1,0 +1,4 @@
+# Docerion header of actor_internals.html.
+type: source
+title: Actor debug page
+summary: Debug page for the actor internals WebUI that lists actor events in a table and provides controls to start and stop trace logging and filter by task ID.

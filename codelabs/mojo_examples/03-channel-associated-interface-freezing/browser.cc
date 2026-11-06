@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser process for the channel-associated interface freezing codelab
+// summary: Browser-side example that launches a renderer process, bootstraps an IPC::ChannelProxy over a Mojo message pipe, and requests channel-associated interfaces ObjectA and ObjectB.
+// ---
+
 #include "base/command_line.h"
 #include "base/logging.h"
 #include "base/message_loop/message_pump.h"

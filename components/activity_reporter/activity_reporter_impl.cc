@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Activity reporter implementation
+// summary: Implements ActivityReporter with five-hour report throttling, legacy updater callbacks and active-use pings via update_client.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

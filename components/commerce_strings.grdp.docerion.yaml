@@ -1,0 +1,4 @@
+# Docerion header of commerce_strings.grdp.
+type: data
+title: Commerce strings
+summary: Grit part with strings for shopping features such as price tracking dialogs, email consent prompts and related commerce UI text.

@@ -1,0 +1,4 @@
+# Docerion header of collaboration_strings.grdp.
+type: data
+title: Collaboration strings
+summary: Grit part with strings for shared tab group collaboration, covering sign-in and sync screens, removal notifications and error dialogs.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser proxy for actor internals
+// summary: Singleton proxy that binds the Mojo page handler and callback router for the actor internals page.
+// ---
+
 import {PageCallbackRouter, PageHandlerFactory, PageHandlerRemote} from './actor_internals.mojom-webui.js';
 import type {PageHandlerInterface} from './actor_internals.mojom-webui.js';
 

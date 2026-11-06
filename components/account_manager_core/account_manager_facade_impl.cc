@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountManagerFacadeImpl implementation
+// summary: Implements the AccountManagerFacade interface on top of the local AccountManager, forwarding account queries, token fetcher creation, and auth error reporting to observers.
+// ---
+
 #include "components/account_manager_core/account_manager_facade_impl.h"
 
 #include <memory>

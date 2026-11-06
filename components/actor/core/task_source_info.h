@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task source info header
+// summary: Declares TaskSourceInfo, which identifies the client type and optional client-defined ID that created an ActorTask.
+// ---
+
 #ifndef COMPONENTS_ACTOR_CORE_TASK_SOURCE_INFO_H_
 #define COMPONENTS_ACTOR_CORE_TASK_SOURCE_INFO_H_
 

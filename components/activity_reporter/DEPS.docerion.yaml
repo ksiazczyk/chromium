@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Activity reporter dependency rules
+summary: Declares the include dependencies allowed for the activity reporter component.

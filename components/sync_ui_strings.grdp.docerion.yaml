@@ -1,0 +1,4 @@
+# Docerion header of sync_ui_strings.grdp.
+type: data
+title: Sync UI strings
+summary: Grit part with UI strings for sync features, covering sync data types, encryption options, passphrase dialogs, and bulk upload prompts.

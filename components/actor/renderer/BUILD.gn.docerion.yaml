@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the actor renderer source set
+summary: Defines the renderer source set for the actor component, listing the page stability metrics sources and dependencies on base, actor core, and page content annotations.

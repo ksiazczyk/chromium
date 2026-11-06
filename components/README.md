@@ -1,3 +1,9 @@
+---
+type: readme
+title: About //components
+summary: Explains the purpose of the components directory, use cases, guidelines and requirements for adding new components, and their dependency and structure rules.
+---
+
 # About //components
 
 This directory is meant to house features or subsystems that are used in more

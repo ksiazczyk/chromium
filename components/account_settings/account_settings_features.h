@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account settings feature flag declaration
+// summary: Declares the kAccountSettingContextKillSwitch base::Feature for account settings.
+// ---
+
 #ifndef COMPONENTS_ACCOUNT_SETTINGS_ACCOUNT_SETTINGS_FEATURES_H_
 #define COMPONENTS_ACCOUNT_SETTINGS_ACCOUNT_SETTINGS_FEATURES_H_
 

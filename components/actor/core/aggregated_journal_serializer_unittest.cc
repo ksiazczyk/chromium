@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Aggregated journal serializer unit tests
+// summary: Unit tests for the in-memory and file-based aggregated journal serializers, covering snapshots, buffer size limits, and trace parsing.
+// ---
+
 #include "components/actor/core/aggregated_journal_serializer.h"
 
 #include <memory>

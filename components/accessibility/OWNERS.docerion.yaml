@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners of the accessibility component
+summary: Lists the default review owners and the additional owners required for Android and Java related changes.

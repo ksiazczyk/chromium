@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Activity reporter configurator implementation
+// summary: Implements the update_client configurator for activity reporting, including an activity data service that always reports the Chrome activity ID as active.
+// ---
+
 #include "components/activity_reporter/configurator.h"
 
 #include <memory>

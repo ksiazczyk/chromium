@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo interface implementations for the examples
+// summary: Implements ObjectA and ObjectB Mojo receivers, binding one to a frozen task queue and one to the default task runner.
+// ---
+
 #include "codelabs/mojo_examples/mojo_impls.h"
 
 #include "base/logging.h"

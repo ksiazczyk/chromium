@@ -1,3 +1,11 @@
+---
+type: readme
+title: Chromium Codelab
+summary: Introduces the Chromium codelabs, pointing to the C++ 101 and threading and scheduling examples and explaining that the code exists for documentation purposes.
+relations:
+  - references /codelabs/cpp101/README.md
+---
+
 # Chromium Codelab
 
 See the `cpp101/` directory for the Chromium C++ codelab,

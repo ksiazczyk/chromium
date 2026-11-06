@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task ID type
+// summary: Defines TaskId as a strongly typed 32-bit identifier whose zero value is the null task ID.
+// ---
+
 #ifndef COMPONENTS_ACTOR_CORE_TASK_ID_H_
 #define COMPONENTS_ACTOR_CORE_TASK_ID_H_
 

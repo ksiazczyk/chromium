@@ -1,0 +1,4 @@
+# Docerion header of arc_strings.grdp.
+type: data
+title: ARC strings
+summary: Grit part defining UI strings for ARC app compatibility mode and Nearby Share dialogs on ChromeOS, such as resize confirmations and error messages.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account addition options
+// summary: Defines options controlling ARC availability and the ARC availability picker when adding an account.
+// ---
+
 #ifndef COMPONENTS_ACCOUNT_MANAGER_CORE_ACCOUNT_ADDITION_OPTIONS_H_
 #define COMPONENTS_ACCOUNT_MANAGER_CORE_ACCOUNT_ADDITION_OPTIONS_H_
 

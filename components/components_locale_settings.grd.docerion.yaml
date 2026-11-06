@@ -1,0 +1,4 @@
+# Docerion header of components_locale_settings.grd.
+type: data
+title: Components locale settings
+summary: Grit file with locale-specific component settings and per-language .pak output definitions, including iOS-specific locale handling.

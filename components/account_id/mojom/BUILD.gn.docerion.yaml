@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the account_id Mojom bindings
+summary: GN build file defining the Mojom target that maps signin.mojom AccountId and AccountType to C++ types via traits headers.

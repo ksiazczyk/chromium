@@ -1,0 +1,4 @@
+# Docerion header of omnibox_strings.grdp.
+type: data
+title: Omnibox strings
+summary: Grit part with UI strings for the omnibox, including suggestion descriptions, location notices, Lens actions, and AI Mode entrypoints.
