@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AddPageTask unit tests
+// summary: Unit tests verifying that AddPageTask stores offline pages correctly, including pages with all fields set and repeated additions.
+// ---
+
 #include "components/offline_pages/core/model/add_page_task.h"
 
 #include <stdint.h>

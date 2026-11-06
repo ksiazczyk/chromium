@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Snapshot controller implementation
+// summary: Schedules offline page snapshots after document parsing and load events, using configurable delays and a page quality progression.
+// ---
+
 #include "components/offline_pages/core/snapshot_controller.h"
 
 #include "base/check_op.h"

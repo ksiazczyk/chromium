@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflinePageHeader declaration and header constants
+// summary: Declares the OfflinePageHeader struct plus the constants and reason values that define offline page loading behavior in the X-Chrome-offline header.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_REQUEST_HEADER_OFFLINE_PAGE_HEADER_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_REQUEST_HEADER_OFFLINE_PAGE_HEADER_H_
 

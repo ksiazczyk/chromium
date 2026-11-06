@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ClearStorageTask unit tests
+// summary: Unit tests for ClearStorageTask using a test archive manager and clock to verify clearing of expired and quota-exceeding temporary pages.
+// ---
+
 #include "components/offline_pages/core/model/clear_storage_task.h"
 
 #include <memory>

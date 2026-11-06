@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for OfflinePageHeader parsing
+// summary: Tests parsing of the X-Chrome-offline header value, covering persist, reason, id and intent URL fields as well as invalid inputs.
+// ---
+
 #include "components/offline_pages/core/request_header/offline_page_header.h"
 
 #include "base/base64.h"

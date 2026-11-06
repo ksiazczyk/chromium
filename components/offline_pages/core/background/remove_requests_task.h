@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoveRequestsTask class declaration
+// summary: Declares a task that removes save page requests by ID from the request queue store and reports per-item results via a callback.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_REMOVE_REQUESTS_TASK_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_REMOVE_REQUESTS_TASK_H_
 

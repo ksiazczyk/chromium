@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Omnibox Owners
+summary: Lists the code owners for the omnibox component and routes mojom file reviews to the security owners.

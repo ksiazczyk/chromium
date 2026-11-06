@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Offline pages owners list
+summary: Lists the email addresses of the code owners responsible for the offline_pages directory.

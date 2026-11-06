@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PendingStateUpdater class declaration
+// summary: Declares the PendingStateUpdater class that sets and notifies pending states of save page requests via the request coordinator.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_PENDING_STATE_UPDATER_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_PENDING_STATE_UPDATER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Update publish ID task unit tests
+// summary: Unit test verifying that UpdatePublishIdTask updates an offline page's file path and system download ID in the metadata store.
+// ---
+
 #include "components/offline_pages/core/model/update_publish_id_task.h"
 
 #include <memory>

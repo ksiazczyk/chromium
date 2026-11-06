@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CleanupTaskFactory class declaration
+// summary: Declares a factory that builds cleanup tasks using stored policy, notifier, and event logger references.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_CLEANUP_TASK_FACTORY_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_CLEANUP_TASK_FACTORY_H_
 

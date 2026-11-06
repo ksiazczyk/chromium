@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline page model implementation
+// summary: Implements base parts of OfflinePageModel, defining SavePageParams defaults and the CanSaveURL check that restricts saving to valid HTTP and HTTPS URLs.
+// ---
+
 #include "components/offline_pages/core/offline_page_model.h"
 
 #include "url/gurl.h"

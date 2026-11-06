@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RequestQueueStore implementation
+// summary: Implements the SQLite-backed persistent store for save page requests, including table creation and schema upgrade paths from earlier milestone versions.
+// ---
+
 #include "components/offline_pages/core/background/request_queue_store.h"
 
 #include <memory>

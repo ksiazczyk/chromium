@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArchiveManager class declaration
+// summary: Declares the class that manages offline page archive files across temporary, private, and public directories and reports storage stats.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_ARCHIVE_MANAGER_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_ARCHIVE_MANAGER_H_
 

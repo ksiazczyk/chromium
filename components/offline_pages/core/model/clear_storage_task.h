@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClearStorageTask class declaration
+// summary: Declares the ClearStorageTask task class that clears expired temporary pages from the metadata store and disk, with a result enum and callback.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_MODEL_CLEAR_STORAGE_TASK_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_MODEL_CLEAR_STORAGE_TASK_H_
 

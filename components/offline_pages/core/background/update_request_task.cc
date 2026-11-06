@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateRequestTask implementation
+// summary: Implements a task that reads a single request from the request queue store, validates the result, and runs the update callback.
+// ---
+
 #include "components/offline_pages/core/background/update_request_task.h"
 
 #include <vector>

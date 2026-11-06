@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visuals availability task implementation
+// summary: Implements a task that queries the page_thumbnails table to report whether a thumbnail and favicon exist for a given offline page ID.
+// ---
+
 #include "components/offline_pages/core/model/visuals_availability_task.h"
 
 #include "base/functional/bind.h"

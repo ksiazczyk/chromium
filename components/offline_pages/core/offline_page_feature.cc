@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline page feature flags implementation
+// summary: Implements offline pages feature flags and helpers, including a test switch that shortens snapshot delays and a flag for opening saved pages in CCT.
+// ---
+
 #include "components/offline_pages/core/offline_page_feature.h"
 
 #include <string>

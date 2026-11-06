@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Offline page model event logger unit tests
+// summary: Unit tests verifying that the model event logger records save and delete events only when logging is enabled and that the log does not exceed its maximum size.
+// ---
+
 #include "components/offline_pages/core/offline_page_model_event_logger.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

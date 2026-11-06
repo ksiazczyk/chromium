@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline page metadata store implementation
+// summary: Implements the SQLite-backed store for offline page metadata, including table creation and stepwise schema upgrade logic.
+// ---
+
 #include "components/offline_pages/core/offline_page_metadata_store.h"
 
 #include <utility>

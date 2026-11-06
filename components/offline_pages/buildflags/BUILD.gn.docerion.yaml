@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Offline pages buildflags build definition
+summary: Defines a buildflag_header target that exposes ENABLE_OFFLINE_PAGES and harness flags so any target can use the preprocessor defines without depending on offline_pages.

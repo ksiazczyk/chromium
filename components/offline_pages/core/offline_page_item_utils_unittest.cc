@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for offline page item URL utilities
+// summary: Unit tests verifying that EqualsIgnoringFragment treats URLs as equal regardless of their fragment.
+// ---
+
 #include "components/offline_pages/core/offline_page_item_utils.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PendingStateUpdater implementation
+// summary: Implements updates of save page request pending states when the network is lost or another request is picked for offlining.
+// ---
+
 #include "components/offline_pages/core/background/pending_state_updater.h"
 
 #include "base/functional/bind.h"

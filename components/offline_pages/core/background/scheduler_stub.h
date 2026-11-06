@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SchedulerStub test double declaration
+// summary: Declares SchedulerStub, a test-only stub of the Scheduler interface that records Schedule, BackupSchedule, and Unschedule calls.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_SCHEDULER_STUB_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_SCHEDULER_STUB_H_
 

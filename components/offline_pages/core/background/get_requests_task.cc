@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetRequestsTask implementation
+// summary: Implements the GetRequestsTask that reads all save page requests from the request queue store and returns them through a callback.
+// ---
+
 #include "components/offline_pages/core/background/get_requests_task.h"
 
 #include <vector>

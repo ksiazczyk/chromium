@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scheduler interface
+// summary: Defines the Scheduler interface for triggering background offlining tasks based on device conditions such as power, battery, and network type.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_SCHEDULER_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_SCHEDULER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the task-based offline page model
+// summary: Implements OfflinePageModelTaskified, running save, add, delete, query and maintenance operations for offline pages as tasks on a task queue.
+// ---
+
 #include "components/offline_pages/core/model/offline_page_model_taskified.h"
 
 #include <string>

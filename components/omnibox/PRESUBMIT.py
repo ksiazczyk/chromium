@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Omnibox Presubmit Checks
+# summary: Presubmit script that warns when OmniboxPedalId enum changes are not mirrored in the histograms enums.xml file.
+# ---
+
 """Presubmit script for changes affecting components/omnibox/
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetVisualsTask class header for reading page visuals
+// summary: Declares GetVisualsTask, a task that reads thumbnail and favicon data for an offline page from the metadata store.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_MODEL_GET_VISUALS_TASK_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_MODEL_GET_VISUALS_TASK_H_
 

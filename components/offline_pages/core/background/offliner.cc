@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offliner request status string conversion
+// summary: Implements Offliner::RequestStatusToString, mapping each Offliner request status enum value to its string name.
+// ---
+
 #include <string>
 
 #include "components/offline_pages/core/background/offliner.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArchiveValidator class declaration
+// summary: Declares helpers to compute SHA256 digests and validate archive files by expected size and digest.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_ARCHIVE_VALIDATOR_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_ARCHIVE_VALIDATOR_H_
 

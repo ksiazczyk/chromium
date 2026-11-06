@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SavePageRequest class declaration
+// summary: Declares the SavePageRequest class representing a page save request with request states, attempt counters, and failure and pending states.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_SAVE_PAGE_REQUEST_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_SAVE_PAGE_REQUEST_H_
 

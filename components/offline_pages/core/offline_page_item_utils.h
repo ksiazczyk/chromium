@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline page item URL utilities header
+// summary: Declares EqualsIgnoringFragment and UrlWithoutFragment for fragment-insensitive URL comparison of offline page items.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_OFFLINE_PAGE_ITEM_UTILS_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_OFFLINE_PAGE_ITEM_UTILS_H_
 

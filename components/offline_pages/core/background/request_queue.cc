@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RequestQueue implementation
+// summary: Implements the RequestQueue that manages save page requests by scheduling tasks such as get, add, remove, and state changes against the persistent store.
+// ---
+
 #include "components/offline_pages/core/background/request_queue.h"
 
 #include <utility>

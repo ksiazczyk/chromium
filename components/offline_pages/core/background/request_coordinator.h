@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RequestCoordinator class declaration
+// summary: Declares the keyed service that coordinates queueing and processing of save page later requests, with observer, callback and parameter definitions.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_REQUEST_COORDINATOR_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_REQUEST_COORDINATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup maintenance task header
+// summary: Declares the startup maintenance task that coordinates consistency checks, legacy directory cleaning and storage usage reporting.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_MODEL_STARTUP_MAINTENANCE_TASK_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_MODEL_STARTUP_MAINTENANCE_TASK_H_
 

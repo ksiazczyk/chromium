@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client ID implementation
+// summary: Implements the ClientId struct with comparison operators and string conversion for offline page client identification.
+// ---
+
 #include "components/offline_pages/core/client_id.h"
 
 #include <ostream>

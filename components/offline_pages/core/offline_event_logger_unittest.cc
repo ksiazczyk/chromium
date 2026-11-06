@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Offline event logger unit tests
+// summary: Unit tests verifying that setting a client enables logging, that the log respects its size limit, and that custom client log messages are delivered.
+// ---
+
 #include "components/offline_pages/core/offline_event_logger.h"
 
 #include "base/strings/string_number_conversions.h"

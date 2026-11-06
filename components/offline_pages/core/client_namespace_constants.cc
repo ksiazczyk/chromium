@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client namespace constants
+// summary: Defines well-known offline page client namespace string constants such as bookmark, download, and async loading.
+// ---
+
 #include "components/offline_pages/core/client_namespace_constants.h"
 
 namespace offline_pages {

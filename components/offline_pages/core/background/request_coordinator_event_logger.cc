@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RequestCoordinatorEventLogger implementation
+// summary: Implements recording of background save attempts, dropped requests, and failed queue updates as human-readable log entries.
+// ---
+
 #include "components/offline_pages/core/background/request_coordinator_event_logger.h"
 
 #include <string>

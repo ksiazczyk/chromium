@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Task unit tests
+// summary: Unit tests for the Task class covering step-by-step execution, early completion and nested task execution.
+// ---
+
 #include "components/offline_pages/task/task.h"
 
 #include <memory>

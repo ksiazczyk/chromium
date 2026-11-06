@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DownloadUIAdapter
+// summary: gtest suite verifying the adapter's item notifications, visibility filtering, visuals decoding and share handling using stub models and mock delegates.
+// ---
+
 #include "components/offline_pages/core/downloads/download_ui_adapter.h"
 
 #include <stdint.h>

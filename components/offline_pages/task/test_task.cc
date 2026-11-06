@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestTask and ConsumedResource implementation
+// summary: Implements the multi-step TestTask and the ConsumedResource helper used by the task and task queue unit tests.
+// ---
+
 #include "components/offline_pages/task/test_task.h"
 
 #include "base/functional/bind.h"

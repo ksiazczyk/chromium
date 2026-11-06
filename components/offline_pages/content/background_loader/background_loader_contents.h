@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundLoaderContents class declaration
+// summary: Declares the BackgroundLoaderContents class, a content::WebContentsDelegate hosting a non-visible WebContents with LoadPage and Cancel methods plus a Delegate interface for download decisions.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CONTENT_BACKGROUND_LOADER_BACKGROUND_LOADER_CONTENTS_H_
 #define COMPONENTS_OFFLINE_PAGES_CONTENT_BACKGROUND_LOADER_BACKGROUND_LOADER_CONTENTS_H_
 

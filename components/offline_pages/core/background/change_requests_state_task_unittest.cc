@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ChangeRequestsStateTask
+// summary: Tests state changes on the request queue store, covering empty stores, single updates, and missing requests.
+// ---
+
 #include "components/offline_pages/core/background/change_requests_state_task.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundLoaderContents implementation
+// summary: Implements a hidden, never-composited WebContents delegate that loads URLs in the background for offline pages, suppressing dialogs, blocking pop-ups, new contents and media access, and routing download decisions to a delegate.
+// ---
+
 #include "components/offline_pages/content/background_loader/background_loader_contents.h"
 
 #include <utility>

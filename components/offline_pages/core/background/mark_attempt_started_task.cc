@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MarkAttemptStartedTask implementation
+// summary: Implements the task that marks a save page request attempt as started, recording the start time from the offline clock.
+// ---
+
 #include "components/offline_pages/core/background/mark_attempt_started_task.h"
 
 #include <utility>

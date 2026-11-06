@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline store utilities
+// summary: Declares shared helpers for converting times and file paths to database format and for generating offline IDs.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_OFFLINE_STORE_UTILS_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_OFFLINE_STORE_UTILS_H_
 

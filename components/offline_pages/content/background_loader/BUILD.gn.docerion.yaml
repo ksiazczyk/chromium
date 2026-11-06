@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for background_loader
+summary: Defines GN source sets for the background_loader component, including the main sources, a test_support stub library and the unit_tests target with their dependencies.

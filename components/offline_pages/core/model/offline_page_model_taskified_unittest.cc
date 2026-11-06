@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for OfflinePageModelTaskified
+// summary: Extensive unit tests covering save, add, delete, query, visuals and maintenance behavior of the taskified offline page model.
+// ---
+
 #include "components/offline_pages/core/model/offline_page_model_taskified.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utilities for the offline page model
+// summary: Implements model_utils helpers that map client namespaces to histogram enums, build histogram suffixes and generate unique offline page filenames.
+// ---
+
 #include "components/offline_pages/core/model/offline_page_model_utils.h"
 
 #include <string>

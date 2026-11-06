@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RequestQueueStore unit tests
+// summary: Unit tests for the RequestQueueStore covering database operations and schema upgrades from M57 and later versions of the request queue table.
+// ---
+
 #include "components/offline_pages/core/background/request_queue_store.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page criteria matching implementation
+// summary: Implements matching of client IDs and offline pages against PageCriteria and computes potentially matching namespaces.
+// ---
+
 #include "components/offline_pages/core/page_criteria.h"
 
 #include <algorithm>

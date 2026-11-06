@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RequestCoordinatorEventLogger unit tests
+// summary: Tests that the event logger records entries when logging is on, skips them when off, and caps the log at its maximum size.
+// ---
+
 #include "components/offline_pages/core/background/request_coordinator_event_logger.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

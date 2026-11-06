@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the background directory
+summary: Allows this directory to include headers from sql, net, and the network service.

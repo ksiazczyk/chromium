@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SavePageRequest unit tests
+// summary: Unit tests verifying SavePageRequest creation and state transitions for starting, completing, aborting, pausing, and deferring attempts.
+// ---
+
 #include "components/offline_pages/core/background/save_page_request.h"
 
 #include "components/offline_pages/core/offline_clock.h"

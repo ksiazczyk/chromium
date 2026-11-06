@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Request queue task test base header
+// summary: Declares a shared GoogleTest fixture for request queue task tests with a mock time task runner and a test request queue store.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_REQUEST_QUEUE_TASK_TEST_BASE_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_REQUEST_QUEUE_TASK_TEST_BASE_H_
 

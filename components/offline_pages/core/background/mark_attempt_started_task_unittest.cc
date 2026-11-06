@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mark attempt started task unit tests
+// summary: Unit tests for the task that marks a save page request attempt as started, covering empty store, existing items, and missing requests.
+// ---
+
 #include "components/offline_pages/core/background/mark_attempt_started_task.h"
 
 #include <memory>

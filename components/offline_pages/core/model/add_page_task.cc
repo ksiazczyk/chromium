@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AddPageTask implementation
+// summary: Implements the task that inserts an offline page into the offline pages metadata store via SQL and reports the add result to the caller.
+// ---
+
 #include "components/offline_pages/core/model/add_page_task.h"
 
 #include "base/functional/bind.h"

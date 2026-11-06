@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RequestCoordinatorEventLogger class declaration
+// summary: Declares the logger used by the request coordinator to record offliner results, dropped requests, and failed add or update operations.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_REQUEST_COORDINATOR_EVENT_LOGGER_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_REQUEST_COORDINATOR_EVENT_LOGGER_H_
 

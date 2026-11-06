@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test utility for the offline page metadata store
+// summary: Test helper that builds, populates, and queries an offline page metadata store for use in unit tests.
+// ---
+
 #include "components/offline_pages/core/offline_page_metadata_store_test_util.h"
 
 #include <memory>

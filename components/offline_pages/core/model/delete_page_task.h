@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeletePageTask class header for deleting offline pages
+// summary: Declares DeletePageTask, a task that deletes offline pages from the metadata store and file system based on criteria, URL predicates, or per-URL page limits.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_MODEL_DELETE_PAGE_TASK_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_MODEL_DELETE_PAGE_TASK_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArchiveValidator implementation
+// summary: Implements SHA256 digest computation, file size retrieval, and validation of archive files against an expected size and digest.
+// ---
+
 #include "components/offline_pages/core/archive_validator.h"
 
 #include <vector>

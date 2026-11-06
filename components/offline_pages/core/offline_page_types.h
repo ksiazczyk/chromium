@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline page model types and callbacks
+// summary: Defines shared result enums and callbacks for saving, adding, deleting and sharing offline pages in the OfflinePageModel.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_OFFLINE_PAGE_TYPES_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_OFFLINE_PAGE_TYPES_H_
 

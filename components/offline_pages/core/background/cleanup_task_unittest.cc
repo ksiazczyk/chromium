@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CleanupTask
+// summary: Tests cleanup of expired requests, verifying expiration reasons and completion notifications via a notifier stub.
+// ---
+
 #include "components/offline_pages/core/background/cleanup_task.h"
 
 #include <memory>

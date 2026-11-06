@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflinePageNavigationUIData implementation
+// summary: Implements the OfflinePageNavigationUIData constructors and its DeepCopy method for per-navigation offline page UI data.
+// ---
+
 #include "components/offline_pages/core/request_header/offline_page_navigation_ui_data.h"
 
 namespace offline_pages {

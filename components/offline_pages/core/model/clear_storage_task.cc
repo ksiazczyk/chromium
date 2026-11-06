@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClearStorageTask implementation
+// summary: Implements the task that clears temporary offline pages based on expiration, namespace page limits, missing files, and storage quota thresholds.
+// ---
+
 #include "components/offline_pages/core/model/clear_storage_task.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for MarkAttemptAbortedTask
+// summary: Unit tests verifying MarkAttemptAbortedTask behavior when the request exists in the store and when it is missing.
+// ---
+
 #include "components/offline_pages/core/background/mark_attempt_aborted_task.h"
 
 #include <memory>

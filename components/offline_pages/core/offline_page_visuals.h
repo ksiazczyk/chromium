@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline page visuals struct
+// summary: Declares the OfflinePageVisuals struct holding a page's thumbnail and favicon data mapped to the page_thumbnails table.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_OFFLINE_PAGE_VISUALS_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_OFFLINE_PAGE_VISUALS_H_
 

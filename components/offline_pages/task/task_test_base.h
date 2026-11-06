@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TaskTestBase test fixture declaration
+// summary: Declares TaskTestBase, a gtest base class with a mock-time task environment and helpers for running tasks in offline pages tests.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_TASK_TASK_TEST_BASE_H_
 #define COMPONENTS_OFFLINE_PAGES_TASK_TASK_TEST_BASE_H_
 

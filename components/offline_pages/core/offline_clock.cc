@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline clock implementation
+// summary: Provides the offline pages clock with an overridable implementation for testing and access to the current time.
+// ---
+
 #include "components/offline_pages/core/offline_clock.h"
 
 #include <ostream>

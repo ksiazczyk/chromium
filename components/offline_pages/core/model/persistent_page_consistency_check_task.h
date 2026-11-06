@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent page consistency check task header
+// summary: Declares the task class that checks persistent offline page consistency and reports deleted page archive IDs via a callback.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_MODEL_PERSISTENT_PAGE_CONSISTENCY_CHECK_TASK_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_MODEL_PERSISTENT_PAGE_CONSISTENCY_CHECK_TASK_H_
 

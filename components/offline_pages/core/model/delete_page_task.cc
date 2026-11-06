@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeletePageTask implementation
+// summary: Implements the task that deletes offline pages by removing archive files first and then their database entries, including criteria-based deletion.
+// ---
+
 #include "components/offline_pages/core/model/delete_page_task.h"
 
 #include <iterator>

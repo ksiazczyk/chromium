@@ -1,3 +1,9 @@
+---
+type: readme
+title: Task Queue subcomponent README
+summary: Describes the Offline Pages Task Queue framework for sequencing asynchronous work and notes its temporary location for sharing with explore_sites code.
+---
+
 # Task Queue subcomponent
 
 This subdirectory maintains the classes and tests for the Offline Pages Task

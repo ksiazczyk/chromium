@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Offline page test utilities implementation
+// summary: Implements shared test helpers for offline pages, including file counting in directories and stream output of offline page items and visuals.
+// ---
+
 #include "components/offline_pages/core/model/offline_page_test_utils.h"
 
 #include "base/base64.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DeletePageTask
+// summary: Unit tests verifying that DeletePageTask deletes pages, populates the deleted page items correctly, and reports metrics.
+// ---
+
 #include "components/offline_pages/core/model/delete_page_task.h"
 
 #include <memory>

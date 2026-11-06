@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update publish ID task implementation
+// summary: Implements a task that updates the archive file path and system download ID of an offline page in the metadata store within a single SQL transaction.
+// ---
+
 #include "components/offline_pages/core/model/update_publish_id_task.h"
 
 #include "base/functional/bind.h"

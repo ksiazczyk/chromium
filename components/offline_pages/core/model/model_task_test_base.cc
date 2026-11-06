@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Implementation of the model task test base
+// summary: Implements ModelTaskTestBase, setting up temporary archive directories, an archive manager and an in-memory metadata store for model task tests.
+// ---
+
 #include "components/offline_pages/core/model/model_task_test_base.h"
 
 #include "base/files/file_util.h"

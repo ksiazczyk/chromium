@@ -1,3 +1,9 @@
+---
+type: guide
+title: Omnibox Bug Triage Process
+summary: Instructions for engineers on the omnibox bug triage rotation, covering weekly triage steps, statuses, priorities, alerts, and references.
+---
+
 # Omnibox Bug Triage Process
 
 *last update: 2024/03/04*

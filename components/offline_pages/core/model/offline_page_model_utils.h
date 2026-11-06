@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utility helpers for the offline page model
+// summary: Declares model_utils functions for namespace-to-enum conversion, histogram suffix creation and unique filename generation for offline pages.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_MODEL_OFFLINE_PAGE_MODEL_UTILS_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_MODEL_OFFLINE_PAGE_MODEL_UTILS_H_
 

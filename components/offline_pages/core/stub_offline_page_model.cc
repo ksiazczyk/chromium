@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stub offline page model implementation
+// summary: No-op implementation of the OfflinePageModel interface that serves as a stub in tests and can be subclassed to mock specific methods.
+// ---
+
 #include "components/offline_pages/core/stub_offline_page_model.h"
 
 #include "base/files/file_path.h"

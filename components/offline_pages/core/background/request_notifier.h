@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RequestNotifier interface header
+// summary: Defines the RequestNotifier abstract interface for notifying observers about save page request events, including the BackgroundSavePageResult status enum.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_REQUEST_NOTIFIER_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_REQUEST_NOTIFIER_H_
 

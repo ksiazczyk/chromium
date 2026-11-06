@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for the offline pages core library
+summary: GN build configuration defining the core, test_support, and switches static libraries with their sources and dependencies for the offline pages component.

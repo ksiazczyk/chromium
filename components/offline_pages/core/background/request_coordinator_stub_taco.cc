@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RequestCoordinatorStubTaco test helper implementation
+// summary: Implements a test wrapper that builds a RequestCoordinator from stub dependencies, allowing tests to override individual components.
+// ---
+
 #include "components/offline_pages/core/background/request_coordinator_stub_taco.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Generator for offline page items in tests
+// summary: Declares OfflinePageItemGenerator, a test helper that builds offline page items with configurable namespace, URL, times, sizes and download IDs.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_MODEL_OFFLINE_PAGE_ITEM_GENERATOR_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_MODEL_OFFLINE_PAGE_ITEM_GENERATOR_H_
 

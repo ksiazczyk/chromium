@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Implementation of the offline page item generator
+// summary: Implements OfflinePageItemGenerator, creating configurable OfflinePageItem test instances, optionally together with a temporary MHTML archive file.
+// ---
+
 #include "components/offline_pages/core/model/offline_page_item_generator.h"
 
 #include "base/files/file_util.h"

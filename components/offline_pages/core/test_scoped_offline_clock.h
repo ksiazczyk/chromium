@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test scoped offline clock header
+// summary: Declares helpers that override OfflineClock with a controllable SimpleTestClock for the duration of a scope in tests.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_TEST_SCOPED_OFFLINE_CLOCK_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_TEST_SCOPED_OFFLINE_CLOCK_H_
 

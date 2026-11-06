@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RequestCoordinatorStubTaco test helper declaration
+// summary: Declares a taco-style wrapper for creating a RequestCoordinator in tests with replaceable stub policy, queue, offliner and scheduler dependencies.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_REQUEST_COORDINATOR_STUB_TACO_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_REQUEST_COORDINATOR_STUB_TACO_H_
 

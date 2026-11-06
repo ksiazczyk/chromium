@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Omnibox Dependency Rules
+summary: Specifies the include rules that control which other components and packages the omnibox code may depend on.

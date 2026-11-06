@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline page client policy definitions
+// summary: Builds and stores per-namespace offline page client policies, defining temporary and persistent namespaces with expiration periods, limits, and download settings.
+// ---
+
 #include "components/offline_pages/core/offline_page_client_policy.h"
 
 #include <map>

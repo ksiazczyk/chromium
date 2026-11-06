@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update request task base class for offline pages
+// summary: Declares UpdateRequestTask, a base Task that reads a single save page request from the request queue store and lets subclasses implement the update step.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_UPDATE_REQUEST_TASK_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_UPDATE_REQUEST_TASK_H_
 

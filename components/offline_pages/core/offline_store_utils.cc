@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline store utilities implementation
+// summary: Implements database time and file path conversions plus positive random offline ID generation for offline page stores.
+// ---
+
 #include "components/offline_pages/core/offline_store_utils.h"
 
 #include <limits>

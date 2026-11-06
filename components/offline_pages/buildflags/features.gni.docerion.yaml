@@ -1,0 +1,4 @@
+# Docerion header of features.gni.
+type: config
+title: Offline pages feature build arguments
+summary: Declares build arguments that enable Offline Pages support (Android by default) and the optional offline pages harness test API.

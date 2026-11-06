@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Offline pages unit tests build file
+summary: Defines GN build targets for offline_pages unit tests, including the offline_pages_unittests test and aggregated unit test dependencies across offline pages components.

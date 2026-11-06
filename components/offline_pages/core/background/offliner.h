@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offliner interface and request status enum
+// summary: Defines the Offliner interface for building offline pages from requests, including the RequestStatus enum and progress, completion, and cancel callback types.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_OFFLINER_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_OFFLINER_H_
 

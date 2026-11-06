@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test archiver for offline pages
+// summary: Fake archiver for tests that simulates creating offline page archive files and reports configurable results, titles, sizes and digests to its observer.
+// ---
+
 #include "components/offline_pages/core/offline_page_test_archiver.h"
 
 #include <string>

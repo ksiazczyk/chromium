@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectionNotifier class declaration
+// summary: Declares the ConnectionNotifier class, a network change observer that invokes a connected callback once the device has a network connection.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_CONNECTION_NOTIFIER_H_
 #define COMPONENTS_OFFLINE_PAGES_CORE_BACKGROUND_CONNECTION_NOTIFIER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test task runner helper for offline pages tasks
+// summary: Declares a test helper that runs task queue tasks in tests, expecting correct completion and optionally cleaning tasks up afterwards.
+// ---
+
 #ifndef COMPONENTS_OFFLINE_PAGES_TASK_TEST_TASK_RUNNER_H_
 #define COMPONENTS_OFFLINE_PAGES_TASK_TEST_TASK_RUNNER_H_
 
