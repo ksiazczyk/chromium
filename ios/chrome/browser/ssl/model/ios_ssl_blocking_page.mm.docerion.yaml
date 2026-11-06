@@ -1,0 +1,4 @@
+# Docerion header of ios_ssl_blocking_page.mm.
+type: source
+title: SSL blocking page implementation
+summary: Implements the SSL error interstitial, populating strings via SSLErrorUI and allowlisting certificates when users proceed past overridable errors.

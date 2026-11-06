@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Snapshot directory name constant
+// summary: Declares the constant naming the directory where tab snapshots are stored.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SNAPSHOTS_MODEL_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_SNAPSHOTS_MODEL_CONSTANTS_H_
 

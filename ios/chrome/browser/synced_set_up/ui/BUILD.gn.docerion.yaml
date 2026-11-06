@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Synced Set Up UI
+summary: Defines the GN source_set targets for the Synced Set Up UI sources and its unit tests, listing sources, dependencies and frameworks.

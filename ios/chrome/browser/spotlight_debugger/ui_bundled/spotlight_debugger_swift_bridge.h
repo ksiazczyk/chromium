@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Swift and Objective-C bridging header
+// summary: Bridging header that exposes pure Objective-C Spotlight types to the Swift sources of the debugger UI.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SPOTLIGHT_DEBUGGER_UI_BUNDLED_SPOTLIGHT_DEBUGGER_SWIFT_BRIDGE_H_
 #define IOS_CHROME_BROWSER_SPOTLIGHT_DEBUGGER_UI_BUNDLED_SPOTLIGHT_DEBUGGER_SWIFT_BRIDGE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of sync_preferences_egtest.mm.
+type: test
+title: Earl Grey tests for preference syncing
+summary: Verifies with a fake sync server that syncable preferences upload to and download from account storage on sign-in and sign-out.

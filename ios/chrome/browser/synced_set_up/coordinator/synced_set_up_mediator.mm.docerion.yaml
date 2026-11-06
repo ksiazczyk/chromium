@@ -1,0 +1,4 @@
+# Docerion header of synced_set_up_mediator.mm.
+type: source
+title: Synced Set Up mediator implementation
+summary: Implements the mediator that compares remote and local device preferences, applies them, and records outcome metrics for the setup flow.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SnackbarView interface
+// summary: Declares SnackbarView, a UIView that displays a snackbar message with a delegate, bottom offset, and animated present and dismiss methods.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SNACKBAR_UI_BUNDLED_UI_SNACKBAR_VIEW_H_
 #define IOS_CHROME_BROWSER_SNACKBAR_UI_BUNDLED_UI_SNACKBAR_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Snackbar view test app interface
+// summary: Declares app-side helpers for Earl Grey tests to show configured snackbars and manage a dummy keyboard text field.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SNACKBAR_UI_BUNDLED_SNACKBAR_VIEW_TEST_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_SNACKBAR_UI_BUNDLED_SNACKBAR_VIEW_TEST_APP_INTERFACE_H_
 

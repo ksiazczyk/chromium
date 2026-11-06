@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Sync directory owners
+summary: OWNERS file that delegates code review ownership of the sync directory to the owners of components/sync.

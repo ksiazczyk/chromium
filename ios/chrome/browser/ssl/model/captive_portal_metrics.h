@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Captive portal status enum header
+// summary: Declares the CaptivePortalStatus enum and the conversion function used for captive portal UMA metrics.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SSL_MODEL_CAPTIVE_PORTAL_METRICS_H_
 #define IOS_CHROME_BROWSER_SSL_MODEL_CAPTIVE_PORTAL_METRICS_H_
 

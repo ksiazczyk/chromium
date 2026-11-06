@@ -1,0 +1,4 @@
+# Docerion header of family_link_settings_service_factory.mm.
+type: source
+title: Family Link settings service factory implementation
+summary: Implements the FamilyLinkSettingsService factory, marking the service as required to initialize the profile PrefService via SupervisedUserPrefStore.

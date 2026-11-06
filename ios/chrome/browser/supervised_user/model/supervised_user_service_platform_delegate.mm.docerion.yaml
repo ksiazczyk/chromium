@@ -1,0 +1,4 @@
+# Docerion header of supervised_user_service_platform_delegate.mm.
+type: source
+title: Supervised user service platform delegate implementation
+summary: Implements the iOS platform delegate, supplying country code and release channel and closing all incognito tabs when supervised users sign in.

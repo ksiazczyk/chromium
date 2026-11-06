@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for iOS SSL model
+summary: Defines GN source sets for the iOS SSL model, including unit tests and Earl Grey test support targets with their dependencies.

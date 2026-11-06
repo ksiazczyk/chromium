@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for SSL model
+summary: Sets include rules limiting which directories this SSL model code is allowed to include from.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Snapshot feature flag declarations
+// summary: Declares feature flags for compressed JPEG quality, image downsampling, background decoding and concurrent file access.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SNAPSHOTS_MODEL_FEATURES_H_
 #define IOS_CHROME_BROWSER_SNAPSHOTS_MODEL_FEATURES_H_
 

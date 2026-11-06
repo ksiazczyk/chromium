@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for supervised user model
+summary: Defines GN source sets and dependencies for the iOS supervised user model, including capabilities and sync settings factory targets plus unit tests.

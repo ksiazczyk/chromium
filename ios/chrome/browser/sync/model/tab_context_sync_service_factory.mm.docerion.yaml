@@ -1,0 +1,4 @@
+# Docerion header of tab_context_sync_service_factory.mm.
+type: source
+title: Tab context sync service factory implementation
+summary: Implements the tab context sync service factory, building the service with a data type store and an HTTP RPC ephemeral key fetcher.

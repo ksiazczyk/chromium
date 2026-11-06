@@ -1,0 +1,4 @@
+# Docerion header of cross_device_pref_tracker_observer_bridge.mm.
+type: source
+title: Cross-device pref tracker observer bridge implementation
+summary: Forwards remote pref change and service status callbacks from the tracker to the Objective-C delegate observer.

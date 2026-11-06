@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device info sync service factory header
+// summary: Declares the profile-keyed factory for DeviceInfoSyncService plus a helper to gather device info trackers across profiles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SYNC_MODEL_DEVICE_INFO_SYNC_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_SYNC_MODEL_DEVICE_INFO_SYNC_SERVICE_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub Snackbar Coordinator Delegate Header
+// summary: Declares StubSnackbarCoordinatorDelegate, a test stub class implementing the SnackbarCoordinatorDelegate protocol.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SNACKBAR_UI_BUNDLED_STUB_SNACKBAR_COORDINATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_SNACKBAR_UI_BUNDLED_STUB_SNACKBAR_COORDINATOR_DELEGATE_H_
 

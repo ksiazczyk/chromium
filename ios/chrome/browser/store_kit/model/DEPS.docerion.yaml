@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: StoreKit model DEPS include rules
+summary: Grants store_kit_coordinator.h an exception to include the Chrome coordinator header, with a TODO to remove the dependency.

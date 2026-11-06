@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subscription eligibility service factory header
+// summary: Declares a profile-keyed service factory that associates SubscriptionEligibilityService instances with iOS profiles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SUBSCRIPTION_ELIGIBILITY_MODEL_SUBSCRIPTION_ELIGIBILITY_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_SUBSCRIPTION_ELIGIBILITY_MODEL_SUBSCRIPTION_ELIGIBILITY_SERVICE_FACTORY_H_
 

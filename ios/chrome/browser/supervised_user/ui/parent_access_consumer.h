@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parent access consumer protocol
+// summary: Declares a protocol for updating the parent access UI by setting the parent access web view and its visibility.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SUPERVISED_USER_UI_PARENT_ACCESS_CONSUMER_H_
 #define IOS_CHROME_BROWSER_SUPERVISED_USER_UI_PARENT_ACCESS_CONSUMER_H_
 

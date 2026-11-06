@@ -1,0 +1,4 @@
+# Docerion header of start_surface_recent_tab_browser_agent.mm.
+type: source
+title: Start Surface recent tab browser agent implementation
+summary: Implements saving and activating the most recent tab and notifying observers of title and favicon updates for the Start Surface.

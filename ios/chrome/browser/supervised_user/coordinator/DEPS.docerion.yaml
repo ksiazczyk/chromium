@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the supervised user coordinator
+summary: Declares the allowed include directories for this folder, covering the authentication and signin model paths.

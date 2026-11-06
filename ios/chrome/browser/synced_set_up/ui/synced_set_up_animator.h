@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncedSetUpAnimator interface
+// summary: Declares the animator that implements the custom presentation and dismissal transition for the Synced Set Up UI.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SYNCED_SET_UP_UI_SYNCED_SET_UP_ANIMATOR_H_
 #define IOS_CHROME_BROWSER_SYNCED_SET_UP_UI_SYNCED_SET_UP_ANIMATOR_H_
 

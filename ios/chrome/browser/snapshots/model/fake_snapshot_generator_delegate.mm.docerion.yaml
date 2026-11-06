@@ -1,0 +1,4 @@
+# Docerion header of fake_snapshot_generator_delegate.mm.
+type: test
+title: Fake snapshot generator delegate implementation
+summary: Implements the fake delegate, returning permissive default values for snapshot callbacks during testing.

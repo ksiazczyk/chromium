@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user URL filtering service factory header
+// summary: Declares the profile-keyed service factory that creates SupervisedUserUrlFilteringService instances for iOS Chrome profiles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SUPERVISED_USER_MODEL_SUPERVISED_USER_URL_FILTERING_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_SUPERVISED_USER_MODEL_SUPERVISED_USER_URL_FILTERING_SERVICE_FACTORY_H_
 

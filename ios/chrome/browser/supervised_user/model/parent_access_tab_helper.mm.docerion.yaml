@@ -1,0 +1,4 @@
+# Docerion header of parent_access_tab_helper.mm.
+type: source
+title: Parent access tab helper implementation
+summary: Parses PACP callback results from request URLs and notifies the delegate to hide the bottom sheet with approval or error outcomes.

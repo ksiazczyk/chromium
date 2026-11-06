@@ -1,0 +1,4 @@
+# Docerion header of image_file_manager_unittest.mm.
+type: test
+title: Image file manager unit tests
+summary: Unit tests verifying snapshot image reading, writing and JPEG compression behavior of the image file manager.

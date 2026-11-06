@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Start surface scene agent interface
+// summary: Declares StartSurfaceSceneAgent, an observing scene agent for the Start Surface.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_START_SURFACE_UI_BUNDLED_START_SURFACE_SCENE_AGENT_H_
 #define IOS_CHROME_BROWSER_START_SURFACE_UI_BUNDLED_START_SURFACE_SCENE_AGENT_H_
 

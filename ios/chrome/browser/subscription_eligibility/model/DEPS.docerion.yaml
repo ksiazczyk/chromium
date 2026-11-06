@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for subscription eligibility model
+summary: Allows includes of the subscription eligibility component and the shared iOS profile model within this directory.

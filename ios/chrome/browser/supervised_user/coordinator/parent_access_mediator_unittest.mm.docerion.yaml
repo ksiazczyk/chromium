@@ -1,0 +1,4 @@
+# Docerion header of parent_access_mediator_unittest.mm.
+type: test
+title: Parent access mediator unit tests
+summary: Unit tests for ParentAccessMediator using a fake web client, embedded test server, and test consumer and delegate to verify widget loading and timeout dismissal.

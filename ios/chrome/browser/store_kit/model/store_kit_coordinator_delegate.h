@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StoreKit coordinator delegate header
+// summary: Declares the StoreKitCoordinatorDelegate protocol used to request that the coordinator be stopped.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_STORE_KIT_MODEL_STORE_KIT_COORDINATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_STORE_KIT_MODEL_STORE_KIT_COORDINATOR_DELEGATE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of tab_insertion_browser_agent_unittest.mm.
+type: test
+title: TabInsertionBrowserAgent unit tests
+summary: Unit tests verifying tab insertion behavior for single, multiple, background, and grouped tab scenarios.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session sync service factory unit tests
+// summary: Unit tests verifying that ShouldSyncURL accepts valid web URLs and rejects invalid, file, and chrome scheme URLs.
+// ---
+
 #include "ios/chrome/browser/sync/model/session_sync_service_factory.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parent access bottom sheet view controller header
+// summary: Declares a bottom sheet view controller that displays the embedded PACP widget and conforms to the ParentAccessConsumer protocol.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SUPERVISED_USER_UI_PARENT_ACCESS_BOTTOM_SHEET_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SUPERVISED_USER_UI_PARENT_ACCESS_BOTTOM_SHEET_VIEW_CONTROLLER_H_
 

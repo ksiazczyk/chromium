@@ -1,0 +1,4 @@
+# Docerion header of sync_fake_server_egtest.mm.
+type: test
+title: Sync fake server Earl Grey tests
+summary: Earl Grey UI tests that verify syncing of bookmarks, reading list, and passwords against a fake sync server, including entity counts and passphrase handling.

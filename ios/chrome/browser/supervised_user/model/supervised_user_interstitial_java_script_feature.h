@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user interstitial JavaScript feature header
+// summary: Declares a JavaScript feature that listens for script messages from the supervised user interstitial error page.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SUPERVISED_USER_MODEL_SUPERVISED_USER_INTERSTITIAL_JAVA_SCRIPT_FEATURE_H_
 #define IOS_CHROME_BROWSER_SUPERVISED_USER_MODEL_SUPERVISED_USER_INTERSTITIAL_JAVA_SCRIPT_FEATURE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of supervised_user_with_parental_controls_egtest.mm.
+type: test
+title: Supervised user with parental controls Earl Grey tests
+summary: Earl Grey UI tests covering core supervised user journeys with FamilyLink parental controls, including interstitials, local web approvals, and sign-in persistence.

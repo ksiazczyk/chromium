@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncedSessions class header
+// summary: Declares a class that loads distant sessions from the session sync service and provides lookup, count, and removal by session tag.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SYNCED_SESSIONS_MODEL_SYNCED_SESSIONS_H_
 #define IOS_CHROME_BROWSER_SYNCED_SESSIONS_MODEL_SYNCED_SESSIONS_H_
 

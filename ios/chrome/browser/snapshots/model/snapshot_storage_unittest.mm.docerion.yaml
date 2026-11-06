@@ -1,0 +1,4 @@
+# Docerion header of snapshot_storage_unittest.mm.
+type: test
+title: SnapshotStorage unit tests
+summary: Unit tests covering snapshot caching, disk persistence, purging, storage migration and observer notifications.

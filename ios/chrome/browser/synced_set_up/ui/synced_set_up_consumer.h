@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncedSetUpConsumer protocol
+// summary: Declares the consumer protocol used to push the welcome message and avatar image to the Synced Set Up welcome screen.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SYNCED_SET_UP_UI_SYNCED_SET_UP_CONSUMER_H_
 #define IOS_CHROME_BROWSER_SYNCED_SET_UP_UI_SYNCED_SET_UP_CONSUMER_H_
 

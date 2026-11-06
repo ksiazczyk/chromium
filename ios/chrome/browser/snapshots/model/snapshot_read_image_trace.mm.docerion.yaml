@@ -1,0 +1,4 @@
+# Docerion header of snapshot_read_image_trace.mm.
+type: source
+title: SnapshotReadImageTrace implementation
+summary: Implements Perfetto trace events and flow IDs covering the post, background task, completion and decode steps of snapshot image reading.

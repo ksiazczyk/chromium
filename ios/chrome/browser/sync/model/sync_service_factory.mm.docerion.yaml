@@ -1,0 +1,4 @@
+# Docerion header of sync_service_factory.mm.
+type: source
+title: Sync service factory implementation
+summary: Builds the iOS sync service implementation and wires its many dependencies, including bookmarks, passwords, history, sharing, and collaboration services.

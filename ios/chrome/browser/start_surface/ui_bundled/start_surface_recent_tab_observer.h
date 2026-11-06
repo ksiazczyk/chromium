@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Start surface recent tab observer interface
+// summary: Declares the StartSurfaceRecentTabObserver interface for listening to removal, favicon and title updates of the most recent tab.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_START_SURFACE_UI_BUNDLED_START_SURFACE_RECENT_TAB_OBSERVER_H_
 #define IOS_CHROME_BROWSER_START_SURFACE_UI_BUNDLED_START_SURFACE_RECENT_TAB_OBSERVER_H_
 

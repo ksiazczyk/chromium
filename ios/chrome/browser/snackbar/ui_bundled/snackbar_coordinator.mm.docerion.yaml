@@ -1,0 +1,4 @@
+# Docerion header of snackbar_coordinator.mm.
+type: source
+title: Snackbar coordinator implementation
+summary: Presents snackbar messages with bottom offsets, haptic feedback, keyboard dismissal and overlay window handling.

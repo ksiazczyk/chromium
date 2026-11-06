@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for start_surface ui_bundled
+summary: Restricts allowed includes for the directory, covering signin, content suggestions, NTP metrics, signin model, tab insertion and tabs dependencies.

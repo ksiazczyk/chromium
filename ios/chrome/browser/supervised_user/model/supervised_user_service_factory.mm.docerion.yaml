@@ -1,0 +1,4 @@
+# Docerion header of supervised_user_service_factory.mm.
+type: source
+title: Supervised user service factory implementation
+summary: Implements the supervised user service factory, constructing services with the identity manager, URL loader factory, prefs, and an iOS platform delegate.

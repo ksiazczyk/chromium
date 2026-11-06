@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user service platform delegate header
+// summary: Declares the iOS platform delegate invoked by SupervisedUserService for country code, channel, and incognito tab handling.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SUPERVISED_USER_MODEL_SUPERVISED_USER_SERVICE_PLATFORM_DELEGATE_H_
 #define IOS_CHROME_BROWSER_SUPERVISED_USER_MODEL_SUPERVISED_USER_SERVICE_PLATFORM_DELEGATE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of sync_invalidations_service_factory.mm.
+type: source
+title: Sync invalidations service factory implementation
+summary: Builds the sync invalidations service per profile using the GCM driver and InstanceID driver dependencies.

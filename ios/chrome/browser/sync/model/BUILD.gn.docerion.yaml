@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the iOS sync model sources
+summary: Defines the sync model source set and its dependencies for the iOS Chrome sync layer.

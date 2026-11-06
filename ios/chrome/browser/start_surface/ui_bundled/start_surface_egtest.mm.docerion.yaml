@@ -1,0 +1,4 @@
+# Docerion header of start_surface_egtest.mm.
+type: test
+title: Start Surface Earl Grey integration tests
+summary: Contains Earl Grey integration tests for Start Surface user flows, including cold start behavior and tab resumption tile visibility.

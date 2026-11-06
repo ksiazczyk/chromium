@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Synced Set Up coordinator build configuration
+summary: Defines the GN source sets for the Synced Set Up coordinator and its unit tests, listing sources, dependencies, and frameworks.

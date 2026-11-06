@@ -1,0 +1,4 @@
+# Docerion header of family_link_user_capabilities_observer_bridge.mm.
+type: source
+title: Family Link user capabilities observer bridge implementation
+summary: Bridges C++ FamilyLinkUserCapabilitiesObserver capability change callbacks to the Objective-C FamilyLinkUserCapabilitiesObserving protocol.

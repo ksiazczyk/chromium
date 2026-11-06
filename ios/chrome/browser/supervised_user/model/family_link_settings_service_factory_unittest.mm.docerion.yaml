@@ -1,0 +1,4 @@
+# Docerion header of family_link_settings_service_factory_unittest.mm.
+type: test
+title: Family Link settings service factory unit tests
+summary: Verifies that the factory creates a FamilyLinkSettingsService for a test profile.

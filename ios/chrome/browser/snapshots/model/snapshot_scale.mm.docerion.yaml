@@ -1,0 +1,4 @@
+# Docerion header of snapshot_scale.mm.
+type: source
+title: SnapshotImageScale device scale logic
+summary: Returns the snapshot image scale for the current device, using 1x on tablets and capping handsets at 2x to limit memory use.

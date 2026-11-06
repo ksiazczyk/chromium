@@ -1,0 +1,4 @@
+# Docerion header of snapshot_source_tab_helper_unittest.mm.
+type: test
+title: SnapshotSourceTabHelper unit tests
+summary: Unit tests verifying that SnapshotSourceTabHelper delegates snapshot calls to the original or overriding WebState.

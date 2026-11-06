@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Tab insertion model include rules
+summary: DEPS file listing the directories this model folder is allowed to include headers from.

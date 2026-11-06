@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Sync directory metadata
+summary: DIR_METADATA file for the iOS Chrome sync directory, inheriting metadata from the common components/sync mixin.

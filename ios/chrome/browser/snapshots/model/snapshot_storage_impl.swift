@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SnapshotStorageImpl implementation
+// summary: Implements in-memory and on-disk snapshot storage with LRU caching, purging of old images, migration and observer notifications.
+// ---
+
 // Base size in number of elements that the LRU cache can hold before starting to evict elements.
 let kLRUCacheBaseCapacity = 10
 

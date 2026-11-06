@@ -1,0 +1,4 @@
+# Docerion header of supervised_user_capabilities.mm.
+type: source
+title: Supervised user capabilities implementation
+summary: Implements IsSubjectToParentalControls by checking the primary account's parental controls capability, treating off-the-record profiles as unrestricted.

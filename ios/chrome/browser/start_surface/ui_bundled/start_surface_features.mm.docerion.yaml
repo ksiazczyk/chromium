@@ -1,0 +1,4 @@
+# Docerion header of start_surface_features.mm.
+type: source
+title: Start Surface feature flags implementation
+summary: Defines the kStartSurfaceUserSetting feature and returns the inactive duration for showing the tab group in grid, with a testing override via user defaults.

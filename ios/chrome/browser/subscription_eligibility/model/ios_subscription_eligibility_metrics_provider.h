@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS subscription eligibility metrics provider header
+// summary: Declares IOSSubscriptionEligibilityMetricsProvider, which supplies current-session subscription tier data to Chrome metrics.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SUBSCRIPTION_ELIGIBILITY_MODEL_IOS_SUBSCRIPTION_ELIGIBILITY_METRICS_PROVIDER_H_
 #define IOS_CHROME_BROWSER_SUBSCRIPTION_ELIGIBILITY_MODEL_IOS_SUBSCRIPTION_ELIGIBILITY_METRICS_PROVIDER_H_
 

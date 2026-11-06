@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SnapshotIDWrapper interface
+// summary: Objective-C wrapper header exposing SnapshotID to Swift with identifier, validity, hashing, and equality methods.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SNAPSHOTS_MODEL_SNAPSHOT_ID_WRAPPER_H_
 #define IOS_CHROME_BROWSER_SNAPSHOTS_MODEL_SNAPSHOT_ID_WRAPPER_H_
 

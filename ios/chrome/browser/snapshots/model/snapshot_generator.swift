@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Snapshot generator
+// summary: Swift class that generates snapshot images for a web state using WKWebView or UIKit-based APIs, with optional overlays.
+// ---
+
 import UIKit
 
 // A class that generates snapshot images for the WebState associated with this class.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncedSessionsObserverBridge header
+// summary: Declares the SyncedSessionsObserver protocol and a bridge class that notifies an owner when foreign synced sessions change.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SYNCED_SESSIONS_MODEL_SYNCED_SESSIONS_BRIDGE_H_
 #define IOS_CHROME_BROWSER_SYNCED_SESSIONS_MODEL_SYNCED_SESSIONS_BRIDGE_H_
 

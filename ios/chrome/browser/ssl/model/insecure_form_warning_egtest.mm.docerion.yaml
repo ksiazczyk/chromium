@@ -1,0 +1,4 @@
+# Docerion header of insecure_form_warning_egtest.mm.
+type: test
+title: Insecure form warning Earl Grey tests
+summary: UI tests verifying the insecure form submission warning dialog, covering feature-enabled, feature-disabled, and policy-controlled scenarios.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Snackbar UI include rules
+summary: Allowlists includes from the snackbar UI directory to intelligence bwg utils and feature headers.

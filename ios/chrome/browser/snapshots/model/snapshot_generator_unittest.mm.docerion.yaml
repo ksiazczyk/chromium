@@ -1,0 +1,4 @@
+# Docerion header of snapshot_generator_unittest.mm.
+type: test
+title: Snapshot generator unit tests
+summary: Unit tests verifying UIKit-based and WebKit-based snapshot generation with a fake delegate and fake web state.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SnapshotImageScale declarations
+// summary: Declares the ImageScale enum and the SnapshotImageScale class that reports the image scale used for the current device.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SNAPSHOTS_MODEL_SNAPSHOT_SCALE_H_
 #define IOS_CHROME_BROWSER_SNAPSHOTS_MODEL_SNAPSHOT_SCALE_H_
 

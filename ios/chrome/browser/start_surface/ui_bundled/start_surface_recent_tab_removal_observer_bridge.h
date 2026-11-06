@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Start surface recent tab observer bridge interface
+// summary: Declares the StartSurfaceRecentTabObserving protocol and a bridge class that lets Objective-C objects listen to most recent tab updates.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_START_SURFACE_UI_BUNDLED_START_SURFACE_RECENT_TAB_REMOVAL_OBSERVER_BRIDGE_H_
 #define IOS_CHROME_BROWSER_START_SURFACE_UI_BUNDLED_START_SURFACE_RECENT_TAB_REMOVAL_OBSERVER_BRIDGE_H_
 

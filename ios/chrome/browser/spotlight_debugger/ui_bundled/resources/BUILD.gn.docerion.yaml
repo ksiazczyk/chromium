@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Spotlight debugger resources build definition
+summary: Declares the asset catalog sources bundled for the iOS spotlight debugger UI resources.

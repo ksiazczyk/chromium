@@ -1,0 +1,4 @@
+# Docerion header of synced_sessions.mm.
+type: source
+title: SyncedSessions implementation
+summary: Implements the SyncedSessions model that loads foreign synced sessions from the session sync service, keeps them sorted by most recent modification time, and supports lookup and removal by tag.

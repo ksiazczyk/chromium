@@ -1,0 +1,4 @@
+# Docerion header of supervised_user_metrics_service_factory.mm.
+type: source
+title: Supervised user metrics service factory implementation
+summary: Implements the metrics service factory, building per-profile SupervisedUserMetricsService instances that depend on the URL filtering service and device parental controls.

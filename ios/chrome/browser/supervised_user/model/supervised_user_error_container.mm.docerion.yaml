@@ -1,0 +1,4 @@
+# Docerion header of supervised_user_error_container.mm.
+type: source
+title: Supervised user error container implementation
+summary: Implements the supervised user error container, wiring URL filtering, FamilyLink settings, and parent access commands to build and update interstitials.

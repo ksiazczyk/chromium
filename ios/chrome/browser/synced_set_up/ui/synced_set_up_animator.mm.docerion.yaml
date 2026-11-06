@@ -1,0 +1,4 @@
+# Docerion header of synced_set_up_animator.mm.
+type: source
+title: SyncedSetUpAnimator implementation
+summary: Implements the Synced Set Up transition, using a spring animation for presentation and a radial wipe animation for dismissal.

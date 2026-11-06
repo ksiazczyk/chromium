@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Synced Set Up UI include rules
+summary: Declares the DEPS include rules for the directory, allowing includes from the tab grid UI.

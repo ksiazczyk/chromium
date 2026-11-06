@@ -1,0 +1,4 @@
+# Docerion header of spotlight_debugger_coordinator.mm.
+type: source
+title: Spotlight debugger coordinator implementation
+summary: Objective-C++ coordinator that creates the debugger view controller, wires per-profile Spotlight managers, and navigates to the all-items list.

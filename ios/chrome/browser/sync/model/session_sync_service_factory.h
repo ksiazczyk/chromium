@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session sync service factory header
+// summary: Declares the singleton factory owning SessionSyncService instances per iOS profile, with a URL-sync testing hook.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SYNC_MODEL_SESSION_SYNC_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_SYNC_MODEL_SESSION_SYNC_SERVICE_FACTORY_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: StoreKit model build definition (BUILD.gn)
+summary: Defines the model source set and unit test target for the iOS StoreKit coordinator, listing sources, dependencies and linked frameworks.

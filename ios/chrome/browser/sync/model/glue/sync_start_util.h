@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header declaring sync start flare utilities
+// summary: Declares GetFlareForSyncableService, which builds a StartSyncFlare a SyncableService can run from any thread to tell the SyncService to start sync ASAP.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SYNC_MODEL_GLUE_SYNC_START_UTIL_H_
 #define IOS_CHROME_BROWSER_SYNC_MODEL_GLUE_SYNC_START_UTIL_H_
 

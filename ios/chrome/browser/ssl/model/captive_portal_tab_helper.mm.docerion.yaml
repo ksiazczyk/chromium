@@ -1,0 +1,4 @@
+# Docerion header of captive_portal_tab_helper.mm.
+type: source
+title: CaptivePortalTabHelper implementation
+summary: Implements the captive portal tab helper, opening the login page through the tab insertion browser agent.

@@ -1,0 +1,4 @@
+# Docerion header of ios_subscription_eligibility_metrics_provider.mm.
+type: source
+title: iOS subscription eligibility metrics provider implementation
+summary: Computes the AI subscription tier status across loaded profiles and records it as a histogram and synthetic field trial.

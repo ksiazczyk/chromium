@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supervised user URL filter tab helper header
+// summary: Declares a tab helper and web state policy decider that handles filtered URL requests for supervised users.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SUPERVISED_USER_MODEL_SUPERVISED_USER_URL_FILTER_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_SUPERVISED_USER_MODEL_SUPERVISED_USER_URL_FILTER_TAB_HELPER_H_
 

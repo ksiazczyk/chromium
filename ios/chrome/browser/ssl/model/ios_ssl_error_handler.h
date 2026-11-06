@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL error handler header
+// summary: Declares the per-WebState handler that decides whether an SSL or captive portal interstitial should be shown for a certificate error.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SSL_MODEL_IOS_SSL_ERROR_HANDLER_H_
 #define IOS_CHROME_BROWSER_SSL_MODEL_IOS_SSL_ERROR_HANDLER_H_
 

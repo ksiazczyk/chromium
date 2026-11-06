@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS web content handler interface
+// summary: Declares IOSWebContentHandlerImpl, the iOS implementation of supervised_user::WebContentHandler for local approvals and interstitial handling.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SUPERVISED_USER_MODEL_IOS_WEB_CONTENT_HANDLER_IMPL_H_
 #define IOS_CHROME_BROWSER_SUPERVISED_USER_MODEL_IOS_WEB_CONTENT_HANDLER_IMPL_H_
 

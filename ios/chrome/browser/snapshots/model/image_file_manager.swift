@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image file manager for snapshot storage
+// summary: Swift class that reads, writes, renames and deletes snapshot images on disk using a background queue with main-thread callbacks.
+// ---
+
 import System
 import UIKit
 

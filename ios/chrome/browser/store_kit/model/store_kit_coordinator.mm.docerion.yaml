@@ -1,0 +1,4 @@
+# Docerion header of store_kit_coordinator.mm.
+type: source
+title: StoreKit coordinator implementation
+summary: Implements starting and stopping the SKStoreProductViewController presentation and notifies the delegate when the product view finishes.

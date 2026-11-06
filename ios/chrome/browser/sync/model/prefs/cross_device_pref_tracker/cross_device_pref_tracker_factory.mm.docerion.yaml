@@ -1,0 +1,4 @@
+# Docerion header of cross_device_pref_tracker_factory.mm.
+type: source
+title: Cross-device pref tracker factory implementation
+summary: Implements the factory, building the platform-agnostic CrossDevicePrefTrackerImpl only when the feature flag is enabled.

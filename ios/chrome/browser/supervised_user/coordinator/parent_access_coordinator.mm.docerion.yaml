@@ -1,0 +1,4 @@
+# Docerion header of parent_access_coordinator.mm.
+type: source
+title: Parent access coordinator implementation
+summary: Implements the coordinator by creating the WebState and tab helper, building the parent access URL, and managing the mediator, bottom sheet, and snackbar feedback.

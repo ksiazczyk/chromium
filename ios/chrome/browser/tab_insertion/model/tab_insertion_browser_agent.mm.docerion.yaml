@@ -1,0 +1,4 @@
+# Docerion header of tab_insertion_browser_agent.mm.
+type: source
+title: TabInsertionBrowserAgent implementation
+summary: Implements tab insertion logic, creating realized or unrealized web states and applying start surface, animation, and tab group settings.

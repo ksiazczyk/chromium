@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StoreKit coordinator header
+// summary: Declares the StoreKitCoordinator interface that presents the App Store product view controller using iTunes product parameters.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_STORE_KIT_MODEL_STORE_KIT_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_STORE_KIT_MODEL_STORE_KIT_COORDINATOR_H_
 

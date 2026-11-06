@@ -1,0 +1,4 @@
+# Docerion header of ios_ssl_error_handler.mm.
+type: source
+title: SSL error handler implementation
+summary: Implements SSL error handling with captive portal detection, strict-enforcement checks, and metrics for showing the appropriate interstitial.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SnapshotManager protocol
+// summary: Declares the Objective-C protocol for creating, storing and retrieving tab page snapshots, including generation without overlays.
+// ---
+
 // A protocol that takes care of creating, storing and retrieving snapshots.
 @MainActor
 @objc public protocol SnapshotManager {

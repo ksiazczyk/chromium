@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Snackbar coordinator header
+// summary: Declares the ChromeCoordinator subclass that handles commands to show snackbar messages in iOS Chrome.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SNACKBAR_UI_BUNDLED_SNACKBAR_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_SNACKBAR_UI_BUNDLED_SNACKBAR_COORDINATOR_H_
 

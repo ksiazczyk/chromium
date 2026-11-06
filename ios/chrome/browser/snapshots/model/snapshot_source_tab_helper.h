@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SnapshotSourceTabHelper declarations
+// summary: Declares a per-tab helper that takes snapshots of the tab's WebState or an overriding source such as Reader mode content.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SNAPSHOTS_MODEL_SNAPSHOT_SOURCE_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_SNAPSHOTS_MODEL_SNAPSHOT_SOURCE_TAB_HELPER_H_
 

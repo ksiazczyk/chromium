@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for subscription_eligibility
+summary: OWNERS file for the iOS subscription_eligibility browser folder that delegates review ownership to the cross-platform components/subscription_eligibility OWNERS file.

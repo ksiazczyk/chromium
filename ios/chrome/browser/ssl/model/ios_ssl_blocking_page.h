@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL blocking page header
+// summary: Declares the interstitial page shown on SSL certificate errors, including handling of overridable versus strict errors.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SSL_MODEL_IOS_SSL_BLOCKING_PAGE_H_
 #define IOS_CHROME_BROWSER_SSL_MODEL_IOS_SSL_BLOCKING_PAGE_H_
 

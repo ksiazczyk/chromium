@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake snapshot generator delegate header
+// summary: Declares a no-op SnapshotGeneratorDelegate that unit tests can subclass to implement only part of the protocol.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SNAPSHOTS_MODEL_FAKE_SNAPSHOT_GENERATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_SNAPSHOTS_MODEL_FAKE_SNAPSHOT_GENERATOR_DELEGATE_H_
 

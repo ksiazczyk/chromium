@@ -1,0 +1,4 @@
+# Docerion header of snapshot_id_wrapper.mm.
+type: source
+title: SnapshotIDWrapper implementation
+summary: Implements the SnapshotIDWrapper Objective-C class, wrapping SnapshotID with hashing, equality, and NSCopying support.

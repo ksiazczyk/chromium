@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test sync service utilities
+// summary: Provides a helper that creates a TestSyncService keyed service instance for use in iOS profile-based tests.
+// ---
+
 #include "ios/chrome/browser/sync/model/test_sync_service_utils.h"
 
 #include "components/sync/test/test_sync_service.h"

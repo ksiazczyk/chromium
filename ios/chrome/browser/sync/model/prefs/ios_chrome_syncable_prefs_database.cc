@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS Chrome syncable prefs database implementation
+// summary: Lists iOS-specific syncable preferences with their sync metadata IDs, sensitivity, merge and write behaviors in a fixed flat map.
+// ---
+
 #include "ios/chrome/browser/sync/model/prefs/ios_chrome_syncable_prefs_database.h"
 
 #include <string_view>

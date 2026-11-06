@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS user event service factory header
+// summary: Declares the singleton factory that associates UserEventService instances with iOS profiles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SYNC_MODEL_IOS_USER_EVENT_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_SYNC_MODEL_IOS_USER_EVENT_SERVICE_FACTORY_H_
 

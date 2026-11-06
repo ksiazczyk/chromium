@@ -1,0 +1,4 @@
+# Docerion header of supervised_user_metrics_service_factory_unittest.mm.
+type: test
+title: Supervised user metrics service factory unit tests
+summary: Unit tests verifying the factory creates a metrics service for regular profiles and returns null for off-the-record profiles.

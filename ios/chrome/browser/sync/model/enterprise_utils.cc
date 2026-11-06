@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise sync utilities implementation
+// summary: Implements HasManagedSyncDataType, which reports whether any sync data type is managed by policy.
+// ---
+
 #include "ios/chrome/browser/sync/model/enterprise_utils.h"
 
 #include "components/sync/base/user_selectable_type.h"

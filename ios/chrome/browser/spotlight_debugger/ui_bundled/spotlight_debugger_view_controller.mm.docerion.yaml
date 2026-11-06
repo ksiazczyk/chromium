@@ -1,0 +1,4 @@
+# Docerion header of spotlight_debugger_view_controller.mm.
+type: source
+title: Spotlight debugger view controller implementation
+summary: Objective-C++ table view controller showing Spotlight availability and index status plus commands to clear or reindex bookmarks, reading list, tabs and top sites.

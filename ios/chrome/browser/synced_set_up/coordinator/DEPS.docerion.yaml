@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Synced Set Up coordinator include rules
+summary: Specifies the allowed include directories for the coordinator folder, with an extra rule permitting a promo features header in unit tests.

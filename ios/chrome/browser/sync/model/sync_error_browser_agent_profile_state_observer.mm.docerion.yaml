@@ -1,0 +1,4 @@
+# Docerion header of sync_error_browser_agent_profile_state_observer.mm.
+type: source
+title: Sync error browser agent profile state observer implementation
+summary: Implements the profile state observer that notifies the sync error browser agent when the profile reaches its final init stage.

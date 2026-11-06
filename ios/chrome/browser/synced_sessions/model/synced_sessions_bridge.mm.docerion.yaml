@@ -1,0 +1,4 @@
+# Docerion header of synced_sessions_bridge.mm.
+type: source
+title: SyncedSessionsObserverBridge implementation
+summary: Subscribes to foreign session change notifications from the session sync service and forwards them to the owning observer.

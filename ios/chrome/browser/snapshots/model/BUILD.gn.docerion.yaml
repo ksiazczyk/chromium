@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Snapshots model BUILD.gn build targets
+summary: Defines the GN source sets and dependencies for the snapshots model, including Swift, common, test utility and unit test targets.

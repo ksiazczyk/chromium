@@ -1,0 +1,4 @@
+# Docerion header of fake_synced_sessions.mm.
+type: source
+title: FakeSyncedSessions test support implementation
+summary: Implements the fake SyncedSessions class, storing sessions added for testing purposes.

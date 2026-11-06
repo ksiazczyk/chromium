@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synced Set Up mediator delegate protocol
+// summary: Declares the SyncedSetUpMediatorDelegate protocol with callbacks for showing, starting, and completing the Synced Set Up flow.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SYNCED_SET_UP_COORDINATOR_SYNCED_SET_UP_MEDIATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_SYNCED_SET_UP_COORDINATOR_SYNCED_SET_UP_MEDIATOR_DELEGATE_H_
 

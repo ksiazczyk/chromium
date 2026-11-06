@@ -1,0 +1,4 @@
+# Docerion header of start_surface_recent_tab_observer.mm.
+type: source
+title: Start surface recent tab observer implementation
+summary: Implements the StartSurfaceRecentTabObserver destructor that checks observers are removed from the observer list before destruction.

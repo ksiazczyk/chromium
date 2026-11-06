@@ -1,0 +1,4 @@
+# Docerion header of snapshot_id_wrapper_unittest.mm.
+type: test
+title: SnapshotIDWrapper unit tests
+summary: Unit tests verifying equality, hashing, and NSMutableSet behavior of SnapshotIDWrapper instances.

@@ -1,0 +1,4 @@
+# Docerion header of store_kit_coordinator_unittest.mm.
+type: test
+title: StoreKit coordinator unit tests
+summary: Unit tests verifying that the coordinator presents SKStoreProductViewController with product parameters and does not present overlapping store views.

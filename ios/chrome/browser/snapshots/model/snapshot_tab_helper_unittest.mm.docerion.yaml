@@ -1,0 +1,4 @@
+# Docerion header of snapshot_tab_helper_unittest.mm.
+type: test
+title: SnapshotTabHelper unit tests
+summary: Unit tests for SnapshotTabHelper covering snapshot generation, retrieval, and storage using a fake delegate, fake web state, and a temporary snapshot storage directory.

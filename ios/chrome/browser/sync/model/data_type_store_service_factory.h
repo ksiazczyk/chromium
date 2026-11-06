@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data type store service factory header
+// summary: Declares the singleton factory that associates DataTypeStoreService instances with each ProfileIOS.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SYNC_MODEL_DATA_TYPE_STORE_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_SYNC_MODEL_DATA_TYPE_STORE_SERVICE_FACTORY_H_
 

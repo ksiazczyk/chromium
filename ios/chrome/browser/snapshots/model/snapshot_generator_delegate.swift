@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Snapshot generator delegate protocol
+// summary: Swift protocol defining the delegate interface for SnapshotGenerator, supplying the base view, insets, and overlays for snapshot capture.
+// ---
+
 import UIKit
 
 // Protocol for the SnapshotGenerator's delegate.

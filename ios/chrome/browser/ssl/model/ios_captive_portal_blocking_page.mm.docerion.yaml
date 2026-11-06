@@ -1,0 +1,4 @@
+# Docerion header of ios_captive_portal_blocking_page.mm.
+type: source
+title: Captive portal blocking page implementation
+summary: Implements the captive portal interstitial, populating its strings and opening the captive portal login page when the open-login command is issued.

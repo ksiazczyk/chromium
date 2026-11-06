@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Snackbar UI build definition
+summary: Defines GN source sets for the snackbar coordinator plus Earl Grey app support, test support and EG2 test targets.

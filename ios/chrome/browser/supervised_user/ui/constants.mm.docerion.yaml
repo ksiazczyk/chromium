@@ -1,0 +1,4 @@
+# Docerion header of constants.mm.
+type: source
+title: Parent access accessibility identifier constants implementation
+summary: Defines the accessibility identifier string constants for the parent access view and close button declared in constants.h.

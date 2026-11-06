@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Start Surface recent tab browser agent header
+// summary: Declares a browser agent that manages the most recent WebState for the Start Surface, tracking removals and favicon updates and notifying observers.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_START_SURFACE_UI_BUNDLED_START_SURFACE_RECENT_TAB_BROWSER_AGENT_H_
 #define IOS_CHROME_BROWSER_START_SURFACE_UI_BUNDLED_START_SURFACE_RECENT_TAB_BROWSER_AGENT_H_
 

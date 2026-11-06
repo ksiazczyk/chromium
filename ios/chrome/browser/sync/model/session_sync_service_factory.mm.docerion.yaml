@@ -1,0 +1,4 @@
+# Docerion header of session_sync_service_factory.mm.
+type: source
+title: Session sync service factory for iOS Chrome
+summary: Objective-C++ implementation that builds per-profile session sync services, wiring the sync sessions client, local session event router, device info, history, and URL filtering rules.

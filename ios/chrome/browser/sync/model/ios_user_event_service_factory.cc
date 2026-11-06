@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS user event service factory implementation
+// summary: Profile-keyed factory that builds UserEventService instances for syncing user events, returning a no-op service for incognito profiles.
+// ---
+
 #include "ios/chrome/browser/sync/model/ios_user_event_service_factory.h"
 
 #include <memory>

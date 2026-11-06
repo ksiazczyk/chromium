@@ -1,0 +1,4 @@
+# Docerion header of synced_set_up_view_controller_unittest.mm.
+type: test
+title: SyncedSetUpViewController unit tests
+summary: Unit tests verifying view controller initialization, view setup, and the welcome message and avatar image consumer methods.

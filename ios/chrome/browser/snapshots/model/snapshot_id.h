@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SnapshotID type
+// summary: Defines a distinct C++ type wrapping an int32 identifier used to uniquely name snapshot files across application restarts.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SNAPSHOTS_MODEL_SNAPSHOT_ID_H_
 #define IOS_CHROME_BROWSER_SNAPSHOTS_MODEL_SNAPSHOT_ID_H_
 
