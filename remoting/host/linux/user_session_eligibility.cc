@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User session eligibility checks
+// summary: Implements checks for which UIDs and login shells may run desktop sessions, reading valid shells via getusershell from /etc/shells.
+// ---
+
 #include "remoting/host/linux/user_session_eligibility.h"
 
 #include <unistd.h>

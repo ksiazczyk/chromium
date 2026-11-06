@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remote display session manager unit tests
+// summary: Unit tests for RemoteDisplaySessionManager covering session info readiness, remote display removal, and startup-blocking queries.
+// ---
+
 #include "remoting/host/linux/remote_display_session_manager.h"
 
 #include <string>

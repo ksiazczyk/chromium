@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Systemd user environment setter header
+// summary: Declares SetSystemdUserEnvironment, a synchronous, thread-unsafe helper that fetches systemd user environment variables for the current process.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_SYSTEMD_USER_ENV_SETTER_H_
 #define REMOTING_HOST_LINUX_SYSTEMD_USER_ENV_SETTER_H_
 

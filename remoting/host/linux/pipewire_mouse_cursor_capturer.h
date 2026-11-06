@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PipeWire mouse cursor capturer
+// summary: Declares PipewireMouseCursorCapturer, which observes capture streams and display info to share the latest cursor shape and position with registered observers.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_PIPEWIRE_MOUSE_CURSOR_CAPTURER_H_
 #define REMOTING_HOST_LINUX_PIPEWIRE_MOUSE_CURSOR_CAPTURER_H_
 

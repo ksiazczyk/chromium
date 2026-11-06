@@ -4,6 +4,12 @@
 
 // This file was generated from org_freedesktop_portal_ScreenCast.xml
 
+// ---docerion
+// type: source
+// title: Freedesktop portal ScreenCast D-Bus interface structs
+// summary: Generated C++ structs for the org.freedesktop.portal.ScreenCast D-Bus interface, including session methods, PipeWire remote access, and readable properties.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_DBUS_INTERFACES_ORG_FREEDESKTOP_PORTAL_SCREENCAST_H_
 #define REMOTING_HOST_LINUX_DBUS_INTERFACES_ORG_FREEDESKTOP_PORTAL_SCREENCAST_H_
 

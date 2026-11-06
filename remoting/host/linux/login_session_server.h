@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login session server header
+// summary: Declares LoginSessionServer, a Mojo server on a named platform channel for session information queries, with a delegate for Chrome Remote Desktop session checks.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_LOGIN_SESSION_SERVER_H_
 #define REMOTING_HOST_LINUX_LOGIN_SESSION_SERVER_H_
 

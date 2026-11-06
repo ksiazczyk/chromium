@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped portal request implementation
+// summary: Implements the RAII portal request helper that creates, subscribes to, and closes xdg-desktop-portal requests over D-Bus.
+// ---
+
 #include "remoting/host/linux/scoped_portal_request.h"
 
 #include <string>

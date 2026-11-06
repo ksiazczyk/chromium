@@ -4,6 +4,12 @@
 
 // This file was generated from org.freedesktop.DBus.Properties.xml
 
+// ---docerion
+// type: source
+// title: org.freedesktop.DBus.Properties D-Bus interface header
+// summary: Generated C++ header describing the Get, GetAll, and Set methods and the PropertiesChanged signal of the org.freedesktop.DBus.Properties interface.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_DBUS_INTERFACES_ORG_FREEDESKTOP_DBUS_PROPERTIES_H_
 #define REMOTING_HOST_LINUX_DBUS_INTERFACES_ORG_FREEDESKTOP_DBUS_PROPERTIES_H_
 

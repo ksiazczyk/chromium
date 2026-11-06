@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GNOME RemoteDesktop clipboard implementation
+// summary: Implements clipboard synchronization over GNOME Mutter's RemoteDesktop D-Bus interface, handling selection ownership, transfer signals and UTF-8 text exchange.
+// ---
+
 #include "remoting/host/linux/clipboard_gnome.h"
 
 #include <algorithm>

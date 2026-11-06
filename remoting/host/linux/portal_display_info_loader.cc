@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Portal display info loader implementation
+// summary: Builds DesktopDisplayInfo from active portal capture streams and their initial rects, with known limitations for DPI and layout changes.
+// ---
+
 #include "remoting/host/linux/portal_display_info_loader.h"
 
 #include "base/logging.h"

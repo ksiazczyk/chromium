@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedPortalSession header
+// summary: Declares the ScopedPortalSession RAII class that manages a portal session handle and token, closing the session on destruction.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_SCOPED_PORTAL_SESSION_H_
 #define REMOTING_HOST_LINUX_SCOPED_PORTAL_SESSION_H_
 

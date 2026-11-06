@@ -1,0 +1,4 @@
+# Docerion header of permission_utils.mm.
+type: source
+title: macOS permission check and dialog utilities
+summary: Objective-C++ helpers that check macOS accessibility and screen recording permissions and show dialogs directing users to System Settings.

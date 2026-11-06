@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PipeWire audio injector implementation
+// summary: Implements audio injection on Linux by creating a virtual PipeWire source and pumping audio from a FIFO buffer reader into it.
+// ---
+
 #include "remoting/host/linux/pipewire_audio_injector.h"
 
 #include <pipewire/pipewire.h>

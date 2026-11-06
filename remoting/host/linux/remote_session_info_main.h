@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote session info main declaration
+// summary: Declares the exported RemoteSessionInfoMain entry function for the remote session info tool.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_REMOTE_SESSION_INFO_MAIN_H_
 #define REMOTING_HOST_LINUX_REMOTE_SESSION_INFO_MAIN_H_
 

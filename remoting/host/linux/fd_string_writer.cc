@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File descriptor string writer implementation
+// summary: Writes a string asynchronously to a file descriptor, reporting completion or errors through a callback.
+// ---
+
 #include "remoting/host/linux/fd_string_writer.h"
 
 #include <unistd.h>

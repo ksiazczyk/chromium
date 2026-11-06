@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Portal curtain mode header
+// summary: Declares PortalCurtainMode, a CurtainMode implementation for portal-based remote desktop sessions.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_PORTAL_CURTAIN_MODE_H_
 #define REMOTING_HOST_LINUX_PORTAL_CURTAIN_MODE_H_
 

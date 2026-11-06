@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GDBusConnectionRef implementation
+// summary: Implements GDBusConnectionRef, a wrapper around GDBusConnection that connects to session or system buses and issues asynchronous D-Bus method calls with file descriptor lists.
+// ---
+
 #include "remoting/host/linux/gdbus_connection_ref.h"
 
 #include <gio/gio.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote display session manager implementation
+// summary: Implements management of GDM remote displays and their systemd login sessions over D-Bus, including creating and terminating remote displays.
+// ---
+
 #include "remoting/host/linux/remote_display_session_manager.h"
 
 #include <pwd.h>

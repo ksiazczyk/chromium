@@ -5,6 +5,12 @@
 // This file was generated from org.freedesktop.systemd1.Manager.xml and
 // manually edited to remove unneeded parts.
 
+// ---docerion
+// type: source
+// title: systemd Manager D-Bus interface structs
+// summary: Generated and manually trimmed C++ structs for the org.freedesktop.systemd1.Manager D-Bus interface, covering unit lookup methods and the Environment property.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_DBUS_INTERFACES_ORG_FREEDESKTOP_SYSTEMD1_MANAGER_H_
 #define REMOTING_HOST_LINUX_DBUS_INTERFACES_ORG_FREEDESKTOP_SYSTEMD1_MANAGER_H_
 

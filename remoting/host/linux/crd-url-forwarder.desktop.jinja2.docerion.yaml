@@ -1,0 +1,4 @@
+# Docerion header of crd-url-forwarder.desktop.jinja2.
+type: config
+title: Chrome Remote Desktop URL forwarder desktop entry template
+summary: Jinja2 template for a desktop entry that registers the remote-open-url command as the handler for http, https and mailto links.

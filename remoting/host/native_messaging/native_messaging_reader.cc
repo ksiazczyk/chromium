@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native messaging reader implementation
+// summary: Implements NativeMessagingReader, which reads length-prefixed JSON messages from the client on a background thread and enforces a 1 MB message size limit.
+// ---
+
 #include "remoting/host/native_messaging/native_messaging_reader.h"
 
 #include <array>

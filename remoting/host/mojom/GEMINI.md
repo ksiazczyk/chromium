@@ -1,3 +1,12 @@
+---
+type: readme
+title: Remoting host Mojo interfaces overview
+summary: Directory guide mapping each Mojo interface to the host processes that use it, with security, versioning, extension and traits testing guidelines.
+relations:
+  - documents /remoting/host/mojom/remoting_mojom_traits.h
+  - documents /remoting/host/mojom/remoting_mojom_traits_unittest.cc
+---
+
 # Remoting Host Mojo Interfaces
 
 This directory defines the Mojo interfaces for IPC between CRD host processes.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PipeWire audio capturer header
+// summary: Declares the PipewireAudioCapturer class, a PipeWire-based AudioCapturer that captures audio from a virtual sink.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_PIPEWIRE_AUDIO_CAPTURER_H_
 #define REMOTING_HOST_LINUX_PIPEWIRE_AUDIO_CAPTURER_H_
 

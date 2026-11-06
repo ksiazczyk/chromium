@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GNOME display config monitor implementation
+// summary: Implements GnomeDisplayConfigMonitor, which tracks the current GNOME display configuration and notifies registered observers of changes.
+// ---
+
 #include "remoting/host/linux/gnome_display_config_monitor.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionRoutingConfig implementation
+// summary: Loads and validates the session_routing.json file with ownership, permission and symlink security checks, and resolves which local Linux user incoming remote desktop connections route to.
+// ---
+
 #include "remoting/host/linux/session_routing_config.h"
 
 #include <fcntl.h>

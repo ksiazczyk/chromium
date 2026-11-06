@@ -1,0 +1,4 @@
+# Docerion header of linux_me2me_host.py.
+type: script
+title: Linux Me2Me host daemon script
+summary: Python daemon that launches and manages the X server, desktop session, and host processes for a Virtual Me2Me Chrome Remote Desktop host.

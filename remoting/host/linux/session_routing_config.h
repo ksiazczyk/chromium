@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionRoutingConfig header
+// summary: Declares the SessionRoutingConfig class that parses session_routing.json and maps client identities to local Linux user sessions.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_SESSION_ROUTING_CONFIG_H_
 #define REMOTING_HOST_LINUX_SESSION_ROUTING_CONFIG_H_
 

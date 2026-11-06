@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CertificateWatcher class declaration
+// summary: Declares CertificateWatcher, which monitors the certificate database and schedules a host restart on changes, deferring restarts while a client is connected.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_CERTIFICATE_WATCHER_H_
 #define REMOTING_HOST_LINUX_CERTIFICATE_WATCHER_H_
 

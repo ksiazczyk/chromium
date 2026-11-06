@@ -6,6 +6,12 @@
 # PipeWire, and desktop environment management) and process supervision helpers
 # used by Chrome Remote Desktop Linux scripts.
 
+# ---docerion
+# type: source
+# title: Chrome Remote Desktop Linux session shared library
+# summary: Shared Python library providing desktop session startup and process supervision logic for Xorg/Xvfb, Wayland and PipeWire used by Chrome Remote Desktop Linux scripts.
+# ---
+
 import sys
 if sys.version_info[0] != 3 or sys.version_info[1] < 5:
   print("This script requires Python version 3.5")

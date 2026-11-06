@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FdStringWriter header for async string writes to file descriptors
+// summary: Declares FdStringWriter, a class that asynchronously writes a string to a file descriptor and closes the descriptor when the write object is destroyed.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_FD_STRING_WRITER_H_
 #define REMOTING_HOST_LINUX_FD_STRING_WRITER_H_
 

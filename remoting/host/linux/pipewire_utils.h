@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PipeWire utilities header
+// summary: Declares scoped RAII wrappers for PipeWire objects, the loader singleton, initialization, and stream creation helpers.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_PIPEWIRE_UTILS_H_
 #define REMOTING_HOST_LINUX_PIPEWIRE_UTILS_H_
 

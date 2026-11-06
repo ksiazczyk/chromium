@@ -1,3 +1,12 @@
+---
+type: guide
+title: D-Bus interface header generation guide
+summary: Step-by-step instructions for building the generator, introspecting a D-Bus interface, generating a C++ header, and updating build rules.
+relations:
+  - documents /remoting/host/linux/dbus_interfaces/gen_dbus_interface.cc
+  - references /remoting/host/linux/dbus_interfaces/BUILD.gn
+---
+
 # D-Bus Interface Header Generation
 
 This directory contains C++ headers generated from D-Bus interface definitions.

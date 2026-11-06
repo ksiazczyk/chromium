@@ -4,6 +4,12 @@
 
 // This file was generated from org_freedesktop_ScreenSaver.xml
 
+// ---docerion
+// type: source
+// title: org.freedesktop.ScreenSaver D-Bus interface header
+// summary: Generated C++ header describing the methods and ActiveChanged signal of the org.freedesktop.ScreenSaver interface for idle and inhibit handling.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_DBUS_INTERFACES_ORG_FREEDESKTOP_SCREENSAVER_H_
 #define REMOTING_HOST_LINUX_DBUS_INTERFACES_ORG_FREEDESKTOP_SCREENSAVER_H_
 

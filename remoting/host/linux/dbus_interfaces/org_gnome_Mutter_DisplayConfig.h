@@ -4,6 +4,12 @@
 
 // This file was generated from org.gnome.Mutter.DisplayConfig.xml
 
+// ---docerion
+// type: source
+// title: GNOME Mutter DisplayConfig D-Bus interface structs
+// summary: Generated C++ structs for the org.gnome.Mutter.DisplayConfig D-Bus interface, covering display resource queries, configuration changes, and backlight and gamma control.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_DBUS_INTERFACES_ORG_GNOME_MUTTER_DISPLAYCONFIG_H_
 #define REMOTING_HOST_LINUX_DBUS_INTERFACES_ORG_GNOME_MUTTER_DISPLAYCONFIG_H_
 

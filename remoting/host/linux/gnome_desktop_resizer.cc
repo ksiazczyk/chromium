@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GNOME desktop resizer implementation
+// summary: Implements desktop resolution resizing for GNOME sessions, choosing supported scales and applying monitor configurations via the Mutter D-Bus API.
+// ---
+
 #include "remoting/host/linux/gnome_desktop_resizer.h"
 
 #include <array>

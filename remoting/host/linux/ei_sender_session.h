@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EI sender session header
+// summary: Declares EiSenderSession, which manages a sender-client EIS connection for injecting emulated input events.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_EI_SENDER_SESSION_H_
 #define REMOTING_HOST_LINUX_EI_SENDER_SESSION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GnomeHeadlessDetector implementation
+// summary: Detects whether the GNOME Wayland session is headless by querying systemd over D-Bus for active GNOME Shell units and checking their ExecStart arguments.
+// ---
+
 #include "remoting/host/linux/gnome_headless_detector.h"
 
 #include <algorithm>

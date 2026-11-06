@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Systemd user environment setter implementation
+// summary: Imports systemd user manager environment variables into the current process, polling the D-Bus socket until DISPLAY or WAYLAND_DISPLAY is set or a timeout occurs.
+// ---
+
 #include "remoting/host/linux/systemd_user_env_setter.h"
 
 #include <systemd/sd-bus.h>

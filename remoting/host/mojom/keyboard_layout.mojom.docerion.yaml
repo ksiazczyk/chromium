@@ -1,0 +1,4 @@
+# Docerion header of keyboard_layout.mojom.
+type: source
+title: Keyboard layout Mojo types
+summary: Defines keyboard layout enums, unions and structs shared over IPC between desktop and network processes, mirroring remoting proto types.

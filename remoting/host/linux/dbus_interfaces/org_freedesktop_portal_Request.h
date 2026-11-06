@@ -4,6 +4,12 @@
 
 // This file was generated from org.freedesktop.portal.Request.xml
 
+// ---docerion
+// type: source
+// title: Freedesktop portal Request D-Bus interface structs
+// summary: Generated C++ structs for the org.freedesktop.portal.Request D-Bus interface, covering the Close method and the Response signal.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_DBUS_INTERFACES_ORG_FREEDESKTOP_PORTAL_REQUEST_H_
 #define REMOTING_HOST_LINUX_DBUS_INTERFACES_ORG_FREEDESKTOP_PORTAL_REQUEST_H_
 

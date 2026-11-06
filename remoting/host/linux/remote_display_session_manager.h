@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote display session manager header
+// summary: Declares RemoteDisplaySessionManager, which creates or terminates GDM remote displays and tracks their login sessions and user information, requiring root privileges.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_REMOTE_DISPLAY_SESSION_MANAGER_H_
 #define REMOTING_HOST_LINUX_REMOTE_DISPLAY_SESSION_MANAGER_H_
 

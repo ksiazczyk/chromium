@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 desktop resizer implementation
+// summary: Resizes the X11 desktop for remote sessions using RANDR modes and GNOME display settings.
+// ---
+
 #include "remoting/host/linux/desktop_resizer_x11.h"
 
 #include <gio/gio.h>

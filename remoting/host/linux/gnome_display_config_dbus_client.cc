@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GNOME display config D-Bus client implementation
+// summary: Implements an asynchronous D-Bus client that queries, applies, and subscribes to org.gnome.Mutter.DisplayConfig monitor configurations.
+// ---
+
 #include "remoting/host/linux/gnome_display_config_dbus_client.h"
 
 #include <algorithm>

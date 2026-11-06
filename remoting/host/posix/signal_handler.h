@@ -6,6 +6,12 @@
 // and trigger the specified callback. It is used on Linux and Mac in order to
 // reload the me2me host configuration.
 
+// ---docerion
+// type: source
+// title: POSIX signal handler header
+// summary: Declares the SignalHandler callback type and RegisterSignalHandler API used to safely handle signals such as SIGHUP for reloading the me2me host configuration on Linux and Mac.
+// ---
+
 #ifndef REMOTING_HOST_POSIX_SIGNAL_HANDLER_H_
 #define REMOTING_HOST_POSIX_SIGNAL_HANDLER_H_
 

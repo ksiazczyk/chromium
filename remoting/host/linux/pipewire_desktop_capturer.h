@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PipeWire desktop capturer
+// summary: Declares PipewireDesktopCapturer, a DesktopCapturer that captures one screen via a PipewireCaptureStream and relays capture results to its callback.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_PIPEWIRE_DESKTOP_CAPTURER_H_
 #define REMOTING_HOST_LINUX_PIPEWIRE_DESKTOP_CAPTURER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for D-Bus interface headers
+summary: Defines the gen_dbus_interface executable and the source set of generated D-Bus interface headers for the Linux remoting host.

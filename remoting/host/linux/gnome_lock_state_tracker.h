@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GnomeLockStateTracker header
+// summary: Declares the LockStateTracker implementation that reads and tracks keyboard lock state for a GNOME remote desktop session.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_GNOME_LOCK_STATE_TRACKER_H_
 #define REMOTING_HOST_LINUX_GNOME_LOCK_STATE_TRACKER_H_
 

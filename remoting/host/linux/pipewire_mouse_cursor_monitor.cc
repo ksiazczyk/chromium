@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PipeWire mouse cursor monitor implementation
+// summary: Implements PipewireMouseCursorMonitor, forwarding cursor shape and fractional position updates from the capturer to a protocol mouse cursor callback.
+// ---
+
 #include "remoting/host/linux/pipewire_mouse_cursor_monitor.h"
 
 #include <memory>

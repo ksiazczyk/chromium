@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Agent process broker unit tests
+// summary: Unit and multiprocess tests for the agent process broker covering process suspension, resumption, termination and Chromoting host services binding.
+// ---
+
 #include "remoting/host/mac/agent_process_broker.h"
 
 #include <inttypes.h>

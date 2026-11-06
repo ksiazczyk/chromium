@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process code-signature trust verification
+// summary: Implements IsProcessTrusted, verifying a process's code signature against Google's Developer ID requirements, skipping checks on non-official builds.
+// ---
+
 #include "remoting/host/mac/trust_util.h"
 
 #include <string>

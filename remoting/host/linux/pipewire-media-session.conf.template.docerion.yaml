@@ -1,0 +1,4 @@
+# Docerion header of pipewire-media-session.conf.template.
+type: config
+title: PipeWire media session configuration template
+summary: Template for a PipeWire media session configuration that loads core modules and default session modules such as portal, policy-node, and metadata.

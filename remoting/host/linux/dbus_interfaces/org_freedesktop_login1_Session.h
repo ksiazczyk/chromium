@@ -4,6 +4,12 @@
 
 // This file was generated from org.freedesktop.login1.Session.xml
 
+// ---docerion
+// type: source
+// title: org.freedesktop.login1.Session D-Bus interface header
+// summary: Generated C++ header describing the methods and signals of the systemd logind org.freedesktop.login1.Session interface for session control.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_DBUS_INTERFACES_ORG_FREEDESKTOP_LOGIN1_SESSION_H_
 #define REMOTING_HOST_LINUX_DBUS_INTERFACES_ORG_FREEDESKTOP_LOGIN1_SESSION_H_
 

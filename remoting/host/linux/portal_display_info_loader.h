@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Portal display info loader header
+// summary: Declares PortalDisplayInfoLoader, which loads current display information from the portal capture stream manager.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_PORTAL_DISPLAY_INFO_LOADER_H_
 #define REMOTING_HOST_LINUX_PORTAL_DISPLAY_INFO_LOADER_H_
 

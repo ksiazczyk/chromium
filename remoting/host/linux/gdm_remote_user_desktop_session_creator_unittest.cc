@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GDM remote user desktop session creator unit tests
+// summary: Unit tests verifying that unknown-method and service-unknown D-Bus errors are classified as GDM not-supported errors while other errors are not.
+// ---
+
 #include "remoting/host/linux/gdm_remote_user_desktop_session_creator.h"
 
 #include <string_view>

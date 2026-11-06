@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: GVariant compile-time type strings
+// summary: Declares the Type class holding GVariant type strings with compile-time checks, subtype relations, container unpacking and common supertype utilities.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_GVARIANT_TYPE_H_
 #define REMOTING_HOST_LINUX_GVARIANT_TYPE_H_
 

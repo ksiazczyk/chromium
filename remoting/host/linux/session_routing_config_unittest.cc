@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SessionRoutingConfig unit tests
+// summary: Unit tests covering session_routing.json loading, including missing files, symlinks, ownership, group and world writability, and JSON validation.
+// ---
+
 #include "remoting/host/linux/session_routing_config.h"
 
 #include <sys/stat.h>

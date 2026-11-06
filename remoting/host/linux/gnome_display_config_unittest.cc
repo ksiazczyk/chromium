@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GnomeDisplayConfig unit tests
+// summary: Unit tests for GnomeDisplayConfig covering screen ID mapping, monitor lookup, removal of invalid monitors, and physical versus logical layout info.
+// ---
+
 #include "remoting/host/linux/gnome_display_config.h"
 
 #include <string_view>

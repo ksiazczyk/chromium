@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux desktop session header
+// summary: Declares DesktopSessionLinux, which manages the desktop worker process, its cgroup attachment, and IPC between the daemon and desktop processes.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_DESKTOP_SESSION_LINUX_H_
 #define REMOTING_HOST_LINUX_DESKTOP_SESSION_LINUX_H_
 

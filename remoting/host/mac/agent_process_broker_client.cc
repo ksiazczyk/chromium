@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Agent process broker client implementation
+// summary: Implements the client side that connects agent processes to the broker over named Mojo IPC and handles termination and disconnect callbacks.
+// ---
+
 #include "remoting/host/mac/agent_process_broker_client.h"
 
 #include <memory>

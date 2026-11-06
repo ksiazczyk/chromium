@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GnomeLockStateTracker implementation
+// summary: Tracks CapsLock and NumLock state by reading GNOME Mutter RemoteDesktop D-Bus properties and subscribing to property change signals.
+// ---
+
 #include "remoting/host/linux/gnome_lock_state_tracker.h"
 
 #include "base/functional/bind.h"

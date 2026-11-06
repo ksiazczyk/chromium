@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Peer connection Seccomp-BPF policy
+// summary: Implements a Seccomp-BPF syscall policy for the Linux Peer Connection process, denying process execution, raw sockets and filesystem changes while allowing WebRTC, threading and IPC syscalls.
+// ---
+
 #include "remoting/host/linux/peer_connection_bpf_policy_linux.h"
 
 #include <errno.h>

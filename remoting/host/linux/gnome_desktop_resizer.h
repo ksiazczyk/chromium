@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GNOME desktop resizer header
+// summary: Declares GnomeDesktopResizer, a DesktopResizer that gets, sets, and restores screen resolutions and video layouts on GNOME displays.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_GNOME_DESKTOP_RESIZER_H_
 #define REMOTING_HOST_LINUX_GNOME_DESKTOP_RESIZER_H_
 

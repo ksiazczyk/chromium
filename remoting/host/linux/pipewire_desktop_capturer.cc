@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PipeWire desktop capturer implementation
+// summary: Implements PipewireDesktopCapturer, which captures a single screen by forwarding start, frame rate, pause, and shared memory requests to a provided PipeWire capture stream.
+// ---
+
 #include "remoting/host/linux/pipewire_desktop_capturer.h"
 
 #include <cstdint>

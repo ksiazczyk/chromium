@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 display utilities header
+// summary: Declares helpers for calculating X11 monitor DPI and converting RandR monitor information into video track configurations.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_X11_DISPLAY_UTIL_H_
 #define REMOTING_HOST_LINUX_X11_DISPLAY_UTIL_H_
 

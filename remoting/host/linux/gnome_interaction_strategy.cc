@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GnomeInteractionStrategy implementation
+// summary: Creates GNOME/Wayland host components such as the action executor, EI input injector, PipeWire capturers, curtain mode, and desktop resizer.
+// ---
+
 #include "remoting/host/linux/gnome_interaction_strategy.h"
 
 #include <memory>

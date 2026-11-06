@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PipeWire mouse cursor monitor
+// summary: Declares PipewireMouseCursorMonitor, a protocol MouseCursorMonitor backed by PipewireMouseCursorCapturer that reports initial and updated cursor information.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_PIPEWIRE_MOUSE_CURSOR_MONITOR_H_
 #define REMOTING_HOST_LINUX_PIPEWIRE_MOUSE_CURSOR_MONITOR_H_
 

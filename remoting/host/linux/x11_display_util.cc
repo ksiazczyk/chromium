@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 display utilities implementation
+// summary: Implements helpers that calculate monitor DPI from physical size and convert X11 RandR monitor information into video track layouts.
+// ---
+
 #include "remoting/host/linux/x11_display_util.h"
 
 #include <stdint.h>

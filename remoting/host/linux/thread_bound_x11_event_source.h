@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thread-bound X11 event source header
+// summary: Declares a helper that owns a ui::X11EventSource per thread so X events are dispatched and cleaned up safely.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_THREAD_BOUND_X11_EVENT_SOURCE_H_
 #define REMOTING_HOST_LINUX_THREAD_BOUND_X11_EVENT_SOURCE_H_
 

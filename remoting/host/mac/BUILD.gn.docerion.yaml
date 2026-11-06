@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the macOS remoting host
+summary: Defines GN source sets, executables and bundle data for the macOS remoting host, including the agent process broker, host service and permission checking targets.

@@ -4,6 +4,12 @@
 
 // This file was generated from org.gnome.Mutter.RemoteDesktop.xml
 
+// ---docerion
+// type: source
+// title: GNOME Mutter RemoteDesktop D-Bus interface structs
+// summary: Generated C++ structs for the org.gnome.Mutter.RemoteDesktop D-Bus interfaces, covering session creation, start and stop, and pointer and keyboard input notification.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_DBUS_INTERFACES_ORG_GNOME_MUTTER_REMOTEDESKTOP_H_
 #define REMOTING_HOST_LINUX_DBUS_INTERFACES_ORG_GNOME_MUTTER_REMOTEDESKTOP_H_
 

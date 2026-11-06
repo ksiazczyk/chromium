@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CaptureStreamManager interface for PipeWire streams
+// summary: Declares an interface for adding and removing PipeWire capture streams, managing virtual monitors and notifying observers when monitor streams are added or removed.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_CAPTURE_STREAM_MANAGER_H_
 #define REMOTING_HOST_LINUX_CAPTURE_STREAM_MANAGER_H_
 

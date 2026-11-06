@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GVariantRef scoped wrapper for GLib variants
+// summary: Declares GVariantRef, a reference-counted C++ wrapper around GLib GVariant with compile-time type safety and conversions to and from standard C++ types.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_GVARIANT_REF_H_
 #define REMOTING_HOST_LINUX_GVARIANT_REF_H_
 

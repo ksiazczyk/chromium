@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Portal remote desktop session implementation
+// summary: Implements a singleton that creates and manages a D-Bus portal remote desktop session, including screencast streams, clipboard, display info and EI input session setup.
+// ---
+
 #include "remoting/host/linux/portal_remote_desktop_session.h"
 
 #include <gio/gio.h>

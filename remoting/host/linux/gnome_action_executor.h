@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GNOME action executor class declaration
+// summary: Declares a GNOME-specific ActionExecutor that performs remote actions such as locking the screen via D-Bus.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_GNOME_ACTION_EXECUTOR_H_
 #define REMOTING_HOST_LINUX_GNOME_ACTION_EXECUTOR_H_
 

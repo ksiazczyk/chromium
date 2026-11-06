@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Portal interaction strategy implementation
+// summary: Implements the portal-based desktop interaction strategy, creating PipeWire and EI backed capturers, injectors, resizers and monitors for Linux remote desktop sessions.
+// ---
+
 #include "remoting/host/linux/portal_interaction_strategy.h"
 
 #include <memory>

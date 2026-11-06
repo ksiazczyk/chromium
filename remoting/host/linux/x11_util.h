@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 host utility header
+// summary: Declares X11 utility functions for server grabs, virtual session detection, atom lookup, and setting RANDR output physical size.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_X11_UTIL_H_
 #define REMOTING_HOST_LINUX_X11_UTIL_H_
 

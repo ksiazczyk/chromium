@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux worker process launcher delegate declaration
+// summary: Declares LinuxWorkerProcessLauncherDelegate, which launches and monitors worker processes, possibly as another user, over an IPC channel.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_LINUX_PROCESS_LAUNCHER_DELEGATE_H_
 #define REMOTING_HOST_LINUX_LINUX_PROCESS_LAUNCHER_DELEGATE_H_
 

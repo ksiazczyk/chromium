@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock state tracker interface
+// summary: Defines an interface for tracking Caps Lock and Num Lock states, with setters to preload expected states after asynchronous lock state modifications.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_LOCK_STATE_TRACKER_H_
 #define REMOTING_HOST_LINUX_LOCK_STATE_TRACKER_H_
 

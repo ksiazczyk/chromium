@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native messaging pipe implementation
+// summary: Implements NativeMessagingPipe, which connects an extensions NativeMessageHost to a messaging channel and relays JSON messages in both directions.
+// ---
+
 #include "remoting/host/native_messaging/native_messaging_pipe.h"
 
 #include <utility>

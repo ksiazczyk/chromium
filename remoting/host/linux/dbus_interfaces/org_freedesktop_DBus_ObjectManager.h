@@ -4,6 +4,12 @@
 
 // This file was generated from org.freedesktop.DBus.ObjectManager.xml
 
+// ---docerion
+// type: source
+// title: org.freedesktop.DBus.ObjectManager D-Bus interface header
+// summary: Generated C++ header describing the GetManagedObjects method and InterfacesAdded and InterfacesRemoved signals of the org.freedesktop.DBus.ObjectManager interface.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_DBUS_INTERFACES_ORG_FREEDESKTOP_DBUS_OBJECTMANAGER_H_
 #define REMOTING_HOST_LINUX_DBUS_INTERFACES_ORG_FREEDESKTOP_DBUS_OBJECTMANAGER_H_
 

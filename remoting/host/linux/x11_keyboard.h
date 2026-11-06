@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 keyboard interface
+// summary: Defines an interface for accessing the X11 keyboard, simulating key presses, finding keycodes for characters, and changing key mappings.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_X11_KEYBOARD_H_
 #define REMOTING_HOST_LINUX_X11_KEYBOARD_H_
 

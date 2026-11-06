@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac host constants implementation
+// summary: Defines macOS host constants including service and broker names, install and config paths, plist locations, log files and native messaging manifest paths.
+// ---
+
 #include "remoting/host/mac/constants_mac.h"
 
 #include "remoting/host/version.h"

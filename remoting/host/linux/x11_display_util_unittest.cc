@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: X11 display utility unit tests
+// summary: Unit tests verifying monitor DPI calculation and conversion of X11 RandR monitor information into video track layouts.
+// ---
+
 #include "remoting/host/linux/x11_display_util.h"
 
 #include "remoting/proto/control.pb.h"

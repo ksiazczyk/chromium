@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 desktop resizer header
+// summary: Declares DesktopResizerX11, which changes and restores screen resolutions via X11 RandR and GNOME display settings, including HiDPI scaling support.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_DESKTOP_RESIZER_X11_H_
 #define REMOTING_HOST_LINUX_DESKTOP_RESIZER_X11_H_
 

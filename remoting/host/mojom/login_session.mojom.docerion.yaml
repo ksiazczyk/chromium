@@ -1,0 +1,4 @@
+# Docerion header of login_session.mojom.
+type: source
+title: Login session service Mojo interface
+summary: Linux-only interface letting the untrusted session info process ask the trusted daemon whether it runs in a Chrome Remote Desktop session.

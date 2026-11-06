@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Portal desktop resizer implementation
+// summary: Implements the DesktopResizer interface by reading and setting resolutions of portal capture streams.
+// ---
+
 #include "remoting/host/linux/portal_desktop_resizer.h"
 
 #include "base/logging.h"

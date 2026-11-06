@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake capture stream implementation
+// summary: Implements fake CaptureStream and CaptureStreamManager doubles used to test PipeWire screen capture handling.
+// ---
+
 #include "remoting/host/linux/fake_capture_stream.h"
 
 #include <memory>

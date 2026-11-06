@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GnomeHeadlessDetector header
+// summary: Declares GnomeHeadlessDetector, which asynchronously reports whether the GNOME session runs headless via a callback.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_GNOME_HEADLESS_DETECTOR_H_
 #define REMOTING_HOST_LINUX_GNOME_HEADLESS_DETECTOR_H_
 

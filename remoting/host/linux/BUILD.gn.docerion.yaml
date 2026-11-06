@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the Linux remoting host
+summary: GN build configuration defining copy steps, executables and targets for the Chrome Remote Desktop Linux host.

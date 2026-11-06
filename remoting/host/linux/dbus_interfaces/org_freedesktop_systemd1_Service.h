@@ -5,6 +5,12 @@
 // This file was generated from org.freedesktop.systemd1.Service.xml and
 // manually edited to remove unneeded parts.
 
+// ---docerion
+// type: source
+// title: systemd Service D-Bus interface structs
+// summary: Generated and manually trimmed C++ structs for the org.freedesktop.systemd1.Service D-Bus interface, exposing the readable ExecStart property.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_DBUS_INTERFACES_ORG_FREEDESKTOP_SYSTEMD1_SERVICE_H_
 #define REMOTING_HOST_LINUX_DBUS_INTERFACES_ORG_FREEDESKTOP_SYSTEMD1_SERVICE_H_
 

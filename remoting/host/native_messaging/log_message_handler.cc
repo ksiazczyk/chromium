@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Log message handler implementation
+// summary: Implements LogMessageHandler, which intercepts Chromium log messages and forwards them thread-safely to a delegate for delivery over a native messaging channel.
+// ---
+
 #include "remoting/host/native_messaging/log_message_handler.h"
 
 #include <string_view>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for native messaging
+summary: Defines the native_messaging source set, listing the component sources and its dependencies on //base and the extensions native messaging target.

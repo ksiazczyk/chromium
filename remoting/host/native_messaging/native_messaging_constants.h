@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native messaging message key constant declarations
+// summary: Declares shared constants for native messaging message keys, including the hello handshake, host version, and supported features fields.
+// ---
+
 #ifndef REMOTING_HOST_NATIVE_MESSAGING_NATIVE_MESSAGING_CONSTANTS_H_
 #define REMOTING_HOST_NATIVE_MESSAGING_NATIVE_MESSAGING_CONSTANTS_H_
 

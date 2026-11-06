@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PipeWire capture stream
+// summary: Declares PipewireCaptureStream, a CaptureStream implementation that wraps a PipeWire screencast stream for a logical monitor, handling frames, resolution, and cursor capture.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_PIPEWIRE_CAPTURE_STREAM_H_
 #define REMOTING_HOST_LINUX_PIPEWIRE_CAPTURE_STREAM_H_
 

@@ -4,6 +4,12 @@
 
 // This file was generated from org.gnome.DisplayManager.xml
 
+// ---docerion
+// type: source
+// title: GNOME DisplayManager D-Bus interface structs
+// summary: Generated C++ structs for the org.gnome.DisplayManager D-Bus interfaces, covering remote display creation methods and related properties across GDM versions.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_DBUS_INTERFACES_ORG_GNOME_DISPLAYMANAGER_H_
 #define REMOTING_HOST_LINUX_DBUS_INTERFACES_ORG_GNOME_DISPLAYMANAGER_H_
 

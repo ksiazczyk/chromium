@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Agent process broker client class declaration
+// summary: Declares AgentProcessBrokerClient, which connects to the broker server and forwards agent process lifecycle events to callbacks.
+// ---
+
 #ifndef REMOTING_HOST_MAC_AGENT_PROCESS_BROKER_CLIENT_H_
 #define REMOTING_HOST_MAC_AGENT_PROCESS_BROKER_CLIENT_H_
 

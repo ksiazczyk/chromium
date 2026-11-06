@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission process utilities implementation
+// summary: Checks host permissions by launching the Me2Me or remote assistance host binary with a permission-check switch and inspecting its exit code.
+// ---
+
 #include "remoting/host/mac/permission_process_utils.h"
 
 #include <fcntl.h>

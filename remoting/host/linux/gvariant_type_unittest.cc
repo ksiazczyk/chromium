@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GVariantType unit tests
+// summary: Unit tests validating type string validity, subtype relationships, common types and contained type computations for GVariant Type.
+// ---
+
 #include "remoting/host/linux/gvariant_type.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

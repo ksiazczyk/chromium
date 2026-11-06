@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login session server implementation
+// summary: Implements a named Mojo IPC server that lets the session info process query whether its PID belongs to a Chrome Remote Desktop graphical session.
+// ---
+
 #include "remoting/host/linux/login_session_server.h"
 
 #include <systemd/sd-login.h>

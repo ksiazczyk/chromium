@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Agent process broker constants
+// summary: Defines the custom Mojo disconnect reason constant used when the broker asks an agent process to terminate itself.
+// ---
+
 #ifndef REMOTING_HOST_MAC_AGENT_PROCESS_BROKER_CONSTANTS_H_
 #define REMOTING_HOST_MAC_AGENT_PROCESS_BROKER_CONSTANTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped GLib utilities implementation
+// summary: Implements the GVariant deleter and the TakeGVariant helper that sinks floating references for scoped GLib ownership.
+// ---
+
 #include "remoting/host/linux/scoped_glib.h"
 
 namespace remoting {

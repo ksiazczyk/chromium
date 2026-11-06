@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login session manager header
+// summary: Declares LoginSessionManager, a wrapper around org.freedesktop.login1 D-Bus interfaces for managing systemd login sessions, requiring the process to run as root.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_LOGIN_SESSION_MANAGER_H_
 #define REMOTING_HOST_LINUX_LOGIN_SESSION_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User session eligibility header
+// summary: Declares functions that check whether a UID and login shell are eligible for desktop sessions and list valid login shells.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_USER_SESSION_ELIGIBILITY_H_
 #define REMOTING_HOST_LINUX_USER_SESSION_ELIGIBILITY_H_
 

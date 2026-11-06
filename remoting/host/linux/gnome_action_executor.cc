@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GNOME action executor implementation
+// summary: Implements host action execution on GNOME by locking the workstation through the org.gnome.ScreenSaver D-Bus interface.
+// ---
+
 #include "remoting/host/linux/gnome_action_executor.h"
 
 #include <tuple>

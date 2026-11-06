@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GDM remote user desktop session creator class declaration
+// summary: Declares a RemoteUserDesktopSessionCreator that asks GDM 50+ to start a headless user session via the CreateUserDisplay D-Bus method.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_GDM_REMOTE_USER_DESKTOP_SESSION_CREATOR_H_
 #define REMOTING_HOST_LINUX_GDM_REMOTE_USER_DESKTOP_SESSION_CREATOR_H_
 

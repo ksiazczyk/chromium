@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GVariantType implementation
+// summary: Implements TypeBase conversion to GVariantType and the runtime Type constructor for GVariant type strings.
+// ---
+
 #include "remoting/host/linux/gvariant_type.h"
 
 #include <glib.h>

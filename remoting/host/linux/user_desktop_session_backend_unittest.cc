@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User desktop session backend unit tests
+// summary: Unit tests for graphical session selection and remote session user eligibility checks in UserDesktopSessionBackend.
+// ---
+
 #include "remoting/host/linux/user_desktop_session_backend.h"
 
 #include <sys/types.h>

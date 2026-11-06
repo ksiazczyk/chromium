@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remoting Mojom traits declarations
+// summary: Declares Mojo StructTraits specializations mapping remoting Mojom types to native C++ types such as WebRTC geometry, transport and protocol structs.
+// ---
+
 #ifndef REMOTING_HOST_MOJOM_REMOTING_MOJOM_TRAITS_H_
 #define REMOTING_HOST_MOJOM_REMOTING_MOJOM_TRAITS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Migrate host main declaration
+// summary: Declares MigrateHostMain, the entry point exported from remoting_core.so for the host migration tool.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_MIGRATE_HOST_MAIN_H_
 #define REMOTING_HOST_LINUX_MIGRATE_HOST_MAIN_H_
 

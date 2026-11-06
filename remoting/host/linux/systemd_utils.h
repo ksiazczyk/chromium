@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for headless systemd session detection
+// summary: Declares IsRunningInHeadlessSystemdSession with injectable sd-login function pointers so tests can mock session queries.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_SYSTEMD_UTILS_H_
 #define REMOTING_HOST_LINUX_SYSTEMD_UTILS_H_
 

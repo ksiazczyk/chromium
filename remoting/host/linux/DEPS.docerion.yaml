@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the Linux host directory
+summary: Defines include rules allowing sandbox/linux and libei headers, plus dbus for specific unittest files.

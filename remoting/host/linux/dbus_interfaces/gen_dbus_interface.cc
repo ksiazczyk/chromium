@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: gen_dbus_interface D-Bus XML to C++ header generator
+// summary: Command-line utility that converts D-Bus XML interface definitions into C++ headers with method, property, and signal spec structs for GDBusConnectionRef.
+// ---
+
 #include <gio/gio.h>
 #include <glib.h>
 

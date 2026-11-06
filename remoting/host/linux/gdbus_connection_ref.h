@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GDBusConnectionRef wrapper for GDBus connections
+// summary: Declares GDBusConnectionRef, a wrapper around GDBusConnection providing Chromium-style asynchronous callbacks and type-safe GVariant handling for D-Bus calls and signals.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_GDBUS_CONNECTION_REF_H_
 #define REMOTING_HOST_LINUX_GDBUS_CONNECTION_REF_H_
 

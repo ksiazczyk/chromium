@@ -4,6 +4,12 @@
 
 // This file was generated from org.freedesktop.portal.Session.xml
 
+// ---docerion
+// type: source
+// title: Freedesktop portal Session D-Bus interface structs
+// summary: Generated C++ structs for the org.freedesktop.portal.Session D-Bus interface, covering the Close method, version property, and Closed signal.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_DBUS_INTERFACES_ORG_FREEDESKTOP_PORTAL_SESSION_H_
 #define REMOTING_HOST_LINUX_DBUS_INTERFACES_ORG_FREEDESKTOP_PORTAL_SESSION_H_
 

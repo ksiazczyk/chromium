@@ -4,6 +4,12 @@
 
 // This file was generated from org.freedesktop.portal.Clipboard.xml
 
+// ---docerion
+// type: source
+// title: org.freedesktop.portal.Clipboard D-Bus interface header
+// summary: Generated C++ header describing the methods, properties, and signals of the org.freedesktop.portal.Clipboard interface for portal clipboard access.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_DBUS_INTERFACES_ORG_FREEDESKTOP_PORTAL_CLIPBOARD_H_
 #define REMOTING_HOST_LINUX_DBUS_INTERFACES_ORG_FREEDESKTOP_PORTAL_CLIPBOARD_H_
 

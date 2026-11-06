@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GNOME display config implementation
+// summary: Implements GnomeDisplayConfig helpers that convert Mutter D-Bus monitor data into C++ structures and build parameters for applying configs.
+// ---
+
 #include "remoting/host/linux/gnome_display_config.h"
 
 #include <glib.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PipeWire audio capturer implementation
+// summary: Implements audio capture on Linux by creating a virtual PipeWire sink and reading captured samples through a thread-safe PipeWire stream.
+// ---
+
 #include "remoting/host/linux/pipewire_audio_capturer.h"
 
 #include <pipewire/pipewire.h>

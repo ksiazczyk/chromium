@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Agent process broker implementation
+// summary: Implements the macOS broker that launches, suspends, resumes and terminates remote desktop agent processes over a named Mojo IPC server.
+// ---
+
 #include "remoting/host/mac/agent_process_broker.h"
 
 #include <mach/message.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GnomeLockStateTracker unit tests
+// summary: Unit tests for GnomeLockStateTracker using a mock D-Bus service that emulates Mutter remote desktop lock state properties and change signals.
+// ---
+
 #include "remoting/host/linux/gnome_lock_state_tracker.h"
 
 #include <memory>

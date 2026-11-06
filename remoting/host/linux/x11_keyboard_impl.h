@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 keyboard implementation header
+// summary: Declares X11KeyboardImpl, the X11 connection-backed implementation of the keyboard interface for the Linux remote desktop host.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_X11_KEYBOARD_IMPL_H_
 #define REMOTING_HOST_LINUX_X11_KEYBOARD_IMPL_H_
 

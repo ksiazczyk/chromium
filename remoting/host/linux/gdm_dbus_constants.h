@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GDM D-Bus constants
+// summary: Defines the D-Bus bus name and object path constants exported by GDM (org.gnome.DisplayManager).
+// ---
+
 #ifndef REMOTING_HOST_LINUX_GDM_DBUS_CONSTANTS_H_
 #define REMOTING_HOST_LINUX_GDM_DBUS_CONSTANTS_H_
 

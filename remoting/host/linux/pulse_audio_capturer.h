@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PulseAudio audio capturer header
+// summary: Declares PulseAudioCapturer, an AudioCapturer that captures audio from the pipe named by the CHROME_REMOTE_DESKTOP_AUDIO_PIPE environment variable.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_PULSE_AUDIO_CAPTURER_H_
 #define REMOTING_HOST_LINUX_PULSE_AUDIO_CAPTURER_H_
 

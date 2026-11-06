@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GDM remote display manager class declaration
+// summary: Declares GdmRemoteDisplayManager, a root-only class that creates and observes GDM remote displays over D-Bus and notifies observers about created, removed, and changed displays.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_GDM_REMOTE_DISPLAY_MANAGER_H_
 #define REMOTING_HOST_LINUX_GDM_REMOTE_DISPLAY_MANAGER_H_
 

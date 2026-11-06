@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CertificateWatcher unit tests
+// summary: Unit tests verifying that the certificate watcher triggers host restarts on certificate file changes and defers restarts while a client is connected.
+// ---
+
 #include "remoting/host/linux/certificate_watcher.h"
 
 #include <cstdlib>

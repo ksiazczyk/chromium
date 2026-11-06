@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File descriptor string reader implementation
+// summary: Reads asynchronously from a pipe or file descriptor into a string until end-of-stream or an error occurs.
+// ---
+
 #include "remoting/host/linux/fd_string_reader.h"
 
 #include <unistd.h>

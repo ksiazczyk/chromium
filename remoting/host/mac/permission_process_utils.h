@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission process utilities declaration
+// summary: Declares utilities that run host binaries in separate processes to check accessibility and screen recording permissions, plus the HostMode enum.
+// ---
+
 #ifndef REMOTING_HOST_MAC_PERMISSION_PROCESS_UTILS_H_
 #define REMOTING_HOST_MAC_PERMISSION_PROCESS_UTILS_H_
 

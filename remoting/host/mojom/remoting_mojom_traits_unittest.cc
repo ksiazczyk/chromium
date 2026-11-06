@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remoting Mojom traits unit tests
+// summary: Unit tests that verify round-trip serialization between remoting Mojom types and their native C++ representations.
+// ---
+
 #include "remoting/host/mojom/remoting_mojom_traits.h"
 
 #include <algorithm>
