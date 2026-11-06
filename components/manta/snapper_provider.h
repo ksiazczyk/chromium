@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SnapperProvider class header
+// summary: Declares the SnapperProvider class for calling the Snapper Google API, handling OAuth and HTTP fetching with an IdentityManager dependency.
+// ---
+
 #ifndef COMPONENTS_MANTA_SNAPPER_PROVIDER_H_
 #define COMPONENTS_MANTA_SNAPPER_PROVIDER_H_
 

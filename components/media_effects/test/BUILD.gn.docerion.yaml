@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Media effects test support build file
+summary: Defines a test-only source_set bundling fake audio and video capture services used as test support for the media effects component.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS pointer for media message center strings
+summary: Points to the components/media_message_center/OWNERS file so the same owners review changes to this strings resource directory.

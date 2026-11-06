@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SnapperProvider unit tests
+// summary: Unit tests for the Snapper provider, checking request payload passing, image response parsing, metrics, and empty responses after IdentityManager shutdown.
+// ---
+
 #include "components/manta/snapper_provider.h"
 
 #include <memory>

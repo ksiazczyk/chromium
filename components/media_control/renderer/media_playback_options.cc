@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaPlaybackOptions implementation
+// summary: Implements the MediaPlaybackOptions render frame observer that manages media playback options, blocks media loading, and defers closures until the frame is in the foreground.
+// ---
+
 #include "components/media_control/renderer/media_playback_options.h"
 
 #include <string>

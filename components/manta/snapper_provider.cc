@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SnapperProvider implementation
+// summary: Implements SnapperProvider, forwarding requests to the Snapper endpoint with a 30-second timeout and returning responses through the Manta callback.
+// ---
+
 #include "components/manta/snapper_provider.h"
 
 #include <memory>

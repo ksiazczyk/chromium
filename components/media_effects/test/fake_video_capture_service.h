@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake video capture service class declarations
+// summary: Declares FakeVideoCaptureService and ScopedFakeVideoCaptureService, fakes of the video capture service Mojo interface for tests.
+// ---
+
 #ifndef COMPONENTS_MEDIA_EFFECTS_TEST_FAKE_VIDEO_CAPTURE_SERVICE_H_
 #define COMPONENTS_MEDIA_EFFECTS_TEST_FAKE_VIDEO_CAPTURE_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manta feature flags
+// summary: Defines feature flags that switch Manta providers such as Anchovy, Orca, Scanner, SeaPen, Mahi and Walrus between prod and non-prod servers.
+// ---
+
 #include "components/manta/features.h"
 
 #include "base/feature_list.h"

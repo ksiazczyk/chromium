@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaDeviceInfo class declaration
+// summary: Declares the MediaDeviceInfo cache class and helpers for resolving real audio and video device IDs and names.
+// ---
+
 #ifndef COMPONENTS_MEDIA_EFFECTS_MEDIA_DEVICE_INFO_H_
 #define COMPONENTS_MEDIA_EFFECTS_MEDIA_DEVICE_INFO_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Issue tracker metadata for media gallery util
+summary: Declares the Monorail and Buganizer components used for filing bugs against the media galleries platform code.

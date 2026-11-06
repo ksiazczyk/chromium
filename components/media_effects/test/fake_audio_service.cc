@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake audio service implementation
+// summary: Implements a fake audio service that simulates microphone devices and can override the browser audio service for media effects tests.
+// ---
+
 #include "components/media_effects/test/fake_audio_service.h"
 
 #include <utility>

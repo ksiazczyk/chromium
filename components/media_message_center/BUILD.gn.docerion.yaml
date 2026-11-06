@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for media_message_center
+summary: Defines the media_message_center component sources and dependencies, plus a test_support static library exposing mock classes for gmock-based tests.

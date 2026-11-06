@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Media device salt dependency rules
+summary: Lists the include dependencies allowed for the media_device_salt component, such as keyed_service, prefs, content and sql.

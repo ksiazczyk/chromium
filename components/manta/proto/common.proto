@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common manta proto messages
+// summary: Shared protobuf messages for the manta package, including Proto3Any, Image, and Timestamp copies of well-known types.
+// ---
+
 syntax = "proto3";
 option optimize_for = LITE_RUNTIME;
 

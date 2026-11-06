@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the media control browser component
+summary: Restricts includes in this directory to content public browser, components media control mojom, and third_party blink public common.

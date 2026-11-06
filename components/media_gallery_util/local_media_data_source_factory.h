@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local media data source factory declaration
+// summary: Declares LocalMediaDataSourceFactory, which supplies local media file data to the media gallery utility service for safe metadata parsing.
+// ---
+
 #ifndef COMPONENTS_MEDIA_GALLERY_UTIL_LOCAL_MEDIA_DATA_SOURCE_FACTORY_H_
 #define COMPONENTS_MEDIA_GALLERY_UTIL_LOCAL_MEDIA_DATA_SOURCE_FACTORY_H_
 

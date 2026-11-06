@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mahi provider implementation
+// summary: Implements the Mahi provider that sends webpage or PDF content to Google servers for the Help Me Read feature, supporting summaries, elucidation, outlines, and question answering.
+// ---
+
 #include "components/manta/mahi_provider.h"
 
 #include <memory>

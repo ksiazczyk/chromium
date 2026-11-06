@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake video source implementation
+// summary: Implements a fake video source that creates push subscriptions and sends or errors video frames to subscribers during tests.
+// ---
+
 #include "components/media_effects/test/fake_video_source.h"
 
 #include "media/capture/mojom/video_capture_buffer.mojom.h"

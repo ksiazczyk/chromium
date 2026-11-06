@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScannerProvider unit tests
+// summary: Unit tests for the Scanner provider, verifying successful response parsing, error and blocked-output handling, and metrics using mocked endpoint responses.
+// ---
+
 #include "components/manta/scanner_provider.h"
 
 #include <memory>

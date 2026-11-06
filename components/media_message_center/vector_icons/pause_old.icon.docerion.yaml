@@ -1,0 +1,4 @@
+# Docerion header of pause_old.icon.
+type: asset
+title: Old pause vector icon
+summary: Defines the legacy 16x16 pause vector icon for the media message center using simple line-based drawing commands.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaDeviceIDSalt class declaration
+// summary: Declares the reference-counted MediaDeviceIDSalt class that manages the salt string used for web-exposed media device IDs.
+// ---
+
 #ifndef COMPONENTS_MEDIA_DEVICE_SALT_MEDIA_DEVICE_ID_SALT_H_
 #define COMPONENTS_MEDIA_DEVICE_SALT_MEDIA_DEVICE_ID_SALT_H_
 

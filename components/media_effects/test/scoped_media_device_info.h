@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped MediaDeviceInfo test override
+// summary: Declares a scoped test helper that swaps in a fake MediaDeviceInfo instance via base::AutoReset and a system monitor for the duration of a test.
+// ---
+
 #ifndef COMPONENTS_MEDIA_EFFECTS_TEST_SCOPED_MEDIA_DEVICE_INFO_H_
 #define COMPONENTS_MEDIA_EFFECTS_TEST_SCOPED_MEDIA_DEVICE_INFO_H_
 

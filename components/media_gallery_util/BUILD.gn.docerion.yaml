@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for media gallery util
+summary: Defines the metadata_types and media_gallery_util source sets with their sources, configs and dependencies for the Chromium GN build.

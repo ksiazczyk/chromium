@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScannerProvider implementation
+// summary: Implements the Scanner provider, sending screen-region image requests to the Scanner service and parsing ScannerOutput results from Manta responses.
+// ---
+
 #include "components/manta/scanner_provider.h"
 
 #include <memory>

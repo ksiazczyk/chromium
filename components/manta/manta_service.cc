@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manta service implementation
+// summary: Implements MantaService, a KeyedService that creates provider instances and checks account capabilities to determine Manta feature support.
+// ---
+
 #include "components/manta/manta_service.h"
 
 #include <memory>

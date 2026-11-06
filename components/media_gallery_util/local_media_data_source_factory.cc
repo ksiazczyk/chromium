@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local media data source factory implementation
+// summary: Implements a factory that reads chunks of a local media file on a file thread and streams them to the utility process for metadata parsing.
+// ---
+
 #include "components/media_gallery_util/local_media_data_source_factory.h"
 
 #include <optional>

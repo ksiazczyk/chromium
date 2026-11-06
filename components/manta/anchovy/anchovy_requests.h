@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageDescriptionRequest struct declaration
+// summary: Declares the ImageDescriptionRequest struct holding image bytes, a language tag, and a source ID for Anchovy image description requests.
+// ---
+
 #ifndef COMPONENTS_MANTA_ANCHOVY_ANCHOVY_REQUESTS_H_
 #define COMPONENTS_MANTA_ANCHOVY_ANCHOVY_REQUESTS_H_
 

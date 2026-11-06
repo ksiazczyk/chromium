@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mahi provider class declaration
+// summary: Declares the MahiProvider class, which handles OAuth and HTTP fetching for summarizing, elucidating, outlining, and question answering over user content.
+// ---
+
 #ifndef COMPONENTS_MANTA_MAHI_PROVIDER_H_
 #define COMPONENTS_MANTA_MAHI_PROVIDER_H_
 

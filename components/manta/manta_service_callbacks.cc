@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manta service callbacks implementation
+// summary: Implements shared response handling for Manta providers, mapping server errors to MantaStatusCode values and logging UMA timing and status metrics.
+// ---
+
 #include "components/manta/manta_service_callbacks.h"
 
 #include <memory>

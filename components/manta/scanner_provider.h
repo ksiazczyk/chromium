@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScannerProvider class header
+// summary: Declares the ScannerProvider class that lets clients call the Scanner Google API, handling OAuth and HTTP fetching with IdentityManager dependency.
+// ---
+
 #ifndef COMPONENTS_MANTA_SCANNER_PROVIDER_H_
 #define COMPONENTS_MANTA_SCANNER_PROVIDER_H_
 

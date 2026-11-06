@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaBlocker class declaration
+// summary: Declares a WebContentsObserver that blocks or unblocks media loading for web contents, with virtual hooks for subclasses and use in Chromecast internal code.
+// ---
+
 #ifndef COMPONENTS_MEDIA_CONTROL_BROWSER_MEDIA_BLOCKER_H_
 #define COMPONENTS_MEDIA_CONTROL_BROWSER_MEDIA_BLOCKER_H_
 

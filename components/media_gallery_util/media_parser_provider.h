@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media parser provider base class
+// summary: Declares a base class that retrieves a remote MediaParser from a utility service process for SafeMediaMetadataParser and SafeAudioVideoChecker.
+// ---
+
 #ifndef COMPONENTS_MEDIA_GALLERY_UTIL_MEDIA_PARSER_PROVIDER_H_
 #define COMPONENTS_MEDIA_GALLERY_UTIL_MEDIA_PARSER_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaBlocker implementation
+// summary: Implements MediaBlocker by tracking the blocked state and notifying each live render frame through the Mojo MediaPlaybackOptions interface to block or unblock media loading.
+// ---
+
 #include "components/media_control/browser/media_blocker.h"
 
 #include <utility>

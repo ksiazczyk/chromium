@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for media control mojom
+summary: Per-file ownership rules delegating review of mojom, typemap, and traits files to the IPC security owners.

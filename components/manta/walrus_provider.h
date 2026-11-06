@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WalrusProvider class header
+// summary: Declares the WalrusProvider class with an image type enum and Filter methods for checking text prompts and images via the Mantis service.
+// ---
+
 #ifndef COMPONENTS_MANTA_WALRUS_PROVIDER_H_
 #define COMPONENTS_MANTA_WALRUS_PROVIDER_H_
 

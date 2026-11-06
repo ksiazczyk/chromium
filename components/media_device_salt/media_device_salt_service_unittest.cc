@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaDeviceSaltService unit tests
+// summary: Unit tests for MediaDeviceSaltService covering salt retrieval, deletion by storage key and time range, and listing of storage keys with associated salts.
+// ---
+
 #include "components/media_device_salt/media_device_salt_service.h"
 
 #include <algorithm>

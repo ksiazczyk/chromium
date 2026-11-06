@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for media_effects
+summary: Lists the allowed include dependencies for code in the media_effects directory.

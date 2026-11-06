@@ -1,0 +1,4 @@
+# Docerion header of vector_icons.h.template.
+type: source
+title: Media message center vector icons header template
+summary: Template header used to generate vector_icons.h, declaring the vector icon constants for the media message center component.

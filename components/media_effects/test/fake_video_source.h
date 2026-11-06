@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake video source class declaration
+// summary: Declares FakeVideoSource, a VideoSource fake supporting waits for subscription events and sending test video frames.
+// ---
+
 #ifndef COMPONENTS_MEDIA_EFFECTS_TEST_FAKE_VIDEO_SOURCE_H_
 #define COMPONENTS_MEDIA_EFFECTS_TEST_FAKE_VIDEO_SOURCE_H_
 

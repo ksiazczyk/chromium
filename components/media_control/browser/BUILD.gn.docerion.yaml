@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the media control browser library
+summary: Defines a static library target that compiles media_blocker.cc and media_blocker.h and depends on the media control mojom, content public browser, and blink common targets.

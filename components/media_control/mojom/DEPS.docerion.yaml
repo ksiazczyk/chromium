@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for media control mojom
+summary: Chromium DEPS file allowing includes from content/public/common within this directory.

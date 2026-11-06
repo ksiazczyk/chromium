@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake audio service class declarations
+// summary: Declares FakeAudioService and ScopedFakeAudioService, fakes of the audio service Mojo interface used to simulate mic devices in tests.
+// ---
+
 #ifndef COMPONENTS_MEDIA_EFFECTS_TEST_FAKE_AUDIO_SERVICE_H_
 #define COMPONENTS_MEDIA_EFFECTS_TEST_FAKE_AUDIO_SERVICE_H_
 

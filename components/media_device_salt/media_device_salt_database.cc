@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaDeviceSaltDatabase implementation
+// summary: Implements the SQL-backed storage that fetches, inserts and deletes per-storage-key media device salts.
+// ---
+
 #include "components/media_device_salt/media_device_salt_database.h"
 
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaDeviceIDSalt implementation
+// summary: Implements creation, retrieval and reset of the per-profile media device ID salt stored in preferences.
+// ---
+
 #include "components/media_device_salt/media_device_id_salt.h"
 
 #include "base/base64.h"

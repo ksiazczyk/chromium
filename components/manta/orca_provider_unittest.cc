@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OrcaProvider unit tests
+// summary: Unit tests for the Orca provider, covering invalid input rejection, unexpected HTTP status handling, and response parsing via a mocked endpoint.
+// ---
+
 #include "components/manta/orca_provider.h"
 
 #include <memory>

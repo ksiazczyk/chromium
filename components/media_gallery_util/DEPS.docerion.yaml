@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for media gallery util
+summary: Lists the include rules permitting dependencies on strings, content browser APIs, media buildflags, mojo, libyuv and ffmpeg.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageDescriptionRequest implementation
+// summary: Implements the constructor of the ImageDescriptionRequest struct, storing image bytes, language tag, and source ID.
+// ---
+
 #include "components/manta/anchovy/anchovy_requests.h"
 
 namespace manta::anchovy {

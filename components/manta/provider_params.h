@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProviderParams struct header
+// summary: Defines the ProviderParams struct holding optional server-side parameters such as API key usage, Chrome version, release channel, and locale.
+// ---
+
 #ifndef COMPONENTS_MANTA_PROVIDER_PARAMS_H_
 #define COMPONENTS_MANTA_PROVIDER_PARAMS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaPlaybackOptions class declaration
+// summary: Declares the MediaPlaybackOptions class, which manages options for suspending playback and deferring media load per render frame and exposes a Mojo MediaPlaybackOptions interface.
+// ---
+
 #ifndef COMPONENTS_MEDIA_CONTROL_RENDERER_MEDIA_PLAYBACK_OPTIONS_H_
 #define COMPONENTS_MEDIA_CONTROL_RENDERER_MEDIA_PLAYBACK_OPTIONS_H_
 

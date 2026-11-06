@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Anchovy proto message definitions
+// summary: Protobuf definitions for anchovy caption and label descriptions plus context and options messages used by the manta package.
+// ---
+
 syntax = "proto3";
 option optimize_for = LITE_RUNTIME;
 

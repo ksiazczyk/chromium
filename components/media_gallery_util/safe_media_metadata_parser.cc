@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafeMediaMetadataParser implementation
+// summary: Implements SafeMediaMetadataParser, driving metadata extraction in a utility process and delivering parse results and attached images via callback.
+// ---
+
 #include "components/media_gallery_util/safe_media_metadata_parser.h"
 
 #include <utility>

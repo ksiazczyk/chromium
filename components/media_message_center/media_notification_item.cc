@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaNotificationItem histogram constants
+// summary: Defines the histogram name constants for user actions, Cast user actions, and source metrics recorded by MediaNotificationItem.
+// ---
+
 #include "components/media_message_center/media_notification_item.h"
 
 namespace media_message_center {

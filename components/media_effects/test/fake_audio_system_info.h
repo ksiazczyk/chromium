@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake audio system info class declaration
+// summary: Declares FakeAudioSystemInfo, which simulates audio input device enumeration and stream parameters for media effects tests.
+// ---
+
 #ifndef COMPONENTS_MEDIA_EFFECTS_TEST_FAKE_AUDIO_SYSTEM_INFO_H_
 #define COMPONENTS_MEDIA_EFFECTS_TEST_FAKE_AUDIO_SYSTEM_INFO_H_
 

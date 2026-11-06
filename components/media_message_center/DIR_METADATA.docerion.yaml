@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for media_message_center
+summary: Maps the directory to the UI>Notifications bug tracker component and the media-dev@chromium.org team for issue routing.

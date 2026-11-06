@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaDeviceSaltService class header
+// summary: Declares MediaDeviceSaltService, a keyed service that returns, deletes, and lists per-storage-key salts used to generate media device IDs, backed by a database and a fallback salt.
+// ---
+
 #ifndef COMPONENTS_MEDIA_DEVICE_SALT_MEDIA_DEVICE_SALT_SERVICE_H_
 #define COMPONENTS_MEDIA_DEVICE_SALT_MEDIA_DEVICE_SALT_SERVICE_H_
 

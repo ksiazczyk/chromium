@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manta service class declaration
+// summary: Declares the MantaService KeyedService, which hands out provider instances and queries whether a profile supports Manta features.
+// ---
+
 #ifndef COMPONENTS_MANTA_MANTA_SERVICE_H_
 #define COMPONENTS_MANTA_MANTA_SERVICE_H_
 

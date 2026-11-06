@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaDeviceSaltService implementation
+// summary: Implements the service that asynchronously reads and deletes salts through the database and uses a fallback salt for opaque origins.
+// ---
+
 #include "components/media_device_salt/media_device_salt_service.h"
 
 #include <utility>

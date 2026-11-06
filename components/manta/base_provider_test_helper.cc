@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeBaseProvider and BaseProviderTest implementation
+// summary: Implements a fake provider and a test fixture that mock endpoint responses for unit tests of Manta providers.
+// ---
+
 #include "components/manta/base_provider_test_helper.h"
 
 #include "base/byte_size.h"
