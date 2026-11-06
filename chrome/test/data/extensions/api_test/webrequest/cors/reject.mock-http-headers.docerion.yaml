@@ -1,0 +1,4 @@
+# Docerion header of reject.mock-http-headers.
+type: test
+title: Mock HTTP headers for the CORS reject response
+summary: Mock HTTP response headers returning 200 OK as plain text without CORS allowances for the reject endpoint.

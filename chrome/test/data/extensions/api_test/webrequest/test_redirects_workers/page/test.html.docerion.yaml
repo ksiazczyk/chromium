@@ -1,0 +1,4 @@
+# Docerion header of test.html.
+type: test
+title: Test page for webrequest worker redirects
+summary: Test page that runs dedicated, shared, or service worker tests based on URL parameters and reports the fetch result in the status element.

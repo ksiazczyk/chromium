@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: webRequest redirect test cases
+// summary: Browser test script that verifies webRequest onHeadersReceived redirect behavior, covering data URLs, about:blank, web-accessible resources, and server redirects.
+// ---
+
 const dataURL = 'data:text/plain,redirected1';
 const aboutURL = 'about:blank';
 

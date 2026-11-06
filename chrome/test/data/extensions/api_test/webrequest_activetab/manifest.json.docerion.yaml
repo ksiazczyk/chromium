@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: ActiveTab WebRequest test extension manifest
+summary: Manifest for the activeTab webRequest test extension, declaring webRequest and all-urls permissions plus a persistent background script.

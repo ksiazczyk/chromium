@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Declarative webRequest sendMessage test background script
+// summary: Runs chrome.test cases that add a declarativeWebRequest rule with SendMessageToExtension and verify the resulting onMessage events across request stages.
+// ---
+
 const EVENT_MESSAGE_EXTENSION_STRING = 'Extension';
 
 // Constants as functions, not to be called until after runTests.

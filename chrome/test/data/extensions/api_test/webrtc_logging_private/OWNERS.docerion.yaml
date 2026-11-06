@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for webrtc_logging_private API tests
+summary: Points to the OWNERS file of the webrtc_logging_private browser API implementation to define ownership for these extension API tests.

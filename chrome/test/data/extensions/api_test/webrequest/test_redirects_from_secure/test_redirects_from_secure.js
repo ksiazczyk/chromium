@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: webRequest redirect test from secure pages
+// summary: Extension API test that registers an onHeadersReceived listener to redirect a navigation from a secure page and asserts the redirect succeeds.
+// ---
+
 function assertRedirectSucceeds(url, redirectURL, callback) {
   navigateAndWait(url, function(tab) {
     if (callback) {

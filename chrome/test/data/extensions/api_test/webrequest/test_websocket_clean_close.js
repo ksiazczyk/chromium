@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebSocket clean close test
+// summary: Opens a WebSocket, sends a message, and verifies the close is clean, repeating the check ten times for a deterministic result.
+// ---
+
 // Opens a WebSocket, busy waits for 100ms, sends a message. Verifies that the
 // close was clean. If it fails, it will fail flakily, so repeat it 10 times to
 // get a deterministic answer.

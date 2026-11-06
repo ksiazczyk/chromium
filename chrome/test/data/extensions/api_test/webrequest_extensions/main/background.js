@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRequest test extension background script
+// summary: Background script of a test extension that records intercepted webRequest URLs and reports them back via test messages.
+// ---
+
 const requests = [];
 chrome.webRequest.onBeforeRequest.addListener(function(details) {
   // Show the query string of the request. If this is absent for some

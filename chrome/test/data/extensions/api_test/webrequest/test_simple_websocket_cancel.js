@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Simple WebSocket handshake cancel webRequest test
+// summary: Verifies that a blocking webRequest handler cancels a WebSocket handshake request so the connection fails with ERR_BLOCKED_BY_CLIENT.
+// ---
+
 const callbackPass = chrome.test.callbackPass;
 
 chrome.tabs.getCurrent(function(tab) {

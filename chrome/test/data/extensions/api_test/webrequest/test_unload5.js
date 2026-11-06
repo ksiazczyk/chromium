@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XMLHttpRequest unload webRequest test
+// summary: Tests webRequest events when XMLHttpRequests are issued and immediately aborted by removing the frame or tab.
+// ---
+
 runTests([
   // Starts an XMLHttpRequest in an iframe and removes the frame.
   // Unlike the previous tests (test_unload1, 2, 3, 4), this test doesn't wait

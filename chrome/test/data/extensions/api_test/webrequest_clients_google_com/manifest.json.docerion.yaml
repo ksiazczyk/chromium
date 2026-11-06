@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the webRequest clients.google.com test extension
+summary: Manifest version 2 extension manifest granting webRequest permissions and loading background.js for the request-counting API test.

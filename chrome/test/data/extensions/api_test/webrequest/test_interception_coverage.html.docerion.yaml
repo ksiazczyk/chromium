@@ -1,0 +1,4 @@
+# Docerion header of test_interception_coverage.html.
+type: test
+title: WebRequest interception coverage test page
+summary: HTML page that loads the framework and the script running the webRequest interception coverage test for iframe requests.

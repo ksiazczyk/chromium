@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: webRequest securityInfo extension API test
+// summary: Browser test that verifies webRequest onHeadersReceived securityInfo details, including certificate SHA-256 fingerprints, rawDER data, and WebSocket requests.
+// ---
+
 const callbackPass = chrome.test.callbackPass;
 
 // Checks that a string is formatted properly as sha256 fingerprint

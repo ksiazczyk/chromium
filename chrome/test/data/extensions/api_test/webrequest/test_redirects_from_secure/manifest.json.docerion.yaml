@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the test_redirects_from_secure extension
+summary: Manifest for the test extension, granting webRequest permissions and loading the background script used by the redirect tests.

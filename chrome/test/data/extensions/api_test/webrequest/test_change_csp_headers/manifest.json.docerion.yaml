@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the test_change_csp_headers extension
+summary: Manifest v2 extension manifest granting webRequest and tab permissions and registering the background script for the CSP header modification test.

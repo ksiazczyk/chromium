@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for onActionIgnored redirect test extension
+// summary: Background script of a test extension that redirects google.com main frame requests to foo.com and reports via chrome.test whether the redirect action was ignored.
+// ---
+
 let redirectIgnored = false;
 let redirectedRequestId = null;
 

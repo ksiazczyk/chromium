@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: webRequest test extension manifest
+summary: Manifest for the test_auth_required_async extension, declaring webRequest permissions, incognito split behavior, and the persistent background test script.

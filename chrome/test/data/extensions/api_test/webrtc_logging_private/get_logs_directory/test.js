@@ -4,6 +4,12 @@
 
 // Helper functions.
 
+// ---docerion
+// type: test
+// title: WebRTC logging getLogsDirectory API browser tests
+// summary: Runs browser tests verifying the WebRTC Logs directory is read-only, covering directory entry retrieval, empty and populated directories, file reading, and blocked writes and removal.
+// ---
+
 function readFileEntry(fileEntry, callback) {
   fileEntry.file(
       function(file) {

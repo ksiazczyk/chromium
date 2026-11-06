@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebTransport shared worker test helper
+// summary: Runs the WebTransport established and failed session checks through a shared worker and asserts a PASS result.
+// ---
+
 // This is used to distinguish tests for shared workers.
 self.isSharedWorkerTest = true;
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebTransport dedicated worker test helper
+// summary: Runs the WebTransport established and failed session checks inside a dedicated worker and asserts that the worker reports PASS.
+// ---
+
 async function expectSessionEstablished(url) {
   testWorker('expectSessionEstablished', url);
 }

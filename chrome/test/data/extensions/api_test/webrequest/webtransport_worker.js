@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebTransport worker test dispatcher
+// summary: Worker script that dispatches WebTransport test messages across dedicated, shared and service worker scopes and reports PASS or failure details.
+// ---
+
 if ('DedicatedWorkerGlobalScope' in self &&
     self instanceof DedicatedWorkerGlobalScope) {
   registerOnMessage(self);

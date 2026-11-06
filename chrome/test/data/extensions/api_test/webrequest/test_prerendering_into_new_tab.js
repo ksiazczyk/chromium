@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Prerendering into new tab webRequest event expectations
+// summary: Checks webRequest events and details when a prerender is started into a new tab, including tabId and document lifecycle expectations.
+// ---
+
 const kExtensionPath = 'extensions/api_test/webrequest/prerendering';
 
 runTests([function simpleLoad() {

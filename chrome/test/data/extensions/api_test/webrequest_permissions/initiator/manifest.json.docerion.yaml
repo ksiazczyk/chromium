@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for webRequest initiator permissions test extension
+summary: Manifest of a test extension declaring webRequest permissions and a persistent background script to test that initiator access is required.

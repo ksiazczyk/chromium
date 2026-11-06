@@ -1,0 +1,4 @@
+# Docerion header of iframe.html.
+type: test
+title: Fenced frame loader page
+summary: Test page that creates a fenced frame whose config points to a server redirect leading to frame.html.

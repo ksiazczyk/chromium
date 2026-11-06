@@ -1,0 +1,4 @@
+# Docerion header of page_with_ntp_script.html.
+type: test
+title: Page with NTP script test page
+summary: HTML test page that loads fake_ntp_script.js to exercise NTP script request interception in the webrequest extension API test.

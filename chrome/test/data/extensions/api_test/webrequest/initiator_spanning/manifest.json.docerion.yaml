@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for webRequest initiator spanning test extension
+summary: Manifest version 2 extension manifest granting webRequest and all-URL permissions with a persistent background page, used as a regression test for crbug.com/40614965.

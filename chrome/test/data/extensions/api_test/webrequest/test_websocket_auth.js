@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebSocket auth webRequest event tests
+// summary: Tests webRequest events such as onAuthRequired fired during WebSocket connections, covering blocking and non-blocking auth handling.
+// ---
+
 chrome.test.getConfig(function(config) {
   chrome.tabs.getCurrent(function(tab) {
     runTestsForTab(

@@ -1,0 +1,4 @@
+# Docerion header of prerendering_new_tab.html.
+type: test
+title: New tab prerendered page activation probe
+summary: Prerendered test page for the new tab scenario that fetches initiator_new_tab.html on prerenderingchange to detect activation and verify event delivery.

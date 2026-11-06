@@ -1,0 +1,4 @@
+# Docerion header of reject.
+type: test
+title: CORS reject test response body
+summary: Response body served for rejected CORS requests in the webRequest extension API tests.

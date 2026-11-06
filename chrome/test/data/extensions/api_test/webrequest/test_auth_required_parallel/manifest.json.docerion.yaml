@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: webRequest test extension manifest
+summary: Manifest for the webRequest API test extension, granting webRequest permissions and loading the test background script in incognito split mode.

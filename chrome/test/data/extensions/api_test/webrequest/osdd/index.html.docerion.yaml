@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: test
+title: OpenSearch description webRequest test page
+summary: HTML test fixture that links an OpenSearch description document so webRequest extension API tests can observe the request.

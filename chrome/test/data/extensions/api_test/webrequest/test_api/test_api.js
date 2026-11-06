@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: webRequest API browser tests
+// summary: JavaScript test suite that registers, removes, and validates webRequest event listeners, filters, and extra info specs via chrome.test.
+// ---
+
 chrome.test.runTests([
   function addListeners() {
     chrome.webRequest.onBeforeRequest.addListener(function(details) {}, {

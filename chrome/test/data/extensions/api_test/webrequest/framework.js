@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared framework for webRequest API tests
+// summary: Provides the shared harness for webRequest extension API tests, running suites in a tab and matching captured webRequest events against expected data.
+// ---
+
 const TEST_SERVER = 'www.a.com';
 const DEFAULT_SCHEME = 'http';
 

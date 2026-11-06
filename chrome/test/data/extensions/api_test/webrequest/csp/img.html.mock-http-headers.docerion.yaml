@@ -1,0 +1,4 @@
+# Docerion header of img.html.mock-http-headers.
+type: test
+title: Mock HTTP headers serving img.html with img-src CSP
+summary: Mock HTTP response headers that serve img.html with a Content-Security-Policy img-src * header during the webRequest test.

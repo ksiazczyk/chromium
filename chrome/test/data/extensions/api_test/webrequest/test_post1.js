@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Urlencoded form POST webRequest tests
+// summary: Runs POST request tests for forms with default and urlencoded encodings, expecting parseable form data in the request body.
+// ---
+
 runTests([
   // Navigates to a page with a form and submits it, generating a POST request.
   // A form in default encoding (which is "urlencoded").

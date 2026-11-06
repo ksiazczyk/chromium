@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest
+summary: Manifest for the test extension declaring the persistent background script, a content script matching webRequest test pages, web-accessible frame.html, and host permissions.

@@ -1,0 +1,4 @@
+# Docerion header of initiator_new_tab.html.
+type: test
+title: New tab prerender initiator page
+summary: Test page that prerenders prerendering_new_tab.html via speculation rules with target_hint _blank and contains a link opening it in a new tab.

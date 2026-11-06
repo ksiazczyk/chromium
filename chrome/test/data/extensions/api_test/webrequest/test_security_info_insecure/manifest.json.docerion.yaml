@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the webRequest securityInfo insecure test extension
+summary: Manifest for the test_security_info_insecure extension, granting webRequest permissions and loading the test background script.

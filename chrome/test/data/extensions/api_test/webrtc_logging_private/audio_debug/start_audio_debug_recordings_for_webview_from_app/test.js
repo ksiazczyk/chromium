@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test cases for starting audio debug recordings from webviews
+// summary: Runs browser tests that start and stop audio debug recordings with one webview and expect runtime errors with zero or multiple webviews.
+// ---
+
 function assertNoLastError(message) {
   if (chrome.runtime.lastError) {
     message += ': ' + chrome.runtime.lastError.message;

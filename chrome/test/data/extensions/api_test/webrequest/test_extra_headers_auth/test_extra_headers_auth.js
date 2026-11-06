@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: webRequest extra headers auth test
+// summary: Extension API test verifying that set-cookie response headers are only visible to onAuthRequired listeners that request extraHeaders.
+// ---
+
 const callbackPass = chrome.test.callbackPass;
 
 const SCRIPT_URL = '_test_resources/api_test/webrequest/framework.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: webRequest extension API test for request and response headers
+// summary: Browser test that verifies webRequest listeners can modify, remove, and add request headers and observe special headers like Cookie and Set-Cookie.
+// ---
+
 const callbackPass = chrome.test.callbackPass;
 
 function getSetCookieUrl(name, value) {

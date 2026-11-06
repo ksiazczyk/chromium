@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the test_types webRequest test extension
+summary: Manifest for the test_types extension that tests the webRequest API, declaring webRequest, tabs and host permissions plus a persistent background script.

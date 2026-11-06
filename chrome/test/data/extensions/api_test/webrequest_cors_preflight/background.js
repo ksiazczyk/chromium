@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CORS preflight WebRequest test background script
+// summary: Background script of the test extension that counts OPTIONS preflight events via webRequest listeners and signals when a preflight succeeds.
+// ---
+
 self.preflightHeadersReceivedCount = 0;
 self.preflightProxyAuthRequiredCount = 0;
 self.preflightResponseStartedCount = 0;

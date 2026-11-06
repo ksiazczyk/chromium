@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: webRequest test that modifies CSP response headers
+// summary: Background script that rewrites CSP directives like frame-ancestors and img-src in response headers and asserts the modified policies are honored in loaded pages.
+// ---
+
 function replaceStarWithNoneListener(directive) {
   return function(details) {
     for (i = 0; i < details.responseHeaders.length; i++) {

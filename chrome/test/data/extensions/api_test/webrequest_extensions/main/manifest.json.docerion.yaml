@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the webRequest eavesdropping test extension
+summary: Manifest for the Eavesdropping test extension, granting webRequest permissions and a persistent background script.

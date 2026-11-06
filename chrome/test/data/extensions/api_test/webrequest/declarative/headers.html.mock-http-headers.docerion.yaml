@@ -1,0 +1,4 @@
+# Docerion header of headers.html.mock-http-headers.
+type: test
+title: Mock HTTP response headers for headers.html
+summary: Defines the HTTP response served for headers.html, including custom and repeated headers used by declarative webRequest tests.

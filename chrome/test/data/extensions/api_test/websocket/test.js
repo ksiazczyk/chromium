@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebSocket echo test for extensions
+// summary: Chrome extension test that connects to a local WebSocket echo server, sends two messages, asserts they are echoed back, and reports success.
+// ---
+
 function echoTest(port) {
   const url = 'ws://localhost:' + port + '/echo-with-no-extension';
   const ws = new WebSocket(url);

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for webRequest worker redirect test extension
+summary: 'Manifest for the Chrome test extension used to test webRequest redirects to data: URLs around workers.'

@@ -1,0 +1,4 @@
+# Docerion header of a.html.
+type: test
+title: complexLoad test page embedding an iframe
+summary: Test fixture for the webRequest blocking complexLoad test that embeds b.html in an iframe to generate nested requests.

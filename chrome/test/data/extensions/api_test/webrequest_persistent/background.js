@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web request persistence test background script
+// summary: Background page script for the webRequest persistence extension API test that counts observed requests in chrome.storage.local and signals progress to the test harness.
+// ---
+
 let storageComplete = undefined;
 let isUsingStorage = false;
 

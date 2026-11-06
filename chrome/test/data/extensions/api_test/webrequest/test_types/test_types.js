@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: webRequest API resource type tests
+// summary: Test suite for the webRequest extension API verifying request event details and resource type classification for stylesheets, scripts, fonts, workers, pings and beacons.
+// ---
+
 function getStyleURL() {
   // This is not a style sheet, but it must still be classified as "stylesheet"
   // because it is loaded as a style sheet.

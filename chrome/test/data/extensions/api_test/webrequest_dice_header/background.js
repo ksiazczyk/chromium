@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dice header webRequest test extension background script
+// summary: Background script of a test extension that intercepts responses and reads, counts, and rewrites the X-Chrome-ID-Consistency-Response header via the webRequest API for the webrequest_dice_header API test.
+// ---
+
 self.diceResponseHeaderCount = 0;
 self.controlResponseHeaderCount = 0;
 

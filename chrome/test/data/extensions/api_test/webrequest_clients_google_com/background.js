@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script counting web requests for the webRequest test
+// summary: Extension background script that listens to webRequest events and counts requests to clients1.google.com and yahoo.com for the API test.
+// ---
+
 self.clientsGoogleWebRequestCount = 0;
 self.yahooWebRequestCount = 0;
 

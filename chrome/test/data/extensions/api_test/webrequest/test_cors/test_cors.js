@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: webRequest CORS event expectation test
+// summary: Browser test script that sets expected webRequest event sequences for CORS requests, covering observable and non-observable preflight cases.
+// ---
+
 const callbackPass = chrome.test.callbackPass;
 const listeningUrlPattern = '*://cors.example.com/*';
 const params = (new URL(location.href)).searchParams;

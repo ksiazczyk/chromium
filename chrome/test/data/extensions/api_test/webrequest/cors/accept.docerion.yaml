@@ -1,0 +1,4 @@
+# Docerion header of accept.
+type: test
+title: CORS accept test response body
+summary: Response body served for accepted CORS requests in the webRequest extension API tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Prerendering webRequest event expectations
+// summary: Defines expected webRequest events and details for initiator and prerendering page loads, checking documentLifecycle values during prerender.
+// ---
+
 const kExtensionPath = 'extensions/api_test/webrequest/prerendering';
 
 runTests([

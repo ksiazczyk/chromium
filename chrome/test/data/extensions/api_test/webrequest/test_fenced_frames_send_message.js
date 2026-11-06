@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fenced frame send message webRequest test
+// summary: Verifies that declarativeWebRequest SendMessageToExtension messages carry correct frame IDs, frame type and document lifecycle for fenced frame requests.
+// ---
+
 const EVENT_MESSAGE_EXTENSION_STRING = 'Extension';
 
 const kExtensionPath = 'extensions/api_test/webrequest/fencedFrames';

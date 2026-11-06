@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Declarative webRequest API test extension script
+// summary: JavaScript test extension that exercises declarative webRequest rules, including header and cookie modifications, redirects, and request cancellation.
+// ---
+
 const onRequest = chrome.declarativeWebRequest.onRequest;
 const AddResponseHeader = chrome.declarativeWebRequest.AddResponseHeader;
 const RequestMatcher = chrome.declarativeWebRequest.RequestMatcher;

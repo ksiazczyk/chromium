@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the test_extra_headers webRequest test extension
+summary: Chrome extension manifest that declares webRequest permissions and the background script used by the header test extension.
