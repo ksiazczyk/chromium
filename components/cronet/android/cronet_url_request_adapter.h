@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cronet URL request adapter header
+// summary: Declares the adapter from Java CronetUrlRequest to native CronetURLRequest with methods for starting, reading data, following redirects, and destroying requests.
+// ---
+
 #ifndef COMPONENTS_CRONET_ANDROID_CRONET_URL_REQUEST_ADAPTER_H_
 #define COMPONENTS_CRONET_ANDROID_CRONET_URL_REQUEST_ADAPTER_H_
 

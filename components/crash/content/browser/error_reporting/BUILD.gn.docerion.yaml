@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for error_reporting
+summary: Defines the error_reporting component and the test-only mock_crash_endpoint source set with their sources and dependencies.

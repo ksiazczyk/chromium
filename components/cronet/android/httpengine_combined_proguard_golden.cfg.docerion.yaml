@@ -1,0 +1,4 @@
+# Docerion header of httpengine_combined_proguard_golden.cfg.
+type: config
+title: HTTP engine combined ProGuard golden config
+summary: Combined ProGuard keep-rule configuration for the HTTP engine, serving as a golden reference for rules shared with third-party apps bundling Cronet.

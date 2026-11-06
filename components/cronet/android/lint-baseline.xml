@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--docerion
+type: config
+title: Android lint baseline for Cronet
+summary: Records known Android lint issues, such as an unused network security config resource, so future lint runs only report new problems.
+-->
+
 <issues format="6" by="lint 9.1.0-alpha06" type="baseline" client="" dependencies="true" name="" variant="all" version="9.1.0-alpha06">
 
     <issue

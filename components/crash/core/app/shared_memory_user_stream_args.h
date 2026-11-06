@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared memory user stream argument API
+// summary: Declares utilities for marshaling read-only shared memory region handles to the Crashpad process via command-line arguments on Windows, Linux, ChromeOS and Android.
+// ---
+
 #ifndef COMPONENTS_CRASH_CORE_APP_SHARED_MEMORY_USER_STREAM_ARGS_H_
 #define COMPONENTS_CRASH_CORE_APP_SHARED_MEMORY_USER_STREAM_ARGS_H_
 

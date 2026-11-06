@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash key internal helpers
+// summary: Implements internal formatting of stack trace addresses into a space-separated string for crash key values, respecting a maximum length.
+// ---
+
 #include "components/crash/core/common/crash_key.h"
 
 #include "base/debug/stack_trace.h"

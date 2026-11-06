@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ThirdPartyCredentialManagerImpl
+// summary: Unit tests for the Android third-party credential manager implementation, using a mocked credential manager bridge to verify store, get and empty-credential handling behaviour.
+// ---
+
 #include "components/credential_management/android/third_party_credential_manager_impl.h"
 
 #include "base/test/mock_callback.h"

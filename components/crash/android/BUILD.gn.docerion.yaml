@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Android crash component build targets
+summary: GN build file defining JNI generation, Java libraries, native source sets, proto and enum targets for the Android crash reporting component.

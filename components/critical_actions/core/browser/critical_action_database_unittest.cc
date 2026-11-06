@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CriticalActionDatabase unit tests
+// summary: Tests database initialization, add and get round trips, duplicate insertion failure, deletions, and SQLite error histogram reporting.
+// ---
+
 #include "components/critical_actions/core/browser/critical_action_database.h"
 
 #include "base/files/file_util.h"

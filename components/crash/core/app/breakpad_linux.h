@@ -4,6 +4,12 @@
 
 // Public interface for enabling Breakpad on Linux systems.
 
+// ---docerion
+// type: source
+// title: Public interface for enabling Breakpad on Linux
+// summary: Declares functions to initialize the crash reporter, set channel crash keys, generate minidumps on demand, and install a first-chance exception handler.
+// ---
+
 #ifndef COMPONENTS_CRASH_CORE_APP_BREAKPAD_LINUX_H_
 #define COMPONENTS_CRASH_CORE_APP_BREAKPAD_LINUX_H_
 

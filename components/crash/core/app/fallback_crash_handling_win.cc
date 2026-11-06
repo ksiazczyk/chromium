@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows fallback crash handling setup
+// summary: Sets up fallback crash handling on Windows by installing an unhandled exception filter that launches the fallback handler to dump crashed processes.
+// ---
+
 #include "components/crash/core/app/fallback_crash_handling_win.h"
 
 #include <memory>

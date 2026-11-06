@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash reporter command-line switches
+// summary: Defines command-line switch names for the embedded crashpad handler process, its PID on Linux and ChromeOS, and the ChromeOS crash-loop timestamp passed by session_manager.
+// ---
+
 #include "components/crash/core/app/crash_switches.h"
 
 #include "build/build_config.h"

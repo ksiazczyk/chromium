@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CronetProxyDelegate implementation
+// summary: Implements the net::ProxyDelegate behind org.chromium.net.ProxyOptions, mapping configured proxies and handling fallback and tunnel request headers.
+// ---
+
 #include "components/cronet/cronet_proxy_delegate.h"
 
 #include "base/logging.h"

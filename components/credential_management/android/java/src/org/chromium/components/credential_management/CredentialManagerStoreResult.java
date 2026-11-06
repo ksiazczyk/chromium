@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential manager store result codes
+// summary: Defines the IntDef result codes for Android Credential Manager store (create) operations, persisted to logs and mirrored in the histograms metadata.
+// ---
+
 package org.chromium.components.credential_management;
 
 import androidx.annotation.IntDef;

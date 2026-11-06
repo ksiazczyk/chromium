@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Cronet Android GN build configuration
+summary: Defines GN targets for the Android Cronet build, including JNI generation, Java libraries, and version stamping.

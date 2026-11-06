@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for error_reporting
+summary: Grants the error_reporting directory permission to include headers from the net dependency.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crash key unit tests
+// summary: Unit tests covering CrashKeyString behavior, scoped keys, array initialization, and stack trace formatting.
+// ---
+
 #include "components/crash/core/common/crash_key.h"
 
 #include "base/debug/crash_logging.h"

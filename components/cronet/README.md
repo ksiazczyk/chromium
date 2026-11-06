@@ -1,3 +1,13 @@
+---
+type: readme
+title: What is Cronet
+summary: Introduces Cronet as Chromium's networking stack packaged for Android and links to quick start, build, and test instructions.
+relations:
+  - references /components/cronet/build_instructions.md
+  - references /components/cronet/getting_started.md
+  - references /components/cronet/test_instructions.md
+---
+
 # What is Cronet
 
 Cronet is the networking stack of Chromium put into a library for use on

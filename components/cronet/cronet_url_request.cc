@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cronet URL request implementation
+// summary: Implements CronetURLRequest, handling method and header setup, load flag calculation, uploads, redirects, and network task coordination for Cronet requests.
+// ---
+
 #include "components/cronet/cronet_url_request.h"
 
 #include <limits>

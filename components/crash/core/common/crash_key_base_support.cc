@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base crash key implementation bridge
+// summary: Implements the base::debug crash key interface on top of the crash reporter CrashKeyString API, including allocation, set, clear, and dumping keys to a stream.
+// ---
+
 #include "components/crash/core/common/crash_key_base_support.h"
 
 #include <memory>

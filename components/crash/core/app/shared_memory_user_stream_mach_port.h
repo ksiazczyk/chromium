@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mach port transport API for shared memory user streams
+// summary: Declares functions to send shared memory user stream regions to a new Mach port in Chrome and receive them in the Crashpad process on macOS.
+// ---
+
 #ifndef COMPONENTS_CRASH_CORE_APP_SHARED_MEMORY_USER_STREAM_MACH_PORT_H_
 #define COMPONENTS_CRASH_CORE_APP_SHARED_MEMORY_USER_STREAM_MACH_PORT_H_
 

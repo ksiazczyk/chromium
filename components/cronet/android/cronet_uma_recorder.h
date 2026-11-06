@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cronet UMA recorder header
+// summary: Declares a thread-safe singleton recorder that queues Cronet UMA samples on any thread and reports them to Java via JNI with allowlist filtering and rate limiting.
+// ---
+
 #ifndef COMPONENTS_CRONET_ANDROID_CRONET_UMA_RECORDER_H_
 #define COMPONENTS_CRONET_ANDROID_CRONET_UMA_RECORDER_H_
 

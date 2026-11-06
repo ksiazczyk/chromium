@@ -1,0 +1,4 @@
+# Docerion header of silent_java_assert_reporting.gni.
+type: config
+title: Silent Java assert reporting build arguments
+summary: GN import file declaring the enable_silent_java_assert_reporting argument that routes Java assertions to crash reporting on canary builds.

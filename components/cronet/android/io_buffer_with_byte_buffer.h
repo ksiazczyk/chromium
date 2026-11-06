@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IO buffer with byte buffer header
+// summary: Declares wrappers that keep Java ByteBuffers and net IO buffers alive and interoperable during Cronet network operations.
+// ---
+
 #ifndef COMPONENTS_CRONET_ANDROID_IO_BUFFER_WITH_BYTE_BUFFER_H_
 #define COMPONENTS_CRONET_ANDROID_IO_BUFFER_WITH_BYTE_BUFFER_H_
 

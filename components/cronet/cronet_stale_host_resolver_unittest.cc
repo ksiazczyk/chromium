@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cronet stale host resolver unit tests
+// summary: Unit tests verifying Cronet's stale host resolver behavior, including serving cached addresses when DNS resolution fails or cache entries expire.
+// ---
+
 
 #include <memory>
 #include <optional>

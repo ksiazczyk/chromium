@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for crash reporting common targets
+summary: Defines GN targets for the crash key system, shared memory user streams, zombie support, and build flags that select Crashpad, Breakpad, or stub implementations.

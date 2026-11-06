@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Critical action entry label and tooltip implementation
+// summary: Implements CriticalActionEntry methods that return localized labels and tooltips for each action type, including WebMCP tool metadata handling.
+// ---
+
 #include "components/critical_actions/core/browser/critical_action_types.h"
 
 #include "base/json/json_reader.h"

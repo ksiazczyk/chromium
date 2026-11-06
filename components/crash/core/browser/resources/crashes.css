@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Stylesheet for the crashes page
+summary: Styles the crashes page, covering the sad tab heading, count banner, crash rows, developer details and disabled mode.
+*/
+
 body {
   margin: 20px;
 }

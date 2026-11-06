@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLRequestContextConfig declaration
+// summary: Declares the URLRequestContextConfig struct holding Cronet request context settings such as HTTP cache, QUIC hints, public key pins, and preloaded headers.
+// ---
+
 #ifndef COMPONENTS_CRONET_URL_REQUEST_CONTEXT_CONFIG_H_
 #define COMPONENTS_CRONET_URL_REQUEST_CONTEXT_CONFIG_H_
 

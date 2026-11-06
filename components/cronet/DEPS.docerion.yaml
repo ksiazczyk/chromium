@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Cronet dependency include rules
+summary: Defines the allowed include paths, such as net, prefs, metrics, and zlib, for code in the Cronet directory.

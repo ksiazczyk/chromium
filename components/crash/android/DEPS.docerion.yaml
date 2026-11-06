@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Directory dependency rules
+summary: DEPS include rules allowing dependencies on crash JNI headers, minidump uploader, version info, crashpad, and content browser Java code.

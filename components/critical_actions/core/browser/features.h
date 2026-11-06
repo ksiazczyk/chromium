@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Critical Action History feature flag declarations
+// summary: Declares the kCriticalActionHistory feature and its cache capacity and chat linkout parameters for the critical actions component.
+// ---
+
 #ifndef COMPONENTS_CRITICAL_ACTIONS_CORE_BROWSER_FEATURES_H_
 #define COMPONENTS_CRITICAL_ACTIONS_CORE_BROWSER_FEATURES_H_
 

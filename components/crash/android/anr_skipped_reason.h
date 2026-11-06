@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ANR skipped reason enum
+// summary: Defines the AnrSkippedReason enum recording how many and why ANRs were not uploaded to UMA, with a generated Java counterpart.
+// ---
+
 #ifndef COMPONENTS_CRASH_ANDROID_ANR_SKIPPED_REASON_H_
 #define COMPONENTS_CRASH_ANDROID_ANR_SKIPPED_REASON_H_
 

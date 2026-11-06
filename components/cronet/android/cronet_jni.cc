@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cronet JNI library load and unload entry points
+// summary: Defines the JNI_OnLoad and JNI_OnUnLoad entry points that delegate to the Cronet library loader when the native shared library is loaded or unloaded.
+// ---
+
 #include "components/cronet/android/cronet_library_loader.h"
 
 // This is called by the VM when the shared library is first loaded.

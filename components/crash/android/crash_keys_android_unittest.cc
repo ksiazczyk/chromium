@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android crash keys unit tests
+// summary: Unit tests verifying that Android crash keys can be set, cleared, and flushed through the crash reporter API.
+// ---
+
 #include "components/crash/android/crash_keys_android.h"
 
 #include "components/crash/core/common/crash_key.h"

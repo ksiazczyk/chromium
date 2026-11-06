@@ -1,0 +1,4 @@
+# Docerion header of crashpad_ios_unittest.mm.
+type: test
+title: Crashpad iOS unit tests
+summary: Unit test verifying that ProcessExternalDump creates a pending report with the expected attachment in the crash report database on iOS.

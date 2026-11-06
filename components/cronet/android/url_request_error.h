@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL request error enum
+// summary: Defines the Java-generated UrlRequestError enum of common network error codes and declares the net error conversion function.
+// ---
+
 #ifndef COMPONENTS_CRONET_ANDROID_URL_REQUEST_ERROR_H_
 #define COMPONENTS_CRONET_ANDROID_URL_REQUEST_ERROR_H_
 

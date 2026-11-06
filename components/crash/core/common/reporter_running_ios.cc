@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash reporter running state for iOS
+// summary: Tracks global flags reporting whether Breakpad or Crashpad is currently running on iOS.
+// ---
+
 #import "components/crash/core/common/reporter_running_ios.h"
 
 namespace crash_reporter {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for Cronet library loader entry points
+// summary: Declares the CronetOnLoad and CronetOnUnLoad functions that handle Java VM attach and detach for the Cronet native library.
+// ---
+
 #ifndef COMPONENTS_CRONET_ANDROID_CRONET_LIBRARY_LOADER_H_
 #define COMPONENTS_CRONET_ANDROID_CRONET_LIBRARY_LOADER_H_
 

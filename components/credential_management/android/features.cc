@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature flag for forwarding credential requests to third-party managers
+// summary: Defines the kCredentialManagementThirdPartyWebApiRequestForwarding feature that lets Chrome forward Credential Management API requests to third-party password managers.
+// ---
+
 #include "components/credential_management/android/features.h"
 
 #include "base/feature_list.h"

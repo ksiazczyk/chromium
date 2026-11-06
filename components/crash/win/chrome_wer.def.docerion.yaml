@@ -1,0 +1,4 @@
+# Docerion header of chrome_wer.def.
+type: config
+title: chrome_wer.def module exports for WER callbacks
+summary: Declares the chrome_wer.dll library and exports the three WER callback functions required by the Windows Error Reporting API.

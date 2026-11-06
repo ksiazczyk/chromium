@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Credential manager interface declaration
+// summary: Abstract interface defining Store, PreventSilentAccess, Get and ResetAfterDisconnecting for platform-specific credential manager implementations.
+// ---
+
 #ifndef COMPONENTS_CREDENTIAL_MANAGEMENT_CREDENTIAL_MANAGER_INTERFACE_H_
 #define COMPONENTS_CREDENTIAL_MANAGEMENT_CREDENTIAL_MANAGER_INTERFACE_H_
 

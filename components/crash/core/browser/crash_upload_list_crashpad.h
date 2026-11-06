@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crashpad crash upload list class declaration
+// summary: Declares CrashUploadListCrashpad, an UploadList subclass that retrieves the list of crash reports from the Crashpad database.
+// ---
+
 #ifndef COMPONENTS_CRASH_CORE_BROWSER_CRASH_UPLOAD_LIST_CRASHPAD_H_
 #define COMPONENTS_CRASH_CORE_BROWSER_CRASH_UPLOAD_LIST_CRASHPAD_H_
 

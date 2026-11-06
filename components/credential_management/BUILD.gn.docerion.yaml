@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Credential management build configuration
+summary: GN build rules defining browser and unit test source sets for the credential management component and its dependencies.

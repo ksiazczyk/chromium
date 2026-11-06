@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Error reporting URL redaction utility implementation
+// summary: Implements RedactUrlForErrorReports, which strips username, password, query, and fragment from a URL for privacy-safe error reporting.
+// ---
+
 #include "components/crash/content/browser/error_reporting/error_reporting_util.h"
 
 #include "url/gurl.h"

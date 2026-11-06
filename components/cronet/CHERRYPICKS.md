@@ -1,3 +1,11 @@
+---
+type: guide
+title: Cronet cherrypicks guide
+summary: Explains when and how to cherrypick Cronet changes to the Beta and Stable release tracks so production changes are tested first.
+relations:
+  - references /components/cronet/README.md
+---
+
 # Cherrypicks guide
 
 Files in //components/cronet are never a part of Chromium build. Instead, they are exclusively a part of [Cronet](README.md). Therefore, there is little value in this code going through the Chromium's verification process. Instead, we will eagerly cherrypick changes as needed, based on the stability signals from devices where the code is actually released.

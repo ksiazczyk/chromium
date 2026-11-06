@@ -1,0 +1,4 @@
+# Docerion header of objc_zombie.mm.
+type: source
+title: Objective-C zombie debugging implementation
+summary: Implements NSZombie-style debugging that reclassifies deallocated Objective-C objects as zombies and records deallocation backtraces.

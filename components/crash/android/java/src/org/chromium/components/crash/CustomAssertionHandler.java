@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'CustomAssertionHandler: R8 assertion handler for crash reporting'
+// summary: Static assertion handler that R8's --force-assertions-handler flag targets, forwarding assertion failures to the pure Java exception reporter once it is installed.
+// ---
+
 package org.chromium.components.crash;
 
 import org.chromium.build.annotations.MonotonicNonNull;

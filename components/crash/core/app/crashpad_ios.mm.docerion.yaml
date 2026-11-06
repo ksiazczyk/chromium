@@ -1,0 +1,4 @@
+# Docerion header of crashpad_ios.mm.
+type: source
+title: Crashpad iOS crash reporting implementation
+summary: Implements Crashpad crash reporting for iOS and tvOS, building process annotations and processing intermediate and external dumps with attachments.

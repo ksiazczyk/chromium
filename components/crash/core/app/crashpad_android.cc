@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Crashpad platform initialization
+// summary: Implements Android-specific Crashpad initialization, covering sanitization settings, signal and exception handling, JNI integration, and shared memory user stream arguments.
+// ---
+
 #include "components/crash/core/app/crashpad.h"
 
 #include <dlfcn.h>

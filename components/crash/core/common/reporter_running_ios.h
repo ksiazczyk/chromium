@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash reporter running state for iOS
+// summary: Declares functions to query and set whether the Breakpad or Crashpad crash reporter is installed and running on iOS.
+// ---
+
 #ifndef COMPONENTS_CRASH_CORE_COMMON_REPORTER_RUNNING_IOS_H_
 #define COMPONENTS_CRASH_CORE_COMMON_REPORTER_RUNNING_IOS_H_
 

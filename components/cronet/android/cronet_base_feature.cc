@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cronet base feature override application
+// summary: Applies BaseFeatureOverrides by building a FeatureList with fake Cronet field trials and associated parameters.
+// ---
+
 #include "components/cronet/android/cronet_base_feature.h"
 
 #include "base/debug/leak_annotations.h"

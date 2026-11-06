@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CronetContext class declaration
+// summary: Declares the CronetContext wrapper around net::URLRequestContext and its callback interface for network thread lifecycle, quality estimates, and proxy tunnel events.
+// ---
+
 #ifndef COMPONENTS_CRONET_CRONET_CONTEXT_H_
 #define COMPONENTS_CRONET_CRONET_CONTEXT_H_
 

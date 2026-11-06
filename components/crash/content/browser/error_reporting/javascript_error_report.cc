@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaScriptErrorReport implementation
+// summary: Provides the default constructor, copy and move operations, and destructor for the JavaScriptErrorReport struct.
+// ---
+
 #include "components/crash/content/browser/error_reporting/javascript_error_report.h"
 
 JavaScriptErrorReport::JavaScriptErrorReport() = default;

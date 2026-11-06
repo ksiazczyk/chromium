@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash export thunks declarations
+// summary: Declares the C-exported thunk functions used on Windows to access crash reporting features across module boundaries, with notes on naming to avoid linker collisions.
+// ---
+
 #ifndef COMPONENTS_CRASH_CORE_APP_CRASH_EXPORT_THUNKS_H_
 #define COMPONENTS_CRASH_CORE_APP_CRASH_EXPORT_THUNKS_H_
 

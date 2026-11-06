@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrashMetricsReporter class declaration for Android
+// summary: Declares CrashMetricsReporter with UMA enums for processed crash counts and minidump status, plus an observer interface for child process crash metrics.
+// ---
+
 #ifndef COMPONENTS_CRASH_CONTENT_BROWSER_CRASH_METRICS_REPORTER_ANDROID_H_
 #define COMPONENTS_CRASH_CONTENT_BROWSER_CRASH_METRICS_REPORTER_ANDROID_H_
 

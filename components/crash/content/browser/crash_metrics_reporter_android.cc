@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash metrics reporter implementation for Android
+// summary: Implements CrashMetricsReporter, which reports child process crash, OOM and kill metrics to UMA, including system exit reasons and spare renderer availability.
+// ---
+
 #include "components/crash/content/browser/crash_metrics_reporter_android.h"
 
 #include <string_view>

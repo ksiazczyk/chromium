@@ -1,0 +1,4 @@
+# Docerion header of cronet_combined_impl_platform_proguard_golden.cfg.
+type: config
+title: Golden ProGuard config for the Cronet platform implementation
+summary: Golden copy of the ProGuard rules expected for apps that depend on the Cronet platform implementation JAR, keeping JavaCronetProvider's constructor.

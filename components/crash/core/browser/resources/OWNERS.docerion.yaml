@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the crash resources directory
+summary: Lists code owners for this directory, delegating trivial or mechanical JS, CSS, and HTML changes to the WebUI platform owners.

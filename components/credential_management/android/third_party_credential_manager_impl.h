@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThirdPartyCredentialManagerImpl class header
+// summary: Declares ThirdPartyCredentialManagerImpl, which implements CredentialManagerInterface methods such as Store, Get and PreventSilentAccess for Chrome on Android in third-party mode.
+// ---
+
 #ifndef COMPONENTS_CREDENTIAL_MANAGEMENT_ANDROID_THIRD_PARTY_CREDENTIAL_MANAGER_IMPL_H_
 #define COMPONENTS_CREDENTIAL_MANAGEMENT_ANDROID_THIRD_PARTY_CREDENTIAL_MANAGER_IMPL_H_
 

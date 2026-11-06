@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cronet network tasks unit tests
+// summary: Unit tests exercising Cronet network tasks with a mock network change notifier, test task environment, and a simple request context configuration.
+// ---
+
 #include <latch>
 
 #include "base/task/single_thread_task_runner.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crashpad initialization implementation
+// summary: Implements Crashpad initialization for browser and child processes, including database setup, upload settings, crash keys, and dispatch to platform-specific initialization.
+// ---
+
 #include "components/crash/core/app/crashpad.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host cache persistence manager implementation
+// summary: Implements HostCachePersistenceManager, which restores the host cache from prefs on startup and schedules delayed writes of cache state back to prefs.
+// ---
+
 #include "components/cronet/host_cache_persistence_manager.h"
 
 #include <memory>

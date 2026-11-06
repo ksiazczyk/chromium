@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CriticalActionService implementation
+// summary: Implements the UI-thread keyed service that caches navigation and task mappings, resolves visit and conversation IDs, and dispatches to the backend.
+// ---
+
 #include "components/critical_actions/core/browser/critical_action_service.h"
 
 #include <algorithm>

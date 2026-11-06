@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash keys helper declarations
+// summary: Declares crash key helpers for the metrics client ID, command-line switches and features, and scoped printer info.
+// ---
+
 #ifndef COMPONENTS_CRASH_CORE_COMMON_CRASH_KEYS_H_
 #define COMPONENTS_CRASH_CORE_COMMON_CRASH_KEYS_H_
 

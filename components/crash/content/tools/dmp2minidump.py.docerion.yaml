@@ -1,0 +1,4 @@
+# Docerion header of dmp2minidump.py.
+type: script
+title: dmp2minidump.py
+summary: Command-line tool that extracts the minidump attachment from multipart dmp crash dump files so minidump_stackwalk can process it.

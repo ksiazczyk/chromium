@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared memory user stream command-line argument handling
+// summary: Implements appending and parsing of --user-stream-region command-line arguments that pass shared memory region handles from the browser to the Crashpad handler on Windows, Linux, ChromeOS and Android.
+// ---
+
 #include "components/crash/core/app/shared_memory_user_stream_args.h"
 
 #include "build/build_config.h"

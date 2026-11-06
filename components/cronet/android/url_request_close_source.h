@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connection close source enum and converter
+// summary: Defines the Java-generated ConnectionCloseSource enum and declares the converter from QUIC connection close sources.
+// ---
+
 #ifndef COMPONENTS_CRONET_ANDROID_URL_REQUEST_CLOSE_SOURCE_H_
 #define COMPONENTS_CRONET_ANDROID_URL_REQUEST_CLOSE_SOURCE_H_
 

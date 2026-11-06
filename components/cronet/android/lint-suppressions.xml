@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
+<!--docerion
+type: config
+title: Android lint suppressions for Cronet
+summary: Suppresses all Android lint issues in the Chromium base, net, and testing directories when linting Cronet Android code.
+-->
+
 <lint>
   <!-- Ignore all lint errors in chrome code. -->
   <issue id="all">

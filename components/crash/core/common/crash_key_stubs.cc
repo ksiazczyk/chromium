@@ -5,6 +5,12 @@
 // This file is only used for OS_FUCHSIA, since there is no crash reporter
 // for that platform.
 
+// ---docerion
+// type: source
+// title: Crash key stubs for Fuchsia
+// summary: No-op stub implementations of the crash key API used on Fuchsia, where no crash reporter exists.
+// ---
+
 #include "components/crash/core/common/crash_key.h"
 
 #include <string_view>

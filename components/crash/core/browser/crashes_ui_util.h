@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crashes WebUI localized strings and constants
+// summary: Declares the mapping of WebUI string names to GRIT resource IDs plus message constants used by the crashes page, and the upload list conversion function.
+// ---
+
 #ifndef COMPONENTS_CRASH_CORE_BROWSER_CRASHES_UI_UTIL_H_
 #define COMPONENTS_CRASH_CORE_BROWSER_CRASHES_UI_UTIL_H_
 

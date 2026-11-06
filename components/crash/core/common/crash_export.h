@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Export macros for the crash key component
+// summary: Defines CRASH_EXPORT and CRASH_KEY_EXPORT macros controlling symbol visibility in component builds, including dllexport and dllimport on Windows.
+// ---
+
 #ifndef COMPONENTS_CRASH_CORE_COMMON_CRASH_EXPORT_H_
 #define COMPONENTS_CRASH_CORE_COMMON_CRASH_EXPORT_H_
 

@@ -5,6 +5,12 @@
 // NOTE: This file is only compiled when Crashpad is used as the crash
 // reporter.
 
+// ---docerion
+// type: source
+// title: Crashpad-backed crash key initialization
+// summary: Initializes crash keys using Crashpad's annotation list and provides lookup and reset helpers for reading key values in tests.
+// ---
+
 #include "components/crash/core/common/crash_key.h"
 
 #include "base/debug/crash_logging.h"

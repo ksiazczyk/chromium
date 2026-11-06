@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows fallback crash handler implementation
+// summary: Implements the Windows fallback crash handler that parses command-line arguments and generates minidump crash reports enriched with process and system memory metrics.
+// ---
+
 #include "components/crash/core/app/fallback_crash_handler_win.h"
 
 #include <dbghelp.h>

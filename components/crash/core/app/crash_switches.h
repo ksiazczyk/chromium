@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash reporter switch declarations
+// summary: Declares the crash reporter command-line switch constants such as the crashpad handler type, handler PID, and the ChromeOS crash-loop marker.
+// ---
+
 #ifndef COMPONENTS_CRASH_CORE_APP_CRASH_SWITCHES_H_
 #define COMPONENTS_CRASH_CORE_APP_CRASH_SWITCHES_H_
 

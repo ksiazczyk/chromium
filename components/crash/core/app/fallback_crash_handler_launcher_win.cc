@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows fallback crash handler launcher implementation
+// summary: Prepares and launches the fallback crash handler process for the Crashpad handler on Windows, passing exception pointers and process handles.
+// ---
+
 #include "components/crash/core/app/fallback_crash_handler_launcher_win.h"
 
 #include "base/check_op.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared memory user stream writer
+// summary: Implements double-buffered writing of user stream data into a shared memory region, atomically activating slots for consistent crash handler reads.
+// ---
+
 #include "components/crash/core/common/shared_memory_user_stream_writer.h"
 
 #include <atomic>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock crash endpoint for tests
+// summary: Implements a test-only mock crash upload endpoint on an embedded test server that captures and parses incoming crash reports.
+// ---
+
 #include "components/crash/content/browser/error_reporting/mock_crash_endpoint.h"
 
 #include "base/memory/raw_ptr.h"

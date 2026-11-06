@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host cache persistence manager class declaration
+// summary: Declares HostCachePersistenceManager, which handles the interaction between net::HostCache and PrefService for persisting DNS cache entries.
+// ---
+
 #ifndef COMPONENTS_CRONET_HOST_CACHE_PERSISTENCE_MANAGER_H_
 #define COMPONENTS_CRONET_HOST_CACHE_PERSISTENCE_MANAGER_H_
 

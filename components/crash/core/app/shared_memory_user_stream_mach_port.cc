@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mach port transport for shared memory user streams
+// summary: Implements sending and receiving shared memory user stream regions between Chrome and the Crashpad process via Mach messages and ports on macOS.
+// ---
+
 #include "components/crash/core/app/shared_memory_user_stream_mach_port.h"
 
 #include <mach/mach.h>

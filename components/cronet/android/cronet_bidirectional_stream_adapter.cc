@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cronet bidirectional stream adapter implementation
+// summary: Implements the JNI adapter for CronetBidirectionalStream, bridging Java bidirectional streams to the native network stack with metrics.
+// ---
+
 #include "components/cronet/android/cronet_bidirectional_stream_adapter.h"
 
 #include <cstddef>

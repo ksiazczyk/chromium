@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Critical Action History feature flags
+// summary: Defines the kCriticalActionHistory feature, disabled by default, with parameters controlling LRU cache capacities and a chat linkout toggle.
+// ---
+
 #include "components/critical_actions/core/browser/features.h"
 
 #include "base/feature_list.h"

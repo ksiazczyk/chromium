@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cronet upload data stream class declaration
+// summary: Declares the CronetUploadDataStream class and its Delegate interface, which coordinate read, rewind, and reset operations for upload data on the network thread.
+// ---
+
 #ifndef COMPONENTS_CRONET_CRONET_UPLOAD_DATA_STREAM_H_
 #define COMPONENTS_CRONET_CRONET_UPLOAD_DATA_STREAM_H_
 

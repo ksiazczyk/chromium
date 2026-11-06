@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for PureJavaExceptionReporter
+// summary: Robolectric unit tests for PureJavaExceptionReporter verifying that generated minidump reports contain the expected fields and are uploaded.
+// ---
+
 package org.chromium.components.crash;
 
 import org.junit.Assert;

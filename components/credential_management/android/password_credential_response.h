@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: C++ counterpart of the Java PasswordCredentialResponse class
+// summary: Declares a struct carrying success, username and password from the Credential Management API, with JNI conversion helpers for jni_zero.
+// ---
+
 #ifndef COMPONENTS_CREDENTIAL_MANAGEMENT_ANDROID_PASSWORD_CREDENTIAL_RESPONSE_H_
 #define COMPONENTS_CREDENTIAL_MANAGEMENT_ANDROID_PASSWORD_CREDENTIAL_RESPONSE_H_
 

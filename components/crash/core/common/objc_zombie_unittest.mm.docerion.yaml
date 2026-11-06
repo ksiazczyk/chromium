@@ -1,0 +1,4 @@
+# Docerion header of objc_zombie_unittest.mm.
+type: test
+title: Objective-C zombie debugging tests
+summary: Tests that C++ destructors and associated objects are released when Objective-C objects become zombies.

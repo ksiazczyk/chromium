@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cronet upload data stream adapter implementation
+// summary: Implements the JNI adapter that forwards upload data stream read and rewind requests between Java CronetUploadDataStream and the native upload data stream.
+// ---
+
 #include "components/cronet/android/cronet_upload_data_stream_adapter.h"
 
 #include <memory>

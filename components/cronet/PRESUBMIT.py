@@ -1,6 +1,13 @@
 # Copyright 2015 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: ci
+# title: Cronet presubmit checks
+# summary: Presubmit script that runs patch and GN formatting checks for changes made in the Cronet directory.
+# ---
+
 """Top-level presubmit script for src/components/cronet.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared memory user stream data source API
+// summary: Declares a Crashpad user stream data source that extracts minidump user stream data from shared memory mappings, plus a factory for creating data sources from regions.
+// ---
+
 #ifndef COMPONENTS_CRASH_CORE_APP_SHARED_MEMORY_USER_STREAM_DATA_SOURCE_H_
 #define COMPONENTS_CRASH_CORE_APP_SHARED_MEMORY_USER_STREAM_DATA_SOURCE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for crash JUnit tests
+summary: Dependency rules for the crash component's JUnit test directory, allowing test dependencies from content/public/test/android.

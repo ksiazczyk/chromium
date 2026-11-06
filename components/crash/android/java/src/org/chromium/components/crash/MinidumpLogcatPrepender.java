@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'MinidumpLogcatPrepender: attach logcat to minidump uploads'
+// summary: Writes logcat lines into a MIME multipart block and appends the original minidump data, producing a combined file ready for crash upload.
+// ---
+
 package org.chromium.components.crash;
 
 import androidx.annotation.VisibleForTesting;

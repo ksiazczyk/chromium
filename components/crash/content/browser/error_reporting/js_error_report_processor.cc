@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JsErrorReportProcessor implementation
+// summary: Implements the global default processor pointer and the Get and SetDefault accessors for JsErrorReportProcessor.
+// ---
+
 #include "components/crash/content/browser/error_reporting/js_error_report_processor.h"
 
 #include "base/no_destructor.h"

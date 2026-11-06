@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics utility functions implementation
+// summary: Implements helpers that convert TimeTicks-based timing metrics to milliseconds since the Unix epoch and derive proxy information from a proxy chain.
+// ---
+
 #include "components/cronet/metrics_util.h"
 
 #include "base/check.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the crash core browser component
+summary: Defines the browser static library, listing its sources and dependencies, with Crashpad-specific sources added on non-ChromeOS and non-Fuchsia platforms.

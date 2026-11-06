@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared memory user stream memory layout
+// summary: Defines the shared memory layout and double-buffering protocol used to expose minidump user stream data to an out-of-process crash handler.
+// ---
+
 #ifndef COMPONENTS_CRASH_CORE_COMMON_SHARED_MEMORY_USER_STREAM_H_
 #define COMPONENTS_CRASH_CORE_COMMON_SHARED_MEMORY_USER_STREAM_H_
 

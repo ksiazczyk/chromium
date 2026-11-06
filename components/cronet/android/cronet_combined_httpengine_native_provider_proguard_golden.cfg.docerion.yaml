@@ -1,0 +1,4 @@
+# Docerion header of cronet_combined_httpengine_native_provider_proguard_golden.cfg.
+type: config
+title: Golden ProGuard config for the HTTP engine native provider
+summary: Golden copy of the ProGuard rules expected for apps that depend on the Cronet HTTP engine native provider JAR, keeping its reflection-used constructor.

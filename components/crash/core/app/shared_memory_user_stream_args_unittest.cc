@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared memory user stream argument unit tests
+// summary: Unit tests verifying append and extract round trips for shared memory user stream arguments, including invalid argument handling and simulated OS handle duplication.
+// ---
+
 #include "components/crash/core/app/shared_memory_user_stream_args.h"
 
 #include <set>

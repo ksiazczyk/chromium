@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Third-party credential manager bridge
+// summary: Android bridge that issues get and create credential requests through the AndroidX Credential Manager and reports results to native code.
+// ---
+
 package org.chromium.components.credential_management;
 
 import android.app.Activity;

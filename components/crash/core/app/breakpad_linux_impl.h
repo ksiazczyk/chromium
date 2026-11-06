@@ -5,6 +5,12 @@
 // Internal header file for the Linux breakpad implementation. This file is
 // shared between crash_handler_host_linux.cc and breakpad_linux.cc.
 
+// ---docerion
+// type: source
+// title: Internal header for the Linux Breakpad implementation
+// summary: Internal header shared between the crash handler host and Breakpad Linux code, defining the BreakpadInfo crash report structure and related size constants.
+// ---
+
 #ifndef COMPONENTS_CRASH_CORE_APP_BREAKPAD_LINUX_IMPL_H_
 #define COMPONENTS_CRASH_CORE_APP_BREAKPAD_LINUX_IMPL_H_
 

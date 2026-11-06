@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Host cache persistence manager unit tests
+// summary: Unit tests verifying that HostCachePersistenceManager writes host cache changes to prefs at the expected times using mock time and a testing pref service.
+// ---
+
 #include "components/cronet/host_cache_persistence_manager.h"
 
 #include "base/test/scoped_mock_time_message_loop_task_runner.h"

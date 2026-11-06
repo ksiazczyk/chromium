@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crashpad Linux crash reporting implementation
+// summary: Implements Crashpad initialization on Linux and ChromeOS, including first-chance handler delegation and signaling crash_reporter readiness.
+// ---
+
 #include "components/crash/core/app/crashpad.h"
 
 #include <pthread.h>

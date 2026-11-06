@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cronet base feature override declaration
+// summary: Declares ApplyBaseFeatureOverrides, which applies base::Feature overrides globally for Cronet.
+// ---
+
 #ifndef COMPONENTS_CRONET_ANDROID_CRONET_BASE_FEATURE_H_
 #define COMPONENTS_CRONET_ANDROID_CRONET_BASE_FEATURE_H_
 

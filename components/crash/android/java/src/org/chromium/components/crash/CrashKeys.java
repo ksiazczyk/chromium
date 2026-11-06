@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'CrashKeys: Java-side crash key storage for crash reports'
+// summary: Holds the build-time-defined crash keys on the Java side, storing values atomically and flushing them to the native CrashKeys for inclusion in browser process crash reports.
+// ---
+
 package org.chromium.components.crash;
 
 import org.jni_zero.CalledByNative;

@@ -5,6 +5,12 @@
 // For linux_syscall_support.h. This makes it safe to call embedded system
 // calls when in seccomp mode.
 
+// ---docerion
+// type: source
+// title: Breakpad crash reporting implementation for Linux
+// summary: Implements Breakpad-based crash reporting on Linux, installing exception handlers, writing minidumps, and preparing crash data for upload.
+// ---
+
 #include "components/crash/core/app/breakpad_linux.h"
 
 #include <fcntl.h>

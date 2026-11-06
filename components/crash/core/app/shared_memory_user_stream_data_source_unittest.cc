@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared memory user stream data source unit tests
+// summary: Unit tests verifying stream production from a shared memory writer, rejection of invalid mappings and stream data, and creation of data sources from regions.
+// ---
+
 #include "components/crash/core/app/shared_memory_user_stream_data_source.h"
 
 #include <stdint.h>

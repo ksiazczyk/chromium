@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash export thunks implementation
+// summary: Implements Windows export thunks that delegate crash report uploads, report listing, consent, product info, database path, and hung-process dumps across module boundaries.
+// ---
+
 #include "components/crash/core/app/crash_export_thunks.h"
 
 #include <algorithm>

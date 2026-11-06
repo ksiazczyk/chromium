@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash handler host implementation for Linux and Android
+// summary: Implements the browser-side crash dump hosts that receive crash signals from child processes over UNIX domain sockets and write minidumps on Linux and Android.
+// ---
+
 #include "components/crash/content/browser/crash_handler_host_linux.h"
 
 #include <errno.h>

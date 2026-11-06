@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JUnit tests for LogcatCrashExtractor
+// summary: JUnit tests for LogcatCrashExtractor covering logcat eliding and trimming of microdump begin, end, and snipped markers.
+// ---
+
 package org.chromium.components.crash;
 
 import static org.junit.Assert.assertArrayEquals;

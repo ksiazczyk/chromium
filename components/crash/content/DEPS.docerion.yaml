@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for crash content
+summary: Defines include rules that allow the crash content component to depend on third_party/breakpad and third_party/crashpad.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android process exit reason JNI wrapper declaration
+// summary: Declares a wrapper around Android ActivityManager exit reasons that records a process's exit reason to UMA.
+// ---
+
 #ifndef COMPONENTS_CRASH_CONTENT_BROWSER_PROCESS_EXIT_REASON_FROM_SYSTEM_ANDROID_H_
 #define COMPONENTS_CRASH_CONTENT_BROWSER_PROCESS_EXIT_REASON_FROM_SYSTEM_ANDROID_H_
 

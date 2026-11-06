@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared memory user stream Crashpad data source
+// summary: Adapts shared memory user stream payloads into Crashpad minidump user extension stream data sources and builds data sources from shared memory regions.
+// ---
+
 #include "components/crash/core/app/shared_memory_user_stream_data_source.h"
 
 #include <stdint.h>

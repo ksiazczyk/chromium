@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows fallback crash handler launcher tests
+// summary: Multiprocess unit tests verifying the launcher passes inherited handles and arguments and that the fallback handler can write a minidump.
+// ---
+
 #include "components/crash/core/app/fallback_crash_handler_launcher_win.h"
 
 #include <dbghelp.h>

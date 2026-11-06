@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the crash reporting browser component
+summary: Defines GN build targets, sources and dependencies for the crash reporting browser component, including JNI header generation and Android unit tests.

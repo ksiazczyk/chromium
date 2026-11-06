@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ANR collector for Android crash reporting
+// summary: Java class that retrieves ANR reports from Android, pairs them with version information, and writes them to files for later upload and UMA tracking.
+// ---
+
 package org.chromium.components.crash.anr;
 
 import android.app.ActivityManager;

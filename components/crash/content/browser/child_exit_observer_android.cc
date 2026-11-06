@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child exit observer implementation for Android
+// summary: Implements ChildExitObserver, which centralises tracking of child process launches, exits and crash signals and notifies registered clients on Android.
+// ---
+
 #include "components/crash/content/browser/child_exit_observer_android.h"
 
 #include <unistd.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows fallback crash handler unit tests
+// summary: Multiprocess unit tests that run the fallback crash handler and verify it produces a valid crash dump in the Crashpad database.
+// ---
+
 #include "components/crash/core/app/fallback_crash_handler_win.h"
 
 #include <map>

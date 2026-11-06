@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the crash browser component
+summary: Specifies the allowed include dependencies for source files in the crash reporting browser component directory.
