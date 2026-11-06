@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoTrap implementation
+// summary: Implements Mojo trap emulation over ipcz traps, translating Mojo signal conditions into ipcz trap conditions and dispatching trap events.
+// ---
+
 #include "mojo/core/ipcz_driver/mojo_trap.h"
 
 #include <cstdint>

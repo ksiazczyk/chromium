@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseSharedMemoryService class declaration
+// summary: Declares the service and client entry points for a lightweight shared memory allocation service used by Mojo-invited processes, including base shared memory hooks.
+// ---
+
 #ifndef MOJO_CORE_IPCZ_DRIVER_BASE_SHARED_MEMORY_SERVICE_H_
 #define MOJO_CORE_IPCZ_DRIVER_BASE_SHARED_MEMORY_SERVICE_H_
 

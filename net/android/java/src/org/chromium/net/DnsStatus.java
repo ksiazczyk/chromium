@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DnsStatus
+// summary: Holds DNS server configuration such as DNS servers, private DNS state and search domains for retrieval by native code via JNI.
+// ---
+
 package org.chromium.net;
 
 import org.jni_zero.CalledByNative;

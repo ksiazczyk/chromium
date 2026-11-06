@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StftVoiceIsolation and WindowedFft declarations
+// summary: Declares StftVoiceIsolation, a time-domain wrapper around an internal component, and WindowedFft, which computes two overlapping Hann-windowed DFTs per call.
+// ---
+
 #ifndef MEDIA_WEBRTC_VOICE_ISOLATION_STFT_VOICE_ISOLATION_H_
 #define MEDIA_WEBRTC_VOICE_ISOLATION_STFT_VOICE_ISOLATION_H_
 

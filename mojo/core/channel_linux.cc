@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux channel with shared memory upgrade
+// summary: Implements the Linux channel with runtime upgrade to a shared memory transport using sealed memfd and eventfd or futex data-available notifications.
+// ---
+
 #include "mojo/core/channel_linux.h"
 
 #include <fcntl.h>

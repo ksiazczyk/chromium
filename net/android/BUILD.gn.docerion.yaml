@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for Android net Java libraries
+summary: Defines GN build targets for the Android network stack, including the net_java Android library, JNI generation, AIDL bindings, and Java test support targets.

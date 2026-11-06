@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC audio processing helper implementations
+// summary: Implements creation and configuration of the WebRTC AudioProcessing module, covering gain control, downmixing, echo cancellation dumps and TFLite model handling.
+// ---
+
 #include "media/webrtc/helpers.h"
 
 #include <string>

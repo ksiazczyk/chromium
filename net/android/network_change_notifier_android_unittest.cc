@@ -4,6 +4,12 @@
 
 // See network_change_notifier_android.h for design explanations.
 
+// ---docerion
+// type: source
+// title: Android network change notifier unit tests
+// summary: Unit tests verifying that network change notifications from the Android delegate are correctly propagated to notifier and delegate observers.
+// ---
+
 #include "net/android/network_change_notifier_android.h"
 
 #include <memory>

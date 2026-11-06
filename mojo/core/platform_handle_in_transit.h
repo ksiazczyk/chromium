@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformHandleInTransit header
+// summary: Declares a scoping class that owns platform handles in transit between processes and manages their safe transfer and lifetime.
+// ---
+
 #ifndef MOJO_CORE_PLATFORM_HANDLE_IN_TRANSIT_H_
 #define MOJO_CORE_PLATFORM_HANDLE_IN_TRANSIT_H_
 

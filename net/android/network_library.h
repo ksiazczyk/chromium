@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android network library header
+// summary: Declares Android network helpers such as X.509 cert chain verification, user-added roots, cleartext and ECH policy, WiFi SSID, roaming, and captive portal status.
+// ---
+
 #ifndef NET_ANDROID_NETWORK_LIBRARY_H_
 #define NET_ANDROID_NETWORK_LIBRARY_H_
 

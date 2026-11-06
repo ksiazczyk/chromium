@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioDelayStatsReporter class declaration
+// summary: Declares a reporter that stores audio delay values and emits UMA delay and variance histograms once the variance window fills.
+// ---
+
 #ifndef MEDIA_WEBRTC_AUDIO_DELAY_STATS_REPORTER_H_
 #define MEDIA_WEBRTC_AUDIO_DELAY_STATS_REPORTER_H_
 

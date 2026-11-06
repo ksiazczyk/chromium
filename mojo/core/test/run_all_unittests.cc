@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mojo unit tests entry point
+// summary: Main entry point that configures death test behavior per platform and launches the Mojo unit test suite through the base unit test launcher.
+// ---
+
 #include <signal.h>
 
 #include "base/functional/bind.h"

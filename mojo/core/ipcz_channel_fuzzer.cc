@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ipcz channel fuzz target
+// summary: LibFuzzer harness that feeds raw and crafted ipcz messages into Mojo channels to fuzz message parsing and handling.
+// ---
+
 #include <stdint.h>
 
 #include "base/containers/span.h"

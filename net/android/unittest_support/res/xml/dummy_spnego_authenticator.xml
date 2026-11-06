@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--docerion
+type: config
+title: Dummy SPNEGO authenticator declaration
+summary: Android account-authenticator resource declaring the dummy SPNEGO test authenticator with account type org.chromium.test.DummySpnegoAuthenticator.
+-->
+
 <account-authenticator xmlns:android="http://schemas.android.com/apk/res/android"
                        android:accountType="org.chromium.test.DummySpnegoAuthenticator"
                        android:label="DummySpengoAuthenticator" 

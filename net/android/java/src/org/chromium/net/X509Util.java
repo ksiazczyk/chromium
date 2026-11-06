@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X.509 certificate utilities for Android
+// summary: Utility functions for verifying server certificate chains and managing Android X.509 trust anchors, key stores, and test roots.
+// ---
+
 package org.chromium.net;
 
 import android.content.BroadcastReceiver;

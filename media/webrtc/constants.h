@@ -2,6 +2,13 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 //
+
+// ---docerion
+// type: source
+// title: WebRTC audio processing sample rate constant
+// summary: Declares the exported function returning the sample rate in Hz used by WebRTC audio processing algorithms in the media component.
+// ---
+
 #ifndef MEDIA_WEBRTC_CONSTANTS_H_
 #define MEDIA_WEBRTC_CONSTANTS_H_
 

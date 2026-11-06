@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VoiceIsolationComponent interface
+// summary: Defines the voice isolation pipeline component interface and the VoiceIsolationCreationResult error codes that are persisted to histograms.
+// ---
+
 #ifndef MEDIA_WEBRTC_VOICE_ISOLATION_VOICE_ISOLATION_COMPONENT_H_
 #define MEDIA_WEBRTC_VOICE_ISOLATION_VOICE_ISOLATION_COMPONENT_H_
 

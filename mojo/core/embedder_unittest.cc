@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Embedder unit tests
+// summary: Tests for the Mojo embedder API covering basic message pipes, queued writes, handle passing and shared buffer region handling.
+// ---
+
 #include "mojo/core/embedder/embedder.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Registration policy that always registers the network listener
+// summary: Registration policy that keeps the NetworkChangeNotifierAutoDetect listener permanently registered with no unregister path.
+// ---
+
 package org.chromium.net;
 
 import org.chromium.build.annotations.NullMarked;

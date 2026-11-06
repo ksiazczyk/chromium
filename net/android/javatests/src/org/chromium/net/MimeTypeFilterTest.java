@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MimeTypeFilterTest - MIME type filter acceptance tests
+// summary: Tests MimeTypeFilter acceptance of wildcard, specific, and extension-based MIME type filters.
+// ---
+
 package org.chromium.net;
 
 import android.net.Uri;

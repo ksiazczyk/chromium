@@ -1,0 +1,4 @@
+# Docerion header of simple_message2.textproto.
+type: test
+title: Simple remote message with empty data test case
+summary: Test data for the Mojo Mach channel with a simple remote endpoint message that has zero data length and an empty payload.

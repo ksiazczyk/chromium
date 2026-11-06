@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Presubmit checks for net
+# summary: Presubmit script that bans the short keyword in platform-independent net code and runs bundle data, Ruff and format checks.
+# ---
+
 """Top-level presubmit for //net
 
 See https://www.chromium.org/developers/how-tos/depottools/presubmit-scripts

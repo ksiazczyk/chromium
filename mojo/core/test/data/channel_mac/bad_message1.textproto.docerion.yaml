@@ -1,0 +1,4 @@
+# Docerion header of bad_message1.textproto.
+type: test
+title: Bad message fuzzer case 1
+summary: Textproto case for the ChannelMac fuzzer with a local endpoint and a Mojo message carrying inline data, without handshake fuzzing.

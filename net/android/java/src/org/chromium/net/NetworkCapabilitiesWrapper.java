@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wrapper around Android NetworkCapabilities
+// summary: Package-private simplified representation of Android's hidden NetworkCapabilities that answers capability and transport queries from a wrapped object or packed longs.
+// ---
+
 package org.chromium.net;
 
 import org.chromium.build.annotations.NullMarked;

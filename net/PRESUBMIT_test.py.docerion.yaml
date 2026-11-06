@@ -1,0 +1,4 @@
+# Docerion header of PRESUBMIT_test.py.
+type: test
+title: Tests for net presubmit checks
+summary: Unit tests verifying that the short-keyword check flags platform-independent code while allowing platform-specific code.

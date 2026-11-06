@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StftVoiceIsolation and WindowedFft implementation
+// summary: Implements Hann-windowed STFT processing with PFFFT, including WindowedFft forward and inverse transforms and the StftVoiceIsolation time-domain wrapper.
+// ---
+
 #include "media/webrtc/voice_isolation/stft_voice_isolation.h"
 
 #include <algorithm>

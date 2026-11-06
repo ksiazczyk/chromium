@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WrappedPlatformHandle implementation
+// summary: Implements serialization of wrapped platform handles, converting file descriptors into transmissible fdio handles on Fuchsia or Mach fileports on Apple platforms.
+// ---
+
 #include "mojo/core/ipcz_driver/wrapped_platform_handle.h"
 
 #include <cstdint>

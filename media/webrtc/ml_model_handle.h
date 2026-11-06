@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thread-safe TFLite model handle interface
+// summary: Defines a refcounted interface for accessing a read-only TF Lite model from any thread, used for ML-based audio processing such as echo estimation.
+// ---
+
 #ifndef MEDIA_WEBRTC_ML_MODEL_HANDLE_H_
 #define MEDIA_WEBRTC_ML_MODEL_HANDLE_H_
 

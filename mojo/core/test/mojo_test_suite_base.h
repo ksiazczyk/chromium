@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MojoTestSuiteBase header
+// summary: Declares MojoTestSuiteBase, a base::TestSuite subclass that initializes Mojo support and feature lists for tests and their child processes.
+// ---
+
 #ifndef MOJO_CORE_TEST_MOJO_TEST_SUITE_BASE_H_
 #define MOJO_CORE_TEST_MOJO_TEST_SUITE_BASE_H_
 

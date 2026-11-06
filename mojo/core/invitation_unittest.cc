@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Invitation API unit tests
+// summary: Unit tests for sending and receiving Mojo invitations to bootstrap IPC connections with child processes, including multiprocess client launch scenarios.
+// ---
+
 #include "mojo/public/c/system/invitation.h"
 
 #include <cstdint>

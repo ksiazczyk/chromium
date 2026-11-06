@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for net
+summary: Restricts which directories net code may include, with per-file exceptions for ICU, compression and fuzzing dependencies.

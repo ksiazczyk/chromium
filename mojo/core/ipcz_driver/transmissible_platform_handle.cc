@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TransmissiblePlatformHandle implementation
+// summary: Implements TransmissiblePlatformHandle, serializing and deserializing platform handles that the platform Channel can transmit out-of-band between processes.
+// ---
+
 #include "mojo/core/ipcz_driver/transmissible_platform_handle.h"
 
 #include <utility>

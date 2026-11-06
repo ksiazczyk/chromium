@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Platform handle wrapping unit tests
+// summary: Tests wrapping and unwrapping platform handles such as files and shared buffers across Windows, POSIX, Mac, and Fuchsia using MojoTestBase.
+// ---
+
 #include <stdint.h>
 #include <string.h>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HttpUtilTest - allowed HTTP header validation tests
+// summary: Verifies that HttpUtil correctly allows and rejects header names and values when forwarding to native code.
+// ---
+
 package org.chromium.net;
 
 import androidx.test.filters.MediumTest;

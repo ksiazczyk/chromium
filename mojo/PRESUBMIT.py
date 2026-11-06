@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Mojo presubmit checks
+# summary: Presubmit script that checks patch formatting, runs Ruff, and verifies generated golden binding files are up to date.
+# ---
+
 """Presubmit script for mojo
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

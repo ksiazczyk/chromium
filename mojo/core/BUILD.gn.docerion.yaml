@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Mojo Core GN build targets
+summary: Defines GN build targets for the Mojo Core embedder implementation, including platform-specific channel sources and ipcz driver components.

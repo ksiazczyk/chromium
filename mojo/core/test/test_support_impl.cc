@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test support implementation
+// summary: Implements Mojo test support hooks for logging performance results and opening or enumerating files relative to the source root.
+// ---
+
 #include "mojo/core/test/test_support_impl.h"
 
 #include <stddef.h>

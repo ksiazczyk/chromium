@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SpeechMaskEstimator unit tests
+// summary: Verifies speech mask values against exact and closed-form expectations using frequency-selective tone signals across DC, interior, and Nyquist bins.
+// ---
+
 #include "media/webrtc/voice_isolation/speech_mask_estimator.h"
 
 #include <array>

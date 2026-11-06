@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AndroidKeyStoreTestUtil helper for creating Android platform keys in tests
+// summary: Provides a JNI-called helper that builds a Java PrivateKey from PKCS#8 encoded bytes so tests can create Android platform keys.
+// ---
+
 package org.chromium.net;
 
 import org.jni_zero.CalledByNative;

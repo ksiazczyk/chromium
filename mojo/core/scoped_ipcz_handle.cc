@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedIpczHandle implementation
+// summary: Implements the ScopedIpczHandle move-only wrapper, closing the underlying ipcz handle on destruction or reset.
+// ---
+
 #include "mojo/core/scoped_ipcz_handle.h"
 
 #include <utility>

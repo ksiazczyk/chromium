@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Broker channel to the broker process
+// summary: Declares the Broker class, a synchronous channel to the broker process used to fulfill shared memory allocation requests.
+// ---
+
 #ifndef MOJO_CORE_BROKER_H_
 #define MOJO_CORE_BROKER_H_
 

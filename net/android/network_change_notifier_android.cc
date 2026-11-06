@@ -57,6 +57,12 @@
 // Android platform -> NetworkChangeNotifier (Java) ->
 // NetworkChangeNotifierDelegateAndroid -> NetworkChangeNotifierAndroid.
 
+// ---docerion
+// type: source
+// title: Android network change notifier implementation
+// summary: Implements NetworkChangeNotifierAndroid, forwarding network change events from the Java-side delegate to observers, with detailed threading and propagation design notes.
+// ---
+
 #include "net/android/network_change_notifier_android.h"
 
 #include <string>

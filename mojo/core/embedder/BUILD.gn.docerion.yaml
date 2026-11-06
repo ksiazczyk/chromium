@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the Mojo Core Embedder components
+summary: Defines the mojo_core_embedder and features GN components with their public headers, sources, defines, and build dependencies.

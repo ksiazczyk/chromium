@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidKeyStore
+// summary: Bridges the native OpenSSL engine to the Android KeyStore, checking private key signature and cipher support and performing signing and encryption.
+// ---
+
 package org.chromium.net;
 
 import org.jni_zero.CalledByNative;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Robolectric tests for HttpNegotiateAuthenticator
+// summary: Robolectric unit tests that verify HttpNegotiateAuthenticator's getNextAuthToken behavior using a mocked AccountManager and JNI natives.
+// ---
+
 package org.chromium.net;
 
 import static com.google.common.truth.Truth.assertWithMessage;

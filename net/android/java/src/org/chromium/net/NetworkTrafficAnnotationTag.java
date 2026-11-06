@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network traffic annotation tags
+// summary: Represents network traffic annotations in Java, documenting the purpose and privacy impact of network requests, with hashes matching the C++ auditor.
+// ---
+
 package org.chromium.net;
 
 import androidx.annotation.VisibleForTesting;

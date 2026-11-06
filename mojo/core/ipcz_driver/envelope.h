@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Envelope class declaration
+// summary: Declares the Envelope ipcz driver object used to hold platform-specific message data, such as a Mach QoS voucher on Apple platforms.
+// ---
+
 #ifndef MOJO_CORE_IPCZ_DRIVER_ENVELOPE_H_
 #define MOJO_CORE_IPCZ_DRIVER_ENVELOPE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MultiprocessTestHelper header
+// summary: Declares MultiprocessTestHelper with launch types for child and peer processes and APIs to start test children and wait for their shutdown.
+// ---
+
 #ifndef MOJO_CORE_TEST_MULTIPROCESS_TEST_HELPER_H_
 #define MOJO_CORE_TEST_MULTIPROCESS_TEST_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock voice isolation declarations
+// summary: Declares gmock mocks of VoiceIsolation and SpectralVoiceIsolationComponent so unit tests can stub audio processing and speech mask behavior.
+// ---
+
 #ifndef MEDIA_WEBRTC_VOICE_ISOLATION_MOCK_VOICE_ISOLATION_H_
 #define MEDIA_WEBRTC_VOICE_ISOLATION_MOCK_VOICE_ISOLATION_H_
 

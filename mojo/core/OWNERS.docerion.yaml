@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for Mojo Core
+summary: Lists code owners for mojo/core and routes message header changes to the IPC security owners.

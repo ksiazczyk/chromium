@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform connectivity auto-detection for NetworkChangeNotifier
+// summary: BroadcastReceiver that auto-detects Android connectivity changes, including Wi-Fi SSID lookup and network callbacks, on behalf of the NetworkChangeNotifier.
+// ---
+
 package org.chromium.net;
 
 import static android.net.NetworkCapabilities.NET_CAPABILITY_INTERNET;

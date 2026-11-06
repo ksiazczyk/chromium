@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android KeyStore JNI implementation
+// summary: Implements JNI wrappers around the Android platform KeyStore for querying private key class names, algorithm support, and performing signature and encryption operations.
+// ---
+
 #include "net/android/keystore.h"
 
 #include <string_view>

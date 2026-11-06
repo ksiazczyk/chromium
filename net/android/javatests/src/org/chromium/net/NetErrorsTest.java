@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetErrorsTest - NetError.java constant verification
+// summary: Verifies that the generated NetError.java exposes the expected error constants kept in sync with net_error_list.h.
+// ---
+
 /** Tests to verify that NetError.java is created successfully. */
 package org.chromium.net;
 

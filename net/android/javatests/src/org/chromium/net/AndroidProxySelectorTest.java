@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AndroidProxySelectorTest - proxy mapping tests for Android ProxySelector
+// summary: Checks that Android's default ProxySelector behavior matches the native proxy config service implementation using generated test cases.
+// ---
+
 /**
  * Test suite for Android's default ProxySelector implementation. The purpose of these tests is to
  * check that the behaviour of the ProxySelector implementation matches what we have implemented in

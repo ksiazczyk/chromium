@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AndroidNetworkLibraryTest - unit tests for DNS status and ECH mode
+// summary: JUnit tests covering AndroidNetworkLibrary DNS status search domains and the mapping of network security policy encryption modes to EchMode values.
+// ---
+
 package org.chromium.net;
 
 import android.os.Build;

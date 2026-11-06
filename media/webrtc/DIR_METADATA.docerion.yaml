@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Issue tracker metadata for media/webrtc
+summary: Maps the directory to the Blink>WebRTC>Audio monorail component and a Buganizer component for issue routing.

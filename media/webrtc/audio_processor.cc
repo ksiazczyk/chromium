@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the WebRTC audio processor
+// summary: Implements capture audio processing such as echo cancellation and noise suppression via the WebRTC AudioProcessing module, including buffer sizing and playout reference handling.
+// ---
+
 #include "media/webrtc/audio_processor.h"
 
 #include <inttypes.h>

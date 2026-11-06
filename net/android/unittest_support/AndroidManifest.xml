@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Android manifest for the native unit test APK
+summary: Android manifest declaring permissions, the native test activity, a dummy SPNEGO authenticator service, and the instrumentation runner for the org.chromium.native_test unit test APK.
+-->
+
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
       package="org.chromium.native_test"
       android:versionCode="1"

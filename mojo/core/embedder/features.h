@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo embedder feature flag declarations
+// summary: Declares the Mojo embedder base::Feature flags and parameters, covering event FD usage on Linux, ChromeOS, and Android plus Windows handle type protections.
+// ---
+
 #ifndef MOJO_CORE_EMBEDDER_FEATURES_H_
 #define MOJO_CORE_EMBEDDER_FEATURES_H_
 

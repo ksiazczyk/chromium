@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MIME type and file extension filter
+// summary: FileFilter that accepts files by MIME type, MIME supertype or extension, used for the web share target spec and the photo picker.
+// ---
+
 package org.chromium.net;
 
 import android.net.Uri;

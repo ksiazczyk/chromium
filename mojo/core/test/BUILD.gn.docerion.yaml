@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Mojo core test support build definition
+summary: Defines GN targets for the Mojo core test support library, unit and perf test runners, and the test support implementation, with platform-conditional sources.

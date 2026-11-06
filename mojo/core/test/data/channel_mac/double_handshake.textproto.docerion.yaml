@@ -1,0 +1,4 @@
+# Docerion header of double_handshake.textproto.
+type: test
+title: Double handshake fuzzer case
+summary: Textproto case for a remote endpoint with a fuzzed handshake that sends a message and then performs a second, erroneous handshake.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PassthroughVoiceIsolation class declaration
+// summary: Declares PassthroughVoiceIsolation, a voice isolation component that copies its input audio to the output without any processing.
+// ---
+
 #ifndef MEDIA_WEBRTC_VOICE_ISOLATION_PASSTHROUGH_VOICE_ISOLATION_H_
 #define MEDIA_WEBRTC_VOICE_ISOLATION_PASSTHROUGH_VOICE_ISOLATION_H_
 

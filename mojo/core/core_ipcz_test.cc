@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Core ipcz smoke tests
+// summary: Smoke tests exercising the Mojo Core API as implemented over ipcz, covering message creation, traps, handle signals and shared buffers.
+// ---
+
 #include "mojo/core/core_ipcz.h"
 
 #include <array>

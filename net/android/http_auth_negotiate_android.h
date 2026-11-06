@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Negotiate HTTP authentication interface
+// summary: Declares HttpAuthNegotiateAndroid, the HttpAuthMechanism bridging Negotiate authentication to an Android Java authenticator, and its thread-safe result wrapper.
+// ---
+
 #ifndef NET_ANDROID_HTTP_AUTH_NEGOTIATE_ANDROID_H_
 #define NET_ANDROID_HTTP_AUTH_NEGOTIATE_ANDROID_H_
 

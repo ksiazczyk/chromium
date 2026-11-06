@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux channel class declaration
+// summary: Declares ChannelLinux, a ChannelPosix specialization that upgrades channels to shared memory transport when kernel features allow it.
+// ---
+
 #ifndef MOJO_CORE_CHANNEL_LINUX_H_
 #define MOJO_CORE_CHANNEL_LINUX_H_
 

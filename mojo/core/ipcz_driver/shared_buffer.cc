@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedBuffer implementation for ipcz driver
+// summary: Implements the SharedBuffer driver object that wraps shared memory regions, supporting duplication, serialization, and creation for the Mojo shared buffer wrapper API.
+// ---
+
 #include "mojo/core/ipcz_driver/shared_buffer.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VoiceIsolation unit tests
+// summary: Tests VoiceIsolation creation, parameter validation, channel mixing, algorithmic delay and buffer handling using passthrough and mock components.
+// ---
+
 #include "media/webrtc/voice_isolation/voice_isolation.h"
 
 #include <algorithm>

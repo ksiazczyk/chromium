@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedBuffer driver object interface
+// summary: Declares SharedBuffer, a thin wrapper around base shared memory APIs that allows shared buffer objects to be boxed and transmitted through ipcz portals.
+// ---
+
 #ifndef MOJO_CORE_IPCZ_DRIVER_SHARED_BUFFER_H_
 #define MOJO_CORE_IPCZ_DRIVER_SHARED_BUFFER_H_
 

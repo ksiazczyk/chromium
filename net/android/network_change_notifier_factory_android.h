@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android network change notifier factory
+// summary: Declares NetworkChangeNotifierFactoryAndroid, which creates Android-specific NetworkChangeNotifier instances bound to its owned delegate.
+// ---
+
 #ifndef NET_ANDROID_NETWORK_CHANGE_NOTIFIER_FACTORY_ANDROID_H_
 #define NET_ANDROID_NETWORK_CHANGE_NOTIFIER_FACTORY_ANDROID_H_
 

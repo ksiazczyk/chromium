@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Invitation class header for Mojo invitations over ipcz
+// summary: Declares the Invitation class that emulates Mojo invitation behavior on top of ipcz ConnectNode, supporting pipe attachments, sending, and accepting.
+// ---
+
 #ifndef MOJO_CORE_IPCZ_DRIVER_INVITATION_H_
 #define MOJO_CORE_IPCZ_DRIVER_INVITATION_H_
 

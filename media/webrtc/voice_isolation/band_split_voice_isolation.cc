@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Band split voice isolation implementation
+// summary: Implements splitting 48 kHz FFT frames into a 16 kHz low band for the internal model and rebuilding the full band with a high band gain and crossfade.
+// ---
+
 #include "media/webrtc/voice_isolation/band_split_voice_isolation.h"
 
 #include <array>

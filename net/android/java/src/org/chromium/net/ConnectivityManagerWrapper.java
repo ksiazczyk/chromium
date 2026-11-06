@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectivityManagerWrapper
+// summary: Adds convenience methods around Android ConnectivityManager for production code and testing, including network state queries and feature flag handling.
+// ---
+
 package org.chromium.net;
 
 import static android.net.ConnectivityManager.TYPE_VPN;

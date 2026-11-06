@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Public header for the Mojo Core Embedder API
+// summary: Declares Init, ShutDown, GetIOTaskRunner, shared memory hook installation, and ipcz transport creation functions for embedding Mojo Core.
+// ---
+
 #ifndef MOJO_CORE_EMBEDDER_EMBEDDER_H_
 #define MOJO_CORE_EMBEDDER_EMBEDDER_H_
 

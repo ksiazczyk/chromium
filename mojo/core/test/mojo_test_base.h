@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MojoTestBase header
+// summary: Declares the MojoTestBase GTest fixture with message pipe utilities, a test message size limit, and helpers for running multiprocess test clients.
+// ---
+
 #ifndef MOJO_CORE_TEST_MOJO_TEST_BASE_H_
 #define MOJO_CORE_TEST_MOJO_TEST_BASE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Receiver for proxy change broadcasts
+// summary: BroadcastReceiver that listens for Android proxy change actions and tells ProxyChangeListener to update the proxy configuration from ConnectivityManager.
+// ---
+
 package org.chromium.net;
 
 import android.content.BroadcastReceiver;

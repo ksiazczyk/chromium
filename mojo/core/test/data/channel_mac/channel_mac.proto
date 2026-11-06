@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChannelMac fuzzer protobuf definitions
+// summary: Protobuf definitions extending MachMessage with Mojo message data and configuring ChannelMac fuzzing for endpoint type, handshake, and messages.
+// ---
+
 syntax = "proto2";
 
 package mojo_fuzzer;

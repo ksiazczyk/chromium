@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Envelope implementation
+// summary: Implements the Envelope object that keeps platform-specific data such as a Mach send right voucher alive while a message is processed on Apple platforms.
+// ---
+
 #include "mojo/core/ipcz_driver/envelope.h"
 
 #if BUILDFLAG(MOJO_USE_APPLE_CHANNEL)

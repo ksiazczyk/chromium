@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo ipcz driver implementation
+// summary: Implements the IpczDriver operations for Mojo, including object close, serialization, deserialization, and transport creation between nodes.
+// ---
+
 #include "mojo/core/ipcz_driver/driver.h"
 
 #include <cstddef>

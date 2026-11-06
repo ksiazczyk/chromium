@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC audio processing helper declarations
+// summary: Declares helpers to create a configured WebRTC AudioProcessing module, build stream configs, and start or stop echo cancellation dumps.
+// ---
+
 #ifndef MEDIA_WEBRTC_HELPERS_H_
 #define MEDIA_WEBRTC_HELPERS_H_
 

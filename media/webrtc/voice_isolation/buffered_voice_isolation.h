@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BufferedVoiceIsolation class declaration
+// summary: Declares a wrapper that combines two consecutive external calls into one internal VoiceIsolationComponent call, halving the frame size and adding one frame of delay.
+// ---
+
 #ifndef MEDIA_WEBRTC_VOICE_ISOLATION_BUFFERED_VOICE_ISOLATION_H_
 #define MEDIA_WEBRTC_VOICE_ISOLATION_BUFFERED_VOICE_ISOLATION_H_
 

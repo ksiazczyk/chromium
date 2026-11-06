@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedIPCSupport class and shutdown policy documentation
+// summary: Declares ScopedIPCSupport to enable Mojo IPC support on construction and tear it down on destruction, with detailed guidance on clean versus fast shutdown.
+// ---
+
 #ifndef MOJO_CORE_EMBEDDER_SCOPED_IPC_SUPPORT_H_
 #define MOJO_CORE_EMBEDDER_SCOPED_IPC_SUPPORT_H_
 

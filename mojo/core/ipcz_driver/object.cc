@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ObjectBase implementation
+// summary: Implements the ObjectBase base class, including boxing and unboxing of ipcz driver objects through the ipcz API.
+// ---
+
 #include "mojo/core/ipcz_driver/object.h"
 
 #include "base/check_op.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notifier for default network active events
+// summary: Listens for Android default-network-active events and forwards them to a native observer, complementing NetworkChangeNotifier for bidi stream connection status.
+// ---
+
 package org.chromium.net;
 
 import android.content.Context;

@@ -1,0 +1,4 @@
+# Docerion header of non_complex_with_descriptor_count.textproto.
+type: test
+title: Non-complex message with descriptor count test case
+summary: Test data for the Mojo Mach channel describing a non-complex message that carries a descriptor count field, exercising parsing when the COMPLEX msgh_bits flag is unset.

@@ -1,3 +1,13 @@
+---
+type: readme
+title: Mojo overview
+summary: Explains the Mojo IPC system, its layered architecture, core initialization, system and bindings APIs, and answers common questions.
+relations:
+  - references /docs/README.md
+  - references /docs/images/mojo_stack.png
+  - references /docs/mojo_and_services.md
+---
+
 # Mojo
 
 [TOC]

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AndroidProxyConfigServiceTestUtil - Looper helper for proxy config tests
+// summary: Supplies a native-called helper that prepares a Looper on the current thread for tests of ProxyConfigServiceAndroid features.
+// ---
+
 package org.chromium.net;
 
 import android.os.Looper;

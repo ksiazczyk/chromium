@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia Zircon channel implementation
+// summary: Implements the Mojo Channel over Fuchsia Zircon channels, including FDIO file descriptor unwrapping and handle transfer.
+// ---
+
 #include "mojo/core/channel.h"
 
 #include <lib/fdio/fd.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test support implementation header
+// summary: Declares TestSupportImpl, the Mojo core implementation of the test support interface covering perf logging and source-root file access.
+// ---
+
 #ifndef MOJO_CORE_TEST_TEST_SUPPORT_IMPL_H_
 #define MOJO_CORE_TEST_TEST_SUPPORT_IMPL_H_
 

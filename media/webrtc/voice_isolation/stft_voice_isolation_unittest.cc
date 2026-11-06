@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StftVoiceIsolation and WindowedFft unit tests
+// summary: Tests the Hann window COLA and WOLA properties, identity reconstruction with algorithmic delay, and StftVoiceIsolation frame size and delay behavior using a mock component.
+// ---
+
 #include "media/webrtc/voice_isolation/stft_voice_isolation.h"
 
 #include <cmath>

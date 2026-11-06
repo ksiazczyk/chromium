@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpeechMaskEstimator class declaration
+// summary: Declares SpeechMaskEstimator, which computes a per-bin speech mask from noisy and denoised DFTs of a 50%-overlapping Hann STFT, with documented boundary limitations.
+// ---
+
 #ifndef MEDIA_WEBRTC_VOICE_ISOLATION_SPEECH_MASK_ESTIMATOR_H_
 #define MEDIA_WEBRTC_VOICE_ISOLATION_SPEECH_MASK_ESTIMATOR_H_
 

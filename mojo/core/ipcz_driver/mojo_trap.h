@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoTrap class header
+// summary: Declares the MojoTrap class, which emulates Mojo traps as collections of ipcz trap triggers sharing a common event handler.
+// ---
+
 #ifndef MOJO_CORE_IPCZ_DRIVER_MOJO_TRAP_H_
 #define MOJO_CORE_IPCZ_DRIVER_MOJO_TRAP_H_
 

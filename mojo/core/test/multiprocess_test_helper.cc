@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MultiprocessTestHelper implementation
+// summary: Implements launching and managing child or peer processes for multiprocess Mojo tests, including channel setup, invitations, and client main functions.
+// ---
+
 #include "mojo/core/test/multiprocess_test_helper.h"
 
 #include <functional>

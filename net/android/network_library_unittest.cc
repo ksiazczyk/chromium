@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Android network library
+// summary: GTest suite exercising Android network library functions including captive portal detection, WiFi signal level, DNS servers and search suffixes, and binding sockets to networks.
+// ---
+
 #include "net/android/network_library.h"
 
 #include <string>

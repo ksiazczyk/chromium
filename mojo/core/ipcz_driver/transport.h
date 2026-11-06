@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transport driver object interface
+// summary: Declares Transport, an ipcz driver transport backed by a Channel object, with endpoint types, process trust tracking, and I/O task runner management.
+// ---
+
 #ifndef MOJO_CORE_IPCZ_DRIVER_TRANSPORT_H_
 #define MOJO_CORE_IPCZ_DRIVER_TRANSPORT_H_
 

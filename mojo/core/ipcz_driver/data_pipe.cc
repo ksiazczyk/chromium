@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data pipe implementation
+// summary: Implements Mojo data pipe producer and consumer endpoints on top of a shared memory ring buffer, exchanging read and write quantities via ipcz control messages.
+// ---
+
 #include "mojo/core/ipcz_driver/data_pipe.h"
 
 #include <algorithm>

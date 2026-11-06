@@ -1,0 +1,4 @@
+# Docerion header of simple_message1.textproto.
+type: test
+title: Simple message with small data length test case
+summary: Test data for the Mojo Mach channel with a simple local message whose declared data length is tiny while the data payload extends far beyond it.

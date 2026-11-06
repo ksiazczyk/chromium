@@ -1,3 +1,13 @@
+---
+type: readme
+title: Mojo Core Embedder API
+summary: Explains how to initialize Mojo Core in a process, set up IPC support with ScopedIPCSupport, and connect processes via the Invitations API.
+relations:
+  - references /mojo/README.md
+  - references /mojo/public/cpp/system/README.md
+  - documents /mojo/core/embedder/embedder.h
+---
+
 # Mojo Core Embedder API
 This document is a subset of the [Mojo documentation](/mojo/README.md).
 

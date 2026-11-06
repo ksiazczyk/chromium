@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base shared memory service implementation
+// summary: Implements the Mojo shared memory allocation service, spawning broker hosts for invited client processes and routing allocation requests through a global client.
+// ---
+
 #include "mojo/core/ipcz_driver/base_shared_memory_service.h"
 
 #include <tuple>

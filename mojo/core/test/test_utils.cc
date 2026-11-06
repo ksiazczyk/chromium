@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: POSIX platform handle and FILE conversions
+// summary: Implements POSIX helpers that convert between scoped FILE objects and Mojo platform handles by duplicating file descriptors.
+// ---
+
 #include "mojo/core/test/test_utils.h"
 
 #include <fcntl.h>

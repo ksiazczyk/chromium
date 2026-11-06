@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test handle conversion utilities
+// summary: Declares helpers that convert between scoped FILE objects and Mojo platform handles for use in tests.
+// ---
+
 #ifndef MOJO_CORE_TEST_TEST_UTILS_H_
 #define MOJO_CORE_TEST_TEST_UTILS_H_
 

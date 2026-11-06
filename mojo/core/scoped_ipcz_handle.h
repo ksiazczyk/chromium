@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedIpczHandle RAII wrapper header
+// summary: Declares a unique-ownership wrapper for IpczHandle plus a Receiver adapter for C APIs that return handles via output parameters.
+// ---
+
 #ifndef MOJO_CORE_SCOPED_IPCZ_HANDLE_H_
 #define MOJO_CORE_SCOPED_IPCZ_HANDLE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TfLiteVoiceIsolation implementation
+// summary: Implements the TFLite-based voice isolation component that runs a denoising model on two 16 kHz DFTs per call and blends dereverberated and denoising-only outputs.
+// ---
+
 #include "media/webrtc/voice_isolation/tflite_voice_isolation.h"
 
 #include <algorithm>

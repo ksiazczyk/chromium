@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mojo perftests entry point
+// summary: Main entry point that initializes the feature list and scoped Mojo support, then runs the base perf test suite for Mojo performance tests.
+// ---
+
 #include "base/base_switches.h"
 #include "base/check.h"
 #include "base/command_line.h"

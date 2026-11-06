@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo Core API implementation over ipcz
+// summary: Implements the Mojo system API functions on top of the ipcz library, including shared buffer mapping tables and translation between ipcz and Mojo result codes.
+// ---
+
 #include "mojo/core/core_ipcz.h"
 
 #include <algorithm>

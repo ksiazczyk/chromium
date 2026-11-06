@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate verification status enum for Android
+// summary: Declares the CertVerifyStatusAndroid enum and the function that extracts certificate verification results passed from the Java side.
+// ---
+
 #ifndef NET_ANDROID_CERT_VERIFY_RESULT_ANDROID_H_
 #define NET_ANDROID_CERT_VERIFY_RESULT_ANDROID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform handle utilities header
+// summary: Declares the helper that duplicates a non-owning MojoPlatformProcessHandle value into a strongly owned base::Process.
+// ---
+
 #ifndef MOJO_CORE_PLATFORM_HANDLE_UTILS_H_
 #define MOJO_CORE_PLATFORM_HANDLE_UTILS_H_
 

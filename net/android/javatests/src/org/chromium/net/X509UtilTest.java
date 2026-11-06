@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: X509UtilTest
+// summary: JUnit tests verifying that X509Util correctly validates certificate key usage and extended key usage using test root and end-entity certificates.
+// ---
+
 package org.chromium.net;
 
 import static org.chromium.net.test.util.CertTestUtil.CERTS_DIRECTORY;

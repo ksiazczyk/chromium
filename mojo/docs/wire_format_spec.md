@@ -1,3 +1,9 @@
+---
+type: reference
+title: Mojom Wire Format Specification
+summary: Specification of the binary wire format for Mojo messages, covering headers, pointers, alignment, packing, and encoding of values, handles, and unions.
+---
+
 # Mojom Wire Format Specification
 
 This document serves as mostly-rigorous specification of the wire format uses by

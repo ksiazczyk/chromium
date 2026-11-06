@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared buffer unit tests
+// summary: Tests creating, duplicating, mapping, and passing shared buffer handles locally and across processes in the Mojo core implementation.
+// ---
+
 #include "mojo/core/ipcz_driver/shared_buffer.h"
 
 #include <string.h>

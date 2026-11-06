@@ -1,0 +1,4 @@
+# Docerion header of bad_handshake3.textproto.
+type: test
+title: Bad handshake fuzzer case 3
+summary: Textproto case for the ChannelMac fuzzer with a remote endpoint, a fuzzed handshake, and a handshake message sent from a DEAD_NAME port.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrokerHost channel to broker client processes
+// summary: Declares BrokerHost, a channel delegate that handles buffer requests from broker client processes and channel teardown.
+// ---
+
 #ifndef MOJO_CORE_BROKER_HOST_H_
 #define MOJO_CORE_BROKER_HOST_H_
 

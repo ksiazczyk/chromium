@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Voice isolation test utilities implementation
+// summary: Implements helpers that load the shipped test models, build fake FlatBuffer models and generate noise DFTs for the voice isolation tests.
+// ---
+
 #include "media/webrtc/voice_isolation/voice_isolation_test_utils.h"
 
 #include <cstddef>

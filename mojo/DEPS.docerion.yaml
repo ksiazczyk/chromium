@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Mojo include rules
+summary: Specifies the allowed include directories (base, build, testing) for code in the Mojo directory.

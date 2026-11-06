@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dummy SPNEGO authenticator interface
+// summary: Declares the DummySpnegoAuthenticator interface and mock GSS context types used for Negotiate authentication tests on Android.
+// ---
+
 #ifndef NET_ANDROID_DUMMY_SPNEGO_AUTHENTICATOR_H_
 #define NET_ANDROID_DUMMY_SPNEGO_AUTHENTICATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AudioProcessor
+// summary: gtest tests covering AudioProcessor across supported sample rates, settings, and formats using mock callbacks and the WebRTC mock audio processing module.
+// ---
+
 #include "media/webrtc/audio_processor.h"
 
 #include <stddef.h>

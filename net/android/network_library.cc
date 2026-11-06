@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android network library JNI implementation
+// summary: Implements JNI helpers for Android networking, including X.509 certificate chain verification, user-added and test root certificates, and DNS resolution support.
+// ---
+
 #include "net/android/network_library.h"
 
 #include <dlfcn.h>

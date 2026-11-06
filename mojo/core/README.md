@@ -1,3 +1,13 @@
+---
+type: readme
+title: Mojo Core Overview
+summary: Explains the Mojo Core IPC architecture, covering layering, threading, event dispatching, message routing, buffering and security.
+relations:
+  - references /mojo/core/doc/layering.png
+  - references /mojo/core/embedder/README.md
+  - references /mojo/public/c/system/README.md
+---
+
 # Mojo Core Overview
 
 [TOC]

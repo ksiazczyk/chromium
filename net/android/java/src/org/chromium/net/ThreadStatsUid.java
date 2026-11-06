@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadStatsUid wrapper for hidden TrafficStats methods
+// summary: Wraps the hidden TrafficStats setThreadStatsUid and clearThreadStatsUid methods, accessing them via reflection to tag per-UID network traffic.
+// ---
+
 package org.chromium.net;
 
 import android.net.TrafficStats;

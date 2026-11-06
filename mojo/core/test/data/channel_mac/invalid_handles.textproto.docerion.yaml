@@ -1,0 +1,4 @@
+# Docerion header of invalid_handles.textproto.
+type: test
+title: Invalid handles fuzzer case
+summary: Textproto case sending a message with port descriptors but invalid data, followed by a valid message, on a local channel.

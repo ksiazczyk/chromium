@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Message pipe performance tests
+// summary: Benchmarks ping-pong message throughput over Mojo message pipes across varying message sizes and counts for performance comparison.
+// ---
+
 #include "mojo/public/cpp/system/message_pipe.h"
 
 #include <stddef.h>

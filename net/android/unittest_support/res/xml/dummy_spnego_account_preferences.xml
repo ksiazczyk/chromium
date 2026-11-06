@@ -1,1 +1,7 @@
+<!--docerion
+type: config
+title: Dummy SPNEGO account preferences
+summary: Empty Android preference screen resource that provides the account preferences referenced by the dummy SPNEGO test authenticator.
+-->
+
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"/>

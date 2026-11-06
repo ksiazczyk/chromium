@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataPipe class declaration
+// summary: Declares the DataPipe object that wraps a shared memory ring buffer with ipcz portals to implement Mojo data pipe endpoints, including pair creation and serialization.
+// ---
+
 #ifndef MOJO_CORE_IPCZ_DRIVER_DATA_PIPE_H_
 #define MOJO_CORE_IPCZ_DRIVER_DATA_PIPE_H_
 

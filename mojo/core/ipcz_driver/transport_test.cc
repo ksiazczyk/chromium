@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Transport multiprocess tests
+// summary: Tests the ipcz driver Transport, using Mojo's multiprocess test facilities to exercise transport creation, message transmission, and handle passing between processes.
+// ---
+
 #include "mojo/core/ipcz_driver/transport.h"
 
 #include <algorithm>

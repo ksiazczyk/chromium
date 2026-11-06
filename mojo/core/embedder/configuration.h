@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Configuration struct for Mojo Core initialization
+// summary: Defines the POD Configuration struct used to tune broker role, shared memory allocation, and message or mapping size limits when calling mojo::core::Init.
+// ---
+
 #ifndef MOJO_CORE_EMBEDDER_CONFIGURATION_H_
 #define MOJO_CORE_EMBEDDER_CONFIGURATION_H_
 

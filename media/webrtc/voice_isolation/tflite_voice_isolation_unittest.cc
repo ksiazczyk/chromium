@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TfLite voice isolation unit tests
+// summary: Tests TfLiteVoiceIsolation against a closed-form reference of the stateful test model, covering output mixing, speech mask estimation and model layout error handling.
+// ---
+
 #include "media/webrtc/voice_isolation/tflite_voice_isolation.h"
 
 #include <cstddef>

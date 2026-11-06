@@ -1,0 +1,4 @@
+# Docerion header of proxy_test_cases.py.
+type: script
+title: Android proxy test case generator
+summary: Generator script that produces C++ and Java test cases for Android proxy configuration, mapping Java proxy system properties to expected proxy resolution results.

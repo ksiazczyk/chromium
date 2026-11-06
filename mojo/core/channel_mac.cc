@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS Mach port channel implementation
+// summary: Implements the macOS channel over Mach ports with message queuing, handshake, out-of-line data, and Mach voucher support.
+// ---
+
 #include "mojo/core/channel.h"
 
 #include <mach/mach.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkChangeNotifierTest - network change notifier behavior tests
+// summary: Extensive tests for NetworkChangeNotifier covering connection type notifications, callback registration, and auto-detect behavior with mocked delegates.
+// ---
+
 package org.chromium.net;
 
 import static android.net.NetworkCapabilities.NET_CAPABILITY_INTERNET;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ObjectBase class header
+// summary: Declares the common ref-counted base class for Mojo ipcz driver objects, with a type enum and serialization and boxing interfaces.
+// ---
+
 #ifndef MOJO_CORE_IPCZ_DRIVER_OBJECT_H_
 #define MOJO_CORE_IPCZ_DRIVER_OBJECT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetIpczDriver declaration
+// summary: Declares the Mojo-provided IpczDriver, which uses mojo::core::Channel transports and base shared memory APIs and supports boxing of platform handles.
+// ---
+
 #ifndef MOJO_CORE_IPCZ_DRIVER_DRIVER_H_
 #define MOJO_CORE_IPCZ_DRIVER_DRIVER_H_
 

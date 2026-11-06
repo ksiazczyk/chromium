@@ -1,0 +1,4 @@
+# Docerion header of ool_type_mismatch.textproto.
+type: test
+title: OOL descriptor type mismatch test case
+summary: Test data for the Mojo Mach channel sending a message with an OOL data ID but a mismatched port descriptor type to verify error handling.

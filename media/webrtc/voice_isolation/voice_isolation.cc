@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VoiceIsolation pipeline implementation
+// summary: Builds the voice isolation pipeline from buffered, STFT, band-split and TfLite components and implements channel downmixing and upmixing for external audio buffers.
+// ---
+
 #include "media/webrtc/voice_isolation/voice_isolation.h"
 
 #include <cstddef>

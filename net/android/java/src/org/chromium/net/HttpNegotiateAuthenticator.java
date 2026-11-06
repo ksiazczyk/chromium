@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpNegotiateAuthenticator
+// summary: Obtains auth tokens for HTTP Negotiate (Kerberos) authentication using Android AccountManager, with one instance per negotiation.
+// ---
+
 package org.chromium.net;
 
 import android.Manifest;
