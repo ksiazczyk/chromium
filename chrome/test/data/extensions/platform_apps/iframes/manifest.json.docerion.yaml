@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the local iframes platform app test
+summary: Chrome app manifest that registers test.js as the background script for the platform app iframe test.

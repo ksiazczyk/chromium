@@ -1,0 +1,4 @@
+# Docerion header of platform_app_hosts.json.
+type: test
+title: Platform app hosts test manifest
+summary: Test platform app manifest granting a host permission to a single external site for permission tests.

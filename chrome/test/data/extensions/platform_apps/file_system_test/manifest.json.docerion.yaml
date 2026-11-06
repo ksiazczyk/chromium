@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: File System Test Extension manifest
+summary: Manifest for the File System Test Extension, a Chrome app for testing the file system API, declaring background.js as its background script.

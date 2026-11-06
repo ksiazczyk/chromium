@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File handler launch data test script
+// summary: Runs chrome.test checks that launch data fields are correct and reads the launched file's contents when the app is opened through its file handler.
+// ---
+
 chrome.app.runtime.onLaunched.addListener(function (launchData) {
   // Test that the isKioskSession field is |false| and the id and items fields
   // can be read in the launch data.

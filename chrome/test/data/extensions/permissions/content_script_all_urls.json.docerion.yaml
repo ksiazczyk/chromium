@@ -1,0 +1,4 @@
+# Docerion header of content_script_all_urls.json.
+type: test
+title: Content script all-urls match pattern manifest
+summary: Test manifest with <all_urls> in a content script matches list for permission warning tests.

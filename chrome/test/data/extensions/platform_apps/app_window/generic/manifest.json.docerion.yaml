@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Shell Window - Generic test app manifest
+summary: Manifest for the generic test app that creates a window configured by tests, requesting fullscreen and alwaysOnTop permissions.

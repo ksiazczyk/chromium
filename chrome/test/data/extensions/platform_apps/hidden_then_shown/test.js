@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script that creates a hidden window then shows it
+// summary: Background script that creates a hidden app window on launch, sends the Launched message, then shows the window and sends Shown after three seconds.
+// ---
+
 chrome.app.runtime.onLaunched.addListener(function() {
   chrome.app.window.create('empty.html', {
     hidden: true,

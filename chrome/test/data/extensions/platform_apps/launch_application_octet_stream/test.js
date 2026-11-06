@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File handler launch data test
+// summary: Verifies launch data id, items and kiosk session flag when the app is launched with an application/octet-stream file.
+// ---
+
 chrome.app.runtime.onLaunched.addListener(function (launchData) {
   // Test that the isKioskSession field is |false| and the id and items fields
   // can be read in the launch data.

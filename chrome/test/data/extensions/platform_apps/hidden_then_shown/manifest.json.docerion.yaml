@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the hidden-then-shown platform app test
+summary: Manifest defining the Platform App Hidden Then Shown test app, which runs test.js as its background script.

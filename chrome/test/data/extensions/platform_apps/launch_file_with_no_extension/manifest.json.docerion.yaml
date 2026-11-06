@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Platform App Launch Test manifest
+summary: Manifest for a Chrome platform app test that registers a file handler accepting files with an empty extension and runs test.js in the background.

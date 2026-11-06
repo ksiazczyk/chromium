@@ -1,0 +1,4 @@
+# Docerion header of web_request_all_host_permissions.json.
+type: test
+title: Web request extension manifest with all-host permissions
+summary: Extension manifest fixture with webRequest APIs and a *://*/* host permission for web request permission tests.

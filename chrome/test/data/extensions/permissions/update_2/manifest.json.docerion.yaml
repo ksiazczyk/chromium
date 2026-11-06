@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Permissions Update Test manifest
+summary: Test fixture manifest for an extension permissions update test, requesting history and topSites permissions at version 2.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the Platform App Hidden With ID test app
+summary: Manifest defining a platform app whose background script is test.js, used by hidden window browser tests.

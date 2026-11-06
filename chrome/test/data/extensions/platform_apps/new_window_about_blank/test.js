@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test script asserting about:blank window creation fails
+// summary: Background script that on app launch tries to create an about:blank window and passes the test only when the creation fails.
+// ---
+
 chrome.app.runtime.onLaunched.addListener(function() {
   chrome.app.window.create('about:blank', {}, function (createdWindow) {
     if (createdWindow) {

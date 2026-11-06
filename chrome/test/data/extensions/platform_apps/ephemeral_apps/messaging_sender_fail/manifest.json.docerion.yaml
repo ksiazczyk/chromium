@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the messaging sender failure test app
+summary: Chrome app manifest that defines the Ephemeral Apps Messaging sender fail test app and loads main.js as its background script.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Permissions Blocked by Policy Test manifest
+summary: Test extension manifest declaring tabs and bookmarks permissions plus optional history and cookies permissions for permissions blocklist testing.

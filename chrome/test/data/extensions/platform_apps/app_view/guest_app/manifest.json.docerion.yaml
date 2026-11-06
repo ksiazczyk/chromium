@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest of the app view guest test app
+summary: Chrome app manifest defining the guest application fixture, loading background.js as its background script.

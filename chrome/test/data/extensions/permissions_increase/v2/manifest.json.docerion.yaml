@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for permission increase test extension v2
+summary: Version 2 manifest of the test extension with a background page, tabs permission, and a localhost autoupdate URL.

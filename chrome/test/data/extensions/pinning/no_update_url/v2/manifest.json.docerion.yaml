@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest for pinning without update URL
+summary: Manifest for a test extension (version 2, manifest version 3) used as fixture data in Chrome's extension pinning tests without an update URL.

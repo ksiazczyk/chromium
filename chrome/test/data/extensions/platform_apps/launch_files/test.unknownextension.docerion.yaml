@@ -1,0 +1,4 @@
+# Docerion header of test.unknownextension.
+type: test
+title: Launch file test fixture with unknown extension
+summary: Test fixture containing sample text used to exercise platform app launch handling of a file with an unrecognized extension.

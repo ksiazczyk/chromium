@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the apps-only blocking test extension
+summary: Manifest version 2 extension fixture that loads background.js to test that apps-only features are blocked.

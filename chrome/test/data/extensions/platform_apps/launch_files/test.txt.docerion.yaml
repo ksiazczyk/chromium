@@ -1,0 +1,4 @@
+# Docerion header of test.txt.
+type: test
+title: Launch file test fixture test.txt
+summary: Test fixture containing sample text used to exercise platform app launch handling of a .txt file.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: AppView host app manifest
+summary: Manifest for the Platform API Test host application, declaring the background script and requesting the appview permission.

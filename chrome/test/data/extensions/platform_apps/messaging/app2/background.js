@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Messaging test app 2 background script
+// summary: Background script for the app2 messaging test fixture that replies to external connections and messages and signals readiness to the test.
+// ---
+
 var otherId = 'ljhhihhmjomkjokmknellgbidphmahkh';
 
 chrome.runtime.onConnectExternal.addListener(function(port) {

@@ -1,0 +1,4 @@
+# Docerion header of many-apis.json.
+type: test
+title: Multiple API permissions test manifest
+summary: Test manifest listing many API permissions alongside a host permission to exercise permission warning messages.

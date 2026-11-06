@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest of the App Window test app
+summary: Chrome app manifest describing the App Window test app and registering main.js as its background script.

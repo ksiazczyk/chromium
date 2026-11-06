@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: test
+title: Fullscreen test app page
+summary: Minimal HTML page loaded into the test app's window to exercise fullscreen and keyboard event behavior.

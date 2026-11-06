@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the messaging sender success test app
+summary: Manifest defining the Ephemeral Apps Messaging sender success test app, with main.js as its background script.

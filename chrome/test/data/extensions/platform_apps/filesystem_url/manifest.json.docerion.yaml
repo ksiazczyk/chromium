@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: 'Manifest for the filesystem: URL navigation platform app test'
+summary: 'Extension manifest defining the platform app with a background script used to test that filesystem: URL navigations are allowed.'

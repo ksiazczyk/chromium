@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Platform App fileSystem.getDisplayPath test manifest
+summary: Manifest for the getDisplayPath platform app test, declaring a text file handler, fileSystem permission, and test.js as the background script.

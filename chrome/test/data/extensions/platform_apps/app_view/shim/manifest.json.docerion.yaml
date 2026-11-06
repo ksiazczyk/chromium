@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: App view shim test app manifest
+summary: Chrome app manifest for the appview shim test declaring the appview permission and test.js as the background script.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Platform app file launch test script
+// summary: Background script that runs a chrome.test case verifying launch data fields and reading the contents of the file the app was launched with.
+// ---
+
 chrome.app.runtime.onLaunched.addListener(function (launchData) {
   // Test that the session-specific fields are |false| and the id and items
   // fields can be read in the launch data.

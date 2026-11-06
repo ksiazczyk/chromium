@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest for update URL pinning v2
+summary: Manifest for a test extension fixture used in Chrome's extension update URL pinning tests, declaring version 2 and a custom update URL.

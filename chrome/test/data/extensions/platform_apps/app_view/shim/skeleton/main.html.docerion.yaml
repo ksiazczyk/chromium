@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: test
+title: Skeleton app main page
+summary: Minimal HTML page with a Hello World div that serves as the main document of the skeleton app_view test app.

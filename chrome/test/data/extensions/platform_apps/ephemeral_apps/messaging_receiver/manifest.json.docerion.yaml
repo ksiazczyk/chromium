@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Messaging receiver test extension manifest
+summary: Manifest for the Ephemeral Apps Messaging receiver test extension, defining the background script and a fixed extension key.

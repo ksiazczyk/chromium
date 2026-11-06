@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Platform app test manifest for window.open navigation
+summary: Manifest for a platform app test whose background script runs checks that window.open() to local resources is disallowed.

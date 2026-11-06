@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Link click simulation for the open_link test
+// summary: Signals launch, points the test link at the test server, dispatches a click, and reports when the link opens.
+// ---
+
 chrome.test.sendMessage('Launched');
 
 chrome.test.getConfig(function(config) {

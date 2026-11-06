@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the runtime.restart test app
+summary: Manifest for the kiosk-enabled test platform app that runs test.js as its background script.

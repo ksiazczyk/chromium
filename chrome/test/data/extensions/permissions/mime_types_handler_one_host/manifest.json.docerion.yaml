@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: MIME types handler with one host test manifest
+summary: Test extension manifest declaring a MIME types handler for application/pdf pointing to viewer.html with a single host permission for example.com.

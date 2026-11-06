@@ -1,0 +1,4 @@
+# Docerion header of sync_file_system.json.
+type: test
+title: SyncFileSystem permission test manifest
+summary: Chrome app manifest fixture declaring the syncFileSystem permission for permission-related tests.

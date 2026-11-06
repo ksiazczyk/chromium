@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the Platform App Hidden test app
+summary: Manifest for the Platform App Hidden test app, declaring test.js as its background script.

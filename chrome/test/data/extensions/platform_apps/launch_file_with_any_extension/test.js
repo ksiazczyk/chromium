@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Platform app file launch test script
+// summary: Verifies that a platform app launched with a file receives correct launch data, including the handler id and items, and can read the launched file's contents.
+// ---
+
 chrome.app.runtime.onLaunched.addListener(function (launchData) {
   // Test that the isKioskSession field is |false| and the id and items fields
   // can be read in the launch data.

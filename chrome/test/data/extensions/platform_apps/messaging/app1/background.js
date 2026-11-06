@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for messaging test app 1
+// summary: Runs chrome.test cases that connect to another extension via runtime.connect and sendMessage, verifying replies and disconnect behavior.
+// ---
+
 var otherId = 'dceacbkfkmllgmjmbhgkpjegnodmildf';
 
 function testConversation(port) {

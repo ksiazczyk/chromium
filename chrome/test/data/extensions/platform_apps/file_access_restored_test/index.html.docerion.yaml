@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: test
+title: Minimal app window page for the file access restored test
+summary: Placeholder HTML page opened as the test app's window while the file access restored test runs.

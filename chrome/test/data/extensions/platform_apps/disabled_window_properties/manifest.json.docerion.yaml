@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Disabled window properties platform app test manifest
+summary: Manifest for the disabled window properties platform app test, loading test.js as the app's background script.

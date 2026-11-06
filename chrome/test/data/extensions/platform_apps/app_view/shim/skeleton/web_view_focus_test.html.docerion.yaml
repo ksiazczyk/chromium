@@ -1,0 +1,4 @@
+# Docerion header of web_view_focus_test.html.
+type: test
+title: WebView in AppView focus test page
+summary: HTML page for the webview-in-appview focus test that loads web_view_focus_test.js to build the webview under test.

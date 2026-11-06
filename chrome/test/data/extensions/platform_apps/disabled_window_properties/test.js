@@ -4,6 +4,12 @@
 
 // NOTE: Some of the test code was put in the global scope on purpose!
 
+// ---docerion
+// type: test
+// title: Disabled window properties test script
+// summary: JavaScript test that verifies window.toolbar getter and setter behavior after redefinition in a platform app.
+// ---
+
 var resultFromToolbarGetterAtStart = window.toolbar;
 
 // The following statement implicitly invokes the window.toolbar setter.  This

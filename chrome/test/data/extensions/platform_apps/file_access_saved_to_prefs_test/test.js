@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for retained file write test
+// summary: Test app background script that opens a chosen file, retains its entry, truncates and rewrites it, then signals the test with a fileWritten message.
+// ---
+
 var textToWrite = 'def';
 
 function truncateAndWriteToFile(writableEntry, callback) {

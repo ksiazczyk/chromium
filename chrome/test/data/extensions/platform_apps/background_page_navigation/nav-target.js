@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Failure notifier for the navigation target page
+// summary: Script that reports a test failure via chrome.test.notifyFail if the app navigates to the nav-target page.
+// ---
+
 // We should never reach this page; if we have then it's a signal that we've
 // navigated away from the app page, and we should have the test fail.
 chrome.test.notifyFail('Navigated to ' + window.location.href);

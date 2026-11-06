@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Unknown Permissions Test extension manifest
+summary: Test fixture manifest for an extension that requests an unrecognized permission, used to test how Chrome handles unknown extension permissions.

@@ -1,0 +1,4 @@
+# Docerion header of audio-video.json.
+type: test
+title: Audio and video permission warnings test manifest
+summary: Test manifest combining host, API, audioCapture and videoCapture permissions to check permission warning messages.

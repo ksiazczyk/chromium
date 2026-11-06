@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Platform App Launch Test manifest
+summary: Chrome app manifest for the launch_file_with_any_extension test, declaring a file handler that accepts any extension, a background test script, and the fileSystem permission.

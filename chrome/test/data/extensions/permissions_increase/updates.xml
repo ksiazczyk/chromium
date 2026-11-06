@@ -1,4 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<!--docerion
+type: test
+title: Update check response XML for permission increase test
+summary: Mock update server response in the gupdate XML protocol 2.0 serving extension version 2 from localhost for the permissions increase test.
+-->
+
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='pgdpcfcocojkjfbgpiianjngphoopgmo'>
     <updatecheck codebase='http://localhost/autoupdate/v2.crx' version='2' />

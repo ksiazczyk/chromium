@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Files Preserved Test app manifest
+summary: Manifest for the Files Preserved Test Chrome app, requesting fileSystem read and write permissions with test.js as background script.

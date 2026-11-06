@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for platform app test of chrome.app.window.create() with about:blank
+summary: Manifest for a platform app test app whose background script tests that chrome.app.window.create() cannot open about:blank.

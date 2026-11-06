@@ -1,0 +1,4 @@
+# Docerion header of web_request_com_host_permissions.json.
+type: test
+title: Web request extension manifest with .com host permissions
+summary: Extension manifest fixture with webRequest APIs and a *://*.com/* host pattern for web request permission tests.

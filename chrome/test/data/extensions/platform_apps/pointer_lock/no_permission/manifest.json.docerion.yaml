@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Pointer lock no-permission test app manifest
+summary: Manifest for a Chrome app test named pointer lock access apitest fail that verifies pointer lock is inaccessible, declaring no permissions.

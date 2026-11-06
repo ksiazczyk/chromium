@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: DLP Test Extension manifest
+summary: Manifest for the DLP Test Extension, a Chrome Apps fixture for testing the DLP policy on extension URLs.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Outer bounds window test background script
+// summary: Background script that, on app launch, creates a window with a configured frame and fixed outer bounds while signaling the test harness.
+// ---
+
 chrome.app.runtime.onLaunched.addListener(function() {
   chrome.test.sendMessage('Launched', function (response) {
     var frameType = response == 'color' ? { color: '#ff0000' } : response;

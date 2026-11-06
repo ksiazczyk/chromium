@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Platform app icon test manifest
+summary: Manifest for the app icon platform app test, declaring the background script and the 48-pixel app icon.

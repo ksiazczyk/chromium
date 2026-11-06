@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Platform App Active Test manifest
+summary: Manifest for the Platform App Active Test app, declaring test.js as its background script.

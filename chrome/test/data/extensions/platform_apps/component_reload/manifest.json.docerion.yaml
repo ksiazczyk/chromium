@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Component app reload manifest
+summary: Manifest for the component app reload test extension, defining a v2 packaged app with background.js as its background script.

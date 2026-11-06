@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the Ephemeral Apps Messaging Receiver v2 test app
+summary: Chrome app manifest defining the messaging receiver v2 test app with main.js as its background script.
