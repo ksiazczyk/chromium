@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpectralVoiceIsolationComponent interface
+// summary: Defines the abstract interface for spectral voice isolation components that expose a per-frequency-bin speech mask, documenting its timing offset and boundary limitations.
+// ---
+
 #ifndef MEDIA_WEBRTC_VOICE_ISOLATION_SPECTRAL_VOICE_ISOLATION_COMPONENT_H_
 #define MEDIA_WEBRTC_VOICE_ISOLATION_SPECTRAL_VOICE_ISOLATION_COMPONENT_H_
 

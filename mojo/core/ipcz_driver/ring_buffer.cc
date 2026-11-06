@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RingBuffer implementation
+// summary: Implements a circular byte buffer over a shared memory mapping with read, write, peek, discard, and serialization operations.
+// ---
+
 #include "mojo/core/ipcz_driver/ring_buffer.h"
 
 #include <algorithm>

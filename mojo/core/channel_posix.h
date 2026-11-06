@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX channel class declaration
+// summary: Declares ChannelPosix, the socket-based Channel implementation for POSIX systems with IO thread watchers and message queuing.
+// ---
+
 #ifndef MOJO_CORE_CHANNEL_POSIX_H_
 #define MOJO_CORE_CHANNEL_POSIX_H_
 

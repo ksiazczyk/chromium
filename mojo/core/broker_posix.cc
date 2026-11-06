@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX Broker implementation
+// summary: Implements the POSIX Broker, sending synchronous buffer requests and receiving shared memory regions over a blocking socket.
+// ---
+
 #include "mojo/core/broker.h"
 
 #include <fcntl.h>

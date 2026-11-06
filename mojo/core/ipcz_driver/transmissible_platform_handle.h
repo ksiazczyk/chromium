@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TransmissiblePlatformHandle driver object interface
+// summary: Declares TransmissiblePlatformHandle, the driver object holding a PlatformHandle that the Channel implementation can transmit as-is, out-of-band from message data.
+// ---
+
 #ifndef MOJO_CORE_IPCZ_DRIVER_TRANSMISSIBLE_PLATFORM_HANDLE_H_
 #define MOJO_CORE_IPCZ_DRIVER_TRANSMISSIBLE_PLATFORM_HANDLE_H_
 

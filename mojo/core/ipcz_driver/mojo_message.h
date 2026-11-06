@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoMessage class header
+// summary: Declares the MojoMessage class, heap storage for message data and ipcz handles implementing Mojo message APIs such as AppendData and GetData.
+// ---
+
 #ifndef MOJO_CORE_IPCZ_DRIVER_MOJO_MESSAGE_H_
 #define MOJO_CORE_IPCZ_DRIVER_MOJO_MESSAGE_H_
 

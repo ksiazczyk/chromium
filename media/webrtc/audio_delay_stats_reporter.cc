@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of audio delay stats reporting
+// summary: Reports UMA histograms for capture, render, and total audio delays and computes delay variance over a configurable window of samples.
+// ---
+
 #include "media/webrtc/audio_delay_stats_reporter.h"
 
 #include <numeric>

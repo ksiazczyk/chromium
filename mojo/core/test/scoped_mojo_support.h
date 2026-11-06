@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped Mojo Core test support
+// summary: Declares ScopedMojoSupport, a helper that sets up and tears down a Mojo Core instance with a dedicated IO thread and IPC support around individual tests.
+// ---
+
 #ifndef MOJO_CORE_TEST_SCOPED_MOJO_SUPPORT_H_
 #define MOJO_CORE_TEST_SCOPED_MOJO_SUPPORT_H_
 

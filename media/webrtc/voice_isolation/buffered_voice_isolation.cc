@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Buffered voice isolation implementation
+// summary: Implements buffering two external audio frames into a single internal component call and emitting the output one external frame behind the input.
+// ---
+
 #include "media/webrtc/voice_isolation/buffered_voice_isolation.h"
 
 #include <algorithm>

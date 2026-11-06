@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Channel implementation for node-to-node IPC
+// summary: Implements the Channel class for node-to-node IPC, including message construction, buffering, handle transport and platform-specific behavior.
+// ---
+
 #include "mojo/core/channel.h"
 
 #include <stddef.h>

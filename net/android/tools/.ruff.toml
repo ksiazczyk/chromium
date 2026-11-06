@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Ruff configuration for net/android/tools
+# summary: Extends the repository root Ruff configuration and sets the indent width to 4 for this directory.
+# ---
+
 extend = "../../.ruff.toml"
 indent-width = 4

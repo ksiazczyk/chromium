@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Message pipe unit tests
+// summary: Unit tests covering message pipe creation, reading, writing, handle signals, and pipe fusing behavior.
+// ---
+
 #include "mojo/public/cpp/system/message_pipe.h"
 
 #include <stdint.h>

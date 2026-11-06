@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuzzing support utilities
+// summary: Declares a fake Channel delegate and an Environment providing the IO task executor that Mojo fuzzing targets require.
+// ---
+
 #ifndef MOJO_CORE_FUZZING_UTILS_H_
 #define MOJO_CORE_FUZZING_UTILS_H_
 

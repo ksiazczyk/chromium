@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SPNEGO authentication constants for Android Account Manager
+// summary: Defines bundle keys, status codes and feature names used by Chrome in SPNEGO authentication requests to the Android Account Manager.
+// ---
+
 package org.chromium.net;
 
 import org.chromium.build.annotations.NullMarked;

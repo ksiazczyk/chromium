@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidNetworkLibrary
+// summary: Collection of JNI-exposed network utilities for the net component, covering MIME types, certificate verification, connectivity and WiFi state queries.
+// ---
+
 package org.chromium.net;
 
 import android.Manifest;

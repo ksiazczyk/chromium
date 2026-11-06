@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedBufferMapping implementation
+// summary: Implements SharedBufferMapping, which maps platform shared memory regions of read-only, writable, or unsafe mode into active memory mappings.
+// ---
+
 #include "mojo/core/ipcz_driver/shared_buffer_mapping.h"
 
 #include <utility>

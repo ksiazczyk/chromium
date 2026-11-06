@@ -8,6 +8,12 @@
 // testing and debugging of the VoiceIsolation component with different audio
 // samples and ML models.
 
+// ---docerion
+// type: script
+// title: Voice isolation WAV processing tool
+// summary: Command-line tool that denoises a mono 48 kHz WAV file with a given TfLite model and writes the cleaned audio, intended for manual testing and debugging.
+// ---
+
 #include <iostream>
 #include <string>
 #include <vector>

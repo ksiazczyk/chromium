@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for WebRTC audio processing helpers
+// summary: Verifies that CreateWebRtcAudioProcessingModule applies default and feature-dependent audio processing configurations correctly across platforms.
+// ---
+
 #include "media/webrtc/helpers.h"
 
 #include "base/logging.h"

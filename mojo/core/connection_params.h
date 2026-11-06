@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectionParams class declaration
+// summary: Declares ConnectionParams, holding the platform channel endpoint and flags such as async, untrusted process and endpoint leaking used when connecting to another process.
+// ---
+
 #ifndef MOJO_CORE_CONNECTION_PARAMS_H_
 #define MOJO_CORE_CONNECTION_PARAMS_H_
 

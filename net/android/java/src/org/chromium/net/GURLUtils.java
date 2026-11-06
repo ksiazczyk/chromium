@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GURLUtils
+// summary: Provides Java access to the GURL library, returning the origin of a URL through a native call.
+// ---
+
 package org.chromium.net;
 
 import androidx.annotation.VisibleForTesting;

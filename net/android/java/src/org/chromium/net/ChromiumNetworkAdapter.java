@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromiumNetworkAdapter
+// summary: Wraps URL connection and stream opening with a network traffic annotation argument for static analysis and privacy auditing.
+// ---
+
 package org.chromium.net;
 
 import org.chromium.build.annotations.NullMarked;

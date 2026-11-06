@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enum validation helper for wire values
+// summary: Provides a ValidateEnum template that checks wire-supplied enum values fall within a non-sparse enum's kMinValue and kMaxValue range.
+// ---
+
 #ifndef MOJO_CORE_IPCZ_DRIVER_VALIDATE_ENUM_H_
 #define MOJO_CORE_IPCZ_DRIVER_VALIDATE_ENUM_H_
 

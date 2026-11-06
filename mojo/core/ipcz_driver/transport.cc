@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transport implementation for ipcz driver
+// summary: Implements the ipcz driver Transport backed by a Channel, covering driver object serialization and platform-specific handle transmission such as Windows handle duplication.
+// ---
+
 #include "mojo/core/ipcz_driver/transport.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows platform handle and FILE conversions
+// summary: Implements the Windows variant of the test helpers that convert between scoped FILE objects and Mojo platform handles via handle duplication.
+// ---
+
 #include "mojo/core/test/test_utils.h"
 
 #include <windows.h>

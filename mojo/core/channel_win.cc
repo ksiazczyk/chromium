@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows channel implementation
+// summary: Implements the Windows channel using IO completion handlers, transferring handles to remote processes and recording write latency metrics.
+// ---
+
 #include "mojo/core/channel.h"
 
 #include <windows.h>

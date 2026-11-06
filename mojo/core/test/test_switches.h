@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mojo test switch declarations
+// summary: Declares the command-line switch constants used to configure Mojo behavior in test runners and child processes.
+// ---
+
 #ifndef MOJO_CORE_TEST_TEST_SWITCHES_H_
 #define MOJO_CORE_TEST_TEST_SWITCHES_H_
 

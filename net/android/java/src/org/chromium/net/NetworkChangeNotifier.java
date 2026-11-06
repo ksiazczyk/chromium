@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network state change notifier singleton
+// summary: Singleton that tracks connection type, subtype and cost, and notifies Java observers and native delegates of network state changes in Chrome.
+// ---
+
 package org.chromium.net;
 
 import android.annotation.SuppressLint;

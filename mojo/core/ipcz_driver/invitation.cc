@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Invitation implementation
+// summary: Implements Mojo invitation handling over ipcz, mapping legacy attachment names to initial portals and creating transports for invited process endpoints.
+// ---
+
 #include "mojo/core/ipcz_driver/invitation.h"
 
 #include <algorithm>

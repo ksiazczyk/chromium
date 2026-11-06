@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Band split voice isolation unit tests
+// summary: Unit tests verifying frame layout, high band gain, crossfade weights and processing behavior of BandSplitVoiceIsolation using a mock internal component.
+// ---
+
 #include "media/webrtc/voice_isolation/band_split_voice_isolation.h"
 
 #include <array>

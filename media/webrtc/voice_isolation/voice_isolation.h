@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VoiceIsolation public API
+// summary: Declares the VoiceIsolation entry class that processes 48 kHz 10 ms audio buffers and creates the isolation pipeline from a TfLite model or an existing component.
+// ---
+
 #ifndef MEDIA_WEBRTC_VOICE_ISOLATION_VOICE_ISOLATION_H_
 #define MEDIA_WEBRTC_VOICE_ISOLATION_VOICE_ISOLATION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Data pipe unit tests
+// summary: Extensive unit tests for Mojo data pipe creation, reading, writing and multiprocess behavior, including timeout and capacity edge cases.
+// ---
+
 #include "mojo/public/c/system/data_pipe.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Android TrafficStats wrappers
+// summary: GTest suite that verifies total and per-UID traffic byte counters increase after making requests through an embedded test server, with retries for rate-limited results.
+// ---
+
 #include "net/android/traffic_stats.h"
 
 #include <unistd.h>  // For usleep

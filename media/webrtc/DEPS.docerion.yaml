@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for media/webrtc
+summary: Restricts includes in the directory to allowed WebRTC, TFLite, pffft, and optimization guide paths, with extra allowances for test files.

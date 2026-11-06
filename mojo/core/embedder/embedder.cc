@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo Core embedder initialization implementation
+// summary: Implements Init, ShutDown, feature initialization, and helpers that create ipcz transports and expose the ipcz API and driver for Mojo.
+// ---
+
 #include "mojo/core/embedder/embedder.h"
 
 #include <stdint.h>

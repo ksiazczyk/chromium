@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the media WebRTC component
+summary: Defines the media_webrtc component with its sources and dependencies, plus the unit_tests source set for the directory's test files.

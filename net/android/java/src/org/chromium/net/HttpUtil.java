@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Java bridge to native HttpUtil header validation
+// summary: Java wrapper around the native HttpUtil library that checks whether an HTTP header name and value are valid and allowed, via JNI.
+// ---
+
 package org.chromium.net;
 
 import org.jni_zero.JNINamespace;

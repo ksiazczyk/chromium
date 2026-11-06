@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Broker message definitions and helpers
+// summary: Defines broker message types, packed header and payload structs, and helpers to create and parse broker channel messages.
+// ---
+
 #ifndef MOJO_CORE_BROKER_MESSAGES_H_
 #define MOJO_CORE_BROKER_MESSAGES_H_
 

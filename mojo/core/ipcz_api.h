@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ipcz API header
+// summary: Declares functions to retrieve the ipcz API and initialize, query, and destroy the global ipcz node used by Mojo core.
+// ---
+
 #ifndef MOJO_CORE_IPCZ_API_H_
 #define MOJO_CORE_IPCZ_API_H_
 

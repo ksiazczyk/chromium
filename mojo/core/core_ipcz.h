@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo ipcz implementation entry point
+// summary: Declares GetMojoIpczImpl, which exposes the MojoSystemThunks2 table implementing the Mojo API over ipcz.
+// ---
+
 #ifndef MOJO_CORE_CORE_IPCZ_H_
 #define MOJO_CORE_CORE_IPCZ_H_
 

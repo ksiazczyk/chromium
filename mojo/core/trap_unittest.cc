@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trap and trigger unit tests
+// summary: Extensive tests for MojoCreateTrap and MojoAddTrigger covering trap events, cancellation, invalid arguments, and multithreaded notification behavior.
+// ---
+
 #include "mojo/public/c/system/trap.h"
 
 #include <stdint.h>

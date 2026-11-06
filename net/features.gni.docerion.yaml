@@ -1,0 +1,4 @@
+# Docerion header of features.gni.
+type: config
+title: Build feature flags for net
+summary: Declares GN build arguments controlling net features such as WebSockets, Kerberos, mDNS, HSTS preload and certificate verification.

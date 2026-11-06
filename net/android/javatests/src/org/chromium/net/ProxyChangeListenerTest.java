@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProxyChangeListenerTest - proxy change broadcast handling tests
+// summary: Tests ProxyChangeListener's handling of proxy change broadcasts using a fake context that records registered receivers.
+// ---
+
 package org.chromium.net;
 
 import android.content.BroadcastReceiver;

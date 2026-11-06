@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkTrafficAnnotationTag hash tests
+// summary: Robolectric test that checks NetworkTrafficAnnotationTag's iterativeHash output against reference values from the traffic annotation auditor tests.
+// ---
+
 package org.chromium.net;
 
 import static org.junit.Assert.assertEquals;

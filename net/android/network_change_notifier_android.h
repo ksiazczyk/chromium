@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android network change notifier class
+// summary: Declares NetworkChangeNotifierAndroid, which observes Android network events and forwards them to observers, including an overview of the notifier architecture.
+// ---
+
 #ifndef NET_ANDROID_NETWORK_CHANGE_NOTIFIER_ANDROID_H_
 #define NET_ANDROID_NETWORK_CHANGE_NOTIFIER_ANDROID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioProcessor class declaration
+// summary: Declares the AudioProcessor that applies WebRTC effects to microphone capture audio and delivers processed frames, documenting its threading model and callbacks.
+// ---
+
 #ifndef MEDIA_WEBRTC_AUDIO_PROCESSOR_H_
 #define MEDIA_WEBRTC_AUDIO_PROCESSOR_H_
 

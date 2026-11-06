@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BandSplitVoiceIsolation class declaration
+// summary: Declares a component that extracts the 16 kHz low band from 48 kHz DFTs and rebuilds the full band from the denoised low band and scaled high band.
+// ---
+
 #ifndef MEDIA_WEBRTC_VOICE_ISOLATION_BAND_SPLIT_VOICE_ISOLATION_H_
 #define MEDIA_WEBRTC_VOICE_ISOLATION_BAND_SPLIT_VOICE_ISOLATION_H_
 

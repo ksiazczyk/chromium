@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Buffered voice isolation unit tests
+// summary: Unit tests covering frame size, algorithmic delay, buffering of two external frames and buffer clearing for BufferedVoiceIsolation.
+// ---
+
 #include "media/webrtc/voice_isolation/buffered_voice_isolation.h"
 
 #include <algorithm>

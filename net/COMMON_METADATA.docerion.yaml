@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common metadata for the net directory
+summary: Declares the bug tracker component, team email and Buganizer ID used for issues in the net directory.

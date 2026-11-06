@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android KeyStore JNI interface
+// summary: Declares functions to access the Android platform KeyStore, including private key class name lookup, algorithm support checks, signing and encryption helpers.
+// ---
+
 #ifndef NET_ANDROID_KEYSTORE_H_
 #define NET_ANDROID_KEYSTORE_H_
 

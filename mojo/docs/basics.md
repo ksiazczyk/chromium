@@ -1,3 +1,9 @@
+---
+type: guide
+title: Mojo Basics
+summary: Introduces core Mojo concepts, explaining how Mojom interfaces are defined and how message pipes with Remote and Receiver endpoints carry IPCs.
+---
+
 # Mojo Basics
 
 This document aims to provide a brief overview of the different concepts in Mojo

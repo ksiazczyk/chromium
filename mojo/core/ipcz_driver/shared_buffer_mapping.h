@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedBufferMapping driver object interface
+// summary: Declares SharedBufferMapping, an active memory mapping of a driver-controlled shared buffer used to manage read/writable mappings of unsafe regions.
+// ---
+
 #ifndef MOJO_CORE_IPCZ_DRIVER_SHARED_BUFFER_MAPPING_H_
 #define MOJO_CORE_IPCZ_DRIVER_SHARED_BUFFER_MAPPING_H_
 

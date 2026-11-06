@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RingBuffer unit tests
+// summary: GoogleTest unit tests covering RingBuffer read, write, peek, discard, and direct reader and writer behavior over shared memory.
+// ---
+
 #include "mojo/core/ipcz_driver/ring_buffer.h"
 
 #include <algorithm>

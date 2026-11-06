@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android network change notifier factory implementation
+// summary: Implements the factory that owns the delegate and creates Android-specific NetworkChangeNotifier instances on the JNI thread.
+// ---
+
 #include "net/android/network_change_notifier_factory_android.h"
 
 #include "base/memory/ptr_util.h"

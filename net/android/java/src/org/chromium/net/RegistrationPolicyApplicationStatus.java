@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Application-state-based registration policy for the network listener
+// summary: Registers or unregisters the network change listener based on visible activities and window focus, self-healing failed registrations after Doze mode.
+// ---
+
 package org.chromium.net;
 
 import android.app.Activity;

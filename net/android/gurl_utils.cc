@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI bridge for GURL origin lookup
+// summary: Implements JNI bindings that return the origin of a URL to Java using GURL.
+// ---
+
 #include "base/android/jni_string.h"
 #include "url/gurl.h"
 

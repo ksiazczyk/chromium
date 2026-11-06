@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpeechMaskEstimator implementation
+// summary: Implements speech mask estimation by overlap-adding denoised DFTs, reanalyzing the waveform with a Hann-windowed DFT, and capping per-bin magnitude ratios at one.
+// ---
+
 #include "media/webrtc/voice_isolation/speech_mask_estimator.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passthrough voice isolation implementation
+// summary: Implements a no-op component that copies input audio to the output unchanged with zero algorithmic delay.
+// ---
+
 #include "media/webrtc/voice_isolation/passthrough_voice_isolation.h"
 
 #include "base/check_op.h"

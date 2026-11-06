@@ -1,3 +1,13 @@
+---
+type: reference
+title: Mojo docs navigation
+summary: Navigation menu linking to the main Mojo documentation pages such as IDL, language bindings, and the style guide.
+relations:
+  - references /docs/mojo_and_services.md
+  - references /docs/security/mojo.md
+  - references /mojo/README.md
+---
+
 # Mojo docs (go/mojo-docs)
 
 * [Home](/mojo/README.md)

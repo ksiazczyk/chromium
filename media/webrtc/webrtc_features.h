@@ -4,6 +4,12 @@
 
 // Defines features for media/webrtc.
 
+// ---docerion
+// type: source
+// title: WebRTC feature flag declarations
+// summary: Declares the feature flags and parameters for media/webrtc, covering codec support, audio processing downmixing and OpenH264 encoder availability.
+// ---
+
 #ifndef MEDIA_WEBRTC_WEBRTC_FEATURES_H_
 #define MEDIA_WEBRTC_WEBRTC_FEATURES_H_
 

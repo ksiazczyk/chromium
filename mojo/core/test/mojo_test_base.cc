@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MojoTestBase implementation
+// summary: Implements the MojoTestBase GTest fixture, including client controllers and static helpers for creating message pipes and exchanging messages and handles.
+// ---
+
 #include "mojo/core/test/mojo_test_base.h"
 
 #include "base/compiler_specific.h"

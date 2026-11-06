@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android TrafficStats JNI implementation
+// summary: Implements wrappers over Android's TrafficStats Java API via JNI, returning total and per-UID transmitted and received byte counts since device boot.
+// ---
+
 #include "net/android/traffic_stats.h"
 
 // Must come after all headers that specialize FromJniType() / ToJniType().

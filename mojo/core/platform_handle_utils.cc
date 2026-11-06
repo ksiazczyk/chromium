@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform process handle unwrapping utilities
+// summary: Implements UnwrapAndClonePlatformProcessHandle, converting a MojoPlatformProcessHandle into an owned base::Process with duplication on Windows and Fuchsia.
+// ---
+
 #include "mojo/core/platform_handle_utils.h"
 
 #include "build/build_config.h"

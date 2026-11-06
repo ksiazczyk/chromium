@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Mojo Core dependency include rules
+summary: Declares allowed include dependencies for the mojo/core directory, permitting base, crypto, build, testing, third_party/ipcz and mojo.

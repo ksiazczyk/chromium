@@ -1,3 +1,13 @@
+---
+type: guide
+title: Getting Started with MojoLPM
+summary: Step-by-step tutorial for adding structure-aware libprotobuf-mutator fuzzers to Mojo interfaces, from choosing an interface through debugging and triage.
+relations:
+  - references /content/browser/browser_interface_binders.cc
+  - references /third_party/blink/public/mojom/loader/code_cache.mojom
+  - references /content/browser/renderer_host/code_cache_host_impl.h
+---
+
 # Getting started with MojoLPM
 
 ***

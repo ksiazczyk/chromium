@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android certificate verify result extraction
+// summary: Extracts the certificate verification status, known-root flag, and verified chain from the Java AndroidCertVerifyResult object.
+// ---
+
 #include "net/android/cert_verify_result_android.h"
 
 #include "base/android/jni_android.h"

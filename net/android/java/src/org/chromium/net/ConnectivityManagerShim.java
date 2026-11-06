@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectivityManagerShim
+// summary: Placeholder wrapper for hidden ConnectivityManager APIs, replaced by a real implementation when building Cronet for the Connectivity mainline module.
+// ---
+
 package org.chromium.net;
 
 import android.net.ConnectivityManager;

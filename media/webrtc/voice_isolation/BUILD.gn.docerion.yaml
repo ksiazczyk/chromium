@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the voice isolation module
+summary: Defines source sets for the voice isolation components, mocks, test support and unit tests, plus an optional WAV tool executable.

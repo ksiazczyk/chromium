@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'ProxyChangeListener: Android proxy change notifications'
+// summary: Listens for Android proxy change notifications and forwards them to the native ProxyConfigServiceAndroid, including support for reflection-based proxy overrides by WebView embedders.
+// ---
+
 package org.chromium.net;
 
 import android.content.BroadcastReceiver;

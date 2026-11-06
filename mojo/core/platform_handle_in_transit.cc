@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformHandleInTransit implementation
+// summary: Implements safe transfer of platform handles between processes, including Windows handle duplication, closing, and trust-level checks.
+// ---
+
 #include "mojo/core/platform_handle_in_transit.h"
 
 #include <utility>

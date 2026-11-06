@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX socket channel implementation
+// summary: Implements the POSIX channel over sockets, including message chunking, handle passing, and write latency metrics.
+// ---
+
 #include "mojo/core/channel_posix.h"
 
 #include <errno.h>

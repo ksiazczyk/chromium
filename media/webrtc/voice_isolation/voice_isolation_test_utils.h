@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Voice isolation test utilities header
+// summary: Declares test helpers for loading voice isolation test models, building bogus and same-tensor models, and generating noise DFT inputs.
+// ---
+
 #ifndef MEDIA_WEBRTC_VOICE_ISOLATION_VOICE_ISOLATION_TEST_UTILS_H_
 #define MEDIA_WEBRTC_VOICE_ISOLATION_VOICE_ISOLATION_TEST_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MojoTestSuiteBase implementation
+// summary: Implements the Mojo test suite, skipping MANUAL_ tests unless requested and giving each test a fresh Mojo Core instance plus child process environment setup.
+// ---
+
 #include "mojo/core/test/mojo_test_suite_base.h"
 
 #include "base/base_switches.h"

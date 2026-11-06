@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedMojoSupport implementation
+// summary: Implements ScopedMojoSupport, which initializes and tears down a Mojo Core instance with test configuration, capability switches, and a dedicated IO thread.
+// ---
+
 #include "mojo/core/test/scoped_mojo_support.h"
 
 #include "base/base_switches.h"

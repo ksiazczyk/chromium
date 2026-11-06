@@ -1,0 +1,4 @@
+# Docerion header of features.gni.
+type: config
+title: Mojo build feature flags
+summary: Declares the mojo_use_apple_channel GN build argument that enables the Apple channel on Apple platforms.

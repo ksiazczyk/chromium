@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RingBuffer class header
+// summary: Declares the RingBuffer circular buffer over shared memory, including DirectWriter and DirectReader helpers for direct span access.
+// ---
+
 #ifndef MOJO_CORE_IPCZ_DRIVER_RING_BUFFER_H_
 #define MOJO_CORE_IPCZ_DRIVER_RING_BUFFER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for net
+summary: Directory metadata entry that mixes in net/COMMON_METADATA for issue tracking.

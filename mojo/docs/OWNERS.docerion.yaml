@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Mojo docs OWNERS
+summary: Lists the code owner (dcheng@chromium.org) responsible for reviewing changes to the mojo docs directory.

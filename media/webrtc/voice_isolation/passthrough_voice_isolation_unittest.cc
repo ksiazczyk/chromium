@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PassthroughVoiceIsolation unit tests
+// summary: Tests that PassthroughVoiceIsolation reports the configured frame size, zero algorithmic delay, and copies input audio to the output unchanged.
+// ---
+
 #include "media/webrtc/voice_isolation/passthrough_voice_isolation.h"
 
 #include <vector>

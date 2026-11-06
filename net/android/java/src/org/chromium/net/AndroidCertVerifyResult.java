@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidCertVerifyResult
+// summary: Java representation of a certificate verification result, exposing status, known-root flag and encoded certificate chain to native code via JNI.
+// ---
+
 package org.chromium.net;
 
 import org.jni_zero.CalledByNative;

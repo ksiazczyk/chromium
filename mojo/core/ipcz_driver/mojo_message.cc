@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoMessage implementation
+// summary: Implements the ipcz-based Mojo message object, including data pipe handle fix-up, parcel handling, serialization, and buffer growth behavior.
+// ---
+
 #include "mojo/core/ipcz_driver/mojo_message.h"
 
 #include <algorithm>

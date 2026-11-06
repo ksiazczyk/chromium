@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Channel base class for Mojo IPC message transport
+// summary: Defines the Channel base class and message wire format for reading and writing delimited IPC messages with platform handle transfer between processes.
+// ---
+
 #ifndef MOJO_CORE_CHANNEL_H_
 #define MOJO_CORE_CHANNEL_H_
 

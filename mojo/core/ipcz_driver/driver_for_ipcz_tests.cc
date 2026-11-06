@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test driver for ipcz multinode tests
+// summary: Provides in-process and multiprocess test node controllers that plug the Mojo ipcz driver into ipcz's multinode test framework.
+// ---
+
 #include <memory>
 #include <string>
 #include <utility>

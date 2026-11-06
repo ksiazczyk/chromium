@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network change notifier delegate implementation
+// summary: Implements the thread-safe delegate that receives network change notifications from Java via JNI and forwards them to registered native observers.
+// ---
+
 #include "net/android/network_change_notifier_delegate_android.h"
 
 #include "base/android/jni_array.h"

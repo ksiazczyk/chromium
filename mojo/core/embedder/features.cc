@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo embedder feature flag definitions
+// summary: Defines base::Feature flags such as kMojoUseEventFd and kMojoIpczMemV2 that gate platform-specific Mojo IPC behavior.
+// ---
+
 #include "mojo/core/embedder/features.h"
 
 #include "build/build_config.h"

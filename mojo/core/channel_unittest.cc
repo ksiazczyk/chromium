@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Channel unit tests
+// summary: Unit tests for the Channel message format, read buffer handling, and dispatch behavior using mock delegates and test channel subclasses.
+// ---
+
 #include "mojo/core/channel.h"
 
 #include <atomic>

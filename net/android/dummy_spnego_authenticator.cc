@@ -1,6 +1,13 @@
 // Copyright 2014 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Dummy SPNEGO authenticator for Negotiate tests
+// summary: Implements a mock GSSAPI stub and dummy SPNEGO authenticator used to drive OS-independent Negotiate authentication tests on Android.
+// ---
+
 #include "net/android/dummy_spnego_authenticator.h"
 
 #include "base/android/jni_android.h"

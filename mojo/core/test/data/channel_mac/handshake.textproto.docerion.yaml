@@ -1,0 +1,4 @@
+# Docerion header of handshake.textproto.
+type: test
+title: Handshake fuzzer case
+summary: Textproto case with a fuzzed remote-endpoint handshake followed by simple messages, port descriptors, and out-of-line data.

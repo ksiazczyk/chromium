@@ -1,0 +1,4 @@
+# Docerion header of NetError.template.
+type: source
+title: NetError Java annotation template
+summary: Template that generates the Java NetError annotation interface, expanding network error constants from net_error_list.h for Chromium's Android networking code.

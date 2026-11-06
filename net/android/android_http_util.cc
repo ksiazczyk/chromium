@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI bridge for HTTP header validation
+// summary: Implements JNI bindings that let Java code validate HTTP header names and values through net::HttpUtil.
+// ---
+
 #include "base/android/jni_string.h"
 #include "net/http/http_util.h"
 #include "url/gurl.h"

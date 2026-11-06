@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: String conversion utilities for non-ICU builds
+// summary: Called-by-native helpers that convert text between character sets and Unicode, normalize it, and uppercase strings when the build lacks ICU.
+// ---
+
 package org.chromium.net;
 
 import org.jni_zero.CalledByNative;

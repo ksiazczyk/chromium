@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Ruff lint and format configuration
+# summary: Configures Ruff line length, indentation width, and quote style for Python code in the Mojo directory.
+# ---
+
 line-length = 80
 indent-width = 2
 

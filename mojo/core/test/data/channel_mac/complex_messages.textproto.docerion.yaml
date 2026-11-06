@@ -1,0 +1,4 @@
+# Docerion header of complex_messages.textproto.
+type: test
+title: Complex message fuzzer case
+summary: Textproto case enqueueing messages with port descriptors, out-of-line data, and simple Mojo messages on a local channel.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ipcz API implementation
+// summary: Implements access to the global ipcz API and process-wide ipcz node, including node creation with options and teardown for Mojo core.
+// ---
+
 #include "mojo/core/ipcz_api.h"
 
 #include <vector>

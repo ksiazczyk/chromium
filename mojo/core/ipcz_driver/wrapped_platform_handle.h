@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WrappedPlatformHandle class declaration
+// summary: Declares an ipcz driver object that wraps a PlatformHandle so it can be serialized into a form transmissible by the platform's transport.
+// ---
+
 #ifndef MOJO_CORE_IPCZ_DRIVER_WRAPPED_PLATFORM_HANDLE_H_
 #define MOJO_CORE_IPCZ_DRIVER_WRAPPED_PLATFORM_HANDLE_H_
 

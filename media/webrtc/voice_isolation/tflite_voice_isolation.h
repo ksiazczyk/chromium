@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TfLite voice isolation denoiser declaration
+// summary: Declares TfLiteVoiceIsolation, a denoiser that runs a TfLite model to remove noise and reverberation and to estimate a speech mask from the denoising-only output.
+// ---
+
 #ifndef MEDIA_WEBRTC_VOICE_ISOLATION_TFLITE_VOICE_ISOLATION_H_
 #define MEDIA_WEBRTC_VOICE_ISOLATION_TFLITE_VOICE_ISOLATION_H_
 

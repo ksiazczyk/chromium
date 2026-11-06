@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC feature flag definitions
+// summary: Defines base::Feature flags for WebRTC behavior such as H.265 and AV1 codec support, input volume adjustment, WGC capture and neural echo estimation.
+// ---
+
 #include "media/webrtc/webrtc_features.h"
 
 #include "base/command_line.h"

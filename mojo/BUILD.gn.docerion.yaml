@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Mojo GN build targets
+summary: Defines GN build groups and test targets for Mojo, including unittests, perftests, and a buildflags header.

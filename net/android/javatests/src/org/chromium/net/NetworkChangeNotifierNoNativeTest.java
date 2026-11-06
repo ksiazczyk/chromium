@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkChangeNotifierNoNativeTest - Java-only notifier tests
+// summary: Exercises NetworkChangeNotifier initialization and network callback registration without loading any native libraries.
+// ---
+
 package org.chromium.net;
 
 import android.annotation.SuppressLint;

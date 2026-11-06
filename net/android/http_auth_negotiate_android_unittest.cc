@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Android Negotiate authentication
+// summary: Unit tests covering token generation and multi-round challenge parsing for the Android Negotiate authentication mechanism using a dummy SPNEGO authenticator.
+// ---
+
 #include "net/android/http_auth_negotiate_android.h"
 
 #include "base/run_loop.h"

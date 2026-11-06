@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android TrafficStats API header
+// summary: Declares functions that query total and per-UID transmitted and received byte counts since device boot through Android's TrafficStats APIs.
+// ---
+
 #ifndef NET_ANDROID_TRAFFIC_STATS_H_
 #define NET_ANDROID_TRAFFIC_STATS_H_
 
