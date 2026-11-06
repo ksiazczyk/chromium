@@ -1,0 +1,4 @@
+# Docerion header of image_with_set_cookie.jpg.mock-http-headers.
+type: test
+title: Mock HTTP headers for image_with_set_cookie.jpg
+summary: Mock HTTP response headers that serve the image with a Set-Cookie foo=bar header for cookie tests.

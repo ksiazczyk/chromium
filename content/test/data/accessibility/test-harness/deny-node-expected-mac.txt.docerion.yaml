@@ -1,0 +1,4 @@
+# Docerion header of deny-node-expected-mac.txt.
+type: test
+title: Deny node expected accessibility tree for macOS
+summary: Expected macOS AX accessibility tree output for the deny-node test page, listing AX roles and values for the form content.

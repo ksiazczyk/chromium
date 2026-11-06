@@ -1,0 +1,4 @@
+# Docerion header of dedicated_worker_in_subframe.html.
+type: test
+title: Dedicated worker in subframe test page
+summary: Test page that embeds the dedicated worker page inside an iframe for back-forward cache tests.

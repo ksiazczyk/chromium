@@ -1,0 +1,4 @@
+# Docerion header of geolocation.html.
+type: test
+title: Geolocation
+summary: Test page that requests geolocation via getCurrentPosition or watchPosition on click and reports position counts or denial in the document title.

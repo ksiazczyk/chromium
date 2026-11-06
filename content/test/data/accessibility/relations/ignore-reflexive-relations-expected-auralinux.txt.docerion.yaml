@@ -1,0 +1,4 @@
+# Docerion header of ignore-reflexive-relations-expected-auralinux.txt.
+type: test
+title: Ignore reflexive relations expected AuraLinux output
+summary: Expected accessibility tree output on AuraLinux for the test that reflexive aria-details relations are ignored.

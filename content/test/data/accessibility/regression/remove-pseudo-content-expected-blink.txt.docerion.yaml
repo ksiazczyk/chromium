@@ -1,0 +1,4 @@
+# Docerion header of remove-pseudo-content-expected-blink.txt.
+type: test
+title: Remove pseudo content expected accessibility tree
+summary: Expected Blink accessibility tree for the remove-pseudo-content test, showing nested generic containers once the title is 'done'.

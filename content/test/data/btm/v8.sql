@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Bounce tracking test database fixture, version 8
+-- summary: SQL fixture for database version 8 that adds an is_authentication_interaction flag to the popups table.
+-- ---
+
 PRAGMA foreign_keys = OFF;
 
 BEGIN TRANSACTION;

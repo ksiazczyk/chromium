@@ -1,0 +1,4 @@
+# Docerion header of inner.html.
+type: test
+title: Inner frame fixture for accessibility snapshot tests
+summary: Minimal HTML fixture with buttons and an iframe, loaded as inner frame content for accessibility snapshot tests.

@@ -1,0 +1,4 @@
+# Docerion header of reused-map-expected-auralinux.txt.
+type: test
+title: Expected Auralinux tree for reused map test
+summary: Expected Auralinux accessibility tree snapshot for the reused image map test, listing image map and link nodes.

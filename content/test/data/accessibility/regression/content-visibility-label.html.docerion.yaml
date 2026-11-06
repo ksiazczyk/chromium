@@ -1,0 +1,4 @@
+# Docerion header of content-visibility-label.html.
+type: test
+title: Content-visibility label test page
+summary: HTML test page checking how a content-visibility hidden container is named through aria-labelledby.

@@ -1,0 +1,4 @@
+# Docerion header of installedapp.html.
+type: test
+title: getInstalledRelatedApps
+summary: Test page that calls navigator.getInstalledRelatedApps and reports the number of related installed apps or failures in the document title.

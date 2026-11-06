@@ -1,0 +1,4 @@
+# Docerion header of outer.html.
+type: test
+title: Outer frame fixture with two iframes for snapshot tests
+summary: Minimal HTML fixture with buttons and two iframes, used as outer frame content for accessibility snapshot tests.

@@ -1,0 +1,4 @@
+# Docerion header of webshare-large.html.
+type: test
+title: Web Share large files test page
+summary: Test page that shares two 26 MB text files via navigator.share to exercise large-payload sharing and reports the outcome in the document title.

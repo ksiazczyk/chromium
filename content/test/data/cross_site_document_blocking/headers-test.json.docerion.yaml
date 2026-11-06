@@ -1,0 +1,4 @@
+# Docerion header of headers-test.json.
+type: test
+title: headers-test.json
+summary: Simple JSON payload served with custom headers for cross-site document blocking header tests.

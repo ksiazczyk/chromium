@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Bounce tracking test database fixture, version 9
+-- summary: SQL fixture for database version 9 that renames the user interaction columns to user activation times in the bounces table.
+-- ---
+
 PRAGMA foreign_keys = OFF;
 
 BEGIN TRANSACTION;

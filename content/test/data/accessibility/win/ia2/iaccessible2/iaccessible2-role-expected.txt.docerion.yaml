@@ -1,0 +1,4 @@
+# Docerion header of iaccessible2-role-expected.txt.
+type: test
+title: IAccessible2 role expected output
+summary: Expected results for the IAccessible2 role accessibility test, asserting that the input element queries to a role of ROLE_SYSTEM_TEXT.

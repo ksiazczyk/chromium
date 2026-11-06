@@ -1,0 +1,4 @@
+# Docerion header of iaccessible-role-expected.txt.
+type: test
+title: IAccessible role expected output
+summary: Expected result for the IAccessible role test, asserting that the input element reports the role ROLE_SYSTEM_TEXT.

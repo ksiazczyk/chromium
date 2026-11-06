@@ -1,0 +1,4 @@
+# Docerion header of implicit-root-scroller.html.
+type: test
+title: Implicit root scroller test page
+summary: HTML fixture with a fixed body and an inner scrollable container scrolled via script, used as test data for implicit root scroller accessibility behavior.

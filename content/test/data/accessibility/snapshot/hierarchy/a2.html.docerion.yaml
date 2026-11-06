@@ -1,0 +1,4 @@
+# Docerion header of a2.html.
+type: test
+title: A2 hierarchy fixture
+summary: Simple test fixture page labeled A2 used as a node in accessibility snapshot hierarchy tests.

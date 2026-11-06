@@ -1,0 +1,4 @@
+# Docerion header of a1.html.
+type: test
+title: A1 hierarchy fixture with three iframes
+summary: Test fixture page labeled A1 that embeds three iframes for accessibility snapshot hierarchy testing.

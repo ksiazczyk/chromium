@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-negative-tabindex-ignored-in-tree.html.
+type: test
+title: Accessibility test for aria-hidden button with negative tabindex
+summary: HTML test page with an aria-hidden button using tabindex -1 that should remain ignored in the accessibility tree.

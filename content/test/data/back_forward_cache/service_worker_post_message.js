@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker message handler for storing and messaging clients
+// summary: Service worker test helper that stores its client list and posts messages to the stored clients on command.
+// ---
+
 let clientList = [];
 
 self.addEventListener('message', async e => {

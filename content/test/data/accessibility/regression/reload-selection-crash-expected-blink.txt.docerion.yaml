@@ -1,0 +1,4 @@
+# Docerion header of reload-selection-crash-expected-blink.txt.
+type: test
+title: Reload selection crash expected accessibility tree
+summary: Expected Blink accessibility tree showing a root web area with a generic container and static text named 'Done' for the reload selection crash test.

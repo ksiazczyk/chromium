@@ -1,0 +1,4 @@
+# Docerion header of title-in-shadow-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for title-in-shadow test
+summary: Expected Blink accessibility tree snapshot showing a meter element with nested generic containers, used to verify the title-in-shadow regression test output.

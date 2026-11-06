@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Worker test helper with WebTransport connections
+// summary: Dedicated worker script that opens or closes a WebTransport connection to a local echo server on message, used in back/forward cache tests.
+// ---
+
 let transport;
 
 onmessage = async (msg) => {

@@ -1,0 +1,4 @@
+# Docerion header of html_import3.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for html_import3.html
+summary: Mock response headers enabling CORS with credentials so the third HTML import test page can be loaded.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker for Content Index API tests
+// summary: Service worker that intercepts fetch requests, forcing failures or successes based on the URL, to support Content Index API tests.
+// ---
+
 self.addEventListener('fetch', event => {
   if (event.request.url.includes('/forcefail'))
     event.respondWith(Promise.reject());

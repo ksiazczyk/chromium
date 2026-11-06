@@ -1,0 +1,4 @@
+# Docerion header of title-in-shadow.html.
+type: test
+title: Title in shadow regression test page
+summary: Minimal accessibility regression test page containing a meter element with a title element to exercise title handling inside shadow content.

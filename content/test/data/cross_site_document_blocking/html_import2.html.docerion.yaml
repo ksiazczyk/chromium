@@ -1,0 +1,4 @@
+# Docerion header of html_import2.html.
+type: test
+title: HTML import test page loading fetch_nosniff_json.js
+summary: Test page that injects fetch_nosniff_json.js so the fetch request initiator is the importer's origin instead of the imported document's origin.

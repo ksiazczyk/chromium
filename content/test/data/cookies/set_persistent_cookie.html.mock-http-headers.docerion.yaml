@@ -1,0 +1,4 @@
+# Docerion header of set_persistent_cookie.html.mock-http-headers.
+type: test
+title: Mock HTTP headers setting a persistent cookie
+summary: Mock HTTP response headers that serve a 200 response and set a persistent cookie (foo=bar with Max-Age=3600) for the set_persistent_cookie.html test page.

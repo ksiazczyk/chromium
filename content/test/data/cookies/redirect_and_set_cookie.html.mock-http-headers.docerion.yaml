@@ -1,0 +1,4 @@
+# Docerion header of redirect_and_set_cookie.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for redirect and Set-Cookie
+summary: Mock HTTP headers returning a 301 redirect to /title1.html while setting the foo cookie with Path=/.

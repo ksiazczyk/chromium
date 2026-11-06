@@ -1,0 +1,4 @@
+# Docerion header of redirect.mock-http-headers.
+type: test
+title: Mock HTTP headers for redirect
+summary: Mock HTTP header file that responds with a 302 Found redirect to the redirected.txt resource.

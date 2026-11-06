@@ -1,0 +1,4 @@
+# Docerion header of webshare-many.html.
+type: test
+title: Web Share many files test page
+summary: Test page that shares eleven text files at once via navigator.share to exercise multi-file sharing and reports success or failure in the title.

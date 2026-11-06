@@ -1,0 +1,4 @@
+# Docerion header of language-changed-on-html-expected-blink.txt.
+type: test
+title: Language changed on HTML expected Blink tree
+summary: Expected accessibility tree snapshot asserting Vietnamese language propagation after the html lang attribute changes.

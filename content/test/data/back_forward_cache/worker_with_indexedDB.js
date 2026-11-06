@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Worker test helper with IndexedDB transactions
+// summary: Dedicated worker script that opens an IndexedDB database and, on message, can run an endless read-write transaction loop for back/forward cache blocking tests.
+// ---
+
 'use strict';
 let db;
 const dbName = 'testdb';

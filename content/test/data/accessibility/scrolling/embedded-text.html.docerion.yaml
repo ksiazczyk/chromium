@@ -1,0 +1,4 @@
+# Docerion header of embedded-text.html.
+type: test
+title: Embedded text scrolling test page
+summary: HTML fixture with bold text, a link and a line break offset by large vertical margins, used as test data for accessibility scrolling.

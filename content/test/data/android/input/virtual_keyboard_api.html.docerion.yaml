@@ -1,0 +1,4 @@
+# Docerion header of virtual_keyboard_api.html.
+type: test
+title: VirtualKeyboard API test page
+summary: Test page exercising the VirtualKeyboard API with manual-policy textareas, tracking geometrychange and viewport size while logging key and selection events.

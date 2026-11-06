@@ -1,0 +1,4 @@
+# Docerion header of reused-map-expected-blink.txt.
+type: test
+title: Expected Blink tree for reused map test
+summary: Expected Blink accessibility tree snapshot for the reused image map test, showing image map children and links.

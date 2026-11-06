@@ -1,0 +1,4 @@
+# Docerion header of invalid-chunked-encoding.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for invalid-chunked-encoding.js
+summary: Mock HTTP header file that serves the script resource with chunked transfer encoding for the invalid encoding test.

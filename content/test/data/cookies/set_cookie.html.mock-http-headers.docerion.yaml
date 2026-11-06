@@ -1,0 +1,4 @@
+# Docerion header of set_cookie.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for set_cookie.html
+summary: Mock HTTP response headers that set the foo cookie to bar with a Path=/ attribute.

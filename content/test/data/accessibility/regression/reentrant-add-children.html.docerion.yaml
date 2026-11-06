@@ -1,0 +1,4 @@
+# Docerion header of reentrant-add-children.html.
+type: test
+title: Reentrant add children regression test page
+summary: Markup with a heading and a focusable blank element that used to trigger re-entry in AXNodeObject::AddChildren() for the same node.

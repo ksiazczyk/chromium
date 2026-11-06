@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Bounce tracking test database fixture, version 10
+-- summary: SQL fixture for database version 10, adding a popups table with authentication interaction flags and a config table alongside the bounces schema.
+-- ---
+
 PRAGMA foreign_keys = OFF;
 
 BEGIN TRANSACTION;

@@ -1,0 +1,4 @@
+# Docerion header of progress-with-background-exposes-values-expected-blink.txt.
+type: test
+title: Progress with background expected accessibility tree
+summary: Expected Blink accessibility tree for two progress indicators with different background colors, showing range values between 0 and 100.

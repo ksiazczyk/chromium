@@ -1,0 +1,4 @@
+# Docerion header of page_with_webgl.html.
+type: test
+title: WebGL test page
+summary: Back/forward cache test page that creates a canvas and obtains a WebGL context for it.

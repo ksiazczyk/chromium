@@ -1,0 +1,4 @@
+# Docerion header of input_forms.html.
+type: test
+title: Input forms test page
+summary: Test page with assorted form controls, plain text, a link and contenteditable elements that log key, composition, selection and mutation events for Android input tests.

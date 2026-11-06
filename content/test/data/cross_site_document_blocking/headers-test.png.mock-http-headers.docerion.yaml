@@ -1,0 +1,4 @@
+# Docerion header of headers-test.png.mock-http-headers.
+type: test
+title: Mock HTTP headers for headers-test.png
+summary: Mock response headers with CORS, plain and HttpOnly cookies, and nosniff directives for the headers-test.png image.

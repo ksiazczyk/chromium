@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Bounce tracking test database fixture, version 2
+-- summary: SQL fixture for database version 2 that extends the bounces table with general bounce time columns and marks the database as prepopulated.
+-- ---
+
 PRAGMA foreign_keys = OFF;
 
 BEGIN TRANSACTION;

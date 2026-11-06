@@ -1,0 +1,4 @@
+# Docerion header of page_with_indexedDB.html.
+type: test
+title: IndexedDB test page
+summary: Back/forward cache test page titled IndexedDB test that loads companion JavaScript to exercise IndexedDB usage.

@@ -1,0 +1,4 @@
+# Docerion header of register_periodicsync_from_iframe.html.
+type: test
+title: Periodic Background Sync Registration From IFrame Test Page
+summary: Test page that loads the script which registers periodic background sync from an iframe.

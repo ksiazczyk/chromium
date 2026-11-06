@@ -1,0 +1,4 @@
+# Docerion header of authenticator.html.
+type: test
+title: WebAuthn PublicKeyCredential Test Page
+summary: Test page that exercises navigator.credentials create and get with public keys and platform authenticator availability checks, reporting results in the title.

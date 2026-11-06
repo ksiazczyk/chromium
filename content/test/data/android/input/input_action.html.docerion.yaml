@@ -1,0 +1,4 @@
+# Docerion header of input_action.html.
+type: test
+title: EnterKeyHint test page
+summary: Test page with text inputs, textareas and contenteditable elements using enterKeyHint values, logging key and selection events for Android keyboard tests.

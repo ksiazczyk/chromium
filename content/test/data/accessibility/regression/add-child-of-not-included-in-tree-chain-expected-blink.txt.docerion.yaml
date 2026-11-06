@@ -1,0 +1,4 @@
+# Docerion header of add-child-of-not-included-in-tree-chain-expected-blink.txt.
+type: test
+title: Expected accessibility tree for add-child-of-not-included-in-tree-chain
+summary: Expected Blink accessibility tree snapshot for the add-child-of-not-included-in-tree-chain regression test.

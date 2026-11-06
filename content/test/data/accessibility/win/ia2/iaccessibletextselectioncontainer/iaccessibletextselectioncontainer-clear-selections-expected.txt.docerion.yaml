@@ -1,0 +1,4 @@
+# Docerion header of iaccessibletextselectioncontainer-clear-selections-expected.txt.
+type: test
+title: IAccessibleTextSelectionContainer clear selections expected results
+summary: Expected output for the Windows IA2 accessibility test that clears all text selections on an input by calling setSelections with an empty list.

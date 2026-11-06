@@ -1,0 +1,4 @@
+# Docerion header of display-contents-select-crash.html.
+type: test
+title: Display-contents select crash regression test
+summary: HTML test collapsing the selection onto an optgroup with display:contents to cover a former accessibility crash.

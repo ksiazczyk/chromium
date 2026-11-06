@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared worker PressureObserver helper
+// summary: Shared worker script that starts observing CPU pressure on command and posts pressure records back over the connected port.
+// ---
+
 'use strict';
 
 onconnect = function(e) {

@@ -1,0 +1,4 @@
+# Docerion header of footer-inside-section-role-generic-expected-blink.txt.
+type: test
+title: Expected accessibility tree for footer inside section role test
+summary: Expected Blink accessibility tree showing footer roles inside sections with presentational and generic roles.

@@ -1,0 +1,4 @@
+# Docerion header of reused-map-change-map-name-expected-blink.txt.
+type: test
+title: Expected Blink tree for reused map name change test
+summary: Expected Blink accessibility tree snapshot for the test where a shared image map is renamed, showing the third image keeping only the coffee link.

@@ -1,0 +1,4 @@
+# Docerion header of combobox-aria-haspopup-changed-expected-blink.txt.
+type: test
+title: Expected accessibility tree for combobox aria-haspopup changes
+summary: Expected Blink accessibility tree snapshot listing combobox haspopup values before and after they are changed to menu, grid and dialog.

@@ -1,0 +1,4 @@
+# Docerion header of content-visibility-label-expected-blink.txt.
+type: test
+title: Expected accessibility tree for content-visibility label test
+summary: Expected Blink accessibility tree snapshot for a content-visibility hidden container named via aria-labelledby.

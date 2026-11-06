@@ -1,0 +1,4 @@
+# Docerion header of header-inside-section-role-generic-expected-blink.txt.
+type: test
+title: Expected accessibility tree for header inside section role test
+summary: Expected Blink accessibility tree showing header roles inside sections with presentational and generic roles.

@@ -1,0 +1,4 @@
+# Docerion header of redirected.txt.
+type: test
+title: Redirect target resource
+summary: Text resource served as the target of the redirect used in background resource fetch tests.

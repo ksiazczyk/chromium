@@ -1,0 +1,4 @@
+# Docerion header of deny-node-expected-win.txt.
+type: test
+title: Deny node expected accessibility tree for Windows
+summary: Expected Windows accessibility tree output for the deny-node test page, listing MSAA and IAccessible2 roles for the form content.

@@ -1,0 +1,4 @@
+# Docerion header of b1.html.
+type: test
+title: B1 hierarchy fixture with one iframe
+summary: Test fixture page labeled B1 that embeds one iframe for accessibility snapshot hierarchy testing.

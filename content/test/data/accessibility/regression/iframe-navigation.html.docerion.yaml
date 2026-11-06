@@ -1,0 +1,4 @@
+# Docerion header of iframe-navigation.html.
+type: test
+title: Iframe navigation accessibility test page
+summary: Test page with buttons around an iframe loading inner1.html, used to exercise accessibility tree updates during iframe navigation.

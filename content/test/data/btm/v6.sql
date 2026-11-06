@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Bounce tracking test database fixture, version 6
+-- summary: SQL fixture for database version 6 that introduces a config table holding the prepopulated flag alongside the bounces and popups schemas.
+-- ---
+
 PRAGMA foreign_keys = OFF;
 
 BEGIN TRANSACTION;

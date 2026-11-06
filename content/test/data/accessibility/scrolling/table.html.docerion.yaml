@@ -1,0 +1,4 @@
+# Docerion header of table.html.
+type: test
+title: Table scrolling test page
+summary: HTML fixture with a word-definition table offset by large vertical margins, used as test data for accessibility scrolling to tables.

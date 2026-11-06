@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IndexedDB test helper script
+// summary: JavaScript helpers for the IndexedDB back/forward cache test that open connections, run transactions, and register versionchange and pagehide handlers.
+// ---
+
 'use strict';
 let db;
 const dbName = 'testdb';

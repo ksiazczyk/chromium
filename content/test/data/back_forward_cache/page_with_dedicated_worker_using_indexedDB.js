@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dedicated worker IndexedDB helper script
+// summary: Test helper script that opens an IndexedDB database, starts a dedicated worker, and can run an infinite IndexedDB transaction loop.
+// ---
+
 'use strict';
 let db;
 const dbName = 'testdb';

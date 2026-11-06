@@ -1,0 +1,4 @@
+# Docerion header of add-click-ignored-changed-expected-blink.txt.
+type: test
+title: Expected accessibility tree for add-click-ignored-changed
+summary: Expected Blink accessibility tree snapshot for the add-click-ignored-changed regression test.

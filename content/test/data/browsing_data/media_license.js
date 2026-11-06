@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media license EME session test script
+// summary: Script that creates and checks persistent-license EME sessions for the media license browsing data tests.
+// ---
+
 // EME creates session IDs dynamically, so we have no idea what it will be.
 // As the tests only need to create a single session, keep track of the
 // last session ID created.

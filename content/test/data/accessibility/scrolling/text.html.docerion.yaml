@@ -1,0 +1,4 @@
+# Docerion header of text.html.
+type: test
+title: Text scrolling test page
+summary: HTML fixture with plain game theory text offset by large vertical margins, used as test data for accessibility scrolling to text.
