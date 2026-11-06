@@ -5,6 +5,12 @@
 // API test for chrome.extension.pageCapture.
 // browser_tests.exe --gtest_filter=ExtensionPageCaptureApiTest.*
 
+// ---docerion
+// type: test
+// title: pageCapture API browser test script
+// summary: JavaScript service worker running browser tests that verify chrome.pageCapture.saveAsMHTML for regular pages, file URLs and restricted URLs.
+// ---
+
 const assertEq = chrome.test.assertEq;
 const assertTrue = chrome.test.assertTrue;
 

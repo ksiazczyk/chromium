@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Panel minimize focus change API test
+// summary: Browser test that creates a panel window, minimizes it, and asserts the onFocusChanged event fires with WINDOW_ID_NONE when the panel loses focus.
+// ---
+
 let waitingForFocus = true;
 let panelWinId = chrome.windows.WINDOW_ID_NONE;
 let focusedWinId = chrome.windows.WINDOW_ID_NONE;

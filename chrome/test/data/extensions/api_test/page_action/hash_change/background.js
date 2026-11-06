@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script enabling the page action once per tab
+// summary: Background script for the hash-change test extension that listens for feedIcon messages and shows the page action only once per tab.
+// ---
+
 // This makes sure we only enable the page action once per tab.
 const hasEnabled = {};
 

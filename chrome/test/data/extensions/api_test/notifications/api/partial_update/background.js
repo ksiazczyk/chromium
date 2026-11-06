@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for the notifications partial update API test
+// summary: Extension background script that creates and partially updates a notification via chrome.notifications, then hands verification to the C++ browser test.
+// ---
+
 const notifications = chrome.notifications;
 
 function arrayEquals(a, b) {

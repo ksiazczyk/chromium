@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File access permission test background script
+// summary: Background script for an extension API test that requests optional host permissions for the file scheme and verifies the granted origins.
+// ---
+
 const callbackPass = chrome.test.callbackPass;
 
 function test() {

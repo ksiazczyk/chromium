@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Optional permissions API test background script
+// summary: Browser test script that exercises the chrome.permissions API for optional permissions, covering contains, getAll, request and remove behavior from the extension's background service worker.
+// ---
+
 const assertEq = chrome.test.assertEq;
 const assertFalse = chrome.test.assertFalse;
 const assertTrue = chrome.test.assertTrue;

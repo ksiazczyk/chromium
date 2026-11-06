@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Favicon permission test extension manifest
+summary: Manifest for a browser test extension that verifies favicon images can be loaded when the favicon permission is granted.

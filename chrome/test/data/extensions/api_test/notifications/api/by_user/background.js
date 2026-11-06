@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notifications byUser API test background script
+// summary: Background script for the chrome.notifications byUser API test that creates notifications and verifies the byUser flag reported when each is closed.
+// ---
+
 const notifications = chrome.notifications;
 let theOnlyTestDone = null;
 

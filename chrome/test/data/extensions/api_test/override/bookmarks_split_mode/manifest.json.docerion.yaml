@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Bookmarks override test extension manifest
+summary: Extension manifest for the incognito split mode test, declaring the bookmarks page override that points to the test HTML page.

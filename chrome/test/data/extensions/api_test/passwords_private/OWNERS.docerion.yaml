@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the passwords_private API tests
+summary: Delegates code ownership of the passwords_private API test directory to the owners of the passwords_private implementation directory.

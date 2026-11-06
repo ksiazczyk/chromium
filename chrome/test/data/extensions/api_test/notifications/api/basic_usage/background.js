@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notifications API basic usage test background script
+// summary: Background service worker for a test extension that exercises the chrome.notifications API, including create, update, clear, and getAll operations.
+// ---
+
 const notifications = chrome.notifications;
 
 const RED_DOT = 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUA' +

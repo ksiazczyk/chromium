@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Access control tests for pdfViewerPrivate
+// summary: Browser tests verifying isAllowedLocalFileAccess against the domain allowlist, HTTPS-only schemes, and invalid policy values.
+// ---
+
 chrome.test.runTests([
   /** "allowed-domain.com" is a domain on the test allowlist. */
   async function testAllowedDomain() {

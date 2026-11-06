@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remove host access request API test worker
+// summary: Service worker running chrome.test cases verifying that removeHostAccessRequest rejects invalid, nonexistent, or malformed requests.
+// ---
+
 import {openTab} from '/_test_resources/test_util/tabs_util.js';
 
 // Navigates to a url with `origin`.

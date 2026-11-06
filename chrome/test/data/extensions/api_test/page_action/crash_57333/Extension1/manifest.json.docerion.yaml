@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest of the page action crash test extension
+summary: Manifest for the test extension declaring a persistent background script, icons, a page action and the contextMenus permission.

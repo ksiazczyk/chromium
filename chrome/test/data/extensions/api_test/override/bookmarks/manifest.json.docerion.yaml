@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Bookmarks override test extension manifest
+summary: Manifest for the bookmarks override test extension, declaring the chrome_url_overrides entry that maps bookmarks to bookmarks.html.

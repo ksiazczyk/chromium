@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: test
+title: Notifications Galore test app styles
+summary: Stylesheet defining the layout and appearance of the test app window, including priority buttons, recorder controls and the event log.
+*/
+
 /* Globals ********************************************************************/
 html {
   height: 100%

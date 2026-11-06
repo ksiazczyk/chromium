@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Host subsets test extension manifest
+summary: Manifest for the host_subsets test extension declaring optional host permissions for http and ftp hosts to exercise permission subsetting.

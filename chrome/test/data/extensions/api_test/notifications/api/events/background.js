@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notifications API events test background script
+// summary: Background service worker script that runs a Chrome test creating a basic notification and verifying the returned ID for the chrome.notifications API events test.
+// ---
+
 const notifications = chrome.notifications;
 
 const idString = 'foo';

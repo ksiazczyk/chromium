@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the permissions failure test extension
+summary: Manifest for the experimental_disabled API test extension, declaring only the tabs permission and a service worker background script.

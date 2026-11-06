@@ -1,0 +1,4 @@
+# Docerion header of data.json.
+type: test
+title: Notifications galore test app notification data
+summary: JSON fixture with sample notification options for web, basic, and other notification types that the notifications galore test app displays in Chrome notifications API tests.

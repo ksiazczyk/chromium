@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: History override test manifest
+summary: Manifest for a Chrome extension API test that overrides the browser's built-in history page with a custom page backed by a background service worker.

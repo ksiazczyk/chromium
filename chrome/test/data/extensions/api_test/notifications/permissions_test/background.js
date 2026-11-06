@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification permissions test background script
+// summary: Runs browser tests asserting notification permission values from document and service worker contexts via Notification.permission, PushManager.permissionState and Permissions.query.
+// ---
+
 // Returns a promise that resolves once a message has been received on the given
 // |messagePort|. The event handler will then remove itself.
 function onNextMessage(messagePort) {

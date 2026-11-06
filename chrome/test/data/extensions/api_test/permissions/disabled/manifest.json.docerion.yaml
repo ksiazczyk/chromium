@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Permissions disabled API test extension manifest
+summary: Manifest for the permissions failure test extension, declaring a background service worker and an empty permissions list.

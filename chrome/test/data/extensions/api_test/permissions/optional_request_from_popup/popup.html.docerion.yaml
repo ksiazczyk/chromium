@@ -1,0 +1,4 @@
+# Docerion header of popup.html.
+type: test
+title: Popup HTML for the optional permissions test
+summary: Minimal popup page that loads popup.js to run the permission request test.

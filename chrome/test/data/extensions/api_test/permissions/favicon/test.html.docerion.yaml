@@ -1,0 +1,4 @@
+# Docerion header of test.html.
+type: test
+title: Favicon permission test page
+summary: HTML page that loads favicon and theme images and runs the test script to check the extension can display them.

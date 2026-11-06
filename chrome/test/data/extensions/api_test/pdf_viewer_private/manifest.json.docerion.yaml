@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: pdfViewerPrivate test extension manifest
+summary: Manifest for the chrome.pdfViewerPrivate end-to-end browser test extension, declaring the pdfViewerPrivate permission.

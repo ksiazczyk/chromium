@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the pageCapture API test extension
+summary: Manifest version 3 extension manifest declaring the pageCapture test extension with a service worker and pageCapture and tabs permissions.

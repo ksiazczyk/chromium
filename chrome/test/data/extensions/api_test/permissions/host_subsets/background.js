@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Host subsets permissions test background script
+// summary: Background script for the host_subsets extension test that verifies requesting, querying, and removing host permissions which are subsets of the optional permissions.
+// ---
+
 const ERROR = 'Only permissions specified in the manifest may be requested.';
 const test = chrome.test;
 

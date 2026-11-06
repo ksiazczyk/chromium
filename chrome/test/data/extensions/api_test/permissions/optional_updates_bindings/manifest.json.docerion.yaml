@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the optional_updates_bindings test extension
+summary: Manifest for the test extension declaring alarms as an optional permission and a non-persistent background page.

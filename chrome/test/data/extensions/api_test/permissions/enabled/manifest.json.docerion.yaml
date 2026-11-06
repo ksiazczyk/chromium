@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the permissions success test extension
+summary: Declares a test extension with tabs, bookmarks and history permissions and a background service worker for the enabled permissions API test.

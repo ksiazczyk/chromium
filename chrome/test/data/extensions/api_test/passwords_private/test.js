@@ -6,6 +6,12 @@
 // that callbacks are correctly invoked, expected parameters are correct,
 // and failures are detected.
 
+// ---docerion
+// type: test
+// title: passwordsPrivate API interface tests
+// summary: JavaScript test suite verifying that chrome.passwordsPrivate calls invoke callbacks with correct parameters and report expected errors.
+// ---
+
 
 const COMPROMISE_TIME = 158322960000;
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: getTextInfo tests for pdfViewerPrivate
+// summary: Browser tests for getTextInfo covering typeface caching via knownFontIds plus element type and argument validation errors.
+// ---
+
 chrome.test.runTests([
   /** getTextInfo() doesn't serialize known fonts. */
   async function testSkipKnownFontIds() {

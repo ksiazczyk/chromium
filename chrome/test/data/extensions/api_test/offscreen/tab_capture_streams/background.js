@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background service worker for the offscreen tabCapture API test
+// summary: Runs the chrome.tabCapture extension API tests by creating an offscreen document, starting and stopping tab capture, and verifying capture status events and getCapturedTabs().
+// ---
+
 let didCapture = false;
 let didStopCapture = false;
 let onStoppedCapture;

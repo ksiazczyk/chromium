@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the hash-change page action test extension
+summary: Manifest version 2 definition for the Hash-code changes test extension, wiring the background script, content script, page action icon, and permissions.

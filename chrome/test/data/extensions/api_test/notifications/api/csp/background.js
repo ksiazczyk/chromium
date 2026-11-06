@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notifications API CSP test background script
+// summary: Background script for the chrome.notifications CSP API test, checking that remote icon and image URLs are rejected while data URLs are allowed, including on update calls.
+// ---
+
 const notifications = chrome.notifications;
 
 const idString = 'foo';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notifications permission test background script
+// summary: Background script for the chrome.notifications API test that checks permission levels and listens for permission level changes.
+// ---
+
 let currentPermissionLevel = '';
 
 function onGetPermissionLevel(permissionLevel) {

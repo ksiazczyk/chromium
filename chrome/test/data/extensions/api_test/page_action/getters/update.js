@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for chrome.pageAction getPopup and getTitle
+// summary: Runs chrome.test checks that pageAction.getPopup returns the Popup.html extension URL and pageAction.getTitle returns the expected title for the active tab.
+// ---
+
 const pass = chrome.test.callbackPass;
 
 chrome.tabs.query({active: true}, function(tabs) {

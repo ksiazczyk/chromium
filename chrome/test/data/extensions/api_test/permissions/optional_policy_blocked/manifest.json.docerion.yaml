@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the optional_policy_blocked test extension
+summary: Extension manifest declaring optional bookmarks and management permissions for the enterprise policy blocked permissions API test.
