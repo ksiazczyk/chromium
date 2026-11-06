@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecursiveMutex class declaration
+// summary: Declares RecursiveMutex, a recursive locking implementation of the Nearby api::Mutex interface built on base::Lock.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_NEARBY_PLATFORM_RECURSIVE_MUTEX_H_
 #define CHROME_SERVICES_SHARING_NEARBY_PLATFORM_RECURSIVE_MUTEX_H_
 

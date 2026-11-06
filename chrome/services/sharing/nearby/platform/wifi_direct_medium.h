@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WifiDirectMedium header
+// summary: Declares the Chrome WiFi Direct medium with group management, socket connection, dynamic port range support and a UMA service error enum.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_NEARBY_PLATFORM_WIFI_DIRECT_MEDIUM_H_
 #define CHROME_SERVICES_SHARING_NEARBY_PLATFORM_WIFI_DIRECT_MEDIUM_H_
 

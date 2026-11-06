@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby sharing decoder implementation
+// summary: Converts Nearby Share protobuf wire format advertisements and frames into Mojo types for the sharing service.
+// ---
+
 #include "chrome/services/sharing/nearby/decoder/nearby_decoder.h"
 
 #include <memory>

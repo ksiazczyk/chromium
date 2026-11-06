@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlePeripheral implementation
+// summary: Implements the Nearby BlePeripheral, exposing the device display name and per-service advertisement bytes derived from Bluetooth device info.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/ble_peripheral.h"
 
 namespace nearby::chrome {

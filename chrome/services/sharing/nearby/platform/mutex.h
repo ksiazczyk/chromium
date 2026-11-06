@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby platform Mutex class declaration
+// summary: Declares the concrete non-recursive Mutex implementation wrapping base::Lock for the Nearby platform.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_NEARBY_PLATFORM_MUTEX_H_
 #define CHROME_SERVICES_SHARING_NEARBY_PLATFORM_MUTEX_H_
 

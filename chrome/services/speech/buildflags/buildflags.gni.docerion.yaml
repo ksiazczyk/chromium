@@ -1,0 +1,4 @@
+# Docerion header of buildflags.gni.
+type: config
+title: Speech recognition build flags arguments (buildflags.gni)
+summary: GN arguments file declaring per-platform flags that enable the browser speech recognition service and server-based recognition, with a consistency assertion.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BLE V2 medium header
+// summary: Declares BleV2Medium, the Chrome implementation of the Nearby BLE V2 medium API offering advertising, scanning, GATT, and socket operations via the Bluetooth Mojo adapter.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_NEARBY_PLATFORM_BLE_V2_MEDIUM_H_
 #define CHROME_SERVICES_SHARING_NEARBY_PLATFORM_BLE_V2_MEDIUM_H_
 

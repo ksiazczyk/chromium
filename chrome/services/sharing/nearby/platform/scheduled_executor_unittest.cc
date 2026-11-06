@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScheduledExecutor unit tests
+// summary: Unit tests verifying delayed task execution, staggered scheduling, and task cancellation using mock time.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/scheduled_executor.h"
 
 #include <atomic>

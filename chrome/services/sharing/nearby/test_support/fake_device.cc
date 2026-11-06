@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Bluetooth device implementation
+// summary: Implements FakeDevice, a fake Bluetooth device Mojom interface that serves configured GATT services and characteristic reads during tests.
+// ---
+
 #include "chrome/services/sharing/nearby/test_support/fake_device.h"
 
 #include "base/notimplemented.h"

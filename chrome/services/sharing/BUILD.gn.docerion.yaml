@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the sharing service
+summary: Defines the sharing source set and its unit test target, with dependencies on nearby, webrtc, and mojo bindings for ChromeOS Nearby Share.

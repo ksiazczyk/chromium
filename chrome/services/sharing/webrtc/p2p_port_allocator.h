@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: P2PPortAllocator for WebRTC sharing
+// summary: Declares a P2PPortAllocator extending webrtc::BasicPortAllocator with a Config controlling non-proxied UDP, multiple routes, and default local candidates.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_WEBRTC_P2P_PORT_ALLOCATOR_H_
 #define CHROME_SERVICES_SHARING_WEBRTC_P2P_PORT_ALLOCATOR_H_
 

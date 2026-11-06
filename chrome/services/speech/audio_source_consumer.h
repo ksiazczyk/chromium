@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio source consumer interface
+// summary: Abstract interface for consuming captured audio buffers and capture end or error events from AudioSourceFetcherImpl.
+// ---
+
 #ifndef CHROME_SERVICES_SPEECH_AUDIO_SOURCE_CONSUMER_H_
 #define CHROME_SERVICES_SPEECH_AUDIO_SOURCE_CONSUMER_H_
 

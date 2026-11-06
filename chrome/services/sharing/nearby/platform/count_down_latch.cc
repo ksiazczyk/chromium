@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CountDownLatch implementation
+// summary: Implements the Nearby Connections CountDownLatch API on top of base::WaitableEvent, blocking Await calls until the count reaches zero.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/count_down_latch.h"
 
 #include "base/time/time.h"

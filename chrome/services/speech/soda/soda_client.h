@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SodaClient abstract interface
+// summary: Declares the abstract SodaClient wrapping the SODA C interface and the LoadSodaResultValue enum used for load result histograms.
+// ---
+
 #ifndef CHROME_SERVICES_SPEECH_SODA_SODA_CLIENT_H_
 #define CHROME_SERVICES_SPEECH_SODA_SODA_CLIENT_H_
 

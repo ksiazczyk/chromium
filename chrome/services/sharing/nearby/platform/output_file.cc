@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby platform OutputFile implementation
+// summary: Implements the Nearby Connections OutputFile API over base::File, supporting write, flush, and close while leaving last-modified time unsupported.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/output_file.h"
 
 #include "base/containers/span.h"

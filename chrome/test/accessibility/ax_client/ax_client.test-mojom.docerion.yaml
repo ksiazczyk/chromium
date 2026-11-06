@@ -1,0 +1,4 @@
+# Docerion header of ax_client.test-mojom.
+type: source
+title: AxClient Mojo interface definition
+summary: Defines the ax_client.mojom AxClient interface used by browser tests to initialize, query, shut down, and terminate the accessibility client process.

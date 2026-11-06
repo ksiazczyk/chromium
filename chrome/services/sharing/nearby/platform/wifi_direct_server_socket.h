@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WifiDirectServerSocket header
+// summary: Declares the WiFi Direct server socket wrapping net::TCPServerSocket with accept, close and firewall hole disconnect handling plus a UMA error enum.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_NEARBY_PLATFORM_WIFI_DIRECT_SERVER_SOCKET_H_
 #define CHROME_SERVICES_SHARING_NEARBY_PLATFORM_WIFI_DIRECT_SERVER_SOCKET_H_
 

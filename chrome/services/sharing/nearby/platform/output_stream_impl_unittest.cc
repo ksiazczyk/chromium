@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OutputStreamImpl unit tests
+// summary: Unit tests verifying that OutputStreamImpl writes data correctly to a Mojo data pipe and handles construction and teardown on a task runner.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/output_stream_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TPM identifier metrics header
+// summary: Declares GetTpmIdentifier, which returns a SystemProfileProto_TpmIdentifier describing the Windows TPM.
+// ---
+
 #ifndef CHROME_SERVICES_UTIL_WIN_TPM_METRICS_H_
 #define CHROME_SERVICES_UTIL_WIN_TPM_METRICS_H_
 

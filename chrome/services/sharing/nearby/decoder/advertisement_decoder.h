@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AdvertisementDecoder class declaration
+// summary: Declares the utility class that converts endpoint info byte spans into Advertisement objects.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_NEARBY_DECODER_ADVERTISEMENT_DECODER_H_
 #define CHROME_SERVICES_SHARING_NEARBY_DECODER_ADVERTISEMENT_DECODER_H_
 

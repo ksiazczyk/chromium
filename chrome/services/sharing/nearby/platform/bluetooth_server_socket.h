@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothServerSocket header for Nearby Connections
+// summary: Declares the Chrome BluetoothServerSocket that accepts incoming classic Bluetooth connections through a mojo ServerSocket accessed on a dedicated task runner.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_NEARBY_PLATFORM_BLUETOOTH_SERVER_SOCKET_H_
 #define CHROME_SERVICES_SHARING_NEARBY_PLATFORM_BLUETOOTH_SERVER_SOCKET_H_
 

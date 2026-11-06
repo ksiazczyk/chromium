@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BLE V2 GATT server header
+// summary: Declares the Chrome BleV2GattServer class implementing the Nearby BLE V2 GATT server over Bluetooth Mojo interfaces, including GATT service registration and characteristic handling.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_NEARBY_PLATFORM_BLE_V2_GATT_SERVER_H_
 #define CHROME_SERVICES_SHARING_NEARBY_PLATFORM_BLE_V2_GATT_SERVER_H_
 

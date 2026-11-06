@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux system signals service implementation
+// summary: Implements LinuxSystemSignalsService, wiring the base service to POSIX file system and executable metadata services over Mojo.
+// ---
+
 #include "chrome/services/system_signals/linux/linux_system_signals_service.h"
 
 #include <utility>

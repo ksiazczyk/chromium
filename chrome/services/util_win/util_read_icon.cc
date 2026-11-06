@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UtilReadIcon implementation
+// summary: Loads icons from downloaded executable files via GDI and returns them as thread-safe Skia images at small, normal or large sizes.
+// ---
+
 #include "chrome/services/util_win/util_read_icon.h"
 
 #include <windows.h>

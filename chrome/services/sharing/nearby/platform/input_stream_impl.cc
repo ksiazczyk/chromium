@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputStreamImpl implementation
+// summary: Implements the Nearby Connections InputStream over a Mojo data pipe, blocking reads while a task runner watches the pipe for readability.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/input_stream_impl.h"
 
 #include "base/containers/span.h"

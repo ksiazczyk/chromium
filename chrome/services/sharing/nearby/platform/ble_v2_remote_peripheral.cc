@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BLE V2 remote peripheral implementation
+// summary: Implements BleV2RemotePeripheral, deriving a unique ID from a Bluetooth device address and exposing the address and device info of remote BLE peripherals.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/ble_v2_remote_peripheral.h"
 
 #include "base/compiler_specific.h"

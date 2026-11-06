@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbySharedRemotes singleton implementation
+// summary: Implements the NearbySharedRemotes global instance accessors used by ImplementationPlatform to reach the SharingImpl-owned shared remotes.
+// ---
+
 #include "chrome/services/sharing/nearby/nearby_shared_remotes.h"
 
 namespace nearby {

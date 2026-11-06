@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: P2P port allocator implementation
+// summary: Configures a WebRTC port allocator whose flags control multiple routes, default local candidates and non-proxied UDP based on the given config.
+// ---
+
 #include "chrome/services/sharing/webrtc/p2p_port_allocator.h"
 
 #include <memory>

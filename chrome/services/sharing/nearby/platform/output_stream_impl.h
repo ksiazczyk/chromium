@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OutputStreamImpl class declaration
+// summary: Declares OutputStreamImpl, a synchronous Nearby OutputStream adapter that writes to an asynchronous Mojo DataPipe via a task runner.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_NEARBY_PLATFORM_OUTPUT_STREAM_IMPL_H_
 #define CHROME_SERVICES_SHARING_NEARBY_PLATFORM_OUTPUT_STREAM_IMPL_H_
 

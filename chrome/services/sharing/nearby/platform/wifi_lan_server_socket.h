@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WifiLanServerSocket class declarations
+// summary: Declares WifiLanServerSocket, a thread-safe api::WifiLanServerSocket wrapper around a TCPServerSocket and FirewallHole with blocking Accept and Close semantics.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_NEARBY_PLATFORM_WIFI_LAN_SERVER_SOCKET_H_
 #define CHROME_SERVICES_SHARING_NEARBY_PLATFORM_WIFI_LAN_SERVER_SOCKET_H_
 

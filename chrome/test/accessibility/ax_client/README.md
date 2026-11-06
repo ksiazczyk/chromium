@@ -1,3 +1,13 @@
+---
+type: readme
+title: Accessibility Test Client
+summary: Describes the ax_client out-of-process Windows accessibility client, its launcher and Mojo interface, and how browser tests extend and use it.
+relations:
+  - documents /chrome/browser/accessibility/browser_test_with_ax_client.h
+  - documents /chrome/test/accessibility/ax_client/ax_client.test-mojom
+  - documents /chrome/test/accessibility/ax_client/launcher.h
+---
+
 # Accessibility Test Client
 
 `ax_client`, a test-only out-of-process accessibility client for Windows, is

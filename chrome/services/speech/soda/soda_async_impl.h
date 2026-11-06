@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome-SODA binary C interface
+// summary: Defines the backwards-compatible C-style interface contract, structs and entry points between Chrome and the SODA speech binary.
+// ---
+
 #ifndef CHROME_SERVICES_SPEECH_SODA_SODA_ASYNC_IMPL_H_
 #define CHROME_SERVICES_SPEECH_SODA_SODA_ASYNC_IMPL_H_
 

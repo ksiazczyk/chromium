@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio source fetcher unit tests
+// summary: Unit tests for AudioSourceFetcherImpl verifying captured audio data, capture end handling, and session length histograms for server-based and on-device recognition.
+// ---
+
 #include "chrome/services/speech/audio_source_fetcher_impl.h"
 
 #include <memory>

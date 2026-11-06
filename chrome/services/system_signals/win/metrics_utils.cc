@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows system signals metrics utilities implementation
+// summary: Implements UMA logging of query and parsing error rates for Windows antivirus and hotfix signal collection responses.
+// ---
+
 #include "chrome/services/system_signals/win/metrics_utils.h"
 
 #include <cmath>

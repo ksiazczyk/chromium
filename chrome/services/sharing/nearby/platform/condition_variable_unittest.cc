@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ConditionVariable unit tests
+// summary: Unit tests for the Chromium Nearby platform ConditionVariable, verifying that Wait blocks until Notify is called across one or more task sequences.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/condition_variable.h"
 
 #include "base/containers/flat_set.h"

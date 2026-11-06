@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio source fetcher implementation
+// summary: Implements device audio capture, optional resampling to 16 kHz for server-based recognition, and forwarding of audio data to the speech recognition recognizer with session length metrics.
+// ---
+
 #include "chrome/services/speech/audio_source_fetcher_impl.h"
 
 #include <memory>

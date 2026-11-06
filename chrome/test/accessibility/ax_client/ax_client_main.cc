@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ax_client main executable entry point
+// summary: Windows executable entry point that initializes Mojo and COM and runs the accessibility test client using either UI Automation or IAccessible2.
+// ---
+
 #include <windows.h>
 
 #include <utility>

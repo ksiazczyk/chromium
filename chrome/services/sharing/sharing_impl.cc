@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharingImpl implementation of the Sharing mojo service
+// summary: Implements the Sharing service that connects Nearby Connections, the sharing decoder, and Quick Start decoder, and shuts down when mojo dependencies disconnect.
+// ---
+
 #include "chrome/services/sharing/sharing_impl.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OutputStreamImpl implementation
+// summary: Implements a Nearby Connections output stream that writes to a Mojo data pipe, blocking Write() and logging write results per medium.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/output_stream_impl.h"
 
 #include "base/metrics/histogram_functions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BleV2GattClient implementation
+// summary: Implements the Nearby BLE v2 GATT client over Chrome Bluetooth Mojo, discovering services and characteristics and supporting reads, writes, and subscriptions with metrics.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/ble_v2_gatt_client.h"
 
 #include "base/logging.h"

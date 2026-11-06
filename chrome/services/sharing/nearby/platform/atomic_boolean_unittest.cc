@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AtomicBoolean unit tests
+// summary: Tests setting and getting an AtomicBoolean on the same thread and across threads using base task runners.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/atomic_boolean.h"
 
 #include "base/functional/bind.h"

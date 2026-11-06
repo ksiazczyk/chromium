@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for the system_signals directory
+summary: Delegates code ownership to the components/device_signals OWNERS file.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Processor metrics Mojo interface declaration
+// summary: Declares ProcessorMetricsImpl, the Mojo receiver binding for the chrome::mojom::ProcessorMetrics interface.
+// ---
+
 #ifndef CHROME_SERVICES_UTIL_WIN_PROCESSOR_METRICS_H_
 #define CHROME_SERVICES_UTIL_WIN_PROCESSOR_METRICS_H_
 

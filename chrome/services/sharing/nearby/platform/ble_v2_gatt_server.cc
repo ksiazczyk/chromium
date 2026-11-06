@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BleV2GattServer implementation
+// summary: Implements the Nearby BLE v2 GATT server over Chrome Bluetooth, converting Nearby characteristic permissions and properties and managing GATT service registration with metrics.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/ble_v2_gatt_server.h"
 
 #include "base/check.h"

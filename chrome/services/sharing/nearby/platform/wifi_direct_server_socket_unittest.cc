@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WifiDirectServerSocket unit tests
+// summary: Unit tests for the ChromeOS Nearby Connections WiFi Direct server socket, covering accept behavior over a real TCP server socket, firewall holes and accept result metrics.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/wifi_direct_server_socket.h"
 
 #include "base/rand_util.h"

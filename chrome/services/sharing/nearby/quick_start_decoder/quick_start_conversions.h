@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Start conversions header
+// summary: Declares WifiSecurityTypeFromString, which converts a security type string into a WifiSecurityType or returns nullopt.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_NEARBY_QUICK_START_DECODER_QUICK_START_CONVERSIONS_H_
 #define CHROME_SERVICES_SHARING_NEARBY_QUICK_START_DECODER_QUICK_START_CONVERSIONS_H_
 

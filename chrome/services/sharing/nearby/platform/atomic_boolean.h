@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtomicBoolean class declaration
+// summary: Declares the Chrome implementation of the Nearby AtomicBoolean platform API wrapping a std::atomic_bool value.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_NEARBY_PLATFORM_ATOMIC_BOOLEAN_H_
 #define CHROME_SERVICES_SHARING_NEARBY_PLATFORM_ATOMIC_BOOLEAN_H_
 

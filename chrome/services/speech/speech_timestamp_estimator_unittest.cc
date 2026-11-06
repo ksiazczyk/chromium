@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Speech timestamp estimator unit tests
+// summary: GoogleTest suite verifying that SpeechTimestampEstimator correctly maps speech timestamps to media ranges across playback starts, seeks, silence, and multiple chunks.
+// ---
+
 #include "chrome/services/speech/speech_timestamp_estimator.h"
 
 #include <ranges>

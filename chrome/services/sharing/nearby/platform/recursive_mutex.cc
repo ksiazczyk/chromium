@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecursiveMutex implementation
+// summary: Implements a recursive mutex on top of base::Lock by tracking the owning thread and acquisition count to avoid deadlock.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/recursive_mutex.h"
 
 #include "base/check_op.h"

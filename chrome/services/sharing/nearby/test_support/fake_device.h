@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Bluetooth device header
+// summary: Declares FakeDevice, a test fake of the Bluetooth device Mojom interface with setters for services, characteristics, and read results.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_NEARBY_TEST_SUPPORT_FAKE_DEVICE_H_
 #define CHROME_SERVICES_SHARING_NEARBY_TEST_SUPPORT_FAKE_DEVICE_H_
 

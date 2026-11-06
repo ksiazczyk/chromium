@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio source fetcher class declaration
+// summary: Declares AudioSourceFetcherImpl, which fetches device audio and sends it to a SpeechRecognitionRecognizerImpl for transcription in the browser or speech recognition service process.
+// ---
+
 #ifndef CHROME_SERVICES_SPEECH_AUDIO_SOURCE_FETCHER_IMPL_H_
 #define CHROME_SERVICES_SPEECH_AUDIO_SOURCE_FETCHER_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TPM identifier metrics for Windows
+// summary: Collects TPM manufacturer and version details through TpmCoreProvisioning.dll and reports approved vendor IDs to UMA histograms for the system profile.
+// ---
+
 #include "chrome/services/util_win/tpm_metrics.h"
 
 #include <windows.h>

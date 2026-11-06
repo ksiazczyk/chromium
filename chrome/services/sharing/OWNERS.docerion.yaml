@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file delegating to nearby sharing owners
+summary: Points to the OWNERS file of chrome/browser/nearby_sharing to define approvers for this directory.

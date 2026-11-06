@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Anti-virus product collection implementation
+// summary: Enumerates installed anti-virus products through the Windows Security Center and WMI, trimming version strings from product names for UMA reporting.
+// ---
+
 #include "chrome/services/util_win/av_products.h"
 
 #include <objbase.h>

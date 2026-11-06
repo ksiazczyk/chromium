@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stream payload buffer manager implementation
+// summary: Tracks streamed Nearby Connections payloads, buffering transferred bytes and reassembling complete payloads.
+// ---
+
 #include "chrome/services/sharing/nearby/nearby_connections_stream_buffer_manager.h"
 
 #include <utility>

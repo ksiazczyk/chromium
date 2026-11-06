@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbySharedRemotes header
+// summary: Declares a struct holding the mojo SharedRemote objects, such as Bluetooth adapter and socket managers, required by Nearby Connections.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_NEARBY_NEARBY_SHARED_REMOTES_H_
 #define CHROME_SERVICES_SHARING_NEARBY_NEARBY_SHARED_REMOTES_H_
 

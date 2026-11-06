@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WifiDirectMedium implementation
+// summary: Implements the WiFi Direct medium for Nearby Connections, creating and connecting groups via WifiDirectManager mojo calls and logging UMA metrics.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/wifi_direct_medium.h"
 
 #include <netinet/in.h>

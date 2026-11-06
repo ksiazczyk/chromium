@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WifiDirectSocket class declarations
+// summary: Declares SocketInputStream, SocketOutputStream and WifiDirectSocket, which wrap a net::StreamSocket and ensure socket operations run on the sequenced task runner they were created on.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_NEARBY_PLATFORM_WIFI_DIRECT_SOCKET_H_
 #define CHROME_SERVICES_SHARING_NEARBY_PLATFORM_WIFI_DIRECT_SOCKET_H_
 

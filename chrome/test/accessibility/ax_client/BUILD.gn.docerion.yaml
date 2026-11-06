@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Accessibility test client build definition
+summary: Defines GN targets for the ax_client Mojo interface, the test launcher source_set, and the ax_client executable.

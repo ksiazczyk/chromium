@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BLE V2 server socket implementation
+// summary: Implements non-functional stub BLE V2 socket and server socket classes whose Accept blocks until Close, since Chrome does not implement the deprecated BleSocket interface.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/ble_v2_server_socket.h"
 
 #include "chrome/services/sharing/nearby/platform/ble_v2_remote_peripheral.h"

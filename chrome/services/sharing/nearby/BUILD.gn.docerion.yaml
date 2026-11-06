@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the Nearby Connections service
+summary: Defines the GN source_set targets for the Nearby Connections implementation and its unit tests, along with their dependencies.

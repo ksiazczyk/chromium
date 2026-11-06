@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for the Nearby sharing decoder
+summary: Defines the decoder source set, unit test target and two libFuzzer targets for Nearby Share decoding.

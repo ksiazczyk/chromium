@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speech timestamp estimator header
+// summary: Declares the SpeechTimestampEstimator class that matches speech service transcriptions with the media timestamps of the audio that produced them, using strongly typed time aliases.
+// ---
+
 #ifndef CHROME_SERVICES_SPEECH_SPEECH_TIMESTAMP_ESTIMATOR_H_
 #define CHROME_SERVICES_SPEECH_SPEECH_TIMESTAMP_ESTIMATOR_H_
 

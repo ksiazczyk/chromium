@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MacSystemSignalsService header
+// summary: Declares the MacSystemSignalsService class, the Mac implementation of the device signals SystemSignalsService Mojo interface, with a test-only constructor for mocking dependencies.
+// ---
+
 #ifndef CHROME_SERVICES_SYSTEM_SIGNALS_MAC_MAC_SYSTEM_SIGNALS_SERVICE_H_
 #define CHROME_SERVICES_SYSTEM_SIGNALS_MAC_MAC_SYSTEM_SIGNALS_SERVICE_H_
 

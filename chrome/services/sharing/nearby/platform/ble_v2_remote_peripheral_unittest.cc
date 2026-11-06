@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BLE V2 remote peripheral unit tests
+// summary: Unit tests for BleV2RemotePeripheral verifying address retrieval, unique ID generation, and that device info updates must keep the same address.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/ble_v2_remote_peripheral.h"
 
 #include "base/test/gtest_util.h"

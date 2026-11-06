@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Conversion helper declarations
+// summary: Declares helper functions that convert between mojom types and Nearby Connections library types.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_NEARBY_NEARBY_CONNECTIONS_CONVERSIONS_H_
 #define CHROME_SERVICES_SHARING_NEARBY_NEARBY_CONNECTIONS_CONVERSIONS_H_
 

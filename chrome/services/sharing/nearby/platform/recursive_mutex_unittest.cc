@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RecursiveMutex unit tests
+// summary: Unit tests covering recursive lock and unlock behavior, including blocking relocking attempts from other threads until unlock.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/recursive_mutex.h"
 
 #include "base/containers/flat_set.h"

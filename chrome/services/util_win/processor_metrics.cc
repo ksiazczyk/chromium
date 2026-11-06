@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Processor metrics recording implementation
+// summary: Implements the ProcessorMetrics Mojo interface, recording processor family, virtualization firmware, Hyper-V presence and CET availability via WMI.
+// ---
+
 #include "chrome/services/util_win/processor_metrics.h"
 
 #include <objbase.h>

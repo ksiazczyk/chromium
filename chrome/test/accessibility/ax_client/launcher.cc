@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ax_client process launcher implementation
+// summary: Implements Launcher, which spawns the ax_client process, passes it a Mojo channel and logging switches, and returns a remote AxClient binding.
+// ---
+
 #include "chrome/test/accessibility/ax_client/launcher.h"
 
 #include <windows.h>

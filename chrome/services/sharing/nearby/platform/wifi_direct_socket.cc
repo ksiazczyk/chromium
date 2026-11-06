@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WifiDirectSocket implementation
+// summary: Implements the Nearby Connections WiFi Direct socket input and output streams over net::StreamSocket, including the network traffic annotation and UMA metrics for reads and writes.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/wifi_direct_socket.h"
 
 #include <utility>

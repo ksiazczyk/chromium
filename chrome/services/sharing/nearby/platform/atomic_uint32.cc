@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtomicUint32 implementation
+// summary: Implements the Nearby AtomicUint32 platform API with get and set operations backed by a std::atomic uint32 value.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/atomic_uint32.h"
 
 namespace nearby::chrome {

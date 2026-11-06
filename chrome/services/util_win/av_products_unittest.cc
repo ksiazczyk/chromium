@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for anti-virus product name handling
+// summary: Tests version stripping from anti-virus product names and the disabled result code histogram recording.
+// ---
+
 #include "chrome/services/util_win/av_products.h"
 
 #include "base/test/metrics/histogram_tester.h"

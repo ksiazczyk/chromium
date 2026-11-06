@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtomicBoolean implementation
+// summary: Implements the Nearby AtomicBoolean platform API with get and exchange operations backed by std::atomic_bool.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/atomic_boolean.h"
 
 namespace nearby::chrome {

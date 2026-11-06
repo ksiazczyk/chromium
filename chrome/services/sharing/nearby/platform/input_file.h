@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputFile class declaration
+// summary: Declares the Chromium InputFile class that wraps a base::File to satisfy the Nearby Connections api::InputFile interface.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_NEARBY_PLATFORM_INPUT_FILE_H_
 #define CHROME_SERVICES_SHARING_NEARBY_PLATFORM_INPUT_FILE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WifiLanMedium implementation
+// summary: Implements the Nearby Connections WiFi LAN medium for ChromeOS, connecting to and discovering mDNS services over TCP with traffic annotations, connect timeouts and result metrics.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/wifi_lan_medium.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CrosSpeechRecognitionRecognizerImpl unit tests
+// summary: Tests the ChromeOS SODA speech recognizer, including how Live Caption languages are added to the SODA multilanguage config.
+// ---
+
 #include "chrome/services/speech/cros_speech_recognition_recognizer_impl.h"
 
 #include <cstdint>

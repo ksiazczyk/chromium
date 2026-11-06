@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth UUID conversion utilities
+// summary: Converts a device::BluetoothUUID into a nearby::Uuid by splitting the UUID bytes into most and least significant 64-bit halves.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/bluetooth_utils.h"
 
 namespace nearby::chrome {

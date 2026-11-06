@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA bug tracking component for util_win
+summary: Maps the directory to the Internals>Services>ServiceManager Monorail component and a Buganizer component id.

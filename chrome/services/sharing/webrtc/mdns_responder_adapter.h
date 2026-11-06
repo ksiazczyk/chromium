@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: mDNS responder adapter class declaration
+// summary: Declares MdnsResponderAdapter, which registers and resolves mDNS hostnames through the Chromium mDNS responder service to hide local IPs.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_WEBRTC_MDNS_RESPONDER_ADAPTER_H_
 #define CHROME_SERVICES_SHARING_WEBRTC_MDNS_RESPONDER_ADAPTER_H_
 

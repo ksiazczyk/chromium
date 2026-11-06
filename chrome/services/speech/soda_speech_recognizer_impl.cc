@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SODA speech recognizer implementation
+// summary: Implements the SODA-based speech recognizer that runs in the speech recognition service and handles audio, endpointing and recognition events for the Web Speech API.
+// ---
+
 #include "chrome/services/speech/soda_speech_recognizer_impl.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Speech service include rules
+summary: Defines the allowed include directories for code in the chrome/services/speech directory, covering media, ChromeOS ML service, SODA, and network dependencies.

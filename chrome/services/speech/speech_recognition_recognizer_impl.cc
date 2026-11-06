@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speech recognition recognizer implementation
+// summary: Implements the SODA speech recognizer that feeds audio to the SODA library, manages client callbacks and emits recognition and language identification events.
+// ---
+
 #include "chrome/services/speech/speech_recognition_recognizer_impl.h"
 
 #include <algorithm>

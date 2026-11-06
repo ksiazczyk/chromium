@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojom to Nearby Connections type conversions
+// summary: Converts between mojom types and native Nearby Connections library types such as status, strategy, medium, and byte arrays.
+// ---
+
 #include "chrome/services/sharing/nearby/nearby_connections_conversions.h"
 
 #include "base/compiler_specific.h"

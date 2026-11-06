@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Start Decoder implementation
+// summary: Decodes raw bytes from Android devices, parsing CBOR and JSON payloads such as Wi-Fi credentials and user verification data.
+// ---
+
 #include "quick_start_decoder.h"
 
 #include <optional>

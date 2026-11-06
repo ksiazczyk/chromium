@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS SODA client interface
+// summary: Declares CrosSodaClient, a SodaClient wrapper around the ChromeOS ML Service connection with callbacks for transcription, stop and language identification events.
+// ---
+
 #ifndef CHROME_SERVICES_SPEECH_SODA_CROS_SODA_CLIENT_H_
 #define CHROME_SERVICES_SPEECH_SODA_CROS_SODA_CLIENT_H_
 

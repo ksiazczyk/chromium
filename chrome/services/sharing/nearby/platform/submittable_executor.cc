@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubmittableExecutor implementation
+// summary: Implements the Nearby Connections SubmittableExecutor on Chrome task runners, posting runnables, tracking incomplete tasks and blocking shutdown until they finish.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/submittable_executor.h"
 
 #include "base/functional/bind.h"

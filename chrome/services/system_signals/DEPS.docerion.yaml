@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for device_signals dependencies
+summary: Allows includes from the components/device_signals core common and system_signals directories within this folder.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Start Decoder class header
+// summary: Declares the QuickStartDecoder Mojo service that decodes incoming Android device bytes into secure structs for the browser process.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_NEARBY_QUICK_START_DECODER_QUICK_START_DECODER_H_
 #define CHROME_SERVICES_SHARING_NEARBY_QUICK_START_DECODER_QUICK_START_DECODER_H_
 

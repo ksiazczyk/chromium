@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConditionVariable implementation
+// summary: Implements the Nearby ConditionVariable API on top of base::ConditionVariable, supporting indefinite and timed waits tied to a Mutex.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/condition_variable.h"
 
 #include "base/time/time.h"

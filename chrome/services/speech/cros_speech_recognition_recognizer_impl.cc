@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS SODA speech recognizer implementation
+// summary: Implements the ChromeOS-specific recognizer that forwards audio to SODA running in the ML Service and builds multilanguage configs for Live Caption languages.
+// ---
+
 #include "chrome/services/speech/cros_speech_recognition_recognizer_impl.h"
 
 #include <algorithm>

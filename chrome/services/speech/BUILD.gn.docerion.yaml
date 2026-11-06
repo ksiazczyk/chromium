@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Speech service build definition
+summary: GN build file defining the speech service library, unit tests, and test Mojo client source sets along with their sources and dependencies.

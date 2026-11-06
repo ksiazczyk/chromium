@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BidirectionalStream unit tests
+// summary: Unit tests for the Chrome Nearby Connections bidirectional stream, verifying reads and writes over Mojo data pipes and error behavior after the stream is closed.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/bidirectional_stream.h"
 
 #include <memory>

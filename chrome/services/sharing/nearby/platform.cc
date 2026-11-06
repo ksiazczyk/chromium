@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Connections platform implementation
+// summary: Implements the Nearby platform layer for Chrome, wiring mediums like Bluetooth, BLE, WebRTC and Wi-Fi to Chromium services and shared remotes.
+// ---
+
 #include "third_party/nearby/src/internal/platform/implementation/platform.h"
 
 #include "base/notimplemented.h"

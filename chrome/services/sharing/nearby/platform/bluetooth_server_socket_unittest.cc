@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BluetoothServerSocket unit tests
+// summary: Unit tests for BluetoothServerSocket using fake mojo ServerSocket implementations to exercise accept, blocking accept, and disconnect behavior across threads.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/bluetooth_server_socket.h"
 
 #include <memory>

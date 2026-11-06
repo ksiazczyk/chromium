@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothDevice implementation
+// summary: Implements the Nearby BluetoothDevice wrapper exposing a discovered device's display name and MAC address and updating its Mojo device info.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/bluetooth_device.h"
 
 namespace nearby::chrome {

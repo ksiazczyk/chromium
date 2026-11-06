@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SharingImpl
+// summary: Exercises SharingImpl setup and shutdown using fake mojo services for network config, firewall holes, TCP sockets, mDNS, and Wi-Fi Direct.
+// ---
+
 #include "chrome/services/sharing/sharing_impl.h"
 
 #include <utility>

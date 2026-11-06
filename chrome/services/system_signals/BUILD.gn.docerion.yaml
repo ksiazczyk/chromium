@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: System Signals service build targets
+summary: GN build file defining the system_signals source set and unit tests with platform-specific sources and dependencies for Windows, Mac and Linux.

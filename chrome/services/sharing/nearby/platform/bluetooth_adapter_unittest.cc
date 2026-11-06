@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BluetoothAdapter unit tests
+// summary: Unit tests using a fake Mojo adapter to verify BluetoothAdapter's enabled state, scan mode handling, and adapter name retrieval and assignment.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/bluetooth_adapter.h"
 
 #include <memory>

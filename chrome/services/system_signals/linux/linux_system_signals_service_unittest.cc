@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linux system signals service unit tests
+// summary: Unit tests verifying that GetFileSystemSignals forwards requests to FileSystemService and returns its results, using a mock file system service.
+// ---
+
 #include "chrome/services/system_signals/linux/linux_system_signals_service.h"
 
 #include <memory>

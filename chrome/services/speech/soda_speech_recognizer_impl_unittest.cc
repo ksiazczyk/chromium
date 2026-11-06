@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SODA speech recognizer unit tests
+// summary: Unit tests that verify event consistency, results and errors of the SODA speech recognizer in continuous and single-shot modes.
+// ---
+
 #include "chrome/services/speech/soda_speech_recognizer_impl.h"
 
 #include <memory>

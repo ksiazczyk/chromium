@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stream payload buffer manager declaration
+// summary: Declares the manager that buffers chunked stream payloads and reassembles them once transfer completes.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_NEARBY_NEARBY_CONNECTIONS_STREAM_BUFFER_MANAGER_H_
 #define CHROME_SERVICES_SHARING_NEARBY_NEARBY_CONNECTIONS_STREAM_BUFFER_MANAGER_H_
 

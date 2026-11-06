@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the sharing WebRTC source set
+summary: Defines the webrtc source_set listing the IPC networking sources and their Chromium dependencies for ChromeOS.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby platform LogMessage implementation
+// summary: Implements the Nearby Connections LogMessage API on top of Chromium logging, mapping Nearby severities to Chromium log severities and honoring a minimum severity.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/log_message.h"
 
 #include <algorithm>

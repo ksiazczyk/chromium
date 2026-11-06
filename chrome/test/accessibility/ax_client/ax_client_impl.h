@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AxClientImpl abstract backend interface
+// summary: Defines the abstract client backend interface, implemented per API (UIA vs IA2/MSAA), for Initialize, FindAll, and Shutdown.
+// ---
+
 #ifndef CHROME_TEST_ACCESSIBILITY_AX_CLIENT_AX_CLIENT_IMPL_H_
 #define CHROME_TEST_ACCESSIBILITY_AX_CLIENT_AX_CLIENT_IMPL_H_
 

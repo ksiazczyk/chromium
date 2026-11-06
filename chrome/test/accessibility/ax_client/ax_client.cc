@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AxClient Mojo interface implementation
+// summary: Implements the AxClient Mojo interface, dispatching Initialize, FindAll, Shutdown, and Terminate to the UIA or IAccessible2 backend chosen at runtime.
+// ---
+
 #include "chrome/test/accessibility/ax_client/ax_client.h"
 
 #include <utility>

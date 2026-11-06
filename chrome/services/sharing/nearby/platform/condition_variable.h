@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConditionVariable header
+// summary: Declares the Chrome ConditionVariable implementation of the Nearby platform API, wrapping base::ConditionVariable with a bound Mutex.
+// ---
+
 #ifndef CHROME_SERVICES_SHARING_NEARBY_PLATFORM_CONDITION_VARIABLE_H_
 #define CHROME_SERVICES_SHARING_NEARBY_PLATFORM_CONDITION_VARIABLE_H_
 

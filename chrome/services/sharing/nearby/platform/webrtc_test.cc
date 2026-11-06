@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRtcMedium unit tests
+// summary: Unit tests for WebRtcMedium using mock WebRTC dependencies, fake mojo remotes and location hint helpers to verify peer connection and signaling behavior.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/webrtc.h"
 
 #include "base/task/single_thread_task_runner.h"

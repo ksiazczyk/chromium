@@ -1,0 +1,4 @@
+# Docerion header of mac_system_signals_service_unittest.mm.
+type: test
+title: MacSystemSignalsService unit test
+summary: Unit test that verifies GetFileSystemSignals forwards file system signal requests to the mocked FileSystemService and returns the expected results.

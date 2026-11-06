@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Anti-virus product collection interface
+// summary: Declares GetAntiVirusProducts and the internal ResultCode enum used to report outcomes of anti-virus metric collection.
+// ---
+
 #ifndef CHROME_SERVICES_UTIL_WIN_AV_PRODUCTS_H_
 #define CHROME_SERVICES_UTIL_WIN_AV_PRODUCTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speech recognition service implementation
+// summary: Implements the SpeechRecognitionService mojo interface, binding recognizers and audio source fetchers and managing SODA paths and parameters.
+// ---
+
 #include "chrome/services/speech/speech_recognition_service_impl.h"
 
 #include <string>

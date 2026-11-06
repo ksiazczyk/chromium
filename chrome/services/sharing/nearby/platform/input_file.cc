@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputFile implementation
+// summary: Implements the Nearby Connections InputFile API over a base::File, providing total size, chunked reads, close, and extraction of the underlying file.
+// ---
+
 #include "chrome/services/sharing/nearby/platform/input_file.h"
 
 #include <optional>

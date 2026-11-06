@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows system signals service class declaration
+// summary: Declares the Windows SystemSignalsService with WMI and WSC clients that provides antivirus and hotfix signals over Mojo.
+// ---
+
 #ifndef CHROME_SERVICES_SYSTEM_SIGNALS_WIN_WIN_SYSTEM_SIGNALS_SERVICE_H_
 #define CHROME_SERVICES_SYSTEM_SIGNALS_WIN_WIN_SYSTEM_SIGNALS_SERVICE_H_
 
