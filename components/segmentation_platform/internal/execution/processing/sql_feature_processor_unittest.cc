@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SQL feature processor unit tests
+// summary: Unit tests for SqlFeatureProcessor that verify SQL query processing with bind values using a mock UKM database and a test clock.
+// ---
+
 #include "components/segmentation_platform/internal/execution/processing/sql_feature_processor.h"
 
 #include "base/containers/flat_map.h"

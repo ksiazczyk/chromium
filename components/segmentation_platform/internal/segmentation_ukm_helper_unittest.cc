@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Segmentation UKM helper unit tests
+// summary: Unit tests verifying UKM recording of model execution results and training data, including float encoding, sampling rates, and upload behavior.
+// ---
+
 #include "components/segmentation_platform/internal/segmentation_ukm_helper.h"
 
 #include <cmath>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signal filter processor unit tests
+// summary: Unit tests for SignalFilterProcessor using mock handlers and a test segment database to verify signal filtering and metrics enabling.
+// ---
+
 #include "components/segmentation_platform/internal/signals/signal_filter_processor.h"
 
 #include "base/functional/callback_helpers.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Segment selector implementation
+// summary: Implements SegmentSelectorImpl, which computes segment selection from model results, maps failure reasons to stats, and stores selections in prefs.
+// ---
+
 #include "components/segmentation_platform/internal/selection/segment_selector_impl.h"
 
 #include "base/containers/flat_map.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model execution status enum
+// summary: Defines the ModelExecutionStatus enum of success, skip and failure states for model execution, kept in sync with histogram enums.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_EXECUTION_MODEL_EXECUTION_STATUS_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_EXECUTION_MODEL_EXECUTION_STATUS_H_
 

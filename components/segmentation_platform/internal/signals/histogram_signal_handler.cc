@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Histogram signal handler implementation
+// summary: Listens to histogram sample events for relevant histograms and persists samples to the signal and UKM databases, notifying observers of updates.
+// ---
+
 #include "components/segmentation_platform/internal/signals/histogram_signal_handler.h"
 
 #include <cstdint>

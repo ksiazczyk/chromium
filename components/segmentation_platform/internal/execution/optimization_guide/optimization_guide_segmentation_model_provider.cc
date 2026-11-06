@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization guide segmentation model provider implementation
+// summary: Implements the ModelProvider that initializes and fetches segmentation models through the optimization guide and executes them with the given inputs.
+// ---
+
 #include "components/segmentation_platform/internal/execution/optimization_guide/optimization_guide_segmentation_model_provider.h"
 
 #include <memory>

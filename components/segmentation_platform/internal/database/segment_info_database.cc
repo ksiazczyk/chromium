@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Segment info database implementation
+// summary: Implements SegmentInfoDatabase, persisting model metadata and prediction results to a LevelDB proto database with cache-backed reads and training data handling.
+// ---
+
 #include "components/segmentation_platform/internal/database/segment_info_database.h"
 
 #include "base/functional/bind.h"

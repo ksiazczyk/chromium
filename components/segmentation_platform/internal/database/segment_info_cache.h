@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Segment info cache header
+// summary: Declares SegmentInfoCache, an in-memory cache over the segment database for looking up and updating segment info by segment ID and model source.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_DATABASE_SEGMENT_INFO_CACHE_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_DATABASE_SEGMENT_INFO_CACHE_H_
 

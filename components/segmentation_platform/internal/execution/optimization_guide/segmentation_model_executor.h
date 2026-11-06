@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Segmentation model executor header
+// summary: Declares SegmentationModelExecutor, a reusable BaseModelExecutor for segmentation models with a one-dimensional float input tensor and a single float output.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_EXECUTION_OPTIMIZATION_GUIDE_SEGMENTATION_MODEL_EXECUTOR_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_EXECUTION_OPTIMIZATION_GUIDE_SEGMENTATION_MODEL_EXECUTOR_H_
 

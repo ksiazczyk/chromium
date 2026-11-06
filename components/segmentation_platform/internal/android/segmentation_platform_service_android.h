@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Segmentation platform service Android bridge header
+// summary: Declares SegmentationPlatformServiceAndroid, a helper class that bridges SegmentationPlatformService between C++ and Java via JNI.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_ANDROID_SEGMENTATION_PLATFORM_SERVICE_ANDROID_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_ANDROID_SEGMENTATION_PLATFORM_SERVICE_ANDROID_H_
 

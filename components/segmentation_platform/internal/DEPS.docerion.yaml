@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for segmentation platform internal
+summary: Declares the allowed include dependencies for code in the internal segmentation platform directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UKM observer implementation
+// summary: Implements UkmObserver, which listens to UKM recorder events, filters entries by configured events and metrics, and forwards them to the UKM data manager.
+// ---
+
 #include "components/segmentation_platform/internal/signals/ukm_observer.h"
 
 #include <cstdint>

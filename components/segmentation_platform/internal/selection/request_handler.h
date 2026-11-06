@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Request handler header
+// summary: Declares the RequestHandler interface that handles client API requests for a single client and converts raw results into postprocessed results.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_SELECTION_REQUEST_HANDLER_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_SELECTION_REQUEST_HANDLER_H_
 

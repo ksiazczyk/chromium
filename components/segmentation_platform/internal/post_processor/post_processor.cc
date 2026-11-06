@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PostProcessor implementation
+// summary: Implements post-processing of model prediction results, validating outputs and converting raw model scores into labels for binary, multi-class and binned classifiers.
+// ---
+
 #include "components/segmentation_platform/internal/post_processor/post_processor.h"
 
 #include "base/time/time.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CachedResultWriter unit tests
+// summary: Unit tests covering pref updates on expiry, forced refresh, and result usage marking for CachedResultWriter.
+// ---
+
 #include "components/segmentation_platform/internal/database/cached_result_writer.h"
 
 #include "base/test/simple_test_clock.h"

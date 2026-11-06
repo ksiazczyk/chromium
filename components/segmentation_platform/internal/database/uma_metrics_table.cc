@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UMA metrics table implementation
+// summary: Implements SQL operations for the UMA metrics table, including table and index creation, adding metric rows, and deleting entries by timestamp or cleanup items.
+// ---
+
 #include <inttypes.h>
 #include <cstdint>
 

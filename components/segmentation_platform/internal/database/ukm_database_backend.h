@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UKM database backend class declaration
+// summary: Declares UkmDatabaseBackend, which manages UKM and UMA SQL tables, transactions, queries and cleanup on a task runner that allows blocking operations.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_DATABASE_UKM_DATABASE_BACKEND_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_DATABASE_UKM_DATABASE_BACKEND_H_
 

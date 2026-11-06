@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UKM observer unit tests
+// summary: Unit tests for UkmObserver covering entry storage, metric filtering, pausing and UKM allowed state changes using a mock UKM database.
+// ---
+
 #include "components/segmentation_platform/internal/signals/ukm_observer.h"
 
 #include <memory>

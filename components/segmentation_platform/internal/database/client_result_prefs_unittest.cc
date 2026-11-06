@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ClientResultPrefs unit tests
+// summary: Unit tests verifying saving, reading, updating, and deleting client results in prefs.
+// ---
+
 #include "components/segmentation_platform/internal/database/client_result_prefs.h"
 
 #include "components/prefs/pref_registry_simple.h"

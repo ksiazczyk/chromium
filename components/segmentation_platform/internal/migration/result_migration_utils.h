@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Segmentation result migration utility declarations
+// summary: Declares helpers that convert legacy SelectedSegment results into proto ClientResult objects and map segmentation keys to classifier predictor types during preference migration.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_MIGRATION_RESULT_MIGRATION_UTILS_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_MIGRATION_RESULT_MIGRATION_UTILS_H_
 

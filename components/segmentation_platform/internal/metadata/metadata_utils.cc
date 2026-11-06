@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metadata validation utilities implementation
+// summary: Implements validation of segment info, model metadata, UMA and SQL features, custom inputs, indexed tensors, and output configs for the segmentation platform.
+// ---
+
 #include "components/segmentation_platform/internal/metadata/metadata_utils.h"
 
 #include <inttypes.h>

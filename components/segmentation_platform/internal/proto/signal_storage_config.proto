@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signal storage config proto definitions
+// summary: Defines SignalStorageConfig protobuf messages describing signal type, storage duration, and collection start, used for model evaluation eligibility and DB cleanups.
+// ---
+
 syntax = "proto2";
 option optimize_for = LITE_RUNTIME;
 

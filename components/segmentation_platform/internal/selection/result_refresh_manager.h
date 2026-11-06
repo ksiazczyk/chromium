@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Result refresh manager header
+// summary: Declares ResultRefreshManager, which runs on every startup to keep model results valid in both the database and prefs, refreshing them on model updates.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_SELECTION_RESULT_REFRESH_MANAGER_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_SELECTION_RESULT_REFRESH_MANAGER_H_
 

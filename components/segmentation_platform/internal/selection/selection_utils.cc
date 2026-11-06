@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Selection utilities implementation
+// summary: Implements the conversion from segment result states to prediction statuses such as succeeded, not ready and failed.
+// ---
+
 #include "components/segmentation_platform/internal/selection/selection_utils.h"
 
 namespace segmentation_platform::selection_utils {

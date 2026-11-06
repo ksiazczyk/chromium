@@ -1,0 +1,4 @@
+# Docerion header of launcher_filter_file.py.
+type: script
+title: Test launcher filter file generator
+summary: Python script that scans a component's test sources for TEST macros and rewrites the components_unittests.filter file used by the test launcher.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Segmentation UKM helper implementation
+// summary: Implements recording of segmentation model execution results and training data as UKM metrics, including float-to-int64 encoding and upload permission checks.
+// ---
+
 #include "components/segmentation_platform/internal/segmentation_ukm_helper.h"
 
 #include <array>

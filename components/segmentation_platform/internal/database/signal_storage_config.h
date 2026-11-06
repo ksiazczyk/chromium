@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SignalStorageConfig class header
+// summary: Declares SignalStorageConfig, which checks whether signals have been collected long enough for model evaluation and identifies signals for cleanup.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_DATABASE_SIGNAL_STORAGE_CONFIG_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_DATABASE_SIGNAL_STORAGE_CONFIG_H_
 

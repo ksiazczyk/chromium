@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Database client implementation
+// summary: Implements feature processing via the execution service and storing structured events in the UKM database.
+// ---
+
 #include "components/segmentation_platform/internal/database_client_impl.h"
 #include "components/segmentation_platform/internal/execution/processing/feature_list_query_processor.h"
 #include "components/segmentation_platform/internal/scheduler/execution_service.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Segment score provider interface
+// summary: Declares SegmentScoreProvider and SegmentScore for reading cached segment scores from the database at startup; the header notes the class is currently unused.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_SELECTION_SEGMENT_SCORE_PROVIDER_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_SELECTION_SEGMENT_SCORE_PROVIDER_H_
 

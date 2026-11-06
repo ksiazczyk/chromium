@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Segmentation model executor unit tests
+// summary: Unit tests for SegmentationModelExecutor that load a test TFLite model through the model provider to verify model updates, metadata handling and execution results.
+// ---
+
 #include "components/segmentation_platform/internal/execution/optimization_guide/segmentation_model_executor.h"
 
 #include <memory>

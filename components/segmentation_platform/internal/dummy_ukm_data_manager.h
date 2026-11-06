@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dummy UKM data manager header
+// summary: Declares DummyUkmDataManager, used by segmentation services in production when the UKM engine is disabled.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_DUMMY_UKM_DATA_MANAGER_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_DUMMY_UKM_DATA_MANAGER_H_
 

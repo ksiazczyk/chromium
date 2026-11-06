@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signal filter processor implementation
+// summary: Implements SignalFilterProcessor, extracting user action, histogram and UKM features from model metadata and registering the matching signal handlers.
+// ---
+
 #include "components/segmentation_platform/internal/signals/signal_filter_processor.h"
 
 #include <set>

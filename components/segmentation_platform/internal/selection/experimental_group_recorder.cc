@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Experimental group recorder implementation
+// summary: Implements ExperimentalGroupRecorder, which fetches a stored segment result and registers the subsegment field trial for the given optimization target.
+// ---
+
 #include "components/segmentation_platform/internal/selection/experimental_group_recorder.h"
 
 #include "base/functional/bind.h"

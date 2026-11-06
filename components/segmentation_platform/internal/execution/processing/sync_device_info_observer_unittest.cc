@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync device info observer unit tests
+// summary: Unit tests for SyncDeviceInfoObserver verifying device counts by OS type and histogram reporting using a fake device info tracker.
+// ---
+
 #include "components/segmentation_platform/internal/execution/processing/sync_device_info_observer.h"
 
 #include "base/functional/bind.h"

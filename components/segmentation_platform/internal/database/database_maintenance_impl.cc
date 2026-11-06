@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DatabaseMaintenanceImpl implementation
+// summary: Implements database maintenance tasks including signal storage cleanup and sample compaction.
+// ---
+
 #include "components/segmentation_platform/internal/database/database_maintenance_impl.h"
 
 #include <deque>

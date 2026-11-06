@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureListQueryProcessor implementation
+// summary: Implements processing of a segmentation model's feature list, delegating to UMA, SQL, and custom input processors to build model inputs.
+// ---
+
 #include "components/segmentation_platform/internal/execution/processing/feature_list_query_processor.h"
 
 #include "base/functional/bind.h"

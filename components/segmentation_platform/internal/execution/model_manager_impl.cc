@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModelManagerImpl implementation
+// summary: Implements the ModelManager interface by creating server and default model providers per segment, handling model update callbacks, and storing updated segment info in the database.
+// ---
+
 #include "components/segmentation_platform/internal/execution/model_manager_impl.h"
 
 #include <map>

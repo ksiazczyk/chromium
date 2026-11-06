@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dummy segmentation platform service header
+// summary: Declares DummySegmentationPlatformService, a stub SegmentationPlatformService returned when the feature is disabled.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_DUMMY_SEGMENTATION_PLATFORM_SERVICE_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_DUMMY_SEGMENTATION_PLATFORM_SERVICE_H_
 

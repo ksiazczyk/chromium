@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefs migrator implementation
+// summary: Implements PrefsMigrator, which moves segmentation results from old prefs to new ClientResult prefs and deletes fully migrated old entries.
+// ---
+
 #include "components/segmentation_platform/internal/migration/prefs_migrator.h"
 
 #include "components/segmentation_platform/internal/database/client_result_prefs.h"

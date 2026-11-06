@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Model executor unit tests
+// summary: Unit tests for ModelExecutorImpl covering model execution with mock databases, model providers and feature list processing.
+// ---
+
 #include "components/segmentation_platform/internal/execution/model_executor_impl.h"
 
 #include <memory>

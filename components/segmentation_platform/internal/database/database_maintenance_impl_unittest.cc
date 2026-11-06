@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DatabaseMaintenanceImpl unit tests
+// summary: Unit tests for database maintenance tasks using mock databases, test clock and task environment.
+// ---
+
 #include "components/segmentation_platform/internal/database/database_maintenance_impl.h"
 
 #include <cstdint>

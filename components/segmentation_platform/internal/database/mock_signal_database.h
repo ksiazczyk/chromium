@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockSignalDatabase header
+// summary: Declares a GMock mock of the SignalDatabase interface for writing, fetching and deleting samples.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_DATABASE_MOCK_SIGNAL_DATABASE_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_DATABASE_MOCK_SIGNAL_DATABASE_H_
 

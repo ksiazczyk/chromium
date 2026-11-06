@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Segment result provider implementation
+// summary: Implements SegmentResultProvider, retrieving segment results from the database or by executing server and default models with fallback handling and discrete mapping.
+// ---
+
 #include "components/segmentation_platform/internal/selection/segment_result_provider.h"
 
 #include "base/logging.h"

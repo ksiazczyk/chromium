@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DummySegmentationPlatformService unit tests
+// summary: Unit tests verifying that the dummy service returns empty segment selections and failed prediction results for its API calls.
+// ---
+
 #include "components/segmentation_platform/internal/dummy_segmentation_platform_service.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Segmentation result prefs unit tests
+// summary: Unit tests verifying that segmentation results are written, read, overwritten per key and deleted correctly, including handling of corrupted values.
+// ---
+
 #include "components/segmentation_platform/internal/selection/segmentation_result_prefs.h"
 
 #include "base/test/task_environment.h"

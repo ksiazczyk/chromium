@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UMA metrics table interface
+// summary: Declares the UmaMetricsTable class that handles updates to the UMA metrics table in the SQL database, including inserts and cleanup deletions.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_DATABASE_UMA_METRICS_TABLE_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_DATABASE_UMA_METRICS_TABLE_H_
 

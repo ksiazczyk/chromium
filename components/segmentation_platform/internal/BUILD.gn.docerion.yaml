@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for segmentation platform internal library
+summary: Defines the static library targets, sources and visibility for the internal segmentation platform component.

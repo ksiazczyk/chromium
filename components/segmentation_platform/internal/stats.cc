@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Segmentation platform stats implementation
+// summary: Implements UMA histogram recording for segmentation platform events such as segment selection, classification results, model delivery, and database maintenance.
+// ---
+
 #include "components/segmentation_platform/internal/stats.h"
 
 #include <string_view>

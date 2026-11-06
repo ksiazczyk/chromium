@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FieldTrialRecorder implementation
+// summary: Implements startup recording of segmentation field trials, registering the top prediction label or Unselected for each client config.
+// ---
+
 #include "components/segmentation_platform/internal/metrics/field_trial_recorder.h"
 
 #include "components/segmentation_platform/internal/metadata/metadata_utils.h"

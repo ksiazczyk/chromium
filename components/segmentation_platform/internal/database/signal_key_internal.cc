@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signal key internal implementation
+// summary: Implements big-endian binary conversion and debug string helpers for the fixed-layout SignalKeyInternal database key structure.
+// ---
+
 #include "components/segmentation_platform/internal/database/signal_key_internal.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Request handler implementation
+// summary: Implements RequestHandlerImpl, which fetches raw results via the segment result provider and postprocesses them for on-demand client prediction requests.
+// ---
+
 #include "components/segmentation_platform/internal/selection/request_handler.h"
 
 #include "base/memory/raw_ref.h"

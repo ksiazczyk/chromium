@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UMA feature processor unit tests
+// summary: Unit tests for UmaFeatureProcessor covering enum and value histograms and user actions using real signal and UKM database implementations.
+// ---
+
 #include "components/segmentation_platform/internal/execution/processing/uma_feature_processor.h"
 
 #include <memory>

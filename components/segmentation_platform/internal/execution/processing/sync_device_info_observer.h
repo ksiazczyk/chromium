@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync device info observer
+// summary: Declares SyncDeviceInfoObserver, an input delegate and device info tracker observer that counts active devices per OS type for segmentation inputs.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_EXECUTION_PROCESSING_SYNC_DEVICE_INFO_OBSERVER_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_EXECUTION_PROCESSING_SYNC_DEVICE_INFO_OBSERVER_H_
 

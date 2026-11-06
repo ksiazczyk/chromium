@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UMA feature processor implementation
+// summary: Implements UmaFeatureProcessor, which builds SQL queries over stored UMA metrics and aggregates histogram and user action samples into result tensors.
+// ---
+
 #include "components/segmentation_platform/internal/execution/processing/uma_feature_processor.h"
 
 #include <inttypes.h>

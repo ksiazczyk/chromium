@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SignalStorageConfig implementation
+// summary: Implements signal storage configuration that tracks collection start times and storage limits for model signals in a LevelDB proto database.
+// ---
+
 #include "components/segmentation_platform/internal/database/signal_storage_config.h"
 
 #include "base/functional/callback_helpers.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prediction result logging header
+// summary: Declares the PredictionResultToDebugString helper for rendering prediction results as loggable strings.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_LOGGING_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_LOGGING_H_
 

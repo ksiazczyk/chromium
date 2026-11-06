@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UKM metrics table implementation
+// summary: Implements creation, indexing, row insertion, URL ID updates and deletion queries for the UKM metrics SQL table.
+// ---
+
 #include "components/segmentation_platform/internal/database/ukm_metrics_table.h"
 
 #include <inttypes.h>

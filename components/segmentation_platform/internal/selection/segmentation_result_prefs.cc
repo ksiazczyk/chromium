@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Segmentation result prefs implementation
+// summary: Implements saving and reading selected segment results, including segment ID, rank, in-use flag and selection time, to and from the preferences service.
+// ---
+
 #include "components/segmentation_platform/internal/selection/segmentation_result_prefs.h"
 
 #include "base/json/values_util.h"

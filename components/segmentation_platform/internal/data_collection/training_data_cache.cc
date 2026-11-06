@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Training data cache implementation
+// summary: Implements an in-memory and database-backed cache that stores, retrieves and deletes training data for segments during the observation period.
+// ---
+
 #include "components/segmentation_platform/internal/data_collection/training_data_cache.h"
 
 #include "base/functional/callback_helpers.h"

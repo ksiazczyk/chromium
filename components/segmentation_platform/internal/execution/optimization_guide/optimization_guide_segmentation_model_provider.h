@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization guide segmentation model provider header
+// summary: Declares OptimizationGuideSegmentationModelProvider, the ModelProvider implementation that uses the optimization guide to fetch and execute segmentation models.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_EXECUTION_OPTIMIZATION_GUIDE_OPTIMIZATION_GUIDE_SEGMENTATION_MODEL_PROVIDER_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_EXECUTION_OPTIMIZATION_GUIDE_OPTIMIZATION_GUIDE_SEGMENTATION_MODEL_PROVIDER_H_
 

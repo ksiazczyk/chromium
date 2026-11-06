@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Adaptive toolbar migration header
+// summary: Declares CreateClientResultForAdaptiveToolbar, which converts an old adaptive toolbar segment result into a new ClientResult.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_MIGRATION_ADAPTIVE_TOOLBAR_MIGRATION_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_MIGRATION_ADAPTIVE_TOOLBAR_MIGRATION_H_
 

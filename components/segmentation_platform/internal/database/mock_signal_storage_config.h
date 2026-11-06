@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockSignalStorageConfig header
+// summary: Declares a GMock mock of SignalStorageConfig for signal collection and cleanup requirements.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_DATABASE_MOCK_SIGNAL_STORAGE_CONFIG_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_DATABASE_MOCK_SIGNAL_STORAGE_CONFIG_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History delegate implementation
+// summary: Implements the history delegate that caches visited URLs and queries the history service to check whether a URL exists.
+// ---
+
 #include "components/segmentation_platform/internal/signals/history_delegate_impl.h"
 
 #include "base/hash/hash.h"

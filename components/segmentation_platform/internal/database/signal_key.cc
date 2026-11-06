@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signal key implementation
+// summary: Implements the SignalKey class that identifies records in the signal database and converts keys between object and binary representations.
+// ---
+
 #include "components/segmentation_platform/internal/database/signal_key.h"
 
 #include <ostream>

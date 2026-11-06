@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Training data collector factory
+// summary: Factory that creates TrainingDataCollectorImpl instances wired to the feature processor, signal handlers, storage, preferences and clock.
+// ---
+
 #include "components/segmentation_platform/internal/data_collection/training_data_collector.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User action signal handler class declaration
+// summary: Declares UserActionSignalHandler, which listens to user action events, persists relevant ones for segmentation and supports observer notification.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_SIGNALS_USER_ACTION_SIGNAL_HANDLER_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_SIGNALS_USER_ACTION_SIGNAL_HANDLER_H_
 

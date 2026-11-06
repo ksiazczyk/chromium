@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FieldTrialRecorder class declaration
+// summary: Declares the FieldTrialRecorder class that records field trials for clients based on cached results from the last session.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_METRICS_FIELD_TRIAL_RECORDER_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_METRICS_FIELD_TRIAL_RECORDER_H_
 

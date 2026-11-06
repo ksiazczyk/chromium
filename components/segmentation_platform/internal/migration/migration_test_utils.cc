@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Migration test utilities implementation
+// summary: Provides test configs and output configs for binary classifier and adaptive toolbar migration used by migration tests.
+// ---
+
 #include "components/segmentation_platform/internal/migration/migration_test_utils.h"
 
 #include "components/segmentation_platform/internal/metadata/metadata_writer.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureQuery struct and UMA feature definition macros
+// summary: Defines the FeatureQuery struct and convenience macros for building UMA histogram, enum count, sum, and custom input feature queries for segmentation models.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_METADATA_FEATURE_QUERY_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_METADATA_FEATURE_QUERY_H_
 

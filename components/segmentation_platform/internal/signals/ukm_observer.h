@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UKM observer class declaration
+// summary: Declares UkmObserver, a UKM recorder observer that starts, pauses and stops metric observation and notifies the UKM data manager of new entries.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_SIGNALS_UKM_OBSERVER_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_SIGNALS_UKM_OBSERVER_H_
 

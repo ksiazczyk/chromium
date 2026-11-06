@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UKM config header
+// summary: Declares UkmConfig, which tracks the UKM events and metrics to observe and store for the segmentation platform.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_SIGNALS_UKM_CONFIG_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_SIGNALS_UKM_CONFIG_H_
 

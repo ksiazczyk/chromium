@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Result refresh manager unit tests
+// summary: Unit tests for the result refresh manager, exercising segment result refresh behavior with mock result providers, training data collectors, and test configs.
+// ---
+
 #include "components/segmentation_platform/internal/selection/result_refresh_manager.h"
 
 #include "base/memory/raw_ptr.h"

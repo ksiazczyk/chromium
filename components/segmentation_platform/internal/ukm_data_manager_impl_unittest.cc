@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UkmDataManagerImpl unit tests
+// summary: Unit tests for UkmDataManagerImpl covering UKM entry handling and observation using sample page load and paint preview entries with mock databases and test services.
+// ---
+
 #include "components/segmentation_platform/internal/ukm_data_manager_impl.h"
 
 #include "base/files/scoped_temp_dir.h"

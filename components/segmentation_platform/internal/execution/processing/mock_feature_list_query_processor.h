@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockFeatureListQueryProcessor class declaration
+// summary: Declares a gmock mock of FeatureListQueryProcessor that stubs ProcessFeatureList for testing.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_EXECUTION_PROCESSING_MOCK_FEATURE_LIST_QUERY_PROCESSOR_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_EXECUTION_PROCESSING_MOCK_FEATURE_LIST_QUERY_PROCESSOR_H_
 

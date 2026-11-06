@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Migration test utilities header
+// summary: Declares helper functions that create test configs and output configs for binary classifier and adaptive toolbar migration tests.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_MIGRATION_MIGRATION_TEST_UTILS_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_MIGRATION_MIGRATION_TEST_UTILS_H_
 

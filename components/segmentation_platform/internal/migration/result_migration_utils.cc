@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Result migration utilities implementation
+// summary: Routes old segmentation results to the appropriate migration path and maps segmentation keys to classifier types for migration.
+// ---
+
 #include "components/segmentation_platform/internal/migration/result_migration_utils.h"
 
 #include <string>

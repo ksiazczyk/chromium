@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Training data collector implementation
+// summary: Implements training data collection for the segmentation platform, handling periodic and on-demand collection, histogram and user action signals, and UKM reporting.
+// ---
+
 #include "components/segmentation_platform/internal/data_collection/training_data_collector_impl.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomInputProcessor implementation
+// summary: Implements processing of custom input features, such as prediction time and device properties, into tensors for ML model execution.
+// ---
+
 #include "components/segmentation_platform/internal/execution/processing/custom_input_processor.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CustomInputProcessor unit tests
+// summary: Unit tests verifying that custom inputs are processed into the expected tensors, including fill policies and error cases.
+// ---
+
 #include "components/segmentation_platform/internal/execution/processing/custom_input_processor.h"
 
 #include <memory>

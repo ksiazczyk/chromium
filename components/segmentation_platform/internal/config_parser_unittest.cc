@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for segmentation config parser
+// summary: Tests parsing of valid and invalid segmentation config JSON, including segment metadata and TTL handling.
+// ---
+
 #include "components/segmentation_platform/internal/config_parser.h"
 #include <memory>
 

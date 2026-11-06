@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Request dispatcher unit tests
+// summary: Unit tests for RequestDispatcher covering request queuing, dispatching, and result handling using mock request handlers and test databases.
+// ---
+
 #include "components/segmentation_platform/internal/selection/request_dispatcher.h"
 
 #include <memory>

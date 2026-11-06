@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Binary classifier migration implementation
+// summary: Builds new ClientResult objects from legacy binary classifier segmentation results, including output config and model score population.
+// ---
+
 #include "components/segmentation_platform/internal/migration/binary_classifier_migration.h"
 
 #include "components/segmentation_platform/internal/metadata/metadata_utils.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockFeatureListQueryProcessor implementation
+// summary: Implements the constructor and destructor of the mock FeatureListQueryProcessor used in tests.
+// ---
+
 #include "components/segmentation_platform/internal/execution/processing/mock_feature_list_query_processor.h"
 
 #include "components/segmentation_platform/public/input_delegate.h"

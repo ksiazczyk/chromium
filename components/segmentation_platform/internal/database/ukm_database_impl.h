@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UKM database wrapper class declaration
+// summary: Declares UkmDatabaseImpl, a UI-thread UkmDatabase implementation that hosts UkmDatabaseBackend through base::SequenceBound.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_DATABASE_UKM_DATABASE_IMPL_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_DATABASE_UKM_DATABASE_IMPL_H_
 

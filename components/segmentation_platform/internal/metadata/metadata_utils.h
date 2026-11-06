@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metadata validation utilities and result codes
+// summary: Declares the ValidationResult enum with detailed error codes and functions for validating segment info, metadata, features, and output configurations.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_METADATA_METADATA_UTILS_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_METADATA_METADATA_UTILS_H_
 

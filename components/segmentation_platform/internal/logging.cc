@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prediction result debug string helper
+// summary: Provides PredictionResultToDebugString, which formats a prediction result proto with timestamp and values into a debug string.
+// ---
+
 #include "components/segmentation_platform/internal/logging.h"
 #include <sstream>
 

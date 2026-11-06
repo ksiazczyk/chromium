@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Segmentation config parser implementation
+// summary: Parses segmentation config JSON strings into Config objects and collects segment IDs from parsed configs.
+// ---
+
 #include "components/segmentation_platform/internal/config_parser.h"
 
 #include "base/json/json_reader.h"

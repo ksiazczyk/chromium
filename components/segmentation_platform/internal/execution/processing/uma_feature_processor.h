@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UMA feature processor
+// summary: Declares UmaFeatureProcessor, a query processor that fetches UMA histogram and user action samples from storage and computes result tensors.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_EXECUTION_PROCESSING_UMA_FEATURE_PROCESSOR_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_EXECUTION_PROCESSING_UMA_FEATURE_PROCESSOR_H_
 

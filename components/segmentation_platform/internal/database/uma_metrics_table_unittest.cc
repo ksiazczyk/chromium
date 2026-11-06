@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UMA metrics table unit tests
+// summary: Unit tests verifying creation of the UMA metrics table and its indexes, validation of inserted rows, and cleanup of metric entries by profile and timestamp.
+// ---
+
 #include "components/segmentation_platform/internal/database/uma_metrics_table.h"
 
 #include <memory>

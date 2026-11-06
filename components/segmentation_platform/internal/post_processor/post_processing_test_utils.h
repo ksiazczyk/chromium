@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Post-processing test utilities header
+// summary: Declares test helper functions for creating test configs, classifier output configurations and client results used by segmentation platform post-processor tests.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_POST_PROCESSOR_POST_PROCESSING_TEST_UTILS_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_POST_PROCESSOR_POST_PROCESSING_TEST_UTILS_H_
 

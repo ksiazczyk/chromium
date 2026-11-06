@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomDeviceUtils
+// summary: Java utility for the segmentation platform that reports the active display's pixels per inch to native code through a JNI-called method.
+// ---
+
 package org.chromium.components.segmentation_platform.execution.processing;
 
 import android.util.DisplayMetrics;

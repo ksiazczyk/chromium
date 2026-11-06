@@ -1,0 +1,4 @@
+# Docerion header of generate_histogram_list.py.
+type: script
+title: Generate histogram list for segmentation platform
+summary: Keeps the list of histograms and user actions used by segmentation platform models up to date, rewriting the golden files when run directly or serving as a module for presubmit checks.

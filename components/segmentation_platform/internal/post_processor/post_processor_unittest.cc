@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PostProcessor unit tests
+// summary: Unit tests verifying PostProcessor result handling for binary, multi-class and binned classifiers, including thresholds, top label indices and predicted result TTLs.
+// ---
+
 #include "components/segmentation_platform/internal/post_processor/post_processor.h"
 
 #include "base/containers/span.h"

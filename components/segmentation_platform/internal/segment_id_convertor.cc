@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Segment ID conversion functions
+// summary: Converts between proto SegmentId values and optimization guide OptimizationTarget values.
+// ---
+
 #include "components/segmentation_platform/internal/segment_id_convertor.h"
 
 #include "base/check_op.h"

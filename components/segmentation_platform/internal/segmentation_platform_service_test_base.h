@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Segmentation platform service test base
+// summary: Test base class that wraps and manages a SegmentationPlatformServiceImpl instance with fake databases, test prefs, and a test clock for unit tests.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_SEGMENTATION_PLATFORM_SERVICE_TEST_BASE_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_SEGMENTATION_PLATFORM_SERVICE_TEST_BASE_H_
 

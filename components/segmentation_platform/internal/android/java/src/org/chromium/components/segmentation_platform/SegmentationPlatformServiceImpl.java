@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SegmentationPlatformServiceImpl Java JNI bridge
+// summary: Java implementation of the segmentation platform service that delegates segment selection, classification, input keys, and training data calls to the native C++ class over JNI.
+// ---
+
 package org.chromium.components.segmentation_platform;
 
 import org.jni_zero.CalledByNative;

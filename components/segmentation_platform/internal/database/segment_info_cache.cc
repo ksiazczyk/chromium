@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Segment info cache implementation
+// summary: Implements SegmentInfoCache, storing segment info keyed by segment ID and model source to speed up repeated reads over the database layer.
+// ---
+
 #include "components/segmentation_platform/internal/database/segment_info_cache.h"
 
 #include <memory>

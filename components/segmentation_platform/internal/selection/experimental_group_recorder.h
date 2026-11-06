@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Experimental group recorder header
+// summary: Declares the ExperimentalGroupRecorder class that records experimental sub groups for an optimization target based on the model score from the database.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_SELECTION_EXPERIMENTAL_GROUP_RECORDER_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_SELECTION_EXPERIMENTAL_GROUP_RECORDER_H_
 

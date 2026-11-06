@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Segmentation platform service implementation
+// summary: Implements the internal SegmentationPlatformService, wiring up storage, schedulers, selection and metrics.
+// ---
+
 #include "components/segmentation_platform/internal/segmentation_platform_service_impl.h"
 
 #include <memory>

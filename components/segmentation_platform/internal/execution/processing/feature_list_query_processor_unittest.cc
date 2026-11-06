@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FeatureListQueryProcessor unit tests
+// summary: Unit tests for feature list processing using mock signal databases and UKM data manager across SQL and non-SQL configurations.
+// ---
+
 #include "components/segmentation_platform/internal/execution/processing/feature_list_query_processor.h"
 
 #include <memory>

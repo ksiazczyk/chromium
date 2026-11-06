@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQL feature processor
+// summary: Declares SqlFeatureProcessor, which fetches samples from the UKM database for SQL features and computes input tensors for ML model execution.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_EXECUTION_PROCESSING_SQL_FEATURE_PROCESSOR_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_INTERNAL_EXECUTION_PROCESSING_SQL_FEATURE_PROCESSOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signal sample view unit tests
+// summary: Unit tests for SignalSampleView checking query filtering and iteration over user action and histogram sample data.
+// ---
+
 #include "components/segmentation_platform/internal/database/signal_sample_view.h"
 
 #include "base/metrics/metrics_hashes.h"
