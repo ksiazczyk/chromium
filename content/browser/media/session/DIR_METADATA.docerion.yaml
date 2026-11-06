@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the media session folder
+summary: Chromium directory metadata declaring the Internals>Media>Session monorail component, the media-dev team email and a Buganizer component for this folder.

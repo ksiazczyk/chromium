@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CDM storage database unit tests
+// summary: Tests CdmStorageDatabase file operations, schema migration from version 1 to 2, in-memory mode, and invalid open handling.
+// ---
+
 #include "content/browser/media/cdm_storage_database.h"
 
 #include <stdint.h>

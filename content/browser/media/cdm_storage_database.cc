@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM storage database implementation
+// summary: Implements the SQLite-backed CdmStorageDatabase for reading, writing, and deleting per-storage-key CDM files with schema versioning.
+// ---
+
 #include "content/browser/media/cdm_storage_database.h"
 
 #include "base/logging.h"

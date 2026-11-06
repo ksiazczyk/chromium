@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac desktop capture device using CGDisplayStream
+// summary: Implements macOS screen capture via CGDisplayStream, delivering NV12 frames from display IOSurfaces with resolution and destination rect handling.
+// ---
+
 #include "content/browser/media/capture/desktop_capture_device_mac.h"
 
 #include <CoreGraphics/CoreGraphics.h>

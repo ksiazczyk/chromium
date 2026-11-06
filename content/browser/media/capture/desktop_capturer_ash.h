@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash desktop capturer class declaration
+// summary: Declares DesktopCapturerAsh, which provides desktop snapshots for ash-chrome by capturing the root window of the selected display.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_CAPTURE_DESKTOP_CAPTURER_ASH_H_
 #define CONTENT_BROWSER_MEDIA_CAPTURE_DESKTOP_CAPTURER_ASH_H_
 

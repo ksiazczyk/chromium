@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesktopCaptureCounters enum declaration
+// summary: Defines the DesktopCaptureCounters enum of UMA metrics for capturer creation, capture success and failure, and capture stop reasons.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_CAPTURE_DESKTOP_CAPTURE_DEVICE_UMA_TYPES_H_
 #define CONTENT_BROWSER_MEDIA_CAPTURE_DESKTOP_CAPTURE_DEVICE_UMA_TYPES_H_
 

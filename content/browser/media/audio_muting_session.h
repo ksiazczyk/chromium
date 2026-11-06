@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioMutingSession class declaration
+// summary: Declares AudioMutingSession, which connects a LocalMuter for an audio group through the audio stream factory.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_AUDIO_MUTING_SESSION_H_
 #define CONTENT_BROWSER_MEDIA_AUDIO_MUTING_SESSION_H_
 

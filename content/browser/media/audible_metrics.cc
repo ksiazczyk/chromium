@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudibleMetrics implementation
+// summary: Records UMA histograms about audible WebContents, including concurrent tab counts, concurrent playback durations, and session maxima.
+// ---
+
 #include "content/browser/media/audible_metrics.h"
 
 #include <utility>

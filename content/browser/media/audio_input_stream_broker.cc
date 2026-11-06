@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioInputStreamBroker implementation
+// summary: Implements the broker that connects a renderer client to the audio service for creating audio input streams on the UI thread.
+// ---
+
 #include "content/browser/media/audio_input_stream_broker.h"
 
 #include <optional>

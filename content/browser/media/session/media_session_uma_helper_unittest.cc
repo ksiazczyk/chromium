@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media session UMA helper unit tests
+// summary: Unit tests verifying UMA histograms for session active time and picture-in-picture durations.
+// ---
+
 #include "content/browser/media/session/media_session_uma_helper.h"
 
 #include "base/metrics/histogram_samples.h"

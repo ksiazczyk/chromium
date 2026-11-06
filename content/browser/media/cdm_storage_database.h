@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM storage database header
+// summary: Declares CdmStorageDatabase, which encapsulates all database logic for storing CDM data and must be used on a blocking sequence.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_CDM_STORAGE_DATABASE_H_
 #define CONTENT_BROWSER_MEDIA_CDM_STORAGE_DATABASE_H_
 

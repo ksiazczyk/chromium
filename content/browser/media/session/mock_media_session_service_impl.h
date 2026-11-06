@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock media session service declaration
+// summary: Declares MockMediaSessionServiceImpl and MockMediaSessionClient test doubles for the media session service.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_SESSION_MOCK_MEDIA_SESSION_SERVICE_IMPL_H_
 #define CONTENT_BROWSER_MEDIA_SESSION_MOCK_MEDIA_SESSION_SERVICE_IMPL_H_
 

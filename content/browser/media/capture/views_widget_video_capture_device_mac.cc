@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS views widget video capture device
+// summary: Implements the macOS capture device for views::Widget contents, resolving the CG window ID to a frame sink and forwarding mouse movement to the cursor overlay.
+// ---
+
 #include "content/browser/media/capture/views_widget_video_capture_device_mac.h"
 
 #include "base/functional/bind.h"

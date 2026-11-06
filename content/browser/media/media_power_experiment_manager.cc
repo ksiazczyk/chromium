@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media power experiment manager implementation
+// summary: Implements MediaPowerExperimentManager, which tracks playing media players across pages and notifies the sole playing player when a media power experiment starts or stops.
+// ---
+
 #include "content/browser/media/media_power_experiment_manager.h"
 
 #include <memory>

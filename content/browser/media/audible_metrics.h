@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudibleMetrics class declaration
+// summary: Declares AudibleMetrics, which tracks audible WebContents and records histograms about concurrent audible playback.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_AUDIBLE_METRICS_H_
 #define CONTENT_BROWSER_MEDIA_AUDIBLE_METRICS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media service accessor for the browser process
+// summary: Provides GetMediaService, which binds and returns a Mojo MediaService remote hosted in the GPU or browser process depending on build flags.
+// ---
+
 #include "content/public/browser/media_service.h"
 
 #include "base/logging.h"

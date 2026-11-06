@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android key system support queries
+// summary: Determines Android CDM key system capabilities by querying MediaDrm and MediaCodec support for WebM and MP4 audio and video codecs.
+// ---
+
 #include "content/browser/media/key_system_support_android.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaSessionImpl unit tests
+// summary: Unit tests for MediaSessionImpl audio focus requests, state transitions, picture-in-picture reasons and WebContents activation behavior.
+// ---
+
 #include "content/browser/media/session/media_session_impl.h"
 
 #include <memory>

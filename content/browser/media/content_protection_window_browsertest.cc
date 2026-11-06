@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContentProtectionWindow browser tests
+// summary: Browser tests verifying that the content protection HWND is created, parented to the top-level browser window, sized to its client area, and resizes with it.
+// ---
+
 #include "content/browser/media/content_protection_window.h"
 
 #include "content/public/browser/render_frame_host.h"

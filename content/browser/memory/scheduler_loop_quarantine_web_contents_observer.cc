@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scheduler loop quarantine WebContents observer implementation
+// summary: Implements the WebContentsObserver that sets up the scheduler loop quarantine on the first eligible navigation and excludes later navigations from it.
+// ---
+
 #include "content/browser/memory/scheduler_loop_quarantine_web_contents_observer.h"
 
 #include "base/memory/safety_checks.h"

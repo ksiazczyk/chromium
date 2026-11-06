@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mouse cursor overlay controller unit tests
+// summary: Unit tests and a shared test base for the mouse cursor overlay controller, verifying event throttling and WebContents-restricted cursor reporting across platforms.
+// ---
+
 #include "content/browser/media/capture/mouse_cursor_overlay_controller_unittest.h"
 
 #include <memory>

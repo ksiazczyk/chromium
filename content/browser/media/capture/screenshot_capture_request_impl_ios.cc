@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS stub for screenshot capture requests
+// summary: iOS and tvOS stub that disables desktop and window screenshot capture by returning no capture request and providing empty test hooks.
+// ---
+
 #include "content/browser/media/capture/screenshot_capture_request_impl.h"
 
 namespace content::desktop_capture {

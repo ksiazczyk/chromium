@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsAutoScaler header
+// summary: Declares WebContentsAutoScaler, which adjusts the capture scale override for a captured tab based on content size and video capture utilization feedback.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_CAPTURE_WEB_CONTENTS_AUTO_SCALER_H_
 #define CONTENT_BROWSER_MEDIA_CAPTURE_WEB_CONTENTS_AUTO_SCALER_H_
 

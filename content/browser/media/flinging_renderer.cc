@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlingingRenderer implementation
+// summary: Implements a media renderer that adapts the media::Renderer interface to a FlingingController so playback can be controlled on a remote cast device.
+// ---
+
 #include "content/browser/media/flinging_renderer.h"
 
 #include <utility>

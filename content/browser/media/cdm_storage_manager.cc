@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM storage manager implementation
+// summary: Implements CdmStorageManager, which serves CdmStorage mojo requests and dispatches database work to a sequenced background task runner.
+// ---
+
 #include "content/browser/media/cdm_storage_manager.h"
 
 #include "base/functional/callback_helpers.h"

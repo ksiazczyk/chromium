@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video encode accelerator provider launcher header
+// summary: Declares LaunchVideoEncodeAcceleratorProviderFactory, which starts a utility process hosting the video encode accelerator provider factory.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_VIDEO_ENCODE_ACCELERATOR_PROVIDER_LAUNCHER_H_
 #define CONTENT_BROWSER_MEDIA_VIDEO_ENCODE_ACCELERATOR_PROVIDER_LAUNCHER_H_
 

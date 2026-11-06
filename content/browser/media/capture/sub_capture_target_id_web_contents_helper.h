@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sub-capture target ID WebContents helper header
+// summary: Declares the WebContentsUserData helper that produces, associates and clears sub-capture target IDs used by cropTo and restrictTo.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_CAPTURE_SUB_CAPTURE_TARGET_ID_WEB_CONTENTS_HELPER_H_
 #define CONTENT_BROWSER_MEDIA_CAPTURE_SUB_CAPTURE_TARGET_ID_WEB_CONTENTS_HELPER_H_
 

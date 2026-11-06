@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL provision fetcher unit tests
+// summary: Unit tests verifying that URLProvisionFetcher sends POST requests with the expected body and user agent and handles responses and redirects correctly.
+// ---
+
 #include "content/browser/media/url_provision_fetcher.h"
 
 #include <memory>

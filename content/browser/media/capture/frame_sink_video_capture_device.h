@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame sink video capture device header
+// summary: Declares FrameSinkVideoCaptureDevice, a VideoCaptureDevice and FrameSinkVideoConsumer that bridges viz frame sink capture to video frame receivers.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_CAPTURE_FRAME_SINK_VIDEO_CAPTURE_DEVICE_H_
 #define CONTENT_BROWSER_MEDIA_CAPTURE_FRAME_SINK_VIDEO_CAPTURE_DEVICE_H_
 

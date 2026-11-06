@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS native screen capture picker header
+// summary: Declares the macOS ScreenCaptureKit-based implementation of the native screen capture picker, including capture session state and screenshot support.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_CAPTURE_NATIVE_SCREEN_CAPTURE_PICKER_MAC_H_
 #define CONTENT_BROWSER_MEDIA_CAPTURE_NATIVE_SCREEN_CAPTURE_PICKER_MAC_H_
 

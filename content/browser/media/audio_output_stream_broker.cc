@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio output stream broker implementation
+// summary: Implements the broker that creates audio output streams between renderer clients and the audio service, with tracing, observer monitoring, and disconnect reason tracking.
+// ---
+
 #include "content/browser/media/audio_output_stream_broker.h"
 
 #include <utility>

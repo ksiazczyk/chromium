@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android mouse cursor overlay controller implementation
+// summary: Implements the Android mouse cursor overlay controller, observing Android mouse events via ViewAndroid and rendering the cursor for screen sharing.
+// ---
+
 #include "content/browser/media/capture/mouse_cursor_overlay_controller.h"
 
 #include <utility>

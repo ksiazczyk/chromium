@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaStreamWebContentsObserver class declaration
+// summary: Declares a WebContentsObserver that runs a caller-supplied focus callback when the observed WebContents becomes focused.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_MEDIA_STREAM_WEB_CONTENTS_OBSERVER_H_
 #define CONTENT_BROWSER_MEDIA_MEDIA_STREAM_WEB_CONTENTS_OBSERVER_H_
 

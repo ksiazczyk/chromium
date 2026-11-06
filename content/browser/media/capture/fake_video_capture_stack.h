@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake video capture stack for browser tests (header)
+// summary: Declares FakeVideoCaptureStack, a test fake that provides a VideoFrameReceiver, a captured frame queue and log expectations for browser tests.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_CAPTURE_FAKE_VIDEO_CAPTURE_STACK_H_
 #define CONTENT_BROWSER_MEDIA_CAPTURE_FAKE_VIDEO_CAPTURE_STACK_H_
 

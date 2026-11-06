@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash desktop capturer implementation
+// summary: Implements a webrtc DesktopCapturer for ash-chrome that captures aura root window snapshots for a selected display.
+// ---
+
 #include "content/browser/media/capture/desktop_capturer_ash.h"
 
 #include "content/browser/media/capture/desktop_frame_skia.h"

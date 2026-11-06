@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media Capabilities browser tests
+// summary: Browser tests that verify MediaCapabilities decoding support results for audio and video configurations, including spatial audio, HDR metadata, color gamuts, and key systems.
+// ---
+
 #include <string>
 #include <string_view>
 

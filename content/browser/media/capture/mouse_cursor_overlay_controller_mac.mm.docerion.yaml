@@ -1,0 +1,4 @@
+# Docerion header of mouse_cursor_overlay_controller_mac.mm.
+type: source
+title: macOS mouse cursor overlay controller implementation
+summary: macOS implementation of the mouse cursor overlay controller that uses Cocoa tracking areas and event monitors to forward mouse positions during capture.

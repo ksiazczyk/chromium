@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: WebAudio browser directory owners
+summary: Points to the WebAudio renderer module OWNERS file so the same reviewers cover this browser-side directory.

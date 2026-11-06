@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media devices permission checker unit tests
+// summary: Unit tests covering media device permission checks under permissions policy headers, including microphone, camera, and speaker selection cases.
+// ---
+
 #include "content/browser/media/media_devices_permission_checker.h"
 
 #include "base/functional/bind.h"

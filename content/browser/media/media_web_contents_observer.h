@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaWebContentsObserver browser-side media manager header
+// summary: Declares MediaWebContentsObserver, the browser-side observer managing per-RenderFrame media managers and forwarding player IPCs, plus AudibilityBypassTracker for audio service bypass grants.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_MEDIA_WEB_CONTENTS_OBSERVER_H_
 #define CONTENT_BROWSER_MEDIA_MEDIA_WEB_CONTENTS_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSurface capture device base class declaration
+// summary: Declares IOSurfaceCaptureDeviceBase, a common base class for DesktopCaptureDeviceMac and ScreenCaptureKitDeviceMac that captures frames as IOSurfaces.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_CAPTURE_IO_SURFACE_CAPTURE_DEVICE_BASE_MAC_H_
 #define CONTENT_BROWSER_MEDIA_CAPTURE_IO_SURFACE_CAPTURE_DEVICE_BASE_MAC_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebContentsAutoScaler unit tests
+// summary: Unit tests verifying the scale override behavior of WebContentsAutoScaler across common screen resolutions, content size changes, and utilization feedback.
+// ---
+
 #include "content/browser/media/capture/web_contents_auto_scaler.h"
 
 #include <memory>

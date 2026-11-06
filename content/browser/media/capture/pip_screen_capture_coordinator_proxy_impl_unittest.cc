@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PipScreenCaptureCoordinatorProxyImpl unit tests
+// summary: Unit tests verifying WindowToExclude results when no PiP window exists, when captures are owned or unowned, and when no captures are active.
+// ---
+
 #include "content/browser/media/capture/pip_screen_capture_coordinator_proxy_impl.h"
 
 #include "base/unguessable_token.h"

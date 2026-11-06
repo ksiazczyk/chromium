@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAppSystemMediaControls implementation
+// summary: Implements the storage class holding the per-dPWA system media controls, notifier and session controller.
+// ---
+
 #include "content/browser/media/system_media_controls/web_app_system_media_controls.h"
 
 namespace content {

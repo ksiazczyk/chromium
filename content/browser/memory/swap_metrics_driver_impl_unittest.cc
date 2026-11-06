@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the swap metrics driver
+// summary: Unit tests for SwapMetricsDriverImpl using a mock driver with controllable failures and a delegate that counts metric callbacks, covering success and error paths.
+// ---
+
 #include "content/browser/memory/swap_metrics_driver_impl.h"
 
 #include <memory>

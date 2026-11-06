@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media keys listener manager implementation
+// summary: Implements the manager that routes hardware media key events to listeners and coordinates system media controls for the browser and web apps.
+// ---
+
 #include "content/browser/media/media_keys_listener_manager_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio stream monitor class declarations
+// summary: Declares AudioStreamMonitor, which maintains a recently-audible state for tab audio indicators and manages per-stream monitoring and audible clients.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_AUDIO_STREAM_MONITOR_H_
 #define CONTENT_BROWSER_MEDIA_AUDIO_STREAM_MONITOR_H_
 

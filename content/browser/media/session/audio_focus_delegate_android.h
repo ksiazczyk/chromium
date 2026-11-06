@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android audio focus delegate header
+// summary: Header for AudioFocusDelegateAndroid, which manages system-level audio focus on Android and proxies JNI suspend, resume and ducking calls.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_SESSION_AUDIO_FOCUS_DELEGATE_ANDROID_H_
 #define CONTENT_BROWSER_MEDIA_SESSION_AUDIO_FOCUS_DELEGATE_ANDROID_H_
 

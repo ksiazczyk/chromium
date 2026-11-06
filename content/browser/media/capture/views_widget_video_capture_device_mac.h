@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS views widget video capture device header
+// summary: Declares ViewsWidgetVideoCaptureDeviceMac, a FrameSinkVideoCaptureDevice that captures the displayed contents of a views::Widget on macOS.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_CAPTURE_VIEWS_WIDGET_VIDEO_CAPTURE_DEVICE_MAC_H_
 #define CONTENT_BROWSER_MEDIA_CAPTURE_VIEWS_WIDGET_VIDEO_CAPTURE_DEVICE_MAC_H_
 

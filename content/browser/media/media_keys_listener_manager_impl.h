@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media keys listener manager header
+// summary: Declares MediaKeysListenerManagerImpl, which decides which delegates receive media key events and owns the active media session controller and web app controls manager.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_MEDIA_KEYS_LISTENER_MANAGER_IMPL_H_
 #define CONTENT_BROWSER_MEDIA_MEDIA_KEYS_LISTENER_MANAGER_IMPL_H_
 

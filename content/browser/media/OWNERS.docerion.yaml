@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for content/browser/media
+summary: Lists code owners for the media browser directory with per-file ownership rules covering media devices, MIDI, media sessions, and CDM files.

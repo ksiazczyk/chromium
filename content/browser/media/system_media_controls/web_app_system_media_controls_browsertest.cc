@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app system media controls browser tests
+// summary: Browser tests verifying that system media controls are wired to and control the correct content window on Windows.
+// ---
+
 #include "content/browser/media/system_media_controls/web_app_system_media_controls.h"
 
 #include <optional>

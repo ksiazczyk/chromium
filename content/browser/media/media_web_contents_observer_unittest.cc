@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaWebContentsObserver unit tests
+// summary: Unit tests for MediaWebContentsObserver that use test media players to exercise player lifecycle, metadata, play and pause handling, and fullscreen status behavior.
+// ---
+
 #include "content/browser/media/media_web_contents_observer.h"
 
 #include <memory>

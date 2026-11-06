@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media session service routing unit tests
+// summary: Unit tests verifying how MediaSessionServiceImpl instances are routed to frames and how media session actions, metadata and player events propagate per render frame host.
+// ---
+
 #include <map>
 #include <memory>
 #include <string>

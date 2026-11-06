@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android key system support unit tests
+// summary: Unit tests verifying GetAndroidCdmCapability returns Widevine software and hardware secure capabilities and rejects unsupported key systems.
+// ---
+
 #include "content/browser/media/key_system_support_android.h"
 
 #include <optional>

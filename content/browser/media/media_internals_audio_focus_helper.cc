@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaInternals audio focus helper implementation
+// summary: Implements retrieval and serialization of audio focus state from the media session service for the media internals audio focus tab.
+// ---
+
 #include "content/browser/media/media_internals_audio_focus_helper.h"
 
 #include <algorithm>

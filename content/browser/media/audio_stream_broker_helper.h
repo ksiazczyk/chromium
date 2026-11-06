@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio stream broker helper declarations
+// summary: Declares paired functions that notify a render frame host of audio stream start and stop events, distinguishing capturing streams from playing audio.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_AUDIO_STREAM_BROKER_HELPER_H_
 #define CONTENT_BROWSER_MEDIA_AUDIO_STREAM_BROKER_HELPER_H_
 

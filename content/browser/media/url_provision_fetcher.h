@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL provision fetcher header
+// summary: Declares URLProvisionFetcher, a media::ProvisionFetcher that fetches CDM provisioning data via HTTP POST using the network service's SimpleURLLoader.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_URL_PROVISION_FETCHER_H_
 #define CONTENT_BROWSER_MEDIA_URL_PROVISION_FETCHER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of mouse_cursor_overlay_controller_mac_unittest.mm.
+type: test
+title: macOS mouse cursor overlay controller unit tests
+summary: macOS unit tests for the mouse cursor overlay controller using mock windows and synthetic mouse events to verify captured cursor positions.

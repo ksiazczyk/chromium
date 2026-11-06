@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media suspend browser test
+// summary: Browser test verifying that forced suspend IPC messages suspend all media players and that suspended players resume playback after the frame is shown again.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/strings/utf_string_conversions.h"
 #include "content/browser/media/media_browsertest.h"

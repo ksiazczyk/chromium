@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM storage common definitions
+// summary: Implements the CdmFileId constructor and the histogram name helper shared by the CDM storage components.
+// ---
+
 #include "content/browser/media/cdm_storage_common.h"
 
 #include "base/strings/strcat.h"

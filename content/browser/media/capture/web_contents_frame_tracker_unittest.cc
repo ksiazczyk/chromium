@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebContentsFrameTracker unit tests
+// summary: Unit tests for WebContentsFrameTracker covering capture target updates, capturer counts, screen bounds, and scale override handling using test contexts and mock devices.
+// ---
+
 #include "content/browser/media/capture/web_contents_frame_tracker.h"
 
 #include "base/memory/raw_ptr.h"

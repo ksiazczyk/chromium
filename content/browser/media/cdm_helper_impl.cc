@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM helper implementation
+// summary: Implements CdmHelperImpl, which initializes a content decryption module for a key system and signs challenges on its behalf.
+// ---
+
 #include "content/browser/media/cdm_helper_impl.h"
 
 #include <memory>

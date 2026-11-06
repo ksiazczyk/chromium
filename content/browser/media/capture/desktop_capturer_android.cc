@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android desktop capturer implementation
+// summary: Implements the webrtc DesktopCapturer for Android, bridging to a Java ScreenCapture object over JNI and managing RGBA and I420 frame buffers.
+// ---
+
 #include "content/browser/media/capture/desktop_capturer_android.h"
 
 #include "base/android/callback_android.h"

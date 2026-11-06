@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaInterfaceProxy implementation
+// summary: Implements the per-frame media interface proxy that creates remote media and CDM components through the media and CDM services.
+// ---
+
 #include "content/browser/media/media_interface_proxy.h"
 
 #include <map>

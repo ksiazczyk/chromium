@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sub-capture target ID WebContents helper implementation
+// summary: Implements the WebContents helper that produces and tracks crop-target and restriction-target IDs for region and sub-capture, converting GUIDs to tokens.
+// ---
+
 #include "content/browser/media/capture/sub_capture_target_id_web_contents_helper.h"
 
 #include <algorithm>

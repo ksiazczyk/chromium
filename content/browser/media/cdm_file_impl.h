@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM file header
+// summary: Declares CdmFileImpl, which implements the media::mojom::CdmFile interface for CDM file operations routed through CdmStorageManager.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_CDM_FILE_IMPL_H_
 #define CONTENT_BROWSER_MEDIA_CDM_FILE_IMPL_H_
 

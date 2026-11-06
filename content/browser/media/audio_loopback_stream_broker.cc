@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio loopback stream broker implementation
+// summary: Implements the broker connecting a renderer to the audio service for loopback capture of output streams, including optional muting of the source.
+// ---
+
 #include "content/browser/media/audio_loopback_stream_broker.h"
 
 #include <utility>

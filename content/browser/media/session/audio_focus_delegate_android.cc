@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android audio focus delegate implementation
+// summary: Android implementation of AudioFocusDelegate that requests system audio focus over JNI and can defer gain requests until the tab is audible.
+// ---
+
 #include "content/browser/media/session/audio_focus_delegate_android.h"
 
 #include "base/android/jni_android.h"

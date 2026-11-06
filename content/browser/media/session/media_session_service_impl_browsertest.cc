@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media session service browser tests
+// summary: Browser tests for the media session service, covering playback state, metadata, and WebRTC media session setup.
+// ---
+
 #include "content/browser/media/session/media_session_service_impl.h"
 
 #include <memory>

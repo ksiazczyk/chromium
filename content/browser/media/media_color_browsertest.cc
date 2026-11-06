@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media color browser tests
+// summary: Browser tests that play videos in various pixel formats and codecs such as VP8, VP9, AV1, and H264, checking color rendering through pixel output.
+// ---
+
 #include "build/build_config.h"
 #include "content/browser/media/media_browsertest.h"
 #include "content/public/test/browser_test.h"

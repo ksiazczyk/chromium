@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake video capture stack for browser tests (implementation)
+// summary: Implements a fake video capture stack that receives frames from a capture device, converts them to SkBitmaps and records start, error and log events for browser tests.
+// ---
+
 #include "content/browser/media/capture/fake_video_capture_stack.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Swap metrics driver stub for Windows
+// summary: Windows factory stub whose SwapMetricsDriver::Create returns nullptr because swap rate measurement is not available on Windows.
+// ---
+
 #include "content/public/browser/swap_metrics_driver.h"
 
 #include <memory>

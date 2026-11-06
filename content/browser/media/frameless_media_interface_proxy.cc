@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FramelessMediaInterfaceProxy implementation
+// summary: Implements the media InterfaceFactory proxy for render processes without a frame context, forwarding decoder and encoder creation to the media service.
+// ---
+
 #include "content/browser/media/frameless_media_interface_proxy.h"
 
 #include <tuple>

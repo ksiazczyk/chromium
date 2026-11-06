@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop media ID parsing unit tests
+// summary: Tests parsing and string conversion of DesktopMediaID values, covering platform native and native picker session identifiers plus invalid input.
+// ---
+
 #include "content/public/browser/desktop_media_id.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

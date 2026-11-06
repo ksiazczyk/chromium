@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media redirect browser tests
+// summary: Browser tests checking that WebMediaPlayer implementations choose the right playback engine for media served through an HTTP redirect with an unknown extension.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/strings/string_util.h"
 #include "build/build_config.h"

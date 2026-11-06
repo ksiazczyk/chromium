@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media metadata sanitizer implementation
+// summary: Implements sanity checks for media metadata sent over IPC, limiting string lengths, artwork and chapter counts, and media image sizes.
+// ---
+
 #include "content/browser/media/session/media_metadata_sanitizer.h"
 
 #include <algorithm>

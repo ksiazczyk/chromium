@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Captured Surface Controller header
+// summary: Declares CapturedSurfaceController, which sends wheel actions and updates zoom levels on the captured tab, tracking captured surface info.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_CAPTURED_SURFACE_CONTROLLER_H_
 #define CONTENT_BROWSER_MEDIA_CAPTURED_SURFACE_CONTROLLER_H_
 

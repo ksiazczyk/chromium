@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Captured Surface Controller unit tests
+// summary: Unit tests for CapturedSurfaceController covering wheel event delivery, zoom level actions, and permission requests for captured surfaces.
+// ---
+
 #include "content/browser/media/captured_surface_controller.h"
 
 #include <limits>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CDM storage manager unit tests
+// summary: Tests CdmStorageManager file open, read, and write flows over mojo for both incognito in-memory and persistent database modes.
+// ---
+
 #include "content/browser/media/cdm_storage_manager.h"
 
 #include <string>

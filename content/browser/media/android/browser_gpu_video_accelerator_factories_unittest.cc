@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BrowserGpuVideoAcceleratorFactories
+// summary: Unit tests the browser GPU video accelerator factories using a mocked GPU channel host and command buffer context provider.
+// ---
+
 #include "content/browser/media/android/browser_gpu_video_accelerator_factories.h"
 
 #include <memory>

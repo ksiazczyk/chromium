@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MIDI browser tests
+// summary: Browser tests verifying Web MIDI page access, including the kBlockMidiByDefault feature and platform-dependent initialization behavior over an HTTPS test server.
+// ---
+
 #include "base/strings/utf_string_conversions.h"
 #include "base/test/scoped_feature_list.h"
 #include "build/build_config.h"

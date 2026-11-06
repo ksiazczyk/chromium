@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Out-of-process video decoder factory
+// summary: Implements the out-of-process video decoder factory that launches utility processes hosting a media InterfaceFactory once GPU feature info becomes available.
+// ---
+
 #include "content/public/browser/oop_video_decoder_factory.h"
 
 #include <utility>

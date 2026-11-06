@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android desktop capturer unit tests
+// summary: Unit tests for DesktopCapturerAndroid using a mocked JNI interface to verify frame capture, dirty region handling, and start failure behavior.
+// ---
+
 #include "content/browser/media/capture/desktop_capturer_android.h"
 
 #include <memory>

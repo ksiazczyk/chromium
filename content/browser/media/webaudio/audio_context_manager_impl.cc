@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioContextManagerImpl implementation
+// summary: Implements the browser-side mojo service that tracks audible playback durations and concurrent AudioContext counts, recording them to UKM and UMA histograms.
+// ---
+
 #include "content/browser/media/webaudio/audio_context_manager_impl.h"
 
 #include <utility>

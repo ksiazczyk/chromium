@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsFrameTracker header
+// summary: Declares WebContentsFrameTracker, a WebContentsObserver that notifies WebContentsVideoCaptureDevice whenever the frame sink or main render frame view changes.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_CAPTURE_WEB_CONTENTS_FRAME_TRACKER_H_
 #define CONTENT_BROWSER_MEDIA_CAPTURE_WEB_CONTENTS_FRAME_TRACKER_H_
 

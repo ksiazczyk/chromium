@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media devices utility unit tests
+// summary: Unit tests for translating media device info with and without permission, including special default and communications device IDs.
+// ---
+
 #include "content/browser/media/media_devices_util.h"
 
 #include "media/audio/audio_device_description.h"

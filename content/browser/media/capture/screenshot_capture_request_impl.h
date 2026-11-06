@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screenshot capture request header
+// summary: Declares the factory for creating screenshot capture requests plus test hooks for injecting a custom desktop capturer and native screen capture picker callback.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_CAPTURE_SCREENSHOT_CAPTURE_REQUEST_IMPL_H_
 #define CONTENT_BROWSER_MEDIA_CAPTURE_SCREENSHOT_CAPTURE_REQUEST_IMPL_H_
 

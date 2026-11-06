@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaPlayersCallbackAggregator unit tests
+// summary: Unit tests for the callback aggregator, using a fake media session to simulate asynchronous visibility callbacks from multiple players.
+// ---
+
 #include "content/browser/media/session/media_players_callback_aggregator.h"
 
 #include "base/run_loop.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PiP screen capture coordinator implementation
+// summary: Concrete implementation of the picture-in-picture screen capture coordinator that manages PiP window exclusion and registered capture sessions.
+// ---
+
 #include "content/browser/media/capture/pip_screen_capture_coordinator_impl.h"
 
 #include "base/feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screenshot capture request implementation
+// summary: Implements the screenshot capture request factory, running a webrtc desktop capturer on a background thread and returning the captured frame as an SkBitmap.
+// ---
+
 #include "content/browser/media/capture/screenshot_capture_request_impl.h"
 
 #include <utility>

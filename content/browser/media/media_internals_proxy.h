@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaInternalsProxy class declaration
+// summary: Declares a ref-counted proxy that bridges MediaInternals on the IO thread and the UI-thread message handler, relaying media internals updates between them.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_MEDIA_INTERNALS_PROXY_H_
 #define CONTENT_BROWSER_MEDIA_MEDIA_INTERNALS_PROXY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaSessionServiceImpl class declaration
+// summary: Declares MediaSessionServiceImpl, the per-frame blink MediaSessionService receiver that tracks playback state, metadata, actions and camera or microphone state.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_SESSION_MEDIA_SESSION_SERVICE_IMPL_H_
 #define CONTENT_BROWSER_MEDIA_SESSION_MEDIA_SESSION_SERVICE_IMPL_H_
 

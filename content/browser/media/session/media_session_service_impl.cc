@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaSessionServiceImpl implementation
+// summary: Implements the per-frame MediaSessionService mojo interface, validating and sanitizing renderer-supplied metadata before updating MediaSessionImpl.
+// ---
+
 #include "content/browser/media/session/media_session_service_impl.h"
 
 #include <memory>

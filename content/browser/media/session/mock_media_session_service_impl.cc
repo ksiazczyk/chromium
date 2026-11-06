@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock media session service implementation
+// summary: Implements mock media session service and client classes that bind a mock client for testing.
+// ---
+
 #include "content/browser/media/session/mock_media_session_service_impl.h"
 
 namespace content {

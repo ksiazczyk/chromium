@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContents auto scaler for capture scale
+// summary: Implements the auto scaler that adjusts the capture scale override for captured web contents based on content size and video capture feedback.
+// ---
+
 #include "content/browser/media/capture/web_contents_auto_scaler.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM helper header
+// summary: Declares CdmHelperImpl, a CdmHelper that initializes a CDM, sets server certificates, and signs challenges via a Mojo CDM connection.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_CDM_HELPER_IMPL_H_
 #define CONTENT_BROWSER_MEDIA_CDM_HELPER_IMPL_H_
 

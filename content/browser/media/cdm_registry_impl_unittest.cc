@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CDM registry implementation unit tests
+// summary: Unit tests for CdmRegistryImpl covering CDM registration, key system capability reporting, and hardware secure CDM status handling.
+// ---
+
 
 #include "content/browser/media/cdm_registry_impl.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaSessionAndroid JNI bridge implementation
+// summary: Implements the Android bridge that forwards native media session events such as info, metadata, actions, and images to the Java MediaSession.
+// ---
+
 #include "content/browser/media/session/media_session_android.h"
 
 #include <utility>

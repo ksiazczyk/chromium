@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaDevicesPermissionChecker class declaration
+// summary: Declares a checker that reports whether a render frame may access media device types, without prompting the user to request permission.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_MEDIA_DEVICES_PERMISSION_CHECKER_H_
 #define CONTENT_BROWSER_MEDIA_MEDIA_DEVICES_PERMISSION_CHECKER_H_
 

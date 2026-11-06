@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaSession browser integration tests
+// summary: Browser tests for content::MediaSession covering media images and playback behavior without depending on MediaSessionImpl implementation details.
+// ---
+
 #include "content/public/browser/media_session.h"
 
 #include <optional>

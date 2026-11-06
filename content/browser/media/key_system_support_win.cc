@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows key system support implementation
+// summary: Queries the Media Foundation service for software or hardware secure CDM capabilities of a key system on Windows.
+// ---
+
 #include "content/browser/media/key_system_support_win.h"
 
 #include "base/logging.h"

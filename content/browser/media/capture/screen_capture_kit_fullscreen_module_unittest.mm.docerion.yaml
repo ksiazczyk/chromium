@@ -1,0 +1,4 @@
+# Docerion header of screen_capture_kit_fullscreen_module_unittest.mm.
+type: test
+title: ScreenCaptureKit fullscreen module unit tests
+summary: Unit tests for the ScreenCaptureKit fullscreen module, simulating windows from PowerPoint, Keynote, OpenOffice and other applications to verify mode detection.

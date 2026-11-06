@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System media controls notifier implementation
+// summary: Implements the notifier that observes media session changes and updates the OS system media controls.
+// ---
+
 #include "content/browser/media/system_media_controls/system_media_controls_notifier.h"
 
 #include <memory>

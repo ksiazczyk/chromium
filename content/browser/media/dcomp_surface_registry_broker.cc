@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DCOMP surface registry broker implementation
+// summary: Forwards DCOMP surface handle registration and unregistration requests from the Media Foundation utility process to the GPU process.
+// ---
+
 #include "content/browser/media/dcomp_surface_registry_broker.h"
 
 #include "base/logging.h"

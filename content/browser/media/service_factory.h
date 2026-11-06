@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media service factory header
+// summary: Declares functions to obtain and reset cached CdmService and MediaFoundationService instances keyed by browser context, site, and CDM information.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_SERVICE_FACTORY_H_
 #define CONTENT_BROWSER_MEDIA_SERVICE_FACTORY_H_
 

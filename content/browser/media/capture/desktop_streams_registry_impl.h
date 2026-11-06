@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop streams registry implementation header
+// summary: Declares DesktopStreamsRegistryImpl, a singleton registry that registers and resolves approved desktop media streams by ID, origin, type and render process or frame.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_CAPTURE_DESKTOP_STREAMS_REGISTRY_IMPL_H_
 #define CONTENT_BROWSER_MEDIA_CAPTURE_DESKTOP_STREAMS_REGISTRY_IMPL_H_
 

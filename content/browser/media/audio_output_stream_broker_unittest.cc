@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio output stream broker unit tests
+// summary: Unit tests for AudioOutputStreamBroker covering stream creation, device switching, disconnect reasons, and cleanup using mock clients and factories.
+// ---
+
 #include "content/browser/media/audio_output_stream_broker.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesktopMediaWindowRegistry interface
+// summary: Declares the interface for registering native windows for desktop media capture and looking them up by DesktopMediaID.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_DESKTOP_MEDIA_WINDOW_REGISTRY_H_
 #define CONTENT_BROWSER_MEDIA_DESKTOP_MEDIA_WINDOW_REGISTRY_H_
 

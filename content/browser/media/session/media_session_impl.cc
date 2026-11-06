@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaSessionImpl implementation
+// summary: Implements the per-WebContents media session, handling audio focus requests, ducking, metadata, playback state and browser-initiated auto picture-in-picture.
+// ---
+
 #include "content/browser/media/session/media_session_impl.h"
 
 #include <algorithm>

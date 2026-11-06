@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture handle manager implementation
+// summary: Implements CaptureHandleManager, which builds CaptureHandle information for tab and window capture sessions and observes its changes.
+// ---
+
 #include "content/browser/media/capture_handle_manager.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaSessionController implementation
+// summary: Implements per-player media session control, forwarding commands like pause, resume, seek, volume, and picture-in-picture to the renderer player.
+// ---
+
 #include "content/browser/media/session/media_session_controller.h"
 
 #include "content/browser/media/media_devices_util.h"

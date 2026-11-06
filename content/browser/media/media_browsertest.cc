@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media browser test base implementation
+// summary: Implements the MediaBrowserTest base class that runs media HTML test pages with configured features and verifies expected document titles.
+// ---
+
 #include "content/browser/media/media_browsertest.h"
 
 #include <memory>

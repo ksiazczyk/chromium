@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaSessionImpl browser tests
+// summary: Browser tests for MediaSessionImpl covering audio focus, ducking, metadata, UKM metrics, back-forward cache and prerendering interactions.
+// ---
+
 #include "content/browser/media/session/media_session_impl.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaInterfaceProxy class header
+// summary: Declares MediaInterfaceProxy, which implements media::mojom::InterfaceFactory for a RenderFrameHost to create remote media components.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_MEDIA_INTERFACE_PROXY_H_
 #define CONTENT_BROWSER_MEDIA_MEDIA_INTERFACE_PROXY_H_
 

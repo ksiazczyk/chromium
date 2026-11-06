@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM file implementation
+// summary: Implements the media::mojom::CdmFile interface for reading, writing, and deleting CDM storage files with name validation and UMA reporting.
+// ---
+
 #include "content/browser/media/cdm_file_impl.h"
 
 #include <utility>

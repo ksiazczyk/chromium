@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PiP screen capture coordinator interface
+// summary: Interface that tracks document picture-in-picture windows for a WebContents so they can be excluded from screen captures of the originating tab.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_CAPTURE_PIP_SCREEN_CAPTURE_COORDINATOR_H_
 #define CONTENT_BROWSER_MEDIA_CAPTURE_PIP_SCREEN_CAPTURE_COORDINATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudibleMetrics unit tests
+// summary: Verifies AudibleMetrics histogram recording for audible WebContents using test web contents, a fake tick clock, and histogram testers.
+// ---
+
 #include "content/browser/media/audible_metrics.h"
 
 #include "base/metrics/histogram_samples.h"

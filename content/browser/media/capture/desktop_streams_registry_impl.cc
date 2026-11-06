@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop streams registry implementation
+// summary: Implements the browser-side registry of approved desktop media streams, generating random stream IDs with origin checks and a short time to live.
+// ---
+
 #include "content/browser/media/capture/desktop_streams_registry_impl.h"
 
 #include "base/base64.h"

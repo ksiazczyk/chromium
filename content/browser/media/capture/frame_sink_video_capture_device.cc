@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame sink video capture device implementation
+// summary: Implements a virtual capture device that proxies composited frame sink contents, such as a WebContents view, from the VIZ service into the video capture stack.
+// ---
+
 #include "content/browser/media/capture/frame_sink_video_capture_device.h"
 
 #include <optional>

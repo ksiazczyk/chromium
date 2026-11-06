@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebContentsVideoCaptureDevice browser tests
+// summary: Browser tests for WebContentsVideoCaptureDevice that verify captured frame content, including waiting for frames with expected colors and handling cross-process frame damage.
+// ---
+
 #include "content/browser/media/capture/web_contents_video_capture_device.h"
 
 #include <optional>

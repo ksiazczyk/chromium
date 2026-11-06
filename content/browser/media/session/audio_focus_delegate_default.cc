@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default audio focus delegate implementation
+// summary: Default AudioFocusDelegate implementation that manages audio focus between WebContents through the Media Session service with group id support.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "content/browser/media/session/audio_focus_delegate.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MidiHost implementation
+// summary: Implements the browser-side MidiHost that starts MIDI sessions for renderers, validates and queues MIDI data, and enforces in-flight byte limits toward the OS.
+// ---
+
 #include "content/browser/media/midi_host.h"
 
 #include <algorithm>

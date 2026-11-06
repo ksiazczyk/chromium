@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media stream WebContents observer implementation
+// summary: Implements MediaStreamWebContentsObserver, which invokes a registered callback whenever the observed WebContents gains focus on the UI thread.
+// ---
+
 #include "content/browser/media/media_stream_web_contents_observer.h"
 
 #include <string>

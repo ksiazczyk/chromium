@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemMediaControlsNotifier class declaration
+// summary: Declares the class that keeps SystemMediaControls informed of media playback state and metadata.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_SYSTEM_MEDIA_CONTROLS_SYSTEM_MEDIA_CONTROLS_NOTIFIER_H_
 #define CONTENT_BROWSER_MEDIA_SYSTEM_MEDIA_CONTROLS_SYSTEM_MEDIA_CONTROLS_NOTIFIER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser tests for aura window video capture
+// summary: Browser tests verifying captured frames of aura windows, checking content colors, letterboxing and window regions.
+// ---
+
 #include "content/browser/media/capture/aura_window_video_capture_device.h"
 
 #include <tuple>

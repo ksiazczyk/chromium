@@ -1,0 +1,4 @@
+# Docerion header of desktop_capture_util_mac_unittest.mm.
+type: test
+title: Mac desktop capture utility unit tests
+summary: Unit tests for the macOS desktop capture utility, mocking NSRunningApplication and the video capture provider to exercise application audio capture behavior.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia-backed desktop frame class declaration
+// summary: Declares DesktopFrameSkia, an SkBitmap-backed webrtc DesktopFrame subclass that lets the encoder retain the bitmap buffer without copying pixels.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_CAPTURE_DESKTOP_FRAME_SKIA_H_
 #define CONTENT_BROWSER_MEDIA_CAPTURE_DESKTOP_FRAME_SKIA_H_
 

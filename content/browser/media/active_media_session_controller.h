@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActiveMediaSessionController class declaration
+// summary: Declares ActiveMediaSessionController, which intakes media events such as key presses and OS controls to drive a media session.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_ACTIVE_MEDIA_SESSION_CONTROLLER_H_
 #define CONTENT_BROWSER_MEDIA_ACTIVE_MEDIA_SESSION_CONTROLLER_H_
 

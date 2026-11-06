@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media internals WebUI message handler header
+// summary: Declares MediaInternalsMessageHandler, the WebUIMessageHandler that relays messages between the media-internals UI and a MediaInternalsProxy.
+// ---
+
 #ifndef CONTENT_BROWSER_MEDIA_MEDIA_INTERNALS_HANDLER_H_
 #define CONTENT_BROWSER_MEDIA_MEDIA_INTERNALS_HANDLER_H_
 

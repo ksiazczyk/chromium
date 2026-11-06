@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CanPlayType codec support browser tests
+// summary: Browser tests checking canPlayType support for codecs such as AV1, WAV, WebM, Ogg, FLAC, MP3, MP4, and AVC variants across build configurations.
+// ---
+
 #include <string>
 
 #include "base/command_line.h"
