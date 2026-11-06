@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Gaia test server implementation
+// summary: Implements a fake Gaia server that serves canned authentication responses, tokens, and cookies for tests.
+// ---
+
 #include "google_apis/gaia/fake_gaia.h"
 
 #include <algorithm>

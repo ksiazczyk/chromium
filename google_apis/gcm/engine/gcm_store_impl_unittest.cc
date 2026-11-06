@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GCM store implementation unit tests
+// summary: Unit tests for GCMStoreImpl covering loading, registrations, incoming and outgoing message persistence, and store destruction.
+// ---
+
 #include "google_apis/gcm/engine/gcm_store_impl.h"
 
 #include <stdint.h>

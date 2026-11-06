@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definitions for the gpu directory
+summary: Defines GN configs, components such as gpu, gles2, raster and webgpu, and a test_support target for Chromium's GPU code.

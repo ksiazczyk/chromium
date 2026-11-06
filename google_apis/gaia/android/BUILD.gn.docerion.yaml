@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Gaia Android Java library
+summary: Defines the android_library target for Gaia account Java classes (CoreAccountId, GaiaId, GoogleServiceAuthError) plus JNI header and Java enum generation targets.

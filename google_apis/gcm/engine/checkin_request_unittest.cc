@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Checkin request unit tests
+// summary: Unit tests for GCM check-in requests covering valid responses and scenarios with missing or zero Android IDs and security tokens.
+// ---
+
 #include "google_apis/gcm/engine/checkin_request.h"
 
 #include <stdint.h>

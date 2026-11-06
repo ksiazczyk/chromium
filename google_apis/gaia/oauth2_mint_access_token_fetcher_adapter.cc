@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth2 mint access token fetcher adapter implementation
+// summary: Implements the adapter that runs OAuth2MintTokenFlow to mint access tokens, recording auth and encryption error metrics.
+// ---
+
 #include "google_apis/gaia/oauth2_mint_access_token_fetcher_adapter.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of CHROMIUM_resize.txt.
+type: reference
+title: CHROMIUM_resize GL extension specification
+summary: Specifies the GL_CHROMIUM_resize extension for dynamically resizing the output surface with dimensions, scale factor, color space, and alpha settings.

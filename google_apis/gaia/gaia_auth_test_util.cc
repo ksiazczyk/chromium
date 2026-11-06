@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gaia auth test utilities implementation
+// summary: Implements helpers for Gaia authentication tests, such as generating OAuth2 mint token consent results and fake binary ListAccounts responses.
+// ---
+
 #include "google_apis/gaia/gaia_auth_test_util.h"
 
 #include <memory>

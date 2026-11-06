@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeEncryptor class header
+// summary: Declares FakeEncryptor, a test-only Encryptor that base64-encodes plaintext to obtain the ciphertext.
+// ---
+
 #ifndef GOOGLE_APIS_GCM_BASE_FAKE_ENCRYPTOR_H_
 #define GOOGLE_APIS_GCM_BASE_FAKE_ENCRYPTOR_H_
 

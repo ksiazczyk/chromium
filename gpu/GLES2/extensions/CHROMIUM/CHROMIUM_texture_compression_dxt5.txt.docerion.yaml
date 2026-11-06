@@ -1,0 +1,4 @@
+# Docerion header of CHROMIUM_texture_compression_dxt5.txt.
+type: reference
+title: CHROMIUM_texture_compression_dxt5
+summary: Specification for the GL_CHROMIUM_texture_compression_dxt5 extension, adding DXT5 compressed RGBA texture format support to OpenGL ES 2.0.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeOAuth2TokenResponse implementation
+// summary: Implements the fake OAuth2 token response builder, mapping OAuth2 errors to JSON bodies, HTTP status codes and network errors for test endpoints.
+// ---
+
 #include "google_apis/gaia/fake_oauth2_token_response.h"
 
 #include <string>

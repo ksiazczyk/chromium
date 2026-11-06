@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: YouTube Music API response type declarations
+// summary: Declares response model classes like Image, Owner, Playlist, MusicRecommendation, and MusicSection parsed from API JSON.
+// ---
+
 #ifndef GOOGLE_APIS_YOUTUBE_MUSIC_YOUTUBE_MUSIC_API_RESPONSE_TYPES_H_
 #define GOOGLE_APIS_YOUTUBE_MUSIC_YOUTUBE_MUSIC_API_RESPONSE_TYPES_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of event_with_invalid_conference_data_uri.json.
+type: test
+title: Event with invalid conference data URI test fixture
+summary: Sample events response with a conference entry point whose URI is malformed, used to test handling of invalid conference data.

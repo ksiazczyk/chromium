@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake GCM connection handler interface
+// summary: Declares FakeConnectionHandler, a test double that can receive messages arbitrarily and check expectations for outgoing messages.
+// ---
+
 #ifndef GOOGLE_APIS_GCM_ENGINE_FAKE_CONNECTION_HANDLER_H_
 #define GOOGLE_APIS_GCM_ENGINE_FAKE_CONNECTION_HANDLER_H_
 

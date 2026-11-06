@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake GCM connection handler implementation
+// summary: Implements a fake ConnectionHandler that verifies expected outgoing messages, injects incoming messages and can simulate login or send failures in tests.
+// ---
+
 #include "google_apis/gcm/engine/fake_connection_handler.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connection handler interface
+// summary: Interface for performing the MCS protocol handshake and sending or receiving protobuf messages over data pipe streams.
+// ---
+
 #ifndef GOOGLE_APIS_GCM_ENGINE_CONNECTION_HANDLER_H_
 #define GOOGLE_APIS_GCM_ENGINE_CONNECTION_HANDLER_H_
 

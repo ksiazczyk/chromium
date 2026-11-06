@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU GLES2 component export macros
+// summary: Defines the GPU_GLES2_EXPORT macro that controls shared library symbol import and export for the GLES2 GPU component in component builds.
+// ---
+
 #ifndef GPU_GPU_GLES2_EXPORT_H_
 #define GPU_GPU_GLES2_EXPORT_H_
 

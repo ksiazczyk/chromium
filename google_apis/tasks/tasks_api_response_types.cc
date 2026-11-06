@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tasks API response types implementation
+// summary: Implements JSON conversion for Tasks API response objects such as task lists, tasks, links, and assignment info.
+// ---
+
 #include "google_apis/tasks/tasks_api_response_types.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Gaia auth utilities
+// summary: Tests the Gaia utility functions, including email canonicalization, sanitization, domain extraction, and binary ListAccounts data parsing.
+// ---
+
 #include "google_apis/gaia/gaia_auth_util.h"
 
 #include "base/base64.h"

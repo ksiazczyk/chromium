@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Instance ID delete token request handler implementation
+// summary: Implements the InstanceID DeleteToken request handler that builds the form-encoded unregistration request body and parses the server response for success.
+// ---
+
 #include "google_apis/gcm/engine/instance_id_delete_token_request_handler.h"
 
 #include "base/check.h"

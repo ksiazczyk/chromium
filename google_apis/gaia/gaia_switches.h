@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GAIA command-line switch declarations
+// summary: Declares GAIA-related command-line switches for overriding Google, GAIA and OAuth endpoint URLs and for supplying test OAuth2 client credentials.
+// ---
+
 #ifndef GOOGLE_APIS_GAIA_GAIA_SWITCHES_H_
 #define GOOGLE_APIS_GAIA_GAIA_SWITCHES_H_
 

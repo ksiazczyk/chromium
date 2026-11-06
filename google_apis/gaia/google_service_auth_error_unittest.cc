@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GoogleServiceAuthError unit tests
+// summary: Unit tests for GoogleServiceAuthError verifying factory methods, error states, transient versus persistent classification, and Android conversion.
+// ---
+
 #include "google_apis/gaia/google_service_auth_error.h"
 
 #include <memory>

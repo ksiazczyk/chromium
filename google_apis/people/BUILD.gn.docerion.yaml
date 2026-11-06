@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the People API library
+summary: GN build file that defines the people static library with its request and response sources plus a test-only source set for the unit tests.

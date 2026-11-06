@@ -1,0 +1,4 @@
+# Docerion header of gaia_id_ios.mm.
+type: source
+title: iOS GaiaId NSString conversions
+summary: Implements the iOS-specific GaiaId constructor from NSString and conversion back to NSString using base string conversion utilities.

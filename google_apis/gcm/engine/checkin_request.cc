@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Checkin request implementation
+// summary: Implements GCM check-in requests, sending device credentials as protobuf over HTTP with backoff retries and recording request status for UMA and stats.
+// ---
+
 #include "google_apis/gcm/engine/checkin_request.h"
 
 #include <optional>

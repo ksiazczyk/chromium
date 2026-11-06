@@ -1,0 +1,4 @@
+# Docerion header of CHROMIUM_shared_image.txt.
+type: reference
+title: CHROMIUM_shared_image GL extension specification
+summary: Specifies the GL_CHROMIUM_shared_image extension for importing Chromium SharedImage data into GL textures and managing direct access scopes.

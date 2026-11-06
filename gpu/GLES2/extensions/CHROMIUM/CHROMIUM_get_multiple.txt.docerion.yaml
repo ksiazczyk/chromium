@@ -1,0 +1,4 @@
+# Docerion header of CHROMIUM_get_multiple.txt.
+type: reference
+title: CHROMIUM_get_multiple GL extension specification
+summary: Specifies the GL_CHROMIUM_get_multiple extension for querying multiple program attributes and uniforms in a single call via GetProgramInfoCHROMIUM.

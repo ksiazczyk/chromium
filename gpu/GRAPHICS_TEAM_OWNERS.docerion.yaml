@@ -1,0 +1,4 @@
+# Docerion header of GRAPHICS_TEAM_OWNERS.
+type: config
+title: Chrome Graphics team owner list
+summary: Enumerates Chrome Graphics team members across GPU, ANGLE, Canvas, Metrics, Platforms, 3D Web and Skia subteams for ownership.

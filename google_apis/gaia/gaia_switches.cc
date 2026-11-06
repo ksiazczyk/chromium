@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GAIA command-line switch definitions
+// summary: Defines the command-line switch name constants for overriding GAIA and Google endpoint URLs plus OAuth2 client id and secret values.
+// ---
+
 #include "google_apis/gaia/gaia_switches.h"
 
 namespace switches {

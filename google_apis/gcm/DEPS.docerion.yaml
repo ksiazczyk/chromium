@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the GCM directory
+summary: Lists allowed include directories such as base, net, leveldatabase, and services/network so checkdeps.py can validate GCM dependencies.

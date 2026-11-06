@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GaiaAuthConsumer callback interface
+// summary: Defines the GaiaAuthConsumer interface with callbacks for GaiaAuthFetcher results such as OAuth success, token revocation, multilogin and reauth proof tokens.
+// ---
+
 #ifndef GOOGLE_APIS_GAIA_GAIA_AUTH_CONSUMER_H_
 #define GOOGLE_APIS_GAIA_GAIA_AUTH_CONSUMER_H_
 

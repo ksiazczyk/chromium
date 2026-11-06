@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common issue tracker metadata for gpu
+summary: Maps the gpu directory to the Internals>GPU>Internals Monorail component and a public Buganizer component ID.

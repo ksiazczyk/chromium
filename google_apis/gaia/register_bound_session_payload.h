@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bound session registration payload declarations
+// summary: Declares the RegisterBoundSessionPayload struct with scopes, credentials, parser errors, and a ParseFromJson helper for DBSC prototype and standard formats.
+// ---
+
 #ifndef GOOGLE_APIS_GAIA_REGISTER_BOUND_SESSION_PAYLOAD_H_
 #define GOOGLE_APIS_GAIA_REGISTER_BOUND_SESSION_PAYLOAD_H_
 

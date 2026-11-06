@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gaia authentication utility declarations
+// summary: Declares Gaia helper functions and structs like ListedAccount for email canonicalization, binary ListAccounts parsing, and Gaia origin checks.
+// ---
+
 #ifndef GOOGLE_APIS_GAIA_GAIA_AUTH_UTIL_H_
 #define GOOGLE_APIS_GAIA_GAIA_AUTH_UTIL_H_
 

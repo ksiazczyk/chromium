@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Heartbeat manager unit tests
+// summary: Unit tests for the heartbeat manager covering initialization, heartbeat sending and acking, missed heartbeat checks, and reconnect triggering via a test subclass.
+// ---
+
 #include "google_apis/gcm/engine/heartbeat_manager.h"
 
 #include <memory>

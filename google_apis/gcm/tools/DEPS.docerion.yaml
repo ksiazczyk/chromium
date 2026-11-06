@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for GCM tools
+summary: Specifies allowed include dependencies for the google_apis/gcm/tools directory, granting access to mojo/core/embedder.

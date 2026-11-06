@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Tasks API request URL generators
+// summary: Builds Google Tasks API request URLs for listing task lists and tasks, patching tasks, and inserting tasks, adding query parameters for paging and filtering.
+// ---
+
 #include "google_apis/tasks/tasks_api_url_generator_utils.h"
 
 #include <optional>

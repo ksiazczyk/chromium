@@ -4,6 +4,12 @@
 
 // This file contains Chromium-specific GLES2 extensions declarations.
 
+// ---docerion
+// type: source
+// title: Chromium GLES2 extensions header
+// summary: Declares Chromium-specific GLES2 extensions such as texture mailbox, pixel transfer buffer objects, buffer and texture mapping, descheduling, and extension requests, with constants and function prototypes.
+// ---
+
 #ifndef GPU_GLES2_GL2EXTCHROMIUM_H_
 #define GPU_GLES2_GL2EXTCHROMIUM_H_
 

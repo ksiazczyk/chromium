@@ -4,6 +4,12 @@
 //
 // A complete set of unit tests for OAuth2MintTokenFlow.
 
+// ---docerion
+// type: test
+// title: OAuth2 mint token flow unit tests
+// summary: Comprehensive unit tests for OAuth2MintTokenFlow covering token responses, remote consent, error handling, and metrics.
+// ---
+
 #include "google_apis/gaia/oauth2_mint_token_flow.h"
 
 #include <memory>

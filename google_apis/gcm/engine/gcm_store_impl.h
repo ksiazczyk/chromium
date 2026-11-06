@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCMStoreImpl LevelDB-backed store declaration
+// summary: Declares GCMStoreImpl, the LevelDB-backed persistent store for GCM device credentials, registrations, messages and checkin data.
+// ---
+
 #ifndef GOOGLE_APIS_GCM_ENGINE_GCM_STORE_IMPL_H_
 #define GOOGLE_APIS_GCM_ENGINE_GCM_STORE_IMPL_H_
 

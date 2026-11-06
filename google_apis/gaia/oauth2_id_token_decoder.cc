@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth2 ID token decoder
+// summary: Decodes JWT ID tokens to extract service flags such as child account and advanced protection status.
+// ---
+
 #include "google_apis/gaia/oauth2_id_token_decoder.h"
 
 #include <algorithm>

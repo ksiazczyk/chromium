@@ -1,0 +1,4 @@
+# Docerion header of directory_entry.json.
+type: data
+title: Sample Drive API directory entry
+summary: Test fixture JSON of a Drive API file resource representing a newly created folder.

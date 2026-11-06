@@ -1,0 +1,4 @@
+# Docerion header of all_base_urls.json.
+type: test
+title: Test fixture with all base GAIA URLs
+summary: Test fixture JSON defining the complete set of base GAIA and Google API origin URLs, all pointing at example.com domains.

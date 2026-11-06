@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gaia auth test utilities declarations
+// summary: Declares test helpers for Gaia authentication, including fake ListAccounts response creation and platform-specific fake device management error details.
+// ---
+
 #ifndef GOOGLE_APIS_GAIA_GAIA_AUTH_TEST_UTIL_H_
 #define GOOGLE_APIS_GAIA_GAIA_AUTH_TEST_UTIL_H_
 

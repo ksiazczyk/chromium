@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS list for gpu/GLES2
+summary: Lists the Chromium developers responsible for reviewing changes in the gpu/GLES2 directory.

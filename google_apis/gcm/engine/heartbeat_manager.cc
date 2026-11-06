@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Heartbeat manager implementation
+// summary: Manages MCS connection heartbeats with network-dependent intervals, ack tracking and suspend/resume aware timers.
+// ---
+
 #include "google_apis/gcm/engine/heartbeat_manager.h"
 
 #include <utility>

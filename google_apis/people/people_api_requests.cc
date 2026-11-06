@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the People API create contact request
+// summary: Implements CreateContactRequest, building the createContact URL, serializing the contact payload as JSON and parsing the returned Person resource.
+// ---
+
 #include "google_apis/people/people_api_requests.h"
 
 #include <optional>

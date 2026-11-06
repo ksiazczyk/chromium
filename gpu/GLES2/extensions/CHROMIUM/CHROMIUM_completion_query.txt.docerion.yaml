@@ -1,0 +1,4 @@
+# Docerion header of CHROMIUM_completion_query.txt.
+type: reference
+title: CHROMIUM_completion_query extension specification
+summary: Specification of the GL_CHROMIUM_completion_query extension, which provides a cheap query for polling whether shader compilation or program linking has completed.

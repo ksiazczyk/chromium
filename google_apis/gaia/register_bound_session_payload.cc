@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bound session registration payload parser
+// summary: Implements JSON parsing of bound session registration payloads, covering scopes, credentials, and allowed refresh initiators with error reporting.
+// ---
+
 #include "google_apis/gaia/register_bound_session_payload.h"
 
 #include "base/types/expected_macros.h"

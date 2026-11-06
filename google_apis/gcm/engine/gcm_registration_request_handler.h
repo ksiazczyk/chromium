@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM registration request handler interface
+// summary: Declares the custom request handler used to obtain the registration ID for applications that want to use GCM.
+// ---
+
 #ifndef GOOGLE_APIS_GCM_ENGINE_GCM_REGISTRATION_REQUEST_HANDLER_H_
 #define GOOGLE_APIS_GCM_ENGINE_GCM_REGISTRATION_REQUEST_HANDLER_H_
 

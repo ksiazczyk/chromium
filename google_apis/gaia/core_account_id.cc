@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CoreAccountId implementation
+// summary: Implements the CoreAccountId identifier for GAIA accounts, including creation from Gaia IDs, robot emails, and Java conversions.
+// ---
+
 #include "google_apis/gaia/core_account_id.h"
 
 #include "base/check.h"

@@ -1,0 +1,4 @@
+# Docerion header of CHROMIUM_request_extension.txt.
+type: reference
+title: CHROMIUM_request_extension GL extension specification
+summary: Specifies the WebGL-only GL_CHROMIUM_request_extension extension for selectively enabling individual extensions on a context created with extensions disabled.

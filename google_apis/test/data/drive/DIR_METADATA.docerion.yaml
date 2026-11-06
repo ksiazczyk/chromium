@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the Drive test data directory
+summary: Directory metadata that mixes in the shared components/drive COMMON_METADATA settings for this test data folder.

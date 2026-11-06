@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MCS client class declaration
+// summary: Declares the MCSClient class responsible for reliably sending and receiving GCM messages over MCS, with state, message send status and callback definitions.
+// ---
+
 #ifndef GOOGLE_APIS_GCM_ENGINE_MCS_CLIENT_H_
 #define GOOGLE_APIS_GCM_ENGINE_MCS_CLIENT_H_
 

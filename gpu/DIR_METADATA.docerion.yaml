@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for gpu
+summary: Points the gpu directory metadata at the shared COMMON_METADATA mixin for issue tracker routing.

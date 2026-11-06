@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU component export macros
+// summary: Defines the GPU_EXPORT macro that controls shared library symbol import and export for the GPU component in component builds across platforms.
+// ---
+
 #ifndef GPU_GPU_EXPORT_H_
 #define GPU_GPU_EXPORT_H_
 

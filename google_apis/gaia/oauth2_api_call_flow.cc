@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth2ApiCallFlow implementation
+// summary: Implements the OAuth2ApiCallFlow state machine that issues authorized API calls with a Bearer access token over SimpleURLLoader.
+// ---
+
 #include "google_apis/gaia/oauth2_api_call_flow.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of CHROMIUM_sync_point.txt.
+type: reference
+title: CHROMIUM_sync_point
+summary: Specification for the GL_CHROMIUM_sync_point extension, which lets clients order operations between contexts using sync tokens with generate, verify, and wait commands.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM registration request handler implementation
+// summary: Builds the form-encoded sender list for GCM registration request bodies and reports registration status and net error codes to UMA histograms.
+// ---
+
 #include "google_apis/gcm/engine/gcm_registration_request_handler.h"
 
 #include "base/metrics/histogram_functions.h"

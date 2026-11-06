@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Registration request unit tests
+// summary: Unit tests for the GCM registration request, covering successful registration, retries, and error handling for both GCM and InstanceID token requests.
+// ---
+
 #include <stdint.h>
 
 #include <map>

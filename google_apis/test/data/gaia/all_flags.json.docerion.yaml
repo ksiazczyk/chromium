@@ -1,0 +1,4 @@
+# Docerion header of all_flags.json.
+type: test
+title: Test fixture enabling GAIA flags
+summary: Test fixture JSON setting GAIA-related feature flags, with issue token fetching enabled.

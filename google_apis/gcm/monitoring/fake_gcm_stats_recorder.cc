@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake GCM stats recorder implementation
+// summary: Implements FakeGCMStatsRecorder with empty no-op bodies for all GCM activity recording methods such as checkin, connection, registration and message events.
+// ---
+
 #include "google_apis/gcm/monitoring/fake_gcm_stats_recorder.h"
 
 namespace gcm {

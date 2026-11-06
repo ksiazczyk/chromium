@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM store LoadResult implementation
+// summary: Implements construction and reset of GCMStore::LoadResult, the container for state loaded from the persistent GCM store.
+// ---
+
 #include "google_apis/gcm/engine/gcm_store.h"
 
 namespace gcm {

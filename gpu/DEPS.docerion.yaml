@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for gpu dependencies
+summary: Lists allowed dependency includes for the gpu directory, covering net, ANGLE, several third-party libraries and ui modules.

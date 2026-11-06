@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tasks API response type declarations
+// summary: Declares response model classes for the Google Tasks API, including TaskList, TaskLists, TaskLink, TaskAssignmentInfo, and Task.
+// ---
+
 #ifndef GOOGLE_APIS_TASKS_TASKS_API_RESPONSE_TYPES_H_
 #define GOOGLE_APIS_TASKS_TASKS_API_RESPONSE_TYPES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android device management error details class declaration
+// summary: Declares the Android implementation of DeviceManagementErrorDetails that holds a reference to a Java object.
+// ---
+
 #ifndef GOOGLE_APIS_GAIA_ANDROID_DEVICE_MANAGEMENT_ERROR_DETAILS_H_
 #define GOOGLE_APIS_GAIA_ANDROID_DEVICE_MANAGEMENT_ERROR_DETAILS_H_
 

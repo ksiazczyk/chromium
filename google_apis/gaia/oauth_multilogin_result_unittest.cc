@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OAuth multilogin result unit tests
+// summary: Unit tests verifying parsing of multilogin responses, including cookies, failed accounts, token binding challenges, and encryption error histograms.
+// ---
+
 #include "google_apis/gaia/oauth_multilogin_result.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM unregistration request header
+// summary: Declares the UnregistrationRequest class for revoking GCM registrations and deleting InstanceID tokens, with status enums and backoff-based retries.
+// ---
+
 #ifndef GOOGLE_APIS_GCM_ENGINE_UNREGISTRATION_REQUEST_H_
 #define GOOGLE_APIS_GCM_ENGINE_UNREGISTRATION_REQUEST_H_
 

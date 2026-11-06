@@ -1,0 +1,4 @@
+# Docerion header of CHROMIUM_command_buffer_query.txt.
+type: reference
+title: CHROMIUM_command_buffer_query extension specification
+summary: Specification of the GL_CHROMIUM_command_buffer_query extension, which adds query targets for measuring the time spent issuing commands through the Chromium command buffer.

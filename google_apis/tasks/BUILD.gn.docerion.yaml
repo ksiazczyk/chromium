@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the Tasks API library
+summary: Defines the GN build targets for the Google Tasks API client library and its unit tests in Chromium.

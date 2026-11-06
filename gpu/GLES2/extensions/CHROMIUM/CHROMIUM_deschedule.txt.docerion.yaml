@@ -1,0 +1,4 @@
+# Docerion header of CHROMIUM_deschedule.txt.
+type: reference
+title: CHROMIUM_deschedule extension specification
+summary: Specification of the GL_CHROMIUM_deschedule extension, whose DescheduleUntilFinishedCHROMIUM call throttles command submission by delaying decoding until prior work finishes.

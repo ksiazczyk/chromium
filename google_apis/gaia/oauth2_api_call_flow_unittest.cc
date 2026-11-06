@@ -4,6 +4,12 @@
 //
 // A complete set of unit tests for OAuth2MintTokenFlow.
 
+// ---docerion
+// type: test
+// title: Unit tests for OAuth2ApiCallFlow
+// summary: Unit tests for OAuth2ApiCallFlow using a mocked flow subclass to verify request setup, authorization headers, and success and failure processing.
+// ---
+
 #include "google_apis/gaia/oauth2_api_call_flow.h"
 
 #include <memory>

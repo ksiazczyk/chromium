@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LevelDB-backed GCM store implementation
+// summary: Implements the persistent GCM store on LevelDB, covering device credentials, registrations, incoming and outgoing messages, settings and account mappings.
+// ---
+
 #include "google_apis/gcm/engine/gcm_store_impl.h"
 
 #include <optional>

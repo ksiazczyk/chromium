@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Immediate-error OAuth2 access token fetcher implementation
+// summary: Implements a fetcher that skips network requests and posts an immediate failure with a preset GoogleServiceAuthError to the consumer.
+// ---
+
 #include "google_apis/gaia/oauth2_access_token_fetcher_immediate_error.h"
 
 #include "base/functional/bind.h"

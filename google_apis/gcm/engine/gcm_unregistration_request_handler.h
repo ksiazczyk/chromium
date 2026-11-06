@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM unregistration request handler declaration
+// summary: Declares the custom request handler that revokes an app's registration ID on unregistration or uninstall.
+// ---
+
 #ifndef GOOGLE_APIS_GCM_ENGINE_GCM_UNREGISTRATION_REQUEST_HANDLER_H_
 #define GOOGLE_APIS_GCM_ENGINE_GCM_UNREGISTRATION_REQUEST_HANDLER_H_
 

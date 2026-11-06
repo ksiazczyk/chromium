@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GaiaId class for obfuscated Google account IDs
+// summary: Defines a string-like GaiaId type that identifies Google accounts, with hashing, comparisons, iOS NSString support, and Android JNI conversions.
+// ---
+
 #ifndef GOOGLE_APIS_GAIA_GAIA_ID_H_
 #define GOOGLE_APIS_GAIA_GAIA_ID_H_
 

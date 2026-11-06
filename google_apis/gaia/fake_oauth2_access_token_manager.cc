@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeOAuth2AccessTokenManager implementation
+// summary: Implements a fake OAuth2 access token manager that lets tests issue tokens or errors for pending requests, per account or per scope.
+// ---
+
 #include "google_apis/gaia/fake_oauth2_access_token_manager.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gaia authentication utility functions
+// summary: Implements Gaia helpers such as email canonicalization, account listing parsing, and Gaia origin checks used by the sign-in code.
+// ---
+
 #include "google_apis/gaia/gaia_auth_util.h"
 
 #include <stddef.h>

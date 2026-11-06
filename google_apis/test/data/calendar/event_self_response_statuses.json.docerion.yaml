@@ -1,0 +1,4 @@
+# Docerion header of event_self_response_statuses.json.
+type: test
+title: Event self response statuses test fixture
+summary: Sample events response covering attendee response statuses such as accepted, declined, tentative and needsAction, including events without a self attendee.

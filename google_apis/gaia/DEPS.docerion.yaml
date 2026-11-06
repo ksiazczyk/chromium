@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Gaia directory DEPS include rules
+summary: Defines the allowed include dependencies for the google_apis/gaia directory.

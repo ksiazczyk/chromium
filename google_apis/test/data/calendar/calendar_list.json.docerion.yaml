@@ -1,0 +1,4 @@
+# Docerion header of calendar_list.json.
+type: test
+title: Calendar list test fixture
+summary: Sample Google Calendar calendarList response with primary and secondary calendars, used as test data for the Google Calendar API integration.

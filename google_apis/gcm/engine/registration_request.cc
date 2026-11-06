@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM registration request implementation
+// summary: Implements the GCM registration request, including form-encoded request building, server error status parsing and retry decisions.
+// ---
+
 #include "google_apis/gcm/engine/registration_request.h"
 
 #include <stddef.h>

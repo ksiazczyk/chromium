@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connection handler base class definitions
+// summary: Defines the constructor and destructor of the ConnectionHandler base class.
+// ---
+
 #include "google_apis/gcm/engine/connection_handler.h"
 
 namespace gcm {

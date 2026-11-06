@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connection event tracker declaration
+// summary: Declares the ConnectionEventTracker class that records connection attempt events, caps stored events and writes them into MCS login requests.
+// ---
+
 #ifndef GOOGLE_APIS_GCM_ENGINE_CONNECTION_EVENT_TRACKER_H_
 #define GOOGLE_APIS_GCM_ENGINE_CONNECTION_EVENT_TRACKER_H_
 

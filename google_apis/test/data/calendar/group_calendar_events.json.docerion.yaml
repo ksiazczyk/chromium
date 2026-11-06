@@ -1,0 +1,4 @@
+# Docerion header of group_calendar_events.json.
+type: test
+title: Group calendar events test fixture
+summary: Sample events response from a group calendar named SJC Food Pop-Ups with public food events, used as test data for group calendar handling.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake connection factory for tests
+// summary: Fake connection factory that installs a FakeConnectionHandler so GCM connection tests can run without real networking.
+// ---
+
 #include "google_apis/gcm/engine/fake_connection_factory.h"
 
 #include <memory>

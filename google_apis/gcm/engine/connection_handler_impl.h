@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connection handler implementation header
+// summary: Declares ConnectionHandlerImpl, a state machine that processes MCS version, tag, size, and protobuf byte packets with read timeouts.
+// ---
+
 #ifndef GOOGLE_APIS_GCM_ENGINE_CONNECTION_HANDLER_IMPL_H_
 #define GOOGLE_APIS_GCM_ENGINE_CONNECTION_HANDLER_IMPL_H_
 

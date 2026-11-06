@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MCS utility unit tests
+// summary: Tests building login requests, converting between protobufs and MCS tags, and getting or setting persistent and stream IDs.
+// ---
+
 
 #include "google_apis/gcm/base/mcs_util.h"
 

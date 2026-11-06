@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM heartbeat manager class declaration
+// summary: Declares the HeartbeatManager class that sends MCS heartbeats, handles acknowledgements and missed beats, and triggers reconnection, with custom client interval support and power suspend/resume handling.
+// ---
+
 #ifndef GOOGLE_APIS_GCM_ENGINE_HEARTBEAT_MANAGER_H_
 #define GOOGLE_APIS_GCM_ENGINE_HEARTBEAT_MANAGER_H_
 

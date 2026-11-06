@@ -1,0 +1,4 @@
+# Docerion header of CHROMIUM_depth_texture.txt.
+type: reference
+title: CHROMIUM_depth_texture extension specification
+summary: Draft specification of the GL_CHROMIUM_depth_texture extension, which mirrors ANGLE_depth_texture for OpenGL ES 2.0 but omits TexStorageEXT support.

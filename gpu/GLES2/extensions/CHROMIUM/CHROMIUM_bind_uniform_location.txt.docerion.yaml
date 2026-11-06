@@ -1,0 +1,4 @@
+# Docerion header of CHROMIUM_bind_uniform_location.txt.
+type: reference
+title: CHROMIUM_bind_uniform_location extension specification
+summary: Specification of the GL_CHROMIUM_bind_uniform_location extension, which lets programs assign fixed uniform locations before linking to avoid blocking location queries.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GaiaId
+// summary: Java class representing an account or Gaia ID string with equality and hashing, whose toString value marshals the native GaiaId counterpart over JNI.
+// ---
+
 package org.chromium.google_apis.gaia;
 
 import org.jni_zero.CalledByNative;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gaia access token fetcher implementation
+// summary: Implements GaiaAccessTokenFetcher, which fetches OAuth2 access tokens from Google's token endpoint and records response code and OAuth2 UMA metrics.
+// ---
+
 #include "google_apis/gaia/gaia_access_token_fetcher.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth2 access token fetcher interface
+// summary: Declares the abstract fetcher interface with Start and CancelRequest for obtaining OAuth2 access tokens and notifying a consumer.
+// ---
+
 #ifndef GOOGLE_APIS_GAIA_OAUTH2_ACCESS_TOKEN_FETCHER_H_
 #define GOOGLE_APIS_GAIA_OAUTH2_ACCESS_TOKEN_FETCHER_H_
 

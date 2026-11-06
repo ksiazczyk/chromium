@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Connection handler implementation unit tests
+// summary: Unit tests for ConnectionHandlerImpl verifying the handshake, packet encoding and decoding, and error handling using mock socket data.
+// ---
+
 
 #include "google_apis/gcm/engine/connection_handler_impl.h"
 

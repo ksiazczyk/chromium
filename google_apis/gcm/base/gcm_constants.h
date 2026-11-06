@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM constants header
+// summary: Declares the exported GCM constant kIncomingMessageTTL, the seven-day time to live for incoming messages.
+// ---
+
 #ifndef GOOGLE_APIS_GCM_BASE_GCM_CONSTANTS_H_
 #define GOOGLE_APIS_GCM_BASE_GCM_CONSTANTS_H_
 

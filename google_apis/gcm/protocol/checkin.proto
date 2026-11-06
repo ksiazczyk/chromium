@@ -4,6 +4,12 @@
 //
 // Request and reply to the "checkin server" devices poll every few hours.
 
+// ---docerion
+// type: source
+// title: Checkin server request and reply protobuf definitions
+// summary: Protobuf definitions for the requests and replies devices send to the checkin server every few hours, including device identifiers, gservices settings, and security tokens.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

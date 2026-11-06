@@ -1,0 +1,4 @@
+# Docerion header of api_keys.json.
+type: test
+title: Test fixture with Google API keys
+summary: Test fixture JSON providing placeholder Google API keys, client IDs and secrets used by tests.

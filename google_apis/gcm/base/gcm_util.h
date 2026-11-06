@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM utility header for form encoding
+// summary: Declares BuildFormEncoding, which encodes a key-value pair as form data suitable for HTTP POST submission.
+// ---
+
 #ifndef GOOGLE_APIS_GCM_BASE_GCM_UTIL_H_
 #define GOOGLE_APIS_GCM_BASE_GCM_UTIL_H_
 

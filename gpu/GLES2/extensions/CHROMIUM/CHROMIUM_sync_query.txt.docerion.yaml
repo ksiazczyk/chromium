@@ -1,0 +1,4 @@
+# Docerion header of CHROMIUM_sync_query.txt.
+type: reference
+title: CHROMIUM_sync_query
+summary: Specification for the GL_CHROMIUM_sync_query extension, providing a COMMANDS_COMPLETED_CHROMIUM query to synchronize host CPU access with GPU command completion.

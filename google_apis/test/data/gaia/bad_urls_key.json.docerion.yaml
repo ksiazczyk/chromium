@@ -1,0 +1,4 @@
+# Docerion header of bad_urls_key.json.
+type: test
+title: Test fixture with a wrong top-level key
+summary: Test fixture JSON using a wrong top-level key instead of urls to test malformed input handling.

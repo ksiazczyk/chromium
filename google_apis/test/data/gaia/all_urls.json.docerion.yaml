@@ -1,0 +1,4 @@
+# Docerion header of all_urls.json.
+type: test
+title: Test fixture with all GAIA URL overrides
+summary: Test fixture JSON listing every GAIA and Google API URL override, including embedded setup, reauth, OAuth, sync and logout endpoints.

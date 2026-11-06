@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GaiaUrls singleton interface
+// summary: Declares the GaiaUrls singleton that provides every URL used to connect to GAIA, including sign-in, OAuth2 token and Google API origin endpoints.
+// ---
+
 #ifndef GOOGLE_APIS_GAIA_GAIA_URLS_H_
 #define GOOGLE_APIS_GAIA_GAIA_URLS_H_
 

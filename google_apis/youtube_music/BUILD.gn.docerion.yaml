@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the YouTube Music library
+summary: GN build file defining the youtube_music static library and its unit test source set, listing source files and dependencies.

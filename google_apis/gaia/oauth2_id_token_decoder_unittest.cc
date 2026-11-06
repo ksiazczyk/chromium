@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OAuth2 ID token decoder unit tests
+// summary: Unit tests verifying that ParseServiceFlags correctly extracts child account and advanced protection flags from ID tokens.
+// ---
+
 #include "google_apis/gaia/oauth2_id_token_decoder.h"
 
 #include <string>

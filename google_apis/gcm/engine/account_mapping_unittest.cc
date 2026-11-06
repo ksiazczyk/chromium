@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Account mapping unit tests
+// summary: Unit tests verifying serialization and deserialization of GCM account mappings across the NEW, ADDING, MAPPED and REMOVING statuses.
+// ---
+
 #include "google_apis/gcm/engine/account_mapping.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeOAuth2AccessTokenManager header
+// summary: Declares FakeOAuth2AccessTokenManager, a test helper for simplifying unittests that depend on OAuth2AccessTokenManager and its pending requests.
+// ---
+
 #ifndef GOOGLE_APIS_GAIA_FAKE_OAUTH2_ACCESS_TOKEN_MANAGER_H_
 #define GOOGLE_APIS_GAIA_FAKE_OAUTH2_ACCESS_TOKEN_MANAGER_H_
 

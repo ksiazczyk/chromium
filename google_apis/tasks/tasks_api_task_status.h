@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskStatus enum declaration
+// summary: Declares the TaskStatus enum for Google Tasks API task states together with functions that convert between enum values and API status strings.
+// ---
+
 #ifndef GOOGLE_APIS_TASKS_TASKS_API_TASK_STATUS_H_
 #define GOOGLE_APIS_TASKS_TASKS_API_TASK_STATUS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gaia OAuth client implementation
+// summary: Implements GaiaOAuthClient requests for exchanging auth codes, refreshing tokens, and fetching user email, ID, info, capabilities and token info, with backoff-based retries.
+// ---
+
 #include "google_apis/gaia/gaia_oauth_client.h"
 
 #include <memory>

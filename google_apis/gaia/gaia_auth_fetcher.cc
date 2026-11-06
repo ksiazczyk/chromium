@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GaiaAuthFetcher implementation
+// summary: Implements GaiaAuthFetcher, which sends authentication and token requests to the Google Accounts (Gaia) APIs and parses the responses for a GaiaAuthConsumer.
+// ---
+
 #include "google_apis/gaia/gaia_auth_fetcher.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tasks API request payload serialization
+// summary: Implements JSON serialization of the task request payload used when creating or updating tasks via the Tasks API.
+// ---
+
 #include "google_apis/tasks/tasks_api_request_types.h"
 
 #include <string>

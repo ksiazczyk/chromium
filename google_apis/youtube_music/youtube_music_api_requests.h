@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: YouTube Music API request class declarations
+// summary: Declares requests for music sections, playlists, playback queue operations, and playback reporting against the YouTube MediaConnect API.
+// ---
+
 #ifndef GOOGLE_APIS_YOUTUBE_MUSIC_YOUTUBE_MUSIC_API_REQUESTS_H_
 #define GOOGLE_APIS_YOUTUBE_MUSIC_YOUTUBE_MUSIC_API_REQUESTS_H_
 

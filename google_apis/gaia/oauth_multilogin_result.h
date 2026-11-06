@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth multilogin result declarations
+// summary: Declares the OAuthMultiloginResult class plus response status and device bound session parsing error enums used to process multilogin responses.
+// ---
+
 #ifndef GOOGLE_APIS_GAIA_OAUTH_MULTILOGIN_RESULT_H_
 #define GOOGLE_APIS_GAIA_OAUTH_MULTILOGIN_RESULT_H_
 

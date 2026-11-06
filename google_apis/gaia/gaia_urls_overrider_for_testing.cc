@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GaiaUrls test override helper implementation
+// summary: Implements a scoped helper that overrides GaiaConfig URLs and swaps in a temporary GaiaUrls singleton for use in tests.
+// ---
+
 #include "google_apis/gaia/gaia_urls_overrider_for_testing.h"
 
 #include <memory>

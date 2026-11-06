@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: YouTube Music API request implementations
+// summary: Implements the API request classes with localized error parsing, error remapping, and callback handling for YouTube Music endpoints.
+// ---
+
 #include "google_apis/youtube_music/youtube_music_api_requests.h"
 
 #include <memory>

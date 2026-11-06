@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM registration request header
+// summary: Declares the RegistrationRequest class that obtains GCM registration IDs for applications, including status enums, request info, and a custom request handler interface.
+// ---
+
 #ifndef GOOGLE_APIS_GCM_ENGINE_REGISTRATION_REQUEST_H_
 #define GOOGLE_APIS_GCM_ENGINE_REGISTRATION_REQUEST_H_
 

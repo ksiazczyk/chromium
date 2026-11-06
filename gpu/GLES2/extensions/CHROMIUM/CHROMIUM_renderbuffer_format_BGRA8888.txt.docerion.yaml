@@ -1,0 +1,4 @@
+# Docerion header of CHROMIUM_renderbuffer_format_BGRA8888.txt.
+type: reference
+title: CHROMIUM renderbuffer format BGRA8888 extension specification
+summary: Specification for the Chromium OpenGL ES 2.0 extension that allows the BGRA8888 texture format to also be used as a renderbuffer internal format, useful for multisampled rendering with the ANGLE framebuffer multisample extension.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account mapping struct declaration
+// summary: Declares the AccountMapping struct that stores account mapping status, email, access token, status change timestamp and last mapping message ID for GCM.
+// ---
+
 #ifndef GOOGLE_APIS_GCM_ENGINE_ACCOUNT_MAPPING_H_
 #define GOOGLE_APIS_GCM_ENGINE_ACCOUNT_MAPPING_H_
 

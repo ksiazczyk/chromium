@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: YouTube Music API response type implementations
+// summary: Implements JSON conversion for response objects such as Image, Owner, Playlist, and music recommendations.
+// ---
+
 #include "google_apis/youtube_music/youtube_music_api_response_types.h"
 
 #include <string>

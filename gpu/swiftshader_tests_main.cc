@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SwiftShader tests entry point
+// summary: Entry point that sets up GoogleMock and a global test environment, then runs SwiftShader tests serially with job objects via the base unit test launcher.
+// ---
+
 #include "base/command_line.h"
 #include "base/functional/bind.h"
 #include "base/functional/callback_helpers.h"

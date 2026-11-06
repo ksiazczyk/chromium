@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth2 ID token decoder header
+// summary: Declares gaia::ParseServiceFlags and TokenServiceFlags for decoding OAuth2 ID tokens into child account and advanced protection flags.
+// ---
+
 #ifndef GOOGLE_APIS_GAIA_OAUTH2_ID_TOKEN_DECODER_H_
 #define GOOGLE_APIS_GAIA_OAUTH2_ID_TOKEN_DECODER_H_
 

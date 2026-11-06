@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OAuth2 mint access token fetcher adapter unit tests
+// summary: Unit tests for the mint access token fetcher adapter covering token minting, binding assertions, and error histograms.
+// ---
+
 #include "google_apis/gaia/oauth2_mint_access_token_fetcher_adapter.h"
 
 #include <memory>

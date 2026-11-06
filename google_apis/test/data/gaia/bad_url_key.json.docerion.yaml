@@ -1,0 +1,4 @@
+# Docerion header of bad_url_key.json.
+type: test
+title: Test fixture with a wrong URL entry key
+summary: Test fixture JSON using an unexpected key instead of url inside a URL entry to test malformed input handling.

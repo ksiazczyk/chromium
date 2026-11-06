@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the Drive test data directory
+summary: Ownership configuration that delegates review responsibility to the components/drive OWNERS file.

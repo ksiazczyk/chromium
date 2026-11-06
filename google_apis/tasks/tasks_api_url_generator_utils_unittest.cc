@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Tasks API URL generators
+// summary: Verifies that generated Google Tasks API URLs match the expected endpoints and query parameters for listing, patching, and inserting tasks.
+// ---
+
 #include "google_apis/tasks/tasks_api_url_generator_utils.h"
 
 #include <optional>

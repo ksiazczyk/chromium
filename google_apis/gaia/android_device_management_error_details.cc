@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android device management error details implementation
+// summary: Implements the Android variant of DeviceManagementErrorDetails, wrapping a Java instance and reporting error actionability.
+// ---
+
 #include "google_apis/gaia/android_device_management_error_details.h"
 
 #include <memory>

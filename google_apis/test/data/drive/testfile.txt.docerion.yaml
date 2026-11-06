@@ -1,0 +1,4 @@
+# Docerion header of testfile.txt.
+type: test
+title: Minimal test file fixture
+summary: Tiny text fixture containing the line 'test file', used as test data in the Drive API test suite.

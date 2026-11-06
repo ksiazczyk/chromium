@@ -1,0 +1,4 @@
+# Docerion header of start_page_token.json.
+type: data
+title: Sample Drive API start page token response
+summary: Test fixture JSON of a Drive API startPageToken resource holding the token 15734.

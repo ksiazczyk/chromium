@@ -1,0 +1,4 @@
+# Docerion header of CHROMIUM_future_sync_point.txt.
+type: reference
+title: CHROMIUM_future_sync_point extension specification
+summary: Specification of the GL_CHROMIUM_future_sync_point extension, which adds sync points created early and signalled later via InsertFutureSyncPointCHROMIUM and RetireSyncPointCHROMIUM.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bound session registration payload unit tests
+// summary: Unit tests covering successful and failing JSON parsing of bound session registration payloads in both DBSC prototype and standard formats.
+// ---
+
 #include "google_apis/gaia/register_bound_session_payload.h"
 
 #include "base/test/gmock_expected_support.h"

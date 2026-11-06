@@ -1,0 +1,4 @@
+# Docerion header of EGL_ANGLE_sync_control_rate.txt.
+type: reference
+title: EGL_ANGLE_sync_control_rate extension specification
+summary: Draft EGL extension specification that adds eglGetMscRateANGLE, letting applications use UST, MSC, and SBC counters to synchronize rendering with vertical retraces.

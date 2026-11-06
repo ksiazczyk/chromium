@@ -4,6 +4,12 @@
 //
 // A complete set of unit tests for GaiaOAuthClient.
 
+// ---docerion
+// type: test
+// title: GaiaOAuthClient unit tests
+// summary: Unit tests for GaiaOAuthClient that verify OAuth token requests, response parsing, retries and error handling using a test URL loader factory.
+// ---
+
 #include "google_apis/gaia/gaia_oauth_client.h"
 
 #include <string>

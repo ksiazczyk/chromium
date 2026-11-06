@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GoogleServiceAuthError implementation
+// summary: Implements the immutable GoogleServiceAuthError value type, mapping authentication failure states and reasons to messages and transient-error classification.
+// ---
+
 #include "google_apis/gaia/google_service_auth_error.h"
 
 #include <memory>

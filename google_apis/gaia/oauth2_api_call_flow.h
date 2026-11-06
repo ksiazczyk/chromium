@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth2ApiCallFlow class declaration
+// summary: Declares OAuth2ApiCallFlow, a base class for calling OAuth2-protected APIs with template methods for request creation and response processing.
+// ---
+
 #ifndef GOOGLE_APIS_GAIA_OAUTH2_API_CALL_FLOW_H_
 #define GOOGLE_APIS_GAIA_OAUTH2_API_CALL_FLOW_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for the gpu directory
+summary: Specifies code owners for gpu with per-file rules for passthrough decoders, SharedImages, Windows integration and gpuwatchdog.

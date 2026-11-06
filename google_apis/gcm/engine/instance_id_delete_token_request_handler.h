@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Instance ID delete token request handler declaration
+// summary: Declares a custom unregistration request handler providing the request logic for deleting InstanceID tokens.
+// ---
+
 #ifndef GOOGLE_APIS_GCM_ENGINE_INSTANCE_ID_DELETE_TOKEN_REQUEST_HANDLER_H_
 #define GOOGLE_APIS_GCM_ENGINE_INSTANCE_ID_DELETE_TOKEN_REQUEST_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Tasks API URL generator declarations
+// summary: Declares functions that generate Google Tasks API URLs for listing task lists and tasks, patching tasks, and inserting tasks, with parameter documentation.
+// ---
+
 #ifndef GOOGLE_APIS_TASKS_TASKS_API_URL_GENERATOR_UTILS_H_
 #define GOOGLE_APIS_TASKS_TASKS_API_URL_GENERATOR_UTILS_H_
 

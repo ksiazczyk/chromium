@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MCS utility implementation
+// summary: Implements helpers for building MCS protobuf messages such as login requests and stream or selective acknowledgements, and for mapping tags, persistent IDs, stream IDs, and TTLs.
+// ---
+
 
 #include "google_apis/gcm/base/mcs_util.h"
 

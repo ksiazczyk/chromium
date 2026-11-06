@@ -4,6 +4,12 @@
 //
 // Utility methods for MCS interactions.
 
+// ---docerion
+// type: source
+// title: MCS utility declarations
+// summary: Declares the MCS protocol tag enums and helper functions for building, identifying, and reading or writing fields of MCS protobuf messages.
+// ---
+
 #ifndef GOOGLE_APIS_GCM_BASE_MCS_UTIL_H_
 #define GOOGLE_APIS_GCM_BASE_MCS_UTIL_H_
 
