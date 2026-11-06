@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP card background view header
+// summary: Declares a reusable background view for NTP cards that dynamically renders wallpaper frosted blur or a solid tinted background color according to NTP traits.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_UI_BUNDLED_NTP_CARD_BACKGROUND_VIEW_H_
 #define IOS_CHROME_BROWSER_NTP_UI_BUNDLED_NTP_CARD_BACKGROUND_VIEW_H_
 

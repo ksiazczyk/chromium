@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOS most visited sites factory implementation
+// summary: Builds a MostVisitedSites instance for a profile using top sites, popular sites, custom links, identity, supervision and icon caching.
+// ---
+
 #include "ios/chrome/browser/ntp_tiles/model/ios_most_visited_sites_factory.h"
 
 #include "components/history/core/browser/top_sites.h"

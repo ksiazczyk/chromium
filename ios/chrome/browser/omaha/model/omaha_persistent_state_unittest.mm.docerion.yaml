@@ -1,0 +1,4 @@
+# Docerion header of omaha_persistent_state_unittest.mm.
+type: source
+title: omaha_persistent_state_unittest.mm
+summary: Unit tests verifying round-trip serialization of OmahaPersistentState via NSUserDefaults and removal of keys holding default values.

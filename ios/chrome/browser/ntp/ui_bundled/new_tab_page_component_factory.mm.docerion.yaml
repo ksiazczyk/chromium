@@ -1,0 +1,4 @@
+# Docerion header of new_tab_page_component_factory.mm.
+type: source
+title: New tab page component factory implementation
+summary: Implements the NTP component factory, building coordinators, mediators, header and feed view controllers with metrics and service dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New tab page shortcuts handler protocol
+// summary: Protocol defining handlers for new tab page shortcut actions such as Lens, AIM, voice search, incognito search, and multimodal actions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_UI_BUNDLED_NEW_TAB_PAGE_SHORTCUTS_HANDLER_H_
 #define IOS_CHROME_BROWSER_NTP_UI_BUNDLED_NEW_TAB_PAGE_SHORTCUTS_HANDLER_H_
 

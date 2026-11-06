@@ -1,0 +1,4 @@
+# Docerion header of new_tab_page_coordinator.mm.
+type: source
+title: New tab page coordinator implementation
+summary: Implements the new tab page coordinator, wiring up mediators, child coordinators, metrics, sign-in, feed handling, and omnibox behavior.

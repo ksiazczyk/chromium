@@ -1,0 +1,4 @@
+# Docerion header of home_metrics.mm.
+type: source
+title: Home metrics implementation
+summary: Implements Home and Magic Stack metric logging through UMA histograms, user actions, and Magic Stack freshness preference updates.

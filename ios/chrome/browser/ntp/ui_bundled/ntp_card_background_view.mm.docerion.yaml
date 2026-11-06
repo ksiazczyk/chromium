@@ -1,0 +1,4 @@
+# Docerion header of ntp_card_background_view.mm.
+type: source
+title: NTP card background view implementation
+summary: Implements the NTP card background view, switching between blurred and solid color backgrounds based on traits and supporting fade in and out transitions.

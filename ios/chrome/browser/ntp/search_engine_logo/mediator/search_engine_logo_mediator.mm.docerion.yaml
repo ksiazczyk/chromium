@@ -1,0 +1,4 @@
+# Docerion header of search_engine_logo_mediator.mm.
+type: source
+title: SearchEngineLogoMediator implementation
+summary: Implements the mediator that downloads and displays search engine logos and doodles on the new tab page, handles taps and records UMA metrics.

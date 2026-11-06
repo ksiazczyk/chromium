@@ -1,0 +1,4 @@
+# Docerion header of new_tab_page_color_palette.mm.
+type: source
+title: New tab page color palette implementation
+summary: Implements the NewTabPageColorPalette model that stores the color palette used by the iOS new tab page.

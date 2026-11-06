@@ -1,0 +1,4 @@
+# Docerion header of new_tab_page_utils_unittest.mm.
+type: test
+title: New tab page utils unit tests
+summary: Tests creation and styling of the most visited container view and the height calculation fallbacks of the NTP utilities.

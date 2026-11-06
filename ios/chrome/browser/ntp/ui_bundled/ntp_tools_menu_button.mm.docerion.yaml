@@ -1,0 +1,4 @@
+# Docerion header of ntp_tools_menu_button.mm.
+type: source
+title: NTP tools menu button implementation
+summary: Implements the NTP tools menu button with themed tint colors, rounded background styling and a blue dot new-item indicator with accessibility value.

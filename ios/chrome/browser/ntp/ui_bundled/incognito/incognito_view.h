@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IncognitoView scroll view header
+// summary: Declares the IncognitoView scroll view for the incognito new tab page, with options for the top header image, title, and stack view margins.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_UI_BUNDLED_INCOGNITO_INCOGNITO_VIEW_H_
 #define IOS_CHROME_BROWSER_NTP_UI_BUNDLED_INCOGNITO_INCOGNITO_VIEW_H_
 

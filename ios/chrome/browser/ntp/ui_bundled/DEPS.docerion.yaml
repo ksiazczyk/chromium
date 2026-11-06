@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the NTP UI
+summary: Defines the allowed include paths for code in the new tab page UI directory, covering dependencies such as signin, composebox, and push notification modules.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the Omaha model directory
+summary: Directory metadata mapping the code to the Internals>Installer monorail component, the chrome-updates-dev team and a Buganizer component.

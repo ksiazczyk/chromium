@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Home metrics declarations for NTP and Start surfaces
+// summary: Declares the IOSHomeActionType enum and functions that log Home actions, Magic Stack clicks, impressions, and freshness signals split by NTP and Start surface.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_SHARED_METRICS_HOME_METRICS_H_
 #define IOS_CHROME_BROWSER_NTP_SHARED_METRICS_HOME_METRICS_H_
 

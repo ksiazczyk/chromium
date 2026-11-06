@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed top section mutator protocol
+// summary: Declares the FeedTopSectionMutator protocol handling taps on the notifications promo close and main buttons.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_UI_BUNDLED_FEED_TOP_SECTION_FEED_TOP_SECTION_MUTATOR_H_
 #define IOS_CHROME_BROWSER_NTP_UI_BUNDLED_FEED_TOP_SECTION_FEED_TOP_SECTION_MUTATOR_H_
 

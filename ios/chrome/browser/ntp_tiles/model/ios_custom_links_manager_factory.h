@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOS custom links manager factory header
+// summary: Declares the factory entry point that creates a profile-scoped ntp_tiles CustomLinksManager for the new tab page.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_TILES_MODEL_IOS_CUSTOM_LINKS_MANAGER_FACTORY_H_
 #define IOS_CHROME_BROWSER_NTP_TILES_MODEL_IOS_CUSTOM_LINKS_MANAGER_FACTORY_H_
 

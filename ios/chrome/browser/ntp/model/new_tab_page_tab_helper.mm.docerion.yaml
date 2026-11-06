@@ -1,0 +1,4 @@
+# Docerion header of new_tab_page_tab_helper.mm.
+type: source
+title: Implementation of the new tab page tab helper
+summary: Implements new tab page navigation tracking, navigation item title updates, and request policy decisions for the tab helper.

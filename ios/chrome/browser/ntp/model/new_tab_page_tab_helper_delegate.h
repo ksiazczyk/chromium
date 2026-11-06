@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New Tab Page tab helper delegate protocol header
+// summary: Defines the NewTabPageTabHelperDelegate protocol that notifies a delegate when the NTP needs to be shown or hidden for a web state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_MODEL_NEW_TAB_PAGE_TAB_HELPER_DELEGATE_H_
 #define IOS_CHROME_BROWSER_NTP_MODEL_NEW_TAB_PAGE_TAB_HELPER_DELEGATE_H_
 

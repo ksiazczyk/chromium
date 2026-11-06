@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for tab_resumption_prefs
+summary: Defines the tab_resumption_prefs source set with its source files and GN build dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of feed_metrics_recorder_unittest.mm.
+type: test
+title: FeedMetricsRecorder unit tests
+summary: Unit tests verifying feed metrics recording of good visits, engagement and user actions using histogram and user action testers.

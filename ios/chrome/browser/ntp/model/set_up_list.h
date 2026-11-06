@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Set Up List model header
+// summary: Declares the SetUpList class that builds the list of incomplete setup tasks shown in the Set Up List UI on the NTP or home screen.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_MODEL_SET_UP_LIST_H_
 #define IOS_CHROME_BROWSER_NTP_MODEL_SET_UP_LIST_H_
 

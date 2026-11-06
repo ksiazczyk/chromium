@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed sign-in promo delegate protocol
+// summary: Defines the FeedSignInPromoDelegate protocol and the sources from which the feed can trigger sign-in, such as a feed card or its menu.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_UI_BUNDLED_FEED_SIGN_IN_PROMO_DELEGATE_H_
 #define IOS_CHROME_BROWSER_NTP_UI_BUNDLED_FEED_SIGN_IN_PROMO_DELEGATE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the NTP tiles model folder
+summary: Restricts allowed includes for the folder and grants extra include permissions to the most visited sites factory.

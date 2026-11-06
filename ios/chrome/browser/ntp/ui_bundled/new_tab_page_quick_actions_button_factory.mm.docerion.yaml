@@ -1,0 +1,4 @@
+# Docerion header of new_tab_page_quick_actions_button_factory.mm.
+type: source
+title: Quick actions button factory implementation
+summary: Implements creation and styling of NTP quick action buttons, including AI Mode chips, symbol sizing, and color palette theming.

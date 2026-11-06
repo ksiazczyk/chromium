@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Testing category for FeedMetricsRecorder
+// summary: Objective-C category exposing FeedMetricsRecorder internals such as timeSpentInFeed so tests can inspect and reset state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_SHARED_METRICS_FEED_METRICS_RECORDER_TESTING_H_
 #define IOS_CHROME_BROWSER_NTP_SHARED_METRICS_FEED_METRICS_RECORDER_TESTING_H_
 

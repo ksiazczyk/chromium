@@ -1,0 +1,4 @@
+# Docerion header of incognito_view.mm.
+type: source
+title: IncognitoView implementation
+summary: Implements the incognito new tab page scroll view, building the header, explanatory body text, and bulleted list with dynamic type fonts.

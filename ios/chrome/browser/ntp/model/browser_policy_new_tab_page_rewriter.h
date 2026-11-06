@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the policy-based new tab page URL rewriter
+// summary: Declares a function that reports whether a browser policy rewrites the new tab page URL to a custom address.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_MODEL_BROWSER_POLICY_NEW_TAB_PAGE_REWRITER_H_
 #define IOS_CHROME_BROWSER_NTP_MODEL_BROWSER_POLICY_NEW_TAB_PAGE_REWRITER_H_
 

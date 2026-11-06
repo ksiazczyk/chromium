@@ -1,0 +1,4 @@
+# Docerion header of new_tab_page_header_constants.mm.
+type: source
+title: New tab page header layout constant values
+summary: Defines the numeric values of the ntp_header layout constants used to position and animate the new tab page fake omnibox and hint labels.

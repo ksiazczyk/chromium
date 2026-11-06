@@ -1,0 +1,4 @@
+# Docerion header of feed_metrics_constants.mm.
+type: source
+title: Feed metrics constant definitions
+summary: Defines values for feed metrics thresholds, preference keys, histogram names and user action names used by the NTP feed recorder.

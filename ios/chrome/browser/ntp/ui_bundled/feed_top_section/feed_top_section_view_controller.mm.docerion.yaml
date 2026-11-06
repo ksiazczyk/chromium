@@ -1,0 +1,4 @@
+# Docerion header of feed_top_section_view_controller.mm.
+type: source
+title: Feed top section view controller implementation
+summary: Implements the feed top section view controller, laying out signin and notifications promo views in a stack view on the new tab page.

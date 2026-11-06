@@ -1,0 +1,4 @@
+# Docerion header of search_engine_logo_mediator_unittest.mm.
+type: test
+title: SearchEngineLogoMediator unit tests
+summary: Unit tests for the search engine logo mediator using a mocked Google logo service and a fake URL loading browser agent.

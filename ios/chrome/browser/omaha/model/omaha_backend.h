@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: omaha_backend.h
+// summary: Declares OmahaBackend, which schedules and performs regular communication with the Omaha update server and reports upgrade recommendations.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMAHA_MODEL_OMAHA_BACKEND_H_
 #define IOS_CHROME_BROWSER_OMAHA_MODEL_OMAHA_BACKEND_H_
 

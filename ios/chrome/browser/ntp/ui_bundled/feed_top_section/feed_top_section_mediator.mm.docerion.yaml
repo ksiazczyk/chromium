@@ -1,0 +1,4 @@
+# Docerion header of feed_top_section_mediator.mm.
+type: source
+title: Feed top section mediator implementation
+summary: Implements the feed top section mediator, managing promo visibility, identity observation and provisional push notification behavior.

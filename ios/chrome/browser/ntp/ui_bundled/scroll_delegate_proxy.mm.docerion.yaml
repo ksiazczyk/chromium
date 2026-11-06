@@ -1,0 +1,4 @@
+# Docerion header of scroll_delegate_proxy.mm.
+type: source
+title: Scroll delegate proxy implementation
+summary: Implements the scroll delegate proxy, forwarding method invocations to both the intercepting target and the original target of scroll view delegate callbacks.

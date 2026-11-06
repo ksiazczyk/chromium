@@ -1,0 +1,4 @@
+# Docerion header of new_tab_page_tab_helper_unittest.mm.
+type: test
+title: New Tab Page tab helper unit tests
+summary: Unit tests for NewTabPageTabHelper covering NTP visibility, titles, and delegate behavior using fake web states and profiles.

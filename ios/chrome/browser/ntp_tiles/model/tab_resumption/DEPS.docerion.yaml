@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for tab_resumption
+summary: Restricts includes in the tab_resumption directory to the content_suggestions model and public directories.

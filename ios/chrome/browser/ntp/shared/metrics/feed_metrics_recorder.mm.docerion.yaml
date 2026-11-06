@@ -1,0 +1,4 @@
+# Docerion header of feed_metrics_recorder.mm.
+type: source
+title: FeedMetricsRecorder implementation
+summary: Implements feed metrics recording, including engagement types, good visits, time spent in feed and activity bucket reporting.

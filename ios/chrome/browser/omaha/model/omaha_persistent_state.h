@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: omaha_persistent_state.h
+// summary: Declares OmahaPersistentState, the Omaha service state persisted between application runs, with NSUserDefaults load and save helpers.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMAHA_MODEL_OMAHA_PERSISTENT_STATE_H_
 #define IOS_CHROME_BROWSER_OMAHA_MODEL_OMAHA_PERSISTENT_STATE_H_
 

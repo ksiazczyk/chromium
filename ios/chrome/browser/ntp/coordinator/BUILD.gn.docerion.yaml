@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the home background customization promo target
+summary: Defines the source_set for the home background customization promo display handler and its dependencies on feature engagement and promos manager components.

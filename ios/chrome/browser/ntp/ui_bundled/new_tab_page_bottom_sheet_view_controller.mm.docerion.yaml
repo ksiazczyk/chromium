@@ -1,0 +1,4 @@
+# Docerion header of new_tab_page_bottom_sheet_view_controller.mm.
+type: source
+title: New tab page bottom sheet view controller implementation
+summary: Implements the NTP redesign bottom sheet, handling pan gestures, snapping between collapsed, resting, and expanded states, and embedding feed content.

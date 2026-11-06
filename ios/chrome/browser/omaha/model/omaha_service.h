@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmahaService class interface
+// summary: Declares OmahaService, which handles communication with the Omaha server and notifies clients of recommended upgrades.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OMAHA_MODEL_OMAHA_SERVICE_H_
 #define IOS_CHROME_BROWSER_OMAHA_MODEL_OMAHA_SERVICE_H_
 

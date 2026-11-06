@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP identity disc button header
+// summary: Declares the identity disc button for the new tab page, which manages its own constraints, image and title configuration, error badge and accessibility label by sign-in state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_UI_BUNDLED_NTP_IDENTITY_DISC_BUTTON_H_
 #define IOS_CHROME_BROWSER_NTP_UI_BUNDLED_NTP_IDENTITY_DISC_BUTTON_H_
 

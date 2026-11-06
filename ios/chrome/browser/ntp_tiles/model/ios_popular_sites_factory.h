@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOS popular sites factory header
+// summary: Declares the factory entry point that creates a PopularSites object for an iOS profile.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_TILES_MODEL_IOS_POPULAR_SITES_FACTORY_H_
 #define IOS_CHROME_BROWSER_NTP_TILES_MODEL_IOS_POPULAR_SITES_FACTORY_H_
 

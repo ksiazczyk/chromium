@@ -1,0 +1,4 @@
+# Docerion header of new_tab_page_mediator.mm.
+type: source
+title: New Tab Page mediator implementation
+summary: Implements the NTP mediator, wiring services, preferences, metrics, and feed visibility for the new tab page home panel.

@@ -1,0 +1,4 @@
+# Docerion header of omaha_ping_unittest.mm.
+type: test
+title: Omaha ping formatting unit tests
+summary: Verifies that FormatOmahaPingEvent produces the expected XML for usage pings, install events, and unknown install dates.

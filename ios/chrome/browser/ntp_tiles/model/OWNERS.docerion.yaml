@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the NTP tiles model folder
+summary: Delegates code ownership review responsibility to the owners listed in components/ntp_tiles/OWNERS.

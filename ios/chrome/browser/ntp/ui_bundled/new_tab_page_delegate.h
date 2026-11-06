@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New tab page delegate protocol
+// summary: Defines a delegate protocol for the new tab page to notify the coordinator of feed layout updates, scroll position, search engine state, and sign-in actions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_UI_BUNDLED_NEW_TAB_PAGE_DELEGATE_H_
 #define IOS_CHROME_BROWSER_NTP_UI_BUNDLED_NEW_TAB_PAGE_DELEGATE_H_
 

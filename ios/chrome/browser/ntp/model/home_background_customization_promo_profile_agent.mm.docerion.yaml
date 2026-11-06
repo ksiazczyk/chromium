@@ -1,0 +1,4 @@
+# Docerion header of home_background_customization_promo_profile_agent.mm.
+type: source
+title: Implementation of the home background customization promo agent
+summary: Registers the home background customization promo for continuous display once the profile finishes initialization.

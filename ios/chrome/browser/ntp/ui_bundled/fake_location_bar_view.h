@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake location bar view interface
+// summary: Declares FakeLocationBarView, a button representing the fake omnibox on the new tab page that manages its own highlight state and background colors.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_UI_BUNDLED_FAKE_LOCATION_BAR_VIEW_H_
 #define IOS_CHROME_BROWSER_NTP_UI_BUNDLED_FAKE_LOCATION_BAR_VIEW_H_
 

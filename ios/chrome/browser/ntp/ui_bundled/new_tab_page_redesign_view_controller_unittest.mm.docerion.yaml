@@ -1,0 +1,4 @@
+# Docerion header of new_tab_page_redesign_view_controller_unittest.mm.
+type: test
+title: New tab page redesign view controller unit tests
+summary: Unit tests for the redesigned new tab page view controller, covering padding experiment arms, bottom sheet offsets, and magic stack and most visited hierarchy updates.

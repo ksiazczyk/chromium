@@ -1,0 +1,4 @@
+# Docerion header of feed_metrics_utils.mm.
+type: source
+title: Feed activity bucket utility implementation
+summary: Returns the feed activity bucket stored in preferences, falling back to kNoActivity when the stored value is invalid.

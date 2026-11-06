@@ -1,0 +1,4 @@
+# Docerion header of browser_policy_new_tab_page_rewriter_unittest.mm.
+type: test
+title: Unit tests for the policy-based new tab page URL rewriter
+summary: Verifies new tab page URL rewriting for custom, identical, invalid, missing, and incognito policy scenarios.

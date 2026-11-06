@@ -1,0 +1,4 @@
+# Docerion header of set_up_list_metrics.mm.
+type: source
+title: Set Up List metrics implementation
+summary: Implements Set Up List metrics recording with UMA histograms for display, selection, and completion events.

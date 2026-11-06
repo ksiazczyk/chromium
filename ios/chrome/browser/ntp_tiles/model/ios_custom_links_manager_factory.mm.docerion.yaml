@@ -1,0 +1,4 @@
+# Docerion header of ios_custom_links_manager_factory.mm.
+type: source
+title: IOS custom links manager factory implementation
+summary: Creates a CustomLinksManagerImpl wired to profile prefs and history, with mobile scope and optional AI mode tile support.

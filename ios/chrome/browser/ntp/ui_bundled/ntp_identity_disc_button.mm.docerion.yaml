@@ -1,0 +1,4 @@
+# Docerion header of ntp_identity_disc_button.mm.
+type: source
+title: NTP identity disc button implementation
+summary: Implements the NTP identity disc button, including avatar display, AI tier ring, account error badge, pointer interaction and color palette theming.

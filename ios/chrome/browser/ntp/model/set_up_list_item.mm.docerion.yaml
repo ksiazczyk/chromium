@@ -1,0 +1,4 @@
+# Docerion header of set_up_list_item.mm.
+type: source
+title: Set Up List item implementation
+summary: Implements SetUpListItem initialization with type and completion state plus the markComplete method.

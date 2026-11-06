@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New Tab Page URL utility header
+// summary: Declares helpers to check whether a URL or a web state's visible URL is a New Tab Page, including the case with no navigation history.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_MODEL_NEW_TAB_PAGE_UTIL_H_
 #define IOS_CHROME_BROWSER_NTP_MODEL_NEW_TAB_PAGE_UTIL_H_
 

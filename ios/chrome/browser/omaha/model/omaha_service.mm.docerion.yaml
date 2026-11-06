@@ -1,0 +1,4 @@
+# Docerion header of omaha_service.mm.
+type: source
+title: OmahaService implementation
+summary: Implements OmahaService, starting the sequence-bound Omaha backend and dispatching upgrade recommendations and one-off checks.

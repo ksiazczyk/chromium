@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Most visited sites observer bridge header
+// summary: Declares the MostVisitedSitesObserving protocol and a C++ bridge class that forwards MostVisitedSites observer callbacks to Objective-C.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_TILES_MODEL_MOST_VISITED_SITES_OBSERVER_BRIDGE_H_
 #define IOS_CHROME_BROWSER_NTP_TILES_MODEL_MOST_VISITED_SITES_OBSERVER_BRIDGE_H_
 

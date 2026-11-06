@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New tab page actions delegate protocol
+// summary: Declares a delegate protocol reporting user interactions with new tab page modules such as recent tabs, most visited tiles, feed articles, and Safety Check.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_UI_BUNDLED_NEW_TAB_PAGE_ACTIONS_DELEGATE_H_
 #define IOS_CHROME_BROWSER_NTP_UI_BUNDLED_NEW_TAB_PAGE_ACTIONS_DELEGATE_H_
 

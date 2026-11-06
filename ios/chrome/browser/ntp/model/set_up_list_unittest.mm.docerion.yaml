@@ -1,0 +1,4 @@
+# Docerion header of set_up_list_unittest.mm.
+type: test
+title: Set Up List unit tests
+summary: Unit tests for the SetUpList class covering item states, metrics, and list building with test profiles and fake services.

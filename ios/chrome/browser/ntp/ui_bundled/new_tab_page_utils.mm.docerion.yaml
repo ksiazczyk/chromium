@@ -1,0 +1,4 @@
+# Docerion header of new_tab_page_utils.mm.
+type: source
+title: New tab page utility implementations
+summary: Implements NTP helpers for themed button handlers, most visited container creation and styling, and height calculations.

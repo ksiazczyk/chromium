@@ -1,0 +1,4 @@
+# Docerion header of feed_header_view_controller.mm.
+type: source
+title: Feed header view controller implementation
+summary: Implements the Discover feed header on the iOS new tab page, including the title label and a notice shown when Google is not the default search engine.

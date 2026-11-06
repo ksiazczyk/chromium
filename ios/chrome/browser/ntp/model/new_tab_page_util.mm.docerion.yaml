@@ -1,0 +1,4 @@
+# Docerion header of new_tab_page_util.mm.
+type: source
+title: New Tab Page URL utility implementation
+summary: Implements NTP URL checks by comparing against the new tab URL and consulting the NewTabPageTabHelper active state.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New tab page content delegate protocol
+// summary: Defines a delegate protocol for new tab page content actions such as omnibox focus, sign-in promo visibility, fakebox events, and content refresh.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_UI_BUNDLED_NEW_TAB_PAGE_CONTENT_DELEGATE_H_
 #define IOS_CHROME_BROWSER_NTP_UI_BUNDLED_NEW_TAB_PAGE_CONTENT_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Set Up List item header
+// summary: Declares SetUpListItem, a task in the Set Up List with a type and a completion state that can be marked complete.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_MODEL_SET_UP_LIST_ITEM_H_
 #define IOS_CHROME_BROWSER_NTP_MODEL_SET_UP_LIST_ITEM_H_
 

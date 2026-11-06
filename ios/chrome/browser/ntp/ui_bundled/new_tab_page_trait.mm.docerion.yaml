@@ -1,0 +1,4 @@
+# Docerion header of new_tab_page_trait.mm.
+type: source
+title: New tab page trait implementation
+summary: Implements the new tab page trait accessors for setting and reading the color palette on trait collections.

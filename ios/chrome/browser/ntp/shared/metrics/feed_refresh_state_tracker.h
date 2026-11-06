@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed refresh state tracker protocol
+// summary: Declares an Objective-C protocol for tracking feed refresh state, such as whether the feed is visible and whether the user engaged with the latest refreshed content.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_SHARED_METRICS_FEED_REFRESH_STATE_TRACKER_H_
 #define IOS_CHROME_BROWSER_NTP_SHARED_METRICS_FEED_REFRESH_STATE_TRACKER_H_
 

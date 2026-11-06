@@ -1,0 +1,4 @@
+# Docerion header of new_tab_page_color_palette_util.mm.
+type: source
+title: New tab page color palette utilities implementation
+summary: Implements color palette generation from seed colors using tonal palettes, plus preview image creation and default NTP color helpers.

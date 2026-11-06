@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Search engine logo UI build configuration
+summary: Defines the GN source sets for the search engine logo UI and its unit tests, listing sources and dependencies.

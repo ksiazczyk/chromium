@@ -1,0 +1,4 @@
+# Docerion header of ntp_tiles_egtest.mm.
+type: test
+title: NTP tiles Earl Grey tests
+summary: Earl Grey test case verifying that visited URLs produce NTP most visited tiles, using an embedded test server with redirect scenarios and cold start checks.

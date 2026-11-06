@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Set Up List item type enum
+// summary: Defines the SetUpListItemType enum of possible Set Up List tasks, matching the IOSSetUpListItemType UMA histogram.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_MODEL_SET_UP_LIST_ITEM_TYPE_H_
 #define IOS_CHROME_BROWSER_NTP_MODEL_SET_UP_LIST_ITEM_TYPE_H_
 

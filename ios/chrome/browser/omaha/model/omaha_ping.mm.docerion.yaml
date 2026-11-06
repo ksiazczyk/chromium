@@ -1,0 +1,4 @@
+# Docerion header of omaha_ping.mm.
+type: source
+title: Omaha ping event XML formatting
+summary: Implements FormatOmahaPingEvent, which builds the XML ping request sent to the Omaha server for install and usage events.

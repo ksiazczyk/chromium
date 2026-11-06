@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the Omaha model directory
+summary: Lists code owners for the directory, referencing chrome/updater/OWNERS plus an iOS and Objective-C specific reviewer.

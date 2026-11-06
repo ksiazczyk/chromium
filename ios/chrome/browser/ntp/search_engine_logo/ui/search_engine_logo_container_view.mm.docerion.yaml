@@ -1,0 +1,4 @@
+# Docerion header of search_engine_logo_container_view.mm.
+type: source
+title: Search engine logo container view implementation
+summary: Implements the NTP container view showing the Google logo or doodle with crossfade animations, layout and tap handling.

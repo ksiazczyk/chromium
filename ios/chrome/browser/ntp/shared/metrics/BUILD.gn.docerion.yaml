@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for NTP shared metrics
+summary: Defines GN source sets and dependencies for the NTP feed metrics code, constants, home metrics, utils and their unit tests.

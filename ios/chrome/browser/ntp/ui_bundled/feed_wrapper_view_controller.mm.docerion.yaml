@@ -1,0 +1,4 @@
+# Docerion header of feed_wrapper_view_controller.mm.
+type: source
+title: Feed wrapper view controller implementation
+summary: Implements the feed wrapper, embedding the feed's collection view or an empty collection view in the new tab page and tracking the last visible feed card.

@@ -1,0 +1,4 @@
+# Docerion header of most_visited_sites_observer_bridge.mm.
+type: source
+title: Most visited sites observer bridge implementation
+summary: Implements the observer bridge, translating MostVisitedSites C++ callbacks into Objective-C calls on the wrapped observer.

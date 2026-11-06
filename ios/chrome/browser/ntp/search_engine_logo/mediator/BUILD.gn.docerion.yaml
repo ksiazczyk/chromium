@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for search engine logo mediator
+summary: Defines the GN source sets and dependencies for the search engine logo mediator and its unit tests.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the iOS NTP directory
+summary: Lists the email addresses of the code owners responsible for changes in the ios/chrome/browser/ntp directory.

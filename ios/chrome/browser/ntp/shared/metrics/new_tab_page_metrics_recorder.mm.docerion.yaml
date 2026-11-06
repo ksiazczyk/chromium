@@ -1,0 +1,4 @@
+# Docerion header of new_tab_page_metrics_recorder.mm.
+type: source
+title: New tab page metrics recorder implementation
+summary: Implements the recorder methods that log NTP and Start surface metrics via UMA histograms and user action strings.

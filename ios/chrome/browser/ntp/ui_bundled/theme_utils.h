@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP theme conversion utilities header
+// summary: Declares helper functions converting between the sync BrowserColorVariant proto enum and the ColorProviderKey scheme variant for theme handling.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_UI_BUNDLED_THEME_UTILS_H_
 #define IOS_CHROME_BROWSER_NTP_UI_BUNDLED_THEME_UTILS_H_
 

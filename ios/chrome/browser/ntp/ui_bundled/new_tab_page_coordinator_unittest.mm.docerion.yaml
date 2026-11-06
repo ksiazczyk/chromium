@@ -1,0 +1,4 @@
+# Docerion header of new_tab_page_coordinator_unittest.mm.
+type: test
+title: New tab page coordinator unit tests
+summary: Unit tests for the new tab page coordinator covering NTP setup, module visibility, metrics, and feed-related behavior.

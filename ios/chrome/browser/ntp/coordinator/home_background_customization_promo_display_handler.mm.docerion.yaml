@@ -1,0 +1,4 @@
+# Docerion header of home_background_customization_promo_display_handler.mm.
+type: source
+title: Home background customization promo display handler implementation
+summary: Implements the handler that shows the home background customization promo and returns its promo configuration with the fresh NTP display time.

@@ -1,0 +1,4 @@
+# Docerion header of search_engine_logo_container_view_unittest.mm.
+type: test
+title: Search engine logo container view unit tests
+summary: Unit tests verifying view hierarchy, logo state opacity transitions, doodle image setters and accessibility label updates.

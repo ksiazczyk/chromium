@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notifications promo view constants header
+// summary: Declares UMA metric enums, notification experiment and button type enums, and promo display limit constants.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NTP_UI_BUNDLED_FEED_TOP_SECTION_NOTIFICATIONS_PROMO_VIEW_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_NTP_UI_BUNDLED_FEED_TOP_SECTION_NOTIFICATIONS_PROMO_VIEW_CONSTANTS_H_
 
