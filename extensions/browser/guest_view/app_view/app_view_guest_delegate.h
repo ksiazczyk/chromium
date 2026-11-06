@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppViewGuestDelegate interface header
+// summary: Declares the AppViewGuestDelegate interface for handling communication between AppView in extensions and the browser, including context menu handling and AppDelegate creation.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_GUEST_VIEW_APP_VIEW_APP_VIEW_GUEST_DELEGATE_H_
 #define EXTENSIONS_BROWSER_GUEST_VIEW_APP_VIEW_APP_VIEW_GUEST_DELEGATE_H_
 

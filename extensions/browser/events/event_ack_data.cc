@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventAckData implementation for extension service worker event acks
+// summary: Implements tracking of in-flight events dispatched to extension service workers, recording external requests, clearing unacked events, and emitting ack latency metrics.
+// ---
+
 #include "extensions/browser/events/event_ack_data.h"
 
 #include <string>

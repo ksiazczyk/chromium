@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe manifest parser unit tests
+// summary: Unit tests verifying parsing of extension update manifests, covering invalid XML, missing fields, and expected error codes.
+// ---
+
 #include "extensions/browser/updater/safe_manifest_parser.h"
 
 #include <optional>

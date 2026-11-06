@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceWorkerTaskQueue implementation
+// summary: Implements the per-browser-context task queue that registers and starts extension service workers, with retry backoff and retry metrics.
+// ---
+
 #include "extensions/browser/service_worker/service_worker_task_queue.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stream container implementation
+// summary: Implements StreamContainer, holding stream metadata, the transferrable URL loader, an independent response head copy, and fallback body cache access.
+// ---
+
 #include "extensions/browser/mime_handler/stream_container.h"
 
 #include <utility>

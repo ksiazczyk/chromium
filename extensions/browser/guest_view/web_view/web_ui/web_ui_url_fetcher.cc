@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUIURLFetcher implementation
+// summary: Implements WebUIURLFetcher, which downloads a file's content from a WebUI URL using SimpleURLLoader and reports success and the response body to the caller's callback.
+// ---
+
 #include "extensions/browser/guest_view/web_view/web_ui/web_ui_url_fetcher.h"
 
 #include "base/functional/bind.h"

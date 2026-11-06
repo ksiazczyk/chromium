@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the ExtensionOptionsGuest
+// summary: Implements the guest view that embeds an extension's options page, validating the extension ID and options page URL before creating the guest contents.
+// ---
+
 #include "extensions/browser/guest_view/extension_options/extension_options_guest.h"
 
 #include <memory>

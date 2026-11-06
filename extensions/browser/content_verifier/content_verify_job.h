@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content verification job class
+// summary: Declares ContentVerifyJob, which verifies extension file content against expected hashes and invokes a failure callback on mismatch.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_CONTENT_VERIFIER_CONTENT_VERIFY_JOB_H_
 #define EXTENSIONS_BROWSER_CONTENT_VERIFIER_CONTENT_VERIFY_JOB_H_
 

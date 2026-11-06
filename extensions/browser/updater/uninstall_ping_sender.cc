@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Uninstall ping sender implementation
+// summary: Implements the uninstall ping sender that notifies the update service when a matching extension is uninstalled.
+// ---
+
 #include "extensions/browser/updater/uninstall_ping_sender.h"
 
 #include "base/version.h"

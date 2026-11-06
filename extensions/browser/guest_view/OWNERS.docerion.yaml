@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for guest_view
+summary: Delegates ownership review responsibility for this directory to the OWNERS file of components/guest_view.

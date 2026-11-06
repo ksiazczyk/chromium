@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Update data provider unit tests
+// summary: Unit tests for the update data provider, covering extension data retrieval, enabled state handling, and install callback behavior.
+// ---
+
 #include "extensions/browser/updater/update_data_provider.h"
 
 #include <map>

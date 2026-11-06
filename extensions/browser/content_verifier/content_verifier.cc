@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentVerifier implementation
+// summary: Implements ContentVerifier, which manages extension content verification, including path normalization, hash fetching and verify job creation.
+// ---
+
 #include "extensions/browser/content_verifier/content_verifier.h"
 
 #include <algorithm>

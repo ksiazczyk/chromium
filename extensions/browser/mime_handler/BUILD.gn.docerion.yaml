@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Mime handler build targets and dependencies
+summary: GN build file defining the mime_handler, registry, page, stream_container, test_helpers, and unit_tests source sets with their sources and dependencies.

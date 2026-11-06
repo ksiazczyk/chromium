@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content verification job implementation
+// summary: Implements ContentVerifyJob, which hashes bytes read from extension files against expected hashes and reports failures via UMA and crash keys.
+// ---
+
 #include "extensions/browser/content_verifier/content_verify_job.h"
 
 #include <algorithm>

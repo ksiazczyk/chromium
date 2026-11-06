@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MimeHandlerViewGuestDelegate implementation
+// summary: Implements default no-op behavior for the guest delegate's context menu handling and load metric recording.
+// ---
+
 #include "extensions/browser/guest_view/mime_handler_view/mime_handler_view_guest_delegate.h"
 
 namespace extensions {

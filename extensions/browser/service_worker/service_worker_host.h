@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceWorkerHost class declaration
+// summary: Declares the ServiceWorkerHost class that hosts extension service worker execution contexts in the renderer process and lives on the UI thread.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_SERVICE_WORKER_SERVICE_WORKER_HOST_H_
 #define EXTENSIONS_BROWSER_SERVICE_WORKER_SERVICE_WORKER_HOST_H_
 

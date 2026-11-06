@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LazyEventDispatchUtil class header for install observation
+// summary: Declares the LazyEventDispatchUtil observer class that watches extension installation and loading, notifying observers when an extension is installed or updated and loaded.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EVENTS_LAZY_EVENT_DISPATCH_UTIL_H_
 #define EXTENSIONS_BROWSER_EVENTS_LAZY_EVENT_DISPATCH_UTIL_H_
 

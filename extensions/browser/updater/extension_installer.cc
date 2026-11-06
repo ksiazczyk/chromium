@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionInstaller implementation
+// summary: Implements ExtensionInstaller, which forwards unpacked extension installs from the component update client to an extension-specific install callback.
+// ---
+
 #include "extensions/browser/updater/extension_installer.h"
 
 #include <optional>

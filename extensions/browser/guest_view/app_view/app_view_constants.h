@@ -4,6 +4,12 @@
 
 // Constants used for the AppView API.
 
+// ---docerion
+// type: source
+// title: AppView API constants header
+// summary: Declares the shared string constants used by the AppView API, covering the embedder namespace, create parameters, and event properties.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_GUEST_VIEW_APP_VIEW_APP_VIEW_CONSTANTS_H_
 #define EXTENSIONS_BROWSER_GUEST_VIEW_APP_VIEW_APP_VIEW_CONSTANTS_H_
 

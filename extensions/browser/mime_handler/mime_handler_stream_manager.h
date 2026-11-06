@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MIME handler stream manager interface
+// summary: Declares MimeHandlerStreamManager, which tracks MIME handler navigation events in a WebContents and manages stream container lifetime until the handler is no longer used.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_MIME_HANDLER_MIME_HANDLER_STREAM_MANAGER_H_
 #define EXTENSIONS_BROWSER_MIME_HANDLER_MIME_HANDLER_STREAM_MANAGER_H_
 

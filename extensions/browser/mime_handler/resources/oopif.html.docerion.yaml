@@ -1,0 +1,4 @@
+# Docerion header of oopif.html.
+type: source
+title: Out-of-process iframe MIME handler template
+summary: HTML template that hosts a MIME handler in a full-size iframe inside a closed shadow root, with placeholders for background color, name, MIME type and internal ID.

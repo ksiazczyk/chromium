@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the extension_options directory
+summary: Chromium DEPS file restricting includes in the extension_options directory to the extensions strings header.

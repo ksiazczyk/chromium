@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView permission helper delegate defaults
+// summary: Provides default no-op implementations for WebViewPermissionHelperDelegate permission methods.
+// ---
+
 #include "extensions/browser/guest_view/web_view/web_view_permission_helper_delegate.h"
 
 #include "extensions/browser/guest_view/web_view/web_view_guest.h"

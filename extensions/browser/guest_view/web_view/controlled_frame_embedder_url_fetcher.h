@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ControlledFrameEmbedderURLFetcher class declaration
+// summary: Declares the fetcher class that downloads a file by URL for a given render frame and reports success and content through a callback.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_GUEST_VIEW_WEB_VIEW_CONTROLLED_FRAME_EMBEDDER_URL_FETCHER_H_
 #define EXTENSIONS_BROWSER_GUEST_VIEW_WEB_VIEW_CONTROLLED_FRAME_EMBEDDER_URL_FETCHER_H_
 

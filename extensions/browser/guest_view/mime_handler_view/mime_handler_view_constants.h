@@ -4,6 +4,12 @@
 
 // Constants used by MimeHandlerView.
 
+// ---docerion
+// type: source
+// title: MimeHandlerView constants declaration
+// summary: Declares constants shared by MimeHandlerView components, such as the streamId create parameter.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_GUEST_VIEW_MIME_HANDLER_VIEW_MIME_HANDLER_VIEW_CONSTANTS_H_
 #define EXTENSIONS_BROWSER_GUEST_VIEW_MIME_HANDLER_VIEW_MIME_HANDLER_VIEW_CONSTANTS_H_
 

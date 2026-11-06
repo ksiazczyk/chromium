@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension downloader test mocks and helper declarations
+// summary: Declares mock delegate and cache classes plus a test helper that connects an ExtensionDownloader to a test URL loader factory for unit tests.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_UPDATER_EXTENSION_DOWNLOADER_TEST_HELPER_H_
 #define EXTENSIONS_BROWSER_UPDATER_EXTENSION_DOWNLOADER_TEST_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UpdateService unit tests
+// summary: Unit tests for the extension UpdateService, using a fake update client to verify update requests, CRX data handling, and uninstall ping behavior.
+// ---
+
 #include "extensions/browser/updater/update_service.h"
 
 #include <stddef.h>

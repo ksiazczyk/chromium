@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker test utilities implementation
+// summary: Implements test helpers such as TestServiceWorkerContextObserver and StopServiceWorkerForScope for extension service worker tests.
+// ---
+
 #include "extensions/browser/service_worker/service_worker_test_utils.h"
 
 #include <utility>

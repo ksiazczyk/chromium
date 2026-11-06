@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaScriptDialogHelper implementation
+// summary: Implements JavaScript dialog handling for WebView guests by requesting permission for alert, confirm and prompt dialogs before showing them.
+// ---
+
 #include "extensions/browser/guest_view/web_view/javascript_dialog_helper.h"
 
 #include <utility>

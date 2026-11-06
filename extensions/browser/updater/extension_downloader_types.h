@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download ping data and fetch priority types
+// summary: Defines the DownloadPingData struct with rollcall and active day counts and the DownloadFetchPriority enum distinguishing background and foreground update requests.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_UPDATER_EXTENSION_DOWNLOADER_TYPES_H_
 #define EXTENSIONS_BROWSER_UPDATER_EXTENSION_DOWNLOADER_TYPES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension downloader delegate interface
+// summary: Defines the delegate interface for extension downloads, including download stage, error, cache status and ping data types used during update checks.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_UPDATER_EXTENSION_DOWNLOADER_DELEGATE_H_
 #define EXTENSIONS_BROWSER_UPDATER_EXTENSION_DOWNLOADER_DELEGATE_H_
 

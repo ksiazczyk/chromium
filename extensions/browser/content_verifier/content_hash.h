@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentHash class declaration
+// summary: Declares ContentHash, which represents verified and computed content hashes for an extension and fetches missing hash data from the network.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_CONTENT_VERIFIER_CONTENT_HASH_H_
 #define EXTENSIONS_BROWSER_CONTENT_VERIFIER_CONTENT_HASH_H_
 

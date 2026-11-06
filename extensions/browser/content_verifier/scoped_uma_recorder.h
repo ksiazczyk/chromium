@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped UMA recorder helper
+// summary: Header defining a scoped helper that records UMA success or failure and elapsed time for hash file initialization.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_CONTENT_VERIFIER_SCOPED_UMA_RECORDER_H_
 #define EXTENSIONS_BROWSER_CONTENT_VERIFIER_SCOPED_UMA_RECORDER_H_
 

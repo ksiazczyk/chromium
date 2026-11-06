@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for the kiosk source set
+summary: Defines the kiosk source set containing kiosk_delegate.h with a dependency on //extensions/common, guarded by enable_extensions_core.

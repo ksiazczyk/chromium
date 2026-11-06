@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Request queue with retry backoff
+// summary: Declares a templated queue that schedules requests and retries failed ones according to a net::BackoffEntry backoff policy.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_UPDATER_REQUEST_QUEUE_H_
 #define EXTENSIONS_BROWSER_UPDATER_REQUEST_QUEUE_H_
 

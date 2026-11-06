@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentVerifierKey type alias
+// summary: Defines ContentVerifierKey as a byte span used to validate verified contents signatures.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_CONTENT_VERIFIER_CONTENT_VERIFIER_KEY_H_
 #define EXTENSIONS_BROWSER_CONTENT_VERIFIER_CONTENT_VERIFIER_KEY_H_
 

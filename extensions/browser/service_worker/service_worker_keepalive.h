@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceWorkerKeepalive class declaration
+// summary: Declares a class that keeps an extension service worker alive for a given activity and shuts down cleanly when the browser context is destroyed.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_SERVICE_WORKER_SERVICE_WORKER_KEEPALIVE_H_
 #define EXTENSIONS_BROWSER_SERVICE_WORKER_SERVICE_WORKER_KEEPALIVE_H_
 

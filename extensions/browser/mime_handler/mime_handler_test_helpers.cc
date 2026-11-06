@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mime handler test helpers implementation
+// summary: Implements test helpers for mime handler unit tests, building sample StreamContainer objects and collecting data pipe bytes via StringDrainerClient.
+// ---
+
 #include "extensions/browser/mime_handler/mime_handler_test_helpers.h"
 
 #include <memory>

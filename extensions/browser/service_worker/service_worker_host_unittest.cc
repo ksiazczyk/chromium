@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ServiceWorkerHost unit tests
+// summary: Verifies that ServiceWorkerHost reports bad messages when service worker start or stop events use invalid scopes or mismatched extension hosts.
+// ---
+
 #include "extensions/browser/service_worker/service_worker_host.h"
 
 #include "base/test/scoped_feature_list.h"

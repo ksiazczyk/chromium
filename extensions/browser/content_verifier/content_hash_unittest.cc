@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ContentHash
+// summary: Unit tests checking ContentHash validity for extensions with signed and unsigned content verification hashes.
+// ---
+
 #include "extensions/browser/content_verifier/content_hash.h"
 
 #include "base/files/file_util.h"

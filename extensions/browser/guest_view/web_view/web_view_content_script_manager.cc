@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewContentScriptManager implementation
+// summary: Implements per-WebView management of programmatically added and removed content scripts, tracking them by embedder process and view instance.
+// ---
+
 #include "extensions/browser/guest_view/web_view/web_view_content_script_manager.h"
 
 #include "base/functional/bind.h"

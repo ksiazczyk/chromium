@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WorkerId header
+// summary: Declares the WorkerId struct identifying a running extension service worker by extension, process, version, thread and start token.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_SERVICE_WORKER_WORKER_ID_H_
 #define EXTENSIONS_BROWSER_SERVICE_WORKER_WORKER_ID_H_
 

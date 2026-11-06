@@ -1,0 +1,4 @@
+# Docerion header of full_page.html.
+type: source
+title: Full-page MIME handler embed template
+summary: HTML template that fills the whole page with an embed element for a MIME handler, using placeholders for background color, name, MIME type and internal ID.

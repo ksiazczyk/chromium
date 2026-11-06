@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stream container header
+// summary: Declares StreamContainer, the holder of the information a MimeHandler extension needs for a resource stream, including fallback data pipe replay.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_MIME_HANDLER_STREAM_CONTAINER_H_
 #define EXTENSIONS_BROWSER_MIME_HANDLER_STREAM_CONTAINER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentVerifierDelegate interface
+// summary: Defines the interface for clients of ContentVerifier, covering hash source types, public keys, signature fetch URLs and failure handling.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_CONTENT_VERIFIER_CONTENT_VERIFIER_DELEGATE_H_
 #define EXTENSIONS_BROWSER_CONTENT_VERIFIER_CONTENT_VERIFIER_DELEGATE_H_
 

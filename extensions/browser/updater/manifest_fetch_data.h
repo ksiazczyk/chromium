@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manifest fetch data class
+// summary: Declares the ManifestFetchData class that batches multiple extension IDs into a single manifest update check URL with ping and priority data.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_UPDATER_MANIFEST_FETCH_DATA_H_
 #define EXTENSIONS_BROWSER_UPDATER_MANIFEST_FETCH_DATA_H_
 

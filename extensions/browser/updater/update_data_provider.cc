@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update data provider implementation
+// summary: Implements retrieval of extension data for update checks, building CRX components and handling update installation callbacks.
+// ---
+
 #include "extensions/browser/updater/update_data_provider.h"
 
 #include <optional>

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for issue tracking
+summary: Maps the forced_extensions directory to the OS>Software>Enterprise>ExtensionReliability monorail component and a Buganizer component ID.

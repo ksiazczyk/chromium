@@ -1,0 +1,4 @@
+# Docerion header of extensions_browser_resources.grd.
+type: config
+title: Extensions browser Grit resource list
+summary: Grit resource list that declares extension icon and background images and generates pak packages, a C++ header, and a resource map for the extensions browser.

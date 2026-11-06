@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstallStageTracker class declaration
+// summary: Declares the InstallStageTracker keyed service with its installation stage enums, observer interface, and installation data for tracking forced extension installs.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_FORCED_EXTENSIONS_INSTALL_STAGE_TRACKER_H_
 #define EXTENSIONS_BROWSER_FORCED_EXTENSIONS_INSTALL_STAGE_TRACKER_H_
 

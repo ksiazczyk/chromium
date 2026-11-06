@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScriptingPermissionsModifier class declaration
+// summary: Declares ScriptingPermissionsModifier, which manages granting, withholding, and querying per-site host permissions for the click-to-script feature.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_PERMISSIONS_SCRIPTING_PERMISSIONS_MODIFIER_H_
 #define EXTENSIONS_BROWSER_PERMISSIONS_SCRIPTING_PERMISSIONS_MODIFIER_H_
 

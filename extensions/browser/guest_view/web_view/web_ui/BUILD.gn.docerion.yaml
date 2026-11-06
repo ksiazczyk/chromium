@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the web_view WebUI source set
+summary: GN build definition for the web_ui source set, listing the WebUI URL fetcher sources and dependencies on base, net, url, content, and the extensions URL fetcher.

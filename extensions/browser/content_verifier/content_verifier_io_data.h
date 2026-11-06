@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentVerifierIOData class declaration
+// summary: Declares ContentVerifierIOData, which tracks canonical extension resource paths and metadata that must only be accessed on the IO thread.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_CONTENT_VERIFIER_CONTENT_VERIFIER_IO_DATA_H_
 #define EXTENSIONS_BROWSER_CONTENT_VERIFIER_CONTENT_VERIFIER_IO_DATA_H_
 

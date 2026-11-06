@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the WebView directory
+summary: Chromium DEPS configuration listing allowed include dependencies for the WebView directory, with a special rule letting tests include media headers.

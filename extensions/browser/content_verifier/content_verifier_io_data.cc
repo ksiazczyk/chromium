@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentVerifierIOData implementation
+// summary: Implements ContentVerifierIOData methods for adding, removing and looking up per-extension verification data on the IO thread.
+// ---
+
 #include "extensions/browser/content_verifier/content_verifier_io_data.h"
 
 #include <utility>

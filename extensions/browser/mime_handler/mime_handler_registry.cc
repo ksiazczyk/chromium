@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MIME handler registry implementation
+// summary: Implements the keyed service that tracks which installed extensions handle MIME types, including per-extension options storage and migration of the obsolete enabled pref.
+// ---
+
 #include "extensions/browser/mime_handler/mime_handler_registry.h"
 
 #include <algorithm>

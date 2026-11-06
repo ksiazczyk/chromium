@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestMimeHandlerViewGuest implementation
+// summary: Implements a test guest variant that supports delayed WebContents creation and waiting for guest attachment and load completion in tests.
+// ---
+
 #include "extensions/browser/guest_view/mime_handler_view/test_mime_handler_view_guest.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventDispatchHelper class header for event dispatching
+// summary: Declares the EventDispatchHelper class that dispatches events to matching listeners, handles lazy context wake-up, and defines the ActiveContextId deduplication struct.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EVENTS_EVENT_DISPATCH_HELPER_H_
 #define EXTENSIONS_BROWSER_EVENTS_EVENT_DISPATCH_HELPER_H_
 

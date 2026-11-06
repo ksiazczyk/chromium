@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SitePermissionsHelper class declaration
+// summary: Declares SitePermissionsHelper, which reports an extension's site interaction and updates its site access for the extensions toolbar UI.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_PERMISSIONS_SITE_PERMISSIONS_HELPER_H_
 #define EXTENSIONS_BROWSER_PERMISSIONS_SITE_PERMISSIONS_HELPER_H_
 

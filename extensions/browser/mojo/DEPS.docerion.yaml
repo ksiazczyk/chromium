@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for extensions browser mojo
+summary: Defines include rules allowing dependencies on services/service_manager/public/mojom within the extensions browser mojo directory.

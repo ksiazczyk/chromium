@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manifest fetch data implementation
+// summary: Implements building of manifest update check URLs, Omaha ping parameters including enabled state, and install location strings for extension update requests.
+// ---
+
 #include "extensions/browser/updater/manifest_fetch_data.h"
 
 #include <iterator>

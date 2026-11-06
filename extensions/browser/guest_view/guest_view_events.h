@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest view events header
+// summary: Declares GetEventHistogramValue, which returns the events histogram value for a given guest view event name.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_GUEST_VIEW_GUEST_VIEW_EVENTS_H_
 #define EXTENSIONS_BROWSER_GUEST_VIEW_GUEST_VIEW_EVENTS_H_
 

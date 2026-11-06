@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scripting permissions modifier implementation
+// summary: Implements click-to-script host permission management, including withholding, granting, and revoking host permissions for an extension.
+// ---
+
 #include "extensions/browser/permissions/scripting_permissions_modifier.h"
 
 #include "base/functional/callback_helpers.h"

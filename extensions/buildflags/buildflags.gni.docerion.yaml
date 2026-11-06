@@ -1,0 +1,4 @@
+# Docerion header of buildflags.gni.
+type: config
+title: Extensions build flags
+summary: Declares GN build arguments controlling which extensions features are compiled and explains migrating from enable_extensions to enable_extensions_core.

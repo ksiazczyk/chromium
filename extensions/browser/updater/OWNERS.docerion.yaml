@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the extension updater
+summary: Lists the owner for the extension downloader flow and references the UpdateClient owners for the UpdateService flow.

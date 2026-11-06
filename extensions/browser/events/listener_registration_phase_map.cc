@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ListenerRegistrationPhaseMap implementation for service workers
+// summary: Implements start, commit, abort, and state-query operations for tracking listener registration phases of extension service workers keyed by extension ID and browser context.
+// ---
+
 #include "extensions/browser/events/listener_registration_phase_map.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionOptionsGuestDelegate base implementation
+// summary: Provides the constructor and destructor for the ExtensionOptionsGuestDelegate base class.
+// ---
+
 #include "extensions/browser/guest_view/extension_options/extension_options_guest_delegate.h"
 
 namespace extensions {

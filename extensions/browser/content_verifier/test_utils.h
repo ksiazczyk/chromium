@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content verifier test utility declarations
+// summary: Declares test observer classes for watching individual and expected sets of ContentVerifyJob runs in extension tests.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_CONTENT_VERIFIER_TEST_UTILS_H_
 #define EXTENSIONS_BROWSER_CONTENT_VERIFIER_TEST_UTILS_H_
 

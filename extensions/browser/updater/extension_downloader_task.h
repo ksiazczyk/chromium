@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionDownloaderTask update request parameters
+// summary: Defines the ExtensionDownloaderTask struct that wraps parameters for a single extension update request, including id, update URL, fetch priority, version, and delegate link.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_UPDATER_EXTENSION_DOWNLOADER_TASK_H_
 #define EXTENSIONS_BROWSER_UPDATER_EXTENSION_DOWNLOADER_TASK_H_
 

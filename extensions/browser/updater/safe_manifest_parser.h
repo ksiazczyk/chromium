@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe update manifest parser header
+// summary: Declares the update manifest parser API, the manifest invalid error enum, and result structures used for extension update checks.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_UPDATER_SAFE_MANIFEST_PARSER_H_
 #define EXTENSIONS_BROWSER_UPDATER_SAFE_MANIFEST_PARSER_H_
 

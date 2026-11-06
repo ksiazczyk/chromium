@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generic MIME handler stream delegate class declaration
+// summary: Declares the stream delegate for generic MIME handler extensions that use a two-level frame tree and consume the intercepted response via the extension page itself.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_MIME_HANDLER_GENERIC_MIME_HANDLER_STREAM_DELEGATE_H_
 #define EXTENSIONS_BROWSER_MIME_HANDLER_GENERIC_MIME_HANDLER_STREAM_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MimeHandlerStreamManager implementation
+// summary: Implements the BrowserContext-keyed service that holds unclaimed MIME handler streams and aborts them when the embedding frame navigates or closes.
+// ---
+
 #include "extensions/browser/guest_view/mime_handler_view/mime_handler_stream_manager.h"
 
 #include "base/memory/ptr_util.h"

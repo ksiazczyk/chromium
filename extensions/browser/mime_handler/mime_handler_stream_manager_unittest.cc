@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MIME handler stream manager unit tests
+// summary: Unit tests for MimeHandlerStreamManager covering stream claiming, embedder and content frame navigation, response headers, and stream cleanup on extension unload.
+// ---
+
 #include "extensions/browser/mime_handler/mime_handler_stream_manager.h"
 
 #include <memory>

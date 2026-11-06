@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update service implementation
+// summary: Implements the keyed service that runs extension update checks, downloads and installs updates, and sends uninstall pings via the update client.
+// ---
+
 #include "extensions/browser/updater/update_service.h"
 
 #include <algorithm>

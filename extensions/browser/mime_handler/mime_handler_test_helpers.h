@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mime handler test helpers header
+// summary: Declares test helpers for mime handler unit tests, including a fake navigation ID, a sample StreamContainer generator, and a data pipe drainer client.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_MIME_HANDLER_MIME_HANDLER_TEST_HELPERS_H_
 #define EXTENSIONS_BROWSER_MIME_HANDLER_MIME_HANDLER_TEST_HELPERS_H_
 

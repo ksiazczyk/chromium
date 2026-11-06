@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension downloader delegate base implementation
+// summary: Provides default implementations of the ExtensionDownloaderDelegate callbacks and constructors for its FailureData class.
+// ---
+
 #include "extensions/browser/updater/extension_downloader_delegate.h"
 
 #include "base/version.h"

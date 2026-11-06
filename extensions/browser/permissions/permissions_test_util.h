@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permissions test helper declarations
+// summary: Declares test helpers for granting and revoking optional and runtime extension permissions synchronously and for converting URL pattern sets to strings.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_PERMISSIONS_PERMISSIONS_TEST_UTIL_H_
 #define EXTENSIONS_BROWSER_PERMISSIONS_PERMISSIONS_TEST_UTIL_H_
 

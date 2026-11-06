@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site permissions helper implementation
+// summary: Implements site interaction lookups and site access updates for extensions, backing the extensions toolbar and context menu models.
+// ---
+
 #include "extensions/browser/permissions/site_permissions_helper.h"
 
 #include "components/sessions/content/session_tab_helper.h"

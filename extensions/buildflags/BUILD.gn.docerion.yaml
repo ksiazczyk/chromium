@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Extensions buildflags BUILD.gn
+summary: Defines the buildflag header exposing extension feature flags and the Android Java buildflag generation targets for the Chromium extensions system.

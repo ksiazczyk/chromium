@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateServiceFactory implementation
+// summary: Implements the keyed service factory that builds an UpdateService instance per browser context, wiring in the update client configurator and CRX cache.
+// ---
+
 #include "extensions/browser/updater/update_service_factory.h"
 
 #include <memory>

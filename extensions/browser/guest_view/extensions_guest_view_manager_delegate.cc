@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions guest view manager delegate implementation
+// summary: Implements extension-specific GuestViewManager delegate behavior, including guest availability checks, event dispatching, and ownership detection for extensions, WebUI, and Controlled Frame.
+// ---
+
 #include "extensions/browser/guest_view/extensions_guest_view_manager_delegate.h"
 
 #include <memory>

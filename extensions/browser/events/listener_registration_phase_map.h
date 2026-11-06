@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ListenerRegistrationPhaseMap class header for registration phases
+// summary: Declares the ListenerRegistrationPhaseMap class that tracks listener registration phases for extension service workers using async listener registration, with started, committed, and aborted states.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_EVENTS_LISTENER_REGISTRATION_PHASE_MAP_H_
 #define EXTENSIONS_BROWSER_EVENTS_LISTENER_REGISTRATION_PHASE_MAP_H_
 

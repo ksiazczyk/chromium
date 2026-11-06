@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExtensionDownloader unit tests
+// summary: Unit tests for ExtensionDownloader covering manifest fetch data, update manifests, and download flows using an embedded test server and mock delegate.
+// ---
+
 #include "extensions/browser/updater/extension_downloader.h"
 
 #include "base/command_line.h"

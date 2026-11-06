@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateServiceFactory class declaration
+// summary: Declares the BrowserContextKeyedServiceFactory that constructs UpdateService instances per browser context, noting that OTR contexts get none.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_UPDATER_UPDATE_SERVICE_FACTORY_H_
 #define EXTENSIONS_BROWSER_UPDATER_UPDATE_SERVICE_FACTORY_H_
 
