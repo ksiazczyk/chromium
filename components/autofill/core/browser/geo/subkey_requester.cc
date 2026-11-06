@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubKeyRequester implementation for region subkeys
+// summary: Implements SubKeyRequester, which fetches a region's admin-area subkeys via the address validator with timeout handling and Android JNI support.
+// ---
+
 #include "components/autofill/core/browser/geo/subkey_requester.h"
 
 #include <memory>

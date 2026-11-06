@@ -1,0 +1,4 @@
+# Docerion header of UY.txt.
+type: data
+title: Uruguay address rewrite rules
+summary: Tab-separated rewrite rules that abbreviate directional terms in Uruguayan addresses for autofill.

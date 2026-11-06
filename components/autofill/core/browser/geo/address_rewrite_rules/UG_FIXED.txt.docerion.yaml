@@ -1,0 +1,4 @@
+# Docerion header of UG_FIXED.txt.
+type: data
+title: Uganda fixed address rewrite rules
+summary: Extended Ugandan rewrite rules mapping a wide range of street, estate and organization terms to standard abbreviations.

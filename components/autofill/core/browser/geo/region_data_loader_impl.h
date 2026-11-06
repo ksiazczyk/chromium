@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Region data loader implementation header
+// summary: Declares RegionDataLoaderImpl, a wrapper around libaddressinput's PreloadSupplier that loads region data for a country code in a given locale.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_GEO_REGION_DATA_LOADER_IMPL_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_GEO_REGION_DATA_LOADER_IMPL_H_
 

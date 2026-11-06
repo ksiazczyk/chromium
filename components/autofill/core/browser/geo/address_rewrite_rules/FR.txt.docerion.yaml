@@ -1,0 +1,4 @@
+# Docerion header of FR.txt.
+type: data
+title: French address rewrite rules
+summary: Regex rules rewriting French street types, region names, and common name particles to abbreviations for autofill address normalization.

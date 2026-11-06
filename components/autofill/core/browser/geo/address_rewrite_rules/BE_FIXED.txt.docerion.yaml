@@ -1,0 +1,4 @@
+# Docerion header of BE_FIXED.txt.
+type: data
+title: Belgium fixed-address rewrite rules
+summary: Belgian rewrite rules for already normalized addresses, abbreviating street types and unifying Dutch, French and German place-name variants.

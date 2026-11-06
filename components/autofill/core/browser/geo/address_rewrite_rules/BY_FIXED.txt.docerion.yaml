@@ -1,0 +1,4 @@
+# Docerion header of BY_FIXED.txt.
+type: data
+title: Belarus fixed-address rewrite rules
+summary: Belarusian rewrite rules for fixed addresses, adding removal of the Cyrillic city abbreviation to the direction mappings.

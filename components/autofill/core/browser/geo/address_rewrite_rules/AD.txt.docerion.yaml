@@ -1,0 +1,4 @@
+# Docerion header of AD.txt.
+type: data
+title: Andorra address rewrite rules
+summary: Tab-separated rewrite rules that normalize Andorran parish and street names into short codes for autofill address matching.

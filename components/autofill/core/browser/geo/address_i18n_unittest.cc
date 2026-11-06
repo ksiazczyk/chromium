@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for address i18n field type conversions
+// summary: Unit tests verifying field type conversions between Autofill server types and libaddressinput address fields, including unconvertible fields.
+// ---
+
 #include "components/autofill/core/browser/geo/address_i18n.h"
 
 #include <stddef.h>

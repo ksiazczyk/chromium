@@ -1,0 +1,4 @@
+# Docerion header of CL.txt.
+type: data
+title: Chile address rewrite rules (CL)
+summary: Regular-expression rules that rewrite Chilean addresses, abbreviating titles, street types, ordinal suffixes and region names.

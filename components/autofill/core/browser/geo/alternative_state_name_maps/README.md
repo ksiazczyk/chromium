@@ -1,3 +1,11 @@
+---
+type: readme
+title: Alternative state name maps data
+summary: Explains that the directory holds one binary protobuf map per country, letting Autofill recognize states under different names.
+relations:
+  - references /components/autofill/core/browser/geo/alternative_state_name_map.h
+---
+
 # Alternative state name maps data.
 
 This directory contains alternative state name maps data, one file per country.

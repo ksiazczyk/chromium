@@ -1,0 +1,4 @@
+# Docerion header of PH.txt.
+type: data
+title: Philippines address rewrite rules
+summary: Tab-separated regex rules that rewrite and abbreviate Philippine street, title and address terms for autofill address normalization.

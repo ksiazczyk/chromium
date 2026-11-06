@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Alternative state name map updater unit tests
+// summary: Unit tests covering population of the alternative state name map from state data files and matching of state values from address profiles.
+// ---
+
 #include "components/autofill/core/browser/geo/alternative_state_name_map_updater.h"
 
 #include <optional>

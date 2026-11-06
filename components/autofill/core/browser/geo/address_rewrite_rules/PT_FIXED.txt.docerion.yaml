@@ -1,0 +1,4 @@
+# Docerion header of PT_FIXED.txt.
+type: data
+title: Portugal fixed address rewrite rules
+summary: Extended variant of the Portugal rewrite rules with many additional street type and abbreviation patterns for autofill address normalization.

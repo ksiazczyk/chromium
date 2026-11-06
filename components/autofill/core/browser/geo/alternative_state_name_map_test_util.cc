@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test utilities for the alternative state name map
+// summary: Test helpers to populate and clear the AlternativeStateNameMap and to build serialized states protos for testing.
+// ---
+
 #include "components/autofill/core/browser/geo/alternative_state_name_map_test_util.h"
 
 #include "base/strings/utf_string_conversions.h"

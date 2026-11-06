@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Alternative state name map implementation
+// summary: Implements a singleton map resolving state names, abbreviations, and alternative names to canonical state names per country.
+// ---
+
 #include "components/autofill/core/browser/geo/alternative_state_name_map.h"
 
 #include <optional>

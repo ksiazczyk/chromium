@@ -1,0 +1,4 @@
+# Docerion header of HK.txt.
+type: data
+title: Hong Kong address rewrite rules
+summary: Hong Kong address rewrite rules abbreviating street types, districts and directions for autofill normalization.

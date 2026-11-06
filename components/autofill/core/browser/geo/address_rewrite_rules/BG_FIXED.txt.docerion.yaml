@@ -1,0 +1,4 @@
+# Docerion header of BG_FIXED.txt.
+type: data
+title: Bulgaria fixed-address rewrite rules
+summary: Bulgarian rewrite rules for fixed addresses, extending the base rules with English and French address-term abbreviations.

@@ -1,0 +1,4 @@
+# Docerion header of NG_FIXED.txt.
+type: data
+title: Nigeria fixed-address rewrite rules
+summary: Extended variant of the Nigeria rewrite rules adding many institution and organization abbreviations such as NNPC and CBN for autofill normalization.

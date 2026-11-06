@@ -1,0 +1,4 @@
+# Docerion header of BO_FIXED.txt.
+type: data
+title: Bolivia fixed-address rewrite rules
+summary: Bolivian rewrite rules for fixed addresses, a reduced set of street-type and direction abbreviations.

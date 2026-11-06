@@ -1,0 +1,4 @@
+# Docerion header of UG.txt.
+type: data
+title: Uganda address rewrite rules
+summary: Rewrite rules normalizing Ugandan address terms such as plot, floor and number plus directional words.

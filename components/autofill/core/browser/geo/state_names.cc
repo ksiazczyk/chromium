@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: US state names and abbreviations
+// summary: Maps US state and territory names to two-letter abbreviations and back for autofill state fields.
+// ---
+
 #include "components/autofill/core/browser/geo/state_names.h"
 
 #include <stddef.h>

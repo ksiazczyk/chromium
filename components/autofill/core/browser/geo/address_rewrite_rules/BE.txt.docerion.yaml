@@ -1,0 +1,4 @@
+# Docerion header of BE.txt.
+type: data
+title: Belgium address rewrite rules
+summary: Rewrite rules that normalize Belgian street, province and region names across French, Dutch and German spellings for autofill address matching.

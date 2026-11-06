@@ -1,0 +1,4 @@
+# Docerion header of MG_FIXED.txt.
+type: data
+title: Madagascar fixed-address rewrite rules
+summary: Extended variant of the Madagascar rewrite rules adding postal and district terms such as bureau de poste and zone industrielle for autofill normalization.

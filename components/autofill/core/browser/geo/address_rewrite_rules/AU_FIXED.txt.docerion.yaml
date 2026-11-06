@@ -1,0 +1,4 @@
+# Docerion header of AU_FIXED.txt.
+type: data
+title: Australia fixed address rewrite rules
+summary: Extended variant of the Australian rewrite rules that adds titles, floor and building terms and further street abbreviations.

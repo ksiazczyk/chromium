@@ -1,0 +1,4 @@
+# Docerion header of AT_FIXED.txt.
+type: data
+title: Austria fixed address rewrite rules
+summary: Extended variant of the Austrian rewrite rules that adds patterns splitting compound street names before the standard term mappings.

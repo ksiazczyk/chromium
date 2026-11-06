@@ -1,0 +1,4 @@
+# Docerion header of NG.txt.
+type: data
+title: Nigeria address rewrite rules
+summary: Compact rule set abbreviating Nigerian address words like street, avenue and close, plus number markers, for autofill address normalization.

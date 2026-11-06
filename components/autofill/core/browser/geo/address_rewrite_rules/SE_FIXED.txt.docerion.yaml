@@ -1,0 +1,4 @@
+# Docerion header of SE_FIXED.txt.
+type: data
+title: Sweden fixed address rewrite rules
+summary: Extended rewrite rules normalizing Swedish address terms with compound word splitting and additional street suffixes for autofill.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Constants for alternative state name map resources
+// summary: Defines the concatenated country codes with state name resources and static asserts that keep the per-country resource IDs referenced.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_GEO_ALTERNATIVE_STATE_NAME_MAP_CONSTANTS_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_GEO_ALTERNATIVE_STATE_NAME_MAP_CONSTANTS_H_
 

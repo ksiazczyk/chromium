@@ -1,0 +1,4 @@
+# Docerion header of TR_FIXED.txt.
+type: data
+title: Turkey fixed address rewrite rules
+summary: Extended variant of the Turkish rewrite rules, mapping street, avenue, tunnel and company terms to abbreviations beyond TR.txt.

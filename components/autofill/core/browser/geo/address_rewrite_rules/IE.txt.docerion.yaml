@@ -1,0 +1,4 @@
+# Docerion header of IE.txt.
+type: data
+title: Ireland address rewrite rules
+summary: Regex replacement rules that normalize Irish address vocabulary, including Irish-language street names and county abbreviations, for autofill.

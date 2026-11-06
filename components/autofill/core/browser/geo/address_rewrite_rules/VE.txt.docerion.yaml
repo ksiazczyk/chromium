@@ -1,0 +1,4 @@
+# Docerion header of VE.txt.
+type: data
+title: Venezuela address rewrite rules
+summary: Rewrite rules normalizing Venezuelan address terms, month names and directions into shorter forms.

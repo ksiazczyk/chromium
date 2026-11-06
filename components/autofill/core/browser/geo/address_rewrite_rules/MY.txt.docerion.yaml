@@ -1,0 +1,4 @@
+# Docerion header of MY.txt.
+type: data
+title: Malaysia address rewrite rules
+summary: Rewrite rules abbreviating Malay street terms such as jalan, lorong and lebuhraya for autofill address normalization.

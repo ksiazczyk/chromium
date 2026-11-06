@@ -1,0 +1,4 @@
+# Docerion header of HR.txt.
+type: data
+title: Croatia address rewrite rules
+summary: Croatian address rewrite rules abbreviating street, avenue and doctor titles for autofill normalization.

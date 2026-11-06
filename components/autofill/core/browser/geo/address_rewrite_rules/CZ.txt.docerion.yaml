@@ -1,0 +1,4 @@
+# Docerion header of CZ.txt.
+type: data
+title: Czech address rewrite rules
+summary: Rewrite rules that abbreviate the directional words north, south, east and west in Czech addresses for autofill normalization.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock alternative state name map updater
+// summary: Provides a mock AlternativeStateNameMapUpdater that repopulates the map when address data changes, for use in tests.
+// ---
+
 #include "components/autofill/core/browser/geo/mock_alternative_state_name_map_updater.h"
 
 #include "base/functional/callback_helpers.h"

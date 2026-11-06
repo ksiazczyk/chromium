@@ -1,0 +1,4 @@
+# Docerion header of CA_FIXED.txt.
+type: data
+title: Canada address rewrite rules (CA_FIXED)
+summary: Variant of the Canadian rewrite rules with revised replacements, filling in abbreviations for street and place-name terms left empty in the base rules.

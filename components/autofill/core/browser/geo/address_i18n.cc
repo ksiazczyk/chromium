@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address i18n conversion between Autofill profiles and libaddressinput
+// summary: Implements helpers that build libaddressinput AddressData from Autofill profiles and map address field types between the two systems.
+// ---
+
 #include "components/autofill/core/browser/geo/address_i18n.h"
 
 #include <memory>

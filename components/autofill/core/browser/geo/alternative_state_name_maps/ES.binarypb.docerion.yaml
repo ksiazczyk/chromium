@@ -1,0 +1,4 @@
+# Docerion header of ES.binarypb.
+type: data
+title: Alternative state name map data for Spain
+summary: Binary protobuf mapping Spanish state names such as Andalucía and Euskadi to abbreviations and English alternatives for Autofill.

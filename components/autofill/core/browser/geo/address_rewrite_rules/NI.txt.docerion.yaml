@@ -1,0 +1,4 @@
+# Docerion header of NI.txt.
+type: data
+title: Nicaragua address rewrite rules
+summary: Tab-separated regex rules that abbreviate Nicaraguan street, direction and article words to normalize addresses for autofill.

@@ -1,0 +1,4 @@
+# Docerion header of MX_FIXED.txt.
+type: data
+title: Mexico fixed-address rewrite rules
+summary: Extended variant of the Mexico rewrite rules with additional entries such as punto kilometrico and apartado postal for autofill address normalization.

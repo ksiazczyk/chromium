@@ -1,0 +1,4 @@
+# Docerion header of HU.txt.
+type: data
+title: Hungary address rewrite rules
+summary: Hungarian address rewrite rules abbreviating street types, district names and compass directions for autofill.

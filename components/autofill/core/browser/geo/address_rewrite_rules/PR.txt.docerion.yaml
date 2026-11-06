@@ -1,0 +1,4 @@
+# Docerion header of PR.txt.
+type: data
+title: Puerto Rico address rewrite rules
+summary: Tab-separated regex rules that rewrite and abbreviate Puerto Rican street and address terms for autofill address normalization.

@@ -1,0 +1,4 @@
+# Docerion header of TH.txt.
+type: data
+title: Thai address rewrite rules (TH)
+summary: Thai rewrite rules that abbreviate street words like thanon and soi and convert Thai numerals to digits in addresses.

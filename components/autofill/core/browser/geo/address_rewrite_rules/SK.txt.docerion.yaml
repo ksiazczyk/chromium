@@ -1,0 +1,4 @@
+# Docerion header of SK.txt.
+type: data
+title: Slovak address rewrite rules (SK)
+summary: Slovak rewrite rules that shorten long street names of personal and historical origin and abbreviate terms like ulica and namestie.

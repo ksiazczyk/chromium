@@ -1,0 +1,4 @@
+# Docerion header of CZ_FIXED.txt.
+type: data
+title: Czech address rewrite rules (fixed variant)
+summary: Extended rewrite rules abbreviating Czech street terms like namesti, trida and ulice alongside directional words.

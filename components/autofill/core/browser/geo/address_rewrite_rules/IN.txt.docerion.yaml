@@ -1,0 +1,4 @@
+# Docerion header of IN.txt.
+type: data
+title: India address rewrite rules
+summary: Extensive regex rules that normalize Indian address terms, city name variants, and honorifics into canonical abbreviations for autofill.

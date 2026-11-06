@@ -1,0 +1,4 @@
+# Docerion header of US.txt.
+type: data
+title: United States address rewrite rules
+summary: Large rule set rewriting US state names, cities, street types and landmarks to canonical abbreviations for address normalization.

@@ -1,0 +1,4 @@
+# Docerion header of RU.txt.
+type: data
+title: Russia address rewrite rules
+summary: Tab-separated rewrite rules that normalize Russian address terms, ordinal numbers and road types for autofill.

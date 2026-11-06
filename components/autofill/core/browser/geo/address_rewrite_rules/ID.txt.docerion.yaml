@@ -1,0 +1,4 @@
+# Docerion header of ID.txt.
+type: data
+title: Indonesia address rewrite rules
+summary: Tab-separated regex rules that normalize Indonesian address terms, mapping provinces, cities, and street words to canonical abbreviations for autofill.

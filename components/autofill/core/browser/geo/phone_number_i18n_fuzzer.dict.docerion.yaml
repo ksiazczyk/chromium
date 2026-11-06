@@ -1,0 +1,4 @@
+# Docerion header of phone_number_i18n_fuzzer.dict.
+type: data
+title: Fuzzer dictionary for phone number parsing
+summary: Seed dictionary of byte strings used as inputs by the phone number parsing fuzzer.

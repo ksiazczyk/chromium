@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillCountry implementation
+// summary: Implements the AutofillCountry class that resolves country codes and aliases, localized country names and required address fields per country.
+// ---
+
 #include "components/autofill/core/browser/geo/autofill_country.h"
 
 #include <stddef.h>

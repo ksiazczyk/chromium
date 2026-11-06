@@ -1,0 +1,4 @@
+# Docerion header of CN.txt.
+type: data
+title: China address rewrite rules (CN)
+summary: Regular-expression rules that rewrite Chinese addresses, mapping direction words and Chinese numeral characters to Arabic digits.

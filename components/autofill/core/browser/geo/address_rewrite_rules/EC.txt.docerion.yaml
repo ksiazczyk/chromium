@@ -1,0 +1,4 @@
+# Docerion header of EC.txt.
+type: data
+title: Ecuador address rewrite rules
+summary: Rewrite rules that abbreviate Ecuadorian street types, compass directions and honorifics, and remove articles for autofill normalization.

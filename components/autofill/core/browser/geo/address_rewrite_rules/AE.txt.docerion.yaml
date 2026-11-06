@@ -1,0 +1,4 @@
+# Docerion header of AE.txt.
+type: data
+title: United Arab Emirates address rewrite rules
+summary: Rewrite rules that normalize Emirati street and area names, translating between Arabic and English spellings and number words for autofill address matching.

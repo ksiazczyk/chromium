@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address rewriter class declaration
+// summary: Declares AddressRewriter, which applies country-specific, global, or custom normalization rewrite rules to address text.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_GEO_ADDRESS_REWRITER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_GEO_ADDRESS_REWRITER_H_
 

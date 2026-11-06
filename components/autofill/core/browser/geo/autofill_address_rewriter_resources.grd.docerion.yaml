@@ -1,0 +1,4 @@
+# Docerion header of autofill_address_rewriter_resources.grd.
+type: config
+title: Address rewriter GRIT resource list
+summary: GRIT resource definition that packages per-country address rewrite rule files into Chromium resource bundles for the autofill address rewriter.

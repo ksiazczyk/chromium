@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for international phone number utilities
+// summary: Unit tests covering normalization, parsing, construction and matching of international phone numbers across regions and digit scripts.
+// ---
+
 #include "components/autofill/core/browser/geo/phone_number_i18n.h"
 
 #include <stddef.h>

@@ -1,0 +1,4 @@
+# Docerion header of DE.binarypb.
+type: data
+title: Alternative state name map data for Germany
+summary: Binary protobuf mapping German state names such as Bayern to abbreviations and English alternatives like Bavaria for Autofill.

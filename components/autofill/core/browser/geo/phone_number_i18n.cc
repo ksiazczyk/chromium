@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: International phone number utilities implementation
+// summary: Implements parsing, formatting, normalization and comparison of international phone numbers for autofill using libphonenumber.
+// ---
+
 #include "components/autofill/core/browser/geo/phone_number_i18n.h"
 
 #include <algorithm>

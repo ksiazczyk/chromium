@@ -1,0 +1,4 @@
+# Docerion header of DK.txt.
+type: data
+title: Danish address rewrite rules
+summary: Rewrite rules that abbreviate Danish address terms such as kommune, boulevard, sankt and directional words for autofill normalization.

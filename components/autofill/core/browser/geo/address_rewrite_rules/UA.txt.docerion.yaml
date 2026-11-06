@@ -1,0 +1,4 @@
+# Docerion header of UA.txt.
+type: data
+title: Ukraine address rewrite rules
+summary: Rewrite rules normalizing Ukrainian street terms such as vulytsia together with directional words for autofill address matching.

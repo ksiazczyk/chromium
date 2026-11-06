@@ -1,0 +1,4 @@
+# Docerion header of FR_FIXED.txt.
+type: data
+title: French address rewrite rules (fixed)
+summary: Extended variant of the French rewrite rules adding building, zone, and place name abbreviations for autofill address normalization.

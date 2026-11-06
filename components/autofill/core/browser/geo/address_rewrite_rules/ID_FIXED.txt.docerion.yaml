@@ -1,0 +1,4 @@
+# Docerion header of ID_FIXED.txt.
+type: data
+title: Indonesia fixed address rewrite rules
+summary: Variant of the Indonesian rewrite rules that additionally normalizes local terms such as kabupaten, lantai, and nomor for autofill address parsing.

@@ -1,0 +1,4 @@
+# Docerion header of FI.txt.
+type: data
+title: Finnish address rewrite rules
+summary: Regex rules rewriting Finnish street types and compass directions to abbreviations for autofill address normalization.

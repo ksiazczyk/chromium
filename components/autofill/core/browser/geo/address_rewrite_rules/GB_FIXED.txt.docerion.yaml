@@ -1,0 +1,4 @@
+# Docerion header of GB_FIXED.txt.
+type: data
+title: Great Britain address rewrite rules (fixed)
+summary: Variant of the Great Britain rewrite rules with updated county code mappings and additional region abbreviations for autofill.

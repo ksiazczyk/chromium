@@ -1,0 +1,4 @@
+# Docerion header of AR.txt.
+type: data
+title: Argentina address rewrite rules
+summary: Rewrite rules that abbreviate Argentine province names, boulevards, road types and compass directions for autofill address matching.

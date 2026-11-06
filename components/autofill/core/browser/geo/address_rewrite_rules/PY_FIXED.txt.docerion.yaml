@@ -1,0 +1,4 @@
+# Docerion header of PY_FIXED.txt.
+type: data
+title: Paraguay fixed address rewrite rules
+summary: Extended rewrite rules normalizing Paraguayan address terms such as avenue, street, route and directions for autofill.

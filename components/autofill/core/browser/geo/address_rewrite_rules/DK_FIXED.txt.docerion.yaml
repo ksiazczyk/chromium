@@ -1,0 +1,4 @@
+# Docerion header of DK_FIXED.txt.
+type: data
+title: Danish address rewrite rules (fixed variant)
+summary: Extended rewrite rules that split Danish street name suffixes like gade and vej and translate common address words for autofill normalization.

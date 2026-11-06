@@ -1,0 +1,4 @@
+# Docerion header of VN.txt.
+type: data
+title: Vietnam address rewrite rules
+summary: Rewrite rules abbreviating Vietnamese address terms like duong, phuong and quan for autofill.

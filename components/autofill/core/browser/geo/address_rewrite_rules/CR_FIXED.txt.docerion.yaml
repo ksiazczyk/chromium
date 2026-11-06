@@ -1,0 +1,4 @@
+# Docerion header of CR_FIXED.txt.
+type: data
+title: Costa Rica address rewrite rules (fixed variant)
+summary: Tab-separated regex rules that abbreviate common Costa Rican address terms such as avenida, calle and compass directions for autofill normalization.

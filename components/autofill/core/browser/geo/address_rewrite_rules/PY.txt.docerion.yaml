@@ -1,0 +1,4 @@
+# Docerion header of PY.txt.
+type: data
+title: Paraguay address rewrite rules
+summary: Tab-separated rewrite rules that normalize directional terms in Paraguayan addresses for autofill.

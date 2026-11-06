@@ -1,0 +1,4 @@
+# Docerion header of FI_FIXED.txt.
+type: data
+title: Finnish address rewrite rules (fixed)
+summary: Extended variant of the Finnish rewrite rules that also splits compound street names and abbreviates Finnish address terms.

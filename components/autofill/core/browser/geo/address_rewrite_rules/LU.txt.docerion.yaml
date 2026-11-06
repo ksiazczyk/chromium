@@ -1,0 +1,4 @@
+# Docerion header of LU.txt.
+type: data
+title: Luxembourg address rewrite rules
+summary: Tab-separated rewrite rules that shorten Luxembourg street names, honorifics and common address words to canonical abbreviations for autofill address normalization.

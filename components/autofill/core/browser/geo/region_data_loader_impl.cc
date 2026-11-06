@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Region data loader implementation
+// summary: Implements RegionDataLoader by loading country address rules via libaddressinput and returning the built sub-region data to a callback.
+// ---
+
 #include "components/autofill/core/browser/geo/region_data_loader_impl.h"
 
 #include <string>

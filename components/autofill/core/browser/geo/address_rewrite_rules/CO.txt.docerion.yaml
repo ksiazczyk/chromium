@@ -1,0 +1,4 @@
+# Docerion header of CO.txt.
+type: data
+title: Colombia address rewrite rules (CO)
+summary: Regular-expression rules that rewrite Colombian addresses, abbreviating street types and translating direction and road terms.

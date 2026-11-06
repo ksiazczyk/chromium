@@ -1,0 +1,4 @@
+# Docerion header of PA_FIXED.txt.
+type: data
+title: Panama fixed address rewrite rules
+summary: Variant of the Panama rewrite rules that omits the standalone article-removal entries present in the base rule set.

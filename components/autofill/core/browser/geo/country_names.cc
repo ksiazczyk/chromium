@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Country name to code lookup singleton
+// summary: Implements the CountryNames singleton that resolves country names, codes, synonyms and native names to country codes across locales.
+// ---
+
 #include "components/autofill/core/browser/geo/country_names.h"
 
 #include <map>

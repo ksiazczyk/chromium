@@ -1,0 +1,4 @@
+# Docerion header of ES.txt.
+type: data
+title: Spanish address rewrite rules
+summary: Regex rules rewriting Spanish street types, province names, and regional terms in several languages to abbreviations for autofill address normalization.

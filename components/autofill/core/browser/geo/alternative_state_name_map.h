@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Alternative state name map class declaration
+// summary: Declares AlternativeStateNameMap, which maps profile state strings to canonical names, abbreviations, and alternative names for filling and comparison.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_GEO_ALTERNATIVE_STATE_NAME_MAP_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_GEO_ALTERNATIVE_STATE_NAME_MAP_H_
 

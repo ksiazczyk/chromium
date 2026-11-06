@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock alternative state name map updater
+// summary: Declares MockAlternativeStateNameMapUpdater, a test double of AlternativeStateNameMapUpdater used to test the alternative state name map.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_GEO_MOCK_ALTERNATIVE_STATE_NAME_MAP_UPDATER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_GEO_MOCK_ALTERNATIVE_STATE_NAME_MAP_UPDATER_H_
 

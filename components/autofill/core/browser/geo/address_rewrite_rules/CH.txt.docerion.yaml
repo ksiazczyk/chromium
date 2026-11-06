@@ -1,0 +1,4 @@
+# Docerion header of CH.txt.
+type: data
+title: Switzerland address rewrite rules (CH)
+summary: Regular-expression rules that rewrite Swiss addresses, unifying German, French and Italian spellings of canton and street names into short canonical forms.

@@ -1,0 +1,4 @@
+# Docerion header of KR.txt.
+type: data
+title: South Korea address rewrite rules
+summary: Rules that normalize Korean addresses, converting spelled-out Korean numbers and street words into numerals and abbreviations for autofill.

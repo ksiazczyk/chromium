@@ -1,0 +1,4 @@
+# Docerion header of US_FIXED.txt.
+type: data
+title: United States fixed address rewrite rules
+summary: Extended variant of the US rewrite rules adding mappings such as condominium, northeast and township road abbreviations.

@@ -1,0 +1,4 @@
+# Docerion header of CL_FIXED.txt.
+type: data
+title: Chile address rewrite rules (CL_FIXED)
+summary: Variant of the Chilean rewrite rules with largely identical mappings and minor cleanup of ordinal and symbol entries.

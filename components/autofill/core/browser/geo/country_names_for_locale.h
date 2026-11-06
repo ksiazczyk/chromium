@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CountryNamesForLocale class interface
+// summary: Declares CountryNamesForLocale, which maps country names localized to one locale to country codes using an ICU collator.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_GEO_COUNTRY_NAMES_FOR_LOCALE_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_GEO_COUNTRY_NAMES_FOR_LOCALE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of RO_FIXED.txt.
+type: data
+title: Romania fixed address rewrite rules
+summary: Extended rewrite rules normalizing Romanian address terms including administrative divisions and postal abbreviations for autofill.

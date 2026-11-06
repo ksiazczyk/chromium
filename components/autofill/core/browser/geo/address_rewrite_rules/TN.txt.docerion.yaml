@@ -1,0 +1,4 @@
+# Docerion header of TN.txt.
+type: data
+title: Tunisian address rewrite rules (TN)
+summary: Rewrite rules that abbreviate direction words such as north, south, east and west in Tunisian street addresses.

@@ -1,0 +1,4 @@
+# Docerion header of SA.txt.
+type: data
+title: Saudi Arabia address rewrite rules
+summary: Tab-separated rewrite rules that normalize Saudi Arabian street names, royal titles and Arabic number words for autofill.

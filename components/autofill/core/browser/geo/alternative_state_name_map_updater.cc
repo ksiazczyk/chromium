@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Alternative state name map updater implementation
+// summary: Implements the updater that loads per-country state name data from packaged resources and populates the alternative state name map from saved address profiles.
+// ---
+
 #include "components/autofill/core/browser/geo/alternative_state_name_map_updater.h"
 
 #include <stddef.h>
