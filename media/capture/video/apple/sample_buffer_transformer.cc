@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sample buffer transformer implementation
+// summary: Converts CMSampleBuffer video frames, including MJPEG, into I420 video frames using libyuv, pixel buffer pools, and transfer sessions.
+// ---
+
 #include "media/capture/video/apple/sample_buffer_transformer.h"
 
 #include <utility>

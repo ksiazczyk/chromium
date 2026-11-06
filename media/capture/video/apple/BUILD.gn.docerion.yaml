@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Apple video capture build configuration
+summary: Defines GN source_set targets for the Apple video capture implementation and its unit tests, with platform-conditional sources, deps, and frameworks.

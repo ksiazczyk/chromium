@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracking and timing of pending database operations
+// summary: Implements tracking of outstanding database operations with UMA timing histograms and a 30-second timeout for hung operations.
+// ---
+
 #include "media/capabilities/pending_operations.h"
 
 #include <string>

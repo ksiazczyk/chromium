@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File Video Capture Device Factory
+// summary: Declares a VideoCaptureDeviceFactory extension that creates file-backed fake devices which play video-only files as capture input.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_FILE_VIDEO_CAPTURE_DEVICE_FACTORY_H_
 #define MEDIA_CAPTURE_VIDEO_FILE_VIDEO_CAPTURE_DEVICE_FACTORY_H_
 

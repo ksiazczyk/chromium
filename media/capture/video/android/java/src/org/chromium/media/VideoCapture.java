@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoCapture
+// summary: Abstract base class for Android video capture devices defining the native-facing allocate, start, stop and photo capability methods plus shared state.
+// ---
+
 package org.chromium.media;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

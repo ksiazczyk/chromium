@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Channel layout utility unit tests
+// summary: Unit tests verifying bidirectional channel and layout mappings between Chrome and Core Audio, including mono and discrete cases.
+// ---
+
 #include "media/base/mac/channel_layout_util_mac.h"
 
 #include <cstddef>

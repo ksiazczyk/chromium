@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake video capture device implementation
+// summary: Implements a fake capture device that paints animated pacman test frames, delivers buffers and simulates photo and camera controls.
+// ---
+
 #include "media/capture/video/fake_video_capture_device.h"
 
 #include <stddef.h>

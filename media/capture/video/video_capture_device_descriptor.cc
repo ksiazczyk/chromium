@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoCaptureDeviceDescriptor implementation
+// summary: Implements the video capture device descriptor, including constructors, ordering by facing mode and device ID, and human-readable capture API type strings.
+// ---
+
 #include "media/capture/video/video_capture_device_descriptor.h"
 
 #include <array>

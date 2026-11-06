@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CAPTURE_EXPORT symbol visibility header
+// summary: Defines the CAPTURE_EXPORT macro controlling symbol export and import in component builds.
+// ---
+
 #ifndef MEDIA_CAPTURE_CAPTURE_EXPORT_H_
 #define MEDIA_CAPTURE_CAPTURE_EXPORT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video decode stats database LevelDB implementation
+// summary: Implements the video decode stats database on top of a LevelDB proto database, with field trial parameters and stats expiry handling.
+// ---
+
 #include "media/capabilities/video_decode_stats_db_impl.h"
 
 #include <memory>

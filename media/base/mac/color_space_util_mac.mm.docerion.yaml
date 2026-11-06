@@ -1,0 +1,4 @@
+# Docerion header of color_space_util_mac.mm.
+type: source
+title: Color space utility implementation for macOS
+summary: Implements color space extraction and conversion for CoreVideo buffers and CoreMedia format descriptions using gfx color space helpers.

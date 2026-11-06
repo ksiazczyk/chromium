@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation color space conversion utilities
+// summary: Converts video color primaries, transfer functions, matrices and nominal ranges between Media Foundation values and gfx::ColorSpace.
+// ---
+
 #include "media/base/win/color_space_util_win.h"
 
 #include <initguid.h>

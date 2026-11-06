@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of video capture format types
+// summary: Implements VideoCaptureFormat and VideoCaptureParams, including format validation, pixel format preference ordering, and constraint suggestions.
+// ---
+
 #include "media/capture/video_capture_types.h"
 
 #include <algorithm>

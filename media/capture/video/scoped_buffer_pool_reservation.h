@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped buffer pool reservation
+// summary: Defines a scoped access permission that releases a video capture buffer pool reservation on destruction, with producer and consumer release traits.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_SCOPED_BUFFER_POOL_RESERVATION_H_
 #define MEDIA_CAPTURE_VIDEO_SCOPED_BUFFER_POOL_RESERVATION_H_
 

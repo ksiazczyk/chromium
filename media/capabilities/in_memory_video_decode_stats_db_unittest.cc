@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the in-memory video decode stats database
+// summary: Tests the in-memory decode stats database with and without a mocked seed database, covering initialization, appends, reads and stats clearing.
+// ---
+
 #include <memory>
 
 #include "base/check_op.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock AVFoundation frame receiver for video capture tests
+// summary: Declares a gmock mock of the AVFoundation frame receiver for stubbing frame, photo, and error callbacks in video capture tests.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_APPLE_TEST_MOCK_VIDEO_CAPTURE_DEVICE_AVFOUNDATION_FRAME_RECEIVER_H_
 #define MEDIA_CAPTURE_VIDEO_APPLE_TEST_MOCK_VIDEO_CAPTURE_DEVICE_AVFOUNDATION_FRAME_RECEIVER_H_
 

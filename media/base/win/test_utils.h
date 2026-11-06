@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows media COM test utilities header
+// summary: Declares macros, gmock actions and helper functions for mocking COM interfaces, saving COM pointers and asserting HRESULT results in Windows media tests.
+// ---
+
 #ifndef MEDIA_BASE_WIN_TEST_UTILS_H_
 #define MEDIA_BASE_WIN_TEST_UTILS_H_
 

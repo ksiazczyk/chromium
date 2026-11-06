@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PendingOperations class for database operation timing
+// summary: Declares a helper that tracks pending database operations by id, records their duration via UMA, and reports timeouts.
+// ---
+
 #ifndef MEDIA_CAPABILITIES_PENDING_OPERATIONS_H_
 #define MEDIA_CAPABILITIES_PENDING_OPERATIONS_H_
 

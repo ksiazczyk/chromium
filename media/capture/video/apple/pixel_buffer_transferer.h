@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pixel buffer transferer interface
+// summary: Declares a VideoToolbox-based transferer that copies, scales, and converts pixel buffers according to the destination buffer's settings.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_APPLE_PIXEL_BUFFER_TRANSFERER_H_
 #define MEDIA_CAPTURE_VIDEO_APPLE_PIXEL_BUFFER_TRANSFERER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory video decode stats database class declaration
+// summary: Declares the in-memory VideoDecodeStatsDB used for guest and incognito profiles, preserving privacy while allowing reads from a seed database.
+// ---
+
 #ifndef MEDIA_CAPABILITIES_IN_MEMORY_VIDEO_DECODE_STATS_DB_IMPL_H_
 #define MEDIA_CAPABILITIES_IN_MEMORY_VIDEO_DECODE_STATS_DB_IMPL_H_
 

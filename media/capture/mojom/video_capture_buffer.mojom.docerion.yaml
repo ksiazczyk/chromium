@@ -1,0 +1,4 @@
+# Docerion header of video_capture_buffer.mojom.
+type: source
+title: Video capture buffer Mojom types
+summary: Defines Mojom types for video frame info and buffer handles such as shared memory and GPU memory buffers.

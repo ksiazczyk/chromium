@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Photo capabilities header
+// summary: Declares the PhotoCapabilities class and Java-backed enums for Android metering modes, fill light modes, and photo capability values.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_ANDROID_PHOTO_CAPABILITIES_H_
 #define MEDIA_CAPTURE_VIDEO_ANDROID_PHOTO_CAPABILITIES_H_
 

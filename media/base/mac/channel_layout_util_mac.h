@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Channel layout utility header for macOS
+// summary: Declares ScopedAudioChannelLayout and conversion functions between Chrome channel layouts and Core Audio layouts.
+// ---
+
 #ifndef MEDIA_BASE_MAC_CHANNEL_LAYOUT_UTIL_MAC_H_
 #define MEDIA_BASE_MAC_CHANNEL_LAYOUT_UTIL_MAC_H_
 

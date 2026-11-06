@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Animated content sampler class declaration
+// summary: Declares a sampler that analyzes damage events to detect animated content, decide which frames to sample, and provide truer frame timestamps to consumers.
+// ---
+
 #ifndef MEDIA_CAPTURE_CONTENT_ANIMATED_CONTENT_SAMPLER_H_
 #define MEDIA_CAPTURE_CONTENT_ANIMATED_CONTENT_SAMPLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation CDM proxy interface
+// summary: Interface for the media pipeline to obtain CDM information such as the PMP server, input trust authorities, key ID refresh and hardware context reset notifications.
+// ---
+
 #ifndef MEDIA_BASE_WIN_MEDIA_FOUNDATION_CDM_PROXY_H_
 #define MEDIA_BASE_WIN_MEDIA_FOUNDATION_CDM_PROXY_H_
 

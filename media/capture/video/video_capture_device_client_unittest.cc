@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VideoCaptureDeviceClient unit tests
+// summary: Unit tests for VideoCaptureDeviceClient that exercise frame delivery and buffer handling using mock video frame receivers and fake buffer trackers.
+// ---
+
 #include "media/capture/video/video_capture_device_client.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SmoothEventSampler unit tests
+// summary: Unit tests verifying sampling behavior at various frame rates, including steady-state, edge-case, and backpressure scenarios.
+// ---
+
 #include "media/capture/content/smooth_event_sampler.h"
 
 #include <stddef.h>

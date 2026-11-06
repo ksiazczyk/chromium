@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoCaptureDevice base class implementation
+// summary: Implements CapturedExternalVideoBuffer and VideoCaptureDevice::Client buffer helpers for the video capture device framework.
+// ---
+
 #include "media/capture/video/video_capture_device.h"
 
 #include <string_view>

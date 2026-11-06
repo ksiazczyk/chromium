@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SmoothEventSampler class declaration
+// summary: Declares a sampler that filters a sequence of presentation events so captures occur at a target frequency.
+// ---
+
 #ifndef MEDIA_CAPTURE_CONTENT_SMOOTH_EVENT_SAMPLER_H_
 #define MEDIA_CAPTURE_CONTENT_SMOOTH_EVENT_SAMPLER_H_
 

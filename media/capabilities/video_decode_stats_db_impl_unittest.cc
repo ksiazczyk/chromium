@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video decode stats database implementation unit tests
+// summary: Tests the LevelDB video decode stats database implementation using a fake proto database, covering initialization, appends, and pending operations.
+// ---
+
 #include <map>
 #include <memory>
 

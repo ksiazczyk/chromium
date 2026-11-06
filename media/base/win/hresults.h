@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom HRESULT error codes
+// summary: Defines custom HRESULT error constants for Chromium media code on Windows, including reserved facility ITF codes reported to metrics and undocumented DRM error values.
+// ---
+
 #ifndef MEDIA_BASE_WIN_HRESULTS_H_
 #define MEDIA_BASE_WIN_HRESULTS_H_
 

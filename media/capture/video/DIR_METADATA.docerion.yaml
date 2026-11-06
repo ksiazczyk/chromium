@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Video capture directory metadata
+summary: Declares the issue tracker component, team email and Buganizer component for the video capture directory.

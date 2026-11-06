@@ -1,0 +1,4 @@
+# Docerion header of video_capture_device_apple_unittest.mm.
+type: test
+title: VideoCaptureDeviceApple unit tests
+summary: Unit tests for VideoCaptureDeviceApple, notably verifying the FindBestCaptureFormat selection of resolution, pixel format, and frame rate.

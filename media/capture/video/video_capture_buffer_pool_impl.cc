@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoCaptureBufferPoolImpl implementation
+// summary: Implements buffer pool bookkeeping, reserving, holding and relinquishing buffers through per-buffer trackers under a lock.
+// ---
+
 #include "media/capture/video/video_capture_buffer_pool_impl.h"
 
 #include <memory>

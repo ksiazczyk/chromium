@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoCaptureFeedback implementation
+// summary: Implements VideoCaptureFeedback, combining resource utilization, frame rate, resolution and mapped-frame constraints from multiple frame consumers.
+// ---
+
 #include "media/capture/video/video_capture_feedback.h"
 
 #include <cmath>

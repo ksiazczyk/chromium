@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoCaptureDeviceInfo implementation
+// summary: Implements constructors and assignment for VideoCaptureDeviceInfo, which pairs a device descriptor with its supported video formats.
+// ---
+
 #include "media/capture/video/video_capture_device_info.h"
 
 namespace media {

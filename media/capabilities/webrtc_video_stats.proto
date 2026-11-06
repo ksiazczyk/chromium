@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC video stats proto definitions
+// summary: Defines protobuf messages for WebRTC video processing statistics entries, including timestamps, frame counts, and 99th percentile processing time.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

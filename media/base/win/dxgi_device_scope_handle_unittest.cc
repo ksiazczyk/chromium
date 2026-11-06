@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DXGIDeviceScopedHandle unit tests
+// summary: Unit tests verifying that LockDevice and GetDevice work correctly on DXGIDeviceScopedHandle instances created in inner and outer scopes.
+// ---
+
 #include <d3d11.h>
 #include <mfapi.h>
 

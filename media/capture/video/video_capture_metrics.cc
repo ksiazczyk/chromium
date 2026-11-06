@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video capture metrics implementation
+// summary: Implements UMA histogram logging of supported capture device resolutions and pixel formats, mapping frame sizes to named resolution designations.
+// ---
+
 #include "media/capture/video/video_capture_metrics.h"
 
 #include "base/containers/fixed_flat_map.h"

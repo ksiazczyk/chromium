@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color space utility header for macOS
+// summary: Declares helpers to read color spaces from CoreVideo image buffers and format descriptions and to convert them back to buffer keys.
+// ---
+
 #ifndef MEDIA_BASE_MAC_COLOR_SPACE_UTIL_MAC_H_
 #define MEDIA_BASE_MAC_COLOR_SPACE_UTIL_MAC_H_
 

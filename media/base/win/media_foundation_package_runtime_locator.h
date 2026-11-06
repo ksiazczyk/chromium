@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation package runtime locator
+// summary: Declares functions to load and find Media Foundation package decoders by audio codec and to report decoder availability for UMA.
+// ---
+
 #ifndef MEDIA_BASE_WIN_MEDIA_FOUNDATION_PACKAGE_RUNTIME_LOCATOR_H_
 #define MEDIA_BASE_WIN_MEDIA_FOUNDATION_PACKAGE_RUNTIME_LOCATOR_H_
 

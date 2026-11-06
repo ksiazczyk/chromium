@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoCaptureSystemImpl implementation
+// summary: Implements VideoCaptureSystem by translating device descriptors to IDs, caching device infos, and consolidating and deduplicating capture formats.
+// ---
+
 #include "media/capture/video/video_capture_system_impl.h"
 
 #include <algorithm>

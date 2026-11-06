@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video capture buffer tracker factory implementation
+// summary: Creates platform-specific GPU memory buffer and shared memory trackers for video capture, with Windows DXGI device manager support and external buffer handling.
+// ---
+
 #include "media/capture/video/video_capture_buffer_tracker_factory_impl.h"
 
 #include <memory>

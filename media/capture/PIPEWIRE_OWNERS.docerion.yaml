@@ -1,0 +1,4 @@
+# Docerion header of PIPEWIRE_OWNERS.
+type: config
+title: Owners for PipeWire-related dependencies
+summary: Names the owners responsible for PipeWire-related third-party libraries used by WebRTC capture code.

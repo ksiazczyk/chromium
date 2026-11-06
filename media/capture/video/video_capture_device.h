@@ -9,6 +9,12 @@
 // VideoCaptureManager. Capturing is done on other threads, depending on the OS
 // specific implementation.
 
+// ---docerion
+// type: source
+// title: VideoCaptureDevice abstract device interface
+// summary: Defines the abstract base class for OS-dependent video capture devices, its client interface, consumer feedback observation, and the CapturedExternalVideoBuffer struct.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_VIDEO_CAPTURE_DEVICE_H_
 #define MEDIA_CAPTURE_VIDEO_VIDEO_CAPTURE_DEVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: D3D12 mock implementations
+// summary: Implements constructors and destructors for the D3D12 device, resource, command list, queue, allocator and fence mock classes used in tests.
+// ---
+
 #include "media/base/win/d3d12_mocks.h"
 
 namespace media {

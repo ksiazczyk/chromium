@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Capture resolution chooser unit tests
+// summary: Unit tests verifying snapped frame size computation and the nearest, larger, and smaller frame size search logic of the capture resolution chooser.
+// ---
+
 #include "media/capture/content/capture_resolution_chooser.h"
 
 #include <stddef.h>

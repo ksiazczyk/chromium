@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VideoToolbox helpers unit tests
+// summary: Tests that CopySampleBufferToAnnexBBuffer converts length-prefixed H.264 sample buffers to Annex B and inserts SEI NAL units after parameter sets.
+// ---
+
 #include "media/base/mac/videotoolbox_helpers.h"
 
 #include <CoreMedia/CoreMedia.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Empty PhotoState factory implementation
+// summary: Implements CreateEmptyPhotoState, which builds a PhotoState with default empty ranges and modes.
+// ---
+
 #include "media/capture/mojom/image_capture_types.h"
 
 namespace mojo {

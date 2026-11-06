@@ -1,0 +1,4 @@
+# Docerion header of mock_video_capture_device_avfoundation_frame_receiver.mm.
+type: test
+title: Mock AVFoundation frame receiver implementation
+summary: Provides constructor and destructor definitions for the mock AVFoundation frame receiver used in video capture tests.

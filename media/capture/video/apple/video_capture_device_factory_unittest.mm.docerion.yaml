@@ -1,0 +1,4 @@
+# Docerion header of video_capture_device_factory_unittest.mm.
+type: test
+title: Apple video capture device factory unit tests
+summary: Unit test that verifies the Apple factory lists AVFoundation capture devices with the expected MACOSX_AVFOUNDATION capture API.

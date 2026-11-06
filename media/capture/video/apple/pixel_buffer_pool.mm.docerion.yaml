@@ -1,0 +1,4 @@
+# Docerion header of pixel_buffer_pool.mm.
+type: source
+title: Pixel buffer pool implementation
+summary: Implements creation, allocation-threshold handling, and flushing of CVPixelBuffers using Apple's CVPixelBufferPool API with error logging.

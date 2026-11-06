@@ -1,0 +1,4 @@
+# Docerion header of pixel_buffer_pool_unittest.mm.
+type: test
+title: Pixel buffer pool unit tests
+summary: Unit tests verifying pool creation validation, buffer attributes, IOSurface presence, maximum buffer limits, and buffer recycling behavior.

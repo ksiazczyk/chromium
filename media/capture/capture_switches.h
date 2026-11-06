@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for capture switches and features
+// summary: Declares the video capture command-line switches and feature flags shared across the capture library.
+// ---
+
 #ifndef MEDIA_CAPTURE_CAPTURE_SWITCHES_H_
 #define MEDIA_CAPTURE_CAPTURE_SWITCHES_H_
 

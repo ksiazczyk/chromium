@@ -1,0 +1,4 @@
+# Docerion header of video_capture_device_factory_apple.mm.
+type: source
+title: Apple video capture device factory implementation
+summary: Implements the Apple video capture device factory, enumerating AVFoundation devices and supported formats, blocking certain cameras, and logging capture device discovery.

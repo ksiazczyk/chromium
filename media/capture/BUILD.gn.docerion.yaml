@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the media capture library
+summary: Defines GN build targets for media capture, including capture_base, capture_switches, and platform-specific device sources.

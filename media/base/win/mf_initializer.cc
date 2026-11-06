@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation initializer implementation
+// summary: Loads Media Foundation DLLs, manages the MF session singleton and loads package decoders for EAC3 and AC4 audio at startup.
+// ---
+
 #include "media/base/win/mf_initializer.h"
 
 #include <windows.h>

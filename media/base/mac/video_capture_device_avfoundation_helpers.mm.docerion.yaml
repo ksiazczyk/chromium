@@ -1,0 +1,4 @@
+# Docerion header of video_capture_device_avfoundation_helpers.mm.
+type: source
+title: Video capture device AVFoundation helpers implementation
+summary: Enumerates camera devices via AVCaptureDeviceDiscoverySession, including external and Continuity cameras on macOS, with crash-safe fallback.

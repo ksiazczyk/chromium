@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pixel buffer test utilities implementation
+// summary: Implements helpers to create and verify ARGB buffers, YUVS pixel buffers, and IOSurfaces with solid colors or checker patterns in tests.
+// ---
+
 #include "media/capture/video/apple/test/pixel_buffer_test_utils.h"
 
 #include "media/capture/video/apple/pixel_buffer_pool.h"

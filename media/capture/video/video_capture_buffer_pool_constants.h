@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video capture buffer pool constants
+// summary: Defines shared constants for the video capture buffer pool, notably the invalid buffer ID sentinel value.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_VIDEO_CAPTURE_BUFFER_POOL_CONSTANTS_H_
 #define MEDIA_CAPTURE_VIDEO_VIDEO_CAPTURE_BUFFER_POOL_CONSTANTS_H_
 

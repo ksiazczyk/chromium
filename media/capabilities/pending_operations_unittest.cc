@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for pending operation timing and timeouts
+// summary: Verifies that pending operations emit correct UMA histograms for completion times, timeouts and nested operations using mock time.
+// ---
+
 #include <string>
 
 #include "base/functional/bind.h"

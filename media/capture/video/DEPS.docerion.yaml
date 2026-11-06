@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for video capture
+summary: Defines allowed include dependencies for the video capture directory, with a special rule for the device client unit test.

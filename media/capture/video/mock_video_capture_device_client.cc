@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock video capture device client implementation
+// summary: Implements the mock capture device client with stub buffer handle providers and a helper that allocates output buffers and invokes a fake frame captured callback.
+// ---
+
 #include "media/capture/video/mock_video_capture_device_client.h"
 
 #include <utility>

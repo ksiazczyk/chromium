@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Issue tracker and team metadata for content capture
+summary: Routes bugs for this folder to the SurfaceCapture component and lists the media capture team email and Buganizer component ID.

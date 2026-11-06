@@ -1,0 +1,4 @@
+# Docerion header of video_capture_types.mojom.
+type: source
+title: Video capture types Mojom definitions
+summary: Defines Mojom enums and structs for pixel formats, capture errors, device descriptors, and capture parameters.

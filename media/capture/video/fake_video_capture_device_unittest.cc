@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Video Capture Device Unit Tests
+// summary: Unit tests for the fake video capture device, covering frame delivery formats, photo capture, and factory device configurations using mock clients.
+// ---
+
 #include "media/capture/video/fake_video_capture_device.h"
 
 #include <stddef.h>

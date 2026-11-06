@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera availability observer implementation
+// summary: Creates a Java-side camera availability observer over JNI and notifies the system monitor when camera availability changes.
+// ---
+
 #include "media/capture/video/android/camera_availability_observer.h"
 
 #include "base/system/system_monitor.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Windows media base targets
+summary: Defines GN build targets for the Windows Media Foundation utility source set, color space conversion component, CDM proxy, and D3D mock test support, with delay-loaded MF DLLs.

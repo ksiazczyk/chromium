@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video capture device AVFoundation helpers header
+// summary: Declares GetVideoCaptureDevices for enumerating available cameras through AVFoundation.
+// ---
+
 #ifndef MEDIA_BASE_MAC_VIDEO_CAPTURE_DEVICE_AVFOUNDATION_HELPERS_H_
 #define MEDIA_BASE_MAC_VIDEO_CAPTURE_DEVICE_AVFOUNDATION_HELPERS_H_
 

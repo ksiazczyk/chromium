@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory video decode stats database implementation
+// summary: Implements an in-memory decode stats database for off-the-record profiles that seeds entries from the originating profile's on-disk database.
+// ---
+
 #include "media/capabilities/in_memory_video_decode_stats_db_impl.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules permitting leveldb_proto dependencies
+summary: Grants the media capabilities directory access to components/leveldb_proto through a DEPS include rule.

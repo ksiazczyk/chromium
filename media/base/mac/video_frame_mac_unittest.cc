@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video frame Mac unit tests
+// summary: Verifies that media::VideoFrame wraps CVPixelBuffers with correct pixel formats, plane dimensions and clean aperture attachments on macOS.
+// ---
+
 #include "media/base/mac/video_frame_mac.h"
 
 #include <CoreVideo/CoreVideo.h>

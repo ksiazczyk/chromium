@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen enumerator interface
+// summary: Declares an interface for enumerating all attached screens and delivering them at once through a callback as media stream devices.
+// ---
+
 #ifndef MEDIA_CAPTURE_CONTENT_SCREEN_ENUMERATOR_H_
 #define MEDIA_CAPTURE_CONTENT_SCREEN_ENUMERATOR_H_
 

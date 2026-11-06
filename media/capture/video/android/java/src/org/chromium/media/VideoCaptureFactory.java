@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoCaptureFactory
+// summary: Factory that creates VideoCaptureCamera2 objects and exposes camera queries such as device count, facing mode and supported formats to native code.
+// ---
+
 package org.chromium.media;
 
 import org.jni_zero.CalledByNative;

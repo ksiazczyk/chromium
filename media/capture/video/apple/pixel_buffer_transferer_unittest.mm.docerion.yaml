@@ -1,0 +1,4 @@
+# Docerion header of pixel_buffer_transferer_unittest.mm.
+type: test
+title: Pixel buffer transferer unit tests
+summary: Unit tests verifying pixel buffer copying, scaling, and format conversion across common YUV pixel formats with color and pattern checks.

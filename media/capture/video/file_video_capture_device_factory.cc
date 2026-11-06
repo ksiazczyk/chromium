@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File Video Capture Device Factory Implementation
+// summary: Implements a factory that exposes the command-line-specified video file as a file-backed capture device and reports its supported capture formats.
+// ---
+
 #include "media/capture/video/file_video_capture_device_factory.h"
 
 #include "base/command_line.h"

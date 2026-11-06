@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera availability observer header
+// summary: Declares CameraAvailabilityObserver, which bridges Java camera availability callbacks to the native system monitor through JNI.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_ANDROID_CAMERA_AVAILABILITY_OBSERVER_H_
 #define MEDIA_CAPTURE_VIDEO_ANDROID_CAMERA_AVAILABILITY_OBSERVER_H_
 

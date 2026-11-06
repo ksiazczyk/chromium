@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation playback feature checks
+// summary: Implements checks for Media Foundation clear and encrypted playback support based on Windows version, CPU architecture and feature flags.
+// ---
+
 #include "media/base/win/mf_feature_checks.h"
 
 #include "base/logging.h"

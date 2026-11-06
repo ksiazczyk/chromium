@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake AVFoundation capture device format declarations
+// summary: Declares fake AVFrameRateRange and AVCaptureDeviceFormat subclasses used to build custom capture formats in tests.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_APPLE_TEST_FAKE_AV_CAPTURE_DEVICE_FORMAT_H_
 #define MEDIA_CAPTURE_VIDEO_APPLE_TEST_FAKE_AV_CAPTURE_DEVICE_FORMAT_H_
 

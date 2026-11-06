@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blob utilities for captured video frames
+// summary: Implements conversion of captured frames into JPEG blobs, including rotation handling for MJPEG and other pixel formats via libyuv.
+// ---
+
 #include "media/capture/video/blob_utils.h"
 
 #include <vector>

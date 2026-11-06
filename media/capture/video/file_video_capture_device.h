@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File Video Capture Device
+// summary: Declares a VideoCaptureDevice that reads Y4M or MJPEG video files and plays them back repeatedly as capture input when no real hardware is available.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_FILE_VIDEO_CAPTURE_DEVICE_H_
 #define MEDIA_CAPTURE_VIDEO_FILE_VIDEO_CAPTURE_DEVICE_H_
 

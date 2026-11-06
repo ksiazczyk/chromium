@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video frame receiver buffer helpers implementation
+// summary: Implements ReadyFrameInBuffer move semantics and the ScopedFrameDoneHelper that runs a done callback when frame consumption completes.
+// ---
+
 #include "media/capture/video/video_frame_receiver.h"
 
 #include "base/task/bind_post_task.h"

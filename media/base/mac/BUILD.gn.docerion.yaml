@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for media/base/mac
+summary: Defines the mac source_set with Apple framework dependencies and the unit_tests target for the media base mac sources.

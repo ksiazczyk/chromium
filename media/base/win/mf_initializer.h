@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation initializer declarations
+// summary: Declares InitializeMediaFoundation and a pre-sandbox initialization path intended for GPU-process use.
+// ---
+
 #ifndef MEDIA_BASE_WIN_MF_INITIALIZER_H_
 #define MEDIA_BASE_WIN_MF_INITIALIZER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture resolution chooser class declaration
+// summary: Declares a chooser that picks the capture frame resolution from constraints, source resolution, and target data volume, snapping sizes to a small set.
+// ---
+
 #ifndef MEDIA_CAPTURE_CONTENT_CAPTURE_RESOLUTION_CHOOSER_H_
 #define MEDIA_CAPTURE_CONTENT_CAPTURE_RESOLUTION_CHOOSER_H_
 

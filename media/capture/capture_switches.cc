@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video capture command-line switches and features
+// summary: Defines video capture command-line switches and feature flags such as GPU memory buffer capture, virtual devices, and PipeWire camera support.
+// ---
+
 #include "media/capture/capture_switches.h"
 
 #include "base/command_line.h"

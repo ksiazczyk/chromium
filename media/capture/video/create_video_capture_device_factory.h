@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video capture device factory creation header
+// summary: Declares CreateVideoCaptureDeviceFactory and ShouldUseFakeVideoCaptureDeviceFactory used to instantiate capture device factories.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_CREATE_VIDEO_CAPTURE_DEVICE_FACTORY_H_
 #define MEDIA_CAPTURE_VIDEO_CREATE_VIDEO_CAPTURE_DEVICE_FACTORY_H_
 

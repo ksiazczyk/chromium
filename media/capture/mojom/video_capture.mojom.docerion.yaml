@@ -1,0 +1,4 @@
+# Docerion header of video_capture.mojom.
+type: source
+title: Video capture host Mojom interfaces
+summary: Defines the VideoCaptureHost and VideoCaptureObserver IPC interfaces, including the buffer sharing protocol.

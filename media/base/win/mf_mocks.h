@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media Foundation mock class declarations
+// summary: Declares mock classes for Media Foundation CDM factory, access, session and related COM interfaces for unit testing.
+// ---
+
 #ifndef MEDIA_BASE_WIN_MF_MOCKS_H_
 #define MEDIA_BASE_WIN_MF_MOCKS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pixel buffer transferer implementation
+// summary: Implements copying and converting between pixel buffers via a VideoToolbox VTPixelTransferSession, with error handling for unsupported transfers.
+// ---
+
 #include "media/capture/video/apple/pixel_buffer_transferer.h"
 
 #include "base/check.h"

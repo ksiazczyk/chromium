@@ -1,0 +1,4 @@
+# Docerion header of video_capture_test_utils.mm.
+type: test
+title: Video capture test utilities implementation
+summary: Implements helpers that run test cases on a CFRunLoop-enabled message loop and fetch device info from the Apple capture device factory.

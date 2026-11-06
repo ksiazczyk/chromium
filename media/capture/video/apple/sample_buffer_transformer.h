@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SampleBufferTransformer header
+// summary: Declares SampleBufferTransformer, which converts Apple capture buffers from formats like NV12, YUY2, UYVY and MJPEG to NV12 or I420 with rescaling.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_APPLE_SAMPLE_BUFFER_TRANSFORMER_H_
 #define MEDIA_CAPTURE_VIDEO_APPLE_SAMPLE_BUFFER_TRANSFORMER_H_
 

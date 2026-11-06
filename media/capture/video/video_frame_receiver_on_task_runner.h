@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoFrameReceiverOnTaskRunner header
+// summary: Declares a VideoFrameReceiver decorator that forwards all incoming capture calls to a supplied task runner.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_VIDEO_FRAME_RECEIVER_ON_TASK_RUNNER_H_
 #define MEDIA_CAPTURE_VIDEO_VIDEO_FRAME_RECEIVER_ON_TASK_RUNNER_H_
 

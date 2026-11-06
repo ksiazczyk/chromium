@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mappable Shared Image Utilities
+// summary: Implements AllocateNV12SharedImage, which reserves a capture output buffer and creates an NV12 mappable shared image for GPU-backed capture frames.
+// ---
+
 #include "media/capture/video/mappable_shared_image_utils.h"
 
 #include "base/functional/callback_helpers.h"

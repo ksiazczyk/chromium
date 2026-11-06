@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Photo capabilities JNI implementation
+// summary: Implements PhotoCapabilities methods that query Android photo settings such as metering, fill light, zoom, and exposure over JNI.
+// ---
+
 #include "media/capture/video/android/photo_capabilities.h"
 
 #include "base/android/jni_android.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gmock mocks for D3D11 and DXGI interfaces
+// summary: Defines gmock mock classes for D3D11 and DXGI COM interfaces such as devices, contexts, video processors, adapters and swap chains for use in tests.
+// ---
+
 #ifndef MEDIA_BASE_WIN_D3D11_MOCKS_H_
 #define MEDIA_BASE_WIN_D3D11_MOCKS_H_
 

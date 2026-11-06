@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blob utilities header
+// summary: Declares RotateAndBlobify, a helper that creates an image blob from a capture buffer with optional clockwise rotation.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_BLOB_UTILS_H_
 #define MEDIA_CAPTURE_VIDEO_BLOB_UTILS_H_
 
