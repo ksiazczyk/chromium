@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Variable expander implementation
+// summary: Implements expansion of variables with optional position and count ranges in strings and base::Value trees.
+// ---
+
 #include "chromeos/components/onc/variable_expander.h"
 
 #include <algorithm>

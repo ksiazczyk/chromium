@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Quick Answers state implementation
+// summary: Implements a fake QuickAnswersState that lets tests set locale, preferred languages, intent eligibility, consent status, and feature type.
+// ---
+
 #include "chromeos/components/quick_answers/test/fake_quick_answers_state.h"
 
 #include "base/observer_list.h"

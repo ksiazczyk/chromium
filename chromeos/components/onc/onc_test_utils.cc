@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ONC test utilities implementation
+// summary: Implements helpers that read ONC test data files, compare dictionaries, and build cellular APN fixtures for the ONC unit tests.
+// ---
+
 #include "chromeos/components/onc/onc_test_utils.h"
 
 #include <utility>

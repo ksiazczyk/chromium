@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ONC utility functions
+// summary: Implements ONC helpers for decrypting encrypted configurations, expanding variables, filling HexSSID and APN fields, and masking sensitive values.
+// ---
+
 #include "chromeos/components/onc/onc_utils.h"
 
 #include <string>

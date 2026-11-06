@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SensorHalDispatcher class header
+// summary: Declares the SensorHalDispatcher class, which receives registrations from the IIO Service server and sensor clients and establishes Mojo channels between them on the UI thread.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_SENSORS_ASH_SENSOR_HAL_DISPATCHER_H_
 #define CHROMEOS_COMPONENTS_SENSORS_ASH_SENSOR_HAL_DISPATCHER_H_
 

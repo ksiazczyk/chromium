@@ -1,0 +1,4 @@
+# Docerion header of payment_app.mojom.
+type: source
+title: PaymentAppInstance Mojo interface
+summary: Defines the PaymentAppInstance Mojo interface that lets the browser check and invoke TWA payment apps in ARC for Play Billing, including forwarding from Lacros via crosapi.

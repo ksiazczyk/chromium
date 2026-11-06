@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VariableExpander class declaration
+// summary: Declares VariableExpander, which replaces variables such as ${machine_name,2,4} in strings and values with configured values.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_ONC_VARIABLE_EXPANDER_H_
 #define CHROMEOS_COMPONENTS_ONC_VARIABLE_EXPANDER_H_
 

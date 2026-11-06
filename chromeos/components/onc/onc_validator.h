@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ONC validator header
+// summary: Declares the ONC Validator class and its modes of operation for validating and repairing ONC objects, including policy-managed configurations.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_ONC_ONC_VALIDATOR_H_
 #define CHROMEOS_COMPONENTS_ONC_ONC_VALIDATOR_H_
 

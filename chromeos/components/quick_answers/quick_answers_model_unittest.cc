@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Answers model unit tests
+// summary: Unit tests for the Quick Answers model, verifying unit conversion formula text for approximate and exact multiplication and division.
+// ---
+
 #include "chromeos/components/quick_answers/quick_answers_model.h"
 
 #include <string>

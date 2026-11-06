@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for print management Mojom bindings
+summary: GN build file that defines the mojom target compiling printing_manager.mojom, with public dependencies on Mojo base and URL Mojom targets.

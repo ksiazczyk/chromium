@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Result parser base implementation
+// summary: Implements ResultParser helper functions and a factory that creates parsers for definition and unit conversion result types.
+// ---
+
 #include "chromeos/components/quick_answers/search_result_parsers/result_parser.h"
 
 #include "base/notreached.h"

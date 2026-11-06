@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ONC validator unit tests
+// summary: Unit tests verifying that the ONC validator validates and repairs network configuration objects in strict and liberal modes.
+// ---
+
 #include "chromeos/components/onc/onc_validator.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ONC validator implementation
+// summary: Implements validation and repair of ONC network configurations against the ONC specification, checking field types, values, and policy-specific restrictions.
+// ---
+
 #include "chromeos/components/onc/onc_validator.h"
 
 #include <stddef.h>

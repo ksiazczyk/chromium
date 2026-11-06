@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Answers test helpers and mocks
+// summary: Declares test helpers including unit dictionary creation, mock delegates for Quick Answers and result loaders, and comparison matchers.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_QUICK_ANSWERS_TEST_TEST_HELPERS_H_
 #define CHROMEOS_COMPONENTS_QUICK_ANSWERS_TEST_TEST_HELPERS_H_
 

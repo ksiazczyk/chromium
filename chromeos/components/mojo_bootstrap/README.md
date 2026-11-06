@@ -1,3 +1,9 @@
+---
+type: readme
+title: mojo_bootstrap directory README
+summary: Explains that the directory holds classes shared by Chrome OS services for establishing Mojo connections.
+---
+
 chromeos/components/mojo_bootstrap
 ==================================
 

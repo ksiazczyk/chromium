@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for ChromeOS payments mojom
+summary: GN build file that defines the mojom target compiling payment_app.mojom and payment_app_types.mojom with dependencies on the payments and Mojo base mojoms.

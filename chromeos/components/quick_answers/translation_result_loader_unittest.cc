@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TranslationResultLoader unit tests
+// summary: Unit tests for TranslationResultLoader that verify fetching and parsing of Google Cloud Translation API responses, including successful translation results and network error handling.
+// ---
+
 #include "chromeos/components/quick_answers/translation_result_loader.h"
 
 #include <memory>

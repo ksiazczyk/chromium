@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Print management directory metadata
+summary: Assigns the print management component to the ChromeOS Printing team and Buganizer component 1131981.

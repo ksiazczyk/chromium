@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeSensorDevice implementation
+// summary: Implements a fake mojom::SensorDevice that manages receivers, channels, attributes, and sample reading for sensor tests.
+// ---
+
 #include "chromeos/components/sensors/fake_sensor_device.h"
 
 #include <algorithm>

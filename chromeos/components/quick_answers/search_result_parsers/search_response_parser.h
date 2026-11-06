@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search response parser header
+// summary: Declares ParseSearchResponse, which extracts a quick answers session from a raw search response body.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_QUICK_ANSWERS_SEARCH_RESULT_PARSERS_SEARCH_RESPONSE_PARSER_H_
 #define CHROMEOS_COMPONENTS_QUICK_ANSWERS_SEARCH_RESULT_PARSERS_SEARCH_RESPONSE_PARSER_H_
 

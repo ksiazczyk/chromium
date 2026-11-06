@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for payments test support
+summary: Defines a test-only GN source_set bundling the mock payment app instance sources with mojo and gmock dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate scope implementation
+// summary: Implements CertificateScope, including parsing an ONC Scope value and comparison operators.
+// ---
+
 #include "chromeos/components/onc/certificate_scope.h"
 
 #include <tuple>

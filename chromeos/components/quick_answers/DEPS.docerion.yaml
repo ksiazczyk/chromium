@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for quick answers
+summary: Defines allowed include dependencies for the directory, with extra rules for unit test files.

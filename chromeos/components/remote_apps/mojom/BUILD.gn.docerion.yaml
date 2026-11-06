@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the remote apps Mojom target
+summary: Defines the Mojom build target for remote_apps.mojom with dependencies on Mojo base and URL Mojom types.

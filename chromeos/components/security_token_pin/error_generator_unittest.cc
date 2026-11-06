@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the security token PIN error generator
+// summary: Tests GenerateErrorMessage across error labels, attempts-left values, and input acceptance, verifying the resulting user-facing messages.
+// ---
+
 #include "chromeos/components/security_token_pin/error_generator.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the security_token_pin directory
+summary: Specifies allowed includes for the directory, permitting ChromeOS strings grit headers and ui/base l10n, with ui/base allowed only in test files.

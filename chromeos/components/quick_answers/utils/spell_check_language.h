@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spell check language header
+// summary: Declares SpellCheckLanguage, a utility class that initializes spell check dictionaries and checks spelling of given words via callback.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_QUICK_ANSWERS_UTILS_SPELL_CHECK_LANGUAGE_H_
 #define CHROMEOS_COMPONENTS_QUICK_ANSWERS_UTILS_SPELL_CHECK_LANGUAGE_H_
 

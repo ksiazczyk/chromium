@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the print management Mojom directory
+summary: Lists primary and secondary owners for the directory and routes reviews of .mojom files to the IPC security owners.

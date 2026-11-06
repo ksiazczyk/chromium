@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spell checker unit tests
+// summary: Unit tests for SpellChecker covering language list setup, feature eligibility, and spelling checks using a fake dictionary directory.
+// ---
+
 #include "chromeos/components/quick_answers/utils/spell_checker.h"
 
 #include <memory>

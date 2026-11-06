@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unit converter class header
+// summary: Declares the UnitConverter utility class for converting values between units and looking up conversion rates by category.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_QUICK_ANSWERS_UTILS_UNIT_CONVERTER_H_
 #define CHROMEOS_COMPONENTS_QUICK_ANSWERS_UTILS_UNIT_CONVERTER_H_
 

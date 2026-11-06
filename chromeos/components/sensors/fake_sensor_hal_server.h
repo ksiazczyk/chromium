@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeSensorHalServer class declaration
+// summary: Declares FakeSensorHalServer, a test double for mojom::SensorHalServer that owns a FakeSensorService instance.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_SENSORS_FAKE_SENSOR_HAL_SERVER_H_
 #define CHROMEOS_COMPONENTS_SENSORS_FAKE_SENSOR_HAL_SERVER_H_
 

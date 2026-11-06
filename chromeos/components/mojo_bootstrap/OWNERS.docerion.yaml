@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the directory
+summary: Delegates ownership of this directory to the owners listed in the ui/file_manager OWNERS file.

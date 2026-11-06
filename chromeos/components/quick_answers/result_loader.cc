@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Result loader implementation
+// summary: Implements the ResultLoader that fetches quick answers over the network and dispatches to translation or search loaders based on intent type.
+// ---
+
 #include "chromeos/components/quick_answers/result_loader.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate scope class declaration
+// summary: Declares CertificateScope, which describes the scope a policy-provided certificate applies in.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_ONC_CERTIFICATE_SCOPE_H_
 #define CHROMEOS_COMPONENTS_ONC_CERTIFICATE_SCOPE_H_
 

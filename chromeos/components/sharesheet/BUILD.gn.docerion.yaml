@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Sharesheet BUILD.gn build file
+summary: Defines a GN source_set that compiles the sharesheet constants header for ChromeOS.

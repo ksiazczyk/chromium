@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search response parser unit tests
+// summary: Unit tests for ParseSearchResponse covering successful responses, multiple results, empty results and invalid XSSI prefixes.
+// ---
+
 #include "chromeos/components/quick_answers/search_result_parsers/search_response_parser.h"
 
 #include <memory>

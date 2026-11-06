@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Translation response parser unit tests
+// summary: Tests parsing of translation responses, including successful results, HTML character code unescaping, and invalid or empty responses.
+// ---
+
 #include "chromeos/components/quick_answers/translation_response_parser.h"
 
 #include <memory>

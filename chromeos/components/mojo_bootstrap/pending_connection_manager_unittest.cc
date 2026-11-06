@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PendingConnectionManager unit tests
+// summary: Tests token-based IPC channel handling, cancellation, unexpected connections, and isolation between DriveFS and SmbFs instances.
+// ---
+
 #include "chromeos/components/mojo_bootstrap/pending_connection_manager.h"
 
 #include "base/test/bind.h"

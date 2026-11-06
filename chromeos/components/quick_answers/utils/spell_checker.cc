@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spell checker implementation
+// summary: Manages spell check languages based on Quick Answers eligibility, consent and preferred languages, and checks spelling across the configured languages.
+// ---
+
 #include "chromeos/components/quick_answers/utils/spell_checker.h"
 
 #include "base/i18n/legacy_language_tag_helpers.h"

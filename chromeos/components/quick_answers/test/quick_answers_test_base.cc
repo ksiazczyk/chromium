@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Answers test base implementation
+// summary: Implements the Quick Answers test fixture that installs a FakeQuickAnswersState with default intent eligibilities during SetUp.
+// ---
+
 #include "chromeos/components/quick_answers/test/quick_answers_test_base.h"
 
 QuickAnswersTestBase::QuickAnswersTestBase() = default;

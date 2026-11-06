@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: ONC component build configuration
+summary: GN build rules defining the chromeos ONC component, its test support, unit tests and fuzzer targets.

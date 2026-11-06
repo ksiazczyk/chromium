@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslationResultLoader class header
+// summary: Declares the TranslationResultLoader, a ResultLoader subclass that builds Cloud Translation API requests and processes translation responses for Quick Answers.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_QUICK_ANSWERS_TRANSLATION_RESULT_LOADER_H_
 #define CHROMEOS_COMPONENTS_QUICK_ANSWERS_TRANSLATION_RESULT_LOADER_H_
 

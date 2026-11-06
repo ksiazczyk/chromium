@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit conversion result parser unit tests
+// summary: Unit tests verifying unit conversion result parsing for categories such as temperature, mass, and fuel economy, including rounded value comparisons.
+// ---
+
 #include "chromeos/components/quick_answers/search_result_parsers/unit_conversion_result_parser.h"
 
 #include <memory>

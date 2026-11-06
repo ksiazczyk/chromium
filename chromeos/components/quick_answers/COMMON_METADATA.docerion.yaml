@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Buganizer component metadata
+summary: Sets the internal and public Buganizer component IDs used for tracking bugs in this directory.

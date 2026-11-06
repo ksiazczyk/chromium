@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for remote apps Mojom files
+summary: Delegates ownership of all Mojom files in this directory to the IPC security owners.

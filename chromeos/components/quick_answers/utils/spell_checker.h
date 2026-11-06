@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spell checker utility header
+// summary: Declares the SpellChecker class that checks word spelling across Quick Answers languages and reacts to state, consent, and preference changes.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_QUICK_ANSWERS_UTILS_SPELL_CHECKER_H_
 #define CHROMEOS_COMPONENTS_QUICK_ANSWERS_UTILS_SPELL_CHECKER_H_
 

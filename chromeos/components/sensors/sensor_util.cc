@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sensor utility for binding the sensor HAL client
+// summary: Implements BindSensorHalClient, which registers a SensorHalClient remote with the SensorHalDispatcher instance.
+// ---
+
 #include "chromeos/components/sensors/sensor_util.h"
 
 #include "chromeos/components/sensors/ash/sensor_hal_dispatcher.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PendingConnectionManager implementation
+// summary: Implements PendingConnectionManager singletons for DriveFS and SmbFs, matching tokens to pending IPC channel callbacks.
+// ---
+
 #include "chromeos/components/mojo_bootstrap/pending_connection_manager.h"
 
 #include <utility>

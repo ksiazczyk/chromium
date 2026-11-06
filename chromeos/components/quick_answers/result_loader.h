@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Result loader class declaration
+// summary: Declares the ResultLoader base class and its delegate interface for building network requests and delivering quick answer sessions.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_QUICK_ANSWERS_RESULT_LOADER_H_
 #define CHROMEOS_COMPONENTS_QUICK_ANSWERS_RESULT_LOADER_H_
 

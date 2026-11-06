@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build file for mojo_bootstrap
+summary: Defines the mojo_bootstrap component target with its sources and dependencies, plus a testonly unit test source set.

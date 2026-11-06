@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for quick answers
+summary: Applies the COMMON_METADATA mixins to this directory so shared bug tracking settings are inherited.

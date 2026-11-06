@@ -1,0 +1,4 @@
+# Docerion header of remote_apps.mojom.
+type: source
+title: Remote Apps Mojom interface definitions
+summary: Defines the stable Mojom interfaces that let extensions communicate with the ChromeOS Remote Apps Manager to add, delete, sort and pin launcher apps and observe launches.

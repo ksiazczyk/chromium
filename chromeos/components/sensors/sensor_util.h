@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sensor utility header for BindSensorHalClient
+// summary: Declares BindSensorHalClient, an exported helper that binds a SensorHalClient remote to the sensor HAL dispatcher.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_SENSORS_SENSOR_UTIL_H_
 #define CHROMEOS_COMPONENTS_SENSORS_SENSOR_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock payment app instance class declaration
+// summary: Declares a GMock mock of the PaymentAppInstance mojo interface used to fake payment app behavior in tests.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_PAYMENTS_MOCK_PAYMENT_APP_INSTANCE_H_
 #define CHROMEOS_COMPONENTS_PAYMENTS_MOCK_PAYMENT_APP_INSTANCE_H_
 

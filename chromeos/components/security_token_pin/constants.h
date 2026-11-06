@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security token PIN request types and error labels
+// summary: Declares the CodeType and ErrorLabel enums describing the information requested from the user and the errors shown during security token PIN requests.
+// ---
+
 #ifndef CHROMEOS_COMPONENTS_SECURITY_TOKEN_PIN_CONSTANTS_H_
 #define CHROMEOS_COMPONENTS_SECURITY_TOKEN_PIN_CONSTANTS_H_
 

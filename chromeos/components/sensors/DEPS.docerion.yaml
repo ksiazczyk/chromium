@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the sensors directory
+summary: Grants the sensors directory access to Mojo C++ bindings headers through a DEPS include rule.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ONC value signature definitions
+// summary: Defines the field and value signatures describing the structure of ONC configuration objects such as EAP, IPsec, VPN, Wi-Fi, and certificate patterns.
+// ---
+
 #include "chromeos/components/onc/onc_signature.h"
 
 #include "base/compiler_specific.h"

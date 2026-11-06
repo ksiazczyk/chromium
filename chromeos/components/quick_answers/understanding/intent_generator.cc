@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Answers intent generator implementation
+// summary: Implements intent generation for Quick Answers, using the ML text classifier, spell checker and language detection to detect unit conversion, dictionary and translation intents from selected text.
+// ---
+
 #include "chromeos/components/quick_answers/understanding/intent_generator.h"
 
 #include <map>

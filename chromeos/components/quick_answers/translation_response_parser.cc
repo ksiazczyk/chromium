@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translation response parser implementation
+// summary: Parses cloud translation API JSON responses and extracts the translated text into a TranslationResult.
+// ---
+
 #include "chromeos/components/quick_answers/translation_response_parser.h"
 
 #include <utility>

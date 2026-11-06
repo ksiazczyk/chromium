@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search response parser implementation
+// summary: Parses XSSI-prefixed JSON search responses, selects the first valid result and dispatches it to the matching result parser to build a quick answers session.
+// ---
+
 #include "chromeos/components/quick_answers/search_result_parsers/search_response_parser.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search result loader implementation
+// summary: Builds knowledge API search requests with query, client and language context payloads and parses the responses into quick answers.
+// ---
+
 #include "chromeos/components/quick_answers/search_result_loader.h"
 
 #include <string_view>
