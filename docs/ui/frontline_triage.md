@@ -1,3 +1,9 @@
+---
+type: guide
+title: Chromium UI Frontline Triage Procedures and Policy
+summary: Defines the procedures and policy for filing and triaging Chromium UI bugs, including weekly triage priorities, labels, and milestone branch reviews.
+---
+
 # Chromium UI Frontline Triage Procedures and Policy
 
 ## Filing New Issues

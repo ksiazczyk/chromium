@@ -1,3 +1,9 @@
+---
+type: readme
+title: 'Crosier: ChromeOS Integration/E2E-test Revamp'
+summary: Overview of Crosier, a framework for running GTest-based integration tests on ChromeOS DUTs or VMs, with guidelines on when to prefer VM or linux-chromeos testing over device testing.
+---
+
 # Crosier: **C**h**r**ome**OS** **I**ntegration/**E**2E-test **R**evamp
 
 ## Overview

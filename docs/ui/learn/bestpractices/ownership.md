@@ -1,3 +1,12 @@
+---
+type: guide
+title: 'Best practice: ownership'
+summary: Best practices for View ownership and lifetime management in Chromium Views code, covering AddChildView, set_owned_by_client, refcounting, and scoping.
+relations:
+  - references /ui/views/view.h
+  - references /ash/system/time/time_view.h
+---
+
 # Best practice: ownership
 
 In the common case, a `View` instance lives within a hierarchy of `View`s, up to

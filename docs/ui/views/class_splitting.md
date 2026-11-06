@@ -1,3 +1,9 @@
+---
+type: guide
+title: Views Dialog Class Splitting
+summary: Explains how to refactor legacy DialogDelegateView dialog controllers into smaller, stateless, testable classes using composition and callbacks instead of inheritance.
+---
+
 ## Views Dialog Class Splitting
 
 This document outlines how to refactor a common old Views design pattern into a

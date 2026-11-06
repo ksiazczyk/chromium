@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the Views docs directory
+summary: Bug tracking metadata assigning the Views documentation directory to the Internals>Views monorail component and Buganizer component 1456991.

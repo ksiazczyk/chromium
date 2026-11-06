@@ -1,3 +1,13 @@
+---
+type: guide
+title: Multi-Screen Testing in Chromium
+summary: Describes how to test multi-screen environments with VirtualDisplayUtil, covering usage, supported platforms, and special setup requirements for macOS, Windows, Linux X11, and headless Chrome.
+relations:
+  - references /testing/xvfb.py
+  - documents /ui/display/test/virtual_display_util.h
+  - references /third_party/win_virtual_display/driver/ChromiumVirtualDisplayDriver.inf
+---
+
 # Multi-Screen Testing in Chromium
 
 Chromium supports testing multi-screen environments under `interactive_ui_tests`

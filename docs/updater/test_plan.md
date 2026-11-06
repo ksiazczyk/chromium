@@ -1,3 +1,12 @@
+---
+type: plan
+title: Chromium Updater Test Plan
+summary: Outlines the bots, test binaries, unit tests, integration tests, and manual testing used to cover the Chromium Updater on macOS and Windows.
+relations:
+  - references /docs/updater/functional_spec.md
+  - references /DEPS
+---
+
 # Chromium Updater Test Plan
 
 This is the test plan for

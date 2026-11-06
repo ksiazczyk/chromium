@@ -1,3 +1,13 @@
+---
+type: guide
+title: Creating WebUI Interfaces
+summary: Tutorial for creating a new WebUI page in Chrome, from adding resources and URL constants to registering a WebUIConfig, plus development tips.
+relations:
+  - references /docs/chrome_browser_design_principles.md
+  - references /docs/webui/webui_explainer.md
+  - references /styleguide/web/web.md
+---
+
 <style>
 .note::before {
   content: 'Note: ';

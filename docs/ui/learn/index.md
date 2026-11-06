@@ -1,3 +1,13 @@
+---
+type: readme
+title: Learning about Chromium UI
+summary: Index page for the Chromium UI learning documentation, linking to getting started material, best practices, Chrome UI topics, and processes.
+relations:
+  - references /docs/ui/animation_builder/animation_builder.md
+  - references /docs/ui/ask/index.md
+  - references /docs/ui/aura/index.md
+---
+
 # Learning about Chromium UI
 
 # Getting Started

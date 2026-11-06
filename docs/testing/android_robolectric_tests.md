@@ -1,3 +1,12 @@
+---
+type: guide
+title: JUnit and Robolectric tests
+summary: Guide to writing and running JUnit tests on the workstation, both plain JUnit and Robolectric-based tests that can use Android APIs, with build template examples.
+relations:
+  - references /chrome/android/junit/src/org/chromium/chrome/browser/ExampleRobolectricTest.java
+  - references /testing/android/junit/BUILD.gn
+---
+
 # JUnit Tests
 
 JUnit tests are Java unit tests. These tests run locally on your workstation.

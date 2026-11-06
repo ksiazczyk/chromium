@@ -1,3 +1,12 @@
+---
+type: reference
+title: Layer Animation Builder
+summary: Documents the AnimationBuilder system for declaratively constructing UI layer animations, with a cross-fade example, usage guidance, and an API reference.
+relations:
+  - references /docs/ui/animation_builder/images/animation_builder1.png
+  - references /ui/compositor/layer_owner.h
+  - references /ui/compositor/layer.h
+---
 
 ## Layer Animation Builder
 

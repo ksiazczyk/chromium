@@ -1,3 +1,9 @@
+---
+type: guide
+title: Views Platform Styling
+summary: Guides building Views UIs that fit native platform styling using PlatformStyle factories, behavior switches, subclassing, and platform conventions for button order and casing.
+---
+
 # Views Platform Styling
 
 ## Overview

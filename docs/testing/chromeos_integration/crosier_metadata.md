@@ -1,3 +1,9 @@
+---
+type: guide
+title: Metadata for Crosier tests
+summary: Explains how to create a yaml metadata file for each Crosier test case, which scheduling tags are recognized, and how to include the yaml file in the Crosier binary build.
+---
+
 # Metadata for Crosier tests
 
 ## Create a yaml file with test case details

@@ -1,3 +1,13 @@
+---
+type: guide
+title: How to reproduce bot failures locally
+summary: Step-by-step guide to reproducing CI or CQ bot compile and test failures locally by matching the bot's platform, revision, gclient config, gn args and test environment.
+relations:
+  - references /docs/testing/images/bot_repro_bot_link.png
+  - references /docs/testing/images/bot_repro_bot_page.png
+  - references /docs/testing/images/bot_repro_compilator_step.png
+---
+
 # How to repro bot failures
 
 If you're looking for repro a CI/CQ compile or test bot failures locally, then

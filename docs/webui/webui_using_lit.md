@@ -1,3 +1,11 @@
+---
+type: guide
+title: Using Lit in Chromium WebUI Development
+summary: Guide to using Lit for Chromium WebUI development, covering the CrLitElement base class, data bindings and -changed events, Polymer compatibility, and migrating Polymer elements to Lit.
+relations:
+  - documents /third_party/lit/v3_0/cr_lit_element.ts
+---
+
 # Using Lit in Chromium WebUI Development
 
 [TOC]

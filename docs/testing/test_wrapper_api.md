@@ -1,3 +1,11 @@
+---
+type: reference
+title: Test Wrapper API
+summary: Describes the runtime_deps and run script conventions test targets must follow so tests can be invoked uniformly on the Chromium continuous integration system.
+relations:
+  - references /docs/testing/test_executable_api.md
+---
+
 # Test Wrapper API
 
 In order to simplify the calling conventions for tests that we run on our

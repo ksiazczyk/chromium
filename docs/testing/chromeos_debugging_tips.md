@@ -1,3 +1,9 @@
+---
+type: guide
+title: Chrome OS Debugging Instructions
+summary: Debugging tips for Chrome OS test failures across the Tast, Telemetry and GTest frameworks, including disabling tests, symbolizing crash dumps and rerunning tests locally.
+---
+
 # Chrome OS Debugging Instructions
 Chrome on Chrome OS is tested using a handful of frameworks, each of which
 you'll find running on Chrome's CQ and waterfalls. If you're investigating

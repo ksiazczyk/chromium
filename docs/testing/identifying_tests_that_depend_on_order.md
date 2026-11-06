@@ -1,3 +1,10 @@
+---
+type: guide
+title: Fixing web test flakiness
+summary: Guide to diagnosing and fixing web test ordering flakiness using ordering bisect scripts, manual bisects, random test orders and the flakiness dashboard.
+relations:
+  - references /third_party/blink/tools/bisect_web_test_ordering.py
+---
 
 # Fixing web test flakiness
 

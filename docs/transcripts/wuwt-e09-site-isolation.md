@@ -1,3 +1,11 @@
+---
+type: note
+title: What's Up With Site Isolation
+summary: Transcript of the 'What's Up With That' episode 9 video discussion with Charlie on site isolation, sandboxing, and how they protect Chrome's security.
+relations:
+  - references /docs/transcripts/wuwt-e08-processes.md
+---
+
 # What’s Up With Site Isolation
 
 This is a transcript of [What's Up With

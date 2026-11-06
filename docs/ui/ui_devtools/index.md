@@ -1,3 +1,13 @@
+---
+type: guide
+title: UI DevTools Overview
+summary: Explains how to enable and use Chromium's UI DevTools to inspect the desktop UI, including the elements tree, property inspection, inspect mode, sources panel, bubble locking, and tree search.
+relations:
+  - references /docs/ui/ui_devtools/images/browser_frame_properties.png
+  - references /docs/ui/ui_devtools/images/edit_property.gif
+  - references /docs/ui/ui_devtools/images/expand_elements.gif
+---
+
 # UI DevTools Overview
 
 UI DevTools allows UI developers to inspect the Chrome desktop UI system like

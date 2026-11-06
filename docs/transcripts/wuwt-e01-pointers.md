@@ -1,3 +1,9 @@
+---
+type: note
+title: What's Up With Pointers
+summary: Transcript of the 'What's Up With That' episode 1 video discussion with Dana on smart pointer types in Chrome, their correct use, and pointer-related memory safety bugs.
+---
+
 # What’s Up With Pointers
 
 This is a transcript of [What's Up With

@@ -1,3 +1,13 @@
+---
+type: reference
+title: WebUI Build Configuration
+summary: Reference for WebUI BUILD.gn build rules such as ts_library, bundle_js, and build_webui, documenting their arguments and usage examples.
+relations:
+  - references /ui/webui/PLATFORM_OWNERS
+  - references /chrome/browser/resources/downloads/BUILD.gn
+  - references /tools/polymer/html_to_wrapper.gni
+---
+
 <style>
 .doc h1 {
   margin: 0;

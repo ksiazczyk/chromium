@@ -1,3 +1,12 @@
+---
+type: guide
+title: Using ScopedServer in Chromium Updater Integration Tests
+summary: Explains how to set up and use the ScopedServer mock HTTP server, its strict ordered expectations, and the Omaha protocol helpers in Chromium Updater integration tests.
+relations:
+  - documents /chrome/updater/test/integration_tests.cc
+  - references /chrome/updater/test/integration_tests_impl.cc
+---
+
 # Using `ScopedServer` in Chromium Updater Integration Tests
 
 `ScopedServer` is a mock local HTTP server used in the Chromium Updater's

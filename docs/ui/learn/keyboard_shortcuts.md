@@ -1,3 +1,11 @@
+---
+type: guide
+title: 'Keyboard Shortcuts in Chrome: Guidelines & Lifecycle Process'
+summary: Guidelines for choosing, implementing, retiring, and approving Chrome keyboard shortcuts, covering platform rules, telemetry, and governance.
+relations:
+  - references /chrome/browser/ui/accelerator_table_unittest.cc
+---
+
 # Keyboard Shortcuts in Chrome: Guidelines & Lifecycle Process
 
 [TOC]

@@ -1,3 +1,11 @@
+---
+type: guide
+title: Web Tests Tips
+summary: Recommendations for writing concise, fast, reliable, and self-describing web tests, including coding style and baseline guidance.
+relations:
+  - references /third_party/blink/tools/run_web_tests.py
+---
+
 # Web Tests Tips
 
 The recommendations here are intended to help you write new tests that go

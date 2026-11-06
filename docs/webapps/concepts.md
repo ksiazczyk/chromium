@@ -1,3 +1,13 @@
+---
+type: reference
+title: Web Apps Concepts
+summary: Defines core web app concepts including manifests, manifest links, installability, promotability, manifest id, scope, display modes, and isolated web apps.
+relations:
+  - references /chrome/browser/web_applications/docs/manifest_representations.md
+  - references /chrome/browser/web_applications/docs/manifest_update_process.md
+  - references /components/webapps/docs/identifiers.md
+---
+
 ## Web Apps - Concepts
 
 ### Manifest, or WebManifest

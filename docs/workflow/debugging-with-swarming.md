@@ -1,3 +1,13 @@
+---
+type: guide
+title: Debugging with Swarming
+summary: Explains how to debug a test failure on a specific Swarming builder configuration using the UTR tool, avoiding repeated CL uploads or CQ dry runs.
+relations:
+  - references /docs/infra/glossary.md
+  - references /docs/testing/how_to_repro_bot_failures.md
+  - references /tools/utr/README.md
+---
+
 # Debugging with Swarming
 
 This document outlines how to debug a test failure on a specific builder

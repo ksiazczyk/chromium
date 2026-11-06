@@ -1,3 +1,9 @@
+---
+type: note
+title: What's Up With Base Episode 12 transcript
+summary: Transcript of the What's Up With That Episode 12 video discussion with Peter on Chromium's //base directory and when to use base, absl, and standard library types.
+---
+
 # What’s Up With Base
 
 This is a transcript of [What's Up With

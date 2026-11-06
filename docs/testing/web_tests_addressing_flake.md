@@ -1,3 +1,13 @@
+---
+type: guide
+title: Addressing Flaky Web Tests
+summary: Provides tips for understanding builder results, reproducing, and debugging flaky web tests using run_web_tests.py flags and content shell logs.
+relations:
+  - references /docs/testing/images/web_tests_archive_blink_web_tests_step.png
+  - references /docs/testing/images/web_tests_blink_web_tests_step.png
+  - references /docs/testing/images/web_tests_results_viewer_flaky_test.png
+---
+
 # Addressing Flaky Web Tests
 
 This document provides tips and tricks for reproducing and debugging flakes in

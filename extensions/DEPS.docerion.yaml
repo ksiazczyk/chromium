@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for extensions dependencies
+summary: Restricts allowed includes in the extensions directory, notably banning Chrome dependencies.

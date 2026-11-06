@@ -1,3 +1,9 @@
+---
+type: reference
+title: Contact Us
+summary: 'Lists ways to contact the Chromium UI team, including the Slack #desktop-ui channel, the ui@chromium.org mailing address, and Google-internal channels and resources.'
+---
+
 # Contact Us
 
 Need to ask a question? You can contact us with one of the methods below.

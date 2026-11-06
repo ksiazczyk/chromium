@@ -1,0 +1,6 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for docs/webui
+summary: Metadata file that applies the common WebUI metadata mixins to the docs/webui directory.
+relations:
+  - references /ui/webui/COMMON_METADATA

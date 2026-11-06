@@ -1,3 +1,13 @@
+---
+type: guide
+title: 'Example: Creating a Simple Login Dialog'
+summary: Step-by-step Views tutorial that builds a simple login bubble dialog, covering file setup, layout creation, localized text, input handling, and form validation.
+relations:
+  - references /docs/ui/create/examples/login_dialog_ui.png
+  - documents /ui/views/examples/login_bubble_dialog_example.h
+  - references /ui/views/bubble/bubble_border.h
+---
+
 # Example: Creating a Simple Login Dialog
 
 [TOC]

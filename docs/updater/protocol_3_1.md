@@ -1,3 +1,11 @@
+---
+type: reference
+title: Omaha Protocol Version 3.1
+summary: Specification of Omaha protocol 3.1 defining update checks, downloads, and ping-backs between the updater client and cloud update servers.
+relations:
+  - references /docs/updater/cup.md
+---
+
 Previous versions are described at:
  * [Version 3](https://github.com/google/omaha/blob/master/doc/ServerProtocolV3.md)
  * [Version 2](https://github.com/google/omaha/blob/master/doc/ServerProtocolV2.md)

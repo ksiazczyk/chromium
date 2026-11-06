@@ -1,3 +1,11 @@
+---
+type: reference
+title: Mac Installer API
+summary: Describes how macOS software integrates with the Chromium Updater, covering installer executables, environment variables, and DMG update guidance.
+relations:
+  - references /docs/updater/protocol_3_1.md
+---
+
 # Mac Installer API
 This document describes how macOS software integrates with Chromium Updater for
 software updates.

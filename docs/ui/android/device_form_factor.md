@@ -1,3 +1,13 @@
+---
+type: guide
+title: Including features per device form factor
+summary: Guidance on criteria and APIs for making Chrome for Android features conditionally available per form factor, ranked from device capability APIs to screen size checks.
+relations:
+  - references /ui/android/java/src/org/chromium/ui/base/DeviceInput.java
+  - references /ui/android/java/src/org/chromium/ui/display/DisplayUtil.java
+  - references /chrome/android/java/src/org/chromium/chrome/browser/ChromeBaseAppCompatActivity.java
+---
+
 Most features built for Chrome for Android are applicable across all form factors (phones, tablets, experimental desktop, etc). While some features may be used more on certain form factors, that they are typically still useful across the breadth of devices Chrome for Android supports. We also generally strive to provide consistent feature experience across all form factors and minimize divergence; rather, features should be available and UI layouts or entry points should adapt to the screen size.
 
 Sometimes, however, there is a need to make features conditionally available. The criteria for when a feature should be available will vary and should be established in the PRD phase. Below is a list of options and some examples of when they may be applicable. Note that some features may use more than one of these signals to determine availability.

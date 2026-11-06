@@ -1,3 +1,11 @@
+---
+type: guide
+title: Testing in Chromium
+summary: Overview of testing in Chromium covering test types per platform, general principles, writing tests for new features, running tests locally or on Swarming, and handling flaky tests.
+relations:
+  - references /docs/testing/web_tests.md
+---
+
 Testing is an essential component of software development in Chromium,
 it ensures Chrome is behaving as we expect, and is critical to find bugs and
 regressions at early stage.

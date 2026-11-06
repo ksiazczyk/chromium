@@ -1,3 +1,13 @@
+---
+type: guide
+title: Android Instrumentation Tests
+summary: Guide to Android instrumentation tests, covering unit versus integration tests, Robolectric alternatives, tracing, and batching, size, disable, flag and feature annotations.
+relations:
+  - references /docs/testing/android_robolectric_tests.md
+  - references /docs/testing/batching_instrumentation_tests.md
+  - references /base/test/android/javatests/src/org/chromium/base/test/transit/README.md
+---
+
 # Android Instrumentation Tests
 
 Instrumentation tests are JUnit 4 tests that run on devices or emulators. They

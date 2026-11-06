@@ -1,3 +1,13 @@
+---
+type: readme
+title: Chrome for Android UI
+summary: Overview of Chrome for Android UI development, linking ramp-up resources and guidance on colors, text styles, widgets, MVC, WebView-shared styles, and activity result handling.
+relations:
+  - references /components/browser_ui/styles/android/java/res/values/styles.xml
+  - references /docs/ui/android/dynamic_colors.md
+  - references /docs/ui/android/mvc_architecture_tutorial.md
+---
+
 # Chrome for Android UI
 
 ## Ramping-up

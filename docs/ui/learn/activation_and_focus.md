@@ -1,3 +1,9 @@
+---
+type: reference
+title: Activation and Focus in Chromium UI
+summary: Defines the intended meanings of activation and focus in the Chromium code base, giving a common lexicon across platforms and components.
+---
+
 The terms "activation" and "focus" are often used in the chromium code base with
 different semantics depending on platform [windows, macOS, etc.] or component
 [e.g. views, blink]. For legacy reasons, sometimes even in a given component

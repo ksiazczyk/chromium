@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for updater docs
+summary: Directs reviewers to the chrome/updater OWNERS file for non-trivial changes to the updater documentation.
+relations:
+  - references /chrome/updater/OWNERS

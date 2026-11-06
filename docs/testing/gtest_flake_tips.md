@@ -1,3 +1,12 @@
+---
+type: guide
+title: Addressing Flaky GTests
+summary: Guide to understanding builder results, reproducing, debugging and preventing flaky GTest failures in Chromium, including local reproduction and Swarming tips.
+relations:
+  - references /docs/testing/images/bot_gn_args.png
+  - references /tools/run-swarmed.py
+---
+
 # Addressing Flaky GTests
 
 ## Understanding builder results

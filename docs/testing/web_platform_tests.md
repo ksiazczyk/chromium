@@ -1,3 +1,13 @@
+---
+type: guide
+title: Web Platform Tests in Chromium
+summary: Covers writing, running, reviewing, importing, and exporting web-platform-tests in Chromium, including testdriver.js, wpt_internal, and notes for WPT infra maintainers.
+relations:
+  - references /docs/testing/web_tests_tips.md
+  - references /docs/testing/writing_web_tests.md
+  - references /third_party/blink/web_tests/external/wpt/css/css-color/hsl-clamp-negative-saturation.html
+---
+
 # web-platform-tests
 
 Interoperability between browsers is

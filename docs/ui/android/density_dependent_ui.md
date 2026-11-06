@@ -1,3 +1,13 @@
+---
+type: guide
+title: Developing with touch-first and click-first UX in mind
+summary: Guidance for building density-adaptive Chrome Android UI that works for touch-first and click-first experiences using theme attributes and text styles.
+relations:
+  - references /chrome/android/java/src/org/chromium/chrome/browser/ChromeBaseAppCompatActivity.java
+  - references /ui/android/java/res/values/attrs.xml
+  - references /components/browser_ui/theme/android/templates/res/values/themes.xml
+---
+
 # Developing with touch-first and click-first UX in mind
 
 ## Background

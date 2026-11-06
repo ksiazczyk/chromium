@@ -1,3 +1,13 @@
+---
+type: reference
+title: Views Widget Destruction
+summary: Describes widget destruction sequences for desktop native widget, native widget, and MacViews under both ownership models, illustrated with diagrams.
+relations:
+  - references /docs/ui/views/images/widget_destruction_NWOW_MacViews.png
+  - references /docs/ui/views/images/widget_destruction_NWOW_desktop.png
+  - references /docs/ui/views/images/widget_destruction_NWOW_non_desktop.png
+---
+
 This document describes the destruction procedure of Widget related classes.
 
 ## Desktop Native Widget

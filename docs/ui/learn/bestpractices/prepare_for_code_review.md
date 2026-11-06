@@ -1,3 +1,13 @@
+---
+type: guide
+title: Prepare for Code Review
+summary: Checklist for preparing Chromium UI changes for code review, covering UI views owners, avoiding hardcoded constants, accessibility, dark mode, and screenshots.
+relations:
+  - references /ui/base/theme_provider.h
+  - references /ui/views/layout/layout_provider.h
+  - references /chrome/browser/ui/views/OWNERS
+---
+
 # Prepare for Code Review
 
 * Use a //chrome/browser/ui/views/OWNERS owner when making substantial UI

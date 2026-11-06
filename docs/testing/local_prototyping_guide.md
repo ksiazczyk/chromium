@@ -1,3 +1,12 @@
+---
+type: guide
+title: Local Prototyping and Testing Chromium Web Platform Features with WPT
+summary: Guide to locally prototyping new web platform features and testing them with WPT, covering CDP, WebDriver BiDi CDDL, Chromium BiDi and running web platform tests.
+relations:
+  - references /third_party/chromium-bidi/README.md
+  - references /third_party/blink/public/devtools_protocol/README.md
+---
+
 # Local Prototyping and Testing Chromium Web Platform Features with Web Platform Tests
 
 This document can be useful if you want to create a local prototype of a new

@@ -1,3 +1,13 @@
+---
+type: reference
+title: Glossary of Chromium UI Terms
+summary: Alphabetical glossary of Chromium UI terminology, from Ash and Aura to Widget, maintained by the Views team.
+relations:
+  - references /docs/ui/ask/index.md
+  - references /docs/ui/learn/ui_debugging.md
+  - references /ui/color/color_transform.cc
+---
+
 # Glossary
 
 ## How to use

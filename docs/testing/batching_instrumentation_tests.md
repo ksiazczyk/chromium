@@ -1,3 +1,11 @@
+---
+type: guide
+title: Instrumentation Test Batching Guide
+summary: Guide to batching Android instrumentation tests with the @Batch annotation to speed up runs, explaining batch types, activity reuse versus restart and how to batch a test.
+relations:
+  - references /base/test/android/javatests/src/org/chromium/base/test/util/RequiresRestart.java
+---
+
 # Instrumentation Test Batching Guide
 
 ## What is Test Batching?

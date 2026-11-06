@@ -1,3 +1,13 @@
+---
+type: guide
+title: Views MVC Developer Guide
+summary: Describes the Views MVC components, splitting the controller into coordinator and view controller roles, with Chrome Labs and Extensions Menu examples.
+relations:
+  - references /docs/ui/views/images/mvc_visual_of_components.png
+  - references /chrome/browser/ui/views/toolbar/chrome_labs/chrome_labs_coordinator.h
+  - references /chrome/browser/ui/toolbar/chrome_labs/chrome_labs_model.h
+---
+
 # Views MVC Developer Guide
 
 ## Components and Concepts

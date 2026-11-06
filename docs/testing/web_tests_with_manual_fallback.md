@@ -1,3 +1,11 @@
+---
+type: guide
+title: Web Tests with Manual Fallback
+summary: Describes the pattern of web tests that degrade to manual tests when testing APIs are unavailable, with motivation, tips, and an example.
+relations:
+  - references /docs/testing/web_platform_tests.md
+---
+
 # Web Tests with Manual Fallback
 
 Some Blink features cannot be automatically tested using the Web Platform. Prime

@@ -1,3 +1,9 @@
+---
+type: reference
+title: Chromium Test Descriptions
+summary: Reference table describing the purpose of Chromium test executables such as browser_tests, content_browsertests, and the various unit and performance test suites.
+---
+
 See [Testing and infrastructure](https://sites.google.com/a/chromium.org/dev/developers/testing) for more information.
 
 | Type of test           | Description |

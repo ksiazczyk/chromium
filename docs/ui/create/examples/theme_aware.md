@@ -1,3 +1,13 @@
+---
+type: guide
+title: 'Example: Theme-Aware UI'
+summary: Tutorial showing techniques for building theme-aware Views UI, including using existing controls, overriding OnThemeChanged, and using theme-neutral icons and images.
+relations:
+  - references /docs/ui/create/examples/theme_aware_dark.png
+  - references /docs/ui/create/examples/theme_aware_light.png
+  - documents /ui/views/examples/colored_dialog_example.cc
+---
+
 # Example: Theme-Aware UI
 
 [TOC]

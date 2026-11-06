@@ -1,3 +1,13 @@
+---
+type: guide
+title: 'MVC architecture tutorial: simple progress bar component'
+summary: Tutorial walking through a minimal MVC component in Chrome Android, showing the file structure and roles of coordinator, mediator, view binder and properties.
+relations:
+  - references /docs/ui/android/mvc_overview.md
+  - references /docs/ui/android/mvc_simple_list_tutorial.md
+  - references /docs/ui/android/mvc_testing.md
+---
+
 # So, you want to do MVC...
 
 ### Overview

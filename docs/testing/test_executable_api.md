@@ -1,3 +1,13 @@
+---
+type: reference
+title: The Chromium Test Executable API
+summary: Specification of the API test executables must implement to run on Chromium's LUCI CI infrastructure, covering invocation, command line arguments, filtering, and sharding.
+relations:
+  - references /testing/buildbot/test_suite_exceptions.pyl
+  - references /testing/buildbot/waterfalls.pyl
+  - references /testing/buildbot/README.md
+---
+
 # The Chromium Test Executable API
 
 [bit.ly/chromium-test-runner-api][1] (*)

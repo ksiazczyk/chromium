@@ -1,3 +1,13 @@
+---
+type: guide
+title: Addressing Flaky Web Platform Tests
+summary: Tips for reproducing and debugging flaky web platform tests, including loading WPTs directly in content shell via the wptserve server.
+relations:
+  - references /docs/testing/web_platform_tests.md
+  - references /docs/testing/web_tests_addressing_flake.md
+  - references /third_party/blink/tools/run_blink_wptserve.py
+---
+
 # Addressing Flaky WPTs
 
 This document provides tips and tricks for reproducing and debugging flakes in

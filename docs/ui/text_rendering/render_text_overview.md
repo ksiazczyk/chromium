@@ -1,3 +1,11 @@
+---
+type: reference
+title: RenderText Overview
+summary: Explains how RenderText prepares, shapes with HarfBuzz, and draws text via Skia, covering layout attributes, itemization, shaping, eliding, and multiline layout.
+relations:
+  - documents /ui/gfx/render_text_harfbuzz.cc
+---
+
 # RenderText Overview
 
 RenderText’s purpose is to prepare text for text shaping, shape the text using

@@ -1,3 +1,12 @@
+---
+type: reference
+title: Expectation Files
+summary: Reference for test expectation files in Chromium, covering header syntax with tag and result sets, expectation priorities and conflict detection and annotations.
+relations:
+  - references /docs/testing/web_test_expectations.md
+  - references /docs/gpu/gpu_expectation_files.md
+---
+
 # Expectation Files
 
 A number of test suites in Chromium use expectation files to handle test

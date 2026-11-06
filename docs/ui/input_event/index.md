@@ -1,3 +1,13 @@
+---
+type: reference
+title: The Life of an Input Event in Desktop Chrome UI
+summary: Explains how keyboard and mouse input events travel from the OS through the Aura windowing layer to the Views system in desktop Chrome, covering event routing, IME handling, and focus management.
+relations:
+  - references /docs/ui/input_event/images/aura-event-flow.png
+  - references /docs/ui/input_event/images/event-processor.png
+  - references /docs/ui/input_event/images/high-level-input-pipeline.png
+---
+
 # The Life of an Input Event in Desktop Chrome UI
 
 [TOC]

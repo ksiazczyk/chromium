@@ -1,3 +1,11 @@
+---
+type: guide
+title: Using Crashpad with Content Shell
+summary: How to capture, retrieve, and symbolize crash dumps from content shell using crashpad or breakpad on Linux, Mac, Windows, and Android.
+relations:
+  - references /components/crash/content/tools/generate_breakpad_symbols.py
+---
+
 # Using crashpad with content shell
 
 When running web tests, it is possible to use

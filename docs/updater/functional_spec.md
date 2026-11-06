@@ -1,3 +1,11 @@
+---
+type: reference
+title: Chromium Updater Functional Specification
+summary: Functional specification describing the externally observable behavior of the updater, including installers, update protocol usage, security, and UI.
+relations:
+  - references /docs/updater/design_doc.md
+---
+
 # Chromium Updater Functional Specification
 
 This is the functional specification for

@@ -1,3 +1,9 @@
+---
+type: guide
+title: Chromium Updater Migration Test Instructions
+summary: Step-by-step instructions for developers to opt software currently using Keystone or Omaha 3 into Chromium Updater and verify their software updates correctly on macOS and Windows.
+---
+
 # Chromium Updater Migration Test Instructions
 
 This document describes how to do basic developer testing with [Chromium

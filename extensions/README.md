@@ -1,3 +1,13 @@
+---
+type: readme
+title: Extensions directory overview
+summary: Describes the core Chrome extension system implementation and links to docs on build flags, app types, features, bindings, and events.
+relations:
+  - references /chrome/common/extensions/api/_features.md
+  - references /content/README.md
+  - references /extensions/docs/buildflags.md
+---
+
 This directory implements the core parts of Chrome's extension system, and can
 be used with any host of the [content module](/content/README.md).
 

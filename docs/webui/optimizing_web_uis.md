@@ -1,3 +1,9 @@
+---
+type: guide
+title: Optimizing Chrome Web UIs
+summary: Explains how to build Chrome Web UIs with optimizations such as bundling, JavaScript minification, and gzip compression of web resources.
+---
+
 # Optimizing Chrome Web UIs
 
 ## How do I do it?
