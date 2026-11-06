@@ -1,6 +1,13 @@
 // Copyright 2018 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: S2 language quadtree implementation
+// summary: Implements S2LangQuadTreeNode lookups of languages for S2 cells and deserialization of a bit-encoded serialized language tree.
+// ---
+
 #include "components/language/content/browser/ulp_language_code_locator/s2langquadtree.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Lens directory metadata
+summary: Points the Lens directory to the shared tracking metadata defined in COMMON_METADATA.

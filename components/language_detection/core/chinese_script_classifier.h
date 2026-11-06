@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChineseScriptClassifier class declaration
+// summary: Declares the ChineseScriptClassifier class, which classifies Chinese input text as zh-Hans or zh-Hant based on script-specific Unicode sets.
+// ---
+
 #ifndef COMPONENTS_LANGUAGE_DETECTION_CORE_CHINESE_SCRIPT_CLASSIFIER_H_
 #define COMPONENTS_LANGUAGE_DETECTION_CORE_CHINESE_SCRIPT_CLASSIFIER_H_
 

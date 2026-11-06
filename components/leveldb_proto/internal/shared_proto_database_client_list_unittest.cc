@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SharedProtoDatabaseClientList unit tests
+// summary: Unit tests verifying SharedProtoDatabaseClientList::ShouldUseSharedDB follows the shared migration experiment flag and respects blocklisted databases.
+// ---
+
 #include "components/leveldb_proto/public/shared_proto_database_client_list.h"
 #include "base/metrics/field_trial.h"
 #include "base/metrics/field_trial_params.h"

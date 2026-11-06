@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedProtoDatabaseClient implementation
+// summary: Implements SharedProtoDatabaseClient key prefixing and filtering helpers, shared init status checks, and destruction of obsolete client data.
+// ---
+
 #include "components/leveldb_proto/internal/shared_proto_database_client.h"
 
 #include <memory>

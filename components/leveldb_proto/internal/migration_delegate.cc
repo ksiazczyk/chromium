@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Migration delegate implementation
+// summary: Implements copying keys and entries from one UniqueProtoDatabase to another as part of shared database migration.
+// ---
+
 #include "components/leveldb_proto/internal/migration_delegate.h"
 
 #include <memory>

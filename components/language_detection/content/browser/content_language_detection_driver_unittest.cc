@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content language detection driver unit tests
+// summary: Unit tests verifying model status reporting for null, unset, unloaded, invalid, and valid language detection model providers.
+// ---
+
 #include "components/language_detection/content/browser/content_language_detection_driver.h"
 
 #include "base/files/file.h"

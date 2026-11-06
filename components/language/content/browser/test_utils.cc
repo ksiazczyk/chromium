@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock geolocation test utilities implementation
+// summary: Implements mock Geolocation and IP geolocation provider classes that let tests control returned positions and count queries.
+// ---
+
 #include "components/language/content/browser/test_utils.h"
 
 #include "base/time/time.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the Android language component
+summary: Defines GN targets for JNI headers, the native language bridge source set, the Android Java library, and Robolectric and instrumentation test libraries.

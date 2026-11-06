@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language usage metrics implementation
+// summary: Records accept languages and frequent page languages as UMA histograms, including language code hashing and accept-language parsing.
+// ---
+
 #include "components/language/core/browser/language_usage_metrics.h"
 
 #include <stddef.h>

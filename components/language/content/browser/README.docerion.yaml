@@ -1,0 +1,4 @@
+# Docerion header of README.
+type: readme
+title: README on iOS support for the language code locator
+summary: Notes that the language code locator builds on all platforms except iOS, which currently lacks //device/geolocation support, referencing crbug 774879.

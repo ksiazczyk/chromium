@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LanguagePrefs unit tests
+// summary: Unit tests covering GetFirstLanguage, user-selected language list updates, and policy-forced language handling in LanguagePrefs.
+// ---
+
 #include "components/language/core/browser/language_prefs.h"
 
 #include <algorithm>

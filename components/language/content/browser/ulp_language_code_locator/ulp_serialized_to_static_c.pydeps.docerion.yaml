@@ -1,0 +1,4 @@
+# Docerion header of ulp_serialized_to_static_c.pydeps.
+type: config
+title: ulp_serialized_to_static_c.pydeps
+summary: Generated Python dependency list for ulp_serialized_to_static_c.py, naming the jinja2 and markupsafe modules the build needs.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SharedProtoDatabaseClient unit tests
+// summary: Unit tests for SharedProtoDatabaseClient covering client creation, migration status expectations, key prefixing, and obsolete client cleanup against a temporary shared database.
+// ---
+
 #include "components/leveldb_proto/internal/shared_proto_database_client.h"
 
 #include <set>

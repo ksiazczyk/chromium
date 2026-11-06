@@ -1,0 +1,4 @@
+# Docerion header of ios_language_detection_tab_helper_observer_bridge.mm.
+type: source
+title: IOSLanguageDetectionTabHelperObserverBridge implementation
+summary: Implements the bridge that forwards language determination callbacks from the tab helper to Objective-C observers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens request header construction implementation
+// summary: Builds OAuth authorization and variations X-Client-Data headers for outgoing Lens requests.
+// ---
+
 #include "components/lens/lens_request_construction.h"
 
 #include "base/strings/stringprintf.h"

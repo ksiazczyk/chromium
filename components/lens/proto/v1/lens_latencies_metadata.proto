@@ -1,6 +1,12 @@
 // lens_latencies_metadata.proto
 // Define latency measurements and metadata for Google Lens defined in
 
+// ---docerion
+// type: source
+// title: Lens latencies metadata protobuf definition
+// summary: Protobuf schema defining Chrome-specific phase latencies and metadata for Google Lens, including image downscale and encode phase data.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

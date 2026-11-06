@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens feature flag definitions
+// summary: Defines base::Feature flags controlling Lens overlay, search, and Composebox behaviors, including platform- and branding-dependent defaults.
+// ---
+
 #include "components/lens/lens_features.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ULP metrics logger class declaration
+// summary: Declares the ULPMetricsLogger class, its histogram name constants, the ULPLanguageStatus enum, and virtual recording methods for User Language Profile metrics.
+// ---
+
 #ifndef COMPONENTS_LANGUAGE_CORE_BROWSER_ULP_METRICS_LOGGER_H_
 #define COMPONENTS_LANGUAGE_CORE_BROWSER_ULP_METRICS_LOGGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NGram hash op registration header
+// summary: Declares Register_NGRAM_HASH, the registration entry point for the ngram hashing TFLite op used in language detection.
+// ---
+
 #ifndef COMPONENTS_LANGUAGE_DETECTION_CORE_NGRAM_HASH_H_
 #define COMPONENTS_LANGUAGE_DETECTION_CORE_NGRAM_HASH_H_
 

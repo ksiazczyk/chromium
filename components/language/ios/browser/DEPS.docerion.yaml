@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for iOS language detection browser
+summary: Declares the allowed include paths for translate, language detection, and net dependencies in this directory.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the language model
+summary: Specifies allowed include rules permitting dependencies on keyed_service core and translate core browser and common components.

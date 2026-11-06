@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LanguageDetectionModelLoaderServiceIOS header
+// summary: Declares an iOS KeyedService that owns and loads the language detection model, working around BrowserState scoping requirements on iOS.
+// ---
+
 #ifndef COMPONENTS_LANGUAGE_DETECTION_IOS_BROWSER_LANGUAGE_DETECTION_MODEL_LOADER_SERVICE_IOS_H_
 #define COMPONENTS_LANGUAGE_DETECTION_IOS_BROWSER_LANGUAGE_DETECTION_MODEL_LOADER_SERVICE_IOS_H_
 

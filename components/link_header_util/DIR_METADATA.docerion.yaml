@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for link_header_util
+summary: Specifies the Monorail component Blink>Loader, the loading team email, and the Buganizer component for the directory.

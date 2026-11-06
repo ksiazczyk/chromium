@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay first interaction type enum
+// summary: Enumerates the persisted types of first Lens overlay interaction, including permission dialog, region and text selection, and searchbox.
+// ---
+
 #ifndef COMPONENTS_LENS_LENS_OVERLAY_FIRST_INTERACTION_TYPE_H_
 #define COMPONENTS_LENS_LENS_OVERLAY_FIRST_INTERACTION_TYPE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of ios_language_detection_tab_helper_unittest.mm.
+type: test
+title: IOSLanguageDetectionTabHelper unit tests
+summary: Tests that the TFLite language detection model evaluation duration is recorded in the UMA histogram.

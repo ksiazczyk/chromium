@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the browser language component
+summary: Defines the browser static library, unit test and test support targets, plus the action that generates the incognito language list map header.

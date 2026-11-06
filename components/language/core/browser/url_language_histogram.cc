@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL language histogram implementation
+// summary: Implements UrlLanguageHistogram, storing per-language visit counters in prefs with discounting and cleanup of low-frequency languages.
+// ---
+
 #include "components/language/core/browser/url_language_histogram.h"
 
 #include <algorithm>

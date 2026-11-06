@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Link header parsing
+// summary: Contains gtest unit tests covering splitting of Link headers and parameterized parsing of link values in many formats.
+// ---
+
 #include "components/link_header_util/link_header_util.h"
 
 #include "base/run_loop.h"

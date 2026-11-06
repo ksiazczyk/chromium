@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Dependency include rules for leveldb_proto
+summary: Restricts includes in this directory to the keyed service core and the third-party leveldatabase dependencies.

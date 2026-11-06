@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GeoLanguageProvider unit tests
+// summary: Tests current geo languages for Indian and non-Indian locations, update throttling and cached language handling with mocked geolocation.
+// ---
+
 #include "components/language/content/browser/geo_language_provider.h"
 
 #include <memory>

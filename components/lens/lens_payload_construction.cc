@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens payload construction helpers
+// summary: Maps Lens mime types to media and content types and compresses payload bytes with Zstd, except on Android.
+// ---
+
 #include <string>
 
 #include "base/containers/span.h"

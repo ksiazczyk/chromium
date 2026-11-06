@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay invocation source enum
+// summary: Enumerates the persisted sources that invoke the Lens overlay, such as app menu, context menus, toolbar, omnibox, and composebox entry points.
+// ---
+
 #ifndef COMPONENTS_LENS_LENS_OVERLAY_INVOCATION_SOURCE_H_
 #define COMPONENTS_LENS_LENS_OVERLAY_INVOCATION_SOURCE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of language detection Mojom files
+summary: Sets per-file ownership of Mojom files in this directory to the IPC security owners for review requirements.

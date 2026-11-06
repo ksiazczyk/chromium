@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens bitmap processing API
+// summary: Declares helpers for downscaling and encoding bitmaps for Lens uploads, with image encoding options and client log reporting.
+// ---
+
 #ifndef COMPONENTS_LENS_LENS_BITMAP_PROCESSING_H_
 #define COMPONENTS_LENS_LENS_BITMAP_PROCESSING_H_
 

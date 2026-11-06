@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual input data structures
+// summary: Defines data structures holding contextual input for Lens requests, including content bytes, mime types, page URLs, screenshots, and Drive file identifiers.
+// ---
+
 #ifndef COMPONENTS_LENS_CONTEXTUAL_INPUT_H_
 #define COMPONENTS_LENS_CONTEXTUAL_INPUT_H_
 

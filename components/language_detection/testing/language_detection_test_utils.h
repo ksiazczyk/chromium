@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language detection test utilities header
+// summary: Declares helpers for obtaining the valid language detection model path, file, and a loaded model instance for tests.
+// ---
+
 #ifndef COMPONENTS_LANGUAGE_DETECTION_TESTING_LANGUAGE_DETECTION_TEST_UTILS_H_
 #define COMPONENTS_LANGUAGE_DETECTION_TESTING_LANGUAGE_DETECTION_TEST_UTILS_H_
 

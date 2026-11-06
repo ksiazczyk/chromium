@@ -1,6 +1,13 @@
 // Copyright 2018 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: ProtoLevelDBWrapper class header
+// summary: Declares ProtoLevelDBWrapper, an asynchronous wrapper around LevelDB providing filtered entry and key loading, updates, and database destruction.
+// ---
+
 #ifndef COMPONENTS_LEVELDB_PROTO_INTERNAL_PROTO_LEVELDB_WRAPPER_H_
 #define COMPONENTS_LEVELDB_PROTO_INTERNAL_PROTO_LEVELDB_WRAPPER_H_
 

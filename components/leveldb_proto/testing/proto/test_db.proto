@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestProto protobuf definition
+// summary: Defines the TestProto message with id and data fields used to test leveldb_proto::ProtoDatabase implementations.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

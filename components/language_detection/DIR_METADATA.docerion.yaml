@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for language detection
+summary: Points to the translate component's common metadata so the directory inherits its metadata mixins.

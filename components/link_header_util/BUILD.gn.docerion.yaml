@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for link_header_util
+summary: Defines the static library, unit test, and libFuzzer targets for the Link header utility along with their dependencies.

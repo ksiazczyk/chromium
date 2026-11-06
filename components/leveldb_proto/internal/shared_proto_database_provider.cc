@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedProtoDatabaseProvider implementation
+// summary: Implements SharedProtoDatabaseProvider, forwarding requests for a shared database instance to ProtoDatabaseProvider via a weak pointer on the client task runner.
+// ---
+
 #include "components/leveldb_proto/internal/shared_proto_database_provider.h"
 
 #include "base/functional/bind.h"

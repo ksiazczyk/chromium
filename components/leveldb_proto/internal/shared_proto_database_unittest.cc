@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SharedProtoDatabase unit tests
+// summary: GMock-based unit tests covering client creation, initialization states, and destruction of obsolete shared proto database clients.
+// ---
+
 #include "components/leveldb_proto/internal/shared_proto_database.h"
 
 #include "base/files/scoped_temp_dir.h"

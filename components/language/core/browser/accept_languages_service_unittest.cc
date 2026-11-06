@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the accept languages service
+// summary: Tests IsAcceptLanguage and CanBeAcceptLanguage matching, including synonym handling and Chinese region variants.
+// ---
+
 #include "components/language/core/browser/accept_languages_service.h"
 
 #include "components/prefs/pref_registry_simple.h"

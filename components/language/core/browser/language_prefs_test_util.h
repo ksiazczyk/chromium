@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Language prefs test helper header
+// summary: Declares the LanguagePrefTester helper class used to set and verify language preferences in tests.
+// ---
+
 #ifndef COMPONENTS_LANGUAGE_CORE_BROWSER_LANGUAGE_PREFS_TEST_UTIL_H_
 #define COMPONENTS_LANGUAGE_CORE_BROWSER_LANGUAGE_PREFS_TEST_UTIL_H_
 

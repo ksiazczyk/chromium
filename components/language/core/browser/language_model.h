@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User language model interface
+// summary: Defines the LanguageModel interface returning a ranked list of languages the user understands, each with an importance score.
+// ---
+
 #ifndef COMPONENTS_LANGUAGE_CORE_BROWSER_LANGUAGE_MODEL_H_
 #define COMPONENTS_LANGUAGE_CORE_BROWSER_LANGUAGE_MODEL_H_
 

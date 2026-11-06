@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for iOS language detection browser
+summary: Defines the browser source set, the optimized language detection JavaScript target, and the unit test target with their dependencies.

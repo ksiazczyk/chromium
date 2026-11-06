@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: libFuzzer harness for Link header parsing
+// summary: libFuzzer entry point that exercises SplitLinkHeader and ParseLinkHeaderValue on arbitrary input to uncover parsing crashes.
+// ---
+
 #include "components/link_header_util/link_header_util.h"
 
 #include <assert.h>

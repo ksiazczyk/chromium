@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lens overlay request ID generator unit tests
+// summary: Unit tests verifying sequence increments, resets, and update-mode behavior of the Lens Overlay request ID generator.
+// ---
+
 #include "components/lens/lens_overlay_request_id_generator.h"
 
 #include <memory>

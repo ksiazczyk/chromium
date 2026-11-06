@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LanguageProfileController
+// summary: Controller that fetches the user's ordered language preferences from the device through a delegate, logging initiation status and handling timeouts.
+// ---
+
 package org.chromium.components.language;
 
 import org.chromium.base.Log;

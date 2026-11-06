@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens upload chunker implementation
+// summary: Implements chunked, Zstd-compressed upload of large content such as PDFs to the Lens server with progress tracking and retries.
+// ---
+
 #include "components/lens/lens_upload_chunker.h"
 
 #include "base/containers/span.h"

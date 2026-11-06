@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LanguageDetectionModelService class declaration
+// summary: Declares the KeyedService and OptimizationTargetModelObserver that receives language detection model files from the Optimization Guide and extends the model provider.
+// ---
+
 #ifndef COMPONENTS_LANGUAGE_DETECTION_CORE_BROWSER_LANGUAGE_DETECTION_MODEL_SERVICE_H_
 #define COMPONENTS_LANGUAGE_DETECTION_CORE_BROWSER_LANGUAGE_DETECTION_MODEL_SERVICE_H_
 

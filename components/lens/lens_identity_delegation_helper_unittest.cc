@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lens identity delegation helper unit tests
+// summary: Tests identity delegation header fetching using a fake cookie manager and identity test environment, verifying header output and histogram values.
+// ---
+
 #include "components/lens/lens_identity_delegation_helper.h"
 
 #include <optional>

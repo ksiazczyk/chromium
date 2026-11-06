@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay new tab source enum
+// summary: Defines an enum of the sources that opened a new tab in the Lens overlay, with values persisted to logs.
+// ---
+
 #ifndef COMPONENTS_LENS_LENS_OVERLAY_NEW_TAB_SOURCE_H_
 #define COMPONENTS_LENS_LENS_OVERLAY_NEW_TAB_SOURCE_H_
 

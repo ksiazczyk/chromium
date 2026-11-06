@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for link_header_util
+summary: Restricts dependencies for the directory, forbidding //content and //third_party/blink while allowing //net/http.

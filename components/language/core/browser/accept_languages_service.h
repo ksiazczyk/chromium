@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accept languages service class declaration
+// summary: Declares a keyed service that tracks the Accept-Language header preference and checks whether a language is an accept language.
+// ---
+
 #ifndef COMPONENTS_LANGUAGE_CORE_BROWSER_ACCEPT_LANGUAGES_SERVICE_H_
 #define COMPONENTS_LANGUAGE_CORE_BROWSER_ACCEPT_LANGUAGES_SERVICE_H_
 

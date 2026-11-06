@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content language detection driver implementation
+// summary: Implements the Mojo content language detection driver that serves the language detection model file and reports its availability status via the model provider.
+// ---
+
 #include "components/language_detection/content/browser/content_language_detection_driver.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language model manager implementation
+// summary: Implements registration and lookup of language models by type and selection of the primary model used for target language decisions.
+// ---
+
 #include "components/language/core/browser/language_model_manager.h"
 
 #include <utility>

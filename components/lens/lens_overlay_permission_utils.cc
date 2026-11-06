@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay permission utilities implementation
+// summary: Registers Lens Overlay preferences and checks whether the user may share page screenshots, content, URL, and title with the Lens Overlay server.
+// ---
+
 #include "components/lens/lens_overlay_permission_utils.h"
 
 #include "components/prefs/pref_service.h"

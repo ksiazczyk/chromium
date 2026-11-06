@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedProtoDatabase implementation
+// summary: Implements SharedProtoDatabase with metadata database handling, init retries, failure thresholds before destroy, and client retrieval for shared LevelDB access.
+// ---
+
 #include "components/leveldb_proto/internal/shared_proto_database.h"
 
 #include <memory>

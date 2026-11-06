@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Language component dependency rules
+summary: Specifies include rules allowing dependencies on prefs, strings, and sync preferences components while blocking the content subdirectory.

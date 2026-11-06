@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ngram tokenization utilities
+// summary: Parameterized gtest suite verifying Tokenize output for lowercasing, non-alphanumeric replacement, token limits, and Unicode edge cases.
+// ---
+
 #include "components/language_detection/core/ngram_hash_ops_utils.h"
 
 #include <string>

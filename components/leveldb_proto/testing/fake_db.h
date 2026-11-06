@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeDB test double for ProtoDatabase
+// summary: Header defining FakeDB, a test double implementing the ProtoDatabase interface over an in-memory entry map, with queued results for testing leveldb_proto clients.
+// ---
+
 #ifndef COMPONENTS_LEVELDB_PROTO_TESTING_FAKE_DB_H_
 #define COMPONENTS_LEVELDB_PROTO_TESTING_FAKE_DB_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the language detection component
+summary: Lists the code owners, inheriting the translate component's owners and adding memmott@chromium.org.

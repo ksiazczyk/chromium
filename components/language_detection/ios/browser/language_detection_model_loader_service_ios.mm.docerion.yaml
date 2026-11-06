@@ -1,0 +1,4 @@
+# Docerion header of language_detection_model_loader_service_ios.mm.
+type: source
+title: LanguageDetectionModelLoaderServiceIOS implementation
+summary: Implements the iOS model loader service, requesting the model file from the model service and updating the language detection model asynchronously.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content language detection driver header
+// summary: Declares the ContentLanguageDetectionDriver class, which binds Mojo receivers per web contents and forwards model requests to a non-owned model provider.
+// ---
+
 #ifndef COMPONENTS_LANGUAGE_DETECTION_CONTENT_BROWSER_CONTENT_LANGUAGE_DETECTION_DRIVER_H_
 #define COMPONENTS_LANGUAGE_DETECTION_CONTENT_BROWSER_CONTENT_LANGUAGE_DETECTION_DRIVER_H_
 

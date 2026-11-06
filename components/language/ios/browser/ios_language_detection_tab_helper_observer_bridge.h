@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSLanguageDetectionTabHelperObserverBridge class declaration
+// summary: Declares an Objective-C protocol and a C++ bridge class for observing language detection tab helper events.
+// ---
+
 #ifndef COMPONENTS_LANGUAGE_IOS_BROWSER_IOS_LANGUAGE_DETECTION_TAB_HELPER_OBSERVER_BRIDGE_H_
 #define COMPONENTS_LANGUAGE_IOS_BROWSER_IOS_LANGUAGE_DETECTION_TAB_HELPER_OBSERVER_BRIDGE_H_
 

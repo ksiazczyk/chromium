@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Lens component code owners
+summary: Lists code owners for the Lens component and routes mojom file reviews to the IPC security owners.

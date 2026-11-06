@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for language content
+summary: Defines include rules allowing the language content component to depend on content/public/common and Mojo public headers.

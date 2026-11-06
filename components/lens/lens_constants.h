@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens image search size constants
+// summary: Defines the maximum area and maximum pixel width and height for images sent to Lens image search.
+// ---
+
 #ifndef COMPONENTS_LENS_LENS_CONSTANTS_H_
 #define COMPONENTS_LENS_LENS_CONSTANTS_H_
 

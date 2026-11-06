@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens payload construction declarations
+// summary: Declares helpers that map Lens MIME types to request media and content types and compress bytes with Zstd.
+// ---
+
 #ifndef COMPONENTS_LENS_LENS_PAYLOAD_CONSTRUCTION_H_
 #define COMPONENTS_LENS_LENS_PAYLOAD_CONSTRUCTION_H_
 

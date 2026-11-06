@@ -1,3 +1,9 @@
+---
+type: readme
+title: Language detection component overview
+summary: Describes the TFLite-based language detection component and its ongoing extraction from the translate component, including model acquisition still living there.
+---
+
 - this is the TFLite-based language detection component.
 
 - it is in the process of being extracted from the translate

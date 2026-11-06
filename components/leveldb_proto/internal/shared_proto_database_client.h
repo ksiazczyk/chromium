@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedProtoDatabaseClient class header
+// summary: Declares SharedProtoDatabaseClient, a ProtoDatabase implementation over a shared LevelDB that maps logical client keys to prefixed physical keys.
+// ---
+
 #ifndef COMPONENTS_LEVELDB_PROTO_INTERNAL_SHARED_PROTO_DATABASE_CLIENT_H_
 #define COMPONENTS_LEVELDB_PROTO_INTERNAL_SHARED_PROTO_DATABASE_CLIENT_H_
 

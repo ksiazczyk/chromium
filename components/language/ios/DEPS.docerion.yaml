@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for iOS language component
+summary: Defines dependency include rules for the iOS language component, allowing includes from ios/web/common and ios/web/public.

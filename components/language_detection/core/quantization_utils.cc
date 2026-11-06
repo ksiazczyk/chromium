@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quantization utilities for language detection
+// summary: Implements conversion between floating-point values and quantized unsigned integers with configurable bit precision, including nudged scale computation.
+// ---
+
 #include "components/language_detection/core/quantization_utils.h"
 
 #include <algorithm>

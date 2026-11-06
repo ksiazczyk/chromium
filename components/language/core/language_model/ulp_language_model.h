@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ULPLanguageModel class header
+// summary: Declares the ULPLanguageModel class, a LanguageModel that returns the user's top ULP language preferences with an AddULPLanguage method.
+// ---
+
 #ifndef COMPONENTS_LANGUAGE_CORE_LANGUAGE_MODEL_ULP_LANGUAGE_MODEL_H_
 #define COMPONENTS_LANGUAGE_CORE_LANGUAGE_MODEL_ULP_LANGUAGE_MODEL_H_
 

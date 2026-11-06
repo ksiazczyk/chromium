@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit test for the language detection provider
+// summary: Verifies that GetLanguageDetectionModel returns a usable model reference whose methods can be called, without assuming a particular model state.
+// ---
+
 #include "components/language_detection/core/language_detection_provider.h"
 
 #include <memory>

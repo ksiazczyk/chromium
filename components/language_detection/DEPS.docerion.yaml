@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS dependency rules for language detection
+summary: Defines include rules for the component, blocking subdirectories from using the translate content layer unless explicitly introduced.

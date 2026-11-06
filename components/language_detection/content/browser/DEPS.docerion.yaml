@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for language detection content browser
+summary: Grants this directory permission to include headers from the language detection core browser component.

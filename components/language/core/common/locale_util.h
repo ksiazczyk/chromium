@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Locale utility API
+// summary: Declares helpers to split locales, extract base languages, and convert input locales to display UI locales, noting the deprecated conversion function.
+// ---
+
 #ifndef COMPONENTS_LANGUAGE_CORE_COMMON_LOCALE_UTIL_H_
 #define COMPONENTS_LANGUAGE_CORE_COMMON_LOCALE_UTIL_H_
 

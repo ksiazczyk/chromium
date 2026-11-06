@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for language common
+summary: Declares the allowed include dependencies of the directory, permitting components/country_codes and ui/base/l10n.

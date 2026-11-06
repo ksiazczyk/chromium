@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LanguageDetectionModelProvider implementation
+// summary: Implements loading, replacing, unloading and serving the language detection model file on a background task runner, queuing pending requests and recording load results via UMA.
+// ---
+
 #include "components/language_detection/core/browser/language_detection_model_provider.h"
 
 #include "base/files/file.h"

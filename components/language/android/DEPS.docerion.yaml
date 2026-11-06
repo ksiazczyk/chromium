@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Android language component
+summary: Restricts includes to components/language/content and grants test files additional access to Chrome and content Android test code.

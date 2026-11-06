@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native bridge for Android language metrics reporting
+// summary: C++ JNI implementation that records hashed metric names into sparse histograms on behalf of the Java AndroidLanguageMetricsBridge.
+// ---
+
 #include "base/android/jni_string.h"
 #include "base/metrics/histogram_functions.h"
 #include "base/metrics/metrics_hashes.h"

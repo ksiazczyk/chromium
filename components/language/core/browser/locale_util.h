@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Locale utility header for application locale lookup
+// summary: Declares GetApplicationLocale, which determines the initial locale from command line flags, preferences, and OS settings, with guidance to prefer the browser process accessor.
+// ---
+
 #ifndef COMPONENTS_LANGUAGE_CORE_BROWSER_LOCALE_UTIL_H_
 #define COMPONENTS_LANGUAGE_CORE_BROWSER_LOCALE_UTIL_H_
 

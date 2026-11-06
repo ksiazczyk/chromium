@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for quantization utilities
+// summary: gtest suite verifying float-to-quantized and quantized-to-float conversions, including single-stage and two-stage dequantization paths.
+// ---
+
 #include "components/language_detection/core/quantization_utils.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

@@ -1,3 +1,9 @@
+---
+type: readme
+title: Language component overview
+summary: Describes the language component as a unified model of user language and explains its layered structure with core, content, and ios drivers.
+---
+
 This component provides a unified model of user language which will serve as the
 single source of truth for other components.
 

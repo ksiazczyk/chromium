@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Proto test library build definition
+summary: GN build file defining the proto_library target that compiles test_db.proto for leveldb_proto testing.

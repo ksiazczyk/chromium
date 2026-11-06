@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens metrics definitions
+// summary: Defines histogram names and enums for camera, ambient search, and Lens region search metrics, kept in sync with histograms metadata.
+// ---
+
 #ifndef COMPONENTS_LENS_LENS_METRICS_H_
 #define COMPONENTS_LENS_LENS_METRICS_H_
 

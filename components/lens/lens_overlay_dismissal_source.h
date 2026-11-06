@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay dismissal source enum
+// summary: Enumerates the persisted sources of Lens overlay dismissal, such as close buttons, escape key, tab events, and errors.
+// ---
+
 #ifndef COMPONENTS_LENS_LENS_OVERLAY_DISMISSAL_SOURCE_H_
 #define COMPONENTS_LENS_LENS_OVERLAY_DISMISSAL_SOURCE_H_
 

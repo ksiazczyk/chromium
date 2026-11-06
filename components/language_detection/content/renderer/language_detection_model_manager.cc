@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LanguageDetectionModelManager implementation
+// summary: Implements requesting, loading and updating the language detection model file from the browser over Mojo, with metrics and lazy update handling.
+// ---
+
 #include "components/language_detection/content/renderer/language_detection_model_manager.h"
 
 #include "base/functional/bind.h"

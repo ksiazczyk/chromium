@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for browser language detection
+summary: Declares the include rules that allow this folder to depend on keyed service core, optimization guide proto, and Mojo public C++ headers.

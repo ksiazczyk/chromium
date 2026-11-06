@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ULP metrics logger unit tests
+// summary: Unit tests verifying that ULPMetricsLogger records the expected UMA histogram samples for language counts, statuses, overlaps, and missing language counts.
+// ---
+
 #include "components/language/core/browser/ulp_metrics_logger.h"
 
 #include "base/i18n/language_tag.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for language detection renderer
+summary: Specifies the allowed include rules for the renderer directory, covering content, blink, translate mojom and language detection core headers.

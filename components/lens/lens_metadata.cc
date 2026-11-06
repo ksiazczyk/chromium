@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens latency metadata proto builder
+// summary: Converts Lens latency logs into a Chrome-specific phase latencies metadata proto, adding timestamps, downscale, and encode data per phase.
+// ---
+
 #include "components/lens/lens_metadata.h"
 
 #include <map>

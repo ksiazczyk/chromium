@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Language detection content common build file
+summary: GN build file defining the mojom target that generates bindings for the language detection interface with Blink support.

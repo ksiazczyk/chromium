@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LocaleUtil unit tests
+// summary: Unit tests covering SplitIntoMainAndTail and ConvertToActualUILocale fallbacks across many locales and platform-specific expectations.
+// ---
+
 #include "components/language/core/common/locale_util.h"
 
 #include <string_view>

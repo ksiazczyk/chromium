@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: String clipping utility implementation
+// summary: Implements GetStringByClippingLastWord, which truncates a UTF-16 string to a given length and cuts at the last space to avoid clipping words.
+// ---
+
 #include "components/language/ios/browser/string_clipping_util.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProtoDatabaseImpl template class
+// summary: Declares the ProtoDatabaseImpl template that transparently wraps either a unique or a shared proto database implementation for clients.
+// ---
+
 #ifndef COMPONENTS_LEVELDB_PROTO_INTERNAL_PROTO_DATABASE_IMPL_H_
 #define COMPONENTS_LEVELDB_PROTO_INTERNAL_PROTO_DATABASE_IMPL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the language model
+summary: Defines the language_model static library and its unit_tests source set, listing sources and dependencies for the Chromium language model component.

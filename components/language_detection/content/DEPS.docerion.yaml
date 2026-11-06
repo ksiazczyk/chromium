@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for language detection content
+summary: Defines the allowed include dependencies for the language detection content component, permitting headers from content/public/common and Mojo public directories.

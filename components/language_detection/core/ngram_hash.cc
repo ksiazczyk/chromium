@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NGram hash op for language detection
+// summary: Implements a TFLite op that tokenizes an input string, extracts character ngrams, and maps them to vocabulary indices using MurmurHash seeds for language detection.
+// ---
+
 #include "components/language_detection/core/ngram_hash.h"
 
 #include <stdint.h>

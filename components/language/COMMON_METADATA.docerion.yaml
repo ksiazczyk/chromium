@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Language component metadata
+summary: Defines the monorail component, team email, and Buganizer component ID used for issue tracking of the language component.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens metadata header
+// summary: Declares the LensMetadata CreateProto function that serializes Lens latency log entries into a proto string.
+// ---
+
 #ifndef COMPONENTS_LENS_LENS_METADATA_H_
 #define COMPONENTS_LENS_LENS_METADATA_H_
 

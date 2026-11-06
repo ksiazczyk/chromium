@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FluentLanguageModel implementation
+// summary: Implements FluentLanguageModel, returning languages blocked from translation as the user's fluent languages with descending scores from translate prefs.
+// ---
+
 #include "components/language/core/language_model/fluent_language_model.h"
 
 #include "base/strings/string_split.h"

@@ -1,0 +1,4 @@
+# Docerion header of ios_language_detection_tab_helper_observer_bridge_unittest.mm.
+type: test
+title: IOSLanguageDetectionTabHelperObserverBridge unit tests
+summary: Verifies that the observer bridge forwards language determination details to the Objective-C observing protocol.

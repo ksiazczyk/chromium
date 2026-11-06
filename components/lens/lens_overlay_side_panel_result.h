@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay side panel result status enum
+// summary: Defines an enum of side panel load result statuses, including result shown and error pages for offline, query error, or protected pages.
+// ---
+
 #ifndef COMPONENTS_LENS_LENS_OVERLAY_SIDE_PANEL_RESULT_H_
 #define COMPONENTS_LENS_LENS_OVERLAY_SIDE_PANEL_RESULT_H_
 

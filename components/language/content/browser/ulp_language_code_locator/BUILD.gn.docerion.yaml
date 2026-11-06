@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for ULP language code locator
+summary: GN build file defining the code generation step, the s2langquadtree library, the ulp_language_code_locator target and its unit tests.

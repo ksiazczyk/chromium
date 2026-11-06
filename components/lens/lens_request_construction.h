@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens request header construction declarations
+// summary: Declares functions that create OAuth and variations headers for Lens requests.
+// ---
+
 #ifndef COMPONENTS_LENS_LENS_REQUEST_CONSTRUCTION_H_
 #define COMPONENTS_LENS_LENS_REQUEST_CONSTRUCTION_H_
 

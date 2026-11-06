@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LanguageDetectionModelProvider class declaration
+// summary: Declares the class that manages access to the language detection model file, asynchronously providing copies of the file and queuing requests until a model is set.
+// ---
+
 #ifndef COMPONENTS_LANGUAGE_DETECTION_CORE_BROWSER_LANGUAGE_DETECTION_MODEL_PROVIDER_H_
 #define COMPONENTS_LANGUAGE_DETECTION_CORE_BROWSER_LANGUAGE_DETECTION_MODEL_PROVIDER_H_
 

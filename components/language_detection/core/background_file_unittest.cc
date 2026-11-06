@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BackgroundFile unit tests
+// summary: Unit tests verifying that BackgroundFile replaces and invalidates files on the background sequence and invokes callbacks on the main sequence.
+// ---
+
 #include "components/language_detection/core/background_file.h"
 
 #include <cstddef>

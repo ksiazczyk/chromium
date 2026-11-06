@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GeoLanguageProvider implementation
+// summary: Implements the singleton provider that queries IP-based approximate geolocation, looks up local languages and caches them in local state prefs.
+// ---
+
 #include "components/language/content/browser/geo_language_provider.h"
 
 #include "base/functional/bind.h"

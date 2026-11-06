@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UniqueProtoDatabase implementation
+// summary: Implements UniqueProtoDatabase, a ProtoDatabase backed by its own LevelDB instance, delegating init, update, load, get, and destroy operations to ProtoLevelDBWrapper.
+// ---
+
 #include "components/leveldb_proto/internal/unique_proto_database.h"
 
 #include <memory>

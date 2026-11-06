@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language experiment feature definitions
+// summary: Defines base feature flags for language and translate experiments such as detailed language settings, CCT auto translate, and the GmsCore ULP model.
+// ---
+
 #include "components/language/core/common/language_experiments.h"
 
 namespace language {

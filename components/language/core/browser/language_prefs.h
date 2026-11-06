@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LanguagePrefs class header
+// summary: Declares the LanguagePrefs class for reading and writing user-selected, policy-forced, and ULP language preferences, plus helpers for language lists.
+// ---
+
 #ifndef COMPONENTS_LANGUAGE_CORE_BROWSER_LANGUAGE_PREFS_H_
 #define COMPONENTS_LANGUAGE_CORE_BROWSER_LANGUAGE_PREFS_H_
 

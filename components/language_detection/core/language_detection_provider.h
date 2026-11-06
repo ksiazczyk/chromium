@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language detection model provider interface
+// summary: Declares GetLanguageDetectionModel, which returns the language detection model instance shared across the process.
+// ---
+
 #ifndef COMPONENTS_LANGUAGE_DETECTION_CORE_LANGUAGE_DETECTION_PROVIDER_H_
 #define COMPONENTS_LANGUAGE_DETECTION_CORE_LANGUAGE_DETECTION_PROVIDER_H_
 

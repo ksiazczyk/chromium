@@ -1,0 +1,4 @@
+# Docerion header of update_data.sh.
+type: script
+title: update_data.sh
+summary: Shell script that copies ULP language code locator data files from a given folder into the right locations in the Chromium source tree.
