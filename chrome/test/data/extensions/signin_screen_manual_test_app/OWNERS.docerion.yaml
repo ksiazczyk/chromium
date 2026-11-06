@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file delegating to login screen extensions
+summary: Delegates directory ownership to the ChromeOS login screen extensions OWNERS file.

@@ -1,0 +1,4 @@
+# Docerion header of popup.html.
+type: test
+title: Empty popup page for the simple_with_popup test extension
+summary: Minimal empty HTML document serving as the browser action popup of the simple_with_popup test extension.

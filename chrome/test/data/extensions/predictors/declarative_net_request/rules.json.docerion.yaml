@@ -1,0 +1,4 @@
+# Docerion header of rules.json.
+type: test
+title: DeclarativeNetRequest ruleset blocking predictor script requests
+summary: Ruleset with a single rule that blocks script requests whose URL matches predictor/empty.js, applied by the test extension.

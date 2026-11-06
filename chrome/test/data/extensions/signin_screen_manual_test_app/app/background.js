@@ -18,6 +18,12 @@
 // * https://www.chromium.org/developers/how-tos/run-chromium-with-flags#TOC-Setting-Flags-for-Chrome-OS
 
 
+// ---docerion
+// type: test
+// title: Sign-in screen test app background script
+// summary: Background script of a manual test app that exposes a test certificate via the chrome.certificateProvider API to verify sign-in screen certificate and PIN dialog behavior.
+// ---
+
 // Raw contents of the DER-encoded X.509 certificate.
 // Generated using the following command (assuming that the certificate was
 // bundled in the PKCS #12 archive <path_to_pkcs12_file>):

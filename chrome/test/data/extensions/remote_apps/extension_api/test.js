@@ -4,6 +4,12 @@
 
 // Keep in sync with ../extension_mojo/test.js when changing the test cases.
 
+// ---docerion
+// type: test
+// title: Test cases for the Remote Apps Extension API
+// summary: Browser test cases covering addApp, addFolder, deleteApp and onRemoteAppLaunched behavior of the enterprise.remoteApps API.
+// ---
+
 const iconUrl = 'https://foo.bar/icon.png';
 
 const testCases = [

@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Norwegian Bokmål locale messages for RSS Subscription test extension
+summary: Provides Norwegian Bokmål UI strings for the RSS Subscription test extension, covering subscription actions, feed reader management, and options dialogs.

@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: data
+title: Danish locale messages for RSS Subscription extension
+summary: Danish translations for the RSS Subscription extension's UI strings, covering feed subscription prompts, reader management, and options dialogs.

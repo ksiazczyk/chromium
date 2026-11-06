@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Korean locale messages for the RSS Subscription extension
+summary: Korean UI strings for the RSS Subscription Chrome extension, covering feed subscription, reader management, and options labels, kept as extension test data.

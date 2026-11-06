@@ -7,6 +7,12 @@
 // (<link rel="alternate" type="application/rss+xml" etc). If so, show the
 // page action icon.
 
+// ---docerion
+// type: source
+// title: Feed finder content script
+// summary: Content script that detects feed documents and collects RSS, Atom, or RDF feed links from a page to trigger the feed page action icon.
+// ---
+
 debugMsg(logLevels.info, 'Running feed finder script');
 
 if (!isFeedDocument()) {

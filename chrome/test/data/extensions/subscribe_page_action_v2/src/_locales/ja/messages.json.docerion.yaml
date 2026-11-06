@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Japanese locale messages for RSS Subscription extension test
+summary: Japanese translations of the RSS Subscription extension UI strings, provided as test data for the subscribe page action extension.

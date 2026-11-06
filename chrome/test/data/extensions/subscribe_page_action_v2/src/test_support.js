@@ -6,6 +6,12 @@
 // tests can be run on the extension directly (without having to Closure compile
 // it first).
 
+// ---docerion
+// type: test
+// title: Test sanitizer stub
+// summary: Provides a pass-through sanitizer and Closure namespace stubs so the extension can run in tests without prior compilation.
+// ---
+
 const goog = {
   dom: {
     safe: {

@@ -4,6 +4,12 @@
 
 // All these tests are run in Stable channel.
 
+// ---docerion
+// type: test
+// title: Stable channel tests for visibleOnAllWorkspaces window API
+// summary: Background script running Stable channel tests for the visibleOnAllWorkspaces create option and the canSetVisibleOnAllWorkspaces function.
+// ---
+
 chrome.app.runtime.onLaunched.addListener(function() {
   chrome.test.runTests([
 

@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Czech locale messages for the RSS Subscription test extension
+summary: Czech translations of the RSS Subscription extension UI strings, provided as test fixture data for Chromium browser tests.

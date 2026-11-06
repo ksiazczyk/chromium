@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest of the test7 content script extension
+summary: Chrome extension manifest for the test7 fixture, declaring a content script that runs on file and http URLs.

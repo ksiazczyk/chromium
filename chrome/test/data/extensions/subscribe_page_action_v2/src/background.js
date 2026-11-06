@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RSS subscription extension background script
+// summary: Background script of the RSS subscription test extension that validates feed URLs, shows the page action per tab, and opens the subscribe page for feed documents.
+// ---
+
 const isServiceWorker = ('ServiceWorkerGlobalScope' in self);
 
 chrome.extension.onMessage.addListener(function(request, sender) {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Feed subscription page logic
+// summary: 'Implements the subscription page: parses the feed URL from the query string, populates the reader list, fetches the feed and navigates to the chosen reader.'
+// ---
+
 // Grab the querystring, removing question mark at the front and splitting on
 // the ampersand.
 const queryString = location.search.substring(1).split('&');

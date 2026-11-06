@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Feed preview iframe script
+// summary: Renders the feed item preview inside an iframe over a MessageChannel, sanitizing titles and descriptions with the Closure HTML sanitizer.
+// ---
+
 goog.provide('RSSExtension.IFrame');
 
 goog.require('goog.html.sanitizer.HtmlSanitizer');

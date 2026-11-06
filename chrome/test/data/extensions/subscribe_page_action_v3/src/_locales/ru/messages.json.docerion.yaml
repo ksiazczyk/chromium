@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Russian localization messages for RSS Subscription test extension
+summary: Russian-language UI message strings for the RSS Subscription Extension, used as test data for Chrome's subscribe page action feature.

@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Catalan locale messages for the RSS subscription extension test
+summary: Catalan UI strings for the RSS Subscription extension, used as test fixture data in Chrome's extension tests.

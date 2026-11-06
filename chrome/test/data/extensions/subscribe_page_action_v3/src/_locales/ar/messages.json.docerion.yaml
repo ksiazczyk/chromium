@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: data
+title: Arabic locale messages for RSS Subscription extension
+summary: Arabic translations of UI strings for the RSS Subscription extension, stored as test fixture data.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the reactive prefetch test extension
+summary: Manifest V3 manifest for the reactive prefetch test extension, granting webRequest and all-host permissions and registering background.js as its service worker.

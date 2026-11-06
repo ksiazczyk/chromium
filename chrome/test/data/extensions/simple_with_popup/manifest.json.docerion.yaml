@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the simple_with_popup test extension
+summary: Chrome extension manifest defining a test extension named My First Extension with a browser action that opens popup.html.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: MV3 extension with service worker manifest
+summary: Manifest for the MV3 test extension that registers background.js as its background service worker.

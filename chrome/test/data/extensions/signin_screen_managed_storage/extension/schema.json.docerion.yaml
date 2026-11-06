@@ -1,0 +1,4 @@
+# Docerion header of schema.json.
+type: test
+title: Managed storage schema with string policy
+summary: JSON schema used by the test extension's managed storage, defining a single string property named string-policy.

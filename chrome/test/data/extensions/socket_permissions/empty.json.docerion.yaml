@@ -1,0 +1,4 @@
+# Docerion header of empty.json.
+type: test
+title: Empty manifest for effective host permissions test
+summary: Minimal Chrome extension manifest with no permissions, serving as the empty fixture for socket and host permission tests.

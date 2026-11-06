@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest of the visibleOnAllWorkspaces Stable channel test app
+summary: Chrome app manifest declaring the test app and its background.js script for the Stable channel window API tests.

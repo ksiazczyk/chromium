@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Signin screen managed storage test app manifest
+summary: Manifest for a Chrome test app that verifies the managed Storage API works on the signin screen, loading test.js in the background and schema.json for managed storage.

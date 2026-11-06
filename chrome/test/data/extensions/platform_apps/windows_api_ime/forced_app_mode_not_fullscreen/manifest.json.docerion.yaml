@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the IME window test extension
+summary: Defines the test extension with the app.window.ime permission and its background script.

@@ -1,4 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<!--docerion
+type: test
+title: Extension update manifest template for policy shared module tests
+summary: GUpdate XML template used by extension policy tests to serve update checks for the importer and shared module CRX files via a URL placeholder.
+-->
+
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='pchakhniekfaeoddkifplhnfbffomabh'>
     <updatecheck codebase='${URL_PLACEHOLDER}importer.crx' version='1.0.0.0' />

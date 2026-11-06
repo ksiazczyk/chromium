@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Protocol handlers test extension manifest
+summary: Manifest for a test extension used to exercise the protocol_handlers manifest key, registering an ipfs protocol handler.

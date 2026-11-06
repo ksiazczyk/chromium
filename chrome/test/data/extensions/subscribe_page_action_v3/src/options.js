@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension options page logic
+// summary: Implements the options page behavior for managing the feed reader list, including adding, editing, removing, and choosing a default reader.
+// ---
+
 // Various text messages within the edit dialog.
 const assistText = chrome.i18n.getMessage('rss_subscription_feed_url_assist');
 

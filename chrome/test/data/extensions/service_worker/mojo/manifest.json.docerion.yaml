@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test component extension manifest for Mojo service worker
+summary: Manifest for a test component extension that registers sw.js as a service worker background and requests the mojoPrivate permission.

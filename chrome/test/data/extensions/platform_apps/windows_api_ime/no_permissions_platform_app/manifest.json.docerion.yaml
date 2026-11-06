@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the no-permission IME test platform app
+summary: Declares the Chrome platform app fixture that loads background.js for the IME window permission tests.

@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Croatian locale messages for RSS subscription extension
+summary: Croatian translations of UI strings for the RSS subscription test extension, covering subscription actions, reader management and options.

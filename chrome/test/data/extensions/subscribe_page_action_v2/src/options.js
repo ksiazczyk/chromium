@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed reader options page logic
+// summary: Logic for the options page that adds, edits, removes, and sets default feed readers stored in localStorage.
+// ---
+
 // Various text messages within the edit dialog.
 const assistText = chrome.i18n.getMessage('rss_subscription_feed_url_assist');
 

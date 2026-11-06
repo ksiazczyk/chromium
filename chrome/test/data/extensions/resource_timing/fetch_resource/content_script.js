@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content script fetching resources in isolated and main worlds
+// summary: Content script that adds a button fetching a test image in the isolated world and defines a main-world fetch, reporting results via domAutomationController.
+// ---
+
 // Add a button to the page that can fetch resource.
 const button = document.createElement('button');
 button.id = 'fetchResourceButton';

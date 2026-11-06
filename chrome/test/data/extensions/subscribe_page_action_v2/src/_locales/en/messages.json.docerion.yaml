@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: English messages for the RSS Subscription extension
+summary: English UI strings for the RSS Subscription extension, stored as test data for the subscribe page action feature in Chrome browser tests.

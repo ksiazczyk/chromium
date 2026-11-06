@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: French locale messages for the RSS Subscription test extension
+summary: French translations of the RSS Subscription extension's UI strings, provided as test data for Chrome's extension tests.

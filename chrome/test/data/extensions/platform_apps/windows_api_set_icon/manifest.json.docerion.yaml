@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the app.windows setIcon test app
+summary: Manifest for the app.windows setIcon platform app test fixture, registering background.js as the app's background script.

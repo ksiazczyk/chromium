@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Lithuanian locale messages for RSS subscription test extension
+summary: Lithuanian UI strings for the RSS Subscription (Google) extension, stored as test data for the subscribe page action.

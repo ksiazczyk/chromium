@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script recording prefetch requests for a test extension
+// summary: 'Background service worker that listens to webRequest onBeforeSendHeaders events, records requests with a Sec-Purpose: prefetch header, and reports URL details back to the test via chrome.test.'
+// ---
+
 const prefetchRequestsSeen = new Map();
 
 function wasRequestSeen(url) {

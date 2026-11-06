@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the windows API properties test app
+summary: Manifest version 2 app manifest named app.windows properties that declares background.js as the background script.

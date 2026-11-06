@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Extension Service Requirements Test manifest
+summary: Test extension manifest declaring a 3D webgl requirement, used as fixture data for Chrome extension requirements tests.

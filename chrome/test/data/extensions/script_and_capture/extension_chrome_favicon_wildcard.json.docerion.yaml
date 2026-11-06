@@ -1,0 +1,4 @@
+# Docerion header of extension_chrome_favicon_wildcard.json.
+type: test
+title: Chrome favicon wildcard permission test extension manifest
+summary: Test fixture manifest for an extension requesting the tabs permission plus a wildcard permission on the favicon scheme, used by script and capture extension tests.

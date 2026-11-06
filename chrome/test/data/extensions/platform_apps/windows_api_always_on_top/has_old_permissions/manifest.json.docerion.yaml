@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the old-permission AlwaysOnTop test app
+summary: Chrome app manifest declaring the legacy alwaysOnTopWindows permission to set up the alwaysOnTop window API test.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test app manifest without alwaysOnTop permission
+summary: Manifest for the test platform app that intentionally omits the app.window.alwaysOnTop permission.

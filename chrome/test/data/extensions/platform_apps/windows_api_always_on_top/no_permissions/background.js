@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AlwaysOnTop test app background script without permission
+// summary: Background script running browser tests that verify alwaysOnTop window creation and updates fail without the app.window.alwaysOnTop permission.
+// ---
+
 var callbackPass = chrome.test.callbackPass;
 var callbackFail = chrome.test.callbackFail;
 

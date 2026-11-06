@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for signin screen manual test extension
+summary: Lists hendrich@chromium.org as the owner of the sign-in screen manual test extension directory.

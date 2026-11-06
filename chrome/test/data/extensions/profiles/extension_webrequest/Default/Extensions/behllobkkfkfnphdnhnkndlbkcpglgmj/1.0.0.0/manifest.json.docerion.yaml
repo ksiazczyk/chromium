@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Webrequest test extension manifest
+summary: Manifest for the Webrequest test extension, version 1.0.0.0, declaring webRequest permissions and pointing to the background page.

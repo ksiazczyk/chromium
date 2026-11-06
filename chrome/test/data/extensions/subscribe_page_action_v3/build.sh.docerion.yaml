@@ -1,0 +1,4 @@
+# Docerion header of build.sh.
+type: script
+title: Build script for the RSS subscribe page action extension
+summary: Shell script that assembles the RSS extension into out/ by copying manifest, locales, HTML, CSS, PNG and JS sources and compiling iframe.js with the Closure compiler.

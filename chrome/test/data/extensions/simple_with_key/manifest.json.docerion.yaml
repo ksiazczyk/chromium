@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Simple With Key test extension manifest
+summary: Manifest for a simple Chrome test extension whose included key pins the extension ID to iegclhlplifhodhkoafiokenjoapiobj.

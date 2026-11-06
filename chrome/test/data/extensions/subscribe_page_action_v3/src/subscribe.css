@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+/*docerion
+type: test
+title: Subscribe page layout styles
+summary: Styles the layout of the feed subscription page, including the items area, iframe, splitter bar and feed URL display.
+*/
+
 body {
   display:-webkit-box;
   -webkit-box-orient:vertical;

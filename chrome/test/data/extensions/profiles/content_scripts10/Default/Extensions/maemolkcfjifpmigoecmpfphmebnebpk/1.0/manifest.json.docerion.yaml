@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Content scripts test extension manifest
+summary: Chrome extension manifest for the content_scripts10 test profile, defining a content script that injects script.js into file and http pages.

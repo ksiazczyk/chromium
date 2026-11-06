@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remote Apps Mojo Private API browser test cases
+// summary: Defines and runs browser test cases for the chromeos.remote_apps Mojo interface, covering adding and deleting apps and folders and observing remote app launches.
+// ---
+
 let api;
 
 // Keep in sync with ../extension_api/test.js when changing the test cases.

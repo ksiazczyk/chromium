@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Startup pages test extension manifest
+summary: Manifest for a test extension that sets a startup page so end-to-end browser tests can verify the chrome.settings_override API.

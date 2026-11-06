@@ -1,0 +1,4 @@
+# Docerion header of extension_wildcard_settings.json.
+type: test
+title: Test manifest with settings wildcard permission
+summary: Test extension manifest granting tabs and *://settings/* wildcard host permissions, used as a fixture for script and capture permission tests.

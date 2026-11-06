@@ -1,3 +1,9 @@
+---
+type: readme
+title: Sign-in screen manual test extension README
+summary: Explains that the CRX must be WebStore-signed to match the allowlisted extension ID and that the extension is for manual testing on the Chrome OS sign-in screen.
+---
+
 The extension_signed_by_webstore.crx package must be a one signed by WebStore,
 in order for the extension to have the expected ID which is allowlisted in
 Chrome - "ngjobkbdodapjbbncmagbccommkggmnj".

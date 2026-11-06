@@ -1,0 +1,4 @@
+# Docerion header of Preferences.
+type: test
+title: Chrome profile Preferences fixture for content scripts test
+summary: Chrome profile Preferences file seeding settings for several test extensions with content scripts, used as fixture data for the content_scripts10 extension test.

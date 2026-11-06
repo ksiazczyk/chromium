@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Spanish (Latin America) messages for the RSS Subscription test extension
+summary: Spanish (Latin America) UI strings for the RSS Subscription extension, provided as test fixture data under Chrome's extension test directory.

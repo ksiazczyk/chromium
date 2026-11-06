@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Hungarian locale messages for RSS Subscription test extension
+summary: Hungarian translations of the RSS Subscription extension UI strings, provided as test data for Chromium's extension tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared feed detection logic
+// summary: Defines containsFeed to detect RSS or Atom feed elements in a document, with debug logging helpers shared by the extension.
+// ---
+
 // The possible log levels.
 const logLevels = {
   'none': 0,

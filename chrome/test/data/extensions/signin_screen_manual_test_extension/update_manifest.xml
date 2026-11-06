@@ -1,4 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<!--docerion
+type: test
+title: Update manifest for signin screen test extension
+summary: Update manifest that points to the signed CRX using a mock.http placeholder replaced with the test server address at runtime.
+-->
+
 <!--
   This update manifest points to the ./extension.crx file. "mock.http" is a
   placeholder that gets substituted with the test server address in runtime.

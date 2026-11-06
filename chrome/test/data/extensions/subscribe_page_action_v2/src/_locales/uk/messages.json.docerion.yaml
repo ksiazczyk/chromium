@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Ukrainian locale messages for the RSS Subscription test extension
+summary: Ukrainian localization strings for the RSS Subscription extension, stored as test data for Chrome extension tests.

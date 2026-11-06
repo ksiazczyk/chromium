@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window shape test without app.window.shape permission
+// summary: Background script that creates a frameless window and asserts setShape is undefined when the app.window.shape permission is missing.
+// ---
+
 function testWindowShape(testId, region) {
   var createOptions = { frame: 'none' };
 

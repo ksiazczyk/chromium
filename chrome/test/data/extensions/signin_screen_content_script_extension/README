@@ -1,3 +1,9 @@
+---
+type: readme
+title: Sign-in screen content script test extensions
+summary: Describes test extensions used to verify content script restrictions on the login screen and lists the IDs of the good and bad content script extensions.
+---
+
 These extensions are used for testing the content script restrictions that apply
 to login screen extensions.
 

@@ -1,0 +1,4 @@
+# Docerion header of tab_specific.json.
+type: test
+title: Test manifest with no host permissions
+summary: Manifest v3 test extension with no host permissions, used as a fixture for tab-specific script and capture tests.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Storage UnlimitedQuota extension test manifest
+summary: Manifest for a test extension named Storage_UnlimitedQuota that requests the unlimited_storage permission for storage quota tests.

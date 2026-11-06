@@ -6,6 +6,12 @@
 // tests can be run on the extension directly (without having to Closure compile
 // it first).
 
+// ---docerion
+// type: test
+// title: test_support.js
+// summary: Provides default pass-through sanitizer stubs so the extension can be exercised directly in tests without prior Closure compilation.
+// ---
+
 const goog = {
   dom: {
     safe: {

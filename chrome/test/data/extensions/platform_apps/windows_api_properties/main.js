@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window event test cases for chrome.app.window
+// summary: Defines chrome.test cases that minimize, maximize, restore and resize the app window and verify the corresponding events fire.
+// ---
+
 var current = chrome.app.window.current();
 var bg = null;
 var nextTestNumber = 1;

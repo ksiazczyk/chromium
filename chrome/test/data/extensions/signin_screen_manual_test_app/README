@@ -1,3 +1,9 @@
+---
+type: readme
+title: Sign-in screen manual test app README
+summary: Explains the app for manual testing of apps on the Chrome OS sign-in screen and the WebStore-signed CRX requirement.
+---
+
 This app is primarily intended to be used for the manual testing of the apps on
 the Chrome OS sign-in screen. The sources are located under the ./app/
 directory.

@@ -1,0 +1,4 @@
+# Docerion header of DEPRECATED.txt.
+type: note
+title: Deprecation note for RSS Subscription Extension v2
+summary: Explains that this folder holds the deprecated manifest v2 RSS Subscription Extension kept only for Chrome pageAction tests and points to the v3 version.

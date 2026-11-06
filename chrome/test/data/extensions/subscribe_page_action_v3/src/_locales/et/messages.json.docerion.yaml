@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Estonian locale messages for RSS Subscription extension test
+summary: Estonian (et) localization strings for the RSS Subscription extension, provided as test fixture data for the Chrome extension test suite.

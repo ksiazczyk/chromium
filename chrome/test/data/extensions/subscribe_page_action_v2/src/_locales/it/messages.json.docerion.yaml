@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Italian locale messages for the RSS Subscription test extension
+summary: Provides the Italian UI strings for the RSS Subscription extension, used as test fixture data for the subscribe page action v2 extension.

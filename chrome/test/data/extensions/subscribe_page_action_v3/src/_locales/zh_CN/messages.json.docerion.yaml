@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: zh_CN locale messages for the RSS Subscription extension
+summary: Simplified Chinese UI strings for the RSS Subscription extension, provided as test data for the subscribe page action feature.

@@ -1,3 +1,9 @@
+/*docerion
+type: source
+title: Subscribe page styles
+summary: Stylesheet for the feed subscription preview page, laying out the item list, splitter bar and feed URL display.
+*/
+
 body {
   display:-webkit-box;
   -webkit-box-orient:vertical;

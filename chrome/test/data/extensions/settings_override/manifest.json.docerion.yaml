@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Settings override test extension manifest
+summary: Manifest for an end-to-end browser test extension exercising the chrome.settings_override API with homepage, search provider, and startup page overrides.

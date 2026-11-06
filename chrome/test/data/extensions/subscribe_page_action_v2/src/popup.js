@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed popup script
+// summary: Popup script that lists detected feeds and opens the subscribe page or the default reader, depending on saved settings.
+// ---
+
 function feedLink(url) {
   const feed_link = document.createElement('a');
   feed_link.href = url;

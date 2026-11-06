@@ -1,0 +1,4 @@
+# Docerion header of background.html.
+type: test
+title: Webrequest test extension background page
+summary: Test fixture background page that registers blocking chrome.webRequest onBeforeRequest listeners returning cancel false for HTTP and file URLs.

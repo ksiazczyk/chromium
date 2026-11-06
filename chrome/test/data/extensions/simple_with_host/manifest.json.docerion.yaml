@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest with host permission
+summary: Manifest for a simple test extension named bar that requests permission to access a single remote host.

@@ -1,0 +1,4 @@
+# Docerion header of extension_wildcard_chrome.json.
+type: test
+title: Chrome scheme wildcard permission test extension manifest
+summary: Test fixture manifest for an extension requesting the tabs permission with a wildcard pattern covering the whole chrome scheme, used by script and capture extension tests.

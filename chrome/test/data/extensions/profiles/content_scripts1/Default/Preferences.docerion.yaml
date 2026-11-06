@@ -1,0 +1,4 @@
+# Docerion header of Preferences.
+type: test
+title: Preferences for content scripts test profile
+summary: Chrome profile preferences fixture for a content script extension test, storing settings for an extension named 1 content script that injects script.js into matching pages.

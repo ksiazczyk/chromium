@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: test
+title: Test extension background page loading shared module script
+summary: Background page for a Chrome test extension app that loads the pass.js script from the imported policy shared module.

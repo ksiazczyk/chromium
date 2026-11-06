@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the Windows API get/getAll test app
+summary: Manifest version 2 app definition named Windows API - get/getAll that registers background.js as the test's background script.
