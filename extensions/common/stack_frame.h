@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StackFrame header
+// summary: Declares the StackFrame struct and StackTrace alias used to represent stack frames sent over IPC.
+// ---
+
 #ifndef EXTENSIONS_COMMON_STACK_FRAME_H_
 #define EXTENSIONS_COMMON_STACK_FRAME_H_
 

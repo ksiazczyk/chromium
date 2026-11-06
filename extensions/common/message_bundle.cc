@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message bundle implementation
+// summary: Implements MessageBundle, which merges locale catalogs, validates keys, and resolves __MSG_ placeholders for extension localization.
+// ---
+
 #include "extensions/common/message_bundle.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Manual performance tests for manifest handler registry
+// summary: Manual perf tests measuring registration, lookup, and finalization cost of the manifest handler registry, run via a gtest filter after substantial changes.
+// ---
+
 #include "extensions/common/common_manifest_handlers.h"
 #include "extensions/common/manifest_handler.h"
 #include "extensions/common/scoped_testing_manifest_handler_registry.h"

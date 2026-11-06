@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension updater UMA result enum
+// summary: Defines the ExtensionUpdaterUpdateResult enum used for UMA reporting of extension updater outcomes such as success and error types.
+// ---
+
 #ifndef EXTENSIONS_COMMON_EXTENSION_UPDATER_UMA_H_
 #define EXTENSIONS_COMMON_EXTENSION_UPDATER_UMA_H_
 

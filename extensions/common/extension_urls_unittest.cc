@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension URL unit tests
+// summary: Unit tests verifying webstore URL construction and that generated favicon and background page URL detection matches only the expected paths.
+// ---
+
 #include "extensions/common/extension_urls.h"
 
 #include <string_view>

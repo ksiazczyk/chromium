@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ValueCounter unit tests
+// summary: Unit tests covering adding, removing and re-adding values in ValueCounter, including duplicate counting and empty-state behavior.
+// ---
+
 #include <memory>
 
 #include "base/values.h"

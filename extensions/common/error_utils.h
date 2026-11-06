@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Error message formatting interface
+// summary: Declares ErrorUtils static helpers for formatting extension error messages with placeholder substitution in UTF-8 and UTF-16.
+// ---
+
 #ifndef EXTENSIONS_COMMON_ERROR_UTILS_H_
 #define EXTENSIONS_COMMON_ERROR_UTILS_H_
 

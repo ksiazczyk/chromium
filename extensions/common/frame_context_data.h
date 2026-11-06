@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameContextData interface header
+// summary: Declares the FrameContextData interface extending ContextData with frame-specific URL, origin, identifier, and access-check methods.
+// ---
+
 #ifndef EXTENSIONS_COMMON_FRAME_CONTEXT_DATA_H_
 #define EXTENSIONS_COMMON_FRAME_CONTEXT_DATA_H_
 

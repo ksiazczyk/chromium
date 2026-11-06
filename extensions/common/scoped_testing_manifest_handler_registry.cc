@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedTestingManifestHandlerRegistry implementation
+// summary: Installs a testing ManifestHandlerRegistry on construction and restores the previous registry on destruction for use in tests.
+// ---
+
 #include "extensions/common/scoped_testing_manifest_handler_registry.h"
 
 namespace extensions {

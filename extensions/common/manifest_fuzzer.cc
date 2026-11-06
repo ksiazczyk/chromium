@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer for extension manifest parsing and validation
+// summary: LibFuzzer harness that parses fuzzed JSON as an extension manifest and validates it across all manifest locations.
+// ---
+
 #include "extensions/common/manifest.h"
 
 #include <fuzzer/FuzzedDataProvider.h>

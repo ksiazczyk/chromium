@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRX verifier format selection
+// summary: Returns the CRX3 verifier format variants used for Webstore, policy, external and test extension installs, with a test override for publisher key verification.
+// ---
+
 #include "extensions/common/verifier_formats.h"
 
 #include "components/crx_file/crx_verifier.h"

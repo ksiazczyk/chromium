@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM action type enum
+// summary: Defines a stable enum of DOM action types such as getter, setter, method, XHR, and web request used to classify extension activity.
+// ---
+
 #ifndef EXTENSIONS_COMMON_DOM_ACTION_TYPES_H_
 #define EXTENSIONS_COMMON_DOM_ACTION_TYPES_H_
 

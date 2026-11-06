@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HashedExtensionId implementation
+// summary: Implements hashed extension identifiers using SHA-1 with a feature-gated SHA-256 dual-hash transition.
+// ---
+
 #include "extensions/common/hashed_extension_id.h"
 
 #include "base/feature_list.h"

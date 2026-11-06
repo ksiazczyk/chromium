@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer for URLPattern parsing and matching
+// summary: Fuzz target that feeds random data into URLPattern parsing and URL matching to uncover crashes or security issues.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

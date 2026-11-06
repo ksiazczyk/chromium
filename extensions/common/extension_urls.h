@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension URL helpers header
+// summary: Declares Web Store URL constants, utm attribution source values, and helpers for detecting extension-related and generated URLs.
+// ---
+
 #ifndef EXTENSIONS_COMMON_EXTENSION_URLS_H_
 #define EXTENSIONS_COMMON_EXTENSION_URLS_H_
 

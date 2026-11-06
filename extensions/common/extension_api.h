@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionAPI class interface wrapping JSON API definitions
+// summary: Declares ExtensionAPI, a C++ wrapper for JSON API definitions that registers feature providers and checks API availability per context.
+// ---
+
 #ifndef EXTENSIONS_COMMON_EXTENSION_API_H_
 #define EXTENSIONS_COMMON_EXTENSION_API_H_
 

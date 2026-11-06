@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension resource path normalizer implementation
+// summary: Implements normalization of extension resource relative paths by removing current-directory components and rejecting parent references or empty results.
+// ---
+
 #include "extensions/common/extension_resource_path_normalizer.h"
 
 #include <utility>

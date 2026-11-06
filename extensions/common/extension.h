@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension class interface representing a Chrome extension
+// summary: Declares the immutable, thread-safe Extension class that represents a Chrome extension, with init flags, manifest data storage, and permissions access.
+// ---
+
 #ifndef EXTENSIONS_COMMON_EXTENSION_H_
 #define EXTENSIONS_COMMON_EXTENSION_H_
 

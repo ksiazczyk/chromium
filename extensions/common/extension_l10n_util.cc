@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension localization utilities implementation
+// summary: Implements loading of locale message catalogs, including gzipped messages, and localization of extension manifests.
+// ---
+
 #include "extensions/common/extension_l10n_util.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureSwitch unit tests
+// summary: Unit tests verifying FeatureSwitch behavior for default values, switch parsing, whitespace trimming, and scoped overrides.
+// ---
+
 #include "extensions/common/feature_switch.h"
 
 #include "base/command_line.h"

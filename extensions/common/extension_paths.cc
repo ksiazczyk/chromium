@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension path provider implementation
+// summary: Implements a PathService provider that resolves the extensions test data directory and registers it via RegisterPathProvider.
+// ---
+
 #include "extensions/common/extension_paths.h"
 
 #include "base/files/file_util.h"

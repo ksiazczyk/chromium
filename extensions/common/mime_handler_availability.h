@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mime handler availability header
+// summary: Declares CreateAvailabilityCheckMap, which registers the mimeHandler API availability check for the feature system.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MIME_HANDLER_AVAILABILITY_H_
 #define EXTENSIONS_COMMON_MIME_HANDLER_AVAILABILITY_H_
 

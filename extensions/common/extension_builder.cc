@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionBuilder implementation
+// summary: Implements ExtensionBuilder, a helper that constructs extension manifests and Extension objects with defaults, permissions, and background or content script settings.
+// ---
+
 #include "extensions/common/extension_builder.h"
 
 #include <optional>

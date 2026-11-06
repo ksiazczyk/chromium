@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserScript implementation
+// summary: Implements UserScript behavior including script ID generation and prefixes, valid injection schemes, and script content handling.
+// ---
+
 #include "extensions/common/user_script.h"
 
 #include <stddef.h>

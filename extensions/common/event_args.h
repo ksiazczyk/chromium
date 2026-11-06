@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ref-counted event arguments type for extension events
+// summary: Defines the EventArgs alias, a ref-counted wrapper around base::ListValue that lets event arguments be shared across dispatches to multiple listeners without copying.
+// ---
+
 #ifndef EXTENSIONS_COMMON_EVENT_ARGS_H_
 #define EXTENSIONS_COMMON_EVENT_ARGS_H_
 

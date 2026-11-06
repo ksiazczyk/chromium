@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension file utilities implementation
+// summary: Implements on-disk extension utilities for installing, uninstalling, and loading extensions, including safe installation file flushing and symlink checks.
+// ---
+
 #include "extensions/common/file_util.h"
 
 #include <stddef.h>

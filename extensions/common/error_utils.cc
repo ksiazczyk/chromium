@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Error message formatting implementation
+// summary: Implements ErrorUtils helpers that substitute arguments into asterisk placeholders to build extension error messages.
+// ---
+
 #include "extensions/common/error_utils.h"
 
 #include <initializer_list>

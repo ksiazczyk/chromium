@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension resource path normalizer declaration
+// summary: Declares functions to normalize a single extension resource path and to normalize a set of resource paths.
+// ---
+
 #ifndef EXTENSIONS_COMMON_EXTENSION_RESOURCE_PATH_NORMALIZER_H_
 #define EXTENSIONS_COMMON_EXTENSION_RESOURCE_PATH_NORMALIZER_H_
 

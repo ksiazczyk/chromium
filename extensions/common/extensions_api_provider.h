@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions API provider interface
+// summary: Declares the ExtensionsAPIProvider abstract interface supplying API and manifest features, JSON sources, permissions, and manifest handlers.
+// ---
+
 #ifndef EXTENSIONS_COMMON_EXTENSIONS_API_PROVIDER_H_
 #define EXTENSIONS_COMMON_EXTENSIONS_API_PROVIDER_H_
 

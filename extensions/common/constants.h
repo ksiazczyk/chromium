@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension constants header
+// summary: Declares shared extension constants such as the chrome-extension scheme, manifest and metadata filenames, and install directory names.
+// ---
+
 #ifndef EXTENSIONS_COMMON_CONSTANTS_H_
 #define EXTENSIONS_COMMON_CONSTANTS_H_
 

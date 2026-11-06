@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InstallWarning unit tests
+// summary: Unit test verifying that InstallWarning copies its message, key, and specific values from string views before the source data changes.
+// ---
+
 #include "extensions/common/install_warning.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manifest handler helper functions implementation
+// summary: Implements helpers for tokenizing manifest dictionary paths, loading icon sets from manifest dictionaries, and checking icon image MIME types.
+// ---
+
 #include "extensions/common/manifest_handler_helpers.h"
 
 #include <stddef.h>

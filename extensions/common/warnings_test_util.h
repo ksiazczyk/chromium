@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Install warnings test utility header
+// summary: Declares HasInstallWarning, a convenience test helper that checks whether a specific warning was recorded during extension install.
+// ---
+
 #ifndef EXTENSIONS_COMMON_WARNINGS_TEST_UTIL_H_
 #define EXTENSIONS_COMMON_WARNINGS_TEST_UTIL_H_
 

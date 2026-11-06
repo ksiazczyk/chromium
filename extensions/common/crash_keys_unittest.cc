@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crash keys unit tests
+// summary: Unit tests verifying that active extension crash keys are set, capped at the maximum, and cleared when the extension set shrinks.
+// ---
+
 #include "extensions/common/crash_keys.h"
 
 #include "base/strings/stringprintf.h"

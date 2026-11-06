@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for EventFilter event matching
+// summary: Unit tests verifying EventFilter behavior such as adding and removing matchers, URL filter matching, and matching only events with the same name.
+// ---
+
 #include "extensions/common/event_filter.h"
 
 #include <memory>

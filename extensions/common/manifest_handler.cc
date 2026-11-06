@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManifestHandler base class implementation
+// summary: Implements ManifestHandler defaults and static dispatch of parsing, validation, and permission creation through the manifest handler registry.
+// ---
+
 #include "extensions/common/manifest_handler.h"
 
 #include <stddef.h>

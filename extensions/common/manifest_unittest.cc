@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Manifest unit tests
+// summary: Unit tests for the Manifest class covering differential fingerprint warnings and available_values key filtering by manifest version.
+// ---
+
 #include "extensions/common/manifest.h"
 
 #include <memory>

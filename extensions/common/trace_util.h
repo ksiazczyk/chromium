@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionIdForTracing helper header
+// summary: Declares a helper class for logging extension IDs into Chrome perfetto trace events.
+// ---
+
 #ifndef EXTENSIONS_COMMON_TRACE_UTIL_H_
 #define EXTENSIONS_COMMON_TRACE_UTIL_H_
 

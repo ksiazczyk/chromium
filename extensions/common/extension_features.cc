@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension feature flag definitions
+// summary: Defines base::Feature flags and feature parameters governing extension API availability and extension behavior.
+// ---
+
 #include "extensions/common/extension_features.h"
 
 #include "base/feature_list.h"

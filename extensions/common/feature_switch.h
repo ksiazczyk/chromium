@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureSwitch class header
+// summary: Declares FeatureSwitch, an on/off feature switch controlled by command-line flags with documented priority rules and scoped overrides.
+// ---
+
 #ifndef EXTENSIONS_COMMON_FEATURE_SWITCH_H_
 #define EXTENSIONS_COMMON_FEATURE_SWITCH_H_
 

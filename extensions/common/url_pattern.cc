@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLPattern implementation
+// summary: Implements URLPattern parsing and matching for extension URL patterns, including scheme masks, wildcards, ports and parse error messages.
+// ---
+
 #include "extensions/common/url_pattern.h"
 
 #include <stddef.h>

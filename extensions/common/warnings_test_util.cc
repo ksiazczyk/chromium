@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Install warnings test utility
+// summary: Provides HasInstallWarning, a helper that checks whether an extension install produced a specific install warning, for use in tests.
+// ---
+
 #include "extensions/common/warnings_test_util.h"
 
 #include "base/memory/scoped_refptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CSP validator unit tests
+// summary: Unit tests covering CSP sanitization, sandboxed page policies, install warnings, and remote code restrictions for extensions.
+// ---
+
 #include "extensions/common/csp_validator.h"
 
 #include <stddef.h>

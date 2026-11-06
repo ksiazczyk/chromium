@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedTestingManifestHandlerRegistry header
+// summary: Declares a scoped helper that swaps in a test ManifestHandlerRegistry and restores the original one afterwards.
+// ---
+
 #ifndef EXTENSIONS_COMMON_SCOPED_TESTING_MANIFEST_HANDLER_REGISTRY_H_
 #define EXTENSIONS_COMMON_SCOPED_TESTING_MANIFEST_HANDLER_REGISTRY_H_
 

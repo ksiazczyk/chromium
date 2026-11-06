@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionSet implementation
+// summary: Implements a set of extensions with insertion, removal, and lookups by URL or ID, including hosted app matching by web extent.
+// ---
+
 #include "extensions/common/extension_set.h"
 
 #include "base/containers/map_util.h"

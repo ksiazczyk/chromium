@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Message bundle unit tests
+// summary: Unit tests for MessageBundle covering dictionary validation, reserved messages, and placeholder replacement behavior.
+// ---
+
 #include "extensions/common/message_bundle.h"
 
 #include <stddef.h>

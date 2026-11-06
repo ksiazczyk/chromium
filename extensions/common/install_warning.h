@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstallWarning struct header
+// summary: Defines the InstallWarning struct describing non-fatal issues found during extension installation, with message, manifest key, and specific portion fields.
+// ---
+
 #ifndef EXTENSIONS_COMMON_INSTALL_WARNING_H_
 #define EXTENSIONS_COMMON_INSTALL_WARNING_H_
 

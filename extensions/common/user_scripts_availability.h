@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User scripts availability check header
+// summary: Declares CreateAvailabilityCheckMap, which builds the delegated availability check map for user script features.
+// ---
+
 #ifndef EXTENSIONS_COMMON_USER_SCRIPTS_AVAILABILITY_H_
 #define EXTENSIONS_COMMON_USER_SCRIPTS_AVAILABILITY_H_
 

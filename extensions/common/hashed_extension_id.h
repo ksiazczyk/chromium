@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HashedExtensionId class header
+// summary: Defines a type-safe wrapper around hex-encoded SHA-1 or SHA-256 hashes of extension IDs, used to determine feature availability.
+// ---
+
 #ifndef EXTENSIONS_COMMON_HASHED_EXTENSION_ID_H_
 #define EXTENSIONS_COMMON_HASHED_EXTENSION_ID_H_
 

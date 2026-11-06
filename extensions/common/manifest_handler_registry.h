@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManifestHandlerRegistry class declaration
+// summary: Declares the global ManifestHandlerRegistry singleton that maps manifest keys to handlers and sorts them by prerequisite priority.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MANIFEST_HANDLER_REGISTRY_H_
 #define EXTENSIONS_COMMON_MANIFEST_HANDLER_REGISTRY_H_
 

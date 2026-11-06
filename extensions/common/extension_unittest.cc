@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension unit tests
+// summary: Unit tests for extension creation covering manifest version validation, warnings, type checks, and version string canonicalization.
+// ---
+
 #include "extensions/common/extension.h"
 
 #include <optional>

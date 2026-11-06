@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension class implementation for manifest parsing and validation
+// summary: Implements the Extension class, including manifest version checks, key parsing, path validation, and setup of permissions and other parsed manifest data.
+// ---
+
 #include "extensions/common/extension.h"
 
 #include <stddef.h>

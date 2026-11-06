@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CORS utility implementation
+// summary: Builds CORS origin access allow and block lists for an extension from its host permissions and enterprise policy carve-outs.
+// ---
+
 #include "extensions/common/cors_util.h"
 
 #include <utility>

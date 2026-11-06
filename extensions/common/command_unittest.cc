@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for extension command parsing
+// summary: Tests parsing of valid and invalid extension command shortcuts given as strings or platform-specific key dictionaries.
+// ---
+
 #include "extensions/common/command.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension crash keys implementation
+// summary: Records the count and IDs of active extensions and component extensions into crash report keys for diagnostics.
+// ---
+
 #include "extensions/common/crash_keys.h"
 
 #include "base/strings/string_number_conversions.h"

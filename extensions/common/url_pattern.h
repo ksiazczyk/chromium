@@ -1,6 +1,13 @@
 // Copyright 2012 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: URLPattern class for extension URL matching
+// summary: Defines the URLPattern class, a restricted URL pattern syntax used by Chromium extensions to match URLs by scheme, host, port and path.
+// ---
+
 #ifndef EXTENSIONS_COMMON_URL_PATTERN_H_
 #define EXTENSIONS_COMMON_URL_PATTERN_H_
 

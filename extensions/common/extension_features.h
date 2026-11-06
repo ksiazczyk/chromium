@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension feature flag declarations
+// summary: Declares base::Feature flags and parameters for extension APIs, with naming and alphabetization guidance for adding new features.
+// ---
+
 #ifndef EXTENSIONS_COMMON_EXTENSION_FEATURES_H_
 #define EXTENSIONS_COMMON_EXTENSION_FEATURES_H_
 

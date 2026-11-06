@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions export macro header
+// summary: Defines the EXTENSIONS_EXPORT macro controlling symbol visibility for the extensions component in shared-library builds.
+// ---
+
 #ifndef EXTENSIONS_COMMON_EXTENSIONS_EXPORT_H_
 #define EXTENSIONS_COMMON_EXTENSIONS_EXPORT_H_
 

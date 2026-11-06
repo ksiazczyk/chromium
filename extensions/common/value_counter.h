@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ValueCounter class
+// summary: Defines the ValueCounter class that tracks running counts of base::Value instances with add, remove and count queries.
+// ---
+
 #ifndef EXTENSIONS_COMMON_VALUE_COUNTER_H_
 #define EXTENSIONS_COMMON_VALUE_COUNTER_H_
 

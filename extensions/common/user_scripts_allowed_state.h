@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User script allowed state accessors
+// summary: Declares functions to get and set the per-context user script allowed state for a given extension ID.
+// ---
+
 #ifndef EXTENSIONS_COMMON_USER_SCRIPTS_ALLOWED_STATE_H_
 #define EXTENSIONS_COMMON_USER_SCRIPTS_ALLOWED_STATE_H_
 

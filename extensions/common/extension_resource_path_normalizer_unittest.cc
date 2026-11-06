@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension resource path normalizer unit tests
+// summary: Unit tests for resource path normalization covering normal paths, parent references, empty paths, and normalization of path sets.
+// ---
+
 #include "extensions/common/extension_resource_path_normalizer.h"
 
 #include <set>
