@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TetherHostFetcher base implementation
+// summary: Implements the base TetherHostFetcher behavior, including observer management and returning the currently cached tether host.
+// ---
+
 #include "chromeos/ash/components/tether/tether_host_fetcher.h"
 
 #include <memory>

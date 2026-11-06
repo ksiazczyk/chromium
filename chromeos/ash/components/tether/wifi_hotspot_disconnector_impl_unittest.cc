@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WifiHotspotDisconnectorImpl unit tests
+// summary: Unit tests for WifiHotspotDisconnectorImpl using a test NetworkConnectionHandler and fake NetworkConfigurationRemover to verify successful and failed disconnect paths.
+// ---
+
 #include "chromeos/ash/components/tether/wifi_hotspot_disconnector_impl.h"
 
 #include <memory>

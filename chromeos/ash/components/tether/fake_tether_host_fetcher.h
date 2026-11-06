@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeTetherHostFetcher test double
+// summary: Test double for TetherHostFetcher that provides a configurable fake tether host.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_FAKE_TETHER_HOST_FETCHER_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_FAKE_TETHER_HOST_FETCHER_H_
 

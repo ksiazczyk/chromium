@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScannedDeviceInfo implementation
+// summary: Implements ScannedDeviceInfo, a value type describing a scanned tether device, including equality comparison of its fields.
+// ---
+
 #include "chromeos/ash/components/tether/scanned_device_info.h"
 
 namespace ash::tether {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcPlatformSupport production implementation
+// summary: Implements DLC requirement checks using enterprise management state and the DeviceFlexArcPreloadEnabled device policy.
+// ---
+
 #include "chromeos/ash/experiences/arc/arc_platform_support_impl.h"
 
 #include "base/check.h"

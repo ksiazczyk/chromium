@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wi-Fi hotspot connector implementation
+// summary: Connects to a tether host's Wi-Fi hotspot, handling connection timeouts, Wi-Fi enablement, and disassociation of superseded connection attempts.
+// ---
+
 #include "chromeos/ash/components/tether/wifi_hotspot_connector.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MessageWrapper unit tests
+// summary: Unit tests verifying that tethering messages convert correctly to and from raw wire format, including handling of invalid input.
+// ---
+
 #include "chromeos/ash/components/tether/message_wrapper.h"
 
 #include <sstream>

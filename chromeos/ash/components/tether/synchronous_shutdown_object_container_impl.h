@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SynchronousShutdownObjectContainerImpl declaration
+// summary: Declares the concrete synchronous shutdown object container and its factory, which wires together the Tether component's shutdown-managed objects.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_SYNCHRONOUS_SHUTDOWN_OBJECT_CONTAINER_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_SYNCHRONOUS_SHUTDOWN_OBJECT_CONTAINER_IMPL_H_
 

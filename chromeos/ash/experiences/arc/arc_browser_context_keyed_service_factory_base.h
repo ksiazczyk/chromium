@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base class for ARC browser-context keyed service factories
+// summary: Template base that ARC services derive to create browser-context keyed service factories.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_ARC_BROWSER_CONTEXT_KEYED_SERVICE_FACTORY_BASE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_ARC_BROWSER_CONTEXT_KEYED_SERVICE_FACTORY_BASE_H_
 

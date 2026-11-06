@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeOneShotTimer implementation
+// summary: Implements FakeOneShotTimer, a mock one-shot timer that notifies its creator with an ID when it is destroyed.
+// ---
+
 #include "chromeos/ash/components/timer_factory/fake_one_shot_timer.h"
 
 #include "base/functional/callback.h"

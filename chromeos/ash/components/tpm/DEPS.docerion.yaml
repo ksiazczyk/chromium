@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the TPM component
+summary: DEPS file restricting allowed includes for the directory, banning most Abseil features and allowing testing includes only in test files.

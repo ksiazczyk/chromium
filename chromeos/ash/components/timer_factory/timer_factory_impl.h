@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TimerFactoryImpl class declaration
+// summary: Declares TimerFactoryImpl, the concrete TimerFactory that creates base::OneShotTimer instances, along with its Factory for test injection.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TIMER_FACTORY_TIMER_FACTORY_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_TIMER_FACTORY_TIMER_FACTORY_IMPL_H_
 

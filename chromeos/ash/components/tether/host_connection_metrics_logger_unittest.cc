@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Host connection metrics logger unit tests
+// summary: Unit tests verifying the InstantTethering metrics logged for host connection results, failures, provisioning issues, and connect-to-host duration.
+// ---
+
 #include "chromeos/ash/components/tether/host_connection_metrics_logger.h"
 
 #include <memory>

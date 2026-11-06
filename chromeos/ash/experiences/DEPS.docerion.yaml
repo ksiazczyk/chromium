@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for experiences
+summary: DEPS file that grants the chromeos/ash/experiences directory permission to include headers from //ui

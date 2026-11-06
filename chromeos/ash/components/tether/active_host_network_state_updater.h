@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Active host network state updater declaration
+// summary: Declares ActiveHostNetworkStateUpdater, which forwards active host changes to the networking stack.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_ACTIVE_HOST_NETWORK_STATE_UPDATER_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_ACTIVE_HOST_NETWORK_STATE_UPDATER_H_
 

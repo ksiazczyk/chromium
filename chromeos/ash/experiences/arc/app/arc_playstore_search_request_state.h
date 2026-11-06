@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Play Store search request state enum
+// summary: Defines the ArcPlayStoreSearchRequestState enum covering success, cancellation, and detailed failure reasons for Play Store search requests.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_APP_ARC_PLAYSTORE_SEARCH_REQUEST_STATE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_APP_ARC_PLAYSTORE_SEARCH_REQUEST_STATE_H_
 

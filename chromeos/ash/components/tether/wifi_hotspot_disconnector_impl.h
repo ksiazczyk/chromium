@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WifiHotspotDisconnectorImpl header
+// summary: Declares WifiHotspotDisconnectorImpl, the concrete WifiHotspotDisconnector implementation, including its preference registration and disconnect callback handling.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_WIFI_HOTSPOT_DISCONNECTOR_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_WIFI_HOTSPOT_DISCONNECTOR_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tether session completion logger class declaration
+// summary: Declares TetherSessionCompletionLogger and the enum of reasons a tether session can end, wrapping metrics reporting for session completion.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_TETHER_SESSION_COMPLETION_LOGGER_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_TETHER_SESSION_COMPLETION_LOGGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageTransferOperation class declaration
+// summary: Declares MessageTransferOperation, the abstract base class for operations exchanging messages with tether hosts over authenticated connections.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_MESSAGE_TRANSFER_OPERATION_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_MESSAGE_TRANSFER_OPERATION_H_
 

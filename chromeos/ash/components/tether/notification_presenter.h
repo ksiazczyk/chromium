@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationPresenter interface
+// summary: Interface for presenting Tether notifications about nearby potential hotspots, required setup, and failed connections, with methods to query and remove them.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_NOTIFICATION_PRESENTER_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_NOTIFICATION_PRESENTER_H_
 

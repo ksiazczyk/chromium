@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WifiP2PGroup implementation
+// summary: Implements the constructors and destructor of the WifiP2PGroup metadata class.
+// ---
+
 #include "chromeos/ash/components/wifi_p2p/wifi_p2p_group.h"
 
 namespace ash {

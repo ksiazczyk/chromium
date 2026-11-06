@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TetherDisconnectorImpl unit tests
+// summary: Unit tests for TetherDisconnectorImpl verifying disconnection results, cancellation of connecting sessions and session completion reason logging with fake dependencies.
+// ---
+
 #include "chromeos/ash/components/tether/tether_disconnector_impl.h"
 
 #include <memory>

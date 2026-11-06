@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host connection metrics logger header
+// summary: Declares the metrics logger with connection result and internal error enums for Instant Tethering.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_HOST_CONNECTION_METRICS_LOGGER_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_HOST_CONNECTION_METRICS_LOGGER_H_
 

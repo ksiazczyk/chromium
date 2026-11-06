@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeepAliveScheduler class declaration
+// summary: Declares KeepAliveScheduler, which sends keep-alive messages immediately on connection and repeats them on a timer until the host disconnects.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_KEEP_ALIVE_SCHEDULER_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_KEEP_ALIVE_SCHEDULER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device status normalization utilities declaration
+// summary: Declares NormalizeDeviceStatus, which normalizes carrier, battery, and signal strength values from the tether proto according to documented rules.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_DEVICE_STATUS_UTIL_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_DEVICE_STATUS_UTIL_H_
 

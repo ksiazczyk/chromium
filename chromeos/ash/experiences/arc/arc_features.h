@@ -4,6 +4,12 @@
 
 // This file defines the public base::FeatureList features for ARC.
 
+// ---docerion
+// type: source
+// title: ARC feature flag declarations
+// summary: Declares the public base::Feature flags and parameters available for ARC.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_ARC_FEATURES_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_ARC_FEATURES_H_
 

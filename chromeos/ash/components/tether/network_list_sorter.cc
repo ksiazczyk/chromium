@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkListSorter implementation
+// summary: Sorts the Tether network list for display by connection state, signal strength, battery percentage, prior connections, device name, carrier, and GUID.
+// ---
+
 #include "chromeos/ash/components/tether/network_list_sorter.h"
 
 #include <algorithm>

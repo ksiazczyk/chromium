@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DisconnectTetheringRequestSenderImpl unit tests
+// summary: Unit tests using fake operations and connections to verify disconnect request sending, pending request tracking, and observer notifications.
+// ---
+
 #include "chromeos/ash/components/tether/disconnect_tethering_request_sender_impl.h"
 
 #include <memory>

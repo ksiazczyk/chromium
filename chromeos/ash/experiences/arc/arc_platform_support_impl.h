@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcPlatformSupportImpl declaration
+// summary: Declares the production implementation of ArcPlatformSupport used for ARCVM DLC enablement checks.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_ARC_PLATFORM_SUPPORT_IMPL_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_ARC_PLATFORM_SUPPORT_IMPL_H_
 

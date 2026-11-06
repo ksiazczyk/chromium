@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectionPreserver interface
+// summary: Interface for preserving a BLE connection beyond its immediately useful lifetime after a host scan, avoiding a costly second connection setup for future tether attempts.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_CONNECTION_PRESERVER_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_CONNECTION_PRESERVER_H_
 

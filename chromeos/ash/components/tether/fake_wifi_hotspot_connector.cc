@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeWifiHotspotConnector implementation
+// summary: Implementation of the fake Wi-Fi hotspot connector that captures connection requests and callbacks.
+// ---
+
 #include "chromeos/ash/components/tether/fake_wifi_hotspot_connector.h"
 #include "chromeos/ash/components/network/network_handler.h"
 

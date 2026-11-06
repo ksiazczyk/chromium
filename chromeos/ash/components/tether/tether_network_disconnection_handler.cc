@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tether network disconnection handler implementation
+// summary: Implements handling of lost Wi-Fi connections during tether sessions, logging the session completion reason and notifying the host to shut down its hotspot.
+// ---
+
 #include "chromeos/ash/components/tether/tether_network_disconnection_handler.h"
 
 #include "base/functional/bind.h"

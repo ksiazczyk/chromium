@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TetherAvailabilityOperation unit tests
+// summary: Unit tests for TetherAvailabilityOperation covering request sending after authentication, response duration metrics, error responses, and notification-disabled cases.
+// ---
+
 #include "chromeos/ash/components/tether/tether_availability_operation.h"
 
 #include <algorithm>

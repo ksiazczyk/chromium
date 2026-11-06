@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake DisconnectTetheringRequestSender implementation
+// summary: Implements the DisconnectTetheringRequestSender test double, recording device IDs of sent disconnect requests and the pending request state.
+// ---
+
 #include "chromeos/ash/components/tether/fake_disconnect_tethering_request_sender.h"
 
 namespace ash {

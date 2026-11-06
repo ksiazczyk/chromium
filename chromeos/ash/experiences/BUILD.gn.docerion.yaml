@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for ash experiences unit tests
+summary: GN build file defining the ash_components_unittests test target, which aggregates unit tests from ChromeOS ash components and experiences subdirectories

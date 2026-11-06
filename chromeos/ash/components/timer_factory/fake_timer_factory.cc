@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeTimerFactory implementation
+// summary: Implements FakeTimerFactory, a test double that creates and tracks fake one-shot timers and can fire all active timers.
+// ---
+
 #include "chromeos/ash/components/timer_factory/fake_timer_factory.h"
 
 #include "base/functional/bind.h"

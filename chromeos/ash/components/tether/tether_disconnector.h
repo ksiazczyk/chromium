@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TetherDisconnector interface
+// summary: Interface for disconnecting from an active tether connection, invoked with the tether network GUID, callbacks and a session completion reason.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_TETHER_DISCONNECTOR_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_TETHER_DISCONNECTOR_H_
 

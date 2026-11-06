@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TetherHostFetcherImpl implementation
+// summary: Implements TetherHostFetcherImpl, which caches the current tether host from DeviceSyncClient and MultiDeviceSetupClient and notifies observers of changes.
+// ---
+
 #include "chromeos/ash/components/tether/tether_host_fetcher_impl.h"
 
 #include <memory>

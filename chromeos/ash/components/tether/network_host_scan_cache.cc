@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkHostScanCache implementation
+// summary: Implements a host scan cache that stores Tether scan results in the networking stack, adding, updating, and removing tether network states via NetworkStateHandler.
+// ---
+
 #include "chromeos/ash/components/tether/network_host_scan_cache.h"
 
 #include <algorithm>

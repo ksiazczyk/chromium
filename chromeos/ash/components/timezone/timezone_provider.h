@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Timezone provider class declaration
+// summary: Declares TimeZoneProvider, which initiates timezone lookups through a URL loader factory and tracks in-progress requests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TIMEZONE_TIMEZONE_PROVIDER_H_
 #define CHROMEOS_ASH_COMPONENTS_TIMEZONE_TIMEZONE_PROVIDER_H_
 

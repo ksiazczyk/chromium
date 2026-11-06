@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GMS Core notifications state tracker interface
+// summary: Defines the interface for tracking Tether hosts whose Google Play Services notifications are disabled.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_GMS_CORE_NOTIFICATIONS_STATE_TRACKER_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_GMS_CORE_NOTIFICATIONS_STATE_TRACKER_H_
 

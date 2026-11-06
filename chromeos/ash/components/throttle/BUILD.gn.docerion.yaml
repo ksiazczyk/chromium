@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Throttle component build configuration
+summary: Defines the GN build targets for the Chrome OS ash throttle component, listing its sources, dependencies, and the unit test source set.

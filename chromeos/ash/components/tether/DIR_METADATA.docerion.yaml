@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the tether component
+summary: Points the tether directory to the shared COMMON_METADATA mixins for component and team information.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TetherHostFetcherImpl unit tests
+// summary: Unit tests for TetherHostFetcherImpl that use fake DeviceSync and MultiDeviceSetup clients to verify tether host caching and observer notifications.
+// ---
+
 #include "chromeos/ash/components/tether/tether_host_fetcher_impl.h"
 
 #include <memory>

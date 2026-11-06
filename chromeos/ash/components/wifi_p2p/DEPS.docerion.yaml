@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for wifi_p2p
+summary: Defines include rules allowing dependencies on the shill, patchpanel, and network components.

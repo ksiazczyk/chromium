@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Top-level host scan cache implementation
+// summary: Implements a host scan cache that syncs the network and persistent caches and expires scan results via a timer after 120 minutes.
+// ---
+
 #include "chromeos/ash/components/tether/top_level_host_scan_cache.h"
 
 #include <algorithm>

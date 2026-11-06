@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeTetherComponent implementation
+// summary: Implements a fake TetherComponent that simulates synchronous or asynchronous shutdown and records the last shutdown reason.
+// ---
+
 #include "chromeos/ash/components/tether/fake_tether_component.h"
 
 namespace ash {

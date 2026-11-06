@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WifiP2PController implementation
+// summary: Implements the WifiP2PController, translating shill result codes and managing WiFi P2P group operations over DBus.
+// ---
+
 #include "chromeos/ash/components/wifi_p2p/wifi_p2p_controller.h"
 
 #include "base/functional/bind.h"

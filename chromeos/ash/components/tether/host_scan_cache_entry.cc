@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostScanCacheEntry implementation
+// summary: Implements the builder and equality operators for HostScanCacheEntry, which stores metadata about a scanned Tether host.
+// ---
+
 #include "chromeos/ash/components/tether/host_scan_cache_entry.h"
 
 #include "base/check_op.h"

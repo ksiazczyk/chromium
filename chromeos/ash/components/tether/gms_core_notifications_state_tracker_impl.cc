@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GMS Core notifications state tracker implementation
+// summary: Tracks devices with disabled Google Play Services notifications using tether availability scan results.
+// ---
+
 #include "chromeos/ash/components/tether/gms_core_notifications_state_tracker_impl.h"
 
 #include <sstream>

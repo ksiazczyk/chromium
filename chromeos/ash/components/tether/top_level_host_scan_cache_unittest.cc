@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Top-level host scan cache unit tests
+// summary: Unit tests for TopLevelHostScanCache using mock timers and fake caches to verify entry expiry, removal, and persistence behavior.
+// ---
+
 #include "chromeos/ash/components/tether/top_level_host_scan_cache.h"
 
 #include <memory>

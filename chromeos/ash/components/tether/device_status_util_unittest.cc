@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceStatusUtil unit tests
+// summary: Unit tests verifying that NormalizeDeviceStatus clamps battery and signal values and handles missing or empty carrier names.
+// ---
+
 #include "chromeos/ash/components/tether/device_status_util.h"
 
 #include <memory>

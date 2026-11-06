@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tether session completion logger implementation
+// summary: Records the InstantTethering.SessionCompletionReason UMA histogram describing how a tether session ended.
+// ---
+
 #include "chromeos/ash/components/tether/tether_session_completion_logger.h"
 
 #include "base/metrics/histogram_macros.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisconnectTetheringRequestSenderImpl class declaration
+// summary: Declares the concrete DisconnectTetheringRequestSender that maps device IDs to disconnect operations and observes their completion.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_DISCONNECT_TETHERING_REQUEST_SENDER_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_DISCONNECT_TETHERING_REQUEST_SENDER_IMPL_H_
 

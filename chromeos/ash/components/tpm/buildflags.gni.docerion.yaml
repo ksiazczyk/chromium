@@ -1,0 +1,4 @@
+# Docerion header of buildflags.gni.
+type: config
+title: TPM build flags
+summary: Declares the nss_slots_software_fallback build argument that enables software-backed NSS slot initialization when the TPM is disabled.

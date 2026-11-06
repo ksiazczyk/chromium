@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeHostConnection
+// summary: Declares a fake HostConnection test double with a factory that can set up, fail, and inspect pending or active tether connections in tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_FAKE_HOST_CONNECTION_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_FAKE_HOST_CONNECTION_H_
 

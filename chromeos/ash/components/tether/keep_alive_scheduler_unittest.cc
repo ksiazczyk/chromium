@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: KeepAliveScheduler unit tests
+// summary: Unit tests for KeepAliveScheduler using fake operations, connections, and timers to verify keep-alive scheduling and cache updates.
+// ---
+
 #include "chromeos/ash/components/tether/keep_alive_scheduler.h"
 
 #include <memory>

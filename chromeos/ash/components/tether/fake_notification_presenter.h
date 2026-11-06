@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeNotificationPresenter test double
+// summary: Declares a fake NotificationPresenter that records tether notification states and fails tests on unexpected hotspot queries.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_FAKE_NOTIFICATION_PRESENTER_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_FAKE_NOTIFICATION_PRESENTER_H_
 

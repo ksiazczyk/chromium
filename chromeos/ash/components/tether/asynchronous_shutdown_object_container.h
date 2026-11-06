@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AsynchronousShutdownObjectContainer interface
+// summary: Interface for a container owning Tether component objects that require asynchronous shutdown, exposing accessors to those objects and a Shutdown method with a completion callback.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_ASYNCHRONOUS_SHUTDOWN_OBJECT_CONTAINER_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_ASYNCHRONOUS_SHUTDOWN_OBJECT_CONTAINER_H_
 

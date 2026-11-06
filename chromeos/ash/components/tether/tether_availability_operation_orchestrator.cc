@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TetherAvailabilityOperationOrchestrator implementation
+// summary: Implements the orchestrator that starts tether availability operations per device and notifies observers of scan results, including the final scan result.
+// ---
+
 #include "chromeos/ash/components/tether/tether_availability_operation_orchestrator.h"
 
 #include "chromeos/ash/components/multidevice/logging/logging.h"

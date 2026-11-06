@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeNotificationPresenter implementation
+// summary: Implements a fake NotificationPresenter that tracks potential hotspot, setup required, and connection failed notification states for tests.
+// ---
+
 #include "chromeos/ash/components/tether/fake_notification_presenter.h"
 
 #include "base/functional/bind.h"

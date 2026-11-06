@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GMS Core notifications state tracker impl header
+// summary: Declares the concrete tracker that maps device IDs to names and observes tether availability responses.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_GMS_CORE_NOTIFICATIONS_STATE_TRACKER_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_GMS_CORE_NOTIFICATIONS_STATE_TRACKER_IMPL_H_
 

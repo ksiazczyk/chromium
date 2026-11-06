@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeGmsCoreNotificationsStateTracker
+// summary: In-memory test double of GmsCoreNotificationsStateTracker that reports device names with disabled GMS Core notifications for tether tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_FAKE_GMS_CORE_NOTIFICATIONS_STATE_TRACKER_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_FAKE_GMS_CORE_NOTIFICATIONS_STATE_TRACKER_H_
 

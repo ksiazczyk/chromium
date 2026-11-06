@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HostScanCache unit tests
+// summary: Unit tests for HostScanCache using FakeHostScanCache, checking set and remove behavior and empty-cache observer notifications.
+// ---
+
 #include "chromeos/ash/components/tether/host_scan_cache.h"
 
 #include <memory>

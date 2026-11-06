@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeHostScanScheduler implementation
+// summary: Implements a fake HostScanScheduler that counts attempted offline scans instead of starting real ones.
+// ---
+
 #include "chromeos/ash/components/tether/fake_host_scan_scheduler.h"
 
 namespace ash {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host scanner implementation header
+// summary: Declares HostScannerImpl, which contacts nearby devices to query tether availability, stores results in the host scan cache and notifies observers.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_HOST_SCANNER_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_HOST_SCANNER_IMPL_H_
 

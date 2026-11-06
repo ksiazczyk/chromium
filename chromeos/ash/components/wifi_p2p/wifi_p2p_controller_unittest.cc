@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WifiP2PController unit tests
+// summary: Unit tests for WifiP2PController covering P2P group operations and socket tagging using fake shill and PatchPanel clients.
+// ---
+
 #include "chromeos/ash/components/wifi_p2p/wifi_p2p_controller.h"
 
 #include "base/test/bind.h"

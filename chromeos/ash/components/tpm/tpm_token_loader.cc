@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TPM token loader implementation
+// summary: Implements the TPMTokenLoader singleton that initializes the system TPM token for NSS based on login state and crypto task runner availability.
+// ---
+
 #include "chromeos/ash/components/tpm/tpm_token_loader.h"
 
 #include <algorithm>

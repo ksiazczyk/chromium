@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Timezone request implementation
+// summary: Sends a geoposition to the Google Maps timezone API, parses the JSON response, records metrics, and retries on errors until timeout.
+// ---
+
 #include "chromeos/ash/components/timezone/timezone_request.h"
 
 #include <stddef.h>

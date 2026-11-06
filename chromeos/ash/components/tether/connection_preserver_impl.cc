@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectionPreserverImpl implementation
+// summary: Implements BLE connection preservation after successful tether availability responses, prioritizing devices and removing preserved connections when the active host connects.
+// ---
+
 #include "chromeos/ash/components/tether/connection_preserver_impl.h"
 
 #include <algorithm>

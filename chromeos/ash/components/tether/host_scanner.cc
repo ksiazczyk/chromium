@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host scanner base class implementation
+// summary: Implements observer list management and scan-finished notifications for the HostScanner base class that scans for nearby tether hosts.
+// ---
+
 #include "chromeos/ash/components/tether/host_scanner.h"
 
 namespace ash {

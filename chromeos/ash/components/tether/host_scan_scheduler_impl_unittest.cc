@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HostScanSchedulerImpl unit tests
+// summary: Unit tests for HostScanSchedulerImpl covering scan triggers from network state changes, session state, and scan batch duration metrics.
+// ---
+
 #include "chromeos/ash/components/tether/host_scan_scheduler_impl.h"
 
 #include <memory>

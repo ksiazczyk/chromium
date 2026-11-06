@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Timezone utility implementation for system timezone permissions
+// summary: Implements helpers that decide whether a user may set the system timezone, apply timezone changes, update the signin screen timezone, and check whether timezone preferences are enterprise-managed.
+// ---
+
 #include "chromeos/ash/components/timezone/timezone_util.h"
 
 #include <string>

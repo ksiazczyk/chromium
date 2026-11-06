@@ -3,6 +3,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecureChannelTetherAvailabilityOperationOrchestrator implementation
+// summary: Implements the Secure Channel tether availability orchestrator, fetching the tether host and starting availability scan operations or notifying of an empty scan.
+// ---
+
 #include "chromeos/ash/components/tether/secure_channel_tether_availability_operation_orchestrator.h"
 #include "chromeos/ash/components/multidevice/logging/logging.h"
 

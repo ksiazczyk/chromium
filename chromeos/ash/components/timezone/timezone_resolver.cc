@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Timezone resolver implementation
+// summary: Periodically refreshes geolocation, requests the matching timezone with rate-limited retries, and applies it to system settings.
+// ---
+
 #include "chromeos/ash/components/timezone/timezone_resolver.h"
 
 #include <math.h>

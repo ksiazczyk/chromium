@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceIdTetherNetworkGuidMap class declaration
+// summary: Declares a mapping between device IDs and the tether network GUIDs used for tethering to those devices, noting the implementation is stubbed out.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_DEVICE_ID_TETHER_NETWORK_GUID_MAP_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_DEVICE_ID_TETHER_NETWORK_GUID_MAP_H_
 

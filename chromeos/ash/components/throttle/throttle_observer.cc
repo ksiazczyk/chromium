@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThrottleObserver implementation
+// summary: Implements ThrottleObserver methods for starting and stopping observation and for updating the active or enforced state while running the state-change callback.
+// ---
+
 #include "chromeos/ash/components/throttle/throttle_observer.h"
 
 namespace ash {

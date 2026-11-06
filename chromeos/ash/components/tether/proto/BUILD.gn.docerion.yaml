@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tether proto BUILD.gn build file
+summary: GN build file that defines the proto_library target compiling tether.proto and asserts the build targets ChromeOS.

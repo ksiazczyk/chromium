@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecureChannelTetherAvailabilityOperationOrchestrator declaration
+// summary: Declares the Secure Channel implementation of the tether availability operation orchestrator together with its factory and observer-facing Start method.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_SECURE_CHANNEL_TETHER_AVAILABILITY_OPERATION_ORCHESTRATOR_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_SECURE_CHANNEL_TETHER_AVAILABILITY_OPERATION_ORCHESTRATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host connection base implementation
+// summary: Implements parsing of incoming tether messages and notification of the payload listener.
+// ---
+
 #include "chromeos/ash/components/tether/host_connection.h"
 
 namespace ash::tether {

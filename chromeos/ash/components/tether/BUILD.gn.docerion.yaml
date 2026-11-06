@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tether component GN build configuration
+summary: Defines the tether static library target with its source files, dependencies and ChromeOS-only build assertion.

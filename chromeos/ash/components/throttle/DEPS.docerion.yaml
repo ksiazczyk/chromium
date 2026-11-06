@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Throttle component include rules
+summary: Specifies allowed include dependencies for the throttle component, with a special rule permitting content test headers in the service unit test.

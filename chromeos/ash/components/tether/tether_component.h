@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TetherComponent interface and shutdown reasons
+// summary: Declares the TetherComponent interface with Status and ShutdownReason enums, observer support, and the RequestShutdown contract for the tether feature.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_TETHER_COMPONENT_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_TETHER_COMPONENT_H_
 

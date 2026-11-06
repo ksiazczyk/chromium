@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScannedDeviceInfo struct declaration
+// summary: Declares a struct describing a tether-capable device found during a host scan, holding device ID, name, optional status, setup and notification flags.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_SCANNED_DEVICE_INFO_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_SCANNED_DEVICE_INFO_H_
 

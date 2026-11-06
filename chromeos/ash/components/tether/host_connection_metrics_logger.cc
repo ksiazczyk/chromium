@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host connection metrics logger implementation
+// summary: Records UMA histograms for host connection results, internal errors, and provisioning failures.
+// ---
+
 #include "chromeos/ash/components/tether/host_connection_metrics_logger.h"
 
 #include "base/metrics/histogram_functions.h"

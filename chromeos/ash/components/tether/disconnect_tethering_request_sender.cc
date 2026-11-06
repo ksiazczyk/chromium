@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisconnectTetheringRequestSender base implementation
+// summary: Implements observer list management for the DisconnectTetheringRequestSender interface, notifying observers when pending disconnect requests complete.
+// ---
+
 #include "chromeos/ash/components/tether/disconnect_tethering_request_sender.h"
 
 namespace ash {

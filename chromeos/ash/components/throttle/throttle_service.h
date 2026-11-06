@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThrottleService class declaration
+// summary: Declares the base ThrottleService class that manages ThrottleObservers and calls ThrottleInstance when the throttling state changes.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_THROTTLE_THROTTLE_SERVICE_H_
 #define CHROMEOS_ASH_COMPONENTS_THROTTLE_THROTTLE_SERVICE_H_
 

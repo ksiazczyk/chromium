@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockHostConnectionMetricsLogger implementation
+// summary: Implements a gmock-based test double of HostConnectionMetricsLogger for use in tethering tests.
+// ---
+
 #include "chromeos/ash/components/tether/mock_host_connection_metrics_logger.h"
 
 #include "chromeos/ash/components/tether/active_host.h"

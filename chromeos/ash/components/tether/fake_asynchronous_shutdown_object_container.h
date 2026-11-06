@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake AsynchronousShutdownObjectContainer test double header
+// summary: Declares a test double for AsynchronousShutdownObjectContainer that captures the shutdown-complete callback and allows injecting component pointers.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_FAKE_ASYNCHRONOUS_SHUTDOWN_OBJECT_CONTAINER_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_FAKE_ASYNCHRONOUS_SHUTDOWN_OBJECT_CONTAINER_H_
 

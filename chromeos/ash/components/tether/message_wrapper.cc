@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageWrapper implementation
+// summary: Implements MessageWrapper, which encodes and decodes tether protobuf messages as JSON with base64url data for transmission between devices.
+// ---
+
 #include "chromeos/ash/components/tether/message_wrapper.h"
 
 #include <memory>

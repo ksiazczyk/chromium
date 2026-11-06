@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Active host tracking implementation
+// summary: Implements the ActiveHost class that tracks, persists and reports the status of the connection to the current tether host.
+// ---
+
 #include "chromeos/ash/components/tether/active_host.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host scanner implementation
+// summary: Implements tether host scanning by running a TetherAvailabilityOperationOrchestrator, caching scanned devices and showing available hotspot notifications.
+// ---
+
 #include "chromeos/ash/components/tether/host_scanner_impl.h"
 
 #include <algorithm>

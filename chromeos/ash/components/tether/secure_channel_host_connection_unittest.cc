@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SecureChannelHostConnection unit tests
+// summary: Unit tests for SecureChannelHostConnection that use fake device sync, secure channel and tether host fetcher clients to verify connection creation and messaging.
+// ---
+
 #include "chromeos/ash/components/tether/secure_channel_host_connection.h"
 
 #include "base/run_loop.h"

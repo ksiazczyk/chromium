@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TetherAvailabilityOperationOrchestrator class declaration
+// summary: Declares the tether availability orchestrator with an Observer interface for scan results and a Factory for creating instances.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_TETHER_AVAILABILITY_OPERATION_ORCHESTRATOR_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_TETHER_AVAILABILITY_OPERATION_ORCHESTRATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WifiP2PMetricsLogger class header
+// summary: Declares the WifiP2PMetricsLogger that emits UMA histograms for WiFi P2P capabilities, operation results, and disconnect reasons.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_WIFI_P2P_WIFI_P2P_METRICS_LOGGER_H_
 #define CHROMEOS_ASH_COMPONENTS_WIFI_P2P_WIFI_P2P_METRICS_LOGGER_H_
 

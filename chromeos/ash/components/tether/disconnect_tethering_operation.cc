@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisconnectTetheringOperation implementation
+// summary: Implements the operation that sends a disconnect tethering request to a tether host over an authenticated connection and records request duration metrics.
+// ---
+
 #include "chromeos/ash/components/tether/disconnect_tethering_operation.h"
 
 #include <memory>

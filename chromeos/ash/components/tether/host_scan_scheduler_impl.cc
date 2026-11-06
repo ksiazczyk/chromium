@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostScanSchedulerImpl implementation
+// summary: Implements Tether host scan scheduling triggered by network changes, scan requests, and session state, and logs host scan batch duration metrics.
+// ---
+
 #include "chromeos/ash/components/tether/host_scan_scheduler_impl.h"
 
 #include <memory>

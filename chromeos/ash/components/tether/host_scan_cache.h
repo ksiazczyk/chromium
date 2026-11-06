@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostScanCache interface
+// summary: Interface for caching Tether host scan results, with observer notifications and queries for cache contents and setup requirements.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_HOST_SCAN_CACHE_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_HOST_SCAN_CACHE_H_
 

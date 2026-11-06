@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeSynchronousShutdownObjectContainer implementation
+// summary: Implements a fake SynchronousShutdownObjectContainer that returns stored tether objects and runs a callback when deleted.
+// ---
+
 #include "chromeos/ash/components/tether/fake_synchronous_shutdown_object_container.h"
 
 namespace ash {

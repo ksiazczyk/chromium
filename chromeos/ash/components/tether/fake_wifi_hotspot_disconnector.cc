@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeWifiHotspotDisconnector implementation
+// summary: Implementation of the fake Wi-Fi hotspot disconnector that records disconnections and simulated errors.
+// ---
+
 #include "chromeos/ash/components/tether/fake_wifi_hotspot_disconnector.h"
 
 namespace ash {

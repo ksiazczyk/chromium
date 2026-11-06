@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WifiP2PGroup metadata class header
+// summary: Declares the WifiP2PGroup class holding metadata such as shill ID, frequency, network ID, IPv4 address, SSID, passphrase, and owner flag.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_WIFI_P2P_WIFI_P2P_GROUP_H_
 #define CHROMEOS_ASH_COMPONENTS_WIFI_P2P_WIFI_P2P_GROUP_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC utility unit tests
+// summary: Unit tests for the ARC utility functions, exercising feature availability, Upstart job handling, and session behavior with fake D-Bus clients and Ash test infrastructure.
+// ---
+
 #include "chromeos/ash/experiences/arc/arc_util.h"
 
 #include <memory>

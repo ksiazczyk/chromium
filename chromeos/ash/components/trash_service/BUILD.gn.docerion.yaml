@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the trash service
+summary: GN build configuration defining the trash_service source set and its unit tests, with their sources and dependencies.

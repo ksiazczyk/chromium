@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkConnectionHandlerTetherDelegate
+// summary: Declares a delegate that routes Tether network connect and disconnect requests from NetworkConnectionHandler to the Tether connector and disconnector, caching request callbacks.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_NETWORK_CONNECTION_HANDLER_TETHER_DELEGATE_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_NETWORK_CONNECTION_HANDLER_TETHER_DELEGATE_H_
 

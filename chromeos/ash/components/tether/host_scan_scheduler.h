@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostScanScheduler interface
+// summary: Interface for scheduling Tether host scans, exposing AttemptScanIfOffline to scan only when the device has no active connection.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_HOST_SCAN_SCHEDULER_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_HOST_SCAN_SCHEDULER_H_
 

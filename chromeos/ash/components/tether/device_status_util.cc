@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device status normalization utilities
+// summary: Normalizes carrier, battery percentage, and signal strength from a DeviceStatus proto, converting Android signal strength to the Chrome OS 0-100 scale.
+// ---
+
 #include "chromeos/ash/components/tether/device_status_util.h"
 
 #include <algorithm>

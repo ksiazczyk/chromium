@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockHostConnectionMetricsLogger declaration
+// summary: Declares a gmock test double of HostConnectionMetricsLogger that mocks recording of connection-to-host results.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_MOCK_HOST_CONNECTION_METRICS_LOGGER_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_MOCK_HOST_CONNECTION_METRICS_LOGGER_H_
 

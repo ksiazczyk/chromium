@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AsynchronousShutdownObjectContainerImpl unit tests
+// summary: Unit tests for the asynchronous shutdown container, using fake device sync and secure channel clients plus test doubles to verify shutdown callback behavior.
+// ---
+
 #include "chromeos/ash/components/tether/asynchronous_shutdown_object_container_impl.h"
 
 #include <memory>

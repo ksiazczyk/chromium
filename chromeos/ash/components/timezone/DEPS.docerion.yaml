@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the timezone component
+summary: Restricts allowed includes for the directory and grants test files access to network and testing helpers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trash service implementation parsing .trashinfo files
+// summary: Implements the trash utility service, parsing and validating the Path and DeletionDate entries of .trashinfo files and reporting errors via callback.
+// ---
+
 #include "chromeos/ash/components/trash_service/trash_service_impl.h"
 
 #include <limits.h>

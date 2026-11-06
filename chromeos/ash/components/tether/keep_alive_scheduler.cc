@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeepAliveScheduler implementation
+// summary: Implements scheduling of keep-alive messages while connected to a tether hotspot, updating the host scan cache with fresh device status.
+// ---
+
 #include "chromeos/ash/components/tether/keep_alive_scheduler.h"
 
 #include "base/functional/bind.h"

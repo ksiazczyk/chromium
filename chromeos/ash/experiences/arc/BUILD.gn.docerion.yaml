@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the ARC directory
+summary: Defines the static library target and lists the ARC source files built for ChromeOS.

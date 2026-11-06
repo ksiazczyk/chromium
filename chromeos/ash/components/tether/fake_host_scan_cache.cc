@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeHostScanCache implementation
+// summary: Implements an in-memory fake of HostScanCache that stores, looks up, and removes tether host scan cache entries for tests.
+// ---
+
 #include "chromeos/ash/components/tether/fake_host_scan_cache.h"
 
 namespace ash {

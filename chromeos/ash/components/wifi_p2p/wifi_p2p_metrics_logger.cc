@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WifiP2PMetricsLogger implementation
+// summary: Implements UMA histogram recording for WiFi P2P capabilities, operation results, connection duration, and disconnect reasons.
+// ---
+
 #include "chromeos/ash/components/wifi_p2p/wifi_p2p_metrics_logger.h"
 
 #include "base/metrics/histogram_functions.h"

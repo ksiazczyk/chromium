@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Timezone utility header
+// summary: Declares the ash::system timezone utility functions for checking and setting the system timezone and for detecting enterprise-managed timezone preferences.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TIMEZONE_TIMEZONE_UTIL_H_
 #define CHROMEOS_ASH_COMPONENTS_TIMEZONE_TIMEZONE_UTIL_H_
 

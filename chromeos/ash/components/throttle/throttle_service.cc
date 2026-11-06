@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThrottleService implementation
+// summary: Implements ThrottleService logic that evaluates observer states, decides whether to throttle, and records UMA metrics when the effective observer changes.
+// ---
+
 #include "chromeos/ash/components/throttle/throttle_service.h"
 
 #include <utility>

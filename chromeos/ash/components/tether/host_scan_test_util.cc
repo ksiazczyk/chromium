@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Host scan test utility implementation
+// summary: Creates a map of four test HostScanCacheEntry objects with GUIDs, device names, carriers, battery and signal values for use in tether host scan tests.
+// ---
+
 #include "chromeos/ash/components/tether/host_scan_test_util.h"
 
 namespace ash {

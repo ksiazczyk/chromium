@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AsynchronousShutdownObjectContainerImpl implementation
+// summary: Implements the asynchronous shutdown container, creating the host connection factory, disconnect request sender, network configuration remover, and Wi-Fi hotspot disconnector.
+// ---
+
 #include "chromeos/ash/components/tether/asynchronous_shutdown_object_container_impl.h"
 
 #include "base/memory/ptr_util.h"

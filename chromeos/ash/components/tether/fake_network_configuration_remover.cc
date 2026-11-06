@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeNetworkConfigurationRemover implementation
+// summary: Implements a fake NetworkConfigurationRemover that records the last removed Wi-Fi network path instead of changing real network configuration.
+// ---
+
 #include "chromeos/ash/components/tether/fake_network_configuration_remover.h"
 
 namespace ash {

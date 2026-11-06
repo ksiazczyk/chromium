@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersistentHostScanCacheImpl class declaration
+// summary: Declares PersistentHostScanCacheImpl, which persists host scan cache entries through PrefService and registers the associated prefs.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_PERSISTENT_HOST_SCAN_CACHE_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_PERSISTENT_HOST_SCAN_CACHE_IMPL_H_
 

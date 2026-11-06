@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeTetherConnector implementation
+// summary: Implements a fake TetherConnector that records connection attempts and simulates success or a configurable connection error.
+// ---
+
 #include "chromeos/ash/components/tether/fake_tether_connector.h"
 
 namespace ash {

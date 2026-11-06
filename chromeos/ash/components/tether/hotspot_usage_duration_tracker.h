@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hotspot usage duration tracker header
+// summary: Declares HotspotUsageDurationTracker, an ActiveHost observer that tracks connection start times and logs hotspot usage duration metrics.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_HOTSPOT_USAGE_DURATION_TRACKER_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_HOTSPOT_USAGE_DURATION_TRACKER_H_
 

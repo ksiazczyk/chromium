@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeSynchronousShutdownObjectContainer test double
+// summary: Declares a fake SynchronousShutdownObjectContainer with setters for active host, scan cache, scheduler, and disconnector used in tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_FAKE_SYNCHRONOUS_SHUTDOWN_OBJECT_CONTAINER_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_FAKE_SYNCHRONOUS_SHUTDOWN_OBJECT_CONTAINER_H_
 

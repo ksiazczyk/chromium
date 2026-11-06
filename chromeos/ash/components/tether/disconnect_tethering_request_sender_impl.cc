@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisconnectTetheringRequestSenderImpl implementation
+// summary: Implements sending disconnect requests by creating DisconnectTetheringOperation instances per device and tracking pending operations until completion.
+// ---
+
 #include "chromeos/ash/components/tether/disconnect_tethering_request_sender_impl.h"
 
 #include <memory>

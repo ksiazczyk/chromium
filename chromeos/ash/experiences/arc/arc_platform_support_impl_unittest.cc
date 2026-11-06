@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ArcPlatformSupportImpl
+// summary: Verifies DLC enablement behavior for unmanaged devices and managed devices with the preload policy disabled or enabled.
+// ---
+
 #include "chromeos/ash/experiences/arc/arc_platform_support_impl.h"
 
 #include <memory>

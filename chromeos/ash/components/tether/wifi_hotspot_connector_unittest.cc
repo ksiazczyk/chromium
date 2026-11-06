@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WifiHotspotConnector unit tests
+// summary: Unit tests for WifiHotspotConnector covering connection attempts, timeouts, cancellation, and Wi-Fi configuration properties using test network handlers and mock timers.
+// ---
+
 #include "chromeos/ash/components/tether/wifi_hotspot_connector.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeHostScanScheduler
+// summary: Declares a test double of HostScanScheduler that records the number of attempted scans for tether tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TETHER_FAKE_HOST_SCAN_SCHEDULER_H_
 #define CHROMEOS_ASH_COMPONENTS_TETHER_FAKE_HOST_SCAN_SCHEDULER_H_
 

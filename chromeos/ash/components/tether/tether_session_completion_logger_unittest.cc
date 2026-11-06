@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tether session completion logger unit tests
+// summary: Unit tests verifying that each session completion reason is recorded to the InstantTethering.SessionCompletionReason histogram.
+// ---
+
 #include "chromeos/ash/components/tether/tether_session_completion_logger.h"
 
 #include <memory>
