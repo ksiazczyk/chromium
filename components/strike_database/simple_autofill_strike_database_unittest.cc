@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Simple strike database unit tests
+// summary: Unit tests covering adding and removing strikes, feature blocking at the strike limit, and cleanup when too many entries exist.
+// ---
+
 #include <memory>
 #include <string>
 

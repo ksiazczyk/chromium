@@ -1,3 +1,9 @@
+---
+type: readme
+title: Strike database
+summary: Explains per-profile, persistent strike counting, the address autofill use case, and how to define and use a strike database via traits.
+---
+
 # Strike database
 
 Strike databases are a way of counting "strikes" in a per-profile manner that

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Strike database feature flag declarations
+// summary: Declares the strike database feature flags exported from the strike_database component.
+// ---
+
 #ifndef COMPONENTS_STRIKE_DATABASE_STRIKE_DATABASE_FEATURES_H_
 #define COMPONENTS_STRIKE_DATABASE_STRIKE_DATABASE_FEATURES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Strike database base interface
+// summary: Defines the StrikeDatabaseBase interface for adding, querying and clearing strikes independently of the underlying storage.
+// ---
+
 #ifndef COMPONENTS_STRIKE_DATABASE_STRIKE_DATABASE_BASE_H_
 #define COMPONENTS_STRIKE_DATABASE_STRIKE_DATABASE_BASE_H_
 

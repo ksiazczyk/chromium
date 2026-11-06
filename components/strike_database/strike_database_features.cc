@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Strike system disable feature flag
+// summary: Defines the DisableAutofillStrikeSystem feature flag that lets debugging and testing runs bypass strike-based feature blocking.
+// ---
+
 #include "components/strike_database/strike_database_features.h"
 
 #include "base/feature_list.h"

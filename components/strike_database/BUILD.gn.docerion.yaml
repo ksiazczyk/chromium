@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build configuration for the strike database
+summary: GN build file defining the strike_database library, features component, proto library, test support and unit test targets with their dependencies.

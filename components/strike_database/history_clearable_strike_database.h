@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History clearable strike database
+// summary: Header defining a templated strike database whose strikes are cleared by origin and time range when the user deletes browsing history.
+// ---
+
 #ifndef COMPONENTS_STRIKE_DATABASE_HISTORY_CLEARABLE_STRIKE_DATABASE_H_
 #define COMPONENTS_STRIKE_DATABASE_HISTORY_CLEARABLE_STRIKE_DATABASE_H_
 

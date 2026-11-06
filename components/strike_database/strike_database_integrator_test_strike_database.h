@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test strike database integrator declaration
+// summary: Declares a mock per-project strike integrator with configurable limits, expiry and delays for testing the integrator base.
+// ---
+
 #ifndef COMPONENTS_STRIKE_DATABASE_STRIKE_DATABASE_INTEGRATOR_TEST_STRIKE_DATABASE_H_
 #define COMPONENTS_STRIKE_DATABASE_STRIKE_DATABASE_INTEGRATOR_TEST_STRIKE_DATABASE_H_
 

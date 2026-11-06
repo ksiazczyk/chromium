@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Strike database implementation
+// summary: Implements the persistent StrikeDatabase that stores per-key strike counts in a LevelDB proto database with an in-memory cache.
+// ---
+
 #include "components/strike_database/strike_database.h"
 
 #include <algorithm>

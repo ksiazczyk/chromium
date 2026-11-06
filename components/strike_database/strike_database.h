@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Strike database class declaration
+// summary: Declares the StrikeDatabase keyed service that manages persistent strike data for Autofill projects via a proto database.
+// ---
+
 #ifndef COMPONENTS_STRIKE_DATABASE_STRIKE_DATABASE_H_
 #define COMPONENTS_STRIKE_DATABASE_STRIKE_DATABASE_H_
 
