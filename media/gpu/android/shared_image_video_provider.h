@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedImageVideoProvider interface
+// summary: Defines the SharedImageVideoProvider interface for requesting shared images that back Android video frames.
+// ---
+
 #ifndef MEDIA_GPU_ANDROID_SHARED_IMAGE_VIDEO_PROVIDER_H_
 #define MEDIA_GPU_ANDROID_SHARED_IMAGE_VIDEO_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CodecWrapper implementation
+// summary: Implements CodecWrapper, managing MediaCodec state, input buffer queuing, output dequeuing and surface changes for Android video decoding.
+// ---
+
 #include "media/gpu/android/codec_wrapper.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: H264 rate controller unit tests
+// summary: Unit tests that verify H264RateController QP estimation and HRD buffer behavior across predefined frame sequences and temporal layer configurations.
+// ---
+
 #include "media/gpu/h264_rate_controller.h"
 
 #include <array>

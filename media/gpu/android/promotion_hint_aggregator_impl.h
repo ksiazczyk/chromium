@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PromotionHintAggregatorImpl class header
+// summary: Declares PromotionHintAggregatorImpl, which tracks promotable frame counts and timing to decide when overlay promotion is safe.
+// ---
+
 #ifndef MEDIA_GPU_ANDROID_PROMOTION_HINT_AGGREGATOR_IMPL_H_
 #define MEDIA_GPU_ANDROID_PROMOTION_HINT_AGGREGATOR_IMPL_H_
 

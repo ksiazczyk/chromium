@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: H265 decoder libFuzzer harness with fake accelerator
+// summary: Fuzzes the H265 decoder by feeding arbitrary bitstreams to a decoder configured with a fake accelerator that accepts all submissions.
+// ---
+
 #include "media/gpu/h265_decoder.h"
 
 #include <stddef.h>

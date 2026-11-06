@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AV1Picture class declaration
+// summary: Declares AV1Picture, which carries the parsed AV1 frame header and owns the decoded frame for accelerated decoding.
+// ---
+
 #ifndef MEDIA_GPU_AV1_PICTURE_H_
 #define MEDIA_GPU_AV1_PICTURE_H_
 

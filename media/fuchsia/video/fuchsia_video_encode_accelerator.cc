@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia video encode accelerator implementation
+// summary: Implements FuchsiaVideoEncodeAccelerator, encoding H.264 video through Fuchsia stream processors with sysmem buffer management.
+// ---
+
 #include "media/fuchsia/video/fuchsia_video_encode_accelerator.h"
 
 #include <fuchsia/media/cpp/fidl.h>

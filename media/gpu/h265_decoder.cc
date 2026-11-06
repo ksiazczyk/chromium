@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: H265 decoder implementation
+// summary: Implements the H265Decoder accelerated video decoder, including bit depth and profile validation and the H265Accelerator interface for hardware offload.
+// ---
+
 #include "media/gpu/h265_decoder.h"
 
 #include <algorithm>

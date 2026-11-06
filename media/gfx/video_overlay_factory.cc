@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoOverlayFactory implementation
+// summary: Creates video hole overlay frames for a given size, falling back to a small black frame when the size is empty.
+// ---
+
 #include "media/gfx/video_overlay_factory.h"
 
 #include "base/logging.h"

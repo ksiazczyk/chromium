@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for FuchsiaVideoDecoder
+// summary: Contains unit tests for the Fuchsia video decoder using test raster context provider and codec provider stubs.
+// ---
+
 #include "media/fuchsia/video/fuchsia_video_decoder.h"
 
 #include <fuchsia/mediacodec/cpp/fidl.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU video encode accelerator factory implementation
+// summary: Creates platform-specific video encode accelerators for Windows, Mac, Android, Linux, ChromeOS and Fuchsia.
+// ---
+
 #include "media/gpu/gpu_video_encode_accelerator_factory.h"
 
 #if BUILDFLAG(IS_WIN)

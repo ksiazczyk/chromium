@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock promotion hint aggregator
+// summary: Declares a PromotionHintAggregator mock whose safe-to-promote result can be toggled for tests.
+// ---
+
 #ifndef MEDIA_GPU_ANDROID_MOCK_PROMOTION_HINT_AGGREGATOR_H_
 #define MEDIA_GPU_ANDROID_MOCK_PROMOTION_HINT_AGGREGATOR_H_
 

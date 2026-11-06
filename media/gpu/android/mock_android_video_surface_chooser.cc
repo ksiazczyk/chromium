@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock AndroidVideoSurfaceChooser
+// summary: Provides a gmock implementation of AndroidVideoSurfaceChooser that tests can drive by supplying overlays or texture owners and inspecting state updates.
+// ---
+
 #include "media/gpu/android/mock_android_video_surface_chooser.h"
 
 namespace media {

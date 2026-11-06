@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for media/fuchsia
+summary: Declares the common Fuchsia metadata mixins that apply to the media/fuchsia directory.

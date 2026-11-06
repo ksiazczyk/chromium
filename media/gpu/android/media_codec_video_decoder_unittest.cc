@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaCodecVideoDecoder unit tests
+// summary: Unit tests for MediaCodecVideoDecoder using mock surface chooser, fake codec allocator, and mock video frame factory to exercise initialization and decoding behavior.
+// ---
+
 #include "media/gpu/android/media_codec_video_decoder.h"
 
 #include "base/android/android_info.h"

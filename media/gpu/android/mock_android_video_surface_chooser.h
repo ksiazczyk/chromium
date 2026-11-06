@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Android video surface chooser
+// summary: GMock implementation of AndroidVideoSurfaceChooser that lets tests choose a surface via ProvideOverlay() and ProvideTextureOwner().
+// ---
+
 #ifndef MEDIA_GPU_ANDROID_MOCK_ANDROID_VIDEO_SURFACE_CHOOSER_H_
 #define MEDIA_GPU_ANDROID_MOCK_ANDROID_VIDEO_SURFACE_CHOOSER_H_
 

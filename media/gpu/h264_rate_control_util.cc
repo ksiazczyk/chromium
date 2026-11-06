@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H264 rate control utilities
+// summary: Implements QP and quantization step conversions plus clamped timestamp and interpolation helpers for H.264 rate control.
+// ---
+
 #include "media/gpu/h264_rate_control_util.h"
 
 #include <algorithm>

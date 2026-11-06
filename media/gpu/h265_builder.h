@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H265 bitstream builder interface
+// summary: Declares functions for building packed H.265 VPS, SPS, PPS, and HDR SEI NALUs into an Annex-B bitstream builder.
+// ---
+
 #ifndef MEDIA_GPU_H265_BUILDER_H_
 #define MEDIA_GPU_H265_BUILDER_H_
 

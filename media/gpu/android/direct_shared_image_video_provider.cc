@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DirectSharedImageVideoProvider implementation
+// summary: Implements DirectSharedImageVideoProvider, which hops to the GPU thread to create shared images for Android video frames on demand.
+// ---
+
 #include "media/gpu/android/direct_shared_image_video_provider.h"
 
 #include <memory>

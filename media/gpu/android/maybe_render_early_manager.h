@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MaybeRenderEarlyManager interface
+// summary: Declares the MaybeRenderEarlyManager interface and the internal MaybeRenderEarly helper that advance codec images to back and front buffers so codec buffers can be released early.
+// ---
+
 #ifndef MEDIA_GPU_ANDROID_MAYBE_RENDER_EARLY_MANAGER_H_
 #define MEDIA_GPU_ANDROID_MAYBE_RENDER_EARLY_MANAGER_H_
 

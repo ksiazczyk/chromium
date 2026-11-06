@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock mappable shared image video frame pool header
+// summary: Declares MockMappableSharedImageVideoFramePool, a gmock-based test double of the frame pool that queues frame-ready callbacks.
+// ---
+
 #ifndef MEDIA_GFX_MOCK_MAPPABLE_SHARED_IMAGE_VIDEO_FRAME_POOL_H_
 #define MEDIA_GFX_MOCK_MAPPABLE_SHARED_IMAGE_VIDEO_FRAME_POOL_H_
 

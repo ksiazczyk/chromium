@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VP8 reference frame vector implementation
+// summary: Implements VP8 reference frame tracking, refreshing the Last, Golden, and AltRef slots from frame headers based on libvpx encoder logic.
+// ---
+
 #include "media/gpu/vp8_reference_frame_vector.h"
 
 #include "media/gpu/vp8_picture.h"

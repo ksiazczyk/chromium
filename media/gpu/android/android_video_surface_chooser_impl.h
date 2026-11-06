@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android video surface chooser implementation header
+// summary: Declares AndroidVideoSurfaceChooserImpl with overlay callbacks, state tracking, and overlay failure handling.
+// ---
+
 #ifndef MEDIA_GPU_ANDROID_ANDROID_VIDEO_SURFACE_CHOOSER_IMPL_H_
 #define MEDIA_GPU_ANDROID_ANDROID_VIDEO_SURFACE_CHOOSER_IMPL_H_
 

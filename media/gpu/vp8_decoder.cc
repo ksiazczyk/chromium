@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VP8 decoder implementation
+// summary: Implements the VP8 accelerated decoder, handling stream parsing, reference frames, resolution changes, and decode output via its accelerator.
+// ---
+
 #include "media/gpu/vp8_decoder.h"
 
 #include "base/logging.h"

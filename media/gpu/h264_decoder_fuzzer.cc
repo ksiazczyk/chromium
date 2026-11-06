@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: H264 decoder fuzzer harness
+// summary: LibFuzzer entry point that feeds arbitrary data to H264Decoder with a fake accelerator to uncover decoding crashes.
+// ---
+
 #include "media/gpu/h264_decoder.h"
 
 #include <stddef.h>

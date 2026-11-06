@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VP9Decoder implementation
+// summary: Implements the VP9 accelerated video decoder, including profile, bit depth, chroma sampling, and spatial layer handling plus accelerator dispatch.
+// ---
+
 #include "media/gpu/vp9_decoder.h"
 
 #include <memory>

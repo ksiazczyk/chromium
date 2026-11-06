@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VP9Picture class declaration
+// summary: Declares the VP9Picture class, a CodecPicture holding the VP9 frame header, optional encoding metadata, and virtual duplication support.
+// ---
+
 #ifndef MEDIA_GPU_VP9_PICTURE_H_
 #define MEDIA_GPU_VP9_PICTURE_H_
 

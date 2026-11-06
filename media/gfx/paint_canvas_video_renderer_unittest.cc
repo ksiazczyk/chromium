@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Paint canvas video renderer unit tests
+// summary: Unit tests for PaintCanvasVideoRenderer covering painting, copying, and pixel conversion of video frames onto paint canvases across formats and GPU contexts.
+// ---
+
 #include "media/gfx/paint_canvas_video_renderer.h"
 
 #include <GLES3/gl3.h>

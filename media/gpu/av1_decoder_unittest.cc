@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AV1Decoder unit tests
+// summary: Unit tests for AV1Decoder verifying sequence and frame header parsing, picture handling, and accelerator interactions using libgav1 and gtest.
+// ---
+
 #include "media/gpu/av1_decoder.h"
 
 #include <string.h>

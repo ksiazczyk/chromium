@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecryptingSysmemBufferStream implementation
+// summary: Implements a SysmemBufferStream that decrypts queued decoder buffers through a Decryptor before passing them to the passthrough stream and sysmem buffers.
+// ---
+
 #include "media/fuchsia/common/decrypting_sysmem_buffer_stream.h"
 
 #include "media/base/callback_registry.h"

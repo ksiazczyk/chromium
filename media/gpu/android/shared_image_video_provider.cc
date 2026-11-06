@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedImageVideoProvider implementation
+// summary: Implements the ImageSpec and ImageRecord structures of the shared image video provider, including their equality operators.
+// ---
+
 #include "media/gpu/android/shared_image_video_provider.h"
 
 namespace media {

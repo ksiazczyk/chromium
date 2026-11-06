@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DirectSharedImageVideoProvider header
+// summary: Declares DirectSharedImageVideoProvider and GpuSharedImageVideoFactory, which create shared image backings for Android video on the GPU thread.
+// ---
+
 #ifndef MEDIA_GPU_ANDROID_DIRECT_SHARED_IMAGE_VIDEO_PROVIDER_H_
 #define MEDIA_GPU_ANDROID_DIRECT_SHARED_IMAGE_VIDEO_PROVIDER_H_
 

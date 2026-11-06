@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H264 rate controller
+// summary: Declares the H264RateController class and settings that implement QP-based rate control for H.264 encoding with up to two temporal layers and HRD buffers.
+// ---
+
 #ifndef MEDIA_GPU_H264_RATE_CONTROLLER_H_
 #define MEDIA_GPU_H264_RATE_CONTROLLER_H_
 

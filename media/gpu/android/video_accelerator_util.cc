@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video accelerator utility implementation
+// summary: Implements cached MediaCodec encoder and decoder information retrieved from the Java MediaCodecList, including profiles, resolutions, rate control, and capability details.
+// ---
+
 #include "media/gpu/android/video_accelerator_util.h"
 
 #include "base/android/jni_string.h"

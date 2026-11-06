@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pooled shared image video provider
+// summary: Implements PooledSharedImageVideoProvider, which pools shared image video records on Android and reuses them for matching image requests.
+// ---
+
 #include "media/gpu/android/pooled_shared_image_video_provider.h"
 
 #include "base/memory/ptr_util.h"

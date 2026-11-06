@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SysmemBufferStream interface
+// summary: Defines the abstract interface for media stream processors that take DecoderBuffer streams, process them and write the output to sysmem buffers.
+// ---
+
 #ifndef MEDIA_FUCHSIA_COMMON_SYSMEM_BUFFER_STREAM_H_
 #define MEDIA_FUCHSIA_COMMON_SYSMEM_BUFFER_STREAM_H_
 

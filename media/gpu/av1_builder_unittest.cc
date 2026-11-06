@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AV1 bitstream builder unit tests
+// summary: Tests AV1BitstreamBuilder output for sequence headers, frame headers, and HDR metadata OBUs.
+// ---
+
 #include "media/gpu/av1_builder.h"
 
 #include <new>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H.264 bitstream builder declaration
+// summary: Declares functions to pack H.264 SPS, PPS, SEI and prefix NALUs into Annex B bitstreams.
+// ---
+
 #ifndef MEDIA_GPU_H264_BUILDER_H_
 #define MEDIA_GPU_H264_BUILDER_H_
 

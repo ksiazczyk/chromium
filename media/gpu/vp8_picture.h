@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VP8Picture class declaration
+// summary: Declares the VP8Picture class, a CodecPicture storing the VP8 frame header and optional metadata for encoding, with virtual downcast accessors.
+// ---
+
 #ifndef MEDIA_GPU_VP8_PICTURE_H_
 #define MEDIA_GPU_VP8_PICTURE_H_
 

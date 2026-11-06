@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU video decode accelerator factory declaration
+// summary: Declares a factory class that creates video decode accelerator instances for the GPU process.
+// ---
+
 #ifndef MEDIA_GPU_GPU_VIDEO_DECODE_ACCELERATOR_FACTORY_H_
 #define MEDIA_GPU_GPU_VIDEO_DECODE_ACCELERATOR_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock shared image video provider for tests
+// summary: GMock implementation of SharedImageVideoProvider that records image requests and hands out fake image records for unit tests.
+// ---
+
 #ifndef MEDIA_GPU_ANDROID_MOCK_SHARED_IMAGE_VIDEO_PROVIDER_H_
 #define MEDIA_GPU_ANDROID_MOCK_SHARED_IMAGE_VIDEO_PROVIDER_H_
 

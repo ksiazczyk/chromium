@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NDK video encode accelerator
+// summary: Implements NdkVideoEncodeAccelerator, hardware video encoding on Android via NDK MediaCodec, including temporal SVC layering and latency metrics.
+// ---
+
 #include "media/gpu/android/ndk_video_encode_accelerator.h"
 
 #include <android/hardware_buffer.h>

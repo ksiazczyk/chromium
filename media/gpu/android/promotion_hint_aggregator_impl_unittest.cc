@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PromotionHintAggregatorImpl unit tests
+// summary: Unit tests verifying promotion hint aggregation timing and frame-count rules using a simple test tick clock.
+// ---
+
 #include "media/gpu/android/promotion_hint_aggregator_impl.h"
 
 #include <stdint.h>

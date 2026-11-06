@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HRD buffer implementation
+// summary: Implements the hypothetical reference decoder leaky-bucket buffer model, including fullness tracking and gradual buffer shrinking.
+// ---
+
 #include "media/gpu/hrd_buffer.h"
 
 #include "base/check.h"

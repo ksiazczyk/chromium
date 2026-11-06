@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia decoder factory header
+// summary: Declares the FuchsiaDecoderFactory class that creates Fuchsia video decoders using a Mojo media codec provider.
+// ---
+
 #ifndef MEDIA_FUCHSIA_VIDEO_FUCHSIA_DECODER_FACTORY_H_
 #define MEDIA_FUCHSIA_VIDEO_FUCHSIA_DECODER_FACTORY_H_
 

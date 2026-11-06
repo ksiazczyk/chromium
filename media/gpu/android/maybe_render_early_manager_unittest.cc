@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MaybeRenderEarly unit tests
+// summary: Unit tests for the internal MaybeRenderEarly logic using mock images to verify front-buffer and back-buffer rendering, including skipping invalidated images and overlay handling.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "media/gpu/android/video_frame_factory_impl.h"
 

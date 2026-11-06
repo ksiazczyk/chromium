@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for media/fuchsia
+summary: Lists the owners responsible for reviewing changes to the media/fuchsia directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CodecImage class declaration
+// summary: Declares CodecImage, a StreamTextureSharedImageInterface that renders MediaCodec buffers to a TextureOwner or overlay for drawing.
+// ---
+
 #ifndef MEDIA_GPU_ANDROID_CODEC_IMAGE_H_
 #define MEDIA_GPU_ANDROID_CODEC_IMAGE_H_
 

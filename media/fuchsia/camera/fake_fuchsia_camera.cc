@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeCameraStream implementation
+// summary: Implements FakeCameraStream, a test fake for the fuchsia.camera3 Stream protocol that fills, produces and validates test video frames over sysmem buffers.
+// ---
+
 #include "media/fuchsia/camera/fake_fuchsia_camera.h"
 
 #include <fuchsia/sysmem/cpp/fidl.h>

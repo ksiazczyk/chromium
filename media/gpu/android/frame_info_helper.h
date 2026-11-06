@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameInfoHelper interface
+// summary: Declares the FrameInfoHelper interface that fetches and caches frame info, including Vulkan YCbCrInfo, for codec output buffers and reports whether frame production is stalled.
+// ---
+
 #ifndef MEDIA_GPU_ANDROID_FRAME_INFO_HELPER_H_
 #define MEDIA_GPU_ANDROID_FRAME_INFO_HELPER_H_
 

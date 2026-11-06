@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame size estimator implementation
+// summary: Implements encoded frame size estimation and inverse QP estimation for H.264 rate control using Q step conversions and moving average statistics.
+// ---
+
 #include "media/gpu/frame_size_estimator.h"
 
 #include <cmath>

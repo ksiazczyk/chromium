@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PassthroughSysmemBufferStream implementation
+// summary: Implements a SysmemBufferStream that allocates a writable sysmem buffer collection and writes decoder buffers to it without transformation.
+// ---
+
 #include "media/fuchsia/common/passthrough_sysmem_buffer_stream.h"
 
 #include "media/base/decoder_buffer.h"

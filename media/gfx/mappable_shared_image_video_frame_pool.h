@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mappable shared image video frame pool interface
+// summary: Declares the MappableSharedImageVideoFramePool interface for transforming software VideoFrames into texture-backed frames, with copy abort and testing hooks.
+// ---
+
 #ifndef MEDIA_GFX_MAPPABLE_SHARED_IMAGE_VIDEO_FRAME_POOL_H_
 #define MEDIA_GFX_MAPPABLE_SHARED_IMAGE_VIDEO_FRAME_POOL_H_
 

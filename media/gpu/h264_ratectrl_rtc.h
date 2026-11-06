@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H264 RTC rate control interface
+// summary: Declares the H264RateCtrlRTC class used with VideoRateControlWrapperInternal, providing QP computation, frame drop decisions, and encode feedback for real-time encoding.
+// ---
+
 #ifndef MEDIA_GPU_H264_RATECTRL_RTC_H_
 #define MEDIA_GPU_H264_RATECTRL_RTC_H_
 

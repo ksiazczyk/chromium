@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecryptingSysmemBufferStream class declaration
+// summary: Declares a SysmemBufferStream that decrypts the stream before copying the data to sysmem buffers, with state handling for missing decryption keys.
+// ---
+
 #ifndef MEDIA_FUCHSIA_COMMON_DECRYPTING_SYSMEM_BUFFER_STREAM_H_
 #define MEDIA_FUCHSIA_COMMON_DECRYPTING_SYSMEM_BUFFER_STREAM_H_
 

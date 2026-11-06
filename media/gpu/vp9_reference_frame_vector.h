@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VP9 reference frame vector header
+// summary: Declares Vp9ReferenceFrameVector, a thread-affine helper that stores and refreshes the VP9 reference frame slots holding VP9Picture pointers for media/gpu decoders.
+// ---
+
 #ifndef MEDIA_GPU_VP9_REFERENCE_FRAME_VECTOR_H_
 #define MEDIA_GPU_VP9_REFERENCE_FRAME_VECTOR_H_
 

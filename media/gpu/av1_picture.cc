@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AV1Picture implementation
+// summary: Implements AV1Picture duplication, copying the frame header and common fields to support the AV1 show_existing_frame feature.
+// ---
+
 #include "media/gpu/av1_picture.h"
 
 #include <memory>

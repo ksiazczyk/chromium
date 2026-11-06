@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SVC layers implementation
+// summary: Implements temporal and spatial layer reference and update patterns for SVC video encoding, including bitrate validation.
+// ---
+
 
 #include "media/gpu/svc_layers.h"
 

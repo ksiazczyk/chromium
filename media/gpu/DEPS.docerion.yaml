@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for //media/gpu
+summary: Restricts which headers and directories code in media/gpu is allowed to include.

@@ -1,3 +1,11 @@
+---
+type: readme
+title: Overview of //media/gpu
+summary: Explains the GPU-process media code, common decoder classes, IPC glue, and platform-specific directories.
+relations:
+  - documents /media/gpu/accelerated_video_decoder.h
+---
+
 # //media/gpu
 
 This directory contains `//media` code that runs in the GPU process; this

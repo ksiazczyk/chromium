@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia video decoder implementation
+// summary: Implements FuchsiaVideoDecoder, decoding video through Fuchsia stream processors and sysmem buffers with shared image output.
+// ---
+
 #include "media/fuchsia/video/fuchsia_video_decoder.h"
 
 #include <fuchsia/sysmem/cpp/fidl.h>

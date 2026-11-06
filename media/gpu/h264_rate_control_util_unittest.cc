@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: H264 rate control utility tests
+// summary: Unit tests verifying QP conversion, timestamp clamping and interpolation helpers in the h264_rate_control_util namespace.
+// ---
+
 #include "media/gpu/h264_rate_control_util.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

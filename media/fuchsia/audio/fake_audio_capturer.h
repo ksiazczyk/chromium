@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Fuchsia AudioCapturer and factory declarations
+// summary: Declares FakeAudioCapturer and FakeAudioCapturerFactory, fake Fuchsia AudioCapturer implementations used in tests.
+// ---
+
 #ifndef MEDIA_FUCHSIA_AUDIO_FAKE_AUDIO_CAPTURER_H_
 #define MEDIA_FUCHSIA_AUDIO_FAKE_AUDIO_CAPTURER_H_
 

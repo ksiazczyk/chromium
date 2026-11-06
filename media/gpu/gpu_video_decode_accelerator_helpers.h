@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU video decode accelerator helpers declaration
+// summary: Declares the conversion from video decode accelerator supported profiles to supported decoder configs.
+// ---
+
 #ifndef MEDIA_GPU_GPU_VIDEO_DECODE_ACCELERATOR_HELPERS_H_
 #define MEDIA_GPU_GPU_VIDEO_DECODE_ACCELERATOR_HELPERS_H_
 

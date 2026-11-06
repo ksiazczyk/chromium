@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoFrameMapper interface for mapping video frames
+// summary: Declares the VideoFrameMapper interface for mapping video frames into memory so their contents can be accessed directly.
+// ---
+
 #ifndef MEDIA_GPU_VIDEO_FRAME_MAPPER_H_
 #define MEDIA_GPU_VIDEO_FRAME_MAPPER_H_
 

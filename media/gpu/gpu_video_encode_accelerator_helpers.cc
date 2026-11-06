@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU video encode accelerator helpers implementation
+// summary: Implements bitrate allocation, bitstream buffer sizing and encoding latency metrics for video encoders.
+// ---
+
 #include "media/gpu/gpu_video_encode_accelerator_helpers.h"
 
 #include <algorithm>

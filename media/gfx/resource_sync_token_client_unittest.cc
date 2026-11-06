@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Resource sync token client unit tests
+// summary: Unit tests for ResourceSyncTokenClient verifying duplicate, matching, and new sync token handling without triggering extra GPU work.
+// ---
+
 #include "media/gfx/resource_sync_token_client.h"
 
 #include <vector>

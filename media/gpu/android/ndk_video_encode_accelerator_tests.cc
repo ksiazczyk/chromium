@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NDK video encode accelerator tests
+// summary: Parameterized tests that encode video with NdkVideoEncodeAccelerator and validate the resulting H.264, VP9, or AV1 bitstreams.
+// ---
+
 #include "media/gpu/android/ndk_video_encode_accelerator.h"
 
 #include <android/hardware_buffer.h>

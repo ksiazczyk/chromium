@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaCodecVideoDecoder interface
+// summary: Declares MediaCodecVideoDecoder, an Android VideoDecoder that delegates to MediaCodec with lazy initialization, pending-decode queueing, and overlay/DRM support.
+// ---
+
 #ifndef MEDIA_GPU_ANDROID_MEDIA_CODEC_VIDEO_DECODER_H_
 #define MEDIA_GPU_ANDROID_MEDIA_CODEC_VIDEO_DECODER_H_
 

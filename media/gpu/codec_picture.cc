@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CodecPicture implementation
+// summary: Implements CodecPicture methods for setting dynamic HDR metadata from bitstreams and decoder buffers and copying common picture fields.
+// ---
+
 #include "media/gpu/codec_picture.h"
 
 #include "media/base/decoder_buffer.h"

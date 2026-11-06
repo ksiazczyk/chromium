@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock shared image video provider implementation
+// summary: Implements constructors for MockSharedImageVideoProvider and its RequestImageArgs helper that stores a callback and image spec.
+// ---
+
 #include "media/gpu/android/mock_shared_image_video_provider.h"
 
 namespace media {

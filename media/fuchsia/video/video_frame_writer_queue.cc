@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoFrameWriterQueue implementation
+// summary: Implements a queue that copies video frames into Fuchsia VMO buffers, computing sysmem stride and plane sizes for the video encoder path.
+// ---
+
 #include "media/fuchsia/video/video_frame_writer_queue.h"
 
 #include <algorithm>

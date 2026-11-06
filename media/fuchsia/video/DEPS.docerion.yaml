@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Fuchsia video
+summary: Specifies the header includes allowed in media/fuchsia/video, covering viz, mojo, and blink headers.

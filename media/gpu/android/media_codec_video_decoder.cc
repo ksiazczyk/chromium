@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaCodecVideoDecoder implementation
+// summary: Implements the Android video decoder that delegates to MediaCodec, including supported-config generation, two-stage lazy initialization, surface and overlay handling, and decode pumping.
+// ---
+
 #include "media/gpu/android/media_codec_video_decoder.h"
 
 #include <memory>

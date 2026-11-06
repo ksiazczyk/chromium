@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: H265 bitstream builder implementation
+// summary: Implements builders that pack H.265 profile/tier/level, VPS, SPS, PPS, and HDR SEI messages into Annex-B bitstreams.
+// ---
+
 #include "media/gpu/h265_builder.h"
 #include "media/filters/h26x_annex_b_bitstream_builder.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video accelerator utility header
+// summary: Declares MediaCodec encoder and decoder info structs and process-wide cache accessors for supported profiles, secure playback, and low-latency capabilities.
+// ---
+
 #ifndef MEDIA_GPU_ANDROID_VIDEO_ACCELERATOR_UTIL_H_
 #define MEDIA_GPU_ANDROID_VIDEO_ACCELERATOR_UTIL_H_
 

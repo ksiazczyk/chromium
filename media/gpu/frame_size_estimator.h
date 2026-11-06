@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame size estimator declaration
+// summary: Declares an estimator that predicts encoded frame sizes from QP-based statistics and can derive a QP for a target encoded frame size.
+// ---
+
 #ifndef MEDIA_GPU_FRAME_SIZE_ESTIMATOR_H_
 #define MEDIA_GPU_FRAME_SIZE_ESTIMATOR_H_
 

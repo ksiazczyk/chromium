@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VmoBuffer class interface for Fuchsia sysmem buffers
+// summary: Declares the VmoBuffer class, which wraps sysmem VMO buffers with methods for initialization, read and write access, cache flushing and VMO duplication.
+// ---
+
 #ifndef MEDIA_FUCHSIA_COMMON_VMO_BUFFER_H_
 #define MEDIA_FUCHSIA_COMMON_VMO_BUFFER_H_
 

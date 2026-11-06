@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for Fuchsia video
+summary: Defines the video and unittests source sets with their sources, visibility, and dependencies for the Fuchsia media video code.

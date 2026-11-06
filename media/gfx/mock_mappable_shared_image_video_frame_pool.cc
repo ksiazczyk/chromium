@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock mappable shared image video frame pool implementation
+// summary: Implements the mock frame pool that records frame-ready callbacks instead of performing real copies, for use in tests.
+// ---
+
 #include "media/gfx/mock_mappable_shared_image_video_frame_pool.h"
 
 #include "base/functional/bind.h"

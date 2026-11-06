@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Exponential moving average filter declaration
+// summary: Declares a time-constant exponential moving average filter that tracks mean and mean square with an effective window that grows to a maximum size.
+// ---
+
 #ifndef MEDIA_GPU_EXPONENTIAL_MOVING_AVERAGE_H_
 #define MEDIA_GPU_EXPONENTIAL_MOVING_AVERAGE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VP9 decoder libFuzzer harness
+// summary: libFuzzer entry point that feeds arbitrary input bytes to a VP9Decoder using a fake accelerator to exercise and stress the decoder.
+// ---
+
 #include "media/gpu/vp9_decoder.h"
 
 #include <stddef.h>

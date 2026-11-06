@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoFrameSharedImageCache implementation
+// summary: Implements a cache that creates or reuses GPU shared images for video frames, releasing stale images after a delay and tracking sync tokens.
+// ---
+
 #include "media/gfx/video_frame_shared_image_cache.h"
 
 #include "components/viz/common/gpu/raster_context_provider.h"

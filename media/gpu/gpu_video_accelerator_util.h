@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU video accelerator utility declaration
+// summary: Declares utility functions for converting video accelerator profiles and capabilities between the gpu and media namespaces and merging unique profiles.
+// ---
+
 #ifndef MEDIA_GPU_GPU_VIDEO_ACCELERATOR_UTIL_H_
 #define MEDIA_GPU_GPU_VIDEO_ACCELERATOR_UTIL_H_
 

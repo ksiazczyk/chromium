@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CodecSurfaceBundle implementation
+// summary: Implements CodecSurfaceBundle, which bundles an Android overlay or TextureOwner surface with layout scheduling and back buffer cleanup.
+// ---
+
 #include "media/gpu/android/codec_surface_bundle.h"
 
 #include "base/functional/bind.h"

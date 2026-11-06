@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for //media/gpu
+summary: Lists the reviewers responsible for changes to media/gpu and its platform-specific subdirectories.

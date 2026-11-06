@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TexturePool unit tests
+// summary: Unit tests for TexturePool verifying texture release with sync tokens, teardown after context loss or stub destruction, and retention while waiting for a sync token.
+// ---
+
 #include "media/gpu/android/texture_pool.h"
 
 #include <memory>

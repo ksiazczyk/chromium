@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PromotionHintAggregator interface
+// summary: Defines the PromotionHintAggregator interface that combines compositor overlay promotion hints into a single promotability signal.
+// ---
+
 #ifndef MEDIA_GPU_ANDROID_PROMOTION_HINT_AGGREGATOR_H_
 #define MEDIA_GPU_ANDROID_PROMOTION_HINT_AGGREGATOR_H_
 

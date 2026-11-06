@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PassthroughSysmemBufferStream class declaration
+// summary: Declares a SysmemBufferStream that simply writes the incoming stream to sysmem buffers, using a VmoBufferWriterQueue for output processing.
+// ---
+
 #ifndef MEDIA_FUCHSIA_COMMON_PASSTHROUGH_SYSMEM_BUFFER_STREAM_H_
 #define MEDIA_FUCHSIA_COMMON_PASSTHROUGH_SYSMEM_BUFFER_STREAM_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media GPU export macro
+// summary: Defines the MEDIA_GPU_EXPORT symbol visibility macro for exporting media GPU functionality in component builds.
+// ---
+
 #ifndef MEDIA_GPU_MEDIA_GPU_EXPORT_H_
 #define MEDIA_GPU_MEDIA_GPU_EXPORT_H_
 

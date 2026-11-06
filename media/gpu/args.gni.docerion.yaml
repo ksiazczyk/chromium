@@ -1,0 +1,4 @@
+# Docerion header of args.gni.
+type: config
+title: Build arguments for //media/gpu
+summary: Declares GN flags controlling V4L2, VA-API, and protected media hardware acceleration support.

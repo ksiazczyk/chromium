@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android video surface chooser interface
+// summary: Defines the AndroidVideoSurfaceChooser interface that decides whether video playback uses an overlay or a TextureOwner surface.
+// ---
+
 #ifndef MEDIA_GPU_ANDROID_ANDROID_VIDEO_SURFACE_CHOOSER_H_
 #define MEDIA_GPU_ANDROID_ANDROID_VIDEO_SURFACE_CHOOSER_H_
 

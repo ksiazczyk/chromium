@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MaybeRenderEarlyManager implementation
+// summary: Implements the default MaybeRenderEarlyManager, hopping to the GPU thread to track codec images, manage image groups, and render images speculatively when they become unused.
+// ---
+
 #include "media/gpu/android/maybe_render_early_manager.h"
 
 #include <algorithm>

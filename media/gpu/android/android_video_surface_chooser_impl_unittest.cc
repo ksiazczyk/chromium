@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android video surface chooser unit tests
+// summary: Parameterized unit tests for AndroidVideoSurfaceChooserImpl covering overlay and TextureOwner choices across many state combinations.
+// ---
+
 #include "media/gpu/android/android_video_surface_chooser_impl.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PooledSharedImageVideoProvider unit tests
+// summary: Unit tests for PooledSharedImageVideoProvider covering image requests, pooling, and GPU-thread image returns using mock providers.
+// ---
+
 #include "media/gpu/android/pooled_shared_image_video_provider.h"
 
 #include <list>

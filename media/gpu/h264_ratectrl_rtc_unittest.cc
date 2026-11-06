@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: H264 RTC rate control unit tests
+// summary: Unit tests for the H264RateCtrlRTC class covering QP computation, frame dropping, and configuration updates with two temporal layers.
+// ---
+
 #include "media/gpu/h264_ratectrl_rtc.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

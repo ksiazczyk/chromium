@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoOverlayFactory class header
+// summary: Declares a factory that creates video overlay frames representing transparent holes for overlay compositing, identified by a plane ID.
+// ---
+
 #ifndef MEDIA_GFX_VIDEO_OVERLAY_FACTORY_H_
 #define MEDIA_GFX_VIDEO_OVERLAY_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AV1BitstreamBuilder class declaration
+// summary: Declares a helper class for writing packed AV1 bitstream data such as sequence and frame header OBUs.
+// ---
+
 #ifndef MEDIA_GPU_AV1_BUILDER_H_
 #define MEDIA_GPU_AV1_BUILDER_H_
 

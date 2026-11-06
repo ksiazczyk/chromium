@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VmoBuffer implementation for Fuchsia sysmem buffers
+// summary: Implements the VmoBuffer class that maps sysmem VMOs into process memory and provides read, write and cache-flush operations for media buffers on Fuchsia.
+// ---
+
 #include "media/fuchsia/common/vmo_buffer.h"
 
 #include <zircon/rights.h>

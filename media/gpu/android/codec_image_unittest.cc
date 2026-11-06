@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CodecImage unit tests
+// summary: Unit tests for CodecImage rendering to texture owners and overlays, using mock codec bridges, texture owners, and an EGL context.
+// ---
+
 #include "media/gpu/android/codec_image.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CodecImageGroup implementation
+// summary: Implements CodecImageGroup, which tracks CodecImages sharing a surface bundle and unbacks them when the overlay surface is destroyed.
+// ---
+
 #include "media/gpu/android/codec_image_group.h"
 
 #include "base/functional/bind.h"

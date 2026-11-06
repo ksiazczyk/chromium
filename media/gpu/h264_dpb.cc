@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H264 decoded picture buffer implementation
+// summary: Implements H264Picture and H264DPB operations for storing, marking and retrieving reference pictures.
+// ---
+
 #include "media/gpu/h264_dpb.h"
 
 #include <string.h>

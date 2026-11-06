@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Buffer validation unit tests
+// summary: Unit tests for VerifyGpuMemoryBufferHandle covering valid handles, plane counts, stride ordering, and plane size checks.
+// ---
+
 #include "media/gpu/buffer_validation.h"
 
 #include <fcntl.h>

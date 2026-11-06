@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VP8 decoder libFuzzer harness
+// summary: LibFuzzer harness that feeds arbitrary data to VP8Decoder with a fake accelerator to uncover crashes in the decode path.
+// ---
+
 #include "media/gpu/vp8_decoder.h"
 
 #include <stddef.h>

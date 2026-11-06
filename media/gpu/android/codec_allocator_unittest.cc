@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Codec allocator unit tests
+// summary: Unit tests for CodecAllocator verifying codec creation, release, and hung task runner fallback using mock MediaCodec bridges.
+// ---
+
 #include "media/gpu/android/codec_allocator.h"
 
 #include <stdint.h>

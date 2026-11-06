@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU video decode accelerator factory implementation
+// summary: Implements a factory that creates a V4L2 video decode accelerator on Linux and ChromeOS unless accelerated video decode is disabled.
+// ---
+
 #include "media/gpu/gpu_video_decode_accelerator_factory.h"
 
 #include <memory>
