@@ -1,0 +1,4 @@
+# Docerion header of Popup.html.
+type: test
+title: Empty popup page for the page action test
+summary: Empty HTML page referenced as the page action's default popup in the test extension manifest.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Favicon permission test script
+// summary: Runs browser tests asserting the favicon image loads at 16x16 pixels while the theme image fails to load without permission.
+// ---
+
 
 window.onload = function() {
   chrome.test.runTests([

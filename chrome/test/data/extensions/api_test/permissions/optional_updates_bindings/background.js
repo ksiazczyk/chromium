@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background page test for optional permission binding updates
+// summary: Requests the optional alarms permission and verifies that chrome.alarms bindings are updated in both the background page and the newly opened tab.
+// ---
+
 // window.html will turn around and call this when it loads.
 // |otherWindow| is its window object.
 function runTest(otherWindow) {

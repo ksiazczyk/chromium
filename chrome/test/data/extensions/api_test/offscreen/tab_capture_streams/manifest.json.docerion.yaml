@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the offscreen tabCapture test extension
+summary: Manifest V3 manifest declaring the test extension's service worker and the offscreen, tabCapture, and activeTab permissions.

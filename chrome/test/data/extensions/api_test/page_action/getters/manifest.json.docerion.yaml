@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the page action getters test extension
+summary: Manifest version 2 extension manifest declaring a page action with default title and popup plus tabs and host permissions for the API test.

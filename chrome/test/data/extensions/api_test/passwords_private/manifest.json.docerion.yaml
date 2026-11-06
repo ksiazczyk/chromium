@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the passwordsPrivate API test extension
+summary: Extension manifest declaring the passwordsPrivate permission for the API interface test extension.

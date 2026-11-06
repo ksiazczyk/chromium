@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification permissions test service worker
+// summary: Service worker that answers instrumentation messages from the background script with permission values read in the service worker context.
+// ---
+
 let messagePort = null;
 
 addEventListener('install', event => {

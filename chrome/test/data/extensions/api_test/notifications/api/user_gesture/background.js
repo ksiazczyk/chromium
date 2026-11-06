@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notifications user gesture test background script
+// summary: Background script for the chrome.notifications user gesture API test that creates a notification and reports click, button, and close events via chrome.test.
+// ---
+
 const redDot = 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUA' +
     'AAAFCAYAAACNbyblAAAAHElEQVQI12P4//8/w38GIAXDIBKE0DHxgljNBAAO' +
     '9TXL0Y4OHwAAAABJRU5ErkJggg==';

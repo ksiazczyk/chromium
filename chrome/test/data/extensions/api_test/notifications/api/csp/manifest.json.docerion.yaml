@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Notifications API CSP test extension manifest
+summary: Manifest for the chrome.notifications CSP test extension, registering background.js as a service worker and requesting the notifications permission.

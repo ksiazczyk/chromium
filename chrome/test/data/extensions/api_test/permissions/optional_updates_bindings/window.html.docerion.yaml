@@ -1,0 +1,4 @@
+# Docerion header of window.html.
+type: test
+title: Test window page that loads the window script
+summary: Minimal HTML page for the opened tab that loads the script which hands its window object to the background page test.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Notifications user gesture test extension manifest
+summary: Manifest for the chrome.notifications user gesture test app, declaring the notifications permission and loading the background script.

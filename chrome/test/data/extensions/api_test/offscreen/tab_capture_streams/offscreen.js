@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Offscreen document script handling tab capture commands
+// summary: Starts and stops tab capture with getUserMedia in the offscreen document and replies to capture and stop messages from the service worker.
+// ---
+
 let stream;
 // Starts capture with the given `streamId`.
 async function startCapture(streamId) {

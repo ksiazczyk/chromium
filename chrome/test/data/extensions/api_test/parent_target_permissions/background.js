@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Debugger parent target permissions test background script
+// summary: Runs the API test verifying that chrome.debugger.attach is rejected for a subframe target whose parent page restricts access.
+// ---
+
 const protocolVersion = '1.3';
 
 chrome.test.getConfig(config => chrome.test.runTests([

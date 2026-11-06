@@ -5,6 +5,12 @@
 // Calls to chrome.experimental.* functions should fail, since this extension
 // has not declared that permission.
 
+// ---docerion
+// type: test
+// title: Background script testing that experimental API calls fail
+// summary: Test extension background script asserting that chrome.experimental.history calls throw when the experimental permission is not declared.
+// ---
+
 chrome.test.runTests([
   function experimental() {
     chrome.tabs.query({active: true}, function(tabs) {

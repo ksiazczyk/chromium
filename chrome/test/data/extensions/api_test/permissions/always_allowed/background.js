@@ -5,6 +5,12 @@
 // This tests whether we have permission to use individual functions, despite
 // not having asked for any permissions in the manifest.
 
+// ---docerion
+// type: test
+// title: Always allowed permissions test background script
+// summary: Runs chrome.test cases that exercise the tabs API without any declared permissions, checking both allowed usage and negative cases.
+// ---
+
 chrome.test.runTests([
 
   // Test the tabs API.

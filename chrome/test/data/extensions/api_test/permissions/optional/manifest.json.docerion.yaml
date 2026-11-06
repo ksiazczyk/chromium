@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest of the optional permissions test extension
+summary: Extension manifest declaring required and optional permissions, host permissions, a background service worker and a content script for the optional permissions API test.

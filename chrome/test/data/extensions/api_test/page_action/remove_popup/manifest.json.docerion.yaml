@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the remove_popup test extension
+summary: Manifest defining the test extension with a background script, tabs permission, and a page action that has a default popup.

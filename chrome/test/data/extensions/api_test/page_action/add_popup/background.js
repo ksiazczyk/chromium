@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script showing the page action and setting a popup
+// summary: Extension background script that shows the page action for the active tab and sets a popup on the first click.
+// ---
+
 chrome.tabs.query({active: true}, function(tabs) {
   chrome.pageAction.show(tabs[0].id);
 

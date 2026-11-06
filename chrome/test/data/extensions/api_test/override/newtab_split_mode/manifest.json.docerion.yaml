@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for new tab override test with incognito split mode
+summary: Extension test manifest that overrides the browser new tab page with a test page and runs in incognito split mode.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the add host access request permissions API test
+summary: Manifest for a test extension that exercises chrome.permissions.addHostAccessRequest with a background service worker and host permissions.

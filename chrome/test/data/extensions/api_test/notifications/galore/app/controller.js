@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notifications Galore test app controller logic
+// summary: Implements the recorder and playback state machine that records, stores and replays notification create and update actions for the Notifications Galore test app.
+// ---
+
 const STOPPED = 'Stopped';
 const RECORDING = 'Recording';
 const PAUSED_RECORDING = 'Recording Paused';

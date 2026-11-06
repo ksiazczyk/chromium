@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the offscreen document management test extension
+summary: Manifest version 3 fixture granting the offscreen permission and registering background.js as the extension service worker.

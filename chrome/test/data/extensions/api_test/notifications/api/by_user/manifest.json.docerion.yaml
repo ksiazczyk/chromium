@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Notifications byUser API test extension manifest
+summary: Manifest for the chrome.notifications byUser test app, loading background.js as its background page and requesting the notifications permission.

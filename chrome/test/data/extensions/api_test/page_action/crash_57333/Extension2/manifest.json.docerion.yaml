@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for crash 57333 test extension
+summary: Manifest defining Extension 2 with a persistent background script, page action icon, and contextMenus permission for the crash 57333 test.

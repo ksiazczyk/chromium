@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: File access test extension manifest
+summary: Manifest for the file access test extension, declaring optional file scheme host permissions and a background service worker.

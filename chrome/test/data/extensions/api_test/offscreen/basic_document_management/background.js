@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker tests for offscreen document management
+// summary: Runs chrome.test cases that create, message, and close offscreen documents and validate URL and single-document restrictions.
+// ---
+
 const VALID_PARAMS = {
   url: 'offscreen.html',
   reasons: ['TESTING'],

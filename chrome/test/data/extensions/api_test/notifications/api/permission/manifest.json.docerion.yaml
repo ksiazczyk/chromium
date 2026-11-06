@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Notifications permission test extension manifest
+summary: Manifest for the test extension that loads background.js and requests the notifications permission to test permissionLevelChanged.

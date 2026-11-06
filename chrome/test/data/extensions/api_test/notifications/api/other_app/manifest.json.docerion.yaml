@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the window creation test app
+summary: Manifest defining a packaged test app with a background script and notifications permission for window creation tests.

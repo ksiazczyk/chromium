@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Optional deny test extension manifest
+summary: Manifest for the optional_deny test extension declaring optional bookmarks and management permissions plus optional host permissions used by the API test.

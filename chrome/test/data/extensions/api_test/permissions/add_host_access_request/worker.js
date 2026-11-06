@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for permissions.addHostAccessRequest error cases
+// summary: Service worker test verifying that addHostAccessRequest rejects invalid requests, unknown tabs or documents, already granted access, and invalid patterns.
+// ---
+
 import {openTab} from '/_test_resources/test_util/tabs_util.js';
 
 // Navigates to an url requested by the extension and returns the opened tab.

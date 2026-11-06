@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox API test extension service worker
+// summary: Background script for the omnibox API test extension that handles onInputChanged, onInputEntered and onDeleteSuggestion events and signals test results.
+// ---
+
 const incognito = chrome.extension.inIncognitoContext;
 const incognitoSuffix = incognito ? ' incognito' : '';
 

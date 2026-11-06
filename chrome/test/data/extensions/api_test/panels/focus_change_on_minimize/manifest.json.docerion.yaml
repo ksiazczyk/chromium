@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for panel minimize focus change test extension
+summary: Manifest for a test extension that verifies minimizing a panel fires the onFocusChanged event, loading test.js as its background script.

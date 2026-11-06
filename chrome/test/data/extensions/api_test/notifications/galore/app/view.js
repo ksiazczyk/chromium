@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notifications Galore test app view logic
+// summary: Creates the app window and builds its UI, adding notification buttons, progress controls, sections and event logging.
+// ---
+
 let mainWindow;
 let sections = [];
 

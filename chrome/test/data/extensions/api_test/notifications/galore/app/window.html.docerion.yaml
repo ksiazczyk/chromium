@@ -1,0 +1,4 @@
+# Docerion header of window.html.
+type: test
+title: Notifications Galore test app window UI
+summary: HTML page for the test app window with priority buttons, recorder controls, notification templates and an event log area.

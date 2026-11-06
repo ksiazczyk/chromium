@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification creation script
+// summary: Creates a basic test notification with icon, buttons and app icon mask via chrome.notifications, then signals 'created' to the test.
+// ---
+
 const redDot = 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUA' +
     'AAAFCAYAAACNbyblAAAAHElEQVQI12P4//8/w38GIAXDIBKE0DHxgljNBAAO' +
     '9TXL0Y4OHwAAAABJRU5ErkJggg==';

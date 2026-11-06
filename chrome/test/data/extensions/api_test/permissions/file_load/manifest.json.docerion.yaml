@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the file_load permissions API test
+summary: Extension manifest declaring a service worker background and broad local file host access for the file_load permissions API test.

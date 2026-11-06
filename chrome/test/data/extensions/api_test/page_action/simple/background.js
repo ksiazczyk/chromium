@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page action API test background script
+// summary: Background script of a test extension that exercises pageAction show and hide calls, including callback usage and expected error cases.
+// ---
+
 let tabId = -1;
 
 chrome.pageAction.onClicked.addListener(function(tab) {

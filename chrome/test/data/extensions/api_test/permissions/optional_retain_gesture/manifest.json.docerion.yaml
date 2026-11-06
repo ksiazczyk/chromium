@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for optional permissions user gesture test extension
+summary: Manifest version 2 manifest declaring the background script and the optional bookmarks permission used by the gesture retention test.

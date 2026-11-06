@@ -1,0 +1,4 @@
+# Docerion header of fake_ntp.html.
+type: test
+title: Fake NTP test page
+summary: Empty HTML page titled 'Fake NTP' that serves as a stand-in New Tab Page for the content script injection test.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Omnibox API test extension manifest
+summary: Manifest for the chrome.omnibox end-to-end browser test extension, registering the test.js service worker and the 'kw' omnibox keyword.

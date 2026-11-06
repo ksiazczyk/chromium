@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest of the notification on blur test app
+summary: Manifest for the packaged test app that requests the notifications permission and runs main.js as background script.

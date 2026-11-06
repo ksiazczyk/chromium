@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: New tab override test extension manifest
+summary: Manifest for a test extension that overrides the new tab page with newtab.html and requests the tabs permission.

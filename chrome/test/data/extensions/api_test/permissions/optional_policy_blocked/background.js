@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for optional policy blocked permissions test
+// summary: Background script running browser tests that request optional permissions and expect the management permission to fail with an enterprise policy blocked error.
+// ---
+
 const assertTrue = chrome.test.assertTrue;
 const fail = chrome.test.callbackFail;
 const pass = chrome.test.callbackPass;

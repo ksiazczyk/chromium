@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the notification launcher test app
+summary: Manifest v2 app manifest declaring main.js as background script and requesting the notifications permission.

@@ -1,0 +1,4 @@
+# Docerion header of override.html.
+type: test
+title: New tab override test page
+summary: HTML page serving as the overridden new tab in the extension API test, loading override.js and displaying a placeholder text.

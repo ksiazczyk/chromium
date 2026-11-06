@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the NTP content script injection test extension
+summary: Manifest version 2 extension manifest registering an all-URLs content script and a persistent background script for the crbug.com/40091421 test.

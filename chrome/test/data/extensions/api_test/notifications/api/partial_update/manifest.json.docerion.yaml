@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the notifications partial update test extension
+summary: Manifest version 3 fixture declaring the chrome.notifications permission and background.js service worker for the partial update API test.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File access permission request failure test
+// summary: Extension API test script verifying that requesting the file scheme host origin fails when file access is not enabled.
+// ---
+
 const callbackFail = chrome.test.callbackFail;
 const callbackPass = chrome.test.callbackPass;
 const expectedError =

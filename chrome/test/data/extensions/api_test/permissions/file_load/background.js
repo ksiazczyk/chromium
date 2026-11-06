@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File load permission test background script
+// summary: Service worker for the file_load test extension that fetches a file directory and a file URL, waiting for renderer activation before running the tests.
+// ---
+
 const callbackPass = chrome.test.callbackPass;
 
 let testDir;

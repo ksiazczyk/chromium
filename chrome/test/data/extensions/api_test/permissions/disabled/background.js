@@ -5,6 +5,12 @@
 // All of the calls to chrome.* functions should fail, with the exception of
 // chrome.tabs.*, since this extension has requested no permissions.
 
+// ---docerion
+// type: test
+// title: Permissions disabled API test background script
+// summary: Test background script that verifies chrome.* API calls fail for an extension with no permissions, while chrome.tabs functionality remains enabled.
+// ---
+
 chrome.test.runTests([
   function history() {
     try {

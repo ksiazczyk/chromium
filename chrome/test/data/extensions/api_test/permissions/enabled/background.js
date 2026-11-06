@@ -5,6 +5,12 @@
 // All of the calls to chrome.* functions should succeed, since this extension
 // has requested all required permissions.
 
+// ---docerion
+// type: test
+// title: Enabled permissions API test background script
+// summary: Runs extension tests calling chrome.history, chrome.bookmarks and chrome.tabs, expecting all calls to succeed because the extension requests the required permissions.
+// ---
+
 const pass = chrome.test.callbackPass;
 
 chrome.test.runTests([

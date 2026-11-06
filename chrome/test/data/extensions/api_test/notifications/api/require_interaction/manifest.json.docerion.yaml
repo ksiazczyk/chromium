@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Notifications requireInteraction test extension manifest
+summary: Manifest for the test extension app that requests the notifications permission and loads the background script for the requireInteraction API test.
