@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo core initialization
+// summary: Initializes the Mojo core with per-platform broker and shared memory allocation settings based on process type and sandbox.
+// ---
+
 #include "content/public/app/initialize_mojo_core.h"
 
 #include "base/check_op.h"

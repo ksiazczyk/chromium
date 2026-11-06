@@ -8,6 +8,12 @@
 // to an unprivileged process. Consult with ui/base/cocoa/OWNERS before
 // adding new dependencies to Aperitif.
 
+// ---docerion
+// type: source
+// title: Apéritif macOS sandbox initializer
+// summary: Implements the minimal macOS Apéritif stage, registering malloc zones and initializing the seatbelt sandbox through a static initializer.
+// ---
+
 #include "content/public/app/aperitif_mac.h"
 
 #include <crt_externs.h>

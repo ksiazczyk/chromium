@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web contents occlusion checker header
+// summary: Declares WebContentsOcclusionCheckerMac, which performs manual occlusion checks for similarly sized browser windows that macOS occlusion detection cannot handle.
+// ---
+
 #ifndef CONTENT_APP_SHIM_REMOTE_COCOA_WEB_CONTENTS_OCCLUSION_CHECKER_MAC_H_
 #define CONTENT_APP_SHIM_REMOTE_COCOA_WEB_CONTENTS_OCCLUSION_CHECKER_MAC_H_
 

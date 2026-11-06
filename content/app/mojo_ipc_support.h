@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoIpcSupport class declaration
+// summary: Declares the MojoIpcSupport class that encapsulates the state needed to bring up a working Mojo IPC environment in the browser process.
+// ---
+
 #ifndef CONTENT_APP_MOJO_IPC_SUPPORT_H_
 #define CONTENT_APP_MOJO_IPC_SUPPORT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of network_process.appex.entitlements.
+type: config
+title: Network process app extension entitlements
+summary: Entitlements plist granting the network process app extension web-browser-engine networking and extended virtual addressing capabilities.

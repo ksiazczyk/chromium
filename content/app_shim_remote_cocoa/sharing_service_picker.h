@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing service picker header
+// summary: Declares the SharingServicePicker Objective-C class that wraps NSSharingServicePicker to support the Web Share API on macOS.
+// ---
+
 #ifndef CONTENT_APP_SHIM_REMOTE_COCOA_SHARING_SERVICE_PICKER_H_
 #define CONTENT_APP_SHIM_REMOTE_COCOA_SHARING_SERVICE_PICKER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of popup_window_mac.mm.
+type: source
+title: PopupWindowMac implementation
+summary: Implements the popup window, closing it when a click occurs outside its bounds or when menu bar tracking begins.

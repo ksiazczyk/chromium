@@ -1,0 +1,4 @@
+# Docerion header of network_process.plist.
+type: config
+title: Network process app extension Info.plist
+summary: Property list declaring the network process app extension's bundle metadata and its com.apple.web-browser-engine.networking extension point.

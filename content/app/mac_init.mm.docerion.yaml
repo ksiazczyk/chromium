@@ -1,0 +1,4 @@
+# Docerion header of mac_init.mm.
+type: source
+title: macOS initialization for the content app
+summary: Registers macOS user defaults that control crash-on-exceptions, command-line handling, App Nap, concurrent drag sessions and autofill heuristics at startup.

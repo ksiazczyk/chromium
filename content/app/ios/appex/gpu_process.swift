@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU process app extension entry point
+// summary: Swift entry point for the iOS GPU process app extension that initializes the child process, handles XPC connections and applies the restricted sandbox.
+// ---
+
 import BrowserEngineKit
 import ExtensionFoundation
 import Foundation

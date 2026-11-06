@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the Android content main entry
+// summary: Declares StartContentMain, child process CPU initialization, and test access to the content main delegate.
+// ---
+
 #ifndef CONTENT_APP_ANDROID_CONTENT_MAIN_ANDROID_H_
 #define CONTENT_APP_ANDROID_CONTENT_MAIN_ANDROID_H_
 

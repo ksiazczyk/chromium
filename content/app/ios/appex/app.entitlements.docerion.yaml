@@ -1,0 +1,4 @@
+# Docerion header of app.entitlements.
+type: config
+title: Entitlements for the iOS browser host app
+summary: Entitlements plist granting the host app web-browser, web-browser-engine host, and extended virtual addressing capabilities.

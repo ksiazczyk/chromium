@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for iOS app extension child processes
+summary: Defines GN source sets and Swift targets for the child process bridge, app-side shim, and the content, network, and GPU process extensions.

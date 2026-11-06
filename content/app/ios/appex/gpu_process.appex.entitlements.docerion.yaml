@@ -1,0 +1,4 @@
+# Docerion header of gpu_process.appex.entitlements.
+type: config
+title: Entitlements for the GPU process app extension
+summary: Entitlements plist granting the GPU process web-browser-engine rendering and extended virtual addressing capabilities.

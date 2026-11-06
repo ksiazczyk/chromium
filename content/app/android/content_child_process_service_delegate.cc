@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android child process service delegate
+// summary: Native JNI delegate for the Android child process service that acquires GPU surfaces and forwards input transfer tokens.
+// ---
+
 #include "base/android/jni_array.h"
 #include "base/android/library_loader/library_loader_hooks.h"
 #include "base/android/memory_pressure_listener_android.h"

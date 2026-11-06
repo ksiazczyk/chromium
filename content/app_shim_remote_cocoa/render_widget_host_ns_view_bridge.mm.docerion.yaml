@@ -1,0 +1,4 @@
+# Docerion header of render_widget_host_ns_view_bridge.mm.
+type: source
+title: RenderWidgetHostNSViewBridge implementation
+summary: Implements the bridge, creating the RenderWidgetHostViewCocoa and applying host commands such as bounds, visibility, background color, and input state.

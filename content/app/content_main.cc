@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content main entry point
+// summary: Implements ContentMain, preparing signal handling, ICU, and process state before delegating startup to the content main runner.
+// ---
+
 #include "content/public/app/content_main.h"
 
 #include <memory>

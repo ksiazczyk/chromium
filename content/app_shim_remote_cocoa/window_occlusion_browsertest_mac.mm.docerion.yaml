@@ -1,0 +1,4 @@
+# Docerion header of window_occlusion_browsertest_mac.mm.
+type: test
+title: macOS window occlusion browser tests
+summary: Browser tests that verify macOS web contents occlusion and visibility updates using test NSWindow and view subclasses with forced occlusion states.

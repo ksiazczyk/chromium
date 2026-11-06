@@ -1,0 +1,4 @@
+# Docerion header of child_process.mm.
+type: source
+title: App-side shim entry point for child processes
+summary: Implements the exported ChildProcessStarted stub called from Swift process extensions, currently a placeholder pending investigation.

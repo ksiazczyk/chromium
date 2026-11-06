@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Content app build targets
+summary: GN build file defining the content app source sets, their dependencies, and platform-specific sources for Android, Mac, iOS, and Windows.

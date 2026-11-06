@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Javaless child process service for Android
+// summary: Implements a native AIDL child process service that sets up and runs Android child processes without a Java service.
+// ---
+
 #include <android/api-level.h>
 #include <android/binder_ibinder.h>
 #include <dlfcn.h>

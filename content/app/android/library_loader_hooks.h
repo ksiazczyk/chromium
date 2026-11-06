@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for content library loader hooks
+// summary: Declares the LibraryLoaded hook that performs content initialization right after the Android native library loads.
+// ---
+
 #ifndef CONTENT_APP_ANDROID_LIBRARY_LOADER_HOOKS_H_
 #define CONTENT_APP_ANDROID_LIBRARY_LOADER_HOOKS_H_
 

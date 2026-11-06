@@ -1,0 +1,4 @@
+# Docerion header of sharing_service_picker.mm.
+type: source
+title: Sharing service picker implementation
+summary: Implements SharingServicePicker, showing the macOS share picker next to the cursor and reporting share success, cancellation, or failure via a mojo callback.

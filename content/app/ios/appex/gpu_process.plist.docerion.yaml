@@ -1,0 +1,4 @@
+# Docerion header of gpu_process.plist.
+type: config
+title: GPU process app extension Info.plist
+summary: Property list declaring the GPU process app extension's bundle metadata and its com.apple.web-browser-engine.rendering extension point.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentMainRunnerImpl class declaration
+// summary: Declares the ContentMainRunnerImpl class that holds startup state, Mojo IPC support, and initialization and shutdown handling.
+// ---
+
 #ifndef CONTENT_APP_CONTENT_MAIN_RUNNER_IMPL_H_
 #define CONTENT_APP_CONTENT_MAIN_RUNNER_IMPL_H_
 

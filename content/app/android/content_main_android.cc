@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android content main entry point
+// summary: Starts the content main runner on Android, sets the main delegate, and initializes child process CPU features.
+// ---
+
 #include "content/app/android/content_main_android.h"
 
 #include <cpu-features.h>

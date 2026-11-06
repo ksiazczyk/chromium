@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows sandbox helper unit test
+// summary: Verifies that unsandboxed child processes receive neither broker nor target sandbox services from InitializeSandboxInfo.
+// ---
+
 #include "content/public/app/sandbox_helper_win.h"
 
 #include "base/command_line.h"

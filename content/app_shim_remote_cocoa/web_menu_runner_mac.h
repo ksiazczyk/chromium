@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebMenuRunner interface for macOS popup menus
+// summary: Declares the WebMenuRunner class that presents a native popup menu for HTML select elements and reports the selected item index or dismissal.
+// ---
+
 #ifndef CONTENT_APP_SHIM_REMOTE_COCOA_WEB_MENU_RUNNER_MAC_H_
 #define CONTENT_APP_SHIM_REMOTE_COCOA_WEB_MENU_RUNNER_MAC_H_
 

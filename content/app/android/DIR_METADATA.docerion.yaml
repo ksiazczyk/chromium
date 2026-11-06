@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA with chrome/android mixin
+summary: Metadata file that inherits common directory metadata from chrome/android via a mixin entry.

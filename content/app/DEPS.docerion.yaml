@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for content/app
+summary: Defines the header include rules specifying which directories files in content/app are allowed to depend on.

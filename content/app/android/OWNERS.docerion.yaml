@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the content app android directory
+summary: Owners file that delegates approval to chrome/android OWNERS and additionally lists smaier@chromium.org.

@@ -1,0 +1,4 @@
+# Docerion header of render_widget_host_view_cocoa.mm.
+type: source
+title: Render widget host view Cocoa implementation
+summary: Implements the macOS NSView that hosts rendered web content, handling input event building, accessibility, menus, touch bar, and communication with the render widget host.

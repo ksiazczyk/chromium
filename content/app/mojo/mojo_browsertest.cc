@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mojo browser test verifying Mojo initialization
+// summary: Browser test that confirms Mojo is initialized in the content layer by calling MojoGetTimeTicksNow.
+// ---
+
 #include "content/public/test/browser_test.h"
 #include "content/public/test/content_browser_test.h"
 #include "mojo/public/c/system/core.h"

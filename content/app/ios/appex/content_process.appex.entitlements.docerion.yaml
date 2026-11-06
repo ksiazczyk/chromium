@@ -1,0 +1,4 @@
+# Docerion header of content_process.appex.entitlements.
+type: config
+title: Entitlements for the content process app extension
+summary: Entitlements plist granting the content process web-content, JIT, and extended virtual addressing capabilities.

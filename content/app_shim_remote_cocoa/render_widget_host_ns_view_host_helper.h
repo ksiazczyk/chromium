@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderWidgetHostNSViewHostHelper interface
+// summary: Declares the interface through which the NSView communicates with its RenderWidgetHostViewMac, forwarding keyboard, mouse, touch, wheel, and accessibility calls.
+// ---
+
 #ifndef CONTENT_APP_SHIM_REMOTE_COCOA_RENDER_WIDGET_HOST_NS_VIEW_HOST_HELPER_H_
 #define CONTENT_APP_SHIM_REMOTE_COCOA_RENDER_WIDGET_HOST_NS_VIEW_HOST_HELPER_H_
 

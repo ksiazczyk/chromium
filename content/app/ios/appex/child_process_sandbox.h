@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header declaring the child process sandbox entry point
+// summary: Declares content::ChildProcessEnterSandbox, the entry point for applying the child process sandbox on iOS.
+// ---
+
 #ifndef CONTENT_APP_IOS_APPEX_CHILD_PROCESS_SANDBOX_H_
 #define CONTENT_APP_IOS_APPEX_CHILD_PROCESS_SANDBOX_H_
 

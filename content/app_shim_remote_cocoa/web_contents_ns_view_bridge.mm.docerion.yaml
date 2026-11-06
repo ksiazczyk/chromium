@@ -1,0 +1,4 @@
+# Docerion header of web_contents_ns_view_bridge.mm.
+type: source
+title: Web contents NSView bridge implementation
+summary: Implements the WebContentsNSViewBridge, managing the WebContentsViewCocoa NSView's parenting, bounds, visibility, focus, and drag startup over mojo.

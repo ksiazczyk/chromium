@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo initialization implementation for content
+// summary: Implements InitializeMojo, which configures Mojo core with the IPC channel maximum message size and initializes it once.
+// ---
+
 #include "content/app/mojo/mojo_init.h"
 
 #include <memory>
