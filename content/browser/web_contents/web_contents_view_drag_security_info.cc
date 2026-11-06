@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsViewDragSecurityInfo implementation
+// summary: Implements browser-side drag security checks that block same-page cross-site drags and allow drags between guests and their embedders.
+// ---
+
 #include "content/browser/web_contents/web_contents_view_drag_security_info.h"
 
 #include "content/browser/renderer_host/frame_tree.h"

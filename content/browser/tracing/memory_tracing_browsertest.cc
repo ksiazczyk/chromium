@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Memory tracing browser test
+// summary: Browser test checking that global memory dump requests succeed and produce dumps, using a mock dump provider.
+// ---
+
 #include <stdint.h>
 
 #include <memory>

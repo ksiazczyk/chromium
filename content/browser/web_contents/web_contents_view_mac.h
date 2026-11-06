@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsViewMac class declaration
+// summary: Declares the macOS WebContentsView implementation that owns an NSView and supports drag-and-drop, popup menus, and the remote Cocoa NSView bridge.
+// ---
+
 #ifndef CONTENT_BROWSER_WEB_CONTENTS_WEB_CONTENTS_VIEW_MAC_H_
 #define CONTENT_BROWSER_WEB_CONTENTS_WEB_CONTENTS_VIEW_MAC_H_
 

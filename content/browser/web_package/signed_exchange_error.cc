@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed exchange error implementation
+// summary: Implements SignedExchangeError, mapping signature verifier results to the corresponding error fields and providing constructors.
+// ---
+
 #include "content/browser/web_package/signed_exchange_error.h"
 
 #include "base/notreached.h"

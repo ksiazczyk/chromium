@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUSB service unit tests
+// summary: Unit tests for WebUsbServiceImpl covering creation for frames and service workers, device enumeration, permissions and protected interface classes.
+// ---
+
 #include "content/browser/usb/web_usb_service_impl.h"
 
 #include <memory>

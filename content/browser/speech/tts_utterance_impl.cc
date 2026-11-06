@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTS utterance implementation
+// summary: Implements TtsUtteranceImpl, storing utterance text, options, voice, language, and speech parameters and dispatching TTS events to delegates.
+// ---
+
 #include "content/browser/speech/tts_utterance_impl.h"
 
 #include <memory>

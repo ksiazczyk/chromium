@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network speech recognition engine implementation
+// summary: Implements the network speech recognition engine, streaming audio to the Google speech webservice over paired upstream and downstream HTTPS connections.
+// ---
+
 #include "content/browser/speech/network_speech_recognition_engine_impl.h"
 
 #include <algorithm>

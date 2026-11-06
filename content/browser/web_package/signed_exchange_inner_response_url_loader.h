@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed exchange inner response URL loader header
+// summary: Declares SignedExchangeInnerResponseURLLoader, a URLLoader that returns the inner response of a signed exchange, plus helpers for response timing and ORB checking.
+// ---
+
 #ifndef CONTENT_BROWSER_WEB_PACKAGE_SIGNED_EXCHANGE_INNER_RESPONSE_URL_LOADER_H_
 #define CONTENT_BROWSER_WEB_PACKAGE_SIGNED_EXCHANGE_INNER_RESPONSE_URL_LOADER_H_
 

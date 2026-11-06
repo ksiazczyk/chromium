@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: USB test utility declarations
+// summary: Declares mock classes for the USB delegate and USB device manager client used to test WebUSB behavior.
+// ---
+
 #ifndef CONTENT_BROWSER_USB_USB_TEST_UTILS_H_
 #define CONTENT_BROWSER_USB_USB_TEST_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTS utterance implementation header
+// summary: Declares TtsUtteranceImpl, the content-side implementation of the TtsUtterance interface holding text, voice, event, and browser context state.
+// ---
+
 #ifndef CONTENT_BROWSER_SPEECH_TTS_UTTERANCE_IMPL_H_
 #define CONTENT_BROWSER_SPEECH_TTS_UTTERANCE_IMPL_H_
 

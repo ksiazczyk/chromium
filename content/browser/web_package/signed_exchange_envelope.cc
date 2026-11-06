@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed exchange envelope parsing implementation
+// summary: Implements parsing of the signed exchange envelope, including response header validation, uncached header checks and shared cacheability rules.
+// ---
+
 #include "content/browser/web_package/signed_exchange_envelope.h"
 
 #include <string_view>

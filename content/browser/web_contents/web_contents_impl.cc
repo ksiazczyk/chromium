@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsImpl core implementation
+// summary: Implements the browser-side core of WebContents, coordinating navigation, observers, delegates, preferences, media, downloads and frame management.
+// ---
+
 #include "content/browser/web_contents/web_contents_impl.h"
 
 #include <stddef.h>

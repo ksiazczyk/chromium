@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android GMS SMS provider implementation
+// summary: Implements the Android SMS provider over Google Play services via JNI, selecting the auto, user consent, or verification backend.
+// ---
+
 #include "content/browser/sms/sms_provider_gms.h"
 
 #include <string>

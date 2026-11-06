@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed exchange utility functions implementation
+// summary: Implements helpers for signed exchange handling, including load result histograms, DevTools error reporting, feature checks, MIME type version parsing, and synthesized redirects.
+// ---
+
 #include "content/browser/web_package/signed_exchange_utils.h"
 
 #include <string_view>

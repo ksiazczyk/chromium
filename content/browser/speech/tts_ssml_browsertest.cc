@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TTS SSML stripping browser test
+// summary: Browser test verifying that the TTS controller strips SSML markup from utterance text while leaving plain text and invalid SSML unchanged.
+// ---
+
 #include "content/browser/speech/tts_controller_impl.h"
 
 #include <memory>

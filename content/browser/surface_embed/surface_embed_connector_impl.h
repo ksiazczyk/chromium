@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceEmbedConnectorImpl class declaration
+// summary: Declares the SurfaceEmbedConnectorImpl class, its FrameConnector and SurfaceEmbedConnector interfaces, and helpers for parent web contents views, input routing, and accessibility.
+// ---
+
 #ifndef CONTENT_BROWSER_SURFACE_EMBED_SURFACE_EMBED_CONNECTOR_IMPL_H_
 #define CONTENT_BROWSER_SURFACE_EMBED_SURFACE_EMBED_CONNECTOR_IMPL_H_
 

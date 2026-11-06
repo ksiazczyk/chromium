@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubresourceSignedExchangeURLLoaderFactory declaration
+// summary: Declares SubresourceSignedExchangeURLLoaderFactory, a URLLoaderFactory that handles signed exchange subresource requests from the renderer using a prefetched cache entry.
+// ---
+
 #ifndef CONTENT_BROWSER_WEB_PACKAGE_SUBRESOURCE_SIGNED_EXCHANGE_URL_LOADER_FACTORY_H_
 #define CONTENT_BROWSER_WEB_PACKAGE_SUBRESOURCE_SIGNED_EXCHANGE_URL_LOADER_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed exchange reporter implementation
+// summary: Implements SignedExchangeReporter, mapping signed exchange load results to report type strings and sending reports to the distributor's Network Error Logging endpoint.
+// ---
+
 #include "content/browser/web_package/signed_exchange_reporter.h"
 
 #include <string>

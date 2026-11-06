@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signed exchange subresource prefetch browser tests
+// summary: Browser tests covering prefetching of signed exchanges and serving their inner responses as subresources, including cache behavior, data removal, and mock signed exchange handlers.
+// ---
+
 #include <array>
 #include <string>
 #include <vector>

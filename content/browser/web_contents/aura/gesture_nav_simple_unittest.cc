@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for GestureNavSimple
+// summary: Unit tests for GestureNavSimple that exercise overscroll navigation using fake Aura windows and a custom TestWebContents with two pages in navigation history.
+// ---
+
 #include "content/browser/web_contents/aura/gesture_nav_simple.h"
 
 #include <memory>

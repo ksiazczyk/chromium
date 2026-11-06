@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Certificate chain parser fuzzer
+// summary: libFuzzer harness that feeds arbitrary byte spans to SignedExchangeCertificateChain::Parse to uncover parsing crashes.
+// ---
+
 #include "content/browser/web_package/signed_exchange_certificate_chain.h"  // nogncheck
 
 #include "base/containers/span.h"

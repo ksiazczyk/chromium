@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo typemap traits implementation for traces_internals
+// summary: Implements Mojo typemap conversions between traces_internals enums and the native tracing C++ enum types.
+// ---
+
 #include "content/browser/tracing/traces_internals/traces_internals_mojom_traits.h"
 
 #include "base/notreached.h"

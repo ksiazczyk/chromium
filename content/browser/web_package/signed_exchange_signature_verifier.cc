@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed exchange signature verifier implementation
+// summary: Implements verification of signed exchange signatures by reconstructing the signed message and checking the ECDSA signature from the Signature header against the certificate chain.
+// ---
+
 #include "content/browser/web_package/signed_exchange_signature_verifier.h"
 
 #include <array>

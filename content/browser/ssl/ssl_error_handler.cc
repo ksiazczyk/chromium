@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL error handler implementation
+// summary: Implements SSLErrorHandler's CancelRequest, DenyRequest, and ContinueRequest methods that apply a decision on a request with an SSL certificate error.
+// ---
+
 #include "content/browser/ssl/ssl_error_handler.h"
 
 #include "base/memory/weak_ptr.h"

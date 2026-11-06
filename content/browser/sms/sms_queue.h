@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMS queue class declaration
+// summary: Declares SmsQueue, which manages queues of pending Web OTP requests for each origin and reports failures to waiting subscribers.
+// ---
+
 #ifndef CONTENT_BROWSER_SMS_SMS_QUEUE_H_
 #define CONTENT_BROWSER_SMS_SMS_QUEUE_H_
 

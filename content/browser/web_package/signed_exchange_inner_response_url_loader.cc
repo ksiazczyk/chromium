@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed exchange inner response URL loader implementation
+// summary: Implements a URLLoader that serves the inner response of a signed exchange from a blob, applying CORS and cross-origin read blocking checks before delivering the body.
+// ---
+
 #include "content/browser/web_package/signed_exchange_inner_response_url_loader.h"
 
 #include <stdint.h>

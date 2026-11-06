@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS tracing agent header
+// summary: Declares registration of the ChromeOS tracing Perfetto data source and its kCrOSTracingDataSource feature flag.
+// ---
+
 #ifndef CONTENT_BROWSER_TRACING_CROS_TRACING_AGENT_H_
 #define CONTENT_BROWSER_TRACING_CROS_TRACING_AGENT_H_
 

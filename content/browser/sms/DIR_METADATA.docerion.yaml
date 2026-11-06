@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the SMS folder
+summary: Points the directory to the shared COMMON_METADATA mixins so it inherits the Web OTP component and team information.

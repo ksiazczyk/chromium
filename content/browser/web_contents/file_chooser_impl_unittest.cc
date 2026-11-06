@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File chooser unit tests
+// summary: Unit tests verifying that the default file name is cleared for open mode and that save mode requests are rejected as bad messages.
+// ---
+
 #include "content/browser/web_contents/file_chooser_impl.h"
 
 #include "base/files/file_path.h"

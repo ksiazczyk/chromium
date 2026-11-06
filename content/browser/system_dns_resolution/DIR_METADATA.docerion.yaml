@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Issue tracker metadata for system_dns_resolution
+summary: Declares the Chromium issue tracker component Internals>Network>DNS and the public Buganizer component ID used for this directory.

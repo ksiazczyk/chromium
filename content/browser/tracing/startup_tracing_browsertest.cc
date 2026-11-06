@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Startup tracing browser test
+// summary: Browser test exercising Perfetto startup tracing, including filling the startup trace buffer to catch deadlocks.
+// ---
+
 #include "base/dcheck_is_on.h"
 #include "base/files/file_util.h"
 #include "base/json/json_reader.h"

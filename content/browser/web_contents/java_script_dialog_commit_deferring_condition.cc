@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaScript dialog commit deferring condition
+// summary: Implements a commit deferring condition that holds navigation commit while a JavaScript dialog is open, except for user navigations and downloads.
+// ---
+
 #include "content/browser/web_contents/java_script_dialog_commit_deferring_condition.h"
 
 #include "base/memory/ptr_util.h"

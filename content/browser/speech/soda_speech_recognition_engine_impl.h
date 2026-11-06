@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SODA speech recognition engine class declaration
+// summary: Declares SodaSpeechRecognitionEngineImpl, the on-device SpeechRecognitionEngine implementation that connects to the SODA speech recognition service on ChromeOS and other platforms.
+// ---
+
 #ifndef CONTENT_BROWSER_SPEECH_SODA_SPEECH_RECOGNITION_ENGINE_IMPL_H_
 #define CONTENT_BROWSER_SPEECH_SODA_SPEECH_RECOGNITION_ENGINE_IMPL_H_
 

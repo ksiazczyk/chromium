@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast system tracing agent implementation
+// summary: Implements the Chromecast tracing agent that starts and stops system-level systrace sessions and forwards trace data through Perfetto.
+// ---
+
 #include "content/browser/tracing/cast_tracing_agent.h"
 
 #include <string_view>

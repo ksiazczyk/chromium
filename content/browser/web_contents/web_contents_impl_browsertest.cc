@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebContentsImpl browser tests
+// summary: Browser tests covering WebContentsImpl behavior including navigation, preloading, site isolation, frame management and related browser-side features.
+// ---
+
 #include "content/browser/web_contents/web_contents_impl.h"
 
 #include <algorithm>

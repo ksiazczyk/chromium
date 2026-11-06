@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebOTP service implementation
+// summary: Implements the browser-side WebOTPService that validates origin chains, fetches SMS one-time codes, handles user consent and records metrics.
+// ---
+
 #include "content/browser/sms/webotp_service.h"
 
 #include <iterator>

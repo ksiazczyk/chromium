@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMS fetcher header
+// summary: Declares SmsFetcherImpl, a per-profile coordinator between local and remote SMS providers and multiple origins.
+// ---
+
 #ifndef CONTENT_BROWSER_SMS_SMS_FETCHER_IMPL_H_
 #define CONTENT_BROWSER_SMS_SMS_FETCHER_IMPL_H_
 

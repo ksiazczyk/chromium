@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock TTS controller
+// summary: Implements a no-op mock TtsController singleton that stands in for the real text-to-speech controller in tests.
+// ---
+
 #include "base/memory/singleton.h"
 #include "content/public/browser/tts_controller.h"
 

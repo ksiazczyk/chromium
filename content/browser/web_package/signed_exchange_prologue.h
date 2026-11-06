@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed exchange prologue parser header
+// summary: Declares parsers and value types for the first bytes of the application/signed-exchange format, such as BeforeFallbackUrl and FallbackUrlAndAfter.
+// ---
+
 #ifndef CONTENT_BROWSER_WEB_PACKAGE_SIGNED_EXCHANGE_PROLOGUE_H_
 #define CONTENT_BROWSER_WEB_PACKAGE_SIGNED_EXCHANGE_PROLOGUE_H_
 

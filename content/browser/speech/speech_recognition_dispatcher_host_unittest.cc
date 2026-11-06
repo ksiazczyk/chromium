@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Speech recognition dispatcher host unit tests
+// summary: Unit tests for SpeechRecognitionDispatcherHost::GetAcceptedLanguages covering language fallback, accept-language parsing, and the en-US default.
+// ---
+
 #include "content/browser/speech/speech_recognition_dispatcher_host.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

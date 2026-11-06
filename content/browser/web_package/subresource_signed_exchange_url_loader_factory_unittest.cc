@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Subresource signed exchange URL loader factory unit tests
+// summary: Unit tests for the subresource signed exchange URL loader factory, including a regression test for a dangling raw pointer issue with short-lived factories and long-lived loaders.
+// ---
+
 #include "content/browser/web_package/subresource_signed_exchange_url_loader_factory.h"
 
 #include <memory>

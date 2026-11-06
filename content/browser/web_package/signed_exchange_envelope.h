@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed exchange envelope class declaration
+// summary: Declares SignedExchangeEnvelope, which holds the signed exchange request URL, response code, headers, signature and header integrity computation.
+// ---
+
 #ifndef CONTENT_BROWSER_WEB_PACKAGE_SIGNED_EXCHANGE_ENVELOPE_H_
 #define CONTENT_BROWSER_WEB_PACKAGE_SIGNED_EXCHANGE_ENVELOPE_H_
 

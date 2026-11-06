@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SODA speech recognition engine unit tests
+// summary: Unit tests for the SODA speech recognition engine verifying recognition results, transcription errors, end-of-utterance events, and audio chunk handling with a mock service.
+// ---
+
 #include "content/browser/speech/soda_speech_recognition_engine_impl.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User consent handler interface
+// summary: Declares the UserConsentHandler interface plus no-op and prompt-based implementations used to obtain user consent for Web OTP codes.
+// ---
+
 #ifndef CONTENT_BROWSER_SMS_USER_CONSENT_HANDLER_H_
 #define CONTENT_BROWSER_SMS_USER_CONSENT_HANDLER_H_
 

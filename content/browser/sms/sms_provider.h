@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMS provider interface
+// summary: Defines the SmsProvider abstraction over platform SMS retrieval with observer notifications for local and remote fetches.
+// ---
+
 #ifndef CONTENT_BROWSER_SMS_SMS_PROVIDER_H_
 #define CONTENT_BROWSER_SMS_SMS_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura WebContentsView implementation
+// summary: Implements the Aura-based WebContentsView, including drag-and-drop, overscroll gesture navigation, and window management.
+// ---
+
 #include "content/browser/web_contents/web_contents_view_aura.h"
 
 #include <stddef.h>

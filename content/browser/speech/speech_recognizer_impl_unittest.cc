@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SpeechRecognizerImpl unit tests
+// summary: Unit tests for SpeechRecognizerImpl covering audio capture, recognition events and errors using mock capturer sources and a network recognition engine.
+// ---
+
 #include "content/browser/speech/speech_recognizer_impl.h"
 
 #include <stddef.h>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for surface_embed
+summary: Chromium OWNERS entry that delegates code ownership of the browser-side surface_embed directory to the components/surface_embed OWNERS file.

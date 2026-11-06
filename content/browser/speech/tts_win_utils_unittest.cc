@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows TTS utility unit test
+// summary: Unit tests for RemoveXml, checking that angle brackets are replaced with spaces in empty, plain, and XML-tagged utterances.
+// ---
+
 #include "content/browser/speech/tts_win_utils.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

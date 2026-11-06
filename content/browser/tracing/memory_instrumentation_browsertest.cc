@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Memory instrumentation browser test
+// summary: Browser test verifying computation of the browser process private memory footprint through the memory instrumentation coordinator.
+// ---
+
 #include <stdint.h>
 
 #include <algorithm>

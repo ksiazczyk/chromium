@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockSmsProvider gmock header
+// summary: Declares MockSmsProvider, a GoogleMock subclass of SmsProvider that stubs the Retrieve method for SMS tests.
+// ---
+
 #ifndef CONTENT_BROWSER_SMS_TEST_MOCK_SMS_PROVIDER_H_
 #define CONTENT_BROWSER_SMS_TEST_MOCK_SMS_PROVIDER_H_
 

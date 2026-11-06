@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signed exchange signature header field unit tests
+// summary: Unit tests verifying parsing of the Signature header field, including multiple signatures and their decoded parameter values.
+// ---
+
 #include "content/browser/web_package/signed_exchange_signature_header_field.h"
 
 #include "base/functional/callback.h"

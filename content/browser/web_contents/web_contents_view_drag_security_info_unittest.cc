@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebContentsViewDragSecurityInfo unit tests
+// summary: Tests for drag target validation, covering drags not initiated by the view, same site instance groups, cross-site subframes, guests, and destroyed sources.
+// ---
+
 #include "content/browser/web_contents/web_contents_view_drag_security_info.h"
 
 #include <memory>

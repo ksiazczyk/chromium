@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signed exchange handler unit tests
+// summary: Unit tests for SignedExchangeHandler covering signature verification, certificate fetching and loading of signed exchange responses using test data, mock verifiers and histogram testers.
+// ---
+
 #include "content/browser/web_package/signed_exchange_handler.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speech synthesis browser backend header
+// summary: Declares SpeechSynthesisImpl, the Mojo back-end for the web speech synthesis API that forwards speak requests and voice changes to renderers.
+// ---
+
 #ifndef CONTENT_BROWSER_SPEECH_SPEECH_SYNTHESIS_IMPL_H_
 #define CONTENT_BROWSER_SPEECH_SPEECH_SYNTHESIS_IMPL_H_
 

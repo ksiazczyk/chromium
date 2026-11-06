@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracing WebUI controller implementation
+// summary: Implements the WebUI controller for the browser's tracing page, creating the data source and registering its HTML and JavaScript resources.
+// ---
+
 #include "content/browser/tracing/tracing_ui.h"
 
 #include "content/browser/tracing/grit/tracing_resources.h"

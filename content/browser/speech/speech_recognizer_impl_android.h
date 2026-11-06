@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android speech recognizer class header
+// summary: Declares SpeechRecognizerImplAndroid, which bridges speech recognition sessions to Android's Java speech API and receives results via JNI callbacks.
+// ---
+
 #ifndef CONTENT_BROWSER_SPEECH_SPEECH_RECOGNIZER_IMPL_ANDROID_H_
 #define CONTENT_BROWSER_SPEECH_SPEECH_RECOGNIZER_IMPL_ANDROID_H_
 

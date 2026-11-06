@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebContentsImpl unit tests
+// summary: Unit tests for the WebContentsImpl class, covering navigation, observers, delegates, WebUI registration, and other core WebContents behaviors.
+// ---
+
 #include <stdint.h>
 
 #include <tuple>

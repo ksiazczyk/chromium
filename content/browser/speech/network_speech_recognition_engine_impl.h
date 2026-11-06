@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network speech recognition engine class declaration
+// summary: Declares NetworkSpeechRecognitionEngineImpl, the SpeechRecognitionEngine implementation that talks to the Google streaming speech webservice.
+// ---
+
 #ifndef CONTENT_BROWSER_SPEECH_NETWORK_SPEECH_RECOGNITION_ENGINE_IMPL_H_
 #define CONTENT_BROWSER_SPEECH_NETWORK_SPEECH_RECOGNITION_ENGINE_IMPL_H_
 

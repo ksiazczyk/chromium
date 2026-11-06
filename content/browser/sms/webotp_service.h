@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebOTP service class declaration
+// summary: Declares WebOTPService, a DocumentService that binds renderer mojo requests, subscribes to the SMS fetcher and completes one-time code requests.
+// ---
+
 #ifndef CONTENT_BROWSER_SMS_WEBOTP_SERVICE_H_
 #define CONTENT_BROWSER_SMS_WEBOTP_SERVICE_H_
 

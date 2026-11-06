@@ -1,0 +1,4 @@
+# Docerion header of web_contents_view_ios.mm.
+type: source
+title: WebContentsViewIOS implementation
+summary: Implements the iOS WebContentsView with a UIScrollView backing view, including view creation, focus handling, popup menus, and fullscreen state changes.

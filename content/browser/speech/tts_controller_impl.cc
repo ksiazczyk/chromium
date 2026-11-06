@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTS controller implementation
+// summary: Implements the central TTS controller that queues utterances, selects voices via locale match scoring and dispatches events to TTS platforms.
+// ---
+
 #include "content/browser/speech/tts_controller_impl.h"
 
 #include <stddef.h>

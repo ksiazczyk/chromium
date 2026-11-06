@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Tracing directory issue tracker metadata
+summary: Metadata that routes bugs for the tracing directory to the Speed>Tracing component and the tracing team mailing list.

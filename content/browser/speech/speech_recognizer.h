@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpeechRecognizer base class declaration
+// summary: Declares the ref-counted SpeechRecognizer base class handling recognition for a session, with start, abort, stop capture, and status methods.
+// ---
+
 #ifndef CONTENT_BROWSER_SPEECH_SPEECH_RECOGNIZER_H_
 #define CONTENT_BROWSER_SPEECH_SPEECH_RECOGNIZER_H_
 

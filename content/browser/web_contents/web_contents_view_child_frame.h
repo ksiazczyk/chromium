@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsViewChildFrame class declaration
+// summary: Declares the WebContentsView and RenderViewHostDelegateView implementation used by guest and surface-embed WebContents rendered in child frames.
+// ---
+
 #ifndef CONTENT_BROWSER_WEB_CONTENTS_WEB_CONTENTS_VIEW_CHILD_FRAME_H_
 #define CONTENT_BROWSER_WEB_CONTENTS_WEB_CONTENTS_VIEW_CHILD_FRAME_H_
 

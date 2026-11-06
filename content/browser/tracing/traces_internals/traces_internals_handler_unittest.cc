@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for TracesInternalsHandler
+// summary: Unit tests for TracesInternalsHandler that use mocks and fakes to verify tracing session, trace report, and scenario handling.
+// ---
+
 #include "content/browser/tracing/traces_internals/traces_internals_handler.h"
 
 #include "base/base_paths.h"

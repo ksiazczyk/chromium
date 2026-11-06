@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speech synthesis browser backend implementation
+// summary: Implements the browser-side web speech synthesis backend, dispatching utterances to TtsController and forwarding voice lists and events to renderers.
+// ---
+
 #include "content/browser/speech/speech_synthesis_impl.h"
 
 #include "content/browser/media/audio_stream_monitor.h"

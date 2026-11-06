@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VrpFlags browser tests
+// summary: ContentBrowserTest suite exercising the VrpFlags Mojo interface over browser, GPU, and network bindings using an embedded test server and victim.test host mapping.
+// ---
+
 #include "components/vrp_flags/vrp_flags.h"
 
 #include <set>

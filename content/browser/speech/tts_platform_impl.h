@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTS platform implementation header
+// summary: Declares the abstract TtsPlatformImpl singleton with TtsPlatform overrides and a Linux helper to set the speech-dispatcher library path for testing.
+// ---
+
 #ifndef CONTENT_BROWSER_SPEECH_TTS_PLATFORM_IMPL_H_
 #define CONTENT_BROWSER_SPEECH_TTS_PLATFORM_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake speech dispatcher implementation for tests
+// summary: Implements fake speech-dispatcher spd_* C functions that record calls, return canned voices and modules, and fire callbacks so Linux TTS code can be tested without the real library.
+// ---
+
 #include "content/browser/speech/test/fake_speech_dispatcher.h"
 
 #include <stdlib.h>

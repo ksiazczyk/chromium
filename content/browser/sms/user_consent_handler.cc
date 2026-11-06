@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User consent handler implementation
+// summary: Implements no-op and prompt-based user consent handlers that ask the user to approve sharing a one-time code via an SMS prompt.
+// ---
+
 #include "content/browser/sms/user_consent_handler.h"
 #include "base/functional/callback.h"
 #include "content/browser/sms/webotp_service.h"

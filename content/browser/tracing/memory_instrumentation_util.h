@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory instrumentation utility header
+// summary: Declares InitializeBrowserMemoryInstrumentationClient, which registers the browser process as a memory-instrumentation client.
+// ---
+
 #ifndef CONTENT_BROWSER_TRACING_MEMORY_INSTRUMENTATION_UTIL_H_
 #define CONTENT_BROWSER_TRACING_MEMORY_INSTRUMENTATION_UTIL_H_
 

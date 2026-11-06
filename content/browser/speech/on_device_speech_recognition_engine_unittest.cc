@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: On-device speech recognition engine unit tests
+// summary: Unit tests for the on-device speech recognition engine covering audio data conversion, shutdown races, and session creation using fake model broker and session interfaces.
+// ---
+
 #include <array>
 #include <memory>
 

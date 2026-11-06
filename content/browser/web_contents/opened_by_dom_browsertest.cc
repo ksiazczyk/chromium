@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Opened by DOM browser tests
+// summary: Browser tests verifying that window.close() only closes windows opened by script or with a single-entry back/forward list.
+// ---
+
 #include "base/command_line.h"
 #include "content/public/browser/web_contents.h"
 #include "content/public/browser/web_contents_delegate.h"

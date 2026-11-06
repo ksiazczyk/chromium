@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android WebContentsView implementation
+// summary: Implements the Android-specific WebContentsView, handling drag events, select popups, overscroll refresh, and native view integration.
+// ---
+
 #include "content/browser/web_contents/web_contents_view_android.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMS provider base implementation
+// summary: Implements the SmsProvider base class, creating the platform provider and notifying observers of received SMS messages and failures.
+// ---
+
 #include "content/browser/sms/sms_provider.h"
 
 #include <memory>

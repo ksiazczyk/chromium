@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network speech recognition engine unit tests
+// summary: Unit tests for the network speech recognition engine, using a test URL loader factory and mock upstream and downstream responses.
+// ---
+
 
 #include "content/browser/speech/network_speech_recognition_engine_impl.h"
 

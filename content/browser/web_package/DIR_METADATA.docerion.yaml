@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Web package DIR_METADATA
+summary: Directory metadata file that pulls in the shared COMMON_METADATA settings via a mixins entry.

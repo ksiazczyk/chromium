@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast tracing agent header
+// summary: Declares registration of the Cast tracing Perfetto data source and its kCastTracingDataSource feature flag.
+// ---
+
 #ifndef CONTENT_BROWSER_TRACING_CAST_TRACING_AGENT_H_
 #define CONTENT_BROWSER_TRACING_CAST_TRACING_AGENT_H_
 

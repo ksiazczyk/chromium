@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VrpNavigationThrottle implementation
+// summary: Implements a navigation throttle that intercepts responses to victim.test or localhost ports and binds the registered single-use VrpFlags receiver to the target renderer process.
+// ---
+
 #include "content/browser/vrp_flags/vrp_navigation_throttle.h"
 
 #include "base/containers/flat_map.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed exchange handler implementation
+// summary: Implements SignedExchangeHandler, which parses and verifies signed exchanges, including certificate chain fetching, signature, CT and OCSP verification.
+// ---
+
 #include "content/browser/web_package/signed_exchange_handler.h"
 
 #include <memory>

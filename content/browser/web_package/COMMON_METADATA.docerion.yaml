@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Web package COMMON_METADATA
+summary: Chromium metadata file defining the monorail component, team email, and Buganizer component for the web_package directory.

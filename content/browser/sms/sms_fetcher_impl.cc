@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMS fetcher implementation
+// summary: Implements SmsFetcherImpl, coordinating local and remote SMS providers and dispatching one-time codes to subscribed origins.
+// ---
+
 #include "content/browser/sms/sms_fetcher_impl.h"
 
 #include "base/functional/callback.h"

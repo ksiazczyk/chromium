@@ -1,0 +1,4 @@
+# Docerion header of web_contents_view_mac_unittest.mm.
+type: test
+title: WebContentsViewMac unit tests
+summary: Unit tests for the macOS WebContentsView, verifying that drags disallowed by browser policy are rejected and that mouse capture handling works as expected.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Speech directory metadata
+summary: Points the speech directory to the shared Blink speech module metadata via a mixin.

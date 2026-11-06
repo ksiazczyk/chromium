@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebContents delegate unit tests
+// summary: Unit tests verifying that WebContents delegates register, unregister and clean up correctly across multiple WebContents instances.
+// ---
+
 #include "content/public/browser/web_contents_delegate.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefetched signed exchange cache entry implementation
+// summary: Implements cache entry setters and cloning for outer and inner URLs, responses, header integrity, signature expiry, and blob data handles.
+// ---
+
 #include "content/browser/web_package/prefetched_signed_exchange_cache_entry.h"
 
 #include "net/base/hash_value.h"

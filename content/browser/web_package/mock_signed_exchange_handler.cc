@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock signed exchange handler implementation
+// summary: Implements a mock signed exchange handler for tests, including a prefix-stripping source stream that recovers the inner resource from a mocked SXG payload.
+// ---
+
 #include "content/browser/web_package/mock_signed_exchange_handler.h"
 
 #include <string.h>

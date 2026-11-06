@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer for the SMS parser
+// summary: Feeds arbitrary input to SmsParser::Parse to fuzz the SMS one-time-code parsing logic.
+// ---
+
 #include "content/browser/sms/sms_parser.h"
 
 #include <stdint.h>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Speech directory include rules
+summary: Defines allowed header include dependencies for the browser speech directory, with per-file exceptions for speech-dispatcher, l10n, and Ash features.

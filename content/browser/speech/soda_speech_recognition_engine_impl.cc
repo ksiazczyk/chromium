@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SODA speech recognition engine implementation
+// summary: Implements the on-device SODA speech recognition engine that binds a speech recognition context and recognizer and forwards audio chunks to the speech recognition service.
+// ---
+
 #include "content/browser/speech/soda_speech_recognition_engine_impl.h"
 
 #include "base/compiler_specific.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TracingControllerImpl class declaration
+// summary: Declares the internal tracing controller with callback and compressed string endpoints and tracing control via base or Perfetto trace configs.
+// ---
+
 #ifndef CONTENT_BROWSER_TRACING_TRACING_CONTROLLER_IMPL_H_
 #define CONTENT_BROWSER_TRACING_TRACING_CONTROLLER_IMPL_H_
 

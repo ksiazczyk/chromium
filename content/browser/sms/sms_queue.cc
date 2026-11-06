@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMS queue implementation
+// summary: Implements SmsQueue, which tracks pending Web OTP subscribers per origin list and notifies the first subscriber of success or failure.
+// ---
+
 #include "content/browser/sms/sms_queue.h"
 
 #include "base/observer_list.h"

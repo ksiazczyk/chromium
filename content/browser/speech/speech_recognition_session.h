@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpeechRecognitionSession class declaration
+// summary: Declares SpeechRecognitionSession, which implements the media Mojo session interface and proxies manager events to the renderer's SpeechRecognitionSessionClient.
+// ---
+
 #ifndef CONTENT_BROWSER_SPEECH_SPEECH_RECOGNITION_SESSION_H_
 #define CONTENT_BROWSER_SPEECH_SPEECH_RECOGNITION_SESSION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signed exchange certificate chain unit tests
+// summary: Unit tests for SignedExchangeCertificateChain::Parse covering empty input, missing certificates, missing OCSP and valid single-certificate chains.
+// ---
+
 #include "content/browser/web_package/signed_exchange_certificate_chain.h"
 
 #include <optional>

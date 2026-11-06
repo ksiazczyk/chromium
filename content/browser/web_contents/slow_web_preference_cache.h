@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SlowWebPreferenceCache class declaration
+// summary: Declares the shared SlowWebPreferenceCache singleton and its observer interface for caching hardware-dependent WebPreferences on the main thread.
+// ---
+
 #ifndef CONTENT_BROWSER_WEB_CONTENTS_SLOW_WEB_PREFERENCE_CACHE_H_
 #define CONTENT_BROWSER_WEB_CONTENTS_SLOW_WEB_PREFERENCE_CACHE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed exchange certificate fetcher implementation
+// summary: Implements SignedExchangeCertFetcher, which fetches X.509v3 certificate chains over the network to verify signed HTTP exchange headers, enforcing a 100k certificate size limit.
+// ---
+
 #include "content/browser/web_package/signed_exchange_cert_fetcher.h"
 
 #include <optional>

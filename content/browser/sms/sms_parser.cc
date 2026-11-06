@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMS parser implementation
+// summary: Implements SmsParser::Parse, using a regex to extract the bound domain, optional embedded domain, and one-time code from an SMS message.
+// ---
+
 #include "content/browser/sms/sms_parser.h"
 
 #include <string>

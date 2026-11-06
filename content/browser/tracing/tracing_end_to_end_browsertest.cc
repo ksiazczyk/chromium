@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tracing end-to-end browser tests
+// summary: End-to-end browser tests validating Perfetto tracing across processes, including histogram samples, memory dumps, and trace processor queries.
+// ---
+
 #include <optional>
 #include <thread>
 

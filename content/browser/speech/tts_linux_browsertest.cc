@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linux TTS browser test
+// summary: Browser test that exercises the Linux TTS platform against a fake speech-dispatcher library, verifying voice listing and utterance speech events.
+// ---
+
 #include <optional>
 #include <string>
 

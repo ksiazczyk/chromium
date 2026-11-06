@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Traces internals page handler implementation
+// summary: Implements the browser-side handler that starts, clones, and stops tracing sessions and serves trace reports, scenarios, and settings to the traces internals WebUI.
+// ---
+
 #include "content/browser/tracing/traces_internals/traces_internals_handler.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockSmsWebContentsDelegate gmock header
+// summary: Declares a GoogleMock WebContentsDelegate whose CreateSmsPrompt method is mocked for SMS prompt tests.
+// ---
+
 #ifndef CONTENT_BROWSER_SMS_TEST_MOCK_SMS_WEB_CONTENTS_DELEGATE_H_
 #define CONTENT_BROWSER_SMS_TEST_MOCK_SMS_WEB_CONTENTS_DELEGATE_H_
 

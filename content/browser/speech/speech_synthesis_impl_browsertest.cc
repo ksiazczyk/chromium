@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Speech synthesis browser tests
+// summary: Browser tests for speech synthesis using a fake TTS platform and mock synthesis client to verify speaking events and voice handling.
+// ---
+
 #include "base/run_loop.h"
 #include "base/task/single_thread_task_runner.h"
 #include "content/browser/renderer_host/render_frame_host_impl.h"

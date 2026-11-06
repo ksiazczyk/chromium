@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracing service controller implementation
+// summary: Implements the browser-side controller that lazily launches the tracing service, in-process or as a utility process, and registers client processes.
+// ---
+
 #include "content/browser/tracing/tracing_service_controller.h"
 
 #include <utility>

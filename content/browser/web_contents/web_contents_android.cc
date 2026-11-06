@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContents Android JNI implementation
+// summary: Implements the Android wrapper around WebContents, exposing navigation, JavaScript evaluation, selection, media and accessibility operations to Java.
+// ---
+
 #include "content/browser/web_contents/web_contents_android.h"
 
 #include <stdint.h>

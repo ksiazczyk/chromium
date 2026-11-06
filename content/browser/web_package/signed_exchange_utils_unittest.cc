@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signed exchange utilities unit tests
+// summary: Unit tests for GetSignedExchangeVersion, checking parsing of the application/signed-exchange MIME type version parameter across valid, unknown, and malformed values.
+// ---
+
 #include "content/browser/web_package/signed_exchange_utils.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

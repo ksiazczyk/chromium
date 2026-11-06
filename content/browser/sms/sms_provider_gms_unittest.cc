@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Android GMS SMS provider
+// summary: Tests the JNI bindings and behavior of SmsProviderGms using a fake SMS retriever client across backends and failure scenarios.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "content/browser/sms/webotp_service.h"
 

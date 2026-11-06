@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GestureNavSimple overscroll controller delegate header
+// summary: Declares GestureNavSimple, an OverscrollControllerDelegate that paints an arrow hint over web contents for pending back or forward navigations triggered by overscroll.
+// ---
+
 #ifndef CONTENT_BROWSER_WEB_CONTENTS_AURA_GESTURE_NAV_SIMPLE_H_
 #define CONTENT_BROWSER_WEB_CONTENTS_AURA_GESTURE_NAV_SIMPLE_H_
 

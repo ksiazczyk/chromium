@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpeechRecognitionSession implementation
+// summary: Implements the Mojo SpeechRecognitionSession, aborting or stopping capture on disconnect and forwarding recognition events and results to the renderer client.
+// ---
+
 #include "content/browser/speech/speech_recognition_session.h"
 
 #include <memory>

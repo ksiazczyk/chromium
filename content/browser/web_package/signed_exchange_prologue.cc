@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed exchange prologue parser implementation
+// summary: Parses the initial bytes of the application/signed-exchange format, including the magic string, fallback URL and length fields preceding the CBOR-encoded response header.
+// ---
+
 #include "content/browser/web_package/signed_exchange_prologue.h"
 
 #include <string_view>

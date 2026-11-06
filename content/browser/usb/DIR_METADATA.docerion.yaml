@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: USB component metadata
+summary: Declares the Blink>USB monorail component, team email and Buganizer component ID for this directory.

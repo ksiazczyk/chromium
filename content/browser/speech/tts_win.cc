@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows TTS platform implementation
+// summary: Implements the Windows TTS platform on top of SAPI, enumerating registry voices and speaking utterances via a background worker with COM event handling.
+// ---
+
 #include <objbase.h>
 
 #include <math.h>

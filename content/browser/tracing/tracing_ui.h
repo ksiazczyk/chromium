@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracing WebUI controller header
+// summary: Declares the WebUI controller class and its config class that back the browser's tracing page.
+// ---
+
 #ifndef CONTENT_BROWSER_TRACING_TRACING_UI_H_
 #define CONTENT_BROWSER_TRACING_TRACING_UI_H_
 

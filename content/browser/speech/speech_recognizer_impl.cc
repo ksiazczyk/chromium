@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpeechRecognizerImpl implementation
+// summary: Implements microphone-based speech recognition, including audio conversion with resampling and channel mixing, volume metering, and clipping detection.
+// ---
+
 #include "content/browser/speech/speech_recognizer_impl.h"
 
 #include <stdint.h>

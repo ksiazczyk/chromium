@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System DNS resolver Mojo implementation
+// summary: Implements SystemDnsResolverMojoImpl, forwarding Mojo system DNS resolve requests to net's HostResolverSystemTask and returning address lists, OS errors, and net errors.
+// ---
+
 #include "content/browser/system_dns_resolution/system_dns_resolver.h"
 
 #include <algorithm>

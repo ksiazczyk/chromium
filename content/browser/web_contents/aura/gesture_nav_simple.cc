@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GestureNavSimple overscroll navigation implementation
+// summary: Implements the simple gesture-navigation affordance that paints an animated arrow and ripple during overscroll and triggers back or forward navigation for Aura web contents.
+// ---
+
 #include "content/browser/web_contents/aura/gesture_nav_simple.h"
 
 #include <utility>

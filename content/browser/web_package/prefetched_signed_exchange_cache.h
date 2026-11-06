@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefetched signed exchange cache declarations
+// summary: Declares PrefetchedSignedExchangeCache, which stores prefetched and verified signed exchanges keyed by outer URL and creates navigation loader interceptors.
+// ---
+
 #ifndef CONTENT_BROWSER_WEB_PACKAGE_PREFETCHED_SIGNED_EXCHANGE_CACHE_H_
 #define CONTENT_BROWSER_WEB_PACKAGE_PREFETCHED_SIGNED_EXCHANGE_CACHE_H_
 

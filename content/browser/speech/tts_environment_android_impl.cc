@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android TTS environment implementation
+// summary: Implements the Android TTS environment, permitting speech from hidden web contents and gating speech on whether the application has visible activities.
+// ---
+
 #include "content/browser/speech/tts_environment_android_impl.h"
 
 #include "base/functional/bind.h"

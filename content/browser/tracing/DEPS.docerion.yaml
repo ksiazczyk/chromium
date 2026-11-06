@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Tracing directory include rules
+summary: Include rules for the tracing directory, allowing generated tracing resources, Perfetto, and snappy headers, with per-file exceptions.
