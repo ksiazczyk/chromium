@@ -6,6 +6,12 @@
  * A style sheet for Chrome apps.
  */
 
+/*docerion
+type: source
+title: Style sheet for Chrome apps
+summary: Defines base styling for Chrome apps, disabling text selection and dragging and sizing webview and appview elements.
+*/
+
 @namespace "http://www.w3.org/1999/xhtml";
 
 body {

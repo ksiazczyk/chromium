@@ -1,0 +1,4 @@
+# Docerion header of extensions_strings_pl.xtb.
+type: data
+title: Polish extension strings translation bundle
+summary: Polish translations of UI strings for the Chromium extensions system, covering installation prompts, permissions, themes and error messages.

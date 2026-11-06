@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: APIBindingBridge class declaration
+// summary: Declares a gin-wrappable bridge object that conforms to the Binding prototype in binding.js and registers custom hooks for an extension context.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_BINDINGS_API_BINDING_BRIDGE_H_
 #define EXTENSIONS_RENDERER_BINDINGS_API_BINDING_BRIDGE_H_
 

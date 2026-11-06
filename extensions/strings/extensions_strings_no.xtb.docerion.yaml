@@ -1,0 +1,4 @@
+# Docerion header of extensions_strings_no.xtb.
+type: data
+title: Norwegian translations of Chromium extension strings
+summary: XML translation bundle providing Norwegian translations of user-facing Chromium extension strings, such as install prompts, permission messages and error texts.

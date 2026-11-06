@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Uncaught exception handling for extensions
+// summary: Formats and logs uncaught exceptions from extension callbacks, filters stack traces to extension frames, and lets tests override the handler.
+// ---
+
 // Handles uncaught exceptions thrown by extensions. By default this is to
 // log an error message, but tests may override this behaviour.
 var handler = function(message, e) {

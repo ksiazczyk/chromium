@@ -6,6 +6,12 @@
 // This is used to implement the contextMenus API for extensions and for the
 // <webview> tag (see chrome_web_view_experimental.js).
 
+// ---docerion
+// type: source
+// title: Shared contextMenus custom binding handlers
+// summary: Implements contextMenus API custom bindings shared by extensions and webview tags, managing menu item handlers, events, and callbacks.
+// ---
+
 var contextMenuNatives = requireNative('context_menus');
 
 // Add the bindings to the contextMenus API.

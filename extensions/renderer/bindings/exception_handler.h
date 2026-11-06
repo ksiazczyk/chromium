@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExceptionHandler class declaration
+// summary: Declares the ExceptionHandler class for handling uncaught exceptions in the extension bindings system, including V8 wrapper access, per-context handlers and safe callback running.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_BINDINGS_EXCEPTION_HANDLER_H_
 #define EXTENSIONS_RENDERER_BINDINGS_EXCEPTION_HANDLER_H_
 

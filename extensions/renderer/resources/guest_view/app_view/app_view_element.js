@@ -4,6 +4,12 @@
 
 // The <appview> custom element.
 
+// ---docerion
+// type: source
+// title: AppView custom element definition
+// summary: Defines the AppViewElement class extending GuestViewContainerElement, wires it to AppViewImpl, forwards the connect API method, and registers the appview custom element.
+// ---
+
 var registerElement = require('guestViewContainerElement').registerElement;
 var forwardApiMethods = require('guestViewContainerElement').forwardApiMethods;
 var GuestViewContainerElement =

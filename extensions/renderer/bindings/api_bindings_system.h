@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: APIBindingsSystem class declaration
+// summary: Declares the APIBindingsSystem class that assembles the JS entry points for extension APIs, safe for use across multiple v8 contexts.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_BINDINGS_API_BINDINGS_SYSTEM_H_
 #define EXTENSIONS_RENDERER_BINDINGS_API_BINDINGS_SYSTEM_H_
 

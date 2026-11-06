@@ -6,6 +6,12 @@
 // BrowserPlugin object element. The object element is hidden within
 // the shadow DOM of the WebView element.
 
+// ---docerion
+// type: source
+// title: WebView internal implementation
+// summary: Implements the internal state of the <webview> custom element, setting up its attributes, events, and element properties around a hidden BrowserPlugin object.
+// ---
+
 var $Element = require('safeMethods').SafeMethods.$Element;
 var GuestView = require('guestView').GuestView;
 var GuestViewContainer = require('guestViewContainer').GuestViewContainer;

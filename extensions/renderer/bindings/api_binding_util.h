@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: API binding context utility declarations
+// summary: Declares helpers for checking, initializing, and invalidating extension v8 contexts, plus a context invalidation listener and response validation toggles.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_BINDINGS_API_BINDING_UTIL_H_
 #define EXTENSIONS_RENDERER_BINDINGS_API_BINDING_UTIL_H_
 

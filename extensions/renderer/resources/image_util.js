@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image loading and scaling utilities
+// summary: Loads and scales image data for extension APIs, using canvas in normal contexts and fetch with OffscreenCanvas in service worker contexts.
+// ---
+
 var inServiceWorker = requireNative('utils').isInServiceWorker();
 
 // Compute a scaling factor for the image based on the supplied

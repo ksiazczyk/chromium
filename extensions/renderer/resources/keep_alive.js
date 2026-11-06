@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keep-alive helper for the background page
+// summary: Creates Mojo-backed keep-alive objects that hold the extension background page open until they are closed.
+// ---
+
 if ((typeof mojo === 'undefined') || !mojo.bindingsLibraryInitialized) {
   loadScript('mojo_bindings');
 }

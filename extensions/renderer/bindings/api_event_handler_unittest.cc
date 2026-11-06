@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the API event handler
+// summary: Unit tests for APIEventHandler covering event instance creation, listener management, filtering, and event dispatch in renderer contexts.
+// ---
+
 #include "extensions/renderer/bindings/api_event_handler.h"
 
 #include <optional>

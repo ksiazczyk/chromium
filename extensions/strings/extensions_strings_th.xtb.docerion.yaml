@@ -1,0 +1,4 @@
+# Docerion header of extensions_strings_th.xtb.
+type: data
+title: Thai extensions strings translation bundle
+summary: Thai (th) translation bundle providing localized UI strings for Chromium extensions, covering installation prompts, permissions, themes, and error messages.

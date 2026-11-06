@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: API event listener list implementations
+// summary: Implements filtered and unfiltered listener lists for extension API events, including validation of event filters and listener options.
+// ---
+
 #include "extensions/renderer/bindings/api_event_listeners.h"
 
 #include <algorithm>

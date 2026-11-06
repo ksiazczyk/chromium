@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArgumentSpec class declaration
+// summary: Declares ArgumentSpec, describing an extension API argument's type, properties, and constraints for validating and parsing V8 values.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_BINDINGS_ARGUMENT_SPEC_H_
 #define EXTENSIONS_RENDERER_BINDINGS_ARGUMENT_SPEC_H_
 

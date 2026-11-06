@@ -1,0 +1,4 @@
+# Docerion header of extensions_strings_pa.xtb.
+type: data
+title: Punjabi translations of Chromium extension strings
+summary: XML translation bundle providing Punjabi translations of user-facing Chromium extension strings, such as install prompts, permission messages and error texts.

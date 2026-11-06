@@ -1,0 +1,4 @@
+# Docerion header of extensions_strings_en-GB.xtb.
+type: data
+title: Extensions strings translation bundle (British English)
+summary: British English translations of Chromium extension UI strings such as install prompts, permission warnings and error messages, stored as an XML translation bundle.

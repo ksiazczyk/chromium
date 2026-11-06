@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: API event listener list interfaces
+// summary: Declares the APIEventListeners base interface and concrete listener list classes for adding, removing, and querying extension API event listeners.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_BINDINGS_API_EVENT_LISTENERS_H_
 #define EXTENSIONS_RENDERER_BINDINGS_API_EVENT_LISTENERS_H_
 

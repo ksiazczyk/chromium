@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: APIBindingHooksDelegate interface for custom API hooks
+// summary: Declares an interface that lets per-API custom implementations override default binding behavior for events, request handling, and template or instance initialization.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_BINDINGS_API_BINDING_HOOKS_DELEGATE_H_
 #define EXTENSIONS_RENDERER_BINDINGS_API_BINDING_HOOKS_DELEGATE_H_
 

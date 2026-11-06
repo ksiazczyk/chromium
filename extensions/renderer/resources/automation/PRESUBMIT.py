@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for the automation directory
+# summary: Presubmit script that runs web dev style checks and patch formatting checks on files in the automation directory.
+# ---
+
 """Presubmit script for files in extensions/renderer/resources/automation.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

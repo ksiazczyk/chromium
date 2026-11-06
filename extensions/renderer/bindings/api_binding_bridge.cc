@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: APIBindingBridge implementation
+// summary: Implements the bridge between JS-centric bindings and the native bindings system, exposing registerCustomHook with the API object and hook interface.
+// ---
+
 #include "extensions/renderer/bindings/api_binding_bridge.h"
 
 #include "base/values.h"

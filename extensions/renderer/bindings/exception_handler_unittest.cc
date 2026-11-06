@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExceptionHandler unit tests
+// summary: Unit tests for ExceptionHandler covering basic error handling, per-context custom handlers, non-Error thrown values and safe extension callback execution.
+// ---
+
 #include "extensions/renderer/bindings/exception_handler.h"
 
 #include <optional>

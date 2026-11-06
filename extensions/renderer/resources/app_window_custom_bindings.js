@@ -4,6 +4,12 @@
 
 // Custom binding for the app_window API.
 
+// ---docerion
+// type: source
+// title: Custom bindings for the app.window API
+// summary: Implements renderer-side bindings for the app window API, including a Bounds class with size constraints and custom create callbacks.
+// ---
+
 var appWindowNatives = requireNative('app_window_natives');
 var runtimeNatives = requireNative('runtime');
 var forEach = require('utils').forEach;

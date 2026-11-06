@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GuestViewInternal custom bindings implementation
+// summary: Implements native V8 bindings for the guestViewInternal extension API, covering attaching iframe guests, view registration and lookup, frame tokens, container destruction, and gesture-scoped calls.
+// ---
+
 #include "extensions/renderer/guest_view/guest_view_internal_custom_bindings.h"
 
 #include <string>

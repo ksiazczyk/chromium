@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestJSRunner implementation for extension bindings tests
+// summary: Implements a JSRunner test double that queues calls during suspension, supports scoped error allowance, and flushes pending calls for unit tests in the extensions renderer bindings.
+// ---
+
 #include "extensions/renderer/bindings/test_js_runner.h"
 
 #include <ostream>

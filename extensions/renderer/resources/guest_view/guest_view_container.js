@@ -5,6 +5,12 @@
 // This module implements the shared functionality for different guestview
 // containers, such as web_view, app_view, etc.
 
+// ---docerion
+// type: source
+// title: GuestView container shared functionality
+// summary: Implements shared functionality for guest view containers such as web_view and app_view, including internal iframe creation and shadow root setup.
+// ---
+
 var $parseInt = require('safeMethods').SafeMethods.$parseInt;
 var $getComputedStyle = require('safeMethods').SafeMethods.$getComputedStyle;
 var $Document = require('safeMethods').SafeMethods.$Document;

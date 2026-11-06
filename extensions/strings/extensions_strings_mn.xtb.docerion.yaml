@@ -1,0 +1,4 @@
+# Docerion header of extensions_strings_mn.xtb.
+type: data
+title: Mongolian translations of Chromium extension strings
+summary: XML translation bundle providing Mongolian translations of user-facing Chromium extension strings, such as install prompts, permission messages and error texts.

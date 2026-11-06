@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JSRunner per-context instance management implementation
+// summary: Implements JSRunner instance lookup and per-context registration for safely running JavaScript functions.
+// ---
+
 #include "extensions/renderer/bindings/js_runner.h"
 
 #include "base/containers/span.h"

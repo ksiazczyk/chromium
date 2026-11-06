@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: api_signature.cc
+// summary: Implements APISignature, which parses and resolves extension API call arguments against schema-defined signatures for V8 and JSON inputs.
+// ---
+
 #include "extensions/renderer/bindings/api_signature.h"
 
 #include "base/memory/raw_ref.h"

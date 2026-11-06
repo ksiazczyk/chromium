@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: api_request_handler_unittest.cc
+// summary: Unit tests for APIRequestHandler covering starting and completing requests, callback and promise responses, user gestures and context invalidation.
+// ---
+
 #include "extensions/renderer/bindings/api_request_handler.h"
 
 #include <optional>

@@ -1,0 +1,4 @@
+# Docerion header of extensions_strings_zh-HK.xtb.
+type: data
+title: Traditional Chinese (Hong Kong) translations for extension strings
+summary: Traditional Chinese (Hong Kong) translation bundle with localized strings for Chromium extension and app UI messages such as install prompts and errors.

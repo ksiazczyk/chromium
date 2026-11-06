@@ -1,0 +1,4 @@
+# Docerion header of extensions_strings_sv.xtb.
+type: data
+title: Swedish extensions strings translation bundle
+summary: Swedish (sv) translation bundle providing localized UI strings for Chromium extensions, covering installation prompts, permissions, themes, and error messages.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: API invocation error message declarations
+// summary: Declares the api_errors namespace with type name constants and helpers for building argument parsing error messages.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_BINDINGS_API_INVOCATION_ERRORS_H_
 #define EXTENSIONS_RENDERER_BINDINGS_API_INVOCATION_ERRORS_H_
 

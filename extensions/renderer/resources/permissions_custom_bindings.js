@@ -4,6 +4,12 @@
 
 // Custom binding for the Permissions API.
 
+// ---docerion
+// type: source
+// title: Custom bindings for the Permissions API
+// summary: Custom bindings that convert object-style permissions to strings and back for validation and events in the permissions API.
+// ---
+
 function maybeConvertToObject(str) {
   var parts = $String.split(str, '|');
   if (parts.length != 2)

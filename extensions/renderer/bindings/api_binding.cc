@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: APIBinding implementation
+// summary: Implements the APIBinding class that creates v8 objects for extension APIs, matching call arguments against expected method signatures and throwing errors on mismatch.
+// ---
+
 #include "extensions/renderer/bindings/api_binding.h"
 
 #include <algorithm>

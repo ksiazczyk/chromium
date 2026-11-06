@@ -1,0 +1,4 @@
+# Docerion header of extensions_strings_tr.xtb.
+type: data
+title: Turkish extensions strings translation bundle
+summary: Turkish (tr) translation bundle providing localized UI strings for Chromium extensions, covering installation prompts, permissions, themes, and error messages.

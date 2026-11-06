@@ -17,6 +17,12 @@
  * much as possible.
  */
 
+/*docerion
+type: source
+title: Chrome styles stylesheet for extension pages
+summary: Applies Chrome user-agent-like styles to extension pages that opt in, copied from WebUI stylesheets without CSS class logic.
+*/
+
 body {
   color: #333;
   cursor: default;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GuestViewInternal custom bindings class declaration
+// summary: Declares the ObjectBackedNativeHandler that routes guestViewInternal API calls such as AttachIframeGuest, GetViewFromID, RegisterView, and RunWithGesture to their implementations.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_GUEST_VIEW_GUEST_VIEW_INTERNAL_CUSTOM_BINDINGS_H_
 #define EXTENSIONS_RENDERER_GUEST_VIEW_GUEST_VIEW_INTERNAL_CUSTOM_BINDINGS_H_
 

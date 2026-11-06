@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Last error property implementation
+// summary: Implements APILastError, which creates and clears the chrome.runtime.lastError property and reports unchecked errors to the console.
+// ---
+
 #include "extensions/renderer/bindings/api_last_error.h"
 
 #include <optional>

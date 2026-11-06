@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared file entry binding utilities
+// summary: Shared helpers that bind FileEntry and DirectoryEntry callbacks and track saved entry IDs for file system related extension APIs.
+// ---
+
 var fileSystemNatives = requireNative('file_system_natives');
 var GetIsolatedFileSystem = fileSystemNatives.GetIsolatedFileSystem;
 var GetModuleSystem = requireNative('v8_context').GetModuleSystem;

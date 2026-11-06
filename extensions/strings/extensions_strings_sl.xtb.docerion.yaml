@@ -1,0 +1,4 @@
+# Docerion header of extensions_strings_sl.xtb.
+type: data
+title: Slovenian extension strings translation bundle
+summary: Slovenian translations of UI strings for the Chromium extensions system, covering installation prompts, permissions and error messages.

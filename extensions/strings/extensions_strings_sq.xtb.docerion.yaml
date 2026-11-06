@@ -1,0 +1,4 @@
+# Docerion header of extensions_strings_sq.xtb.
+type: data
+title: Albanian extension strings translation bundle
+summary: Albanian translations of UI strings for the Chromium extensions system, covering installation prompts, permissions and error messages.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: APIBindingHooksTestDelegate class declaration
+// summary: Declares a test delegate for simply adding custom events, request handlers, and template or instance initializers when testing API bindings.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_BINDINGS_API_BINDING_HOOKS_TEST_DELEGATE_H_
 #define EXTENSIONS_RENDERER_BINDINGS_API_BINDING_HOOKS_TEST_DELEGATE_H_
 

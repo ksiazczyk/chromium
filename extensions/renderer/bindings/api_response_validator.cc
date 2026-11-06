@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: api_response_validator.cc
+// summary: Implements APIResponseValidator, which checks API method responses and event arguments against the expected schema signatures.
+// ---
+
 #include "extensions/renderer/bindings/api_response_validator.h"
 
 #include <algorithm>

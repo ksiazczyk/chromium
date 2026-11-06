@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Last error property declarations
+// summary: Declares APILastError, which sets, clears, and reports the lastError property for extension API calls in a V8 context.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_BINDINGS_API_LAST_ERROR_H_
 #define EXTENSIONS_RENDERER_BINDINGS_API_LAST_ERROR_H_
 

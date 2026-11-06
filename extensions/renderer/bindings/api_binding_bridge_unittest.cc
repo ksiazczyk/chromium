@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: APIBindingBridge unit tests
+// summary: Tests that using the bridge after context invalidation throws an extension context invalidated error.
+// ---
+
 #include "extensions/renderer/bindings/api_binding_bridge.h"
 
 #include "extensions/common/extension_id.h"

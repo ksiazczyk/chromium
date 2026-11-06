@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeclarativeEvent unit tests
+// summary: Unit tests for DeclarativeEvent covering rule registration and request handling using a test API bindings system, type reference map and interaction provider.
+// ---
+
 #include "extensions/renderer/bindings/declarative_event.h"
 
 #include <memory>

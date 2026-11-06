@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for guest_view renderer code
+summary: Points the directory metadata at the shared guest_view COMMON_METADATA mixins for team and component information.

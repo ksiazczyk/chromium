@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReturnsAsyncBuilder implementation
+// summary: Implements the builder that constructs APISignature ReturnsAsync definitions with promise support and optionality settings.
+// ---
+
 #include "extensions/renderer/bindings/returns_async_builder.h"
 
 #include "base/check.h"

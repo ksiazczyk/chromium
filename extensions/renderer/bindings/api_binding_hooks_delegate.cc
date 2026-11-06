@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: APIBindingHooksDelegate base implementation
+// summary: Provides default hook delegate behavior that creates no custom events and reports requests as not handled.
+// ---
+
 #include "extensions/renderer/bindings/api_binding_hooks_delegate.h"
 
 namespace extensions {

@@ -1,0 +1,4 @@
+# Docerion header of extensions_strings_ru.xtb.
+type: data
+title: Russian extension strings translation bundle
+summary: Russian translations of UI strings for the Chromium extensions system, covering installation prompts, permissions and error messages.

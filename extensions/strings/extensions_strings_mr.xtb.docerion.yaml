@@ -1,0 +1,4 @@
+# Docerion header of extensions_strings_mr.xtb.
+type: data
+title: Marathi translations of Chromium extension strings
+summary: XML translation bundle providing Marathi translations of user-facing Chromium extension strings, such as install prompts, permission messages and error texts.

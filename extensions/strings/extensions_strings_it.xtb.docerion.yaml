@@ -1,0 +1,4 @@
+# Docerion header of extensions_strings_it.xtb.
+type: data
+title: Extensions strings translation bundle (Italian)
+summary: Italian translations of Chromium's extension-related UI messages, stored in the XTB XML translation bundle format.

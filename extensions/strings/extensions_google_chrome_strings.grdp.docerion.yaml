@@ -1,0 +1,4 @@
+# Docerion header of extensions_google_chrome_strings.grdp.
+type: data
+title: Google Chrome-specific extension strings
+summary: Grit part with Google Chrome-branded external install prompt strings for the extensions module, included from the main GRD file.

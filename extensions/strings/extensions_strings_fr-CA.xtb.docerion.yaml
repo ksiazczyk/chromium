@@ -1,0 +1,4 @@
+# Docerion header of extensions_strings_fr-CA.xtb.
+type: data
+title: Extensions strings translation bundle for French (Canada)
+summary: XML translation bundle with Canadian French localized strings for Chromium's extensions UI, covering install prompts, permission requests and error messages.

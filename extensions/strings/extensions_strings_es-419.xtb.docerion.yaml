@@ -1,0 +1,4 @@
+# Docerion header of extensions_strings_es-419.xtb.
+type: data
+title: Extensions strings translation bundle for Spanish (Latin America)
+summary: XML translation bundle with Spanish (Latin America) localized strings for Chromium's extensions UI, covering install prompts, permission messages and error texts.

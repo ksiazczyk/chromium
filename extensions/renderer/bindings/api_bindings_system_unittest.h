@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: APIBindingsSystem test base class
+// summary: Declares the APIBindingsSystemTest base class that lets subclasses supply fake API schemas and validate requests, events, and console errors.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_BINDINGS_API_BINDINGS_SYSTEM_UNITTEST_H_
 #define EXTENSIONS_RENDERER_BINDINGS_API_BINDINGS_SYSTEM_UNITTEST_H_
 

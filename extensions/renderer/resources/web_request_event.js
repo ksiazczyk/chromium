@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRequest event bindings and sub-event dispatch
+// summary: Implements webRequest event bindings with unique sub-event names, per-context dispatch, and extra header handling for request and response listeners.
+// ---
+
 var CHECK = requireNative('logging').CHECK;
 var idGeneratorNatives = requireNative('id_generator');
 var utils = require('utils');

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the bindings directory
+summary: Lists the reviewers responsible for the extensions renderer bindings directory.

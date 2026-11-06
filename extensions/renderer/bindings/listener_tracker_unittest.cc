@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ListenerTracker listener tracking
+// summary: Unit tests covering unfiltered and filtered listener add/remove behavior and listener count metrics in ListenerTracker.
+// ---
+
 #include "extensions/renderer/bindings/listener_tracker.h"
 
 #include <memory>

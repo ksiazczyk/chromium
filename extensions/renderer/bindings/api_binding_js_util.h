@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: APIBindingJSUtil class declaration
+// summary: Declares a gin-wrappable object exposing utility methods such as sendRequest and event argument massager registration to the existing JS bindings.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_BINDINGS_API_BINDING_JS_UTIL_H_
 #define EXTENSIONS_RENDERER_BINDINGS_API_BINDING_JS_UTIL_H_
 

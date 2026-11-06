@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Automation node and tree implementation
+// summary: Implements automation tree nodes and the root node, wrapping native accessibility tree data such as document state, selection, and node attributes.
+// ---
+
 const AutomationEvent = require('automationEvent').AutomationEvent;
 const automationInternal = getInternalApi('automationInternal');
 const AutomationTreeCache = require('automationTreeCache').AutomationTreeCache;

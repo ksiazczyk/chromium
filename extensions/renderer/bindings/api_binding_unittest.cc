@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: APIBinding unit tests
+// summary: Unit tests for the APIBinding class covering function signatures, callbacks, promises, hooks, and argument validation with fake API schemas.
+// ---
+
 #include "extensions/renderer/bindings/api_binding.h"
 
 #include <optional>

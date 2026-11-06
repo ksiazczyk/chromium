@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExceptionHandler implementation for bindings errors
+// summary: Implements the ExceptionHandler that reports uncaught exceptions in the bindings system, supporting per-context custom handlers, V8 wrappers and console error logging.
+// ---
+
 #include "extensions/renderer/bindings/exception_handler.h"
 
 #include "base/check.h"

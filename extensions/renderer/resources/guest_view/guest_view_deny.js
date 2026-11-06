@@ -6,6 +6,12 @@
 // permissions are not available. These elements exist only to provide a useful
 // error message when developers attempt to use them.
 
+// ---docerion
+// type: source
+// title: Denied guest view element registration
+// summary: Registers placeholder guest view elements that log an error about missing permissions when developers use them without the required manifest permission.
+// ---
+
 var $CustomElementRegistry =
     require('safeMethods').SafeMethods.$CustomElementRegistry;
 var $EventTarget = require('safeMethods').SafeMethods.$EventTarget;

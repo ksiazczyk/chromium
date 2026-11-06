@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Extensions strings build rules
+summary: GN build file that runs grit to generate extension string resources from the GRD source, branded grit parts and XTB translations.

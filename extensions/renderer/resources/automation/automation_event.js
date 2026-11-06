@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutomationEvent class
+// summary: Defines the AutomationEvent class representing automation events with type, target, phase, mouse position, and intent properties.
+// ---
+
 class AutomationEvent {
   constructor(
       type, target, eventFrom, eventFromAction, mouseX, mouseY, intents) {

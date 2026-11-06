@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArgumentSpec implementation
+// summary: Implements ArgumentSpec, validating and parsing JavaScript API arguments against extension API schemas and producing detailed invocation errors.
+// ---
+
 #include "extensions/renderer/bindings/argument_spec.h"
 
 #include <cmath>

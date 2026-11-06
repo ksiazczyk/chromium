@@ -5,6 +5,12 @@
 // This module implements helper objects for the dialog, newwindow, and
 // permissionrequest <webview> events.
 
+// ---docerion
+// type: source
+// title: WebView action request helpers
+// summary: Implements helper objects for the dialog, newwindow, and permissionrequest <webview> events, including default actions and permission type handling.
+// ---
+
 var logging = requireNative('logging');
 var MessagingNatives = requireNative('messaging_natives');
 var tagLogMessage = require('guestViewConstants').tagLogMessage;

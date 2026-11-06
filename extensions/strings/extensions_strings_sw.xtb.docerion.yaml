@@ -1,0 +1,4 @@
+# Docerion header of extensions_strings_sw.xtb.
+type: data
+title: Swahili extensions strings translation bundle
+summary: Swahili (sw) translation bundle providing localized UI strings for Chromium extensions, covering installation prompts, permissions, themes, and error messages.

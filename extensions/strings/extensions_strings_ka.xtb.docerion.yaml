@@ -1,0 +1,4 @@
+# Docerion header of extensions_strings_ka.xtb.
+type: data
+title: Extensions strings translation bundle (Georgian)
+summary: Georgian translation bundle providing localized UI strings for Chromium's extensions system, covering installation, permissions, and error messages.

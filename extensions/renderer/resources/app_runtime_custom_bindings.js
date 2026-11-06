@@ -4,6 +4,12 @@
 
 // Custom binding for the chrome.app.runtime API.
 
+// ---docerion
+// type: source
+// title: Custom bindings for the chrome.app.runtime API
+// summary: Implements renderer-side custom bindings for chrome.app.runtime, massaging onEmbedRequested and onLaunched events including file handler launch items.
+// ---
+
 var AppViewGuestInternal;
 // appViewGuestInternal isn't available in lock screen contexts.
 if (requireNative('v8_context').GetAvailability('appViewGuestInternal').

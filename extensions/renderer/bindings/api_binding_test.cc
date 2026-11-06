@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: APIBindingTest fixture implementation
+// summary: Implements the common unit test fixture that initializes a V8 isolate and contexts, disposes them safely, and runs garbage collection to detect leaks.
+// ---
+
 #include "extensions/renderer/bindings/api_binding_test.h"
 
 #include <algorithm>

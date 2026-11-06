@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: API binding test utility declarations
+// summary: Declares test helpers for value conversion, script compilation, and running V8 functions with a receiver, on the global object, or expecting specific errors.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_BINDINGS_API_BINDING_TEST_UTIL_H_
 #define EXTENSIONS_RENDERER_BINDINGS_API_BINDING_TEST_UTIL_H_
 

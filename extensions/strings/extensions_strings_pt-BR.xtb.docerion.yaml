@@ -1,0 +1,4 @@
+# Docerion header of extensions_strings_pt-BR.xtb.
+type: data
+title: Brazilian Portuguese extension strings translation bundle
+summary: Brazilian Portuguese translations of UI strings for the Chromium extensions system, covering installation prompts, permissions and error messages.

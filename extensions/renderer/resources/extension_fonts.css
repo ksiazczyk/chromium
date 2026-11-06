@@ -6,6 +6,12 @@
  * This stylesheet is used to apply Chrome system fonts to all extension pages.
  */
 
+/*docerion
+type: source
+title: System font stylesheet for extension pages
+summary: Applies Chrome system font family and size to all extension pages through build-time font placeholders.
+*/
+
 body {
   font-family: $FONTFAMILY;
   font-size: $FONTSIZE;

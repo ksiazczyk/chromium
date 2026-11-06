@@ -1,0 +1,4 @@
+# Docerion header of extensions_strings_bn.xtb.
+type: data
+title: Extensions strings translation bundle (Bengali)
+summary: Bengali translations of Chromium extension UI strings such as install prompts, permission warnings and error messages, stored as an XML translation bundle.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArgumentSpec unit tests
+// summary: Unit tests for ArgumentSpec covering argument type checking, parsing, error messages, and conversion of V8 values.
+// ---
+
 #include "extensions/renderer/bindings/argument_spec.h"
 
 #include <string_view>

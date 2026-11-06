@@ -4,6 +4,12 @@
 
 // This module contains the public-facing API functions for the <webview> tag.
 
+// ---docerion
+// type: source
+// title: WebView public API method list
+// summary: Enumerates the public-facing API method names for the <webview> tag, such as back, executeScript, setZoom, and terminate.
+// ---
+
 var WEB_VIEW_API_METHODS = [
   // Add content scripts for the guest page.
   'addContentScripts',

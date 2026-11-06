@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Disabling of web APIs unavailable in packaged apps
+// summary: Replaces web platform methods unavailable in packaged apps with stubs that log errors or throw, while preserving responsible feature detection.
+// ---
+
 var logging = requireNative('logging');
 
 /**

@@ -5,6 +5,12 @@
 // test_custom_bindings.js
 // mini-framework for ExtensionApiTest browser tests
 
+// ---docerion
+// type: test
+// title: Test bindings framework for extension API browser tests
+// summary: Mini-framework for ExtensionApiTest browser tests, providing deep-equality checks and test API helpers aligned with the W3C browser.test proposal.
+// ---
+
 const environmentSpecificBindings =
     require('test_environment_specific_bindings');
 const GetExtensionAPIDefinitionsForTest =

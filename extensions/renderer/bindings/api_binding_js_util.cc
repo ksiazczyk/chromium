@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: APIBindingJSUtil implementation
+// summary: Implements gin-exposed utility methods for JS bindings, covering request sending, event argument massagers, custom and declarative events, and last error handling.
+// ---
+
 #include "extensions/renderer/bindings/api_binding_js_util.h"
 
 #include <optional>

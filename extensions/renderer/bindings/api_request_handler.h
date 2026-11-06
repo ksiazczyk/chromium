@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: api_request_handler.h
+// summary: Declares APIRequestHandler, a manager for pending extension API requests with request details, send method, last error and user gesture handling.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_BINDINGS_API_REQUEST_HANDLER_H_
 #define EXTENSIONS_RENDERER_BINDINGS_API_REQUEST_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: APIBindingsSystem implementation
+// summary: Implements the APIBindingsSystem that creates API binding instances, completes requests, fires events, and manages hooks and custom types.
+// ---
+
 #include "extensions/renderer/bindings/api_bindings_system.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Implementation of the APIBindingHooksTestDelegate
+// summary: Implements a test hooks delegate that registers custom request handlers, custom events, and template or instance initializers for API binding tests.
+// ---
+
 #include "extensions/renderer/bindings/api_binding_hooks_test_delegate.h"
 
 #include <string_view>

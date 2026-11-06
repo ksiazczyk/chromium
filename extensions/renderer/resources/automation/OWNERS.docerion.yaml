@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the automation directory
+summary: Lists dtseng@chromium.org and katie@chromium.org as the owners responsible for reviewing changes here.

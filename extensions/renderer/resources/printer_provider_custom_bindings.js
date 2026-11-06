@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom bindings for the printerProvider API
+// summary: Implements chrome.printerProvider event bindings that strip request IDs, validate callback results against schemas, and report print data once.
+// ---
+
 var printerProviderInternal = getInternalApi('printerProviderInternal');
 
 var printerProviderSchema =

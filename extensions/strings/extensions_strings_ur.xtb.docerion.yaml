@@ -1,0 +1,4 @@
+# Docerion header of extensions_strings_ur.xtb.
+type: data
+title: Urdu extensions strings translation bundle
+summary: Urdu (ur) translation bundle providing localized UI strings for Chromium extensions, covering installation prompts, permissions, themes, and error messages.
