@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AXPlatformNodeAuraLinux unit tests
+// summary: Unit tests for the Linux ATK-based AXPlatformNodeAuraLinux accessibility implementation, covering states, relations and events.
+// ---
+
 #include "ui/accessibility/platform/ax_platform_node_auralinux.h"
 
 #include <atk/atk.h>

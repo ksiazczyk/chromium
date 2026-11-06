@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXEventRecorderWinUia implementation
+// summary: Implements the Windows UIA event recorder, running UIA automation on a dedicated MTA thread to record accessibility events for tests.
+// ---
+
 #include "ui/accessibility/platform/inspect/ax_event_recorder_win_uia.h"
 
 #include <psapi.h>

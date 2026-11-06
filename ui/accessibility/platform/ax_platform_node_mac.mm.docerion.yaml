@@ -1,0 +1,4 @@
+# Docerion header of ax_platform_node_mac.mm.
+type: source
+title: macOS accessibility platform node implementation
+summary: Implements AXPlatformNodeMac, mapping accessibility events and announcements to NSAccessibility notifications on macOS.

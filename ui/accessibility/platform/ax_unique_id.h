@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXUniqueId header declaring unique accessibility object IDs
+// summary: Declares AXUniqueId, which generates accessibility object IDs that are unique across the whole Chrome instance and become reusable when instances are destroyed.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_AX_UNIQUE_ID_H_
 #define UI_ACCESSIBILITY_PLATFORM_AX_UNIQUE_ID_H_
 

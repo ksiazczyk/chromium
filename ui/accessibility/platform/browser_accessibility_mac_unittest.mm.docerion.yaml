@@ -1,0 +1,4 @@
+# Docerion header of browser_accessibility_mac_unittest.mm.
+type: test
+title: Unit tests for macOS browser accessibility
+summary: Unit tests for BrowserAccessibilityMac covering table structures, headers, and native Cocoa wrapper behavior on macOS.

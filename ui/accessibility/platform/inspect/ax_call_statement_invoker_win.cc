@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXCallStatementInvokerWin implementation
+// summary: Executes accessibility inspection call statements against IAccessible and IAccessible2 objects on Windows, including interface queries and attribute access.
+// ---
+
 #include "ui/accessibility/platform/inspect/ax_call_statement_invoker_win.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android accessibility class name constants
+// summary: Defines constants for Android widget class names and accessibility values used by Android accessibility support.
+// ---
+
 #include "ui/accessibility/platform/ax_android_constants.h"
 
 namespace ui {

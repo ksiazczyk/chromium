@@ -1,0 +1,4 @@
+# Docerion header of ax_inspect_utils_mac.mm.
+type: source
+title: macOS accessibility inspect utilities
+summary: Implements macOS accessibility inspection helpers including attribute validation and AXUIElement lookup by role, selector, application or window title.

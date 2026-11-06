@@ -1,0 +1,4 @@
+# Docerion header of ax_utils_mac.mm.
+type: source
+title: macOS accessibility text marker utility implementations
+summary: Implements conversion between macOS AXTextMarker and AXTextMarkerRange objects and Chromium accessibility positions and ranges for the accessibility tree.

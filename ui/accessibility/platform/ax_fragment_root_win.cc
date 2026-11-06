@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows UI Automation fragment root implementation
+// summary: Implements the Windows fragment root platform node, providing UI Automation fragment root and item container provider behavior.
+// ---
+
 #include "ui/accessibility/platform/ax_fragment_root_win.h"
 
 #include <limits>

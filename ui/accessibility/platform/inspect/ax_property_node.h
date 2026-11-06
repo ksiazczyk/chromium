@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXPropertyNode tree structure for property invocations
+// summary: Declares AXPropertyNode, a tree-like structure representing accessibility property calls with arguments, chains, wildcards and conversion helpers.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_INSPECT_AX_PROPERTY_NODE_H_
 #define UI_ACCESSIBILITY_PLATFORM_INSPECT_AX_PROPERTY_NODE_H_
 

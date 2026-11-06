@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows UIA accessibility tree formatter implementation
+// summary: Builds and formats Windows UI Automation accessibility trees, including runtime id handling, for accessibility testing and debugging.
+// ---
+
 #include "ui/accessibility/platform/inspect/ax_tree_formatter_uia_win.h"
 
 #include <math.h>

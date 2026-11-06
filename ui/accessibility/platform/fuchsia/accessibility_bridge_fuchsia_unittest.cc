@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility bridge Fuchsia unit tests
+// summary: Unit tests for the Fuchsia accessibility bridge using fake semantic provider and platform node delegate to verify node updates, deletions and actions.
+// ---
+
 #include <fidl/fuchsia.accessibility.semantics/cpp/fidl.h>
 #include <fidl/fuchsia.ui.views/cpp/hlcpp_conversion.h>
 #include <lib/zx/eventpair.h>

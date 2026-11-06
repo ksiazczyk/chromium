@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for ui/actions
+summary: Specifies the allowed include directories for code in the ui/actions directory.

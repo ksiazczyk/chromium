@@ -1,0 +1,4 @@
+# Docerion header of browser_accessibility_manager_ios.mm.
+type: source
+title: iOS browser accessibility manager implementation
+summary: Implements the iOS accessibility manager, posting UIKit layout change notifications and converting view bounds to screen coordinates.

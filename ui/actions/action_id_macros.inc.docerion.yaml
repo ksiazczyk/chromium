@@ -1,0 +1,4 @@
+# Docerion header of action_id_macros.inc.
+type: source
+title: Action ID macro definitions
+summary: Provides macros that declare action id enumerations and their stringized or mapped names for persistence, selected by preprocessor defines.

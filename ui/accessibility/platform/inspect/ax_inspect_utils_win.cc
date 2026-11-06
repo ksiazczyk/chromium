@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows IAccessible and UIA inspect utilities
+// summary: Implements Windows accessibility inspection helpers that convert MSAA, IAccessible2 and UIA roles, states and events to strings and locate windows by selector.
+// ---
+
 #include "ui/accessibility/platform/inspect/ax_inspect_utils_win.h"
 
 #include <map>

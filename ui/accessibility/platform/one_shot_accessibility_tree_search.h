@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: One-shot accessibility tree search header
+// summary: Declares OneShotAccessibilityTreeSearch and the built-in accessibility match predicates for searching the tree from a given node.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_ONE_SHOT_ACCESSIBILITY_TREE_SEARCH_H_
 #define UI_ACCESSIBILITY_PLATFORM_ONE_SHOT_ACCESSIBILITY_TREE_SEARCH_H_
 

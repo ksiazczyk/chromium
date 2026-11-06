@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXCallStatementInvoker Mac declaration
+// summary: Declares the macOS invoker that executes chained accessibility attribute calls on AXUIElement and NSAccessibilityElement targets.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_INSPECT_AX_CALL_STATEMENT_INVOKER_MAC_H_
 #define UI_ACCESSIBILITY_PLATFORM_INSPECT_AX_CALL_STATEMENT_INVOKER_MAC_H_
 

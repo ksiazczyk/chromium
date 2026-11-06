@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8 handler function wrapper implementation
+// summary: Implements RunV8, adapting V8 function callback arguments into gin Arguments for wrapped handler functions.
+// ---
+
 #include "ui/accessibility/platform/automation/v8_handler_function_wrapper.h"
 
 #include "gin/arguments.h"

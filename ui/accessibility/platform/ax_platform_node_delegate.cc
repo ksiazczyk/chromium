@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXPlatformNodeDelegate implementation
+// summary: Implements default AXPlatformNodeDelegate behavior such as text content computation and tree manager lookup.
+// ---
+
 #include "ui/accessibility/platform/ax_platform_node_delegate.h"
 
 #include <algorithm>

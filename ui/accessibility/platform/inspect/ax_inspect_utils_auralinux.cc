@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux AT-SPI accessibility inspect utilities
+// summary: Converts AT-SPI states, relations and roles to their names and supports locating accessible nodes on Linux for accessibility inspection dumps.
+// ---
+
 #include "ui/accessibility/platform/inspect/ax_inspect_utils_auralinux.h"
 
 #include <array>

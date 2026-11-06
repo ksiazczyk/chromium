@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Automation accessibility tree wrapper declaration
+// summary: Declares the AutomationAXTreeWrapper class that wraps one AXTree with the state and helpers needed for the automation API.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_AUTOMATION_AUTOMATION_AX_TREE_WRAPPER_H_
 #define UI_ACCESSIBILITY_PLATFORM_AUTOMATION_AUTOMATION_AX_TREE_WRAPPER_H_
 

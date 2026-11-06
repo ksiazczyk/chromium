@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for accessibility platform
+summary: Lists code owners for ATK/AuraLinux and Windows/UIA accessibility files with per-file review rules.

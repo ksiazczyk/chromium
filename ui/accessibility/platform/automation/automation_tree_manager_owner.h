@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Automation tree manager owner interface
+// summary: Declares the virtual AutomationTreeManagerOwner class that owns AutomationAXTreeWrappers and sends accessibility events, focus changes and global node bounds to V8.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_AUTOMATION_AUTOMATION_TREE_MANAGER_OWNER_H_
 #define UI_ACCESSIBILITY_PLATFORM_AUTOMATION_AUTOMATION_TREE_MANAGER_OWNER_H_
 

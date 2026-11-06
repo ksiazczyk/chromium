@@ -1,0 +1,4 @@
+# Docerion header of ichromeaccessible.idl.
+type: source
+title: IChromeAccessible COM interface definition (IDL)
+summary: Defines the experimental IChromeAccessible and IChromeAccessibleDelegate COM interfaces exposing bulk fetch and hit test accessibility operations on Windows.

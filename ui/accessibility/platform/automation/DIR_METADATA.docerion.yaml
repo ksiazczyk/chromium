@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for accessibility automation
+summary: Sets the monorail component, team email and Buganizer components used for issues in this directory.

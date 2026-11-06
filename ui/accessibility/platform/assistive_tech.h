@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AssistiveTech enum header
+// summary: Declares the AssistiveTech enum of known assistive technologies plus screen reader and name helper functions.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_ASSISTIVE_TECH_H_
 #define UI_ACCESSIBILITY_PLATFORM_ASSISTIVE_TECH_H_
 

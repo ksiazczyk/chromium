@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXFuchsiaSemanticProvider interface
+// summary: Defines the interface for managing the Fuchsia Semantics API connection, covering node updates, deletions, events and hit tests.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_FUCHSIA_SEMANTIC_PROVIDER_H_
 #define UI_ACCESSIBILITY_PLATFORM_FUCHSIA_SEMANTIC_PROVIDER_H_
 

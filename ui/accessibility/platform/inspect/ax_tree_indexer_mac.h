@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS accessible tree indexer
+// summary: Defines the macOS accessible tree indexer, including a comparator for NSAccessibility and AXUIElement nodes.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_INSPECT_AX_TREE_INDEXER_MAC_H_
 #define UI_ACCESSIBILITY_PLATFORM_INSPECT_AX_TREE_INDEXER_MAC_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AXPlatformNodeBase unit tests
+// summary: Unit tests for AXPlatformNodeBase covering hypertext computation, ignored containers and node state handling.
+// ---
+
 #include "ui/accessibility/platform/ax_platform_node_base.h"
 
 #include "base/strings/string_number_conversions.h"

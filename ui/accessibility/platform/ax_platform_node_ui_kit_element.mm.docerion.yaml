@@ -1,0 +1,4 @@
+# Docerion header of ax_platform_node_ui_kit_element.mm.
+type: source
+title: AXPlatformNodeUIKitElement implementation
+summary: Implements the UIKit accessibility element that exposes the cross-platform accessibility tree to iOS.

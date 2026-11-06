@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility bridge Fuchsia registry implementation
+// summary: Implements the global registry that maps aura root windows to their accessibility bridge instances.
+// ---
+
 #include "ui/accessibility/platform/fuchsia/accessibility_bridge_fuchsia_registry.h"
 
 #include "base/no_destructor.h"

@@ -1,0 +1,4 @@
+# Docerion header of ax_private_webkit_constants_mac.mm.
+type: source
+title: macOS WebKit constant ToString helpers
+summary: Implements ToString conversions for the macOS accessibility text state change, selection direction, granularity, and edit type enums.

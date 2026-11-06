@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test listener providing AXPlatformForTest
+// summary: Implements a gtest event listener that provides an AXPlatformForTest and checks for leaked platform nodes and COM references after each test.
+// ---
+
 #include "ui/accessibility/platform/provide_ax_platform_for_tests.h"
 
 #include "build/build_config.h"

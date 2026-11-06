@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows COM accessibility implementation for browser accessibility nodes
+// summary: Implements IAccessible2, ISimpleDOM and related COM interfaces on Windows so screen readers can query browser accessibility nodes.
+// ---
+
 #include "ui/accessibility/platform/browser_accessibility_com_win.h"
 
 #include <algorithm>

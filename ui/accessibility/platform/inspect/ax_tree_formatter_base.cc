@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base accessibility tree formatter implementation
+// summary: Implements shared formatting, tree building, and node skipping logic common to all platform accessibility tree formatters.
+// ---
+
 #include "ui/accessibility/platform/inspect/ax_tree_formatter_base.h"
 
 #include <algorithm>

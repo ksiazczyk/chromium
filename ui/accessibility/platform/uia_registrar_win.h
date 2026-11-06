@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows UIA registrar header with custom property GUIDs
+// summary: Declares UiaRegistrarWin and the GUIDs of the custom UI Automation events and properties used for Windows accessibility support.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_UIA_REGISTRAR_WIN_H_
 #define UI_ACCESSIBILITY_PLATFORM_UIA_REGISTRAR_WIN_H_
 

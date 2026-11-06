@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS private accessibility role constants
+// summary: Defines macOS accessibility role constants such as list marker and web area that are unavailable in older macOS SDKs.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_AX_PRIVATE_ROLES_MAC_H_
 #define UI_ACCESSIBILITY_PLATFORM_AX_PRIVATE_ROLES_MAC_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test listener header for AXPlatformForTest
+// summary: Declares ProvideAXPlatformForTests, a gtest event listener that supplies and resets an AXPlatformForTest around each test.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_PROVIDE_AX_PLATFORM_FOR_TESTS_H_
 #define UI_ACCESSIBILITY_PLATFORM_PROVIDE_AX_PLATFORM_FOR_TESTS_H_
 

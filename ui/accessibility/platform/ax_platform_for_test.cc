@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXPlatformForTest implementation
+// summary: Implements a process-wide AXPlatform instance for tests, counting inline textbox usage in web content and supporting detached thread checks.
+// ---
+
 #include "ui/accessibility/platform/ax_platform_for_test.h"
 
 #include "base/check_op.h"

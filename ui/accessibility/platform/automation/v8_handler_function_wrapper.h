@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8 handler function wrapper interface
+// summary: Declares the ref-counted V8HandlerFunctionWrapper that wraps handler functions callable with either gin or V8 function callbacks.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_AUTOMATION_V8_HANDLER_FUNCTION_WRAPPER_H_
 #define UI_ACCESSIBILITY_PLATFORM_AUTOMATION_V8_HANDLER_FUNCTION_WRAPPER_H_
 

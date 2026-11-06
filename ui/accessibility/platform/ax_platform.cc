@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXPlatform implementation
+// summary: Implements the process-wide AXPlatform singleton that tracks accessibility mode, assistive technology changes, caret browsing, and Windows UIA and product string state.
+// ---
+
 #include "ui/accessibility/platform/ax_platform.h"
 
 #include "base/check_op.h"

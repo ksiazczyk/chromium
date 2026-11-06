@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows UIA Value pattern support helper
+// summary: Helper that determines whether a Windows accessibility node supports the UIA Value control pattern.
+// ---
+
 #include "ui/accessibility/platform/ax_platform_node_delegate_utils_win.h"
 
 #include "ui/accessibility/ax_enums.mojom.h"

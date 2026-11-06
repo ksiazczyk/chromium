@@ -1,6 +1,13 @@
 // Copyright 2019 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: UIA accessibility tree formatter for Windows
+// summary: Declares AXTreeFormatterUia, which builds accessibility trees from Windows UI Automation elements, covering UIA properties, patterns, annotations and cache requests.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_INSPECT_AX_TREE_FORMATTER_UIA_WIN_H_
 #define UI_ACCESSIBILITY_PLATFORM_INSPECT_AX_TREE_FORMATTER_UIA_WIN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AXScriptInstruction unit tests
+// summary: Unit tests verifying classification and extraction of scripts, events, key presses, comments and print-tree instructions.
+// ---
+
 #include "ui/accessibility/platform/inspect/ax_script_instruction.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

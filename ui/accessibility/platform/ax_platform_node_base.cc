@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXPlatformNodeBase implementation
+// summary: Implements the shared AXPlatformNodeBase class that backs platform accessibility nodes with attribute computation and unique-id tracking.
+// ---
+
 #include "ui/accessibility/platform/ax_platform_node_base.h"
 
 #include <algorithm>

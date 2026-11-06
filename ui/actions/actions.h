@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actions and ActionManager API header
+// summary: Declares the ActionList, BaseAction, ActionItem, and ActionManager classes that form the central registry of user-invokable actions.
+// ---
+
 #ifndef UI_ACTIONS_ACTIONS_H_
 #define UI_ACTIONS_ACTIONS_H_
 

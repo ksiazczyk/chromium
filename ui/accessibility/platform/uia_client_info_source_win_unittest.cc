@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Windows UIA client info source
+// summary: Unit tests for UiaClientInfoSource that use fake UI Automation COM interfaces to verify client queries and connection callbacks.
+// ---
+
 #include "ui/accessibility/platform/uia_client_info_source_win.h"
 
 #include <stdint.h>

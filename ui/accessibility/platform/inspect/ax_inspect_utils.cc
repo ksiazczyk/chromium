@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility inspect value formatting utilities
+// summary: Implements helpers that build const, set-key and ordered-key values and format base::Value trees into readable strings for accessibility inspection dumps.
+// ---
+
 #include "ui/accessibility/platform/inspect/ax_inspect_utils.h"
 
 #include "base/strings/string_number_conversions.h"

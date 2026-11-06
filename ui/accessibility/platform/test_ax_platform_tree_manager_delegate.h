@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test delegate for the AX platform tree manager
+// summary: Test double of AXPlatformTreeManagerDelegate that supplies stub accessibility callbacks and state for tests.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_TEST_AX_PLATFORM_TREE_MANAGER_DELEGATE_H_
 #define UI_ACCESSIBILITY_PLATFORM_TEST_AX_PLATFORM_TREE_MANAGER_DELEGATE_H_
 

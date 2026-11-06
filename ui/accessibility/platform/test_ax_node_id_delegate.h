@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test AX node ID delegate header
+// summary: Declares TestAXNodeIdDelegate, a test stub of AXNodeIdDelegate that maps AX node IDs to unique IDs for testing.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_TEST_AX_NODE_ID_DELEGATE_H_
 #define UI_ACCESSIBILITY_PLATFORM_TEST_AX_NODE_ID_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for automation API event utilities
+// summary: Verifies that automation event type tuples convert correctly to and from string event types.
+// ---
+
 #include "ui/accessibility/platform/automation/automation_api_util.h"
 
 #include "testing/gmock/include/gmock/gmock-matchers.h"

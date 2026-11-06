@@ -1,0 +1,4 @@
+# Docerion header of ax_tree_formatter_mac.mm.
+type: source
+title: Mac accessibility tree formatter implementation
+summary: Builds and formats macOS NSAccessibility trees, evaluates inspect scripts, and defines default property filters for tree output.

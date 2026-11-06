@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows browser accessibility manager implementation
+// summary: Implements the Windows accessibility manager, handling UIA pattern providers, fragment roots, and assistive technology workarounds.
+// ---
+
 #include "ui/accessibility/platform/browser_accessibility_manager_win.h"
 
 #include <stddef.h>

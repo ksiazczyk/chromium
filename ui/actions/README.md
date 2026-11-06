@@ -1,3 +1,13 @@
+---
+type: readme
+title: Actions and ActionManager
+summary: Explains the intent and use of the ActionManager system, including late-bound action registration, UI attachment, and persistent ActionId definitions.
+relations:
+  - references /ui/views/actions/README.md
+  - references /ui/actions/actions.h
+  - references /chrome/browser/ui/actions/chrome_action_id.h
+---
+
 # Actions and ActionManager
 
 For the purposes of this document, feature, command, and action will refer to a

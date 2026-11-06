@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Automation tree manager owner unit tests
+// summary: Unit tests for AutomationTreeManagerOwner using fake V8 router and bindings classes to exercise automation event dispatch and tree management.
+// ---
+
 #include "ui/accessibility/platform/automation/automation_tree_manager_owner.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Automation position class declaration
+// summary: Declares the gin-wrappable AutomationPosition class that exposes AXPosition objects to JavaScript.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_AUTOMATION_AUTOMATION_POSITION_H_
 #define UI_ACCESSIBILITY_PLATFORM_AUTOMATION_AUTOMATION_POSITION_H_
 

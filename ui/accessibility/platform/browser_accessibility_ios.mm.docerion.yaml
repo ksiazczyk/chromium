@@ -1,0 +1,4 @@
+# Docerion header of browser_accessibility_ios.mm.
+type: source
+title: iOS browser accessibility node implementation
+summary: Implements BrowserAccessibilityIOS, creating iOS platform nodes and including extra macOS-style table nodes in platform child traversal.

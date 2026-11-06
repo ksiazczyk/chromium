@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Automation API utility declarations
+// summary: Declares event filtering helpers, the tree change observer filter enum and the TreeChangeObserver struct.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_AUTOMATION_AUTOMATION_API_UTIL_H_
 #define UI_ACCESSIBILITY_PLATFORM_AUTOMATION_AUTOMATION_API_UTIL_H_
 

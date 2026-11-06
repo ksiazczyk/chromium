@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXScriptInstruction header
+// summary: Declares AXScriptInstruction, a single accessibility inspection script instruction with helpers to detect and extract events, key presses and comments.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_INSPECT_AX_SCRIPT_INSTRUCTION_H_
 #define UI_ACCESSIBILITY_PLATFORM_INSPECT_AX_SCRIPT_INSTRUCTION_H_
 

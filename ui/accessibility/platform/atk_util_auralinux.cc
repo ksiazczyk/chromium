@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtkUtilAuraLinux implementation
+// summary: Implements the AtkUtilAuraLinux singleton that initializes ATK, manages key event listeners and postponed events.
+// ---
+
 #include <atk/atk.h>
 
 #include <array>

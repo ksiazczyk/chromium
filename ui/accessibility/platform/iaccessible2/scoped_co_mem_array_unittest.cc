@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedCoMemArray unit tests
+// summary: GoogleTest that allocates a COM array through Receive and ReceiveSize and verifies the array's size and element access return the expected values.
+// ---
+
 #include "ui/accessibility/platform/iaccessible2/scoped_co_mem_array.h"
 
 #include <objbase.h>

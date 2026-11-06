@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedCoMemArray RAII wrapper for COM arrays
+// summary: Defines an RAII template class that owns COM task-allocated arrays, exposing Receive and ReceiveSize for COM calls and freeing memory via CoTaskMemFree on reset or destruction.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_IACCESSIBLE2_SCOPED_CO_MEM_ARRAY_H_
 #define UI_ACCESSIBILITY_PLATFORM_IACCESSIBLE2_SCOPED_CO_MEM_ARRAY_H_
 

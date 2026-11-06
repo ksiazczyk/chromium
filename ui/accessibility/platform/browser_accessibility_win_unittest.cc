@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserAccessibilityWin unit tests
+// summary: Large unit test suite for Windows accessibility nodes, including IAccessible2 text offset and hypertext behavior.
+// ---
+
 #include "ui/accessibility/platform/browser_accessibility_win.h"
 
 #include <objbase.h>

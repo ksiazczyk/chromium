@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AXInspectTestHelper DiffLines unit tests
+// summary: Tests the DiffLines helper that compares expected and actual accessibility dump lines, allowing blank lines and comments only in expected files.
+// ---
+
 #include "ui/accessibility/platform/inspect/ax_inspect_test_helper.h"
 
 #include "testing/gmock/include/gmock/gmock.h"

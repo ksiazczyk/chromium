@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GTK ATK bridge initialization
+// summary: Initializes the ATK bridge adaptor for GTK-based Aura Linux builds after unsetting NO_AT_BRIDGE.
+// ---
+
 #include <atk-bridge.h>
 
 #include "base/environment.h"

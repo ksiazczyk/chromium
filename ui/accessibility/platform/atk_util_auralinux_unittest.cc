@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AtkUtilAuraLinux unit tests
+// summary: Unit tests for AtkUtilAuraLinux covering key snooping and AT-SPI readiness behavior.
+// ---
+
 #include <atk/atk.h>
 
 #include <string>

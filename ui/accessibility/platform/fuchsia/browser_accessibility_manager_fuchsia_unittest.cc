@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserAccessibilityManagerFuchsia unit tests
+// summary: Unit tests for the Fuchsia accessibility manager using a mock accessibility bridge and test delegate.
+// ---
+
 #include "ui/accessibility/platform/fuchsia/browser_accessibility_manager_fuchsia.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS accessibility platform node interface
+// summary: Declares AXPlatformNodeIOS, the iOS accessibility node that wraps delegates in a native UIKit element.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_AX_PLATFORM_NODE_IOS_H_
 #define UI_ACCESSIBILITY_PLATFORM_AX_PLATFORM_NODE_IOS_H_
 

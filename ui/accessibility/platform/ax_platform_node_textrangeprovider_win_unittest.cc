@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AXPlatformNodeTextRangeProviderWin unit tests
+// summary: Large unit test suite verifying text range provider behavior such as movement, selection, attributes and bounds.
+// ---
+
 #include "ui/accessibility/platform/ax_platform_node_textrangeprovider_win.h"
 
 #include <memory>

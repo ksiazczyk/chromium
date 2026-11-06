@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows COM accessibility class declaration
+// summary: Declares BrowserAccessibilityComWin, the Windows COM class implementing IAccessible2 and ISimpleDOM interfaces used by assistive technology.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_BROWSER_ACCESSIBILITY_COM_WIN_H_
 #define UI_ACCESSIBILITY_PLATFORM_BROWSER_ACCESSIBILITY_COM_WIN_H_
 

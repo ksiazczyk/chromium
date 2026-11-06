@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS browser accessibility node declaration
+// summary: Declares BrowserAccessibilityIOS, the iOS BrowserAccessibility subclass that bridges accessibility nodes to UIKit platform nodes.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_BROWSER_ACCESSIBILITY_IOS_H_
 #define UI_ACCESSIBILITY_PLATFORM_BROWSER_ACCESSIBILITY_IOS_H_
 

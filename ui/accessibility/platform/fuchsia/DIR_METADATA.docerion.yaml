@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Fuchsia accessibility directory metadata
+summary: Directory metadata for the Fuchsia accessibility platform folder, applying the common build metadata mixin.

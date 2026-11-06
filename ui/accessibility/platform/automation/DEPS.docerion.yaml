@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the accessibility automation directory
+summary: Defines allowed include paths for the automation folder, with an extra rule for automation_ax_tree_wrapper.cc.

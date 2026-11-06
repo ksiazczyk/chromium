@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuraLinux browser accessibility manager header
+// summary: Declares the Linux/ATK accessibility manager that wraps BrowserAccessibilityAuraLinux nodes and fires ATK state and property events.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_BROWSER_ACCESSIBILITY_MANAGER_AURALINUX_H_
 #define UI_ACCESSIBILITY_PLATFORM_BROWSER_ACCESSIBILITY_MANAGER_AURALINUX_H_
 

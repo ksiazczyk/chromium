@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActionId enum definitions
+// summary: Declares the core ActionId enum and embedder extension point using macro-generated identifiers for cross-platform and platform-specific actions.
+// ---
+
 #ifndef UI_ACTIONS_ACTION_ID_H_
 #define UI_ACTIONS_ACTION_ID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS private accessibility attribute constants
+// summary: Defines macOS accessibility attribute string constants, including a Chrome node ID attribute and attributes missing from or predating the macOS 26 SDK.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_AX_PRIVATE_ATTRIBUTES_MAC_H_
 #define UI_ACCESSIBILITY_PLATFORM_AX_PRIVATE_ATTRIBUTES_MAC_H_
 

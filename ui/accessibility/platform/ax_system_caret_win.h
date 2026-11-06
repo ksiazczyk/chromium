@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows system caret interface
+// summary: Declares AXSystemCaretWin, which exposes the caret position to assistive software on Windows via IAccessible because Chrome does not use the standard system caret.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_AX_SYSTEM_CARET_WIN_H_
 #define UI_ACCESSIBILITY_PLATFORM_AX_SYSTEM_CARET_WIN_H_
 

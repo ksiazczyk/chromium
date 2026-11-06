@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AXPlatformNodeTextChildProviderWin unit tests
+// summary: Unit tests for the Windows UI Automation ITextChildProvider resolution across text and non-text nodes in an accessibility tree.
+// ---
+
 #include "ui/accessibility/platform/ax_platform_node_textchildprovider_win.h"
 
 #include "base/win/scoped_bstr.h"

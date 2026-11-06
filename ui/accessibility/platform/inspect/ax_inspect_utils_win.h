@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows IAccessible and UIA inspect utilities header
+// summary: Declares Windows accessibility inspection helpers for role, state and event name conversion, HWND lookup, MSAA child traversal and IA2 interface queries.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_INSPECT_AX_INSPECT_UTILS_WIN_H_
 #define UI_ACCESSIBILITY_PLATFORM_INSPECT_AX_INSPECT_UTILS_WIN_H_
 

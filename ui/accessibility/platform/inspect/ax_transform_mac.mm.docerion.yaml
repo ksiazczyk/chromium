@@ -1,0 +1,4 @@
+# Docerion header of ax_transform_mac.mm.
+type: source
+title: Mac accessibility NSObject to base value conversion
+summary: Converts macOS accessibility objects such as arrays, dictionaries, ranges, text markers, and elements into base values for accessibility tree inspection output.

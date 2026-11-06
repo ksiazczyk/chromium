@@ -1,0 +1,4 @@
+# Docerion header of browser_accessibility_cocoa_unittest.mm.
+type: test
+title: Unit tests for BrowserAccessibilityCocoa
+summary: Unit tests for the macOS Cocoa accessibility wrapper, parameterized over legacy and migrated Cocoa accessibility API feature states.

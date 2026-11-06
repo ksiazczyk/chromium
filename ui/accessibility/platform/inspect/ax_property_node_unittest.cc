@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AXPropertyNode unit tests
+// summary: Unit tests verifying parsing of property statements, nested arguments, dictionaries, line index filters and malformed input handling in AXPropertyNode.
+// ---
+
 #include "ui/accessibility/platform/inspect/ax_property_node.h"
 
 #include <optional>

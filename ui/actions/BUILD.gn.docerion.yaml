@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the actions component
+summary: Defines the GN build targets for the actions headers source set, the actions component, and its unit tests.

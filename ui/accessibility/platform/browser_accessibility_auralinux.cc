@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuraLinux BrowserAccessibility implementation
+// summary: Implements the Linux-specific BrowserAccessibility subclass that manages AXPlatformNodeAuraLinux instances, hypertext updates, and primary web contents tracking.
+// ---
+
 #include "ui/accessibility/platform/browser_accessibility_auralinux.h"
 
 #include "ui/accessibility/platform/ax_platform.h"

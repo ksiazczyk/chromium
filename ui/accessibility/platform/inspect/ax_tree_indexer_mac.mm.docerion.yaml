@@ -1,0 +1,4 @@
+# Docerion header of ax_tree_indexer_mac.mm.
+type: source
+title: macOS accessible tree indexer implementation
+summary: Implements AXTreeIndexerMac::IndexBy, returning a special value for nodes belonging to the other macOS accessibility tree instead of failing later checks.

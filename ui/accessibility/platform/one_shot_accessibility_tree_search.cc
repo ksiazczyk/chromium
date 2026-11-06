@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: One-shot accessibility tree search implementation
+// summary: Implements OneShotAccessibilityTreeSearch, which searches the accessibility tree from a start node using text matching, limits and custom predicates.
+// ---
+
 #include "ui/accessibility/platform/one_shot_accessibility_tree_search.h"
 
 #include <stdint.h>

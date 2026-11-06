@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows system caret implementation
+// summary: Implements the Windows system caret accessibility object, firing traced Win events for caret creation, movement, visibility changes, and destruction.
+// ---
+
 #include "ui/accessibility/platform/ax_system_caret_win.h"
 
 #include <windows.h>

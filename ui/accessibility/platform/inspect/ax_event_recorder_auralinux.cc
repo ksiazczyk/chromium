@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux accessibility event recorder implementation
+// summary: Records Linux accessibility events through ATK global listeners in-process or through AT-SPI2 when intercepting events from other processes.
+// ---
+
 #include "ui/accessibility/platform/inspect/ax_event_recorder_auralinux.h"
 
 #include <atk/atk.h>

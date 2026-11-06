@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChildIteratorBase class declaration
+// summary: Declares the default ChildIterator implementation over a platform node delegate's children.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_CHILD_ITERATOR_BASE_H_
 #define UI_ACCESSIBILITY_PLATFORM_CHILD_ITERATOR_BASE_H_
 

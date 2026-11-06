@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility node id delegate interface
+// summary: Declares AXNodeIdDelegate, which assigns platform node identifiers for accessibility tools and reports deleted nodes.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_AX_NODE_ID_DELEGATE_H_
 #define UI_ACCESSIBILITY_PLATFORM_AX_NODE_ID_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test helpers for BrowserAccessibilityCocoa custom action projection
+// summary: Declares test-only C++ entry points that enable a custom action names attribute on BrowserAccessibilityCocoa for dump-test inspection.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_BROWSER_ACCESSIBILITY_COCOA_TEST_HELPERS_H_
 #define UI_ACCESSIBILITY_PLATFORM_BROWSER_ACCESSIBILITY_COCOA_TEST_HELPERS_H_
 

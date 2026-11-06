@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Automation tree manager owner implementation
+// summary: Implements AutomationTreeManagerOwner, which owns automation AX tree wrappers and dispatches tree change, node removal and automation events to V8 bindings.
+// ---
+
 #include "ui/accessibility/platform/automation/automation_tree_manager_owner.h"
 
 #include <map>

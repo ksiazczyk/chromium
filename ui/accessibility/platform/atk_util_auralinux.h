@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtkUtilAuraLinux class header
+// summary: Declares the AtkUtilAuraLinux singleton for initializing ATK and tracking AT-SPI readiness and postponed events.
+// ---
+
 #ifndef UI_ACCESSIBILITY_PLATFORM_ATK_UTIL_AURALINUX_H_
 #define UI_ACCESSIBILITY_PLATFORM_ATK_UTIL_AURALINUX_H_
 

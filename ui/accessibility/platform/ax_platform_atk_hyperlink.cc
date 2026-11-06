@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXPlatformAtkHyperlink implementation
+// summary: Implements the ATK hyperlink GObject for Linux accessibility, exposing URI, anchors, validity, selection state, and start and end indices from the platform node.
+// ---
+
 #include "ui/accessibility/platform/ax_platform_atk_hyperlink.h"
 
 #include <string>

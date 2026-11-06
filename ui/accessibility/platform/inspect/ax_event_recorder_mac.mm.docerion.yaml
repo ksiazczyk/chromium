@@ -1,0 +1,4 @@
+# Docerion header of ax_event_recorder_mac.mm.
+type: source
+title: Mac accessibility event recorder implementation
+summary: Implements macOS accessibility event recording via AXObserver, including window-scope marking of out-of-scope windows and waiting for end-of-test events.
