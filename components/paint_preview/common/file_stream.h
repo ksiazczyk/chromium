@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File-backed Skia stream declarations
+// summary: Declares FileWStream and FileRStream classes that adapt base::File to Skia's SkWStream and SkStream interfaces.
+// ---
+
 #ifndef COMPONENTS_PAINT_PREVIEW_COMMON_FILE_STREAM_H_
 #define COMPONENTS_PAINT_PREVIEW_COMMON_FILE_STREAM_H_
 

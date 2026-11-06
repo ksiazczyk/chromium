@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for bad message URL security checks
+// summary: 'Unit tests covering CheckForIllegalURL and CheckChildProcessSecurityPolicyForURL behavior for valid HTTPS, about:, and data: URLs.'
+// ---
+
 #include "components/password_manager/content/browser/bad_message.h"
 
 #include "base/test/metrics/histogram_tester.h"

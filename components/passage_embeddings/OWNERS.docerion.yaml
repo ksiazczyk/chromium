@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Passage embeddings OWNERS
+summary: Lists the code owners for the passage_embeddings component, including the optimization_guide OWNERS file and two Chromium contributors.

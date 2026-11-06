@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the passage embeddings service controller
+// summary: Tests the service controller with fake mojom embedder and service implementations, covering model loading, embedding computation, and failure cases.
+// ---
+
 #include "components/passage_embeddings/core/passage_embeddings_service_controller.h"
 
 #include <memory>

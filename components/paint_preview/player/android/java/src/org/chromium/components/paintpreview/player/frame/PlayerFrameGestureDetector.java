@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlayerFrameGestureDetector
+// summary: Detects scroll, fling, and scale gestures on touch events and reports them to the gesture detector delegate.
+// ---
+
 package org.chromium.components.paintpreview.player.frame;
 
 import android.content.Context;

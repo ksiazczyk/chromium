@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WarmCompositor header for pre-warmed compositor service
+// summary: Declares the WarmCompositor singleton that warms up, holds, releases, and hands off the paint preview compositor service to callers.
+// ---
+
 #ifndef COMPONENTS_PAINT_PREVIEW_BROWSER_WARM_COMPOSITOR_H_
 #define COMPONENTS_PAINT_PREVIEW_BROWSER_WARM_COMPOSITOR_H_
 

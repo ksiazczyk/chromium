@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Android player include rules
+summary: Specifies the directories that the Android paint preview player code may include from, such as browser UI styles, content, and UI accessibility.

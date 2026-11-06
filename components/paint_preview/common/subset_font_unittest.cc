@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Font subsetting unit tests
+// summary: Tests basic and variation font subsetting, checking that subsets are smaller and contain fewer glyphs and tables.
+// ---
+
 #include "components/paint_preview/common/subset_font.h"
 
 #include "base/base_paths.h"

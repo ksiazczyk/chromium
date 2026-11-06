@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glyph usage unit tests
+// summary: Unit tests covering empty, dense, and sparse glyph usage tracking behavior.
+// ---
+
 #include "components/paint_preview/common/glyph_usage.h"
 
 #include <memory>

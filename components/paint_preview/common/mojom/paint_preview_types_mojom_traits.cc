@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SerializedRecording Mojom traits implementation
+// summary: Implements Mojo union traits that convert SerializedRecording between its file and memory buffer representations.
+// ---
+
 #include "components/paint_preview/common/mojom/paint_preview_types_mojom_traits.h"
 #include "mojo/public/cpp/base/big_buffer_mojom_traits.h"
 #include "mojo/public/cpp/base/file_mojom_traits.h"

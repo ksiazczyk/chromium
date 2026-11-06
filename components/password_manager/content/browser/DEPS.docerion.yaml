@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for password manager content browser
+summary: Lists the include directories allowed for the password manager content browser code, with a special rule permitting content shell headers in browser tests.

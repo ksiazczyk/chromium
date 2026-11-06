@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bad message check implementation for password manager IPC
+// summary: Implements checks that validate password form URLs and renderer permissions, recording metrics and terminating renderers that send bad IPC messages.
+// ---
+
 #include "components/password_manager/content/browser/bad_message.h"
 
 #include "base/logging.h"

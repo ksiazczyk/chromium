@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passage embeddings feature flag definitions
+// summary: Defines the passage embedder feature flags and field trial parameters for threading, caching, timeouts, extraction limits, and GPU execution.
+// ---
+
 #include "components/passage_embeddings/core/passage_embeddings_features.h"
 
 #include "base/feature_list.h"

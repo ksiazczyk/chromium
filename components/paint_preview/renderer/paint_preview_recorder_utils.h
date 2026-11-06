@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint preview recorder utility declarations
+// summary: Declares PaintRecordToSkPicture and BuildResponse helpers used by PaintPreviewRecorderImpl to convert recordings and build capture responses.
+// ---
+
 #ifndef COMPONENTS_PAINT_PREVIEW_RENDERER_PAINT_PREVIEW_RECORDER_UTILS_H_
 #define COMPONENTS_PAINT_PREVIEW_RENDERER_PAINT_PREVIEW_RECORDER_UTILS_H_
 

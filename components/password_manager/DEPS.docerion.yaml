@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Password Manager DEPS
+summary: Defines include rules for the password manager component, permitting core dependencies while blocking subdirectories from using non-core layers such as content.

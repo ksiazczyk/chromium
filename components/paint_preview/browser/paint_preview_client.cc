@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint preview client implementation
+// summary: Implements PaintPreviewClient, which requests captures from the PaintPreviewRecorder and aggregates results across frames.
+// ---
+
 #include "components/paint_preview/browser/paint_preview_client.h"
 
 #include <utility>

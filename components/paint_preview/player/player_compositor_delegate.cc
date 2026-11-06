@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlayerCompositorDelegate implementation
+// summary: Implements compositor startup, hit tester construction, composite request preparation and bitmap request handling for the player.
+// ---
+
 #include "components/paint_preview/player/player_compositor_delegate.h"
 
 #include <optional>

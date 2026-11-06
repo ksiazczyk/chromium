@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential manager mojom traits declarations
+// summary: Declares Mojo enum and struct traits that map password_manager credential types to blink mojom messages.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CONTENT_COMMON_CREDENTIAL_MANAGER_MOJOM_TRAITS_H_
 #define COMPONENTS_PASSWORD_MANAGER_CONTENT_COMMON_CREDENTIAL_MANAGER_MOJOM_TRAITS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaintPreviewCustomFlingingShadowScroller
+// summary: Robolectric shadow of Android's OverScroller that simulates flinging so paint preview player tests can run without real scrolling behavior.
+// ---
+
 package org.chromium.components.paintpreview.player.frame;
 
 import android.content.Context;

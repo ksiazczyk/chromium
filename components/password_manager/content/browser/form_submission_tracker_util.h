@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form submission tracker utility header
+// summary: Declares NotifyDidNavigateMainFrame, which tells a form submission observer whether a main-frame navigation may stem from a form submission.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CONTENT_BROWSER_FORM_SUBMISSION_TRACKER_UTIL_H_
 #define COMPONENTS_PASSWORD_MANAGER_CONTENT_BROWSER_FORM_SUBMISSION_TRACKER_UTIL_H_
 

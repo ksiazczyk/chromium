@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecordingMap type and conversion function declarations
+// summary: Declares the RecordingMap alias mapping frame embedding tokens to serialized recordings and functions to build it from a capture result or a PaintPreviewProto.
+// ---
+
 #ifndef COMPONENTS_PAINT_PREVIEW_COMMON_RECORDING_MAP_H_
 #define COMPONENTS_PAINT_PREVIEW_COMMON_RECORDING_MAP_H_
 

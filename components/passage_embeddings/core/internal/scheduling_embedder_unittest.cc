@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the SchedulingEmbedder
+// summary: Unit tests for the SchedulingEmbedder that verify job scheduling, batching, result handling and histogram reporting using a mocked embeddings service.
+// ---
+
 #include "components/passage_embeddings/core/internal/scheduling_embedder.h"
 
 #include <initializer_list>

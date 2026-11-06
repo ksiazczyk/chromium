@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for form submission tracker utility
+// summary: Tests that NotifyDidNavigateMainFrame reports a possible form submission for form-submit and client-redirect transitions but not for reloads or link clicks.
+// ---
+
 #include "components/password_manager/content/browser/form_submission_tracker_util.h"
 
 #include "components/password_manager/core/browser/form_submission_observer.h"

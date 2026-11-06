@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Player user frustration detector
+// summary: Detects user frustration from repeated unconsumed taps and long presses using touch gesture heuristics.
+// ---
+
 package org.chromium.components.paintpreview.player;
 
 import androidx.annotation.VisibleForTesting;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture result declarations
+// summary: Declares RecordingParams, aggregating capture options such as clipping, size limits and redaction, and CaptureResult holding the capture outcome.
+// ---
+
 #ifndef COMPONENTS_PAINT_PREVIEW_COMMON_CAPTURE_RESULT_H_
 #define COMPONENTS_PAINT_PREVIEW_COMMON_CAPTURE_RESULT_H_
 

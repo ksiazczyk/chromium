@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BitmapRequest declaration
+// summary: Declares a bitmap request struct holding a frame GUID, clip rect, scale factor and completion callback.
+// ---
+
 #ifndef COMPONENTS_PAINT_PREVIEW_PLAYER_BITMAP_REQUEST_H_
 #define COMPONENTS_PAINT_PREVIEW_PLAYER_BITMAP_REQUEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint preview test service header
+// summary: Declares PaintPreviewTestService, a simple PaintPreviewBaseService implementation for tests, with frame creation and serialization methods.
+// ---
+
 #ifndef COMPONENTS_PAINT_PREVIEW_PLAYER_ANDROID_JAVATESTS_PAINT_PREVIEW_TEST_SERVICE_H_
 #define COMPONENTS_PAINT_PREVIEW_PLAYER_ANDROID_JAVATESTS_PAINT_PREVIEW_TEST_SERVICE_H_
 

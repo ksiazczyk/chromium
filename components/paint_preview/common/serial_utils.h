@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Serialization context and proc declarations
+// summary: Declares serialization and deserialization contexts plus helpers to create Skia serial procs for pictures, typefaces, and images in paint preview.
+// ---
+
 #ifndef COMPONENTS_PAINT_PREVIEW_COMMON_SERIAL_UTILS_H_
 #define COMPONENTS_PAINT_PREVIEW_COMMON_SERIAL_UTILS_H_
 

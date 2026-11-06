@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PlayerFrameViewportTest
+// summary: Robolectric tests for PlayerFrameViewport covering viewport size, visible region, translation and bitmap tile size calculations.
+// ---
+
 package org.chromium.components.paintpreview.player.frame;
 
 import android.graphics.Point;

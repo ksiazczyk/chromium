@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SchedulingEmbedder implementation for passage embeddings
+// summary: Implements the SchedulingEmbedder that queues, batches and prioritizes passage embedding jobs and records job duration, status and count histograms.
+// ---
+
 #include "components/passage_embeddings/core/internal/scheduling_embedder.h"
 
 #include <algorithm>

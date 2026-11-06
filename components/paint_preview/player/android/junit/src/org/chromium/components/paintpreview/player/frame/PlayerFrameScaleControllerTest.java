@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PlayerFrameScaleControllerTest
+// summary: Robolectric tests for PlayerFrameScaleController checking scale limits and zoom-in and zoom-out behavior of the frame viewport and bitmap matrix.
+// ---
+
 package org.chromium.components.paintpreview.player.frame;
 
 import static org.mockito.ArgumentMatchers.argThat;

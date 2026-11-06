@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint preview tracker implementation
+// summary: Implements PaintPreviewTracker, handling canvas transforms, glyph usage, links, and subframe placeholders during paint preview capture.
+// ---
+
 #include "components/paint_preview/common/paint_preview_tracker.h"
 
 #include <stdint.h>

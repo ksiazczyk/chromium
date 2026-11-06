@@ -1,3 +1,9 @@
+---
+type: readme
+title: Password Manager
+summary: Describes the layered component structure and high-level architecture of the Chromium password manager, covering core classes and their embedder-specific implementations.
+---
+
 # Password Manager
 
 The password manager is [a layered component](https://sites.google.com/a/chromium.org/dev/developers/design-documents/layered-components-design).

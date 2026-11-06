@@ -1,0 +1,4 @@
+# Docerion header of paint_preview_recorder.mojom.
+type: source
+title: Paint preview recorder Mojom definitions
+summary: Mojom definitions for paint preview capture status codes, capture parameters, link data, capture responses and geometry metadata.

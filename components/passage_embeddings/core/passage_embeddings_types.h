@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passage embeddings core types and interfaces
+// summary: 'Defines core passage embeddings types: priority and status enums, embedder metadata with observer interfaces, and the Embedding class and Embedder contracts.'
+// ---
+
 #ifndef COMPONENTS_PASSAGE_EMBEDDINGS_CORE_PASSAGE_EMBEDDINGS_TYPES_H_
 #define COMPONENTS_PASSAGE_EMBEDDINGS_CORE_PASSAGE_EMBEDDINGS_TYPES_H_
 

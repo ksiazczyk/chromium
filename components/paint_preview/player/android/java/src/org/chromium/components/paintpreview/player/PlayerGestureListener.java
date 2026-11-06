@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Player gesture listener
+// summary: Handles player-wide touch gesture logic, forwarding link clicks and recording user action metrics.
+// ---
+
 package org.chromium.components.paintpreview.player;
 
 import org.chromium.base.TraceEvent;

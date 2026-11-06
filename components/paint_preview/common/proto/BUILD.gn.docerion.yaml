@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the paint preview proto library
+summary: GN build file that defines a proto_library target compiling paint_preview.proto using the protobuf proto_library.gni template.

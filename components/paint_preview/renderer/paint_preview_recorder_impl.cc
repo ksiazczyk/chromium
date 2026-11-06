@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint preview recorder implementation
+// summary: Implements the PaintPreviewRecorder mojo service, capturing paint previews of a RenderFrame with scroll-based clip bounds, recording, and response building.
+// ---
+
 #include "components/paint_preview/renderer/paint_preview_recorder_impl.h"
 
 #include <memory>

@@ -5,6 +5,12 @@
 // Contains constants for WebUI UI/Host/SubPage constants. Anything else go in
 // chrome/common/url_constants.h.
 
+// ---docerion
+// type: source
+// title: Password Manager WebUI constants header
+// summary: Header defining the shared Password Manager WebUI host constant that other Chromium components can reference.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CONTENT_COMMON_WEB_UI_CONSTANTS_H_
 #define COMPONENTS_PASSWORD_MANAGER_CONTENT_COMMON_WEB_UI_CONSTANTS_H_
 

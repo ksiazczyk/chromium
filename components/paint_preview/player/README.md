@@ -1,3 +1,13 @@
+---
+type: readme
+title: Paint Preview Player
+summary: Describes the player that displays recorded paint previews, its Android implementation, design and key classes.
+relations:
+  - documents /components/paint_preview/player/player_compositor_delegate.cc
+  - documents /components/paint_preview/player/compositor_status.h
+  - documents /components/paint_preview/player/bitmap_request.cc
+---
+
 # Paint Preview Player
 
 The player displays a paint preview that has been previously recorded.

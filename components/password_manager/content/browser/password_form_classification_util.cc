@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password form classification utility implementation
+// summary: Classifies a form as a password form by decomposing the browser form into renderer forms and applying password manager heuristic predictions.
+// ---
+
 #include "components/password_manager/content/browser/password_form_classification_util.h"
 
 #include <ranges>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for password manager content
+summary: Defines include rules permitting autofill, content, Mojo, and Blink credential management headers, with test-only access to content test utilities.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passage embedder model observer declaration
+// summary: Declares a keyed service that observes optimization guide updates for the passage embedder model and notifies the service controller.
+// ---
+
 #ifndef COMPONENTS_PASSAGE_EMBEDDINGS_CORE_PASSAGE_EMBEDDER_MODEL_OBSERVER_H_
 #define COMPONENTS_PASSAGE_EMBEDDINGS_CORE_PASSAGE_EMBEDDER_MODEL_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint preview base service implementation
+// summary: Implements PaintPreviewBaseService capture flow, applying policy checks and delegating capture to the PaintPreviewClient.
+// ---
+
 #include "components/paint_preview/browser/paint_preview_base_service.h"
 
 #include <memory>

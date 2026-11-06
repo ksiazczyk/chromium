@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlayerFrameGestureDetectorDelegate
+// summary: Dispatches gesture events such as scroll, fling, scale, and taps to the appropriate frame controllers.
+// ---
+
 package org.chromium.components.paintpreview.player.frame;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

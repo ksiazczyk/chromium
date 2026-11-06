@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Password manager content browser BUILD.gn build definition
+summary: Defines the GN build targets for the password manager content browser component, including the browser static library, test support, and unit test source sets.

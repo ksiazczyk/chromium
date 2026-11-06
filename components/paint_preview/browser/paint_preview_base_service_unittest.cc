@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the paint preview base service
+// summary: Tests PaintPreviewBaseService capture behavior using a test factory, a mock recorder, and a policy that rejects captures.
+// ---
+
 #include "components/paint_preview/browser/paint_preview_base_service.h"
 
 #include <memory>

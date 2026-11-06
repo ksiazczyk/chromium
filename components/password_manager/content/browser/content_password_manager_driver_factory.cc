@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentPasswordManagerDriverFactory implementation
+// summary: Implements the WebContentsUserData factory that creates and tracks one ContentPasswordManagerDriver per live RenderFrameHost and binds incoming Mojo receivers.
+// ---
+
 #include "components/password_manager/content/browser/content_password_manager_driver_factory.h"
 
 #include <utility>

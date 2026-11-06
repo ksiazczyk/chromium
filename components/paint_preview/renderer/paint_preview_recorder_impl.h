@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint preview recorder class declaration
+// summary: Declares PaintPreviewRecorderImpl, a RenderFrameObserver and mojom::PaintPreviewRecorder that handles the bulk of capturing a paint preview of a RenderFrame.
+// ---
+
 #ifndef COMPONENTS_PAINT_PREVIEW_RENDERER_PAINT_PREVIEW_RECORDER_IMPL_H_
 #define COMPONENTS_PAINT_PREVIEW_RENDERER_PAINT_PREVIEW_RECORDER_IMPL_H_
 

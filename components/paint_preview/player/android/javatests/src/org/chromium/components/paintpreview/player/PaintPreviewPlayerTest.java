@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Paint Preview player instrumentation tests
+// summary: Android instrumentation tests verifying the Paint Preview player's rendering, link clicks, scrolling and frame handling.
+// ---
+
 package org.chromium.components.paintpreview.player;
 
 import static androidx.test.espresso.matcher.ViewMatchers.isDisplayed;

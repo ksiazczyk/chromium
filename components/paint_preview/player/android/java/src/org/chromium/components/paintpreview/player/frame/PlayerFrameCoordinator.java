@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlayerFrameCoordinator
+// summary: Sets up the view and logic for a Paint Preview player frame, wiring the mediator, controllers, and view together.
+// ---
+
 package org.chromium.components.paintpreview.player.frame;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

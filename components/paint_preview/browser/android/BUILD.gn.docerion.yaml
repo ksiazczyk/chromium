@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Paint preview browser Android build definition
+summary: Defines the Android library build target that compiles the paint preview browser's NativePaintPreviewServiceProvider Java source.

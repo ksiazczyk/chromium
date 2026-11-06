@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Warm compositor implementation
+// summary: Implements WarmCompositor, a leaky singleton that keeps a paint preview compositor service instance warm and hands it out or starts it on demand.
+// ---
+
 #include "components/paint_preview/browser/warm_compositor.h"
 
 #include <utility>

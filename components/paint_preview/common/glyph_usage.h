@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glyph usage tracking classes
+// summary: Declares the GlyphUsage interface with dense and sparse implementations for tracking used glyphs during paint preview capture.
+// ---
+
 #ifndef COMPONENTS_PAINT_PREVIEW_COMMON_GLYPH_USAGE_H_
 #define COMPONENTS_PAINT_PREVIEW_COMMON_GLYPH_USAGE_H_
 

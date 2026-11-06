@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RedactionParams implementation
+// summary: Implements RedactionParams, which decides whether a subframe origin should be redacted based on allowed origin and site allowlists.
+// ---
+
 #include "components/paint_preview/common/redaction_params.h"
 
 #include "net/base/schemeful_site.h"

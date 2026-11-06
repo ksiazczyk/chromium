@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint preview compositor client implementation
+// summary: Implements the paint preview compositor client, forwarding composite and bitmap requests to the compositor remote on a dedicated task runner.
+// ---
+
 #include "components/paint_preview/browser/paint_preview_compositor_client_impl.h"
 
 #include <utility>

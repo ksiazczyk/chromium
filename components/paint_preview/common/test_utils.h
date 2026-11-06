@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Paint preview test utilities header
+// summary: Declares PersistenceToString so RecordingPersistence values print readably in gtest output.
+// ---
+
 #ifndef COMPONENTS_PAINT_PREVIEW_COMMON_TEST_UTILS_H_
 #define COMPONENTS_PAINT_PREVIEW_COMMON_TEST_UTILS_H_
 

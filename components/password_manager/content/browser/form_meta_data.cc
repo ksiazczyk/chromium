@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form metadata helpers implementation
+// summary: Implements helpers that derive a frame's URL and set frame and form metadata such as URLs, origins, and frame tokens on autofill FormData objects.
+// ---
+
 #include "components/password_manager/content/browser/form_meta_data.h"
 
 #include <vector>

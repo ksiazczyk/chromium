@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password requirements service factory header
+// summary: Declares the PasswordRequirementsServiceFactory, a BrowserContextKeyedServiceFactory that may return null for incognito contexts.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CONTENT_BROWSER_PASSWORD_REQUIREMENTS_SERVICE_FACTORY_H_
 #define COMPONENTS_PASSWORD_MANAGER_CONTENT_BROWSER_PASSWORD_REQUIREMENTS_SERVICE_FACTORY_H_
 

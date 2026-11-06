@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Paint preview player Android build definition
+summary: Defines GN targets for the Android paint preview player, including native source sets, a generated enum, JNI headers, the Java library, and unit tests.

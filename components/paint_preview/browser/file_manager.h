@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint preview file manager interface
+// summary: Declares FileManager, which manages paint preview files and directories keyed by URL hash or tab id.
+// ---
+
 #ifndef COMPONENTS_PAINT_PREVIEW_BROWSER_FILE_MANAGER_H_
 #define COMPONENTS_PAINT_PREVIEW_BROWSER_FILE_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Driver factory unit tests
+// summary: Unit tests for the driver factory, including checks that password manager drivers are created per frame and disabled within fenced frames.
+// ---
+
 #include "components/password_manager/content/browser/content_password_manager_driver_factory.h"
 
 #include <memory>

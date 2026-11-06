@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Paint preview renderer build targets
+summary: Defines GN build targets for the paint preview renderer source set, its unit tests source set, and the paint_preview_renderer_unit_tests test binary.

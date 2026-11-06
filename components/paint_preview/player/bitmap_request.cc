@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BitmapRequest implementation
+// summary: Implements the BitmapRequest struct's constructor, destructor and move operations for the paint preview player.
+// ---
+
 #include "components/paint_preview/player/bitmap_request.h"
 
 namespace paint_preview {

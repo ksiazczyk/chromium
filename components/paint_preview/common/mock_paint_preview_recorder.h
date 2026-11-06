@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock paint preview recorder header
+// summary: Declares MockPaintPreviewRecorder, a test double for the PaintPreviewRecorder mojo interface with configurable expected params and responses.
+// ---
+
 #ifndef COMPONENTS_PAINT_PREVIEW_COMMON_MOCK_PAINT_PREVIEW_RECORDER_H_
 #define COMPONENTS_PAINT_PREVIEW_COMMON_MOCK_PAINT_PREVIEW_RECORDER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for paint preview player javatests
+summary: Defines include rules granting this test directory access to signin, content and Android test dependencies.

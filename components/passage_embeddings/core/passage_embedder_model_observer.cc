@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passage embedder model observer implementation
+// summary: Implements the observer that receives passage embedder model updates from the optimization guide and forwards them to the service controller.
+// ---
+
 #include "components/passage_embeddings/core/passage_embedder_model_observer.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Convert to Java bitmap implementation
+// summary: Implements conversion of a Skia bitmap into a Java bitmap, forwarding status, byte size, and the resulting bitmap through a callback.
+// ---
+
 #include "components/paint_preview/player/android/convert_to_java_bitmap.h"
 
 #include "base/trace_event/trace_event.h"

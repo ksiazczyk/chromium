@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Driver factory test API implementation
+// summary: Implements static test helpers that construct a ContentPasswordManagerDriverFactory and access its per-frame drivers for use in unit tests.
+// ---
+
 #include "components/password_manager/content/browser/content_password_manager_driver_factory_test_api.h"
 
 namespace password_manager {

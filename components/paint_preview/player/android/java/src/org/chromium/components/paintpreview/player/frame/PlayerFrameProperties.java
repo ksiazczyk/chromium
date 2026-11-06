@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlayerFrameProperties
+// summary: Defines the property keys a player frame PropertyModel can have, such as bitmap matrix, viewport, and scale matrix.
+// ---
+
 package org.chromium.components.paintpreview.player.frame;
 
 import android.graphics.Bitmap;

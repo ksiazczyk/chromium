@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for keyboard replacing surface visibility controller
+// summary: Tests visibility state transitions, keyboard suppression via text input state, and reset behavior, including reset after the frame driver is removed.
+// ---
+
 #include "components/password_manager/content/browser/keyboard_replacing_surface_visibility_controller_impl.h"
 
 #include "components/password_manager/content/browser/content_password_manager_driver.h"

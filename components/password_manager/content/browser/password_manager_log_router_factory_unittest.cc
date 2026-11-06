@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password manager log router factory unit tests
+// summary: Unit tests verifying that the password manager log router service is active for regular browser contexts and unavailable in Incognito.
+// ---
+
 #include "components/password_manager/content/browser/password_manager_log_router_factory.h"
 
 #include "components/autofill/core/browser/logging/log_receiver.h"

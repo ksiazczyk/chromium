@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint preview player frame view binder
+// summary: Binds property model changes such as bitmaps, viewport and sub-frames to the player frame view.
+// ---
+
 package org.chromium.components.paintpreview.player.frame;
 
 import android.graphics.Point;

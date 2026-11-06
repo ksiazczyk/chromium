@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for credential manager mojom traits
+summary: Assigns the IPC security owners as reviewers for all credential manager mojom traits files in this directory.

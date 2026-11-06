@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Paint preview browser dependency allowlist
+summary: Defines include rules that allowlist the external dependencies usable by code in the paint preview browser directory.

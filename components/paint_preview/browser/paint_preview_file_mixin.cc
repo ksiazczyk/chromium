@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint preview file mixin implementation
+// summary: Implements PaintPreviewFileMixin, reading captured paint preview protos with expiry checks and writing accessibility tree updates on a sequenced task runner.
+// ---
+
 #include "components/paint_preview/browser/paint_preview_file_mixin.h"
 
 #include <string_view>

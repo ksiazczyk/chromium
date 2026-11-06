@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint preview recording conversion utilities
+// summary: Implements conversion of paint records to SkPictures, tracking glyphs, links, and frame geometry while unaccelerating GPU-backed paint images.
+// ---
+
 #include "components/paint_preview/renderer/paint_preview_recorder_utils.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard replacing surface visibility controller implementation
+// summary: Implements the visibility state machine for keyboard-replacing surfaces, adding and removing IME suppression callbacks on the render widget host.
+// ---
+
 #include "components/password_manager/content/browser/keyboard_replacing_surface_visibility_controller_impl.h"
 
 #include "components/password_manager/content/browser/content_password_manager_driver.h"

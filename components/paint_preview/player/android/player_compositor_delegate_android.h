@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android player compositor delegate class
+// summary: Declares PlayerCompositorDelegateAndroid, the JNI-facing delegate handling bitmap requests, cancellation, clicks, and composite response conversion.
+// ---
+
 #ifndef COMPONENTS_PAINT_PREVIEW_PLAYER_ANDROID_PLAYER_COMPOSITOR_DELEGATE_ANDROID_H_
 #define COMPONENTS_PAINT_PREVIEW_PLAYER_ANDROID_PLAYER_COMPOSITOR_DELEGATE_ANDROID_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the passage embeddings core component
+summary: GN build file defining static libraries for passage embeddings types, the internal scheduling embedder, core sources, test support, and unit tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PlayerFrameMediatorTest
+// summary: Robolectric tests for PlayerFrameMediator that also serve as integration tests for the frame's scroll controller, scale controller, viewport and bitmap state.
+// ---
+
 package org.chromium.components.paintpreview.player.frame;
 
 import static com.google.common.truth.Truth.assertThat;

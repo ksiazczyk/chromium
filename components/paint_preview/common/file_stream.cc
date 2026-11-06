@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File-backed Skia stream implementation
+// summary: Implements FileWStream and FileRStream, Skia write and read streams backed by base::File with optional size capping.
+// ---
+
 #include "components/paint_preview/common/file_stream.h"
 
 #include <stdint.h>

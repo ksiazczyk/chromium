@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PlayerFrameCoordinatorTest
+// summary: Robolectric tests for PlayerFrameCoordinator covering how accepting or rejecting user input enables and disables scrolling and scaling for main and sub-frames.
+// ---
+
 package org.chromium.components.paintpreview.player.frame;
 
 import android.graphics.Rect;

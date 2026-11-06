@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the passage embedder model observer
+// summary: Tests the model observer using fake model providers and a fake service controller to verify handling of model update notifications.
+// ---
+
 #include "components/passage_embeddings/core/passage_embedder_model_observer.h"
 
 #include <memory>

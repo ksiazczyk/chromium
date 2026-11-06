@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Paint preview proto validator unit tests
+// summary: Unit tests verifying that PaintPreviewProtoValid rejects protos missing required metadata, frame, link, rect, or token fields.
+// ---
+
 #include "components/paint_preview/common/proto_validator.h"
 
 #include "components/paint_preview/common/proto/paint_preview.pb.h"

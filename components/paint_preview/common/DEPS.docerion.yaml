@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for redaction params
+summary: DEPS allowlist granting the redaction_params sources and their test access to net/base/schemeful_site.h.

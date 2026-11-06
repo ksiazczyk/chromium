@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint preview test service implementation
+// summary: Implements a JNI-backed PaintPreviewTestService that draws, serializes and stores paint preview frames with links for Android player tests.
+// ---
+
 #include "components/paint_preview/player/android/javatests/paint_preview_test_service.h"
 
 #include <array>

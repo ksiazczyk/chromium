@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Convert to Java bitmap declarations
+// summary: Declares the JavaBitmapResult holder and the ConvertToJavaBitmap helper that converts Skia bitmaps for use by the Android player.
+// ---
+
 #ifndef COMPONENTS_PAINT_PREVIEW_PLAYER_ANDROID_CONVERT_TO_JAVA_BITMAP_H_
 #define COMPONENTS_PAINT_PREVIEW_PLAYER_ANDROID_CONVERT_TO_JAVA_BITMAP_H_
 

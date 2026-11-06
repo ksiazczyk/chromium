@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint preview feature flag definition
+// summary: Defines the kPaintPreviewDemo base feature flag for the paint preview component, disabled by default.
+// ---
+
 #include "components/paint_preview/features/features.h"
 
 #include "base/feature_list.h"

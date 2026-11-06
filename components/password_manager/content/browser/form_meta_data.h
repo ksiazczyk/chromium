@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form metadata helpers declaration
+// summary: Declares helpers that obtain a frame's committed URL and attach frame and form metadata to autofill FormData structures.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CONTENT_BROWSER_FORM_META_DATA_H_
 #define COMPONENTS_PASSWORD_MANAGER_CONTENT_BROWSER_FORM_META_DATA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContentPasswordManagerDriver unit tests
+// summary: Unit tests for the content password manager driver, using mock clients and fake autofill agents to verify driver behavior such as logging state and form filling.
+// ---
+
 #include "components/password_manager/content/browser/content_password_manager_driver.h"
 
 #include <memory>

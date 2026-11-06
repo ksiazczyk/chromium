@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password form classification utility header
+// summary: Declares ClassifyAsPasswordForm, which returns password manager heuristics predictions for the renderer form containing a given field.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CONTENT_BROWSER_PASSWORD_FORM_CLASSIFICATION_UTIL_H_
 #define COMPONENTS_PASSWORD_MANAGER_CONTENT_BROWSER_PASSWORD_FORM_CLASSIFICATION_UTIL_H_
 

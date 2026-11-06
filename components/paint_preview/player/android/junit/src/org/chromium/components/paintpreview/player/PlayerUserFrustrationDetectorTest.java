@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PlayerUserFrustrationDetectorTest
+// summary: JUnit Robolectric tests verifying that PlayerUserFrustrationDetector triggers its callback only for valid sequences of consecutive taps within the configured time window.
+// ---
+
 package org.chromium.components.paintpreview.player;
 
 import org.junit.Assert;

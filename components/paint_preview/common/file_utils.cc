@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proto file helpers implementation
+// summary: Implements WriteProtoToFile and ReadProtoFromFile for serializing and parsing PaintPreviewProto from disk.
+// ---
+
 #include "components/paint_preview/common/file_utils.h"
 
 #include <memory>

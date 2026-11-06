@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content password manager driver implementation
+// summary: Implements the per-frame password manager driver, binding Mojo interfaces and handling autofill, password generation, and logging interactions with the renderer.
+// ---
+
 #include "components/password_manager/content/browser/content_password_manager_driver.h"
 
 #include <utility>

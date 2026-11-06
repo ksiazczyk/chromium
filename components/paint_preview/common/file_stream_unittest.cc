@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File stream unit tests
+// summary: Unit tests covering reading, writing, write failures and size capping for the file-backed Skia streams.
+// ---
+
 #include "components/paint_preview/common/file_stream.h"
 
 #include "base/compiler_specific.h"

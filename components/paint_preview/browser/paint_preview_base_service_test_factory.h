@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Paint preview base service test factory declaration
+// summary: Declares a test-only SimpleKeyedServiceFactory that provides PaintPreviewBaseService instances keyed by SimpleFactoryKey.
+// ---
+
 #ifndef COMPONENTS_PAINT_PREVIEW_BROWSER_PAINT_PREVIEW_BASE_SERVICE_TEST_FACTORY_H_
 #define COMPONENTS_PAINT_PREVIEW_BROWSER_PAINT_PREVIEW_BASE_SERVICE_TEST_FACTORY_H_
 

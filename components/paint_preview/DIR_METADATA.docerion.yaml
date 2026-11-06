@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Paint preview directory metadata
+summary: Points the paint preview directory to the shared COMMON_METADATA mixin for issue tracking settings.
