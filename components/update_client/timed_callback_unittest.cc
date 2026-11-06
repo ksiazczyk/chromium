@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the timed callback utility
+// summary: Unit tests for MakeTimedCallback covering calls before timeout, timeouts before calls, and move-only callback parameters.
+// ---
+
 #include "components/update_client/timed_callback.h"
 
 #include <utility>

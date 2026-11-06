@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake unexportable key service implementation
+// summary: Implements a fake UnexportableKeyService that returns kKeyNotFound errors for every request, intended for use in tests.
+// ---
+
 #include "components/unexportable_keys/fake_unexportable_key_service.h"
 
 #include "base/containers/span.h"

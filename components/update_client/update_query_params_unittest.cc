@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update query params unit tests
+// summary: Tests that generated update query parameters contain the expected OS, architecture, product, and version fields, including delegate-provided extras.
+// ---
+
 #include "components/update_client/update_query_params.h"
 
 #include "base/system/sys_info.h"

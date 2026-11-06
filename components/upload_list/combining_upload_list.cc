@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CombiningUploadList implementation
+// summary: Implements CombiningUploadList, which merges multiple upload lists into one list sorted newest first and delegates clearing and single-upload requests to the sublists.
+// ---
+
 #include "components/upload_list/combining_upload_list.h"
 
 #include <algorithm>

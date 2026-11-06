@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Universal Opt-Out build targets (BUILD.gn)
+summary: Defines GN build targets for the features source set, the universal_optout static library and its unit tests with their dependencies.

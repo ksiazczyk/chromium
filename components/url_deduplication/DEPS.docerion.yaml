@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for URL deduplication
+summary: Restricts includes in the component to url_formatter, net, and re2 dependencies.

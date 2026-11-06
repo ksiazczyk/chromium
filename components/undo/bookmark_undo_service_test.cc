@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the bookmark undo service
+// summary: Verifies that bookmark additions, removals and related changes can be undone and redone through the BookmarkUndoService.
+// ---
+
 #include "components/undo/bookmark_undo_service.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-process patcher factory declaration
+// summary: Declares InProcessPatcherFactory, which creates patchers calling patch library APIs directly for testing or runtimes where multiprocess is infeasible.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_PATCH_IN_PROCESS_PATCHER_H_
 #define COMPONENTS_UPDATE_CLIENT_PATCH_IN_PROCESS_PATCHER_H_
 

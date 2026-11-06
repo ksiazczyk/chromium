@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for unexportable keys
+summary: Restricts dependencies of the directory, allowing crypto headers and banning mojo includes to keep Cronet builds working.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrashUploadList class declaration
+// summary: Declares CrashUploadList, which only provides the crash reporter log filename constant and is marked for removal.
+// ---
+
 #ifndef COMPONENTS_UPLOAD_LIST_CRASH_UPLOAD_LIST_H_
 #define COMPONENTS_UPLOAD_LIST_CRASH_UPLOAD_LIST_H_
 

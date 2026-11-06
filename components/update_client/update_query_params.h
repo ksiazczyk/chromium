@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update query parameters interface
+// summary: Declares UpdateQueryParams, which generates fixed URL query parameters for Omaha update requests, including product, OS, architecture, and version values.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_UPDATE_QUERY_PARAMS_H_
 #define COMPONENTS_UPDATE_CLIENT_UPDATE_QUERY_PARAMS_H_
 

@@ -1,3 +1,13 @@
+---
+type: readme
+title: Update Client
+summary: Introduces the update client as a reusable updater core speaking the Omaha 3.1 protocol, powering the component, extension, and out-of-process updaters.
+relations:
+  - references /chrome/updater/README.md
+  - references /docs/updater/protocol_3_1.md
+  - references /components/update_client/update_client.h
+---
+
 # Update Client
 
 Update Client is a reusable updater core that speaks the

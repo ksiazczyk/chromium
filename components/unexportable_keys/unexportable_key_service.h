@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnexportableKeyService interface
+// summary: Declares the UnexportableKeyService interface for generating, restoring, signing with, and attesting hardware-backed keys via opaque key IDs.
+// ---
+
 #ifndef COMPONENTS_UNEXPORTABLE_KEYS_UNEXPORTABLE_KEY_SERVICE_H_
 #define COMPONENTS_UNEXPORTABLE_KEYS_UNEXPORTABLE_KEY_SERVICE_H_
 

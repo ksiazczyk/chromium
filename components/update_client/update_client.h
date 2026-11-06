@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update client public API
+// summary: Declares the UpdateClient facade for installing and updating CRX components, including observers, callbacks, and detailed usage documentation.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_UPDATE_CLIENT_H_
 #define COMPONENTS_UPDATE_CLIENT_UPDATE_CLIENT_H_
 

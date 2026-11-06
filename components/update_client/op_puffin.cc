@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Puffin patch operation implementation
+// summary: Implements the puffin delta patch operation by delegating to DeltaPatchOperation and a patcher to apply puffin patches to CRX files.
+// ---
+
 #include "components/update_client/op_puffin.h"
 
 #include <string>

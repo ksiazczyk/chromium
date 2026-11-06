@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRX downloader implementation
+// summary: Implements the CrxDownloader base class that starts downloads from URL lists with expected hashes, handles errors and fallback URLs, and aggregates metrics from successor downloaders.
+// ---
+
 #include "components/update_client/crx_downloader.h"
 
 #include <stdint.h>

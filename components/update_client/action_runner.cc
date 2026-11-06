@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Action runner implementation
+// summary: Runs an action handler on an installed CRX file and reports action-run events with success and error codes.
+// ---
+
 #include "components/update_client/action_runner.h"
 
 #include <optional>

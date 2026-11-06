@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UndoManager unit tests
+// summary: Unit tests for the UndoManager class, using test doubles to verify undo and redo grouping, operation tracking, and observer notifications.
+// ---
+
 #include "components/undo/undo_manager.h"
 
 #include <memory>

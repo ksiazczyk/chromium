@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRX downloader factory implementation
+// summary: Creates platform-specific CRX downloader chains, using Delivery Optimization and BITS on Windows and the background downloader on macOS, with a URL fetcher fallback.
+// ---
+
 #include "components/update_client/crx_downloader_factory.h"
 
 #include <optional>

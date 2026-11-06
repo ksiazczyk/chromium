@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background long task scheduler implementation
+// summary: Implements priority-ordered scheduling of long background tasks, including retries and duration histogram reporting.
+// ---
+
 #include "components/unexportable_keys/background_long_task_scheduler.h"
 
 #include <ranges>

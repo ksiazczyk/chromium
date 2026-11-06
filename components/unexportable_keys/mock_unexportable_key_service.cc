@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock unexportable key service implementation
+// summary: Implements MockUnexportableKeyService, a GoogleMock-based mock that can delegate unexportable key operations to a real UnexportableKeyService instance for use in tests.
+// ---
+
 #include "components/unexportable_keys/mock_unexportable_key_service.h"
 
 namespace unexportable_keys {

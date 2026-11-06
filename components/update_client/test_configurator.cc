@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestConfigurator implementation
+// summary: Implements a test Configurator for update_client unit tests, wiring test URLs, a URL loader factory, unzip and patch factories, and persisted data.
+// ---
+
 #include "components/update_client/test_configurator.h"
 
 #include <memory>

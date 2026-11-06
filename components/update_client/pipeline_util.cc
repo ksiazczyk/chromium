@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Helpers for building update operation events
+// summary: Defines MakeSimpleOperationEvent, which converts operation results or errors into protocol event dictionaries with event type, result, and error codes.
+// ---
+
 #include "components/update_client/pipeline_util.h"
 
 #include <utility>

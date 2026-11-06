@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrxUpdateItem struct
+// summary: Defines the CrxUpdateItem struct that tracks a CRX component's update state, versions, download progress, errors, and installer result.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_CRX_UPDATE_ITEM_H_
 #define COMPONENTS_UPDATE_CLIENT_CRX_UPDATE_ITEM_H_
 

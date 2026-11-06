@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for update client dependencies
+summary: Specifies the allowed include dependencies for the update client code and extra network dependencies permitted for its unit tests.

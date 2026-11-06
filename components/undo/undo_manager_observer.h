@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UndoManagerObserver interface declaration
+// summary: Declares the observer interface that is notified of UndoManager state changes and shutdown.
+// ---
+
 #ifndef COMPONENTS_UNDO_UNDO_MANAGER_OBSERVER_H_
 #define COMPONENTS_UNDO_UNDO_MANAGER_OBSERVER_H_
 

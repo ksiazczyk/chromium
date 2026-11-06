@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: macOS background downloader unit tests
+// summary: Unit tests for the macOS background downloader, covering downloads and session behavior with an embedded test server.
+// ---
+
 #include "components/update_client/background_downloader_mac.h"
 
 #include <stddef.h>

@@ -1,0 +1,4 @@
+# Docerion header of d198d0d9901925d6bd35cbe76fe83c40d1185f64.
+type: data
+title: 'Protocol serializer fuzzer seed: minimal request without dlpref'
+summary: Fuzzer corpus seed holding a minimal serialized update request JSON that omits dlpref and app entries.

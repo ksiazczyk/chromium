@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Universal Opt-Out preference registration (prefs.cc)
+// summary: Registers the eligibility history dictionary and the eligible and enabled boolean profile preferences for Universal Opt Out.
+// ---
+
 #include "components/universal_optout/prefs.h"
 
 #include "components/pref_registry/pref_registry_syncable.h"

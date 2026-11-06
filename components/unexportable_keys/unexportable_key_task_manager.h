@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnexportableKeyTaskManager declaration
+// summary: Declares UnexportableKeyTaskManager, which asynchronously schedules slow unexportable key operations off the main thread and may deduplicate or cache signing calls.
+// ---
+
 #ifndef COMPONENTS_UNEXPORTABLE_KEYS_UNEXPORTABLE_KEY_TASK_MANAGER_H_
 #define COMPONENTS_UNEXPORTABLE_KEYS_UNEXPORTABLE_KEY_TASK_MANAGER_H_
 

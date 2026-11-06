@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRX unpacker implementation for component updates
+// summary: Implements verification and unzipping of component CRX packages, including extraction of verified contents into the metadata folder.
+// ---
+
 #include "components/update_client/unpacker.h"
 
 #include <stdint.h>

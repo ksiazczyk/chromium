@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test file path helper declarations for update client tests
+// summary: Declares helpers that return paths to update client test data files and duplicate them into a caller-provided temporary directory.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_TEST_UTILS_H_
 #define COMPONENTS_UPDATE_CLIENT_TEST_UTILS_H_
 

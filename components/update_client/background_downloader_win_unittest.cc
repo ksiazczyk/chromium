@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows BITS downloader stale download tests
+// summary: Unit tests verifying that the Windows BITS downloader cleans stale downloads and retains recent ones.
+// ---
+
 #include "components/update_client/background_downloader_win.h"
 
 #include <windows.h>

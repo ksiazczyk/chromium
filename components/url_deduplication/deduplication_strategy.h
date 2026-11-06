@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeduplicationStrategy class declaration
+// summary: Declares parameters that control URL deduplication, such as excluded prefixes and clearing of scheme, credentials, path, query, ref, and port.
+// ---
+
 #ifndef COMPONENTS_URL_DEDUPLICATION_DEDUPLICATION_STRATEGY_H_
 #define COMPONENTS_URL_DEDUPLICATION_DEDUPLICATION_STRATEGY_H_
 

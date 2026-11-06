@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JSON protocol parser implementation
+// summary: Parses JSON update check responses into parser results, validating versions, operations, pipelines, and URLs.
+// ---
+
 #include "components/update_client/protocol_parser_json.h"
 
 #include <stdint.h>

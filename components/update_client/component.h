@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component class header with update state diagram
+// summary: Declares the Component class representing a CRX component managed by the UpdateEngine and documents its state machine from kNew through checking, downloading, updating, and run to kUpdated.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_COMPONENT_H_
 #define COMPONENTS_UPDATE_CLIENT_COMPONENT_H_
 

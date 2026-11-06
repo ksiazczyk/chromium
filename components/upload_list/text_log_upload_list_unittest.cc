@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TextLogUploadList unit tests
+// summary: Unit tests verifying that TextLogUploadList parses text and JSON log entries of various formats into UploadInfo objects.
+// ---
+
 #include "components/upload_list/text_log_upload_list.h"
 
 #include <string>

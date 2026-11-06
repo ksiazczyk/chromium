@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CombiningUploadList class declaration
+// summary: Declares CombiningUploadList, an UploadList subclass that presents several upload lists as a single combined list.
+// ---
+
 #ifndef COMPONENTS_UPLOAD_LIST_COMBINING_UPLOAD_LIST_H_
 #define COMPONENTS_UPLOAD_LIST_COMBINING_UPLOAD_LIST_H_
 

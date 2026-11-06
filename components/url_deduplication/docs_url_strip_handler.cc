@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DocsURLStripHandler implementation
+// summary: Extracts Google Docs document IDs from URLs and strips extra parameters so similar doc URLs can be deduplicated.
+// ---
+
 #include "components/url_deduplication/docs_url_strip_handler.h"
 
 #include <string>

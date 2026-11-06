@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for PersistedData update metadata storage
+// summary: Tests PersistedData behavior for date-last-roll-call, active dates, install dates, install IDs, product versions, and ping freshness using a testing pref service.
+// ---
+
 #include "components/update_client/persisted_data.h"
 
 #include <map>

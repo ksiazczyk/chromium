@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the undo component
+summary: Restricts dependencies of the undo component so it stays usable on iOS and desktop without depending on system-specific directories.

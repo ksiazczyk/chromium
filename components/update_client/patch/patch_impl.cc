@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chromium patcher implementation
+// summary: Implements PatcherImpl and PatchChromiumFactory, which validate input files and dispatch puffin and zucchini patching through the patch service.
+// ---
+
 #include "components/update_client/patch/patch_impl.h"
 
 #include <utility>

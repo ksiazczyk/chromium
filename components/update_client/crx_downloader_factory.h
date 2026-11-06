@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrxDownloaderFactory interface
+// summary: Declares the abstract factory that lets callers inject a custom CRX download stack into the update client via a Configurator.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_CRX_DOWNLOADER_FACTORY_H_
 #define COMPONENTS_UPDATE_CLIENT_CRX_DOWNLOADER_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Puffin patch operation unit tests
+// summary: Parameterized unit tests for the puffin patch operation covering success and failure cases in both foreground and background modes.
+// ---
+
 #include "components/update_client/op_puffin.h"
 
 #include <utility>

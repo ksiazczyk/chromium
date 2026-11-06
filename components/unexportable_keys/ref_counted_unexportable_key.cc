@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ref-counted unexportable key implementations
+// summary: Implements ref-counted wrappers that own a crypto unexportable signing or attestation key together with its unique identifier.
+// ---
+
 #include "components/unexportable_keys/ref_counted_unexportable_key.h"
 
 #include <memory>

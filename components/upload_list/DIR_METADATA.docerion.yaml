@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracking metadata for the upload list directory
+summary: Declares the Monorail and Buganizer components used for bug reports against this directory.

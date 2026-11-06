@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CombiningUploadList unit tests
+// summary: Unit tests that verify CombiningUploadList merges three text log upload lists and returns the uploads sorted newest first.
+// ---
+
 #include "components/upload_list/combining_upload_list.h"
 
 #include <array>

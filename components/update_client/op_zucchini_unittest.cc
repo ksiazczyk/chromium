@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Zucchini Operation Unit Tests
+// summary: Parameterized unit tests covering successful zucchini patching, failure, and cancellation paths of ZucchiniOperation in foreground and background modes.
+// ---
+
 #include "components/update_client/op_zucchini.h"
 
 #include <optional>

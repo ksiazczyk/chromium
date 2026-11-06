@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer for protocol request serialization
+// summary: Fuzzes MakeProtocolRequest with random input and checks that the serialized update check request is valid JSON.
+// ---
+
 #include "components/update_client/protocol_serializer.h"
 
 #include <fuzzer/FuzzedDataProvider.h>

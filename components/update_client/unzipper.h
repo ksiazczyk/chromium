@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unzipper interface for unpacking update archives
+// summary: Defines the Unzipper and UnzipperFactory interfaces used to extract zip archives and decode xz files during component updates.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_UNZIPPER_H_
 #define COMPONENTS_UPDATE_CLIENT_UNZIPPER_H_
 

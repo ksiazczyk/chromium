@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL-keyed data collection consent helper implementation
+// summary: Implements pref-based and sync-based helpers that determine whether the user has consented to URL-keyed data collection and notify observers when the consent state changes.
+// ---
+
 #include "components/unified_consent/url_keyed_data_collection_consent_helper.h"
 
 #include <algorithm>

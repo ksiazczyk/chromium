@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Puffin patch operation declaration
+// summary: Declares PuffOperation, which applies a puffin patch to produce an updated file and reports the result or error through a callback.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_OP_PUFFIN_H_
 #define COMPONENTS_UPDATE_CLIENT_OP_PUFFIN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows BITS background downloader implementation
+// summary: Implements the Windows background downloader on top of the BITS service, managing BITS job state transitions and stale download cleanup.
+// ---
+
 #include "components/update_client/background_downloader_win.h"
 
 #include <objbase.h>

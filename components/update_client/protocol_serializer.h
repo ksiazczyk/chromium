@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update client protocol serializer declarations
+// summary: Declares builders for update check extra request headers and protocol request objects, plus the abstract ProtocolSerializer interface.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_PROTOCOL_SERIALIZER_H_
 #define COMPONENTS_UPDATE_CLIENT_PROTOCOL_SERIALIZER_H_
 

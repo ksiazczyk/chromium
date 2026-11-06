@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Unexportable key service Mojo proxy implementation
+// summary: Implements UnexportableKeyServiceProxyImpl, receiving Mojo IPC requests and delegating them to the underlying UnexportableKeyService instance.
+// ---
+
 #include "components/unexportable_keys/mojom/unexportable_key_service_proxy_impl.h"
 
 #include <cstdint>

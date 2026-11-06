@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Activity data service interface
+// summary: Interface that supplies update activity information such as active bits and days since last active or roll call to the update engine.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_ACTIVITY_DATA_SERVICE_H_
 #define COMPONENTS_UPDATE_CLIENT_ACTIVITY_DATA_SERVICE_H_
 

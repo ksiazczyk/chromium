@@ -1,6 +1,13 @@
 // Copyright 2017 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: TaskSendPing task implementation
+// summary: Implements the update_client task that sends a one-off ping for a CRX component through the update engine, with cancellation support.
+// ---
+
 #include "components/update_client/task_send_ping.h"
 
 #include <utility>

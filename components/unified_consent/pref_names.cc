@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unified consent preference name constants implementation
+// summary: Defines preference name constants for the unified consent migration state on ChromeOS and the URL-keyed anonymized data collection enabled flag.
+// ---
+
 #include "components/unified_consent/pref_names.h"
 
 namespace unified_consent {

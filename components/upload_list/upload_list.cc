@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UploadList base class implementation
+// summary: Implements the UploadList base class with asynchronous loading, clearing and retrieval of upload entries on a thread pool for UI display.
+// ---
+
 #include "components/upload_list/upload_list.h"
 
 #include <algorithm>

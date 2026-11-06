@@ -1,0 +1,4 @@
+# Docerion header of da2ebcaffec0bce69352b0a3d8e94ecb5fc83fb1.
+type: data
+title: 'Protocol serializer fuzzer seed: three update request variants'
+summary: Fuzzer corpus seed combining three serialized update request JSON lines ranging from minimal to domain-joined requests.

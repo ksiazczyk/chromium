@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background task interface
+// summary: Defines the BackgroundTask interface describing the lifecycle, status, priority, and retry behavior of scheduled background tasks.
+// ---
+
 #ifndef COMPONENTS_UNEXPORTABLE_KEYS_BACKGROUND_TASK_H_
 #define COMPONENTS_UNEXPORTABLE_KEYS_BACKGROUND_TASK_H_
 

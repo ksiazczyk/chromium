@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test installer classes for update client tests
+// summary: Declares test installer doubles for the CrxInstaller interface that count installs, report errors, and serve files from versioned directories.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_TEST_INSTALLER_H_
 #define COMPONENTS_UPDATE_CLIENT_TEST_INSTALLER_H_
 

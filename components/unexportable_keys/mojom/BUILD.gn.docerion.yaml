@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for unexportable keys Mojom bindings
+summary: GN build file defining the Mojom bindings target with type mappings, the mojo_service source set, and the unit_tests target for the unexportable keys component.

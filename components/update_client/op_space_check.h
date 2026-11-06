@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Space Check Operation Declaration
+// summary: Declares SpaceCheckOperation, which estimates whether enough disk space is available to download and install an update and reports a DISK_FULL downloader error otherwise.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_OP_SPACE_CHECK_H_
 #define COMPONENTS_UPDATE_CLIENT_OP_SPACE_CHECK_H_
 

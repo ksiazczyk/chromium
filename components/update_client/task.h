@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update client task abstraction
+// summary: Defines the Task interface representing a unit of update work over a set of CRXs, with run, cancel, and id accessors.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_TASK_H_
 #define COMPONENTS_UPDATE_CLIENT_TASK_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CrxCache unit tests
+// summary: Unit tests for CrxCache covering put and get by hash, missing entries, replacement per app ID, already-cached files, and removal behavior.
+// ---
+
 #include "components/update_client/crx_cache.h"
 
 #include <map>

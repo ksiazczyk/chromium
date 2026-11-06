@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component update state machine implementation
+// summary: Implements the Component class that drives a CRX component through the update flow, handling state transitions, update check results, progress reporting, and install operations.
+// ---
+
 #include "components/update_client/component.h"
 
 #include <stdint.h>

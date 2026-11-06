@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unified consent service header
+// summary: Declares the UnifiedConsentService keyed service that manages consent for URL-keyed anonymized data collection during sync setup, including the ChromeOS migration state enum.
+// ---
+
 #ifndef COMPONENTS_UNIFIED_CONSENT_UNIFIED_CONSENT_SERVICE_H_
 #define COMPONENTS_UNIFIED_CONSENT_UNIFIED_CONSENT_SERVICE_H_
 

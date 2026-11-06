@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL Deduplication Helper Unit Tests
+// summary: Unit tests verifying URL stripping, mock strip handlers, prefix stripping, and deduplication by domain and title in URLDeduplicationHelper.
+// ---
+
 #include "components/url_deduplication/url_deduplication_helper.h"
 
 #include <memory>

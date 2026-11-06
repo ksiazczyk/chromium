@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JSON protocol parser header
+// summary: Declares the JSON parser for update protocol responses, referencing the protocol version 3 specification.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_PROTOCOL_PARSER_JSON_H_
 #define COMPONENTS_UPDATE_CLIENT_PROTOCOL_PARSER_JSON_H_
 

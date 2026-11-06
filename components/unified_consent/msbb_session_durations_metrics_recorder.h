@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MSBB session durations metrics recorder header
+// summary: Declares a recorder that tracks active browsing time with Make Searches and Browsing Better (URL-keyed anonymized data collection) enabled as a fraction of total session time.
+// ---
+
 #ifndef COMPONENTS_UNIFIED_CONSENT_MSBB_SESSION_DURATIONS_METRICS_RECORDER_H_
 #define COMPONENTS_UNIFIED_CONSENT_MSBB_SESSION_DURATIONS_METRICS_RECORDER_H_
 

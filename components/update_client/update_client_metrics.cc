@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update client metrics recording
+// summary: Records UMA histograms for download and unzip times, CUP validation, and per-downloader download attempts and outcomes.
+// ---
+
 #include "components/update_client/update_client_metrics.h"
 
 #include <string>

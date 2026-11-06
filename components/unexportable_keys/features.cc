@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unexportable keys feature flag definitions
+// summary: Defines base::Feature flags for DBSC software keys for manual testing, unexportable key deletion, and the spare key pool.
+// ---
+
 #include "components/unexportable_keys/features.h"
 
 #include "build/build_config.h"

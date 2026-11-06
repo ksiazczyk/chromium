@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unified consent metrics header
+// summary: Declares functions that record histograms for unified consent settings entries and for sync data types disabled during the advanced sync opt-in flow.
+// ---
+
 #ifndef COMPONENTS_UNIFIED_CONSENT_UNIFIED_CONSENT_METRICS_H_
 #define COMPONENTS_UNIFIED_CONSENT_UNIFIED_CONSENT_METRICS_H_
 

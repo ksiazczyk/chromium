@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update client network fetcher class declaration
+// summary: Declares the NetworkFetcherImpl class that performs POST requests and file downloads for the update client using the network service.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_NET_NETWORK_IMPL_H_
 #define COMPONENTS_UPDATE_CLIENT_NET_NETWORK_IMPL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the update client net folder
+summary: Defines the allowed include dependencies for the components/update_client/net directory in Chromium's dependency checking.

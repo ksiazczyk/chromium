@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unexportable key task functions
+// summary: Implements the slow key operations run in the background, such as listing, generating, and importing signing keys and signing data via the crypto key provider.
+// ---
+
 #include "components/unexportable_keys/unexportable_key_tasks.h"
 
 #include <memory>

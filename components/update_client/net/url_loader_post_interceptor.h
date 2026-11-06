@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL loader POST interceptor for update client tests
+// summary: Declares URLLoaderPostInterceptor, a test utility that intercepts update client POST requests and returns canned responses matched to expectations.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_NET_URL_LOADER_POST_INTERCEPTOR_H_
 #define COMPONENTS_UPDATE_CLIENT_NET_URL_LOADER_POST_INTERCEPTOR_H_
 

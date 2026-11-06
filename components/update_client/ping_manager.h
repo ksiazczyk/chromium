@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PingManager class interface for update event pings
+// summary: Declares the PingManager class, which sends a ping carrying update events for a component and invokes a callback when the ping is sent or fails.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_PING_MANAGER_H_
 #define COMPONENTS_UPDATE_CLIENT_PING_MANAGER_H_
 

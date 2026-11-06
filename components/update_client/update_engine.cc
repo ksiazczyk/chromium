@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update engine implementation
+// summary: Implements the update engine that runs update checks and applies updates for groups of components, managing update contexts, pings, and cancellation.
+// ---
+
 #include "components/update_client/update_engine.h"
 
 #include <stddef.h>

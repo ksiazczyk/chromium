@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unexportable key service Mojo proxy header
+// summary: Declares UnexportableKeyServiceProxyImpl, which exposes the local unexportable key service through a Mojo receiver for less-privileged processes.
+// ---
+
 #ifndef COMPONENTS_UNEXPORTABLE_KEYS_MOJOM_UNEXPORTABLE_KEY_SERVICE_PROXY_IMPL_H_
 #define COMPONENTS_UNEXPORTABLE_KEYS_MOJOM_UNEXPORTABLE_KEY_SERVICE_PROXY_IMPL_H_
 

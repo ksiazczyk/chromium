@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MSBB session durations metrics recorder implementation
+// summary: Logs session duration histograms split by whether anonymized data collection (MSBB) consent was enabled during the session.
+// ---
+
 #include "components/unified_consent/msbb_session_durations_metrics_recorder.h"
 
 #include <string>

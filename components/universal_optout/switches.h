@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Universal Opt-Out testing switch (switches.h)
+// summary: Defines a command-line switch that supplies a JSON file overriding the eligibility history preference for testing purposes.
+// ---
+
 #ifndef COMPONENTS_UNIVERSAL_OPTOUT_SWITCHES_H_
 #define COMPONENTS_UNIVERSAL_OPTOUT_SWITCHES_H_
 

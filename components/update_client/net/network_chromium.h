@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network fetcher factory using the Chromium network service
+// summary: Declares NetworkFetcherChromiumFactory, which creates network fetchers for update client requests from a SharedURLLoaderFactory and a cookie predicate.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_NET_NETWORK_CHROMIUM_H_
 #define COMPONENTS_UPDATE_CLIENT_NET_NETWORK_CHROMIUM_H_
 

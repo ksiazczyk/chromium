@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceError enum and ServiceErrorOr result type
+// summary: Defines the ServiceError enum persisted in histograms, the ServiceErrorOr expected-based result type, and IsPersistentError for the unexportable keys component.
+// ---
+
 #ifndef COMPONENTS_UNEXPORTABLE_KEYS_SERVICE_ERROR_H_
 #define COMPONENTS_UNEXPORTABLE_KEYS_SERVICE_ERROR_H_
 

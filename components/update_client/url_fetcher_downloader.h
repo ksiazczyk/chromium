@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL fetcher CRX downloader declaration
+// summary: Declares UrlFetcherDownloader, a CrxDownloader subclass that downloads update files using a NetworkFetcher with cancellation and completion tracking.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_URL_FETCHER_DOWNLOADER_H_
 #define COMPONENTS_UPDATE_CLIENT_URL_FETCHER_DOWNLOADER_H_
 

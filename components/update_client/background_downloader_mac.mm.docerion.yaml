@@ -1,0 +1,4 @@
+# Docerion header of background_downloader_mac.mm.
+type: source
+title: macOS background downloader implementation
+summary: Implements the macOS background downloader using NSURLSession background sessions with task polling, timeouts, and download cache eviction.

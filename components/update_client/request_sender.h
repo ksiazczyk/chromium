@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Request sender class declaration
+// summary: Declares RequestSender, which posts update requests to URLs in order with optional CUP signing and reports responses through a callback.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_REQUEST_SENDER_H_
 #define COMPONENTS_UPDATE_CLIENT_REQUEST_SENDER_H_
 

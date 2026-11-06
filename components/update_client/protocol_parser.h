@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protocol parser interface
+// summary: Declares the ProtocolParser base class and structures for parsed update check responses, including apps, operations, and pipelines.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_PROTOCOL_PARSER_H_
 #define COMPONENTS_UPDATE_CLIENT_PROTOCOL_PARSER_H_
 

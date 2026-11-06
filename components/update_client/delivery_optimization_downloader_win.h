@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeliveryOptimizationDownloader class declaration
+// summary: Declares the Windows Delivery Optimization downloader and the feature flag enabling the DO -> BITS -> URL fetcher download chain.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_DELIVERY_OPTIMIZATION_DOWNLOADER_WIN_H_
 #define COMPONENTS_UPDATE_CLIENT_DELIVERY_OPTIMIZATION_DOWNLOADER_WIN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Universal Opt Out service class declaration
+// summary: Declares the UniversalOptOutService keyed service, its eligibility enums, and histogram names used to determine and report Universal Opt Out eligibility for signed-in and signed-out users.
+// ---
+
 #ifndef COMPONENTS_UNIVERSAL_OPTOUT_UNIVERSAL_OPTOUT_SERVICE_H_
 #define COMPONENTS_UNIVERSAL_OPTOUT_UNIVERSAL_OPTOUT_SERVICE_H_
 

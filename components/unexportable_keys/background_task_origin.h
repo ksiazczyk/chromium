@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background task origin enum definition
+// summary: Defines the BackgroundTaskOrigin enum describing where scheduling of a background task originates, and declares the histogram suffix conversion function.
+// ---
+
 #ifndef COMPONENTS_UNEXPORTABLE_KEYS_BACKGROUND_TASK_ORIGIN_H_
 #define COMPONENTS_UNEXPORTABLE_KEYS_BACKGROUND_TASK_ORIGIN_H_
 

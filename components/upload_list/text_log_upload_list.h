@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextLogUploadList class declaration
+// summary: Declares TextLogUploadList, an UploadList subclass that parses text upload logs in CSV or line-based JSON format into UploadInfo entries.
+// ---
+
 #ifndef COMPONENTS_UPLOAD_LIST_TEXT_LOG_UPLOAD_LIST_H_
 #define COMPONENTS_UPLOAD_LIST_TEXT_LOG_UPLOAD_LIST_H_
 

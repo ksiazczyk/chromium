@@ -1,0 +1,4 @@
+# Docerion header of 71c7a20b152d0a5299354db9bc32294e4a6ce406.
+type: data
+title: Protocol parser fuzzer seed with trailing characters
+summary: Fuzzer corpus seed containing a sample update protocol 3.1 response with a noupdate updatecheck, plus trailing characters to exercise parser error handling.

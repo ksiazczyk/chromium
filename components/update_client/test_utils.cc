@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test file path helpers for update client tests
+// summary: Implements helpers that resolve paths to update client test data files and copy them into a temporary directory for unit tests.
+// ---
+
 #include "components/update_client/test_utils.h"
 
 #include <string_view>

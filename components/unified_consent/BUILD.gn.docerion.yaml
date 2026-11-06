@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the unified_consent component
+summary: Defines the unified_consent static library and its unit_tests source set with their sources and dependencies.

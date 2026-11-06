@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL Deduplication Helper Header
+// summary: Declares the URLDeduplicationHelper class that computes deduplication keys for URLs using strip handlers and a deduplication strategy.
+// ---
+
 #ifndef COMPONENTS_URL_DEDUPLICATION_URL_DEDUPLICATION_HELPER_H_
 #define COMPONENTS_URL_DEDUPLICATION_URL_DEDUPLICATION_HELPER_H_
 

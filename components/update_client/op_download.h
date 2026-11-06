@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download operation declaration
+// summary: Declares DownloadOperation, which downloads a CRX file and invokes a callback with the resulting file path or a categorized error, returning a cancellation callback.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_OP_DOWNLOAD_H_
 #define COMPONENTS_UPDATE_CLIENT_OP_DOWNLOAD_H_
 

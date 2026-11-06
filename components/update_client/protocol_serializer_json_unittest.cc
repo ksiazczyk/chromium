@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the JSON protocol serializer
+// summary: Verifies that serialized JSON update check requests match the expected elements and attributes via regular expressions.
+// ---
+
 #include "components/update_client/protocol_serializer_json.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskCheckForUpdate task class declaration
+// summary: Declares the TaskCheckForUpdate task, a discovery-only task that checks one CRX id for updates without applying them.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_TASK_CHECK_FOR_UPDATE_H_
 #define COMPONENTS_UPDATE_CLIENT_TASK_CHECK_FOR_UPDATE_H_
 

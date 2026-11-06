@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS background downloader class declarations
+// summary: Declares the macOS BackgroundDownloader and its shared background session interface for downloading update CRX files.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_BACKGROUND_DOWNLOADER_MAC_H_
 #define COMPONENTS_UPDATE_CLIENT_BACKGROUND_DOWNLOADER_MAC_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the patch implementation
+// summary: Unit tests verifying that PuffPatch and ZucchiniPatch report the correct UnpackerError when the old, patch, or destination file is invalid.
+// ---
+
 #include "components/update_client/patch/patch_impl.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update checker interface
+// summary: Declares the UpdateChecker interface that initiates update checks for components, along with its callback and factory types.
+// ---
+
 #ifndef COMPONENTS_UPDATE_CLIENT_UPDATE_CHECKER_H_
 #define COMPONENTS_UPDATE_CLIENT_UPDATE_CHECKER_H_
 
