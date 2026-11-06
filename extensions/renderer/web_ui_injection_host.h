@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUIInjectionHost class declaration
+// summary: Declares WebUIInjectionHost, an InjectionHost subclass identifying WebUI hosts and permitting content script injection on their frames.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_WEB_UI_INJECTION_HOST_H_
 #define EXTENSIONS_RENDERER_WEB_UI_INJECTION_HOST_H_
 

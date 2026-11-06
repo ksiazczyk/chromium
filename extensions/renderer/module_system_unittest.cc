@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ModuleSystem unit tests
+// summary: Unit tests covering ModuleSystem require() behavior, exception handling, and acceptance of non-null-terminated module names.
+// ---
+
 #include "extensions/renderer/module_system.h"
 
 #include <stdint.h>

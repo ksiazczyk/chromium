@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScriptContextSet implementation
+// summary: Implements the container of extension script contexts, handling registration, removal, context classification and lookup by V8 context or frame.
+// ---
+
 #include "extensions/renderer/script_context_set.h"
 
 #include "base/compiler_specific.h"

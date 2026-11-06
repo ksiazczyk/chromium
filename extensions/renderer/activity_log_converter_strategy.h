@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Activity log converter strategy header
+// summary: Declares ActivityLogConverterStrategy, a V8ValueConverter strategy that avoids running JavaScript during conversion.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_ACTIVITY_LOG_CONVERTER_STRATEGY_H_
 #define EXTENSIONS_RENDERER_ACTIVITY_LOG_CONVERTER_STRATEGY_H_
 

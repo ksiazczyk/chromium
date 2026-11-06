@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer extension registry implementation
+// summary: Implements a thread-safe process-wide registry of loaded extensions in the renderer, including service worker activation tokens and Mojo JS enablement.
+// ---
+
 #include "extensions/renderer/renderer_extension_registry.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResourceRequestPolicy class header
+// summary: Declares the ResourceRequestPolicy class that decides when extension resource URLs may be requested, tracking web-accessible resources and delegating special-origin and DevTools cases to a Delegate interface.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_RESOURCE_REQUEST_POLICY_H_
 #define EXTENSIONS_RENDERER_RESOURCE_REQUEST_POLICY_H_
 

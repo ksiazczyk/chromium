@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Static V8 external one-byte string resource declaration
+// summary: Declares a simple v8::ExternalOneByteStringResource wrapper around a buffer that must outlive the V8 runtime instance using it.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_STATIC_V8_EXTERNAL_ONE_BYTE_STRING_RESOURCE_H_
 #define EXTENSIONS_RENDERER_STATIC_V8_EXTERNAL_ONE_BYTE_STRING_RESOURCE_H_
 

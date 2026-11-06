@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8 helper functions header
+// summary: Provides inline helper functions for V8 string conversion and object property access used by the extensions renderer code.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_V8_HELPERS_H_
 #define EXTENSIONS_RENDERER_V8_HELPERS_H_
 

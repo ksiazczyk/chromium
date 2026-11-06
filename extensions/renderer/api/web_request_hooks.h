@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRequestHooks class declaration for webRequest API custom hooks
+// summary: Declares WebRequestHooks, an APIBindingHooksDelegate that creates custom WebRequest events in the renderer.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_API_WEB_REQUEST_HOOKS_H_
 #define EXTENSIONS_RENDERER_API_WEB_REQUEST_HOOKS_H_
 

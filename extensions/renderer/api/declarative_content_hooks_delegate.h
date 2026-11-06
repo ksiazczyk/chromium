@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarative content API hooks delegate header
+// summary: Declares DeclarativeContentHooksDelegate, the custom APIBindingHooksDelegate for the declarativeContent API.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_API_DECLARATIVE_CONTENT_HOOKS_DELEGATE_H_
 #define EXTENSIONS_RENDERER_API_DECLARATIVE_CONTENT_HOOKS_DELEGATE_H_
 

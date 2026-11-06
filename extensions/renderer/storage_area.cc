@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageArea implementation for the chrome.storage API
+// summary: Implements the storage.StorageArea custom type with gin wrappables for local and other storage areas, dispatching get, set, remove, clear, getBytesInUse and onChanged calls.
+// ---
+
 #include "extensions/renderer/storage_area.h"
 
 #include "base/strings/stringprintf.h"

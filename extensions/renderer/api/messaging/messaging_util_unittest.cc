@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Messaging utility unit tests
+// summary: Unit tests for messaging_util covering maximum JSON message size, frame ID option parsing and channel-to-event mapping for various messaging endpoints.
+// ---
+
 #include "extensions/renderer/api/messaging/messaging_util.h"
 
 #include <array>

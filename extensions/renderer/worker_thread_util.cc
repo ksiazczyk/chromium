@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Worker thread utility functions
+// summary: Implements worker_thread_util helpers that report whether code runs on a worker thread and whether window interaction is allowed for a service worker.
+// ---
+
 #include "extensions/renderer/worker_thread_util.h"
 
 #include "content/public/renderer/worker_thread.h"

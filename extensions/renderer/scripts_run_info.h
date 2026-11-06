@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScriptsRunInfo header
+// summary: Declares the ScriptsRunInfo struct that records injected script and stylesheet counts, executing scripts per extension, and logging of run information.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_SCRIPTS_RUN_INFO_H_
 #define EXTENSIONS_RENDERER_SCRIPTS_RUN_INFO_H_
 

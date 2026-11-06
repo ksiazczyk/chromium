@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SafeBuiltins unit tests
+// summary: Unit tests verifying that safe builtins stay untainted when builtin prototypes are clobbered and that safe methods such as $Array.push and $Object.keys behave correctly.
+// ---
+
 #include "extensions/renderer/safe_builtins.h"
 
 #include "extensions/renderer/module_system_test.h"

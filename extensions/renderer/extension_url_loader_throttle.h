@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionURLLoaderThrottle class declaration
+// summary: Declares a blink::URLLoaderThrottle that monitors requests issued by extensions and throttles excessive requests to URLs with the same scheme, host, port and path.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_EXTENSION_URL_LOADER_THROTTLE_H_
 #define EXTENSIONS_RENDERER_EXTENSION_URL_LOADER_THROTTLE_H_
 

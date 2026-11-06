@@ -1,3 +1,11 @@
+---
+type: reference
+title: Extension bindings system documentation
+summary: Explains how the extension bindings system creates JavaScript API entry points, including initialization, features, restriction, events, and hooks.
+relations:
+  - references /chrome/common/extensions/api/_features.md
+---
+
 # Extension Bindings
 
 [TOC]

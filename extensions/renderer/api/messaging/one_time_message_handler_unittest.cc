@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OneTimeMessageHandler unit tests
+// summary: Unit tests for one-time message handling, verifying sendMessage flows, reply callbacks, error propagation, and port closing behavior.
+// ---
+
 #include "extensions/renderer/api/messaging/one_time_message_handler.h"
 
 #include <memory>

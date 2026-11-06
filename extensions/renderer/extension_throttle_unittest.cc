@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension throttle unit tests
+// summary: Unit tests for ExtensionThrottleEntry and ExtensionThrottleManager covering back-off decisions, sliding window timing, redirects, and entry garbage collection.
+// ---
+
 #include <array>
 #include <memory>
 

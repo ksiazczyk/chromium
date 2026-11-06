@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer context data implementation
+// summary: Implements RendererContextData, which reports whether the renderer runs in an Isolated Web App context and has the controlled frame capability.
+// ---
+
 #include "extensions/renderer/renderer_context_data.h"
 
 #include "base/command_line.h"

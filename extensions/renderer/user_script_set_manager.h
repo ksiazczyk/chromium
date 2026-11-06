@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserScriptSetManager class header
+// summary: Declares UserScriptSetManager, which organizes per-host UserScriptSets for statically and programmatically declared scripts and notifies observers of updates.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_USER_SCRIPT_SET_MANAGER_H_
 #define EXTENSIONS_RENDERER_USER_SCRIPT_SET_MANAGER_H_
 

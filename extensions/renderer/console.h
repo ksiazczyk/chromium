@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Console message utility declarations
+// summary: Declares utilities to add console messages to a script context, log fatal errors, and build a v8 object with standard log methods.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_CONSOLE_H_
 #define EXTENSIONS_RENDERER_CONSOLE_H_
 

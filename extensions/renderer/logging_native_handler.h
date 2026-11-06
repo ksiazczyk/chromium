@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoggingNativeHandler declaration
+// summary: Declares a native handler that exposes Chromium logging macros such as CHECK, DCHECK, LOG and WARNING to JavaScript bindings.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_LOGGING_NATIVE_HANDLER_H_
 #define EXTENSIONS_RENDERER_LOGGING_NATIVE_HANDLER_H_
 

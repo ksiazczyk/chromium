@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension throttle entry implementation
+// summary: Implements per-URL throttling entries for extension requests, combining exponential back-off on server errors with a sliding window that recommends when to send the next request.
+// ---
+
 #include "extensions/renderer/extension_throttle_entry.h"
 
 #include <algorithm>

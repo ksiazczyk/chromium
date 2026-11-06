@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resource request policy for extension resources
+// summary: Implements the renderer-side security policy that decides when extension scheme resources may be requested, tracking web-accessible resources and mirroring browser-side checks in extension_protocols.cc.
+// ---
+
 #include "extensions/renderer/resource_request_policy.h"
 
 #include <string_view>

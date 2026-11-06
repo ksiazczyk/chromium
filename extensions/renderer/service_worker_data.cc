@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker data implementation
+// summary: Implements per-service-worker renderer data, wiring the worker proxy to the extension bindings system, permissions updates and Mojo interfaces for events and messaging.
+// ---
+
 #include "extensions/renderer/service_worker_data.h"
 
 #include <utility>

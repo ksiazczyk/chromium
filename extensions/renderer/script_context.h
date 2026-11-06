@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScriptContext class header
+// summary: Declares ScriptContext, an extension wrapper for a v8::Context that tracks the frame, extension, context type and module system, and manages invalidation and observers.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_SCRIPT_CONTEXT_H_
 #define EXTENSIONS_RENDERER_SCRIPT_CONTEXT_H_
 

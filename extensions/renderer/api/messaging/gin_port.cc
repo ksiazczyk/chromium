@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GinPort implementation for extension runtime ports
+// summary: Implements the GinPort class, a gin-wrappable runtime.Port object exposing postMessage, disconnect, name, sender, onMessage and onDisconnect to extension JavaScript.
+// ---
+
 #include "extensions/renderer/api/messaging/gin_port.h"
 
 #include <cstring>

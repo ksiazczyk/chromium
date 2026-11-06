@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared localization message map implementation
+// summary: Implements a thread-safe singleton that caches and retrieves extension localization messages, loading catalogs via a synchronous IPC call to the browser.
+// ---
+
 #include "extensions/renderer/shared_l10n_map.h"
 
 #include "base/no_destructor.h"

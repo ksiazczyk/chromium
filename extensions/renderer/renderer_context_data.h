@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer context data class declaration
+// summary: Declares the RendererContextData class, a renderer-side ContextData that checks Isolated Web App context and controlled frame capability.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_RENDERER_CONTEXT_DATA_H_
 #define EXTENSIONS_RENDERER_RENDERER_CONTEXT_DATA_H_
 

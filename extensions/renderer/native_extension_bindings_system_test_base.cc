@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NativeExtensionBindingsSystem test base implementation
+// summary: Implements the shared NativeExtensionBindingsSystemUnittest fixture with a mocked IPC message sender and script context creation and teardown logic.
+// ---
+
 #include "extensions/renderer/native_extension_bindings_system_test_base.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM API hooks delegate header
+// summary: Declares DOMHooksDelegate, the custom APIBindingHooksDelegate handling the dom.openOrClosedShadowRoot method of the chrome.dom API.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_API_DOM_HOOKS_DELEGATE_H_
 #define EXTENSIONS_RENDERER_API_DOM_HOOKS_DELEGATE_H_
 

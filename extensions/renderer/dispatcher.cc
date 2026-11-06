@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension renderer dispatcher implementation
+// summary: Implements the renderer-side dispatcher for extension control messages, bindings setup, events and extension state.
+// ---
+
 #include "extensions/renderer/dispatcher.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ModuleSystem test fixture implementation
+// summary: Implements the ModuleSystemTest fixture and environment that set up V8 contexts, native handlers, and assertion natives for testing extension JavaScript modules.
+// ---
+
 #include "extensions/renderer/module_system_test.h"
 
 #include <stddef.h>

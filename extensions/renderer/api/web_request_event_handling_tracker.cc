@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web request event handling tracker implementation
+// summary: Tracks which script contexts handle blocking webRequest event dispatches and sends a completion signal once all listeners have reported.
+// ---
+
 #include "extensions/renderer/api/web_request_event_handling_tracker.h"
 
 #include <utility>

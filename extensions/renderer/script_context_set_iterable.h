@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScriptContextSetIterable header
+// summary: Declares the iterable base class used to run callbacks over script contexts filtered by host ID and render frame.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_SCRIPT_CONTEXT_SET_ITERABLE_H_
 #define EXTENSIONS_RENDERER_SCRIPT_CONTEXT_SET_ITERABLE_H_
 

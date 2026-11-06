@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SendMessageTester class declaration
+// summary: Declares a helper for testing the sendMessage, sendRequest, and connect API calls used across the chrome.runtime, chrome.tabs, and chrome.extension namespaces.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_API_MESSAGING_SEND_MESSAGE_TESTER_H_
 #define EXTENSIONS_RENDERER_API_MESSAGING_SEND_MESSAGE_TESTER_H_
 

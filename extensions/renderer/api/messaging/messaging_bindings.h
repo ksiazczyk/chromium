@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessagingBindings class declaration
+// summary: Declares MessagingBindings, an ObjectBackedNativeHandler exposing the BindToGC native function to extension scripts.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_API_MESSAGING_MESSAGING_BINDINGS_H_
 #define EXTENSIONS_RENDERER_API_MESSAGING_MESSAGING_BINDINGS_H_
 

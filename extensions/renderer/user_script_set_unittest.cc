@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UserScriptSet unit tests
+// summary: Unit tests for UserScriptSet, including a regression test verifying that a failed shared memory update clears previously loaded scripts.
+// ---
+
 #include "extensions/renderer/user_script_set.h"
 
 #include "base/containers/span.h"

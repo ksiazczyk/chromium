@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8ContextNativeHandler implementation
+// summary: Implements native handlers that report extension API availability for a script context and expose the module system for a given JavaScript object.
+// ---
+
 #include "extensions/renderer/v8_context_native_handler.h"
 
 #include "base/functional/bind.h"

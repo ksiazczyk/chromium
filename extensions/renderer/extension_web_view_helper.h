@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionWebViewHelper class declaration
+// summary: Declares WebView-level plumbing for extension features, storing a WebView's outermost origin and providing lookup of the helper by WebView instance.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_EXTENSION_WEB_VIEW_HELPER_H_
 #define EXTENSIONS_RENDERER_EXTENSION_WEB_VIEW_HELPER_H_
 

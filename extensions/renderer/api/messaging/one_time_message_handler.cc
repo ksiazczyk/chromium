@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OneTimeMessageHandler implementation
+// summary: Implements one-time message handling for runtime.sendMessage, managing opener and receiver ports, pending reply callbacks, and promise-based responses per context.
+// ---
+
 #include "extensions/renderer/api/messaging/one_time_message_handler.h"
 
 #include <algorithm>

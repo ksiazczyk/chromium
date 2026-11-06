@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeExtensionBindingsSystem implementation
+// summary: Implements creation and updating of extension API bindings in renderer contexts, including availability checks, request dispatch, and event delivery to listeners.
+// ---
+
 #include "extensions/renderer/native_extension_bindings_system.h"
 
 #include <algorithm>

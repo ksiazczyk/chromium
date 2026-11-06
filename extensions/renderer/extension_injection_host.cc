@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionInjectionHost implementation
+// summary: Implements ExtensionInjectionHost, which wraps an extension as an InjectionHost and decides whether scripts may run on a frame, covering CSP, PDF frames, and page access rules.
+// ---
+
 #include "extensions/renderer/extension_injection_host.h"
 
 #include "content/public/renderer/render_frame.h"

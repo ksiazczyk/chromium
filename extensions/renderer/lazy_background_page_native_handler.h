@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LazyBackgroundPageNativeHandler declaration
+// summary: Declares a native handler exposing keepalive count increment and decrement routes for lazy background pages.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_LAZY_BACKGROUND_PAGE_NATIVE_HANDLER_H_
 #define EXTENSIONS_RENDERER_LAZY_BACKGROUND_PAGE_NATIVE_HANDLER_H_
 

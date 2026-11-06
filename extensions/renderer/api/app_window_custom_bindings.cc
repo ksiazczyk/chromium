@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App window custom bindings implementation
+// summary: Implements renderer-side custom bindings for the app.window API, exposing GetFrame and ResumeParser handlers to extension scripts.
+// ---
+
 #include "extensions/renderer/api/app_window_custom_bindings.h"
 
 #include "base/command_line.h"

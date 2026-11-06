@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarative content API hooks delegate implementation
+// summary: Implements custom hooks for the declarativeContent API, including CSS selector canonicalization and constructor handling for page state matchers.
+// ---
+
 #include "extensions/renderer/api/declarative_content_hooks_delegate.h"
 
 #include <string_view>

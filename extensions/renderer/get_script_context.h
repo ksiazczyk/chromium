@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Script context lookup helper declarations
+// summary: Declares functions to retrieve the ScriptContext associated with a V8 context, including a checked variant that asserts a non-null result.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_GET_SCRIPT_CONTEXT_H_
 #define EXTENSIONS_RENDERER_GET_SCRIPT_CONTEXT_H_
 

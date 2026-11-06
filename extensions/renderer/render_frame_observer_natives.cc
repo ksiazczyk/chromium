@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderFrameObserverNatives implementation
+// summary: Implements native handlers that let JavaScript register callbacks for render frame events such as document element creation, using a self-deleting LoadWatcher observer.
+// ---
+
 #include "extensions/renderer/render_frame_observer_natives.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedWebFrame class header
+// summary: Declares ScopedWebFrame, a RAII helper that creates a dummy WebView and WebLocalFrame for testing and destroys them when the scope exits.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_SCOPED_WEB_FRAME_H_
 #define EXTENSIONS_RENDERER_SCOPED_WEB_FRAME_H_
 

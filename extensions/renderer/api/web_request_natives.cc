@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the WebRequestNatives native handler
+// summary: Implements native handler routes that track webRequest listeners, match request filters and report event handling in the renderer.
+// ---
+
 #include "extensions/renderer/api/web_request_natives.h"
 
 #include <algorithm>

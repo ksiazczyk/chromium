@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User script set implementation
+// summary: Implements UserScriptSet, which builds ScriptInjection objects for its user scripts at a given run location, wrapping Greasemonkey scripts and capping total content scripts.
+// ---
+
 #include "extensions/renderer/user_script_set.h"
 
 #include <stddef.h>

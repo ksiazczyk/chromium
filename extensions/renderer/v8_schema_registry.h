@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8SchemaRegistry class declaration
+// summary: Declares V8SchemaRegistry, the v8 counterpart to ExtensionAPI, which caches v8 representations of extension API schemas behind a native handler.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_V8_SCHEMA_REGISTRY_H_
 #define EXTENSIONS_RENDERER_V8_SCHEMA_REGISTRY_H_
 

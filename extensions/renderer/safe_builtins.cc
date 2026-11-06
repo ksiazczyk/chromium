@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafeBuiltins implementation
+// summary: Implements SafeBuiltins, which creates untainted copies of JavaScript builtins such as Array, Object, String, RegExp and JSON so extension code is unaffected by clobbered prototype methods.
+// ---
+
 #include "extensions/renderer/safe_builtins.h"
 
 #include <string>

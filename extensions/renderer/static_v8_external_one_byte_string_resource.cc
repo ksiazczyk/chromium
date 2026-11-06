@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Static V8 external one-byte string resource implementation
+// summary: Implements a V8 external one-byte string resource that wraps a static buffer, exposing its data pointer and length to the V8 runtime.
+// ---
+
 #include "extensions/renderer/static_v8_external_one_byte_string_resource.h"
 
 #include <string_view>

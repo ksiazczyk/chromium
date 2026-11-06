@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: API activity logger header
+// summary: Declares APIActivityLogger, which reports extension API calls and events when activity logging is enabled.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_API_ACTIVITY_LOGGER_H_
 #define EXTENSIONS_RENDERER_API_ACTIVITY_LOGGER_H_
 

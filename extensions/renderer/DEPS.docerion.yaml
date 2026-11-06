@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for extensions renderer
+summary: Restricts which headers and modules code in the extensions renderer directory may include.

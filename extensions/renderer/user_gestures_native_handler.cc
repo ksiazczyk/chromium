@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User gestures native handler implementation
+// summary: Implements native handler routes IsProcessingUserGesture and RunWithUserGesture that report or simulate user activation for extension tests.
+// ---
+
 #include "extensions/renderer/user_gestures_native_handler.h"
 
 #include "base/functional/bind.h"

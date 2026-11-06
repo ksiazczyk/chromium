@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionJSRunner implementation
+// summary: Implements ExtensionJSRunner, which runs JavaScript functions in a script context, handling asynchronous results and synchronous execution even when script is suspended.
+// ---
+
 #include "extensions/renderer/extension_js_runner.h"
 
 #include "base/containers/span.h"

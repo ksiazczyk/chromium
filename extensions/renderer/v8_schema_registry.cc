@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8SchemaRegistry implementation
+// summary: Implements the V8SchemaRegistry that caches frozen v8 objects for extension API schemas and exposes GetSchema routes through a native handler.
+// ---
+
 #include "extensions/renderer/v8_schema_registry.h"
 
 #include <stddef.h>

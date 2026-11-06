@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RuntimeCustomBindings implementation
+// summary: Implements native custom bindings for the chrome.runtime API, routing the GetExtensionViews call that returns V8 main frames for an extension filtered by window ID, tab ID and view type.
+// ---
+
 #include "extensions/renderer/runtime_custom_bindings.h"
 
 #include <stdint.h>

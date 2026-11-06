@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BindingGeneratingNativeHandler implementation
+// summary: Implements a native handler that generates API bindings from JSON/IDL schemas by invoking the binding.js Binding.create and generate calls.
+// ---
+
 #include "extensions/renderer/binding_generating_native_handler.h"
 
 #include "extensions/renderer/script_context.h"

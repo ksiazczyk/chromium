@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExtensionLocalizationThrottle unit tests
+// summary: Unit tests for ExtensionLocalizationThrottle, exercising interception of extension CSS responses and localization replacement with fake loaders, delegates, and data pipes.
+// ---
+
 #include "extensions/renderer/extension_localization_throttle.h"
 
 #include <string_view>

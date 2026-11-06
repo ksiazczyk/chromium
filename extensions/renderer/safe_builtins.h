@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafeBuiltins class header
+// summary: Declares SafeBuiltins, a collection of builtin JavaScript objects protected from tampering, with accessors for safe Array, Function, JSON, Object, RegExp, String, Error, Promise and Symbol versions.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_SAFE_BUILTINS_H_
 #define EXTENSIONS_RENDERER_SAFE_BUILTINS_H_
 

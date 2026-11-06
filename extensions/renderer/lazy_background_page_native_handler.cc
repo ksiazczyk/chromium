@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lazy background page keepalive native handler implementation
+// summary: Implements a native handler that increments and decrements lazy keepalive counts for event pages, routed for the tts API.
+// ---
+
 #include "extensions/renderer/lazy_background_page_native_handler.h"
 
 #include "base/functional/bind.h"

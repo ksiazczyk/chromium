@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionsRendererClient implementation
+// summary: Implements the renderer-side extensions client, creating the Dispatcher and resource request policy and mirroring ContentRendererClient hooks for embedders.
+// ---
+
 #include "extensions/renderer/extensions_renderer_client.h"
 
 #include <memory>

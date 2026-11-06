@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test extensions renderer client implementation
+// summary: Implements TestExtensionsRendererClient, which installs itself as the renderer client for tests and reports a non-incognito process with lowest isolated world id 1.
+// ---
+
 #include "extensions/renderer/test_extensions_renderer_client.h"
 
 namespace extensions {

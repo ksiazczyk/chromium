@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScriptsRunInfo implementation
+// summary: Tracks injected CSS and JS scripts per frame, notifies the browser of executing content scripts and records UMA histograms for injection counts and timing.
+// ---
+
 #include "extensions/renderer/scripts_run_info.h"
 
 #include "base/metrics/histogram_macros.h"

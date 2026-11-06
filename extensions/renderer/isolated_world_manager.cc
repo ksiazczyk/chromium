@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IsolatedWorldManager implementation
+// summary: Implements creation and tracking of extension isolated worlds, mapping blink world IDs to host IDs and applying user script world properties like CSP and messaging.
+// ---
+
 #include "extensions/renderer/isolated_world_manager.h"
 
 #include <algorithm>

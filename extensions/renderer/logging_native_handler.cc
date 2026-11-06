@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Logging native handler implementation
+// summary: Implements routes that expose CHECK, DCHECK, DCHECK_IS_ON, LOG and WARNING behavior from Chromium logging to JavaScript bindings.
+// ---
+
 #include "extensions/renderer/logging_native_handler.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionsRenderFrameObserver class declaration
+// summary: Declares the extension-specific parts of a RenderFrame, including AppWindow receiver binding and detailed console message handling.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_EXTENSIONS_RENDER_FRAME_OBSERVER_H_
 #define EXTENSIONS_RENDERER_EXTENSIONS_RENDER_FRAME_OBSERVER_H_
 

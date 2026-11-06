@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM activity logger implementation
+// summary: Logs DOM API getter, setter and method calls made by extensions and forwards them to the browser activity log.
+// ---
+
 #include "extensions/renderer/dom_activity_logger.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPCMessageSender interface for bindings IPC
+// summary: Declares the IPCMessageSender interface for sending bindings-related messages such as API requests, event listener changes and message channel opens to the browser.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_IPC_MESSAGE_SENDER_H_
 #define EXTENSIONS_RENDERER_IPC_MESSAGE_SENDER_H_
 

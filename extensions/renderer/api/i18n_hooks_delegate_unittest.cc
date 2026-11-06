@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: i18n hooks delegate unit tests
+// summary: Unit tests covering i18n.getMessage behavior including placeholders, special character escaping, substitution limits, and non-string argument handling.
+// ---
+
 #include "extensions/renderer/api/i18n_hooks_delegate.h"
 
 #include "base/strings/stringprintf.h"

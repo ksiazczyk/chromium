@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker data header
+// summary: Declares ServiceWorkerData, which holds per-worker state such as the bindings system, schema registry, event dispatching and Mojo interface accessors.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_SERVICE_WORKER_DATA_H_
 #define EXTENSIONS_RENDERER_SERVICE_WORKER_DATA_H_
 

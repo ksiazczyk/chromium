@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UtilsNativeHandler class header
+// summary: Declares UtilsNativeHandler, an ObjectBackedNativeHandler that provides DeepCopy and IsInServiceWorker functions to JavaScript.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_UTILS_NATIVE_HANDLER_H_
 #define EXTENSIONS_RENDERER_UTILS_NATIVE_HANDLER_H_
 

@@ -12,6 +12,12 @@
 //    anti-DDoS throttling for various different actual downtimes is what
 //    we expect it to be.
 
+// ---docerion
+// type: test
+// title: Extension throttle simulation tests
+// summary: Runs discrete-time simulations verifying that anti-DDoS throttling helps overloaded servers, benefits well-behaved clients, and yields the expected perceived downtime.
+// ---
+
 #include <stdarg.h>
 #include <stddef.h>
 

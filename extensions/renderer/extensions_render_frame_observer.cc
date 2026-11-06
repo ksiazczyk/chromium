@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionsRenderFrameObserver implementation
+// summary: Implements per-frame extension behavior, extracting stack traces from console messages, binding the AppWindow mojo interface, and toggling visual deemphasis.
+// ---
+
 #include "extensions/renderer/extensions_render_frame_observer.h"
 
 #include <stddef.h>

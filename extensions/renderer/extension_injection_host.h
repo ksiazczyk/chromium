@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionInjectionHost class header
+// summary: Declares the ExtensionInjectionHost wrapper that implements the InjectionHost interface for an extension, exposing its CSP, URL, name, and frame execution checks.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_EXTENSION_INJECTION_HOST_H_
 #define EXTENSIONS_RENDERER_EXTENSION_INJECTION_HOST_H_
 

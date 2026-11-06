@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlobNativeHandler implementation
+// summary: Implements the GetBlobUuid native function that returns a Blob's UUID so extension APIs can pass Blob parameters to the browser process.
+// ---
+
 #include "extensions/renderer/blob_native_handler.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InjectionHost interface for user script hosts
+// summary: Declares the InjectionHost interface abstracting owners of injected user scripts, exposing CSP, URL, name and per-frame execution permission checks.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_INJECTION_HOST_H_
 #define EXTENSIONS_RENDERER_INJECTION_HOST_H_
 

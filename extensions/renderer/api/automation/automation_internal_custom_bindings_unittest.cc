@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Automation internal custom bindings unit tests
+// summary: Sets up a desktop automation extension and tests that AX action strings map to automation action types in the custom bindings.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "extensions/common/mojom/context_type.mojom.h"
 #include "extensions/renderer/api/automation/automation_internal_custom_bindings.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Throttle test support header
+// summary: Declares TestTickClock, a fake base::TickClock that lets throttle tests control the current time.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_EXTENSION_THROTTLE_TEST_SUPPORT_H_
 #define EXTENSIONS_RENDERER_EXTENSION_THROTTLE_TEST_SUPPORT_H_
 

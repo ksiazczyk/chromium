@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileSystemNatives renderer bindings for isolated file systems
+// summary: Implements the FileSystemNatives native handler that exposes GetFileEntry, GetIsolatedFileSystem and CrackIsolatedFileSystemName to extension JavaScript, creating isolated file system entries for extensions and the file manager page.
+// ---
+
 #include "extensions/renderer/api/file_system_natives.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension throttle manager access implementation
+// summary: Implements the refcounted, lock-protected access helper that clears its manager pointer when the ExtensionThrottleManager is destroyed.
+// ---
+
 #include "extensions/renderer/extension_throttle_manager_access.h"
 
 #include "base/synchronization/lock.h"

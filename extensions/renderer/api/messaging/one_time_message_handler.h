@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OneTimeMessageHandler class declaration
+// summary: Declares the handler for one-time message flows such as runtime.sendMessage, documenting opener and receiver port lifecycles and response callback management.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_API_MESSAGING_ONE_TIME_MESSAGE_HANDLER_H_
 #define EXTENSIONS_RENDERER_API_MESSAGING_ONE_TIME_MESSAGE_HANDLER_H_
 

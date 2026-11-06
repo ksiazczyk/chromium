@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test native handler for standardized API behavior
+// summary: Native handler exposing a test route that reports whether the standardized API behavior command-line switch is enabled.
+// ---
+
 #include "extensions/renderer/test_api_standardized_behavior_native_handler.h"
 
 #include "base/command_line.h"

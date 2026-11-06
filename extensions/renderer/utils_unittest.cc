@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Utils module unit tests
+// summary: Runs JavaScript unit tests for the generated utils module through the renderer module system test harness.
+// ---
+
 #include "extensions/grit/extensions_renderer_generated_resources.h"
 #include "extensions/renderer/module_system_test.h"
 

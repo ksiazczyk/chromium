@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resource bundle source map class declaration
+// summary: Declares ResourceBundleSourceMap, a SourceMap that looks up module sources in registered resource tables and serves them as V8 strings.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_RESOURCE_BUNDLE_SOURCE_MAP_H_
 #define EXTENSIONS_RENDERER_RESOURCE_BUNDLE_SOURCE_MAP_H_
 

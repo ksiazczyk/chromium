@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedbackPrivate API hooks delegate implementation
+// summary: Implements native binding hooks for the feedbackPrivate API, reshaping sendFeedback results so callback-based calls receive separate arguments while promise-based calls return a single object.
+// ---
+
 #include "extensions/renderer/api/feedback_private_hooks_delegate.h"
 
 #include "base/check.h"

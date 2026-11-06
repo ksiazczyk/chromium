@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App window custom bindings header
+// summary: Declares the AppWindowCustomBindings native handler class that implements custom bindings for the app.window API.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_API_APP_WINDOW_CUSTOM_BINDINGS_H_
 #define EXTENSIONS_RENDERER_API_APP_WINDOW_CUSTOM_BINDINGS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension frame helper implementation
+// summary: Implements the per-render-frame helper tracking view type, tab id, messaging and script context setup for extensions.
+// ---
+
 #include "extensions/renderer/extension_frame_helper.h"
 
 #include <algorithm>

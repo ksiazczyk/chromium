@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Automation API directory metadata
+summary: Defines the Chromium component, team email, and Buganizer component IDs used for issues in the automation API directory.

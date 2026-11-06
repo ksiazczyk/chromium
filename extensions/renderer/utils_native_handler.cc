@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UtilsNativeHandler implementation
+// summary: Implements the Utils native handler, exposing deep copy of JavaScript values and a check for service worker contexts to extension bindings.
+// ---
+
 #include "extensions/renderer/utils_native_handler.h"
 
 #include "base/functional/bind.h"

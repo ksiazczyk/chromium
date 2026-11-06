@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User script injector implementation
+// summary: Implements UserScriptInjector, which injects user scripts and the Greasemonkey API into frames, including webview routing decisions and script streaming support.
+// ---
+
 #include "extensions/renderer/user_script_injector.h"
 
 #include <tuple>

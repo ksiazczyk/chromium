@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GinPort unit tests
+// summary: Unit tests for GinPort covering port name access, message posting, disconnect behavior and context invalidation using a stub test delegate.
+// ---
+
 #include "extensions/renderer/api/messaging/gin_port.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8ContextNativeHandler class header
+// summary: Declares V8ContextNativeHandler, which routes GetAvailability and GetModuleSystem calls for a script context.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_V8_CONTEXT_NATIVE_HANDLER_H_
 #define EXTENSIONS_RENDERER_V8_CONTEXT_NATIVE_HANDLER_H_
 

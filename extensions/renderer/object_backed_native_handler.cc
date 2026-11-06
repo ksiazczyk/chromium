@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ObjectBackedNativeHandler implementation
+// summary: Implements ObjectBackedNativeHandler, routing JavaScript object functions to native C++ callbacks through Oilpan-allocated WrappedHandlerFunction wrappers with feature-based access checks.
+// ---
+
 #include "extensions/renderer/object_backed_native_handler.h"
 
 #include <stddef.h>
