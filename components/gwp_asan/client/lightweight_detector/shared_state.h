@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedState template for static singleton storage
+// summary: Header defining a SharedState template that stores a singleton in a static aligned buffer with explicit Init and Get, avoiding pointer dereferences and providing no thread safety.
+// ---
+
 #ifndef COMPONENTS_GWP_ASAN_CLIENT_LIGHTWEIGHT_DETECTOR_SHARED_STATE_H_
 #define COMPONENTS_GWP_ASAN_CLIENT_LIGHTWEIGHT_DETECTOR_SHARED_STATE_H_
 

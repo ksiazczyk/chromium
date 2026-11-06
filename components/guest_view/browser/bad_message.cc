@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bad IPC message handling implementation
+// summary: Implements logging of bad IPC message reasons and termination of the offending renderer process for guest views.
+// ---
+
 #include "components/guest_view/browser/bad_message.h"
 
 #include "base/logging.h"

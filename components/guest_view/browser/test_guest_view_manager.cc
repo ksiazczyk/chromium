@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestGuestViewManager test support implementation
+// summary: Implements a test double of GuestViewManager with helpers to wait for guest creation, attachment, and deletion in tests.
+// ---
+
 #include "components/guest_view/browser/test_guest_view_manager.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'GwpAsanFeatureMap: Java access to GWP-ASan native features'
+// summary: Java singleton that exposes GWP-ASan native feature flags from feature_map.cc to Android code via JNI.
+// ---
+
 package org.chromium.components.gwp_asan;
 
 import org.jni_zero.JNINamespace;

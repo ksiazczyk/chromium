@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Guest view buildflag header target
+summary: Defines a buildflag header exposing the ENABLE_GUEST_VIEW preprocessor flag so any build target can depend on it without pulling in all of guest_view.

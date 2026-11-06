@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the poison metadata recorder
+// summary: Unit tests covering poisoning of allocations, unaligned allocation sizes, and metadata slot reuse in the poison metadata recorder.
+// ---
+
 
 #include "components/gwp_asan/client/lightweight_detector/poison_metadata_recorder.h"
 

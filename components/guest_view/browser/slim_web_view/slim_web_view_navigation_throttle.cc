@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SlimWebView navigation throttle implementation
+// summary: Implements a navigation throttle that cancels top-level SlimWebView navigations not matching the guest's allowed origins, including empty-document URLs such as about:blank and about:srcdoc.
+// ---
+
 #include "components/guest_view/browser/slim_web_view/slim_web_view_navigation_throttle.h"
 
 #include <memory>

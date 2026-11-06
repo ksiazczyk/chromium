@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GWP-ASan feature flags and parameters
+// summary: Defines the GWP-ASan base::Feature flags and per-platform feature parameters controlling reservation sizes and sampling for browser, renderer and GPU processes.
+// ---
+
 #include "components/gwp_asan/client/gwp_asan_features.h"
 
 #include "build/build_config.h"

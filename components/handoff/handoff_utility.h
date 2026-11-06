@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Handoff activity type constant declaration
+// summary: Declares the Chrome Handoff activity type constant used to pass a Handoff to Chrome itself.
+// ---
+
 #ifndef COMPONENTS_HANDOFF_HANDOFF_UTILITY_H_
 #define COMPONENTS_HANDOFF_HANDOFF_UTILITY_H_
 

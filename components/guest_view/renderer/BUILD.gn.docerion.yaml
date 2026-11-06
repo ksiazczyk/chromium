@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the guest view renderer
+summary: Defines the guest view renderer static library, listing its container and request sources and its build dependencies.

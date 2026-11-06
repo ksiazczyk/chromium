@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extreme Lightweight Detector malloc shims
+// summary: Installs allocator shims that lazily initialize an ELUD quarantine on the default PartitionAlloc malloc root and route sampled frees into it.
+// ---
+
 #include "components/gwp_asan/client/extreme_lightweight_detector_malloc_shims.h"
 
 #include "partition_alloc/slot_start.h"

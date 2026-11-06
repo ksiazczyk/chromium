@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extreme Lightweight Detector malloc shims API
+// summary: Declares ExtremeLightweightDetectorOptions, the hook installation function and test accessors for the small and large object quarantine branches.
+// ---
+
 #ifndef COMPONENTS_GWP_ASAN_CLIENT_EXTREME_LIGHTWEIGHT_DETECTOR_MALLOC_SHIMS_H_
 #define COMPONENTS_GWP_ASAN_CLIENT_EXTREME_LIGHTWEIGHT_DETECTOR_MALLOC_SHIMS_H_
 

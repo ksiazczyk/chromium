@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Extreme Lightweight Detector quarantine implementation
+// summary: Implements the quarantine root and branch, including branch creation, quarantining of freed slots, capacity handling and purging.
+// ---
+
 #include "components/gwp_asan/client/extreme_lightweight_detector_quarantine.h"
 
 #include "partition_alloc/internal/partition_page_internal.h"  // nogncheck

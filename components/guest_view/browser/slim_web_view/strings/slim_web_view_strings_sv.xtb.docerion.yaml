@@ -1,0 +1,4 @@
+# Docerion header of slim_web_view_strings_sv.xtb.
+type: data
+title: Slim WebView strings, Swedish (slim_web_view_strings_sv.xtb)
+summary: Swedish XTB translation bundle holding the localized slim web view string with a placeholder for the web view tag name, used by the guest view browser UI.

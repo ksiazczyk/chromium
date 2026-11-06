@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Handoff directory dependency rules
+summary: Declares include rules allowing the handoff directory to depend on components/pref_registry and net.

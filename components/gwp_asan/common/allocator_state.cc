@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AllocatorState implementation
+// summary: Implements metadata lookup for crash addresses, state validation, and address-to-slot and page mapping for the guarded page allocator.
+// ---
+
 #include "components/gwp_asan/common/allocator_state.h"
 
 #include <algorithm>

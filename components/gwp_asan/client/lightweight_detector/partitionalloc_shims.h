@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartitionAlloc shims declarations
+// summary: Declares InstallPartitionAllocHooks, which registers the lightweight detector's PartitionAlloc quarantine hook.
+// ---
+
 #ifndef COMPONENTS_GWP_ASAN_CLIENT_LIGHTWEIGHT_DETECTOR_PARTITIONALLOC_SHIMS_H_
 #define COMPONENTS_GWP_ASAN_CLIENT_LIGHTWEIGHT_DETECTOR_PARTITIONALLOC_SHIMS_H_
 

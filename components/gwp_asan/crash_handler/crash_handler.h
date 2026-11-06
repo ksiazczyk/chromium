@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crashpad user stream data source interface
+// summary: Declares the UserStreamDataSource Crashpad extension and the minidump stream type constant for serialized GWP-ASan crash state.
+// ---
+
 #ifndef COMPONENTS_GWP_ASAN_CRASH_HANDLER_CRASH_HANDLER_H_
 #define COMPONENTS_GWP_ASAN_CRASH_HANDLER_CRASH_HANDLER_H_
 

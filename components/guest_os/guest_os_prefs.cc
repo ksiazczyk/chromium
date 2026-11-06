@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest OS engagement preference registration
+// summary: Defines and registers profile preferences that persist Guest OS engagement time totals, OS version, and day ID across sessions.
+// ---
+
 #include "components/guest_os/guest_os_prefs.h"
 
 #include "base/time/time.h"

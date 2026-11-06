@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stack trace packing API
+// summary: Declares Pack and Unpack routines that compress stack traces as variable-length offsets, saving over 50% of space on 64-bit platforms.
+// ---
+
 #ifndef COMPONENTS_GWP_ASAN_COMMON_PACK_STACK_TRACE_H_
 #define COMPONENTS_GWP_ASAN_COMMON_PACK_STACK_TRACE_H_
 

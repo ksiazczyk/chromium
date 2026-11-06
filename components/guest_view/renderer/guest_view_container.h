@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GuestViewContainer class declaration
+// summary: Declares the renderer-side container that queues guest view attach requests, observes render frame lifetime and manages destruction callbacks.
+// ---
+
 #ifndef COMPONENTS_GUEST_VIEW_RENDERER_GUEST_VIEW_CONTAINER_H_
 #define COMPONENTS_GUEST_VIEW_RENDERER_GUEST_VIEW_CONTAINER_H_
 

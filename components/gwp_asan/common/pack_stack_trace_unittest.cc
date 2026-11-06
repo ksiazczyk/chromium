@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pack and Unpack unit tests
+// summary: Unit tests covering packing of simple and decreasing sequences, multibyte varints, and failure cases for undersized buffers.
+// ---
+
 #include "components/gwp_asan/common/pack_stack_trace.h"
 
 #include "base/test/gtest_util.h"

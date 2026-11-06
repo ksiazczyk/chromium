@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LightweightDetectorState implementation
+// summary: Implements state validation and ring buffer metadata lookup for the Lightweight UAF Detector state shared with the crash handler.
+// ---
+
 #include "components/gwp_asan/common/lightweight_detector_state.h"
 
 #include "base/compiler_specific.h"

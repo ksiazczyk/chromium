@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the GWP-ASan client
+summary: Defines the GN targets that build the GWP-ASan client component, its features source set, export header and unit tests, with platform- and PartitionAlloc-conditional sources.

@@ -1,3 +1,13 @@
+---
+type: readme
+title: Guest View
+summary: Explains the Guest View mechanism for embedding pages with a distinct FrameTree and its role behind webview, Controlled Frame, and MimeHandlerView.
+relations:
+  - references /chrome/common/controlled_frame/README.md
+  - references /docs/chromeos_build_instructions.md
+  - references /docs/frame_trees.md
+---
+
 # Guest View
 
 Guest View is a mechanism for embedding a page inside another page. Unlike iframes, the embedded content has a distinct FrameTree. See the [FrameTree explainer](/docs/frame_trees.md) for details.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GWP-Asan Android build targets
+summary: GN build file defining JNI generation and the Android Java library for the GWP-Asan feature map, including Java feature bindings and dependencies.

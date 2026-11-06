@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Random eviction quarantine header
+// summary: Declares RandomEvictionQuarantineBase and RandomEvictionQuarantine, a quarantine for freed allocations that evicts random entries and periodically trims by size watermarks for the lightweight detector.
+// ---
+
 #ifndef COMPONENTS_GWP_ASAN_CLIENT_LIGHTWEIGHT_DETECTOR_RANDOM_EVICTION_QUARANTINE_H_
 #define COMPONENTS_GWP_ASAN_CLIENT_LIGHTWEIGHT_DETECTOR_RANDOM_EVICTION_QUARANTINE_H_
 

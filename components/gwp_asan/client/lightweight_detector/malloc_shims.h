@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Malloc shims declarations for the lightweight detector
+// summary: Declares the FreeFunctionKind enum, AllocationInfo struct, and the InstallMallocHooks and FinishFree functions used by the lightweight detector malloc hooks.
+// ---
+
 #ifndef COMPONENTS_GWP_ASAN_CLIENT_LIGHTWEIGHT_DETECTOR_MALLOC_SHIMS_H_
 #define COMPONENTS_GWP_ASAN_CLIENT_LIGHTWEIGHT_DETECTOR_MALLOC_SHIMS_H_
 

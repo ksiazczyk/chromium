@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the GWP-ASan crash handler
+summary: Defines the static_library, proto_library, and unit test targets and their dependencies for the GWP-ASan crash handler component.

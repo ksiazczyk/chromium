@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stack trace packing implementation
+// summary: Implements Pack and Unpack, compressing stack traces as zigzag-encoded variable-length deltas between frame addresses.
+// ---
+
 #include "components/gwp_asan/common/pack_stack_trace.h"
 
 #include "base/compiler_specific.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extreme Lightweight UAF Detector utilities
+// summary: Header with shared utilities that zap freed memory with a marker pattern and detect crashes caused by the Extreme Lightweight UAF Detector.
+// ---
+
 #ifndef COMPONENTS_GWP_ASAN_COMMON_EXTREME_LIGHTWEIGHT_DETECTOR_UTIL_H_
 #define COMPONENTS_GWP_ASAN_COMMON_EXTREME_LIGHTWEIGHT_DETECTOR_UTIL_H_
 

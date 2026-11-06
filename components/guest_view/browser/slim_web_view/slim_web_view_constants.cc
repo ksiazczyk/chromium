@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SlimWebview event constants
+// summary: Defines string constants for SlimWebview event names such as loadcommit and permission, and for the parameter keys carried on those events.
+// ---
+
 #include "components/guest_view/browser/slim_web_view/slim_web_view_constants.h"
 
 namespace guest_view::slim_web_view {

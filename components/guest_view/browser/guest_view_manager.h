@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GuestViewManager class declaration
+// summary: Declares the manager that registers guest view types, assigns instance IDs, attaches guests, and looks up guests safely per BrowserContext.
+// ---
+
 #ifndef COMPONENTS_GUEST_VIEW_BROWSER_GUEST_VIEW_MANAGER_H_
 #define COMPONENTS_GUEST_VIEW_BROWSER_GUEST_VIEW_MANAGER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Guest OS directory dependency rules
+summary: Lists the include dependencies allowed for the guest_os directory, covering DBus, exo, prefs, session manager, content, and UI layers.

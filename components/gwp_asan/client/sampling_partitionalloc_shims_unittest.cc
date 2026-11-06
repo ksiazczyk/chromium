@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PartitionAlloc sampling shims unit tests
+// summary: Multiprocess unit tests that verify installation and behavior of PartitionAlloc sampling hooks, including sampling frequency and size restrictions.
+// ---
+
 #include "components/gwp_asan/client/sampling_partitionalloc_shims.h"
 
 #include <stdlib.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Request resource type utilities header
+// summary: Declares the RequestResourceType enum plus parameter structs for adding headers and checking allowed origins on SlimWebview requests.
+// ---
+
 #ifndef COMPONENTS_GUEST_VIEW_BROWSER_SLIM_WEB_VIEW_REQUEST_UTILS_H_
 #define COMPONENTS_GUEST_VIEW_BROWSER_SLIM_WEB_VIEW_REQUEST_UTILS_H_
 

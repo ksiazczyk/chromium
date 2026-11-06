@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thread-local XorShift random bit generator
+// summary: Defines an efficient XorShift pseudo-random number generator kept in thread-local storage, used by GWP-ASan sampling code.
+// ---
+
 #ifndef COMPONENTS_GWP_ASAN_CLIENT_THREAD_LOCAL_RANDOM_BIT_GENERATOR_H_
 #define COMPONENTS_GWP_ASAN_CLIENT_THREAD_LOCAL_RANDOM_BIT_GENERATOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of buildflags.gni.
+type: config
+title: GWP-ASan build flags GN configuration
+summary: Declares the enable_gwp_asan GN arguments and the supported-platform logic that controls whether GWP-ASan hooking is enabled.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Guest OS engagement metrics unit tests
+// summary: Unit tests for GuestOsEngagementMetrics using fake clocks, test windows, and fake DBus clients to verify engagement time accounting.
+// ---
+
 #include "components/guest_os/guest_os_engagement_metrics.h"
 
 #include <algorithm>

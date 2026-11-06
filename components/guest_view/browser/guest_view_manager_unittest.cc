@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GuestViewManager unit tests
+// summary: Unit tests for GuestViewManager using a stub guest view, parameterized over the MPArch and InnerWebContents guest implementations.
+// ---
+
 #include "components/guest_view/browser/guest_view_manager.h"
 
 #include <memory>

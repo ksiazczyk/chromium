@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SlimWebView permission helper declaration
+// summary: Declares SlimWebViewPermissionHelper, which manages geolocation, media and download permission requests for SlimWebView guests and applies embedder permission responses.
+// ---
+
 #ifndef COMPONENTS_GUEST_VIEW_BROWSER_SLIM_WEB_VIEW_SLIM_WEB_VIEW_PERMISSION_HELPER_H_
 #define COMPONENTS_GUEST_VIEW_BROWSER_SLIM_WEB_VIEW_SLIM_WEB_VIEW_PERMISSION_HELPER_H_
 

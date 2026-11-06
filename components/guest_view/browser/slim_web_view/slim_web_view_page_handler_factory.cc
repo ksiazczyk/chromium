@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SlimWebView page handler factory implementation
+// summary: Implements the PageHandlerFactory that binds Mojo interface receivers and creates a SlimWebViewPageHandler for the current document.
+// ---
+
 #include "components/guest_view/browser/slim_web_view/slim_web_view_page_handler_factory.h"
 
 #include "components/guest_view/browser/slim_web_view/slim_web_view_page_handler.h"

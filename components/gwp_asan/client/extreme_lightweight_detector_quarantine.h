@@ -29,6 +29,12 @@
 // │Branch 1  ││Branch 2  ││Branch 3  │
 // └──────────┘└──────────┘└──────────┘
 
+// ---docerion
+// type: source
+// title: Extreme Lightweight Detector quarantine classes
+// summary: Declares the quarantine root and branch classes that provide a low-cost, thread-safe PartitionAlloc-based quarantine used for use-after-free detection.
+// ---
+
 #ifndef COMPONENTS_GWP_ASAN_CLIENT_EXTREME_LIGHTWEIGHT_DETECTOR_QUARANTINE_H_
 #define COMPONENTS_GWP_ASAN_CLIENT_EXTREME_LIGHTWEIGHT_DETECTOR_QUARANTINE_H_
 

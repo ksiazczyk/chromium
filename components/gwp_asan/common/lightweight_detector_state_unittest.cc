@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LightweightDetectorState unit tests
+// summary: Unit tests verifying LightweightDetectorState validity checks and the round-trip encoding of metadata IDs.
+// ---
+
 #include "components/gwp_asan/common/lightweight_detector_state.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

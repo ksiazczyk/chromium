@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SlimWebView navigation throttle declaration
+// summary: Declares MaybeCreateAndAddSlimWebViewNavigationThrottle, which enforces an optional allowedOrigins allowlist for top-level SlimWebView navigations.
+// ---
+
 #ifndef COMPONENTS_GUEST_VIEW_BROWSER_SLIM_WEB_VIEW_SLIM_WEB_VIEW_NAVIGATION_THROTTLE_H_
 #define COMPONENTS_GUEST_VIEW_BROWSER_SLIM_WEB_VIEW_SLIM_WEB_VIEW_NAVIGATION_THROTTLE_H_
 

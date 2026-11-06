@@ -1,0 +1,4 @@
+# Docerion header of handoff_utility.mm.
+type: source
+title: Handoff activity type constant definition
+summary: Defines the kChromeHandoffActivityType constant string identifying Chrome's Handoff activity.

@@ -22,6 +22,12 @@
 //     additional methods and fields need to be audited to ensure they maintain
 //     this invariant!
 
+// ---docerion
+// type: source
+// title: AllocatorState class header
+// summary: Declares the security-sensitive AllocatorState shared with the crash handler, including slot and metadata limits, error types, and packed trace sizes.
+// ---
+
 #ifndef COMPONENTS_GWP_ASAN_COMMON_ALLOCATOR_STATE_H_
 #define COMPONENTS_GWP_ASAN_COMMON_ALLOCATOR_STATE_H_
 

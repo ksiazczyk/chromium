@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GWP_ASAN_EXPORT macro definitions
+// summary: Defines the GWP_ASAN_EXPORT macro as dllexport, dllimport or default visibility depending on component and platform builds.
+// ---
+
 #ifndef COMPONENTS_GWP_ASAN_CLIENT_EXPORT_H_
 #define COMPONENTS_GWP_ASAN_CLIENT_EXPORT_H_
 

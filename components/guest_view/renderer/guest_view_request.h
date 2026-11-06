@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GuestViewAttachRequest class declaration
+// summary: Declares an asynchronous guest view attach request from JavaScript, carrying parameters, a callback and a Mojo remote to the guest view host.
+// ---
+
 #ifndef COMPONENTS_GUEST_VIEW_RENDERER_GUEST_VIEW_REQUEST_H_
 #define COMPONENTS_GUEST_VIEW_RENDERER_GUEST_VIEW_REQUEST_H_
 

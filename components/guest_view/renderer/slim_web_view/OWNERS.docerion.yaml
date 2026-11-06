@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the slim_web_view renderer directory
+summary: Points to the OWNERS file of the browser-side slim_web_view directory to reuse its code owner list.

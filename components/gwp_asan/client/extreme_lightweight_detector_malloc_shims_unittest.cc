@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multiprocess tests for Extreme Lightweight Detector shims
+// summary: Runs child-process tests verifying that small, aligned and large allocations are quarantined by the ELUD malloc shims and checks usable size metadata.
+// ---
+
 #include "components/gwp_asan/client/extreme_lightweight_detector_malloc_shims.h"
 
 #include "partition_alloc/shim/allocator_shim.h"

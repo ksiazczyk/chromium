@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sampling malloc shims interface
+// summary: Declares installation of sampling malloc hooks with guarded allocator settings and a check for whether a pointer is a GWP-ASan allocation.
+// ---
+
 #ifndef COMPONENTS_GWP_ASAN_CLIENT_SAMPLING_MALLOC_SHIMS_H_
 #define COMPONENTS_GWP_ASAN_CLIENT_SAMPLING_MALLOC_SHIMS_H_
 

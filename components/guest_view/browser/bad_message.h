@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bad message reason enum and API
+// summary: Declares the BadMessageReason enum for guest view IPC failures and the ReceivedBadMessage functions that log and terminate renderers.
+// ---
+
 #ifndef COMPONENTS_GUEST_VIEW_BROWSER_BAD_MESSAGE_H_
 #define COMPONENTS_GUEST_VIEW_BROWSER_BAD_MESSAGE_H_
 

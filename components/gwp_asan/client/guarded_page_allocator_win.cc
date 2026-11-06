@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guarded page allocator Windows implementation
+// summary: Windows implementation of region mapping and page protection for the guarded page allocator using VirtualAlloc and VirtualFree.
+// ---
+
 #include "components/gwp_asan/client/guarded_page_allocator.h"
 
 #include <windows.h>

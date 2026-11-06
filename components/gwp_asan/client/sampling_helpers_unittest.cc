@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sampling helpers unit tests
+// summary: Tests OOM histogram reporting, sample clamping to the histogram maximum, and activation recording for known and unknown process types.
+// ---
+
 #include "components/gwp_asan/client/sampling_helpers.h"
 
 #include "base/test/metrics/histogram_tester.h"

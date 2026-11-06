@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GuestViewBase implementation
+// summary: Implements the browser-side GuestViewBase API, managing guest and owner WebContents association, sizing, events, and lifetime.
+// ---
+
 #include "components/guest_view/browser/guest_view_base.h"
 
 #include <memory>

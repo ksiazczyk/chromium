@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for guest_view common
+summary: Assigns per-file review ownership of Mojom and Mojom traits files to the IPC security owners.

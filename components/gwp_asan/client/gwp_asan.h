@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GWP-ASan client API header
+// summary: Declares the public entry points to enable GWP-ASan for malloc and PartitionAlloc plus the lightweight detectors, along with the allocator settings struct.
+// ---
+
 #ifndef COMPONENTS_GWP_ASAN_CLIENT_GWP_ASAN_H_
 #define COMPONENTS_GWP_ASAN_CLIENT_GWP_ASAN_H_
 

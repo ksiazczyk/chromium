@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sampling PartitionAlloc shims implementation
+// summary: Installs PartitionAlloc allocation, free, and realloc hooks that route sampled allocations to the guarded page allocator and set the PartitionAlloc crash key.
+// ---
+
 #include "components/gwp_asan/client/sampling_partitionalloc_shims.h"
 
 #include <algorithm>

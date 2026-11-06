@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest OS engagement metrics implementation
+// summary: Implements GuestOsEngagementMetrics, which tracks daily foreground, background, and total engagement time for a Guest OS and reports it to UMA.
+// ---
+
 #include "components/guest_os/guest_os_engagement_metrics.h"
 
 #include <string>

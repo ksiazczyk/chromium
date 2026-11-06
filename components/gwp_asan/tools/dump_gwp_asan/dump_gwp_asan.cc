@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: dump_gwp_asan tool for printing GWP-ASan crash data from minidumps
+// summary: Command-line utility that reads a Crashpad minidump and prints GWP-ASan crash details such as error type, allocator, mode, and allocation info.
+// ---
+
 #include <iostream>
 #include <sstream>
 

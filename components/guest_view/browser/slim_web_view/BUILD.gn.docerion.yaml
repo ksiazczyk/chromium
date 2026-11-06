@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: SlimWebview GN build definition
+summary: Defines the SlimWebview static libraries, Mojo bindings, string resources and unit test target with their sources and dependencies.

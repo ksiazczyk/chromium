@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GWP-ASan common build targets
+summary: GN build file defining the crash keys source set, the common static library, unit tests, and two pack stack trace fuzzers for the GWP-ASan common component.

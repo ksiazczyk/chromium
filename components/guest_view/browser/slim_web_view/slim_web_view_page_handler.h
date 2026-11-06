@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SlimWebView page handler declaration
+// summary: Declares SlimWebViewPageHandler, a DocumentUserData implementing the mojom PageHandler interface for controlling SlimWebView guests from the embedder page.
+// ---
+
 #ifndef COMPONENTS_GUEST_VIEW_BROWSER_SLIM_WEB_VIEW_SLIM_WEB_VIEW_PAGE_HANDLER_H_
 #define COMPONENTS_GUEST_VIEW_BROWSER_SLIM_WEB_VIEW_SLIM_WEB_VIEW_PAGE_HANDLER_H_
 

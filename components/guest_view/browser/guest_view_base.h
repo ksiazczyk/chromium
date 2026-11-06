@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GuestViewBase class declaration
+// summary: Declares GuestViewBase, the browser-side base class associating a guest WebContents with its owner and relaying events to the embedder.
+// ---
+
 #ifndef COMPONENTS_GUEST_VIEW_BROWSER_GUEST_VIEW_BASE_H_
 #define COMPONENTS_GUEST_VIEW_BROWSER_GUEST_VIEW_BASE_H_
 

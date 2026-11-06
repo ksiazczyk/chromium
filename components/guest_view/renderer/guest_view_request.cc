@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GuestViewAttachRequest implementation
+// summary: Implements the JavaScript attach request that sends AttachToEmbedderFrame over Mojo and invokes the JavaScript callback when acknowledged or torn down.
+// ---
+
 #include "components/guest_view/renderer/guest_view_request.h"
 
 #include <tuple>

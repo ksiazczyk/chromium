@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: SlimWebview include rules
+summary: Specifies allowed include rules for the slim_web_view directory, granting test files extra access to blink permission Mojom headers.

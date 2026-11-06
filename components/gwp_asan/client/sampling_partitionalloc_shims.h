@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sampling PartitionAlloc shims interface
+// summary: Declares installation of PartitionAlloc hooks that enable GWP-ASan sampling with the given allocator settings and out-of-memory callback.
+// ---
+
 #ifndef COMPONENTS_GWP_ASAN_CLIENT_SAMPLING_PARTITIONALLOC_SHIMS_H_
 #define COMPONENTS_GWP_ASAN_CLIENT_SAMPLING_PARTITIONALLOC_SHIMS_H_
 

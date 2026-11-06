@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Guest OS component build configuration
+summary: Defines GN build targets for the guest_os component, including the engagement metrics and prefs static libraries and their unit tests.

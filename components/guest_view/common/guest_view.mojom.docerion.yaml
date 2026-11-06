@@ -1,0 +1,4 @@
+# Docerion header of guest_view.mojom.
+type: source
+title: Guest view Mojom interface definitions
+summary: Defines the GuestViewHost and ViewHandle Mojo interfaces the renderer uses to create GuestViews and attach them to embedder frames.
