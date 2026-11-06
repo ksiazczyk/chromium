@@ -1,0 +1,4 @@
+# Docerion header of button_stack_configuration.mm.
+type: source
+title: ButtonStackConfiguration implementation
+summary: Implements ButtonStackConfiguration defaults for button styles and the enabled state of the primary action.

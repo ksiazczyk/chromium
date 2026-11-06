@@ -1,0 +1,4 @@
+# Docerion header of semantic_color_names.mm.
+type: source
+title: Semantic color name constants implementation
+summary: Defines the semantic color name string constants, mapping each to its color asset catalog identifier.

@@ -1,0 +1,4 @@
+# Docerion header of string_util.mm.
+type: source
+title: String parsing utilities implementation
+summary: Implements parsing of BEGIN_LINK, END_LINK, BEGIN_BOLD, and END_BOLD markers into attributed strings and tag ranges.

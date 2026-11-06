@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Branded navigation item title view interface
+// summary: Declares a UIView that displays a navigation item title with an embedded product logo and configurable spacing.
+// ---
+
 #ifndef IOS_CHROME_COMMON_UI_ELEMENTS_BRANDED_NAVIGATION_ITEM_TITLE_VIEW_H_
 #define IOS_CHROME_COMMON_UI_ELEMENTS_BRANDED_NAVIGATION_ITEM_TITLE_VIEW_H_
 

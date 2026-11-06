@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared constants for pasteboard expiry and device size
+// summary: Declares the secure pasteboard expiration interval and the em-width threshold used to distinguish small devices.
+// ---
+
 #ifndef IOS_CHROME_COMMON_CONSTANTS_H_
 #define IOS_CHROME_COMMON_CONSTANTS_H_
 

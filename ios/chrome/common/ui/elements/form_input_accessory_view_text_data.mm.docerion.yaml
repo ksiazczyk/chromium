@@ -1,0 +1,4 @@
+# Docerion header of form_input_accessory_view_text_data.mm.
+type: source
+title: Form input accessory view text data implementation
+summary: Implements the text data class that stores and exposes the accessory view button titles and accessibility labels.

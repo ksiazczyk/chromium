@@ -1,0 +1,4 @@
+# Docerion header of NSString+Chromium.mm.
+type: source
+title: NSString+Chromium category implementation
+summary: Implements the NSString Chromium category by wrapping base string conversion helpers for UTF-8 and UTF-16.

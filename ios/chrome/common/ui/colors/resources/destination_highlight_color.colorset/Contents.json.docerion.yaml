@@ -1,0 +1,4 @@
+# Docerion header of Contents.json.
+type: asset
+title: Destination highlight color asset
+summary: Defines the destination highlight color as an Xcode colorset with universal light and dark mode variants in the display-p3 color space.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppGroupHelper interface
+// summary: Declares a pure Objective-C helper providing the app group, shared user defaults, and widget asset folders for Swift extensions.
+// ---
+
 #ifndef IOS_CHROME_COMMON_APP_GROUP_APP_GROUP_HELPER_H_
 #define IOS_CHROME_COMMON_APP_GROUP_APP_GROUP_HELPER_H_
 

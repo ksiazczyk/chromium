@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reauthentication event enum for logging
+// summary: Defines the ReauthenticationEvent enum used for logging attempts, successes, failures, and passcode-related actions.
+// ---
+
 #ifndef IOS_CHROME_COMMON_UI_REAUTHENTICATION_REAUTHENTICATION_EVENT_H_
 #define IOS_CHROME_COMMON_UI_REAUTHENTICATION_REAUTHENTICATION_EVENT_H_
 

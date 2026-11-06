@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory credential store header
+// summary: Declares MemoryCredentialStore, an in-memory credential store base class for ArchivableCredential meant to be subclassed.
+// ---
+
 #ifndef IOS_CHROME_COMMON_CREDENTIAL_PROVIDER_MEMORY_CREDENTIAL_STORE_H_
 #define IOS_CHROME_COMMON_CREDENTIAL_PROVIDER_MEMORY_CREDENTIAL_STORE_H_
 

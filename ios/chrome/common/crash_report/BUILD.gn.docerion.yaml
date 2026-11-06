@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the crash_report source set
+summary: Defines the crash_report source set listing its sources and dependencies on base, crash core, and the iOS app_group component.

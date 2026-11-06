@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Button stack content width layout guide utility
+// summary: Declares AddButtonStackContentWidthLayoutGuide, which adds a width layout guide for button stack content on large screens.
+// ---
+
 #ifndef IOS_CHROME_COMMON_UI_BUTTON_STACK_BUTTON_STACK_UTILS_H_
 #define IOS_CHROME_COMMON_UI_BUTTON_STACK_BUTTON_STACK_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: x-callback-url utilities header
+// summary: Declares functions to check x-callback-url compliance, create such URLs with or without parameters, and extract their query parameters.
+// ---
+
 #ifndef IOS_CHROME_COMMON_X_CALLBACK_URL_H_
 #define IOS_CHROME_COMMON_X_CALLBACK_URL_H_
 

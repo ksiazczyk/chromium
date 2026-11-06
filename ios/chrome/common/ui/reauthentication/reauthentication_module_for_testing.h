@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Testing category for the reauthentication module
+// summary: Declares a testing category on ReauthenticationModule for injecting mock LAContext objects and overriding the last auth time.
+// ---
+
 #ifndef IOS_CHROME_COMMON_UI_REAUTHENTICATION_REAUTHENTICATION_MODULE_FOR_TESTING_H_
 #define IOS_CHROME_COMMON_UI_REAUTHENTICATION_REAUTHENTICATION_MODULE_FOR_TESTING_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for iOS UI elements
+summary: Defines GN source sets and dependencies for the elements UI components such as highlight button and form input accessory.

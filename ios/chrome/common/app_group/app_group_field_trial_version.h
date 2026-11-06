@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Field trial version interface
+// summary: Declares dictionary keys and feature version constants used to validate stored field trial values in extensions.
+// ---
+
 #ifndef IOS_CHROME_COMMON_APP_GROUP_APP_GROUP_FIELD_TRIAL_VERSION_H_
 #define IOS_CHROME_COMMON_APP_GROUP_APP_GROUP_FIELD_TRIAL_VERSION_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of chrome_button_unittest.mm.
+type: test
+title: ChromeButton unit tests
+summary: Tests that the ChromeButton font getter and setter behave correctly when the title text attributes transformer is nil.

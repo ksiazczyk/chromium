@@ -1,0 +1,4 @@
+# Docerion header of passkey_welcome_screen_view_controller.mm.
+type: source
+title: PasskeyWelcomeScreenViewController implementation
+summary: Implements the passkey welcome screen, selecting banner, content and button setup based on the screen's purpose.

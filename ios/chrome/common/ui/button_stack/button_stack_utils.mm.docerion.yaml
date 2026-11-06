@@ -1,0 +1,4 @@
+# Docerion header of button_stack_utils.mm.
+type: source
+title: Button stack content width layout guide implementation
+summary: Implements the content width layout guide constraints for button stack content, adapting width for iPad and iPhone size classes.

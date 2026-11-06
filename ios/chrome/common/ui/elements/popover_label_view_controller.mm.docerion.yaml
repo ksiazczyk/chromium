@@ -1,0 +1,4 @@
+# Docerion header of popover_label_view_controller.mm.
+type: source
+title: Popover label view controller implementation
+summary: Implements the popover label view controller, building a scrollable blurred popover with primary and secondary text, an optional icon, and link tap handling.

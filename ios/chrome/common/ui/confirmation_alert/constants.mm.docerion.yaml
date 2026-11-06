@@ -1,0 +1,4 @@
+# Docerion header of constants.mm.
+type: source
+title: Confirmation alert accessibility identifier definitions
+summary: Defines the accessibility identifier string constants for the confirmation alert title, secondary title, subtitle and under-title view.

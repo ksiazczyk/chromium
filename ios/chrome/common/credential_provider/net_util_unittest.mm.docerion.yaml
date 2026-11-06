@@ -1,0 +1,4 @@
+# Docerion header of net_util_unittest.mm.
+type: test
+title: Unit tests for credential provider network utilities
+summary: Tests domain-and-registry extraction, secure host matching, and host extraction for identifiers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ButtonStackViewController interface header
+// summary: Declares ButtonStackViewController, a view controller showing a scrollable content area above stacked primary, secondary and tertiary action buttons.
+// ---
+
 #ifndef IOS_CHROME_COMMON_UI_BUTTON_STACK_BUTTON_STACK_VIEW_CONTROLLER_H_
 #define IOS_CHROME_COMMON_UI_BUTTON_STACK_BUTTON_STACK_VIEW_CONTROLLER_H_
 

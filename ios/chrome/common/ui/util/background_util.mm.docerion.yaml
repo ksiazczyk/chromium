@@ -1,0 +1,4 @@
+# Docerion header of background_util.mm.
+type: source
+title: Blur background view helper implementation
+summary: Implements PrimaryBackgroundBlurView using a system thick material blur effect view.

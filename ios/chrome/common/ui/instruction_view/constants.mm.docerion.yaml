@@ -1,0 +1,4 @@
+# Docerion header of constants.mm.
+type: source
+title: Instruction view accessibility identifier implementation
+summary: Implements InstructionViewRowAccessibilityIdentifier by formatting the row index into the accessibility identifier string.

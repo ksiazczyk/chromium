@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: x-callback-url unit tests
+// summary: Unit tests verifying URL compliance checks, URL construction with parameters, and query parameter extraction for x-callback URLs.
+// ---
+
 #include "ios/chrome/common/x_callback_url.h"
 
 #include <array>

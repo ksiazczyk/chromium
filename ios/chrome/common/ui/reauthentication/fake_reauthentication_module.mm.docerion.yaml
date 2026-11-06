@@ -1,0 +1,4 @@
+# Docerion header of fake_reauthentication_module.mm.
+type: source
+title: Fake reauthentication module implementation
+summary: Implements FakeReauthenticationModule so tests can control the timing and outcome of fake reauthentication attempts.

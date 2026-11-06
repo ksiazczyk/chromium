@@ -1,0 +1,4 @@
+# Docerion header of app_group_utils.mm.
+type: source
+title: App group utilities implementation
+summary: Clears app group folders and user defaults and validates pending share extension command URLs against the shared sandbox.

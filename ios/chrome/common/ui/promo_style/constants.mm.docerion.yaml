@@ -1,0 +1,4 @@
+# Docerion header of constants.mm.
+type: source
+title: Promo style constants implementation
+summary: Defines the promo style accessibility identifier strings and the bottom margin constants for action buttons with and without safe area.

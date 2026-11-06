@@ -1,0 +1,4 @@
+# Docerion header of favicon_table_view_cell.mm.
+type: source
+title: FaviconTableViewCell implementation
+summary: Implements the favicon table view cell, laying out the favicon container and labels with stack views, constraints and reuse handling.

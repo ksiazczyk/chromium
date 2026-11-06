@@ -1,0 +1,4 @@
+# Docerion header of favicon_attributes.mm.
+type: source
+title: FaviconAttributes implementation
+summary: Implements FaviconAttributes factory methods and NSSecureCoding serialization of the favicon image or monogram data.

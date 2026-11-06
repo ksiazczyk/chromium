@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArchivableCredentialStore interface
+// summary: Declares a credential store that persists credentials to disk via keyed archiving, holding operations in memory until saved to a given file URL.
+// ---
+
 #ifndef IOS_CHROME_COMMON_CREDENTIAL_PROVIDER_ARCHIVABLE_CREDENTIAL_STORE_H_
 #define IOS_CHROME_COMMON_CREDENTIAL_PROVIDER_ARCHIVABLE_CREDENTIAL_STORE_H_
 

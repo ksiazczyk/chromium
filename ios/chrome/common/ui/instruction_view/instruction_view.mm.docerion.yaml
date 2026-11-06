@@ -1,0 +1,4 @@
+# Docerion header of instruction_view.mm.
+type: source
+title: InstructionView implementation
+summary: Implements the numbered instruction list view with step number labels, optional icons, separators, styling and dynamic type support.

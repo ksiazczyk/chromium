@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArchivableCredential utility interface
+// summary: Declares RecordIdentifierForData, which builds a record identifier from a URL and username to detect whether a credential should be updated.
+// ---
+
 #ifndef IOS_CHROME_COMMON_CREDENTIAL_PROVIDER_ARCHIVABLE_CREDENTIAL_UTIL_H_
 #define IOS_CHROME_COMMON_CREDENTIAL_PROVIDER_ARCHIVABLE_CREDENTIAL_UTIL_H_
 

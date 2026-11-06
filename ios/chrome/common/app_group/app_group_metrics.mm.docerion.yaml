@@ -1,0 +1,4 @@
+# Docerion header of app_group_metrics.mm.
+type: source
+title: App group metrics key definitions
+summary: Defines the credential extension metric key constants and builds histogram count keys from histogram and bucket names.

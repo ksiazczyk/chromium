@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Highlight button interface
+// summary: Declares a UIButton subclass that fades its opacity when highlighted, with an optional list of highlightable views.
+// ---
+
 #ifndef IOS_CHROME_COMMON_UI_ELEMENTS_HIGHLIGHT_BUTTON_H_
 #define IOS_CHROME_COMMON_UI_ELEMENTS_HIGHLIGHT_BUTTON_H_
 

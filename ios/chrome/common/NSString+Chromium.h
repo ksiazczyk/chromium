@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NSString+Chromium category header
+// summary: Declares an NSString category providing Swift-compatible conversions between NSString and C++ std::string and std::u16string values.
+// ---
+
 #ifndef IOS_CHROME_COMMON_NSSTRING_CHROMIUM_H_
 #define IOS_CHROME_COMMON_NSSTRING_CHROMIUM_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of promo_style_view_controller.mm.
+type: source
+title: Promo style view controller implementation
+summary: Implements the promo style screen layout, banner sizing, header image, disclaimer, action button behavior, animations, and histogram logging.

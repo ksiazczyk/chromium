@@ -1,0 +1,4 @@
+# Docerion header of string_util_unittest.mm.
+type: test
+title: String utility unit tests
+summary: Unit tests verifying parsing of strings with single and multiple embedded links and formatting tag handling.

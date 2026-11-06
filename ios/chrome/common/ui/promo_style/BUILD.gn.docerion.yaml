@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Promo style UI build definition
+summary: Defines the promo_style, constants, and utils source_set targets with their sources, dependencies, and frameworks for the Chromium iOS build.

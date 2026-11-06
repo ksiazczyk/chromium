@@ -1,0 +1,4 @@
+# Docerion header of reauthentication_module_unittest.mm.
+type: test
+title: Unit tests for the reauthentication module
+summary: Unit tests verifying reauthentication reuse behavior using a mock LAContext, OCMock, and a simple test clock.

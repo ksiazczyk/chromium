@@ -1,0 +1,4 @@
+# Docerion header of button_stack_view_controller_unittest.mm.
+type: test
+title: Unit tests for the button stack view controller
+summary: Unit tests verifying that button taps invoke the action delegate, dismissal notifies the delegate, and the loading state disables the action buttons.

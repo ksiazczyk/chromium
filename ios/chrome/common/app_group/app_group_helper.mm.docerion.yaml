@@ -1,0 +1,4 @@
+# Docerion header of app_group_helper.mm.
+type: source
+title: App group helper for shared defaults and widget folders
+summary: Implements AppGroupHelper to resolve the application group identifier, shared user defaults, and widget favicon and avatar folder URLs.

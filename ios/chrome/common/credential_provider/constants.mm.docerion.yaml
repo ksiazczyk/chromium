@@ -1,0 +1,4 @@
+# Docerion header of constants.mm.
+type: source
+title: Credential provider constants implementation
+summary: Implements the credential provider constants, defining app group default keys and the shared archivable store URL.

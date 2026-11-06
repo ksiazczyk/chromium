@@ -1,0 +1,4 @@
+# Docerion header of passkey_welcome_screen_strings.mm.
+type: source
+title: PasskeyWelcomeScreenStrings implementation
+summary: Implements the designated initializer of PasskeyWelcomeScreenStrings, storing the strings passed in for display.

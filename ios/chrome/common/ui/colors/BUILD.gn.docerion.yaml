@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definitions for the iOS Chrome colors targets
+summary: Defines the colors source set and the Swift source set targets that build the iOS Chrome color palette code.

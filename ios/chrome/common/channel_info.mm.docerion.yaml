@@ -1,0 +1,4 @@
+# Docerion header of channel_info.mm.
+type: source
+title: Channel info implementation
+summary: Implements channel detection by reading Keystone keys from the app bundle and caching the channel for the application lifetime.

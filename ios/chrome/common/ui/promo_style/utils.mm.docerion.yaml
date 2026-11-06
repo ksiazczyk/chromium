@@ -1,0 +1,4 @@
+# Docerion header of utils.mm.
+type: source
+title: Promo style title font utility implementation
+summary: Implements title font selection for promo style screens, adapting the text style to accessibility categories and size classes with a bold scaled font.

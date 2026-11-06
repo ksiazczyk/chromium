@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test utilities for passkey ArchivableCredential
+// summary: Declares default values, field overrides and helper functions for constructing passkey ArchivableCredential objects in tests.
+// ---
+
 #ifndef IOS_CHROME_COMMON_CREDENTIAL_PROVIDER_ARCHIVABLE_CREDENTIAL_TEST_UTIL_H_
 #define IOS_CHROME_COMMON_CREDENTIAL_PROVIDER_ARCHIVABLE_CREDENTIAL_TEST_UTIL_H_
 

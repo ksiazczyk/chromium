@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App group shared constants
+// summary: Declares constants, command identifiers, and capability keys shared between apps in the Chrome iOS app group.
+// ---
+
 #ifndef IOS_CHROME_COMMON_APP_GROUP_APP_GROUP_CONSTANTS_H_
 #define IOS_CHROME_COMMON_APP_GROUP_APP_GROUP_CONSTANTS_H_
 

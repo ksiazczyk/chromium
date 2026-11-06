@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ButtonStackActionDelegate protocol header
+// summary: Declares the ButtonStackActionDelegate protocol with callbacks for primary, secondary and tertiary button taps and dismissal of the button stack.
+// ---
+
 #ifndef IOS_CHROME_COMMON_UI_BUTTON_STACK_BUTTON_STACK_ACTION_DELEGATE_H_
 #define IOS_CHROME_COMMON_UI_BUTTON_STACK_BUTTON_STACK_ACTION_DELEGATE_H_
 

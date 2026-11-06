@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Swift bridging header for the colors module
+// summary: Bridging header that exposes the pure Objective-C semantic color names to Swift code.
+// ---
+
 #ifndef IOS_CHROME_COMMON_UI_COLORS_SWIFT_BRIDGE_H_
 #define IOS_CHROME_COMMON_UI_COLORS_SWIFT_BRIDGE_H_
 

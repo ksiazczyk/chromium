@@ -1,0 +1,4 @@
+# Docerion header of constants.mm.
+type: source
+title: Common iOS Chrome constants
+summary: Defines shared constants such as the secure pasteboard expiration interval and the small device size threshold.

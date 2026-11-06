@@ -1,0 +1,4 @@
+# Docerion header of confirmation_alert_view_controller_unittest.mm.
+type: test
+title: ConfirmationAlertViewController unit tests
+summary: Unit tests verifying that the confirmation alert view controller forwards dismissal to its action handler.

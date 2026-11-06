@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArchivableCredential passkey category header
+// summary: Declares helpers and a category to convert between ArchivableCredential and WebauthnCredentialSpecifics passkey protos, including record identifier generation.
+// ---
+
 #ifndef IOS_CHROME_COMMON_CREDENTIAL_PROVIDER_ARCHIVABLE_CREDENTIAL_PASSKEY_H_
 #define IOS_CHROME_COMMON_CREDENTIAL_PROVIDER_ARCHIVABLE_CREDENTIAL_PASSKEY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Channel info interface
+// summary: Declares functions returning the display version string, the channel modifier string and the installation channel for branded and unbranded builds.
+// ---
+
 #ifndef IOS_CHROME_COMMON_CHANNEL_INFO_H_
 #define IOS_CHROME_COMMON_CHANNEL_INFO_H_
 

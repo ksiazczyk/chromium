@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeCrashReporterClient implementation
+// summary: Implements the iOS Chrome crash reporter client, returning the Crashpad dump location and upload consent from the crash helper.
+// ---
+
 #include "ios/chrome/common/crash_report/chrome_crash_reporter_client.h"
 
 #include "base/files/file_path.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Promo style title font utilities
+// summary: Declares helpers that choose the title text style and FRE title font based on device size, size class, and dynamic type settings.
+// ---
+
 #ifndef IOS_CHROME_COMMON_UI_PROMO_STYLE_UTILS_H_
 #define IOS_CHROME_COMMON_UI_PROMO_STYLE_UTILS_H_
 

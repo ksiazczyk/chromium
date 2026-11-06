@@ -1,0 +1,4 @@
+# Docerion header of button_stack_view_controller.mm.
+type: source
+title: Button stack view controller implementation
+summary: Implements a view controller that shows a scrollable content area above a stack of primary, secondary and tertiary action buttons, with configurable margins, gradient and detent sizing.

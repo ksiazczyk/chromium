@@ -1,0 +1,4 @@
+# Docerion header of app_group_field_trial_version.mm.
+type: source
+title: Field trial version values
+summary: Defines field trial dictionary keys and current feature version numbers for credential provider extension features.

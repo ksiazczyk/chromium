@@ -1,0 +1,4 @@
+# Docerion header of reauthentication_module.mm.
+type: source
+title: Reauthentication module implementation
+summary: Implements reauthentication via LocalAuthentication, reusing successful auth within one minute and exposing test hooks.

@@ -1,0 +1,4 @@
+# Docerion header of chrome_button.mm.
+type: source
+title: ChromeButton styled UIButton implementation
+summary: Implements ChromeButton appearance and behavior, including styles, sizes, tuned-down state, spinner and checkmark images, and iOS 26 tint handling.

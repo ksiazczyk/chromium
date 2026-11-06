@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Popover label view controller header
+// summary: Declares PopoverLabelViewController, a static popover presenting primary and secondary attributed text with an optional icon, plus a delegate protocol for link taps.
+// ---
+
 #ifndef IOS_CHROME_COMMON_UI_ELEMENTS_POPOVER_LABEL_VIEW_CONTROLLER_H_
 #define IOS_CHROME_COMMON_UI_ELEMENTS_POPOVER_LABEL_VIEW_CONTROLLER_H_
 

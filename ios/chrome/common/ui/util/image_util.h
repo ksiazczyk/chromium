@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image utility header
+// summary: Declares image resizing helpers with projection modes, view-to-image rendering, search-by-image downscaling, and blur utilities.
+// ---
+
 #ifndef IOS_CHROME_COMMON_UI_UTIL_IMAGE_UTIL_H_
 #define IOS_CHROME_COMMON_UI_UTIL_IMAGE_UTIL_H_
 

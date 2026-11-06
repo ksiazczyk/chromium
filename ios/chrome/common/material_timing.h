@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Material animation timing interface
+// summary: Declares Material duration constants, timing curve enum, timing functions, and a UIView category for Material-style animations.
+// ---
+
 #ifndef IOS_CHROME_COMMON_MATERIAL_TIMING_H_
 #define IOS_CHROME_COMMON_MATERIAL_TIMING_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of form_input_accessory_view.mm.
+type: source
+title: Form input accessory view implementation
+summary: Implements the keyboard accessory view, including liquid glass styling, manual fill buttons and layout constants.

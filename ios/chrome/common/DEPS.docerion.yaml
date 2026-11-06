@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ios/chrome/common
+summary: Restricts which headers this directory may include, blocking most of ios/chrome while allowing common code, version_info, net and physical_web.

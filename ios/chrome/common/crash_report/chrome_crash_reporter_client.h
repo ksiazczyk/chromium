@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeCrashReporterClient class declaration
+// summary: Declares the crash reporter client subclass overriding crash dump location, stats consent, and unattended behavior for iOS Chrome.
+// ---
+
 #ifndef IOS_CHROME_COMMON_CRASH_REPORT_CHROME_CRASH_REPORTER_CLIENT_H_
 #define IOS_CHROME_COMMON_CRASH_REPORT_CHROME_CRASH_REPORTER_CLIENT_H_
 

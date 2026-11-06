@@ -1,0 +1,4 @@
+# Docerion header of image_util.mm.
+type: source
+title: Image utility implementation
+summary: Implements image resizing with projection modes, view snapshot rendering with padding and background, and search-by-image size limits.

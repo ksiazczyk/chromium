@@ -1,0 +1,4 @@
+# Docerion header of device_authorization_key_store_unittest.mm.
+type: test
+title: Device authorization key store unit tests
+summary: Unit tests for storing, fetching and deleting device authorization keys in the iOS Keychain via a thread pool.

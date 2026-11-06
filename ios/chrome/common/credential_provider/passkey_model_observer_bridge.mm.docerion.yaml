@@ -1,0 +1,4 @@
+# Docerion header of passkey_model_observer_bridge.mm.
+type: source
+title: Passkey model observer bridge implementation
+summary: Implements passkey model observer callbacks that notify a delegate of changes, shutdown, and readiness.

@@ -1,0 +1,4 @@
+# Docerion header of crash_helper.mm.
+type: source
+title: Crash helper implementation
+summary: Implements crash helpers using app group user defaults for upload settings, resolves the Crashpad folder, and initializes Crashpad.

@@ -1,0 +1,4 @@
+# Docerion header of ns_regular_expression_unittest.mm.
+type: test
+title: NSRegularExpression behavior tests
+summary: Tests how NSRegularExpression handles matching, capture group substitution, and alternation to catch behavior changes.

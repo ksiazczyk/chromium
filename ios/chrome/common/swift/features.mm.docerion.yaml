@@ -1,0 +1,4 @@
+# Docerion header of features.mm.
+type: source
+title: Swift coordinator feature flag implementation
+summary: Defines the kSwiftCoordinator feature as disabled by default and implements IsSwiftCoordinatorEnabled via the base feature list.

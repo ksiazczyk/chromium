@@ -1,0 +1,4 @@
+# Docerion header of extension_open_url.mm.
+type: source
+title: Extension open URL implementation
+summary: Implements opening a URL by walking the responder chain to find a responder that handles openURL:options:completionHandler:.

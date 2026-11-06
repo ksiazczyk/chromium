@@ -1,0 +1,4 @@
+# Docerion header of favicon_constants.mm.
+type: source
+title: Favicon size constants implementation
+summary: Defines the minimum, small, and medium favicon size values of 16, 24, and 32 points.

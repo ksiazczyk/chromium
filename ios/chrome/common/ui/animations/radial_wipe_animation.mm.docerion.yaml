@@ -1,0 +1,4 @@
+# Docerion header of radial_wipe_animation.mm.
+type: source
+title: RadialWipeAnimation implementation
+summary: Implements the radial wipe animation with Core Animation gradient layers, timing constants and opacity animations to hide or reveal target views.

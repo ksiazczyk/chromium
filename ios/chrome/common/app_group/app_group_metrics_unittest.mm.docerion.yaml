@@ -1,0 +1,4 @@
+# Docerion header of app_group_metrics_unittest.mm.
+type: test
+title: App group metrics unit tests
+summary: Verifies conversion between open extension outcome keys and enum values and that metrics are logged and cleared correctly.

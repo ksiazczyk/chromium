@@ -1,0 +1,4 @@
+# Docerion header of pointer_interaction_util.mm.
+type: source
+title: Pointer interaction utility implementation
+summary: Implements pointer style providers for opaque, transparent, and circular buttons plus the ViewPointerInteraction delegate handling.

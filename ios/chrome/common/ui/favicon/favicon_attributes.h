@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaviconAttributes class header
+// summary: Declares the FaviconAttributes class representing a favicon either as an image or as a fallback monogram with text and background colors.
+// ---
+
 #ifndef IOS_CHROME_COMMON_UI_FAVICON_FAVICON_ATTRIBUTES_H_
 #define IOS_CHROME_COMMON_UI_FAVICON_FAVICON_ATTRIBUTES_H_
 

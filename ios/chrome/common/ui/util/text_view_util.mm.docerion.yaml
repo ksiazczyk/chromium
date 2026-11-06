@@ -1,0 +1,4 @@
+# Docerion header of text_view_util.mm.
+type: source
+title: Text view utility implementation
+summary: Creates a UITextView with TextKit1 as a workaround for link tapping issues in TextKit2-based text views on iOS 16.

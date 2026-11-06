@@ -1,0 +1,4 @@
+# Docerion header of block_unittest.mm.
+type: test
+title: Unit tests for Objective-C blocks with C++ objects
+summary: Verifies how Objective-C blocks interact with C++ ref-counted objects and std::vector instances across stack and heap copies.

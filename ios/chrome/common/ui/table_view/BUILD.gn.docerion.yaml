@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for table view
+summary: Defines GN source sets for the favicon table view cell and the shared cell constants, listing their sources and dependencies.

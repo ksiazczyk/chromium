@@ -1,0 +1,4 @@
+# Docerion header of confirmation_alert_view_controller.mm.
+type: source
+title: ConfirmationAlertViewController implementation
+summary: Implements the confirmation alert layout, image framing with shadow and badge, and button action handling with histogram logging.

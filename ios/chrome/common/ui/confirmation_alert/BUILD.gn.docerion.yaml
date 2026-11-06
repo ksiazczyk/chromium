@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the confirmation alert component
+summary: Defines the GN source sets, dependencies and frameworks for the confirmation alert UI, its constants and its unit tests.

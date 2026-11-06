@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: x-callback-url helpers
+// summary: Implements creation, validation, and query parameter extraction for URLs using the x-callback-url scheme.
+// ---
+
 #include "ios/chrome/common/x_callback_url.h"
 
 #include <string_view>

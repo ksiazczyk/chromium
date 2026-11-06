@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Widget constants declarations
+// summary: Declares the widget URL scheme, widget host identifiers, and action paths shared between Chrome and its widget extensions.
+// ---
+
 #ifndef IOS_CHROME_COMMON_APP_GROUP_WIDGET_CONSTANTS_H_
 #define IOS_CHROME_COMMON_APP_GROUP_WIDGET_CONSTANTS_H_
 

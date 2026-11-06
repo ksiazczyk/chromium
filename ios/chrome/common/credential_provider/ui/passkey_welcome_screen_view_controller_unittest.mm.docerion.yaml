@@ -1,0 +1,4 @@
+# Docerion header of passkey_welcome_screen_view_controller_unittest.mm.
+type: test
+title: PasskeyWelcomeScreenViewController unit tests
+summary: Unit tests verifying the welcome screen content for the enrollment, fix degraded recoverability and reauthentication purposes.
