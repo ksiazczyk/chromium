@@ -1,3 +1,13 @@
+---
+type: readme
+title: Optimization Guide Filters
+summary: Describes the GURL filters built from the Optimization Hints component, their main classes, and their internal use by the HintsManager.
+relations:
+  - documents /components/optimization_guide/core/filters/optimization_filter.cc
+  - documents /components/optimization_guide/core/filters/optimization_filter.h
+  - documents /components/optimization_guide/core/filters/hints_component_util.cc
+---
+
 # Optimization Guide Filters
 
 This directory defines a mechanism for using filters over GURLs delivered via

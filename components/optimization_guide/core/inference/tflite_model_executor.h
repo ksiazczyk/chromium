@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TFLite model executor for arbitrary input and output types
+// summary: Defines the TFLiteModelExecutor template that loads and runs TFLite models with preprocessing, postprocessing, execution status metrics, and a timeout watchdog.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_INFERENCE_TFLITE_MODEL_EXECUTOR_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_INFERENCE_TFLITE_MODEL_EXECUTOR_H_
 

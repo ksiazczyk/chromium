@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Prediction model fetcher unit tests
+// summary: Unit tests for PredictionModelFetcherImpl covering fetch requests, simulated service responses, and fetch error handling.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

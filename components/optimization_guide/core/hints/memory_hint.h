@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryHint class header
+// summary: Declares MemoryHint, an in-memory representation of a hint with an optional expiry time, noting caller responsibilities around cache eviction.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_HINTS_MEMORY_HINT_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_HINTS_MEMORY_HINT_H_
 

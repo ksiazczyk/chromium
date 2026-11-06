@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hints manager header
+// summary: Declares HintsManager, the central class that manages optimization hints, fetch concurrency limits, batch updates, and push notification delegation.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_HINTS_HINTS_MANAGER_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_HINTS_HINTS_MANAGER_H_
 

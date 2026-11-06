@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BertModelHandler implementation
+// summary: Implements the BERT model handler constructor that wires a BertModelExecutor into the generic ModelHandler.
+// ---
+
 #include "components/optimization_guide/core/inference/bert_model_handler.h"
 
 #include "base/task/sequenced_task_runner.h"

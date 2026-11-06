@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModelInfo implementation
+// summary: Implements creation of ModelInfo from prediction model protos and off-thread loading and verification of stored model files and their additional files.
+// ---
+
 #include "components/optimization_guide/core/delivery/model_info.h"
 
 #include <memory>

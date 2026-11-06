@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryHint implementation
+// summary: Implements constructors and the destructor for MemoryHint, which pairs a hint proto with an optional expiry time for in-memory caches.
+// ---
+
 #include "components/optimization_guide/core/hints/memory_hint.h"
 
 namespace optimization_guide {

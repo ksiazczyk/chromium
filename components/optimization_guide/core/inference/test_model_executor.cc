@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test model executor implementation
+// summary: Implements a fake model executor for tests that echoes float inputs back as results for single, batch, and synchronous batch execution requests.
+// ---
+
 #include "components/optimization_guide/core/inference/test_model_executor.h"
 
 namespace optimization_guide {

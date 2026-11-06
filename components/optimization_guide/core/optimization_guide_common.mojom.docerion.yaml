@@ -1,0 +1,4 @@
+# Docerion header of optimization_guide_common.mojom.
+type: source
+title: Mojom definitions for optimization guide common
+summary: Mojom module defining the LogSource enum that categorizes log messages shown in the optimization guide internals page.

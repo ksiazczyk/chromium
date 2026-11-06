@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise policy registry declarations
+// summary: Declares EnterprisePolicyPref and the EnterprisePolicyRegistry singleton that features use to register enterprise policy prefs controlling model execution behavior.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_FEATURE_REGISTRY_ENTERPRISE_POLICY_REGISTRY_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_FEATURE_REGISTRY_ENTERPRISE_POLICY_REGISTRY_H_
 

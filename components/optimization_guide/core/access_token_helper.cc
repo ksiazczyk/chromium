@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Access token helper implementation
+// summary: Implements the token request flow that fetches a primary account OAuth access token via the identity manager and records the request outcome as a histogram.
+// ---
+
 #include "components/optimization_guide/core/access_token_helper.h"
 
 #include "base/functional/bind.h"

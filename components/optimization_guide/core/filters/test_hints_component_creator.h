@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestHintsComponentCreator class declaration
+// summary: Declares a testing helper that creates temporary Optimization Hints component files and returns their HintsComponentInfo, cleaning up paths when it goes out of scope.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_FILTERS_TEST_HINTS_COMPONENT_CREATOR_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_FILTERS_TEST_HINTS_COMPONENT_CREATOR_H_
 

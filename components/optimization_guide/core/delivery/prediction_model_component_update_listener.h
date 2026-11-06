@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prediction model component update listener header
+// summary: Declares PredictionModelComponentUpdateListener, an OptimizationGuideModelProvider implementation that tracks component updates for prediction models and notifies registered observers.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_DELIVERY_PREDICTION_MODEL_COMPONENT_UPDATE_LISTENER_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_DELIVERY_PREDICTION_MODEL_COMPONENT_UPDATE_LISTENER_H_
 

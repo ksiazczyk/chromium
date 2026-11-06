@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GenAI feature registration declarations
+// summary: Declares enterprise policy pref name constants, MQLS logging feature flags, the GeminiSettingsPolicyState enum, and the RegisterGenAiFeatures pref registration entry point.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_FEATURE_REGISTRY_FEATURE_REGISTRATION_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_FEATURE_REGISTRY_FEATURE_REGISTRATION_H_
 

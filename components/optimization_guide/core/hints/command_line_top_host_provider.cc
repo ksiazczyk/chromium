@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommandLineTopHostProvider implementation
+// summary: Implements a top host provider that parses hosts from the fetch hints override command line switch to force an immediate hints fetch for developer testing.
+// ---
+
 #include "components/optimization_guide/core/hints/command_line_top_host_provider.h"
 
 #include <optional>

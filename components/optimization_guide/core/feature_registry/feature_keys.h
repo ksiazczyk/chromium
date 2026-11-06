@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model-based capability key definitions
+// summary: Defines the ModelBasedCapabilityKey enum mapping model execution features such as Compose and WallpaperSearch to their proto enum values, with stream output support.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_FEATURE_REGISTRY_FEATURE_KEYS_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_FEATURE_REGISTRY_FEATURE_KEYS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization Guide store header
+// summary: Declares OptimizationGuideStore, the backing store that loads and stores hints locally, including its status and store entry type enums.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_HINTS_OPTIMIZATION_GUIDE_STORE_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_HINTS_OPTIMIZATION_GUIDE_STORE_H_
 

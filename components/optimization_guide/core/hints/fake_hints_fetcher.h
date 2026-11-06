@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HintsFetcherRemoteResponseType enum for fake fetcher behavior
+// summary: Defines the HintsFetcherRemoteResponseType enum used to select fake remote responses for HintsFetcher in tests.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_HINTS_FAKE_HINTS_FETCHER_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_HINTS_FAKE_HINTS_FETCHER_H_
 

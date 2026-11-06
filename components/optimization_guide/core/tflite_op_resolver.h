@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TFLiteOpResolver class header
+// summary: Declares TFLiteOpResolver, a MutableOpResolver that maintains and registers the TFLite operations supported in the Chromium build.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_TFLITE_OP_RESOLVER_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_TFLITE_OP_RESOLVER_H_
 

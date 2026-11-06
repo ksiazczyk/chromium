@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OptimizationGuideDecider interface
+// summary: Defines the abstract decider interface for registering optimization types and querying whether optimizations apply to URLs, including the friend-restricted on-demand API.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_HINTS_OPTIMIZATION_GUIDE_DECIDER_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_HINTS_OPTIMIZATION_GUIDE_DECIDER_H_
 

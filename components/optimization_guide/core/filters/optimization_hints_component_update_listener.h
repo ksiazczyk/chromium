@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OptimizationHintsComponentUpdateListener class declaration
+// summary: Declares the singleton OptimizationHintsComponentUpdateListener that stores the current HintsComponentInfo and dispatches component updates to registered observers.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_FILTERS_OPTIMIZATION_HINTS_COMPONENT_UPDATE_LISTENER_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_FILTERS_OPTIMIZATION_HINTS_COMPONENT_UPDATE_LISTENER_H_
 

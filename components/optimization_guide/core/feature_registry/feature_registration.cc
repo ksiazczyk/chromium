@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GenAI feature registration implementation
+// summary: Defines enterprise policy pref name constants and MQLS logging base::Feature flags used when registering GenAI optimization guide features and their prefs.
+// ---
+
 #include "components/optimization_guide/core/feature_registry/feature_registration.h"
 
 #include "base/feature_list.h"

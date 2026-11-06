@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Insertion ordered set container
+// summary: Defines a template container that stores unique elements while preserving insertion order, backed by a flat set and a vector.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_HINTS_INSERTION_ORDERED_SET_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_HINTS_INSERTION_ORDERED_SET_H_
 

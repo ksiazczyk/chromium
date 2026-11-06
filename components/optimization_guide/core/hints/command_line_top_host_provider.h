@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommandLineTopHostProvider class header
+// summary: Declares CommandLineTopHostProvider, a TopHostProvider that supplies top hosts from a comma-separated command line list for developer and integration testing.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_HINTS_COMMAND_LINE_TOP_HOST_PROVIDER_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_HINTS_COMMAND_LINE_TOP_HOST_PROVIDER_H_
 

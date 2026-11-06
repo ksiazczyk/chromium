@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestOptimizationGuideDecider header
+// summary: Declares a test double OptimizationGuideDecider that always returns false decisions, intended for unit tests of services that use the decider.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_HINTS_TEST_OPTIMIZATION_GUIDE_DECIDER_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_HINTS_TEST_OPTIMIZATION_GUIDE_DECIDER_H_
 

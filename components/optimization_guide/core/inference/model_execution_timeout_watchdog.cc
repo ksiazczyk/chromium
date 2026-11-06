@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model execution timeout watchdog implementation
+// summary: Implements the watchdog that arms a timer to cancel long-running model executions and records timeout histograms per optimization target.
+// ---
+
 #include "components/optimization_guide/core/inference/model_execution_timeout_watchdog.h"
 
 #include "base/functional/callback_helpers.h"

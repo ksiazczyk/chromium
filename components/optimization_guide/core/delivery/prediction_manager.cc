@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prediction manager implementation
+// summary: Implements PredictionManager, which fetches, downloads, stores, and serves prediction models and notifies registered observers for optimization targets.
+// ---
+
 #include "components/optimization_guide/core/delivery/prediction_manager.h"
 
 #include <cstddef>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HintsFetcher implementation
+// summary: Implements fetching hints from the remote Optimization Guide Service, including request status histograms, language override headers, and URL loader handling.
+// ---
+
 #include "components/optimization_guide/core/hints/hints_fetcher.h"
 
 #include <memory>

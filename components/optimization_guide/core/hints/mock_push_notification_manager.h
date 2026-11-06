@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockPushNotificationManager header
+// summary: Declares a gmock mock of PushNotificationManager with mocked delegate setup, observer management and push notification handling methods.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_HINTS_MOCK_PUSH_NOTIFICATION_MANAGER_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_HINTS_MOCK_PUSH_NOTIFICATION_MANAGER_H_
 

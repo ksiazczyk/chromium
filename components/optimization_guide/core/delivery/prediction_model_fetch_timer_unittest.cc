@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the prediction model fetch timer
+// summary: Unit tests verifying fetch scheduling, state transitions, and retry behavior of PredictionModelFetchTimer using a mock clock.
+// ---
+
 #include "components/optimization_guide/core/delivery/prediction_model_fetch_timer.h"
 
 #include "base/test/scoped_feature_list.h"

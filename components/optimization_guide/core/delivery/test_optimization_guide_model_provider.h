@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test optimization guide model provider
+// summary: Declares a selectively mockable OptimizationGuideModelProvider implementation used to unit test components depending on the Optimization Guide.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_DELIVERY_TEST_OPTIMIZATION_GUIDE_MODEL_PROVIDER_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_DELIVERY_TEST_OPTIMIZATION_GUIDE_MODEL_PROVIDER_H_
 

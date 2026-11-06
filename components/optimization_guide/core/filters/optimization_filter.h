@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OptimizationFilter class declaration (optimization_filter.h)
+// summary: Declares the OptimizationFilter class combining a Bloom filter and regexp lists to decide whether optimizations apply to a URL.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_FILTERS_OPTIMIZATION_FILTER_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_FILTERS_OPTIMIZATION_FILTER_H_
 

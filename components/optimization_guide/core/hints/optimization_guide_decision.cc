@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OptimizationGuideDecision string conversion
+// summary: Implements a helper that maps OptimizationGuideDecision enum values to debug strings such as Unknown, True and False.
+// ---
+
 #include "components/optimization_guide/core/hints/optimization_guide_decision.h"
 
 #include "base/notreached.h"

@@ -5,6 +5,12 @@
 // TODO: crbug.com/514743962 - All of these prefs should be moved to more
 // specific files and out of this file.  Do not add anything here.
 
+// ---docerion
+// type: source
+// title: Optimization guide prefs header
+// summary: Declares the FeatureOptInState enum and functions for naming and registering the setting opt-in state prefs of optimization guide features.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_OPTIMIZATION_GUIDE_PREFS_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_OPTIMIZATION_GUIDE_PREFS_H_
 

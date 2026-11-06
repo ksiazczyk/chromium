@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization Guide shared library holder header
+// summary: Declares the OptimizationGuideLibraryHolder class that keeps the internal shared library loaded and provides access to its API functions.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_OPTIMIZATION_GUIDE_LIBRARY_HOLDER_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_OPTIMIZATION_GUIDE_LIBRARY_HOLDER_H_
 

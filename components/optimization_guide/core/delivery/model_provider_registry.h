@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model provider registry and delivery events
+// summary: Declares ModelProviderRegistry, an OptimizationGuideModelProvider implementation tracking observers and models, and the ModelDeliveryEvent lifecycle enum.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_DELIVERY_MODEL_PROVIDER_REGISTRY_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_DELIVERY_MODEL_PROVIDER_REGISTRY_H_
 

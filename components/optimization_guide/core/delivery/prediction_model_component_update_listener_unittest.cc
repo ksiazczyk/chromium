@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the prediction model component update listener
+// summary: Unit tests covering observer registration, model updates, uninstalls, and fallback provider behavior of PredictionModelComponentUpdateListener.
+// ---
+
 #include "components/optimization_guide/core/delivery/prediction_model_component_update_listener.h"
 
 #include <memory>

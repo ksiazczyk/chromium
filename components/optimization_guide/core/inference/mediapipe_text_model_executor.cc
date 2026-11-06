@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediapipeTextModelExecutor implementation
+// summary: Implements text classification with MediaPipe's TextClassifier, reading the model file into a buffer and returning categories for text input.
+// ---
+
 #include "components/optimization_guide/core/inference/mediapipe_text_model_executor.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model handler for model execution
+// summary: Declares the ModelHandler template that owns a ModelExecutor, observes model updates, and runs executions with latency metrics.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_INFERENCE_MODEL_HANDLER_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_INFERENCE_MODEL_HANDLER_H_
 

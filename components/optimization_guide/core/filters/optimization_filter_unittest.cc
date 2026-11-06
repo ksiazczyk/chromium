@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OptimizationFilter unit tests
+// summary: Unit tests for OptimizationFilter verifying bloom filter matching, plaintext and SHA256 host formats, exclusion regexp precedence, and host suffix checking behavior.
+// ---
+
 #include "components/optimization_guide/core/filters/optimization_filter.h"
 
 #include "components/optimization_guide/core/filters/bloom_filter.h"

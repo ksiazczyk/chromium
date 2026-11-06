@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URLPatternWithWildcards unit tests
+// summary: Unit tests verifying URLPatternWithWildcards matching for plain patterns, wildcards within and at the ends of patterns, and scheme-specific patterns.
+// ---
+
 #include "components/optimization_guide/core/hints/url_pattern_with_wildcards.h"
 
 #include <string>

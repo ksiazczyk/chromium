@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model provider registry implementation
+// summary: Implements the registry that tracks model observers and current models per optimization target, including a server allowlist for model metadata types.
+// ---
+
 #include "components/optimization_guide/core/delivery/model_provider_registry.h"
 
 #include <string_view>

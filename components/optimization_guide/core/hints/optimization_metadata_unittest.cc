@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Optimization metadata unit tests
+// summary: Unit tests for OptimizationMetadata's ParsedMetadata covering missing, mismatched, unserializable, and valid Any metadata cases.
+// ---
+
 #include "components/optimization_guide/core/hints/optimization_metadata.h"
 
 #include "components/optimization_guide/core/optimization_guide_proto_util.h"

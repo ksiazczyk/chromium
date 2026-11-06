@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test TFLite model executor implementation
+// summary: Implements preprocessing and postprocessing for TestTFLiteModelExecutor, converting float vectors to and from TFLite tensors during test executions.
+// ---
+
 #include "components/optimization_guide/core/inference/test_tflite_model_executor.h"
 
 #include "third_party/tflite_support/src/tensorflow_lite_support/cc/task/core/task_utils.h"

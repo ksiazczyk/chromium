@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Store Update Data Unit Tests
+// summary: Unit tests verifying component and fetched store update construction, entry counts, and default versus hint-provided cache duration and expiry handling.
+// ---
+
 #include "components/optimization_guide/core/hints/store_update_data.h"
 
 #include <string>

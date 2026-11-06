@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BertModelHandler class declaration
+// summary: Declares a ModelHandler that executes BERT models and returns classification categories, noting sentencepiece tokenizers are unsupported.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_INFERENCE_BERT_MODEL_HANDLER_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_INFERENCE_BERT_MODEL_HANDLER_H_
 

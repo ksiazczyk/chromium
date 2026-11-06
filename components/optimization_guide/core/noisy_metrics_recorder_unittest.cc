@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Noisy metrics recorder unit tests
+// summary: Unit tests verifying that the noisy metrics recorder returns the original value without noise and produces bounded, deterministic noisy values.
+// ---
+
 #include "components/optimization_guide/core/noisy_metrics_recorder.h"
 
 #include <cmath>

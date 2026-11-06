@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prediction model utility functions
+// summary: Implements helpers mapping optimization targets to histogram names and handling model file paths, cache key hashes, killswitch checks and model info parsing.
+// ---
+
 #include "components/optimization_guide/core/delivery/model_util.h"
 
 #include "base/files/file_util.h"

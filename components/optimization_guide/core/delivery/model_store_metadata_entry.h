@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model store metadata entry, updater and ledger
+// summary: Declares a read-only view of model store metadata, a pref updater for model entries, and a ledger tracking which models are stored on disk.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_DELIVERY_MODEL_STORE_METADATA_ENTRY_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_DELIVERY_MODEL_STORE_METADATA_ENTRY_H_
 

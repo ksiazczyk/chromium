@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for optimization guide core
+summary: DEPS file listing the include dependencies permitted for the optimization guide core directory, with extra rules for unit tests and fake model assets.

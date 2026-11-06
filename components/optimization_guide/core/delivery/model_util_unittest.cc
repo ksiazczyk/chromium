@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Model util unit tests
+// summary: Unit tests for model cache key hashing and prediction model version kill switch checks in model_util.
+// ---
+
 #include "components/optimization_guide/core/delivery/model_util.h"
 
 #include <algorithm>

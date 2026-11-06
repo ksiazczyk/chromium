@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings UI registry for Optimization Guide features
+// summary: Declares SettingsUiMetadata and the SettingsUiRegistry singleton that register and look up metadata for features shown on the browser's AI settings page, including their feature key and enterprise policy pref.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_FEATURE_REGISTRY_SETTINGS_UI_REGISTRY_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_FEATURE_REGISTRY_SETTINGS_UI_REGISTRY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prediction model component configs declarations
+// summary: Declares the component delivery feature flag, the PredictionModelComponentConfig class, and helpers to look up Component Updater model configs.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_DELIVERY_PREDICTION_MODEL_COMPONENT_CONFIGS_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_DELIVERY_PREDICTION_MODEL_COMPONENT_CONFIGS_H_
 

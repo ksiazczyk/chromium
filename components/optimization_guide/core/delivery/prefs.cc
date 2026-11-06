@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization guide prediction delivery local state prefs
+// summary: Defines and registers local state preferences for prediction model fetch timing, model store metadata, cache key mapping and file paths pending deletion.
+// ---
+
 #include "components/optimization_guide/core/delivery/prefs.h"
 
 #include "base/time/time.h"

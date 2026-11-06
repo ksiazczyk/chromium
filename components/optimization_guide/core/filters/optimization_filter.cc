@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OptimizationFilter implementation (optimization_filter.cc)
+// summary: Implements GURL matching via bloom filter host suffix checks and regexp matching, with exclusion regexps and optional hashing.
+// ---
+
 #include "components/optimization_guide/core/filters/optimization_filter.h"
 
 #include <string>

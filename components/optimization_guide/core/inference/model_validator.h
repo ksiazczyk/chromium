@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model validator header
+// summary: Declares ModelValidatorHandler and ModelValidatorExecutor used to load and validate optimization guide models in the background.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_INFERENCE_MODEL_VALIDATOR_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_INFERENCE_MODEL_VALIDATOR_H_
 

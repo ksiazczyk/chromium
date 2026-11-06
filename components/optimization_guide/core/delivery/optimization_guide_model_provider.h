@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization Guide model provider interface
+// summary: Defines the OptimizationGuideModelProvider interface for serving models for inference and a scoped observation helper for model updates.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_DELIVERY_OPTIMIZATION_GUIDE_MODEL_PROVIDER_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_DELIVERY_OPTIMIZATION_GUIDE_MODEL_PROVIDER_H_
 

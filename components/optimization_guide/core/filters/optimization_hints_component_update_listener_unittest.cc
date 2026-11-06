@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OptimizationHintsComponentUpdateListener unit tests
+// summary: Unit tests for the hints component update listener covering observer notifications, version-based update handling, and histogram logging.
+// ---
+
 #include "components/optimization_guide/core/filters/optimization_hints_component_update_listener.h"
 
 #include <memory>

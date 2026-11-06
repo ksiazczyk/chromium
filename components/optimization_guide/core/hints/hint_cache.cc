@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HintCache implementation
+// summary: Implements the hint cache that manages host-keyed and URL-keyed hints in memory and persists them through the optional OptimizationGuideStore backing store.
+// ---
+
 #include "components/optimization_guide/core/hints/hint_cache.h"
 
 #include <algorithm>

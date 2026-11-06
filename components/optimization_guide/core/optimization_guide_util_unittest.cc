@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Optimization guide utilities unit tests
+// summary: Unit tests covering ParsedAnyMetadata handling of mismatched types, unparseable values, and valid Any metadata.
+// ---
+
 #include "components/optimization_guide/core/optimization_guide_util.h"
 
 #include "base/test/task_environment.h"

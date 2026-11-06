@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProtoDatabaseProvider test base implementation
+// summary: Implements a gtest fixture base that creates a temporary directory and a ProtoDatabaseProvider in SetUp and releases it in TearDown for tests.
+// ---
+
 #include "components/optimization_guide/core/proto_database_provider_test_base.h"
 
 namespace optimization_guide {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HintsFetcher class header
+// summary: Declares HintsFetcher for requesting hints from the remote Optimization Guide Service, with its request status enum, fetch limits, and command line switches.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_HINTS_HINTS_FETCHER_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_HINTS_HINTS_FETCHER_H_
 

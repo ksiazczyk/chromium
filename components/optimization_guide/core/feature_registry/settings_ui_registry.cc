@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings UI registry implementation
+// summary: Implements SettingsUiMetadata and the SettingsUiRegistry singleton that maps user-visible feature keys to names and enterprise policy prefs for settings UI.
+// ---
+
 #include "components/optimization_guide/core/feature_registry/settings_ui_registry.h"
 
 #include "base/no_destructor.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prediction model fetcher implementation
+// summary: Implements PredictionModelFetcherImpl, sending GetModelsRequest over HTTPS to the Optimization Guide Service and handling responses and retryable errors.
+// ---
+
 #include "components/optimization_guide/core/delivery/prediction_model_fetcher_impl.h"
 
 #include <memory>

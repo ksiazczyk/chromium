@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mediapipe text model executor unit tests
+// summary: Unit tests that execute the page topics MediaPipe model on sample input and verify the top predicted topic category.
+// ---
+
 #include "components/optimization_guide/core/inference/mediapipe_text_model_executor.h"
 
 #include "base/path_service.h"

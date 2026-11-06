@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hints processing utilities implementation
+// summary: Implements helpers that name optimization types, find page hints for URLs, hash hosts for dictionary prefs, and validate URL-keyed hint URLs.
+// ---
+
 #include "components/optimization_guide/core/hints/hints_processing_util.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Optimization Guide logger unit tests
+// summary: Unit tests for the Optimization Guide logger, covering debug log enablement and the buffer overflow warning when older messages are dropped.
+// ---
+
 #include "components/optimization_guide/core/optimization_guide_logger.h"
 
 #include <string>

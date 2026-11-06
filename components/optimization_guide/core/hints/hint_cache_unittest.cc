@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HintCache unit tests
+// summary: Unit tests for HintCache covering initialization, component and fetched hint updates, and hint lookups with and without a persistent store.
+// ---
+
 #include "components/optimization_guide/core/hints/hint_cache.h"
 
 #include <optional>

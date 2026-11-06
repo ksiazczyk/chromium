@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization Guide Hints Profile Prefs
+// summary: Declares profile preference keys for hints fetching and processing and the function that registers them with the pref registry.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_HINTS_PREFS_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_HINTS_PREFS_H_
 

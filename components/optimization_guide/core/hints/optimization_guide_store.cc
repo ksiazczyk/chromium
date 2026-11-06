@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization Guide store implementation
+// summary: Implements OptimizationGuideStore, the LevelDB-backed on-device store that persists component and fetched hints, metadata, and prediction models.
+// ---
+
 #include "components/optimization_guide/core/hints/optimization_guide_store.h"
 
 #include <memory>

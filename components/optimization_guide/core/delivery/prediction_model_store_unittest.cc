@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Prediction model store unit tests
+// summary: Unit tests for PredictionModelStore covering model storage, loading, updates, and removal of invalid model directories.
+// ---
+
 #include "components/optimization_guide/core/delivery/prediction_model_store.h"
 
 #include "base/files/file_util.h"

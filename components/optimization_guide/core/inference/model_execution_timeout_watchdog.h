@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model execution timeout watchdog header
+// summary: Declares ModelExecutionTimeoutWatchdog, which cancels model executions that exceed a set duration and reports timeout metrics.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_INFERENCE_MODEL_EXECUTION_TIMEOUT_WATCHDOG_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_INFERENCE_MODEL_EXECUTION_TIMEOUT_WATCHDOG_H_
 

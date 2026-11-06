@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the prediction model download manager
+// summary: Unit tests covering CRX verification, unzipping, model info parsing, and download failure handling in PredictionModelDownloadManager.
+// ---
+
 #include "components/optimization_guide/core/delivery/prediction_model_download_manager.h"
 
 #include <optional>

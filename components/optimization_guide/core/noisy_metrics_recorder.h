@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Noisy metrics recorder header
+// summary: Declares NoisyMetricsRecorder, which adds randomized bit-flip noise to metric values before they are recorded.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_NOISY_METRICS_RECORDER_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_NOISY_METRICS_RECORDER_H_
 

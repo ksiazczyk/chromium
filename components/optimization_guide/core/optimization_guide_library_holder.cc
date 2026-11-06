@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization Guide shared library holder implementation
+// summary: Loads the optimization_guide_internal native shared library and exposes its function pointers through a singleton holder.
+// ---
+
 #include "components/optimization_guide/core/optimization_guide_library_holder.h"
 
 #include <memory>

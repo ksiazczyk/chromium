@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Push Notification Manager Interface
+// summary: Defines the PushNotificationManager class with delegate and observer interfaces for processing pushed hint payloads and invalidating outdated stored hints.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_HINTS_PUSH_NOTIFICATION_MANAGER_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_HINTS_PUSH_NOTIFICATION_MANAGER_H_
 

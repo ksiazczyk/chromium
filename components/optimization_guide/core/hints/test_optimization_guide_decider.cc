@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestOptimizationGuideDecider implementation
+// summary: Implements a test OptimizationGuideDecider that records registered optimization types and always returns false decisions, for use in unit tests.
+// ---
+
 #include "components/optimization_guide/core/hints/test_optimization_guide_decider.h"
 
 namespace optimization_guide {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prediction model utility function declarations
+// summary: Declares helpers for optimization target names, file path conversion, model file names, cache key hashing, killswitch checks and model info parsing.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_DELIVERY_MODEL_UTIL_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_DELIVERY_MODEL_UTIL_H_
 

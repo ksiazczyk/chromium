@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization guide prediction delivery prefs header
+// summary: Declares the local state preference names and the registration function for prediction model delivery preferences.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_DELIVERY_PREFS_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_DELIVERY_PREFS_H_
 

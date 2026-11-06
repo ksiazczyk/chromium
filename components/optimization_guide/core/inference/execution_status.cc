@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExecutionStatus to string conversion
+// summary: Implements ExecutionStatusToString, mapping each model execution status enum value to its string name.
+// ---
+
 #include "components/optimization_guide/core/inference/execution_status.h"
 
 namespace optimization_guide {

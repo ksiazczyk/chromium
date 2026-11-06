@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLPatternWithWildcards implementation
+// summary: Implements wildcard URL pattern matching by splitting patterns on '*' characters and checking each subpattern in order against a URL string.
+// ---
+
 #include "components/optimization_guide/core/hints/url_pattern_with_wildcards.h"
 
 #include "base/check_op.h"

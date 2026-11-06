@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of optimization guide core files
+summary: OWNERS file assigning per-file review ownership for mojom files to security owners and for the proto util to accessibility owners.

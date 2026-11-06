@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HintCache class header
+// summary: Declares HintCache, which stores component and fetched hints with an MRU host-keyed cache, a URL-keyed cache, and an optional persistent backing store.
+// ---
+
 #ifndef COMPONENTS_OPTIMIZATION_GUIDE_CORE_HINTS_HINT_CACHE_H_
 #define COMPONENTS_OPTIMIZATION_GUIDE_CORE_HINTS_HINT_CACHE_H_
 
