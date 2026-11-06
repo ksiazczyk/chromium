@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the phishing classifier directory
+summary: Lists the include rules restricting which directories the phishing classifier code is allowed to depend on.

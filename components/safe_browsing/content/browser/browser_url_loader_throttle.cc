@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser URL loader throttle implementation
+// summary: Implements the browser-process URL loader throttle that checks URLs and redirect chains with Safe Browsing, defers responses until checks finish, and cancels unsafe loads.
+// ---
+
 #include "components/safe_browsing/content/browser/browser_url_loader_throttle.h"
 
 #include "base/check_op.h"

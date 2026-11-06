@@ -1,0 +1,4 @@
+# Docerion header of empty_file_type_policy.textproto.
+type: data
+title: Empty file type policy textproto reference
+summary: Human-readable copy of the empty file type policy binary proto, kept for reference while the pb file remains the authoritative version.

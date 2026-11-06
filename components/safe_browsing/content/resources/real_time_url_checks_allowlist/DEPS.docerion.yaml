@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for allowlist directory dependencies
+summary: Grants the directory include access to Safe Browsing database and common proto code.

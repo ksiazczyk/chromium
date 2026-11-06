@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client side detection feature cache implementation
+// summary: Implements the per-WebContents user data cache for client-side phishing detection feature verdicts.
+// ---
+
 #include "components/safe_browsing/content/browser/client_side_detection_feature_cache.h"
 
 #include "content/public/browser/web_contents_user_data.h"

@@ -1,0 +1,4 @@
+# Docerion header of safe_browsing.mojom.
+type: source
+title: Safe Browsing Mojo interface definitions
+summary: Defines the Mojo interfaces and structs for Safe Browsing URL checks and threat DOM reporting between the browser and renderers.

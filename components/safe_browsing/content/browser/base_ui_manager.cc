@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseUIManager implementation
+// summary: Implements display of Safe Browsing interstitials and per-tab allowlisted URL set tracking for unsafe resources.
+// ---
+
 #include "components/safe_browsing/content/browser/base_ui_manager.h"
 
 #include <utility>

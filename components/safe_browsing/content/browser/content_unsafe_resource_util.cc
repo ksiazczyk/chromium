@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content unsafe resource utilities implementation
+// summary: Implements helpers that resolve the navigation entry and web contents associated with a Safe Browsing unsafe resource hit.
+// ---
+
 #include "components/safe_browsing/content/browser/content_unsafe_resource_util.h"
 
 #include "components/safe_browsing/content/browser/async_check_tracker.h"

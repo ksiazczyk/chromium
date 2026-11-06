@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File type policies test utility implementation
+// summary: Implements a test overlay that swaps the global download file type policy config and provides helpers for marking files dangerous in tests.
+// ---
+
 #include "components/safe_browsing/content/common/file_type_policies_test_util.h"
 
 #include "base/values.h"

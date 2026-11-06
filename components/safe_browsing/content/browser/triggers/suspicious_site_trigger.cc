@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suspicious site trigger implementation
+// summary: Implements the suspicious site trigger that watches tab-level page load events and suspicious site list hits to create and send reports at the right time.
+// ---
+
 #include "components/safe_browsing/content/browser/triggers/suspicious_site_trigger.h"
 
 #include "base/functional/bind.h"

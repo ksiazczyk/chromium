@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File type policy override API
+// summary: Declares the override result enum and the ShouldOverrideFileTypePolicies helper used to bypass download danger heuristics.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_COMMON_FILE_TYPE_POLICIES_POLICY_UTIL_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_COMMON_FILE_TYPE_POLICIES_POLICY_UTIL_H_
 

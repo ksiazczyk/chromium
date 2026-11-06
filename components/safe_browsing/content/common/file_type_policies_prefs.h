@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File type download warning prefs declaration
+// summary: Declares the exempt domain and file type pairs pref name and the profile pref registration function.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_COMMON_FILE_TYPE_POLICIES_PREFS_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_COMMON_FILE_TYPE_POLICIES_PREFS_H_
 

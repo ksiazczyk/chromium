@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification content detection constant definitions
+// summary: Defines constant strings for the suspicious verdict label, histogram names, website setting keys, and metadata dictionary keys.
+// ---
+
 #include "components/safe_browsing/content/browser/notification_content_detection/notification_content_detection_constants.h"
 
 namespace safe_browsing {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notifications global cache list unit tests
+// summary: Tests domain loading, skip decisions for listed, invalid and empty-list cases, and the related histogram logging.
+// ---
+
 #include "components/safe_browsing/content/browser/notification_content_detection/notifications_global_cache_list.h"
 
 #include "base/test/metrics/histogram_tester.h"

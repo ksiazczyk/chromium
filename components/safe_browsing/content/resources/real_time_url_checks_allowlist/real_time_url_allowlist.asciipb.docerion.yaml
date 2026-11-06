@@ -1,0 +1,4 @@
+# Docerion header of real_time_url_allowlist.asciipb.
+type: data
+title: Real time URL allowlist ASCII proto data
+summary: ASCII protobuf holding the allowlist version_id, scheme_id, and concatenated URL hash prefixes used by Chrome on Android.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content phishing classifier header
+// summary: Declares the content- and Blink-dependent specialization of PhishingClassifier that extracts visual features from a render frame.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_RENDERER_PHISHING_CLASSIFIER_CONTENT_PHISHING_CLASSIFIER_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_RENDERER_PHISHING_CLASSIFIER_CONTENT_PHISHING_CLASSIFIER_H_
 

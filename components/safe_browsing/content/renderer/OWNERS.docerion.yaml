@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for Safe Browsing renderer
+summary: Assigns per-file ownership of the WebSocket Safe Browsing extensions handshake throttle files to a specific reviewer.

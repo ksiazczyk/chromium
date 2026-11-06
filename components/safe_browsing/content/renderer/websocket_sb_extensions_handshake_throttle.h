@@ -6,6 +6,12 @@
 // runs inside the render process, calling the interface defined in
 // safe_browsing.mojom to communicate with the extension telemetry service.
 
+// ---docerion
+// type: source
+// title: WebSocketSBExtensionsHandshakeThrottle class declaration
+// summary: Declares a Safe Browsing WebSocket handshake throttle used for extension telemetry, sending web request data to the browser for WS/WSS requests.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_RENDERER_WEBSOCKET_SB_EXTENSIONS_HANDSHAKE_THROTTLE_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_RENDERER_WEBSOCKET_SB_EXTENSIONS_HANDSHAKE_THROTTLE_H_
 

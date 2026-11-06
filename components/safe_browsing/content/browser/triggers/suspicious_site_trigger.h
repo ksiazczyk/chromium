@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suspicious site trigger header
+// summary: Declares the SuspiciousSiteTrigger class with its event and state enums, and the helper to notify a tab's trigger that a suspicious site was detected.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_TRIGGERS_SUSPICIOUS_SITE_TRIGGER_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_TRIGGERS_SUSPICIOUS_SITE_TRIGGER_H_
 

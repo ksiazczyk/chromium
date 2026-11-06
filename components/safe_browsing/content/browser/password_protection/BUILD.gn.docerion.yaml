@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Password protection build targets
+summary: GN build file defining the password_protection source set and its test target, with conditional sources and dependencies based on safe browsing build flags.

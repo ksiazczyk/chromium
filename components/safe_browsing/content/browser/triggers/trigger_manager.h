@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trigger manager header
+// summary: Declares TriggerManager, which manages Safe Browsing data-reporting triggers by honoring user opt-ins and tracking and throttling how often triggers fire.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_TRIGGERS_TRIGGER_MANAGER_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_TRIGGERS_TRIGGER_MANAGER_H_
 

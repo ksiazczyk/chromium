@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password protection service implementation
+// summary: Implements the content-layer PasswordProtectionService that starts login reputation and password reuse protection requests and tracks password reuse for Safe Browsing.
+// ---
+
 #include "components/safe_browsing/content/browser/password_protection/password_protection_service.h"
 
 #include <stddef.h>

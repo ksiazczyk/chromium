@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebSocket safe browsing extensions handshake throttle unit tests
+// summary: Unit tests verifying that the WebSocket handshake throttle reports extension web request data via a fake Mojo reporter and completes throttling callbacks correctly.
+// ---
+
 #include "components/safe_browsing/content/renderer/websocket_sb_extensions_handshake_throttle.h"
 
 #include <optional>

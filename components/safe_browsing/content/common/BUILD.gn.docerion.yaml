@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Safe Browsing common build targets
+summary: Defines GN build targets for the Safe Browsing mojom interfaces and the file type policy source sets, including test support.

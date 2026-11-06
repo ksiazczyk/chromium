@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for allowlist proto generation and decoder tool
+summary: Defines GN build actions that generate the binary allowlist protobuf for Android and GCS, and builds the v5 Rice decoder tool.

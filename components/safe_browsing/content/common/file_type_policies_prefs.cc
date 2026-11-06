@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File type download warning prefs registration
+// summary: Registers the profile pref listing file type and domain pairs exempt from download file type warnings.
+// ---
+
 #include "components/safe_browsing/content/common/file_type_policies_prefs.h"
 
 #include "components/prefs/pref_registry_simple.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File type policies singleton implementation
+// summary: Implements the leaky singleton that loads download file type policies from the resource bundle and dynamic updates, with not-dangerous override support.
+// ---
+
 #include "components/safe_browsing/content/common/file_type_policies.h"
 
 #include "base/check_op.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notifications global cache list API
+// summary: Declares accessors for the domain list of known safe notification senders and the check for skipping notification protections.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_NOTIFICATION_CONTENT_DETECTION_NOTIFICATIONS_GLOBAL_CACHE_LIST_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_NOTIFICATION_CONTENT_DETECTION_NOTIFICATIONS_GLOBAL_CACHE_LIST_H_
 

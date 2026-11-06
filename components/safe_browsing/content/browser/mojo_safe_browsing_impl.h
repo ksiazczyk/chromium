@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoSafeBrowsingImpl header
+// summary: Declares MojoSafeBrowsingImpl, the Mojo interface through which renderer processes perform Safe Browsing URL checks.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_MOJO_SAFE_BROWSING_IMPL_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_MOJO_SAFE_BROWSING_IMPL_H_
 

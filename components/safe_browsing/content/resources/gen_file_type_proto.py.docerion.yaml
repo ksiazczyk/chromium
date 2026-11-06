@@ -1,0 +1,4 @@
+# Docerion header of gen_file_type_proto.py.
+type: script
+title: Generator for platform-specific binary file types protobuf
+summary: Converts the ASCII download_file_types.asciipb into binary protobufs, pruning and validating platform settings for each target platform.

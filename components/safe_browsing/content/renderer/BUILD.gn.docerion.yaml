@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Safe Browsing renderer build targets (BUILD.gn)
+summary: Defines GN source sets for the Safe Browsing renderer DOM details, URL loader throttles, and their unit tests, gated on Safe Browsing mode and extensions support.

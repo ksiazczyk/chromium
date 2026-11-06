@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the download folder
+summary: Grants the directory permission to include headers from components/download/public/common.

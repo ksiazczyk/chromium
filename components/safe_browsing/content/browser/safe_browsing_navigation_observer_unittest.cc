@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe Browsing navigation observer unit tests
+// summary: Unit tests verifying that navigation events, user gestures, redirects, and content settings are recorded correctly by the navigation observer.
+// ---
+
 #include "components/safe_browsing/content/browser/safe_browsing_navigation_observer.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build file for download file types proto
+summary: Defines the download_file_types_proto GN build target that compiles download_file_types.proto using the protobuf proto_library rules.

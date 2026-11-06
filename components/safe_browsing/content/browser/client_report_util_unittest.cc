@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Client report utilities unit tests
+// summary: Unit tests verifying that threat types, reportable URLs, and interstitial interactions are correctly converted into ClientSafeBrowsingReportRequest reports.
+// ---
+
 #include "components/safe_browsing/content/browser/client_report_util.h"
 #include "components/safe_browsing/core/common/proto/csd.pb.h"
 #include "testing/gtest/include/gtest/gtest.h"

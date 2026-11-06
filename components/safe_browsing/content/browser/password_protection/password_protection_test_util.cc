@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password protection test utilities implementation
+// summary: Implements CreateDummyRequest, a helper that builds a dummy PasswordProtectionRequestContent bound to a WebContents for use in tests.
+// ---
+
 #include "components/safe_browsing/content/browser/password_protection/password_protection_test_util.h"
 
 #include "components/safe_browsing/content/browser/password_protection/mock_password_protection_service.h"

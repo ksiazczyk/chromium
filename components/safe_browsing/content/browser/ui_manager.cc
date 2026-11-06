@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafeBrowsingUIManager implementation
+// summary: Implements SafeBrowsingUIManager, which displays blocking pages for unsafe resources and sends warning-shown reports.
+// ---
+
 #include "components/safe_browsing/content/browser/ui_manager.h"
 
 #include "base/functional/bind.h"

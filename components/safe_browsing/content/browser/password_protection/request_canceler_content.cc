@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content-layer request canceler implementation
+// summary: Implements RequestCancelerContent, which cancels a pending password protection request when its observed WebContents is destroyed.
+// ---
+
 #include "components/safe_browsing/content/browser/password_protection/request_canceler_content.h"
 
 namespace safe_browsing {

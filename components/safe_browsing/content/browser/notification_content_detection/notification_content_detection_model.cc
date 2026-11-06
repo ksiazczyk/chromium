@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification content detection model implementation
+// summary: Runs the BERT-based notification content detection model through the optimization guide, formats notification input, and serializes verdict metadata.
+// ---
+
 #include "components/safe_browsing/content/browser/notification_content_detection/notification_content_detection_model.h"
 
 #include <vector>

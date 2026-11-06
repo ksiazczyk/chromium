@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File type policy override checks
+// summary: Determines when download warnings should be overridden as not dangerous for local files or exempted domain and file type pairs from prefs.
+// ---
+
 #include "components/safe_browsing/content/common/file_type_policies_policy_util.h"
 
 #include "base/strings/string_util.h"

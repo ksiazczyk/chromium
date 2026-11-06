@@ -1,6 +1,13 @@
 // Copyright 2017 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Password protection service unit tests
+// summary: Unit tests for the content-layer PasswordProtectionService covering request triggering, verdict caching, metrics, and navigation deferring behavior.
+// ---
+
 #include "components/safe_browsing/content/browser/password_protection/password_protection_service.h"
 
 #include <memory>

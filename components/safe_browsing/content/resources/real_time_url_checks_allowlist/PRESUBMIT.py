@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Presubmit checks for real time URL allowlist updates
+# summary: Presubmit checks that verify version_id and scheme_id changes in the allowlist ASCII proto are valid.
+# ---
+
 """
 Presubmit checks for SafeBrowsing real_time_url_checks_allowlist.
 """

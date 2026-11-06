@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phishing detection DOM eligibility checks declaration
+// summary: Declares the PhishingProcessStatus enum and CanPerformPhishingDetection to decide whether a frame qualifies for phishing detection.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_RENDERER_PHISHING_CLASSIFIER_PHISHING_DOM_UTILS_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_RENDERER_PHISHING_CLASSIFIER_PHISHING_DOM_UTILS_H_
 

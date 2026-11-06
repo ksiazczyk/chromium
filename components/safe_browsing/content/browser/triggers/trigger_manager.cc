@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trigger manager implementation
+// summary: Implements TriggerManager, which starts and finishes Safe Browsing threat report data collection based on trigger type, user opt-ins, incognito state and Extended Reporting permissions.
+// ---
+
 #include "components/safe_browsing/content/browser/triggers/trigger_manager.h"
 
 #include "base/functional/bind.h"

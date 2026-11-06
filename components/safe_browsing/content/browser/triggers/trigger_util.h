@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trigger utilities header
+// summary: Declares DetectGoogleAd, which heuristically determines whether a render frame host or frame URL corresponds to a Google ad.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_TRIGGERS_TRIGGER_UTIL_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_TRIGGERS_TRIGGER_UTIL_H_
 

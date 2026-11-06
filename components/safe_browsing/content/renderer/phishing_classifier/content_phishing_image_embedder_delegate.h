@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phishing image embedder delegate class declaration
+// summary: Declares the RenderFrame observer and Mojo detector interface that manage phishing image embedding, with event and cancel-reason enums.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_RENDERER_PHISHING_CLASSIFIER_CONTENT_PHISHING_IMAGE_EMBEDDER_DELEGATE_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_RENDERER_PHISHING_CLASSIFIER_CONTENT_PHISHING_IMAGE_EMBEDDER_DELEGATE_H_
 

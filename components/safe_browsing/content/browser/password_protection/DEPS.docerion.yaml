@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Password protection include rules
+summary: DEPS file listing the directories and headers this component may include, with extra allowances for test files.

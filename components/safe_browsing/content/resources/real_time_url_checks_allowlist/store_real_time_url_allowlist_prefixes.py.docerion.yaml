@@ -1,0 +1,4 @@
+# Docerion header of store_real_time_url_allowlist_prefixes.py.
+type: script
+title: Fetcher storing Safe Browsing allowlist hash prefixes
+summary: Fetches allowlist hash prefixes from the Safe Browsing v5 API, decodes them with the Rice decoder tool, and writes them to the asciipb file.

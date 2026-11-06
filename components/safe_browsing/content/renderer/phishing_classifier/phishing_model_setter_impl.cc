@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phishing model setter Mojo implementation
+// summary: Implements the PhishingModelSetter Mojo interface that creates, attaches or clears the phishing TFLite scorer models in the renderer.
+// ---
+
 #include "components/safe_browsing/content/renderer/phishing_classifier/phishing_model_setter_impl.h"
 
 #include "components/safe_browsing/core/common/phishing_classifier/scorer.h"

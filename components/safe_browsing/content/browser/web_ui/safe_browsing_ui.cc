@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing WebUI controller implementation
+// summary: Implements the SafeBrowsingUI controller that sets up the Safe Browsing WebUI data source, registers the message handler and resources, and routes content log messages to the info singleton.
+// ---
+
 #include "components/safe_browsing/content/browser/web_ui/safe_browsing_ui.h"
 
 #include "components/grit/safe_browsing_resources.h"

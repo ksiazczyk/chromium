@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download warning UMA metrics header
+// summary: Declares functions for logging download warning metrics and the UserGestureFileTypeAttributes enum used for UMA histograms.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_DOWNLOAD_DOWNLOAD_STATS_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_DOWNLOAD_DOWNLOAD_STATS_H_
 

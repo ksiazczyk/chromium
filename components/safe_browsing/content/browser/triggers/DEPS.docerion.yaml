@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS
+summary: Chromium DEPS file that allows includes from components/tabs/public and content/public/test within this directory.

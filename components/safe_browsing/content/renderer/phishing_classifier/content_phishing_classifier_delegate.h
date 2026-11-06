@@ -4,6 +4,12 @@
 //
 // This class is used by the RenderView to interact with a PhishingClassifier.
 
+// ---docerion
+// type: source
+// title: Phishing classifier delegate header
+// summary: Declares the RenderFrameObserver delegate connecting page loads to the phishing classifier and defines classifier event metrics.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_RENDERER_PHISHING_CLASSIFIER_CONTENT_PHISHING_CLASSIFIER_DELEGATE_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_RENDERER_PHISHING_CLASSIFIER_CONTENT_PHISHING_CLASSIFIER_DELEGATE_H_
 

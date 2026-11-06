@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phishing detection DOM eligibility checks implementation
+// summary: Implements CanPerformPhishingDetection, which checks that a frame's document is an http or https GET request suitable for phishing detection.
+// ---
+
 #include "components/safe_browsing/content/renderer/phishing_classifier/phishing_dom_utils.h"
 
 #include "third_party/blink/public/web/web_document.h"

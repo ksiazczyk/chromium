@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing controller client header
+// summary: Declares SafeBrowsingControllerClient, which provides embedder-specific logic for the Safe Browsing interstitial page controller.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_SAFE_BROWSING_CONTROLLER_CLIENT_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_SAFE_BROWSING_CONTROLLER_CLIENT_H_
 

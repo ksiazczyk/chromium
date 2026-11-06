@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client side detection host implementation
+// summary: Implements the browser-side host for client-side phishing detection, coordinating the detection service, verdict caching, UI manager, and unsafe resource handling.
+// ---
+
 #include "components/safe_browsing/content/browser/client_side_detection_host.h"
 
 #include <algorithm>

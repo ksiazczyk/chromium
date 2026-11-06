@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for Safe Browsing common
+summary: Assigns per-file owners for mojom files and visual_utils sources in this directory.

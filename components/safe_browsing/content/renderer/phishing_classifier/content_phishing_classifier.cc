@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content phishing classifier implementation
+// summary: Implements the Blink-dependent phishing classifier that starts visual feature extraction and scoring for a render frame.
+// ---
+
 #include "components/safe_browsing/content/renderer/phishing_classifier/content_phishing_classifier.h"
 
 #include <utility>

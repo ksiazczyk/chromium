@@ -4,6 +4,12 @@
 //
 // Implementation of the SafeBrowsingBlockingPage class.
 
+// ---docerion
+// type: source
+// title: SafeBrowsingBlockingPage implementation
+// summary: Implements the Safe Browsing interstitial page shown for malware or phishing hits, handling user decisions, reports, metrics and surveys.
+// ---
+
 #include "components/safe_browsing/content/browser/safe_browsing_blocking_page.h"
 
 #include <memory>

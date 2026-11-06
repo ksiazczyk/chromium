@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test notification content detection model implementation
+// summary: Fake detection model that records inputs and returns fixed suspicious and not suspicious scores for testing.
+// ---
+
 #include "components/safe_browsing/content/browser/notification_content_detection/test_notification_content_detection_model.h"
 
 #include "components/safe_browsing/content/browser/notification_content_detection/notification_content_detection_constants.h"

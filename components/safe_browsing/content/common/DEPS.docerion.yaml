@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for Safe Browsing common
+summary: Restricts which headers this directory may include, allowing core Safe Browsing, Skia, and UI gfx dependencies.

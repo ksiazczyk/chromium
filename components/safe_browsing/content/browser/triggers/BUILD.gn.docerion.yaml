@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn
+summary: GN build configuration defining source sets for the Safe Browsing triggers, throttler, utility, ad sampler, suspicious site trigger and their unit tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafeBrowsingBlockingPageFactory header
+// summary: Declares an abstract factory interface for creating Safe Browsing blocking, enterprise warn and enterprise block interstitial pages.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_SAFE_BROWSING_BLOCKING_PAGE_FACTORY_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_SAFE_BROWSING_BLOCKING_PAGE_FACTORY_H_
 

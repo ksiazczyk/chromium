@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Safe Browsing content WebUI message handler implementation
+// summary: Implements the WebUI message handler for Safe Browsing, serving referrer chain and referring app info requests and managing registration with the WebUI content info singleton.
+// ---
+
 #include "components/safe_browsing/content/browser/web_ui/safe_browsing_content_ui_handler.h"
 
 #include "base/values.h"

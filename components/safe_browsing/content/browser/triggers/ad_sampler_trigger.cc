@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ad sampler trigger implementation
+// summary: Implements the ad sampler trigger that checks loaded pages for Google ads at a configurable sampling frequency and may send an ad sample report via the trigger manager.
+// ---
+
 #include "components/safe_browsing/content/browser/triggers/ad_sampler_trigger.h"
 
 #include <string>

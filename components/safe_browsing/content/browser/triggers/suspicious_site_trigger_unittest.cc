@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Suspicious site trigger unit tests
+// summary: Unit tests for the Safe Browsing suspicious site trigger, covering navigation, monitoring mode and reporting behavior using a mock trigger manager and test preferences.
+// ---
+
 #include "components/safe_browsing/content/browser/triggers/suspicious_site_trigger.h"
 
 #include <memory>

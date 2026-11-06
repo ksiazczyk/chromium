@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing navigation throttle implementation
+// summary: Implements a navigation throttle that shows a Safe Browsing interstitial when an outermost main frame request fails because it was blocked by Safe Browsing.
+// ---
+
 #include "components/safe_browsing/content/browser/safe_browsing_navigation_throttle.h"
 
 #include "base/memory/ptr_util.h"

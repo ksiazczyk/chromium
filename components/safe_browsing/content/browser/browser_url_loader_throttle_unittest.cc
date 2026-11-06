@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser URL loader throttle unit tests
+// summary: Unit tests for BrowserURLLoaderThrottle using mock delegates and fake services to cover URL checks, redirects, deferred responses, and delay metrics.
+// ---
+
 #include "components/safe_browsing/content/browser/browser_url_loader_throttle.h"
 
 #include <string_view>

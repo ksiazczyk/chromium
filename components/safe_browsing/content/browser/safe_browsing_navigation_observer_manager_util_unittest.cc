@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigation observer manager utilities unit tests
+// summary: Unit tests verifying that non-user-gesture referrer chain entries are removed correctly when chains exceed the maximum allowed length.
+// ---
+
 #include "components/safe_browsing/content/browser/safe_browsing_navigation_observer_manager_util.h"
 
 #include "base/logging.h"

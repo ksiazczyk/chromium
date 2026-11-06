@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Notification content detection build targets
+summary: Defines GN source sets and dependencies for the notification content detection component, its global cache list, test utilities, and unit tests.

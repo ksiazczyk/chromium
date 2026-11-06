@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileTypePolicies class declaration
+// summary: Declares the thread-safe FileTypePolicies API for danger levels, ping settings, auto-open rules, and UMA values per file extension.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_COMMON_FILE_TYPE_POLICIES_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_COMMON_FILE_TYPE_POLICIES_H_
 

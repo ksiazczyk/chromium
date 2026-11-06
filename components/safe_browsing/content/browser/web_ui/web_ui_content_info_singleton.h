@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI content info singleton header
+// summary: Declares WebUIContentInfoSingleton, a browser-side singleton extending WebUIInfoSingleton with access to the Safe Browsing service.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_WEB_UI_WEB_UI_CONTENT_INFO_SINGLETON_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_WEB_UI_WEB_UI_CONTENT_INFO_SINGLETON_H_
 

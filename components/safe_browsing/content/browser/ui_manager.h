@@ -5,6 +5,12 @@
 // The Safe Browsing service is responsible for downloading anti-phishing and
 // anti-malware tables and checking urls against them.
 
+// ---docerion
+// type: source
+// title: SafeBrowsingUIManager class declaration
+// summary: Declares SafeBrowsingUIManager and its embedder delegate interface for showing Safe Browsing interstitials and reporting events.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_UI_MANAGER_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_UI_MANAGER_H_
 

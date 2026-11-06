@@ -10,6 +10,12 @@
 // This class is not thread-safe and expects all calls to be made on the UI
 // thread.  We also expect that the calling thread runs a message loop.
 
+// ---docerion
+// type: source
+// title: ClientSideDetectionService header
+// summary: Declares the content implementation of ClientSideDetectionServiceBase, which distributes client-side phishing models to renderers and handles classification requests.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_CLIENT_SIDE_DETECTION_SERVICE_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_CLIENT_SIDE_DETECTION_SERVICE_H_
 

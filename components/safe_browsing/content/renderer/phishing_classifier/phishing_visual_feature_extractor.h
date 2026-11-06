@@ -7,6 +7,12 @@
 // SkBitmap will be created, which will then be used for producing the image
 // embedding feature vector.
 
+// ---docerion
+// type: source
+// title: PhishingVisualFeatureExtractor class header
+// summary: Declares the PhishingVisualFeatureExtractor class that captures renderer frames into an SkBitmap used to produce the image embedding feature vector.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_RENDERER_PHISHING_CLASSIFIER_PHISHING_VISUAL_FEATURE_EXTRACTOR_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_RENDERER_PHISHING_CLASSIFIER_PHISHING_VISUAL_FEATURE_EXTRACTOR_H_
 

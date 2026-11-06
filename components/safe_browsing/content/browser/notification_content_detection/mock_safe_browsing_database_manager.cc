@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock safe browsing database manager implementation
+// summary: Implements a mock database manager that returns preset allowlist results and supports delayed callbacks for tests.
+// ---
+
 #include "components/safe_browsing/content/browser/notification_content_detection/mock_safe_browsing_database_manager.h"
 
 #include "base/functional/callback_helpers.h"

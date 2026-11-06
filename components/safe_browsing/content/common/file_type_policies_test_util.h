@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File type policies test utility header
+// summary: Declares FileTypePoliciesTestOverlay and helper functions for temporarily overriding download file type policies during tests.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_COMMON_FILE_TYPE_POLICIES_TEST_UTIL_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_COMMON_FILE_TYPE_POLICIES_TEST_UTIL_H_
 

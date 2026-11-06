@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocketSBExtensionsHandshakeThrottle implementation
+// summary: Implements the WebSocket handshake throttle that reports WS/WSS requests from extensions or content scripts to the extension web request reporter.
+// ---
+
 #include "components/safe_browsing/content/renderer/websocket_sb_extensions_handshake_throttle.h"
 
 #include "extensions/common/constants.h"

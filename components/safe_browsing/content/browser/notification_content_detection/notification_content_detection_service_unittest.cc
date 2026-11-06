@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification content detection service unit tests
+// summary: Unit tests for the service covering global cache list and database allowlist gating of notification model checks with mocked dependencies.
+// ---
+
 #include "components/safe_browsing/content/browser/notification_content_detection/notification_content_detection_service.h"
 
 #include "base/base_paths.h"

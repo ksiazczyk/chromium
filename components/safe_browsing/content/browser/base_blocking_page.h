@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseBlockingPage class declaration
+// summary: Declares the base class for managing Safe Browsing interstitial pages, unsafe resource lists, and controller client creation.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_BASE_BLOCKING_PAGE_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_BASE_BLOCKING_PAGE_H_
 

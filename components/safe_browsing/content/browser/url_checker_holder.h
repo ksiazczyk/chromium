@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlCheckerHolder class declaration
+// summary: Declares UrlCheckerHolder, a wrapper that starts Safe Browsing URL checks and manages callbacks and redirect chains.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_URL_CHECKER_HOLDER_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_URL_CHECKER_HOLDER_H_
 

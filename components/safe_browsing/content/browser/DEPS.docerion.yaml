@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Safe Browsing browser include rules
+summary: DEPS file listing the include dependencies allowed for the Safe Browsing content browser directory.

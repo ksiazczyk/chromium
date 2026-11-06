@@ -4,6 +4,12 @@
 //
 // Implementation of the ThreatDetailsRedirectsCollector class.
 
+// ---docerion
+// type: source
+// title: ThreatDetailsHistory implementation
+// summary: Implements ThreatDetailsRedirectsCollector, which queries the history service for redirect chains of URLs in threat reports.
+// ---
+
 #include "components/safe_browsing/content/browser/threat_details_history.h"
 
 #include <stddef.h>

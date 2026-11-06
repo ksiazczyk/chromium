@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing tab observer implementation
+// summary: Implements a per-tab observer that creates or removes the client side detection host as the Safe Browsing preference changes.
+// ---
+
 #include "components/safe_browsing/content/browser/safe_browsing_tab_observer.h"
 
 #include "base/functional/bind.h"
