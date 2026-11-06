@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for credential suggestion bottom sheet tests
+summary: Defines the Earl Grey EG2 test target and the app and test support source sets for the credential suggestion bottom sheet tests.

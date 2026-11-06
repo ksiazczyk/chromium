@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Lists the code owner (vincb@google.com) responsible for the password_suggestion directory.

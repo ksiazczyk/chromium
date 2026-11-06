@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password breach mediator header
+// summary: Declares the mediator that manages the state and interactions of the password breach dialog consumer, with a disconnect method for cleanup logging.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PASSWORDS_PASSWORD_BREACH_COORDINATOR_PASSWORD_BREACH_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_PASSWORDS_PASSWORD_BREACH_COORDINATOR_PASSWORD_BREACH_MEDIATOR_H_
 

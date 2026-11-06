@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password breach view controller interface
+// summary: Declares PasswordBreachViewController, a confirmation alert view controller that conforms to the PasswordBreachConsumer protocol.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PASSWORDS_PASSWORD_BREACH_UI_PASSWORD_BREACH_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_PASSWORDS_PASSWORD_BREACH_UI_PASSWORD_BREACH_VIEW_CONTROLLER_H_
 

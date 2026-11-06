@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS Chrome actor login delegate client header
+// summary: Declares the iOS-specific ActorLoginDelegateClient that connects WebState, password manager, prefs, translate and UKM services to the actor login feature.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PASSWORDS_MODEL_ACTOR_LOGIN_IOS_CHROME_ACTOR_LOGIN_DELEGATE_CLIENT_H_
 #define IOS_CHROME_BROWSER_PASSWORDS_MODEL_ACTOR_LOGIN_IOS_CHROME_ACTOR_LOGIN_DELEGATE_CLIENT_H_
 

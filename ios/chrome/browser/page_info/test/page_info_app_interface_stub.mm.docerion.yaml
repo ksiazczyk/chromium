@@ -1,0 +1,4 @@
+# Docerion header of page_info_app_interface_stub.mm.
+type: test
+title: PageInfoAppInterface stub
+summary: Provides a stubbed PageInfoAppInterface for the Earl Grey app main queue when the real app support is not linked.

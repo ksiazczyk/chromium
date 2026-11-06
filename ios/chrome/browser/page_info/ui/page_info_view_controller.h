@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page Info view controller header
+// summary: Declares the main page info view controller for iOS Chrome, consuming site security, about-this-site, history, and permissions data.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PAGE_INFO_UI_PAGE_INFO_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_PAGE_INFO_UI_PAGE_INFO_VIEW_CONTROLLER_H_
 

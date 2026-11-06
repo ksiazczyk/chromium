@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the bottom sheet UI
+summary: Allows sources in this folder to include the create password manager title view header.

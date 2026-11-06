@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page Info site security description header
+// summary: Declares PageInfoSiteSecurityDescription, a config object holding the site URL, security status, message, icon, and loading state for the Site Security section.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PAGE_INFO_UI_PAGE_INFO_SITE_SECURITY_DESCRIPTION_H_
 #define IOS_CHROME_BROWSER_PAGE_INFO_UI_PAGE_INFO_SITE_SECURITY_DESCRIPTION_H_
 

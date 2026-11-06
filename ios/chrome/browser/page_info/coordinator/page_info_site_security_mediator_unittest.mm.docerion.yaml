@@ -1,0 +1,4 @@
+# Docerion header of page_info_site_security_mediator_unittest.mm.
+type: test
+title: Page info site security mediator unit tests
+summary: Unit tests checking site security configuration for Chrome internal pages, standard web pages, internationalized domain names, and the navigation item title view.

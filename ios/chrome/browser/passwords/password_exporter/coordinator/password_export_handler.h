@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordExportHandler protocol for export UI actions
+// summary: Declares a protocol for showing the share sheet, error alerts, preparing-passwords alerts and passcode dialogs during the password export flow.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PASSWORDS_PASSWORD_EXPORTER_COORDINATOR_PASSWORD_EXPORT_HANDLER_H_
 #define IOS_CHROME_BROWSER_PASSWORDS_PASSWORD_EXPORTER_COORDINATOR_PASSWORD_EXPORT_HANDLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of web_payments_metrics_recorder.mm.
+type: source
+title: WebPaymentsMetricsRecorder implementation
+summary: Implements recording of 3D-Secure challenge telemetry histograms and UKM events from subframe form submissions, deduplicating repeated 307/308 redirects.

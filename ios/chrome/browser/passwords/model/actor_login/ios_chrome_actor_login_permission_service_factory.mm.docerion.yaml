@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_actor_login_permission_service_factory.mm.
+type: source
+title: Actor login permission service factory implementation
+summary: Builds the actor login permission service per profile from the identity manager and the shared URL loader factory.

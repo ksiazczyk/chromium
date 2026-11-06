@@ -1,0 +1,4 @@
+# Docerion header of notify_auto_signin_view_controller.mm.
+type: source
+title: Notify auto sign-in view controller implementation
+summary: Implements the auto sign-in notification view, including avatar image fetching and the signing-in-as message UI.

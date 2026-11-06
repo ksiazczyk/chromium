@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordExporter testing category
+// summary: Test-only category on PasswordExporter that lets unit tests inject fake serializer bridge and file writer implementations.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PASSWORDS_PASSWORD_EXPORTER_COORDINATOR_PASSWORD_EXPORTER_FOR_TESTING_H_
 #define IOS_CHROME_BROWSER_PASSWORDS_PASSWORD_EXPORTER_COORDINATOR_PASSWORD_EXPORTER_FOR_TESTING_H_
 

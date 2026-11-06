@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password breach app interface header
+// summary: Declares the PasswordBreachAppInterface test helper that presents the password breach UI with an optional check-passwords button for Earl Grey tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PASSWORDS_PASSWORD_BREACH_TEST_PASSWORD_BREACH_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_PASSWORDS_PASSWORD_BREACH_TEST_PASSWORD_BREACH_APP_INTERFACE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential suggestion bottom sheet delegate protocol
+// summary: Declares the delegate for disabling the bottom sheet and loading favicons for its cells.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PASSWORDS_BOTTOM_SHEET_UI_CREDENTIAL_SUGGESTION_BOTTOM_SHEET_DELEGATE_H_
 #define IOS_CHROME_BROWSER_PASSWORDS_BOTTOM_SHEET_UI_CREDENTIAL_SUGGESTION_BOTTOM_SHEET_DELEGATE_H_
 

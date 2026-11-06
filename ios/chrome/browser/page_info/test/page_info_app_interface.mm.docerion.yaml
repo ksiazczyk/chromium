@@ -1,0 +1,4 @@
+# Docerion header of page_info_app_interface.mm.
+type: test
+title: PageInfoAppInterface implementation
+summary: Implements adding AboutThisSite optimization hints with site descriptions and URLs so Page Info tests can exercise site info UI.

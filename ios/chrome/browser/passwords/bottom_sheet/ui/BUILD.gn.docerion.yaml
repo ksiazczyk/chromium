@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Passwords bottom sheet UI build targets
+summary: Defines the ui source set and the unit_tests target for the credential suggestion and passkey creation bottom sheets.

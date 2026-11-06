@@ -1,0 +1,4 @@
+# Docerion header of passkey_suggestion_bottom_sheet_mediator.mm.
+type: source
+title: Passkey suggestion bottom sheet mediator implementation
+summary: Implements the passkey suggestion mediator, loading available passkeys from the WebAuthn credentials delegate and handling selection.

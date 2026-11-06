@@ -1,0 +1,4 @@
+# Docerion header of page_info_about_this_site_mediator.mm.
+type: source
+title: Page info About This Site mediator implementation
+summary: Fetches About This Site information for the current navigation item and dispatches the summary and more-about URL to the consumer.

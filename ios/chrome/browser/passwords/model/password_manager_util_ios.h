@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager sync encryption utility header
+// summary: Declares the password_manager_util helper that reports whether passwords sync to a Google Account with normal encryption.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PASSWORDS_MODEL_PASSWORD_MANAGER_UTIL_IOS_H_
 #define IOS_CHROME_BROWSER_PASSWORDS_MODEL_PASSWORD_MANAGER_UTIL_IOS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of partial_translate_mediator.mm.
+type: source
+title: Partial translate mediator implementation
+summary: Implements partial translate edit menu handling, including selection length limits, error alerts, full page translate fallback, and outcome histograms.

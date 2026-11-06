@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for page info features
+summary: Declares the include rules for this directory, allowing imports of the core page_info features header.

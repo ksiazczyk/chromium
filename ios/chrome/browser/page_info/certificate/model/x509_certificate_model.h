@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X509CertificateModel class header
+// summary: Declares the X509CertificateModel class with accessors for fingerprints, subject and issuer names, keys, signature data, and extensions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PAGE_INFO_CERTIFICATE_MODEL_X509_CERTIFICATE_MODEL_H_
 #define IOS_CHROME_BROWSER_PAGE_INFO_CERTIFICATE_MODEL_X509_CERTIFICATE_MODEL_H_
 

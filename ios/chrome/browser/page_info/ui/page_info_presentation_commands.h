@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page info presentation commands
+// summary: Declares commands for showing security, help, AboutThisSite and Last Visited pages within the page info UI.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PAGE_INFO_UI_PAGE_INFO_PRESENTATION_COMMANDS_H_
 #define IOS_CHROME_BROWSER_PAGE_INFO_UI_PAGE_INFO_PRESENTATION_COMMANDS_H_
 

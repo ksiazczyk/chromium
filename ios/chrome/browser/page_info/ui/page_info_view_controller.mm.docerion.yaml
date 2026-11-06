@@ -1,0 +1,4 @@
+# Docerion header of page_info_view_controller.mm.
+type: source
+title: Page Info view controller implementation
+summary: Implements the main page info view controller, building table view sections for security, camera and microphone permissions, about this site, and last visited history.

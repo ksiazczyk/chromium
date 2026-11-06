@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Lists rgod@google.com as the code owner for the password_exporter directory.

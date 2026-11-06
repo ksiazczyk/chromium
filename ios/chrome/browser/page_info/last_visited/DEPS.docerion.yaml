@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for last_visited
+summary: Specifies the allowed header includes for the last_visited directory, permitting page_info_action.h and iOS Chrome history code.

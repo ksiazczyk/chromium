@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password sender service factory implementation
+// summary: Implements the profile-keyed factory that builds the PasswordSenderService for outgoing password sharing invitation sync.
+// ---
+
 #include "ios/chrome/browser/passwords/model/ios_chrome_password_sender_service_factory.h"
 
 #include "components/password_manager/core/browser/sharing/outgoing_password_sharing_invitation_sync_bridge.h"

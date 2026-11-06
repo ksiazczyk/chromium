@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager log router factory implementation
+// summary: Implements the profile-keyed factory that builds an autofill LogRouter service for password manager internals logging in iOS Chrome.
+// ---
+
 #include "ios/chrome/browser/passwords/model/password_manager_log_router_factory.h"
 
 #include <memory>

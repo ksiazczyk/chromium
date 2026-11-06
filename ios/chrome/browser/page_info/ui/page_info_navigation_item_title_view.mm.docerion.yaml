@@ -1,0 +1,4 @@
+# Docerion header of page_info_navigation_item_title_view.mm.
+type: source
+title: Navigation item title view implementation
+summary: Builds the title and URL labels for the page info navigation item, truncating the URL so the domain stays visible.

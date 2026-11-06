@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page info About This Site mediator interface
+// summary: Declares a mediator that supplies About This Site data from the AboutThisSiteService to the page info view consumer.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PAGE_INFO_COORDINATOR_PAGE_INFO_ABOUT_THIS_SITE_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_PAGE_INFO_COORDINATOR_PAGE_INFO_ABOUT_THIS_SITE_MEDIATOR_H_
 

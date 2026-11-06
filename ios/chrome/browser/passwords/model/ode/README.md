@@ -1,3 +1,9 @@
+---
+type: readme
+title: On-Device Encryption (ODE)
+summary: Explains that the directory holds iOS-specific implementations and factories for tracking and reporting on-device encryption state, pointing to the cross-platform core.
+---
+
 # On-Device Encryption (ODE)
 
 This directory contains iOS-specific implementations and factories for

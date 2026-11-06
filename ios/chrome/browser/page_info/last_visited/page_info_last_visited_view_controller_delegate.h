@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageInfoLastVisitedViewControllerDelegate protocol
+// summary: Declares the delegate protocol with a displayFullHistory method that notifies the coordinator to show the full history.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PAGE_INFO_LAST_VISITED_PAGE_INFO_LAST_VISITED_VIEW_CONTROLLER_DELEGATE_H_
 #define IOS_CHROME_BROWSER_PAGE_INFO_LAST_VISITED_PAGE_INFO_LAST_VISITED_VIEW_CONTROLLER_DELEGATE_H_
 

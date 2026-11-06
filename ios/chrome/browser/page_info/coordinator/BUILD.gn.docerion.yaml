@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the page info coordinator
+summary: Defines the coordinator source set and unit test targets with their sources, dependencies and frameworks for the iOS page info coordinator.

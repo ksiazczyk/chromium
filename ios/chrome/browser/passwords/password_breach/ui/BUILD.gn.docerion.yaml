@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Password breach UI build target definition
+summary: Defines the GN source_set for the password breach UI, listing its Objective-C sources, dependency targets, and the UIKit framework.

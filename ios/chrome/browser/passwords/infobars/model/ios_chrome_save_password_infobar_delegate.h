@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save password infobar delegate class declaration
+// summary: Declares the delegate for the save or update password infobar, with credential accessors, infobar lifecycle hooks, and metrics-related interfaces.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PASSWORDS_INFOBARS_MODEL_IOS_CHROME_SAVE_PASSWORD_INFOBAR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_PASSWORDS_INFOBARS_MODEL_IOS_CHROME_SAVE_PASSWORD_INFOBAR_DELEGATE_H_
 

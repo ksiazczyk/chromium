@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Password breach Earl Grey test build targets (BUILD.gn)
+summary: Defines GN test-only source sets for the password breach app interface, its stub, and the EG2 Earl Grey tests with their dependencies.

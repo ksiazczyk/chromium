@@ -1,0 +1,4 @@
+# Docerion header of features.mm.
+type: source
+title: Implementation of the AboutThisSite feature check
+summary: Implements IsAboutThisSiteFeatureEnabled by delegating to the core page_info check using the current application locale tag.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for iOS save password infobar test mocks
+summary: GN build file defining the testonly source set that bundles the mock save password infobar delegate sources and their dependencies.

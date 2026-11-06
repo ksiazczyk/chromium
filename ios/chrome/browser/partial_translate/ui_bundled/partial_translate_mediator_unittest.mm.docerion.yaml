@@ -1,0 +1,4 @@
+# Docerion header of partial_translate_mediator_unittest.mm.
+type: test
+title: Partial translate mediator unit tests
+summary: Unit tests for the partial translate mediator covering feature enablement, selection handling, alerts, and outcome metrics using fake controllers.

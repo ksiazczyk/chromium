@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS X.509 certificate model implementation
+// summary: Implements the iOS X.509 certificate model, parsing certificate fields, extensions, and OIDs for the page info certificate viewer.
+// ---
+
 #include "ios/chrome/browser/page_info/certificate/model/x509_certificate_model.h"
 
 #include <array>

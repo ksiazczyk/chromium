@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_actor_login_delegate_client.mm.
+type: source
+title: iOS Chrome actor login delegate client implementation
+summary: Implements the iOS actor login delegate client, wiring the password tab helper, password manager drivers, translate manager and web state navigation events.

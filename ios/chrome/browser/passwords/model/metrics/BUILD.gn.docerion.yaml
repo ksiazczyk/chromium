@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for iOS password manager metrics
+summary: Defines GN source sets for the password manager metrics code and its unit tests with their dependencies.

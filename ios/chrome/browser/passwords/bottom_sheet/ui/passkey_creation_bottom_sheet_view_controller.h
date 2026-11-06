@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkey creation bottom sheet view controller header
+// summary: Declares the PasskeyCreationBottomSheetViewController, a bottom sheet view controller for passkey creation with a handler and favicon loader initializer.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PASSWORDS_BOTTOM_SHEET_UI_PASSKEY_CREATION_BOTTOM_SHEET_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_PASSWORDS_BOTTOM_SHEET_UI_PASSKEY_CREATION_BOTTOM_SHEET_VIEW_CONTROLLER_H_
 

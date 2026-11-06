@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_actor_login_permission_cleaning_service_factory.mm.
+type: source
+title: Actor login permission cleaning service factory implementation
+summary: Builds the actor login permission cleaning service per profile from the permission service and the profile and account password stores.

@@ -1,0 +1,4 @@
+# Docerion header of passkey_creation_bottom_sheet_mediator_unittest.mm.
+type: test
+title: Passkey creation bottom sheet mediator unit tests
+summary: Unit tests for the passkey creation bottom sheet mediator using fake web states, a test passkey model, and mocked reauthentication.

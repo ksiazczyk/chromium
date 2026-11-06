@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AboutThisSite info model
+// summary: Declares a model object holding a page summary and a link with more information about the page.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PAGE_INFO_UI_PAGE_INFO_ABOUT_THIS_SITE_INFO_H_
 #define IOS_CHROME_BROWSER_PAGE_INFO_UI_PAGE_INFO_ABOUT_THIS_SITE_INFO_H_
 

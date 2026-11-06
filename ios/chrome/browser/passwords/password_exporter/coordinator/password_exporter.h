@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordExporter interface and supporting protocols
+// summary: Declares the PasswordExporter class, export state and write status enums, and the delegate, serializer and file writer protocols used to export passwords on iOS.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PASSWORDS_PASSWORD_EXPORTER_COORDINATOR_PASSWORD_EXPORTER_H_
 #define IOS_CHROME_BROWSER_PASSWORDS_PASSWORD_EXPORTER_COORDINATOR_PASSWORD_EXPORTER_H_
 

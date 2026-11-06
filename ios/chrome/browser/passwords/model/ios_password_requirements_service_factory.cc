@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSPasswordRequirementsServiceFactory implementation
+// summary: Builds a PasswordRequirementsService for each profile using the profile's shared URL loader factory.
+// ---
+
 #include "ios/chrome/browser/passwords/model/ios_password_requirements_service_factory.h"
 
 #include "components/password_manager/core/browser/password_requirements_service.h"

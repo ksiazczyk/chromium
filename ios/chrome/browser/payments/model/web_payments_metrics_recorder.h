@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebPaymentsMetricsRecorder class declaration
+// summary: Declares a WebState policy decider that records anonymized 3D-Secure payment flow metrics without capturing personal or transaction details.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PAYMENTS_MODEL_WEB_PAYMENTS_METRICS_RECORDER_H_
 #define IOS_CHROME_BROWSER_PAYMENTS_MODEL_WEB_PAYMENTS_METRICS_RECORDER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the ODE directory
+summary: Delegates code ownership to the shared OWNERS file of the cross-platform on-device encryption component.

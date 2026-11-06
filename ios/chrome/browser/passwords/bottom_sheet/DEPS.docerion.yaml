@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the passwords bottom sheet directory
+summary: Defines the allowed include directories for ios/chrome/browser/passwords/bottom_sheet, listing model and public headers it may depend on.

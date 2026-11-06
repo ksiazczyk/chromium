@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Partial translate app interface declaration
+// summary: Declares the Earl Grey app interface used to check whether partial translate is installed.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PARTIAL_TRANSLATE_UI_BUNDLED_PARTIAL_TRANSLATE_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_PARTIAL_TRANSLATE_UI_BUNDLED_PARTIAL_TRANSLATE_APP_INTERFACE_H_
 

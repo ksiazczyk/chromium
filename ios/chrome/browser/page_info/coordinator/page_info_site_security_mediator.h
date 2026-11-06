@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page info site security mediator interface
+// summary: Declares PageInfoSiteSecurityMediator, which builds the site security description displayed by the page info view controller from a web state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PAGE_INFO_COORDINATOR_PAGE_INFO_SITE_SECURITY_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_PAGE_INFO_COORDINATOR_PAGE_INFO_SITE_SECURITY_MEDIATOR_H_
 

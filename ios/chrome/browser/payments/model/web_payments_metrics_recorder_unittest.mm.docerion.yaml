@@ -1,0 +1,4 @@
+# Docerion header of web_payments_metrics_recorder_unittest.mm.
+type: test
+title: WebPaymentsMetricsRecorder unit tests
+summary: Unit tests verifying 3D-Secure challenge request, response, and redirect metrics using fake web states, histogram testers, and a test UKM recorder.

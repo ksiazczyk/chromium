@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordStoreIOS class header
+// summary: Declares PasswordStoreIOS, a PasswordStore subclass that reports password store metrics for regular profiles after a 30-second startup delay.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PASSWORDS_MODEL_IOS_PASSWORD_STORE_H_
 #define IOS_CHROME_BROWSER_PASSWORDS_MODEL_IOS_PASSWORD_STORE_H_
 

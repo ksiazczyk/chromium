@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the page info features target
+summary: Defines the GN source_set for the page info features module, listing features.h and features.mm as sources and declaring public dependencies such as base and page_info core.

@@ -1,0 +1,4 @@
+# Docerion header of features.mm.
+type: source
+title: Password manager feature flags
+summary: Defines base feature flags for the iOS password manager, such as crowdsourcing uploads and the saved password infobar.

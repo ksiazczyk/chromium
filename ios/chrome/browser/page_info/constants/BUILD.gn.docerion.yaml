@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for page info constants
+summary: GN build file defining the constants source_set that compiles page_info_constants.h and page_info_constants.mm.

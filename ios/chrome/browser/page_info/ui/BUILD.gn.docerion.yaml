@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Page info UI build definition
+summary: Defines the source set, dependencies and frameworks for the iOS page info UI build target.

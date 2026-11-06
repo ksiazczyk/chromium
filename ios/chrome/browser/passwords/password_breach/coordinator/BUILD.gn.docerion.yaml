@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn
+summary: GN build definition for the password breach coordinator source set, listing its sources, dependencies and the UIKit framework.

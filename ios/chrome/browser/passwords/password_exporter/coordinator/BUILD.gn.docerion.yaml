@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn targets for the password exporter coordinator
+summary: GN build file defining the coordinator, test_support and unit_tests source sets with their sources and dependencies for the iOS password export feature.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the page info model
+summary: Declares the allowed dependency includes for page_info core, optimization guide model, and search engines model.

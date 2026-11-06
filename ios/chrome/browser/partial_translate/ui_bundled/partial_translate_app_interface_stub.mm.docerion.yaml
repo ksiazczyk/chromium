@@ -1,0 +1,4 @@
+# Docerion header of partial_translate_app_interface_stub.mm.
+type: test
+title: Partial translate app interface stub
+summary: Provides a stub app interface class for Earl Grey test runs where the app-side implementation is not linked.

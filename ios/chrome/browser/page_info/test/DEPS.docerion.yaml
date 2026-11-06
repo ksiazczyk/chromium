@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Page Info test include rules
+summary: Declares the allowed include paths for the Page Info test directory.
