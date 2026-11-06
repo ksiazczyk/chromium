@@ -1,0 +1,4 @@
+# Docerion header of field_trial_recorder.mojom.
+type: source
+title: FieldTrialRecorder Mojo interface
+summary: Mojo interface through which renderers report field trial activations to the browser.

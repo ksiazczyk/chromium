@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CdmInfo implementation
+// summary: Implements the CdmInfo class constructors that describe Content Decryption Module key systems, capabilities, versions and paths.
+// ---
+
 #include "content/public/common/cdm_info.h"
 
 #include "base/check.h"

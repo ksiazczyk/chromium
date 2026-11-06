@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows font cache dispatcher
+// summary: Implements the Windows FontCacheDispatcher that pre-caches and reference-counts GDI fonts on behalf of renderers.
+// ---
+
 #include "content/public/common/font_cache_dispatcher_win.h"
 
 #include <algorithm>

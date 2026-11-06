@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceWrapper JNI declarations
+// summary: Declares JNI entry points for the Android SurfaceWrapper, covering creation from surfaces or SurfaceControls and queries for surface, SurfaceControl and browser input token.
+// ---
+
 #ifndef CONTENT_COMMON_ANDROID_SURFACE_WRAPPER_H_
 #define CONTENT_COMMON_ANDROID_SURFACE_WRAPPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic smooth drag gesture parameters implementation
+// summary: Implements constructors, destructor and the gesture type accessor for smooth drag gesture parameters, copying start point, distances and speed.
+// ---
+
 #include "content/common/input/synthetic_smooth_drag_gesture_params.h"
 
 #include "base/check_op.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageState Mojo traits header
+// summary: Defines Mojo StructTraits that serialize blink::PageState to and from the content.mojom.PageState encoded data format.
+// ---
+
 #ifndef CONTENT_COMMON_PAGE_STATE_MOJOM_TRAITS_H_
 #define CONTENT_COMMON_PAGE_STATE_MOJOM_TRAITS_H_
 

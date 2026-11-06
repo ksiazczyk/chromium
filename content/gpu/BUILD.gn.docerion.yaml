@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for content/gpu
+summary: GN build definition for the content GPU process, grouping the gpu target and its sources with platform-specific dependencies.

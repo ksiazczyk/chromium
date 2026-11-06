@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Forwarded race network request URL loader factory implementation
+// summary: Implements the RaceNetworkRequest URLLoaderFactory, proxying the loader control pipe to block renderer-driven redirects while forwarding priority changes and falling back to a regular loader.
+// ---
+
 #include "content/common/service_worker/forwarded_race_network_request_url_loader_factory.h"
 
 #include "base/debug/crash_logging.h"

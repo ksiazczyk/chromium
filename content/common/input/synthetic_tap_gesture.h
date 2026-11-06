@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic tap gesture class declaration
+// summary: Declares the SyntheticTapGesture class with its gesture states and pointer driver used to synthesize tap input events.
+// ---
+
 #ifndef CONTENT_COMMON_INPUT_SYNTHETIC_TAP_GESTURE_H_
 #define CONTENT_COMMON_INPUT_SYNTHETIC_TAP_GESTURE_H_
 

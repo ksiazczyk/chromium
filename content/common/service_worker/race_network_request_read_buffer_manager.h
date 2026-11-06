@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Race network request read buffer manager header
+// summary: Declares a manager that watches a Mojo data pipe consumer and exposes read, consume and remaining-buffer operations for RaceNetworkRequest responses.
+// ---
+
 #ifndef CONTENT_COMMON_SERVICE_WORKER_RACE_NETWORK_REQUEST_READ_BUFFER_MANAGER_H_
 #define CONTENT_COMMON_SERVICE_WORKER_RACE_NETWORK_REQUEST_READ_BUFFER_MANAGER_H_
 

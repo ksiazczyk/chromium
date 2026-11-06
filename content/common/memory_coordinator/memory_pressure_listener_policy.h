@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory pressure listener policy class declaration
+// summary: Declares MemoryPressureListenerPolicy, a policy that listens for memory pressure notifications and updates memory limits of consumers in the current process.
+// ---
+
 #ifndef CONTENT_COMMON_MEMORY_COORDINATOR_MEMORY_PRESSURE_LISTENER_POLICY_H_
 #define CONTENT_COMMON_MEMORY_COORDINATOR_MEMORY_PRESSURE_LISTENER_POLICY_H_
 

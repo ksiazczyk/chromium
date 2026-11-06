@@ -1,0 +1,4 @@
+# Docerion header of attributed_string_type_converters_unittest.mm.
+type: test
+title: Attributed string type converters unit tests
+summary: Tests round-trip conversion of attributed strings, covering simple strings, missing attributes, color stripping, and multiple fonts.

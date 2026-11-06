@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI loading utilities unit tests
+// summary: Parameterized unit tests verifying byte-range parsing errors and data sending behavior of the WebUI loading utilities.
+// ---
+
 #include "content/common/web_ui_loading_util.h"
 
 #include <cstdint>

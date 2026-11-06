@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic touchscreen pinch gesture class declaration
+// summary: Declares the SyntheticTouchscreenPinchGesture class, which simulates touchscreen pinch gestures using a synthetic pointer driver.
+// ---
+
 #ifndef CONTENT_COMMON_INPUT_SYNTHETIC_TOUCHSCREEN_PINCH_GESTURE_H_
 #define CONTENT_COMMON_INPUT_SYNTHETIC_TOUCHSCREEN_PINCH_GESTURE_H_
 

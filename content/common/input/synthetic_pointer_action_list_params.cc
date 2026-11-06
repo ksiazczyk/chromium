@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic pointer action list parameters implementation
+// summary: Implements SyntheticPointerActionListParams, which stores grouped lists of pointer action parameters for the pointer action list gesture type.
+// ---
+
 #include "content/common/input/synthetic_pointer_action_list_params.h"
 
 #include "base/check_op.h"

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: WebID directory owners
+summary: Delegates ownership reviews for this directory to the OWNERS file of content/browser/webid.

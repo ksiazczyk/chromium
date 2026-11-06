@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic mouse driver implementation
+// summary: Implements the synthetic mouse pointer driver, building and dispatching mouse press, move, release and leave events with click counting and modifier tracking.
+// ---
+
 #include "content/common/input/synthetic_mouse_driver.h"
 
 #include "base/memory/weak_ptr.h"

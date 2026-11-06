@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ServiceWorkerRaceNetworkRequestURLLoaderClient unit tests
+// summary: Unit tests for ServiceWorkerRaceNetworkRequestURLLoaderClient covering response commit, redirect handling, and data transfer behavior using a mock service worker resource loader.
+// ---
+
 #include "content/common/service_worker/race_network_request_url_loader_client.h"
 
 #include "base/containers/span.h"

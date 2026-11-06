@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content path provider
+// summary: Registers a path provider resolving content-specific paths like the child process executable and test data.
+// ---
+
 #include "content/public/common/content_paths.h"
 
 #include "base/files/file_util.h"

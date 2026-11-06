@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryConsumerGroupController interface
+// summary: Declares an interface for external components to control consumer groups and receive host, group, and memory limit change notifications.
+// ---
+
 #ifndef CONTENT_COMMON_MEMORY_COORDINATOR_MEMORY_CONSUMER_GROUP_CONTROLLER_H_
 #define CONTENT_COMMON_MEMORY_COORDINATOR_MEMORY_CONSUMER_GROUP_CONTROLLER_H_
 

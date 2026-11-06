@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System policy header
+// summary: Declares MachTaskPortPolicy and functions to query the Mach task port policy and set system policy crash keys.
+// ---
+
 #ifndef CONTENT_COMMON_MAC_SYSTEM_POLICY_H_
 #define CONTENT_COMMON_MAC_SYSTEM_POLICY_H_
 

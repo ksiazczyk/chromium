@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic gesture controller implementation
+// summary: Implements SyntheticGestureController, which queues synthetic gestures, drives their event dispatch on a timer, and handles renderer initialization and completion callbacks.
+// ---
+
 #include "content/common/input/synthetic_gesture_controller.h"
 
 #include <utility>

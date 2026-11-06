@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia initialization utilities implementation
+// summary: Initializes Skia per process with font and resource cache limits, event tracing, and memory dump provider registration.
+// ---
+
 #include "content/common/skia_utils.h"
 
 #include "base/command_line.h"

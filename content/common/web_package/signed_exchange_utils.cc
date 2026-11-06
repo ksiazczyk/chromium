@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed exchange utils implementation
+// summary: Implements content-layer signed exchange utilities, formatting a header integrity hash as a sha256-prefixed base64 string.
+// ---
+
 #include "content/common/web_package/signed_exchange_utils.h"
 
 #include <string_view>

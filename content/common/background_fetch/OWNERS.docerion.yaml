@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Background fetch directory owners
+summary: Defines code owners for the directory and routes mojom traits and typemap files to the IPC security owners.

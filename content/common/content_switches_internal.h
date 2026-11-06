@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal content command-line switch helpers
+// summary: Declares content-internal helpers for command-line switches, including V8 cache options, debugger waiting, and parsing comma-separated values from repeated switches.
+// ---
+
 #ifndef CONTENT_COMMON_CONTENT_SWITCHES_INTERNAL_H_
 #define CONTENT_COMMON_CONTENT_SWITCHES_INTERNAL_H_
 

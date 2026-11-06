@@ -1,0 +1,4 @@
+# Docerion header of attributed_string_type_converters.mm.
+type: source
+title: Attributed string type converters implementation
+summary: Implements conversion of attributed strings between Core Foundation and Mojo forms, mapping font attributes with system font fallback.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic pointer action class declaration
+// summary: Declares SyntheticPointerAction, a gesture that dispatches lists of synthetic pointer actions for touch, mouse and pen input using an internal or external pointer driver.
+// ---
+
 #ifndef CONTENT_COMMON_INPUT_SYNTHETIC_POINTER_ACTION_H_
 #define CONTENT_COMMON_INPUT_SYNTHETIC_POINTER_ACTION_H_
 

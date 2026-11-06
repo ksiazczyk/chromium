@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU interfaces exposed to the browser declaration
+// summary: Declares ExposeGpuInterfacesToBrowser, which populates a binder map with interfaces exposed from the GPU process to the browser.
+// ---
+
 #ifndef CONTENT_GPU_BROWSER_EXPOSED_GPU_INTERFACES_H_
 #define CONTENT_GPU_BROWSER_EXPOSED_GPU_INTERFACES_H_
 

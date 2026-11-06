@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MemoryConsumerTraits Mojo serialization unit tests
+// summary: Unit tests that verify every MemoryConsumerTraits enum value round-trips through the Mojo echo interface.
+// ---
+
 #include <algorithm>
 #include <utility>
 

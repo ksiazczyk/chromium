@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic smooth scroll gesture class declaration
+// summary: Declares the SyntheticSmoothScrollGesture class that wraps a smooth move gesture to forward synthetic scroll input events to a gesture target.
+// ---
+
 #ifndef CONTENT_COMMON_INPUT_SYNTHETIC_SMOOTH_SCROLL_GESTURE_H_
 #define CONTENT_COMMON_INPUT_SYNTHETIC_SMOOTH_SCROLL_GESTURE_H_
 

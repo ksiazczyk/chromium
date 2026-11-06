@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gin Java bridge value unit tests
+// summary: Unit tests verifying creation, type checks and round-tripping of GinJavaBridgeValue values plus rejection of broken or unrelated binary values.
+// ---
+
 #include "content/common/android/gin_java_bridge_value.h"
 
 #include <stdint.h>

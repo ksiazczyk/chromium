@@ -1,0 +1,4 @@
+# Docerion header of render_widget_host_ns_view.mojom.
+type: reference
+title: RenderWidgetHostNSView Mojo interface
+summary: Defines Mojo interfaces for browser-to-app-shim control of the macOS RenderWidgetHostViewCocoa NSView, including popup menus and input state.

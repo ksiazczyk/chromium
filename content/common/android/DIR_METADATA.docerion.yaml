@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for content/common/android
+summary: Declares the Monorail component, Buganizer component ID and Android OS used for issue tracking in this directory.

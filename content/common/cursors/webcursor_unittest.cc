@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebCursor unit tests
+// summary: Unit tests covering WebCursor construction, custom cursor caching, hotspot scaling and rotation, and cursor scale factor behavior across platforms.
+// ---
+
 #include "content/common/cursors/webcursor.h"
 
 #include <stddef.h>

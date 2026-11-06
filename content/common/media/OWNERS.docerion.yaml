@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for content common media
+summary: Lists code owners for the directory and routes message, Mojom, traits and typemap files to IPC security owners.

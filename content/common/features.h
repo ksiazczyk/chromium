@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content layer feature flag declarations
+// summary: Declares exported base::Feature flags and parameters for the content layer, including the AvoidUnnecessaryBeforeUnloadCheckSync modes.
+// ---
+
 #ifndef CONTENT_COMMON_FEATURES_H_
 #define CONTENT_COMMON_FEATURES_H_
 

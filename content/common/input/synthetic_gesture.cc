@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyntheticGesture base class implementation
+// summary: Implements the SyntheticGesture base class that stores gesture parameters and provides helpers for target acks, vsync offset and input event pattern.
+// ---
+
 #include "content/common/input/synthetic_gesture.h"
 
 #include "base/notreached.h"

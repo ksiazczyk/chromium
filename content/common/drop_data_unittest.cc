@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DropData unit tests
+// summary: Unit tests for DropData covering safe filename generation for image file contents and pickling of file system file info.
+// ---
+
 #include "content/public/common/drop_data.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory pressure listener policy implementation
+// summary: Implements a memory coordinator policy that reacts to system memory pressure by lowering consumer memory limits and requesting memory release.
+// ---
+
 #include "content/common/memory_coordinator/memory_pressure_listener_policy.h"
 
 #include <string_view>

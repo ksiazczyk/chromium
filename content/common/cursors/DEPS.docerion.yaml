@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the cursors directory
+summary: Defines the allowed include paths for content/common/cursors, permitting headers from third_party/blink/public/platform.

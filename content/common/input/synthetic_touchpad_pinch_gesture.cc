@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic touchpad pinch gesture implementation
+// summary: Implements a synthetic pinch gesture that forwards touchpad gesture events to incrementally scale content toward a target scale factor.
+// ---
+
 #include <stdint.h>
 
 #include "base/functional/callback.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceWorkerRaceNetworkRequestURLLoaderClient declaration
+// summary: Declares ServiceWorkerRaceNetworkRequestURLLoaderClient, a URLLoaderClient that handles responses arriving in RaceNetworkRequest mode and commits them when the network is faster than the fetch handler.
+// ---
+
 #ifndef CONTENT_COMMON_SERVICE_WORKER_RACE_NETWORK_REQUEST_URL_LOADER_CLIENT_H_
 #define CONTENT_COMMON_SERVICE_WORKER_RACE_NETWORK_REQUEST_URL_LOADER_CLIENT_H_
 

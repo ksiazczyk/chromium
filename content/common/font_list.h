@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Font list interface declarations
+// summary: Declares the font list task runner accessor and the blocking function that retrieves available fonts for the current platform.
+// ---
+
 #ifndef CONTENT_COMMON_FONT_LIST_H_
 #define CONTENT_COMMON_FONT_LIST_H_
 

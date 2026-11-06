@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux zygote handle implementation
+// summary: Creates and stores the global generic and unsandboxed zygote instances used by the browser process.
+// ---
+
 #include "content/public/common/zygote/zygote_handle.h"
 
 #include "base/command_line.h"

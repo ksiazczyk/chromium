@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU process main entry point
+// summary: Entry point for the GPU process, setting up sandboxing, tracing, GL initialization, and the GPU child thread before running the message loop.
+// ---
+
 #include <fcntl.h>
 #include <stddef.h>
 #include <stdlib.h>

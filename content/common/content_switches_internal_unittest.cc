@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for FeaturesFromSwitch
+// summary: Unit tests verifying that FeaturesFromSwitch collects comma-separated values from repeated command-line switch instances in the order they appear.
+// ---
+
 #include "content/common/content_switches_internal.h"
 
 #include "base/command_line.h"

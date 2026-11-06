@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame owner element type Mojo traits header
+// summary: Declares the Mojo EnumTraits specialization that maps blink frame owner element types to ChildFrameOwnerElementType.
+// ---
+
 #ifndef CONTENT_COMMON_FRAME_OWNER_ELEMENT_TYPE_MOJOM_TRAITS_H_
 #define CONTENT_COMMON_FRAME_OWNER_ELEMENT_TYPE_MOJOM_TRAITS_H_
 

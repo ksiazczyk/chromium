@@ -1,0 +1,4 @@
+# Docerion header of navigation_client.mojom.
+type: source
+title: Navigation client Mojo interface definitions
+summary: Defines Mojo interfaces and structs for navigation commit IPC, including PageState session restore data and DidCommitProvisionalLoad parameters.

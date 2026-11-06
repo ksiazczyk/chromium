@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuServiceFactory implementation for media services in the GPU process
+// summary: Implements GpuServiceFactory, which runs the Mojo media service in the GPU process, selecting user-blocking task runners and handling Windows Dawn D3D threading behavior.
+// ---
+
 #include "content/gpu/gpu_service_factory.h"
 
 #include <memory>

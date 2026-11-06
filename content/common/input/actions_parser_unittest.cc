@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActionsParser unit tests
+// summary: Unit and fuzz tests verifying parsing of gpuBenchmarking pointer action sequences for mouse and touch input.
+// ---
+
 #include "content/common/input/actions_parser.h"
 
 #include <utility>

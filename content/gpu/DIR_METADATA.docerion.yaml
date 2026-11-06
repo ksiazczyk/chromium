@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for content/gpu
+summary: Maps the content/gpu directory to the Internals>GPU>Internals issue tracker component for bug routing.

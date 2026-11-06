@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChildProcessId Mojo traits header
+// summary: Provides mojo StructTraits to serialize and deserialize content::ChildProcessId for the remote_cocoa mojom data view.
+// ---
+
 #ifndef CONTENT_COMMON_CHILD_PROCESS_ID_MOJOM_TRAITS_H_
 #define CONTENT_COMMON_CHILD_PROCESS_ID_MOJOM_TRAITS_H_
 

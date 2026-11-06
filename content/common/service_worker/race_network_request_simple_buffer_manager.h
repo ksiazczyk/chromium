@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RaceNetworkRequestSimpleBufferManager class declaration
+// summary: Declares RaceNetworkRequestSimpleBufferManager, which drains response data from a Mojo data pipe into an in-memory buffer and clones it to another data pipe for race network requests.
+// ---
+
 #ifndef CONTENT_COMMON_SERVICE_WORKER_RACE_NETWORK_REQUEST_SIMPLE_BUFFER_MANAGER_H_
 #define CONTENT_COMMON_SERVICE_WORKER_RACE_NETWORK_REQUEST_SIMPLE_BUFFER_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic pointer action parameters
+// summary: Defines the SyntheticPointerActionParams struct with pointer action types, buttons and setters for position, force, tilt and timing used to build synthetic touch, mouse and pen events.
+// ---
+
 #ifndef CONTENT_COMMON_INPUT_SYNTHETIC_POINTER_ACTION_PARAMS_H_
 #define CONTENT_COMMON_INPUT_SYNTHETIC_POINTER_ACTION_PARAMS_H_
 

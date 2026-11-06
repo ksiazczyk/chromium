@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic mouse driver class declaration
+// summary: Declares SyntheticMouseDriverBase and SyntheticMouseDriver, which build and dispatch synthetic mouse events for pointer action sequences.
+// ---
+
 #ifndef CONTENT_COMMON_INPUT_SYNTHETIC_MOUSE_DRIVER_H_
 #define CONTENT_COMMON_INPUT_SYNTHETIC_MOUSE_DRIVER_H_
 

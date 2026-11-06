@@ -1,0 +1,4 @@
+# Docerion header of dom_automation_controller.mojom.
+type: source
+title: DomAutomationControllerHost Mojo interface
+summary: Mojo interface used in browser tests to receive values sent from JavaScript via window.domAutomationController in the renderer.

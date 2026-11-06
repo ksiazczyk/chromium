@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI loading utilities API
+// summary: Declares WebUI loading helpers for parsing single byte ranges and sending buffered data to URL loader clients with error handling.
+// ---
+
 #ifndef CONTENT_COMMON_WEB_UI_LOADING_UTIL_H_
 #define CONTENT_COMMON_WEB_UI_LOADING_UTIL_H_
 

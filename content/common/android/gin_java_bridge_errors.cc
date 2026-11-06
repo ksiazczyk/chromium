@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gin Java bridge error message conversion
+// summary: Maps GinJavaBridgeError enum values from the Java bridge mojo interface to human-readable error strings for reporting Java bridge failures.
+// ---
+
 #include "content/common/android/gin_java_bridge_errors.h"
 
 #include "base/notreached.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fontconfig font list implementation
+// summary: Enumerates scalable TrueType and CFF font families via Fontconfig, adding the Monospace, Sans, and Serif aliases for Linux.
+// ---
+
 #include <fontconfig/fontconfig.h>
 
 #include <array>

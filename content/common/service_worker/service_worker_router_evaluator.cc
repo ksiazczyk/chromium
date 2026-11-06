@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker router evaluator implementation
+// summary: Implements the service worker router evaluator that compiles router rules and matches network requests against URL pattern conditions, recording metrics and errors.
+// ---
+
 #include "content/common/service_worker/service_worker_router_evaluator.h"
 
 #include <limits>

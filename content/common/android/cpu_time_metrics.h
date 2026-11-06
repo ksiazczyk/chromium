@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CPU time metrics setup header
+// summary: Declares SetupCpuTimeMetrics, which starts periodic collection and UMA reporting of the process's CPU time on Android.
+// ---
+
 #ifndef CONTENT_COMMON_ANDROID_CPU_TIME_METRICS_H_
 #define CONTENT_COMMON_ANDROID_CPU_TIME_METRICS_H_
 

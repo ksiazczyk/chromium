@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for memory coordinator Mojom files
+summary: Assigns IPC security owners for all Mojom and Mojom traits files in this directory.

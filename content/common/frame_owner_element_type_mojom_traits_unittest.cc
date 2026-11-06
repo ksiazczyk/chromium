@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Frame owner element type Mojo traits unit tests
+// summary: Unit tests verifying serialization of frame owner element types and that invalid or unconvertible values are rejected.
+// ---
+
 #include "content/common/frame_owner_element_type_mojom_traits.h"
 
 #include <string>

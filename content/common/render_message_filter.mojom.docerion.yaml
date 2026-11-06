@@ -1,0 +1,4 @@
+# Docerion header of render_message_filter.mojom.
+type: reference
+title: RenderMessageFilter Mojo interface
+summary: Defines the RenderMessageFilter Mojo interface through which the renderer requests frame routing information from the browser IO thread.

@@ -1,0 +1,4 @@
+# Docerion header of renderer.mojom.
+type: reference
+title: Renderer Mojo interface
+summary: Defines the primordial Renderer Mojo interface for browser-to-renderer control messages such as agent scheduling groups and network updates.

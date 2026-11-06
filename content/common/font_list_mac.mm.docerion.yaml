@@ -1,0 +1,4 @@
+# Docerion header of font_list_mac.mm.
+type: source
+title: macOS font list implementation
+summary: Enumerates system font families via Core Text and resolves localized family names on macOS.

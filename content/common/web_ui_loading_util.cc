@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI loading utilities implementation
+// summary: Implements helpers that serve buffered WebUI bytes to URL loader clients, including byte-range parsing, data pipes and error reporting.
+// ---
+
 #include "content/common/web_ui_loading_util.h"
 
 #include "base/byte_size.h"

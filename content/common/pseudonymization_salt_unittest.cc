@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pseudonymization salt unit tests
+// summary: Unit tests for the pseudonymization salt covering set and get, DCHECK death cases and the shared memory round-trip to child processes.
+// ---
+
 #include "content/common/pseudonymization_salt.h"
 
 #include <tuple>

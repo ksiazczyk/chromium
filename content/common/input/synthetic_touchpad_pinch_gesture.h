@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic touchpad pinch gesture class declaration
+// summary: Declares the SyntheticTouchpadPinchGesture class, which drives synthetic pinch gestures from touchpad input via a state machine.
+// ---
+
 #ifndef CONTENT_COMMON_INPUT_SYNTHETIC_TOUCHPAD_PINCH_GESTURE_H_
 #define CONTENT_COMMON_INPUT_SYNTHETIC_TOUCHPAD_PINCH_GESTURE_H_
 

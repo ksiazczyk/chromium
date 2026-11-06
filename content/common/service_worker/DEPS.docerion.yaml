@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the service worker common directory
+summary: Defines include rules for the directory, permitting includes from third_party/liburlpattern.

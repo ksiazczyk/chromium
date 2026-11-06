@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChildProcessId FFI layout unit test
+// summary: Static-asserts that the C++ ChildProcessId matches the Rust-side i32 size, alignment, and triviality requirements for FFI compatibility.
+// ---
+
 #include <type_traits>
 
 #include "content/public/common/child_process_id.h"

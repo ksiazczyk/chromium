@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic gesture target interface
+// summary: Declares the SyntheticGestureTarget interface between the gesture controller and the RenderWidgetHost, exposing event dispatch, platform metrics and target acknowledgement.
+// ---
+
 #ifndef CONTENT_COMMON_INPUT_SYNTHETIC_GESTURE_TARGET_H_
 #define CONTENT_COMMON_INPUT_SYNTHETIC_GESTURE_TARGET_H_
 

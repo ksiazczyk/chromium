@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CSS color string parser
+// summary: Parses CSS color strings in hex, HSL, RGB, and named-color formats into SkColor values for content code.
+// ---
+
 #include "content/public/common/color_parser.h"
 
 #include <stdint.h>

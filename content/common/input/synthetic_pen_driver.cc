@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic pen driver implementation
+// summary: Implements the synthetic pen pointer driver, which builds pen-type mouse leave events and provides a weak pointer for safe dispatch handling.
+// ---
+
 #include "content/common/input/synthetic_pen_driver.h"
 
 #include "third_party/blink/public/common/input/synthetic_web_input_event_builders.h"

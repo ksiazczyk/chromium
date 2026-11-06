@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic touch driver class declaration
+// summary: Declares the SyntheticTouchDriver, a SyntheticPointerDriver subclass that maps pointer IDs to touch points and dispatches touch events.
+// ---
+
 #ifndef CONTENT_COMMON_INPUT_SYNTHETIC_TOUCH_DRIVER_H_
 #define CONTENT_COMMON_INPUT_SYNTHETIC_TOUCH_DRIVER_H_
 

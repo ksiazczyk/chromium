@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pseudonymization salt API
+// summary: Declares the pseudonymization salt API for getting, setting and sharing the salt across Chromium processes via shared memory.
+// ---
+
 #ifndef CONTENT_COMMON_PSEUDONYMIZATION_SALT_H_
 #define CONTENT_COMMON_PSEUDONYMIZATION_SALT_H_
 

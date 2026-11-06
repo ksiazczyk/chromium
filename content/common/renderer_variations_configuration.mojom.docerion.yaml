@@ -1,0 +1,4 @@
+# Docerion header of renderer_variations_configuration.mojom.
+type: reference
+title: RendererVariationsConfiguration Mojo interface
+summary: Defines the Mojo interface for making variations headers available and forcing field trial groups in the renderer process.

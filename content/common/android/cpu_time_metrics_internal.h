@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessCpuTimeMetrics class declaration
+// summary: Declares the internal ProcessCpuTimeMetrics singleton that samples CPU time after batches of main-thread tasks and on process priority changes.
+// ---
+
 #ifndef CONTENT_COMMON_ANDROID_CPU_TIME_METRICS_INTERNAL_H_
 #define CONTENT_COMMON_ANDROID_CPU_TIME_METRICS_INTERNAL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC param traits implementations
+// summary: Implements IPC serialization for message ports, policy values, accessibility modes, and viz surface types.
+// ---
+
 #include "content/common/content_param_traits.h"
 
 #include <stddef.h>

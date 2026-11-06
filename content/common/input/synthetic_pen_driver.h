@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic pen driver class declaration
+// summary: Declares SyntheticPenDriver, a synthetic pointer driver for pen input that extends the synthetic mouse driver base and provides leave handling and weak pointer support.
+// ---
+
 #ifndef CONTENT_COMMON_INPUT_SYNTHETIC_PEN_DRIVER_H_
 #define CONTENT_COMMON_INPUT_SYNTHETIC_PEN_DRIVER_H_
 

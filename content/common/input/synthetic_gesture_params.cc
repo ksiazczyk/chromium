@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic gesture parameters implementation
+// summary: Implements SyntheticGestureParams constructors and the platform-dependent check for which gesture source types, such as touch and mouse, are supported.
+// ---
+
 #include "build/build_config.h"
 #include "content/common/input/synthetic_gesture_params.h"
 

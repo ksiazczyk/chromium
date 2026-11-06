@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IPC param traits unit tests
+// summary: Unit tests verifying serialization and deserialization of pairs, dictionaries, and SurfaceInfo over IPC.
+// ---
+
 #include "content/public/common/common_param_traits.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic pointer action implementation
+// summary: Implements SyntheticPointerAction, which generates and dispatches synthetic touch, mouse and pen pointer action sequences to the browser and renderer.
+// ---
+
 #include "content/common/input/synthetic_pointer_action.h"
 
 #include "base/check_op.h"

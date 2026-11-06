@@ -4,6 +4,12 @@
 
 // This file exposes services from the GPU process to the browser.
 
+// ---docerion
+// type: source
+// title: Service bindings from GPU process to browser
+// summary: Binds Mojo service receivers in the GPU process, routing VizMain, shape detection, and media service requests from the browser.
+// ---
+
 #include "content/gpu/gpu_child_thread.h"
 
 #include "base/no_destructor.h"

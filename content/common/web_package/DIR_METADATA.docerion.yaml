@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Web package directory metadata
+summary: Chromium directory metadata pointing to the browser web_package common metadata and assigning the Blink>Loader>WebPackaging monorail and Buganizer components.

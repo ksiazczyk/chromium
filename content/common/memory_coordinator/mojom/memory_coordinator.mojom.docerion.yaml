@@ -1,0 +1,4 @@
+# Docerion header of memory_coordinator.mojom.
+type: source
+title: Memory coordinator Mojom interfaces
+summary: Defines Mojo structs and interfaces for browser-child memory coordinator communication, covering consumer registration, updates, limit overrides, and optional diagnostics.

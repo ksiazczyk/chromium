@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic smooth scroll gesture parameters implementation
+// summary: Implements constructors and the GetGestureType method for the smooth scroll gesture parameter class.
+// ---
+
 #include "content/common/input/synthetic_smooth_scroll_gesture_params.h"
 
 #include "base/check_op.h"

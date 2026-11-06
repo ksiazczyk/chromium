@@ -1,0 +1,4 @@
+# Docerion header of features.gni.
+type: config
+title: Content build arguments for features
+summary: GN build arguments controlling content behavior such as foreground memory pressure handling, MBI mode, and the memory coordinator internals WebUI.

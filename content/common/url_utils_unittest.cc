@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL utilities unit tests
+// summary: Unit tests covering WebUI scheme detection, network stack URL handling and safe redirect target checks in content's URL utilities.
+// ---
+
 #include "content/public/common/url_utils.h"
 
 #include "build/build_config.h"

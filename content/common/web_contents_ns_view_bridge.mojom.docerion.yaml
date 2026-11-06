@@ -1,0 +1,4 @@
+# Docerion header of web_contents_ns_view_bridge.mojom.
+type: source
+title: WebContents NSView bridge Mojo interface
+summary: Defines the Mojo interface used by WebContentsViewMac to control a remote NSView, including bounds, focus, drag initiation and visibility data.

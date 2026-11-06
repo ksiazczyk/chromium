@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-process child thread parameters implementation
+// summary: Implements construction and destruction of the parameter object used to run ChildThreadImpl in in-process mode.
+// ---
+
 #include "content/common/in_process_child_thread_params.h"
 #include "base/task/single_thread_task_runner.h"
 

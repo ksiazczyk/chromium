@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System policy crash key helpers
+// summary: Queries macOS AMFI and system integrity protection policy state via system calls and records it as crash keys for debugging.
+// ---
+
 #include "content/common/mac/system_policy.h"
 
 #include "base/debug/crash_logging.h"

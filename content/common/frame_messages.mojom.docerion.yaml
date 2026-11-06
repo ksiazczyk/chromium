@@ -1,0 +1,4 @@
+# Docerion header of frame_messages.mojom.
+type: source
+title: Frame messages Mojom definitions
+summary: Defines the DidCommitProvisionalLoadInterfaceParams struct and Mojo imports for frame commit IPC in the content module.

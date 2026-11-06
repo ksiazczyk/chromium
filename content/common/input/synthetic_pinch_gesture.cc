@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic pinch gesture implementation
+// summary: Implements SyntheticPinchGesture, which lazily delegates pinch gesture input to either the touchscreen or touchpad pinch gesture implementation based on the gesture source type.
+// ---
+
 #include "content/common/input/synthetic_pinch_gesture.h"
 
 #include <memory>

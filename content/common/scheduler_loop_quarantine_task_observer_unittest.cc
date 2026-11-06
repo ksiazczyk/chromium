@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SchedulerLoopQuarantineTaskObserver unit tests
+// summary: Unit tests verifying that the observer pauses and resumes PartitionAlloc scheduler loop quarantine around task execution.
+// ---
+
 #include "content/common/scheduler_loop_quarantine_task_observer.h"
 
 #include <memory>

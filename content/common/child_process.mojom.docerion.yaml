@@ -1,0 +1,4 @@
+# Docerion header of child_process.mojom.
+type: source
+title: ChildProcess Mojo interfaces
+summary: Defines Mojo interfaces for browser control of child processes, covering pings, receiver binding, tracing, Mach task ports, and shutdown.

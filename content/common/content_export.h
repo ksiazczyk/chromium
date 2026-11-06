@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CONTENT_EXPORT macro definition
+// summary: Defines the CONTENT_EXPORT macro for shared library export and import across component builds.
+// ---
+
 #ifndef CONTENT_COMMON_CONTENT_EXPORT_H_
 #define CONTENT_COMMON_CONTENT_EXPORT_H_
 

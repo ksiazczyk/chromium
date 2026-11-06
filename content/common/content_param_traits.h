@@ -11,6 +11,12 @@
 // public members, or because the same type is being used in multiple
 // *_messages.h headers.
 
+// ---docerion
+// type: source
+// title: IPC param traits declarations
+// summary: Declares IPC::ParamTraits specializations for content types such as message ports and surface identifiers.
+// ---
+
 #ifndef CONTENT_COMMON_CONTENT_PARAM_TRAITS_H_
 #define CONTENT_COMMON_CONTENT_PARAM_TRAITS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic smooth drag gesture class declaration
+// summary: Declares SyntheticSmoothDragGesture, which forwards drag input events through a smooth move gesture and waits for target acknowledgement.
+// ---
+
 #ifndef CONTENT_COMMON_INPUT_SYNTHETIC_SMOOTH_DRAG_GESTURE_H_
 #define CONTENT_COMMON_INPUT_SYNTHETIC_SMOOTH_DRAG_GESTURE_H_
 

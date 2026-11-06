@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed exchange utils header
+// summary: Declares content-layer signed exchange utilities, including the function that serializes a header integrity hash as a sha256 base64 string.
+// ---
+
 #ifndef CONTENT_COMMON_WEB_PACKAGE_SIGNED_EXCHANGE_UTILS_H_
 #define CONTENT_COMMON_WEB_PACKAGE_SIGNED_EXCHANGE_UTILS_H_
 

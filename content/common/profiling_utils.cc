@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profiling utils implementation
+// summary: Implements opening of the PGO profiling file, resolving the profile directory from the LLVM_PROFILE_FILE environment variable or platform defaults.
+// ---
+
 #include "content/public/common/profiling_utils.h"
 
 #include <limits>

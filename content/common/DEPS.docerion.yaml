@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for content/common
+summary: Chromium DEPS file restricting and allowing header includes in content/common, with extra rules for unit tests and fuzzers.

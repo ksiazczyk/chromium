@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FetchAPIRequest proto round-trip test
+// summary: Tests that a fetch API request survives a serialize and deserialize round trip unchanged.
+// ---
+
 #include "content/common/fetch/fetch_api_request_proto.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

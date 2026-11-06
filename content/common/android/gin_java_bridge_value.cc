@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gin Java bridge value serialization
+// summary: Implements GinJavaBridgeValue, packing undefined, non-finite, object ID and uint32 values into binary base::Value blobs for the Java bridge.
+// ---
+
 #include "content/common/android/gin_java_bridge_value.h"
 
 #include "base/containers/span.h"

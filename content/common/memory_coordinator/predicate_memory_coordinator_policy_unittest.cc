@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Predicate memory coordinator policy unit tests
+// summary: Unit tests for the predicate-based policy, covering limit persistence for newly added consumers and predicate filtering by process.
+// ---
+
 #include "content/public/common/memory_coordinator/predicate_memory_coordinator_policy.h"
 
 #include <cstdint>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic smooth drag gesture implementation
+// summary: Implements the smooth drag gesture by initializing and delegating event forwarding to an underlying synthetic smooth move gesture for touch or mouse input.
+// ---
+
 #include "content/common/input/synthetic_smooth_drag_gesture.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Memory pressure listener policy unit tests
+// summary: Unit tests verifying that the memory pressure listener policy sets memory limits and requests release for matching consumers under moderate and critical pressure.
+// ---
+
 #include "content/common/memory_coordinator/memory_pressure_listener_policy.h"
 
 #include <cstdint>

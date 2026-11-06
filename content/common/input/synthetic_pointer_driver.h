@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic pointer driver interface
+// summary: Declares the SyntheticPointerDriver base class with virtual Press, Move, Release, Cancel and Leave methods plus user input validation for synthetic pointer action sequences.
+// ---
+
 #ifndef CONTENT_COMMON_INPUT_SYNTHETIC_POINTER_DRIVER_H_
 #define CONTENT_COMMON_INPUT_SYNTHETIC_POINTER_DRIVER_H_
 

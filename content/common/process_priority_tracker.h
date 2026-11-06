@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessPriorityTracker header
+// summary: Declares the ProcessPriorityTracker singleton and observer interface for tracking embedder process priority, currently used in the Android browser process.
+// ---
+
 #ifndef CONTENT_COMMON_PROCESS_PRIORITY_TRACKER_H_
 #define CONTENT_COMMON_PROCESS_PRIORITY_TRACKER_H_
 

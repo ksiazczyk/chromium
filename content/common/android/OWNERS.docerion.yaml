@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for content/common/android
+summary: Lists the directory code owners and routes IPC message and param traits files to the IPC security owners for review.

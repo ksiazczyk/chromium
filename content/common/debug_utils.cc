@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation debug scenario capture implementation
+// summary: Implements CaptureTraceForNavigationDebugScenario, which logs a debug scenario and records it in the Stability.DebugScenario.Navigation UMA histogram.
+// ---
+
 #include "content/common/debug_utils.h"
 
 #include "base/logging.h"

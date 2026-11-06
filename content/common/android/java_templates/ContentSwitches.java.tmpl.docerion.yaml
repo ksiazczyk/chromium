@@ -1,0 +1,4 @@
+# Docerion header of ContentSwitches.java.tmpl.
+type: source
+title: 'ContentSwitches.java.tmpl: Android content command-line switches'
+summary: Java template defining constants for command-line switches specific to Chromium's content layer on Android, with native switch strings injected at build time.

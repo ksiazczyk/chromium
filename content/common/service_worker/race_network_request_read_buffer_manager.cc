@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Race network request read buffer manager implementation
+// summary: Implements buffered reading from a Mojo data pipe consumer for RaceNetworkRequest, with field-trial controlled buffer sizing and watcher management.
+// ---
+
 
 #include "content/common/service_worker/race_network_request_read_buffer_manager.h"
 

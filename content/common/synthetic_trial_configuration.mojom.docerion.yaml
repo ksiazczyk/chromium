@@ -1,0 +1,4 @@
+# Docerion header of synthetic_trial_configuration.mojom.
+type: source
+title: Synthetic trial configuration Mojom interface
+summary: Defines the Mojom interface for the browser process to add, update, or remove synthetic trial groups in child processes.

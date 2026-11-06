@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker router evaluator unit tests
+// summary: Unit tests for the service worker router evaluator covering rule validation, URL pattern matching, and evaluation results for various conditions and sources.
+// ---
+
 #include "content/common/service_worker/service_worker_router_evaluator.h"
 
 #include <string_view>

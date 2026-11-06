@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic gesture parameters declaration
+// summary: Declares the SyntheticGestureParams base struct holding gesture type, source type, default speed and DevTools-related flags shared by all synthetic gestures.
+// ---
+
 #ifndef CONTENT_COMMON_INPUT_SYNTHETIC_GESTURE_PARAMS_H_
 #define CONTENT_COMMON_INPUT_SYNTHETIC_GESTURE_PARAMS_H_
 

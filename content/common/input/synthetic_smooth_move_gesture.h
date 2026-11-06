@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic smooth move gesture declaration
+// summary: Declares SyntheticSmoothMoveGestureParams and SyntheticSmoothMoveGesture, a helper simulating continuous scroll and drag sequences across touch, mouse drag and wheel input.
+// ---
+
 #ifndef CONTENT_COMMON_INPUT_SYNTHETIC_SMOOTH_MOVE_GESTURE_H_
 #define CONTENT_COMMON_INPUT_SYNTHETIC_SMOOTH_MOVE_GESTURE_H_
 

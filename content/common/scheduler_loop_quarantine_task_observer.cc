@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SchedulerLoopQuarantineTaskObserver implementation
+// summary: Implements a task observer that enables PartitionAlloc quarantine and stack scanning while tasks run and disables it between tasks.
+// ---
+
 #include "content/common/scheduler_loop_quarantine_task_observer.h"
 
 #include <limits>

@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: RaceNetworkRequestSimpleBufferManager unit tests
+// summary: Unit tests verifying that RaceNetworkRequestSimpleBufferManager handles repeated OnDataComplete calls and consumer disconnects during clone operations without crashing.
+// ---
+
 #include "content/common/service_worker/race_network_request_simple_buffer_manager.h"
 
 #include "base/functional/bind.h"

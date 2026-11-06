@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Zygote directory owners
+summary: Delegates code review ownership of this directory to the shared content/zygote OWNERS file.

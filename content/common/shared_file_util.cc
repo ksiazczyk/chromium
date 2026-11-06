@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared file descriptor utilities implementation
+// summary: Populates the file descriptor store from the shared files command line switch and parses the switch value into descriptor mappings.
+// ---
+
 #include "content/common/shared_file_util.h"
 
 #include <string_view>

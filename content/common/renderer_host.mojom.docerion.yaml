@@ -1,0 +1,4 @@
+# Docerion header of renderer_host.mojom.
+type: reference
+title: RendererHost Mojo interface
+summary: Defines the RendererHost Mojo interface for renderer-to-browser messages such as histogram requests, user metrics and GPU process checks.

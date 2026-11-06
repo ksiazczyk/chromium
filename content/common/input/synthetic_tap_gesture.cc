@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic tap gesture implementation
+// summary: Implements the SyntheticTapGesture state machine that presses and releases a touch or mouse pointer for a configurable duration.
+// ---
+
 #include "content/common/input/synthetic_tap_gesture.h"
 
 #include "base/check_op.h"

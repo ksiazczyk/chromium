@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Memory coordinator Mojom GN build rules
+summary: Defines GN targets that generate Mojo bindings for the memory coordinator interfaces, including typemaps for MemoryConsumerTraits and MemoryConsumerUpdate and a test interface target.

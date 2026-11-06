@@ -1,0 +1,4 @@
+# Docerion header of memory_coordinator_diagnostics.mojom.
+type: source
+title: Memory coordinator diagnostics Mojom interface
+summary: Defines the Mojo interface for child processes to report memory limit changes for a consumer to the browser.

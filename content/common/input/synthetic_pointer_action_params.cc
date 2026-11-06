@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic pointer action parameters implementation
+// summary: Implements SyntheticPointerActionParams constructors and helpers that map synthetic pointer buttons and modifiers to blink WebMouseEvent buttons and modifiers.
+// ---
+
 #include "content/common/input/synthetic_pointer_action_params.h"
 
 namespace content {

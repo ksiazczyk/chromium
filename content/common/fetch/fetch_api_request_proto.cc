@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FetchAPIRequest proto serialization
+// summary: Implements serializing fetch API requests to protobuf strings and deserializing them back into FetchAPIRequest objects.
+// ---
+
 #include "content/common/fetch/fetch_api_request_proto.h"
 
 #include "content/common/fetch/fetch_api_request.pb.h"

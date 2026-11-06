@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceWorkerRaceNetworkRequestURLLoaderClient implementation
+// summary: Implements the race network request URL loader client that commits or discards the network response depending on whether it beats the service worker fetch handler, with metrics and feature flags.
+// ---
+
 #include "content/common/service_worker/race_network_request_url_loader_client.h"
 
 #include "base/check_op.h"

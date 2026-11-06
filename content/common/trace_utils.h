@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trace return reason utilities
+// summary: Header providing a TraceReturnReason helper that annotates every return path of a function with trace events and enforces setting a return reason.
+// ---
+
 #ifndef CONTENT_COMMON_TRACE_UTILS_H_
 #define CONTENT_COMMON_TRACE_UTILS_H_
 

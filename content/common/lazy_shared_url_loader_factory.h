@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LazySharedURLLoaderFactory header
+// summary: Thread-safe wrapper around SharedURLLoaderFactory that defers the Mojo clone IPC until the first network request, buffering requests to avoid overhead during navigation commit.
+// ---
+
 #ifndef CONTENT_COMMON_LAZY_SHARED_URL_LOADER_FACTORY_H_
 #define CONTENT_COMMON_LAZY_SHARED_URL_LOADER_FACTORY_H_
 

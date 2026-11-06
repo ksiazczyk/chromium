@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryConsumerRegistry implementation
+// summary: Implements the content-level consumer registry that groups consumers with the same ID and applies memory limit updates to them.
+// ---
+
 #include "content/common/memory_coordinator/memory_consumer_registry.h"
 
 #include <algorithm>

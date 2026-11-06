@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lazy shared URL loader factory implementation
+// summary: Implements a URL loader factory that buffers requests and clones until the real factory is bound on the main thread.
+// ---
+
 #include "content/common/lazy_shared_url_loader_factory.h"
 
 #include "base/functional/bind.h"

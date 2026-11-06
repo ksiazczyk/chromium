@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation policy implementation
+// summary: Implements BackForwardCache enablement checks, memory thresholds, and RenderDocument level resolution.
+// ---
+
 #include "content/common/content_navigation_policy.h"
 
 #include <bitset>

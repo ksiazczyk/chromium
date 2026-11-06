@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fetch request type converters test
+// summary: Tests the mapping of net load flags to blink fetch cache modes.
+// ---
+
 #include "content/common/fetch/fetch_request_type_converters.h"
 
 #include "net/base/load_flags.h"

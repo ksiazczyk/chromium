@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synchronous compositor SkCanvas statics
+// summary: Implements process-global SkCanvas storage used to pass drawing canvases between the synchronous compositor host and proxy during DemandDrawSw IPC in single-process mode.
+// ---
+
 #include "content/common/android/sync_compositor_statics.h"
 
 #include "base/check.h"

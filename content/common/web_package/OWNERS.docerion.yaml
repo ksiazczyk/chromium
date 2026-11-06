@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Web package directory owners
+summary: Chromium OWNERS file that delegates directory ownership to the OWNERS file of content/browser/web_package.

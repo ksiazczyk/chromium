@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic gesture abstract base class header
+// summary: Declares the abstract SyntheticGesture base class that simulates gestures by forwarding input events to a SyntheticGestureTarget, plus a templated base for typed gesture implementations.
+// ---
+
 #ifndef CONTENT_COMMON_INPUT_SYNTHETIC_GESTURE_H_
 #define CONTENT_COMMON_INPUT_SYNTHETIC_GESTURE_H_
 

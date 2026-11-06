@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-process GPU thread implementation
+// summary: Implements InProcessGpuThread, which runs the GPU service on a browser thread for --in-process-gpu or --single-process modes, including sandbox, Android, iOS, and VAAPI setup.
+// ---
+
 #include "content/gpu/in_process_gpu_thread.h"
 
 #include "base/command_line.h"

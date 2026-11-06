@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gin Java bridge value class declaration
+// summary: Declares the GinJavaBridgeValue class used to carry values that do not fit base::Value, such as undefined, non-finite numbers and object IDs, across the Java bridge.
+// ---
+
 #ifndef CONTENT_COMMON_ANDROID_GIN_JAVA_BRIDGE_VALUE_H_
 #define CONTENT_COMMON_ANDROID_GIN_JAVA_BRIDGE_VALUE_H_
 
