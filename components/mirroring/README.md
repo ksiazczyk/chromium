@@ -1,3 +1,13 @@
+---
+type: readme
+title: Cast Mirroring Component (//components/mirroring)
+summary: Explains the mirroring service architecture, its Mojo interfaces with the browser process, and the browser, mojom, and service directory breakdown.
+relations:
+  - documents /chrome/browser/media/cast_mirroring_service_host.h
+  - documents /components/mirroring/mojom/mirroring_service.mojom
+  - documents /components/mirroring/mojom/resource_provider.mojom
+---
+
 # Cast Mirroring Component (`//components/mirroring`)
 
 This component provides the service implementation and browser integration for

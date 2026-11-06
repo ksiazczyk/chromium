@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResourceInfo header
+// summary: Declares the ResourceInfo struct that tracks current usage and limits of a resource such as disk space or memory.
+// ---
+
 #ifndef COMPONENTS_METRICS_STRUCTURED_LIB_RESOURCE_INFO_H_
 #define COMPONENTS_METRICS_STRUCTURED_LIB_RESOURCE_INFO_H_
 

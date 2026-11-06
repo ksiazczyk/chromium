@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Structured metrics histogram enums and logging helpers
+// summary: Declares internal error and key validation enums plus functions to log them to UMA histograms.
+// ---
+
 #ifndef COMPONENTS_METRICS_STRUCTURED_LIB_HISTOGRAM_UTIL_H_
 #define COMPONENTS_METRICS_STRUCTURED_LIB_HISTOGRAM_UTIL_H_
 

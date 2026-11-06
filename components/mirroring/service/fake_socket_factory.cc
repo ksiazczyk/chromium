@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock socket factory implementation for mirroring tests
+// summary: Implements MockUdpSocket and MockSocketFactory that fake network::mojom sockets so mirroring tests can intercept, verify, and simulate UDP packet traffic.
+// ---
+
 #include "components/mirroring/service/fake_socket_factory.h"
 
 #include <algorithm>

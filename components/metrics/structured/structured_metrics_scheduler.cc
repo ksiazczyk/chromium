@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Structured metrics scheduler implementation
+// summary: Implements StructuredMetricsScheduler, which extends the metrics rotation scheduler and logs the structured metrics initialization sequence to a histogram.
+// ---
+
 #include "components/metrics/structured/structured_metrics_scheduler.h"
 
 #include "base/metrics/histogram_functions.h"

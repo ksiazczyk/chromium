@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DWA preference name declarations
+// summary: Declares preference names for serialized DWA logs and the daily client ID with its update date.
+// ---
+
 #ifndef COMPONENTS_METRICS_DWA_DWA_PREF_NAMES_H_
 #define COMPONENTS_METRICS_DWA_DWA_PREF_NAMES_H_
 

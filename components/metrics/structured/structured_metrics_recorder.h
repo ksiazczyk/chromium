@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Structured metrics recorder
+// summary: Declares StructuredMetricsRecorder, a UI-thread base class that caches recorded events and provides them to the metrics service via key data and event storage.
+// ---
+
 #ifndef COMPONENTS_METRICS_STRUCTURED_STRUCTURED_METRICS_RECORDER_H_
 #define COMPONENTS_METRICS_STRUCTURED_STRUCTURED_METRICS_RECORDER_H_
 

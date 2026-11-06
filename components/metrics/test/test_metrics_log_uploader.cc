@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test metrics log uploader implementation
+// summary: Implements TestMetricsLogUploader, which records upload requests and completes uploads with a given response code in tests.
+// ---
+
 #include "components/metrics/test/test_metrics_log_uploader.h"
 #include "components/metrics/metrics_log_uploader.h"
 

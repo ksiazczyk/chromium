@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StructuredMetricsReportingService class header
+// summary: Declares StructuredMetricsReportingService, a metrics::ReportingService subclass that uploads structured metrics logs to the UMA server and exposes log store, purge, and pref registration APIs.
+// ---
+
 #ifndef COMPONENTS_METRICS_STRUCTURED_REPORTING_STRUCTURED_METRICS_REPORTING_SERVICE_H_
 #define COMPONENTS_METRICS_STRUCTURED_REPORTING_STRUCTURED_METRICS_REPORTING_SERVICE_H_
 

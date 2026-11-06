@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test metrics service client header
+// summary: Declares a concrete MetricsServiceClient for tests with setters for brand, channel, storage limits and other client values.
+// ---
+
 #ifndef COMPONENTS_METRICS_TEST_TEST_METRICS_SERVICE_CLIENT_H_
 #define COMPONENTS_METRICS_TEST_TEST_METRICS_SERVICE_CLIENT_H_
 

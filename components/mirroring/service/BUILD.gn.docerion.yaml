@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Mirroring service GN build targets
+summary: GN build file defining the mirroring_service component with its sources and dependencies, plus the source_set of unit tests for the Cast mirroring service.

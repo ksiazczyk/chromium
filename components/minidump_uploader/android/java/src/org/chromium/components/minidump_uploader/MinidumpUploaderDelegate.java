@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MinidumpUploaderDelegate
+// summary: Interface for embedder-specific upload behavior, covering the crash parent directory, permission manager creation, pre-upload preparation, and success and failure metrics.
+// ---
+
 package org.chromium.components.minidump_uploader;
 
 import org.chromium.build.annotations.NullMarked;

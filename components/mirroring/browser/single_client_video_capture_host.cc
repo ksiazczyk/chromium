@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SingleClientVideoCaptureHost implementation
+// summary: Implements SingleClientVideoCaptureHost, launching a video capture device through a device launcher and forwarding frames and errors to a single mirroring client.
+// ---
+
 #include "components/mirroring/browser/single_client_video_capture_host.h"
 
 #include "base/functional/bind.h"

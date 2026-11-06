@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data upload config downloader implementation
+// summary: Implements downloading a serialized DataUploadConfig proto from Gstatic with retries and a network traffic annotation to obtain the public key for encrypting private metric reports.
+// ---
+
 #include "components/metrics/private_metrics/data_upload_config_downloader.h"
 
 #include <memory>

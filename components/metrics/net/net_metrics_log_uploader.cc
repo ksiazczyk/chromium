@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Net metrics log uploader implementation
+// summary: Uploads compressed and encrypted metrics logs to UMA or structured metrics servers via the Chrome network stack, with traffic annotations and an insecure fallback URL.
+// ---
+
 #include "components/metrics/net/net_metrics_log_uploader.h"
 
 #include <sstream>

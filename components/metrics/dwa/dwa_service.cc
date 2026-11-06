@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DWA service implementation
+// summary: Implements DwaService, which collects and uploads deidentified web analytics events, handling log rotation, encryption key refresh, and coarse system profile recording.
+// ---
+
 #include "components/metrics/dwa/dwa_service.h"
 
 #include <algorithm>

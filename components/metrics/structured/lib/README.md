@@ -1,3 +1,9 @@
+---
+type: readme
+title: Structured metrics shared library README
+summary: Explains that this folder holds code shared between Chromium and ChromiumOS and must rely only on libchrome.
+---
+
 # // components/metrics/structured/lib
 
 This folder holds code that will be shared between Chromium and ChromiumOS. The

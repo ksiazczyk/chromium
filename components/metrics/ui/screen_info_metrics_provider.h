@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen info metrics provider header
+// summary: Declares the ScreenInfoMetricsProvider class, a MetricsProvider that supplies screen size, scale factor, and screen count metrics with virtual methods for mocking.
+// ---
+
 #ifndef COMPONENTS_METRICS_UI_SCREEN_INFO_METRICS_PROVIDER_H_
 #define COMPONENTS_METRICS_UI_SCREEN_INFO_METRICS_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External metrics collection class declaration
+// summary: Declares the ExternalMetrics class that periodically collects structured metrics event files written by ChromeOS and uploads them to the UMA server on its behalf.
+// ---
+
 #ifndef COMPONENTS_METRICS_STRUCTURED_EXTERNAL_METRICS_H_
 #define COMPONENTS_METRICS_STRUCTURED_EXTERNAL_METRICS_H_
 

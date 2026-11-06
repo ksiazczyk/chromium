@@ -1,0 +1,4 @@
+# Docerion header of event.mojom.
+type: source
+title: Event mojom interface
+summary: Defines the stable Mojom Event struct and MetricValue union used to record structured metrics events with project, event name, metrics, and uptime.

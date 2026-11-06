@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Openscreen RPC dispatcher unit tests
+// summary: Unit tests for OpenscreenRpcDispatcher covering message sending, receiving, and error handling with a mock message port.
+// ---
+
 #include "components/mirroring/service/openscreen_rpc_dispatcher.h"
 
 #include <string>

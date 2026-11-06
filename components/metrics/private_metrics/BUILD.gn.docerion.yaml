@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the private metrics components
+summary: GN build file defining the private_metrics_features, dwa_recorder, and private_metrics_recorders components, the private_metrics static library, and the unit_tests source set.

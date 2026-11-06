@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mirroring logger implementation
+// summary: Implements logging of mirroring info and error messages to DVLOG and their forwarding to the session observer over IPC, posting tasks to the bound sequence.
+// ---
+
 #include "components/mirroring/service/mirroring_logger.h"
 
 #include <string>

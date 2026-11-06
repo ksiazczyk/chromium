@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for metric sample serialization utilities
+// summary: Unit tests verifying serialization round trips and parsing of crash, histogram, sparse, linear histogram, and user action samples, including invalid inputs.
+// ---
+
 #include "components/metrics/serialization/serialization_utils.h"
 
 #include <stddef.h>

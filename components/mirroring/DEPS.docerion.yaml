@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the mirroring component
+summary: Restricts dependencies to media, Mojo public, and content public test code for testing.

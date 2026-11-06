@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Mirroring browser DEPS include rules
+summary: Grants the mirroring browser directory include access to content/public/browser via a simple include_rules entry.

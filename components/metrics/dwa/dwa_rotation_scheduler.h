@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DWA rotation scheduler header
+// summary: Declares DwaRotationScheduler, a MetricsRotationScheduler subclass that drives DwaService log rotations using rotation and interval callbacks.
+// ---
+
 #ifndef COMPONENTS_METRICS_DWA_DWA_ROTATION_SCHEDULER_H_
 #define COMPONENTS_METRICS_DWA_DWA_ROTATION_SCHEDULER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemotingSender class declaration
+// summary: Declares RemotingSender, the RTP sender for a single Cast Remoting stream that sends data read from a Mojo data pipe via a Cast frame sender.
+// ---
+
 #ifndef COMPONENTS_MIRRORING_SERVICE_REMOTING_SENDER_H_
 #define COMPONENTS_MIRRORING_SERVICE_REMOTING_SENDER_H_
 

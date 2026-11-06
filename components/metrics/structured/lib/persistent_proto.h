@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersistentProto template class
+// summary: Declares a template wrapper that persists a protobuf to disk with asynchronous initialization reads, manual batched writes, and read/write callbacks.
+// ---
+
 #ifndef COMPONENTS_METRICS_STRUCTURED_LIB_PERSISTENT_PROTO_H_
 #define COMPONENTS_METRICS_STRUCTURED_LIB_PERSISTENT_PROTO_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SingleClientVideoCaptureHost class declaration
+// summary: Declares SingleClientVideoCaptureHost, which implements a subset of mojom::VideoCaptureHost and VideoFrameReceiver to proxy a launched capture device to one client.
+// ---
+
 #ifndef COMPONENTS_MIRRORING_BROWSER_SINGLE_CLIENT_VIDEO_CAPTURE_HOST_H_
 #define COMPONENTS_MIRRORING_BROWSER_SINGLE_CLIENT_VIDEO_CAPTURE_HOST_H_
 

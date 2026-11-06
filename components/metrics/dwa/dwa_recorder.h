@@ -11,6 +11,12 @@
 //    .Record(dwa_recorder.get());
 //------------------------------------------------------------------------------
 
+// ---docerion
+// type: source
+// title: DWA recorder interface
+// summary: Declares the DwaRecorder singleton for enabling recording, purging entries, and collecting DWA events.
+// ---
+
 #ifndef COMPONENTS_METRICS_DWA_DWA_RECORDER_H_
 #define COMPONENTS_METRICS_DWA_DWA_RECORDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'MinidumpUploaderTest: unit tests for MinidumpUploader'
+// summary: Robolectric unit tests for MinidumpUploader covering crash URL branding and valid versus invalid multipart boundary handling during uploads.
+// ---
+
 package org.chromium.components.minidump_uploader;
 
 import org.junit.After;

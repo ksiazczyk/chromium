@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Structured metrics key protos
+// summary: Defines proto2 messages storing per-project keys and rotation metadata for structured metrics, manually synced between Chromium and platform2.
+// ---
+
 syntax = "proto2";
 
 package metrics.structured;

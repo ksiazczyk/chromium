@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test receiver session helper declarations
+// summary: 'Declares test helpers for receiver sessions: a socket-free OpenScreen environment, a CastMessageChannel message port bridge, and a frame-consuming video decoder.'
+// ---
+
 #ifndef COMPONENTS_MIRRORING_SERVICE_TEST_RECEIVER_SESSION_HELPERS_H_
 #define COMPONENTS_MIRRORING_SERVICE_TEST_RECEIVER_SESSION_HELPERS_H_
 

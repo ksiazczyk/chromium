@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Histogram manager implementation
+// summary: Implements the HistogramManager singleton, recording histogram deltas and serializing them into a UMA protobuf via GetDeltas.
+// ---
+
 #include "components/metrics/library_support/histogram_manager.h"
 
 #include <string>

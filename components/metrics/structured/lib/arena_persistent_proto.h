@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Arena-based persistent proto wrapper
+// summary: Declares ArenaPersistentProto, a persistent proto that stores its message in a protobuf arena.
+// ---
+
 #ifndef COMPONENTS_METRICS_STRUCTURED_LIB_ARENA_PERSISTENT_PROTO_H_
 #define COMPONENTS_METRICS_STRUCTURED_LIB_ARENA_PERSISTENT_PROTO_H_
 

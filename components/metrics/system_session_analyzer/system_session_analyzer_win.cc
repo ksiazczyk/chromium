@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System session analyzer Windows implementation
+// summary: Implements the Windows analyzer that queries System event log events 6005, 6006 and 6008 to determine whether the system session containing a given timestamp ended uncleanly.
+// ---
+
 #include "components/metrics/system_session_analyzer/system_session_analyzer_win.h"
 
 #include "base/logging.h"

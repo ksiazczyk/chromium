@@ -1,3 +1,9 @@
+---
+type: readme
+title: System session analyzer
+summary: Explains that the component queries the Windows system event log for startup and shutdown events to distinguish clean from unclean shutdowns and browser crashes from system-wide crashes.
+---
+
 # System session analyzer
 Queries the Windows system event log (viewable in the _Event Viewer_ app, under
 _Windows Logs > System_) for startup and shutdown events to determine whether

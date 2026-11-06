@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private Metrics unsent log store metrics implementation
+// summary: Records UMA histograms for log recall status, compression ratio, and dropped logs, choosing PrivateMetrics or DWA histogram names according to the feature flag.
+// ---
+
 #include "components/metrics/private_metrics/private_metrics_unsent_log_store_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

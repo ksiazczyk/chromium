@@ -1,0 +1,4 @@
+# Docerion header of buildflags.gni.
+type: config
+title: Structured metrics build arguments
+summary: GN arguments file declaring default values for structured_metrics_enabled and structured_metrics_debug_enabled based on the target platform.

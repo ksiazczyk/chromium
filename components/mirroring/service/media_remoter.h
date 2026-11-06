@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaRemoter class for Cast media remoting
+// summary: Declares MediaRemoter, which switches tab mirroring into content remoting, forwards RPC messages between browser and Cast receiver, and streams audio/video data.
+// ---
+
 #ifndef COMPONENTS_MIRRORING_SERVICE_MEDIA_REMOTER_H_
 #define COMPONENTS_MIRRORING_SERVICE_MEDIA_REMOTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data upload config downloader class declaration
+// summary: Declares DataUploadConfigDownloader, which asynchronously fetches the DataUploadConfig containing the report encryption public key and attestation endorsements from Gstatic.
+// ---
+
 #ifndef COMPONENTS_METRICS_PRIVATE_METRICS_DATA_UPLOAD_CONFIG_DOWNLOADER_H_
 #define COMPONENTS_METRICS_PRIVATE_METRICS_DATA_UPLOAD_CONFIG_DOWNLOADER_H_
 

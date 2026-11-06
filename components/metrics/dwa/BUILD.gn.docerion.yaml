@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for DWA metrics
+summary: Defines the dwa_builders private_metrics_builders target that generates DWA builder code.

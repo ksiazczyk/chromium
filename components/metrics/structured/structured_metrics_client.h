@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Structured metrics client singleton
+// summary: Declares the StructuredMetricsClient singleton used to record structured metrics events through a platform-specific recording delegate.
+// ---
+
 #ifndef COMPONENTS_METRICS_STRUCTURED_STRUCTURED_METRICS_CLIENT_H_
 #define COMPONENTS_METRICS_STRUCTURED_STRUCTURED_METRICS_CLIENT_H_
 

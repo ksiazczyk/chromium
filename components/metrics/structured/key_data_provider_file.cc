@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File-based key data provider implementation
+// summary: Implements KeyDataProviderFile, which returns project IDs using keys stored in a file and signals when keys are ready.
+// ---
+
 #include "components/metrics/structured/key_data_provider_file.h"
 
 #include <memory>

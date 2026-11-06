@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Openscreen stats client unit tests
+// summary: Unit tests for OpenscreenStatsClient verifying conversion of sender statistics and histograms into stats dictionaries.
+// ---
+
 #include "components/mirroring/service/openscreen_stats_client.h"
 
 #include "base/logging.h"

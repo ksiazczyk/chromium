@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PUMA service implementation
+// summary: Implements PumaService, which builds Private UMA reports from recorded histograms, manages log rotation, and stores them for upload via the reporting service.
+// ---
+
 #include "components/metrics/private_metrics/puma_service.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Form factor metrics provider unit tests
+// summary: Unit test that verifies ProvideSystemProfileMetrics sets the expected form factor on the system profile hardware proto.
+// ---
+
 #include "components/metrics/ui/form_factor_metrics_provider.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

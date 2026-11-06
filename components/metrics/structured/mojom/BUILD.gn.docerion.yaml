@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Structured metrics mojom build definition
+summary: GN build file defining the mojom bindings target for structured metrics events, its typemaps, and the unit test source set.

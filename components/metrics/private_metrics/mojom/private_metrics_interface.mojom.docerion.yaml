@@ -1,0 +1,4 @@
+# Docerion header of private_metrics_interface.mojom.
+type: source
+title: PrivateMetricsEntry Mojom definition
+summary: Mojom definition of the PrivateMetricsEntry struct that DWA builders populate with event and content hashes, studies of interest, and metric type for recording by DwaRecorder.

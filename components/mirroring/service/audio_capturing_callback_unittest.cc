@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioCapturingCallback unit tests
+// summary: Unit tests verifying that the audio capturing callback invokes its data callback on capture and its error callback on capture errors.
+// ---
+
 #include "components/mirroring/service/audio_capturing_callback.h"
 
 #include <memory>

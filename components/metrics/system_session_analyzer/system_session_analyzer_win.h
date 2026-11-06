@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System session analyzer Windows class declaration
+// summary: Declares the SystemSessionAnalyzer class with its status and extended failure enums, event info struct, and methods for detecting unclean Windows system sessions.
+// ---
+
 #ifndef COMPONENTS_METRICS_SYSTEM_SESSION_ANALYZER_SYSTEM_SESSION_ANALYZER_WIN_H_
 #define COMPONENTS_METRICS_SYSTEM_SESSION_ANALYZER_SYSTEM_SESSION_ANALYZER_WIN_H_
 

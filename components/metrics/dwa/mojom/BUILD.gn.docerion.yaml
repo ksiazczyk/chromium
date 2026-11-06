@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for DWA mojom bindings
+summary: GN build definition that compiles dwa_interface.mojom into Mojo bindings with a dependency on //mojo/public/mojom/base.

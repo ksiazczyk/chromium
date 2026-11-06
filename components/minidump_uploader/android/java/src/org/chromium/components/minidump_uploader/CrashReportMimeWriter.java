@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrashReportMimeWriter
+// summary: Rewrites minidumps and ANR reports into MIME multipart messages for uploading via JNI, optionally returning extracted Crashpad annotations as key-value pairs per crash report.
+// ---
+
 package org.chromium.components.minidump_uploader;
 
 import org.jni_zero.JNINamespace;

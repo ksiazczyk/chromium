@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracking metadata for mirroring
+summary: Maps the directory to the Internals>Cast>Streaming monorail component and a Buganizer component ID.

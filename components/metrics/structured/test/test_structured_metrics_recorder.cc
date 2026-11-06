@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestStructuredMetricsRecorder implementation
+// summary: Implements a test recording delegate that captures structured metrics events in memory and exposes them for verification.
+// ---
+
 #include "components/metrics/structured/test/test_structured_metrics_recorder.h"
 
 namespace metrics::structured {

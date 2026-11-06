@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Structured metrics service implementation
+// summary: Implements the service that collects and uploads structured metrics events, wiring the recorder, reporting service, log store limits, and rotation scheduler.
+// ---
+
 #include "components/metrics/structured/structured_metrics_service.h"
 
 #include <memory>

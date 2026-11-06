@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event class declaration
+// summary: Declares the Event class that structured metrics clients use to build events with typed metrics and sequence metadata.
+// ---
+
 #ifndef COMPONENTS_METRICS_STRUCTURED_EVENT_H_
 #define COMPONENTS_METRICS_STRUCTURED_EVENT_H_
 

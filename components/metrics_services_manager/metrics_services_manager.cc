@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricsServicesManager implementation
+// summary: Implements the manager that creates and exposes metrics, UKM, DWA, Puma, structured metrics, reporting, and variations services for Chrome-like embedders.
+// ---
+
 #include "components/metrics_services_manager/metrics_services_manager.h"
 
 #include <memory>

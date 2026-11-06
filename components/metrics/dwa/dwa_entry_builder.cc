@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DWA entry builder implementation
+// summary: Implements DwaEntryBuilder, hashing event, content, and metric names before recording entries.
+// ---
+
 #include "components/metrics/dwa/dwa_entry_builder.h"
 
 #include "base/metrics/metrics_hashes.h"

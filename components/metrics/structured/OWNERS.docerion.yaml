@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the structured metrics directory
+summary: OWNERS file naming the code owners and last-resort reviewers for review routing in this directory.

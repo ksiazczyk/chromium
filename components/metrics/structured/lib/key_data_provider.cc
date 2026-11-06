@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyDataProvider base implementation
+// summary: Implements observer registration and notification for key readiness, plus a default secondary ID lookup returning no value.
+// ---
+
 #include "components/metrics/structured/lib/key_data_provider.h"
 
 #include <optional>

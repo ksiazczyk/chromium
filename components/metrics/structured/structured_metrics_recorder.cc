@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Structured metrics recorder implementation
+// summary: Implements the recorder that stores structured metrics events, gates recording on the feature flag, and provides events and metadata for UMA upload.
+// ---
+
 #include "components/metrics/structured/structured_metrics_recorder.h"
 
 #include <utility>

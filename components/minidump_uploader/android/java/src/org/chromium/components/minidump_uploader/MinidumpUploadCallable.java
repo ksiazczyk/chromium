@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MinidumpUploadCallable
+// summary: Callable that attempts to upload a single minidump to the crash server, first checking permission, sampling, and network constraints and marking files as skipped when uploads are disallowed.
+// ---
+
 package org.chromium.components.minidump_uploader;
 
 import androidx.annotation.IntDef;

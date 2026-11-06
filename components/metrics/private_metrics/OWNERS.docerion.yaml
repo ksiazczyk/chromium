@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the private metrics directory
+summary: OWNERS file assigning directory owners and routing reviews of *.mojom files to IPC security owners.

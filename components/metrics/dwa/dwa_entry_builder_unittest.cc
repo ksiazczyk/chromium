@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DWA entry builder unit tests
+// summary: Tests metric updates, studies of interest, and content sanitization down to eTLD+1 values.
+// ---
+
 #include "components/metrics/dwa/dwa_entry_builder.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestStructuredMetricsProvider class declaration
+// summary: Declares a test wrapper of the structured metrics provider with helpers to find events, toggle recording and observe event records.
+// ---
+
 #ifndef COMPONENTS_METRICS_STRUCTURED_TEST_TEST_STRUCTURED_METRICS_PROVIDER_H_
 #define COMPONENTS_METRICS_STRUCTURED_TEST_TEST_STRUCTURED_METRICS_PROVIDER_H_
 

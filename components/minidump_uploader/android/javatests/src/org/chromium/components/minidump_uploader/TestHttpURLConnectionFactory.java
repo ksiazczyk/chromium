@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'TestHttpURLConnectionFactory: factory test double'
+// summary: HttpURLConnectionFactory test double that creates TestHttpURLConnection instances with a configurable expected content type.
+// ---
+
 package org.chromium.components.minidump_uploader;
 
 import org.chromium.components.minidump_uploader.util.HttpURLConnectionFactory;

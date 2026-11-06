@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PUMA histogram encoder implementation
+// summary: Implements encoding of histogram deltas into a PrivateUserMetrics proto, selecting histograms by the flags required for the given PUMA type.
+// ---
+
 #include "components/metrics/private_metrics/puma_histogram_encoder.h"
 
 #include "base/metrics/histogram.h"

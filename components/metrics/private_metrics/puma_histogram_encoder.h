@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PUMA histogram encoder
+// summary: Declares a HistogramSnapshotManager subclass that encodes histogram deltas into PrivateUserMetrics protos for PUMA record uploads.
+// ---
+
 #ifndef COMPONENTS_METRICS_PRIVATE_METRICS_PUMA_HISTOGRAM_ENCODER_H_
 #define COMPONENTS_METRICS_PRIVATE_METRICS_PUMA_HISTOGRAM_ENCODER_H_
 

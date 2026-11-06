@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PUMA histogram functions unit tests
+// summary: Unit tests verifying that PUMA histograms carry PUMA-specific flags instead of UMA flags and that boolean, linear, and enumeration samples are recorded correctly.
+// ---
+
 #include "components/metrics/private_metrics/puma_histogram_functions.h"
 
 #include "base/metrics/histogram_functions.h"

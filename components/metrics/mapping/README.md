@@ -1,3 +1,11 @@
+---
+type: readme
+title: Metrics Name Mapping
+summary: Describes the directory's purpose and how the MetricsNameMapper is configured with a base64-encoded protobuf rules string.
+relations:
+  - documents /components/metrics/mapping/metrics_name_mapping.proto
+---
+
 # Metrics Name Mapping
 
 This directory contains generic logic and configuration schemas for renaming

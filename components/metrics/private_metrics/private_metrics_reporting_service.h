@@ -4,6 +4,12 @@
 
 // This file defines a service that sends private metrics logs to a server.
 
+// ---docerion
+// type: source
+// title: Private Metrics reporting service
+// summary: Declares a ReportingService subclass that uploads private metrics logs to the server, with an optional DWA compatibility mode and its own unsent log store.
+// ---
+
 #ifndef COMPONENTS_METRICS_PRIVATE_METRICS_PRIVATE_METRICS_REPORTING_SERVICE_H_
 #define COMPONENTS_METRICS_PRIVATE_METRICS_PRIVATE_METRICS_REPORTING_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CapturedAudioInput implementation
+// summary: Implements creation, recording, volume control and closing of an audio input stream created by the audio service over Mojo, forwarding errors and mute state to the delegate.
+// ---
+
 #include "components/mirroring/service/captured_audio_input.h"
 
 #include "base/check_op.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Structured metrics reporting service implementation
+// summary: Implements StructuredMetricsReportingService, which stores and uploads structured metrics logs to the UMA server and records histograms for upload intervals, response codes, and log sizes.
+// ---
+
 #include "components/metrics/structured/reporting/structured_metrics_reporting_service.h"
 
 #include <string_view>

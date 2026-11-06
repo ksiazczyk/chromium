@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: KeyDataFileDelegate unit tests
+// summary: Unit tests verifying file-backed key storage, key rotation, hashing of project and metric values, and persistence behavior of KeyDataFileDelegate.
+// ---
+
 #include "components/metrics/structured/lib/key_data_file_delegate.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DWA rotation scheduler implementation
+// summary: Implements DwaRotationScheduler, extending MetricsRotationScheduler to drive DWA log rotations and log the DWA.InitSequence histogram.
+// ---
+
 #include "components/metrics/dwa/dwa_rotation_scheduler.h"
 
 #include "base/metrics/histogram_macros.h"

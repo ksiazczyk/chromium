@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DWA service unit tests
+// summary: Unit tests covering DwaService reporting, persisted log counts, encryption public key handling, and coarse system information recording.
+// ---
+
 #include "components/metrics/dwa/dwa_service.h"
 
 #include "base/test/metrics/histogram_tester.h"

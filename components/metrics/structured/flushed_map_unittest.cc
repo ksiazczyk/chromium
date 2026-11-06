@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the flushed event map
+// summary: Unit tests covering FlushedMap flushing of event buffers to disk, reading and deleting flushed keys, purging and size quota handling.
+// ---
+
 #include "components/metrics/structured/flushed_map.h"
 
 #include <cstdint>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Openscreen message port unit tests
+// summary: Unit tests for OpenscreenMessagePort that verify sending and receiving Cast messages over Mojo channels.
+// ---
+
 #include "components/mirroring/service/openscreen_message_port.h"
 
 #include "base/base64.h"

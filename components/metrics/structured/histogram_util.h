@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Structured metrics histogram logging declarations
+// summary: Declares histogram logging helpers and enums for structured metrics, covering event recording states, external metrics counts and storage manager statuses.
+// ---
+
 #ifndef COMPONENTS_METRICS_STRUCTURED_HISTOGRAM_UTIL_H_
 #define COMPONENTS_METRICS_STRUCTURED_HISTOGRAM_UTIL_H_
 

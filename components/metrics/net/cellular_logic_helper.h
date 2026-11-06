@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cellular logic helper declarations
+// summary: Declares functions that return the UMA log upload interval and detect whether the current connection is cellular on supported platforms.
+// ---
+
 #ifndef COMPONENTS_METRICS_NET_CELLULAR_LOGIC_HELPER_H_
 #define COMPONENTS_METRICS_NET_CELLULAR_LOGIC_HELPER_H_
 

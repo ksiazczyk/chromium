@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media remoter implementation
+// summary: Implements MediaRemoter, managing start, stop, and failure handling of media remoting sessions and falling back to tab mirroring for Cast.
+// ---
+
 #include "components/mirroring/service/media_remoter.h"
 
 #include "base/functional/bind.h"

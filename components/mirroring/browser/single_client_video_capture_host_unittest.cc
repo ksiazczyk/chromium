@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SingleClientVideoCaptureHost unit tests
+// summary: Unit tests SingleClientVideoCaptureHost using a mock launched capture device and a fake device launcher to exercise start, stop, and error handling paths.
+// ---
+
 #include "components/mirroring/browser/single_client_video_capture_host.h"
 
 #include "base/functional/bind.h"

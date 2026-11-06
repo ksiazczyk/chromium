@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage manager for structured metrics events
+// summary: Declares StorageManager, an EventStorage that flushes events to disk, drops events when storage limits are exceeded, and retrieves events for upload.
+// ---
+
 #ifndef COMPONENTS_METRICS_STRUCTURED_STORAGE_MANAGER_H_
 #define COMPONENTS_METRICS_STRUCTURED_STORAGE_MANAGER_H_
 

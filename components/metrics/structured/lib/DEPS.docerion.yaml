@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Dependency rules for the structured metrics library
+summary: Restricts include rules to libchrome dependencies so the library can be shared with ChromiumOS.

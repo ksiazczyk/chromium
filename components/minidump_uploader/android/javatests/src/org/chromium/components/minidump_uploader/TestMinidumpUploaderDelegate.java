@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'TestMinidumpUploaderDelegate: test delegate implementation'
+// summary: Test implementation of MinidumpUploaderDelegate that supplies a fixed cache directory and permission manager for upload job tests.
+// ---
+
 package org.chromium.components.minidump_uploader;
 
 import org.chromium.components.minidump_uploader.util.CrashReportingPermissionManager;

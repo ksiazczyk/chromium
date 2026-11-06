@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remoting sender implementation for Cast remoting streams
+// summary: Implements RemotingSender, which reads encoded frames from a Mojo data pipe and transmits them over a Cast Remoting RTP stream while recording dropped-frame UMA metrics.
+// ---
+
 #include "components/mirroring/service/remoting_sender.h"
 
 #include <algorithm>

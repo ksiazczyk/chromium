@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MinidumpUploader
+// summary: Uploads a single minidump to the crash server as a multipart MIME POST request, reporting success with an upload ID or failure due to local or remote errors.
+// ---
+
 package org.chromium.components.minidump_uploader;
 
 import org.chromium.build.BuildConfig;

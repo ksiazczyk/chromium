@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Openscreen RPC dispatcher header
+// summary: Declares OpenscreenRpcDispatcher, an RpcDispatcher that dispatches RPC messages via an Open Screen sender session messenger.
+// ---
+
 #ifndef COMPONENTS_MIRRORING_SERVICE_OPENSCREEN_RPC_DISPATCHER_H_
 #define COMPONENTS_MIRRORING_SERVICE_OPENSCREEN_RPC_DISPATCHER_H_
 

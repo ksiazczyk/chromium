@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Openscreen stats client implementation
+// summary: Implements OpenscreenStatsClient, mapping Open Screen statistic and histogram types to media cast stats and building stats dictionaries.
+// ---
+
 #include "components/mirroring/service/openscreen_stats_client.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PUMA service unit tests
+// summary: Unit tests covering PumaService report building and storing, client ID handling, coarse system profile recording, and behavior with the LOM feature enabled.
+// ---
+
 #include "components/metrics/private_metrics/puma_service.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Structured metrics histogram logging implementation
+// summary: Implements helper functions that log structured metrics states, counts and sizes to UMA histograms, such as recording states, upload sizes and storage manager errors.
+// ---
+
 #include "components/metrics/structured/histogram_util.h"
 
 #include "base/metrics/histogram_functions.h"

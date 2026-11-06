@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build config for private metrics Mojom bindings
+summary: GN build file that defines the mojom target compiling private_metrics_interface.mojom with a dependency on mojo public base.

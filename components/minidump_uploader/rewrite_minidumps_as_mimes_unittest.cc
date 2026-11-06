@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ANR MIME writing
+// summary: Unit tests verifying WriteAnrAsMime handling of version numbers, ELF build IDs and well-formed versus malformed variations strings.
+// ---
+
 #include "components/minidump_uploader/rewrite_minidumps_as_mimes.h"
 
 #include "components/crash/android/anr_build_id_provider.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form factor metrics provider header
+// summary: Declares the FormFactorMetricsProvider class, a MetricsProvider that supplies device form factor metrics for the system profile proto.
+// ---
+
 #ifndef COMPONENTS_METRICS_UI_FORM_FACTOR_METRICS_PROVIDER_H_
 #define COMPONENTS_METRICS_UI_FORM_FACTOR_METRICS_PROVIDER_H_
 

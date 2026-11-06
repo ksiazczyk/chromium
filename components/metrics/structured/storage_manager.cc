@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage manager implementation
+// summary: Implements StorageManager, notifying its delegate when event buffers are flushed to disk.
+// ---
+
 #include "components/metrics/structured/storage_manager.h"
 
 namespace metrics::structured {

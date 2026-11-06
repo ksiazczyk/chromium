@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefs-based key data provider header
+// summary: Declares KeyDataProviderPrefs, a KeyDataProvider implementation that stores structured metrics keys in preferences.
+// ---
+
 #ifndef COMPONENTS_METRICS_STRUCTURED_KEY_DATA_PROVIDER_PREFS_H_
 #define COMPONENTS_METRICS_STRUCTURED_KEY_DATA_PROVIDER_PREFS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Persistent proto unit tests
+// summary: Unit tests for PersistentProtoInternal implementations, covering PersistentProto and ArenaPersistentProto read, write and disk persistence behavior.
+// ---
+
 #include <memory>
 #include <string>
 

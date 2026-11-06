@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake video capture host class declaration
+// summary: Declares FakeVideoCaptureHost, a mojom VideoCaptureHost fake that sends test frames and exposes capture parameters, pause state, and callbacks for tests.
+// ---
+
 #ifndef COMPONENTS_MIRRORING_SERVICE_FAKE_VIDEO_CAPTURE_HOST_H_
 #define COMPONENTS_MIRRORING_SERVICE_FAKE_VIDEO_CAPTURE_HOST_H_
 

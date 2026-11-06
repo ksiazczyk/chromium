@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test receiver session helper implementations
+// summary: Implements an in-memory OpenScreen environment, a Mojo message port bridge, and a VPX-decoding frame consumer used to exercise receiver sessions in tests.
+// ---
+
 #include "components/mirroring/service/test_receiver_session_helpers.h"
 
 #include <utility>

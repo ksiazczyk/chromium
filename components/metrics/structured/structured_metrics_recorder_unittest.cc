@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Structured metrics recorder unit tests
+// summary: Unit tests for the structured metrics recorder, covering event recording, key data providers, event storage, and log flushing with test project and metric hashes.
+// ---
+
 #include "components/metrics/structured/structured_metrics_recorder.h"
 
 #include <cstdint>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Histogram manager unit tests
+// summary: Unit test verifying that GetDeltas captures recorded UMA histogram buckets and serializes them correctly into the protobuf output.
+// ---
+
 #include "components/metrics/library_support/histogram_manager.h"
 
 #include <stdint.h>

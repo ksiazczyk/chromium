@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event validator implementation
+// summary: Implements EventValidator accessors for the event hash, metric metadata lookup, and metric name lookup by hash.
+// ---
+
 #include "components/metrics/structured/event_validator.h"
 
 #include <cstdint>

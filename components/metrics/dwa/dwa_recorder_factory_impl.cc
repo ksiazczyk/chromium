@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DWA recorder factory Mojo implementation
+// summary: Implements the Mojo DwaRecorderFactory interface by wrapping the DwaRecorder singleton and binding self-owned receivers for creating DWA recorder interfaces.
+// ---
+
 #include "components/metrics/dwa/dwa_recorder_factory_impl.h"
 
 #include "components/metrics/dwa/dwa_recorder_interface.h"

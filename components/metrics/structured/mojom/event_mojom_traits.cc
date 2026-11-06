@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event mojom traits implementation
+// summary: Implements Mojo union and struct traits that convert between metrics::structured::Event and its Mojom representation.
+// ---
+
 #include "components/metrics/structured/mojom/event_mojom_traits.h"
 
 #include <map>

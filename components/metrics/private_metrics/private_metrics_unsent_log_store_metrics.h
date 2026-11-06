@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private Metrics unsent log store metrics
+// summary: Declares an UnsentLogStoreMetrics implementation that records read, compression, and dropped-log metrics for the private metrics unsent log store.
+// ---
+
 #ifndef COMPONENTS_METRICS_PRIVATE_METRICS_PRIVATE_METRICS_UNSENT_LOG_STORE_METRICS_H_
 #define COMPONENTS_METRICS_PRIVATE_METRICS_PRIVATE_METRICS_UNSENT_LOG_STORE_METRICS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for private metrics
+summary: DEPS file listing allowed includes such as net, services, and federated compute protos, with a specific rule granting puma_service.cc access to country_access_reason.h.

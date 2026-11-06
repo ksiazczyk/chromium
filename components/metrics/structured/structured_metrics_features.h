@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Structured metrics features header
+// summary: Declares the Phone Hub structured metrics feature and accessor functions for its collection, backup, upload, and storage size parameters.
+// ---
+
 #ifndef COMPONENTS_METRICS_STRUCTURED_STRUCTURED_METRICS_FEATURES_H_
 #define COMPONENTS_METRICS_STRUCTURED_STRUCTURED_METRICS_FEATURES_H_
 

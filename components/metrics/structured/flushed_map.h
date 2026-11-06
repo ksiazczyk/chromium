@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flushed map disk storage class declaration
+// summary: Declares FlushedMap, which manages asynchronous writing and synchronous reading of structured metrics events flushed to disk, identified by FlushedKey metadata.
+// ---
+
 #ifndef COMPONENTS_METRICS_STRUCTURED_FLUSHED_MAP_H_
 #define COMPONENTS_METRICS_STRUCTURED_FLUSHED_MAP_H_
 

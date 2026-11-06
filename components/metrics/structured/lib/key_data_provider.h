@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyDataProvider interface declaration
+// summary: Declares the interface supplying key data for hashing projects, distinguishing device and profile keys, with readiness checks, ID retrieval, and purge support.
+// ---
+
 #ifndef COMPONENTS_METRICS_STRUCTURED_LIB_KEY_DATA_PROVIDER_H_
 #define COMPONENTS_METRICS_STRUCTURED_LIB_KEY_DATA_PROVIDER_H_
 

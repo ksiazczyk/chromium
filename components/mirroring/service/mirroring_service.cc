@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mirroring service implementation
+// summary: Implements the mirroring Mojo service entry point that starts and manages Open Screen sessions, switches the source tab, and reports mirroring stats.
+// ---
+
 #include "components/mirroring/service/mirroring_service.h"
 
 #include <utility>

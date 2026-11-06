@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake video capture host implementation
+// summary: Implements a fake VideoCaptureHost that starts, stops, pauses, and delivers generated video frames via shared memory buffers for mirroring tests.
+// ---
+
 #include "components/mirroring/service/fake_video_capture_host.h"
 
 #include <algorithm>

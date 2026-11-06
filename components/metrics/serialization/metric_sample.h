@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricSample class declaration for metric serialization
+// summary: Declares the MetricSample container used by libmetrics to serialize and deserialize ChromeOS metric samples such as crashes, histograms, and user actions.
+// ---
+
 #ifndef COMPONENTS_METRICS_SERIALIZATION_METRIC_SAMPLE_H_
 #define COMPONENTS_METRICS_SERIALIZATION_METRIC_SAMPLE_H_
 

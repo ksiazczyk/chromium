@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DWA recorder Mojo interface header
+// summary: Declares DwaRecorderInterface, which sets up the Mojo receiver for adding DWA entries and holds a pointer to the DwaRecorder singleton.
+// ---
+
 #ifndef COMPONENTS_METRICS_DWA_DWA_RECORDER_INTERFACE_H_
 #define COMPONENTS_METRICS_DWA_DWA_RECORDER_INTERFACE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Open Screen message port interface
+// summary: Declares a message port adapter connecting the Open Screen cast MessagePort with Mojo CastMessageChannel endpoints for fixed source and destination IDs.
+// ---
+
 #ifndef COMPONENTS_MIRRORING_SERVICE_OPENSCREEN_MESSAGE_PORT_H_
 #define COMPONENTS_MIRRORING_SERVICE_OPENSCREEN_MESSAGE_PORT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'MinidumpUploadJobImplTest: tests for the upload job implementation'
+// summary: Robolectric tests for the common MinidumpUploadJob implementation, checking upload retry limits and behavior when minidump uploads fail.
+// ---
+
 package org.chromium.components.minidump_uploader;
 
 import static org.junit.Assert.assertEquals;

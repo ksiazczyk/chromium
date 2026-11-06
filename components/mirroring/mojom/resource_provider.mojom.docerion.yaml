@@ -1,0 +1,4 @@
+# Docerion header of resource_provider.mojom.
+type: source
+title: ResourceProvider Mojom interface
+summary: Defines the ResourceProvider interface through which the mirroring service obtains privileged browser resources such as GPU, video capture, audio, and sockets.

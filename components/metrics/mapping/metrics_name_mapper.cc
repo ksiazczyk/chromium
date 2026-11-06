@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricsNameMapper implementation
+// summary: Parses the base64 protobuf config into exact-match rules and maps, allows or drops metric names accordingly.
+// ---
+
 #include "components/metrics/mapping/metrics_name_mapper.h"
 
 #include "base/base64.h"

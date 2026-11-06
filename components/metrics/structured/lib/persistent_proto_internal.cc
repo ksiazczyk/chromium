@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersistentProtoInternal implementation
+// summary: Implements asynchronous file reading, proto parsing, serialization, scheduled writes, purging, and path updates for persistent protos.
+// ---
+
 #include "components/metrics/structured/lib/persistent_proto_internal.h"
 
 #include <atomic>

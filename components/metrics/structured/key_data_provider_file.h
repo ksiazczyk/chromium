@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File-based key data provider header
+// summary: Declares KeyDataProviderFile, a KeyDataProvider implementation that stores structured metrics keys in a file.
+// ---
+
 #ifndef COMPONENTS_METRICS_STRUCTURED_KEY_DATA_PROVIDER_FILE_H_
 #define COMPONENTS_METRICS_STRUCTURED_KEY_DATA_PROVIDER_FILE_H_
 

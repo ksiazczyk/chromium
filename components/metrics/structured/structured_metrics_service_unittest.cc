@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Structured metrics service unit tests
+// summary: Unit tests for StructuredMetricsService, using test recorders, key data providers, and event storage to verify log creation, rotation, and reporting behavior.
+// ---
+
 #include "components/metrics/structured/structured_metrics_service.h"
 
 #include <memory>

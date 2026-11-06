@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test metrics service client implementation
+// summary: Implements TestMetricsServiceClient with stubbed client methods and configurable values such as brand, channel and upload interval for tests.
+// ---
+
 #include "components/metrics/test/test_metrics_service_client.h"
 
 #include <memory>

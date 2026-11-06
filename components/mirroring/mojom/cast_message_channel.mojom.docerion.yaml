@@ -1,0 +1,4 @@
+# Docerion header of cast_message_channel.mojom.
+type: source
+title: CastMessageChannel Mojom interface
+summary: Defines the CastMessage struct and CastMessageChannel interface used to send and receive Cast messages for mirroring and remoting sessions.
