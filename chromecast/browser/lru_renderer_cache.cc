@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LRU renderer cache implementation
+// summary: Implements an LRU cache of pre-launched renderer processes for the Cast browser, evicting entries to honor memory limits from the Memory Coordinator.
+// ---
+
 #include "chromecast/browser/lru_renderer_cache.h"
 
 #include <utility>

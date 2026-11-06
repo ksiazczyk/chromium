@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura window creation for CastWebService
+// summary: Provides the Aura-specific CastWebService::CreateWindow implementation that returns a CastContentWindowAura.
+// ---
+
 #include "chromecast/browser/cast_web_service.h"
 
 #include <memory>

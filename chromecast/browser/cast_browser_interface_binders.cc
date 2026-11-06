@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast browser interface binders
+// summary: Registers Mojo interface binders that route renderer interface requests to Cast browser services, gated by renderer features where needed.
+// ---
+
 #include "chromecast/browser/cast_browser_interface_binders.h"
 
 #include <string_view>

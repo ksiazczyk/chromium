@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Application media info manager header
+// summary: Declares ApplicationMediaInfoManager, a DocumentService supplying cast application media info and renderer block state.
+// ---
+
 #ifndef CHROMECAST_BROWSER_APPLICATION_MEDIA_INFO_MANAGER_H_
 #define CHROMECAST_BROWSER_APPLICATION_MEDIA_INFO_MANAGER_H_
 

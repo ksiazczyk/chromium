@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default CastWebUI Create factory
+// summary: Provides the default CastWebUI::Create implementation that instantiates a plain CastWebUI controller.
+// ---
+
 #include "chromecast/browser/webui/cast_webui.h"
 
 namespace chromecast {

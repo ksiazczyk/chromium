@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefService helper implementation
+// summary: Creates the PrefService for the Cast shell from JSON config files, registering preferences and moving large prefs into a separate segregated store.
+// ---
+
 #include "chromecast/browser/pref_service_helper.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastWebUI class declaration
+// summary: Declares the CastWebUI class, a WebUI controller that exposes Mojo message callbacks and JavaScript invocation for cast Web UI pages.
+// ---
+
 #ifndef CHROMECAST_BROWSER_WEBUI_CAST_WEBUI_H_
 #define CHROMECAST_BROWSER_WEBUI_CAST_WEBUI_H_
 

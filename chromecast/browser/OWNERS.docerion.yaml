@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Chromecast browser OWNERS rules
+summary: Assigns IPC security owners to review specific browser binding, connector, and overlay manifest files.

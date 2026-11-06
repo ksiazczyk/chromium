@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastWebContents implementation for Cast shell web contents
+// summary: Implements the CastWebContents interface, wrapping a content::WebContents to manage page state, permissions, messaging, scripting, and media blocking for Cast applications.
+// ---
+
 #include "chromecast/browser/cast_web_contents_impl.h"
 
 #include <algorithm>

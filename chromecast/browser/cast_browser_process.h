@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastBrowserProcess header
+// summary: Declares the CastBrowserProcess singleton with setters and accessors for browser context, screen, metrics, prefs and services.
+// ---
+
 #ifndef CHROMECAST_BROWSER_CAST_BROWSER_PROCESS_H_
 #define CHROMECAST_BROWSER_CAST_BROWSER_PROCESS_H_
 

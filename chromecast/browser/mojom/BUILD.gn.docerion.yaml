@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: chromecast/browser/mojom BUILD.gn
+summary: Defines the GN mojom target that builds the Cast Browser mojo interfaces and configures C++ typemaps for visibility and page state types.

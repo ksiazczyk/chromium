@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast session ID map implementation
+// summary: Implements a singleton map that associates Cast session IDs with WebContents audio group IDs and removes mappings when WebContents are destroyed.
+// ---
+
 #include "chromecast/browser/cast_session_id_map.h"
 
 #include "base/functional/bind.h"

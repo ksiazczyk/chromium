@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast WebUI controller factory implementation
+// summary: Implements the WebUI controller factory that filters known Cast hosts, decides which URLs use a Cast WebUI, and creates controllers plus the resource data source on first use.
+// ---
+
 #include "chromecast/browser/webui/cast_webui_controller_factory.h"
 
 #include <algorithm>

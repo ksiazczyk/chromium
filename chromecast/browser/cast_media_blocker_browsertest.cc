@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CastMediaBlocker browser tests
+// summary: Browser tests that verify CastMediaBlocker blocks and unblocks audio and video playback in web contents, currently disabled pending re-enabling.
+// ---
+
 #include <memory>
 
 #include "base/logging.h"

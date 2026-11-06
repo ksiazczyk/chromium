@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast permission manager implementation
+// summary: Implements the Cast browser permission controller delegate, granting or denying Blink permission requests based on app web URL, feature permissions and origin whitelists.
+// ---
+
 #include "chromecast/browser/cast_permission_manager.h"
 
 #include "base/functional/callback.h"

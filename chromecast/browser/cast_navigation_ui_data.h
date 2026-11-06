@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastNavigationUIData class declaration
+// summary: Declares CastNavigationUIData, which carries the Cast session ID with navigation UI data for web contents.
+// ---
+
 #ifndef CHROMECAST_BROWSER_CAST_NAVIGATION_UI_DATA_H_
 #define CHROMECAST_BROWSER_CAST_NAVIGATION_UI_DATA_H_
 

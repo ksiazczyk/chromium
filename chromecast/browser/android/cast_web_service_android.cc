@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android window factory for CastWebService
+// summary: C++ source overriding CastWebService::CreateWindow to return Android CastContentWindow instances.
+// ---
+
 #include "chromecast/browser/cast_web_service.h"
 
 #include <memory>

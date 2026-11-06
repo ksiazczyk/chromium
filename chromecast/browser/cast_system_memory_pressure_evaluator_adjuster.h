@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory pressure evaluator adjuster interface
+// summary: Declares the CastSystemMemoryPressureEvaluatorAdjuster interface for configuring, relaxing, and restoring memory pressure thresholds from any thread.
+// ---
+
 #ifndef CHROMECAST_BROWSER_CAST_SYSTEM_MEMORY_PRESSURE_EVALUATOR_ADJUSTER_H_
 #define CHROMECAST_BROWSER_CAST_SYSTEM_MEMORY_PRESSURE_EVALUATOR_ADJUSTER_H_
 

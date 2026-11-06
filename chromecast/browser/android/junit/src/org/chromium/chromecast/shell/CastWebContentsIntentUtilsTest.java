@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CastWebContentsIntentUtilsTest
+// summary: Robolectric unit tests verifying that CastWebContentsIntentUtils builds and parses intents for activity stop, visibility change, start and stop requests, and touch input.
+// ---
+
 package org.chromium.chromecast.shell;
 
 import android.content.Intent;

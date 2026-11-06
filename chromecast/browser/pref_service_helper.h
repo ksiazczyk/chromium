@@ -4,6 +4,12 @@
 //
 // Helper to initialize PrefService for cast shell.
 
+// ---docerion
+// type: source
+// title: PrefService helper header
+// summary: Declares PrefServiceHelper, which loads Cast shell configuration into a PrefService and allows platform-specific preference registration.
+// ---
+
 #ifndef CHROMECAST_BROWSER_PREF_SERVICE_HELPER_H_
 #define CHROMECAST_BROWSER_PREF_SERVICE_HELPER_H_
 

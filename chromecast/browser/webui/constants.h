@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast WebUI host constants header
+// summary: Declares the Cast WebUI host name constants and the IsKnownCastWebUiHost helper for the chromecast namespace.
+// ---
+
 #ifndef CHROMECAST_BROWSER_WEBUI_CONSTANTS_H_
 #define CHROMECAST_BROWSER_WEBUI_CONSTANTS_H_
 

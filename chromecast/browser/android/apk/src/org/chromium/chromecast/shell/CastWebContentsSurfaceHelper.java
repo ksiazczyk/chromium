@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastWebContentsSurfaceHelper
+// summary: Utility class that helps CastWebContentsActivity display WebContents on its views and coordinate teardown with CastContentWindowAndroid.
+// ---
+
 package org.chromium.chromecast.shell;
 
 import android.content.Intent;

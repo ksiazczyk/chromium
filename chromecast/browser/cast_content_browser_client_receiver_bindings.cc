@@ -4,6 +4,12 @@
 
 // This file exposes services from the cast browser to child processes.
 
+// ---docerion
+// type: source
+// title: Cast browser service bindings for child processes
+// summary: Exposes Cast browser services to renderer and media child processes by binding Mojo interfaces such as media caps, metrics helpers, and MediaDrm storage.
+// ---
+
 #include <memory>
 
 #include "base/functional/bind.h"

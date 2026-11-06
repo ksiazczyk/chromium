@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Cast browser metrics owners
+summary: Delegates review ownership of Chromecast metrics code to the base/metrics OWNERS file.

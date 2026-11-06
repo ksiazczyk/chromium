@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast overlay manifests declarations
+// summary: Declares functions returning the Cast overlay manifests for the content browser and packaged services service manifests.
+// ---
+
 #ifndef CHROMECAST_BROWSER_CAST_OVERLAY_MANIFESTS_H_
 #define CHROMECAST_BROWSER_CAST_OVERLAY_MANIFESTS_H_
 

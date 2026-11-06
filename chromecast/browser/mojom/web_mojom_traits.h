@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: web_mojom_traits.h
+// summary: Provides mojo EnumTraits conversions between chromecast::PageState and chromecast.mojom.PageState.
+// ---
+
 #ifndef CHROMECAST_BROWSER_MOJOM_WEB_MOJOM_TRAITS_H_
 #define CHROMECAST_BROWSER_MOJOM_WEB_MOJOM_TRAITS_H_
 

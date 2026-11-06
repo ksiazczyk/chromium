@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast download manager delegate implementation
+// summary: Implements the download manager delegate that assigns download IDs and effectively cancels download targets in cast_shell.
+// ---
+
 #include "chromecast/browser/cast_download_manager_delegate.h"
 
 #include <stdint.h>

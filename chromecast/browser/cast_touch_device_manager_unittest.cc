@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast touch device manager unit tests
+// summary: Unit tests verifying that CastTouchDeviceManager maps touch coordinates correctly onto the display for same-size and larger touchscreens.
+// ---
+
 #include "chromecast/browser/cast_touch_device_manager.h"
 #include "testing/gtest/include/gtest/gtest.h"
 #include "ui/events/devices/device_data_manager.h"

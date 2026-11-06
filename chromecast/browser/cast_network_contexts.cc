@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastNetworkContexts implementation
+// summary: Implements the system network context for Cast, configuring network service parameters, cookies, proxy settings and URL loader factories.
+// ---
+
 #include "chromecast/browser/cast_network_contexts.h"
 
 #include <memory>

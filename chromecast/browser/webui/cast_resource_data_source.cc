@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast resource data source implementation
+// summary: Implements a URL data source that serves cast WebUI resources, mapping request paths to MIME types and applying content security policy and origin access rules.
+// ---
+
 #include "chromecast/browser/webui/cast_resource_data_source.h"
 
 #include "base/files/file_path.h"

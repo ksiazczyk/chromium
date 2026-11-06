@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceManagerConnection implementation
+// summary: Implements a per-process connection to the service manager, owning IO thread state for service and interface bindings.
+// ---
+
 #include "chromecast/browser/service_manager_connection.h"
 
 #include <map>

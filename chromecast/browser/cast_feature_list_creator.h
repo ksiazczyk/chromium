@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast feature list creator header
+// summary: Declares CastFeatureListCreator, which builds and holds the PrefService until CastBrowserProcess takes ownership at browser startup.
+// ---
+
 #ifndef CHROMECAST_BROWSER_CAST_FEATURE_LIST_CREATOR_H_
 #define CHROMECAST_BROWSER_CAST_FEATURE_LIST_CREATOR_H_
 

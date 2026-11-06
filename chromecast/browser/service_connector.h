@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceConnector class header
+// summary: Declares the ServiceConnector class and client ID constants for binding Cast service connection requests inside and outside the browser process.
+// ---
+
 #ifndef CHROMECAST_BROWSER_SERVICE_CONNECTOR_H_
 #define CHROMECAST_BROWSER_SERVICE_CONNECTOR_H_
 

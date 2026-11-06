@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceManagerConnection class header
+// summary: Declares the per-process service manager connection with process-wide accessors, creation, start, and connector retrieval APIs.
+// ---
+
 #ifndef CHROMECAST_BROWSER_SERVICE_MANAGER_CONNECTION_H_
 #define CHROMECAST_BROWSER_SERVICE_MANAGER_CONNECTION_H_
 

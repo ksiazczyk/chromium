@@ -1,0 +1,4 @@
+# Docerion header of missing_resource.html.
+type: test
+title: Missing resource test page
+summary: Test page that loads a nonexistent script to trigger a resource load failure during testing.

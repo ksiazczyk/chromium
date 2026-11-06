@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastWebContentsImpl class declaration
+// summary: Declares CastWebContentsImpl, the CastWebContents implementation that observes WebContents and exposes page control, feature permissions, and interface binding APIs.
+// ---
+
 #ifndef CHROMECAST_BROWSER_CAST_WEB_CONTENTS_IMPL_H_
 #define CHROMECAST_BROWSER_CAST_WEB_CONTENTS_IMPL_H_
 

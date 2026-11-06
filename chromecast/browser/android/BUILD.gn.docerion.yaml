@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Android Cast browser build targets
+summary: GN build file defining resources, Java libraries, AIDL, JNI header generation and other targets for the Cast shell on Android.

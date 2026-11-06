@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast permission user data implementation
+// summary: Creates CastPermissionUserData objects attached to WebContents, storing app id, web URL and feature permissions including protected media identifier.
+// ---
+
 #include "chromecast/browser/cast_permission_user_data.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BackPressCallbackAdapterTest
+// summary: Robolectric unit tests verifying that BackPressCallbackAdapter enables the back-press callback only while observers are subscribed and dispatches back-press events to them.
+// ---
+
 package org.chromium.chromecast.shell;
 
 import static org.junit.Assert.assertEquals;

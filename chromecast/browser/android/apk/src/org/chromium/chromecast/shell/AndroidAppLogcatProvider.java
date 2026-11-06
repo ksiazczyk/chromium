@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android logcat provider with PII elision
+// summary: Extracts logcat from the Android device and elides PII such as emails, IP and MAC addresses, URLs, and JavaScript console messages.
+// ---
+
 package org.chromium.chromecast.shell;
 
 import org.chromium.base.ContextUtils;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast named message port connector implementation
+// summary: Injects the port connection script into CastWebContents and posts the connect message with a message port to the main frame once a page loads.
+// ---
+
 #include "chromecast/browser/named_message_port_connector_cast.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CastBrowserTest fixture implementation
+// summary: Implements the CastBrowserTest fixture that boots the cast_shell browser, creates web views, and navigates them to URLs during browser tests.
+// ---
+
 #include "chromecast/browser/test/cast_browser_test.h"
 
 #include "base/check_op.h"

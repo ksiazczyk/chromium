@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastWebViewFactory class header
+// summary: Declares CastWebViewFactory, which creates CastWebView instances for the cast shell and exposes the associated browser context.
+// ---
+
 #ifndef CHROMECAST_BROWSER_CAST_WEB_VIEW_FACTORY_H_
 #define CHROMECAST_BROWSER_CAST_WEB_VIEW_FACTORY_H_
 

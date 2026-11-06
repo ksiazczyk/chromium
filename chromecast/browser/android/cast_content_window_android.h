@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastContentWindowAndroid class declaration
+// summary: Header declaring the Android CastContentWindow subclass that displays WebContents in CastWebContentsActivity and handles JNI callbacks.
+// ---
+
 #ifndef CHROMECAST_BROWSER_ANDROID_CAST_CONTENT_WINDOW_ANDROID_H_
 #define CHROMECAST_BROWSER_ANDROID_CAST_CONTENT_WINDOW_ANDROID_H_
 

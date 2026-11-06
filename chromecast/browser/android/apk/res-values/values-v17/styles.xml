@@ -5,6 +5,12 @@
      found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: CastShellTheme style for Android API 17
+summary: Android resource file defining the CastShellTheme style with a black window background for devices running API level 17 and higher.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <style name="CastShellTheme" parent="@android:style/Theme.Holo.Light.NoActionBar">
         <item name="android:windowBackground">@android:color/black</item>

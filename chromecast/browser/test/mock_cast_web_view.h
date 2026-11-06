@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Mock CastWebView declarations
+// summary: Declares gmock-based MockCastWebContents and MockCastWebView classes that stand in for the real Cast web view classes in tests.
+// ---
+
 #ifndef CHROMECAST_BROWSER_TEST_MOCK_CAST_WEB_VIEW_H_
 #define CHROMECAST_BROWSER_TEST_MOCK_CAST_WEB_VIEW_H_
 

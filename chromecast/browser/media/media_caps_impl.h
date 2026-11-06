@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaCapsImpl class declaration
+// summary: Declares the MediaCapsImpl class that implements the mojom::MediaCaps interface with receiver and observer sets for codec profile levels.
+// ---
+
 #ifndef CHROMECAST_BROWSER_MEDIA_MEDIA_CAPS_IMPL_H_
 #define CHROMECAST_BROWSER_MEDIA_MEDIA_CAPS_IMPL_H_
 

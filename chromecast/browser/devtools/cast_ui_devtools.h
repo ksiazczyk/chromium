@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast UI DevTools class declaration
+// summary: Declares CastUIDevTools, a container that instantiates a separate DevTools server for viewing the Aura UI tree when USE_AURA and --enable-ui-devtools are active.
+// ---
+
 #ifndef CHROMECAST_BROWSER_DEVTOOLS_CAST_UI_DEVTOOLS_H_
 #define CHROMECAST_BROWSER_DEVTOOLS_CAST_UI_DEVTOOLS_H_
 

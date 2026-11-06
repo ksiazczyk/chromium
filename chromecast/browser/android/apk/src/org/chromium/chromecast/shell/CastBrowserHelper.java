@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: One-time browser process initialization helper
+// summary: Performs one-time asynchronous browser initialization, including command line setup, library loading, and network notifications.
+// ---
+
 package org.chromium.chromecast.shell;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TaskRemovedMonitorService tests
+// summary: Robolectric tests for TaskRemovedMonitorService covering service start, stop and task-removed intent handling.
+// ---
+
 package org.chromium.chromecast.shell;
 
 import static org.junit.Assert.assertEquals;

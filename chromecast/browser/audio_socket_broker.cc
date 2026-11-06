@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio socket broker implementation
+// summary: Implements a browser-side service that brokers Unix domain socket connections between renderers and the audio output service.
+// ---
+
 #include "chromecast/browser/audio_socket_broker.h"
 
 #include <memory>

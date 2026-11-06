@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastServiceSimple implementation
+// summary: Implements the simple cast service, resolving a startup URL or file path from the command line and loading it into a cast web view with lifecycle start and stop handling.
+// ---
+
 #include "chromecast/browser/service/cast_service_simple.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastWebPreferences per-WebContents preference storage
+// summary: Declares CastWebPreferences, a WebContents user data entry that stores optional WebPreferences overrides for the lifetime of the WebContents.
+// ---
+
 #ifndef CHROMECAST_BROWSER_CAST_WEB_PREFERENCES_H_
 #define CHROMECAST_BROWSER_CAST_WEB_PREFERENCES_H_
 

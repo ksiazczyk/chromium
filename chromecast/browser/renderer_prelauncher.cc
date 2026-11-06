@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer prelauncher implementation
+// summary: Pre-launches a renderer process for a URL's SiteInstance and keeps its RenderProcessHost alive until the prelauncher is destroyed.
+// ---
+
 #include "chromecast/browser/renderer_prelauncher.h"
 
 #include <utility>

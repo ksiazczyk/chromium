@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LRU renderer cache unit tests
+// summary: Unit tests for LRURendererCache covering take, release, eviction, and memory limit behavior using mock prelaunchers and a test memory consumer registry.
+// ---
+
 #include "chromecast/browser/lru_renderer_cache.h"
 
 #include <memory>

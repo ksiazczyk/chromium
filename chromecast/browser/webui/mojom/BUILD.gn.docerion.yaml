@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for the Cast WebUI mojom bindings
+summary: Defines the mojom build target that generates bindings from webui.mojom, depending on the mojo public base mojoms.

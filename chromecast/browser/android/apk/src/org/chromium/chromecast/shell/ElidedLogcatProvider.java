@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ElidedLogcatProvider
+// summary: Abstract provider that extracts logcat from Android devices and elides PII such as emails, IP and MAC addresses, URLs, and console messages.
+// ---
+
 package org.chromium.chromecast.shell;
 
 import android.os.SystemClock;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastWebService class declaration
+// summary: Declares CastWebService, the mojom::CastWebService implementation that dispenses CastWebView objects and coordinates their lifetimes during shutdown.
+// ---
+
 #ifndef CHROMECAST_BROWSER_CAST_WEB_SERVICE_H_
 #define CHROMECAST_BROWSER_CAST_WEB_SERVICE_H_
 

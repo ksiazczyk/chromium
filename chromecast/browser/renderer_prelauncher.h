@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer prelauncher header
+// summary: Declares RendererPrelauncher, which starts and retains a renderer process for a SiteInstance ahead of page load.
+// ---
+
 #ifndef CHROMECAST_BROWSER_RENDERER_PRELAUNCHER_H_
 #define CHROMECAST_BROWSER_RENDERER_PRELAUNCHER_H_
 

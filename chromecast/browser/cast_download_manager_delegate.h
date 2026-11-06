@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast download manager delegate header
+// summary: Declares CastDownloadManagerDelegate, the browser-side download manager delegate attached as user data in cast_shell.
+// ---
+
 #ifndef CHROMECAST_BROWSER_CAST_DOWNLOAD_MANAGER_DELEGATE_H_
 #define CHROMECAST_BROWSER_CAST_DOWNLOAD_MANAGER_DELEGATE_H_
 

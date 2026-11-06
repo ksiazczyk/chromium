@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastContentWindow base implementation
+// summary: Implements the base CastContentWindow, managing observers, Mojo receiver binding, and visibility and destruction notifications for cast_shell windows.
+// ---
+
 #include "chromecast/browser/cast_content_window.h"
 
 namespace chromecast {

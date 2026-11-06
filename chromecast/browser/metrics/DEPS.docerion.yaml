@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Cast browser metrics include rules
+summary: Grants the directory include access to chromecast/metrics, components/metrics, and third_party/metrics_proto headers.

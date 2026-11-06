@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CastWebContentsSurfaceHelperTest
+// summary: Robolectric unit tests for CastWebContentsSurfaceHelper using mocked observers and media sessions to exercise surface helper behavior with broadcast helpers.
+// ---
+
 package org.chromium.chromecast.shell;
 
 import static org.junit.Assert.assertEquals;

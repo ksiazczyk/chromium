@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Back press dispatcher adapter exposing events as Observables
+// summary: Adapts an OnBackPressedDispatcher into a shared Observable of back press events, with support for falling back to the default handler.
+// ---
+
 package org.chromium.chromecast.shell;
 
 import androidx.activity.OnBackPressedCallback;

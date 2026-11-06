@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastPermissionManager class declaration
+// summary: Declares CastPermissionManager, the Cast browser's PermissionControllerDelegate for handling permission requests and status queries.
+// ---
+
 #ifndef CHROMECAST_BROWSER_CAST_PERMISSION_MANAGER_H_
 #define CHROMECAST_BROWSER_CAST_PERMISSION_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastWebView interface for cast_shell WebContents
+// summary: Declares the CastWebView interface for loading and displaying WebContents in the cast shell, with accessors for the window, web contents and shutdown delay.
+// ---
+
 #ifndef CHROMECAST_BROWSER_CAST_WEB_VIEW_H_
 #define CHROMECAST_BROWSER_CAST_WEB_VIEW_H_
 

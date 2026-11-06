@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of pref config migration utilities
+// summary: Implements CopyPrefConfigsIfMissing, which copies the regular and large pref config files from the old cast config path to the browser config path when they are missing.
+// ---
+
 #include "chromecast/browser/migration/migration_utils.h"
 
 #include "base/check.h"

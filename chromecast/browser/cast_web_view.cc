@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastWebView receiver binding helper
+// summary: Implements CastWebView::BindReceivers, binding the CastWebContents and CastContentWindow mojo receivers for a web view.
+// ---
+
 #include "chromecast/browser/cast_web_view.h"
 
 namespace chromecast {

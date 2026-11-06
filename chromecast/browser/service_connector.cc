@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceConnector browser-side implementation
+// summary: Implements the ServiceConnector Mojo interface to route interface binding requests to Cast services on behalf of browser and media service clients.
+// ---
+
 #include "chromecast/browser/service_connector.h"
 
 #include "base/functional/bind.h"

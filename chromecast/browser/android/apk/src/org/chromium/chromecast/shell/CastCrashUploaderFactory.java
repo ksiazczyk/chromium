@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastCrashUploaderFactory
+// summary: Factory that creates CastCrashUploader instances sharing a single-threaded ScheduledExecutorService for crash upload tasks.
+// ---
+
 package org.chromium.chromecast.shell;
 
 import java.util.concurrent.Executors;

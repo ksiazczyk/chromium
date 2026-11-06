@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast DevTools manager delegate implementation
+// summary: Implements the Cast shell DevTools manager delegate that tracks WebContents enabled for remote debugging, lists debugging targets, and supplies the discovery page HTML.
+// ---
+
 #include "chromecast/browser/devtools/cast_devtools_manager_delegate.h"
 
 #include "build/build_config.h"

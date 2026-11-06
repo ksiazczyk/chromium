@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System connector helpers
+// summary: Provides thread-safe access to the system service manager connector, binding receivers on the UI thread for background threads.
+// ---
+
 #include "chromecast/browser/system_connector.h"
 
 #include "base/check_op.h"

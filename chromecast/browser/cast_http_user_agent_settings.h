@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast HTTP user agent settings header
+// summary: Declares CastHttpUserAgentSettings, providing a static Accept-Language value that can be read on any thread.
+// ---
+
 #ifndef CHROMECAST_BROWSER_CAST_HTTP_USER_AGENT_SETTINGS_H_
 #define CHROMECAST_BROWSER_CAST_HTTP_USER_AGENT_SETTINGS_H_
 

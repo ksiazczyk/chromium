@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast renderer block data implementation
+// summary: Implements per-WebContents data that tracks whether the renderer is blocked and forwards the block state to the ApplicationMediaInfoManager.
+// ---
+
 #include "chromecast/browser/cast_renderer_block_data.h"
 
 #include "base/logging.h"

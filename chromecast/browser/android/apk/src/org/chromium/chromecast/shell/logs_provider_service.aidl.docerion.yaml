@@ -1,0 +1,4 @@
+# Docerion header of logs_provider_service.aidl.
+type: source
+title: logs_provider_service
+summary: AIDL service declaration that exposes the IDeviceLogsProvider interface for retrieving device logs.

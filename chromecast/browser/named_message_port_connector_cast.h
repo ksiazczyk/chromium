@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast named message port connector header
+// summary: Declares NamedMessagePortConnectorCast, which connects NamedMessagePortConnector services into documents hosted by a CastWebContents instance.
+// ---
+
 #ifndef CHROMECAST_BROWSER_NAMED_MESSAGE_PORT_CONNECTOR_CAST_H_
 #define CHROMECAST_BROWSER_NAMED_MESSAGE_PORT_CONNECTOR_CAST_H_
 

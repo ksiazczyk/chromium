@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastBrowserContext header
+// summary: Declares CastBrowserContext, the single BrowserContext shared by all Chromecast renderers without multi-profile support.
+// ---
+
 #ifndef CHROMECAST_BROWSER_CAST_BROWSER_CONTEXT_H_
 #define CHROMECAST_BROWSER_CAST_BROWSER_CONTEXT_H_
 

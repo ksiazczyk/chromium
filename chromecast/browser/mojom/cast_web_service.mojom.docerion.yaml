@@ -1,0 +1,4 @@
+# Docerion header of cast_web_service.mojom.
+type: source
+title: cast_web_service.mojom
+summary: Defines the CastWebService mojo interface with supporting enums and CastWebViewParams for creating and configuring Cast web views.

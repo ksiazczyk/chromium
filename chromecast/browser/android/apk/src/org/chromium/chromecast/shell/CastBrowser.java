@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastBrowser module interface
+// summary: Module interface for the cast_browser module, satisfied by the CastBrowserImpl implementation.
+// ---
+
 package org.chromium.chromecast.shell;
 
 import org.chromium.components.module_installer.builder.ModuleInterface;

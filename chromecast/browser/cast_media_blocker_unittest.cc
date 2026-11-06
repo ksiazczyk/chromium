@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CastMediaBlocker unit tests
+// summary: Unit tests covering CastMediaBlocker suspend and resume behavior across media session state changes using a mock media session.
+// ---
+
 #include "chromecast/browser/cast_media_blocker.h"
 
 #include <memory>

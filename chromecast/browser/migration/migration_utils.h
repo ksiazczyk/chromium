@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for pref config migration utilities
+// summary: Declares CopyPrefConfigsIfMissing in the cast_browser_migration namespace, which copies regular and large pref config files if they do not already exist.
+// ---
+
 #ifndef CHROMECAST_BROWSER_MIGRATION_MIGRATION_UTILS_H_
 #define CHROMECAST_BROWSER_MIGRATION_MIGRATION_UTILS_H_
 

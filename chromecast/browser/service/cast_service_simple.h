@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastServiceSimple class declaration
+// summary: Declares the CastServiceSimple class, a CastService subclass that holds a web service reference and a cast web view and overrides the service lifecycle methods.
+// ---
+
 #ifndef CHROMECAST_BROWSER_SERVICE_CAST_SERVICE_SIMPLE_H_
 #define CHROMECAST_BROWSER_SERVICE_CAST_SERVICE_SIMPLE_H_
 

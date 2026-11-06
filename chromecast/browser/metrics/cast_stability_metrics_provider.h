@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast stability metrics provider header
+// summary: Declares CastStabilityMetricsProvider, a MetricsProvider that observes render process hosts to record stability-related metrics.
+// ---
+
 #ifndef CHROMECAST_BROWSER_METRICS_CAST_STABILITY_METRICS_PROVIDER_H_
 #define CHROMECAST_BROWSER_METRICS_CAST_STABILITY_METRICS_PROVIDER_H_
 

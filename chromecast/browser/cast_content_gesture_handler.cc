@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast content gesture handler implementation
+// summary: Interprets root window swipe and tap gestures, such as back and top-drag swipes, and forwards them to the gesture router delegate.
+// ---
+
 #include "chromecast/browser/cast_content_gesture_handler.h"
 
 #include "base/functional/callback_helpers.h"

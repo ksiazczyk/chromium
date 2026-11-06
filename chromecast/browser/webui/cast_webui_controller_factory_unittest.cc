@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast WebUI controller factory unit tests
+// summary: Unit tests verifying that the controller factory accepts known hosts on the chrome scheme and rejects unknown hosts and other URL schemes.
+// ---
+
 #include "chromecast/browser/webui/cast_webui_controller_factory.h"
 
 #include <memory>

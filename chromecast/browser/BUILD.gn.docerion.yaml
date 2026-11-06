@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Chromecast browser BUILD.gn build targets
+summary: Defines GN source sets, groups, and dependencies for building the Chromecast browser code.

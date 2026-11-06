@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GestureRouter class header
+// summary: Declares GestureRouter, which exposes cast UI gesture hooks to JavaScript and routes back, tap and drag gestures to registered handlers.
+// ---
+
 #ifndef CHROMECAST_BROWSER_GESTURE_ROUTER_H_
 #define CHROMECAST_BROWSER_GESTURE_ROUTER_H_
 

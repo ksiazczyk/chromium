@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast feature list creator implementation
+// summary: Creates the PrefService and initializes the FeatureList from stored DCS features, experiments and command-line enable or disable switches.
+// ---
+
 #include "chromecast/browser/cast_feature_list_creator.h"
 
 #include "base/base_switches.h"

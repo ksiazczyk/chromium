@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--docerion
+type: asset
+title: ic_settings_cast adaptive icon
+summary: Android adaptive icon XML for the cast settings icon, referencing a vector cast drawable for foreground and monochrome layers and a color resource for the background.
+-->
 
 <adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android" >
     <foreground android:drawable="@drawable/ic_cast_vector"/>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioSocketBroker unit tests
+// summary: Unit tests for the AudioSocketBroker covering Unix domain socket setup, connection acceptance and file descriptor passing.
+// ---
+
 #include "chromecast/browser/audio_socket_broker.h"
 
 #include <fcntl.h>

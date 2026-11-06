@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote debugging server implementation
+// summary: Implements the Cast shell remote debugging server, using a Unix domain socket factory on Android and a TCP server socket factory on the default port 9222 elsewhere.
+// ---
+
 #include "chromecast/browser/devtools/remote_debugging_server.h"
 
 #include <utility>

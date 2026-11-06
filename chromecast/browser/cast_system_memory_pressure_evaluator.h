@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast system memory pressure evaluator header
+// summary: Declares the CastSystemMemoryPressureEvaluator class that polls memory usage and supports relaxed pressure thresholds for selected apps.
+// ---
+
 #ifndef CHROMECAST_BROWSER_CAST_SYSTEM_MEMORY_PRESSURE_EVALUATOR_H_
 #define CHROMECAST_BROWSER_CAST_SYSTEM_MEMORY_PRESSURE_EVALUATOR_H_
 

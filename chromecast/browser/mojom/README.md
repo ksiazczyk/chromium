@@ -1,3 +1,13 @@
+---
+type: readme
+title: chromecast/browser/mojom README
+summary: Explains that these mojo interfaces form the trusted frontend of the Cast Browser and outlines the CastWebService, CastWebContents, and CastContentWindow interfaces.
+relations:
+  - documents /chromecast/browser/mojom/cast_content_window.mojom
+  - documents /chromecast/browser/mojom/cast_web_contents.mojom
+  - documents /chromecast/browser/mojom/cast_web_service.mojom
+---
+
 # chromecast/browser/mojom
 
 These mojo interfaces act as a frontend for the "Cast Browser", a barebones

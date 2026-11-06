@@ -1,0 +1,4 @@
+# Docerion header of cast_web_contents.mojom.
+type: source
+title: cast_web_contents.mojom
+summary: Defines the CastWebContents interface and its observer, exposing page state, navigation, and media events for WebContents hosted in the Cast Web Service.

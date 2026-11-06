@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Back press event dispatcher for Chromecast UI
+// summary: JavaScript that creates a synthetic BrowserBack keydown event and dispatches it to the active element, traversing shadow roots and falling back to the document.
+// ---
+
 {
   let getActiveElement = function() {
     let activeElement = document.activeElement;

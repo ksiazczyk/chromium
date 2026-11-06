@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GestureRouter implementation
+// summary: Implements routing of system UI gestures such as back, tap and drag to JavaScript handlers or in-process consumers in the cast browser.
+// ---
+
 #include "chromecast/browser/gesture_router.h"
 
 #include <utility>

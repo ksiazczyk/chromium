@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Application media info manager unit tests
+// summary: Unit tests covering renderer blocking and media info callback behavior of ApplicationMediaInfoManager.
+// ---
+
 #include "chromecast/browser/application_media_info_manager.h"
 
 #include <memory>

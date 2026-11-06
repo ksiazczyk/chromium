@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Command line argument helper for Intents
+// summary: Initializes the Chromium command line and moves command line arguments between Intent extras and the command line.
+// ---
+
 package org.chromium.chromecast.shell;
 
 import android.content.Intent;

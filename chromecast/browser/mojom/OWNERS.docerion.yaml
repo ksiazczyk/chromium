@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: chromecast/browser/mojom OWNERS
+summary: Delegates review of mojom files and mojom traits files to the ipc/SECURITY_OWNERS reviewers.

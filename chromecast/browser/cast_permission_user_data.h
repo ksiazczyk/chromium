@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastPermissionUserData class declaration
+// summary: Declares per-WebContents user data holding the Cast app id, app web URL, enforced feature permissions and additional allowed permission origins.
+// ---
+
 #ifndef CHROMECAST_BROWSER_CAST_PERMISSION_USER_DATA_H_
 #define CHROMECAST_BROWSER_CAST_PERMISSION_USER_DATA_H_
 

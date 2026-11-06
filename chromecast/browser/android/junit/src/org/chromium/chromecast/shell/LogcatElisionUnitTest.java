@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LogcatElision unit tests
+// summary: JUnit tests verifying that LogcatElision elides emails, URLs, IPs, MAC addresses and console messages from logcat output.
+// ---
+
 package org.chromium.chromecast.shell;
 
 import static org.junit.Assert.assertEquals;

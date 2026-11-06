@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visibility and gesture type definitions for Cast browser windows
+// summary: Defines enums describing window visibility states, activity windowing priorities, and gesture types used by the Cast browser UI.
+// ---
+
 #ifndef CHROMECAST_BROWSER_VISIBILITY_TYPES_H_
 #define CHROMECAST_BROWSER_VISIBILITY_TYPES_H_
 

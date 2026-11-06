@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast display configurator header
+// summary: Declares CastDisplayConfigurator, which initializes and configures native displays and color or gamma adjustments for Cast devices.
+// ---
+
 #ifndef CHROMECAST_BROWSER_CAST_DISPLAY_CONFIGURATOR_H_
 #define CHROMECAST_BROWSER_CAST_DISPLAY_CONFIGURATOR_H_
 

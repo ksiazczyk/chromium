@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastBrowserMainParts header
+// summary: Declares CastBrowserMainParts and its accessors for browser context, media, metrics and service objects across lifecycle stages.
+// ---
+
 #ifndef CHROMECAST_BROWSER_CAST_BROWSER_MAIN_PARTS_H_
 #define CHROMECAST_BROWSER_CAST_BROWSER_MAIN_PARTS_H_
 

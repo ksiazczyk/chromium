@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalMetrics class declaration
+// summary: Declares the ExternalMetrics service that lets processes outside the Chromecast browser upload metrics through a known shared file.
+// ---
+
 #ifndef CHROMECAST_BROWSER_METRICS_EXTERNAL_METRICS_H_
 #define CHROMECAST_BROWSER_METRICS_EXTERNAL_METRICS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio socket broker header
+// summary: Declares AudioSocketBroker, which provides socket descriptors to renderers for the audio output service.
+// ---
+
 #ifndef CHROMECAST_BROWSER_AUDIO_SOCKET_BROKER_H_
 #define CHROMECAST_BROWSER_AUDIO_SOCKET_BROKER_H_
 

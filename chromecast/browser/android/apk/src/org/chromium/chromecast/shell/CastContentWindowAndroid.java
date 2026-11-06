@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastContentWindowAndroid
+// summary: Java half of the native CastContentWindowAndroid that starts, stops and monitors CastWebContentsActivity to display web contents on screen.
+// ---
+
 package org.chromium.chromecast.shell;
 
 import org.jni_zero.CalledByNative;

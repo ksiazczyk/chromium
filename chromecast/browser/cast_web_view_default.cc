@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastWebViewDefault implementation
+// summary: Implements the default CastWebView with WebContentsDelegate behavior, back-key handling, media permission requests and renderer prelaunching for the cast shell.
+// ---
+
 #include "chromecast/browser/cast_web_view_default.h"
 
 #include <algorithm>

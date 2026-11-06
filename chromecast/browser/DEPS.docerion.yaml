@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Chromecast browser include rules
+summary: Lists the header include paths that code in the Chromecast browser directory is allowed to use.

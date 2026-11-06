@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskRemovedMonitorService
+// summary: Android service started by CastWebContentsActivity that stops the cast session when the OS removes the activity's task.
+// ---
+
 package org.chromium.chromecast.shell;
 
 import android.app.Service;

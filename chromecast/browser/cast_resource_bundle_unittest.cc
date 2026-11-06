@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast resource bundle unit test
+// summary: Unit test verifying that ResourceBundle loads localized resource bytes through a mock delegate.
+// ---
+
 #include "base/containers/span.h"
 #include "base/memory/ref_counted_memory.h"
 #include "testing/gmock/include/gmock/gmock.h"

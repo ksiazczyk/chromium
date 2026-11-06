@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastBrowserProcess implementation
+// summary: Implements the global CastBrowserProcess singleton that stores browser-wide objects such as the browser context, prefs and metrics.
+// ---
+
 #include "chromecast/browser/cast_browser_process.h"
 
 #include <utility>

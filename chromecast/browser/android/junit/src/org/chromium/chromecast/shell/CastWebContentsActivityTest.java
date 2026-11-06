@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CastWebContentsActivityTest
+// summary: Robolectric and Mockito tests for CastWebContentsActivity covering activity behavior such as screen-on flags, picture-in-picture, touch events, and media playing state.
+// ---
+
 package org.chromium.chromecast.shell;
 
 import static android.os.Looper.getMainLooper;

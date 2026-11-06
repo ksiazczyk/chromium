@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast session ID map unit tests
+// summary: Unit tests covering session ID lookup, mapping removal on WebContents destruction and holding multiple session mappings in CastSessionIdMap.
+// ---
+
 #include "chromecast/browser/cast_session_id_map.h"
 
 #include <memory>

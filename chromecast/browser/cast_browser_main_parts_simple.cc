@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastBrowserMainParts simple factory
+// summary: Provides a default CastBrowserMainParts::Create factory that returns a plain CastBrowserMainParts instance.
+// ---
+
 #include "chromecast/browser/cast_browser_main_parts.h"
 
 namespace chromecast {
