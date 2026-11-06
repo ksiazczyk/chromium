@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file referencing clipboard owners
+summary: Points to ui/base/clipboard/OWNERS so the dragdrop directory reuses the clipboard team's reviewer list.

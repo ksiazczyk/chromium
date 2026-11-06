@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped secure password input enabler header
+// summary: Declares ScopedPasswordInputEnabler, a scoped helper that enables macOS secure password input mode while in scope.
+// ---
+
 #ifndef UI_BASE_COCOA_SECURE_PASSWORD_INPUT_H_
 #define UI_BASE_COCOA_SECURE_PASSWORD_INPUT_H_
 

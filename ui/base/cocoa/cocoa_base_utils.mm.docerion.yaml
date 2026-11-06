@@ -1,0 +1,4 @@
+# Docerion header of cocoa_base_utils.mm.
+type: source
+title: Cocoa base utils implementation
+summary: Implements conversion of NSEvent modifier flags into a WindowOpenDisposition used to open links.

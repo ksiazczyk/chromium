@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseView Cocoa view base class header
+// summary: Declares an NSView base class offering mouse and key event funneling, tracking area setup, coordinate conversion, and a first responder notification.
+// ---
+
 #ifndef UI_BASE_COCOA_BASE_VIEW_H_
 #define UI_BASE_COCOA_BASE_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OSExchangeDataProvider interface
+// summary: Declares the abstract platform-specific provider interface behind OSExchangeData for strings, URLs, files and custom formats.
+// ---
+
 #ifndef UI_BASE_DRAGDROP_OS_EXCHANGE_DATA_PROVIDER_H_
 #define UI_BASE_DRAGDROP_OS_EXCHANGE_DATA_PROVIDER_H_
 

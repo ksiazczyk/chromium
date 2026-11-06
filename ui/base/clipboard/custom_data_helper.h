@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom clipboard data helper declarations
+// summary: Declares functions to read custom clipboard data types, per-type values and maps, and to write custom data maps into a pickle.
+// ---
+
 #ifndef UI_BASE_CLIPBOARD_CUSTOM_DATA_HELPER_H_
 #define UI_BASE_CLIPBOARD_CUSTOM_DATA_HELPER_H_
 

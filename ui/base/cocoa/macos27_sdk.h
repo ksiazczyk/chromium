@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS 27 SDK NSMenuItem forward declarations
+// summary: Forward-defines an NSMenuItem image visibility property and enum until Chromium builds against the macOS 27 SDK.
+// ---
+
 #ifndef UI_BASE_COCOA_MACOS27_SDK_H_
 #define UI_BASE_COCOA_MACOS27_SDK_H_
 

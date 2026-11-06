@@ -1,0 +1,4 @@
+# Docerion header of constrained_window_animation.mm.
+type: source
+title: Constrained window animation implementation
+summary: Implements the show, hide, and pulse animations for constrained windows using private CoreGraphics APIs to transform, warp, and fade the window.

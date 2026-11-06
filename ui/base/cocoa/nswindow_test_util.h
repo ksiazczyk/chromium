@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NSWindow fullscreen test utilities header
+// summary: Declares NSWindowFullscreenNotificationWaiter and NSWindowFakedForTesting, helpers for testing asynchronous macOS window fullscreen transitions.
+// ---
+
 #ifndef UI_BASE_COCOA_NSWINDOW_TEST_UTIL_H_
 #define UI_BASE_COCOA_NSWINDOW_TEST_UTIL_H_
 

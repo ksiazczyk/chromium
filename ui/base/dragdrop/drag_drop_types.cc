@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DragDropTypes implementation with mojom enum checks
+// summary: Implements DragDropTypes helpers, statically asserting enum parity with mojom::DragOperation and selecting the preferred drag operation from a bitmask.
+// ---
+
 #include "ui/base/dragdrop/drag_drop_types.h"
 
 #include "ui/base/dragdrop/mojom/drag_drop_types.mojom.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TypedIdentifier class and declaration macros
+// summary: Header defining the TypedIdentifier template that adds type information to an untyped identifier, plus macros for declaring and defining typed identifier values.
+// ---
+
 #ifndef UI_BASE_IDENTIFIER_TYPED_IDENTIFIER_H_
 #define UI_BASE_IDENTIFIER_TYPED_IDENTIFIER_H_
 

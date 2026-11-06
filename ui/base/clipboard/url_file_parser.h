@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL file parser header
+// summary: Declares ExtractURLFromURLFileContents, which returns the URL found in .url file contents and refuses files larger than 16 kB.
+// ---
+
 #ifndef UI_BASE_CLIPBOARD_URL_FILE_PARSER_H_
 #define UI_BASE_CLIPBOARD_URL_FILE_PARSER_H_
 

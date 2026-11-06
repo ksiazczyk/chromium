@@ -1,0 +1,4 @@
+# Docerion header of remote_accessibility_api.mm.
+type: source
+title: Remote accessibility API implementation
+summary: Implements RemoteAccessibility token conversion between std::vector and NSData for remote UI accessibility elements.

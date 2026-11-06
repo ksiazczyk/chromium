@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CursorFactory interface
+// summary: Declares the CursorFactory singleton API for default, image and animated cursors plus theme change observation.
+// ---
+
 #ifndef UI_BASE_CURSOR_CURSOR_FACTORY_H_
 #define UI_BASE_CURSOR_CURSOR_FACTORY_H_
 

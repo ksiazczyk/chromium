@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Idle state API
+// summary: Declares the IdleState enum and functions for idle time, lock checks, idle monitor setup and screen lock callbacks.
+// ---
+
 #ifndef UI_BASE_IDLE_IDLE_H_
 #define UI_BASE_IDLE_IDLE_H_
 

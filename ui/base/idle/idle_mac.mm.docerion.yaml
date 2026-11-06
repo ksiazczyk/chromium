@@ -1,0 +1,4 @@
+# Docerion header of idle_mac.mm.
+type: source
+title: macOS idle detection implementation
+summary: macOS implementation of idle detection that observes screensaver and screen lock notifications and computes idle time from CGEventSource input events.

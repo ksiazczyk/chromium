@@ -1,0 +1,4 @@
+# Docerion header of touch_bar_util.mm.
+type: source
+title: Touch bar identifier utilities implementation
+summary: Implements GetTouchBarId and GetTouchBarItemId, which format touch bar identifiers using the base bundle ID.

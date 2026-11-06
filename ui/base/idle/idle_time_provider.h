@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Idle time provider interface
+// summary: Interface for querying a user's idle time and screen lock state, implemented by the default provider used by IdlePollingService.
+// ---
+
 #ifndef UI_BASE_IDLE_IDLE_TIME_PROVIDER_H_
 #define UI_BASE_IDLE_IDLE_TIME_PROVIDER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA with data transfer component and team contacts
+summary: Declares the Blink>DataTransfer monorail component, the datatransfer-dev team email, and the public Buganizer component for this directory.

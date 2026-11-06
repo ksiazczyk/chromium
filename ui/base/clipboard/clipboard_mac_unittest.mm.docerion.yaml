@@ -1,0 +1,4 @@
+# Docerion header of clipboard_mac_unittest.mm.
+type: source
+title: macOS clipboard unit tests
+summary: Unit tests for the macOS clipboard covering image writing, PNG reading, source tracking, and clipboard change observer notifications.

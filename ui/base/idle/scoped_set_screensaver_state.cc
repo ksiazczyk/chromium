@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedSetScreensaverState implementation
+// summary: Implements the ScopedSetScreensaverState RAII class that overrides the screensaver running state for tests and restores the previous state on destruction.
+// ---
+
 #include "ui/base/idle/scoped_set_screensaver_state.h"
 
 #include "base/check_is_test.h"

@@ -12,6 +12,12 @@
 // TODO(dcheng): This is really horrible. In general, all tests should run on
 // all platforms, to avoid this mess.
 
+// ---docerion
+// type: test
+// title: Clipboard test template header
+// summary: Type-parameterized gtest template with shared clipboard test cases that platform-specific tests instantiate via TypesToTest.
+// ---
+
 #ifndef UI_BASE_CLIPBOARD_CLIPBOARD_TEST_TEMPLATE_H_
 #define UI_BASE_CLIPBOARD_CLIPBOARD_TEST_TEMPLATE_H_
 

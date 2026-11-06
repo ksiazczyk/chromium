@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Clipboard test read helpers implementation
+// summary: Implements helper functions that synchronously read clipboard formats, text, HTML, SVG, RTF, PNG, and other data for use in tests.
+// ---
+
 #include "ui/base/clipboard/test/clipboard_test_util.h"
 
 #include <string>

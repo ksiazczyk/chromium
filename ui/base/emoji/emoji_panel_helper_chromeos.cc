@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS emoji panel helper implementation
+// summary: ChromeOS implementation that routes emoji panel requests through registered show-emoji-keyboard callbacks.
+// ---
+
 #include "ui/base/emoji/emoji_panel_helper.h"
 
 #include "base/check.h"

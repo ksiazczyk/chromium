@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows OS exchange data provider implementation
+// summary: Implements the Windows COM IDataObject-backed provider used for drag-and-drop and clipboard data exchange, including storage mediums, virtual files and renderer taint formats.
+// ---
+
 #include "ui/base/dragdrop/os_exchange_data_provider_win.h"
 
 #include <objbase.h>

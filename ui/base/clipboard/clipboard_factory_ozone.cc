@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ozone clipboard factory
+// summary: Factory that selects the Clipboard implementation on Ozone platforms, using ClipboardNonBacked on ChromeOS and ClipboardOzone on Linux desktop.
+// ---
+
 #include "base/command_line.h"
 #include "build/build_config.h"
 #include "ui/base/clipboard/clipboard.h"

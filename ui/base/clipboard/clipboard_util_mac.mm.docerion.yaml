@@ -1,0 +1,4 @@
+# Docerion header of clipboard_util_mac.mm.
+type: source
+title: macOS clipboard utility implementation
+summary: Implements macOS pasteboard helpers that read and write URLs, titles, and files, including Safari's WebKitWebURLsWithTitles format.

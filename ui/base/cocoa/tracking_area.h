@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrTrackingArea and scoped owner clearing header
+// summary: Declares CrTrackingArea, an NSTrackingArea that can stop messaging its owner, and ScopedCrTrackingArea for clearing the owner when it goes out of scope.
+// ---
+
 #ifndef UI_BASE_COCOA_TRACKING_AREA_H_
 #define UI_BASE_COCOA_TRACKING_AREA_H_
 

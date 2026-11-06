@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DragSourceWin class declaration
+// summary: Declares the IDropSource COM base class that tells Windows whether a drag should continue and supplies cursors.
+// ---
+
 #ifndef UI_BASE_DRAGDROP_DRAG_SOURCE_WIN_H_
 #define UI_BASE_DRAGDROP_DRAG_SOURCE_WIN_H_
 

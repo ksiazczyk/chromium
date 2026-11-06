@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows idle detection implementation
+// summary: Windows implementation of idle detection that computes idle time from last input info and tracks workstation lock and screensaver state via session change events.
+// ---
+
 #include "ui/base/idle/idle.h"
 
 #include <windows.h>

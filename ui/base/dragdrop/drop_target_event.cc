@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DropTargetEvent
+// summary: Implements a located event that carries OS exchange data and source operations for a drag-and-drop session.
+// ---
+
 #include "ui/base/dragdrop/drop_target_event.h"
 
 #include "ui/base/dragdrop/os_exchange_data.h"

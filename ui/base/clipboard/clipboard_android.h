@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClipboardAndroid class header
+// summary: Declares ClipboardAndroid, the Android Clipboard subclass handling primary clip changes, timestamp invalidation, and modified callbacks from Java.
+// ---
+
 #ifndef UI_BASE_CLIPBOARD_CLIPBOARD_ANDROID_H_
 #define UI_BASE_CLIPBOARD_CLIPBOARD_ANDROID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window size constants
+// summary: Defines ui::kWindowSizeDeterminedLater, a minimal one-by-one NSRect constant to use instead of the invalid zero-sized window.
+// ---
+
 #ifndef UI_BASE_COCOA_WINDOW_SIZE_CONSTANTS_H_
 #define UI_BASE_COCOA_WINDOW_SIZE_CONSTANTS_H_
 

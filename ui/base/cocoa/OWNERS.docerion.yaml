@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for ui/base/cocoa
+summary: Lists the canonical Mac Chromium Team owners for the ui/base/cocoa directory, referenced by other OWNERS files requiring Mac owners.

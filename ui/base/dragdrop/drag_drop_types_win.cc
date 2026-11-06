@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DragDropTypes Windows implementation
+// summary: Converts between OLE drop effects and Chromium drag operation flags for Windows drag-and-drop.
+// ---
+
 #include "ui/base/dragdrop/drag_drop_types.h"
 
 #include <oleidl.h>

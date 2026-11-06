@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cocoa base utils header for window open disposition
+// summary: Declares helpers that derive a WindowOpenDisposition from an NSEvent user gesture and its modifier flags.
+// ---
+
 #ifndef UI_BASE_COCOA_COCOA_BASE_UTILS_H_
 #define UI_BASE_COCOA_COCOA_BASE_UTILS_H_
 

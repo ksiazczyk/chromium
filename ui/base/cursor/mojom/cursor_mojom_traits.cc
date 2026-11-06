@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Serialization traits for ui::Cursor over Mojo
+// summary: Implements StructTraits that convert ui::Cursor to and from its Mojo wire form and enforce custom cursor dimension limits.
+// ---
+
 #include "ui/base/cursor/mojom/cursor_mojom_traits.h"
 
 #include "skia/public/mojom/bitmap_skbitmap_mojom_traits.h"

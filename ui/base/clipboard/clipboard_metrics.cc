@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard metrics recording
+// summary: Records UMA histograms for clipboard read and write formats, text word and character counts, and ChromeOS commit-to-read time intervals.
+// ---
+
 #include "ui/base/clipboard/clipboard_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

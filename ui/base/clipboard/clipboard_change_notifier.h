@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClipboardChangeNotifier interface
+// summary: Declares the ClipboardChangeNotifier interface that platform-specific clipboard implementations extend to start and stop change notifications.
+// ---
+
 #ifndef UI_BASE_CLIPBOARD_CLIPBOARD_CHANGE_NOTIFIER_H_
 #define UI_BASE_CLIPBOARD_CLIPBOARD_CHANGE_NOTIFIER_H_
 

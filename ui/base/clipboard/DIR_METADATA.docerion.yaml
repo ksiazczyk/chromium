@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Clipboard directory metadata (DIR_METADATA)
+summary: Maps the directory to the Blink>DataTransfer monorail component and the datatransfer-dev team email for issue routing.

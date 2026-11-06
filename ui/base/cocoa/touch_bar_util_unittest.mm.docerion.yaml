@@ -1,0 +1,4 @@
+# Docerion header of touch_bar_util_unittest.mm.
+type: test
+title: Touch bar utilities unit tests
+summary: Unit tests verifying that touch bar and item identifiers are formatted with the overridden bundle ID.

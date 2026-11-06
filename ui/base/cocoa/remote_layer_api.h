@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote layer API for cross-process CALayer sharing
+// summary: Declares CAContext and CALayerHost interfaces plus a helper that reports whether the remote layer API for sharing CALayers across processes is supported.
+// ---
+
 #ifndef UI_BASE_COCOA_REMOTE_LAYER_API_H_
 #define UI_BASE_COCOA_REMOTE_LAYER_API_H_
 

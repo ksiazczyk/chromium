@@ -1,0 +1,4 @@
+# Docerion header of cursor.mojom.
+type: source
+title: Mojo definition of the Cursor struct
+summary: Declares the ui.mojom.Cursor struct carrying cursor type, hotspot, optional bitmap, and image scale factor for IPC.

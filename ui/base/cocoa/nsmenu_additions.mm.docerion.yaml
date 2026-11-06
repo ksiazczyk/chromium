@@ -1,0 +1,4 @@
+# Docerion header of nsmenu_additions.mm.
+type: source
+title: NSMenu additions implementation
+summary: Implements NSMenu category methods that search menus for key equivalents and flash menu titles for Chrome commands.

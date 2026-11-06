@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android clipboard implementation
+// summary: Implements ClipboardAndroid, bridging the Android system clipboard through JNI for text and bitmaps while storing other formats in process-local memory.
+// ---
+
 #include "ui/base/clipboard/clipboard_android.h"
 
 #include <algorithm>

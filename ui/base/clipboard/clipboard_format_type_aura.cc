@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura ClipboardFormatType implementation
+// summary: Implements ClipboardFormatType on Aura platforms with string-based format names mapped to MIME type constants.
+// ---
+
 #include "ui/base/clipboard/clipboard_format_type.h"
 
 #include "base/no_destructor.h"

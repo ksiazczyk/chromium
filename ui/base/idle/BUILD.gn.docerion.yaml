@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the ui_base_idle component
+summary: Defines GN build targets for the idle component with per-platform sources, plus test support and unit test targets.

@@ -1,3 +1,12 @@
+---
+type: readme
+title: Chromium Unique Identifiers
+summary: Documentation explaining how to create and use unique identifier types, including macros, typed identifiers, best practices, implementation details, and known issues.
+relations:
+  - references /ui/base/interaction/element_identifier.h
+  - documents /ui/base/identifier/unique_identifier.h
+---
+
 # Chromium Unique Identifiers
 
 **Unique identifiers** are values which:

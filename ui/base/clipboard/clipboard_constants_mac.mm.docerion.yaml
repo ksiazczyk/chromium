@@ -1,0 +1,4 @@
+# Docerion header of clipboard_constants_mac.mm.
+type: source
+title: Mac clipboard UTType constants
+summary: Defines macOS-specific NSString UTType constants for Chromium clipboard and drag types, including custom data and smart paste identifiers.

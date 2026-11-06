@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cursor accessibility scale factor header
+// summary: Declares access to the macOS accessibility pointer size preference and a notifier that observes changes to that preference.
+// ---
+
 #ifndef UI_BASE_COCOA_CURSOR_ACCESSIBILITY_SCALE_FACTOR_H_
 #define UI_BASE_COCOA_CURSOR_ACCESSIBILITY_SCALE_FACTOR_H_
 

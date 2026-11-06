@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ozone OS exchange data provider factory declaration
+// summary: Declares the abstract Ozone factory interface that platform backends implement to create drag data providers.
+// ---
+
 #ifndef UI_BASE_DRAGDROP_OS_EXCHANGE_DATA_PROVIDER_FACTORY_OZONE_H_
 #define UI_BASE_DRAGDROP_OS_EXCHANGE_DATA_PROVIDER_FACTORY_OZONE_H_
 

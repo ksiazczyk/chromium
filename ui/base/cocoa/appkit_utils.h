@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppKit utility declarations
+// summary: Declares helpers for force-click Quick Look, CGFloat equality, active application checks, pasteboard privacy, and services Pboard-to-UTType conversion.
+// ---
+
 #ifndef UI_BASE_COCOA_APPKIT_UTILS_H_
 #define UI_BASE_COCOA_APPKIT_UTILS_H_
 

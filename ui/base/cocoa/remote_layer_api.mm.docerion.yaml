@@ -1,0 +1,4 @@
+# Docerion header of remote_layer_api.mm.
+type: source
+title: Remote layer API support check implementation
+summary: Implements RemoteLayerAPISupported(), which checks the feature flag and verifies that the CAContext and CALayerHost classes expose the required methods.

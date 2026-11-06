@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BubbleCloser class header for popup click-outside behavior
+// summary: Declares the BubbleCloser class that monitors mouse clicks outside a window to give it menu-like popup behavior.
+// ---
+
 #ifndef UI_BASE_COCOA_BUBBLE_CLOSER_H_
 #define UI_BASE_COCOA_BUBBLE_CLOSER_H_
 

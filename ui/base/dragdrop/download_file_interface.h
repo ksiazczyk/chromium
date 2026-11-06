@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download file observer and provider interfaces
+// summary: Defines the DownloadFileObserver interface for download status callbacks and the DownloadFileProvider interface to start, wait on, and cancel downloads.
+// ---
+
 #ifndef UI_BASE_DRAGDROP_DOWNLOAD_FILE_INTERFACE_H_
 #define UI_BASE_DRAGDROP_DOWNLOAD_FILE_INTERFACE_H_
 

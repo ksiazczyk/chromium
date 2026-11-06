@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL file parser implementation
+// summary: Extracts the URL from the [InternetShortcut] section of Windows .url file contents by splitting lines and matching the URL key.
+// ---
+
 #include "ui/base/clipboard/url_file_parser.h"
 
 #include <string>

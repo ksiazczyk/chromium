@@ -1,0 +1,4 @@
+# Docerion header of nsmenuitem_additions.mm.
+type: source
+title: NSMenuItem additions for macOS key equivalents
+summary: Implements NSMenuItem helpers that compute key equivalents and classify macOS keyboard layouts, tracking the current input source for menu accelerator matching.

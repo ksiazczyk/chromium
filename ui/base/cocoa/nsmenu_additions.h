@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NSMenu additions interface
+// summary: Declares NSMenu category methods for key-equivalent menu item lookup, pre-search hooks and flashing menus for Chrome commands.
+// ---
+
 #ifndef UI_BASE_COCOA_NSMENU_ADDITIONS_H_
 #define UI_BASE_COCOA_NSMENU_ADDITIONS_H_
 

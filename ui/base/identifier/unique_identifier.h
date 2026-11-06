@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UniqueIdentifier class and identifier macros
+// summary: Header defining the opaque, constexpr UniqueIdentifier class, its provider struct, and macros for declaring and defining unique identifier values in various scopes.
+// ---
+
 #ifndef UI_BASE_IDENTIFIER_UNIQUE_IDENTIFIER_H_
 #define UI_BASE_IDENTIFIER_UNIQUE_IDENTIFIER_H_
 

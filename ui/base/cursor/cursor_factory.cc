@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CursorFactory implementation
+// summary: Implements the singleton CursorFactory for creating platform cursors and maps cursor types to Linux and ChromeOS cursor names.
+// ---
+
 #include "ui/base/cursor/cursor_factory.h"
 
 #include <ostream>

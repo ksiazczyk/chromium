@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Idle polling service implementation
+// summary: Implements IdlePollingService, which periodically polls idle time and lock state and notifies registered observers when the state changes.
+// ---
+
 #include "ui/base/idle/idle_polling_service.h"
 
 #include "base/no_destructor.h"

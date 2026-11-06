@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DropTargetWin
+// summary: Implements the Windows IDropTarget COM interface, dispatching drag enter, over, leave and drop callbacks with drag image support.
+// ---
+
 #include "ui/base/dragdrop/drop_target_win.h"
 
 #include <shlobj.h>

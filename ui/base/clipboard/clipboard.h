@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard class interface
+// summary: Declares the Clipboard class that reads from and writes to the system clipboard, with read callbacks, privacy types, and write observer interfaces.
+// ---
+
 #ifndef UI_BASE_CLIPBOARD_CLIPBOARD_H_
 #define UI_BASE_CLIPBOARD_CLIPBOARD_H_
 

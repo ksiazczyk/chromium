@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drag permission header
+// summary: Declares functions that gate drag session initiation to defend against concurrent drag sessions and drags during menu tracking.
+// ---
+
 #ifndef UI_BASE_COCOA_DRAG_PERMISSION_H_
 #define UI_BASE_COCOA_DRAG_PERMISSION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestClipboard mock interface
+// summary: Declares TestClipboard, a platform-neutral ui::Clipboard mock for tests, with per-thread creation and settable last modified time.
+// ---
+
 #ifndef UI_BASE_CLIPBOARD_TEST_TEST_CLIPBOARD_H_
 #define UI_BASE_CLIPBOARD_TEST_TEST_CLIPBOARD_H_
 

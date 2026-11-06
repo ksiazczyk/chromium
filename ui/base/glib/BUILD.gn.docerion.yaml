@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the glib source set
+summary: Defines the glib source set with its public headers and GIO-conditional GSettings sources.

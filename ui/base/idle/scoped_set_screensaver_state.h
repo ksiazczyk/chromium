@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedSetScreensaverState class declaration
+// summary: Declares a test-only RAII class that sets the screensaver running state and restores the previous value when destroyed.
+// ---
+
 #ifndef UI_BASE_IDLE_SCOPED_SET_SCREENSAVER_STATE_H_
 #define UI_BASE_IDLE_SCOPED_SET_SCREENSAVER_STATE_H_
 

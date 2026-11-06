@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedClipboardWriter implementation
+// summary: Implements ScopedClipboardWriter, which accumulates text, HTML, SVG, image and custom clipboard data and writes it atomically on destruction.
+// ---
+
 #include "ui/base/clipboard/scoped_clipboard_writer.h"
 
 #include <memory>

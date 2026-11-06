@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Clipboard include rules (DEPS)
+summary: Specifies allowed include rules for the clipboard directory, granting access to dbus, mojo, Mozilla, and ozone public headers while restricting other ozone code.

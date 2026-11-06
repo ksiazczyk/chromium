@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClipboardBuffer enum
+// summary: Defines the ClipboardBuffer enum that designates which clipboard buffer, such as copy-paste, selection or drag, an action applies to.
+// ---
+
 #ifndef UI_BASE_CLIPBOARD_CLIPBOARD_BUFFER_H_
 #define UI_BASE_CLIPBOARD_CLIPBOARD_BUFFER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal header for idle test overrides
+// summary: Declares IdleStateForTesting, the optional override used by test helpers such as ScopedSetIdleState.
+// ---
+
 #ifndef UI_BASE_IDLE_IDLE_INTERNAL_H_
 #define UI_BASE_IDLE_IDLE_INTERNAL_H_
 

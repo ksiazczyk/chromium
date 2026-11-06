@@ -1,0 +1,4 @@
+# Docerion header of tracking_area.mm.
+type: source
+title: CrTrackingArea implementation with owner proxy and scoper
+summary: Implements CrTrackingArea, an NSTrackingArea subclass that wraps its owner in a proxy that stops forwarding messages once the owner is no longer alive, plus a ScopedCrTrackingArea scoper that clears the owner on destruction.

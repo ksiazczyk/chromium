@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OSExchangeDataProviderNonBacked clone unit tests
+// summary: Unit tests verifying that cloning a non-backed OS exchange data provider copies strings, URLs, pickled data, file contents, HTML, taint state, drag ID, source and drag image.
+// ---
+
 #include "os_exchange_data_provider_non_backed.h"
 
 #include <memory>

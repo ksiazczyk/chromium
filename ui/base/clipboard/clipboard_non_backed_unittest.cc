@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ClipboardNonBacked unit tests
+// summary: Unit tests for the non-backed clipboard implementation, including a fake platform clipboard for ChromeOS and Ozone setup.
+// ---
+
 #include "ui/base/clipboard/clipboard_non_backed.h"
 
 #include <memory>

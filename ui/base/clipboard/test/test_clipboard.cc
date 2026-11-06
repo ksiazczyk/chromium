@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestClipboard mock implementation
+// summary: Implements TestClipboard, a platform-neutral in-memory Clipboard mock that stores clipboard data and applies data transfer policies for tests.
+// ---
+
 #include "ui/base/clipboard/test/test_clipboard.h"
 
 #include <stddef.h>

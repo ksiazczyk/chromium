@@ -1,0 +1,4 @@
+# Docerion header of emoji_panel_helper_mac.mm.
+type: source
+title: macOS emoji panel helper implementation
+summary: macOS implementation that opens the system character palette via Cocoa's NSApp orderFrontCharacterPalette.

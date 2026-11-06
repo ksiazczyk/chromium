@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the dragdrop directory
+summary: Specifies allowed includes for the directory, permitting ozone platform headers and third_party/mozilla dependencies.

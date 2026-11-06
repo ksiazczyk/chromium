@@ -1,0 +1,4 @@
+# Docerion header of appkit_utils.mm.
+type: source
+title: AppKit utility implementations
+summary: Implements AppKit helpers including force-click detection, pasteboard privacy checks, and conversion of obsolete Pboard types to modern UTTypes.

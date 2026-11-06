@@ -5,6 +5,12 @@
 // Many of these functions are based on those found in
 // webkit/port/platform/PasteboardWin.cpp
 
+// ---docerion
+// type: source
+// title: Windows clipboard implementation
+// summary: Implements the Clipboard interface for Windows via the Win32 clipboard API, including scoped clipboard acquisition, format handling and bitmap support.
+// ---
+
 #include "ui/base/clipboard/clipboard_win.h"
 
 #include <objidl.h>

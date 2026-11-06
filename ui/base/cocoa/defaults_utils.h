@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Caret blink period defaults header
+// summary: Declares TextInsertionCaretBlinkPeriodFromDefaults, which derives the text insertion caret blink period from NSUserDefaults settings.
+// ---
+
 #ifndef UI_BASE_COCOA_DEFAULTS_UTILS_H_
 #define UI_BASE_COCOA_DEFAULTS_UTILS_H_
 

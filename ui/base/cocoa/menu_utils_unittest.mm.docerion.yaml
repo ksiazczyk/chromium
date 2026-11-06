@@ -1,0 +1,4 @@
+# Docerion header of menu_utils_unittest.mm.
+type: test
+title: Menu utilities unit tests
+summary: Unit tests verifying the active Cocoa menu anchor location is set during and cleared after ShowContextMenu calls.

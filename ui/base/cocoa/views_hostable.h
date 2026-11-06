@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewsHostableView interface for embedding WebContentsView
+// summary: Declares the ViewsHostableView interface and ViewsHostable protocol used to stitch a content::WebContentsView NSView into a views::View, covering attach and detach, bounds, visibility, first responder, and accessibility.
+// ---
+
 #ifndef UI_BASE_COCOA_VIEWS_HOSTABLE_H_
 #define UI_BASE_COCOA_VIEWS_HOSTABLE_H_
 

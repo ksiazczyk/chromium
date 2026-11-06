@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows OSExchangeData unit tests
+// summary: Windows-specific unit tests covering the COM data object, storage media types, reference counting of mock streams and virtual file handling during drag-and-drop.
+// ---
+
 #include "ui/base/dragdrop/os_exchange_data.h"
 
 #include <objbase.h>

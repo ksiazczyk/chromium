@@ -1,0 +1,4 @@
+# Docerion header of nsmenu_additions_unittest.mm.
+type: test
+title: NSMenu additions unit tests
+summary: Unit tests for finding menu items by key equivalent events, including modifier flags and submenu traversal.

@@ -1,0 +1,4 @@
+# Docerion header of accessibility_focus_overrider.mm.
+type: source
+title: AccessibilityFocusOverrider implementation
+summary: Implements accessibility focus overriding by tracking remote app, key window, and first responder state and exposing the overridden focused element.

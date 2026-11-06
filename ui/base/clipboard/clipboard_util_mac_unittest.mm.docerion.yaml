@@ -1,0 +1,4 @@
+# Docerion header of clipboard_util_mac_unittest.mm.
+type: test
+title: macOS clipboard utility unit tests
+summary: Unit tests for macOS pasteboard helpers covering URL and title round trips and pasteboard URL synthesis.

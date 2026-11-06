@@ -1,0 +1,4 @@
+# Docerion header of clipboard_format_type_mac.mm.
+type: source
+title: macOS ClipboardFormatType implementation
+summary: Implements ClipboardFormatType on macOS using NSPasteboard type names and Uniform Type Identifiers.

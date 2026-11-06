@@ -1,0 +1,4 @@
+# Docerion header of clipboard_format_type_ios.mm.
+type: source
+title: iOS ClipboardFormatType implementation
+summary: Implements ClipboardFormatType on iOS using Uniform Type Identifier strings held in Objective-C storage.

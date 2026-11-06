@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL file parser unit tests
+// summary: Unit tests for URL extraction from .url files, including real Edge favorites content and malformed inputs that must not crash.
+// ---
+
 #include "ui/base/clipboard/url_file_parser.h"
 
 #include <tuple>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the ui_base_cursor component
+summary: Defines the cursor component and its unit test target, listing sources, defines and dependencies.

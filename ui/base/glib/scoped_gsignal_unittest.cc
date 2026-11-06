@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedGSignal unit tests
+// summary: Unit tests for the ScopedGSignal GLib signal connection wrapper, covering connection state, disconnection on destruction, reset, and GClosure finalization, move semantics, and handler invocation.
+// ---
+
 #include "ui/base/glib/scoped_gsignal.h"
 
 #include "base/compiler_specific.h"

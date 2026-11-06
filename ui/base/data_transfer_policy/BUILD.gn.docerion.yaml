@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for data_transfer_policy
+summary: GN build file defining the ui_base_data_transfer_policy component and a testonly unittests source set with their sources and dependencies.

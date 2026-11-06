@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard file info declarations
+// summary: Declares the FileInfo struct bundling a path with an optional display name, plus helpers for converting between file paths and text/uri-list clipboard data.
+// ---
+
 #ifndef UI_BASE_CLIPBOARD_FILE_INFO_H_
 #define UI_BASE_CLIPBOARD_FILE_INFO_H_
 

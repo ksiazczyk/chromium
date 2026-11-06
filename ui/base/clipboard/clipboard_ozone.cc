@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ozone clipboard implementation
+// summary: Implements the clipboard for Ozone-based platforms such as X11 and Wayland, delegating to PlatformClipboard and enforcing data transfer policy on reads.
+// ---
+
 #include "ui/base/clipboard/clipboard_ozone.h"
 
 #include <algorithm>

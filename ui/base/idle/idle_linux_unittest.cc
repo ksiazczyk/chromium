@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linux idle D-Bus override unit test
+// summary: Unit test verifying that registering a screen lock callback with an idle state override does not initialize the shared D-Bus thread on Linux.
+// ---
+
 #include "ui/base/idle/idle.h"
 
 #include "base/callback_list.h"

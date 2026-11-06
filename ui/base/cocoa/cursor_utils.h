@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cursor utils header
+// summary: Declares GetNativeCursor, which converts a ui::Cursor into a native NSCursor on macOS.
+// ---
+
 #ifndef UI_BASE_COCOA_CURSOR_UTILS_H_
 #define UI_BASE_COCOA_CURSOR_UTILS_H_
 

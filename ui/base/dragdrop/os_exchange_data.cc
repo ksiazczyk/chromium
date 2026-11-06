@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OSExchangeData
+// summary: Implements the holder of interchange data for clipboard and drag-and-drop, delegating storage to a platform provider.
+// ---
+
 #include "ui/base/dragdrop/os_exchange_data.h"
 
 #include <string_view>

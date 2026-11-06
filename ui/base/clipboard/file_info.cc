@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard file path and URI list conversion implementation
+// summary: Implements conversion between file paths and file-scheme URLs, including parsing of text/uri-list clipboard data into FileInfo entries.
+// ---
+
 #include "ui/base/clipboard/file_info.h"
 
 #include <string_view>

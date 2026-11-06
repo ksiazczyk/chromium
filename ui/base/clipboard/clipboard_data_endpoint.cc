@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataTransferEndpoint implementation
+// summary: Implements DataTransferEndpoint constructors, equality comparison and destruction for describing clipboard data sources by origin or endpoint type.
+// ---
+
 #include <optional>
 
 #include "base/check_op.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScreensaverStateObserver unit tests
+// summary: Unit tests covering the screensaver state observer singleton, the scoped test override behavior, and its effect on CheckIdleStateIsLocked.
+// ---
+
 #include "ui/base/idle/screensaver_state_observer.h"
 
 #include "base/test/task_environment.h"

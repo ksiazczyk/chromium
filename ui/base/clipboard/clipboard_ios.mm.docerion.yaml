@@ -1,0 +1,4 @@
+# Docerion header of clipboard_ios.mm.
+type: source
+title: ClipboardIOS implementation
+summary: Implements the iOS clipboard on top of UIPasteboard, handling available formats, sequence numbers, and reading and writing text, HTML, images, and custom data.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FileInfo URI list parsing unit tests
+// summary: Unit tests for converting between text/uri-list clipboard contents and FileInfo paths, covering URL encoding, network and Windows paths.
+// ---
+
 #include "ui/base/clipboard/file_info.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GSettings helper implementation
+// summary: Implements safe GSettings creation and validation of GDK Wayland font schemas, logging failures to a crash key.
+// ---
+
 #include "ui/base/glib/gsettings.h"
 
 #include <gio/gio.h>

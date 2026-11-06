@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Clipboard build targets (BUILD.gn)
+summary: Defines GN build targets for the clipboard component, selecting platform-specific sources and dependencies for Android, iOS, Mac, Windows, and Ozone.

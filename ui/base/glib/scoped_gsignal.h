@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedGSignal GLib connection manager
+// summary: Manages GLib signal connections and disconnects them on destruction; intended for use on a single sequence.
+// ---
+
 #ifndef UI_BASE_GLIB_SCOPED_GSIGNAL_H_
 #define UI_BASE_GLIB_SCOPED_GSIGNAL_H_
 

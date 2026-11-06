@@ -1,0 +1,4 @@
+# Docerion header of idle_ios.mm.
+type: source
+title: iOS idle detection implementation
+summary: iOS implementation of idle state detection that tracks app background state and device lock via UIKit notifications and dispatches screen lock callbacks.
