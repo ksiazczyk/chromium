@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for vector icons
+summary: Mixes in the common vector_icons metadata from components to apply shared directory settings.

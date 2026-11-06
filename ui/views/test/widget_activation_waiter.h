@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Widget activation waiter header
+// summary: Declares WaitForWidgetActive, a test helper for waiting until a widget's activation changes to a given state.
+// ---
+
 #ifndef UI_VIEWS_TEST_WIDGET_ACTIVATION_WAITER_H_
 #define UI_VIEWS_TEST_WIDGET_ACTIVATION_WAITER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: View Skia Gold pixel diff class declaration
+// summary: Declares ViewSkiaGoldPixelDiff, a helper for pixel tests that compares view and window screenshots against remote Skia Gold images.
+// ---
+
 #ifndef UI_VIEWS_TEST_VIEW_SKIA_GOLD_PIXEL_DIFF_H_
 #define UI_VIEWS_TEST_VIEW_SKIA_GOLD_PIXEL_DIFF_H_
 

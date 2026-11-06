@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Menu test utilities
+// summary: Declares TestMenuDelegate and related helpers for observing menu behavior in Views tests.
+// ---
+
 #ifndef UI_VIEWS_TEST_MENU_TEST_UTILS_H_
 #define UI_VIEWS_TEST_MENU_TEST_UTILS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of account_box.icon.
+type: asset
+title: Account box vector icon
+summary: Defines the vector path data for the account box icon, drawn on a 24dp canvas with a person-in-frame shape.

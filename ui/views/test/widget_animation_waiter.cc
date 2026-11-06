@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Widget animation waiter implementation
+// summary: Implements WidgetAnimationWaiter, which waits for a widget's layer animation to finish and verifies the animation was valid against the expected target bounds.
+// ---
+
 #include "ui/views/test/widget_animation_waiter.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

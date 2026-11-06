@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockDragController implementation for drag-and-drop tests
+// summary: Implements a mocked drag controller that writes test drag data, reports copy drag operations, and always permits starting a drag from a view.
+// ---
+
 #include "ui/views/test/mock_drag_controller.h"
 
 #include "ui/base/dragdrop/drag_drop_types.h"

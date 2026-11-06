@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchSelectionMenuRunnerViews class declaration
+// summary: Declares the Views implementation of TouchSelectionMenuRunner, managing the currently running touch selection menu and exposing a test API for tests.
+// ---
+
 #ifndef UI_VIEWS_TOUCHUI_TOUCH_SELECTION_MENU_RUNNER_VIEWS_H_
 #define UI_VIEWS_TOUCHUI_TOUCH_SELECTION_MENU_RUNNER_VIEWS_H_
 

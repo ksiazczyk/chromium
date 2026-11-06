@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: View Skia Gold pixel diff implementation
+// summary: Implements ViewSkiaGoldPixelDiff, which snapshots views or native windows and compares the screenshots against Skia Gold golden images.
+// ---
+
 #include "ui/views/test/view_skia_gold_pixel_diff.h"
 
 #include "base/logging.h"

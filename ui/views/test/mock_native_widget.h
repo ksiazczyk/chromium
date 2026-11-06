@@ -2,6 +2,12 @@
 //, Use of this source code is governed by a BSD-style license that can be
 //, found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockNativeWidget header mocking NativeWidgetPrivate
+// summary: Declares a gmock mock of the NativeWidgetPrivate interface so views tests can stub native widget behavior such as bounds, capture, and window properties.
+// ---
+
 #ifndef UI_VIEWS_TEST_MOCK_NATIVE_WIDGET_H_
 #define UI_VIEWS_TEST_MOCK_NATIVE_WIDGET_H_
 

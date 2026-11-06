@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Views test utilities declarations
+// summary: Declares layout-running helpers for widgets and views plus PropertyWaiter, which waits until a callback returns an expected value or times out.
+// ---
+
 #ifndef UI_VIEWS_TEST_VIEWS_TEST_UTILS_H_
 #define UI_VIEWS_TEST_VIEWS_TEST_UTILS_H_
 

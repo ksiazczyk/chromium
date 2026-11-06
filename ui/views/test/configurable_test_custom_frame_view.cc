@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Configurable test custom frame view implementation
+// summary: Implements a test-only FrameView for custom frames whose window mask and non-client hit testing are driven by configurable callbacks.
+// ---
+
 #include "ui/views/test/configurable_test_custom_frame_view.h"
 
 #include "ui/base/hit_test.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WidgetTest base class implementation
+// summary: Implements the WidgetTest fixture with factory methods for creating platform, desktop, frameless and child widgets, plus randomized view predicate search helpers.
+// ---
+
 #include "ui/views/test/widget_test.h"
 
 #include "base/functional/callback_helpers.h"

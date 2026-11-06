@@ -1,0 +1,4 @@
+# Docerion header of close_old.icon.
+type: source
+title: Legacy close vector icon
+summary: Legacy vector path data for a 20dp circled close (X) icon used in Chromium's Views UI.

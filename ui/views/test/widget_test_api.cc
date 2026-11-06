@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Widget test API helpers implementation
+// summary: Implements DisableActivationChangeHandlingForTests and AsyncWidgetRequestWaiter, which waits for Wayland or X11 side effects of widget state changes to become visible.
+// ---
+
 #include "ui/views/test/widget_test_api.h"
 
 #include "base/notimplemented.h"

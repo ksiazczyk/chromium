@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Configurable test custom frame view class declaration
+// summary: Declares a test-only FrameView for custom frames that lets tests configure window shaping and hit testing via callbacks.
+// ---
+
 #ifndef UI_VIEWS_TEST_CONFIGURABLE_TEST_CUSTOM_FRAME_VIEW_H_
 #define UI_VIEWS_TEST_CONFIGURABLE_TEST_CUSTOM_FRAME_VIEW_H_
 

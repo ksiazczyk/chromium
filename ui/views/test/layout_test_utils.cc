@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Layout type printing helpers for tests
+// summary: Provides gtest PrintTo functions for layout types such as SizeBounds, orientations, and flex size rules.
+// ---
+
 #include <ostream>
 
 #include "ui/views/layout/flex_layout_types.h"

@@ -1,0 +1,4 @@
+# Docerion header of tab.icon.
+type: asset
+title: Tab icon
+summary: Defines the vector path data for the tab icon on a 20dp canvas.

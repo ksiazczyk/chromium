@@ -1,0 +1,4 @@
+# Docerion header of checkbox_custom.icon.
+type: source
+title: Custom rounded checkbox vector icon
+summary: Defines a rounded 16dp checkbox outline icon, marked by a TODO as temporary until merged into checkbox_active.icon after CR2023.

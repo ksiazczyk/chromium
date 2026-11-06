@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ViewsTestHelper interface for platform test setup
+// summary: Declares the ViewsTestHelper interface that performs platform-specific initialization for Views tests, including delegate setup and context window access.
+// ---
+
 #ifndef UI_VIEWS_TEST_VIEWS_TEST_HELPER_H_
 #define UI_VIEWS_TEST_VIEWS_TEST_HELPER_H_
 

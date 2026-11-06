@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the WidgetTest helpers
+// summary: Unit tests verifying that WidgetTest::GetAllWidgets correctly reports platform, native, frameless, child, and desktop widgets as they are added and closed.
+// ---
+
 #include "ui/views/test/widget_test.h"
 
 #include <algorithm>

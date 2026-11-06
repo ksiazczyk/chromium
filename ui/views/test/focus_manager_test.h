@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Focus manager test base class
+// summary: Declares the FocusManagerTest fixture and listener classes for recording focus changes in Views tests.
+// ---
+
 #ifndef UI_VIEWS_TEST_FOCUS_MANAGER_TEST_H_
 #define UI_VIEWS_TEST_FOCUS_MANAGER_TEST_H_
 

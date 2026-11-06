@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedViewsTestHelper implementation
+// summary: Implements the scoped helper that sets up and tears down a Views test environment, installing a per-instance test clipboard and simulating native window destruction.
+// ---
+
 #include "ui/views/test/scoped_views_test_helper.h"
 
 #include <utility>

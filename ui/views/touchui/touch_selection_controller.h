@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchSelectionController interface for touch text selection
+// summary: Declares the views interface for a touch selection controller that handles selection handles and the quick menu for touch-based text selection and editing.
+// ---
+
 #ifndef UI_VIEWS_TOUCHUI_TOUCH_SELECTION_CONTROLLER_H_
 #define UI_VIEWS_TOUCHUI_TOUCH_SELECTION_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestViewsDelegate test helper header
+// summary: Declares TestViewsDelegate, a ViewsDelegate for tests that can force desktop native widgets, transparent windows, a context factory and a custom layout provider.
+// ---
+
 #ifndef UI_VIEWS_TEST_TEST_VIEWS_DELEGATE_H_
 #define UI_VIEWS_TEST_TEST_VIEWS_DELEGATE_H_
 

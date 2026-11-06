@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Widget show state waiter implementation
+// summary: Implements WaitForWidgetShowState, a test helper that blocks until a widget reaches the minimized or maximized window show state.
+// ---
+
 #include "ui/views/test/widget_show_state_waiter.h"
 
 #include "base/notimplemented.h"

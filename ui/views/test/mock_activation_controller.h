@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockActivationController header for emulated widget activation
+// summary: Declares a platform-independent mock that emulates widget activation and deactivation, enabling parallel test runs instead of relying on real OS window activation.
+// ---
+
 #ifndef UI_VIEWS_TEST_MOCK_ACTIVATION_CONTROLLER_H_
 #define UI_VIEWS_TEST_MOCK_ACTIVATION_CONTROLLER_H_
 

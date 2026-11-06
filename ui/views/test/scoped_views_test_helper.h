@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedViewsTestHelper class declaration
+// summary: Declares a scoped helper that automatically creates and destroys a ViewsTestHelper so test harnesses can use a different base class than ViewsTestBase.
+// ---
+
 #ifndef UI_VIEWS_TEST_SCOPED_VIEWS_TEST_HELPER_H_
 #define UI_VIEWS_TEST_SCOPED_VIEWS_TEST_HELPER_H_
 

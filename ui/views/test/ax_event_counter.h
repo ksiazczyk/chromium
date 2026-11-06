@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AX event counter header
+// summary: Declares AXEventCounter, a test observer that counts AXUpdateNotifier events and supports waiting for specific event types.
+// ---
+
 #ifndef UI_VIEWS_TEST_AX_EVENT_COUNTER_H_
 #define UI_VIEWS_TEST_AX_EVENT_COUNTER_H_
 

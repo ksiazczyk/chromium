@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Views test utilities implementation
+// summary: Implements test utilities including RunScheduledLayout, the Ozone bubbles platform-widget check, and PropertyWaiter for waiting on a boolean condition with a timeout.
+// ---
+
 #include "ui/views/test/views_test_utils.h"
 
 #include <utility>

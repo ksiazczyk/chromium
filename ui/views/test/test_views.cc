@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test view implementations for Views tests
+// summary: Implements test view classes such as StaticSizedView, ProportionallySizedView, CloseWidgetView, EventCountView and ResizeAwareParentView used in Views tests.
+// ---
+
 #include "ui/views/test/test_views.h"
 
 #include "ui/base/metadata/metadata_impl_macros.h"

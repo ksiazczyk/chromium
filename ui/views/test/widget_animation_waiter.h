@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Widget animation waiter header
+// summary: Declares WidgetAnimationWaiter, a test observer that waits for widget layer animations to complete and reports whether a valid animation occurred.
+// ---
+
 #ifndef UI_VIEWS_TEST_WIDGET_ANIMATION_WAITER_H_
 #define UI_VIEWS_TEST_WIDGET_ANIMATION_WAITER_H_
 

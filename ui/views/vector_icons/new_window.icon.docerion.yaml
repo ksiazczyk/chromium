@@ -1,0 +1,4 @@
+# Docerion header of new_window.icon.
+type: asset
+title: new_window icon
+summary: Vector icon definition of the new-window glyph, combining a window outline with a plus sign on a 20 dp canvas.

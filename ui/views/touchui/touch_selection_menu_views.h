@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchSelectionMenuViews class declaration
+// summary: Declares the bubble dialog that shows actions for selected text, including button creation, menu availability checks, and self-managed lifetime when closed.
+// ---
+
 #ifndef UI_VIEWS_TOUCHUI_TOUCH_SELECTION_MENU_VIEWS_H_
 #define UI_VIEWS_TOUCHUI_TOUCH_SELECTION_MENU_VIEWS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TypographyProvider interface
+// summary: Declares the TypographyProvider class, the default provider of fonts, colors, and line heights for Views UI with overridable virtual methods.
+// ---
+
 #ifndef UI_VIEWS_STYLE_TYPOGRAPHY_PROVIDER_H_
 #define UI_VIEWS_STYLE_TYPOGRAPHY_PROVIDER_H_
 

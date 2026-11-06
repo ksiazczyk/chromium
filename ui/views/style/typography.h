@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text context and style enums for Views typography
+// summary: Defines the TextContext and TextStyle enums that describe where UI text appears and how it should be presented for Views typography.
+// ---
+
 #ifndef UI_VIEWS_STYLE_TYPOGRAPHY_H_
 #define UI_VIEWS_STYLE_TYPOGRAPHY_H_
 

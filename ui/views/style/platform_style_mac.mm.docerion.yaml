@@ -1,0 +1,4 @@
+# Docerion header of platform_style_mac.mm.
+type: source
+title: Mac implementation of PlatformStyle
+summary: Implements PlatformStyle for macOS, creating Cocoa scroll bars, beeping on failed textfield edits, and computing backward-deletion ranges via CoreFoundation.

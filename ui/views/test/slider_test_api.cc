@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SliderTestApi implementation
+// summary: Implements the test API that sets a slider's listener and reads its private initial button offset during tests.
+// ---
+
 #include "ui/views/test/slider_test_api.h"
 
 #include "ui/views/controls/slider.h"

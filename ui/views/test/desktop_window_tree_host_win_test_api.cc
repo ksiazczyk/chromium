@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop window tree host Win test API implementation
+// summary: Implements a test wrapper exposing private DesktopWindowTreeHostWin members such as the AX caret, HWND, cursor position, and pen events.
+// ---
+
 #include "ui/views/test/desktop_window_tree_host_win_test_api.h"
 
 #include "ui/views/widget/desktop_aura/desktop_window_tree_host_win.h"

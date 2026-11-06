@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SliderTestApi class declaration
+// summary: Declares a test API for updating the private state of a views::Slider instance, reducing test setup and fixture code.
+// ---
+
 #ifndef UI_VIEWS_TEST_SLIDER_TEST_API_H_
 #define UI_VIEWS_TEST_SLIDER_TEST_API_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of pin_old.icon.
+type: asset
+title: Pin icon (old variant)
+summary: Defines the vector path data for the older pin icon on a 24dp canvas.

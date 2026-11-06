@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default PlatformStyle implementation for Views
+// summary: Implements the non-Mac defaults of the PlatformStyle API, such as scrollbar creation, textfield edit feedback, and backward-deletion ranges.
+// ---
+
 #include "ui/views/style/platform_style.h"
 
 #include "build/build_config.h"

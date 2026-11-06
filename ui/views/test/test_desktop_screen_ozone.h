@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestDesktopScreenOzone class declaration
+// summary: Declares a screen replacement for Linux/Ozone tests that lets aura tests set the cursor screen point, working around an X11 pointer-warp limitation.
+// ---
+
 #ifndef UI_VIEWS_TEST_TEST_DESKTOP_SCREEN_OZONE_H_
 #define UI_VIEWS_TEST_TEST_DESKTOP_SCREEN_OZONE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of desktop_test_views_delegate_mac.mm.
+type: test
+title: Desktop test views delegate Mac implementation
+summary: Implements OnBeforeWidgetInit for macOS, selecting NativeWidgetMac for test widgets that lack a native widget.

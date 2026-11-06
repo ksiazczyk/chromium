@@ -1,0 +1,4 @@
+# Docerion header of info_old.icon.
+type: asset
+title: Info icon, old variant
+summary: Vector icon definition drawing the info symbol in the pre-refresh style, expressed as canvas and path commands for Chromium Views UI.

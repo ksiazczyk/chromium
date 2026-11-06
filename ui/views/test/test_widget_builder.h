@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestWidgetBuilder test helper header
+// summary: Declares TestWidgetBuilder, a builder for creating views::Widget instances in tests with configurable init params, ownership, window properties and show behavior.
+// ---
+
 #ifndef UI_VIEWS_TEST_TEST_WIDGET_BUILDER_H_
 #define UI_VIEWS_TEST_TEST_WIDGET_BUILDER_H_
 

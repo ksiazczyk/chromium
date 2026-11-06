@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: View metadata test utilities header
+// summary: Declares TestViewMetadata, a helper that exercises the metadata getters, setters, and property type converters of a view.
+// ---
+
 #ifndef UI_VIEWS_TEST_VIEW_METADATA_TEST_UTILS_H_
 #define UI_VIEWS_TEST_VIEW_METADATA_TEST_UTILS_H_
 

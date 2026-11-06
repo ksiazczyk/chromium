@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ViewsTestBase base class for Views unit tests
+// summary: Declares ViewsTestBase, a base class for Views unit tests that sets up a UI task environment, handles platform initialization, and creates test widgets.
+// ---
+
 #ifndef UI_VIEWS_TEST_VIEWS_TEST_BASE_H_
 #define UI_VIEWS_TEST_VIEWS_TEST_BASE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of circle.icon.
+type: source
+title: Circle vector icon
+summary: Defines vector path data for a 24dp ring-shaped circle icon used in Chromium's Views UI.

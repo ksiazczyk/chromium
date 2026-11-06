@@ -1,0 +1,4 @@
+# Docerion header of scoped_views_test_helper_cocoa.mm.
+type: test
+title: Cocoa implementation of ScopedViewsTestHelper native destroy
+summary: macOS-specific implementation of SimulateNativeDestroy that closes the widget's native NSWindow while retaining it to satisfy AppKit.

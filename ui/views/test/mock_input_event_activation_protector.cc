@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockInputEventActivationProtector implementation for tests
+// summary: Implements a mock input event activation protector that can be constructed with an injected policy for verifying input protection behavior in tests.
+// ---
+
 #include "ui/views/test/mock_input_event_activation_protector.h"
 
 #include <utility>

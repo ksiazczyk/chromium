@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchSelectionMenuViews bubble menu implementation
+// summary: Implements the bubble menu offering actions for selected text such as cut, copy, paste, select word, and select all, sizing and anchoring it relative to the selection handles.
+// ---
+
 #include "ui/views/touchui/touch_selection_menu_views.h"
 
 #include <algorithm>

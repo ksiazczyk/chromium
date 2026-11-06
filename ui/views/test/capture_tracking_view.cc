@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Capture tracking view implementation
+// summary: Implements a test view that records when OnMousePressed and OnMouseCaptureLost are invoked.
+// ---
+
 #include "ui/views/test/capture_tracking_view.h"
 
 #include "ui/base/metadata/metadata_impl_macros.h"

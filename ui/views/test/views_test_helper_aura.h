@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Aura ViewsTestHelper class declaration
+// summary: Declares ViewsTestHelperAura, the Aura-backed test helper with static factories for custom Aura test helpers and fallback views delegates.
+// ---
+
 #ifndef UI_VIEWS_TEST_VIEWS_TEST_HELPER_AURA_H_
 #define UI_VIEWS_TEST_VIEWS_TEST_HELPER_AURA_H_
 

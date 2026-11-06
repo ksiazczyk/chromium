@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchSelectionMenuRunnerViews implementation
+// summary: Implements the Views touch selection menu runner that opens, shows, and closes the touch selection menu and provides a test API for internal state.
+// ---
+
 #include "ui/views/touchui/touch_selection_menu_runner_views.h"
 
 #include <stddef.h>

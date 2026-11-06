@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Aura implementation of WidgetTest helpers
+// summary: Implements the Aura and Windows platform pieces of WidgetTest, including native activation simulation, window stacking checks, and enumeration of top-level windows.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "base/memory/raw_ptr_exclusion.h"
 #include "base/no_destructor.h"

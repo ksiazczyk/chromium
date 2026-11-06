@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TypographyProvider implementation
+// summary: Implements the default TypographyProvider, resolving fonts, color IDs, and line heights for text contexts and styles in toolkit-views UI.
+// ---
+
 #include "ui/views/style/typography_provider.h"
 
 #include <map>

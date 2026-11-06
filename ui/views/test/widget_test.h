@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WidgetTest base class header
+// summary: Declares the WidgetTest fixture and view search helpers used to create widgets and locate views by predicate in Views unit tests.
+// ---
+
 #ifndef UI_VIEWS_TEST_WIDGET_TEST_H_
 #define UI_VIEWS_TEST_WIDGET_TEST_H_
 

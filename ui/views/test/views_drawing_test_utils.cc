@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: View drawing test utilities implementation
+// summary: Implements PaintViewToBitmap, which paints a view and its children into an SkBitmap for use in drawing and pixel tests.
+// ---
+
 #include "ui/views/test/views_drawing_test_utils.h"
 
 #include "third_party/skia/include/core/SkBitmap.h"

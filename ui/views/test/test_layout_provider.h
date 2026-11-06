@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestLayoutProvider test helper header
+// summary: Declares TestLayoutProvider, a helper for testing LayoutProvider overrides that can override distance metrics, snapped dialog width and font details.
+// ---
+
 #ifndef UI_VIEWS_TEST_TEST_LAYOUT_PROVIDER_H_
 #define UI_VIEWS_TEST_TEST_LAYOUT_PROVIDER_H_
 

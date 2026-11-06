@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Widget activation waiter implementation
+// summary: Implements WaitForWidgetActive, a test helper that blocks until a widget's activation state matches the requested value, with an extended run loop timeout on macOS.
+// ---
+
 #include "ui/views/test/widget_activation_waiter.h"
 
 #include "base/run_loop.h"
