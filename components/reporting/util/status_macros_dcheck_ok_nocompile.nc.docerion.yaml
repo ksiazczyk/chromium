@@ -1,0 +1,4 @@
+# Docerion header of status_macros_dcheck_ok_nocompile.nc.
+type: test
+title: No-compile test for DCHECK_OK macro
+summary: No-compile test verifying that DCHECK_OK fails to compile when given a type other than Status or StatusOr, with DCHECK forced on.

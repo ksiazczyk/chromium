@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake event-driven telemetry collector pool implementation
+// summary: Implements a test fake that returns the collectors registered for a given metric event type.
+// ---
+
 #include "components/reporting/metrics/fakes/fake_event_driven_telemetry_collector_pool.h"
 
 #include <vector>

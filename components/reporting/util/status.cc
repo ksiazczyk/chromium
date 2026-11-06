@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Status class implementation
+// summary: Implements the Status class, including error code name conversion, string output and saving or restoring from StatusProto.
+// ---
+
 #include "components/reporting/util/status.h"
 
 #include <ostream>

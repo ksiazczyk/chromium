@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake metric event observer implementation
+// summary: Implements a fake MetricEventObserver that stores the observed-event callback and runs it with supplied metric data in tests.
+// ---
+
 #include "components/reporting/metrics/fakes/fake_metric_event_observer.h"
 
 #include <utility>

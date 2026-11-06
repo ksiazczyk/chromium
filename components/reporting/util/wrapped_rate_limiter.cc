@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WrappedRateLimiter implementation
+// summary: Implements WrappedRateLimiter, which runs a rate limiter on a sequenced task runner and records UMA metrics for acquire results.
+// ---
+
 #include "components/reporting/util/wrapped_rate_limiter.h"
 
 #include "base/memory/ptr_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ReportQueue unit tests
+// summary: Unit tests for ReportQueue that verify enqueue success and error paths, destination metrics histograms, and flush behavior using a mock report queue.
+// ---
+
 #include "components/reporting/client/report_queue.h"
 
 #include "base/functional/bind.h"

@@ -1,0 +1,4 @@
+# Docerion header of crash_scaled_resources.grdp.
+type: config
+title: Crash scaled image resources
+summary: Grit part declaring the sad favicon image and an iOS-specific sad tab image for crash pages.

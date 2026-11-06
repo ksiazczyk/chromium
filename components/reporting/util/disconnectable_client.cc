@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Disconnectable client implementation
+// summary: Implements DisconnectableClient, which manages delegate calls to the missive daemon, failing them when the service is unavailable and limiting concurrent jobs.
+// ---
+
 #include "components/reporting/util/disconnectable_client.h"
 
 #include <limits>

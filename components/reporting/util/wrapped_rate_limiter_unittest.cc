@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WrappedRateLimiter unit tests
+// summary: Unit tests verifying successful, rejected and repeated acquire calls through the wrapped rate limiter with histogram checks.
+// ---
+
 #include "components/reporting/util/wrapped_rate_limiter.h"
 #include <memory>
 

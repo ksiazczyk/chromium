@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ReportQueueConfiguration unit tests
+// summary: Unit tests verifying that the ReportQueueConfiguration builder accepts only valid destinations, DM tokens and policy check callbacks.
+// ---
+
 #include "components/reporting/client/report_queue_configuration.h"
 
 #include <cstddef>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Reporting proto build targets
+summary: Defines GN targets for the reporting component's proto libraries, including fuzzable protos, proto_extras targets, and JavaScript generation for Chrome extensions.

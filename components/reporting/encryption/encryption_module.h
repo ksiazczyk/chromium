@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EncryptionModule class declaration
+// summary: Declares EncryptionModule, the EncryptionModuleInterface implementation backed by Encryptor with a factory Create method.
+// ---
+
 #ifndef COMPONENTS_REPORTING_ENCRYPTION_ENCRYPTION_MODULE_H_
 #define COMPONENTS_REPORTING_ENCRYPTION_ENCRYPTION_MODULE_H_
 

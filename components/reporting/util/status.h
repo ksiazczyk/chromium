@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Status class and error code declaration
+// summary: Declares the Status class and the error::Code enum matching google/rpc code values, plus a Scoped callback auto runner.
+// ---
+
 #ifndef COMPONENTS_REPORTING_UTIL_STATUS_H_
 #define COMPONENTS_REPORTING_UTIL_STATUS_H_
 

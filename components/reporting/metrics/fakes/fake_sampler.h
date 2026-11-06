@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake sampler for metrics reporting tests
+// summary: Declares FakeSampler and FakeDelayedSampler, test doubles for the Sampler interface that return preset metric data and count collect calls in reporting metrics tests.
+// ---
+
 #ifndef COMPONENTS_REPORTING_METRICS_FAKES_FAKE_SAMPLER_H_
 #define COMPONENTS_REPORTING_METRICS_FAKES_FAKE_SAMPLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the encryption directory
+summary: Restricts includes in the encryption directory to base, crypto, and third_party/boringssl headers.

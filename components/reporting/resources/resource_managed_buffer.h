@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResourceManagedBuffer class header
+// summary: Declares a helper class for memory buffer allocation whose memory availability is controlled by a ResourceManager; not thread-safe and for sequential use only.
+// ---
+
 #ifndef COMPONENTS_REPORTING_RESOURCES_RESOURCE_MANAGED_BUFFER_H_
 #define COMPONENTS_REPORTING_RESOURCES_RESOURCE_MANAGED_BUFFER_H_
 

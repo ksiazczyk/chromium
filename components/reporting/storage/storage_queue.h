@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage queue class declaration
+// summary: Declares StorageQueue, a persistent per-priority queue that collects records, flushes them and confirms uploaded records for deletion.
+// ---
+
 #ifndef COMPONENTS_REPORTING_STORAGE_STORAGE_QUEUE_H_
 #define COMPONENTS_REPORTING_STORAGE_STORAGE_QUEUE_H_
 

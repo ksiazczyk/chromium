@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HealthModuleFiles class declaration
+// summary: Declares the HealthModuleFiles class that persistently stores ERP health data in files, handling reads, writes and storage space management for the reporting health module.
+// ---
+
 #ifndef COMPONENTS_REPORTING_HEALTH_HEALTH_MODULE_FILES_H_
 #define COMPONENTS_REPORTING_HEALTH_HEALTH_MODULE_FILES_H_
 

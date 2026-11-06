@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReportQueueProvider implementation
+// summary: Implements the singleton ReportQueueProvider that initializes the reporting pipeline and queues creation requests.
+// ---
+
 #include "components/reporting/client/report_queue_provider.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting daemon interface proto
+// summary: Defines the request and response protos for the reporting daemon interface, covering record enqueueing, priority queue flushing, and encrypted record uploads.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

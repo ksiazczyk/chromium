@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HealthModule implementation
+// summary: Implements the Recorder helper and HealthModule, posting health records and data requests to a delegate on a sequenced task runner.
+// ---
+
 #include "components/reporting/health/health_module.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test callback support header
+// summary: Header declaring TestMultiEvent and waiter helpers that let tests wait for and collect asynchronous callback results.
+// ---
+
 #ifndef COMPONENTS_REPORTING_UTIL_TEST_SUPPORT_CALLBACKS_H_
 #define COMPONENTS_REPORTING_UTIL_TEST_SUPPORT_CALLBACKS_H_
 

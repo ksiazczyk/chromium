@@ -1,0 +1,4 @@
+# Docerion header of version_ui_scaled_resources.grdp.
+type: config
+title: Version UI scaled resource definitions
+summary: 'Grit part that selects product logo, white logo, and favicon images per branding variant: Google Chrome, Chrome for Testing, or Chromium.'

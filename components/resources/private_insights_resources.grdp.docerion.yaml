@@ -1,0 +1,4 @@
+# Docerion header of private_insights_resources.grdp.
+type: config
+title: Private insights resources
+summary: Grit part that packs and gzip-compresses the contextual cues endorsement options protobuf for private insights.

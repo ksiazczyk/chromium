@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OneShotCollector implementation
+// summary: Implements a collector that gathers and reports metric data once when the reporting setting is enabled, with an optional initial delay.
+// ---
+
 #include "components/reporting/metrics/one_shot_collector.h"
 
 #include <memory>

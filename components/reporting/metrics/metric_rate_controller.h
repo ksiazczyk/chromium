@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metric rate controller header
+// summary: Declares MetricRateController, which controls the period between consecutive periodic metric collections based on reporting settings.
+// ---
+
 #ifndef COMPONENTS_REPORTING_METRICS_METRIC_RATE_CONTROLLER_H_
 #define COMPONENTS_REPORTING_METRICS_METRIC_RATE_CONTROLLER_H_
 

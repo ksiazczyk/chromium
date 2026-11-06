@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Encryption unit tests
+// summary: Unit tests for the Encryptor, verifying that records can be encrypted and decrypted back using testing primitives.
+// ---
+
 #include "components/reporting/encryption/encryption.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signature verifier declarations
+// summary: Declares the SignatureVerifier class used to verify Ed25519 signatures of messages received from the reporting server.
+// ---
+
 #ifndef COMPONENTS_REPORTING_ENCRYPTION_VERIFICATION_H_
 #define COMPONENTS_REPORTING_ENCRYPTION_VERIFICATION_H_
 

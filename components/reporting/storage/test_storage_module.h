@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test storage module declaration
+// summary: Declares TestStorageModuleStrict, a mock StorageModuleInterface for tests, plus a NiceMock alias named TestStorageModule.
+// ---
+
 #ifndef COMPONENTS_REPORTING_STORAGE_TEST_STORAGE_MODULE_H_
 #define COMPONENTS_REPORTING_STORAGE_TEST_STORAGE_MODULE_H_
 

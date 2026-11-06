@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cryptographic primitives declarations
+// summary: Declares key, nonce and signature size constants and functions for shared secret computation, symmetric encryption and signature verification.
+// ---
+
 #ifndef COMPONENTS_REPORTING_ENCRYPTION_PRIMITIVES_H_
 #define COMPONENTS_REPORTING_ENCRYPTION_PRIMITIVES_H_
 

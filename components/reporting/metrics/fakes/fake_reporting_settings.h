@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake reporting settings header
+// summary: Declares a fake ReportingSettings for tests that stores boolean, integer and list settings in memory with change observers.
+// ---
+
 #ifndef COMPONENTS_REPORTING_METRICS_FAKES_FAKE_REPORTING_SETTINGS_H_
 #define COMPONENTS_REPORTING_METRICS_FAKES_FAKE_REPORTING_SETTINGS_H_
 

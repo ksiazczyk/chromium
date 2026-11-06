@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Token bucket rate limiter implementation
+// summary: Implements the token bucket rate limiting algorithm, accepting events only while the bucket holds enough tokens and refilling at a fixed rate.
+// ---
+
 #include "components/reporting/util/rate_limiter_token_bucket.h"
 
 #include <cmath>

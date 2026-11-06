@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CollectorBase implementation
+// summary: Implements the base class for metric data collection, checking sequence validity and asynchronously collecting data through a sampler.
+// ---
+
 #include "components/reporting/metrics/collector_base.h"
 
 #include <utility>

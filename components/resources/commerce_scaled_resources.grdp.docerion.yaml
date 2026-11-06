@@ -1,0 +1,4 @@
+# Docerion header of commerce_scaled_resources.grdp.
+type: config
+title: Commerce scaled image resources
+summary: Grit part declaring the scaled product specifications favicon image for commerce features.

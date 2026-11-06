@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Storage queue stress test
+// summary: Stress-tests StorageQueue across repeated queue starts and writes, verifying record digests and upload sequencing.
+// ---
+
 #include <cstdint>
 #include <initializer_list>
 #include <optional>

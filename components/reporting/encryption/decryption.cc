@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Decryptor implementation for test record decryption
+// summary: Implements Decryptor, restoring Curve25519 shared secrets and decrypting accumulated records with ChaCha20_Poly1305 for use in tests.
+// ---
+
 #include "components/reporting/encryption/decryption.h"
 
 #include <limits>

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Reporting directory metadata
+summary: Metadata for the reporting directory specifying the owning team email, monorail component, ChromeOS target, and Buganizer component.

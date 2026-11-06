@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock clock implementation
+// summary: Implements the MockClock singleton that overrides Chromium's time functions and advances a time offset for testing purposes.
+// ---
+
 #include "components/reporting/util/mock_clock.h"
 
 #include "base/no_destructor.h"

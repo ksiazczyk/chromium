@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the compression directory
+summary: Grants the compression directory access to the third-party snappy compression library.

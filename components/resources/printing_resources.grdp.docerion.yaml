@@ -1,0 +1,4 @@
+# Docerion header of printing_resources.grdp.
+type: config
+title: Printing resources
+summary: Grit part that includes the print header and footer template page when printing is enabled.

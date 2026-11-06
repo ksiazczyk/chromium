@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage implementation for persistent record queues
+// summary: Implements the Storage class that persists encrypted records into per-priority queues and manages uploads, confirmations, and encryption key updates.
+// ---
+
 #include "components/reporting/storage/storage.h"
 
 #include <cstdint>

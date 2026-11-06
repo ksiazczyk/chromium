@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Leaky bucket rate limiter unit tests
+// summary: Unit tests covering singular, steady, randomized and large event streams against the leaky bucket rate limiter using mock time.
+// ---
+
 #include "components/reporting/util/rate_limiter_leaky_bucket.h"
 
 #include <cstddef>

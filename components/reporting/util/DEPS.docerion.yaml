@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for reporting util
+summary: Restricts includes in the reporting util directory to //base and net/base/backoff_entry.h.

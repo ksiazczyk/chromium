@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResourceManager implementation
+// summary: Implements thread-safe memory reservation with atomic usage tracking, availability callbacks on a sequenced task runner, and the RAII ScopedReservation helper.
+// ---
+
 #include "components/reporting/resources/resource_manager.h"
 
 #include <atomic>

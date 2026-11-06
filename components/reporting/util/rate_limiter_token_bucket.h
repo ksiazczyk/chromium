@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Token bucket rate limiter class declaration
+// summary: Declares RateLimiterTokenBucket, a token bucket rate limiter implementing RateLimiterInterface with configurable capacity and filling rate.
+// ---
+
 #ifndef COMPONENTS_REPORTING_UTIL_RATE_LIMITER_TOKEN_BUCKET_H_
 #define COMPONENTS_REPORTING_UTIL_RATE_LIMITER_TOKEN_BUCKET_H_
 

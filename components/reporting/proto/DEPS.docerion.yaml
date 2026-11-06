@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the reporting proto directory
+summary: Chromium DEPS file granting this directory access to the app_service public protos.

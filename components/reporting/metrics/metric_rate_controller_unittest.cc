@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Metric rate controller unit tests
+// summary: Unit tests for MetricRateController covering invalid paths, trusted values, rate settings, unit conversion, and start and stop behavior with mock time.
+// ---
+
 #include "components/reporting/metrics/metric_rate_controller.h"
 
 #include <memory>

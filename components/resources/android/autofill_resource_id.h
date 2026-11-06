@@ -12,6 +12,12 @@
 // NOLINT(build/header_guard)
 // no-include-guard-because-multiply-included
 
+// ---docerion
+// type: source
+// title: Autofill resource ID to Android drawable mappings
+// summary: Maps Chromium autofill resource IDs such as credit card brand icons and Google Pay or Google Wallet images to Android drawable resources.
+// ---
+
 // LINK_RESOURCE_ID is used for IDs that come from a .grd file.
 #ifndef LINK_RESOURCE_ID
 #error "LINK_RESOURCE_ID should be defined before including this file"

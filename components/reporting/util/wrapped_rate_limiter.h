@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WrappedRateLimiter header
+// summary: Header declaring WrappedRateLimiter, a wrapper ensuring sequenced access to a rate limiter via an async acquire callback.
+// ---
+
 #ifndef COMPONENTS_REPORTING_UTIL_WRAPPED_RATE_LIMITER_H_
 #define COMPONENTS_REPORTING_UTIL_WRAPPED_RATE_LIMITER_H_
 

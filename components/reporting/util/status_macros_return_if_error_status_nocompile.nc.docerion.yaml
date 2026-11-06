@@ -1,0 +1,4 @@
+# Docerion header of status_macros_return_if_error_status_nocompile.nc.
+type: test
+title: No-compile test for RETURN_IF_ERROR_STATUS macro
+summary: No-compile test verifying that RETURN_IF_ERROR_STATUS only accepts expressions of type Status or base::unexpected<Status>.

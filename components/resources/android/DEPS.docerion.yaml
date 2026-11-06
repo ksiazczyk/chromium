@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Android resources DEPS include rules
+summary: Defines the allowed include dependency on device/vr/buildflags/buildflags.h for the android resources directory.

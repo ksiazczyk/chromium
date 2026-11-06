@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReportQueueFactory implementation
+// summary: Implements ReportQueueFactory, asynchronously creating report queues with backoff retry and speculative queues from configuration builders.
+// ---
+
 #include "components/reporting/client/report_queue_factory.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting error reason enums for UMA logging
+// summary: Defines UnavailableErrorReason and DataLossErrorReason enums used to UMA-log error::UNAVAILABLE and error::DATA_LOSS occurrences in reporting.
+// ---
+
 #ifndef COMPONENTS_REPORTING_UTIL_REPORTING_ERRORS_H_
 #define COMPONENTS_REPORTING_UTIL_REPORTING_ERRORS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManualCollector implementation
+// summary: Implements manual metric collection that enqueues collected metric data to the report queue when reporting settings allow it.
+// ---
+
 #include "components/reporting/metrics/manual_collector.h"
 
 #include <memory>

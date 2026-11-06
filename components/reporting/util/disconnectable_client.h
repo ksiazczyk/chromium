@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Disconnectable client class declaration
+// summary: Declares the DisconnectableClient class that handles service disconnections by responding with failure and queuing or limiting delegate calls.
+// ---
+
 #ifndef COMPONENTS_REPORTING_UTIL_DISCONNECTABLE_CLIENT_H_
 #define COMPONENTS_REPORTING_UTIL_DISCONNECTABLE_CLIENT_H_
 

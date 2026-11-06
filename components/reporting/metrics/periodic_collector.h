@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PeriodicCollector class declaration
+// summary: Declares PeriodicCollector, which periodically collects and reports metric data when the reporting setting is enabled.
+// ---
+
 #ifndef COMPONENTS_REPORTING_METRICS_PERIODIC_COLLECTOR_H_
 #define COMPONENTS_REPORTING_METRICS_PERIODIC_COLLECTOR_H_
 

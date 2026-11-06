@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sliding window rate limiter implementation
+// summary: Implements the sliding window rate limiter, tracking event sizes in time buckets and trimming obsolete buckets as time advances.
+// ---
+
 #include "components/reporting/util/rate_limiter_slide_window.h"
 
 #include <cstddef>

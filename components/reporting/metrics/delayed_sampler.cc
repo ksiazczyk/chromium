@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DelayedSampler implementation
+// summary: Implements a sampler wrapper that postpones collection from an owned sampler by a configured delay using a posted task.
+// ---
+
 #include "components/reporting/metrics/delayed_sampler.h"
 
 #include <memory>

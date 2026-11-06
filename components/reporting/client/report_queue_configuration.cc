@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReportQueueConfiguration implementation
+// summary: Implements the ReportQueueConfiguration builder, validating and setting event type, destination, DM token, rate limiter and other queue settings.
+// ---
+
 #include "components/reporting/client/report_queue_configuration.h"
 
 #include <string>

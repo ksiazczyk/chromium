@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HealthModuleFiles implementation
+// summary: Manages health history files on disk by enumerating existing files, creating and deleting them, and populating history from stored records.
+// ---
+
 #include "components/reporting/health/health_module_files.h"
 
 #include <algorithm>

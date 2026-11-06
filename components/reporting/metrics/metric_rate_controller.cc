@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metric rate controller implementation
+// summary: Implements MetricRateController, which runs a repeated task at a rate taken from reporting settings with a default fallback and a testing-rate feature flag.
+// ---
+
 #include "components/reporting/metrics/metric_rate_controller.h"
 
 #include "base/functional/callback_helpers.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for metrics data collection
+summary: Defines the metrics_data_collection source set and the unit_tests target for the reporting metrics component, listing sources and dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Refcounted closure list unit tests
+// summary: Unit tests verifying that completion callbacks fire after workers drop their references to the closure list across many tasks.
+// ---
+
 #include <atomic>
 #include <memory>
 

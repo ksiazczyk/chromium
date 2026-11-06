@@ -1,3 +1,11 @@
+---
+type: readme
+title: Encrypted Reporting Pipeline (ERP) overview
+summary: Describes the Encrypted Reporting Pipeline code structure across Chrome and ChromeOS and explains how to build and run the directory's unit tests.
+relations:
+  - references /components/reporting/client/report_queue_provider.h
+---
+
 The Encrypted Reporting Pipeline (ERP) provides a universal method for upload of
 data for enterprise customers.
 

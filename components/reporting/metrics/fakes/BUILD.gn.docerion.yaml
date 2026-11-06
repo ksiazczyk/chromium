@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for reporting metrics test fakes
+summary: Defines the testonly test_support static library that bundles the fake implementations for reporting metrics testing.

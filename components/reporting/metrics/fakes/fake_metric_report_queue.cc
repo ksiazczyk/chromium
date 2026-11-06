@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake metric report queue implementation
+// summary: Implements a fake MetricReportQueue that captures enqueued metric data and counts flushes for test verification.
+// ---
+
 #include "components/reporting/metrics/fakes/fake_metric_report_queue.h"
 
 #include <memory>

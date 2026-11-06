@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Reporting client GN build targets
+summary: GN build file defining static libraries for report queue, configuration, factory, provider, DM token retriever, and test support in the reporting client.

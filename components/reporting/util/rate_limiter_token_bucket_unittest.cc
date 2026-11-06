@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Token bucket rate limiter unit tests
+// summary: Unit tests verifying token bucket acceptance of singular, steady, randomized and large event streams using mock time.
+// ---
+
 #include "components/reporting/util/rate_limiter_token_bucket.h"
 
 #include <cstddef>

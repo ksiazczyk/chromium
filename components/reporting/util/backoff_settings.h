@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Backoff settings declaration
+// summary: Declares GetBackoffEntry, which returns a BackoffEntry with exponential retry delays for upload attempts.
+// ---
+
 #ifndef COMPONENTS_REPORTING_UTIL_BACKOFF_SETTINGS_H_
 #define COMPONENTS_REPORTING_UTIL_BACKOFF_SETTINGS_H_
 

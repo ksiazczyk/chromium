@@ -1,0 +1,4 @@
+# Docerion header of supervised_user_resources.grdp.
+type: config
+title: Supervised user resource definitions
+summary: Grit part that packages supervised user block interstitial pages and the supervised user icon as compressed binary resources.

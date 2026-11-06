@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockDMTokenRetriever header
+// summary: Declares a gmock-based MockDMTokenRetriever that stubs out DM token retrieval functionality for testing purposes.
+// ---
+
 #ifndef COMPONENTS_REPORTING_CLIENT_MOCK_DM_TOKEN_RETRIEVER_H_
 #define COMPONENTS_REPORTING_CLIENT_MOCK_DM_TOKEN_RETRIEVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Status macros for error handling in reporting utilities
+// summary: Defines the RETURN_IF_ERROR_STATUS macro plus CHECK_OK, DCHECK_OK, ASSERT_OK and EXPECT_OK macros for handling Status and StatusOr results in the reporting component.
+// ---
+
 #ifndef COMPONENTS_REPORTING_UTIL_STATUS_MACROS_H_
 #define COMPONENTS_REPORTING_UTIL_STATUS_MACROS_H_
 

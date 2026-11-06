@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Leaky bucket rate limiter implementation
+// summary: Implements the leaky bucket rate limiter, refilling the bucket on a schedule and accepting events only once the bucket is full.
+// ---
+
 #include "components/reporting/util/rate_limiter_leaky_bucket.h"
 
 #include <cmath>

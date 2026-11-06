@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HealthModule class declaration
+// summary: Declares the ref-counted HealthModule and its moveable Recorder used to compose and post health history records in the ERP.
+// ---
+
 #ifndef COMPONENTS_REPORTING_HEALTH_HEALTH_MODULE_H_
 #define COMPONENTS_REPORTING_HEALTH_HEALTH_MODULE_H_
 

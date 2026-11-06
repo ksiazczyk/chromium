@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test callback waiter implementations
+// summary: Implements TestCallbackWaiter and TestCallbackAutoWaiter helpers used to wait for callbacks in reporting tests.
+// ---
+
 #include "components/reporting/util/test_support_callbacks.h"
 
 namespace reporting {

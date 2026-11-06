@@ -4,6 +4,12 @@
 
 // Describes a user affiliated with a Chrome OS Session.
 
+// ---docerion
+// type: source
+// title: Session affiliated user proto
+// summary: Defines protos describing users affiliated and unaffiliated with a Chrome OS session, including email addresses and per-device user identifiers.
+// ---
+
 syntax = "proto2";
 
 package reporting;

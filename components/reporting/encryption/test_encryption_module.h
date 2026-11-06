@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test encryption module declarations
+// summary: Declares a mock encryption module that performs no encryption, for use in tests of reporting components.
+// ---
+
 #ifndef COMPONENTS_REPORTING_ENCRYPTION_TEST_ENCRYPTION_MODULE_H_
 #define COMPONENTS_REPORTING_ENCRYPTION_TEST_ENCRYPTION_MODULE_H_
 

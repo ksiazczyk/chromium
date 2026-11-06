@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Refcounted closure list implementation
+// summary: Implements RefCountedClosureList, running all registered completion callbacks when the last reference to the list is dropped.
+// ---
+
 #include "components/reporting/util/refcounted_closure_list.h"
 
 #include <memory>

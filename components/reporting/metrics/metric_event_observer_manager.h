@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metric event observer manager header
+// summary: Declares MetricEventObserverManager, which manages event observers, reporting enablement, and delivery of metric data to the report queue.
+// ---
+
 #ifndef COMPONENTS_REPORTING_METRICS_METRIC_EVENT_OBSERVER_MANAGER_H_
 #define COMPONENTS_REPORTING_METRICS_METRIC_EVENT_OBSERVER_MANAGER_H_
 

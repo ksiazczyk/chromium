@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PeriodicCollector unit tests
+// summary: Unit tests verifying periodic collection timing, rate settings, and enable or disable behavior using mocked time and fake components.
+// ---
+
 #include "components/reporting/metrics/periodic_collector.h"
 
 #include <array>

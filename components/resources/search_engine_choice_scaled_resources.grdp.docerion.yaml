@@ -1,0 +1,4 @@
+# Docerion header of search_engine_choice_scaled_resources.grdp.
+type: config
+title: Search engine choice scaled resources
+summary: Grit part that packages the Google search logo image for Google Chrome builds.

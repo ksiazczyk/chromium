@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Uploader interface implementation
+// summary: Implements the UploaderInterface base and maps upload reasons to readable strings.
+// ---
+
 #include "components/reporting/storage/storage_uploader_interface.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ReportQueueProvider unit tests
+// summary: Unit tests for ReportQueueProvider covering queue creation and asynchronous message enqueuing.
+// ---
+
 #include "components/reporting/client/report_queue_provider.h"
 
 #include <memory>

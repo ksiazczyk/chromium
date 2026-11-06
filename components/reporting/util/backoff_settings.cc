@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Backoff settings for upload retries
+// summary: Creates a net::BackoffEntry with a 10 second initial retry delay that doubles per failure up to 90 seconds, with 10 percent jitter.
+// ---
+
 #include "components/reporting/util/backoff_settings.h"
 
 #include <memory>

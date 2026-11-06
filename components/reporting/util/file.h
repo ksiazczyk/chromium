@@ -4,6 +4,12 @@
 
 // Utilities for file operations.
 
+// ---docerion
+// type: source
+// title: File operation utilities declaration
+// summary: Declares file operation helpers for deleting, reading, appending, writing and truncating files with Status-based error reporting.
+// ---
+
 #ifndef COMPONENTS_REPORTING_UTIL_FILE_H_
 #define COMPONENTS_REPORTING_UTIL_FILE_H_
 

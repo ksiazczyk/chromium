@@ -1,0 +1,4 @@
+# Docerion header of status_macros_assert_ok_nocompile.nc.
+type: test
+title: No-compile test for ASSERT_OK macro
+summary: No-compile test verifying that ASSERT_OK fails to compile when given a type other than Status or StatusOr.

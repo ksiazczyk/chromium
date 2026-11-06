@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Storage queue unit tests
+// summary: Unit tests for StorageQueue covering record writes, uploads, file management and feature-flag behavior.
+// ---
+
 #include "components/reporting/storage/storage_queue.h"
 
 #include <atomic>

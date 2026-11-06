@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the health directory
+summary: DEPS file permitting includes from third_party/re2 within the health module directory.

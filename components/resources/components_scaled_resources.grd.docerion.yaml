@@ -1,0 +1,4 @@
+# Docerion header of components_scaled_resources.grd.
+type: config
+title: Components scaled image resource aggregation
+summary: Grit file aggregating scaled image resource parts and generating multi-scale pak outputs for components.

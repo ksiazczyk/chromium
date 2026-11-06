@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReportQueueImpl implementation
+// summary: Implements regular and speculative report queues, including record production, destination checks and storage scheduling.
+// ---
+
 #include "components/reporting/client/report_queue_impl.h"
 
 #include <memory>

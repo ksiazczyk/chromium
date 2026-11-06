@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake event-driven telemetry collector pool header
+// summary: Declares a fake EventDrivenTelemetryCollectorPool that maps metric event types to collectors for use in tests.
+// ---
+
 #ifndef COMPONENTS_REPORTING_METRICS_FAKES_FAKE_EVENT_DRIVEN_TELEMETRY_COLLECTOR_POOL_H_
 #define COMPONENTS_REPORTING_METRICS_FAKES_FAKE_EVENT_DRIVEN_TELEMETRY_COLLECTOR_POOL_H_
 

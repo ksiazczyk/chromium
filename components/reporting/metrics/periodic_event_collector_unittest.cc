@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PeriodicEventCollector unit tests
+// summary: Unit tests for PeriodicEventCollector covering event detection, collection rates, and reporting enablement using fake sampler, settings, and event detector objects.
+// ---
+
 #include "components/reporting/metrics/periodic_event_collector.h"
 
 #include <memory>

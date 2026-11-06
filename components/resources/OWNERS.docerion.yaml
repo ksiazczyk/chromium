@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Per-file owners for components resources
+summary: Maps each resource file to its owning component team and routes grit and BUILD.gn mechanical changes to WebUI platform owners.

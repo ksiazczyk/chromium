@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for reporting resources
+summary: Defines static library targets for resource_manager and resource_managed_buffer plus a testonly unit_tests source set for the reporting resources component.

@@ -1,0 +1,4 @@
+# Docerion header of ntp_tiles_resources.grdp.
+type: config
+title: NTP tiles resources
+summary: Grit part bundling default popular sites JSON files and icons for new tab page tiles on Android and iOS.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EncryptionModule implementation
+// summary: Implements EncryptionModule, driving the Encryptor to encrypt records asynchronously and forward asymmetric key updates.
+// ---
+
 #include "components/reporting/encryption/encryption_module.h"
 
 #include <string>

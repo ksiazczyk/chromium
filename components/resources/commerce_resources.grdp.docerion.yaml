@@ -1,0 +1,4 @@
+# Docerion header of commerce_resources.grdp.
+type: config
+title: Commerce grit resources
+summary: Grit part bundling cart and checkout URL regex JSON heuristics plus the query shopping metadata script.

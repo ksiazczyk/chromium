@@ -1,6 +1,13 @@
 // Copyright 2021 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Compression module implementation
+// summary: Implements record compression for the reporting pipeline, applying snappy when a record exceeds the configured threshold and a memory reservation succeeds.
+// ---
+
 #include "components/reporting/compression/compression_module.h"
 
 #include <optional>

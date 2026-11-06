@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metric event observer interface
+// summary: Defines the MetricEventObserver interface for observing events and reporting MetricData through a repeating callback, with enable and disable control.
+// ---
+
 #ifndef COMPONENTS_REPORTING_METRICS_METRIC_EVENT_OBSERVER_H_
 #define COMPONENTS_REPORTING_METRICS_METRIC_EVENT_OBSERVER_H_
 

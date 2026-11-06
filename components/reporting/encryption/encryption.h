@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Encryptor class declaration for record encryption
+// summary: Declares the Encryptor class and its Handle for assembling and encrypting reporting records with per-record Curve25519 key pairs.
+// ---
+
 #ifndef COMPONENTS_REPORTING_ENCRYPTION_ENCRYPTION_H_
 #define COMPONENTS_REPORTING_ENCRYPTION_ENCRYPTION_H_
 

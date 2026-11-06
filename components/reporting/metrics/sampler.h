@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sampler interface header
+// summary: Declares the Sampler interface for collecting metric data of a given type, covering infrequently changing information and periodically polled telemetry.
+// ---
+
 #ifndef COMPONENTS_REPORTING_METRICS_SAMPLER_H_
 #define COMPONENTS_REPORTING_METRICS_SAMPLER_H_
 

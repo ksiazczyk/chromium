@@ -1,0 +1,4 @@
+# Docerion header of status_macros_expect_ok_nocompile.nc.
+type: test
+title: No-compile test for EXPECT_OK macro
+summary: No-compile test verifying that EXPECT_OK fails to compile when given a type other than Status or StatusOr.

@@ -1,0 +1,4 @@
+# Docerion header of translate_resources.grdp.
+type: config
+title: Translate resource definitions
+summary: Grit part that packages the translate JavaScript resource as binary data for the translate component.

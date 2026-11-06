@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake metric event observer header
+// summary: Declares a fake MetricEventObserver for tests that tracks reporting-enabled state and the observed-event callback.
+// ---
+
 #ifndef COMPONENTS_REPORTING_METRICS_FAKES_FAKE_METRIC_EVENT_OBSERVER_H_
 #define COMPONENTS_REPORTING_METRICS_FAKES_FAKE_METRIC_EVENT_OBSERVER_H_
 

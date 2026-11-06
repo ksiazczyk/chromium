@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android components resource ID enum aggregator
+// summary: Aggregates all Android component resource ID headers into a single enum whose values start above the 16-bit IDR range.
+// ---
+
 #ifndef COMPONENTS_RESOURCES_ANDROID_THEME_RESOURCES_H_
 #define COMPONENTS_RESOURCES_ANDROID_THEME_RESOURCES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReportQueueImpl header
+// summary: Declares ReportQueueImpl and SpeculativeReportQueueImpl classes that enqueue records for delivery to a destination.
+// ---
+
 #ifndef COMPONENTS_REPORTING_CLIENT_REPORT_QUEUE_IMPL_H_
 #define COMPONENTS_REPORTING_CLIENT_REPORT_QUEUE_IMPL_H_
 

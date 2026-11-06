@@ -1,0 +1,4 @@
+# Docerion header of enterprise_proxy_error_page_resources.grdp.
+type: config
+title: Enterprise proxy error page resources
+summary: Grit part bundling the enterprise proxy error page HTML as a resource.

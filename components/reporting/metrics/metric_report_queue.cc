@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metric report queue implementation
+// summary: Implements MetricReportQueue, a wrapper around ReportQueue that enqueues MetricData with a priority and optionally flushes records periodically.
+// ---
+
 #include "components/reporting/metrics/metric_report_queue.h"
 
 #include "base/functional/bind.h"

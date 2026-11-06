@@ -1,0 +1,4 @@
+# Docerion header of neterror_scaled_resources.grdp.
+type: config
+title: Net error scaled image resources
+summary: Grit part that packages the generic network error page image as a scaled Chrome image resource.

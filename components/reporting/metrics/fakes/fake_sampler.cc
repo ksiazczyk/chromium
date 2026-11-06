@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake sampler implementation
+// summary: Implements FakeSampler and FakeDelayedSampler test doubles that return preset metric data from collect calls.
+// ---
+
 #include "components/reporting/metrics/fakes/fake_sampler.h"
 
 #include <optional>

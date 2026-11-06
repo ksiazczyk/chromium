@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test double for the compression module
+// summary: Implements a strict test compression module that by default performs no compression and returns no compression information.
+// ---
+
 #include "components/reporting/compression/test_compression_module.h"
 
 #include <optional>

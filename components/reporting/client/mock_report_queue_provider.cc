@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockReportQueueProvider implementation
+// summary: Implements MockReportQueueProvider, which returns new mock report queues on demand and relies on a test storage module for queue creation in tests.
+// ---
+
 #include "components/reporting/client/mock_report_queue_provider.h"
 
 #include <memory>

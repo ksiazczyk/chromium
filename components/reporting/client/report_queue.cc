@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReportQueue implementation
+// summary: Implements ReportQueue enqueue paths, converting string, dictionary and protobuf records, and logging enqueue outcome metrics per destination.
+// ---
+
 #include "components/reporting/client/report_queue.h"
 
 #include <memory>

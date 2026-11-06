@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FilteredReportQueue unit tests
+// summary: Unit tests covering accepted, rejected, and mixed filtering behavior of FilteredReportQueue using mock filters and mock report queues.
+// ---
+
 #include "components/reporting/client/filtered_report_queue.h"
 
 #include <memory>

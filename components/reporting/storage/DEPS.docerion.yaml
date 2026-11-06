@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for reporting storage
+summary: Grants the storage directory include access to base, crypto, third_party/protobuf, and third_party/snappy.

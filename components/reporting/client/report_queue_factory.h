@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReportQueueFactory header
+// summary: Declares the ReportQueueFactory API for creating regular and speculative report queues with automatic retries.
+// ---
+
 #ifndef COMPONENTS_REPORTING_CLIENT_REPORT_QUEUE_FACTORY_H_
 #define COMPONENTS_REPORTING_CLIENT_REPORT_QUEUE_FACTORY_H_
 

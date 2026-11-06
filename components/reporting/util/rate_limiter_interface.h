@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rate limiter interface
+// summary: Abstract interface requiring subclasses to implement Acquire, which decides whether an event of a given size can be posted and updates state accordingly.
+// ---
+
 #ifndef COMPONENTS_REPORTING_UTIL_RATE_LIMITER_INTERFACE_H_
 #define COMPONENTS_REPORTING_UTIL_RATE_LIMITER_INTERFACE_H_
 

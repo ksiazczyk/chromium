@@ -1,6 +1,13 @@
 // Copyright 2021 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Decompression implementation
+// summary: Implements record decompression, returning records unchanged or decompressing them with snappy based on the provided compression information.
+// ---
+
 #include "components/reporting/compression/decompression.h"
 
 #include <string>

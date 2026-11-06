@@ -1,0 +1,4 @@
+# Docerion header of security_interstitials_dev_ui_resources.grdp.
+type: config
+title: Security interstitials dev UI grit resources
+summary: Grit part that bundles the HTML listing of interstitial pages for the developer-facing interstitials page.
