@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input Protection Interactive Test Implementation
+// summary: Implements interactive test helpers and event dispatch utilities for exercising input protection scenarios in interaction sequences.
+// ---
+
 #include "ui/views/input_protection/input_protection_interactive_test.h"
 
 #include <memory>

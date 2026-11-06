@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimatingLayoutManager implementation
+// summary: Implements a layout manager that animates child view bounds and host size when the target layout provided by a wrapped layout manager changes.
+// ---
+
 #include "ui/views/layout/animating_layout_manager.h"
 
 #include <algorithm>

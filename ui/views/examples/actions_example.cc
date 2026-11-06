@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actions example implementation
+// summary: Implements the Actions example, showing how action items are assigned, invoked, and reflected in Views controls such as buttons, checkboxes, and comboboxes.
+// ---
+
 #include "ui/views/examples/actions_example.h"
 
 #include <algorithm>

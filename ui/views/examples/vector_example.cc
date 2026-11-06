@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vector icon gallery example implementation
+// summary: Implements the vector icon gallery example, letting users pick .icon files from source tree directories and render them with size and color inputs.
+// ---
+
 #include "ui/views/examples/vector_example.h"
 
 #include <algorithm>

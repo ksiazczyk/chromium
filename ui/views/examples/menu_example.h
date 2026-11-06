@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Menu example header
+// summary: Declares the MenuExample class, which demonstrates how to use the MenuModelAdapter and MenuRunner classes in the Views examples catalog.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_MENU_EXAMPLE_H_
 #define UI_VIEWS_EXAMPLES_MENU_EXAMPLE_H_
 

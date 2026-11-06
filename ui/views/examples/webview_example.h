@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web view example header
+// summary: Declares the WebViewExample class, an ExampleBase that hosts a WebView with a browser context and handles web keyboard events.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_WEBVIEW_EXAMPLE_H_
 #define UI_VIEWS_EXAMPLES_WEBVIEW_EXAMPLE_H_
 

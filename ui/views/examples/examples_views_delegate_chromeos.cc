@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS views delegate for the examples app
+// summary: Implements a test views delegate for ChromeOS that hosts widgets in a WM test helper window and closes the examples widget when the host close is requested.
+// ---
+
 #include "ui/views/examples/examples_views_delegate_chromeos.h"
 
 #include "ui/views/examples/examples_window.h"

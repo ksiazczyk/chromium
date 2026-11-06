@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Type converters for Background and Border
+// summary: Implements TypeConverter specializations that serialize views Background and Border objects to strings for the metadata system.
+// ---
+
 #include "ui/views/metadata/type_conversion.h"
 
 #include <string>

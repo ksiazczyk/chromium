@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multiline example header
+// summary: Declares the MultilineExample class, which compares multiline rendering of different controls and includes textfield controller callbacks and checkboxes.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_MULTILINE_EXAMPLE_H_
 #define UI_VIEWS_EXAMPLES_MULTILINE_EXAMPLE_H_
 

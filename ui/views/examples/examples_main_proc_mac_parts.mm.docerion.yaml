@@ -1,0 +1,4 @@
+# Docerion header of examples_main_proc_mac_parts.mm.
+type: source
+title: Mac process foreground activation for examples
+summary: Transforms the process into a foreground application on macOS so the unbundled examples program can get input focus and a Dock icon.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Link example implementation
+// summary: Implements a simple link example that shows a status message when the link is clicked.
+// ---
+
 #include "ui/views/examples/link_example.h"
 
 #include <memory>

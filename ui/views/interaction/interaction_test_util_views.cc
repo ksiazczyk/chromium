@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InteractionTestUtilSimulatorViews implementation
+// summary: Implements the Views interaction test simulator, simulating button presses, menu selection, text entry, accelerators and widget activation.
+// ---
+
 #include "ui/views/interaction/interaction_test_util_views.h"
 
 #include <string>

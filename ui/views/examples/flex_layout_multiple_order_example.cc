@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flex layout multiple order example implementation
+// summary: Implements an example demonstrating FlexLayout with multiple flex order specifications and labels that show live view sizes.
+// ---
+
 #include "ui/views/examples/flex_layout_multiple_order_example.h"
 
 #include <algorithm>

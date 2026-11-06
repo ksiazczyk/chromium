@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Designer property editor header
+// summary: Declares the DesignerPropertyEditor abstraction and registration API for editing view metadata properties in the designer.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_DESIGNER_PROPERTY_EDITOR_H_
 #define UI_VIEWS_EXAMPLES_DESIGNER_PROPERTY_EDITOR_H_
 

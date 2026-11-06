@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Animated image view example implementation
+// summary: Implements an example that loads and plays Lottie and Skottie animation files in an AnimatedImageView with size and file path controls.
+// ---
+
 #include "ui/views/examples/animated_image_view_example.h"
 
 #include <cstdint>

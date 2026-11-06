@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Views canvas example header
+// summary: Declares the ViewsCanvasExample class, an example view with a JSON editor, file selection dialog, preview rendering, and popup dialog management.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_VIEWS_CANVAS_EXAMPLE_H_
 #define UI_VIEWS_EXAMPLES_VIEWS_CANVAS_EXAMPLE_H_
 

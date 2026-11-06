@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FillLayout implementation
+// summary: Implements FillLayout, which sizes child views to the host's content bounds and computes preferred, minimum and height-for-width sizes across children.
+// ---
+
 #include "ui/views/layout/fill_layout.h"
 
 #include <algorithm>

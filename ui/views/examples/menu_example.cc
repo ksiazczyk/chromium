@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Menu example implementation
+// summary: Implements the Views menu example, showing menu buttons, simple menu models, submenus, checkboxes, and drag-and-drop menu runners in the examples window.
+// ---
+
 #include "ui/views/examples/menu_example.h"
 
 #include <memory>

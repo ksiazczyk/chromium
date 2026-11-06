@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TableLayoutView class declaration
+// summary: Declares a View subclass that embeds a TableLayout and exposes fluent builder methods for table structure, with view factory builder support.
+// ---
+
 #ifndef UI_VIEWS_LAYOUT_TABLE_LAYOUT_VIEW_H_
 #define UI_VIEWS_LAYOUT_TABLE_LAYOUT_VIEW_H_
 

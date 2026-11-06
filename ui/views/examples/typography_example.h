@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Typography example header
+// summary: Declares the TypographyExample class that previews headline and body text styles in the examples window.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_TYPOGRAPHY_EXAMPLE_H_
 #define UI_VIEWS_EXAMPLES_TYPOGRAPHY_EXAMPLE_H_
 

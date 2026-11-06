@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Progress bar example header
+// summary: Declares the ProgressBarExample class, which demonstrates ProgressBar value stepping and indeterminate loading states in the Views examples window.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_PROGRESS_BAR_EXAMPLE_H_
 #define UI_VIEWS_EXAMPLES_PROGRESS_BAR_EXAMPLE_H_
 

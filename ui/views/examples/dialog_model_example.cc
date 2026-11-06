@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dialog model example implementation
+// summary: Implements an example that builds a dialog with ui::DialogModel, using textfields, a checkbox and a combobox, and reads values on accept.
+// ---
+
 #include "ui/views/examples/dialog_model_example.h"
 
 #include <memory>

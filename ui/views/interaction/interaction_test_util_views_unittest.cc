@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InteractionTestUtilViews unit tests
+// summary: Parameterized unit tests for the Views interaction test simulator covering buttons, menus, tabs, comboboxes, text fields and accelerators.
+// ---
+
 #include "ui/views/interaction/interaction_test_util_views.h"
 
 #include <memory>

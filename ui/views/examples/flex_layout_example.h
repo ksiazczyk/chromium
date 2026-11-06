@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flex layout example header
+// summary: Declares FlexLayoutExample, a layout example that lets users configure FlexLayout behavior through UI controls.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_FLEX_LAYOUT_EXAMPLE_H_
 #define UI_VIEWS_EXAMPLES_FLEX_LAYOUT_EXAMPLE_H_
 

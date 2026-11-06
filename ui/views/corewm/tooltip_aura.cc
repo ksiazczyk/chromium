@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TooltipAura implementation
+// summary: Implements the Tooltip interface with a Widget and label, covering positioning, max width, translucency and platform-specific behavior.
+// ---
+
 #include "ui/views/corewm/tooltip_aura.h"
 
 #include <algorithm>

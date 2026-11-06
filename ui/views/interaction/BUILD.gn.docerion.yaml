@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Views Interaction Library build targets
+summary: Defines unit test and test support source sets for the Views interaction library, listing their sources and dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input Protection Event Handler Implementation
+// summary: Implements the RootView pre-target handler that intercepts key, mouse, touch, and gesture events and evaluates whether to block them.
+// ---
+
 #include "ui/views/input_protection/input_protection_event_handler.h"
 
 #include <cstdint>

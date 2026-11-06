@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BoxLayout class declaration
+// summary: Declares BoxLayout, which lays out child views side by side with main and cross axis alignment, border insets, spacing and optional margin collapsing.
+// ---
+
 #ifndef UI_VIEWS_LAYOUT_BOX_LAYOUT_H_
 #define UI_VIEWS_LAYOUT_BOX_LAYOUT_H_
 

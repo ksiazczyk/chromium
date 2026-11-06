@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Views canvas example with JSON view builder
+// summary: Implements the views canvas example, which builds view hierarchies from JSON scripts via the JSON view builder and provides an editor with render and file open controls.
+// ---
+
 #include "ui/views/examples/views_canvas_example.h"
 
 #include <array>

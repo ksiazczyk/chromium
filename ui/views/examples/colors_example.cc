@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Colors example implementation
+// summary: Implements the ColorsExample, which lists ui::ColorId entries in a scrollable table showing each color's swatch and its RGBA component values.
+// ---
+
 #include "ui/views/examples/colors_example.h"
 
 #include <stdint.h>

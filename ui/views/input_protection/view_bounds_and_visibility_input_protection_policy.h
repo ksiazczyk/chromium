@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewBoundsAndVisibilityInputProtectionPolicy class
+// summary: Header for a policy that protects a view against unintended interaction by observing its bounds and visibility changes and blocking events during the cooldown.
+// ---
+
 #ifndef UI_VIEWS_INPUT_PROTECTION_VIEW_BOUNDS_AND_VISIBILITY_INPUT_PROTECTION_POLICY_H_
 #define UI_VIEWS_INPUT_PROTECTION_VIEW_BOUNDS_AND_VISIBILITY_INPUT_PROTECTION_POLICY_H_
 

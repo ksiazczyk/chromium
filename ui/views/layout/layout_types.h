@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Layout value types and enums
+// summary: Defines layout value types including SizeBound, SizeBounds, LayoutAlignment, and LayoutOrientation used by view layout managers.
+// ---
+
 #ifndef UI_VIEWS_LAYOUT_LAYOUT_TYPES_H_
 #define UI_VIEWS_LAYOUT_LAYOUT_TYPES_H_
 

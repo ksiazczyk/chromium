@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Widget stationarity monitor unit tests
+// summary: Unit tests verifying that stationarity observers are notified for tracked top-level widget bounds changes and destruction, but not for untracked or child widgets.
+// ---
+
 #include "ui/views/input_protection/widget_stationarity_monitor.h"
 
 #include <memory>

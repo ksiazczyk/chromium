@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View subregion anchor header
+// summary: Declares ViewSubregionAnchor, a synthetic anchor element tracking a subregion of a host view for interaction and help bubble testing.
+// ---
+
 #ifndef UI_VIEWS_INTERACTION_VIEW_SUBREGION_ANCHOR_H_
 #define UI_VIEWS_INTERACTION_VIEW_SUBREGION_ANCHOR_H_
 

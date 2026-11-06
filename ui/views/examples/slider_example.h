@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Slider example header
+// summary: Declares the SliderExample class, a SliderListener that pairs sliders with value labels in the Views examples window.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_SLIDER_EXAMPLE_H_
 #define UI_VIEWS_EXAMPLES_SLIDER_EXAMPLE_H_
 

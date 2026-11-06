@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BoxLayoutView class declaration
+// summary: Declares the BoxLayoutView class, a View hosting a BoxLayout with setters for orientation, alignment, insets, spacing and flex, plus view builder properties.
+// ---
+
 #ifndef UI_VIEWS_LAYOUT_BOX_LAYOUT_VIEW_H_
 #define UI_VIEWS_LAYOUT_BOX_LAYOUT_VIEW_H_
 

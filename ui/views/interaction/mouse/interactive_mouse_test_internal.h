@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InteractiveMouseTestPrivate class declaration
+// summary: Declares the internal private class that manages the mouse utility and gesture parameters, hidden from tests inheriting the public API.
+// ---
+
 #ifndef UI_VIEWS_INTERACTION_MOUSE_INTERACTIVE_MOUSE_TEST_INTERNAL_H_
 #define UI_VIEWS_INTERACTION_MOUSE_INTERACTIVE_MOUSE_TEST_INTERNAL_H_
 

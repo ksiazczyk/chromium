@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification example implementation
+// summary: Implements the notification example, creating test images and adding a rich notification with buttons to the message center and displaying its view.
+// ---
+
 #include "ui/views/examples/notification_example.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the ChromeOS examples views delegate
+// summary: Declares ExamplesViewsDelegateChromeOS, a desktop test views delegate that observes window tree hosts and manages a WM test helper for the examples app.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_EXAMPLES_VIEWS_DELEGATE_CHROMEOS_H_
 #define UI_VIEWS_EXAMPLES_EXAMPLES_VIEWS_DELEGATE_CHROMEOS_H_
 

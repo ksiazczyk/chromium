@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayoutManagerBase implementation
+// summary: Implements LayoutManagerBase, separating layout calculation from application with caching of preferred size, minimum size, height for width, and proposed layouts.
+// ---
+
 #include "ui/views/layout/layout_manager_base.h"
 
 #include <utility>

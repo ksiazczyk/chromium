@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BoxLayout unit tests
+// summary: Unit tests for BoxLayout covering alignment, inside border insets, spacing, margins and preferred size behavior.
+// ---
+
 #include "ui/views/layout/box_layout.h"
 
 #include <stddef.h>

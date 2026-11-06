@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Table example implementation
+// summary: Implements the Table example for the Views examples window, showing a sortable table with icons, grouping, and checkboxes that toggle column visibility.
+// ---
+
 #include "ui/views/examples/table_example.h"
 
 #include <array>

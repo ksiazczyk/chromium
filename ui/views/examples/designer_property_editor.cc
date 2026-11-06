@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Designer property editor implementation
+// summary: Implements property editors that bridge the designer inspector UI to the view metadata property system, including sub-component editors.
+// ---
+
 #include "ui/views/examples/designer_property_editor.h"
 
 #include <algorithm>

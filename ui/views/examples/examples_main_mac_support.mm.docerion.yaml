@@ -1,0 +1,4 @@
+# Docerion header of examples_main_mac_support.mm.
+type: source
+title: Mac framework bundle path implementation
+summary: Computes the Views Examples framework bundle path from the running executable and overrides it via SetOverrideFrameworkBundlePath.

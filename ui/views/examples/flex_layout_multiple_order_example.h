@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flex layout multiple order example header
+// summary: Declares FlexLayoutMultipleOrderExample and a helper view that updates child labels after each layout pass.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_FLEX_LAYOUT_MULTIPLE_ORDER_EXAMPLE_H_
 #define UI_VIEWS_EXAMPLES_FLEX_LAYOUT_MULTIPLE_ORDER_EXAMPLE_H_
 

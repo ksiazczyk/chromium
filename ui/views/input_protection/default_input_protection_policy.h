@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default Input Protection Policy Class Declaration
+// summary: Declares DefaultInputProtectionPolicy, the default InputProtectionPolicy implementation that observes view visibility to time protection.
+// ---
+
 #ifndef UI_VIEWS_INPUT_PROTECTION_DEFAULT_INPUT_PROTECTION_POLICY_H_
 #define UI_VIEWS_INPUT_PROTECTION_DEFAULT_INPUT_PROTECTION_POLICY_H_
 

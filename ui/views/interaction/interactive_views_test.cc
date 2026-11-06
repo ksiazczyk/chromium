@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InteractiveViewsTestApi implementation
+// summary: Implements the Views-specific interactive test API, providing steps to name views, scroll views into view and enter interactive test mode.
+// ---
+
 #include "ui/views/interaction/interactive_views_test.h"
 
 #include <functional>

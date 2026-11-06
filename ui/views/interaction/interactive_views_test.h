@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interactive Views test API header
+// summary: Declares InteractiveViewsTestApi, a mixin providing concise interactive test verbs (Kombucha) for naming, matching, and driving Views in tests.
+// ---
+
 #ifndef UI_VIEWS_INTERACTION_INTERACTIVE_VIEWS_TEST_H_
 #define UI_VIEWS_INTERACTION_INTERACTIVE_VIEWS_TEST_H_
 

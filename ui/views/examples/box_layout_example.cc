@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Box layout example implementation
+// summary: Implements the Box Layout example with interactive controls for orientation, axis alignment, child spacing, flex, minimum cross-axis size, and insets.
+// ---
+
 #include "ui/views/examples/box_layout_example.h"
 
 #include <memory>

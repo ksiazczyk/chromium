@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Examples color mixer declaration
+// summary: Declares AddExamplesColorMixers, which registers the example color recipes on a color provider.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_EXAMPLES_COLOR_MIXER_H_
 #define UI_VIEWS_EXAMPLES_EXAMPLES_COLOR_MIXER_H_
 

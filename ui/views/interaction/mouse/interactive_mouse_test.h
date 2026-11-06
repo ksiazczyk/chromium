@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InteractiveMouseTestApi mixin declaration
+// summary: Declares the Kombucha-style interactive test mixin providing mouse verbs like MoveMouseTo, ClickMouse and DragMouseTo for Views test suites.
+// ---
+
 #ifndef UI_VIEWS_INTERACTION_MOUSE_INTERACTIVE_MOUSE_TEST_H_
 #define UI_VIEWS_INTERACTION_MOUSE_INTERACTIVE_MOUSE_TEST_H_
 

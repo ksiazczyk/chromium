@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Button sticker sheet example class declaration
+// summary: Declares the ButtonStickerSheet example class that displays a sticker sheet of material design button styles, intended for use with --secondary-ui-md.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_BUTTON_STICKER_SHEET_H_
 #define UI_VIEWS_EXAMPLES_BUTTON_STICKER_SHEET_H_
 

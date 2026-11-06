@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ViewSubregionAnchor unit tests
+// summary: Unit tests verifying that ViewSubregionAnchor reports its host view, tracks visibility through the view hierarchy, and computes correct screen bounds.
+// ---
+
 #include "ui/views/interaction/view_subregion_anchor.h"
 
 #include <functional>

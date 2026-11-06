@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tree view example header
+// summary: Declares the TreeViewExample class, which combines ExampleBase with tree view controller, context menu controller, and simple menu model delegate roles.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_TREE_VIEW_EXAMPLE_H_
 #define UI_VIEWS_EXAMPLES_TREE_VIEW_EXAMPLE_H_
 

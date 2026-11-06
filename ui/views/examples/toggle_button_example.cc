@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toggle button example implementation
+// summary: Implements the toggle button example, creating three toggle buttons that report press counts and demonstrate accessibility names, an initially-on state, and a disabled state.
+// ---
+
 #include "ui/views/examples/toggle_button_example.h"
 
 #include <memory>

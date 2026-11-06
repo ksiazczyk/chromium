@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AnimatingLayoutManager test helper declarations
+// summary: Declares test helpers for obtaining an AnimatingLayoutManager, waiting for layout animations, and reducing animation duration.
+// ---
+
 #ifndef UI_VIEWS_LAYOUT_ANIMATING_LAYOUT_MANAGER_TEST_UTIL_H_
 #define UI_VIEWS_LAYOUT_ANIMATING_LAYOUT_MANAGER_TEST_UTIL_H_
 

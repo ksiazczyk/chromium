@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JSON view builder header
+// summary: Declares JsonViewBuilder, a static API for declaratively building Views UI, dialogs, and bubbles from JSON without recompilation.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_JSON_VIEW_BUILDER_H_
 #define UI_VIEWS_EXAMPLES_JSON_VIEW_BUILDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fade animation example view
+// summary: Implements FadingView, a demo view with layered primary and secondary panels used to demonstrate cross-fade animation in the examples app.
+// ---
+
 #include "ui/views/examples/fade_animation.h"
 
 #include <algorithm>

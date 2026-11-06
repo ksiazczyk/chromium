@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vector icon viewer tool
+// summary: Standalone vector icon viewer that parses .icon files into dynamic vector icons and renders them with configurable size and named or hex colors.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

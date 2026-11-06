@@ -1,3 +1,12 @@
+---
+type: readme
+title: Views Examples overview
+summary: Explains how to build and run the views_examples executables, how to browse the examples, and links to all available component examples.
+relations:
+  - references /docs/ui/ask/index.md
+  - references /docs/ui/views/images/views_examples_showcase.gif
+  - references /docs/ui/views/overview.md
+---
 
 # Overview
 `views_examples` and `views_examples_with_content` are executable tools to

@@ -1,0 +1,4 @@
+# Docerion header of views_examples_resources.grd.
+type: data
+title: Views Examples UI string resources
+summary: GRIT resource file defining UI strings for the Views Examples application and generating a header and pak data package.

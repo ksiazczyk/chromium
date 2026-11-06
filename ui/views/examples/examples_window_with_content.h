@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Examples window with content API
+// summary: Declares ShowExamplesWindowWithContent for displaying views examples that depend on the content layer, such as the WebView example.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_EXAMPLES_WINDOW_WITH_CONTENT_H_
 #define UI_VIEWS_EXAMPLES_EXAMPLES_WINDOW_WITH_CONTENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BoxLayout implementation
+// summary: Implements a layout manager that arranges child views horizontally or vertically with insets, spacing, margins, alignment and flex weighting.
+// ---
+
 #include "ui/views/layout/box_layout.h"
 
 #include <algorithm>

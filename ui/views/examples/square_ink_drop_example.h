@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Square ink drop example header
+// summary: Declares the SquareInkDropExample class that creates a square ripple ink drop for the Views examples.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_SQUARE_INK_DROP_EXAMPLE_H_
 #define UI_VIEWS_EXAMPLES_SQUARE_INK_DROP_EXAMPLE_H_
 

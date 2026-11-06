@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ViewBoundsAndVisibilityInputProtectionPolicy unit tests
+// summary: Unit tests verifying that bounds changes, visibility changes, and cooldown expiry trigger or clear protection in the view bounds and visibility policy.
+// ---
+
 #include "ui/views/input_protection/view_bounds_and_visibility_input_protection_policy.h"
 
 #include <memory>

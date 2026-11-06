@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AcceleratorObserver class declaration
+// summary: Declares AcceleratorObserver, a state and event observer that waits for an accelerator key press or target element destruction in tests.
+// ---
+
 #ifndef UI_VIEWS_INTERACTION_ACCELERATOR_OBSERVER_H_
 #define UI_VIEWS_INTERACTION_ACCELERATOR_OBSERVER_H_
 

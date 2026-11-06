@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TableLayoutView implementation
+// summary: Implements TableLayoutView methods that forward column, row, padding, linked column size, and minimum size configuration to the underlying TableLayout.
+// ---
+
 #include "ui/views/layout/table_layout_view.h"
 
 #include <utility>

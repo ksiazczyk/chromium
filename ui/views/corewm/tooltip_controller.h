@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TooltipController class declaration
+// summary: Declares TooltipController, which observes mouse, keyboard, window and activation events to keep tooltip state up to date.
+// ---
+
 #ifndef UI_VIEWS_COREWM_TOOLTIP_CONTROLLER_H_
 #define UI_VIEWS_COREWM_TOOLTIP_CONTROLLER_H_
 

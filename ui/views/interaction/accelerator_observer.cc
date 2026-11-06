@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AcceleratorObserver implementation
+// summary: Implements AcceleratorObserver, which monitors a window for an expected accelerator key press or the destruction of the target element.
+// ---
+
 #include "ui/views/interaction/accelerator_observer.h"
 
 #include "base/callback_list.h"

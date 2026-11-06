@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Composite layout tests for nested flex and animating layouts
+// summary: Test suite simulating toolbar-like nested layouts to probe interactions between FlexLayout and AnimatingLayoutManager, stepping animations without realtime playback.
+// ---
+
 #include <memory>
 
 #include "base/memory/raw_ptr.h"

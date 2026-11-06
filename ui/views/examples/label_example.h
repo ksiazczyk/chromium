@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Label example header
+// summary: Declares the LabelExample class that demonstrates label presentation controls via comboboxes, checkboxes and a textfield.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_LABEL_EXAMPLE_H_
 #define UI_VIEWS_EXAMPLES_LABEL_EXAMPLE_H_
 

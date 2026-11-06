@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View builder macros and templates
+// summary: Defines macros and templates that generate builder classes for declaratively setting view properties and children.
+// ---
+
 #ifndef UI_VIEWS_METADATA_VIEW_FACTORY_H_
 #define UI_VIEWS_METADATA_VIEW_FACTORY_H_
 

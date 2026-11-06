@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tabbed pane example header
+// summary: Declares the TabbedPaneExample class, a TabbedPaneListener that exercises adding and selecting tabs.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_TABBED_PANE_EXAMPLE_H_
 #define UI_VIEWS_EXAMPLES_TABBED_PANE_EXAMPLE_H_
 

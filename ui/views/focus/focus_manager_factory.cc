@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FocusManagerFactory implementation
+// summary: Implements FocusManagerFactory with a default factory that creates plain FocusManager instances and supports installing a custom factory.
+// ---
+
 #include "ui/views/focus/focus_manager_factory.h"
 
 #include "ui/views/focus/focus_manager.h"

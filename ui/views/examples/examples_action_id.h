@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Example action ID definitions
+// summary: Defines the ExamplesActionIds enum with test action IDs placed outside the production action ID range.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_EXAMPLES_ACTION_ID_H_
 #define UI_VIEWS_EXAMPLES_EXAMPLES_ACTION_ID_H_
 

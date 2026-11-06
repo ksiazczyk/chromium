@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Textfield example implementation
+// summary: Implements the Textfield example mimicking a login screen with name, password, disabled, read-only, invalid, and RTL textfields plus control buttons.
+// ---
+
 #include "ui/views/examples/textfield_example.h"
 
 #include <stddef.h>

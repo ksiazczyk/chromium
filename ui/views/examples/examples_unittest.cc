@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Views examples launch unit tests
+// summary: Unit tests that run the Views examples main process and assert the exit code is successful, including a launch with a supplied example list.
+// ---
+
 #include "build/build_config.h"
 #include "testing/gmock/include/gmock/gmock.h"
 #include "testing/gtest/include/gtest/gtest.h"

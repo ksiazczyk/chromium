@@ -1,3 +1,12 @@
+---
+type: reference
+title: Views JSON Schema specification
+summary: Formal JSON Schema specification for the Views Canvas declarative UI builder, covering supported components, properties, and dynamic token resolvers.
+relations:
+  - documents /ui/views/examples/json_view_builder.cc
+  - references /ui/views/examples/json_view_builder.cc
+---
+
 # Views JSON Schema Specification
 
 This document defines the formal JSON Schema for the Views Canvas declarative UI builder (`JsonViewBuilder`).

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ElementHighlighterViews implementation
+// summary: Implements ElementHighlighterViews, which adds anchor highlights to button views behind tracked elements.
+// ---
+
 #include "ui/views/interaction/element_highlighter_views.h"
 
 #include <memory>

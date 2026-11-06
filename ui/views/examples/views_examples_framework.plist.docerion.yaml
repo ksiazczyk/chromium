@@ -1,0 +1,4 @@
+# Docerion header of views_examples_framework.plist.
+type: config
+title: Views Examples framework property list
+summary: macOS Info.plist for the Views Examples framework bundle, defining its identifier and package type.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Badge example header
+// summary: Declares the BadgeExample class, which demonstrates the views Badge and the New badge in a MenuItemView.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_BADGE_EXAMPLE_H_
 #define UI_VIEWS_EXAMPLES_BADGE_EXAMPLE_H_
 

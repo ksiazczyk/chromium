@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TooltipAuraTestApi implementation
+// summary: Implements the TooltipAuraTestApi test helper that exposes TooltipAura internals such as render text, accessibility node data and tooltip bounds for tests.
+// ---
+
 #include "ui/views/corewm/test/tooltip_aura_test_api.h"
 
 #include "ui/accessibility/ax_node_data.h"

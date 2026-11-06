@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flex layout types implementation
+// summary: Implements flex layout sizing helpers and rule logic for the Views framework, including lazy size evaluation and interpolation of child sizes between minimum, preferred, and maximum bounds.
+// ---
+
 #include "ui/views/layout/flex_layout_types.h"
 
 #include <algorithm>

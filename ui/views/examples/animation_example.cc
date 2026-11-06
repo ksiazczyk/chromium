@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Animation example implementation
+// summary: Implements the Animation example, animating colored squares with layer animations that can be started and aborted via buttons.
+// ---
+
 #include "ui/views/examples/animation_example.h"
 
 #include <algorithm>

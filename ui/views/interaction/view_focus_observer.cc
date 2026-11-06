@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View focus observer implementation
+// summary: Implements focus observers that report the focused view or its element identifier as observable state for interactive Views tests.
+// ---
+
 #include "ui/views/interaction/view_focus_observer.h"
 
 #include "ui/base/interaction/element_identifier.h"

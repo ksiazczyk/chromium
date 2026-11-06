@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeViewFocusManager implementation
+// summary: Implements the NativeViewFocusManager singleton that notifies registered listeners of native focus changes, plus the AutoNativeNotificationDisabler scoped helper.
+// ---
+
 #include "ui/views/focus/native_view_focus_manager.h"
 
 #include "base/no_destructor.h"

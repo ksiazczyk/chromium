@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DelegatingLayoutManager header
+// summary: Declares LayoutDelegate and DelegatingLayoutManager, a lightweight layout manager that delegates layout calculation in place of overriding View::Layout.
+// ---
+
 #ifndef UI_VIEWS_LAYOUT_DELEGATING_LAYOUT_MANAGER_H_
 #define UI_VIEWS_LAYOUT_DELEGATING_LAYOUT_MANAGER_H_
 

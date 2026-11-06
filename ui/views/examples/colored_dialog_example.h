@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Colored dialog example class declaration
+// summary: Declares the ColoredDialog, ColoredDialogChooser, and ColoredDialogExample classes for exercising dialog views with text input and feedback.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_COLORED_DIALOG_EXAMPLE_H_
 #define UI_VIEWS_EXAMPLES_COLORED_DIALOG_EXAMPLE_H_
 

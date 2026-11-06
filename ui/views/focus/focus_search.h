@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FocusSearch class declaration
+// summary: Declares the FocusSearch class, which implements the algorithm for finding the next view to focus during Tab-based focus traversal.
+// ---
+
 #ifndef UI_VIEWS_FOCUS_FOCUS_SEARCH_H_
 #define UI_VIEWS_FOCUS_FOCUS_SEARCH_H_
 

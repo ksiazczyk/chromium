@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia Gold pixel diff for the examples window
+// summary: Captures screenshots of the examples window and compares them against Skia Gold golden images, skipping comparison in dark mode.
+// ---
+
 #include "ui/views/examples/examples_skia_gold_pixel_diff.h"
 
 #include <utility>

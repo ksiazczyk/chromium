@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayoutManagerBase class declaration
+// summary: Declares LayoutManagerBase, a base class for layout managers that compute proposed layouts separately from applying them, with caching support for interpolating and animating layouts.
+// ---
+
 #ifndef UI_VIEWS_LAYOUT_LAYOUT_MANAGER_BASE_H_
 #define UI_VIEWS_LAYOUT_LAYOUT_MANAGER_BASE_H_
 

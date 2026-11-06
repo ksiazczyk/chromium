@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WidgetExample class declaration
+// summary: Declares the WidgetExample class, which demonstrates creating popup and dialog widgets, with helpers for building buttons and showing widgets.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_WIDGET_EXAMPLE_H_
 #define UI_VIEWS_EXAMPLES_WIDGET_EXAMPLE_H_
 

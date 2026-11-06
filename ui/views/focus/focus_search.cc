@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FocusSearch implementation
+// summary: Implements FocusSearch, the algorithm that finds the next or previous focusable view during focus traversal within a view hierarchy.
+// ---
+
 #include "ui/views/focus/focus_search.h"
 
 #include "base/logging.h"

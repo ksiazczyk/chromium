@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tooltip controller test helper declarations
+// summary: Declares TooltipControllerTestHelper and TooltipTestView, which give tests access to controller state and a view with settable tooltip text.
+// ---
+
 #ifndef UI_VIEWS_COREWM_TOOLTIP_CONTROLLER_TEST_HELPER_H_
 #define UI_VIEWS_COREWM_TOOLTIP_CONTROLLER_TEST_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlexLayoutView implementation
+// summary: Implements FlexLayoutView, a View that embeds a FlexLayout and forwards property changes such as orientation, alignment, margins, and allocation order to trigger layout invalidation.
+// ---
+
 #include "ui/views/layout/flex_layout_view.h"
 
 #include <memory>

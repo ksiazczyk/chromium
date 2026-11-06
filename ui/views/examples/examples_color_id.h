@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Example color ID definitions
+// summary: Defines the ExamplesColorIds enum listing color IDs used by the various Views examples, offset beyond production UI color IDs.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_EXAMPLES_COLOR_ID_H_
 #define UI_VIEWS_EXAMPLES_EXAMPLES_COLOR_ID_H_
 

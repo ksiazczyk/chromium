@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Widget stationarity monitor implementation
+// summary: Implements the WidgetStationarityMonitor singleton that tracks widgets and notifies subscribers when a tracked widget changes bounds or is destroyed.
+// ---
+
 #include "ui/views/input_protection/widget_stationarity_monitor.h"
 
 #include <utility>

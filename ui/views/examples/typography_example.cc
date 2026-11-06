@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Typography example implementation
+// summary: Implements the typography example, laying out labels in headline and body text styles within table layouts to preview the Views text style catalog.
+// ---
+
 #include "ui/views/examples/typography_example.h"
 
 #include <memory>

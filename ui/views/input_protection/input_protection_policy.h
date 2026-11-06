@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputProtectionPolicy interface
+// summary: Defines the policy interface for deciding whether an input event should be blocked as a possibly unintended interaction, with lifecycle hooks for protection start, stop, and reset.
+// ---
+
 #ifndef UI_VIEWS_INPUT_PROTECTION_INPUT_PROTECTION_POLICY_H_
 #define UI_VIEWS_INPUT_PROTECTION_INPUT_PROTECTION_POLICY_H_
 

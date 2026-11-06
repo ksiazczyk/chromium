@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProposedLayout unit tests
+// summary: Unit tests for ProposedLayoutBetween covering simple interpolation, out-of-order children, visibility changes, added or removed views, and available size bounds.
+// ---
+
 #include "ui/views/layout/proposed_layout.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

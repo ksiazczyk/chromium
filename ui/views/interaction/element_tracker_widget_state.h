@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ElementTrackerWidgetState class declaration
+// summary: Declares ElementTrackerWidgetState, a WidgetObserver that tracks widget visibility and destruction and defers visibility transitions around minimization.
+// ---
+
 #ifndef UI_VIEWS_INTERACTION_ELEMENT_TRACKER_WIDGET_STATE_H_
 #define UI_VIEWS_INTERACTION_ELEMENT_TRACKER_WIDGET_STATE_H_
 

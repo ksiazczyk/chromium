@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Button sticker sheet example implementation
+// summary: Implements the ButtonStickerSheet example, laying out material design buttons in primary and secondary styles across normal, hovered, pressed and disabled states in a table.
+// ---
+
 #include "ui/views/examples/button_sticker_sheet.h"
 
 #include <memory>

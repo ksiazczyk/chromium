@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default Input Protection Policy Implementation
+// summary: Implements the default timing-based policy that blocks key repeats, click spam, and events occurring right after protection starts.
+// ---
+
 #include "ui/views/input_protection/default_input_protection_policy.h"
 
 #include "ui/events/event.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FocusManager class declaration
+// summary: Declares FocusManager and the FocusTraversable interface for managing view focus, focus traversal, and keyboard accelerators within a Widget.
+// ---
+
 #ifndef UI_VIEWS_FOCUS_FOCUS_MANAGER_H_
 #define UI_VIEWS_FOCUS_FOCUS_MANAGER_H_
 

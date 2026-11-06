@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimatingLayoutManager class declaration
+// summary: Declares a layout manager that animates child views and host preferred size when its target layout manager, typically a FlexLayout, produces a new layout.
+// ---
+
 #ifndef UI_VIEWS_LAYOUT_ANIMATING_LAYOUT_MANAGER_H_
 #define UI_VIEWS_LAYOUT_ANIMATING_LAYOUT_MANAGER_H_
 

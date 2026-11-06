@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlexLayout implementation
+// summary: Implements FlexLayout, a CSS-like one-dimensional layout manager handling child flex rules, margins, spacing, alignment and layout caching.
+// ---
+
 #include "ui/views/layout/flex_layout.h"
 
 #include <algorithm>

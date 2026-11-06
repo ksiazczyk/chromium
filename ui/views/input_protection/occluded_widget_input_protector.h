@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OccludedWidgetInputProtector class
+// summary: Header for the singleton protector that observes always-on-top widgets, records historical occlusions, and decides whether events should be blocked due to occlusion.
+// ---
+
 #ifndef UI_VIEWS_INPUT_PROTECTION_OCCLUDED_WIDGET_INPUT_PROTECTOR_H_
 #define UI_VIEWS_INPUT_PROTECTION_OCCLUDED_WIDGET_INPUT_PROTECTOR_H_
 

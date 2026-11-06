@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Views examples entry point
+// summary: Entry point for the views examples executable that initializes the command line, timeouts, and exit manager before running ExamplesMainProc.
+// ---
+
 #include "ui/views/examples/examples_main.h"
 
 #include "base/at_exit.h"

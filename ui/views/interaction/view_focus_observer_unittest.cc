@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: View focus observer unit tests
+// summary: Unit tests verifying focus tracking by view and identifier through interactive test sequences on a widget with buttons and a textfield.
+// ---
+
 #include "ui/views/interaction/view_focus_observer.h"
 
 #include <memory>

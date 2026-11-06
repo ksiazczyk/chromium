@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Combobox example implementation
+// summary: Implements the ComboboxExample, demonstrating enabled, disabled and editable comboboxes backed by a simple model that prints selection changes.
+// ---
+
 #include "ui/views/examples/combobox_example.h"
 
 #include <memory>

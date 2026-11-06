@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Textarea example implementation
+// summary: Implements the Textarea example, adding a textarea filled with long sample text and an accessibility name to the examples window.
+// ---
+
 #include "ui/views/examples/textarea_example.h"
 
 #include <memory>

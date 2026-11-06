@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tooltip state manager implementation
+// summary: Implements TooltipStateManager, managing tooltip state with show and hide timers, text truncation limits and parent window observation for the tooltip controller.
+// ---
+
 #include "ui/views/corewm/tooltip_state_manager.h"
 
 #include <stddef.h>

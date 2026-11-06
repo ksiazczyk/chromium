@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OccludedWidgetInputProtector unit tests
+// summary: Unit tests covering occlusion tracking of always-on-top widgets, historical occlusion expiry, and event blocking behavior of the occluded widget input protector.
+// ---
+
 #include "ui/views/input_protection/occluded_widget_input_protector.h"
 
 #include <memory>

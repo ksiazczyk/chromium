@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input protection interactive UI tests
+// summary: Interactive UI tests that verify the input protection feature blocks unintended clicks and key events on widgets, buttons, and bubbles under occlusion and activation scenarios.
+// ---
+
 #include <memory>
 #include <utility>
 #include <vector>

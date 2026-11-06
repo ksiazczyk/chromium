@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Examples color mixer setup
+// summary: Adds color mixers to a ui::ColorProvider that map each example color ID to concrete colors, with dark mode handling.
+// ---
+
 #include "ui/views/examples/examples_color_mixer.h"
 
 #include "third_party/skia/include/core/SkColor.h"

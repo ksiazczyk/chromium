@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputProtectionSpecification class
+// summary: Header for a view property that specifies which sub-regions of a view need input protection, installed via a callback and resolved dynamically in screen coordinates.
+// ---
+
 #ifndef UI_VIEWS_INPUT_PROTECTION_INPUT_PROTECTION_SPECIFICATION_H_
 #define UI_VIEWS_INPUT_PROTECTION_INPUT_PROTECTION_SPECIFICATION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Normalized geometry implementation
+// summary: Implements orientation-independent geometry classes such as NormalizedPoint, NormalizedSize, NormalizedInsets, and NormalizedRect for layouts.
+// ---
+
 #include "ui/views/layout/normalized_geometry.h"
 
 #include <algorithm>

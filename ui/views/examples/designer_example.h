@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Designer example header
+// summary: Declares DesignerExample and its grab-handle helpers for a visual designer that creates, moves and sizes views on a surface.
+// ---
+
 #ifndef UI_VIEWS_EXAMPLES_DESIGNER_EXAMPLE_H_
 #define UI_VIEWS_EXAMPLES_DESIGNER_EXAMPLE_H_
 

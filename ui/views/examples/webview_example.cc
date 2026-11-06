@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web view example implementation
+// summary: Implements the WebViewExample, which embeds a WebView loading an initial URL and routes unhandled keyboard events.
+// ---
+
 #include "ui/views/examples/webview_example.h"
 
 #include <memory>

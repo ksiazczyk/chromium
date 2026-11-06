@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Checkbox example implementation
+// summary: Implements the CheckboxExample, showing enabled and disabled checkboxes that report click counts to the examples window status area.
+// ---
+
 #include "ui/views/examples/checkbox_example.h"
 
 #include "base/functional/bind.h"

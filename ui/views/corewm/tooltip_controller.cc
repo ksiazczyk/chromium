@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TooltipController implementation
+// summary: Implements the event-driven tooltip controller, resolving tooltip targets from mouse events and managing show and hide delays.
+// ---
+
 #include "ui/views/corewm/tooltip_controller.h"
 
 #include <stddef.h>

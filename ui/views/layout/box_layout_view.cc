@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BoxLayoutView implementation
+// summary: Implements a view that embeds a BoxLayout and exposes its settings, such as orientation, alignment and spacing, as view properties.
+// ---
+
 #include "ui/views/layout/box_layout_view.h"
 
 #include <memory>

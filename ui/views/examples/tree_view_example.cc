@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tree view example implementation
+// summary: Implements the tree view example, building a sample tree model with add, remove, and rename buttons plus a context menu and custom drawing provider for nodes.
+// ---
+
 #include "ui/views/examples/tree_view_example.h"
 
 #include <utility>
