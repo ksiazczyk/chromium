@@ -1,3 +1,11 @@
+---
+type: guide
+title: The Passkey Pattern
+summary: Describes the passkey pattern for granting granular access to selected class methods using key types that only specific classes can construct.
+relations:
+  - documents /base/types/pass_key.h
+---
+
 # The Passkey Pattern
 
 For the Chromium implementation of this pattern, see

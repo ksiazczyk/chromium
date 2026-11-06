@@ -1,3 +1,13 @@
+---
+type: guide
+title: Debugging Memory Issues
+summary: Guide for Chromium developers debugging memory issues, covering reproducible regressions, heap dumps from the wild, and memory corruption investigation.
+relations:
+  - references /docs/memory-infra/heap_profiler.md
+  - references /docs/memory/README.md
+  - references /docs/memory/investigating_heap_dump_example.md
+---
+
 # Debugging Memory Issues
 
 This page is designed to help Chromium developers debug memory issues.

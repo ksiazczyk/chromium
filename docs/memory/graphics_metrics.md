@@ -1,3 +1,11 @@
+---
+type: reference
+title: Graphics Memory Metrics
+summary: Explains how well Memory.Gpu.PrivateMemoryFootprint accounts for graphics buffers on each platform, as context for assessing rendering memory cost.
+relations:
+  - references /tools/metrics/histograms/metadata/memory/histograms.xml
+---
+
 # Graphics Memory Metrics
 
 The intent of this page is to provide more context and pointers to assess the

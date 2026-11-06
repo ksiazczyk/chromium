@@ -1,3 +1,11 @@
+---
+type: guide
+title: Chrome Large Scale Changes
+summary: Describes the policies, best practices, FAQs, and contacts for planning, creating, and executing large scale changes (LSCs) across the Chromium codebase.
+relations:
+  - references /docs/code_reviews.md
+---
+
 # Chrome Large Scale Changes
 
 [TOC]

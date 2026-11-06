@@ -1,3 +1,9 @@
+---
+type: plan
+title: Mission of the Chromium Memory Efforts
+summary: States the mission of the Chromium memory collaboration and lists the top three memory problems being worked on as of June 2017.
+---
+
 # Mission
 
 Current as of June 2017...

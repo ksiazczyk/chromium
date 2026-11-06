@@ -1,3 +1,11 @@
+---
+type: reference
+title: Chrome Release Cycle
+summary: Documents Chrome's release cycle, covering branch points, beta and stable promotions, extended stable, channel lifecycle, and milestone branch support.
+relations:
+  - references /docs/process/images/release_cycle.png
+  - references /docs/release_branch_guidance.md
+---
 
 # Chrome Release Cycle
 

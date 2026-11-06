@@ -1,3 +1,11 @@
+---
+type: guide
+title: Debugging GPU related code
+summary: Collects techniques for debugging Chromium's multi-process GPU code, covering client and service logging flags, about:gpu, breaking on GL errors, call labeling, tracing, and performance.
+relations:
+  - references /gpu/command_buffer/client/gles2_implementation.h
+---
+
 # Debugging GPU related code
 
 Chromium's GPU system is multi-process, which can make debugging it rather

@@ -1,3 +1,9 @@
+---
+type: guide
+title: How to Measure Power Using Intel SoC Watch Software
+summary: Explains how to measure power consumption on Intel platforms with the Intel SoC Watch command line tool and links to detailed public documentation.
+---
+
 # How to Measure Power Using Intel SoC Watch Software
 
 Intel SoC Watch is a command line tool for monitoring and debugging system behaviors related to power consumption on Intel architecture-based platforms. It reports active and low power states for the system/CPU/GPU/devices, processor frequencies and throttling reasons, wakeups, and other metrics that provide insight into the system’s energy efficiency. The tool includes utility functions that include delaying the start of collection and launching an application prior to starting collection.

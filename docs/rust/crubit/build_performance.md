@@ -1,3 +1,12 @@
+---
+type: guide
+title: Crubit and build performance
+summary: Explains how to optimize build performance when depending on Crubit bindings, e.g. by keeping Rust crate dependencies small or setting check_includes_strict.
+relations:
+  - references /docs/rust/crubit/README.md
+  - references /components/qr_code_generator/BUILD.gn
+---
+
 # Crubit and build performance
 
 Even if the `cpp_api_from_rust` bindings are only used by a feature-specific

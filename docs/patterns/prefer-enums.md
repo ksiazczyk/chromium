@@ -1,3 +1,9 @@
+---
+type: guide
+title: Prefer enums over bools for parameters
+summary: Recommends using two-value enum parameters instead of bools to make call sites readable and prevent accidentally swapped arguments.
+---
+
 # Prefer enums over bools for parameters
 
 When you want to add a bool parameter to a function, consider giving the

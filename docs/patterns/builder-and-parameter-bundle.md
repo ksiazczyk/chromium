@@ -1,3 +1,9 @@
+---
+type: guide
+title: The Builder & Parameter Bundle Patterns
+summary: Explains the builder and parameter bundle patterns for giving classes many compile-time configuration options while keeping the runtime API small, with Chromium examples.
+---
+
 # The Builder & Parameter Bundle Patterns
 
 The builder and parameter bundle patterns allow for giving a class a lot of

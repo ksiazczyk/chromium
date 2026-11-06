@@ -1,3 +1,11 @@
+---
+type: reference
+title: Out Of Box Experience (OOBE)
+summary: Documents the OOBE setup flow for new devices, covering welcome, network, EULA, update, and enrollment screens.
+relations:
+  - references /docs/login/demo_mode.md
+---
+
 # Out Of Box Experience - OOBE
 
 Out Of Box Experience, or *OOBE*, is a flow that goes through several sequential

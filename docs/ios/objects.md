@@ -1,3 +1,8 @@
+---
+type: reference
+title: Key objects of the iOS browser architecture
+summary: Describes the main objects of the iOS browser architecture, such as ApplicationContext, ProfileIOS, Browser, WebStateList, and WebState.
+---
 
 # ApplicationContext
 

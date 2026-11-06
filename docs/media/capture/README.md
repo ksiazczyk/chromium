@@ -1,3 +1,13 @@
+---
+type: readme
+title: Media Capture
+summary: Index of Chrome media capture documentation, organized by feature, user interface, and API, with links to code locations, issue components, and related docs.
+relations:
+  - references /components/viz/README.md
+  - references /components/viz/common/frame_sinks/README.md
+  - references /services/audio/README.md
+---
+
 # Media Capture
 
 In Chrome, "Media capture" refers to the features and user interfaces that

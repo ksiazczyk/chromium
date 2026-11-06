@@ -1,3 +1,12 @@
+---
+type: reference
+title: Autoplay of HTMLMediaElements
+summary: Describes when HTML media elements are allowed to autoplay, how the user gesture lock works, and the flowcharts for autoplay by attribute and by the play() method.
+relations:
+  - references /docs/media/autoplay_by_attribute.png
+  - references /docs/media/autoplay_by_play_method.png
+---
+
 # Autoplay of HTMLMediaElements
 
 Autoplay is the concept of playing media elements without user gesture. The

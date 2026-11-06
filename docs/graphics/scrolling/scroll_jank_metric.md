@@ -1,3 +1,11 @@
+---
+type: reference
+title: Android Scroll Jank Metric
+summary: Explains Chromium's Android scroll jank metric, which tracks dropped frames in 64-frame windows, how sequential scrolling input events are determined, and the UMA metric variants emitted.
+relations:
+  - references /docs/images/chromium_dropped_frame.png
+---
+
 # Android Scroll Jank Metric.
 
 Chromium uses a scroll jank metric on Android that tracks the percentage of dropped frames in a given window of 64 frames, and uses this metric to benchmark the end user's scrolling experience.

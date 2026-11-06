@@ -1,3 +1,12 @@
+---
+type: reference
+title: Infra Glossary
+summary: Defines terminology used in Chromium's continuous integration infrastructure, covering builds, LUCI, and related concepts.
+relations:
+  - references /docs/infra/builder_types.md
+  - references /infra/config/generated/cq-builders.md
+---
+
 # Glossary
 
 This page provides definitions of phrases and terminology used in Chromium's

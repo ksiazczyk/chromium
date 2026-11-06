@@ -1,3 +1,13 @@
+---
+type: guide
+title: The ForTesting Methods Pattern
+summary: Describes the ForTesting naming convention for public test-only helper methods and when to prefer the TestApi or friend-the-tests patterns instead.
+relations:
+  - references /docs/patterns/friend-the-tests.md
+  - references /docs/patterns/testapi.md
+  - references /styleguide/c++/c++.md
+---
+
 # The ForTesting Methods Pattern
 
 The ForTesting pattern involves creating public helper methods on a class to

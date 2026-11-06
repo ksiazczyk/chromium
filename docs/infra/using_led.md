@@ -1,3 +1,11 @@
+---
+type: guide
+title: Using LED
+summary: Explains when and how to use the LED tool to manually trigger builds on Chromium LUCI builders for testing recipe changes and debugging build failures.
+relations:
+  - references /tools/mb/mb_config.pyl
+---
+
 # Using LED
 
 LED is an infrastructure tool used to manually trigger builds on any builder

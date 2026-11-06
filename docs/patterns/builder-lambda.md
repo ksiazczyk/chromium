@@ -1,3 +1,9 @@
+---
+type: guide
+title: The Builder Lambda Pattern
+summary: Describes using an immediately-invoked lambda to perform multi-stage construction of objects that cannot be copy-assigned without leaking temporaries into function scope.
+---
+
 # The Builder Lambda Pattern
 
 The builder lambda pattern allows you to do multi-stage construction for objects

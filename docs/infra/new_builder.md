@@ -1,3 +1,13 @@
+---
+type: guide
+title: Setting Up a New Builder
+summary: Walks through creating a new LUCI builder for Chromium, covering naming, hosts, Starlark and recipe configuration, and testing.
+relations:
+  - references /docs/infra/cq.md
+  - references /docs/infra/glossary.md
+  - references /docs/infra/naming_chromium_builders.md
+---
+
 # Setting up a new builder
 
 This doc describes how to set up a new builder on LUCI. It's focused on Chromium

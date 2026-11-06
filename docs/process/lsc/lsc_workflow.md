@@ -1,3 +1,11 @@
+---
+type: guide
+title: Chrome LSC Workflow
+summary: Step-by-step workflow for getting a large-scale change approved, from completing the LSC template through domain review and lsc-review@ approval to sending CLs.
+relations:
+  - references /docs/process/lsc/large_scale_changes.md
+---
+
 # Chrome LSC Workflow {#chrome-lsc-workflow}
 
 This document describes the workflow for getting a large-scale change approved ([Chrome LSC](large_scale_changes.md)).

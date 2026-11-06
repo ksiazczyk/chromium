@@ -1,3 +1,9 @@
+---
+type: guide
+title: Adding Multiwindow EG Tests
+summary: Guidance for writing multiwindow EarlGrey tests, covering window numbering, window and tab management helpers, matchers, and actions.
+---
+
 # Adding Multiwindow EG Tests
 
 ## Overview

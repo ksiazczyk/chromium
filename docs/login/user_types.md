@@ -1,3 +1,12 @@
+---
+type: reference
+title: Consumer User Types
+summary: Describes regular, child, and guest consumer user types on ChromeOS and how to test their login flows.
+relations:
+  - references /docs/enterprise/kiosk_public_session.md
+  - references /docs/enterprise/saml_authentication.md
+---
+
 # Consumer User Types
 
 This document gives a brief description of consumer user types that can log in

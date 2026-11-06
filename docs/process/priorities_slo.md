@@ -1,3 +1,11 @@
+---
+type: reference
+title: Chromium Issue Priorities & SLOs
+summary: Defines Chromium's P0-P4 issue priority levels and the service level objectives for assigned, updated, and fixed bugs, including security and release blockers.
+relations:
+  - references /docs/process/release_blockers.md
+---
+
 # Chromium Issue Priorities & SLOs
 
 [TOC]

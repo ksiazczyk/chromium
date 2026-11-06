@@ -1,3 +1,13 @@
+---
+type: guide
+title: Deploying content_shell and running web tests on Fuchsia
+summary: Explains how to deploy content_shell and run web tests on Fuchsia, either in hermetic emulation or on a physical device, via the Fuchsia test script.
+relations:
+  - references /build/fuchsia/test/run_test.py
+  - references /docs/testing/web_tests.md
+  - references /third_party/blink/tools/blinkpy/web_tests/run_web_tests.py
+---
+
 # Deploying content_shell and running web_tests on Fuchsia
 
 [TOC]

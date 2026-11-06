@@ -1,3 +1,9 @@
+---
+type: guide
+title: Migration from <permission> to the <usermedia> Capability Element
+summary: Migration guide for moving from the legacy <permission> element to the <usermedia> capability element, covering the origin trial, markup and script updates, and the launch timeline.
+---
+
 # Migration from `<permission>` to the MVP `<usermedia>` Capability Element
 
 ## Overview: The Evolution of PEPC

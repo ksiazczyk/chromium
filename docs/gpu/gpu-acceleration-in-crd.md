@@ -1,3 +1,9 @@
+---
+type: guide
+title: Using GPU Acceleration in Chrome Remote Desktop
+summary: Explains how to enable GPU acceleration for Chrome instances running in Chrome Remote Desktop Wayland mode on a Google-managed Linux workstation.
+---
+
 ## Using GPU Acceleration in Chrome Remote Desktop
 
 When Chrome Remote Desktop is launched in Wayland mode, it can easily

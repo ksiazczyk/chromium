@@ -1,3 +1,11 @@
+---
+type: reference
+title: Chromium Commit Queue (CQ)
+summary: Describes the structure and management of the Chromium Commit Queue, covering its run modes, build reuse, options, flakiness, and FAQ.
+relations:
+  - references /docs/infra/glossary.md
+---
+
 # CQ
 
 This document describes how the Chromium Commit Queue (CQ) is structured and

@@ -1,3 +1,9 @@
+---
+type: guide
+title: Running ChromeOS UI on Linux
+summary: Step-by-step instructions for switching to the nouveau driver and building and running Chromium with the Ozone DRM platform on Linux.
+---
+
 # Running ChromeOS UI on Linux
 Note that this instructions may not work for you. They have been
 verified to work as of 2018/06/06 on standard Google engineering

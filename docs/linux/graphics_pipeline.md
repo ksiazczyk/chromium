@@ -1,3 +1,11 @@
+---
+type: note
+title: Linux Graphics Pipeline
+summary: Brief note on the Linux graphics pipeline for test_shell with a link to a diagram and its SVG source.
+relations:
+  - references /docs/bitmap_pipeline.md
+---
+
 # Linux Graphics Pipeline
 
 Note, this deals with `test_shell` only. See

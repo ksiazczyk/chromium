@@ -1,3 +1,13 @@
+---
+type: guide
+title: OS Upgrade Playbook for Chromium Builders and Fleets
+summary: Phased playbook for upgrading builder and fleet operating systems, from FYI builder setup and test greening through production cutover.
+relations:
+  - references /docs/infra/glossary.md
+  - references /docs/infra/new_builder.md
+  - references /infra/config/subprojects/chromium/ci/chromium.fyi.star
+---
+
 # OS Upgrade Playbook for Chromium Builders and Fleets
 
 [TOC]

@@ -1,3 +1,11 @@
+---
+type: guide
+title: Checking out and building Cast on Linux
+summary: Instructions for checking out and building the Cast content embedder (cast_shell) on Linux, noting it is not a functionally equivalent Chromecast binary.
+relations:
+  - references /build/install-build-deps.sh
+---
+
 # Checking out and building Cast on Linux
 
 **Note**: it is **not possible** to build a binary functionally

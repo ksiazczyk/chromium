@@ -1,3 +1,9 @@
+---
+type: guide
+title: Investigating Out of Memory Crashes
+summary: Helps Chromium developers identify OOM crashes, distinguish causes such as commit limits and address space exhaustion, and debug them.
+---
+
 # Investigating Out of Memory crashes
 
 A large fraction of process crashes in Chromium are due to Out Of Memory (OOM)

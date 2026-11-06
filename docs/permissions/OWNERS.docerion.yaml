@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the permissions documentation directory
+summary: Chromium OWNERS file that delegates review ownership of the permissions documentation to //components/permissions/PERMISSIONS_OWNERS.
+relations:
+  - references /components/permissions/PERMISSIONS_OWNERS

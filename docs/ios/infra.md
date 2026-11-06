@@ -1,3 +1,9 @@
+---
+type: reference
+title: Continuous build and test infrastructure for Chromium for iOS
+summary: Explains the continuous build and test infrastructure for Chromium for iOS, including buildbot masters, bots, try jobs, recipes, and swarming.
+---
+
 # Continuous build and test infrastructure for Chromium for iOS
 
 See the [instructions] for how to check out and build Chromium for iOS.

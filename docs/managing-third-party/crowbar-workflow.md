@@ -1,3 +1,11 @@
+---
+type: guide
+title: Using Crowbar Workflow to manage third-party dependencies
+summary: How-to guide for setting up the Crowbar workflow to import, patch, and automatically update third-party dependencies that cannot be used as pristine Git submodules.
+relations:
+  - references /docs/managing-third-party/skia-autoroller.md
+---
+
 # Using Crowbar Workflow to manage third-party dependencies
 
 [TOC]

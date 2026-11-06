@@ -1,3 +1,12 @@
+---
+type: guide
+title: Using cargo
+summary: Short guide on using plain cargo with Chromium's toolchain and vendored crates for throwaway or experimental tools instead of the gn build system.
+relations:
+  - references /docs/rust/README.md
+  - references /tools/crates/run_cargo.py
+---
+
 # Using cargo
 
 If you're building a tool that's meant to integrate with Chromium, you should

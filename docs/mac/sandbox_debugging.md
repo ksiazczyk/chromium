@@ -1,3 +1,11 @@
+---
+type: guide
+title: Sandbox Debugging
+summary: Instructions for debugging macOS sandbox issues in Chrome, including testing with the sandbox disabled, reading violation logs, and breaking on violations.
+relations:
+  - references /sandbox/mac/seatbelt_sandbox_design.md
+---
+
 # Sandbox Debugging
 
 The [macOS sandbox](../../sandbox/mac/seatbelt_sandbox_design.md) confines

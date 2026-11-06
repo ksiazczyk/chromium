@@ -1,3 +1,9 @@
+---
+type: reference
+title: Key Concepts in Chrome Memory
+summary: Explains why memory management is harder than malloc and free, covering platform differences, key gotchas, and shared terminology for Chromium memory work.
+---
+
 # Key Concepts in Chrome Memory
 
 ## What's so hard about memory? Isn't it just malloc and free?

@@ -1,3 +1,13 @@
+---
+type: guide
+title: The TestApi Pattern
+summary: Describes the pattern of adding a separate TestApi helper class to expose test-only functionality of a widely used class, linking it only into test targets, and when to prefer alternatives like friending tests or ForTesting methods.
+relations:
+  - references /docs/patterns/fortesting-methods.md
+  - references /docs/patterns/friend-the-tests.md
+  - references /docs/patterns/passkey.md
+---
+
 # The TestApi Pattern
 
 The TestApi pattern involves creating a helper class to provide access to

@@ -1,3 +1,9 @@
+---
+type: reference
+title: Linux Proxy Configuration
+summary: Explains how Chromium on Linux obtains proxy settings from GNOME or KDE, command-line flags, and environment variables.
+---
+
 # Linux Proxy Config
 
 Chromium on Linux has several possible sources of proxy info: GNOME/KDE

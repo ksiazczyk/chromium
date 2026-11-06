@@ -1,3 +1,12 @@
+---
+type: guide
+title: Chromium GPU Gardening & Flake Root-Cause Strategy
+summary: Outlines the GPU gardener shift workflow and a playbook for root-causing and resolving GPU test flakes rather than only suppressing them.
+relations:
+  - references /content/test/gpu/find_bad_machines.py
+  - references /content/test/gpu/trim_culprit_cls.py
+---
+
 # Chromium GPU Gardening & Flake Root-Cause Strategy
 
 This guide outlines the operational workflow for the **GPU Gardener (Pixel Wrangler)** shift, paired with a deep-dive playbook for **root-causing and resolving flakes** rather than only suppressing them. It is designed to be used both by human wranglers and by automated/AI gardening agents.

@@ -1,3 +1,13 @@
+---
+type: guide
+title: Deploying and running gtests on Fuchsia
+summary: How to deploy and run gtest binaries on Fuchsia across emulators and devices, with troubleshooting and product configuration guidance.
+relations:
+  - references /docs/fuchsia/build_instructions.md
+  - references /docs/fuchsia/test_scripts.md
+  - references /build/fuchsia/test/start_emulator.py
+---
+
 # Deploying and running gtests on Fuchsia
 
 [TOC]

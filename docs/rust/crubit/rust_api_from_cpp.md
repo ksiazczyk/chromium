@@ -1,3 +1,13 @@
+---
+type: guide
+title: rust_api_from_cpp
+summary: Instructions for the experimental rust_api_from_cpp tool that generates Rust bindings from C++ headers, covering availability, generation, dependencies, and troubleshooting.
+relations:
+  - references /docs/rust/crubit/README.md
+  - references /build/config/rust.gni
+  - references /build/rust/tests/test_rust_api_from_cpp/self_contained_target_header2.h
+---
+
 # `rust_api_from_cpp`
 
 ## Introduction

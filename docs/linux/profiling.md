@@ -1,3 +1,9 @@
+---
+type: guide
+title: Profiling Chromium on Linux
+summary: How-to for CPU profiling with perf, heap profiling with gdb and pprof, and paint profiling with Xephyr when working on Chromium for Linux.
+---
+
 # Linux Profiling
 
 How to profile Chromium on Linux.

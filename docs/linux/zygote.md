@@ -1,3 +1,11 @@
+---
+type: reference
+title: Linux zygote process
+summary: Explains how the Linux zygote process forks renderers to amortize dynamic loader and library initialization costs, covers its sandbox and versioning role, and gives debugging flags plus appendices measuring relocation overhead.
+relations:
+  - references /sandbox/linux/README.md
+---
+
 A zygote process is one that listens for spawn requests from a main process
 and forks itself in response. Generally they are used because forking a process
 after some expensive setup has been performed can save time and share extra

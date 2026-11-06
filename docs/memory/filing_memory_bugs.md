@@ -1,3 +1,9 @@
+---
+type: guide
+title: Filing Memory Bugs
+summary: Steps for filing a quality memory bug, with platform-specific measurements for Windows, macOS, and Linux plus instructions for a memory-infra trace.
+---
+
 # Filing Memory Bugs
 
 This page describes the common set of steps for filing a memory bug.

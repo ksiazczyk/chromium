@@ -1,3 +1,11 @@
+---
+type: reference
+title: First user run OOBE flow
+summary: Walks through the screens shown during a user's first sign-in, from Terms of Service to multi-device setup.
+relations:
+  - references /docs/login/fingerprint.md
+---
+
 # First user run
 
 When a user first signs in to a Chrome OS device, they are run through first-run

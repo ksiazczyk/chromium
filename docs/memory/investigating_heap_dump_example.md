@@ -1,3 +1,9 @@
+---
+type: guide
+title: Example Investigation of a Heap Dump
+summary: Walkthrough of a real memory leak investigation from a wild heap dump, showing how to read the dump summary, stack trace, and dive into the code.
+---
+
 # Example Investigation of a Heap Dump
 
 This document describes the steps taken to investigate a real memory leak

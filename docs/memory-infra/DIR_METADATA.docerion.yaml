@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: MemoryInfra docs issue tracker metadata
+summary: Configures the Monorail component and public Buganizer component ID used for issues in the memory-infra documentation directory.

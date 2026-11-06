@@ -1,3 +1,13 @@
+---
+type: readme
+title: Memory
+summary: Landing page for Chromium memory documentation, linking to metrics, communication channels, bug filing, debugging guides, and key contacts.
+relations:
+  - references /docs/memory-infra/README.md
+  - references /docs/memory/debugging_memory_issues.md
+  - references /docs/memory/filing_memory_bugs.md
+---
+
 # Memory
 
 Landing page for all things memory-related in Chromium.

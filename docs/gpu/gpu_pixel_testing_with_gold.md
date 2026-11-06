@@ -1,3 +1,11 @@
+---
+type: reference
+title: GPU Pixel Testing With Gold
+summary: Describes how the Skia Gold image diff service works for GPU pixel tests, including triage of less common failures, inexact matching, and goldctl maintenance.
+relations:
+  - references /docs/gpu/gpu_testing.md
+---
+
 # GPU Pixel Testing With Gold
 
 This page describes various extra details of the Skia Gold service

@@ -1,3 +1,9 @@
+---
+type: reference
+title: 'Technical README: The <permission> Element (PEPC)'
+summary: Detailed technical reference for the <permission> element (PEPC) in Chromium, covering its architecture, renderer and browser components, behavioral differences from regular requests, and metrics.
+---
+
 # Technical README: The `<permission>` Element (PEPC)
 
 This document provides a detailed technical overview of the `<permission>` element feature, also known as PEPC (Permission Element Policy Control). It is intended for developers who want to understand the implementation of this feature in Chromium.

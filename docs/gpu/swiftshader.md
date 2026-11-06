@@ -1,3 +1,11 @@
+---
+type: guide
+title: Using Chromium with SwiftShader
+summary: Describes how Chromium uses SwiftShader as an OpenGL ES driver or WebGL fallback and lists the relevant command line switches, noting the fallback deprecation.
+relations:
+  - references /gpu/vulkan/features.gni
+---
+
 # Using Chromium with SwiftShader
 
 SwiftShader is an open-source high-performance implementation of the Vulkan and OpenGL ES graphics APIs which runs purely on the CPU. Thus no graphics processor (GPU) is required for advanced (3D) graphics.

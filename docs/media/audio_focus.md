@@ -1,3 +1,9 @@
+---
+type: reference
+title: Audio Focus Handling
+summary: Explains how audio focus is handled for MediaSessions, covering persistent and transient focus types, the AudioFocusManager stack algorithm, and special handling of Pepper.
+---
+
 # Audio Focus Handling
 
 A MediaSession collects all audio-producing objects in one tab. It is usually

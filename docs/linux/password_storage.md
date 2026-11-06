@@ -1,3 +1,9 @@
+---
+type: reference
+title: Linux Password Storage
+summary: Describes the five password stores Chromium can use on Linux, how the store is chosen automatically, and the --password-store flag options.
+---
+
 # Linux Password Storage
 
 On Linux, Chromium can store passwords in five ways:

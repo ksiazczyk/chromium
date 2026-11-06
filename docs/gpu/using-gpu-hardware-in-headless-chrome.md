@@ -1,3 +1,11 @@
+---
+type: guide
+title: Using GPU Hardware in Headless Chrome
+summary: Explains how to enable GPU hardware in headless Chrome with command line flags and points to related bugs and Linux NVIDIA documentation.
+relations:
+  - references /docs/gpu/server-side-headless-linux-chrome-with-gpus.md
+---
+
 ## Using GPU Hardware in Headless Chrome
 
 Headless Chrome can utilize the local machine's GPU, at least in some

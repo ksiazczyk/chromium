@@ -1,3 +1,9 @@
+---
+type: guide
+title: Debugging Chrome GPU with RenderDoc
+summary: Links to public guides for capturing frames of Chrome WebGL and WebGPU applications with RenderDoc, plus ANGLE capture tips.
+---
+
 # Debugging Chrome GPU with Renderdoc
 
 Overviews of how to capture frames of Chrome WebGL/WebGPU applications with

@@ -1,3 +1,13 @@
+---
+type: guide
+title: Mixing C++ and Objective-C
+summary: Describes techniques for mixing C++ and Objective-C in Chromium Mac code, including Objective-C++, the pimpl idiom, and owned_objc wrappers.
+relations:
+  - references /base/apple/owned_objc.h
+  - references /ui/gfx/native_ui_types.h
+  - references /ui/events/platform_event.h
+---
+
 # Mixing C++ and Objective-C
 
 The Mac is in an unusual position of having most of its relevant UI APIs be in a

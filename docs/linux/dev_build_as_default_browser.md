@@ -1,3 +1,9 @@
+---
+type: guide
+title: Linux Dev Build as Default Browser
+summary: Instructions for making a Chromium dev build the default browser on Linux using a custom .desktop file and xdg-settings.
+---
+
 # Linux Dev Build As Default Browser
 
 Copy a stable version's `.desktop` file and modify it to point to your dev

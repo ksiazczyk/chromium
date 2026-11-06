@@ -1,3 +1,9 @@
+---
+type: guide
+title: Linux Eclipse Dev
+summary: Guide to setting up Eclipse as an IDE for Chromium development on Linux, covering installation, project setup, building, debugging, and code analysis.
+---
+
 # Linux Eclipse Dev
 
 Eclipse can be used on Linux (and probably Windows and Mac) as an IDE for

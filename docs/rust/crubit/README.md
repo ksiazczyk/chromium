@@ -1,3 +1,13 @@
+---
+type: readme
+title: Crubit in Chromium
+summary: Overview of the Crubit C++/Rust interop tool in Chromium, covering supported interop directions, caveats, documentation links, chat rooms, and bug reporting.
+relations:
+  - references /components/cronet/README.md
+  - references /docs/rust/crubit/cpp_api_from_rust.md
+  - references /docs/rust/crubit/rust_api_from_cpp.md
+---
+
 # Crubit in Chromium
 
 [Crubit](https://crubit.rs) is a C++/Rust interop tool.  It has two parts:

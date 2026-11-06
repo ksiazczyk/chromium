@@ -1,3 +1,12 @@
+---
+type: guide
+title: Linux Chromium ARM recipes
+summary: Recipes for building Chromium for ARM on Linux, covering cross compiling with a toolchain and sysroot, plus testing on bots or with QEMU.
+relations:
+  - references /build/install-build-deps.sh
+  - references /build/linux/sysroot_scripts/install-sysroot.py
+---
+
 # Linux Chromium Arm Recipes
 
 [TOC]

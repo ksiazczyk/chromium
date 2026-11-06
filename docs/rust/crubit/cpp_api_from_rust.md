@@ -1,3 +1,13 @@
+---
+type: guide
+title: cpp_api_from_rust
+summary: Instructions for enabling and using cpp_api_from_rust bindings so C++ can call Rust crates in Chromium, including configuration, dependencies, and troubleshooting.
+relations:
+  - references /docs/rust/crubit/README.md
+  - references /docs/rust/crubit/build_performance.md
+  - references /build/rust/tests/test_cpp_api_from_rust/lib.rs
+---
+
 # `cpp_api_from_rust`
 
 ## Introduction

@@ -1,3 +1,11 @@
+---
+type: guide
+title: Debugging GTK on Linux
+summary: Tips for debugging GTK in Chromium on Linux, covering fatal warnings, GTK debug packages and sources, gtkparasite, and GDK_DEBUG.
+relations:
+  - references /docs/linux/building_debug_gtk.md
+---
+
 # Linux Debugging GTK
 
 ## Making warnings fatal

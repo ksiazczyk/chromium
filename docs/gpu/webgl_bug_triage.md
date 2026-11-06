@@ -1,3 +1,9 @@
+---
+type: guide
+title: WebGL Bug Triage Rotation
+summary: Describes the weekly WebGL bug triage rotation, including the queries to monitor and the responsibilities of the current triager.
+---
+
 # WebGL Bug Triage Rotation
 
 The WebGL team receives many bug reports from users of Chrome, and web

@@ -1,3 +1,9 @@
+---
+type: reference
+title: Flavors of Google Chrome for the Mac
+summary: Documents the Mac Chrome channels and flavors, side-by-side versus non-side-by-side builds, and their differences for users, admins, and developers.
+---
+
 # Flavors of Google Chrome for the Mac
 
 Google Chrome for the Mac comes in a wide variety of flavors that differ widely;

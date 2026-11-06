@@ -1,3 +1,11 @@
+---
+type: reference
+title: Naming Chromium Builders
+summary: Specifies the naming convention for Chromium builders, with the name pattern, descriptor definitions, and examples.
+relations:
+  - references /build/config/BUILDCONFIG.gn
+---
+
 # Naming Chromium Builders
 
 [TOC]

@@ -1,3 +1,9 @@
+---
+type: guide
+title: Profile Chromium with Intel Graphics Performance Analyzers
+summary: Step-by-step instructions for graphics profiling of Chromium on Windows with Intel GPA, covering D3D11 and D3D12 based applications.
+---
+
 # Profile Chromium with Intel&reg; Graphics Performance Analyzers
 
 This page documents how to do graphics profiling on Chromium with **Intel&reg; Graphics Performance Analyzers (GPA)**.

@@ -1,3 +1,13 @@
+---
+type: guide
+title: How to Add a New Dependency on Linux
+summary: Step-by-step instructions for adding a new library dependency on Linux, covering Debian and RPM package identification, sysroot updates, whitelisting, building, and testing.
+relations:
+  - references /chrome/installer/linux/debian/update_dist_package_versions.py
+  - references /chrome/installer/linux/rpm/update_package_provides.py
+  - references /build/linux/sysroot_scripts/sysroot_creator.py
+---
+
 # How to add a new dependency on Linux
 
 For this example, imagine we want to add a dependency on the DBus client

@@ -1,3 +1,9 @@
+---
+type: reference
+title: GN Style Guide
+summary: Style guide for GN build files covering naming and ordering of targets and configs, formatting and indenting, and usage recommendations for libraries and build arguments.
+---
+
 # GN Style Guide
 
 [TOC]

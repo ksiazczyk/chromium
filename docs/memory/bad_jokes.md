@@ -1,3 +1,9 @@
+---
+type: note
+title: Bad Memory Jokes
+summary: Short collection of memory-related jokes kept by the team as stress relief.
+---
+
 # Bad Memory Jokes
 
 ## What is this?

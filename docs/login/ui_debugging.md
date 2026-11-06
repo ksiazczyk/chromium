@@ -1,3 +1,9 @@
+---
+type: guide
+title: Debugging the login and lock screen UI
+summary: Shows how to enable the login developer overlay with --show-login-dev-overlay for common debugging tasks.
+---
+
 # Debugging UI
 
 The login and lock screen can run with a developer overlay that make common

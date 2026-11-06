@@ -1,3 +1,11 @@
+---
+type: reference
+title: Linux PID Namespace Support
+summary: Explains the SUID sandbox's dependence on CLONE_NEWPID and provides a root-run C program to check whether a system supports PID namespaces.
+relations:
+  - references /sandbox/linux/README.md
+---
+
 # Linux PID Namespace Support
 
 The [LinuxSUIDSandbox](../../sandbox/linux/README.md) currently relies on

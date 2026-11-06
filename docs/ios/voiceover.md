@@ -1,3 +1,9 @@
+---
+type: guide
+title: VoiceOver accessibility on iOS
+summary: Explains the VoiceOver screen reader on Apple platforms, its basic navigation commands, and how to activate it via iOS settings.
+---
+
 # VoiceOver
 
 VoiceOver is an Accessibility feature available on Apple platforms. It provides

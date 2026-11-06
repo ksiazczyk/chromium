@@ -1,3 +1,13 @@
+---
+type: reference
+title: Linux Chromium packages
+summary: Reference list of Linux distribution and other Unix packages for Chromium, with maintainer contacts, package URLs, and patch sources.
+relations:
+  - references /build/linux/OWNERS
+  - references /docs/chromium_browser_vs_google_chrome.md
+  - references /docs/contributing.md
+---
+
 # Linux Chromium Packages
 
 Some Linux distributions package up Chromium for easy installation. Please note

@@ -1,3 +1,9 @@
+---
+type: guide
+title: Chrome Mac Team Triage Process
+summary: Describes the Chrome Mac team's two-phase bug triage process, including hotlists, saved searches, and the states bugs end up in.
+---
+
 # Chrome Mac Team Triage Process
 
 This document outlines how the Chrome Mac Team triages bugs. Triage is the

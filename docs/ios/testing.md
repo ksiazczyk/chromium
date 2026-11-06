@@ -1,3 +1,13 @@
+---
+type: guide
+title: Automated testing for Chrome for iOS
+summary: Explains how to write and run unit tests and EarlGrey integration tests for Chrome on iOS, from Xcode or the command line.
+relations:
+  - references /docs/ios/build_instructions.md
+  - references /ios/build/bots/scripts/run.py
+  - references /ios/chrome/test/earl_grey/chrome_test_case.h
+---
+
 # Automated testing for Chrome for iOS
 
 See the [instructions] for how to check out and build Chromium for iOS.
