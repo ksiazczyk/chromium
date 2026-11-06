@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boca utility implementation for School Tools API URL
+// summary: Implements helpers that return the School Tools API URL and detect a test environment using the release channel and a command-line switch.
+// ---
+
 #include "chromeos/ash/components/boca/util.h"
 
 #include <string>

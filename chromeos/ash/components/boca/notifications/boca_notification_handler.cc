@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boca notification handler implementation
+// summary: Implements the Boca notification handler that adds and removes Ash message center notifications for class session start and end, microphone captions, and screen share events.
+// ---
+
 #include "chromeos/ash/components/boca/notifications/boca_notification_handler.h"
 
 #include "ash/constants/ash_constants.h"

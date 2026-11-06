@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TranscriptSenderImpl unit tests
+// summary: Unit tests for TranscriptSenderImpl verifying request construction, transcript part indexing, and failure handling.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/transcript_sender_impl.h"
 
 #include <optional>

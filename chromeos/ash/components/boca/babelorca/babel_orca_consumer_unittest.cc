@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BabelOrca consumer unit tests
+// summary: Unit tests for the consumer covering session start and end, caption configuration updates, translation, and receiving failure handling using fakes.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/babel_orca_consumer.h"
 
 #include <memory>

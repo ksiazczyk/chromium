@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OAuth token fetcher unit tests
+// summary: Unit tests for OAuthTokenFetcher covering successful fetches, error handling, UMA logging, and rejection of overlapping token requests.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/oauth_token_fetcher.h"
 
 #include <optional>

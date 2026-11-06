@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Add students request implementation
+// summary: Implements the POST request that adds students to a Boca session, building the JSON student group body and reporting success or API errors via callback.
+// ---
+
 #include "chromeos/ash/components/boca/session_api/add_students_request.h"
 
 #include "base/json/json_writer.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spotlight audio stream consumer implementation
+// summary: Implements SpotlightAudioStreamConsumer, forwarding audio packets received from a remoting session to a provided callback.
+// ---
+
 #include "chromeos/ash/components/boca/spotlight/spotlight_audio_stream_consumer.h"
 
 #include <memory>

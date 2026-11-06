@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TachyonStreamingClient unit tests
+// summary: Unit tests for streaming Tachyon requests, covering parsing callbacks, retries, timeouts and UMA histogram reporting.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/tachyon_streaming_client.h"
 
 #include <memory>

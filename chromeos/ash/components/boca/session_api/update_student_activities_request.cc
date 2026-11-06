@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update student activities request implementation
+// summary: Implements the POST request that reports student activities, such as the active tab title, to the Boca session API for a given session, Gaia ID and device.
+// ---
+
 #include "chromeos/ash/components/boca/session_api/update_student_activities_request.h"
 
 #include <string>

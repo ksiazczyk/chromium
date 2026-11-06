@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tachyon request header utilities
+// summary: Builds a Tachyon request header template with the app name, a random request ID and client info such as API version and platform.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/tachyon_utils.h"
 
 #include "base/uuid.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spotlight session manager unit tests
+// summary: Unit tests for SpotlightSessionManager with mocked SpotlightService, CRD manager, notification handler and session manager.
+// ---
+
 #include "chromeos/ash/components/boca/spotlight/spotlight_session_manager.h"
 
 #include <memory>

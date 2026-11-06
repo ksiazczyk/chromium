@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeTokenManager header
+// summary: Declares FakeTokenManager, a test double for TokenManager offering controllable token data, fetch callbacks, and a wait mechanism for unit tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_FAKES_FAKE_TOKEN_MANAGER_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_FAKES_FAKE_TOKEN_MANAGER_H_
 

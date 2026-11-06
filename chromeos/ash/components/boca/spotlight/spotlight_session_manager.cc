@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spotlight session manager implementation
+// summary: Implements the Boca session observer that reacts to teacher screen-view requests and coordinates notifications, registration and CRD sessions.
+// ---
+
 #include "chromeos/ash/components/boca/spotlight/spotlight_session_manager.h"
 
 #include <memory>

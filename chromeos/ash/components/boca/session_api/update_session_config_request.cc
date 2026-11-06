@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update session config request implementation
+// summary: Implements the PATCH request that updates on-task and captions configuration for student groups in a Boca session, building JSON bodies and field masks.
+// ---
+
 #include "chromeos/ash/components/boca/session_api/update_session_config_request.h"
 
 #include "base/json/json_writer.h"

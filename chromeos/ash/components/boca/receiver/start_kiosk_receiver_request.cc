@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Start kiosk receiver request implementation
+// summary: Implements the API request that starts a kiosk receiver connection, building the request URL and JSON body with initiator and presenter details.
+// ---
+
 #include "chromeos/ash/components/boca/receiver/start_kiosk_receiver_request.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BocaAppClient default implementation
+// summary: Implements the base BocaAppClient with singleton management, device id, School Tools URL, and stubbed app actions.
+// ---
+
 #include "chromeos/ash/components/boca/boca_app_client.h"
 
 #include "base/check_op.h"

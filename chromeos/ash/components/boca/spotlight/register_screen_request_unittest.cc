@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Register screen request unit tests
+// summary: Unit tests for RegisterScreenRequest using an embedded test server to verify successful and failed registration responses.
+// ---
+
 #include "chromeos/ash/components/boca/spotlight/register_screen_request.h"
 
 #include <memory>

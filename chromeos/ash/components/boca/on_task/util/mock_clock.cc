@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockClock implementation overriding Chromium time functions
+// summary: Implements the MockClock singleton that installs ScopedTimeClockOverrides and advances a thread-safe time offset for testing.
+// ---
+
 #include "chromeos/ash/components/boca/on_task/util/mock_clock.h"
 
 #include "base/no_destructor.h"

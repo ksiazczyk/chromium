@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session API traffic annotation
+// summary: Defines the network traffic annotation for Boca server integration, describing OAuth-authenticated requests that carry access token, email and name data.
+// ---
+
 #include "chromeos/ash/components/boca/session_api/constants.h"
 
 #include "net/traffic_annotation/network_traffic_annotation.h"

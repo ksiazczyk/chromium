@@ -5,6 +5,12 @@
 // Source:
 // http://google3/google/internal/communications/instantmessaging/v1/tachyon_common.proto
 
+// ---docerion
+// type: source
+// title: Tachyon common proto definitions
+// summary: Defines shared Tachyon protobuf types such as identifiers, client info, request headers, and auth tokens.
+// ---
+
 syntax = "proto3";
 
 option optimize_for = LITE_RUNTIME;

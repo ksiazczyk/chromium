@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeTachyonClient implementation for tests
+// summary: Implements a fake Tachyon client that records requests, OAuth tokens and auth failure callbacks, with a run loop to wait for requests in tests.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/fakes/fake_tachyon_client.h"
 
 #include <memory>

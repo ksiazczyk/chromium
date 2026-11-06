@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Boca receiver proto definitions
+// summary: Protobuf definitions describing kiosk receiver connections, their connection states, and user and device information for the Boca feature.
+// ---
+
 // Imported from
 // //depot/google3/google/internal/chrome/cros/edu/schooltools/v1/receiver.proto
 syntax = "proto3";

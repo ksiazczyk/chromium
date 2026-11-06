@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: GetSessionRequest unit tests
+// summary: Unit tests for GetSessionRequest that use an embedded test server to verify session parsing of producer and student responses and error handling.
+// ---
+
 #include "chromeos/ash/components/boca/session_api/get_session_request.h"
 
 #include <memory>

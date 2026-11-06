@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Get kiosk receiver request unit tests
+// summary: Unit tests for GetKioskReceiverRequest verifying URL construction with and without connection IDs, receiver ID escaping, and success and error handling.
+// ---
+
 #include "chromeos/ash/components/boca/receiver/get_kiosk_receiver_request.h"
 
 #include <memory>

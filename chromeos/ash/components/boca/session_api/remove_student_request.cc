@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoveStudentRequest implementation
+// summary: Implements the RemoveStudentRequest POST call that removes student Gaia IDs from a Boca session and reports success whenever the HTTP call succeeds.
+// ---
+
 #include "chromeos/ash/components/boca/session_api/remove_student_request.h"
 
 #include "base/json/json_writer.h"

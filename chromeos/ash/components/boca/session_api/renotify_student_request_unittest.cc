@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RenotifyStudentRequest unit tests
+// summary: Tests RenotifyStudentRequest with a mock embedded test server for successful and failed re-notification requests.
+// ---
+
 #include "chromeos/ash/components/boca/session_api/renotify_student_request.h"
 
 #include <memory>

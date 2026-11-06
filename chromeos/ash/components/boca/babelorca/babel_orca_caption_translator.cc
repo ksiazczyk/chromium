@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BabelOrca caption translator implementation
+// summary: Implements caption translation by validating language tags, recording language switch metrics, and queueing translation requests through the dispatcher.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/babel_orca_caption_translator.h"
 
 #include <memory>

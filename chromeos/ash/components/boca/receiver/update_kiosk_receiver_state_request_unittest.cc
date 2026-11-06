@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Update kiosk receiver state request unit tests
+// summary: Tests URL construction, request body generation and success and error handling of the update kiosk receiver state request.
+// ---
+
 #include "chromeos/ash/components/boca/receiver/update_kiosk_receiver_state_request.h"
 
 #include <memory>

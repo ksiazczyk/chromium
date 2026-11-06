@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the session API
+summary: Restricts includes in the session API directory to google_apis/common, the OAuth consumer ID header, and the signin identity manager.

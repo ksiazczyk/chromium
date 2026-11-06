@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetSessionRequest implementation
+// summary: Implements the GetSessionRequest URL fetch that retrieves a Boca session for a Gaia ID and device, parses the JSON response into a Session proto, and reports results or errors via callback.
+// ---
+
 #include "chromeos/ash/components/boca/session_api/get_session_request.h"
 
 #include <memory>

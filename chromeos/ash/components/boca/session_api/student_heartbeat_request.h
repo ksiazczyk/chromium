@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Student heartbeat request class header
+// summary: Declares the StudentHeartbeatRequest class, a google_apis URL fetch request sending student heartbeats with session, device, and group identifiers.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_SESSION_API_STUDENT_HEARTBEAT_REQUEST_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_SESSION_API_STUDENT_HEARTBEAT_REQUEST_H_
 

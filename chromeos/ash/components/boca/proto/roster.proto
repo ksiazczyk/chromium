@@ -1,6 +1,12 @@
 // Imported from
 // //depot/google3/google/internal/chrome/cros/edu/schooltools/v1/roster.proto
 
+// ---docerion
+// type: source
+// title: Boca roster proto definitions
+// summary: Protobuf definitions for class rosters, student groups and their sources, and user identities used by the Boca feature.
+// ---
+
 syntax = "proto3";
 
 package boca;

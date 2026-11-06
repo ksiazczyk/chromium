@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Invalidation service implementation
+// summary: Implements the invalidation service that uploads FCM tokens with exponential backoff retries and forwards invalidations to the delegate.
+// ---
+
 #include "chromeos/ash/components/boca/invalidations/invalidation_service_impl.h"
 
 #include <string>

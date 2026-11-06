@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spotlight audio stream consumer header
+// summary: Declares SpotlightAudioStreamConsumer, an AudioStub that forwards remoting audio packets to a callback and exposes a weak pointer.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_SPOTLIGHT_SPOTLIGHT_AUDIO_STREAM_CONSUMER_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_SPOTLIGHT_SPOTLIGHT_AUDIO_STREAM_CONSUMER_H_
 

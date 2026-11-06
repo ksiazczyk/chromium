@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetGeminiStatusRequest implementation
+// summary: Implements the BocaRequest delegate that builds the getGeminiStatus URL, parses the enablement state, and defines the network traffic annotation.
+// ---
+
 #include "chromeos/ash/components/boca/gemini/get_gemini_status_request.h"
 
 #include <memory>

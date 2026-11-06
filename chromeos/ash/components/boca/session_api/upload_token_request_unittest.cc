@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Upload token request unit tests
+// summary: Unit tests that verify UploadTokenRequest uploads tokens and handles success and failure responses via an embedded test server.
+// ---
+
 #include "chromeos/ash/components/boca/session_api/upload_token_request.h"
 
 #include <memory>

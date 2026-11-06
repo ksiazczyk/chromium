@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk receiver parser unit tests
+// summary: Parameterized unit tests verifying conversion between receiver connection state strings and proto values, including unknown states.
+// ---
+
 #include "chromeos/ash/components/boca/receiver/kiosk_receiver_parser.h"
 
 #include <string>

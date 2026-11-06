@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for babelorca
+summary: Lists the include rules allowing babelorca sources to depend on mojom, live caption, signin, SODA, media, and UI headers.

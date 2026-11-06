@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SODA testing utilities
+// summary: Provides test helpers that register SODA-related preferences and define the mock SODA installer used by BabelOrca tests.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/soda_testing_utils.h"
 
 #include "ash/constants/ash_pref_names.h"

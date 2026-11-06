@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BabelOrca testing prefs registration
+// summary: Registers caption and translation preferences on a testing pref service to support BabelOrca unit tests.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/testing_utils.h"
 
 #include "chromeos/ash/components/boca/babelorca/pref_names.h"

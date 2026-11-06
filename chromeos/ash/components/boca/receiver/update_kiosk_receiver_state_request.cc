@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update kiosk receiver state request implementation
+// summary: Implements the PATCH request that updates a kiosk receiver's connection state on the School Tools backend.
+// ---
+
 #include "chromeos/ash/components/boca/receiver/update_kiosk_receiver_state_request.h"
 
 #include <memory>

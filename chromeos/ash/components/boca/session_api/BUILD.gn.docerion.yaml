@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Boca session API
+summary: GN build file defining the session_api source set and its unit test target, listing sources and dependencies for the Boca session API.

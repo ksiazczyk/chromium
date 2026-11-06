@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spotlight remoting client manager implementation
+// summary: Implements the manager that starts and stops Chrome Remote Desktop clients for Spotlight on a dedicated IO thread, handling OAuth tokens and frame and audio callbacks.
+// ---
+
 #include "chromeos/ash/components/boca/spotlight/spotlight_remoting_client_manager.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TranscriptBuilder unit tests
+// summary: Unit tests for TranscriptBuilder covering message validation, discarding of invalid messages, and transcript merging behavior.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/transcript_builder.h"
 
 #include <algorithm>

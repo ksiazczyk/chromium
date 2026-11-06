@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Retriable request sender unit tests
+// summary: Unit tests covering the retry behavior of the retriable request sender, including success on the first try and after failures.
+// ---
+
 #include "chromeos/ash/components/boca/retriable_request_sender.h"
 
 #include <memory>

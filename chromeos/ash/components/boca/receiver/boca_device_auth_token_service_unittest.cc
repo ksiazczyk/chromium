@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Boca device auth token service unit tests
+// summary: Unit tests for BocaDeviceAuthTokenService covering authentication success and failure, token availability, and invalidation using mock token services and a test clock.
+// ---
+
 #include "chromeos/ash/components/boca/receiver/boca_device_auth_token_service.h"
 
 #include <memory>

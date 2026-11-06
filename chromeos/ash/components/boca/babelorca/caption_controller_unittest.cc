@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Caption controller unit tests
+// summary: Unit tests for CaptionController verifying caption style updates, transcription dispatch behavior, and translate settings handling.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/caption_controller.h"
 
 #include <memory>

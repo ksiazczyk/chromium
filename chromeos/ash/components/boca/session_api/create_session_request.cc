@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Create session request implementation
+// summary: Implements the POST request that creates a Boca session, serializing teacher, duration, roster, on-task and captions config into the JSON body.
+// ---
+
 #include "chromeos/ash/components/boca/session_api/create_session_request.h"
 
 #include <string>

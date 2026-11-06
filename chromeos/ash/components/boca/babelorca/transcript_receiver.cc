@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranscriptReceiver implementation
+// summary: Implements receiving teacher speech captions over a Tachyon streaming client with retries and transcript building.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/transcript_receiver.h"
 
 #include <memory>

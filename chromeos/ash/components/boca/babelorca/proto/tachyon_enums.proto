@@ -4,6 +4,12 @@
 
 // Source: http://google3/media/webrtc/server/tachyon/proto/tachyon_enums.proto
 
+// ---docerion
+// type: source
+// title: Tachyon enum proto definitions
+// summary: Defines Tachyon protobuf enums for ID types, device IDs, API versions, platforms, and message fanout sender devices.
+// ---
+
 syntax = "proto3";
 
 option optimize_for = LITE_RUNTIME;

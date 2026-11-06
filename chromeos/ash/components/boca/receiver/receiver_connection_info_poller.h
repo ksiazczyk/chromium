@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Receiver connection info poller header
+// summary: Declares the ReceiverConnectionInfoPoller class that periodically fetches receiver connection info and reports when polling should stop.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_RECEIVER_RECEIVER_CONNECTION_INFO_POLLER_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_RECEIVER_RECEIVER_CONNECTION_INFO_POLLER_H_
 

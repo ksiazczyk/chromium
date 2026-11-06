@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Get receiver connection info request implementation
+// summary: Implements the request that fetches recent kiosk receiver connection info, converting JSON responses into KioskReceiverConnection protobuf messages.
+// ---
+
 #include "chromeos/ash/components/boca/receiver/get_receiver_connection_info_request.h"
 
 #include <memory>

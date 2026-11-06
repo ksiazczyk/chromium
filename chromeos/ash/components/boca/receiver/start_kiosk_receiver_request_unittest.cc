@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Start kiosk receiver request unit tests
+// summary: Unit tests verifying URL construction, request body serialization, and response handling of the start kiosk receiver request.
+// ---
+
 #include "chromeos/ash/components/boca/receiver/start_kiosk_receiver_request.h"
 
 #include <memory>

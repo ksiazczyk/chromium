@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen presenter factory implementation
+// summary: Implements the screen presenter factory that creates student and teacher screen presenter instances for Boca School Tools sessions.
+// ---
+
 #include "chromeos/ash/components/boca/receiver/screen_presenter_factory_impl.h"
 
 #include <memory>

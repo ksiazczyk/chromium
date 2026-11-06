@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnTask extensions manager interface
+// summary: Defines the abstract interface for disabling and re-enabling extensions when OnTask transitions between locked and unlocked settings.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_ON_TASK_ON_TASK_EXTENSIONS_MANAGER_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_ON_TASK_ON_TASK_EXTENSIONS_MANAGER_H_
 

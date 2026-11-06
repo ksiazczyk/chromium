@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SODA installer unit tests
+// summary: Unit tests covering installation status, callbacks, language validation and error handling for the BabelOrca SODA installer.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/soda_installer.h"
 
 #include <optional>

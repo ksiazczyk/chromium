@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnTask blocklist implementation
+// summary: Implements per-tab URL navigation restrictions for OnTask, building allow and block filters for open, workspace, and domain-limited navigation.
+// ---
+
 #include "chromeos/ash/components/boca/on_task/on_task_blocklist.h"
 
 #include <algorithm>

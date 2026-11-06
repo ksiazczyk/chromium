@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeTokenFetcher implementation for tests
+// summary: Implements a fake token fetcher that captures the fetch callback so tests can respond with token data on demand.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/fakes/fake_token_fetcher.h"
 
 #include <optional>

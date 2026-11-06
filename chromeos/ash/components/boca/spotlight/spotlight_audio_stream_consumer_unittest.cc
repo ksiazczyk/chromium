@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spotlight audio stream consumer unit tests
+// summary: Unit tests verifying that SpotlightAudioStreamConsumer processes audio packets and forwards them unchanged to the callback.
+// ---
+
 #include "chromeos/ash/components/boca/spotlight/spotlight_audio_stream_consumer.h"
 
 #include <memory>

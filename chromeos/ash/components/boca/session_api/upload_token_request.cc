@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Upload token request implementation
+// summary: Implements the POST request that uploads an FCM push notification token for a Gaia ID to the Boca session API.
+// ---
+
 #include "chromeos/ash/components/boca/session_api/upload_token_request.h"
 
 #include "base/json/json_writer.h"

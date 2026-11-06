@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Teacher screen presenter implementation
+// summary: Implements the teacher screen presenter that starts and stops teacher screen sharing using a shared CRD session and kiosk receiver requests.
+// ---
+
 #include "chromeos/ash/components/boca/receiver/teacher_screen_presenter_impl.h"
 
 #include <memory>

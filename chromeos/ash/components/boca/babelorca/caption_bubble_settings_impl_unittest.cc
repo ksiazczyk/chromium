@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Caption bubble settings implementation unit tests
+// summary: Unit tests for CaptionBubbleSettingsImpl covering bubble expansion, translate enablement notifications, and language code preferences.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/caption_bubble_settings_impl.h"
 
 #include "ash/constants/ash_features.h"

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Boca directory metadata
+summary: Records the Buganizer component ID and team email address for the Boca directory.

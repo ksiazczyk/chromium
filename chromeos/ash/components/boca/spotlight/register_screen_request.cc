@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Register screen request implementation
+// summary: Implements the API request that registers a student screen, sending connection code, GAIA ID and device ID as JSON to a Boca session.
+// ---
+
 #include "chromeos/ash/components/boca/spotlight/register_screen_request.h"
 
 #include <string>

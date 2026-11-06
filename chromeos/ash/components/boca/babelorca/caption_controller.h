@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Babelorca caption controller header
+// summary: Declares CaptionController, which manages the live caption UI and dispatches transcription results and language identification events.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_CAPTION_CONTROLLER_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_CAPTION_CONTROLLER_H_
 

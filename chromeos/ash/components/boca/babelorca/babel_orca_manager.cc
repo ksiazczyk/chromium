@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BabelOrca manager implementation
+// summary: Implements the manager that registers profile prefs and creates producer or consumer controllers for BabelOrca caption sessions.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/babel_orca_manager.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boca session utility implementations
+// summary: Implements null-safe helpers that read the session config, student groups, student group ID and roster from a Boca session.
+// ---
+
 #include "chromeos/ash/components/boca/boca_session_util.h"
 
 #include "chromeos/ash/components/boca/proto/session.pb.h"

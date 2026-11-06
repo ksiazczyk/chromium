@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Translation view wrapper unit tests
+// summary: Parameterized unit tests checking the translate toggle button text and language button visibility for the translation view wrapper.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/translation_view_wrapper_impl.h"
 
 #include <memory>

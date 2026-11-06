@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BocaRequest implementation
+// summary: Implements BocaRequest, a google_apis URL fetch request that sends JSON to the SchoolTools API and parses responses through a delegate.
+// ---
+
 #include "chromeos/ash/components/boca/boca_request.h"
 
 #include <memory>

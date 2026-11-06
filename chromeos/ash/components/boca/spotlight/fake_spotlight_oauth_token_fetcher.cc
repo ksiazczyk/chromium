@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Spotlight OAuth token fetcher implementation
+// summary: Fake implementation of SpotlightOAuthTokenFetcher that returns a preset OAuth token and device robot email for tests.
+// ---
+
 #include "chromeos/ash/components/boca/spotlight/fake_spotlight_oauth_token_fetcher.h"
 
 #include <optional>

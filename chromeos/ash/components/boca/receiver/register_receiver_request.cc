@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Register receiver request implementation
+// summary: Posts the device FCM token to register a kiosk receiver with the School Tools server and returns the receiver ID from the response.
+// ---
+
 #include "chromeos/ash/components/boca/receiver/register_receiver_request.h"
 
 #include <memory>

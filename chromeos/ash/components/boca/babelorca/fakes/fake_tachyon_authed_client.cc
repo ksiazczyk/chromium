@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeTachyonAuthedClient implementation for tests
+// summary: Implements a fake Tachyon authed client that stores authed request strings and lets tests trigger the response callback.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/fakes/fake_tachyon_authed_client.h"
 
 #include <memory>

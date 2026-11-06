@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boca session manager implementation
+// summary: Implements BocaSessionManager, which polls and manages classroom sessions, student heartbeats, screen sharing, captions, and notifications.
+// ---
+
 #include "chromeos/ash/components/boca/boca_session_manager.h"
 
 #include <algorithm>

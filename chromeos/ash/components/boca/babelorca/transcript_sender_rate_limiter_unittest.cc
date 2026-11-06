@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Transcript sender rate limiter unit tests
+// summary: Unit tests verifying immediate first sends, minimum delay handling, and overwriting of pending non-final transcripts in the rate limiter.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/transcript_sender_rate_limiter.h"
 
 #include <memory>

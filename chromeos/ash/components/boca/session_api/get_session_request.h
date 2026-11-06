@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetSessionRequest class declaration
+// summary: Declares the GetSessionRequest class, a google_apis URL fetch request that returns a Boca Session proto or an API error code through a callback.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_SESSION_API_GET_SESSION_REQUEST_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_SESSION_API_GET_SESSION_REQUEST_H_
 

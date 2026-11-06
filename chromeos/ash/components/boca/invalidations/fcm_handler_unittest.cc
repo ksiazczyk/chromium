@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Boca FCM handler
+// summary: Tests FCM handler token fetching, validation, and invalidation dispatch using mock GCM driver, instance ID, and listener objects.
+// ---
+
 #include "chromeos/ash/components/boca/invalidations/fcm_handler.h"
 
 #include <set>

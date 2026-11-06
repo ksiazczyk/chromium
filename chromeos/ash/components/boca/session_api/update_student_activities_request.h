@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update student activities request class declaration
+// summary: Declares the UpdateStudentActivitiesRequest class and its callback for sending student activity updates to the Boca session API.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_SESSION_API_UPDATE_STUDENT_ACTIVITIES_REQUEST_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_SESSION_API_UPDATE_STUDENT_ACTIVITIES_REQUEST_H_
 

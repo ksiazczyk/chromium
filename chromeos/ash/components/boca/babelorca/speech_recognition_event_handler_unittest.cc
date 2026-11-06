@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Speech recognition event handler unit tests
+// summary: Tests observer notification of transcription results, empty results, observer removal and language identification events.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/speech_recognition_event_handler.h"
 
 #include <string>

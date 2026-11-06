@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Student screen presenter header
+// summary: Declares StudentScreenPresenterImpl, which manages starting, checking, and stopping student screen sharing connections.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_RECEIVER_STUDENT_SCREEN_PRESENTER_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_RECEIVER_STUDENT_SCREEN_PRESENTER_IMPL_H_
 

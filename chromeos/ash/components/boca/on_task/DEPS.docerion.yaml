@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: OnTask DEPS include rules
+summary: Lists the allowed include paths for the OnTask component, covering message center, sessions, URL matcher, policy, and boca UI headers.

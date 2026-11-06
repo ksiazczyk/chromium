@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Request data wrapper implementation
+// summary: Implements the RequestDataWrapper constructor that stores network request details such as traffic annotation, URL, retries, and response callback.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/request_data_wrapper.h"
 
 #include <string>

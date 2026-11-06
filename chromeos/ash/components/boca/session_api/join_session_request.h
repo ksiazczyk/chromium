@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JoinSessionRequest class declaration
+// summary: Declares the JoinSessionRequest class and its callback for joining a Boca session with a join code, user identity, and device ID.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_SESSION_API_JOIN_SESSION_REQUEST_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_SESSION_API_JOIN_SESSION_REQUEST_H_
 

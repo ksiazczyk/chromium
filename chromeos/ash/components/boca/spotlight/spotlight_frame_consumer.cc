@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spotlight frame consumer implementation
+// summary: Implements the remoting FrameConsumer interface by allocating desktop frames and converting them to SkBitmaps for the callback.
+// ---
+
 #include "chromeos/ash/components/boca/spotlight/spotlight_frame_consumer.h"
 
 #include <memory>

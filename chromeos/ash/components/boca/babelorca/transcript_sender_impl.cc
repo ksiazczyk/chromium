@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranscriptSenderImpl implementation
+// summary: Implements sending speech captions to School Tools session members via Tachyon, including transcript part diffing and error limits.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/transcript_sender_impl.h"
 
 #include <cstddef>

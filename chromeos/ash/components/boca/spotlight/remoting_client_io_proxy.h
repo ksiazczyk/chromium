@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remoting client IO proxy header
+// summary: Declares RemotingClientIOProxy and its observer interface for starting and stopping CRD remoting sessions and receiving frames and audio.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_SPOTLIGHT_REMOTING_CLIENT_IO_PROXY_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_SPOTLIGHT_REMOTING_CLIENT_IO_PROXY_H_
 

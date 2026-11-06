@@ -1,6 +1,12 @@
 // Imported from
 // //depot/google3/google/internal/chrome/cros/edu/schooltools/v1/bundle.proto
 
+// ---docerion
+// type: source
+// title: Boca bundle proto definitions
+// summary: Protobuf definitions for Boca content bundles, covering URLs, Classroom content, lock state, and locked navigation options for ChromeOS school tools.
+// ---
+
 syntax = "proto3";
 
 package boca;

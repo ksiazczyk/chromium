@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BabelOrca translation dispatcher implementation
+// summary: Implements the BabelOrca translation dispatcher by delegating translation requests to the live caption TranslationDispatcher.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/babel_orca_translation_dispatcher_impl.h"
 
 #include <memory>

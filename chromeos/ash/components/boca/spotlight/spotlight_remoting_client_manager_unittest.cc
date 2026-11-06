@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spotlight remoting client manager unit tests
+// summary: Unit tests for the Spotlight remoting client manager using a mock OAuth token fetcher, mock IO proxy and test URL loader factory.
+// ---
+
 #include "chromeos/ash/components/boca/spotlight/spotlight_remoting_client_manager.h"
 
 #include <memory>

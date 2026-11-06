@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Boca receiver build configuration
+summary: Defines the receiver and util static libraries plus the unit_tests source set for the Boca kiosk receiver component, listing sources and dependencies.

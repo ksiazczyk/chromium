@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Boca role utility unit tests
+// summary: Unit tests for the Boca role utility covering preference syncable flags and producer, consumer, and enabled checks for affiliated and unaffiliated users.
+// ---
+
 #include "chromeos/ash/components/boca/boca_role_util.h"
 
 #include <array>

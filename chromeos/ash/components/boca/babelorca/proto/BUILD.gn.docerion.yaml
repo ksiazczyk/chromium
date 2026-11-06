@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BabelOrca proto build configuration
+summary: GN build file that defines proto_library targets for the BabelOrca protobuf sources and a separate test-only support target.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk receiver state parser implementation
+// summary: Converts kiosk receiver connection states between JSON strings and Boca proto enum values, defaulting to the unknown state.
+// ---
+
 #include "chromeos/ash/components/boca/receiver/kiosk_receiver_parser.h"
 
 #include <string>

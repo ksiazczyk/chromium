@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tachyon authed client unit tests
+// summary: Tests TachyonAuthedClientImpl request flows with fake client and token manager, covering authed, string-based, and failure cases.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/tachyon_authed_client_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnTask session manager implementation
+// summary: Implements the OnTask session manager that launches and configures the Boca system web app, manages tabs, blocklist, and notifications across a Boca session.
+// ---
+
 #include "chromeos/ash/components/boca/on_task/on_task_session_manager.h"
 
 #include <memory>

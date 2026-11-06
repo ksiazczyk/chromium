@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActiveTabTracker implementation
+// summary: Implements ActiveTabTracker, forwarding active tab change events to BocaSessionManager via UpdateTabActivity.
+// ---
+
 #include "chromeos/ash/components/boca/on_task/activity/active_tab_tracker.h"
 
 #include "base/check_deref.h"

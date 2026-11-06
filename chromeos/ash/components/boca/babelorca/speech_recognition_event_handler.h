@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speech recognition event handler declaration
+// summary: Declares the handler that manages observer lists and forwards speech results and language identification events for BabelOrca.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_SPEECH_RECOGNITION_EVENT_HANDLER_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_SPEECH_RECOGNITION_EVENT_HANDLER_H_
 

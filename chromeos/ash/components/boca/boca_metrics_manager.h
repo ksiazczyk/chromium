@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BocaMetricsManager class declaration
+// summary: Declares the BocaMetricsManager observer class used to gather metrics for producer and consumer Boca sessions.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_BOCA_METRICS_MANAGER_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_BOCA_METRICS_MANAGER_H_
 

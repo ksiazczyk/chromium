@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session parser implementation
+// summary: Converts session JSON responses into Boca proto objects, translating student, device, session state, and navigation enums.
+// ---
+
 #include "chromeos/ash/components/boca/session_api/session_parser.h"
 
 #include <string>

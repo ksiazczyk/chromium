@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Get kiosk receiver request implementation
+// summary: Implements the GET request that fetches kiosk receiver information, including its network traffic annotation and JSON-to-proto response parsing.
+// ---
+
 #include "chromeos/ash/components/boca/receiver/get_kiosk_receiver_request.h"
 
 #include <memory>

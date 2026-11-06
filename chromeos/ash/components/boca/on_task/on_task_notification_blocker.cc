@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnTask notification blocker implementation
+// summary: Implements the message center blocker that only shows notifications whose IDs are allowlisted for OnTask locked mode.
+// ---
+
 #include "chromeos/ash/components/boca/on_task/on_task_notification_blocker.h"
 
 #include "chromeos/ash/components/boca/on_task/notification_constants.h"

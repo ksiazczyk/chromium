@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View screen request header
+// summary: Declares ViewScreenParam and the ViewScreenRequest URL fetch class used to update view screen state in a Boca session.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_SPOTLIGHT_VIEW_SCREEN_REQUEST_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_SPOTLIGHT_VIEW_SCREEN_REQUEST_H_
 

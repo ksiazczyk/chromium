@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth token fetcher implementation
+// summary: Implements OAuth access token fetching through the signin IdentityManager with retry backoff and UMA error reporting for Tachyon requests.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/oauth_token_fetcher.h"
 
 #include <memory>

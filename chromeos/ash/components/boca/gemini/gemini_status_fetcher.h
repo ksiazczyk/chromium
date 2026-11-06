@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GeminiStatusFetcher class declaration
+// summary: Declares the GeminiStatusFetcher API that requests Gemini status and queues callbacks while a request is in progress.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_GEMINI_GEMINI_STATUS_FETCHER_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_GEMINI_GEMINI_STATUS_FETCHER_H_
 

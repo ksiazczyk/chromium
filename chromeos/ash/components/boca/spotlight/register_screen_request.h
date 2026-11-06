@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Register screen request header
+// summary: Declares RegisterScreenRequest and RegisterScreenParam for registering a student screen to a session via a POST request.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_SPOTLIGHT_REGISTER_SCREEN_REQUEST_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_SPOTLIGHT_REGISTER_SCREEN_REQUEST_H_
 

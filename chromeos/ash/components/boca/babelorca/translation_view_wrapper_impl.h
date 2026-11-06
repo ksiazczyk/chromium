@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translation view wrapper class declaration
+// summary: Declares TranslationViewWrapperImpl, the caption bubble translation view wrapper with a translate toggle button and settings access.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_TRANSLATION_VIEW_WRAPPER_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_TRANSLATION_VIEW_WRAPPER_IMPL_H_
 

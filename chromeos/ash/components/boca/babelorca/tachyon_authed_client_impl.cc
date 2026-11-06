@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tachyon authed client implementation
+// summary: Implements OAuth-authenticated Tachyon requests by serializing protobuf payloads on a thread pool and attaching tokens from the token manager.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/tachyon_authed_client_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Get receiver connection info request unit tests
+// summary: Unit tests for GetReceiverConnectionInfoRequest covering URL construction, empty request body, and parsing of connection state and presenter and initiator details.
+// ---
+
 #include "chromeos/ash/components/boca/receiver/get_receiver_connection_info_request.h"
 
 #include <memory>

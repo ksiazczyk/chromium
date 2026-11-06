@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActiveTabTracker class header
+// summary: Declares the ActiveTabTracker class, a BocaWindowObserver that notifies BocaSessionManager when the active tab changes.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_ON_TASK_ACTIVITY_ACTIVE_TAB_TRACKER_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_ON_TASK_ACTIVITY_ACTIVE_TAB_TRACKER_H_
 

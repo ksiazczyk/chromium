@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Teacher screen presenter unit tests
+// summary: Unit tests for the teacher screen presenter covering kiosk receiver start flows, disconnection handling and screen share UMA metrics.
+// ---
+
 #include "chromeos/ash/components/boca/receiver/teacher_screen_presenter_impl.h"
 
 #include <memory>

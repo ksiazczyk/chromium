@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session parser unit tests
+// summary: Unit tests for the session parser that convert Boca session API JSON responses into session proto objects, covering roster, statuses, and configs.
+// ---
+
 #include "chromeos/ash/components/boca/session_api/session_parser.h"
 
 #include "ash/constants/ash_features.h"

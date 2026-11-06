@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Student screen presenter implementation
+// summary: Implements the student screen presenter that starts, monitors, and stops student screen sharing via kiosk receiver API requests.
+// ---
+
 #include "chromeos/ash/components/boca/receiver/student_screen_presenter_impl.h"
 
 #include <memory>

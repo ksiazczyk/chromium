@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boca role utility implementation
+// summary: Registers class management tools preferences and determines whether a user has Boca enabled or holds a producer or consumer role.
+// ---
+
 #include "chromeos/ash/components/boca/boca_role_util.h"
 
 #include "ash/constants/ash_features.h"

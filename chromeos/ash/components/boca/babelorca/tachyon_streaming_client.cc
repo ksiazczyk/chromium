@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TachyonStreamingClient implementation
+// summary: Implements streaming Tachyon requests over SimpleURLLoader, forwarding received data to a Mojo parsing service and logging stream end reasons.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/tachyon_streaming_client.h"
 
 #include <memory>

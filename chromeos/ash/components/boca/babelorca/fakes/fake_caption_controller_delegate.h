@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeCaptionControllerDelegate header for caption controller tests
+// summary: Declares a fake CaptionController delegate that captures caption bubble controller creation, transcriptions and style updates for tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_FAKES_FAKE_CAPTION_CONTROLLER_DELEGATE_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_BABELORCA_FAKES_FAKE_CAPTION_CONTROLLER_DELEGATE_H_
 

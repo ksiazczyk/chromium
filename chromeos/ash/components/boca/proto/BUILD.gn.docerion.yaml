@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Boca proto library
+summary: GN build configuration that compiles the Boca protobuf sources (bundle, receiver, roster, session) into a proto_library target, ChromeOS only.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tachyon registrar
+// summary: Signs in to the Google instant messaging service via SignInGaia requests and stores the resulting Tachyon token for caption messaging.
+// ---
+
 #include "chromeos/ash/components/boca/babelorca/tachyon_registrar.h"
 
 #include <memory>

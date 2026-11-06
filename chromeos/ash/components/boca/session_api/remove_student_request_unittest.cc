@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RemoveStudentRequest unit tests
+// summary: Tests RemoveStudentRequest against an embedded test server, covering successful and failed student removal responses.
+// ---
+
 #include "chromeos/ash/components/boca/session_api/remove_student_request.h"
 
 #include <memory>

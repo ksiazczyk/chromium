@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BocaMetricsManager implementation
+// summary: Implements a session observer that records metrics such as active students, join codes, tabs, and locked mode durations.
+// ---
+
 #include "chromeos/ash/components/boca/boca_metrics_manager.h"
 
 #include <algorithm>

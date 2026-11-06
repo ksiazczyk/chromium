@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session parser header
+// summary: Declares helpers that parse session JSON into Boca protos and serialize roster and config protos back to JSON.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOCA_SESSION_API_SESSION_PARSER_H_
 #define CHROMEOS_ASH_COMPONENTS_BOCA_SESSION_API_SESSION_PARSER_H_
 
