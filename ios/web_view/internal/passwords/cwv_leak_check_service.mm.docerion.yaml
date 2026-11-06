@@ -1,0 +1,4 @@
+# Docerion header of cwv_leak_check_service.mm.
+type: source
+title: CWVLeakCheckService implementation
+summary: Implements the Objective-C leak check service that bridges the C++ bulk leak check service state and per-credential results to registered observers.

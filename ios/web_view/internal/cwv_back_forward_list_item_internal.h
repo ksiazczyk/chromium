@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CWVBackForwardListItem internal header
+// summary: Declares the internal designated initializer and unique ID property for back/forward list items.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_CWV_BACK_FORWARD_LIST_ITEM_INTERNAL_H_
 #define IOS_WEB_VIEW_INTERNAL_CWV_BACK_FORWARD_LIST_ITEM_INTERNAL_H_
 

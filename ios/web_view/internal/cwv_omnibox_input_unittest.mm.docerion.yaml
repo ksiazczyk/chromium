@@ -1,0 +1,4 @@
+# Docerion header of cwv_omnibox_input_unittest.mm.
+type: test
+title: CWVOmniboxInput unit tests
+summary: Tests that CWVOmniboxInput preserves text, maps input types, and canonicalizes URLs correctly.

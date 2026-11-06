@@ -1,0 +1,4 @@
+# Docerion header of web_view_component_updater_configurator.mm.
+type: source
+title: WebView component updater configurator implementation
+summary: Implements WebViewConfigurator, an update_client::Configurator providing update URLs, delays, and network, downloader, unzipper, patcher and cache factories for iOS WebView component updates.

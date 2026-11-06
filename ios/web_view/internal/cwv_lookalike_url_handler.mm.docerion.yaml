@@ -1,0 +1,4 @@
+# Docerion header of cwv_lookalike_url_handler.mm.
+type: source
+title: CWVLookalikeURLHandler implementation
+summary: Implements the lookalike URL handler that displays interstitial HTML and commits decisions to proceed, open a safe URL, or go back and close.

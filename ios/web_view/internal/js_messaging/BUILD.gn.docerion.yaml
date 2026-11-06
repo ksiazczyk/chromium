@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the cwv_messaging_js TypeScript target
+summary: GN build file defining the cwv_messaging_js optimized TypeScript target from cwv_messaging.ts, with dependencies on gcrweb and util_scripts.

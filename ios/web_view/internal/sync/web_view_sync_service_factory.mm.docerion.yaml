@@ -1,0 +1,4 @@
+# Docerion header of web_view_sync_service_factory.mm.
+type: source
+title: WebView sync service factory implementation
+summary: Creates the browser sync service, wiring data type controllers and disabling all user sync types except autofill and passwords.

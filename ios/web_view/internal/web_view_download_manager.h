@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewDownloadManager class declaration
+// summary: Declares the class handling browser downloads in ios/web_view as a web::DownloadControllerDelegate.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_WEB_VIEW_DOWNLOAD_MANAGER_H_
 #define IOS_WEB_VIEW_INTERNAL_WEB_VIEW_DOWNLOAD_MANAGER_H_
 

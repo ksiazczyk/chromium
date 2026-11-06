@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CWVPreferences internal header
+// summary: Declares the private PrefService-based initializer and shutdown method for CWVPreferences.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_CWV_PREFERENCES_INTERNAL_H_
 #define IOS_WEB_VIEW_INTERNAL_CWV_PREFERENCES_INTERNAL_H_
 

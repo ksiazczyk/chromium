@@ -1,0 +1,4 @@
+# Docerion header of web_view_translate_service.mm.
+type: source
+title: WebViewTranslateService implementation
+summary: Implements WebViewTranslateService, initializing and shutting down the translate download manager and controlling when translate resource requests are allowed.

@@ -1,0 +1,4 @@
+# Docerion header of cwv_trusted_vault_observer_unittest.mm.
+type: test
+title: CWVTrustedVaultObserver unit tests
+summary: Unit tests for CWVTrustedVaultObserver initialization and equality semantics.

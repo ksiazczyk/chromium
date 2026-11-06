@@ -1,0 +1,4 @@
+# Docerion header of web_view_java_script_dialog_presenter.mm.
+type: source
+title: WebViewJavaScriptDialogPresenter implementation
+summary: Implements JavaScript dialog presentation by invoking the corresponding CWVUIDelegate methods for alert, confirm and prompt panels.

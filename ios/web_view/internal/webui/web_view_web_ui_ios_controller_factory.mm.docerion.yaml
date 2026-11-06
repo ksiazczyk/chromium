@@ -1,0 +1,4 @@
+# Docerion header of web_view_web_ui_ios_controller_factory.mm.
+type: source
+title: WebView WebUIIOS controller factory implementation
+summary: Implements the factory that selects and creates WebUIIOS controllers by URL host, mapping the sync internals host to WebViewSyncInternalsUI.

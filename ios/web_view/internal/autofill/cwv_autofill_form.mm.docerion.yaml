@@ -1,0 +1,4 @@
+# Docerion header of cwv_autofill_form.mm.
+type: source
+title: CWVAutofillForm implementation
+summary: Implements CWVAutofillForm by deriving the form name and type flags for addresses, credit cards, and passwords from an autofill FormStructure.

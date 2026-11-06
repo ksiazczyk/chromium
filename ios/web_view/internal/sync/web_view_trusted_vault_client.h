@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView trusted vault client header
+// summary: Declares the Chrome WebView implementation of TrustedVaultClient that uses the trusted vault service to store shared sync keys.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_SYNC_WEB_VIEW_TRUSTED_VAULT_CLIENT_H_
 #define IOS_WEB_VIEW_INTERNAL_SYNC_WEB_VIEW_TRUSTED_VAULT_CLIENT_H_
 

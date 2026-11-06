@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill log router factory header
+// summary: Declares a keyed service factory that associates autofill LogRouter instances with web::BrowserState and returns null for off-the-record states.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_AUTOFILL_WEB_VIEW_AUTOFILL_LOG_ROUTER_FACTORY_H_
 #define IOS_WEB_VIEW_INTERNAL_AUTOFILL_WEB_VIEW_AUTOFILL_LOG_ROUTER_FACTORY_H_
 

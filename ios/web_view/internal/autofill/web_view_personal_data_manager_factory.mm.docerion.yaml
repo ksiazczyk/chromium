@@ -1,0 +1,4 @@
+# Docerion header of web_view_personal_data_manager_factory.mm.
+type: source
+title: WebView Personal Data Manager Factory Implementation
+summary: Implements the PersonalDataManager factory, building the service per browser state with dependencies on identity, web data, sync, and autofill image fetcher services.

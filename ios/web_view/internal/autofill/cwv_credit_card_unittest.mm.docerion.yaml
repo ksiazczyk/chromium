@@ -1,0 +1,4 @@
+# Docerion header of cwv_credit_card_unittest.mm.
+type: test
+title: CWVCreditCard unit tests
+summary: Unit tests verifying CWVCreditCard initialization, wrapped card properties such as number and expiry, and network icon scale.

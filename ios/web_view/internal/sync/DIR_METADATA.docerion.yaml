@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Sync directory metadata
+summary: Declares metadata mixins so the sync directory inherits the common sync component metadata.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CWVMetricsProvider internal header
+// summary: Internal header declaring the private initWithHistogramManager initializer used to construct CWVMetricsProvider with a wrapped histogram manager.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_METRICS_CWV_METRICS_PROVIDER_INTERNAL_H_
 #define IOS_WEB_VIEW_INTERNAL_METRICS_CWV_METRICS_PROVIDER_INTERNAL_H_
 

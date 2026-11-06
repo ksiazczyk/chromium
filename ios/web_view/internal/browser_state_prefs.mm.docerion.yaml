@@ -1,0 +1,4 @@
+# Docerion header of browser_state_prefs.mm.
+type: source
+title: Browser state preferences implementation
+summary: Registers translate, history, language, autofill, password, signin, sync and safe browsing profile preferences and migrates obsolete WebView prefs.

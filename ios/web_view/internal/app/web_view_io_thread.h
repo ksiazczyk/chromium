@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewIOThread class header
+// summary: Declares WebViewIOThread, which holds state initialized, cleaned up, and primarily used on the IO thread, extending io_thread::IOSIOThread.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_APP_WEB_VIEW_IO_THREAD_H_
 #define IOS_WEB_VIEW_INTERNAL_APP_WEB_VIEW_IO_THREAD_H_
 

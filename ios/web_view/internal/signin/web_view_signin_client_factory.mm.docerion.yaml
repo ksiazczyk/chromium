@@ -1,0 +1,4 @@
+# Docerion header of web_view_signin_client_factory.mm.
+type: source
+title: WebView sign-in client factory implementation
+summary: Implements WebViewSigninClientFactory, which provides a per-browser-state IOSWebViewSigninClient keyed service instance for iOS WebView.

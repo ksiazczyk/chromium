@@ -1,0 +1,4 @@
+# Docerion header of cwv_preferences_unittest.mm.
+type: test
+title: CWVPreferences unit tests
+summary: Tests CWVPreferences getters and setters using a temporary PrefService with registered prefs.

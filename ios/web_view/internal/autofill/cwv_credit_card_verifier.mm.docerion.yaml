@@ -1,0 +1,4 @@
+# Docerion header of cwv_credit_card_verifier.mm.
+type: source
+title: CWVCreditCardVerifier implementation
+summary: Implements the credit card verifier that drives the unmask prompt controller and maps payments RPC results to CWV verification error codes.

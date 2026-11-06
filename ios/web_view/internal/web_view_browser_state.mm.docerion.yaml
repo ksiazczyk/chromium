@@ -1,0 +1,4 @@
+# Docerion header of web_view_browser_state.mm.
+type: source
+title: WebViewBrowserState implementation
+summary: Implements WebViewBrowserState, setting up profile paths, preferences, cookie store, request context and incognito behaviour.

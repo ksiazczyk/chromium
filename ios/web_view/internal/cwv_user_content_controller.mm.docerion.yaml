@@ -1,0 +1,4 @@
+# Docerion header of cwv_user_content_controller.mm.
+type: source
+title: CWVUserContentController implementation
+summary: Implements the user content controller that manages user scripts and JavaScript message handlers for a web view configuration.

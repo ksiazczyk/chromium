@@ -1,0 +1,4 @@
+# Docerion header of web_view_identity_manager_factory.mm.
+type: source
+title: WebViewIdentityManagerFactory implementation
+summary: Implements the IdentityManager factory for iOS web view, building the token service, account tracker, and signin client dependencies per browser state.

@@ -1,0 +1,4 @@
+# Docerion header of web_view_sync_invalidations_service_factory.mm.
+type: source
+title: WebView sync invalidations service factory implementation
+summary: Builds SyncInvalidationsServiceImpl instances per browser state using the GCM profile service and Instance ID services as dependencies.

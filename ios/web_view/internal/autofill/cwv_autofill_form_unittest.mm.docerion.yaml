@@ -1,0 +1,4 @@
+# Docerion header of cwv_autofill_form_unittest.mm.
+type: test
+title: CWVAutofillForm unit tests
+summary: Unit tests verifying CWVAutofillForm initialization, including the form name and the address, credit card, and password type flags.

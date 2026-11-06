@@ -1,0 +1,4 @@
+# Docerion header of web_view_safe_browsing_client.mm.
+type: source
+title: WebViewSafeBrowsingClient implementation
+summary: Implements WebViewSafeBrowsingClient, returning the Safe Browsing service and v5 protocol manager while stubbing out real-time lookups, variations, and client-side detection.

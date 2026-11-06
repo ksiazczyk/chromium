@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewMessageHandlerJavaScriptFeature class declaration
+// summary: Declares a JavaScript feature that routes webpage messages posted to the CWVWebViewMessage handler to callbacks registered per command.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_WEB_VIEW_MESSAGE_HANDLER_JAVA_SCRIPT_FEATURE_H_
 #define IOS_WEB_VIEW_INTERNAL_WEB_VIEW_MESSAGE_HANDLER_JAVA_SCRIPT_FEATURE_H_
 

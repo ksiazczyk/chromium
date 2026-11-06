@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CWVLeakCheckService internal header
+// summary: Internal header declaring the designated initializer with a BulkLeakCheckServiceInterface and the shutDown method for CWVLeakCheckService.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_PASSWORDS_CWV_LEAK_CHECK_SERVICE_INTERNAL_H_
 #define IOS_WEB_VIEW_INTERNAL_PASSWORDS_CWV_LEAK_CHECK_SERVICE_INTERNAL_H_
 

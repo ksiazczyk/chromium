@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewProfileMetricsServiceFactory header
+// summary: Declares a singleton BrowserStateKeyedServiceFactory that owns ProfileMetricsService instances and associates them with WebView browser states.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_METRICS_WEB_VIEW_PROFILE_METRICS_SERVICE_FACTORY_H_
 #define IOS_WEB_VIEW_INTERNAL_METRICS_WEB_VIEW_PROFILE_METRICS_SERVICE_FACTORY_H_
 

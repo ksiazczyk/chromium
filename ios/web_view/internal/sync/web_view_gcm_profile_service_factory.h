@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView GCM profile service factory header
+// summary: Declares the singleton factory that owns GCMProfileService instances for WebViewBrowserState and defines the GCM product category used for subtypes.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_SYNC_WEB_VIEW_GCM_PROFILE_SERVICE_FACTORY_H_
 #define IOS_WEB_VIEW_INTERNAL_SYNC_WEB_VIEW_GCM_PROFILE_SERVICE_FACTORY_H_
 

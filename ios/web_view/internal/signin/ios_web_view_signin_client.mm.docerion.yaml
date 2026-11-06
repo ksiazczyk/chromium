@@ -1,0 +1,4 @@
+# Docerion header of ios_web_view_signin_client.mm.
+type: source
+title: IOSWebViewSigninClient implementation
+summary: Implements the signin client for iOS web view, providing prefs, URL loader and cookie manager access, network call delaying, and Gaia auth fetcher creation.

@@ -1,0 +1,4 @@
+# Docerion header of cwv_metrics_provider_unittest.mm.
+type: test
+title: CWVMetricsProvider unit tests
+summary: Unit tests verifying that consumeMetrics returns logged histogram deltas as UMA protobuf data and yields no deltas on a second call.

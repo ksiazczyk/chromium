@@ -1,0 +1,4 @@
+# Docerion header of web_view_trusted_vault_client.mm.
+type: source
+title: WebView trusted vault client implementation
+summary: Bridges trusted vault key fetching and observer handling to the CWVTrustedVaultProvider supplied by the embedder's sync controller.

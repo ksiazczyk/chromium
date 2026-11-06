@@ -1,0 +1,4 @@
+# Docerion header of web_view_translate_client.mm.
+type: source
+title: WebViewTranslateClient implementation
+summary: Implements WebViewTranslateClient, wiring the translate manager, language services, and the CWV translation controller for language detection events.

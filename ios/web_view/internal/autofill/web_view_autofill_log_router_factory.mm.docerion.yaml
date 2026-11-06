@@ -1,0 +1,4 @@
+# Docerion header of web_view_autofill_log_router_factory.mm.
+type: source
+title: Autofill log router factory implementation
+summary: Builds and provides a per-browser-state autofill LogRouter service used for autofill internals logging.

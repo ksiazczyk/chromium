@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CWVNavigationAction internal header
+// summary: Declares the designated initializer of CWVNavigationAction for internal creation with request, user-initiated flag, and navigation type.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_CWV_NAVIGATION_ACTION_INTERNAL_H_
 #define IOS_WEB_VIEW_INTERNAL_CWV_NAVIGATION_ACTION_INTERNAL_H_
 

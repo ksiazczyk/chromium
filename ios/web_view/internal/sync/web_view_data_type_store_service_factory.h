@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data type store service factory header
+// summary: Declares the keyed service factory that associates DataTypeStoreService instances with WebViewBrowserState.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_SYNC_WEB_VIEW_DATA_TYPE_STORE_SERVICE_FACTORY_H_
 #define IOS_WEB_VIEW_INTERNAL_SYNC_WEB_VIEW_DATA_TYPE_STORE_SERVICE_FACTORY_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of cwv_identity_unittest.mm.
+type: test
+title: CWVIdentity unit tests
+summary: Unit tests verifying that CWVIdentity initialization stores email, full name, and GAIA ID correctly.

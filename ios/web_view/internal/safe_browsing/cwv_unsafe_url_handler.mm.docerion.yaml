@@ -1,0 +1,4 @@
+# Docerion header of cwv_unsafe_url_handler.mm.
+type: source
+title: CWVUnsafeURLHandler implementation for unsafe URL interstitials
+summary: Implements CWVUnsafeURLHandler, mapping Safe Browsing threat types to public types and handling interstitial HTML display, proceed, and go-back actions for unsafe navigations.

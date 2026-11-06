@@ -1,0 +1,4 @@
+# Docerion header of cwv_x509_certificate.mm.
+type: source
+title: CWVX509Certificate implementation
+summary: Implements the CWVX509Certificate wrapper around net::X509Certificate, exposing the issuer display name and certificate expiry date.

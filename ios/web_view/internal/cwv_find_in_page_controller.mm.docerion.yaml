@@ -1,0 +1,4 @@
+# Docerion header of cwv_find_in_page_controller.mm.
+type: source
+title: CWVFindInPageController implementation
+summary: Implements find-in-page search, next and previous match navigation and stop actions on top of web::FindInPageManager for a WebState.

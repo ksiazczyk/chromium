@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewIdentityManagerFactory header
+// summary: Declares WebViewIdentityManagerFactory, a singleton keyed service factory associating IdentityManager instances with browser states.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_SIGNIN_WEB_VIEW_IDENTITY_MANAGER_FACTORY_H_
 #define IOS_WEB_VIEW_INTERNAL_SIGNIN_WEB_VIEW_IDENTITY_MANAGER_FACTORY_H_
 

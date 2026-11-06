@@ -1,0 +1,4 @@
+# Docerion header of cwv_omnibox_input.mm.
+type: source
+title: CWVOmniboxInput implementation
+summary: Implements omnibox input classification by wrapping Chromium's AutocompleteInput with a scheme classifier.

@@ -1,0 +1,4 @@
+# Docerion header of cwv_autofill_prefs.mm.
+type: source
+title: CWVAutofill preferences implementation
+summary: Registers CWVAutofill boolean preferences, clears the obsolete safe lifecycle pref, and implements getters and setters for autofill settings.

@@ -1,0 +1,4 @@
+# Docerion header of cwv_navigation_response.mm.
+type: source
+title: CWVNavigationResponse implementation
+summary: Implements the CWVNavigationResponse class that wraps a URL response and a main-frame flag.

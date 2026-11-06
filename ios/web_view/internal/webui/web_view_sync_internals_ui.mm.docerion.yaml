@@ -1,0 +1,4 @@
+# Docerion header of web_view_sync_internals_ui.mm.
+type: source
+title: WebView sync internals UI implementation
+summary: Implements WebViewSyncInternalsUI, treating sync start requests as no-ops because ios/web_view supports sync only in transport mode.

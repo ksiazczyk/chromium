@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile password store factory header
+// summary: Declares the refcounted keyed-service factory that provides the profile PasswordStore per WebViewBrowserState.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_PASSWORDS_WEB_VIEW_PROFILE_PASSWORD_STORE_FACTORY_H_
 #define IOS_WEB_VIEW_INTERNAL_PASSWORDS_WEB_VIEW_PROFILE_PASSWORD_STORE_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView sync service factory header
+// summary: Declares the singleton keyed service factory that owns a SyncService instance associated with each WebView browser state.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_SYNC_WEB_VIEW_SYNC_SERVICE_FACTORY_H_
 #define IOS_WEB_VIEW_INTERNAL_SYNC_WEB_VIEW_SYNC_SERVICE_FACTORY_H_
 

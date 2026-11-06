@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Sync directory owners
+summary: Lists code owners for the sync directory and sets per-file review rules for BUILD.gn changes.

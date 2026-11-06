@@ -1,0 +1,4 @@
+# Docerion header of cwv_autofill_controller_unittest.mm.
+type: test
+title: CWVAutofillController unit tests
+summary: Unit tests covering CWVAutofillController behavior, including suggestions, card unmasking, and password flows.

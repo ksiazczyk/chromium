@@ -1,0 +1,4 @@
+# Docerion header of web_view_web_state_policy_decider.mm.
+type: source
+title: WebViewWebStatePolicyDecider implementation
+summary: Implements the policy decider by forwarding navigation actions and responses to the CWVNavigationDelegate, preferring the decision handler API over the deprecated one.

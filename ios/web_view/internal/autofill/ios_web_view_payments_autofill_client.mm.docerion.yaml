@@ -1,0 +1,4 @@
+# Docerion header of ios_web_view_payments_autofill_client.mm.
+type: source
+title: IOSWebViewPaymentsAutofillClient implementation
+summary: Implements the iOS WebView payments autofill client, wiring payments network interfaces and delegating UI flows to the CWV autofill client bridge.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewWebStatePolicyDecider class header
+// summary: Declares a web::WebStatePolicyDecider implementation that delegates navigation request and response decisions to the CWVWebView navigation delegate.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_WEB_VIEW_WEB_STATE_POLICY_DECIDER_H_
 #define IOS_WEB_VIEW_INTERNAL_WEB_VIEW_WEB_STATE_POLICY_DECIDER_H_
 

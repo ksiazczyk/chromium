@@ -1,0 +1,4 @@
+# Docerion header of cwv_weak_check_utils_unittest.mm.
+type: test
+title: CWVWeakCheckUtils unit tests
+summary: Unit tests verifying that weak passwords are flagged as weak and strong passwords are not by the weak check utility.

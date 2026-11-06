@@ -1,0 +1,4 @@
+# Docerion header of account_fetcher_factory_ios_web_view.mm.
+type: source
+title: AccountFetcherFactoryIOSWebView implementation
+summary: Implements creation of the GAIA account info fetcher and the iOS WebView account capabilities fetcher.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView device info sync service factory header
+// summary: Declares the singleton factory that owns DeviceInfoSyncService instances associated with WebViewBrowserState.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_SYNC_WEB_VIEW_DEVICE_INFO_SYNC_SERVICE_FACTORY_H_
 #define IOS_WEB_VIEW_INTERNAL_SYNC_WEB_VIEW_DEVICE_INFO_SYNC_SERVICE_FACTORY_H_
 

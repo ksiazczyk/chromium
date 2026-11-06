@@ -1,0 +1,4 @@
+# Docerion header of cwv_flags_unittest.mm.
+type: test
+title: CWVFlags unit tests
+summary: Tests the usesSyncAndWalletSandbox getter and setter of CWVFlags against an in-memory preference service.

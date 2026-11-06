@@ -1,0 +1,4 @@
+# Docerion header of cwv_trusted_vault_observer.mm.
+type: source
+title: CWVTrustedVaultObserver implementation
+summary: Bridges trusted vault provider callbacks to the native TrustedVaultClient observer.

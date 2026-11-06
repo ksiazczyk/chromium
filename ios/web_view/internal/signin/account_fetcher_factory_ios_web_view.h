@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountFetcherFactoryIOSWebView header
+// summary: Declares a factory that disables capabilities fetching for iOS WebView and creates account info and capabilities fetchers.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_SIGNIN_ACCOUNT_FETCHER_FACTORY_IOS_WEB_VIEW_H_
 #define IOS_WEB_VIEW_INTERNAL_SIGNIN_ACCOUNT_FETCHER_FACTORY_IOS_WEB_VIEW_H_
 

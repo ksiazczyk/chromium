@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView web client header
+// summary: Declares the WebView implementation of web::WebClient providing user agent, resources, JavaScript features, and error pages.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_WEB_VIEW_WEB_CLIENT_H_
 #define IOS_WEB_VIEW_INTERNAL_WEB_VIEW_WEB_CLIENT_H_
 

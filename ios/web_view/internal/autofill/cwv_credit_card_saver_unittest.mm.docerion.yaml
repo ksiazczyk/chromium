@@ -1,0 +1,4 @@
+# Docerion header of cwv_credit_card_saver_unittest.mm.
+type: test
+title: CWVCreditCardSaver unit tests
+summary: Unit tests covering CWVCreditCardSaver initialization, legal message rendering and ignored, declined and accepted save decisions.

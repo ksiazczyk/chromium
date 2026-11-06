@@ -1,0 +1,4 @@
+# Docerion header of cwv_lookalike_url_handler_unittest.mm.
+type: test
+title: CWVLookalikeURLHandler unit tests
+summary: Tests safe URL handling, interstitial HTML callbacks, and decision handling of the lookalike URL handler using fake web state objects.

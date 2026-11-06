@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewLanguageModelManagerFactory header
+// summary: Declares the keyed service factory that provides a LanguageModelManager for each WebView browser state.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_LANGUAGE_WEB_VIEW_LANGUAGE_MODEL_MANAGER_FACTORY_H_
 #define IOS_WEB_VIEW_INTERNAL_LANGUAGE_WEB_VIEW_LANGUAGE_MODEL_MANAGER_FACTORY_H_
 

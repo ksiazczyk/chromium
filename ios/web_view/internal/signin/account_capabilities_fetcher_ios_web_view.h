@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountCapabilitiesFetcherIOSWebView header
+// summary: Declares the iOS WebView implementation of AccountCapabilitiesFetcher for fetching account capabilities.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_SIGNIN_ACCOUNT_CAPABILITIES_FETCHER_IOS_WEB_VIEW_H_
 #define IOS_WEB_VIEW_INTERNAL_SIGNIN_ACCOUNT_CAPABILITIES_FETCHER_IOS_WEB_VIEW_H_
 

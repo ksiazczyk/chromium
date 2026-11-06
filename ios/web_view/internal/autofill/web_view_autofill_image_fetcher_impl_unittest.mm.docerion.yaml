@@ -1,0 +1,4 @@
+# Docerion header of web_view_autofill_image_fetcher_impl_unittest.mm.
+type: test
+title: Autofill image fetcher unit tests
+summary: Unit tests verifying card art URL resolution with FIFE parameters, image rescaling to the mocked screen scale, and handling of empty server images.

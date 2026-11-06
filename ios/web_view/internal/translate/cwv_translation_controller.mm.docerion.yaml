@@ -1,0 +1,4 @@
+# Docerion header of cwv_translation_controller.mm.
+type: source
+title: CWVTranslationController implementation
+summary: Implements the iOS WebView translation controller, bridging WebState observation, the translate client, supported languages, and error conversion for the public CWVTranslationController API.

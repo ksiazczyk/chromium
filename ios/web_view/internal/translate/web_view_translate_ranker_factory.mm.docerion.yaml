@@ -1,0 +1,4 @@
+# Docerion header of web_view_translate_ranker_factory.mm.
+type: source
+title: WebViewTranslateRankerFactory implementation
+summary: Implements the TranslateRanker factory, building a TranslateRankerImpl per browser state with logging disabled and sharing the recording browser state.

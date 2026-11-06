@@ -1,0 +1,4 @@
+# Docerion header of web_view_v5_get_hash_protocol_manager_factory_unittest.mm.
+type: test
+title: WebView V5 GetHash protocol manager factory unit tests
+summary: Unit tests verifying the factory returns non-null, distinct protocol manager instances for regular and incognito browser states.

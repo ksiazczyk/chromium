@@ -1,0 +1,4 @@
+# Docerion header of cwv_preferences.mm.
+type: source
+title: CWVPreferences implementation
+summary: Implements preference toggles for translation, autofill, passwords, and safe browsing backed by a PrefService.

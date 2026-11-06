@@ -1,0 +1,4 @@
+# Docerion header of web_view_sync_client.mm.
+type: source
+title: WebView sync client implementation
+summary: Implements the iOS WebView sync client that supplies the pref service, identity manager, trusted vault client, and sync engine factory to the sync stack.

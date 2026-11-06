@@ -1,0 +1,4 @@
+# Docerion header of cwv_card_unmask_challenge_option.mm.
+type: source
+title: CWVCardUnmaskChallengeOption implementation
+summary: Implements the Objective-C wrapper that maps C++ card unmask challenge options, including challenge type conversion, to CWV properties.

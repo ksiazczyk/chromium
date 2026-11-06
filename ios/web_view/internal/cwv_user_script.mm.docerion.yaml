@@ -1,0 +1,4 @@
+# Docerion header of cwv_user_script.mm.
+type: source
+title: CWVUserScript implementation
+summary: Implements the CWVUserScript class holding script source, main-frame-only flag and injection time.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for ios/web_view/internal/signin
+summary: Lists the owners to consult for refactorings and trivial changes, deferring non-trivial behavior changes to ios/web_view/OWNERS.

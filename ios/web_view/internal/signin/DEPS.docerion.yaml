@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the signin directory
+summary: Defines the allowed include dependencies for ios/web_view/internal/signin, permitting components/signin/internal/identity_manager.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser state preferences header
+// summary: Declares functions to register browser state preferences and to clear or migrate obsolete ones.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_BROWSER_STATE_PREFS_H_
 #define IOS_WEB_VIEW_INTERNAL_BROWSER_STATE_PREFS_H_
 

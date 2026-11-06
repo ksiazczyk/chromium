@@ -1,0 +1,4 @@
+# Docerion header of web_view_message_handler_java_script_feature.mm.
+type: source
+title: WebView message handler JavaScript feature
+summary: Singleton JavaScript feature that routes script messages from web pages to registered command handlers in the iOS WebView.

@@ -1,0 +1,4 @@
+# Docerion header of account_capabilities_fetcher_ios_web_view.mm.
+type: source
+title: AccountCapabilitiesFetcherIOSWebView implementation
+summary: Implements the iOS WebView capabilities fetcher, whose StartImpl immediately completes the fetch, effectively disabling capability fetching.

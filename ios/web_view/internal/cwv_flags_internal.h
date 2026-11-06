@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CWVFlags internal header
+// summary: Declares sandbox flag name constants and internal CWVFlags methods, including conversion of flags into command line switches.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_CWV_FLAGS_INTERNAL_H_
 #define IOS_WEB_VIEW_INTERNAL_CWV_FLAGS_INTERNAL_H_
 

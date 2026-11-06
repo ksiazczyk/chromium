@@ -1,0 +1,4 @@
+# Docerion header of web_view_profile_metrics_service_factory.mm.
+type: source
+title: WebViewProfileMetricsServiceFactory implementation
+summary: Implements the metrics service factory, building ProfileMetricsService instances and routing browser states to their recording browser state.

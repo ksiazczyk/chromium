@@ -1,0 +1,4 @@
+# Docerion header of cwv_reuse_check_service.mm.
+type: source
+title: CWVReuseCheckService implementation
+summary: Implements reuse checking by grouping credentials with the affiliation service and returning the set of reused passwords through a completion handler.

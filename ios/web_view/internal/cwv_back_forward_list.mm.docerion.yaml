@@ -1,0 +1,4 @@
+# Docerion header of cwv_back_forward_list.mm.
+type: source
+title: CWVBackForwardList implementation
+summary: Implements the back/forward list and a lazy array wrapper over the navigation manager to avoid recreating item arrays.

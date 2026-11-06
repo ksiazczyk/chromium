@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewAutofillImageFetcherFactory header
+// summary: Declares a keyed service factory that owns AutofillImageFetcher instances and associates them with browser states.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_AUTOFILL_WEB_VIEW_AUTOFILL_IMAGE_FETCHER_FACTORY_H_
 #define IOS_WEB_VIEW_INTERNAL_AUTOFILL_WEB_VIEW_AUTOFILL_IMAGE_FETCHER_FACTORY_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of cwv_flags.mm.
+type: source
+title: CWVFlags implementation
+summary: Implements the CWVFlags singleton that stores sync and wallet sandbox feature flags in preferences and exposes them through the public API.

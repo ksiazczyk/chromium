@@ -1,0 +1,4 @@
+# Docerion header of web_view_autofill_image_fetcher_impl.mm.
+type: source
+title: Autofill image fetcher implementation
+summary: Resolves credit card art image URLs with FIFE size parameters and rescales fetched images to the iOS screen scale with rounded corners and a border.

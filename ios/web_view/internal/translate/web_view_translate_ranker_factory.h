@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewTranslateRankerFactory class declaration
+// summary: Declares a keyed service factory that associates a TranslateRanker instance with each WebViewBrowserState.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_TRANSLATE_WEB_VIEW_TRANSLATE_RANKER_FACTORY_H_
 #define IOS_WEB_VIEW_INTERNAL_TRANSLATE_WEB_VIEW_TRANSLATE_RANKER_FACTORY_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of browser_state_keyed_service_factories.mm.
+type: source
+title: Browser state keyed service factories implementation
+summary: Instantiates all WebView keyed service factories covering autofill, passwords, language, metrics, safe browsing, signin, sync, translate and web data.

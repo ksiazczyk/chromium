@@ -1,0 +1,4 @@
+# Docerion header of web_view_accept_languages_service_factory.mm.
+type: source
+title: WebViewAcceptLanguagesServiceFactory implementation
+summary: Implements the factory that builds an AcceptLanguagesService keyed to each WebView browser state's preferences.

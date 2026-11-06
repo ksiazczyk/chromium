@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CWVTranslationLanguage internal header
+// summary: Declares the internal designated initializer for CWVTranslationLanguage that takes C++ strings for the language code and names.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_TRANSLATE_CWV_TRANSLATION_LANGUAGE_INTERNAL_H_
 #define IOS_WEB_VIEW_INTERNAL_TRANSLATE_CWV_TRANSLATION_LANGUAGE_INTERNAL_H_
 

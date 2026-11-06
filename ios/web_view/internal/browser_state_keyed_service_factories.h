@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser state keyed service factories header
+// summary: Declares the entry point that builds all browser state keyed service factories before the first WebViewBrowserState is constructed.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_BROWSER_STATE_KEYED_SERVICE_FACTORIES_H_
 #define IOS_WEB_VIEW_INTERNAL_BROWSER_STATE_KEYED_SERVICE_FACTORIES_H_
 

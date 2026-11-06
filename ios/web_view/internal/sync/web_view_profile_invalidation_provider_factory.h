@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView profile invalidation provider factory header
+// summary: Declares the keyed service factory that constructs ProfileInvalidationProvider instances wrapping invalidation services for browser states.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_SYNC_WEB_VIEW_PROFILE_INVALIDATION_PROVIDER_FACTORY_H_
 #define IOS_WEB_VIEW_INTERNAL_SYNC_WEB_VIEW_PROFILE_INVALIDATION_PROVIDER_FACTORY_H_
 

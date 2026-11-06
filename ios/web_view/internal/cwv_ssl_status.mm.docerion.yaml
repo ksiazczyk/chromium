@@ -1,0 +1,4 @@
+# Docerion header of cwv_ssl_status.mm.
+type: source
+title: CWVSSLStatus implementation
+summary: Implements CWVSSLStatus, wrapping the internal web::SSLStatus to expose security style, secure content state, certificate status, and certificate.

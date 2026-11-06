@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CWVSSLUtil certificate status conversion header
+// summary: Declares CWVCertStatusFromNetCertStatus, a helper converting net::CertStatus values to the public CWVCertStatus type.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_CWV_SSL_UTIL_H_
 #define IOS_WEB_VIEW_INTERNAL_CWV_SSL_UTIL_H_
 

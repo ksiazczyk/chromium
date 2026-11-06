@@ -1,0 +1,4 @@
+# Docerion header of cwv_sync_controller_unittest.mm.
+type: test
+title: CWVSyncController unit tests
+summary: Unit tests for CWVSyncController covering sync start with an identity and auth error scenarios.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal header for CWVUnsafeURLHandler
+// summary: Declares the private designated initializer of CWVUnsafeURLHandler so internal safe browsing code can construct it with a web state, unsafe resource, and HTML callback.
+// ---
+
 #ifndef IOS_WEB_VIEW_INTERNAL_SAFE_BROWSING_CWV_UNSAFE_URL_HANDLER_INTERNAL_H_
 #define IOS_WEB_VIEW_INTERNAL_SAFE_BROWSING_CWV_UNSAFE_URL_HANDLER_INTERNAL_H_
 

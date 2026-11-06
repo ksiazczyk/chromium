@@ -1,0 +1,4 @@
+# Docerion header of cwv_translation_language_unittest.mm.
+type: test
+title: CWVTranslationLanguage unit tests
+summary: Unit tests for CWVTranslationLanguage covering initialization, auto language creation, and equality based on the language code.

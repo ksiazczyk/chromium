@@ -1,0 +1,4 @@
+# Docerion header of cwv_navigation_type.mm.
+type: source
+title: CWVNavigationType conversion from page transitions
+summary: Converts Chromium ui::PageTransition values into CWVNavigationType values, including qualifiers.

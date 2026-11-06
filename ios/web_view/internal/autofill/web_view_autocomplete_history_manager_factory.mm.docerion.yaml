@@ -1,0 +1,4 @@
+# Docerion header of web_view_autocomplete_history_manager_factory.mm.
+type: source
+title: WebViewAutocompleteHistoryManagerFactory implementation
+summary: Implements the factory that builds and provides AutocompleteHistoryManager services for each WebViewBrowserState.

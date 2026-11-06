@@ -1,0 +1,4 @@
+# Docerion header of cwv_vcn_enrollment_manager.mm.
+type: source
+title: CWVVCNEnrollmentManager implementation
+summary: Implements the VCN enrollment manager that runs accept or decline callbacks exactly once when the user decides on virtual card number enrollment for a credit card.

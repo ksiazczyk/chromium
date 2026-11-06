@@ -1,0 +1,4 @@
+# Docerion header of cwv_weak_check_utils.mm.
+type: source
+title: CWVWeakCheckUtils implementation
+summary: Implements the isPasswordWeak helper that delegates to the password manager weak check utility.

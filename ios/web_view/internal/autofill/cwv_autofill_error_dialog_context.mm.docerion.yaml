@@ -1,0 +1,4 @@
+# Docerion header of cwv_autofill_error_dialog_context.mm.
+type: source
+title: CWVAutofillErrorDialogContext implementation
+summary: Implements CWVAutofillErrorDialogContext, mapping Chromium autofill error dialog types and server messages to their WebView equivalents.
