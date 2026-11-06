@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Security interstitial tab helper unit tests
+// summary: Unit tests for SecurityInterstitialTabHelper covering blocking page association, lifetime, and interstitial display state across main frames and subframes.
+// ---
+
 #include "components/security_interstitials/content/security_interstitial_tab_helper.h"
 
 #include <memory>

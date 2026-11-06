@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Supervised user WebView interstitial styles
+summary: CSS for the supervised user WebView interstitial with light and dark color themes and responsive icon and text sizing.
+*/
+
 body {
   /* Light mode is the default, media queries handle dark mode switching. */
   --foreground-color-light-mode: #444746;

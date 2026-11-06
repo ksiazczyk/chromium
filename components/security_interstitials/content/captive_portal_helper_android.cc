@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android captive portal helper implementation
+// summary: Android JNI implementation of the captive portal helper, reporting network connectivity and captive portal state via the Android network library.
+// ---
+
 #include "components/security_interstitials/content/captive_portal_helper_android.h"
 #include "components/security_interstitials/content/captive_portal_helper.h"
 #include "content/public/browser/browser_thread.h"

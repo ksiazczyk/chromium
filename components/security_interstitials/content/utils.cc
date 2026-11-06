@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform date and time settings launcher
+// summary: Implements LaunchDateAndTimeSettings, opening the OS date and time settings on Android, Linux, macOS and Windows for security interstitials.
+// ---
+
 #include "components/security_interstitials/content/utils.h"
 
 #include <string>

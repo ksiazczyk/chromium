@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL error options mask implementation
+// summary: Implements CalculateSSLErrorOptionsMask, classifying certificate errors as fatal or overridable and building the options bitmask for SSL interstitials.
+// ---
+
 #include "components/security_interstitials/core/ssl_error_options_mask.h"
 
 #include "base/notreached.h"

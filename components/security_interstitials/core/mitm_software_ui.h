@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MITM software interstitial UI header
+// summary: Declares the MITMSoftwareUI class that renders the interstitial for SSL errors caused by MITM software misconfigurations.
+// ---
+
 #ifndef COMPONENTS_SECURITY_INTERSTITIALS_CORE_MITM_SOFTWARE_UI_H_
 #define COMPONENTS_SECURITY_INTERSTITIALS_CORE_MITM_SOFTWARE_UI_H_
 

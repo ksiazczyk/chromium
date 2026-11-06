@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPS-Only Mode HTTP allowlist
+// summary: Declares HttpsOnlyModeAllowlist, which tracks hosts the user allowed to load over HTTP after clicking through an HTTPS-Only Mode interstitial.
+// ---
+
 #ifndef COMPONENTS_SECURITY_INTERSTITIALS_CORE_HTTPS_ONLY_MODE_ALLOWLIST_H_
 #define COMPONENTS_SECURITY_INTERSTITIALS_CORE_HTTPS_ONLY_MODE_ALLOWLIST_H_
 

@@ -2,6 +2,12 @@
    Use of this source code is governed by a BSD-style license that can be
    found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Common CSS for security interstitials
+summary: Shared stylesheet styling buttons, details, checkboxes, links and layout for Chrome security interstitial pages such as SSL and Safe Browsing warnings.
+*/
+
 button {
   border: 0;
   border-radius: 20px;

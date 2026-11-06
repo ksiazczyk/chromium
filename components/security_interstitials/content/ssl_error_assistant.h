@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL error assistant class
+// summary: Declares the helper class that loads and matches SSL error assistant proto data for captive portal certificates, MITM software, and dynamic interstitials.
+// ---
+
 #ifndef COMPONENTS_SECURITY_INTERSTITIALS_CONTENT_SSL_ERROR_ASSISTANT_H_
 #define COMPONENTS_SECURITY_INTERSTITIALS_CONTENT_SSL_ERROR_ASSISTANT_H_
 

@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Styles for the HTTPS-only mode interstitial
+summary: CSS defining link colors, icons, and button styling for the HTTPS-only interstitial, including overrides for the August 2024 refresh.
+*/
+
 html {
   --primary30: #0842A0;
   --primary90: #D3E3FD;

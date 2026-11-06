@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPS-Only Mode interstitial string population
+// summary: Populates localized strings and load-time data for HTTPS-Only Mode blocking pages, including variants for the August 2024 UI refresh and interstitial reasons.
+// ---
+
 #include "components/security_interstitials/core/https_only_mode_ui_util.h"
 
 #include "components/feature_engagement/public/feature_list.h"

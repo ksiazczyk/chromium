@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SSL error options mask unit tests
+// summary: Unit tests verifying CalculateSSLErrorOptionsMask for overridable and non-overridable certificate errors under different override and enforcement settings.
+// ---
+
 #include "components/security_interstitials/core/ssl_error_options_mask.h"
 
 #include "net/base/net_errors.h"

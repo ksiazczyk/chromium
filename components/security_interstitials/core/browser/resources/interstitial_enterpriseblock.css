@@ -3,6 +3,12 @@
  * found in the LICENSE file.
  */
 
+/*docerion
+type: source
+title: Styles for the enterprise block interstitial icon
+summary: CSS that sets the red triangle icon images used by the enterprise block security interstitial.
+*/
+
 .enterprise-block .icon {
   background-image: image-set(
     url(images/1x/triangle_red.png) 1x,

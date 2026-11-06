@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox HTTPS upgrade event enum and histogram name
+// summary: Declares the event enum and histogram name used to record outcomes of omnibox HTTP-to-HTTPS navigation upgrades.
+// ---
+
 #ifndef COMPONENTS_SECURITY_INTERSTITIALS_CORE_OMNIBOX_HTTPS_UPGRADE_METRICS_H_
 #define COMPONENTS_SECURITY_INTERSTITIALS_CORE_OMNIBOX_HTTPS_UPGRADE_METRICS_H_
 

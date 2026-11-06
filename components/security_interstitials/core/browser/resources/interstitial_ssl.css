@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: SSL interstitial styles
+summary: CSS styling the SSL interstitial icon, opt-in checkboxes, and enhanced protection message with dark mode support.
+*/
+
 .ssl .icon {
   background-image: image-set(
       url(images/1x/triangle_red.png) 1x,

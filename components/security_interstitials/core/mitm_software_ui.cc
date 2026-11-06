@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MITM software interstitial UI implementation
+// summary: Implements the interstitial UI shown for SSL errors caused by MITM software, populating localized strings and handling user commands for enterprise and at-home users.
+// ---
+
 #include "components/security_interstitials/core/mitm_software_ui.h"
 
 #include "base/i18n/time_formatting.h"

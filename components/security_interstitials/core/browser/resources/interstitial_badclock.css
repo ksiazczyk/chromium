@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Styles for the bad clock interstitial icon
+summary: CSS that sets the 1x and 2x clock icon images used by the bad clock security interstitial.
+*/
+
 .bad-clock .icon {
   background-image: image-set(
       url(images/1x/clock.png) 1x,

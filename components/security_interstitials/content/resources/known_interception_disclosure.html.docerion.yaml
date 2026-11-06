@@ -1,0 +1,4 @@
+# Docerion header of known_interception_disclosure.html.
+type: source
+title: Known interception disclosure page markup
+summary: Defines the known interception disclosure interstitial page with a warning icon and localized header and body text.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extended reporting opt-in setup for interstitials
+// summary: JavaScript module that sets up the extended Safe Browsing reporting checkbox, privacy link, whitepaper link, and reporting commands on interstitials.
+// ---
+
 import {SecurityInterstitialCommandId, sendCommand} from 'chrome://interstitials/common/resources/interstitial_common.js';
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';
 

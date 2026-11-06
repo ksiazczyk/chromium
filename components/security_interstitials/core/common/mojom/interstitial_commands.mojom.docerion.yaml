@@ -1,0 +1,4 @@
+# Docerion header of interstitial_commands.mojom.
+type: source
+title: InterstitialCommands Mojom interface
+summary: Defines the InterstitialCommands Mojom interface with user actions for security interstitials, such as proceeding, reloading, opening help center, diagnostics, and settings.

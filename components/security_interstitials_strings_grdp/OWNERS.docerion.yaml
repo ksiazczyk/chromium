@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for security interstitials strings
+summary: Delegates code ownership to the security_interstitials OWNERS file and allows any reviewer to approve changes to translation screenshot .png.sha1 files.

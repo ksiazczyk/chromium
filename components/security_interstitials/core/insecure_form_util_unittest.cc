@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Insecure form utility unit tests
+// summary: Unit tests verifying insecure form action detection across HTTPS, HTTP, and opaque origins, including the iOS port override behavior.
+// ---
+
 #include "components/security_interstitials/core/insecure_form_util.h"
 
 #include "build/build_config.h"

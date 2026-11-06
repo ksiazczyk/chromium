@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Known interception disclosure WebUI implementation
+// summary: Implements the WebUI controller and configuration for the disclosure page shown when known TLS interception is detected, registering localized strings and CSS and image resources.
+// ---
+
 #include "components/security_interstitials/content/known_interception_disclosure_ui.h"
 
 #include "build/build_config.h"

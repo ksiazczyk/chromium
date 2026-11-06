@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Safe Browsing interstitial styles
+summary: CSS giving Safe Browsing interstitials their red theme with white text, buttons, icons, and billing variant styling.
+*/
+
 body.safe-browsing {
   --google-red-900: rgb(165, 14, 14);
   --google-red-700: rgb(197, 34, 31);

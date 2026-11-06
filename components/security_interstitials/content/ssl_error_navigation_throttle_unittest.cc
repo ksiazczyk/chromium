@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SSL error navigation throttle unit tests
+// summary: Unit tests for SSLErrorNavigationThrottle using a fake SSL blocking page and mock navigation handles.
+// ---
+
 #include "components/security_interstitials/content/ssl_error_navigation_throttle.h"
 
 #include <memory>

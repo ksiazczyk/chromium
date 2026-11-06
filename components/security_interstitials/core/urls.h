@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security interstitials URL string constants
+// summary: Declares non-translatable URL constants for the SafeBrowsing privacy policy, white paper, and enterprise interstitial help links.
+// ---
+
 #ifndef COMPONENTS_SECURITY_INTERSTITIALS_CORE_URLS_H_
 #define COMPONENTS_SECURITY_INTERSTITIALS_CORE_URLS_H_
 

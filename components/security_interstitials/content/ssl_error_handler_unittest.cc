@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SSL error handler unit tests
+// summary: Unit tests for SSLErrorHandler covering interstitial decisions for captive portals, clock errors, name mismatches, and MITM software.
+// ---
+
 #include "components/security_interstitials/content/ssl_error_handler.h"
 
 #include <memory>

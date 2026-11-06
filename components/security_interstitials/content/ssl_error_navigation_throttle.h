@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL error navigation throttle header
+// summary: Declares SSLErrorNavigationThrottle, which defers certificate-error navigations and cancels them with the interstitial's error page HTML.
+// ---
+
 #ifndef COMPONENTS_SECURITY_INTERSTITIALS_CONTENT_SSL_ERROR_NAVIGATION_THROTTLE_H_
 #define COMPONENTS_SECURITY_INTERSTITIALS_CONTENT_SSL_ERROR_NAVIGATION_THROTTLE_H_
 

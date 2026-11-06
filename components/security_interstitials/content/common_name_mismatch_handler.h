@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common name mismatch handler class declaration
+// summary: Declares CommonNameMismatchHandler, which suggests alternative URLs for ERR_CERT_COMMON_NAME_INVALID errors and manages the checks.
+// ---
+
 #ifndef COMPONENTS_SECURITY_INTERSTITIALS_CONTENT_COMMON_NAME_MISMATCH_HANDLER_H_
 #define COMPONENTS_SECURITY_INTERSTITIALS_CONTENT_COMMON_NAME_MISMATCH_HANDLER_H_
 

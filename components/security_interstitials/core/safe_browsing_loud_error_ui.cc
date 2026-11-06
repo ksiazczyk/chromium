@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Loud Safe Browsing error interstitial UI implementation
+// summary: Implements the full-screen loud Safe Browsing interstitial for malware, harmful, phishing and billing errors on desktop and mobile platforms.
+// ---
+
 #include "components/security_interstitials/core/safe_browsing_loud_error_ui.h"
 
 #include "base/i18n/time_formatting.h"

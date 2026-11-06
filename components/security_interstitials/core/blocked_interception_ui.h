@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blocked interception interstitial UI class
+// summary: Declares BlockedInterceptionUI, which provides interstitial UI for SSL errors caused by blocked interceptions.
+// ---
+
 #ifndef COMPONENTS_SECURITY_INTERSTITIALS_CORE_BLOCKED_INTERCEPTION_UI_H_
 #define COMPONENTS_SECURITY_INTERSTITIALS_CORE_BLOCKED_INTERCEPTION_UI_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for security interstitials
+summary: Defines the allowed include dependencies for the security_interstitials component, listing permitted paths such as content settings, safe browsing, net, and UI headers.

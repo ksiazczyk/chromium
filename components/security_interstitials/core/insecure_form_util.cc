@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Insecure form warning checks
+// summary: Determines whether a form action URL is insecure relative to a secure source origin, with iOS-only port overrides for testing.
+// ---
+
 #include "components/security_interstitials/core/insecure_form_util.h"
 
 #include "base/strings/string_util.h"

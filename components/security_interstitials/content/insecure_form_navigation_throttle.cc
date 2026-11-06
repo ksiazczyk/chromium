@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Insecure form navigation throttle implementation
+// summary: Implements a navigation throttle that detects insecure form submissions and redirects, shows the mixed form interstitial, and updates per-tab interstitial state.
+// ---
+
 #include "components/security_interstitials/content/insecure_form_navigation_throttle.h"
 
 #include <utility>

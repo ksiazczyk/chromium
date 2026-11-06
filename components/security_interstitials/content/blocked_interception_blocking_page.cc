@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blocked interception blocking page implementation
+// summary: Implements the overridable interstitial for SSL errors caused by blocked network interception, using BlockedInterceptionUI for strings and commands.
+// ---
+
 #include "components/security_interstitials/content/blocked_interception_blocking_page.h"
 
 #include "base/strings/string_number_conversions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unsafe resource locator declaration
+// summary: Declares identifiers such as render process id, render frame token and frame tree node id used to globally locate a frame tied to an unsafe resource.
+// ---
+
 #ifndef COMPONENTS_SECURITY_INTERSTITIALS_CORE_UNSAFE_RESOURCE_LOCATOR_H_
 #define COMPONENTS_SECURITY_INTERSTITIALS_CORE_UNSAFE_RESOURCE_LOCATOR_H_
 

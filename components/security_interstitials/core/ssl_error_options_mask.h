@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL error options mask header
+// summary: Defines the SSLErrorOptionsMask bitfield enum for soft override, hard override and strict enforcement, and declares the mask calculation function.
+// ---
+
 #ifndef COMPONENTS_SECURITY_INTERSTITIALS_CORE_SSL_ERROR_OPTIONS_MASK_H_
 #define COMPONENTS_SECURITY_INTERSTITIALS_CORE_SSL_ERROR_OPTIONS_MASK_H_
 

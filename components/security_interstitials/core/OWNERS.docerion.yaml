@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for security interstitials core
+summary: Assigns per-file code owners, delegating Safe Browsing related files to the Safe Browsing team and a specific reviewer.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for security interstitial pages
+summary: GN build file defining the security_interstitial_page static library, its sources, and platform-conditional dependencies for captive portal and WiFi support.

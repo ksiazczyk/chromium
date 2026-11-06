@@ -1,0 +1,4 @@
+# Docerion header of IDS_KNOWN_INTERCEPTION_TITLE.png.sha1.
+type: data
+title: Known interception title screenshot hash
+summary: SHA1 hash of the screenshot PNG for the known interception title string in the security interstitials resources.

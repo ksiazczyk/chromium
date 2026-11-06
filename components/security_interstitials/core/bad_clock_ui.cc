@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bad clock interstitial UI implementation
+// summary: Implements the interstitial UI shown for SSL errors caused by an incorrectly set device clock, including strings and command handling.
+// ---
+
 #include "components/security_interstitials/core/bad_clock_ui.h"
 
 #include "base/i18n/time_formatting.h"

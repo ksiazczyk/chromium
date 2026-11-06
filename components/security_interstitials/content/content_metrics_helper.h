@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content metrics helper class declaration
+// summary: Declares ContentMetricsHelper, a MetricsHelper subclass that adds captive portal metrics support for security interstitials.
+// ---
+
 #ifndef COMPONENTS_SECURITY_INTERSTITIALS_CONTENT_CONTENT_METRICS_HELPER_H_
 #define COMPONENTS_SECURITY_INTERSTITIALS_CONTENT_CONTENT_METRICS_HELPER_H_
 

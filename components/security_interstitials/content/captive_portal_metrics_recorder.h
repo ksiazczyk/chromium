@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Captive portal metrics recorder class declaration
+// summary: Declares CaptivePortalMetricsRecorder, which tracks captive portal probe results for interstitial metrics on the UI thread.
+// ---
+
 #ifndef COMPONENTS_SECURITY_INTERSTITIALS_CONTENT_CAPTIVE_PORTAL_METRICS_RECORDER_H_
 #define COMPONENTS_SECURITY_INTERSTITIALS_CONTENT_CAPTIVE_PORTAL_METRICS_RECORDER_H_
 

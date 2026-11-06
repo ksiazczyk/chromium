@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Security interstitials Android build definition
+summary: GN build file that generates JNI headers and builds the Android Java library for the CaptivePortalHelper and DateAndTimeSettingsHelper classes.

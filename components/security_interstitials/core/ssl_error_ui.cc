@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL error interstitial UI implementation
+// summary: Implements SSLErrorUI, populating localized strings and handling user commands for overridable and non-overridable SSL certificate error pages.
+// ---
+
 #include "components/security_interstitials/core/ssl_error_ui.h"
 
 #include "base/i18n/time_formatting.h"

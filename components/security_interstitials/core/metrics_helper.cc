@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security interstitial metrics helper implementation
+// summary: Records user decisions and interactions on security interstitials as UMA histograms and user metrics actions for various warning types.
+// ---
+
 #include "components/security_interstitials/core/metrics_helper.h"
 
 #include <memory>

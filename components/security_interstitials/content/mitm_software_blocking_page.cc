@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MITM software blocking page implementation
+// summary: Implements the interstitial for SSL errors caused by man-in-the-middle software such as antivirus, firewalls or proxies, delegating UI strings and commands to MITMSoftwareUI.
+// ---
+
 #include "components/security_interstitials/content/mitm_software_blocking_page.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security interstitial preference name declarations
+// summary: Declares preference names controlling mixed forms warning interstitials and domains excluded from lookalike warnings.
+// ---
+
 #ifndef COMPONENTS_SECURITY_INTERSTITIALS_CORE_PREF_NAMES_H_
 #define COMPONENTS_SECURITY_INTERSTITIALS_CORE_PREF_NAMES_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of connection_help.html.
+type: source
+title: Connection help interstitial page markup
+summary: Defines the connection help interstitial page with localized text and expandable sections covering certificate errors, network setup, clock issues and MITM software.

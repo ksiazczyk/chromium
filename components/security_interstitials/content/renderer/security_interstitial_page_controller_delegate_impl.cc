@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interstitial page controller delegate implementation
+// summary: Implements the render frame observer that tracks pending and committed error pages and installs the interstitial page controller once an error page finishes loading.
+// ---
+
 #include "components/security_interstitials/content/renderer/security_interstitial_page_controller_delegate_impl.h"
 
 #include "content/public/renderer/render_frame.h"

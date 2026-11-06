@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quiet Safe Browsing error interstitial UI header
+// summary: Declares the SafeBrowsingQuietErrorUI class showing the compact Safe Browsing interstitial for WebView, including a test hook for giant WebView.
+// ---
+
 #ifndef COMPONENTS_SECURITY_INTERSTITIALS_CORE_SAFE_BROWSING_QUIET_ERROR_UI_H_
 #define COMPONENTS_SECURITY_INTERSTITIALS_CORE_SAFE_BROWSING_QUIET_ERROR_UI_H_
 

@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Styles for the connection help interstitial page
+summary: Provides heading spacing and styling for the expandable help list and its show-more buttons on the connection help page.
+*/
+
 h2 {
     margin-top: 2em;
 }

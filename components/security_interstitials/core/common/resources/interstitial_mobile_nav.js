@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mobile navigation handling for interstitials
+// summary: JavaScript that toggles content sections and moves navigation buttons below the details text on small screens for security interstitial pages.
+// ---
+
 import {HIDDEN_CLASS} from './interstitial_common.js';
 
 export let mobileNav = false;

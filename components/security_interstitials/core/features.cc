@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security interstitial feature flag definitions
+// summary: Defines base::Feature flags for security interstitials, including the HTTPS-First Mode dialog UI and the insecure form navigation throttle for prerender.
+// ---
+
 #include "components/security_interstitials/core/features.h"
 
 #include "base/feature_list.h"

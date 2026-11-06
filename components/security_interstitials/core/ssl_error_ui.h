@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL error interstitial UI class declaration
+// summary: Declares the SSLErrorUI class that renders the visual display for SSL errors blocking page loads, without error-handling logic.
+// ---
+
 #ifndef COMPONENTS_SECURITY_INTERSTITIALS_CORE_SSL_ERROR_UI_H_
 #define COMPONENTS_SECURITY_INTERSTITIALS_CORE_SSL_ERROR_UI_H_
 

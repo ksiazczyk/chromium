@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security interstitial page implementation
+// summary: Implements the base class for security interstitial pages, covering HTML generation from templates, metrics setup and host name formatting.
+// ---
+
 #include "components/security_interstitials/content/security_interstitial_page.h"
 
 #include <utility>

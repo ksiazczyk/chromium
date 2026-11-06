@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for security interstitials
+summary: Declares project metadata for the directory, including the Monorail component UI>Browser>Interstitials, the security-enamel team email, and a public Buganizer component ID.

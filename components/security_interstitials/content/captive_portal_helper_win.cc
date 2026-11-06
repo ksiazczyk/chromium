@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows captive portal detection implementation
+// summary: Implements IsBehindCaptivePortal on Windows by inspecting connected networks through the Windows Network List Manager.
+// ---
+
 #include "components/security_interstitials/content/captive_portal_helper.h"
 
 #include <netlistmgr.h>

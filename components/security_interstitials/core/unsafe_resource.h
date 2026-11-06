@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unsafe resource struct declaration
+// summary: Declares the UnsafeResource struct that passes safe browsing threat parameters and callbacks between the IO and UI threads for blocking pages.
+// ---
+
 #ifndef COMPONENTS_SECURITY_INTERSTITIALS_CORE_UNSAFE_RESOURCE_H_
 #define COMPONENTS_SECURITY_INTERSTITIALS_CORE_UNSAFE_RESOURCE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ControllerClient interface and interstitial commands
+// summary: Declares the ControllerClient interface and the SecurityInterstitialCommand enum of commands sent from interstitial JavaScript to the embedder.
+// ---
+
 #ifndef COMPONENTS_SECURITY_INTERSTITIALS_CORE_CONTROLLER_CLIENT_H_
 #define COMPONENTS_SECURITY_INTERSTITIALS_CORE_CONTROLLER_CLIENT_H_
 

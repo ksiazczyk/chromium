@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPS-First Mode metrics implementation
+// summary: Records histograms for HTTPS-First Mode and HTTPS Upgrade navigation events, site engagement heuristic states, and interstitial reasons.
+// ---
+
 #include "components/security_interstitials/core/https_only_mode_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

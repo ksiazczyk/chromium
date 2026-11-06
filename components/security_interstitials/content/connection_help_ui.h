@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectionHelpUI WebUI controller declaration
+// summary: Declares the WebUI controller and its configuration class that provide help content to users whose network configuration problems block secure connections.
+// ---
+
 #ifndef COMPONENTS_SECURITY_INTERSTITIALS_CONTENT_CONNECTION_HELP_UI_H_
 #define COMPONENTS_SECURITY_INTERSTITIALS_CONTENT_CONNECTION_HELP_UI_H_
 

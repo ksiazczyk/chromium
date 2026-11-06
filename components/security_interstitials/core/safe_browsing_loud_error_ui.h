@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Loud Safe Browsing error interstitial UI header
+// summary: Declares the SafeBrowsingLoudErrorUI class that displays the full-screen Safe Browsing interstitial without error-handling logic.
+// ---
+
 #ifndef COMPONENTS_SECURITY_INTERSTITIALS_CORE_SAFE_BROWSING_LOUD_ERROR_UI_H_
 #define COMPONENTS_SECURITY_INTERSTITIALS_CORE_SAFE_BROWSING_LOUD_ERROR_UI_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Insecure form navigation throttle class declaration
+// summary: Declares the navigation throttle that intercepts insecure form submissions and triggers the mixed form interstitial, with states for logging.
+// ---
+
 #ifndef COMPONENTS_SECURITY_INTERSTITIALS_CONTENT_INSECURE_FORM_NAVIGATION_THROTTLE_H_
 #define COMPONENTS_SECURITY_INTERSTITIALS_CONTENT_INSECURE_FORM_NAVIGATION_THROTTLE_H_
 

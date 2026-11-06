@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bad clock blocking page implementation
+// summary: Implements the interstitial shown for SSL errors caused by a device clock misconfiguration, delegating UI strings and commands to BadClockUI.
+// ---
+
 #include "components/security_interstitials/content/bad_clock_blocking_page.h"
 
 #include <utility>

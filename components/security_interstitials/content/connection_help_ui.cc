@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectionHelpUI WebUI controller implementation
+// summary: Implements the WebUI controller for the connection help page, registering localized strings, certificate error constants, and resources for the data source.
+// ---
+
 #include "components/security_interstitials/content/connection_help_ui.h"
 
 #include "build/build_config.h"

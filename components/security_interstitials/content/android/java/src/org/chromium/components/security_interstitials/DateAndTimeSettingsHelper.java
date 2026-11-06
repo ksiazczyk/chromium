@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DateAndTimeSettingsHelper
+// summary: Android helper called from native code that opens the system date and time settings, silently ignoring failures when the settings activity is unavailable.
+// ---
+
 package org.chromium.components.security_interstitials;
 
 import android.content.ActivityNotFoundException;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPS-First Mode enforcelist implementation
+// summary: Implements the HTTPS-First Mode enforcelist that stores per-host HTTPS enforcement decisions in content settings and records related metrics.
+// ---
+
 #include "components/security_interstitials/core/https_only_mode_enforcelist.h"
 
 #include "base/json/values_util.h"
