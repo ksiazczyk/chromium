@@ -5,6 +5,12 @@
 // systemPrivate.getUpdateStatus test for Chrome
 // browser_tests --gtest_filter="GetUpdateStatusApiTest.Progress"
 
+// ---docerion
+// type: test
+// title: Background script for getUpdateStatus API browser tests
+// summary: Runs browser tests asserting the state and download progress values reported by chrome.systemPrivate.getUpdateStatus, covering NotAvailable, Updating and NeedRestart cases.
+// ---
+
 chrome.test.runTests([
   function notAvailable() {
     chrome.systemPrivate.getUpdateStatus(function(status) {

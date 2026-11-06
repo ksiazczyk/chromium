@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab Capture API extension tests
+// summary: Tests for the chrome.tabCapture extension API, verifying capture state transitions, captured tab lists, stream IDs, and getUserMedia behavior.
+// ---
+
 const tabCapture = chrome.tabCapture;
 
 const helloWorldPageUri = `data:text/html;charset=UTF-8,${

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for chrome.speechRecognitionPrivate start and stop
+// summary: Runs browser tests that start and stop speech recognition with the en-US locale, and check errors when starting twice or stopping without start.
+// ---
+
 chrome.test.runTests([
   // For these tests, ensure that the API is called with a locale of 'en-US'.
   // Otherwise, the the on-device variant of this test will fail because

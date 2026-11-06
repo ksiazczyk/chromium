@@ -1,0 +1,4 @@
+# Docerion header of start_tab_capture.html.
+type: test
+title: Tab capture test extension page
+summary: Minimal extension page that loads the start_tab_capture test script for the tab capture API test.

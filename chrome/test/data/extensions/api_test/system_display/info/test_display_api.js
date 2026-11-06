@@ -5,6 +5,12 @@
 // system.display api test
 // browser_tests --gtest_filter=SystemDisplayApiTest.*
 
+// ---docerion
+// type: test
+// title: system.display getInfo API test
+// summary: Browser test that repeatedly calls chrome.system.display.getInfo and asserts the expected display properties such as bounds, rotation, overscan and work area.
+// ---
+
 chrome.test.runTests([
   function testGet() {
     for (let i = 0; i < 10; ++i) {

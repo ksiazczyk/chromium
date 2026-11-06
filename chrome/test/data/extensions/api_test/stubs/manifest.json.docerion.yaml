@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for content script API stubs test extension
+summary: Manifest version 3 extension manifest registering the background service worker and a content script used by the API stubs test.

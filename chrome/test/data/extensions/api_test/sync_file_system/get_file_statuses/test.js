@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for chrome.syncFileSystem.getFileStatuses
+// summary: Runs test steps that request a syncable file system, create two empty files, read the root directory entries, and assert that getFileStatuses returns pending statuses for each file.
+// ---
+
 let fileSystem;
 const TEST_FILES = ['Test1', 'Test2'];
 

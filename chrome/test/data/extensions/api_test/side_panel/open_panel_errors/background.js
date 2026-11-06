@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: sidePanel.open() error case tests
+// summary: Runs extension API tests asserting the error cases of chrome.sidePanel.open(), such as missing user gesture, invalid tab or window IDs, and tab/window mismatch.
+// ---
+
 async function getFirstTab() {
   const tabs = await chrome.tabs.query({});
   chrome.test.assertTrue(tabs.length >= 1);

@@ -1,0 +1,4 @@
+# Docerion header of active_tab_chrome_pages.html.
+type: test
+title: Tab capture active tab chrome pages test page
+summary: HTML page that loads the JavaScript for the tabCapture active tab chrome pages extension API test.

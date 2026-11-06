@@ -6,6 +6,12 @@
 // browser_tests \
 //   --gtest_filter=SystemDisplayApiTest.OverscanCalibrationApp
 
+// ---docerion
+// type: test
+// title: Overscan calibration API test script
+// summary: Runs a chrome.test suite that starts, adjusts, and completes overscan calibration for a display via the system.display API as part of a browser test.
+// ---
+
 chrome.test.runTests([
   function testOverscan() {
     const id = 'display0';

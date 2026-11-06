@@ -1,0 +1,4 @@
+# Docerion header of panel_1.html.
+type: test
+title: Side panel test page one
+summary: HTML page labeled SIDEPANEL 1 used as a side panel in the simple_default API test, loading panel_1.js.

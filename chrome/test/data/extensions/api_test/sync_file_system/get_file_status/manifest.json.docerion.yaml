@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for chrome.syncFileSystem.getFileSyncStatus test app
+summary: Chrome app manifest that registers the end-to-end browser test for the syncFileSystem.getFileSyncStatus API and grants the syncFileSystem permission.

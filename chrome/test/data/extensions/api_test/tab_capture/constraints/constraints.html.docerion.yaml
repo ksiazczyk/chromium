@@ -1,0 +1,4 @@
+# Docerion header of constraints.html.
+type: test
+title: Tab capture constraints test page
+summary: HTML page that loads constraints.js to run the tabCapture API media constraints tests.

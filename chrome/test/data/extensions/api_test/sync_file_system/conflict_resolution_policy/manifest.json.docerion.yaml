@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for sync file system conflict resolution policy test
+summary: Extension manifest that sets up the chrome.syncFileSystem.setConflictResolutionPolicy browser test app with the syncFileSystem permission and test.js as background script.

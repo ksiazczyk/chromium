@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.sockets.tcp API browser test background script
+// summary: Background script for the chrome.sockets.tcp end-to-end browser test, exercising socket creation, sending and receiving against an echo server.
+// ---
+
 // Use an HTTP server configured to echo back the request body as the response
 // body.
 const httpPost = 'POST /echo HTTP/1.1\r\n' +

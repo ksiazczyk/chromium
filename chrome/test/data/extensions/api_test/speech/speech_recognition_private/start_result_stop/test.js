@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Speech recognition start, result and stop browser test
+// summary: Service worker test that starts speech recognition, verifies non-final and final onResult events, and stops recognition to pass the test.
+// ---
+
 (async function() {
   // This test has a few steps, which are outlined in order below:
   // 1. Start speech recognition.

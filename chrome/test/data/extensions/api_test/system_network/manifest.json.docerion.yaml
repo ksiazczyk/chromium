@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.system.network test extension
+summary: Extension manifest declaring a service worker background script and the system.network permission for the end-to-end browser test.

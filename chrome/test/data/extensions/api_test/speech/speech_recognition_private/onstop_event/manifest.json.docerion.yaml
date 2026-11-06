@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: OnStop test extension manifest
+summary: Manifest for the browser test extension covering the chrome.speechRecognitionPrivate.onStop event, using the AccessibilityCommon allowlist key and requesting the speechRecognitionPrivate permission.

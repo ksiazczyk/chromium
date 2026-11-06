@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for speechRecognitionPrivate start browser test
+summary: Extension manifest for the browser test of chrome.speechRecognitionPrivate.start(), using an AccessibilityCommon allowlist key and the speechRecognitionPrivate permission.

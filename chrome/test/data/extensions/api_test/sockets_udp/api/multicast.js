@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.sockets.udp multicast test script
+// summary: Test script that exercises multicast UDP behavior of chrome.sockets.udp, including multicast settings, membership, and messaging.
+// ---
+
 // Tests for multicast UDP chrome.sockets.udp.
 function testMulticast() {
   function randomHexString(count) {

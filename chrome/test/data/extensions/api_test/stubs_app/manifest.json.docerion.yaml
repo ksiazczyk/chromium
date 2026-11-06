@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the App Extension API Stubs Test
+summary: Manifest for the stubs app test extension, declaring the background script and the permissions needed to expose APIs under test.

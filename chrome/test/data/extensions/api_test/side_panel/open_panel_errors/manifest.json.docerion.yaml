@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the sidePanel.open() errors test extension
+summary: Manifest V3 extension manifest declaring the background service worker, the default side panel path and the sidePanel permission.

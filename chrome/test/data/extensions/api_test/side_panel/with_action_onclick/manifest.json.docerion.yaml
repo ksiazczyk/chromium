@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest of the action.onclick side panel test extension
+summary: Manifest version 3 fixture declaring the sidePanel permission, worker.js service worker, an action, and default_path.html as the side panel.

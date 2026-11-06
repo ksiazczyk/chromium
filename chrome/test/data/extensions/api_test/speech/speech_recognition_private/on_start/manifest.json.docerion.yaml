@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: OnStart test extension manifest
+summary: Manifest for the OnStart browser test extension that exercises chrome.speechRecognitionPrivate.start(), using the AccessibilityCommon allowlist key and the speechRecognitionPrivate permission.

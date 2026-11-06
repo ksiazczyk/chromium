@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: API only test extension manifest
+summary: Manifest for the API only test extension declaring the sidePanel permission and a background service worker.

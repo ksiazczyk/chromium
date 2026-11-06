@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for system.display Android API test extension
+summary: Manifest version 3 extension manifest for the test, requesting the system.display permission and registering background.js as the service worker.

@@ -1,0 +1,4 @@
+# Docerion header of path.html.
+type: test
+title: Empty side panel page for the API only test
+summary: Empty HTML page referenced as the side panel path in the API only extension test.

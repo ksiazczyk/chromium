@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the getUpdateStatus test extension
+summary: Manifest for the browser test extension that requests the systemPrivate permission and loads background.js to exercise the getUpdateStatus API.

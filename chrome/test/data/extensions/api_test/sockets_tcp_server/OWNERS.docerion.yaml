@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for sockets_tcp_server API tests
+summary: OWNERS file that delegates review ownership for the sockets_tcp_server extension API tests to the socket API owners.

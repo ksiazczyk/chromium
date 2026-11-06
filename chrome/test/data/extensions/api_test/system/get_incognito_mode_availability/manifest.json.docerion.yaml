@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the getIncognitoModeAvailability API test extension
+summary: Extension manifest that declares the systemPrivate permission and a background page running test.js for the browser test.

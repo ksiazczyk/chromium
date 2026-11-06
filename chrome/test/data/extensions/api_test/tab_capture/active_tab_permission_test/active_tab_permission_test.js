@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab capture activeTab permission test
+// summary: Browser test that verifies chrome.tabCapture.capture succeeds or fails depending on activeTab permission, tab changes, and extension whitelisting.
+// ---
+
 const EXPECTED_LAST_ERROR_MESSAGE =
     ('Extension has not been invoked for the current page (see activeTab ' +
      'permission). Chrome pages cannot be captured.');

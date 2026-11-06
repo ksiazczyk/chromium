@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for the tcpServer unload browser test
+// summary: Creates a chrome.sockets.tcpServer socket and listens on 0.0.0.0:1234 as part of the browser test verifying sockets are freed when the extension is reloaded.
+// ---
+
 let socketId;
 
 const onListen = function(result) {

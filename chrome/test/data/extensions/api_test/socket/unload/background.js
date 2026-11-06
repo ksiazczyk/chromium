@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Socket unload test background script
+// summary: Background script for the chrome.socket unload API test that creates a TCP socket and listens on port 1234, asserting the listen result is 0.
+// ---
+
 const socket = chrome.socket;
 
 const onListen = function(result) {

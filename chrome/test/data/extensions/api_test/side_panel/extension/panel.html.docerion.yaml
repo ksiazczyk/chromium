@@ -1,0 +1,4 @@
+# Docerion header of panel.html.
+type: test
+title: Side panel page
+summary: Empty HTML page serving as a side panel document for the test extension.

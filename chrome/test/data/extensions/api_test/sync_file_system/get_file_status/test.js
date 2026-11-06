@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for chrome.syncFileSystem.getFileSyncStatus
+// summary: Test steps that request a sync file system, create a Test.txt file, and assert its sync status is pending using the mocked value.
+// ---
+
 const testStep = [
   function() {
     chrome.syncFileSystem.requestFileSystem(testStep.shift());

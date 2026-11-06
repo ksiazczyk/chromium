@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test script for the system.storage.eject API
+// summary: Extension test script that listens for device attach events, ejects devices via chrome.system.storage.ejectDevice, and reports outcomes such as success, in_use, and no_such_device through test messages.
+// ---
+
 let attachedDeviceId;
 
 function testAttach(details) {

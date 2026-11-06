@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script driving the shared worker test
+// summary: Registers the service worker, starts the shared worker, and verifies expected messages and intercepted URLs before reporting PASS or FAIL.
+// ---
+
 async function setup() {
   const reg = await navigator.serviceWorker.register('service_worker.js');
   await navigator.serviceWorker.ready;

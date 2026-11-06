@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Side panel default path test extension manifest
+summary: Manifest for a test extension that declares the sidePanel permission and sets default_path.html as the default side panel.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for sockets_tcp extension API tests
+summary: Delegates ownership of the sockets_tcp extension API test directory by including the OWNERS file of the socket browser API.

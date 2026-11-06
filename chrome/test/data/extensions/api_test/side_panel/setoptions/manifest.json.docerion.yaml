@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest for side panel setOptions API test
+summary: Manifest for a test extension named "Extension with side panel but no manifest path", declaring the sidePanel permission for the side panel setOptions API test.

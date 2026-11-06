@@ -5,6 +5,12 @@
 // system.storage api test
 // browser_tests --gtest_filter=SystemStorageApiTest.Storage
 
+// ---docerion
+// type: test
+// title: Browser test for the chrome.system.storage API
+// summary: Runs browser tests verifying chrome.system.storage getInfo and getAvailableCapacity against expected storage unit data matching the C++ apitest fixture.
+// ---
+
 // Testing data should be the same as |kTestingData| in
 // system_storage_apitest.cc.
 const testData = [

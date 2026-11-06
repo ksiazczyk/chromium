@@ -1,0 +1,4 @@
+# Docerion header of panel_1.html.
+type: test
+title: Side panel test page 1
+summary: HTML page for the first test side panel, showing the text SIDEPANEL 1 and loading panel_1.js.

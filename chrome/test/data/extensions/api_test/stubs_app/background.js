@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stubs app background script checking chrome API paths
+// summary: Test app background script that enumerates all chrome.* API paths and verifies each is defined, reporting pass or fail via chrome.test.
+// ---
+
 const apiFeatures = chrome.test.getApiFeatures();
 
 // Returns a list of all chrome.foo.bar API paths available to an app.

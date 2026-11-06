@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for chrome.syncFileSystem.getServiceStatus
+// summary: Runs test steps that request a sync file system, call getServiceStatus, and assert the returned status equals 'disabled'.
+// ---
+
 const testSteps = [
   function() {
     chrome.syncFileSystem.requestFileSystem(

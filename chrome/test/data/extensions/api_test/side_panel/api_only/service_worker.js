@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Side panel setOptions default enabled test
+// summary: Service worker test verifying that sidePanel.setOptions defaults the enabled option to true.
+// ---
+
 chrome.test.runTests([
   // Setting a panel option without explicitly setting the optional enabled bool
   // value defaults to enabled being true. Bug fix for crbug.com/40263748.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: StartErrorStop test extension manifest
+summary: Manifest for the StartErrorStop browser test extension, granting the speechRecognitionPrivate permission and registering test.js as its service worker.

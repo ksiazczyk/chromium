@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab capture fullscreen event test script
+// summary: Test script that toggles fullscreen on click and asserts the sequence of fullscreen flags reported by chrome.tabCapture.onStatusChanged during audio and video capture.
+// ---
+
 window.addEventListener('load', function() {
   document.body.onclick = function toggleBodyFullscreen() {
     if (document.fullscreenElement || document.webkitFullscreenElement) {

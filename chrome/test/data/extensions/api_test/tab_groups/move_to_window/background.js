@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab groups move-to-window API test
+// summary: Browser test service worker that creates tabs, groups them, moves the group to a new window with chrome.tabGroups.move, and asserts the tabs arrive.
+// ---
+
 chrome.test.runTests([
   async function moveGroup() {
     // Create other tabs in window 1 to add to a group.

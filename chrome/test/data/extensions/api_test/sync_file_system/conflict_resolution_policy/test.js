@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Conflict resolution policy API test steps
+// summary: Browser test that sets and gets the sync file system conflict resolution policy, expecting manual policy to fail and last_write_win to be returned.
+// ---
+
 const callbackPass = chrome.test.callbackPass;
 const callbackFail = chrome.test.callbackFail;
 

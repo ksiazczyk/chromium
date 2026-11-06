@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab capture performance test extension background script
+// summary: Background script for the tabCapture performance test extension that starts 1080p tab capture on an external message, optionally routes the stream through WebRTC, and plays it in a video element.
+// ---
+
 console.info('Registering chrome.runtime message listener...');
 
 chrome.runtime.onMessageExternal.addListener((request, from, sendResponse) => {

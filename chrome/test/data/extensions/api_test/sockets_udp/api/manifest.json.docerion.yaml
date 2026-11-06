@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.sockets.udp API test app
+summary: Extension manifest that loads the multicast and background test scripts and requests UDP socket permissions for the API tests.

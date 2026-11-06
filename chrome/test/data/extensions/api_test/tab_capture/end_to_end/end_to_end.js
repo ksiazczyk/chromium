@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab Capture end-to-end test
+// summary: Browser test that renders cycling color test patterns, captures the tab into a MediaStream, plays it back, and verifies expected frame colors across two test rounds.
+// ---
+
 // The tests here cover the end-to-end functionality of tab capturing and
 // playback as video.  The page generates video test patterns that rotate
 // cyclicly, and the rendering output of the tab is captured into a

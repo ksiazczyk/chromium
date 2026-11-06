@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.syncFileSystem.getUsageAndQuota browser test
+summary: Extension manifest declaring the syncFileSystem permission and test.js as the background script for the getUsageAndQuota API browser test.

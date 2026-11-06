@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for system.display Android API test
+// summary: Runs a browser test asserting that chrome.system.display.getInfo returns usable display metadata such as unique IDs, names, DPI, bounds and work areas on Android.
+// ---
+
 chrome.test.runTests([
   function getInfoHasUsableDisplayMetadata() {
     chrome.system.display.getInfo(chrome.test.callbackPass(function(displays) {

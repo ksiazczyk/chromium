@@ -1,0 +1,4 @@
+# Docerion header of data_for_fetch.
+type: test
+title: Fetch fixture for shared worker test
+summary: Plain-text fixture fetched by the shared worker to confirm its fetches are seen by the service worker.

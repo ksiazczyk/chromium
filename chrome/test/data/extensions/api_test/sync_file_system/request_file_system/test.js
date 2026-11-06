@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for chrome.syncFileSystem.requestFileSystem
+// summary: Runs a browser test that requests a syncable file system and asserts its name ends with the syncable suffix and has a valid root.
+// ---
+
 const SYNCABLE_NAME_SUFFIX = ':Syncable';
 
 chrome.test.runTests([

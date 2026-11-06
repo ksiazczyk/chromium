@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: tabGroups.get API test background script
+// summary: Runs browser tests verifying that chrome.tabGroups.get succeeds for existing groups and fails with a last error for missing or ungrouped groups.
+// ---
+
 chrome.test.runTests([
   function testGetSucceeds() {
     chrome.tabs.create({}, (tab) => {

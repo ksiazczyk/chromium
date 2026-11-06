@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Socket API test OWNERS
+summary: Redirects ownership to the socket API OWNERS file so the same reviewers cover the socket extension API tests.

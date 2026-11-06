@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the storage API test data
+summary: Delegates ownership of these extension storage tests to the owners of the storage API implementation.

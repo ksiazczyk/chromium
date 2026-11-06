@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.socket API browser test background script
+// summary: Runs TCP and UDP socket tests against echo servers to verify the chrome.socket extension API behavior.
+// ---
+
 // TCP tests use an HTTP server configured to echo back the request body
 // as the response body.
 const TCP_REQUEST = 'POST /echo HTTP/1.1\r\n' +

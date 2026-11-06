@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the system.display info_android_mock test extension
+summary: Manifest V3 extension manifest declaring the system.display permission and a background service worker for the deterministic mock API test.

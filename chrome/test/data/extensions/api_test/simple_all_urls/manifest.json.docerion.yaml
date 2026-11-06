@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: All Urls Extension test manifest
+summary: Manifest for the All Urls Extension test fixture, declaring manifest version 3 and host permissions for all URLs.
