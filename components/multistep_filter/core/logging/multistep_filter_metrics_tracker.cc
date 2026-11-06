@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multistep filter metrics tracker implementation
+// summary: Implements the tab-scoped metrics tracker that records suggestion UI sessions, application outcomes, and retention slices into UMA histograms and UKM events.
+// ---
+
 #include "components/multistep_filter/core/logging/multistep_filter_metrics_tracker.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the network_hints renderer
+summary: Specifies the allowed include rules for the renderer directory, permitting network_hints common, content public renderer, mojo, blink public and network service public C++ headers.

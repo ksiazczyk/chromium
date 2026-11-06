@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the multistep filter suggestion targets
+summary: GN build configuration defining the suggestion source set and its unit test target, along with their internal and public dependencies.

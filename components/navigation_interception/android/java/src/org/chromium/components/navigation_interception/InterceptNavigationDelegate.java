@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InterceptNavigationDelegate
+// summary: Abstract Java delegate bound to native code via JNI that lets the embedder decide whether navigations in a WebContents should be ignored, such as converting them to intents for third-party apps on Android.
+// ---
+
 package org.chromium.components.navigation_interception;
 
 import org.jni_zero.CalledByNative;

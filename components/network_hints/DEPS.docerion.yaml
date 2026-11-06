@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: network_hints DEPS include rules
+summary: Defines the allowed include directories for the network_hints component, covering content/public, ipc, and blink public headers.

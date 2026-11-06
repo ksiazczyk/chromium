@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PlayCoreLogger unit tests
+// summary: JUnit and Robolectric test suite for PlayCoreLogger that verifies request and status failure logging and install status handling through mocked failure, status, and availability loggers.
+// ---
+
 package org.chromium.components.module_installer.logger;
 
 import static org.junit.Assert.assertEquals;

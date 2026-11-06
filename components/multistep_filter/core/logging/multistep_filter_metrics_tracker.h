@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multistep filter metrics tracker class declaration
+// summary: Declares the MultistepFilterMetricsTracker class and its session structs that track the suggestion UI lifecycle and application metrics for the feature.
+// ---
+
 #ifndef COMPONENTS_MULTISTEP_FILTER_CORE_LOGGING_MULTISTEP_FILTER_METRICS_TRACKER_H_
 #define COMPONENTS_MULTISTEP_FILTER_CORE_LOGGING_MULTISTEP_FILTER_METRICS_TRACKER_H_
 

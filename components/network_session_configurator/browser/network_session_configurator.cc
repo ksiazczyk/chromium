@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network session configurator implementation
+// summary: Implements configuration of HTTP network session parameters, including HTTP/2 and QUIC settings, from field trials, feature flags, and command line switches.
+// ---
+
 #include "components/network_session_configurator/browser/network_session_configurator.h"
 
 #include <algorithm>

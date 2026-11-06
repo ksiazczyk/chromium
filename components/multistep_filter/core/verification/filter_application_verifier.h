@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filter application verifier header
+// summary: Declares the FilterApplicationVerifier class and its Result struct for checking whether a Multistep Filter suggestion was applied successfully.
+// ---
+
 #ifndef COMPONENTS_MULTISTEP_FILTER_CORE_VERIFICATION_FILTER_APPLICATION_VERIFIER_H_
 #define COMPONENTS_MULTISTEP_FILTER_CORE_VERIFICATION_FILTER_APPLICATION_VERIFIER_H_
 

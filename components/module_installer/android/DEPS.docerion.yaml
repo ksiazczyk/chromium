@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Directory dependency rules for module installer
+summary: Specifies include rules allowing this directory to depend on selected base, crash, and UI resource paths.

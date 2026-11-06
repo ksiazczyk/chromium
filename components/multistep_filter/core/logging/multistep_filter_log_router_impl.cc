@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultistepFilterLogRouterImpl implementation
+// summary: Implements the browser-process log router with a bounded circular buffer, observer notifications, shutdown handling, and a post-task log callback.
+// ---
+
 #include "components/multistep_filter/core/logging/multistep_filter_log_router_impl.h"
 
 #include <algorithm>

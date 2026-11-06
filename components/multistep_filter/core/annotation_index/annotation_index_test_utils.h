@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test utility declarations for annotation index responses
+// summary: Declares factory functions for creating annotation index test responses and optimization guide decision metadata.
+// ---
+
 #ifndef COMPONENTS_MULTISTEP_FILTER_CORE_ANNOTATION_INDEX_ANNOTATION_INDEX_TEST_UTILS_H_
 #define COMPONENTS_MULTISTEP_FILTER_CORE_ANNOTATION_INDEX_ANNOTATION_INDEX_TEST_UTILS_H_
 

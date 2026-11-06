@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filter annotation table implementation
+// summary: Implements the FilterAnnotationTable class that creates and manages the filter_annotations and filter_annotation_attributes SQLite tables, including indexes and query helpers.
+// ---
+
 #include "components/multistep_filter/core/storage/filter_annotation_table.h"
 
 #include <stddef.h>

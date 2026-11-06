@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization guide annotation index client implementation
+// summary: Implements the multistep filter annotation index client that queries optimization guide hints for supported tasks, extracted filter annotations, and suggestion execution strategies, with logging of server requests and responses.
+// ---
+
 #include "components/multistep_filter/core/annotation_index/optimization_guide_annotation_index_client.h"
 
 #include <optional>

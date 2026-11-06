@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test factories for annotation index responses
+// summary: Provides factory functions that build annotation index proto responses and optimization guide metadata for tests.
+// ---
+
 #include "components/multistep_filter/core/annotation_index/annotation_index_test_utils.h"
 
 #include <string>

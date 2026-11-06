@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NamedMojoIpcServerBase implementation
+// summary: Implements the template-free server base class that starts and stops the message pipe server, tracks active isolated connections and handles disconnects and receiver closing.
+// ---
+
 #include "components/named_mojo_ipc_server/named_mojo_ipc_server.h"
 
 #include <memory>

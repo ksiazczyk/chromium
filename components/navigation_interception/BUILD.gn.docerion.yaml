@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for navigation interception
+summary: Defines the navigation_interception static library, Android JNI header generation, and unit test targets with their sources and dependencies.

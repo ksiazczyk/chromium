@@ -1,0 +1,4 @@
+# Docerion header of neterror.html.
+type: source
+title: Network error page HTML shell
+summary: HTML shell for the network error page that loads interstitial stylesheets, the bundled error page script and offline image and audio resources, using i18n placeholders.

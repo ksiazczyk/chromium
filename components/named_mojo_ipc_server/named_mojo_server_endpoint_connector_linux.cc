@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux endpoint connector implementation
+// summary: Linux implementation that listens on a Unix domain socket, accepts client connections, and reports peer credentials from SO_PEERCRED to the delegate.
+// ---
+
 #include "components/named_mojo_ipc_server/named_mojo_server_endpoint_connector.h"
 
 #include <sys/socket.h>

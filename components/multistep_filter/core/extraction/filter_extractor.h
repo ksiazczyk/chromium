@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilterExtractor class declaration
+// summary: Declares the FilterExtractor class, owned by MultistepFilterService, that extracts and locally stores FilterAnnotations from URLs and reports results via callback.
+// ---
+
 #ifndef COMPONENTS_MULTISTEP_FILTER_CORE_EXTRACTION_FILTER_EXTRACTOR_H_
 #define COMPONENTS_MULTISTEP_FILTER_CORE_EXTRACTION_FILTER_EXTRACTOR_H_
 

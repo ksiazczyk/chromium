@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build config for time_tracker
+summary: GN build file defining the time_tracker static library and its unit_tests source_set with base and gtest dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockAnnotationIndexClient gmock class
+// summary: Defines a gmock-based mock of the AnnotationIndexClient interface for use in unit tests.
+// ---
+
 #ifndef COMPONENTS_MULTISTEP_FILTER_CORE_ANNOTATION_INDEX_MOCK_ANNOTATION_INDEX_CLIENT_H_
 #define COMPONENTS_MULTISTEP_FILTER_CORE_ANNOTATION_INDEX_MOCK_ANNOTATION_INDEX_CLIENT_H_
 

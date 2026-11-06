@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultistepFilterLogRouterImpl class definition
+// summary: Declares the KeyedService-based log router implementation with a maximum buffer size of 1000 entries, observer list, and atomic logging flag.
+// ---
+
 #ifndef COMPONENTS_MULTISTEP_FILTER_CORE_LOGGING_MULTISTEP_FILTER_LOG_ROUTER_IMPL_H_
 #define COMPONENTS_MULTISTEP_FILTER_CORE_LOGGING_MULTISTEP_FILTER_LOG_ROUTER_IMPL_H_
 

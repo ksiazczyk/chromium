@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the multistep filter content layer
+summary: Defines GN source_set targets for the content layer, its test support header, and unit tests, along with their dependencies.

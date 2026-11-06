@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for FilterSuggestionGenerator
+// summary: Unit tests exercising suggestion generation with a mocked filter store and annotation index client, including feature flag parameters and suppression behavior.
+// ---
+
 #include "components/multistep_filter/core/suggestion/filter_suggestion_generator.h"
 
 #include <optional>

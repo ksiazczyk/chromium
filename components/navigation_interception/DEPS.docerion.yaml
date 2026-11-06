@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for navigation interception
+summary: Declares the include dependencies allowed for the navigation interception component directory.

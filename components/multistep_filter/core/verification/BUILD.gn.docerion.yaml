@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for multistep filter verification
+summary: Defines GN source_set targets for the verification code and its unit tests, with dependencies on base, multistep filter data models, and testing libraries.

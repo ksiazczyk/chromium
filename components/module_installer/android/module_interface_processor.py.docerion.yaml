@@ -1,0 +1,4 @@
+# Docerion header of module_interface_processor.py.
+type: source
+title: Module interface Java code generator
+summary: Python script that parses @ModuleInterface annotations in Java files and generates corresponding module classes packaged into a srcjar.

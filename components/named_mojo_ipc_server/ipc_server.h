@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IpcServer interface for mocking the Mojo IPC server
+// summary: Declares the IpcServer interface that allows the Mojo IPC server to be mocked in unit tests, covering start, stop, receiver closing, disconnect handling and connection info access.
+// ---
+
 #ifndef COMPONENTS_NAMED_MOJO_IPC_SERVER_IPC_SERVER_H_
 #define COMPONENTS_NAMED_MOJO_IPC_SERVER_IPC_SERVER_H_
 

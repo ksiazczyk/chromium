@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the annotation_index directory
+summary: Grants the annotation_index directory include access to components/optimization_guide.

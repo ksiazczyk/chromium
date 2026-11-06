@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL filter suggestion unit tests
+// summary: Unit tests verifying ToString, equality, and copy/move behavior of the UrlFilterSuggestion and FilterAttributeUiLabel structs.
+// ---
+
 #include "components/multistep_filter/core/data_models/url_filter_suggestion.h"
 
 #include <utility>

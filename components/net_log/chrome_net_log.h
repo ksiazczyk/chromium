@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declaration of net log platform constants
+// summary: Declares GetPlatformConstantsForNetLog, a thread-safe helper returning version, command line, and OS information for NetLog files.
+// ---
+
 #ifndef COMPONENTS_NET_LOG_CHROME_NET_LOG_H_
 #define COMPONENTS_NET_LOG_CHROME_NET_LOG_H_
 

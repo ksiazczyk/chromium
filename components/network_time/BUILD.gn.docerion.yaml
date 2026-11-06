@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for network_time
+summary: Defines GN build targets for the network_time component, including the static library, unit tests, and test support sources.

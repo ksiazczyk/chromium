@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Game over panel for the dino game
+// summary: Implements the GameOverPanel class that draws the game over text, restart button and related animations on the canvas.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import {IS_HIDPI, IS_RTL} from './constants.js';

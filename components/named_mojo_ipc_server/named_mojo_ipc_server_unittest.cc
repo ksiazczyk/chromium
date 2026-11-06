@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NamedMojoIpcServer unit tests
+// summary: Tests the named Mojo IPC server across isolated, id-based and name-based message pipe types, including multiprocess client connect, hang and disconnect scenarios.
+// ---
+
 #include "components/named_mojo_ipc_server/named_mojo_ipc_server.h"
 
 #if BUILDFLAG(IS_LINUX)

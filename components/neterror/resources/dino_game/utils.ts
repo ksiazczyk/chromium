@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utility functions for the dino game
+// summary: Provides shared helpers that return a random number in a range and the current timestamp, with an iOS fallback.
+// ---
+
 import {IS_IOS} from './constants.js';
 
 

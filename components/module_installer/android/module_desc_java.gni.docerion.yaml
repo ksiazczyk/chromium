@@ -1,0 +1,4 @@
+# Docerion header of module_desc_java.gni.
+type: config
+title: module_desc_java GN template
+summary: GN template that generates a Java ModuleDescriptor implementation srcjar per module, handling shared libraries, PAK files, and native loading options.

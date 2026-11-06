@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple network hints handler class declaration
+// summary: Declares SimpleNetworkHintsHandlerImpl, the per-render-frame browser handler for DNS prefetch and preconnect hints received from renderers.
+// ---
+
 #ifndef COMPONENTS_NETWORK_HINTS_BROWSER_SIMPLE_NETWORK_HINTS_HANDLER_IMPL_H_
 #define COMPONENTS_NETWORK_HINTS_BROWSER_SIMPLE_NETWORK_HINTS_HANDLER_IMPL_H_
 

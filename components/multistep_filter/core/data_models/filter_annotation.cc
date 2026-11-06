@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilterAnnotation implementation
+// summary: Implements the FilterAttribute and FilterAnnotation data model classes, including constructors, comparison operators, and ToString methods.
+// ---
+
 #include "components/multistep_filter/core/data_models/filter_annotation.h"
 
 #include "base/strings/strcat.h"

@@ -3,6 +3,12 @@
  * found in the LICENSE file.
  */
 
+/*docerion
+type: source
+title: Styles for the net-export WebUI page
+summary: Styles the network log export page with layout, buttons, option groups, warnings and monospace file paths.
+*/
+
 body {
   font-size: 80%;
   margin: 1em;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for multistep filter utilities
+// summary: Unit tests covering eTLD+1 extraction, same-domain comparison, and URL subsumption behavior of the multistep filter utility functions.
+// ---
+
 #include "components/multistep_filter/core/multistep_filter_util.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Definitions of network switch constants and CopyNetworkSwitches
+// summary: Defines the network switch string constants and implements CopyNetworkSwitches to copy handled switches from one command line to another.
+// ---
+
 #include "components/network_session_configurator/common/network_switches.h"
 
 #include "base/command_line.h"

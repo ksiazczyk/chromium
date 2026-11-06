@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Module installer Android build targets
+summary: Defines GN targets for the module installer Java library, Robolectric unit tests, module interface library, native code, and JNI headers.

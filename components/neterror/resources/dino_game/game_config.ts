@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Game configuration interfaces for the dino game
+// summary: Defines base and game mode configuration interfaces plus a ConfigProvider interface for retrieving the active game configuration.
+// ---
+
 /**
  * Default game configuration.
  * Shared config for all versions of the game. Additional parameters are

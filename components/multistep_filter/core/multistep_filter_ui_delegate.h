@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multistep filter UI delegate interface
+// summary: Interface that lets core services query and update the multistep filter UI, showing or clearing URL filter suggestions and reporting user decisions via callbacks.
+// ---
+
 #ifndef COMPONENTS_MULTISTEP_FILTER_CORE_MULTISTEP_FILTER_UI_DELEGATE_H_
 #define COMPONENTS_MULTISTEP_FILTER_CORE_MULTISTEP_FILTER_UI_DELEGATE_H_
 

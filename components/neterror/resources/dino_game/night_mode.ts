@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Night mode moon and stars for the dino game
+// summary: Implements the NightMode class that fades in a moon with changing phases and moving stars on the dino game horizon.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import {IS_HIDPI} from './constants.js';

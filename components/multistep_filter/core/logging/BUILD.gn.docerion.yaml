@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for multistep filter logging
+summary: GN build definition listing the logging sources, dependencies, and the unit test target for the multistep filter logging component.

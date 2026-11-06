@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TimeTracker implementation
+// summary: Implements TimeTracker::GetTime, which estimates current time from elapsed ticks and rejects backward wall clocks or divergence over 60 seconds, recording uncertainty to a histogram.
+// ---
+
 #include "components/network_time/time_tracker/time_tracker.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Intercept navigation delegate implementation
+// summary: Implements the native side of the Java InterceptNavigationDelegate interface, including redirect URL loading and callbacks that decide whether a navigation should be ignored.
+// ---
+
 #include "components/navigation_interception/intercept_navigation_delegate.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the navigation_interception Android library
+summary: Defines the navigation_interception_java Android library target, listing its Java source file and dependencies on base, content, jni_zero, ui, and url modules.

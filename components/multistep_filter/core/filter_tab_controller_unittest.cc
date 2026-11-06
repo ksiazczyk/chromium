@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FilterTabController unit tests
+// summary: Unit tests for FilterTabController with mocked service, UI delegate, extractor and suggestion generator, covering suggestion lifecycle and metrics.
+// ---
+
 #include "components/multistep_filter/core/filter_tab_controller.h"
 
 #include <algorithm>

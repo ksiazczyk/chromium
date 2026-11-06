@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filter application verifier implementation
+// summary: Implements FilterApplicationVerifier::Verify, which checks that extracted page annotations match the suggested filter attributes and reports missing keys.
+// ---
+
 #include "components/multistep_filter/core/verification/filter_application_verifier.h"
 
 #include <algorithm>

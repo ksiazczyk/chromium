@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filter annotation table header
+// summary: Declares FilterAnnotationTable, which stores FilterAnnotation objects and their attributes in SQLite and supports retrieval by task type and deletion by task or host.
+// ---
+
 #ifndef COMPONENTS_MULTISTEP_FILTER_CORE_STORAGE_FILTER_ANNOTATION_TABLE_H_
 #define COMPONENTS_MULTISTEP_FILTER_CORE_STORAGE_FILTER_ANNOTATION_TABLE_H_
 

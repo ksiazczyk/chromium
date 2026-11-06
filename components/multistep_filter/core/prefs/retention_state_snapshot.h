@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RetentionStateSnapshot struct definition
+// summary: Defines a struct holding persisted Multistep Filter retention counts and the last-suggestion-accepted flag for a Profile.
+// ---
+
 #ifndef COMPONENTS_MULTISTEP_FILTER_CORE_PREFS_RETENTION_STATE_SNAPSHOT_H_
 #define COMPONENTS_MULTISTEP_FILTER_CORE_PREFS_RETENTION_STATE_SNAPSHOT_H_
 

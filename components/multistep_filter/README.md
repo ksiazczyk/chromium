@@ -1,3 +1,9 @@
+---
+type: readme
+title: Multistep Filter Component
+summary: Describes the component that suggests filters based on navigation history, outlines its platform-independent responsibilities, and lists contact information.
+---
+
 # Multistep Filter Component
 
 The Multistep Filter component provides functionality to suggest filters to users based on their navigation history. It aims to streamline user workflows by predicting and surfacing relevant filters for the current context, helping users narrow down results or navigate complex sites more efficiently.

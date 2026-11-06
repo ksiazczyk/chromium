@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multistep Filter retention prefs unit tests
+// summary: Unit tests verifying default retention state, impression and interaction recording, and sequential accumulation of counts.
+// ---
+
 #include "components/multistep_filter/core/prefs/multistep_filter_retention_prefs.h"
 
 #include "components/prefs/testing_pref_service.h"

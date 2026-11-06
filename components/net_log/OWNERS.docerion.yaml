@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the net_log directory
+summary: Delegates code review ownership for this directory to the OWNERS files of net/log and net.

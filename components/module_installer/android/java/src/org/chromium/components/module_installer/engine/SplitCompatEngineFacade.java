@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Facade for SplitCompat engine dependencies
+// summary: Wraps Play Core SplitInstall dependencies and module utility calls to segregate hard-to-mock externals and simplify the engine's design.
+// ---
+
 package org.chromium.components.module_installer.engine;
 
 import android.app.Activity;

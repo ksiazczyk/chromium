@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModuleEngine
+// summary: Proxy install engine used by Module that adjusts isInstalled behavior so modules can be moved in and out of the base more easily.
+// ---
+
 package org.chromium.components.module_installer.builder;
 
 import android.app.Activity;

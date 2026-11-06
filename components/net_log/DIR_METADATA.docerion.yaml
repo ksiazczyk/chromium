@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracking metadata for net_log
+summary: Maps the directory to the Monorail component Internals>Network>Logging and a Buganizer component ID for issue tracking.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActivityObserverUtil
+// summary: Registers a default activity observer that listens for activity state changes and applies SplitCompat to activities when modules are installed.
+// ---
+
 package org.chromium.components.module_installer.util;
 
 import org.chromium.base.ApplicationStatus;

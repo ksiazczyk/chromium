@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InterceptNavigationDelegate class declaration
+// summary: Declares the native InterceptNavigationDelegate class that associates a Java delegate with a WebContents and creates navigation throttles for interception.
+// ---
+
 #ifndef COMPONENTS_NAVIGATION_INTERCEPTION_INTERCEPT_NAVIGATION_DELEGATE_H_
 #define COMPONENTS_NAVIGATION_INTERCEPTION_INTERCEPT_NAVIGATION_DELEGATE_H_
 

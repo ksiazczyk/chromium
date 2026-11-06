@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filter store backend implementation
+// summary: Implements FilterStoreBackend, which opens the in-memory SQLite database on a background sequence and delegates annotation operations to FilterAnnotationTable.
+// ---
+
 #include "components/multistep_filter/core/storage/filter_store_backend.h"
 
 #include <stddef.h>

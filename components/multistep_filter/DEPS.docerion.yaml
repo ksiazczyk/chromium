@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the multistep filter component
+summary: Lists the allowed include dependencies for the component, with extra test-only includes for unittest files.

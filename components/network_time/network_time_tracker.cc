@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkTimeTracker implementation
+// summary: Implements the NetworkTimeTracker, handling scheduled and on-demand time queries, backoff, pref persistence, and secure time resolution.
+// ---
+
 #include "components/network_time/network_time_tracker.h"
 
 #include <stddef.h>

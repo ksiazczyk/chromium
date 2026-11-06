@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network session configurator header
+// summary: Declares helper functions that configure HttpNetworkSessionParams and QuicParams from field trials and the command line, and choose the disk cache type.
+// ---
+
 #ifndef COMPONENTS_NETWORK_SESSION_CONFIGURATOR_BROWSER_NETWORK_SESSION_CONFIGURATOR_H_
 #define COMPONENTS_NETWORK_SESSION_CONFIGURATOR_BROWSER_NETWORK_SESSION_CONFIGURATOR_H_
 

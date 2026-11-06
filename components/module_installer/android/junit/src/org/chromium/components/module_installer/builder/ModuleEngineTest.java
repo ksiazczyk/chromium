@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ModuleEngineTest
+// summary: JUnit Robolectric test suite for ModuleEngine, verifying that initActivity, isInstalled, installDeferred and install calls are delegated to the mocked InstallEngine.
+// ---
+
 package org.chromium.components.module_installer.builder;
 
 import static org.junit.Assert.assertFalse;

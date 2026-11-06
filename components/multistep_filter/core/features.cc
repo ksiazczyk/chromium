@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multistep Filter feature flag definitions
+// summary: Defines the Multistep Filter base::Feature flags and field trial parameters such as suggestion candidate limits, session durations and feedback URL.
+// ---
+
 #include "components/multistep_filter/core/features.h"
 
 #include <cstddef>

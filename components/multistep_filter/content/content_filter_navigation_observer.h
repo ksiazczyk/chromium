@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content filter navigation observer class declaration
+// summary: Declares a per-tab WebContentsObserver that detects primary main frame navigations and drives the Multistep Filter suggestion flow via FilterTabController.
+// ---
+
 #ifndef COMPONENTS_MULTISTEP_FILTER_CONTENT_CONTENT_FILTER_NAVIGATION_OBSERVER_H_
 #define COMPONENTS_MULTISTEP_FILTER_CONTENT_CONTENT_FILTER_NAVIGATION_OBSERVER_H_
 

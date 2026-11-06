@@ -1,3 +1,9 @@
+---
+type: readme
+title: Named system lock component overview
+summary: Describes the cross-process named system lock supported on Linux, macOS, and Windows, including per-platform implementations and Linux shared memory leak caveats.
+---
+
 This component provides a named system lock that allows for synchronization
 across multiple processes without relying on lockfiles. Linux, MacOS, and
 Windows are supported.

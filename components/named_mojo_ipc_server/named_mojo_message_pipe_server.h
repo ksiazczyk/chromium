@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NamedMojoMessagePipeServer declaration
+// summary: Declares the server helper that sends Mojo invitations over a named platform channel and returns unbound message pipes, with validator and ready callbacks for clients.
+// ---
+
 #ifndef COMPONENTS_NAMED_MOJO_IPC_SERVER_NAMED_MOJO_MESSAGE_PIPE_SERVER_H_
 #define COMPONENTS_NAMED_MOJO_IPC_SERVER_NAMED_MOJO_MESSAGE_PIPE_SERVER_H_
 

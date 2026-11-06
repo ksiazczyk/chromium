@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filter initiated navigation marker implementation
+// summary: Implements the NavigationHandle user data marker that records when a navigation was initiated by accepting a filter suggestion.
+// ---
+
 #include "components/multistep_filter/content/filter_initiated_navigation_marker.h"
 
 #include "content/public/browser/navigation_handle.h"

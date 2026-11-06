@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA
+summary: Chromium metadata file mapping this component to the Mobile>FeatureModules Monorail component and Buganizer component 1457149.

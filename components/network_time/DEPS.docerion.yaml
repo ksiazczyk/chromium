@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for network_time
+summary: Specifies the include rules allowing the network_time component to depend on client_update_protocol, prefs, net, and network service headers.

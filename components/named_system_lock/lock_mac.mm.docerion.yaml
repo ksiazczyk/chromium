@@ -1,0 +1,4 @@
+# Docerion header of lock_mac.mm.
+type: source
+title: macOS implementation of the named system lock
+summary: Implements ScopedLock on macOS by acquiring receive rights to a named Mach bootstrap service and polling until the lock becomes available.

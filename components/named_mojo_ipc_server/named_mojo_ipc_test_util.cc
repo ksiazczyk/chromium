@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test utility for random server names
+// summary: Implements GenerateRandomServerName, which builds a unique server name under the temporary directory for use in tests.
+// ---
+
 #include "components/named_mojo_ipc_server/named_mojo_ipc_test_util.h"
 
 #include <inttypes.h>

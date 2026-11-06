@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModuleDescriptor
+// summary: Interface that provides information about a dynamic feature module, such as its PAK resource files and whether native code loads on getImpl().
+// ---
+
 package org.chromium.components.module_installer.builder;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple network hints handler implementation
+// summary: Implements the browser-side NetworkHintsHandler, issuing speculative DNS prefetch and preconnect requests via the network context for each render frame.
+// ---
+
 #include "components/network_hints/browser/simple_network_hints_handler_impl.h"
 
 #include <memory>

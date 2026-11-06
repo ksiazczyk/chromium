@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Filter application verifier unit tests
+// summary: Unit tests covering Verify outcomes for success, missing or null annotations, and attribute mismatches with missing key reporting.
+// ---
+
 #include "components/multistep_filter/core/verification/filter_application_verifier.h"
 
 #include <optional>

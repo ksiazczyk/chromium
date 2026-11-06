@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network error page rendering logic
+// summary: Renders the network error page with Lit, handling details toggling, DNS probe updates, controller actions and initialization of the offline dino game.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';
 import type {LoadTimeDataRaw} from 'chrome://resources/js/load_time_data.js';

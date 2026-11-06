@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac endpoint connector implementation
+// summary: macOS implementation that receives Mach messages on the server port and notifies the delegate with the client endpoint and PID from the audit token.
+// ---
+
 #include "components/named_mojo_ipc_server/named_mojo_server_endpoint_connector.h"
 
 #include <bsm/libbsm.h>

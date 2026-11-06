@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL filter suggestion data model
+// summary: Declares the UrlFilterSuggestion and FilterAttributeUiLabel structs that hold data for URL-based filter suggestions in the multistep filter component.
+// ---
+
 #ifndef COMPONENTS_MULTISTEP_FILTER_CORE_DATA_MODELS_URL_FILTER_SUGGESTION_H_
 #define COMPONENTS_MULTISTEP_FILTER_CORE_DATA_MODELS_URL_FILTER_SUGGESTION_H_
 

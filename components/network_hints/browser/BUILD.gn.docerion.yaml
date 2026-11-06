@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the network_hints browser component
+summary: Defines the browser source_set listing the handler sources and its public dependencies on base, content, IPC, Mojo and network services.

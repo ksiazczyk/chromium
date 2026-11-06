@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetExportFileWriter implementation
+// summary: Implements the NetExportFileWriter class that sets up the default log directory and writes network log exports in JSON or NDJSON format.
+// ---
+
 #include "components/net_log/net_export_file_writer.h"
 
 #include <memory>

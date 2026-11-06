@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sprite and obstacle definitions for the dino game
+// summary: Defines sprite positions, collision boxes, obstacle types and the spriteDefinitionByType data used to render the dino game.
+// ---
+
 import type {BackgroundElConfig, BackgroundElSpriteConfig} from './background_el.js';
 import type {AltGameEndConfig, AltGameModePanelDimensions} from './game_over_panel.js';
 import type {HorizonLineConfig} from './horizon_line.js';

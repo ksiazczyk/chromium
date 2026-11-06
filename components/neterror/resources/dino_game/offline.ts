@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Main runner logic for the Chrome offline dino game
+// summary: Contains the Runner class and its configuration that drive the offline dino game, handling input, sound, game modes, speed and the game loop.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';
 

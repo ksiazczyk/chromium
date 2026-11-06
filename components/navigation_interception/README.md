@@ -1,3 +1,9 @@
+---
+type: readme
+title: Navigation interception
+summary: Explains that the component provides an Android interface for intercepting navigations, leaving the response to the content embedder such as opening an Intent.
+---
+
 # Navigation interception
 
 This component is for navigation interception on the Android platform.

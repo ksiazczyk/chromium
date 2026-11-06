@@ -3,6 +3,12 @@
 // found in the LICENSE file.
 
 
+// ---docerion
+// type: source
+// title: JavaScript controller for the net-export WebUI
+// summary: Implements the NetExportView singleton that starts and stops net logging, sends options via chrome.send and updates the UI on state changes.
+// ---
+
 // <if expr="is_ios">
 import 'chrome://resources/js/ios/web_ui.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LogEntry unit tests
+// summary: Tests the event type name mapping, the DCHECK on invalid event types, and the ToValue conversion of log entry fields.
+// ---
+
 #include "components/multistep_filter/core/logging/log_entry.h"
 
 #include <optional>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the network_session_configurator common component
+summary: Defines the GN build target for the common component, listing its sources, a public dependency on //base, and the NETWORK_SESSION_CONFIGURATOR_IMPLEMENTATION define.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for annotation index conversion utilities
+// summary: Tests the conversion functions between filter annotations, suggestion candidates and annotation index protos.
+// ---
+
 #include "components/multistep_filter/core/annotation_index/annotation_index_conversion_util.h"
 
 #include <vector>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn targets for Multistep Filter retention prefs
+summary: Defines source_set targets for the Multistep Filter retention preference code and its unit tests, including their dependencies.

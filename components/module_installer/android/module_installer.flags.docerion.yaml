@@ -1,0 +1,4 @@
+# Docerion header of module_installer.flags.
+type: config
+title: Proguard keep rules for module installer
+summary: R8/ProGuard flags that keep ModuleInterface implementation classes so module impls survive obfuscation.

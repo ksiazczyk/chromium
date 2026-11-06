@@ -6,6 +6,12 @@
 // files.
 // no-include-guard-because-multiply-included
 
+// ---docerion
+// type: source
+// title: Macro list of network command-line switches
+// summary: Lists network command-line switches such as QUIC, HTTP/2, and certificate-error options via the NETWORK_SWITCH macro for repeated inclusion without a header guard.
+// ---
+
 // Disables the QUIC protocol.
 NETWORK_SWITCH(kDisableQuic, "disable-quic")
 

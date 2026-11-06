@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the browser directory
+summary: Specifies the allowed include dependencies for the browser directory, permitting base, network_session_configurator, variations, and net.

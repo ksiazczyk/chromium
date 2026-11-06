@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Annotation index conversion utilities declarations
+// summary: Declares conversion functions between filter annotation data models and annotation index protobuf messages.
+// ---
+
 #ifndef COMPONENTS_MULTISTEP_FILTER_CORE_ANNOTATION_INDEX_ANNOTATION_INDEX_CONVERSION_UTIL_H_
 #define COMPONENTS_MULTISTEP_FILTER_CORE_ANNOTATION_INDEX_ANNOTATION_INDEX_CONVERSION_UTIL_H_
 

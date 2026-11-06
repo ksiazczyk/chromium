@@ -1,0 +1,4 @@
+# Docerion header of module_desc_java.pydeps.
+type: config
+title: Python dependencies for module_desc_java
+summary: Generated list of Python module dependencies for the module_desc_java build script.

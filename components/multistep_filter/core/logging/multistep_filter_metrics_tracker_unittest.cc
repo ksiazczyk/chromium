@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multistep filter metrics tracker unit tests
+// summary: Unit tests covering the metrics tracker's histogram and UKM logging across suggestion shown, accepted, ignored, and application outcome scenarios.
+// ---
+
 #include "components/multistep_filter/core/logging/multistep_filter_metrics_tracker.h"
 
 #include <algorithm>

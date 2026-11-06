@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: network_hints OWNERS delegation to net
+summary: Delegates code review ownership of the network_hints directory to the owners listed in net/OWNERS.

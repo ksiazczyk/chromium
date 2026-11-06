@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux implementation of the named system lock
+// summary: Implements ScopedLock on Linux using a robust pthread mutex in POSIX shared memory, with ownership and permission checks and timeout-based retry.
+// ---
+
 #include "components/named_system_lock/lock.h"
 
 #include <aio.h>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for net_log resources
+summary: Points trivial or mechanical JS, CSS and HTML changes in this directory to the shared WebUI platform owners file.

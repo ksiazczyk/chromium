@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Network hints common dependency rules
+summary: DEPS file that allows includes from the ipc directory within the network hints common folder.

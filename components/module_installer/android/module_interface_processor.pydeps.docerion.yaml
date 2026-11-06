@@ -1,0 +1,4 @@
+# Docerion header of module_interface_processor.pydeps.
+type: config
+title: Python dependencies for module_interface_processor
+summary: Generated list of Python module dependencies for the module_interface_processor build script.

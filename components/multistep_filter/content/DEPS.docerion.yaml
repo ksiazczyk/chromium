@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the multistep filter content directory
+summary: Restricts which headers files in this directory may include, with extra allowances for unit test files.

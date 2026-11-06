@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebPrescientNetworkingImpl header
+// summary: Declares WebPrescientNetworkingImpl, the blink entry point that sends DNS prefetch and preconnect requests to the network stack via a Mojo NetworkHintsHandler remote.
+// ---
+
 #ifndef COMPONENTS_NETWORK_HINTS_RENDERER_WEB_PRESCIENT_NETWORKING_IMPL_H_
 #define COMPONENTS_NETWORK_HINTS_RENDERER_WEB_PRESCIENT_NETWORKING_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generated sound effects for the dino game
+// summary: Implements oscillator-based audio cues for background sounds, footsteps, jumps and pickups using the Web Audio API.
+// ---
+
 import {IS_IOS} from './constants.js';
 
 export interface GeneratedSoundFxProvider {

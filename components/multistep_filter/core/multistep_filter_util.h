@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multistep filter utility declarations
+// summary: Declares helpers for computing eTLD+1, checking same domain or host, and testing whether one URL is subsumed by another in the multistep filter.
+// ---
+
 #ifndef COMPONENTS_MULTISTEP_FILTER_CORE_MULTISTEP_FILTER_UTIL_H_
 #define COMPONENTS_MULTISTEP_FILTER_CORE_MULTISTEP_FILTER_UTIL_H_
 

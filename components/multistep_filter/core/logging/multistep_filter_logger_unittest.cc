@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multistep filter logger unit tests
+// summary: Unit tests verifying that ScopedLogMessage and the MULTISTEP_FILTER_LOG macro route log entries with details to the router only when logging is enabled.
+// ---
+
 #include "components/multistep_filter/core/logging/multistep_filter_logger.h"
 
 #include <algorithm>

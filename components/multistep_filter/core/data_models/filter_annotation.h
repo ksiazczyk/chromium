@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilterAnnotation and FilterAttribute declarations
+// summary: Declares the FilterAttribute and FilterAnnotation structs that represent normalized key-value attributes and annotations generated from URLs.
+// ---
+
 #ifndef COMPONENTS_MULTISTEP_FILTER_CORE_DATA_MODELS_FILTER_ANNOTATION_H_
 #define COMPONENTS_MULTISTEP_FILTER_CORE_DATA_MODELS_FILTER_ANNOTATION_H_
 

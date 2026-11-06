@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilterTabController class declaration
+// summary: Declares the per-tab controller that reacts to navigations, validates eligibility and consent, and owns the extractor and suggestion generator.
+// ---
+
 #ifndef COMPONENTS_MULTISTEP_FILTER_CORE_FILTER_TAB_CONTROLLER_H_
 #define COMPONENTS_MULTISTEP_FILTER_CORE_FILTER_TAB_CONTROLLER_H_
 

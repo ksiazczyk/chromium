@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EndpointOptions struct for server endpoint configuration
+// summary: Declares EndpointOptions with server name, message pipe ID, invitation flags, and Windows and Linux specific settings for starting the server endpoint.
+// ---
+
 #ifndef COMPONENTS_NAMED_MOJO_IPC_SERVER_ENDPOINT_OPTIONS_H_
 #define COMPONENTS_NAMED_MOJO_IPC_SERVER_ENDPOINT_OPTIONS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for named_mojo_ipc_server
+summary: Defines GN build targets for the named Mojo IPC server static library, a test support library, unit tests, and a test-only mojom binding.

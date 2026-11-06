@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud background item for the dino game
+// summary: Implements the Cloud class that draws cloud sprites, moves them across the canvas and marks them removable once off screen.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import {IS_HIDPI} from './constants.js';

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the network_hints renderer
+summary: Defines the static_library build target for the network_hints renderer, listing the prescient networking sources and public dependencies on base, content, blink, url and Mojo bindings.

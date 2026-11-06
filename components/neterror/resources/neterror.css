@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Styles for the network error page
+summary: Styles the network error page, covering main and subframe layouts, icons, suggestions, buttons, snackbar animations and offline page elements with platform-specific rules.
+*/
+
 /* Don't use the main frame div when the error is in a subframe. */
 html[subframe] #main-frame-error {
   display: none;

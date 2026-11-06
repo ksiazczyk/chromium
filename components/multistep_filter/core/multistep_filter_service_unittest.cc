@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MultistepFilterService unit tests
+// summary: Unit tests for MultistepFilterService covering feature enablement, consent and sync state, retention prefs and annotation deletion.
+// ---
+
 #include "components/multistep_filter/core/multistep_filter_service.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of net log platform constants
+// summary: Builds the clientInfo constants dictionary with product name, version, channel, command line, and OS details that is embedded in NetLog exports.
+// ---
+
 #include "components/net_log/chrome_net_log.h"
 
 #include <utility>
