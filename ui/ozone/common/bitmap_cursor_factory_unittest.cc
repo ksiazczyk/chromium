@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BitmapCursorFactory
+// summary: Verifies that default cursors such as the invisible, pointer, hand, and I-beam cursors are non-null and preserve their cursor type information.
+// ---
+
 #include "ui/ozone/common/bitmap_cursor_factory.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

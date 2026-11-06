@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Latency Mojom build definitions
+summary: GN build file defining the latency Mojom bindings, the shared Mojom traits component, and test-only interfaces.

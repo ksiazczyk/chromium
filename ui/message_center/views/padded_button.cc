@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaddedButton implementation
+// summary: Implements an image button with an empty border and ink drop ripple whose theme-aware base color contrasts with the window background.
+// ---
+
 #include "ui/message_center/views/padded_button.h"
 
 #include <memory>

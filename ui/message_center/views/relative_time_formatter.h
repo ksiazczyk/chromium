@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Relative time formatter header for message center views
+// summary: Declares the message_center function that converts a time delta into a localized relative time UI string and returns how long that string stays valid.
+// ---
+
 #ifndef UI_MESSAGE_CENTER_VIEWS_RELATIVE_TIME_FORMATTER_H_
 #define UI_MESSAGE_CENTER_VIEWS_RELATIVE_TIME_FORMATTER_H_
 

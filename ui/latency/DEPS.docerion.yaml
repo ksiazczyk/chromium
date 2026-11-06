@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for ui/latency
+summary: Restricts allowed includes for the directory, with an exception letting latency_info.h include Mojo public headers.

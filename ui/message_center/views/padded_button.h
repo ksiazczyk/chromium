@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaddedButton class header
+// summary: Declares an image button whose clickable area extends beyond its image through padding, used for notification close and expand buttons.
+// ---
+
 #ifndef UI_MESSAGE_CENTER_VIEWS_PADDED_BUTTON_H_
 #define UI_MESSAGE_CENTER_VIEWS_PADDED_BUTTON_H_
 

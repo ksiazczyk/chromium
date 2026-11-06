@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification view utility header
+// summary: Declares notification view helpers for converting bounded located events and querying the large image corner radius.
+// ---
+
 #ifndef UI_MESSAGE_CENTER_VIEWS_NOTIFICATION_VIEW_UTIL_H_
 #define UI_MESSAGE_CENTER_VIEWS_NOTIFICATION_VIEW_UTIL_H_
 

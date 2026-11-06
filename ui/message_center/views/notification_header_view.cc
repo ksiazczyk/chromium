@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification header view implementation
+// summary: Implements the notification header showing app icon, app name, summary, progress, overflow indicator, timestamp, and expand button with theme-aware colors.
+// ---
+
 #include "ui/message_center/views/notification_header_view.h"
 
 #include <memory>

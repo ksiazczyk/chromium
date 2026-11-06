@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Windows caption style
+// summary: Tests Windows caption style extraction using a redirected registry, covering default versus custom caption themes and the caption style cache.
+// ---
+
 #include "ui/native_theme/caption_style.h"
 
 #include <memory>

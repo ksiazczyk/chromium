@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeWindowTracker interface header
+// summary: Declares the ui::NativeWindowTracker interface with a Create factory and a WasNativeWindowDestroyed check for detecting when a gfx::NativeWindow is closed.
+// ---
+
 #ifndef UI_NATIVE_WINDOW_TRACKER_NATIVE_WINDOW_TRACKER_H_
 #define UI_NATIVE_WINDOW_TRACKER_NATIVE_WINDOW_TRACKER_H_
 

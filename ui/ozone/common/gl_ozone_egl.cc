@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EGL implementation of the Ozone GL interface
+// summary: Implements the GLOzoneEGL class, initializing EGL displays, static GL bindings, GL contexts, and shutdown handling for Ozone platforms.
+// ---
+
 #include "ui/ozone/common/gl_ozone_egl.h"
 
 #include "ui/gl/gl_bindings.h"

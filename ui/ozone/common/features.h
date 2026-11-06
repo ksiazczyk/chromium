@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ozone feature flag declarations
+// summary: Declares Ozone feature flags and helper functions to query their enabled state, such as Wayland overlay delegation and unscaled touchpad scrolling.
+// ---
+
 #ifndef UI_OZONE_COMMON_FEATURES_H_
 #define UI_OZONE_COMMON_FEATURES_H_
 

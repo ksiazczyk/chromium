@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Ozone DEPS include rules
+summary: Defines allowed include paths for the Ozone directory, covering viz, gpu, skia, ui base, display, events, gfx, gl and platform_window headers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformObject::Create implementation
+// summary: Internal header implementing PlatformObject::Create by looking up the selected platform id and invoking its constructor from the constructor list.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_OBJECT_INTERNAL_H_
 #define UI_OZONE_PLATFORM_OBJECT_INTERNAL_H_
 

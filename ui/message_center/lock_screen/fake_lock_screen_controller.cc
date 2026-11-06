@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake lock screen controller implementation
+// summary: Implements FakeLockScreenController, a controllable fake that stores pending callbacks and supports simulated unlock and cancel actions for tests.
+// ---
+
 #include "ui/message_center/lock_screen/fake_lock_screen_controller.h"
 
 #include <ostream>

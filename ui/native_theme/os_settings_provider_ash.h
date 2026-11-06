@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS Ash OS settings provider class declaration
+// summary: Declares OsSettingsProviderAsh, which receives color palette updates from Ash controllers and exposes scheme, accent color, and scheme variant preferences.
+// ---
+
 #ifndef UI_NATIVE_THEME_OS_SETTINGS_PROVIDER_ASH_H_
 #define UI_NATIVE_THEME_OS_SETTINGS_PROVIDER_ASH_H_
 

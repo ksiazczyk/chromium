@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fallback Linux UI class declaration
+// summary: Declares FallbackLinuxUi, a convenience base class meant to be overridden by tests so they need not stub every LinuxUi and LinuxUiTheme method.
+// ---
+
 #ifndef UI_LINUX_FALLBACK_LINUX_UI_H_
 #define UI_LINUX_FALLBACK_LINUX_UI_H_
 

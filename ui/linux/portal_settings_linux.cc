@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PortalSettingsLinux implementation
+// summary: Reads color scheme and accent color preferences from org.freedesktop.portal.Settings over D-Bus and pushes them into the toolkit settings providers.
+// ---
+
 #include "ui/linux/portal_settings_linux.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fallback Linux UI implementation
+// summary: Implements FallbackLinuxUi, a toolkit-free Linux UI that supplies default font rendering, window frame actions, and dark theme handling when no GTK or Qt toolkit is available.
+// ---
+
 #include "ui/linux/fallback_linux_ui.h"
 
 #include "base/notimplemented.h"

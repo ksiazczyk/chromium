@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Linux UI test stub header
+// summary: Declares FakeLinuxUi, a stub LinuxUiAndTheme base class intended to be overridden by tests.
+// ---
+
 #ifndef UI_LINUX_FAKE_LINUX_UI_H_
 #define UI_LINUX_FAKE_LINUX_UI_H_
 

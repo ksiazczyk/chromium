@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EGL readback GL surface implementation
+// summary: Implements a pbuffer-backed GL surface that reads rendered pixels back into memory on swap, intended for SwiftShader where no FBO support exists.
+// ---
+
 #include "ui/ozone/common/gl_surface_egl_readback.h"
 
 #include <utility>

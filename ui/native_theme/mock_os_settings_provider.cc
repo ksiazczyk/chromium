@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock OS settings provider implementation
+// summary: Implements MockOsSettingsProvider, a test double for OsSettingsProvider whose setters simulate OS theme settings like color scheme, contrast, and accent color while notifying NativeTheme.
+// ---
+
 #include "ui/native_theme/mock_os_settings_provider.h"
 
 #include <optional>

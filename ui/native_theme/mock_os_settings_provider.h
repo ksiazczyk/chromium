@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock OS settings provider header
+// summary: Declares MockOsSettingsProvider, a mock OsSettingsProvider that lets test fixtures override real OS settings and automatically notifies NativeTheme of changes made via its setters.
+// ---
+
 #ifndef UI_NATIVE_THEME_MOCK_OS_SETTINGS_PROVIDER_H_
 #define UI_NATIVE_THEME_MOCK_OS_SETTINGS_PROVIDER_H_
 

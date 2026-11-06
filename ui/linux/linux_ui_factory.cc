@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux UI toolkit factory
+// summary: Creates and caches the LinuxUi instance for GTK, Qt, or the fallback toolkit based on command line flags and the detected default system theme.
+// ---
+
 #include "ui/linux/linux_ui_factory.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS scrollbar animator header
+// summary: Declares the macOS scrollbar animation timer and overlay scrollbar animator classes that control thumb and track alpha and width.
+// ---
+
 #ifndef UI_NATIVE_THEME_SCROLLBAR_ANIMATOR_MAC_H_
 #define UI_NATIVE_THEME_SCROLLBAR_ANIMATOR_MAC_H_
 

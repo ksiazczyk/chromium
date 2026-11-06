@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Message center test DEPS include rules
+summary: Defines include rules allowing Mojo embedder and GL test support headers within the message center test directory.

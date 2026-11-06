@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LinuxUi interface for toolkit-specific Linux desktop UI
+// summary: Declares the LinuxUi interface, the main entrypoint behind which GTK or Qt code runs, including observer registration, font settings, and window frame action types.
+// ---
+
 #ifndef UI_LINUX_LINUX_UI_H_
 #define UI_LINUX_LINUX_UI_H_
 

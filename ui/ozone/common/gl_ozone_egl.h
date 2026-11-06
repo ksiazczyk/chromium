@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLOzoneEGL class declaration for EGL-based Ozone platforms
+// summary: Declares a partial GLOzone implementation for EGL, with platform subclasses providing native display handles, GLES2 bindings, and surface creation.
+// ---
+
 #ifndef UI_OZONE_COMMON_GL_OZONE_EGL_H_
 #define UI_OZONE_COMMON_GL_OZONE_EGL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mobile native theme implementation
+// summary: Implements mobile-specific control colors and larger checkbox and radio part sizes for touch-friendly rendering on small devices.
+// ---
+
 #include "ui/native_theme/native_theme_mobile.h"
 
 #include "base/notreached.h"

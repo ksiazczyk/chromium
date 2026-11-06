@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StatusIconLinux interface
+// summary: Declares StatusIconLinux and its delegate interface for platform status icons with image, tooltip and context menu support.
+// ---
+
 #ifndef UI_LINUX_STATUS_ICON_LINUX_H_
 #define UI_LINUX_STATUS_ICON_LINUX_H_
 

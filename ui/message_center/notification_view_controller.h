@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: notification_view_controller.h
+// summary: Declares the NotificationViewController interface for managing group notification views, including converting between grouped and ungrouped notification views.
+// ---
+
 #ifndef UI_MESSAGE_CENTER_NOTIFICATION_VIEW_CONTROLLER_H_
 #define UI_MESSAGE_CENTER_NOTIFICATION_VIEW_CONTROLLER_H_
 

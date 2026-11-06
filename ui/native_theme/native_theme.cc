@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeTheme core implementation
+// summary: Implements the core NativeTheme class, including platform-specific instance selection, preferred color scheme overrides, and change notification for theme observers.
+// ---
+
 #include "ui/native_theme/native_theme.h"
 
 #include <stddef.h>

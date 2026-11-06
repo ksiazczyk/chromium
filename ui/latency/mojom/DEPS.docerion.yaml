@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Latency Mojom include rules
+summary: Declares the allowed include dependencies for the ui/latency/mojom directory.

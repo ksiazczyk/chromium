@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativePixmapEGLBinding class declaration
+// summary: Declares a binding between a NativePixmap and GL textures via EGLImage, including format support checks and per-plane handling.
+// ---
+
 #ifndef UI_OZONE_COMMON_NATIVE_PIXMAP_EGL_BINDING_H_
 #define UI_OZONE_COMMON_NATIVE_PIXMAP_EGL_BINDING_H_
 

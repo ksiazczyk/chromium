@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop message popup collection implementation
+// summary: Implements popup alignment and work-area handling for notification popups on non-ash Windows and Linux desktops, recomputing alignment when display configuration changes.
+// ---
+
 #include "ui/message_center/views/desktop_message_popup_collection.h"
 
 #include "ui/display/screen.h"

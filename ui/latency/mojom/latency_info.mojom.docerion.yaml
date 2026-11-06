@@ -1,0 +1,4 @@
+# Docerion header of latency_info.mojom.
+type: source
+title: LatencyInfo Mojom interface
+summary: Defines the LatencyComponentType enum and LatencyInfo struct used to serialize input latency data over Mojo.

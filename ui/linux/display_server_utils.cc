@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display server detection and Ozone platform selection
+// summary: Implements helpers that detect available Wayland or X11 displays from environment variables and set the Ozone platform command line switch accordingly.
+// ---
+
 #include "ui/linux/display_server_utils.h"
 
 #include <optional>

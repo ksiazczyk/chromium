@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PortalSettingsLinux class declaration
+// summary: Declares PortalSettingsLinux, which subscribes to freedesktop portal settings for color scheme and accent color changes and maps them to NativeTheme values.
+// ---
+
 #ifndef UI_LINUX_PORTAL_SETTINGS_LINUX_H_
 #define UI_LINUX_PORTAL_SETTINGS_LINUX_H_
 

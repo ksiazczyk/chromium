@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Message center waiter test helper header
+// summary: Declares MessageCenterWaiter, a test helper using base::test::RunUntil to await notification add, update, and removal events with timeout safety.
+// ---
+
 #ifndef UI_MESSAGE_CENTER_TEST_MESSAGE_CENTER_WAITER_H_
 #define UI_MESSAGE_CENTER_TEST_MESSAGE_CENTER_WAITER_H_
 

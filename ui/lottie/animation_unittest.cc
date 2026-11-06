@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Lottie Animation class
+// summary: Tests animation playback, cycles, observers, and paint output using test Lottie data and gmock matchers.
+// ---
+
 #include "ui/lottie/animation.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification view base implementation
+// summary: Implements NotificationViewBase, the shared base class for notification views handling title, message, list items, progress bar, actions, and large images.
+// ---
+
 #include "ui/message_center/views/notification_view_base.h"
 
 #include <stddef.h>

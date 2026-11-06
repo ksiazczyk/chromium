@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common directory metadata for message center
+summary: Declares the Monorail component, team email, and Buganizer component used for issue tracking of the message center directory.

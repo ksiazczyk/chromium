@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura native theme implementation
+// summary: Implements Aura-specific native theme painting, including overlay scrollbar nine-patch support, thumb insets and sizes, arrow buttons, and menu popup backgrounds.
+// ---
+
 #include "ui/native_theme/native_theme_aura.h"
 
 #include <optional>

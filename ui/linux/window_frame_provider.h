@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowFrameProvider interface for Linux window frame drawing
+// summary: Abstract interface that supplies window frame metrics such as corner radius, frame thickness, and top area padding, and paints the native window border and shadow on Linux.
+// ---
+
 #ifndef UI_LINUX_WINDOW_FRAME_PROVIDER_H_
 #define UI_LINUX_WINDOW_FRAME_PROVIDER_H_
 

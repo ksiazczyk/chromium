@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LinuxUiDelegate interface for window handle export
+// summary: Declares the LinuxUiDelegate interface with backend selection and platform-dependent export of X11 or Wayland window handles for Aura windows.
+// ---
+
 #ifndef UI_LINUX_LINUX_UI_DELEGATE_H_
 #define UI_LINUX_LINUX_UI_DELEGATE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the ui/lottie directory
+summary: Lists fmalita@chromium.org as the code owner for the directory.

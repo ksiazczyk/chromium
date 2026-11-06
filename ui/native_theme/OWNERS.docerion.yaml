@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the ui/native_theme directory
+summary: Names the reviewer responsible for changes in the ui/native_theme directory.

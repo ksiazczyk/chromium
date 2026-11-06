@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Android OS settings provider
+// summary: Verifies that changing the preferred color scheme on the Android provider notifies registered settings-changed observers and that redundant updates do not notify.
+// ---
+
 #include "ui/native_theme/os_settings_provider_android.h"
 
 #include "base/functional/bind.h"

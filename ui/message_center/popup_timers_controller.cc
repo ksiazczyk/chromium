@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: popup_timers_controller.cc
+// summary: Implements PopupTimersController, a message center observer that creates and manages auto-dismiss timers for popup notifications with default and high-priority delays.
+// ---
+
 #include "ui/message_center/popup_timers_controller.h"
 
 #include <algorithm>

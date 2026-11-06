@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageCenterImpl class declaration
+// summary: Declares MessageCenterImpl, the default MessageCenter implementation with APIs for observers, blockers, visibility, and notification management.
+// ---
+
 #ifndef UI_MESSAGE_CENTER_MESSAGE_CENTER_IMPL_H_
 #define UI_MESSAGE_CENTER_MESSAGE_CENTER_IMPL_H_
 

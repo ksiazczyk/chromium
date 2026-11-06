@@ -1,0 +1,4 @@
+# Docerion header of message_popup_view_mac.mm.
+type: source
+title: Mac implementation of MessagePopupView opacity
+summary: Implements MessagePopupView::GetOpacity on macOS by reading the alpha value of the native NSWindow.

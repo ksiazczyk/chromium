@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Linux UI test stub implementation
+// summary: Implements a stub LinuxUi that returns placeholder values so tests can subclass it and override only the methods they need.
+// ---
+
 #include "ui/linux/fake_linux_ui.h"
 
 #include "ui/base/ime/linux/linux_input_method_context.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OS settings provider unit tests
+// summary: Unit tests for OsSettingsProvider default behavior, verifying preferred color scheme and contrast derived from forced colors and system colors.
+// ---
+
 #include "ui/native_theme/os_settings_provider.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Large image view unit tests
+// summary: Unit tests verifying LargeImageView's preferred size and drawn image results when images of various sizes are set and view bounds change.
+// ---
+
 #include "ui/message_center/views/large_image_view.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for bitmap cursor files
+summary: Delegates review ownership of the bitmap cursor sources, factory, and unit test to the owners of ui/base/cursor.

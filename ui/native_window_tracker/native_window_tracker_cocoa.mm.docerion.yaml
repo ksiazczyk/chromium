@@ -1,0 +1,4 @@
+# Docerion header of native_window_tracker_cocoa.mm.
+type: source
+title: Cocoa implementation of NativeWindowTracker
+summary: Implements NativeWindowTracker for macOS with a BridgedNativeWindowTracker Objective-C class that observes NSWindowWillCloseNotification for the tracked window.

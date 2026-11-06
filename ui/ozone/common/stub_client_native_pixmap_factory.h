@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub client native pixmap factory header
+// summary: Declares CreateStubClientNativePixmapFactory, which returns a stub client native pixmap factory for platforms that do not need to share native pixmaps.
+// ---
+
 #ifndef UI_OZONE_COMMON_STUB_CLIENT_NATIVE_PIXMAP_FACTORY_H_
 #define UI_OZONE_COMMON_STUB_CLIENT_NATIVE_PIXMAP_FACTORY_H_
 

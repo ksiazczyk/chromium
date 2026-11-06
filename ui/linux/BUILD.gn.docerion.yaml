@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the Linux UI components
+summary: Defines GN build targets for the Linux UI, including the linux_ui component, factory, display server utilities, test support, and portal settings sources.

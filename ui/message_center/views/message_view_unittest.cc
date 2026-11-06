@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Unit tests for MessageView
+// summary: Tests MessageView behavior such as control button visibility on mouse enter and exit and accessible attributes.
+// ---
+
 #include "ui/message_center/views/message_view.h"
 
 #include <memory>

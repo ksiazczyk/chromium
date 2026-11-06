@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the Android menus directory
+summary: Lists code owners for ui/menus/android, delegating to ui/android/OWNERS and naming jhimawan@google.com.

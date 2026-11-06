@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native theme observer interface
+// summary: Declares the NativeThemeObserver interface with callbacks for native theme updates and caption style changes.
+// ---
+
 #ifndef UI_NATIVE_THEME_NATIVE_THEME_OBSERVER_H_
 #define UI_NATIVE_THEME_NATIVE_THEME_OBSERVER_H_
 

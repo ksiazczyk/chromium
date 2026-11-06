@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS Ash OS settings provider implementation
+// summary: Implements the Ash OsSettingsProvider, storing ChromeOS color palette data such as preferred color scheme, accent color, and scheme variant and notifying on changes.
+// ---
+
 #include "ui/native_theme/os_settings_provider_ash.h"
 
 #include <optional>

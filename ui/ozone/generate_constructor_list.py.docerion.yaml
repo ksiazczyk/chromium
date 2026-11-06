@@ -1,0 +1,4 @@
+# Docerion header of generate_constructor_list.py.
+type: script
+title: Constructor list code generator for PlatformObject
+summary: Python code generator that emits a C++ source file with the ordered constructor list for PlatformObject types from a list of platform names.

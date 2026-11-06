@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the Lottie Animation class
+// summary: Implements timeline control, cycle boundaries, playback speed, and painting of Skia-based Lottie vector animations.
+// ---
+
 #include "ui/lottie/animation.h"
 
 #include <algorithm>

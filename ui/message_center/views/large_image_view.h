@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Large image view header
+// summary: Declares LargeImageView, a view that displays a notification's large image resized and cropped to fit its bounds, exported for tests.
+// ---
+
 #ifndef UI_MESSAGE_CENTER_VIEWS_LARGE_IMAGE_VIEW_H_
 #define UI_MESSAGE_CENTER_VIEWS_LARGE_IMAGE_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LatencyInfo class and latency component types
+// summary: Declares the LatencyInfo class and the LatencyComponentType enum used to timestamp stages of input event latency.
+// ---
+
 #ifndef UI_LATENCY_LATENCY_INFO_H_
 #define UI_LATENCY_LATENCY_INFO_H_
 

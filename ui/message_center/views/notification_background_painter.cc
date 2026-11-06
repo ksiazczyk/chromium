@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationBackgroundPainter implementation
+// summary: Paints notification backgrounds as rounded rectangles with configurable corner radii, color, and insets.
+// ---
+
 #include "ui/message_center/views/notification_background_painter.h"
 
 #include "third_party/skia/include/core/SkPath.h"

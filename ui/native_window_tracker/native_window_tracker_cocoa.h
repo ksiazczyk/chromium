@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the Cocoa NativeWindowTracker
+// summary: Declares NativeWindowTrackerCocoa, which hides its Objective-C state behind an opaque ObjCStorage struct to track NSWindow closure on macOS.
+// ---
+
 #ifndef UI_NATIVE_WINDOW_TRACKER_NATIVE_WINDOW_TRACKER_COCOA_H_
 #define UI_NATIVE_WINDOW_TRACKER_NATIVE_WINDOW_TRACKER_COCOA_H_
 

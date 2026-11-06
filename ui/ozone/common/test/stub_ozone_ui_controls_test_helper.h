@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stub Ozone UI controls test helper (header)
+// summary: Declares factory functions for creating stub OzoneUIControlsTestHelper instances for the DRM, Flatland, headless and Cast Ozone platforms.
+// ---
+
 #ifndef UI_OZONE_COMMON_TEST_STUB_OZONE_UI_CONTROLS_TEST_HELPER_H_
 #define UI_OZONE_COMMON_TEST_STUB_OZONE_UI_CONTROLS_TEST_HELPER_H_
 

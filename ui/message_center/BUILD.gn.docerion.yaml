@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Message center build configuration
+summary: GN build file that defines the message_center component, aggregates its vector icons, and lists the sources and dependencies of the notification UI library.

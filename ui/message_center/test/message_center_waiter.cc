@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Message center waiter test helper implementation
+// summary: Implements a MessageCenterObserver-based helper that waits until a given notification is added, updated, or removed from the message center.
+// ---
+
 #include "ui/message_center/test/message_center_waiter.h"
 
 #include "base/check.h"

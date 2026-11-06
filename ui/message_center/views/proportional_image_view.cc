@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProportionalImageView implementation
+// summary: Implements a view that scales and centers images while preserving aspect ratio, optionally drawing them with rounded corners.
+// ---
+
 #include "ui/message_center/views/proportional_image_view.h"
 
 #include "third_party/skia/include/core/SkPath.h"

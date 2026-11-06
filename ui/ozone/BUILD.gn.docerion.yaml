@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Ozone build targets and platform configuration
+summary: GN build file that assembles the Ozone targets and wires in built platforms such as headless, drm, cast, wayland, x11 and flatland with their test dependencies.

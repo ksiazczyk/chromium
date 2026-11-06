@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the lottie component
+summary: Defines the lottie component build target with its sources and dependencies on base, cc/paint, ui/color, and ui/gfx.

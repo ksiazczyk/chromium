@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EGL utility for loading GL bindings in Ozone
+// summary: Loads EGL and GLES2 native libraries and initializes GL bindings for Ozone platforms, with support for ANGLE and apitrace tracing.
+// ---
+
 #include "ui/ozone/common/egl_util.h"
 
 #include "base/command_line.h"

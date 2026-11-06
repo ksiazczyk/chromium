@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NativeThemeBase unit tests
+// summary: Unit tests for NativeThemeBase verifying scrollbar arrow bounding rects, arrow triangle paths at various scales, and contrasting color behavior for scrollbar parts.
+// ---
+
 #include "ui/native_theme/native_theme_base.h"
 
 #include <stddef.h>

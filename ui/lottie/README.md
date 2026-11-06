@@ -1,3 +1,9 @@
+---
+type: readme
+title: Lottie Animations in Chromium
+summary: Explains what Lottie animations are, their benefits over PNG assets, and how to integrate or convert illustrations for use in Chrome.
+---
+
 # Lottie Animations in Chromium
 
 ## What is Lottie?

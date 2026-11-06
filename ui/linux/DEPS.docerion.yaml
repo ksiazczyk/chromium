@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for ui/linux
+summary: Specifies allowed include directories for ui/linux files, with per-file exceptions for the factory, fallback UI, and display server utilities.

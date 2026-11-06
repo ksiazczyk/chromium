@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleMenuModel class declaration
+// summary: Declares the SimpleMenuModel class and its Delegate interface for building fixed menus, including the IsNewFeatureAtValue pass-key type.
+// ---
+
 #ifndef UI_MENUS_SIMPLE_MENU_MODEL_H_
 #define UI_MENUS_SIMPLE_MENU_MODEL_H_
 

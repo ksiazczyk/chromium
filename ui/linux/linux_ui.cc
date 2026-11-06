@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LinuxUi singleton and theme base implementation
+// summary: Implements LinuxUi singleton management, observer lists for cursor theme, scale factor and paste preferences, command line copying, and LinuxUiTheme accessors.
+// ---
+
 #include "ui/linux/linux_ui.h"
 
 #include <cstdio>

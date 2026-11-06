@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: notification_list.cc
+// summary: Implements NotificationList, storing notifications sorted by priority, timestamp and serial number, and applying notification blockers when determining popup visibility.
+// ---
+
 #include "ui/message_center/notification_list.h"
 
 #include <ranges>

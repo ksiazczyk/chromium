@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification header view unit tests
+// summary: Unit tests for NotificationHeaderView covering timestamp updates over time, icon colors, settings mode, and group child notification visibility.
+// ---
+
 #include "ui/message_center/views/notification_header_view.h"
 
 #include <memory>

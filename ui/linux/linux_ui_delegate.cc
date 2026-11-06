@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LinuxUiDelegate base implementation
+// summary: Implements LinuxUiDelegate singleton instance management and a default SetTransientWindowForParent that aborts on platforms not implementing it.
+// ---
+
 #include "ui/linux/linux_ui_delegate.h"
 
 #include "base/check_op.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS scrollbar animator implementation
+// summary: Implements the macOS scrollbar animation timer and overlay scrollbar animator handling fade in and out, thumb expansion, and scroll behavior.
+// ---
+
 #include "ui/native_theme/scrollbar_animator_mac.h"
 
 #include <algorithm>

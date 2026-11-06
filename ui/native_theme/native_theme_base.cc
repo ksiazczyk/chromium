@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base native theme implementation
+// summary: Implements the platform-neutral NativeThemeBase painting of UI controls such as checkboxes, radios, sliders, scrollbars, and text fields.
+// ---
+
 #include "ui/native_theme/native_theme_base.h"
 
 #include <algorithm>

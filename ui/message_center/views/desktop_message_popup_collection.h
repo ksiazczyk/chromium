@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop message popup collection header
+// summary: Declares DesktopMessagePopupCollection, a MessagePopupCollection subclass that adapts notification popup placement to the work area on Windows and Linux desktops.
+// ---
+
 #ifndef UI_MESSAGE_CENTER_VIEWS_DESKTOP_MESSAGE_POPUP_COLLECTION_H_
 #define UI_MESSAGE_CENTER_VIEWS_DESKTOP_MESSAGE_POPUP_COLLECTION_H_
 

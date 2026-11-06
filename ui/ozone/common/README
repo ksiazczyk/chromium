@@ -1,2 +1,8 @@
+---
+type: readme
+title: Overview of the Ozone common directory
+summary: Explains that the directory holds code shared by multiple Ozone platforms that is not part of the public platform API and must not be used outside ui/ozone.
+---
+
 This directory contains code that is used by multiple platforms, but is not part
 of the public platform API. This code should not be used outside of ui/ozone.

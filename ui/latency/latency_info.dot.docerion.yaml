@@ -1,0 +1,4 @@
+# Docerion header of latency_info.dot.
+type: reference
+title: Diagram of LatencyInfo components and metrics
+summary: Graphviz diagram showing how latency components relate and which UKM metrics they feed, meant to be updated when components change.

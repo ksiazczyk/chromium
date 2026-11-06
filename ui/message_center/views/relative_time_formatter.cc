@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Relative time formatter for notifications
+// summary: Formats notification timestamps as localized relative strings such as minutes or hours ago and computes when the display should next update.
+// ---
+
 #include "ui/message_center/views/relative_time_formatter.h"
 
 #include <array>

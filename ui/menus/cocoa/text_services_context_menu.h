@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextServicesContextMenu header
+// summary: Declares TextServicesContextMenu, which appends and handles Speech and BiDi writing-direction submenus for Cocoa context menus.
+// ---
+
 #ifndef UI_MENUS_COCOA_TEXT_SERVICES_CONTEXT_MENU_H_
 #define UI_MENUS_COCOA_TEXT_SERVICES_CONTEXT_MENU_H_
 

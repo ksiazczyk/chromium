@@ -1,0 +1,4 @@
+# Docerion header of caption_style_mac.mm.
+type: source
+title: macOS caption style from Media Accessibility settings
+summary: Reads macOS caption appearance settings through the MediaAccessibility framework and converts them into CSS specifier strings for CaptionStyle.

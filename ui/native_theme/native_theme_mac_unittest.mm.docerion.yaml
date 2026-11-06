@@ -1,0 +1,4 @@
+# Docerion header of native_theme_mac_unittest.mm.
+type: test
+title: Mac native theme unit tests
+summary: Unit tests checking NativeThemeMac scrollbar thumb minimum sizes at different device scale factors.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Ozone directory metadata for bug tracking
+summary: Declares the Ozone bug tracking component, team email and Buganizer component id for the directory.

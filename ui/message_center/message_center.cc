@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageCenter global lifecycle implementation
+// summary: Implements the static Initialize, Get, and Shutdown functions that create, expose, and destroy the global MessageCenterImpl instance.
+// ---
+
 #include "ui/message_center/message_center.h"
 
 #include "ui/message_center/lock_screen/empty_lock_screen_controller.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the ui/lottie directory
+summary: Grants the directory access to cc/paint, cc/test, Skia, ui/base, ui/color, and ui/gfx headers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ozone platform selection implementation
+// summary: Implements resolution of the active Ozone platform from the --ozone-platform command-line flag, returning its platform id and name.
+// ---
+
 #include "ui/ozone/platform_selection.h"
 
 #include "base/command_line.h"

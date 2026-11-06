@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CaptionStyle parsing and platform fallback
+// summary: Implements CaptionStyle, parsing a JSON caption specification into style properties and returning no system settings on platforms without a dedicated implementation.
+// ---
+
 #include "ui/native_theme/caption_style.h"
 
 #include "base/json/json_reader.h"

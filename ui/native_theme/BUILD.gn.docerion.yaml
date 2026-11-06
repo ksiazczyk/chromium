@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the native theme component
+summary: Defines the native_theme and test_support components plus the native_theme_unittests target, with platform-specific sources for Android, ChromeOS, Mac and Windows.
