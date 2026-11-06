@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Policy strings GRDP directory metadata
+summary: Declares the Enterprise monorail component, team email and Buganizer component for this directory.

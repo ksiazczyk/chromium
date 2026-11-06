@@ -1,0 +1,4 @@
+# Docerion header of IDS_POLICY_DLP_SCREEN_SHARE_PAUSED_TITLE.png.sha1.
+type: data
+title: SHA1 hash of the DLP screen share paused title image
+summary: Stores the SHA1 checksum of the PNG screenshot for the IDS_POLICY_DLP_SCREEN_SHARE_PAUSED_TITLE policy string identifier.
