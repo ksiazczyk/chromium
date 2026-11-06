@@ -1,0 +1,4 @@
+# Docerion header of strong-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows output for strong element test
+summary: Expected accessibility tree snapshot for the strong element test on Windows via the UIA API, marked as not mapped and skipped.

@@ -1,3 +1,9 @@
+<!--docerion
+type: test
+title: SVG face test graphic with ARIA roles and labels
+summary: SVG test graphic drawing a face from circle, ellipse and path shapes that carry button roles and aria-labels for accessibility testing.
+-->
+
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewbox="0 0 400 400">
 
   <circle role="button" aria-label="face" id="face" r="200" cx="200" cy="200" stroke="red" stroke-width="1" fill="yellow" />

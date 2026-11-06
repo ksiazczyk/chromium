@@ -1,0 +1,4 @@
+# Docerion header of summary-expected-auralinux.txt.
+type: test
+title: Summary test expectations for Aura Linux
+summary: Expected accessibility tree output for the summary HTML test on Aura Linux, covering details/summary naming and description behavior.

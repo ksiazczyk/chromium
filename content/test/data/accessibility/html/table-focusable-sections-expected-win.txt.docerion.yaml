@@ -1,0 +1,4 @@
+# Docerion header of table-focusable-sections-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for table-focusable-sections
+summary: Expected Windows accessibility tree output for the focusable thead, tbody and tfoot table test, listing roles, names and static text.

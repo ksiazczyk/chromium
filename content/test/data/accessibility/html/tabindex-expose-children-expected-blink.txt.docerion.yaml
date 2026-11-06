@@ -1,0 +1,4 @@
+# Docerion header of tabindex-expose-children-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for tabindex expose children test
+summary: Expected Blink internal accessibility tree for the tabindex expose children test, with layout table cells and static text nodes.

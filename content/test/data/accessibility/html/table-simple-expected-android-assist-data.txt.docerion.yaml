@@ -1,0 +1,4 @@
+# Docerion header of table-simple-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for table-simple
+summary: Expected Android assist data dump for the table-simple test page, describing a bordered table with header cells Pair and Single.

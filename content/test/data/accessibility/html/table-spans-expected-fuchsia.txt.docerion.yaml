@@ -1,0 +1,4 @@
+# Docerion header of table-spans-expected-fuchsia.txt.
+type: test
+title: Table spans expected accessibility tree for Fuchsia
+summary: Expected Fuchsia accessibility tree dump for the table-spans HTML test page, describing table cells with row and column span attributes.

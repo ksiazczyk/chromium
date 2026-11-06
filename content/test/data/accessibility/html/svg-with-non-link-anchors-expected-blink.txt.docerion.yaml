@@ -1,0 +1,4 @@
+# Docerion header of svg-with-non-link-anchors-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for SVG with non-link anchors
+summary: Expected Blink accessibility tree snapshot verifying how anchors inside SVG text and shapes are exposed.

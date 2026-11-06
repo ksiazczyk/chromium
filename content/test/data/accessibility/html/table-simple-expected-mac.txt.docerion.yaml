@@ -1,0 +1,4 @@
+# Docerion header of table-simple-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for table-simple
+summary: Expected macOS AX accessibility tree dump for the simple HTML table test page, covering rows, columns, cells and static text.

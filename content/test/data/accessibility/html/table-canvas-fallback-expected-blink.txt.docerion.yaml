@@ -1,0 +1,4 @@
+# Docerion header of table-canvas-fallback-expected-blink.txt.
+type: test
+title: Table canvas fallback expected Blink accessibility tree
+summary: Expected Blink accessibility tree for the table-canvas-fallback page, covering tables inside canvas fallback content and layout tables.

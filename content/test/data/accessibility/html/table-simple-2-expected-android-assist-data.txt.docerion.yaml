@@ -1,0 +1,4 @@
+# Docerion header of table-simple-2-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for table-simple-2
+summary: Expected Android assist data dump for the table-simple-2 test page, describing the 3x3 table's views, rows and cells with HTML tag information.

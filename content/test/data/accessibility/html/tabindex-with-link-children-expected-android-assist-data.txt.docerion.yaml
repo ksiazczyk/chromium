@@ -1,0 +1,4 @@
+# Docerion header of tabindex-with-link-children-expected-android-assist-data.txt.
+type: test
+title: tabindex-with-link-children expected Android assist data
+summary: Empty expected Android assist data snapshot for the tabindex-with-link-children accessibility test.

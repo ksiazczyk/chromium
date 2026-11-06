@@ -1,0 +1,4 @@
+# Docerion header of summary-as-heading-expected-mac.txt.
+type: test
+title: Summary as heading expected macOS accessibility tree
+summary: Expected macOS accessibility tree snapshot for the summary-as-heading details and summary test page.

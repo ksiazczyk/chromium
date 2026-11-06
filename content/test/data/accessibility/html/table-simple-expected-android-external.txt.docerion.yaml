@@ -1,0 +1,4 @@
+# Docerion header of table-simple-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for table-simple
+summary: Expected Android external accessibility description for the table-simple test page, showing table, row, column header and cell roles.

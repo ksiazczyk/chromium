@@ -1,0 +1,4 @@
+# Docerion header of summary-expected-mac.txt.
+type: test
+title: Summary test expectations for macOS
+summary: Expected macOS accessibility tree output for the summary HTML test, using AX roles, titles and help attributes.

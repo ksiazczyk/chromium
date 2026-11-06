@@ -1,0 +1,4 @@
+# Docerion header of table-headers-on-all-sides-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for table-headers-on-all-sides
+summary: Expected Blink accessibility tree for a table with headers on all sides, showing column and row headers with their static text.

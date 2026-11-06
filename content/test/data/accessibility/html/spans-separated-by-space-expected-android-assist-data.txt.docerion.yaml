@@ -1,0 +1,4 @@
+# Docerion header of spans-separated-by-space-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for spans separated by space
+summary: Expected Android assist data output describing the TextView nodes produced by the spans-separated-by-space test page.

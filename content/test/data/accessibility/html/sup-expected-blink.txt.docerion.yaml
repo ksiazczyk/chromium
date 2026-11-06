@@ -1,0 +1,4 @@
+# Docerion header of sup-expected-blink.txt.
+type: test
+title: sup expected accessibility tree for Blink
+summary: Expected Blink accessibility tree for the sup test, listing static text and a superscript node inside a paragraph.

@@ -1,0 +1,4 @@
+# Docerion header of table-presentation-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for table with role=presentation
+summary: Expected Android assist data snapshot for the accessibility test of a table with role=presentation.

@@ -1,0 +1,4 @@
+# Docerion header of svg-and-math-elements-expected-auralinux.txt.
+type: test
+title: svg-and-math-elements expected accessibility tree for Aura Linux
+summary: Expected Aura Linux accessibility tree for the svg-and-math-elements test, covering original and created SVG and MathML elements.

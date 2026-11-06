@@ -1,0 +1,4 @@
+# Docerion header of style-expected-win.txt.
+type: test
+title: Expected Windows output for style element test
+summary: Expected accessibility output for the style element test on Windows, marked to skip exposing the object.

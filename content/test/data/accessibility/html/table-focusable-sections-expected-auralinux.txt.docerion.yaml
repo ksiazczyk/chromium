@@ -1,0 +1,4 @@
+# Docerion header of table-focusable-sections-expected-auralinux.txt.
+type: test
+title: Focusable table sections expected AuraLinux snapshot
+summary: Expected AuraLinux accessibility tree snapshot for a table with focusable thead, tbody, and tfoot sections.

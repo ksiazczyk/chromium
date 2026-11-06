@@ -1,0 +1,4 @@
+# Docerion header of table-th-colheader-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows accessibility tree for table th column header test
+summary: Expected UIA Windows accessibility tree snapshot for the table-th-colheader test, representing the table as a Grid of DataItems for headers and cells.

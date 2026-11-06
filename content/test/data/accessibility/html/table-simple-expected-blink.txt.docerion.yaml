@@ -1,0 +1,4 @@
+# Docerion header of table-simple-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for table-simple
+summary: Expected Blink accessibility tree dump for the simple HTML table test page with table, row, column header and cell nodes.

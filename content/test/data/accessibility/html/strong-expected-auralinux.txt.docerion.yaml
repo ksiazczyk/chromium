@@ -1,0 +1,4 @@
+# Docerion header of strong-expected-auralinux.txt.
+type: test
+title: Strong expected Aura Linux accessibility snapshot
+summary: Expected Aura Linux accessibility tree for the strong text test page, showing document, section and static text nodes.

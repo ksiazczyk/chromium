@@ -1,0 +1,4 @@
+# Docerion header of tabindex-with-link-children-expected-android-external.txt.
+type: test
+title: tabindex-with-link-children expected Android external accessibility tree
+summary: Expected Android external accessibility tree snapshot for the tabindex-with-link-children test, showing link nodes for the words links, within and span.

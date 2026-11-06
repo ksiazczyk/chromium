@@ -1,0 +1,4 @@
+# Docerion header of static-list-expected-mac.txt.
+type: test
+title: Expected Mac accessibility tree for static list
+summary: Expected macOS accessibility tree dump for the static list test page with AXList, AXListMarker and AXStaticText nodes.

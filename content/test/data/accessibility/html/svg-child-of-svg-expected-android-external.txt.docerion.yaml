@@ -1,0 +1,4 @@
+# Docerion header of svg-child-of-svg-expected-android-external.txt.
+type: test
+title: svg-child-of-svg expected Android external output
+summary: Expected Android external accessibility output for the svg-child-of-svg test, describing SVG images and their focusable child groups.

@@ -1,0 +1,4 @@
+# Docerion header of svg-title-in-group-expected-fuchsia.txt.
+type: test
+title: SVG title in group expected tree for Fuchsia
+summary: Expected Fuchsia accessibility tree for an SVG group with role img whose label comes from a title element.

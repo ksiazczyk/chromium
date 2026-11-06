@@ -1,0 +1,4 @@
+# Docerion header of table-focusable-sections-expected-blink.txt.
+type: test
+title: Focusable table sections expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for a table with focusable thead, tbody, and tfoot sections.

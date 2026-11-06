@@ -1,0 +1,4 @@
+# Docerion header of table-column-remove-expected-blink.txt.
+type: test
+title: Table column remove expected Blink accessibility tree
+summary: Expected Blink accessibility tree after a table column removal, showing the remaining visible cells B and D.

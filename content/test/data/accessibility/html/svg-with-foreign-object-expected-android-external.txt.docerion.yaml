@@ -1,0 +1,4 @@
+# Docerion header of svg-with-foreign-object-expected-android-external.txt.
+type: test
+title: SVG with foreign object expected Android external tree
+summary: Expected Android external accessibility snapshot for the SVG with foreign object test page.

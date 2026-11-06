@@ -1,0 +1,4 @@
+# Docerion header of tab-panel-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows accessibility tree for tab panel test
+summary: Expected UIA Windows accessibility tree for the tab panel test, with tab items and a pane containing the panel text.

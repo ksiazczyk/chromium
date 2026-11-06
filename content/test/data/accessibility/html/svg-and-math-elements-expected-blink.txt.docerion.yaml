@@ -1,0 +1,4 @@
+# Docerion header of svg-and-math-elements-expected-blink.txt.
+type: test
+title: svg-and-math-elements expected accessibility tree for Blink
+summary: Expected Blink accessibility tree for the svg-and-math-elements test, with image and math nodes in HTML and custom namespaces.

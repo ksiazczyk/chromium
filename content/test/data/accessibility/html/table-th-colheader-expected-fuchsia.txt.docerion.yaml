@@ -1,0 +1,4 @@
+# Docerion header of table-th-colheader-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for table th column header test
+summary: Expected Fuchsia accessibility tree snapshot for the table-th-colheader test, listing table rows, column headers Firstname and Lastname, and cells Jill and Smith.

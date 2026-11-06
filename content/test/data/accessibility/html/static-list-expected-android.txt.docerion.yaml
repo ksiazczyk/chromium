@@ -1,0 +1,4 @@
+# Docerion header of static-list-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for static list
+summary: Expected Android accessibility tree dump for the static list test page, showing list items, markers and static text names.

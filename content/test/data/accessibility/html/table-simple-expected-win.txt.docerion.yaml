@@ -1,0 +1,4 @@
+# Docerion header of table-simple-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for table-simple
+summary: Expected Windows MSAA and IA2 accessibility tree dump for the simple HTML table test page, noting that table attributes are skipped.

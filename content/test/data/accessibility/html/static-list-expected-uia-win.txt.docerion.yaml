@@ -1,0 +1,4 @@
+# Docerion header of static-list-expected-uia-win.txt.
+type: test
+title: Static list expected UIA Win accessibility snapshot
+summary: Expected UIA Windows accessibility tree for the static list test page, showing list items Kirk, Picard and Janeway with numbering text.

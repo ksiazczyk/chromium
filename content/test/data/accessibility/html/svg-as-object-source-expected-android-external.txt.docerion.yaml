@@ -1,0 +1,4 @@
+# Docerion header of svg-as-object-source-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility data for SVG object test
+summary: Expected Android external accessibility snapshot for the SVG object test page, describing plugin objects for embedded SVG content.

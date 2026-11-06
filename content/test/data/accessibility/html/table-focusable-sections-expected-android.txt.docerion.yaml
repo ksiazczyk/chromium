@@ -1,0 +1,4 @@
+# Docerion header of table-focusable-sections-expected-android.txt.
+type: test
+title: Focusable table sections expected Android snapshot
+summary: Expected Android accessibility tree snapshot for a table whose thead, tbody, and tfoot sections are focusable.

@@ -1,0 +1,4 @@
+# Docerion header of table-simple-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for table-simple
+summary: Expected Fuchsia accessibility tree dump for the simple HTML table test page, including table, row and cell semantic nodes.

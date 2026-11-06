@@ -1,0 +1,4 @@
+# Docerion header of svg-with-non-link-anchors-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for SVG with non-link anchors
+summary: Expected Android accessibility tree for the SVG-with-non-link-anchors test page, distinguishing focusable from non-focusable anchor elements.

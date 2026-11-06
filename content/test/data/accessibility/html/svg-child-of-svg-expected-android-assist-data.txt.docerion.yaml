@@ -1,0 +1,4 @@
+# Docerion header of svg-child-of-svg-expected-android-assist-data.txt.
+type: test
+title: svg-child-of-svg expected Android assist data
+summary: Expected Android assist data snapshot for the svg-child-of-svg accessibility test, describing SVG images with simple and focusable children.

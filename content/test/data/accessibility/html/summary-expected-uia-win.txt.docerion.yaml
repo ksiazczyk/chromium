@@ -1,0 +1,4 @@
+# Docerion header of summary-expected-uia-win.txt.
+type: test
+title: Summary test expectations for UIA on Windows
+summary: Expected UIA accessibility output for the summary HTML test on Windows, marked as skipped via a linked Chromium bug.

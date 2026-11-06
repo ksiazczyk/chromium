@@ -1,0 +1,4 @@
+# Docerion header of static-list-expected-android-external.txt.
+type: test
+title: Expected Android external output for static list
+summary: Expected Android external accessibility output for the static list test page, including collection and collection item info for the ordered list.

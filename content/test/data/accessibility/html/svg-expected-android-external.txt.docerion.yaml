@@ -1,0 +1,4 @@
+# Docerion header of svg-expected-android-external.txt.
+type: test
+title: SVG expected Android external output
+summary: Expected Android external accessibility tree snapshot for the SVG title tag test.

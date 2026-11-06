@@ -1,0 +1,4 @@
+# Docerion header of svg-child-of-button-expected-android-assist-data.txt.
+type: test
+title: svg-child-of-button expected Android assist data
+summary: Expected Android assist data snapshot for the svg-child-of-button accessibility test, showing a Search button with an SVG icon child inside a WebView tree.

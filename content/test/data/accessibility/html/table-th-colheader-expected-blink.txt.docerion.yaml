@@ -1,0 +1,4 @@
+# Docerion header of table-th-colheader-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for table th column header test
+summary: Expected Blink accessibility tree snapshot for the table-th-colheader test, showing column headers Firstname and Lastname with cells Jill and Smith.

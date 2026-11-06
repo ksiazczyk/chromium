@@ -1,0 +1,4 @@
+# Docerion header of svg-elements-not-mapped-expected-blink.txt.
+type: test
+title: SVG elements not mapped expected blink output
+summary: Expected Blink accessibility tree snapshot for the SVG elements not mapped test.

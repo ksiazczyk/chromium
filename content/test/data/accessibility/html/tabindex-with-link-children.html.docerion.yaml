@@ -1,0 +1,4 @@
+# Docerion header of tabindex-with-link-children.html.
+type: test
+title: Tabindex with link children HTML test page
+summary: HTML fixture with a tabindex container whose span contains three links, used to check how such content appears in accessibility trees.

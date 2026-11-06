@@ -1,0 +1,4 @@
+# Docerion header of svg-as-object-source-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for SVG object test
+summary: Expected Blink accessibility tree snapshot for the SVG object test page, showing plugin objects and their SVG child buttons.

@@ -1,0 +1,4 @@
+# Docerion header of table-th-rowheader-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for table th row header test
+summary: Expected Android accessibility tree snapshot for the table-th-rowheader test, marking th elements as table_header collection items in a GridView.

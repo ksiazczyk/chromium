@@ -1,0 +1,4 @@
+# Docerion header of svg-as-object-source-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for SVG object test
+summary: Expected Android assist data snapshot for the SVG object test page, detailing the accessibility tree of embedded SVG objects and their buttons.

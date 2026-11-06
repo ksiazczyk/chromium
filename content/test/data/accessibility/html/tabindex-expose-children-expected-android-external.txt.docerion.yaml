@@ -1,0 +1,4 @@
+# Docerion header of tabindex-expose-children-expected-android-external.txt.
+type: test
+title: Expected Android external tree for tabindex expose children test
+summary: Expected Android external accessibility output for the tabindex expose children test, showing layout table cells and focus actions.

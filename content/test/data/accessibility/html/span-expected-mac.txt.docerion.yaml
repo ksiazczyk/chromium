@@ -1,0 +1,4 @@
+# Docerion header of span-expected-mac.txt.
+type: test
+title: span expected macOS accessibility tree
+summary: Expected macOS accessibility tree for the span.html test using AX roles for static text and links.

@@ -1,0 +1,4 @@
+# Docerion header of svg-desc-in-group-expected-fuchsia.txt.
+type: test
+title: SVG desc in group expected accessibility tree for Fuchsia
+summary: Expected Fuchsia accessibility tree for the SVG description-in-group test, showing a secondary label and static text.

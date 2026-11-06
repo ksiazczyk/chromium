@@ -1,0 +1,4 @@
+# Docerion header of table-layout-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows snapshot for table-layout accessibility test
+summary: Expected UI Automation Windows accessibility tree snapshot for the table-layout HTML test page.

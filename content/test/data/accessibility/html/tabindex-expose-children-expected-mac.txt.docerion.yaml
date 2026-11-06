@@ -1,0 +1,4 @@
+# Docerion header of tabindex-expose-children-expected-mac.txt.
+type: test
+title: tabindex-expose-children expected Mac accessibility tree
+summary: Expected macOS accessibility tree snapshot for the tabindex-expose-children test, listing grouped static text nodes numbered one to four.

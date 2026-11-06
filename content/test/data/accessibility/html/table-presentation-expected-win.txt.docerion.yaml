@@ -1,0 +1,4 @@
+# Docerion header of table-presentation-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for table-presentation
+summary: Expected Windows accessibility tree output for the table-presentation test page, listing document, section and static text roles for a table with role=presentation.

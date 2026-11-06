@@ -1,0 +1,4 @@
+# Docerion header of summary-expected-fuchsia.txt.
+type: test
+title: Summary test expectations for Fuchsia
+summary: Expected Fuchsia accessibility tree output for the summary HTML test, with labels and secondary labels for details/summary elements.

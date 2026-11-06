@@ -1,0 +1,4 @@
+# Docerion header of svg-desc-in-group-expected-android-external.txt.
+type: test
+title: SVG desc in group expected Android external accessibility tree
+summary: Expected Android external accessibility tree for the SVG description-in-group test, including hints and actions.

@@ -1,0 +1,4 @@
+# Docerion header of table-layout-expected-blink.txt.
+type: test
+title: Expected Blink snapshot for table-layout accessibility test
+summary: Expected Blink accessibility tree snapshot for the table-layout HTML test page.

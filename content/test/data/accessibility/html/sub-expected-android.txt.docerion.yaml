@@ -1,0 +1,4 @@
+# Docerion header of sub-expected-android.txt.
+type: test
+title: Expected Android tree for sub element test
+summary: Expected Android accessibility tree snapshot for the sub element test, listing view classes, names, tooltips and role descriptions.

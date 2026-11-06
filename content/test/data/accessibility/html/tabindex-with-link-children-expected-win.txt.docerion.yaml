@@ -1,0 +1,4 @@
+# Docerion header of tabindex-with-link-children-expected-win.txt.
+type: test
+title: Tabindex with link children expected Windows accessibility tree
+summary: Expected Windows accessibility tree for the tabindex-with-link-children test page, with link and static text roles under a document node.

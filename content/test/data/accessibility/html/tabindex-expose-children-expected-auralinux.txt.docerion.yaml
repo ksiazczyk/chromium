@@ -1,0 +1,4 @@
+# Docerion header of tabindex-expose-children-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for tabindex expose children test
+summary: Expected Linux accessibility tree for the tabindex expose children test, showing sections and static text for numbered cells.

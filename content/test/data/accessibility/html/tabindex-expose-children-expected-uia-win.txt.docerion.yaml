@@ -1,0 +1,4 @@
+# Docerion header of tabindex-expose-children-expected-uia-win.txt.
+type: test
+title: tabindex-expose-children expected UIA Windows accessibility tree
+summary: Expected UIA accessibility tree snapshot on Windows for the tabindex-expose-children test, showing groups and text nodes named one to four.

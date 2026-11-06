@@ -1,0 +1,4 @@
+# Docerion header of svg-child-of-button-expected-blink.txt.
+type: test
+title: svg-child-of-button expected Blink output
+summary: Expected Blink accessibility tree for the svg-child-of-button test, showing a button named Search with an SVG image child.

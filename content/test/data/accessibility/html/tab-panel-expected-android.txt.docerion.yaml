@@ -1,0 +1,4 @@
+# Docerion header of tab-panel-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for the tab panel test
+summary: Expected Android accessibility tree snapshot for the tab panel test page.

@@ -1,0 +1,4 @@
+# Docerion header of svg-with-link-to-document-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for SVG with link to document
+summary: Expected Android accessibility tree for the SVG-with-link-to-document test page, listing the WebView, image, and link roles with their properties.

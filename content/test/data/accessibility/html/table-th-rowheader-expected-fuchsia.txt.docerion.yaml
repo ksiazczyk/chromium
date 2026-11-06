@@ -1,0 +1,4 @@
+# Docerion header of table-th-rowheader-expected-fuchsia.txt.
+type: test
+title: table-th-rowheader expected accessibility tree for Fuchsia
+summary: Expected Fuchsia accessibility tree output for the th rowheader table test, showing table, rows, cells and static text.

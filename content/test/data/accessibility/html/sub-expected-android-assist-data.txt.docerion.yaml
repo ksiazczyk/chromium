@@ -1,0 +1,4 @@
+# Docerion header of sub-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data tree for sub element test
+summary: Expected Android assist data snapshot for the sub element accessibility test, describing the WebView node hierarchy with text sizes and styles.

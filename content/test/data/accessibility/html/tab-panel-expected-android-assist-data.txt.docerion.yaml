@@ -1,0 +1,4 @@
+# Docerion header of tab-panel-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for the tab panel test
+summary: Expected Android assist data snapshot describing the tabs and panels of the tab panel accessibility test.

@@ -1,0 +1,4 @@
+# Docerion header of table-presentation-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for table with role=presentation
+summary: Expected Blink accessibility tree for the accessibility test of a table with role=presentation.

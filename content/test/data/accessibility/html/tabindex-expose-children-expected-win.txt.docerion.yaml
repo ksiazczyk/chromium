@@ -1,0 +1,4 @@
+# Docerion header of tabindex-expose-children-expected-win.txt.
+type: test
+title: tabindex-expose-children expected Windows accessibility tree
+summary: Expected Windows MSAA and IA2 accessibility tree snapshot for the tabindex-expose-children test, showing table cells named one to four.

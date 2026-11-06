@@ -1,0 +1,4 @@
+# Docerion header of style-expected-auralinux.txt.
+type: test
+title: Expected Aura Linux output for style element test
+summary: Expected accessibility output for the style element test on Linux, showing only the web document node.

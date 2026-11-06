@@ -1,0 +1,4 @@
+# Docerion header of summary-expected-blink.txt.
+type: test
+title: Summary test expectations for Blink
+summary: Expected Blink accessibility tree dump for the summary HTML test, including ignored nodes and description-from-summary attributes.

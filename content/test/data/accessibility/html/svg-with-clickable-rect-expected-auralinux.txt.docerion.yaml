@@ -1,0 +1,4 @@
+# Docerion header of svg-with-clickable-rect-expected-auralinux.txt.
+type: test
+title: SVG with clickable rect expected tree for AuraLinux
+summary: Expected AuraLinux accessibility tree for an SVG containing a clickable rect element.

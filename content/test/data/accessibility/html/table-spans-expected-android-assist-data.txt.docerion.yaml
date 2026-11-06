@@ -1,0 +1,4 @@
+# Docerion header of table-spans-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for table-spans
+summary: Expected Android assist data dump for the rowspan and colspan table test, showing HTML tag info and cell spans for two tables.

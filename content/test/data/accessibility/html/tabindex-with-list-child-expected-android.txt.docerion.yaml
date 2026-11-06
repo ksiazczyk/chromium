@@ -1,0 +1,4 @@
+# Docerion header of tabindex-with-list-child-expected-android.txt.
+type: test
+title: Tabindex with list child expected Android accessibility tree
+summary: Expected Android accessibility tree for the tabindex-with-list-child test page, showing a region containing a list and text.

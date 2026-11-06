@@ -1,0 +1,4 @@
+# Docerion header of svg-with-clickable-rect-expected-android-external.txt.
+type: test
+title: SVG with clickable rect expected tree for Android external
+summary: Expected Android external accessibility snapshot for an SVG containing a clickable rect, including actions and bundle details.

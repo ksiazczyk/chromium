@@ -1,0 +1,4 @@
+# Docerion header of table-presentation-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for table with role=presentation
+summary: Expected Fuchsia accessibility tree for the accessibility test of a table with role=presentation.

@@ -1,0 +1,4 @@
+# Docerion header of table-spans-expected-auralinux.txt.
+type: test
+title: Table spans expected accessibility tree for Auralinux
+summary: Expected Auralinux accessibility tree dump for the table-spans HTML test page, showing table cells with rowspan and colspan span information.

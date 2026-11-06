@@ -1,0 +1,4 @@
+# Docerion header of svg-with-foreign-object-expected-auralinux.txt.
+type: test
+title: SVG with foreign object expected AuraLinux accessibility tree
+summary: Expected AuraLinux accessibility tree snapshot for the SVG with foreign object test page.

@@ -1,0 +1,4 @@
+# Docerion header of svg-symbol-with-role-expected-auralinux.txt.
+type: test
+title: SVG symbol with role expected Auralinux output
+summary: Expected Auralinux accessibility tree snapshot for the SVG symbol with role test page, showing push button nodes with role descriptions.

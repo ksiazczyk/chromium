@@ -1,0 +1,4 @@
+# Docerion header of strong-expected-blink.txt.
+type: test
+title: Strong expected Blink accessibility snapshot
+summary: Expected Blink internal accessibility tree for the strong text test page, including the strong node and inline text box.

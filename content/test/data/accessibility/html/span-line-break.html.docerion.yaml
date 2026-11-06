@@ -1,0 +1,4 @@
+# Docerion header of span-line-break.html.
+type: test
+title: span line break accessibility test page
+summary: HTML test page rendering paragraphs with spans at 100, 500, and 900 pixel widths to exercise line breaking in accessibility tree tests.

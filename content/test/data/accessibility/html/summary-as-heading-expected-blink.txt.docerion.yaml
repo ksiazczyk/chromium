@@ -1,0 +1,4 @@
+# Docerion header of summary-as-heading-expected-blink.txt.
+type: test
+title: Summary as heading expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the summary-as-heading details and summary test page.

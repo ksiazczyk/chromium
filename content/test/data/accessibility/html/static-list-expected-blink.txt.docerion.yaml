@@ -1,0 +1,4 @@
+# Docerion header of static-list-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for static list
+summary: Expected Blink accessibility tree dump for the static list test page, including list markers, ignored nodes and inline text boxes.

@@ -1,0 +1,4 @@
+# Docerion header of table-th-colheader-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for table th column header test
+summary: Expected Windows accessibility tree snapshot for the table-th-colheader test, showing column headers and cells with their column_headers attributes.

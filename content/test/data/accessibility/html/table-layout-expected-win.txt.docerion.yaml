@@ -1,0 +1,4 @@
+# Docerion header of table-layout-expected-win.txt.
+type: test
+title: Expected Windows snapshot for table-layout accessibility test
+summary: Expected Windows accessibility tree snapshot for the table-layout HTML test page.

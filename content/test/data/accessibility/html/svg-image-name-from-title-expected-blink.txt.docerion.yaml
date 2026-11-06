@@ -1,0 +1,4 @@
+# Docerion header of svg-image-name-from-title-expected-blink.txt.
+type: test
+title: SVG image name from title expectation for Blink
+summary: Expected Blink accessibility tree snapshot showing an SVG image whose name is derived from its title element.

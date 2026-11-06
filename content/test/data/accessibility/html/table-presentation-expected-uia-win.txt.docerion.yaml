@@ -1,0 +1,4 @@
+# Docerion header of table-presentation-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows accessibility tree for table with role=presentation
+summary: Expected UIA Windows accessibility tree for the accessibility test of a table with role=presentation.

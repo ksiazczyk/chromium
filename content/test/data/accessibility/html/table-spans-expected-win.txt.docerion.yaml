@@ -1,0 +1,4 @@
+# Docerion header of table-spans-expected-win.txt.
+type: test
+title: Table spans expected accessibility tree for Windows
+summary: Expected Windows accessibility tree dump for the table-spans HTML test page, marked as skipped because table attributes are not dumped on Windows yet.

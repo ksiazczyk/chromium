@@ -1,0 +1,4 @@
+# Docerion header of summary-as-heading-expected-win.txt.
+type: test
+title: Summary as heading expected Windows accessibility tree
+summary: Expected Windows IA2 accessibility tree snapshot for the summary-as-heading details and summary test page.

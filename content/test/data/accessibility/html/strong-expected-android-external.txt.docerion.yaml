@@ -1,0 +1,4 @@
+# Docerion header of strong-expected-android-external.txt.
+type: test
+title: Strong expected Android external snapshot
+summary: Expected Android external accessibility tree for the strong text test page, including focus actions and chrome roles.

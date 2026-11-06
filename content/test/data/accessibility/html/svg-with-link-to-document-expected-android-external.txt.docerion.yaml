@@ -1,0 +1,4 @@
+# Docerion header of svg-with-link-to-document-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for SVG with link to document
+summary: Expected Android external-format accessibility snapshot for the SVG-with-link-to-document test page, describing the WebView, image, and clickable link nodes with their actions.

@@ -1,0 +1,4 @@
+# Docerion header of sup-expected-win.txt.
+type: test
+title: sup expected accessibility tree for Windows IA2
+summary: Expected Windows IA2 accessibility tree for the sup test, including hypertext offsets and text-position attributes.

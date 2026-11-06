@@ -1,0 +1,4 @@
+# Docerion header of tab-panel-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for tab panel test
+summary: Expected MSAA and IA2 Windows accessibility tree for the tab panel test, showing page tabs and the selected panel content.
