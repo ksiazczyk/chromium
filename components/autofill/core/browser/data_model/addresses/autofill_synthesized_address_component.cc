@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthesized address component
+// summary: Implements a read-only address component whose value is computed from constituent nodes and which is not storable or learned from form submissions.
+// ---
+
 #include "components/autofill/core/browser/data_model/addresses/autofill_synthesized_address_component.h"
 
 #include "components/autofill/core/browser/data_model/addresses/autofill_structured_address_component.h"

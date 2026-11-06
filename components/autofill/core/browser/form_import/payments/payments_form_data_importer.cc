@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments form data importer implementation
+// summary: Implements extraction and saving of credit cards and IBANs from submitted forms, including save offers and enrollment flows.
+// ---
+
 #include "components/autofill/core/browser/form_import/payments/payments_form_data_importer.h"
 
 #include <algorithm>

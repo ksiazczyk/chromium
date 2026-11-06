@@ -1,0 +1,4 @@
+# Docerion header of transpile_entity_schema.pydeps.
+type: config
+title: Python dependencies for transpile_entity_schema
+summary: Generated dependency list of Python modules required by the transpile_entity_schema.py build script, including the pyjson5 library and entity_schema_parser.py.

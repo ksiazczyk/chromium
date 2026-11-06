@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Structured address regex provider unit tests
+// summary: Unit tests verifying that compiled regular expressions are cached and that every supported expression builds successfully.
+// ---
+
 #include "components/autofill/core/browser/data_model/addresses/autofill_structured_address_regex_provider.h"
 
 #include "base/test/gtest_util.h"

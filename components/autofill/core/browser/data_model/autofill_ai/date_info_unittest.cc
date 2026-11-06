@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DateInfo unit tests
+// summary: Tests incremental date setting, invalid formats, localized ICU date output across platform locales and proto conversion.
+// ---
+
 #include "components/autofill/core/browser/data_model/autofill_ai/date_info.h"
 
 #include <optional>

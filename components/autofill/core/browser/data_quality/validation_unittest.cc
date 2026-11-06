@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill validation unit tests
+// summary: Unit tests for the validation helpers, exercising credit card expiration years and CVCs, email addresses, and other field value checks against valid and invalid samples.
+// ---
+
 #include "components/autofill/core/browser/data_quality/validation.h"
 
 #include <stddef.h>

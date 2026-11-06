@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestPersonalDataManager class declaration
+// summary: Declares a simplistic, fully synchronous in-memory PersonalDataManager for tests that never interacts with AutofillTable and allows injecting mock data managers.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MANAGER_TEST_PERSONAL_DATA_MANAGER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MANAGER_TEST_PERSONAL_DATA_MANAGER_H_
 

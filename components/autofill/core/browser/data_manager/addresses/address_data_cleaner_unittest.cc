@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AddressDataCleaner unit tests
+// summary: Unit tests for AddressDataCleaner covering cleanup behavior like profile deduplication and deferring cleanups while address sync is pending.
+// ---
+
 #include "components/autofill/core/browser/data_manager/addresses/address_data_cleaner.h"
 
 #include "base/test/metrics/histogram_tester.h"

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Payments data model OWNERS file
+summary: Delegates directory ownership to the payments browser owners and assigns Mojo files to security owners.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill data utilities implementation
+// summary: Implements autofill data helpers such as name splitting and CJK name detection, field type group bitmasks, and mappings from Chrome card networks to Payment Request API data and icons.
+// ---
+
 #include "components/autofill/core/browser/data_quality/autofill_data_util.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FillingProduct enum helpers
+// summary: Implements string conversion for FillingProduct and mappings from suggestion types, data sources, and field type groups to filling products.
+// ---
+
 #include "components/autofill/core/browser/filling/filling_product.h"
 
 #include <string>

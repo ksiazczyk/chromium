@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill profile comparator unit tests
+// summary: Unit tests for AutofillProfileComparator covering token comparison and merging of profiles with email, company, phone, and address fields.
+// ---
+
 #include "components/autofill/core/browser/data_model/addresses/autofill_profile_comparator.h"
 
 #include <algorithm>

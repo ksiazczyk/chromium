@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the data model directory
+summary: Lists the domain experts responsible for reviewing changes to the autofill data model directory.

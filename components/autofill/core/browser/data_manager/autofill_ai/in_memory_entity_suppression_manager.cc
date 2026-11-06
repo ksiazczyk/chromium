@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory entity suppression manager implementation
+// summary: Implements EntitySuppressionManager entirely in memory for testing, UI prototyping, and initial feature integration.
+// ---
+
 #include "components/autofill/core/browser/data_manager/autofill_ai/in_memory_entity_suppression_manager.h"
 
 #include <algorithm>

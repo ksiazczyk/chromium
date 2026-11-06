@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill validation implementation
+// summary: Implements validators for autofill values, including credit card expiration dates and CVCs, email addresses, US states, phone numbers, and country-aware zip codes.
+// ---
+
 #include "components/autofill/core/browser/data_quality/validation.h"
 
 #include <stddef.h>

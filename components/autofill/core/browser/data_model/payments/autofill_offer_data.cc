@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill offer data implementation
+// summary: Implements the AutofillOfferData class with factory methods, comparison logic and accessors for payment offers.
+// ---
+
 #include "components/autofill/core/browser/data_model/payments/autofill_offer_data.h"
 
 #include <stdint.h>

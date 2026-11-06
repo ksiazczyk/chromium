@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthesized address component declarations
+// summary: Declares SynthesizedAddressComponent, a node type whose value is derived from other address tree nodes and cannot be stored or edited.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MODEL_ADDRESSES_AUTOFILL_SYNTHESIZED_ADDRESS_COMPONENT_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MODEL_ADDRESSES_AUTOFILL_SYNTHESIZED_ADDRESS_COMPONENT_H_
 

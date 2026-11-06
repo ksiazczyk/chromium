@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address components store implementation
+// summary: Implements AddressComponentsStore, managing ownership of address component nodes and safely wiping internal pointers on destruction.
+// ---
+
 #include "components/autofill/core/browser/data_model/addresses/autofill_structured_address_component_store.h"
 
 #include <memory>

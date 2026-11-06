@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Form data importer test utilities implementation
+// summary: Implements helpers that build test forms, address profiles and credit card data with default values for form import unit tests.
+// ---
+
 #include "components/autofill/core/browser/form_import/form_data_importer_test_util.h"
 
 #include <algorithm>

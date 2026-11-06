@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EntityInstanceCleaner implementation
+// summary: Implements startup and post-sync cleanups of local entity instances, deduplicating entities at most once per Chrome milestone.
+// ---
+
 #include "components/autofill/core/browser/data_manager/autofill_ai/entity_instance_cleaner.h"
 
 #include <stddef.h>

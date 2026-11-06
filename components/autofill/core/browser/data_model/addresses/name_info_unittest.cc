@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NameInfo unit tests
+// summary: Parameterized unit tests covering parsing of full and alternative names, including Japanese names, and merging of NameInfo objects.
+// ---
+
 #include "components/autofill/core/browser/data_model/addresses/name_info.h"
 
 #include <array>

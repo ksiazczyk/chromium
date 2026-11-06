@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ValuableId and ValuableMetadata definitions
+// summary: Defines the ValuableId strong alias and the ValuableMetadata struct storing a valuable's id, use date, and use count.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MODEL_VALUABLES_VALUABLE_TYPES_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MODEL_VALUABLES_VALUABLE_TYPES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EntitySuppressionSyncBridge implementation
+// summary: Sync bridge for the AUTOFILL_ENTITY_SUPPRESSION data type that encrypts, persists, and syncs suppression records, keeping at most 1000 entries.
+// ---
+
 #include "components/autofill/core/browser/data_manager/autofill_ai/entity_suppression_sync_bridge.h"
 
 #include <algorithm>

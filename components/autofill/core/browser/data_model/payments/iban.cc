@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Iban class implementation
+// summary: Implements the Iban data model, including mod-97 validation of IBAN values, record types for local and server IBANs, and display formatting.
+// ---
+
 #include "components/autofill/core/browser/data_model/payments/iban.h"
 
 #include <stddef.h>

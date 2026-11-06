@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Payments data model directory metadata
+summary: Maps the directory to the Autofill Payments monorail component and a public Buganizer component ID.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the autofill transliterator
+// summary: Unit tests verifying diacritics removal, lowercasing, and German transliteration behavior in autofill.
+// ---
+
 #include "components/autofill/core/browser/data_model/transliterator.h"
 
 #include "base/strings/utf_string_conversions.h"

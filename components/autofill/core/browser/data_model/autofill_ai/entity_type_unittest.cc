@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for entity and attribute types
+// summary: Unit tests verifying field type relations, obfuscation, and attribute sets of Autofill AI entity and attribute types.
+// ---
+
 #include "components/autofill/core/browser/data_model/autofill_ai/entity_type.h"
 
 #include "base/test/scoped_feature_list.h"

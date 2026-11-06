@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentInstrument implementation
+// summary: Implements the PaymentInstrument base class, defining comparison operators, constructors, and payment rail support checks.
+// ---
+
 #include "components/autofill/core/browser/data_model/payments/payment_instrument.h"
 
 #include <stdint.h>

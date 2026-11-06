@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ewallet class implementation
+// summary: Implements the Ewallet payment instrument, including payment link regex matching and Android JNI conversion between native and Java representations.
+// ---
+
 #include "components/autofill/core/browser/data_model/payments/ewallet.h"
 
 #include <stdint.h>

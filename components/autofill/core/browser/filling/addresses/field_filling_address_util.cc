@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address field filling utility implementation
+// summary: Implements logic for filling address profile values into form fields, including street address line handling and Japanese Katakana name transliteration.
+// ---
+
 #include "components/autofill/core/browser/filling/addresses/field_filling_address_util.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bank account unit tests
+// summary: Verifies that BankAccount fields and the Pix payment rail support are set correctly.
+// ---
+
 #include "components/autofill/core/browser/data_model/payments/bank_account.h"
 
 #include "components/autofill/core/browser/test_utils/autofill_test_util.h"

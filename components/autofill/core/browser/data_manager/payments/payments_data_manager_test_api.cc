@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaymentsDataManagerTestApi implementation
+// summary: Implements test helpers that add server credit cards, offer data and BNPL issuers to a PaymentsDataManager.
+// ---
+
 #include "components/autofill/core/browser/data_manager/payments/payments_data_manager_test_api.h"
 
 #include <vector>

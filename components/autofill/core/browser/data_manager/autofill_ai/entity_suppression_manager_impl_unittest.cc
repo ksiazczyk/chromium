@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EntitySuppressionManagerImpl unit tests
+// summary: Unit tests covering initial state, suppression, duplicate suppression, undo, and clearing behavior of the sync-bridge-backed suppression manager.
+// ---
+
 #include "components/autofill/core/browser/data_manager/autofill_ai/entity_suppression_manager_impl.h"
 
 #include <memory>

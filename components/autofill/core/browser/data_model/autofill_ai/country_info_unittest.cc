@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CountryInfo unit tests
+// summary: Tests setting and reading country names and codes, including uppercase normalization of lowercase country codes.
+// ---
+
 #include "components/autofill/core/browser/data_model/autofill_ai/country_info.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

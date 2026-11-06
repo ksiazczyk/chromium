@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Entity field filling utilities implementation
+// summary: Implements helpers that determine Autofill AI-fillable fields and derive the values used to fill form fields from entity attributes.
+// ---
+
 #include "components/autofill/core/browser/filling/autofill_ai/field_filling_entity_util.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestPersonalDataManager implementation
+// summary: Implements a test PersonalDataManager that runs without databases or services and injects test address and payments data managers.
+// ---
+
 #include "components/autofill/core/browser/data_manager/test_personal_data_manager.h"
 
 #include <memory>

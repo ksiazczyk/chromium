@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Select date matching implementation
+// summary: Implements heuristics that scan select field options for consecutive integer sequences representing years, months, and days.
+// ---
+
 #include "components/autofill/core/browser/filling/autofill_ai/select_date_matching.h"
 
 #include <stddef.h>

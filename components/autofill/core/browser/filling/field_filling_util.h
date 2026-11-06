@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Field filling utility declarations
+// summary: Declares FillingValueAndType and generically useful filling functions for select control matching, country and state options, and value obfuscation.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_FILLING_FIELD_FILLING_UTIL_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_FILLING_FIELD_FILLING_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the data model utilities
+// summary: Unit tests covering the date format validation and parsing constraints of the autofill data model utilities.
+// ---
+
 #include "components/autofill/core/browser/data_model/data_model_util.h"
 
 #include "testing/gmock/include/gmock/gmock.h"

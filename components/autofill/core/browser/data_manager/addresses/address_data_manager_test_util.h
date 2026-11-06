@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AddressDataChangedWaiter test helper
+// summary: Declares AddressDataChangedWaiter, a test helper that waits for asynchronous OnAddressDataChanged notifications from the AddressDataManager.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MANAGER_ADDRESSES_ADDRESS_DATA_MANAGER_TEST_UTIL_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MANAGER_ADDRESSES_ADDRESS_DATA_MANAGER_TEST_UTIL_H_
 

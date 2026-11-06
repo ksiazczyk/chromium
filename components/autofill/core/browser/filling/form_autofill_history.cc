@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form autofill history implementation
+// summary: Implements FormAutofillHistory, recording filling operations for eligible products so that autofill fills can be undone later.
+// ---
+
 #include "components/autofill/core/browser/filling/form_autofill_history.h"
 
 #include <algorithm>

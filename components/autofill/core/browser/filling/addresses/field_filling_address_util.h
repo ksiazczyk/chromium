@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address field filling utility header
+// summary: Declares GetFillingValueAndTypeForProfile, which returns the appropriate AutofillProfile value and field type for filling a given form field.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_FILLING_ADDRESSES_FIELD_FILLING_ADDRESS_UTIL_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_FILLING_ADDRESSES_FIELD_FILLING_ADDRESS_UTIL_H_
 

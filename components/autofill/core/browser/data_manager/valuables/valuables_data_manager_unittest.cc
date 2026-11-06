@@ -2,6 +2,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Unit tests for ValuablesDataManager
+// summary: GTest suite verifying loyalty card loading, suggestion sorting, usage recording, image fetching, and observer notifications of ValuablesDataManager.
+// ---
+
 #include "components/autofill/core/browser/data_manager/valuables/valuables_data_manager.h"
 
 #include <memory>

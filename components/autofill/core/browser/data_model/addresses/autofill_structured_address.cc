@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Structured address node implementations
+// summary: Implements address component nodes such as street name, house number, apartment, and floor with feature-dependent merge modes.
+// ---
+
 #include "components/autofill/core/browser/data_model/addresses/autofill_structured_address.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Structured address name unit tests
+// summary: Unit tests for parsing full and last names into structured components, including Hispanic/Latinx and CJK name cases.
+// ---
+
 #include "components/autofill/core/browser/data_model/addresses/autofill_structured_address_name.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestFormFiller test double implementation
+// summary: Implements TestFormFiller, whose ScheduleRefill immediately triggers a refill instead of scheduling it, for use in tests.
+// ---
+
 #include "components/autofill/core/browser/filling/test_form_filler.h"
 
 #include "components/autofill/core/browser/form_structure.h"

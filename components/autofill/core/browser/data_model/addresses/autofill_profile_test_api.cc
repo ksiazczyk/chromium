@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill profile test API implementation
+// summary: Implements AutofillProfileTestApi::EqualsIncludingUsageStats, which compares profiles including their usage history statistics.
+// ---
+
 #include "components/autofill/core/browser/data_model/addresses/autofill_profile_test_api.h"
 
 #include "components/autofill/core/browser/data_model/addresses/autofill_profile.h"

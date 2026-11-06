@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CreditCard unit tests
+// summary: Unit tests for the CreditCard data model covering card number validation, nicknames, expiration handling, record types and display formatting.
+// ---
+
 #include "components/autofill/core/browser/data_model/payments/credit_card.h"
 
 #include <stddef.h>

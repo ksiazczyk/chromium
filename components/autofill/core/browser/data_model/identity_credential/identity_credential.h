@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdentityCredential struct declaration
+// summary: Declares the autofill IdentityCredential struct, a simplified federated identity credential holding IdP config URL, account ID, display text, field values and a custom icon.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MODEL_IDENTITY_CREDENTIAL_IDENTITY_CREDENTIAL_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MODEL_IDENTITY_CREDENTIAL_IDENTITY_CREDENTIAL_H_
 

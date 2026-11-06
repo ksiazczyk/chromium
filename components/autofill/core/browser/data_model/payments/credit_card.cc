@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credit card data model implementation
+// summary: Implements the CreditCard data model, including card network display names, card number obfuscation, and handling of local, server, and virtual cards.
+// ---
+
 #include "components/autofill/core/browser/data_model/payments/credit_card.h"
 
 #include <math.h>

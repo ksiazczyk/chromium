@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestFormFiller test double declaration
+// summary: Declares TestFormFiller, a FormFiller subclass that bypasses refill scheduling by calling TriggerRefill directly.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_FILLING_TEST_FORM_FILLER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_FILLING_TEST_FORM_FILLER_H_
 

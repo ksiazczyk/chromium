@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestAddressNormalizer declaration
+// summary: Declares a simplified AddressNormalizer test double that can normalize instantaneously or delay normalization until triggered by the test.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_QUALITY_ADDRESSES_TEST_ADDRESS_NORMALIZER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_QUALITY_ADDRESSES_TEST_ADDRESS_NORMALIZER_H_
 

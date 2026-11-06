@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UsageHistoryInformation class header
+// summary: Declares the UsageHistoryInformation class that stores use dates, use counts and modification dates of Autofill data models and exposes ranking and merging helpers.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MODEL_USAGE_HISTORY_INFORMATION_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MODEL_USAGE_HISTORY_INFORMATION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Address profile save manager unit tests
+// summary: Unit tests for the address profile save manager, verifying import types, user decisions, strike behavior and profile import metrics histograms.
+// ---
+
 #include "components/autofill/core/browser/form_import/addresses/address_profile_save_manager.h"
 
 #include <string_view>

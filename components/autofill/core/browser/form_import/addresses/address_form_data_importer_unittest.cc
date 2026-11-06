@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Address form data importer unit tests
+// summary: Unit tests covering extraction and processing of address profiles from forms, including validation, metrics and multi-step import scenarios.
+// ---
+
 #include "components/autofill/core/browser/form_import/addresses/address_form_data_importer.h"
 
 #include <ostream>

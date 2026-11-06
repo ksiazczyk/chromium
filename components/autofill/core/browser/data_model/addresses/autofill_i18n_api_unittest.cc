@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the i18n address model API
+// summary: Verifies that address component models are non-empty trees for all countries and that country nodes carry the expected values.
+// ---
+
 #include "components/autofill/core/browser/data_model/addresses/autofill_i18n_api.h"
 
 #include <algorithm>

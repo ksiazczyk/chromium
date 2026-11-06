@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill profile import process declaration
+// summary: Declares the profile import process, including the AutofillProfileImportType enum, profile country source, import metadata and the ProfileImportProcess class.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_FORM_IMPORT_ADDRESSES_AUTOFILL_PROFILE_IMPORT_PROCESS_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_FORM_IMPORT_ADDRESSES_AUTOFILL_PROFILE_IMPORT_PROCESS_H_
 

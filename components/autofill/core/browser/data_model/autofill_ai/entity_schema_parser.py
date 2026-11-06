@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Parser for the Autofill AI entity schema
+# summary: Python parser that loads, validates, and resolves shorthands in the Autofill AI entity schema definition.
+# ---
+
 """Parser for the Autofill AI entity schema.
 
 See parse_entity_schema().

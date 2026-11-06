@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test implementation of ValuablesDataManager
+// summary: Implements a simplified ValuablesDataManager test double that owns a TestAutofillImageFetcher and always reports payment methods as enabled.
+// ---
+
 #include "components/autofill/core/browser/data_manager/valuables/test_valuables_data_manager.h"
 
 namespace autofill {

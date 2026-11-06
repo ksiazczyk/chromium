@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AddressDataManager unit tests
+// summary: Unit tests for AddressDataManager covering profile loading, ordering, add, update and removal flows, sync interaction and observer notifications.
+// ---
+
 #include "components/autofill/core/browser/data_manager/addresses/address_data_manager.h"
 
 #include <algorithm>

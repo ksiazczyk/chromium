@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProfileTokenQuality test API implementation
+// summary: Implements a test API that injects observations with form signature hashes into ProfileTokenQuality and reads back stored hashes for unit tests.
+// ---
+
 #include "components/autofill/core/browser/data_quality/addresses/profile_token_quality_test_api.h"
 
 #include <utility>

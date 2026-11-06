@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the i18n address model API
+// summary: Implements creation of country-specific address component models, formatting expression overrides, and parsing rule lookups.
+// ---
+
 #include "components/autofill/core/browser/data_model/addresses/autofill_i18n_api.h"
 
 #include <algorithm>

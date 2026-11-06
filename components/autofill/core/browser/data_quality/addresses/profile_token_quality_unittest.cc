@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProfileTokenQuality unit tests
+// summary: Unit tests that fill forms with profiles, edit field values, and verify the resulting observation types recorded by ProfileTokenQuality.
+// ---
+
 #include "components/autofill/core/browser/data_quality/addresses/profile_token_quality.h"
 
 #include <algorithm>

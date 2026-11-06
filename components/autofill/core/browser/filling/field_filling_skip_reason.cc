@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Field filling skip reason log messages
+// summary: Maps FieldFillingSkipReason enum values to human-readable log messages explaining why filling a field was skipped during autofill.
+// ---
+
 #include "components/autofill/core/browser/filling/field_filling_skip_reason.h"
 
 #include <string_view>

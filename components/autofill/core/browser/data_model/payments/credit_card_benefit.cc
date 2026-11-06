@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credit card benefit implementation
+// summary: Implements flat rate, category, and merchant credit card benefit classes, including active-period checks and validation for sync writes.
+// ---
+
 #include "components/autofill/core/browser/data_model/payments/credit_card_benefit.h"
 
 #include <string>

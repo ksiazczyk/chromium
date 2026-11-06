@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FormFiller implementation for filling and refilling autofill forms
+// summary: Implements the FormFiller class that fills and refills form fields with profile, credit card, entity, and OTP data, then sends filled forms to the renderer.
+// ---
+
 #include "components/autofill/core/browser/filling/form_filler.h"
 
 #include <stddef.h>

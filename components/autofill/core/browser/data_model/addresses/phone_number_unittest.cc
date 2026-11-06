@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PhoneNumber unit tests
+// summary: Unit tests for the Autofill PhoneNumber data model, verifying which field types phone number inputs match across countries and formats.
+// ---
+
 #include "components/autofill/core/browser/data_model/addresses/phone_number.h"
 
 #include <algorithm>

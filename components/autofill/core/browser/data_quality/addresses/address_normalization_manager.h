@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address normalization manager header
+// summary: Declares AddressNormalizationManager, which coordinates concurrent address normalization requests and notifies callers when all pending requests complete.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_QUALITY_ADDRESSES_ADDRESS_NORMALIZATION_MANAGER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_QUALITY_ADDRESSES_ADDRESS_NORMALIZATION_MANAGER_H_
 

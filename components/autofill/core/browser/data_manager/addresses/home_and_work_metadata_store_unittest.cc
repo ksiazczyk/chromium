@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Home and Work metadata store unit tests
+// summary: Unit tests verifying that HomeAndWorkMetadataStore persists Home and Work profile usage metadata via ApplyChange and restores it through ApplyMetadata, while leaving non-Home-and-Work addresses unaffected.
+// ---
+
 #include "components/autofill/core/browser/data_manager/addresses/home_and_work_metadata_store.h"
 
 #include <memory>

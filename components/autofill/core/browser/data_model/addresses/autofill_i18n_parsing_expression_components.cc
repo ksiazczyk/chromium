@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of i18n parsing expression components
+// summary: Implements regex-based parsing strategies such as decomposition and extraction that split address values into field components.
+// ---
+
 #include "components/autofill/core/browser/data_model/addresses/autofill_i18n_parsing_expression_components.h"
 
 #include <stddef.h>

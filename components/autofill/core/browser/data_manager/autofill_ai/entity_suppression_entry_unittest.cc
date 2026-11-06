@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Entity suppression entry unit tests
+// summary: Unit tests verifying construction of entity suppression entries from merge constraints, including handling of empty attributes and entry equality.
+// ---
+
 #include "components/autofill/core/browser/data_manager/autofill_ai/entity_suppression_entry.h"
 
 #include <vector>

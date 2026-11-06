@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EmailInfo form group implementation
+// summary: Implements the EmailInfo form group that stores the email address and exposes it for the email address and loyalty membership field types.
+// ---
+
 #include "components/autofill/core/browser/data_model/addresses/email_info.h"
 
 #include <string>

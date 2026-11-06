@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Structured address format provider implementation
+// summary: Implements the singleton that returns country-specific formatting patterns for street addresses and full names.
+// ---
+
 #include "components/autofill/core/browser/data_model/addresses/autofill_structured_address_format_provider.h"
 
 #include <string_view>

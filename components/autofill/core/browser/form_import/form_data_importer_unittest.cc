@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FormDataImporter unit tests
+// summary: Unit tests covering extraction and import of address profiles, credit cards and IBANs from submitted forms, using mock data managers and payments components.
+// ---
+
 #include "components/autofill/core/browser/form_import/form_data_importer.h"
 
 #include <stddef.h>

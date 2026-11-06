@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentsMetadata implementation
+// summary: Implements PaymentsMetadata construction from usage history information, deletability checks, and stream output.
+// ---
+
 #include "components/autofill/core/browser/data_model/payments/payments_metadata.h"
 
 #include <ostream>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address form data importer implementation
+// summary: Implements extraction and processing of address profiles from submitted web forms, including field validation, deduplication and multi-step import merging.
+// ---
+
 #include "components/autofill/core/browser/form_import/addresses/address_form_data_importer.h"
 
 #include <stddef.h>

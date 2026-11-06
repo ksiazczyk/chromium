@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address profile save manager implementation
+// summary: Implements saving of imported address profiles, deciding between silent updates and user prompts, handling multi-step candidates and recording metrics.
+// ---
+
 #include "components/autofill/core/browser/form_import/addresses/address_profile_save_manager.h"
 
 #include <memory>

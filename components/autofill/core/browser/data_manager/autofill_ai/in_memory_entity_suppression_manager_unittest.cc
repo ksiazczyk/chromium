@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: In-memory entity suppression manager unit tests
+// summary: Unit tests for the in-memory entity suppression manager, covering suppression, unsuppression, duplicate handling, and merge-constraint matching of autofill AI entity instances.
+// ---
+
 #include "components/autofill/core/browser/data_manager/autofill_ai/in_memory_entity_suppression_manager.h"
 
 #include "base/test/task_environment.h"

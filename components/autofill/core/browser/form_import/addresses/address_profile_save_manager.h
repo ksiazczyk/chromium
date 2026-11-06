@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address profile save manager class declaration
+// summary: Declares AddressProfileSaveManager, which manages saving address profiles to the database, user prompts, strike counts and import finalization.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_FORM_IMPORT_ADDRESSES_ADDRESS_PROFILE_SAVE_MANAGER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_FORM_IMPORT_ADDRESSES_ADDRESS_PROFILE_SAVE_MANAGER_H_
 

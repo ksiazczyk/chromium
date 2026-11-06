@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillProfileComparator implementation
+// summary: Implements comparison of autofill profiles and text values using normalization, transliteration and locale-aware rules to detect value differences.
+// ---
+
 #include "components/autofill/core/browser/data_model/addresses/autofill_profile_comparator.h"
 
 #include <stddef.h>

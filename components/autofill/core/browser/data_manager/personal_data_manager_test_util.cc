@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PersonalDataManager test utilities implementation
+// summary: Implements test helpers for the PersonalDataManager, including a change waiter, a database task flush, and sign-in setup for identity and sync test environments.
+// ---
+
 #include "components/autofill/core/browser/data_manager/personal_data_manager_test_util.h"
 
 #include "base/test/gmock_callback_support.h"

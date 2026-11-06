@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaymentsDataChangedWaiter implementation
+// summary: Implements a waiter that runs a loop until PaymentsDataManager notifies OnPaymentsDataChanged.
+// ---
+
 #include "components/autofill/core/browser/data_manager/payments/payments_data_manager_test_util.h"
 
 #include "base/location.h"

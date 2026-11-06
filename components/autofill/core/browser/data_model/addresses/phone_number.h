@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PhoneNumber form group declaration
+// summary: Declares the PhoneNumber form group with documentation of phone storage, parsing and filling behavior, plus the PhoneCombineHelper class.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MODEL_ADDRESSES_PHONE_NUMBER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MODEL_ADDRESSES_PHONE_NUMBER_H_
 

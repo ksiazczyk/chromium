@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for payments Mojo bindings
+summary: Defines the GN build target that generates Mojo bindings for the payments enum types with Java and WebUI output.

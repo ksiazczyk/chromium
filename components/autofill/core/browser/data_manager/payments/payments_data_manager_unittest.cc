@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payments data manager unit tests
+// summary: Unit tests for the payments data manager, covering credit cards, IBANs, cloud token data, offers, BNPL issuers, mandatory reauth and related payments autofill behavior.
+// ---
+
 #include "components/autofill/core/browser/data_manager/payments/payments_data_manager.h"
 
 #include <stddef.h>

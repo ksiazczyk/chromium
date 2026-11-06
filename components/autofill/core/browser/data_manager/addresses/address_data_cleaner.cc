@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AddressDataCleaner implementation
+// summary: Implements AddressDataCleaner, which runs address cleanups such as deduplication and disused profile removal on startup once synced data is available.
+// ---
+
 #include "components/autofill/core/browser/data_manager/addresses/address_data_cleaner.h"
 
 #include <stddef.h>

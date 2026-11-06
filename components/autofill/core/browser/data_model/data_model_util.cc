@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill data model utility implementations
+// summary: Implements date format validation and parsing helpers for autofill data models, including separator and wildcard handling.
+// ---
+
 #include "components/autofill/core/browser/data_model/data_model_util.h"
 
 #include <stddef.h>

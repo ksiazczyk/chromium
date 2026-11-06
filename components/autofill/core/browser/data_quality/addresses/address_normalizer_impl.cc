@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address normalizer implementation
+// summary: Implements address normalization using libaddressinput, including E.164 phone number formatting and Android JNI bindings.
+// ---
+
 #include "components/autofill/core/browser/data_quality/addresses/address_normalizer_impl.h"
 
 #include <stddef.h>

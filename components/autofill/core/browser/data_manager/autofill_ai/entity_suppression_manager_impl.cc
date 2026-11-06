@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EntitySuppressionManagerImpl implementation
+// summary: Implements EntitySuppressionManager on top of the entity suppression sync bridge, tracking in-session suppressions for undo and notifying observers of changes.
+// ---
+
 #include "components/autofill/core/browser/data_manager/autofill_ai/entity_suppression_manager_impl.h"
 
 #include <algorithm>

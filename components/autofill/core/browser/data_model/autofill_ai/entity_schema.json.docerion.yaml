@@ -1,0 +1,4 @@
+# Docerion header of entity_schema.json.
+type: data
+title: Autofill AI entity schema definition
+summary: Schema file defining Autofill AI entity types such as Passport and Vehicle with attributes, constraints, and disambiguation order.

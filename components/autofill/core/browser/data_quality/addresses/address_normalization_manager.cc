@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address normalization manager implementation
+// summary: Implements a manager that tracks multiple concurrent address normalization requests and runs a completion callback once all of them have finished.
+// ---
+
 #include "components/autofill/core/browser/data_quality/addresses/address_normalization_manager.h"
 
 #include <memory>

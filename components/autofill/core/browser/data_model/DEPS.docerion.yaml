@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the data model directory
+summary: Configures include rules that allow the autofill data model directory to depend on components/affiliations.

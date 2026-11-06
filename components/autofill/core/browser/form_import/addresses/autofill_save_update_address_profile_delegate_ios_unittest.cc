@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the iOS address profile save and update delegate
+// summary: Verifies that the iOS address profile save and update delegate reports the correct user decisions through its prompt callback.
+// ---
+
 #include "components/autofill/core/browser/form_import/addresses/autofill_save_update_address_profile_delegate_ios.h"
 
 #include <memory>

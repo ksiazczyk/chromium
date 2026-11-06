@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompanyInfo form group implementation
+// summary: Implements the CompanyInfo form group that stores the company name field type and validates that values are not birth years or social titles.
+// ---
+
 #include "components/autofill/core/browser/data_model/addresses/company_info.h"
 
 #include <string>

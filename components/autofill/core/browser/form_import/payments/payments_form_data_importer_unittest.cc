@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the payments form data importer
+// summary: Unit tests covering credit card and IBAN import behavior, save manager interactions, and related metrics.
+// ---
+
 #include "components/autofill/core/browser/form_import/payments/payments_form_data_importer.h"
 
 #include "base/test/metrics/histogram_tester.h"

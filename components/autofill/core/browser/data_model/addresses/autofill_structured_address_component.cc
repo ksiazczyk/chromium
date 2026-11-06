@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address component implementation
+// summary: Implements AddressComponent behavior including verification status handling, parsing, formatting, and merging of structured address values.
+// ---
+
 #include "components/autofill/core/browser/data_model/addresses/autofill_structured_address_component.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Buy Now Pay Later issuer implementation
+// summary: Implements the BnplIssuer class, including per-currency price range eligibility checks and display name lookup for Buy Now Pay Later issuers.
+// ---
+
 #include "components/autofill/core/browser/data_model/payments/bnpl_issuer.h"
 
 #include <stdint.h>

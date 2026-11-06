@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the autofill data_manager directory
+summary: Lists the domain expert responsible for reviews in the data_manager directory and points non-complex reviews to the parent autofill OWNERS file.

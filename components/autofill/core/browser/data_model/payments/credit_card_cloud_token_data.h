@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CreditCardCloudTokenData struct header
+// summary: Declares the CreditCardCloudTokenData struct holding cloud tokenization details of a server credit card, such as CPAN suffix, expiration, card art URL and instrument token.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MODEL_PAYMENTS_CREDIT_CARD_CLOUD_TOKEN_DATA_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_DATA_MODEL_PAYMENTS_CREDIT_CARD_CLOUD_TOKEN_DATA_H_
 

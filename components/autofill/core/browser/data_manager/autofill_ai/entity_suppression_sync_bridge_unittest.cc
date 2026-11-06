@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EntitySuppressionSyncBridge unit tests
+// summary: Unit tests for the suppression sync bridge covering persistence, encryption, sync entity changes, and suppression record limits.
+// ---
+
 #include "components/autofill/core/browser/data_manager/autofill_ai/entity_suppression_sync_bridge.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Structured address unit tests
+// summary: Extensive unit tests for structured address components, covering address line parsing across countries, name parsing and merging behavior.
+// ---
+
 #include "components/autofill/core/browser/data_model/addresses/autofill_structured_address.h"
 
 #include <stddef.h>

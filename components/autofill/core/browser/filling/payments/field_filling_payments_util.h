@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments field filling utilities header
+// summary: Declares functions that compute the credit card value to fill into a field and predict whether a filling operation will fill a card number or CVC.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_FILLING_PAYMENTS_FIELD_FILLING_PAYMENTS_UTIL_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_FILLING_PAYMENTS_FIELD_FILLING_PAYMENTS_UTIL_H_
 

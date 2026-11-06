@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DateInfo implementation
+// summary: Implements parsing, formatting, ICU-localized output and proto conversion of year, month, day dates for Autofill AI.
+// ---
+
 #include "components/autofill/core/browser/data_model/autofill_ai/date_info.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Structured address regex provider implementation
+// summary: Implements the provider of regular expression patterns for name parsing, including CJK, honorific and suffix patterns.
+// ---
+
 #include "components/autofill/core/browser/data_model/addresses/autofill_structured_address_regex_provider.h"
 
 #include <memory>

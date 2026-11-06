@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for address import requirement validation
+// summary: Unit tests verifying minimum address checks, detection of present-but-invalid values, and country-specific rules such as Mexico's city or municipality requirement.
+// ---
+
 #include "components/autofill/core/browser/data_quality/addresses/address_import_requirement_util.h"
 
 #include "base/test/scoped_feature_list.h"

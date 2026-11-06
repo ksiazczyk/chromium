@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Iban unit tests
+// summary: Unit tests for the Iban class covering construction, nickname normalization, value capitalization, masked display strings and metadata.
+// ---
+
 #include "components/autofill/core/browser/data_model/payments/iban.h"
 
 #include <string>

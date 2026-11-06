@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FieldFillingSkipReason enum
+// summary: Defines the FieldFillingSkipReason enum recording whether and why filling a field was skipped, with values persisted as metrics and must not be renumbered.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_FILLING_FIELD_FILLING_SKIP_REASON_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_FILLING_FIELD_FILLING_SKIP_REASON_H_
 

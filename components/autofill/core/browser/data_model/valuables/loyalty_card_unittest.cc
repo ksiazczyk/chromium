@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LoyaltyCard unit tests
+// summary: Unit tests covering LoyaltyCard validity, affiliation category matching, equality, and usage recording behavior.
+// ---
+
 #include "components/autofill/core/browser/data_model/valuables/loyalty_card.h"
 
 #include <stdint.h>

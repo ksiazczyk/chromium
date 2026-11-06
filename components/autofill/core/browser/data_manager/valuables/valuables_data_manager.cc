@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ValuablesDataManager implementation
+// summary: Implements the manager that loads loyalty cards from the web database, serves and sorts them, records card usage, and exposes cached valuable images.
+// ---
+
 #include "components/autofill/core/browser/data_manager/valuables/valuables_data_manager.h"
 
 #include <algorithm>

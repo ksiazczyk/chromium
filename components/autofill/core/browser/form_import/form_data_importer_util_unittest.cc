@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Form data importer utilities unit tests
+// summary: Unit tests for the TimestampedSameOriginQueue behavior and the FormAssociator logic that links address and credit card forms.
+// ---
+
 #include "components/autofill/core/browser/form_import/form_data_importer_util.h"
 
 #include <string_view>

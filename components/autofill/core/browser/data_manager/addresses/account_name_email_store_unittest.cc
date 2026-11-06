@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccountNameEmailStore unit tests
+// summary: Unit tests for AccountNameEmailStore covering creation, updates and soft or hard removal of the account name-and-email profile across signin and sync changes.
+// ---
+
 #include "components/autofill/core/browser/data_manager/addresses/account_name_email_store.h"
 
 #include <memory>
