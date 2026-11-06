@@ -1,0 +1,4 @@
+# Docerion header of components_locale_settings_de.xtb.
+type: data
+title: German locale settings translation bundle
+summary: Defines German locale settings, listing accepted languages (de-DE, de, en-US, en) and the default windows-1252 character encoding.

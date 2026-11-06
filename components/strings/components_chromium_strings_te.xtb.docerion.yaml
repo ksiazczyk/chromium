@@ -1,0 +1,4 @@
+# Docerion header of components_chromium_strings_te.xtb.
+type: data
+title: 'Chromium strings: Telugu'
+summary: Telugu translation bundle with Chromium-specific UI strings such as tips, error pages, and settings messages.

@@ -1,0 +1,4 @@
+# Docerion header of components_strings_is.xtb.
+type: data
+title: Chromium components strings in Icelandic
+summary: Icelandic translation bundle providing localized UI strings for Chromium components, mapping message IDs to translated text.

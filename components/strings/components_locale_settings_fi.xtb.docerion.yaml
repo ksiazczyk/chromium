@@ -1,0 +1,4 @@
+# Docerion header of components_locale_settings_fi.xtb.
+type: data
+title: Finnish locale settings translation bundle
+summary: Translation bundle with Finnish locale settings, listing accepted languages and windows-1252 as the default encoding.

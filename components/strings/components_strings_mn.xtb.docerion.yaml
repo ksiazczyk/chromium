@@ -1,0 +1,4 @@
+# Docerion header of components_strings_mn.xtb.
+type: data
+title: Mongolian component strings translation bundle
+summary: XML translation bundle providing Chromium component UI strings localized into Mongolian for the browser's localization system.

@@ -1,0 +1,4 @@
+# Docerion header of components_strings_ta.xtb.
+type: data
+title: Chromium component strings in Tamil
+summary: XML translation bundle with Tamil translations of Chromium component UI strings, keyed by numeric message IDs.

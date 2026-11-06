@@ -1,0 +1,4 @@
+# Docerion header of components_locale_settings_ro.xtb.
+type: data
+title: Romanian locale settings translation bundle
+summary: Romanian translation bundle defining the accepted languages list (ro-RO, ro, en-US, en) and the ISO-8859-2 default encoding.

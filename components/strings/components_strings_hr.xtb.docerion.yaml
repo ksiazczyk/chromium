@@ -1,0 +1,4 @@
+# Docerion header of components_strings_hr.xtb.
+type: data
+title: Croatian component strings translation bundle
+summary: XML translation bundle with Croatian translations of Chromium component UI strings such as dialogs, settings and warnings.

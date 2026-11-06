@@ -1,0 +1,4 @@
+# Docerion header of components_locale_settings_hu.xtb.
+type: data
+title: Hungarian locale settings translation bundle
+summary: Translation bundle with Hungarian locale settings, listing accepted languages and ISO-8859-2 as the default encoding.

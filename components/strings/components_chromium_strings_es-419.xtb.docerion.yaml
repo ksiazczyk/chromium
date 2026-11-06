@@ -1,0 +1,4 @@
+# Docerion header of components_chromium_strings_es-419.xtb.
+type: data
+title: Chromium strings translation bundle (Latin American Spanish)
+summary: XML translation bundle providing Latin American Spanish localizations of Chromium UI strings, covering settings, proxy, Safe Browsing, crash reporting, and payment messages.

@@ -1,0 +1,4 @@
+# Docerion header of components_strings_en-GB.xtb.
+type: data
+title: British English translation bundle for Chromium component strings
+summary: XML translation bundle providing British English translations of Chromium component UI strings, keyed by numeric message IDs.

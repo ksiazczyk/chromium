@@ -1,0 +1,4 @@
+# Docerion header of components_strings_gl.xtb.
+type: data
+title: Galician component strings translation bundle
+summary: XML translation bundle with Galician translations of Chromium component UI strings such as dialogs, settings and warnings.

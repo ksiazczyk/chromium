@@ -1,0 +1,4 @@
+# Docerion header of components_locale_settings_es-419.xtb.
+type: data
+title: Latin American Spanish locale settings translation bundle
+summary: Defines Latin American Spanish locale settings, listing accepted languages (es-419, es) and the default windows-1252 character encoding.

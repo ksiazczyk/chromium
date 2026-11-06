@@ -1,0 +1,4 @@
+# Docerion header of components_chromium_strings_vi.xtb.
+type: data
+title: 'Chromium strings: Vietnamese'
+summary: Vietnamese translation bundle with Chromium-specific UI strings such as tips, error pages, and settings messages.

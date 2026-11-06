@@ -1,0 +1,4 @@
+# Docerion header of components_chromium_strings_fil.xtb.
+type: data
+title: 'Chromium strings: Filipino'
+summary: Filipino translations of Chromium UI strings covering tips, proxy settings, and safe browsing messages, stored in the XTB XML translation bundle format.

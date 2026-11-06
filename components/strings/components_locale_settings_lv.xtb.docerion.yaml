@@ -1,0 +1,4 @@
+# Docerion header of components_locale_settings_lv.xtb.
+type: data
+title: Latvian locale settings
+summary: Translation bundle with the Latvian accept-language list and windows-1257 as the default encoding.

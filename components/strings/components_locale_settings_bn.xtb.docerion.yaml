@@ -1,0 +1,4 @@
+# Docerion header of components_locale_settings_bn.xtb.
+type: data
+title: Bengali locale settings
+summary: Bengali locale settings bundle defining the accepted languages list and the default text encoding.

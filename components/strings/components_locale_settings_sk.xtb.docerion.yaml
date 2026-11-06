@@ -1,0 +1,4 @@
+# Docerion header of components_locale_settings_sk.xtb.
+type: data
+title: Slovak locale settings translation bundle
+summary: Slovak translation bundle defining the accepted languages list (sk-SK, sk, cs, en-US, en) and the windows-1250 default encoding.

@@ -1,0 +1,4 @@
+# Docerion header of components_strings_et.xtb.
+type: data
+title: Estonian translation bundle for Chromium component strings
+summary: XML translation bundle providing Estonian translations of Chromium component UI strings, keyed by numeric message IDs.

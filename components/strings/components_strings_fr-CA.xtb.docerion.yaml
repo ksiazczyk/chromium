@@ -1,0 +1,4 @@
+# Docerion header of components_strings_fr-CA.xtb.
+type: data
+title: Canadian French component strings translation bundle
+summary: XML translation bundle with Canadian French translations of Chromium component UI strings such as dialogs, settings and warnings.

@@ -1,0 +1,4 @@
+# Docerion header of components_chromium_strings_hy.xtb.
+type: data
+title: Chromium component strings in Armenian
+summary: Armenian translations of Chromium interface strings stored as an XML translation bundle used to localize Chromium components.

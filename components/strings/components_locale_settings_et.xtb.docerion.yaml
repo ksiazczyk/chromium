@@ -1,0 +1,4 @@
+# Docerion header of components_locale_settings_et.xtb.
+type: data
+title: Estonian locale settings translation bundle
+summary: Defines Estonian locale settings, listing accepted languages (et-EE, et, en-US, en) and the default windows-1257 character encoding.

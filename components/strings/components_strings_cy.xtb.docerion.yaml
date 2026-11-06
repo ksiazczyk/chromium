@@ -1,0 +1,4 @@
+# Docerion header of components_strings_cy.xtb.
+type: data
+title: Chromium component strings in Welsh
+summary: Welsh translation bundle with localized UI strings for Chromium components, keyed by numeric message IDs.

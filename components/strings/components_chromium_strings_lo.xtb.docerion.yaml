@@ -1,0 +1,4 @@
+# Docerion header of components_chromium_strings_lo.xtb.
+type: data
+title: Chromium strings translations (Lao)
+summary: Lao-language XTB translation bundle holding localized Chromium component UI strings such as settings, Safe Browsing, and payment messages.

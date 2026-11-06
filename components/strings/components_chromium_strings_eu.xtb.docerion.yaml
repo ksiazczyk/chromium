@@ -1,0 +1,4 @@
+# Docerion header of components_chromium_strings_eu.xtb.
+type: data
+title: 'Chromium strings: Basque'
+summary: Basque translations of Chromium UI strings including tips, proxy settings, and Bluetooth pairing messages, stored in the XTB XML translation bundle format.

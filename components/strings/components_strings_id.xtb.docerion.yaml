@@ -1,0 +1,4 @@
+# Docerion header of components_strings_id.xtb.
+type: data
+title: Indonesian component strings translation bundle
+summary: XML translation bundle with Indonesian translations of Chromium component UI strings such as dialogs, settings and warnings.

@@ -1,0 +1,4 @@
+# Docerion header of components_locale_settings_am.xtb.
+type: data
+title: Amharic locale settings
+summary: Amharic locale settings bundle defining the accepted languages list and the default text encoding.

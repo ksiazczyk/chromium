@@ -1,0 +1,4 @@
+# Docerion header of components_strings_eu.xtb.
+type: data
+title: Basque translation bundle for Chromium component strings
+summary: XML translation bundle providing Basque translations of Chromium component UI strings, keyed by numeric message IDs.

@@ -1,0 +1,4 @@
+# Docerion header of components_locale_settings_lt.xtb.
+type: data
+title: Lithuanian locale settings
+summary: Translation bundle with the Lithuanian accept-language list and windows-1257 as the default encoding.

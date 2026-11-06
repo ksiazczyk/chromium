@@ -1,0 +1,4 @@
+# Docerion header of components_strings_ml.xtb.
+type: data
+title: Malayalam component strings translation bundle
+summary: XML translation bundle providing Chromium component UI strings localized into Malayalam for the browser's localization system.

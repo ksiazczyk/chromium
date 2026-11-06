@@ -1,0 +1,4 @@
+# Docerion header of components_strings_tr.xtb.
+type: data
+title: Chromium components strings in Turkish
+summary: Turkish translation bundle with localized UI strings for Chromium components.

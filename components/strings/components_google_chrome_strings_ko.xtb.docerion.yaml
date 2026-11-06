@@ -1,0 +1,4 @@
+# Docerion header of components_google_chrome_strings_ko.xtb.
+type: data
+title: Google Chrome strings translation bundle (Korean)
+summary: XML translation bundle with Korean translations of Google Chrome UI strings, covering messages like crash reporting, Bluetooth pairing, and Safe Browsing tips, for Chromium localization.

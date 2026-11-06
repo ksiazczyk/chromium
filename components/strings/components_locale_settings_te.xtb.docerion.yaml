@@ -1,0 +1,4 @@
+# Docerion header of components_locale_settings_te.xtb.
+type: data
+title: Telugu locale settings translation bundle
+summary: XML translation bundle providing Telugu locale settings such as accepted languages and the default text encoding for Chromium components.

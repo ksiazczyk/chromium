@@ -1,0 +1,4 @@
+# Docerion header of components_strings_ca.xtb.
+type: data
+title: Chromium component strings in Catalan
+summary: Catalan translation bundle with localized UI strings for Chromium components, keyed by numeric message IDs.

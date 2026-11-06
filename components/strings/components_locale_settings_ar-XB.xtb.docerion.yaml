@@ -1,0 +1,4 @@
+# Docerion header of components_locale_settings_ar-XB.xtb.
+type: data
+title: ar-XB locale settings
+summary: Locale settings bundle for the ar-XB variant defining the accepted languages list and the default text encoding.

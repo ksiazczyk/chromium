@@ -1,0 +1,4 @@
+# Docerion header of components_locale_settings_hi.xtb.
+type: data
+title: Hindi locale settings translation bundle
+summary: Translation bundle with Hindi locale settings, listing accepted languages and windows-1252 as the default encoding.

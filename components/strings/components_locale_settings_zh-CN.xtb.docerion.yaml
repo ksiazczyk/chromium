@@ -1,0 +1,4 @@
+# Docerion header of components_locale_settings_zh-CN.xtb.
+type: data
+title: Simplified Chinese locale settings translation bundle
+summary: XML translation bundle providing Simplified Chinese locale settings such as accepted languages and the GBK default encoding for Chromium components.

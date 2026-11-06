@@ -1,0 +1,4 @@
+# Docerion header of components_chromium_strings_hi.xtb.
+type: data
+title: Chromium component strings in Hindi
+summary: Hindi translations of Chromium interface strings stored as an XML translation bundle used to localize Chromium components.

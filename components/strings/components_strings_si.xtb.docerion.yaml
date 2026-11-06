@@ -1,0 +1,4 @@
+# Docerion header of components_strings_si.xtb.
+type: data
+title: Chromium component strings in Sinhala
+summary: Sinhala translation bundle with localized Chromium component UI strings, keyed by numeric message IDs for the translation system.

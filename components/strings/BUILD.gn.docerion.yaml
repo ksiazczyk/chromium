@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Components strings build targets
+summary: GN build file defining grit targets that aggregate Chromium component string resources, locale XTB translations, and build flags into generated string headers.

@@ -1,0 +1,4 @@
+# Docerion header of components_locale_settings_ca.xtb.
+type: data
+title: Catalan locale settings translation bundle
+summary: Defines Catalan locale settings, listing accepted languages (ca-ES, ca) and the default windows-1252 character encoding.
