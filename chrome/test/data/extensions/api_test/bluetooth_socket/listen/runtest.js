@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth socket listen API test script
+// summary: Runs chrome.test assertions for chrome.bluetoothSocket RFCOMM and L2CAP listening, checking socket properties and expected error conditions such as invalid UUID and PSM.
+// ---
+
 const uuid = '2de497f9-ab28-49db-b6d2-066ea69f1737';
 const clientAddress = '11:12:13:14:15:16';
 

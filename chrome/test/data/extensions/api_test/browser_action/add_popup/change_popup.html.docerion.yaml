@@ -1,0 +1,4 @@
+# Docerion header of change_popup.html.
+type: test
+title: Popup page that loads the popup change script
+summary: HTML page that loads change_popup.js to switch the browser action popup during the test.

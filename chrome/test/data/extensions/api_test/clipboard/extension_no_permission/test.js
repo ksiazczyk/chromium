@@ -7,6 +7,12 @@
 
 // TODO(kalman): Consolidate this test script with the other clipboard tests.
 
+// ---docerion
+// type: test
+// title: Clipboard permission browser tests
+// summary: Runs browser tests asserting copy succeeds and paste fails for an extension without clipboard permissions, including iframe and content script cases.
+// ---
+
 const pass = chrome.test.callbackPass;
 
 function testDomCopy() {

@@ -5,6 +5,12 @@
 // Test for brailleDisplayPrivate.OnDisplayStateChanged events.
 // browser_tests.exe --gtest_filter='BrailleDisplayPrivateApiTest.*'
 
+// ---docerion
+// type: test
+// title: Test for brailleDisplayPrivate.onDisplayStateChanged events
+// summary: Browser test that listens for onDisplayStateChanged events and asserts the expected braille display availability, column count, and cell size changes.
+// ---
+
 const pass = chrome.test.callbackPass;
 
 let callbackCompleted;

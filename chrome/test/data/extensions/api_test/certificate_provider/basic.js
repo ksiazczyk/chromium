@@ -5,6 +5,12 @@
 // This file provides common functionality for different configurations of test
 // extensions using the chrome.certificateProvider API.
 
+// ---docerion
+// type: test
+// title: certificateProvider API test logic
+// summary: Shared JavaScript logic for certificateProvider test extensions, reporting valid and invalid certificates and handling both current and legacy API flows.
+// ---
+
 'use strict';
 
 const assertEq = chrome.test.assertEq;

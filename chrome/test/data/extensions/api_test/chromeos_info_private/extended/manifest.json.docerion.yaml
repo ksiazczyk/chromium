@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: chromeosInfoPrivate extended test app manifest
+summary: Manifest for the chrome.chromeosInfoPrivate extended test app, declaring the background script and the chromeosInfoPrivate permission needed to run the API test.

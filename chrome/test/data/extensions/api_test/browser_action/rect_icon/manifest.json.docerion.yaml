@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the Rectangle icons test extension
+summary: Manifest version 2 manifest for the rect_icon API test extension, declaring the background script and a default square.png browser action icon.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.bookmarks root node ID API test
+summary: Extension manifest for the bookmarks root node ID API test, registering the test.js service worker and requesting the bookmarks permission.

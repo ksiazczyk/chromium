@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: test
+title: Hosted app clipboard permission test page
+summary: HTML page launched by the ClipboardApiTest.HostedAppNoPermission browser test, with the actual test code injected by the API test framework.

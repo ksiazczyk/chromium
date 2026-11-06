@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: RequestPin tests extension manifest
+summary: Manifest for the RequestPin tests extension declaring the certificateProvider permission.

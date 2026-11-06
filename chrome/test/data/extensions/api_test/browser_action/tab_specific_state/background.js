@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser action tab-specific state test background script
+// summary: Background script of a test extension that cycles per-tab browser action icons, titles and badges, and asserts lastError responses for invalid tab IDs.
+// ---
+
 const min = 1;
 const max = 5;
 let current = min;

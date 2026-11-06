@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Delegates review ownership to the OWNERS file of chrome/browser/certificate_provider.

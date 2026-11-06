@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test for chrome.bluetoothPrivate.disconnectAll
+// summary: JavaScript test that repeatedly calls disconnectAll on a device and asserts the expected errors for unconnected devices and disconnect failures.
+// ---
+
 const deviceAddress = '11:12:13:14:15:16';
 const errorNotConnected = 'Device not connected';
 const errorDisconnectFailed = 'Failed to disconnect device';

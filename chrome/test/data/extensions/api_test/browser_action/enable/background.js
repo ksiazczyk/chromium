@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for browser action enable test
+// summary: Background script of a test extension that enables or disables the browser action based on a message from the test runner and notifies pass.
+// ---
+
 function enableBrowserAction(message) {
   if (message === 'start enabled') {
     chrome.browserAction.disable(function() {

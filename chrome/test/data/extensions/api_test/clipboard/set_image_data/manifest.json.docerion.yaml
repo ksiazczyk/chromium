@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.clipboard.set_image_data test app
+summary: Manifest v2 app definition granting the clipboard permissions required by the setImageData API tests.

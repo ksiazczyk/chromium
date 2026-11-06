@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Manifest for the setPopup test extension
+summary: Manifest version 2 manifest defining the test extension with a persistent background script, tabs permission, and a browser action.

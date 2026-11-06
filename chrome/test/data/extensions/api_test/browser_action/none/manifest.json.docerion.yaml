@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for extension with no browser action
+summary: Manifest defining a test extension without a browser action, with a background page and tabs permissions for the browser_action API test.

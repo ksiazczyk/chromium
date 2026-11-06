@@ -5,6 +5,12 @@
 // The script runs commands against the PIN API that it receives from the C++
 // side.
 
+// ---docerion
+// type: test
+// title: Command-driven requestPin API test script
+// summary: Runs requestPin and stopPinRequest commands received from the C++ test side and reports each outcome via test messages.
+// ---
+
 const INITIAL_SIGN_REQUEST_ID = 123;
 
 let signRequestId = INITIAL_SIGN_REQUEST_ID;

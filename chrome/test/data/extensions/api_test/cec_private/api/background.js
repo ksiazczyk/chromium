@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cecPrivate API test background script
+// summary: Runs end-to-end browser tests for the chrome.cecPrivate API, verifying display CEC power state transitions between on and standby via standby and wakeup calls.
+// ---
+
 chrome.test.runTests([
   function getInitialState() {
     chrome.cecPrivate.queryDisplayCecPowerState(

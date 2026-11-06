@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Clipboard API Tests in a Service Worker
+// summary: Runs tests verifying clipboard behavior in an extension service worker, including exposed API, rejected read and HTML/SVG writes, and successful image and text writes.
+// ---
+
 // Draws a red square on a white background and returns it as a PNG blob.
 async function makePngBlob() {
   const size = 200;

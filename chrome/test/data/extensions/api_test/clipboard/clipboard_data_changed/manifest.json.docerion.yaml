@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Clipboard data changed test extension manifest
+summary: Manifest for the Chrome app test extension that requests clipboard permissions and runs main.js as its background script.

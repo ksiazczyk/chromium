@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the Bluetooth pincode pairing test extension
+summary: Manifest for a test Chrome app that exercises the chrome.bluetoothPrivate.onPairing event with the bluetoothPrivate permission.

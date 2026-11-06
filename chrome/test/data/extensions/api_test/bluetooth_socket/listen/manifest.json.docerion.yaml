@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Bluetooth socket RFCOMM listen test manifest
+summary: Manifest for the test Chrome app that exercises chrome.bluetoothSocket.listenUsingRfcomm, declaring the Bluetooth UUID permissions and runtest.js as background script.

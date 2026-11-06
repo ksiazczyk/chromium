@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Bluetooth private pairing test extension manifest
+summary: Manifest for the test extension that exercises the chrome.bluetoothPrivate.onPairing event, requesting the bluetoothPrivate permission and loading test.js as its background script.

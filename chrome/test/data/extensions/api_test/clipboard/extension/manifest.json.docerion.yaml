@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Clipboard test extension manifest
+summary: Manifest for the clipboard permission test extension, declaring clipboardRead and clipboardWrite permissions, a background page and a content script.

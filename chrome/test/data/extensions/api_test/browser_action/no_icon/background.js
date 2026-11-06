@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for the no-icon browser action setIcon test
+// summary: Background script of a test extension that queues different setIcon parameter combinations using canvases and icon paths and reports pass or fail through chrome.test.
+// ---
+
 const canvas = new OffscreenCanvas(21, 21);
 const canvasHD = new OffscreenCanvas(42, 42);
 

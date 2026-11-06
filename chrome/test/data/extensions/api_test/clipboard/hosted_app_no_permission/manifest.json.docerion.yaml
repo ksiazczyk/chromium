@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the hosted app clipboard test
+summary: Manifest version 2 app manifest defining the hosted app used by the end-to-end browser test for clipboard permissions in hosted apps.

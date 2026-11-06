@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Popup resize test script
+// summary: Sizes the popup content from stored dimensions, shrinking it on each run, and logs width and height via chrome.test to verify popup resizing.
+// ---
+
 function run_tests() {
   // Compute the size of the popup, which will decrease each time.
   let width = 1000;

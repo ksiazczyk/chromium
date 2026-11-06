@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for tab-specific and default badge text behavior
+// summary: Test script verifying tab-specific badge text, empty-string and clearing semantics, and per-tab popup, title, and color getters.
+// ---
+
 const pass = chrome.test.callbackPass;
 
 chrome.tabs.query({active: true}, function(tabs) {

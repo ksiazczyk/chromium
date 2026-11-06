@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for non background test extension
+summary: Manifest V3 manifest for the non background test extension, declaring a content script and web accessible test resources.

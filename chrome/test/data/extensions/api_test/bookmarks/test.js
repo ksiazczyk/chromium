@@ -5,6 +5,12 @@
 // bookmarks api test
 // browser_tests.exe --gtest_filter=ExtensionApiTest.Bookmarks
 
+// ---docerion
+// type: test
+// title: chrome.bookmarks API browser test
+// summary: JavaScript test run via browser_tests.exe that creates, compares and verifies bookmark trees against expected state to exercise the chrome.bookmarks API.
+// ---
+
 // This is global state that is maintained across tests as a reference
 // to compare against what's fetched from the browser (using compareTrees).
 // TODO(erikkay) It would be better if each test was self-contained and

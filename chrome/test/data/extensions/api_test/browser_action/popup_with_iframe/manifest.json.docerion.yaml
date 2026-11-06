@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the popup with iframe test extension
+summary: Manifest version 3 extension definition that sets a browser action popup for the popup with iframe API test.

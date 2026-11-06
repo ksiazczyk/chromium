@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Common test cases for the browser namespace
+// summary: Exports a shared set of chrome.test cases verifying that the browser object exposes extension APIs, hides non-extension APIs, and shares API objects with the chrome object.
+// ---
+
 /**
  * Returns a common set of `browser` namespace test cases.
  */

@@ -1,0 +1,4 @@
+# Docerion header of open_popup_fails.html.
+type: test
+title: Failing popup test page
+summary: HTML page that loads the script asserting a second popup fails to open during the openPopup API test.

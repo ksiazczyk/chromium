@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: OpenPopup test extension manifest
+summary: Manifest for the browserAction.openPopup API test extension, declaring a default popup page and the activeTab permission.

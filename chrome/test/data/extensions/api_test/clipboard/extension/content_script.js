@@ -4,6 +4,12 @@
 
 // TODO(kalman): Consolidate this test script with the other clipboard tests.
 
+// ---docerion
+// type: test
+// title: Clipboard test content script
+// summary: Content script that copies and pastes text through execCommand in textareas and reports the result back to the extension on message.
+// ---
+
 function appendTextarea() {
   return document.body.appendChild(document.createElement('textarea'));
 }

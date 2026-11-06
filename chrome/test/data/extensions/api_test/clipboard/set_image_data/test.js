@@ -4,6 +4,12 @@
 
 // Test clipboard extension api chrome.clipboard.onClipboardDataChanged event.
 
+// ---docerion
+// type: test
+// title: Tests for the chrome.clipboard.setImageData API
+// summary: Runs tests that write PNG and JPEG image data to the clipboard, covering decoding failures and additional text and HTML items.
+// ---
+
 const testSuccessCount = 0;
 
 function verifySetImageDataResult(expectedError) {

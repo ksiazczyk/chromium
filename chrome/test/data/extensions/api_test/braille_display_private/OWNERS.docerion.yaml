@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for braille_display_private API tests
+summary: Points to the OWNERS file of the braille_display_private API implementation to define code ownership for the API test directory.

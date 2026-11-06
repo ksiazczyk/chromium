@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest of the remove popup test extension
+summary: Defines the test extension with a browser action whose default popup is a_popup.html.

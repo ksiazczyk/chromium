@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the popup with form test extension
+summary: Manifest for a test extension whose browser action opens a popup to verify navigation via POST.

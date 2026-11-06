@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Hosted app clipboard test manifest
+summary: Manifest for a hosted app used in end-to-end browser tests of clipboard permissions, requesting clipboardRead and clipboardWrite.
