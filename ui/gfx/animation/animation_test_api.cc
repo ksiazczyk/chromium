@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Animation test API implementation
+// summary: Implements test helpers that force the rich animation render mode, override the reduced-motion preference, and manually step or advance animation time.
+// ---
+
 #include "ui/gfx/animation/animation_test_api.h"
 
 #include "base/time/time.h"

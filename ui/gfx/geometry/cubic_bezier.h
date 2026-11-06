@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CubicBezier class header
+// summary: Declares the gfx CubicBezier easing curve class with methods to sample, solve, and compute slopes of cubic bezier curves.
+// ---
+
 #ifndef UI_GFX_GEOMETRY_CUBIC_BEZIER_H_
 #define UI_GFX_GEOMETRY_CUBIC_BEZIER_H_
 

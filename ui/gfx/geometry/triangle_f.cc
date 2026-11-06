@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Point-in-triangle test implementation
+// summary: Implements PointIsInTriangle, which checks whether a point lies inside a triangle using barycentric coordinates computed in double precision.
+// ---
+
 #include "ui/gfx/geometry/triangle_f.h"
 
 #include "ui/gfx/geometry/vector2d_f.h"

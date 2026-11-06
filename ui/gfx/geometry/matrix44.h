@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Matrix44 class header
+// summary: Declares the Matrix44 4x4 column-major matrix class, the underlying data structure of gfx::Transform, with identity, scale, translation, and perspective checks.
+// ---
+
 #ifndef UI_GFX_GEOMETRY_MATRIX44_H_
 #define UI_GFX_GEOMETRY_MATRIX44_H_
 

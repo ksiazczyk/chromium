@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Insets unit tests
+// summary: gtest unit tests covering integer Insets construction, setters, width and height, transpose, arithmetic operators, and string output.
+// ---
+
 #include "ui/gfx/geometry/insets.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

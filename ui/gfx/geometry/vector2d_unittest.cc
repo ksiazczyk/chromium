@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Vector2d unit tests
+// summary: Unit tests for the integer Vector2d class covering arithmetic, length, min/max, clamped overflow behavior, and transpose.
+// ---
+
 
 #include "ui/gfx/geometry/vector2d.h"
 

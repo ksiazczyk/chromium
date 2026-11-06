@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ImageSkia unit tests
+// summary: Unit tests for ImageSkia covering representations at multiple scale factors, custom image sources, and thread-safety of read and modify checks.
+// ---
+
 #include "ui/gfx/image/image_skia.h"
 
 #include <stddef.h>

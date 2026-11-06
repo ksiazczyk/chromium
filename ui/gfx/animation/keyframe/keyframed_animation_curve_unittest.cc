@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keyframed animation curve unit tests
+// summary: Unit tests verifying keyframed animation curve sampling and interpolation for color, float, transform and other keyframe animation types.
+// ---
+
 #include "ui/gfx/animation/keyframe/keyframed_animation_curve.h"
 
 #include <memory>

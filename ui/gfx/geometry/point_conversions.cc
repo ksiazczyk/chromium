@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Point conversion helpers
+// summary: Implements floored, ceiled, and rounded conversions from the floating-point PointF to the integer Point type using clamped math.
+// ---
+
 #include "ui/gfx/geometry/point_conversions.h"
 
 #include "base/numerics/safe_conversions.h"

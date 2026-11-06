@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LinearAnimation implementation
+// summary: Implements a time-bounded linear animation that advances state from 0 to 1, applies duration scaling, and handles end and cancel cases.
+// ---
+
 #include "ui/gfx/animation/linear_animation.h"
 
 #include <math.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LinearGradient implementation
+// summary: Implements the LinearGradient mask class, including step management, step reversal, angle updates under transforms, and debug string output.
+// ---
+
 #include "ui/gfx/geometry/linear_gradient.h"
 
 #include <sstream>

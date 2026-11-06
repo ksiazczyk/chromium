@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer utility for building gfx transforms
+// summary: Implements ConsumeTransform, which builds a gfx::Transform from data consumed via FuzzedDataProvider for use in fuzzers.
+// ---
+
 #include "ui/gfx/geometry/test/fuzzer_util.h"
 
 #include <fuzzer/FuzzedDataProvider.h>

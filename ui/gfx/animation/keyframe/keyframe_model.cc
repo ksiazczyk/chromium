@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyframeModel implementation
+// summary: Implements KeyframeModel behavior such as run state handling, pausing, reversing, playback rate, fill modes, and phase calculation for keyframe animations.
+// ---
+
 #include "ui/gfx/animation/keyframe/keyframe_model.h"
 
 #include "base/memory/ptr_util.h"

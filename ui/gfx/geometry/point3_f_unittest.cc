@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Point3F unit tests
+// summary: gtest unit tests covering Point3F vector arithmetic, point-to-vector differences, scaling, origin checks, offsets, and string output.
+// ---
+
 #include "ui/gfx/geometry/point3_f.h"
 
 #include <stddef.h>

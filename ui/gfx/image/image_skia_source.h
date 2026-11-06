@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageSkiaSource interface
+// summary: Defines the abstract ImageSkiaSource interface that supplies ImageSkiaRep objects for requested scale factors, with caching handled by ImageSkia.
+// ---
+
 #ifndef UI_GFX_IMAGE_IMAGE_SKIA_SOURCE_H_
 #define UI_GFX_IMAGE_IMAGE_SKIA_SOURCE_H_
 

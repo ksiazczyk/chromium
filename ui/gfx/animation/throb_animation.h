@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThrobAnimation class header
+// summary: Declares ThrobAnimation, a SlideAnimation subclass that repeatedly cycles between hidden and shown for a configurable number of cycles.
+// ---
+
 #ifndef UI_GFX_ANIMATION_THROB_ANIMATION_H_
 #define UI_GFX_ANIMATION_THROB_ANIMATION_H_
 

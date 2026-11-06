@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimationContainer class interface
+// summary: Declares the ref-counted AnimationContainer that manages a shared AnimationRunner so grouped animations update together.
+// ---
+
 #ifndef UI_GFX_ANIMATION_ANIMATION_CONTAINER_H_
 #define UI_GFX_ANIMATION_ANIMATION_CONTAINER_H_
 

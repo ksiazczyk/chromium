@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CubicBezier unit tests
+// summary: gtest unit tests verifying CubicBezier solving accuracy, unclamped y values, overshoot and undershoot behavior, and finite results.
+// ---
+
 #include "ui/gfx/geometry/cubic_bezier.h"
 
 #include <cmath>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the Animation base class
+// summary: Implements core Animation behavior such as start and stop, tween value helpers, container management and rich animation and reduced motion handling.
+// ---
+
 #include "ui/gfx/animation/animation.h"
 
 #include <memory>

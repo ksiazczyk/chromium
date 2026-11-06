@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the gfx codec
+summary: Defines the codec component with its sources and dependencies, plus JPEG and PNG decoder fuzzer test targets.

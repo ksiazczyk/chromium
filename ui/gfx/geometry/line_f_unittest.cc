@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LineF unit tests
+// summary: Unit tests for the LineF class covering normal vector computation and intersection with other lines in the gfx geometry library.
+// ---
+
 #include "ui/gfx/geometry/line_f.h"
 
 #include <stddef.h>

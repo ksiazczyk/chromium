@@ -1,0 +1,4 @@
+# Docerion header of geometry.mojom.
+type: source
+title: Mojom definitions for gfx geometry structs
+summary: Declares the gfx.mojom module's structs for points, sizes, rects, insets, vectors, quaternions, quads and 2D axis transforms.

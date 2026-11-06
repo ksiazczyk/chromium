@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Size conversion helpers implementation
+// summary: Implements floored, ceiled and rounded conversion of SizeF values to integer Size values.
+// ---
+
 #include "ui/gfx/geometry/size_conversions.h"
 
 #include "base/numerics/safe_conversions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floating-point rectangle class declaration
+// summary: Declares gfx::RectF, a floating-point version of gfx::Rect with origin and size accessors, inset and outset operations, offsets and point containment tests.
+// ---
+
 #ifndef UI_GFX_GEOMETRY_RECT_F_H_
 #define UI_GFX_GEOMETRY_RECT_F_H_
 

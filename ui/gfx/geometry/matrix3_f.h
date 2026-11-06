@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Matrix3F class declaration
+// summary: Declares the Matrix3F 3x3 float matrix with element, row, and column access, inverse, transpose, determinant, trace, and operator overloads.
+// ---
+
 
 #include <array>
 

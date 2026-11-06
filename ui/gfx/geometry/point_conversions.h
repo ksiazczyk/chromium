@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Point conversion helpers in gfx
+// summary: Declares gfx functions that convert a PointF to an integer Point by flooring, ceiling, or rounding each component.
+// ---
+
 #ifndef UI_GFX_GEOMETRY_POINT_CONVERSIONS_H_
 #define UI_GFX_GEOMETRY_POINT_CONVERSIONS_H_
 

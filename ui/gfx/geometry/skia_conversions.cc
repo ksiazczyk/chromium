@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia conversions implementation
+// summary: Implements conversion functions between gfx geometry types such as Point, Rect, Size, QuadF, and Transform and their corresponding Skia types.
+// ---
+
 #include "ui/gfx/geometry/skia_conversions.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: gfx::Image implementation
+// summary: Implements the Image class with PNG and Skia representations, reference-counted storage, and conversion between representation types.
+// ---
+
 #include "ui/gfx/image/image.h"
 
 #include <algorithm>

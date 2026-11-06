@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transition struct declaration
+// summary: Declares the Transition struct holding a duration and a set of target animation properties.
+// ---
+
 #ifndef UI_GFX_ANIMATION_KEYFRAME_TRANSITION_H_
 #define UI_GFX_ANIMATION_KEYFRAME_TRANSITION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LinearGradient class declaration
+// summary: Declares the gfx LinearGradient class holding an angle and up to eight fraction/alpha steps, with accessors, reversal, and transform application.
+// ---
+
 #ifndef UI_GFX_GEOMETRY_LINEAR_GRADIENT_H_
 #define UI_GFX_GEOMETRY_LINEAR_GRADIENT_H_
 

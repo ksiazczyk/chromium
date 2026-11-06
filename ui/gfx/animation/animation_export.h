@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ANIMATION_EXPORT macro definitions
+// summary: Defines the ANIMATION_EXPORT macro for DLL import and export handling in component builds across platforms.
+// ---
+
 #ifndef UI_GFX_ANIMATION_ANIMATION_EXPORT_H_
 #define UI_GFX_ANIMATION_ANIMATION_EXPORT_H_
 

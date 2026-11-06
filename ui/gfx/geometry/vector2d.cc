@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vector2d integer vector implementation
+// summary: Implements the integer two-dimensional vector class with clamped add and subtract, length, and string formatting.
+// ---
+
 #include "ui/gfx/geometry/vector2d.h"
 
 #include <cmath>

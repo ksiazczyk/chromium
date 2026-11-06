@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image utility implementations for JPEG, WebP and resizing
+// summary: Implements gfx image helpers that decode and encode JPEG and WebP data and resize images, including the dimension limits used for search-by-image.
+// ---
+
 #include "ui/gfx/image/image_util.h"
 
 #include <stdint.h>

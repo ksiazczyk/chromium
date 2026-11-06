@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the gfx animation component
+summary: Defines the animation component's sources, platform-specific files, frameworks, dependencies and defines for the GN build.

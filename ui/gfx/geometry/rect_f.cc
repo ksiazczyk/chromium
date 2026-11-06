@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floating-point rectangle implementation
+// summary: Implements gfx::RectF, the floating-point rectangle class, with insets, offsets, containment, inclusive intersection, union and CoreGraphics conversion.
+// ---
+
 #include "ui/gfx/geometry/rect_f.h"
 
 #include <algorithm>

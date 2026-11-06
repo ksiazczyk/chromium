@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transform class header
+// summary: Declares the Transform class, a 4x4 transformation matrix that may internally store an AxisTransform2d or a full Matrix44 depending on matrix complexity.
+// ---
+
 #ifndef UI_GFX_GEOMETRY_TRANSFORM_H_
 #define UI_GFX_GEOMETRY_TRANSFORM_H_
 

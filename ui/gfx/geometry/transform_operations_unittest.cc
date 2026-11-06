@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TransformOperations unit tests
+// summary: Unit tests covering transform operation types, matching prefixes, blending behavior and blended bounds for boxes.
+// ---
+
 #include "ui/gfx/geometry/transform_operations.h"
 
 #include <stddef.h>

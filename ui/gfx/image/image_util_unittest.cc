@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for image utilities
+// summary: Unit tests covering JPEG encode and decode round trips and the GetVisibleMargins computation across transparent, opaque and partially visible image layouts.
+// ---
+
 #include "ui/gfx/image/image_util.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TransformOperation struct for single transform operations
+// summary: Declares the TransformOperation struct representing one transform step (translate, rotate, scale, skew, perspective, matrix) with helpers for baking matrices, blending and box bounds.
+// ---
+
 #ifndef UI_GFX_GEOMETRY_TRANSFORM_OPERATION_H_
 #define UI_GFX_GEOMETRY_TRANSFORM_OPERATION_H_
 

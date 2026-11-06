@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MaskFilterInfo implementation
+// summary: Implements MaskFilterInfo transform application over rounded corner bounds and gradient masks, including epsilon rounding and debug string output.
+// ---
+
 #include "ui/gfx/geometry/mask_filter_info.h"
 
 #include "base/strings/string_number_conversions.h"

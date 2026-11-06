@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RRectF class for rounded rectangles
+// summary: Declares RRectF, a wrapper around SkRRect offering constructors, corner radii accessors, a type enumeration, and comparison for rounded rectangles.
+// ---
+
 #ifndef UI_GFX_GEOMETRY_RRECT_F_H_
 #define UI_GFX_GEOMETRY_RRECT_F_H_
 

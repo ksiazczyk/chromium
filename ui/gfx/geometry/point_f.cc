@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PointF class implementation
+// summary: Implements the gfx::PointF floating-point point class, including min/max helpers, distance checks, scaling, string output, trace serialization, and Apple CGPoint conversion.
+// ---
+
 #include "ui/gfx/geometry/point_f.h"
 
 #include <cmath>

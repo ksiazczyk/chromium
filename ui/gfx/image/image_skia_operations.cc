@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageSkiaOperations implementation
+// summary: Implements image operations such as blending, masking, tiling, HSL shifting, resizing, and button backgrounds on ImageSkia objects, with matching-size source checks.
+// ---
+
 #include "ui/gfx/image/image_skia_operations.h"
 
 #include <stddef.h>

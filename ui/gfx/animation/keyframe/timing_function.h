@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Timing function class declarations
+// summary: Declares the TimingFunction interface plus cubic bezier and steps timing function classes modeled on CSS easing functions.
+// ---
+
 #ifndef UI_GFX_ANIMATION_KEYFRAME_TIMING_FUNCTION_H_
 #define UI_GFX_ANIMATION_KEYFRAME_TIMING_FUNCTION_H_
 

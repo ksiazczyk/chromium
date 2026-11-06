@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PNGCodec class interface
+// summary: Declares the PNGCodec API, its color formats, and tEXt comment support for encoding and decoding PNG data.
+// ---
+
 #ifndef UI_GFX_CODEC_PNG_CODEC_H_
 #define UI_GFX_CODEC_PNG_CODEC_H_
 

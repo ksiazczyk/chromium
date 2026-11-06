@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Insets class declaration
+// summary: Declares the Insets class representing space within a rectangle or per-side border thickness, plus scaling helper functions.
+// ---
+
 #ifndef UI_GFX_GEOMETRY_INSETS_H_
 #define UI_GFX_GEOMETRY_INSETS_H_
 

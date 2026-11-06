@@ -1,0 +1,4 @@
+# Docerion header of image_ios_unittest.mm.
+type: test
+title: iOS gfx::Image conversion unit tests
+summary: Unit tests verifying UIImage to SkBitmap and ImageSkia conversion when the source scale factor is not among the supported scale factors.

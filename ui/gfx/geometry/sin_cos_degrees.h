@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sine and cosine of angles in degrees
+// summary: Header defining SinCosDegrees, an inline helper returning sine and cosine of a degree angle with exact values at common angles and fast range reduction.
+// ---
+
 
 #ifndef UI_GFX_GEOMETRY_SIN_COS_DEGREES_H_
 #define UI_GFX_GEOMETRY_SIN_COS_DEGREES_H_

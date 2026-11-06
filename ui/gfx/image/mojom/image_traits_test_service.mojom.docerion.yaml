@@ -1,0 +1,4 @@
+# Docerion header of image_traits_test_service.mojom.
+type: test
+title: ImageTraitsTestService test Mojom interface
+summary: Defines a synchronous test echo interface used to round-trip ImageSkia and ImageSkiaRep through Mojo in unit tests.

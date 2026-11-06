@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DIP conversion utilities implementation
+// summary: Implements functions converting points, sizes, rects, and insets between DIPs and physical pixels using a device scale factor.
+// ---
+
 #include "ui/gfx/geometry/dip_util.h"
 
 #include "base/numerics/safe_conversions.h"

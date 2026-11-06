@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PNG decoder fuzzer harness
+// summary: LibFuzzer harness that feeds arbitrary input data to gfx::PNGCodec::Decode to uncover PNG decoder bugs.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

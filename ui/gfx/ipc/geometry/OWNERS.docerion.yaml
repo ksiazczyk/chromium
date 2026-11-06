@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS review rules for param traits files
+summary: Sets per-file ownership so that changes to the *_param_traits* files require approval from the IPC security owners.

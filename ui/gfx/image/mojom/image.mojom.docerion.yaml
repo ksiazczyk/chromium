@@ -1,0 +1,4 @@
+# Docerion header of image.mojom.
+type: source
+title: Mojo structs for ImageSkia transport
+summary: Defines stable Mojo structs that transport gfx::ImageSkia and its representations as bitmaps with scale factors.

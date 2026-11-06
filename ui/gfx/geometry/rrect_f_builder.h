@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fluent builder for constructing RRectF
+// summary: Defines RRectFBuilder, a chainable builder for setting origin, size, and per-corner radii before building an RRectF.
+// ---
+
 #ifndef UI_GFX_GEOMETRY_RRECT_F_BUILDER_H_
 #define UI_GFX_GEOMETRY_RRECT_F_BUILDER_H_
 

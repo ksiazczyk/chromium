@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners of the animation directory
+summary: Lists the maintainer email addresses responsible for reviewing changes to files in this directory.

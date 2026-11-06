@@ -1,0 +1,4 @@
+# Docerion header of uikit_util_unittest.mm.
+type: test
+title: uikit_util unit tests
+summary: Platform unit tests verifying that the pixel-alignment helpers produce aligned values within one scaled pixel of the input.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for aspect-ratio resize utilities
+// summary: Parameterized tests verifying SizeRectToAspectRatio and the excluded-margin variant produce correct sizes across resize edges, aspect ratios, and size limits.
+// ---
+
 #include "ui/gfx/geometry/resize_utils.h"
 
 #include <string>

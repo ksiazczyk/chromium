@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThrobAnimation implementation
+// summary: Implements ThrobAnimation cycling between hidden and shown states for a set number of cycles, with a separate throb duration.
+// ---
+
 #include "ui/gfx/animation/throb_animation.h"
 
 #include <limits>

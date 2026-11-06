@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuadF class implementation
+// summary: Implements gfx::QuadF operations such as assignment from rectangles, rectilinear checks, orientation, containment, rectangle and circle intersection, and string output.
+// ---
+
 #include "ui/gfx/geometry/quad_f.h"
 
 #include <limits>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecomposedTransform struct declaration
+// summary: Declares the DecomposedTransform struct holding translate, scale, skew, perspective, and quaternion components of a factored transform.
+// ---
+
 #ifndef UI_GFX_GEOMETRY_DECOMPOSED_TRANSFORM_H_
 #define UI_GFX_GEOMETRY_DECOMPOSED_TRANSFORM_H_
 

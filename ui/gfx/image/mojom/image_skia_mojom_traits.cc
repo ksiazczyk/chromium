@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageSkia Mojo traits implementation
+// summary: Implements Mojo StructTraits that serialize and validate gfx::ImageSkia and ImageSkiaRep, enforcing N32 bitmaps and non-negative scales.
+// ---
+
 #include "ui/gfx/image/mojom/image_skia_mojom_traits.h"
 
 #include <string.h>

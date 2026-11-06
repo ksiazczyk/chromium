@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transform utility functions implementation
+// summary: Implements helpers for anchored scale transforms, decomposed transform blending and accumulation, pivot transforms, rect-to-rect mapping and projection transforms.
+// ---
+
 
 #include "ui/gfx/geometry/transform_util.h"
 

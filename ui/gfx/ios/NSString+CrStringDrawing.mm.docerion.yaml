@@ -1,0 +1,4 @@
+# Docerion header of NSString+CrStringDrawing.mm.
+type: source
+title: NSString+CrStringDrawing category implementation
+summary: Implements the NSString drawing category methods as wrappers around UIKit string drawing and pixel-alignment helpers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resize utilities implementation for aspect-ratio rectangles
+// summary: Implements SizeRectToAspectRatio functions that adjust a rectangle to a window's aspect ratio while honoring min and max sizes and an optional excluded margin.
+// ---
+
 #include "ui/gfx/geometry/resize_utils.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecomposedTransform implementation
+// summary: Implements DecomposedTransform::ToString, formatting translate, scale, skew, perspective, and quaternion components as a string.
+// ---
+
 
 #include "ui/gfx/geometry/decomposed_transform.h"
 

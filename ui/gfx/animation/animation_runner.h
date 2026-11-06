@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimationRunner interface header
+// summary: Defines the interface for custom animation runners that drive animation ticks, with a default timer-based factory.
+// ---
+
 #ifndef UI_GFX_ANIMATION_ANIMATION_RUNNER_H_
 #define UI_GFX_ANIMATION_ANIMATION_RUNNER_H_
 

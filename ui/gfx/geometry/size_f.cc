@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floating-point SizeF implementation
+// summary: Implements gfx::SizeF operations including area, min and max, scaling and string output.
+// ---
+
 #include "ui/gfx/geometry/size_f.h"
 
 #include "base/strings/stringprintf.h"

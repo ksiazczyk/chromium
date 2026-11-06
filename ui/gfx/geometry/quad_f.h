@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuadF class declaration
+// summary: Declares gfx::QuadF, a four-corner quadrilateral with containment, bounding box, scaling, realignment, and rectangle intersection operations.
+// ---
+
 #ifndef UI_GFX_GEOMETRY_QUAD_F_H_
 #define UI_GFX_GEOMETRY_QUAD_F_H_
 

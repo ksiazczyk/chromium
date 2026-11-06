@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Point3F implementation
+// summary: Implements string formatting and the vector addition and subtraction operators for the floating-point 3D point class Point3F.
+// ---
+
 #include "ui/gfx/geometry/point3_f.h"
 
 #include "base/strings/stringprintf.h"

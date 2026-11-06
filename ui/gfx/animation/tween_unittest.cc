@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tween unit tests
+// summary: Unit tests for the gfx Tween class, verifying color, integer and other interpolation values match expected results, including Blink-compatible color blending.
+// ---
+
 #include "ui/gfx/animation/tween.h"
 
 #include <math.h>

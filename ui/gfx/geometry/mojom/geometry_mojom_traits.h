@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Serialization traits for gfx geometry types
+// summary: Maps gfx C++ geometry types to their Mojom wire representations, rejecting non-finite or invalid values when reading.
+// ---
+
 #ifndef UI_GFX_GEOMETRY_MOJOM_GEOMETRY_MOJOM_TRAITS_H_
 #define UI_GFX_GEOMETRY_MOJOM_GEOMETRY_MOJOM_TRAITS_H_
 

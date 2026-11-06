@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Icon standardizer API declaration
+// summary: Declares CreateStandardAppIconImage and CreateStandardAppIconImageRep, which convert icon images into standardized circular icon versions.
+// ---
+
 #ifndef UI_GFX_IMAGE_ICON_STANDARDIZER_H_
 #define UI_GFX_IMAGE_ICON_STANDARDIZER_H_
 

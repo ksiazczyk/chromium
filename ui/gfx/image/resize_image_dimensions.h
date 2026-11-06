@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search-by-image resize dimension constants
+// summary: Defines the maximum width, height and area constants used when downsizing images in preparation for search-by-image.
+// ---
+
 #ifndef UI_GFX_IMAGE_RESIZE_IMAGE_DIMENSIONS_H_
 #define UI_GFX_IMAGE_RESIZE_IMAGE_DIMENSIONS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SinCosDegrees unit tests
+// summary: GoogleTest suite verifying SinCosDegrees against exact quadrant values, libc results and huge angle inputs.
+// ---
+
 #define _USE_MATH_DEFINES  // To get M_PI on Windows.
 
 #include "ui/gfx/geometry/sin_cos_degrees.h"

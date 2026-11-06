@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Matrix3F implementation
+// summary: Implements the 3x3 float Matrix3F class with factories, determinant, inverse, transpose, arithmetic, and comparison operations.
+// ---
+
 #include "ui/gfx/geometry/matrix3_f.h"
 
 #include <string.h>

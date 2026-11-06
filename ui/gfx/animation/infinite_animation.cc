@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InfiniteAnimation implementation
+// summary: Implements an animation that repeatedly notifies its delegate at a fixed interval and never ends until stopped.
+// ---
+
 #include "ui/gfx/animation/infinite_animation.h"
 
 #include "ui/gfx/animation/animation_delegate.h"

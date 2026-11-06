@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: gtest macros for float-tolerant geometry comparisons
+// summary: Declares gtest macros like EXPECT_TRANSFORM_EQ and EXPECT_QUATERNION_NEAR that compare gfx geometry types while tolerating floating-point errors.
+// ---
+
 #ifndef UI_GFX_GEOMETRY_TEST_GEOMETRY_UTIL_H_
 #define UI_GFX_GEOMETRY_TEST_GEOMETRY_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimationContainerElement interface header
+// summary: Defines the interface for elements managed by an AnimationContainer, with start time, step and timer interval methods.
+// ---
+
 #ifndef UI_GFX_ANIMATION_ANIMATION_CONTAINER_ELEMENT_H_
 #define UI_GFX_ANIMATION_ANIMATION_CONTAINER_ELEMENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS animation preference handling
+// summary: Implements ChromeOS-specific rich animation rendering, scroll animation and reduced motion behavior for the Animation class.
+// ---
+
 #include "ui/gfx/animation/animation.h"
 
 namespace gfx {

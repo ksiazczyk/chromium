@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageSkiaRep default implementation
+// summary: Implements the default ImageSkiaRep constructors and accessors, backing representations with bitmaps or paint records and rasterizing drawables on demand.
+// ---
+
 #include "ui/gfx/image/image_skia_rep_default.h"
 
 #include "base/check_op.h"

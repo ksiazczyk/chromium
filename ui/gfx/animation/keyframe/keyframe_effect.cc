@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyframeEffect implementation
+// summary: Implements KeyframeEffect, managing keyframe model lifecycles, ticking, and CSS-transition-like TransitionTo helpers for float, transform, size, and color values.
+// ---
+
 #include "ui/gfx/animation/keyframe/keyframe_effect.h"
 
 #include <algorithm>

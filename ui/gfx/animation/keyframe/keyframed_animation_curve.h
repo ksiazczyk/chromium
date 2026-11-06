@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyframed animation curve declarations
+// summary: Declares the Keyframe base class, typed keyframe subclasses, and keyframed animation curves for color, float, transform, size and rect animations.
+// ---
+
 #ifndef UI_GFX_ANIMATION_KEYFRAME_KEYFRAMED_ANIMATION_CURVE_H_
 #define UI_GFX_ANIMATION_KEYFRAME_KEYFRAMED_ANIMATION_CURVE_H_
 

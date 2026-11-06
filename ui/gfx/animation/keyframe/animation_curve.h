@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Animation curve interface
+// summary: Declares the AnimationCurve interface that maps time to animated values, with curve types and macro helpers for typed subclasses targeting transform, float, size, color, and rect animations.
+// ---
+
 #ifndef UI_GFX_ANIMATION_KEYFRAME_ANIMATION_CURVE_H_
 #define UI_GFX_ANIMATION_KEYFRAME_ANIMATION_CURVE_H_
 

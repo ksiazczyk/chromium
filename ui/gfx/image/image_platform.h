@@ -8,6 +8,12 @@
 // The functions are implemented in image_generic.cc (all platforms other than
 // iOS), image_ios.mm and image_mac.mm.
 
+// ---docerion
+// type: source
+// title: Platform helper declarations for gfx::Image
+// summary: Declares platform-specific helper functions for gfx::Image, implemented in image_generic.cc, image_ios.mm, and image_mac.mm.
+// ---
+
 #ifndef UI_GFX_IMAGE_IMAGE_PLATFORM_H_
 #define UI_GFX_IMAGE_IMAGE_PLATFORM_H_
 

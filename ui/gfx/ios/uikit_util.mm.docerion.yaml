@@ -1,0 +1,4 @@
+# Docerion header of uikit_util.mm.
+type: source
+title: uikit_util implementation
+summary: Implements AlignValueToUpperPixel and AlignSizeToUpperPixel by rounding values up to whole pixels based on the main screen scale.

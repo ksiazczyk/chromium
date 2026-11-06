@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageSkia class declaration
+// summary: Declares the ImageSkia class, a cheaply copied container holding one logical image at multiple densities for high-DPI displays, with factory and deep-copy helpers.
+// ---
+
 #ifndef UI_GFX_IMAGE_IMAGE_SKIA_H_
 #define UI_GFX_IMAGE_IMAGE_SKIA_H_
 

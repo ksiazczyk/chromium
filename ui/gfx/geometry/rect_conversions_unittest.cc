@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Rect conversion unit tests
+// summary: Unit tests for RectF-to-Rect conversion helpers, checking enclosing, enclosed, nearest and rounded conversions including huge values and int clamping edge cases.
+// ---
+
 #include "ui/gfx/geometry/rect_conversions.h"
 
 #include <limits>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Point-in-triangle declaration
+// summary: Declares PointIsInTriangle, a helper that reports whether a point lies within a triangle defined by three float points.
+// ---
+
 #ifndef UI_GFX_GEOMETRY_TRIANGLE_F_H_
 #define UI_GFX_GEOMETRY_TRIANGLE_F_H_
 

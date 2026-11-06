@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiAnimation implementation
+// summary: Implements an animation composed of sequential parts with tweened values, cycling over the total part lengths until stopped.
+// ---
+
 #include "ui/gfx/animation/multi_animation.h"
 
 #include <numeric>

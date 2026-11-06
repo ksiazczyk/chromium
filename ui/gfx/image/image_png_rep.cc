@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImagePNGRep implementation
+// summary: Implements the ImagePNGRep constructor and Size method, which decodes the PNG stream to report the bitmap's pixel dimensions.
+// ---
+
 #include "ui/gfx/image/image_png_rep.h"
 
 #include "base/logging.h"

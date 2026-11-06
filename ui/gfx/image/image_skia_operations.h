@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageSkiaOperations class declaration
+// summary: Declares static ImageSkiaOperations helpers that create derived ImageSkia images by blending, masking, cropping, tiling, resizing, and color shifting.
+// ---
+
 #ifndef UI_GFX_IMAGE_IMAGE_SKIA_OPERATIONS_H_
 #define UI_GFX_IMAGE_IMAGE_SKIA_OPERATIONS_H_
 

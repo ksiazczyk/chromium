@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floating-point SizeF class declaration
+// summary: Declares the gfx::SizeF floating-point size class with scaling, aspect ratio and trivial-value clamping.
+// ---
+
 #ifndef UI_GFX_GEOMETRY_SIZE_F_H_
 #define UI_GFX_GEOMETRY_SIZE_F_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RRectFBuilder Build implementation
+// summary: Implements RRectFBuilder::Build, assembling the collected origin, size, and corner radii into an RRectF.
+// ---
+
 #include "ui/gfx/geometry/rrect_f_builder.h"
 
 namespace gfx {

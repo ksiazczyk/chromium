@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageFamily implementation
+// summary: Implements ImageFamily methods for adding images and selecting the best-fitting image for a requested size or aspect ratio.
+// ---
+
 #include "ui/gfx/image/image_family.h"
 
 #include <cmath>

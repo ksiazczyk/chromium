@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rect conversion function declarations
+// summary: Declares conversion helpers from RectF to integer Rect, documenting enclosing, enclosed, nearest, rounded and deprecated floored variants and their snapping behavior.
+// ---
+
 #ifndef UI_GFX_GEOMETRY_RECT_CONVERSIONS_H_
 #define UI_GFX_GEOMETRY_RECT_CONVERSIONS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the codec directory
+summary: Allows the codec directory to include Skia, libjpeg, libjpeg-turbo, and libpng headers.

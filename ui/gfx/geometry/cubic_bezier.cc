@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CubicBezier implementation
+// summary: Implements cubic bezier timing-function evaluation, including coefficient setup and Newton-Raphson and bisection solving.
+// ---
+
 
 #include "ui/gfx/geometry/cubic_bezier.h"
 

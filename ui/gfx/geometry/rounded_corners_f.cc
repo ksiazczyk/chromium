@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: String output for RoundedCornersF
+// summary: Implements RoundedCornersF::ToString, printing the four corner radii in constructor parameter order.
+// ---
+
 #include "ui/gfx/geometry/rounded_corners_f.h"
 
 #include "base/strings/stringprintf.h"

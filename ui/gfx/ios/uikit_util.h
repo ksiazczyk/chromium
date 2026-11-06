@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: uikit_util header
+// summary: Declares ui namespace helpers that align CGFloat values and CGSize sizes up to the nearest pixel using the screen scale factor.
+// ---
+
 #ifndef UI_GFX_IOS_UIKIT_UTIL_H_
 #define UI_GFX_IOS_UIKIT_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RRectF implementation wrapping Skia rounded rectangles
+// summary: Implements RRectF constructors, type classification, corner radii access and mutation, and bounding helpers on top of Skia's SkRRect.
+// ---
+
 #include "ui/gfx/geometry/rrect_f.h"
 
 #include <array>

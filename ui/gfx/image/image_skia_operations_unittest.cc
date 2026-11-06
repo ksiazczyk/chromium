@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ImageSkiaOperations unit test
+// summary: Unit test verifying that resizing an ImageSkia to an empty size fails gracefully and yields a null representation, with iOS scale factor setup.
+// ---
+
 #include "ui/gfx/image/image_skia_operations.h"
 
 #include <vector>

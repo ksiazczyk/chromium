@@ -1,0 +1,4 @@
+# Docerion header of image_mac_unittest.mm.
+type: test
+title: Mac gfx::Image conversion unit tests
+summary: Unit tests for NSImage to ImageSkia conversion and multi-resolution representation handling across supported scale factors on macOS.

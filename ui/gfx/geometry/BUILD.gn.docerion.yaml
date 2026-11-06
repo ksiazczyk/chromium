@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for gfx geometry components
+summary: GN build file defining the geometry and geometry_skia components, their source lists, dependencies and optimization settings.

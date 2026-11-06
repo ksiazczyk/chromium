@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NSString+CrStringDrawing category header
+// summary: Declares an NSString category with methods for computing string bounding rects, bounding sizes, and pixel-aligned or font-based sizes using UIKit.
+// ---
+
 #ifndef UI_GFX_IOS_NSSTRING_CRSTRINGDRAWING_H_
 #define UI_GFX_IOS_NSSTRING_CRSTRINGDRAWING_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quaternion class declaration
+// summary: Declares the gfx::Quaternion class with quaternion arithmetic, interpolation, normalization, and gtest printing support.
+// ---
+
 #ifndef UI_GFX_GEOMETRY_QUATERNION_H_
 #define UI_GFX_GEOMETRY_QUATERNION_H_
 

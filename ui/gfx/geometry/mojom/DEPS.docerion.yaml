@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the geometry Mojom directory
+summary: Restricts includes in this directory to Mojo public headers and ui/gfx/geometry.

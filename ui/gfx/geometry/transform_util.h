@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transform utility function declarations
+// summary: Declares transform helpers including decomposed transform blending, pivot and rect transforms, orthographic projection, window mapping and 2D scale computation.
+// ---
+
 #ifndef UI_GFX_GEOMETRY_TRANSFORM_UTIL_H_
 #define UI_GFX_GEOMETRY_TRANSFORM_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TransformOperations class for blended transform lists
+// summary: Declares TransformOperations, a list of transform operations that can be applied, interpolated by progress, and used to compute blended bounding boxes.
+// ---
+
 #ifndef UI_GFX_GEOMETRY_TRANSFORM_OPERATIONS_H_
 #define UI_GFX_GEOMETRY_TRANSFORM_OPERATIONS_H_
 

@@ -7,6 +7,12 @@
 // produce a vector, and adding a vector to a point produces the point at the
 // vector's distance from the original point.
 
+// ---docerion
+// type: source
+// title: Vector2dF float vector class
+// summary: Declares the gfx::Vector2dF float vector class with arithmetic, scaling, normalization, products, and tracing support.
+// ---
+
 #ifndef UI_GFX_GEOMETRY_VECTOR2D_F_H_
 #define UI_GFX_GEOMETRY_VECTOR2D_F_H_
 

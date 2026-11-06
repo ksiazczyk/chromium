@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BoxF 3D floating-point box class
+// summary: Declares BoxF, a 3D analogue of RectF with scaling, offsetting, union and expansion operations.
+// ---
+
 #ifndef UI_GFX_GEOMETRY_BOX_F_H_
 #define UI_GFX_GEOMETRY_BOX_F_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RRectF unit tests
+// summary: GoogleTest suite for the RRectF rounded rectangle class, covering emptiness, equality, offset operators, corner types and corner radii.
+// ---
+
 #include "ui/gfx/geometry/rrect_f.h"
 
 #include <algorithm>

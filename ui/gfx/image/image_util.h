@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image utility API for JPEG, WebP and resizing
+// summary: Declares gfx image utility functions for JPEG and WebP encoding, visible margin detection, and resizing images to given sizes or search-by-image limits.
+// ---
+
 #ifndef UI_GFX_IMAGE_IMAGE_UTIL_H_
 #define UI_GFX_IMAGE_IMAGE_UTIL_H_
 

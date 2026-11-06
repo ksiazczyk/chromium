@@ -1,0 +1,4 @@
+# Docerion header of image_unittest_util_apple.mm.
+type: test
+title: Apple image test utilities
+summary: Implements the Apple-platform test helper GetPlatformImageColor, which reads a pixel color from Mac or iOS platform images in the gfx::test namespace.

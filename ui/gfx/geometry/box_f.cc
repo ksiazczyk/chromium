@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BoxF implementation
+// summary: Implements string output, emptiness checks, union and expansion operations for the 3D floating-point box class.
+// ---
+
 #include "ui/gfx/geometry/box_f.h"
 
 #include <algorithm>

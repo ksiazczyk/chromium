@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageFamily class declaration
+// summary: Declares ImageFamily, a collection of images at different sizes and aspect ratios with lookup of the most appropriate image for a rectangle.
+// ---
+
 #ifndef UI_GFX_IMAGE_IMAGE_FAMILY_H_
 #define UI_GFX_IMAGE_IMAGE_FAMILY_H_
 

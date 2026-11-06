@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Export macros for the gfx IPC component
+// summary: Declares the GFX_IPC_EXPORT macro that controls symbol visibility when building the gfx IPC component.
+// ---
+
 #ifndef UI_GFX_IPC_GFX_IPC_EXPORT_H_
 #define UI_GFX_IPC_GFX_IPC_EXPORT_H_
 

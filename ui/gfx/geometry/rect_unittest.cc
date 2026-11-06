@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Rect unit tests
+// summary: Unit tests for the integer Rect class covering containment, intersection, inclusive intersection, union, insets, offsets and saturated extreme-value edge cases.
+// ---
+
 #include "ui/gfx/geometry/rect.h"
 
 #include <stddef.h>

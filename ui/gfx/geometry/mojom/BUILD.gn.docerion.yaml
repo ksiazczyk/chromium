@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for gfx geometry Mojom
+summary: Defines the Mojom bindings target with typemaps mapping gfx.mojom structs to C++ gfx types, plus the traits and unit test targets.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Double4 SIMD vector type
+// summary: Defines Double4 and Float4 vector types with load, store, sum, and AllTrue helpers for vectorized SIMD operations in transformation code.
+// ---
+
 #ifndef UI_GFX_GEOMETRY_DOUBLE4_H_
 #define UI_GFX_GEOMETRY_DOUBLE4_H_
 
