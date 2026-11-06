@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UiLocationException exception class
+// summary: Defines an exception thrown when a locator unexpectedly fails to find a UI node, with messages naming the locator and the searched root.
+// ---
+
 package org.chromium.chrome.test.pagecontroller.utils;
 
 import androidx.test.uiautomator.UiObject2;

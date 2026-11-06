@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab thumbnail condition
+// summary: Test condition checking that an ETC1 or JPEG thumbnail file was captured and cached to disk for a given tab.
+// ---
+
 package org.chromium.chrome.test.transit.tabmodel;
 
 import org.chromium.base.ThreadUtils;

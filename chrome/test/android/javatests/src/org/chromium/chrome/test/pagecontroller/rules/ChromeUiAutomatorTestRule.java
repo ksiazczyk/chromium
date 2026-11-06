@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeUiAutomatorTestRule
+// summary: JUnit test rule that logs crash dumps and UI hierarchy on UiAutomator test failures and provides a screenshot helper for RenderTest.
+// ---
+
 package org.chromium.chrome.test.pagecontroller.rules;
 
 import android.content.Context;

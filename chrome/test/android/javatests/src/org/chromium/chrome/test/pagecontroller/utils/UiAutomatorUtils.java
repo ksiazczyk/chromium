@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UiAutomatorUtils UI automation helper
+// summary: Singleton helper that lets tests perform UI actions such as launching and stopping apps, clicking, swiping, pressing keys, and taking screenshots.
+// ---
+
 package org.chromium.chrome.test.pagecontroller.utils;
 
 import android.content.Context;

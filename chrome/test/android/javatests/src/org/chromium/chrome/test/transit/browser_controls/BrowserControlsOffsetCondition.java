@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserControlsOffsetCondition
+// summary: Condition that checks the physical offset of browser controls, verifying they are fully shown, hidden, scrollable, or height-synced via content offset and height values.
+// ---
+
 package org.chromium.chrome.test.transit.browser_controls;
 
 import org.chromium.base.test.transit.Condition;

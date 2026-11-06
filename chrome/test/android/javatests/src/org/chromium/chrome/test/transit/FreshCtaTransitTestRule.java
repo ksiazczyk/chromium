@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test rule starting a fresh ChromeTabbedActivity per test
+// summary: JUnit test rule for transit integration tests that launches a new ChromeTabbedActivity per test case and closes all windows with instance and tab state cleanup afterwards.
+// ---
+
 package org.chromium.chrome.test.transit;
 
 import android.app.Activity;

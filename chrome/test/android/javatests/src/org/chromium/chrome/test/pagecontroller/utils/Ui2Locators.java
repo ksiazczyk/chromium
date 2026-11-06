@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ui2Locators locator factory
+// summary: Factory of IUi2Locator implementations that find UI nodes by resource id, resource name, text, description, child index, and other criteria.
+// ---
+
 package org.chromium.chrome.test.pagecontroller.utils;
 
 import android.content.res.Resources;

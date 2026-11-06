@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox focused facility
+// summary: Test facility representing the focused omnibox, declaring URL bar, status icon, mic and delete button elements and transitions for typing or setting text.
+// ---
+
 package org.chromium.chrome.test.transit.omnibox;
 
 import static androidx.test.espresso.matcher.ViewMatchers.doesNotHaveFocus;

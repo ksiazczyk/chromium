@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab group card app menu test facility
+// summary: Test facility for the overflow menu on a tab group card in the Hub, supporting closing a regular tab group and expecting an undo snackbar.
+// ---
+
 package org.chromium.chrome.test.transit.hub;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withId;

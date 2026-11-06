@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App menu submenu facility
+// summary: Facility representing an opened app menu submenu or flyout popup, declaring bookmark-related items for transit tests.
+// ---
+
 package org.chromium.chrome.test.transit;
 
 import static androidx.test.espresso.matcher.ViewMatchers.isDisplayed;

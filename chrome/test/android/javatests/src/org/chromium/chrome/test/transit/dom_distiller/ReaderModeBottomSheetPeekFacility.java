@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reader Mode peeked bottom sheet facility
+// summary: Test facility modeling the peeked Reader Mode bottom sheet, exposing the title element and an expand transition to the expanded preferences state.
+// ---
+
 package org.chromium.chrome.test.transit.dom_distiller;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withId;

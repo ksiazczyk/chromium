@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeJUnit4ClassRunner for //chrome JUnit4 tests
+// summary: Custom JUnit4 runner for //chrome tests that disables Omaha update activities and registers the policy registration hook before tests run.
+// ---
+
 package org.chromium.chrome.test;
 
 import org.junit.runners.model.InitializationError;

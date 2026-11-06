@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Incognito tab switcher station
+// summary: Test station for the incognito tab switcher pane, declaring its recycler view and providing a transition to the incognito new tab page.
+// ---
+
 package org.chromium.chrome.test.transit.hub;
 
 import static androidx.test.espresso.matcher.ViewMatchers.isSelected;

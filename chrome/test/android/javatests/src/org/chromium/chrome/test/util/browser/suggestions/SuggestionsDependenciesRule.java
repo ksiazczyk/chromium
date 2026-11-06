@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SuggestionsDependenciesRule
+// summary: JUnit test rule that injects a TestFactory to mock native dependencies of the Chrome suggestions package during tests.
+// ---
+
 package org.chromium.chrome.test.util.browser.suggestions;
 
 import org.junit.rules.TestWatcher;

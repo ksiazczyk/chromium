@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeBrowserTestsApplication
+// summary: Application class for the android_browsertests APK that configures the library process type, private data directory suffix, and test-only singletons needed by browser tests.
+// ---
+
 package org.chromium.android_browsertests_apk;
 
 import android.content.Context;

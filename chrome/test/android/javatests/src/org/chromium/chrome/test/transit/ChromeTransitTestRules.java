@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Public Transit test rule factories
+// summary: Factory methods creating Public Transit test rules for fresh, reused, and auto-reset ChromeTabbedActivity test setups.
+// ---
+
 package org.chromium.chrome.test.transit;
 
 import androidx.core.util.Function;

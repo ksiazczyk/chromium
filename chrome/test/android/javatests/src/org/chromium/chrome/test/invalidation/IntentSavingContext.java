@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IntentSavingContext mock context for Android tests
+// summary: Mock Android context that records intents passed to startService so invalidation tests can inspect started service intents.
+// ---
+
 package org.chromium.chrome.test.invalidation;
 
 import android.content.ComponentName;

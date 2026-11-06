@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserControlsStateCondition
+// summary: Condition that checks the browser controls constraint state (SHOWN, HIDDEN, or BOTH) reported by the activity's visibility delegate for the current tab.
+// ---
+
 package org.chromium.chrome.test.transit.browser_controls;
 
 import org.chromium.base.test.transit.Condition;

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Test extension native messaging Java library build definition
+summary: GN build file defining the Android Java library used by the native messaging test extension, including its EchoService source and dependencies.

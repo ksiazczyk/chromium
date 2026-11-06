@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Trusted Web Activity test directory owners
+summary: Delegates ownership and review requirements to the browser services OWNERS file in the Chrome Android source tree.

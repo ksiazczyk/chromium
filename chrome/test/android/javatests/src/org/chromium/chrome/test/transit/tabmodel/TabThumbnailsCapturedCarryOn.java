@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab thumbnails captured carry-on
+// summary: Carry-on state that declares enter conditions verifying all tab thumbnails exist on disk for a given TabModel, incognito or regular.
+// ---
+
 package org.chromium.chrome.test.transit.tabmodel;
 
 import static org.chromium.base.ThreadUtils.runOnUiThreadBlocking;

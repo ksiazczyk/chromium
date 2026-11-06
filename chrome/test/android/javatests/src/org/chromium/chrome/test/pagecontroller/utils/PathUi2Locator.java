@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PathUi2Locator chained UI node locator
+// summary: Implements a locator that chains multiple IUi2Locators, rooting each search step at the nodes found by the previous locator in the chain.
+// ---
+
 package org.chromium.chrome.test.pagecontroller.utils;
 
 import androidx.annotation.NonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ThemeTestUtils
+// summary: Test utility providing helpers to get the default theme color, wait for theme color changes, and assert status bar color.
+// ---
+
 package org.chromium.chrome.test.util.browser;
 
 import org.hamcrest.Matchers;

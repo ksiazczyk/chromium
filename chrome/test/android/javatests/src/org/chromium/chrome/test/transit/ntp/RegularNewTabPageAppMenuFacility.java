@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Regular NTP app menu facility
+// summary: Declares the app menu items shown on the regular New Tab Page for transit tests, including selecting clear browsing data.
+// ---
+
 package org.chromium.chrome.test.transit.ntp;
 
 import org.chromium.chrome.browser.incognito.IncognitoUtils;

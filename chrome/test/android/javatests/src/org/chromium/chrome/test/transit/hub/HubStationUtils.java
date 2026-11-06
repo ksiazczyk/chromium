@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hub station utilities
+// summary: Utilities mapping Hub pane IDs to content descriptions and creating the matching Hub station for a given pane.
+// ---
+
 package org.chromium.chrome.test.transit.hub;
 
 import org.chromium.chrome.browser.hub.PaneId;

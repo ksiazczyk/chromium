@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Message banner facility for page message tests
+// summary: Test facility representing a message banner over a page station, with swipe dismissal and a programmatic workaround for Espresso on Android S and later.
+// ---
+
 package org.chromium.chrome.test.transit.ui;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withId;

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for Chrome Android tests
+summary: Defines GN build targets for Chrome Android test utilities, page controller libraries, and test APKs such as the baseline profile test.

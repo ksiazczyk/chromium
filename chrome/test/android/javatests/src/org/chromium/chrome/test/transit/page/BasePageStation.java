@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BasePageStation base class for page screen test stations
+// summary: Base station class for screens showing a web or native page in a Chrome activity, with configurable conditions for tab creation, selection, expected URL and title.
+// ---
+
 package org.chromium.chrome.test.transit.page;
 
 import com.google.errorprone.annotations.CheckReturnValue;

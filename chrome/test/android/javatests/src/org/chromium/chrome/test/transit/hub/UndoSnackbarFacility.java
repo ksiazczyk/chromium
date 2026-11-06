@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UndoSnackbarFacility
+// summary: Test facility for the snackbar that lets users undo a group or close operation, including an action to press Undo.
+// ---
+
 package org.chromium.chrome.test.transit.hub;
 
 import org.chromium.base.test.transit.Station;

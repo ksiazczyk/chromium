@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FamilyInfoFeedbackSource test bridge
+// summary: JNI test bridge that lets C++ tests create a FamilyInfoFeedbackSource and read values from a FeedbackSource mapping.
+// ---
+
 package org.chromium.chrome.test_support;
 
 import org.jni_zero.CalledByNative;

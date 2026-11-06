@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MessengerService test side-channel service
+// summary: Test support service that acts as a Messenger side-channel for recording notification and icon calls made to TestTrustedWebActivityService during client tests.
+// ---
+
 package org.chromium.chrome.browser.browserservices;
 
 import android.app.Service;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PathUi2LocatorTest unit tests
+// summary: Robolectric unit tests verifying PathUi2Locator behavior for trivial, non-forking, and forking locator chains using Mockito mocks.
+// ---
+
 package org.chromium.chrome.test.pagecontroller.utils;
 
 import static org.mockito.Mockito.when;

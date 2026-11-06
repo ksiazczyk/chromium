@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BlankCTATabInitialStateRule for batched Chrome tests
+// summary: JUnit TestRule that resets ChromeTabbedActivity to a single blank tab between batched tests, reusing a cached activity instance across test suites without restarting it.
+// ---
+
 package org.chromium.chrome.test.batch;
 
 import org.junit.rules.TestRule;

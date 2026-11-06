@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Settings test utilities
+// summary: Helpers to open, locate, and close Settings fragments hosted either in a SettingsActivity or in a browser tab during tests.
+// ---
+
 package org.chromium.chrome.test.util;
 
 import android.app.Activity;

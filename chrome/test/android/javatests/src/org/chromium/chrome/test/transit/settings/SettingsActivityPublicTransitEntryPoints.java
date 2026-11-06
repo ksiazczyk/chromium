@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SettingsActivityPublicTransitEntryPoints for Public Transit tests
+// summary: Entry points that start Public Transit tests on the main settings page, supporting both SettingsTestRule and the deprecated SettingsActivityTestRule.
+// ---
+
 package org.chromium.chrome.test.transit.settings;
 
 import org.chromium.base.test.transit.BatchedPublicTransitRule;

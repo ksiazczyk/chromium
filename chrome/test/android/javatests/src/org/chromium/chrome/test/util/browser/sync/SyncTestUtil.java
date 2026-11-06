@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SyncTestUtil
+// summary: Utility class with helpers to access the sync service and wait for sync states such as transport active, engine initialization and Trusted Vault conditions in Android Chrome tests.
+// ---
+
 package org.chromium.chrome.test.util.browser.sync;
 
 import android.content.Context;

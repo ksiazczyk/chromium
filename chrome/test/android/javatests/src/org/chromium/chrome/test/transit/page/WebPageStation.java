@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'WebPageStation: transit station for a loaded web page screen'
+// summary: Defines a transit test station representing a loaded webpage with omnibox and toolbar, including enter conditions for web contents and URL checks plus app menu facilities.
+// ---
+
 package org.chromium.chrome.test.transit.page;
 
 import android.view.View;

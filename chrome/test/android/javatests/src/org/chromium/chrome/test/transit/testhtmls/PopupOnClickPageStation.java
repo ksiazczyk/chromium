@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PopupOnClickPageStation
+// summary: Page station for popup_on_click.html declaring links that open pop-ups on click, including cases expecting a new window or a pop-up blocked message.
+// ---
+
 package org.chromium.chrome.test.transit.testhtmls;
 
 import org.chromium.chrome.test.ChromeTabbedActivityTestRule;

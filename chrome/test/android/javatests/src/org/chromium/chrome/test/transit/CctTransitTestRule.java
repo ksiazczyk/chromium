@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Custom Tab transit test rule
+// summary: Test rule for integration tests that start a CustomTabActivity, wrapping the activity test rule and arriving at a CctPageStation.
+// ---
+
 package org.chromium.chrome.test.transit;
 
 import android.content.Intent;

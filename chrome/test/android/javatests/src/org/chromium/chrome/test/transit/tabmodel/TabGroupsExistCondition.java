@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab groups exist condition
+// summary: Test condition that checks the tab model's actual tab group IDs match an expected list of groups.
+// ---
+
 package org.chromium.chrome.test.transit.tabmodel;
 
 import org.chromium.base.Token;

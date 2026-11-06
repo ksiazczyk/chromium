@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabSwitcherTabCardFacility
+// summary: Test facility representing a non-grouped tab card in the Tab Switcher, supporting opening the tab and showing its context menu.
+// ---
+
 package org.chromium.chrome.test.transit.hub;
 
 import android.view.View;

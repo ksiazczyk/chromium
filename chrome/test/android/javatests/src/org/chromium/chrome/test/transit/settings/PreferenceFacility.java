@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PreferenceFacility for settings preference items
+// summary: Test facility that models a single preference item in the Main Settings fragment, matching its view by title for Public Transit UI tests.
+// ---
+
 package org.chromium.chrome.test.transit.settings;
 
 import static androidx.test.espresso.matcher.ViewMatchers.hasDescendant;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LocationSettingsTestUtil
+// summary: Test utility that mocks the system location setting and Android location permissions as enabled or disabled.
+// ---
+
 package org.chromium.chrome.test.util.browser;
 
 import org.chromium.base.ThreadUtils;

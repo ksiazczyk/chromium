@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LayoutTypeVisibleCondition
+// summary: Test condition that checks the active layout of ChromeTabbedActivity matches an expected LayoutType, treating layouts starting to show or hide as not yet visible.
+// ---
+
 package org.chromium.chrome.test.transit.layouts;
 
 import org.chromium.base.test.transit.Condition;

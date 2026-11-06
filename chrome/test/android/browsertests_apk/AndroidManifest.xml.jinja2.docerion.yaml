@@ -1,0 +1,4 @@
+# Docerion header of AndroidManifest.xml.jinja2.
+type: config
+title: Android browser tests APK manifest template
+summary: Jinja2 template that generates the Android manifest for the Chrome browser tests APK, declaring permissions, activities and queries used by Android browser tests.

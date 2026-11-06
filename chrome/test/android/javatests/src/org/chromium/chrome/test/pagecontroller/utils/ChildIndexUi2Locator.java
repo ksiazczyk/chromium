@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChildIndexUi2Locator
+// summary: Locator that finds a child UI node by its position relative to siblings, recursively for descendants.
+// ---
+
 package org.chromium.chrome.test.pagecontroller.utils;
 
 import androidx.annotation.NonNull;

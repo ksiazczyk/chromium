@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EchoService Android test echo service for extension native messaging
+// summary: Android test Service that echoes extension native messages back to callers, mirroring echo.py, while tracking per-extension sessions, unload events, and connection waiters for browser tests.
+// ---
+
 package org.chromium.chrome.browser.echoservices;
 
 import android.app.Service;

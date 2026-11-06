@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tips promo main page bottom sheet test facility
+// summary: Test facility modeling the tip promo main bottom sheet shown from a notification, with navigation to the details page and settings button actions.
+// ---
+
 package org.chromium.chrome.test.transit.notifications;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withId;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BookmarkTestUtil
+// summary: Helpers for opening bookmark folders and interacting with the bookmark manager in Chrome tests.
+// ---
+
 package org.chromium.chrome.test.util;
 
 import static androidx.test.espresso.Espresso.onView;

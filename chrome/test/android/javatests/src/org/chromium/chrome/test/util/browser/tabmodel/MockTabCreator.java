@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockTabCreator for tab model tests
+// summary: Mock TabCreator that creates MockTab instances for regular and incognito models and records created tab states for use in Android tab model tests.
+// ---
+
 package org.chromium.chrome.test.util.browser.tabmodel;
 
 import android.util.SparseArray;

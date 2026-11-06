@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab Search Overlay Facility
+// summary: Public Transit Facility modeling the Tab Search overlay popup, declaring its views and providing helpers to type queries and verify omnibox suggestions during Chrome UI tests.
+// ---
+
 package org.chromium.chrome.test.transit.tab_search;
 
 import static androidx.test.espresso.matcher.ViewMatchers.hasDescendant;

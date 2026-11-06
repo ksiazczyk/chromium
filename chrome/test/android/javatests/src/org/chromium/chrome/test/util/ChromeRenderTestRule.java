@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeRenderTestRule
+// summary: JUnit rule for building Chrome render tests that compare views against golden images.
+// ---
+
 package org.chromium.chrome.test.util;
 
 import android.view.View;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabBin test data class for a Tab Switcher card
+// summary: Test utility data class representing a group of tabs in a Tab Switcher card, holding the tab list, an optional tab group ID, and a string form of the tab IDs.
+// ---
+
 package org.chromium.chrome.test.util.tabmodel;
 
 import androidx.annotation.Nullable;

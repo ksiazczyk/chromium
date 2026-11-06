@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab switcher group card test facility
+// summary: Test facility representing a tab group card in the Tab Switcher, with actions to open the group dialog, overflow menu and verify the group color.
+// ---
+
 package org.chromium.chrome.test.transit.hub;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withId;

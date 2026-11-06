@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reader Mode tab conditions
+// summary: Test conditions that verify Reader Mode changes to a tab's WebContents, checking background color and font size by running JavaScript in the tab.
+// ---
+
 package org.chromium.chrome.test.transit.dom_distiller;
 
 import org.chromium.base.test.transit.Condition;

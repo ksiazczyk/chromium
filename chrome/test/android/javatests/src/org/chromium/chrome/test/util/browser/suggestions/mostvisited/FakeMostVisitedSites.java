@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeMostVisitedSites test fake for most visited sites
+// summary: Fake implementation of MostVisitedSites that returns a fixed list of most visited sites and supports custom link and blocklist operations for Chrome tests.
+// ---
+
 package org.chromium.chrome.test.util.browser.suggestions.mostvisited;
 
 import org.chromium.base.ThreadUtils;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test partner browser customizations delayed provider
+// summary: Test content provider extending the partner customizations provider to delay query responses via a latch, for testing slow provider behavior.
+// ---
+
 package org.chromium.chrome.test.partnercustomizations;
 
 import android.database.Cursor;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeUiApplicationTestRule
+// summary: JUnit test rule that resolves and exposes the package name of the Chrome application under test for page controller instrumentation tests.
+// ---
+
 package org.chromium.chrome.test.pagecontroller.rules;
 
 import androidx.test.core.app.ApplicationProvider;

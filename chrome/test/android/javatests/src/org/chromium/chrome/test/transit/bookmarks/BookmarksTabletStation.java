@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BookmarksTabletStation test station for the tablet Bookmarks page
+// summary: Defines a transit station representing the Bookmarks page on tablets and desktop, declaring conditions for the native BookmarkPage and its title.
+// ---
+
 package org.chromium.chrome.test.transit.bookmarks;
 
 import static org.chromium.base.test.transit.Condition.whetherEquals;

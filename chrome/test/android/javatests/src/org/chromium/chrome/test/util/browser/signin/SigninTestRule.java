@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SigninTestRule
+// summary: Test rule that mocks AccountManagerFacade and manages sign-in and sign-out flows for on-device Android tests, including blocking account list updates.
+// ---
+
 package org.chromium.chrome.test.util.browser.signin;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withId;

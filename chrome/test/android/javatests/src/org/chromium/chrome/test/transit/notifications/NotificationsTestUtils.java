@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tips Notifications test utilities
+// summary: Utility class that routes positive button clicks in Tips Notifications tests to the matching settings screen or facility based on feature type.
+// ---
+
 package org.chromium.chrome.test.transit.notifications;
 
 import org.chromium.base.test.transit.Station;

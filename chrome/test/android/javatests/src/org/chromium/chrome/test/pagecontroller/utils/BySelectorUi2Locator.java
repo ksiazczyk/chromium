@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BySelectorUi2Locator
+// summary: Locator wrapper around UiAutomator BySelector that implements the IUi2Locator interface.
+// ---
+
 package org.chromium.chrome.test.pagecontroller.utils;
 
 import androidx.annotation.NonNull;

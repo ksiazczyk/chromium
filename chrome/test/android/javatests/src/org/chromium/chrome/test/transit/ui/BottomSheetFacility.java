@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bottom sheet facility for move-to-tab-group tests
+// summary: Abstract test facility modeling the bottom sheet for moving tabs into a tab group, declaring the sheet container and dismissing it via the back press.
+// ---
+
 package org.chromium.chrome.test.transit.ui;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withId;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebApkIntentDataProviderBuilder
+// summary: Builder that constructs WebAPK BrowserServicesIntentDataProvider objects with configurable fields for Chrome Android tests.
+// ---
+
 package org.chromium.chrome.test.util.browser.webapps;
 
 import android.content.Intent;

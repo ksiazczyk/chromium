@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HomepageTestRule
+// summary: JUnit test rule for Chrome Android homepage tests that sets homepage shared preferences for scenarios and removes them after each test case.
+// ---
+
 package org.chromium.chrome.browser.homepage;
 
 import org.junit.rules.TestRule;

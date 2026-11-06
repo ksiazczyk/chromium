@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Link context menu facility for Android transit tests
+// summary: Extends ContextMenuFacility for link context menus, adding actions to open a link in a new tab or in a new tab group.
+// ---
+
 package org.chromium.chrome.test.transit.context_menu;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withText;

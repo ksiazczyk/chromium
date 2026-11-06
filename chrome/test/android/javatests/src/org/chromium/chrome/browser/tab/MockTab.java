@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockTab test double for tab testing
+// summary: Provides a mock Tab subclass with overridable URL and WebContents plus factory methods to create initialized tabs for tests.
+// ---
+
 package org.chromium.chrome.browser.tab;
 
 import com.google.common.collect.Lists;

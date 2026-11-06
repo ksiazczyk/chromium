@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for suggestions test utilities
+summary: OWNERS file that delegates ownership to the OWNERS file of the browser suggestions package.

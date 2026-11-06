@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StubbedHistoryProvider
+// summary: Stubs out the backends used by the native Android browsing history manager, simulating queries, paging, search and item removal for tests.
+// ---
+
 package org.chromium.chrome.browser.history;
 
 import android.text.TextUtils;

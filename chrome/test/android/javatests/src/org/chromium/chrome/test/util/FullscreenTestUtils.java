@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FullscreenTestUtils
+// summary: Helpers to toggle and assert persistent fullscreen state on tabs during Chrome tests.
+// ---
+
 package org.chromium.chrome.test.util;
 
 import static android.view.Display.INVALID_DISPLAY;

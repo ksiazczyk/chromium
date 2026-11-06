@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reader Mode expanded bottom sheet facility
+// summary: Test facility modeling the expanded Reader Mode bottom sheet, declaring theme, font size and font family controls and a collapse transition back to the peek state.
+// ---
+
 package org.chromium.chrome.test.transit.dom_distiller;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withId;

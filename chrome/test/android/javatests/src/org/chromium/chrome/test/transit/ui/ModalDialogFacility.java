@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Modal dialog facility for dialog tests
+// summary: Test facility for modal dialogs that declares title, custom view and button elements and provides cancel and back-press dismissal actions.
+// ---
+
 package org.chromium.chrome.test.transit.ui;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withId;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccountManagerTestRule for fake account management in tests
+// summary: JUnit test rule that installs a FakeAccountManagerFacade and FakeIdentityManager, giving Robolectric-safe simulated account management for signin unit tests.
+// ---
+
 package org.chromium.chrome.test.util.browser.signin;
 
 import androidx.annotation.Nullable;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PageLoadedCondition for finished page loads
+// summary: Test condition fulfilled when the activity tab has finished loading, optionally verifying its incognito state, and yielding the tab as result.
+// ---
+
 package org.chromium.chrome.test.transit.page;
 
 import org.chromium.base.TriState;

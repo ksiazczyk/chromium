@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebappTestHelper
+// summary: Test helper that creates minimal webapp intents and intent data providers for Chrome Android webapp tests.
+// ---
+
 package org.chromium.chrome.test.util.browser.webapps;
 
 import android.content.Intent;

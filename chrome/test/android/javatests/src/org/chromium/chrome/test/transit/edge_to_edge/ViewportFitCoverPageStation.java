@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Viewport-fit=cover page test station
+// summary: Test station for a page with viewport-fit=cover that requires the edge-to-edge controller and checks the bottom chin is on display.
+// ---
+
 package org.chromium.chrome.test.transit.edge_to_edge;
 
 import static org.chromium.base.test.transit.Condition.whether;

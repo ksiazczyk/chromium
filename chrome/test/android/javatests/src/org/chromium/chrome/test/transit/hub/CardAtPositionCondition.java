@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Card at position condition
+// summary: Test condition verifying that the card at a given position in the tab switcher recycler view matches the expected card view.
+// ---
+
 package org.chromium.chrome.test.transit.hub;
 
 import android.view.View;

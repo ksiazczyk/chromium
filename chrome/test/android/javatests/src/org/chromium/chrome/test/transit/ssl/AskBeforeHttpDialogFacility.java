@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ask-before-HTTP dialog facility for transit tests
+// summary: Defines a transit test facility modeling the Ask-before-HTTP (HTTPS-First Mode) fallback dialog, with actions to click Learn more, Go back, Continue, or press back.
+// ---
+
 package org.chromium.chrome.test.transit.ssl;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withText;

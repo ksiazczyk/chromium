@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tips opt-in bottom sheet test facility
+// summary: Test facility modeling the Tips Notifications opt-in bottom sheet, exposing its views plus accept and close button actions.
+// ---
+
 package org.chromium.chrome.test.transit.notifications;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withId;

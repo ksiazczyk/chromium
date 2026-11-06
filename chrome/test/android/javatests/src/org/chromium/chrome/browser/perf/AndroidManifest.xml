@@ -4,6 +4,12 @@
  * found in the LICENSE file.
 -->
 
+<!--docerion
+type: test
+title: Android manifest for baseline profile benchmark tests
+summary: Instrumentation manifest for the Chrome startup benchmark tests, declaring permissions and the AndroidJUnitRunner while removing the androidx startup initialization provider.
+-->
+
 <manifest
       xmlns:android="http://schemas.android.com/apk/res/android"
       xmlns:tools="http://schemas.android.com/tools"

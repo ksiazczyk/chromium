@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox entered text facility
+// summary: Test facility representing the omnibox with text entered in conventional mode, declaring delete and mic button conditions and text entry actions.
+// ---
+
 package org.chromium.chrome.test.transit.omnibox;
 
 import static androidx.test.espresso.matcher.ViewMatchers.isDescendantOfA;

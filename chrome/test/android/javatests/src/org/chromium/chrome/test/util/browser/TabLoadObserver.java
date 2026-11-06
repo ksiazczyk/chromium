@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabLoadObserver
+// summary: TabObserver test helper that loads a URL and waits for page load, rendering, and optional title and scale checks.
+// ---
+
 package org.chromium.chrome.test.util.browser;
 
 import org.hamcrest.Matchers;

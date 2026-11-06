@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BySelectorIndexUi2LocatorTest
+// summary: Robolectric tests for BySelectorIndexUi2Locator covering first, second, out-of-bounds and negative index lookups.
+// ---
+
 package org.chromium.chrome.test.pagecontroller.utils;
 
 import androidx.test.uiautomator.By;

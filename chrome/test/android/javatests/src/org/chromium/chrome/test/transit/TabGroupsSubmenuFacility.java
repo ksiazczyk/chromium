@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab Groups submenu facility for the app menu
+// summary: Scrollable facility modeling the Tab Groups submenu popup in the app menu, declaring expected and absent group items and supporting flows such as creating a new tab group.
+// ---
+
 package org.chromium.chrome.test.transit;
 
 import static androidx.test.espresso.matcher.ViewMatchers.hasDescendant;

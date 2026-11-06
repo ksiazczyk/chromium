@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeBrowserTestsInstrumentationTestRunner
+// summary: Instrumentation test runner for android_browsertests that adds the chrome:blank URL to the shard main intent before launching tests.
+// ---
+
 package org.chromium.android_browsertests_apk;
 
 import android.content.Intent;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DisableChromeAnimations JUnit rule for compositor animations
+// summary: JUnit 4 rule that puts CompositorAnimationHandler into testing mode before a test and restores it afterwards, disabling animations during tests.
+// ---
+
 package org.chromium.chrome.test.util.browser.compositor.layouts;
 
 import org.junit.rules.ExternalResource;

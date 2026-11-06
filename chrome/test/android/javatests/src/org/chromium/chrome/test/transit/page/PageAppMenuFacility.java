@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PageAppMenuFacility base class for tab app menus
+// summary: Test facility modeling the app menu opened in a tab, declaring shared menu items and actions such as opening new tabs, bookmarks and settings.
+// ---
+
 package org.chromium.chrome.test.transit.page;
 
 import static org.junit.Assert.assertNotNull;

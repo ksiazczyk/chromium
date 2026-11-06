@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for edge-to-edge test utilities
+summary: Delegates ownership of this edge-to-edge test utility directory to the browser UI edge-to-edge OWNERS file.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Soft keyboard facility for transit tests
+// summary: Facility representing the shown soft keyboard, which dismisses it when exiting and waits for affected view elements to settle after the relayout.
+// ---
+
 package org.chromium.chrome.test.transit;
 
 import android.app.Activity;

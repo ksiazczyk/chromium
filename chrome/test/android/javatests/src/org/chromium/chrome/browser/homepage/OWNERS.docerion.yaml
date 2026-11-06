@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Ownership file that delegates review responsibility to the OWNERS file of the homepage source directory.

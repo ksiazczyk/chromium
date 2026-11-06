@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Archived tabs dialog station
+// summary: Test station modeling the archived tabs dialog, declaring its views and providing transitions to archive settings and back to the regular tab switcher.
+// ---
+
 package org.chromium.chrome.test.transit.hub;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withContentDescription;

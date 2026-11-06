@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sign-in bottom sheet test facility
+// summary: Test facility representing the sign-in bottom sheet, declaring its expected sign-in-to-Chrome text as a descendant view for transit-based UI tests.
+// ---
+
 package org.chromium.chrome.test.transit.signin;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withText;

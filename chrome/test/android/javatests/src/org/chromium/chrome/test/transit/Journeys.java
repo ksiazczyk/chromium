@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Helper for multi-stage transit test journeys
+// summary: Utility class with static helpers to prepare regular and incognito tabs, work with tab groups and the tab switcher, and run extended multi-stage trips in Chrome transit tests.
+// ---
+
 package org.chromium.chrome.test.transit;
 
 import static org.junit.Assert.assertTrue;

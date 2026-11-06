@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeTabbedActivity entry points
+// summary: Entry point helpers that start ChromeTabbedActivity in states such as blank page, URL, NTP, or launcher for Public Transit tests.
+// ---
+
 package org.chromium.chrome.test.transit;
 
 import static org.chromium.chrome.browser.url_constants.UrlConstantResolver.getOriginalNativeNtpUrl;

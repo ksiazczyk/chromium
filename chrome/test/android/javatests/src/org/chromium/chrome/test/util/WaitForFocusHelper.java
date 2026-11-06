@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: View focus wait helper for tests
+// summary: An OnFocusChangeListener wrapper that lets tests acquire focus for a view and wait until the focus callback fires.
+// ---
+
 package org.chromium.chrome.test.util;
 
 import android.view.View;
